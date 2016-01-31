@@ -1,0 +1,378 @@
+1
+0:0:0,0 --> 0:0:5,0
+(music-dark/mysterious/percussive)
+
+
+2
+0:0:5,0 --> 0:0:13,0
+Adam Steltzner 'When people look at it...  uhhh, it looks crazy. That's a very natural thing.'
+
+
+3
+0:0:13,0 --> 0:0:18,0
+'Sometimes when we look at it, it looks crazy.'
+
+
+4
+0:0:18,0 --> 0:0:25,0
+'It is the result of reasoned, engineering thought.'
+
+
+5
+0:0:25,0 --> 0:0:28,0
+'But it still looks crazy.'
+
+
+6
+0:0:28,0 --> 0:0:32,0
+'From the top of the atmosphere, down to the surface-'
+
+
+7
+0:0:32,0 --> 0:0:34,0
+'It takes us seven minutes.'
+
+
+8
+0:0:34,0 --> 0:0:42,0
+'It takes 14 minutes or so for the signal from the spacecraft to make it to Earth-'
+
+
+9
+0:0:42,0 --> 0:0:46,0
+' that's how far Mars is away from us.'
+
+
+10
+0:0:46,0 --> 0:0:53,0
+'So, when we first get word that we've touched the top of the atmosphere,'
+
+
+11
+0:0:53,0 --> 0:0:55,0
+'the vehicle has been alive...'
+(music intensifies- heavier percussion)
+
+
+12
+0:0:55,0 --> 0:1:7,0
+'or dead, on the surface, for at least seven minutes.'
+(music crescendos- dark pounding drums)
+
+
+13
+0:1:7,0 --> 0:1:12,0
+Tom Rivellini: 'Entry, descent and landing, also known as EDL, is referred to as the '7 minutes of terror'.'
+
+
+14
+0:1:12,0 --> 0:1:21,0
+'Because we've got literally seven minutes to get from the top of the atmosphere to the surface of Mars-'
+
+
+15
+0:1:21,0 --> 0:1:26,0
+'going from 13,000 miles an hour to zero, in perfect sequence, perfect choreography, perfect timing...'
+
+
+16
+0:1:26,0 --> 0:1:31,0
+'and the computer has to do it all by itself, with no help from the ground.'
+
+
+17
+0:1:31,0 --> 0:1:35,0
+'If any one thing doesn't work just right, it's game over.'
+
+
+18
+0:1:35,0 --> 0:1:37,0
+(whoosh)
+(music -tension/drums steadily building)
+
+
+19
+0:1:37,0 --> 0:1:41,0
+Adam Steltzner: 'We slam into the atmosphere and develop so much aerodynamic drag,'
+
+
+20
+0:1:41,0 --> 0:1:45,0
+'our heat shield, it heats up and it glows like the surface of the sun.'
+
+
+21
+0:1:45,0 --> 0:1:49,0
+'1600 degrees!'
+
+
+22
+0:1:49,0 --> 0:1:54,0
+Miguel San Martin: 'During entry, the vehicle is not only slowing down- violently, though the atmosphere,'
+
+
+23
+0:1:54,0 --> 0:2:2,0
+'but also we are guiding it, like an airplane! to be able to land in a very narrow, constrained space.'
+
+
+24
+0:2:2,0 --> 0:2:9,0
+'This is one of the biggest challenges that we are facing, and one that we have never attempted at Mars.'
+
+
+25
+0:2:9,0 --> 0:2:12,0
+Tom Rivellini: 'Mars- it's actually really hard to slow down,'
+
+
+26
+0:2:12,0 --> 0:2:15,0
+'because it has just enough atmosphere, that you have to deal with it-'
+
+
+27
+0:2:15,0 --> 0:2:17,0
+'otherwise, it will destroy your spacecraft.'
+
+
+28
+0:2:17,0 --> 0:2:23,0
+'On the other hand, it doesnt have enough atmosphere to finish the job.'
+
+
+29
+0:2:23,0 --> 0:2:25,0
+'We're still going about 1000 miles an hour.'
+
+
+30
+0:2:25,0 --> 0:2:28,0
+'So at that point we use a parachute.'
+
+
+31
+0:2:28,0 --> 0:2:32,0
+Anita Sengupta: 'The parachute is the largest and strongest super-sonic parachute-'
+
+
+32
+0:2:32,0 --> 0:2:33,0
+'that we've ever built to date.'
+
+
+33
+0:2:33,0 --> 0:2:40,0
+'It has to withstand 65,000 pounds of force! even though the parachute itself only weighs about 100 pounds.'
+
+
+34
+0:2:40,0 --> 0:2:44,0
+(blast-whoosh)
+
+
+35
+0:2:44,0 --> 0:2:49,0
+Tom Rivellini: 'When it opens up that fast, it's a neck-snapping 9G's!'
+
+
+36
+0:2:49,0 --> 0:2:51,0
+Steve Lee: 'At that point we have to get that heat shield off.'
+
+
+37
+0:2:51,0 --> 0:2:55,0
+'It's like a big lens cap, blocking our view of the ground to the radar.'
+
+
+38
+0:2:55,0 --> 0:3:0,0
+'The radar has to take just the right altitude and velocity measurements at just the right time-'
+
+
+39
+0:3:0,0 --> 0:3:2,0
+'or the rest of the landing sequence wont work.'
+
+
+40
+0:3:2,0 --> 0:3:6,0
+(heavy wind sound)
+(music pulsing/intense)
+
+
+41
+0:3:6,0 --> 0:2:8,0
+Tom Rivellini: 'This big huge parachute that we've got-'
+
+
+42
+0:2:8,0 --> 0:3:11,0
+'it'll only slow us down to about 200 miles an hour.'
+
+
+43
+0:3:11,0 --> 0:3:14,0
+'And that's not slow enough to land.'
+
+
+44
+0:3:14,0 --> 0:3:17,0
+'So we have no choice but we've got to cut it off!'
+
+
+45
+0:3:17,0 --> 0:3:18,0
+(whoosh)
+(music cuts)
+
+
+46
+0:3:18,0 --> 0:3:20,0
+'And then come down on rockets.'
+
+
+47
+0:3:20,0 --> 0:3:21,0
+(engines blast)
+
+
+48
+0:3:21,0 --> 0:3:22,0
+'Once we turn those rocket motors on-'
+
+
+49
+0:3:22,0 --> 0:3:25,0
+'if we dont do something, we're just going to smack right back into the parachute!'
+
+
+50
+0:3:25,0 --> 0:3:26,0
+(engines blast)
+(music- big pounding drums)
+
+
+51
+0:3:26,0 --> 0:3:30,0
+'So the first thing we do is make this really radical 'divert maneuver''
+
+
+52
+0:3:30,0 --> 0:3:32,0
+'We fly off to the side.'
+
+
+53
+0:3:32,0 --> 0:3:38,0
+Adam Steltzner: 'Diverting away from the parachute, killing our horizontal velocity and our vertical velocity'
+
+
+54
+0:3:38,0 --> 0:3:44,0
+'getting the rover moving straight up and down, so it can look at the surface with its radar-'
+
+
+55
+0:3:44,0 --> 0:3:45,0
+'and see where we're gonna land.'
+
+
+56
+0:3:45,0 --> 0:3:48,0
+'And we head straight down'
+
+
+57
+0:3:48,0 --> 0:3:50,0
+'to the bottom of a crater'
+
+
+58
+0:3:50,0 --> 0:3:53,0
+'right beside a six kilometer-high mountain!'
+
+
+59
+0:3:53,0 --> 0:3:55,0
+(music- grand)
+
+
+60
+0:3:55,0 --> 0:3:58,0
+Anita Sengupta: 'We can't get those rocket engines too close to the ground.'
+
+
+61
+0:3:58,0 --> 0:4:2,0
+'Because if we were to descent propulsively all the way to the ground-
+
+
+62
+0:4:2,0 --> 0:4:6,0
+'we would essentially create this massive dust cloud. That dust cloud could then land on the rover-'
+
+
+63
+0:4:6,0 --> 0:4:9,0
+'It could damage mechanisms and it could damage instruments.'
+
+
+64
+0:4:9,0 --> 0:4:14,0
+'So the way we solve that problem, is by using the skycrane maneuver.'
+
+
+65
+0:4:14,0 --> 0:4:20,0
+Adam Steltzner: '20 meters above the surface, we have to lower the rover below us-'
+
+
+66
+0:4:20,0 --> 0:4:23,0
+'on a tether that's 21 feet long.'
+
+
+67
+0:4:23,0 --> 0:4:27,0
+'And then deposit it, on its wheels, on the surface.'
+
+
+68
+0:4:27,0 --> 0:4:28,0
+(music- intense and climactic)
+
+
+69
+0:4:28,0 --> 0:4:31,0
+Miguel San Martin: 'As the rover touches down and is now on the ground,'
+
+
+70
+0:4:31,0 --> 0:4:34,0
+'the descent stage- it's on a collision course with the rover!'
+
+
+71
+0:4:34,0 --> 0:4:39,0
+'We must cut the bridal immediately and fly the descent stage to a safe distance from the rover.'
+
+
+72
+0:4:39,0 --> 0:4:44,0
+(music crescendos and ends)
+(thunderous rockets echo)
+
+
+73
+0:4:44,0 --> 0:4:50,0
+(music-final orchestra hit over dark drone)
+(wind in background)
+
+
+74
+0:4:50,0 --> 0:6:50,0
+(music- dark drone continues with faint ticking sound)
+
+

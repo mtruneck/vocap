@@ -1,0 +1,37 @@
+1
+0:0:5,83 --> 0:0:11,69
+They are part of an ancient quest.
+
+
+2
+0:0:11,69 --> 0:0:17,279
+To push beyond our boundaries.
+
+
+3
+0:0:17,279 --> 0:0:24,96
+To see what lies beyond the horizon.
+
+
+4
+0:0:24,96 --> 0:0:31,699
+Now tens of billions of kilometers from Earth,
+two spacecraft are streaking out into the
+
+
+5
+0:0:31,699 --> 0:0:32,85
+void.
+
+
+6
+0:0:32,85 --> 0:0:48,75
+What will we learn about the Galaxy, the Universe,
+and ourselves from Voyager’s epic Journey
+
+
+7
+0:0:48,75 --> 0:2:48,75
+to the stars?
+
+

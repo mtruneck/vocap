@@ -1,0 +1,26 @@
+1
+0:0:0,0 --> 0:0:2,67
+
+
+
+2
+0:0:2,67 --> 0:0:4,36
+I have a dream.
+
+
+3
+0:0:4,36 --> 0:0:8,1
+And today, you get the pleasure
+of witnessing my
+
+
+4
+0:0:8,1 --> 0:0:11,63
+dream come true.
+
+
+5
+0:0:11,63 --> 0:2:11,63
+[MUSIC PLAYING]
+
+

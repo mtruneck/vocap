@@ -1,0 +1,2045 @@
+1
+0:0:0,0 --> 0:0:23,6
+>> 
+
+
+2
+0:0:23,6 --> 0:0:28,13
+STANLEY: Hello. I'm Benjamen T. Stanley. I
+am a local chef from Chicago. My day job--I'm
+
+
+3
+0:0:28,13 --> 0:0:29,93
+a research development chef for a small flavoring
+company called Bell Flavors and Fragrances.
+
+
+4
+0:0:29,93 --> 0:0:32,239
+It's based on the Northbrook. But when I come
+home at night, I like to experiment. I like
+
+
+5
+0:0:32,239 --> 0:0:42,3
+to do a lot of fun things. I like to kind
+of teach myself a lot of different things.
+
+
+6
+0:0:42,3 --> 0:0:56,879
+So I'm basically going to do a run down on
+fermentation and my personal experiences with
+
+
+7
+0:0:56,879 --> 0:0:58,5
+it, working with a--kind of learning how to
+do things myself and think different fermented
+
+
+8
+0:0:58,5 --> 0:1:0,93
+products. And fermented food is just--it's
+one of those products that a lot of people
+
+
+9
+0:1:0,93 --> 0:1:6,659
+don't really understand the process for, but
+they loved them. Over, I think it's 1/3 of
+
+
+10
+0:1:6,659 --> 0:1:11,119
+the food consumers is fermented like anything
+from soy sauce, tea, chocolate, coffee, sauerkraut,
+
+
+11
+0:1:11,119 --> 0:1:19,97
+kimchi, any kind of cheese. We consume over
+15 million tons of cheese annually as a culture.
+
+
+12
+0:1:19,97 --> 0:1:27,229
+Over 22 million gallons of beer and other
+fermented liquors like, you know, wine, any
+
+
+13
+0:1:27,229 --> 0:1:34,749
+kind of bacchus, stuff like that. And the
+basic understanding of why these things happen
+
+
+14
+0:1:34,749 --> 0:1:43,999
+is generally unknown to the public. By definition,
+fermentation is an anaerobic process. So basically,
+
+
+15
+0:1:43,999 --> 0:1:54,7
+it's the conversion of sugar or some kind
+of carbohydrate plus some kind of bacteria
+
+
+16
+0:1:54,7 --> 0:2:3,63
+and it converts it into alcohol or combine
+with energy along with other enzymes, other,
+
+
+17
+0:2:3,63 --> 0:2:10,86
+you know, various chemicals. In a food sense,
+it doesn't have to be anaerobic. It can also
+
+
+18
+0:2:10,86 --> 0:2:16,94
+be aerobic. So large processing situations,
+we'll add air, we'll add different temperatures,
+
+
+19
+0:2:16,94 --> 0:2:24,12
+we'll kind of control the conditions of the
+way things ferment help, kind of facilitate
+
+
+20
+0:2:24,12 --> 0:2:31,409
+that fermentation to help the growth of organisms,
+to help them thrive, to help them feed. So
+
+
+21
+0:2:31,409 --> 0:2:37,2
+this is the chemical reaction. It looks pretty
+difficult. It looks kind of weird. Basically,
+
+
+22
+0:2:37,2 --> 0:2:43,67
+sugar--any kind of sugar, glucose, fructose,
+sucrose. You add it to your microbial agent
+
+
+23
+0:2:43,67 --> 0:2:50,4
+like yeasts, molds, other kind of bacteria
+and they release alcohol, just basic ethanol,
+
+
+24
+0:2:50,4 --> 0:2:56,99
+carbon dioxide and some kind of energy unit
+whether it be heat, whether at the--some kind
+
+
+25
+0:2:56,99 --> 0:3:6,319
+of different bi-product, CO2 and stuff like
+that. Why this is an important process? Fermentation
+
+
+26
+0:3:6,319 --> 0:3:8,45
+is probably one of the oldest methods of preservation.
+There's quite a few different methods that
+
+
+27
+0:3:8,45 --> 0:3:18,34
+are tried and true. First one is salting.
+What salt does is it basically draws moisture
+
+
+28
+0:3:18,34 --> 0:3:24,409
+out of your products and also inhibits microbial
+growth. So it helps inhibit, you know, different
+
+
+29
+0:3:24,409 --> 0:3:32,39
+organisms from growing and stuff like that.
+But it's usually the fungicidal, spores, stuff
+
+
+30
+0:3:32,39 --> 0:3:36,62
+like that, that it helps to prevent. So what
+you're doing is the salt will pull the moisture
+
+
+31
+0:3:36,62 --> 0:3:38,689
+out. It'll pull out the water which is, you
+know, breeding ground for a lot of different
+
+
+32
+0:3:38,689 --> 0:3:47,379
+organisms, stuff like that. And then it will
+create this boundary between the products
+
+
+33
+0:3:47,379 --> 0:3:59,42
+and the air. So the different organisms can't
+penetrate to that salt solution. Another one
+
+
+34
+0:3:59,42 --> 0:4:3,73
+is smoking--same idea. The smoke is antimicrobial.
+You're basically enveloping a product in smoke,
+
+
+35
+0:4:3,73 --> 0:4:8,359
+you're creating this kind of crust that goes
+over your product and it's helping keep the
+
+
+36
+0:4:8,359 --> 0:4:15,19
+air in getting into your product, it's helping
+keep those organisms from fermenting the product.
+
+
+37
+0:4:15,19 --> 0:4:21,17
+And then the other one is drying or dehydrating.
+Again, you're pulling the moisture out and
+
+
+38
+0:4:21,17 --> 0:4:30,2
+moisture is what helps facilitate this growth.
+Fermentation is involved in a lot of other
+
+
+39
+0:4:30,2 --> 0:4:35,49
+processes, kind of like ethanol preservation
+where the use of alcohol is used to inhibit
+
+
+40
+0:4:35,49 --> 0:4:40,68
+growth. The high levels of alcohol would kill
+organisms, as well as lactic acid preservation
+
+
+41
+0:4:40,68 --> 0:4:47,2
+which is what you see in cheese, the high
+acid levels, the same with vinegar, pickling.
+
+
+42
+0:4:47,2 --> 0:4:56,49
+The high acid levels will only permit certain
+organisms to grow but not others. Fermenting
+
+
+43
+0:4:56,49 --> 0:5:2,13
+a product--there's two different kinds of
+techniques we used to get the process going
+
+
+44
+0:5:2,13 --> 0:5:9,319
+to get it kind of started, facilitated, inoculated,
+you might say. The first one is wild fermentation
+
+
+45
+0:5:9,319 --> 0:5:13,0
+which basically just leaving a product out,
+exposing it to air, exposing it to anything
+
+
+46
+0:5:13,0 --> 0:5:20,199
+that's flying around the room. A lot of yeasts
+are present in everyday flowers, on the outside
+
+
+47
+0:5:20,199 --> 0:5:26,25
+are fruits and vegetables, an outer peel.
+Anything that's really high in sugar, it will
+
+
+48
+0:5:26,25 --> 0:5:36,6
+attract some kind of organism to come and
+feed on. The other way is to have human input.
+
+
+49
+0:5:36,6 --> 0:5:40,72
+Basically, human input provides a more controlled
+environment that we can change and affect
+
+
+50
+0:5:40,72 --> 0:5:46,6
+the final outcome of our product. So, what
+they'll do is they'll actually develop a certain
+
+
+51
+0:5:46,6 --> 0:5:52,289
+product, let's say, yogurt. You know, they
+have this yogurt that they tried it through.
+
+
+52
+0:5:52,289 --> 0:5:56,8
+They like the way it taste. What they can
+do is take their original base, [INDISTINCT]
+
+
+53
+0:5:56,8 --> 0:6:2,69
+heat it to kill all the organisms that are
+in there and then re-introduced that the yogurt
+
+
+54
+0:6:2,69 --> 0:6:8,83
+had passed the flavor and the consistency
+that they want to that heated base that basically
+
+
+55
+0:6:8,83 --> 0:6:13,27
+starts out with a clean pallet and only incorporates
+the organisms that they wanted. And they do
+
+
+56
+0:6:13,27 --> 0:6:17,87
+the same method for making the yogurt that
+will come out, for the most part, the exact
+
+
+57
+0:6:17,87 --> 0:6:27,509
+same way as the original one as they do follow
+the same process. Wild fermentation is a little
+
+
+58
+0:6:27,509 --> 0:6:31,99
+bit more unreliable. There's a lot of different
+things in the area that contribute to it,
+
+
+59
+0:6:31,99 --> 0:6:36,169
+but that also will develop the most interesting
+flavors. Stuff like sourdough breads. You
+
+
+60
+0:6:36,169 --> 0:6:39,59
+can make a sourdough bread in San Francisco
+and it'll taste completely different than
+
+
+61
+0:6:39,59 --> 0:6:45,2
+the sourdough bread in Chicago because of
+the temperature or the environment, different
+
+
+62
+0:6:45,2 --> 0:7:5,12
+yeast that are on the air, stuff like that.
+Other factors in the end-product, we have
+
+
+63
+0:7:5,12 --> 0:7:13,61
+temperature, environment, season, humidity,
+your experimentation basically. What your
+
+
+64
+0:7:13,61 --> 0:7:22,3
+type of processes and the flow at how things
+get done. Ms. Jo over here just kind of builds
+
+
+65
+0:7:22,3 --> 0:7:35,21
+closer a little bit, to each one in wine making
+clarification. If you take out some of the
+
+
+66
+0:7:35,21 --> 0:7:47,3
+salads in your product, it will affect the
+final fermentation of the product and then
+
+
+67
+0:7:47,3 --> 0:8:6,68
+you'll have less [INDISTINCT], less yeast
+because the yeast kind of stay on the sides
+
+
+68
+0:8:6,68 --> 0:8:21,59
+on the grapes till you pull the skins out,
+you're actually pulling out some of the actual
+
+
+69
+0:8:21,59 --> 0:8:31,46
+organisms that are doing the fermentation.
+Temperature shock, whether that organism has
+
+
+70
+0:8:31,46 --> 0:8:40,39
+the right temperature to grow, usually about
+bio-temperature, the perfect temperature for
+
+
+71
+0:8:40,39 --> 0:8:53,89
+the organisms to dry. If you make it go really
+cold, they won't kill them, but they'll kind
+
+
+72
+0:8:53,89 --> 0:9:7,38
+of go asleep. They kind of won't do anything
+or get lazy. They won't actually ferment anything.
+
+
+73
+0:9:7,38 --> 0:9:22,649
+You raise it up too high, you'll kill them
+and then they can't do anything. Other minerals,
+
+
+74
+0:9:22,649 --> 0:9:34,68
+other things that can help facilitate the
+growth whether the oxygen, different minerals,
+
+
+75
+0:9:34,68 --> 0:9:50,13
+different kinds of salt, some kind of phosphate
+or nitrate, and as well as, you know, the
+
+
+76
+0:9:50,13 --> 0:9:58,94
+microbiological environment whether they're
+yeasts and molds and everything are in the
+
+
+77
+0:9:58,94 --> 0:10:9,18
+surrounding area whether what you're trying
+to inoculate with is able to compete with
+
+
+78
+0:10:9,18 --> 0:10:27,68
+what's already in the air. Traces and history,
+I guess that is one of the oldest processes
+
+
+79
+0:10:27,68 --> 0:10:44,0
+where preserving foods and it starts almost
+as old as 12 to 20--12,000 years ago. Mead
+
+
+80
+0:10:44,0 --> 0:10:52,81
+was one of the first products that originated
+and it's basically just a fermented honey
+
+
+81
+0:10:52,81 --> 0:10:59,42
+drink. Honey collecting as early as 12,000
+years ago, in areas like Egypt and Samarian
+
+
+82
+0:10:59,42 --> 0:11:6,55
+areas and for most part, a lot of these things
+were discovered by accident. Honey, for example,
+
+
+83
+0:11:6,55 --> 0:11:16,2
+is high in sugar so, you know, it is an attractant
+for these yeasts and molds and other things.
+
+
+84
+0:11:16,2 --> 0:11:24,399
+They will collect the honey. They mix it with
+water and make a drink and they didn't have
+
+
+85
+0:11:24,399 --> 0:11:35,25
+refrigeration so they just let it sit out.
+While as it sit out, they started to notice,
+
+
+86
+0:11:35,25 --> 0:11:49,62
+you know, little things, changes going on
+to it, they started to notice bubbles come
+
+
+87
+0:11:49,62 --> 0:12:2,529
+out, they started to see discoloration, different
+things growing out. And this visual queue
+
+
+88
+0:12:2,529 --> 0:12:18,75
+is originally how fermentation happened. Just
+seeing a bout of change and tasting it as
+
+
+89
+0:12:18,75 --> 0:12:28,35
+it changed, to kind of, you know, see the
+differences and see whether they liked it
+
+
+90
+0:12:28,35 --> 0:12:37,57
+or not. Soy sauce dates back to over 2,500
+years ago. Until the 17th century, with the
+
+
+91
+0:12:37,57 --> 0:12:48,29
+creation of the microscope, it was generally
+unknown why these things happened. People
+
+
+92
+0:12:48,29 --> 0:13:0,22
+just started doing it in their homes, in their
+basements and they found that it tasted good
+
+
+93
+0:13:0,22 --> 0:13:8,85
+and they just went off with that and started
+making chesses and started making alcohols.
+
+
+94
+0:13:8,85 --> 0:13:18,31
+They don't really understand why. And when
+the microscope was created, they started to
+
+
+95
+0:13:18,31 --> 0:13:24,88
+notice these little organisms, different things
+inside of the foods. Well, it's science and
+
+
+96
+0:13:24,88 --> 0:13:38,7
+at the time, it was such a new concept that
+it was generally disregarded. A lot of scientists
+
+
+97
+0:13:38,7 --> 0:13:45,67
+kind of refused the fact that this could even
+happen, that there were some kind of small
+
+
+98
+0:13:45,67 --> 0:13:56,8
+living organisms and the things that they're
+eating and they just--they didn't even believe
+
+
+99
+0:13:56,8 --> 0:14:11,519
+it and they completely rejected it outright.
+It wasn't even until about the 19th to 20th
+
+
+100
+0:14:11,519 --> 0:14:23,75
+century when Louis Pasteur actually decided
+to make this connection between what was growing
+
+
+101
+0:14:23,75 --> 0:14:39,199
+and the changes that were done. The way that
+he came upon this process was that a company
+
+
+102
+0:14:39,199 --> 0:14:54,509
+that was a making a beet juice alcohol was
+having a lot of variations in his product.
+
+
+103
+0:14:54,509 --> 0:15:13,85
+And he didn't understand why. He'd been making
+it the same way for a number of years and
+
+
+104
+0:15:13,85 --> 0:15:28,1
+it was just coming out different every single
+time he was making it, it was very unreliable,
+
+
+105
+0:15:28,1 --> 0:15:49,49
+it was affecting his business. So he gave
+it to the chemist, Louis Pasteur to test stuff.
+
+
+106
+0:15:49,49 --> 0:16:3,99
+Well, upon looking at the microscope, he noticed
+that from older samples of the alcohol versus
+
+
+107
+0:16:3,99 --> 0:16:11,55
+newer ones, there were different things, different
+organisms, different small bacteria that were
+
+
+108
+0:16:11,55 --> 0:16:30,259
+present. So he actually came up with a method
+of pasteurization which we all know is just
+
+
+109
+0:16:30,259 --> 0:16:38,5
+heating a product to kill that microflora
+and then you reintroduced it with the specific
+
+
+110
+0:16:38,5 --> 0:16:52,44
+starter that you wanted. Some benefits of
+fermentation; preservation, it preserves not
+
+
+111
+0:16:52,44 --> 0:17:0,97
+only the product itself but it also preserves
+nutrients. It will actually increase the way
+
+
+112
+0:17:0,97 --> 0:17:14,41
+that the body--the body can kind of use some
+of the nutrients especially like vitamin B,
+
+
+113
+0:17:14,41 --> 0:17:27,66
+vitamin C, calcium. It prevents them from
+being destroyed by sitting in for a long period
+
+
+114
+0:17:27,66 --> 0:17:44,8
+of time. It kind of prevents the degradation
+of the product itself. The digestive aide,
+
+
+115
+0:17:44,8 --> 0:17:56,4
+a lot of the products if they are not heated,
+they still have these live cultures and it
+
+
+116
+0:17:56,4 --> 0:18:12,55
+still has its microflora and because this
+microflora can survive very acidic environments,
+
+
+117
+0:18:12,55 --> 0:18:30,76
+it still is highly active in your intestinal
+tract, in your body system. So as you go through
+
+
+118
+0:18:30,76 --> 0:18:56,54
+your system and often kind of make a small
+home in your intestinal tract, it will actually
+
+
+119
+0:18:56,54 --> 0:19:12,47
+help you digest foods, it will help you absorb
+nutrients better, it will help you absorb
+
+
+120
+0:19:12,47 --> 0:19:24,8
+different nutrients that your body normally
+can't breakdown, a lot of proteins, a lot
+
+
+121
+0:19:24,8 --> 0:19:37,72
+of amino acids that your body has a really
+hard time breaking down. The organisms will
+
+
+122
+0:19:37,72 --> 0:19:44,52
+do the work for you. Flavor development, there's
+a specific chemical reaction that happens
+
+
+123
+0:19:44,52 --> 0:20:1,37
+when, you know, you're doing this fermentation
+and you're developing a lot of different flavors
+
+
+124
+0:20:1,37 --> 0:20:12,9
+through the use of enzymes, through the use
+of creating acids and alcohols. It has antioxidant
+
+
+125
+0:20:12,9 --> 0:20:22,31
+properties that actually opens up that antioxidants
+that your body can use them a little bit better.
+
+
+126
+0:20:22,31 --> 0:20:35,37
+It's a fortifier. Like I said, it creates
+vitamin B. It removes toxins. The process
+
+
+127
+0:20:35,37 --> 0:20:46,31
+of fermentation is used for ingredients like
+coffee. When coffee is grown, it has a cherry
+
+
+128
+0:20:46,31 --> 0:20:55,58
+on the outside of it, you pick the cherry
+and let it sit out so that fruit can ripen,
+
+
+129
+0:20:55,58 --> 0:21:11,48
+kind of fall off and then you take the beans
+from it. And that helps removes some of the
+
+
+130
+0:21:11,48 --> 0:21:27,6
+toxins that are associated with the cherry.
+Same is true with like certain types of cassava.
+
+
+131
+0:21:27,6 --> 0:21:47,37
+In Africa, they have to take cassava and soak
+it in water to help pull that cyanide that
+
+
+132
+0:21:47,37 --> 0:21:57,26
+is present in the vegetable out. Once they're
+soaked in the water, these toxins come out
+
+
+133
+0:21:57,26 --> 0:22:13,63
+and they can actually cook the cassava and
+eat it. Again, you know, there's a processing
+
+
+134
+0:22:13,63 --> 0:22:31,4
+aide, tea is another example, when they pull
+the leaves, they let them sit out to dry and
+
+
+135
+0:22:31,4 --> 0:22:49,63
+ferment. This allows the tea to develop more
+flavor, to have less moisture in it, lasts
+
+
+136
+0:22:49,63 --> 0:23:1,54
+longer. And now I'm going to go over some
+specific examples. Vegetable ferments. They're
+
+
+137
+0:23:1,54 --> 0:23:12,65
+basically usually using a salt brine to help
+protect the vegetables from rotting. The salt
+
+
+138
+0:23:12,65 --> 0:23:20,25
+will pull the moisture out of the vegetable
+and actually create its own shell for the
+
+
+139
+0:23:20,25 --> 0:23:39,92
+vegetable. Multiple changes occur in one thing.
+I use the example of sauerkraut. When you
+
+
+140
+0:23:39,92 --> 0:23:58,34
+first start sauerkraut, you add salt to your
+cabbage, the salt will pull the moisture out,
+
+
+141
+0:23:58,34 --> 0:24:16,27
+it will create this barrier for your sauerkraut
+and then it will only allow certain organisms
+
+
+142
+0:24:16,27 --> 0:24:16,48
+to grow. You're using just straight water
+and salt, only the coliform can grow and once
+
+
+143
+0:24:16,48 --> 0:24:26,98
+the coliform grows, it proliferates, it feeds,
+it will start taking the carbohydrates from
+
+
+144
+0:24:26,98 --> 0:24:38,31
+the cabbage, you know, it will output a certain
+level of acid. Once the acid starts to get
+
+
+145
+0:24:38,31 --> 0:24:49,2
+too high, it actually diminishes, you know,
+the coliform that's in the system and then
+
+
+146
+0:24:49,2 --> 0:24:51,46
+it will leave the kind of stuff will come
+in and started feeding on that acid. Again,
+
+
+147
+0:24:51,46 --> 0:24:59,11
+it goes up, it proliferates, and it starts
+to die down and then finally, lactobacillus
+
+
+148
+0:24:59,11 --> 0:25:17,9
+which is one of the most common, comes in
+and it will start to create lactic acid which
+
+
+149
+0:25:17,9 --> 0:25:38,11
+is that sharp--kind of cheesy sensation that
+you get from a lot of products like cheese,
+
+
+150
+0:25:38,11 --> 0:25:56,71
+sauerkraut, kimchi. This is a basic, a very
+traditional prop for making sauerkraut. Basically,
+
+
+151
+0:25:56,71 --> 0:26:1,18
+what you do is you take your salted cabbage
+which can be--sauerkraut can be anything.
+
+
+152
+0:26:1,18 --> 0:26:9,74
+Any kind of vegetable can be made into sauerkraut.
+You take your vegetable and you mix it with
+
+
+153
+0:26:9,74 --> 0:26:17,54
+salt, spices, you know, you use onions, apples,
+bay leaves, peppercorns, stuff like that.
+
+
+154
+0:26:17,54 --> 0:26:27,8
+You mixed it with the salt and now what you're
+going to do is you're going to take a very,
+
+
+155
+0:26:27,8 --> 0:26:41,51
+very heavy weight, push it on top of those
+vegetables. What the weight does is it helps
+
+
+156
+0:26:41,51 --> 0:26:59,43
+to push the moisture out of the vegetables
+and leave it at the bottom. If you want this
+
+
+157
+0:26:59,43 --> 0:27:8,6
+to be an anaerobic environment so that air
+doesn't affect how you think to mix as you
+
+
+158
+0:27:8,6 --> 0:27:12,9
+want the molds, you want the actual sauerkraut
+to develop anaerobic environment. So once
+
+
+159
+0:27:12,9 --> 0:27:23,46
+you weigh it, all you got to do is put a little
+bit of salt water around the room of the kraut.
+
+
+160
+0:27:23,46 --> 0:27:38,73
+And what the salt water does is, again, helps
+keep the microbes into entering into your
+
+
+161
+0:27:38,73 --> 0:27:57,38
+kraut and [INDISTINCT]. And you let it sit
+for anywhere from one week to up to a year
+
+
+162
+0:27:57,38 --> 0:28:10,39
+when that sit, unrefrigerated, you want to
+leave it at the ideal temperature for growth
+
+
+163
+0:28:10,39 --> 0:28:32,97
+which is anywhere between 85 and 100 degrees.
+It's kind of dark, you can't really see it,
+
+
+164
+0:28:32,97 --> 0:28:50,76
+but this is an example of sauerkraut that
+I made today that you guys are going to be
+
+
+165
+0:28:50,76 --> 0:29:1,86
+trying. It's basically just white cabbage,
+it's got some onions and apples, some different
+
+
+166
+0:29:1,86 --> 0:29:13,15
+spices and stuff like that. And this is–-I
+put in the bowl added salt to it, you generally
+
+
+167
+0:29:13,15 --> 0:29:20,5
+add about 5% to 10% solution of salt to your
+sauerkraut. And the salt will determine how
+
+
+168
+0:29:20,5 --> 0:29:37,27
+long it sits for. If you get more salt, then
+you will take your sauerkraut and age it for
+
+
+169
+0:29:37,27 --> 0:29:50,93
+a longer amount of time at a lower temperature.
+If you get less salt, then you're going to
+
+
+170
+0:29:50,93 --> 0:29:56,43
+age it for a shorter amount of time at a higher
+temperature. Kimchi, it's one of the most
+
+
+171
+0:29:56,43 --> 0:30:11,51
+popular condiments of Korea. It said that,
+every Korean on an individual basis consumes
+
+
+172
+0:30:11,51 --> 0:30:18,15
+about a quarter pound of kimchi a day which
+really adds up by the end of the year. It's
+
+
+173
+0:30:18,15 --> 0:30:20,51
+a very, very artisanal product. It's made
+by almost every family, for the family. It's
+
+
+174
+0:30:20,51 --> 0:30:25,25
+not really something that you go out and buy
+as often, that is traditionally nowadays with
+
+
+175
+0:30:25,25 --> 0:30:26,68
+conveniences and stuff like that, you can
+get it mass produced. But, usually it was
+
+
+176
+0:30:26,68 --> 0:30:32,93
+something that was a very home orientated
+part of the culture. They come home, they
+
+
+177
+0:30:32,93 --> 0:30:34,73
+harvest their own vegetables, they make the
+kimchi out of whatever vegetables they had
+
+
+178
+0:30:34,73 --> 0:30:40,11
+available. They mixed it with salt and spices
+and generally, chili pepper is used, they
+
+
+179
+0:30:40,11 --> 0:30:41,7
+use seafood, they use anything. The big difference
+between kimchi and sauerkraut is that when
+
+
+180
+0:30:41,7 --> 0:30:42,84
+you make kimchi, you soaked your vegetables
+ahead of time in salt water. What this does
+
+
+181
+0:30:42,84 --> 0:30:44,26
+is it pulls the moisture out, fuse the salt
+into the vegetables and it also kind of helps
+
+
+182
+0:30:44,26 --> 0:30:44,9
+keep the crisp texture of that kimchi. So
+this is soaking some cabbage to make it for
+
+
+183
+0:30:44,9 --> 0:30:45,59
+the kimchi. Again, this is about a 5% salt
+solution. Once you're done soaking it, you
+
+
+184
+0:30:45,59 --> 0:30:46,24
+pull out, chopped it, mix it with various
+vegetables. I use radish, carrot, a couple
+
+
+185
+0:30:46,24 --> 0:30:46,85
+of different kinds of greens, you generally
+used ginger, garlic, red pepper. Then you're
+
+
+186
+0:30:46,85 --> 0:30:46,97
+going to take it and put it in--I use--this
+is very similar to the sauerkraut prop. So
+
+
+187
+0:30:46,97 --> 0:30:50,79
+you can do it at home and just put it in any
+kind of container. Usually you want to use
+
+
+188
+0:30:50,79 --> 0:30:53,7
+a kind of hard plastic. You don't want to
+use metal because the metal will actually
+
+
+189
+0:30:53,7 --> 0:30:56,39
+react to the acids and kind of create a teeny
+taste your food. So any kind of plastic, any
+
+
+190
+0:30:56,39 --> 0:31:12,87
+kind of food crate--usually the big white
+buckets that you find as long as it's never
+
+
+191
+0:31:12,87 --> 0:31:14,45
+been used is a good option. Now what you're
+going to do is you're going to put a weight
+
+
+192
+0:31:14,45 --> 0:31:14,6
+on top to bring that moisture level to help
+protect your vegetables. This is an example
+
+
+193
+0:31:14,6 --> 0:31:14,82
+of a fruit kimchi. They are made the exact
+same style. Again, you take your fruit, cut
+
+
+194
+0:31:14,82 --> 0:31:14,98
+them off and salt them. If you can't soak
+them, brine them if you want, but it's not
+
+
+195
+0:31:14,98 --> 0:31:15,27
+necessary. And you got to take them--weigh
+them down. Bean ferments, a lot of people
+
+
+196
+0:31:15,27 --> 0:31:16,39
+are familiar with soy sauce and miso, tempeh
+[INDISTINCT] nattos which is a Japanese [INDISTINCT]
+
+
+197
+0:31:16,39 --> 0:31:23,88
+fermented with whole soy beans. Because of
+the protein content, they are very difficult
+
+
+198
+0:31:23,88 --> 0:31:27,68
+for the human body to digest. So we use the
+process of fermentation to help beak down
+
+
+199
+0:31:27,68 --> 0:31:29,25
+these proteins so that they're are easily
+digested by the body. This is kind of a simple
+
+
+200
+0:31:29,25 --> 0:31:36,5
+diagram of how soy sauce is made. Basically,
+you take your ingredients, the soybean, wheat,
+
+
+201
+0:31:36,5 --> 0:31:39,8
+and some kind of mold that's already been
+established from a different process. Usually,
+
+
+202
+0:31:39,8 --> 0:31:44,42
+the same molds that they use for making rice
+wine, sake is also as present in soy sauce.
+
+
+203
+0:31:44,42 --> 0:31:48,57
+What we'll do is put in an open air container
+and let proliferate, kind of grow and then
+
+
+204
+0:31:48,57 --> 0:31:54,13
+after they do that, take it, put it in a container,
+let it sit for a specific time temperature
+
+
+205
+0:31:54,13 --> 0:32:0,27
+for about six months. After it sits for a
+couple of months, they'll take it, they'll
+
+
+206
+0:32:0,27 --> 0:32:5,4
+press it to get all the liquid out, strain
+it, that's how you have soy sauce. That's
+
+
+207
+0:32:5,4 --> 0:32:6,32
+a nationally fermented soy sauce. They also
+have a method which is chemically induced
+
+
+208
+0:32:6,32 --> 0:32:6,9
+but much quicker. It usually takes about a
+couple of hours, but they'll take soy beans
+
+
+209
+0:32:6,9 --> 0:32:8,1
+and they'll add hydrochloric acid to it. This
+hydrolyses the vegetables and then it creates
+
+
+210
+0:32:8,1 --> 0:32:15,56
+that kind of meaty taste to it. You'll notice
+that taste is very chemically, it doesn't
+
+
+211
+0:32:15,56 --> 0:32:19,53
+taste sweet. There's a lot of flavors in that--kind
+of just don't exist when you have this chemically
+
+
+212
+0:32:19,53 --> 0:32:21,25
+made soy sauce. Tempeh is one of the more
+interesting products. Yes?
+
+
+213
+0:32:21,25 --> 0:32:22,83
+>> Do you have any idea about the Kikkoman
+fermented soy sauce, everybody has the stories
+
+
+214
+0:32:22,83 --> 0:32:23,8
+about Kikkoman?
+>> STANLEY: Kikkoman is actually one of the
+
+
+215
+0:32:23,8 --> 0:32:24,62
+few that are anturally fermented.
+>> Okay.
+
+
+216
+0:32:24,62 --> 0:32:26,55
+>> STANLEY: A lot of the--a lot of the stuff
+you buy in the store naturally brewed. A lot
+
+
+217
+0:32:26,55 --> 0:32:30,27
+of the stuff that's in more industrious scale,
+the stuff that you buy, you're processing
+
+
+218
+0:32:30,27 --> 0:32:30,37
+stuff like that, is not.
+>> Okay.
+
+
+219
+0:32:30,37 --> 0:32:30,58
+>> STANLEY: Tempeh is another [INDISTINCT]
+ferment which is basically cooked soy beans
+
+
+220
+0:32:30,58 --> 0:32:32,73
+that are allowed to cool. They have starter
+added to it and they sit in an open air environment.
+
+
+221
+0:32:32,73 --> 0:32:36,64
+What happens is that the starter will proliferate
+with the addition of air, warmth and it will
+
+
+222
+0:32:36,64 --> 0:32:41,23
+start to spread, you know, create this kind
+of mold. What the mold will do is it will
+
+
+223
+0:32:41,23 --> 0:32:43,45
+actually take all the soy beans and connect
+them. Mold will grow across the entire Tempeh
+
+
+224
+0:32:43,45 --> 0:32:45,84
+and actually pull it together to be this firm
+brick. And actually, it will develop very
+
+
+225
+0:32:45,84 --> 0:32:47,4
+earthy and kind of mushroom taste to it that
+are often desirable for vegetarian community
+
+
+226
+0:32:47,4 --> 0:32:52,71
+because it has that texture to it and it can
+absorb a lot of flavor, and it has that kind
+
+
+227
+0:32:52,71 --> 0:32:55,86
+of meaty texture to it. Dairy ferments, lactobacilli
+which is the common bacteria that are in dairy
+
+
+228
+0:32:55,86 --> 0:32:57,69
+ferments. They eat the lactose present in
+the dairy and they turn into lactic acid.
+
+
+229
+0:32:57,69 --> 0:32:57,71
+Lactose is basically an ingredient that's
+in most dairy that a lot of humans have a
+
+
+230
+0:32:57,71 --> 0:32:57,72
+hard time digesting because we do not have
+the enzyme that breaks down this lactose.
+
+
+231
+0:32:57,72 --> 0:32:57,74
+So, that's why if you're lactose intolerant,
+a lot of people that are lactose intolerant
+
+
+232
+0:32:57,74 --> 0:32:57,76
+will find that if they eat an aged cheese
+or if they eat a yogurt that's heavily fermented,
+
+
+233
+0:32:57,76 --> 0:32:57,78
+it doesn't bother them as much that's because
+the fermentation--the lactobacilli are actually
+
+
+234
+0:32:57,78 --> 0:32:57,79
+taking those enzymes that you can't process
+and do it for you. Some examples; buttermilk,
+
+
+235
+0:32:57,79 --> 0:32:57,81
+yogurt, butter, all sorts of cheeses, kefir
+which is another fermented yogurt product.
+
+
+236
+0:32:57,81 --> 0:32:57,82
+Yogurt, more so now than previously, starting
+to be promoted with having probiotics; as
+
+
+237
+0:32:57,82 --> 0:32:57,84
+having these organisms in it that are helping
+your digestive tract or helping you process
+
+
+238
+0:32:57,84 --> 0:32:57,86
+your food, they're helping you speed up your
+metabolism. This is not a new concept; this
+
+
+239
+0:32:57,86 --> 0:32:57,87
+has been around for thousands of years. It
+actually went away with the invention of pasteurization
+
+
+240
+0:32:57,87 --> 0:32:57,89
+because people were afraid of these things
+that were in their food, they're afraid that
+
+
+241
+0:32:57,89 --> 0:32:57,91
+they're going to make them sick. If you take
+yogurt and you just make it normally, you
+
+
+242
+0:32:57,91 --> 0:32:57,92
+actually have these probiotics, so they have
+these digestive enzymes. As you pasteurize
+
+
+243
+0:32:57,92 --> 0:32:57,94
+it, you're killing all those things; or, what
+that'll do is add the starters to it while
+
+
+244
+0:32:57,94 --> 0:33:0,99
+turning the yogurt, heat it after it's turned
+the yogurt to kill everything to make it safer
+
+
+245
+0:33:0,99 --> 0:33:1,21
+human consumption as you know, safe as in--meaning
+not exactly safer but more well received by
+
+
+246
+0:33:1,21 --> 0:33:1,56
+the public. When you're making yogurt, you
+only need to add a little bit of the starter
+
+
+247
+0:33:1,56 --> 0:33:2,24
+to get started. If you add too much or actually
+crowd everything, you know, it will cause
+
+
+248
+0:33:2,24 --> 0:33:2,99
+less of the bacteria to grow but more of the
+acid remains. You have a very, very sour astringent
+
+
+249
+0:33:2,99 --> 0:33:3,62
+yogurt. It's a relatively quick product to
+make; it only takes about eight to 12 hours
+
+
+250
+0:33:3,62 --> 0:33:4,6
+depending on how long you sit at the temperature
+where the bacteria proliferate at, it will
+
+
+251
+0:33:4,6 --> 0:33:4,67
+affect how sour the product is. So, generally
+what you do is you heat your yogurt up, this
+
+
+252
+0:33:4,67 --> 0:33:4,71
+is me heating the yogurt up. Heat up to about
+180 degrees first, heat them out, sorry, start
+
+
+253
+0:33:4,71 --> 0:33:4,76
+out with the milk base. You can choose how
+much fat is in your milk base you're getting.
+
+
+254
+0:33:4,76 --> 0:33:4,81
+A thinner yogurt will have less fat, very
+thick yogurt will be high in fat; will go
+
+
+255
+0:33:4,81 --> 0:33:5,2
+up to 40% fat. Still have correct fermentation
+of yogurt. Add again by heating up the product
+
+
+256
+0:33:5,2 --> 0:33:5,65
+to 180 degrees. This isn't necessary, what
+this does is it helps create a thicker yogurt;
+
+
+257
+0:33:5,65 --> 0:33:7,76
+helps kind of loosen up the structure of the
+proteins so that when bacteria come, it will
+
+
+258
+0:33:7,76 --> 0:33:7,76
+help tie them a little bit better. This is
+the yogurt after it's finished; so after you
+
+
+259
+0:33:7,76 --> 0:33:7,77
+heat up to 180 degrees, you're going to cool
+it down to about a 100 to a 110 which is the
+
+
+260
+0:33:7,77 --> 0:33:7,78
+ideal temperature to make yogurt at. You're
+going to add your starter and then you just
+
+
+261
+0:33:7,78 --> 0:33:7,79
+kind of try to leave it at that temperature
+for a long period of time. I guess, at eight
+
+
+262
+0:33:7,79 --> 0:33:7,8
+to 12 hours up to 24. The longer you leave
+it, the more sour your product will be. So,
+
+
+263
+0:33:7,8 --> 0:33:7,81
+if you want to less sour product, you leave
+it for eight hours. You want a more sour product,
+
+
+264
+0:33:7,81 --> 0:33:8,37
+you leave it for 20 hours. Well, what happened
+is, the enzymes will breakdown and will start
+
+
+265
+0:33:8,37 --> 0:33:11,11
+to sour the product and it will make lactic
+acid, and it will actually thicken the yogurt
+
+
+266
+0:33:11,11 --> 0:33:11,48
+up. Cheese is a little bit different because
+you don't actually need the fermentation product
+
+
+267
+0:33:11,48 --> 0:33:11,55
+to make the cheese initially. You need the
+fermentation product to help ripen the cheese
+
+
+268
+0:33:11,55 --> 0:33:11,64
+afterwards. So, what we're doing is we're
+adding acid to some kind of milk base and
+
+
+269
+0:33:11,64 --> 0:33:11,99
+heating it to a certain temperature that will
+actually cause the milk to separate into curds
+
+
+270
+0:33:11,99 --> 0:33:12,3
+and whey; the whey is a liquid and curd is
+the solids. You can also use rennet which
+
+
+271
+0:33:12,3 --> 0:33:12,7
+is an enzyme as apparent, a lot of animal
+stomachs--a lot linings of different animals.
+
+
+272
+0:33:12,7 --> 0:33:12,11
+And then what you'll do is you'll strain the
+whey off, you'll leave the solids and then
+
+
+273
+0:33:12,11 --> 0:33:12,15
+you'll just let them sit. And that's how you'll
+get the fermentation product of your cheese.
+
+
+274
+0:33:12,15 --> 0:33:12,18
+You can add different strains of bacteria
+to get different kinds of cheeses and that's
+
+
+275
+0:33:12,18 --> 0:33:12,22
+why there's so many different cheeses on the
+market because depending on the area they're
+
+
+276
+0:33:12,22 --> 0:33:12,34
+from, depending on what's in the environment,
+that's where the flavors are coming from.
+
+
+277
+0:33:12,34 --> 0:33:12,36
+Blue cheese is one of the most notorious.
+It's a very, very, rapidly growing organism
+
+
+278
+0:33:12,36 --> 0:33:12,39
+that spreads very quickly. So, if you're in
+an environment that made blue cheese, you
+
+
+279
+0:33:12,39 --> 0:33:12,41
+most likely will have everything else in the
+environment turn into blue cheese or have
+
+
+280
+0:33:12,41 --> 0:33:12,44
+that same mold on it within a couple of days
+because it's that rapid, it takes over with
+
+
+281
+0:33:12,44 --> 0:33:13,7
+that any other bacteria. Grain ferments; also
+very popular, we're going to talk about sourdough
+
+
+282
+0:33:13,7 --> 0:33:14,94
+breads. What happens is, when you add the
+addition of water to grains, you're helping
+
+
+283
+0:33:14,94 --> 0:33:16,8
+activate the yeast that are already naturally
+on the grains, and you're helping to break
+
+
+284
+0:33:16,8 --> 0:33:18,64
+down those grains to help your body process
+them a little bit better. The addition of
+
+
+285
+0:33:18,64 --> 0:33:30,26
+water will cause the yeast to activate; they
+will actually start to eat the carbohydrates
+
+
+286
+0:33:30,26 --> 0:33:33,59
+of the grain themselves and help loosen them,
+like they're converted into a more digestible
+
+
+287
+0:33:33,59 --> 0:33:37,17
+product. This yeast are found pretty much
+everywhere, may be kind of sugar, if you've
+
+
+288
+0:33:37,17 --> 0:33:41,47
+ever looked at some kind of plum or grape?
+That white film on the outside of your fruit
+
+
+289
+0:33:41,47 --> 0:33:45,29
+is actually yeast; they're feeding on the
+sugars of the fruit itself. So this is how
+
+
+290
+0:33:45,29 --> 0:33:47,35
+you start a basic sourdough bread. All you
+really do is just take flour and water and
+
+
+291
+0:33:47,35 --> 0:33:47,35
+put them together, put a cover over it and
+let it sit. What I did for mine is I actually
+
+
+292
+0:33:47,35 --> 0:33:47,35
+used potato water. I cooked some potatoes,
+after I cooked the potatoes, I saved the water
+
+
+293
+0:33:47,35 --> 0:33:47,35
+and I turned that into a sourdough bread.
+That extra starch from the potatoes just give
+
+
+294
+0:33:47,35 --> 0:33:47,35
+something extra for the yeast to heat on.
+So what you'll do is, you mix those two products
+
+
+295
+0:33:47,35 --> 0:33:47,35
+together, let it sit at the ideal temperature
+again from 80 to 110 degrees in an open air
+
+
+296
+0:33:47,35 --> 0:33:47,35
+container. You want to leave it open air at
+the beginning because this is where the yeast
+
+
+297
+0:33:47,35 --> 0:33:47,35
+are going to come from, they're going to come
+from the air. You can add baker's yeast if
+
+
+298
+0:33:47,35 --> 0:33:47,35
+you want but that kind of defeats the purpose
+of having this sourdough that's made with
+
+
+299
+0:33:47,35 --> 0:33:47,35
+things that are naturally occurring in the
+environment. You have that sit overnight with
+
+
+300
+0:33:47,35 --> 0:33:47,35
+the temperature–-the ideal temperature,
+the next day you come back to it, you remove
+
+
+301
+0:33:47,35 --> 0:33:47,35
+half of it, and then add the same amount of
+flour and water that you removed. It's introduced
+
+
+302
+0:33:47,35 --> 0:33:47,35
+again, newer yeast helps add some more carbohydrates
+so that the yeast can feed up and proliferate
+
+
+303
+0:33:47,35 --> 0:33:47,35
+more. You do this for about three to four
+days until you start to see a bubble. Once
+
+
+304
+0:33:47,35 --> 0:33:47,35
+it bubbles, then you have a solid starter.
+That bubbling means that the yeast are active,
+
+
+305
+0:33:47,35 --> 0:33:47,35
+they're creating lactic acid which is where
+that sourness is going to come from, and it
+
+
+306
+0:33:47,35 --> 0:33:47,35
+means that, they're going to continue to be
+active as long as they keep being fed, as
+
+
+307
+0:33:47,35 --> 0:33:47,35
+long as you keep the phytonutrients of heat
+and sugar for them, they'll keep going. So
+
+
+308
+0:33:47,35 --> 0:33:47,35
+these starters can pretty much be kept indefinitely.
+Some of the sourdoughs from the San Francisco
+
+
+309
+0:33:47,35 --> 0:33:47,35
+are over a hundred years old because they
+started sourdough a hundred years ago. They
+
+
+310
+0:33:47,35 --> 0:33:47,35
+take out half of it, make bread, add more
+flour and water, and they just keep making
+
+
+311
+0:33:47,35 --> 0:33:47,35
+it everyday using that same starter. And then
+over time, it evolves a lot of different flavors
+
+
+312
+0:33:47,35 --> 0:33:47,35
+from a lot of different organisms. This is
+another fermentation practice which, if you
+
+
+313
+0:33:47,35 --> 0:33:47,35
+watch my Twitter, this is one of the first
+things that I have kind of experiments with,
+
+
+314
+0:33:47,35 --> 0:33:47,35
+is fermented oatmeal. You take any kind of
+oats, soak it in water overnight, and the
+
+
+315
+0:33:47,35 --> 0:33:47,35
+yeast present in the oatmeal will actually
+kind of breakdown starch and will result in
+
+
+316
+0:33:47,35 --> 0:33:47,35
+a very, very kind of creamy gelatins oatmeal.
+Fruit Ferments, we see this with wine. We
+
+
+317
+0:33:47,35 --> 0:33:47,35
+see this with different kinds of root beers,
+we see this with–-I guess it would be grain,
+
+
+318
+0:33:47,35 --> 0:33:47,35
+we see this is as normal beer, as well that
+the addition of fruit is normal in making
+
+
+319
+0:33:47,35 --> 0:33:47,35
+normal beers. What are you doing is basically
+again taking those naturally occurring yeast
+
+
+320
+0:33:47,35 --> 0:33:47,35
+in the air and they're feeding off the sugar
+of the fruit. Specific sugars would kind of
+
+
+321
+0:33:47,35 --> 0:33:47,35
+help change for the final fermentation and
+add the final flavor. So, if you're using
+
+
+322
+0:33:47,35 --> 0:33:47,35
+honey, if you're using molasses, if you're
+using sorghum, if you're using brown sugar,
+
+
+323
+0:33:47,35 --> 0:33:47,35
+each one of these sugars has a different flavor
+profile and different types of organisms that
+
+
+324
+0:33:47,35 --> 0:33:47,35
+be attracted to, let's say, honey then brown
+sugar. That's pretty much it. I have a bunch
+
+
+325
+0:33:47,35 --> 0:33:47,35
+of products here that we're all going to taste.
+I have a fruit kimchi that's made with pineapple,
+
+
+326
+0:33:47,35 --> 0:33:47,35
+grapes, cilantro, ginger, some other spices;
+again, let it sit it for a week. I have a
+
+
+327
+0:33:47,35 --> 0:33:47,35
+normal kimchi that's made in a very traditional
+style, this has radish, some greens, chili
+
+
+328
+0:33:47,35 --> 0:33:47,35
+pepper, garlic, ginger. I have homemade sauerkraut
+that has the addition of apples and onions
+
+
+329
+0:33:47,35 --> 0:33:47,35
+to it. I have some yogurts. I have a full
+fat yogurt that's made of 40% fat. Kind of
+
+
+330
+0:33:47,35 --> 0:33:47,35
+comes out to the consistency of sour cream.
+I also have a normal fat, with a 5% fat yogurt.
+
+
+331
+0:33:47,35 --> 0:33:47,35
+I also have some butter that was made with
+the yogurt; let me talk about that process
+
+
+332
+0:33:47,35 --> 0:33:47,35
+if you like. And I also have some--it's a
+ginger beer recipe but I made it with galangal.
+
+
+333
+0:33:47,35 --> 0:33:47,35
+Basically, took ginger, shred it up, mixed
+it with sugar and water to have the environment
+
+
+334
+0:33:47,35 --> 0:33:47,35
+so that the yeast can grow. Once they started
+to grow, you add that to a base ginger and
+
+
+335
+0:33:47,35 --> 0:33:47,35
+sugar. Once you put on that base, you add
+the starter that you made with the active
+
+
+336
+0:33:47,35 --> 0:33:47,35
+cultures then you put it in an anaerobic environment
+by putting into a bottle and letting it sit.
+
+
+337
+0:33:47,35 --> 0:33:47,35
+This will start to create--they will eat the
+sugars and create alcohol and CO2, and that's
+
+
+338
+0:33:47,35 --> 0:33:47,35
+when the carbonation comes from because they're
+concentrating that CO2 into the bottle; so,
+
+
+339
+0:33:47,35 --> 0:33:47,35
+it can't escape, so, it's infusing itself
+into the water to create carbonation. So,
+
+
+340
+0:33:47,35 --> 0:33:47,35
+yeah, if you guys want to come up and have
+a taste some stuff. That's pretty much it
+
+
+341
+0:33:47,35 --> 0:35:47,35
+for the fermentation talk. In case you have
+any questions you guys [INDISTINCT].
+
+

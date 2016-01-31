@@ -1,0 +1,3598 @@
+1
+0:0:0,0 --> 0:0:11,67
+>> DRUMMOND: Another great day at Google.
+So I want to welcome everybody to the latest
+
+
+2
+0:0:11,67 --> 0:0:16,15
+installment of Candidates at Google. For those
+of you who don't know me, I'm David Drummond,
+
+
+3
+0:0:16,15 --> 0:0:22,589
+Senior Vice President of Corporate Development,
+the company's Chief Legal Officer. I'm very
+
+
+4
+0:0:22,589 --> 0:0:33,57
+pleased and distinctly honored here to welcome
+back to Google Senator Barack Obama. I say
+
+
+5
+0:0:33,57 --> 0:0:38,3
+welcome back because for those of you who
+were around in the summer of 2004, you may
+
+
+6
+0:0:38,3 --> 0:0:44,53
+remember at TGIF in which I joined Larry and
+Sergey on this stage and introduced to the
+
+
+7
+0:0:44,53 --> 0:0:51,86
+assembled Googlers then senate candidate Obama.
+And Barack had been in the Bay Area and he
+
+
+8
+0:0:51,86 --> 0:0:56,4
+wanted to come down and see what we were up
+to here at Google, see what this Google thing
+
+
+9
+0:0:56,4 --> 0:1:1,489
+was all about. And he had a great visit. He
+came and did the tour. He saw the GeoDisplay,
+
+
+10
+0:1:1,489 --> 0:1:7,56
+the Search Traffic, and he saw the servers,
+and everything we had at Google. We sat down
+
+
+11
+0:1:7,56 --> 0:1:12,869
+with Larry and Sergey. We had a great talk
+about innovation, about policy, and he later
+
+
+12
+0:1:12,869 --> 0:1:19,259
+wrote about that in his book, The Audacity
+of Hope. And I know all of you have a copy
+
+
+13
+0:1:19,259 --> 0:1:25,46
+of that. And all in all a great visit. And,
+you know, while it was a fantastic visit,
+
+
+14
+0:1:25,46 --> 0:1:32,859
+I now realized that we made a grave error
+that day at TGI, we didn't let him speak.
+
+
+15
+0:1:32,859 --> 0:1:40,859
+So, ladies and gentlemen, today, we are going
+to rectify that error. We are thrilled that
+
+
+16
+0:1:40,859 --> 0:1:46,939
+Senator Obama has chosen Google to unveil
+his innovation agenda. And you're going to
+
+
+17
+0:1:46,939 --> 0:1:53,67
+hear that today and we're very, very excited
+about what that means for the country and
+
+
+18
+0:1:53,67 --> 0:2:1,329
+I think you will be too. Following that, Eric's
+going to come up on the stage and do a Q&A
+
+
+19
+0:2:1,329 --> 0:2:5,609
+with Senator Obama. And following that, you'll
+have your chance to ask your question. So,
+
+
+20
+0:2:5,609 --> 0:2:12,11
+without anything further, please join me in
+giving an enormous Google welcome back to
+
+
+21
+0:2:12,11 --> 0:2:47,72
+Senator Barack Obama. Thanks.
+>> OBAMA: Thank you. Thank you. Thank you,
+
+
+22
+0:2:47,72 --> 0:2:52,0
+every body. Thank you. Thank you. Thank you
+so much. What a--what a wonderful reception.
+
+
+23
+0:2:52,0 --> 0:2:58,7
+I am so grateful to all of you for showing
+such interest in taking the time to be here
+
+
+24
+0:2:58,7 --> 0:3:7,3
+today. I want to thank Larry and Sergey and
+Eric and, obviously, David for helping to
+
+
+25
+0:3:7,3 --> 0:3:13,69
+set this up. I am extremely grateful to all
+of them for their leadership and their friendship.
+
+
+26
+0:3:13,69 --> 0:3:19,1
+And I also want to acknowledge state Senator
+Elaine Alquist who is here. This is her district,
+
+
+27
+0:3:19,1 --> 0:3:24,11
+and since I used to be a state senator I always
+want to give her, her props, so it's wonderful
+
+
+28
+0:3:24,11 --> 0:3:35,62
+to see her as well. So, thank you. Well, it
+is wonderful to be back. As David said I was
+
+
+29
+0:3:35,62 --> 0:3:42,68
+here about 3 years ago and had just a wonderful
+visit. It was such a striking visit for me.
+
+
+30
+0:3:42,68 --> 0:3:47,73
+It made such an impression that I ended up
+writing about it in my book. And so it's always
+
+
+31
+0:3:47,73 --> 0:3:52,32
+good to be back in Mountain View and it's
+good to see that Google is maintaining its
+
+
+32
+0:3:52,32 --> 0:3:58,97
+strict dress code.
+
+
+33
+0:3:58,97 --> 0:4:5,19
+When you stop to think about it, there is
+something improbable about this gathering.
+
+
+34
+0:4:5,19 --> 0:4:13,51
+After all it wasn't much more than a decade
+ago that Larry and Sergey got together in
+
+
+35
+0:4:13,51 --> 0:4:19,91
+a dorm room as graduate students, with a big
+idea to organize all of the world's information
+
+
+36
+0:4:19,91 --> 0:4:25,6
+into an accessible form. And at that time,
+I was an Illinois state senator doing my best
+
+
+37
+0:4:25,6 --> 0:4:32,76
+to help people get a better shot at their
+dreams. What we shared is a belief in changing
+
+
+38
+0:4:32,76 --> 0:4:40,25
+the world from the bottom-up, not the top-down.
+That a bunch of--that ordinary people can
+
+
+39
+0:4:40,25 --> 0:4:46,3
+do extraordinary things. We shared that. We
+also shared a bunch of student loans that
+
+
+40
+0:4:46,3 --> 0:4:53,13
+still needed to be paid off. And you would
+have found it hard to predict that Larry and
+
+
+41
+0:4:53,13 --> 0:4:57,27
+Sergey would now be the co-founders of one
+of the most successful companies in recent
+
+
+42
+0:4:57,27 --> 0:5:3,94
+history and that I would be standing on this
+stage today as a candidate for president of
+
+
+43
+0:5:3,94 --> 0:5:12,12
+the United States. But this is where improbable
+journeys have led. This is where the moment
+
+
+44
+0:5:12,12 --> 0:5:18,4
+finds us. And I'd like to say a few words
+about what I believe we have to do together,
+
+
+45
+0:5:18,4 --> 0:5:25,23
+to seize this moment with a sense of purpose
+and a sense of urgency. We know how the first
+
+
+46
+0:5:25,23 --> 0:5:31,59
+chapters of the Google story have turned out.
+After all, all of you have good jobs. But
+
+
+47
+0:5:31,59 --> 0:5:38,51
+we also know that the Google story is more
+than just being about the bottom line. It's
+
+
+48
+0:5:38,51 --> 0:5:43,419
+about seeing what we can accomplish when we
+believe in things that are unseen, when we
+
+
+49
+0:5:43,419 --> 0:5:48,82
+take the measure of our changing times and
+we take action to shape them. And that's why
+
+
+50
+0:5:48,82 --> 0:5:56,4
+we're here today, that's why many of you decided
+to work here instead of someplace else. Technology
+
+
+51
+0:5:56,4 --> 0:6:2,98
+and innovation have reshaped our economy and
+our lives at breathtaking speed. America's
+
+
+52
+0:6:2,98 --> 0:6:9,919
+been fighting to figure out how to tap this
+awesome new resource that we have, and Google
+
+
+53
+0:6:9,919 --> 0:6:15,169
+has helped to show us the way. But the story
+is far from over. Google’s story is far
+
+
+54
+0:6:15,169 --> 0:6:21,44
+from over. The story of how we shaped our
+changing times is far from over. What comes
+
+
+55
+0:6:21,44 --> 0:6:28,699
+next depends on the choices that we make right
+now, at this moment, in this election. We
+
+
+56
+0:6:28,699 --> 0:6:36,9
+could see the spirit of innovation that started
+this company be stifled. We could see the
+
+
+57
+0:6:36,9 --> 0:6:41,69
+internet divided up to the highest bidders.
+We could see a government that uses technology
+
+
+58
+0:6:41,69 --> 0:6:48,36
+to shut people out, instead of letting them
+in. Tax break shuffled to special interests
+
+
+59
+0:6:48,36 --> 0:6:54,729
+while the next start-up, the next Google can't
+get a fair shot. Challenges like healthcare
+
+
+60
+0:6:54,729 --> 0:7:1,71
+and energy that hold our country back while
+competition from other nations picks up. That's
+
+
+61
+0:7:1,71 --> 0:7:8,36
+one alternative. Another alternative is for
+us to unlock a new future of opportunity.
+
+
+62
+0:7:8,36 --> 0:7:14,36
+Together we could open up the government and
+invite all citizens in while connecting all
+
+
+63
+0:7:14,36 --> 0:7:21,54
+of America to 21st century Broadband. We could
+use technology to help achieve universal healthcare,
+
+
+64
+0:7:21,54 --> 0:7:27,21
+to reach for a clean energy future, and to
+ensure that young Americans can compete and
+
+
+65
+0:7:27,21 --> 0:7:35,63
+win in the global economy. If America recommits
+itself to science and innovation, then we
+
+
+66
+0:7:35,63 --> 0:7:41,69
+can lead the world to a new future of productivity
+and prosperity. That's what we can do if we
+
+
+67
+0:7:41,69 --> 0:7:48,74
+seize this moment. That's the choice we face.
+And as president, I intend to work with you
+
+
+68
+0:7:48,74 --> 0:7:54,52
+to write the next chapter in the story of
+American innovation. That's part of the reason
+
+
+69
+0:7:54,52 --> 0:8:0,35
+why I'm running for president of the United
+States. To seize this moment, we have to ensure
+
+
+70
+0:8:0,35 --> 0:8:7,78
+free and full exchange of information, and
+that starts with an open internet. I will
+
+
+71
+0:8:7,78 --> 0:8:16,53
+take--I
+
+
+72
+0:8:16,53 --> 0:8:23,56
+will take a backseat to no one in my commitment
+to network neutrality, because once providers
+
+
+73
+0:8:23,56 --> 0:8:29,56
+start to privilege some applications or websites
+over others, then the smaller voices get squeezed
+
+
+74
+0:8:29,56 --> 0:8:35,399
+out and we all lose. The internet is perhaps
+the most open network in history and we have
+
+
+75
+0:8:35,399 --> 0:8:41,26
+to keep it that way. To seize this moment,
+we have to connect all of America to 21st
+
+
+76
+0:8:41,26 --> 0:8:47,31
+century infrastructure. As president, I will
+set a goal of ensuring that every American
+
+
+77
+0:8:47,31 --> 0:8:52,48
+has Broadband access, no matter where you
+live, no matter how much money you have or
+
+
+78
+0:8:52,48 --> 0:8:58,7
+don't have. We will raise the standards for
+Broadband speed. We will connect schools and
+
+
+79
+0:8:58,7 --> 0:9:2,96
+libraries and hospitals. And we’ll take
+on the special interest so that we can finally
+
+
+80
+0:9:2,96 --> 0:9:10,3
+unleash the power of wireless spectrum for
+our safety, our security, and our connectivity.
+
+
+81
+0:9:10,3 --> 0:9:17,1
+To seize this moment, we have to use technology
+to open up our democracy. It's no coincidence
+
+
+82
+0:9:17,1 --> 0:9:22,32
+that one of the most secretive administrations
+in our history, has favored special interests
+
+
+83
+0:9:22,32 --> 0:9:27,6
+and pursued policies that could not stand
+up to the sunlight. As president, I'm going
+
+
+84
+0:9:27,6 --> 0:9:34,27
+to change that. We will put government data
+online in universally accessible formats.
+
+
+85
+0:9:34,27 --> 0:9:46,93
+I'll let citizens--I'll let citizens check
+federal grants, contracts, earmarks, and lobbying
+
+
+86
+0:9:46,93 --> 0:9:53,31
+contracts. I'll let you participate in government
+forums, ask questions in real time, offer
+
+
+87
+0:9:53,31 --> 0:10:0,95
+suggestions that will be reviewed before decisions
+are made, and let you comment on legislation
+
+
+88
+0:10:0,95 --> 0:10:6,19
+before it is signed. And to ensure that every
+government agency is meeting 21st century
+
+
+89
+0:10:6,19 --> 0:10:11,81
+standards, I will appoint the nation's first
+chief technology officer to coordinate and
+
+
+90
+0:10:11,81 --> 0:10:15,88
+make certain that we are always at the forefront
+of technology and that we are incorporating
+
+
+91
+0:10:15,88 --> 0:10:29,27
+it into every decision that we make. And if
+you want to know how I'll govern, just look
+
+
+92
+0:10:29,27 --> 0:10:38,87
+at our campaign. We’ve received over 370,000
+donations online, half of which have been
+
+
+93
+0:10:38,87 --> 0:10:48,33
+under $25. Nearly 300,000 Americans have their
+own accounts on BarackObama.com. They’ve
+
+
+94
+0:10:48,33 --> 0:10:56,16
+created—they’ve created thousands of grassroots
+groups. They've offered up over 15,000 policy
+
+
+95
+0:10:56,16 --> 0:11:2,62
+ideas, because we believe the real change
+can only come from the bottom-up, and technology
+
+
+96
+0:11:2,62 --> 0:11:8,58
+empowers people to come together to make that
+change. Because at this moment, I think we
+
+
+97
+0:11:8,58 --> 0:11:13,5
+have to do more than to get our house in order,
+the opportunity in front of us is bigger than
+
+
+98
+0:11:13,5 --> 0:11:18,25
+that. Seizing this opportunity is going to
+depend on more than what the government does
+
+
+99
+0:11:18,25 --> 0:11:23,86
+or even what the technology sector does. It's
+going to depend on how together we harness
+
+
+100
+0:11:23,86 --> 0:11:29,61
+technology to confront the biggest challenges
+that America faces. Just imagine what we could
+
+
+101
+0:11:29,61 --> 0:11:34,99
+do. If we commit ourselves to electronic medical
+records, then we can lift up the quality of
+
+
+102
+0:11:34,99 --> 0:11:45,39
+healthcare and reduce error and dramatically
+lower costs. If we take on--if we take on
+
+
+103
+0:11:45,39 --> 0:11:50,649
+special interests and make aggressive investments
+and clean a renewable energy like Google has
+
+
+104
+0:11:50,649 --> 0:11:56,44
+done with solar here in Mountainview, that
+we can end our addiction to ore, create millions
+
+
+105
+0:11:56,44 --> 0:12:2,74
+of jobs and save the planet in the bargain.
+If we make technological literacy a fundamental
+
+
+106
+0:12:2,74 --> 0:12:7,839
+part of education then we can give our children
+the skills they need to compete and ensure
+
+
+107
+0:12:7,839 --> 0:12:15,0
+the next generation of scientists and engineers
+as being educated right here in America. We
+
+
+108
+0:12:15,0 --> 0:12:21,73
+can do this, but we can't wait because Silicon
+Valley is not the only corner of innovation
+
+
+109
+0:12:21,73 --> 0:12:27,57
+in the world. If America doesn't seize this
+moment, then we will face only more competition
+
+
+110
+0:12:27,57 --> 0:12:35,279
+from Dubai and Dublin, from Shanghai and Mumbai.
+So, instead of George Bush's policy of undermining
+
+
+111
+0:12:35,279 --> 0:12:41,91
+science, I intend to double federal funding
+for basic research and make the R&D tax credit
+
+
+112
+0:12:41,91 --> 0:12:53,39
+permanent. To keep--to keep the door open
+for the next generation of start-ups, I'll
+
+
+113
+0:12:53,39 --> 0:12:59,62
+enforce tough anti-trust laws, and to ensure
+that America continues to track the world's
+
+
+114
+0:12:59,62 --> 0:13:5,12
+best and brightest, we need comprehensive
+immigration reform that strengthens permanent
+
+
+115
+0:13:5,12 --> 0:13:18,959
+resident visas like the H-1B program. We need
+to make sure that the next success story,
+
+
+116
+0:13:18,959 --> 0:13:25,87
+the next Google, happens here in America.
+The Google stories about what can be achieved
+
+
+117
+0:13:25,87 --> 0:13:32,0
+when we cultivate new ideas and keep the playing
+field level for new businesses. But it's also
+
+
+118
+0:13:32,0 --> 0:13:37,11
+about not settling for what we've already
+achieved, it's about constantly raising the
+
+
+119
+0:13:37,11 --> 0:13:42,95
+bar so that we're more competitive. And so
+we use technology to reach ever expanding
+
+
+120
+0:13:42,95 --> 0:13:50,93
+horizons. You know, the first time I was back
+here in 2004, Larry showed me the image that
+
+
+121
+0:13:50,93 --> 0:13:56,51
+tracks all the internet searches taking place
+in the world. I wrote about this in my book.
+
+
+122
+0:13:56,51 --> 0:14:2,93
+And I saw the earth rotating on a flat panel
+monitor with the different lights for different
+
+
+123
+0:14:2,93 --> 0:14:7,829
+languages marking all the traffic on this
+wondrous network, the network that didn't
+
+
+124
+0:14:7,829 --> 0:14:19,269
+even exist when almost all of us here were
+born, almost. But what struck me wasn't the
+
+
+125
+0:14:19,269 --> 0:14:28,329
+light on that globe; it was the darkness.
+Most of Africa, chunks of Asia, even parts
+
+
+126
+0:14:28,329 --> 0:14:35,89
+of the United States, the disconnected corners
+of our interconnected world where the promise
+
+
+127
+0:14:35,89 --> 0:14:42,98
+of the 21st century is being eclipsed by peril.
+You and I must not settle for anything less
+
+
+128
+0:14:42,98 --> 0:14:48,57
+than an America that replaces that darkness
+with a new light, because the promise and
+
+
+129
+0:14:48,57 --> 0:14:54,209
+prosperity of the new economy must not be
+the property of the few. It must be a force
+
+
+130
+0:14:54,209 --> 0:15:10,579
+that lifts up our entire country and ultimately
+lifts up the entire world.
+We have the privilege to live in a transformational
+
+
+131
+0:15:10,579 --> 0:15:17,68
+moment, a moment when an idea can change the
+world, a moment when technology empowers us
+
+
+132
+0:15:17,68 --> 0:15:24,519
+to come together as never before while letting
+each of us reach for our own individual dreams,
+
+
+133
+0:15:24,519 --> 0:15:29,89
+a moment when we can finally progress and
+move beyond the huge challenges that have
+
+
+134
+0:15:29,89 --> 0:15:38,42
+stood in the way of progress for far too long.
+We cannot and we must not look back and regret
+
+
+135
+0:15:38,42 --> 0:15:43,86
+that we settled for anything less. And that's
+why I'm asking you to join me in seizing this
+
+
+136
+0:15:43,86 --> 0:15:48,86
+moment, I'm asking you to join me in changing
+the world. Thank you very much everybody.
+
+
+137
+0:15:48,86 --> 0:16:13,459
+Thank you. Thank you. Thank you. Thank you.
+Eric, come on up. Thank you.
+
+
+138
+0:16:13,459 --> 0:16:13,459
+>> SCHMIDT: Brilliant. Brilliant.
+>> OBAMA: Thank you so much.
+
+
+139
+0:16:13,459 --> 0:16:15,779
+>> SCHMIDT: Thank--thank you, Senator, for
+such a strong message about innovation.
+
+
+140
+0:16:15,779 --> 0:16:20,4
+>> OBAMA: Thank you.
+>> SCHMIDT: Senator Obama, the product of
+
+
+141
+0:16:20,4 --> 0:16:28,6
+a Kansas mother and a father from Kenya, born
+in Hawaii; your history, of course, Columbia,
+
+
+142
+0:16:28,6 --> 0:16:33,85
+Harvard, state senator, now, senator running
+for president, welcome to Google.
+
+
+143
+0:16:33,85 --> 0:16:44,32
+>> OBAMA: Thank you so much. Thank you.
+>> SCHMIDT: When you see yourself in the presidency
+
+
+144
+0:16:44,32 --> 0:16:53,139
+in 2008, 2009, and for many years, what is
+it that you're going to do that's exceptional?
+
+
+145
+0:16:53,139 --> 0:16:57,279
+What is your fundamental reason why you think
+this company--this country, excuse me, is
+
+
+146
+0:16:57,279 --> 0:17:6,4
+going to be--is going to be a great country?
+And by the way...
+
+
+147
+0:17:6,4 --> 0:17:10,38
+>> OBAMA: Is this the kind of interview that
+you guys want too?
+
+
+148
+0:17:10,38 --> 0:17:15,93
+>> SCHMIDT: And your book is really extraordinary,
+its title is The Audacity of Hope.
+
+
+149
+0:17:15,93 --> 0:17:21,63
+>> OBAMA: Yeah. Well, Eric, first of all,
+thanks, thanks for letting me be here, and
+
+
+150
+0:17:21,63 --> 0:17:27,62
+the reason that book is called The Audacity
+of Hope is it captures an idea that got me
+
+
+151
+0:17:27,62 --> 0:17:33,78
+into politics in the first place, which is
+that part of what has been great about America
+
+
+152
+0:17:33,78 --> 0:17:41,9
+is there’s a certain audacious quality,
+this belief that this ragtag bunch of revolutionaries
+
+
+153
+0:17:41,9 --> 0:17:47,12
+can overthrow the greatest empire on earth,
+start a government that we've never seen operate
+
+
+154
+0:17:47,12 --> 0:17:54,2
+before, spread across the continent, create
+the greatest economy and the greatest democracy
+
+
+155
+0:17:54,2 --> 0:18:2,549
+in our history, and then overcome barriers,
+both internal and external that would prevent
+
+
+156
+0:18:2,549 --> 0:18:7,419
+us from making progress. There's a certain
+confidence and boldness to the idea of America.
+
+
+157
+0:18:7,419 --> 0:18:14,29
+And the reason I'm running for president right
+now, because oftentimes people ask me, "Why
+
+
+158
+0:18:14,29 --> 0:18:21,37
+now?" You know, if I waited 10 years, I'd
+be still younger than most of the other candidates,
+
+
+159
+0:18:21,37 --> 0:18:33,15
+that's true. It is because I think we are
+at a defining moment in our history, our nation
+
+
+160
+0:18:33,15 --> 0:18:40,28
+is at war, the planet is in peril, ordinary
+Americans are working harder for less. They
+
+
+161
+0:18:40,28 --> 0:18:46,6
+feel as if the dream that generations fought
+for is slowly slipping away. There are costs
+
+
+162
+0:18:46,6 --> 0:18:54,13
+for everything, from healthcare to college
+have gone up. They're finding it more difficult
+
+
+163
+0:18:54,13 --> 0:18:58,91
+to save, difficult to retire, and they don't
+feel as if anybody in Washington is listening
+
+
+164
+0:18:58,91 --> 0:19:3,57
+to them. And when I made the decision, I sat
+down with my wife, and I asked myself three
+
+
+165
+0:19:3,57 --> 0:19:9,74
+questions: One, could my family survive the
+rigors of presidential campaign? And because
+
+
+166
+0:19:9,74 --> 0:19:13,57
+my wife is exceptional and my children are
+above average, we figured we could do it,
+
+
+167
+0:19:13,57 --> 0:19:22,75
+and they’ve been great. That's also true.
+The second question we asked was, "Could we
+
+
+168
+0:19:22,75 --> 0:19:26,15
+win?" And we determined that we could. But
+the third question was, I asked myself the
+
+
+169
+0:19:26,15 --> 0:19:31,5
+question you asked, because I think so much
+is at stake right now that running for president
+
+
+170
+0:19:31,5 --> 0:19:36,23
+can't be about just ambition this time, there's
+got to be a rationale. And what I concluded
+
+
+171
+0:19:36,23 --> 0:19:42,53
+is this; I believe I can more effectively
+bring this country together to solve problems
+
+
+172
+0:19:42,53 --> 0:19:50,46
+than on the other candidate. And, yeah, we
+have seen a gridlock where 45% of the country
+
+
+173
+0:19:50,46 --> 0:19:54,65
+is on one side, 45% of the country is on the
+other, we've got 10% in the middle, they all
+
+
+174
+0:19:54,65 --> 0:20:2,85
+live in Ohio and Florida apparently, and so,
+political contest just become beating down
+
+
+175
+0:20:2,85 --> 0:20:8,789
+the other side and eking out of victory one
+way or the other, but you can't govern. And
+
+
+176
+0:20:8,789 --> 0:20:14,23
+the problems we face, whether it's climate
+change or healthcare or our standing in the
+
+
+177
+0:20:14,23 --> 0:20:19,9
+world are so enormous that we have to govern,
+we have to make good decisions, so that's
+
+
+178
+0:20:19,9 --> 0:20:30,19
+number one. Number two, is I--I have taken
+on the special interest in the past and of
+
+
+179
+0:20:30,19 --> 0:20:35,78
+one and I've got an instinct of bias to push
+against the status quo, which I think is really
+
+
+180
+0:20:35,78 --> 0:20:40,97
+needed right now because Washington has become
+captive of special interest that are making
+
+
+181
+0:20:40,97 --> 0:20:46,929
+decisions not based on reason, not based on
+competition, not based on innovation, but
+
+
+182
+0:20:46,929 --> 0:20:51,77
+all too often based on who's got the most
+juice, who's got the most clout, and that
+
+
+183
+0:20:51,77 --> 0:21:2,16
+has to change. And the third--the third thing
+and this is the last thing is--you mentioned
+
+
+184
+0:21:2,16 --> 0:21:13,45
+in my background--I was shaped by a new global
+perspective. I grew up in Hawaii. I lived
+
+
+185
+0:21:13,45 --> 0:21:21,7
+in Indonesia. I have family all around the
+globe. And the damage that's been done over
+
+
+186
+0:21:21,7 --> 0:21:29,8
+the last seven years and outstanding in the
+world is so significant that we have to have
+
+
+187
+0:21:29,8 --> 0:21:35,72
+the next president engage in a level of personal
+presidential diplomacy that I think is unmatched
+
+
+188
+0:21:35,72 --> 0:21:41,61
+at least since World War II. And I believe
+that the day I'm inaugurated, the--not only
+
+
+189
+0:21:41,61 --> 0:21:45,41
+does the country look at itself differently
+but the world looks at America differently.
+
+
+190
+0:21:45,41 --> 0:21:52,82
+And I'm able to go to Africa and speak to
+them about development and problems of corruption
+
+
+191
+0:21:52,82 --> 0:21:58,94
+and our obligations towards that continent,
+and I could say--I've got a grandmother in
+
+
+192
+0:21:58,94 --> 0:22:5,38
+a small African village without electricity
+or running water. So I have a little credibility
+
+
+193
+0:22:5,38 --> 0:22:10,76
+that no other president could match. If I
+go to a Muslim leader, I can speak to them
+
+
+194
+0:22:10,76 --> 0:22:15,69
+and I can say, "I am a Christian but I live
+in the country with the largest Muslim population
+
+
+195
+0:22:15,69 --> 0:22:22,97
+in the world. And so, I don't assume a clash
+of civilizations. I think that there's something
+
+
+196
+0:22:22,97 --> 0:22:27,52
+we have in common that we can potentially
+build on. And I have a level of credibility
+
+
+197
+0:22:27,52 --> 0:22:32,11
+that no other president has. That I think
+is what's going to be necessary to lead us
+
+
+198
+0:22:32,11 --> 0:22:52,4
+out of the problems that we're in right now.
+>> SCHMIDT: You know--well. Now, Senator,
+
+
+199
+0:22:52,4 --> 0:22:59,98
+you're here at Google and I like to think
+of the presidency as a job interview. Now,
+
+
+200
+0:22:59,98 --> 0:23:2,23
+it's hard to get a job...
+>> OBAMA: Right.
+
+
+201
+0:23:2,23 --> 0:23:3,37
+>> SCHMIDT: As president...
+>> OBAMA: Right.
+
+
+202
+0:23:3,37 --> 0:23:6,14
+>> SCHMIDT: And--I mean, you're going to do
+a great job. It's also hard to get a job at
+
+
+203
+0:23:6,14 --> 0:23:7,88
+Google.
+>> OBAMA: Right.
+
+
+204
+0:23:7,88 --> 0:23:13,62
+>> SCHMIDT: We have questions and we ask our
+candidates questions. And this one is from
+
+
+205
+0:23:13,62 --> 0:23:13,83
+Larry Schwimmer.
+>> OBAMA: Okay.
+
+
+206
+0:23:13,83 --> 0:23:22,679
+>> SCHMIDT: What--you guys think I'm kidding,
+it's right here. What is the most efficient
+
+
+207
+0:23:22,679 --> 0:23:29,169
+way to sort a million 32-bit integers?
+>> OBAMA: Well...
+
+
+208
+0:23:29,169 --> 0:23:33,73
+>> SCHMIDT: Maybe--I'm sorry...
+>> OBAMA: No, no, no, no. I think--I think
+
+
+209
+0:23:33,73 --> 0:23:39,32
+the bubble sort would be the wrong way to
+go.
+
+
+210
+0:23:39,32 --> 0:23:47,59
+>> SCHMIDT: Come on. Who told him this? Okay.
+I didn't see computer science in your background.
+
+
+211
+0:23:47,59 --> 0:23:53,419
+>> OBAMA: We've got our spies in there.
+>> SCHMIDT: Well, why not--okay, let's ask
+
+
+212
+0:23:53,419 --> 0:24:6,58
+a different interview question. Well, obviously,
+more serious. You're notable in this campaign
+
+
+213
+0:24:6,58 --> 0:24:11,25
+for your steadfast opposition to the Iraq
+War.
+
+
+214
+0:24:11,25 --> 0:24:14,12
+>> OBAMA: Right.
+>> SCHMIDT: On the assumption that you're
+
+
+215
+0:24:14,12 --> 0:24:15,179
+elected president on day one, you'll walk
+in...
+
+
+216
+0:24:15,179 --> 0:24:16,62
+>> OBAMA: Yeah.
+>> SCHMIDT: And the war will probably still
+
+
+217
+0:24:16,62 --> 0:24:18,249
+be on.
+>> OBAMA: Yeah.
+
+
+218
+0:24:18,249 --> 0:24:21,42
+>> SCHMIDT: And we know your view that the
+war was a mistake.
+
+
+219
+0:24:21,42 --> 0:24:23,179
+>> OBAMA: Right.
+>> SCHMIDT: But here it is, you're at the
+
+
+220
+0:24:23,179 --> 0:24:28,809
+desk, what are you going to do?
+>> OBAMA: We will call in--I will call in
+
+
+221
+0:24:28,809 --> 0:24:35,82
+the Joint Chief of Staff, my Secretary Of
+State Nominee, my National Security Advisor
+
+
+222
+0:24:35,82 --> 0:24:45,74
+Nominee, and they will have a new mission,
+which is to end this war. And it appears based
+
+
+223
+0:24:45,74 --> 0:24:50,84
+on the advice that I've gotten from military
+commanders that we can safely bring out one
+
+
+224
+0:24:50,84 --> 0:24:57,58
+to two brigades per month. At that phase,
+we will have our combat troops out in sixteen
+
+
+225
+0:24:57,58 --> 0:25:6,11
+months. The only mission--we will not have
+permanent basis in Iraq and we will not have
+
+
+226
+0:25:6,11 --> 0:25:14,44
+combat operations in Iraq. The only mission
+that I will allow will be to protect our embassy
+
+
+227
+0:25:14,44 --> 0:25:23,49
+and our civilian personnel, diplomats, humanitarian
+workers and we will have a narrowly targeted
+
+
+228
+0:25:23,49 --> 0:25:30,289
+mission of if there are terrorist camps that
+are amassing in Iraq that we have a strike
+
+
+229
+0:25:30,289 --> 0:25:37,71
+capability. Now, it is important during those
+16 months that we are redoubling our diplomatic
+
+
+230
+0:25:37,71 --> 0:25:43,289
+efforts. The reason that it is so important,
+I believe, to start getting our troops out
+
+
+231
+0:25:43,289 --> 0:25:50,89
+is because the Iraqi government has declined
+to negotiate with the various factions. The
+
+
+232
+0:25:50,89 --> 0:25:55,25
+Sunnis, the Shiites, the Kurds have not come
+together and arrive at the political accommodations
+
+
+233
+0:25:55,25 --> 0:26:1,13
+that are necessary to solve this problem.
+And we have not reached out to the regional
+
+
+234
+0:26:1,13 --> 0:26:8,71
+powers including Iran, Syria--so not just
+our friends, but also our enemies to arrive
+
+
+235
+0:26:8,71 --> 0:26:14,22
+at a workable and stable Iraq. And this is
+an argument that I've had with some of the
+
+
+236
+0:26:14,22 --> 0:26:18,809
+other candidates, including Senator Clinton
+in this race. And I think it's part of what
+
+
+237
+0:26:18,809 --> 0:26:26,919
+signals a break from Bush-Cheney diplomacy;
+the willingness to speak to our adversaries.
+
+
+238
+0:26:26,919 --> 0:26:30,159
+President Kennedy once said, "We should never
+negotiate out of fear, but we should never
+
+
+239
+0:26:30,159 --> 0:26:35,86
+fear to negotiate." And the notion that not
+talking to leaders we don't like makes us
+
+
+240
+0:26:35,86 --> 0:26:41,15
+look tough is fundamentally flawed. It makes
+us look arrogant and it sends a message to
+
+
+241
+0:26:41,15 --> 0:26:48,88
+the world that we're not listening. And if
+we change our diplomatic approach led by me,
+
+
+242
+0:26:48,88 --> 0:26:55,669
+the president of the United States, that I
+think will allow us to shift not just the
+
+
+243
+0:26:55,669 --> 0:27:1,409
+situation in Iraq but change the climate in
+the Middle East around the world. It will
+
+
+244
+0:27:1,409 --> 0:27:7,25
+give us more leverage then to deal with terrorist
+activity that's taking place in Afghanistan,
+
+
+245
+0:27:7,25 --> 0:27:12,85
+in the border areas around Pakistan and elsewhere
+in the region.
+
+
+246
+0:27:12,85 --> 0:27:18,78
+>> SCHMIDT: Let's ask about--let's ask about
+Iran, Guantanamo...
+
+
+247
+0:27:18,78 --> 0:27:26,59
+>> OBAMA: Right.
+>> SCHMIDT: Pakistan, give us your sense as
+
+
+248
+0:27:26,59 --> 0:27:30,11
+leader what you would do with all of these
+issues.
+
+
+249
+0:27:30,11 --> 0:27:38,52
+>> OBAMA: I will talk to Iran directly. That
+does not mean that we will be conceding any
+
+
+250
+0:27:38,52 --> 0:27:44,909
+positions with Iran. It means that we will
+listen and see where we can find common ground.
+
+
+251
+0:27:44,909 --> 0:27:51,48
+I think Iran is a grave threat to security.
+If they develop nuclear weapons, they could
+
+
+252
+0:27:51,48 --> 0:27:57,15
+trigger another arms race in the Middle East.
+It is indisputable that they have assisted
+
+
+253
+0:27:57,15 --> 0:28:2,98
+Hezbollah and Hamas in terrorist activity
+and--you know, their language, when it comes
+
+
+254
+0:28:2,98 --> 0:28:11,73
+to Israel is unacceptable. But what is also
+true is that we have repeatedly rebuffed gestures
+
+
+255
+0:28:11,73 --> 0:28:17,299
+that might allow for some resolution of these
+conflicts in a non-military way. And so, for
+
+
+256
+0:28:17,299 --> 0:28:22,409
+us to say to them, "You stand out on the nuclear
+issue and you may be able to join the World
+
+
+257
+0:28:22,409 --> 0:28:31,289
+Trade organization. You stop supporting terrorist
+activity; we are in a position to start normalizing
+
+
+258
+0:28:31,289 --> 0:28:39,9
+relations." Having those conversations face-to-face
+are important. Not--it may be that Ahmadinejad
+
+
+259
+0:28:39,9 --> 0:28:46,94
+rejects it, but it will send a message to
+Iranian people that they are not our enemy
+
+
+260
+0:28:46,94 --> 0:28:51,57
+and it sends a message around the world that
+we are doing business differently. Sarkozy,
+
+
+261
+0:28:51,57 --> 0:28:56,409
+President Sarkozy, I know you just met with
+him, Eric. He was quoted in the New Yorker
+
+
+262
+0:28:56,409 --> 0:29:2,83
+a while back, and he said--he was asked what's
+the most important thing America could do
+
+
+263
+0:29:2,83 --> 0:29:11,539
+to help you, and he said, "Be more liked."
+Be more liked. You know, and he wasn't joking
+
+
+264
+0:29:11,539 --> 0:29:17,58
+because when our standing is low, it gives
+us less leverage. We can't negotiate and maneuver.
+
+
+265
+0:29:17,58 --> 0:29:22,69
+Many people are concerned probably here about
+the genocide in Darfur. We would be in such
+
+
+266
+0:29:22,69 --> 0:29:27,34
+a stronger position to ensure there was a
+protective force on the ground and to save
+
+
+267
+0:29:27,34 --> 0:29:36,2
+people's lives if we had more credibility
+and more trust so that people--so that the
+
+
+268
+0:29:36,2 --> 0:29:39,7
+Khartoum government couldn't say that, "Oh,
+we're just trying to invade another Muslim
+
+
+269
+0:29:39,7 --> 0:29:52,39
+country." So that's on Iran. Pakistan--Pakistan
+is in a difficult situation right now. And
+
+
+270
+0:29:52,39 --> 0:29:58,679
+in some ways, we've got the worst of both
+worlds; we’ve got a military ruler who has
+
+
+271
+0:29:58,679 --> 0:30:5,13
+locked up political opposition and institute
+an emergency rule. So he's violating human
+
+
+272
+0:30:5,13 --> 0:30:12,659
+rights in Pakistan and he also has not dealt
+with terrorist activity inside his borders.
+
+
+273
+0:30:12,659 --> 0:30:18,14
+We need to reverse course. I've already said
+that we should suspend military that's not
+
+
+274
+0:30:18,14 --> 0:30:24,929
+related to--directly to hunting down terrorists.
+We should suspend that until military--emergency
+
+
+275
+0:30:24,929 --> 0:30:31,8
+rule is lifted and prisoners were released
+and they can proceed with what the Constitution
+
+
+276
+0:30:31,8 --> 0:30:39,26
+of Pakistan has called for. This is a mistake
+we repeatedly make. We think somehow and we
+
+
+277
+0:30:39,26 --> 0:30:45,32
+made this all throughout the Cold War. We
+think that by latching on to non-democratic
+
+
+278
+0:30:45,32 --> 0:30:51,46
+authoritarian rule, we somehow contain--in
+this case, Islamist extremism, it doesn’t
+
+
+279
+0:30:51,46 --> 0:30:59,429
+contain as Islamist extremism. It makes people
+believe that somehow the United States is
+
+
+280
+0:30:59,429 --> 0:31:4,69
+opposed to their liberty, opposed to their
+democracy. And that's not the side of history
+
+
+281
+0:31:4,69 --> 0:31:10,8
+that we want to be on. Now, we have to make
+sure that the nuclear weapons in Pakistan
+
+
+282
+0:31:10,8 --> 0:31:14,74
+are secure. And that has to be our number
+one priority and will be my number one priority
+
+
+283
+0:31:14,74 --> 0:31:21,39
+as president. But understand Pakistan--the
+democratic element in Pakistan, a big chunk
+
+
+284
+0:31:21,39 --> 0:31:28,789
+of this movement is secular, it is middle-class.
+And what they're seeking is for the kind of
+
+
+285
+0:31:28,789 --> 0:31:34,36
+political liberty that we hope for. Last point,
+Guantanamo, that's easy. We close down Guantanamo,
+
+
+286
+0:31:34,36 --> 0:31:49,19
+restore Habeas Corpus, say no to renditions,
+no to wireless wiretaps, you know, Part of
+
+
+287
+0:31:49,19 --> 0:31:55,58
+my job as the next president is to break the
+fever of fear that has been exploited by this
+
+
+288
+0:31:55,58 --> 0:32:5,99
+administration, that--you know, we're told--you
+know, we're told that we should be afraid
+
+
+289
+0:32:5,99 --> 0:32:17,0
+of terrorists and immigrants and each other,
+and it becomes the means by which our civil
+
+
+290
+0:32:17,0 --> 0:32:24,27
+liberties are subverted, our values are distorted,
+we start hearing our attorney general nominee
+
+
+291
+0:32:24,27 --> 0:32:31,539
+not being certain as to whether simulated
+drownings are torture. That's not who we are
+
+
+292
+0:32:31,539 --> 0:32:37,399
+as Americans. And sometimes I’m accused
+of being, you know, this progressive far--I'm
+
+
+293
+0:32:37,399 --> 0:32:44,32
+conservative in a sense that I want us to
+get back to those values that were essential
+
+
+294
+0:32:44,32 --> 0:32:56,779
+to building America. Well....
+>> SCHMIDT: The--let's talk a little about
+
+
+295
+0:32:56,779 --> 0:33:4,279
+America, and the America that you see today
+is one of extremes. And in your campaign,
+
+
+296
+0:33:4,279 --> 0:33:9,83
+you've talked a lot about the people who are
+not the--the economic winners, the educational
+
+
+297
+0:33:9,83 --> 0:33:15,309
+winners, or whatever, and many people are
+responding very strongly and positively to
+
+
+298
+0:33:15,309 --> 0:33:16,299
+that message.
+>> OBAMA: Right.
+
+
+299
+0:33:16,299 --> 0:33:21,649
+>> SCHMIDT: Take us through what would be
+different. What are you going to do, how are
+
+
+300
+0:33:21,649 --> 0:33:27,73
+you going to deal with the very serious economic
+problems, educational problems, a set of problems
+
+
+301
+0:33:27,73 --> 0:33:33,149
+that we face here in the United States.
+>> OBAMA: Well, let's start with acknowledging
+
+
+302
+0:33:33,149 --> 0:33:41,19
+that our economy is out of balance. We have
+seen extraordinary economic growth and, obviously,
+
+
+303
+0:33:41,19 --> 0:33:51,84
+Google is a symbol of one sector of our economy
+that's just been extraordinary; innovative,
+
+
+304
+0:33:51,84 --> 0:34:2,11
+creative and lucrative, but there's a whole
+another part of America that has been left
+
+
+305
+0:34:2,11 --> 0:34:8,75
+behind. You know, if you look economically,
+all the growth over the last two decades is
+
+
+306
+0:34:8,75 --> 0:34:14,659
+essentially been captured by not just the
+top five percent, but really the top one percent.
+
+
+307
+0:34:14,659 --> 0:34:24,329
+And the average American worker's wages and
+incomes have flatlined; they're not making
+
+
+308
+0:34:24,329 --> 0:34:30,429
+progress. And they feel anxious about it,
+and because they feel anxious about it, they
+
+
+309
+0:34:30,429 --> 0:34:37,899
+are afraid of globalization. And that fear
+has been fed by our politics. Now, my strong
+
+
+310
+0:34:37,899 --> 0:34:44,399
+belief is that globalization is here to stay
+and it is a powerful potential tool for good.
+
+
+311
+0:34:44,399 --> 0:34:51,69
+But we've got to--but we've--but we have to
+make sure that everybody has the ability to
+
+
+312
+0:34:51,69 --> 0:34:57,63
+access what's good about globalization. And
+right now, people are locked up. So very specifically,
+
+
+313
+0:34:57,63 --> 0:35:2,339
+what would I do, I would transform our education
+system and that means that we invest in early
+
+
+314
+0:35:2,339 --> 0:35:11,229
+childhood education to close the achievement
+gap that exists right now. And that's not
+
+
+315
+0:35:11,229 --> 0:35:14,829
+just pre-kindergarten, I mean, it's zero over
+to three. From the moment the child is born,
+
+
+316
+0:35:14,829 --> 0:35:18,619
+if they're born to an at-risk parent, we're
+going to that parent and we are helping them.
+
+
+317
+0:35:18,619 --> 0:35:22,609
+If that parent can't read, we'll teach the
+parent to read so they can read to their child.
+
+
+318
+0:35:22,609 --> 0:35:28,569
+But make sure they're prepared for school.
+That's step number one. The--in terms of K
+
+
+319
+0:35:28,569 --> 0:35:35,479
+through 12, we know that the most important
+element other than the parent in the child's
+
+
+320
+0:35:35,479 --> 0:35:40,91
+learning is the teacher. So we--I will be
+a president who stops talking about how great
+
+
+321
+0:35:40,91 --> 0:35:55,68
+teachers are and actually starts rewarding
+them for being great by paying them more money.
+
+
+322
+0:35:55,68 --> 0:36:1,65
+We need to pay them higher salaries. We have
+to give them more professional development,
+
+
+323
+0:36:1,65 --> 0:36:8,2
+especially in their early years where they
+start and we have to change how we asses progress
+
+
+324
+0:36:8,2 --> 0:36:13,29
+for teachers because No Child Left Behind
+has created a situation where people are being
+
+
+325
+0:36:13,29 --> 0:36:17,459
+taught just the standardized test. They're
+not being thought art, they're not being thought
+
+
+326
+0:36:17,459 --> 0:36:22,99
+music, and it is stifling for the teacher
+and for the student. Now, we have to have
+
+
+327
+0:36:22,99 --> 0:36:27,289
+high standards, but those standards have to
+build on what is best about the American education
+
+
+328
+0:36:27,289 --> 0:36:33,89
+system, which is innovation, and creativity.
+So that we have to take or we have to make
+
+
+329
+0:36:33,89 --> 0:36:41,989
+college way more affordable. And one way to--one
+way I will immediately do that is get to banks
+
+
+330
+0:36:41,989 --> 0:36:46,739
+and financial institutions out of the business
+of providing student loans. You can take billions
+
+
+331
+0:36:46,739 --> 0:36:50,999
+of dollars of profits with the direct loan
+program. So that's on the education front.
+
+
+332
+0:36:50,999 --> 0:36:56,349
+We have to make investments in Broadband line
+and infrastructure so that we are competitive.
+
+
+333
+0:36:56,349 --> 0:37:1,65
+There has to be lifelong learning available
+so that people can continually retrain. I
+
+
+334
+0:37:1,65 --> 0:37:12,19
+mean, you know, I will steal a phrase from--I
+think it was Tony Blair who said that, "We
+
+
+335
+0:37:12,19 --> 0:37:19,849
+can't guarantee employment for everybody,
+but we can guarantee that everybody is employable."
+
+
+336
+0:37:19,849 --> 0:37:24,209
+And that means that people have to be able
+to constantly transition in terms of their
+
+
+337
+0:37:24,209 --> 0:37:30,29
+ability to adapt to new circumstances. And
+technology can play a critical role in that,
+
+
+338
+0:37:30,29 --> 0:37:34,589
+but we've got to make sure that it's accessible
+and available to every person. And the last
+
+
+339
+0:37:34,589 --> 0:37:44,819
+point I would make is that we've got to rebuild
+our social safety net that has not been adapted
+
+
+340
+0:37:44,819 --> 0:37:54,769
+since FDR. So, we've got to make sure that
+healthcare is available even when you lose
+
+
+341
+0:37:54,769 --> 0:38:0,41
+your job, that you have a retirement account
+that follows you with the job. Part of the
+
+
+342
+0:38:0,41 --> 0:38:5,259
+reason where an innovative society is--that
+we've always felt that, you know what, if
+
+
+343
+0:38:5,259 --> 0:38:12,65
+we take a risk and we make a misstep, that
+there's some cushion there for--not just us
+
+
+344
+0:38:12,65 --> 0:38:18,9
+but for our families as well. And that's why
+universal healthcare is so important, that's
+
+
+345
+0:38:18,9 --> 0:38:22,45
+why creating new systems for--to help people
+say this is so important, so that we'll actually
+
+
+346
+0:38:22,45 --> 0:38:27,859
+spur on people's willingness to take risks
+in the marketplace. Right now, they don't
+
+
+347
+0:38:27,859 --> 0:38:38,829
+feel as if they're able to do so.
+>> A couple of final questions from me and
+
+
+348
+0:38:38,829 --> 0:38:44,739
+then we'll ask some audience questions. I
+had a privilege. I was watching 60 Minutes
+
+
+349
+0:38:44,739 --> 0:38:48,66
+and I saw an interview with yourself and your
+wife, Michelle, and there were a number of
+
+
+350
+0:38:48,66 --> 0:38:53,49
+questions to you and then they asked--asked
+your wife about it, and excuse, it’s rather
+
+
+351
+0:38:53,49 --> 0:38:54,309
+a personal question. It's a question about
+race.
+
+
+352
+0:38:54,309 --> 0:38:57,609
+>> OBAMA: Uh-hmmm.
+>> SCHMIDT: How did she feel about race, the
+
+
+353
+0:38:57,609 --> 0:39:2,499
+dangers of presidency and so forth, and she
+looked straight in the camera and she said,
+
+
+354
+0:39:2,499 --> 0:39:9,479
+"I worry more about my husband walking down
+the street from the Senate than anything else."
+
+
+355
+0:39:9,479 --> 0:39:18,269
+At that moment, I understood the gap and perception
+between people of races in America. And it
+
+
+356
+0:39:18,269 --> 0:39:23,64
+was made vivid to me how different her view
+and my view would be. The same question.
+
+
+357
+0:39:23,64 --> 0:39:25,989
+>> OBAMA: All right.
+>> SCHMIDT: Can you talk a little bit about
+
+
+358
+0:39:25,989 --> 0:39:32,349
+that issue in America?
+>> OBAMA: Absolutely. Look, the W. B. Du Bois
+
+
+359
+0:39:32,349 --> 0:39:37,95
+said that the problem of the 21st--the problem
+of the 20th century is the problem of the
+
+
+360
+0:39:37,95 --> 0:39:46,63
+colored one. And if you expand that, the problem
+of the 21st century is the problem of the
+
+
+361
+0:39:46,63 --> 0:39:52,829
+other, people who are not like us, whether
+it's in religious terms. If you go to Sri
+
+
+362
+0:39:52,829 --> 0:39:59,259
+Lanka, it's, you know, what's been fueling
+as a vicious civil war there even though everybody
+
+
+363
+0:39:59,259 --> 0:40:6,239
+looks exactly the same, same with--in Northern
+Ireland, or it manifests itself in this country
+
+
+364
+0:40:6,239 --> 0:40:13,39
+in racial terms. And that--it has always been
+a nagging problem. There have been reports
+
+
+365
+0:40:13,39 --> 0:40:17,709
+just this week that African-Americans feel
+more pessimistic than they have in a very
+
+
+366
+0:40:17,709 --> 0:40:27,229
+long time and there's statistics that bear
+out. Why--how they in fact have not kept pace
+
+
+367
+0:40:27,229 --> 0:40:34,269
+when it comes to economic growth in this country.
+The virulent and anti-immigrant sentiment
+
+
+368
+0:40:34,269 --> 0:40:40,609
+that we're seeing all across the country is
+something that has been striking. I mean,
+
+
+369
+0:40:40,609 --> 0:40:45,209
+just in the last two years, you're seeing
+a shift where, you know, I fought for comprehensive
+
+
+370
+0:40:45,209 --> 0:40:53,44
+immigration reform two years ago and we didn't
+succeed, but there wasn't this raw anger about
+
+
+371
+0:40:53,44 --> 0:41:1,459
+it that you see now even when I'm campaigning
+among Democrats sometimes. So part of what
+
+
+372
+0:41:1,459 --> 0:41:8,65
+I believe I bring to this office is somebody
+who sees the world through a variety of different
+
+
+373
+0:41:8,65 --> 0:41:14,749
+races. My mother was white, my father was
+African. I grew up in Hawaii. I've got a sister
+
+
+374
+0:41:14,749 --> 0:41:19,38
+who's half Indonesian. She's married to a
+Chinese Canadian. You know, I've said...
+
+
+375
+0:41:19,38 --> 0:41:24,359
+>> SCHMIDT: It sounds like Google.
+>> OBAMA: Yeah. It's--my family would fit
+
+
+376
+0:41:24,359 --> 0:41:35,719
+right in here, no doubt about it. But people
+talk about our federal budget deficit, right?
+
+
+377
+0:41:35,719 --> 0:41:40,859
+We have an empathy deficit. We aren’t able
+to see the world through other people's eyes.
+
+
+378
+0:41:40,859 --> 0:41:46,229
+And that's what I think I can provide. Now,
+very concretely, what we need to do when it
+
+
+379
+0:41:46,229 --> 0:41:53,499
+comes to issues of race, I think a lot of
+the tensions are tied to economics. African-Americans
+
+
+380
+0:41:53,499 --> 0:42:0,64
+and Latinos are much more likely to be unemployed,
+employed in lower-wage jobs, will not have
+
+
+381
+0:42:0,64 --> 0:42:8,829
+healthcare, and be in substandard schools,
+drops out of school. So on in every indicator,
+
+
+382
+0:42:8,829 --> 0:42:14,539
+they're doing worse. And that contributes
+to that gap in perceptions that you're talking
+
+
+383
+0:42:14,539 --> 0:42:19,729
+about because, you know, the glass often looks
+half empty to a lot of African-American and
+
+
+384
+0:42:19,729 --> 0:42:26,779
+Latino children. And so, part of our job in
+investing an early childhood education or
+
+
+385
+0:42:26,779 --> 0:42:33,729
+making sure that they're going to outstanding
+schools, or insuring equality of opportunity
+
+
+386
+0:42:33,729 --> 0:42:42,309
+when it comes to employment, enforcing our
+Civil Rights laws, investigating crimes like
+
+
+387
+0:42:42,309 --> 0:42:48,969
+news is being hanged in classrooms. All that
+contributes to a sense that these kids matter
+
+
+388
+0:42:48,969 --> 0:42:57,15
+to us, that they're not those kids, they’re
+our kids, and when we can have a culture and
+
+
+389
+0:42:57,15 --> 0:43:4,49
+a government that perceives every child as
+mattering, and then they will respond differently.
+
+
+390
+0:43:4,49 --> 0:43:10,79
+And I think we will start stitching together
+the kind of America that all of us hope and
+
+
+391
+0:43:10,79 --> 0:43:15,949
+dream for.
+>> SCHMIDT: That's promising, absolutely riveting.
+
+
+392
+0:43:15,949 --> 0:43:19,29
+Let's get a couple of questions from the audience.
+I've also got--why don't you go ahead--and
+
+
+393
+0:43:19,29 --> 0:43:24,379
+I've also got some that were submitted that
+we also ranked, so, go ahead.
+
+
+394
+0:43:24,379 --> 0:43:27,619
+>> First of all, thank so much for coming.
+Your words are really inspiring.
+
+
+395
+0:43:27,619 --> 0:43:30,66
+>> OBAMA: Thank you.
+>> And we really appreciate it. You know,
+
+
+396
+0:43:30,66 --> 0:43:31,7
+I've been voting for quite few a years, a
+little older than the average Googler. And…
+
+
+397
+0:43:31,7 --> 0:43:38,289
+>> OBAMA: Yeah, you know, you, like, look
+like you might almost be my age.
+
+
+398
+0:43:38,289 --> 0:43:41,659
+>> Maybe a little older.
+>> OBAMA: Yeah.
+
+
+399
+0:43:41,659 --> 0:43:47,42
+>> And, you know, Bill Clinton is the only
+Democrat elected in the last 30 years. And
+
+
+400
+0:43:47,42 --> 0:43:51,39
+he's the only Democrat elected twice since
+World War II.
+
+
+401
+0:43:51,39 --> 0:43:53,819
+>> OBAMA: Right.
+>> I'm tired of losing.
+
+
+402
+0:43:53,819 --> 0:43:58,4
+>> OBAMA: Right.
+>> So, what have you learned from Clinton
+
+
+403
+0:43:58,4 --> 0:44:3,329
+that is going to make you win? What are you
+going to do differently? And what have you
+
+
+404
+0:44:3,329 --> 0:44:9,349
+learned from Gore and from Kerry and all those
+guys that you're going to avoid so that history
+
+
+405
+0:44:9,349 --> 0:44:12,789
+doesn’t reoccur?
+>> OBAMA: Well, first of all, I think--there's
+
+
+406
+0:44:12,789 --> 0:44:17,359
+a lot to learn from Bill Clinton. I mean,
+one of the things that Clinton did I think
+
+
+407
+0:44:17,359 --> 0:44:29,719
+was recognize the moment. We were in a particular
+moment in 1991-'92 when the Democrats had
+
+
+408
+0:44:29,719 --> 0:44:38,42
+not wrung out the excesses of the '60s and
+the early '70s, we were still deeply invested
+
+
+409
+0:44:38,42 --> 0:44:46,469
+in identity politics and interest group politics.
+And the Democratic Congress wasn’t showing
+
+
+410
+0:44:46,469 --> 0:44:51,539
+itself adaptable and shaking off some of the
+orthodoxies of the past. And he came in and
+
+
+411
+0:44:51,539 --> 0:44:55,849
+he said, "You know what? I'm a different kind
+of Democrat, and I'm willing to do things
+
+
+412
+0:44:55,849 --> 0:45:4,9
+in some new ways." And that was a powerful
+message for that moment. The reason I'm running
+
+
+413
+0:45:4,9 --> 0:45:8,559
+and the reason I believe I'm going to win
+is because we are in a different moment. So
+
+
+414
+0:45:8,559 --> 0:45:12,949
+you can't just copy what Bill Clinton did,
+but you have to take the same approach. What
+
+
+415
+0:45:12,949 --> 0:45:18,969
+is it that's needed right now? And I believe
+that what's needed right now is the capacity
+
+
+416
+0:45:18,969 --> 0:45:26,339
+to bring people together to think in practical
+reasoned ways about big problems that we face
+
+
+417
+0:45:26,339 --> 0:45:31,989
+to be straight with the American people about--and
+honest with them about the challenges that
+
+
+418
+0:45:31,989 --> 0:45:37,999
+we face. So part of what our message is built
+around is that we are in this defining moment
+
+
+419
+0:45:37,999 --> 0:45:43,199
+and we can't keep doing the same things that
+we've been doing that haven’t been working.
+
+
+420
+0:45:43,199 --> 0:45:50,65
+So that's point number one. What I've learned
+in terms of how Democrats lose? Democrats
+
+
+421
+0:45:50,65 --> 0:45:58,999
+lose when they are not clear about what they
+stand for. Democrats lose when they are attacked,
+
+
+422
+0:45:58,999 --> 0:46:4,91
+and because they don't know where they stand,
+they end up getting defensive instead of going
+
+
+423
+0:46:4,91 --> 0:46:9,869
+on the offensive. So, let me give you a very
+specific example, I am looking forward to
+
+
+424
+0:46:9,869 --> 0:46:17,539
+having a debate with whether it's Rudy Giuliani
+or Mitt Romney about the fear mongering that
+
+
+425
+0:46:17,539 --> 0:46:22,789
+has dominated the Republican debate of, like,
+where they're going to say I'm going to double
+
+
+426
+0:46:22,789 --> 0:46:30,39
+Guantanamo. Or, I'm going to, I think torture
+is okay. Or, you know, at least we'll redefine
+
+
+427
+0:46:30,39 --> 0:46:35,719
+torture. So torture is not okay, but these
+things that look on off are like--like it,
+
+
+428
+0:46:35,719 --> 0:46:44,44
+are okay. Or we need to do whatever it takes
+to read people's e-mails. And I am looking
+
+
+429
+0:46:44,44 --> 0:46:49,259
+forward to having that debate. But the problem
+we have is when we get defensive, and we're
+
+
+430
+0:46:49,259 --> 0:46:56,269
+not sure about our beliefs and our convictions,
+and so we start trying to sound a little bit
+
+
+431
+0:46:56,269 --> 0:47:2,779
+like them, and that is a profound mistake.
+One of the things that my wife and I, we said
+
+
+432
+0:47:2,779 --> 0:47:7,609
+to ourselves when we got into this race is
+if we start sounding like anybody--everybody
+
+
+433
+0:47:7,609 --> 0:47:12,749
+else, then what's the point, you know? I should
+go work for Google, you know, it'll be more
+
+
+434
+0:47:12,749 --> 0:47:15,799
+fun.
+>> SCHMIDT: You answered the question correctly.
+
+
+435
+0:47:15,799 --> 0:47:23,969
+>> OBAMA: I did answer the question correctly.
+So making sure that we're clear about where
+
+
+436
+0:47:23,969 --> 0:47:31,939
+we stand, honest with the American people,
+seizing the moment and recognizing that we
+
+
+437
+0:47:31,939 --> 0:47:40,64
+have to deal with climate change now, we have
+to deal with healthcare now. We have to revamp
+
+
+438
+0:47:40,64 --> 0:47:48,18
+our education system now. We have to double
+our investment and research and science now
+
+
+439
+0:47:48,18 --> 0:47:54,739
+and understanding that we don't have a lot
+of time to waste. That I think is going to
+
+
+440
+0:47:54,739 --> 0:48:4,63
+be a compelling message for the American people.
+Thank you. Thanks.
+
+
+441
+0:48:4,63 --> 0:48:7,329
+>> SCHMIDT: We--okay, thank you very much,
+Senator. We have an electronically submitted
+
+
+442
+0:48:7,329 --> 0:48:7,41
+question dealing with federal deficit.
+>> OBAMA: Okay.
+
+
+443
+0:48:7,41 --> 0:48:10,9
+>> SCHMIDT: What concrete steps will the Obama
+Administration take to address the federal
+
+
+444
+0:48:10,9 --> 0:48:15,289
+government's deficit and debt? What specific
+tax measures and program changes will you
+
+
+445
+0:48:15,289 --> 0:48:20,67
+recommend to Congress?
+>> OBAMA: This has been the fiscally the most
+
+
+446
+0:48:20,67 --> 0:48:25,849
+irresponsible administration that we have
+seen. I mean, we have increased the national
+
+
+447
+0:48:25,849 --> 0:48:35,9
+debt, almost doubled it since George Bush
+took office. It is now over $9 trillion. And
+
+
+448
+0:48:35,9 --> 0:48:43,119
+that is money that we're all going to have
+to pay back. So, the first thing that we have
+
+
+449
+0:48:43,119 --> 0:48:49,43
+to do is to bring an end to this war in Iraq.
+We're spending $10 to $12 billion per month.
+
+
+450
+0:48:49,43 --> 0:49:0,93
+The latest request for both Iraq and Afghanistan
+are $196 billion for next year. One year,
+
+
+451
+0:49:0,93 --> 0:49:10,68
+a $196 billion. That is money that could be
+providing health insurance to all Americans.
+
+
+452
+0:49:10,68 --> 0:49:15,819
+It could be rebuilding our schools. It could
+be providing higher teachers’ salaries.
+
+
+453
+0:49:15,819 --> 0:49:21,59
+It could be providing scholarships for every
+American, young persons going to college.
+
+
+454
+0:49:21,59 --> 0:49:30,92
+So we are using our resources in a way that's
+not sound. We can recapture some of that money.
+
+
+455
+0:49:30,92 --> 0:49:37,709
+Some of it will go to taking care of our veterans,
+some of it should go to social programs, and
+
+
+456
+0:49:37,709 --> 0:49:43,41
+some of it should go towards deficit reduction.
+Second principle is a very similar principle
+
+
+457
+0:49:43,41 --> 0:49:47,569
+called Pay Go. If you want to cut taxes, you’ve
+got to cut spending, if you want to raise
+
+
+458
+0:49:47,569 --> 0:49:53,709
+spending, you got to raise revenue, so that
+you have honest accounting. Right now, the
+
+
+459
+0:49:53,709 --> 0:50:2,199
+federal budget is not honest. And unless we
+have good numbers, we can't end up dealing
+
+
+460
+0:50:2,199 --> 0:50:6,569
+with this budget issue. Now, the biggest problem
+we have in terms of our budget though long
+
+
+461
+0:50:6,569 --> 0:50:15,959
+term. And look, I want to eliminate no-bid
+contracts. I want to scrub the federal budget
+
+
+462
+0:50:15,959 --> 0:50:22,339
+free of earmarks and pet projects that are
+not based on our national priorities and that
+
+
+463
+0:50:22,339 --> 0:50:26,999
+require transparency in government. I talked
+earlier about the power of technology. One
+
+
+464
+0:50:26,999 --> 0:50:30,869
+of the things that we've done, you'll be pleased
+to know that we call this the Google for Government
+
+
+465
+0:50:30,869 --> 0:50:36,69
+bill and…
+>> SCHMIDT: Google is in favor of it.
+
+
+466
+0:50:36,69 --> 0:50:40,839
+>> OBAMA: Yes. And what it does is we're going
+to set up a searchable database for every
+
+
+467
+0:50:40,839 --> 0:50:45,4
+dollar of federal spending so that we can
+track it, which means that we'll be able to--journalist
+
+
+468
+0:50:45,4 --> 0:50:50,999
+and ordinary citizens and think tanks and,
+you know, advocacy groups will be able to
+
+
+469
+0:50:50,999 --> 0:50:56,39
+see it. There are moneys going to a bridge
+to nowhere instead of going to a bridge to
+
+
+470
+0:50:56,39 --> 0:51:1,4
+somewhere. We'll be able to challenge it in
+real time and that's going to be important.
+
+
+471
+0:51:1,4 --> 0:51:4,609
+But the last thing I was going to mention--and
+this is probably the biggest problem we have
+
+
+472
+0:51:4,609 --> 0:51:10,91
+with the federal budget is healthcare spending;
+Medicare and Medicaid. That's the big budget
+
+
+473
+0:51:10,91 --> 0:51:17,88
+buster. That's the scary thing out there that
+it will be, like, the blop. It will just consume
+
+
+474
+0:51:17,88 --> 0:51:22,779
+everything unless we do something about it
+now. And again, technology is part of the
+
+
+475
+0:51:22,779 --> 0:51:27,509
+answer. And innovation is going to be part
+of the answer in reducing these costs. The
+
+
+476
+0:51:27,509 --> 0:51:32,299
+reason that healthcare cost is skyrocketing
+is not so much that the population is getting
+
+
+477
+0:51:32,299 --> 0:51:36,799
+older, that contributes a little bit to it,
+but the main problem is healthcare inflation
+
+
+478
+0:51:36,799 --> 0:51:45,13
+goes up six, eight, ten percent per year.
+It's unsustainable. And so for example, if
+
+
+479
+0:51:45,13 --> 0:51:53,739
+we use Health I. T., just simple stuff, making
+sure that everybody's medical records are
+
+
+480
+0:51:53,739 --> 0:52:1,93
+on digital--in a digital form, so that when
+a nurse pulls up somebody's chart, they can
+
+
+481
+0:52:1,93 --> 0:52:7,14
+actually read the writing, and they’re not
+administering the wrong drug. Making sure
+
+
+482
+0:52:7,14 --> 0:52:12,68
+that billing is all electronic. That can make
+a huge difference, investing and prevention,
+
+
+483
+0:52:12,68 --> 0:52:19,249
+so that children are getting regular check-ups
+instead of having to go to the emergency room
+
+
+484
+0:52:19,249 --> 0:52:23,69
+for treatable illnesses like asthma. That
+makes an enormous difference. That will probably
+
+
+485
+0:52:23,69 --> 0:52:29,859
+be the biggest savings item for our federal
+budget if we do it right. And people like
+
+
+486
+0:52:29,859 --> 0:52:33,579
+yourselves can be a part of that process.
+>> SCHMIDT: Thank you. Ethan.
+
+
+487
+0:52:33,579 --> 0:52:37,19
+>> ETHAN: Thank you, Senator Obama, for coming
+to visit us. And we’re really pulling for
+
+
+488
+0:52:37,19 --> 0:52:38,72
+you out here in the Bay area.
+>> OBAMA: Thank you.
+
+
+489
+0:52:38,72 --> 0:52:44,589
+>> ETHAN: I'm a big supporter and a vocal
+supporter, and the biggest issue that I constantly
+
+
+490
+0:52:44,589 --> 0:52:48,66
+hear brought up about you is the lack of experience,
+the inexperience issue.
+
+
+491
+0:52:48,66 --> 0:52:52,199
+>> OBAMA: Right.
+>> ETHAN: And I heard about it amongst my
+
+
+492
+0:52:52,199 --> 0:52:53,749
+friends, you read about that in the press,
+I'm sure you’ve had the answers to lots
+
+
+493
+0:52:53,749 --> 0:52:57,43
+of questions about it, without getting into--frankly,
+I guess you can--but without getting whether
+
+
+494
+0:52:57,43 --> 0:53:1,739
+experience makes a difference or not, but
+what you’re actually going to do to address
+
+
+495
+0:53:1,739 --> 0:53:7,42
+this perceived weakness and allow a lot of
+voters that want to get behind you and want
+
+
+496
+0:53:7,42 --> 0:53:12,14
+to support you to get past this issue of inexperience.
+>> OBAMA: Right. Well, look. The--first of
+
+
+497
+0:53:12,14 --> 0:53:23,92
+all, Sergey and Larry didn’t have a lot
+of experience starting a fortune 100 companies.
+
+
+498
+0:53:23,92 --> 0:53:33,529
+And it's a--and I suppose when they came in,
+we're talking to Dave Drummond about incorporating
+
+
+499
+0:53:33,529 --> 0:53:41,949
+Google. You could have said, "Duh, these guys
+don't know what they’re doing." But, you
+
+
+500
+0:53:41,949 --> 0:53:51,849
+know, what we're looking for, I believe, when
+it comes to leadership is judgment, vision,
+
+
+501
+0:53:51,849 --> 0:54:2,199
+character. And that's what I bring to bear
+in this race. I have the experience of bringing
+
+
+502
+0:54:2,199 --> 0:54:8,349
+people together to get things done that I
+would put up against any candidate in this
+
+
+503
+0:54:8,349 --> 0:54:15,809
+race. When I was in Illinois, I expanded healthcare
+to Illinoisians by getting Democrats and Republicans
+
+
+504
+0:54:15,809 --> 0:54:20,809
+to agree and work together. We were able to
+reform a death penalty system that was broken
+
+
+505
+0:54:20,809 --> 0:54:28,199
+by getting law enforcement and Civil Rights
+advocates to agree on things that people said
+
+
+506
+0:54:28,199 --> 0:54:32,569
+was--were impossible, but I was able to get
+it done, probably, because I'm pretty good
+
+
+507
+0:54:32,569 --> 0:54:40,299
+at listening to people and finding common
+ground. I've also got the ability to stand
+
+
+508
+0:54:40,299 --> 0:54:46,66
+up for what I believe in even when it's unpopular,
+which I think is the quality that the next
+
+
+509
+0:54:46,66 --> 0:54:52,969
+president has to provide. I mean part of the
+reason I was opposed to the war--I was opposed
+
+
+510
+0:54:52,969 --> 0:54:58,709
+to the war in Iraq back in 2002 when George
+Bush was at 65%, I didn’t just stumble into
+
+
+511
+0:54:58,709 --> 0:55:4,229
+that. It was based on having thought through
+what the consequences would be, understanding
+
+
+512
+0:55:4,229 --> 0:55:9,729
+that I was running in the U.S. Senate race,
+and I might lose my race, but I thought that
+
+
+513
+0:55:9,729 --> 0:55:15,39
+it was important to speak out forcefully on
+what I believed in. I think that's what the
+
+
+514
+0:55:15,39 --> 0:55:23,439
+next president has to offer. And I know how
+to choose talent, get smart people around
+
+
+515
+0:55:23,439 --> 0:55:30,979
+me who are capable and independent and bring
+together a variety of different points of
+
+
+516
+0:55:30,979 --> 0:55:37,39
+views and then set a vision and move in the
+same direction, that, more than anything is
+
+
+517
+0:55:37,39 --> 0:55:44,469
+what we need. We're not looking for a Chief
+Operating Officer when we select a president.
+
+
+518
+0:55:44,469 --> 0:55:49,29
+What were looking for is somebody who will
+say--will chart a course and say, "Here's
+
+
+519
+0:55:49,29 --> 0:55:54,249
+where America needs to go. Here's how we need
+to solve our energy crises. Here's how we
+
+
+520
+0:55:54,249 --> 0:56:0,99
+need to revamp our education system," and
+then gather the talent together and mobilize
+
+
+521
+0:56:0,99 --> 0:56:6,709
+that talent to achieve that goal and to inspire
+a sense of hope and possibility. So one way
+
+
+522
+0:56:6,709 --> 0:56:9,969
+to answer this question is to say, "Look,
+the guy has been in the public service for
+
+
+523
+0:56:9,969 --> 0:56:16,219
+20 years. He's a constitutional law professor.
+He was a Civil Rights lawyer. He did X, Y,
+
+
+524
+0:56:16,219 --> 0:56:20,449
+and Z in the state legislature. He's done
+all these wonderful things in the United States
+
+
+525
+0:56:20,449 --> 0:56:26,16
+Senate." But I think the main way to respond
+is to say, "This is all about judgment and
+
+
+526
+0:56:26,16 --> 0:56:33,88
+character." And also, I think, a little sense
+of impatience because part of the reason I'm
+
+
+527
+0:56:33,88 --> 0:56:42,38
+running is I'm impatient with the status quo.
+And what we've seen out of Democrats and Republicans--what
+
+
+528
+0:56:42,38 --> 0:56:53,779
+we’ve seen from Democrats and Republicans
+is a certain willingness to tolerate, what
+
+
+529
+0:56:53,779 --> 0:56:57,349
+I consider to be an intolerable status quo.
+And I think the American people feel that
+
+
+530
+0:56:57,349 --> 0:57:4,569
+same frustration. So, thank you.
+>> SCHMIDT: Thank you. Then we have our--we're
+
+
+531
+0:57:4,569 --> 0:57:6,469
+going to have our, unfortunately, our last
+question, so why don't you go ahead.
+
+
+532
+0:57:6,469 --> 0:57:12,719
+>> Senator, you said you had a bias to act
+against special interest.
+
+
+533
+0:57:12,719 --> 0:57:15,749
+>> OBAMA: Yeah.
+>> But if special interests were having a
+
+
+534
+0:57:15,749 --> 0:57:20,959
+perverting influence on the entire legislative
+process, what can you propose as president
+
+
+535
+0:57:20,959 --> 0:57:26,279
+that can make it through that process intact?
+>> OBAMA: Yeah, it is the classic question
+
+
+536
+0:57:26,279 --> 0:57:33,699
+of how do you get insiders to fix the system
+that they’re benefiting from, and it's hard.
+
+
+537
+0:57:33,699 --> 0:57:42,319
+You have to use shame. No, and I mean it.
+I'll give you an example. Last year, I passed
+
+
+538
+0:57:42,319 --> 0:57:49,739
+the toughest ethics reform legislation since
+Watergate. And I worked with Russ Feingold
+
+
+539
+0:57:49,739 --> 0:57:55,469
+and we eliminated corporate gifts or gifts
+from lobbyists, meals from lobbyists, and
+
+
+540
+0:57:55,469 --> 0:58:0,509
+corporate jets from lobbyists. We required
+the disclosure of campaign contributions that
+
+
+541
+0:58:0,509 --> 0:58:6,38
+were bundled from lobbyists. And I'll be honest
+with you, when we first started, it wasn’t
+
+
+542
+0:58:6,38 --> 0:58:12,41
+just resistance from Republicans, there were
+Democrats who didn’t want to see this happen
+
+
+543
+0:58:12,41 --> 0:58:21,709
+either. But what I knew was that if you stuck
+with it and you got it to the floor where
+
+
+544
+0:58:21,709 --> 0:58:26,989
+the people had to vote, then it was going
+to be hard for them to vote against it. So
+
+
+545
+0:58:26,989 --> 0:58:38,42
+part of the key for any reform is going to
+be getting the American people to pay enough
+
+
+546
+0:58:38,42 --> 0:58:43,539
+attention, that members of Congress start
+worrying, "You know what, the American are
+
+
+547
+0:58:43,539 --> 0:58:51,459
+looking at us. And so we better change how
+we behave," that's why this Google for Government
+
+
+548
+0:58:51,459 --> 0:58:58,999
+is so important because it--that's why transparency
+generally is so important in this entire process
+
+
+549
+0:58:58,999 --> 0:59:4,9
+because the more American people know, the
+more government is going to be held accountable.
+
+
+550
+0:59:4,9 --> 0:59:9,509
+And I'll give you just one very specific example
+around healthcare. I've mention that I want
+
+
+551
+0:59:9,509 --> 0:59:13,749
+to set up a system where every American has
+healthcare that's at least as good as the
+
+
+552
+0:59:13,749 --> 0:59:21,569
+healthcare I've got as a member of Congress.
+And if people want to--and if you’re interested
+
+
+553
+0:59:21,569 --> 0:59:29,9
+in the details of the healthcare plan, you
+can go to my website, barackobama.com. But
+
+
+554
+0:59:29,9 --> 0:59:33,839
+people asked me, "Well, why do you think you
+can get it done and overcome the insurance
+
+
+555
+0:59:33,839 --> 0:59:37,939
+and the drug companies to spent a billion
+dollars over the last decade preventing the
+
+
+556
+0:59:37,939 --> 0:59:44,719
+reform from happening in lobbying and campaign
+contributions?" And what I tell them is, "Yeah,
+
+
+557
+0:59:44,719 --> 0:59:50,969
+I respect what the Clintons tried to do in
+1993, in moving health reform forward." But
+
+
+558
+0:59:50,969 --> 0:59:55,679
+they made one really big mistake and that
+is they took all their people and all their
+
+
+559
+0:59:55,679 --> 1:0:3,739
+experts into a room and then they close the
+door and they try to design the plan in isolation
+
+
+560
+1:0:3,739 --> 1:0:8,16
+from the American people. And during that
+period of time, the insurance companies and
+
+
+561
+1:0:8,16 --> 1:0:13,88
+the drug companies, and the HMOs they mobilized,
+and by the time the Clintons announced their
+
+
+562
+1:0:13,88 --> 1:0:17,809
+plan, you already have this Harry and Louise
+heads up, you guys don't remember this, you
+
+
+563
+1:0:17,809 --> 1:0:27,969
+weren’t born, maybe, I'm teasing. You were
+six. But these ads were out there that convinced
+
+
+564
+1:0:27,969 --> 1:0:32,92
+the American people they should be afraid
+of healthcare reform. Now, I will do it entirely
+
+
+565
+1:0:32,92 --> 1:0:38,799
+differently. Within the first 100 days of
+my administration, we are going to have a
+
+
+566
+1:0:38,799 --> 1:0:45,549
+big table, and everybody is going to be invited;
+laborer, employers, doctors, nurses, hospital
+
+
+567
+1:0:45,549 --> 1:0:49,619
+administrators, patient advocate groups, the
+drug and insurance company, they’re all
+
+
+568
+1:0:49,619 --> 1:0:58,509
+going to sit at the table, they just won't
+get to buy every chair. And we will work on
+
+
+569
+1:0:58,509 --> 1:1:6,66
+this process publicly. It will be on C-SPAN.
+It will be streaming over the net. And every
+
+
+570
+1:1:6,66 --> 1:1:10,819
+time we hit a glitch where somebody says,
+"Well, no, no, no, we can't lower drug prices
+
+
+571
+1:1:10,819 --> 1:1:21,819
+because of, yeah, RND cost that drug companies
+need." Well, we'll present data and facts
+
+
+572
+1:1:21,819 --> 1:1:26,699
+that make it more difficult for people to
+carry the water of their special interest
+
+
+573
+1:1:26,699 --> 1:1:30,42
+because it's public. And if they start running
+Harry and Louise ads, I'll make my own ads
+
+
+574
+1:1:30,42 --> 1:1:38,699
+or I'll send out something on YouTube, I’m
+president, and I'll be able to--I'll let them
+
+
+575
+1:1:38,699 --> 1:1:46,219
+know what the facts are. But, you know, one
+of the things that you learn when you’re
+
+
+576
+1:1:46,219 --> 1:1:51,509
+traveling and running for president is the
+American people at their core are a decent
+
+
+577
+1:1:51,509 --> 1:1:57,209
+people. There's a generosity of spirit there
+and there's common sense their, but it's not
+
+
+578
+1:1:57,209 --> 1:2:3,769
+tapped. And many people are--they are just
+misinformed or they’re too busy, they're
+
+
+579
+1:2:3,769 --> 1:2:7,829
+trying to get their kids to school, they're
+working, but they just don't have enough information
+
+
+580
+1:2:7,829 --> 1:2:11,929
+or just they're not professionals at sorting
+out all information that's out there. And
+
+
+581
+1:2:11,929 --> 1:2:17,699
+so our political process gets skewed, but
+if you give them good information, their instincts
+
+
+582
+1:2:17,699 --> 1:2:21,839
+are good and they will make good decisions.
+And the president has the bully pulpit to
+
+
+583
+1:2:21,839 --> 1:2:27,609
+give them good information, and that's what
+we have to return to as a government where
+
+
+584
+1:2:27,609 --> 1:2:32,199
+the American people trust the information
+they’re getting. And I'm really looking
+
+
+585
+1:2:32,199 --> 1:2:38,499
+forward to doing that because I am a big believer
+in reason, in facts, in evidence, in science,
+
+
+586
+1:2:38,499 --> 1:2:44,439
+in feedback, everything that allows you to
+do what you do, that's what we should be doing
+
+
+587
+1:2:44,439 --> 1:2:52,459
+in our government. I want people in technology.
+I want innovators and engineers and scientists
+
+
+588
+1:2:52,459 --> 1:3:0,16
+like yourselves, I want you helping us make
+policy based on facts, based on reason. You
+
+
+589
+1:3:0,16 --> 1:3:4,309
+know, one of my favorite stories I have from
+Washington is Daniel Patrick Moynihan, he
+
+
+590
+1:3:4,309 --> 1:3:12,259
+was a giant of the Senate and a very, you
+know, towering intellect. And he got an argument
+
+
+591
+1:3:12,259 --> 1:3:18,16
+one time with another senator, and the other
+senator apparently was losing the argument,
+
+
+592
+1:3:18,16 --> 1:3:22,989
+and so he got kind of huffy, and he said,
+"Well, Pat, you know, you're entitled to your
+
+
+593
+1:3:22,989 --> 1:3:27,749
+opinion and I'm entitled to mine." And Moynihan
+says, "You are entitled to your own opinion,
+
+
+594
+1:3:27,749 --> 1:3:34,249
+but you’re not entitled to your own facts."
+And part of the problem that we're having
+
+
+595
+1:3:34,249 --> 1:3:44,729
+and special interests exploit this is we constantly
+have a contest where facts don't matter. And
+
+
+596
+1:3:44,729 --> 1:3:54,289
+I want to restore that sense of decisions
+being based on facts to the White House. And
+
+
+597
+1:3:54,289 --> 1:3:58,289
+I think that many of you can help me, so I
+want you to be involved. Thank you so much
+
+
+598
+1:3:58,289 --> 1:3:58,4
+everybody.
+>> SCHMIDT: Thank you.
+
+
+599
+1:3:58,4 --> 1:3:58,65
+>> OBAMA: Thank you.
+>> SCHMIDT: Senator, thank you very much.
+
+
+600
+1:3:58,65 --> 1:5:58,65
+>> OBAMA: Thank you.
+
+

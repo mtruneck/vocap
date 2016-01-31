@@ -1,0 +1,6645 @@
+1
+0:0:0,0 --> 0:0:0,632
+
+
+
+2
+0:0:0,632 --> 0:0:2,59
+JOHN DURANT: Today I
+wanted to talk about paleo
+
+
+3
+0:0:2,59 --> 0:0:7,95
+as bio-hacking, which may be a
+little bit different than how
+
+
+4
+0:0:7,95 --> 0:0:9,88
+it's currently
+portrayed in the press.
+
+
+5
+0:0:9,88 --> 0:0:13,49
+A lot of the pieces on the paleo
+diet, or the cave man diet,
+
+
+6
+0:0:13,49 --> 0:0:17,5
+in the press are a
+little bit cartoonish.
+
+
+7
+0:0:17,5 --> 0:0:20,6
+I'm a little bit
+responsible for that.
+
+
+8
+0:0:20,6 --> 0:0:25,26
+But it often gets portrayed as
+the macho man eating raw meats
+
+
+9
+0:0:25,26 --> 0:0:26,9
+straight off the
+bone wearing a loin
+
+
+10
+0:0:26,9 --> 0:0:30,11
+cloth, which is pretty silly.
+
+
+11
+0:0:30,11 --> 0:0:33,38
+But that's sort of the way
+that a lot of journalists
+
+
+12
+0:0:33,38 --> 0:0:35,1
+portray it.
+
+
+13
+0:0:35,1 --> 0:0:37,84
+My book, and this approach,
+is actually about something
+
+
+14
+0:0:37,84 --> 0:0:41,53
+much bigger than paleo or
+the paleolithic or even just
+
+
+15
+0:0:41,53 --> 0:0:45,43
+diet, which is starting to take
+evolution, human evolution,
+
+
+16
+0:0:45,43 --> 0:0:49,39
+seriously when we think
+about human health.
+
+
+17
+0:0:49,39 --> 0:0:53,6
+The current state of
+health recommendations
+
+
+18
+0:0:53,6 --> 0:0:57,45
+in this country and
+the world is awful.
+
+
+19
+0:0:57,45 --> 0:1:0,37
+So many people
+want to be healthy,
+
+
+20
+0:1:0,37 --> 0:1:3,202
+but are confused by
+conflicting advice.
+
+
+21
+0:1:3,202 --> 0:1:4,41
+You know, should I do Atkins?
+
+
+22
+0:1:4,41 --> 0:1:6,28
+Should I go vegetarian?
+
+
+23
+0:1:6,28 --> 0:1:11,12
+Health issues, ethical
+issues, environmental issues.
+
+
+24
+0:1:11,12 --> 0:1:15,25
+For weight loss or
+autoimmune conditions?
+
+
+25
+0:1:15,25 --> 0:1:16,31
+Should I count calories?
+
+
+26
+0:1:16,31 --> 0:1:17,18
+Is fat evil?
+
+
+27
+0:1:17,18 --> 0:1:19,54
+Are there types of
+fat that aren't evil?
+
+
+28
+0:1:19,54 --> 0:1:21,3
+There's a lot of mass
+confusion out there.
+
+
+29
+0:1:21,3 --> 0:1:25,21
+And there are a lot of eating
+disorders, clearly obesity,
+
+
+30
+0:1:25,21 --> 0:1:26,56
+type 2 diabetes.
+
+
+31
+0:1:26,56 --> 0:1:30,22
+People are living a long
+time, but the question is,
+
+
+32
+0:1:30,22 --> 0:1:32,58
+are they thriving
+and being healthy?
+
+
+33
+0:1:32,58 --> 0:1:35,0
+So the broader concept that
+I want to talk about today
+
+
+34
+0:1:35,0 --> 0:1:38,6
+isn't just diet or isn't
+just the paleolithic,
+
+
+35
+0:1:38,6 --> 0:1:43,11
+but starting to use
+our evolutionary past
+
+
+36
+0:1:43,11 --> 0:1:46,76
+to generate really smart
+heuristics that are probably
+
+
+37
+0:1:46,76 --> 0:1:50,43
+pretty close to being right
+in pretty short order.
+
+
+38
+0:1:50,43 --> 0:1:57,3
+
+
+
+39
+0:1:57,3 --> 0:1:59,87
+I'm sure you guys are very
+familiar with some principles
+
+
+40
+0:1:59,87 --> 0:2:2,56
+of hacking or bio-hacking.
+
+
+41
+0:2:2,56 --> 0:2:5,71
+And I just sort of want to do
+a comparison between principals
+
+
+42
+0:2:5,71 --> 0:2:10,53
+of hacking or bio-hacking,
+and what this broader paleo
+
+
+43
+0:2:10,53 --> 0:2:13,23
+sphere is doing in
+the health world.
+
+
+44
+0:2:13,23 --> 0:2:15,35
+So trial-and-error
+is very important--
+
+
+45
+0:2:15,35 --> 0:2:18,65
+hands-on, do-it-yourself,
+self-experimentation, n equals
+
+
+46
+0:2:18,65 --> 0:2:21,53
+1, experiments.
+
+
+47
+0:2:21,53 --> 0:2:26,6
+And speed-- move fast.
+
+
+48
+0:2:26,6 --> 0:2:27,87
+Embrace failure-- break things.
+
+
+49
+0:2:27,87 --> 0:2:32,54
+80% solutions--
+don't let the perfect
+
+
+50
+0:2:32,54 --> 0:2:34,53
+be the enemy of the good.
+
+
+51
+0:2:34,53 --> 0:2:39,19
+Resourcefulness--
+repurposing old features
+
+
+52
+0:2:39,19 --> 0:2:42,414
+for new uses,
+accidental discoveries.
+
+
+53
+0:2:42,414 --> 0:2:43,83
+I'm moving very
+quickly over these
+
+
+54
+0:2:43,83 --> 0:2:45,704
+because I feel like this
+audience is probably
+
+
+55
+0:2:45,704 --> 0:2:48,36
+very familiar with
+this type of stuff.
+
+
+56
+0:2:48,36 --> 0:2:50,57
+Simplicity-- keep
+it simple stupid.
+
+
+57
+0:2:50,57 --> 0:2:51,93
+Decentralization.
+
+
+58
+0:2:51,93 --> 0:2:53,44
+All these hacking principles.
+
+
+59
+0:2:53,44 --> 0:2:55,44
+What's also cool
+about these principles
+
+
+60
+0:2:55,44 --> 0:2:59,46
+is it's actually have evolution
+by natural selection works.
+
+
+61
+0:2:59,46 --> 0:3:2,88
+It's an amateurish
+process without
+
+
+62
+0:3:2,88 --> 0:3:6,36
+any overarching authority.
+
+
+63
+0:3:6,36 --> 0:3:9,81
+It isn't concerned with theory.
+
+
+64
+0:3:9,81 --> 0:3:12,57
+Organisms are always
+using whatever
+
+
+65
+0:3:12,57 --> 0:3:18,43
+a bits are lying around as
+material for new functions
+
+
+66
+0:3:18,43 --> 0:3:20,17
+and features.
+
+
+67
+0:3:20,17 --> 0:3:24,8
+It's sort of a blind,
+trial-and-error search process.
+
+
+68
+0:3:24,8 --> 0:3:29,35
+
+
+
+69
+0:3:29,35 --> 0:3:33,48
+So when you actually look at
+this broader paleo movement,
+
+
+70
+0:3:33,48 --> 0:3:34,98
+whether you call it that word.
+
+
+71
+0:3:34,98 --> 0:3:37,42
+Maybe another word is
+better-- ancestral health,
+
+
+72
+0:3:37,42 --> 0:3:40,9
+evolutionary health,
+evolutionary medicine.
+
+
+73
+0:3:40,9 --> 0:3:43,58
+Again, you have a lot
+of similar features.
+
+
+74
+0:3:43,58 --> 0:3:46,23
+You basically have a lot
+of amateurs out there
+
+
+75
+0:3:46,23 --> 0:3:49,52
+who have said a lot
+of the top-down advice
+
+
+76
+0:3:49,52 --> 0:3:52,57
+that we're getting from
+health officials at the USDA
+
+
+77
+0:3:52,57 --> 0:3:56,98
+or in the government or my
+corporate health program
+
+
+78
+0:3:56,98 --> 0:4:2,9
+or my health insurance policy
+don't seem to be working.
+
+
+79
+0:4:2,9 --> 0:4:6,78
+And so maybe it's time to
+start treating your own health
+
+
+80
+0:4:6,78 --> 0:4:9,95
+as a do-it-yourself activity.
+
+
+81
+0:4:9,95 --> 0:4:11,47
+Because if you want to prevent
+chronic health conditions,
+
+
+82
+0:4:11,47 --> 0:4:13,23
+there's no magic
+pill you can take.
+
+
+83
+0:4:13,23 --> 0:4:15,59
+There's no surgery
+that you can conduct
+
+
+84
+0:4:15,59 --> 0:4:19,709
+to prevent the onset of
+obesity and type 2 diabetes
+
+
+85
+0:4:19,709 --> 0:4:21,39
+and Alzheimer's and
+things like that.
+
+
+86
+0:4:21,39 --> 0:4:24,7
+You actually have to take
+day-to-day in your daily life
+
+
+87
+0:4:24,7 --> 0:4:26,38
+to prevent all these things.
+
+
+88
+0:4:26,38 --> 0:4:29,28
+So in a sense, we're
+all bio-hackers
+
+
+89
+0:4:29,28 --> 0:4:30,65
+if we want to be healthy.
+
+
+90
+0:4:30,65 --> 0:4:32,29
+We have to do it yourself.
+
+
+91
+0:4:32,29 --> 0:4:35,26
+
+
+
+92
+0:4:35,26 --> 0:4:40,4
+Over the last few years,
+this sort of paleo approach
+
+
+93
+0:4:40,4 --> 0:4:45,74
+has been pounding the pavement
+on things like saturated fat.
+
+
+94
+0:4:45,74 --> 0:4:47,67
+And that a lot of the
+science on saturated fat
+
+
+95
+0:4:47,67 --> 0:4:53,68
+has been distorted,
+or poorly conducted,
+
+
+96
+0:4:53,68 --> 0:4:58,81
+publishing biases to make
+saturated fat look bad.
+
+
+97
+0:4:58,81 --> 0:5:1,97
+But over the last couple
+years of iteration of people
+
+
+98
+0:5:1,97 --> 0:5:4,49
+experimenting with
+their own blood work,
+
+
+99
+0:5:4,49 --> 0:5:8,38
+with different levels of
+saturated fat in their diet,
+
+
+100
+0:5:8,38 --> 0:5:10,84
+people have very
+quickly realized,
+
+
+101
+0:5:10,84 --> 0:5:13,77
+wait a second, saturated
+fat is not this evil thing.
+
+
+102
+0:5:13,77 --> 0:5:17,5
+40% of all fats in human
+breast milk or saturated.
+
+
+103
+0:5:17,5 --> 0:5:20,46
+About 40% of all the fats in
+the human body are saturated.
+
+
+104
+0:5:20,46 --> 0:5:23,4
+We've had saturated fat in
+our diet for millions of years
+
+
+105
+0:5:23,4 --> 0:5:25,16
+from bone marrow and brains.
+
+
+106
+0:5:25,16 --> 0:5:30,68
+So our metabolism is
+well-adapted to metabolizing,
+
+
+107
+0:5:30,68 --> 0:5:34,44
+to harnessing it as
+an energy source.
+
+
+108
+0:5:34,44 --> 0:5:37,0
+So you see issues
+like that where
+
+
+109
+0:5:37,0 --> 0:5:40,41
+this bottom-up, open source
+community is moving much faster
+
+
+110
+0:5:40,41 --> 0:5:44,43
+than the conventional
+health authorities.
+
+
+111
+0:5:44,43 --> 0:5:47,17
+Embracing failure.
+
+
+112
+0:5:47,17 --> 0:5:51,34
+There are folks in
+the paleosphere who
+
+
+113
+0:5:51,34 --> 0:5:54,64
+get into fights about
+whether eating a legume
+
+
+114
+0:5:54,64 --> 0:5:57,73
+is going to kill you or not,
+or give you kidney stones.
+
+
+115
+0:5:57,73 --> 0:6:0,21
+Or rice or wheat.
+
+
+116
+0:6:0,21 --> 0:6:4,16
+A lot of people are
+talking about gluten-free.
+
+
+117
+0:6:4,16 --> 0:6:10,27
+Is having a little bit of gluten
+going to cause stomach problems
+
+
+118
+0:6:10,27 --> 0:6:12,9
+and digestive
+problems in any one?
+
+
+119
+0:6:12,9 --> 0:6:13,21
+Is this overblown?
+
+
+120
+0:6:13,21 --> 0:6:16,5
+So there may be some areas
+where this burgeoning
+
+
+121
+0:6:16,5 --> 0:6:17,68
+movement is wrong.
+
+
+122
+0:6:17,68 --> 0:6:18,987
+That's OK.
+
+
+123
+0:6:18,987 --> 0:6:19,945
+People are moving fast.
+
+
+124
+0:6:19,945 --> 0:6:20,96
+They're experimenting.
+
+
+125
+0:6:20,96 --> 0:6:23,92
+And they're going to see
+whether it works or not.
+
+
+126
+0:6:23,92 --> 0:6:26,3
+We don't have to go through
+all the rest of these.
+
+
+127
+0:6:26,3 --> 0:6:27,83
+
+
+
+128
+0:6:27,83 --> 0:6:30,85
+So much my book actually isn't
+mostly about the paleolithic,
+
+
+129
+0:6:30,85 --> 0:6:32,35
+even though it uses
+the word paleo.
+
+
+130
+0:6:32,35 --> 0:6:35,37
+And so I want to
+introduce the structure
+
+
+131
+0:6:35,37 --> 0:6:41,15
+that I use to think about human
+evolution and any health issue
+
+
+132
+0:6:41,15 --> 0:6:43,65
+that you want to deal with--
+not just food, not just
+
+
+133
+0:6:43,65 --> 0:6:44,8
+movement or anything.
+
+
+134
+0:6:44,8 --> 0:6:51,2
+So this is a typical
+singularity chart from Kurzweil
+
+
+135
+0:6:51,2 --> 0:6:56,36
+from life to today, the
+growth of complexity
+
+
+136
+0:6:56,36 --> 0:7:1,95
+or major transitions
+over that period of time.
+
+
+137
+0:7:1,95 --> 0:7:3,9
+And so I sort of
+structure my thinking
+
+
+138
+0:7:3,9 --> 0:7:6,39
+into five main
+buckets, as we think
+
+
+139
+0:7:6,39 --> 0:7:10,3
+about human evolution from the
+beginning of life to today.
+
+
+140
+0:7:10,3 --> 0:7:12,44
+What I call the Animal
+Age, or basically
+
+
+141
+0:7:12,44 --> 0:7:17,62
+from the Cambrian explosion to
+the beginning the Paleolithic,
+
+
+142
+0:7:17,62 --> 0:7:20,24
+pre-human essentially.
+
+
+143
+0:7:20,24 --> 0:7:25,4
+We can learn a lot from other
+species and our common ancestry
+
+
+144
+0:7:25,4 --> 0:7:29,0
+with other species about how to
+be healthy, whether it's food,
+
+
+145
+0:7:29,0 --> 0:7:29,875
+whether its movement.
+
+
+146
+0:7:29,875 --> 0:7:32,46
+
+
+
+147
+0:7:32,46 --> 0:7:35,59
+Then you get the Paleolithic
+for about 2.6 million years.
+
+
+148
+0:7:35,59 --> 0:7:42,17
+That's when you get hominids
+and humans emerging.
+
+
+149
+0:7:42,17 --> 0:7:44,73
+Then you get the
+Agricultural Age.
+
+
+150
+0:7:44,73 --> 0:7:46,23
+After the agricultural
+revolution,
+
+
+151
+0:7:46,23 --> 0:7:48,6
+we domesticate
+plants and animals,
+
+
+152
+0:7:48,6 --> 0:7:50,33
+start living in cities.
+
+
+153
+0:7:50,33 --> 0:7:52,8
+Our lifestyles
+change dramatically.
+
+
+154
+0:7:52,8 --> 0:7:54,23
+The industrial age.
+
+
+155
+0:7:54,23 --> 0:7:55,71
+And the information age.
+
+
+156
+0:7:55,71 --> 0:8:3,83
+And we can use this simple
+five-age, five-era framework
+
+
+157
+0:8:3,83 --> 0:8:9,477
+to in really quick fashion get
+a handle, 80% of the way there
+
+
+158
+0:8:9,477 --> 0:8:10,81
+on pretty much any health issue.
+
+
+159
+0:8:10,81 --> 0:8:13,34
+
+
+
+160
+0:8:13,34 --> 0:8:17,3
+And start to cut through
+a lot of noise that's
+
+
+161
+0:8:17,3 --> 0:8:20,1
+out there about
+how to be healthy.
+
+
+162
+0:8:20,1 --> 0:8:22,68
+Should we eat saturated fat?
+
+
+163
+0:8:22,68 --> 0:8:24,201
+How much sun exposure
+should we get?
+
+
+164
+0:8:24,201 --> 0:8:25,2
+How much should we move?
+
+
+165
+0:8:25,2 --> 0:8:27,55
+And in what ways are the
+best ways to exercise?
+
+
+166
+0:8:27,55 --> 0:8:31,41
+And all of these questions
+that just fill the bookstores
+
+
+167
+0:8:31,41 --> 0:8:34,59
+with diet books and health
+books and all this nuttiness.
+
+
+168
+0:8:34,59 --> 0:8:36,48
+It doesn't have to
+be this complicated.
+
+
+169
+0:8:36,48 --> 0:8:40,22
+So some of the
+heuristics that we
+
+
+170
+0:8:40,22 --> 0:8:41,96
+can learn when we
+look at other species
+
+
+171
+0:8:41,96 --> 0:8:46,7
+is any health dynamic you care
+about-- thermal regulation,
+
+
+172
+0:8:46,7 --> 0:8:51,79
+diet, movement,
+anything-- the best way
+
+
+173
+0:8:51,79 --> 0:8:54,51
+to learn about it is to
+completely forget human beings
+
+
+174
+0:8:54,51 --> 0:8:55,9
+and just look at other species.
+
+
+175
+0:8:55,9 --> 0:8:59,64
+And compare that dynamic
+across different species.
+
+
+176
+0:8:59,64 --> 0:9:2,6
+Because as soon as you
+start talking about humans,
+
+
+177
+0:9:2,6 --> 0:9:7,55
+everybody has preconceived
+notions about how to do it.
+
+
+178
+0:9:7,55 --> 0:9:9,62
+People have a lot of--
+particularly in food,
+
+
+179
+0:9:9,62 --> 0:9:13,29
+food is like religion-- people
+have all these identity--
+
+
+180
+0:9:13,29 --> 0:9:15,45
+it's a source of identity
+for a lot of people.
+
+
+181
+0:9:15,45 --> 0:9:18,33
+And so you can't have an honest
+conversation about what should
+
+
+182
+0:9:18,33 --> 0:9:21,11
+I eat or what should I not eat?
+
+
+183
+0:9:21,11 --> 0:9:26,45
+So if you look at our common
+ancestry with other species,
+
+
+184
+0:9:26,45 --> 0:9:30,2
+you can be like, OK, well
+there are herbivores.
+
+
+185
+0:9:30,2 --> 0:9:31,68
+There are carnivores.
+
+
+186
+0:9:31,68 --> 0:9:32,93
+There are omnivores.
+
+
+187
+0:9:32,93 --> 0:9:35,43
+And if you go to a
+zoo, the basic approach
+
+
+188
+0:9:35,43 --> 0:9:37,55
+that the top zoos
+in the world take,
+
+
+189
+0:9:37,55 --> 0:9:40,71
+is they use modern science
+and medical technology
+
+
+190
+0:9:40,71 --> 0:9:42,2
+to keep the animals alive.
+
+
+191
+0:9:42,2 --> 0:9:44,62
+But then they mimic the
+natural habitat and lifestyle
+
+
+192
+0:9:44,62 --> 0:9:49,62
+of the species in relevant
+ways, in the most relevant ways.
+
+
+193
+0:9:49,62 --> 0:9:52,93
+And so it just depends
+on the species.
+
+
+194
+0:9:52,93 --> 0:9:55,5
+You want to feed red
+meat and whole prey
+
+
+195
+0:9:55,5 --> 0:9:58,5
+feeding to the lions
+and the carnivores.
+
+
+196
+0:9:58,5 --> 0:10:1,2
+And you want to feed
+grass to the herbivores,
+
+
+197
+0:10:1,2 --> 0:10:3,94
+or whatever plant species
+they're adapted to.
+
+
+198
+0:10:3,94 --> 0:10:8,16
+And omnivores have more
+dietary flexibility.
+
+
+199
+0:10:8,16 --> 0:10:14,27
+Immediately you can start to
+realize that, first of all,
+
+
+200
+0:10:14,27 --> 0:10:16,91
+there's no particular food
+out there that is necessarily
+
+
+201
+0:10:16,91 --> 0:10:19,87
+inherently unhealthy.
+
+
+202
+0:10:19,87 --> 0:10:25,16
+It depends on whether that
+species is adapted to it.
+
+
+203
+0:10:25,16 --> 0:10:28,47
+Plenty of species are
+adapted to eating grass.
+
+
+204
+0:10:28,47 --> 0:10:33,8
+And they have the microorganisms
+in their extensive stomach
+
+
+205
+0:10:33,8 --> 0:10:35,28
+to digest it all.
+
+
+206
+0:10:35,28 --> 0:10:38,43
+We don't.
+
+
+207
+0:10:38,43 --> 0:10:43,59
+A second thing that you can
+learn very quickly about health
+
+
+208
+0:10:43,59 --> 0:10:46,49
+from looking at other
+species-- and again looking
+
+
+209
+0:10:46,49 --> 0:10:49,58
+at zoos, because that's
+where we often have the best
+
+
+210
+0:10:49,58 --> 0:10:53,2
+access to them-- is the
+importance of habitat.
+
+
+211
+0:10:53,2 --> 0:10:55,15
+And starting to
+think about health
+
+
+212
+0:10:55,15 --> 0:10:57,88
+in terms of a
+holistic habitat-based
+
+
+213
+0:10:57,88 --> 0:10:59,99
+approach to keeping
+species healthy.
+
+
+214
+0:10:59,99 --> 0:11:3,44
+
+
+
+215
+0:11:3,44 --> 0:11:6,91
+I talk about, in my book,
+a trip to the Cleveland zoo
+
+
+216
+0:11:6,91 --> 0:11:10,75
+where they had some
+obese gorillas.
+
+
+217
+0:11:10,75 --> 0:11:13,62
+
+
+
+218
+0:11:13,62 --> 0:11:16,4
+Heart disease and heart failure
+is the number one killer
+
+
+219
+0:11:16,4 --> 0:11:19,95
+of male gorillas in captivity,
+just like heart disease
+
+
+220
+0:11:19,95 --> 0:11:25,2
+is the number one killer of
+male humans in civilization.
+
+
+221
+0:11:25,2 --> 0:11:26,76
+And so they were
+trying to figure out
+
+
+222
+0:11:26,76 --> 0:11:31,7
+ways to reverse or halt the
+progression of heart disease
+
+
+223
+0:11:31,7 --> 0:11:33,58
+in these Western
+lowland gorillas.
+
+
+224
+0:11:33,58 --> 0:11:35,99
+And it's kind of like,
+OK, so what should we do?
+
+
+225
+0:11:35,99 --> 0:11:38,47
+They don't really have
+any fat in their diet,
+
+
+226
+0:11:38,47 --> 0:11:41,23
+so low-fat doesn't work.
+
+
+227
+0:11:41,23 --> 0:11:43,76
+I guess what they could try
+to restrict their calories,
+
+
+228
+0:11:43,76 --> 0:11:46,94
+but that didn't
+seem to make sense.
+
+
+229
+0:11:46,94 --> 0:11:49,45
+So what they did was they
+were like, oh wait a second,
+
+
+230
+0:11:49,45 --> 0:11:52,52
+maybe we shouldn't be feeding
+these Western lowland gorillas
+
+
+231
+0:11:52,52 --> 0:11:56,61
+wheat, corn, and soy-based
+fiber bars that are essentially
+
+
+232
+0:11:56,61 --> 0:11:58,86
+reformulated dog food.
+
+
+233
+0:11:58,86 --> 0:12:0,26
+Of course it's
+not even dog food,
+
+
+234
+0:12:0,26 --> 0:12:3,48
+because that's not what
+dogs and wolves eat.
+
+
+235
+0:12:3,48 --> 0:12:6,0
+
+
+
+236
+0:12:6,0 --> 0:12:11,19
+So they switched the gorillas
+to a bunch of leafy plants
+
+
+237
+0:12:11,19 --> 0:12:14,16
+and vegetables that they bought
+in the local Cleveland grocery
+
+
+238
+0:12:14,16 --> 0:12:15,11
+store.
+
+
+239
+0:12:15,11 --> 0:12:16,92
+McCullough lost 70 pounds.
+
+
+240
+0:12:16,92 --> 0:12:19,28
+Beback lost 35 pounds.
+
+
+241
+0:12:19,28 --> 0:12:20,56
+Their blood work improved.
+
+
+242
+0:12:20,56 --> 0:12:23,16
+Behavioral problems went away.
+
+
+243
+0:12:23,16 --> 0:12:26,7
+All sorts of things like that.
+
+
+244
+0:12:26,7 --> 0:12:30,676
+But all of these zoos
+realized that you
+
+
+245
+0:12:30,676 --> 0:12:32,5
+can use modern
+medical technology
+
+
+246
+0:12:32,5 --> 0:12:35,3
+to keep the animals alive
+for a long period of time,
+
+
+247
+0:12:35,3 --> 0:12:38,26
+but if you want to prevent
+the onset of chronic health
+
+
+248
+0:12:38,26 --> 0:12:41,34
+conditions to help
+them thrive, you
+
+
+249
+0:12:41,34 --> 0:12:43,0
+have to take a
+habitat-based approach.
+
+
+250
+0:12:43,0 --> 0:12:45,2
+Because there's no
+pill, there's no surgery
+
+
+251
+0:12:45,2 --> 0:12:48,35
+that can be done to
+reverse these conditions,
+
+
+252
+0:12:48,35 --> 0:12:50,91
+or at least not
+terribly effectively.
+
+
+253
+0:12:50,91 --> 0:12:54,23
+So that gives you your
+first-pass approach at, OK,
+
+
+254
+0:12:54,23 --> 0:12:55,89
+how does this dynamic work?
+
+
+255
+0:12:55,89 --> 0:12:57,51
+Forget human beings.
+
+
+256
+0:12:57,51 --> 0:13:0,27
+Then the next step
+is to say, OK well,
+
+
+257
+0:13:0,27 --> 0:13:4,47
+if we're talking
+about diet, now how
+
+
+258
+0:13:4,47 --> 0:13:8,34
+does this feature
+manifest in human beings
+
+
+259
+0:13:8,34 --> 0:13:12,98
+during a long formative
+period in human evolution?
+
+
+260
+0:13:12,98 --> 0:13:16,79
+During the paleolithic, this
+2.6 million year period.
+
+
+261
+0:13:16,79 --> 0:13:19,31
+It's not the end of the story.
+
+
+262
+0:13:19,31 --> 0:13:22,83
+But it really is sort of
+the beginning of the story.
+
+
+263
+0:13:22,83 --> 0:13:27,37
+I don't think that paleo diets,
+and paleo this and paleo that
+
+
+264
+0:13:27,37 --> 0:13:29,49
+is the end of the conversation.
+
+
+265
+0:13:29,49 --> 0:13:32,4
+It's more like it's the
+appropriate beginning
+
+
+266
+0:13:32,4 --> 0:13:34,12
+of the conversation.
+
+
+267
+0:13:34,12 --> 0:13:40,11
+So if you were talking about
+diet, that's where you realize,
+
+
+268
+0:13:40,11 --> 0:13:41,98
+you talk to paleo
+anthropologists
+
+
+269
+0:13:41,98 --> 0:13:44,13
+and realize that
+humans have been eating
+
+
+270
+0:13:44,13 --> 0:13:47,5
+meat for 2.6 million
+years or longer.
+
+
+271
+0:13:47,5 --> 0:13:49,36
+There are cut marks
+on bones that we
+
+
+272
+0:13:49,36 --> 0:13:51,72
+have going back that long.
+
+
+273
+0:13:51,72 --> 0:13:55,97
+And so right off the bat,
+you're just immediately
+
+
+274
+0:13:55,97 --> 0:14:0,1
+skeptical of claims that
+veganism or vegetarianism are
+
+
+275
+0:14:0,1 --> 0:14:2,73
+the optimal ways for humans
+to be healthy because it's
+
+
+276
+0:14:2,73 --> 0:14:4,69
+like, wait a second,
+we've been omnivores
+
+
+277
+0:14:4,69 --> 0:14:6,81
+for millions of years.
+
+
+278
+0:14:6,81 --> 0:14:10,51
+There are no known vegan
+or vegetarian indigenous
+
+
+279
+0:14:10,51 --> 0:14:13,5
+populations.
+
+
+280
+0:14:13,5 --> 0:14:16,81
+And the introduction of
+meat into the human diet
+
+
+281
+0:14:16,81 --> 0:14:22,15
+is, does appear, to
+be related, in part,
+
+
+282
+0:14:22,15 --> 0:14:25,49
+to the expansion of our brains.
+
+
+283
+0:14:25,49 --> 0:14:29,0
+And so the paleolithic gives you
+this first-pass approximation
+
+
+284
+0:14:29,0 --> 0:14:34,19
+of what might be a healthy
+lifestyle, healthy diet,
+
+
+285
+0:14:34,19 --> 0:14:39,571
+temperature changes, circadian
+rhythms, sleep patterns, all
+
+
+286
+0:14:39,571 --> 0:14:40,7
+of this.
+
+
+287
+0:14:40,7 --> 0:14:42,41
+It gives you a
+first-pass approximation
+
+
+288
+0:14:42,41 --> 0:14:46,56
+of what might be a healthy
+pattern for human beings today.
+
+
+289
+0:14:46,56 --> 0:14:48,84
+It doesn't guarantee
+that there aren't
+
+
+290
+0:14:48,84 --> 0:14:50,73
+new ways of doing
+things that are better,
+
+
+291
+0:14:50,73 --> 0:14:53,74
+new foods that might
+be healthier or better.
+
+
+292
+0:14:53,74 --> 0:14:57,82
+But for the amateur
+trying to quickly arrive
+
+
+293
+0:14:57,82 --> 0:15:1,92
+at good heuristics, it's
+the right place to start.
+
+
+294
+0:15:1,92 --> 0:15:4,14
+Then after the
+agricultural revolution,
+
+
+295
+0:15:4,14 --> 0:15:5,77
+people start living in cities.
+
+
+296
+0:15:5,77 --> 0:15:8,42
+We become farmers
+and herders instead
+
+
+297
+0:15:8,42 --> 0:15:11,7
+of hunters and gatherers.
+
+
+298
+0:15:11,7 --> 0:15:15,7
+And so, then you take into
+account recent adaptations.
+
+
+299
+0:15:15,7 --> 0:15:18,5
+So just because a
+food is novel doesn't
+
+
+300
+0:15:18,5 --> 0:15:22,13
+mean it's bad or unhealthy.
+
+
+301
+0:15:22,13 --> 0:15:27,25
+So, for example, most
+people's favorite foods
+
+
+302
+0:15:27,25 --> 0:15:32,56
+come from fermentation, whether
+it's alcohol or cheese or bread
+
+
+303
+0:15:32,56 --> 0:15:37,14
+or a lot of things the
+harness microorganisms
+
+
+304
+0:15:37,14 --> 0:15:39,59
+and the process of
+fermentation to be created.
+
+
+305
+0:15:39,59 --> 0:15:43,4
+So we can take into account
+recent cultural adaptations.
+
+
+306
+0:15:43,4 --> 0:15:47,35
+We can also take into
+account genetic adaptations.
+
+
+307
+0:15:47,35 --> 0:15:49,97
+You look at alcohol,
+and populations
+
+
+308
+0:15:49,97 --> 0:15:53,71
+that have been drinking
+alcohol for 5,000 years
+
+
+309
+0:15:53,71 --> 0:15:56,45
+handle it better than
+indigenous populations that
+
+
+310
+0:15:56,45 --> 0:16:1,5
+have been drinking alcohol
+for three generations.
+
+
+311
+0:16:1,5 --> 0:16:7,4
+They're just not adapted to
+metabolizing alcohol well.
+
+
+312
+0:16:7,4 --> 0:16:13,6
+If you come from European
+or Middle Eastern ancestry,
+
+
+313
+0:16:13,6 --> 0:16:16,4
+our ancestors went
+through a process
+
+
+314
+0:16:16,4 --> 0:16:19,84
+where there were probably lots
+of people dying of alcoholism.
+
+
+315
+0:16:19,84 --> 0:16:23,8
+But it happened 5,000 years ago.
+
+
+316
+0:16:23,8 --> 0:16:26,98
+And I won't go too
+much into this,
+
+
+317
+0:16:26,98 --> 0:16:29,21
+but one of the heuristics
+that's very important
+
+
+318
+0:16:29,21 --> 0:16:31,93
+is realizing the
+importance of culture,
+
+
+319
+0:16:31,93 --> 0:16:34,87
+both culture in the forms
+of ideas and microbes
+
+
+320
+0:16:34,87 --> 0:16:37,19
+to human health.
+
+
+321
+0:16:37,19 --> 0:16:39,4
+So then you get
+the Industrial Age.
+
+
+322
+0:16:39,4 --> 0:16:42,23
+And the Industrial Age and
+the Industrial Revolution
+
+
+323
+0:16:42,23 --> 0:16:43,68
+over the last
+couple hundred years
+
+
+324
+0:16:43,68 --> 0:16:46,79
+is pretty much a warning
+of what not to do.
+
+
+325
+0:16:46,79 --> 0:16:48,35
+This is the simple heuristic.
+
+
+326
+0:16:48,35 --> 0:16:51,71
+
+
+
+327
+0:16:51,71 --> 0:16:55,11
+The British Navy sends a
+bunch of sailors out on ships.
+
+
+328
+0:16:55,11 --> 0:16:58,49
+And they alter their food
+so that it doesn't perish,
+
+
+329
+0:16:58,49 --> 0:17:1,62
+and don't realize that these
+guys are going to get scurvy
+
+
+330
+0:17:1,62 --> 0:17:5,839
+because there's no Vitamin
+C in what they're eating.
+
+
+331
+0:17:5,839 --> 0:17:9,74
+Or people move indoors and
+they don't get any sunlight.
+
+
+332
+0:17:9,74 --> 0:17:11,89
+And then people get rickets.
+
+
+333
+0:17:11,89 --> 0:17:16,27
+So we started changing
+things in human lives
+
+
+334
+0:17:16,27 --> 0:17:18,819
+so quickly during the
+Industrial Revolution
+
+
+335
+0:17:18,819 --> 0:17:23,349
+that we weren't able to adapt
+culturally or genetically.
+
+
+336
+0:17:23,349 --> 0:17:30,4
+Rickets, pellagra,
+scurvy, even explorers
+
+
+337
+0:17:30,4 --> 0:17:32,65
+going in novel habitats
+during the Industrial
+
+
+338
+0:17:32,65 --> 0:17:38,23
+Age, a flight going undersea.
+
+
+339
+0:17:38,23 --> 0:17:40,4
+This industrial
+technology was literally
+
+
+340
+0:17:40,4 --> 0:17:42,62
+pushing human beings in
+habitats that we had never
+
+
+341
+0:17:42,62 --> 0:17:49,46
+experienced over eons of
+genetic and cultural evolution.
+
+
+342
+0:17:49,46 --> 0:17:52,85
+And we learned how
+to kill ourselves.
+
+
+343
+0:17:52,85 --> 0:17:55,51
+We killed ourselves at the
+beginning of the Industrial
+
+
+344
+0:17:55,51 --> 0:18:0,3
+Revolution through lack of
+sun exposure and rickets,
+
+
+345
+0:18:0,3 --> 0:18:4,28
+through missing micronutrients,
+changing our diet so quickly
+
+
+346
+0:18:4,28 --> 0:18:7,55
+and shifting to a diet of
+refined flour and sugar
+
+
+347
+0:18:7,55 --> 0:18:10,27
+and alcohol that we were
+missing key micronutrients
+
+
+348
+0:18:10,27 --> 0:18:11,21
+from our diet.
+
+
+349
+0:18:11,21 --> 0:18:13,57
+And then by the end
+of the Industrial Age,
+
+
+350
+0:18:13,57 --> 0:18:17,31
+we figure out that we need
+to add certain things back in
+
+
+351
+0:18:17,31 --> 0:18:18,83
+and fortified foods with them.
+
+
+352
+0:18:18,83 --> 0:18:21,53
+But we were just solving
+problems of our own creation.
+
+
+353
+0:18:21,53 --> 0:18:23,29
+So the big lesson from
+the Industrial Age
+
+
+354
+0:18:23,29 --> 0:18:25,5
+is learning how to
+not die basically.
+
+
+355
+0:18:25,5 --> 0:18:28,25
+
+
+
+356
+0:18:28,25 --> 0:18:31,34
+And then today in
+the Information Age
+
+
+357
+0:18:31,34 --> 0:18:35,81
+we're now in a position
+to-- the last piece of this
+
+
+358
+0:18:35,81 --> 0:18:39,8
+is personal experimentation and
+customizing solutions to you.
+
+
+359
+0:18:39,8 --> 0:18:42,89
+
+
+
+360
+0:18:42,89 --> 0:18:47,48
+Because everybody has a unique
+genome, unique gut bacteria,
+
+
+361
+0:18:47,48 --> 0:18:51,36
+allergies, injuries, tastes,
+preferences, budgets,
+
+
+362
+0:18:51,36 --> 0:18:53,2
+so we're all unique organisms.
+
+
+363
+0:18:53,2 --> 0:18:54,74
+We all live in a unique habitat.
+
+
+364
+0:18:54,74 --> 0:18:57,34
+We're all going to end up
+with somewhat unique diets
+
+
+365
+0:18:57,34 --> 0:18:59,28
+or lifestyles that work for us.
+
+
+366
+0:18:59,28 --> 0:19:2,21
+So let's take food.
+
+
+367
+0:19:2,21 --> 0:19:4,29
+A lot of people that hear
+about the paleo diet,
+
+
+368
+0:19:4,29 --> 0:19:6,29
+they just think of
+the paleolithic.
+
+
+369
+0:19:6,29 --> 0:19:12,996
+And the basic
+prescriptions are--
+
+
+370
+0:19:12,996 --> 0:19:15,12
+all the conventional health
+authorities pretty much
+
+
+371
+0:19:15,12 --> 0:19:18,39
+agree that too much industrial
+foods is bad for you.
+
+
+372
+0:19:18,39 --> 0:19:22,21
+So all their advice,
+from the Mayo Clinic
+
+
+373
+0:19:22,21 --> 0:19:25,25
+to Doctor Oz to Michael
+Pollan to everybody
+
+
+374
+0:19:25,25 --> 0:19:28,41
+is basically avoid
+industrial food.
+
+
+375
+0:19:28,41 --> 0:19:32,43
+Processed food--
+Twinkies and Coca-Cola
+
+
+376
+0:19:32,43 --> 0:19:35,7
+and refined sugar and all that.
+
+
+377
+0:19:35,7 --> 0:19:38,4
+So it basically
+boils down to, eat
+
+
+378
+0:19:38,4 --> 0:19:40,76
+like we did before the
+Industrial Revolution.
+
+
+379
+0:19:40,76 --> 0:19:43,3
+Eat like you sort of
+grew up on a farm.
+
+
+380
+0:19:43,3 --> 0:19:49,5
+You had whole grain bread and
+milk and cheese and organic.
+
+
+381
+0:19:49,5 --> 0:19:51,46
+Everything was organic.
+
+
+382
+0:19:51,46 --> 0:19:52,706
+We were still poor.
+
+
+383
+0:19:52,706 --> 0:19:53,83
+But everything was organic.
+
+
+384
+0:19:53,83 --> 0:19:56,43
+
+
+
+385
+0:19:56,43 --> 0:19:58,49
+So all of that health
+advice basically
+
+
+386
+0:19:58,49 --> 0:20:0,149
+boils down to eat like a farmer.
+
+
+387
+0:20:0,149 --> 0:20:1,19
+Eat like a herder-farmer.
+
+
+388
+0:20:1,19 --> 0:20:4,36
+
+
+
+389
+0:20:4,36 --> 0:20:7,59
+And that may be enough
+for a lot of people.
+
+
+390
+0:20:7,59 --> 0:20:11,11
+Avoiding industrial food for
+a lot of people, particularly
+
+
+391
+0:20:11,11 --> 0:20:16,33
+young people, may be
+completely fine and sufficient.
+
+
+392
+0:20:16,33 --> 0:20:18,71
+But it's not for a
+lot of other folks.
+
+
+393
+0:20:18,71 --> 0:20:21,9
+And so what paleo adds
+to the mix is saying,
+
+
+394
+0:20:21,9 --> 0:20:25,28
+OK well, the Agricultural
+Revolution introduced
+
+
+395
+0:20:25,28 --> 0:20:27,66
+two huge food groups
+into the human diet
+
+
+396
+0:20:27,66 --> 0:20:29,87
+they basically
+hadn't been consumed
+
+
+397
+0:20:29,87 --> 0:20:36,67
+before-- grains and legumes
+and domesticated seeds,
+
+
+398
+0:20:36,67 --> 0:20:40,47
+basically, and dairy from
+domesticated animals.
+
+
+399
+0:20:40,47 --> 0:20:44,9
+I don't know if anybody here
+has milked a wild animal.
+
+
+400
+0:20:44,9 --> 0:20:44,85
+It's not easy.
+
+
+401
+0:20:44,85 --> 0:20:48,26
+It's possible, not easy.
+
+
+402
+0:20:48,26 --> 0:20:52,7
+So what this adds, a
+little more perspective,
+
+
+403
+0:20:52,7 --> 0:20:58,25
+and says OK, well people
+four hundred generations ago,
+
+
+404
+0:20:58,25 --> 0:21:1,88
+only started to eat
+tons of wheat and corn
+
+
+405
+0:21:1,88 --> 0:21:6,53
+and diets shifted from
+being very diverse,
+
+
+406
+0:21:6,53 --> 0:21:8,15
+lots of different
+animal species,
+
+
+407
+0:21:8,15 --> 0:21:9,93
+lots of different
+parts of the animal,
+
+
+408
+0:21:9,93 --> 0:21:12,31
+lots of different types
+of plants depending
+
+
+409
+0:21:12,31 --> 0:21:17,34
+on the geography and the season,
+to a diet heavily concentrated
+
+
+410
+0:21:17,34 --> 0:21:23,37
+in a few staple cereal crops--
+wheat, corn, barley, oats.
+
+
+411
+0:21:23,37 --> 0:21:26,47
+And then products made from
+that, bread and beer and things
+
+
+412
+0:21:26,47 --> 0:21:27,34
+like.
+
+
+413
+0:21:27,34 --> 0:21:38,39
+So paleo adds that piece
+to the puzzle in food.
+
+
+414
+0:21:38,39 --> 0:21:42,31
+So what I recommend
+people do is-- first off,
+
+
+415
+0:21:42,31 --> 0:21:45,14
+if you feel fine with
+your health and the way
+
+
+416
+0:21:45,14 --> 0:21:50,4
+that you're eating, there may
+be no reason to change anything.
+
+
+417
+0:21:50,4 --> 0:21:55,3
+If you feel fine and there
+aren't any issues, then
+
+
+418
+0:21:55,3 --> 0:21:57,27
+what's the problem?
+
+
+419
+0:21:57,27 --> 0:22:1,58
+However, if eating
+an agricultural diet
+
+
+420
+0:22:1,58 --> 0:22:5,19
+isn't working for you, then
+what you might want to explore
+
+
+421
+0:22:5,19 --> 0:22:9,89
+is diets that were more common
+during this prior period
+
+
+422
+0:22:9,89 --> 0:22:13,41
+in human evolution-- so
+removing grains, removing dairy
+
+
+423
+0:22:13,41 --> 0:22:18,77
+for a time, and trying to mimic
+an approximation-- we realize
+
+
+424
+0:22:18,77 --> 0:22:20,98
+it's an approximation.
+
+
+425
+0:22:20,98 --> 0:22:24,46
+And then add back in
+novel modern foods
+
+
+426
+0:22:24,46 --> 0:22:26,17
+and see how you feel.
+
+
+427
+0:22:26,17 --> 0:22:31,62
+I know many people who are very
+strict on gluten and grains.
+
+
+428
+0:22:31,62 --> 0:22:33,78
+Many have to be.
+
+
+429
+0:22:33,78 --> 0:22:36,68
+Many just want to be.
+
+
+430
+0:22:36,68 --> 0:22:41,64
+And I know more people
+who are flex on dairy,
+
+
+431
+0:22:41,64 --> 0:22:42,48
+and when they eat
+it it'll be more
+
+
+432
+0:22:42,48 --> 0:22:45,58
+like full-fat traditional dairy.
+
+
+433
+0:22:45,58 --> 0:22:48,642
+And then just see how you feel.
+
+
+434
+0:22:48,642 --> 0:22:50,6
+And this is sort of the
+bio-hacking part of it.
+
+
+435
+0:22:50,6 --> 0:22:52,48
+You've got to experiment.
+
+
+436
+0:22:52,48 --> 0:22:55,81
+And based on your ancestry
+and your genome and your gut
+
+
+437
+0:22:55,81 --> 0:22:57,84
+bacteria and what
+you like, you just
+
+
+438
+0:22:57,84 --> 0:23:0,38
+have to craft your own diet.
+
+
+439
+0:23:0,38 --> 0:23:2,805
+
+
+
+440
+0:23:2,805 --> 0:23:4,18
+Let me give you
+one more example,
+
+
+441
+0:23:4,18 --> 0:23:5,922
+and then maybe we
+can go to questions.
+
+
+442
+0:23:5,922 --> 0:23:7,13
+I don't know what time it is.
+
+
+443
+0:23:7,13 --> 0:23:7,97
+AUDIENCE: It's about 3:30.
+
+
+444
+0:23:7,97 --> 0:23:8,72
+JOHN DURANT: 3:30?
+
+
+445
+0:23:8,72 --> 0:23:10,93
+
+
+
+446
+0:23:10,93 --> 0:23:14,67
+The paleolithic doesn't
+help you with all areas.
+
+
+447
+0:23:14,67 --> 0:23:17,26
+And this is why I get a little
+frustrated with the term paleo,
+
+
+448
+0:23:17,26 --> 0:23:19,38
+even though I use
+it and promote it.
+
+
+449
+0:23:19,38 --> 0:23:23,51
+So take sleep, as an example.
+
+
+450
+0:23:23,51 --> 0:23:26,44
+The big change in
+human sleep patterns
+
+
+451
+0:23:26,44 --> 0:23:28,34
+didn't happen between
+the paleolithic
+
+
+452
+0:23:28,34 --> 0:23:30,8
+and the agricultural revolution.
+
+
+453
+0:23:30,8 --> 0:23:34,39
+People still lived with
+their extended family
+
+
+454
+0:23:34,39 --> 0:23:40,6
+in fairly close quarters and had
+no indoor lighting and things
+
+
+455
+0:23:40,6 --> 0:23:41,27
+like that.
+
+
+456
+0:23:41,27 --> 0:23:44,62
+The big transition in sleep was
+between the Agricultural Age
+
+
+457
+0:23:44,62 --> 0:23:48,8
+and the Industrial Age when
+you get indoor lighting,
+
+
+458
+0:23:48,8 --> 0:23:52,265
+you get more stimulants
+like coffee and tea
+
+
+459
+0:23:52,265 --> 0:23:55,71
+to keep people up,
+more alco-- well
+
+
+460
+0:23:55,71 --> 0:24:2,53
+I guess alcohol was way before--
+clocks, things like that.
+
+
+461
+0:24:2,53 --> 0:24:5,75
+And then people increasingly
+sleeping in isolation
+
+
+462
+0:24:5,75 --> 0:24:10,28
+from others, in their own rooms,
+on softer and softer bedding.
+
+
+463
+0:24:10,28 --> 0:24:14,13
+So most of the big
+key transition,
+
+
+464
+0:24:14,13 --> 0:24:17,544
+most of the key changes,
+when it comes to sleep,
+
+
+465
+0:24:17,544 --> 0:24:19,21
+have nothing to do
+with the paleolithic.
+
+
+466
+0:24:19,21 --> 0:24:21,68
+And you can actually
+get an approximation
+
+
+467
+0:24:21,68 --> 0:24:25,15
+of a healthy way of
+sleeping and sleep patterns
+
+
+468
+0:24:25,15 --> 0:24:27,805
+from looking at our
+agricultural era ancestors.
+
+
+469
+0:24:27,805 --> 0:24:30,43
+
+
+
+470
+0:24:30,43 --> 0:24:33,53
+So the paleolithic
+doesn't always
+
+
+471
+0:24:33,53 --> 0:24:35,37
+hold the solutions
+to everything.
+
+
+472
+0:24:35,37 --> 0:24:38,87
+
+
+
+473
+0:24:38,87 --> 0:24:41,34
+We don't always need it,
+depending on the issue.
+
+
+474
+0:24:41,34 --> 0:24:46,0
+But people focus on
+diet so much that that's
+
+
+475
+0:24:46,0 --> 0:24:48,56
+what it gets associated with.
+
+
+476
+0:24:48,56 --> 0:24:51,39
+
+
+
+477
+0:24:51,39 --> 0:24:53,38
+Do I have anything else?
+
+
+478
+0:24:53,38 --> 0:24:53,88
+No.
+
+
+479
+0:24:53,88 --> 0:24:56,75
+So if people now have
+specific questions,
+
+
+480
+0:24:56,75 --> 0:24:58,715
+let's open it up to questions.
+
+
+481
+0:24:58,715 --> 0:25:3,8
+AUDIENCE: What do you mean
+exactly by [INAUDIBLE]?
+
+
+482
+0:25:3,8 --> 0:25:3,955
+JOHN DURANT: By what?
+
+
+483
+0:25:3,955 --> 0:25:6,78
+AUDIENCE: [INAUDIBLE]?
+
+
+484
+0:25:6,78 --> 0:25:14,78
+JOHN DURANT: So people would
+sleep near a fire, usually.
+
+
+485
+0:25:14,78 --> 0:25:16,59
+There were lots
+of people around.
+
+
+486
+0:25:16,59 --> 0:25:19,45
+There wasn't very much privacy.
+
+
+487
+0:25:19,45 --> 0:25:21,32
+There are a lot
+of folks who think
+
+
+488
+0:25:21,32 --> 0:25:27,24
+that sleep was less less of a
+single uninterrupted stretch
+
+
+489
+0:25:27,24 --> 0:25:30,61
+of seven or eight hours and
+more broken up into two periods.
+
+
+490
+0:25:30,61 --> 0:25:33,35
+Or you'd sleep for a
+while, wake up, have sex,
+
+
+491
+0:25:33,35 --> 0:25:36,89
+go to the bathroom, chat
+with someone by the fire,
+
+
+492
+0:25:36,89 --> 0:25:39,59
+go back to sleep
+for a few hours.
+
+
+493
+0:25:39,59 --> 0:25:41,75
+Night was a long time.
+
+
+494
+0:25:41,75 --> 0:25:45,3
+And you couldn't do
+much when it was dark.
+
+
+495
+0:25:45,3 --> 0:25:47,93
+So that's sort of
+what it was like.
+
+
+496
+0:25:47,93 --> 0:25:52,16
+But it didn't change too much
+when people started farming.
+
+
+497
+0:25:52,16 --> 0:25:54,2
+And then they were
+living in little huts
+
+
+498
+0:25:54,2 --> 0:25:57,87
+with extended family
+scrunched together
+
+
+499
+0:25:57,87 --> 0:26:0,87
+around the fire for all night.
+
+
+500
+0:26:0,87 --> 0:26:5,55
+
+
+
+501
+0:26:5,55 --> 0:26:8,48
+Other questions?
+
+
+502
+0:26:8,48 --> 0:26:10,65
+AUDIENCE: From on VC behind you.
+
+
+503
+0:26:10,65 --> 0:26:12,41
+You can't see me
+actually, I think.
+
+
+504
+0:26:12,41 --> 0:26:13,76
+JOHN DURANT: Hi.
+
+
+505
+0:26:13,76 --> 0:26:15,606
+
+
+
+506
+0:26:15,606 --> 0:26:17,71
+AUDIENCE: When I was at
+[INAUDIBLE] from Hamburg,
+
+
+507
+0:26:17,71 --> 0:26:19,64
+Germany.
+
+
+508
+0:26:19,64 --> 0:26:22,7
+And thanks again
+for doing all this.
+
+
+509
+0:26:22,7 --> 0:26:23,975
+Paleo has done a lot for me.
+
+
+510
+0:26:23,975 --> 0:26:26,1
+Listened to you recently
+on Robb Wolf again.
+
+
+511
+0:26:26,1 --> 0:26:28,397
+It's just amazing stuff
+that you guys are doing.
+
+
+512
+0:26:28,397 --> 0:26:29,23
+JOHN DURANT: Thanks.
+
+
+513
+0:26:29,23 --> 0:26:34,262
+AUDIENCE: So my question
+is-- so [INAUDIBLE]
+
+
+514
+0:26:34,262 --> 0:26:35,97
+a lot of people around
+you there as well.
+
+
+515
+0:26:35,97 --> 0:26:37,511
+I have a lot of
+people, when you say,
+
+
+516
+0:26:37,511 --> 0:26:39,855
+you know when people say they
+are fine with what they're
+
+
+517
+0:26:39,855 --> 0:26:43,54
+eating and they way they're
+feeling, then [INAUDIBLE].
+
+
+518
+0:26:43,54 --> 0:26:48,17
+So the two questions that I have
+around that is, you know, A,
+
+
+519
+0:26:48,17 --> 0:26:49,89
+how do they know
+that they couldn't
+
+
+520
+0:26:49,89 --> 0:26:51,71
+feel much, much better, right?
+
+
+521
+0:26:51,71 --> 0:26:53,76
+I feel like we've been
+doing that sort of stuff
+
+
+522
+0:26:53,76 --> 0:26:54,426
+for a long time.
+
+
+523
+0:26:54,426 --> 0:26:55,68
+We don't even know.
+
+
+524
+0:26:55,68 --> 0:26:57,6
+[INAUDIBLE]?
+
+
+525
+0:26:57,6 --> 0:26:58,68
+JOHN DURANT: Right.
+
+
+526
+0:26:58,68 --> 0:27:0,304
+AUDIENCE: [INAUDIBLE] basically.
+
+
+527
+0:27:0,304 --> 0:27:0,97
+All their lives.
+
+
+528
+0:27:0,97 --> 0:27:2,23
+So, that's the one question.
+
+
+529
+0:27:2,23 --> 0:27:6,3
+The other one is, I
+feel like-- so you
+
+
+530
+0:27:6,3 --> 0:27:8,4
+say a lot of young
+people especially,
+
+
+531
+0:27:8,4 --> 0:27:10,43
+I think what you mean is
+that a lot of people, their
+
+
+532
+0:27:10,43 --> 0:27:13,69
+their metabolism is much more
+forgiving than, for example,
+
+
+533
+0:27:13,69 --> 0:27:14,51
+later in time.
+
+
+534
+0:27:14,51 --> 0:27:15,0
+JOHN DURANT: Right.
+
+
+535
+0:27:15,0 --> 0:27:16,416
+AUDIENCE: What is
+[INAUDIBLE] that
+
+
+536
+0:27:16,416 --> 0:27:20,678
+is accumulating over this
+period that sort of, you know,
+
+
+537
+0:27:20,678 --> 0:27:23,38
+lifestyle, that
+could be prevented,
+
+
+538
+0:27:23,38 --> 0:27:27,7
+and would not even lead to
+issues in the 30s, 40s, 50s,
+
+
+539
+0:27:27,7 --> 0:27:28,99
+whenever.
+
+
+540
+0:27:28,99 --> 0:27:31,31
+JOHN DURANT: So, thanks
+for your questions.
+
+
+541
+0:27:31,31 --> 0:27:33,72
+For the first
+question, yeah, people
+
+
+542
+0:27:33,72 --> 0:27:39,66
+tend to accept their
+lives as normal.
+
+
+543
+0:27:39,66 --> 0:27:42,19
+They confuse the word
+normal with common.
+
+
+544
+0:27:42,19 --> 0:27:42,69
+I do it.
+
+
+545
+0:27:42,69 --> 0:27:43,73
+Everybody here does it.
+
+
+546
+0:27:43,73 --> 0:27:46,82
+Just because it's
+common in North America
+
+
+547
+0:27:46,82 --> 0:27:48,49
+to live a certain
+way doesn't mean
+
+
+548
+0:27:48,49 --> 0:27:55,98
+it's necessarily species
+typical in a biological sense.
+
+
+549
+0:27:55,98 --> 0:27:59,24
+So they have the
+same problem in zoos.
+
+
+550
+0:27:59,24 --> 0:28:2,88
+They run studies on the health
+of all the captive gorillas
+
+
+551
+0:28:2,88 --> 0:28:4,28
+in North American zoos.
+
+
+552
+0:28:4,28 --> 0:28:6,82
+But they actually can't conclude
+very much because they all
+
+
+553
+0:28:6,82 --> 0:28:10,6
+lead very similar lives and
+very similar circumstances,
+
+
+554
+0:28:10,6 --> 0:28:12,34
+eating very similar food.
+
+
+555
+0:28:12,34 --> 0:28:15,14
+And so if you actually want to
+see real differences in gorilla
+
+
+556
+0:28:15,14 --> 0:28:18,9
+help, you have to compare them
+with their wild counterparts.
+
+
+557
+0:28:18,9 --> 0:28:23,68
+But the reason why I say,
+however you're eating,
+
+
+558
+0:28:23,68 --> 0:28:25,68
+if you feel great, fine
+is partly because I
+
+
+559
+0:28:25,68 --> 0:28:29,13
+don't want to push
+people too much.
+
+
+560
+0:28:29,13 --> 0:28:32,72
+And we can eat novel foods,
+and we can live in new ways
+
+
+561
+0:28:32,72 --> 0:28:33,8
+and that's fine.
+
+
+562
+0:28:33,8 --> 0:28:38,55
+So I'm just trying to do more
+of the soft sell, I guess.
+
+
+563
+0:28:38,55 --> 0:28:41,97
+But I think people
+would be surprised
+
+
+564
+0:28:41,97 --> 0:28:50,41
+about how many conditions
+they accept as normal that
+
+
+565
+0:28:50,41 --> 0:28:53,12
+don't necessarily have to be.
+
+
+566
+0:28:53,12 --> 0:28:57,43
+You get teenagers that
+accept it as normal
+
+
+567
+0:28:57,43 --> 0:29:1,74
+that they will need braces
+and to get tons of acne.
+
+
+568
+0:29:1,74 --> 0:29:5,64
+And this causes like a
+lot of social anxiety,
+
+
+569
+0:29:5,64 --> 0:29:7,91
+and like self-esteem issues.
+
+
+570
+0:29:7,91 --> 0:29:12,9
+And we treat it as this
+normal rite of passage
+
+
+571
+0:29:12,9 --> 0:29:15,34
+through adolescence.
+
+
+572
+0:29:15,34 --> 0:29:18,32
+But the reason why
+our teeth are crowded
+
+
+573
+0:29:18,32 --> 0:29:21,89
+is because our jaws
+have gotten smaller
+
+
+574
+0:29:21,89 --> 0:29:24,96
+over the last some thousands of
+years because the food we eat
+
+
+575
+0:29:24,96 --> 0:29:26,15
+isn't very tough.
+
+
+576
+0:29:26,15 --> 0:29:27,45
+It's very soft.
+
+
+577
+0:29:27,45 --> 0:29:30,11
+And so our jaws
+don't grow as large
+
+
+578
+0:29:30,11 --> 0:29:33,96
+as they do when we
+had tougher foods.
+
+
+579
+0:29:33,96 --> 0:29:38,61
+And so our jaws aren't large
+enough to fit all of our teeth.
+
+
+580
+0:29:38,61 --> 0:29:42,11
+And some of those
+strong bite forces
+
+
+581
+0:29:42,11 --> 0:29:45,48
+are what the body uses to help
+your teeth come in straight.
+
+
+582
+0:29:45,48 --> 0:29:47,45
+When you look at these
+hunter gatherer skulls--
+
+
+583
+0:29:47,45 --> 0:29:50,69
+and I've gotten to examine some
+of them-- 80,000 years ago,
+
+
+584
+0:29:50,69 --> 0:29:51,9
+beautiful set of teeth.
+
+
+585
+0:29:51,9 --> 0:29:54,182
+Not perfect, but
+wisdom teeth came in,
+
+
+586
+0:29:54,182 --> 0:29:56,39
+there was enough room in
+the jaw for the wisdom teeth
+
+
+587
+0:29:56,39 --> 0:29:57,53
+to come in.
+
+
+588
+0:29:57,53 --> 0:29:59,73
+No cavities.
+
+
+589
+0:29:59,73 --> 0:30:0,45
+And straight.
+
+
+590
+0:30:0,45 --> 0:30:2,495
+So that's--
+
+
+591
+0:30:2,495 --> 0:30:3,328
+AUDIENCE: I'm sorry.
+
+
+592
+0:30:3,328 --> 0:30:6,817
+Are you saying that's an
+evolutionary change over 80,000
+
+
+593
+0:30:6,817 --> 0:30:8,805
+years, or is that
+a specific change
+
+
+594
+0:30:8,805 --> 0:30:11,29
+over the lifetime because
+an individual is chewing
+
+
+595
+0:30:11,29 --> 0:30:13,617
+less, that their jaw grows less.
+
+
+596
+0:30:13,617 --> 0:30:15,53
+JOHN DURANT: Individual
+chewing less,
+
+
+597
+0:30:15,53 --> 0:30:18,84
+though there are some
+lines of evidence
+
+
+598
+0:30:18,84 --> 0:30:22,94
+that maybe the human
+had has actually
+
+
+599
+0:30:22,94 --> 0:30:25,8
+gotten a little bit smaller
+over the last 10,000 years.
+
+
+600
+0:30:25,8 --> 0:30:28,82
+Our brains actually used
+to be a little bit bigger
+
+
+601
+0:30:28,82 --> 0:30:31,4
+than they are today.
+
+
+602
+0:30:31,4 --> 0:30:33,15
+Near the end the paleolithic.
+
+
+603
+0:30:33,15 --> 0:30:36,55
+I don't know what that means.
+
+
+604
+0:30:36,55 --> 0:30:42,27
+Your second question was about--
+what was your second question?
+
+
+605
+0:30:42,27 --> 0:30:45,74
+Oh youth, youth.
+
+
+606
+0:30:45,74 --> 0:30:49,75
+So definitely young
+people can-- there's
+
+
+607
+0:30:49,75 --> 0:30:53,16
+very interesting evolutionary--
+the evolutionary biology
+
+
+608
+0:30:53,16 --> 0:30:55,26
+of aging is a very
+fascinating area.
+
+
+609
+0:30:55,26 --> 0:30:58,59
+There's a guy named Michael
+Rose at UC Irvine who's probably
+
+
+610
+0:30:58,59 --> 0:31:1,9
+the preeminent
+guy in this field.
+
+
+611
+0:31:1,9 --> 0:31:7,8
+And a lot of people think of
+aging as sort of simply just
+
+
+612
+0:31:7,8 --> 0:31:11,73
+damage accumulating,
+like a car rolls off
+
+
+613
+0:31:11,73 --> 0:31:20,105
+the lot at wherever
+they sell cars--
+
+
+614
+0:31:20,105 --> 0:31:20,98
+AUDIENCE: Dealership.
+
+
+615
+0:31:20,98 --> 0:31:23,32
+JOHN DURANT: --at a dealership.
+
+
+616
+0:31:23,32 --> 0:31:25,62
+And then from then on
+out, it sort of just
+
+
+617
+0:31:25,62 --> 0:31:27,76
+accumulates damage.
+
+
+618
+0:31:27,76 --> 0:31:34,89
+But during the period of time
+before the typical first stage
+
+
+619
+0:31:34,89 --> 0:31:40,95
+of reproduction, we've basically
+evolved incredible repair
+
+
+620
+0:31:40,95 --> 0:31:42,55
+mechanisms.
+
+
+621
+0:31:42,55 --> 0:31:48,4
+So let me put it this way, if
+you get a genetic defect that
+
+
+622
+0:31:48,4 --> 0:31:50,99
+causes you to die when
+you're four or five,
+
+
+623
+0:31:50,99 --> 0:31:54,94
+your genes don't get passed on
+to the next generation at all.
+
+
+624
+0:31:54,94 --> 0:31:56,64
+Kaput.
+
+
+625
+0:31:56,64 --> 0:31:57,38
+You're out.
+
+
+626
+0:31:57,38 --> 0:31:59,22
+You're out of the gene pool.
+
+
+627
+0:31:59,22 --> 0:32:3,42
+But if you get that same
+genetic defect when you're 50,
+
+
+628
+0:32:3,42 --> 0:32:6,54
+you still have time
+to have offspring.
+
+
+629
+0:32:6,54 --> 0:32:10,37
+So basically, depending
+on the first typical age
+
+
+630
+0:32:10,37 --> 0:32:12,87
+of reproduction of
+a species, evolution
+
+
+631
+0:32:12,87 --> 0:32:17,14
+selects for incredible
+robust health.
+
+
+632
+0:32:17,14 --> 0:32:19,64
+We grow stronger
+as we get older.
+
+
+633
+0:32:19,64 --> 0:32:24,3
+We become more robust
+from birth to adolescence,
+
+
+634
+0:32:24,3 --> 0:32:26,7
+and then we start to
+accumulate damage.
+
+
+635
+0:32:26,7 --> 0:32:34,63
+So young people are
+actually pretty well adapted
+
+
+636
+0:32:34,63 --> 0:32:38,17
+to some aspects of
+an agricultural diet.
+
+
+637
+0:32:38,17 --> 0:32:40,19
+Young people are
+probably better adapted
+
+
+638
+0:32:40,19 --> 0:32:44,38
+to some of those foods than
+those same individuals later
+
+
+639
+0:32:44,38 --> 0:32:44,88
+in life.
+
+
+640
+0:32:44,88 --> 0:32:47,3
+It's a very
+counter-intuitive concept.
+
+
+641
+0:32:47,3 --> 0:32:52,7
+But there's been selection
+pressures for young kids
+
+
+642
+0:32:52,7 --> 0:32:54,53
+to be able to survive
+on these diets,
+
+
+643
+0:32:54,53 --> 0:32:57,83
+to make it to the age
+at which they reproduce.
+
+
+644
+0:32:57,83 --> 0:33:0,95
+There has not been the
+same sort of selection,
+
+
+645
+0:33:0,95 --> 0:33:4,43
+or as strong of selection,
+for older people.
+
+
+646
+0:33:4,43 --> 0:33:7,22
+So there are a lot of
+people, for example,
+
+
+647
+0:33:7,22 --> 0:33:11,4
+who end up getting
+Celiac later in life.
+
+
+648
+0:33:11,4 --> 0:33:14,14
+There was some traumatic
+event, or childbirth,
+
+
+649
+0:33:14,14 --> 0:33:16,19
+or just getting older.
+
+
+650
+0:33:16,19 --> 0:33:19,22
+Either Celiac or not being
+able to digest lactose.
+
+
+651
+0:33:19,22 --> 0:33:21,36
+They become lactose
+intolerant later in life.
+
+
+652
+0:33:21,36 --> 0:33:24,11
+You start to notice
+it among folks.
+
+
+653
+0:33:24,11 --> 0:33:28,4
+My grandmother developed
+Celiac late in life.
+
+
+654
+0:33:28,4 --> 0:33:31,77
+And it's possible that for
+some of these more novel foods,
+
+
+655
+0:33:31,77 --> 0:33:33,511
+we're better
+adapted to them when
+
+
+656
+0:33:33,511 --> 0:33:35,76
+we're young and less adapted
+to them when we're older.
+
+
+657
+0:33:35,76 --> 0:33:39,4
+So it may become
+more important to eat
+
+
+658
+0:33:39,4 --> 0:33:43,92
+more of a paleolithic
+diet the older you get.
+
+
+659
+0:33:43,92 --> 0:33:45,902
+Some of that is hypothesis.
+
+
+660
+0:33:45,902 --> 0:33:48,36
+AUDIENCE: Can I jump in on that
+just really quickly, sorry.
+
+
+661
+0:33:48,36 --> 0:33:51,5
+AUDIENCE: Well let-- OK.
+
+
+662
+0:33:51,5 --> 0:33:54,84
+AUDIENCE: Just because
+it's a very tangible thing.
+
+
+663
+0:33:54,84 --> 0:33:58,9
+[INAUDIBLE] a lot of
+money into keeping
+
+
+664
+0:33:58,9 --> 0:33:59,469
+Googlers healthy, right?
+
+
+665
+0:33:59,469 --> 0:34:0,26
+JOHN DURANT: Right.
+
+
+666
+0:34:0,26 --> 0:34:3,456
+Like free M&Ms and
+stuff like that?
+
+
+667
+0:34:3,456 --> 0:34:4,89
+AUDIENCE: They've reduced those.
+
+
+668
+0:34:4,89 --> 0:34:9,699
+AUDIENCE: And we get massages,
+and adjustable tables and gyms
+
+
+669
+0:34:9,699 --> 0:34:11,55
+and that sort of stuff.
+
+
+670
+0:34:11,55 --> 0:34:13,863
+And we have a lot of people
+that started around age, I
+
+
+671
+0:34:13,863 --> 0:34:15,84
+don't know, 20, 25 here.
+
+
+672
+0:34:15,84 --> 0:34:17,92
+And then as they
+continue working here,
+
+
+673
+0:34:17,92 --> 0:34:19,61
+they get out of
+shape, but they think
+
+
+674
+0:34:19,61 --> 0:34:21,989
+that's the natural
+course of life basically.
+
+
+675
+0:34:21,989 --> 0:34:25,26
+So what would you tell Google
+as a company to say, hey, look,
+
+
+676
+0:34:25,26 --> 0:34:27,862
+your people just don't have
+to get sick and fat, right?
+
+
+677
+0:34:27,862 --> 0:34:29,406
+[LAUGHTER]
+
+
+678
+0:34:29,406 --> 0:34:30,489
+JOHN DURANT: That's right.
+
+
+679
+0:34:30,489 --> 0:34:33,34
+Well, you could start
+to model workplaces
+
+
+680
+0:34:33,34 --> 0:34:36,5
+on little hunter
+gatherer tribes.
+
+
+681
+0:34:36,5 --> 0:34:37,5
+Less clothing and things like.
+
+
+682
+0:34:37,5 --> 0:34:41,0
+
+
+
+683
+0:34:41,0 --> 0:34:44,929
+When you look at traditional
+people, indigenous folks,
+
+
+684
+0:34:44,929 --> 0:34:49,19
+living in traditional ways,
+they have health problems
+
+
+685
+0:34:49,19 --> 0:34:50,9
+of their own-- infant
+mortality, things
+
+
+686
+0:34:50,9 --> 0:34:54,484
+like that-- but they tend
+to live into their 60s, 70s,
+
+
+687
+0:34:54,484 --> 0:34:58,11
+and even the 80s in some
+cases in robust health.
+
+
+688
+0:34:58,11 --> 0:35:2,85
+The 70-year-olds, they're
+not bed-ridden with arthritis
+
+
+689
+0:35:2,85 --> 0:35:4,16
+and have Alzheimer's.
+
+
+690
+0:35:4,16 --> 0:35:8,24
+There like carrying pails
+of water into their 70s
+
+
+691
+0:35:8,24 --> 0:35:11,7
+and hiking up hills
+and things like that.
+
+
+692
+0:35:11,7 --> 0:35:14,97
+And if you were a
+hunter gatherer,
+
+
+693
+0:35:14,97 --> 0:35:18,39
+you had to, at a minimum, be
+able to move with your tribe
+
+
+694
+0:35:18,39 --> 0:35:20,92
+whenever it migrated.
+
+
+695
+0:35:20,92 --> 0:35:28,67
+And so it gives you a new
+sense of what's normal.
+
+
+696
+0:35:28,67 --> 0:35:32,19
+What I like about the way that
+Google thinks about health
+
+
+697
+0:35:32,19 --> 0:35:35,53
+is really thinking
+about the habitat.
+
+
+698
+0:35:35,53 --> 0:35:40,59
+Saying OK, your habitat has a
+big influence on whether you
+
+
+699
+0:35:40,59 --> 0:35:41,76
+eat something or don't.
+
+
+700
+0:35:41,76 --> 0:35:44,83
+If we put a cover on it
+and make it less visible,
+
+
+701
+0:35:44,83 --> 0:35:46,21
+fewer people eat the candy.
+
+
+702
+0:35:46,21 --> 0:35:49,71
+I think that's one of the
+changes that happened here.
+
+
+703
+0:35:49,71 --> 0:35:55,7
+And what's good about
+re-engineering your habitat
+
+
+704
+0:35:55,7 --> 0:35:59,75
+is it doesn't require as much
+willpower and discipline.
+
+
+705
+0:35:59,75 --> 0:36:2,27
+So many people, when
+they get into dieting,
+
+
+706
+0:36:2,27 --> 0:36:4,43
+they think they're
+changing themselves.
+
+
+707
+0:36:4,43 --> 0:36:6,21
+Like I have to change myself.
+
+
+708
+0:36:6,21 --> 0:36:7,8
+And I have to become
+a better person.
+
+
+709
+0:36:7,8 --> 0:36:10,6
+And I'm going to do this through
+willpower and discipline.
+
+
+710
+0:36:10,6 --> 0:36:13,89
+And that's part of the reason
+why everybody fails at it.
+
+
+711
+0:36:13,89 --> 0:36:18,24
+Because you can't-- nobody
+is perfectly disciplined over
+
+
+712
+0:36:18,24 --> 0:36:19,88
+a long period of time.
+
+
+713
+0:36:19,88 --> 0:36:24,66
+You have to find ways
+of using discipline
+
+
+714
+0:36:24,66 --> 0:36:27,15
+in a short period of time
+to change your habitat
+
+
+715
+0:36:27,15 --> 0:36:28,89
+so that it makes it
+easy to be healthy
+
+
+716
+0:36:28,89 --> 0:36:31,23
+even when you're
+not disciplined.
+
+
+717
+0:36:31,23 --> 0:36:35,86
+Or the way that you lead
+your life, the food you eat
+
+
+718
+0:36:35,86 --> 0:36:40,8
+and how you move, it has to be
+meaningful to you in some way.
+
+
+719
+0:36:40,8 --> 0:36:43,14
+Calories are not
+meaningful to people.
+
+
+720
+0:36:43,14 --> 0:36:44,92
+Most people are not
+motivated by calories.
+
+
+721
+0:36:44,92 --> 0:36:51,36
+
+
+
+722
+0:36:51,36 --> 0:36:58,61
+Going to hunt a wild animal
+to bring back a lot of meat
+
+
+723
+0:36:58,61 --> 0:37:2,5
+to try to impress the girl
+in the tribe that you like,
+
+
+724
+0:37:2,5 --> 0:37:4,28
+that motivated people.
+
+
+725
+0:37:4,28 --> 0:37:8,49
+So you have to think about ways
+to either change your habitat
+
+
+726
+0:37:8,49 --> 0:37:11,3
+or make a healthy lifestyle
+meaningful to people
+
+
+727
+0:37:11,3 --> 0:37:15,66
+so that's it doesn't
+require discipline.
+
+
+728
+0:37:15,66 --> 0:37:18,6
+AUDIENCE: [INAUDIBLE]
+when you said
+
+
+729
+0:37:18,6 --> 0:37:21,54
+there was a lot of danger in
+doing agricultural industrial.
+
+
+730
+0:37:21,54 --> 0:37:25,18
+And I'm asking but now I'm
+five days in [INAUDIBLE] all
+
+
+731
+0:37:25,18 --> 0:37:28,702
+the things that can
+happen if you make
+
+
+732
+0:37:28,702 --> 0:37:31,393
+a switch from the
+Information Age,
+
+
+733
+0:37:31,393 --> 0:37:33,351
+where I've been eating
+processed foods, breads,
+
+
+734
+0:37:33,351 --> 0:37:35,286
+but then I just stop.
+
+
+735
+0:37:35,286 --> 0:37:35,786
+Right?
+
+
+736
+0:37:35,786 --> 0:37:38,708
+And I just stop and
+start eating meant
+
+
+737
+0:37:38,708 --> 0:37:40,169
+and vegetables and some fruits.
+
+
+738
+0:37:40,169 --> 0:37:44,968
+And are there dangers
+going the other way?
+
+
+739
+0:37:44,968 --> 0:37:48,454
+Like, I read [INAUDIBLE]
+so there's obviously
+
+
+740
+0:37:48,454 --> 0:37:50,695
+a lot of fear factors,
+but like how real are they
+
+
+741
+0:37:50,695 --> 0:37:52,153
+for doing an abrupt
+change in diet?
+
+
+742
+0:37:52,153 --> 0:37:57,74
+
+
+
+743
+0:37:57,74 --> 0:37:58,49
+JOHN DURANT: One
+thing people will
+
+
+744
+0:37:58,49 --> 0:38:2,37
+notice with abrupt changes
+is particularly around sugar.
+
+
+745
+0:38:2,37 --> 0:38:4,57
+People eat a lot of sugar today.
+
+
+746
+0:38:4,57 --> 0:38:7,72
+And if you eat a lot of
+sugar, and then you cut it out
+
+
+747
+0:38:7,72 --> 0:38:9,34
+of your diet, you're
+basically going
+
+
+748
+0:38:9,34 --> 0:38:12,79
+through withdrawal of a drug.
+
+
+749
+0:38:12,79 --> 0:38:15,42
+And it's not pleasant.
+
+
+750
+0:38:15,42 --> 0:38:17,73
+Lightheadedness,
+shaky hands, inability
+
+
+751
+0:38:17,73 --> 0:38:21,6
+to concentrate, anxiety.
+
+
+752
+0:38:21,6 --> 0:38:23,88
+So that can be difficult.
+
+
+753
+0:38:23,88 --> 0:38:27,31
+
+
+
+754
+0:38:27,31 --> 0:38:35,36
+Unless somebody has some sort of
+specific, severe health issue,
+
+
+755
+0:38:35,36 --> 0:38:39,75
+I do tend to think that trying
+to go more or less whole hog,
+
+
+756
+0:38:39,75 --> 0:38:44,9
+for a short period of time,
+is the best way to do it.
+
+
+757
+0:38:44,9 --> 0:38:48,81
+And you just got a
+monitor how you feel.
+
+
+758
+0:38:48,81 --> 0:38:50,7
+You'll see better results.
+
+
+759
+0:38:50,7 --> 0:38:52,35
+Or you'll have a
+better validation
+
+
+760
+0:38:52,35 --> 0:38:53,65
+of whatever results you get.
+
+
+761
+0:38:53,65 --> 0:38:58,76
+
+
+
+762
+0:38:58,76 --> 0:39:1,9
+And you can harness that
+period of discipline.
+
+
+763
+0:39:1,9 --> 0:39:3,4
+A lot of people
+can be disciplined
+
+
+764
+0:39:3,4 --> 0:39:4,95
+for a week or two weeks.
+
+
+765
+0:39:4,95 --> 0:39:8,34
+Few people can just be
+disciplined for two years.
+
+
+766
+0:39:8,34 --> 0:39:11,8
+So rather than trying to go
+sort of 5p% for a long period
+
+
+767
+0:39:11,8 --> 0:39:14,97
+of time, just going 100%.
+
+
+768
+0:39:14,97 --> 0:39:21,84
+Other risks-- with diet I don't
+think there are as many risks.
+
+
+769
+0:39:21,84 --> 0:39:24,3
+With exercise, yeah.
+
+
+770
+0:39:24,3 --> 0:39:27,12
+If people just like immediately
+jump into a hard CrossFit
+
+
+771
+0:39:27,12 --> 0:39:29,75
+workout without
+learning Olympic lifts,
+
+
+772
+0:39:29,75 --> 0:39:30,83
+you can injure your back.
+
+
+773
+0:39:30,83 --> 0:39:33,62
+
+
+
+774
+0:39:33,62 --> 0:39:38,12
+But for most people, sugar is
+the biggest immediate obstacle.
+
+
+775
+0:39:38,12 --> 0:39:41,686
+
+
+
+776
+0:39:41,686 --> 0:39:43,98
+AUDIENCE: So I'm vegan.
+
+
+777
+0:39:43,98 --> 0:39:48,238
+And I actually agree a lot
+with the paleo mindset.
+
+
+778
+0:39:48,238 --> 0:39:50,5
+I think there's a lot
+more in common than--
+
+
+779
+0:39:50,5 --> 0:39:51,91
+JOHN DURANT: I agree.
+
+
+780
+0:39:51,91 --> 0:39:53,846
+AUDIENCE: --as far as focusing
+on whole foods, et cetera.
+
+
+781
+0:39:53,846 --> 0:39:56,536
+
+
+
+782
+0:39:56,536 --> 0:39:59,43
+And I think it gets overblown
+in the media how much meat you
+
+
+783
+0:39:59,43 --> 0:40:0,418
+do have to eat.
+
+
+784
+0:40:0,418 --> 0:40:2,394
+I think too much is bad.
+
+
+785
+0:40:2,394 --> 0:40:4,864
+I don't think
+necessarily [INAUDIBLE]
+
+
+786
+0:40:4,864 --> 0:40:6,35
+the only way to do things.
+
+
+787
+0:40:6,35 --> 0:40:8,414
+So I was just
+curious, kind of, I
+
+
+788
+0:40:8,414 --> 0:40:12,77
+guess you thoughts on diet,
+maybe your day-to-day diet.
+
+
+789
+0:40:12,77 --> 0:40:16,12
+JOHN DURANT: Well let me talk
+about the vegan/ paleo thing
+
+
+790
+0:40:16,12 --> 0:40:17,15
+for a second.
+
+
+791
+0:40:17,15 --> 0:40:21,19
+In the press, it's often
+portrayed as polar opposites.
+
+
+792
+0:40:21,19 --> 0:40:23,95
+I do tend to think of paleo and
+vegan as more like yin yang.
+
+
+793
+0:40:23,95 --> 0:40:28,24
+
+
+
+794
+0:40:28,24 --> 0:40:32,252
+I have no problem with
+people eating however
+
+
+795
+0:40:32,252 --> 0:40:32,96
+they want to eat.
+
+
+796
+0:40:32,96 --> 0:40:34,83
+And I respect vegans
+and vegetarians
+
+
+797
+0:40:34,83 --> 0:40:38,3
+a lot for being
+conscious eaters.
+
+
+798
+0:40:38,3 --> 0:40:41,83
+Where it does grate on me a
+little bit is if people then
+
+
+799
+0:40:41,83 --> 0:40:45,49
+turn around and say, this
+is an optimal human diet.
+
+
+800
+0:40:45,49 --> 0:40:50,78
+That's where I become a bit
+more combative and disagree.
+
+
+801
+0:40:50,78 --> 0:40:54,26
+
+
+
+802
+0:40:54,26 --> 0:40:55,8
+And here's the thing.
+
+
+803
+0:40:55,8 --> 0:40:58,86
+Any dietary approach--
+Atkins, vegan, paleo,
+
+
+804
+0:40:58,86 --> 0:41:3,34
+whatever-- that gets people
+to eat less industrial food,
+
+
+805
+0:41:3,34 --> 0:41:5,11
+is going to work to some extent.
+
+
+806
+0:41:5,11 --> 0:41:10,64
+Less refined sugar, refined
+flour, high fructose corn
+
+
+807
+0:41:10,64 --> 0:41:11,38
+syrup.
+
+
+808
+0:41:11,38 --> 0:41:14,7
+Any approach that gets
+people to reduce that
+
+
+809
+0:41:14,7 --> 0:41:17,83
+will have some success
+at least for a time.
+
+
+810
+0:41:17,83 --> 0:41:21,41
+And then, I have much more
+in common with how vegans
+
+
+811
+0:41:21,41 --> 0:41:29,11
+eat than probably the
+average Western diet.
+
+
+812
+0:41:29,11 --> 0:41:30,22
+What was the last piece?
+
+
+813
+0:41:30,22 --> 0:41:32,1
+How do I eat on a daily basis?
+
+
+814
+0:41:32,1 --> 0:41:33,79
+AUDIENCE: Yeah what's
+your day-to-day?
+
+
+815
+0:41:33,79 --> 0:41:36,1
+JOHN DURANT: I often
+don't eat breakfast.
+
+
+816
+0:41:36,1 --> 0:41:39,69
+I don't wake up terribly hungry.
+
+
+817
+0:41:39,69 --> 0:41:43,72
+Sometimes, if I do have
+breakfast, I'll have some eggs
+
+
+818
+0:41:43,72 --> 0:41:45,18
+and spinach.
+
+
+819
+0:41:45,18 --> 0:41:47,71
+Or I'll have a bowl of
+heavy cream, because I
+
+
+820
+0:41:47,71 --> 0:41:54,13
+eat some dairy, and a sliced
+up banana, which is delicious.
+
+
+821
+0:41:54,13 --> 0:41:56,73
+Lunch-- sushi.
+
+
+822
+0:41:56,73 --> 0:41:59,39
+I don't worry about a little
+bit of white rice or anything
+
+
+823
+0:41:59,39 --> 0:42:1,63
+like that.
+
+
+824
+0:42:1,63 --> 0:42:6,51
+Sushi, sashimi, Mongolian
+barbecue, meat and vegetables,
+
+
+825
+0:42:6,51 --> 0:42:9,54
+a Cobb salad,
+something like that.
+
+
+826
+0:42:9,54 --> 0:42:13,36
+And then dinner would be a
+piece of fish, sweet potato,
+
+
+827
+0:42:13,36 --> 0:42:14,92
+and a side salad.
+
+
+828
+0:42:14,92 --> 0:42:18,98
+I mean, it's not that radical.
+
+
+829
+0:42:18,98 --> 0:42:23,17
+But it is radical over
+an extended period
+
+
+830
+0:42:23,17 --> 0:42:27,46
+when you realize that
+gluten and wheat and corn
+
+
+831
+0:42:27,46 --> 0:42:31,0
+are in everything
+in the grocery store
+
+
+832
+0:42:31,0 --> 0:42:34,16
+except for a few things
+around the outside.
+
+
+833
+0:42:34,16 --> 0:42:37,7
+AUDIENCE: Question
+from VC behind you.
+
+
+834
+0:42:37,7 --> 0:42:38,36
+JOHN DURANT: Hi.
+
+
+835
+0:42:38,36 --> 0:42:40,26
+AUDIENCE: So you
+mentioned white rice.
+
+
+836
+0:42:40,26 --> 0:42:43,41
+And I eat white rice
+myself because I think it
+
+
+837
+0:42:43,41 --> 0:42:47,64
+doesn't-- at least it doesn't
+feel as bad wheat does.
+
+
+838
+0:42:47,64 --> 0:42:51,345
+So, and I also read some studies
+saying that among grains,
+
+
+839
+0:42:51,345 --> 0:42:52,97
+you might actually
+be better off eating
+
+
+840
+0:42:52,97 --> 0:42:57,425
+white rice than brown
+rice even, in moderation.
+
+
+841
+0:42:57,425 --> 0:42:58,76
+So thought on that.
+
+
+842
+0:42:58,76 --> 0:43:1,55
+And I'm going to throw in
+a second question, which
+
+
+843
+0:43:1,55 --> 0:43:8,166
+is you mentioned metabolism as
+the damage analogy for aging.
+
+
+844
+0:43:8,166 --> 0:43:12,539
+So the simple logic is that
+the faster your metabolism
+
+
+845
+0:43:12,539 --> 0:43:13,83
+the faster you're going to age.
+
+
+846
+0:43:13,83 --> 0:43:15,935
+But then again, I
+find, for instance,
+
+
+847
+0:43:15,935 --> 0:43:19,435
+if I sleep on a cold, hard bed,
+I feel better in the morning,
+
+
+848
+0:43:19,435 --> 0:43:22,6
+and logically I feel like that's
+the better things to be doing.
+
+
+849
+0:43:22,6 --> 0:43:25,279
+But then part of me is
+thinking, isn't my body
+
+
+850
+0:43:25,279 --> 0:43:27,57
+trying to burn more fuel to
+stay warm during the night.
+
+
+851
+0:43:27,57 --> 0:43:30,89
+So I don't know if you
+have any thoughts on that.
+
+
+852
+0:43:30,89 --> 0:43:33,76
+JOHN DURANT: Well,
+on rice first.
+
+
+853
+0:43:33,76 --> 0:43:39,52
+In my mental model of
+grains, wheat is the worst.
+
+
+854
+0:43:39,52 --> 0:43:41,9
+And rice is the least
+worst, or the best.
+
+
+855
+0:43:41,9 --> 0:43:46,19
+
+
+
+856
+0:43:46,19 --> 0:43:49,38
+Let me give you the
+10,000 foot view seeds.
+
+
+857
+0:43:49,38 --> 0:43:53,15
+And when I say seeds, I
+mean the reproductive organ
+
+
+858
+0:43:53,15 --> 0:43:56,76
+of the plant, and I'm including
+grains, legumes, nuts,
+
+
+859
+0:43:56,76 --> 0:43:58,83
+and seeds.
+
+
+860
+0:43:58,83 --> 0:44:4,206
+Seeds, as the reproductive
+organ of the plants,
+
+
+861
+0:44:4,206 --> 0:44:7,34
+have many nutrients
+in them because it's
+
+
+862
+0:44:7,34 --> 0:44:10,18
+to feed the next generation.
+
+
+863
+0:44:10,18 --> 0:44:14,58
+They also have
+defense mechanisms.
+
+
+864
+0:44:14,58 --> 0:44:16,99
+Sometimes a shell, which
+is nature's way of saying
+
+
+865
+0:44:16,99 --> 0:44:18,37
+stay out.
+
+
+866
+0:44:18,37 --> 0:44:23,0
+Or chemicals, toxins or
+naturally occurring pesticides.
+
+
+867
+0:44:23,0 --> 0:44:25,85
+Plants can't run
+away from predators.
+
+
+868
+0:44:25,85 --> 0:44:27,29
+They are not mobile.
+
+
+869
+0:44:27,29 --> 0:44:29,46
+So they have to use
+other mechanisms
+
+
+870
+0:44:29,46 --> 0:44:33,19
+to defend their offspring or
+the reproductive interests.
+
+
+871
+0:44:33,19 --> 0:44:35,16
+And they usually
+do that by making
+
+
+872
+0:44:35,16 --> 0:44:40,63
+seeds or the entire plant
+toxic in some way to insects
+
+
+873
+0:44:40,63 --> 0:44:42,21
+or herbivores.
+
+
+874
+0:44:42,21 --> 0:44:45,58
+They might be OK--
+I'm giving them
+
+
+875
+0:44:45,58 --> 0:44:52,75
+agency metaphorically-- they
+might be OK with an herbivore
+
+
+876
+0:44:52,75 --> 0:44:54,2
+coming along,
+eating their seeds,
+
+
+877
+0:44:54,2 --> 0:44:56,49
+and then not digesting
+them and then letting
+
+
+878
+0:44:56,49 --> 0:44:58,37
+them come out in their feces.
+
+
+879
+0:44:58,37 --> 0:45:2,11
+But they're still then
+covered in a casing
+
+
+880
+0:45:2,11 --> 0:45:3,625
+to prevent them
+from being digested.
+
+
+881
+0:45:3,625 --> 0:45:6,85
+
+
+
+882
+0:45:6,85 --> 0:45:10,63
+Wild almonds contain
+cyanide in them.
+
+
+883
+0:45:10,63 --> 0:45:12,58
+Apple seeds also
+have cyanide in them.
+
+
+884
+0:45:12,58 --> 0:45:15,11
+Many fruit pits are poisonous.
+
+
+885
+0:45:15,11 --> 0:45:19,46
+And every year some kid
+will eat like a peach pit
+
+
+886
+0:45:19,46 --> 0:45:22,72
+or a nectarine pit and have to
+go to poison control or die.
+
+
+887
+0:45:22,72 --> 0:45:26,14
+
+
+
+888
+0:45:26,14 --> 0:45:28,47
+You basically go
+through seeds, and it's
+
+
+889
+0:45:28,47 --> 0:45:32,79
+a huge list of things that
+can irritate the stomach
+
+
+890
+0:45:32,79 --> 0:45:35,9
+or the reproductive
+system of the animals
+
+
+891
+0:45:35,9 --> 0:45:36,98
+that are consuming them.
+
+
+892
+0:45:36,98 --> 0:45:39,79
+Sheep in New Zealand
+and Australia,
+
+
+893
+0:45:39,79 --> 0:45:42,83
+you have to keep them away
+from certain pasture legumes
+
+
+894
+0:45:42,83 --> 0:45:45,21
+because if the ewes
+eat too many of them,
+
+
+895
+0:45:45,21 --> 0:45:48,47
+they have higher rates of
+miscarriage or become fertile,
+
+
+896
+0:45:48,47 --> 0:45:51,51
+which is an adaptation.
+
+
+897
+0:45:51,51 --> 0:45:53,78
+That's exactly what
+the legumes "want"
+
+
+898
+0:45:53,78 --> 0:45:58,37
+to do because any ewes
+that have a taste for them
+
+
+899
+0:45:58,37 --> 0:46:1,32
+don't have offspring.
+
+
+900
+0:46:1,32 --> 0:46:7,34
+So there's a general
+concern with eating diets
+
+
+901
+0:46:7,34 --> 0:46:11,55
+that are high in seeds,
+particularly the same seed
+
+
+902
+0:46:11,55 --> 0:46:17,4
+over and over, because they can
+cause a lot of health problems
+
+
+903
+0:46:17,4 --> 0:46:19,25
+in concentrated qualities.
+
+
+904
+0:46:19,25 --> 0:46:21,44
+And if they're not prepared
+in traditional ways.
+
+
+905
+0:46:21,44 --> 0:46:24,42
+Traditional ways of preparing
+nuts and seeds and grains
+
+
+906
+0:46:24,42 --> 0:46:32,42
+and legumes-- soaking,
+fermenting, baking, sprouting.
+
+
+907
+0:46:32,42 --> 0:46:35,86
+All of these traditional
+methods of preparing seeds
+
+
+908
+0:46:35,86 --> 0:46:39,5
+were ways of deactivating some
+of these problematic toxins
+
+
+909
+0:46:39,5 --> 0:46:39,58
+in them.
+
+
+910
+0:46:39,58 --> 0:46:41,1
+And we've sort of
+forgotten that.
+
+
+911
+0:46:41,1 --> 0:46:45,36
+And now we eat tons of
+wheat, corn, and soy prepared
+
+
+912
+0:46:45,36 --> 0:46:47,0
+in untraditional ways.
+
+
+913
+0:46:47,0 --> 0:46:51,98
+And so that's the main reason
+for being skeptical of them
+
+
+914
+0:46:51,98 --> 0:46:52,85
+from the outset.
+
+
+915
+0:46:52,85 --> 0:46:54,81
+White rice is
+basically carbohydrate.
+
+
+916
+0:46:54,81 --> 0:46:58,87
+If you want more carbohydrate
+in your diet, eat it.
+
+
+917
+0:46:58,87 --> 0:47:0,536
+If you want less, don't.
+
+
+918
+0:47:0,536 --> 0:47:3,75
+I like the texture of it.
+
+
+919
+0:47:3,75 --> 0:47:5,3
+So I eat it.
+
+
+920
+0:47:5,3 --> 0:47:8,67
+And I can handle
+the carbohydrate.
+
+
+921
+0:47:8,67 --> 0:47:10,326
+What was your other question?
+
+
+922
+0:47:10,326 --> 0:47:13,303
+AUDIENCE: It was about
+whether increasing metabolism
+
+
+923
+0:47:13,303 --> 0:47:16,37
+by wearing less clothing
+or exposure to the cold
+
+
+924
+0:47:16,37 --> 0:47:17,62
+is a good thing because then--
+
+
+925
+0:47:17,62 --> 0:47:20,81
+
+
+
+926
+0:47:20,81 --> 0:47:22,52
+JOHN DURANT: Yeah
+I'm not sure I have
+
+
+927
+0:47:22,52 --> 0:47:25,85
+a very good answer
+to that question.
+
+
+928
+0:47:25,85 --> 0:47:32,2
+I don't know how much trying
+to slow down your metabolism
+
+
+929
+0:47:32,2 --> 0:47:35,77
+is feasible, and how much
+it might or might not
+
+
+930
+0:47:35,77 --> 0:47:38,26
+add to your longevity
+at the end of your life.
+
+
+931
+0:47:38,26 --> 0:47:41,61
+Is it an extra 20 days
+when you're 87 years old?
+
+
+932
+0:47:41,61 --> 0:47:43,12
+I don't know.
+
+
+933
+0:47:43,12 --> 0:47:46,59
+So I would do whatever.
+
+
+934
+0:47:46,59 --> 0:47:50,14
+If you get better sleep
+on a harder surface when
+
+
+935
+0:47:50,14 --> 0:47:54,97
+it's chilly, then
+I would do that.
+
+
+936
+0:47:54,97 --> 0:47:58,31
+And yeah--
+
+
+937
+0:47:58,31 --> 0:48:0,92
+AUDIENCE: I'm personally
+really glad I do paleo,
+
+
+938
+0:48:0,92 --> 0:48:3,78
+and I feel fortunate that
+I can, because there's
+
+
+939
+0:48:3,78 --> 0:48:5,59
+a farmer's market
+that I can go to.
+
+
+940
+0:48:5,59 --> 0:48:8,63
+And I have the wherewithal to
+buy expensive grass-fed beef.
+
+
+941
+0:48:8,63 --> 0:48:11,78
+And I live in a country that
+gives me an internet where
+
+
+942
+0:48:11,78 --> 0:48:14,78
+I can go and I read your
+blog and listen to podcasts.
+
+
+943
+0:48:14,78 --> 0:48:21,69
+Is there a future for paleo in
+Africa or in Southeast Asia?
+
+
+944
+0:48:21,69 --> 0:48:25,29
+Is there a future where billions
+of people around the world
+
+
+945
+0:48:25,29 --> 0:48:26,15
+are eating paleo?
+
+
+946
+0:48:26,15 --> 0:48:28,255
+And can be sustain that?
+
+
+947
+0:48:28,255 --> 0:48:30,642
+
+
+
+948
+0:48:30,642 --> 0:48:32,85
+Is it just sort of like a
+fad that upper middle-class
+
+
+949
+0:48:32,85 --> 0:48:34,84
+people in America
+are going to embrace?
+
+
+950
+0:48:34,84 --> 0:48:39,18
+JOHN DURANT: Well, we can learn
+a lot about human health even
+
+
+951
+0:48:39,18 --> 0:48:42,16
+if everybody in the world
+does not adopt this diet,
+
+
+952
+0:48:42,16 --> 0:48:42,98
+which they won't.
+
+
+953
+0:48:42,98 --> 0:48:46,3
+Even if everybody had the
+capability to do so, everybody
+
+
+954
+0:48:46,3 --> 0:48:47,94
+wouldn't.
+
+
+955
+0:48:47,94 --> 0:48:51,2
+So first, the benefit
+of some people
+
+
+956
+0:48:51,2 --> 0:48:53,97
+experimenting with
+this is simply
+
+
+957
+0:48:53,97 --> 0:48:58,86
+learning about human metabolism
+and what makes folks healthy.
+
+
+958
+0:48:58,86 --> 0:49:2,62
+
+
+
+959
+0:49:2,62 --> 0:49:6,59
+Right now, the early
+years of paleo-- people
+
+
+960
+0:49:6,59 --> 0:49:9,94
+are painting with broad strokes.
+
+
+961
+0:49:9,94 --> 0:49:11,85
+Grains are bad.
+
+
+962
+0:49:11,85 --> 0:49:14,61
+Well maybe it will turn
+out, over years of research,
+
+
+963
+0:49:14,61 --> 0:49:17,87
+that gluten grains
+are the worst.
+
+
+964
+0:49:17,87 --> 0:49:22,45
+But if you're dealing with
+non-gluten grains, quinoa
+
+
+965
+0:49:22,45 --> 0:49:26,17
+or something else, many
+people can digest that better.
+
+
+966
+0:49:26,17 --> 0:49:28,92
+Or maybe we'll
+learn that you just
+
+
+967
+0:49:28,92 --> 0:49:31,49
+need to introduce certain
+types of gut bacteria
+
+
+968
+0:49:31,49 --> 0:49:33,51
+into people's
+stomachs and then they
+
+
+969
+0:49:33,51 --> 0:49:37,1
+have fewer negative reactions
+to a particular grain.
+
+
+970
+0:49:37,1 --> 0:49:42,8
+So, there may be changes in
+how we think about paleo,
+
+
+971
+0:49:42,8 --> 0:49:44,58
+or how we think about
+different grains that
+
+
+972
+0:49:44,58 --> 0:49:47,5
+make it more
+accessible to people.
+
+
+973
+0:49:47,5 --> 0:49:50,51
+Or make aspect of
+paleo irrelevant.
+
+
+974
+0:49:50,51 --> 0:49:54,3
+You mentioned the insect
+company-- or the cricket
+
+
+975
+0:49:54,3 --> 0:49:56,37
+protein bar company
+that I'm helping out.
+
+
+976
+0:49:56,37 --> 0:50:0,4
+
+
+
+977
+0:50:0,4 --> 0:50:3,2
+Insects are eaten as a
+nutritious and inexpensive
+
+
+978
+0:50:3,2 --> 0:50:6,1
+source of protein
+all over the world,
+
+
+979
+0:50:6,1 --> 0:50:8,65
+except for the Western world.
+
+
+980
+0:50:8,65 --> 0:50:12,1
+But even crickets,
+grasshoppers, and locusts
+
+
+981
+0:50:12,1 --> 0:50:15,95
+are fine under kosher
+and halal rules.
+
+
+982
+0:50:15,95 --> 0:50:19,2
+And there's really
+no good reason
+
+
+983
+0:50:19,2 --> 0:50:23,29
+other than a sense of
+discuss and tradition,
+
+
+984
+0:50:23,29 --> 0:50:28,48
+recent tradition, to avoid
+eating insects and taking
+
+
+985
+0:50:28,48 --> 0:50:30,19
+advantage of them.
+
+
+986
+0:50:30,19 --> 0:50:34,93
+The amino acid
+profile of insects
+
+
+987
+0:50:34,93 --> 0:50:37,92
+is beautiful, most of them.
+
+
+988
+0:50:37,92 --> 0:50:42,97
+You don't have to sort of mix
+and match protein sources.
+
+
+989
+0:50:42,97 --> 0:50:50,73
+They require fewer resources
+to raise, water in particular.
+
+
+990
+0:50:50,73 --> 0:50:55,45
+And for ethical reasons, they
+have a less well-developed
+
+
+991
+0:50:55,45 --> 0:50:59,68
+neurological system,
+and are adapted
+
+
+992
+0:50:59,68 --> 0:51:1,44
+to living in very
+close quarters.
+
+
+993
+0:51:1,44 --> 0:51:5,89
+So that's an area where
+paleo could actually,
+
+
+994
+0:51:5,89 --> 0:51:12,85
+in some respects, make healthy
+eating more sustainable.
+
+
+995
+0:51:12,85 --> 0:51:17,65
+But is everybody going to
+live off of grass-fed beef?
+
+
+996
+0:51:17,65 --> 0:51:18,3
+No.
+
+
+997
+0:51:18,3 --> 0:51:22,42
+But you have a small group
+of people making innovations,
+
+
+998
+0:51:22,42 --> 0:51:26,29
+and it also incentivizes
+the big players,
+
+
+999
+0:51:26,29 --> 0:51:28,46
+the big agricultural
+companies to start
+
+
+1000
+0:51:28,46 --> 0:51:30,58
+to make changes to
+how they do things.
+
+
+1001
+0:51:30,58 --> 0:51:33,5
+And they can make small
+tweaks in their supply chain,
+
+
+1002
+0:51:33,5 --> 0:51:35,38
+or in their
+treatment of animals,
+
+
+1003
+0:51:35,38 --> 0:51:38,7
+that can have a huge
+difference on the environment
+
+
+1004
+0:51:38,7 --> 0:51:42,15
+and on ethical issues, simply
+because they're now responding
+
+
+1005
+0:51:42,15 --> 0:51:46,3
+to a 2% of the market, 3% of the
+market, 5% of the market that
+
+
+1006
+0:51:46,3 --> 0:51:49,81
+is profitable and growing
+that they want to get in on.
+
+
+1007
+0:51:49,81 --> 0:51:52,349
+
+
+
+1008
+0:51:52,349 --> 0:51:53,265
+AUDIENCE: [INAUDIBLE].
+
+
+1009
+0:51:53,265 --> 0:51:55,872
+
+
+
+1010
+0:51:55,872 --> 0:51:56,83
+JOHN DURANT: All right.
+
+
+1011
+0:51:56,83 --> 0:52:1,333
+AUDIENCE: When you look
+at the line from paleo up,
+
+
+1012
+0:52:1,333 --> 0:52:4,347
+the idea agricultural
+societies fare
+
+
+1013
+0:52:4,347 --> 0:52:6,842
+better because they made
+cheaper [INAUDIBLE].
+
+
+1014
+0:52:6,842 --> 0:52:7,84
+That's why.
+
+
+1015
+0:52:7,84 --> 0:52:9,62
+It's an evolutionary
+process also--
+
+
+1016
+0:52:9,62 --> 0:52:9,9
+JOHN DURANT: Right.
+
+
+1017
+0:52:9,9 --> 0:52:10,46
+It's growth.
+
+
+1018
+0:52:10,46 --> 0:52:13,813
+AUDIENCE: --but And
+so I guess like,
+
+
+1019
+0:52:13,813 --> 0:52:16,687
+do you think the cricket
+thing is like-- I mean,
+
+
+1020
+0:52:16,687 --> 0:52:18,795
+those calories are going
+to be more expensive.
+
+
+1021
+0:52:18,795 --> 0:52:22,2
+It's more expensive
+than simple grains.
+
+
+1022
+0:52:22,2 --> 0:52:26,202
+So it's less efficient,
+more expensive calories.
+
+
+1023
+0:52:26,202 --> 0:52:28,259
+Is that the right
+thing to do when
+
+
+1024
+0:52:28,259 --> 0:52:30,55
+throughout all these periods,
+and we're thinking about,
+
+
+1025
+0:52:30,55 --> 0:52:33,362
+how are we going to get enough
+calories to feed everybody?
+
+
+1026
+0:52:33,362 --> 0:52:34,778
+Like throughout
+these times, there
+
+
+1027
+0:52:34,778 --> 0:52:36,425
+have been a hundred
+people who've
+
+
+1028
+0:52:36,425 --> 0:52:37,966
+been like, oh my
+god, we're not going
+
+
+1029
+0:52:37,966 --> 0:52:38,828
+to be able to feed
+all these people.
+
+
+1030
+0:52:38,828 --> 0:52:40,292
+And they come up
+with some new way
+
+
+1031
+0:52:40,292 --> 0:52:43,22
+of breeding some kind of
+corn, and then OK cool--
+
+
+1032
+0:52:43,22 --> 0:52:45,74
+JOHN DURANT: Right,
+well right now, there
+
+
+1033
+0:52:45,74 --> 0:52:47,54
+are enough calories
+to feed every one,
+
+
+1034
+0:52:47,54 --> 0:52:51,75
+and the main impediments are
+institutions and infrastructure
+
+
+1035
+0:52:51,75 --> 0:52:56,74
+and growth in poor
+parts of the world.
+
+
+1036
+0:52:56,74 --> 0:53:0,39
+But if more people
+continue to eat meat,
+
+
+1037
+0:53:0,39 --> 0:53:4,23
+that does take more resources
+and things like that.
+
+
+1038
+0:53:4,23 --> 0:53:9,6
+The problem with
+corn or soy or any
+
+
+1039
+0:53:9,6 --> 0:53:10,71
+of these grains
+as protein sources
+
+
+1040
+0:53:10,71 --> 0:53:12,68
+is they're not very
+good protein sources.
+
+
+1041
+0:53:12,68 --> 0:53:14,3
+They're incomplete.
+
+
+1042
+0:53:14,3 --> 0:53:16,5
+And eaten in large
+quantities, they
+
+
+1043
+0:53:16,5 --> 0:53:18,45
+can cause health problems too.
+
+
+1044
+0:53:18,45 --> 0:53:24,44
+So I don't know all the
+details of the ins and outs
+
+
+1045
+0:53:24,44 --> 0:53:27,58
+of the resources
+required to grow insects.
+
+
+1046
+0:53:27,58 --> 0:53:30,0
+We're sort of exploring
+that right now.
+
+
+1047
+0:53:30,0 --> 0:53:35,47
+But it's worth
+exploring, I think.
+
+
+1048
+0:53:35,47 --> 0:53:37,895
+AUDIENCE: What's
+[INAUDIBLE] hacking
+
+
+1049
+0:53:37,895 --> 0:53:39,935
+that this is predicated on.
+
+
+1050
+0:53:39,935 --> 0:53:42,848
+I was wondering-- let's
+say my real estate
+
+
+1051
+0:53:42,848 --> 0:53:44,796
+for my grandchildren
+[INAUDIBLE].
+
+
+1052
+0:53:44,796 --> 0:53:49,179
+
+
+
+1053
+0:53:49,179 --> 0:53:56,27
+What about [INAUDIBLE]
+cheaper diet with fast food?
+
+
+1054
+0:53:56,27 --> 0:53:59,478
+Then you move back
+towards an expensive diet
+
+
+1055
+0:53:59,478 --> 0:54:1,918
+of very good quality food.
+
+
+1056
+0:54:1,918 --> 0:54:3,87
+Wouldn't we want, a
+million years from now,
+
+
+1057
+0:54:3,87 --> 0:54:5,822
+everyone to just
+get refined sugar
+
+
+1058
+0:54:5,822 --> 0:54:9,29
+and be perfectly fine with it,
+and go on with their lives,
+
+
+1059
+0:54:9,29 --> 0:54:11,7
+rather than everybody
+going back to--
+
+
+1060
+0:54:11,7 --> 0:54:12,778
+JOHN DURANT: Well that
+will never happen.
+
+
+1061
+0:54:12,778 --> 0:54:14,2
+AUDIENCE: How do you know?
+
+
+1062
+0:54:14,2 --> 0:54:15,325
+JOHN DURANT: Well, I mean--
+
+
+1063
+0:54:15,325 --> 0:54:17,911
+AUDIENCE: [INAUDIBLE]?
+
+
+1064
+0:54:17,911 --> 0:54:19,41
+JOHN DURANT:
+--evolution takes time.
+
+
+1065
+0:54:19,41 --> 0:54:20,744
+It takes many, many generations.
+
+
+1066
+0:54:20,744 --> 0:54:22,784
+AUDIENCE: I'm just wondering
+about the direction.
+
+
+1067
+0:54:22,784 --> 0:54:23,81
+Why not move--
+
+
+1068
+0:54:23,81 --> 0:54:25,462
+AUDIENCE: Bioengineering
+is faster.
+
+
+1069
+0:54:25,462 --> 0:54:27,386
+AUDIENCE: Yeah, why
+are we not moving
+
+
+1070
+0:54:27,386 --> 0:54:31,8
+in that direction [INAUDIBLE]
+perfectly fine [INAUDIBLE]?
+
+
+1071
+0:54:31,8 --> 0:54:36,31
+JOHN DURANT: Well this is
+an area where I'm probably
+
+
+1072
+0:54:36,31 --> 0:54:38,8
+in a little bit of tension
+with some of the folks here,
+
+
+1073
+0:54:38,8 --> 0:54:41,45
+or the tech world.
+
+
+1074
+0:54:41,45 --> 0:54:44,58
+Throughout history,
+you have engineers
+
+
+1075
+0:54:44,58 --> 0:54:47,32
+who are very hubristic and think
+that they can centrally plan
+
+
+1076
+0:54:47,32 --> 0:54:52,3
+and design things
+better than nature does,
+
+
+1077
+0:54:52,3 --> 0:54:55,0
+or a better than a
+decentralized process does.
+
+
+1078
+0:54:55,0 --> 0:54:57,67
+And many times they can,
+then occasionally they
+
+
+1079
+0:54:57,67 --> 0:55:0,68
+fail magnificently.
+
+
+1080
+0:55:0,68 --> 0:55:6,7
+So yes, we can produce more
+calories with wheat and corn,
+
+
+1081
+0:55:6,7 --> 0:55:8,3
+and feed more people.
+
+
+1082
+0:55:8,3 --> 0:55:10,16
+And we can adapt to that
+somewhat over periods
+
+
+1083
+0:55:10,16 --> 0:55:11,1
+of generations.
+
+
+1084
+0:55:11,1 --> 0:55:12,8
+But it also exposes
+you to famine.
+
+
+1085
+0:55:12,8 --> 0:55:15,67
+You basically didn't have
+famine until we became heavily
+
+
+1086
+0:55:15,67 --> 0:55:19,6
+dependent on a few cereal
+grains, and in a sense,
+
+
+1087
+0:55:19,6 --> 0:55:22,393
+we put all our
+eggs in one basket.
+
+
+1088
+0:55:22,393 --> 0:55:26,722
+AUDIENCE: [INAUDIBLE]
+famine throughout
+
+
+1089
+0:55:26,722 --> 0:55:31,532
+recorded and unrecorded history
+and various cultures going back
+
+
+1090
+0:55:31,532 --> 0:55:34,164
+tens of thousands of years.
+
+
+1091
+0:55:34,164 --> 0:55:35,58
+JOHN DURANT: Hunter
+gatherers tend
+
+
+1092
+0:55:35,58 --> 0:55:41,247
+to have more diverse
+diets than other people.
+
+
+1093
+0:55:41,247 --> 0:55:42,8
+And they're nomadic.
+
+
+1094
+0:55:42,8 --> 0:55:44,69
+So when you have a
+more diverse portfolio,
+
+
+1095
+0:55:44,69 --> 0:55:48,19
+you're less likely-- you're
+less dependent on any one food
+
+
+1096
+0:55:48,19 --> 0:55:49,29
+source.
+
+
+1097
+0:55:49,29 --> 0:55:51,82
+If it fails, it's
+not catastrophic.
+
+
+1098
+0:55:51,82 --> 0:55:54,49
+And if you're nomadic, you
+can quickly up and move.
+
+
+1099
+0:55:54,49 --> 0:55:58,41
+So it's well established
+among anthropologists
+
+
+1100
+0:55:58,41 --> 0:56:1,8
+that-- it's not to say
+there weren't periods
+
+
+1101
+0:56:1,8 --> 0:56:7,38
+when people ran out of
+food or went hungry.
+
+
+1102
+0:56:7,38 --> 0:56:11,52
+But famine shot
+up when we started
+
+
+1103
+0:56:11,52 --> 0:56:13,5
+betting on a few cereal grains.
+
+
+1104
+0:56:13,5 --> 0:56:14,785
+And if you didn't
+get enough rain,
+
+
+1105
+0:56:14,785 --> 0:56:17,142
+or if you didn't store enough
+grain, boom, you're done.
+
+
+1106
+0:56:17,142 --> 0:56:17,85
+You're wiped out.
+
+
+1107
+0:56:17,85 --> 0:56:21,15
+AUDIENCE: There was a lot more
+people to starve. [INAUDIBLE]
+
+
+1108
+0:56:21,15 --> 0:56:22,9
+population controlled
+through agriculture.
+
+
+1109
+0:56:22,9 --> 0:56:25,97
+But the Inuit, for example,
+starved regularly up
+
+
+1110
+0:56:25,97 --> 0:56:29,935
+until they integrated
+into the modern day,
+
+
+1111
+0:56:29,935 --> 0:56:33,89
+into the rest of the world.
+
+
+1112
+0:56:33,89 --> 0:56:36,43
+JOHN DURANT: I don't
+know details on that.
+
+
+1113
+0:56:36,43 --> 0:56:39,739
+But I bet I would
+disagree with you on that.
+
+
+1114
+0:56:39,739 --> 0:56:40,655
+AUDIENCE: [INAUDIBLE].
+
+
+1115
+0:56:40,655 --> 0:56:44,3
+
+
+
+1116
+0:56:44,3 --> 0:56:46,46
+JOHN DURANT: Like soylent,
+like than just raised--
+
+
+1117
+0:56:46,46 --> 0:56:49,226
+AUDIENCE: [INAUDIBLE]
+eventually the human organism
+
+
+1118
+0:56:49,226 --> 0:56:50,61
+is going to adapt to it.
+
+
+1119
+0:56:50,61 --> 0:56:53,14
+JOHN DURANT: No, no, no, no, no.
+
+
+1120
+0:56:53,14 --> 0:57:0,14
+So you only get
+adaptation if people--
+
+
+1121
+0:57:0,14 --> 0:57:4,37
+if there's differential
+reproductive success--
+
+
+1122
+0:57:4,37 --> 0:57:9,125
+if some people are having more
+babies and other people aren't.
+
+
+1123
+0:57:9,125 --> 0:57:14,77
+So you would need, over a
+very long period of time,
+
+
+1124
+0:57:14,77 --> 0:57:18,66
+you would need the people
+that are thriving best
+
+
+1125
+0:57:18,66 --> 0:57:25,585
+on heavily industrial diets to
+also have the most children.
+
+
+1126
+0:57:25,585 --> 0:57:27,96
+I mean, maybe the Chinese are
+willing to do an experiment
+
+
+1127
+0:57:27,96 --> 0:57:28,59
+like that.
+
+
+1128
+0:57:28,59 --> 0:57:31,9
+But not in like a
+democratic society.
+
+
+1129
+0:57:31,9 --> 0:57:40,54
+And it requires-- even lactose
+tolerance is only in about 30--
+
+
+1130
+0:57:40,54 --> 0:57:44,76
+it's one gene that
+had enormous benefits.
+
+
+1131
+0:57:44,76 --> 0:57:48,4
+One gene, enormous benefits,
+and it only moved to about 35%
+
+
+1132
+0:57:48,4 --> 0:57:52,52
+of the population in a
+6,000 or 7,000 year period.
+
+
+1133
+0:57:52,52 --> 0:57:54,79
+That is like the
+most rapid example
+
+
+1134
+0:57:54,79 --> 0:57:57,14
+that we have of
+something with one
+
+
+1135
+0:57:57,14 --> 0:58:1,1
+gene that needs to be flipped,
+enormous benefits and even
+
+
+1136
+0:58:1,1 --> 0:58:3,93
+over 7,000 years or whatever.
+
+
+1137
+0:58:3,93 --> 0:58:6,87
+It's 35% of global population.
+
+
+1138
+0:58:6,87 --> 0:58:13,6
+So it's not feasible
+to think that we're
+
+
+1139
+0:58:13,6 --> 0:58:15,234
+going to change through--
+
+
+1140
+0:58:15,234 --> 0:58:16,15
+AUDIENCE: [INAUDIBLE].
+
+
+1141
+0:58:16,15 --> 0:58:19,5
+
+
+
+1142
+0:58:19,5 --> 0:58:22,73
+JOHN DURANT: Well there
+are other mechanisms.
+
+
+1143
+0:58:22,73 --> 0:58:30,81
+Bill Gates has been investing
+in artificial meat sources.
+
+
+1144
+0:58:30,81 --> 0:58:34,3
+There are bioengineers
+working on-- there
+
+
+1145
+0:58:34,3 --> 0:58:37,5
+may be ways of
+engineering bacteria,
+
+
+1146
+0:58:37,5 --> 0:58:41,85
+or harnessing bacteria to
+basically digest inedible food
+
+
+1147
+0:58:41,85 --> 0:58:47,64
+sources for us, and then
+we can digest the output.
+
+
+1148
+0:58:47,64 --> 0:58:54,5
+So I think that's where the
+innovation will happen, not so
+
+
+1149
+0:58:54,5 --> 0:58:56,32
+much in whether we
+change our own genome
+
+
+1150
+0:58:56,32 --> 0:58:57,575
+or anything like that.
+
+
+1151
+0:58:57,575 --> 0:58:59,555
+AUDIENCE: So we're
+actually overtime now.
+
+
+1152
+0:58:59,555 --> 0:59:1,0
+Can you stick
+around a little bit?
+
+
+1153
+0:59:1,0 --> 0:59:2,41
+JOHN DURANT: Sure,
+yeah, I can hang.
+
+
+1154
+0:59:2,41 --> 0:59:4,8
+AUDIENCE: He'll stick around if
+you have any extra questions.
+
+
+1155
+0:59:4,8 --> 0:59:5,8
+Thanks for coming, John.
+
+
+1156
+0:59:5,8 --> 0:59:7,737
+The book's in the back.
+$10.00 subsidized by Google.
+
+
+1157
+0:59:7,737 --> 0:59:8,278
+Check it out.
+
+
+1158
+0:59:8,278 --> 0:59:8,774
+It's an awesome book.
+
+
+1159
+0:59:8,774 --> 0:59:9,27
+Thanks John.
+
+
+1160
+0:59:9,27 --> 0:59:10,2
+JOHN DURANT: Cool.
+
+
+1161
+0:59:10,2 --> 0:59:11,27
+Thank you.
+
+
+1162
+0:59:11,27 --> 0:61:11,27
+
+
+

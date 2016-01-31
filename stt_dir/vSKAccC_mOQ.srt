@@ -1,0 +1,1276 @@
+1
+0:0:6,6 --> 0:0:14,389
+The hunt for planets beyond our solar system
+has reached a fever pitch.
+
+
+2
+0:0:14,389 --> 0:0:22,97
+With some 500 planets revealed by ground telescopes,
+now, the ultimate planet finder, the Kepler
+
+
+3
+0:0:22,97 --> 0:0:29,22
+space telescope, has released a tsunami of
+data.
+
+
+4
+0:0:29,22 --> 0:0:36,39
+Among over a thousand new planet prospects
+are 200 multi-planet solar systems and 58
+
+
+5
+0:0:36,39 --> 0:0:43,98
+worlds in life-friendly orbits.
+
+
+6
+0:0:43,98 --> 0:0:50,45
+They're all within a narrow window on the
+sky the size of your hand. That's why this
+
+
+7
+0:0:50,45 --> 0:0:59,62
+may be the tip of the iceberg in a galaxy
+that's literally crawling with planets.
+
+
+8
+0:0:59,62 --> 0:1:13,179
+Scientists are now beginning to envision what
+these worlds are like, with atmospheres, oceans,
+
+
+9
+0:1:13,179 --> 0:1:17,829
+geological history.
+
+
+10
+0:1:17,829 --> 0:1:38,24
+In the process, they are redefining what a
+planet might need to spawn life.
+
+
+11
+0:1:38,24 --> 0:1:45,389
+On a clear night, far from city lights, you
+can see around 2000 stars with your eyes.
+
+
+12
+0:1:45,389 --> 0:1:51,829
+That's a tiny fraction of all there are in
+the galaxy at large.
+
+
+13
+0:1:51,829 --> 0:1:57,39
+And yet, even with the largest telescopes,
+most stars appear only as points of light,
+
+
+14
+0:1:57,39 --> 0:2:6,719
+bright dots that offer few clues to one of
+our most searching questions...
+
+
+15
+0:2:6,719 --> 0:2:18,15
+Are there other worlds like ours, or are we
+bound to a lonely oasis, Earth, amid a barren
+
+
+16
+0:2:18,15 --> 0:2:19,159
+universe?
+
+
+17
+0:2:19,159 --> 0:2:28,39
+So far, in this age of planet hunting, we've
+yet to find anything like our solar system.
+
+
+18
+0:2:28,39 --> 0:2:36,1
+Instead, astronomers have glimpsed a diverse
+planetary zoo, with giant planets in wide
+
+
+19
+0:2:36,1 --> 0:2:40,31
+orbits around their parent stars, others that
+swing in so close they leave a comet-like
+
+
+20
+0:2:40,31 --> 0:2:51,95
+tail, or molten rocky worlds emblazoned with
+oceans of lava.
+
+
+21
+0:2:51,95 --> 0:2:59,79
+These finds have added new complexity to theories
+of how solar systems emerge in the birth of
+
+
+22
+0:2:59,79 --> 0:3:1,12
+a star.
+
+
+23
+0:3:1,12 --> 0:3:13,599
+As dust and gas swirl into the newborn star,
+they form a proto-planetary disk.
+
+
+24
+0:3:13,599 --> 0:3:20,0
+Within this Frisbee-like structure, gravity
+sculpts planetary bodies that grow in size,
+
+
+25
+0:3:20,0 --> 0:3:25,7
+sweeping up smaller bodies that form around
+them.
+
+
+26
+0:3:25,7 --> 0:3:34,409
+Current theory holds that giant planets, forming
+on the periphery, commonly migrate into the
+
+
+27
+0:3:34,409 --> 0:3:44,23
+inner solar system. This confirms the observation
+of so-called hot Jupiters orbiting perilously
+
+
+28
+0:3:44,23 --> 0:3:47,209
+close to their parent stars.
+
+
+29
+0:3:47,209 --> 0:3:53,609
+But these giants may clear out smaller rocky
+planets that form close to the star, creating
+
+
+30
+0:3:53,609 --> 0:4:1,51
+a planetary desert... just where you'd hope
+to find life.
+
+
+31
+0:4:1,51 --> 0:4:9,34
+Does that make the search for another Earth
+a wild goose chase? To find out, a group of
+
+
+32
+0:4:9,34 --> 0:4:16,12
+planet hunters, using the Keck Telescope in
+Hawaii, examined a sample of 166 sun-like
+
+
+33
+0:4:16,12 --> 0:4:20,94
+stars within 80 light years of Earth.
+
+
+34
+0:4:20,94 --> 0:4:26,31
+Over a five-year period, they looked for tiny
+wobbles in the stars' light that might betray
+
+
+35
+0:4:26,31 --> 0:4:28,28
+the gravitational tug of planets.
+
+
+36
+0:4:28,28 --> 0:4:36,949
+Their conclusion: only one or two stars in
+a hundred have a Jupiter-sized planet.
+
+
+37
+0:4:36,949 --> 0:4:41,22
+Six have a planet the size of Neptune.
+
+
+38
+0:4:41,22 --> 0:4:50,1
+To their surprise, twelve have large rocky
+worlds called super Earths. This means that
+
+
+39
+0:4:50,1 --> 0:4:57,77
+as many as a quarter of all sun-like stars
+should have planets roughly the size of Earth.
+
+
+40
+0:4:57,77 --> 0:5:6,77
+Now enter the Kepler Space Telescope, launched
+in March 2009 on a mission to find Earth-like
+
+
+41
+0:5:6,77 --> 0:5:8,15
+planets.
+
+
+42
+0:5:8,15 --> 0:5:15,63
+Astronomers aimed its camera into the Milky
+Way's Orion arm at a region covering just
+
+
+43
+0:5:15,63 --> 0:5:20,88
+.4% of the sky.
+
+
+44
+0:5:20,88 --> 0:5:25,289
+Kepler's sensitive detectors are designed
+to pick up slight dips in a star's brightness,
+
+
+45
+0:5:25,289 --> 0:5:31,91
+the possible signature of a planet passing
+in front.
+
+
+46
+0:5:31,91 --> 0:5:39,78
+Over a four-month period in 2009, it observed
+the light of over 150,000 stars, within 3000
+
+
+47
+0:5:39,78 --> 0:5:46,3
+light years of Earth. The data showed that
+at least in one case, the planetary desert
+
+
+48
+0:5:46,3 --> 0:5:50,8
+is not so barren.
+
+
+49
+0:5:50,8 --> 0:5:58,38
+The star Kepler 11 is a yellow dwarf similar
+to our sun. It has at least five planets close
+
+
+50
+0:5:58,38 --> 0:6:3,75
+enough to be inside the orbit of our Mercury,
+with a sixth inside the orbit of Venus.
+
+
+51
+0:6:3,75 --> 0:6:12,34
+There may well be additional planets further
+out. That won't be known until 2012, when
+
+
+52
+0:6:12,34 --> 0:6:18,129
+data from longer orbits is complete.
+
+
+53
+0:6:18,129 --> 0:6:24,58
+Overall, Kepler turned up 58 planets in the
+so-called habitable zone. Most are large gas
+
+
+54
+0:6:24,58 --> 0:6:32,9
+planets, but who's to say that some of them
+don't have moons with liquid water?
+
+
+55
+0:6:32,9 --> 0:6:37,139
+Think Pandora.
+
+
+56
+0:6:37,139 --> 0:6:42,69
+With a growing planetary database, astronomers
+are beginning to redefine what it takes to
+
+
+57
+0:6:42,69 --> 0:6:47,639
+spawn life as we know it.
+
+
+58
+0:6:47,639 --> 0:6:53,72
+Ideally, astronomers will one day stumble
+upon a world about the size of Earth, with
+
+
+59
+0:6:53,72 --> 0:7:4,5
+oceans, an atmosphere, a moon to stabilize
+its orbit, a robust magnetic field to shelter
+
+
+60
+0:7:4,5 --> 0:7:9,979
+it from solar winds, and creatures beaming
+television shows into space that reveal their
+
+
+61
+0:7:9,979 --> 0:7:26,71
+presence.
+
+
+62
+0:7:26,71 --> 0:7:32,75
+Until then, the most fertile ground for finding
+life turns out to be a long-overlooked class
+
+
+63
+0:7:32,75 --> 0:7:33,46
+of stars.
+
+
+64
+0:7:33,46 --> 0:7:43,65
+M Stars, or red dwarfs, range from one half
+to one-twentieth the mass of our sun and make
+
+
+65
+0:7:43,65 --> 0:7:49,9
+up 76% of all the stars in our galaxy.
+
+
+66
+0:7:49,9 --> 0:7:55,12
+The most famous is in the southern constellation
+of Libra, just 20 light years away, called
+
+
+67
+0:7:55,12 --> 0:7:56,409
+Gliese 581.
+
+
+68
+0:7:56,409 --> 0:8:2,889
+A team of French and Swiss astronomers had
+been studying its light from a telescope in
+
+
+69
+0:8:2,889 --> 0:8:5,9
+the mountains of Chile.
+
+
+70
+0:8:5,9 --> 0:8:11,639
+They noticed a slight jitter: the gravitational
+tugging of planets.
+
+
+71
+0:8:11,639 --> 0:8:18,849
+From this so-called radial velocity, they
+deduced the presence of Gliese 581B, a planet
+
+
+72
+0:8:18,849 --> 0:8:25,169
+with sixteen times the mass of Earth. At a
+distance of only six million kilometers, it's
+
+
+73
+0:8:25,169 --> 0:8:28,58
+bound to be very hot.
+
+
+74
+0:8:28,58 --> 0:8:36,64
+Then came planet C, with an orbit of 11 million
+kilometers. Still too hot.
+
+
+75
+0:8:36,64 --> 0:8:42,74
+Then there's D, at about 33 million kilometers
+from its sun.
+
+
+76
+0:8:42,74 --> 0:8:49,0
+At the outer edge of the star's habitable
+zone, it receives only 30% of the light that
+
+
+77
+0:8:49,0 --> 0:8:53,3
+Earth gets from our Sun.
+
+
+78
+0:8:53,3 --> 0:9:2,43
+Compare it to Mars, where surface temperatures
+average around -59 degrees Celsius.
+
+
+79
+0:9:2,43 --> 0:9:8,1
+Astronomers suspect that Planet D is an icy
+world that migrated in from the outer solar
+
+
+80
+0:9:8,1 --> 0:9:11,64
+system.
+
+
+81
+0:9:11,64 --> 0:9:20,38
+It's too extreme to be of interest to SETI,
+the Search for Extra Terrestrial intelligence.
+
+
+82
+0:9:20,38 --> 0:9:23,37
+But not to a group called Active SETI.
+
+
+83
+0:9:23,37 --> 0:9:29,98
+Hoping to hasten contact, the social networking
+site Bebo, in collaboration with a Russian
+
+
+84
+0:9:29,98 --> 0:9:38,8
+radio astronomer, used a dish in Ukraine to
+beam 500 text messages to Gliese 581.
+
+
+85
+0:9:38,8 --> 0:9:44,51
+Another group used the Deep Space Communication
+Complex at Tidbinbilla, Australia to beam
+
+
+86
+0:9:44,51 --> 0:9:50,61
+25,000 messages. It's not interstellar spam.
+
+
+87
+0:9:50,61 --> 0:9:58,41
+"Think big," said the messages, "We come in
+peace," and "Dare to dream."
+
+
+88
+0:9:58,41 --> 0:10:4,26
+It'll take 20 years to get there, and 20 more
+to find out if the aliens hit the "like" button.
+
+
+89
+0:10:4,26 --> 0:10:11,25
+Or if they need help.
+
+
+90
+0:10:11,25 --> 0:10:16,23
+Red dwarfs are known as "Flare Stars" for
+the violent eruptions that take place on their
+
+
+91
+0:10:16,23 --> 0:10:19,74
+surfaces.
+
+
+92
+0:10:19,74 --> 0:10:27,13
+In 1985, the red dwarf AD Leo erupted with
+a thousand times more power than the worst
+
+
+93
+0:10:27,13 --> 0:10:31,37
+solar eruptions.
+
+
+94
+0:10:31,37 --> 0:10:36,11
+To find out what that would do to a planet
+in a close orbit, scientists simulated the
+
+
+95
+0:10:36,11 --> 0:10:38,63
+blast.
+
+
+96
+0:10:38,63 --> 0:10:44,0
+They found that ultraviolet radiation from
+the star would split oxygen molecules in the
+
+
+97
+0:10:44,0 --> 0:10:51,7
+planet's atmosphere, forming ozone. That could
+be enough to shield it from harm.
+
+
+98
+0:10:51,7 --> 0:11:0,2
+Studies like this are prompting scientists
+to redefine just what they mean by "habitable
+
+
+99
+0:11:0,2 --> 0:11:2,57
+zone."
+
+
+100
+0:11:2,57 --> 0:11:6,51
+It's the old Goldilocks story.
+
+
+101
+0:11:6,51 --> 0:11:14,75
+Some bears go for a walk to let their porridge
+cool. Then a girl comes along. One is too
+
+
+102
+0:11:14,75 --> 0:11:20,839
+hot. Two is too cold. Three is just right.
+
+
+103
+0:11:20,839 --> 0:11:28,55
+When the bears finally return, Goldilocks
+hops out the window and runs away.
+
+
+104
+0:11:28,55 --> 0:11:32,74
+Is that a metaphor for Contact?
+
+
+105
+0:11:32,74 --> 0:11:39,22
+We now know it's not just our distance from
+the sun that makes Earth habitable.
+
+
+106
+0:11:39,22 --> 0:11:44,74
+Venus is about 41 million kilometers closer
+to the Sun, but because of its thick cloud
+
+
+107
+0:11:44,74 --> 0:11:49,76
+cover, 30% less solar energy reaches its surface.
+
+
+108
+0:11:49,76 --> 0:11:58,48
+And yet, surface temperatures spike at 495
+degrees Celsius. The reason is that the planet's
+
+
+109
+0:11:58,48 --> 0:12:5,32
+thick, dense atmosphere is composed of 90%
+carbon dioxide, a greenhouse gas that traps
+
+
+110
+0:12:5,32 --> 0:12:8,769
+heat.
+
+
+111
+0:12:8,769 --> 0:12:10,699
+There's something else at work on our planet.
+
+
+112
+0:12:10,699 --> 0:12:17,36
+When sunlight bounces off the earth, water
+vapor and cloud droplets absorb some of the
+
+
+113
+0:12:17,36 --> 0:12:25,4
+energy in the infrared portion of the spectrum,
+transferring it to the rest of the atmosphere.
+
+
+114
+0:12:25,4 --> 0:12:30,32
+You can see it in this satellite image showing
+outgoing heat. The most heat escapes from
+
+
+115
+0:12:30,32 --> 0:12:38,589
+the tropics, where the surface is warmer and
+there are fewer clouds.
+
+
+116
+0:12:38,589 --> 0:12:44,82
+And yet, a recent NASA study predicted that
+if water vapor were the only greenhouse gas,
+
+
+117
+0:12:44,82 --> 0:12:52,79
+temperatures would fall, sending Earth into
+an icebound state.
+
+
+118
+0:12:52,79 --> 0:12:58,19
+Something is needed to act as a thermostat,
+a control knob, to keep the climate steady.
+
+
+119
+0:12:58,19 --> 0:13:7,44
+Though it's only .038% of the atmosphere,
+carbon dioxide absorbs enough energy to prop
+
+
+120
+0:13:7,44 --> 0:13:13,89
+up global temperatures and allow water to
+remain in the atmosphere.
+
+
+121
+0:13:13,89 --> 0:13:25,339
+But the Earth did not come gift wrapped with
+this balance of CO2.
+
+
+122
+0:13:25,339 --> 0:13:33,899
+In its early days, the Earth would have released
+enormous amounts of heat from its core. That
+
+
+123
+0:13:33,899 --> 0:13:47,16
+drove the eruption of volcanoes and the release
+of huge volumes of CO2 and other chemicals.
+
+
+124
+0:13:47,16 --> 0:13:53,62
+In time, some CO2 was removed by chemical
+reactions between silicate rocks and water,
+
+
+125
+0:13:53,62 --> 0:13:59,97
+a process called weathering, and washed into
+the sea.
+
+
+126
+0:13:59,97 --> 0:14:3,389
+Another crucial factor came into play.
+
+
+127
+0:14:3,389 --> 0:14:8,91
+Down at the margins of hydrothermal vents,
+organic molecules gave rise to primitive life
+
+
+128
+0:14:8,91 --> 0:14:13,5
+forms known as prokaryotes.
+
+
+129
+0:14:13,5 --> 0:14:20,19
+Other primitive forms evolved with the ability
+to take in carbon dioxide and emit oxygen
+
+
+130
+0:14:20,19 --> 0:14:25,5
+in the process of photosynthesis.
+
+
+131
+0:14:25,5 --> 0:14:30,339
+The ability to cycle carbon in and out of
+the atmosphere is perhaps the highest bar
+
+
+132
+0:14:30,339 --> 0:14:37,79
+that an alien planet must reach to be called
+earth-like.
+
+
+133
+0:14:37,79 --> 0:14:42,519
+So far, the closest we've come to that is
+a planet called Gliese 581G.
+
+
+134
+0:14:42,519 --> 0:14:49,73
+Though its presence is in dispute, the initial
+read says it's three to four times the mass
+
+
+135
+0:14:49,73 --> 0:14:56,36
+of Earth, and located squarely in its star's
+habitable zone based on temperature.
+
+
+136
+0:14:56,36 --> 0:15:4,69
+Has Nature crafted a life-bearing gem in this
+distant solar system?
+
+
+137
+0:15:4,69 --> 0:15:11,769
+Because Gliese 581 is so dim, its habitable
+zone is well inside the orbit of our Mercury.
+
+
+138
+0:15:11,769 --> 0:15:17,63
+If there is a planet there, the star's gravity
+is bound to lock it in place.
+
+
+139
+0:15:17,63 --> 0:15:27,0
+This means that Planet G does not rotate.
+One side always faces the sun.
+
+
+140
+0:15:27,0 --> 0:15:34,49
+In our universe, the rate something spins,
+or doesn't spin, is often imprinted at birth.
+
+
+141
+0:15:34,49 --> 0:15:40,81
+Our Milky Way, for example, arose in the early
+days of our universe, when gravity drew countless
+
+
+142
+0:15:40,81 --> 0:15:47,449
+small galaxies together. The galaxy's spin
+was determined by the direction and the masses
+
+
+143
+0:15:47,449 --> 0:15:53,389
+of all the stars and gas that crashed into
+it.
+
+
+144
+0:15:53,389 --> 0:16:3,819
+At the center of the galaxy is a supermassive
+black hole that rotates once every 17 minutes,
+
+
+145
+0:16:3,819 --> 0:16:8,889
+based on the timing of flares on its event
+horizon.
+
+
+146
+0:16:8,889 --> 0:16:19,209
+The spin record for a neutron star is 1,122
+times per second, based on the timing of radio
+
+
+147
+0:16:19,209 --> 0:16:20,3
+emissions.
+
+
+148
+0:16:20,3 --> 0:16:29,269
+It's like a skater, twirling on the ice. As
+she draws her arms in, she spins faster.
+
+
+149
+0:16:29,269 --> 0:16:33,88
+Most planets in our solar system spin in a
+counter clockwise manner, if you're looking
+
+
+150
+0:16:33,88 --> 0:16:36,319
+down on their north poles.
+
+
+151
+0:16:36,319 --> 0:16:41,899
+The exceptions are Uranus, with a reverse
+spin every 17 hours.
+
+
+152
+0:16:41,899 --> 0:16:50,269
+And Venus, once every 243 earth days.
+
+
+153
+0:16:50,269 --> 0:16:56,519
+One way to imagine a locked planet is to take
+away Earth's rotation.
+
+
+154
+0:16:56,519 --> 0:17:2,949
+The planet weighs six billion, trillion tons
+and spins at just over a thousand miles per
+
+
+155
+0:17:2,949 --> 0:17:4,89
+hour at the equator.
+
+
+156
+0:17:4,89 --> 0:17:11,19
+To stop it would take no less than a planetary
+collision, of the kind that probably knocked
+
+
+157
+0:17:11,19 --> 0:17:21,78
+Uranus and Venus off kilter.
+
+
+158
+0:17:21,78 --> 0:17:36,66
+When the dust settled, you'd find a whole
+new world.
+
+
+159
+0:17:36,66 --> 0:17:42,7
+If you're on the side facing the sun, its
+position in the sky never changes.
+
+
+160
+0:17:42,7 --> 0:17:47,92
+Without the day night cycle, Earth would loose
+the unevenness of solar heating that helps
+
+
+161
+0:17:47,92 --> 0:17:51,59
+drive oceanic and atmospheric circulation.
+
+
+162
+0:17:51,59 --> 0:17:56,43
+The traditional thinking was that any water
+on a locked planet would fall out as snow
+
+
+163
+0:17:56,43 --> 0:17:58,76
+on the dark side and be trapped forever.
+
+
+164
+0:17:58,76 --> 0:18:6,54
+That thinking changed in the late 1990s when
+NASA scientists simulated the atmosphere of
+
+
+165
+0:18:6,54 --> 0:18:12,38
+a locked planet. They found that global wind
+patterns could develop and transport heat
+
+
+166
+0:18:12,38 --> 0:18:15,86
+to the dark side.
+
+
+167
+0:18:15,86 --> 0:18:20,46
+Scientists at the California Institute of
+Technology sought to test this finding by
+
+
+168
+0:18:20,46 --> 0:18:28,19
+turning off Earth's rotation in a supercomputer
+program normally used to predict our climate.
+
+
+169
+0:18:28,19 --> 0:18:33,96
+The team placed the sub solar point, the region
+facing the sun, just off the coast of South
+
+
+170
+0:18:33,96 --> 0:18:34,15
+America.
+
+
+171
+0:18:34,15 --> 0:18:43,87
+This side view shows the new setup. Evaporation
+on the sunny side sends air rising up in storms,
+
+
+172
+0:18:43,87 --> 0:18:46,52
+and pushing over the poles to the dark side.
+
+
+173
+0:18:46,52 --> 0:18:54,67
+As a result of this pole-ward flow, Alaska
+would experience summer all year round.
+
+
+174
+0:18:54,67 --> 0:19:2,54
+Landmasses on the dark side, including Europe,
+Asia and Africa, would go cold. Remarkably,
+
+
+175
+0:19:2,54 --> 0:19:7,77
+over the five decades of the simulation, the
+oceans retain enough heat to stay clear of
+
+
+176
+0:19:7,77 --> 0:19:7,98
+ice.
+
+
+177
+0:19:7,98 --> 0:19:16,72
+On the light side, large parts of the western
+hemisphere dry out, turning to desert.
+
+
+178
+0:19:16,72 --> 0:19:24,96
+But if you pitch your tent at the sub solar
+point, you'd find a hot and rainy climate
+
+
+179
+0:19:24,96 --> 0:19:31,72
+that resembles this place... the island of
+Kauai in Hawaii.
+
+
+180
+0:19:31,72 --> 0:19:38,68
+Its highest point is Mount Waialeale. That's
+Hawaiian for Rippling or Overflowing Water.
+
+
+181
+0:19:38,68 --> 0:19:46,22
+Known as the rainiest place on Earth, the
+summit averages 11 meters of rain per year.
+
+
+182
+0:19:46,22 --> 0:19:56,34
+How would a place like this adapt to sunlight
+all the time?
+
+
+183
+0:19:56,34 --> 0:20:2,64
+Plants depend on light to drive photosynthesis,
+a process that combines CO2 with water to
+
+
+184
+0:20:2,64 --> 0:20:4,27
+produce sugars needed for growth.
+
+
+185
+0:20:4,27 --> 0:20:13,8
+They use the day night cycle to maximize this
+process, to tune their growth rates, and take
+
+
+186
+0:20:13,8 --> 0:20:17,69
+in more carbon dioxide.
+
+
+187
+0:20:17,69 --> 0:20:22,63
+But in polar regions, some plants are known
+to thrive in periods of extended sunlight
+
+
+188
+0:20:22,63 --> 0:20:24,75
+in summer.
+
+
+189
+0:20:24,75 --> 0:20:30,63
+So if you take away the night, the chances
+are that life could adapt.
+
+
+190
+0:20:30,63 --> 0:20:36,34
+But its ability to do so draws upon hundreds
+of millions of years of evolution, in a diverse
+
+
+191
+0:20:36,34 --> 0:20:43,13
+global biosphere, dependable day night cycles,
+and moderate temperatures.
+
+
+192
+0:20:43,13 --> 0:20:48,32
+The question is whether complex plant and
+animal life could evolve in the first place
+
+
+193
+0:20:48,32 --> 0:20:49,48
+on a locked planet.
+
+
+194
+0:20:49,48 --> 0:21:0,37
+Gliese 581G is already a marginal candidate
+for life. With its dark and light sides averaged
+
+
+195
+0:21:0,37 --> 0:21:6,41
+together, surface temperatures are between
+-12 and -31 degrees Celsius.
+
+
+196
+0:21:6,41 --> 0:21:14,37
+A team from the University of Chicago sought
+to investigate its life-bearing chances, assuming
+
+
+197
+0:21:14,37 --> 0:21:16,38
+abundant water and carbon dioxide.
+
+
+198
+0:21:16,38 --> 0:21:24,4
+Here's the most promising scenario, called
+"Eyeball Earth."
+
+
+199
+0:21:24,4 --> 0:21:31,6
+Open ocean at the sub-solar point is surrounded
+by ice. The key is to keep the ice at bay,
+
+
+200
+0:21:31,6 --> 0:21:38,32
+because it can stifle the exchange of heat
+between water and air.
+
+
+201
+0:21:38,32 --> 0:21:42,83
+What could tip the balance is the presence
+of land... a high amount of weathering at
+
+
+202
+0:21:42,83 --> 0:21:48,7
+the sub-solar point could draw too much CO2
+from the atmosphere, and turn the planet into
+
+
+203
+0:21:48,7 --> 0:21:49,3
+an iceball.
+
+
+204
+0:21:49,3 --> 0:21:58,92
+An explorer from a distant Earth would no
+doubt head for the transition zone between
+
+
+205
+0:21:58,92 --> 0:22:1,43
+ice and open water.
+
+
+206
+0:22:1,43 --> 0:22:7,96
+If there's land there, life might have a chance
+to thrive in open coastal habitats and perhaps
+
+
+207
+0:22:7,96 --> 0:22:12,62
+move from sea to land.
+
+
+208
+0:22:12,62 --> 0:22:21,4
+Gliese581G, and other locked planets, are
+surely nothing like Earth. And yet time is
+
+
+209
+0:22:21,4 --> 0:22:24,74
+on their side.
+
+
+210
+0:22:24,74 --> 0:22:32,82
+Our sun was born 5 billion years ago and it
+will start to fade in a few billion more.
+
+
+211
+0:22:32,82 --> 0:22:38,92
+On the other hand, Red Dwarf stars can burn
+steadily for tens, even hundreds of billions
+
+
+212
+0:22:38,92 --> 0:22:41,28
+of years.
+
+
+213
+0:22:41,28 --> 0:22:48,27
+So with a bit of luck, planet G may have its
+day in the sun, if it can spawn primitive
+
+
+214
+0:22:48,27 --> 0:22:52,48
+life and somehow shelter its evolution into
+more complex forms.
+
+
+215
+0:22:52,48 --> 0:23:2,7
+Will we ever find worlds in advanced stages
+of development? With the discovery that our
+
+
+216
+0:23:2,7 --> 0:23:8,6
+galaxy is likely filled with planets, we are
+sure to intensify our search.
+
+
+217
+0:23:8,6 --> 0:23:16,56
+One day we may well record a telling chemical
+signature or even receive some kind of text
+
+
+218
+0:23:16,56 --> 0:23:16,56
+message.
+
+
+219
+0:23:16,56 --> 0:23:26,25
+For some on this planet, the news will no
+doubt pass overhead... in the headlong rush
+
+
+220
+0:23:26,25 --> 0:23:36,22
+of technology, crisis, war, consuming, and
+escape.
+
+
+221
+0:23:36,22 --> 0:23:46,2
+For others, that day will be filled with humility
+and wonder in the knowledge that our world
+
+
+222
+0:23:46,2 --> 0:23:46,77
+is not alone.
+
+
+223
+0:23:46,77 --> 0:25:46,77
+7
+
+

@@ -1,0 +1,1352 @@
+###0 
+###0 MALE SPEAKER: Thank you for coming, everybody.
+###3 Some of you have probably already
+###5 heard of Linus Torvalds.
+###7 Those of you who haven't, you're the people with
+###9 Macintoshes on your laps.
+###10 
+###12 He's a guy who delights in being cruel to people.
+###16 His latest cruel act is to create a revision control
+###18 system which is expressly designed to make you feel less
+###21 intelligent than you thought you were.
+###25 Thank you for coming down today, Linus.
+###27 I've been getting emails for the past few days from people
+###29 saying, where's Linus?
+###30 Why hasn't he measured my tree?
+###31 Doesn't he love me anymore?
+###33 And he walked into my office this afternoon.
+###34 What are you doing here?
+###36 But thank you for taking the time off.
+###38 So Linus is here today to explain to us why on Earth he
+###41 would write a software tool which only he is smart enough
+###45 to know how to use.
+###45 Thanks, Linus.
+###47 
+###56 LINUS TORVALDS: So I have a few words of warning, which is
+###60 I don't actually do speaking very much, partly because I
+###63 don't like speaking, partly because over the last few
+###65 years everybody actually wants me to talk about nebulous
+###69 visions for the next century about Linux.
+###73 And I'm a tech geek, so I actually prefer talking about
+###76 technology.
+###78 So that's why I am not talking about the kernel, because it's
+###81 just too big to cram into a one-hour talk.
+###84 Although apparently, Andrew did that two days ago.
+###89 And I'm instead talking about Git, which is the source
+###92 control management system that we use for the kernel.
+###94 
+###97 I'm really, really, really bad at doing slides, which means
+###104 that if we actually end up following these slides, you
+###107 will be bored out of your mind and the talk will probably not
+###111 be very good anyway.
+###113 So I am the kind of speaker who really
+###117 enjoys getting questions.
+###118 And if that means that we kind of veer off in a tangent,
+###123 you'll be happier, I'll be happier, the talk will
+###125 probably be more interesting anyway.
+###127 I don't know how you do things here at the Google talks, but
+###130 I'm just saying don't feel shy as far as I'm concerned.
+###134 If your manager will shoot you, that's your problem.
+###138 So next slide.
+###142 I want to give a few credits before I start.
+###146 Credit CVS in a very, very negative way because in many
+###152 ways when I designed Git, it's the what would Jesus do?
+###158 Except it's what would CVS never, ever do kind of
+###163 approach to source control management.
+###166 I've never actually used CVS for the kernel.
+###170 For the first 10 years of kernel maintenance, we
+###173 literally used tarballs and patches, which is a much
+###177 superior source control management system than CVS is.
+###182 But I did end up using CVS for seven years at a commercial
+###186 company and I hated it with a passion.
+###190 When I say I hate CVS with a passion, I have to also say
+###193 that if there are any SVN users in Subversion, users in
+###197 the audience, you might want to leave because my hatred of
+###204 CVS has meant that I see Subversion as being the most
+###209 pointless project ever started, because the slogan
+###214 for Subversion for a while was, CVS done right or
+###219 something like that.
+###222 And if you start with that kind of slogan, there's
+###225 nowhere you can go.
+###228 There is no way to do CVS right.
+###231 So that's the negative kind of credit.
+###235 The positive credit is BitKeeper.
+###237 And I realize that a lot of people thought there was a lot
+###240 of strife over BitKeeper and that the parting was very
+###244 painful in many ways.
+###246 As far as I'm concerned, the parting was amicable, even
+###252 though it looked very non-amical to outsiders.
+###256 And BitKeeper was not only the first source control system
+###263 that I ever felt was worth using at all, it was also the
+###267 source control system that taught me why there's a point
+###270 to them and how you actually can do things.
+###273 So Git in many ways, even though from a technical angle
+###277 it is very, very different from BitKeeper, which was
+###280 another design goal because I wanted to make it clear that
+###283 it wasn't a BitKeeper clone, a lot of the flows we use with
+###288 Git come directly from the flows we
+###292 learned from BitKeeper.
+###295 And I don't think you use BitKeeper here inside Google.
+###301 As far as I know, BitKeeper is the only commercial source
+###305 control management system that actually does distribution.
+###308 And if you need a commercial run, that's the one you should
+###311 use, for that reason.
+###313 I'd also like to point out that I've been doing Git now
+###318 for slightly over two years, but while I started it and I
+###324 made all the initial coding design, it's actually being
+###327 maintained by a much more pleasant person, Junior
+###332 Hermano, for the last year and a half.
+###334 And he's really the person who actually made it more
+###339 approachable for mere mortals.
+###342 Early versions of Git did require a certain amount of
+###346 brainpower to really wrap your mind around.
+###350 It's gotten much, much easier since.
+###353 Obviously the way I always do everything is I try to get
+###357 everybody else to do as much as possible so that I can sit
+###359 back and sip my pina colada, so there's been a lot of other
+###363 people involved, too.
+###364 That's the credits.
+###366 With those out of the way.
+###367 
+###370 So this slide is now one day old, and I didn't actually do
+###377 the slides last night because last night I was out carousing
+###380 and eating sushi.
+###382 But the slides will talk about implementation of a high
+###389 performance distributed content management thing.
+###391 And the keyword here is actually the distributed part.
+###395 I will start off trying to explain why
+###397 distribution is so important.
+###400 If we never get past that point, I
+###402 will actually be happy.
+###404 If we never get to actually what Git implementation
+###407 internally is, it's fine.
+###411 I am not also trying to teach you how to use Git.
+###414 There is this thing called google.com.
+###417 
+###420 You may have seen it.
+###422 It has this thing you can type things into.
+###424 You type Git and then you press the I'm Feeling Lucky
+###427 button, and you will actually get the home page.
+###431 The home page has tutorials, it has the user manual,
+###437 they're all in HTML.
+###440 If you actually want to learn to use Git, that's where you
+###443 should start, not at this talk.
+###446 But as mentioned, if we actually start veering off
+###450 topic into other tangents because of
+###451 questions, it's all good.
+###456 I already gave you kind of a heads up warning on this.
+###460 I use the SCM, which I consider to mean Source Code
+###465 Management, that is, revision control.
+###468 Some other people think SCM means Software Configuration
+###472 Management and see it as a much bigger feature, including
+###476 release management and stuff like that.
+###478 That's not what I'm talking about, although Git is clearly
+###481 relevant in that setting, too.
+###484 CVS, we already went there.
+###487 You can disagree with me as much as you want, but during
+###491 this talk, by definition anybody who disagrees is
+###495 stupid and ugly.
+###498 So keep that in mind.
+###500 When I'm done speaking, you can go on with their lives.
+###503 Right now, yes.
+###506 I have strong opinions and CVS users, if you actually like
+###512 using CVS, you shouldn't be here.
+###516 You should be in some mental institution somewhere else.
+###521 
+###524 So before actually go and talk about the whole distribution
+###527 thing, which I think is the most important part, I'll talk
+###530 a bit about the background because it invariably comes up
+###533 because people, if they have heard about Git, a lot of the
+###537 things they've heard about is the background for doing it in
+###540 the first place.
+###541 One piece of background information is I really am not
+###546 an SCM person.
+###547 I have never been very
+###549 interested in revision control.
+###550 I thought it was evil until I met BitKeeper.
+###554 I actually credit that to some degree for why Git is so much
+###558 better than everything else.
+###559 It's because my brain did not rot from years and years of
+###562 thinking CVS did something sane.
+###566 I needed a replacement for BitKeeper.
+###568 The reason for that was BitKeeper is a commercial
+###570 product, but BitMover and Larry McVoy allowed it to be
+###574 used freely for open source projects, as
+###576 some of you may know.
+###578 The only restriction was you were not supposed to reverse
+###581 engineer it and you weren't supposed to try to create a
+###584 competing product.
+###586 And I was happy with that because, quite frankly, as far
+###589 as I'm concerned I do open source because I think it's
+###592 the only right way to do software.
+###594 But at the same time, I'll use the best tool for the job and,
+###597 quite frankly, BitKeeper was it.
+###600 However, not everybody agreed with me.
+###603 They are ugly and stupid.
+###605 But they cause problems and it resulted in the fact that
+###611 Larry and I had several telephone conversations which
+###615 ended up saying we'll all be much happier if we just part
+###620 ways and don't make this any worse.
+###622 So we did.
+###624 And I made the Linux 2.6.12-rc2 release about two
+###630 years ago and said, I'm not going to touch Linux until I
+###634 have a replacement for BitKeeper for doing source
+###640 code maintenance.
+###641 And one of the replacement options was going back to
+###643 tarballs and patches, but nobody
+###645 really liked that anymore.
+###648 So I actually looked at a lot of alternatives.
+###653 Most of them I could discard without even trying them out.
+###658 If you're not distributed, you're not worth using.
+###661 It's that simple.
+###662 If you perform badly, you're not worth using.
+###665 It's that simple.
+###666 And if you cannot guarantee that the stuff I put into an
+###670 SCM comes out exactly the same, you're not worth using.
+###676 Quite frankly, that pretty much took care of
+###679 everything out there.
+###680 There's a lot of SCM systems that do not guarantee that
+###684 what you get out of it again is the same thing you put in.
+###688 If you have memory corruption, if you have disk corruption,
+###693 you may never know.
+###694 The only way you'll know is you notice that there's
+###698 corruption in the files when you check them out.
+###702 The source control management system does not protect you at
+###705 all, and this is not even uncommon.
+###708 It is very, very common.
+###711 The performance issue, one of the things I kind of liked was
+###715 a system called monotone, which actually, I think there
+###719 was a talk at Google about them some time
+###722 ago, I'm not sure.
+###725 It had a lot of interesting ideas, but performance was so
+###728 horrendously bad that I tried it for a day and realized that
+###734 I cannot use it.
+###736 The end result was I decided I can write something better
+###739 than anything out there in two weeks, and I was right.
+###743 So now we get to distribution.
+###748 And this is the worst slide of them all, and I'm not very
+###751 proud of it.
+###752 And the problem is distribution is really, really
+###754 important, but when I tried to make slides about it I
+###757 could not do it.
+###758 And part of it is my obvious artistic talents, which are on
+###762 display for all of you, but part of it is that it's really
+###765 hard to explain.
+###768 So before you can start, I'd like to know how many people
+###771 are used to the notion of a truly distributed source
+###775 control management system?
+###776 
+###781 Are most of you kernel developers?
+###784 No, OK.
+###785 So there were maybe 10 hands coming up.
+###789 Being distributed very much means that you do not have one
+###795 central location that keeps track of your data.
+###800 No single place is more important than any other
+###803 single place.
+###805 So for example, this is why I would never touch Subversion
+###808 with a 10 foot pole.
+###809 There is a massive Subversion repository, and it's where
+###814 everybody has to write.
+###818 The centralized model just doesn't work when you want to
+###821 be-- let's look at a few of the cases.
+###827 I say it's so much more than just offline work, but the
+###832 offline work part is actually maybe the most obvious thing,
+###836 which is that you can take a truly distributed source
+###839 control management system, you can take it on a plane and
+###842 even if they don't offer Wi-Fi and satellite hookups, you
+###846 just continue working, you can look at all your logs, you can
+###849 commit, you can do everything you would do even if you were
+###852 connected to a nice gigabit ethernet
+###855 directly to the backbone.
+###857 And that is really important.
+###859 It is doubly important when you have hundreds or thousands
+###864 of people working on the same project and they may not be
+###870 literally disconnected, but in practice they aren't really
+###873 well-connected either.
+###876 So part of distribution is this offline work theme.
+###880 Even if it's not completely offline, it is important to be
+###883 able to do everything you want to do from any location
+###887 without having to be able to access the server.
+###889 
+###893 What that basic fact actually results in is that you
+###900 effectively have a lot more branching because everybody
+###904 who has a complete repository and can do commits on his own
+###909 will effectively have his own branch, even if you don't
+###913 realize it.
+###913 Even if you think of your project as just having a
+###917 single branch, every single time you disconnect your
+###920 laptop and start working with it, you
+###923 are on your own branch.
+###925 And this is really, really important and is very
+###928 different from anybody who's used CVS, where branching is
+###932 considered something that only true gurus do.
+###936 How many of you have ever used CVS?
+###940 OK, everybody.
+###941 How many of you have really done a branch and ever
+###943 merged it in CVS?
+###946 Good job.
+###948 I mean, it wasn't everybody but it was actually more than
+###952 I expected.
+###953 How many of you enjoyed the experience?
+###957 OK, so there were a couple.
+###959 But it is considered hard.
+###962 In CVS, when you merge a branch--
+###967 I've done it as little as possible, but
+###969 I've had to do it--
+###970 what you do is you plan ahead for a week and then you
+###973 basically set aside one day for doing it.
+###976 Am I wrong?
+###978 I'm not seeing a lot of people say no, it was easy.
+###981 I liked it.
+###983 It's horrible.
+###985 If you're distributed, you have to realize that every
+###987 single person has his own branch.
+###990 It's horrible.
+###991 It's not something you even have to set up.
+###995 It just is.
+###997 In fact, in Git, we like branches so much that a lot of
+###1000 people just have five or ten or fifteen of them.
+###1002 Just because once you realize that you have to have a
+###1006 special branch anyway, you might as well have many.
+###1009 And one of the branches you do some experimental work on and
+###1013 one of the branches you do maintenance on.
+###1019 So branching is much more inherent when you do
+###1022 distribution.
+###1023 
+###1025 One of the other things that, to me, is very important is
+###1030 that by being distributed, you also automatically get to be
+###1035 slightly more trustworthy.
+###1038 I have a theory of backup switches.
+###1040 I don't do them.
+###1041 I put stuff up on one side and everybody else mirrors it.
+###1045 And if I crash my own machine I don't really care, because I
+###1050 can just download my own work right back.
+###1053 And it works beautifully well, and I don't have to have an
+###1056 MIS department.
+###1057 I heartily suggest everybody else do the same.
+###1061 But this only really works in a distributed environment.
+###1066 If you use CVS, you can't do this.
+###1071 What do you use here?
+###1072 Perforce?
+###1073 Perforce.
+###1075 I'm sorry.
+###1078 I'm sure it's better than CVS. [WHISPERS].
+###1085 So that's part of it.
+###1086 One of the really nice things which is also--
+###1091 maybe you don't have this issue inside a company, but we
+###1095 certainly have it in every single open source community
+###1097 I've ever seen that uses CVS or Subversion or something
+###1100 like that-- is you have this notion of commit access.
+###1104 Because you have a central repository, it means that
+###1106 everybody who is working on that project needs to write to
+###1109 the central repository, which means that since you don't
+###1113 want everybody to write to the central repository because
+###1116 most people are morons, you create this class of people
+###1120 who are ostensibly not morons.
+###1123 And most of the time, what happens is you make that class
+###1127 too small because it's really hard to know if a person is
+###1132 smart or not, and even when you make it too small, you
+###1136 will have problems. So this whole commit access issue,
+###1142 which some companies are able to ignore by just giving
+###1144 everybody commit access, is a huge psychological barrier and
+###1148 causes endless hours of politics in
+###1152 most open source projects.
+###1154 If you have a distributed model, it goes away.
+###1158 Everybody has commit access.
+###1159 You can do whatever you want to your project.
+###1163 You just get your own branch, you do great work or you do
+###1167 stupid work.
+###1168 Nobody cares.
+###1169 It's your copy, it's your branch.
+###1172 And later on, if it turns out you did a good job, you can
+###1177 tell people hey, here's my branch.
+###1179 And by the way, it performs 10 times faster than anybody
+###1182 else's branch, so nyah nyah nyah, how about
+###1186 pulling from me?
+###1188 And people do.
+###1189 And that's actually how it works, and we
+###1190 never have any politics.
+###1192 That's not quite true, but we have other politics.
+###1197 We don't have to worry about the commit access thing.
+###1199 And I think this is a huge issue and that alone should
+###1205 mean that every single open source system should never use
+###1209 anything but a distributed model.
+###1211 You get rid of a lot of issues.
+###1214 One of the things that commercial companies,
+###1217 distributed models actually help also
+###1219 with the release process.
+###1221 You can have a verification team that has its own tree,
+###1225 and they pull from people and they verify it.
+###1227 And when they've verified it, they can push it to the
+###1230 release team and say, hey, we have now verified our version.
+###1234 And the development people, they can go on playing with
+###1238 their head.
+###1239 Instead of having to create tagged branches, whatever you
+###1243 do to try to keep off each other's toes, again, you keep
+###1248 off each other's toes by just every single group can have
+###1252 its own tree and track its work and what they want done.
+###1259 So distributed is really, really central to any SCM you
+###1266 should ever use.
+###1268 So get rid of Perforce now.
+###1271 [APPLAUSE]
+###1275 LINUS TORVALDS: It's sad, but it is so, so true.
+###1280 That was my only real slide about distribution.
+###1282 
+###1285 I'd love to get questions, because we're now moving into
+###1290 other areas that--
+###1294 AUDIENCE: So how would you do it?
+###1297 If you had this monstrously awesomely big code base, and
+###1301 you wanted to use this without stopping business for six
+###1305 months, how would you do it?
+###1308 LINUS TORVALDS: Stay by the mic because I couldn't quite
+###1312 make out your question.
+###1314 OK, he went away.
+###1316 How would you do this?
+###1317 AUDIENCE: [INAUDIBLE].
+###1319 LINUS TORVALDS: So an example of actual distribution is you
+###1326 have a group of five people working on one small,
+###1329 particular feature.
+###1331 And that means that for a while, that feature will be
+###1336 very, very broken, right?
+###1338 Because nobody actually creates perfect code the first
+###1341 time around except me, but there's only one of me.
+###1345 So what happens is they need to have their own tree that
+###1351 they can work in without affecting other people.
+###1355 You can do this many different ways.
+###1357 In CVS, one of the most common ways, because branches are so
+###1361 painful, is that you don't actually commit.
+###1364 You never commit until it passes every single test. For
+###1369 example, at your company you have a very strict committing
+###1373 rule saying you will never, ever commit until it's past
+###1378 the whole test suite.
+###1379 And by the way, the fact that the test suite takes two hours
+###1382 to run, tough.
+###1385 You cannot afford to commit.
+###1387 And this is something that happens at
+###1389 every single company.
+###1390 I bet it happens even here at Google.
+###1393 You probably have a strict test suite, and you are not
+###1396 supposed to commit unless it passes.
+###1399 And then in practice, people make one-liner changes and
+###1402 ignore the test suite because they know the one-liner
+###1404 changes can't possibly break.
+###1405 
+###1408 This happens.
+###1411 This is a horrible, horrible model.
+###1414 It just means that you make huge commits because you
+###1416 commit something after you've worked on it for two weeks,
+###1420 and you have three people working in the same sandbox
+###1424 because before they commit, they can't see the changes
+###1427 that the other people made.
+###1429 This is common.
+###1430 It happens everywhere, it's scary.
+###1432 The other alternative is to use branches even in a
+###1434 centralized environment.
+###1436 But branches always end up being pretty expensive to do,
+###1439 so you can't do them for experimental features.
+###1442 
+###1445 You don't know beforehand if it's something that's going to
+###1447 take one day or two weeks, but most of the time most
+###1451 programmers say, hey, I can do this in 48 hours.
+###1456 And it turns out, yeah, no you couldn't.
+###1460 But because you feel you can do it in 48 hours, creating a
+###1464 branch, even in systems that are better at creating
+###1466 branches than CVS, is a big pain.
+###1469 So you don't do it because you think you can get it resolved
+###1472 and you're back to case number one.
+###1475 But if you decide to create a branch, you will affect
+###1478 everybody else's repository because in a centralized
+###1480 environment, branches are global.
+###1483 So you're kind of screwing with everybody else, but at
+###1485 least you're not screwing with their main, head branch.
+###1489 You are adding stuff to their repositories, but hopefully in
+###1494 a way that they won't notice.
+###1496 But it does make everybody's repositories bigger.
+###1501 So either way, you can't win.
+###1503 In contrast, in a distributed environment, what you do is
+###1506 you have five people, they pull the current head, which
+###1509 is hopefully good and tested, and they start working on it
+###1513 and they start committing on it.
+###1514 And you don't need to wait for two weeks until your commits
+###1518 are stable because your commits are always local.
+###1522 And what happens is within that group of five people, you
+###1525 can pull from each other.
+###1527 That's what distributed means.
+###1529 There's no central location, it means everybody's the same.
+###1533 So you can merge between yourself.
+###1535 So not only can you commit every single line if you want
+###1540 to without having to run the two-hour test suite, but you
+###1543 can then communicate by pulling and merging each
+###1546 other's work and one person finds the bug again commits it
+###1551 and tells the other four people, hey, my repository has
+###1554 a fix for this.
+###1555 And then when that group is done two weeks later, they can
+###1560 tell their manager, hey, we've done this.
+###1563 Can you ask the main group to pull, and they'll get this new
+###1568 feature and by the way, we've tested it over two weeks and
+###1572 it works and it performs this much better because we have
+###1575 actually been able to time it before we even ask anybody
+###1579 else to look at it.
+###1581 And that's a hugely better model for doing development.
+###1585 And this is the model that the kernel uses.
+###1589 It turns out in many places, we don't need all that power,
+###1592 even in the kernel.
+###1595 So people usually don't pull within one group, but does it
+###1605 does happen.
+###1606 For example, the networking people sometimes affect the
+###1608 NFS people, and the fact that they can
+###1611 synchronize actually helps.
+###1615 So this is a real, practical advantage.
+###1618 Somebody else has a question.
+###1619 AUDIENCE: So it feels like the politics has just been moved
+###1622 to an indirect political question.
+###1624 If everyone's got access and they're all playing with their
+###1627 branches and they have their sandbox and they're having
+###1628 fun, at the end of the day there has to be merging and
+###1631 resolving unless you have 80 billion flavors
+###1633 of every Linux kernel.
+###1634 LINUS TORVALDS: Absolutely.
+###1636 
+###1638 There will be 1,000 or maybe 20,000 different branches, but
+###1641 in practice you won't ever see them because they won't care.
+###1644 You will see like a few main branches, maybe
+###1647 you'll see only one.
+###1648 In the case of the kernel, a lot of people they only really
+###1651 look at my branch.
+###1652 So even though there are lots of branches,
+###1654 you can ignore them.
+###1656 What happens is the way merging is done is the way
+###1660 real security is done, by a network of trust. If you have
+###1664 ever done any security work and it did not involve the
+###1668 concept of network of trust, it wasn't security work.
+###1671 It was masturbation.
+###1674 I don't know what you were doing, but trust me, it's the
+###1677 only way you can do security, it's the only way you can do
+###1680 development.
+###1681 The way I work, I don't trust everybody.
+###1685 In fact, I am a very cynical and untrusting person.
+###1689 I think most of you are completely incompetent.
+###1693 The whole point of being distributed is I don't
+###1696 have to trust you.
+###1697 I don't have to give you commit access.
+###1699 But I know that among the multitude of average people,
+###1704 there are some people that just stand out, that I trust
+###1708 because I've been working with them.
+###1710 I only need to trust 5, 10, 15 people.
+###1716 If I have a network of trust that covers those 5, 10, 15
+###1720 people that are outstanding and I know they're
+###1723 outstanding, I can pull from them.
+###1728 I don't have to spend a lot of brain power on the question.
+###1731 When Andrew sends me patches-- he doesn't actually use Git,
+###1734 it's some kind of defect--
+###1737 other than that, he's a very solid person.
+###1741 When he asks me to pull, he does it by sending me a
+###1744 million patches.
+###1745 Instead, I just do it.
+###1748 Sometimes I disagree with some of these patches, but at some
+###1751 point, trust means never having to say you're sorry.
+###1756 I don't know.
+###1757 It basically means you have to accept
+###1760 other people's decisions.
+###1763 The nice thing about trust is it does network, that's where
+###1766 the network of trust comes in.
+###1768 I only need to trust a few people that much.
+###1771 They have other people, they have determined, hey, that guy
+###1774 is actually smarter than I am.
+###1776 That's actually a really good measure of who
+###1779 you should pull from.
+###1780 If you have determined that somebody else is smarter than
+###1783 you, go for it.
+###1785 You can't lose, right?
+###1788 Even if it turns out you pulled crap and somebody else
+###1790 starts complaining, you know who you pulled from and you
+###1793 can just point to the other person and
+###1795 say, hey, I just pulled.
+###1797 Go to him, he knows what he's doing.
+###1799 So that's how I work.
+###1800 That's probably most of my lieutenants work.
+###1802 
+###1805 I pull the networking changes from one person, he gets them
+###1809 from many other people that he's worked with over time.
+###1813 So this is how it all comes together.
+###1815 It doesn't have to come together to one point.
+###1818 In the kernel, it comes together to one point largely
+###1821 I think for historical reasons.
+###1823 And actually, I've always tried to encourage people to
+###1827 have more trees.
+###1829 So we do have vendor trees, we do have -mm trees, we have
+###1833 multiple one points, and it happens to be that my one
+###1837 point is getting maybe more attention
+###1839 than it always should.
+###1841 But even if it doesn't come down to one point, it means
+###1844 that you can take these thousands of branches and
+###1847 ignore 99.9% of them.
+###1850 And you know that, hey, there are five branches that are
+###1853 really interesting to follow because I'm interested in
+###1855 those sub-areas.
+###1857 And it all works very naturally.
+###1859 One of the nice things about this whole network of trust is
+###1862 it's not just easy to do technically, it's actually how
+###1866 every single person in this room is very fundamentally
+###1869 wired to work.
+###1871 It is how we think.
+###1872 We don't know 100 people.
+###1875 We have five, seven, ten close, personal friends.
+###1880 Well, we're geeks, so we have two.
+###1882 But I mean, that's basically how humans work, is that we
+###1886 have these people that we really trust. It's family,
+###1889 it's close friends.
+###1891 And it really fits.
+###1894 You don't even have to have a mental model.
+###1896 It fits how we are wired up.
+###1899 So there's huge advantages to this whole model network of
+###1902 trust.
+###1905 AUDIENCE: Do you know any companies that are using
+###1907 distributed systems internally?
+###1908 It seems like there might be a risk of vulcanizing the code
+###1912 base as people not being in the same sandbox don't
+###1916 contribute back.
+###1916 LINUS TORVALDS: So quite frankly, there aren't that
+###1918 many distributed systems. There is BitKeeper.
+###1922 It is clearly being used at commercial companies.
+###1926 We might have somebody in the audience who actually knows.
+###1930 What?
+###1930 AUDIENCE: [INAUDIBLE].
+###1932 LINUS TORVALDS: So HP is using things like BitKeeper for the
+###1935 printer project.
+###1936 I'm sure they have a lot more companies.
+###1939 In the open source world, there are two distributed
+###1943 systems that are worth looking at right now.
+###1946 One of them is obviously Git and you really should pick
+###1950 that one, but the other one is Mercurial, which actually has
+###1953 pretty much the same time design.
+###1956 There are huge differences in implementation and there are
+###1960 some differences in details, but it boils down to a very
+###1964 similar model.
+###1965 Git just does it better.
+###1968 Everything else, it's either centralized or it is too
+###1971 unstable or too slow to use for anything big.
+###1974 AUDIENCE: Right, but is there an advantage for a company to
+###1978 have everybody playing in the same sandbox?
+###1980 LINUS TORVALDS: I think a lot of companies think there is an
+###1982 advantage to that.
+###1983 I know that inside companies, I don't think a lot of
+###1986 companies use Git knowingly in the sense that it
+###1990 is a company decision.
+###1993 I know several companies who use Git internally, not
+###1997 knowing that they do so because they actually have
+###1999 their main repository in Subversion and a lot of
+###2003 developers then import it into Git because Git can actually
+###2006 merge things for you.
+###2008 So you can take a Subversion tree, just import it into Git,
+###2014 let Git do the merge, which would be a major headache to
+###2018 do in Subversion, create a merge commit, and actually
+###2021 export it back to Subversion, and nobody else even
+###2025 knew you used Git.
+###2027 It's kind of sad, but we have cases of people talking about
+###2033 doing exactly that inside companies.
+###2036 Git has not been around in a form where a lot of people
+###2041 will be comfortable using it for more than
+###2046 half a year or so.
+###2048 We have had so huge improvements to the user
+###2054 interfaces that realistically, a year ago at a commercial
+###2057 company a lot of people would just have said
+###2060 it's too hard to use.
+###2062 I think we're way past that hump.
+###2064 Git is much easier to use than CVS, really.
+###2067 
+###2069 It's easier to use than anything else.
+###2072 Just get over it.
+###2074 You don't have to use all the powerful tools.
+###2076 Some of them might be things you want to explain and
+###2082 introduce to people only after they got over the initial hump
+###2085 of understanding what distribution really means.
+###2088 But the basic stuff is really easy to do.
+###2093 AUDIENCE: One characteristic of a centralized system is
+###2097 that it's the original developer who has to resolve
+###2099 any merges, who has to fix merges.
+###2101 How do you do that in Git and how do you
+###2102 minimize merge conflicts?
+###2104 LINUS TORVALDS: Thank you for asking me that question.
+###2106 Did I tell you to ask that question first?
+###2108 One of the really nice parts of Git is A, it does make
+###2113 things much easier to merge than a lot of other systems.
+###2119 Merging a branch in CVS tends to be really painful.
+###2124 One of my main statistics is the kernel is actually one of
+###2127 the biggest open source projects.
+###2129 We have 22,000 files.
+###2131 We've used Git for two years.
+###2133 During those two years, we have averaged 4.5 merges a
+###2136 day, every single day.
+###2139 That's not something you'd do in something
+###2141 where merging was hard.
+###2143 So Git makes merging easy, but you will in inevitably have
+###2148 cases where two maintainers send me the question to please
+###2155 pull my stuff.
+###2156 And I pick one of them at random usually, because their
+###2159 mail happened to be first in my mailbox, and I have pull
+###2162 their stuff.
+###2163 And another person had made changes that--
+###2168 it doesn't happen that often, but it does happen--
+###2172 just clashed so much that I said, I could fix this up but
+###2178 I really don't want to.
+###2179 I didn't write the code, it's not my area of expertise, its
+###2183 networking or something like that, I can't really judge it,
+###2186 I can't test it, so asking me to resolve the
+###2190 merge is just crazy.
+###2191 It's not how you should do things.
+###2195 OK, the Windows machine flaked out again.
+###2197 
+###2201 Remember, distribution means nobody is special.
+###2204 So instead of me merging, I just push out my first tree
+###2209 that didn't have any merge issues and I tell the second
+###2212 person, hey, I tried to pull from you but I had merge
+###2218 conflicts and they weren't completely trivial, so I
+###2220 decided you get to do the honors instead.
+###2224 And they do.
+###2225 And they know what they're doing
+###2227 because it's their changes.
+###2228 So they can do the merge and they probably think I'm a
+###2231 moron because the merge was so easy and it was obvious I
+###2234 should have taken their code.
+###2237 But they do the merge and then they update their tree and
+###2240 say, hey, can you pull from me now?
+###2242 And I pull from them and they did all the work for me.
+###2245 That's what it's all about.
+###2247 They did all the work for me.
+###2250 And I take the credit.
+###2253 Now I just need to figure out step three, profit.
+###2255 
+###2259 But that's another thing that comes very naturally from
+###2263 being distributed.
+###2264 It's not something that is special to Git.
+###2269 Git makes merging easier than anything else, but Git does it
+###2275 exactly because Git is distributed.
+###2277 Yes.
+###2277 AUDIENCE: So I guess I don't entirely understand why you
+###2280 think that its necessary to have a distributed system--
+###2286 it seems like you get a lot of the good effects, at least for
+###2291 corporate development.
+###2292 For open source development, it seems very useful that
+###2293 everybody can work on their own.
+###2295 But when you really have a centralized, corporate tree,
+###2300 then a centralized system with really cheap branches,
+###2303 wouldn't that give you pretty much the same effect?
+###2305 Or is that just impossible to do?
+###2308 LINUS TORVALDS: No.
+###2309 
+###2312 I will argue that centralized systems can't work.
+###2315 But it is clearly true that if you're in a tightly controlled
+###2319 corporate environment, centralized
+###2321 systems work better.
+###2322 And it's unquestionably true that people have been able to
+###2325 use centralized system for the last 35 years.
+###2329 Nobody's really arguing that centralized
+###2331 systems cannot work.
+###2333 They cannot work as well as distributed systems. One of
+###2337 the issues you tend to have is centralized systems inevitably
+###2341 have problems when you have groups in different locations.
+###2345 It tends to work really well if you have a really beefy
+###2348 background fiber.
+###2349 And I guess for Google, you probably do have some kind of
+###2352 network going.
+###2353 I don't know.
+###2354 And maybe it's not as big of an issue as it is for other
+###2358 projects, but trust me.
+###2361 Not having to go over the network for everything is a
+###2365 huge performance saver.
+###2366 
+###2369 I can't show you demonstrations and it's not a
+###2372 very interesting demonstration anyway, but this is a laptop
+###2375 that is what, four or five years old.
+###2378 It's like a Pentium M 1.6 gigahertz thing.
+###2381 I could show you me doing a full diff of the kernel on
+###2387 that laptop in whatever, just over a second.
+###2393 On my main machine, it takes less than 1/10 of a second.
+###2397 That's the kind of performance you simply cannot get if you
+###2403 have to go over a network.
+###2405 We're talking a couple of packets going over the network
+###2408 and you just blew the performance.
+###2411 So if you have a decentralized system and you're used to
+###2415 having something like commit or diffing the whole source
+###2420 tree taking 30 seconds.
+###2424 Maybe 30 seconds doesn't sound that bad to you.
+###2427 Trust me, when you're used to taking 1/10 of a second, 30
+###2430 seconds sounds pretty bad.
+###2433 So there are huge performance issues even if you have a good
+###2437 network, nevermind the fact that most people don't have a
+###2441 good network.
+###2442 The other thing is branches, even if you make them
+###2445 technically very cheap to create, just the fact that you
+###2449 create them and everybody sees them because everybody will
+###2454 see them since they're centralized, basically means
+###2457 that you don't want to make branches willy nilly.
+###2460 You will have namespace issues.
+###2462 What do you call your branch?
+###2464 Would you call it Test?
+###2465 Oh by the way, there's 5,000 other branches called Test 1
+###2469 through 5,000.
+###2471 So now you have to make up all these naming rules for your
+###2474 branches because you have a centralized system that has a
+###2477 centralized branch namespace, which is kind of inevitable
+###2481 when you have a centralized system.
+###2483 How does that work in distributed environments?
+###2487 You call your branch test, and it's that easy.
+###2490 Actually, you shouldn't call it tests.
+###2492 You should basically name your branches the way
+###2494 you name your functions.
+###2496 You should call them something short and
+###2497 sweet and to the point.
+###2498 What is that branch doing?
+###2500 Git, by default, gives you one branch that is called master.
+###2504 It's short and sweet and to the point.
+###2506 It's the master branch.
+###2507 But you can make a branch that is called Experimental Feature
+###2512 X and it will be obvious.
+###2514 But this is something you simply cannot do in a
+###2517 centralized environment.
+###2518 You cannot call branches Experimental Feature X. You
+###2521 have to make up stupid, idiotic names.
+###2524 I worked for a company that had nice--
+###2527 as nice as you probably can make them-- scripts around CVS
+###2532 that helped you make branches.
+###2534 You could actually make branches
+###2536 with a simple command.
+###2537 It didn't take that long.
+###2539 It picked a name for you, exactly because it would pick
+###2544 the number.
+###2545 So you'd give it a base name and you would say, this is my
+###2549 branch for doing so and so and it would call your
+###2552 branch So and So-56.
+###2556 And it would tag where you started that branch because in
+###2558 CVS you need to do that, too.
+###2561 It took a while, but it worked.
+###2563 You can do these things in centralized systems, but you
+###2567 don't need to.
+###2569 If your system is decentralized, it just works.
+###2573 That is how it should work.
+###2575 So I'm not going to force you to switch over to
+###2580 decentralized, I'm just going to call you
+###2582 you ugly and stupid.
+###2584 That's the deal.
+###2586 Anyway, we are on the performance slide.
+###2589 AUDIENCE: Can I ask a question?
+###2591 LINUS TORVALDS: Yes.
+###2592 AUDIENCE: Two questions, actually.
+###2594 So one is how many files will Git take.
+###2599 And then the second one, let's say if you have a humongous
+###2602 tree under Git, would it be possible to check
+###2605 out part of the tree?
+###2606 LINUS TORVALDS: Great questions.
+###2607 
+###2610 Those questions actually kind of dovetail into a different
+###2613 issue, even though they are performance related.
+###2616 One of the things that Git is really special about, and this
+###2620 special even with regards to things like Mercurial which is
+###2623 otherwise fairly similar, Git tracks your content.
+###2628 It never, ever tracks a single file.
+###2631 You cannot track a file in Git.
+###2635 What you can do is you can track a project that has a
+###2638 single file, but if your project has a single file,
+###2642 sure do that, and you can do it.
+###2644 But if you track 10,000 files, Git never, ever sees those as
+###2651 individual files.
+###2652 Git thinks of everything as the full content.
+###2656 All history in Git is based on the content of all of the
+###2659 history of the whole project.
+###2661 This has implications for performance.
+###2666 When you use CVS it's perfectly fine.
+###2669 It's stupid, but it's perfectly fine to have one
+###2672 huge repository that has a million files in it because at
+###2676 the end of the day, CVS actually thinks of all those
+###2679 million files as a single file.
+###2681 And you can actually ask CVS to only update that one file
+###2684 because CVS really thinks in those terms. And that's
+###2687 actually true of pretty much everything else too.
+###2689 It is actually even true of BitKeeper.
+###2691 That was one of the mistakes in BitKeeper.
+###2696 The problem with thinking in terms of single files is that
+###2699 quite often, especially if you're a high level maintainer
+###2702 like me, I have 22,000 files to track, I don't care about
+###2706 one of them.
+###2708 I might care about a sub-collection of them that
+###2713 contains maybe 1,000 thousand files.
+###2714 I might care about the USB subsystem, but I never care
+###2718 about the single file.
+###2720 So Git tracks everything as a collection of files, and if
+###2723 you ask for the history of a single file, Git will
+###2726 literally start from the global history
+###2728 and simplify it.
+###2730 It's a fairly efficient system.
+###2733 It's a very efficient system.
+###2734 You would normally not even realize that it does that.
+###2737 But it does mean that if you try to track a million files
+###2742 in one repository, when you then ask for a single file
+###2746 history it's going to be slower.
+###2748 So it has different scaling properties than a lot of other
+###2751 systems for this very fundamental design reason.
+###2755 We have used big repositories.
+###2758 We've imported things like something like 3/4 of the
+###2768 Subversion history of the whole KDE project.
+###2771 And the KDE people are--
+###2772 
+###2779 I like KDE but trust me, they put every single component in
+###2783 one repository.
+###2785 Not very smart.
+###2787 What you ended up with, you had a repository that took I
+###2791 think eight gigabytes under the CVS tree and Subversion
+###2796 blew it up to like three times that size.
+###2800 Maybe it wasn't quite eight gigabytes in
+###2802 CVS, but it was big.
+###2803 It was more than four gigabytes.
+###2806 Git would actually compress it down to
+###2808 something like 1.3 gigabytes.
+###2810 So Git is actually very efficient at taking this
+###2813 project and just smushing it together and most things
+###2817 perform very well.
+###2818 But certain things did not.
+###2820 The things that do not perform very well, if you put a
+###2822 million files in one repository, initial clones,
+###2826 when you get it, you get it all.
+###2828 You put it in one repository, Git thinks of it as one thing.
+###2833 Don't do that.
+###2834 If you have multiple components, do them as
+###2837 separate repositories.
+###2839 You can actually have what we call a super project that
+###2842 contains pointers to other projects and the user
+###2845 interfaces there are some lacking.
+###2848 But you keep separate projects separate, and then you avoid
+###2851 the problem of, OK, you have to get it all.
+###2855 Because with Git, you do have to get it all.
+###2857 AUDIENCE: Why don't they all share code?
+###2860 [INAUDIBLE]?
+###2862 LINUS TORVALDS: If they all shared code.
+###2865 What you can do with Git, if you actually have a lot of
+###2867 shared stuff, since Git actually internally uses a
+###2870 content-addressable file system, if there are files
+###2874 with identical content, Git will actually use the exact
+###2877 same object for them and save you tons of space.
+###2881 You can have these shared objects and still have them as
+###2886 separate entities.
+###2887 You can still see them at separate repositories that
+###2890 just have a shared file system backing the
+###2893 data, you can do that.
+###2896 If you actually have shared code in the sense that you,
+###2898 for example, have a library that is used by five different
+###2902 things, that's when you use the super project support,
+###2906 where you have one Git repository that just tracks
+###2910 all the other Git repositories.
+###2911 It may contain stuff like a shared build
+###2914 infrastructure, too.
+###2916 But then the individual pieces are individual.
+###2919 These are like CVS modules.
+###2922 In CVS, modules aren't really individual but that's because
+###2927 in CVS, the directory is a thing of its own anyway.
+###2932 So CVS modules are kind of a combination of this and just
+###2938 tracking them all.
+###2939 But you can basically think of it as CVS modules.
+###2942 And we do support it but I do have to admit, that code is
+###2945 fairly recent and that's one area where our user interfaces
+###2949 right now are definitely lacking some.
+###2953 There was probably some other part to that question that I
+###2956 completely forgot.
+###2958 AUDIENCE: [INAUDIBLE].
+###2959 
+###2962 LINUS TORVALDS: I can't hear that.
+###2966 AUDIENCE: The question was, can you have just part of the
+###2969 files pulled out of the repository, not the entire
+###2972 repository?
+###2975 LINUS TORVALDS: You can export things as tarballs, you can
+###2978 export things as individual files.
+###2980 You can rewrite the whole history to say, I want a new
+###2984 version of that repository that only contains that part.
+###2987 You can do that.
+###2988 It's a fairly expensive operation.
+###2990 It's something you would do, for example, if you import an
+###2993 old repository into one huge Git repository and then you
+###2997 can split it later on to be multiple, smaller ones.
+###3001 You can do it.
+###3003 What I'm trying to say, you should generally
+###3005 try to avoid it.
+###3008 It's not that Git can't handle huge projects, it's that Git
+###3012 won't perform as well as it would otherwise and you will
+###3017 have issues that you wish you didn't have.
+###3022 I'm skipping this and going back to the performance issue.
+###3026 One of the things I want to say about performance is a lot
+###3029 of people seem to think that performance is about doing the
+###3032 same thing, just doing it faster.
+###3034 And that's not true.
+###3035 That's not what performance is all about.
+###3037 If you can do something really fast really well, people start
+###3042 using it differently.
+###3044 One of the things I wanted to make sure is that merges go
+###3048 really, really quickly because I want people to merge often
+###3051 and merge early because it turns out it
+###3055 becomes easier to merge.
+###3057 If you merge every day, suddenly you never get to the
+###3060 point where you have huge conflicts
+###3062 that are hard to resolve.
+###3064 If you actually make branching and merging easy, you actually
+###3070 avoid a whole class of problems that you otherwise
+###3073 have a really, really hard time avoiding.
+###3075 So for example, let's go back to one of the things where I
+###3080 think the designers of Subversion
+###3082 were complete morons.
+###3084 Strong opinions.
+###3085 That's me, right?
+###3087 There's a few of them in the room today, I suspect.
+###3091 You're stupid.
+###3094 Subversion, for example, talks very loudly about how they do
+###3099 CVS right by making branching really cheap.
+###3104 It's probably on their main web page where they probably
+###3107 say that branching in Subversion is an 01 operation.
+###3111 You can do as many cheap branches as you want.
+###3114 Nevermind that the 01 is actually a
+###3116 pretty large 0 I think.
+###3118 But even if it takes a millionth of a second to do
+###3123 branching, who cares?
+###3126 It's the wrong thing you're measuring.
+###3129 Nobody is interest in branching.
+###3131 Branches are completely useless unless you merge them,
+###3134 and CVS cannot merge anything at all.
+###3139 You can merge things once, but because CVS then forgets what
+###3143 you did, you can never, ever merge anything again without
+###3147 getting horrible, horrible conflicts.
+###3150 Merging in Subversion is a complete disaster.
+###3154 The Subversion people kind of acknowledge this and they have
+###3156 a plan and their plan sucks, too.
+###3160 It is incredible how stupid these people are.
+###3163 They've been looking at the wrong problem all the time.
+###3167 Branching is not the issue, merging is, and merging they
+###3171 didn't do squat for five years after the fact.
+###3176 That is sad.
+###3177 So performance is important, but you need to
+###3180 look at what matters.
+###3183 Performance for making a branch under Git, literally
+###3187 you create a new file that is 41 bytes in size.
+###3191 How fast do you think that is?
+###3193 I don't think you can measure it.
+###3196 If you use Windows you can probably
+###3198 measure it because file--
+###3199 but whatever.
+###3200 It is so fast you can't really measure it.
+###3203 That's creating a branch.
+###3205 Nobody cares.
+###3208 It's not an issue.
+###3210 That's not it.
+###3212 The only thing that matters is how fast can you merge?
+###3216 In Git I merge 22,000 several times a day and I get unhappy
+###3223 if a merge takes more than five seconds.
+###3225 And all of those five seconds are just the downloading of
+###3229 the deltas between the two trees.
+###3233 The merge itself takes less than half a second, and I
+###3238 don't have to think about it.
+###3240 What takes longer than the merge is after every merge by
+###3244 default, Git will do a diff stat of everything that
+###3246 changed as a result of that merge because I
+###3249 do care about that.
+###3250 When I merged from somebody, I trust them.
+###3253 But on the other hand, hey, they might have stopped using
+###3256 their medication.
+###3257 I mean, I trust them, but let's just be honest here.
+###3262 They might have been OK yesterday,
+###3263 today not a good day.
+###3265 So I do a diff stat and Git does that by default.
+###3268 You can turn it off if you really want to, but you
+###3270 probably shouldn't.
+###3271 It's fast enough anyway.
+###3274 If it's a big merge, the diff stat usually takes a second or
+###3277 two because creating a diff and actually doing all the
+###3280 stats on how many lines changed, that actually is much
+###3284 more expensive than doing the merge itself.
+###3287 That is the kind of performance that actually
+###3289 changes how you work.
+###3291 It's no longer doing the same thing faster, it's allowing
+###3294 you to work in a completely different manner, and that is
+###3298 why performance matters and why you really shouldn't look
+###3301 at anything but Git.
+###3303 Hg's Mercurial is pretty good, but Git is better.
+###3308 I think I'm running out of time.
+###3312 OK, this one is still interesting.
+###3314 We never got to the implementation part, you
+###3316 really don't care.
+###3317 I will say so much about implementation is the
+###3320 implementation is really simple.
+###3322 The code data structures are really, really, really simple.
+###3326 If you then look at the source code and realize it's 80,000
+###3332 lines and mostly in C. And the kind of C I write most people
+###3337 don't understand, but I commented.
+###3340 The source code may sometimes look complicated because we
+###3343 are very performance-centric.
+###3346 I am, I really care.
+###3348 And sometimes to make things go really fast, you have to
+###3351 use more complicated algorithms than just checking
+###3354 one file at the time.
+###3356 When you're doing 22,000-file merges, you don't want to
+###3359 check one file at a time.
+###3360 You want to check the whole three in one go and say,
+###3363 they're the same, I didn't need to do anything.
+###3366 So Git does things like that and that kind of blows the
+###3368 source code up a bit because doing it well is complicated.
+###3372 But the basics are really, really simple, and one of the
+###3376 basics is this trust and reliability thing.
+###3380 Every single piece of data, when Git tracks your content,
+###3385 we compress it, we delta it against everything else.
+###3388 But we also do a SHA-1 hash of the content, and we actually
+###3393 check it when we use it.
+###3395 If you have disk corruption, if you have DRAM corruption,
+###3399 if you have any kind of problems at all, Git will
+###3403 notice them.
+###3404 It's not a question of if, it's a guarantee.
+###3407 You can have people who try to be malicious.
+###3411 They won't succeed.
+###3413 You need to know exactly 20 bytes, you need to know the
+###3417 160-bit SHA-1 name of your top of tree, and if you know that,
+###3424 you can trust your tree all the way
+###3426 down, the whole history.
+###3428 You can have 10 years of history, you can have 100,000
+###3431 files, you can have millions of revisions, and you can
+###3434 trust every single piece of it because Git is so reliable and
+###3440 all the basic data structures are really, really simple.
+###3444 And we check checksums.
+###3446 And we don't just check some piddly UDP packet checksum
+###3452 that is a 16-bit sum of all the bytes.
+###3456 We check a checksum that is considered
+###3459 cryptographically secure.
+###3461 Nobody has been able to break SHA-1, but the point is the
+###3465 SHA-1, as far as Git is concerned, isn't even a
+###3467 security feature.
+###3469 It's purely a consistency check.
+###3473 The security parts are elsewhere, so a lot of people
+###3478 assume that since Git uses SHA-1 and SHA-1 is used for
+###3483 cryptographically secure stuff, they think that, OK,
+###3486 it's a huge security feature.
+###3488 It has nothing at all to do with security, it's just the
+###3491 best hash you can get.
+###3494 Having a good hash is good for being able to trust your data.
+###3497 It happens to have some other good features, too.
+###3501 It means that when we hash objects, we know that the
+###3503 hashes are actually well-distributed and we don't
+###3506 have to worry about certain distribution issues.
+###3508 So internally, it means from an implementation standpoint
+###3512 we can trust that the hashes are so good that we can use
+###3516 hashing algorithms and know that there are no bad cases.
+###3519 So there are some reasons to like the
+###3523 cryptographic site, too.
+###3524 But it's really about the ability to trust your data.
+###3530 I guarantee you, if you put your data in Git, you can
+###3535 trust the fact that five years later, after it was converted
+###3538 from your hard disk to DVD to whatever new technology and
+###3543 you copied it along, five years later you can verify
+###3546 that the data you get back out is the exact same
+###3550 data you put in.
+###3551 And that's something you really should look for in a
+###3553 source control management system.
+###3556 One of the reasons I care is for the kernel, we had a break
+###3560 in on one of the BitKeeper sites where people tried to
+###3567 corrupt the kernel source code repositories.
+###3570 And BitKeeper actually caught it.
+###3571 BitKeeper did not have a really fancy hash at all.
+###3575 I think it's a 16-bit CRC, something like that.
+###3580 But it was good enough that you could actually see clumsy.
+###3586 It was not cryptographically secure, but it was hard enough
+###3589 in practice to overcome that it was caught immediately.
+###3595 
+###3598 When that happens once to you, you got burnt once, you don't
+###3604 ever want to get burnt again.
+###3606 Maybe your projects aren't that important.
+###3608 My projects, they're important.
+###3612 There's a reason I care.
+###3614 This is also one of the reasons to go back to the
+###3617 distribution angle a bit.
+###3620 When you do Google, for example, Google code, you have
+###3623 your source repositories that you help people maintain, and
+###3628 I think you do so under Subversion.
+###3629 
+###3632 I would never, ever trust Google to maintain my source
+###3636 code for me.
+###3637 I'm sorry.
+###3638 You're just not that trustworthy.
+###3639 
+###3642 The reason I really prefer a distributed system is I can
+###3646 keep my source code behind three firewalls on a system
+###3651 that does not allow SSH in at all.
+###3655 When I'm here, I cannot read my email because my email goes
+###3659 onto my machine, and the only way I can get into that
+###3663 machine is when I'm physically on that network.
+###3666 So maybe I'm cuckoo, maybe I'm a bit crazy and I care about
+###3669 security more than most people do.
+###3672 But this whole notion that I would give the master copy of
+###3677 source code that I trust and I care about so much, and I
+###3681 would give it to a third party is ludicrous.
+###3685 Not even Google, not a way in hell would I do that.
+###3689 I allow Google to have a copy of it, but I want to have
+###3693 something that I know nobody touched.
+###3696 And by the way, I'm not a great MIS person, so the disk
+###3699 corruption issue is definitely a case that I might worry
+###3703 about because I don't do backups.
+###3705 So it's OK if I can then download it again from
+###3710 multiple trusted parties.
+###3712 I can verify them against each other, that
+###3714 part is really easy.
+###3715 I can verify them against hopefully that 20 bytes that I
+###3718 really, really cared about.
+###3720 Hopefully I have that in a few places.
+###3722 20 bytes is easier to track than 180 megabytes and
+###3727 corruption is less likely to hit those 20 bytes.
+###3729 If I have those 20 bytes, I can download a Git repository
+###3734 form a completely untrusted source and I can guarantee
+###3739 that they didn't do anything bad to it.
+###3742 That's a huge thing, and that's something that when you
+###3744 do hosted repositories for other people, if you use
+###3748 Subversion you're just not doing it right.
+###3752 You're not allowing them to sleep well at night.
+###3756 Of course, if you do it for 75,000 projects, most of them
+###3762 are probably pretty small and not very
+###3763 important, so it's OK.
+###3764 
+###3767 That should make people feel better.
+###3770 I have a few more slides.
+###3771 I think we're over time.
+###3774 I'm not even going to bother showing them, they're not that
+###3776 interesting I think.
+###3778 
+###3780 I talked a bit about this, about content versus
+###3787 individual files.
+###3788 Git tracks content.
+###3790 
+###3792 There is the only sample command line in the whole
+###3798 presentation.
+###3799 Gitk is the graphical viewer of history of a Git project.
+###3804 It's a [UNINTELLIGIBLE]
+###3808 script that is really only doing viewing of stuff that
+###3812 Git is really good at showing you.
+###3815 And this is the kind of command line I use as a
+###3819 top-level maintainer.
+###3821 I want to be able to say what changed since a particular
+###3826 version, maybe since a particular date, I can do that
+###3829 easily, in those two directories or in those two
+###3833 directories and that file.
+###3835 And what this will show me is the global history as it
+###3841 pertains to those parts of the repository.
+###3844 It is more expensive to compute than the global,
+###3848 global history, but if my laptop was actually connected
+###3856 to the A/V system, I could show you.
+###3858 Even on that laptop, it comes up in seconds.
+###3862 It is that expensive, but we are that good.
+###3864 
+###3867 This is something that is really, really unique to get.
+###3869 Nobody else can do it.
+###3870 And it's a hugely important feature.
+###3874 Maybe it's not so important to individual developers because
+###3877 individual developers often do think in terms of single
+###3881 files, but it is important for the people who merge stuff, it
+###3888 is important for people like me and the people I work with
+###3892 directly because they never basically care
+###3895 about a single file.
+###3896 And they do care about these kinds of features.
+###3898 Somebody sends a bug report, which bug reports are usually
+###3901 not very good.
+###3902 But maybe the bug report is good enough that you can
+###3905 pinpoint, OK, scuzzy subsystem.
+###3908 That's the command line.
+###3910 You can't say which file, but you can do this and say, OK,
+###3914 that will cut it down from the 15,000 commits we've had since
+###3921 last week, it will cut it down to 50.
+###3924 That's a huge deal.
+###3926 That is something that nobody else can do, I guarantee you.
+###3930 
+###3932 So that's the reason you want to use Git.
+###3935 That's what it all boils down to.
+###3936 It's safe, it is so fast that you can do things that nobody
+###3939 else can do, it does things that nobody else can do, even
+###3943 slowly, and it's distributed.
+###3946 So go and spread the word.
+###3949 We have one more question, I guess.
+###3950 What is the timing like?
+###3951 I don't know.
+###3953 AUDIENCE: Quickly.
+###3955 So one of the reasons why we would switch from Perforce is
+###3959 release capability and performance.
+###3961 Otherwise, people would just say, keep using it.
+###3965 Would we be exchanging one set of scalability performance
+###3968 problems for other scalability performance problems?
+###3973 LINUS TORVALDS: I already mentioned the fact that I
+###3976 don't know how you maintain stuff in Perforce, but when
+###3980 and if you do a switchover to Git, what you want to make
+###3983 sure is because of this content model, you need to do
+###3986 it at same content boundaries.
+###3990 The content boundaries usually are actually pretty
+###3992 self-obvious.
+###3993 I mean, they really are.
+###3995 You have the compiler, you have the main source, you have
+###3999 the documentation.
+###4001 Well, you probably have the documentation spread out, but
+###4003 you may have some user visible documentation.
+###4008 Or maybe Google doesn't.
+###4009 But a lot of companies have a separate set of documentation
+###4012 that they give to customers, and then they have the
+###4015 documentation that goes into each individual package, is
+###4018 package-based.
+###4020 So one of the things you do have to think about with Git
+###4024 is you want to make sure it is in a somewhat sane hierarchy.
+###4029 
+###4031 Git can easily handle larger projects.
+###4034 You can have 10,000 files and that's not a problem.
+###4040 The kernel is 22, we've done tests with 100, it's fine.
+###4045 It's faster than anything else.
+###4048 With a million files, I suspect other systems will be
+###4053 faster at some things.
+###4055 And that's the kind of situation I don't
+###4056 want you to get into.
+###4058 But if you do that basic setup correctly, it will be
+###4062 basically faster at pretty much everything, than anything
+###4067 anybody else will.
+###4068 I am very confident about Git performance.
+###4072 One of the things we don't necessarily do really well is
+###4076 the CVS Annotate.
+###4078 People use CVS Annotate a lot if they use CVS. I'm told it
+###4081 sucks under Perforce, too, so you probably don't use the
+###4085 Perforce version of Annotate, I'm not sure.
+###4089 But CVS users are used to CVS Annotate.
+###4091 It's the one operation that CVS can do faster than Git,
+###4095 because CVS does track things one file at a time.
+###4099 Git doesn't.
+###4100 Git has an annotate, but if you moved a function from one
+###4106 file to another, Git will literally tell you the history
+###4112 of that function even across that move.
+###4115 Not to file move, a function within a file.
+###4118 It will go and dig back and say, hey, those two lines
+###4121 actually came from that other file five years ago.
+###4124 That is, again, something nobody else can do and it
+###4127 boils down to the same thing.
+###4128 It's the content that matter, it's not actually the files.
+###4131 But it does make it a much more expensive operation, so
+###4134 if you go back five years maybe it takes 30 seconds.
+###4137 On the kernel, it takes a second for any file I have. We
+###4141 started from no history two years ago because we just made
+###4145 the decision that let's not make it more complicated than
+###4148 it needs to be.
+###4148 So right now, we only have two years of
+###4150 history in the kernel.
+###4152 We have more history in other projects that we've done
+###4156 timings on.
+###4156 So we've done timings on importing the KDE and things
+###4160 like that with more history.
+###4161 
+###4165 There are performance issues, but most of them are, Git is
+###4170 one or two orders of magnitude faster.
+###4172 So most of them are the good kind.
+###4176 And if you find something, we actually have a really, really
+###4179 good community.
+###4180 The Git mailing list is fairly high signal to noise.
+###4185 It does get a fair amount of emails, but it's actually a
+###4189 very pleasant mailing list. If anybody is interested, read
+###4192 the sources first, but start looking at the
+###4195 mailing list archives.
+###4198 We have our flames, we have are pointless discussions, but
+###4200 most of it is actually very good.
+###4202 
+###4205 OK.
+###4206 Thanks.
+###4207 

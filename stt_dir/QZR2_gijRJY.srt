@@ -1,0 +1,1505 @@
+1
+0:0:2,267 --> 0:0:4,33
+Hi, I'm Sharon Long,
+
+
+2
+0:0:4,33 --> 0:0:5,533
+from Stanford University.
+
+
+3
+0:0:5,533 --> 0:0:9,3
+I'm here today to tell you about some remarkable organisms,
+
+
+4
+0:0:9,3 --> 0:0:13,33
+two kinds of organisms in fact, bacteria and plants.
+
+
+5
+0:0:13,33 --> 0:0:16,633
+Together, they can do something that neither can do alone:
+
+
+6
+0:0:16,633 --> 0:0:19,7
+They can bring nitrogen, in its molecular form,
+
+
+7
+0:0:19,7 --> 0:0:21,8
+which is usually very inert,
+
+
+8
+0:0:21,8 --> 0:0:25,233
+they can bring that nitrogen into a chemically combined form
+
+
+9
+0:0:25,233 --> 0:0:28,367
+that can be used for protein nutrition.
+
+
+10
+0:0:28,367 --> 0:0:30,8
+So, I'll have three topics overall.
+
+
+11
+0:0:30,8 --> 0:0:36,467
+First, I'd like to give you an introduction to the nitrogen-fixing symbiosis,
+
+
+12
+0:0:36,467 --> 0:0:40,133
+in particular, between Rhizobium and legumes.
+
+
+13
+0:0:40,133 --> 0:0:42,367
+I'd then like to focus, in my second segment,
+
+
+14
+0:0:42,367 --> 0:0:46,867
+on the bacterial genes that are used for the response to the plant,
+
+
+15
+0:0:46,867 --> 0:0:49,667
+and for the bacteria to be able to provoke the plant,
+
+
+16
+0:0:49,667 --> 0:0:55,233
+in order to make the home for the bacteria, once they invade.
+
+
+17
+0:0:55,233 --> 0:0:58,67
+And in the final segment, I'd like to tell you some of our new research
+
+
+18
+0:0:58,67 --> 0:1:1,5
+on how the plant responds to the signals
+
+
+19
+0:1:1,5 --> 0:1:3,7
+that come from the bacteria.
+
+
+20
+0:1:3,7 --> 0:1:6,0
+So now, in the first segment, as I mentioned,
+
+
+21
+0:1:6,0 --> 0:1:8,433
+we have an overview. I'm going to tell you about
+
+
+22
+0:1:8,433 --> 0:1:10,8
+something called "root nodules" and how these
+
+
+23
+0:1:10,8 --> 0:1:15,433
+root nodules form and how they work.
+
+
+24
+0:1:15,433 --> 0:1:17,8
+To get us started, I'd like to address a subject
+
+
+25
+0:1:17,8 --> 0:1:20,933
+near and dear to all our hearts, and that is food.
+
+
+26
+0:1:20,933 --> 0:1:23,533
+When we think about food, we're aware of the need for balance.
+
+
+27
+0:1:23,533 --> 0:1:27,2
+We need carbohydrates, fats, proteins.
+
+
+28
+0:1:27,2 --> 0:1:32,8
+And proteins, it turns out, are a particular issue in nutrition,
+
+
+29
+0:1:32,8 --> 0:1:35,667
+because proteins, unlike carbohydrates and fats
+
+
+30
+0:1:35,667 --> 0:1:38,867
+for the most part, require a great deal of nitrogen,
+
+
+31
+0:1:38,867 --> 0:1:41,467
+and nitrogen is scarce.
+
+
+32
+0:1:41,467 --> 0:1:46,9
+That means that protein malnutrition, the inability to get enough protein,
+
+
+33
+0:1:46,9 --> 0:1:52,133
+can happen whenever agriculture is deficient or when yields are low,
+
+
+34
+0:1:52,133 --> 0:1:54,3
+and it's one of the most devastating problems
+
+
+35
+0:1:54,3 --> 0:1:59,867
+for human health worldwide. So, in Western cultures,
+
+
+36
+0:1:59,867 --> 0:2:2,8
+when we think about getting protein, we may think,
+
+
+37
+0:2:2,8 --> 0:2:5,233
+well, I need to have a protein-rich food.
+
+
+38
+0:2:5,233 --> 0:2:9,33
+Something, which we're going to remember, has a lot of nitrogen.
+
+
+39
+0:2:9,33 --> 0:2:11,767
+We're going to think about, for example, some poultry.
+
+
+40
+0:2:11,767 --> 0:2:16,633
+And here they are, poultry, a very protein-rich food.
+
+
+41
+0:2:16,633 --> 0:2:21,7
+Now, we're thinking about the theme of nitrogen, it's a critical element.
+
+
+42
+0:2:21,7 --> 0:2:23,7
+Where did these animals get their nitrogen
+
+
+43
+0:2:23,7 --> 0:2:26,433
+so that they can make protein? They get it from plants.
+
+
+44
+0:2:26,433 --> 0:2:31,533
+And ultimately, of course, whether we eat meat or eat plants,
+
+
+45
+0:2:31,533 --> 0:2:36,333
+all human protein ultimately comes from plants.
+
+
+46
+0:2:36,333 --> 0:2:39,7
+So that raises the question, where do the plants get their nitrogen?
+
+
+47
+0:2:39,7 --> 0:2:41,967
+The answer is, they get from the soil.
+
+
+48
+0:2:41,967 --> 0:2:44,933
+Soils include compounds such as nitrates;
+
+
+49
+0:2:44,933 --> 0:2:48,5
+they will include organic nitrogen, which might be provided
+
+
+50
+0:2:48,5 --> 0:2:52,633
+from manure or decomposition of plant matter.
+
+
+51
+0:2:52,633 --> 0:2:54,8
+And the plants will take up this nitrogen,
+
+
+52
+0:2:54,8 --> 0:2:58,5
+they will synthesize amino acids from the soil nitrogen,
+
+
+53
+0:2:58,5 --> 0:3:1,67
+and from those, they make proteins,
+
+
+54
+0:3:1,67 --> 0:3:5,233
+and then we in turn can get our protein from those plants.
+
+
+55
+0:3:5,233 --> 0:3:8,8
+However, if a field is used over and over again,
+
+
+56
+0:3:8,8 --> 0:3:10,833
+ultimately it becomes depleted for nitrogen.
+
+
+57
+0:3:10,833 --> 0:3:14,3
+And that means that this infertile soil is not able
+
+
+58
+0:3:14,3 --> 0:3:19,367
+to support plant yield or plant nitrogen.
+
+
+59
+0:3:19,367 --> 0:3:21,167
+Now how do we overcome that?
+
+
+60
+0:3:21,167 --> 0:3:26,6
+At large scales of agriculture, when fields are used quite often,
+
+
+61
+0:3:26,6 --> 0:3:30,1
+then the soil the soil can be restored by applications
+
+
+62
+0:3:30,1 --> 0:3:33,967
+of nitrogen fertilizer, it's usually in the form of ammonium.
+
+
+63
+0:3:33,967 --> 0:3:37,633
+Now, ammonium, remarkably, can actually be made from
+
+
+64
+0:3:37,633 --> 0:3:41,67
+molecular nitrogen, which is in the air, which is very abundant.
+
+
+65
+0:3:41,67 --> 0:3:45,5
+That you may know: The vast majority of the atmosphere is made of nitrogen.
+
+
+66
+0:3:45,5 --> 0:3:47,0
+But it's incredibly inert.
+
+
+67
+0:3:47,0 --> 0:3:51,367
+It won't combine with anything, this triple-bond nitrogen.
+
+
+68
+0:3:51,367 --> 0:3:57,8
+So, in order to coax that nitrogen into a combined form of ammonium,
+
+
+69
+0:3:57,8 --> 0:4:0,867
+there's a process called the Haber-Bosch process,
+
+
+70
+0:4:0,867 --> 0:4:4,33
+which is able to take molecule nitrogen,
+
+
+71
+0:4:4,33 --> 0:4:8,533
+combine it with hydrogen gas at very high temperature,
+
+
+72
+0:4:8,533 --> 0:4:12,7
+very high pressure, with a metal catalyst, and convert it to ammonium.
+
+
+73
+0:4:12,7 --> 0:4:16,233
+That ammonium can then be applied on a field.
+
+
+74
+0:4:16,233 --> 0:4:18,833
+The plants will take up the ammonium, they will make protein,
+
+
+75
+0:4:18,833 --> 0:4:23,5
+and the yield is therefore supported.
+
+
+76
+0:4:23,5 --> 0:4:25,533
+But the problem is this:
+
+
+77
+0:4:25,533 --> 0:4:31,3
+How do we get high temperature and pressure? It's by using fossil fuels.
+
+
+78
+0:4:31,3 --> 0:4:35,667
+It's mostly natural gas, but other fossil fuels can be used,
+
+
+79
+0:4:35,667 --> 0:4:40,667
+and we're all aware of the scarcity and the price of fossil fuels,
+
+
+80
+0:4:40,667 --> 0:4:44,267
+and what lies in the future for their availability.
+
+
+81
+0:4:44,267 --> 0:4:48,133
+That means that we can't necessarily depend on
+
+
+82
+0:4:48,133 --> 0:4:54,367
+unlimited supplies of this kind of ammonium fertilizer.
+
+
+83
+0:4:54,367 --> 0:4:58,233
+Are there alternatives? And it turns out, for millennia,
+
+
+84
+0:4:58,233 --> 0:5:3,3
+farmers in every continent of the world have known of another way.
+
+
+85
+0:5:3,3 --> 0:5:7,9
+That is the use of legumes, a very special group of plants.
+
+
+86
+0:5:7,9 --> 0:5:12,33
+It's a plant family, the Leguminosae, also called Fabaceae,
+
+
+87
+0:5:12,33 --> 0:5:16,767
+the third largest family in the angiosperms, or flowering plants.
+
+
+88
+0:5:16,767 --> 0:5:20,5
+Legumes have this remarkable property that they can associate
+
+
+89
+0:5:20,5 --> 0:5:24,5
+with bacteria from the soil, they can grow a
+
+
+90
+0:5:24,5 --> 0:5:27,367
+new organ called a root nodule.
+
+
+91
+0:5:27,367 --> 0:5:31,667
+The bacteria live inside the root nodule, and once the bacteria are there,
+
+
+92
+0:5:31,667 --> 0:5:38,967
+the bacteria are converting nitrogen into ammonia through an enzyme.
+
+
+93
+0:5:38,967 --> 0:5:41,367
+This is still energy-intensive.
+
+
+94
+0:5:41,367 --> 0:5:46,3
+As biochemists, we wouldn't see that it uses highly reduced electrons
+
+
+95
+0:5:46,3 --> 0:5:49,733
+and a lot of ATP, but is that coming from?
+
+
+96
+0:5:49,733 --> 0:5:51,533
+It's coming from sunlight.
+
+
+97
+0:5:51,533 --> 0:5:57,833
+So, the advantage of this is that we're able to nourish plants,
+
+
+98
+0:5:57,833 --> 0:6:1,6
+and those plants then in turn can nourish the soil,
+
+
+99
+0:6:1,6 --> 0:6:5,4
+in a process that uses a biological catalyst at room temperature,
+
+
+100
+0:6:5,4 --> 0:6:11,933
+at ordinary pressure, and uses sunlight to drive it.
+
+
+101
+0:6:11,933 --> 0:6:16,433
+Now, as I mentioned, farmers throughout the ancient world
+
+
+102
+0:6:16,433 --> 0:6:19,8
+knew about this. They didn't know why it happened,
+
+
+103
+0:6:19,8 --> 0:6:26,833
+but they could see that the use of legumes in agriculture to rotate,
+
+
+104
+0:6:26,833 --> 0:6:31,5
+or to use as a green manure, would assure the fertility of their soil.
+
+
+105
+0:6:31,5 --> 0:6:35,0
+In the New World, farmers used the common bean,
+
+
+106
+0:6:35,0 --> 0:6:39,733
+which is a New World plant. In the Mediterranean, they used lupins.
+
+
+107
+0:6:39,733 --> 0:6:45,6
+In China, they used soybean. And in South Asia and Africa, the cow pea.
+
+
+108
+0:6:45,6 --> 0:6:47,733
+So again, throughout the world,
+
+
+109
+0:6:47,733 --> 0:6:53,533
+crop rotation has been used as a key element of sustainable agriculture.
+
+
+110
+0:6:53,533 --> 0:6:56,0
+So from that view of real nodules,
+
+
+111
+0:6:56,0 --> 0:6:58,967
+I'd like to draw back just a moment for a cartoon,
+
+
+112
+0:6:58,967 --> 0:7:3,333
+so that I can describe this in a more simplified way.
+
+
+113
+0:7:3,333 --> 0:7:7,133
+We know that we're talking about legumes and the way
+
+
+114
+0:7:7,133 --> 0:7:10,5
+in which they form a symbiosis with nitrogen-fixing bacteria.
+
+
+115
+0:7:10,5 --> 0:7:12,767
+And one of the key elements of this
+
+
+116
+0:7:12,767 --> 0:7:16,8
+is that it's able to be used to replace nitrogen fertilizer.
+
+
+117
+0:7:16,8 --> 0:7:22,0
+How does this happen? So, in a schematic form,
+
+
+118
+0:7:22,0 --> 0:7:25,533
+we can imagine that there are these bacteria, the Rhizobium bacteria,
+
+
+119
+0:7:25,533 --> 0:7:26,733
+that grow in the soil.
+
+
+120
+0:7:26,733 --> 0:7:29,1
+They're able to grow slowly as saprophytes,
+
+
+121
+0:7:29,1 --> 0:7:32,833
+just scavenging nutrients from the soil.
+
+
+122
+0:7:32,833 --> 0:7:36,633
+And here's a plant, which, again, could grow if there's fertilizer.
+
+
+123
+0:7:36,633 --> 0:7:40,633
+But in the absence, it's going to have a hard time.
+
+
+124
+0:7:40,633 --> 0:7:43,7
+So, if we've got the right bacteria and plant,
+
+
+125
+0:7:43,7 --> 0:7:47,33
+and I'm going to talk to about that specificity again in a few minutes,
+
+
+126
+0:7:47,33 --> 0:7:48,933
+they interact to form these:
+
+
+127
+0:7:48,933 --> 0:7:52,233
+What's shown here in red are root nodules,
+
+
+128
+0:7:52,233 --> 0:7:54,467
+specialized organs that grow on the root,
+
+
+129
+0:7:54,467 --> 0:8:1,0
+within which the bacteria are able to fix nitrogen.
+
+
+130
+0:8:1,0 --> 0:8:6,567
+So, this is where it's all happening. I love this!
+
+
+131
+0:8:6,567 --> 0:8:9,67
+These are nodules, they're growing on a soybean plant,
+
+
+132
+0:8:9,67 --> 0:8:11,233
+so you can see some of the nodules here,
+
+
+133
+0:8:11,233 --> 0:8:14,167
+the growths that are occurring on the root.
+
+
+134
+0:8:14,167 --> 0:8:18,1
+The plant is up there, and the nodules,
+
+
+135
+0:8:18,1 --> 0:8:21,967
+once they fix nitrogen and make amino acids,
+
+
+136
+0:8:21,967 --> 0:8:25,567
+the plant is able to take those amino acids, put it up in the shoot,
+
+
+137
+0:8:25,567 --> 0:8:29,267
+where it can make chlorophyll, where it can make proteins,
+
+
+138
+0:8:29,267 --> 0:8:34,2
+and ultimately, to make high-protein seeds.
+
+
+139
+0:8:34,2 --> 0:8:37,733
+Now I'd like to make several points about this.
+
+
+140
+0:8:37,733 --> 0:8:42,967
+First, the bacteria in these nodules are fixing nitrogen,
+
+
+141
+0:8:42,967 --> 0:8:45,667
+but even that is energy intensive.
+
+
+142
+0:8:45,667 --> 0:8:50,567
+And as I mentioned, ultimately, it's sunlight, through photosynthesis,
+
+
+143
+0:8:50,567 --> 0:8:53,7
+that allows the plant to support this energy-intensive process
+
+
+144
+0:8:53,7 --> 0:8:57,933
+of nitrogen fixation. It's occurring only in the root nodules,
+
+
+145
+0:8:57,933 --> 0:9:0,867
+it doesn't occur anywhere else in the plant.
+
+
+146
+0:9:0,867 --> 0:9:3,667
+This association is highly specific,
+
+
+147
+0:9:3,667 --> 0:9:6,6
+and I'll show you that in a moment with a table.
+
+
+148
+0:9:6,6 --> 0:9:9,9
+It's also established through a complex developmental process,
+
+
+149
+0:9:9,9 --> 0:9:14,333
+and I'll show you some microscopic views of that.
+
+
+150
+0:9:14,333 --> 0:9:20,5
+And remarkably, this process is restricted,
+
+
+151
+0:9:20,5 --> 0:9:23,367
+with one known exception only, in the world.
+
+
+152
+0:9:23,367 --> 0:9:27,2
+It's restricted to one family, the legume family.
+
+
+153
+0:9:27,2 --> 0:9:30,867
+We know a little bit about why that occurs,
+
+
+154
+0:9:30,867 --> 0:9:34,3
+but there's a lot left to find out.
+
+
+155
+0:9:34,3 --> 0:9:39,167
+The legumes I've mentioned are part of the large family,
+
+
+156
+0:9:39,167 --> 0:9:41,733
+which includes both agriculturally important
+
+
+157
+0:9:41,733 --> 0:9:44,8
+and environmentally important species.
+
+
+158
+0:9:44,8 --> 0:9:48,533
+When we think of high-protein plants, many of the plants
+
+
+159
+0:9:48,533 --> 0:9:54,4
+that come to mind are in fact the legumes.
+
+
+160
+0:9:54,4 --> 0:9:59,533
+Both in terms of their seed content and in terms of the content of their leaves.
+
+
+161
+0:9:59,533 --> 0:10:3,67
+We're familiar with the soybean, cow pea,
+
+
+162
+0:10:3,67 --> 0:10:6,767
+common bean, all being high-protein seeds.
+
+
+163
+0:10:6,767 --> 0:10:9,133
+The pea, again, a high-protein seed.
+
+
+164
+0:10:9,133 --> 0:10:13,567
+Also, alfalfa, which is used as a forage for animals,
+
+
+165
+0:10:13,567 --> 0:10:15,667
+it has very high-protein leaves.
+
+
+166
+0:10:15,667 --> 0:10:20,267
+That's why it's so nourishing for animals such as cattle and horses.
+
+
+167
+0:10:20,267 --> 0:10:26,67
+But beyond the uses for human nutrition, these plants
+
+
+168
+0:10:26,67 --> 0:10:30,267
+are very important in many natural ecosystems throughout the world.
+
+
+169
+0:10:30,267 --> 0:10:33,5
+We might think, for example, of this acacia
+
+
+170
+0:10:33,5 --> 0:10:36,367
+growing up in the African plain.
+
+
+171
+0:10:36,367 --> 0:10:39,433
+Or we could think of this mesquite tree,
+
+
+172
+0:10:39,433 --> 0:10:42,533
+let me show you this one over here.
+
+
+173
+0:10:42,533 --> 0:10:45,9
+And here, a broom plant, a shrub.
+
+
+174
+0:10:45,9 --> 0:10:49,33
+These legume shrubs and trees often grow
+
+
+175
+0:10:49,33 --> 0:10:52,2
+in relatively harsh environments, where they provide nutrition
+
+
+176
+0:10:52,2 --> 0:10:55,867
+for the soil that's around them.
+
+
+177
+0:10:55,867 --> 0:11:0,367
+So, coming back to the development process,
+
+
+178
+0:11:0,367 --> 0:11:5,67
+what we want to know is how is it that those incredibly diverse
+
+
+179
+0:11:5,67 --> 0:11:11,1
+groups of plants are able to establish the association
+
+
+180
+0:11:11,1 --> 0:11:15,333
+with Rhizobium, and why don't other plants do it?
+
+
+181
+0:11:15,333 --> 0:11:21,567
+So, I'd now like to tell you a little bit about the specificity.
+
+
+182
+0:11:21,567 --> 0:11:25,0
+Beyond the specificity for the legume family,
+
+
+183
+0:11:25,0 --> 0:11:29,733
+within that very diverse family, specific legume types,
+
+
+184
+0:11:29,733 --> 0:11:34,9
+such as the soybean, are nodulated not just by any old bacterium,
+
+
+185
+0:11:34,9 --> 0:11:37,4
+but only by certain restricted groups.
+
+
+186
+0:11:37,4 --> 0:11:39,267
+So here we're looking at the soybean,
+
+
+187
+0:11:39,267 --> 0:11:42,6
+and here I'm showing you two different species that are known
+
+
+188
+0:11:42,6 --> 0:11:45,4
+to form symbiotic root nodules on soybean.
+
+
+189
+0:11:45,4 --> 0:11:48,367
+Here we have the pea. It's a legume also,
+
+
+190
+0:11:48,367 --> 0:11:51,133
+but its nodulating bacterium is a different one:
+
+
+191
+0:11:51,133 --> 0:11:53,0
+Rhizobium leguminosarum.
+
+
+192
+0:11:53,0 --> 0:11:56,8
+I'll have occasion to mention pea and Rhizobium leguminosarum
+
+
+193
+0:11:56,8 --> 0:11:59,667
+in the second half of my introduction.
+
+
+194
+0:11:59,667 --> 0:12:3,333
+Here we have a lotus plant called trefoil,
+
+
+195
+0:12:3,333 --> 0:12:8,4
+and it's nodulated by a different genus, Mesorhizobium, species loti.
+
+
+196
+0:12:8,4 --> 0:12:9,9
+And the system that I study,
+
+
+197
+0:12:9,9 --> 0:12:13,433
+which is the genus Medicago, which includes alfalfa,
+
+
+198
+0:12:13,433 --> 0:12:17,733
+and which is nodulated by Sinorhizobium meliloti.
+
+
+199
+0:12:17,733 --> 0:12:19,6
+This is the species you'll hear about,
+
+
+200
+0:12:19,6 --> 0:12:22,0
+in terms of the direct experiments that I describe,
+
+
+201
+0:12:22,0 --> 0:12:24,7
+through the rest of my talk, with the one comparison
+
+
+202
+0:12:24,7 --> 0:12:27,2
+that I've mentioned earlier.
+
+
+203
+0:12:27,2 --> 0:12:32,433
+Now, I've told you that nodule development is complex,
+
+
+204
+0:12:32,433 --> 0:12:34,3
+but I haven't really shown you what I mean.
+
+
+205
+0:12:34,3 --> 0:12:36,567
+And so that's what we want to do next.
+
+
+206
+0:12:36,567 --> 0:12:43,7
+In looking at this, the primary approach that I'll tell you is through microscopy,
+
+
+207
+0:12:43,7 --> 0:12:46,0
+but embedded in that microscopy,
+
+
+208
+0:12:46,0 --> 0:12:50,367
+I'll also tell you a little bit about the physiology.
+
+
+209
+0:12:50,367 --> 0:12:56,2
+So, one of the first changes that occurs when Rhizobium meet a plant,
+
+
+210
+0:12:56,2 --> 0:12:59,133
+is that the root hairs, which are ordinarily straight,
+
+
+211
+0:12:59,133 --> 0:13:3,433
+and here's an example of a fairly normal-looking root hair right here...
+
+
+212
+0:13:3,433 --> 0:13:7,333
+instead, root hairs grow in a way that's deformed.
+
+
+213
+0:13:7,333 --> 0:13:10,567
+Now don't think of this as root hairs curling.
+
+
+214
+0:13:10,567 --> 0:13:12,3
+Plant cells don't curve.
+
+
+215
+0:13:12,3 --> 0:13:17,6
+Think of a plant cell as a balloon inflated really hard inside a box.
+
+
+216
+0:13:17,6 --> 0:13:21,833
+Plant cells don't curl, but they can grow so that they form a curl,
+
+
+217
+0:13:21,833 --> 0:13:23,467
+and that's what happens here.
+
+
+218
+0:13:23,467 --> 0:13:26,467
+If you take a look at this root hair, instead of growing straight,
+
+
+219
+0:13:26,467 --> 0:13:29,567
+it's grown so that it tops over and makes
+
+
+220
+0:13:29,567 --> 0:13:32,767
+what's called a "shepherd's crook" or "crozier."
+
+
+221
+0:13:32,767 --> 0:13:35,367
+In that, you can see a bacterial invasion,
+
+
+222
+0:13:35,367 --> 0:13:37,633
+which is called an infection thread, and that's shown here
+
+
+223
+0:13:37,633 --> 0:13:44,433
+at this highly refractile line going down through the root hair.
+
+
+224
+0:13:44,433 --> 0:13:49,0
+Now, at the same time that invasion is occurring on the outside,
+
+
+225
+0:13:49,0 --> 0:13:53,3
+early events are also occurring inside the plant root,
+
+
+226
+0:13:53,3 --> 0:13:56,9
+so I want you to imagine that the plant root is going out this way.
+
+
+227
+0:13:56,9 --> 0:13:59,33
+Now here we have an uninfected plant root,
+
+
+228
+0:13:59,33 --> 0:14:1,2
+it's typical plant root cells,
+
+
+229
+0:14:1,2 --> 0:14:3,967
+you can see they're very long.
+
+
+230
+0:14:3,967 --> 0:14:8,0
+They look "empty," that's because they're mostly filled with vacuoles,
+
+
+231
+0:14:8,0 --> 0:14:10,5
+a large vacuole.
+
+
+232
+0:14:10,5 --> 0:14:16,6
+Plant root cells, in the cortex here, have one main job:
+
+
+233
+0:14:16,6 --> 0:14:19,667
+That is to transport and transport and transport...
+
+
+234
+0:14:19,667 --> 0:14:22,467
+water, ions, nutrients, and so forth.
+
+
+235
+0:14:22,467 --> 0:14:25,6
+That's what these cells do; they don't divide.
+
+
+236
+0:14:25,6 --> 0:14:29,133
+But if the correct Rhizobium, and this is an example of something
+
+
+237
+0:14:29,133 --> 0:14:32,633
+that happens only if you have the right species of bacterium and plant...
+
+
+238
+0:14:32,633 --> 0:14:37,933
+if the correct Rhizobium is infected onto that plant, you get this.
+
+
+239
+0:14:37,933 --> 0:14:40,733
+You can see the mitotic figures happening here,
+
+
+240
+0:14:40,733 --> 0:14:45,4
+the cells in the inner cortex of the root have begun to divide.
+
+
+241
+0:14:45,4 --> 0:14:50,267
+They're going to form what's called a "primordium."
+
+
+242
+0:14:50,267 --> 0:14:52,833
+Those cells continue dividing,
+
+
+243
+0:14:52,833 --> 0:14:56,433
+and the infection that started with an infection thread,
+
+
+244
+0:14:56,433 --> 0:15:0,633
+continues all the way through into these newly dividing cells.
+
+
+245
+0:15:0,633 --> 0:15:4,0
+Here you can see a cell that's just starting to divide.
+
+
+246
+0:15:4,0 --> 0:15:8,533
+And what happens is that, if you can follow this arrow,
+
+
+247
+0:15:8,533 --> 0:15:13,833
+you can see right here, there is a little, membrane-bound,
+
+
+248
+0:15:13,833 --> 0:15:15,4
+kind of an empty-looking vacuole,
+
+
+249
+0:15:15,4 --> 0:15:18,567
+and within it, a peach-colored oblong.
+
+
+250
+0:15:18,567 --> 0:15:21,2
+That is a single Rhizobium bacterium that's
+
+
+251
+0:15:21,2 --> 0:15:24,867
+being taken up into the host cell, and it's being engulfed
+
+
+252
+0:15:24,867 --> 0:15:28,933
+by plant plasma membrane that's going to differentiate
+
+
+253
+0:15:28,933 --> 0:15:33,367
+and provide a special compartment that the Rhizobium
+
+
+254
+0:15:33,367 --> 0:15:37,167
+will be in when it starts to fix nitrogen.
+
+
+255
+0:15:37,167 --> 0:15:41,167
+So, the bacteria at this point are released from the infection thread,
+
+
+256
+0:15:41,167 --> 0:15:45,267
+and they're bound in plant membrane sacs.
+
+
+257
+0:15:45,267 --> 0:15:48,9
+But that doesn't do justice to what's going on.
+
+
+258
+0:15:48,9 --> 0:15:52,0
+This bacterium is part of a more elaborate compartment,
+
+
+259
+0:15:52,0 --> 0:15:55,867
+and I'm showing that compartment here.
+
+
+260
+0:15:55,867 --> 0:16:0,933
+This, shown in orange, is the bacterium.
+
+
+261
+0:16:0,933 --> 0:16:3,2
+But you see there's an extra boundary.
+
+
+262
+0:16:3,2 --> 0:16:6,8
+There's not just the bacterial membrane, but there's another membrane.
+
+
+263
+0:16:6,8 --> 0:16:9,467
+That's referred to as the symbiosome membrane.
+
+
+264
+0:16:9,467 --> 0:16:11,967
+It's derived from the plant plasma membrane
+
+
+265
+0:16:11,967 --> 0:16:16,267
+that was used to engulf the bacterium when it first entered the host cell.
+
+
+266
+0:16:16,267 --> 0:16:20,133
+But at this point, it's become a distinctive compartment,
+
+
+267
+0:16:20,133 --> 0:16:25,0
+with its own protein trafficking signals.
+
+
+268
+0:16:25,0 --> 0:16:29,5
+I'll just tell you a little bit about the basics of transport.
+
+
+269
+0:16:29,5 --> 0:16:32,33
+Of course, this is the real action:
+
+
+270
+0:16:32,33 --> 0:16:38,33
+We have nitrogen converted enzymatically into ammonium.
+
+
+271
+0:16:38,33 --> 0:16:41,6
+This uses ATP and highly reduced electrons,
+
+
+272
+0:16:41,6 --> 0:16:46,567
+and that ammonium is in turn transported out to the plant.
+
+
+273
+0:16:46,567 --> 0:16:50,367
+As I've mentioned before, the bacterium gets energy from the plant.
+
+
+274
+0:16:50,367 --> 0:16:55,967
+Malate, and other dicarboxylic acids, are transported into the bacterium.
+
+
+275
+0:16:55,967 --> 0:16:59,667
+From there, they enter into the bacteria's own metabolism.
+
+
+276
+0:16:59,667 --> 0:17:2,967
+So, plant photosynthate providing energy,
+
+
+277
+0:17:2,967 --> 0:17:6,7
+bacterial nitrogen fixation providing ammonium.
+
+
+278
+0:17:6,7 --> 0:17:10,67
+That had been suspected for a long time.
+
+
+279
+0:17:10,67 --> 0:17:14,633
+But emerging data from a number of labs shows that there's more going on.
+
+
+280
+0:17:14,633 --> 0:17:18,3
+In fact, genetic data show a shuttle involving
+
+
+281
+0:17:18,3 --> 0:17:21,733
+amino acids that are transported in and out,
+
+
+282
+0:17:21,733 --> 0:17:25,8
+is also critical to sustain nitrogen fixation.
+
+
+283
+0:17:25,8 --> 0:17:31,7
+How this occurs is a subject of a great deal of ongoing research.
+
+
+284
+0:17:31,7 --> 0:17:36,267
+We've got all of these cells, which are packed with bacteria,
+
+
+285
+0:17:36,267 --> 0:17:37,8
+which are fixing nitrogen.
+
+
+286
+0:17:37,8 --> 0:17:45,367
+So inside these cells, we've got ammonia created from molecular nitrogen.
+
+
+287
+0:17:45,367 --> 0:17:49,733
+And over here, you can see the vasculature of the plant,
+
+
+288
+0:17:49,733 --> 0:17:55,1
+so you can imagine that the stem of the root is going to go up like this,
+
+
+289
+0:17:55,1 --> 0:17:58,867
+and the stele, the vascular tissue in the root,
+
+
+290
+0:17:58,867 --> 0:18:2,367
+is going to transport all of those amino acids up to nourish
+
+
+291
+0:18:2,367 --> 0:18:5,2
+the rest of the plant.
+
+
+292
+0:18:5,2 --> 0:18:9,8
+So, I've now shown you in this first part of the overview
+
+
+293
+0:18:9,8 --> 0:18:15,167
+that nodulation occurs by a very complex developmental process.
+
+
+294
+0:18:15,167 --> 0:18:18,4
+It's species-specific, and the events that I showed you
+
+
+295
+0:18:18,4 --> 0:18:21,7
+occur only if the correct Rhizobium and correct plant
+
+
+296
+0:18:21,7 --> 0:18:24,867
+come into combination. Now, in the next segment,
+
+
+297
+0:18:24,867 --> 0:18:30,367
+what I'd like to do is talk about how the bacteria and the plant
+
+
+298
+0:18:30,367 --> 0:18:33,167
+create signals that stimulate each other to
+
+
+299
+0:18:33,167 --> 0:18:35,867
+begin their developmental process.
+
+
+300
+0:18:35,867 --> 0:18:39,867
+And so in that next slide, we're going to ask this question:
+
+
+301
+0:18:39,867 --> 0:20:39,867
+How do plants and bacteria use chemical signals for recognition?
+
+

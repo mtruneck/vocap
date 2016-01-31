@@ -1,0 +1,1736 @@
+1
+0:0:0,0 --> 0:0:0,18
+
+
+
+2
+0:0:0,18 --> 0:0:0,316
+STEVE SPANGLER: All right.
+
+
+3
+0:0:0,316 --> 0:0:1,84
+This week I've got something
+great for you.
+
+
+4
+0:0:1,84 --> 0:0:3,722
+You're going to need to get a
+whole bunch of materials, corn
+
+
+5
+0:0:3,722 --> 0:0:5,23
+starch, and water, and a bowl.
+
+
+6
+0:0:5,23 --> 0:0:6,6
+You're actually going
+to use your phone.
+
+
+7
+0:0:6,6 --> 0:0:8,29
+And you're going to get
+a tone generator.
+
+
+8
+0:0:8,29 --> 0:0:9,43
+You're going to get
+an amplifier--
+
+
+9
+0:0:9,43 --> 0:0:15,23
+[EQUIPMENT CRASHING TO GROUND]
+
+
+10
+0:0:15,23 --> 0:0:15,95
+STEVE SPANGLER: Higginsworth.
+
+
+11
+0:0:15,95 --> 0:0:17,36
+HIGGINSWORTH: Sorry, Steve.
+
+
+12
+0:0:17,36 --> 0:0:19,4
+STEVE SPANGLER: I'm Steve
+Spangler, and I'm all about
+
+
+13
+0:0:19,4 --> 0:0:20,46
+making science fun.
+
+
+14
+0:0:20,46 --> 0:0:23,45
+For the last 20 years, I've
+been teaching ways to turn
+
+
+15
+0:0:23,45 --> 0:0:26,46
+ordinary science experiments
+into unforgettable learning
+
+
+16
+0:0:26,46 --> 0:0:27,5
+experiences.
+
+
+17
+0:0:27,5 --> 0:0:30,11
+I have an amazing team who will
+do whatever it takes to
+
+
+18
+0:0:30,11 --> 0:0:32,369
+affect the way people
+think about science.
+
+
+19
+0:0:32,369 --> 0:0:36,55
+And to do that, I live by one
+motto, make it big, do it
+
+
+20
+0:0:36,55 --> 0:0:38,1
+right, give it class.
+
+
+21
+0:0:38,1 --> 0:0:43,692
+
+
+
+22
+0:0:43,692 --> 0:0:44,16
+All right.
+
+
+23
+0:0:44,16 --> 0:0:44,65
+Dog's in.
+
+
+24
+0:0:44,65 --> 0:0:45,61
+Door's locked.
+
+
+25
+0:0:45,61 --> 0:0:46,215
+We're set.
+
+
+26
+0:0:46,215 --> 0:0:48,6
+Just look around for people,
+make sure we're OK.
+
+
+27
+0:0:48,6 --> 0:0:48,67
+Ready?
+
+
+28
+0:0:48,67 --> 0:0:49,0
+Run.
+
+
+29
+0:0:49,0 --> 0:0:49,325
+Go.
+
+
+30
+0:0:49,325 --> 0:0:51,12
+Go, go, go, go, go.
+
+
+31
+0:0:51,12 --> 0:0:53,82
+Higgins, I thought you
+got the dog inside.
+
+
+32
+0:0:53,82 --> 0:0:56,11
+If you don't have speakers of
+your own, sometimes you can
+
+
+33
+0:0:56,11 --> 0:0:57,16
+borrow your neighbors,
+especially if you're
+
+
+34
+0:0:57,16 --> 0:0:58,56
+watching the dog.
+
+
+35
+0:0:58,56 --> 0:1:0,7
+You just have to
+be responsible.
+
+
+36
+0:1:0,7 --> 0:1:1,84
+Higgins, get the dog back in.
+
+
+37
+0:1:1,84 --> 0:1:4,26
+-(YELLING) Doggie.
+
+
+38
+0:1:4,26 --> 0:1:6,93
+It's not going to
+be a good day.
+
+
+39
+0:1:6,93 --> 0:1:9,73
+What I love about today is a
+combination of old and new.
+
+
+40
+0:1:9,73 --> 0:1:12,12
+You're going to do a classic
+experiment using corn starch
+
+
+41
+0:1:12,12 --> 0:1:14,63
+and water where we make this
+non-Newtonian fluid.
+
+
+42
+0:1:14,63 --> 0:1:16,25
+We're going to put a little
+twist on that, which makes it
+
+
+43
+0:1:16,25 --> 0:1:16,9
+kind of fun.
+
+
+44
+0:1:16,9 --> 0:1:18,9
+And that's why you're going to
+need to have all the other
+
+
+45
+0:1:18,9 --> 0:1:19,79
+things that I was
+talking about.
+
+
+46
+0:1:19,79 --> 0:1:22,8
+And especially these speakers
+that we just bought over here.
+
+
+47
+0:1:22,8 --> 0:1:25,275
+And even though Higginsworth
+broke these, this one will be
+
+
+48
+0:1:25,275 --> 0:1:26,16
+just perfectly fine.
+
+
+49
+0:1:26,16 --> 0:1:26,97
+It's just gonna need--
+
+
+50
+0:1:26,97 --> 0:1:28,56
+[EQUIPMENT CRASHING TO GROUND]
+
+
+51
+0:1:28,56 --> 0:1:29,27
+STEVE SPANGLER: OK.
+
+
+52
+0:1:29,27 --> 0:1:31,59
+But these here are going
+to be perfect for
+
+
+53
+0:1:31,59 --> 0:1:32,84
+exactly what we need.
+
+
+54
+0:1:32,84 --> 0:1:35,8
+
+
+
+55
+0:1:35,8 --> 0:1:37,54
+Big mixing bowl, corn
+starch, you're going
+
+
+56
+0:1:37,54 --> 0:1:38,55
+to need paper towels.
+
+
+57
+0:1:38,55 --> 0:1:39,8
+And you're going to need
+to have some--
+
+
+58
+0:1:39,8 --> 0:1:42,39
+
+
+
+59
+0:1:42,39 --> 0:1:44,71
+water, because it's
+going to be messy.
+
+
+60
+0:1:44,71 --> 0:1:45,69
+Start with the corn starch.
+
+
+61
+0:1:45,69 --> 0:1:48,39
+All right, what we're actually
+making here is considered a
+
+
+62
+0:1:48,39 --> 0:1:50,31
+non-Newtonian fluid.
+
+
+63
+0:1:50,31 --> 0:1:52,79
+And more about that when we
+start looking at the thickness
+
+
+64
+0:1:52,79 --> 0:1:53,3
+of the mixture.
+
+
+65
+0:1:53,3 --> 0:1:54,975
+But again, I'm not going to
+dump the entire thing.
+
+
+66
+0:1:54,975 --> 0:1:57,2
+I'm gonna leave just a little
+bit there, because I'm going
+
+
+67
+0:1:57,2 --> 0:1:59,96
+to want to be able to, if it's
+too runny, add just a little
+
+
+68
+0:1:59,96 --> 0:2:1,34
+bit more without having
+to bust open
+
+
+69
+0:2:1,34 --> 0:2:2,52
+another box of corn starch.
+
+
+70
+0:2:2,52 --> 0:2:4,92
+If you haven't played with corn
+starch just by itself, it
+
+
+71
+0:2:4,92 --> 0:2:9,9
+has this crazy property just
+without water, almost squeaks
+
+
+72
+0:2:9,9 --> 0:2:9,75
+in your fingers.
+
+
+73
+0:2:9,75 --> 0:2:12,13
+As soon as you add water, you're
+just kind of working it
+
+
+74
+0:2:12,13 --> 0:2:15,82
+in, and waiting for it
+to be almost the
+
+
+75
+0:2:15,82 --> 0:2:16,97
+consistency of honey.
+
+
+76
+0:2:16,97 --> 0:2:19,79
+So just small batches of
+water and work it in.
+
+
+77
+0:2:19,79 --> 0:2:22,375
+The only way I found to
+do this is to work
+
+
+78
+0:2:22,375 --> 0:2:25,47
+it with your hands.
+
+
+79
+0:2:25,47 --> 0:2:28,25
+When we talk about a
+non-Newtonian fluid, it means
+
+
+80
+0:2:28,25 --> 0:2:31,5
+that it doesn't obey the
+rules or the laws that
+
+
+81
+0:2:31,5 --> 0:2:32,5
+Isaac Newton set out.
+
+
+82
+0:2:32,5 --> 0:2:33,49
+And he talked about viscosity.
+
+
+83
+0:2:33,49 --> 0:2:36,53
+Now, viscosity is the thickness
+of a material.
+
+
+84
+0:2:36,53 --> 0:2:39,78
+So, for example, honey or
+ketchup has a high viscosity,
+
+
+85
+0:2:39,78 --> 0:2:42,31
+water has a very
+low viscosity.
+
+
+86
+0:2:42,31 --> 0:2:45,21
+And it said that the only way
+that you can change viscosity
+
+
+87
+0:2:45,21 --> 0:2:46,41
+is with the temperature.
+
+
+88
+0:2:46,41 --> 0:2:48,6
+However, you're going to see
+here in just a minute, and as
+
+
+89
+0:2:48,6 --> 0:2:50,99
+you're playing with it you can
+see, that this almost becomes
+
+
+90
+0:2:50,99 --> 0:2:53,575
+like a solid when you
+put force on it.
+
+
+91
+0:2:53,575 --> 0:2:56,45
+And it's a liquid when
+you allow it to flow.
+
+
+92
+0:2:56,45 --> 0:2:59,32
+That's why they call it a
+non-Newtonian solution.
+
+
+93
+0:2:59,32 --> 0:3:2,34
+Let's see if this is
+just about right.
+
+
+94
+0:3:2,34 --> 0:3:4,12
+I think it's perfect.
+
+
+95
+0:3:4,12 --> 0:3:7,6
+When it has this consistency
+right here, you know that
+
+
+96
+0:3:7,6 --> 0:3:8,63
+you've got a perfect batch.
+
+
+97
+0:3:8,63 --> 0:3:11,75
+So make sure that the batch is
+good before you move on.
+
+
+98
+0:3:11,75 --> 0:3:15,38
+And now it's time for
+the slap test.
+
+
+99
+0:3:15,38 --> 0:3:17,63
+So you're going to take the
+mixture and pour the mixture
+
+
+100
+0:3:17,63 --> 0:3:20,1
+out onto a tray.
+
+
+101
+0:3:20,1 --> 0:3:20,8
+This is perfect.
+
+
+102
+0:3:20,8 --> 0:3:23,5
+It flows like a liquid.
+
+
+103
+0:3:23,5 --> 0:3:25,99
+And the only way that there's
+a change there, is with the
+
+
+104
+0:3:25,99 --> 0:3:28,3
+pressure or the stress
+that you put on this.
+
+
+105
+0:3:28,3 --> 0:3:30,52
+So normally, if you would take
+a liquid like this, this
+
+
+106
+0:3:30,52 --> 0:3:33,445
+liquid here, and you slap it,
+it would go everywhere.
+
+
+107
+0:3:33,445 --> 0:3:34,895
+I think it's going
+to be a solid.
+
+
+108
+0:3:34,895 --> 0:3:36,145
+Watch this.
+
+
+109
+0:3:36,145 --> 0:3:39,27
+
+
+
+110
+0:3:39,27 --> 0:3:40,34
+That's awesome.
+
+
+111
+0:3:40,34 --> 0:3:42,93
+See, what we've actually made
+here is a suspension.
+
+
+112
+0:3:42,93 --> 0:3:45,542
+You have a finely dispersed
+particle, that's the corn
+
+
+113
+0:3:45,542 --> 0:3:48,38
+starch, dispersed in the liquid
+that's there, and it's
+
+
+114
+0:3:48,38 --> 0:3:49,35
+kind of holding it in place.
+
+
+115
+0:3:49,35 --> 0:3:50,82
+It doesn't last for
+a long time.
+
+
+116
+0:3:50,82 --> 0:3:53,39
+So you can't make a mixture of
+corn starch and water and
+
+
+117
+0:3:53,39 --> 0:3:54,77
+leave it for weeks and weeks.
+
+
+118
+0:3:54,77 --> 0:3:56,6
+It'll actually settle
+out and become
+
+
+119
+0:3:56,6 --> 0:3:57,68
+almost hard like concrete.
+
+
+120
+0:3:57,68 --> 0:4:0,94
+So you really only have a life
+expectancy of maybe four or
+
+
+121
+0:4:0,94 --> 0:4:3,15
+five hours as you're
+playing with this.
+
+
+122
+0:4:3,15 --> 0:4:6,16
+It's impossible to take your
+hands out of it and to
+
+
+123
+0:4:6,16 --> 0:4:8,59
+understand that you've actually
+made something that
+
+
+124
+0:4:8,59 --> 0:4:11,44
+defies Newton's laws
+of viscosity.
+
+
+125
+0:4:11,44 --> 0:4:15,129
+It's a liquid, and behaves like
+a solid at the same time.
+
+
+126
+0:4:15,129 --> 0:4:17,49
+All right, back to
+the bowl you go.
+
+
+127
+0:4:17,49 --> 0:4:20,43
+
+
+
+128
+0:4:20,43 --> 0:4:21,94
+Look at the shear factor
+that's there.
+
+
+129
+0:4:21,94 --> 0:4:23,13
+It literally--
+
+
+130
+0:4:23,13 --> 0:4:24,89
+you can break off of a piece.
+
+
+131
+0:4:24,89 --> 0:4:26,53
+And you want to know
+the best thing?
+
+
+132
+0:4:26,53 --> 0:4:29,8
+The place that you do this, a
+friend's home, will look like
+
+
+133
+0:4:29,8 --> 0:4:33,9
+corn starch for the
+next five weeks.
+
+
+134
+0:4:33,9 --> 0:4:34,2
+Here's a cool thing to try.
+
+
+135
+0:4:34,2 --> 0:4:36,2
+Just take a small amount
+and actually roll it.
+
+
+136
+0:4:36,2 --> 0:4:37,5
+You can actually roll it.
+
+
+137
+0:4:37,5 --> 0:4:39,79
+It feels like it crumbles,
+or will roll into a ball.
+
+
+138
+0:4:39,79 --> 0:4:43,83
+And the moment you stop,
+it just simply flows.
+
+
+139
+0:4:43,83 --> 0:4:45,155
+It really is amazing.
+
+
+140
+0:4:45,155 --> 0:4:47,84
+All right, we're going to need
+to have an amplifier.
+
+
+141
+0:4:47,84 --> 0:4:50,13
+This a pretty good opportunity
+for you to head to your local
+
+
+142
+0:4:50,13 --> 0:4:51,82
+thrift store and just
+find something.
+
+
+143
+0:4:51,82 --> 0:4:54,26
+I would not damage any
+really, really good
+
+
+144
+0:4:54,26 --> 0:4:55,2
+equipment doing this.
+
+
+145
+0:4:55,2 --> 0:4:57,42
+So we're just using
+an amplifier.
+
+
+146
+0:4:57,42 --> 0:5:0,17
+I've hooked up the speaker in
+the very back of the amplifier
+
+
+147
+0:5:0,17 --> 0:5:3,32
+to these little clip leads that
+you see here because I
+
+
+148
+0:5:3,32 --> 0:5:5,85
+have a surplus speaker.
+
+
+149
+0:5:5,85 --> 0:5:8,38
+So we just found a speaker
+cabinet at a thrift store that
+
+
+150
+0:5:8,38 --> 0:5:12,12
+was damaged, and for $5.00,
+found the speaker.
+
+
+151
+0:5:12,12 --> 0:5:13,4
+By doing this enough,
+you're actually
+
+
+152
+0:5:13,4 --> 0:5:14,26
+going to ruin the speaker.
+
+
+153
+0:5:14,26 --> 0:5:15,11
+Look at this.
+
+
+154
+0:5:15,11 --> 0:5:16,77
+You can see that I've
+ruined the cone.
+
+
+155
+0:5:16,77 --> 0:5:19,95
+The cone has become detached
+from this as we've vibrated as
+
+
+156
+0:5:19,95 --> 0:5:22,9
+hard as we're gonna vibrate
+it here in just a second.
+
+
+157
+0:5:22,9 --> 0:5:25,45
+So don't use your
+best speakers.
+
+
+158
+0:5:25,45 --> 0:5:28,2
+Or, don't use your speakers.
+
+
+159
+0:5:28,2 --> 0:5:31,34
+Black lead to the black,
+red to the red.
+
+
+160
+0:5:31,34 --> 0:5:32,91
+And now we need tone.
+
+
+161
+0:5:32,91 --> 0:5:35,69
+So I'm just going to make sure
+that these stay separated and
+
+
+162
+0:5:35,69 --> 0:5:36,9
+don't touch.
+
+
+163
+0:5:36,9 --> 0:5:38,965
+And now we need a
+tone generator.
+
+
+164
+0:5:38,965 --> 0:5:42,22
+It's as simple as a free
+app on your phone.
+
+
+165
+0:5:42,22 --> 0:5:45,11
+All right, I just downloaded
+a tone frequency generator.
+
+
+166
+0:5:45,11 --> 0:5:47,6
+So go to your app store
+and search for a
+
+
+167
+0:5:47,6 --> 0:5:48,23
+tone frequency generator.
+
+
+168
+0:5:48,23 --> 0:5:49,55
+This was free.
+
+
+169
+0:5:49,55 --> 0:5:51,22
+And this just produces
+these tones.
+
+
+170
+0:5:51,22 --> 0:5:53,99
+[SCALE OF TONES]
+
+
+171
+0:5:53,99 --> 0:5:55,64
+STEVE SPANGLER: Now you need to
+take the tone generator and
+
+
+172
+0:5:55,64 --> 0:5:58,42
+plug it into the amplifier.
+
+
+173
+0:5:58,42 --> 0:5:58,99
+Perfect.
+
+
+174
+0:5:58,99 --> 0:6:2,25
+[TONE]
+
+
+175
+0:6:2,25 --> 0:6:3,22
+STEVE SPANGLER: Even with
+a bad speaker, it
+
+
+176
+0:6:3,22 --> 0:6:5,42
+sounds pretty good.
+
+
+177
+0:6:5,42 --> 0:6:7,22
+We're going to send the sound
+through the speaker, but I
+
+
+178
+0:6:7,22 --> 0:6:9,21
+don't want to ruin the
+speaker necessarily.
+
+
+179
+0:6:9,21 --> 0:6:12,11
+So I want to be able to cover it
+with a small amount of this
+
+
+180
+0:6:12,11 --> 0:6:13,83
+Saran Wrap here.
+
+
+181
+0:6:13,83 --> 0:6:19,22
+So this will keep the corn
+starch away from the cone.
+
+
+182
+0:6:19,22 --> 0:6:20,89
+And now we're going to take
+some of our corn starch
+
+
+183
+0:6:20,89 --> 0:6:24,58
+mixture and pour it right here
+onto the Saran Wrap that's on
+
+
+184
+0:6:24,58 --> 0:6:25,8
+top of the cone.
+
+
+185
+0:6:25,8 --> 0:6:27,95
+We want to be able to cover
+the entire speaker, but we
+
+
+186
+0:6:27,95 --> 0:6:30,51
+don't want too much.
+
+
+187
+0:6:30,51 --> 0:6:32,749
+That's just about
+enough, I think.
+
+
+188
+0:6:32,749 --> 0:6:36,97
+
+
+
+189
+0:6:36,97 --> 0:6:38,5
+So we're gonna start
+with 1,000 hertz.
+
+
+190
+0:6:38,5 --> 0:6:41,95
+It's that tone that you've heard
+on video before, you
+
+
+191
+0:6:41,95 --> 0:6:42,8
+know that beeping sound.
+
+
+192
+0:6:42,8 --> 0:6:44,52
+Even though we're pumping it
+through at a pretty loud
+
+
+193
+0:6:44,52 --> 0:6:48,42
+volume, it's not doing anything,
+or affecting the
+
+
+194
+0:6:48,42 --> 0:6:49,67
+corn starch at all.
+
+
+195
+0:6:49,67 --> 0:6:52,67
+[LOUD TONE]
+
+
+196
+0:6:52,67 --> 0:6:54,16
+STEVE SPANGLER: Now we need to
+bring it a little lower.
+
+
+197
+0:6:54,16 --> 0:6:55,612
+[VIBRATING NOISE]
+
+
+198
+0:6:55,612 --> 0:6:57,55
+STEVE SPANGLER: Ah,
+that's perfect.
+
+
+199
+0:6:57,55 --> 0:6:58,5
+That's what we're looking for.
+
+
+200
+0:6:58,5 --> 0:6:59,95
+Watch this.
+
+
+201
+0:6:59,95 --> 0:7:2,58
+As it starts to move,
+look at this.
+
+
+202
+0:7:2,58 --> 0:7:7,73
+It starts to behave almost
+like a little monster.
+
+
+203
+0:7:7,73 --> 0:7:9,16
+That's why they call
+them "corn starch
+
+
+204
+0:7:9,16 --> 0:7:10,35
+monsters." Look at this.
+
+
+205
+0:7:10,35 --> 0:7:13,8
+Look at the movement here.
+
+
+206
+0:7:13,8 --> 0:7:16,85
+Literally, it takes on a mind of
+it's own as it wiggles and
+
+
+207
+0:7:16,85 --> 0:7:20,76
+moves its way up, behaving like
+a solid and a liquid at
+
+
+208
+0:7:20,76 --> 0:7:24,97
+the same time, spraying
+everywhere.
+
+
+209
+0:7:24,97 --> 0:7:28,21
+But even this silly little
+speaker here that's not that
+
+
+210
+0:7:28,21 --> 0:7:31,996
+good does a pretty good job.
+
+
+211
+0:7:31,996 --> 0:7:36,45
+Wonder what it would look like
+if we had a great speaker.
+
+
+212
+0:7:36,45 --> 0:7:39,48
+While that little speaker was
+good, the neighbor's big
+
+
+213
+0:7:39,48 --> 0:7:41,59
+speaker, the speaker
+that we bought,
+
+
+214
+0:7:41,59 --> 0:7:44,57
+is going to be awesome.
+
+
+215
+0:7:44,57 --> 0:7:46,16
+Now, we don't want to
+ruin this speaker.
+
+
+216
+0:7:46,16 --> 0:7:47,92
+And so here's what
+I'm trying to do.
+
+
+217
+0:7:47,92 --> 0:7:49,816
+I want to cover it up with
+some plastic, you can see
+
+
+218
+0:7:49,816 --> 0:7:50,14
+we've done that.
+
+
+219
+0:7:50,14 --> 0:7:51,81
+A little bit duct tape
+around here.
+
+
+220
+0:7:51,81 --> 0:7:55,83
+And now, the corn starch goes
+right in the middle.
+
+
+221
+0:7:55,83 --> 0:7:56,77
+Who am I kidding?
+
+
+222
+0:7:56,77 --> 0:7:59,36
+This will ruin the speaker,
+because just the mere weight
+
+
+223
+0:7:59,36 --> 0:8:1,95
+of this on the cone will start
+to tear the cone away.
+
+
+224
+0:8:1,95 --> 0:8:6,73
+So do not use a good speaker.
+
+
+225
+0:8:6,73 --> 0:8:10,53
+And we got it from the thrift
+store as a joke.
+
+
+226
+0:8:10,53 --> 0:8:12,42
+So say you want to turn this
+into a science fair project.
+
+
+227
+0:8:12,42 --> 0:8:13,8
+It's very cool.
+
+
+228
+0:8:13,8 --> 0:8:14,28
+You just have to have
+a question.
+
+
+229
+0:8:14,28 --> 0:8:17,2
+So the question might be, at
+what frequency can you vibrate
+
+
+230
+0:8:17,2 --> 0:8:19,1
+a non-Newtonian fluid
+to give you the
+
+
+231
+0:8:19,1 --> 0:8:21,19
+best corn starch monster?
+
+
+232
+0:8:21,19 --> 0:8:22,13
+Pretty good.
+
+
+233
+0:8:22,13 --> 0:8:24,67
+You're going to have to download
+the app and try to
+
+
+234
+0:8:24,67 --> 0:8:26,55
+experiment on your own.
+
+
+235
+0:8:26,55 --> 0:8:29,2
+20 hertz is awesome.
+
+
+236
+0:8:29,2 --> 0:8:30,305
+Just between you and me.
+
+
+237
+0:8:30,305 --> 0:8:32,64
+But experiment.
+
+
+238
+0:8:32,64 --> 0:8:34,36
+All right, we're at 20 hertz.
+
+
+239
+0:8:34,36 --> 0:8:35,8
+Watch this.
+
+
+240
+0:8:35,8 --> 0:8:40,929
+[VIBRATING NOISE]
+
+
+241
+0:8:40,929 --> 0:8:42,83
+STEVE SPANGLER: You start to see
+a little bit of distress
+
+
+242
+0:8:42,83 --> 0:8:43,839
+right here.
+
+
+243
+0:8:43,839 --> 0:8:46,82
+And then you start
+to see it move.
+
+
+244
+0:8:46,82 --> 0:8:48,83
+You notice that this big
+speaker is good.
+
+
+245
+0:8:48,83 --> 0:8:52,1
+But cranked up with 100 watt
+amplifier, this is about the
+
+
+246
+0:8:52,1 --> 0:8:53,52
+best I'm getting here.
+
+
+247
+0:8:53,52 --> 0:8:58,97
+So sometimes bigger is not
+necessarily better.
+
+
+248
+0:8:58,97 --> 0:9:1,42
+It is cool, but it's not giving
+us the corn starch
+
+
+249
+0:9:1,42 --> 0:9:3,195
+monster that we really want.
+
+
+250
+0:9:3,195 --> 0:9:5,94
+So while this doesn't produce
+the best corn starch monster,
+
+
+251
+0:9:5,94 --> 0:9:8,84
+you can vary the frequency and
+actually see the pattern that
+
+
+252
+0:9:8,84 --> 0:9:10,495
+different frequencies make.
+
+
+253
+0:9:10,495 --> 0:9:12,57
+It's kind of an interesting
+observation, especially since
+
+
+254
+0:9:12,57 --> 0:9:13,57
+you have the tone generator.
+
+
+255
+0:9:13,57 --> 0:9:36,88
+[VIBRATING NOISE]
+
+
+256
+0:9:36,88 --> 0:9:39,16
+STEVE SPANGLER: Well, if we want
+good response, we have to
+
+
+257
+0:9:39,16 --> 0:9:39,99
+move to the sub-woofer.
+
+
+258
+0:9:39,99 --> 0:9:42,7
+This is perfect for that
+low base response.
+
+
+259
+0:9:42,7 --> 0:9:47,307
+I think it's going to give
+us exactly what we want.
+
+
+260
+0:9:47,307 --> 0:9:49,255
+[VIBRATING NOISE]
+
+
+261
+0:9:49,255 --> 0:9:50,505
+STEVE SPANGLER: Sounding good.
+
+
+262
+0:9:50,505 --> 0:9:54,84
+
+
+
+263
+0:9:54,84 --> 0:9:58,33
+This is just the perfect
+consistency.
+
+
+264
+0:9:58,33 --> 0:10:3,23
+Just thin enough to vibrate,
+but to still give you that
+
+
+265
+0:10:3,23 --> 0:10:7,394
+nice non-Newtonian property.
+
+
+266
+0:10:7,394 --> 0:10:18,9
+[VIBRATING NOISE]
+
+
+267
+0:10:18,9 --> 0:10:18,96
+STEVE SPANGLER: You've got to
+play with the frequency,
+
+
+268
+0:10:18,96 --> 0:10:21,9
+because you're gonna get just
+the perfect frequency to give
+
+
+269
+0:10:21,9 --> 0:10:24,34
+you the greatest corn
+starch monsters.
+
+
+270
+0:10:24,34 --> 0:10:26,89
+Look at them start to move
+up here, kind of
+
+
+271
+0:10:26,89 --> 0:10:28,14
+dance their way around.
+
+
+272
+0:10:28,14 --> 0:10:34,41
+
+
+
+273
+0:10:34,41 --> 0:10:35,2
+We need more.
+
+
+274
+0:10:35,2 --> 0:10:36,215
+We need color.
+
+
+275
+0:10:36,215 --> 0:10:37,915
+All right, a little bit
+of food coloring.
+
+
+276
+0:10:37,915 --> 0:10:40,93
+So here's some food
+coloring here.
+
+
+277
+0:10:40,93 --> 0:10:43,65
+Let's just see what this color
+here, whether or not it'll
+
+
+278
+0:10:43,65 --> 0:10:46,51
+shoot up and make
+some changes.
+
+
+279
+0:10:46,51 --> 0:10:48,33
+All we're looking for
+are some changes
+
+
+280
+0:10:48,33 --> 0:10:48,83
+in the little patterns.
+
+
+281
+0:10:48,83 --> 0:10:51,46
+And we think the colors
+are gonna make
+
+
+282
+0:10:51,46 --> 0:10:54,15
+this look pretty good.
+
+
+283
+0:10:54,15 --> 0:10:57,3
+[VIBRATING NOISE]
+
+
+284
+0:10:57,3 --> 0:10:58,46
+STEVE SPANGLER: Ah, you can
+start to see these changes
+
+
+285
+0:10:58,46 --> 0:10:59,12
+right here.
+
+
+286
+0:10:59,12 --> 0:11:0,821
+Take a look at this.
+
+
+287
+0:11:0,821 --> 0:11:2,71
+That's awesome.
+
+
+288
+0:11:2,71 --> 0:11:8,986
+
+
+
+289
+0:11:8,986 --> 0:11:11,66
+These incredible colors that
+you get just mixing.
+
+
+290
+0:11:11,66 --> 0:11:13,64
+It sits right in here.
+
+
+291
+0:11:13,64 --> 0:11:19,82
+[VIBRATING NOISE]
+
+
+292
+0:11:19,82 --> 0:11:21,725
+STEVE SPANGLER: That's a cool
+corn starch monster.
+
+
+293
+0:11:21,725 --> 0:11:26,9
+
+
+
+294
+0:11:26,9 --> 0:11:36,248
+[MUSIC PLAYING]
+
+
+295
+0:11:36,248 --> 0:11:38,88
+STEVE SPANGLER: OK, if we just
+put these down, it'll be just
+
+
+296
+0:11:38,88 --> 0:11:39,24
+fine, I think.
+
+
+297
+0:11:39,24 --> 0:11:39,795
+Come here, dog.
+
+
+298
+0:11:39,795 --> 0:11:41,422
+Come on, come here.
+
+
+299
+0:11:41,422 --> 0:11:42,46
+Come here, dog.
+
+
+300
+0:11:42,46 --> 0:11:43,275
+HIGGINSWORTH: Steve.
+
+
+301
+0:11:43,275 --> 0:11:44,85
+That's not even the right dog.
+
+
+302
+0:11:44,85 --> 0:11:45,38
+STEVE SPANGLER: That's fine.
+
+
+303
+0:11:45,38 --> 0:11:45,84
+They'll never know.
+
+
+304
+0:11:45,84 --> 0:11:46,337
+OK, come here.
+
+
+305
+0:11:46,337 --> 0:11:47,126
+Come here, dog.
+
+
+306
+0:11:47,126 --> 0:11:47,6
+OK.
+
+
+307
+0:11:47,6 --> 0:11:48,95
+Stay right here, OK?
+
+
+308
+0:11:48,95 --> 0:11:49,73
+You stay here.
+
+
+309
+0:11:49,73 --> 0:11:51,975
+You watch after the speakers
+and your owner.
+
+
+310
+0:11:51,975 --> 0:11:53,25
+OK, stay there.
+
+
+311
+0:11:53,25 --> 0:11:54,73
+OK, run.
+
+
+312
+0:11:54,73 --> 0:11:56,4
+Stay there dog, stay there.
+
+
+313
+0:11:56,4 --> 0:13:56,4
+
+
+

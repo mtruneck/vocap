@@ -1,0 +1,417 @@
+1
+0:0:52,54 --> 0:1:7,72
+"This is pointless."
+
+
+2
+0:1:7,72 --> 0:1:13,46
+This is very good, Professor, thank you.
+
+
+3
+0:1:13,46 --> 0:1:19,5
+That wasn't so hard, was it?
+
+
+4
+0:1:19,5 --> 0:1:21,1
+So does this look wrong to you?
+
+
+5
+0:1:21,1 --> 0:1:23,26
+"Yeah."
+
+
+6
+0:1:23,26 --> 0:1:25,97
+"Because it is wrong."
+
+
+7
+0:1:25,97 --> 0:1:29,57
+Because it's missing 'Bleem'.
+
+
+8
+0:1:29,57 --> 0:1:32,55
+"You think I just made this up, don't you?"
+
+
+9
+0:1:32,55 --> 0:1:34,63
+"Just pulled this number out of thin air, yah?"
+
+
+10
+0:1:34,63 --> 0:1:36,94
+So you have discovered 'bleem' then?
+
+
+11
+0:1:36,94 --> 0:1:42,92
+"I am not entertaining some delusion, Doctor. I am a mathematician -"
+
+
+12
+0:1:42,92 --> 0:1:45,25
+"I am pursuing the truth."
+
+
+13
+0:1:45,25 --> 0:1:52,16
+I'm sorry, I'm not trying to offend you, 
+I'm just trying to understand.
+
+
+14
+0:1:52,16 --> 0:1:54,9
+But I need you to help me understand.
+
+
+15
+0:1:54,9 --> 0:1:59,75
+"Are you trying to understand 'bleem', Doctor?"
+
+
+16
+0:1:59,75 --> 0:2:48,71
+"Or are you trying to understand >me<?"
+
+
+17
+0:2:48,71 --> 0:2:51,87
+Okay, Professor.
+
+
+18
+0:2:51,87 --> 0:2:56,44
+Let's assume that you're right and 'bleem' does exist.
+
+
+19
+0:2:56,44 --> 0:2:58,14
+It'd be a counting number, right?
+
+
+20
+0:2:58,14 --> 0:3:0,73
+"It is an integer, yah."
+
+
+21
+0:3:0,73 --> 0:3:2,9
+Integer.
+
+
+22
+0:3:2,9 --> 0:3:7,96
+So you go 1, 2, 3...
+
+
+23
+0:3:7,96 --> 0:3:11,59
+…'bleem,'
+4, 5, 6 - is that right?
+
+
+24
+0:3:11,59 --> 0:3:14,56
+"Very good, Doctor"
+
+
+25
+0:3:14,56 --> 0:3:17,27
+Right, so if that's true...
+
+
+26
+0:3:17,27 --> 0:3:21,95
+...you should then be able to have 'bleem' of something, right?
+
+
+27
+0:3:21,95 --> 0:3:26,96
+"Yeah."
+
+
+28
+0:3:26,96 --> 0:3:33,85
+I'd like you to do me a favor, Professor.
+
+
+29
+0:3:33,85 --> 0:3:42,8
+Separate out 'bleem' of those jellybeans for me.
+
+
+30
+0:3:42,8 --> 0:3:43,12
+Please...
+
+
+31
+0:3:43,12 --> 0:4:35,99
+...take your time.
+
+
+32
+0:4:35,99 --> 0:4:45,6
+So 'bleem' is not an integer after all.
+
+
+33
+0:4:45,6 --> 0:4:49,3
+Professor.
+
+
+34
+0:4:49,3 --> 0:4:50,94
+So 'Bleem' is not an integer...
+
+
+35
+0:4:50,94 --> 0:4:52,87
+"AHH!"
+
+
+36
+0:4:52,87 --> 0:4:55,16
+"Bleem exists!"
+
+
+37
+0:4:55,16 --> 0:4:56,63
+Calm down, Professor.
+
+
+38
+0:4:56,63 --> 0:4:59,46
+"Something was preventing me--"
+
+
+39
+0:4:59,46 --> 0:5:3,2
+I was sitting right here.  I was watching you the entire time--
+
+
+40
+0:5:3,2 --> 0:5:9,41
+-- and there was nothing preventing you, except for the fact
+that 'bleem' does not exist.
+
+
+41
+0:5:9,41 --> 0:5:15,78
+"I must get back to my research..."
+
+
+42
+0:5:15,78 --> 0:5:20,6
+I'm sorry, Professor. I'm afraid we're done for the day.
+
+
+43
+0:5:20,6 --> 0:5:23,49
+"I just need something to write with."
+
+
+44
+0:5:23,49 --> 0:5:25,98
+"Please. Pencil and paper is all I ask."
+
+
+45
+0:5:25,98 --> 0:5:45,42
+We can talk about writing materials at your next evaluation, alright?
+
+
+46
+0:5:45,42 --> 0:5:48,13
+"Doctor?"
+
+
+47
+0:5:48,13 --> 0:5:50,53
+Take the Professor to his room.
+
+
+48
+0:5:50,53 --> 0:5:53,74
+"Please, I am so close- I can feel it."
+
+
+49
+0:5:53,74 --> 0:5:54,92
+We can pick this up tomorrow.
+
+
+50
+0:5:54,92 --> 0:5:55,89
+"Come on, Professor."
+
+
+51
+0:5:55,89 --> 0:5:59,9
+"No--"
+
+
+52
+0:5:59,9 --> 0:7:49,51
+"Take it easy!"
+
+
+53
+0:7:49,51 --> 0:7:53,9
+So would you say you are a man of reason, Professor?
+
+
+54
+0:7:53,9 --> 0:7:54,36
+"Of course, yah."
+
+
+55
+0:7:54,36 --> 0:7:56,79
+Well, I'm a little confused...
+
+
+56
+0:7:56,79 --> 0:8:2,76
+...what reason could anybody possibly have to keep a number secret?
+
+
+57
+0:8:2,76 --> 0:8:11,3
+"Why did they try to burn Galileo at the stake, Doctor? This is heresy to them."
+
+
+58
+0:8:11,3 --> 0:8:16,29
+"We're talking about the very fabric of our universe here."
+
+
+59
+0:8:16,29 --> 0:8:21,83
+"What do you know about higher dimensions, Doctor?"
+
+
+60
+0:8:21,83 --> 0:8:24,49
+What, like parallel universes?
+
+
+61
+0:8:24,49 --> 0:8:29,58
+"No, these are dimensions beyond what we can experience with our senses."
+
+
+62
+0:8:29,58 --> 0:8:35,94
+"The first four are taken up by the Minkowski Space-Time,
+which we live with every day."
+
+
+63
+0:8:35,94 --> 0:8:42,22
+"But physicists now tell us there are at least seven more dimensions we cannot access."
+
+
+64
+0:8:42,22 --> 0:8:51,94
+"Abstract dimensions that permeate everything - yet remain completely hidden."
+
+
+65
+0:8:51,94 --> 0:8:53,35
+Alright.
+
+
+66
+0:8:53,35 --> 0:9:4,64
+"We have no way to grasp the possibilities - to tap us the potential of these dimensions…
+because we haven't got the math."
+
+
+67
+0:9:4,64 --> 0:9:10,2
+So you are suggesting that with 'bleem'-
+
+
+68
+0:9:10,2 --> 0:9:16,58
+"'Bleem' changes everything."
+
+
+69
+0:9:16,58 --> 0:10:7,48
+Thank you, Professor.
+
+
+70
+0:10:7,48 --> 0:10:17,35
+Hey!
+
+
+71
+0:10:17,35 --> 0:10:30,29
+Hey!
+
+
+72
+0:10:30,29 --> 0:10:39,46
+"This next report comes from Stockbridge, Massachusetts, where on Thursday
+an unidentified man was struck and killed by a car near Pinewood Elementary school."
+
+
+73
+0:10:39,46 --> 0:10:49,88
+"But beyond the tragedy, a mystery has emerged as authorities have
+made no progress in determining the victim's identity in the three days
+since the incident."
+
+
+74
+0:10:49,88 --> 0:10:57,48
+"Police Chief Hal Malick is referring to the lack of any leads
+as 'bizarre'. More on the story as it develops."
+
+
+75
+0:10:57,48 --> 0:11:20,79
+"In other news..."
+
+
+76
+0:11:20,79 --> 0:11:42,75
+Yeah?
+
+
+77
+0:11:42,75 --> 0:12:32,76
+"We are doing a second sweep now. 
+He was definitely here at bedcheck,
+I haven't let anyone into the room."
+
+
+78
+0:12:32,76 --> 0:12:38,25
+"Ah, looks like he left us a little snack."
+
+
+79
+0:12:38,25 --> 0:12:53,2
+Don't touch those!
+
+
+80
+0:12:53,2 --> 0:13:38,86
+"It's just jellybeans, Doc. Want one?"
+
+
+81
+0:13:38,86 --> 0:15:38,86
+Subtitles by Manuel L.
+manuell3d.wordpress.com
+
+

@@ -1,0 +1,499 @@
+1
+0:0:0,52 --> 0:0:1,63
+Hello Internet,
+
+
+2
+0:0:1,63 --> 0:0:5,45
+Recently YouTube invited me to California
+for a conference with a bunch of really interesting
+
+
+3
+0:0:5,45 --> 0:0:10,379
+people. There were many talks and giant balloons
+and much discussion of what the future of
+
+
+4
+0:0:10,379 --> 0:0:14,119
+education might look like -- which is no small
+issue because how society raises the next
+
+
+5
+0:0:14,119 --> 0:0:18,43
+generation of scientists, doctors, and programmers
+shapes the future of human civilization.
+
+
+6
+0:0:18,43 --> 0:0:22,31
+It was an amazing few days and, if you'll
+tolerate my ramblings, I'd like to share some
+
+
+7
+0:0:22,31 --> 0:0:26,5
+of my thoughts on this as someone who's worked
+as an educator both in and out of schools.
+
+
+8
+0:0:26,5 --> 0:0:30,33
+So this is how schools have pretty much always
+looked: a guy in the front who knows all the
+
+
+9
+0:0:30,33 --> 0:0:33,23
+things and students who don't so the guy tells
+them.
+
+
+10
+0:0:33,23 --> 0:0:37,6
+But a teacher explains things at the right
+pace for maybe *one* student in the room during
+
+
+11
+0:0:37,6 --> 0:0:42,38
+a lesson. Everyone else is either bored because
+they already understand the material or lost
+
+
+12
+0:0:42,38 --> 0:0:44,97
+because they're missing knowledge they should
+already have.
+
+
+13
+0:0:44,97 --> 0:0:49,149
+But, at the end of the lesson, regardless
+of student understanding, the circeirculem
+
+
+14
+0:0:49,149 --> 0:0:50,989
+marches rentlessly on.
+
+
+15
+0:0:50,989 --> 0:0:54,89
+And whether the teachers use a blackboard,
+whiteboard or smart board and whether students
+
+
+16
+0:0:54,89 --> 0:0:59,829
+use tables, or paper, or tablets (again) this
+system really isn't any different -- it's
+
+
+17
+0:0:59,829 --> 0:1:3,78
+just technology doing the same thing in a
+shiner way.
+
+
+18
+0:1:3,78 --> 0:1:7,909
+But the Internet is different and behind the
+scenes something interesting is happening
+
+
+19
+0:1:7,909 --> 0:1:10,52
+that hints at the shape of things to come.
+
+
+20
+0:1:10,52 --> 0:1:15,619
+In a perfect school, each student would have
+a personal tutor, like Aristotle to Alexander
+
+
+21
+0:1:15,619 --> 0:1:16,34
+the great.
+
+
+22
+0:1:16,34 --> 0:1:20,81
+But if your education policy is 'Aristotle
+for everyone' then there are three big problems
+
+
+23
+0:1:20,81 --> 0:1:21,479
+with this:
+
+
+24
+0:1:21,479 --> 0:1:25,689
+1st) There aren't enough humans on Earth to
+individually tutor every child, and even if
+
+
+25
+0:1:25,689 --> 0:1:30,179
+there were it would be horrifically expensive
+and even if neither manpower nor money was
+
+
+26
+0:1:30,179 --> 0:1:34,189
+a problem not everyone is as good a tutor
+as Aristotle.
+
+
+27
+0:1:34,189 --> 0:1:38,229
+But technology is solving these problems:
+starting with number 1:
+
+
+28
+0:1:38,229 --> 0:1:41,459
+For who needs humans when the Internet can
+teach you all the things?
+
+
+29
+0:1:41,459 --> 0:1:43,509
+Want to learn calculus: get started.
+
+
+30
+0:1:43,509 --> 0:1:48,619
+Need an AP biology course? Go watch this one
+along with hundreds of thousands of other
+
+
+31
+0:1:48,619 --> 0:1:49,119
+students.
+
+
+32
+0:1:49,119 --> 0:1:54,329
+The Internet massively multiplies the audience
+of potential teachers and solves the manpower
+
+
+33
+0:1:54,329 --> 0:1:54,779
+problem.
+
+
+34
+0:1:54,779 --> 0:1:58,27
+But isn't cheerleading the Internet the same
+thing I was complaining about before: new
+
+
+35
+0:1:58,27 --> 0:2:3,31
+tech doing old things just with more shiny?
+After all if you were a pre-Internet child,
+
+
+36
+0:2:3,31 --> 0:2:7,329
+with bookish inclinations, there's *always*
+been a place to teach you all the things.
+
+
+37
+0:2:7,329 --> 0:2:10,89
+And people thought that radio and TV were
+going to revolutionize education by giving
+
+
+38
+0:2:10,89 --> 0:2:14,58
+teachers huge audiences, but here we still
+are.
+
+
+39
+0:2:14,58 --> 0:2:19,86
+These are good points but Internet also solves
+the cost problem in a way that Radio and TV
+
+
+40
+0:2:19,86 --> 0:2:21,4
+never could.
+
+
+41
+0:2:21,4 --> 0:2:25,7
+Real shows are expensive to make and even
+the best of educational TV often gets pushed
+
+
+42
+0:2:25,7 --> 0:2:31,11
+aside for dumber, more popular stuff that,
+not coincidently, is also more profitable.
+
+
+43
+0:2:31,11 --> 0:2:33,95
+This is known as the History Channel Effect.
+
+
+44
+0:2:33,95 --> 0:2:38,45
+But the cost to access to the Internet is
+only going down, as is the cost to make stuff
+
+
+45
+0:2:38,45 --> 0:2:39,58
+for the Internet.
+
+
+46
+0:2:39,58 --> 0:2:44,2
+Which is why a guy with some paper and a marker
+in his bedroom can pull in a million views
+
+
+47
+0:2:44,2 --> 0:2:48,84
+a month at essentially zero cost and doesn't
+have to worry about competition from stuff
+
+
+48
+0:2:48,84 --> 0:2:49,53
+like this.
+
+
+49
+0:2:49,53 --> 0:2:54,6
+So the Internet solves problems one and two,
+but educational videos still aren't personalized
+
+
+50
+0:2:54,6 --> 0:2:59,43
+to students and that leaves YouTube still
+as a library of video, not a tutor like Aristotle.
+
+
+51
+0:2:59,43 --> 0:3:5,5
+But you can build on top of YouTube and what
+I see coming is this: Digital Aristotle for
+
+
+52
+0:3:5,5 --> 0:3:5,61
+everyone.
+
+
+53
+0:3:5,61 --> 0:3:11,22
+A computer program that tutors students individually,
+by pulling from a library of videos like YouTube,
+
+
+54
+0:3:11,22 --> 0:3:15,28
+a program that tests students on what they
+know and, more importantly, adapts to the
+
+
+55
+0:3:15,28 --> 0:3:19,39
+way they learn over time by comparing the
+effectiveness of different videos and different
+
+
+56
+0:3:19,39 --> 0:3:23,99
+tests to discover scientifically, what works
+best.
+
+
+57
+0:3:23,99 --> 0:3:29,4
+This isn't a fantasy, there are people building
+parts of this right now (even if Digital Aristotle
+
+
+58
+0:3:29,4 --> 0:3:33,79
+isn't their explicit goal). And one of these
+places is The Khan Academy which is more than
+
+
+59
+0:3:33,79 --> 0:3:41,569
+just Sal's soothing voice. If this does not
+blow your mind, you have no emotion. Behind
+
+
+60
+0:3:41,569 --> 0:3:46,6
+the website is incredibly complicated software
+testing everything about student learning:
+
+
+61
+0:3:46,6 --> 0:3:51,38
+the effectiveness of different videos, different
+tests, and different ways of asking questions.
+
+
+62
+0:3:51,38 --> 0:3:56,48
+And while it may seem primitive now, technology
+only gets better, faster. When Digital Aristotle
+
+
+63
+0:3:56,48 --> 0:4:1,75
+arrives it will be cheaper, less labor intensive
+and better than human teachers ever could
+
+
+64
+0:4:1,75 --> 0:4:2,22
+be.
+
+
+65
+0:4:2,22 --> 0:4:6,68
+I often hear the argument that Digital Aristotle,
+or something like it, will free teachers to
+
+
+66
+0:4:6,68 --> 0:4:10,88
+float around the classroom helping kids works
+on interesting projects -- and while that
+
+
+67
+0:4:10,88 --> 0:4:15,209
+might happen in the near-term, I don't think
+that's the long-term reality.
+
+
+68
+0:4:15,209 --> 0:4:20,319
+For what happens when Digital Aristotle truly
+knows students better than the teacher? When,
+
+
+69
+0:4:20,319 --> 0:4:25,389
+for every topic of human endeavor, it's able
+to take the best and brightest kids farther
+
+
+70
+0:4:25,389 --> 0:4:28,749
+down the path of knowledge than their teachers
+ever could?
+
+
+71
+0:4:28,749 --> 0:4:33,15
+I doubt that schools will go away -- after
+all they aren't just about learning but are
+
+
+72
+0:4:33,15 --> 0:4:37,249
+also freeing parents to work in the economy
+while their feral children are turned into
+
+
+73
+0:4:37,249 --> 0:4:42,599
+civilized adults -- but schools will be radically
+different and there will be far fewer teachers
+
+
+74
+0:4:42,599 --> 0:4:45,27
+working in them doing far less.
+
+
+75
+0:4:45,27 --> 0:4:50,479
+And while that's not great news for teachers,
+it's awesome news for students and society.
+
+
+76
+0:4:50,479 --> 0:4:54,4
+Right now, if you're a student doing poorly
+school moves on without you and if you're
+
+
+77
+0:4:54,4 --> 0:4:57,389
+doing well, school holds you back.
+
+
+78
+0:4:57,389 --> 0:5:2,99
+In the future, I see every human using a Digital
+Aristotle for their whole life, a tutor personalized
+
+
+79
+0:5:2,99 --> 0:5:7,789
+to them, teaching them exactly what they need
+to learn when they're best ready for it and
+
+
+80
+0:5:7,789 --> 0:5:12,999
+when that comes, we'll have both a better
+educational system and a better society.
+
+
+81
+0:5:12,999 --> 0:5:19,289
+I want to thank YouTube EDU and the people
+who ran it for bringing me out to California
+
+
+82
+0:5:19,289 --> 0:5:23,529
+to meet up with these awesome people. I had
+more interesting conversations over the space
+
+
+83
+0:5:23,529 --> 0:5:27,69
+of a few days than I normally get to have
+over the space of a few months.
+
+
+84
+0:5:27,69 --> 0:5:31,379
+If you want to see what the best of education
+looks like right now, go check out their channels
+
+
+85
+0:5:31,379 --> 0:5:34,539
+and if you want to hear more on this topic,
+I've also put together a playlist of talks
+
+
+86
+0:5:34,539 --> 0:7:34,539
+on this topic I hope you like.
+
+

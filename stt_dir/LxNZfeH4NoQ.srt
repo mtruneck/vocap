@@ -1,0 +1,35 @@
+1
+0:0:8,6 --> 0:0:17,739
+Meet the Penguins.
+
+
+2
+0:0:17,739 --> 0:0:20,2
+Fast Facts
+Type: Bird
+
+
+3
+0:0:20,2 --> 0:0:23,2
+Fast Facts
+Lifespan: 15 to 20 years
+
+
+4
+0:0:23,2 --> 0:0:26,4
+Fast Facts
+Size: Up to 45 Inches Tall
+
+
+5
+0:0:26,4 --> 0:0:28,739
+Fast Facts
+Weight: Up to 88 lbs
+
+
+6
+0:0:28,739 --> 0:2:28,739
+Fast Facts
+Habitat: Antarctica
+
+

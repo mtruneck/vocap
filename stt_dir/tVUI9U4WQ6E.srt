@@ -1,0 +1,7880 @@
+1
+0:0:0,0 --> 0:0:3,514
+
+
+
+2
+0:0:3,514 --> 0:0:5,43
+MALE SPEAKER: Thanks for
+being here everybody.
+
+
+3
+0:0:5,43 --> 0:0:9,23
+We're very lucky today to have
+David Kilcullen as our guest.
+
+
+4
+0:0:9,23 --> 0:0:11,709
+And by the way,
+before I forget, I
+
+
+5
+0:0:11,709 --> 0:0:13,5
+want to give a special
+shout out to the men
+
+
+6
+0:0:13,5 --> 0:0:17,48
+of the 23rd marine regiment
+who are here as our guests.
+
+
+7
+0:0:17,48 --> 0:0:19,63
+Thank you for your service.
+
+
+8
+0:0:19,63 --> 0:0:23,75
+David Kilcullen is a
+counter insurgency expert.
+
+
+9
+0:0:23,75 --> 0:0:26,62
+He first, at least,
+came to my attention
+
+
+10
+0:0:26,62 --> 0:0:29,63
+as part of the surge
+in Iraq in 2007,
+
+
+11
+0:0:29,63 --> 0:0:32,75
+but his resume goes
+much deeper than that.
+
+
+12
+0:0:32,75 --> 0:0:35,43
+Today, he's going to talk
+about what he's doing nowadays,
+
+
+13
+0:0:35,43 --> 0:0:41,3
+which involves some work with
+Google, actually, on Syria.
+
+
+14
+0:0:41,3 --> 0:0:44,65
+He's been adviser to General
+David Petraeus and Condoleezza
+
+
+15
+0:0:44,65 --> 0:0:49,44
+Rice and is now operating a
+consulting service in Virginia
+
+
+16
+0:0:49,44 --> 0:0:51,97
+where he deals with all sorts
+of interesting stuff, which
+
+
+17
+0:0:51,97 --> 0:0:53,909
+he'll be happy to
+tell you about.
+
+
+18
+0:0:53,909 --> 0:0:55,95
+So please give a warm
+welcome to David Kilcullen.
+
+
+19
+0:0:55,95 --> 0:0:58,815
+
+
+
+20
+0:0:58,815 --> 0:0:59,94
+DAVID KILCULLEN: Thank you.
+
+
+21
+0:0:59,94 --> 0:1:2,34
+It's actually great to be here
+on such a beautiful day in San
+
+
+22
+0:1:2,34 --> 0:1:2,94
+Francisco.
+
+
+23
+0:1:2,94 --> 0:1:4,356
+I was talking to
+a guy last night.
+
+
+24
+0:1:4,356 --> 0:1:7,142
+He said the problem with San
+Francisco is it makes you lazy.
+
+
+25
+0:1:7,142 --> 0:1:8,35
+I was like, what do you mean?
+
+
+26
+0:1:8,35 --> 0:1:10,27
+He was like well,
+yesterday I woke up,
+
+
+27
+0:1:10,27 --> 0:1:12,11
+and I had all this work
+to do, but then I thought,
+
+
+28
+0:1:12,11 --> 0:1:14,318
+I think I'm just going to
+go for a hike with my wife.
+
+
+29
+0:1:14,318 --> 0:1:16,35
+And I blew off the
+whole-- and I'm like,
+
+
+30
+0:1:16,35 --> 0:1:17,48
+I can totally see that.
+
+
+31
+0:1:17,48 --> 0:1:19,59
+Every time I get off
+the plane in California,
+
+
+32
+0:1:19,59 --> 0:1:22,39
+I'm like, why don't
+we live here again?
+
+
+33
+0:1:22,39 --> 0:1:25,58
+So thank you for spending an
+hour of a beautiful day inside
+
+
+34
+0:1:25,58 --> 0:1:29,5
+with me when you could be out
+doing a bunch of other stuff.
+
+
+35
+0:1:29,5 --> 0:1:31,38
+Obviously, I just wrote this
+book, which is why I'm here.
+
+
+36
+0:1:31,38 --> 0:1:34,49
+But I thought what I
+would do is just hit up
+
+
+37
+0:1:34,49 --> 0:1:36,19
+some of the main
+ideas in the book
+
+
+38
+0:1:36,19 --> 0:1:39,41
+rather than try to give
+you a full download,
+
+
+39
+0:1:39,41 --> 0:1:43,28
+and then maybe in Q&A we can
+kick those around, and discuss
+
+
+40
+0:1:43,28 --> 0:1:46,46
+some of the main stuff
+that comes out of it,
+
+
+41
+0:1:46,46 --> 0:1:50,99
+and see what you guys are most
+interested in talking about.
+
+
+42
+0:1:50,99 --> 0:1:54,51
+I began writing the book
+in September of 2009
+
+
+43
+0:1:54,51 --> 0:1:56,501
+after getting ambushed
+in Afghanistan.
+
+
+44
+0:1:56,501 --> 0:1:59,0
+It's not the first, or in fact,
+the last time that I've been
+
+
+45
+0:1:59,0 --> 0:2:1,18
+ambushed in Afghanistan,
+but this particular one
+
+
+46
+0:2:1,18 --> 0:2:2,26
+was interesting.
+
+
+47
+0:2:2,26 --> 0:2:6,6
+It was the classic late
+afternoon ambush scenario
+
+
+48
+0:2:6,6 --> 0:2:8,479
+that you get in Afghanistan,
+because most of Eastern
+
+
+49
+0:2:8,479 --> 0:2:12,93
+Afghanistan has a very, very
+narrow set of valleys that
+
+
+50
+0:2:12,93 --> 0:2:15,74
+have settlement patterns
+of-- basically people live
+
+
+51
+0:2:15,74 --> 0:2:17,16
+in the bottom of the valleys.
+
+
+52
+0:2:17,16 --> 0:2:19,35
+Nobody lives on the
+mountains themselves,
+
+
+53
+0:2:19,35 --> 0:2:22,127
+and there's usually only
+one road running down
+
+
+54
+0:2:22,127 --> 0:2:23,21
+the middle of each valley.
+
+
+55
+0:2:23,21 --> 0:2:25,2
+So if you go up that
+valley in the morning,
+
+
+56
+0:2:25,2 --> 0:2:26,835
+essentially everyone
+in that whole community
+
+
+57
+0:2:26,835 --> 0:2:29,22
+knows exactly where you're
+going to be at 4 o'clock
+
+
+58
+0:2:29,22 --> 0:2:29,73
+in the afternoon.
+
+
+59
+0:2:29,73 --> 0:2:31,72
+You're going to be
+driving down the valley.
+
+
+60
+0:2:31,72 --> 0:2:36,15
+And in fact, Afghan
+families have ambush spots
+
+
+61
+0:2:36,15 --> 0:2:39,23
+like families in
+the Chesapeake Bay
+
+
+62
+0:2:39,23 --> 0:2:41,25
+have fishing spots
+or families out here.
+
+
+63
+0:2:41,25 --> 0:2:44,44
+They don't have to go through
+the full complex planning
+
+
+64
+0:2:44,44 --> 0:2:46,63
+process that an
+infantry small unit does
+
+
+65
+0:2:46,63 --> 0:2:48,42
+when it decides to do an ambush.
+
+
+66
+0:2:48,42 --> 0:2:49,75
+They basically say hey, Abdul.
+
+
+67
+0:2:49,75 --> 0:2:50,81
+Get to the ambush spot.
+
+
+68
+0:2:50,81 --> 0:2:53,268
+Because they have three or four
+of them already picked out.
+
+
+69
+0:2:53,268 --> 0:2:57,28
+In fact, I was in another
+ambush earlier in my career
+
+
+70
+0:2:57,28 --> 0:3:1,28
+in Afghanistan where we actually
+found old 303 ammunition
+
+
+71
+0:3:1,28 --> 0:3:2,87
+from British rifles
+that went out
+
+
+72
+0:3:2,87 --> 0:3:6,262
+of service in the 19th century
+up in these firing positions
+
+
+73
+0:3:6,262 --> 0:3:8,22
+on either side of the
+road, so they'd obviously
+
+
+74
+0:3:8,22 --> 0:3:12,771
+been using this ambush site
+for some considerable time.
+
+
+75
+0:3:12,771 --> 0:3:15,27
+But I'm in the middle of this
+ambush, and I think to myself,
+
+
+76
+0:3:15,27 --> 0:3:17,84
+this is a pretty bad ambush.
+
+
+77
+0:3:17,84 --> 0:3:20,582
+I've become a bit of an
+involuntary connoisseur
+
+
+78
+0:3:20,582 --> 0:3:22,4
+over the years,
+and I actually used
+
+
+79
+0:3:22,4 --> 0:3:24,63
+to teach ambushing
+at the tactics school
+
+
+80
+0:3:24,63 --> 0:3:26,19
+when I was captain.
+
+
+81
+0:3:26,19 --> 0:3:28,75
+So I'm like, if these were my
+students on the battle course,
+
+
+82
+0:3:28,75 --> 0:3:30,57
+I would have failed them
+for their ambush plan.
+
+
+83
+0:3:30,57 --> 0:3:32,1
+It was just very
+badly put together.
+
+
+84
+0:3:32,1 --> 0:3:35,22
+It didn't come-- it
+just didn't work.
+
+
+85
+0:3:35,22 --> 0:3:37,3
+Anyway, we get to the
+bottom of the valley,
+
+
+86
+0:3:37,3 --> 0:3:40,67
+and I'm talking to my
+driver of my Amrep, which
+
+
+87
+0:3:40,67 --> 0:3:42,805
+is like a big
+armored garbage truck
+
+
+88
+0:3:42,805 --> 0:3:45,91
+that we drive around
+in Afghanistan.
+
+
+89
+0:3:45,91 --> 0:3:48,1
+And the driver says
+to gunner, hey,
+
+
+90
+0:3:48,1 --> 0:3:50,287
+how many Taliban guys
+do you reckon we killed?
+
+
+91
+0:3:50,287 --> 0:3:52,62
+And I was like, well, how do
+you know they were Taliban?
+
+
+92
+0:3:52,62 --> 0:3:55,2
+And they were like, dude,
+they were shooting at us.
+
+
+93
+0:3:55,2 --> 0:3:56,27
+And it took me a little while.
+
+
+94
+0:3:56,27 --> 0:3:59,11
+I was actually on the
+helicopter ride back afterwards.
+
+
+95
+0:3:59,11 --> 0:4:2,222
+But I began to think maybe this
+attack had actually nothing
+
+
+96
+0:4:2,222 --> 0:4:3,18
+to do with the Taliban.
+
+
+97
+0:4:3,18 --> 0:4:5,13
+And when I started to
+think about what we've
+
+
+98
+0:4:5,13 --> 0:4:7,94
+been doing in that valley for
+the preceding two or three
+
+
+99
+0:4:7,94 --> 0:4:11,64
+years, and the way that we
+laid down a series of projects
+
+
+100
+0:4:11,64 --> 0:4:15,9
+to help the community, and how
+that had actually dis-empowered
+
+
+101
+0:4:15,9 --> 0:4:17,14
+other people in the
+community and created
+
+
+102
+0:4:17,14 --> 0:4:20,6
+a big imbalance of resources
+going into some villages
+
+
+103
+0:4:20,6 --> 0:4:23,21
+and into others, I started to
+realize that actually there's
+
+
+104
+0:4:23,21 --> 0:4:27,4
+a lot more that meets the
+eye in a place like Eastern
+
+
+105
+0:4:27,4 --> 0:4:30,3
+Afghanistan around
+stuff like contracting,
+
+
+106
+0:4:30,3 --> 0:4:34,8
+and around denial of
+access to services,
+
+
+107
+0:4:34,8 --> 0:4:38,55
+and the way that people
+interact with this giant tsunami
+
+
+108
+0:4:38,55 --> 0:4:42,15
+of contracting and aid money
+that comes into Afghanistan.
+
+
+109
+0:4:42,15 --> 0:4:46,8
+About 14 times the size of the
+total Afghan government budget
+
+
+110
+0:4:46,8 --> 0:4:49,69
+is our aid programming
+in Afghanistan.
+
+
+111
+0:4:49,69 --> 0:4:52,32
+And I began to write
+this book, trying
+
+
+112
+0:4:52,32 --> 0:4:56,852
+to think beyond the paradigm
+of counter insurgency,
+
+
+113
+0:4:56,852 --> 0:4:59,6
+and for those people that
+are in the military, that's
+
+
+114
+0:4:59,6 --> 0:5:0,11
+like anathema.
+
+
+115
+0:5:0,11 --> 0:5:0,61
+Like, what?
+
+
+116
+0:5:0,61 --> 0:5:1,58
+Dave Kilcullen?
+
+
+117
+0:5:1,58 --> 0:5:3,94
+Didn't you write a book
+on counter insurgency?
+
+
+118
+0:5:3,94 --> 0:5:8,99
+Yes, but it's just a book,
+and we have this paradigm
+
+
+119
+0:5:8,99 --> 0:5:13,44
+that we built, because it helped
+us to win a conflict in Iraq,
+
+
+120
+0:5:13,44 --> 0:5:15,41
+and it helped us
+to win a variety
+
+
+121
+0:5:15,41 --> 0:5:17,987
+of smaller fights
+in other places.
+
+
+122
+0:5:17,987 --> 0:5:19,57
+But that doesn't
+mean that it's dogma,
+
+
+123
+0:5:19,57 --> 0:5:20,91
+and that's the answer forever.
+
+
+124
+0:5:20,91 --> 0:5:24,91
+Like any other human
+model or mental picture
+
+
+125
+0:5:24,91 --> 0:5:28,99
+of an environment, all it is is
+a systematic oversimplification
+
+
+126
+0:5:28,99 --> 0:5:30,54
+of very complex reality.
+
+
+127
+0:5:30,54 --> 0:5:32,23
+And over time, when
+you start to see
+
+
+128
+0:5:32,23 --> 0:5:35,7
+data that don't fit
+with your model,
+
+
+129
+0:5:35,7 --> 0:5:37,49
+it's time to update the model.
+
+
+130
+0:5:37,49 --> 0:5:40,19
+And so what I've been doing over
+the past three or four years
+
+
+131
+0:5:40,19 --> 0:5:42,23
+is thinking beyond
+that and actually
+
+
+132
+0:5:42,23 --> 0:5:45,23
+reaching back into some
+work that I previously
+
+
+133
+0:5:45,23 --> 0:5:47,96
+did when I was in the
+Australian military looking
+
+
+134
+0:5:47,96 --> 0:5:50,489
+at urbanized
+environments, and I'm
+
+
+135
+0:5:50,489 --> 0:5:52,28
+going to talk about
+that a lot in a minute,
+
+
+136
+0:5:52,28 --> 0:5:54,87
+but I just want to
+set the context.
+
+
+137
+0:5:54,87 --> 0:5:58,34
+Ever since 9/11, the military
+in particular, but also
+
+
+138
+0:5:58,34 --> 0:6:0,8
+aid agencies,
+diplomatic services,
+
+
+139
+0:6:0,8 --> 0:6:3,11
+a variety of other
+organizations have
+
+
+140
+0:6:3,11 --> 0:6:5,54
+gotten really good
+at the kind of stuff
+
+
+141
+0:6:5,54 --> 0:6:8,24
+that I was doing in
+Eastern Afghanistan when
+
+
+142
+0:6:8,24 --> 0:6:10,43
+I got shot up in 2009.
+
+
+143
+0:6:10,43 --> 0:6:14,1
+Remote environments,
+tribal communities,
+
+
+144
+0:6:14,1 --> 0:6:16,95
+landlocked countries
+like Afghanistan,
+
+
+145
+0:6:16,95 --> 0:6:21,32
+the work that we do in little
+remote frontier outposts
+
+
+146
+0:6:21,32 --> 0:6:25,27
+has become, I think,
+dramatically better quality
+
+
+147
+0:6:25,27 --> 0:6:27,27
+than it was a decade ago.
+
+
+148
+0:6:27,27 --> 0:6:28,87
+But if you look
+at the environment
+
+
+149
+0:6:28,87 --> 0:6:31,52
+that we've been operating
+in, its very specific.
+
+
+150
+0:6:31,52 --> 0:6:33,86
+Afghanistan's a very
+diffuse conflict.
+
+
+151
+0:6:33,86 --> 0:6:36,22
+The conflict mostly happens
+in rural environments,
+
+
+152
+0:6:36,22 --> 0:6:37,64
+not in the cities.
+
+
+153
+0:6:37,64 --> 0:6:41,95
+It happens in this land
+locked, mountainous arid, not
+
+
+154
+0:6:41,95 --> 0:6:44,56
+very heavily
+populated environment.
+
+
+155
+0:6:44,56 --> 0:6:47,97
+And most importantly,
+it's a very low bandwidth,
+
+
+156
+0:6:47,97 --> 0:6:49,6
+low conductivity environment.
+
+
+157
+0:6:49,6 --> 0:6:51,71
+Most people don't
+have the ability
+
+
+158
+0:6:51,71 --> 0:6:55,914
+to tap into an extensive
+cellphone network, or access
+
+
+159
+0:6:55,914 --> 0:6:57,83
+to the internet, or any
+of the sorts of things
+
+
+160
+0:6:57,83 --> 0:7:2,926
+that we take for granted
+in the modern urban world.
+
+
+161
+0:7:2,926 --> 0:7:4,3
+So as I was
+researching the book,
+
+
+162
+0:7:4,3 --> 0:7:6,17
+I started to think
+to myself, what's
+
+
+163
+0:7:6,17 --> 0:7:8,3
+going to happen
+after Afghanistan?
+
+
+164
+0:7:8,3 --> 0:7:11,674
+Now, it's become fashionable
+in the politics world
+
+
+165
+0:7:11,674 --> 0:7:13,9
+and the foreign
+policy discussions
+
+
+166
+0:7:13,9 --> 0:7:15,75
+in Washington to act like
+the war in Afghanistan
+
+
+167
+0:7:15,75 --> 0:7:18,38
+is already over, like
+we don't currently
+
+
+168
+0:7:18,38 --> 0:7:20,685
+have all these troops out
+there fighting and dying
+
+
+169
+0:7:20,685 --> 0:7:23,6
+on the ground, or diplomats
+doing the work they're doing,
+
+
+170
+0:7:23,6 --> 0:7:25,71
+or aid agencies or
+other people doing
+
+
+171
+0:7:25,71 --> 0:7:28,7
+the hard work in Afghanistan,
+like that's all finished.
+
+
+172
+0:7:28,7 --> 0:7:31,519
+Actually, our friends
+are still out there doing
+
+
+173
+0:7:31,519 --> 0:7:33,6
+this stuff on the
+ground, and I think
+
+
+174
+0:7:33,6 --> 0:7:35,802
+it's really important
+to not forget that.
+
+
+175
+0:7:35,802 --> 0:7:37,77
+That said, it's pretty
+clear that the conflict
+
+
+176
+0:7:37,77 --> 0:7:41,4
+is going to start winding
+down in the next year or two,
+
+
+177
+0:7:41,4 --> 0:7:43,28
+and it's worth
+asking yourself what
+
+
+178
+0:7:43,28 --> 0:7:44,99
+does the future
+environment look like?
+
+
+179
+0:7:44,99 --> 0:7:46,98
+Does it look like
+Afghanistan, or does it
+
+
+180
+0:7:46,98 --> 0:7:48,46
+look like something else?
+
+
+181
+0:7:48,46 --> 0:7:54,11
+And a lot of the book is my
+exploration of that question.
+
+
+182
+0:7:54,11 --> 0:7:57,66
+When I look at the future
+environment, what I see
+
+
+183
+0:7:57,66 --> 0:7:59,54
+is a very high
+degree of what you
+
+
+184
+0:7:59,54 --> 0:8:2,7
+might call operational
+continuity.
+
+
+185
+0:8:2,7 --> 0:8:4,78
+The stuff that we
+do, we will keep
+
+
+186
+0:8:4,78 --> 0:8:7,17
+on doing mostly
+that kind of stuff
+
+
+187
+0:8:7,17 --> 0:8:8,87
+in the future environment.
+
+
+188
+0:8:8,87 --> 0:8:12,329
+As an example of that, if you
+go back in US military history
+
+
+189
+0:8:12,329 --> 0:8:14,62
+to about the middle of the
+19th century around the time
+
+
+190
+0:8:14,62 --> 0:8:17,16
+of the Mexican War, and
+you start a timeline then,
+
+
+191
+0:8:17,16 --> 0:8:19,17
+and you run it
+forward to now, you
+
+
+192
+0:8:19,17 --> 0:8:23,2
+find a really, really consistent
+pattern in US military history
+
+
+193
+0:8:23,2 --> 0:8:28,29
+where we do a large scale or
+long duration irregular warfare
+
+
+194
+0:8:28,29 --> 0:8:31,89
+campaign about once
+every 20 to 25 years,
+
+
+195
+0:8:31,89 --> 0:8:35,654
+and we do small ones on a
+scale of Kosovo, or East Timor,
+
+
+196
+0:8:35,654 --> 0:8:39,78
+or Sierra Leone about once
+every 5 to 10 years in between.
+
+
+197
+0:8:39,78 --> 0:8:42,48
+And that patent is not
+only very consistent
+
+
+198
+0:8:42,48 --> 0:8:45,49
+and appears to be totally
+unaffected by policymakers'
+
+
+199
+0:8:45,49 --> 0:8:46,64
+preferences.
+
+
+200
+0:8:46,64 --> 0:8:49,9
+So beginning of last
+year, President Obama
+
+
+201
+0:8:49,9 --> 0:8:51,42
+gave direction to
+the US military
+
+
+202
+0:8:51,42 --> 0:8:52,92
+where he said we're
+going to get out
+
+
+203
+0:8:52,92 --> 0:8:55,77
+of the business of doing
+large scale, long duration
+
+
+204
+0:8:55,77 --> 0:8:58,69
+stabilization operations
+or counter insurgencies.
+
+
+205
+0:8:58,69 --> 0:9:0,36
+He said we're not going to
+structure the force for that
+
+
+206
+0:9:0,36 --> 0:9:1,78
+anymore.
+
+
+207
+0:9:1,78 --> 0:9:4,16
+Turns out President Clinton
+said basically the same thing
+
+
+208
+0:9:4,16 --> 0:9:6,24
+in 1992.
+
+
+209
+0:9:6,24 --> 0:9:9,92
+Candidate George W. Bush
+said the same thing in 2000.
+
+
+210
+0:9:9,92 --> 0:9:12,3
+President Johnson said
+the same thing in 1964.
+
+
+211
+0:9:12,3 --> 0:9:13,92
+You can run this
+back, and you'll
+
+
+212
+0:9:13,92 --> 0:9:17,874
+find about seven presidents in
+the 20th century alone making
+
+
+213
+0:9:17,874 --> 0:9:19,29
+basically the same
+comment, and it
+
+
+214
+0:9:19,29 --> 0:9:21,97
+has zero effect on
+how often we get
+
+
+215
+0:9:21,97 --> 0:9:24,0
+into these kinds of conflicts.
+
+
+216
+0:9:24,0 --> 0:9:27,41
+Across the planet since the
+end of the Napoleonic Wars,
+
+
+217
+0:9:27,41 --> 0:9:32,2
+roughly 80% of all conflict
+has been intrastate--
+
+
+218
+0:9:32,2 --> 0:9:35,7
+that is within communities,
+within one country-- or it's
+
+
+219
+0:9:35,7 --> 0:9:39,94
+involved a non-state armed group
+like pirates, or insurgents,
+
+
+220
+0:9:39,94 --> 0:9:45,35
+or some other kind of combatant
+that is not a nation state.
+
+
+221
+0:9:45,35 --> 0:9:49,39
+So that is in fact-- that's
+the typical environment that we
+
+
+222
+0:9:49,39 --> 0:9:52,41
+operate or the stereotypical
+type of work that we do.
+
+
+223
+0:9:52,41 --> 0:9:55,906
+But the environment that
+we've operated in the past
+
+
+224
+0:9:55,906 --> 0:9:58,3
+is not the environment that
+we're going to look at.
+
+
+225
+0:9:58,3 --> 0:10:2,75
+So operational continuity
+but a strong environmental
+
+
+226
+0:10:2,75 --> 0:10:5,18
+discontinuity
+between what's coming
+
+
+227
+0:10:5,18 --> 0:10:7,41
+and what we've been
+doing in the last decade,
+
+
+228
+0:10:7,41 --> 0:10:11,8
+this landlocked remote
+rural environment.
+
+
+229
+0:10:11,8 --> 0:10:14,55
+Now, American forces,
+particularly the army
+
+
+230
+0:10:14,55 --> 0:10:17,42
+and the Marine Corps were
+very heavily involved
+
+
+231
+0:10:17,42 --> 0:10:19,37
+in urban fighting in Iraq.
+
+
+232
+0:10:19,37 --> 0:10:21,8
+So talking to an
+American audience,
+
+
+233
+0:10:21,8 --> 0:10:23,98
+it's easy to think that actually
+we have a lot of experience
+
+
+234
+0:10:23,98 --> 0:10:26,15
+globally in urban operations.
+
+
+235
+0:10:26,15 --> 0:10:27,92
+That's actually not true.
+
+
+236
+0:10:27,92 --> 0:10:31,35
+There were 50 countries in
+Iraq, 51 in Afghanistan,
+
+
+237
+0:10:31,35 --> 0:10:33,48
+but only one of those
+that it was involved
+
+
+238
+0:10:33,48 --> 0:10:35,6
+in any significant
+urban fighting
+
+
+239
+0:10:35,6 --> 0:10:37,47
+was the American
+military in Baghdad.
+
+
+240
+0:10:37,47 --> 0:10:39,83
+When I deployed to
+Baghdad in-- I'm
+
+
+241
+0:10:39,83 --> 0:10:42,1
+sorry-- and Ramadi and
+all the other areas
+
+
+242
+0:10:42,1 --> 0:10:43,88
+around that in the
+American sector.
+
+
+243
+0:10:43,88 --> 0:10:47,88
+When I deployed to Baghdad in
+February of 2007, at that time,
+
+
+244
+0:10:47,88 --> 0:10:52,1
+more than 50% of total combat
+action in the war in Iraq
+
+
+245
+0:10:52,1 --> 0:10:54,85
+was happening inside
+Baghdad city limits,
+
+
+246
+0:10:54,85 --> 0:10:56,84
+which is a purely US theater.
+
+
+247
+0:10:56,84 --> 0:10:59,57
+Everybody else engaged
+in the conflict
+
+
+248
+0:10:59,57 --> 0:11:1,55
+was out in more remote
+rural environments,
+
+
+249
+0:11:1,55 --> 0:11:4,8
+where frankly there was a
+lot less violence going on.
+
+
+250
+0:11:4,8 --> 0:11:7,21
+So for most of the 50
+countries that we're in Iraq,
+
+
+251
+0:11:7,21 --> 0:11:9,37
+normal is not urban.
+
+
+252
+0:11:9,37 --> 0:11:13,84
+Normal is farms, little
+villages, rural districts,
+
+
+253
+0:11:13,84 --> 0:11:17,97
+not a lot of fighting, more like
+peacekeeping and stabilization.
+
+
+254
+0:11:17,97 --> 0:11:20,4
+And for everybody that
+went to Afghanistan,
+
+
+255
+0:11:20,4 --> 0:11:23,8
+you're dealing with this
+rural diffuse environment.
+
+
+256
+0:11:23,8 --> 0:11:27,53
+But looking forward,
+I see four big trends
+
+
+257
+0:11:27,53 --> 0:11:30,23
+that are actually
+changing the environment
+
+
+258
+0:11:30,23 --> 0:11:34,8
+and will shape how we operate or
+where we operate in the future,
+
+
+259
+0:11:34,8 --> 0:11:38,54
+and those trends are population,
+urbanization, littoralization--
+
+
+260
+0:11:38,54 --> 0:11:41,85
+which is just the tendency
+for things to cluster
+
+
+261
+0:11:41,85 --> 0:11:47,14
+on coastlines-- and then
+most importantly electronic
+
+
+262
+0:11:47,14 --> 0:11:48,8
+network connectivity.
+
+
+263
+0:11:48,8 --> 0:11:51,48
+Now, those first
+three trends are old.
+
+
+264
+0:11:51,48 --> 0:11:54,9
+They've been around for at least
+200 years since the beginning
+
+
+265
+0:11:54,9 --> 0:11:56,42
+of the European
+Industrial Revolution.
+
+
+266
+0:11:56,42 --> 0:11:58,52
+They're also very
+well understood
+
+
+267
+0:11:58,52 --> 0:11:59,771
+in the military in particular.
+
+
+268
+0:11:59,771 --> 0:12:1,603
+Let me just talk about
+them briefly before I
+
+
+269
+0:12:1,603 --> 0:12:3,61
+go to what I think is
+the more important one,
+
+
+270
+0:12:3,61 --> 0:12:4,96
+which is connectivity.
+
+
+271
+0:12:4,96 --> 0:12:9,26
+So, population growth, at the
+beginning of the US Industrial
+
+
+272
+0:12:9,26 --> 0:12:11,618
+Revolution in 17-- sorry,
+the European Industrial
+
+
+273
+0:12:11,618 --> 0:12:15,67
+Revolution in 1750, the total
+population of the planet
+
+
+274
+0:12:15,67 --> 0:12:18,46
+was about 750 million people.
+
+
+275
+0:12:18,46 --> 0:12:20,6
+It took 150 years
+for that population
+
+
+276
+0:12:20,6 --> 0:12:22,63
+to double through
+the first century
+
+
+277
+0:12:22,63 --> 0:12:26,11
+and a half of industrialization
+and the invention of things
+
+
+278
+0:12:26,11 --> 0:12:29,99
+like new ways to think
+about irrigation, new ways
+
+
+279
+0:12:29,99 --> 0:12:32,73
+to think about crops,
+concentration of population
+
+
+280
+0:12:32,73 --> 0:12:35,22
+in urban environments,
+improvements in public health.
+
+
+281
+0:12:35,22 --> 0:12:39,45
+All those sorts of things led to
+this population growth process
+
+
+282
+0:12:39,45 --> 0:12:42,39
+that began in the middle
+of the 18th century.
+
+
+283
+0:12:42,39 --> 0:12:44,83
+By 1900, we were at
+1.5 billion people,
+
+
+284
+0:12:44,83 --> 0:12:49,91
+so we doubled the population of
+the planet in about 150 years.
+
+
+285
+0:12:49,91 --> 0:12:57,48
+We then doubled that population
+again in only 60 years by 1960,
+
+
+286
+0:12:57,48 --> 0:13:0,92
+so we get to 3 billion
+people on the planet in 1960.
+
+
+287
+0:13:0,92 --> 0:13:3,59
+And it's worth noting that
+that second doubling happened
+
+
+288
+0:13:3,59 --> 0:13:6,78
+during the same time
+frame as both world wars
+
+
+289
+0:13:6,78 --> 0:13:11,27
+and a major influenza pandemic
+across the entire planet, which
+
+
+290
+0:13:11,27 --> 0:13:14,88
+between them killed
+about 150 million, mainly
+
+
+291
+0:13:14,88 --> 0:13:16,17
+young and healthy people.
+
+
+292
+0:13:16,17 --> 0:13:20,58
+So despite that, we saw this
+doubling by 1960 to 3 billion.
+
+
+293
+0:13:20,58 --> 0:13:23,39
+The population then doubled
+again by the year 2000
+
+
+294
+0:13:23,39 --> 0:13:26,17
+to 6 billion, and in just
+the dozen years since then,
+
+
+295
+0:13:26,17 --> 0:13:28,29
+we've added slightly more
+than a billion people.
+
+
+296
+0:13:28,29 --> 0:13:31,2
+So today, were looking at
+around about 7 billion people
+
+
+297
+0:13:31,2 --> 0:13:32,13
+on the planet.
+
+
+298
+0:13:32,13 --> 0:13:36,0
+Projecting that forward is not
+a matter of simple prediction,
+
+
+299
+0:13:36,0 --> 0:13:38,4
+it's a matter of looking at
+the demographic bell curve,
+
+
+300
+0:13:38,4 --> 0:13:42,84
+and where people are right now,
+and where the population growth
+
+
+301
+0:13:42,84 --> 0:13:44,14
+is likely to take us.
+
+
+302
+0:13:44,14 --> 0:13:47,314
+But the Bureau of Economic
+and Social Affairs at the UN
+
+
+303
+0:13:47,314 --> 0:13:48,73
+and a bunch of
+other organizations
+
+
+304
+0:13:48,73 --> 0:13:51,742
+that look at the stuff
+project that by the middle
+
+
+305
+0:13:51,742 --> 0:13:53,45
+of the century we're
+looking at something
+
+
+306
+0:13:53,45 --> 0:13:56,92
+like 9.5 billion
+people on the planet,
+
+
+307
+0:13:56,92 --> 0:14:1,659
+so about another 2.5 billion
+people between now and 2050.
+
+
+308
+0:14:1,659 --> 0:14:3,45
+There is a projection
+that the population's
+
+
+309
+0:14:3,45 --> 0:14:5,71
+going to top out at
+around that level
+
+
+310
+0:14:5,71 --> 0:14:9,7
+and stay at essentially
+9.5 billion by 2050.
+
+
+311
+0:14:9,7 --> 0:14:11,4
+That's based on
+certain assumptions
+
+
+312
+0:14:11,4 --> 0:14:15,14
+about what happens to birth
+rate when GDP increases,
+
+
+313
+0:14:15,14 --> 0:14:16,82
+and they may not
+actually play out.
+
+
+314
+0:14:16,82 --> 0:14:19,68
+So we're looking at least
+2 1/2 billion more people
+
+
+315
+0:14:19,68 --> 0:14:23,87
+on the planet in our generation.
+
+
+316
+0:14:23,87 --> 0:14:25,92
+The second factor,
+though, is urbanization.
+
+
+317
+0:14:25,92 --> 0:14:27,92
+So if you go back again to the
+beginning of the Industrial
+
+
+318
+0:14:27,92 --> 0:14:29,94
+Revolution and you think
+about the population
+
+
+319
+0:14:29,94 --> 0:14:32,52
+of the planet at
+that time, roughly 2%
+
+
+320
+0:14:32,52 --> 0:14:35,37
+of people on the
+earth in 1800 lived
+
+
+321
+0:14:35,37 --> 0:14:37,49
+in a city of a million or more.
+
+
+322
+0:14:37,49 --> 0:14:40,15
+By 1900, it was 10%.
+
+
+323
+0:14:40,15 --> 0:14:42,61
+By 1960, it was 25%.
+
+
+324
+0:14:42,61 --> 0:14:45,45
+By April of 2008, it was 50%.
+
+
+325
+0:14:45,45 --> 0:14:47,14
+We're currently
+sitting somewhere north
+
+
+326
+0:14:47,14 --> 0:14:49,64
+of 50% urbanization
+on the planet,
+
+
+327
+0:14:49,64 --> 0:14:52,35
+so roughly half the
+people on the planet
+
+
+328
+0:14:52,35 --> 0:14:55,44
+live in a city of
+a million or more.
+
+
+329
+0:14:55,44 --> 0:14:59,69
+Again, the same projections
+suggest that by 2050 we'll
+
+
+330
+0:14:59,69 --> 0:15:3,99
+be looking at somewhere between
+65% and 75% urbanization.
+
+
+331
+0:15:3,99 --> 0:15:7,39
+So somewhere around the current
+population of the planet--
+
+
+332
+0:15:7,39 --> 0:15:11,19
+7 billion people-- will
+be living in a large city
+
+
+333
+0:15:11,19 --> 0:15:13,58
+by the middle of the century.
+
+
+334
+0:15:13,58 --> 0:15:16,49
+Interestingly, that
+urbanization process
+
+
+335
+0:15:16,49 --> 0:15:20,26
+is not only going to account
+for all the gross population
+
+
+336
+0:15:20,26 --> 0:15:21,244
+growth on the planet.
+
+
+337
+0:15:21,244 --> 0:15:23,16
+It's also going to account
+for a lot of people
+
+
+338
+0:15:23,16 --> 0:15:25,41
+leaving rural
+environments and moving
+
+
+339
+0:15:25,41 --> 0:15:28,22
+to the cities between now and
+the middle of the century.
+
+
+340
+0:15:28,22 --> 0:15:30,12
+So actually the
+urban environment
+
+
+341
+0:15:30,12 --> 0:15:33,6
+is going to grow by roughly
+3 billion people between now
+
+
+342
+0:15:33,6 --> 0:15:35,11
+and the middle of the century.
+
+
+343
+0:15:35,11 --> 0:15:38,8
+Roughly 1 1/2 million people
+per week migrate from a country
+
+
+344
+0:15:38,8 --> 0:15:43,94
+area to a city, so roughly the
+same number of people that it
+
+
+345
+0:15:43,94 --> 0:15:47,61
+took all of human history
+until 1960 to generate across
+
+
+346
+0:15:47,61 --> 0:15:51,7
+the entire planet are going to
+move to cities within the next
+
+
+347
+0:15:51,7 --> 0:15:52,78
+30 years.
+
+
+348
+0:15:52,78 --> 0:15:54,87
+Edgar Peters, who's the
+head of the Africa City
+
+
+349
+0:15:54,87 --> 0:15:56,9
+Center in Cape Town
+in South Africa,
+
+
+350
+0:15:56,9 --> 0:16:0,69
+says we're looking at dramatic
+disruptive change in just one
+
+
+351
+0:16:0,69 --> 0:16:3,95
+generation because of that
+urbanization and population
+
+
+352
+0:16:3,95 --> 0:16:6,52
+growth.
+
+
+353
+0:16:6,52 --> 0:16:8,362
+That's not all, though.
+
+
+354
+0:16:8,362 --> 0:16:10,1
+Those urban
+environments will not
+
+
+355
+0:16:10,1 --> 0:16:12,4
+be evenly distributed across
+the surface of the earth.
+
+
+356
+0:16:12,4 --> 0:16:15,5
+They'll be almost entirely
+in the developing world
+
+
+357
+0:16:15,5 --> 0:16:17,71
+in low and middle
+income countries.
+
+
+358
+0:16:17,71 --> 0:16:19,73
+This is not a
+phenomenon that we see
+
+
+359
+0:16:19,73 --> 0:16:21,29
+in Europe and the United States.
+
+
+360
+0:16:21,29 --> 0:16:24,91
+It's a phenomenon of sub-Saharan
+Africa, that Mediterranean
+
+
+361
+0:16:24,91 --> 0:16:27,65
+basin, South Asia, Latin
+America, and the Caribbean.
+
+
+362
+0:16:27,65 --> 0:16:29,9
+It's not evenly distributed.
+
+
+363
+0:16:29,9 --> 0:16:32,68
+It's developing world cities.
+
+
+364
+0:16:32,68 --> 0:16:35,38
+And those cities
+are overwhelmingly
+
+
+365
+0:16:35,38 --> 0:16:39,35
+located on coastlines for
+reasons of basic physics.
+
+
+366
+0:16:39,35 --> 0:16:43,4
+When you want to move
+heavy large stuff around,
+
+
+367
+0:16:43,4 --> 0:16:45,57
+for all of you in
+history and still now,
+
+
+368
+0:16:45,57 --> 0:16:48,46
+it's been a hell of a lot easier
+to move that around by water
+
+
+369
+0:16:48,46 --> 0:16:49,54
+than on land.
+
+
+370
+0:16:49,54 --> 0:16:53,21
+So cities have tended to cluster
+against large bodies of water
+
+
+371
+0:16:53,21 --> 0:16:56,29
+on rivers, on major
+river deltas, lakes,
+
+
+372
+0:16:56,29 --> 0:16:57,57
+or on coastlines.
+
+
+373
+0:16:57,57 --> 0:17:0,28
+Already today, 80% of
+people on the planet
+
+
+374
+0:17:0,28 --> 0:17:2,312
+live within 50 miles of the sea.
+
+
+375
+0:17:2,312 --> 0:17:5,369
+And of course, we're dealing
+with what systems theorists
+
+
+376
+0:17:5,369 --> 0:17:7,71
+would call sensitivity to
+initial conditions here.
+
+
+377
+0:17:7,71 --> 0:17:10,16
+So as urbanization
+takes place, it's
+
+
+378
+0:17:10,16 --> 0:17:11,66
+not happening against
+the background
+
+
+379
+0:17:11,66 --> 0:17:15,49
+of an evenly distributed
+human population.
+
+
+380
+0:17:15,49 --> 0:17:17,38
+Cities are already
+on coastlines,
+
+
+381
+0:17:17,38 --> 0:17:19,46
+so as people move
+to existing cities,
+
+
+382
+0:17:19,46 --> 0:17:21,73
+they're going to be
+moving to coastlines.
+
+
+383
+0:17:21,73 --> 0:17:24,48
+So we're going to see
+a population that's
+
+
+384
+0:17:24,48 --> 0:17:28,45
+incredibly clustered in urban
+environments in third world
+
+
+385
+0:17:28,45 --> 0:17:29,76
+cities on coastlines.
+
+
+386
+0:17:29,76 --> 0:17:32,485
+
+
+
+387
+0:17:32,485 --> 0:17:34,11
+Obviously, that
+changes the environment
+
+
+388
+0:17:34,11 --> 0:17:36,282
+in which we operate, but
+actually the military well
+
+
+389
+0:17:36,282 --> 0:17:37,74
+understood this
+stuff 25 years ago.
+
+
+390
+0:17:37,74 --> 0:17:39,99
+So a marine general
+called Krulak
+
+
+391
+0:17:39,99 --> 0:17:43,17
+wrote about a thing called a
+three block war in the 1990s,
+
+
+392
+0:17:43,17 --> 0:17:45,955
+and he had guys like Ralph
+Peters and Robert Scales--
+
+
+393
+0:17:45,955 --> 0:17:47,455
+and these are all
+military theorists
+
+
+394
+0:17:47,455 --> 0:17:50,99
+that I'm mentioning-- who really
+focused on the problems of what
+
+
+395
+0:17:50,99 --> 0:17:54,9
+we call the urban littoral
+back in the 1990s.
+
+
+396
+0:17:54,9 --> 0:17:55,34
+And I read some stuff on this.
+
+
+397
+0:17:55,34 --> 0:17:58,882
+It was pretty well understood
+in the community at that point.
+
+
+398
+0:17:58,882 --> 0:18:0,34
+But what's happened
+is the military
+
+
+399
+0:18:0,34 --> 0:18:4,19
+since 9/11 has been dragged off
+into this other environment.
+
+
+400
+0:18:4,19 --> 0:18:7,36
+Now, I wouldn't call Afghanistan
+a geographical fluke.
+
+
+401
+0:18:7,36 --> 0:18:10,96
+There are deserts, and
+mountains, and jungles
+
+
+402
+0:18:10,96 --> 0:18:13,65
+where conflict is going
+to occur in the future,
+
+
+403
+0:18:13,65 --> 0:18:15,49
+but because conflict
+tends to happen where
+
+
+404
+0:18:15,49 --> 0:18:18,9
+people live and the
+general parameters
+
+
+405
+0:18:18,9 --> 0:18:20,76
+of human civilization shape
+the parameters within which
+
+
+406
+0:18:20,76 --> 0:18:24,4
+conflict happens, the majority
+of conflict on the planet,
+
+
+407
+0:18:24,4 --> 0:18:26,59
+like the majority of
+everything on the planet,
+
+
+408
+0:18:26,59 --> 0:18:28,57
+is going to happen
+in third world
+
+
+409
+0:18:28,57 --> 0:18:31,379
+coastal cities by the
+middle of the century.
+
+
+410
+0:18:31,379 --> 0:18:33,45
+And I can talk more
+in detail in the Q&A
+
+
+411
+0:18:33,45 --> 0:18:36,101
+if you like about the
+data that supports that.
+
+
+412
+0:18:36,101 --> 0:18:38,6
+But what's really interesting
+to me is not these old trends.
+
+
+413
+0:18:38,6 --> 0:18:39,76
+They've been around
+for a long time,
+
+
+414
+0:18:39,76 --> 0:18:40,926
+and they're well understood.
+
+
+415
+0:18:40,926 --> 0:18:43,93
+What's interesting is the new
+trend, which is connectivity.
+
+
+416
+0:18:43,93 --> 0:18:45,93
+Now, I'm talking to a
+bunch of people at Google,
+
+
+417
+0:18:45,93 --> 0:18:48,5
+so I probably don't need to
+go into the level of detail
+
+
+418
+0:18:48,5 --> 0:18:50,59
+on this that I have with
+some of the other folks
+
+
+419
+0:18:50,59 --> 0:18:53,66
+that I've spoken to, but
+just a couple of data points.
+
+
+420
+0:18:53,66 --> 0:18:58,4
+In the year 2000, there were
+30,000 cellphones in Nigeria.
+
+
+421
+0:18:58,4 --> 0:19:1,97
+Today, there are 113 million.
+
+
+422
+0:19:1,97 --> 0:19:4,86
+Last year, I spent some time
+walking around Mogadishu
+
+
+423
+0:19:4,86 --> 0:19:6,3
+engaging with the
+community there
+
+
+424
+0:19:6,3 --> 0:19:9,97
+on some work we were
+doing, and Mogadishu
+
+
+425
+0:19:9,97 --> 0:19:13,1
+is a city that
+survived for 20 years
+
+
+426
+0:19:13,1 --> 0:19:15,42
+without a government
+or a central state.
+
+
+427
+0:19:15,42 --> 0:19:18,23
+24% of people that
+live in Mogadishu
+
+
+428
+0:19:18,23 --> 0:19:19,53
+own and use a cell phone.
+
+
+429
+0:19:19,53 --> 0:19:21,65
+There are four major
+cellphone companies.
+
+
+430
+0:19:21,65 --> 0:19:24,83
+Internet access from Mogadishu
+is actually a lot easier
+
+
+431
+0:19:24,83 --> 0:19:26,7
+than from parts of
+the United States
+
+
+432
+0:19:26,7 --> 0:19:29,4
+if you want to talk to people,
+because you're very closely
+
+
+433
+0:19:29,4 --> 0:19:33,1
+geographically connected to the
+international undersea cable
+
+
+434
+0:19:33,1 --> 0:19:34,45
+network.
+
+
+435
+0:19:34,45 --> 0:19:38,762
+There's a market in the middle
+of Mogadishu called the Bakaara
+
+
+436
+0:19:38,762 --> 0:19:40,72
+Market, which was the
+scene of a big gun battle
+
+
+437
+0:19:40,72 --> 0:19:43,7
+about 20 years ago.
+
+
+438
+0:19:43,7 --> 0:19:44,82
+On the ground floor
+of that market
+
+
+439
+0:19:44,82 --> 0:19:47,43
+is a currency trading
+exchange where
+
+
+440
+0:19:47,43 --> 0:19:49,99
+people are on the internet
+and on their cell phones,
+
+
+441
+0:19:49,99 --> 0:19:52,18
+and they're trading the
+Somali Shilling, which
+
+
+442
+0:19:52,18 --> 0:19:54,18
+is the currency again
+that survived for 20 years
+
+
+443
+0:19:54,18 --> 0:19:55,35
+without a central bank.
+
+
+444
+0:19:55,35 --> 0:19:57,65
+It floats on international
+exchange rates.
+
+
+445
+0:19:57,65 --> 0:19:59,79
+It gets updated
+five times a day,
+
+
+446
+0:19:59,79 --> 0:20:4,19
+and the traders on that floor
+punch out a SMS text message
+
+
+447
+0:20:4,19 --> 0:20:7,17
+to everybody that trades
+in the city five times
+
+
+448
+0:20:7,17 --> 0:20:8,81
+a day with the
+current exchange rate.
+
+
+449
+0:20:8,81 --> 0:20:9,93
+And so you have
+all these traders
+
+
+450
+0:20:9,93 --> 0:20:11,679
+out there on their
+cellphones all the time
+
+
+451
+0:20:11,679 --> 0:20:14,644
+tapping into a global
+patent of commerce.
+
+
+452
+0:20:14,644 --> 0:20:16,6
+And one of the
+things we're seeing
+
+
+453
+0:20:16,6 --> 0:20:19,4
+is that access to the
+international networks
+
+
+454
+0:20:19,4 --> 0:20:21,62
+of trade, things like
+remittance flows,
+
+
+455
+0:20:21,62 --> 0:20:23,63
+arbitrage, the
+movement of currency
+
+
+456
+0:20:23,63 --> 0:20:25,62
+or the movement of
+goods around the planet
+
+
+457
+0:20:25,62 --> 0:20:29,1
+has overtaken
+agricultural surplus
+
+
+458
+0:20:29,1 --> 0:20:31,5
+as a major driver
+of city growth.
+
+
+459
+0:20:31,5 --> 0:20:34,54
+So Mogadishu is
+not a city that can
+
+
+460
+0:20:34,54 --> 0:20:37,51
+be sustained by the rest
+of the Somali economy.
+
+
+461
+0:20:37,51 --> 0:20:39,94
+The reason that it's there
+and it's that big is it's
+
+
+462
+0:20:39,94 --> 0:20:41,12
+a trading city.
+
+
+463
+0:20:41,12 --> 0:20:43,23
+It's always been
+there, but now it's
+
+
+464
+0:20:43,23 --> 0:20:46,765
+not just a trading city that
+sends charcoal to Yemen,
+
+
+465
+0:20:46,765 --> 0:20:49,49
+or sends cart around
+the rest of the country,
+
+
+466
+0:20:49,49 --> 0:20:52,1
+and engages in basic
+commodities trading.
+
+
+467
+0:20:52,1 --> 0:20:54,34
+It's also a trading city
+that's international,
+
+
+468
+0:20:54,34 --> 0:20:59,0
+because you have 800,000 Somalis
+in the international diaspora,
+
+
+469
+0:20:59,0 --> 0:21:2,62
+and they're connected to the 7
+1/2 million Somalis that live
+
+
+470
+0:21:2,62 --> 0:21:6,52
+in the country in a way that
+just never was possible before.
+
+
+471
+0:21:6,52 --> 0:21:10,62
+Another example, we
+mentioned Syria earlier.
+
+
+472
+0:21:10,62 --> 0:21:15,0
+Until 2000, there was virtually
+no internet, no satellite,
+
+
+473
+0:21:15,0 --> 0:21:18,67
+television, and no cell
+phone access in Syria.
+
+
+474
+0:21:18,67 --> 0:21:22,2
+Hafez al-Assad, the president
+of Syria from the 1970s,
+
+
+475
+0:21:22,2 --> 0:21:23,12
+came from peasant stock.
+
+
+476
+0:21:23,12 --> 0:21:24,203
+He was a bit of a Luddite.
+
+
+477
+0:21:24,203 --> 0:21:26,85
+He wasn't that interested in
+allowing Syrians to connect
+
+
+478
+0:21:26,85 --> 0:21:30,37
+to the rest of the world for
+a variety of obvious reasons,
+
+
+479
+0:21:30,37 --> 0:21:34,62
+and he essentially denied
+access to all this connectivity
+
+
+480
+0:21:34,62 --> 0:21:37,38
+until his death in 2000.
+
+
+481
+0:21:37,38 --> 0:21:39,58
+His son, though,
+Bashar al-Assad,
+
+
+482
+0:21:39,58 --> 0:21:41,57
+was a bit more of
+a computer nerd.
+
+
+483
+0:21:41,57 --> 0:21:44,81
+He was the president of
+the Syrian Computer Society
+
+
+484
+0:21:44,81 --> 0:21:46,37
+before becoming president.
+
+
+485
+0:21:46,37 --> 0:21:49,52
+He was a bit of a AV
+club guy at college.
+
+
+486
+0:21:49,52 --> 0:21:53,36
+He was quite interested in
+this issue of connectivity.
+
+
+487
+0:21:53,36 --> 0:21:55,55
+Ironically, under
+their previous regime,
+
+
+488
+0:21:55,55 --> 0:21:57,865
+you could get a satellite
+dish, but you did that
+
+
+489
+0:21:57,865 --> 0:21:59,24
+by getting it on
+the black market
+
+
+490
+0:21:59,24 --> 0:22:1,72
+from the Syrian military who
+would happily sell you one
+
+
+491
+0:22:1,72 --> 0:22:4,95
+and then track all your usage of
+that satellite dish thereafter.
+
+
+492
+0:22:4,95 --> 0:22:7,98
+But after 2000, there was this
+period known as the Damascus
+
+
+493
+0:22:7,98 --> 0:22:12,64
+Spring when Bashar al-Assad
+through open electronic
+
+
+494
+0:22:12,64 --> 0:22:15,7
+connectivity, and we
+saw this massive surge
+
+
+495
+0:22:15,7 --> 0:22:17,96
+in cell phone usage,
+in internet access,
+
+
+496
+0:22:17,96 --> 0:22:19,57
+in access to
+satellite television.
+
+
+497
+0:22:19,57 --> 0:22:22,3
+And actually if you
+look at the other cities
+
+
+498
+0:22:22,3 --> 0:22:25,4
+and other countries
+involved in the Arab Spring,
+
+
+499
+0:22:25,4 --> 0:22:26,61
+you see a very,
+very similar pattern
+
+
+500
+0:22:26,61 --> 0:22:30,15
+of this explosion of
+connectivity after 2000.
+
+
+501
+0:22:30,15 --> 0:22:33,54
+When the uprising came in
+2011, that fundamentally
+
+
+502
+0:22:33,54 --> 0:22:37,4
+changed the way that the
+conflict developed in Syria.
+
+
+503
+0:22:37,4 --> 0:22:38,85
+Unlike the 1980s
+when the regime was
+
+
+504
+0:22:38,85 --> 0:22:42,34
+able to crush one city at a time
+because people didn't know what
+
+
+505
+0:22:42,34 --> 0:22:44,82
+was going on, this
+time people were
+
+
+506
+0:22:44,82 --> 0:22:45,99
+able to talk to each other.
+
+
+507
+0:22:45,99 --> 0:22:49,86
+And the uprising spread across
+about half a dozen cities
+
+
+508
+0:22:49,86 --> 0:22:52,33
+on the first day, and
+it reached 20 cities
+
+
+509
+0:22:52,33 --> 0:22:53,7
+in the first two weeks.
+
+
+510
+0:22:53,7 --> 0:22:56,9
+And so the regime was not
+able to get ahead of the curve
+
+
+511
+0:22:56,9 --> 0:22:56,694
+this time.
+
+
+512
+0:22:56,694 --> 0:22:58,36
+The other critical
+difference that we've
+
+
+513
+0:22:58,36 --> 0:23:1,9
+seen in all the Arab
+Spring conflicts
+
+
+514
+0:23:1,9 --> 0:23:5,13
+is the way that a tech savvy
+connected population that
+
+
+515
+0:23:5,13 --> 0:23:8,75
+is able to access technical
+instructions but also
+
+
+516
+0:23:8,75 --> 0:23:11,33
+physical manufacturing
+facilities
+
+
+517
+0:23:11,33 --> 0:23:14,68
+can rapidly generate
+weaponry and capabilities
+
+
+518
+0:23:14,68 --> 0:23:18,29
+that just weren't available
+even a decade ago.
+
+
+519
+0:23:18,29 --> 0:23:21,29
+And we can talk in more detail
+in Q&A if you like about that.
+
+
+520
+0:23:21,29 --> 0:23:23,66
+But I'll just give
+you one example.
+
+
+521
+0:23:23,66 --> 0:23:27,72
+In the Aleppo area-- which
+is in northern Syria--
+
+
+522
+0:23:27,72 --> 0:23:31,91
+last year, a bunch of guys
+in the Syrian free army
+
+
+523
+0:23:31,91 --> 0:23:34,132
+downloaded a bunch of
+instructions off the internet
+
+
+524
+0:23:34,132 --> 0:23:36,34
+and started producing their
+own mortar systems, which
+
+
+525
+0:23:36,34 --> 0:23:40,3
+they used Google Android
+phones to control.
+
+
+526
+0:23:40,3 --> 0:23:44,94
+They used the compass app and
+a variety of calculation tables
+
+
+527
+0:23:44,94 --> 0:23:47,99
+to decide where they're
+going to fire those mortars.
+
+
+528
+0:23:47,99 --> 0:23:51,42
+They look at Google Earth
+as a way of targeting,
+
+
+529
+0:23:51,42 --> 0:23:55,84
+and they'll use
+access to the internet
+
+
+530
+0:23:55,84 --> 0:23:58,77
+to basically pass messages
+back and forth on Twitter
+
+
+531
+0:23:58,77 --> 0:24:2,7
+to control the fall of shot.
+
+
+532
+0:24:2,7 --> 0:24:4,45
+But also they
+downloaded instructions
+
+
+533
+0:24:4,45 --> 0:24:7,16
+that enabled them to build
+their own army vehicles,
+
+
+534
+0:24:7,16 --> 0:24:10,682
+so in a backyard
+factory in Aleppo
+
+
+535
+0:24:10,682 --> 0:24:13,14
+last year, a bunch of guys made
+this thing called al-Shams,
+
+
+536
+0:24:13,14 --> 0:24:18,35
+which is their lightweight tank
+that has many mono chassis.
+
+
+537
+0:24:18,35 --> 0:24:21,49
+It's about 6 feet long
+and about 3 1/2 feet wide.
+
+
+538
+0:24:21,49 --> 0:24:24,19
+It's controlled with a Game
+Boy console from inside,
+
+
+539
+0:24:24,19 --> 0:24:26,7
+and you look at a flat
+screen television.
+
+
+540
+0:24:26,7 --> 0:24:27,861
+It doesn't have a
+turret, which is actually
+
+
+541
+0:24:27,861 --> 0:24:30,55
+the most complicated piece of
+an armored vehicle to build.
+
+
+542
+0:24:30,55 --> 0:24:33,3
+Instead, it has a remote
+control weapon station
+
+
+543
+0:24:33,3 --> 0:24:35,94
+where they basically a
+robot electric motor that
+
+
+544
+0:24:35,94 --> 0:24:38,36
+controls the 7.62
+millimeter machine
+
+
+545
+0:24:38,36 --> 0:24:39,89
+gun that sits
+outside the turret.
+
+
+546
+0:24:39,89 --> 0:24:42,64
+And you've got a series
+of armored video cameras
+
+
+547
+0:24:42,64 --> 0:24:44,74
+that can be replaced
+if they get broken that
+
+
+548
+0:24:44,74 --> 0:24:50,5
+allow the thing to basically
+run through a Go Pro
+
+
+549
+0:24:50,5 --> 0:24:52,0
+to a Game Boy
+controller, and the guy
+
+
+550
+0:24:52,0 --> 0:24:54,86
+drives it around the
+streets of Aleppo
+
+
+551
+0:24:54,86 --> 0:24:58,41
+using basically home
+consumer entertainment
+
+
+552
+0:24:58,41 --> 0:25:0,35
+technology to control it.
+
+
+553
+0:25:0,35 --> 0:25:3,75
+When I showed it to a bunch of
+army guys earlier this year,
+
+
+554
+0:25:3,75 --> 0:25:7,374
+they said to me, well, why would
+you take all that technology
+
+
+555
+0:25:7,374 --> 0:25:9,54
+and put it into this tiny
+little army vehicle that's
+
+
+556
+0:25:9,54 --> 0:25:12,33
+only 3 feet wide and 6 feet
+long and it can't fight
+
+
+557
+0:25:12,33 --> 0:25:14,71
+another tank, because it
+only has a machine gun?
+
+
+558
+0:25:14,71 --> 0:25:17,35
+Well, the reason is because
+tanks can't get down
+
+
+559
+0:25:17,35 --> 0:25:19,51
+streets in a place like Aleppo.
+
+
+560
+0:25:19,51 --> 0:25:22,41
+A Bradley armored fighting
+vehicle is about 16 feet wide,
+
+
+561
+0:25:22,41 --> 0:25:23,679
+so is an Abrams tank.
+
+
+562
+0:25:23,679 --> 0:25:24,72
+They're not getting that.
+
+
+563
+0:25:24,72 --> 0:25:27,33
+They're not going to get
+into that environment,
+
+
+564
+0:25:27,33 --> 0:25:28,73
+and it doesn't need a big gun.
+
+
+565
+0:25:28,73 --> 0:25:31,11
+It needs a small machine
+gun for fighting infantry,
+
+
+566
+0:25:31,11 --> 0:25:32,61
+because it's not
+going to be dealing
+
+
+567
+0:25:32,61 --> 0:25:34,42
+with large armored vehicles.
+
+
+568
+0:25:34,42 --> 0:25:38,5
+So this is actually a very
+smart technical adaptation
+
+
+569
+0:25:38,5 --> 0:25:41,85
+of consumer electronics with
+basically well understood
+
+
+570
+0:25:41,85 --> 0:25:45,5
+internal combustion engine
+and the application of fire
+
+
+571
+0:25:45,5 --> 0:25:46,5
+in an urban environment.
+
+
+572
+0:25:46,5 --> 0:25:49,9
+But what's interesting about
+this is not the technology
+
+
+573
+0:25:49,9 --> 0:25:50,592
+itself.
+
+
+574
+0:25:50,592 --> 0:25:52,55
+It's the way that all
+these people concentrated
+
+
+575
+0:25:52,55 --> 0:25:55,73
+in an urban environment with
+a high degree of connectivity
+
+
+576
+0:25:55,73 --> 0:25:58,68
+have actually democratized
+military technology
+
+
+577
+0:25:58,68 --> 0:25:59,41
+on the ground.
+
+
+578
+0:25:59,41 --> 0:26:1,33
+And the way these
+conflicts have developed
+
+
+579
+0:26:1,33 --> 0:26:5,29
+is very different from how
+previous irregular warfare
+
+
+580
+0:26:5,29 --> 0:26:6,85
+conflicts developed.
+
+
+581
+0:26:6,85 --> 0:26:9,78
+I have case studies in
+the book on that stuff
+
+
+582
+0:26:9,78 --> 0:26:11,52
+and on things like
+the Mumbai attack
+
+
+583
+0:26:11,52 --> 0:26:14,22
+where the Lashkar-e-Taiba
+terrorists from Pakistan
+
+
+584
+0:26:14,22 --> 0:26:16,48
+used Twitter as
+their control feed
+
+
+585
+0:26:16,48 --> 0:26:19,61
+to actually control the attack
+and used downloads of Google
+
+
+586
+0:26:19,61 --> 0:26:23,719
+Earth to understand the flow of
+the city and how to attack it.
+
+
+587
+0:26:23,719 --> 0:26:25,26
+I have a bunch of
+other case studies.
+
+
+588
+0:26:25,26 --> 0:26:26,85
+Probably the most
+interesting to me
+
+
+589
+0:26:26,85 --> 0:26:31,0
+is actually the way that
+Jamaican drug gangs in Kingston
+
+
+590
+0:26:31,0 --> 0:26:35,2
+have used urban planning
+decisions made in the 1960s
+
+
+591
+0:26:35,2 --> 0:26:38,33
+to create these Garrison
+districts around the outside
+
+
+592
+0:26:38,33 --> 0:26:40,72
+of the city and control
+international drug
+
+
+593
+0:26:40,72 --> 0:26:44,98
+trade from slum areas around
+the capital city of Jamaica.
+
+
+594
+0:26:44,98 --> 0:26:47,84
+But let me finish by
+talking about I think what's
+
+
+595
+0:26:47,84 --> 0:26:51,25
+more germane to this discussion,
+which is how do we model
+
+
+596
+0:26:51,25 --> 0:26:54,13
+and understand
+cities under stress.
+
+
+597
+0:26:54,13 --> 0:26:57,1
+Because if I'm right
+about the future,
+
+
+598
+0:26:57,1 --> 0:26:58,51
+then the future
+environment is going
+
+
+599
+0:26:58,51 --> 0:27:0,58
+to be one of cities
+that are experiencing
+
+
+600
+0:27:0,58 --> 0:27:4,87
+this tsunami of inflow of
+population, and information,
+
+
+601
+0:27:4,87 --> 0:27:7,19
+and money, and drugs,
+and weapons that
+
+
+602
+0:27:7,19 --> 0:27:9,781
+come about through
+rapid urbanization.
+
+
+603
+0:27:9,781 --> 0:27:12,28
+And it's worth thinking about
+how do we model and understand
+
+
+604
+0:27:12,28 --> 0:27:15,8
+those and how do we think
+about resiliencies to address
+
+
+605
+0:27:15,8 --> 0:27:17,85
+those problems going forward.
+
+
+606
+0:27:17,85 --> 0:27:20,61
+So briefly on that, in
+looking at this in the book,
+
+
+607
+0:27:20,61 --> 0:27:22,63
+I go back to Karl
+Marx, weirdly enough.
+
+
+608
+0:27:22,63 --> 0:27:25,6
+So Marx-- whatever
+else he may have been--
+
+
+609
+0:27:25,6 --> 0:27:28,68
+was a social scientist who's
+looking at European cities
+
+
+610
+0:27:28,68 --> 0:27:31,92
+100 years after the beginning
+of that Industrial Revolution
+
+
+611
+0:27:31,92 --> 0:27:33,74
+process that I was
+talking about earlier.
+
+
+612
+0:27:33,74 --> 0:27:37,36
+So in the 1850s, Marx is
+looking at Paris, and Berlin,
+
+
+613
+0:27:37,36 --> 0:27:40,7
+and London, and he's saying what
+is it about these cities that
+
+
+614
+0:27:40,7 --> 0:27:44,0
+gives rise to the
+environment of urban squalor
+
+
+615
+0:27:44,0 --> 0:27:46,23
+that is famously
+written about by people
+
+
+616
+0:27:46,23 --> 0:27:48,5
+like Victor Hugo
+and Charles Dickens.
+
+
+617
+0:27:48,5 --> 0:27:50,42
+What is it that
+gives rise to that?
+
+
+618
+0:27:50,42 --> 0:27:53,63
+And he talks about what
+he calls a metabolic rift.
+
+
+619
+0:27:53,63 --> 0:27:55,57
+So that people that
+are used to living
+
+
+620
+0:27:55,57 --> 0:27:58,98
+in a rural environment, where
+most of the people that you
+
+
+621
+0:27:58,98 --> 0:28:2,0
+rely on for day-to-day survival
+are people that you're either
+
+
+622
+0:28:2,0 --> 0:28:4,25
+related to or you
+know personally.
+
+
+623
+0:28:4,25 --> 0:28:6,42
+And you're in this
+organic structure,
+
+
+624
+0:28:6,42 --> 0:28:9,12
+you then find yourself in
+a large urban environment
+
+
+625
+0:28:9,12 --> 0:28:10,93
+where everything's
+depersonalized,
+
+
+626
+0:28:10,93 --> 0:28:15,68
+and you now rely on these large
+institutionalized distanciated
+
+
+627
+0:28:15,68 --> 0:28:18,855
+systems that are essentially
+lots of moving parts
+
+
+628
+0:28:18,855 --> 0:28:21,84
+that all have to work together,
+or the whole thing falls over.
+
+
+629
+0:28:21,84 --> 0:28:24,64
+And he talks about how that
+creates this social rift
+
+
+630
+0:28:24,64 --> 0:28:26,43
+in the way that people
+look at each other,
+
+
+631
+0:28:26,43 --> 0:28:32,22
+but it disassociates them
+from the means of survival.
+
+
+632
+0:28:32,22 --> 0:28:35,72
+This idea sits fallow in urban
+planning for about 100 years,
+
+
+633
+0:28:35,72 --> 0:28:37,63
+and then a guy called
+Abel Wolman picks it up
+
+
+634
+0:28:37,63 --> 0:28:40,4
+in the 1960s, who
+was an urban planner,
+
+
+635
+0:28:40,4 --> 0:28:41,67
+and he writes an
+article that's actually
+
+
+636
+0:28:41,67 --> 0:28:44,3
+very seminal in
+urban ecology where
+
+
+637
+0:28:44,3 --> 0:28:46,69
+he talks about the
+metabolism of cities.
+
+
+638
+0:28:46,69 --> 0:28:49,62
+And Wolman's argument is
+pretty straightforward.
+
+
+639
+0:28:49,62 --> 0:28:51,36
+It's like if you
+imagine your body
+
+
+640
+0:28:51,36 --> 0:28:55,28
+as a system with various inputs
+and intakes of water, fuel,
+
+
+641
+0:28:55,28 --> 0:28:57,39
+food, and so on that
+come into your body,
+
+
+642
+0:28:57,39 --> 0:28:59,58
+and there are
+transformative processes
+
+
+643
+0:28:59,58 --> 0:29:2,95
+that result in energy
+and biomass and so on.
+
+
+644
+0:29:2,95 --> 0:29:5,155
+But they also result
+in toxins that
+
+
+645
+0:29:5,155 --> 0:29:7,34
+have to be metabolized
+and dealt with.
+
+
+646
+0:29:7,34 --> 0:29:10,47
+And if your body doesn't
+have the carrying capacity,
+
+
+647
+0:29:10,47 --> 0:29:14,11
+the metabolic systems in place
+to deal with those toxins,
+
+
+648
+0:29:14,11 --> 0:29:15,37
+then you're going to get sick.
+
+
+649
+0:29:15,37 --> 0:29:18,0
+He says you can apply
+the same idea to a city.
+
+
+650
+0:29:18,0 --> 0:29:19,515
+It has various
+inputs and inflows
+
+
+651
+0:29:19,515 --> 0:29:22,17
+and has various
+transformative processes,
+
+
+652
+0:29:22,17 --> 0:29:25,85
+and if the inflows overwhelm
+the carrying capacity
+
+
+653
+0:29:25,85 --> 0:29:28,45
+of the system, then you're going
+to see the emergence of toxins
+
+
+654
+0:29:28,45 --> 0:29:33,2
+that are going to result in
+stuff like pollution-- air
+
+
+655
+0:29:33,2 --> 0:29:34,835
+pollution, water
+pollution, and so on.
+
+
+656
+0:29:34,835 --> 0:29:38,7
+Now, this idea is
+very common now
+
+
+657
+0:29:38,7 --> 0:29:41,43
+in urban ecology in the
+physical sense, carbon, water,
+
+
+658
+0:29:41,43 --> 0:29:44,5
+air, how these things flow
+through an urban system.
+
+
+659
+0:29:44,5 --> 0:29:46,1
+And there are
+models that we use,
+
+
+660
+0:29:46,1 --> 0:29:49,82
+and there are material
+flow analysis systems
+
+
+661
+0:29:49,82 --> 0:29:51,71
+that we apply to
+understand that.
+
+
+662
+0:29:51,71 --> 0:29:53,61
+What I've done and what
+a lot of other people
+
+
+663
+0:29:53,61 --> 0:29:56,78
+have done in looking at cities
+in the last 10 or 20 years
+
+
+664
+0:29:56,78 --> 0:29:59,83
+is to do what I would call a
+non-material flow analysis.
+
+
+665
+0:29:59,83 --> 0:30:1,93
+So instead of looking
+at water or carbon,
+
+
+666
+0:30:1,93 --> 0:30:5,8
+we'll look at information, and
+money, and people, and weapons,
+
+
+667
+0:30:5,8 --> 0:30:9,4
+and drugs, and say does the
+city have the carrying capacity
+
+
+668
+0:30:9,4 --> 0:30:12,51
+to deal with those flows, or is
+it in fact getting overwhelmed.
+
+
+669
+0:30:12,51 --> 0:30:15,33
+And when you apply
+those kinds of models
+
+
+670
+0:30:15,33 --> 0:30:17,62
+to cities under
+stress, it turns out
+
+
+671
+0:30:17,62 --> 0:30:20,6
+you can start looking at
+them in a very different way,
+
+
+672
+0:30:20,6 --> 0:30:23,27
+and I can give you again some
+examples in Q&A from places
+
+
+673
+0:30:23,27 --> 0:30:26,74
+we've worked in Africa and
+Latin America to understand
+
+
+674
+0:30:26,74 --> 0:30:29,83
+how a city can be
+seen as essentially
+
+
+675
+0:30:29,83 --> 0:30:32,79
+a patent of intersecting
+flows rather than just
+
+
+676
+0:30:32,79 --> 0:30:36,4
+a piece of organized terrain.
+
+
+677
+0:30:36,4 --> 0:30:38,63
+Modeling that, we
+have found what
+
+
+678
+0:30:38,63 --> 0:30:43,68
+relies on a combination of
+big data, remote observation
+
+
+679
+0:30:43,68 --> 0:30:47,87
+of honest signals from the urban
+environment with field teams
+
+
+680
+0:30:47,87 --> 0:30:50,42
+that can understand
+what's beneath that data.
+
+
+681
+0:30:50,42 --> 0:30:52,48
+So we did a lot of work
+initially in Afghanistan,
+
+
+682
+0:30:52,48 --> 0:30:55,48
+and then subsequently in Syria,
+and in much of other places
+
+
+683
+0:30:55,48 --> 0:30:59,8
+in looking at environments
+that are under stress
+
+
+684
+0:30:59,8 --> 0:31:1,91
+and trying to understand
+what was going on
+
+
+685
+0:31:1,91 --> 0:31:3,94
+by remote observation.
+
+
+686
+0:31:3,94 --> 0:31:6,21
+After a while, we realized
+that that doesn't actually
+
+
+687
+0:31:6,21 --> 0:31:9,36
+give you the answer
+you're looking for.
+
+
+688
+0:31:9,36 --> 0:31:12,9
+It's like looking at a
+jungle canopy from above.
+
+
+689
+0:31:12,9 --> 0:31:14,69
+You can see the trees, but you
+don't know what's underneath.
+
+
+690
+0:31:14,69 --> 0:31:16,565
+And it turns out that
+you have to put a field
+
+
+691
+0:31:16,565 --> 0:31:18,93
+team on the ground
+to figure out what
+
+
+692
+0:31:18,93 --> 0:31:21,92
+is the delta between
+the observed data
+
+
+693
+0:31:21,92 --> 0:31:23,69
+and what you can
+see on the ground
+
+
+694
+0:31:23,69 --> 0:31:26,27
+before you can start to make
+predictive analysis about what
+
+
+695
+0:31:26,27 --> 0:31:27,2
+you're looking at.
+
+
+696
+0:31:27,2 --> 0:31:29,44
+So I'll give you one example,
+and unfortunately, Google
+
+
+697
+0:31:29,44 --> 0:31:31,648
+doesn't come into this story,
+because you guys charge
+
+
+698
+0:31:31,648 --> 0:31:33,38
+for use of Google Earth data.
+
+
+699
+0:31:33,38 --> 0:31:36,14
+But we used Open
+Street Map, which
+
+
+700
+0:31:36,14 --> 0:31:39,93
+is the Wiki version
+of Google Earth
+
+
+701
+0:31:39,93 --> 0:31:41,91
+to work with a series
+of communities, mainly
+
+
+702
+0:31:41,91 --> 0:31:45,1
+women's groups and a
+violence observatory
+
+
+703
+0:31:45,1 --> 0:31:48,19
+in a large African city
+on a coastline that
+
+
+704
+0:31:48,19 --> 0:31:50,61
+has a number of slums
+that are experiencing
+
+
+705
+0:31:50,61 --> 0:31:52,31
+a really high
+degree of violence.
+
+
+706
+0:31:52,31 --> 0:31:53,935
+Now, why women?
+
+
+707
+0:31:53,935 --> 0:31:55,31
+One of the reasons
+that women are
+
+
+708
+0:31:55,31 --> 0:31:56,972
+really important in
+this environment--
+
+
+709
+0:31:56,972 --> 0:31:58,18
+there's actually two reasons.
+
+
+710
+0:31:58,18 --> 0:32:0,14
+One is because they
+are consistently
+
+
+711
+0:32:0,14 --> 0:32:2,27
+excluded from the analysis.
+
+
+712
+0:32:2,27 --> 0:32:5,8
+So when you go and start looking
+at environments on the ground,
+
+
+713
+0:32:5,8 --> 0:32:9,61
+typically you end up
+speaking with elite class
+
+
+714
+0:32:9,61 --> 0:32:12,5
+urban males that
+speak English, which
+
+
+715
+0:32:12,5 --> 0:32:14,531
+is a pretty small subset
+of the environment
+
+
+716
+0:32:14,531 --> 0:32:16,3
+actually when you
+want to understand
+
+
+717
+0:32:16,3 --> 0:32:17,28
+what's really going on.
+
+
+718
+0:32:17,28 --> 0:32:19,54
+But much more
+importantly in my view
+
+
+719
+0:32:19,54 --> 0:32:22,59
+is that something
+like 80% of the people
+
+
+720
+0:32:22,59 --> 0:32:25,95
+that own businesses and
+employ people in slums
+
+
+721
+0:32:25,95 --> 0:32:27,99
+are actually women,
+and the reason for that
+
+
+722
+0:32:27,99 --> 0:32:28,8
+is pretty obvious.
+
+
+723
+0:32:28,8 --> 0:32:31,29
+A lot of these slums
+don't have a lot of jobs.
+
+
+724
+0:32:31,29 --> 0:32:32,97
+Like if you live
+in la Rocinha which
+
+
+725
+0:32:32,97 --> 0:32:36,7
+is a favela outside
+of Rio, you aren't
+
+
+726
+0:32:36,7 --> 0:32:37,76
+going to work in la Rocinha.
+
+
+727
+0:32:37,76 --> 0:32:40,81
+You're going to work downtown
+where the rich people need you
+
+
+728
+0:32:40,81 --> 0:32:45,1
+to sweep streets, and run
+the airport traffic, baggage
+
+
+729
+0:32:45,1 --> 0:32:47,9
+handling system, or drive taxis.
+
+
+730
+0:32:47,9 --> 0:32:50,17
+That's where the work is if
+you're a guy in la Rocinha.
+
+
+731
+0:32:50,17 --> 0:32:52,49
+If you want to
+work in the favela,
+
+
+732
+0:32:52,49 --> 0:32:54,59
+and you want to run a business,
+so you want to employ people,
+
+
+733
+0:32:54,59 --> 0:32:57,54
+then you're probably
+part of this network
+
+
+734
+0:32:57,54 --> 0:32:59,68
+of women small business
+owners that are actually
+
+
+735
+0:32:59,68 --> 0:33:1,517
+pretty common in
+these environments.
+
+
+736
+0:33:1,517 --> 0:33:3,1
+So we worked with
+these women's groups
+
+
+737
+0:33:3,1 --> 0:33:6,812
+to understand threat
+and risk in their slum.
+
+
+738
+0:33:6,812 --> 0:33:8,27
+And if you think
+about it, when you
+
+
+739
+0:33:8,27 --> 0:33:9,92
+walk through an
+urban environment,
+
+
+740
+0:33:9,92 --> 0:33:11,23
+you don't know if you're
+going to be mugged,
+
+
+741
+0:33:11,23 --> 0:33:13,8
+but you do know if it
+is going to happen,
+
+
+742
+0:33:13,8 --> 0:33:14,487
+it'll probably be over there.
+
+
+743
+0:33:14,487 --> 0:33:16,32
+There's just something
+about the environment
+
+
+744
+0:33:16,32 --> 0:33:17,89
+that tells you that it's risky.
+
+
+745
+0:33:17,89 --> 0:33:21,35
+And we built a map which
+essentially reflected
+
+
+746
+0:33:21,35 --> 0:33:24,9
+the community's
+perception of risk
+
+
+747
+0:33:24,9 --> 0:33:27,13
+in different specific
+areas within a slum.
+
+
+748
+0:33:27,13 --> 0:33:29,82
+And it's interesting when you
+compare that to the police data
+
+
+749
+0:33:29,82 --> 0:33:32,342
+that the police have-- which
+is again remote observation--
+
+
+750
+0:33:32,342 --> 0:33:33,8
+you would think
+that the government
+
+
+751
+0:33:33,8 --> 0:33:35,508
+of a large African
+city would know what's
+
+
+752
+0:33:35,508 --> 0:33:36,93
+going on in its environment.
+
+
+753
+0:33:36,93 --> 0:33:37,999
+Mostly they don't.
+
+
+754
+0:33:37,999 --> 0:33:39,54
+You can look at
+these things, and you
+
+
+755
+0:33:39,54 --> 0:33:41,79
+can identify any building
+off of Google Earth,
+
+
+756
+0:33:41,79 --> 0:33:43,79
+but if you talk to somebody
+from the government,
+
+
+757
+0:33:43,79 --> 0:33:45,79
+it's pretty rare for them
+to be able to tell you
+
+
+758
+0:33:45,79 --> 0:33:47,7
+what that building is.
+
+
+759
+0:33:47,7 --> 0:33:48,82
+Even if they know
+what the building is,
+
+
+760
+0:33:48,82 --> 0:33:51,134
+most of these streets
+don't have street names.
+
+
+761
+0:33:51,134 --> 0:33:52,8
+There are no house
+addresses, so there's
+
+
+762
+0:33:52,8 --> 0:33:54,84
+no way to record
+that information.
+
+
+763
+0:33:54,84 --> 0:33:57,7
+So we built these
+special models of where
+
+
+764
+0:33:57,7 --> 0:33:59,72
+the community felt unsafe,
+and we began looking at them.
+
+
+765
+0:33:59,72 --> 0:34:3,584
+We realized that actually these
+places have a visual signature.
+
+
+766
+0:34:3,584 --> 0:34:5,5
+There's something about
+them that's different,
+
+
+767
+0:34:5,5 --> 0:34:7,95
+the size of houses, the
+number of bins in a given
+
+
+768
+0:34:7,95 --> 0:34:10,23
+distance of road,
+how wide the streets
+
+
+769
+0:34:10,23 --> 0:34:12,276
+are, the density
+of urban lighting.
+
+
+770
+0:34:12,276 --> 0:34:13,65
+There's a whole
+variety of things
+
+
+771
+0:34:13,65 --> 0:34:15,25
+that make these
+areas look different,
+
+
+772
+0:34:15,25 --> 0:34:17,98
+and often humans can't tell
+that, but machines can.
+
+
+773
+0:34:17,98 --> 0:34:21,55
+And when you back up to a lot
+of scale model or large scale
+
+
+774
+0:34:21,55 --> 0:34:23,78
+picture, just a satellite
+image of a city,
+
+
+775
+0:34:23,78 --> 0:34:26,122
+you can start to pick these
+environments off the map,
+
+
+776
+0:34:26,122 --> 0:34:27,83
+because you know what
+you're looking for,
+
+
+777
+0:34:27,83 --> 0:34:29,699
+because you've done
+the field work.
+
+
+778
+0:34:29,699 --> 0:34:32,34
+So just the big
+data is not enough,
+
+
+779
+0:34:32,34 --> 0:34:34,4
+and just the field
+work is not enough.
+
+
+780
+0:34:34,4 --> 0:34:36,62
+The magic happens
+at the connectivity
+
+
+781
+0:34:36,62 --> 0:34:39,28
+between field teams that
+understand the environment who
+
+
+782
+0:34:39,28 --> 0:34:43,32
+are almost always entirely
+indigenous local inhabitants
+
+
+783
+0:34:43,32 --> 0:34:46,19
+of that environment and
+people sitting remotely
+
+
+784
+0:34:46,19 --> 0:34:49,7
+who can understand the
+bigger large end perspective.
+
+
+785
+0:34:49,7 --> 0:34:52,27
+And so a lot of what we do
+now in places in Africa,
+
+
+786
+0:34:52,27 --> 0:34:54,409
+and Latin America,
+and the Middle East
+
+
+787
+0:34:54,409 --> 0:34:57,91
+is founded on an idea
+that we co-ed design
+
+
+788
+0:34:57,91 --> 0:35:1,68
+where we bring a small external
+team with certain kinds
+
+
+789
+0:35:1,68 --> 0:35:3,45
+of technical or
+functional knowledge
+
+
+790
+0:35:3,45 --> 0:35:5,95
+into an environment
+where they work closely
+
+
+791
+0:35:5,95 --> 0:35:8,85
+under the direction of
+the local community.
+
+
+792
+0:35:8,85 --> 0:35:11,57
+And I'm going to take
+this back to warfare.
+
+
+793
+0:35:11,57 --> 0:35:15,6
+I really first
+experienced that in Iraq
+
+
+794
+0:35:15,6 --> 0:35:17,4
+when we finally
+began to turn around
+
+
+795
+0:35:17,4 --> 0:35:18,64
+what we'd been doing in Iraq.
+
+
+796
+0:35:18,64 --> 0:35:20,4
+And I'm going to
+end with this story,
+
+
+797
+0:35:20,4 --> 0:35:21,748
+and then I'll throw
+it open to questions.
+
+
+798
+0:35:21,748 --> 0:35:25,41
+When I first went into Iraq
+in 2006, we were in free fall.
+
+
+799
+0:35:25,41 --> 0:35:28,505
+3,000 civilians were getting
+killed in just Baghdad city
+
+
+800
+0:35:28,505 --> 0:35:30,2
+alone e every week.
+
+
+801
+0:35:30,2 --> 0:35:32,53
+That's a 9/11 every week.
+
+
+802
+0:35:32,53 --> 0:35:35,49
+By September of 2007,
+we'd reduced that
+
+
+803
+0:35:35,49 --> 0:35:38,8
+to the point where a few people
+getting killed was a bad night.
+
+
+804
+0:35:38,8 --> 0:35:41,0
+100 was a terrible week.
+
+
+805
+0:35:41,0 --> 0:35:44,28
+95% reduction in
+violence in just
+
+
+806
+0:35:44,28 --> 0:35:47,45
+a seven month period in Iraq.
+
+
+807
+0:35:47,45 --> 0:35:48,764
+How did we do that?
+
+
+808
+0:35:48,764 --> 0:35:51,18
+It wasn't because we had this
+great new counter insurgency
+
+
+809
+0:35:51,18 --> 0:35:52,34
+manual.
+
+
+810
+0:35:52,34 --> 0:35:53,48
+That helped.
+
+
+811
+0:35:53,48 --> 0:35:56,23
+I wasn't because we had a
+president who was very engaged.
+
+
+812
+0:35:56,23 --> 0:35:58,75
+Although, we wouldn't have been
+able to do it without that.
+
+
+813
+0:35:58,75 --> 0:36:1,39
+But actually it was because
+we finally did something
+
+
+814
+0:36:1,39 --> 0:36:3,3
+that we never
+really done before,
+
+
+815
+0:36:3,3 --> 0:36:5,82
+which is to actually start
+talking to the Iraqis
+
+
+816
+0:36:5,82 --> 0:36:8,52
+about how to defend
+their neighborhoods.
+
+
+817
+0:36:8,52 --> 0:36:10,559
+So before that, we
+had typically gone
+
+
+818
+0:36:10,559 --> 0:36:13,1
+into an Iraqi neighborhood, and
+we would swept the locals out
+
+
+819
+0:36:13,1 --> 0:36:15,67
+of the way, and we'd
+say sit down, shut up.
+
+
+820
+0:36:15,67 --> 0:36:17,3
+We have the answer
+to your problem.
+
+
+821
+0:36:17,3 --> 0:36:19,51
+We're going to back up
+this democracy truck.
+
+
+822
+0:36:19,51 --> 0:36:21,47
+We're going to
+unpack the solution,
+
+
+823
+0:36:21,47 --> 0:36:23,9
+and you guys will be very
+happy with the result.
+
+
+824
+0:36:23,9 --> 0:36:25,472
+And what had happened
+was not that.
+
+
+825
+0:36:25,472 --> 0:36:27,93
+What had happened was a city
+that had basically torn itself
+
+
+826
+0:36:27,93 --> 0:36:32,45
+apart for those 12 to 18
+months before the surge began.
+
+
+827
+0:36:32,45 --> 0:36:35,1
+And in that time,
+interestingly the period
+
+
+828
+0:36:35,1 --> 0:36:39,45
+when we backed off from
+Baghdad, a lot of local security
+
+
+829
+0:36:39,45 --> 0:36:41,38
+councils had emerged,
+and people had
+
+
+830
+0:36:41,38 --> 0:36:44,2
+started to create these
+little security groups that
+
+
+831
+0:36:44,2 --> 0:36:45,592
+decided we're
+going to figure out
+
+
+832
+0:36:45,592 --> 0:36:47,8
+how to defend our own
+community and they had actually
+
+
+833
+0:36:47,8 --> 0:36:51,18
+gone out and put in place
+a whole series of systems,
+
+
+834
+0:36:51,18 --> 0:36:53,38
+not just physical systems,
+but reporting systems,
+
+
+835
+0:36:53,38 --> 0:36:55,54
+and information
+management systems,
+
+
+836
+0:36:55,54 --> 0:36:57,96
+and ways of understanding
+their environment,
+
+
+837
+0:36:57,96 --> 0:37:2,13
+which they had used to
+survive through most of 2006.
+
+
+838
+0:37:2,13 --> 0:37:6,41
+So when we finally went
+back in the spring of 2007
+
+
+839
+0:37:6,41 --> 0:37:8,39
+and began to reengage
+with Baghdad,
+
+
+840
+0:37:8,39 --> 0:37:10,1
+this time we sat
+down with people,
+
+
+841
+0:37:10,1 --> 0:37:13,78
+and we said tell us what you've
+been doing for the last year,
+
+
+842
+0:37:13,78 --> 0:37:15,81
+and what's worked, and
+what hasn't worked,
+
+
+843
+0:37:15,81 --> 0:37:18,19
+and what you need some
+additional help on,
+
+
+844
+0:37:18,19 --> 0:37:20,18
+and what we should
+just not touch,
+
+
+845
+0:37:20,18 --> 0:37:22,86
+and you give us
+this design brief
+
+
+846
+0:37:22,86 --> 0:37:24,92
+of what we should
+build to support
+
+
+847
+0:37:24,92 --> 0:37:26,81
+your security in
+your environment.
+
+
+848
+0:37:26,81 --> 0:37:28,95
+And initially they
+were like, what?
+
+
+849
+0:37:28,95 --> 0:37:31,54
+Because I actually had a meeting
+with some guys in a place
+
+
+850
+0:37:31,54 --> 0:37:33,559
+called Sadr City where
+they were like, what?
+
+
+851
+0:37:33,559 --> 0:37:34,85
+You want to know what we think?
+
+
+852
+0:37:34,85 --> 0:37:35,91
+They were like, dude,
+we've been working
+
+
+853
+0:37:35,91 --> 0:37:37,47
+with the Coalition
+for four years.
+
+
+854
+0:37:37,47 --> 0:37:39,57
+You're the first person
+that's ever asked us
+
+
+855
+0:37:39,57 --> 0:37:41,89
+what we think about how
+to secure our district.
+
+
+856
+0:37:41,89 --> 0:37:43,59
+And they were very,
+very suspicious.
+
+
+857
+0:37:43,59 --> 0:37:46,214
+When we finally began to do this
+stuff-- and it wasn't just me,
+
+
+858
+0:37:46,214 --> 0:37:49,18
+it was people all over
+Iraq-- they got religion.
+
+
+859
+0:37:49,18 --> 0:37:51,4
+Because they saw that
+we really were serious.
+
+
+860
+0:37:51,4 --> 0:37:53,91
+We were really going to listen
+to what they wanted to do,
+
+
+861
+0:37:53,91 --> 0:37:55,326
+and we're going
+to work with them.
+
+
+862
+0:37:55,326 --> 0:37:57,49
+And we engaged in this
+process of co-design,
+
+
+863
+0:37:57,49 --> 0:37:59,4
+and we actually
+designed stuff together
+
+
+864
+0:37:59,4 --> 0:38:1,38
+to build a solution that
+would work for them.
+
+
+865
+0:38:1,38 --> 0:38:4,7
+Now, there's companies here
+in San Francisco like IDEO,
+
+
+866
+0:38:4,7 --> 0:38:6,55
+for example, that
+have this idea down
+
+
+867
+0:38:6,55 --> 0:38:9,93
+in terms of participatory
+development and urbanization,
+
+
+868
+0:38:9,93 --> 0:38:12,76
+and they understand stuff
+like human centered design
+
+
+869
+0:38:12,76 --> 0:38:14,74
+as a way of engaging
+with communities
+
+
+870
+0:38:14,74 --> 0:38:18,42
+that are under stress to try
+to build a better solution.
+
+
+871
+0:38:18,42 --> 0:38:21,31
+My challenge to them and
+what our company's been doing
+
+
+872
+0:38:21,31 --> 0:38:23,6
+has been trying to
+figure out how do you
+
+
+873
+0:38:23,6 --> 0:38:25,79
+do that when people
+are shooting at you.
+
+
+874
+0:38:25,79 --> 0:38:28,43
+How do you do that when it's
+so violent that you can't just
+
+
+875
+0:38:28,43 --> 0:38:30,806
+sit down with people and say
+hey man, what should we do?
+
+
+876
+0:38:30,806 --> 0:38:32,18
+What are the ways
+you can observe
+
+
+877
+0:38:32,18 --> 0:38:34,11
+that environment
+remotely, and how can you
+
+
+878
+0:38:34,11 --> 0:38:35,63
+have field teams
+working the ground
+
+
+879
+0:38:35,63 --> 0:38:38,25
+to try to build-- what
+for want of a better term
+
+
+880
+0:38:38,25 --> 0:38:41,38
+I would call-- peace and
+resilience in environments that
+
+
+881
+0:38:41,38 --> 0:38:44,57
+are just not stable
+by definition.
+
+
+882
+0:38:44,57 --> 0:38:48,66
+These cities are growing at such
+a rate that our traditional way
+
+
+883
+0:38:48,66 --> 0:38:51,79
+of thinking about the problem,
+which is to bring stability,
+
+
+884
+0:38:51,79 --> 0:38:53,712
+to stabilize-- as
+the IMF has it ,
+
+
+885
+0:38:53,712 --> 0:38:57,3
+or to bring stability operations
+as the military talks about is
+
+
+886
+0:38:57,3 --> 0:38:58,52
+just not going to work.
+
+
+887
+0:38:58,52 --> 0:39:1,0
+If you were born
+in Daka in 1950,
+
+
+888
+0:39:1,0 --> 0:39:3,58
+you would have been born in
+a city of 400,000 people.
+
+
+889
+0:39:3,58 --> 0:39:5,32
+Today that city's 12 million.
+
+
+890
+0:39:5,32 --> 0:39:8,35
+It's going to be 25 million
+by the middle of the century.
+
+
+891
+0:39:8,35 --> 0:39:10,8
+It's not a stable system.
+
+
+892
+0:39:10,8 --> 0:39:12,24
+Stability is a systems
+characteristic.
+
+
+893
+0:39:12,24 --> 0:39:15,38
+Resiliency is a characteristic
+who's act is in the system.
+
+
+894
+0:39:15,38 --> 0:39:19,75
+Rather than trying to hold back
+the tide of rapid urbanization,
+
+
+895
+0:39:19,75 --> 0:39:22,27
+we need to be focusing on
+how to teach people to swim,
+
+
+896
+0:39:22,27 --> 0:39:24,22
+and that's a lot of
+what most people that
+
+
+897
+0:39:24,22 --> 0:39:26,26
+are working in this
+environment are now doing.
+
+
+898
+0:39:26,26 --> 0:39:29,27
+So US Aid and a lot of
+the other aid agencies
+
+
+899
+0:39:29,27 --> 0:39:31,74
+have now a resiliency
+agenda for how
+
+
+900
+0:39:31,74 --> 0:39:34,33
+they're going to bring
+the kind of systems
+
+
+901
+0:39:34,33 --> 0:39:36,38
+to communities that
+allow them to be
+
+
+902
+0:39:36,38 --> 0:39:38,87
+resilient in the
+face of rapid change.
+
+
+903
+0:39:38,87 --> 0:39:42,22
+And I think circling back to
+that Afghan ambush, that's
+
+
+904
+0:39:42,22 --> 0:39:44,21
+what we need to be
+looking at going forward,
+
+
+905
+0:39:44,21 --> 0:39:48,4
+not remote rural mountainous
+environments where you don't
+
+
+906
+0:39:48,4 --> 0:39:50,0
+have a lot of
+connectivity, and you
+
+
+907
+0:39:50,0 --> 0:39:52,4
+don't have a high
+population density.
+
+
+908
+0:39:52,4 --> 0:39:54,96
+We've become really,
+really good at operating
+
+
+909
+0:39:54,96 --> 0:39:56,72
+in that environment
+in the last decade,
+
+
+910
+0:39:56,72 --> 0:39:58,72
+but the future
+environment is not that.
+
+
+911
+0:39:58,72 --> 0:40:2,7
+It's big cities on
+coastlines in the developing
+
+
+912
+0:40:2,7 --> 0:40:4,91
+world with an enormous
+degree of connectivity,
+
+
+913
+0:40:4,91 --> 0:40:8,49
+and there's a massive
+upside set of opportunities
+
+
+914
+0:40:8,49 --> 0:40:11,29
+to lift people out of poverty,
+to bring all kinds of benefits
+
+
+915
+0:40:11,29 --> 0:40:13,61
+to communities that
+don't have them now,
+
+
+916
+0:40:13,61 --> 0:40:16,47
+to actually generate peace
+as this thing from just
+
+
+917
+0:40:16,47 --> 0:40:18,77
+the absence of conflict.
+
+
+918
+0:40:18,77 --> 0:40:22,87
+That opportunity is there
+alongside a huge set
+
+
+919
+0:40:22,87 --> 0:40:25,56
+of risks that will confront
+us if we don't deal
+
+
+920
+0:40:25,56 --> 0:40:28,6
+with this massive population
+tsunami that's bearing down
+
+
+921
+0:40:28,6 --> 0:40:31,78
+on coastal cities in
+the next generation.
+
+
+922
+0:40:31,78 --> 0:40:33,487
+So let me stop
+there and summarize
+
+
+923
+0:40:33,487 --> 0:40:35,82
+by saying we need to get our
+heads out of the mountains,
+
+
+924
+0:40:35,82 --> 0:40:39,48
+and start thinking about this
+future urban environment.
+
+
+925
+0:40:39,48 --> 0:40:41,94
+And I'm going to throw the
+floor open to questions,
+
+
+926
+0:40:41,94 --> 0:40:43,44
+so I don't know how
+you want to run.
+
+
+927
+0:40:43,44 --> 0:40:46,2
+If you guys want to nominate,
+and we'll go from there.
+
+
+928
+0:40:46,2 --> 0:40:48,8
+AUDIENCE: When we
+were speaking earlier,
+
+
+929
+0:40:48,8 --> 0:40:52,449
+you had talked about inoculating
+cities with some resiliency
+
+
+930
+0:40:52,449 --> 0:40:54,24
+as they're going through
+this rapid growth.
+
+
+931
+0:40:54,24 --> 0:40:56,365
+Could you talk a little
+bit more about that please?
+
+
+932
+0:40:56,365 --> 0:40:58,575
+DAVID KILCULLEN: So
+great point, Chris.
+
+
+933
+0:40:58,575 --> 0:41:3,29
+So, we're not just talking
+about cities that are there now.
+
+
+934
+0:41:3,29 --> 0:41:5,78
+One projection by
+the Indian Institute
+
+
+935
+0:41:5,78 --> 0:41:9,23
+for Human Settlements-- which is
+like their heart organization--
+
+
+936
+0:41:9,23 --> 0:41:11,59
+is that the entire
+west coast of India
+
+
+937
+0:41:11,59 --> 0:41:15,56
+is going to be one single
+giant conurbation by 2040.
+
+
+938
+0:41:15,56 --> 0:41:19,82
+So large slums will fill in
+the currently existing space
+
+
+939
+0:41:19,82 --> 0:41:21,19
+between existing cities.
+
+
+940
+0:41:21,19 --> 0:41:23,66
+There's a guy called
+Mike Davis out in Hawaii
+
+
+941
+0:41:23,66 --> 0:41:26,26
+who's written a number of
+really good books, one which
+
+
+942
+0:41:26,26 --> 0:41:29,92
+is called "Planet of Slums"
+where he projects that we're
+
+
+943
+0:41:29,92 --> 0:41:33,1
+going to see this
+giant slum spoil fill
+
+
+944
+0:41:33,1 --> 0:41:35,15
+in the space between
+existing cities.
+
+
+945
+0:41:35,15 --> 0:41:39,204
+So there's paradoxes that a lot
+of the problems of urbanization
+
+
+946
+0:41:39,204 --> 0:41:41,12
+that we're going to see
+in the next generation
+
+
+947
+0:41:41,12 --> 0:41:44,374
+are going to happen in
+cities that aren't there yet,
+
+
+948
+0:41:44,374 --> 0:41:45,79
+because they haven't
+happened yet.
+
+
+949
+0:41:45,79 --> 0:41:48,19
+And so part of this is about
+getting ahead of the curve
+
+
+950
+0:41:48,19 --> 0:41:51,95
+and thinking about what do
+these kinds of environments
+
+
+951
+0:41:51,95 --> 0:41:55,23
+need to channel them into a
+pathway of urban development
+
+
+952
+0:41:55,23 --> 0:41:57,33
+that's going to result
+in a different future.
+
+
+953
+0:41:57,33 --> 0:42:1,26
+And I'm trying in the book not
+to predict a dystopian view.
+
+
+954
+0:42:1,26 --> 0:42:3,37
+If you want that,
+go read "Snow Crash"
+
+
+955
+0:42:3,37 --> 0:42:5,68
+by Neal Stephenson,
+which is 15 years old,
+
+
+956
+0:42:5,68 --> 0:42:8,57
+but it's all there
+in California.
+
+
+957
+0:42:8,57 --> 0:42:12,75
+So this stuff's been figured out
+as a dystopian vision already.
+
+
+958
+0:42:12,75 --> 0:42:15,18
+What I'm doing is
+making a projection
+
+
+959
+0:42:15,18 --> 0:42:17,84
+based on current
+data and saying it
+
+
+960
+0:42:17,84 --> 0:42:19,31
+doesn't have to be that future.
+
+
+961
+0:42:19,31 --> 0:42:20,8
+It can actually be different.
+
+
+962
+0:42:20,8 --> 0:42:23,69
+And I think it's about thinking
+about where will cities grow to
+
+
+963
+0:42:23,69 --> 0:42:27,4
+and what happens when rapid
+unchecked urban growth acretes
+
+
+964
+0:42:27,4 --> 0:42:28,91
+around an existing city.
+
+
+965
+0:42:28,91 --> 0:42:31,96
+So you get this donut shaped
+or horseshoe shaped ring
+
+
+966
+0:42:31,96 --> 0:42:35,49
+of terrain that clusters
+around an existing city,
+
+
+967
+0:42:35,49 --> 0:42:37,97
+but it didn't used
+to be empty terrain.
+
+
+968
+0:42:37,97 --> 0:42:39,86
+That's where the
+city grew its food.
+
+
+969
+0:42:39,86 --> 0:42:41,637
+It's where the water
+catchment area was.
+
+
+970
+0:42:41,637 --> 0:42:43,47
+It's where a lot of the
+transportation roots
+
+
+971
+0:42:43,47 --> 0:42:44,37
+come through.
+
+
+972
+0:42:44,37 --> 0:42:46,12
+So you have this
+ring of slums that
+
+
+973
+0:42:46,12 --> 0:42:48,24
+emerge around a
+city that separates
+
+
+974
+0:42:48,24 --> 0:42:51,4
+the city from the sources of
+all those critical commodities,
+
+
+975
+0:42:51,4 --> 0:42:54,61
+the inflows of the metabolism
+that it needs to survive.
+
+
+976
+0:42:54,61 --> 0:42:56,35
+And these are areas
+where you don't
+
+
+977
+0:42:56,35 --> 0:42:57,857
+have a lot of
+government presence.
+
+
+978
+0:42:57,857 --> 0:42:59,69
+You don't have a lot
+of government services.
+
+
+979
+0:42:59,69 --> 0:43:2,48
+And so non-state
+armed groups often
+
+
+980
+0:43:2,48 --> 0:43:5,34
+emerge and end up controlling
+these environments,
+
+
+981
+0:43:5,34 --> 0:43:7,77
+and they don't
+just smuggle drugs.
+
+
+982
+0:43:7,77 --> 0:43:11,43
+They actually provide governance
+services in these environments.
+
+
+983
+0:43:11,43 --> 0:43:15,6
+And it's typical of governments
+to look at these as a threat.
+
+
+984
+0:43:15,6 --> 0:43:16,53
+I don't see them
+that way at all.
+
+
+985
+0:43:16,53 --> 0:43:18,28
+These are people who
+are engaging in stuff
+
+
+986
+0:43:18,28 --> 0:43:19,988
+that the government
+either can't or won't
+
+
+987
+0:43:19,988 --> 0:43:21,76
+do that the population needs.
+
+
+988
+0:43:21,76 --> 0:43:24,15
+They're actually fulfilling
+a central function
+
+
+989
+0:43:24,15 --> 0:43:25,9
+to the existence of
+the city, but what
+
+
+990
+0:43:25,9 --> 0:43:28,662
+it means if you're an
+urban politician downtown
+
+
+991
+0:43:28,662 --> 0:43:30,37
+is there's now a ring
+of territory that's
+
+
+992
+0:43:30,37 --> 0:43:33,38
+like a gauntlet around the
+city, and all the supplies
+
+
+993
+0:43:33,38 --> 0:43:34,96
+that the city needs
+to survive have
+
+
+994
+0:43:34,96 --> 0:43:37,7
+to run that gauntlet
+every day, and there's
+
+
+995
+0:43:37,7 --> 0:43:40,18
+a non-state armed group, a
+malitia, or a communitarian
+
+
+996
+0:43:40,18 --> 0:43:41,599
+group that's sitting
+astride that.
+
+
+997
+0:43:41,599 --> 0:43:43,64
+And you're going to have
+to deal with that group,
+
+
+998
+0:43:43,64 --> 0:43:46,32
+because if you don't, they
+can shut the city down.
+
+
+999
+0:43:46,32 --> 0:43:48,23
+So I think it's stuff like that.
+
+
+1000
+0:43:48,23 --> 0:43:53,4
+It's understanding how
+do we enable urban growth
+
+
+1001
+0:43:53,4 --> 0:43:54,98
+in a way that isn't
+going to generate
+
+
+1002
+0:43:54,98 --> 0:43:57,58
+the kind of urban exclusion,
+and marginalization,
+
+
+1003
+0:43:57,58 --> 0:44:0,37
+and political disposition
+of these people
+
+
+1004
+0:44:0,37 --> 0:44:4,35
+that then creates the ground
+in which all this stuff takes
+
+
+1005
+0:44:4,35 --> 0:44:4,9
+place.
+
+
+1006
+0:44:4,9 --> 0:44:7,2
+And for the military
+guys, how are we
+
+
+1007
+0:44:7,2 --> 0:44:10,46
+going to operate in giant
+cities like this which
+
+
+1008
+0:44:10,46 --> 0:44:12,88
+could absorb a marine regiment
+or an army division and not
+
+
+1009
+0:44:12,88 --> 0:44:14,34
+even notice?
+
+
+1010
+0:44:14,34 --> 0:44:17,47
+It's going to have to be
+different from the traditional
+
+
+1011
+0:44:17,47 --> 0:44:19,6
+way that we've thought
+about operational maneuver
+
+
+1012
+0:44:19,6 --> 0:44:21,69
+from the sea or
+maneuver operational
+
+
+1013
+0:44:21,69 --> 0:44:24,9
+in a littoral environment,
+because it's just so big now
+
+
+1014
+0:44:24,9 --> 0:44:26,49
+that you're looking at
+a whole different space.
+
+
+1015
+0:44:26,49 --> 0:44:27,423
+A lot more to talk
+about on that,
+
+
+1016
+0:44:27,423 --> 0:44:29,5
+but I think getting
+ahead of the curve
+
+
+1017
+0:44:29,5 --> 0:44:31,1
+is about predicting where
+the problem is going
+
+
+1018
+0:44:31,1 --> 0:44:33,41
+to be in cities that
+haven't even happened yet
+
+
+1019
+0:44:33,41 --> 0:44:37,37
+and how do you understand
+the resiliences that prevent
+
+
+1020
+0:44:37,37 --> 0:44:40,21
+this kind of symptoms
+from developing
+
+
+1021
+0:44:40,21 --> 0:44:42,79
+and to stop them
+in their tracks.
+
+
+1022
+0:44:42,79 --> 0:44:44,64
+AUDIENCE: Thanks for coming.
+
+
+1023
+0:44:44,64 --> 0:44:45,22
+Let's see.
+
+
+1024
+0:44:45,22 --> 0:44:48,75
+Max Boot spoke here recently.
+
+
+1025
+0:44:48,75 --> 0:44:51,15
+He's the author of the
+book on guerrilla warfare.
+
+
+1026
+0:44:51,15 --> 0:44:52,72
+And at one point
+he said-- I think
+
+
+1027
+0:44:52,72 --> 0:44:56,28
+I'm quoting him right--
+that urban areas were not
+
+
+1028
+0:44:56,28 --> 0:45:0,65
+very friendly for
+guerrillas, and his reason
+
+
+1029
+0:45:0,65 --> 0:45:4,55
+was that it's too exposed.
+
+
+1030
+0:45:4,55 --> 0:45:6,16
+You can't have
+meetings and organize.
+
+
+1031
+0:45:6,16 --> 0:45:9,44
+You can't do rifle practice.
+
+
+1032
+0:45:9,44 --> 0:45:10,365
+Clearly you disagree.
+
+
+1033
+0:45:10,365 --> 0:45:12,24
+Do you think that's a
+factor, or [INAUDIBLE]?
+
+
+1034
+0:45:12,24 --> 0:45:14,31
+DAVID KILCULLEN: Well,
+I think Max was just
+
+
+1035
+0:45:14,31 --> 0:45:15,84
+a great book in his
+latest book, and I
+
+
+1036
+0:45:15,84 --> 0:45:17,673
+have a lot of respect
+for his point of view.
+
+
+1037
+0:45:17,673 --> 0:45:20,94
+And I think if you look at
+the big sweep of history
+
+
+1038
+0:45:20,94 --> 0:45:22,26
+of guerrillas, which is
+what he's doing in the book,
+
+
+1039
+0:45:22,26 --> 0:45:25,18
+he's right that traditionally
+guerrillas don't operate
+
+
+1040
+0:45:25,18 --> 0:45:27,87
+in cities and haven't had
+a great degree of success
+
+
+1041
+0:45:27,87 --> 0:45:28,649
+in cities.
+
+
+1042
+0:45:28,649 --> 0:45:30,19
+And the reason for
+that is guerrillas
+
+
+1043
+0:45:30,19 --> 0:45:32,31
+go to where the cover is.
+
+
+1044
+0:45:32,31 --> 0:45:33,77
+They go to where they can hide.
+
+
+1045
+0:45:33,77 --> 0:45:35,311
+And for most of
+human history, that's
+
+
+1046
+0:45:35,311 --> 0:45:37,311
+been mountains and
+jungles, but today we
+
+
+1047
+0:45:37,311 --> 0:45:39,81
+have foliage penetrating radar
+that can see through jungles.
+
+
+1048
+0:45:39,81 --> 0:45:42,63
+And we've got drones that can
+sit on top of a mountain range
+
+
+1049
+0:45:42,63 --> 0:45:45,39
+24 hours a day and tell
+you where the bad guys are.
+
+
+1050
+0:45:45,39 --> 0:45:49,1
+There's not a lot of cover in
+the rural environment anymore.
+
+
+1051
+0:45:49,1 --> 0:45:50,475
+The cover is in the cities.
+
+
+1052
+0:45:50,475 --> 0:45:51,85
+And there's another
+key idea that
+
+
+1053
+0:45:51,85 --> 0:45:54,12
+comes in here, which is
+the idea of legibility.
+
+
+1054
+0:45:54,12 --> 0:45:56,19
+So there's a great
+guy up at Yale
+
+
+1055
+0:45:56,19 --> 0:45:58,86
+called James C. Scott
+who's a professor.
+
+
+1056
+0:45:58,86 --> 0:46:1,7
+I don't think you can be
+a professor of [INAUDIBLE]
+
+
+1057
+0:46:1,7 --> 0:46:3,32
+studies, but that's
+basically what he is.
+
+
+1058
+0:46:3,32 --> 0:46:4,87
+And he wrote an
+awesome book called
+
+
+1059
+0:46:4,87 --> 0:46:8,1
+"Seeing Like a State"
+where he talks about how
+
+
+1060
+0:46:8,1 --> 0:46:9,67
+what governments
+try to do is they
+
+
+1061
+0:46:9,67 --> 0:46:11,59
+try to make
+environments legible,
+
+
+1062
+0:46:11,59 --> 0:46:13,79
+so they can read and interpret.
+
+
+1063
+0:46:13,79 --> 0:46:15,9
+And if you work in
+Google, you basically work
+
+
+1064
+0:46:15,9 --> 0:46:17,72
+in a giant legibility
+project, trying
+
+
+1065
+0:46:17,72 --> 0:46:20,67
+to make the entire planet
+legible so the people can
+
+
+1066
+0:46:20,67 --> 0:46:23,91
+understand that and
+do things with it.
+
+
+1067
+0:46:23,91 --> 0:46:27,71
+There are huge parts of the
+planet that are not legible,
+
+
+1068
+0:46:27,71 --> 0:46:30,15
+and most of those places
+now are in cities.
+
+
+1069
+0:46:30,15 --> 0:46:33,2
+They're not in well developed
+well designed cities.
+
+
+1070
+0:46:33,2 --> 0:46:35,54
+They're in these
+clusters of slums
+
+
+1071
+0:46:35,54 --> 0:46:36,47
+where there's no
+street addresses,
+
+
+1072
+0:46:36,47 --> 0:46:38,88
+and there's no house numbers,
+and you can spot a building
+
+
+1073
+0:46:38,88 --> 0:46:40,77
+from space, but you
+don't know what's there,
+
+
+1074
+0:46:40,77 --> 0:46:42,91
+and there's no way to
+understand who lives there.
+
+
+1075
+0:46:42,91 --> 0:46:46,1
+Now that we have things like
+GDELT-- the global database
+
+
+1076
+0:46:46,1 --> 0:46:47,78
+of events, language,
+and tone-- which
+
+
+1077
+0:46:47,78 --> 0:46:49,79
+has been built for
+about 15 years or so,
+
+
+1078
+0:46:49,79 --> 0:46:53,18
+and we have Twitter feeds
+that we can geolocate.
+
+
+1079
+0:46:53,18 --> 0:46:56,5
+There's things that are emerging
+that allow us to make cities
+
+
+1080
+0:46:56,5 --> 0:46:59,7
+more legible than
+they'd been in the past.
+
+
+1081
+0:46:59,7 --> 0:47:1,78
+But I believe the
+balance has shifted
+
+
+1082
+0:47:1,78 --> 0:47:3,59
+so that the urban
+environment is now
+
+
+1083
+0:47:3,59 --> 0:47:6,81
+the safer environment for
+irregular operators compared
+
+
+1084
+0:47:6,81 --> 0:47:8,71
+to the countryside.
+
+
+1085
+0:47:8,71 --> 0:47:11,609
+That doesn't mean we won't
+see conflict in the mountains
+
+
+1086
+0:47:11,609 --> 0:47:12,4
+and in the jungles.
+
+
+1087
+0:47:12,4 --> 0:47:13,94
+We most definitely will.
+
+
+1088
+0:47:13,94 --> 0:47:17,379
+But irregular conflict tends
+to happen where people live.
+
+
+1089
+0:47:17,379 --> 0:47:18,92
+The vast majority
+of people are going
+
+
+1090
+0:47:18,92 --> 0:47:21,85
+to be in urban environments,
+and the city now
+
+
+1091
+0:47:21,85 --> 0:47:23,29
+is the area where
+you've got more
+
+
+1092
+0:47:23,29 --> 0:47:25,34
+cover than the
+rural environment.
+
+
+1093
+0:47:25,34 --> 0:47:28,99
+So I think Max is right as a
+historical statement about what
+
+
+1094
+0:47:28,99 --> 0:47:30,93
+the history of irregular
+conflict has been,
+
+
+1095
+0:47:30,93 --> 0:47:34,73
+but I think we're at a watershed
+where going forward we're
+
+
+1096
+0:47:34,73 --> 0:47:38,42
+going to see increasing
+preponderance of this kind
+
+
+1097
+0:47:38,42 --> 0:47:41,16
+of conflict happening
+not in downtown cities,
+
+
+1098
+0:47:41,16 --> 0:47:44,4
+but in slums and in this ring
+of uncontrolled illegible
+
+
+1099
+0:47:44,4 --> 0:47:46,106
+territory around the outside.
+
+
+1100
+0:47:46,106 --> 0:47:47,48
+AUDIENCE: So you
+talk about where
+
+
+1101
+0:47:47,48 --> 0:47:49,94
+you think the slums are going
+to grow and try to get ahead
+
+
+1102
+0:47:49,94 --> 0:47:53,53
+of it, but it seems like any
+service you do in that area
+
+
+1103
+0:47:53,53 --> 0:47:55,46
+before the slums is
+just going to draw
+
+
+1104
+0:47:55,46 --> 0:47:58,51
+the people there and
+bring the slum sooner.
+
+
+1105
+0:47:58,51 --> 0:48:0,24
+If you put schools
+and parks, you're
+
+
+1106
+0:48:0,24 --> 0:48:3,5
+just going to end up with
+slums at the schools and parks.
+
+
+1107
+0:48:3,5 --> 0:48:5,11
+How do you get ahead of it?
+
+
+1108
+0:48:5,11 --> 0:48:7,67
+The real problem is
+just too much people
+
+
+1109
+0:48:7,67 --> 0:48:9,18
+with not enough jobs.
+
+
+1110
+0:48:9,18 --> 0:48:10,1
+DAVID KILCULLEN: Right,
+that's a great point.
+
+
+1111
+0:48:10,1 --> 0:48:12,24
+In fact, there's a woman
+called Sheela Patel who
+
+
+1112
+0:48:12,24 --> 0:48:15,14
+runs an organization
+called SPARC in Mumbai who
+
+
+1113
+0:48:15,14 --> 0:48:15,94
+makes this point.
+
+
+1114
+0:48:15,94 --> 0:48:19,78
+She says the government has
+decided not to provide services
+
+
+1115
+0:48:19,78 --> 0:48:22,82
+to people in slums,
+because they think
+
+
+1116
+0:48:22,82 --> 0:48:24,57
+it's going to attract
+people to the slums.
+
+
+1117
+0:48:24,57 --> 0:48:26,78
+One of the great examples
+of that is sanitation.
+
+
+1118
+0:48:26,78 --> 0:48:29,5
+So the Indian government
+says that an acceptable level
+
+
+1119
+0:48:29,5 --> 0:48:32,83
+of sanitation is one
+toilet per 50 people.
+
+
+1120
+0:48:32,83 --> 0:48:35,47
+Right now it's one
+toilet per 600 people
+
+
+1121
+0:48:35,47 --> 0:48:37,43
+in many of the slums in Mumbai.
+
+
+1122
+0:48:37,43 --> 0:48:39,83
+And she says as if
+people moved to slums
+
+
+1123
+0:48:39,83 --> 0:48:42,35
+just because they want
+access to a toilet.
+
+
+1124
+0:48:42,35 --> 0:48:44,8
+There's plenty of places
+to crap in the woods.
+
+
+1125
+0:48:44,8 --> 0:48:46,67
+Actually people are
+moving to cities
+
+
+1126
+0:48:46,67 --> 0:48:48,68
+because of economic opportunity.
+
+
+1127
+0:48:48,68 --> 0:48:50,59
+And I also think--
+and we see this
+
+
+1128
+0:48:50,59 --> 0:48:53,6
+in a number of places--
+because of the connectivity
+
+
+1129
+0:48:53,6 --> 0:48:55,25
+differential between
+rural environments
+
+
+1130
+0:48:55,25 --> 0:48:57,42
+and the urban
+environment, if now
+
+
+1131
+0:48:57,42 --> 0:49:0,61
+the way that you make
+your money is by access
+
+
+1132
+0:49:0,61 --> 0:49:3,23
+to a globalized economy
+and you need connectivity
+
+
+1133
+0:49:3,23 --> 0:49:5,587
+to do that and there's a
+connectivity differential
+
+
+1134
+0:49:5,587 --> 0:49:7,67
+between the rural environment
+where you don't have
+
+
+1135
+0:49:7,67 --> 0:49:10,76
+that connectivity and the
+urban environment when you do,
+
+
+1136
+0:49:10,76 --> 0:49:13,379
+then one of the major reasons
+why people are moving to cities
+
+
+1137
+0:49:13,379 --> 0:49:14,92
+is because that's
+where the Wi-Fi is.
+
+
+1138
+0:49:14,92 --> 0:49:16,28
+That's where the internet is.
+
+
+1139
+0:49:16,28 --> 0:49:18,238
+That's where the density
+of cell phone coverage
+
+
+1140
+0:49:18,238 --> 0:49:20,88
+is that allows you to tap
+into that environment.
+
+
+1141
+0:49:20,88 --> 0:49:22,39
+So I think that
+tells you that there
+
+
+1142
+0:49:22,39 --> 0:49:25,47
+are three ways to
+really address this.
+
+
+1143
+0:49:25,47 --> 0:49:28,76
+One is to attack
+the supply side,
+
+
+1144
+0:49:28,76 --> 0:49:31,46
+to do things in the
+rural environment that
+
+
+1145
+0:49:31,46 --> 0:49:34,16
+make it better for people that
+are there so that they don't
+
+
+1146
+0:49:34,16 --> 0:49:37,6
+decide we're going to pick up
+and move to urban environments
+
+
+1147
+0:49:37,6 --> 0:49:38,67
+at quite the same rate.
+
+
+1148
+0:49:38,67 --> 0:49:42,49
+So more rural Wi-Fi, better
+access to cell phones
+
+
+1149
+0:49:42,49 --> 0:49:47,34
+in the countryside, water,
+sanitation, education, conflict
+
+
+1150
+0:49:47,34 --> 0:49:48,94
+resolution in the
+kinds of conflicts
+
+
+1151
+0:49:48,94 --> 0:49:50,69
+we were talking about
+here that will still
+
+
+1152
+0:49:50,69 --> 0:49:54,84
+happen in the rural
+environment, there's
+
+
+1153
+0:49:54,84 --> 0:49:58,63
+a supply side problem
+of how do you address
+
+
+1154
+0:49:58,63 --> 0:50:0,32
+people deciding to
+move to the city.
+
+
+1155
+0:50:0,32 --> 0:50:2,93
+Then in the city itself,
+there are all these resiliency
+
+
+1156
+0:50:2,93 --> 0:50:5,81
+interventions that you
+can undertake in order
+
+
+1157
+0:50:5,81 --> 0:50:9,12
+to make it hard of a
+conflict to break out,
+
+
+1158
+0:50:9,12 --> 0:50:12,12
+to create ways to resolve
+that conflict quicker,
+
+
+1159
+0:50:12,12 --> 0:50:15,1
+and to bring in the kinds of
+services that prevent conflicts
+
+
+1160
+0:50:15,1 --> 0:50:16,79
+from developing in
+the first place.
+
+
+1161
+0:50:16,79 --> 0:50:19,16
+So they're the demand
+side, or how do you
+
+
+1162
+0:50:19,16 --> 0:50:22,81
+increase the carrying capacity
+of an urban system in such
+
+
+1163
+0:50:22,81 --> 0:50:24,274
+a way that it can
+handle the flow?
+
+
+1164
+0:50:24,274 --> 0:50:25,44
+But then ultimately, though,
+
+
+1165
+0:50:25,44 --> 0:50:28,34
+AUDIENCE: I think
+nothing we can do
+
+
+1166
+0:50:28,34 --> 0:50:32,4
+is going to stop the giant
+tendency of populations
+
+
+1167
+0:50:32,4 --> 0:50:33,59
+to move to urban environments.
+
+
+1168
+0:50:33,59 --> 0:50:36,882
+It's more about helping
+people cope better
+
+
+1169
+0:50:36,882 --> 0:50:38,59
+with the environment
+they find themselves
+
+
+1170
+0:50:38,59 --> 0:50:42,312
+in than about
+turning off the tap.
+
+
+1171
+0:50:42,312 --> 0:50:44,77
+AUDIENCE: I just have trouble
+seeing how to grow resiliency
+
+
+1172
+0:50:44,77 --> 0:50:48,27
+when it means a slum is stronger
+because more people live there.
+
+
+1173
+0:50:48,27 --> 0:50:50,82
+I mean, that's resiliency
+in the anti-fragile sense.
+
+
+1174
+0:50:50,82 --> 0:50:53,736
+You get stronger because
+more people come.
+
+
+1175
+0:50:53,736 --> 0:50:54,86
+I don't see how to do that.
+
+
+1176
+0:50:54,86 --> 0:50:55,77
+DAVID KILCULLEN:
+There's actually-- well,
+
+
+1177
+0:50:55,77 --> 0:50:57,73
+you should buy my book
+then, because there's
+
+
+1178
+0:50:57,73 --> 0:50:59,9
+a lot of case studies in there.
+
+
+1179
+0:50:59,9 --> 0:51:2,28
+In the last chapter, I look
+at several examples of things
+
+
+1180
+0:51:2,28 --> 0:51:6,3
+that I think suggest
+ways to think about this.
+
+
+1181
+0:51:6,3 --> 0:51:7,99
+I would just say
+I'm not suggesting
+
+
+1182
+0:51:7,99 --> 0:51:9,24
+that I have the answer.
+
+
+1183
+0:51:9,24 --> 0:51:11,609
+What I'm doing is
+pointing to two things.
+
+
+1184
+0:51:11,609 --> 0:51:13,4
+One is there's this
+problem out there which
+
+
+1185
+0:51:13,4 --> 0:51:15,84
+we need to be
+thinking about, and I
+
+
+1186
+0:51:15,84 --> 0:51:16,75
+think that actually
+in the urban studies
+
+
+1187
+0:51:16,75 --> 0:51:19,48
+environment and actually a lot
+of people in the data science
+
+
+1188
+0:51:19,48 --> 0:51:22,19
+community, people are
+already thinking about that.
+
+
+1189
+0:51:22,19 --> 0:51:24,18
+But the military's
+been sidetracked
+
+
+1190
+0:51:24,18 --> 0:51:26,74
+into this other environment
+for the last decade,
+
+
+1191
+0:51:26,74 --> 0:51:28,84
+and as we come back out
+of that environment,
+
+
+1192
+0:51:28,84 --> 0:51:31,27
+I think we have to put that
+conversation back together
+
+
+1193
+0:51:31,27 --> 0:51:35,35
+again and have people that
+really understand military,
+
+
+1194
+0:51:35,35 --> 0:51:37,5
+and law enforcement,
+and all those kinds
+
+
+1195
+0:51:37,5 --> 0:51:39,82
+of other kinds of operations
+in the environment,
+
+
+1196
+0:51:39,82 --> 0:51:41,62
+reengage with a
+debate that's actually
+
+
+1197
+0:51:41,62 --> 0:51:44,2
+moved on a lot in
+the last 12 years
+
+
+1198
+0:51:44,2 --> 0:51:46,802
+while we've been
+busy in Afghanistan.
+
+
+1199
+0:51:46,802 --> 0:51:49,1
+And the other thing that I
+think it is to reemphasize
+
+
+1200
+0:51:49,1 --> 0:51:52,15
+is you have littoral,
+because being on a coastline
+
+
+1201
+0:51:52,15 --> 0:51:55,36
+is different from being
+in a city elsewhere.
+
+
+1202
+0:51:55,36 --> 0:51:57,22
+Just one example
+of that, last year
+
+
+1203
+0:51:57,22 --> 0:51:58,83
+for the first time
+in history, there
+
+
+1204
+0:51:58,83 --> 0:52:2,29
+was a simultaneous outbreak of
+cholera in four West African
+
+
+1205
+0:52:2,29 --> 0:52:4,7
+countries during
+the monsoon season,
+
+
+1206
+0:52:4,7 --> 0:52:6,48
+and the reason
+for that is people
+
+
+1207
+0:52:6,48 --> 0:52:8,91
+have moved to slums on the
+outskirts of these cities.
+
+
+1208
+0:52:8,91 --> 0:52:12,22
+A lot of those slums are
+built on stilts over the sea.
+
+
+1209
+0:52:12,22 --> 0:52:13,79
+They don't have sanitation.
+
+
+1210
+0:52:13,79 --> 0:52:17,66
+There was a tidal storm surge
+that pushed a lot of sewage
+
+
+1211
+0:52:17,66 --> 0:52:21,63
+from these slums into the inland
+water system and infected lots
+
+
+1212
+0:52:21,63 --> 0:52:24,67
+of people with cholera,
+but all these cities
+
+
+1213
+0:52:24,67 --> 0:52:27,7
+are connected with each other
+through coastal shipping
+
+
+1214
+0:52:27,7 --> 0:52:31,3
+and air transportation so that
+the infection spread nearly
+
+
+1215
+0:52:31,3 --> 0:52:32,6
+simultaneously.
+
+
+1216
+0:52:32,6 --> 0:52:34,226
+There's a very interesting
+study by the World Health
+
+
+1217
+0:52:34,226 --> 0:52:37,77
+Organization where they look
+at how air travel in particular
+
+
+1218
+0:52:37,77 --> 0:52:40,85
+completely invalidates our
+traditional way of handling
+
+
+1219
+0:52:40,85 --> 0:52:41,93
+infectious disease.
+
+
+1220
+0:52:41,93 --> 0:52:45,83
+If you have the right
+incubation period
+
+
+1221
+0:52:45,83 --> 0:52:51,8
+and you posit the idea of a
+continued air traffic system,
+
+
+1222
+0:52:51,8 --> 0:52:53,18
+it can be around
+the entire system
+
+
+1223
+0:52:53,18 --> 0:52:55,15
+before the first
+patient gets sick.
+
+
+1224
+0:52:55,15 --> 0:52:58,7
+So instead of having breakout
+in one country and you then
+
+
+1225
+0:52:58,7 --> 0:53:1,25
+contain that, you can
+have simultaneous outbreak
+
+
+1226
+0:53:1,25 --> 0:53:3,87
+in basically every continent
+except Antarctica because
+
+
+1227
+0:53:3,87 --> 0:53:6,22
+of the way the air
+transportation system works.
+
+
+1228
+0:53:6,22 --> 0:53:9,8
+Who runs baggage handling
+systems in most of the world?
+
+
+1229
+0:53:9,8 --> 0:53:11,16
+Who is the workforce
+in most airports?
+
+
+1230
+0:53:11,16 --> 0:53:13,82
+It's people that don't live in
+the rich districts downtown.
+
+
+1231
+0:53:13,82 --> 0:53:16,18
+It's people that live in the
+slums around the outside.
+
+
+1232
+0:53:16,18 --> 0:53:18,65
+So I think this is the
+sort of stuff where
+
+
+1233
+0:53:18,65 --> 0:53:21,855
+we need to be really engaging to
+think about how do we get ahead
+
+
+1234
+0:53:21,855 --> 0:53:23,49
+of the curve, and maybe we can.
+
+
+1235
+0:53:23,49 --> 0:53:24,82
+Maybe you're right.
+
+
+1236
+0:53:24,82 --> 0:53:27,18
+I hope that's not true,
+but it's at least worth
+
+
+1237
+0:53:27,18 --> 0:53:28,39
+thinking about it I think.
+
+
+1238
+0:53:28,39 --> 0:53:30,26
+AUDIENCE: Hey,
+thanks for coming.
+
+
+1239
+0:53:30,26 --> 0:53:33,64
+I wanted to ask about if we
+have this large population
+
+
+1240
+0:53:33,64 --> 0:53:36,32
+growth over the next 30 years,
+have all these people moving
+
+
+1241
+0:53:36,32 --> 0:53:39,8
+into cities and
+then simultaneously
+
+
+1242
+0:53:39,8 --> 0:53:42,12
+from other people, particularly
+like futurists like Peter
+
+
+1243
+0:53:42,12 --> 0:53:44,67
+Diamandis and such who have
+these ideas that talk about
+
+
+1244
+0:53:44,67 --> 0:53:46,6
+well, we'll have more
+and more technology.
+
+
+1245
+0:53:46,6 --> 0:53:49,39
+We'll have to stop worrying
+about low level agriculture
+
+
+1246
+0:53:49,39 --> 0:53:54,6
+so much as more of that's--
+we'll just say-- automated.
+
+
+1247
+0:53:54,6 --> 0:53:58,7
+So I was wondering if you had
+any thoughts on what the job
+
+
+1248
+0:53:58,7 --> 0:54:0,98
+or what the working situation
+looks like for people
+
+
+1249
+0:54:0,98 --> 0:54:4,9
+in these cities as we get
+these giant populations.
+
+
+1250
+0:54:4,9 --> 0:54:6,224
+DAVID KILCULLEN:
+Yeah, I've looked
+
+
+1251
+0:54:6,224 --> 0:54:7,64
+at that in a little
+bit of detail,
+
+
+1252
+0:54:7,64 --> 0:54:10,7
+but not actually as
+much as I would like to.
+
+
+1253
+0:54:10,7 --> 0:54:12,65
+I think there's a whole
+additional study here
+
+
+1254
+0:54:12,65 --> 0:54:17,95
+that's not only
+focused on employment,
+
+
+1255
+0:54:17,95 --> 0:54:21,1
+but it's focus on the
+intersection of various things
+
+
+1256
+0:54:21,1 --> 0:54:24,3
+that the aid and development
+community takes for granted.
+
+
+1257
+0:54:24,3 --> 0:54:26,13
+So, I had an interesting
+discussing with the Gates
+
+
+1258
+0:54:26,13 --> 0:54:30,47
+Foundation last year about
+maternal health and infant
+
+
+1259
+0:54:30,47 --> 0:54:31,62
+mortality.
+
+
+1260
+0:54:31,62 --> 0:54:34,63
+And of course, if you're
+running a private philanthropic
+
+
+1261
+0:54:34,63 --> 0:54:37,21
+organization, you have to
+define what your field of action
+
+
+1262
+0:54:37,21 --> 0:54:39,76
+is going to be, and if that's
+your field of action, that's
+
+
+1263
+0:54:39,76 --> 0:54:41,2
+where you're going to focus.
+
+
+1264
+0:54:41,2 --> 0:54:43,76
+But the fact is if you come up
+with effective maternal health
+
+
+1265
+0:54:43,76 --> 0:54:46,205
+and infant mortality
+programs now,
+
+
+1266
+0:54:46,205 --> 0:54:48,247
+you better have an education
+plan for five or six
+
+
+1267
+0:54:48,247 --> 0:54:50,288
+years from now, and you
+better have an employment
+
+
+1268
+0:54:50,288 --> 0:54:51,84
+plan for 18 years
+from now, or you're
+
+
+1269
+0:54:51,84 --> 0:54:54,53
+going end up with what
+happened to the Libyans
+
+
+1270
+0:54:54,53 --> 0:54:57,28
+where the Libyans did a great
+job in the '70s and '80s
+
+
+1271
+0:54:57,28 --> 0:55:0,16
+improving public health,
+which resulted in a youth
+
+
+1272
+0:55:0,16 --> 0:55:3,83
+bulge, which resulted in a lot
+of people hitting college age.
+
+
+1273
+0:55:3,83 --> 0:55:6,5
+And the Libyan education
+system was well
+
+
+1274
+0:55:6,5 --> 0:55:8,34
+developed for making
+people literate,
+
+
+1275
+0:55:8,34 --> 0:55:11,38
+giving them skills in English,
+and helping them become very
+
+
+1276
+0:55:11,38 --> 0:55:14,555
+politically aware, but it was
+really bad at generating people
+
+
+1277
+0:55:14,555 --> 0:55:17,59
+that had skills that were
+relevant to the Libyan economy,
+
+
+1278
+0:55:17,59 --> 0:55:19,38
+which is basically oil and gas.
+
+
+1279
+0:55:19,38 --> 0:55:23,5
+So you had this massive number
+of expats doing those jobs,
+
+
+1280
+0:55:23,5 --> 0:55:25,35
+and a lot of people coming
+out of Libyan colleges
+
+
+1281
+0:55:25,35 --> 0:55:28,1
+ended up working for
+the civil service,
+
+
+1282
+0:55:28,1 --> 0:55:29,58
+because basically
+they just created
+
+
+1283
+0:55:29,58 --> 0:55:31,18
+this giant public
+service in order
+
+
+1284
+0:55:31,18 --> 0:55:33,769
+to absorb all these people
+that didn't have usable skills.
+
+
+1285
+0:55:33,769 --> 0:55:36,31
+Then you had these government
+departments that were basically
+
+
+1286
+0:55:36,31 --> 0:55:38,52
+just jobs programs
+and didn't exist
+
+
+1287
+0:55:38,52 --> 0:55:40,205
+to provide any service
+to the community,
+
+
+1288
+0:55:40,205 --> 0:55:42,58
+so you had this breakdown of
+trust between the government
+
+
+1289
+0:55:42,58 --> 0:55:46,12
+and the population and
+this giant underemployment
+
+
+1290
+0:55:46,12 --> 0:55:47,189
+challenge.
+
+
+1291
+0:55:47,189 --> 0:55:48,98
+And that was the
+recruiting pool from which
+
+
+1292
+0:55:48,98 --> 0:55:53,34
+people sprung in 2011 against
+the regime when they began
+
+
+1293
+0:55:53,34 --> 0:55:56,9
+seeing places like
+Dubai and Kuwait
+
+
+1294
+0:55:56,9 --> 0:55:59,762
+on the television, which they'd
+never had access to until 2003.
+
+
+1295
+0:55:59,762 --> 0:56:1,22
+And they're like,
+hang on a second,
+
+
+1296
+0:56:1,22 --> 0:56:2,928
+how come those guys
+are living like that,
+
+
+1297
+0:56:2,928 --> 0:56:4,7
+and we're living like this?
+
+
+1298
+0:56:4,7 --> 0:56:8,34
+So I think that issue
+is critically important,
+
+
+1299
+0:56:8,34 --> 0:56:11,88
+figuring out the intersections
+of all these different programs
+
+
+1300
+0:56:11,88 --> 0:56:13,382
+and how they work together.
+
+
+1301
+0:56:13,382 --> 0:56:14,84
+I think-- and this
+is just my point
+
+
+1302
+0:56:14,84 --> 0:56:17,56
+of view based on not
+a huge amount of data,
+
+
+1303
+0:56:17,56 --> 0:56:20,11
+but just based on observing
+a lot of these cities--
+
+
+1304
+0:56:20,11 --> 0:56:22,1
+there's a lot of
+jobs out there that
+
+
+1305
+0:56:22,1 --> 0:56:25,76
+are emerging through
+self-synchronization
+
+
+1306
+0:56:25,76 --> 0:56:27,12
+at the local level.
+
+
+1307
+0:56:27,12 --> 0:56:31,49
+So if you want to go on
+your Google mapping app,
+
+
+1308
+0:56:31,49 --> 0:56:36,54
+and you live in Lagos, and
+you want to check the traffic,
+
+
+1309
+0:56:36,54 --> 0:56:39,899
+it's useless, because
+it's red all the time.
+
+
+1310
+0:56:39,899 --> 0:56:41,44
+Lagos seems to have
+words for traffic
+
+
+1311
+0:56:41,44 --> 0:56:42,814
+like Eskimos have
+words for snow.
+
+
+1312
+0:56:42,814 --> 0:56:44,77
+There's so many people there.
+
+
+1313
+0:56:44,77 --> 0:56:46,76
+It's the infrastructure
+of a medium
+
+
+1314
+0:56:46,76 --> 0:56:51,9
+sized town with a population
+the size of Australia basically.
+
+
+1315
+0:56:51,9 --> 0:56:53,89
+And it's always red.
+
+
+1316
+0:56:53,89 --> 0:56:56,58
+But, there are about 25
+different local level radio
+
+
+1317
+0:56:56,58 --> 0:56:59,64
+stations that only
+broadcast for a few blocks
+
+
+1318
+0:56:59,64 --> 0:57:1,82
+where people call in
+and tell the radio
+
+
+1319
+0:57:1,82 --> 0:57:4,31
+DJ what's going on
+with traffic, and you
+
+
+1320
+0:57:4,31 --> 0:57:6,56
+don't go on Google
+to find out traffic.
+
+
+1321
+0:57:6,56 --> 0:57:8,897
+You just change--
+people have written up
+
+
+1322
+0:57:8,897 --> 0:57:11,48
+on their window the frequencies
+of these local radio stations,
+
+
+1323
+0:57:11,48 --> 0:57:14,63
+and they just change from one
+to another as they move through.
+
+
+1324
+0:57:14,63 --> 0:57:16,7
+And they've basically
+self-synchronized
+
+
+1325
+0:57:16,7 --> 0:57:19,44
+their own traffic
+information system
+
+
+1326
+0:57:19,44 --> 0:57:22,39
+based on totally analog
+means in that environment.
+
+
+1327
+0:57:22,39 --> 0:57:24,14
+So there's a lot of
+those kinds of things.
+
+
+1328
+0:57:24,14 --> 0:57:26,34
+And there's also
+a cognitive elite,
+
+
+1329
+0:57:26,34 --> 0:57:27,69
+which is not the machine.
+
+
+1330
+0:57:27,69 --> 0:57:30,16
+It's the marriage
+of machine and human
+
+
+1331
+0:57:30,16 --> 0:57:31,73
+that's actually
+driving forward a lot
+
+
+1332
+0:57:31,73 --> 0:57:34,951
+of the economic development
+in places that we see.
+
+
+1333
+0:57:34,951 --> 0:57:36,7
+I can talk about that
+offline if you want,
+
+
+1334
+0:57:36,7 --> 0:57:38,68
+because it's a whole
+other discussion.
+
+
+1335
+0:57:38,68 --> 0:57:41,99
+But then there's a lot of people
+that are basically dispossessed
+
+
+1336
+0:57:41,99 --> 0:57:45,86
+because of this change, and
+what happens to those people
+
+
+1337
+0:57:45,86 --> 0:57:49,97
+will drive a lot of what happens
+in these environments I think.
+
+
+1338
+0:57:49,97 --> 0:57:49,93
+AUDIENCE: Thank you.
+
+
+1339
+0:57:49,93 --> 0:57:51,887
+
+
+
+1340
+0:57:51,887 --> 0:57:53,22
+MALE SPEAKER: Thanks for coming.
+
+
+1341
+0:57:53,22 --> 0:57:55,11
+Let's have a warm hand
+for David Kilcullen.
+
+
+1342
+0:57:55,11 --> 0:57:57,16
+DAVID KILCULLEN: Hey,
+thank you for having me.
+
+
+1343
+0:57:57,16 --> 0:59:57,16
+
+
+

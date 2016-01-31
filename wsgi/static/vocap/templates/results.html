@@ -1,0 +1,32 @@
+<div id="accordion">
+
+<% if (_.isEmpty(results)){ %>
+<div class="no-results-found">No results found.</div>
+<% }; %>
+
+<% _.each( results, function( video ){ %>
+
+	<div><h3><%= video.title %></h3><div>
+	<table>
+	<% _.each( video.matches, function( match ){ %>
+
+		<% if (match.text == '-------') { %>
+			<tr>
+			<td class="separator"> </td>
+			<td class="separator"> </td>
+			<td class="separator"> </td>
+			</tr>
+		<% } else { %>
+			<tr>
+			<td class="time"><%= match.human_time %></td>
+			<td class="cap_text"><%= match.text %></td>
+			<td> <a class="play" href="#" data-time="<%= match.time %>" data-vid="<%= video.vid %>">Play</a> </td>
+			</tr>
+
+		<% } %>
+
+	<% }); %>
+	</table></div></div>
+
+<% }); %>
+</div>

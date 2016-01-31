@@ -1,0 +1,783 @@
+1
+0:0:0,0 --> 0:0:7,45
+
+
+
+2
+0:0:7,45 --> 0:0:11,73
+PRESIDENT OBAMA: By 2025, we
+expect new spacecraft designed
+
+
+3
+0:0:11,73 --> 0:0:14,47
+for long journeys to allow us to
+begin the first ever crewed
+
+
+4
+0:0:14,47 --> 0:0:18,9
+missions beyond the Moon
+into deep space.
+
+
+5
+0:0:18,9 --> 0:0:21,5
+We'll start by sending
+astronauts to an asteroid for
+
+
+6
+0:0:21,5 --> 0:0:24,19
+the first time in history.
+
+
+7
+0:0:24,19 --> 0:0:35,52
+
+
+
+8
+0:0:35,52 --> 0:0:37,56
+NEIL DEGRASSE TYSON: There's
+an asteroid called Apophis
+
+
+9
+0:0:37,56 --> 0:0:39,17
+discovered a couple
+of years ago.
+
+
+10
+0:0:39,17 --> 0:0:43,21
+That asteroid, on Friday the
+13th in April in the year
+
+
+11
+0:0:43,21 --> 0:0:48,15
+2029, will come close enough
+to Earth to dip below our
+
+
+12
+0:0:48,15 --> 0:0:49,755
+orbiting communications
+satellites.
+
+
+13
+0:0:49,755 --> 0:0:51,52
+It'll be the biggest,
+closest thing
+
+
+14
+0:0:51,52 --> 0:0:53,97
+ever in recorded history.
+
+
+15
+0:0:53,97 --> 0:0:56,78
+If it goes through what we call
+the keyhole, which is
+
+
+16
+0:0:56,78 --> 0:1:0,51
+where the Earth's gravity is
+just right, it will hit the
+
+
+17
+0:1:0,51 --> 0:1:1,76
+Earth seven years later.
+
+
+18
+0:1:1,76 --> 0:1:4,209
+
+
+
+19
+0:1:4,209 --> 0:1:6,5
+If it goes through the center
+of the keyhole, it will hit
+
+
+20
+0:1:6,5 --> 0:1:9,66
+the Pacific Ocean and create
+waves of tsunamis that'll
+
+
+21
+0:1:9,66 --> 0:1:12,93
+blast clean the entire west
+coast of North America.
+
+
+22
+0:1:12,93 --> 0:1:15,48
+
+
+
+23
+0:1:15,48 --> 0:1:17,8
+MIKE GERNHARDT: It is a
+statistical certainty that one
+
+
+24
+0:1:17,8 --> 0:1:21,54
+day, the Earth will get hit by a
+large asteroid, whether that
+
+
+25
+0:1:21,54 --> 0:1:26,168
+be in 50 years or 100
+million years.
+
+
+26
+0:1:26,168 --> 0:1:29,56
+
+
+
+27
+0:1:29,56 --> 0:1:31,17
+NEIL DEGRASSE TYSON: We pay
+for insurance against car
+
+
+28
+0:1:31,17 --> 0:1:34,46
+accidents, against damage to
+your home, but no one has
+
+
+29
+0:1:34,46 --> 0:1:38,9
+organized what it would take
+to get asteroid insurance.
+
+
+30
+0:1:38,9 --> 0:1:39,71
+In fact, the asteroid insurance
+isn't to replace
+
+
+31
+0:1:39,71 --> 0:1:42,34
+your home if you get hit by an
+asteroid, it would be to have
+
+
+32
+0:1:42,34 --> 0:1:46,508
+enough money to do something
+about it in the first place.
+
+
+33
+0:1:46,508 --> 0:1:53,69
+
+
+
+34
+0:1:53,69 --> 0:1:54,85
+SAUL ROSSER: My name's
+Saul Rosser.
+
+
+35
+0:1:54,85 --> 0:1:57,64
+I'm the Operations Director at
+Aquarius Reef Base, which is
+
+
+36
+0:1:57,64 --> 0:2:0,76
+NOAA's underwater habitat or
+research station about four
+
+
+37
+0:2:0,76 --> 0:2:2,48
+miles off of Key Largo.
+
+
+38
+0:2:2,48 --> 0:2:5,71
+We house six people at a time
+about 60 feet underwater.
+
+
+39
+0:2:5,71 --> 0:2:8,56
+During this mission, we have
+three astronauts, a planetary
+
+
+40
+0:2:8,56 --> 0:2:11,9
+scientist, and two of our
+technicians living underwater
+
+
+41
+0:2:11,9 --> 0:2:14,903
+to work on techniques for
+exploring asteroids.
+
+
+42
+0:2:14,903 --> 0:2:21,765
+
+
+
+43
+0:2:21,765 --> 0:2:25,52
+The first habitat was built in
+1962 by Jacques Cousteau.
+
+
+44
+0:2:25,52 --> 0:2:27,36
+Now 50 years later,
+this is the last
+
+
+45
+0:2:27,36 --> 0:2:29,26
+habitat on the sea floor.
+
+
+46
+0:2:29,26 --> 0:2:31,5
+And this is the only place you
+can do this kind of thing.
+
+
+47
+0:2:31,5 --> 0:2:33,18
+So they're down there looking
+at, how do you translate
+
+
+48
+0:2:33,18 --> 0:2:35,9
+across an asteroid, and how do
+you work out the details of
+
+
+49
+0:2:35,9 --> 0:2:39,6
+moving along in a zero-G
+environment, taking samples,
+
+
+50
+0:2:39,6 --> 0:2:40,88
+and working across the surface
+of the asteroid?
+
+
+51
+0:2:40,88 --> 0:2:43,51
+
+
+
+52
+0:2:43,51 --> 0:2:46,1
+BILL TODD: NEEMO is NASA's
+undersea research program--
+
+
+53
+0:2:46,1 --> 0:2:48,42
+stands for NASA's Extreme
+Environment Mission
+
+
+54
+0:2:48,42 --> 0:2:49,28
+Operations.
+
+
+55
+0:2:49,28 --> 0:2:52,63
+This particular mission is
+focused on going to an
+
+
+56
+0:2:52,63 --> 0:2:55,785
+asteroid and living and working
+on the surface of an
+
+
+57
+0:2:55,785 --> 0:2:59,6
+asteroid, which is a fairly
+complex and difficult task.
+
+
+58
+0:2:59,6 --> 0:3:4,16
+What possibly could be more cool
+and more exciting than
+
+
+59
+0:3:4,16 --> 0:3:8,57
+blending outer space and
+undersea together in this is
+
+
+60
+0:3:8,57 --> 0:3:13,34
+extremely vivid, dynamic,
+exciting environment that
+
+
+61
+0:3:13,34 --> 0:3:15,912
+there's also risk that you have
+to manage, and you have
+
+
+62
+0:3:15,912 --> 0:3:17,42
+to really pay attention
+to what you're doing?
+
+
+63
+0:3:17,42 --> 0:3:18,67
+For me, that's exciting.
+
+
+64
+0:3:18,67 --> 0:3:23,79
+
+
+
+65
+0:3:23,79 --> 0:3:24,785
+MIKE GERNHARDT: So my name
+is Mike Gernhardt.
+
+
+66
+0:3:24,785 --> 0:3:25,96
+I'm a NASA astronaut.
+
+
+67
+0:3:25,96 --> 0:3:28,34
+I've actually flown in space
+four times, and I'm the
+
+
+68
+0:3:28,34 --> 0:3:30,92
+principal investigator of
+the Neemo 16 mission.
+
+
+69
+0:3:30,92 --> 0:3:33,78
+So to be perfectly honest with
+you, I had my heart set on
+
+
+70
+0:3:33,78 --> 0:3:36,5
+going back to the Moon, and I
+was hoping to maybe have a
+
+
+71
+0:3:36,5 --> 0:3:37,97
+chance to be the crew
+that did that.
+
+
+72
+0:3:37,97 --> 0:3:41,98
+So when I first heard we're
+going to an asteroid and
+
+
+73
+0:3:41,98 --> 0:3:44,83
+stopping the lunar program,
+that was a big
+
+
+74
+0:3:44,83 --> 0:3:46,31
+disappointment to me.
+
+
+75
+0:3:46,31 --> 0:3:50,79
+But rather than go off and cry
+in the corner, I picked it up
+
+
+76
+0:3:50,79 --> 0:3:53,62
+with my team, and we started
+working the details of what
+
+
+77
+0:3:53,62 --> 0:3:55,42
+it's going to be like to
+work on an asteroid.
+
+
+78
+0:3:55,42 --> 0:3:58,5
+And it's turned out to be a very
+fascinating, challenging
+
+
+79
+0:3:58,5 --> 0:4:0,6
+place to work that's really
+moved our technologies forward
+
+
+80
+0:4:0,6 --> 0:4:3,536
+in a very positive way.
+
+
+81
+0:4:3,536 --> 0:4:7,16
+
+
+
+82
+0:4:7,16 --> 0:4:10,12
+Working and doing space walks
+on the asteroid is like the
+
+
+83
+0:4:10,12 --> 0:4:14,73
+worst combination of the dirt
+and all of that of the Moon
+
+
+84
+0:4:14,73 --> 0:4:17,1
+but with no ground
+reaction force.
+
+
+85
+0:4:17,1 --> 0:4:19,19
+On the Moon, you can walk.
+
+
+86
+0:4:19,19 --> 0:4:20,72
+You have ground reaction
+force.
+
+
+87
+0:4:20,72 --> 0:4:23,24
+On a space station, we're
+floating around but we have
+
+
+88
+0:4:23,24 --> 0:4:26,48
+pre-engineered translation paths
+with handholds and foot
+
+
+89
+0:4:26,48 --> 0:4:28,61
+restraints and all these
+kinds of things.
+
+
+90
+0:4:28,61 --> 0:4:30,46
+And we have none of that
+on an asteroid.
+
+
+91
+0:4:30,46 --> 0:4:33,45
+So two and a half years ago,
+no one had any idea of how
+
+
+92
+0:4:33,45 --> 0:4:35,8
+we're going to do
+these things.
+
+
+93
+0:4:35,8 --> 0:4:37,26
+And we have very systematically
+developed the
+
+
+94
+0:4:37,26 --> 0:4:41,6
+techniques and evaluated them,
+and I think that we're well on
+
+
+95
+0:4:41,6 --> 0:4:42,8
+our way to understanding
+what those
+
+
+96
+0:4:42,8 --> 0:4:46,1
+operations should be like.
+
+
+97
+0:4:46,1 --> 0:4:49,37
+
+
+
+98
+0:4:49,37 --> 0:4:52,54
+So we probably won't land on an
+asteroid, but we will touch
+
+
+99
+0:4:52,54 --> 0:4:53,97
+the asteroid with
+a human hand.
+
+
+100
+0:4:53,97 --> 0:4:57,5
+And the way we will do that is
+to be on a foot restraint
+
+
+101
+0:4:57,5 --> 0:5:0,11
+that's attached to the space
+exploration vehicle, this
+
+
+102
+0:5:0,11 --> 0:5:2,24
+small vehicle that
+flies around.
+
+
+103
+0:5:2,24 --> 0:5:5,65
+So we'll fly in close to the
+asteroid and then reach in
+
+
+104
+0:5:5,65 --> 0:5:9,25
+with our foot on a foot
+restraint and grab rocks or
+
+
+105
+0:5:9,25 --> 0:5:12,2
+deploy scientific instruments
+on the asteroid.
+
+
+106
+0:5:12,2 --> 0:5:16,4
+So unlike the lunar landing, we
+will probably not land and
+
+
+107
+0:5:16,4 --> 0:5:17,58
+attach to the asteroid.
+
+
+108
+0:5:17,58 --> 0:5:21,55
+We will fly around it and touch
+it with our hands to get
+
+
+109
+0:5:21,55 --> 0:5:25,717
+the samples that we need to
+understand the geology.
+
+
+110
+0:5:25,717 --> 0:5:30,37
+
+
+
+111
+0:5:30,37 --> 0:5:33,31
+There are all sorts of minerals
+on these asteroids
+
+
+112
+0:5:33,31 --> 0:5:34,55
+that we can't get
+here on Earth.
+
+
+113
+0:5:34,55 --> 0:5:35,81
+There's rare earth metals.
+
+
+114
+0:5:35,81 --> 0:5:36,91
+There's platinum.
+
+
+115
+0:5:36,91 --> 0:5:40,75
+There's precious metals,
+things like that.
+
+
+116
+0:5:40,75 --> 0:5:44,78
+Without a doubt, there are
+economic benefits of mining,
+
+
+117
+0:5:44,78 --> 0:5:46,52
+and I think it will come.
+
+
+118
+0:5:46,52 --> 0:5:48,78
+It's not 10 years away.
+
+
+119
+0:5:48,78 --> 0:5:51,79
+I think it's way more
+than that, but
+
+
+120
+0:5:51,79 --> 0:5:53,4
+you gotta start somewhere.
+
+
+121
+0:5:53,4 --> 0:5:57,25
+
+
+
+122
+0:5:57,25 --> 0:5:59,24
+By going to an asteroid and
+understanding their
+
+
+123
+0:5:59,24 --> 0:6:4,23
+characteristics, that informs us
+with better techniques for
+
+
+124
+0:6:4,23 --> 0:6:7,57
+so-called planetary defense,
+where we could either slightly
+
+
+125
+0:6:7,57 --> 0:6:10,28
+shift the course of the asteroid
+at a distance far
+
+
+126
+0:6:10,28 --> 0:6:13,55
+enough away that it doesn't
+hit the earth or possibly
+
+
+127
+0:6:13,55 --> 0:6:15,98
+percuss it into smaller
+pieces.
+
+
+128
+0:6:15,98 --> 0:6:18,77
+We don't really know the right
+answer for that, but the more
+
+
+129
+0:6:18,77 --> 0:6:22,92
+we know about asteroids, the
+better informed we'll be to
+
+
+130
+0:6:22,92 --> 0:6:25,67
+defend the Earth against an
+asteroid hit in the future.
+
+
+131
+0:6:25,67 --> 0:6:26,86
+NEIL DEGRASSE TYSON: Well, we're
+smart enough, and we
+
+
+132
+0:6:26,86 --> 0:6:29,74
+have a space program, and we're
+clever enough that we
+
+
+133
+0:6:29,74 --> 0:6:32,24
+never have to go extinct
+by an asteroid.
+
+
+134
+0:6:32,24 --> 0:6:34,4
+We have more choices available
+to us than
+
+
+135
+0:6:34,4 --> 0:6:38,316
+Tyrannosaurus Rex did.
+
+
+136
+0:6:38,316 --> 0:8:38,316
+
+
+

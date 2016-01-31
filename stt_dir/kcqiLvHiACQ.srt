@@ -1,0 +1,1196 @@
+1
+0:0:0,0 --> 0:0:3,164
+
+
+
+2
+0:0:3,164 --> 0:0:5,415
+ROBERT ALEXANDER: If you'd
+asked me five years ago,
+
+
+3
+0:0:5,415 --> 0:0:7,64
+Robert, where will you be
+five years from now?
+
+
+4
+0:0:7,64 --> 0:0:11,983
+I don't think I would've been
+able to come up with an answer
+
+
+5
+0:0:11,983 --> 0:0:13,97
+as cool as what I actually feel
+like I'm doing, you know?
+
+
+6
+0:0:13,97 --> 0:0:18,17
+
+
+
+7
+0:0:18,17 --> 0:0:20,472
+[ETHEREAL MUSIC]
+
+
+8
+0:0:20,472 --> 0:0:39,13
+
+
+
+9
+0:0:39,13 --> 0:0:41,1
+ROBERT ALEXANDER: My name
+is Robert Alexander.
+
+
+10
+0:0:41,1 --> 0:0:44,22
+And I'm a data sonification
+specialist with the Solar and
+
+
+11
+0:0:44,22 --> 0:0:45,57
+Heliospheric Research Group.
+
+
+12
+0:0:45,57 --> 0:0:49,74
+To sonify something just means
+that you're taking any type of
+
+
+13
+0:0:49,74 --> 0:0:51,6
+data and just turning
+it into sound.
+
+
+14
+0:0:51,6 --> 0:0:54,82
+So it could be a measurement
+of the stock market.
+
+
+15
+0:0:54,82 --> 0:0:57,34
+It could be a measurement
+of people entering
+
+
+16
+0:0:57,34 --> 0:0:58,32
+and exiting a room.
+
+
+17
+0:0:58,32 --> 0:0:59,98
+It could be your heartbeat.
+
+
+18
+0:0:59,98 --> 0:1:1,74
+So if you think about a
+heart rate monitor--
+
+
+19
+0:1:1,74 --> 0:1:3,17
+beep, beep--
+
+
+20
+0:1:3,17 --> 0:1:5,33
+essentially, this is
+a sonification
+
+
+21
+0:1:5,33 --> 0:1:6,58
+of someone's pulse.
+
+
+22
+0:1:6,58 --> 0:1:12,95
+
+
+
+23
+0:1:12,95 --> 0:1:14,75
+I think of myself
+as an explorer.
+
+
+24
+0:1:14,75 --> 0:1:19,5
+I live in the space between
+art, and science, and
+
+
+25
+0:1:19,5 --> 0:1:20,13
+technology.
+
+
+26
+0:1:20,13 --> 0:1:22,83
+And the Toroidal Universe
+project is a great example.
+
+
+27
+0:1:22,83 --> 0:1:25,51
+I collaborated with this amazing
+visual artist by the
+
+
+28
+0:1:25,51 --> 0:1:26,85
+name of Danielle Battaglia.
+
+
+29
+0:1:26,85 --> 0:1:29,47
+And we created this
+multi-sensory experience in
+
+
+30
+0:1:29,47 --> 0:1:32,8
+which people, they can just get
+lost in these theoretical
+
+
+31
+0:1:32,8 --> 0:1:34,57
+higher dimensional spaces.
+
+
+32
+0:1:34,57 --> 0:1:37,84
+And these were filled with these
+sounds that I generated
+
+
+33
+0:1:37,84 --> 0:1:40,65
+from raw satellite data that
+were these kind of guide posts
+
+
+34
+0:1:40,65 --> 0:1:41,9
+as you move around.
+
+
+35
+0:1:41,9 --> 0:2:4,59
+
+
+
+36
+0:2:4,59 --> 0:2:8,4
+It really is important for me to
+remain grounded in what it
+
+
+37
+0:2:8,4 --> 0:2:11,59
+means to just be connected with
+the world of sound in a
+
+
+38
+0:2:11,59 --> 0:2:13,9
+very tangible, very
+visceral way.
+
+
+39
+0:2:13,9 --> 0:2:17,44
+So then when I go off and I'm
+interacting with the sun, it
+
+
+40
+0:2:17,44 --> 0:2:19,5
+gives me a sense of grounding
+in a sense.
+
+
+41
+0:2:19,5 --> 0:2:22,48
+And it kind of helps just
+round out my life and to
+
+
+42
+0:2:22,48 --> 0:2:24,7
+maintain a healthy sort
+of balance, I
+
+
+43
+0:2:24,7 --> 0:2:25,32
+guess you could say.
+
+
+44
+0:2:25,32 --> 0:2:28,18
+
+
+
+45
+0:2:28,18 --> 0:2:30,5
+So as I was finishing up my
+master's degree, I was
+
+
+46
+0:2:30,5 --> 0:2:32,88
+approached by Thomas Zurbuchen
+who leads the Solar and
+
+
+47
+0:2:32,88 --> 0:2:34,7
+Heliospheric Research Group.
+
+
+48
+0:2:34,7 --> 0:2:36,14
+And he was interested in taking
+some other data and
+
+
+49
+0:2:36,14 --> 0:2:37,18
+turning it into sound.
+
+
+50
+0:2:37,18 --> 0:2:38,47
+So I met with their team.
+
+
+51
+0:2:38,47 --> 0:2:40,55
+And they put up a
+bunch of plots.
+
+
+52
+0:2:40,55 --> 0:2:42,82
+And they were telling me about
+coronal holes, and they were
+
+
+53
+0:2:42,82 --> 0:2:44,84
+throwing out this scientific
+jargon.
+
+
+54
+0:2:44,84 --> 0:2:46,41
+And I really didn't understand
+much of it.
+
+
+55
+0:2:46,41 --> 0:2:49,6
+But then they put up these
+images and these movies.
+
+
+56
+0:2:49,6 --> 0:2:57,27
+
+
+
+57
+0:2:57,27 --> 0:2:59,5
+And then I really started
+to understand why
+
+
+58
+0:2:59,5 --> 0:3:0,45
+they were so excited.
+
+
+59
+0:3:0,45 --> 0:3:3,7
+It's because what's happening
+out there is absolutely
+
+
+60
+0:3:3,7 --> 0:3:5,38
+amazing, and it was
+all silent.
+
+
+61
+0:3:5,38 --> 0:3:7,87
+So essentially they're
+interested in kind of creating
+
+
+62
+0:3:7,87 --> 0:3:10,53
+a soundtrack for these things
+that are taking
+
+
+63
+0:3:10,53 --> 0:3:11,926
+place out in space.
+
+
+64
+0:3:11,926 --> 0:3:14,674
+
+
+
+65
+0:3:14,674 --> 0:3:19,41
+SUSAN LEPRI: He brought to us
+this idea of sonifying data,
+
+
+66
+0:3:19,41 --> 0:3:24,44
+which is really quite innovative
+and maybe even
+
+
+67
+0:3:24,44 --> 0:3:24,775
+transformative.
+
+
+68
+0:3:24,775 --> 0:3:25,83
+ROBERT ALEXANDER: I had
+no idea what data
+
+
+69
+0:3:25,83 --> 0:3:27,35
+audification was.
+
+
+70
+0:3:27,35 --> 0:3:30,38
+But that's what I was doing at
+the time is I was taking this
+
+
+71
+0:3:30,38 --> 0:3:34,58
+solar data, and I was writing it
+directly into audio files.
+
+
+72
+0:3:34,58 --> 0:3:35,92
+So I hit play.
+
+
+73
+0:3:35,92 --> 0:3:40,3
+And I hear this underlying
+hum.
+
+
+74
+0:3:40,3 --> 0:3:41,86
+And there seemed to
+be a structure.
+
+
+75
+0:3:41,86 --> 0:3:44,67
+The hum would rise and fall.
+
+
+76
+0:3:44,67 --> 0:3:48,8
+So then after I crunched all the
+numbers, I realized that
+
+
+77
+0:3:48,8 --> 0:3:50,38
+what I was listening to
+was something that was
+
+
+78
+0:3:50,38 --> 0:3:53,54
+periodically happening every
+roughly 27 days.
+
+
+79
+0:3:53,54 --> 0:3:58,6
+And that's exactly the
+rotational period of the sun.
+
+
+80
+0:3:58,6 --> 0:4:2,35
+
+
+
+81
+0:4:2,35 --> 0:4:4,82
+And then, from there it was this
+journey of realizing that
+
+
+82
+0:4:4,82 --> 0:4:6,99
+I'm listening to the solar
+cycle, so the rise and the
+
+
+83
+0:4:6,99 --> 0:4:9,11
+fall in solar activity.
+
+
+84
+0:4:9,11 --> 0:4:12,36
+And then, at that point, I
+realized this can really
+
+
+85
+0:4:12,36 --> 0:4:14,31
+actually teach us
+something new.
+
+
+86
+0:4:14,31 --> 0:4:27,82
+
+
+
+87
+0:4:27,82 --> 0:4:31,13
+At first, it came off as
+extremely cerebral.
+
+
+88
+0:4:31,13 --> 0:4:33,7
+And it was just a tone that
+kind of went up and down.
+
+
+89
+0:4:33,7 --> 0:4:36,53
+And there really wasn't very
+much emotion behind it.
+
+
+90
+0:4:36,53 --> 0:4:38,73
+And we really didn't know how
+we wanted to start to
+
+
+91
+0:4:38,73 --> 0:4:40,8
+investigate these sounds.
+
+
+92
+0:4:40,8 --> 0:4:43,34
+So then as it evolved, they
+said, well, how about we try
+
+
+93
+0:4:43,34 --> 0:4:44,6
+an emotional journey?
+
+
+94
+0:4:44,6 --> 0:4:47,72
+So a week later, I came back,
+and I had created this
+
+
+95
+0:4:47,72 --> 0:4:50,89
+iteration whereby you take a
+journey from the Earth out to
+
+
+96
+0:4:50,89 --> 0:4:54,41
+the sun and back, with
+sonification audio underlying
+
+
+97
+0:4:54,41 --> 0:4:55,66
+this whole entire experience.
+
+
+98
+0:4:55,66 --> 0:5:2,83
+
+
+
+99
+0:5:2,83 --> 0:5:7,25
+Every single piece of that music
+is driven in some way,
+
+
+100
+0:5:7,25 --> 0:5:9,41
+shape, or form by that data.
+
+
+101
+0:5:9,41 --> 0:5:12,62
+And all of the choices in terms
+of the rise and the
+
+
+102
+0:5:12,62 --> 0:5:15,65
+fall, all of them relate back
+to the underlying data.
+
+
+103
+0:5:15,65 --> 0:5:17,87
+And all of them are true
+to the data in some
+
+
+104
+0:5:17,87 --> 0:5:19,12
+way, shape, or form.
+
+
+105
+0:5:19,12 --> 0:5:24,68
+
+
+
+106
+0:5:24,68 --> 0:5:26,83
+Starting with one of the more
+predominant things that you're
+
+
+107
+0:5:26,83 --> 0:5:28,89
+actually hearing is
+that drumbeat.
+
+
+108
+0:5:28,89 --> 0:5:31,54
+There's a question of are there
+African tribal drummers
+
+
+109
+0:5:31,54 --> 0:5:32,43
+on the surface of the sun?
+
+
+110
+0:5:32,43 --> 0:5:33,84
+And the answer is no.
+
+
+111
+0:5:33,84 --> 0:5:37,28
+But if you think about a
+scientific graph, there are
+
+
+112
+0:5:37,28 --> 0:5:38,3
+hash marks.
+
+
+113
+0:5:38,3 --> 0:5:40,495
+And you need these hash
+marks to make sense.
+
+
+114
+0:5:40,495 --> 0:5:45,63
+
+
+
+115
+0:5:45,63 --> 0:5:49,85
+What the drum beat is is it's a
+sort of grandiose metronome,
+
+
+116
+0:5:49,85 --> 0:5:50,69
+in a sense.
+
+
+117
+0:5:50,69 --> 0:5:52,36
+And it just lets you
+know where you are
+
+
+118
+0:5:52,36 --> 0:5:53,67
+within this data set.
+
+
+119
+0:5:53,67 --> 0:5:55,99
+So for that piece with the
+drumming that's all over the
+
+
+120
+0:5:55,99 --> 0:5:59,46
+year 2003, and the drumming
+actually lets you, like every
+
+
+121
+0:5:59,46 --> 0:6:1,86
+eight bars, that you've
+gone through one full
+
+
+122
+0:6:1,86 --> 0:6:3,34
+rotation of the sun.
+
+
+123
+0:6:3,34 --> 0:6:5,9
+And in a sense, if you hear
+something that happens at the
+
+
+124
+0:6:5,9 --> 0:6:8,12
+beginning of the bar and then
+you hear something happen
+
+
+125
+0:6:8,12 --> 0:6:11,3
+again, similarly, at the
+beginning eight bars later,
+
+
+126
+0:6:11,3 --> 0:6:14,8
+then you know that this might be
+a feature that's persisted
+
+
+127
+0:6:14,8 --> 0:6:16,77
+across an entire solar rotation
+now, and it's coming
+
+
+128
+0:6:16,77 --> 0:6:18,37
+back in the musical form.
+
+
+129
+0:6:18,37 --> 0:6:21,555
+And the sun then provides the
+structure and can provide
+
+
+130
+0:6:21,555 --> 0:6:23,11
+these sort of recurring
+themes.
+
+
+131
+0:6:23,11 --> 0:6:25,57
+And the drums just give
+it that structure
+
+
+132
+0:6:25,57 --> 0:6:26,945
+within which to evolve.
+
+
+133
+0:6:26,945 --> 0:6:32,82
+
+
+
+134
+0:6:32,82 --> 0:6:35,4
+I recorded the voice of my
+sister, Amanda Alexander.
+
+
+135
+0:6:35,4 --> 0:6:37,26
+And she has a great
+alto voice.
+
+
+136
+0:6:37,26 --> 0:6:40,68
+And originally I was thinking
+about these charge states of
+
+
+137
+0:6:40,68 --> 0:6:44,23
+carbon, and the fact that as one
+of them goes up, another
+
+
+138
+0:6:44,23 --> 0:6:45,44
+one comes down.
+
+
+139
+0:6:45,44 --> 0:6:49,0
+And so when you have a lower
+voice versus a higher voice,
+
+
+140
+0:6:49,0 --> 0:6:51,2
+there's actually more
+energy pushing out
+
+
+141
+0:6:51,2 --> 0:6:52,36
+those higher notes.
+
+
+142
+0:6:52,36 --> 0:6:55,27
+So when I'm representing a
+higher energetic state, I'm
+
+
+143
+0:6:55,27 --> 0:6:57,14
+using a more energized voice.
+
+
+144
+0:6:57,14 --> 0:6:59,85
+And in this way, it's kind of
+appealing directly to the
+
+
+145
+0:6:59,85 --> 0:7:2,49
+intuition of the listener in
+that when you hear these
+
+
+146
+0:7:2,49 --> 0:7:5,86
+voices get more energized,
+you're at a higher energy
+
+
+147
+0:7:5,86 --> 0:7:7,893
+level coming from the
+sun, essentially.
+
+
+148
+0:7:7,893 --> 0:7:16,68
+
+
+
+149
+0:7:16,68 --> 0:7:18,71
+I create a structure.
+
+
+150
+0:7:18,71 --> 0:7:20,37
+I create a framework.
+
+
+151
+0:7:20,37 --> 0:7:23,84
+And without the data driving
+that framework,
+
+
+152
+0:7:23,84 --> 0:7:25,34
+nothing takes place.
+
+
+153
+0:7:25,34 --> 0:7:28,82
+So the structure just kind
+of exists on its own.
+
+
+154
+0:7:28,82 --> 0:7:30,93
+And then it's the data that
+creates all the motion, that
+
+
+155
+0:7:30,93 --> 0:7:32,62
+creates all the interaction,
+and all the
+
+
+156
+0:7:32,62 --> 0:7:33,87
+progression of the music.
+
+
+157
+0:7:33,87 --> 0:7:38,297
+
+
+
+158
+0:7:38,297 --> 0:7:41,8
+SUSAN LEPRI: Initially, it
+started out sort of more
+
+
+159
+0:7:41,8 --> 0:7:46,74
+looking at the aesthetics of how
+can you sonify solar wind?
+
+
+160
+0:7:46,74 --> 0:7:48,65
+And it was a musical
+sort of approach.
+
+
+161
+0:7:48,65 --> 0:7:51,75
+But then it evolved more
+into a scientific
+
+
+162
+0:7:51,75 --> 0:7:53,5
+data analysis method.
+
+
+163
+0:7:53,5 --> 0:7:56,77
+
+
+
+164
+0:7:56,77 --> 0:7:59,97
+When he was working with the
+scientists here, Enrico Landi,
+
+
+165
+0:7:59,97 --> 0:8:3,23
+who is, I believe, the first
+author on the paper, he found
+
+
+166
+0:8:3,23 --> 0:8:6,53
+that he could actually hear
+some of the trends more
+
+
+167
+0:8:6,53 --> 0:8:8,47
+clearly in some of
+the elements.
+
+
+168
+0:8:8,47 --> 0:8:11,21
+ROBERT ALEXANDER: I was digging
+through like 20, 30
+
+
+169
+0:8:11,21 --> 0:8:13,58
+different data parameters and
+listening to them all.
+
+
+170
+0:8:13,58 --> 0:8:16,76
+And I realized that if I
+listened to carbon that I
+
+
+171
+0:8:16,76 --> 0:8:20,7
+could hear a very strong,
+harmonic presence.
+
+
+172
+0:8:20,7 --> 0:8:24,5
+And I started to think, if I'm
+hearing carbon here, but no
+
+
+173
+0:8:24,5 --> 0:8:25,71
+one in the group has
+ever really been
+
+
+174
+0:8:25,71 --> 0:8:26,58
+talking about carbon.
+
+
+175
+0:8:26,58 --> 0:8:28,33
+It's not really something
+that they
+
+
+176
+0:8:28,33 --> 0:8:29,92
+stress as being important.
+
+
+177
+0:8:29,92 --> 0:8:33,88
+And yet, here, fundamentally,
+this is one of the strongest
+
+
+178
+0:8:33,88 --> 0:8:36,7
+periodic signals that I had
+found up to that point.
+
+
+179
+0:8:36,7 --> 0:8:38,6
+I'm thinking maybe this is
+something worth looking into a
+
+
+180
+0:8:38,6 --> 0:8:39,85
+little bit more.
+
+
+181
+0:8:39,85 --> 0:8:41,99
+
+
+
+182
+0:8:41,99 --> 0:8:46,21
+We were able to figure out that,
+if we use carbon, that
+
+
+183
+0:8:46,21 --> 0:8:49,1
+we can trace the origins
+of the solar wind
+
+
+184
+0:8:49,1 --> 0:8:50,6
+with a higher accuracy.
+
+
+185
+0:8:50,6 --> 0:8:56,445
+So we can figure out where it's
+originating on the sun.
+
+
+186
+0:8:56,445 --> 0:9:1,91
+SUSAN LEPRI: This was fairly
+significant research findings
+
+
+187
+0:9:1,91 --> 0:9:3,76
+that came out of this
+audification thing.
+
+
+188
+0:9:3,76 --> 0:9:8,79
+So it really, I think, set the
+stage for Robert to do a lot
+
+
+189
+0:9:8,79 --> 0:9:11,635
+more exciting things with the
+sonification of data.
+
+
+190
+0:9:11,635 --> 0:9:13,695
+ROBERT ALEXANDER: We wrote
+everything up.
+
+
+191
+0:9:13,695 --> 0:9:17,23
+And we said that the ear can be
+an extremely powerful tool
+
+
+192
+0:9:17,23 --> 0:9:20,92
+in the analysis of this type of
+data, of time series data.
+
+
+193
+0:9:20,92 --> 0:9:23,51
+And some people at NASA, I
+guess, got excited about that.
+
+
+194
+0:9:23,51 --> 0:9:25,72
+And they said, all right,
+let's give it a shot.
+
+
+195
+0:9:25,72 --> 0:9:29,2
+And so now I'm in the second
+year of my NASA JPFP
+
+
+196
+0:9:29,2 --> 0:9:29,99
+fellowship.
+
+
+197
+0:9:29,99 --> 0:9:31,97
+And I spent the last summer
+working at NASA Goddard.
+
+
+198
+0:9:31,97 --> 0:9:35,19
+And I was really amazed at how
+eager they all were to pick up
+
+
+199
+0:9:35,19 --> 0:9:36,73
+the ball with sonification.
+
+
+200
+0:9:36,73 --> 0:9:38,6
+And so it was really
+invigorating to be in that
+
+
+201
+0:9:38,6 --> 0:9:42,79
+kind of space with those kinds
+of minds and to be tackling
+
+
+202
+0:9:42,79 --> 0:9:44,4
+these kinds of ideas.
+
+
+203
+0:9:44,4 --> 0:9:49,93
+
+
+
+204
+0:9:49,93 --> 0:9:52,73
+We forget that the most powerful
+tool that we have for
+
+
+205
+0:9:52,73 --> 0:9:56,35
+exploring the universe is right
+between our two ears.
+
+
+206
+0:9:56,35 --> 0:9:59,49
+And those same two ears
+provide a wealth of
+
+
+207
+0:9:59,49 --> 0:10:3,82
+information beyond what our
+eyes can actually see.
+
+
+208
+0:10:3,82 --> 0:10:7,91
+When we open up our ears and
+open up our minds, we open
+
+
+209
+0:10:7,91 --> 0:10:10,72
+ourselves up to an entirely
+new way of
+
+
+210
+0:10:10,72 --> 0:10:11,97
+understanding the universe.
+
+
+211
+0:10:11,97 --> 0:12:11,97
+
+
+

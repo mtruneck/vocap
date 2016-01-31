@@ -1,0 +1,1265 @@
+1
+0:0:3,541 --> 0:0:6,77
+I'm going to talk about a very difficult subject.
+
+
+2
+0:0:6,77 --> 0:0:9,72
+It's called "free will".
+
+
+3
+0:0:9,72 --> 0:0:12,737
+Most people believe that they have free will.
+
+
+4
+0:0:12,737 --> 0:0:16,908
+Strange thing about it... In the mechanical world
+
+
+5
+0:0:16,908 --> 0:0:20,69
+when they say the machine turned off
+
+
+6
+0:0:20,69 --> 0:0:24,491
+machines don't turn off. Either there's a short
+
+
+7
+0:0:24,491 --> 0:0:27,4
+or something wrong with the circuit.
+
+
+8
+0:0:27,4 --> 0:0:30,441
+Even automobile mechanics look for
+
+
+9
+0:0:30,441 --> 0:0:34,55
+the factors that change the behavior of the automobile.
+
+
+10
+0:0:34,55 --> 0:0:38,768
+Either the tires are not equally inflated
+
+
+11
+0:0:38,768 --> 0:0:42,877
+they look for that, if your car veers to the right or left.
+
+
+12
+0:0:42,877 --> 0:0:46,561
+Sometimes the tire pressure isn't even in your car.
+
+
+13
+0:0:46,561 --> 0:0:49,402
+Sometimes a lawn mower doesn't cut the grass:
+
+
+14
+0:0:49,402 --> 0:0:51,708
+The blades aren't sharp enough
+
+
+15
+0:0:51,708 --> 0:0:55,832
+or the RPM isn't great enough, the rotational speed.
+
+
+16
+0:0:55,832 --> 0:0:59,66
+So they always look for events
+
+
+17
+0:0:59,66 --> 0:1:4,88
+that are responsible for the behavior of all mechanical systems.
+
+
+18
+0:1:4,88 --> 0:1:8,872
+In fact, if you made a blade of a fan and had no pitch
+
+
+19
+0:1:8,872 --> 0:1:11,449
+it would turn, but it wouldn't blow wind.
+
+
+20
+0:1:11,449 --> 0:1:15,83
+So it's the pitch that blows the wind.
+
+
+21
+0:1:15,83 --> 0:1:20,783
+And of course, the pitch moves the air rather than blows the wind.
+
+
+22
+0:1:20,783 --> 0:1:25,274
+So, we all look for... Even a wind turbine
+
+
+23
+0:1:25,274 --> 0:1:30,936
+is turned by the pitch, but wind has to act on it to do that.
+
+
+24
+0:1:30,936 --> 0:1:34,971
+Now, moisture rises off the earth.
+
+
+25
+0:1:34,971 --> 0:1:40,794
+We say the moisture is rising. Actually, the sun evaporates it.
+
+
+26
+0:1:40,794 --> 0:1:44,839
+The sun lifts these little drops by heating them
+
+
+27
+0:1:44,839 --> 0:1:49,679
+and they move up and back rapidly and they rise.
+
+
+28
+0:1:49,679 --> 0:1:52,449
+Actually, they're caused to rise
+
+
+29
+0:1:52,449 --> 0:1:55,906
+by the sun acting on the drops of water.
+
+
+30
+0:1:55,906 --> 0:1:59,837
+We equate everything in nature. We never see...
+
+
+31
+0:1:59,837 --> 0:2:3,176
+Well some of us do. We say "The tree fell over."
+
+
+32
+0:2:3,176 --> 0:2:7,701
+The tree doesn't fall over, unless it happens that branches
+
+
+33
+0:2:7,701 --> 0:2:12,55
+grow and change the center of gravity of the tree
+
+
+34
+0:2:12,55 --> 0:2:15,505
+so it can no longer... The roots
+
+
+35
+0:2:15,505 --> 0:2:19,676
+do not grasp enough surface to keep the tree upright.
+
+
+36
+0:2:19,676 --> 0:2:23,346
+So the wind acting on the tree
+
+
+37
+0:2:23,346 --> 0:2:25,882
+makes it fall to the ground.
+
+
+38
+0:2:25,882 --> 0:2:28,659
+It isn't just the wind; it's gravity
+
+
+39
+0:2:28,659 --> 0:2:34,93
+and asymmetry of balance which causes that.
+
+
+40
+0:2:34,93 --> 0:2:37,265
+But human beings feel that
+
+
+41
+0:2:37,265 --> 0:2:42,574
+they themselves have free will. They make choices.
+
+
+42
+0:2:42,574 --> 0:2:48,889
+Free will means that all choices are made without cause.
+
+
+43
+0:2:48,889 --> 0:2:54,613
+If something is caused by something else, it's not free will.
+
+
+44
+0:2:54,613 --> 0:2:58,62
+In other words, hunger, when you get hungry
+
+
+45
+0:2:58,62 --> 0:3:1,514
+the organism has used up a lot of energy
+
+
+46
+0:3:1,514 --> 0:3:4,188
+and so you have different feelings.
+
+
+47
+0:3:4,188 --> 0:3:8,545
+You have thirst. You have hunger. It's thirst
+
+
+48
+0:3:8,545 --> 0:3:11,66
+that tends to make you want a glass of water.
+
+
+49
+0:3:11,66 --> 0:3:16,589
+If you never had a feeling of thirst, you'd dry up; you would die.
+
+
+50
+0:3:16,589 --> 0:3:18,654
+If you didn't have a sensor.
+
+
+51
+0:3:18,654 --> 0:3:22,69
+If a fly landed on you, if you didn't feel the itch
+
+
+52
+0:3:22,69 --> 0:3:26,584
+it would sting you continuously; so would a bee.
+
+
+53
+0:3:26,584 --> 0:3:29,29
+But the fact that you have sensory things
+
+
+54
+0:3:29,29 --> 0:3:32,895
+meaning responding mechanisms
+
+
+55
+0:3:32,895 --> 0:3:35,141
+you'll whack the fly.
+
+
+56
+0:3:35,141 --> 0:3:38,561
+So if all things in nature
+
+
+57
+0:3:38,561 --> 0:3:42,62
+are subject to natural force
+
+
+58
+0:3:42,62 --> 0:3:45,559
+including the orbit of the moon around the earth
+
+
+59
+0:3:45,559 --> 0:3:50,233
+there's a gravitational field that keeps the moon within the orbit.
+
+
+60
+0:3:50,233 --> 0:3:52,464
+The same [happens] with the earth.
+
+
+61
+0:3:52,464 --> 0:3:55,158
+The same [happens] with the earth rotation
+
+
+62
+0:3:55,158 --> 0:3:57,962
+[which] is done by physical force.
+
+
+63
+0:3:57,962 --> 0:4:1,344
+[There is] something in nature that does that.
+
+
+64
+0:4:1,344 --> 0:4:5,391
+A magnet really does not attract other material
+
+
+65
+0:4:5,391 --> 0:4:9,389
+but there's some mechanism in the magnet
+
+
+66
+0:4:9,389 --> 0:4:12,355
+that acts in a certain way.
+
+
+67
+0:4:12,355 --> 0:4:15,607
+In other words, they found out years ago
+
+
+68
+0:4:15,607 --> 0:4:18,646
+that if you suspend a ball with a string
+
+
+69
+0:4:18,646 --> 0:4:23,232
+and you're in a precipice, it moves toward the precipice.
+
+
+70
+0:4:23,232 --> 0:4:27,511
+Mass seems to attract mass, certain kinds of mass.
+
+
+71
+0:4:27,511 --> 0:4:30,466
+So if you suspend a ball near a cliff
+
+
+72
+0:4:30,466 --> 0:4:33,707
+it moves a little bit toward the cliff.
+
+
+73
+0:4:33,707 --> 0:4:36,542
+Now, what that mechanism is
+
+
+74
+0:4:36,542 --> 0:4:40,821
+I can go into theories about that, but I don't want to do that now
+
+
+75
+0:4:40,821 --> 0:4:44,54
+because it won't serve any useful purpose.
+
+
+76
+0:4:44,54 --> 0:4:47,29
+If an airplane is about to take off
+
+
+77
+0:4:47,29 --> 0:4:51,435
+and there's a certain gust of wind, it'll take off faster.
+
+
+78
+0:4:51,435 --> 0:4:55,32
+If it's about to come in for a landing and the wind moves
+
+
+79
+0:4:55,32 --> 0:4:58,243
+at the speed the airplane is going, it'll drop to the ground:
+
+
+80
+0:4:58,243 --> 0:5:2,691
+It needs wind coming at it to sustain it.
+
+
+81
+0:5:2,691 --> 0:5:7,21
+Also, man does not see with his eyes.
+
+
+82
+0:5:7,21 --> 0:5:9,48
+He needs light.
+
+
+83
+0:5:9,48 --> 0:5:11,857
+If a man says "Well, at least I can see."
+
+
+84
+0:5:11,857 --> 0:5:15,789
+If you bring him into a dark closet and tell him to see
+
+
+85
+0:5:15,789 --> 0:5:18,793
+he cannot, unless there's light.
+
+
+86
+0:5:18,793 --> 0:5:23,93
+So he does not see with his eyes. He sees with a combination
+
+
+87
+0:5:23,93 --> 0:5:26,858
+of the retina, the brain, the eyes, and light
+
+
+88
+0:5:26,858 --> 0:5:30,673
+and many other factors which I needn't go into.
+
+
+89
+0:5:30,673 --> 0:5:34,169
+If all things are acted upon by nature
+
+
+90
+0:5:34,169 --> 0:5:38,413
+if a moth has a tendency to fly into light
+
+
+91
+0:5:38,413 --> 0:5:42,297
+and the moth has what we call an antenna.
+
+
+92
+0:5:42,297 --> 0:5:44,59
+It's a heat sensor
+
+
+93
+0:5:44,59 --> 0:5:49,64
+and when he gets near the flame, the heat sensor lets him know
+
+
+94
+0:5:49,64 --> 0:5:52,287
+gives him a reaction away for the flame.
+
+
+95
+0:5:52,287 --> 0:5:57,157
+So a moth without an antenna would fly into fire.
+
+
+96
+0:5:57,157 --> 0:6:0,79
+It's the antenna that caused him to back off.
+
+
+97
+0:6:0,79 --> 0:6:3,627
+If you put sensors on a machine
+
+
+98
+0:6:3,627 --> 0:6:8,113
+meaning if they can sense the environment, they can react to it.
+
+
+99
+0:6:8,113 --> 0:6:12,3
+Without sensors, a blind man needs a cane
+
+
+100
+0:6:12,3 --> 0:6:14,257
+to see if there's objects in front of him
+
+
+101
+0:6:14,257 --> 0:6:17,538
+because he doesn't have visual sensors.
+
+
+102
+0:6:17,538 --> 0:6:20,263
+They say he tripped over the object.
+
+
+103
+0:6:20,263 --> 0:6:23,992
+No, he had no sensors to tell him there was an object
+
+
+104
+0:6:23,992 --> 0:6:27,316
+on the floor that he could not sense.
+
+
+105
+0:6:27,316 --> 0:6:31,153
+So if a doctor knows that you have damaged sensors
+
+
+106
+0:6:31,153 --> 0:6:34,8
+they recommend eyeglasses or eye surgery
+
+
+107
+0:6:34,8 --> 0:6:39,417
+or retinal damage replacement or hearing aids.
+
+
+108
+0:6:39,417 --> 0:6:42,605
+If you lose your hearing, you can't hear a Mack truck
+
+
+109
+0:6:42,605 --> 0:6:45,938
+coming down the street. You'd have to step in front.
+
+
+110
+0:6:45,938 --> 0:6:49,387
+If you can hear, at least you've got another sensor
+
+
+111
+0:6:49,387 --> 0:6:51,815
+that tells you there's a vehicle coming.
+
+
+112
+0:6:51,815 --> 0:6:56,926
+So people that are deaf, have a higher chance of being hit by a car
+
+
+113
+0:6:56,926 --> 0:7:0,399
+not because they're deaf, but because they can't sense the car
+
+
+114
+0:7:0,399 --> 0:7:2,733
+coming down the street.
+
+
+115
+0:7:2,733 --> 0:7:7,652
+So, when we talk, they used to in the old days say we have six senses
+
+
+116
+0:7:7,652 --> 0:7:9,595
+like we had six.
+
+
+117
+0:7:9,595 --> 0:7:13,374
+We have an internal sense of how full you are.
+
+
+118
+0:7:13,374 --> 0:7:17,4
+You have a pain sense of the depth of your body.
+
+
+119
+0:7:17,4 --> 0:7:21,102
+You have an itch sense; you have a burn sense.
+
+
+120
+0:7:21,102 --> 0:7:24,224
+You have many different senses, not six.
+
+
+121
+0:7:24,224 --> 0:7:29,19
+You can say, we have six senses that I'm aware of
+
+
+122
+0:7:29,19 --> 0:7:32,613
+but you can't say we have six senses.
+
+
+123
+0:7:32,613 --> 0:7:36,763
+You have a sense of fullness, sometimes, a sense of fatigue
+
+
+124
+0:7:36,763 --> 0:7:39,545
+which they don't talk about.
+
+
+125
+0:7:39,545 --> 0:7:42,86
+So, don't try to [assess] numerically...
+
+
+126
+0:7:42,86 --> 0:7:46,6
+unless you do a study of everything you react to
+
+
+127
+0:7:46,6 --> 0:7:49,541
+and you say this a list of everything
+
+
+128
+0:7:49,541 --> 0:7:53,471
+that I find, that man can react to.
+
+
+129
+0:7:53,471 --> 0:7:56,474
+Some people, some, very few
+
+
+130
+0:7:56,474 --> 0:7:59,303
+can sense magnetic fields.
+
+
+131
+0:7:59,303 --> 0:8:3,551
+Some birds can't, if you put a magnet
+
+
+132
+0:8:3,551 --> 0:8:7,896
+connect a magnet to their head, they lose sense of direction.
+
+
+133
+0:8:7,896 --> 0:8:9,992
+The same with fish
+
+
+134
+0:8:9,992 --> 0:8:13,212
+so fish have senses we don't have.
+
+
+135
+0:8:13,212 --> 0:8:16,15
+I'm not talking about good, bad, right or wrong.
+
+
+136
+0:8:16,15 --> 0:8:19,798
+I'm just talking about what you react with!
+
+
+137
+0:8:19,798 --> 0:8:23,649
+So if a light gets continuously brighter and brighter
+
+
+138
+0:8:23,649 --> 0:8:25,748
+your eyelids will come down.
+
+
+139
+0:8:25,748 --> 0:8:28,994
+And if it gets so bright, you'll put your hand in front
+
+
+140
+0:8:28,994 --> 0:8:30,847
+to diminish the light.
+
+
+141
+0:8:30,847 --> 0:8:33,489
+They say "I put my hand there to diminish the light."
+
+
+142
+0:8:33,489 --> 0:8:37,938
+Even if they couldn't speak, they'd do that. Do you know what I mean ?
+
+
+143
+0:8:37,938 --> 0:8:40,146
+You don't have to be able to speak.
+
+
+144
+0:8:40,146 --> 0:8:44,293
+So people think that they choose things.
+
+
+145
+0:8:44,293 --> 0:8:50,91
+The proofs that they don't choose things are many, but I'll give some.
+
+
+146
+0:8:50,91 --> 0:8:52,96
+If you're brought up in a tribe
+
+
+147
+0:8:52,96 --> 0:8:57,235
+that looks very different than we do, you fall in love
+
+
+148
+0:8:57,235 --> 0:9:0,4
+with that configuration.
+
+
+149
+0:9:0,4 --> 0:9:2,803
+That's why when I say there's no such thing as beauty
+
+
+150
+0:9:2,803 --> 0:9:4,952
+it's a condition thing.
+
+
+151
+0:9:4,952 --> 0:9:9,189
+You're conditioned to like girls that are blond or redhead
+
+
+152
+0:9:9,189 --> 0:9:13,202
+depending on the movies, books or people you've known.
+
+
+153
+0:9:13,202 --> 0:9:17,448
+So, we don't always know what it is
+
+
+154
+0:9:17,448 --> 0:9:21,246
+that makes us appear to choose.
+
+
+155
+0:9:21,246 --> 0:9:26,508
+But if you met a person with yellow spots on their face
+
+
+156
+0:9:26,508 --> 0:9:29,977
+and they always beat you up, every time you met a person
+
+
+157
+0:9:29,977 --> 0:9:32,988
+with yellow spots, then the next time you saw a person
+
+
+158
+0:9:32,988 --> 0:9:36,28
+with yellow spots you'd cross the street
+
+
+159
+0:9:36,28 --> 0:9:39,138
+and they say "I'm avoiding the person with the yellow spots."
+
+
+160
+0:9:39,138 --> 0:9:42,629
+No, that's called the conditioned reflex.
+
+
+161
+0:9:42,629 --> 0:9:45,616
+You're conditioned to react to yellow spots.
+
+
+162
+0:9:45,616 --> 0:9:50,25
+It doesn't mean that everybody with yellow spots will beat you up.
+
+
+163
+0:9:50,25 --> 0:9:56,854
+We project, and maybe some of that projection is useful for survival.
+
+
+164
+0:9:56,854 --> 0:10:1,139
+So if you eat a certain type of grass and you get a belly ache
+
+
+165
+0:10:1,139 --> 0:10:3,789
+the next time you see that pattern
+
+
+166
+0:10:3,789 --> 0:10:7,5
+you'll tell somebody else "Don't eat that"
+
+
+167
+0:10:7,5 --> 0:10:10,843
+because all your decision-making is based upon experience.
+
+
+168
+0:10:10,843 --> 0:10:15,411
+So if you touch a lot of poison oak, you get blisters on your hand
+
+
+169
+0:10:15,411 --> 0:10:17,858
+and you don't know what it is that you touched
+
+
+170
+0:10:17,858 --> 0:10:20,869
+you'd better make a record in the future of touching things
+
+
+171
+0:10:20,869 --> 0:10:24,498
+and then looking in your hand, and then later when you get a reaction...
+
+
+172
+0:10:24,498 --> 0:10:29,768
+Your decision-making system is affected by the rash you get.
+
+
+173
+0:10:29,768 --> 0:10:35,733
+If you meet a redhead and she's very temperamental
+
+
+174
+0:10:35,733 --> 0:10:38,911
+and you meet a second redhead and she's very temperamental
+
+
+175
+0:10:38,911 --> 0:10:41,689
+you might tell your friends "Stay away from redheads!"
+
+
+176
+0:10:41,689 --> 0:10:47,15
+They're temperamental." No, that's your reaction to particular redheads.
+
+
+177
+0:10:47,15 --> 0:10:50,654
+If you meet a gay person, and they reach for you
+
+
+178
+0:10:50,654 --> 0:10:53,422
+you push their hand and say "What is the matter with that person?"
+
+
+179
+0:10:53,422 --> 0:10:57,351
+They've been conditioned differently than you have.
+
+
+180
+0:10:57,351 --> 0:11:0,142
+It isn't that they're bad; nobody is bad.
+
+
+181
+0:11:0,142 --> 0:11:4,436
+That's why society does not believe in free will.
+
+
+182
+0:11:4,436 --> 0:11:8,548
+They say "Don't steal." When the kid steals you slap his hand
+
+
+183
+0:11:8,548 --> 0:11:12,965
+if you catch him stealing. If you don't catch him, he can get away with it.
+
+
+184
+0:11:12,965 --> 0:11:16,89
+So you tell kids... You give them a sense of morality
+
+
+185
+0:11:16,89 --> 0:11:21,263
+a sense of behavior by spanking or pulling a dog.
+
+
+186
+0:11:21,263 --> 0:11:26,575
+All dogs will try to do whatever they want to do
+
+
+187
+0:11:26,575 --> 0:11:28,534
+so you connect a leash to him.
+
+
+188
+0:11:28,534 --> 0:11:31,833
+When he tries to do his own thing you pull him away.
+
+
+189
+0:11:31,833 --> 0:11:35,549
+So he always has to obey you.
+
+
+190
+0:11:35,549 --> 0:11:38,754
+But if you let a dog alone, he'll take over.
+
+
+191
+0:11:38,754 --> 0:11:42,745
+A dog will always try to get you to do things
+
+
+192
+0:11:42,745 --> 0:11:46,599
+to satisfy it, unless you dominate the dog.
+
+
+193
+0:11:46,599 --> 0:11:50,675
+The same with people. If a guy says to a small guy:
+
+
+194
+0:11:50,675 --> 0:11:54,94
+"Go get me a glass of water," and the small guy doesn't, and he slaps him
+
+
+195
+0:11:54,94 --> 0:11:58,87
+the next time he says "Get me a glass of water", the small guy will.
+
+
+196
+0:11:58,87 --> 0:12:3,224
+But if he's a big guy, he picks him up and throws him across the room.
+
+
+197
+0:12:3,224 --> 0:12:6,207
+He then says "I will get my own glass of water."
+
+
+198
+0:12:6,207 --> 0:12:9,141
+That's based on conditioning.
+
+
+199
+0:12:9,141 --> 0:12:13,801
+Free will is an arrogance on the part of man:
+
+
+200
+0:12:13,801 --> 0:12:18,6
+the assumption that he is the only object in the world
+
+
+201
+0:12:18,6 --> 0:12:21,545
+that does not react to certain stimuli.
+
+
+202
+0:12:21,545 --> 0:12:26,289
+All decisions are based upon whatever reaction you had.
+
+
+203
+0:12:26,289 --> 0:12:29,609
+If you like a young lady, you get married.
+
+
+204
+0:12:29,609 --> 0:12:32,418
+In the old days you just moved in together
+
+
+205
+0:12:32,418 --> 0:12:35,788
+but it was to difficult to manage.
+
+
+206
+0:12:35,788 --> 0:12:40,163
+That is, a ruling group of people could not manage people
+
+
+207
+0:12:40,163 --> 0:12:42,553
+unless they made a set of laws
+
+
+208
+0:12:42,553 --> 0:12:45,208
+and said "You don't take anything out of his hut.
+
+
+209
+0:12:45,208 --> 0:12:47,441
+You don't take anything out of her hut."
+
+
+210
+0:12:47,441 --> 0:12:50,536
+They had to invent some kind of structure
+
+
+211
+0:12:50,536 --> 0:12:54,87
+to keep that society working.
+
+
+212
+0:12:54,87 --> 0:12:57,422
+In other words, if everybody took things from your log cabin
+
+
+213
+0:12:57,422 --> 0:13:1,564
+and you went hunting and you got 5 rabbits and I stole 4 of them
+
+
+214
+0:13:1,564 --> 0:13:3,554
+the tribe wouldn't work.
+
+
+215
+0:13:3,554 --> 0:13:6,466
+So morality is an outgrowth
+
+
+216
+0:13:6,466 --> 0:13:11,11
+of the inability to manage systems. Do you understand that?
+
+
+217
+0:13:11,11 --> 0:13:13,695
+All moral laws come about
+
+
+218
+0:13:13,695 --> 0:13:15,728
+because we need to have...
+
+
+219
+0:13:15,728 --> 0:13:19,44
+especially if you get more than four people living together
+
+
+220
+0:13:19,44 --> 0:13:21,517
+you have to make laws.
+
+
+221
+0:13:21,517 --> 0:13:26,112
+The laws like "Don't take his bow and arrow. He made that bow and arrow."
+
+
+222
+0:13:26,112 --> 0:13:30,651
+You give them all kinds of words "It is wrong, this is..."
+
+
+223
+0:13:30,651 --> 0:13:34,441
+But if a guy doesn't have bow and arrow or a javelin
+
+
+224
+0:13:34,441 --> 0:13:38,514
+and a lion comes at him, and your javelin is nearby
+
+
+225
+0:13:38,514 --> 0:13:40,796
+he will borrow it.
+
+
+226
+0:13:40,796 --> 0:13:45,118
+He doesn't steal it. He borrows it and he throws it at the lion
+
+
+227
+0:13:45,118 --> 0:13:49,48
+because that's the only thing he knows that'll keep the lion off.
+
+
+228
+0:13:49,48 --> 0:13:52,424
+He says "I decided to take your javelin
+
+
+229
+0:13:52,424 --> 0:13:54,531
+although I know it's yours
+
+
+230
+0:13:54,531 --> 0:13:57,591
+but there was nothing else I could do at the time."
+
+
+231
+0:13:57,591 --> 0:14:0,392
+So the judge might be lenient.
+
+
+232
+0:14:0,392 --> 0:14:5,31
+A lenient judge is a broad judge with broader experience.
+
+
+233
+0:14:5,31 --> 0:14:9,198
+A judge is brought up to believe in right, wrong, good, bad
+
+
+234
+0:14:9,198 --> 0:14:13,64
+black and white. His decisions are rigid as hell.
+
+
+235
+0:14:13,64 --> 0:14:17,94
+But if you go to another country that has a different set of values
+
+
+236
+0:14:17,94 --> 0:14:19,531
+and he learns to live there
+
+
+237
+0:14:19,531 --> 0:14:22,495
+he can understand when you say:
+
+
+238
+0:14:22,495 --> 0:14:27,596
+"Different cultures impose different values on people."
+
+
+239
+0:14:27,596 --> 0:14:32,687
+They don't care if you were to take one grape
+
+
+240
+0:14:32,687 --> 0:14:36,224
+from your grape collection, if you had a lot of grapes on the table.
+
+
+241
+0:14:36,224 --> 0:14:38,583
+But if you only have one grape
+
+
+242
+0:14:38,583 --> 0:14:40,794
+the law becomes severe.
+
+
+243
+0:14:40,794 --> 0:14:44,7
+In scarcity there are more laws. Can you understand that?
+
+
+244
+0:14:44,7 --> 0:14:48,421
+The scarcer the object: the more laws.
+
+
+245
+0:14:48,421 --> 0:14:51,601
+Now if a man is incapacitated
+
+
+246
+0:14:51,601 --> 0:14:53,651
+he has scarcity.
+
+
+247
+0:14:53,651 --> 0:14:57,185
+So he looks at you, who can walk up and down and jump.
+
+
+248
+0:14:57,185 --> 0:14:59,628
+He envies you
+
+
+249
+0:14:59,628 --> 0:15:3,185
+because you have a wider range of behavior.
+
+
+250
+0:15:3,185 --> 0:15:7,293
+But if he can be given a shot in the same range of behavior
+
+
+251
+0:15:7,293 --> 0:15:9,57
+he no longer envies you.
+
+
+252
+0:15:9,57 --> 0:15:13,46
+So envy is a by-product of behavior
+
+
+253
+0:15:13,46 --> 0:17:13,46
+sometimes, that you cannot perform.
+
+

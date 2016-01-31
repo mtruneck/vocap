@@ -1,0 +1,2950 @@
+1
+0:0:12,0 --> 0:0:25,0
+(Crickets chirp) 
+
+
+2
+0:0:25,0 --> 0:0:33,0
+(Industrial/Electrical Sounds)
+
+
+3
+0:0:33,0 --> 0:1:48,0
+(Dripping Water)
+
+
+4
+0:1:48,0 --> 0:1:56,0
+Guard: Oh it's you. You're not supposed to be here.
+
+
+5
+0:1:56,0 --> 0:2:1,0
+(Gun fire)
+
+
+6
+0:2:1,0 --> 0:2:14,0
+(Blurred voices and music)
+
+
+7
+0:2:14,0 --> 0:2:27,0
+(Alarm clock rings)
+
+
+8
+0:2:27,0 --> 0:2:33,0
+(Bird song)
+
+
+9
+0:2:33,0 --> 0:2:45,0
+Connor: (Groans)
+
+
+10
+0:2:45,0 --> 0:2:50,0
+Connor: James get up. We're late.
+
+
+11
+0:2:50,0 --> 0:3:12,0
+Connor: (Sighs)
+
+
+12
+0:3:12,0 --> 0:3:26,0
+James: Why'd we have to get so drunk on a Sunday night?
+
+
+13
+0:3:26,0 --> 0:3:29,0
+Connor: Do you remember that part last night where Amy got on the table and started to...
+
+
+14
+0:3:29,0 --> 0:3:38,0
+James: (Interrupts) Connor, that's my sister! I don't need to be reminded.
+
+
+15
+0:3:38,0 --> 0:3:46,0
+James: Where's all the food?
+
+
+16
+0:3:46,0 --> 0:3:49,0
+James: (Sighs)
+
+
+17
+0:3:49,0 --> 0:3:50,5
+(Car horn honks)
+
+
+18
+0:3:50,5 --> 0:4:3,0
+Connor: Come on, let's go.
+
+
+19
+0:4:3,0 --> 0:4:5,5
+Amy: Come on guys, we're gonna be late!
+
+
+20
+0:4:5,5 --> 0:4:16,8
+Connor: Sure you're ok to drive after your stunt last night Amy?
+
+
+21
+0:4:16,8 --> 0:4:18,7
+James: Oh... Hi Matt.
+
+
+22
+0:4:18,7 --> 0:4:25,0
+Matt: Alright.
+
+
+23
+0:4:25,0 --> 0:4:26,0
+Connor: Not getting the bus today?
+
+
+24
+0:4:26,0 --> 0:4:31,5
+Matt: Nope
+
+
+25
+0:4:31,5 --> 0:4:35,5
+Amy: I... saw him as I was driving past the shops and picked him up.
+
+
+26
+0:4:35,5 --> 0:4:38,0
+James: Oh, ok.
+
+
+27
+0:4:38,0 --> 0:4:39,5
+Connor: So what's the rush anyway?
+
+
+28
+0:4:39,5 --> 0:7:6,0
+Amy: Some kind of emergency meeting.
+
+
+29
+0:7:6,0 --> 0:7:8,3
+James: What do you think this emergency meeting's about?
+
+
+30
+0:7:8,3 --> 0:7:15,0
+Amy: I don't know, but... it can't be that important.
+
+
+31
+0:7:15,0 --> 0:7:25,0
+Matt: Alright, go on ahead guys. I'm going to go powder my nose.
+
+
+32
+0:7:25,0 --> 0:7:32,0
+Director General (DG): No! Dr. Niven, LHC is most important experiment of our time. I will not let unfounded theories...
+
+
+33
+0:7:32,0 --> 0:7:35,4
+Dr. Niven: (Interrupts) Unfounded?! Director, my results show that...
+
+
+34
+0:7:35,4 --> 0:7:43,0
+DG: (Interrupts) Inconclusive! Your results are inconclusive at best. No, you'll have plenty of time for measurements when you're down in the tunnel tonight.
+
+
+35
+0:7:43,0 --> 0:7:47,0
+Dr. Niven: Director, we have to stop the LHC until we assess the danger.
+
+
+36
+0:7:47,0 --> 0:7:53,0
+DG: No Dr. Niven. Once we have fixed this problem the LHC will run again as usual.
+
+
+37
+0:7:53,0 --> 0:8:9,3
+DG: Finding the Higgs is the highest priority.
+
+
+38
+0:8:9,3 --> 0:8:38,0
+Amy: Why is Dr. Niven going into the tunnels?
+
+
+39
+0:8:38,0 --> 0:8:40,1
+James: Why do you think the Director General's here?
+
+
+40
+0:8:40,1 --> 0:8:50,0
+Matt: Maybe they made a black hole...
+
+
+41
+0:8:50,0 --> 0:8:53,4
+Lisa: (Very quiet) Sorry.
+
+
+42
+0:8:53,4 --> 0:8:53,4
+Lisa: Hey.
+
+
+43
+0:8:53,4 --> 0:8:55,4
+Amy: Hey.
+
+
+44
+0:8:55,4 --> 0:8:57,5
+Lisa: So, did you recover from last night?
+
+
+45
+0:8:57,5 --> 0:8:57,5
+Amy: ...Yeah. You too?
+
+
+46
+0:8:57,5 --> 0:9:0,0
+Lisa: Mmmhmm.
+
+
+47
+0:9:0,0 --> 0:9:3,0
+Amy: Wait, aren't you supposed to be on your way to Barcelona by now?
+
+
+48
+0:9:3,0 --> 0:9:5,0
+Lisa: I might have missed my flight...
+
+
+49
+0:9:5,0 --> 0:9:13,0
+Amy: Oh no!
+
+
+50
+0:9:13,0 --> 0:9:19,0
+DG: Good morning! I'm Professor Vacinski, Director General of CERN.
+
+
+51
+0:9:19,0 --> 0:9:23,3
+DG: This meeting has been called because last night there was an emergency beam dump.
+
+
+52
+0:9:23,3 --> 0:9:26,0
+(Crowd whispers furtively)
+
+
+53
+0:9:26,0 --> 0:9:32,0
+DG: Here we see a monopole magnet in LHC Sector 7G.
+
+
+54
+0:9:32,0 --> 0:9:41,0
+DG: Beam sensors have detected that an unknown event caused this magnet to quench and triggered an uncontrolled shut down.
+
+
+55
+0:9:41,0 --> 0:9:45,3
+DG: If this happens again the results could be catastrophic.
+
+
+56
+0:9:45,3 --> 0:9:56,0
+DG: Due to the special circumstances, Dr. Niven is taking a team into the LHC tunnel to investigate the cause, and see what damage there is.
+
+
+57
+0:9:56,0 --> 0:9:59,5
+The LHC will be in shut down until at least the end of the week.
+
+
+58
+0:9:59,5 --> 0:10:7,5
+DG: Since Dr. Niven will not be available we will need 4 volunteers to be on shift in the control room.
+
+
+59
+0:10:7,5 --> 0:10:8,3
+Connor: We'll do it.
+
+
+60
+0:10:8,3 --> 0:10:9,4
+Amy: (Quietly) What are you doing?!
+
+
+61
+0:10:9,4 --> 0:10:13,0
+DG: Ok, you four.
+
+
+62
+0:10:13,0 --> 0:10:17,3
+Lisa: Oh, I'm going to be at a conference in Barcelona.
+
+
+63
+0:10:17,3 --> 0:10:22,0
+DG: Uh, very well. You... you then.
+
+
+64
+0:10:22,0 --> 0:10:26,0
+Matt: Uh, I have an analysis note due this week, so I'm not going to have time to do this...
+
+
+65
+0:10:26,0 --> 0:10:30,3
+DG: (Interrupting) The collider will be shut down. You can work in the control room.
+
+
+66
+0:10:30,3 --> 0:10:37,1
+DG: Report to the control room at 9pm. That is all everybody.
+
+
+67
+0:10:37,1 --> 0:10:59,3
+Lisa: Sucks to be you guys!
+
+
+68
+0:10:59,3 --> 0:11:0,3
+Connor: Here you go.
+
+
+69
+0:11:0,3 --> 0:11:2,5
+Amy: Thanks.
+
+
+70
+0:11:2,5 --> 0:11:5,0
+Connor: They don't look like proton decay matrices.
+
+
+71
+0:11:5,0 --> 0:11:12,2
+Amy: (Sighs) No.
+
+
+72
+0:11:12,2 --> 0:11:16,5
+Amy: Dr. Niven's got me working on this Higgs bio-entanglement simulation.
+
+
+73
+0:11:16,5 --> 0:11:20,0
+Amy: Some company gave a lot of money to CERN and I get stuck working on it.
+
+
+74
+0:11:20,0 --> 0:11:23,3
+Amy: I've got so much work to do.
+
+
+75
+0:11:23,3 --> 0:11:26,3
+Connor: Listen, are you ok after last night?
+
+
+76
+0:11:26,3 --> 0:11:27,55
+Amy: Why?
+
+
+77
+0:11:27,55 --> 0:11:29,5
+Connor: You and Matt...
+
+
+78
+0:11:29,5 --> 0:11:37,0
+Amy:  I don't know what you're talking about. Anyway, you jealous?
+
+
+79
+0:11:37,0 --> 0:11:41,0
+Amy: Oh... sorry.
+
+
+80
+0:11:41,0 --> 0:12:8,4
+Amy: Listen, I'd better go. I've got a lot of work to do.
+
+
+81
+0:12:8,4 --> 0:12:14,0
+Amy: (Sighs) I'm so tired. I can't even think about work right now.
+
+
+82
+0:12:14,0 --> 0:12:21,5
+Amy: I hope he doesn't expect me to remember anything.
+
+
+83
+0:12:21,5 --> 0:12:24,0
+Dr. Niven: Ah Lisa. Did you finish your talk?
+
+
+84
+0:12:24,0 --> 0:12:25,3
+Lisa: Yeah! Just in time.
+
+
+85
+0:12:25,3 --> 0:12:27,3
+Dr. Niven: I had every confidence in you.
+
+
+86
+0:12:27,3 --> 0:12:30,3
+Amy: Did you get a chance to look at my simulation?
+
+
+87
+0:12:30,3 --> 0:12:34,0
+Dr. Niven: Ah yes! The problem with the supersymmetric parameter lattice...
+
+
+88
+0:12:34,0 --> 0:12:39,3
+Dr. Niven: I think I found a way to express it differently.
+
+
+89
+0:12:39,3 --> 0:12:50,0
+Dr. Niven: I didn't implement it in my analysis code yet but you might like to try it.
+
+
+90
+0:12:50,0 --> 0:12:53,0
+Amy: It looks more complex though. I don't know if it'll work on my laptop.
+
+
+91
+0:12:53,0 --> 0:12:55,0
+Dr. Niven: Well, we'll deal with that later if we need to.
+
+
+92
+0:12:55,0 --> 0:12:57,0
+Amy: Ok, thanks.
+
+
+93
+0:12:57,0 --> 0:13:5,0
+Dr. Niven: Anyway, I have to prepare my team for going into the tunnels and look over Lisa's talk, so I'll talk to you later.
+
+
+94
+0:13:5,0 --> 0:13:8,3
+Dr. Niven: And Lisa... don't miss the plane again.
+
+
+95
+0:13:8,3 --> 0:13:32,0
+Lisa: I won't.
+
+
+96
+0:13:32,0 --> 0:13:35,5
+James: Hey guys, wait!
+
+
+97
+0:13:35,5 --> 0:13:37,4
+James: I'm waiting for someone.
+
+
+98
+0:13:37,4 --> 0:13:38,4
+Amy: Who?
+
+
+99
+0:13:38,4 --> 0:13:41,0
+James: Just... someone.
+
+
+100
+0:13:41,0 --> 0:13:46,3
+Matt: Ok, well, we're going to be late so...
+
+
+101
+0:13:46,3 --> 0:13:58,0
+Kate: Hi!
+
+
+102
+0:13:58,0 --> 0:14:1,0
+James: Everyone, this is my girlfriend Kate.
+
+
+103
+0:14:1,0 --> 0:14:3,3
+James: Kate, this is Matt and Connor...
+
+
+104
+0:14:3,3 --> 0:14:4,0
+Connor: Hi.
+
+
+105
+0:14:4,0 --> 0:14:5,3
+James: And my sister Amy.
+
+
+106
+0:14:5,3 --> 0:14:5,3
+Kate: Hi.
+
+
+107
+0:14:5,3 --> 0:14:7,4
+Amy: Nice to finally meet you.
+
+
+108
+0:14:7,4 --> 0:14:9,5
+James: Finally...? I didn't tell you...
+
+
+109
+0:14:9,5 --> 0:14:13,0
+Amy: Mum let it slip. I was waiting for you to tell me.
+
+
+110
+0:14:13,0 --> 0:14:16,0
+Kate: It's nice to finally meet you as well.
+
+
+111
+0:14:16,0 --> 0:14:17,3
+Amy: Are you coming with us?
+
+
+112
+0:14:17,3 --> 0:14:18,0
+Kate: I think so.
+
+
+113
+0:14:18,0 --> 0:14:18,3
+James: Yeah.
+
+
+114
+0:14:18,3 --> 0:14:19,3
+Amy: Ok.
+
+
+115
+0:14:19,3 --> 0:14:22,23
+James: Shall we go?
+
+
+116
+0:14:22,23 --> 0:14:26,0
+Connor: So... why have you thrown your evening away to go on shift?
+
+
+117
+0:14:26,0 --> 0:14:30,0
+Kate: James was going to come meet me for dinner but he told me you guys had to...
+
+
+118
+0:14:30,0 --> 0:14:31,3
+Connor: Oh... sorry.
+
+
+119
+0:14:31,3 --> 0:14:33,0
+Kate: It's ok, don't worry.
+
+
+120
+0:14:33,0 --> 0:14:44,0
+Matt: And how did James manage to convince you that vending machine food is going to be an acceptable substitute?
+
+
+121
+0:14:44,0 --> 0:14:47,0
+Amy: Shift can sometimes be boring, are you going to be ok?
+
+
+122
+0:14:47,0 --> 0:14:47,4
+James: I told her.
+
+
+123
+0:14:47,4 --> 0:15:2,0
+Kate: I insisted.
+
+
+124
+0:15:2,0 --> 0:15:11,0
+James: She's with me.
+
+
+125
+0:15:11,0 --> 0:15:13,0
+Kate: So are you guys physicists like James then?
+
+
+126
+0:15:13,0 --> 0:15:16,3
+Connor: Yeah but he works on the accelerator. The rest of us analyse the data.
+
+
+127
+0:15:16,3 --> 0:15:20,0
+Matt: Yeah, he's an engineer, and we're real physicists.
+
+
+128
+0:15:20,0 --> 0:15:29,3
+Amy: (Sighs)
+
+
+129
+0:15:29,3 --> 0:15:31,0
+Amy: So what do you do?
+
+
+130
+0:15:31,0 --> 0:15:39,0
+Kate: I'm a trainee nurse.
+
+
+131
+0:15:39,0 --> 0:15:49,5
+James: I hope you're not claustrophobic - it's a long way down.
+
+
+132
+0:15:49,5 --> 0:16:16,0
+Kate: (Coughs)
+
+
+133
+0:16:16,0 --> 0:16:18,0
+Matt: Guys, I've thought of a joke.
+
+
+134
+0:16:18,0 --> 0:16:20,0
+Connor: Ugh - another one?
+
+
+135
+0:16:20,0 --> 0:16:26,0
+Matt: So a chimpanzee and a sloth go down...
+
+
+136
+0:16:26,0 --> 0:16:29,0
+Matt: And then the chimpanzee is like "uh... starfish! Starfish!"
+
+
+137
+0:16:29,0 --> 0:16:45,0
+Everyone: (Laughs)
+
+
+138
+0:16:45,0 --> 0:16:47,3
+James: Do you want to watch "A Clockwork Orange"? I borrowed it from Amy.
+
+
+139
+0:16:47,3 --> 0:16:48,5
+Kate: Yep, sure.
+
+
+140
+0:16:48,5 --> 0:16:51,0
+Matt: That's a pretty deep film for a lowly engineer like yourself.
+
+
+141
+0:16:51,0 --> 0:16:56,3
+James: (Laughs)
+
+
+142
+0:16:56,3 --> 0:16:58,5
+Kate: You shouldn't let him talk to you like that.
+
+
+143
+0:16:58,5 --> 0:17:30,3
+James: He's only messing around.
+
+
+144
+0:17:30,3 --> 0:17:33,2
+Matt: (Crowd noise)
+
+
+145
+0:17:33,2 --> 0:17:38,0
+James: So the accelerator boosts the beam of protons to almost the speed of light.
+
+
+146
+0:17:38,0 --> 0:17:42,5
+James: And then we collide them... here.
+
+
+147
+0:17:42,5 --> 0:17:54,3
+James: And then we detect what's made in the collision.
+
+
+148
+0:17:54,3 --> 0:17:57,0
+Amy: (Sighs loudly)
+
+
+149
+0:17:57,0 --> 0:17:58,3
+James: What's up?
+
+
+150
+0:17:58,3 --> 0:18:1,3
+Amy: I thought I'd got it working!
+
+
+151
+0:18:1,3 --> 0:18:3,0
+James: Got... what working?
+
+
+152
+0:18:3,0 --> 0:18:4,0
+Connor (off screen): Her Higgs simulation.
+
+
+153
+0:18:4,0 --> 0:18:6,3
+Kate: Her... what simulation?
+
+
+154
+0:18:6,3 --> 0:18:11,3
+Amy: My Higgs radiation simulation.
+
+
+155
+0:18:11,3 --> 0:18:14,3
+Matt: The "God" particle.
+
+
+156
+0:18:14,3 --> 0:18:17,3
+Amy: It's a particle that we're trying to make in the collider.
+
+
+157
+0:18:17,3 --> 0:18:24,0
+Amy: I'm supposed to be investigating how it acts on living tissue, but my programme just crashes every single time that it starts to look bad.
+
+
+158
+0:18:24,0 --> 0:18:26,3
+Connor: So what, you think Higgs radiation is dangerous?
+
+
+159
+0:18:26,3 --> 0:18:29,3
+Amy: I don't know. I'd know if I could get it to finish!
+
+
+160
+0:18:29,3 --> 0:18:31,3
+Connor: They wouldn't run the LHC if they thought it was a danger.
+
+
+161
+0:18:31,3 --> 0:18:34,0
+Connor: Must be a glitch or something.
+
+
+162
+0:18:34,0 --> 0:18:36,3
+Connor: Have you tried on the central computer system?
+
+
+163
+0:18:36,3 --> 0:18:39,3
+James: Except... she doesn't have access to the mainframe.
+
+
+164
+0:18:39,3 --> 0:18:41,0
+Kate: Are you not allowed to use it?
+
+
+165
+0:18:41,0 --> 0:18:45,0
+Connor: Well... not exactly.
+
+
+166
+0:18:45,0 --> 0:18:58,0
+(Typing on keyboard)
+
+
+167
+0:18:58,0 --> 0:18:58,0
+Connor: There we go.
+
+
+168
+0:18:58,0 --> 0:19:15,0
+James: Nice!
+
+
+169
+0:19:15,0 --> 0:19:16,3
+(Alarm sounds)
+
+
+170
+0:19:16,3 --> 0:19:17,0
+Matt: Nice one Amy!
+
+
+171
+0:19:17,0 --> 0:19:22,3
+Amy: It wasn't me!
+
+
+172
+0:19:22,3 --> 0:19:25,0
+James: It's not you... the LHC is ramping.
+
+
+173
+0:19:25,0 --> 0:19:27,0
+Matt: "Ramping" ramping?
+
+
+174
+0:19:27,0 --> 0:19:28,0
+Connor: The beams are firing!
+
+
+175
+0:19:28,0 --> 0:19:34,5
+Amy: The team's still down there! Shut it off!
+
+
+176
+0:19:34,5 --> 0:19:38,5
+(James pushes switch)
+
+
+177
+0:19:38,5 --> 0:19:41,0
+James: What the fuck?!
+
+
+178
+0:19:41,0 --> 0:19:44,0
+Amy: The phones are down!
+
+
+179
+0:19:44,0 --> 0:19:46,0
+Kate: What... what's going on?
+
+
+180
+0:19:46,0 --> 0:19:49,3
+James: The LHC is turned on. The radiation levels will be killing everyone down there.
+
+
+181
+0:19:49,3 --> 0:19:51,0
+Kate: People are dying?!
+
+
+182
+0:19:51,0 --> 0:19:52,0
+Matt: No one is dying!
+
+
+183
+0:19:52,0 --> 0:19:54,0
+Amy: Shut up Matt!
+
+
+184
+0:19:54,0 --> 0:19:55,3
+Amy: James, what can we do?
+
+
+185
+0:19:55,3 --> 0:19:58,0
+James: I don't know, the overrides aren't working.
+
+
+186
+0:19:58,0 --> 0:19:59,5
+Kate: I haven't got any signal!
+
+
+187
+0:19:59,5 --> 0:20:2,0
+Matt: We're a hundred metres underground, what do you expect!
+
+
+188
+0:20:2,0 --> 0:20:6,0
+(Console alarm sounds)
+
+
+189
+0:20:6,0 --> 0:20:10,5
+James: The radiation levels are spiking. The shielding's not in place when the maintenance tunnels are open.
+
+
+190
+0:20:10,5 --> 0:20:11,5
+Matt: Well why the fuck not?!
+
+
+191
+0:20:11,5 --> 0:20:14,5
+James: This shouldn't be able to happen.
+
+
+192
+0:20:14,5 --> 0:20:16,0
+Connor: ...Shit!
+
+
+193
+0:20:16,0 --> 0:20:27,0
+Connor: We've got less than two minutes and we're fried. We've got to get out!
+
+
+194
+0:20:27,0 --> 0:20:28,5
+Kate: What about the people in the tunnels?
+
+
+195
+0:20:28,5 --> 0:20:33,0
+Matt: What about us!
+
+
+196
+0:20:33,0 --> 0:20:34,0
+James: Fuck!
+
+
+197
+0:20:34,0 --> 0:20:35,0
+James: It's locked down!
+
+
+198
+0:20:35,0 --> 0:20:41,0
+Connor: James, calm down and think. How do we get out?
+
+
+199
+0:20:41,0 --> 0:20:43,0
+James: We go into the service tunnels.
+
+
+200
+0:20:43,0 --> 0:20:47,0
+Matt: The tunnels?! Are you mental?!
+
+
+201
+0:20:47,0 --> 0:20:51,0
+James: The LHC master power's down there. It's shielded, we can shut it off.
+
+
+202
+0:20:51,0 --> 0:20:55,3
+Matt: This is insane...
+
+
+203
+0:20:55,3 --> 0:21:1,3
+Connor: Right, we'll go down and shut it off. Then we'll work out what to do there.
+
+
+204
+0:21:1,3 --> 0:21:3,0
+Matt: No, but we can't...
+
+
+205
+0:21:3,0 --> 0:22:1,0
+Amy (Interrupts): Come on!
+
+
+206
+0:22:1,0 --> 0:22:5,0
+Kate: Push something!
+
+
+207
+0:22:5,0 --> 0:22:8,5
+(Buttons being pushed)
+
+
+208
+0:22:8,5 --> 0:22:18,5
+(Machines stop)
+
+
+209
+0:22:18,5 --> 0:22:25,0
+(Group breathes heavily)
+
+
+210
+0:22:25,0 --> 0:22:38,5
+(Backup power starts)
+
+
+211
+0:22:38,5 --> 0:22:42,0
+Matt: So that's it?! The worlds largest machine has an on/off switch?
+
+
+212
+0:22:42,0 --> 0:22:44,0
+Kate: What is your problem?!
+
+
+213
+0:22:44,0 --> 0:22:49,5
+James: Look, this is just a relay. There's six of them. If one of them trips the others go off automatically.
+
+
+214
+0:22:49,5 --> 0:22:51,5
+Amy: I hope somebody noticed that.
+
+
+215
+0:22:51,5 --> 0:22:56,0
+Connor: There's nobody around to notice it. No one will be in until tomorrow.
+
+
+216
+0:22:56,0 --> 0:22:58,5
+Connor: We need to find an elevator to get back to the surface.
+
+
+217
+0:22:58,5 --> 0:23:0,5
+Matt: Yeah, if James knows where they are...
+
+
+218
+0:23:0,5 --> 0:23:4,5
+James: Look, if we follow the tunnels we'll get out.
+
+
+219
+0:23:4,5 --> 0:23:11,0
+Kate: But... what about the people down there? They could still be alive couldn't they?
+
+
+220
+0:23:11,0 --> 0:23:14,5
+Connor: Even if they are, there's nothing we can do for them.
+
+
+221
+0:23:14,5 --> 0:23:18,7
+Connor: The best we can do is get out and try and get help.
+
+
+222
+0:23:18,7 --> 0:23:20,7
+Kate: But if the radiation did that to them... then...
+
+
+223
+0:23:20,7 --> 0:23:22,7
+James: No - we're safe now the machine's off.
+
+
+224
+0:23:22,7 --> 0:23:27,5
+James: It's just the ring itself that's radioactive. We're safe here.
+
+
+225
+0:23:27,5 --> 0:23:29,7
+Amy: Oh my god, all those people...
+
+
+226
+0:23:29,7 --> 0:23:31,5
+Amy: How could this happen?
+
+
+227
+0:23:31,5 --> 0:23:35,5
+James: It couldn't have happened. You can't turn the machine on when there are people down there.
+
+
+228
+0:23:35,5 --> 0:23:38,0
+James: There are interlock systems everywhere.
+
+
+229
+0:23:38,0 --> 0:23:40,5
+Matt: Well somebody fucked up, and it wasn't me!
+
+
+230
+0:23:40,5 --> 0:23:43,7
+Connor: Yeah, and it wasn't us! This couldn't happen from the control room.
+
+
+231
+0:23:43,7 --> 0:23:50,5
+Connor: No one's got access to do that except... except maybe Dr. Niven... but he was down here.
+
+
+232
+0:23:50,5 --> 0:24:46,0
+Connor: The sooner we get out of here the sooner we can sort it out.
+
+
+233
+0:24:46,0 --> 0:24:48,5
+Kate: I... I don't like it down here.
+
+
+234
+0:24:48,5 --> 0:24:51,5
+James: It's not too far.
+
+
+235
+0:24:51,5 --> 0:24:54,5
+(Distant scream)
+
+
+236
+0:24:54,5 --> 0:25:10,0
+Amy: What the hell was that?!
+
+
+237
+0:25:10,0 --> 0:25:13,0
+Kate: Probably a steam valve or something... right?
+
+
+238
+0:25:13,0 --> 0:25:15,7
+James: Probably.
+
+
+239
+0:25:15,7 --> 0:25:17,0
+Kate: How much further is it?
+
+
+240
+0:25:17,0 --> 0:25:58,5
+James: It's not far.
+
+
+241
+0:25:58,5 --> 0:26:0,5
+Matt: ...Great.
+
+
+242
+0:26:0,5 --> 0:26:3,0
+Matt: Just as i was starting to get freaked out.
+
+
+243
+0:26:3,0 --> 0:26:5,0
+James: Look, I'm sorry. I thought that...
+
+
+244
+0:26:5,0 --> 0:26:6,5
+Matt (Interrupting): Do you know where we're going or don't you?
+
+
+245
+0:26:6,5 --> 0:26:7,5
+Amy: Matt...
+
+
+246
+0:26:7,5 --> 0:26:13,0
+Matt: I can't be the only person that heard that scream. We're running around down here - Where the fuck are we going?
+
+
+247
+0:26:13,0 --> 0:26:16,5
+Connor: Matt, calm down. If you know where to go, let's hear it. If not, shut up.
+
+
+248
+0:26:16,5 --> 0:26:20,0
+Connor: James, do you know where we can go?
+
+
+249
+0:26:20,0 --> 0:26:45,7
+James: I think if we go back and left and follow the ring around we can find our way from there...
+
+
+250
+0:26:45,7 --> 0:26:59,7
+(Loud bang)
+
+
+251
+0:26:59,7 --> 0:27:1,0
+(Growling)
+
+
+252
+0:27:1,0 --> 0:27:13,5
+(Kate screams)
+
+
+253
+0:27:13,5 --> 0:27:33,2
+James: Kate!
+
+
+254
+0:27:33,2 --> 0:27:38,0
+(Bang against door)
+
+
+255
+0:27:38,0 --> 0:27:39,5
+James: We've got to go and get her.
+
+
+256
+0:27:39,5 --> 0:27:49,0
+Amy: You have to listen to me! James, listen! She's gone! You saw those people James, you saw what they did.
+
+
+257
+0:27:49,0 --> 0:28:0,0
+Matt: Don't just fucking stand there, help!
+
+
+258
+0:28:0,0 --> 0:28:3,5
+(Gas escaping)
+
+
+259
+0:28:3,5 --> 0:28:19,5
+(Zombies scream in pain)
+
+
+260
+0:28:19,5 --> 0:28:21,0
+Connor: What's that?!
+
+
+261
+0:28:21,0 --> 0:28:31,0
+James: Freon coolant gas.
+
+
+262
+0:28:31,0 --> 0:28:34,0
+Matt: What the fuck just happened?
+
+
+263
+0:28:34,0 --> 0:28:44,0
+Amy: They looked like... the technician team that were down here. But why would they that to us?
+
+
+264
+0:28:44,0 --> 0:28:46,0
+Amy: Did you see their faces?
+
+
+265
+0:28:46,0 --> 0:29:6,5
+Connor: The radiation burns, yeah... They shouldn't even be alive.
+
+
+266
+0:29:6,5 --> 0:29:8,3
+Matt: Where you going?
+
+
+267
+0:29:8,3 --> 0:30:13,0
+Connor: The gas won't stop them forever.
+
+
+268
+0:30:13,0 --> 0:30:15,5
+Connor: I found a way out. Come on, lets go.
+
+
+269
+0:30:15,5 --> 0:30:18,0
+Matt: What if there's more of them?
+
+
+270
+0:30:18,0 --> 0:30:31,5
+Connor: ...Here.
+
+
+271
+0:30:31,5 --> 0:31:29,7
+Amy: Take this.
+
+
+272
+0:31:29,7 --> 0:31:33,0
+Matt: One of these maniacs has a gun?!
+
+
+273
+0:31:33,0 --> 0:31:36,8
+Connor: Think he's been dead a while.
+
+
+274
+0:31:36,8 --> 0:32:1,2
+Amy: What's a security guard doing down here anyway?
+
+
+275
+0:32:1,2 --> 0:32:2,7
+Connor: What is this?
+
+
+276
+0:32:2,7 --> 0:32:9,7
+James: The interlock turns the LHC off if people are in the tunnels.
+
+
+277
+0:32:9,7 --> 0:32:14,5
+Amy: It's been sabotaged. Someone did this on purpose.
+
+
+278
+0:32:14,5 --> 0:32:15,5
+(Footsteps in the distance)
+
+
+279
+0:32:15,5 --> 0:32:17,0
+James: That could be her!
+
+
+280
+0:32:17,0 --> 0:32:24,5
+Connor: James, stop!
+
+
+281
+0:32:24,5 --> 0:32:30,7
+Amy: James!
+
+
+282
+0:32:30,7 --> 0:32:37,35
+Connor: James...
+
+
+283
+0:32:37,35 --> 0:32:38,7
+(Monster screeches)
+
+
+284
+0:32:38,7 --> 0:32:46,7
+(Screaming and shouting)
+
+
+285
+0:32:46,7 --> 0:32:58,3
+(Crunching blow. Creature stops screaming.)
+
+
+286
+0:32:58,3 --> 0:33:0,0
+Connor: Help!
+
+
+287
+0:33:0,0 --> 0:33:2,5
+Amy: Give me the pipe!
+
+
+288
+0:33:2,5 --> 0:33:11,5
+(Pipe clangs into place)
+
+
+289
+0:33:11,5 --> 0:33:11,5
+(Monster continues struggling and growling)
+
+
+290
+0:33:11,5 --> 0:33:23,7
+(Amy cries)
+
+
+291
+0:33:23,7 --> 0:33:25,5
+James: Jesus Christ Matt...
+
+
+292
+0:33:25,5 --> 0:33:29,5
+Matt: I... what else was I going to do?
+
+
+293
+0:33:29,5 --> 0:33:40,0
+(Monster continues growling, gurgling and struggling)
+
+
+294
+0:33:40,0 --> 0:33:42,0
+Amy: If they're all like that we're screwed!
+
+
+295
+0:33:42,0 --> 0:33:45,0
+Amy: There were like, what, 30 people in this section?!
+
+
+296
+0:33:45,0 --> 0:33:48,5
+Connor: We'll find a way out. James, which way?
+
+
+297
+0:33:48,5 --> 0:33:56,0
+James: I thought there was an exit, back at the dead end. Next one's about a three hour walk away, it's at point 17. And that's if we don't get lost.
+
+
+298
+0:33:56,0 --> 0:33:58,0
+Connor: Is there anywhere safe we can stop on the way?
+
+
+299
+0:33:58,0 --> 0:34:0,6
+Amy: We need to let someone know we're down here!
+
+
+300
+0:34:0,6 --> 0:34:4,0
+James: There's a mainframe computer room about half way round. We can send a message from there.
+
+
+301
+0:34:4,0 --> 0:34:9,0
+Amy: Ok.
+
+
+302
+0:34:9,0 --> 0:34:42,32
+(Electrical flickering)
+
+
+303
+0:34:42,32 --> 0:34:53,0
+Connor: Which way now?
+
+
+304
+0:34:53,0 --> 0:34:55,4
+James: We have to go that way.
+
+
+305
+0:34:55,4 --> 0:35:24,0
+(Flickering lights)
+
+
+306
+0:35:24,0 --> 0:36:6,0
+(Low machine noises, heartbeats and breathing)
+
+
+307
+0:36:6,0 --> 0:36:46,5
+(Sound of tearing meat and chewing)
+
+
+308
+0:36:46,5 --> 0:36:48,5
+(Monster screeches)
+
+
+309
+0:36:48,5 --> 0:36:57,0
+(Sound of rapid heartbeat)
+
+
+310
+0:36:57,0 --> 0:37:9,0
+(Monster screeches)
+
+
+311
+0:37:9,0 --> 0:37:21,7
+(James screams)
+
+
+312
+0:37:21,7 --> 0:37:33,0
+(James screams in anger)
+
+
+313
+0:37:33,0 --> 0:38:0,0
+(Monster gurgles and scratches on floor)
+
+
+314
+0:38:0,0 --> 0:38:3,5
+Matt: Jesus... What does it take to kill one of these things?!
+
+
+315
+0:38:3,5 --> 0:38:5,5
+Amy: They're people Matt!
+
+
+316
+0:38:5,5 --> 0:38:8,0
+Matt: No person could survive this!
+
+
+317
+0:38:8,0 --> 0:38:12,6
+(Monster gurgles)
+
+
+318
+0:38:12,6 --> 0:38:14,3
+Amy: Are you hurt?
+
+
+319
+0:38:14,3 --> 0:38:36,35
+James: It's my arm.
+
+
+320
+0:38:36,35 --> 0:38:38,3
+(Crunching bone and brain. Monster becomes silent)
+
+
+321
+0:38:38,3 --> 0:38:42,3
+(Amy whimpers)
+
+
+322
+0:38:42,3 --> 0:38:47,8
+(Pipe drops on floor)
+
+
+323
+0:38:47,8 --> 0:38:49,5
+Connor: Are you alright?
+
+
+324
+0:38:49,5 --> 0:38:57,5
+James: Yeah.
+
+
+325
+0:38:57,5 --> 0:38:59,5
+Amy: You too?
+
+
+326
+0:38:59,5 --> 0:40:1,0
+Connor: Ugh... yeah, I'll be fine.
+
+
+327
+0:40:1,0 --> 0:40:27,0
+(Whine of computer fans)
+
+
+328
+0:40:27,0 --> 0:40:49,0
+James: Can someone try and log in?
+
+
+329
+0:40:49,0 --> 0:40:58,0
+(Typing)
+
+
+330
+0:40:58,0 --> 0:41:1,5
+Matt: It's not accepting my user name. Connor, can you hack this?
+
+
+331
+0:41:1,5 --> 0:41:3,7
+Amy: Not now Matt, give him a minute.
+
+
+332
+0:41:3,7 --> 0:41:5,8
+Matt: Look, the quicker we get through to the server the sooner...
+
+
+333
+0:41:5,8 --> 0:41:20,0
+Amy: Give it a rest Matt! How much use is he going to be to us if he's concussed?!
+
+
+334
+0:41:20,0 --> 0:41:20,7
+(Connor groans in pain)
+
+
+335
+0:41:20,7 --> 0:41:23,0
+Connor: Same place as last time.
+
+
+336
+0:41:23,0 --> 0:41:25,2
+Amy: Same place as what?
+
+
+337
+0:41:25,2 --> 0:41:27,0
+Connor: Cracked my skull climbing.
+
+
+338
+0:41:27,0 --> 0:41:29,9
+Connor: They had to put a metal plate in my head.
+
+
+339
+0:41:29,9 --> 0:41:33,3
+Amy: You never told me about that.
+
+
+340
+0:41:33,3 --> 0:41:36,4
+Connor: It was when I went home for a few weeks.
+
+
+341
+0:41:36,4 --> 0:41:40,7
+Connor: After Prague.
+
+
+342
+0:41:40,7 --> 0:41:42,6
+Amy: Oh.
+
+
+343
+0:41:42,6 --> 0:41:49,0
+Connor: I didn't mean it like that.
+
+
+344
+0:41:49,0 --> 0:41:51,0
+Connor: Just give me a minute.
+
+
+345
+0:41:51,0 --> 0:42:0,0
+Connor: And I'll see what I can do with the terminal.
+
+
+346
+0:42:0,0 --> 0:42:1,7
+Connor: Is there anything up there?
+
+
+347
+0:42:1,7 --> 0:42:6,0
+James: There's a door, it's secure. There's no one about. I think we're safe for now.
+
+
+348
+0:42:6,0 --> 0:42:19,0
+Connor: All right. We'll stay here for a bit. I'll try and get through the firewall, see if I can get any help.
+
+
+349
+0:42:19,0 --> 0:42:21,0
+Amy: How's your arm?
+
+
+350
+0:42:21,0 --> 0:42:25,5
+James: Don't worry about me. The bleeding's stopped.
+
+
+351
+0:42:25,5 --> 0:42:37,8
+Connor: Keep an eye on them stairs.
+
+
+352
+0:42:37,8 --> 0:42:41,8
+James: We need to be looking for Kate.
+
+
+353
+0:42:41,8 --> 0:42:43,8
+Amy: James...
+
+
+354
+0:42:43,8 --> 0:43:32,0
+James: I know what you're trying to say. But you're wrong.
+
+
+355
+0:43:32,0 --> 0:43:39,0
+(Typing)
+
+
+356
+0:43:39,0 --> 0:43:39,7
+(Computer bleeps)
+
+
+357
+0:43:39,7 --> 0:43:42,0
+Connor: Yes! Got in!
+
+
+358
+0:43:42,0 --> 0:43:47,0
+Amy: Can you get through to anyone?
+
+
+359
+0:43:47,0 --> 0:43:50,0
+Connor: ...no.
+
+
+360
+0:43:50,0 --> 0:44:4,0
+Amy: Keep trying.
+
+
+361
+0:44:4,0 --> 0:44:10,0
+(Computer bleeps)
+
+
+362
+0:44:10,0 --> 0:44:13,0
+Connor: Amy, come here.
+
+
+363
+0:44:13,0 --> 0:44:15,0
+James: Have you got through?
+
+
+364
+0:44:15,0 --> 0:44:17,0
+Connor: No but...
+
+
+365
+0:44:17,0 --> 0:44:20,0
+Connor: It says Amy's biosim just finished.
+
+
+366
+0:44:20,0 --> 0:44:21,3
+James: Oh.
+
+
+367
+0:44:21,3 --> 0:44:23,0
+James: So?
+
+
+368
+0:44:23,0 --> 0:44:37,0
+Amy: So I was right about Higgs radiation...
+
+
+369
+0:44:37,0 --> 0:44:39,0
+Matt: What?
+
+
+370
+0:44:39,0 --> 0:44:41,0
+Amy: The Higgs killed them all.
+
+
+371
+0:44:41,0 --> 0:44:44,0
+Matt: Killed who? They're not dead.
+
+
+372
+0:44:44,0 --> 0:44:46,0
+Amy: Yes, they are.
+
+
+373
+0:44:46,0 --> 0:44:50,0
+Amy: It's killed everything except the brain stem. There's nothing left of them.
+
+
+374
+0:44:50,0 --> 0:44:57,5
+Amy: The radiation damage might stop it after a while... but for now they're just animals.
+
+
+375
+0:44:57,5 --> 0:45:3,0
+Connor: You must have messed up or something... Missed a semi-colon! The... the Higgs wouldn't do that.
+
+
+376
+0:45:3,0 --> 0:45:6,0
+Amy: It doesn't even look like my simulation.
+
+
+377
+0:45:6,0 --> 0:45:9,0
+Amy: It looks more like Dr. Niven's...
+
+
+378
+0:45:9,0 --> 0:45:11,0
+(Typing)
+
+
+379
+0:45:11,0 --> 0:45:16,0
+James: So Dr. Niven knew and he still came down here?
+
+
+380
+0:45:16,0 --> 0:45:19,0
+Amy: No, it says it's only just completed.
+
+
+381
+0:45:19,0 --> 0:45:22,0
+Amy: He's been trying to run it for weeks and it always failed...
+
+
+382
+0:45:22,0 --> 0:45:32,0
+Amy: ...until now.
+
+
+383
+0:45:32,0 --> 0:45:43,4
+James: So they've been dead since the beam came on...
+
+
+384
+0:45:43,4 --> 0:45:50,4
+Connor: James - we need to get out of here. I can't get help, but if I can get a map of the tunnels can you find a way out?
+
+
+385
+0:45:50,4 --> 0:45:51,6
+James: I'll try.
+
+
+386
+0:45:51,6 --> 0:45:53,7
+Matt: Find the way out?
+
+
+387
+0:45:53,7 --> 0:45:55,7
+Matt: Why don't you ever know?
+
+
+388
+0:45:55,7 --> 0:45:57,7
+James: I haven't been to this area before...
+
+
+389
+0:45:57,7 --> 0:46:0,0
+Matt: Ok then, how long will it take this time?
+
+
+390
+0:46:0,0 --> 0:46:1,5
+Connor: Matt! Enough!
+
+
+391
+0:46:1,5 --> 0:46:4,0
+Matt: Fuck you Connor! Why are we even listening to you?!
+
+
+392
+0:46:4,0 --> 0:46:8,5
+Matt: It's your fault we're on shift! It's your fault we're down here in the first fucking place!
+
+
+393
+0:46:8,5 --> 0:46:10,5
+Amy: Leave him alone!
+
+
+394
+0:46:10,5 --> 0:46:12,5
+Matt: Oh, concerned about his feelings now are we?
+
+
+395
+0:46:12,5 --> 0:46:14,5
+Amy: ...don't.
+
+
+396
+0:46:14,5 --> 0:46:16,5
+James: What?
+
+
+397
+0:46:16,5 --> 0:46:18,5
+Matt: Everyone else has figured it out James.
+
+
+398
+0:46:18,5 --> 0:46:19,5
+Matt: We fucked last night.
+
+
+399
+0:46:19,5 --> 0:46:21,0
+Amy: Fuck you Matt, I was drunk!
+
+
+400
+0:46:21,0 --> 0:46:22,0
+Matt: Not that drunk.
+
+
+401
+0:46:22,0 --> 0:46:23,8
+James: You took advantage of my sister?!
+
+
+402
+0:46:23,8 --> 0:46:30,1
+Matt: Advan... whatever. At least I get laid. Bet you didn't get that far with Kate.
+
+
+403
+0:46:30,1 --> 0:46:35,7
+James: You... FUCK!
+
+
+404
+0:46:35,7 --> 0:46:37,0
+James: I'm going to find Kate.
+
+
+405
+0:46:37,0 --> 0:46:38,0
+Amy: James, she's dead.
+
+
+406
+0:46:38,0 --> 0:46:39,0
+James: I have to go.
+
+
+407
+0:46:39,0 --> 0:46:45,0
+Amy: No, stop it James! Come back! I need you! Come back!
+
+
+408
+0:46:45,0 --> 0:46:47,0
+Amy: I have to go with him.
+
+
+409
+0:46:47,0 --> 0:46:48,0
+Connor: You know she's dead right.
+
+
+410
+0:46:48,0 --> 0:46:50,0
+Amy: I can't let him do this alone.
+
+
+411
+0:46:50,0 --> 0:46:51,0
+Connor: Alright, I'll come...
+
+
+412
+0:46:51,0 --> 0:47:10,0
+Amy (Interrupting): No, stay here, you have to find help!
+
+
+413
+0:47:10,0 --> 0:47:12,0
+Amy: Do you know where you're going?
+
+
+414
+0:47:12,0 --> 0:47:15,5
+James: I think there's a shortcut up here.
+
+
+415
+0:47:15,5 --> 0:47:18,7
+Amy: I... I just...
+
+
+416
+0:47:18,7 --> 0:47:35,7
+James: Thanks for coming.
+
+
+417
+0:47:35,7 --> 0:47:39,0
+Connor: Look, Matt.
+
+
+418
+0:47:39,0 --> 0:47:41,3
+Connor: Forget about that.
+
+
+419
+0:47:41,3 --> 0:47:43,0
+Matt: Fine.
+
+
+420
+0:47:43,0 --> 0:47:45,9
+Connor: Matt, we need to stick together to get out of here.
+
+
+421
+0:47:45,9 --> 0:47:45,9
+Connor: Don't worry about...
+
+
+422
+0:47:45,9 --> 0:47:50,0
+Matt (Interrupting): I said, fine!
+
+
+423
+0:47:50,0 --> 0:47:57,0
+(Computer bleeps)
+
+
+424
+0:47:57,0 --> 0:47:58,5
+Connor: What?!
+
+
+425
+0:47:58,5 --> 0:48:9,6
+(Frantic typing)
+
+
+426
+0:48:9,6 --> 0:48:56,0
+Connor: Shit!
+
+
+427
+0:48:56,0 --> 0:48:58,0
+(Clanging metal)
+
+
+428
+0:48:58,0 --> 0:49:19,6
+(Monster growls)
+
+
+429
+0:49:19,6 --> 0:49:34,0
+(Growl from darkness)
+
+
+430
+0:49:34,0 --> 0:50:17,7
+(Monster growls and scratches at cage door)
+
+
+431
+0:50:17,7 --> 0:50:26,0
+(Crunching blow)
+
+
+432
+0:50:26,0 --> 0:50:32,5
+Amy: Run!
+
+
+433
+0:50:32,5 --> 0:50:39,0
+(Crunch of skull on metal)
+
+
+434
+0:50:39,0 --> 0:50:50,5
+(Gunfire)
+
+
+435
+0:50:50,5 --> 0:52:6,5
+(Monster growls, then stops)
+
+
+436
+0:52:6,5 --> 0:52:15,7
+(Amy vomits)
+
+
+437
+0:52:15,7 --> 0:52:17,0
+James: Are you ok? What's wrong?
+
+
+438
+0:52:17,0 --> 0:52:37,0
+Amy (tearfully): James, please don't look. Please don't look.
+
+
+439
+0:52:37,0 --> 0:53:1,5
+James: Let's go.
+
+
+440
+0:53:1,5 --> 0:53:3,5
+Amy: Are you ok?
+
+
+441
+0:53:3,5 --> 0:53:9,5
+James: I'm not feeling great.
+
+
+442
+0:53:9,5 --> 0:53:30,0
+Amy: Look, here, I'll help you.
+
+
+443
+0:53:30,0 --> 0:53:32,0
+Connor: What happened? Is he ok?
+
+
+444
+0:53:32,0 --> 0:53:35,7
+Amy: I think his wound's infected.
+
+
+445
+0:53:35,7 --> 0:53:37,5
+James: I'll be ok.
+
+
+446
+0:53:37,5 --> 0:53:39,0
+James: Did you call for help?
+
+
+447
+0:53:39,0 --> 0:53:45,5
+Connor: No. I couldn't through the firewall. But I got a map for this area.
+
+
+448
+0:53:45,5 --> 0:54:4,0
+James: Alright.
+
+
+449
+0:54:4,0 --> 0:54:6,0
+Connor: Where did you get that?
+
+
+450
+0:54:6,0 --> 0:54:8,0
+Amy: We found a body in the tunnels.
+
+
+451
+0:54:8,0 --> 0:54:10,0
+Amy: He must have shot that guard.
+
+
+452
+0:54:10,0 --> 0:54:13,9
+Amy: But I saw him with the Director General earlier.
+
+
+453
+0:54:13,9 --> 0:54:15,7
+Connor: Listen, there's something else.
+
+
+454
+0:54:15,7 --> 0:54:20,7
+Connor: After you guys left all the sim data got deleted from the system.
+
+
+455
+0:54:20,7 --> 0:54:25,5
+Connor: There's only one person with the authority to do that.
+
+
+456
+0:54:25,5 --> 0:54:31,5
+Amy: If he's trying to stop people from finding out, that could by why we can't call for help.
+
+
+457
+0:54:31,5 --> 0:54:34,5
+Connor: Are there any backups anywhere?
+
+
+458
+0:54:34,5 --> 0:54:38,0
+Amy: Dr. Niven keeps a record of everything he does.
+
+
+459
+0:54:38,0 --> 0:54:41,6
+Amy: It could be enough, if we can get to his office.
+
+
+460
+0:54:41,6 --> 0:54:50,0
+Connor: If he knows we're down here...
+
+
+461
+0:54:50,0 --> 0:54:59,0
+Amy: We'll get out.
+
+
+462
+0:54:59,0 --> 0:55:5,5
+James: Hey guys. I think I found something.
+
+
+463
+0:55:5,5 --> 0:55:9,6
+James: Ok, so we start here.
+
+
+464
+0:55:9,6 --> 0:55:11,5
+James: And then we go over to here.
+
+
+465
+0:55:11,5 --> 0:55:14,5
+James: The services lifts are down, so we'll have to take the stairs.
+
+
+466
+0:55:14,5 --> 0:55:16,5
+James: There's a crawl space here.
+
+
+467
+0:55:16,5 --> 0:55:20,5
+James: And then we come to here.
+
+
+468
+0:55:20,5 --> 0:55:23,0
+James: And then we get out here.
+
+
+469
+0:55:23,0 --> 0:55:26,0
+Amy: Is there any way we can get out nearer to Dr. Niven's office?
+
+
+470
+0:55:26,0 --> 0:55:27,0
+James: Why?
+
+
+471
+0:55:27,0 --> 0:55:32,3
+Amy: The simulation data logs got deleted. We have to go and find records.
+
+
+472
+0:55:32,3 --> 0:55:40,5
+James: I don't think we can get through. There are safety doors in the way.
+
+
+473
+0:55:40,5 --> 0:55:47,5
+Connor: Let me look at that.
+
+
+474
+0:55:47,5 --> 0:55:58,0
+Connor: There we go!
+
+
+475
+0:55:58,0 --> 0:56:13,5
+(Door bleeps and opens.)
+
+
+476
+0:56:13,5 --> 0:56:15,0
+Amy: Are you feeling ok?
+
+
+477
+0:56:15,0 --> 0:56:29,5
+James: I just... I just need to sleep.
+
+
+478
+0:56:29,5 --> 0:56:33,9
+Amy: James?
+
+
+479
+0:56:33,9 --> 0:56:37,2
+Amy: James!
+
+
+480
+0:56:37,2 --> 0:56:40,6
+Amy: James?!
+
+
+481
+0:56:40,6 --> 0:56:54,5
+(James breathes in deeply)
+
+
+482
+0:56:54,5 --> 0:56:56,5
+Connor: Is he ok?
+
+
+483
+0:56:56,5 --> 0:56:59,5
+Amy: I don't know. I don't know what's wrong with him.
+
+
+484
+0:56:59,5 --> 0:57:3,0
+Amy: He's sleeping for now but... maybe we could let him rest for a bit?
+
+
+485
+0:57:3,0 --> 0:57:4,0
+Connor: Yeah.
+
+
+486
+0:57:4,0 --> 0:57:5,0
+Matt: No.
+
+
+487
+0:57:5,0 --> 0:57:7,3
+Matt: I think we should get moving as soon as we can.
+
+
+488
+0:57:7,3 --> 0:57:9,3
+Connor: If he doesn't rest we'll have to carry him.
+
+
+489
+0:57:9,3 --> 0:57:12,0
+Matt: We can't wait here forever, and if he can't look after himself...
+
+
+490
+0:57:12,0 --> 0:57:16,5
+Amy: Don't you dare, you selfish piece of shit! If you want to go just go on your own!
+
+
+491
+0:57:16,5 --> 0:57:19,5
+Connor: No one's going anywhere! We'll rest for a bit, then we'll leave.
+
+
+492
+0:57:19,5 --> 0:57:19,5
+(James growls and leaps)
+
+
+493
+0:57:19,5 --> 0:57:24,3
+Amy: No! James, what are you doing?!
+
+
+494
+0:57:24,3 --> 0:57:26,3
+Connor: Matt!
+
+
+495
+0:57:26,3 --> 0:57:28,0
+Amy: Stop!
+
+
+496
+0:57:28,0 --> 0:57:33,0
+Amy: James!
+
+
+497
+0:57:33,0 --> 0:57:41,6
+(Gun fire)
+
+
+498
+0:57:41,6 --> 0:57:44,5
+(James growls)
+
+
+499
+0:57:44,5 --> 0:57:46,6
+Connor: Give me the gun.
+
+
+500
+0:57:46,6 --> 0:57:48,0
+Amy: No!
+
+
+501
+0:57:48,0 --> 0:57:56,0
+(Gun fire. James falls silent.)
+
+
+502
+0:57:56,0 --> 0:58:17,8
+Connor: Come on, we need to go.
+
+
+503
+0:58:17,8 --> 0:58:23,6
+(Shuffling feet and growling)
+
+
+504
+0:58:23,6 --> 0:58:26,5
+(Gun fires twice)
+
+
+505
+0:58:26,5 --> 0:58:39,5
+(Crunching bone)
+
+
+506
+0:58:39,5 --> 0:58:41,5
+Amy: He's dead... he's gone.
+
+
+507
+0:58:41,5 --> 0:58:44,8
+Connor: Amy, you need to... you need to...
+
+
+508
+0:58:44,8 --> 0:58:47,5
+Connor: We have to...
+
+
+509
+0:58:47,5 --> 0:58:50,5
+Amy: Connor... I never...
+
+
+510
+0:58:50,5 --> 0:59:1,5
+Connor: It's ok. We can talk about that when we get out of here.
+
+
+511
+0:59:1,5 --> 0:59:3,5
+Amy: I don't want to have to do this on my own.
+
+
+512
+0:59:3,5 --> 0:59:6,0
+Connor: You won't have to.
+
+
+513
+0:59:6,0 --> 0:59:8,5
+Connor: We know the way out now. We just need to...
+
+
+514
+0:59:8,5 --> 0:59:12,4
+(Monster roars and chews)
+
+
+515
+0:59:12,4 --> 0:59:19,8
+(Gun fire)
+
+
+516
+0:59:19,8 --> 0:59:23,5
+Amy: It's going to be ok! You're going to be ok!
+
+
+517
+0:59:23,5 --> 0:59:25,0
+Connor: You know what'll happen.
+
+
+518
+0:59:25,0 --> 0:59:28,0
+Amy: No, I don't! And neither do you!
+
+
+519
+0:59:28,0 --> 0:59:32,5
+Connor: I'm bleeding out. When I die...
+
+
+520
+0:59:32,5 --> 0:59:34,7
+Connor: I don't want to come back.
+
+
+521
+0:59:34,7 --> 0:59:38,5
+Amy: No! I can't lose you. Not now!
+
+
+522
+0:59:38,5 --> 0:59:41,5
+Connor: I'll end up killing you. You need to get out.
+
+
+523
+0:59:41,5 --> 0:59:46,0
+Amy: No. Look, hold this - I'll go get a first aid kit. It'll be ok!
+
+
+524
+0:59:46,0 --> 0:59:48,0
+Connor: Give me the gun if you can't do it!
+
+
+525
+0:59:48,0 --> 0:59:51,0
+Amy: No!
+
+
+526
+0:59:51,0 --> 1:0:4,0
+Connor: Amy!
+
+
+527
+1:0:4,0 --> 1:0:15,0
+(Footsteps and growling)
+
+
+528
+1:0:15,0 --> 1:0:22,0
+Connor: Amy!
+
+
+529
+1:0:22,0 --> 1:0:28,2
+(Gun shot followed by another)
+
+
+530
+1:0:28,2 --> 1:0:33,6
+Amy: Connor...
+
+
+531
+1:0:33,6 --> 1:0:39,0
+(Connor breathes deeply)
+
+
+532
+1:0:39,0 --> 1:1:22,0
+(Connor growls. Gun shot)
+
+
+533
+1:1:22,0 --> 1:1:25,0
+Worker 1: Inadmisse les jeunes souvements sont incompetent.
+
+
+534
+1:1:25,0 --> 1:1:32,0
+Worker 1: J'en ai mar d'avoir des resultats aussi fou tous les jours tous les jours et je dois de moyens.
+
+
+535
+1:1:32,0 --> 1:1:45,5
+Worker 1: Tranchement de regarder ca. Incroyable non?
+
+
+536
+1:1:45,5 --> 1:1:48,5
+Worker 1: Mister! Mister, please, this is not a safe area!
+
+
+537
+1:1:48,5 --> 1:1:50,5
+Worker 1: Come over! We'll call an ambulance!
+
+
+538
+1:1:50,5 --> 1:1:52,5
+Worker 1: Appelles l'ambulance.
+
+
+539
+1:1:52,5 --> 1:1:53,5
+(Monster growls)
+
+
+540
+1:1:53,5 --> 1:2:0,0
+(Man screams)
+
+
+541
+1:2:0,0 --> 1:2:48,5
+(Worker 2 screams)
+
+
+542
+1:2:48,5 --> 1:2:55,7
+(Monster growls)
+
+
+543
+1:2:55,7 --> 1:3:0,7
+(Gun fire)
+
+
+544
+1:3:0,7 --> 1:3:1,5
+(Monster continues growling)
+
+
+545
+1:3:1,5 --> 1:3:26,5
+(Crunch of bone. Monster falls silent)
+
+
+546
+1:3:26,5 --> 1:3:41,5
+(Matt pants, out of breath)
+
+
+547
+1:3:41,5 --> 1:3:48,7
+(Monster breathes and snarls)
+
+
+548
+1:3:48,7 --> 1:4:6,7
+(Monster growls)
+
+
+549
+1:4:6,7 --> 1:4:8,0
+(Monsters screech)
+
+
+550
+1:4:8,0 --> 1:4:15,0
+(Matt screams. Flesh ripping)
+
+
+551
+1:4:15,0 --> 1:4:23,0
+(Sounds of ripping flesh)
+
+
+552
+1:4:23,0 --> 1:4:26,0
+(Monsters tear flesh. Matt screams loudly)
+
+
+553
+1:4:26,0 --> 1:5:19,0
+(Matt falls silent)
+
+
+554
+1:5:19,0 --> 1:5:53,0
+(Sound of flesh being eaten)
+
+
+555
+1:5:53,0 --> 1:6:14,0
+(Quiet growl and footsteps)
+
+
+556
+1:6:14,0 --> 1:6:16,0
+(Crack of bone)
+
+
+557
+1:6:16,0 --> 1:6:27,0
+(Monster continues growling, scratching)
+
+
+558
+1:6:27,0 --> 1:6:43,0
+(Ripping flesh)
+
+
+559
+1:6:43,0 --> 1:6:46,3
+Amy: Connor...
+
+
+560
+1:6:46,3 --> 1:6:48,0
+(Gun shot)
+
+
+561
+1:6:48,0 --> 1:6:48,5
+(Connor snarls)
+
+
+562
+1:6:48,5 --> 1:6:50,5
+(Gun shot)
+
+
+563
+1:6:50,5 --> 1:7:3,3
+(Gun skitters across floor)
+
+
+564
+1:7:3,3 --> 1:7:4,3
+(Bone being pierced)
+
+
+565
+1:7:4,3 --> 1:9:2,0
+(Connor stops breathing)
+
+
+566
+1:9:2,0 --> 1:9:7,6
+(Monsters growling and snarling)
+
+
+567
+1:9:7,6 --> 1:9:31,5
+(People screaming in background)
+
+
+568
+1:9:31,5 --> 1:9:56,0
+(Monster snarls)
+
+
+569
+1:9:56,0 --> 1:10:11,3
+(Monsters bang on door)
+
+
+570
+1:10:11,3 --> 1:10:24,7
+(Sound of glass smashing)
+
+
+571
+1:10:24,7 --> 1:10:26,6
+(Thud against door)
+
+
+572
+1:10:26,6 --> 1:10:31,9
+(Thud against door)
+
+
+573
+1:10:31,9 --> 1:10:41,0
+(Gun fire)
+
+
+574
+1:10:41,0 --> 1:10:43,5
+*"Lisa's phone, leave a message"*
+
+
+575
+1:10:43,5 --> 1:10:46,0
+Amy: Lisa, pick up the phone!
+
+
+576
+1:10:46,0 --> 1:10:49,8
+Amy: I don't have long! Everything's fucked, everyone's dead!
+
+
+577
+1:10:49,8 --> 1:10:55,0
+Amy: The Director General killed them all. Pick up the fucking phone!
+
+
+578
+1:10:55,0 --> 1:10:59,0
+Amy: Lisa listen, I'm going to email you the data. You're the only one that can understand it.
+
+
+579
+1:10:59,0 --> 1:11:20,5
+(Frantic typing)
+
+
+580
+1:11:20,5 --> 1:11:37,0
+DG: Move away from the computer.
+
+
+581
+1:11:37,0 --> 1:11:39,0
+Amy: You did this!
+
+
+582
+1:11:39,0 --> 1:11:42,5
+Amy: You killed them all.
+
+
+583
+1:11:42,5 --> 1:11:45,0
+DG: I didn't know this would happen.
+
+
+584
+1:11:45,0 --> 1:11:47,0
+DG: But I had to do it.
+
+
+585
+1:11:47,0 --> 1:11:51,5
+DG: Dr. Niven knew the Higgs was dangerous. But I couldn't let that stop me.
+
+
+586
+1:11:51,5 --> 1:11:53,5
+DG: My research is too important!
+
+
+587
+1:11:53,5 --> 1:11:57,5
+DG: I had to!
+
+
+588
+1:11:57,5 --> 1:12:10,9
+DG: And I can't let you tell anyone.
+
+
+589
+1:12:10,9 --> 1:12:26,0
+(Gun fire)
+
+
+590
+1:12:26,0 --> 1:14:26,0
+
+
+

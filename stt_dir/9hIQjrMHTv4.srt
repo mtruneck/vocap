@@ -1,0 +1,490 @@
+1
+0:0:5,412 --> 0:0:9,398
+The Internet in the year 2009.
+
+
+2
+0:0:9,398 --> 0:0:12,991
+We send e-mails, make calls over the internet
+
+
+3
+0:0:12,991 --> 0:0:15,731
+and discuss topics we take an interest in.
+
+
+4
+0:0:15,731 --> 0:0:18,546
+Even our banking is going virtual.
+
+
+5
+0:0:18,546 --> 0:0:20,762
+But what we take for granted today
+
+
+6
+0:0:20,762 --> 0:0:24,302
+was only a vague idea fifty years ago.
+
+
+7
+0:0:24,302 --> 0:0:27,2
+In order to understand how we got this far
+
+
+8
+0:0:27,2 --> 0:0:32,12
+let's go back to 1957, when everything began.
+
+
+9
+0:0:32,12 --> 0:0:36,573
+Before 1957 computers only worked on one task at a time.
+
+
+10
+0:0:36,573 --> 0:0:38,796
+This is called batch processing.
+
+
+11
+0:0:38,796 --> 0:0:42,497
+Of course, this was quite ineffective.
+
+
+12
+0:0:42,497 --> 0:0:44,504
+With computers getting bigger and bigger
+
+
+13
+0:0:44,504 --> 0:0:47,444
+they had to be stored in special cooled rooms.
+
+
+14
+0:0:47,444 --> 0:0:51,7
+But then the developers couldn't work directly on the computers anymore –
+
+
+15
+0:0:51,7 --> 0:0:54,603
+specialists had to be called in to connect them.
+
+
+16
+0:0:54,603 --> 0:0:57,293
+Programming at that time meant a lot of manual work
+
+
+17
+0:0:57,293 --> 0:1:0,293
+and the indirect connection to the computers led to
+
+
+18
+0:1:0,293 --> 0:1:6,73
+a lot of bugs, wasting time and fraying the developers´ nerves.
+
+
+19
+0:1:6,73 --> 0:1:9,994
+The year 1957 marked a big change.
+
+
+20
+0:1:9,994 --> 0:1:12,275
+A remote connection had to be installed
+
+
+21
+0:1:12,275 --> 0:1:16,3
+so the developers could work directly on the computers.
+
+
+22
+0:1:16,3 --> 0:1:20,1
+At the same time the idea of time-sharing came up.
+
+
+23
+0:1:20,1 --> 0:1:23,77
+This is the first concept in computer technology
+
+
+24
+0:1:23,77 --> 0:1:32,709
+to share the processing power of one computer with multiple users.
+
+
+25
+0:1:32,709 --> 0:1:35,899
+On October 4th 1957, during the Cold War
+
+
+26
+0:1:35,899 --> 0:1:41,764
+the first unmanned satellite, Sputnik 1, was sent into orbit by the Soviet Union.
+
+
+27
+0:1:41,764 --> 0:1:45,904
+The fear of a "Missile Gap" emerged.
+
+
+28
+0:1:45,904 --> 0:1:48,655
+In order to secure America's lead in technology,
+
+
+29
+0:1:48,655 --> 0:1:55,713
+the US founded the "Defense Advanced Research Project Agency" in February 1958.
+
+
+30
+0:1:55,713 --> 0:1:59,902
+At that time, knowledge was only transferred by people.
+
+
+31
+0:1:59,902 --> 0:2:3,724
+The DARPA planned a large-scale computer network
+
+
+32
+0:2:3,724 --> 0:2:7,744
+in order to accelerate knowledge transfer and avoid the doubling up
+
+
+33
+0:2:7,744 --> 0:2:10,101
+of already existing research.
+
+
+34
+0:2:10,101 --> 0:2:12,998
+This network would become the Arpanet.
+
+
+35
+0:2:12,998 --> 0:2:15,818
+Furthermore three other concepts were to be developed,
+
+
+36
+0:2:15,818 --> 0:2:18,809
+which are fundamental for the history of the Internet:
+
+
+37
+0:2:18,809 --> 0:2:23,693
+The concept of a military network by the RAND Corporation in America.
+
+
+38
+0:2:23,693 --> 0:2:28,262
+The commercial network of the National Physical Laboratory in England.
+
+
+39
+0:2:28,262 --> 0:2:32,806
+And the scientific network, Cyclades, in France.
+
+
+40
+0:2:32,806 --> 0:2:37,967
+The scientific, military and commercial approaches of these concepts
+
+
+41
+0:2:37,967 --> 0:2:43,298
+are the foundations for our modern Internet.
+
+
+42
+0:2:43,298 --> 0:2:47,549
+Let's begin with the Arpanet, the most familiar of these networks.
+
+
+43
+0:2:47,549 --> 0:2:50,736
+Its development began in 1966.
+
+
+44
+0:2:50,736 --> 0:2:55,47
+Universities were generally quite cautious about sharing their computers.
+
+
+45
+0:2:55,47 --> 0:2:58,621
+Therefore small computers were put on front of the mainframe.
+
+
+46
+0:2:58,621 --> 0:3:4,363
+This computer, the Interface Message Processor, took over control of the network actvitities,
+
+
+47
+0:3:4,363 --> 0:3:9,634
+while the mainframe was only in charge of the initialization of programs and data files.
+
+
+48
+0:3:9,634 --> 0:3:13,905
+At the same time, the IMP also served as interface for the mainframe.
+
+
+49
+0:3:13,905 --> 0:3:17,118
+Since only the IMPs were interconnected in a network
+
+
+50
+0:3:17,118 --> 0:3:19,776
+this was also called IMP-subnet.
+
+
+51
+0:3:19,776 --> 0:3:22,777
+For the first connections between the computers
+
+
+52
+0:3:22,777 --> 0:3:27,106
+the Network Working Group developed the Network Control Protocol [Network Control Program].
+
+
+53
+0:3:27,106 --> 0:3:32,531
+Later on, the NCP was replaced by the more efficient Transmission Control Protocol.
+
+
+54
+0:3:32,531 --> 0:3:37,445
+The specific feature of the TCP is the verification of the file transfer.
+
+
+55
+0:3:37,445 --> 0:3:40,634
+Let's take a short detour to England.
+
+
+56
+0:3:40,634 --> 0:3:44,495
+Since the NPL network was designed on a commercial basis
+
+
+57
+0:3:44,495 --> 0:3:48,619
+a lot of users and file transfer were expected.
+
+
+58
+0:3:48,619 --> 0:3:54,85
+In order to avoid congestion of the lines, the sent files were divided into smaller packets
+
+
+59
+0:3:54,85 --> 0:3:58,91
+which were put together again at the receiver.
+
+
+60
+0:3:58,91 --> 0:4:6,254
+"Packet Switching" was born!
+
+
+61
+0:4:6,254 --> 0:4:12,448
+In 1962 American ferret aircrafts discovered middle and long range range missiles in Cuba,
+
+
+62
+0:4:12,448 --> 0:4:15,215
+which were able to reach the United States.
+
+
+63
+0:4:15,215 --> 0:4:19,7
+This stoked fear of an atomic conflict.
+
+
+64
+0:4:19,7 --> 0:4:25,327
+At that time information systems had a centralized network architecture.
+
+
+65
+0:4:25,327 --> 0:4:28,29
+To avoid the breakdown during an attack,
+
+
+66
+0:4:28,29 --> 0:4:32,328
+a decentralized network architecture had to be developed,
+
+
+67
+0:4:32,328 --> 0:4:37,541
+which in case of loss of a node would still be operative.
+
+
+68
+0:4:37,541 --> 0:4:41,57
+Communication still used to work through radio waves,
+
+
+69
+0:4:41,57 --> 0:4:46,701
+that would have caused problems in case of an atomic attack:
+
+
+70
+0:4:46,701 --> 0:4:51,217
+the ionosphere would be affected and the long-wave radio waves wouldn't work anymore.
+
+
+71
+0:4:51,217 --> 0:4:57,711
+Therefore they had to use direct waves, which, however, don't have a long range.
+
+
+72
+0:4:57,711 --> 0:5:1,643
+A better solution was the model of a distributed network.
+
+
+73
+0:5:1,643 --> 0:5:7,103
+Thus long distances could be covered with a minimum of interference.
+
+
+74
+0:5:7,103 --> 0:5:11,759
+Another milestone followed with the development of the French network "Cyclades".
+
+
+75
+0:5:11,759 --> 0:5:17,79
+Since Cyclades had a far smaller budget than Arpanet and thus also fewer nodes
+
+
+76
+0:5:17,79 --> 0:5:22,69
+the focus was layed on the communication with other networks.
+
+
+77
+0:5:22,69 --> 0:5:27,506
+In this way the term "inter-net" was born.
+
+
+78
+0:5:27,506 --> 0:5:32,607
+Moreover, Cyclades´ concept went further than ARPA's and the NPL's.
+
+
+79
+0:5:32,607 --> 0:5:38,756
+During communication between sender and receiver the computers were not to intervene anymore,
+
+
+80
+0:5:38,756 --> 0:5:41,862
+but simply serve as a transfer node.
+
+
+81
+0:5:41,862 --> 0:5:46,508
+Cyclades´ protocol went through all machines using a physical layer
+
+
+82
+0:5:46,508 --> 0:5:48,84
+that was implemented into the hardware,
+
+
+83
+0:5:48,84 --> 0:5:54,341
+providing a direct connection with the receiver – an end-to-end structure.
+
+
+84
+0:5:54,341 --> 0:5:59,8
+Inspired by the Cyclades network and driven by the incompatibility between the networks,
+
+
+85
+0:5:59,8 --> 0:6:4,26
+their connection gained in importance everywhere.
+
+
+86
+0:6:4,26 --> 0:6:9,1
+The phone companies developed the X.25 protocol which enabled communication
+
+
+87
+0:6:9,1 --> 0:6:15,995
+through their servers – in exchange for monthly basic charge of course.
+
+
+88
+0:6:15,995 --> 0:6:22,617
+DARPA's Transmission Control Protocol was to connect the computers through gateways...
+
+
+89
+0:6:22,617 --> 0:6:30,0
+and the International Organization for Standardization designed the OSI Reference Model.
+
+
+90
+0:6:30,0 --> 0:6:35,71
+The innovation of OSI was the attempt to standardize the network from its ends
+
+
+91
+0:6:35,71 --> 0:6:39,94
+and the channel's division into separate layers.
+
+
+92
+0:6:39,94 --> 0:6:44,94
+Finally, the TCP assimilated the preferences of the OSI Reference Model
+
+
+93
+0:6:44,94 --> 0:6:48,643
+and gave way to the TCP/IP protocol –
+
+
+94
+0:6:48,643 --> 0:6:52,859
+a standard which guaranteed compatibility between networks
+
+
+95
+0:6:52,859 --> 0:6:57,409
+and finally merged them, creating the Internet.
+
+
+96
+0:6:57,409 --> 0:7:4,409
+By February 28, 1990 the ARPANET hardware was removed, but the Internet...
+
+
+97
+0:7:4,409 --> 0:7:8,285
+... was up and running.
+
+
+98
+0:7:8,285 --> 0:9:8,285
+Subtitles by HackJack (aka StevXtreme)
+
+

@@ -1,0 +1,148 @@
+###1 "Google began as a research project in 1996."
+###4 "This is a look at how search has evolved."
+###8 Gomes: Our goal is actually to make improvements to Search
+###12 that just answer the user's information need.
+###15 Get them to their answer faster and faster.
+###18 So that there's almost a seamless connection between
+###21 their thoughts and their information needs
+###23 and the search results that they find.
+###30 Singhal: Well, Google was started based upon algorithms
+###34 that Larry and Sergey developed in Stanford
+###37 called the PageRank algorithm.
+###39 And they used that algorithm to indeed build
+###42 a very novel way of searching the web.
+###44 Gomes: What was happening at that point was
+###46 there was this huge explosion of content in the web,
+###48 a bigger explosion of information
+###50 than had ever happened before.
+###51 And it was getting increasingly hard to find
+###54 the piece of content you wanted.
+###56 "Adwords"
+###57 Mayer: In the beginning,
+###59 we didn't have any advertisements at all.
+###60 And as we went to add advertisements,
+###62 it was very important to us that those ads be as relevant
+###65 to the search as the search results themselves.
+###67 It was also very important to us that they be distinguished
+###69 from the search results.
+###71 Gomes: There was a clear separation between ads
+###73 and Search from the very earliest times.
+###75 Search had one goal and one goal alone,
+###77 to provide the most relevant information for the user
+###81 in the fastest time possible.
+###83 "Universal Results"
+###85 Mayer: In 1999 and 2000, we had a search engine
+###87 that worked wonderfully,
+###88 and it worked wonderfully for web pages.
+###89 One of the things we saw was,
+###91 as Google got better and better,
+###92 users expected more and more from it.
+###94 They didn't want just web pages.
+###96 They wanted the best possible information available,
+###99 be that a picture or a book.
+###101 And so we started looking at how we could search new
+###104 and other forms of content.
+###105 And Image Search was the first of those
+###107 because we know that a picture is worth 1,000 words,
+###110 and there were a lot of times when people would say,
+###112 you know, what is turquoise?
+###113 You know, we got a search, "what is turquoise?"
+###115 And there's no way to answer that question
+###117 without a picture.
+###121 Singhal: When September 11th happened,
+###123 we as Google were failing our users.
+###126 Our users were searching for "New York Twin Towers,"
+###129 and our results had nothing relevant,
+###132 nothing related to the sad events of the day
+###135 because our index was crawled a month earlier,
+###138 and, of course, there was no news in that index.
+###142 So we placed links to all the news organizations like CNN
+###146 right on our front page saying please visit those sites
+###149 to get the news of the day,
+###151 because our search is failing you.
+###153 My friend Krishna and I were attending a conference
+###156 at the time, and Krishna started thinking about the problem,
+###161 saying, "If we could crawl news quickly,
+###164 "and we can provide multiple points of view
+###167 "about the same story to our users,
+###170 wouldn't it be amazing?"
+###171 That was the birth of Google News
+###173 specialized search service.
+###177 Mayer: Well, in 2002, one of the trends we started to see
+###179 was that the web had become a lot more rich.
+###181 More images, more video, different kinds of content.
+###184 And we started to realize that our users expected Google
+###186 to be able to find something if it existed on the web.
+###189 They didn't care if it was text or a web page or news,
+###193 they wanted it all in one place.
+###195 And so we came up with this notion of Universal Search,
+###197 the idea that you could just go to Google,
+###199 and no matter what type of content it was,
+###201 we could find it.
+###203 One of the challenges that came up in Universal Search is that
+###205 we were really comparing apples and oranges.
+###207 Singhal: You can imagine these apples are web pages,
+###209 and you can imagine an orange would be an image.
+###213 When we look at ranking images,
+###215 we know what the aspect ratio of an image is,
+###219 how big is the image, how many pixels this image is.
+###222 Is it a black and white image or a color image?
+###225 And all these signals are only relevant to images,
+###230 but are not relevant to web pages.
+###232 And that's why Universal Search was such a hard task
+###236 when we did it, because the science was not fully developed.
+###239 Mayer: We basically ended up putting things
+###241 either on the top of the page, on the bottom of the page,
+###243 or somewhere in the middle
+###245 because we didn't have a finer-grained way
+###248 of looking at the relevance,
+###249 especially across different media types.
+###251 Singhal: And over the years,
+###252 we developed our science tremendously,
+###254 and today we are beginning to place
+###257 several kinds of information in multiple positions
+###259 on our result page
+###261 as our algorithms get better and better.
+###262 "Quick Answers"
+###264 Gomes: Our goal is to make it so that the improvement we make
+###267 is so much what you wanted
+###269 and fits so cleanly into the flow
+###271 of what you are looking for
+###273 that you almost don't notice that it's happened.
+###276 And looking back at it, it seems obvious that that's the way
+###278 it should have always been in the first place.
+###280 Menzel: When you do need a specific bit of information,
+###283 Google tries to provide you exactly that
+###286 using our Quick Answers.
+###288 For example, take sport scores.
+###290 You kind of want to know what the score is right now.
+###293 You want to know how tall is the Empire State Building?
+###296 Wright: We want users to come to Google
+###298 and get their information as quickly as they possibly can.
+###300 And with Instant, you don't even have to type in
+###302 your full thought.
+###303 You don't have to hit enter.
+###305 You can type in something like, "bike h,"
+###307 and we'll just show you the results right there
+###309 before you've even finished your thoughts.
+###311 "The Future of Search"
+###312 Menzel: We are pushing the boundaries
+###314 of how you actually fundamentally interact
+###317 with the search engine itself.
+###319 With Search by Image, you can actually use that image
+###322 as an input for the search.
+###324 Singhal: The truth is that our users need
+###327 much more complex answers.
+###329 My dream has always been to build the "Star Trek" computer.
+###334 And in my ideal world,
+###336 I would be able to walk up to a computer and say,
+###340 "Hey, what is the best time for me to sow seeds in India,
+###346 given that monsoon was early this year?"
+###348 And once we can answer that question,
+###351 which we don't today,
+###353 people will be looking for answers
+###354 to even more complex questions.
+###357 These are all genuine information needs.
+###359 Genuine questions that, if we, Google, can answer,
+###363 our users would become more knowledgeable,
+###366 and they would be more satisfied in their quest for knowledge.

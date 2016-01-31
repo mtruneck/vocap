@@ -1,0 +1,52 @@
+1
+0:0:0,0 --> 0:0:5,796
+
+
+
+2
+0:0:5,796 --> 0:0:7,4
+-You gotta go west, dude.
+
+
+3
+0:0:7,4 --> 0:0:7,75
+You gotta head home, dude.
+
+
+4
+0:0:7,75 --> 0:0:13,6
+Been on the road 30 days.
+
+
+5
+0:0:13,6 --> 0:0:15,32
+-If that deer wasn't there, I
+would have never hit this
+
+
+6
+0:0:15,32 --> 0:0:16,38
+fucking rock, dude.
+
+
+7
+0:0:16,38 --> 0:0:17,63
+[MUSIC PLAYING - ZOOBOF,
+"THE CHINESE MAN SONG"]
+
+
+8
+0:0:17,63 --> 0:0:57,18
+
+
+
+9
+0:0:57,18 --> 0:0:58,43
+-Boom!
+
+
+10
+0:0:58,43 --> 0:2:58,43
+
+
+

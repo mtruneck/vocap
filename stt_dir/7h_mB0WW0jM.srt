@@ -1,0 +1,1119 @@
+1
+0:0:8,7 --> 0:0:18,33
+Far out in space, in the center of a seething
+cosmic maelstrom.
+
+
+2
+0:0:18,33 --> 0:0:26,11
+Extreme heat. High velocities.
+
+
+3
+0:0:26,11 --> 0:0:39,469
+Atoms tear, and space literally buckles.
+
+
+4
+0:0:39,469 --> 0:0:50,92
+Photons fly out across the universe, energized
+to the limits found in nature.
+
+
+5
+0:0:50,92 --> 0:1:1,55
+Billions of years later, they enter the detectors
+of spacecraft stationed above our atmosphere.
+
+
+6
+0:1:1,55 --> 0:1:10,35
+Our ability to record them is part of a new
+age of high-energy astronomy, and a new age
+
+
+7
+0:1:10,35 --> 0:1:15,17
+of insights into nature at its most extreme.
+
+
+8
+0:1:15,17 --> 0:1:47,959
+What can we learn by witnessing the violent
+birth of a black hole?
+
+
+9
+0:1:47,959 --> 0:1:53,74
+There have been times when our understanding
+of the universe has reached a standstill,
+
+
+10
+0:1:53,74 --> 0:2:0,639
+when our grasp of the workings of time and
+space, the nature of matter and energy, do
+
+
+11
+0:2:0,639 --> 0:2:6,569
+not fully square with what we observe.
+
+
+12
+0:2:6,569 --> 0:2:14,76
+In those times, opposing world views cannot
+be resolved.
+
+
+13
+0:2:14,76 --> 0:2:25,489
+So it was in the spring of 1920, when astronomers
+debated the scale of the universe.
+
+
+14
+0:2:25,489 --> 0:2:32,49
+The scene was the National Academy of Sciences
+in Washington, DC.
+
+
+15
+0:2:32,49 --> 0:2:37,959
+On one side was the astronomer Harlow Shapley,
+known for his groundbreaking work on the size
+
+
+16
+0:2:37,959 --> 0:2:44,53
+of our galaxy and the position of the sun
+within it.
+
+
+17
+0:2:44,53 --> 0:2:51,269
+Shapley described the galaxy as an island
+universe. As large as his measurements suggested
+
+
+18
+0:2:51,269 --> 0:2:57,39
+it was, it might indeed be all there is.
+
+
+19
+0:2:57,39 --> 0:3:4,69
+That included mysterious fuzzy shapes known
+as spiral nebulae. He argued they were merely
+
+
+20
+0:3:4,69 --> 0:3:8,79
+gas clouds.
+
+
+21
+0:3:8,79 --> 0:3:15,849
+On the opposing side, Heber Curtis argued
+that some nebulae were also island universes.
+
+
+22
+0:3:15,849 --> 0:3:18,37
+That idea was not new.
+
+
+23
+0:3:18,37 --> 0:3:26,18
+165 years earlier, the German philosopher
+Emmanuel Kant described the nebulae as galaxies
+
+
+24
+0:3:26,18 --> 0:3:27,37
+unto themselves.
+
+
+25
+0:3:27,37 --> 0:3:34,53
+“It is noted only in the Milky Way,” he
+said,” that whitish clouds are seen; several
+
+
+26
+0:3:34,53 --> 0:3:40,42
+patches of similar aspect shine with faint
+light here and there throughout the aether,
+
+
+27
+0:3:40,42 --> 0:3:46,17
+and if the telescope is turned upon any of
+these it confronts us with a tight mass of
+
+
+28
+0:3:46,17 --> 0:3:49,4
+stars.”
+
+
+29
+0:3:49,4 --> 0:3:54,65
+It took a new generation of powerful telescopes
+for astronomers to finally measure the distance
+
+
+30
+0:3:54,65 --> 0:3:59,89
+to those mysterious objects.
+
+
+31
+0:3:59,89 --> 0:4:5,43
+Within a few years after the Great Debate,
+Edwin Hubble reported data showing the spiral
+
+
+32
+0:4:5,43 --> 0:4:12,84
+nebulae lay far beyond the Milky Way. That
+led to our current understanding of a universe
+
+
+33
+0:4:12,84 --> 0:4:22,4
+billions of light years across, filled with
+galaxies, and expanding rapidly.
+
+
+34
+0:4:22,4 --> 0:4:28,73
+In the years since, essential details about
+this dynamic universe have stubbornly resisted
+
+
+35
+0:4:28,73 --> 0:4:37,35
+our inquiries. The deeper we dug into the
+nature of matter and energy, the more obscure
+
+
+36
+0:4:37,35 --> 0:4:41,7
+they seemed to become.
+
+
+37
+0:4:41,7 --> 0:4:52,15
+One of the deepest mysteries of all emerged
+in the 1960s.
+
+
+38
+0:4:52,15 --> 0:5:0,82
+That was a time when nations were rapidly
+expanding and testing their nuclear arsenals.
+
+
+39
+0:5:0,82 --> 0:5:7,61
+In 1963, the United States, Soviet Union,
+and the United Kingdom signed the Limited
+
+
+40
+0:5:7,61 --> 0:5:15,92
+Test Ban Treaty, which prohibited above-ground
+nuclear testing.
+
+
+41
+0:5:15,92 --> 0:5:22,91
+To verify compliance, the United States launched
+six pairs of satellites known as Vela, from
+
+
+42
+0:5:22,91 --> 0:5:31,7
+the Spanish verb to watch over or keep vigil.
+They were designed to record a distinctive
+
+
+43
+0:5:31,7 --> 0:5:39,88
+signal of nuclear explosions, called gamma
+rays.
+
+
+44
+0:5:39,88 --> 0:5:45,52
+Gamma rays are an ultra high-energy form of
+electromagnetic radiation, a term used to
+
+
+45
+0:5:45,52 --> 0:5:55,9
+describe particles called photons that travel
+out from an energy source.
+
+
+46
+0:5:55,9 --> 0:6:4,87
+The lowest-energy form, radio, has a wavelength
+of up to 300 meters. Though we can’t see
+
+
+47
+0:6:4,87 --> 0:6:14,44
+them, they are produced naturally, for example,
+in flashes of lightning.
+
+
+48
+0:6:14,44 --> 0:6:20,48
+Our eyes are tuned to capture much smaller
+visible wavelengths down to 400 nanometers,
+
+
+49
+0:6:20,48 --> 0:6:26,1
+or 400 billionths of a meter.
+
+
+50
+0:6:26,1 --> 0:6:34,55
+Carrying even more energy, ultraviolet light
+has a wavelength as short as 10 nanometers.
+
+
+51
+0:6:34,55 --> 0:6:41,33
+X-Rays, which penetrate soft tissue in our
+bodies, can be as short as one hundredth of
+
+
+52
+0:6:41,33 --> 0:6:46,73
+a nanometer.
+
+
+53
+0:6:46,73 --> 0:6:52,71
+Gamma rays carry so much energy that their
+wavelength can be less than 10 picometers.
+
+
+54
+0:6:52,71 --> 0:6:59,63
+That’s below the diameter of an atom.
+
+
+55
+0:6:59,63 --> 0:7:6,91
+They are known as “ionizing radiation,”
+which means heavy exposure can strip electrons
+
+
+56
+0:7:6,91 --> 0:7:22,83
+from atoms in your body and kill you. Fortunately,
+gamma rays from space do not penetrate our
+
+
+57
+0:7:22,83 --> 0:7:25,19
+atmosphere.
+
+
+58
+0:7:25,19 --> 0:7:32,39
+Still, one theory says that a nearby gamma
+ray burst might have been responsible for
+
+
+59
+0:7:32,39 --> 0:7:39,63
+a mass extinction 440 million years ago, by
+destroying Earth’s ozone layer and allowing
+
+
+60
+0:7:39,63 --> 0:7:49,25
+in a flood of deadly ultraviolet radiation.
+
+
+61
+0:7:49,25 --> 0:7:54,74
+Unlike lower-energy forms of electromagnetic
+radiation, gamma rays are produced by the
+
+
+62
+0:7:54,74 --> 0:8:4,74
+often violent decay of atomic nuclei in nuclear
+reactions.
+
+
+63
+0:8:4,74 --> 0:8:13,54
+On the hunt for clandestine nuclear tests,
+on July 2, 1967, the Vela 3 and Vela 4 satellites
+
+
+64
+0:8:13,54 --> 0:8:22,55
+detected a flash of gamma radiation that was
+unlike a nuclear weapon.
+
+
+65
+0:8:22,55 --> 0:8:28,63
+As additional Vela satellites were launched,
+a team at Los Alamos National Lab continued
+
+
+66
+0:8:28,63 --> 0:8:35,56
+to find these mysterious bursts in their data.
+They were able to narrow the sky positions
+
+
+67
+0:8:35,56 --> 0:8:44,13
+of sixteen, and to rule out a terrestrial
+or solar origin.
+
+
+68
+0:8:44,13 --> 0:8:57,23
+It would take at least 30 years to figure
+out what they were.
+
+
+69
+0:8:57,23 --> 0:9:8,38
+A year after the launch of the Hubble Space
+Telescope in 1990, the 17-ton Compton Gamma
+
+
+70
+0:9:8,38 --> 0:9:17,99
+Ray Observatory was sent up, in part, to produce
+a comprehensive map of gamma ray bursts.
+
+
+71
+0:9:17,99 --> 0:9:24,79
+Over a thousand detections showed the bursts
+were randomly spread across the sky. That
+
+
+72
+0:9:24,79 --> 0:9:31,81
+led to another great debate, held in 1995,
+to stimulate fresh thinking on this long running
+
+
+73
+0:9:31,81 --> 0:9:35,2
+mystery.
+
+
+74
+0:9:35,2 --> 0:9:40,81
+Donald Lamb of the University of Chicago argued
+that they came from a recently discovered
+
+
+75
+0:9:40,81 --> 0:9:51,34
+crop of neutron stars that had escaped into
+the halo of our galaxy.
+
+
+76
+0:9:51,34 --> 0:9:56,7
+Bohdan Paczynski of Princeton University argued
+that their locations followed the general
+
+
+77
+0:9:56,7 --> 0:10:2,21
+layout of galaxies and quasars.
+
+
+78
+0:10:2,21 --> 0:10:7,23
+But at those distances, he conceded, the bursts
+would have to be the most luminous objects
+
+
+79
+0:10:7,23 --> 0:10:11,88
+known in the universe.
+
+
+80
+0:10:11,88 --> 0:10:17,9
+And yet a third of them disappear in less
+than two seconds. The rest die out within
+
+
+81
+0:10:17,9 --> 0:10:18,56
+minutes.
+
+
+82
+0:10:18,56 --> 0:10:26,46
+Were they stars flaring up within our cosmic
+neighborhood? Or were they something far more
+
+
+83
+0:10:26,46 --> 0:10:37,92
+violent – and more fundamental to the workings
+of time and space?
+
+
+84
+0:10:37,92 --> 0:10:44,81
+In the years that followed, a revolution would
+sweep the field of high-energy astronomy.
+
+
+85
+0:10:44,81 --> 0:10:52,34
+The Chandra X-ray Observatory was launched
+in 1997.
+
+
+86
+0:10:52,34 --> 0:11:4,48
+It was followed by the gamma ray satellites
+Integral in 2002, and HETE-2 in 2003.
+
+
+87
+0:11:4,48 --> 0:11:11,2
+The ultimate gamma ray hunter, Swift, was
+sent into orbit in 2004.
+
+
+88
+0:11:11,2 --> 0:11:17,48
+With ultra-violet, x-ray, and gamma ray sensors,
+Swift’s goal was to pinpoint as many as
+
+
+89
+0:11:17,48 --> 0:11:28,37
+100 gamma ray bursts per year, and to relay
+their locations down to earth within seconds.
+
+
+90
+0:11:28,37 --> 0:11:33,31
+That would allow astronomers on the ground
+to quickly aim their telescopes at the source
+
+
+91
+0:11:33,31 --> 0:11:40,22
+to capture the afterglow. That would allow
+them to measure its distance and to find clues
+
+
+92
+0:11:40,22 --> 0:11:47,34
+to what caused it in the first place.
+
+
+93
+0:11:47,34 --> 0:11:57,34
+Those clues began to appear in early 1997.
+An Italian satellite called Beppo Sax detected
+
+
+94
+0:11:57,34 --> 0:12:2,87
+a burst and relayed its location to Earth.
+
+
+95
+0:12:2,87 --> 0:12:8,74
+The Hubble Space Telescope captured this image
+of the fading afterglow, suggesting that it
+
+
+96
+0:12:8,74 --> 0:12:15,23
+came from another galaxy beyond our own.
+
+
+97
+0:12:15,23 --> 0:12:20,87
+Astronomers analyzed light captured by ground
+telescopes and found hints that it was associated
+
+
+98
+0:12:20,87 --> 0:12:25,68
+with a supernova.
+
+
+99
+0:12:25,68 --> 0:12:31,0
+The association with supernovae became stronger
+over time.
+
+
+100
+0:12:31,0 --> 0:12:36,779
+A 1998 burst coincided with this supernova.
+
+
+101
+0:12:36,779 --> 0:12:46,94
+A 2003 burst with this supernova.
+
+
+102
+0:12:46,94 --> 0:12:54,37
+And a 2006 burst with this supernova.
+
+
+103
+0:12:54,37 --> 0:13:1,76
+But these were no ordinary explosions. Scientists
+were struck by the amount of energy released,
+
+
+104
+0:13:1,76 --> 0:13:6,81
+and by their extreme brightness.
+
+
+105
+0:13:6,81 --> 0:13:14,42
+On March 19, 2008, astronomers recorded a
+burst that originated 7.5 billion light years
+
+
+106
+0:13:14,42 --> 0:13:27,1
+away. And yet its afterglow was bright enough
+to be seen with the naked eye from Earth.
+
+
+107
+0:13:27,1 --> 0:13:33,2
+That confirmed a long running suspicion: that
+the source was a narrow and extremely powerful
+
+
+108
+0:13:33,2 --> 0:13:40,93
+beam of light. What astronomers saw was actually
+the impact of this beam as it passed through
+
+
+109
+0:13:40,93 --> 0:13:47,21
+clouds of gas, heating them up to billions
+of degrees, and generating ultra high-energy
+
+
+110
+0:13:47,21 --> 0:13:51,38
+gamma rays.
+
+
+111
+0:13:51,38 --> 0:13:57,21
+Phenomena like this are not uncommon in our
+universe. You can find beams and high speed
+
+
+112
+0:13:57,21 --> 0:14:6,839
+jets wherever matter falls rapidly into stars,
+galaxies, or black holes.
+
+
+113
+0:14:6,839 --> 0:14:20,61
+Few of these are known to marshal as much
+power as a gamma ray burst.
+
+
+114
+0:14:20,61 --> 0:14:29,69
+September 13, 2008. The Swift satellite recorded
+a burst with the power of 9000 supernovae,
+
+
+115
+0:14:29,69 --> 0:14:38,67
+and a jet that was clocked at 99.9999% the
+speed of light.
+
+
+116
+0:14:38,67 --> 0:14:51,88
+April 29, 2009 brought the second most distant
+object ever recorded. The journey of this
+
+
+117
+0:14:51,88 --> 0:15:1,51
+Gamma Ray burst started 13.14 billion years
+ago.
+
+
+118
+0:15:1,51 --> 0:15:7,18
+Astronomers have begun to see these beacons
+as probes for understanding the chemical evolution
+
+
+119
+0:15:7,18 --> 0:15:13,75
+of the cosmos, going all the way back to when
+stars and galaxies were just beginning to
+
+
+120
+0:15:13,75 --> 0:15:19,36
+form.
+
+
+121
+0:15:19,36 --> 0:15:24,899
+But how does nature produce a beacon of light
+that can reach across the entire breadth of
+
+
+122
+0:15:24,899 --> 0:15:29,46
+the visible universe?
+
+
+123
+0:15:29,46 --> 0:15:35,399
+One team of scientists has been looking for
+answers close to home, in a giant galaxy some
+
+
+124
+0:15:35,399 --> 0:15:43,39
+50 million light years away, known as M87.
+
+
+125
+0:15:43,39 --> 0:15:49,839
+The Event Horizon Telescope links telescopes
+thousands of kilometers apart into a single
+
+
+126
+0:15:49,839 --> 0:15:58,69
+giant instrument. The astronomers targeted
+sub-millimeter radio waves because they have
+
+
+127
+0:15:58,69 --> 0:16:7,29
+just the right frequency to move through dust
+and gas in the core of M87.
+
+
+128
+0:16:7,29 --> 0:16:15,13
+That galaxy has one of the largest black holes
+known, at 6.6 billion solar masses.
+
+
+129
+0:16:15,13 --> 0:16:22,11
+The resolution of this system was enough to
+collect data on a region just outside the
+
+
+130
+0:16:22,11 --> 0:16:27,62
+event horizon of the black hole, the point
+beyond which nothing can escape its gravitational
+
+
+131
+0:16:27,62 --> 0:16:31,26
+pull.
+
+
+132
+0:16:31,26 --> 0:16:37,67
+The scientists were able to see down to the
+base of a spectacular jet that blasts continuously
+
+
+133
+0:16:37,67 --> 0:16:42,92
+out of M87’s core.
+
+
+134
+0:16:42,92 --> 0:16:49,24
+This region is held under the spell of extreme
+gravity.
+
+
+135
+0:16:49,24 --> 0:16:55,54
+Subject to what Albert Einstein called frame
+dragging, space and time are pulled along
+
+
+136
+0:16:55,54 --> 0:17:1,62
+on a path that leads into the black hole.
+
+
+137
+0:17:1,62 --> 0:17:8,699
+As gas, dust, stars or planets fall into the
+hole, they form into a disk that spirals in
+
+
+138
+0:17:8,699 --> 0:17:12,51
+with the flow of space time, reaching the
+speed of light just as it hits the event horizon.
+
+
+139
+0:17:12,51 --> 0:17:17,239
+The spinning motion of this so-called “accretion
+disk” can channel some of the inflowing
+
+
+140
+0:17:17,239 --> 0:17:28,84
+matter out into a pair of high-energy beams,
+or jets.
+
+
+141
+0:17:28,84 --> 0:17:37,409
+How a jet can form was shown in a supercomputer
+simulation of a short gamma ray burst.
+
+
+142
+0:17:37,409 --> 0:17:42,73
+It was based on a 40-millisecond long burst
+recorded by Swift on May 9, 2005. It took
+
+
+143
+0:17:42,73 --> 0:17:45,98
+five minutes for the afterglow to fade, but
+that was enough for astronomers to capture
+
+
+144
+0:17:45,98 --> 0:17:47,279
+crucial details.
+
+
+145
+0:17:47,279 --> 0:17:58,639
+It had come from a giant galaxy 2.6 billion
+light years away, filled with old stars.
+
+
+146
+0:17:58,639 --> 0:18:4,49
+Scientists suspected that this was a case
+of two dead stars falling into a catastrophic
+
+
+147
+0:18:4,49 --> 0:18:6,61
+embrace.
+
+
+148
+0:18:6,61 --> 0:18:13,419
+Orbiting each other, they moved ever closer,
+gradually gaining speed.
+
+
+149
+0:18:13,419 --> 0:18:22,269
+At the end of the line, they began tearing
+each other apart, until they finally merged.
+
+
+150
+0:18:22,269 --> 0:18:33,909
+NASA scientists simulated the final 35 thousandths
+of a second, when a black hole forms.
+
+
+151
+0:18:33,909 --> 0:18:40,139
+As the two objects move together, their mass
+is scrambled into a dense, hot cloud of swirling
+
+
+152
+0:18:40,139 --> 0:18:43,72
+debris, shown on the left side of the image.
+
+
+153
+0:18:43,72 --> 0:18:50,69
+On the right, are magnetic fields that spin
+up off this cloud. Blue represents magnetic
+
+
+154
+0:18:50,69 --> 0:18:58,47
+strength a billion times greater than that
+of the Sun.
+
+
+155
+0:18:58,47 --> 0:19:4,929
+These fields begin to channel a cloud of plasma
+that surrounds the newly formed black hole.
+
+
+156
+0:19:4,929 --> 0:19:12,34
+Chaos reigns. But the new structure becomes
+steadily more organized, and the magnetic
+
+
+157
+0:19:12,34 --> 0:19:20,95
+field takes on the character of a jet.
+
+
+158
+0:19:20,95 --> 0:19:26,239
+Within less than a second after the black
+hole is born, it launches a jet of particles
+
+
+159
+0:19:26,239 --> 0:19:31,489
+to a speed approaching light.
+
+
+160
+0:19:31,489 --> 0:19:41,289
+A similar chain of events, in the death of
+a large star, is responsible for longer gamma
+
+
+161
+0:19:41,289 --> 0:19:43,7
+ray bursts.
+
+
+162
+0:19:43,7 --> 0:19:51,34
+Stars resist gravity by generating photons
+that push outward on their enormous mass.
+
+
+163
+0:19:51,34 --> 0:19:57,35
+But the weight of a large star’s core increases
+from the accumulation of heavy elements produced
+
+
+164
+0:19:57,35 --> 0:20:9,799
+in nuclear fusion. In time, its outer layers
+cannot resist the inward pull… and the star
+
+
+165
+0:20:9,799 --> 0:20:14,59
+collapses.
+
+
+166
+0:20:14,59 --> 0:20:29,519
+The crash produces a shock wave that races
+through the star… and obliterates it.
+
+
+167
+0:20:29,519 --> 0:20:36,279
+In the largest of these dying stars, known
+as collapsars or hypernovae, a black hole
+
+
+168
+0:20:36,279 --> 0:20:41,179
+forms in the collapse.
+
+
+169
+0:20:41,179 --> 0:20:47,94
+Matter flowing in forms a disk. Charged particles
+create magnetic fields that twist off this
+
+
+170
+0:20:47,94 --> 0:21:10,559
+disk, sending a portion out in high-speed
+jets.
+
+
+171
+0:21:10,559 --> 0:21:21,2
+Simulations show that the jet is powerful
+enough to plow its way through the star. In
+
+
+172
+0:21:21,2 --> 0:21:36,359
+so doing, it may help trigger the explosion.
+
+
+173
+0:21:36,359 --> 0:21:45,169
+The birth of a black hole does not simply
+light up the universe.
+
+
+174
+0:21:45,169 --> 0:21:50,629
+It is a crucial event in the spread of heavy
+elements that seed the birth of new solar
+
+
+175
+0:21:50,629 --> 0:21:57,7
+systems and planets.
+
+
+176
+0:21:57,7 --> 0:22:6,919
+But the black hole birth cries that we can
+now register with a fleet of high-energy telescopes
+
+
+177
+0:22:6,919 --> 0:22:14,509
+are part of wider response to gravity’s
+convulsive power.
+
+
+178
+0:22:14,509 --> 0:22:22,159
+Take the gamma ray burst recorded by the Swift
+satellite in late March 2011.
+
+
+179
+0:22:22,159 --> 0:22:28,45
+It came from a normally quiescent galaxy in
+the Constellation Draco, 3.8 billion light
+
+
+180
+0:22:28,45 --> 0:22:34,179
+years away.
+
+
+181
+0:22:34,179 --> 0:22:40,649
+Most Gamma ray bursts fade within seconds
+or minutes. This one lasted four and a half
+
+
+182
+0:22:40,649 --> 0:22:45,419
+hours.
+
+
+183
+0:22:45,419 --> 0:22:50,269
+Scientists concluded that it could not have
+come from a supernova.
+
+
+184
+0:22:50,269 --> 0:22:56,389
+They proposed instead that a large star had
+probably been thrown off track during an encounter
+
+
+185
+0:22:56,389 --> 0:23:3,419
+with another star. It moved too close to a
+supermassive black hole in the center of the
+
+
+186
+0:23:3,419 --> 0:23:7,499
+galaxy.
+
+
+187
+0:23:7,499 --> 0:23:16,32
+This animation shows what happened. The black
+hole tore the star apart, and launched a jet
+
+
+188
+0:23:16,32 --> 0:23:24,799
+from matter that swirled in.
+
+
+189
+0:23:24,799 --> 0:23:32,499
+The jet happened to be pointed right at Earth.
+
+
+190
+0:23:32,499 --> 0:23:38,799
+We can be grateful this blast was so far away,
+and that we are not in the firing line of
+
+
+191
+0:23:38,799 --> 0:23:46,97
+a supermassive black hole that lies in the
+center of our own galaxy.
+
+
+192
+0:23:46,97 --> 0:23:56,429
+Astronomers have observed giant stars whipped
+to high speeds by this monster.
+
+
+193
+0:23:56,429 --> 0:24:3,309
+Should one of these stars be thrown off its
+path, it could become prey.
+
+
+194
+0:24:3,309 --> 0:24:11,549
+The monster will surely let distant observers
+know of its conquest, with a blinding flash
+
+
+195
+0:24:11,549 --> 0:26:11,549
+that’s visible across the universe.
+
+

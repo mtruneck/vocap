@@ -1,0 +1,3080 @@
+1
+0:0:17,52 --> 0:0:38,69
+In 
+
+
+2
+0:0:38,69 --> 0:0:58,35
+the 
+
+
+3
+0:0:58,35 --> 0:1:6,53
+last lecture we had looked at some of the
+issues in the location of facilities and we
+
+
+4
+0:1:6,53 --> 0:1:14,22
+had got a broad overview of the problem of
+location of different types of facilities.
+
+
+5
+0:1:14,22 --> 0:1:19,3
+In this particular lecture we are going to
+be talking about some mathematical models
+
+
+6
+0:1:19,3 --> 0:1:32,36
+for facility location. In fact before we take
+up any mathematical models we initiate the
+
+
+7
+0:1:32,36 --> 0:1:32,83
+discussion.
+
+
+8
+0:1:32,83 --> 0:1:42,33
+I will discuss the case study. This case study
+is actually based on paper that Prof. Prem
+
+
+9
+0:1:42,33 --> 0:1:48,19
+Vrat and I wrote and this is the reference.
+It is called a decision model for a multi
+
+
+10
+0:1:48,19 --> 0:1:56,61
+objective plant location problem and the basic
+intention in this particular case study is
+
+
+11
+0:1:56,61 --> 0:2:4,66
+to look at various factors which are relevant
+for the plant location problem and try to
+
+
+12
+0:2:4,66 --> 0:2:13,42
+then determine after conducting a feasibility
+study as to what should be the best location
+
+
+13
+0:2:13,42 --> 0:2:20,36
+for the manufacturing plant. So this would
+be the kind of study that any new entrepreneur
+
+
+14
+0:2:20,36 --> 0:2:31,2
+or any new company contemplating a new location
+for a manufacturing plant would go through.
+
+
+15
+0:2:31,2 --> 0:2:38,11
+In this particular case study the objective
+of the location was actually to setup a straw
+
+
+16
+0:2:38,11 --> 0:2:48,72
+board plant. Straw board as you know is a
+packaging material which is made from industrial
+
+
+17
+0:2:48,72 --> 0:2:58,44
+waste and basically the idea was that this
+would be setup in an industrial setting so
+
+
+18
+0:2:58,44 --> 0:3:5,71
+that there would be availability of industrial
+waste automatically and that particular industrial
+
+
+19
+0:3:5,71 --> 0:3:14,41
+waste would serve as the input for the plant
+and this would then be processed to supply
+
+
+20
+0:3:14,41 --> 0:3:19,37
+various industries needing packaging material
+in the form of cottons and so on and various
+
+
+21
+0:3:19,37 --> 0:3:30,79
+things. This was the basic idea behind the
+location of this particular plant. Now what
+
+
+22
+0:3:30,79 --> 0:3:40,4
+was actually done was that in order to conduct
+this study systematically, interviews were
+
+
+23
+0:3:40,4 --> 0:3:48,26
+carried out with the plant managers and various
+other people in the organization to identify
+
+
+24
+0:3:48,26 --> 0:3:55,49
+what were the various factors that they consider
+important for this particular decision.
+
+
+25
+0:3:55,49 --> 0:4:4,8
+After series of discussion with the management
+it was found that the factors that needed
+
+
+26
+0:4:4,8 --> 0:4:13,61
+to be considered are A nearness to raw material
+source. Obviously the nearer you are to the
+
+
+27
+0:4:13,61 --> 0:4:19,69
+raw material source, it would cut down the
+cost of transportation and it is also easy
+
+
+28
+0:4:19,69 --> 0:4:26,569
+to get your raw materials. Second factor that
+was considered important was the availability
+
+
+29
+0:4:26,569 --> 0:4:35,9
+and dependability of power. Then the manager
+identifies transport facility as an important
+
+
+30
+0:4:35,9 --> 0:4:44,36
+factor. Labor supply was another important
+factor, employee facilities, the kinds of
+
+
+31
+0:4:44,36 --> 0:4:52,449
+facility that employees will have in terms
+of shopping recreation schools etc. This was
+
+
+32
+0:4:52,449 --> 0:4:57,539
+considered to be a factor in the beginning.
+Competition for the market was considered
+
+
+33
+0:4:57,539 --> 0:5:3,33
+to be another major factor because if they
+were already a large number of manufactures
+
+
+34
+0:5:3,33 --> 0:5:9,86
+of straw board in that particular area it
+would be difficult to sell your product. So
+
+
+35
+0:5:9,86 --> 0:5:15,3
+the lesser the competition for the market,
+the better it was. Proximity to market was
+
+
+36
+0:5:15,3 --> 0:5:22,909
+considered another important factor. Government
+incentives, as we know, typically the government
+
+
+37
+0:5:22,909 --> 0:5:29,3
+might want to give certain kinds of incentives
+for certain locations may be to encourage
+
+
+38
+0:5:29,3 --> 0:5:37,669
+development of certain backward areas. These
+are the kinds of incentives that are available
+
+
+39
+0:5:37,669 --> 0:5:42,789
+and then finally the cost of land in that
+particular site which we are considering.
+
+
+40
+0:5:42,789 --> 0:5:48,3
+In fact you see these factors are almost generic
+in any plant location problem. You would have
+
+
+41
+0:5:48,3 --> 0:5:54,4
+to consider various factors. The only thing
+that would happen is the relative importance
+
+
+42
+0:5:54,4 --> 0:6:0,65
+you might give in these factors. They could
+vary depending up on the nature of the plant.
+
+
+43
+0:6:0,65 --> 0:6:7,99
+Our approach in the problem is essentially
+something very simple and it is summarized
+
+
+44
+0:6:7,99 --> 0:6:9,169
+in the form of this table.
+
+
+45
+0:6:9,169 --> 0:6:19,469
+What you would like to do is we have identified
+the objectives that we have. You would like
+
+
+46
+0:6:19,469 --> 0:6:27,389
+to prioritize these objectives and give certain
+weights and then we identify alternative locations
+
+
+47
+0:6:27,389 --> 0:6:38,279
+A1, A2 and up to Am and each alternative location
+is evaluated on the corresponding objective.
+
+
+48
+0:6:38,279 --> 0:6:45,539
+For instance P11 is the score given to the
+first alternative on the objective, P12 is
+
+
+49
+0:6:45,539 --> 0:6:52,479
+the score given to the first alternative on
+the second objective and so on. So if we can
+
+
+50
+0:6:52,479 --> 0:6:59,259
+then get these scores, somehow then what we
+simply have to do is we can calculate the
+
+
+51
+0:6:59,259 --> 0:7:7,27
+effectiveness of alternative A1, alternative
+A2, alternative Em if there are m alternatives
+
+
+52
+0:7:7,27 --> 0:7:15,219
+we and get a kind of a score. This is very
+similar to the manner in which we evaluate
+
+
+53
+0:7:15,219 --> 0:7:20,839
+students in a class. These are the candidate
+location of the candidates (Refer Slide Time:
+
+
+54
+0:7:20,839 --> 0:7:27,189
+07:19), and these are the performances in
+various subjects as you go through. Each subject
+
+
+55
+0:7:27,189 --> 0:7:32,189
+has different weightage or different number
+of credits and what we assign basically to
+
+
+56
+0:7:32,189 --> 0:7:40,77
+you is some kind of marks based on some scheme
+and ultimately you calculate a CGPA or a grade
+
+
+57
+0:7:40,77 --> 0:7:46,59
+point average. So what we are trying to say
+here is that, we use this kind of a scheme
+
+
+58
+0:7:46,59 --> 0:7:52,71
+to evaluate different alternative locations.
+Now let us see how it can be done.
+
+
+59
+0:7:52,71 --> 0:8:1,99
+Earlier however we do what would be necessary
+are the various objectives that we have, the
+
+
+60
+0:8:1,99 --> 0:8:5,589
+objective that we just listed out nearest
+to the raw material source availability and
+
+
+61
+0:8:5,589 --> 0:8:10,879
+dependability of powers and so on. You have
+to score these objectives to determine the
+
+
+62
+0:8:10,879 --> 0:8:17,409
+weights, so what is actually being suggested
+here is that if you construct a triangular
+
+
+63
+0:8:17,409 --> 0:8:21,61
+matrix, the purpose of triangular matrix is
+because there are n objectives. There will
+
+
+64
+0:8:21,61 --> 0:8:26,949
+be nC2 possible comparisons or pair wise comparisons.
+All pair wise comparisons. So we look for
+
+
+65
+0:8:26,949 --> 0:8:33,26
+pair wise comparisons, for instance in comparing
+objective 1 with objective 3. You might want
+
+
+66
+0:8:33,26 --> 0:8:41,13
+to give o1, two marks whatever the interpretation
+is; to these marks. Then ultimately you can
+
+
+67
+0:8:41,13 --> 0:8:49,96
+determine the scores by counting the number
+of scores or votes polled by different objectives.
+
+
+68
+0:8:49,96 --> 0:8:55,7
+So you will able to get scores. The basic
+advantage of scheme like this is when you
+
+
+69
+0:8:55,7 --> 0:9:1,6
+have a large number of objectives; it is very
+difficult to give weights to the individual
+
+
+70
+0:9:1,6 --> 0:9:7,24
+objectives. But if you are comparing only
+2 at a time, it is much easy for a person
+
+
+71
+0:9:7,24 --> 0:9:12,72
+or a manager to say between o1 and o3; I can
+compare and say o1 is more important. The
+
+
+72
+0:9:12,72 --> 0:9:21,3
+difference is medium. So it is much easier
+to adopt a pair wise comparison approach and
+
+
+73
+0:9:21,3 --> 0:9:24,34
+evolve a set of scores.
+
+
+74
+0:9:24,34 --> 0:9:34,74
+For instance for this particular problem what
+was done was this triangular matrix was constructed
+
+
+75
+0:9:34,74 --> 0:9:47,32
+and these were the objectives A, B, C, D,
+E, F, G, H, I. The management was asked to
+
+
+76
+0:9:47,32 --> 0:9:54,5
+compare between A and B and the management
+felt that A was more important and the difference
+
+
+77
+0:9:54,5 --> 0:10:2,21
+was medium. So you wrote A2 here. Similarly
+in comparing for instance C and G, the management
+
+
+78
+0:10:2,21 --> 0:10:12,45
+felt that G was more important, but the difference
+was minor. So you put minor. This is because
+
+
+79
+0:10:12,45 --> 0:10:19,45
+you are basically distinguishing between (Refer
+Slide Time: 10:17) and then you say how much
+
+
+80
+0:10:19,45 --> 0:10:29,21
+better, so this is a simple way of doing it.
+So having got this information we can simply
+
+
+81
+0:10:29,21 --> 0:10:35,53
+compute, for instance total A, you can count
+the rows in this particular row. For B it
+
+
+82
+0:10:35,53 --> 0:10:41,56
+can be in this column and this row for C,
+you can count the votes here and so on. So
+
+
+83
+0:10:41,56 --> 0:10:51,65
+you would know exactly what is the score or
+the weightage for each of these various objectives.
+
+
+84
+0:10:51,65 --> 0:10:57,87
+So in this particular example we have these
+objectives A B C D E F G H I which were nearness
+
+
+85
+0:10:57,87 --> 0:11:4,47
+to raw materials source availability and dependability
+of power, transport, facilities etc and the
+
+
+86
+0:11:4,47 --> 0:11:13,76
+total weightage given to these particular
+factors came out from their as 16, 4, 6, 3,
+
+
+87
+0:11:13,76 --> 0:11:27,6
+0, 14, 8, 12, 8, 7, and this was what was
+basically involved here and the weightage
+
+
+88
+0:11:27,6 --> 0:11:33,98
+for all these the percentage weightage you
+sum it up this seems to be an error here sum
+
+
+89
+0:11:33,98 --> 0:11:42,82
+it up and then divide this by the total you
+get 23.0 percent weightage given to this particular
+
+
+90
+0:11:42,82 --> 0:11:47,95
+factor here and so on similarly so hundred
+percent weightage this is how it is finally
+
+
+91
+0:11:47,95 --> 0:11:56,83
+distributed to these individual objectives.
+So this was the rational way of arriving at
+
+
+92
+0:11:56,83 --> 0:12:4,26
+these weightages, basically using pair wise
+comparisons. There are a number of techniques
+
+
+93
+0:12:4,26 --> 0:12:11,94
+available these days which you can employ
+if you so desire. AHP is one example. Analytic
+
+
+94
+0:12:11,94 --> 0:12:16,8
+hierarchy process is also pair wise comparison
+technique which essentially gives you these
+
+
+95
+0:12:16,8 --> 0:12:22,35
+weights and so on. But you have to go through
+a similar kind of an exercise.
+
+
+96
+0:12:22,35 --> 0:12:31,55
+So ultimately the results for this problem
+could be classified as the above. A survey
+
+
+97
+0:12:31,55 --> 0:12:38,11
+was conducted as to where the location should
+be. Now the management in this case was interested
+
+
+98
+0:12:38,11 --> 0:12:43,62
+that the location of the plant should be anywhere
+in north India. We did not want to go to South
+
+
+99
+0:12:43,62 --> 0:12:52,93
+or West so the major industrial districts
+in the north were considered and these districts
+
+
+100
+0:12:52,93 --> 0:13:1,84
+Panipat, Sonepat, Rohtak, Meerut, Faridabad,
+Gurgaon, and Ghaziabad. These were the tentative
+
+
+101
+0:13:1,84 --> 0:13:10,42
+locations that were possible for setting up
+the plant and now we have these objectives
+
+
+102
+0:13:10,42 --> 0:13:14,86
+and these are the weightages that we have
+discovered and just determined from the pair
+
+
+103
+0:13:14,86 --> 0:13:23,42
+wise comparisons. Finally what we are required
+to do is to evaluate each of these locations
+
+
+104
+0:13:23,42 --> 0:13:29,2
+on these individual factors. If you recall
+the analogy this is not very difficult, it
+
+
+105
+0:13:29,2 --> 0:13:34,7
+is like saying if this subject is Physics
+I have to give quizzes in Physics to determine
+
+
+106
+0:13:34,7 --> 0:13:39,29
+the marks. I have to determine this factor
+which I will find out and so on. What we are
+
+
+107
+0:13:39,29 --> 0:13:50,36
+trying to say is that the first factor which
+was essentially near to raw materials sources
+
+
+108
+0:13:50,36 --> 0:13:56,87
+was found in this particular classification,
+nearness to raw material source, Rohtak was
+
+
+109
+0:13:56,87 --> 0:13:57,85
+the best.
+
+
+110
+0:13:57,85 --> 0:14:5,81
+Hence, Rohtak got 100 points. The scheme was
+the worst location which will be given 50
+
+
+111
+0:14:5,81 --> 0:14:10,36
+points and the best location will be given
+100 points. It is very much like trying to
+
+
+112
+0:14:10,36 --> 0:14:16,6
+say that we normally do not fail candidates
+in the IIT and therefore the worst fellow
+
+
+113
+0:14:16,6 --> 0:14:21,53
+will get 50 marks. The best fellow will get
+100 marks in the particular. So in comparing
+
+
+114
+0:14:21,53 --> 0:14:30,73
+these, in terms of distance in the raw material
+source, Rohtak was relatively raw at that
+
+
+115
+0:14:30,73 --> 0:14:37,66
+time and plenty of raw materials were available
+there and so on, so it was 100 which were
+
+
+116
+0:14:37,66 --> 0:14:44,43
+the worst. Faridabad, Gurgaon and Ghaziabad
+were all low in the hierarchy and Faridabad
+
+
+117
+0:14:44,43 --> 0:14:54,13
+was the worst. Faridabad was the worst although
+it is an industrial town. Whatever, there
+
+
+118
+0:14:54,13 --> 0:15:1,73
+were already large number of industrial units
+set up for the availability of raw materials.
+
+
+119
+0:15:1,73 --> 0:15:6,99
+It was difficult, more difficult as compared
+to other factors. So this was the scheme,
+
+
+120
+0:15:6,99 --> 0:15:15,92
+this was on a normalized scale of 50 to 100.
+Similarly all these evaluations were done
+
+
+121
+0:15:15,92 --> 0:15:22,27
+on a normalized scale from 50 to 100. For
+instance in the second objective it was felt
+
+
+122
+0:15:22,27 --> 0:15:33,87
+that Sonepat was the best and Meerut and Gahziabad
+were the worst. For instance the third factor
+
+
+123
+0:15:33,87 --> 0:15:40,27
+was transport facilities. As far as transport
+facilities were concerned, it was Panipat
+
+
+124
+0:15:40,27 --> 0:15:47,35
+that was the best out of these options. It
+got 100 points, Rohtak was petty good, Faridabad
+
+
+125
+0:15:47,35 --> 0:15:57,279
+was petty good Gurgaon was bad and Ghaziabad
+was okay. So this was basically an evaluation
+
+
+126
+0:15:57,279 --> 0:16:2,38
+of these locations on all the factors.
+
+
+127
+0:16:2,38 --> 0:16:9,1
+Once all these scores are available what we
+can do is 90 into 0.23, 80 into 0.057 so on.
+
+
+128
+0:16:9,1 --> 0:16:18,31
+The final points that you get here are 86.1
+and similarly 85.98, 91.16, 75, 61, 71, 64
+
+
+129
+0:16:18,31 --> 0:16:30,16
+etc. So from this analysis it emerged that
+Rohtak was the best option out of these. Now
+
+
+130
+0:16:30,16 --> 0:16:35,7
+however you find that this was a very good
+option, no doubt but the second best option
+
+
+131
+0:16:35,7 --> 0:16:42,42
+was petty close. This is 91 marks, this is
+86 marks. So it is like trying to say that
+
+
+132
+0:16:42,42 --> 0:16:46,9
+a company comes to recruit, you need not only
+recruit the best candidate, but the second
+
+
+133
+0:16:46,9 --> 0:16:53,11
+best, and the third best will also get jobs.
+So in the same sense you find that here 91
+
+
+134
+0:16:53,11 --> 0:16:58,9
+and then 86 will be petty close and then 85,
+0.8 which is almost 86, so these are petty
+
+
+135
+0:16:58,9 --> 0:17:7,89
+close. So you could do a more detailed comparison
+between the first three. What this means is
+
+
+136
+0:17:7,89 --> 0:17:15,809
+that Rohtak was best on one, two, three and
+four. Out of these various objectives, Panipet
+
+
+137
+0:17:15,809 --> 0:17:22,9
+was the best one on only two of these objectives.
+
+
+138
+0:17:22,9 --> 0:17:30,1
+Let us see where Rohtak was worst. It was
+worst on this particular factor i.e., 60 marks.
+
+
+139
+0:17:30,1 --> 0:17:36,25
+But it was even worst on this factor and this
+was likely to be better but then it was best.
+
+
+140
+0:17:36,25 --> 0:17:45,73
+So on the whole it seems that Rohtak would
+be the optimal location. So the optimal location
+
+
+141
+0:17:45,73 --> 0:17:51,85
+was in fact suggested as Rohtak and the company
+adopted this. After many years the feed back
+
+
+142
+0:17:51,85 --> 0:17:56,26
+received from the company is that they are
+very happy in Rohtak which means the decision
+
+
+143
+0:17:56,26 --> 0:18:1,35
+that was taken more than 15 years ago was
+probably the right decision for them in terms
+
+
+144
+0:18:1,35 --> 0:18:8,8
+of whatever we did. Now having used the decision
+matrix for alternative location, you could
+
+
+145
+0:18:8,8 --> 0:18:15,16
+use this methodology for any real life situation.
+You see the tricky part here is how do you
+
+
+146
+0:18:15,16 --> 0:18:18,72
+assign these marks to these candidates?
+
+
+147
+0:18:18,72 --> 0:18:24,12
+If a particular factor is let us say capital
+cost, then the highest capital cost will be
+
+
+148
+0:18:24,12 --> 0:18:30,64
+the most undesirable, least capital cost will
+be the most desirable and so on. So the manner
+
+
+149
+0:18:30,64 --> 0:18:36,559
+in which you assign these marks is basically
+the process of normalization.
+
+
+150
+0:18:36,559 --> 0:18:44,63
+Now what about normalization? What we mean
+in normalization is that depending up on the
+
+
+151
+0:18:44,63 --> 0:18:50,84
+objectives suppose our objective is capital
+cost and we have investigated a number of
+
+
+152
+0:18:50,84 --> 0:18:57,74
+different alternatives then in the alternatives
+the one which is the highest in terms of capital
+
+
+153
+0:18:57,74 --> 0:19:4,76
+cost should be given the least marks, i.e.,
+is 20 the one which is the lowest should get
+
+
+154
+0:19:4,76 --> 0:19:12,4
+the highest marks which is 80 and the most
+convenient way to represent this relationship
+
+
+155
+0:19:12,4 --> 0:19:24,76
+is a linear straight line or a normal straight
+line. You might use a normalization curve
+
+
+156
+0:19:24,76 --> 0:19:30,77
+of this kind or a teacher who is giving a
+normalization curve of this kind. So this
+
+
+157
+0:19:30,77 --> 0:19:38,1
+is exactly what normalization would mean.
+It is not necessarily true that normalization
+
+
+158
+0:19:38,1 --> 0:19:47,17
+would be linear. Take the same example of
+the capital cost for instance we have something
+
+
+159
+0:19:47,17 --> 0:19:54,35
+like this, the lowest capital cost is L and
+the highest capital cost is H. The company
+
+
+160
+0:19:54,35 --> 0:20:0,21
+might be indifferent for instance, lowest
+cost might be 2 lakh or whatever and say upto
+
+
+161
+0:20:0,21 --> 0:20:3,99
+3 lakh. The company says it does not make
+much of a difference. You are indifferent
+
+
+162
+0:20:3,99 --> 0:20:11,15
+between 2 and 3 lakhs. So you give 80 marks
+to all of them who have done this particular
+
+
+163
+0:20:11,15 --> 0:20:19,309
+factor and then from here it could be a straight
+line, it could be a concave function or a
+
+
+164
+0:20:19,309 --> 0:20:27,16
+convex function as the case may be. The difference
+between the concave and convex function would
+
+
+165
+0:20:27,16 --> 0:20:36,28
+be that in the convex function which you have
+here, the drop is very steep in the beginning.
+
+
+166
+0:20:36,28 --> 0:20:41,3
+Slope is highest here and it tends to fall
+and the minimum slope is here. So it is like
+
+
+167
+0:20:41,3 --> 0:20:49,3
+saying you are penalizing the candidate most.
+That is capital cost. There is a fall in capital
+
+
+168
+0:20:49,3 --> 0:20:55,37
+cost. You are penalizing here and relatively
+at this point, the rate of penalty is decreasing.
+
+
+169
+0:20:55,37 --> 0:21:4,4
+It is the reverse in the case of the other
+function. Now what I am simply trying to emphasize
+
+
+170
+0:21:4,4 --> 0:21:10,51
+here is if you give careful thought to normalization,
+this is a very important strategic decision
+
+
+171
+0:21:10,51 --> 0:21:19,35
+location and what is normalization? Normalization
+curves represent your attitudes towards the
+
+
+172
+0:21:19,35 --> 0:21:22,64
+particular object.
+
+
+173
+0:21:22,64 --> 0:21:29,98
+For instance, if you have a factor like labor
+attitude, you might want to classify labor
+
+
+174
+0:21:29,98 --> 0:21:37,39
+attitude into three categories, bad, medium
+and good. You might say rested where the labor
+
+
+175
+0:21:37,39 --> 0:21:46,86
+is so restive. It is willing to pick up agenda
+for every small provocation. So it is a restive
+
+
+176
+0:21:46,86 --> 0:21:53,39
+labor. You have a satisfactory labor. The
+labor is willing to be cooperative and you
+
+
+177
+0:21:53,39 --> 0:21:59,8
+might have a cooperative labor which is willing
+to do everything. Obviously this is the best.
+
+
+178
+0:21:59,8 --> 0:22:4,21
+So you give maximum marks. Let us say 80,
+between these you give 60 between these you
+
+
+179
+0:22:4,21 --> 0:22:9,17
+give 20. So essentially the normalization
+curve for such subjective factors will be
+
+
+180
+0:22:9,17 --> 0:22:14,82
+a staircase function of this kind where you
+can decide the length or the height of the
+
+
+181
+0:22:14,82 --> 0:22:25,54
+stair in each case. It is not necessarily
+true that the normalization curve is linear
+
+
+182
+0:22:25,54 --> 0:22:30,2
+or be portions of linear functions.
+(Refer Slide Time: 22:34)
+
+
+183
+0:22:30,2 --> 0:22:37,86
+A normalization curve could also be nonlinear.
+So a nonlinear function is Present, so this
+
+
+184
+0:22:37,86 --> 0:22:45,4
+is the least desirable. This is the most desirable.
+The most desirable aspect is given the maximum
+
+
+185
+0:22:45,4 --> 0:22:49,91
+number of points. The least desirable is given
+the least number of points and you can think
+
+
+186
+0:22:49,91 --> 0:22:56,69
+of what would be the nature of this curve
+for your case. So the point is that once we
+
+
+187
+0:22:56,69 --> 0:23:3,69
+have developed the normalization curves for
+individual objectives, this process becomes
+
+
+188
+0:23:3,69 --> 0:23:9,7
+very objective. All that you need to do is
+develop the weights for the objectives like
+
+
+189
+0:23:9,7 --> 0:23:14,53
+we did through the triangular matrix, determine
+the normalization curves and feed them to
+
+
+190
+0:23:14,53 --> 0:23:22,98
+a computer and then feed the data corresponding
+to individual alternatives locations into
+
+
+191
+0:23:22,98 --> 0:23:34,48
+the program and then you can get the final
+solution for various options. So the idea
+
+
+192
+0:23:34,48 --> 0:23:41,929
+here was that we were dealing with the practical
+plant location problem. Practical plant location
+
+
+193
+0:23:41,929 --> 0:23:48,44
+problem has both subjective and objective
+factors. We had here a mechanism to deal with
+
+
+194
+0:23:48,44 --> 0:23:55,679
+both subjective and objective factors but
+there was no attempt at optimization.
+
+
+195
+0:23:55,679 --> 0:24:1,9
+What was the kind of problems that we were
+considering? We looked through the feasibility
+
+
+196
+0:24:1,9 --> 0:24:7,44
+report or identified a number of locations
+and we were trying to choose the best location.
+
+
+197
+0:24:7,44 --> 0:24:13,26
+So it was the problem of choosing the best
+out of the available options. That is the
+
+
+198
+0:24:13,26 --> 0:24:17,62
+kind of the problem that we were considering,
+however in facility location we have certain
+
+
+199
+0:24:17,62 --> 0:24:25,309
+mathematical models where the intention is
+to determine the best or the ideal location
+
+
+200
+0:24:25,309 --> 0:24:33,299
+and that particular ideal location can then
+motivate you to locate your facilities wherever
+
+
+201
+0:24:33,299 --> 0:24:39,16
+they are. Let us see the models and we looked
+at some simple models, for facility location
+
+
+202
+0:24:39,16 --> 0:24:43,309
+in this context.
+
+
+203
+0:24:43,309 --> 0:24:50,9
+Let us talk about the problem which is known
+in lecture as the single facility location
+
+
+204
+0:24:50,9 --> 0:24:56,2
+problem. The single facility location problem
+is essentially the problem where you want
+
+
+205
+0:24:56,2 --> 0:25:2,96
+to locate one new facility and this problem
+occurs very frequently in life. Here are some
+
+
+206
+0:25:2,96 --> 0:25:8,86
+examples of what we call the single facility
+location problem. For instance you want to
+
+
+207
+0:25:8,86 --> 0:25:14,73
+determine the location of a new lathe in a
+job shop and you already have 23 lathes. You
+
+
+208
+0:25:14,73 --> 0:25:18,88
+bring in another lathe, the 24th one and you
+are trying to find out where it should be
+
+
+209
+0:25:18,88 --> 0:25:22,71
+located. It is a single facility location
+problem because you are trying to find out
+
+
+210
+0:25:22,71 --> 0:25:29,99
+the location. A tool crib in a factory is
+the place where we have the workers taking
+
+
+211
+0:25:29,99 --> 0:25:32,84
+their tools and deposit their tool every time.
+
+
+212
+0:25:32,84 --> 0:25:37,3
+So it is a common facility for all workers.
+You might want to find out what is the best
+
+
+213
+0:25:37,3 --> 0:25:42,809
+location of the tool crib such that the total
+travel distance of all these workers is minimized
+
+
+214
+0:25:42,809 --> 0:25:47,71
+which means total time is minimized. This
+means their productivity is maximized because
+
+
+215
+0:25:47,71 --> 0:25:52,99
+they are wasting less time in computing, in
+that sense you could talk about the location
+
+
+216
+0:25:52,99 --> 0:25:59,98
+of a new warehouse for a company warehouse.
+You could talk about the location of the hospital
+
+
+217
+0:25:59,98 --> 0:26:6,78
+or a fire station or a police station. All
+single you could talk about is the location
+
+
+218
+0:26:6,78 --> 0:26:13,2
+of the new classroom building on a college
+campus, single facility location problem,
+
+
+219
+0:26:13,2 --> 0:26:20,98
+a new airfield for a number of bases and you
+can talk about the component in an electrical
+
+
+220
+0:26:20,98 --> 0:26:32,179
+network. You know electrical network these
+days have a large number of electrical components
+
+
+221
+0:26:32,179 --> 0:26:37,48
+put onto one board. Suppose it is decided
+that you improve the design characteristics,
+
+
+222
+0:26:37,48 --> 0:26:43,75
+you want to put an additional resistor somewhere.
+Where should that additional resistor be and
+
+
+223
+0:26:43,75 --> 0:26:48,48
+it is going to be connected to some of these
+components. So you are trying to say where
+
+
+224
+0:26:48,48 --> 0:26:53,7
+should I put up the additional resistor such
+that the total length of the cable or the
+
+
+225
+0:26:53,7 --> 0:26:59,69
+length of wire is minimized? This is again
+a problem of a single facility location.
+
+
+226
+0:26:59,69 --> 0:27:7,59
+You want to talk about installation of a new
+appliance in a kitchen; this is again a single
+
+
+227
+0:27:7,59 --> 0:27:11,13
+facility location problem. You want to find
+out where copying machine should be placed
+
+
+228
+0:27:11,13 --> 0:27:18,15
+in the library, assuming that in a library,
+different readers from different locations
+
+
+229
+0:27:18,15 --> 0:27:24,77
+may have statistical data on an average 20
+percent of the users, from first floor and
+
+
+230
+0:27:24,77 --> 0:27:29,29
+30 percent from this floor, come here for
+this particular thing. So you can determine
+
+
+231
+0:27:29,29 --> 0:27:34,67
+where the optimum location for the copying
+machine should be or if there is a new component
+
+
+232
+0:27:34,67 --> 0:27:38,88
+on a control panel you have a big switch here
+Larson and Tubro switch here. It is huge one
+
+
+233
+0:27:38,88 --> 0:27:42,86
+and we are trying to find out where new component
+should be installed which also happens to
+
+
+234
+0:27:42,86 --> 0:27:48,11
+be a single facility location problem. So
+the single facility location problem is actually
+
+
+235
+0:27:48,11 --> 0:27:53,32
+a problem, in fact that is why it is called
+single facility. We are not talking about
+
+
+236
+0:27:53,32 --> 0:28:0,44
+single plant location because when you recall,
+when we were discussing the issues in locations
+
+
+237
+0:28:0,44 --> 0:28:7,86
+were specified that often tend to speak in
+terms of facilities and depending on whichever
+
+
+238
+0:28:7,86 --> 0:28:13,72
+facility it is you have to determine the optimum
+location.
+
+
+239
+0:28:13,72 --> 0:28:20,94
+For this problem the statement mathematical
+statement can be built up as follows: we say
+
+
+240
+0:28:20,94 --> 0:28:31,5
+that we have m existing facilities at locations
+P1, P2, Pm whose locations are a1b1, a2b2
+
+
+241
+0:28:31,5 --> 0:28:37,53
+and so on up to am bm, so we know the location
+of the m existing facilities and the new facility
+
+
+242
+0:28:37,53 --> 0:28:43,97
+is to be located at some point X which is
+x y. You want to determine this (Refer Slide
+
+
+243
+0:28:43,97 --> 0:28:48,11
+Time: 28:44) and where it should be located.
+The new facility, the other existing facilities
+
+
+244
+0:28:48,11 --> 0:28:53,78
+are fixed that is their assumption and dX
+Pi is an appropriately defined as the distance
+
+
+245
+0:28:53,78 --> 0:29:0,37
+between X and Pi. X is the new facility you
+want to locate and Pi is one of the existing
+
+
+246
+0:29:0,37 --> 0:29:6,299
+facilities. So the distance between them can
+be called as dX, Pi and this distance could
+
+
+247
+0:29:6,299 --> 0:29:7,96
+be defined in various weights.
+
+
+248
+0:29:7,96 --> 0:29:12,86
+It could be Euclidean distance which is a
+straight line distance. It could be the Rectilinear
+
+
+249
+0:29:12,86 --> 0:29:18,169
+distance which is the Manhattan distance between
+these two points, it could be the square Euclidean
+
+
+250
+0:29:18,169 --> 0:29:24,32
+distance, it could be what we call a generalized
+distance or it could be a distance on a network.
+
+
+251
+0:29:24,32 --> 0:29:31,309
+In fact this would define a variety of models
+which are available even for the simple problem,
+
+
+252
+0:29:31,309 --> 0:29:37,11
+the single facility location problem. What
+is the objective of this exercise? The objective
+
+
+253
+0:29:37,11 --> 0:29:44,62
+is to determine the location X for the new
+facility so as to minimize transportation
+
+
+254
+0:29:44,62 --> 0:29:53,71
+related costs, that is what you want to do
+and what are these transportation cost related
+
+
+255
+0:29:53,71 --> 0:30:2,429
+to? The transportations related to cost are
+the sum from i = 1to n, the summation of wi
+
+
+256
+0:30:2,429 --> 0:30:10,69
+into dX, Pi where wi is the weight associated
+with the ith facility which is the product
+
+
+257
+0:30:10,69 --> 0:30:18,37
+of the cost per unit distance and the expected
+number of annual trips between X and Pi. If
+
+
+258
+0:30:18,37 --> 0:30:25,5
+you recall our discussion of the varianon
+frame where we had determined weights corresponding
+
+
+259
+0:30:25,5 --> 0:30:32,62
+to each of the points, the interpretation
+of wi is the same. It is a weightage given
+
+
+260
+0:30:32,62 --> 0:30:39,87
+to the ith point. How important it is in terms
+of the interactions that take place between
+
+
+261
+0:30:39,87 --> 0:30:45,69
+new facility and that particular facility.
+That is the objective function. This is general
+
+
+262
+0:30:45,69 --> 0:30:52,47
+problem; a general statement of the problem
+is this.
+
+
+263
+0:30:52,47 --> 0:30:59,76
+So essentially if you look at the problem
+in a graphical perspective what is really
+
+
+264
+0:30:59,76 --> 0:31:8,16
+required is that we have points P1, P2, and
+P3 and so on up to Pn or Pm. This is the case
+
+
+265
+0:31:8,16 --> 0:31:16,12
+and it may be spread out. These are the existing
+facilities. We are interested in finding out
+
+
+266
+0:31:16,12 --> 0:31:30,69
+an optimum location X. This optimum location
+X should be such that the total cost of movement
+
+
+267
+0:31:30,69 --> 0:31:37,9
+between all these should be minimized. That
+means what we are trying to say is that we
+
+
+268
+0:31:37,9 --> 0:31:47,87
+are trying to minimize the total cost of travel
+or transportation between the various facilities.
+
+
+269
+0:31:47,87 --> 0:31:55,13
+There could be many examples which we can
+construct for instance, if these facilities
+
+
+270
+0:31:55,13 --> 0:32:0,94
+are hospitals in the city, let us say Delhi
+has 10 hospitals, these are the 10 hospitals
+
+
+271
+0:32:0,94 --> 0:32:5,15
+that you have in the city and the problem
+is that you are trying to find out the location
+
+
+272
+0:32:5,15 --> 0:32:11,1
+of a centralized blood bank facility. This
+can be called upon by any hospital in case
+
+
+273
+0:32:11,1 --> 0:32:14,22
+of emergency or whatever it is.
+
+
+274
+0:32:14,22 --> 0:32:19,88
+So what we are trying to say is that we should
+determine the location such that if you know
+
+
+275
+0:32:19,88 --> 0:32:26,919
+roughly that during a particular day there
+are roughly 5 trips, here 20 trips, here 10
+
+
+276
+0:32:26,919 --> 0:32:33,419
+trips, here 10 trips, here 30, and so on which
+you, from the past historical data use the
+
+
+277
+0:32:33,419 --> 0:32:41,73
+information to determine the optimum location
+of the new service facility. Similarly you
+
+
+278
+0:32:41,73 --> 0:32:48,76
+might say for instance if I want to find out
+the location of a hospital which will cater
+
+
+279
+0:32:48,76 --> 0:32:54,61
+to the needs of different people in the localities
+and these localities have these weights in
+
+
+280
+0:32:54,61 --> 0:33:1,59
+terms of number of people falling sick. Let
+us consider an order of magnitude proportional
+
+
+281
+0:33:1,59 --> 0:33:7,23
+to population, assuming that all people are
+subjected to same kind of health conditions.
+
+
+282
+0:33:7,23 --> 0:33:12,679
+So if you do that then again the problem of
+finding out the location of this hospital
+
+
+283
+0:33:12,679 --> 0:33:27,63
+is basically a single facility location problem.
+Now what we would like to do is first understand
+
+
+284
+0:33:27,63 --> 0:33:33,32
+the various commonly used distances that we
+talked about.
+
+
+285
+0:33:33,32 --> 0:33:41,419
+For instance if the location of the new facility
+is at X and the ith existing facility is located
+
+
+286
+0:33:41,419 --> 0:33:48,48
+at the point Pi which has coordinates ai,
+bi then the rectilinear distance between these
+
+
+287
+0:33:48,48 --> 0:33:54,7
+2 points is actually this (Refer Slide Time:
+33:52) distance. This distance and then this
+
+
+288
+0:33:54,7 --> 0:34:0,9
+distance (Refer Slide Time: 33:54) and mathematically
+the rectilinear distance will be represented
+
+
+289
+0:34:0,9 --> 0:34:13,379
+by x – ai mod + y – bi mod. Now you must
+understand that there are a large number of
+
+
+290
+0:34:13,379 --> 0:34:22,359
+situations in real life where the rectilinear
+distance would be an appropriate one to consider,
+
+
+291
+0:34:22,359 --> 0:34:30,82
+for instance all movements within the factory
+are generally rectilinear because in a factory
+
+
+292
+0:34:30,82 --> 0:34:38,98
+on the shop floor you can typically move along
+a set of perpendicular heights. So if a worker
+
+
+293
+0:34:38,98 --> 0:34:44,109
+has to go from one place to the other he has
+to take of the perpendicular route this way
+
+
+294
+0:34:44,109 --> 0:34:45,419
+and then go this way.
+
+
+295
+0:34:45,419 --> 0:34:51,9
+That is the rectilinear distance and therefore
+if you are dealing with a problem of let us
+
+
+296
+0:34:51,9 --> 0:34:59,71
+say machine location within a factory, or
+you are talking about location of some other
+
+
+297
+0:34:59,71 --> 0:35:5,18
+tool crib in a factory or if you are talking
+about the location of a let us say even canteen
+
+
+298
+0:35:5,18 --> 0:35:12,5
+within a factory. The distance measure that
+you think that is most appropriate is a rectilinear
+
+
+299
+0:35:12,5 --> 0:35:18,47
+distance measure and therefore this is a very
+important distance measure especially in the
+
+
+300
+0:35:18,47 --> 0:35:29,71
+context of location on the shop floor, locations
+within the factory. Of course if you happen
+
+
+301
+0:35:29,71 --> 0:35:36,97
+to travel to New York for instance the distances
+are rectilinear that is why it is called Manhattan.
+
+
+302
+0:35:36,97 --> 0:35:42,4
+What you have is you have a large number of
+parallel streets and these are intersected
+
+
+303
+0:35:42,4 --> 0:35:48,2
+by a number of other parallel streets and
+all that you have therefore is the movement
+
+
+304
+0:35:48,2 --> 0:35:52,93
+is always rectilinear and in fact that is
+the word Manhattan and rectilinear comes from
+
+
+305
+0:35:52,93 --> 0:36:5,5
+it. In our context Delhi would not be rectilinear.
+If you go to Chandigarh for instance the movement
+
+
+306
+0:36:5,5 --> 0:36:11,56
+from one place to other is generally rectilinear
+because the layout of the city is such that
+
+
+307
+0:36:11,56 --> 0:36:16,99
+you move about one round about another and
+there are parallel streets and so on.
+
+
+308
+0:36:16,99 --> 0:36:23,88
+So it is essentially rectilinear if you are
+talking about location of a facility in Chandigarh.
+
+
+309
+0:36:23,88 --> 0:36:32,38
+Rectilinear distance could be any problem
+which is an important distance measure. The
+
+
+310
+0:36:32,38 --> 0:36:38,47
+next important distance that we consider is
+what we call Euclidean distance measure. Euclidean
+
+
+311
+0:36:38,47 --> 0:36:41,38
+distance measure is the shortest distance
+between two points.
+
+
+312
+0:36:41,38 --> 0:36:48,57
+The Euclidean distance from the point X which
+you want to determine to the existing facility
+
+
+313
+0:36:48,57 --> 0:36:56,7
+Pi, ai, bi, you have this particular distance
+which is the shortest distance between 2 points.
+
+
+314
+0:36:56,7 --> 0:37:3,83
+It is governed by this function x – ai whole
+square + y – bi whole square and the square
+
+
+315
+0:37:3,83 --> 0:37:13,41
+root of this. This can be conveniently calculated
+in this fashion. Where do you think Euclidean
+
+
+316
+0:37:13,41 --> 0:37:26,849
+distance will be appropriate in the location
+problem? Where do you think you could consider
+
+
+317
+0:37:26,849 --> 0:37:31,44
+where things take place? Let us say generally
+straight line generally and if you are trying
+
+
+318
+0:37:31,44 --> 0:37:38,84
+to talk about this, what would happen? For
+instance if you are talking about the location
+
+
+319
+0:37:38,84 --> 0:37:43,94
+of an airport, you know that you are going
+to expect flights from a large number of cities
+
+
+320
+0:37:43,94 --> 0:37:49,57
+in India and abroad here and flights going
+out. So that would determine the weights for
+
+
+321
+0:37:49,57 --> 0:37:56,17
+the cities and since you travel almost a straight
+line, you could say that the determination
+
+
+322
+0:37:56,17 --> 0:37:59,98
+of the optimum location of the airport could
+be (Refer Slide Time: 38:00) but there are
+
+
+323
+0:37:59,98 --> 0:38:3,77
+other considerations like determination of
+the airport. But definitely from the point
+
+
+324
+0:38:3,77 --> 0:38:11,54
+to view a minimization of the total travel,
+this would be an optimum situation.
+
+
+325
+0:38:11,54 --> 0:38:24,64
+Then where else you think this would be appropriate?
+It all depends up on whether naval applications,
+
+
+326
+0:38:24,64 --> 0:38:33,2
+whether you travel straight or you travel
+all over the sea, how you travel and so on.
+
+
+327
+0:38:33,2 --> 0:38:47,15
+For instance suppose you travel by this trolley
+car or a ropeway, suppose if in the mountains,
+
+
+328
+0:38:47,15 --> 0:38:53,5
+the government wants to decide up on picnic
+spot and it was to find out the location of
+
+
+329
+0:38:53,5 --> 0:39:1,22
+a ropeway and this way you could probably
+visit location on one hill and the other hill
+
+
+330
+0:39:1,22 --> 0:39:8,44
+wherever it is and different locations as
+it is. Then which particular location will
+
+
+331
+0:39:8,44 --> 0:39:11,21
+minimize the total cost of the cableway?
+
+
+332
+0:39:11,21 --> 0:39:20,109
+Obviously it will be Euclidean distance. So
+you could have a very large number of situations
+
+
+333
+0:39:20,109 --> 0:39:29,25
+wherein if you are talking about electrical
+circuit, you want to fix a particular component
+
+
+334
+0:39:29,25 --> 0:39:33,869
+and the component is to be connected by a
+wire to a number of different components assuming
+
+
+335
+0:39:33,869 --> 0:39:43,31
+of course that if it could be done on a Euclidean
+way in that particular component, then the
+
+
+336
+0:39:43,31 --> 0:39:50,349
+location which tries to minimize the cost
+of wire, the cost of cable etc but also be
+
+
+337
+0:39:50,349 --> 0:39:57,599
+using the Euclidean. Finally let us look at
+the problem where you are talking of squared
+
+
+338
+0:39:57,599 --> 0:40:3,26
+Euclidean. This under root sign is missing
+so we are talking about the square of the
+
+
+339
+0:40:3,26 --> 0:40:10,82
+Euclidean distance. Square of the Euclidean
+distance is just the distance but the square
+
+
+340
+0:40:10,82 --> 0:40:13,34
+of it.
+
+
+341
+0:40:13,34 --> 0:40:20,849
+Square Euclidean distance location problems
+are also very relevant in many situations.
+
+
+342
+0:40:20,849 --> 0:40:31,5
+They are relevant mainly in problems which
+involves radiations. The radiation loss is
+
+
+343
+0:40:31,5 --> 0:40:38,8
+typically proportional to the square of the
+distance. You may remember your thermodynamics
+
+
+344
+0:40:38,8 --> 0:40:46,68
+and see that the heat loss from a particular
+source is proportional to the square of the
+
+
+345
+0:40:46,68 --> 0:40:55,5
+Euclidean distance from that particular source.
+Now this is something very important today
+
+
+346
+0:40:55,5 --> 0:41:4,2
+because this is in the context of let us satellite
+location problem or in the context of suppose
+
+
+347
+0:41:4,2 --> 0:41:10,44
+you want to locate a satellite in space and
+the satellite has to serve a number of existing
+
+
+348
+0:41:10,44 --> 0:41:16,75
+location on the earth, it has to serve New
+Delhi, Kolkata, Hyderabad, Singapore etc.
+
+
+349
+0:41:16,75 --> 0:41:22,26
+So you have a number of m points which it
+has to serve and let us say you know the weightages
+
+
+350
+0:41:22,26 --> 0:41:32,32
+for these points so the idea is that the optimal
+point for the satellite would be the one if
+
+
+351
+0:41:32,32 --> 0:41:36,55
+you want to minimize the total radiation loss.
+
+
+352
+0:41:36,55 --> 0:41:46,1
+You want to minimize the total radiation loss;
+it should be located, such that this particular
+
+
+353
+0:41:46,1 --> 0:41:56,19
+distance criterion is actually this particular
+criterion. So the distance measure may be
+
+
+354
+0:41:56,19 --> 0:42:0,69
+any other because you travel anyway so I have
+to go from here to here, or I can go this
+
+
+355
+0:42:0,69 --> 0:42:6,839
+way, I can go this way, I can travel on a
+network in any particular manner and so on.
+
+
+356
+0:42:6,839 --> 0:42:14,8
+So it could be other or any other network.
+Those can be commonly used distances so what
+
+
+357
+0:42:14,8 --> 0:42:20,42
+we do is normally the network location problem
+is a practical problem because there you define
+
+
+358
+0:42:20,42 --> 0:42:25,49
+exactly the distances from one node to the
+other on the network. You can look at the
+
+
+359
+0:42:25,49 --> 0:42:32,63
+network and try to solve the location problem
+on the network.
+
+
+360
+0:42:32,63 --> 0:42:49,78
+Now let us try to look at this particular
+problem of rectilinear distances. In a rectilinear
+
+
+361
+0:42:49,78 --> 0:42:54,73
+distance problem our objective function is
+simply Z which is the total cost, which is
+
+
+362
+0:42:54,73 --> 0:43:2,57
+the summation from i = 1 to n, wi into x – ai
++ y – bi mod. That is what it is, that is
+
+
+363
+0:43:2,57 --> 0:43:7,75
+the rectilinear distance. The only interesting
+thing here is that this particular function
+
+
+364
+0:43:7,75 --> 0:43:17,4
+could be sort of broken up into wi into x
+– ai mod + wi into y – bi mod and this
+
+
+365
+0:43:17,4 --> 0:43:24,53
+can then be written as two separate summations.
+The summation for x – ai mod and the summation
+
+
+366
+0:43:24,53 --> 0:43:30,55
+for y – bi mod and the interesting thing
+here is that this is the function of x alone.
+
+
+367
+0:43:30,55 --> 0:43:35,4
+This (Refer Slide Time: 43:30) is the function
+of y alone. So the problem of rectilinear
+
+
+368
+0:43:35,4 --> 0:43:42,359
+distances is that if you want to minimize
+Z what you have to basically do is you have
+
+
+369
+0:43:42,359 --> 0:43:49,25
+to minimize f1 x and f2 y independently that
+means optimum location for the rectilinear
+
+
+370
+0:43:49,25 --> 0:43:58,51
+distance location problem is determined simply
+independently minimizing f1 x and f2 y. Now
+
+
+371
+0:43:58,51 --> 0:44:5,51
+you can determine the procedure for doing
+this and rather than deriving the procedure
+
+
+372
+0:44:5,51 --> 0:44:11,64
+I would state the procedure here in fact in
+this particular situation, the f1 x and f2
+
+
+373
+0:44:11,64 --> 0:44:17,96
+y are minimized, if you locate at the medium
+location, that is the result. That actually
+
+
+374
+0:44:17,96 --> 0:44:24,73
+comes from duality theory. We can look at
+the proof in the tutorials.
+
+
+375
+0:44:24,73 --> 0:44:37,3
+Let us take an example to illustrate what
+we have been talking about and we will use
+
+
+376
+0:44:37,3 --> 0:44:44,14
+this frame work of the example on different
+distance measure. For instance let us assume
+
+
+377
+0:44:44,14 --> 0:44:51,119
+that service facility to serve five offices
+located at (0, 0), (3, 16), (18, 2), (8, 18)
+
+
+378
+0:44:51,119 --> 0:44:58,65
+and (20, 2) is to be set up. It is like saying
+the number of cars transported per day between
+
+
+379
+0:44:58,65 --> 0:45:4,82
+the new service facility which you want to
+set up and the offices equal 5, 22, 41, 60
+
+
+380
+0:45:4,82 --> 0:45:10,91
+and 34 respectively. So the question is what
+location for the service facility will minimize
+
+
+381
+0:45:10,91 --> 0:45:17,79
+the distance, the cars are transported per
+day? It is like saying that you have collection
+
+
+382
+0:45:17,79 --> 0:45:27,1
+centers for cars at 5 places and cannot place
+south Delhi etc. You also want to have central
+
+
+383
+0:45:27,1 --> 0:45:34,83
+service facility. Where will you avail the
+service? The people can deposit their cars
+
+
+384
+0:45:34,83 --> 0:45:39,82
+here and their experience shows that the number
+of cars deposited per day is so much so where
+
+
+385
+0:45:39,82 --> 0:45:45,41
+should your service facility be? This is the
+problem and we are assuming that the distance
+
+
+386
+0:45:45,41 --> 0:45:50,22
+involved is rectilinear.
+
+
+387
+0:45:50,22 --> 0:45:55,72
+So as I indicated to you, the answer to this
+problem is that we can determine the x coordinate
+
+
+388
+0:45:55,72 --> 0:46:1,44
+and the y coordinate independently and the
+x coordinate is nothing but a median location.
+
+
+389
+0:46:1,44 --> 0:46:8,5
+So this simply means if we arrange the entire
+x coordinates in ascending order, these are
+
+
+390
+0:46:8,5 --> 0:46:14,369
+0, 3, 18, 20 and this is corresponding to
+the existing facility 1, Corresponding to
+
+
+391
+0:46:14,369 --> 0:46:19,75
+the existing facility 2, this is corresponding
+to existing facility 4, this is corresponding
+
+
+392
+0:46:19,75 --> 0:46:24,54
+to the existing facility 3, and 5. So ascending
+order of the x coordinates and we determine
+
+
+393
+0:46:24,54 --> 0:46:31,839
+the weights. Weights are the number of cars
+that come here, 3, 22, 60, 41, and 34. Determine
+
+
+394
+0:46:31,839 --> 0:46:41,57
+the cumulative weight, this should be 3, rather
+this should be 5. This is error somewhere,
+
+
+395
+0:46:41,57 --> 0:46:48,6
+so misprint. So you have 5, let us say 5 is
+the cumulative weight here and then 27 and
+
+
+396
+0:46:48,6 --> 0:46:56,589
+then 87 and then 128 and then 162. What needs
+to be done is if the total cumulative weight
+
+
+397
+0:46:56,589 --> 0:47:2,339
+i.e., 162 is the sum of the weights, half
+of that is 81. So you find out where the cumulative
+
+
+398
+0:47:2,339 --> 0:47:7,54
+weight changes, that is this is less than
+81 and this is greater than 81.
+
+
+399
+0:47:7,54 --> 0:47:12,66
+This becomes greater than 81 here for the
+first time. So this row determines the optimal
+
+
+400
+0:47:12,66 --> 0:47:19,7
+solution. A very simple straightforward and
+therefore x star = 8. So we have determined
+
+
+401
+0:47:19,7 --> 0:47:24,47
+the optimum x coordinates for this particular
+problem. The rectilinear distance location
+
+
+402
+0:47:24,47 --> 0:47:34,43
+problem is merely a median location. So this
+is how you determine the median location then
+
+
+403
+0:47:34,43 --> 0:47:40,47
+we can do a similar procedure for the y coordinate.
+When you do the y coordinate what happens
+
+
+404
+0:47:40,47 --> 0:47:47,849
+is that if you arrange the y coordinate in
+ascending order 0, 2, 16 and 18, you find
+
+
+405
+0:47:47,849 --> 0:47:53,359
+that this corresponds to the first facility.
+Both the facilities 3 and 5 share this coordinates
+
+
+406
+0:47:53,359 --> 0:47:59,849
+so we write both of them here and 2 and then
+4 in that order and then the weights which
+
+
+407
+0:47:59,849 --> 0:48:10,579
+are there are 5, 14, so this is 5 in the previous
+slide, it should have been 5. This is 5, so
+
+
+408
+0:48:10,579 --> 0:48:21,82
+this particular value should be 5 (Refer Slide
+Time: 48:19). Now we have 80 again, you have
+
+
+409
+0:48:21,82 --> 0:48:27,41
+the total cumulative weight which is 162,
+half of that, this is less than this, this
+
+
+410
+0:48:27,41 --> 0:48:31,55
+is greater than this (Refer Slide Time: 48:30),
+so where the cumulative weight first exceeds
+
+
+411
+0:48:31,55 --> 0:48:38,22
+half the value, that row is here, so corresponding
+to this we can identify that y star = 16,
+
+
+412
+0:48:38,22 --> 0:48:46,68
+it is very simple. So you observe that we
+can determine the x star and the y star value
+
+
+413
+0:48:46,68 --> 0:48:52,2
+independently by similar procedures by just
+identifying the median and we have identified
+
+
+414
+0:48:52,2 --> 0:49:6,98
+the median. So in this particular case we
+now have 
+in fact determined both x star and y star.
+
+
+415
+0:49:6,98 --> 0:49:16,4
+So x star is 8 and y star is 16, so 8,16 becomes
+the optimum location for the service facility,
+
+
+416
+0:49:16,4 --> 0:49:20,94
+that means this will minimize the total cost
+of travel, that is the optimum solution or
+
+
+417
+0:49:20,94 --> 0:49:27,91
+the ideal solution for the location of the
+service facility for this particular problem.
+
+
+418
+0:49:27,91 --> 0:49:41,52
+Now let us look at the case where you find
+that the distance measure is, let us say square
+
+
+419
+0:49:41,52 --> 0:49:45,849
+Euclidean. We will not talk about the Euclidean
+case now. We shall talk about it later but
+
+
+420
+0:49:45,849 --> 0:49:51,95
+let us talk about the squared Euclidean case
+that is the satellite location problem. So
+
+
+421
+0:49:51,95 --> 0:49:57,23
+the location is also another interesting problem
+here. You know it would be like trying to
+
+
+422
+0:49:57,23 --> 0:50:4,63
+say that suppose in the squared Euclidean
+problem, the optimum location is in fact in
+
+
+423
+0:50:4,63 --> 0:50:11,7
+this case, centroid location. This can be
+proved very easily. So the centroid location
+
+
+424
+0:50:11,7 --> 0:50:18,99
+for this problem is simply x star = summation
+wi ai divided by summation wi, y star is equal
+
+
+425
+0:50:18,99 --> 0:50:25,48
+to summation wi bi divided by summation wi.
+So for the same problem that we considered
+
+
+426
+0:50:25,48 --> 0:50:31,79
+earlier for the Euclidean distance, for the
+rectilinear distance case, we can easily determine
+
+
+427
+0:50:31,79 --> 0:50:38,68
+this summation wi in the denominator. It is
+162 which is the total weight. Sum of the
+
+
+428
+0:50:38,68 --> 0:50:50,0
+weights and x star is 12.12; y star is 9.77.
+So if your distance measure is a squared Euclidean,
+
+
+429
+0:50:50,0 --> 0:50:57,8
+it would be best to locate the new facility
+at 12.12 and 9.77 and obviously this differs
+
+
+430
+0:50:57,8 --> 0:51:7,32
+from the earlier median location that we determined
+of 816. I am just trying to tell you that
+
+
+431
+0:51:7,32 --> 0:51:16,119
+if you are still not very clear about when
+you should use the squared Euclidean case,
+
+
+432
+0:51:16,119 --> 0:51:31,89
+suppose your set of 5, 6 friends are celebrating
+a bonfire in winter, imagine the situation
+
+
+433
+0:51:31,89 --> 0:51:38,53
+and they are standing or sitting in a certain
+location around bonfire, then the question
+
+
+434
+0:51:38,53 --> 0:51:45,89
+is which is the best position for the bonfire
+such that the total loss of heat energy is
+
+
+435
+0:51:45,89 --> 0:51:51,82
+minimum for all these guys. So if that is
+to happen, the bonfire should be at the centroid
+
+
+436
+0:51:51,82 --> 0:51:57,28
+of all these points, where the people are
+sitting. That is exactly where the satellite
+
+
+437
+0:51:57,28 --> 0:52:0,8
+location problem is in terms of whatever it
+is.
+
+
+438
+0:52:0,8 --> 0:52:7,7
+So this can be determined very simply by saying
+12.12 and y star is also is equal to 9.77
+
+
+439
+0:52:7,7 --> 0:52:12,99
+and therefore you can determine the centroid
+location very easily.
+
+
+440
+0:52:12,99 --> 0:52:23,99
+In this particular case if you now look at
+the Euclidean distance locations which is
+
+
+441
+0:52:23,99 --> 0:52:29,619
+the third problem that we are trying to talk
+about, you recall that one simple way of solving
+
+
+442
+0:52:29,619 --> 0:52:39,7
+this problem is by using the mechanical analogy
+that was developed by varianon in the frame
+
+
+443
+0:52:39,7 --> 0:52:45,52
+which we call a varianon frame. All that we
+have done was all these points are raw materials
+
+
+444
+0:52:45,52 --> 0:52:53,54
+sources and markets so all the total points
+are actually plotted here to scale and then
+
+
+445
+0:52:53,54 --> 0:53:0,119
+you take the required number of strings, tie
+them to a common knot, and pass one string
+
+
+446
+0:53:0,119 --> 0:53:4,8
+through each of these holes which you have
+drilled here. Then you can hang a weight.
+
+
+447
+0:53:4,8 --> 0:53:10,4
+This is equal to the weight corresponding
+to that particular point. You allow the system
+
+
+448
+0:53:10,4 --> 0:53:17,38
+to come to equilibrium and when that happens,
+the location of P is actually the solution
+
+
+449
+0:53:17,38 --> 0:53:22,579
+to the Euclidean distance location problem.
+
+
+450
+0:53:22,579 --> 0:53:29,73
+As we had seen the other day, normally this
+method of constructing the varianon frame
+
+
+451
+0:53:29,73 --> 0:53:36,7
+and the strings models is quite cumbersome.
+So mathematical procedures are available by
+
+
+452
+0:53:36,7 --> 0:53:42,96
+means of which you can compute this particular
+point but there are certain mathematical complications
+
+
+453
+0:53:42,96 --> 0:53:52,5
+in this analysis and therefore the resort
+has to be made to iterative heuristic procedure
+
+
+454
+0:53:52,5 --> 0:53:57,1
+for getting this particular point. So getting
+this point mean that you start with a trail
+
+
+455
+0:53:57,1 --> 0:54:3,2
+point P and the trail point P most of the
+solutions is the solution to the centroid
+
+
+456
+0:54:3,2 --> 0:54:9,65
+problem you can start with 12.12 and 9.77
+and then keep iterating in certain fashion.
+
+
+457
+0:54:9,65 --> 0:54:16,2
+We will then talk about the algorithm in the
+tutorials, how it is done. But essentially
+
+
+458
+0:54:16,2 --> 0:54:21,97
+this is an exact solution of the Euclidean
+distance location problem which you can see
+
+
+459
+0:54:21,97 --> 0:54:35,42
+from here and I think that gives you a broad
+idea of how these problems are. Yes, I think
+
+
+460
+0:54:35,42 --> 0:54:43,829
+so far all the problems that we have considered;
+it can be termed as minisum problem that means
+
+
+461
+0:54:43,829 --> 0:54:46,3
+it comes to the objective function.
+
+
+462
+0:54:46,3 --> 0:54:52,72
+In all cases the objective was to minimize
+the sum of the total travel from the facility
+
+
+463
+0:54:52,72 --> 0:54:59,41
+to all other facilities. If you are talking
+about locating a central service station,
+
+
+464
+0:54:59,41 --> 0:55:3,55
+so you are talking about the cost of movement
+from the service station to the first facility
+
+
+465
+0:55:3,55 --> 0:55:9,1
+from the service station to second facility
+and so on. This sum was there. So all the
+
+
+466
+0:55:9,1 --> 0:55:13,63
+three problems that we have considered so
+far were actually minisum problems where you
+
+
+467
+0:55:13,63 --> 0:55:21,4
+are trying to minimize the total sum. Now
+in many instances especially in emergency
+
+
+468
+0:55:21,4 --> 0:55:27,109
+location problem it is not appropriate to
+think of a mini sum objective.
+
+
+469
+0:55:27,109 --> 0:55:32,38
+It is better to think in terms of what we
+call a minimax objective. For example it is
+
+
+470
+0:55:32,38 --> 0:55:41,109
+like saying if these are the resistances of
+different people in different locality and
+
+
+471
+0:55:41,109 --> 0:55:46,56
+you are trying to find out the location of
+a fire station, The location of the fire station
+
+
+472
+0:55:46,56 --> 0:55:50,609
+should not be such, the total cost to this
+plus this plus this plus (Refer Slide Time:
+
+
+473
+0:55:50,609 --> 0:55:57,4
+55:50) this should be minimum because when
+a fire breaks out, the fire tender has to
+
+
+474
+0:55:57,4 --> 0:56:2,53
+run to that particular place. So really speaking,
+the location of the fire station should be
+
+
+475
+0:56:2,53 --> 0:56:10,69
+such that it should be nearest to the farthest
+point.
+
+
+476
+0:56:10,69 --> 0:56:18,609
+You are trying to minimize the maximum distance
+from that particular in all emergency location,
+
+
+477
+0:56:18,609 --> 0:56:24,4
+mimimax problems are quite common. For the
+location of emergency facilities our objective
+
+
+478
+0:56:24,4 --> 0:56:29,29
+would be to minimize the maximum distance
+just to give a motivation without going into
+
+
+479
+0:56:29,29 --> 0:56:37,829
+details. For instance these were the points
+and you want to locate a facility. The idea
+
+
+480
+0:56:37,829 --> 0:56:43,8
+is that what would be a minimax location?
+A minimax location will be we try to enclose
+
+
+481
+0:56:43,8 --> 0:56:50,22
+these in a circle and the circle which has
+the minimum diameter. The center of that circle
+
+
+482
+0:56:50,22 --> 0:56:53,3
+which is let us say this one (Refer Slide
+Time: 52:61) encloses these points. This is
+
+
+483
+0:56:53,3 --> 0:56:59,2
+the circle which encloses all these facilities
+with the minimum diameter. This circle is
+
+
+484
+0:56:59,2 --> 0:57:5,13
+larger and there could be other larger circles.
+Basically what we are seeking is this circle
+
+
+485
+0:57:5,13 --> 0:57:13,7
+and the center of this is optimum location.
+Now graphically it is very wonderful to look
+
+
+486
+0:57:13,7 --> 0:57:19,69
+at this particular procedure and there are
+algorithms for instance there is a beautiful
+
+
+487
+0:57:19,69 --> 0:57:24,8
+algorithm by Elzinga and Hearn which is actually
+based on this analogy. So this is just to
+
+
+488
+0:57:24,8 --> 0:57:30,24
+tell you that if the objective function changes,
+the problem is no longer a minisum problem
+
+
+489
+0:57:30,24 --> 0:57:34,92
+but a minimax problem. Finally let us look
+at this complication.
+
+
+490
+0:57:34,92 --> 0:57:40,589
+For instance we determine an ideal location
+by these mathematical procedures, if we determine
+
+
+491
+0:57:40,589 --> 0:57:45,5
+an ideal location what may happen is that
+the ideal location may not be available. There
+
+
+492
+0:57:45,5 --> 0:57:50,13
+might be a building, there might be a river
+running through it or there might be other
+
+
+493
+0:57:50,13 --> 0:57:55,349
+complications and you cannot locate because
+in solving the problem, in determining the
+
+
+494
+0:57:55,349 --> 0:58:2,72
+ideal solutions, we have taken into consideration
+the feasibility of these locations. So what
+
+
+495
+0:58:2,72 --> 0:58:9,68
+is interesting is that we can build cost contours.
+These are lines of constant cost. So this
+
+
+496
+0:58:9,68 --> 0:58:14,79
+is the minimum cost of optimal location. Cost
+increases by 5 percent, by 10 percent, by
+
+
+497
+0:58:14,79 --> 0:58:20,88
+15 percent, by 20 percent whatever it is and
+you have lines of constant cost. This will
+
+
+498
+0:58:20,88 --> 0:58:25,819
+help you to choose an alternative location.
+These are very much like lines of constant
+
+
+499
+0:58:25,819 --> 0:58:32,43
+height on a map; on a geographical map you
+have lines of constant height. Similarly you
+
+
+500
+0:58:32,43 --> 0:58:39,45
+have lines of constant cost and this mapping
+once is done would give you ideas as to which
+
+
+501
+0:58:39,45 --> 0:58:46,369
+side you should shift, where is the cost lesser,
+where is the cost more and there are procedures
+
+
+502
+0:58:46,369 --> 0:58:52,51
+to develop the cost contours. In fact in the
+tutorial exercises you will have an opportunity
+
+
+503
+0:58:52,51 --> 0:59:0,609
+to develop these cost contours. Finally let
+us see what we have done in this particular
+
+
+504
+0:59:0,609 --> 0:59:0,98
+lecture
+
+
+505
+0:59:0,98 --> 0:59:8,619
+We started with looking at a practical problem,
+a case study and we saw that the decision
+
+
+506
+0:59:8,619 --> 0:59:14,48
+matrix approach to handle multiple objectives
+in plant location was in fact very worthwhile
+
+
+507
+0:59:14,48 --> 0:59:22,3
+approach to consider all the objectives and
+consider the feasible solution. Basically
+
+
+508
+0:59:22,3 --> 0:59:31,79
+this problem could be termed as a problem
+of choosing the best amongst options. Then
+
+
+509
+0:59:31,79 --> 0:59:37,64
+we have the single facility location models.
+We talked about the rectilinear distance,
+
+
+510
+0:59:37,64 --> 0:59:42,69
+the squared Euclidean distance, the Euclidean
+distance where the objective was to generate
+
+
+511
+0:59:42,69 --> 0:59:49,52
+the best from the infinite options which are
+available and finally we talked about the
+
+
+512
+0:59:49,52 --> 0:59:55,64
+notion of minisum and minimax problems where
+the objectives could change depending up on
+
+
+513
+0:59:55,64 --> 1:0:3,13
+the context. Finally we saw our cost contour
+that can help to accommodate practical constraints
+
+
+514
+1:0:3,13 --> 1:0:13,18
+that is moving from ideal to a feasible solution.
+So with this we conclude this particular lecture
+
+
+515
+1:0:13,18 --> 1:0:20,77
+and in the next lecture we will go over to
+the facility layout problem which is the next
+
+
+516
+1:0:20,77 --> 1:0:23,93
+important problem in the context of facility
+location.
+
+
+517
+1:0:23,93 --> 1:2:23,93
+Thank you
+
+

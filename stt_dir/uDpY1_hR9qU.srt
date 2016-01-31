@@ -1,0 +1,6667 @@
+1
+0:0:0,0 --> 0:0:0,929
+
+
+
+2
+0:0:0,929 --> 0:0:2,72
+OMAR ERLINGSSON: My
+name's Omar Erlingsson.
+
+
+3
+0:0:2,72 --> 0:0:5,9
+I'm in infrastructure security.
+
+
+4
+0:0:5,9 --> 0:0:10,16
+I'm here to present the speaker
+for today's special talk
+
+
+5
+0:0:10,16 --> 0:0:12,76
+with the Authors
+at Google series.
+
+
+6
+0:0:12,76 --> 0:0:15,93
+So our speaker is
+Gudrun Johnsen,
+
+
+7
+0:0:15,93 --> 0:0:19,42
+who is a statistician and
+economist from University
+
+
+8
+0:0:19,42 --> 0:0:24,79
+of Michigan, Ann Arbor, and she
+has worked for the Icelandic
+
+
+9
+0:0:24,79 --> 0:0:27,5
+Parliamentary Special
+Investigation Commission
+
+
+10
+0:0:27,5 --> 0:0:31,226
+on investigating the causes
+of the economic collapse that
+
+
+11
+0:0:31,226 --> 0:0:33,664
+happened in Iceland in 2008.
+
+
+12
+0:0:33,664 --> 0:0:37,8
+So for me, it's quite
+a personal subject.
+
+
+13
+0:0:37,8 --> 0:0:39,1
+I'm originally from Iceland.
+
+
+14
+0:0:39,1 --> 0:0:42,67
+My family and I moved
+there in 2007 from here
+
+
+15
+0:0:42,67 --> 0:0:45,8
+in Silicon Valley, where
+I've been working until then.
+
+
+16
+0:0:45,8 --> 0:0:49,31
+And on a trip back,
+one of my colleagues
+
+
+17
+0:0:49,31 --> 0:0:52,42
+asked me about what
+were the underpinnings
+
+
+18
+0:0:52,42 --> 0:0:56,762
+of the Icelandic
+economy, and I knew
+
+
+19
+0:0:56,762 --> 0:0:57,97
+that there was a lot of fish.
+
+
+20
+0:0:57,97 --> 0:1:0,11
+That's what had been there
+when I was growing up,
+
+
+21
+0:1:0,11 --> 0:1:1,945
+and I knew that there
+was a lot of banking,
+
+
+22
+0:1:1,945 --> 0:1:4,209
+and I didn't exactly know what.
+
+
+23
+0:1:4,209 --> 0:1:7,31
+There was some financing,
+banking, stocks,
+
+
+24
+0:1:7,31 --> 0:1:12,73
+and so on, and very
+soon after that,
+
+
+25
+0:1:12,73 --> 0:1:16,25
+it all came down with a bang.
+
+
+26
+0:1:16,25 --> 0:1:19,89
+95% of the market value
+of the stock market
+
+
+27
+0:1:19,89 --> 0:1:21,574
+vanished overnight.
+
+
+28
+0:1:21,574 --> 0:1:26,6
+Three of the six-largest
+bankruptcies in world history
+
+
+29
+0:1:26,6 --> 0:1:33,61
+are Icelandic banks, so
+quite a large turn of events.
+
+
+30
+0:1:33,61 --> 0:1:35,77
+As it turned out,
+what really happened
+
+
+31
+0:1:35,77 --> 0:1:41,53
+behind all of this, and this
+great, rapid rise in the banks,
+
+
+32
+0:1:41,53 --> 0:1:44,186
+seems to be all kinds of
+different shenanigans.
+
+
+33
+0:1:44,186 --> 0:1:48,22
+And so Gudrun is here to tell us
+about those shenanigans, which,
+
+
+34
+0:1:48,22 --> 0:1:50,9
+because Iceland is
+relatively small,
+
+
+35
+0:1:50,9 --> 0:1:52,31
+and because of this
+completely unprecedented
+
+
+36
+0:1:52,31 --> 0:1:56,74
+special commission set up by the
+Parliament, which had basically
+
+
+37
+0:1:56,74 --> 0:1:59,83
+total powers of
+investigative authority,
+
+
+38
+0:1:59,83 --> 0:2:2,925
+able to see all data
+everywhere, with no exceptions,
+
+
+39
+0:2:2,925 --> 0:2:5,31
+we actually know
+what happened there.
+
+
+40
+0:2:5,31 --> 0:2:10,289
+But I think in a greater
+context, most of us
+
+
+41
+0:2:10,289 --> 0:2:12,54
+had just moved to
+Iceland, and there's
+
+
+42
+0:2:12,54 --> 0:2:16,35
+a lot of stuff that's
+going on in world finance
+
+
+43
+0:2:16,35 --> 0:2:18,779
+and so on that is quite
+reminiscent of the shenanigans
+
+
+44
+0:2:18,779 --> 0:2:21,32
+that were happening there a few
+years ago, and I don't think,
+
+
+45
+0:2:21,32 --> 0:2:23,24
+fundamentally, very
+much has changed.
+
+
+46
+0:2:23,24 --> 0:2:26,55
+So anyway, with those words,
+I will give the word over
+
+
+47
+0:2:26,55 --> 0:2:27,39
+to Gudrun.
+
+
+48
+0:2:27,39 --> 0:2:28,723
+GUDRUN JOHNSEN: Thank you, Omar.
+
+
+49
+0:2:28,723 --> 0:2:30,909
+[APPLAUSE]
+
+
+50
+0:2:30,909 --> 0:2:33,2
+GUDRUN JOHNSEN: Thank you so
+much, and a special thanks
+
+
+51
+0:2:33,2 --> 0:2:37,31
+to Omar for inviting me here
+and organizing this event.
+
+
+52
+0:2:37,31 --> 0:2:41,71
+It's a great opportunity
+for me to be here with you.
+
+
+53
+0:2:41,71 --> 0:2:45,2
+I have been giving this
+talk mostly at financial
+
+
+54
+0:2:45,2 --> 0:2:47,36
+institutions and
+government agencies,
+
+
+55
+0:2:47,36 --> 0:2:50,83
+but I wrote this book, "Bringing
+Down the Banking System,"
+
+
+56
+0:2:50,83 --> 0:2:55,88
+as a wrapping up this 2,400-page
+report that we issued that
+
+
+57
+0:2:55,88 --> 0:3:1,16
+nobody read into manageable
+size of 200 pages,
+
+
+58
+0:3:1,16 --> 0:3:6,93
+but I wrote it for
+non-financiers, let's say,
+
+
+59
+0:3:6,93 --> 0:3:8,46
+if there's such a word.
+
+
+60
+0:3:8,46 --> 0:3:14,27
+So it's great to finally be in
+front of my targeted audience.
+
+
+61
+0:3:14,27 --> 0:3:21,69
+Now, as Omar mentioned briefly,
+97% of the Icelandic banking
+
+
+62
+0:3:21,69 --> 0:3:26,89
+sector collapsed
+in October 2008,
+
+
+63
+0:3:26,89 --> 0:3:30,98
+and before we entered
+into the investigation
+
+
+64
+0:3:30,98 --> 0:3:33,2
+of the Special
+Investigation Commission,
+
+
+65
+0:3:33,2 --> 0:3:35,43
+where I was actually
+the first employee
+
+
+66
+0:3:35,43 --> 0:3:39,8
+to be hired by the Commission--
+so I was there from day one
+
+
+67
+0:3:39,8 --> 0:3:44,3
+until the minute it
+was published in 2012--
+
+
+68
+0:3:44,3 --> 0:3:48,7
+we sort of had an idea
+why this happened.
+
+
+69
+0:3:48,7 --> 0:3:52,4
+But obviously, that wasn't
+enough for the Icelandic public
+
+
+70
+0:3:52,4 --> 0:3:56,36
+to be told that that was
+a result of a rapid growth
+
+
+71
+0:3:56,36 --> 0:4:1,9
+of credit, and size of the
+banking balance sheets to GDP,
+
+
+72
+0:4:1,9 --> 0:4:3,33
+and inadequate
+financial supervision.
+
+
+73
+0:4:3,33 --> 0:4:6,2
+I mean, that's the
+short, elevator story,
+
+
+74
+0:4:6,2 --> 0:4:10,22
+but we needed to tell them
+how exactly this is possible,
+
+
+75
+0:4:10,22 --> 0:4:14,0
+and how do you do this--
+expanding your banking
+
+
+76
+0:4:14,0 --> 0:4:18,899
+sector from being about
+1 times GDP to 10 times
+
+
+77
+0:4:18,899 --> 0:4:22,21
+GDP at the peak?
+
+
+78
+0:4:22,21 --> 0:4:27,49
+We also needed to tell them why
+would you ever want to do this,
+
+
+79
+0:4:27,49 --> 0:4:34,67
+given that this is a really
+risky strategy, so why would
+
+
+80
+0:4:34,67 --> 0:4:36,53
+you ever want to do this?
+
+
+81
+0:4:36,53 --> 0:4:41,47
+The third question we had
+to answer was why on earth
+
+
+82
+0:4:41,47 --> 0:4:44,55
+didn't anybody stop
+this development?
+
+
+83
+0:4:44,55 --> 0:4:49,2
+And finally, in my book,
+I try to bring forward
+
+
+84
+0:4:49,2 --> 0:4:51,84
+to the rest of the
+financial world
+
+
+85
+0:4:51,84 --> 0:4:55,65
+what we can learn
+from this calamity.
+
+
+86
+0:4:55,65 --> 0:4:59,22
+Now, I will ask you to
+jot down your questions.
+
+
+87
+0:4:59,22 --> 0:5:2,75
+We're going to save the best
+for last-- your questions.
+
+
+88
+0:5:2,75 --> 0:5:4,37
+It's quite a lot of material.
+
+
+89
+0:5:4,37 --> 0:5:8,43
+It demands quite a
+bit from the audience,
+
+
+90
+0:5:8,43 --> 0:5:11,98
+so I'll ask you to wait
+with your questions
+
+
+91
+0:5:11,98 --> 0:5:14,64
+until at the very
+end, unless something
+
+
+92
+0:5:14,64 --> 0:5:19,92
+is horribly vague or confusing.
+
+
+93
+0:5:19,92 --> 0:5:24,6
+Now, very briefly, on the SIC,
+it was installed by Parliament,
+
+
+94
+0:5:24,6 --> 0:5:27,8
+and there were three people
+appointed by the Parliament
+
+
+95
+0:5:27,8 --> 0:5:28,24
+to sit on the Commission.
+
+
+96
+0:5:28,24 --> 0:5:31,39
+There was a Supreme Court
+justice, Pall Hreinsson,
+
+
+97
+0:5:31,39 --> 0:5:34,25
+Sigridur Benediktsdottir, who
+was a lecturer at the Economics
+
+
+98
+0:5:34,25 --> 0:5:36,66
+Department at Yale
+University at the time,
+
+
+99
+0:5:36,66 --> 0:5:40,38
+and another lawyer,
+Tryggvi Gunnarsson,
+
+
+100
+0:5:40,38 --> 0:5:43,72
+who's Althingi's Ombudsman.
+
+
+101
+0:5:43,72 --> 0:5:47,8
+Althingi is the
+Icelandic parliament.
+
+
+102
+0:5:47,8 --> 0:5:53,45
+Now, the mandate was not
+of any insignificance.
+
+
+103
+0:5:53,45 --> 0:5:57,85
+It was to seek the truth, no
+less, behind the events leading
+
+
+104
+0:5:57,85 --> 0:6:0,82
+up to the fall of
+the Icelandic banks,
+
+
+105
+0:6:0,82 --> 0:6:3,6
+and what was also
+quite challenging
+
+
+106
+0:6:3,6 --> 0:6:5,99
+in a small society--
+and bear this in mind
+
+
+107
+0:6:5,99 --> 0:6:7,29
+throughout the lecture.
+
+
+108
+0:6:7,29 --> 0:6:11,75
+Iceland is a large
+country, relatively large,
+
+
+109
+0:6:11,75 --> 0:6:16,58
+but we are only 330,000,
+roughly, who live there.
+
+
+110
+0:6:16,58 --> 0:6:20,375
+So somebody told me
+half of Frankfurt.
+
+
+111
+0:6:20,375 --> 0:6:26,89
+Half of Frankfurt-- that struck
+me as a quite a good benchmark.
+
+
+112
+0:6:26,89 --> 0:6:33,74
+Now, the challenging part
+was to basically find out
+
+
+113
+0:6:33,74 --> 0:6:36,85
+whether mistakes or
+negligence had occurred
+
+
+114
+0:6:36,85 --> 0:6:41,72
+in the course of the
+implementation of the laws
+
+
+115
+0:6:41,72 --> 0:6:44,61
+and other rules regulating,
+or providing control for,
+
+
+116
+0:6:44,61 --> 0:6:46,3
+the financial market.
+
+
+117
+0:6:46,3 --> 0:6:50,65
+And in addition, what
+persons may be responsible?
+
+
+118
+0:6:50,65 --> 0:6:55,16
+Now, the degrees of
+separation in Iceland
+
+
+119
+0:6:55,16 --> 0:6:59,76
+is obviously one or two, so
+this is a delicate matter.
+
+
+120
+0:6:59,76 --> 0:7:5,45
+This was a privilege to actually
+be involved with this effort,
+
+
+121
+0:7:5,45 --> 0:7:8,6
+simply because the
+Icelandic parliament thought
+
+
+122
+0:7:8,6 --> 0:7:15,75
+that it would be impossible to
+deliver a proper investigation
+
+
+123
+0:7:15,75 --> 0:7:22,39
+without full access to all
+data that the Commission deemed
+
+
+124
+0:7:22,39 --> 0:7:27,24
+necessary to deliver
+on their mission.
+
+
+125
+0:7:27,24 --> 0:7:33,22
+Now, we basically had powers
+to search all premises,
+
+
+126
+0:7:33,22 --> 0:7:34,93
+seize evidence
+considered necessary
+
+
+127
+0:7:34,93 --> 0:7:36,58
+for the purpose of
+its investigation,
+
+
+128
+0:7:36,58 --> 0:7:38,44
+subpoena witnesses.
+
+
+129
+0:7:38,44 --> 0:7:43,65
+And in return, we were to
+report any suspicious contact
+
+
+130
+0:7:43,65 --> 0:7:49,75
+to the special prosecutor,
+who was still working on cases
+
+
+131
+0:7:49,75 --> 0:7:54,35
+brought about as a result of
+this investigation and other.
+
+
+132
+0:7:54,35 --> 0:7:59,28
+The final product was
+a 2,400-page report,
+
+
+133
+0:7:59,28 --> 0:8:6,51
+published 12th of April 2010,
+and the task was quite big.
+
+
+134
+0:8:6,51 --> 0:8:9,7
+We did not like the
+Lehman examiner's report.
+
+
+135
+0:8:9,7 --> 0:8:11,1
+It's also 2,400 pages.
+
+
+136
+0:8:11,1 --> 0:8:16,22
+We'll go over that soon,
+but just to tell you,
+
+
+137
+0:8:16,22 --> 0:8:21,31
+the scope of the research was
+the third-largest bankruptcy
+
+
+138
+0:8:21,31 --> 0:8:23,62
+in history.
+
+
+139
+0:8:23,62 --> 0:8:28,73
+And we had to go
+into three banks--
+
+
+140
+0:8:28,73 --> 0:8:31,89
+not only one-- and all
+surveillance authorities
+
+
+141
+0:8:31,89 --> 0:8:38,2
+involved with oversight
+of the financial sector.
+
+
+142
+0:8:38,2 --> 0:8:40,84
+In addition, a special
+request from Parliament
+
+
+143
+0:8:40,84 --> 0:8:43,539
+was to investigate
+the cross-ownership
+
+
+144
+0:8:43,539 --> 0:8:47,39
+of Icelandic firms,
+and I think there,
+
+
+145
+0:8:47,39 --> 0:8:50,63
+the biggest contribution to the
+rest of the world of finance
+
+
+146
+0:8:50,63 --> 0:8:51,51
+lies.
+
+
+147
+0:8:51,51 --> 0:8:55,81
+This analysis into
+the cross-ownership
+
+
+148
+0:8:55,81 --> 0:8:58,29
+of Icelandic firms.
+
+
+149
+0:8:58,29 --> 0:9:0,54
+Now, we were 48 people.
+
+
+150
+0:9:0,54 --> 0:9:5,29
+We're, again, 330,000
+people living in Iceland,
+
+
+151
+0:9:5,29 --> 0:9:8,96
+and it was quite
+remarkable that we
+
+
+152
+0:9:8,96 --> 0:9:14,45
+were able to find people who
+were not conflicted in any way.
+
+
+153
+0:9:14,45 --> 0:9:18,2
+Many of them had been
+living here in the States.
+
+
+154
+0:9:18,2 --> 0:9:24,9
+Most of them had done
+research, were PhDs from here
+
+
+155
+0:9:24,9 --> 0:9:28,702
+in the States-- Yale,
+Stanford, and elsewhere.
+
+
+156
+0:9:28,702 --> 0:9:33,15
+So basically, with
+all this data,
+
+
+157
+0:9:33,15 --> 0:9:41,47
+we collected data from the
+entire financial market,
+
+
+158
+0:9:41,47 --> 0:9:44,57
+funding of the banks, all
+loan portfolios of the banks,
+
+
+159
+0:9:44,57 --> 0:9:50,45
+so every single loan,
+including Visa statements,
+
+
+160
+0:9:50,45 --> 0:9:57,62
+the salary data, and also, what
+I'm particularly proud of-- we
+
+
+161
+0:9:57,62 --> 0:10:0,32
+gathered data from
+the stock market,
+
+
+162
+0:10:0,32 --> 0:10:4,88
+and down to basically
+individual investors
+
+
+163
+0:10:4,88 --> 0:10:9,65
+on both sides of
+the trade-- so this
+
+
+164
+0:10:9,65 --> 0:10:12,57
+is a high-frequency dataset.
+
+
+165
+0:10:12,57 --> 0:10:16,61
+In addition to the data I
+mentioned before, we also
+
+
+166
+0:10:16,61 --> 0:10:20,32
+received the entire registry
+of enterprises in Iceland,
+
+
+167
+0:10:20,32 --> 0:10:25,11
+and that was essential
+to be able to drill down
+
+
+168
+0:10:25,11 --> 0:10:28,6
+the cross-ownership of firms.
+
+
+169
+0:10:28,6 --> 0:10:34,51
+Now, just for the
+sake of comparison,
+
+
+170
+0:10:34,51 --> 0:10:37,5
+the cost of the
+investigation-- you
+
+
+171
+0:10:37,5 --> 0:10:39,12
+can find the whole
+report on this.
+
+
+172
+0:10:39,12 --> 0:10:43,26
+There are selected chapters
+translated in English.
+
+
+173
+0:10:43,26 --> 0:10:47,72
+2,400 pages, 800
+pages supplement
+
+
+174
+0:10:47,72 --> 0:10:51,27
+online-- it took us 15
+months, and the cost
+
+
+175
+0:10:51,27 --> 0:10:54,34
+was $2.5 million US.
+
+
+176
+0:10:54,34 --> 0:10:59,51
+Now, the examiner report on
+the fall of Lehman Brothers
+
+
+177
+0:10:59,51 --> 0:11:1,56
+is also available online.
+
+
+178
+0:11:1,56 --> 0:11:3,99
+It is 2,200 pages.
+
+
+179
+0:11:3,99 --> 0:11:8,14
+It took them 15
+months to get it done.
+
+
+180
+0:11:8,14 --> 0:11:11,8
+The cost was $38
+million-plus US.
+
+
+181
+0:11:11,8 --> 0:11:14,97
+So you can see that
+you can get experts
+
+
+182
+0:11:14,97 --> 0:11:15,18
+from Iceland on the cheap.
+
+
+183
+0:11:15,18 --> 0:11:18,38
+[LAUGHTER]
+
+
+184
+0:11:18,38 --> 0:11:21,68
+Now, to start answering
+the questions I proposed
+
+
+185
+0:11:21,68 --> 0:11:27,52
+in the beginning--
+how did this happen?
+
+
+186
+0:11:27,52 --> 0:11:30,48
+At the early start,
+funding was easy,
+
+
+187
+0:11:30,48 --> 0:11:33,98
+and basically the bankers went
+into the European medium-term
+
+
+188
+0:11:33,98 --> 0:11:40,29
+note market, and received
+about 35 billion euros'
+
+
+189
+0:11:40,29 --> 0:11:42,64
+worth of bond issues.
+
+
+190
+0:11:42,64 --> 0:11:44,65
+AUDIENCE: Sorry, the
+European what market?
+
+
+191
+0:11:44,65 --> 0:11:48,39
+GUDRUN JOHNSEN: The European
+medium-term note market.
+
+
+192
+0:11:48,39 --> 0:11:53,62
+That is a standardized,
+bond-issuance program.
+
+
+193
+0:11:53,62 --> 0:12:0,41
+So you see here that
+the columns here
+
+
+194
+0:12:0,41 --> 0:12:4,43
+show that the
+European market had
+
+
+195
+0:12:4,43 --> 0:12:8,47
+a big appetite for the
+Icelandic bonds in 2005.
+
+
+196
+0:12:8,47 --> 0:12:10,81
+It dropped somewhat
+in 2006, and you
+
+
+197
+0:12:10,81 --> 0:12:14,86
+see what opened up-- that was
+the US medium-term note market.
+
+
+198
+0:12:14,86 --> 0:12:17,76
+It opened up for
+the Icelandic banks,
+
+
+199
+0:12:17,76 --> 0:12:21,17
+simply because of this
+very nice feature.
+
+
+200
+0:12:21,17 --> 0:12:24,84
+They had a stellar credit
+rating that was largely
+
+
+201
+0:12:24,84 --> 0:12:28,17
+inherited by the Icelandic
+state, which was virtually
+
+
+202
+0:12:28,17 --> 0:12:30,92
+debt-free at the time,
+but they were also
+
+
+203
+0:12:30,92 --> 0:12:33,57
+willing to pay
+high interest rates
+
+
+204
+0:12:33,57 --> 0:12:36,4
+at the level of other
+emerging-market institutions
+
+
+205
+0:12:36,4 --> 0:12:39,9
+a with lower credit rating.
+
+
+206
+0:12:39,9 --> 0:12:44,1
+Now, it was as if they didn't
+really think this through.
+
+
+207
+0:12:44,1 --> 0:12:47,45
+The appetite for issuing
+bonds was enormous,
+
+
+208
+0:12:47,45 --> 0:12:52,61
+but they were bond issues for
+three- to five-year maturity,
+
+
+209
+0:12:52,61 --> 0:13:0,9
+and in fact, the
+first big payment
+
+
+210
+0:13:0,9 --> 0:13:4,42
+was too big for
+them to deliver on.
+
+
+211
+0:13:4,42 --> 0:13:8,35
+So in October 2008,
+Glitnir bank went
+
+
+212
+0:13:8,35 --> 0:13:11,18
+to the Central Bank of
+Iceland, and basically said
+
+
+213
+0:13:11,18 --> 0:13:13,98
+that they wouldn't be
+able to meet this payment,
+
+
+214
+0:13:13,98 --> 0:13:18,17
+and asked for of a loan of
+last resort, and from then on,
+
+
+215
+0:13:18,17 --> 0:13:21,74
+things started to
+unravel quickly.
+
+
+216
+0:13:21,74 --> 0:13:26,7
+Now, the terms were
+good in the beginning,
+
+
+217
+0:13:26,7 --> 0:13:29,1
+as credit rating went
+through the roof.
+
+
+218
+0:13:29,1 --> 0:13:32,18
+In 2007, they received
+the highest grade,
+
+
+219
+0:13:32,18 --> 0:13:38,2
+top of the class, triple-A
+rating from Moody's, which
+
+
+220
+0:13:38,2 --> 0:13:41,53
+Moody's corrected in
+a couple of months.
+
+
+221
+0:13:41,53 --> 0:13:47,52
+Moody's thought that these banks
+were simply too big to fail,
+
+
+222
+0:13:47,52 --> 0:13:55,85
+and would be bailed out in
+whichever circumstances,
+
+
+223
+0:13:55,85 --> 0:13:59,61
+but failed to recognize
+that the banks had already
+
+
+224
+0:13:59,61 --> 0:14:2,98
+exceeded the GDP, where
+everything we produce
+
+
+225
+0:14:2,98 --> 0:14:6,45
+in Iceland 10 times,
+so we would never
+
+
+226
+0:14:6,45 --> 0:14:8,94
+be able to bail out those banks.
+
+
+227
+0:14:8,94 --> 0:14:12,66
+Now, as you see here, it's
+a nice-- here at Google,
+
+
+228
+0:14:12,66 --> 0:14:15,72
+the first thing you do
+is to plot your data--
+
+
+229
+0:14:15,72 --> 0:14:20,12
+and here you see Kaupthing
+five-year bond issues.
+
+
+230
+0:14:20,12 --> 0:14:23,5
+At the beginning, they are
+issuing 1 billion euros.
+
+
+231
+0:14:23,5 --> 0:14:29,1
+At the time, at a rate around
+20, 20 to 30, and it rapidly
+
+
+232
+0:14:29,1 --> 0:14:30,41
+grows.
+
+
+233
+0:14:30,41 --> 0:14:32,77
+Here are some peculiar outliers.
+
+
+234
+0:14:32,77 --> 0:14:38,34
+Somebody is accepting much
+lower rate than the market is.
+
+
+235
+0:14:38,34 --> 0:14:44,52
+Now, we did receive our warning.
+
+
+236
+0:14:44,52 --> 0:14:48,17
+In 2006, a market
+analyst started
+
+
+237
+0:14:48,17 --> 0:14:52,75
+to point out that this
+rapid growth of the balance
+
+
+238
+0:14:52,75 --> 0:14:55,1
+sheets of the banks
+was unsustainable,
+
+
+239
+0:14:55,1 --> 0:14:58,52
+and, well, primarily,
+Danske Bank
+
+
+240
+0:14:58,52 --> 0:15:3,1
+came up with this very nice
+term for it-- the geysir crisis.
+
+
+241
+0:15:3,1 --> 0:15:6,4
+And it fitted this
+episode very well,
+
+
+242
+0:15:6,4 --> 0:15:9,63
+because the CDS spreads--
+the Credit Default
+
+
+243
+0:15:9,63 --> 0:15:14,86
+Spreads-- they kind of blew
+up, but settled down quickly
+
+
+244
+0:15:14,86 --> 0:15:17,81
+again at a lower level.
+
+
+245
+0:15:17,81 --> 0:15:23,38
+But that did not measure up to
+what was to happen later on,
+
+
+246
+0:15:23,38 --> 0:15:26,5
+when the big, blue
+mountain blew up,
+
+
+247
+0:15:26,5 --> 0:15:32,68
+and we had CDS spreads going
+through the 1,000 mark.
+
+
+248
+0:15:32,68 --> 0:15:37,4
+Both Icelandic bankers
+and officials alike
+
+
+249
+0:15:37,4 --> 0:15:39,74
+dismissed this market
+signal completely,
+
+
+250
+0:15:39,74 --> 0:15:43,73
+and they claimed
+that the CDS market
+
+
+251
+0:15:43,73 --> 0:15:47,9
+was marked by
+collusion, ignorance--
+
+
+252
+0:15:47,9 --> 0:15:51,66
+it was a thin market,
+and so on, and so forth.
+
+
+253
+0:15:51,66 --> 0:15:54,2
+And it is just as if
+they didn't really
+
+
+254
+0:15:54,2 --> 0:15:55,59
+know what they
+were talking about,
+
+
+255
+0:15:55,59 --> 0:16:1,68
+or they didn't really look,
+because when the banks failed,
+
+
+256
+0:16:1,68 --> 0:16:6,27
+there were $70 billion
+US outstanding CDS
+
+
+257
+0:16:6,27 --> 0:16:8,15
+contracts on those three banks.
+
+
+258
+0:16:8,15 --> 0:16:12,67
+And again, comparing to Lehman,
+outstanding CDS contracts
+
+
+259
+0:16:12,67 --> 0:16:15,41
+on Lehman were
+$72 billion, so it
+
+
+260
+0:16:15,41 --> 0:16:21,444
+was, by no means, a liquid
+market, in that sense.
+
+
+261
+0:16:21,444 --> 0:16:23,11
+Of course, it's a
+market with insurance,
+
+
+262
+0:16:23,11 --> 0:16:27,64
+so it's not going to behave
+like stock markets, right?
+
+
+263
+0:16:27,64 --> 0:16:35,21
+Now, being faced with such
+a high cost of funding,
+
+
+264
+0:16:35,21 --> 0:16:41,99
+the banks simply had to turn
+elsewhere to refund the banks,
+
+
+265
+0:16:41,99 --> 0:16:43,72
+and where did they go?
+
+
+266
+0:16:43,72 --> 0:16:46,53
+They went into two directions.
+
+
+267
+0:16:46,53 --> 0:16:50,48
+One was to go to the supremely
+informed central banks,
+
+
+268
+0:16:50,48 --> 0:16:56,5
+and they managed to borrow the
+equivalent of 9 billion euros
+
+
+269
+0:16:56,5 --> 0:16:58,33
+at the very height.
+
+
+270
+0:16:58,33 --> 0:17:2,2
+Again, comparing to the
+financial rescue package
+
+
+271
+0:17:2,2 --> 0:17:6,44
+that Iceland received from the
+IMF and the rest of Scandinavia
+
+
+272
+0:17:6,44 --> 0:17:13,17
+was about 3.5 billion euros, so
+a significant amount of money
+
+
+273
+0:17:13,17 --> 0:17:15,819
+they borrowed from
+the central banks.
+
+
+274
+0:17:15,819 --> 0:17:19,79
+And how did they
+manage to do that?
+
+
+275
+0:17:19,79 --> 0:17:25,31
+Well, they backed it with
+bank bonds, to large degree.
+
+
+276
+0:17:25,31 --> 0:17:28,17
+Here you can see the
+collateralized lending
+
+
+277
+0:17:28,17 --> 0:17:29,99
+from the Central
+Bank of Iceland.
+
+
+278
+0:17:29,99 --> 0:17:33,34
+This is denominated in ISK,
+so you can see basically
+
+
+279
+0:17:33,34 --> 0:17:39,51
+how dependent they are of this
+short-term, fine-tuning funding
+
+
+280
+0:17:39,51 --> 0:17:42,41
+facility from the central bank,
+so for three years, they're
+
+
+281
+0:17:42,41 --> 0:17:46,64
+completely dependent here on
+the $100 billion-- at the time,
+
+
+282
+0:17:46,64 --> 0:17:49,54
+was roughly half of the
+budget of the Icelandic state.
+
+
+283
+0:17:49,54 --> 0:17:51,183
+AUDIENCE: [INAUDIBLE]?
+
+
+284
+0:17:51,183 --> 0:17:52,266
+GUDRUN JOHNSEN: Say again?
+
+
+285
+0:17:52,266 --> 0:17:54,99
+AUDIENCE: What's the
+conversion [INAUDIBLE]?
+
+
+286
+0:17:54,99 --> 0:17:57,99
+GUDRUN JOHNSEN: Roughly 100.
+
+
+287
+0:17:57,99 --> 0:18:4,73
+Now, they backed it with
+government-secured bonds,
+
+
+288
+0:18:4,73 --> 0:18:9,8
+but also with fellow bank
+bonds, and that they did
+
+
+289
+0:18:9,8 --> 0:18:13,44
+at an increasing rate.
+
+
+290
+0:18:13,44 --> 0:18:17,54
+The central bank
+acknowledged that
+
+
+291
+0:18:17,54 --> 0:18:21,7
+this collateralized lending
+was getting excessive,
+
+
+292
+0:18:21,7 --> 0:18:25,9
+so they tried to stem the
+funding to three banks,
+
+
+293
+0:18:25,9 --> 0:18:28,31
+but the bankers really
+didn't stop at that,
+
+
+294
+0:18:28,31 --> 0:18:31,96
+so they asked a rival,
+small, cooperative bank
+
+
+295
+0:18:31,96 --> 0:18:35,3
+to aid them in the process of
+virtually printing money out
+
+
+296
+0:18:35,3 --> 0:18:37,22
+of the Icelandic Central Bank.
+
+
+297
+0:18:37,22 --> 0:18:41,9
+So what they did was they
+issued new bonds, fresh bonds.
+
+
+298
+0:18:41,9 --> 0:18:46,51
+That's a certain interest
+term, and then they
+
+
+299
+0:18:46,51 --> 0:18:50,48
+turned to the rival bank, which
+received the bank bonds, which
+
+
+300
+0:18:50,48 --> 0:18:53,49
+then, again, turned to the
+Central Bank of Iceland
+
+
+301
+0:18:53,49 --> 0:18:59,5
+to get liquidity out the
+Central Bank of Iceland.
+
+
+302
+0:18:59,5 --> 0:19:2,8
+And the bankers reported it
+to the Special Investigation
+
+
+303
+0:19:2,8 --> 0:19:6,99
+Commission that this was a
+stunt that they played, and had
+
+
+304
+0:19:6,99 --> 0:19:11,32
+learned about from other
+European bankers, which
+
+
+305
+0:19:11,32 --> 0:19:14,48
+is a little bit
+worrying, obviously.
+
+
+306
+0:19:14,48 --> 0:19:20,3
+Now, they did try to play the
+same trick on the European
+
+
+307
+0:19:20,3 --> 0:19:23,7
+Central Bank.
+
+
+308
+0:19:23,7 --> 0:19:30,27
+They placed bonds as
+collateral against the loans
+
+
+309
+0:19:30,27 --> 0:19:33,37
+from the European
+Central Bank, but you
+
+
+310
+0:19:33,37 --> 0:19:36,95
+see how they pick
+up on it in May,
+
+
+311
+0:19:36,95 --> 0:19:42,11
+and the story goes
+that the ECB basically
+
+
+312
+0:19:42,11 --> 0:19:46,31
+directed their demands towards
+the governors of the Central
+
+
+313
+0:19:46,31 --> 0:19:50,43
+Bank of Iceland to have
+the bankers take this out,
+
+
+314
+0:19:50,43 --> 0:19:52,26
+realizing that they
+were swapping bonds.
+
+
+315
+0:19:52,26 --> 0:19:57,24
+There was no original investor
+backing them at the outset,
+
+
+316
+0:19:57,24 --> 0:20:2,85
+and after awhile, they basically
+disappeared from the books
+
+
+317
+0:20:2,85 --> 0:20:5,8
+as collaterals of the ECB.
+
+
+318
+0:20:5,8 --> 0:20:11,23
+Now, what they did,
+though, and the amounts
+
+
+319
+0:20:11,23 --> 0:20:17,11
+were quite steep-- 4.5
+billion euros they received
+
+
+320
+0:20:17,11 --> 0:20:20,44
+at the very top from the
+European Central Bank--
+
+
+321
+0:20:20,44 --> 0:20:25,2
+so after having been asked to
+take out the Icelandic bank
+
+
+322
+0:20:25,2 --> 0:20:29,9
+bonds, well, they replaced
+them with CLOs and CDOs
+
+
+323
+0:20:29,9 --> 0:20:33,58
+that had ISK assets among them.
+
+
+324
+0:20:33,58 --> 0:20:37,92
+So collateral in ISK,
+in Icelandic krona,
+
+
+325
+0:20:37,92 --> 0:20:42,5
+against the loan in euros is
+not a good collateral at all,
+
+
+326
+0:20:42,5 --> 0:20:44,15
+so there's a whole
+story about that.
+
+
+327
+0:20:44,15 --> 0:20:48,8
+And the Icelandic
+Central Bank, in fact,
+
+
+328
+0:20:48,8 --> 0:20:52,27
+bought these CLOs from
+the European Central Bank
+
+
+329
+0:20:52,27 --> 0:21:0,7
+in the year 2010, and
+the European Central Bank
+
+
+330
+0:21:0,7 --> 0:21:4,59
+reported that it did
+not lose anything
+
+
+331
+0:21:4,59 --> 0:21:9,2
+on the deals with
+the Icelandic banks.
+
+
+332
+0:21:9,2 --> 0:21:12,135
+That was not the same story
+with the Icelandic central bank,
+
+
+333
+0:21:12,135 --> 0:21:17,8
+which virtually became bankrupt,
+as a result of receiving
+
+
+334
+0:21:17,8 --> 0:21:19,1
+collaterals that
+they couldn't collect
+
+
+335
+0:21:19,1 --> 0:21:23,49
+after the banks had gone over.
+
+
+336
+0:21:23,49 --> 0:21:27,37
+Back to the growth, and I know
+I'm cheating here a little bit.
+
+
+337
+0:21:27,37 --> 0:21:31,58
+I am showing you
+here nominal growth,
+
+
+338
+0:21:31,58 --> 0:21:37,85
+but it was reported-- nominal
+growth, 20-fold in seven years.
+
+
+339
+0:21:37,85 --> 0:21:42,5
+So prior to getting involved
+with the Special Investigation
+
+
+340
+0:21:42,5 --> 0:21:46,52
+Commission, I was working for
+the IMF, where we were studying
+
+
+341
+0:21:46,52 --> 0:21:48,65
+rapid credit growth,
+and I can tell you
+
+
+342
+0:21:48,65 --> 0:21:53,79
+that it's impossible
+to find data
+
+
+343
+0:21:53,79 --> 0:22:1,3
+that would show you larger
+growth of any banking sector.
+
+
+344
+0:22:1,3 --> 0:22:7,98
+Now, obviously, when you
+see banks grow this fast,
+
+
+345
+0:22:7,98 --> 0:22:9,88
+some people get worried.
+
+
+346
+0:22:9,88 --> 0:22:14,77
+They know that
+institutional structure,
+
+
+347
+0:22:14,77 --> 0:22:17,33
+or an institutional
+capacity, does not really
+
+
+348
+0:22:17,33 --> 0:22:18,76
+support this growth.
+
+
+349
+0:22:18,76 --> 0:22:24,9
+People cannot extend
+credit at this fast a pace,
+
+
+350
+0:22:24,9 --> 0:22:29,64
+and ensuring that all relevant
+documents have been collected,
+
+
+351
+0:22:29,64 --> 0:22:33,55
+and the credit scoring
+has been proper.
+
+
+352
+0:22:33,55 --> 0:22:37,69
+
+
+
+353
+0:22:37,69 --> 0:22:40,38
+So the bankers
+basically pointed out,
+
+
+354
+0:22:40,38 --> 0:22:42,35
+after receiving this
+criticism, that they
+
+
+355
+0:22:42,35 --> 0:22:43,89
+were growing too fast.
+
+
+356
+0:22:43,89 --> 0:22:46,3
+Well, we are diversifying.
+
+
+357
+0:22:46,3 --> 0:22:48,29
+We are getting
+outside of Iceland,
+
+
+358
+0:22:48,29 --> 0:22:55,44
+acquiring new institutions,
+new banks, new endeavors.
+
+
+359
+0:22:55,44 --> 0:22:59,94
+But when we looked at this, and
+tried to verify this statement,
+
+
+360
+0:22:59,94 --> 0:23:5,16
+we saw that not only was the
+acquisition growth large,
+
+
+361
+0:23:5,16 --> 0:23:10,16
+but the organic growth was also
+quite large-- another world
+
+
+362
+0:23:10,16 --> 0:23:11,65
+record, basically.
+
+
+363
+0:23:11,65 --> 0:23:16,859
+We saw the banks
+grow 50%, 60%, 35%.
+
+
+364
+0:23:16,859 --> 0:23:17,65
+This is phenomenal.
+
+
+365
+0:23:17,65 --> 0:23:20,56
+
+
+
+366
+0:23:20,56 --> 0:23:27,1
+So it surely was a strain on the
+institutional infrastructure.
+
+
+367
+0:23:27,1 --> 0:23:29,91
+Now, then you could
+ask yourself, again
+
+
+368
+0:23:29,91 --> 0:23:33,85
+with the 330,000 people,
+all of this money coming in,
+
+
+369
+0:23:33,85 --> 0:23:35,25
+what did they do with the money?
+
+
+370
+0:23:35,25 --> 0:23:42,33
+
+
+
+371
+0:23:42,33 --> 0:23:44,89
+The Commission
+basically was able to,
+
+
+372
+0:23:44,89 --> 0:23:50,57
+although the data that was a
+little bit difficult there--
+
+
+373
+0:23:50,57 --> 0:23:53,39
+background variables
+weren't properly collected--
+
+
+374
+0:23:53,39 --> 0:23:56,56
+but there are features in
+the identification number,
+
+
+375
+0:23:56,56 --> 0:23:58,77
+or social security
+number in Iceland,
+
+
+376
+0:23:58,77 --> 0:24:1,86
+that aided us in
+categorizing the loans that
+
+
+377
+0:24:1,86 --> 0:24:3,74
+had been extended.
+
+
+378
+0:24:3,74 --> 0:24:7,3
+And we found out that
+about 60% of the loan books
+
+
+379
+0:24:7,3 --> 0:24:12,28
+were to foreign entities--
+so implying diversification--
+
+
+380
+0:24:12,28 --> 0:24:19,46
+and to holding
+companies in 2007.
+
+
+381
+0:24:19,46 --> 0:24:24,73
+But after good cooperation
+with Luxembourgian authorities,
+
+
+382
+0:24:24,73 --> 0:24:29,41
+because we didn't, obviously,
+have the same data privileges
+
+
+383
+0:24:29,41 --> 0:24:33,22
+in the UK or Luxembourg
+or elsewhere,
+
+
+384
+0:24:33,22 --> 0:24:35,44
+where the Icelandic
+banks had operations.
+
+
+385
+0:24:35,44 --> 0:24:43,37
+We did not have any access to
+data from the subsidiaries.
+
+
+386
+0:24:43,37 --> 0:24:46,56
+The Luxembourgian
+authorities supplied us
+
+
+387
+0:24:46,56 --> 0:24:49,477
+with two data points,
+where we could
+
+
+388
+0:24:49,477 --> 0:24:53,14
+see that the maturity of the
+loan books of the subsidiaries
+
+
+389
+0:24:53,14 --> 0:24:59,49
+were also somehow
+connected to ISK risk,
+
+
+390
+0:24:59,49 --> 0:25:5,32
+so dismissing this statement
+that the growth was primarily
+
+
+391
+0:25:5,32 --> 0:25:10,1
+outside of the country, and at
+the hands of diversification.
+
+
+392
+0:25:10,1 --> 0:25:15,34
+Now, back to that
+small population,
+
+
+393
+0:25:15,34 --> 0:25:19,19
+you've got to wonder how
+is it possible to extend
+
+
+394
+0:25:19,19 --> 0:25:24,73
+such an amount of credit, given
+the legal constraint that one
+
+
+395
+0:25:24,73 --> 0:25:28,95
+banking institution can
+only extend about 25%
+
+
+396
+0:25:28,95 --> 0:25:35,29
+of its equity base towards
+a group of related parties?
+
+
+397
+0:25:35,29 --> 0:25:41,27
+Now, we think we
+know how you do that,
+
+
+398
+0:25:41,27 --> 0:25:45,52
+and this is basically
+how you do that.
+
+
+399
+0:25:45,52 --> 0:25:49,68
+This is the cross-ownership
+of firms in Iceland.
+
+
+400
+0:25:49,68 --> 0:25:52,89
+The red dots
+represent each firm,
+
+
+401
+0:25:52,89 --> 0:25:56,17
+and there are some ownership
+connections to the next dot,
+
+
+402
+0:25:56,17 --> 0:26:3,59
+but these are only large firms
+in Iceland, so let's say,
+
+
+403
+0:26:3,59 --> 0:26:8,33
+500 million ISK is $5
+million US, roughly,
+
+
+404
+0:26:8,33 --> 0:26:12,93
+is the balance sheet of
+each and every firm here.
+
+
+405
+0:26:12,93 --> 0:26:15,17
+You see where the nodes lead?
+
+
+406
+0:26:15,17 --> 0:26:19,47
+These nodes are the
+banks themselves,
+
+
+407
+0:26:19,47 --> 0:26:21,6
+so this is the
+interconnectedness
+
+
+408
+0:26:21,6 --> 0:26:25,56
+of the Icelandic economy
+before the collapse.
+
+
+409
+0:26:25,56 --> 0:26:34,5
+Then our task was to assess
+who are the related parties,
+
+
+410
+0:26:34,5 --> 0:26:37,7
+according to the
+definition of the law?
+
+
+411
+0:26:37,7 --> 0:26:40,88
+And using an algorithm
+and this network analysis,
+
+
+412
+0:26:40,88 --> 0:26:44,87
+we were able to assess,
+or rather come up
+
+
+413
+0:26:44,87 --> 0:26:49,26
+with an unbiased methodology,
+to actually find out
+
+
+414
+0:26:49,26 --> 0:26:52,93
+who were connected, and here you
+see just two random examples.
+
+
+415
+0:26:52,93 --> 0:26:58,61
+And what was also a
+little bit scary to see
+
+
+416
+0:26:58,61 --> 0:27:2,8
+is the circular
+events that you see.
+
+
+417
+0:27:2,8 --> 0:27:4,91
+Here is a firm A that
+owns firm B that owns firm
+
+
+418
+0:27:4,91 --> 0:27:9,49
+C that owns firm A. So
+under these circumstances,
+
+
+419
+0:27:9,49 --> 0:27:14,81
+virtually no equity, no
+skin, is put in the game.
+
+
+420
+0:27:14,81 --> 0:27:22,16
+So one of the lessons is
+that if we don't properly
+
+
+421
+0:27:22,16 --> 0:27:26,31
+analyze ownership
+or ownership ties
+
+
+422
+0:27:26,31 --> 0:27:29,84
+or interconnectedness
+in our system,
+
+
+423
+0:27:29,84 --> 0:27:36,305
+we know that agents that play
+this game simply have-- the sky
+
+
+424
+0:27:36,305 --> 0:27:40,54
+is the limit, so there's really
+no limit to how much risk
+
+
+425
+0:27:40,54 --> 0:27:42,75
+they're willing to take,
+because they are not
+
+
+426
+0:27:42,75 --> 0:27:46,6
+risking their own money at all.
+
+
+427
+0:27:46,6 --> 0:27:52,23
+Now, after we had identified
+the related parties,
+
+
+428
+0:27:52,23 --> 0:27:54,41
+we then merged them
+to the portfolios
+
+
+429
+0:27:54,41 --> 0:27:58,73
+of the banks-- the loan
+portfolios-- and lo and behold,
+
+
+430
+0:27:58,73 --> 0:28:2,47
+we found out that the borrowers
+were, to a large extent,
+
+
+431
+0:28:2,47 --> 0:28:5,3
+the owners of the banks.
+
+
+432
+0:28:5,3 --> 0:28:9,81
+It varied a little bit
+in levels how much access
+
+
+433
+0:28:9,81 --> 0:28:13,71
+they had to their bank, but
+here, this particular group,
+
+
+434
+0:28:13,71 --> 0:28:19,73
+Baugur Group, received the
+equivalent of about 80%
+
+
+435
+0:28:19,73 --> 0:28:26,96
+of the equity base
+of Glitnir, where
+
+
+436
+0:28:26,96 --> 0:28:29,2
+they were controlling
+shareholders.
+
+
+437
+0:28:29,2 --> 0:28:30,83
+So here you see the
+legal limit is 25.
+
+
+438
+0:28:30,83 --> 0:28:34,24
+They exceeded it
+throughout the time.
+
+
+439
+0:28:34,24 --> 0:28:37,55
+Now, here's their
+business partner,
+
+
+440
+0:28:37,55 --> 0:28:40,69
+who also gained a
+controlling stake at the bank
+
+
+441
+0:28:40,69 --> 0:28:41,57
+at some point.
+
+
+442
+0:28:41,57 --> 0:28:44,106
+Somebody wants to venture
+a guess when that happened?
+
+
+443
+0:28:44,106 --> 0:28:44,96
+AUDIENCE: 2007.
+
+
+444
+0:28:44,96 --> 0:28:51,81
+GUDRUN JOHNSEN: So yeah, it's
+right here, in June 2007.
+
+
+445
+0:28:51,81 --> 0:28:56,95
+So as I say, it was the same
+pattern in all three banks.
+
+
+446
+0:28:56,95 --> 0:29:1,12
+Here Bjorgolfur
+Thor Bjorgolfsson,
+
+
+447
+0:29:1,12 --> 0:29:3,8
+one of the controlling
+stakeholders,
+
+
+448
+0:29:3,8 --> 0:29:8,7
+exceeded the 25% threshold
+throughout the four-year period
+
+
+449
+0:29:8,7 --> 0:29:12,89
+we had data for.
+
+
+450
+0:29:12,89 --> 0:29:16,6
+And the same goes for Exista,
+controlling stakeholder
+
+
+451
+0:29:16,6 --> 0:29:19,83
+in Kaupthing bank, again,
+dancing along the line
+
+
+452
+0:29:19,83 --> 0:29:22,51
+throughout the period.
+
+
+453
+0:29:22,51 --> 0:29:25,35
+Now, obviously the
+loan portfolios
+
+
+454
+0:29:25,35 --> 0:29:30,49
+were marked by excessive
+risk, and the next task
+
+
+455
+0:29:30,49 --> 0:29:33,9
+was to see the payment
+structure of these loans,
+
+
+456
+0:29:33,9 --> 0:29:37,48
+and that was also quite
+shocking to discover
+
+
+457
+0:29:37,48 --> 0:29:39,98
+that not only had
+they been extended
+
+
+458
+0:29:39,98 --> 0:29:43,55
+to holding companies that
+were tied to the owners
+
+
+459
+0:29:43,55 --> 0:29:45,97
+to a large degree,
+but also they were not
+
+
+460
+0:29:45,97 --> 0:29:47,98
+paying anything off the loans.
+
+
+461
+0:29:47,98 --> 0:29:50,0
+They were not paying
+interest rates,
+
+
+462
+0:29:50,0 --> 0:29:52,96
+and they were not paying
+off any of the loan
+
+
+463
+0:29:52,96 --> 0:29:55,35
+during the lifetime of
+the loan, so bullet loans
+
+
+464
+0:29:55,35 --> 0:29:59,72
+became the largest
+share of the portfolios.
+
+
+465
+0:29:59,72 --> 0:30:2,92
+Then you wonder, what
+type of collateral
+
+
+466
+0:30:2,92 --> 0:30:7,57
+are these borrowers
+putting forward?
+
+
+467
+0:30:7,57 --> 0:30:8,57
+And that really matters.
+
+
+468
+0:30:8,57 --> 0:30:15,48
+
+
+
+469
+0:30:15,48 --> 0:30:19,72
+Because we had this beautiful
+data privilege and this dataset
+
+
+470
+0:30:19,72 --> 0:30:23,87
+from the stock market, and we
+had also access to the bank,
+
+
+471
+0:30:23,87 --> 0:30:27,6
+so we could see what was
+inside of the custodian
+
+
+472
+0:30:27,6 --> 0:30:30,15
+accounts of the banks, because
+that's an old trick in the book
+
+
+473
+0:30:30,15 --> 0:30:33,66
+to have your bank hold the
+stocks that you are pledged,
+
+
+474
+0:30:33,66 --> 0:30:37,37
+so your ownership is
+not disclosed at all.
+
+
+475
+0:30:37,37 --> 0:30:40,34
+
+
+
+476
+0:30:40,34 --> 0:30:42,73
+So what did they pledge?
+
+
+477
+0:30:42,73 --> 0:30:45,92
+Basically, to a large
+degree, the banks
+
+
+478
+0:30:45,92 --> 0:30:48,93
+had received a
+collateral in the form
+
+
+479
+0:30:48,93 --> 0:30:51,33
+of listed stocks in Iceland.
+
+
+480
+0:30:51,33 --> 0:30:54,38
+
+
+
+481
+0:30:54,38 --> 0:30:59,41
+There is a caveat here, because
+the data quality on collateral
+
+
+482
+0:30:59,41 --> 0:31:3,9
+was incredibly poor,
+so this was really
+
+
+483
+0:31:3,9 --> 0:31:9,83
+the only comprehensive
+data that we could receive,
+
+
+484
+0:31:9,83 --> 0:31:11,37
+in terms of collateral.
+
+
+485
+0:31:11,37 --> 0:31:13,91
+So this is a little bit
+misrepresentative here,
+
+
+486
+0:31:13,91 --> 0:31:18,35
+but still we saw
+that, for example,
+
+
+487
+0:31:18,35 --> 0:31:21,65
+FL Group was an investment
+boutique, or investment
+
+
+488
+0:31:21,65 --> 0:31:25,7
+closed-end fund, in
+fact, and about 70%
+
+
+489
+0:31:25,7 --> 0:31:28,61
+of all outstanding
+shares in this firm
+
+
+490
+0:31:28,61 --> 0:31:32,66
+were pledged into
+the banking sector.
+
+
+491
+0:31:32,66 --> 0:31:45,25
+To our horror, though, we saw
+that about 40% of Kaupthing
+
+
+492
+0:31:45,25 --> 0:31:49,25
+was pledged into Kaupthing
+as collateral, or as treasury
+
+
+493
+0:31:49,25 --> 0:31:50,53
+stocks.
+
+
+494
+0:31:50,53 --> 0:31:52,9
+Now, that is illegal.
+
+
+495
+0:31:52,9 --> 0:31:55,23
+You are only allowed,
+according to Icelandic law,
+
+
+496
+0:31:55,23 --> 0:31:58,11
+to hold 10% of treasury stocks.
+
+
+497
+0:31:58,11 --> 0:32:2,86
+This is illegal in the States.
+
+
+498
+0:32:2,86 --> 0:32:5,37
+At least if you do
+have treasury stocks,
+
+
+499
+0:32:5,37 --> 0:32:8,5
+you need to deduct them
+from your equity base.
+
+
+500
+0:32:8,5 --> 0:32:13,82
+It's money that hasn't
+been paid into the firm,
+
+
+501
+0:32:13,82 --> 0:32:17,51
+or equity that hasn't
+been paid into the firm.
+
+
+502
+0:32:17,51 --> 0:32:20,5
+The following question,
+after having discovered this,
+
+
+503
+0:32:20,5 --> 0:32:23,34
+we had to ask ourselves, how
+did they behave in the stock
+
+
+504
+0:32:23,34 --> 0:32:25,54
+market, then, I mean,
+now that they were
+
+
+505
+0:32:25,54 --> 0:32:29,93
+dependent on collaterals
+from the stock market?
+
+
+506
+0:32:29,93 --> 0:32:35,92
+And lo and behold, we saw a
+certain pattern there as well.
+
+
+507
+0:32:35,92 --> 0:32:41,88
+Here you see Kaupthing
+trading in own shares,
+
+
+508
+0:32:41,88 --> 0:32:47,45
+and Kaupthing is buying above
+0, and they are selling below 0,
+
+
+509
+0:32:47,45 --> 0:32:49,32
+and the blue line
+here represents
+
+
+510
+0:32:49,32 --> 0:32:56,9
+the price of the share price
+of the Kaupthing stocks.
+
+
+511
+0:32:56,9 --> 0:32:59,4
+And you immediately-- it
+jumps out of the picture
+
+
+512
+0:32:59,4 --> 0:33:2,22
+that this is not
+symmetric, so they
+
+
+513
+0:33:2,22 --> 0:33:6,79
+are buying close to
+60% of the volume.
+
+
+514
+0:33:6,79 --> 0:33:9,24
+Of all trades in
+Kaupthing, they are
+
+
+515
+0:33:9,24 --> 0:33:11,337
+on the buying side
+at the very end,
+
+
+516
+0:33:11,337 --> 0:33:13,17
+but what are they doing
+in terms of selling?
+
+
+517
+0:33:13,17 --> 0:33:15,57
+They're not selling anything.
+
+
+518
+0:33:15,57 --> 0:33:19,91
+So what were they then doing?
+
+
+519
+0:33:19,91 --> 0:33:22,39
+What type of business was this?
+
+
+520
+0:33:22,39 --> 0:33:25,345
+What we figured out was
+that they were primarily--
+
+
+521
+0:33:25,345 --> 0:33:28,64
+you see the blue columns
+here-- they are above 0,
+
+
+522
+0:33:28,64 --> 0:33:32,5
+so they are being bought
+on the stock exchange,
+
+
+523
+0:33:32,5 --> 0:33:36,77
+but Kaupthing is selling
+over the counter.
+
+
+524
+0:33:36,77 --> 0:33:42,86
+Now, one of my favorite pictures
+in the whole 2,400 pages
+
+
+525
+0:33:42,86 --> 0:33:44,8
+is right here.
+
+
+526
+0:33:44,8 --> 0:33:48,77
+It represents the level of
+leverage in the Icelandic stock
+
+
+527
+0:33:48,77 --> 0:33:51,14
+exchange.
+
+
+528
+0:33:51,14 --> 0:33:53,68
+It's a delta, so how
+much are we increasing,
+
+
+529
+0:33:53,68 --> 0:33:59,5
+in terms of taking collateral
+in the form of listed shares?
+
+
+530
+0:33:59,5 --> 0:34:2,32
+And as long as you are receiving
+more and more collateral,
+
+
+531
+0:34:2,32 --> 0:34:5,28
+or you're accepting
+more and more collateral
+
+
+532
+0:34:5,28 --> 0:34:9,6
+in the form of stocks they
+are buying on the margin
+
+
+533
+0:34:9,6 --> 0:34:11,655
+more and more, you see
+that the price is rising.
+
+
+534
+0:34:11,655 --> 0:34:14,429
+
+
+
+535
+0:34:14,429 --> 0:34:16,48
+The red line there
+leveling out--
+
+
+536
+0:34:16,48 --> 0:34:21,37
+as soon as you stop accepting
+listed shares as collateral,
+
+
+537
+0:34:21,37 --> 0:34:23,44
+the price drops like a stone.
+
+
+538
+0:34:23,44 --> 0:34:28,184
+So this is virtually a picture
+of an asset price bubble.
+
+
+539
+0:34:28,184 --> 0:34:32,639
+
+
+
+540
+0:34:32,639 --> 0:34:34,43
+AUDIENCE: Why were they
+buying [INAUDIBLE]?
+
+
+541
+0:34:34,43 --> 0:34:44,231
+
+
+
+542
+0:34:44,231 --> 0:34:45,73
+GUDRUN JOHNSEN: Why
+were they buying
+
+
+543
+0:34:45,73 --> 0:34:47,92
+all these shares in themselves?
+
+
+544
+0:34:47,92 --> 0:34:53,17
+Basically they had become quite
+dependent on the share price,
+
+
+545
+0:34:53,17 --> 0:34:56,34
+and we will see it on
+the next slide, which
+
+
+546
+0:34:56,34 --> 0:34:59,18
+added to their demise,
+is that the largest
+
+
+547
+0:34:59,18 --> 0:35:0,79
+controlling
+stakeholders had also
+
+
+548
+0:35:0,79 --> 0:35:4,21
+borrowed money from the big
+investment houses in the US--
+
+
+549
+0:35:4,21 --> 0:35:6,6
+so Citigroup, Morgan
+Stanley, and those--
+
+
+550
+0:35:6,6 --> 0:35:8,88
+and they had pledged
+the Icelandic stocks
+
+
+551
+0:35:8,88 --> 0:35:11,45
+in the Icelandic
+banks as collateral
+
+
+552
+0:35:11,45 --> 0:35:14,94
+against these
+international loans.
+
+
+553
+0:35:14,94 --> 0:35:20,19
+Now, after the stock market
+had started to decline,
+
+
+554
+0:35:20,19 --> 0:35:23,21
+the Americans basically
+called on the margin,
+
+
+555
+0:35:23,21 --> 0:35:26,52
+and what the bankers in
+Iceland decided then-- well,
+
+
+556
+0:35:26,52 --> 0:35:28,33
+we can't allow this to
+happen, because they
+
+
+557
+0:35:28,33 --> 0:35:30,72
+will go into the market,
+and sell those shares,
+
+
+558
+0:35:30,72 --> 0:35:33,21
+and what will happen with
+our pool of collaterals?
+
+
+559
+0:35:33,21 --> 0:35:34,58
+It will decline.
+
+
+560
+0:35:34,58 --> 0:35:38,75
+So they decide to chip in,
+and pay the margin calls,
+
+
+561
+0:35:38,75 --> 0:35:42,58
+and refund those shares that
+were in themselves, accepting
+
+
+562
+0:35:42,58 --> 0:35:44,5
+their own shares as collateral.
+
+
+563
+0:35:44,5 --> 0:35:48,25
+So basically, a year
+before the banks
+
+
+564
+0:35:48,25 --> 0:35:50,43
+finally collapsed,
+they had become
+
+
+565
+0:35:50,43 --> 0:35:53,24
+so dependent on their
+own stock prices
+
+
+566
+0:35:53,24 --> 0:35:56,23
+that they decide
+to bat for life,
+
+
+567
+0:35:56,23 --> 0:36:3,9
+and take over this collateral
+that is no collateral,
+
+
+568
+0:36:3,9 --> 0:36:5,9
+if they themselves go under.
+
+
+569
+0:36:5,9 --> 0:36:7,84
+
+
+
+570
+0:36:7,84 --> 0:36:11,39
+Which then, again, this
+would have been fine
+
+
+571
+0:36:11,39 --> 0:36:15,89
+if they had deducted the
+shares that they took
+
+
+572
+0:36:15,89 --> 0:36:18,8
+as collaterals from
+the equity base,
+
+
+573
+0:36:18,8 --> 0:36:21,3
+but they forgot about that.
+
+
+574
+0:36:21,3 --> 0:36:25,77
+So if we take that
+into account--
+
+
+575
+0:36:25,77 --> 0:36:28,62
+and here you see we only
+take that into account--
+
+
+576
+0:36:28,62 --> 0:36:31,67
+the capital adequacy
+ratio that they reported
+
+
+577
+0:36:31,67 --> 0:36:35,96
+was misreported basically,
+and here you see Glitnir.
+
+
+578
+0:36:35,96 --> 0:36:39,86
+It's, in fact, close to
+the legal limit, which
+
+
+579
+0:36:39,86 --> 0:36:45,9
+is 8%, a year before
+the bank collapsed.
+
+
+580
+0:36:45,9 --> 0:36:50,94
+For Landsbanki, it had already
+gone below the 8% limit,
+
+
+581
+0:36:50,94 --> 0:36:53,42
+so there the Financial
+Supervisory Authority
+
+
+582
+0:36:53,42 --> 0:36:59,77
+should have tapped in and
+taken over the operations.
+
+
+583
+0:36:59,77 --> 0:37:4,39
+And if you count
+cross-financing--
+
+
+584
+0:37:4,39 --> 0:37:6,65
+financing of the
+rivals-- in fact,
+
+
+585
+0:37:6,65 --> 0:37:12,887
+22% of the equity is basically
+funded this way, and 36%, 33%,
+
+
+586
+0:37:12,887 --> 0:37:18,36
+2008, so one third of the
+equity was basically not there,
+
+
+587
+0:37:18,36 --> 0:37:21,7
+and in my mind, that is
+falsification of equity,
+
+
+588
+0:37:21,7 --> 0:37:24,62
+but the report goes the route
+that claiming that this is weak
+
+
+589
+0:37:24,62 --> 0:37:30,1
+equity that cannot be drawn
+on in the case of bankruptcy.
+
+
+590
+0:37:30,1 --> 0:37:38,56
+Now, you've got to start
+wondering why people do this,
+
+
+591
+0:37:38,56 --> 0:37:43,2
+and the short answer
+is, they became rich.
+
+
+592
+0:37:43,2 --> 0:37:45,71
+Here you see the
+incentive schemes
+
+
+593
+0:37:45,71 --> 0:37:49,37
+pushed for excessive
+risk taking,
+
+
+594
+0:37:49,37 --> 0:37:53,63
+and just as a very
+small evidence
+
+
+595
+0:37:53,63 --> 0:37:59,33
+of that is that here you see
+the total share of base salary,
+
+
+596
+0:37:59,33 --> 0:38:4,64
+of total pay, in
+2004 in Landsbanki.
+
+
+597
+0:38:4,64 --> 0:38:8,2
+Here's the 99th percentile,
+so the CEO is placed here,
+
+
+598
+0:38:8,2 --> 0:38:12,9
+and the key personnel--
+they received about 40%
+
+
+599
+0:38:12,9 --> 0:38:15,53
+in base salary in 2004.
+
+
+600
+0:38:15,53 --> 0:38:22,38
+In 2007, it's below
+10%, so economists--
+
+
+601
+0:38:22,38 --> 0:38:26,16
+we have sympathy towards the
+decision-making process that
+
+
+602
+0:38:26,16 --> 0:38:27,62
+happens there.
+
+
+603
+0:38:27,62 --> 0:38:32,7
+One, if you're not going to meet
+your bonus target, you going
+
+
+604
+0:38:32,7 --> 0:38:35,18
+to reduce your
+consumption by 90%?
+
+
+605
+0:38:35,18 --> 0:38:38,81
+No, there's is a
+very strong incentive
+
+
+606
+0:38:38,81 --> 0:38:42,83
+to start manipulating
+a little bit,
+
+
+607
+0:38:42,83 --> 0:38:44,51
+or extending the
+evergreening loans,
+
+
+608
+0:38:44,51 --> 0:38:47,1
+and so on, and so forth--
+rolling over loans,
+
+
+609
+0:38:47,1 --> 0:38:51,549
+so that the picture looks a bit
+more rosy to meet the targets,
+
+
+610
+0:38:51,549 --> 0:38:52,965
+and that is exactly
+what happened.
+
+
+611
+0:38:52,965 --> 0:38:55,92
+
+
+
+612
+0:38:55,92 --> 0:38:59,13
+There's enough material for a
+separate talk on the incentive
+
+
+613
+0:38:59,13 --> 0:39:5,1
+schemes themselves, but in
+short, whether intentional
+
+
+614
+0:39:5,1 --> 0:39:9,65
+or not, the management
+of the banks
+
+
+615
+0:39:9,65 --> 0:39:13,53
+used staff as vehicles
+to falsify equity.
+
+
+616
+0:39:13,53 --> 0:39:16,81
+In Landsbanki, for
+example, stock options
+
+
+617
+0:39:16,81 --> 0:39:23,61
+were issued one day, not as
+a bargaining tool in salary
+
+
+618
+0:39:23,61 --> 0:39:26,8
+negotiations, but
+one day, we have
+
+
+619
+0:39:26,8 --> 0:39:31,71
+a record within Landsbanki,
+where staffers were called up,
+
+
+620
+0:39:31,71 --> 0:39:34,8
+and said, hey, you've
+got an option grant now.
+
+
+621
+0:39:34,8 --> 0:39:36,86
+Please come up and sign.
+
+
+622
+0:39:36,86 --> 0:39:47,73
+And the management decided
+to hatch those options,
+
+
+623
+0:39:47,73 --> 0:39:53,4
+so basically in the beginning,
+they lent money into SPVs
+
+
+624
+0:39:53,4 --> 0:39:57,44
+in Cayman Islands and
+offshore, lent money
+
+
+625
+0:39:57,44 --> 0:40:2,69
+to have the SPV go into the
+market to buy the stocks,
+
+
+626
+0:40:2,69 --> 0:40:6,41
+and hold them until
+the options were vested
+
+
+627
+0:40:6,41 --> 0:40:8,8
+or they were exercised.
+
+
+628
+0:40:8,8 --> 0:40:14,5
+Now, this is a rather unusual
+and unnecessary hatch.
+
+
+629
+0:40:14,5 --> 0:40:17,29
+As I say, we can
+go into depth here,
+
+
+630
+0:40:17,29 --> 0:40:22,5
+but in short, obviously
+the management
+
+
+631
+0:40:22,5 --> 0:40:24,35
+decides on the timing on
+when to go into the market
+
+
+632
+0:40:24,35 --> 0:40:27,52
+and buy those shares, and
+what happens when you inject
+
+
+633
+0:40:27,52 --> 0:40:32,93
+into the market billions of ISK
+buying stocks in Landsbanki?
+
+
+634
+0:40:32,93 --> 0:40:35,11
+Well, the price will
+go up, of course,
+
+
+635
+0:40:35,11 --> 0:40:38,94
+and the options will be
+in the money immediately.
+
+
+636
+0:40:38,94 --> 0:40:42,7
+Kaupthing started out with this,
+but they faded out their option
+
+
+637
+0:40:42,7 --> 0:40:47,38
+program, and instead they
+had their staff borrow money
+
+
+638
+0:40:47,38 --> 0:40:49,95
+from the bank to go themselves
+into the stock market,
+
+
+639
+0:40:49,95 --> 0:40:52,22
+and buy the shares.
+
+
+640
+0:40:52,22 --> 0:40:59,45
+The shares were a collateral
+in that loan deal,
+
+
+641
+0:40:59,45 --> 0:41:4,64
+and therefore should have been
+deducted from the equity base.
+
+
+642
+0:41:4,64 --> 0:41:9,95
+Now, back to the funding side.
+
+
+643
+0:41:9,95 --> 0:41:11,61
+
+
+
+644
+0:41:11,61 --> 0:41:15,18
+The banks were experiencing
+incredibly high prices
+
+
+645
+0:41:15,18 --> 0:41:18,88
+on funding, or terms,
+in the bond markets,
+
+
+646
+0:41:18,88 --> 0:41:22,93
+so apart from going
+to central banks,
+
+
+647
+0:41:22,93 --> 0:41:25,96
+they went into the streets
+of London and Amsterdam
+
+
+648
+0:41:25,96 --> 0:41:31,127
+to get money through
+deposit collection,
+
+
+649
+0:41:31,127 --> 0:41:33,21
+and here you can see the
+total debt of Landsbanki.
+
+
+650
+0:41:33,21 --> 0:41:34,57
+It changes rapidly.
+
+
+651
+0:41:34,57 --> 0:41:39,34
+The loans and deposits
+become the largest share
+
+
+652
+0:41:39,34 --> 0:41:42,1
+of the funding structure.
+
+
+653
+0:41:42,1 --> 0:41:47,93
+Now, as it is very risky to
+extend credit out rapidly,
+
+
+654
+0:41:47,93 --> 0:41:52,44
+it is also very risky to
+collect deposits very rapidly,
+
+
+655
+0:41:52,44 --> 0:41:55,33
+and they tend to
+be not so loyal.
+
+
+656
+0:41:55,33 --> 0:42:0,62
+And how were they ever able
+to attract all these 300,000
+
+
+657
+0:42:0,62 --> 0:42:4,1
+depositors in the UK in
+less than six months?
+
+
+658
+0:42:4,1 --> 0:42:7,83
+They basically offered
+the highest rate.
+
+
+659
+0:42:7,83 --> 0:42:14,57
+And you're not supposed to
+scrutinize this regression
+
+
+660
+0:42:14,57 --> 0:42:15,7
+analysis.
+
+
+661
+0:42:15,7 --> 0:42:18,43
+This is very crude, and you
+see that there is not very much
+
+
+662
+0:42:18,43 --> 0:42:23,13
+variation here, but
+basically we saw
+
+
+663
+0:42:23,13 --> 0:42:28,97
+that if Landsbanki reached the
+first place, as highest deposit
+
+
+664
+0:42:28,97 --> 0:42:34,61
+rates-- they attracted about
+18 million, on average, a week
+
+
+665
+0:42:34,61 --> 0:42:40,49
+into the accounts, but if it
+dropped down to fifth place,
+
+
+666
+0:42:40,49 --> 0:42:46,81
+they lost 16 million, so
+these were not very sticky.
+
+
+667
+0:42:46,81 --> 0:42:49,9
+It's very volatile
+funding, and here
+
+
+668
+0:42:49,9 --> 0:42:52,77
+is a picture of basically outrun
+on the bank that happened here
+
+
+669
+0:42:52,77 --> 0:42:55,95
+in the early of 2008.
+
+
+670
+0:42:55,95 --> 0:42:57,91
+There's a whole
+story behind that,
+
+
+671
+0:42:57,91 --> 0:43:0,332
+but I will leave my
+book to tell you.
+
+
+672
+0:43:0,332 --> 0:43:2,405
+AUDIENCE: Are they able
+to pay those high rates
+
+
+673
+0:43:2,405 --> 0:43:4,357
+by attracting future customers?
+
+
+674
+0:43:4,357 --> 0:43:6,19
+GUDRUN JOHNSEN: So the
+question is, are they
+
+
+675
+0:43:6,19 --> 0:43:7,99
+able to pay those high rates?
+
+
+676
+0:43:7,99 --> 0:43:11,3
+Well, at the end of the
+day, no, of course not.
+
+
+677
+0:43:11,3 --> 0:43:13,21
+They were run upon.
+
+
+678
+0:43:13,21 --> 0:43:19,61
+Well, as they collecting, they
+paid the interest rates, yes,
+
+
+679
+0:43:19,61 --> 0:43:22,959
+but it was not sustainable
+model, as it turned out.
+
+
+680
+0:43:22,959 --> 0:43:25,5
+AUDIENCE: So is it sort of like
+a pyramid-scheme thing, where
+
+
+681
+0:43:25,5 --> 0:43:25,998
+by offering higher
+rates, we'll get
+
+
+682
+0:43:25,998 --> 0:43:27,581
+a lot of [INAUDIBLE]
+customers, and we
+
+
+683
+0:43:27,581 --> 0:43:30,31
+can use [INAUDIBLE] deposits,
+and pay the high rate?
+
+
+684
+0:43:30,31 --> 0:43:31,6
+[INAUDIBLE]
+
+
+685
+0:43:31,6 --> 0:43:33,48
+GUDRUN JOHNSEN: So is it
+like a Ponzi scheme, where
+
+
+686
+0:43:33,48 --> 0:43:40,35
+you are giving up high rates
+as you have the program open,
+
+
+687
+0:43:40,35 --> 0:43:41,83
+and then you just disappear?
+
+
+688
+0:43:41,83 --> 0:43:45,13
+Yeah, well, it was not
+intended like that,
+
+
+689
+0:43:45,13 --> 0:43:47,99
+but that is the effect of it.
+
+
+690
+0:43:47,99 --> 0:43:58,36
+Now, as you can see here, here's
+a random Icesave in April 2008,
+
+
+691
+0:43:58,36 --> 0:44:2,19
+and at the time, the
+management of Landsbanki
+
+
+692
+0:44:2,19 --> 0:44:4,79
+reported it to the
+Central Bank of Iceland
+
+
+693
+0:44:4,79 --> 0:44:7,28
+that with this
+outflow, they would
+
+
+694
+0:44:7,28 --> 0:44:10,92
+survive for six more days.
+
+
+695
+0:44:10,92 --> 0:44:15,26
+The Icelandic governors of
+the Central Bank of Iceland
+
+
+696
+0:44:15,26 --> 0:44:17,55
+then reported that
+to the government,
+
+
+697
+0:44:17,55 --> 0:44:26,57
+to the prime minister
+and the foreign minister,
+
+
+698
+0:44:26,57 --> 0:44:32,74
+and there was really no
+reaction to this news.
+
+
+699
+0:44:32,74 --> 0:44:35,53
+Icesave has been the
+largest foreign dispute
+
+
+700
+0:44:35,53 --> 0:44:38,71
+Iceland has had
+since the Cod Wars,
+
+
+701
+0:44:38,71 --> 0:44:45,42
+and this is an ongoing saga,
+and hasn't been fully resolved,
+
+
+702
+0:44:45,42 --> 0:44:52,52
+although the EFTA Court ruled on
+whether the Icelandic state was
+
+
+703
+0:44:52,52 --> 0:44:57,5
+liable for the deposits, or
+should pay out the deposit
+
+
+704
+0:44:57,5 --> 0:45:0,31
+insurance amount to
+the foreign depositors.
+
+
+705
+0:45:0,31 --> 0:45:3,7
+
+
+
+706
+0:45:3,7 --> 0:45:8,33
+The Court ruled in
+favor of Iceland
+
+
+707
+0:45:8,33 --> 0:45:13,69
+basically, so we have figured
+out where the liability lies
+
+
+708
+0:45:13,69 --> 0:45:17,533
+with a state or with
+an insurance fund that
+
+
+709
+0:45:17,533 --> 0:45:19,48
+has been set up, and,
+in fact, in this case,
+
+
+710
+0:45:19,48 --> 0:45:23,31
+the insurance fund is liable.
+
+
+711
+0:45:23,31 --> 0:45:33,44
+Now, as Lehman Brothers
+failed, obviously that
+
+
+712
+0:45:33,44 --> 0:45:35,59
+proved to be an
+accelerator, in terms
+
+
+713
+0:45:35,59 --> 0:45:39,73
+of deciding the fates
+of the Icelandic banks.
+
+
+714
+0:45:39,73 --> 0:45:42,59
+After the collapse of
+Lehman, the collaterals
+
+
+715
+0:45:42,59 --> 0:45:48,18
+that had been pledged
+against loans from the ECB
+
+
+716
+0:45:48,18 --> 0:45:53,11
+fell sharply, so the ECB
+started to call on the margin.
+
+
+717
+0:45:53,11 --> 0:46:1,32
+Also, the depositors in
+the UK and the Netherlands
+
+
+718
+0:46:1,32 --> 0:46:4,91
+became uneasy, so they started
+to withdraw their funds
+
+
+719
+0:46:4,91 --> 0:46:9,88
+from the accounts, and
+essentially, Landsbanki
+
+
+720
+0:46:9,88 --> 0:46:21,35
+was run upon, and since they had
+collected the Icesave deposits
+
+
+721
+0:46:21,35 --> 0:46:25,24
+into a branch, which was
+under the supervision
+
+
+722
+0:46:25,24 --> 0:46:28,63
+of the Icelandic Financial
+Supervisory Authority,
+
+
+723
+0:46:28,63 --> 0:46:33,83
+the Brits had very
+little means to step in.
+
+
+724
+0:46:33,83 --> 0:46:37,7
+They knew that Landsbanki
+was not meeting its liquidity
+
+
+725
+0:46:37,7 --> 0:46:41,22
+requirements, because the
+money was just rolling out,
+
+
+726
+0:46:41,22 --> 0:46:45,7
+so they they found
+no other option
+
+
+727
+0:46:45,7 --> 0:46:51,44
+except for intervening
+through a legal act that
+
+
+728
+0:46:51,44 --> 0:46:54,16
+has become very
+controversial in Iceland--
+
+
+729
+0:46:54,16 --> 0:46:57,4
+the so-called Terrorist
+Act, whose name is,
+
+
+730
+0:46:57,4 --> 0:47:2,55
+in fact, Anti-Terrorism, Crime,
+and Security Act of 2001.
+
+
+731
+0:47:2,55 --> 0:47:8,63
+So the deposits of Landsbanki
+were moved out of Landsbanki,
+
+
+732
+0:47:8,63 --> 0:47:14,77
+and basically the fate of the
+bank was therefore decided,
+
+
+733
+0:47:14,77 --> 0:47:18,62
+or they had met their
+fate, let's say.
+
+
+734
+0:47:18,62 --> 0:47:26,71
+But we know now that the
+banks had little chance,
+
+
+735
+0:47:26,71 --> 0:47:29,7
+both because they were
+so interconnected,
+
+
+736
+0:47:29,7 --> 0:47:35,99
+and they had not enough
+equity as a buffer
+
+
+737
+0:47:35,99 --> 0:47:41,87
+to see any of their
+assets go down in value.
+
+
+738
+0:47:41,87 --> 0:47:49,921
+Now, basically Kaupthing met
+the same fate a day later.
+
+
+739
+0:47:49,921 --> 0:47:51,67
+The story is a little
+bit different there,
+
+
+740
+0:47:51,67 --> 0:47:55,5
+because Kaupthing adds, where
+they were collecting deposits
+
+
+741
+0:47:55,5 --> 0:47:58,24
+from the UK residents
+and elsewhere, was
+
+
+742
+0:47:58,24 --> 0:48:0,67
+done through a subsidiary.
+
+
+743
+0:48:0,67 --> 0:48:5,93
+And this is one of the lessons
+of the Icelandic episode
+
+
+744
+0:48:5,93 --> 0:48:11,52
+is the difference between
+a subsidiary and branch,
+
+
+745
+0:48:11,52 --> 0:48:15,55
+and who is responsible for
+the financial oversight.
+
+
+746
+0:48:15,55 --> 0:48:20,13
+Now, the Brits were responsible
+for the oversight in this case,
+
+
+747
+0:48:20,13 --> 0:48:22,76
+and after Northern Rock
+had failed-- first bank
+
+
+748
+0:48:22,76 --> 0:48:27,66
+in 150 years or so
+to fail in the UK--
+
+
+749
+0:48:27,66 --> 0:48:33,42
+the supervisory authority became
+quite worried that there might
+
+
+750
+0:48:33,42 --> 0:48:35,9
+be other vulnerabilities
+in their system,
+
+
+751
+0:48:35,9 --> 0:48:37,43
+and what they
+spotted immediately
+
+
+752
+0:48:37,43 --> 0:48:39,7
+were the Icelandic banks.
+
+
+753
+0:48:39,7 --> 0:48:47,38
+And basically the Deposit
+Insurance Fund was underfunded,
+
+
+754
+0:48:47,38 --> 0:48:50,74
+so the British
+depositors acknowledged
+
+
+755
+0:48:50,74 --> 0:48:54,4
+that in case of failure,
+it would be difficult
+
+
+756
+0:48:54,4 --> 0:48:57,84
+for them to reclaim the money.
+
+
+757
+0:48:57,84 --> 0:49:0,2
+So in all of the
+circumstances-- and obviously,
+
+
+758
+0:49:0,2 --> 0:49:2,37
+bear in mind that
+Lehman had just
+
+
+759
+0:49:2,37 --> 0:49:7,22
+failed-- the British had seen
+some movement of funds out
+
+
+760
+0:49:7,22 --> 0:49:13,22
+of the UK over to
+the US just prior
+
+
+761
+0:49:13,22 --> 0:49:17,64
+to the collapse of Lehman, the
+British authorities basically
+
+
+762
+0:49:17,64 --> 0:49:20,22
+set up a very stringent
+liquidity rule
+
+
+763
+0:49:20,22 --> 0:49:24,71
+against Kaupthing saying,
+95% of those deposits
+
+
+764
+0:49:24,71 --> 0:49:27,19
+that you are collecting
+through Kaupthing Edge--
+
+
+765
+0:49:27,19 --> 0:49:29,75
+we need you to put
+them into liquid funds,
+
+
+766
+0:49:29,75 --> 0:49:36,15
+into treasuries and papers that
+can be converted into cash very
+
+
+767
+0:49:36,15 --> 0:49:38,4
+quickly.
+
+
+768
+0:49:38,4 --> 0:49:44,25
+So with this rule, the
+Kaupthing management
+
+
+769
+0:49:44,25 --> 0:49:47,45
+should not have been able to
+use it for their own good,
+
+
+770
+0:49:47,45 --> 0:49:49,13
+but, in fact, they
+managed to trick
+
+
+771
+0:49:49,13 --> 0:49:51,88
+the financial supervisory
+authority in the UK
+
+
+772
+0:49:51,88 --> 0:49:55,8
+for awhile, because they
+engaged in a liquidity
+
+
+773
+0:49:55,8 --> 0:50:0,87
+swap between the parent
+company and the subsidiary.
+
+
+774
+0:50:0,87 --> 0:50:4,4
+So in essence, they counted
+the money two or three times,
+
+
+775
+0:50:4,4 --> 0:50:8,82
+so the first time around, it
+was counted as liquid money.
+
+
+776
+0:50:8,82 --> 0:50:11,3
+The second time
+around it was just
+
+
+777
+0:50:11,3 --> 0:50:14,76
+their funds, which they could
+do whatever with, and including
+
+
+778
+0:50:14,76 --> 0:50:17,57
+sending it up to Iceland
+for the parent company
+
+
+779
+0:50:17,57 --> 0:50:20,18
+to meet their margins,
+or pay off their bonds,
+
+
+780
+0:50:20,18 --> 0:50:23,73
+and so on, and so forth, and
+that is exactly what happened.
+
+
+781
+0:50:23,73 --> 0:50:31,25
+Now, on top of this, so
+there were 1.1 billion pounds
+
+
+782
+0:50:31,25 --> 0:50:34,4
+sterling engaged
+in this, so missing
+
+
+783
+0:50:34,4 --> 0:50:38,87
+from the liquidity
+pool of Kaupthing.
+
+
+784
+0:50:38,87 --> 0:50:41,24
+But on top of that,
+the collateral
+
+
+785
+0:50:41,24 --> 0:50:46,4
+that they had pledged to
+the subsidiary for lending
+
+
+786
+0:50:46,4 --> 0:50:50,21
+from the daughter company
+declined in value,
+
+
+787
+0:50:50,21 --> 0:50:54,38
+but the subsidiary
+was irrespectively
+
+
+788
+0:50:54,38 --> 0:51:1,54
+willing to extend the credit
+lines by 500 million pounds,
+
+
+789
+0:51:1,54 --> 0:51:3,66
+without taking any
+collateral, and this
+
+
+790
+0:51:3,66 --> 0:51:8,67
+the British interpreted
+as siphoning money up
+
+
+791
+0:51:8,67 --> 0:51:12,45
+through the chain of firms,
+and up to the parent company.
+
+
+792
+0:51:12,45 --> 0:51:15,93
+
+
+
+793
+0:51:15,93 --> 0:51:21,2
+And as a result, having waited
+for the management of Kaupthing
+
+
+794
+0:51:21,2 --> 0:51:25,79
+to react, the British
+authorities deemed
+
+
+795
+0:51:25,79 --> 0:51:29,63
+it necessary to take over
+the Kaupthing Edge deposits
+
+
+796
+0:51:29,63 --> 0:51:33,42
+and move them into ING,
+and withdraw the bank
+
+
+797
+0:51:33,42 --> 0:51:36,84
+license from the
+[INAUDIBLE] of KSF--
+
+
+798
+0:51:36,84 --> 0:51:42,37
+so a similar fate,
+slightly different story.
+
+
+799
+0:51:42,37 --> 0:51:49,52
+Back to Iceland, the debt-free
+state-- in early 2008,
+
+
+800
+0:51:49,52 --> 0:51:52,74
+suggestions were being made
+to the Icelandic authorities
+
+
+801
+0:51:52,74 --> 0:51:57,14
+that it should turn
+to the IMF for help.
+
+
+802
+0:51:57,14 --> 0:51:59,52
+That was after the
+Central Bank of Iceland
+
+
+803
+0:51:59,52 --> 0:52:2,58
+had tried to get credit
+or foreign-exchange
+
+
+804
+0:52:2,58 --> 0:52:6,19
+swaps with central
+banks in Europe,
+
+
+805
+0:52:6,19 --> 0:52:8,94
+and even here in
+America, without success.
+
+
+806
+0:52:8,94 --> 0:52:12,91
+And that is a signal
+that is fairly decisive--
+
+
+807
+0:52:12,91 --> 0:52:16,78
+a debt-free state unable
+to get any credit anywhere.
+
+
+808
+0:52:16,78 --> 0:52:20,86
+That should tell you
+something about the situation.
+
+
+809
+0:52:20,86 --> 0:52:25,55
+The only takers in
+the FX swap market
+
+
+810
+0:52:25,55 --> 0:52:27,77
+were the Scandinavian
+central banks,
+
+
+811
+0:52:27,77 --> 0:52:33,62
+who, in turn, put forward very
+strict conditions, in exchange
+
+
+812
+0:52:33,62 --> 0:52:35,68
+for the money swapped.
+
+
+813
+0:52:35,68 --> 0:52:43,0
+And the conditions were at the
+microeconomic management level,
+
+
+814
+0:52:43,0 --> 0:52:53,18
+such as, the centrally
+negotiated wages cannot
+
+
+815
+0:52:53,18 --> 0:52:56,6
+increase in real terms.
+
+
+816
+0:52:56,6 --> 0:52:59,88
+The Icelandic state cannot take
+on any further debt whatsoever,
+
+
+817
+0:52:59,88 --> 0:53:8,93
+so this is very invasive type
+of debt covenance, if you will.
+
+
+818
+0:53:8,93 --> 0:53:13,55
+And as it turned out, very
+few people knew about it
+
+
+819
+0:53:13,55 --> 0:53:17,62
+in Iceland, and the prime
+minister did not even
+
+
+820
+0:53:17,62 --> 0:53:20,49
+disclose this information
+to the entire cabinet,
+
+
+821
+0:53:20,49 --> 0:53:27,94
+and as a result, he got
+indicted and brought
+
+
+822
+0:53:27,94 --> 0:53:32,4
+before the special court in
+Iceland that rules on breaches
+
+
+823
+0:53:32,4 --> 0:53:34,63
+on the part of ministers
+in Iceland-- Landsdomur,
+
+
+824
+0:53:34,63 --> 0:53:35,28
+it's called.
+
+
+825
+0:53:35,28 --> 0:53:39,6
+So for the first time in 100
+years' history of that court,
+
+
+826
+0:53:39,6 --> 0:53:42,23
+the case was
+brought against him.
+
+
+827
+0:53:42,23 --> 0:53:47,34
+Now, now you know how all this
+happened, and why it happened.
+
+
+828
+0:53:47,34 --> 0:53:49,3
+So the next question
+is, why didn't anybody
+
+
+829
+0:53:49,3 --> 0:53:51,35
+stop this development?
+
+
+830
+0:53:51,35 --> 0:53:57,27
+And the short answer is, it was
+too rapid of a credit growth,
+
+
+831
+0:53:57,27 --> 0:54:4,7
+and there were too few
+people to handle all of this,
+
+
+832
+0:54:4,7 --> 0:54:9,61
+or rather, the main
+cause here is, basically
+
+
+833
+0:54:9,61 --> 0:54:11,59
+the politicians
+didn't acknowledge
+
+
+834
+0:54:11,59 --> 0:54:15,47
+the need for strong supervision.
+
+
+835
+0:54:15,47 --> 0:54:19,13
+If you're going to build your
+economic system on the pillars
+
+
+836
+0:54:19,13 --> 0:54:21,14
+of a financial
+institution's being one
+
+
+837
+0:54:21,14 --> 0:54:25,95
+of the main industries
+of the economy,
+
+
+838
+0:54:25,95 --> 0:54:30,53
+well, you need to have
+something to back it up,
+
+
+839
+0:54:30,53 --> 0:54:35,31
+or strong oversight, and there,
+the policymakers basically
+
+
+840
+0:54:35,31 --> 0:54:37,53
+failed in Iceland.
+
+
+841
+0:54:37,53 --> 0:54:41,16
+So we had the Financial
+Supervisory Authorities
+
+
+842
+0:54:41,16 --> 0:54:43,44
+doing financial
+oversight of something
+
+
+843
+0:54:43,44 --> 0:54:48,92
+that was 10 times the GDP of
+Iceland with only 36 employees.
+
+
+844
+0:54:48,92 --> 0:54:52,86
+And for a trained
+statistician, such as myself,
+
+
+845
+0:54:52,86 --> 0:55:1,21
+it was a shock to observe
+that no proper data-analysis
+
+
+846
+0:55:1,21 --> 0:55:3,59
+equipment were used.
+
+
+847
+0:55:3,59 --> 0:55:8,33
+Data was gathered in
+Excel sheets of 47 sheets
+
+
+848
+0:55:8,33 --> 0:55:11,96
+from each and every
+institution-- hundreds
+
+
+849
+0:55:11,96 --> 0:55:14,65
+of small and large financial
+institutions in Iceland,
+
+
+850
+0:55:14,65 --> 0:55:18,28
+and this was the data
+archiving and collection,
+
+
+851
+0:55:18,28 --> 0:55:21,2
+so it's impossible
+to have an oversight
+
+
+852
+0:55:21,2 --> 0:55:24,48
+under these circumstances.
+
+
+853
+0:55:24,48 --> 0:55:29,55
+So Financial Supervisory
+Authorities, in short, there
+
+
+854
+0:55:29,55 --> 0:55:32,16
+were lack of experience
+and incompetence,
+
+
+855
+0:55:32,16 --> 0:55:33,965
+lack of proper IT systems.
+
+
+856
+0:55:33,965 --> 0:55:39,83
+Tool and processes for data
+analysis weren't in place.
+
+
+857
+0:55:39,83 --> 0:55:41,71
+There was lack of
+authority and follow-up.
+
+
+858
+0:55:41,71 --> 0:55:45,379
+Cases were kept too
+informal for too long.
+
+
+859
+0:55:45,379 --> 0:55:46,92
+Violations of the
+law went unnoticed,
+
+
+860
+0:55:46,92 --> 0:55:49,12
+and law was not enforced.
+
+
+861
+0:55:49,12 --> 0:55:54,47
+Now, the Central Bank of Iceland
+did have some more insight
+
+
+862
+0:55:54,47 --> 0:55:59,82
+into the risk, and
+also a legal obligation
+
+
+863
+0:55:59,82 --> 0:56:2,36
+to ensure financial
+stability in the country.
+
+
+864
+0:56:2,36 --> 0:56:4,91
+
+
+
+865
+0:56:4,91 --> 0:56:10,2
+It, however, never formally
+or informally conveyed it
+
+
+866
+0:56:10,2 --> 0:56:14,9
+to the government what needed
+to be done to avert the risk,
+
+
+867
+0:56:14,9 --> 0:56:18,65
+and had it thought that they
+lacked the legal means to do
+
+
+868
+0:56:18,65 --> 0:56:24,52
+so, they did not report that
+either to the government.
+
+
+869
+0:56:24,52 --> 0:56:29,69
+Now, there were a host of
+tools in the policy toolbox
+
+
+870
+0:56:29,69 --> 0:56:34,25
+that could have been used,
+but were, in fact, not.
+
+
+871
+0:56:34,25 --> 0:56:40,14
+So one of the lessons-- and
+he put it very nicely out,
+
+
+872
+0:56:40,14 --> 0:56:43,88
+Thorarinn Petursson, senior
+economist of Central Bank,
+
+
+873
+0:56:43,88 --> 0:56:45,94
+the state of affairs in
+Iceland at the time--
+
+
+874
+0:56:45,94 --> 0:56:48,42
+"I think there is a fundamental
+misunderstanding of what
+
+
+875
+0:56:48,42 --> 0:56:51,76
+financial supervision is
+all about here in Iceland.
+
+
+876
+0:56:51,76 --> 0:56:55,9
+Not only at the FME, Financial
+Supervisory Authorities,
+
+
+877
+0:56:55,9 --> 0:56:56,991
+but also the Central Bank.
+
+
+878
+0:56:56,991 --> 0:56:58,99
+They thought that the
+role of these institutions
+
+
+879
+0:56:58,99 --> 0:57:1,0
+was to follow upon whether
+the letter of the law
+
+
+880
+0:57:1,0 --> 0:57:3,33
+was met by those
+under supervision.
+
+
+881
+0:57:3,33 --> 0:57:6,85
+So you are watching an entire
+financial system falling off
+
+
+882
+0:57:6,85 --> 0:57:9,4
+a cliff, and as long as
+you are following the law,
+
+
+883
+0:57:9,4 --> 0:57:11,3
+you are fine."
+
+
+884
+0:57:11,3 --> 0:57:16,17
+So one of the recommendations
+of the Turner review in Britain,
+
+
+885
+0:57:16,17 --> 0:57:18,65
+which was issued
+after their crisis,
+
+
+886
+0:57:18,65 --> 0:57:21,6
+is that the regulatory
+and supervisory coverage
+
+
+887
+0:57:21,6 --> 0:57:24,995
+should follow the principle
+of economic substance, and not
+
+
+888
+0:57:24,995 --> 0:57:27,59
+a legal form.
+
+
+889
+0:57:27,59 --> 0:57:31,32
+Just to inform you
+of the losses that
+
+
+890
+0:57:31,32 --> 0:57:35,44
+were incurred after the
+collapse, about five times
+
+
+891
+0:57:35,44 --> 0:57:37,9
+GDP was written off in
+a matter of four or five
+
+
+892
+0:57:37,9 --> 0:57:43,19
+months after the
+system collapsed,
+
+
+893
+0:57:43,19 --> 0:57:48,38
+and these delicate findings,
+or the challenges that we were
+
+
+894
+0:57:48,38 --> 0:57:51,56
+faced in the beginning,
+this special investigation
+
+
+895
+0:57:51,56 --> 0:57:57,31
+commission ruled that on
+the mistakes or negligence
+
+
+896
+0:57:57,31 --> 0:58:0,28
+by ministers and public
+officials in the period
+
+
+897
+0:58:0,28 --> 0:58:2,14
+leading up to the
+collapse of the banks,
+
+
+898
+0:58:2,14 --> 0:58:4,2
+the SIC is in the
+opinion that the Prime
+
+
+899
+0:58:4,2 --> 0:58:6,9
+Minister, the
+Minister of Finance,
+
+
+900
+0:58:6,9 --> 0:58:9,5
+the Minister of Business
+Affairs, Director
+
+
+901
+0:58:9,5 --> 0:58:12,93
+General of the FME, governors
+of the Central Bank of Iceland
+
+
+902
+0:58:12,93 --> 0:58:16,91
+showed negligence within
+the meaning of Article 1.1
+
+
+903
+0:58:16,91 --> 0:58:21,3
+of the law on the Special
+Investigation Commission.
+
+
+904
+0:58:21,3 --> 0:58:24,55
+And as I told you before,
+the prime minister
+
+
+905
+0:58:24,55 --> 0:58:27,75
+was found guilty on one count
+out of four of negligence
+
+
+906
+0:58:27,75 --> 0:58:30,31
+by a special court, Landsdomur.
+
+
+907
+0:58:30,31 --> 0:58:33,14
+Now, fraud or failure
+on part of the bankers
+
+
+908
+0:58:33,14 --> 0:58:35,3
+is still being decided.
+
+
+909
+0:58:35,3 --> 0:58:38,71
+Some of them have already
+received a sentence
+
+
+910
+0:58:38,71 --> 0:58:43,2
+on a regional level
+or a local court.
+
+
+911
+0:58:43,2 --> 0:58:45,47
+Management of Kaupthing
+has been sentenced
+
+
+912
+0:58:45,47 --> 0:58:48,9
+to three to five years in
+prison for fraudulent lending
+
+
+913
+0:58:48,9 --> 0:58:51,21
+practices and
+market manipulation.
+
+
+914
+0:58:51,21 --> 0:58:52,67
+They have appealed.
+
+
+915
+0:58:52,67 --> 0:58:56,81
+Cases are pending against the
+Landsbanki management for fraud
+
+
+916
+0:58:56,81 --> 0:59:0,44
+and market manipulation, and
+Larus Welding, CEO of Glitnir,
+
+
+917
+0:59:0,44 --> 0:59:5,12
+was found guilty, but
+acquitted by the Supreme Court.
+
+
+918
+0:59:5,12 --> 0:59:8,22
+Several other cases are
+pending against him.
+
+
+919
+0:59:8,22 --> 0:59:13,89
+The special prosecutor had
+over 200 cases in total.
+
+
+920
+0:59:13,89 --> 0:59:16,42
+58 are currently
+under investigation.
+
+
+921
+0:59:16,42 --> 0:59:18,35
+20 indictments--
+15 already brought
+
+
+922
+0:59:18,35 --> 0:59:20,48
+to court-- and eight
+cases have been
+
+
+923
+0:59:20,48 --> 0:59:23,61
+ruled upon against
+46 individuals,
+
+
+924
+0:59:23,61 --> 0:59:27,49
+so this is already exceeding
+your legal efforts,
+
+
+925
+0:59:27,49 --> 0:59:32,18
+or prosecutional efforts,
+looking into savings and loans
+
+
+926
+0:59:32,18 --> 0:59:34,58
+crisis in the '80s.
+
+
+927
+0:59:34,58 --> 0:59:36,13
+Now, what can we learn?
+
+
+928
+0:59:36,13 --> 0:59:40,64
+
+
+
+929
+0:59:40,64 --> 0:59:42,99
+My husband is a human
+factors engineer,
+
+
+930
+0:59:42,99 --> 0:59:47,83
+and he has taught me how the
+human mind perceives things
+
+
+931
+0:59:47,83 --> 0:59:49,94
+inadequately, and
+one of the things
+
+
+932
+0:59:49,94 --> 0:59:55,51
+is that we seem not to be
+able to sense acceleration.
+
+
+933
+0:59:55,51 --> 0:59:58,96
+We all know the story when we
+are going over the speed limit,
+
+
+934
+0:59:58,96 --> 1:0:1,8
+and we withdraw to
+the legal limit,
+
+
+935
+1:0:1,8 --> 1:0:4,96
+we find that we are
+not moving at all.
+
+
+936
+1:0:4,96 --> 1:0:9,85
+Taking this into account,
+you don't put anybody
+
+
+937
+1:0:9,85 --> 1:0:13,1
+at the seat of the F-18, is it?
+
+
+938
+1:0:13,1 --> 1:0:15,1
+18, 19, 16?
+
+
+939
+1:0:15,1 --> 1:0:21,39
+Thank you-- unless he or she
+has several thousand hours
+
+
+940
+1:0:21,39 --> 1:0:22,68
+in the air.
+
+
+941
+1:0:22,68 --> 1:0:28,3
+So banks are like
+monstrous machines,
+
+
+942
+1:0:28,3 --> 1:0:31,85
+so you need people that
+have the proper training
+
+
+943
+1:0:31,85 --> 1:0:36,27
+and the proper insight, and also
+at the realm of the Financial
+
+
+944
+1:0:36,27 --> 1:0:38,35
+Supervisory Authorities.
+
+
+945
+1:0:38,35 --> 1:0:47,58
+So that said, it
+is very important
+
+
+946
+1:0:47,58 --> 1:0:51,73
+that, as you do here
+so well in America,
+
+
+947
+1:0:51,73 --> 1:0:56,55
+acknowledging the efforts that
+go into further education,
+
+
+948
+1:0:56,55 --> 1:1:0,86
+and, yeah, that's
+the aim-- to put
+
+
+949
+1:1:0,86 --> 1:1:3,23
+the right people
+at the right spot.
+
+
+950
+1:1:3,23 --> 1:1:7,95
+But another lesson is
+the importance of equity.
+
+
+951
+1:1:7,95 --> 1:1:11,84
+These monstrous
+institutions, the banks,
+
+
+952
+1:1:11,84 --> 1:1:16,2
+are running at the
+very low-equity ratio,
+
+
+953
+1:1:16,2 --> 1:1:18,19
+so there's not much
+room for their assets
+
+
+954
+1:1:18,19 --> 1:1:22,98
+to move downwards at all.
+
+
+955
+1:1:22,98 --> 1:1:25,73
+This is one thing-- I
+mean, now in Iceland we
+
+
+956
+1:1:25,73 --> 1:1:30,57
+have banks that are set
+up, or have a funding
+
+
+957
+1:1:30,57 --> 1:1:35,66
+mix of up to 25%
+equity, and it's
+
+
+958
+1:1:35,66 --> 1:1:45,13
+just that incentives
+become very risky,
+
+
+959
+1:1:45,13 --> 1:1:49,56
+let's say, or people
+engage in risky activities,
+
+
+960
+1:1:49,56 --> 1:1:52,16
+and it all depends on how
+they are incentivized.
+
+
+961
+1:1:52,16 --> 1:1:55,61
+So if you have your own
+money in an enterprise,
+
+
+962
+1:1:55,61 --> 1:1:58,77
+you behave very
+differently from where
+
+
+963
+1:1:58,77 --> 1:2:5,41
+you have no money of your
+own in the operation.
+
+
+964
+1:2:5,41 --> 1:2:9,5
+Another lesson is
+that bankers need
+
+
+965
+1:2:9,5 --> 1:2:12,84
+to understand that when they
+are lending money in the holding
+
+
+966
+1:2:12,84 --> 1:2:20,71
+companies, they have a
+claim on the residual claim.
+
+
+967
+1:2:20,71 --> 1:2:24,56
+So these structures that I
+showed you should theoretically
+
+
+968
+1:2:24,56 --> 1:2:29,93
+not be possible to construct,
+simply because if you take
+
+
+969
+1:2:29,93 --> 1:2:32,28
+into account that
+you, the bank, you
+
+
+970
+1:2:32,28 --> 1:2:34,65
+are lending the money
+for the equity part,
+
+
+971
+1:2:34,65 --> 1:2:38,6
+you should price it accordingly,
+so there should be no money
+
+
+972
+1:2:38,6 --> 1:2:40,81
+left on the table
+for the constructors
+
+
+973
+1:2:40,81 --> 1:2:41,84
+of these structures.
+
+
+974
+1:2:41,84 --> 1:2:44,49
+
+
+
+975
+1:2:44,49 --> 1:2:47,665
+So pricing obviously
+failed enormously
+
+
+976
+1:2:47,665 --> 1:2:51,37
+in the Icelandic banks.
+
+
+977
+1:2:51,37 --> 1:2:54,62
+Supervision should be built
+on [INAUDIBLE] substance.
+
+
+978
+1:2:54,62 --> 1:2:58,7
+We should try to have our
+legal framework set up in a way
+
+
+979
+1:2:58,7 --> 1:3:3,86
+that it supports
+potential policies that
+
+
+980
+1:3:3,86 --> 1:3:8,64
+need to be adjusted quickly.
+
+
+981
+1:3:8,64 --> 1:3:14,1
+The letter of the law is
+obviously fairly sticky.
+
+
+982
+1:3:14,1 --> 1:3:18,73
+It's difficult to change
+in a short period of time.
+
+
+983
+1:3:18,73 --> 1:3:22,64
+The medium-term
+effects in Iceland--
+
+
+984
+1:3:22,64 --> 1:3:25,72
+we had massive market
+manipulation on our hands.
+
+
+985
+1:3:25,72 --> 1:3:28,44
+People were not following
+the legal letter.
+
+
+986
+1:3:28,44 --> 1:3:33,68
+They were evading the rules
+and the law, so as a result,
+
+
+987
+1:3:33,68 --> 1:3:38,92
+we have a clear case where
+the markets break down.
+
+
+988
+1:3:38,92 --> 1:3:41,53
+They just disappear, and
+that is what happened.
+
+
+989
+1:3:41,53 --> 1:3:44,69
+The bond market was
+virtually non-functioning.
+
+
+990
+1:3:44,69 --> 1:3:47,1
+Stock market
+virtually disappeared.
+
+
+991
+1:3:47,1 --> 1:3:50,29
+There was no currency
+market right after the fall,
+
+
+992
+1:3:50,29 --> 1:3:53,654
+so in de facto, we had
+imposed capital controls
+
+
+993
+1:3:53,654 --> 1:3:55,32
+right after the
+collapse, because nobody
+
+
+994
+1:3:55,32 --> 1:3:58,63
+wanted to trade the
+Icelandic krona.
+
+
+995
+1:3:58,63 --> 1:4:0,68
+So there are a lot
+of small stories
+
+
+996
+1:4:0,68 --> 1:4:2,88
+to learn from,
+obviously, but I think
+
+
+997
+1:4:2,88 --> 1:4:6,5
+if there's only one that
+I can leave you with,
+
+
+998
+1:4:6,5 --> 1:4:12,5
+it is that we know how our
+system is interconnected.
+
+
+999
+1:4:12,5 --> 1:4:13,983
+It is a question
+whether you know
+
+
+1000
+1:4:13,983 --> 1:4:16,69
+how your system
+is interconnected.
+
+
+1001
+1:4:16,69 --> 1:4:20,48
+And now I am open for questions.
+
+
+1002
+1:4:20,48 --> 1:4:26,3
+[APPLAUSE]
+
+
+1003
+1:4:26,3 --> 1:4:27,766
+So to answer your
+question, which
+
+
+1004
+1:4:27,766 --> 1:4:29,39
+was along the lines
+that, what happened
+
+
+1005
+1:4:29,39 --> 1:4:30,69
+to the Icelandic people?
+
+
+1006
+1:4:30,69 --> 1:4:33,63
+How many are unemployed,
+and so on, and so forth.
+
+
+1007
+1:4:33,63 --> 1:4:37,31
+The short answer is, we had
+a spike in the unemployment
+
+
+1008
+1:4:37,31 --> 1:4:41,27
+rate reaching 8%, 9%.
+
+
+1009
+1:4:41,27 --> 1:4:44,5
+It has come down to
+4%, roughly, now.
+
+
+1010
+1:4:44,5 --> 1:4:47,68
+So we have had a history of very
+low unemployment in Iceland.
+
+
+1011
+1:4:47,68 --> 1:4:50,35
+I mean, most of us had
+three or three or four jobs,
+
+
+1012
+1:4:50,35 --> 1:4:57,2
+like you saw on my
+profile, but Iceland
+
+
+1013
+1:4:57,2 --> 1:5:0,4
+has been portrayed, like
+here in the US media,
+
+
+1014
+1:5:0,4 --> 1:5:4,12
+as a poster child of economic
+recovery after the crisis.
+
+
+1015
+1:5:4,12 --> 1:5:5,82
+But I have to tell
+you, unfortunately,
+
+
+1016
+1:5:5,82 --> 1:5:10,95
+that the judges haven't
+ruled on it yet.
+
+
+1017
+1:5:10,95 --> 1:5:13,84
+We have still got the most
+challenge on our hand,
+
+
+1018
+1:5:13,84 --> 1:5:15,51
+and that is to get
+rid of the capital
+
+
+1019
+1:5:15,51 --> 1:5:18,15
+controls that were
+installed right after.
+
+
+1020
+1:5:18,15 --> 1:5:20,73
+So, for example, if you're
+traveling abroad from Iceland,
+
+
+1021
+1:5:20,73 --> 1:5:26,6
+you can only bring $3,000
+or so for your rental car
+
+
+1022
+1:5:26,6 --> 1:5:28,3
+and your hotel, and
+so on, and so forth,
+
+
+1023
+1:5:28,3 --> 1:5:29,89
+so it's being sanctioned.
+
+
+1024
+1:5:29,89 --> 1:5:32,37
+Currency is being sanctioned.
+
+
+1025
+1:5:32,37 --> 1:5:38,43
+So net foreign direct
+investment is at a historic low.
+
+
+1026
+1:5:38,43 --> 1:5:40,7
+Investment, in
+general, is very low,
+
+
+1027
+1:5:40,7 --> 1:5:42,56
+so people are seeing
+their wages have
+
+
+1028
+1:5:42,56 --> 1:5:46,52
+been cut in half in real terms.
+
+
+1029
+1:5:46,52 --> 1:5:49,2
+Even nominal terms
+have been lowered.
+
+
+1030
+1:5:49,2 --> 1:5:51,88
+
+
+
+1031
+1:5:51,88 --> 1:5:54,81
+Government officials,
+for example,
+
+
+1032
+1:5:54,81 --> 1:5:57,26
+haven't seen a raise
+in eight years,
+
+
+1033
+1:5:57,26 --> 1:6:1,84
+so this is a big chunk of
+a person's life's work,
+
+
+1034
+1:6:1,84 --> 1:6:9,294
+or of career, so we are
+not part of the woods yet.
+
+
+1035
+1:6:9,294 --> 1:6:10,21
+AUDIENCE: [INAUDIBLE].
+
+
+1036
+1:6:10,21 --> 1:6:12,91
+GUDRUN JOHNSEN: They
+were primarily the loans
+
+
+1037
+1:6:12,91 --> 1:6:18,188
+to holding companies that
+were just foam, or they were--
+
+
+1038
+1:6:18,188 --> 1:6:19,771
+AUDIENCE: The holding
+companies didn't
+
+
+1039
+1:6:19,771 --> 1:6:20,58
+want to be [INAUDIBLE], or what?
+
+
+1040
+1:6:20,58 --> 1:6:22,23
+GUDRUN JOHNSEN: Yeah, they did.
+
+
+1041
+1:6:22,23 --> 1:6:26,35
+The majority of them held the
+stocks of the banks themselves,
+
+
+1042
+1:6:26,35 --> 1:6:30,92
+who became bankrupt, and then
+you had all this domino effect.
+
+
+1043
+1:6:30,92 --> 1:6:35,0
+Most firms in Iceland have
+become technically bankrupt.
+
+
+1044
+1:6:35,0 --> 1:6:37,17
+That has been the
+most challenge that we
+
+
+1045
+1:6:37,17 --> 1:6:40,55
+have been faced with after
+the crash is to reorganize
+
+
+1046
+1:6:40,55 --> 1:6:44,44
+and restructure the loan
+portfolios of the banks,
+
+
+1047
+1:6:44,44 --> 1:6:50,435
+because more than every
+other loan of the portfolios
+
+
+1048
+1:6:50,435 --> 1:6:54,16
+of the banks were nonperforming.
+
+
+1049
+1:6:54,16 --> 1:6:58,29
+That's a very good question
+on how we kept politics out
+
+
+1050
+1:6:58,29 --> 1:7:1,52
+of the reporting on the
+failures of the banks.
+
+
+1051
+1:7:1,52 --> 1:7:2,48
+That's your question?
+
+
+1052
+1:7:2,48 --> 1:7:3,565
+AUDIENCE: More or less.
+
+
+1053
+1:7:3,565 --> 1:7:5,34
+I mean, we can't do that here.
+
+
+1054
+1:7:5,34 --> 1:7:7,71
+How did you do it there?
+
+
+1055
+1:7:7,71 --> 1:7:10,95
+GUDRUN JOHNSEN: I think that you
+might see different reactions
+
+
+1056
+1:7:10,95 --> 1:7:12,68
+on part of your
+politicians if you
+
+
+1057
+1:7:12,68 --> 1:7:16,57
+had your 97% of your
+banking sector collapse.
+
+
+1058
+1:7:16,57 --> 1:7:19,19
+It's just such a severity
+of the situation that
+
+
+1059
+1:7:19,19 --> 1:7:23,16
+did not allow for any scrutiny.
+
+
+1060
+1:7:23,16 --> 1:7:24,89
+I mean, you can
+wonder about reasons
+
+
+1061
+1:7:24,89 --> 1:7:26,67
+why the politicians,
+for example,
+
+
+1062
+1:7:26,67 --> 1:7:29,34
+extended this type
+of data access.
+
+
+1063
+1:7:29,34 --> 1:7:32,24
+I mean, this is unheard of
+that the one government that
+
+
+1064
+1:7:32,24 --> 1:7:36,85
+has failed so miserably in
+their policy making actually
+
+
+1065
+1:7:36,85 --> 1:7:39,39
+brings on themselves
+an investigation where
+
+
+1066
+1:7:39,39 --> 1:7:41,895
+they can be exposed, and that
+is exactly what happened.
+
+
+1067
+1:7:41,895 --> 1:7:45,4
+
+
+
+1068
+1:7:45,4 --> 1:7:47,85
+But you've got to applaud
+this type of behavior
+
+
+1069
+1:7:47,85 --> 1:7:49,19
+on part of the politicians.
+
+
+1070
+1:7:49,19 --> 1:7:53,8
+
+
+
+1071
+1:7:53,8 --> 1:7:56,18
+We're a small society.
+
+
+1072
+1:7:56,18 --> 1:8:0,34
+We were a trusting bunch
+before the collapse,
+
+
+1073
+1:8:0,34 --> 1:8:5,96
+and one of the guests that
+I had in the audience at one
+
+
+1074
+1:8:5,96 --> 1:8:8,12
+of the financial
+institutions pointed out
+
+
+1075
+1:8:8,12 --> 1:8:11,38
+that you need a healthy dose
+of mistrust in any system,
+
+
+1076
+1:8:11,38 --> 1:8:13,29
+and that was lacking.
+
+
+1077
+1:8:13,29 --> 1:8:15,83
+The mistrust was not
+enough, but now we
+
+
+1078
+1:8:15,83 --> 1:8:25,6
+swung from the totally trusting
+system over to a full mistrust.
+
+
+1079
+1:8:25,6 --> 1:8:29,97
+So there was a lot of scrutiny
+on part of the public.
+
+
+1080
+1:8:29,97 --> 1:8:33,25
+Obviously we had a pots
+and pans revolution,
+
+
+1081
+1:8:33,25 --> 1:8:35,0
+where people were
+banging on pots and pans
+
+
+1082
+1:8:35,0 --> 1:8:36,84
+in front of Parliament,
+so that was not
+
+
+1083
+1:8:36,84 --> 1:8:43,49
+much room for politicians
+to try to cast sand
+
+
+1084
+1:8:43,49 --> 1:8:47,13
+into the eyes of
+the voting public.
+
+
+1085
+1:8:47,13 --> 1:8:48,729
+In terms of incentives,
+the question
+
+
+1086
+1:8:48,729 --> 1:8:51,6
+was, what type of
+prisons do you have,
+
+
+1087
+1:8:51,6 --> 1:8:56,1
+where people involved in this
+sentence of guilty verdict--
+
+
+1088
+1:8:56,1 --> 1:8:59,29
+where can they expect
+themselves to end up?
+
+
+1089
+1:8:59,29 --> 1:9:7,359
+And one answer is, the length
+of the sentences in Iceland
+
+
+1090
+1:9:7,359 --> 1:9:11,17
+are very short, so
+as it turns out,
+
+
+1091
+1:9:11,17 --> 1:9:13,3
+we have had one case
+of insider trading
+
+
+1092
+1:9:13,3 --> 1:9:16,399
+that has been ruled upon,
+and the person involved
+
+
+1093
+1:9:16,399 --> 1:9:20,529
+has gone to jail for
+six months total.
+
+
+1094
+1:9:20,529 --> 1:9:22,399
+The sentence was two years.
+
+
+1095
+1:9:22,399 --> 1:9:24,6
+If you behave well
+in the prison,
+
+
+1096
+1:9:24,6 --> 1:9:26,66
+you can get your sentence
+halved, and then you
+
+
+1097
+1:9:26,66 --> 1:9:33,27
+can do community service for
+half of the remaining part,
+
+
+1098
+1:9:33,27 --> 1:9:42,34
+so in this particular
+instance, the expected value
+
+
+1099
+1:9:42,34 --> 1:9:45,81
+was positive, so--
+
+
+1100
+1:9:45,81 --> 1:9:47,81
+AUDIENCE: And the conditions
+themselves are bad?
+
+
+1101
+1:9:47,81 --> 1:9:49,6
+GUDRUN JOHNSEN: Oh, very nice.
+
+
+1102
+1:9:49,6 --> 1:9:51,18
+[LAUGHTER]
+
+
+1103
+1:9:51,18 --> 1:9:54,27
+You need to be trained to
+understand acceleration
+
+
+1104
+1:9:54,27 --> 1:9:55,97
+and growth and what it means.
+
+
+1105
+1:9:55,97 --> 1:9:59,33
+Lawyers, for example, are
+not trained in this way.
+
+
+1106
+1:9:59,33 --> 1:10:8,79
+But the explanations need to be
+sought in the behavioral part,
+
+
+1107
+1:10:8,79 --> 1:10:12,82
+and in small society,
+there's a big hurdle effect.
+
+
+1108
+1:10:12,82 --> 1:10:14,77
+People were just cheering
+for those bankers,
+
+
+1109
+1:10:14,77 --> 1:10:18,84
+and the government officials
+and the political leaders
+
+
+1110
+1:10:18,84 --> 1:10:22,1
+were applauding the
+people who were in charge,
+
+
+1111
+1:10:22,1 --> 1:10:28,7
+and so we basically
+risked being ridiculed,
+
+
+1112
+1:10:28,7 --> 1:10:33,11
+and I was certainly one of those
+who had been doing research
+
+
+1113
+1:10:33,11 --> 1:10:35,76
+on credit growth especially.
+
+
+1114
+1:10:35,76 --> 1:10:39,58
+I pointed it out a year and a
+half before the banks failed,
+
+
+1115
+1:10:39,58 --> 1:10:42,78
+and to tell you the truth,
+there was no reaction to it
+
+
+1116
+1:10:42,78 --> 1:10:48,2
+whatsoever, so
+that's how that was.
+
+
+1117
+1:10:48,2 --> 1:10:50,43
+Right, so what are the
+capital controls that
+
+
+1118
+1:10:50,43 --> 1:10:53,29
+are in place, and what
+are they meant to prevent?
+
+
+1119
+1:10:53,29 --> 1:10:57,87
+So they are meant to prevent a
+capital outflow of the country,
+
+
+1120
+1:10:57,87 --> 1:11:5,52
+so if there are claims on the
+bankrupt estates, for one,
+
+
+1121
+1:11:5,52 --> 1:11:10,93
+there are also foreign investors
+who own ISK-denominated bonds.
+
+
+1122
+1:11:10,93 --> 1:11:13,5
+They want to get
+rid of their krona,
+
+
+1123
+1:11:13,5 --> 1:11:16,84
+and buy foreign exchange for
+it, and leave the economy,
+
+
+1124
+1:11:16,84 --> 1:11:20,73
+and if people do
+that massively, you
+
+
+1125
+1:11:20,73 --> 1:11:23,68
+have a run on the
+bank situation.
+
+
+1126
+1:11:23,68 --> 1:11:25,79
+So you want to prevent
+that to happen,
+
+
+1127
+1:11:25,79 --> 1:11:28,95
+because if you allow that,
+the currency of the krona
+
+
+1128
+1:11:28,95 --> 1:11:32,98
+will devalue, and most
+of mortgages in Iceland,
+
+
+1129
+1:11:32,98 --> 1:11:36,14
+because we have had a history of
+high inflation in our economy,
+
+
+1130
+1:11:36,14 --> 1:11:39,2
+they are index-linked,
+so they're
+
+
+1131
+1:11:39,2 --> 1:11:40,73
+linked to the CPI index.
+
+
+1132
+1:11:40,73 --> 1:11:45,3
+So if foreigners leave
+rapidly, the system-- the krona
+
+
+1133
+1:11:45,3 --> 1:11:48,41
+devalues, and, for example,
+debt of corporates,
+
+
+1134
+1:11:48,41 --> 1:11:53,86
+as well as households,
+will increase, as a result.
+
+
+1135
+1:11:53,86 --> 1:11:57,81
+So you will have a turbulence--
+probably nonperforming loans,
+
+
+1136
+1:11:57,81 --> 1:12:0,7
+et cetera, so turbulence
+in the financial sector.
+
+
+1137
+1:12:0,7 --> 1:12:4,87
+Financial instability is what
+you are trying to prevent.
+
+
+1138
+1:12:4,87 --> 1:12:6,7
+Does it answer your question?
+
+
+1139
+1:12:6,7 --> 1:12:10,2
+So thank you, everybody, for
+showing up here, and giving me
+
+
+1140
+1:12:10,2 --> 1:12:12,98
+these great questions to
+answer-- inspiring questions.
+
+
+1141
+1:12:12,98 --> 1:12:13,88
+Thank you so much.
+
+
+1142
+1:12:13,88 --> 1:14:13,88
+[APPLAUSE]
+
+

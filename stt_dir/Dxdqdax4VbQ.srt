@@ -1,0 +1,5807 @@
+1
+0:0:2,14 --> 0:0:3,558
+Prof: Okay.
+ 
+
+
+2
+0:0:3,558 --> 0:0:7,89
+Today we are going to be
+discussing certainly one of the
+
+
+3
+0:0:7,89 --> 0:0:11,83
+biggest bestsellers in early
+American history,
+
+
+4
+0:0:11,83 --> 0:0:14,92
+and that's Thomas Paine's
+pamphlet Common Sense.
+
+
+5
+0:0:14,92 --> 0:0:17,8
+Before I plunge in to Common
+Sense,
+
+
+6
+0:0:17,8 --> 0:0:21,272
+I am going to answer the
+question that was asked from
+
+
+7
+0:0:21,272 --> 0:0:23,69
+this section of the room on
+Tuesday,
+
+
+8
+0:0:23,69 --> 0:0:26,88
+about how do you vote on
+voting--the little brain teaser
+
+
+9
+0:0:26,88 --> 0:0:28,62
+of the Continental Congress.
+ 
+
+
+10
+0:0:28,62 --> 0:0:29,99
+And I found the answer to this
+question.
+
+
+11
+0:0:29,99 --> 0:0:30,236
+Okay.
+ 
+
+
+12
+0:0:30,236 --> 0:0:33,149
+So the answer to the question
+is: they actually had a pretty
+
+
+13
+0:0:33,149 --> 0:0:35,567
+animated debate in the
+Continental Congress on the
+
+
+14
+0:0:35,567 --> 0:0:38,634
+whole voting question,
+and some people said it should
+
+
+15
+0:0:38,634 --> 0:0:41,5
+be according to population and
+some said,
+
+
+16
+0:0:41,5 --> 0:0:44,27
+'Well, you should put property
+in with population,' and some
+
+
+17
+0:0:44,27 --> 0:0:46,72
+people said one colony,
+one vote.
+
+
+18
+0:0:46,72 --> 0:0:49,9
+And with--after apparently
+arguing for quite some time,
+
+
+19
+0:0:49,9 --> 0:0:52,75
+what they realized was they
+actually really didn't have an
+
+
+20
+0:0:52,75 --> 0:0:56,54
+orderly way to figure out
+population and property worth,
+
+
+21
+0:0:56,54 --> 0:0:58,38
+[laughter]
+and so they ultimately just
+
+
+22
+0:0:58,38 --> 0:1:0,392
+decided one colony,
+one vote, [laughs]
+
+
+23
+0:1:0,392 --> 0:1:2,829
+--like, that's all we can do.
+ 
+
+
+24
+0:1:2,829 --> 0:1:4,799
+And they were really concerned
+because they didn't want that to
+
+
+25
+0:1:4,799 --> 0:1:5,34
+be a precedent.
+ 
+
+
+26
+0:1:5,34 --> 0:1:7,634
+They were all worried that
+they'd be setting a precedent
+
+
+27
+0:1:7,634 --> 0:1:8,26
+for all time.
+ 
+
+
+28
+0:1:8,26 --> 0:1:10,29
+So when they wrote it down in
+the minutes,
+
+
+29
+0:1:10,29 --> 0:1:12,11
+they said, we're deciding one
+colony,
+
+
+30
+0:1:12,11 --> 0:1:14,572
+one vote, but not with the idea
+that it will be a precedent for
+
+
+31
+0:1:14,572 --> 0:1:15,1
+all time.
+ 
+
+
+32
+0:1:15,1 --> 0:1:17,614
+Of course, it then becomes a
+precedent for Congress under the
+
+
+33
+0:1:17,614 --> 0:1:18,83
+Articles of Confederation.
+ 
+
+
+34
+0:1:18,83 --> 0:1:20,938
+But the answer to the
+question--how did they vote?--
+
+
+35
+0:1:20,938 --> 0:1:23,54
+is apparently someone made a
+motion--
+
+
+36
+0:1:23,54 --> 0:1:26,86
+'I make a motion that we just
+do the one colony,
+
+
+37
+0:1:26,86 --> 0:1:30,605
+one vote thing'--and people
+just voted on the motion as a
+
+
+38
+0:1:30,605 --> 0:1:31,14
+group.
+ 
+
+
+39
+0:1:31,14 --> 0:1:33,509
+So that is the answer to the
+question: How do you vote on
+
+
+40
+0:1:33,509 --> 0:1:33,89
+voting?
+ 
+
+
+41
+0:1:33,89 --> 0:1:36,649
+I had not thought about it
+before and yet historians have
+
+
+42
+0:1:36,649 --> 0:1:38,62
+addressed it so there you go
+so--Okay.
+
+
+43
+0:1:38,62 --> 0:1:40,5
+That is the answer to the
+question.
+
+
+44
+0:1:40,5 --> 0:1:43,358
+On to Common Sense,
+which really,
+
+
+45
+0:1:43,358 --> 0:1:46,29
+truly unquestionably was a
+bestseller.
+
+
+46
+0:1:46,29 --> 0:1:52,339
+It actually sold over 120,000
+copies in its first few months
+
+
+47
+0:1:52,339 --> 0:1:54,791
+in print,
+and a little bit later in the
+
+
+48
+0:1:54,791 --> 0:1:57,4
+lecture I'm going to give you a
+sense of how that compares with
+
+
+49
+0:1:57,4 --> 0:1:59,97
+how some other things might have
+sold in this time period.
+
+
+50
+0:1:59,97 --> 0:2:3,575
+You'll really get a sense of
+what kind of a bestseller this
+
+
+51
+0:2:3,575 --> 0:2:3,95
+was.
+ 
+
+
+52
+0:2:3,95 --> 0:2:6,991
+And certainly many scholars
+consider it to be the most
+
+
+53
+0:2:6,991 --> 0:2:9,86
+brilliant political pamphlet of
+the Revolution,
+
+
+54
+0:2:9,86 --> 0:2:12,357
+not necessarily for the
+subtlety of its argument but
+
+
+55
+0:2:12,357 --> 0:2:14,61
+certainly for the way in which
+it's argued,
+
+
+56
+0:2:14,61 --> 0:2:17,59
+and I'll talk more about that
+in the course of the lecture.
+
+
+57
+0:2:17,59 --> 0:2:20,58
+So what we're going to be
+looking at is the pamphlet
+
+
+58
+0:2:20,58 --> 0:2:23,688
+itself and what specifically
+made it so remarkable.
+
+
+59
+0:2:23,688 --> 0:2:27,14
+And then we're also going to
+look some at its author,
+
+
+60
+0:2:27,14 --> 0:2:29,699
+Thomas Paine,
+who he was and how he came to
+
+
+61
+0:2:29,699 --> 0:2:32,128
+produce this influential
+pamphlet.
+
+
+62
+0:2:32,128 --> 0:2:35,878
+But I actually want to begin
+with something that I just--
+
+
+63
+0:2:35,878 --> 0:2:39,128
+in my head when I think about
+Thomas Paine I think about this,
+
+
+64
+0:2:39,128 --> 0:2:41,25
+so I feel like I can't start
+this lecture without discussing
+
+
+65
+0:2:41,25 --> 0:2:41,43
+it.
+ 
+
+
+66
+0:2:41,43 --> 0:2:44,663
+And that has to do with the
+death of Thomas Paine or
+
+
+67
+0:2:44,663 --> 0:2:48,34
+actually, to be more accurate,
+the body of Thomas Paine.
+
+
+68
+0:2:48,34 --> 0:2:48,657
+Okay.
+ 
+
+
+69
+0:2:48,657 --> 0:2:52,61
+It's one of the sad ironies of
+history that this person who--
+
+
+70
+0:2:52,61 --> 0:2:55,13
+all through this lecture I'm
+going to be talking about the
+
+
+71
+0:2:55,13 --> 0:2:57,241
+great influence of his pamphlet,
+had this great influence
+
+
+72
+0:2:57,241 --> 0:2:59,76
+throughout the Revolution--
+and he actually died pretty
+
+
+73
+0:2:59,76 --> 0:3:2,921
+much poor and not very much
+liked by Americans of all
+
+
+74
+0:3:2,921 --> 0:3:5,522
+political stripes,
+more having to do with his
+
+
+75
+0:3:5,522 --> 0:3:8,389
+politics later in his life than
+what he was doing during the
+
+
+76
+0:3:8,389 --> 0:3:11,169
+Revolution,
+but he was not a happy camper
+
+
+77
+0:3:11,169 --> 0:3:13,8
+in the years of his death.
+ 
+
+
+78
+0:3:13,8 --> 0:3:16,44
+But the most horrifying thing
+about Paine's death has to do
+
+
+79
+0:3:16,44 --> 0:3:17,68
+with the question of his body.
+ 
+
+
+80
+0:3:17,68 --> 0:3:18,58
+Okay.
+ 
+
+
+81
+0:3:18,58 --> 0:3:21,853
+So Paine first asked about
+being buried in a Quaker
+
+
+82
+0:3:21,853 --> 0:3:24,358
+cemetery,
+and the Quakers weren't very
+
+
+83
+0:3:24,358 --> 0:3:27,664
+excited about that because they
+were not really hoping to have
+
+
+84
+0:3:27,664 --> 0:3:31,188
+that cemetery become a tourist
+attraction so that didn't work.
+
+
+85
+0:3:31,188 --> 0:3:35,4
+So he basically ended up at
+first being buried on his small
+
+
+86
+0:3:35,4 --> 0:3:37,36
+farm in upstate New York.
+ 
+
+
+87
+0:3:37,36 --> 0:3:41,287
+A few years later a newspaper
+editor named William Cobbett
+
+
+88
+0:3:41,287 --> 0:3:45,491
+decided that what he was going
+to do was disinter the body and
+
+
+89
+0:3:45,491 --> 0:3:49,413
+take it back to England,
+and then in England they would
+
+
+90
+0:3:49,413 --> 0:3:51,66
+set up a memorial to Thomas
+Paine.
+
+
+91
+0:3:51,66 --> 0:3:52,979
+This was his plan.
+ 
+
+
+92
+0:3:52,979 --> 0:3:54,6
+So he did.
+ 
+
+
+93
+0:3:54,6 --> 0:3:55,979
+He disinterred the body;
+he went on a boat;
+
+
+94
+0:3:55,979 --> 0:3:59,758
+he and dead-body Paine went
+sailing back to England.
+
+
+95
+0:3:59,758 --> 0:4:2,76
+Got back to England,
+raised the issue and apparently
+
+
+96
+0:4:2,76 --> 0:4:6,175
+did not get very much support
+for the idea of a memorial of
+
+
+97
+0:4:6,175 --> 0:4:7,0
+some kind.
+ 
+
+
+98
+0:4:7,0 --> 0:4:10,408
+At this point it gets a little
+sad.
+
+
+99
+0:4:10,408 --> 0:4:10,675
+Okay.
+ 
+
+
+100
+0:4:10,675 --> 0:4:13,605
+So not knowing what else to
+do--and why at this point he
+
+
+101
+0:4:13,605 --> 0:4:15,949
+didn't think to bury him
+someplace else,
+
+
+102
+0:4:15,949 --> 0:4:20,468
+I don't know--but apparently he
+had the bones put in a trunk and
+
+
+103
+0:4:20,468 --> 0:4:23,5
+kept them on his farm for a
+while.
+
+
+104
+0:4:23,5 --> 0:4:23,386
+Okay.
+ 
+
+
+105
+0:4:23,386 --> 0:4:26,75
+So, body of Paine sitting on
+his farm in England.
+
+
+106
+0:4:26,75 --> 0:4:31,447
+Then he died--Mr. Cobbett
+died and the trunk and Paine was
+
+
+107
+0:4:31,447 --> 0:4:35,96
+passed on to his son,
+and then his son I guess went
+
+
+108
+0:4:35,96 --> 0:4:37,797
+into debt in some way and his
+belongings began to get
+
+
+109
+0:4:37,797 --> 0:4:40,913
+auctioned off and the person
+doing the auctioning didn't want
+
+
+110
+0:4:40,913 --> 0:4:43,769
+to have anything to do with
+auctioning off a body.
+
+
+111
+0:4:43,769 --> 0:4:46,476
+Like, I've never auctioned off
+a body before,
+
+
+112
+0:4:46,476 --> 0:4:50,105
+I don't want anything to do
+with this--and basically Paine's
+
+
+113
+0:4:50,105 --> 0:4:51,519
+corpse disappeared.
+ 
+
+
+114
+0:4:51,519 --> 0:4:54,879
+We really do not know where
+Thomas Paine is.
+
+
+115
+0:4:54,879 --> 0:4:59,646
+Truly, there was a trunk and it
+had Paine in it and then it
+
+
+116
+0:4:59,646 --> 0:5:0,55
+vanished.
+ 
+
+
+117
+0:5:0,55 --> 0:5:3,99
+And I went searching today
+before I gave this lecture,
+
+
+118
+0:5:3,99 --> 0:5:6,925
+trying to figure out
+like--okay, maybe there's been a
+
+
+119
+0:5:6,925 --> 0:5:9,92
+recent development in the search
+for Thomas Paine,
+
+
+120
+0:5:9,92 --> 0:5:12,629
+the corpse, and no actually.
+ 
+
+
+121
+0:5:12,629 --> 0:5:15,968
+Although I did discover that in
+2001 there was a society that
+
+
+122
+0:5:15,968 --> 0:5:19,141
+wanted to create some kind of
+memorial here in America and
+
+
+123
+0:5:19,141 --> 0:5:22,314
+they decided that they were
+going to try to trace the body
+
+
+124
+0:5:22,314 --> 0:5:24,93
+so they set out trying to trace
+the body.
+
+
+125
+0:5:24,93 --> 0:5:27,37
+What they found was,
+all over the world are people
+
+
+126
+0:5:27,37 --> 0:5:29,411
+who claim to have a piece of
+Thomas Paine,
+
+
+127
+0:5:29,411 --> 0:5:29,91
+right?
+ 
+
+
+128
+0:5:29,91 --> 0:5:33,17
+Well, his skull might be in
+Australia but his leg--that
+
+
+129
+0:5:33,17 --> 0:5:34,5
+might be in England.
+ 
+
+
+130
+0:5:34,5 --> 0:5:37,317
+So the sort of--the horrifying
+end to Thomas Paine is his body
+
+
+131
+0:5:37,317 --> 0:5:39,903
+disappeared and perhaps little
+pieces of Thomas Paine are
+
+
+132
+0:5:39,903 --> 0:5:42,49
+floating around as little relics
+all over the world.
+
+
+133
+0:5:42,49 --> 0:5:46,209
+So that's Paine's sort of weird
+ending,
+
+
+134
+0:5:46,209 --> 0:5:49,416
+certainly not the kind of
+ending that you would wish for
+
+
+135
+0:5:49,416 --> 0:5:52,68
+the person who has written the
+pamphlet we're going to be
+
+
+136
+0:5:52,68 --> 0:5:54,79
+talking about today.
+ 
+
+
+137
+0:5:54,79 --> 0:5:57,156
+And we are given that--what he
+ended up writing was so
+
+
+138
+0:5:57,156 --> 0:6:0,348
+influential and so different
+from much of what was being
+
+
+139
+0:6:0,348 --> 0:6:1,8
+written at this time.
+ 
+
+
+140
+0:6:1,8 --> 0:6:6,406
+Now as I said at the outset,
+it's not the great subtleties
+
+
+141
+0:6:6,406 --> 0:6:9,72
+of its argument that made it
+stand out.
+
+
+142
+0:6:9,72 --> 0:6:13,47
+And in fact its popularity was
+due to the very things that were
+
+
+143
+0:6:13,47 --> 0:6:16,72
+its greatest strengths:
+the fact that it was
+
+
+144
+0:6:16,72 --> 0:6:18,918
+passionate,
+the fact that it had a really
+
+
+145
+0:6:18,918 --> 0:6:21,889
+simple style,
+that it spoke to the common
+
+
+146
+0:6:21,889 --> 0:6:26,108
+man, that it captured and
+completely overturned prevailing
+
+
+147
+0:6:26,108 --> 0:6:30,182
+colonial ideas about the
+relationship between the mother
+
+
+148
+0:6:30,182 --> 0:6:33,69
+country and the American
+colonies.
+
+
+149
+0:6:33,69 --> 0:6:37,151
+As someone wrote at the time,
+Paine spoke a language which
+
+
+150
+0:6:37,151 --> 0:6:40,16
+the colonists had felt,
+but not thought.
+
+
+151
+0:6:40,16 --> 0:6:44,55
+One of the remarkable things
+about the pamphlet is that it
+
+
+152
+0:6:44,55 --> 0:6:47,884
+was written by a somewhat
+bankrupt English corset-maker a
+
+
+153
+0:6:47,884 --> 0:6:51,711
+mere fourteen months after he
+had arrived in America from
+
+
+154
+0:6:51,711 --> 0:6:52,67
+England.
+ 
+
+
+155
+0:6:52,67 --> 0:6:55,41
+Basically speaking,
+Paine knew relatively little
+
+
+156
+0:6:55,41 --> 0:6:58,5
+about colonial affairs when he
+decided to write it.
+
+
+157
+0:6:58,5 --> 0:7:1,41
+He wasn't really an established
+writer.
+
+
+158
+0:7:1,41 --> 0:7:2,709
+He had done writing before.
+ 
+
+
+159
+0:7:2,709 --> 0:7:5,586
+I'll talk a little bit about
+this today, but he wasn't this
+
+
+160
+0:7:5,586 --> 0:7:7,769
+sort of well-known and
+established writer.
+
+
+161
+0:7:7,769 --> 0:7:8,79
+He wrote some for newspapers.
+ 
+
+
+162
+0:7:8,79 --> 0:7:13,113
+And actually the idea for the
+pamphlet initially wasn't really
+
+
+163
+0:7:13,113 --> 0:7:13,54
+his.
+ 
+
+
+164
+0:7:13,54 --> 0:7:16,661
+He wrote it at the
+encouragement of Dr. Benjamin
+
+
+165
+0:7:16,661 --> 0:7:17,259
+Rush.
+ 
+
+
+166
+0:7:17,259 --> 0:7:19,937
+I mentioned that in the first
+lecture, and I'm going to come
+
+
+167
+0:7:19,937 --> 0:7:20,8
+back to that too.
+ 
+
+
+168
+0:7:20,8 --> 0:7:23,72
+So Paine is relatively new to
+the colonies,
+
+
+169
+0:7:23,72 --> 0:7:27,404
+not really an established
+writer, so how is it that he
+
+
+170
+0:7:27,404 --> 0:7:29,769
+ends up writing this pamphlet?
+ 
+
+
+171
+0:7:29,769 --> 0:7:34,66
+Well, more than anything else
+it actually was Paine's
+
+
+172
+0:7:34,66 --> 0:7:40,19
+experience of events in the
+colonies between 1775 and 1776
+
+
+173
+0:7:40,19 --> 0:7:43,29
+that inspired what he wrote.
+ 
+
+
+174
+0:7:43,29 --> 0:7:47,281
+Now let's look for a moment
+at--to see here what Paine is
+
+
+175
+0:7:47,281 --> 0:7:51,61
+experiencing in that year before
+he wrote the pamphlet.
+
+
+176
+0:7:51,61 --> 0:7:53,81
+What is happening around him.
+ 
+
+
+177
+0:7:53,81 --> 0:7:56,334
+I'm going to talk about this
+really briefly here because I'll
+
+
+178
+0:7:56,334 --> 0:7:58,48
+be talking in more detail about
+this on Tuesday,
+
+
+179
+0:7:58,48 --> 0:8:1,6
+but one thing I will mention
+here very briefly is,
+
+
+180
+0:8:1,6 --> 0:8:5,24
+part of what happens between
+1775 and 1776 is the meeting of
+
+
+181
+0:8:5,24 --> 0:8:7,338
+the Second Continental Congress.
+ 
+
+
+182
+0:8:7,338 --> 0:8:11,16
+And that actually begins
+meeting in the spring of 1775.
+
+
+183
+0:8:11,16 --> 0:8:14,8
+I'll talk about the details of
+the Congress Tuesday.
+
+
+184
+0:8:14,8 --> 0:8:16,93
+For now, I'll just talk about
+the general mindset.
+
+
+185
+0:8:16,93 --> 0:8:19,839
+For one thing,
+no colony instructed its
+
+
+186
+0:8:19,839 --> 0:8:24,127
+delegates to this Second
+Continental Congress to work for
+
+
+187
+0:8:24,127 --> 0:8:25,43
+independence.
+ 
+
+
+188
+0:8:25,43 --> 0:8:27,519
+That was not the agenda.
+ 
+
+
+189
+0:8:27,519 --> 0:8:30,5
+Delegates were pretty much
+still acting under the
+
+
+190
+0:8:30,5 --> 0:8:34,41
+assumption that they were trying
+to force Parliament or the King
+
+
+191
+0:8:34,41 --> 0:8:38,11
+or someone to acknowledge their
+liberties and redress their
+
+
+192
+0:8:38,11 --> 0:8:41,86
+grievances,
+and the overall assumption
+
+
+193
+0:8:41,86 --> 0:8:45,601
+still was that balance had been
+thrown off within the British
+
+
+194
+0:8:45,601 --> 0:8:49,139
+constitution and it needed to be
+rebalanced.
+
+
+195
+0:8:49,139 --> 0:8:51,634
+So they're talking about trying
+to figure out a way of balancing
+
+
+196
+0:8:51,634 --> 0:8:53,231
+things,
+maybe a new balance,
+
+
+197
+0:8:53,231 --> 0:8:56,538
+but they're not talking about
+throwing the entire system
+
+
+198
+0:8:56,538 --> 0:8:57,8
+aside.
+ 
+
+
+199
+0:8:57,8 --> 0:9:0,605
+Actually, in the minds of many
+at the time they probably were
+
+
+200
+0:9:0,605 --> 0:9:3,423
+thinking,
+why destroy what had for a very
+
+
+201
+0:9:3,423 --> 0:9:7,582
+long time been one of the most
+successful political empires in
+
+
+202
+0:9:7,582 --> 0:9:8,47
+the world.
+ 
+
+
+203
+0:9:8,47 --> 0:9:11,831
+John Adams noted in his diary
+at the opening of the Second
+
+
+204
+0:9:11,831 --> 0:9:15,309
+Continental Congress that at
+what he called an "elegant
+
+
+205
+0:9:15,309 --> 0:9:18,2
+supper" at the opening of
+the Congress,
+
+
+206
+0:9:18,2 --> 0:9:20,678
+many representatives and their
+friends toasted,
+
+
+207
+0:9:20,678 --> 0:9:23,422
+quote, "the Union of
+Britain and the Colonies on a
+
+
+208
+0:9:23,422 --> 0:9:25,149
+constitutional foundation."
+ 
+
+
+209
+0:9:25,149 --> 0:9:25,469
+Okay.
+ 
+
+
+210
+0:9:25,469 --> 0:9:29,178
+So that's what they're hoping
+for as this Congress opens.
+
+
+211
+0:9:29,178 --> 0:9:33,899
+As an example of this initial
+mindset of the Congress--
+
+
+212
+0:9:33,899 --> 0:9:37,456
+again more about this
+Tuesday--moderates attempted one
+
+
+213
+0:9:37,456 --> 0:9:41,82
+last stab at some kind of basic
+reconciliation with the Crown,
+
+
+214
+0:9:41,82 --> 0:9:44,787
+and they issued what came to be
+known as the Olive Branch
+
+
+215
+0:9:44,787 --> 0:9:45,37
+Petition.
+ 
+
+
+216
+0:9:45,37 --> 0:9:49,69
+It failed for a number of
+reasons--again more next week--
+
+
+217
+0:9:49,69 --> 0:9:52,712
+one of the most basic reasons
+being the King refused to read
+
+
+218
+0:9:52,712 --> 0:9:55,827
+the Olive Branch Petition,
+which pretty much is the way to
+
+
+219
+0:9:55,827 --> 0:9:57,769
+guarantee the failure of a
+petition.
+
+
+220
+0:9:57,769 --> 0:10:0,418
+By doing that,
+the King basically gave some
+
+
+221
+0:10:0,418 --> 0:10:3,889
+credence to the views of the
+more radical members of the
+
+
+222
+0:10:3,889 --> 0:10:7,734
+Continental Congress,
+and radicals got even more
+
+
+223
+0:10:7,734 --> 0:10:12,76
+credence on August 23,
+1775, when the King issued a
+
+
+224
+0:10:12,76 --> 0:10:17,1
+proclamation that declared the
+colonies to be in rebellion,
+
+
+225
+0:10:17,1 --> 0:10:22,812
+and then made plans to send
+20,000 British troops to the
+
+
+226
+0:10:22,812 --> 0:10:26,35
+colonies,
+including Prussian mercenaries.
+
+
+227
+0:10:26,35 --> 0:10:29,452
+Okay, a big change in things,
+much more detail Tuesday,
+
+
+228
+0:10:29,452 --> 0:10:32,611
+but this is important to the
+setting of Common Sense.
+
+
+229
+0:10:32,611 --> 0:10:34,605
+So the King ignores the Olive
+
+
+230
+0:10:34,605 --> 0:10:35,47
+Branch Petition.
+ 
+
+
+231
+0:10:35,47 --> 0:10:38,264
+He's sending troops,
+not just any troops but
+
+
+232
+0:10:38,264 --> 0:10:41,514
+literally hired guns,
+right?--foreign hired guns to
+
+
+233
+0:10:41,514 --> 0:10:43,9
+go to the colonies.
+ 
+
+
+234
+0:10:43,9 --> 0:10:46,909
+So the colonies have now been
+declared in rebellion.
+
+
+235
+0:10:46,909 --> 0:10:47,84
+An army is coming.
+ 
+
+
+236
+0:10:47,84 --> 0:10:51,139
+At this point the colonists
+realize that they need to maybe
+
+
+237
+0:10:51,139 --> 0:10:54,211
+take some form of action and
+make some kind of military
+
+
+238
+0:10:54,211 --> 0:10:57,226
+preparation,
+not in an aggressive way but
+
+
+239
+0:10:57,226 --> 0:10:59,418
+certainly in a defensive way.
+ 
+
+
+240
+0:10:59,418 --> 0:11:3,799
+Even as they began to do this
+and try to stock up on military
+
+
+241
+0:11:3,799 --> 0:11:6,94
+supplies and engage in militia
+training,
+
+
+242
+0:11:6,94 --> 0:11:10,458
+still a lot of colonists
+considered it pretty unlikely
+
+
+243
+0:11:10,458 --> 0:11:12,85
+that a string of relatively
+weak--
+
+
+244
+0:11:12,85 --> 0:11:16,572
+prosperous as they
+were--colonies could hope to
+
+
+245
+0:11:16,572 --> 0:11:19,903
+defeat England,
+the most powerful nation on
+
+
+246
+0:11:19,903 --> 0:11:20,389
+earth.
+ 
+
+
+247
+0:11:20,389 --> 0:11:24,316
+And even if they did
+miraculously somehow manage to
+
+
+248
+0:11:24,316 --> 0:11:26,6
+do that,
+certainly also most people in
+
+
+249
+0:11:26,6 --> 0:11:29,0
+the colonies would have assumed
+that instantly,
+
+
+250
+0:11:29,0 --> 0:11:32,57
+foreign powers would have come
+zipping over to North America
+
+
+251
+0:11:32,57 --> 0:11:35,269
+and would have swallowed up
+these helpless little colonies,
+
+
+252
+0:11:35,269 --> 0:11:37,825
+and so now instead of belonging
+to England they would have
+
+
+253
+0:11:37,825 --> 0:11:39,44
+belonged to France or maybe
+Spain.
+
+
+254
+0:11:39,44 --> 0:11:42,37
+So certainly things weren't
+really feeling really optimistic
+
+
+255
+0:11:42,37 --> 0:11:45,104
+at this moment in which things
+seemed to be dramatically
+
+
+256
+0:11:45,104 --> 0:11:47,585
+shifting,
+and this is the setting in
+
+
+257
+0:11:47,585 --> 0:11:49,99
+which Paine wrote Common
+Sense.
+
+
+258
+0:11:49,99 --> 0:11:52,976
+In his mind,
+the time was right for some
+
+
+259
+0:11:52,976 --> 0:11:57,354
+kind of a drastic change for the
+better in the American colonies
+
+
+260
+0:11:57,354 --> 0:11:58,888
+and,
+as we'll see,
+
+
+261
+0:11:58,888 --> 0:12:3,82
+instead of just tinkering with
+the English constitution Paine
+
+
+262
+0:12:3,82 --> 0:12:7,438
+basically turns his back on it,
+rejects King George III,
+
+
+263
+0:12:7,438 --> 0:12:11,5
+rejects Parliament,
+and ultimately rejects even the
+
+
+264
+0:12:11,5 --> 0:12:12,889
+idea of monarchy.
+ 
+
+
+265
+0:12:12,889 --> 0:12:16,798
+So instead of centering on the
+British constitution,
+
+
+266
+0:12:16,798 --> 0:12:21,254
+Paine based his ideas about
+colonial society and government
+
+
+267
+0:12:21,254 --> 0:12:25,91
+on natural rights logic,
+arguing that the colonies
+
+
+268
+0:12:25,91 --> 0:12:28,899
+should join in a new government
+grounded on equality.
+
+
+269
+0:12:28,899 --> 0:12:32,0
+Now obviously ideas about
+natural rights,
+
+
+270
+0:12:32,0 --> 0:12:34,558
+natural rights talk,
+isn't new.
+
+
+271
+0:12:34,558 --> 0:12:39,279
+Paine's achievement was to take
+those kinds of ideas and in a
+
+
+272
+0:12:39,279 --> 0:12:42,19
+sense give them to ordinary
+people.
+
+
+273
+0:12:42,19 --> 0:12:45,966
+Part of what he argues in his
+pamphlet is: this isn't some
+
+
+274
+0:12:45,966 --> 0:12:48,418
+great high constitutional
+argument.
+
+
+275
+0:12:48,418 --> 0:12:52,298
+This is about you and me and
+life in the colonies.
+
+
+276
+0:12:52,298 --> 0:12:56,221
+And, as we'll see,
+in method and in audience and
+
+
+277
+0:12:56,221 --> 0:13:1,227
+in argument--for all of these
+reasons, Paine's pamphlet had a
+
+
+278
+0:13:1,227 --> 0:13:2,48
+big impact.
+ 
+
+
+279
+0:13:2,48 --> 0:13:6,842
+So let's look for a moment at
+who this man was who wrote this
+
+
+280
+0:13:6,842 --> 0:13:8,879
+early American bestseller.
+ 
+
+
+281
+0:13:8,879 --> 0:13:11,46
+Well, he was relatively poor.
+ 
+
+
+282
+0:13:11,46 --> 0:13:13,538
+He was never really well off.
+ 
+
+
+283
+0:13:13,538 --> 0:13:15,433
+Obviously, he was an
+intelligent--strikingly
+
+
+284
+0:13:15,433 --> 0:13:16,36
+intelligent person.
+ 
+
+
+285
+0:13:16,36 --> 0:13:19,639
+He was someone who loved to
+assert his own importance.
+
+
+286
+0:13:19,639 --> 0:13:21,528
+He loved to brag about his
+great accomplishments.
+
+
+287
+0:13:21,528 --> 0:13:24,149
+He loved to dominate a
+conversation.
+
+
+288
+0:13:24,149 --> 0:13:26,702
+It's possible towards the end
+of his life he may have had a
+
+
+289
+0:13:26,702 --> 0:13:27,538
+drinking problem.
+ 
+
+
+290
+0:13:27,538 --> 0:13:29,99
+I tried to get authoritative
+word on this.
+
+
+291
+0:13:29,99 --> 0:13:32,7
+Probably I didn't realize it.
+ 
+
+
+292
+0:13:32,7 --> 0:13:34,72
+When I'm-- I--Although I've
+taught this course before,
+
+
+293
+0:13:34,72 --> 0:13:37,317
+before I give every lecture I
+actually go over it and kind of
+
+
+294
+0:13:37,317 --> 0:13:39,874
+redo it and then I research
+things so before I come to class
+
+
+295
+0:13:39,874 --> 0:13:41,519
+I'm actually having these
+random--
+
+
+296
+0:13:41,519 --> 0:13:43,37
+It's like a big game of Trivial
+Pursuit.
+
+
+297
+0:13:43,37 --> 0:13:45,799
+Was Thomas Paine really drunk?
+ 
+
+
+298
+0:13:45,799 --> 0:13:47,389
+Research, research, research.
+ 
+
+
+299
+0:13:47,389 --> 0:13:48,23
+Okay. Maybe not so much.
+ 
+
+
+300
+0:13:48,23 --> 0:13:49,45
+What happened to the body?
+ 
+
+
+301
+0:13:49,45 --> 0:13:50,95
+Oh. We still don't know.
+ 
+
+
+302
+0:13:50,95 --> 0:13:51,99
+Okay. Okay.
+ 
+
+
+303
+0:13:51,99 --> 0:13:54,866
+So I have these weird Trivial
+Pursuit moments in preparation
+
+
+304
+0:13:54,866 --> 0:13:55,94
+for the course here.
+ 
+
+
+305
+0:13:55,94 --> 0:13:57,854
+So, maybe drunk,
+maybe not, a slight drinking
+
+
+306
+0:13:57,854 --> 0:13:58,289
+problem.
+ 
+
+
+307
+0:13:58,289 --> 0:13:59,788
+Historians disagree.
+ 
+
+
+308
+0:13:59,788 --> 0:14:3,82
+Either way, he was born in
+England in 1737.
+
+
+309
+0:14:3,82 --> 0:14:8,269
+Supposedly the cottage that he
+was born in was literally in the
+
+
+310
+0:14:8,269 --> 0:14:12,538
+shadow of a place of execution,
+so the dark hand of the State
+
+
+311
+0:14:12,538 --> 0:14:15,44
+was looming over the cottage of
+Thomas Paine.
+
+
+312
+0:14:15,44 --> 0:14:17,45
+He was born poor.
+ 
+
+
+313
+0:14:17,45 --> 0:14:20,158
+His father was a stay-maker.
+ 
+
+
+314
+0:14:20,158 --> 0:14:23,292
+Paine did go to grammar school
+and he liked learning,
+
+
+315
+0:14:23,292 --> 0:14:26,785
+but at the age of 12 he was
+pulled out to be apprenticed to
+
+
+316
+0:14:26,785 --> 0:14:27,69
+his father.
+ 
+
+
+317
+0:14:27,69 --> 0:14:30,318
+As a young man,
+he had a number of different
+
+
+318
+0:14:30,318 --> 0:14:30,87
+trades.
+ 
+
+
+319
+0:14:30,87 --> 0:14:33,11
+None of them were enormously
+successful.
+
+
+320
+0:14:33,11 --> 0:14:36,58
+I think for a little while he
+might have been a sailor.
+
+
+321
+0:14:36,58 --> 0:14:37,798
+I think he was a minor
+officeholder.
+
+
+322
+0:14:37,798 --> 0:14:40,83
+I think he was an excise man in
+England for a little while.
+
+
+323
+0:14:40,83 --> 0:14:44,783
+In his spare time he liked to
+go to public lectures in London,
+
+
+324
+0:14:44,783 --> 0:14:48,22
+and that's where he met men
+like Benjamin Franklin.
+
+
+325
+0:14:48,22 --> 0:14:53,149
+And Franklin ultimately proved
+important to Paine,
+
+
+326
+0:14:53,149 --> 0:14:56,605
+because Paine ended up doing
+what a lot of sort of vaguely
+
+
+327
+0:14:56,605 --> 0:14:59,879
+rootless people in England might
+have decided to do.
+
+
+328
+0:14:59,879 --> 0:15:2,634
+He decided to try his luck in
+the American colonies where
+
+
+329
+0:15:2,634 --> 0:15:5,49
+there seemed to be some
+opportunity for self-promotion,
+
+
+330
+0:15:5,49 --> 0:15:7,519
+for sort of making something of
+yourself.
+
+
+331
+0:15:7,519 --> 0:15:10,427
+But before setting off,
+Paine did an intelligent thing,
+
+
+332
+0:15:10,427 --> 0:15:12,528
+and that is,
+he made an appointment with
+
+
+333
+0:15:12,528 --> 0:15:13,23
+Franklin.
+ 
+
+
+334
+0:15:13,23 --> 0:15:15,48
+And Franklin did an important
+thing.
+
+
+335
+0:15:15,48 --> 0:15:18,87
+He wrote a letter of
+recommendation for Paine.
+
+
+336
+0:15:18,87 --> 0:15:22,188
+And a letter of recommendation
+in this period was kind of a
+
+
+337
+0:15:22,188 --> 0:15:24,616
+magical thing because,
+if you think about it,
+
+
+338
+0:15:24,616 --> 0:15:27,471
+unlike now where there are five
+million ways in which we all can
+
+
+339
+0:15:27,471 --> 0:15:30,182
+check on each other,
+there really weren't ways in
+
+
+340
+0:15:30,182 --> 0:15:33,774
+which one person knew anything
+about a stranger or could verify
+
+
+341
+0:15:33,774 --> 0:15:36,44
+or check on who some complete
+stranger was.
+
+
+342
+0:15:36,44 --> 0:15:39,173
+There's a reason why the early
+nineteenth century is the age of
+
+
+343
+0:15:39,173 --> 0:15:39,702
+the con man.
+ 
+
+
+344
+0:15:39,702 --> 0:15:40,1
+Right?
+ 
+
+
+345
+0:15:40,1 --> 0:15:41,879
+It's really easy for someone to
+drift into town,
+
+
+346
+0:15:41,879 --> 0:15:44,1
+claim to be somebody,
+no one has a way of checking,
+
+
+347
+0:15:44,1 --> 0:15:47,192
+and then the person can drift
+out, taking various amounts of
+
+
+348
+0:15:47,192 --> 0:15:48,87
+money and belongings with him.
+ 
+
+
+349
+0:15:48,87 --> 0:15:52,2
+So letters of recommendation
+were kind of magical because
+
+
+350
+0:15:52,2 --> 0:15:55,509
+basically they represented one
+person vouching their reputation
+
+
+351
+0:15:55,509 --> 0:15:56,408
+for another.
+ 
+
+
+352
+0:15:56,408 --> 0:15:59,613
+The person who wrote it said,
+'I'm writing this letter for
+
+
+353
+0:15:59,613 --> 0:16:0,399
+Mr. Paine.
+ 
+
+
+354
+0:16:0,399 --> 0:16:2,732
+I, Mr. Franklin,
+am writing for Mr. Paine and
+
+
+355
+0:16:2,732 --> 0:16:5,86
+I'm introducing him to your
+attention and wish that you will
+
+
+356
+0:16:5,86 --> 0:16:9,519
+introduce yourself to him and
+show him around Philadelphia'--
+
+
+357
+0:16:9,519 --> 0:16:11,923
+seemingly a basic statement,
+but Franklin was basically
+
+
+358
+0:16:11,923 --> 0:16:13,678
+saying,
+'I'm--Here's my reputation.
+
+
+359
+0:16:13,678 --> 0:16:16,797
+I'm vouching for this guy so
+you could--you can get to know
+
+
+360
+0:16:16,797 --> 0:16:17,12
+him.
+ 
+
+
+361
+0:16:17,12 --> 0:16:18,96
+You can trust him because I'm
+recommending him.'
+
+
+362
+0:16:18,96 --> 0:16:21,778
+So it was a smart move on
+Paine's part.
+
+
+363
+0:16:21,778 --> 0:16:24,65
+It was a nice thing for
+Franklin to do,
+
+
+364
+0:16:24,65 --> 0:16:27,732
+and in the letter that Franklin
+wrote he referred Paine to his
+
+
+365
+0:16:27,732 --> 0:16:30,558
+son-in-law, Richard Bache,
+in Philadelphia.
+
+
+366
+0:16:30,558 --> 0:16:35,798
+So Paine arrived in America in
+late 1774,
+
+
+367
+0:16:35,798 --> 0:16:38,926
+but apparently the whole
+overseas passage was pretty
+
+
+368
+0:16:38,926 --> 0:16:42,666
+horrible so he was pretty much
+out of commission until January
+
+
+369
+0:16:42,666 --> 0:16:44,532
+1775,
+and at that point when he was
+
+
+370
+0:16:44,532 --> 0:16:46,918
+up and about,
+Bache offered to introduce him
+
+
+371
+0:16:46,918 --> 0:16:49,529
+into the local literary and
+political scene.
+
+
+372
+0:16:49,529 --> 0:16:52,7
+Now what happened next is a
+really good case for the
+
+
+373
+0:16:52,7 --> 0:16:55,11
+importance of serendipity and
+the importance of bookstores.
+
+
+374
+0:16:55,11 --> 0:16:55,524
+Okay.
+ 
+
+
+375
+0:16:55,524 --> 0:17:0,168
+So Paine liked to hang out in
+this one local bookstore.
+
+
+376
+0:17:0,168 --> 0:17:2,37
+Apparently he went there every
+day.
+
+
+377
+0:17:2,37 --> 0:17:2,625
+Okay.
+ 
+
+
+378
+0:17:2,625 --> 0:17:4,676
+That's the local literary
+scene--[laughs]
+
+
+379
+0:17:4,676 --> 0:17:7,319
+the bookstore--
+and he befriended the owner of
+
+
+380
+0:17:7,319 --> 0:17:10,587
+the bookstore and the owner
+eventually invited Paine to be
+
+
+381
+0:17:10,587 --> 0:17:13,798
+the editor of a new journal that
+he wanted to start,
+
+
+382
+0:17:13,798 --> 0:17:15,95
+that he was calling the
+Pennsylvania Magazine.
+
+
+383
+0:17:15,95 --> 0:17:18,367
+So Paine wrote for the
+Pennsylvania Magazine for
+
+
+384
+0:17:18,367 --> 0:17:20,876
+a while and he wrote a
+bunch of different kinds of
+
+
+385
+0:17:20,876 --> 0:17:21,369
+things.
+ 
+
+
+386
+0:17:21,369 --> 0:17:22,47
+He wrote fiction.
+ 
+
+
+387
+0:17:22,47 --> 0:17:23,829
+He wrote essays.
+ 
+
+
+388
+0:17:23,829 --> 0:17:25,42
+He wrote social commentary.
+ 
+
+
+389
+0:17:25,42 --> 0:17:28,238
+As an example,
+he wrote a piece on British
+
+
+390
+0:17:28,238 --> 0:17:32,18
+cruelty in the East Indies and
+Africa and against native
+
+
+391
+0:17:32,18 --> 0:17:34,108
+Americans,
+writing, quote,
+
+
+392
+0:17:34,108 --> 0:17:38,275
+"When I reflect on these I
+hesitate not for a moment to
+
+
+393
+0:17:38,275 --> 0:17:42,441
+believe that the Almighty will
+finally separate America from
+
+
+394
+0:17:42,441 --> 0:17:43,358
+Britain.
+ 
+
+
+395
+0:17:43,358 --> 0:17:46,838
+Call it Independence or what
+you will, if it is the cause of
+
+
+396
+0:17:46,838 --> 0:17:49,14
+God and humanity it will go
+on."
+
+
+397
+0:17:49,14 --> 0:17:51,4
+Now considering--I'm going to
+talk a little bit more about the
+
+
+398
+0:17:51,4 --> 0:17:52,881
+fact that people aren't really
+talking about independence at
+
+
+399
+0:17:52,881 --> 0:17:55,348
+this point,
+so that's a pretty bold
+
+
+400
+0:17:55,348 --> 0:17:58,259
+statement before Common
+Sense.
+
+
+401
+0:17:58,259 --> 0:18:2,509
+Now one thing was noticeable
+about Paine's writings.
+
+
+402
+0:18:2,509 --> 0:18:5,471
+And that is that when they
+seemed to strike at issues of
+
+
+403
+0:18:5,471 --> 0:18:7,483
+American liberty,
+even indirectly,
+
+
+404
+0:18:7,483 --> 0:18:9,47
+even seemingly through
+metaphor--
+
+
+405
+0:18:9,47 --> 0:18:12,846
+as in one essay that talked
+about British domination of
+
+
+406
+0:18:12,846 --> 0:18:16,411
+India but everybody assumed
+India must really be the North
+
+
+407
+0:18:16,411 --> 0:18:19,276
+American colonies--
+whenever he was referencing any
+
+
+408
+0:18:19,276 --> 0:18:22,98
+of that sort of thing,
+sales jumped.
+
+
+409
+0:18:22,98 --> 0:18:24,72
+Everyone wanted to read those
+essays.
+
+
+410
+0:18:24,72 --> 0:18:28,637
+And ultimately it was some of
+those essays that brought Paine
+
+
+411
+0:18:28,637 --> 0:18:30,99
+to the attention of Benjamin
+Rush.
+
+
+412
+0:18:30,99 --> 0:18:33,634
+Rush went to that same
+bookstore, the magical
+
+
+413
+0:18:33,634 --> 0:18:36,38
+bookstore, the center of Paine's
+life.
+
+
+414
+0:18:36,38 --> 0:18:39,38
+He happened to meet Paine at
+that same bookstore--so the
+
+
+415
+0:18:39,38 --> 0:18:42,38
+moral is it's a good thing to
+hang out in bookstores.
+
+
+416
+0:18:42,38 --> 0:18:46,317
+And through their conversations
+Rush later wrote that at the
+
+
+417
+0:18:46,317 --> 0:18:50,32
+time he observed that,
+quote, "Paine had realized
+
+
+418
+0:18:50,32 --> 0:18:53,164
+the independance of the American
+colonies upon Great
+
+
+419
+0:18:53,164 --> 0:18:55,559
+Britain"
+even at that time and that
+
+
+420
+0:18:55,559 --> 0:18:59,429
+"he considered the measure
+as necessary to bring the war to
+
+
+421
+0:18:59,429 --> 0:19:2,68
+a speedy and successful
+issue."
+
+
+422
+0:19:2,68 --> 0:19:3,583
+So he meets Paine and one of
+the things he notices is well,
+
+
+423
+0:19:3,583 --> 0:19:5,68
+this guy's already kind of
+thinking about independence.
+
+
+424
+0:19:5,68 --> 0:19:9,641
+Paine himself later wrote about
+his opinion of the colonies upon
+
+
+425
+0:19:9,641 --> 0:19:12,432
+his arrival,
+and he said that the thing that
+
+
+426
+0:19:12,432 --> 0:19:15,509
+most struck him was how loyal
+the colonists were to Great
+
+
+427
+0:19:15,509 --> 0:19:18,808
+Britain,
+and this is, Paine's words here.
+
+
+428
+0:19:18,808 --> 0:19:21,372
+"I found the disposition
+of the people such,
+
+
+429
+0:19:21,372 --> 0:19:24,469
+that they might have been led
+by a thread and governed by a
+
+
+430
+0:19:24,469 --> 0:19:24,95
+reed.
+ 
+
+
+431
+0:19:24,95 --> 0:19:27,16
+Their suspicion was quick and
+penetrating,
+
+
+432
+0:19:27,16 --> 0:19:29,598
+but their attachment to Britain
+was obstinate,
+
+
+433
+0:19:29,598 --> 0:19:33,78
+and it was at that time a kind
+of treason to speak against it.
+
+
+434
+0:19:33,78 --> 0:19:37,299
+They disliked the ministry,
+but they esteemed the
+
+
+435
+0:19:37,299 --> 0:19:38,618
+nation."
+ 
+
+
+436
+0:19:38,618 --> 0:19:39,958
+I think that's a really
+important point:
+
+
+437
+0:19:39,958 --> 0:19:41,776
+"They disliked the
+ministry but they esteemed the
+
+
+438
+0:19:41,776 --> 0:19:42,358
+nation."
+ 
+
+
+439
+0:19:42,358 --> 0:19:45,882
+"Their idea of grievance
+operated without resentment,
+
+
+440
+0:19:45,882 --> 0:19:48,91
+and their single object was
+reconciliation ....
+
+
+441
+0:19:48,91 --> 0:19:51,368
+I viewed the dispute as a kind
+of law-suit.
+
+
+442
+0:19:51,368 --> 0:19:54,782
+I supposed the parties would
+find a way either to decide or
+
+
+443
+0:19:54,782 --> 0:19:55,49
+settle it.
+ 
+
+
+444
+0:19:55,49 --> 0:19:58,67
+I had no thoughts of
+independence or of arms.
+
+
+445
+0:19:58,67 --> 0:20:1,81
+The world could not then have
+persuaded me that I should be
+
+
+446
+0:20:1,81 --> 0:20:3,868
+either a soldier or an
+author."
+
+
+447
+0:20:3,868 --> 0:20:6,77
+Ultimately, it was the battle
+of Lexington that changed
+
+
+448
+0:20:6,77 --> 0:20:8,167
+Paine's view,
+and his life,
+
+
+449
+0:20:8,167 --> 0:20:10,21
+as it changed that of many
+others.
+
+
+450
+0:20:10,21 --> 0:20:12,17
+As Paine put it,
+"when the country,
+
+
+451
+0:20:12,17 --> 0:20:15,412
+into which I had just set my
+foot, was set on fire about my
+
+
+452
+0:20:15,412 --> 0:20:17,769
+ears,
+it was time to stir."
+
+
+453
+0:20:17,769 --> 0:20:21,625
+And so it's at this point that
+Paine begins to tinker with the
+
+
+454
+0:20:21,625 --> 0:20:23,46
+idea of writing a pamphlet.
+ 
+
+
+455
+0:20:23,46 --> 0:20:26,75
+And apparently he spoke with
+Benjamin Rush about it,
+
+
+456
+0:20:26,75 --> 0:20:29,963
+and Rush later recalled in a
+letter to a friend that he
+
+
+457
+0:20:29,963 --> 0:20:33,595
+offered Paine one overall piece
+of advice at the outset of the
+
+
+458
+0:20:33,595 --> 0:20:34,308
+project.
+ 
+
+
+459
+0:20:34,308 --> 0:20:36,919
+He said to Paine,
+"there were two words
+
+
+460
+0:20:36,919 --> 0:20:40,499
+which he should avoid by every
+means as necessary to his own
+
+
+461
+0:20:40,499 --> 0:20:42,622
+safety and that of the
+public,"
+
+
+462
+0:20:42,622 --> 0:20:45,413
+and the two words were
+"independence"
+
+
+463
+0:20:45,413 --> 0:20:47,72
+and "republicanism."
+ 
+
+
+464
+0:20:47,72 --> 0:20:49,89
+Okay, and if you think about
+Common Sense,
+
+
+465
+0:20:49,89 --> 0:20:52,108
+he didn't listen to that
+advice at all.
+
+
+466
+0:20:52,108 --> 0:20:54,892
+And as a matter of fact it's
+impossible to know what went
+
+
+467
+0:20:54,892 --> 0:20:56,779
+through Paine's mind at that
+moment.
+
+
+468
+0:20:56,779 --> 0:20:58,88
+He certainly--He knew the
+colonies were,
+
+
+469
+0:20:58,88 --> 0:21:1,137
+as he put it,
+on fire, he knew that popular
+
+
+470
+0:21:1,137 --> 0:21:3,72
+sentiment was building even
+against the King,
+
+
+471
+0:21:3,72 --> 0:21:6,769
+but knowing his personality
+it's entirely possible that if
+
+
+472
+0:21:6,769 --> 0:21:8,675
+Rush said to him,
+'Whatever you do,
+
+
+473
+0:21:8,675 --> 0:21:11,63
+don't mention independence,'
+that Paine's reaction might have
+
+
+474
+0:21:11,63 --> 0:21:13,318
+been well,
+that's at the center of it,
+
+
+475
+0:21:13,318 --> 0:21:13,69
+isn't it?
+ 
+
+
+476
+0:21:13,69 --> 0:21:16,265
+So that's it;
+that's going to be what I write
+
+
+477
+0:21:16,265 --> 0:21:17,805
+about, isn't it,
+and it's going to be
+
+
+478
+0:21:17,805 --> 0:21:18,49
+independence.
+ 
+
+
+479
+0:21:18,49 --> 0:21:21,272
+And he might have deliberately
+done the precise thing he was
+
+
+480
+0:21:21,272 --> 0:21:23,391
+asked not to do,
+and focus on the most
+
+
+481
+0:21:23,391 --> 0:21:26,941
+controversial issue that seemed
+to be at the very heart of the
+
+
+482
+0:21:26,941 --> 0:21:30,117
+controversy that seemed to be,
+certainly to Paine,
+
+
+483
+0:21:30,117 --> 0:21:33,526
+lurking right underneath the
+surface of this prevailing
+
+
+484
+0:21:33,526 --> 0:21:35,23
+constitutional argument.
+ 
+
+
+485
+0:21:35,23 --> 0:21:39,586
+So Paine wrote the pamphlet,
+he read parts of it to Rush as
+
+
+486
+0:21:39,586 --> 0:21:43,643
+he did, and Common Sense
+is published in January
+
+
+487
+0:21:43,643 --> 0:21:44,318
+1776.
+ 
+
+
+488
+0:21:44,318 --> 0:21:46,818
+And I did state correctly
+earlier that he wanted to call
+
+
+489
+0:21:46,818 --> 0:21:49,364
+it Plain Truth and
+Benjamin Rush thought Common
+
+
+490
+0:21:49,364 --> 0:21:52,259
+Sense was a better title,
+and I agree with Benjamin Rush.
+
+
+491
+0:21:52,259 --> 0:21:53,98
+I like Common Sense
+better.
+
+
+492
+0:21:53,98 --> 0:21:59,1
+The pamphlet--The main argument
+of the pamphlet did three
+
+
+493
+0:21:59,1 --> 0:21:59,808
+things.
+ 
+
+
+494
+0:21:59,808 --> 0:22:3,224
+So number one,
+it basically refuted the
+
+
+495
+0:22:3,224 --> 0:22:6,818
+prevailing ideas against
+independence.
+
+
+496
+0:22:6,818 --> 0:22:11,8
+It went one step further and
+demonstrated the necessity of
+
+
+497
+0:22:11,8 --> 0:22:15,21
+independence and how possible it
+was.
+
+
+498
+0:22:15,21 --> 0:22:19,38
+And it demonstrated the
+stupidity and utter uselessness
+
+
+499
+0:22:19,38 --> 0:22:22,866
+not only of the English monarchy
+but just of monarchies
+
+
+500
+0:22:22,866 --> 0:22:23,858
+generally.
+ 
+
+
+501
+0:22:23,858 --> 0:22:27,747
+This is a radical message,
+and it was written in a
+
+
+502
+0:22:27,747 --> 0:22:32,347
+radically simple style aimed at
+being accessible to a broad
+
+
+503
+0:22:32,347 --> 0:22:33,38
+audience.
+ 
+
+
+504
+0:22:33,38 --> 0:22:36,696
+This was all the more radical
+given that American independence
+
+
+505
+0:22:36,696 --> 0:22:39,959
+had not really been seriously
+discussed by the great majority
+
+
+506
+0:22:39,959 --> 0:22:43,166
+of colonists with the exception
+of some extreme radicals who
+
+
+507
+0:22:43,166 --> 0:22:46,48
+I've been mentioning now and
+again in lectures.
+
+
+508
+0:22:46,48 --> 0:22:50,507
+So let's look for just a minute
+at how Paine went through the
+
+
+509
+0:22:50,507 --> 0:22:53,434
+three parts of his argument--
+and in a sense,
+
+
+510
+0:22:53,434 --> 0:22:55,19
+there's three parts of his
+argument,
+
+
+511
+0:22:55,19 --> 0:22:58,39
+and the pamphlet itself has
+three sections.
+
+
+512
+0:22:58,39 --> 0:23:1,762
+And the first section of the
+pamphlet centers on getting
+
+
+513
+0:23:1,762 --> 0:23:5,12
+people past this ongoing
+constitutional argument about
+
+
+514
+0:23:5,12 --> 0:23:8,57
+the proper relationship between
+the colonies and the mother
+
+
+515
+0:23:8,57 --> 0:23:9,43
+country.
+ 
+
+
+516
+0:23:9,43 --> 0:23:12,928
+And to accomplish this,
+Paine did something amazingly
+
+
+517
+0:23:12,928 --> 0:23:13,4
+bold.
+ 
+
+
+518
+0:23:13,4 --> 0:23:17,878
+He just tossed aside the entire
+idea of focusing on the English
+
+
+519
+0:23:17,878 --> 0:23:22,72
+constitution as the context for
+determining the fate of America,
+
+
+520
+0:23:22,72 --> 0:23:25,545
+and rather than going on and on
+and on with the same
+
+
+521
+0:23:25,545 --> 0:23:28,906
+constitutional debate,
+he began his pamphlet with an
+
+
+522
+0:23:28,906 --> 0:23:32,657
+attack not only against King
+George but also against the
+
+
+523
+0:23:32,657 --> 0:23:34,5
+entire idea of monarchy.
+ 
+
+
+524
+0:23:34,5 --> 0:23:38,509
+And he had a couple strategic
+reasons for choosing to do this.
+
+
+525
+0:23:38,509 --> 0:23:42,673
+First, the Crown was the last
+remaining emotional and
+
+
+526
+0:23:42,673 --> 0:23:47,638
+political link that was really
+tying the colonies to the mother
+
+
+527
+0:23:47,638 --> 0:23:48,598
+country.
+ 
+
+
+528
+0:23:48,598 --> 0:23:51,803
+By this point,
+the colonists had lost faith in
+
+
+529
+0:23:51,803 --> 0:23:54,759
+Parliament,
+so Paine certainly knew that if
+
+
+530
+0:23:54,759 --> 0:23:58,68
+he could strike at this last
+linchpin of colonial sentiment,
+
+
+531
+0:23:58,68 --> 0:24:2,298
+he could advance the cause of
+independence.
+
+
+532
+0:24:2,298 --> 0:24:7,407
+Second, if Paine could destroy
+the legitimacy not only of King
+
+
+533
+0:24:7,407 --> 0:24:11,68
+George but also of the idea of
+monarchy overall,
+
+
+534
+0:24:11,68 --> 0:24:15,7
+then the English constitution's
+legitimacy would suffer as well,
+
+
+535
+0:24:15,7 --> 0:24:19,528
+once again hopefully opening
+the way for independence.
+
+
+536
+0:24:19,528 --> 0:24:22,288
+And then third,
+I think equally important,
+
+
+537
+0:24:22,288 --> 0:24:26,578
+rhetorically Paine had a really
+good writer's sense of pacing,
+
+
+538
+0:24:26,578 --> 0:24:29,944
+and he knew that if he opened
+this pamphlet with this really
+
+
+539
+0:24:29,944 --> 0:24:33,366
+dramatic challenge to all of the
+prevailing assumptions about
+
+
+540
+0:24:33,366 --> 0:24:35,942
+government,
+and if he turned all of these
+
+
+541
+0:24:35,942 --> 0:24:39,484
+assumptions on their head,
+he would pull readers in to his
+
+
+542
+0:24:39,484 --> 0:24:43,355
+pamphlet and in to his argument
+immediately and hold them there
+
+
+543
+0:24:43,355 --> 0:24:46,994
+for the center of his argument,
+which was the second section of
+
+
+544
+0:24:46,994 --> 0:24:48,807
+the pamphlet,
+and that is really the part
+
+
+545
+0:24:48,807 --> 0:24:50,38
+that focuses on independence.
+ 
+
+
+546
+0:24:50,38 --> 0:24:54,388
+Independence at this point was
+a topic that people didn't
+
+
+547
+0:24:54,388 --> 0:24:55,71
+discuss openly.
+ 
+
+
+548
+0:24:55,71 --> 0:24:57,49
+They didn't talk about it in
+public.
+
+
+549
+0:24:57,49 --> 0:25:0,361
+If discussed at all,
+it was discussed privately
+
+
+550
+0:25:0,361 --> 0:25:3,92
+among friends because basically
+it amounted to treason.
+
+
+551
+0:25:3,92 --> 0:25:7,974
+Paine's dramatic introduction
+opened the way for him to
+
+
+552
+0:25:7,974 --> 0:25:11,278
+introduce this really
+controversial topic.
+
+
+553
+0:25:11,278 --> 0:25:15,44
+If the English constitution
+lacked legitimacy,
+
+
+554
+0:25:15,44 --> 0:25:16,548
+well, what next?
+ 
+
+
+555
+0:25:16,548 --> 0:25:19,39
+And his answer obviously is:
+well, independence,
+
+
+556
+0:25:19,39 --> 0:25:20,778
+the obvious solution.
+ 
+
+
+557
+0:25:20,778 --> 0:25:23,885
+Which then brings us to the
+third section of the
+
+
+558
+0:25:23,885 --> 0:25:26,2
+pamphlet--and that is the
+future.
+
+
+559
+0:25:26,2 --> 0:25:31,68
+Paine concludes the pamphlet by
+discussing just what Americans
+
+
+560
+0:25:31,68 --> 0:25:35,46
+could institute to replace the
+English constitution,
+
+
+561
+0:25:35,46 --> 0:25:38,97
+what kind of government they
+might be able to construct to
+
+
+562
+0:25:38,97 --> 0:25:39,95
+replace what they were stripping
+away.
+
+
+563
+0:25:39,95 --> 0:25:46,125
+Now throughout his work Paine
+hammered away at old ideas and
+
+
+564
+0:25:46,125 --> 0:25:48,43
+propounded new ones.
+ 
+
+
+565
+0:25:48,43 --> 0:25:51,289
+He argued that America was
+distinct from England,
+
+
+566
+0:25:51,289 --> 0:25:54,567
+that it was multicultural,
+that it actually was more the
+
+
+567
+0:25:54,567 --> 0:25:57,309
+child of Europe than the child
+of England.
+
+
+568
+0:25:57,309 --> 0:25:59,539
+He promoted American commerce.
+ 
+
+
+569
+0:25:59,539 --> 0:26:1,69
+He promoted social mobility.
+ 
+
+
+570
+0:26:1,69 --> 0:26:5,303
+He praised the innocence of the
+New World as compared with the
+
+
+571
+0:26:5,303 --> 0:26:7,91
+corruption and decadence of the
+Old World.
+
+
+572
+0:26:7,91 --> 0:26:12,372
+He struck at the trappings of
+monarchy, things like hereditary
+
+
+573
+0:26:12,372 --> 0:26:14,64
+privilege and court intrigue.
+ 
+
+
+574
+0:26:14,64 --> 0:26:18,603
+He was an individualist arguing
+that society was made of
+
+
+575
+0:26:18,603 --> 0:26:22,711
+individuals who should all be
+able to strive for their own
+
+
+576
+0:26:22,711 --> 0:26:23,358
+good.
+ 
+
+
+577
+0:26:23,358 --> 0:26:27,604
+He wasn't arguing that families
+or patron-client relationships
+
+
+578
+0:26:27,604 --> 0:26:30,38
+should define society any
+longer.
+
+
+579
+0:26:30,38 --> 0:26:33,926
+He depicted government as a
+kind of necessary evil that was
+
+
+580
+0:26:33,926 --> 0:26:37,9
+prone to create bureaucracies
+and privilege.
+
+
+581
+0:26:37,9 --> 0:26:38,702
+As he put it,
+"Government,
+
+
+582
+0:26:38,702 --> 0:26:41,41
+like dress, is the badge of
+lost innocence,"
+
+
+583
+0:26:41,41 --> 0:26:44,4
+so it's the price we pay for
+being flawed beings.
+
+
+584
+0:26:44,4 --> 0:26:48,89
+And he seemed to speak of an
+American millennium,
+
+
+585
+0:26:48,89 --> 0:26:51,548
+speaking of America as God's
+chosen people.
+
+
+586
+0:26:51,548 --> 0:26:55,318
+Paine argued that America's
+success was linked to the
+
+
+587
+0:26:55,318 --> 0:26:59,326
+success of all humankind,
+that the American colonists
+
+
+588
+0:26:59,326 --> 0:27:2,838
+could launch a worldwide
+democratic revolution.
+
+
+589
+0:27:2,838 --> 0:27:5,68
+And, as he put it--I'll quote
+it again,
+
+
+590
+0:27:5,68 --> 0:27:7,815
+but I think maybe it was the
+first lecture that I quoted this
+
+
+591
+0:27:7,815 --> 0:27:10,11
+as my sort of random
+inspirational sentences from
+
+
+592
+0:27:10,11 --> 0:27:11,98
+random guy from the eighteenth
+century.
+
+
+593
+0:27:11,98 --> 0:27:14,288
+This is where this comes from.
+ 
+
+
+594
+0:27:14,288 --> 0:27:17,246
+It's the statement about
+beginning the world anew:
+
+
+595
+0:27:17,246 --> 0:27:20,926
+"We have every opportunity
+and every encouragement before
+
+
+596
+0:27:20,926 --> 0:27:23,6
+us,
+to form the noblest purest
+
+
+597
+0:27:23,6 --> 0:27:25,538
+constitution on the face of the
+earth.
+
+
+598
+0:27:25,538 --> 0:27:28,384
+We have it in our power to
+begin the world over
+
+
+599
+0:27:28,384 --> 0:27:31,849
+again....The birthday of a new
+world is at hand."
+
+
+600
+0:27:31,849 --> 0:27:33,788
+That's millennial talk there.
+ 
+
+
+601
+0:27:33,788 --> 0:27:38,152
+The power of the pamphlet
+wasn't just in its argument or
+
+
+602
+0:27:38,152 --> 0:27:42,597
+in specific points of argument,
+but rather, it was in the way
+
+
+603
+0:27:42,597 --> 0:27:45,68
+that it reversed prevailing
+assumptions.
+
+
+604
+0:27:45,68 --> 0:27:49,27
+Paine forced readers to
+consider a whole new way of
+
+
+605
+0:27:49,27 --> 0:27:53,63
+looking at the impending
+crisis--and actually at the
+
+
+606
+0:27:53,63 --> 0:27:55,2
+entire imperial system.
+ 
+
+
+607
+0:27:55,2 --> 0:28:0,98
+He laid bare assumptions that
+had led colonists to resist
+
+
+608
+0:28:0,98 --> 0:28:3,144
+independence,
+and then by exposing these
+
+
+609
+0:28:3,144 --> 0:28:5,548
+biases and holding them up to
+scorn,
+
+
+610
+0:28:5,548 --> 0:28:9,892
+he forced people to think
+beyond what they had thought
+
+
+611
+0:28:9,892 --> 0:28:10,63
+before.
+ 
+
+
+612
+0:28:10,63 --> 0:28:15,73
+So basically the old paradigm
+had been: liberty can survive
+
+
+613
+0:28:15,73 --> 0:28:19,746
+among brutal and self-interested
+men only through a balance of
+
+
+614
+0:28:19,746 --> 0:28:24,419
+institutionalized forces so no
+one can monopolize the power of
+
+
+615
+0:28:24,419 --> 0:28:27,788
+the state and rule without
+opposition.
+
+
+616
+0:28:27,788 --> 0:28:29,795
+So monarchy,
+nobility, and the people have
+
+
+617
+0:28:29,795 --> 0:28:32,338
+an equal right to share in the
+struggle for power;
+
+
+618
+0:28:32,338 --> 0:28:35,58
+complexity in government in
+this sense is a good thing;
+
+
+619
+0:28:35,58 --> 0:28:37,318
+simplicity allows for
+monopolization.
+
+
+620
+0:28:37,318 --> 0:28:41,96
+Well, Paine argues,
+complexity is not a virtue in
+
+
+621
+0:28:41,96 --> 0:28:42,118
+government.
+ 
+
+
+622
+0:28:42,118 --> 0:28:45,67
+It simply makes it impossible
+to tell who is at fault.
+
+
+623
+0:28:45,67 --> 0:28:49,13
+Paine charged that the
+complexity of the British
+
+
+624
+0:28:49,13 --> 0:28:53,99
+government was designed to serve
+the monarchy and the nobility,
+
+
+625
+0:28:53,99 --> 0:28:57,56
+that the King did nothing but
+wage war and hand out gifts to
+
+
+626
+0:28:57,56 --> 0:29:0,597
+his followers,
+and that this entire idea of
+
+
+627
+0:29:0,597 --> 0:29:3,108
+British
+constitutional-institutional
+
+
+628
+0:29:3,108 --> 0:29:4,759
+balance was a fraud.
+ 
+
+
+629
+0:29:4,759 --> 0:29:8,155
+Now the boldness of this
+message becomes clearer when you
+
+
+630
+0:29:8,155 --> 0:29:11,308
+compare it with some other
+pamphlets of the time,
+
+
+631
+0:29:11,308 --> 0:29:15,42
+many of which were aimed at
+exploring difficult questions--
+
+
+632
+0:29:15,42 --> 0:29:18,367
+right?--constitutional issues,
+and then coming up with
+
+
+633
+0:29:18,367 --> 0:29:19,368
+recommendations.
+ 
+
+
+634
+0:29:19,368 --> 0:29:22,84
+Common Sense isn't about
+exploring difficult
+
+
+635
+0:29:22,84 --> 0:29:23,548
+constitutional questions.
+ 
+
+
+636
+0:29:23,548 --> 0:29:26,153
+It aimed to,
+quote, "tear the world
+
+
+637
+0:29:26,153 --> 0:29:27,88
+apart."
+ 
+
+
+638
+0:29:27,88 --> 0:29:31,365
+This pamphlet did not have the
+kind of rational tone and
+
+
+639
+0:29:31,365 --> 0:29:33,517
+lawyerly,
+precise logic and high
+
+
+640
+0:29:33,517 --> 0:29:36,449
+scholarship that you see
+floating through a lot of the
+
+
+641
+0:29:36,449 --> 0:29:38,328
+other pamphlets of this period.
+ 
+
+
+642
+0:29:38,328 --> 0:29:42,397
+And the tone was part of why
+the pamphlet ended up being so
+
+
+643
+0:29:42,397 --> 0:29:43,24
+effective.
+ 
+
+
+644
+0:29:43,24 --> 0:29:45,538
+Paine didn't use legal
+arguments.
+
+
+645
+0:29:45,538 --> 0:29:48,13
+He didn't invoke legal
+authorities.
+
+
+646
+0:29:48,13 --> 0:29:51,972
+He assumed that his readers
+would have some kind of limited
+
+
+647
+0:29:51,972 --> 0:29:53,63
+knowledge of the Bible.
+ 
+
+
+648
+0:29:53,63 --> 0:29:55,88
+He didn't use a lot of Latin,
+and if he did use Latin he
+
+
+649
+0:29:55,88 --> 0:29:58,48
+tended to follow it up with an
+English translation.
+
+
+650
+0:29:58,48 --> 0:30:1,791
+He used really straightforward
+syntax, a really simple
+
+
+651
+0:30:1,791 --> 0:30:2,71
+vocabulary.
+ 
+
+
+652
+0:30:2,71 --> 0:30:6,24
+As he himself explained it:
+"As it is my design to
+
+
+653
+0:30:6,24 --> 0:30:9,38
+make those that can scarcely
+read understand,
+
+
+654
+0:30:9,38 --> 0:30:12,96
+I shall therefore avoid every
+literary ornament,
+
+
+655
+0:30:12,96 --> 0:30:15,69
+and put it in language as plain
+as the alphabet."
+
+
+656
+0:30:15,69 --> 0:30:18,733
+So what he wanted to write he
+said was, quote,
+
+
+657
+0:30:18,733 --> 0:30:21,103
+"simple facts,
+plain arguments,
+
+
+658
+0:30:21,103 --> 0:30:22,93
+and common sense."
+ 
+
+
+659
+0:30:22,93 --> 0:30:26,944
+Sometimes it was Paine's
+irreverence in comparison with
+
+
+660
+0:30:26,944 --> 0:30:31,778
+other pamphlet writers that made
+his writing seem so effective.
+
+
+661
+0:30:31,778 --> 0:30:33,915
+So for example,
+writing about the origins of
+
+
+662
+0:30:33,915 --> 0:30:36,4
+the English monarchy and William
+the Conqueror,
+
+
+663
+0:30:36,4 --> 0:30:39,34
+Paine wrote,
+"no man in his senses can
+
+
+664
+0:30:39,34 --> 0:30:42,609
+say that their claim under
+William the Conqueror is a very
+
+
+665
+0:30:42,609 --> 0:30:43,74
+honorable one.
+ 
+
+
+666
+0:30:43,74 --> 0:30:46,73
+A French bastard landing with
+an armed banditti,
+
+
+667
+0:30:46,73 --> 0:30:49,342
+and establishing himself king
+of England against the consent
+
+
+668
+0:30:49,342 --> 0:30:52,48
+of the natives,
+is in plain terms a very paltry
+
+
+669
+0:30:52,48 --> 0:30:54,368
+rascally original."
+ 
+
+
+670
+0:30:54,368 --> 0:30:54,611
+Okay.
+ 
+
+
+671
+0:30:54,611 --> 0:30:56,16
+It's not your typical pamphlet.
+ 
+
+
+672
+0:30:56,16 --> 0:30:59,964
+Sometimes he used really
+straightforward language just
+
+
+673
+0:30:59,964 --> 0:31:3,101
+for shock value,
+trying to make his point
+
+
+674
+0:31:3,101 --> 0:31:5,98
+by--trying to upset prevailing
+ideas--
+
+
+675
+0:31:5,98 --> 0:31:9,21
+by saying something in a
+shockingly straightforward and
+
+
+676
+0:31:9,21 --> 0:31:10,15
+irreverent manner.
+ 
+
+
+677
+0:31:10,15 --> 0:31:12,777
+And that's obviously going to
+be really effective if he was
+
+
+678
+0:31:12,777 --> 0:31:15,451
+talking about the King--to use
+sort of shockingly irreverent
+
+
+679
+0:31:15,451 --> 0:31:16,38
+language.
+ 
+
+
+680
+0:31:16,38 --> 0:31:18,386
+So for example,
+he really tried hard to
+
+
+681
+0:31:18,386 --> 0:31:21,468
+dehumanize King George III,
+writing for example,
+
+
+682
+0:31:21,468 --> 0:31:24,91
+he has "sunk himself
+beneath the rank of animals,
+
+
+683
+0:31:24,91 --> 0:31:28,64
+and contemptibly crawls through
+the world like a worm."
+
+
+684
+0:31:28,64 --> 0:31:28,911
+Okay.
+ 
+
+
+685
+0:31:28,911 --> 0:31:30,647
+[laughs]
+That's pretty irreverent
+
+
+686
+0:31:30,647 --> 0:31:31,298
+language.
+ 
+
+
+687
+0:31:31,298 --> 0:31:34,118
+"Even brutes do not devour
+their young."
+
+
+688
+0:31:34,118 --> 0:31:34,375
+Okay.
+ 
+
+
+689
+0:31:34,375 --> 0:31:36,637
+That would have been really
+shocking [laughs]
+
+
+690
+0:31:36,637 --> 0:31:39,67
+to someone to read at the time,
+that that's a description of
+
+
+691
+0:31:39,67 --> 0:31:40,39
+the King.
+ 
+
+
+692
+0:31:40,39 --> 0:31:43,828
+Or he used sarcasm,
+as in this sentence.
+
+
+693
+0:31:43,828 --> 0:31:46,35
+Now I mentioned this
+sentence--I don't know--in the
+
+
+694
+0:31:46,35 --> 0:31:47,578
+first--one of the early
+lectures.
+
+
+695
+0:31:47,578 --> 0:31:50,958
+I talked about a sentence that
+I really liked and I accused
+
+
+696
+0:31:50,958 --> 0:31:53,93
+Benjamin Rush of cutting it out
+of the pamphlet,
+
+
+697
+0:31:53,93 --> 0:31:56,171
+and I'm here to redeem Benjamin
+Rush because when I looked this
+
+
+698
+0:31:56,171 --> 0:31:58,338
+up today to double check on
+myself what I discovered was,
+
+
+699
+0:31:58,338 --> 0:32:1,41
+this is actually Benjamin
+Rush's favorite sentence and
+
+
+700
+0:32:1,41 --> 0:32:3,38
+Benjamin Franklin struck it out.
+ 
+
+
+701
+0:32:3,38 --> 0:32:5,568
+[laughs]
+So it was in the draft but it
+
+
+702
+0:32:5,568 --> 0:32:8,705
+didn't make the final printed
+copy of Common Sense,
+
+
+703
+0:32:8,705 --> 0:32:10,66
+and this is the sentence.
+ 
+
+
+704
+0:32:10,66 --> 0:32:10,939
+Okay.
+ 
+
+
+705
+0:32:10,939 --> 0:32:13,788
+"A greater absurdity
+cannot be conceived of,
+
+
+706
+0:32:13,788 --> 0:32:16,663
+than three millions of people
+running to their seacoast every
+
+
+707
+0:32:16,663 --> 0:32:19,64
+time a ship arrives from London,
+to know what portion of liberty
+
+
+708
+0:32:19,64 --> 0:32:20,69
+they should enjoy."
+ 
+
+
+709
+0:32:20,69 --> 0:32:22,309
+I think that's a good sentence.
+ 
+
+
+710
+0:32:22,309 --> 0:32:23,69
+I agree with Rush.
+ 
+
+
+711
+0:32:23,69 --> 0:32:24,18
+I think Franklin had it wrong.
+ 
+
+
+712
+0:32:24,18 --> 0:32:26,768
+I think that's good sort of
+pointed sarcasm,
+
+
+713
+0:32:26,768 --> 0:32:30,14
+so I'm sorry it didn't make the
+final printed version.
+
+
+714
+0:32:30,14 --> 0:32:31,318
+Rush is right.
+ 
+
+
+715
+0:32:31,318 --> 0:32:33,862
+So sarcasm--effecti
+ve--irreverence,
+
+
+716
+0:32:33,862 --> 0:32:35,97
+shock value--all effective.
+ 
+
+
+717
+0:32:35,97 --> 0:32:38,588
+Even just emotion,
+even Paine's emotion,
+
+
+718
+0:32:38,588 --> 0:32:41,19
+was effective because it was so
+strong,
+
+
+719
+0:32:41,19 --> 0:32:43,624
+because he was so passionate,
+and because he was so
+
+
+720
+0:32:43,624 --> 0:32:46,608
+straightforward,
+as in a sentence like this.
+
+
+721
+0:32:46,608 --> 0:32:51,82
+"Every thing that is right
+or reasonable pleads for
+
+
+722
+0:32:51,82 --> 0:32:52,14
+separation.
+ 
+
+
+723
+0:32:52,14 --> 0:32:55,776
+The blood of the slain,
+the weeping voice of nature
+
+
+724
+0:32:55,776 --> 0:32:59,193
+cries, 'TIS TIME TO PART.'"
+Okay, dramatic,
+
+
+725
+0:32:59,193 --> 0:33:1,74
+passionate, emotional language.
+ 
+
+
+726
+0:33:1,74 --> 0:33:4,89
+So all of this stuff that I'm
+describing here,
+
+
+727
+0:33:4,89 --> 0:33:6,23
+all of this rhetoric,
+all of this logic,
+
+
+728
+0:33:6,23 --> 0:33:9,22
+all of the sort of rationale
+behind this pamphlet--
+
+
+729
+0:33:9,22 --> 0:33:13,19
+this is popular culture but
+it's not low culture.
+
+
+730
+0:33:13,19 --> 0:33:16,714
+It may not have had really
+refined language but it had
+
+
+731
+0:33:16,714 --> 0:33:18,38
+correct language.
+ 
+
+
+732
+0:33:18,38 --> 0:33:22,416
+As Thomas Jefferson put it,
+"No writer has exceeded
+
+
+733
+0:33:22,416 --> 0:33:25,759
+Paine in ease and familiarity of
+style,
+
+
+734
+0:33:25,759 --> 0:33:29,858
+in perspicuity of expression,
+happiness of elucidation,
+
+
+735
+0:33:29,858 --> 0:33:32,78
+and in simple and unassuming
+language."
+
+
+736
+0:33:32,78 --> 0:33:32,4
+Okay.
+ 
+
+
+737
+0:33:32,4 --> 0:33:35,93
+By writing that,
+Jefferson achieved none of
+
+
+738
+0:33:35,93 --> 0:33:36,118
+those things.
+ 
+
+
+739
+0:33:36,118 --> 0:33:37,576
+[laughs]
+That's like a really good
+
+
+740
+0:33:37,576 --> 0:33:40,224
+example of how different Paine
+sounded, [laughs]--perspicuity
+
+
+741
+0:33:40,224 --> 0:33:42,299
+of expression and happiness of
+elucidation.
+
+
+742
+0:33:42,299 --> 0:33:44,328
+Okay, not in Common Sense.
+ 
+
+
+743
+0:33:44,328 --> 0:33:47,78
+Jefferson does not sound
+like Thomas Paine.
+
+
+744
+0:33:47,78 --> 0:33:50,95
+Given all of this,
+the widespread popularity of
+
+
+745
+0:33:50,95 --> 0:33:54,94
+the pamphlet isn't surprising,
+and the first printing sold out
+
+
+746
+0:33:54,94 --> 0:33:55,338
+in a few weeks.
+ 
+
+
+747
+0:33:55,338 --> 0:33:58,337
+There were many re-printings,
+first in Pennsylvania,
+
+
+748
+0:33:58,337 --> 0:34:1,63
+then in other colonies,
+and even ultimately in Europe.
+
+
+749
+0:34:1,63 --> 0:34:4,89
+And all in all,
+a majority of the population of
+
+
+750
+0:34:4,89 --> 0:34:8,786
+the colonies either read
+Common Sense or received
+
+
+751
+0:34:8,786 --> 0:34:13,39
+some kind of distilled version
+of it at their local tavern or
+
+
+752
+0:34:13,39 --> 0:34:16,541
+in conversation,
+as presented by other people
+
+
+753
+0:34:16,541 --> 0:34:17,679
+who had read it.
+ 
+
+
+754
+0:34:17,679 --> 0:34:21,409
+By March of 1776,
+there had been 125,000 copies
+
+
+755
+0:34:21,409 --> 0:34:26,356
+sold and by colonial standards
+that's a mind-blowing number of
+
+
+756
+0:34:26,356 --> 0:34:29,137
+copies,
+and here's a way to sort of put
+
+
+757
+0:34:29,137 --> 0:34:30,13
+that in context.
+ 
+
+
+758
+0:34:30,13 --> 0:34:33,139
+At this period,
+even later, even in the 1790s,
+
+
+759
+0:34:33,139 --> 0:34:36,79
+in a city like New York or
+Pennsylvania,
+
+
+760
+0:34:36,79 --> 0:34:40,5
+a newspaper that would have
+been considered to have a big
+
+
+761
+0:34:40,5 --> 0:34:42,938
+circulation number--
+like wow, that's a really big
+
+
+762
+0:34:42,938 --> 0:34:46,152
+newspaper--
+would have had a circulation of
+
+
+763
+0:34:46,152 --> 0:34:46,668
+1,000.
+ 
+
+
+764
+0:34:46,668 --> 0:34:47,268
+Okay.
+ 
+
+
+765
+0:34:47,268 --> 0:34:50,719
+So 125,000 copies is a lot of
+copies.
+
+
+766
+0:34:50,719 --> 0:34:53,13
+That's a pretty remarkable
+number.
+
+
+767
+0:34:53,13 --> 0:34:56,487
+And sales were helped by the
+fact that the pamphlet was
+
+
+768
+0:34:56,487 --> 0:34:59,846
+priced really low so that it
+could be bought by anyone,
+
+
+769
+0:34:59,846 --> 0:35:1,65
+even the relatively poor.
+ 
+
+
+770
+0:35:1,65 --> 0:35:4,731
+Now of course Paine wasn't shy
+about his own accomplishments
+
+
+771
+0:35:4,731 --> 0:35:7,811
+and he later told anybody who
+would listen that his pamphlet
+
+
+772
+0:35:7,811 --> 0:35:10,572
+had enjoyed,
+quote, "the greatest sale
+
+
+773
+0:35:10,572 --> 0:35:13,757
+that any performance [has]
+ever had since the use of
+
+
+774
+0:35:13,757 --> 0:35:14,82
+letters."
+ 
+
+
+775
+0:35:14,82 --> 0:35:15,682
+[laughter]
+Okay.
+
+
+776
+0:35:15,682 --> 0:35:17,179
+That's not a modest man.
+ 
+
+
+777
+0:35:17,179 --> 0:35:20,789
+It is the greatest-selling
+thing of all time.
+
+
+778
+0:35:20,789 --> 0:35:21,15
+Okay.
+ 
+
+
+779
+0:35:21,15 --> 0:35:23,969
+Okay, Tom, it's important but
+come on.
+
+
+780
+0:35:23,969 --> 0:35:26,456
+[laughter]
+Now of course not everybody
+
+
+781
+0:35:26,456 --> 0:35:29,82
+cheered with the publication of
+Common Sense.
+
+
+782
+0:35:29,82 --> 0:35:33,297
+There were many people who
+were enraged at what it dared to
+
+
+783
+0:35:33,297 --> 0:35:36,719
+say about the English monarch,
+about the British constitution,
+
+
+784
+0:35:36,719 --> 0:35:38,1
+about independence.
+ 
+
+
+785
+0:35:38,1 --> 0:35:40,94
+Who was this guy anyway? Right?
+ 
+
+
+786
+0:35:40,94 --> 0:35:43,57
+Who was he to promote
+independence?
+
+
+787
+0:35:43,57 --> 0:35:47,621
+As Samuel Adams put it with
+actually unusual understatement
+
+
+788
+0:35:47,621 --> 0:35:50,43
+for Samuel Adams--
+he said the pamphlet,
+
+
+789
+0:35:50,43 --> 0:35:52,53
+quote, "has fretted some
+folks here more than a
+
+
+790
+0:35:52,53 --> 0:35:53,309
+little."
+ 
+
+
+791
+0:35:53,309 --> 0:35:55,5
+It upset a lot of people.
+ 
+
+
+792
+0:35:55,5 --> 0:35:58,954
+More direct criticism was
+issued by an English gentleman
+
+
+793
+0:35:58,954 --> 0:36:1,28
+traveling in Virginia in his
+diary.
+
+
+794
+0:36:1,28 --> 0:36:4,744
+He wrote, "A pamphlet
+called Common Sense makes
+
+
+795
+0:36:4,744 --> 0:36:5,699
+a great noise.
+ 
+
+
+796
+0:36:5,699 --> 0:36:8,599
+One of the vilest things that
+ever was published to the world.
+
+
+797
+0:36:8,599 --> 0:36:13,192
+Full of false representations,
+lies, calumny,
+
+
+798
+0:36:13,192 --> 0:36:15,28
+and treason."
+ 
+
+
+799
+0:36:15,28 --> 0:36:18,84
+Now you may be surprised to
+hear that John Adams,
+
+
+800
+0:36:18,84 --> 0:36:22,251
+ultimately a leading proponent
+of independence,
+
+
+801
+0:36:22,251 --> 0:36:24,699
+did not like Common Sense.
+ 
+
+
+802
+0:36:24,699 --> 0:36:26,829
+John Adams did not like the
+pamphlet.
+
+
+803
+0:36:26,829 --> 0:36:29,17
+It wasn't because of the first
+two parts.
+
+
+804
+0:36:29,17 --> 0:36:29,639
+Right?
+ 
+
+
+805
+0:36:29,639 --> 0:36:32,39
+He's all for questioning the
+British constitution.
+
+
+806
+0:36:32,39 --> 0:36:33,88
+He's all for independence.
+ 
+
+
+807
+0:36:33,88 --> 0:36:36,885
+That's fine,
+but what really got Adams was
+
+
+808
+0:36:36,885 --> 0:36:39,599
+the third section of the
+pamphlet,
+
+
+809
+0:36:39,599 --> 0:36:42,679
+the section about what kind of
+government might we be able to
+
+
+810
+0:36:42,679 --> 0:36:45,349
+create in the absence of the
+British constitution.
+
+
+811
+0:36:45,349 --> 0:36:48,626
+This made Adams crazy,
+because to Adams and to many
+
+
+812
+0:36:48,626 --> 0:36:51,931
+others at the time,
+good lawmakers were supposed to
+
+
+813
+0:36:51,931 --> 0:36:55,295
+always be practical thinkers and
+they were supposed to be
+
+
+814
+0:36:55,295 --> 0:36:58,179
+realistic about what a society
+could achieve.
+
+
+815
+0:36:58,179 --> 0:37:1,168
+They were supposed to think
+about the realities of a society
+
+
+816
+0:37:1,168 --> 0:37:3,55
+and then what would be
+politically possible,
+
+
+817
+0:37:3,55 --> 0:37:5,369
+and this is not what he thought
+Paine was doing.
+
+
+818
+0:37:5,369 --> 0:37:8,483
+He thought Paine was sort of
+blue sky, unrealistic,
+
+
+819
+0:37:8,483 --> 0:37:10,478
+tossings off about
+possibilities,
+
+
+820
+0:37:10,478 --> 0:37:13,78
+without thinking really hard
+about probabilities.
+
+
+821
+0:37:13,78 --> 0:37:17,94
+So this is John Adams' summary
+of Common Sense.
+
+
+822
+0:37:17,94 --> 0:37:19,405
+This is true John Adams.
+ 
+
+
+823
+0:37:19,405 --> 0:37:19,719
+Okay.
+ 
+
+
+824
+0:37:19,719 --> 0:37:22,364
+Common Sense,
+quote, "a poor,
+
+
+825
+0:37:22,364 --> 0:37:24,545
+ignorant, malicious,
+shortsighted,
+
+
+826
+0:37:24,545 --> 0:37:26,199
+crapulous mass."
+ 
+
+
+827
+0:37:26,199 --> 0:37:29,387
+[laughs]
+That's John Adams' opinion of
+
+
+828
+0:37:29,387 --> 0:37:30,94
+Common Sense.
+ 
+
+
+829
+0:37:30,94 --> 0:37:34,54
+I have to add here for no
+reason except that when I was
+
+
+830
+0:37:34,54 --> 0:37:37,349
+writing this I thought of it,
+and then this is my excuse to
+
+
+831
+0:37:37,349 --> 0:37:39,789
+mention it in a lecture,
+and so I will.
+
+
+832
+0:37:39,789 --> 0:37:42,94
+How many of you here have read
+Plato's Republic?
+
+
+833
+0:37:42,94 --> 0:37:45,48
+ Some of you have read
+Plato's Republic.
+
+
+834
+0:37:45,48 --> 0:37:46,67
+Okay.
+ 
+
+
+835
+0:37:46,67 --> 0:37:49,692
+John Adams really did not like
+Plato's Republic either,
+
+
+836
+0:37:49,692 --> 0:37:51,3
+and for the same reasons.
+ 
+
+
+837
+0:37:51,3 --> 0:37:51,224
+Right?
+ 
+
+
+838
+0:37:51,224 --> 0:37:52,4
+He thought Plato was
+irresponsible.
+
+
+839
+0:37:52,4 --> 0:37:53,909
+He hated Plato's Republic.
+ 
+
+
+840
+0:37:53,909 --> 0:37:55,949
+Jefferson was not a big fan
+either.
+
+
+841
+0:37:55,949 --> 0:37:59,9
+He thought that--Actually,
+both of them thought that Plato
+
+
+842
+0:37:59,9 --> 0:38:2,233
+was sort of vaporing about
+political ideals and not really
+
+
+843
+0:38:2,233 --> 0:38:5,32
+thinking about realistic
+application to real people.
+
+
+844
+0:38:5,32 --> 0:38:8,797
+So to these guys at this time
+the real challenge of what
+
+
+845
+0:38:8,797 --> 0:38:11,96
+they're doing is to match ideals
+and realities,
+
+
+846
+0:38:11,96 --> 0:38:14,28
+and they didn't think Plato was
+doing that at all.
+
+
+847
+0:38:14,28 --> 0:38:16,791
+So this is what Adams first had
+to say about Plato's
+
+
+848
+0:38:16,791 --> 0:38:18,858
+Republic:
+ "While wading
+
+
+849
+0:38:18,858 --> 0:38:21,309
+through the whimsies,
+the puerilities,
+
+
+850
+0:38:21,309 --> 0:38:24,309
+and unintelligible jargon of
+this work,
+
+
+851
+0:38:24,309 --> 0:38:27,548
+I laid it down often to ask
+myself how it could have been
+
+
+852
+0:38:27,548 --> 0:38:30,498
+that the world should have so
+long consented to give
+
+
+853
+0:38:30,498 --> 0:38:33,159
+reputation to such nonsense as
+this."
+
+
+854
+0:38:33,159 --> 0:38:33,75
+[laughter] Okay.
+ 
+
+
+855
+0:38:33,75 --> 0:38:36,474
+He really doesn't like Plato's
+Republic, but he also
+
+
+856
+0:38:36,474 --> 0:38:37,65
+just didn't like Plato.
+ 
+
+
+857
+0:38:37,65 --> 0:38:41,795
+So overall he said--he talked
+about how he read all of Plato's
+
+
+858
+0:38:41,795 --> 0:38:45,237
+works and he talked about oh,
+he had three Latin dictionaries
+
+
+859
+0:38:45,237 --> 0:38:47,239
+and a German one and a French
+one just in case,
+
+
+860
+0:38:47,239 --> 0:38:50,648
+and he worked his way through,
+and he said he learned only two
+
+
+861
+0:38:50,648 --> 0:38:52,55
+things from all of Plato's work.
+ 
+
+
+862
+0:38:52,55 --> 0:38:55,217
+He learned, number one,
+that Benjamin Franklin stole an
+
+
+863
+0:38:55,217 --> 0:38:58,286
+idea from Plato [laughter]--
+didn't give him credit,
+
+
+864
+0:38:58,286 --> 0:39:0,79
+[laughs]
+and number two,
+
+
+865
+0:39:0,79 --> 0:39:2,82
+he learned that sneezing is a
+cure for the hiccups.
+
+
+866
+0:39:2,82 --> 0:39:3,994
+[laughter]
+And he said,
+
+
+867
+0:39:3,994 --> 0:39:6,73
+quote, "Accordingly,
+I have cured myself and all my
+
+
+868
+0:39:6,73 --> 0:39:8,26
+friends of that provoking
+disorder,
+
+
+869
+0:39:8,26 --> 0:39:9,969
+for thirty years,
+with a pinch of snuff."
+
+
+870
+0:39:9,969 --> 0:39:10,342
+Okay.
+ 
+
+
+871
+0:39:10,342 --> 0:39:12,429
+That's Plato to John Adams.
+ 
+
+
+872
+0:39:12,429 --> 0:39:13,84
+[laughs] That's it.
+ 
+
+
+873
+0:39:13,84 --> 0:39:15,159
+So I just love that.
+ 
+
+
+874
+0:39:15,159 --> 0:39:15,679
+I love that.
+ 
+
+
+875
+0:39:15,679 --> 0:39:16,94
+It's John Adams at his best.
+ 
+
+
+876
+0:39:16,94 --> 0:39:17,268
+Okay.
+ 
+
+
+877
+0:39:17,268 --> 0:39:20,23
+So away from Plato,
+back to Common Sense.
+
+
+878
+0:39:20,23 --> 0:39:23,905
+ For many people Common
+Sense was kind of a
+
+
+879
+0:39:23,905 --> 0:39:27,422
+conversion experience,
+and there are people that are
+
+
+880
+0:39:27,422 --> 0:39:30,3
+fence sitters who maybe--
+might have had the makings of a
+
+
+881
+0:39:30,3 --> 0:39:32,452
+radical and in reading the
+pamphlet or hearing of the
+
+
+882
+0:39:32,452 --> 0:39:34,797
+pamphlet,
+they actually were radicalized
+
+
+883
+0:39:34,797 --> 0:39:35,219
+by it.
+ 
+
+
+884
+0:39:35,219 --> 0:39:36,92
+It was talked of everywhere.
+ 
+
+
+885
+0:39:36,92 --> 0:39:39,385
+As Rush put it,
+"Its effects were sudden
+
+
+886
+0:39:39,385 --> 0:39:41,57
+and extensive upon the American
+mind.
+
+
+887
+0:39:41,57 --> 0:39:42,969
+It was read by public men."
+ 
+
+
+888
+0:39:42,969 --> 0:39:46,59
+It was "repeated in Clubs,
+spouted in schools,
+
+
+889
+0:39:46,59 --> 0:39:49,177
+and in one instance delivered
+from the pulpit instead of a
+
+
+890
+0:39:49,177 --> 0:39:50,889
+sermon,
+by a clergyman in
+
+
+891
+0:39:50,889 --> 0:39:52,13
+Connecticut."
+ 
+
+
+892
+0:39:52,13 --> 0:39:53,57
+That's a Connecticut moment.
+ 
+
+
+893
+0:39:53,57 --> 0:39:56,505
+I'm always happy when we have
+little Connecticut or Yale
+
+
+894
+0:39:56,505 --> 0:39:57,39
+moments.
+ 
+
+
+895
+0:39:57,39 --> 0:39:58,75
+It was talked about everywhere.
+ 
+
+
+896
+0:39:58,75 --> 0:40:1,842
+Its rhetoric was so powerful
+that for many it inspired them
+
+
+897
+0:40:1,842 --> 0:40:4,324
+to stand back,
+examine their situation,
+
+
+898
+0:40:4,324 --> 0:40:7,409
+and really loathe Britain for
+the first time--
+
+
+899
+0:40:7,409 --> 0:40:9,239
+like oh, [laughs]
+I've never thought of loathing
+
+
+900
+0:40:9,239 --> 0:40:11,63
+Britain before,
+but yet now I am.
+
+
+901
+0:40:11,63 --> 0:40:14,16
+As George Washington wrote,
+Common Sense was
+
+
+902
+0:40:14,16 --> 0:40:17,17
+"working a wonderful change
+in the minds of many men."
+
+
+903
+0:40:17,17 --> 0:40:20,356
+In the end, regardless of
+whether one agreed or not with
+
+
+904
+0:40:20,356 --> 0:40:22,5
+his argument,
+Paine's pamphlet did one
+
+
+905
+0:40:22,5 --> 0:40:24,469
+fundamentally important thing.
+ 
+
+
+906
+0:40:24,469 --> 0:40:27,753
+He focused the prevailing
+colonial political conversation
+
+
+907
+0:40:27,753 --> 0:40:28,809
+on independence.
+ 
+
+
+908
+0:40:28,809 --> 0:40:33,639
+He lifted the argument above
+constitutional reckoning.
+
+
+909
+0:40:33,639 --> 0:40:37,114
+He inspired others to write
+about the topic as well,
+
+
+910
+0:40:37,114 --> 0:40:40,179
+sometimes for independence,
+sometimes against,
+
+
+911
+0:40:40,179 --> 0:40:43,789
+but independence became now the
+topic to discuss.
+
+
+912
+0:40:43,789 --> 0:40:47,135
+As a reader in Boston put it,
+"Independence a year ago
+
+
+913
+0:40:47,135 --> 0:40:50,309
+could not have been publicly
+mentioned with impunity.
+
+
+914
+0:40:50,309 --> 0:40:53,646
+Nothing else is now talked of,
+and I know not what can be done
+
+
+915
+0:40:53,646 --> 0:40:55,78
+by Great Britain to prevent
+it."
+
+
+916
+0:40:55,78 --> 0:40:59,284
+Now Paine was all too happy to
+remind anyone who would listen
+
+
+917
+0:40:59,284 --> 0:41:1,679
+about the significance of his
+pamphlet.
+
+
+918
+0:41:1,679 --> 0:41:3,929
+He considered it his lifetime
+achievement.
+
+
+919
+0:41:3,929 --> 0:41:7,3
+He wanted his tombstone to read
+"Thomas Paine,
+
+
+920
+0:41:7,3 --> 0:41:8,32
+author of Common
+Sense."
+
+
+921
+0:41:8,32 --> 0:41:10,96
+Of course,
+that was assuming he was going
+
+
+922
+0:41:10,96 --> 0:41:11,608
+to have a tombstone which
+[laughter]
+
+
+923
+0:41:11,608 --> 0:41:12,17
+he didn't.
+ 
+
+
+924
+0:41:12,17 --> 0:41:13,719
+[laughs] The poor guy.
+ 
+
+
+925
+0:41:13,719 --> 0:41:16,28
+I didn't think of that until
+this second--oh,
+
+
+926
+0:41:16,28 --> 0:41:16,98
+bad irony.
+ 
+
+
+927
+0:41:16,98 --> 0:41:20,351
+He said that regardless of
+whatever form he took in the
+
+
+928
+0:41:20,351 --> 0:41:24,409
+afterlife, he would always know
+he had written Common Sense.
+
+
+929
+0:41:24,409 --> 0:41:28,119
+Okay, but did Common Sense
+cause independence?
+
+
+930
+0:41:28,119 --> 0:41:28,351
+Okay.
+ 
+
+
+931
+0:41:28,351 --> 0:41:30,94
+Paine clearly would have loved
+to tell you that it did.
+
+
+932
+0:41:30,94 --> 0:41:34,3
+That's the kind of conclusion
+you really can't make,
+
+
+933
+0:41:34,3 --> 0:41:37,7
+but clearly you can say it was
+so powerful,
+
+
+934
+0:41:37,7 --> 0:41:40,3
+so widely read,
+so controversial that it
+
+
+935
+0:41:40,3 --> 0:41:43,981
+shattered much of the
+psychological resistance to the
+
+
+936
+0:41:43,981 --> 0:41:45,88
+idea of independence.
+ 
+
+
+937
+0:41:45,88 --> 0:41:49,628
+And also on a more social
+level, Common Sense
+
+
+938
+0:41:49,628 --> 0:41:54,16
+invited an entire range of
+people into the political
+
+
+939
+0:41:54,16 --> 0:41:58,563
+conversation that in some ways
+hadn't really been included
+
+
+940
+0:41:58,563 --> 0:42:1,257
+before,
+just by deliberately making
+
+
+941
+0:42:1,257 --> 0:42:4,82
+this pamphlet available to as
+broad an audience as possible.
+
+
+942
+0:42:4,82 --> 0:42:9,458
+And his message in a sense was
+fundamentally democratizing as
+
+
+943
+0:42:9,458 --> 0:42:10,0
+well.
+ 
+
+
+944
+0:42:10,0 --> 0:42:14,371
+Paine preached that any people
+can deliberate and decide how
+
+
+945
+0:42:14,371 --> 0:42:16,3
+they are to be governed.
+ 
+
+
+946
+0:42:16,3 --> 0:42:18,8
+And then they can act on that
+choice.
+
+
+947
+0:42:18,8 --> 0:42:22,581
+Any people are capable of
+creating and implementing their
+
+
+948
+0:42:22,581 --> 0:42:23,73
+own government.
+ 
+
+
+949
+0:42:23,73 --> 0:42:26,143
+It's a powerful message,
+and regardless of whether
+
+
+950
+0:42:26,143 --> 0:42:29,199
+people agreed or disagreed about
+what government they should be
+
+
+951
+0:42:29,199 --> 0:42:31,728
+creating,
+the ideas underlying that
+
+
+952
+0:42:31,728 --> 0:42:35,26
+pamphlet in a sense were really
+revolutionary,
+
+
+953
+0:42:35,26 --> 0:42:37,159
+in a sense, and certainly
+radicalizing,
+
+
+954
+0:42:37,159 --> 0:42:40,719
+just at this moment when things
+are taking a turn,
+
+
+955
+0:42:40,719 --> 0:42:43,603
+just at this moment when the
+King has declared the colonies
+
+
+956
+0:42:43,603 --> 0:42:45,94
+in rebellion,
+and very soon we're going to
+
+
+957
+0:42:45,94 --> 0:42:47,48
+have Lexington and Concord.
+ 
+
+
+958
+0:42:47,48 --> 0:42:50,192
+So you can see how we're right
+at this moment where things are
+
+
+959
+0:42:50,192 --> 0:42:51,26
+going to take a shift.
+ 
+
+
+960
+0:42:51,26 --> 0:42:53,237
+Common Sense,
+partly timing-wise,
+
+
+961
+0:42:53,237 --> 0:42:56,228
+came out at just the moment
+where it was going to strike and
+
+
+962
+0:42:56,228 --> 0:42:57,699
+have the broadest impact.
+ 
+
+
+963
+0:42:57,699 --> 0:42:59,539
+That is all I have for today.
+ 
+
+
+964
+0:42:59,539 --> 0:43:0,65
+Have a good weekend.
+ 
+
+
+965
+0:43:0,65 --> 0:43:5,44
+I will see you on Tuesday and
+we will move on to independence.
+
+
+966
+0:43:5,44 --> 0:43:7,34
+We get independence next week.
+ 
+
+
+967
+0:43:7,34 --> 0:43:8,5
+It's very exciting.
+ 
+
+
+968
+0:43:8,5 --> 0:45:8,5
+ 
+ 
+
+

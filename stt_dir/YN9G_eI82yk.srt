@@ -1,0 +1,860 @@
+1
+0:0:1,719 --> 0:0:5,95
+CARL AZUZ, CNN ANCHOR: Mondays, not awesome.
+But getting on CNN STUDENT NEWS definitely
+
+
+2
+0:0:5,95 --> 0:0:19,599
+is. And today we`re going to tell you how
+you can make it happen. I`m Carl Azuz. Let`s
+
+
+3
+0:0:19,599 --> 0:0:24,539
+go!
+
+
+4
+0:0:24,539 --> 0:0:28,869
+First up today, we are talking about violence
+in Afghanistan. Suicide bombings, three of
+
+
+5
+0:0:28,869 --> 0:0:33,86
+them, all of them targeting a U.S. Afghan
+base in the eastern part of the country. Officials
+
+
+6
+0:0:33,86 --> 0:0:39,14
+say at least three Afghan soldiers and two
+civilians were killed. The Taliban, the militant
+
+
+7
+0:0:39,14 --> 0:0:44,8
+group that used to control most of Afghanistan
+says it`s responsible for these attacks. They
+
+
+8
+0:0:44,8 --> 0:0:49,94
+happened earlier Sunday morning before sunrise.
+Afghan authorities say all nine of the attackers
+
+
+9
+0:0:49,94 --> 0:0:55,3
+were killed, either in the bombings or in
+the firefight with U.S. and Afghan troops
+
+
+10
+0:0:55,3 --> 0:0:59,53
+that happened afterward. This isn`t the first
+time that the base has been targeted by suicide
+
+
+11
+0:0:59,53 --> 0:1:4,939
+bombings. It`s located in a region that`s
+home to a lot of insurgent activity.
+
+
+12
+0:1:4,939 --> 0:1:9,69
+Next up today, we`re looking at the political
+unrest in Egypt. An elected assembly has drafted
+
+
+13
+0:1:9,69 --> 0:1:15,32
+a new constitution, but only after more moderate
+members of that assembly left, complaining
+
+
+14
+0:1:15,32 --> 0:1:20,6
+they weren`t being heard. On Saturday, the
+assembly turned over the draft to President
+
+
+15
+0:1:20,6 --> 0:1:25,62
+Mohamed Morsi. That`s him on the right, he
+said there`ll be a referendum, a vote on December
+
+
+16
+0:1:25,62 --> 0:1:30,94
+15th. After that announcement protests broke
+out, some from people who support President
+
+
+17
+0:1:30,94 --> 0:1:35,17
+Morsi, some from people who think he`s trying
+to give himself too much power.
+
+
+18
+0:1:35,17 --> 0:1:40,31
+Egypt`s Supreme Court was planning to review
+the constitution, but some of Morsi`s supporters
+
+
+19
+0:1:40,31 --> 0:1:45,26
+gathered outside the court building. The court
+canceled its sessions indefinitely. It said
+
+
+20
+0:1:45,26 --> 0:1:51,31
+judges won`t go back to work until they can
+do their jobs without "any psychological or
+
+
+21
+0:1:51,31 --> 0:1:52,229
+physical pressures."
+
+
+22
+0:1:52,229 --> 0:1:54,34
+(BEGIN VIDEO CLIP)
+
+
+23
+0:1:54,34 --> 0:2:0,2
+UNIDENTIFIED FEMALE: Just the facts: Parkinson`s
+disease is a disorder of the human nervous
+
+
+24
+0:2:0,2 --> 0:2:5,72
+system. Unintentional shaking may be the most
+well-known sign of Parkinson`s. But it can
+
+
+25
+0:2:5,72 --> 0:2:11,76
+also cause stiffness or slower movements.
+It can affect someone`s balance or speech.
+
+
+26
+0:2:11,76 --> 0:2:16,73
+Doctors don`t know what causes Parkinson`s
+disease and there`s no cure for it. But medications
+
+
+27
+0:2:16,73 --> 0:2:19,1
+can help improve its symptoms.
+
+
+28
+0:2:19,1 --> 0:2:21,15
+(END VIDEO CLIP)
+
+
+29
+0:2:21,15 --> 0:2:27,98
+AZUZ: All right, so we don`t know what causes
+Parkinson`s. we do know about 4 million people
+
+
+30
+0:2:27,98 --> 0:2:33,41
+worldwide have it, and tens of thousands of
+new cases are diagnosed every year. Now, there
+
+
+31
+0:2:33,41 --> 0:2:38,27
+is a man who says he`s found a new way to
+make that diagnosis. Normally when something
+
+
+32
+0:2:38,27 --> 0:2:43,0
+is wrong, you go to a doctor. In this case,
+you might not even have to be in the room.
+
+
+33
+0:2:43,0 --> 0:2:45,38
+Dr. Sanjay Gupta explains what we mean.
+
+
+34
+0:2:45,38 --> 0:2:46,54
+(BEGIN VIDEOTAPE)
+
+
+35
+0:2:46,54 --> 0:2:52,959
+DR. SANJAY GUPTA, CNN CORRESPONDENT: Max Little
+has a bold idea -- what if doctors could detect
+
+
+36
+0:2:52,959 --> 0:2:56,36
+Parkinson`s disease simply by the sound of
+your voice?
+
+
+37
+0:2:56,36 --> 0:2:57,51
+UNIDENTIFIED FEMALE: A-a-a ....
+
+
+38
+0:2:57,51 --> 0:2:58,66
+UNIDENTIFIED MALE: A-a-a ...
+
+
+39
+0:2:58,66 --> 0:3:4,4
+GUPTA: Max Little is close to proving just
+that. He says one simple voice test will determine
+
+
+40
+0:3:4,4 --> 0:3:7,68
+if someone has Parkinson`s. And all you need
+is a telephone.
+
+
+41
+0:3:7,68 --> 0:3:13,27
+MAX LITTLE, MATHEMATICIAN: We`ve got an ultra
+low-cost way of detecting the disease.
+
+
+42
+0:3:13,27 --> 0:3:20,319
+GUPTA: What makes this discovery even more
+incredible, Max isn`t a doctor. He is a mathematician.
+
+
+43
+0:3:20,319 --> 0:3:25,92
+LITTLE: My name is Max Little, and for a living
+I do applied mathematics.
+
+
+44
+0:3:25,92 --> 0:3:33,97
+GUPTA (on camera): So, just in terms of the
+process, if someone picks up the phone and
+
+
+45
+0:3:33,97 --> 0:3:35,4
+calls, what are they told to do?
+
+
+46
+0:3:35,4 --> 0:3:41,19
+LITTLE: So, we`ve set up a study called Parkinson`s
+Voice Initiative. And the idea with that study
+
+
+47
+0:3:41,19 --> 0:3:47,91
+is that we want to collect enough data that
+we can test this technology outside the lab,
+
+
+48
+0:3:47,91 --> 0:3:53,72
+so we are collecting recordings from people
+in all sorts of circumstances that we can`t
+
+
+49
+0:3:53,72 --> 0:3:54,14
+control.
+
+
+50
+0:3:54,14 --> 0:3:58,78
+And we want to then test our ability to be
+able to, you know, accurately detect whether
+
+
+51
+0:3:58,78 --> 0:4:4,92
+they have Parkinson`s disease or not. In lab-
+based studies we can get 99 percent detection
+
+
+52
+0:4:4,92 --> 0:4:11,209
+accuracy. But can we get that sort of accuracy
+over the telephone when we don`t have that
+
+
+53
+0:4:11,209 --> 0:4:12,879
+sort of controlled circumstances. That`s why
+we need to do the study.
+
+
+54
+0:4:12,879 --> 0:4:13,2
+GUPTA: 99 percent though?
+
+
+55
+0:4:13,2 --> 0:4:15,569
+LITTLE: Yeah. Yeah. That`s the overall accuracy.
+Yeah.
+
+
+56
+0:4:15,569 --> 0:4:23,29
+In this case, what will happen is that people
+will call in, they simply say whether or not
+
+
+57
+0:4:23,29 --> 0:4:27,4
+they have been diagnosed with Parkinson`s.
+And then they -- we just ask them to say A--a-a
+
+
+58
+0:4:27,4 --> 0:4:28,8
+for as long as they can.
+
+
+59
+0:4:28,8 --> 0:4:29,61
+GUPTA: That`s it?
+
+
+60
+0:4:29,61 --> 0:4:30,15
+LITTLE: Yeah.
+
+
+61
+0:4:30,15 --> 0:4:32,43
+GUPTA: It sounds so remarkably simple.
+
+
+62
+0:4:32,43 --> 0:4:35,389
+UNIDENTIFIED MALE: A-a-a -a-a ...
+
+
+63
+0:4:35,389 --> 0:4:39,55
+GUPTA: So, what do you hear there?
+
+
+64
+0:4:39,55 --> 0:4:44,37
+LITTLE: Yes, that`s a classic example of vocal
+tremor. You can actually hear the tremor in
+
+
+65
+0:4:44,37 --> 0:4:48,949
+the way that the vocal folds, the laringia
+muscles are twitching somewhere.
+
+
+66
+0:4:48,949 --> 0:4:50,77
+And that affects the pitch.
+
+
+67
+0:4:50,77 --> 0:4:55,56
+GUPTA: So, the same soft of tremor that you
+have in your hands, your arms -- you`re saying
+
+
+68
+0:4:55,56 --> 0:4:58,71
+that`s basically happening around in the muscles
+around your vocal cords.
+
+
+69
+0:4:58,71 --> 0:5:0,6
+LITTLE: That`s right. Yeah.
+
+
+70
+0:5:0,6 --> 0:5:1,55
+(END VIDEOTAPE)
+
+
+71
+0:5:1,55 --> 0:5:2,97
+(BEGIN VIDEO CLIP)
+
+
+72
+0:5:2,97 --> 0:5:7,38
+UNIDENTIFIED FEMALE: Today`s "Shoutout" goes
+out to Mr. Osborn`s economics and history
+
+
+73
+0:5:7,38 --> 0:5:12,18
+classes at Creswell High School in Creswell,
+Oregon.
+
+
+74
+0:5:12,18 --> 0:5:18,5
+Which of these bodies of water is the largest?
+Here we go. Is it the Persian Gulf, Black
+
+
+75
+0:5:18,5 --> 0:5:27,6
+Sea, Gulf of Mexico or Lake Superior? You`ve
+got three seconds, go!
+
+
+76
+0:5:27,6 --> 0:5:34,86
+The Gulf of Mexico is the biggest option here
+covering an area of around 600,000 square
+
+
+77
+0:5:34,86 --> 0:5:40,2
+miles. That`s your answer and that`s your
+"Shoutout."
+
+
+78
+0:5:40,2 --> 0:5:41,96
+(END VIDEO CLIP)
+
+
+79
+0:5:41,96 --> 0:5:46,759
+AZUZ: Part of that massive area of the Gulf
+of Mexico is now a crime scene in a real life
+
+
+80
+0:5:46,759 --> 0:5:51,8
+mystery. Authorities in Louisiana, Alabama
+and Mississippi are trying to find a killer
+
+
+81
+0:5:51,8 --> 0:5:57,139
+-- but not somebody who is targeting people:
+Ed Lavandera tells us what animals have become
+
+
+82
+0:5:57,139 --> 0:6:1,7
+targets and what makes it so difficult to
+investigate their murders.
+
+
+83
+0:6:1,7 --> 0:6:1,78
+(BEGIN VIDEOTAPE)
+
+
+84
+0:6:1,78 --> 0:6:6,289
+ED LAVANDERA, CNN CORRESPONDENT: To reach
+the crime scenes, you need to catch a ride
+
+
+85
+0:6:6,289 --> 0:6:6,979
+and take a guide.
+
+
+86
+0:6:6,979 --> 0:6:9,69
+In this island that we see (inaudible), this
+is Dear Island, where you found two of them?
+
+
+87
+0:6:9,69 --> 0:6:11,289
+DR. MOBY SOLANGI, INSTITUTE FOR MARINE MAMMAL
+STUDIES: That`s correct.
+
+
+88
+0:6:11,289 --> 0:6:15,729
+LAVANDERA (voice over): A Harrison County
+Mississippi sheriff`s chopper and Moby Solangi,
+
+
+89
+0:6:15,729 --> 0:6:20,43
+the lead biologist from the Institute for
+Marine Mammal Studies. They took us to see
+
+
+90
+0:6:20,43 --> 0:6:25,27
+the sites where most of the murdered dolphins
+have mysteriously emerged along the Mississippi
+
+
+91
+0:6:25,27 --> 0:6:25,83
+Gulf Coast.
+
+
+92
+0:6:25,83 --> 0:6:30,99
+(on camera): So, Moby, get us up to date how
+many dolphins have turned up here so far?
+
+
+93
+0:6:30,99 --> 0:6:35,47
+SOLANGI: We`ve been dealing with about six
+or seven. We know that these three or four
+
+
+94
+0:6:35,47 --> 0:6:37,84
+of them have been found dead with bullets.
+
+
+95
+0:6:37,84 --> 0:6:41,63
+LAVANDERA (voice over): Federal investigators
+say they don`t know yet if the murders are
+
+
+96
+0:6:41,63 --> 0:6:47,6
+the work of one dolphin killer or all unrelated,
+but even in the wild, it`s easy for a killer
+
+
+97
+0:6:47,6 --> 0:6:51,6
+to lure in dolphins.
+
+
+98
+0:6:51,6 --> 0:6:54,85
+Katherine Burton trains dolphins at the Institute
+for Marine Mammal Studies.
+
+
+99
+0:6:54,85 --> 0:6:59,18
+KATHERINE BURTON, MAMMAL TRAINER: They are
+very curious, and I think by getting fed ...
+
+
+100
+0:6:59,18 --> 0:7:0,78
+LAVANDERA (on camera): Even out in the wild.
+
+
+101
+0:7:0,78 --> 0:7:2,22
+BURTON: Yes. Out in the wild, they will get
+fairly close.
+
+
+102
+0:7:2,22 --> 0:7:5,819
+LAVANDERA: So they can get themselves in the
+bad situation just unsuspecting.
+
+
+103
+0:7:5,819 --> 0:7:11,9
+BURTON: Right. I think sometimes they get
+close without realizing they are going to
+
+
+104
+0:7:11,9 --> 0:7:12,88
+be in any kind of danger.
+
+
+105
+0:7:12,88 --> 0:7:16,55
+LAVANDERA (voice over): That`s why it`s actually
+illegal to feed dolphins in the wild.
+
+
+106
+0:7:16,55 --> 0:7:18,87
+(on camera): So, this is Sheep Island where
+one of the dolphins was found?
+
+
+107
+0:7:18,87 --> 0:7:18,99
+UNIDENTIFIED MALE: Right.
+
+
+108
+0:7:18,99 --> 0:7:22,93
+LAVANDERA (voice over): Rusty Pittman is an
+officer with Mississippi`s Department of Marine
+
+
+109
+0:7:22,93 --> 0:7:25,56
+Resources, one of the agencies patrolling
+these waters.
+
+
+110
+0:7:25,56 --> 0:7:29,419
+(on camera): It seems so much more difficult
+to investigate something like this. You know,
+
+
+111
+0:7:29,419 --> 0:7:32,229
+if you have a murder of humans, you have ...
+
+
+112
+0:7:32,229 --> 0:7:33,479
+UNIDENTIFIED MALE: Evidence .
+
+
+113
+0:7:33,479 --> 0:7:34,18
+LAVANDERA: You have evidence, there is a crime
+scene.
+
+
+114
+0:7:34,18 --> 0:7:34,919
+UNIDENTIFIED MALE: Right.
+
+
+115
+0:7:34,919 --> 0:7:35,66
+There`s you go.
+
+
+116
+0:7:35,66 --> 0:7:36,83
+LAVANDERA: This crime scene is huge.
+
+
+117
+0:7:36,83 --> 0:7:41,58
+UNIDENTIFIED MALE: But like you said, you`ve
+got so much area through here. This is totally
+
+
+118
+0:7:41,58 --> 0:7:44,66
+different than a crime scene involving humans.
+
+
+119
+0:7:44,66 --> 0:7:48,18
+LAVANDERA (voice over): This part of the Gulf
+Coast is home to the largest population of
+
+
+120
+0:7:48,18 --> 0:7:54,9
+dolphins anywhere in the United States, as
+many as 5,000. The race is on to catch a dolphin
+
+
+121
+0:7:54,9 --> 0:7:55,9
+killer before he strikes again.
+
+
+122
+0:7:55,9 --> 0:7:58,68
+Ed Lavandera, CNN, Gulfport, Mississippi.
+
+
+123
+0:7:58,68 --> 0:7:59,789
+(END VIDEOTAPE)
+
+
+124
+0:7:59,789 --> 0:8:3,759
+AZUZ: The season of giving is about more than
+presents. From now through the holidays, people
+
+
+125
+0:8:3,759 --> 0:8:8,12
+are finding ways to volunteer, to give back,
+to make a difference for others. If you are
+
+
+126
+0:8:8,12 --> 0:8:12,25
+doing this, we want to hear about it in an
+I-report, you`ve got to give it in by December
+
+
+127
+0:8:12,25 --> 0:8:16,5
+14th. And if you are wondering how do I send
+in an I-report, we are glad you asked.
+
+
+128
+0:8:16,5 --> 0:8:20,97
+CHRIS LETT, CNN RESEARCHER: So, you want to
+be on CNN STUDENT NEWS? Me too. I`ll show
+
+
+129
+0:8:20,97 --> 0:8:25,729
+you how by submitting an I-report video. So
+let`s see what assignments are up on our CNN
+
+
+130
+0:8:25,729 --> 0:8:32,44
+STUDENT NEWS I-report page. I- report.com/cnnstudentnews.
+We are going to do an I-report on how to submit
+
+
+131
+0:8:32,44 --> 0:8:35,409
+an I-report. Let`s get a camera and start
+rolling.
+
+
+132
+0:8:35,409 --> 0:8:40,36
+No, I know I need to keep this short. No more
+than 30 seconds, and I can`t use any music.
+
+
+133
+0:8:40,36 --> 0:8:43,989
+If I do, they won`t be able to use my I-report.
+
+
+134
+0:8:43,989 --> 0:8:46,429
+So, just me and the camera.
+
+
+135
+0:8:46,429 --> 0:8:51,19
+Hi, I`m Chris. And this is an I-Report about
+I-Reports.
+
+
+136
+0:8:51,19 --> 0:8:54,91
+OK, done shooting now, it`s back to the STUDENT
+NEWS, I-Report page.
+
+
+137
+0:8:54,91 --> 0:8:58,91
+Upload my story, fill out all the information
+and now I`m done. No way, I`m not.
+
+
+138
+0:8:58,91 --> 0:9:3,269
+They say I need to watch out for an email
+after I submit this video.
+
+
+139
+0:9:3,269 --> 0:9:4,85
+Hey, here it is.
+
+
+140
+0:9:4,85 --> 0:9:11,439
+OK, a couple of things to fill out. If I weren`t
+18, I`d need to have my parents to sign this.
+
+
+141
+0:9:11,439 --> 0:9:14,489
+But I`m over 18, so I can sign it myself.
+
+
+142
+0:9:14,489 --> 0:9:18,569
+Then send this back to the STUDENT NEWS team
+and they`ll let me know when my I-Report is
+
+
+143
+0:9:18,569 --> 0:9:20,269
+going to be on the show.
+
+
+144
+0:9:20,269 --> 0:9:24,959
+AZUZ: And sometimes you might notice something`s
+happening behind me in the newsroom here during
+
+
+145
+0:9:24,959 --> 0:9:30,22
+our show. This meteorologist doesn`t have
+to worry about what`s behind him, he`s got
+
+
+146
+0:9:30,22 --> 0:9:35,89
+something happening below him -- check out
+the bottom of his screen, it`s a cat walked
+
+
+147
+0:9:35,89 --> 0:9:39,189
+right though the live broadcast, and then
+hung around for a while. What`s awesome is
+
+
+148
+0:9:39,189 --> 0:9:44,1
+that the reporter doesn`t even flinch. Thankfully,
+the cat didn`t come near a microphone, because
+
+
+149
+0:9:44,1 --> 0:9:47,249
+you know how we TV folks can get -- we can
+be just so catty.
+
+
+150
+0:9:47,249 --> 0:9:51,16
+That`s a tail for another day, so we hope
+you enjoy the rest of yours. For CNN STUDENT
+
+
+151
+0:9:51,16 --> 0:11:51,16
+NEWS, I`m Carl Azuz.
+
+

@@ -1,0 +1,743 @@
+1
+0:0:12,21 --> 0:0:15,21
+CARL AZUZ, CNN ANCHOR: As we begin this March
+5th edition of CNN`s STUDENT NEWS, we`re heading
+
+
+2
+0:0:15,21 --> 0:0:19,58
+to the African nation of Kenya. It`s home
+to a population of 43 million people. Kenya`s
+
+
+3
+0:0:19,58 --> 0:0:23,36
+government is a republic where its citizens
+elect their leaders and that`s what they did
+
+
+4
+0:0:23,36 --> 0:0:23,63
+yesterday.
+
+
+5
+0:0:23,63 --> 0:0:27,9
+NIC ROBERTSON, CNN INTERNATIONAL CORRESPONDENT:
+This comes after a new constitution was passed
+
+
+6
+0:0:27,9 --> 0:0:33,0
+on 2010 and is the most complex election in
+Kenya`s history. People will be voting for
+
+
+7
+0:0:33,0 --> 0:0:38,48
+member of county assembly, governor, senator,
+women`s member of national assembly, member
+
+
+8
+0:0:38,48 --> 0:0:41,22
+of national assembly, and finally president.
+
+
+9
+0:0:41,22 --> 0:0:45,78
+AZUZ: Part of the reason why Kenya`s constitution
+changed was the violence that followed the
+
+
+10
+0:0:45,78 --> 0:0:50,21
+country`s last presidential election. The
+results were challenged. Supporters of different
+
+
+11
+0:0:50,21 --> 0:0:55,1
+candidates fought each other. More than 1,200
+people were killed. The changes to the country`s
+
+
+12
+0:0:55,1 --> 0:0:58,42
+government were designed to make future elections
+more peaceful.
+
+
+13
+0:0:58,42 --> 0:1:1,989
+ROBERTSON: People have been turning out to
+vote in the polling stations like this one
+
+
+14
+0:1:1,989 --> 0:1:6,93
+in the poor city of Mombassa since before
+6 in the morning when the polling stations
+
+
+15
+0:1:6,93 --> 0:1:12,75
+opened. Some places we visited had lines half
+a mile long. And that`s despite fears of the
+
+
+16
+0:1:12,75 --> 0:1:15,54
+possibility of tribal violence.
+
+
+17
+0:1:15,54 --> 0:1:23,43
+AZUZ stations. There was a stampede at another
+voting site. And some police officers were
+
+
+18
+0:1:23,43 --> 0:1:27,42
+attacked. Some Kenyans were preparing for
+this kind of thing before the election and
+
+
+19
+0:1:27,42 --> 0:1:32,9
+they were planning to use social media to
+help reduce violence on election day. Nima
+
+
+20
+0:1:32,9 --> 0:1:33,619
+Elbagir explains how.
+
+
+21
+0:1:33,619 --> 0:1:39,46
+NIMA ELBAGIR, NAIROBI, KENYA: During the violence
+that marred the 2007 elections here, citizen
+
+
+22
+0:1:39,46 --> 0:1:44,579
+journalists were crucial in helping to pinpoint
+the worst effected areas, and none more than
+
+
+23
+0:1:44,579 --> 0:1:47,21
+Ushahidi which means witness in Swahili.
+
+
+24
+0:1:47,21 --> 0:1:52,729
+You have been working on different ways to
+ensure that this election is transparent.
+
+
+25
+0:1:52,729 --> 0:1:56,869
+DAUDI WERE, USHAHIDI: What you see here is
+a team of digital humanitarians. The people
+
+
+26
+0:1:56,869 --> 0:2:1,67
+who deal with the data that we get into the
+system. Uchaguzi (ph) the Swahili name for
+
+
+27
+0:2:1,67 --> 0:2:7,68
+"election" is the name of the platform we
+are deploying for this election. We have partners
+
+
+28
+0:2:7,68 --> 0:2:12,21
+across the country sending us information,
+but also verifying the information that we
+
+
+29
+0:2:12,21 --> 0:2:18,3
+get. And the second tool that we use is a
+technology platform (INAUDIBLE) and the various
+
+
+30
+0:2:18,3 --> 0:2:18,35
+apps that go along with it.
+
+
+31
+0:2:18,35 --> 0:2:23,2
+ELBAGIR: Because the apps are really cool.
+You`ve got one on your phone right here. So
+
+
+32
+0:2:23,2 --> 0:2:28,29
+people go online, they download this app,
+and then anywhere in the country if they see
+
+
+33
+0:2:28,29 --> 0:2:32,55
+something they have concern about they go
+onto the app and they report it, or they tweet
+
+
+34
+0:2:32,55 --> 0:2:34,96
+it, or they take a picture and it reaches
+you immediately.
+
+
+35
+0:2:34,96 --> 0:2:38,2
+WERE: You have the power in your hands (ph)
+to protect your vote and that`s what we`re
+
+
+36
+0:2:38,2 --> 0:2:41,95
+doing at Ordinary Citizens - working together
+to protect our vote and our electoral process.
+
+
+37
+0:2:41,95 --> 0:2:48,17
+UNIDENTIFIED FEMALE: Is this legit? Women
+with HIV can pass the virus to their children
+
+
+38
+0:2:48,17 --> 0:2:51,94
+during pregnancy.
+
+
+39
+0:2:51,94 --> 0:2:59,1
+This is true. Infected mothers can infect
+their babies during pregnancy, delivery, or
+
+
+40
+0:2:59,1 --> 0:3:0,25
+nursing.
+
+
+41
+0:3:0,25 --> 0:3:6,45
+AZUZ: HIV stands for Human Immunodeficiency
+Virus. It affects the body`s immune system,
+
+
+42
+0:3:6,45 --> 0:3:11,26
+and it can lead to AIDS. There`s not an official
+cure, but researchers say a 2-year-old girl
+
+
+43
+0:3:11,26 --> 0:3:16,27
+from this Mississippi hospital was the first
+child to be functionally cured of HIV.
+
+
+44
+0:3:16,27 --> 0:3:21,35
+That`s an important difference. Functionally
+cured doesn`t mean the virus is gone completely.
+
+
+45
+0:3:21,35 --> 0:3:26,26
+It means that the virus` presence is so small
+that standard tests can`t find it, and the
+
+
+46
+0:3:26,26 --> 0:3:28,35
+patient doesn`t need lifelong treatment.
+
+
+47
+0:3:28,35 --> 0:3:33,23
+Here`s how it happened. The baby`s mother
+has HIV. Within 30 hours of the birth, doctors
+
+
+48
+0:3:33,23 --> 0:3:38,98
+started treating the baby for HIV. The baby
+was on HIV drugs for about 15 months, then
+
+
+49
+0:3:38,98 --> 0:3:44,14
+for whatever reason the mother stopped giving
+the baby the drugs. She was off them from
+
+
+50
+0:3:44,14 --> 0:3:49,45
+8-10 months. When doctors saw her next, no
+signs of HIV. She was functionally cured.
+
+
+51
+0:3:49,45 --> 0:3:52,7
+DR. HANNAH GAY, UNIV. OF MISSISSIPPI MEDICAL
+CENTER: That`s still a possibility and we`re
+
+
+52
+0:3:52,7 --> 0:3:58,57
+going to be following the baby for a while
+to make sure that the virus does not come
+
+
+53
+0:3:58,57 --> 0:4:6,95
+back. However, at this point, she`s been off
+medicines for quite some time and there has
+
+
+54
+0:4:6,95 --> 0:4:11,9
+been no return of the virus. This is quite
+unique. We`ve not seen this in other cases
+
+
+55
+0:4:11,9 --> 0:4:12,47
+before.
+
+
+56
+0:4:12,47 --> 0:4:19,22
+UNIDENTIFIED FEMALE: Today`s shoutout goes
+to Ms. Jaeger`s U.S. government class at Spring
+
+
+57
+0:4:19,22 --> 0:4:22,69
+Valley High School in Las Vegas, Nevada.
+
+
+58
+0:4:22,69 --> 0:4:29,419
+Which prefix is the Latin word that means
+"field?" Here we go. Is it tapo, agri, pharma,
+
+
+59
+0:4:29,419 --> 0:4:30,4
+or tera?
+
+
+60
+0:4:30,4 --> 0:4:37,3
+You`ve got three seconds, go.
+
+
+61
+0:4:37,3 --> 0:4:44,729
+Agri is Latin for "field" and agriculture
+is the culture of the field, like raising
+
+
+62
+0:4:44,729 --> 0:4:50,389
+crops and livestock. That`s your answer, and
+that`s your shoutout.
+
+
+63
+0:4:50,389 --> 0:4:55,93
+AZUZ: A huge amount of the food the world
+produces, up to half of it in some places,
+
+
+64
+0:4:55,93 --> 0:4:59,9
+is wasted. And this is what we mean by that.
+What you didn`t finish from your meal at a
+
+
+65
+0:4:59,9 --> 0:5:4,139
+restaurant and what you don`t take home to
+eat is thrown out - it`s wasted. When you
+
+
+66
+0:5:4,139 --> 0:5:9,36
+buy food at the store but wind up trashing
+it later, wasted. When grocery stores don`t
+
+
+67
+0:5:9,36 --> 0:5:13,669
+sell all the fruits and vegetables they have
+in time or when they won`t accept farm produce
+
+
+68
+0:5:13,669 --> 0:5:18,2
+that doesn`t look fresh but actually might
+be, that can go to waste.
+
+
+69
+0:5:18,2 --> 0:5:23,9
+It`s a problem worldwide, but there are some
+solutions to it. One is not buying more food
+
+
+70
+0:5:23,9 --> 0:5:28,8
+than you can eat or share. CNN`s Erin McLaughlin
+found another at a store in England.
+
+
+71
+0:5:28,8 --> 0:5:34,169
+ERIN MCLAUGHLIN, CNN CORRESPONDENT: Vegetables
+lie rotting in an English field. It`s not
+
+
+72
+0:5:34,169 --> 0:5:40,689
+bad weather that`s done it. It`s not insects
+or pests that have made it inedible. The farmers
+
+
+73
+0:5:40,689 --> 0:5:47,12
+in charge of this field say they had to reject
+all of this cabbage because it didn`t look
+
+
+74
+0:5:47,12 --> 0:5:47,3
+right.
+
+
+75
+0:5:47,3 --> 0:5:51,819
+TRISTRAM STUART, FEEDING SK: Here we have,
+look at that. A couple of weeks ago, this
+
+
+76
+0:5:51,819 --> 0:5:56,389
+was a beautiful head of broccoli. Lovely sprouting
+broccoli. It`s one of my favorite vegetables.
+
+
+77
+0:5:56,389 --> 0:6:1,62
+And as you can see, we have half an acre of
+rotten broccoli here. It breaks my heart.
+
+
+78
+0:6:1,62 --> 0:6:7,259
+MCLAUGHLIN: Tristram Stuart and his team collect
+food that would otherwise go to waste. They`re
+
+
+79
+0:6:7,259 --> 0:6:9,409
+here to salvage what`s left of the cabbages.
+
+
+80
+0:6:9,409 --> 0:6:13,71
+STUART: You can see the outer leaves have
+been pecked by pigeons. That means that the
+
+
+81
+0:6:13,71 --> 0:6:17,52
+supermarkets don`t want them, even though
+no one eats these outer leaves and the heart
+
+
+82
+0:6:17,52 --> 0:6:21,219
+of this cabbage is perfectly good, fresh,
+delicious, nutritious food.
+
+
+83
+0:6:21,219 --> 0:6:26,569
+MCLAUGHLIN: According to a study, up to 30
+percent of the UK`s vegetable crop never leaves
+
+
+84
+0:6:26,569 --> 0:6:35,99
+the field as a result of such practices. But
+it doesn`t have to be this way. Here at The
+
+
+85
+0:6:35,99 --> 0:6:41,219
+People`s Supermarket in central London, chef
+Arthur Potts Dawson sees beyond imperfection.
+
+
+86
+0:6:41,219 --> 0:6:45,319
+The People`s Supermarket accepts produce from
+the field that would have otherwise gone to
+
+
+87
+0:6:45,319 --> 0:6:45,4
+waste.
+
+
+88
+0:6:45,4 --> 0:6:48,569
+ARTHUR POTTS DAWSON, THE PEOPLE`S SUPERMARKET:
+Well, we actively went out and sought it.
+
+
+89
+0:6:48,569 --> 0:6:53,129
+You know? We really, really looked for it.
+I would go into the field and there would
+
+
+90
+0:6:53,129 --> 0:6:57,779
+be pulling out tons and tons and tons of potatoes
+every hour, but there was a byproduct. About
+
+
+91
+0:6:57,779 --> 0:7:2,169
+30 percent of it, misshapen, a little bit
+crushed, was just discarded. I said, well
+
+
+92
+0:7:2,169 --> 0:7:7,759
+what are you doing with those? And they said,
+you want them? And I said, I don`t just want
+
+
+93
+0:7:7,759 --> 0:7:9,849
+them, I will pay you for them.
+
+
+94
+0:7:9,849 --> 0:7:18,819
+MCLAUGHLIN: The result, a colorful array of
+vegetables. Imperfect avocado, kale, and artichoke.
+
+
+95
+0:7:18,819 --> 0:7:24,719
+How has the consumer responded? Do people
+come in here? Do they notice some of the imperfections?
+
+
+96
+0:7:24,719 --> 0:7:25,439
+And do they buy?
+
+
+97
+0:7:25,439 --> 0:7:30,789
+POTTS DAWSON: People have already been trained
+by decades of supermarkets now to only buy
+
+
+98
+0:7:30,789 --> 0:7:37,8
+the perfect, you know, the perfect leek. But
+the imperfect leek, if they don`t buy it,
+
+
+99
+0:7:37,8 --> 0:7:38,809
+I`ll take it.
+
+
+100
+0:7:38,809 --> 0:7:42,559
+MCLAUGHLIN: And they practice what they preach
+here. There`s a full kitchen at the back of
+
+
+101
+0:7:42,559 --> 0:7:47,389
+the supermarket, complete with a chef who
+uses the produce customers don`t buy to make
+
+
+102
+0:7:47,389 --> 0:7:53,5
+ready-made meals to be sold in the store.
+Proof that looks don`t necessarily matter
+
+
+103
+0:7:53,5 --> 0:7:58,8
+when it comes to making delicious food. Erin
+McLaughlin, CNN, London.
+
+
+104
+0:7:58,8 --> 0:8:3,599
+AZUZ: A new report from Facebook says that
+teenagers may be getting sick of Facebook,
+
+
+105
+0:8:3,599 --> 0:8:7,509
+and heading to other social media apps and
+sites. What do you think about this idea of
+
+
+106
+0:8:7,509 --> 0:8:14,61
+Facebook fatigue? If you`re still on Facebook,
+talk to us about it on Facebook.com/cnnstudentnews.
+
+
+107
+0:8:14,61 --> 0:8:18,289
+Joseph Brunell (ph) is an eighth grader at
+Vickery Creek Middle School in Forsyth County,
+
+
+108
+0:8:18,289 --> 0:8:22,729
+Georgia. He loves basket ball, but Joseph
+has a medical condition called Spina Bifida.
+
+
+109
+0:8:22,729 --> 0:8:27,689
+It restricts him to a wheelchair, so he can`t
+play on the Vickery Creek team. At least,
+
+
+110
+0:8:27,689 --> 0:8:29,86
+that was true until one recent game.
+
+
+111
+0:8:29,86 --> 0:8:33,7
+MICHAEL CHEEK, HEAD COACH, VICKERY CREEK BASKETBALL
+TEAM: It`s going to be a surprise. It`s going
+
+
+112
+0:8:33,7 --> 0:8:36,1
+to all about Joseph Brunell (ph).
+
+
+113
+0:8:36,1 --> 0:8:41,12
+AZUZ: For the fourth quarter, they gave Joseph
+a jersey and brought the game to him. Players
+
+
+114
+0:8:41,12 --> 0:8:46,78
+on both teams have been secretly practicing
+in wheelchairs so that they could make Joseph
+
+
+115
+0:8:46,78 --> 0:8:51,3
+part of this game. One of his teammates said
+they did this for Joseph because of what he
+
+
+116
+0:8:51,3 --> 0:8:52,14
+taught them.
+
+
+117
+0:8:52,14 --> 0:8:58,4
+UNIDENTIFIED STUDENT: We learned to never
+give up, and always try our best in every
+
+
+118
+0:8:58,4 --> 0:8:59,65
+thing we do.
+
+
+119
+0:8:59,65 --> 0:9:4,91
+AZUZ: Fantastic story. It`s March, we may
+be a little early for the madness, but this
+
+
+120
+0:9:4,91 --> 0:9:10,12
+video makes a great warm up. High school section
+championship. Team in-bounding the ball is
+
+
+121
+0:9:10,12 --> 0:9:16,14
+down two with three seconds to go. Crosscourt
+pass, stolen, Ball thrown in the air to run
+
+
+122
+0:9:16,14 --> 0:9:21,29
+out the clock, but the guy who threw the in-bound
+pass gets his hands on it, and heaves up a
+
+
+123
+0:9:21,29 --> 0:9:28,77
+desperation shot. Makes it. 55-foot shot at
+the buzzer. Watch it play out in real time.
+
+
+124
+0:9:28,77 --> 0:9:32,42
+(BEGIN VIDEO CLIP)
+
+
+125
+0:9:32,42 --> 0:9:36,7
+(END VIDEO CLIP)
+
+
+126
+0:9:36,7 --> 0:9:44,35
+AZUZ: A last second shot that nets a ton of
+attention. That was definitely a buzzer-beater.
+
+
+127
+0:9:44,35 --> 0:9:49,47
+Teachers, your feedback, our homepage, perfect
+match. Tell us what you thought of today`s
+
+
+128
+0:9:49,47 --> 0:11:49,47
+show and we`ll meet you back here tomorrow
+for more CNN STUDENT NEWS.
+
+

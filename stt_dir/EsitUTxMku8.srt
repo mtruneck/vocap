@@ -1,0 +1,100 @@
+1
+0:0:1,27 --> 0:0:3,94
+2013 Ram 1500: Motor 
+
+
+2
+0:0:3,94 --> 0:0:5,7
+Trend Truck Of The Year
+
+
+3
+0:0:5,7 --> 0:0:15,7
+Get Your Ram Vehicle 
+
+
+4
+0:0:15,7 --> 0:0:15,47
+At A Price You Can Afford
+
+
+5
+0:0:15,47 --> 0:0:31,57
+Quality Ram Cars
+
+
+6
+0:0:31,57 --> 0:0:31,88
+At Affordable Prices
+
+
+7
+0:0:31,88 --> 0:0:39,8
+Unbeatable Service
+
+
+8
+0:0:39,8 --> 0:0:40,21
+The Smart Buyer's Dealer
+
+
+9
+0:0:40,21 --> 0:0:54,58
+Bet You'll Buy From...
+
+
+10
+0:0:54,58 --> 0:0:54,97
+MACDONALD MOTORS
+
+
+11
+0:0:54,97 --> 0:1:7,2
+MACDONALD MOTORS
+
+
+12
+0:1:7,2 --> 0:1:7,74
+Your ME Area Ram Dealer
+
+
+13
+0:1:7,74 --> 0:1:17,87
+MACDONALD MOTORS
+
+
+14
+0:1:17,87 --> 0:1:18,28
+The Cars You Can Count On
+
+
+15
+0:1:18,28 --> 0:1:23,0
+MACDONALD MOTORS
+
+
+16
+0:1:23,0 --> 0:1:23,4
+The Dealer You Can Depend On
+
+
+17
+0:1:23,4 --> 0:1:26,8
+MACDONALD MOTORS
+
+
+18
+0:1:26,8 --> 0:1:27,2
+CALL US: (207) 647-3304
+
+
+19
+0:1:27,2 --> 0:1:30,2
+Or Visit Us On The Web
+
+
+20
+0:1:30,2 --> 0:3:30,2
+www.MacdonaldMotors.com
+
+

@@ -1,0 +1,29 @@
+###0 On those cold, rainy days when you forget your rain jacket or umbrella and you want
+###3 to stay as dry as possible… should you walk and spend more time in the rain? Or should
+###7 you run, which means you'll be smashing into more raindrops from the side?
+###11 Assuming you haven't been fully soaked yet and you aren't jumping into puddles, the answer
+###14 is simple. As you move out of the way of one falling raindrop, you move into the way of
+###18 another. So the amount of rain hitting the top of you is constant, regardless of how
+###22 fast you're going. Alternatively, you can picture that the raindrops themselves are
+###25 stationary and you (and the earth beneath you) are moving upwards through the rain!
+###28 And since the volume of a parallelepiped (that's a 3D parallelogram) doesn't depend at all
+###32 on its slant, then no matter how fast you're moving horizontally the same amount of rain
+###36 will land on top of you each second.
+###38 Now, if you're not moving, the rain from the top is all you'll get. But if you ARE moving,
+###42 you'll also run into raindrops from the side and you'll get wetter. So in any given second,
+###46 you stay driest by standing still, and the faster you move the wetter you become.
+###50 But if you're trying to get from point A to point B, then standing still won't do you
+###54 much good. And en route from point A to point B, the total amount of rain you run into from
+###58 the side has nothing to do with how fast you're going - just like how a snowplow will plow
+###62 the same amount of snow from a stretch of road regardless of the exact speed it drives.
+###67 In the case of running through the rain, you can figure that out using parallelepipeds
+###70 again.
+###71 So over a given period of time, the same amount of rain will hit you from the top, regardless
+###74 of how fast you're going. And over a given distance, you'll hit the same amount of rain
+###78 from the side - again, regardless of how fast you're going.
+###80 So your total wetness is equal to the wetness per second for rain from the top times the
+###84 amount of time you spend in the rain, plus the wetness per meter for rain from the side
+###88 times the number of meters you travel.
+###90 So to stay driest getting from one point to another, you should try to minimize the amount
+###93 of water falling onto you from above. And quite simply, that means getting out of the
+###97 rain as fast as possible.

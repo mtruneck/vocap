@@ -1,0 +1,823 @@
+1
+0:0:1,209 --> 0:0:4,69
+CARL AZUZ, CNN ANCHOR: Hi, I`m Carl Azuz.
+And this is CNN STUDENT NEWS. Ten minutes,
+
+
+2
+0:0:4,69 --> 0:0:8,42
+no commercials, headlines from around the
+world coming straight to your classroom. It
+
+
+3
+0:0:8,42 --> 0:0:16,59
+all starts right now.
+
+
+4
+0:0:16,59 --> 0:0:27,689
+Two weeks after the so called Super Storm
+Sandy hit the North Eastern U.S., there are
+
+
+5
+0:0:27,689 --> 0:0:32,119
+some signs of recovery in the region. Power
+has been restored for millions of people,
+
+
+6
+0:0:32,119 --> 0:0:37,59
+some bridges and tunnels have reopened. But
+signs of devastation and struggle are there
+
+
+7
+0:0:37,59 --> 0:0:42,51
+too. Officials say the storm is responsible
+for at least 113 death in the U.S., more than
+
+
+8
+0:0:42,51 --> 0:0:47,999
+160,000 people still don`t have power. That
+means they are fighting the cold as the temperature
+
+
+9
+0:0:47,999 --> 0:0:53,42
+drops. Homeland Security Secretary Janet Napolitano
+says the priority is to get food, shelter
+
+
+10
+0:0:53,42 --> 0:0:57,539
+and clothing to these victims of the storm.
+Some of that is coming from relief groups
+
+
+11
+0:0:57,539 --> 0:1:2,519
+and volunteers like this team from New Orleans
+that cooked and served thousands of meals.
+
+
+12
+0:1:2,519 --> 0:1:7,53
+Now, if you`d like to get involved, go to
+the spotlight section. It`s cnnstudentnews.com,
+
+
+13
+0:1:7,53 --> 0:1:11,18
+and click on the "Impact Your World" link.
+Find out how you can make a difference.
+
+
+14
+0:1:11,18 --> 0:1:12,68
+(BEGIN VIDEO CLIP)
+
+
+15
+0:1:12,68 --> 0:1:18,0
+UNIDENTIFIED FEMALE: Is this legit? Saudi
+Arabia is the world`s largest producer of
+
+
+16
+0:1:18,0 --> 0:1:19,31
+oil?
+
+
+17
+0:1:19,31 --> 0:1:25,979
+It`s true. The Middle Eastern nation is home
+to around one fifth of the entire world`s
+
+
+18
+0:1:25,979 --> 0:1:28,2
+existing reserves of oil.
+
+
+19
+0:1:28,2 --> 0:1:30,71
+(END VIDEO CLIP)
+
+
+20
+0:1:30,71 --> 0:1:36,9
+AZUZ: But Saudi Arabia might lose that number
+one ranking by the end of this decade. A new
+
+
+21
+0:1:36,9 --> 0:1:41,549
+report says the U.S. will be the world`s top
+producer of oil by the year 2020. The U.S.
+
+
+22
+0:1:41,549 --> 0:1:46,79
+is going through a sort of oil boom right
+now, and part of that is thanks to new technology.
+
+
+23
+0:1:46,79 --> 0:1:50,53
+For example, hydraulic fracturing, which is
+sometimes called fracking. It`s a process
+
+
+24
+0:1:50,53 --> 0:1:54,96
+that involves pumping water and chemicals
+into the ground to cause rock formations to
+
+
+25
+0:1:54,96 --> 0:2:0,49
+fracture and release oil and natural gas.
+It`s controversial, though. Some researchers
+
+
+26
+0:2:0,49 --> 0:2:4,82
+are worried that the process could hurt the
+environment. That same concern, producing
+
+
+27
+0:2:4,82 --> 0:2:9,119
+oil versus protecting the environment is happening
+up in the Arctic, where some companies are
+
+
+28
+0:2:9,119 --> 0:2:11,84
+planning to drill. Miguel Marquez has more
+on that.
+
+
+29
+0:2:11,84 --> 0:2:12,1
+(BEGIN VIDEOTAPE)
+
+
+30
+0:2:12,1 --> 0:2:16,64
+MIGUEL MARQUEZ, CNN CORRESPONDENT: This is
+the spot where America`s oil needs meets environmental
+
+
+31
+0:2:16,64 --> 0:2:18,51
+frustration and concern.
+
+
+32
+0:2:18,51 --> 0:2:23,36
+The Noble Discoverer, one of two rigs Shell
+is operating in the Arctic, the rigs aren`t
+
+
+33
+0:2:23,36 --> 0:2:28,39
+drilling for oil, only putting in 1500 foot
+preparatory wells that they`ll revisit and
+
+
+34
+0:2:28,39 --> 0:2:31,82
+complete next year when the real work begins.
+
+
+35
+0:2:31,82 --> 0:2:35,92
+Success here doesn`t come easy. In a setback,
+Shell scaled back its drilling plants this
+
+
+36
+0:2:35,92 --> 0:2:41,0
+summer after a major piece of cleanup gear
+and oil containment dome was damaged during
+
+
+37
+0:2:41,0 --> 0:2:46,19
+testing. To win drilling right, Shell has
+paid for and equipped its own armada of cleanup
+
+
+38
+0:2:46,19 --> 0:2:51,45
+vessels. Environmentalists and some Alaskan
+native say, the failure is proof the Arctic
+
+
+39
+0:2:51,45 --> 0:2:53,7
+is not ready for oil exploration.
+
+
+40
+0:2:53,7 --> 0:2:57,78
+(on camera): You can`t have success in a controlled
+environment, how can you be confident you
+
+
+41
+0:2:57,78 --> 0:2:59,22
+can control it in the place like the Arctic?
+
+
+42
+0:2:59,22 --> 0:3:1,36
+PETE SLALBY, VICE PRESIDENT, SHELL ALASKA:
+Well, first of all, we are working on this,
+
+
+43
+0:3:1,36 --> 0:3:6,6
+this is why we were testing the containment
+dome to begin with. We were looking at a really,
+
+
+44
+0:3:6,6 --> 0:3:12,81
+say, it is a serial number one piece of equipment.
+So the work we are doing is really working
+
+
+45
+0:3:12,81 --> 0:3:16,45
+to work all the bugs out of the problems before
+we bring it up to the Arctic.
+
+
+46
+0:3:16,45 --> 0:3:20,5
+MARQUEZ (voice over): But oil from the Arctic
+won`t come cheap and it won`t come easily.
+
+
+47
+0:3:20,5 --> 0:3:25,39
+Shell has already spent $5 billion just to
+get to this point, and they are not entirely
+
+
+48
+0:3:25,39 --> 0:3:31,4
+sure what they`ll find down there. They believe
+that as much as 20 percent of America`s future
+
+
+49
+0:3:31,4 --> 0:3:35,2
+oil needs could be below the sea floor where
+I`m standing.
+
+
+50
+0:3:35,2 --> 0:3:35,88
+(END VIDEOTAPE)
+
+
+51
+0:3:35,88 --> 0:3:41,95
+AZUZ: The U.S. Navy is hoping to send a message.
+It punished seven of its elite Special Forces
+
+
+52
+0:3:41,95 --> 0:3:46,93
+members, its Navy SEALs for releasing classified
+information. Now, normally, this kind of punishment
+
+
+53
+0:3:46,93 --> 0:3:51,54
+would be handled privately. But not this time
+around. The U.S. Navy made this punishment
+
+
+54
+0:3:51,54 --> 0:3:57,34
+public, because commanders wanted to let all
+SEALs know that this kind of behavior is unacceptable.
+
+
+55
+0:3:57,34 --> 0:3:59,14
+Brian Todd now tells us what this is all about.
+
+
+56
+0:3:59,14 --> 0:3:59,76
+(BEGIN VIDEOTAPE)
+
+
+57
+0:3:59,76 --> 0:4:3,95
+BRIAN TODD, CNN CORRESPONDENT: You are in
+their eyes, as they sprint through dangerous
+
+
+58
+0:4:3,95 --> 0:4:7,51
+terrain, dodge explosions, gun down their
+enemies.
+
+
+59
+0:4:7,51 --> 0:4:13,1
+The new video game "Medal of Honor: Warfighter"
+from Electronic Arts brags that it gives you
+
+
+60
+0:4:13,1 --> 0:4:17,799
+the experience of fighting with SEAL Team
+Six. It`s given seven real members of that
+
+
+61
+0:4:17,799 --> 0:4:23,0
+team the experience of losing half their pay
+for two months and likely their careers. At
+
+
+62
+0:4:23,0 --> 0:4:27,9
+least one of those SEALs was on the raid that
+killed Osama bin Laden last year. A Navy official
+
+
+63
+0:4:27,9 --> 0:4:32,849
+says the seven, all active duty, have been
+reprimanded for giving up classified information
+
+
+64
+0:4:32,849 --> 0:4:35,71
+to the makers of the game when they worked
+as paid consultants.
+
+
+65
+0:4:35,71 --> 0:4:37,33
+(on camera): Why do you think they gave up?
+
+
+66
+0:4:37,33 --> 0:4:41,11
+JOHN MCGUIRE, FORMER NAVY SEAL: I wasn`t part
+of the game, but making the game, but I heard
+
+
+67
+0:4:41,11 --> 0:4:44,58
+that they might have shown their equipment
+that they used, and for some people that might
+
+
+68
+0:4:44,58 --> 0:4:48,3
+not seem like a big deal, but you put a little
+piece of information here, together with another
+
+
+69
+0:4:48,3 --> 0:4:52,229
+piece of information there and you can get
+some information to put people in harms` way.
+
+
+70
+0:4:52,229 --> 0:4:56,86
+TODD: John McGuire is a former Navy SEAL who
+served ten years. He says one big problem
+
+
+71
+0:4:56,86 --> 0:5:0,969
+with what these SEALs did was that it was
+not authorized by their commanders, but the
+
+
+72
+0:5:0,969 --> 0:5:2,96
+problems go beyond that.
+
+
+73
+0:5:2,96 --> 0:5:7,93
+This episode adds more controversy over SEALs
+capitalizing on their reputation. John McGuire`s
+
+
+74
+0:5:7,93 --> 0:5:12,2
+got an outdoor fitness business based on his
+experience. He had to clear the name of that
+
+
+75
+0:5:12,2 --> 0:5:16,979
+business 14 years ago with the Navy. There
+was a recent movie, "Act of Valor" featuring
+
+
+76
+0:5:16,979 --> 0:5:21,949
+real active duty Navy SEALs, that was cleared
+by the Pentagon. But there was also a book
+
+
+77
+0:5:21,949 --> 0:5:26,289
+written by a former SEAL who was on the bin
+Laden raid. The Pentagon complained about
+
+
+78
+0:5:26,289 --> 0:5:27,999
+that for revealing secret information.
+
+
+79
+0:5:27,999 --> 0:5:31,31
+HARRY HUMPHRIES, FORMER NAVY SEAL: It`s gotten
+out of hand. There is entirely too much being
+
+
+80
+0:5:31,31 --> 0:5:39,96
+discussed about a community that lives on
+the fact that it`s a group of folks that thrive
+
+
+81
+0:5:39,96 --> 0:5:42,919
+on a concept called silent pride.
+
+
+82
+0:5:42,919 --> 0:5:48,439
+TODD: The SEALs lives are secret, their identities
+classified. Still, one former SEAL disputes
+
+
+83
+0:5:48,439 --> 0:5:53,159
+the notion that the video game gave much away.
+He says raids of militants compounds have
+
+
+84
+0:5:53,159 --> 0:5:55,81
+not suggested they use video games for intel.
+
+
+85
+0:5:55,81 --> 0:5:56,509
+(END VIDEOTAPE)
+
+
+86
+0:5:56,509 --> 0:5:57,55
+(BEGIN VIDEO CLIP)
+
+
+87
+0:5:57,55 --> 0:6:2,8
+UNIDENTIFIED FEMALE: Today`s "Shoutout" goes
+out to Ms. Litkenhus`s students at John F.
+
+
+88
+0:6:2,8 --> 0:6:5,83
+Kennedy Middle School in Plainfield, Illinois.
+
+
+89
+0:6:5,83 --> 0:6:12,62
+The festival of Diwali is observed by which
+of these religions? Here we go, is it Taoism,
+
+
+90
+0:6:12,62 --> 0:6:21,849
+Hinduism, Shintoism or Baha`I? You`ve got
+three seconds, go!
+
+
+91
+0:6:21,849 --> 0:6:29,629
+Diwali is a festival of lights in Hinduism,
+the world`s third largest religion. That`s
+
+
+92
+0:6:29,629 --> 0:6:33,729
+your answer and that`s your Shoutout.
+
+
+93
+0:6:33,729 --> 0:6:36,499
+(END VIDEO CLIP)
+
+
+94
+0:6:36,499 --> 0:6:41,139
+AZUZ: Diwali is one of the most important
+festivals in Hinduism, it`s happening right
+
+
+95
+0:6:41,139 --> 0:6:46,599
+now, starts today and lasts for five days.
+The word Diwali means "row of lights," and
+
+
+96
+0:6:46,599 --> 0:6:50,74
+that`s what you`ll see a lot of during this
+celebration. Everything from small lamps to
+
+
+97
+0:6:50,74 --> 0:6:56,49
+lights to giant fireworks displays. For Hindus,
+the Diwali festival represents the victory
+
+
+98
+0:6:56,49 --> 0:7:1,36
+of light over darkness, good over evil. It
+also marks the start of a New Year, and it`s
+
+
+99
+0:7:1,36 --> 0:7:6,46
+a time when many Hindus exchange gifts and
+offer prayers for a successful year. ` All
+
+
+100
+0:7:6,46 --> 0:7:10,46
+right. Our next report today is from Sara
+Hoye. It`s about a program for teenagers in
+
+
+101
+0:7:10,46 --> 0:7:15,3
+Philadelphia that`s called "Cradle to Grave."
+It takes place at a hospital, and the people
+
+
+102
+0:7:15,3 --> 0:7:19,87
+who designed the program hope that by bringing
+these teens there as visitors, they can teach
+
+
+103
+0:7:19,87 --> 0:7:24,21
+them about the dangers of gun violence and
+prevent them from returning to the hospital
+
+
+104
+0:7:24,21 --> 0:7:24,539
+as patients.
+
+
+105
+0:7:24,539 --> 0:7:25,69
+(BEGIN VIDEOTAPE)
+
+
+106
+0:7:25,69 --> 0:7:28,529
+SCOTT CHARLES, CRADLE TO GRAVE Welcome. I
+work with gunshot patients. How many of you
+
+
+107
+0:7:28,529 --> 0:7:29,879
+guys know somebody who`s been shot?
+
+
+108
+0:7:29,879 --> 0:7:33,24
+SARA HOYE, CNN CORRESPONDENT: Philadelphia
+educator Scott Charles is on a mission to
+
+
+109
+0:7:33,24 --> 0:7:38,99
+save young lives. Charles and Amy Goldberg,
+chief trauma surgeon at Temple University
+
+
+110
+0:7:38,99 --> 0:7:42,419
+Hospital, co-founded the Cradle to Grave program
+to help reduce gun violence in the city of
+
+
+111
+0:7:42,419 --> 0:7:43,129
+brotherly love.
+
+
+112
+0:7:43,129 --> 0:7:46,389
+CHARLES: What we are going to do today is
+kind of take you behind the scenes, pull back
+
+
+113
+0:7:46,389 --> 0:7:47,93
+the curtain and let you see what we do ...
+
+
+114
+0:7:47,93 --> 0:7:51,9
+HOYE: The Cradle to Grave program brings local
+high school students inside Temple`s trauma
+
+
+115
+0:7:51,9 --> 0:7:56,43
+center to relive the final 15 minutes of life
+of a teen killed by gun violence.
+
+
+116
+0:7:56,43 --> 0:8:2,589
+CHARLES: That young boy stood over Lamont
+(ph) and fired ten more shots into him.
+
+
+117
+0:8:2,589 --> 0:8:9,159
+AMY GOLDBERG, CRADLE TO GRAVE: You know gun
+violence can kill. But I think it`s really
+
+
+118
+0:8:9,159 --> 0:8:12,969
+our responsibility to prevent these kids from
+coming in.
+
+
+119
+0:8:12,969 --> 0:8:18,229
+HOYE: Among America`s largest cities, Philadelphia`s
+homicide rate is the worst. With African Americans
+
+
+120
+0:8:18,229 --> 0:8:20,249
+making up 85 percent of the victims.
+
+
+121
+0:8:20,249 --> 0:8:24,93
+CHARLES: You know, statistics suggest that
+as a young black man, you have a greater chance
+
+
+122
+0:8:24,93 --> 0:8:29,27
+of being shot and killed in Philadelphia than
+you would have if you were a soldier serving
+
+
+123
+0:8:29,27 --> 0:8:34,38
+in the conflicts in Afghanistan or Iraq. That`s
+absurd to me.
+
+
+124
+0:8:34,38 --> 0:8:38,82
+HOYE: Since 2006, more than 7,000 students
+have come to the Cradle to Grave program.
+
+
+125
+0:8:38,82 --> 0:8:42,75
+UNIDENTIFIED MALE: Like I don`t want that
+to happen to me. Like I want to be able to
+
+
+126
+0:8:42,75 --> 0:8:45,3
+live, be someone my mom wants me to be.
+
+
+127
+0:8:45,3 --> 0:8:50,23
+GOLDBERG: We want to really teach them the
+preciousness of life. That in an instant your
+
+
+128
+0:8:50,23 --> 0:8:52,33
+life can be changed forever.
+
+
+129
+0:8:52,33 --> 0:8:55,46
+HOYE: Change they want for the better.
+
+
+130
+0:8:55,46 --> 0:8:57,46
+Sara Hoye, CNN, Philadelphia.
+
+
+131
+0:8:57,46 --> 0:8:58,74
+(BEGIN VIDEOTAPE)
+
+
+132
+0:8:58,74 --> 0:9:3,64
+AZUZ: Thanksgiving is next week. And this
+year, we`d like to know what you are thankful
+
+
+133
+0:9:3,64 --> 0:9:7,63
+for. You can comment on our blog and if you
+are at least 13 years old, you can tell us
+
+
+134
+0:9:7,63 --> 0:9:12,46
+in person through an I-report. Now, on the
+I-reports, no music, just you and the camera,
+
+
+135
+0:9:12,46 --> 0:9:16,92
+this is your chance to get on CNN STUDENT
+NEWS. Visit us at cnnstudentnews.com.
+
+
+136
+0:9:16,92 --> 0:9:22,47
+Today`s before we go segment is either incredibly
+cute or incredibly creepy. Actually, it might
+
+
+137
+0:9:22,47 --> 0:9:28,87
+be a little bit of both. This is a slow loris,
+and this is how a slow loris eats a rice ball.
+
+
+138
+0:9:28,87 --> 0:9:34,18
+It takes the rice ball slowly. It considers
+the rice ball slowly. It nibbles the rice
+
+
+139
+0:9:34,18 --> 0:9:39,7
+ball slowly. Well, at least it lives up to
+its name. For the record, it`s holding a fork,
+
+
+140
+0:9:39,7 --> 0:9:44,1
+but eating with its hand. So, no table manners.
+You might think loris is a made up name, but
+
+
+141
+0:9:44,1 --> 0:9:48,27
+that`s why we show you videos like this, so
+you know what the truth is and what the lore
+
+
+142
+0:9:48,27 --> 0:9:48,52
+is.
+
+
+143
+0:9:48,52 --> 0:11:48,52
+That`s going to wrap things up for us today.
+For CNN STUDENT NEWS, I`m Carl Azuz.
+
+

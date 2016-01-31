@@ -1,0 +1,726 @@
+1
+0:0:1,69 --> 0:0:5,99
+CARL AZUZ, CNN ANCHOR: I`m Carl Azuz. It is
+October, 31st and this is CNN STUDENT NEWS.
+
+
+2
+0:0:5,99 --> 0:0:10,269
+No tricks, but we will treat you to ten minutes
+of commercial free headlines. It all starts
+
+
+3
+0:0:10,269 --> 0:0:30,0
+right now.
+
+
+4
+0:0:30,0 --> 0:0:35,48
+Catastrophic, historic, unthinkable -- those
+are some of the words being used to describe
+
+
+5
+0:0:35,48 --> 0:0:40,149
+the impact of the storm named Sandy that hit
+the U.S. on Monday. Now, when that happened,
+
+
+6
+0:0:40,149 --> 0:0:46,449
+when it made landfall, it wasn`t a hurricane,
+it was technically a post tropical storm,
+
+
+7
+0:0:46,449 --> 0:0:51,16
+because its energy was coming from a different
+source. Whatever you want to call it, Sandy
+
+
+8
+0:0:51,16 --> 0:0:56,739
+was very, very dangerous. Flooding brought
+on by Sandy`s wind and rain and the storm
+
+
+9
+0:0:56,739 --> 0:1:1,79
+surge, the waves that were created along the
+coast. Some towns in New Jersey were under
+
+
+10
+0:1:1,79 --> 0:1:8,25
+four or five feet of water. Floodwaters rushed
+into New York City subway tunnels as well.
+
+
+11
+0:1:8,25 --> 0:1:15,77
+Sandy is being blamed for at least 30 deaths
+across the U.S. And this -- that`s a power
+
+
+12
+0:1:15,77 --> 0:1:21,36
+transformer that blew in New York. Nearly
+8 million people lost power because of Sandy,
+
+
+13
+0:1:21,36 --> 0:1:29,39
+and some officials said it could be out for
+days.
+
+
+14
+0:1:29,39 --> 0:1:35,13
+That kind of gives you an idea about how strong
+Sandy`s winds were. And so does this -- the
+
+
+15
+0:1:35,13 --> 0:1:40,17
+smoke you are seeing there, the front of the
+building just collapsed, apparently from the
+
+
+16
+0:1:40,17 --> 0:1:44,93
+wind. You might wonder how wind can be that
+strong. It could have something to do with
+
+
+17
+0:1:44,93 --> 0:1:48,79
+where this thing hit. Tom Foreman breaks down
+the science.
+
+
+18
+0:1:48,79 --> 0:1:48,67
+(BEGIN VIDEOTAPE)
+
+
+19
+0:1:48,67 --> 0:1:52,63
+TOM FOREMAN, CNN CORRESPONDENT: As the winds
+of Hurricane Sandy have spread out over hundreds
+
+
+20
+0:1:52,63 --> 0:1:58,67
+of miles, the estimate of how much damage
+they can do has also grown to $7 billion.
+
+
+21
+0:1:58,67 --> 0:2:3,49
+How is that possible from wind alone? Well,
+we`ve sliced up Hurricane Erin (ph) here into
+
+
+22
+0:2:3,49 --> 0:2:6,42
+layers to show you what -- look at the bottom
+down there. You see all that red -- that`s
+
+
+23
+0:2:6,42 --> 0:2:11,97
+where the wind is the most intense. As you
+move up in the storm, it becomes less intense
+
+
+24
+0:2:11,97 --> 0:2:16,9
+once you get several miles in the air, but
+all of the tallest buildings on the East Coast
+
+
+25
+0:2:16,9 --> 0:2:22,55
+fit right down in that red zone, and in a
+strange way, they actually make the storm
+
+
+26
+0:2:22,55 --> 0:2:24,67
+more ferocious for the people who are living
+there.
+
+
+27
+0:2:24,67 --> 0:2:28,96
+Let me show you why. If you have an air flow
+passing over an empty field or perhaps low
+
+
+28
+0:2:28,96 --> 0:2:33,51
+buildings, it can do so largely unimpeded.
+But once you introduce something like New
+
+
+29
+0:2:33,51 --> 0:2:38,86
+York City to the equation here, you change
+everything, because now the air has to speed
+
+
+30
+0:2:38,86 --> 0:2:45,15
+up to get around all those buildings and maintain
+its air flow to go over those buildings, and
+
+
+31
+0:2:45,15 --> 0:2:50,26
+that magnifies three things that are very
+dangerous about hurricane winds. First of
+
+
+32
+0:2:50,26 --> 0:2:55,16
+all, it makes them more explosive. In aerospace
+terms, whenever an airflow hit`s a square
+
+
+33
+0:2:55,16 --> 0:3:1,36
+or rectangular object, it creates what`s called
+turbulent flow. In simple layman`s terms,
+
+
+34
+0:3:1,36 --> 0:3:6,2
+that means the air becomes all roiled up and
+it starts pounding against itself and against
+
+
+35
+0:3:6,2 --> 0:3:8,48
+other objects, and it simply becomes more
+violent.
+
+
+36
+0:3:8,48 --> 0:3:13,1
+Secondly, in hurricanes, you are always talking
+about sustained winds, winds that will continue
+
+
+37
+0:3:13,1 --> 0:3:18,84
+not for a few minutes, but for hour after
+hour, grinding away, looking for weak spots
+
+
+38
+0:3:18,84 --> 0:3:24,21
+around doors or windows or the cornices of
+roofs. And thirdly, you are talking about
+
+
+39
+0:3:24,21 --> 0:3:28,8
+directional wind. That means it`s always going
+to be attacking from the same direction. So
+
+
+40
+0:3:28,8 --> 0:3:33,69
+if it finds that weak spot, it`s going to
+exploit it, because it just keeps yanking
+
+
+41
+0:3:33,69 --> 0:3:39,13
+away at it without letting up. All of that
+comes together in this terrible witch`s brew
+
+
+42
+0:3:39,13 --> 0:3:42,61
+for the cities of the East Coast in the winds
+of Sandy.
+
+
+43
+0:3:42,61 --> 0:3:43,31
+(END VIDEOTAPE)
+
+
+44
+0:3:43,31 --> 0:3:47,54
+AZUZ: With storms like Sandy, you expect strong
+winds and heavy rain, but the different effects
+
+
+45
+0:3:47,54 --> 0:3:53,7
+of this storm are almost unbelievable. Water.
+We mentioned flooding in New York subway.
+
+
+46
+0:3:53,7 --> 0:3:57,45
+This is what it looked like. And those water
+levels won`t go down on their own. That water
+
+
+47
+0:3:57,45 --> 0:3:59,58
+is going to have to be pumped out.
+
+
+48
+0:3:59,58 --> 0:4:4,47
+Fire. This one broke out in a neighborhood
+in New York. Sandy`s winds helped it spread.
+
+
+49
+0:4:4,47 --> 0:4:7,57
+At least 80 homes were destroyed by the flames.
+
+
+50
+0:4:7,57 --> 0:4:13,3
+Snow. Sandy spawned a blizzard in West Virginia.
+Parts of Maryland and North Carolina were
+
+
+51
+0:4:13,3 --> 0:4:18,38
+hit with heavy snow as well. This is what
+part of the Jersey shore looked like yesterday.
+
+
+52
+0:4:18,38 --> 0:4:23,99
+Rows of houses damaged or destroyed by the
+storm. And along flooded roads, rescue crews
+
+
+53
+0:4:23,99 --> 0:4:29,43
+are out in boats and trucks. Some people had
+to wait on their roof for rescuers to arrive.
+
+
+54
+0:4:29,43 --> 0:4:33,65
+Relief organizations are working to get help
+to the victims of this storm. You can help
+
+
+55
+0:4:33,65 --> 0:4:39,71
+them too. Go to the Spotlight section at cnnstudentnews.com
+and look for the "impact your world" link
+
+
+56
+0:4:39,71 --> 0:4:40,75
+to find out how.
+
+
+57
+0:4:40,75 --> 0:4:42,41
+(BEGIN VIDEO CLIP)
+
+
+58
+0:4:42,41 --> 0:4:47,94
+MITT ROMNEY, REPUBLICAN PRESIDENTIAL CANDIDATE:
+I want you to be able to get a job. I know
+
+
+59
+0:4:47,94 --> 0:4:49,44
+what it takes to get this economy going.
+
+
+60
+0:4:49,44 --> 0:4:51,12
+BARACK OBAMA, PRESIDENT OF THE UNITED STATES
+OF AMERICA: The most important thing we can
+
+
+61
+0:4:51,12 --> 0:4:56,5
+do is to make sure that we are creating job
+in this country, but not just jobs, good paying
+
+
+62
+0:4:56,5 --> 0:4:57,32
+jobs.
+
+
+63
+0:4:57,32 --> 0:4:59,8
+(END VIDEO CLIP)
+
+
+64
+0:4:59,8 --> 0:5:4,63
+AZUZ: You`ve heard Governor Romney and President
+Obama talk a lot about the economy in this
+
+
+65
+0:5:4,63 --> 0:5:8,97
+presidential campaign. There is a good reason
+for that. For many voters, it is the most
+
+
+66
+0:5:8,97 --> 0:5:13,22
+important issue in the election. It`s also
+what we are looking at today as we continue
+
+
+67
+0:5:13,22 --> 0:5:15,98
+our series on the candidates positions.
+
+
+68
+0:5:15,98 --> 0:5:20,44
+Part of Governor Romney`s plan is to cut taxes
+for all Americans. He would also lower the
+
+
+69
+0:5:20,44 --> 0:5:25,22
+tax rate for businesses. The governor`s campaign
+site says that cutting taxes will help the
+
+
+70
+0:5:25,22 --> 0:5:30,14
+economy grow. For example, companies will
+have more money to hire workers. Romney`s
+
+
+71
+0:5:30,14 --> 0:5:35,77
+also talked about making the federal government
+smaller in order to reduce government spending.
+
+
+72
+0:5:35,77 --> 0:5:40,61
+President Obama also wants to lower the tax
+rate for businesses. For most individual Americans,
+
+
+73
+0:5:40,61 --> 0:5:44,93
+he said that he wants to keep the tax rate
+where it is. But he wants to raise taxes on
+
+
+74
+0:5:44,93 --> 0:5:49,42
+wealthy Americans in order to help generate
+more revenue for the federal government. The
+
+
+75
+0:5:49,42 --> 0:5:54,38
+president also wants to create incentives,
+rewards for companies that bring jobs back
+
+
+76
+0:5:54,38 --> 0:5:55,8
+to America.
+
+
+77
+0:5:55,8 --> 0:5:56,35
+(BEGIN VIDEO CLIP)
+
+
+78
+0:5:56,35 --> 0:6:1,33
+UNIDENTIFIED FEMALE: Today`s "Shoutout" goes
+out to Mr. Butler`s social studies classes
+
+
+79
+0:6:1,33 --> 0:6:9,11
+at Atlantis Academy in Coral Springs, Florida.
+Ichiro Suzuki, Hideki Matsui and Yu Darvish
+
+
+80
+0:6:9,11 --> 0:6:16,639
+are known for playing what sport? Here we
+go, it is basketball, badminton, billiards
+
+
+81
+0:6:16,639 --> 0:6:23,7
+or baseball? You`ve got three seconds, go!
+
+
+82
+0:6:23,7 --> 0:6:30,16
+They are all Major League Baseball players
+who were born in Japan. That`s your answer,
+
+
+83
+0:6:30,16 --> 0:6:32,22
+and that`s your "Shoutout."
+
+
+84
+0:6:32,22 --> 0:6:33,76
+(END VIDEO CLIP)
+
+
+85
+0:6:33,76 --> 0:6:38,77
+AZUZ: All right, so in the majors they are
+probably used to playing in front of sell-out
+
+
+86
+0:6:38,77 --> 0:6:43,85
+crowds or near cell out crowds, but back in
+their home country, some Japanese teams are
+
+
+87
+0:6:43,85 --> 0:6:48,48
+struggling with half empty stadiums. So how
+do you get people to come out and fill the
+
+
+88
+0:6:48,48 --> 0:6:53,49
+seats and to root, root, root for the home
+team? Well, the Yokohama Bay Stars have some
+
+
+89
+0:6:53,49 --> 0:6:57,669
+unique ideas. Alex Zolbert steps up to the
+plate with details.
+
+
+90
+0:6:57,669 --> 0:6:59,6
+(BEGIN VIDEOTAPE)
+
+
+91
+0:6:59,6 --> 0:7:9,639
+ALEX ZOLBERT, CNN ANCHOR: It is arguably Japan`s
+most popular sport, a national pastime. And
+
+
+92
+0:7:9,639 --> 0:7:15,68
+this is the league`s least successful team
+this year. In fact, the Bay Stars, who hail
+
+
+93
+0:7:15,68 --> 0:7:21,48
+from Yokohama just south of Tokyo, have sat
+in the league`s basement for the past four
+
+
+94
+0:7:21,48 --> 0:7:28,55
+years. Which helps explain all the empty seats
+at one of their final home games this season.
+
+
+95
+0:7:28,55 --> 0:7:33,18
+But the team has been testing some clever
+ideas to try to change that. But in the tough
+
+
+96
+0:7:33,18 --> 0:7:39,169
+Japanese economy, how about discounts for
+fans who are trying to pay off their mortgage?
+
+
+97
+0:7:39,169 --> 0:7:44,63
+Or offering refunds if you weren`t satisfied
+with the team`s performance? A few fans lined
+
+
+98
+0:7:44,63 --> 0:7:49,9
+up after a game even though the Bay Starts
+won. Some of the gimmicks are the idea of
+
+
+99
+0:7:49,9 --> 0:7:56,57
+team president, June Ikeida (ph), a 36-year
+old with a background in advertising and marketing.
+
+
+100
+0:7:56,57 --> 0:8:1,73
+He tells me, it`s all in effort to entice
+folks who aren`t die hard baseball fans. How
+
+
+101
+0:8:1,73 --> 0:8:4,18
+about a side show of pro-wrestling?
+
+
+102
+0:8:4,18 --> 0:8:9,4
+This stadium holds about 30,000 people. The
+average attendance this year was just over
+
+
+103
+0:8:9,4 --> 0:8:14,46
+half of that. And while the boss recognizes
+the gimmicks might help, what will help the
+
+
+104
+0:8:14,46 --> 0:8:17,25
+most is to win more games.
+
+
+105
+0:8:17,25 --> 0:8:19,25
+Alex Zolbert, CNN, Yokohama, Japan.
+
+
+106
+0:8:19,25 --> 0:8:20,25
+(END VIDEOTAPE)
+
+
+107
+0:8:20,25 --> 0:8:25,37
+AZUZ: Well, next stop today, we have a story
+about Chy Johnson. She is a sophomore at Quinn
+
+
+108
+0:8:25,37 --> 0:8:30,52
+Creek High in Arizona. She was born with a
+brain disorder, and she said she was bullied
+
+
+109
+0:8:30,52 --> 0:8:36,14
+because of that. One day, Chy`s mother emailed
+a family friend to ask for help. That friend
+
+
+110
+0:8:36,14 --> 0:8:41,7
+was Carson Jones. He`s the starting quarterback
+in the school`s undefeated football team.
+
+
+111
+0:8:41,7 --> 0:8:45,74
+Carson heard what was happening and decided
+to tackle the bullying head on. Now from the
+
+
+112
+0:8:45,74 --> 0:8:50,23
+first bell to the last one, Carson and some
+of his team mates hang out with Chy. They
+
+
+113
+0:8:50,23 --> 0:8:53,79
+keep an eye on her, they make sure she is
+not getting bullied. One of the players says,
+
+
+114
+0:8:53,79 --> 0:8:58,14
+it feels good to know that they can help make
+someone else`s high school experience a positive
+
+
+115
+0:8:58,14 --> 0:8:59,94
+one. Great stuff.
+
+
+116
+0:8:59,94 --> 0:9:5,46
+Finally today, we are checking out some of
+your I Report pumpkin projects. Bats on Halloween?
+
+
+117
+0:9:5,46 --> 0:9:10,83
+Sure. Bat-man? Well, he can symbolize a dark
+knight. How about this ghoul climbing out
+
+
+118
+0:9:10,83 --> 0:9:15,96
+of the grave? Scary enough to make anyone
+bury his head under a blanket? Old-time truck,
+
+
+119
+0:9:15,96 --> 0:9:20,58
+piles of pumpkins, perfect symbol of the season,
+but hey, let`s bail on that, so we can check
+
+
+120
+0:9:20,58 --> 0:9:26,63
+out these class`s pet project. Seriously,
+it`s their pet. That`s the tooth. And Becca
+
+
+121
+0:9:26,63 --> 0:9:33,24
+(ph) High gets special prays because they
+love carving pumpkins. And we love that they
+
+
+122
+0:9:33,24 --> 0:9:34,52
+do.
+
+
+123
+0:9:34,52 --> 0:9:40,2
+That was awesome. Big thanks to everybody
+who`s sent in I Reports. Goodness gracious,
+
+
+124
+0:9:40,2 --> 0:9:43,75
+ghost (ph), we`re out of time for today, so
+we`ll look forward to seeing you tomorrow
+
+
+125
+0:9:43,75 --> 0:11:43,75
+on CNN STUDENT NEWS.
+
+

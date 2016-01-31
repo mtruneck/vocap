@@ -1,0 +1,1109 @@
+1
+0:0:0,0 --> 0:0:2,94
+
+
+
+2
+0:0:2,94 --> 0:0:4,33
+CHRISTIAN VON KOENIGSEGG:
+My name is Christian Von
+
+
+3
+0:0:4,33 --> 0:0:5,7
+Koenigsegg.
+
+
+4
+0:0:5,7 --> 0:0:6,335
+I'm 40 years old.
+
+
+5
+0:0:6,335 --> 0:0:8,66
+And for half of my life I've
+been on the quest to be a
+
+
+6
+0:0:8,66 --> 0:0:11,94
+leader in the hypercar industry,
+utilizing Swedish
+
+
+7
+0:0:11,94 --> 0:0:14,605
+design combined with visionary
+technical solutions.
+
+
+8
+0:0:14,605 --> 0:0:18,3
+
+
+
+9
+0:0:18,3 --> 0:0:22,185
+Our latest car, the Agera R, is
+built in the old hangers of
+
+
+10
+0:0:22,185 --> 0:0:24,83
+a former Swedish fighter
+jet squadron.
+
+
+11
+0:0:24,83 --> 0:0:28,46
+Their symbol, a ghost, is now
+proudly painted on the back of
+
+
+12
+0:0:28,46 --> 0:0:29,74
+every Koenigsegg.
+
+
+13
+0:0:29,74 --> 0:0:55,975
+[MUSIC PLAYING]
+
+
+14
+0:0:55,975 --> 0:0:57,33
+CHRISTIAN VON KOENIGSEGG: So
+now I'm going to show you
+
+
+15
+0:0:57,33 --> 0:1:0,4
+something which we are working
+on for the future, which I
+
+
+16
+0:1:0,4 --> 0:1:3,68
+personally find very, very
+interesting in many aspects.
+
+
+17
+0:1:3,68 --> 0:1:7,98
+So what this is, this is what
+we call an actuator.
+
+
+18
+0:1:7,98 --> 0:1:9,78
+It's a Free Valve actuator.
+
+
+19
+0:1:9,78 --> 0:1:13,48
+Most of you who are familiar
+with combustion engines and
+
+
+20
+0:1:13,48 --> 0:1:16,4
+especially car engines know
+that there are camshafts
+
+
+21
+0:1:16,4 --> 0:1:22,45
+involved to move the valves
+inside the cylinder head.
+
+
+22
+0:1:22,45 --> 0:1:25,5
+And these valves, they have been
+controlled by camshafts
+
+
+23
+0:1:25,5 --> 0:1:28,6
+for the last 150 years or
+something like that.
+
+
+24
+0:1:28,6 --> 0:1:31,2
+But it's very restrictive,
+really, especially if you have
+
+
+25
+0:1:31,2 --> 0:1:34,74
+multi-cylinders and you want
+to have a rev range to go
+
+
+26
+0:1:34,74 --> 0:1:39,5
+through with efficiency and
+power because, when you have a
+
+
+27
+0:1:39,5 --> 0:1:41,93
+camshaft, you basically look
+at all the cylinders in the
+
+
+28
+0:1:41,93 --> 0:1:44,42
+same line to do, pretty
+much, the same thing.
+
+
+29
+0:1:44,42 --> 0:1:47,7
+There are coming systems now
+which give some flexibility.
+
+
+30
+0:1:47,7 --> 0:1:49,96
+You can tweak the angle a little
+bit, compared to the
+
+
+31
+0:1:49,96 --> 0:1:51,49
+crank of the engine.
+
+
+32
+0:1:51,49 --> 0:1:53,77
+And you can slide them sideways,
+like Audi is doing
+
+
+33
+0:1:53,77 --> 0:1:55,4
+to shut off cylinders now.
+
+
+34
+0:1:55,4 --> 0:1:57,25
+So it's getting better and
+better, but it's still very,
+
+
+35
+0:1:57,25 --> 0:1:58,37
+very restrictive.
+
+
+36
+0:1:58,37 --> 0:2:1,9
+You can think of the camshaft
+like a broom, pretty much.
+
+
+37
+0:2:1,9 --> 0:2:2,84
+You hold it in your hands and
+you push all the valves
+
+
+38
+0:2:2,84 --> 0:2:5,45
+simultaneously with
+this broomstick.
+
+
+39
+0:2:5,45 --> 0:2:8,309
+What the Free Valve system
+does is that each valve
+
+
+40
+0:2:8,309 --> 0:2:9,31
+becomes individual.
+
+
+41
+0:2:9,31 --> 0:2:12,43
+So if you think of the valves
+like keys on the piano,
+
+
+42
+0:2:12,43 --> 0:2:15,72
+suddenly, instead of pushing all
+the keys at the same time
+
+
+43
+0:2:15,72 --> 0:2:19,16
+with a broomstick, you can
+actually play the keys with
+
+
+44
+0:2:19,16 --> 0:2:22,27
+your fingers, which is
+the Free Valve idea.
+
+
+45
+0:2:22,27 --> 0:2:24,77
+And then, of course, the
+engine can perform in a
+
+
+46
+0:2:24,77 --> 0:2:27,96
+completely different way than
+being forced into a preset
+
+
+47
+0:2:27,96 --> 0:2:30,2
+pattern of combustion.
+
+
+48
+0:2:30,2 --> 0:2:32,49
+So what we're going to show
+you here is this is like a
+
+
+49
+0:2:32,49 --> 0:2:35,22
+small cut out of a
+cylinder head.
+
+
+50
+0:2:35,22 --> 0:2:36,79
+Here we have one valve.
+
+
+51
+0:2:36,79 --> 0:2:39,87
+Normally, there are two intake
+valves and two exhaust valves.
+
+
+52
+0:2:39,87 --> 0:2:43,9
+And here is just a small
+rig to run one of
+
+
+53
+0:2:43,9 --> 0:2:44,69
+these Free Valve actuators.
+
+
+54
+0:2:44,69 --> 0:2:46,35
+So basically, here you
+have the valve.
+
+
+55
+0:2:46,35 --> 0:2:46,94
+Here you have the actuator.
+
+
+56
+0:2:46,94 --> 0:2:48,7
+It goes into it like this.
+
+
+57
+0:2:48,7 --> 0:2:52,76
+This is lubricated by engine
+oil and pressurized by
+
+
+58
+0:2:52,76 --> 0:2:55,15
+pressurized air, which acts
+like an air hammer
+
+
+59
+0:2:55,15 --> 0:2:56,82
+to move this out.
+
+
+60
+0:2:56,82 --> 0:3:0,39
+Then the engine oil makes sure
+it stays stable and can lock
+
+
+61
+0:3:0,39 --> 0:3:1,87
+it in different positions.
+
+
+62
+0:3:1,87 --> 0:3:6,41
+And then air spring or a metal
+spring pushes it back.
+
+
+63
+0:3:6,41 --> 0:3:9,99
+So we have individual control
+over each valve, which brings
+
+
+64
+0:3:9,99 --> 0:3:12,88
+great benefit to the combustion
+
+
+65
+0:3:12,88 --> 0:3:15,3
+cycles in the engine.
+
+
+66
+0:3:15,3 --> 0:3:16,71
+So it's actually a snowballing
+effect.
+
+
+67
+0:3:16,71 --> 0:3:20,22
+The engine becomes lighter,
+smaller, cheaper, cleaner.
+
+
+68
+0:3:20,22 --> 0:3:22,1
+It can change the look of
+the car in the end.
+
+
+69
+0:3:22,1 --> 0:3:24,53
+So it's a very, very interesting
+technology that
+
+
+70
+0:3:24,53 --> 0:3:27,66
+I'm sure, one way or the
+other, will conquer the
+
+
+71
+0:3:27,66 --> 0:3:29,84
+cylinder heads of the world.
+
+
+72
+0:3:29,84 --> 0:3:32,85
+So here we'll go into a little
+bit of details how it works.
+
+
+73
+0:3:32,85 --> 0:3:35,25
+Urban, who is partly responsible
+for this
+
+
+74
+0:3:35,25 --> 0:3:39,675
+development, will show you a
+little bit what it looks like.
+
+
+75
+0:3:39,675 --> 0:3:42,5
+URBAN CARLSON: It's a very
+simple control system.
+
+
+76
+0:3:42,5 --> 0:3:47,202
+We have one signal
+for each valve.
+
+
+77
+0:3:47,202 --> 0:3:50,59
+And when we tell it to open,
+it opens with a few
+
+
+78
+0:3:50,59 --> 0:3:51,825
+milliseconds delay.
+
+
+79
+0:3:51,825 --> 0:3:55,655
+And when we tell it to close,
+it closes with, again, a few
+
+
+80
+0:3:55,655 --> 0:3:57,245
+milliseconds delay.
+
+
+81
+0:3:57,245 --> 0:4:0,79
+This it can do at very
+high speeds, up to
+
+
+82
+0:4:0,79 --> 0:4:3,132
+20,000 RPM, if necessary.
+
+
+83
+0:4:3,132 --> 0:4:4,92
+CHRISTIAN VON KOENIGSEGG: The
+same size of actuator is
+
+
+84
+0:4:4,92 --> 0:4:8,3
+actually good for a small
+motorcycle engine revving
+
+
+85
+0:4:8,3 --> 0:4:13,79
+15,000 RPM and a truck engine
+revving 2,500 RPM.
+
+
+86
+0:4:13,79 --> 0:4:17,149
+Because the motorcycle valve is
+very light, so it takes the
+
+
+87
+0:4:17,149 --> 0:4:19,24
+same energy to drive it
+backwards and forwards at
+
+
+88
+0:4:19,24 --> 0:4:23,17
+15,000 RPM as it takes to drive
+a huge, heavy truck
+
+
+89
+0:4:23,17 --> 0:4:26,38
+valve backwards and forwards
+at 2,500 RPM.
+
+
+90
+0:4:26,38 --> 0:4:29,56
+So it's very neat that the same
+actuator basically covers
+
+
+91
+0:4:29,56 --> 0:4:32,805
+the need for all different
+engine sizes.
+
+
+92
+0:4:32,805 --> 0:4:34,705
+So now we're running at
+what kind of RPM here?
+
+
+93
+0:4:34,705 --> 0:4:38,505
+URBAN CARLSON: Well, here's
+a little bit over idle.
+
+
+94
+0:4:38,505 --> 0:4:39,76
+CHRISTIAN VON KOENIGSEGG:
+This is actually the
+
+
+95
+0:4:39,76 --> 0:4:41,95
+movement of the valve.
+
+
+96
+0:4:41,95 --> 0:4:43,94
+So you can see it
+goes quickly up.
+
+
+97
+0:4:43,94 --> 0:4:45,395
+And then it stays flat.
+
+
+98
+0:4:45,395 --> 0:4:47,412
+It's like having a square
+camshaft profile to make the
+
+
+99
+0:4:47,412 --> 0:4:49,28
+engine breathe really well.
+
+
+100
+0:4:49,28 --> 0:4:51,94
+If you would have a square
+camshaft profile, it would
+
+
+101
+0:4:51,94 --> 0:4:55,365
+break immediately, because it
+would jump off the edges and
+
+
+102
+0:4:55,365 --> 0:4:57,78
+would start hitting
+the valve stem.
+
+
+103
+0:4:57,78 --> 0:4:58,75
+And it wouldn't work.
+
+
+104
+0:4:58,75 --> 0:5:1,23
+But with the Free Valve system,
+you can actually open
+
+
+105
+0:5:1,23 --> 0:5:4,86
+any way you like and open really
+fast, stay open flat,
+
+
+106
+0:5:4,86 --> 0:5:5,84
+and then drop down.
+
+
+107
+0:5:5,84 --> 0:5:8,191
+Here it's possible to see the
+valve sequence as well.
+
+
+108
+0:5:8,191 --> 0:5:10,576
+That is a smooth curve, so it
+doesn't hit the valve so you
+
+
+109
+0:5:10,576 --> 0:5:11,826
+create noise and wear.
+
+
+110
+0:5:11,826 --> 0:5:17,61
+
+
+
+111
+0:5:17,61 --> 0:5:21,228
+URBAN CARLSON: This
+is 3,000 RPM.
+
+
+112
+0:5:21,228 --> 0:5:27,355
+And you can see still a square
+form of the valve curve.
+
+
+113
+0:5:27,355 --> 0:5:34,16
+
+
+
+114
+0:5:34,16 --> 0:5:46,84
+This is 9,000 RPM.
+
+
+115
+0:5:46,84 --> 0:5:49,62
+CHRISTIAN VON KOENIGSEGG: So
+this might just look like an
+
+
+116
+0:5:49,62 --> 0:5:51,2
+old Saab to you all.
+
+
+117
+0:5:51,2 --> 0:5:55,8
+And in fact, it is, apart
+from one aspect.
+
+
+118
+0:5:55,8 --> 0:5:58,8
+
+
+
+119
+0:5:58,8 --> 0:6:0,37
+That aspect is what you
+see that's red here.
+
+
+120
+0:6:0,37 --> 0:6:3,2
+And that's the cylinder head,
+which has been modified to
+
+
+121
+0:6:3,2 --> 0:6:7,99
+accommodate our Cargine
+Free Valve system.
+
+
+122
+0:6:7,99 --> 0:6:11,39
+So basically what we've done
+here is we've taken the
+
+
+123
+0:6:11,39 --> 0:6:14,38
+cylinder head apart, machined
+out all the mountings and so
+
+
+124
+0:6:14,38 --> 0:6:19,37
+on for the camshafts, and
+installed 16 Cargine Free
+
+
+125
+0:6:19,37 --> 0:6:21,1
+Valve actuators.
+
+
+126
+0:6:21,1 --> 0:6:24,62
+And then we have designed
+a special valve cover.
+
+
+127
+0:6:24,62 --> 0:6:26,135
+Or it's not really
+a valve cover.
+
+
+128
+0:6:26,135 --> 0:6:31,2
+It's more a lid containing
+pressurized air channels and
+
+
+129
+0:6:31,2 --> 0:6:32,86
+pressurized oil channels
+coming from
+
+
+130
+0:6:32,86 --> 0:6:35,8
+the engine oil side.
+
+
+131
+0:6:35,8 --> 0:6:38,5
+You can see the height of
+this black cover here.
+
+
+132
+0:6:38,5 --> 0:6:39,89
+That's the same height as
+the standard cylinder
+
+
+133
+0:6:39,89 --> 0:6:41,1
+head used to be.
+
+
+134
+0:6:41,1 --> 0:6:44,9
+So even when we retrofit it,
+when it's not optimized for
+
+
+135
+0:6:44,9 --> 0:6:48,305
+space, it's anyway lower than
+the standard cylinder head.
+
+
+136
+0:6:48,305 --> 0:6:50,82
+So the engine actually shrinks
+and becomes lighter.
+
+
+137
+0:6:50,82 --> 0:6:53,48
+If we would have made a cylinder
+head from scratch,
+
+
+138
+0:6:53,48 --> 0:6:56,62
+instead of retrofitting into an
+existing cylinder head, it
+
+
+139
+0:6:56,62 --> 0:6:59,8
+would also become much narrower
+and even lower.
+
+
+140
+0:6:59,8 --> 0:7:3,53
+And this whole section here,
+which is a cover for where the
+
+
+141
+0:7:3,53 --> 0:7:5,83
+chain drive and for the camshaft
+used to sit, would
+
+
+142
+0:7:5,83 --> 0:7:7,2
+disappear completely.
+
+
+143
+0:7:7,2 --> 0:7:9,71
+So the engine would also
+become a lot shorter.
+
+
+144
+0:7:9,71 --> 0:7:13,24
+Basically, when you go from
+a camshaft to Cargine Free
+
+
+145
+0:7:13,24 --> 0:7:17,34
+Valves, the size of a
+four-cylinder engine becomes
+
+
+146
+0:7:17,34 --> 0:7:19,14
+just a little bit bigger
+than the size of a
+
+
+147
+0:7:19,14 --> 0:7:20,55
+three-cylinder engine.
+
+
+148
+0:7:20,55 --> 0:7:25,2
+And then, of course, if you
+cut away one cylinder to
+
+
+149
+0:7:25,2 --> 0:7:28,33
+maintain the power and torque
+level you used to have in your
+
+
+150
+0:7:28,33 --> 0:7:32,24
+four-cylinder engine, then it
+becomes really much smaller.
+
+
+151
+0:7:32,24 --> 0:7:35,84
+So this car here has been
+running with Cargine Free
+
+
+152
+0:7:35,84 --> 0:7:38,45
+Valve system, winter
+and summer, for the
+
+
+153
+0:7:38,45 --> 0:7:40,3
+last 2 and 1/2 years.
+
+
+154
+0:7:40,3 --> 0:7:44,485
+We've accumulated almost 60,000
+kilometers, without any
+
+
+155
+0:7:44,485 --> 0:7:48,18
+failure whatsoever to the
+Free Valve system.
+
+
+156
+0:7:48,18 --> 0:7:50,8
+It's just been upgraded with
+our latest generation,
+
+
+157
+0:7:50,8 --> 0:7:55,58
+actuator generation 5, on both
+the intake an exhaust side of
+
+
+158
+0:7:55,58 --> 0:7:56,145
+the engine.
+
+
+159
+0:7:56,145 --> 0:8:0,32
+And it's been tested at the
+testing institute, called AVL,
+
+
+160
+0:8:0,32 --> 0:8:7,92
+with up to 20% improvement in
+fuel efficiency so far.
+
+
+161
+0:8:7,92 --> 0:8:9,67
+And that's just the starting
+point, I would say.
+
+
+162
+0:8:9,67 --> 0:8:13,32
+This is more a test field to
+run for durability and for
+
+
+163
+0:8:13,32 --> 0:8:16,6
+cold starts, even in the winter,
+down to minus 20
+
+
+164
+0:8:16,6 --> 0:8:17,1
+degrees Celsius.
+
+
+165
+0:8:17,1 --> 0:8:18,92
+But it's really exciting.
+
+
+166
+0:8:18,92 --> 0:8:22,829
+And it's, I think, one of the
+few cars in the world that is
+
+
+167
+0:8:22,829 --> 0:8:25,91
+running with no camshaft
+whatsoever.
+
+
+168
+0:8:25,91 --> 0:8:30,76
+When it's fully optimized, we're
+expecting to have 30%
+
+
+169
+0:8:30,76 --> 0:8:35,9
+less fuel consumption, 30%
+more torque, and 30% more
+
+
+170
+0:8:35,9 --> 0:8:36,95
+power, and, in an
+average driving
+
+
+171
+0:8:36,95 --> 0:8:40,39
+cycle, 50% less emissions.
+
+
+172
+0:8:40,39 --> 0:8:43,289
+And that's without connecting
+it to the possibility, which
+
+
+173
+0:8:43,289 --> 0:8:46,9
+is very interesting, which
+is an air tank.
+
+
+174
+0:8:46,9 --> 0:8:49,86
+Given this valve technology, we
+can actually recoup energy
+
+
+175
+0:8:49,86 --> 0:8:55,33
+while engine braking, by using
+the engine as an air pump,
+
+
+176
+0:8:55,33 --> 0:8:59,28
+pumping up a tank with air,
+getting air pressure there,
+
+
+177
+0:8:59,28 --> 0:9:3,88
+and then driving off only on
+that air, using the engine as
+
+
+178
+0:9:3,88 --> 0:9:7,45
+a compressor or, let's
+say, an air engine.
+
+
+179
+0:9:7,45 --> 0:9:10,58
+That compressed air can also
+be used for boosting the
+
+
+180
+0:9:10,58 --> 0:9:16,43
+engine while using fuel to
+have a really big, quick
+
+
+181
+0:9:16,43 --> 0:9:19,41
+spooling turbo which
+consumes no energy.
+
+
+182
+0:9:19,41 --> 0:9:22,76
+So instead of storing energy
+in the battery and like a
+
+
+183
+0:9:22,76 --> 0:9:24,74
+battery, we're using an
+empty tank of air.
+
+
+184
+0:9:24,74 --> 0:9:26,7
+So that's the next step
+of this technology.
+
+
+185
+0:9:26,7 --> 0:9:29,18
+But already, without that, it's
+a huge benefit, compared
+
+
+186
+0:9:29,18 --> 0:9:31,41
+to normal camshafts.
+
+
+187
+0:9:31,41 --> 0:9:34,6
+This technology is not
+yet in Koenigsegg.
+
+
+188
+0:9:34,6 --> 0:9:35,79
+And it's something, of
+course, we might plan
+
+
+189
+0:9:35,79 --> 0:9:36,45
+to do for the future.
+
+
+190
+0:9:36,45 --> 0:9:40,21
+It will be another three, four
+years out, before it's in any
+
+
+191
+0:9:40,21 --> 0:9:41,1
+production car.
+
+
+192
+0:9:41,1 --> 0:9:43,21
+And hopefully, the Koenigsegg
+could be one of the first.
+
+
+193
+0:9:43,21 --> 0:11:43,21
+[MUSIC PLAYING]
+
+

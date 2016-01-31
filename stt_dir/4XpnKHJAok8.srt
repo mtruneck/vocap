@@ -1,0 +1,7738 @@
+1
+0:0:0,0 --> 0:0:0,0
+
+
+
+2
+0:0:0,0 --> 0:0:3,95
+MALE SPEAKER: Thank you
+for coming, everybody.
+
+
+3
+0:0:3,95 --> 0:0:5,16
+Some of you have probably
+already
+
+
+4
+0:0:5,16 --> 0:0:7,72
+heard of Linus Torvalds.
+
+
+5
+0:0:7,72 --> 0:0:9,13
+Those of you who haven't,
+you're the people with
+
+
+6
+0:0:9,13 --> 0:0:10,38
+Macintoshes on your laps.
+
+
+7
+0:0:10,38 --> 0:0:12,71
+
+
+
+8
+0:0:12,71 --> 0:0:16,37
+He's a guy who delights in
+being cruel to people.
+
+
+9
+0:0:16,37 --> 0:0:18,57
+His latest cruel act is to
+create a revision control
+
+
+10
+0:0:18,57 --> 0:0:21,27
+system which is expressly
+designed to make you feel less
+
+
+11
+0:0:21,27 --> 0:0:25,2
+intelligent than you
+thought you were.
+
+
+12
+0:0:25,2 --> 0:0:27,5
+Thank you for coming
+down today, Linus.
+
+
+13
+0:0:27,5 --> 0:0:29,6
+I've been getting emails for the
+past few days from people
+
+
+14
+0:0:29,6 --> 0:0:30,54
+saying, where's Linus?
+
+
+15
+0:0:30,54 --> 0:0:31,96
+Why hasn't he measured
+my tree?
+
+
+16
+0:0:31,96 --> 0:0:33,53
+Doesn't he love me anymore?
+
+
+17
+0:0:33,53 --> 0:0:34,75
+And he walked into my office
+this afternoon.
+
+
+18
+0:0:34,75 --> 0:0:36,61
+What are you doing here?
+
+
+19
+0:0:36,61 --> 0:0:38,61
+But thank you for taking
+the time off.
+
+
+20
+0:0:38,61 --> 0:0:41,595
+So Linus is here today to
+explain to us why on Earth he
+
+
+21
+0:0:41,595 --> 0:0:45,3
+would write a software tool
+which only he is smart enough
+
+
+22
+0:0:45,3 --> 0:0:45,88
+to know how to use.
+
+
+23
+0:0:45,88 --> 0:0:47,13
+Thanks, Linus.
+
+
+24
+0:0:47,13 --> 0:0:56,836
+
+
+
+25
+0:0:56,836 --> 0:1:0,61
+LINUS TORVALDS: So I have a few
+words of warning, which is
+
+
+26
+0:1:0,61 --> 0:1:3,42
+I don't actually do speaking
+very much, partly because I
+
+
+27
+0:1:3,42 --> 0:1:5,73
+don't like speaking, partly
+because over the last few
+
+
+28
+0:1:5,73 --> 0:1:9,86
+years everybody actually wants
+me to talk about nebulous
+
+
+29
+0:1:9,86 --> 0:1:13,21
+visions for the next century
+about Linux.
+
+
+30
+0:1:13,21 --> 0:1:16,99
+And I'm a tech geek, so I
+actually prefer talking about
+
+
+31
+0:1:16,99 --> 0:1:18,27
+technology.
+
+
+32
+0:1:18,27 --> 0:1:21,15
+So that's why I am not talking
+about the kernel, because it's
+
+
+33
+0:1:21,15 --> 0:1:24,38
+just too big to cram into
+a one-hour talk.
+
+
+34
+0:1:24,38 --> 0:1:29,91
+Although apparently, Andrew
+did that two days ago.
+
+
+35
+0:1:29,91 --> 0:1:32,45
+And I'm instead talking about
+Git, which is the source
+
+
+36
+0:1:32,45 --> 0:1:34,86
+control management system that
+we use for the kernel.
+
+
+37
+0:1:34,86 --> 0:1:37,79
+
+
+
+38
+0:1:37,79 --> 0:1:44,1
+I'm really, really, really bad
+at doing slides, which means
+
+
+39
+0:1:44,1 --> 0:1:47,4
+that if we actually end up
+following these slides, you
+
+
+40
+0:1:47,4 --> 0:1:51,15
+will be bored out of your mind
+and the talk will probably not
+
+
+41
+0:1:51,15 --> 0:1:53,56
+be very good anyway.
+
+
+42
+0:1:53,56 --> 0:1:57,1
+So I am the kind of
+speaker who really
+
+
+43
+0:1:57,1 --> 0:1:58,76
+enjoys getting questions.
+
+
+44
+0:1:58,76 --> 0:2:3,33
+And if that means that we kind
+of veer off in a tangent,
+
+
+45
+0:2:3,33 --> 0:2:5,43
+you'll be happier, I'll be
+happier, the talk will
+
+
+46
+0:2:5,43 --> 0:2:7,51
+probably be more interesting
+anyway.
+
+
+47
+0:2:7,51 --> 0:2:10,62
+I don't know how you do things
+here at the Google talks, but
+
+
+48
+0:2:10,62 --> 0:2:14,5
+I'm just saying don't feel shy
+as far as I'm concerned.
+
+
+49
+0:2:14,5 --> 0:2:18,51
+If your manager will shoot
+you, that's your problem.
+
+
+50
+0:2:18,51 --> 0:2:22,31
+So next slide.
+
+
+51
+0:2:22,31 --> 0:2:26,8
+I want to give a few credits
+before I start.
+
+
+52
+0:2:26,8 --> 0:2:32,96
+Credit CVS in a very, very
+negative way because in many
+
+
+53
+0:2:32,96 --> 0:2:38,31
+ways when I designed Git, it's
+the what would Jesus do?
+
+
+54
+0:2:38,31 --> 0:2:43,1
+Except it's what would CVS
+never, ever do kind of
+
+
+55
+0:2:43,1 --> 0:2:46,59
+approach to source control
+management.
+
+
+56
+0:2:46,59 --> 0:2:50,2
+I've never actually used
+CVS for the kernel.
+
+
+57
+0:2:50,2 --> 0:2:53,68
+For the first 10 years of
+kernel maintenance, we
+
+
+58
+0:2:53,68 --> 0:2:57,26
+literally used tarballs and
+patches, which is a much
+
+
+59
+0:2:57,26 --> 0:3:2,84
+superior source control
+management system than CVS is.
+
+
+60
+0:3:2,84 --> 0:3:6,1
+But I did end up using CVS for
+seven years at a commercial
+
+
+61
+0:3:6,1 --> 0:3:10,17
+company and I hated
+it with a passion.
+
+
+62
+0:3:10,17 --> 0:3:13,76
+When I say I hate CVS with a
+passion, I have to also say
+
+
+63
+0:3:13,76 --> 0:3:17,76
+that if there are any SVN users
+in Subversion, users in
+
+
+64
+0:3:17,76 --> 0:3:24,52
+the audience, you might want to
+leave because my hatred of
+
+
+65
+0:3:24,52 --> 0:3:29,12
+CVS has meant that I see
+Subversion as being the most
+
+
+66
+0:3:29,12 --> 0:3:34,8
+pointless project ever started,
+because the slogan
+
+
+67
+0:3:34,8 --> 0:3:39,47
+for Subversion for a while
+was, CVS done right or
+
+
+68
+0:3:39,47 --> 0:3:42,6
+something like that.
+
+
+69
+0:3:42,6 --> 0:3:45,79
+And if you start with that
+kind of slogan, there's
+
+
+70
+0:3:45,79 --> 0:3:48,92
+nowhere you can go.
+
+
+71
+0:3:48,92 --> 0:3:51,96
+There is no way to
+do CVS right.
+
+
+72
+0:3:51,96 --> 0:3:55,35
+So that's the negative
+kind of credit.
+
+
+73
+0:3:55,35 --> 0:3:57,97
+The positive credit
+is BitKeeper.
+
+
+74
+0:3:57,97 --> 0:4:0,9
+And I realize that a lot of
+people thought there was a lot
+
+
+75
+0:4:0,9 --> 0:4:4,54
+of strife over BitKeeper and
+that the parting was very
+
+
+76
+0:4:4,54 --> 0:4:6,12
+painful in many ways.
+
+
+77
+0:4:6,12 --> 0:4:12,2
+As far as I'm concerned, the
+parting was amicable, even
+
+
+78
+0:4:12,2 --> 0:4:16,89
+though it looked very non-amical
+to outsiders.
+
+
+79
+0:4:16,89 --> 0:4:23,41
+And BitKeeper was not only the
+first source control system
+
+
+80
+0:4:23,41 --> 0:4:27,82
+that I ever felt was worth using
+at all, it was also the
+
+
+81
+0:4:27,82 --> 0:4:30,77
+source control system that
+taught me why there's a point
+
+
+82
+0:4:30,77 --> 0:4:33,78
+to them and how you actually
+can do things.
+
+
+83
+0:4:33,78 --> 0:4:37,2
+So Git in many ways, even though
+from a technical angle
+
+
+84
+0:4:37,2 --> 0:4:40,49
+it is very, very different
+from BitKeeper, which was
+
+
+85
+0:4:40,49 --> 0:4:43,49
+another design goal because I
+wanted to make it clear that
+
+
+86
+0:4:43,49 --> 0:4:48,24
+it wasn't a BitKeeper clone, a
+lot of the flows we use with
+
+
+87
+0:4:48,24 --> 0:4:52,63
+Git come directly from
+the flows we
+
+
+88
+0:4:52,63 --> 0:4:55,55
+learned from BitKeeper.
+
+
+89
+0:4:55,55 --> 0:5:1,32
+And I don't think you use
+BitKeeper here inside Google.
+
+
+90
+0:5:1,32 --> 0:5:5,14
+As far as I know, BitKeeper is
+the only commercial source
+
+
+91
+0:5:5,14 --> 0:5:8,63
+control management system that
+actually does distribution.
+
+
+92
+0:5:8,63 --> 0:5:11,81
+And if you need a commercial
+run, that's the one you should
+
+
+93
+0:5:11,81 --> 0:5:13,91
+use, for that reason.
+
+
+94
+0:5:13,91 --> 0:5:18,47
+I'd also like to point out that
+I've been doing Git now
+
+
+95
+0:5:18,47 --> 0:5:24,64
+for slightly over two years, but
+while I started it and I
+
+
+96
+0:5:24,64 --> 0:5:27,99
+made all the initial coding
+design, it's actually being
+
+
+97
+0:5:27,99 --> 0:5:32,31
+maintained by a much more
+pleasant person, Junior
+
+
+98
+0:5:32,31 --> 0:5:34,26
+Hermano, for the last
+year and a half.
+
+
+99
+0:5:34,26 --> 0:5:39,53
+And he's really the person
+who actually made it more
+
+
+100
+0:5:39,53 --> 0:5:42,36
+approachable for mere mortals.
+
+
+101
+0:5:42,36 --> 0:5:46,6
+Early versions of Git did
+require a certain amount of
+
+
+102
+0:5:46,6 --> 0:5:50,21
+brainpower to really wrap
+your mind around.
+
+
+103
+0:5:50,21 --> 0:5:53,5
+It's gotten much, much
+easier since.
+
+
+104
+0:5:53,5 --> 0:5:57,44
+Obviously the way I always do
+everything is I try to get
+
+
+105
+0:5:57,44 --> 0:5:59,91
+everybody else to do as much as
+possible so that I can sit
+
+
+106
+0:5:59,91 --> 0:6:3,16
+back and sip my pina colada, so
+there's been a lot of other
+
+
+107
+0:6:3,16 --> 0:6:4,86
+people involved, too.
+
+
+108
+0:6:4,86 --> 0:6:6,27
+That's the credits.
+
+
+109
+0:6:6,27 --> 0:6:7,68
+With those out of the way.
+
+
+110
+0:6:7,68 --> 0:6:10,66
+
+
+
+111
+0:6:10,66 --> 0:6:17,1
+So this slide is now one day
+old, and I didn't actually do
+
+
+112
+0:6:17,1 --> 0:6:20,55
+the slides last night because
+last night I was out carousing
+
+
+113
+0:6:20,55 --> 0:6:22,36
+and eating sushi.
+
+
+114
+0:6:22,36 --> 0:6:29,37
+But the slides will talk about
+implementation of a high
+
+
+115
+0:6:29,37 --> 0:6:31,9
+performance distributed content
+management thing.
+
+
+116
+0:6:31,9 --> 0:6:35,32
+And the keyword here is actually
+the distributed part.
+
+
+117
+0:6:35,32 --> 0:6:37,96
+I will start off trying
+to explain why
+
+
+118
+0:6:37,96 --> 0:6:40,16
+distribution is so important.
+
+
+119
+0:6:40,16 --> 0:6:42,53
+If we never get past
+that point, I
+
+
+120
+0:6:42,53 --> 0:6:44,53
+will actually be happy.
+
+
+121
+0:6:44,53 --> 0:6:47,55
+If we never get to actually
+what Git implementation
+
+
+122
+0:6:47,55 --> 0:6:51,8
+internally is, it's fine.
+
+
+123
+0:6:51,8 --> 0:6:54,49
+I am not also trying to teach
+you how to use Git.
+
+
+124
+0:6:54,49 --> 0:6:57,6
+There is this thing
+called google.com.
+
+
+125
+0:6:57,6 --> 0:7:0,64
+
+
+
+126
+0:7:0,64 --> 0:7:2,3
+You may have seen it.
+
+
+127
+0:7:2,3 --> 0:7:4,64
+It has this thing you can
+type things into.
+
+
+128
+0:7:4,64 --> 0:7:7,72
+You type Git and then you press
+the I'm Feeling Lucky
+
+
+129
+0:7:7,72 --> 0:7:11,45
+button, and you will actually
+get the home page.
+
+
+130
+0:7:11,45 --> 0:7:17,26
+The home page has tutorials,
+it has the user manual,
+
+
+131
+0:7:17,26 --> 0:7:20,46
+they're all in HTML.
+
+
+132
+0:7:20,46 --> 0:7:23,98
+If you actually want to learn
+to use Git, that's where you
+
+
+133
+0:7:23,98 --> 0:7:26,53
+should start, not
+at this talk.
+
+
+134
+0:7:26,53 --> 0:7:30,11
+But as mentioned, if we actually
+start veering off
+
+
+135
+0:7:30,11 --> 0:7:31,94
+topic into other tangents
+because of
+
+
+136
+0:7:31,94 --> 0:7:36,2
+questions, it's all good.
+
+
+137
+0:7:36,2 --> 0:7:40,78
+I already gave you kind of a
+heads up warning on this.
+
+
+138
+0:7:40,78 --> 0:7:45,8
+I use the SCM, which I consider
+to mean Source Code
+
+
+139
+0:7:45,8 --> 0:7:48,75
+Management, that is,
+revision control.
+
+
+140
+0:7:48,75 --> 0:7:52,81
+Some other people think SCM
+means Software Configuration
+
+
+141
+0:7:52,81 --> 0:7:56,37
+Management and see it as a much
+bigger feature, including
+
+
+142
+0:7:56,37 --> 0:7:58,28
+release management and
+stuff like that.
+
+
+143
+0:7:58,28 --> 0:8:1,8
+That's not what I'm talking
+about, although Git is clearly
+
+
+144
+0:8:1,8 --> 0:8:4,33
+relevant in that setting, too.
+
+
+145
+0:8:4,33 --> 0:8:7,2
+CVS, we already went there.
+
+
+146
+0:8:7,2 --> 0:8:11,69
+You can disagree with me as much
+as you want, but during
+
+
+147
+0:8:11,69 --> 0:8:15,83
+this talk, by definition anybody
+who disagrees is
+
+
+148
+0:8:15,83 --> 0:8:18,56
+stupid and ugly.
+
+
+149
+0:8:18,56 --> 0:8:20,32
+So keep that in mind.
+
+
+150
+0:8:20,32 --> 0:8:23,47
+When I'm done speaking, you can
+go on with their lives.
+
+
+151
+0:8:23,47 --> 0:8:26,7
+Right now, yes.
+
+
+152
+0:8:26,7 --> 0:8:32,4
+I have strong opinions and CVS
+users, if you actually like
+
+
+153
+0:8:32,4 --> 0:8:36,32
+using CVS, you shouldn't
+be here.
+
+
+154
+0:8:36,32 --> 0:8:41,32
+You should be in some mental
+institution somewhere else.
+
+
+155
+0:8:41,32 --> 0:8:44,55
+
+
+
+156
+0:8:44,55 --> 0:8:47,4
+So before actually go and talk
+about the whole distribution
+
+
+157
+0:8:47,4 --> 0:8:50,1
+thing, which I think is the most
+important part, I'll talk
+
+
+158
+0:8:50,1 --> 0:8:53,17
+a bit about the background
+because it invariably comes up
+
+
+159
+0:8:53,17 --> 0:8:57,26
+because people, if they have
+heard about Git, a lot of the
+
+
+160
+0:8:57,26 --> 0:9:0,67
+things they've heard about is
+the background for doing it in
+
+
+161
+0:9:0,67 --> 0:9:1,89
+the first place.
+
+
+162
+0:9:1,89 --> 0:9:6,411
+One piece of background
+information is I really am not
+
+
+163
+0:9:6,411 --> 0:9:7,85
+an SCM person.
+
+
+164
+0:9:7,85 --> 0:9:9,51
+I have never been very
+
+
+165
+0:9:9,51 --> 0:9:10,92
+interested in revision control.
+
+
+166
+0:9:10,92 --> 0:9:14,73
+I thought it was evil until
+I met BitKeeper.
+
+
+167
+0:9:14,73 --> 0:9:18,1
+I actually credit that to some
+degree for why Git is so much
+
+
+168
+0:9:18,1 --> 0:9:19,75
+better than everything else.
+
+
+169
+0:9:19,75 --> 0:9:22,84
+It's because my brain did not
+rot from years and years of
+
+
+170
+0:9:22,84 --> 0:9:26,26
+thinking CVS did
+something sane.
+
+
+171
+0:9:26,26 --> 0:9:28,0
+I needed a replacement
+for BitKeeper.
+
+
+172
+0:9:28,0 --> 0:9:30,55
+The reason for that was
+BitKeeper is a commercial
+
+
+173
+0:9:30,55 --> 0:9:34,5
+product, but BitMover and Larry
+McVoy allowed it to be
+
+
+174
+0:9:34,5 --> 0:9:36,57
+used freely for open
+source projects, as
+
+
+175
+0:9:36,57 --> 0:9:38,71
+some of you may know.
+
+
+176
+0:9:38,71 --> 0:9:41,86
+The only restriction was you
+were not supposed to reverse
+
+
+177
+0:9:41,86 --> 0:9:44,99
+engineer it and you weren't
+supposed to try to create a
+
+
+178
+0:9:44,99 --> 0:9:46,98
+competing product.
+
+
+179
+0:9:46,98 --> 0:9:49,4
+And I was happy with that
+because, quite frankly, as far
+
+
+180
+0:9:49,4 --> 0:9:52,11
+as I'm concerned I do open
+source because I think it's
+
+
+181
+0:9:52,11 --> 0:9:54,1
+the only right way
+to do software.
+
+
+182
+0:9:54,1 --> 0:9:57,74
+But at the same time, I'll use
+the best tool for the job and,
+
+
+183
+0:9:57,74 --> 0:10:0,73
+quite frankly, BitKeeper
+was it.
+
+
+184
+0:10:0,73 --> 0:10:3,78
+However, not everybody
+agreed with me.
+
+
+185
+0:10:3,78 --> 0:10:5,49
+They are ugly and stupid.
+
+
+186
+0:10:5,49 --> 0:10:11,79
+But they cause problems and it
+resulted in the fact that
+
+
+187
+0:10:11,79 --> 0:10:15,17
+Larry and I had several
+telephone conversations which
+
+
+188
+0:10:15,17 --> 0:10:20,13
+ended up saying we'll all be
+much happier if we just part
+
+
+189
+0:10:20,13 --> 0:10:22,63
+ways and don't make
+this any worse.
+
+
+190
+0:10:22,63 --> 0:10:24,19
+So we did.
+
+
+191
+0:10:24,19 --> 0:10:30,61
+And I made the Linux 2.6.12-rc2
+release about two
+
+
+192
+0:10:30,61 --> 0:10:34,4
+years ago and said, I'm not
+going to touch Linux until I
+
+
+193
+0:10:34,4 --> 0:10:40,14
+have a replacement for BitKeeper
+for doing source
+
+
+194
+0:10:40,14 --> 0:10:41,25
+code maintenance.
+
+
+195
+0:10:41,25 --> 0:10:43,99
+And one of the replacement
+options was going back to
+
+
+196
+0:10:43,99 --> 0:10:45,79
+tarballs and patches,
+but nobody
+
+
+197
+0:10:45,79 --> 0:10:48,4
+really liked that anymore.
+
+
+198
+0:10:48,4 --> 0:10:53,37
+So I actually looked at
+a lot of alternatives.
+
+
+199
+0:10:53,37 --> 0:10:58,6
+Most of them I could discard
+without even trying them out.
+
+
+200
+0:10:58,6 --> 0:11:1,33
+If you're not distributed,
+you're not worth using.
+
+
+201
+0:11:1,33 --> 0:11:2,34
+It's that simple.
+
+
+202
+0:11:2,34 --> 0:11:5,6
+If you perform badly, you're
+not worth using.
+
+
+203
+0:11:5,6 --> 0:11:6,62
+It's that simple.
+
+
+204
+0:11:6,62 --> 0:11:10,53
+And if you cannot guarantee that
+the stuff I put into an
+
+
+205
+0:11:10,53 --> 0:11:16,6
+SCM comes out exactly the same,
+you're not worth using.
+
+
+206
+0:11:16,6 --> 0:11:19,1
+Quite frankly, that pretty
+much took care of
+
+
+207
+0:11:19,1 --> 0:11:20,76
+everything out there.
+
+
+208
+0:11:20,76 --> 0:11:24,12
+There's a lot of SCM systems
+that do not guarantee that
+
+
+209
+0:11:24,12 --> 0:11:28,41
+what you get out of it again is
+the same thing you put in.
+
+
+210
+0:11:28,41 --> 0:11:33,37
+If you have memory corruption,
+if you have disk corruption,
+
+
+211
+0:11:33,37 --> 0:11:34,79
+you may never know.
+
+
+212
+0:11:34,79 --> 0:11:38,7
+The only way you'll know is
+you notice that there's
+
+
+213
+0:11:38,7 --> 0:11:42,36
+corruption in the files when
+you check them out.
+
+
+214
+0:11:42,36 --> 0:11:45,8
+The source control management
+system does not protect you at
+
+
+215
+0:11:45,8 --> 0:11:48,41
+all, and this is not
+even uncommon.
+
+
+216
+0:11:48,41 --> 0:11:51,55
+It is very, very common.
+
+
+217
+0:11:51,55 --> 0:11:55,84
+The performance issue, one of
+the things I kind of liked was
+
+
+218
+0:11:55,84 --> 0:11:59,77
+a system called monotone, which
+actually, I think there
+
+
+219
+0:11:59,77 --> 0:12:2,26
+was a talk at Google about
+them some time
+
+
+220
+0:12:2,26 --> 0:12:5,2
+ago, I'm not sure.
+
+
+221
+0:12:5,2 --> 0:12:8,17
+It had a lot of interesting
+ideas, but performance was so
+
+
+222
+0:12:8,17 --> 0:12:14,39
+horrendously bad that I tried it
+for a day and realized that
+
+
+223
+0:12:14,39 --> 0:12:16,23
+I cannot use it.
+
+
+224
+0:12:16,23 --> 0:12:19,69
+The end result was I decided I
+can write something better
+
+
+225
+0:12:19,69 --> 0:12:23,7
+than anything out there in two
+weeks, and I was right.
+
+
+226
+0:12:23,7 --> 0:12:28,73
+So now we get to distribution.
+
+
+227
+0:12:28,73 --> 0:12:31,28
+And this is the worst slide of
+them all, and I'm not very
+
+
+228
+0:12:31,28 --> 0:12:32,41
+proud of it.
+
+
+229
+0:12:32,41 --> 0:12:34,55
+And the problem is distribution
+is really, really
+
+
+230
+0:12:34,55 --> 0:12:37,29
+important, but when I tried
+to make slides about it I
+
+
+231
+0:12:37,29 --> 0:12:38,76
+could not do it.
+
+
+232
+0:12:38,76 --> 0:12:42,69
+And part of it is my obvious
+artistic talents, which are on
+
+
+233
+0:12:42,69 --> 0:12:45,66
+display for all of you, but part
+of it is that it's really
+
+
+234
+0:12:45,66 --> 0:12:48,4
+hard to explain.
+
+
+235
+0:12:48,4 --> 0:12:51,81
+So before you can start, I'd
+like to know how many people
+
+
+236
+0:12:51,81 --> 0:12:55,71
+are used to the notion of a
+truly distributed source
+
+
+237
+0:12:55,71 --> 0:12:56,99
+control management system?
+
+
+238
+0:12:56,99 --> 0:13:1,46
+
+
+
+239
+0:13:1,46 --> 0:13:4,3
+Are most of you kernel
+developers?
+
+
+240
+0:13:4,3 --> 0:13:5,47
+No, OK.
+
+
+241
+0:13:5,47 --> 0:13:9,8
+So there were maybe 10
+hands coming up.
+
+
+242
+0:13:9,8 --> 0:13:15,92
+Being distributed very much
+means that you do not have one
+
+
+243
+0:13:15,92 --> 0:13:20,1
+central location that keeps
+track of your data.
+
+
+244
+0:13:20,1 --> 0:13:23,8
+No single place is more
+important than any other
+
+
+245
+0:13:23,8 --> 0:13:25,31
+single place.
+
+
+246
+0:13:25,31 --> 0:13:28,24
+So for example, this is why I
+would never touch Subversion
+
+
+247
+0:13:28,24 --> 0:13:29,94
+with a 10 foot pole.
+
+
+248
+0:13:29,94 --> 0:13:34,24
+There is a massive Subversion
+repository, and it's where
+
+
+249
+0:13:34,24 --> 0:13:38,4
+everybody has to write.
+
+
+250
+0:13:38,4 --> 0:13:41,54
+The centralized model just
+doesn't work when you want to
+
+
+251
+0:13:41,54 --> 0:13:47,27
+be-- let's look at a
+few of the cases.
+
+
+252
+0:13:47,27 --> 0:13:52,19
+I say it's so much more than
+just offline work, but the
+
+
+253
+0:13:52,19 --> 0:13:56,4
+offline work part is actually
+maybe the most obvious thing,
+
+
+254
+0:13:56,4 --> 0:13:59,82
+which is that you can take a
+truly distributed source
+
+
+255
+0:13:59,82 --> 0:14:2,53
+control management system, you
+can take it on a plane and
+
+
+256
+0:14:2,53 --> 0:14:6,96
+even if they don't offer Wi-Fi
+and satellite hookups, you
+
+
+257
+0:14:6,96 --> 0:14:9,94
+just continue working, you can
+look at all your logs, you can
+
+
+258
+0:14:9,94 --> 0:14:12,68
+commit, you can do everything
+you would do even if you were
+
+
+259
+0:14:12,68 --> 0:14:15,43
+connected to a nice
+gigabit ethernet
+
+
+260
+0:14:15,43 --> 0:14:17,82
+directly to the backbone.
+
+
+261
+0:14:17,82 --> 0:14:19,83
+And that is really important.
+
+
+262
+0:14:19,83 --> 0:14:24,61
+It is doubly important when you
+have hundreds or thousands
+
+
+263
+0:14:24,61 --> 0:14:30,6
+of people working on the same
+project and they may not be
+
+
+264
+0:14:30,6 --> 0:14:33,92
+literally disconnected, but in
+practice they aren't really
+
+
+265
+0:14:33,92 --> 0:14:36,5
+well-connected either.
+
+
+266
+0:14:36,5 --> 0:14:40,56
+So part of distribution is
+this offline work theme.
+
+
+267
+0:14:40,56 --> 0:14:43,86
+Even if it's not completely
+offline, it is important to be
+
+
+268
+0:14:43,86 --> 0:14:47,34
+able to do everything you want
+to do from any location
+
+
+269
+0:14:47,34 --> 0:14:49,64
+without having to be able
+to access the server.
+
+
+270
+0:14:49,64 --> 0:14:53,52
+
+
+
+271
+0:14:53,52 --> 0:15:0,82
+What that basic fact actually
+results in is that you
+
+
+272
+0:15:0,82 --> 0:15:4,63
+effectively have a lot more
+branching because everybody
+
+
+273
+0:15:4,63 --> 0:15:9,26
+who has a complete repository
+and can do commits on his own
+
+
+274
+0:15:9,26 --> 0:15:13,2
+will effectively have his own
+branch, even if you don't
+
+
+275
+0:15:13,2 --> 0:15:13,69
+realize it.
+
+
+276
+0:15:13,69 --> 0:15:17,65
+Even if you think of your
+project as just having a
+
+
+277
+0:15:17,65 --> 0:15:20,75
+single branch, every single
+time you disconnect your
+
+
+278
+0:15:20,75 --> 0:15:23,63
+laptop and start working
+with it, you
+
+
+279
+0:15:23,63 --> 0:15:25,59
+are on your own branch.
+
+
+280
+0:15:25,59 --> 0:15:28,68
+And this is really, really
+important and is very
+
+
+281
+0:15:28,68 --> 0:15:32,82
+different from anybody who's
+used CVS, where branching is
+
+
+282
+0:15:32,82 --> 0:15:36,28
+considered something that
+only true gurus do.
+
+
+283
+0:15:36,28 --> 0:15:40,11
+How many of you have
+ever used CVS?
+
+
+284
+0:15:40,11 --> 0:15:41,4
+OK, everybody.
+
+
+285
+0:15:41,4 --> 0:15:43,89
+How many of you have really
+done a branch and ever
+
+
+286
+0:15:43,89 --> 0:15:46,91
+merged it in CVS?
+
+
+287
+0:15:46,91 --> 0:15:48,31
+Good job.
+
+
+288
+0:15:48,31 --> 0:15:52,37
+I mean, it wasn't everybody but
+it was actually more than
+
+
+289
+0:15:52,37 --> 0:15:53,14
+I expected.
+
+
+290
+0:15:53,14 --> 0:15:57,42
+How many of you enjoyed
+the experience?
+
+
+291
+0:15:57,42 --> 0:15:59,93
+OK, so there were a couple.
+
+
+292
+0:15:59,93 --> 0:16:2,55
+But it is considered hard.
+
+
+293
+0:16:2,55 --> 0:16:7,4
+In CVS, when you merge
+a branch--
+
+
+294
+0:16:7,4 --> 0:16:9,44
+I've done it as little
+as possible, but
+
+
+295
+0:16:9,44 --> 0:16:10,47
+I've had to do it--
+
+
+296
+0:16:10,47 --> 0:16:13,64
+what you do is you plan ahead
+for a week and then you
+
+
+297
+0:16:13,64 --> 0:16:16,32
+basically set aside one
+day for doing it.
+
+
+298
+0:16:16,32 --> 0:16:18,38
+Am I wrong?
+
+
+299
+0:16:18,38 --> 0:16:21,56
+I'm not seeing a lot of people
+say no, it was easy.
+
+
+300
+0:16:21,56 --> 0:16:23,39
+I liked it.
+
+
+301
+0:16:23,39 --> 0:16:25,34
+It's horrible.
+
+
+302
+0:16:25,34 --> 0:16:27,79
+If you're distributed, you have
+to realize that every
+
+
+303
+0:16:27,79 --> 0:16:30,64
+single person has
+his own branch.
+
+
+304
+0:16:30,64 --> 0:16:31,85
+It's horrible.
+
+
+305
+0:16:31,85 --> 0:16:35,68
+It's not something you
+even have to set up.
+
+
+306
+0:16:35,68 --> 0:16:37,19
+It just is.
+
+
+307
+0:16:37,19 --> 0:16:40,6
+In fact, in Git, we like
+branches so much that a lot of
+
+
+308
+0:16:40,6 --> 0:16:42,85
+people just have five or
+ten or fifteen of them.
+
+
+309
+0:16:42,85 --> 0:16:46,75
+Just because once you realize
+that you have to have a
+
+
+310
+0:16:46,75 --> 0:16:49,65
+special branch anyway, you
+might as well have many.
+
+
+311
+0:16:49,65 --> 0:16:53,87
+And one of the branches you do
+some experimental work on and
+
+
+312
+0:16:53,87 --> 0:16:59,23
+one of the branches you
+do maintenance on.
+
+
+313
+0:16:59,23 --> 0:17:2,39
+So branching is much more
+inherent when you do
+
+
+314
+0:17:2,39 --> 0:17:3,64
+distribution.
+
+
+315
+0:17:3,64 --> 0:17:5,74
+
+
+
+316
+0:17:5,74 --> 0:17:10,339
+One of the other things that,
+to me, is very important is
+
+
+317
+0:17:10,339 --> 0:17:15,71
+that by being distributed, you
+also automatically get to be
+
+
+318
+0:17:15,71 --> 0:17:18,349
+slightly more trustworthy.
+
+
+319
+0:17:18,349 --> 0:17:20,49
+I have a theory of
+backup switches.
+
+
+320
+0:17:20,49 --> 0:17:21,56
+I don't do them.
+
+
+321
+0:17:21,56 --> 0:17:25,54
+I put stuff up on one side and
+everybody else mirrors it.
+
+
+322
+0:17:25,54 --> 0:17:30,24
+And if I crash my own machine I
+don't really care, because I
+
+
+323
+0:17:30,24 --> 0:17:33,92
+can just download my own
+work right back.
+
+
+324
+0:17:33,92 --> 0:17:36,52
+And it works beautifully well,
+and I don't have to have an
+
+
+325
+0:17:36,52 --> 0:17:37,47
+MIS department.
+
+
+326
+0:17:37,47 --> 0:17:41,37
+I heartily suggest everybody
+else do the same.
+
+
+327
+0:17:41,37 --> 0:17:46,37
+But this only really works in
+a distributed environment.
+
+
+328
+0:17:46,37 --> 0:17:51,5
+If you use CVS, you
+can't do this.
+
+
+329
+0:17:51,5 --> 0:17:52,38
+What do you use here?
+
+
+330
+0:17:52,38 --> 0:17:53,91
+Perforce?
+
+
+331
+0:17:53,91 --> 0:17:55,15
+Perforce.
+
+
+332
+0:17:55,15 --> 0:17:58,2
+I'm sorry.
+
+
+333
+0:17:58,2 --> 0:18:5,37
+I'm sure it's better than
+CVS. [WHISPERS].
+
+
+334
+0:18:5,37 --> 0:18:6,99
+So that's part of it.
+
+
+335
+0:18:6,99 --> 0:18:11,87
+One of the really nice things
+which is also--
+
+
+336
+0:18:11,87 --> 0:18:15,1
+maybe you don't have this issue
+inside a company, but we
+
+
+337
+0:18:15,1 --> 0:18:17,77
+certainly have it in every
+single open source community
+
+
+338
+0:18:17,77 --> 0:18:20,25
+I've ever seen that uses CVS
+or Subversion or something
+
+
+339
+0:18:20,25 --> 0:18:24,14
+like that-- is you have this
+notion of commit access.
+
+
+340
+0:18:24,14 --> 0:18:26,28
+Because you have a central
+repository, it means that
+
+
+341
+0:18:26,28 --> 0:18:29,37
+everybody who is working on that
+project needs to write to
+
+
+342
+0:18:29,37 --> 0:18:33,48
+the central repository, which
+means that since you don't
+
+
+343
+0:18:33,48 --> 0:18:36,9
+want everybody to write to the
+central repository because
+
+
+344
+0:18:36,9 --> 0:18:40,83
+most people are morons, you
+create this class of people
+
+
+345
+0:18:40,83 --> 0:18:43,61
+who are ostensibly not morons.
+
+
+346
+0:18:43,61 --> 0:18:47,98
+And most of the time, what
+happens is you make that class
+
+
+347
+0:18:47,98 --> 0:18:52,55
+too small because it's really
+hard to know if a person is
+
+
+348
+0:18:52,55 --> 0:18:56,74
+smart or not, and even when
+you make it too small, you
+
+
+349
+0:18:56,74 --> 0:19:2,3
+will have problems. So this
+whole commit access issue,
+
+
+350
+0:19:2,3 --> 0:19:4,71
+which some companies are able
+to ignore by just giving
+
+
+351
+0:19:4,71 --> 0:19:8,95
+everybody commit access, is a
+huge psychological barrier and
+
+
+352
+0:19:8,95 --> 0:19:12,14
+causes endless hours
+of politics in
+
+
+353
+0:19:12,14 --> 0:19:14,4
+most open source projects.
+
+
+354
+0:19:14,4 --> 0:19:18,23
+If you have a distributed
+model, it goes away.
+
+
+355
+0:19:18,23 --> 0:19:19,65
+Everybody has commit access.
+
+
+356
+0:19:19,65 --> 0:19:23,1
+You can do whatever you
+want to your project.
+
+
+357
+0:19:23,1 --> 0:19:27,79
+You just get your own branch,
+you do great work or you do
+
+
+358
+0:19:27,79 --> 0:19:28,81
+stupid work.
+
+
+359
+0:19:28,81 --> 0:19:29,72
+Nobody cares.
+
+
+360
+0:19:29,72 --> 0:19:32,78
+It's your copy, it's
+your branch.
+
+
+361
+0:19:32,78 --> 0:19:37,12
+And later on, if it turns out
+you did a good job, you can
+
+
+362
+0:19:37,12 --> 0:19:39,17
+tell people hey, here's
+my branch.
+
+
+363
+0:19:39,17 --> 0:19:42,64
+And by the way, it performs 10
+times faster than anybody
+
+
+364
+0:19:42,64 --> 0:19:46,31
+else's branch, so nyah
+nyah nyah, how about
+
+
+365
+0:19:46,31 --> 0:19:48,4
+pulling from me?
+
+
+366
+0:19:48,4 --> 0:19:49,6
+And people do.
+
+
+367
+0:19:49,6 --> 0:19:50,82
+And that's actually how
+it works, and we
+
+
+368
+0:19:50,82 --> 0:19:52,41
+never have any politics.
+
+
+369
+0:19:52,41 --> 0:19:57,42
+That's not quite true, but
+we have other politics.
+
+
+370
+0:19:57,42 --> 0:19:59,9
+We don't have to worry about
+the commit access thing.
+
+
+371
+0:19:59,9 --> 0:20:5,77
+And I think this is a huge issue
+and that alone should
+
+
+372
+0:20:5,77 --> 0:20:9,59
+mean that every single open
+source system should never use
+
+
+373
+0:20:9,59 --> 0:20:11,32
+anything but a distributed
+model.
+
+
+374
+0:20:11,32 --> 0:20:14,46
+You get rid of a
+lot of issues.
+
+
+375
+0:20:14,46 --> 0:20:17,61
+One of the things that
+commercial companies,
+
+
+376
+0:20:17,61 --> 0:20:19,55
+distributed models actually
+help also
+
+
+377
+0:20:19,55 --> 0:20:21,33
+with the release process.
+
+
+378
+0:20:21,33 --> 0:20:25,21
+You can have a verification team
+that has its own tree,
+
+
+379
+0:20:25,21 --> 0:20:27,49
+and they pull from people
+and they verify it.
+
+
+380
+0:20:27,49 --> 0:20:30,32
+And when they've verified it,
+they can push it to the
+
+
+381
+0:20:30,32 --> 0:20:34,74
+release team and say, hey, we
+have now verified our version.
+
+
+382
+0:20:34,74 --> 0:20:38,12
+And the development people, they
+can go on playing with
+
+
+383
+0:20:38,12 --> 0:20:39,48
+their head.
+
+
+384
+0:20:39,48 --> 0:20:43,17
+Instead of having to create
+tagged branches, whatever you
+
+
+385
+0:20:43,17 --> 0:20:48,6
+do to try to keep off each
+other's toes, again, you keep
+
+
+386
+0:20:48,6 --> 0:20:52,37
+off each other's toes by just
+every single group can have
+
+
+387
+0:20:52,37 --> 0:20:59,38
+its own tree and track its work
+and what they want done.
+
+
+388
+0:20:59,38 --> 0:21:6,1
+So distributed is really, really
+central to any SCM you
+
+
+389
+0:21:6,1 --> 0:21:8,6
+should ever use.
+
+
+390
+0:21:8,6 --> 0:21:11,856
+So get rid of Perforce now.
+
+
+391
+0:21:11,856 --> 0:21:15,85
+[APPLAUSE]
+
+
+392
+0:21:15,85 --> 0:21:20,35
+LINUS TORVALDS: It's sad,
+but it is so, so true.
+
+
+393
+0:21:20,35 --> 0:21:22,735
+That was my only real slide
+about distribution.
+
+
+394
+0:21:22,735 --> 0:21:25,95
+
+
+
+395
+0:21:25,95 --> 0:21:30,64
+I'd love to get questions,
+because we're now moving into
+
+
+396
+0:21:30,64 --> 0:21:34,0
+other areas that--
+
+
+397
+0:21:34,0 --> 0:21:37,33
+AUDIENCE: So how would
+you do it?
+
+
+398
+0:21:37,33 --> 0:21:41,87
+If you had this monstrously
+awesomely big code base, and
+
+
+399
+0:21:41,87 --> 0:21:45,28
+you wanted to use this without
+stopping business for six
+
+
+400
+0:21:45,28 --> 0:21:48,64
+months, how would you do it?
+
+
+401
+0:21:48,64 --> 0:21:52,85
+LINUS TORVALDS: Stay by the mic
+because I couldn't quite
+
+
+402
+0:21:52,85 --> 0:21:54,84
+make out your question.
+
+
+403
+0:21:54,84 --> 0:21:56,54
+OK, he went away.
+
+
+404
+0:21:56,54 --> 0:21:57,67
+How would you do this?
+
+
+405
+0:21:57,67 --> 0:21:59,875
+AUDIENCE: [INAUDIBLE].
+
+
+406
+0:21:59,875 --> 0:22:6,79
+LINUS TORVALDS: So an example of
+actual distribution is you
+
+
+407
+0:22:6,79 --> 0:22:9,82
+have a group of five people
+working on one small,
+
+
+408
+0:22:9,82 --> 0:22:11,82
+particular feature.
+
+
+409
+0:22:11,82 --> 0:22:16,12
+And that means that for a while,
+that feature will be
+
+
+410
+0:22:16,12 --> 0:22:18,55
+very, very broken, right?
+
+
+411
+0:22:18,55 --> 0:22:21,8
+Because nobody actually creates
+perfect code the first
+
+
+412
+0:22:21,8 --> 0:22:25,99
+time around except me, but
+there's only one of me.
+
+
+413
+0:22:25,99 --> 0:22:31,2
+So what happens is they need
+to have their own tree that
+
+
+414
+0:22:31,2 --> 0:22:35,18
+they can work in without
+affecting other people.
+
+
+415
+0:22:35,18 --> 0:22:37,42
+You can do this many
+different ways.
+
+
+416
+0:22:37,42 --> 0:22:41,11
+In CVS, one of the most common
+ways, because branches are so
+
+
+417
+0:22:41,11 --> 0:22:44,65
+painful, is that you don't
+actually commit.
+
+
+418
+0:22:44,65 --> 0:22:49,38
+You never commit until it passes
+every single test. For
+
+
+419
+0:22:49,38 --> 0:22:53,26
+example, at your company you
+have a very strict committing
+
+
+420
+0:22:53,26 --> 0:22:58,13
+rule saying you will never, ever
+commit until it's past
+
+
+421
+0:22:58,13 --> 0:22:59,31
+the whole test suite.
+
+
+422
+0:22:59,31 --> 0:23:2,23
+And by the way, the fact that
+the test suite takes two hours
+
+
+423
+0:23:2,23 --> 0:23:5,25
+to run, tough.
+
+
+424
+0:23:5,25 --> 0:23:7,49
+You cannot afford to commit.
+
+
+425
+0:23:7,49 --> 0:23:9,15
+And this is something
+that happens at
+
+
+426
+0:23:9,15 --> 0:23:10,29
+every single company.
+
+
+427
+0:23:10,29 --> 0:23:13,53
+I bet it happens even
+here at Google.
+
+
+428
+0:23:13,53 --> 0:23:16,42
+You probably have a strict test
+suite, and you are not
+
+
+429
+0:23:16,42 --> 0:23:19,15
+supposed to commit
+unless it passes.
+
+
+430
+0:23:19,15 --> 0:23:22,76
+And then in practice, people
+make one-liner changes and
+
+
+431
+0:23:22,76 --> 0:23:24,73
+ignore the test suite because
+they know the one-liner
+
+
+432
+0:23:24,73 --> 0:23:25,98
+changes can't possibly break.
+
+
+433
+0:23:25,98 --> 0:23:28,34
+
+
+
+434
+0:23:28,34 --> 0:23:31,87
+This happens.
+
+
+435
+0:23:31,87 --> 0:23:34,58
+This is a horrible,
+horrible model.
+
+
+436
+0:23:34,58 --> 0:23:36,89
+It just means that you make
+huge commits because you
+
+
+437
+0:23:36,89 --> 0:23:40,4
+commit something after you've
+worked on it for two weeks,
+
+
+438
+0:23:40,4 --> 0:23:44,4
+and you have three people
+working in the same sandbox
+
+
+439
+0:23:44,4 --> 0:23:47,98
+because before they commit,
+they can't see the changes
+
+
+440
+0:23:47,98 --> 0:23:49,53
+that the other people made.
+
+
+441
+0:23:49,53 --> 0:23:50,23
+This is common.
+
+
+442
+0:23:50,23 --> 0:23:52,22
+It happens everywhere,
+it's scary.
+
+
+443
+0:23:52,22 --> 0:23:54,98
+The other alternative is to
+use branches even in a
+
+
+444
+0:23:54,98 --> 0:23:56,9
+centralized environment.
+
+
+445
+0:23:56,9 --> 0:23:59,88
+But branches always end up being
+pretty expensive to do,
+
+
+446
+0:23:59,88 --> 0:24:2,15
+so you can't do them for
+experimental features.
+
+
+447
+0:24:2,15 --> 0:24:5,32
+
+
+
+448
+0:24:5,32 --> 0:24:7,52
+You don't know beforehand if
+it's something that's going to
+
+
+449
+0:24:7,52 --> 0:24:11,94
+take one day or two weeks,
+but most of the time most
+
+
+450
+0:24:11,94 --> 0:24:16,76
+programmers say, hey, I can
+do this in 48 hours.
+
+
+451
+0:24:16,76 --> 0:24:20,66
+And it turns out, yeah,
+no you couldn't.
+
+
+452
+0:24:20,66 --> 0:24:24,5
+But because you feel you can do
+it in 48 hours, creating a
+
+
+453
+0:24:24,5 --> 0:24:26,38
+branch, even in systems that
+are better at creating
+
+
+454
+0:24:26,38 --> 0:24:29,21
+branches than CVS,
+is a big pain.
+
+
+455
+0:24:29,21 --> 0:24:32,68
+So you don't do it because you
+think you can get it resolved
+
+
+456
+0:24:32,68 --> 0:24:35,36
+and you're back to
+case number one.
+
+
+457
+0:24:35,36 --> 0:24:38,35
+But if you decide to create
+a branch, you will affect
+
+
+458
+0:24:38,35 --> 0:24:40,89
+everybody else's repository
+because in a centralized
+
+
+459
+0:24:40,89 --> 0:24:43,29
+environment, branches
+are global.
+
+
+460
+0:24:43,29 --> 0:24:45,34
+So you're kind of screwing with
+everybody else, but at
+
+
+461
+0:24:45,34 --> 0:24:49,1
+least you're not screwing with
+their main, head branch.
+
+
+462
+0:24:49,1 --> 0:24:54,1
+You are adding stuff to their
+repositories, but hopefully in
+
+
+463
+0:24:54,1 --> 0:24:56,6
+a way that they won't notice.
+
+
+464
+0:24:56,6 --> 0:25:1,39
+But it does make everybody's
+repositories bigger.
+
+
+465
+0:25:1,39 --> 0:25:3,44
+So either way, you can't win.
+
+
+466
+0:25:3,44 --> 0:25:6,52
+In contrast, in a distributed
+environment, what you do is
+
+
+467
+0:25:6,52 --> 0:25:9,7
+you have five people, they pull
+the current head, which
+
+
+468
+0:25:9,7 --> 0:25:13,12
+is hopefully good and tested,
+and they start working on it
+
+
+469
+0:25:13,12 --> 0:25:14,67
+and they start committing
+on it.
+
+
+470
+0:25:14,67 --> 0:25:18,97
+And you don't need to wait for
+two weeks until your commits
+
+
+471
+0:25:18,97 --> 0:25:22,67
+are stable because your commits
+are always local.
+
+
+472
+0:25:22,67 --> 0:25:25,42
+And what happens is within that
+group of five people, you
+
+
+473
+0:25:25,42 --> 0:25:27,91
+can pull from each other.
+
+
+474
+0:25:27,91 --> 0:25:29,92
+That's what distributed means.
+
+
+475
+0:25:29,92 --> 0:25:33,62
+There's no central location, it
+means everybody's the same.
+
+
+476
+0:25:33,62 --> 0:25:35,91
+So you can merge between
+yourself.
+
+
+477
+0:25:35,91 --> 0:25:40,22
+So not only can you commit every
+single line if you want
+
+
+478
+0:25:40,22 --> 0:25:43,61
+to without having to run the
+two-hour test suite, but you
+
+
+479
+0:25:43,61 --> 0:25:46,77
+can then communicate by pulling
+and merging each
+
+
+480
+0:25:46,77 --> 0:25:51,36
+other's work and one person
+finds the bug again commits it
+
+
+481
+0:25:51,36 --> 0:25:54,19
+and tells the other four people,
+hey, my repository has
+
+
+482
+0:25:54,19 --> 0:25:55,75
+a fix for this.
+
+
+483
+0:25:55,75 --> 0:26:0,13
+And then when that group is done
+two weeks later, they can
+
+
+484
+0:26:0,13 --> 0:26:3,7
+tell their manager, hey,
+we've done this.
+
+
+485
+0:26:3,7 --> 0:26:8,26
+Can you ask the main group to
+pull, and they'll get this new
+
+
+486
+0:26:8,26 --> 0:26:12,8
+feature and by the way, we've
+tested it over two weeks and
+
+
+487
+0:26:12,8 --> 0:26:15,45
+it works and it performs this
+much better because we have
+
+
+488
+0:26:15,45 --> 0:26:19,27
+actually been able to time it
+before we even ask anybody
+
+
+489
+0:26:19,27 --> 0:26:21,79
+else to look at it.
+
+
+490
+0:26:21,79 --> 0:26:25,27
+And that's a hugely better model
+for doing development.
+
+
+491
+0:26:25,27 --> 0:26:29,8
+And this is the model that
+the kernel uses.
+
+
+492
+0:26:29,8 --> 0:26:32,88
+It turns out in many places, we
+don't need all that power,
+
+
+493
+0:26:32,88 --> 0:26:35,16
+even in the kernel.
+
+
+494
+0:26:35,16 --> 0:26:45,73
+So people usually don't pull
+within one group, but does it
+
+
+495
+0:26:45,73 --> 0:26:46,43
+does happen.
+
+
+496
+0:26:46,43 --> 0:26:48,82
+For example, the networking
+people sometimes affect the
+
+
+497
+0:26:48,82 --> 0:26:51,34
+NFS people, and the
+fact that they can
+
+
+498
+0:26:51,34 --> 0:26:55,12
+synchronize actually helps.
+
+
+499
+0:26:55,12 --> 0:26:58,29
+So this is a real, practical
+advantage.
+
+
+500
+0:26:58,29 --> 0:26:59,34
+Somebody else has a question.
+
+
+501
+0:26:59,34 --> 0:27:2,84
+AUDIENCE: So it feels like the
+politics has just been moved
+
+
+502
+0:27:2,84 --> 0:27:4,7
+to an indirect political
+question.
+
+
+503
+0:27:4,7 --> 0:27:7,7
+If everyone's got access and
+they're all playing with their
+
+
+504
+0:27:7,7 --> 0:27:8,84
+branches and they have their
+sandbox and they're having
+
+
+505
+0:27:8,84 --> 0:27:11,17
+fun, at the end of the day there
+has to be merging and
+
+
+506
+0:27:11,17 --> 0:27:13,99
+resolving unless you have
+80 billion flavors
+
+
+507
+0:27:13,99 --> 0:27:14,93
+of every Linux kernel.
+
+
+508
+0:27:14,93 --> 0:27:16,18
+LINUS TORVALDS: Absolutely.
+
+
+509
+0:27:16,18 --> 0:27:18,34
+
+
+
+510
+0:27:18,34 --> 0:27:21,92
+There will be 1,000 or maybe
+20,000 different branches, but
+
+
+511
+0:27:21,92 --> 0:27:24,82
+in practice you won't ever see
+them because they won't care.
+
+
+512
+0:27:24,82 --> 0:27:27,22
+You will see like a few
+main branches, maybe
+
+
+513
+0:27:27,22 --> 0:27:28,58
+you'll see only one.
+
+
+514
+0:27:28,58 --> 0:27:31,28
+In the case of the kernel, a lot
+of people they only really
+
+
+515
+0:27:31,28 --> 0:27:32,79
+look at my branch.
+
+
+516
+0:27:32,79 --> 0:27:34,8
+So even though there are
+lots of branches,
+
+
+517
+0:27:34,8 --> 0:27:36,34
+you can ignore them.
+
+
+518
+0:27:36,34 --> 0:27:40,18
+What happens is the way merging
+is done is the way
+
+
+519
+0:27:40,18 --> 0:27:44,97
+real security is done, by a
+network of trust. If you have
+
+
+520
+0:27:44,97 --> 0:27:48,67
+ever done any security work
+and it did not involve the
+
+
+521
+0:27:48,67 --> 0:27:51,77
+concept of network of trust,
+it wasn't security work.
+
+
+522
+0:27:51,77 --> 0:27:54,23
+It was masturbation.
+
+
+523
+0:27:54,23 --> 0:27:57,19
+I don't know what you were
+doing, but trust me, it's the
+
+
+524
+0:27:57,19 --> 0:28:0,56
+only way you can do security,
+it's the only way you can do
+
+
+525
+0:28:0,56 --> 0:28:1,78
+development.
+
+
+526
+0:28:1,78 --> 0:28:5,62
+The way I work, I don't
+trust everybody.
+
+
+527
+0:28:5,62 --> 0:28:9,85
+In fact, I am a very cynical
+and untrusting person.
+
+
+528
+0:28:9,85 --> 0:28:13,92
+I think most of you are
+completely incompetent.
+
+
+529
+0:28:13,92 --> 0:28:16,39
+The whole point of being
+distributed is I don't
+
+
+530
+0:28:16,39 --> 0:28:17,2
+have to trust you.
+
+
+531
+0:28:17,2 --> 0:28:19,36
+I don't have to give
+you commit access.
+
+
+532
+0:28:19,36 --> 0:28:24,4
+But I know that among the
+multitude of average people,
+
+
+533
+0:28:24,4 --> 0:28:28,1
+there are some people that just
+stand out, that I trust
+
+
+534
+0:28:28,1 --> 0:28:30,89
+because I've been working
+with them.
+
+
+535
+0:28:30,89 --> 0:28:36,84
+I only need to trust
+5, 10, 15 people.
+
+
+536
+0:28:36,84 --> 0:28:40,74
+If I have a network of trust
+that covers those 5, 10, 15
+
+
+537
+0:28:40,74 --> 0:28:43,81
+people that are outstanding
+and I know they're
+
+
+538
+0:28:43,81 --> 0:28:48,6
+outstanding, I can
+pull from them.
+
+
+539
+0:28:48,6 --> 0:28:51,42
+I don't have to spend a lot of
+brain power on the question.
+
+
+540
+0:28:51,42 --> 0:28:54,53
+When Andrew sends me patches--
+he doesn't actually use Git,
+
+
+541
+0:28:54,53 --> 0:28:57,24
+it's some kind of defect--
+
+
+542
+0:28:57,24 --> 0:29:1,65
+other than that, he's
+a very solid person.
+
+
+543
+0:29:1,65 --> 0:29:4,65
+When he asks me to pull, he
+does it by sending me a
+
+
+544
+0:29:4,65 --> 0:29:5,34
+million patches.
+
+
+545
+0:29:5,34 --> 0:29:8,4
+Instead, I just do it.
+
+
+546
+0:29:8,4 --> 0:29:11,91
+Sometimes I disagree with some
+of these patches, but at some
+
+
+547
+0:29:11,91 --> 0:29:16,45
+point, trust means never having
+to say you're sorry.
+
+
+548
+0:29:16,45 --> 0:29:17,41
+I don't know.
+
+
+549
+0:29:17,41 --> 0:29:20,3
+It basically means you
+have to accept
+
+
+550
+0:29:20,3 --> 0:29:23,1
+other people's decisions.
+
+
+551
+0:29:23,1 --> 0:29:26,64
+The nice thing about trust is it
+does network, that's where
+
+
+552
+0:29:26,64 --> 0:29:28,51
+the network of trust comes in.
+
+
+553
+0:29:28,51 --> 0:29:31,45
+I only need to trust a
+few people that much.
+
+
+554
+0:29:31,45 --> 0:29:34,62
+They have other people, they
+have determined, hey, that guy
+
+
+555
+0:29:34,62 --> 0:29:36,5
+is actually smarter than I am.
+
+
+556
+0:29:36,5 --> 0:29:39,5
+That's actually a really
+good measure of who
+
+
+557
+0:29:39,5 --> 0:29:40,87
+you should pull from.
+
+
+558
+0:29:40,87 --> 0:29:43,24
+If you have determined that
+somebody else is smarter than
+
+
+559
+0:29:43,24 --> 0:29:45,54
+you, go for it.
+
+
+560
+0:29:45,54 --> 0:29:48,6
+You can't lose, right?
+
+
+561
+0:29:48,6 --> 0:29:50,51
+Even if it turns out you pulled
+crap and somebody else
+
+
+562
+0:29:50,51 --> 0:29:53,63
+starts complaining, you know
+who you pulled from and you
+
+
+563
+0:29:53,63 --> 0:29:55,27
+can just point to the
+other person and
+
+
+564
+0:29:55,27 --> 0:29:57,45
+say, hey, I just pulled.
+
+
+565
+0:29:57,45 --> 0:29:59,39
+Go to him, he knows
+what he's doing.
+
+
+566
+0:29:59,39 --> 0:30:0,44
+So that's how I work.
+
+
+567
+0:30:0,44 --> 0:30:2,58
+That's probably most of
+my lieutenants work.
+
+
+568
+0:30:2,58 --> 0:30:5,21
+
+
+
+569
+0:30:5,21 --> 0:30:9,6
+I pull the networking changes
+from one person, he gets them
+
+
+570
+0:30:9,6 --> 0:30:13,7
+from many other people that he's
+worked with over time.
+
+
+571
+0:30:13,7 --> 0:30:15,26
+So this is how it all
+comes together.
+
+
+572
+0:30:15,26 --> 0:30:18,58
+It doesn't have to come
+together to one point.
+
+
+573
+0:30:18,58 --> 0:30:21,37
+In the kernel, it comes together
+to one point largely
+
+
+574
+0:30:21,37 --> 0:30:23,15
+I think for historical
+reasons.
+
+
+575
+0:30:23,15 --> 0:30:27,48
+And actually, I've always tried
+to encourage people to
+
+
+576
+0:30:27,48 --> 0:30:29,9
+have more trees.
+
+
+577
+0:30:29,9 --> 0:30:33,62
+So we do have vendor trees, we
+do have -mm trees, we have
+
+
+578
+0:30:33,62 --> 0:30:37,68
+multiple one points, and it
+happens to be that my one
+
+
+579
+0:30:37,68 --> 0:30:39,76
+point is getting maybe
+more attention
+
+
+580
+0:30:39,76 --> 0:30:41,76
+than it always should.
+
+
+581
+0:30:41,76 --> 0:30:44,59
+But even if it doesn't come down
+to one point, it means
+
+
+582
+0:30:44,59 --> 0:30:47,63
+that you can take these
+thousands of branches and
+
+
+583
+0:30:47,63 --> 0:30:50,86
+ignore 99.9% of them.
+
+
+584
+0:30:50,86 --> 0:30:53,47
+And you know that, hey, there
+are five branches that are
+
+
+585
+0:30:53,47 --> 0:30:55,76
+really interesting to follow
+because I'm interested in
+
+
+586
+0:30:55,76 --> 0:30:57,31
+those sub-areas.
+
+
+587
+0:30:57,31 --> 0:30:59,38
+And it all works
+very naturally.
+
+
+588
+0:30:59,38 --> 0:31:2,46
+One of the nice things about
+this whole network of trust is
+
+
+589
+0:31:2,46 --> 0:31:6,4
+it's not just easy to do
+technically, it's actually how
+
+
+590
+0:31:6,4 --> 0:31:9,33
+every single person in this
+room is very fundamentally
+
+
+591
+0:31:9,33 --> 0:31:11,12
+wired to work.
+
+
+592
+0:31:11,12 --> 0:31:12,78
+It is how we think.
+
+
+593
+0:31:12,78 --> 0:31:15,44
+We don't know 100 people.
+
+
+594
+0:31:15,44 --> 0:31:20,94
+We have five, seven, ten close,
+personal friends.
+
+
+595
+0:31:20,94 --> 0:31:22,71
+Well, we're geeks,
+so we have two.
+
+
+596
+0:31:22,71 --> 0:31:26,44
+But I mean, that's basically
+how humans work, is that we
+
+
+597
+0:31:26,44 --> 0:31:29,29
+have these people that we really
+trust. It's family,
+
+
+598
+0:31:29,29 --> 0:31:31,17
+it's close friends.
+
+
+599
+0:31:31,17 --> 0:31:34,6
+And it really fits.
+
+
+600
+0:31:34,6 --> 0:31:36,23
+You don't even have to
+have a mental model.
+
+
+601
+0:31:36,23 --> 0:31:39,39
+It fits how we are wired up.
+
+
+602
+0:31:39,39 --> 0:31:42,27
+So there's huge advantages to
+this whole model network of
+
+
+603
+0:31:42,27 --> 0:31:45,35
+trust.
+
+
+604
+0:31:45,35 --> 0:31:47,33
+AUDIENCE: Do you know any
+companies that are using
+
+
+605
+0:31:47,33 --> 0:31:48,87
+distributed systems
+internally?
+
+
+606
+0:31:48,87 --> 0:31:52,79
+It seems like there might be a
+risk of vulcanizing the code
+
+
+607
+0:31:52,79 --> 0:31:56,35
+base as people not being in
+the same sandbox don't
+
+
+608
+0:31:56,35 --> 0:31:56,94
+contribute back.
+
+
+609
+0:31:56,94 --> 0:31:58,89
+LINUS TORVALDS: So quite
+frankly, there aren't that
+
+
+610
+0:31:58,89 --> 0:32:2,9
+many distributed systems.
+There is BitKeeper.
+
+
+611
+0:32:2,9 --> 0:32:6,8
+It is clearly being used at
+commercial companies.
+
+
+612
+0:32:6,8 --> 0:32:10,8
+We might have somebody in the
+audience who actually knows.
+
+
+613
+0:32:10,8 --> 0:32:10,57
+What?
+
+
+614
+0:32:10,57 --> 0:32:12,194
+AUDIENCE: [INAUDIBLE].
+
+
+615
+0:32:12,194 --> 0:32:15,7
+LINUS TORVALDS: So HP is using
+things like BitKeeper for the
+
+
+616
+0:32:15,7 --> 0:32:16,58
+printer project.
+
+
+617
+0:32:16,58 --> 0:32:19,2
+I'm sure they have a
+lot more companies.
+
+
+618
+0:32:19,2 --> 0:32:23,91
+In the open source world, there
+are two distributed
+
+
+619
+0:32:23,91 --> 0:32:26,69
+systems that are worth
+looking at right now.
+
+
+620
+0:32:26,69 --> 0:32:30,4
+One of them is obviously Git
+and you really should pick
+
+
+621
+0:32:30,4 --> 0:32:33,51
+that one, but the other one is
+Mercurial, which actually has
+
+
+622
+0:32:33,51 --> 0:32:36,65
+pretty much the same
+time design.
+
+
+623
+0:32:36,65 --> 0:32:40,46
+There are huge differences in
+implementation and there are
+
+
+624
+0:32:40,46 --> 0:32:44,49
+some differences in details,
+but it boils down to a very
+
+
+625
+0:32:44,49 --> 0:32:45,165
+similar model.
+
+
+626
+0:32:45,165 --> 0:32:48,7
+Git just does it better.
+
+
+627
+0:32:48,7 --> 0:32:51,6
+Everything else, it's either
+centralized or it is too
+
+
+628
+0:32:51,6 --> 0:32:54,75
+unstable or too slow to
+use for anything big.
+
+
+629
+0:32:54,75 --> 0:32:58,4
+AUDIENCE: Right, but is there an
+advantage for a company to
+
+
+630
+0:32:58,4 --> 0:33:0,1
+have everybody playing
+in the same sandbox?
+
+
+631
+0:33:0,1 --> 0:33:2,17
+LINUS TORVALDS: I think a lot of
+companies think there is an
+
+
+632
+0:33:2,17 --> 0:33:3,95
+advantage to that.
+
+
+633
+0:33:3,95 --> 0:33:6,79
+I know that inside companies,
+I don't think a lot of
+
+
+634
+0:33:6,79 --> 0:33:10,18
+companies use Git knowingly
+in the sense that it
+
+
+635
+0:33:10,18 --> 0:33:13,53
+is a company decision.
+
+
+636
+0:33:13,53 --> 0:33:17,6
+I know several companies who
+use Git internally, not
+
+
+637
+0:33:17,6 --> 0:33:19,9
+knowing that they do so because
+they actually have
+
+
+638
+0:33:19,9 --> 0:33:23,41
+their main repository in
+Subversion and a lot of
+
+
+639
+0:33:23,41 --> 0:33:26,7
+developers then import it into
+Git because Git can actually
+
+
+640
+0:33:26,7 --> 0:33:28,43
+merge things for you.
+
+
+641
+0:33:28,43 --> 0:33:34,78
+So you can take a Subversion
+tree, just import it into Git,
+
+
+642
+0:33:34,78 --> 0:33:38,666
+let Git do the merge, which
+would be a major headache to
+
+
+643
+0:33:38,666 --> 0:33:41,55
+do in Subversion, create a merge
+commit, and actually
+
+
+644
+0:33:41,55 --> 0:33:45,71
+export it back to Subversion,
+and nobody else even
+
+
+645
+0:33:45,71 --> 0:33:47,94
+knew you used Git.
+
+
+646
+0:33:47,94 --> 0:33:53,1
+It's kind of sad, but we have
+cases of people talking about
+
+
+647
+0:33:53,1 --> 0:33:56,57
+doing exactly that
+inside companies.
+
+
+648
+0:33:56,57 --> 0:34:1,38
+Git has not been around in a
+form where a lot of people
+
+
+649
+0:34:1,38 --> 0:34:6,57
+will be comfortable using
+it for more than
+
+
+650
+0:34:6,57 --> 0:34:8,75
+half a year or so.
+
+
+651
+0:34:8,75 --> 0:34:14,11
+We have had so huge improvements
+to the user
+
+
+652
+0:34:14,11 --> 0:34:17,8
+interfaces that realistically,
+a year ago at a commercial
+
+
+653
+0:34:17,8 --> 0:34:20,37
+company a lot of people
+would just have said
+
+
+654
+0:34:20,37 --> 0:34:22,159
+it's too hard to use.
+
+
+655
+0:34:22,159 --> 0:34:24,57
+I think we're way
+past that hump.
+
+
+656
+0:34:24,57 --> 0:34:27,199
+Git is much easier to use
+than CVS, really.
+
+
+657
+0:34:27,199 --> 0:34:29,909
+
+
+
+658
+0:34:29,909 --> 0:34:32,17
+It's easier to use than
+anything else.
+
+
+659
+0:34:32,17 --> 0:34:34,199
+Just get over it.
+
+
+660
+0:34:34,199 --> 0:34:36,33
+You don't have to use all
+the powerful tools.
+
+
+661
+0:34:36,33 --> 0:34:42,699
+Some of them might be things
+you want to explain and
+
+
+662
+0:34:42,699 --> 0:34:45,87
+introduce to people only after
+they got over the initial hump
+
+
+663
+0:34:45,87 --> 0:34:48,25
+of understanding what
+distribution really means.
+
+
+664
+0:34:48,25 --> 0:34:53,838
+But the basic stuff is
+really easy to do.
+
+
+665
+0:34:53,838 --> 0:34:57,5
+AUDIENCE: One characteristic
+of a centralized system is
+
+
+666
+0:34:57,5 --> 0:34:59,61
+that it's the original developer
+who has to resolve
+
+
+667
+0:34:59,61 --> 0:35:1,51
+any merges, who has
+to fix merges.
+
+
+668
+0:35:1,51 --> 0:35:2,88
+How do you do that in
+Git and how do you
+
+
+669
+0:35:2,88 --> 0:35:4,7
+minimize merge conflicts?
+
+
+670
+0:35:4,7 --> 0:35:6,5
+LINUS TORVALDS: Thank you for
+asking me that question.
+
+
+671
+0:35:6,5 --> 0:35:8,66
+Did I tell you to ask
+that question first?
+
+
+672
+0:35:8,66 --> 0:35:13,48
+One of the really nice parts
+of Git is A, it does make
+
+
+673
+0:35:13,48 --> 0:35:19,3
+things much easier to merge than
+a lot of other systems.
+
+
+674
+0:35:19,3 --> 0:35:24,19
+Merging a branch in CVS tends
+to be really painful.
+
+
+675
+0:35:24,19 --> 0:35:27,84
+One of my main statistics is the
+kernel is actually one of
+
+
+676
+0:35:27,84 --> 0:35:29,36
+the biggest open source
+projects.
+
+
+677
+0:35:29,36 --> 0:35:31,32
+We have 22,000 files.
+
+
+678
+0:35:31,32 --> 0:35:33,46
+We've used Git for two years.
+
+
+679
+0:35:33,46 --> 0:35:36,99
+During those two years, we have
+averaged 4.5 merges a
+
+
+680
+0:35:36,99 --> 0:35:39,98
+day, every single day.
+
+
+681
+0:35:39,98 --> 0:35:41,93
+That's not something you'd
+do in something
+
+
+682
+0:35:41,93 --> 0:35:43,45
+where merging was hard.
+
+
+683
+0:35:43,45 --> 0:35:48,14
+So Git makes merging easy, but
+you will in inevitably have
+
+
+684
+0:35:48,14 --> 0:35:55,44
+cases where two maintainers send
+me the question to please
+
+
+685
+0:35:55,44 --> 0:35:56,16
+pull my stuff.
+
+
+686
+0:35:56,16 --> 0:35:59,1
+And I pick one of them at random
+usually, because their
+
+
+687
+0:35:59,1 --> 0:36:2,47
+mail happened to be first in
+my mailbox, and I have pull
+
+
+688
+0:36:2,47 --> 0:36:3,71
+their stuff.
+
+
+689
+0:36:3,71 --> 0:36:8,9
+And another person had
+made changes that--
+
+
+690
+0:36:8,9 --> 0:36:12,0
+it doesn't happen that often,
+but it does happen--
+
+
+691
+0:36:12,0 --> 0:36:18,39
+just clashed so much that I
+said, I could fix this up but
+
+
+692
+0:36:18,39 --> 0:36:19,83
+I really don't want to.
+
+
+693
+0:36:19,83 --> 0:36:23,4
+I didn't write the code, it's
+not my area of expertise, its
+
+
+694
+0:36:23,4 --> 0:36:26,49
+networking or something like
+that, I can't really judge it,
+
+
+695
+0:36:26,49 --> 0:36:30,2
+I can't test it, so asking
+me to resolve the
+
+
+696
+0:36:30,2 --> 0:36:31,29
+merge is just crazy.
+
+
+697
+0:36:31,29 --> 0:36:35,5
+It's not how you should
+do things.
+
+
+698
+0:36:35,5 --> 0:36:37,35
+OK, the Windows machine
+flaked out again.
+
+
+699
+0:36:37,35 --> 0:36:41,12
+
+
+
+700
+0:36:41,12 --> 0:36:44,62
+Remember, distribution means
+nobody is special.
+
+
+701
+0:36:44,62 --> 0:36:49,43
+So instead of me merging, I just
+push out my first tree
+
+
+702
+0:36:49,43 --> 0:36:52,88
+that didn't have any merge
+issues and I tell the second
+
+
+703
+0:36:52,88 --> 0:36:58,25
+person, hey, I tried to pull
+from you but I had merge
+
+
+704
+0:36:58,25 --> 0:37:0,99
+conflicts and they weren't
+completely trivial, so I
+
+
+705
+0:37:0,99 --> 0:37:4,18
+decided you get to do
+the honors instead.
+
+
+706
+0:37:4,18 --> 0:37:5,39
+And they do.
+
+
+707
+0:37:5,39 --> 0:37:7,0
+And they know what
+they're doing
+
+
+708
+0:37:7,0 --> 0:37:8,65
+because it's their changes.
+
+
+709
+0:37:8,65 --> 0:37:11,31
+So they can do the merge and
+they probably think I'm a
+
+
+710
+0:37:11,31 --> 0:37:14,34
+moron because the merge was so
+easy and it was obvious I
+
+
+711
+0:37:14,34 --> 0:37:17,9
+should have taken their code.
+
+
+712
+0:37:17,9 --> 0:37:20,67
+But they do the merge and then
+they update their tree and
+
+
+713
+0:37:20,67 --> 0:37:22,71
+say, hey, can you pull
+from me now?
+
+
+714
+0:37:22,71 --> 0:37:25,65
+And I pull from them and they
+did all the work for me.
+
+
+715
+0:37:25,65 --> 0:37:27,16
+That's what it's all about.
+
+
+716
+0:37:27,16 --> 0:37:30,37
+They did all the work for me.
+
+
+717
+0:37:30,37 --> 0:37:33,56
+And I take the credit.
+
+
+718
+0:37:33,56 --> 0:37:35,975
+Now I just need to figure
+out step three, profit.
+
+
+719
+0:37:35,975 --> 0:37:39,57
+
+
+
+720
+0:37:39,57 --> 0:37:43,45
+But that's another thing that
+comes very naturally from
+
+
+721
+0:37:43,45 --> 0:37:44,52
+being distributed.
+
+
+722
+0:37:44,52 --> 0:37:49,2
+It's not something that
+is special to Git.
+
+
+723
+0:37:49,2 --> 0:37:55,15
+Git makes merging easier than
+anything else, but Git does it
+
+
+724
+0:37:55,15 --> 0:37:57,3
+exactly because Git
+is distributed.
+
+
+725
+0:37:57,3 --> 0:37:57,825
+Yes.
+
+
+726
+0:37:57,825 --> 0:38:0,94
+AUDIENCE: So I guess I don't
+entirely understand why you
+
+
+727
+0:38:0,94 --> 0:38:6,29
+think that its necessary to have
+a distributed system--
+
+
+728
+0:38:6,29 --> 0:38:11,51
+it seems like you get a lot of
+the good effects, at least for
+
+
+729
+0:38:11,51 --> 0:38:12,12
+corporate development.
+
+
+730
+0:38:12,12 --> 0:38:13,93
+For open source development,
+it seems very useful that
+
+
+731
+0:38:13,93 --> 0:38:15,62
+everybody can work
+on their own.
+
+
+732
+0:38:15,62 --> 0:38:20,43
+But when you really have a
+centralized, corporate tree,
+
+
+733
+0:38:20,43 --> 0:38:23,5
+then a centralized system with
+really cheap branches,
+
+
+734
+0:38:23,5 --> 0:38:25,972
+wouldn't that give you pretty
+much the same effect?
+
+
+735
+0:38:25,972 --> 0:38:28,52
+Or is that just impossible
+to do?
+
+
+736
+0:38:28,52 --> 0:38:29,77
+LINUS TORVALDS: No.
+
+
+737
+0:38:29,77 --> 0:38:32,47
+
+
+
+738
+0:38:32,47 --> 0:38:35,9
+I will argue that centralized
+systems can't work.
+
+
+739
+0:38:35,9 --> 0:38:39,38
+But it is clearly true that if
+you're in a tightly controlled
+
+
+740
+0:38:39,38 --> 0:38:41,51
+corporate environment,
+centralized
+
+
+741
+0:38:41,51 --> 0:38:42,9
+systems work better.
+
+
+742
+0:38:42,9 --> 0:38:45,54
+And it's unquestionably true
+that people have been able to
+
+
+743
+0:38:45,54 --> 0:38:49,1
+use centralized system for
+the last 35 years.
+
+
+744
+0:38:49,1 --> 0:38:51,49
+Nobody's really arguing
+that centralized
+
+
+745
+0:38:51,49 --> 0:38:53,94
+systems cannot work.
+
+
+746
+0:38:53,94 --> 0:38:57,53
+They cannot work as well as
+distributed systems. One of
+
+
+747
+0:38:57,53 --> 0:39:1,44
+the issues you tend to have is
+centralized systems inevitably
+
+
+748
+0:39:1,44 --> 0:39:5,69
+have problems when you have
+groups in different locations.
+
+
+749
+0:39:5,69 --> 0:39:8,28
+It tends to work really well
+if you have a really beefy
+
+
+750
+0:39:8,28 --> 0:39:9,42
+background fiber.
+
+
+751
+0:39:9,42 --> 0:39:12,74
+And I guess for Google, you
+probably do have some kind of
+
+
+752
+0:39:12,74 --> 0:39:13,69
+network going.
+
+
+753
+0:39:13,69 --> 0:39:14,68
+I don't know.
+
+
+754
+0:39:14,68 --> 0:39:18,9
+And maybe it's not as big of
+an issue as it is for other
+
+
+755
+0:39:18,9 --> 0:39:21,77
+projects, but trust me.
+
+
+756
+0:39:21,77 --> 0:39:25,55
+Not having to go over the
+network for everything is a
+
+
+757
+0:39:25,55 --> 0:39:26,82
+huge performance saver.
+
+
+758
+0:39:26,82 --> 0:39:29,85
+
+
+
+759
+0:39:29,85 --> 0:39:32,16
+I can't show you demonstrations
+and it's not a
+
+
+760
+0:39:32,16 --> 0:39:35,13
+very interesting demonstration
+anyway, but this is a laptop
+
+
+761
+0:39:35,13 --> 0:39:38,27
+that is what, four or
+five years old.
+
+
+762
+0:39:38,27 --> 0:39:41,79
+It's like a Pentium M
+1.6 gigahertz thing.
+
+
+763
+0:39:41,79 --> 0:39:47,21
+I could show you me doing a
+full diff of the kernel on
+
+
+764
+0:39:47,21 --> 0:39:53,8
+that laptop in whatever,
+just over a second.
+
+
+765
+0:39:53,8 --> 0:39:57,4
+On my main machine, it takes
+less than 1/10 of a second.
+
+
+766
+0:39:57,4 --> 0:40:3,17
+That's the kind of performance
+you simply cannot get if you
+
+
+767
+0:40:3,17 --> 0:40:5,26
+have to go over a network.
+
+
+768
+0:40:5,26 --> 0:40:8,37
+We're talking a couple of
+packets going over the network
+
+
+769
+0:40:8,37 --> 0:40:11,3
+and you just blew
+the performance.
+
+
+770
+0:40:11,3 --> 0:40:15,82
+So if you have a decentralized
+system and you're used to
+
+
+771
+0:40:15,82 --> 0:40:20,14
+having something like commit
+or diffing the whole source
+
+
+772
+0:40:20,14 --> 0:40:24,4
+tree taking 30 seconds.
+
+
+773
+0:40:24,4 --> 0:40:27,46
+Maybe 30 seconds doesn't
+sound that bad to you.
+
+
+774
+0:40:27,46 --> 0:40:30,94
+Trust me, when you're used to
+taking 1/10 of a second, 30
+
+
+775
+0:40:30,94 --> 0:40:33,75
+seconds sounds pretty bad.
+
+
+776
+0:40:33,75 --> 0:40:37,49
+So there are huge performance
+issues even if you have a good
+
+
+777
+0:40:37,49 --> 0:40:41,26
+network, nevermind the fact that
+most people don't have a
+
+
+778
+0:40:41,26 --> 0:40:42,68
+good network.
+
+
+779
+0:40:42,68 --> 0:40:45,55
+The other thing is branches,
+even if you make them
+
+
+780
+0:40:45,55 --> 0:40:49,1
+technically very cheap to
+create, just the fact that you
+
+
+781
+0:40:49,1 --> 0:40:54,5
+create them and everybody sees
+them because everybody will
+
+
+782
+0:40:54,5 --> 0:40:57,5
+see them since they're
+centralized, basically means
+
+
+783
+0:40:57,5 --> 0:41:0,55
+that you don't want to make
+branches willy nilly.
+
+
+784
+0:41:0,55 --> 0:41:2,71
+You will have namespace
+issues.
+
+
+785
+0:41:2,71 --> 0:41:4,12
+What do you call your branch?
+
+
+786
+0:41:4,12 --> 0:41:5,35
+Would you call it Test?
+
+
+787
+0:41:5,35 --> 0:41:9,23
+Oh by the way, there's 5,000
+other branches called Test 1
+
+
+788
+0:41:9,23 --> 0:41:11,41
+through 5,000.
+
+
+789
+0:41:11,41 --> 0:41:14,48
+So now you have to make up all
+these naming rules for your
+
+
+790
+0:41:14,48 --> 0:41:17,57
+branches because you have a
+centralized system that has a
+
+
+791
+0:41:17,57 --> 0:41:21,4
+centralized branch namespace,
+which is kind of inevitable
+
+
+792
+0:41:21,4 --> 0:41:23,97
+when you have a centralized
+system.
+
+
+793
+0:41:23,97 --> 0:41:27,64
+How does that work in
+distributed environments?
+
+
+794
+0:41:27,64 --> 0:41:30,71
+You call your branch test,
+and it's that easy.
+
+
+795
+0:41:30,71 --> 0:41:32,21
+Actually, you shouldn't
+call it tests.
+
+
+796
+0:41:32,21 --> 0:41:34,71
+You should basically name
+your branches the way
+
+
+797
+0:41:34,71 --> 0:41:36,0
+you name your functions.
+
+
+798
+0:41:36,0 --> 0:41:37,73
+You should call them
+something short and
+
+
+799
+0:41:37,73 --> 0:41:38,84
+sweet and to the point.
+
+
+800
+0:41:38,84 --> 0:41:40,51
+What is that branch doing?
+
+
+801
+0:41:40,51 --> 0:41:44,63
+Git, by default, gives you one
+branch that is called master.
+
+
+802
+0:41:44,63 --> 0:41:46,21
+It's short and sweet
+and to the point.
+
+
+803
+0:41:46,21 --> 0:41:47,79
+It's the master branch.
+
+
+804
+0:41:47,79 --> 0:41:52,0
+But you can make a branch that
+is called Experimental Feature
+
+
+805
+0:41:52,0 --> 0:41:54,7
+X and it will be obvious.
+
+
+806
+0:41:54,7 --> 0:41:57,45
+But this is something you
+simply cannot do in a
+
+
+807
+0:41:57,45 --> 0:41:58,39
+centralized environment.
+
+
+808
+0:41:58,39 --> 0:42:1,39
+You cannot call branches
+Experimental Feature X. You
+
+
+809
+0:42:1,39 --> 0:42:4,74
+have to make up stupid,
+idiotic names.
+
+
+810
+0:42:4,74 --> 0:42:7,93
+I worked for a company
+that had nice--
+
+
+811
+0:42:7,93 --> 0:42:12,75
+as nice as you probably can make
+them-- scripts around CVS
+
+
+812
+0:42:12,75 --> 0:42:14,79
+that helped you make branches.
+
+
+813
+0:42:14,79 --> 0:42:16,28
+You could actually
+make branches
+
+
+814
+0:42:16,28 --> 0:42:17,71
+with a simple command.
+
+
+815
+0:42:17,71 --> 0:42:19,68
+It didn't take that long.
+
+
+816
+0:42:19,68 --> 0:42:24,73
+It picked a name for you,
+exactly because it would pick
+
+
+817
+0:42:24,73 --> 0:42:25,58
+the number.
+
+
+818
+0:42:25,58 --> 0:42:29,83
+So you'd give it a base name and
+you would say, this is my
+
+
+819
+0:42:29,83 --> 0:42:32,54
+branch for doing so and so
+and it would call your
+
+
+820
+0:42:32,54 --> 0:42:36,1
+branch So and So-56.
+
+
+821
+0:42:36,1 --> 0:42:38,63
+And it would tag where you
+started that branch because in
+
+
+822
+0:42:38,63 --> 0:42:41,89
+CVS you need to do that, too.
+
+
+823
+0:42:41,89 --> 0:42:43,97
+It took a while,
+but it worked.
+
+
+824
+0:42:43,97 --> 0:42:47,21
+You can do these things in
+centralized systems, but you
+
+
+825
+0:42:47,21 --> 0:42:49,1
+don't need to.
+
+
+826
+0:42:49,1 --> 0:42:53,47
+If your system is decentralized,
+it just works.
+
+
+827
+0:42:53,47 --> 0:42:55,94
+That is how it should work.
+
+
+828
+0:42:55,94 --> 0:43:0,73
+So I'm not going to force
+you to switch over to
+
+
+829
+0:43:0,73 --> 0:43:2,37
+decentralized, I'm just
+going to call you
+
+
+830
+0:43:2,37 --> 0:43:4,67
+you ugly and stupid.
+
+
+831
+0:43:4,67 --> 0:43:6,79
+That's the deal.
+
+
+832
+0:43:6,79 --> 0:43:9,516
+Anyway, we are on the
+performance slide.
+
+
+833
+0:43:9,516 --> 0:43:11,746
+AUDIENCE: Can I ask
+a question?
+
+
+834
+0:43:11,746 --> 0:43:12,58
+LINUS TORVALDS: Yes.
+
+
+835
+0:43:12,58 --> 0:43:14,34
+AUDIENCE: Two questions,
+actually.
+
+
+836
+0:43:14,34 --> 0:43:19,51
+So one is how many files
+will Git take.
+
+
+837
+0:43:19,51 --> 0:43:22,3
+And then the second one, let's
+say if you have a humongous
+
+
+838
+0:43:22,3 --> 0:43:25,17
+tree under Git, would it
+be possible to check
+
+
+839
+0:43:25,17 --> 0:43:26,61
+out part of the tree?
+
+
+840
+0:43:26,61 --> 0:43:27,86
+LINUS TORVALDS: Great
+questions.
+
+
+841
+0:43:27,86 --> 0:43:30,9
+
+
+
+842
+0:43:30,9 --> 0:43:33,42
+Those questions actually kind
+of dovetail into a different
+
+
+843
+0:43:33,42 --> 0:43:36,48
+issue, even though they are
+performance related.
+
+
+844
+0:43:36,48 --> 0:43:40,35
+One of the things that Git is
+really special about, and this
+
+
+845
+0:43:40,35 --> 0:43:43,71
+special even with regards to
+things like Mercurial which is
+
+
+846
+0:43:43,71 --> 0:43:48,97
+otherwise fairly similar,
+Git tracks your content.
+
+
+847
+0:43:48,97 --> 0:43:51,44
+It never, ever tracks
+a single file.
+
+
+848
+0:43:51,44 --> 0:43:55,45
+You cannot track
+a file in Git.
+
+
+849
+0:43:55,45 --> 0:43:58,23
+What you can do is you can track
+a project that has a
+
+
+850
+0:43:58,23 --> 0:44:2,18
+single file, but if your project
+has a single file,
+
+
+851
+0:44:2,18 --> 0:44:4,73
+sure do that, and
+you can do it.
+
+
+852
+0:44:4,73 --> 0:44:11,9
+But if you track 10,000 files,
+Git never, ever sees those as
+
+
+853
+0:44:11,9 --> 0:44:12,74
+individual files.
+
+
+854
+0:44:12,74 --> 0:44:16,1
+Git thinks of everything
+as the full content.
+
+
+855
+0:44:16,1 --> 0:44:19,52
+All history in Git is based on
+the content of all of the
+
+
+856
+0:44:19,52 --> 0:44:21,87
+history of the whole project.
+
+
+857
+0:44:21,87 --> 0:44:26,35
+This has implications
+for performance.
+
+
+858
+0:44:26,35 --> 0:44:29,2
+When you use CVS it's
+perfectly fine.
+
+
+859
+0:44:29,2 --> 0:44:32,26
+It's stupid, but it's perfectly
+fine to have one
+
+
+860
+0:44:32,26 --> 0:44:36,47
+huge repository that has a
+million files in it because at
+
+
+861
+0:44:36,47 --> 0:44:39,14
+the end of the day, CVS actually
+thinks of all those
+
+
+862
+0:44:39,14 --> 0:44:41,32
+million files as
+a single file.
+
+
+863
+0:44:41,32 --> 0:44:44,57
+And you can actually ask CVS to
+only update that one file
+
+
+864
+0:44:44,57 --> 0:44:47,3
+because CVS really thinks in
+those terms. And that's
+
+
+865
+0:44:47,3 --> 0:44:49,96
+actually true of pretty much
+everything else too.
+
+
+866
+0:44:49,96 --> 0:44:51,72
+It is actually even
+true of BitKeeper.
+
+
+867
+0:44:51,72 --> 0:44:56,11
+That was one of the mistakes
+in BitKeeper.
+
+
+868
+0:44:56,11 --> 0:44:59,59
+The problem with thinking in
+terms of single files is that
+
+
+869
+0:44:59,59 --> 0:45:2,8
+quite often, especially if
+you're a high level maintainer
+
+
+870
+0:45:2,8 --> 0:45:6,84
+like me, I have 22,000 files to
+track, I don't care about
+
+
+871
+0:45:6,84 --> 0:45:8,1
+one of them.
+
+
+872
+0:45:8,1 --> 0:45:13,15
+I might care about a
+sub-collection of them that
+
+
+873
+0:45:13,15 --> 0:45:14,78
+contains maybe 1,000
+thousand files.
+
+
+874
+0:45:14,78 --> 0:45:18,47
+I might care about the USB
+subsystem, but I never care
+
+
+875
+0:45:18,47 --> 0:45:20,24
+about the single file.
+
+
+876
+0:45:20,24 --> 0:45:23,62
+So Git tracks everything as a
+collection of files, and if
+
+
+877
+0:45:23,62 --> 0:45:26,55
+you ask for the history of
+a single file, Git will
+
+
+878
+0:45:26,55 --> 0:45:28,67
+literally start from
+the global history
+
+
+879
+0:45:28,67 --> 0:45:30,345
+and simplify it.
+
+
+880
+0:45:30,345 --> 0:45:33,51
+It's a fairly efficient
+system.
+
+
+881
+0:45:33,51 --> 0:45:34,82
+It's a very efficient system.
+
+
+882
+0:45:34,82 --> 0:45:37,42
+You would normally not even
+realize that it does that.
+
+
+883
+0:45:37,42 --> 0:45:42,16
+But it does mean that if you try
+to track a million files
+
+
+884
+0:45:42,16 --> 0:45:46,17
+in one repository, when you
+then ask for a single file
+
+
+885
+0:45:46,17 --> 0:45:48,62
+history it's going
+to be slower.
+
+
+886
+0:45:48,62 --> 0:45:51,47
+So it has different scaling
+properties than a lot of other
+
+
+887
+0:45:51,47 --> 0:45:55,67
+systems for this very
+fundamental design reason.
+
+
+888
+0:45:55,67 --> 0:45:58,39
+We have used big repositories.
+
+
+889
+0:45:58,39 --> 0:46:8,77
+We've imported things like
+something like 3/4 of the
+
+
+890
+0:46:8,77 --> 0:46:11,36
+Subversion history of the
+whole KDE project.
+
+
+891
+0:46:11,36 --> 0:46:12,62
+And the KDE people are--
+
+
+892
+0:46:12,62 --> 0:46:19,11
+
+
+
+893
+0:46:19,11 --> 0:46:23,15
+I like KDE but trust me, they
+put every single component in
+
+
+894
+0:46:23,15 --> 0:46:25,63
+one repository.
+
+
+895
+0:46:25,63 --> 0:46:27,92
+Not very smart.
+
+
+896
+0:46:27,92 --> 0:46:31,17
+What you ended up with, you had
+a repository that took I
+
+
+897
+0:46:31,17 --> 0:46:36,77
+think eight gigabytes under the
+CVS tree and Subversion
+
+
+898
+0:46:36,77 --> 0:46:40,9
+blew it up to like three
+times that size.
+
+
+899
+0:46:40,9 --> 0:46:42,6
+Maybe it wasn't quite
+eight gigabytes in
+
+
+900
+0:46:42,6 --> 0:46:43,54
+CVS, but it was big.
+
+
+901
+0:46:43,54 --> 0:46:46,56
+It was more than
+four gigabytes.
+
+
+902
+0:46:46,56 --> 0:46:48,71
+Git would actually compress
+it down to
+
+
+903
+0:46:48,71 --> 0:46:50,16
+something like 1.3 gigabytes.
+
+
+904
+0:46:50,16 --> 0:46:53,65
+So Git is actually very
+efficient at taking this
+
+
+905
+0:46:53,65 --> 0:46:57,37
+project and just smushing it
+together and most things
+
+
+906
+0:46:57,37 --> 0:46:58,98
+perform very well.
+
+
+907
+0:46:58,98 --> 0:47:0,49
+But certain things did not.
+
+
+908
+0:47:0,49 --> 0:47:2,91
+The things that do not perform
+very well, if you put a
+
+
+909
+0:47:2,91 --> 0:47:6,28
+million files in one repository,
+initial clones,
+
+
+910
+0:47:6,28 --> 0:47:8,78
+when you get it,
+you get it all.
+
+
+911
+0:47:8,78 --> 0:47:13,54
+You put it in one repository,
+Git thinks of it as one thing.
+
+
+912
+0:47:13,54 --> 0:47:14,93
+Don't do that.
+
+
+913
+0:47:14,93 --> 0:47:17,54
+If you have multiple components,
+do them as
+
+
+914
+0:47:17,54 --> 0:47:19,0
+separate repositories.
+
+
+915
+0:47:19,0 --> 0:47:22,18
+You can actually have what we
+call a super project that
+
+
+916
+0:47:22,18 --> 0:47:25,21
+contains pointers to other
+projects and the user
+
+
+917
+0:47:25,21 --> 0:47:28,6
+interfaces there are
+some lacking.
+
+
+918
+0:47:28,6 --> 0:47:31,92
+But you keep separate projects
+separate, and then you avoid
+
+
+919
+0:47:31,92 --> 0:47:35,2
+the problem of, OK, you
+have to get it all.
+
+
+920
+0:47:35,2 --> 0:47:37,1
+Because with Git, you do
+have to get it all.
+
+
+921
+0:47:37,1 --> 0:47:40,42
+AUDIENCE: Why don't they
+all share code?
+
+
+922
+0:47:40,42 --> 0:47:42,447
+[INAUDIBLE]?
+
+
+923
+0:47:42,447 --> 0:47:45,41
+LINUS TORVALDS: If they
+all shared code.
+
+
+924
+0:47:45,41 --> 0:47:47,83
+What you can do with Git, if
+you actually have a lot of
+
+
+925
+0:47:47,83 --> 0:47:50,69
+shared stuff, since Git actually
+internally uses a
+
+
+926
+0:47:50,69 --> 0:47:54,97
+content-addressable file system,
+if there are files
+
+
+927
+0:47:54,97 --> 0:47:57,8
+with identical content, Git will
+actually use the exact
+
+
+928
+0:47:57,8 --> 0:48:1,58
+same object for them and
+save you tons of space.
+
+
+929
+0:48:1,58 --> 0:48:6,38
+You can have these shared
+objects and still have them as
+
+
+930
+0:48:6,38 --> 0:48:7,67
+separate entities.
+
+
+931
+0:48:7,67 --> 0:48:10,22
+You can still see them at
+separate repositories that
+
+
+932
+0:48:10,22 --> 0:48:13,26
+just have a shared file
+system backing the
+
+
+933
+0:48:13,26 --> 0:48:16,19
+data, you can do that.
+
+
+934
+0:48:16,19 --> 0:48:18,48
+If you actually have shared code
+in the sense that you,
+
+
+935
+0:48:18,48 --> 0:48:22,32
+for example, have a library that
+is used by five different
+
+
+936
+0:48:22,32 --> 0:48:26,87
+things, that's when you use
+the super project support,
+
+
+937
+0:48:26,87 --> 0:48:30,29
+where you have one Git
+repository that just tracks
+
+
+938
+0:48:30,29 --> 0:48:31,74
+all the other Git
+repositories.
+
+
+939
+0:48:31,74 --> 0:48:34,45
+It may contain stuff
+like a shared build
+
+
+940
+0:48:34,45 --> 0:48:36,34
+infrastructure, too.
+
+
+941
+0:48:36,34 --> 0:48:39,69
+But then the individual
+pieces are individual.
+
+
+942
+0:48:39,69 --> 0:48:42,0
+These are like CVS modules.
+
+
+943
+0:48:42,0 --> 0:48:47,99
+In CVS, modules aren't really
+individual but that's because
+
+
+944
+0:48:47,99 --> 0:48:52,81
+in CVS, the directory is a
+thing of its own anyway.
+
+
+945
+0:48:52,81 --> 0:48:58,8
+So CVS modules are kind of a
+combination of this and just
+
+
+946
+0:48:58,8 --> 0:48:59,25
+tracking them all.
+
+
+947
+0:48:59,25 --> 0:49:2,35
+But you can basically think
+of it as CVS modules.
+
+
+948
+0:49:2,35 --> 0:49:5,46
+And we do support it but I do
+have to admit, that code is
+
+
+949
+0:49:5,46 --> 0:49:9,43
+fairly recent and that's one
+area where our user interfaces
+
+
+950
+0:49:9,43 --> 0:49:13,89
+right now are definitely
+lacking some.
+
+
+951
+0:49:13,89 --> 0:49:16,41
+There was probably some other
+part to that question that I
+
+
+952
+0:49:16,41 --> 0:49:18,47
+completely forgot.
+
+
+953
+0:49:18,47 --> 0:49:19,72
+AUDIENCE: [INAUDIBLE].
+
+
+954
+0:49:19,72 --> 0:49:22,547
+
+
+
+955
+0:49:22,547 --> 0:49:26,16
+LINUS TORVALDS: I
+can't hear that.
+
+
+956
+0:49:26,16 --> 0:49:29,43
+AUDIENCE: The question was, can
+you have just part of the
+
+
+957
+0:49:29,43 --> 0:49:32,75
+files pulled out of the
+repository, not the entire
+
+
+958
+0:49:32,75 --> 0:49:35,198
+repository?
+
+
+959
+0:49:35,198 --> 0:49:38,11
+LINUS TORVALDS: You can export
+things as tarballs, you can
+
+
+960
+0:49:38,11 --> 0:49:40,17
+export things as individual
+files.
+
+
+961
+0:49:40,17 --> 0:49:44,51
+You can rewrite the whole
+history to say, I want a new
+
+
+962
+0:49:44,51 --> 0:49:47,32
+version of that repository that
+only contains that part.
+
+
+963
+0:49:47,32 --> 0:49:48,21
+You can do that.
+
+
+964
+0:49:48,21 --> 0:49:50,9
+It's a fairly expensive
+operation.
+
+
+965
+0:49:50,9 --> 0:49:53,55
+It's something you would do, for
+example, if you import an
+
+
+966
+0:49:53,55 --> 0:49:57,43
+old repository into one huge
+Git repository and then you
+
+
+967
+0:49:57,43 --> 0:50:1,3
+can split it later on to be
+multiple, smaller ones.
+
+
+968
+0:50:1,3 --> 0:50:3,65
+You can do it.
+
+
+969
+0:50:3,65 --> 0:50:5,63
+What I'm trying to say,
+you should generally
+
+
+970
+0:50:5,63 --> 0:50:8,3
+try to avoid it.
+
+
+971
+0:50:8,3 --> 0:50:12,44
+It's not that Git can't handle
+huge projects, it's that Git
+
+
+972
+0:50:12,44 --> 0:50:17,43
+won't perform as well as it
+would otherwise and you will
+
+
+973
+0:50:17,43 --> 0:50:22,71
+have issues that you wish
+you didn't have.
+
+
+974
+0:50:22,71 --> 0:50:26,2
+I'm skipping this and going back
+to the performance issue.
+
+
+975
+0:50:26,2 --> 0:50:29,2
+One of the things I want to say
+about performance is a lot
+
+
+976
+0:50:29,2 --> 0:50:32,12
+of people seem to think that
+performance is about doing the
+
+
+977
+0:50:32,12 --> 0:50:34,23
+same thing, just doing
+it faster.
+
+
+978
+0:50:34,23 --> 0:50:35,44
+And that's not true.
+
+
+979
+0:50:35,44 --> 0:50:37,72
+That's not what performance
+is all about.
+
+
+980
+0:50:37,72 --> 0:50:42,5
+If you can do something really
+fast really well, people start
+
+
+981
+0:50:42,5 --> 0:50:44,86
+using it differently.
+
+
+982
+0:50:44,86 --> 0:50:48,51
+One of the things I wanted to
+make sure is that merges go
+
+
+983
+0:50:48,51 --> 0:50:51,92
+really, really quickly because
+I want people to merge often
+
+
+984
+0:50:51,92 --> 0:50:55,79
+and merge early because
+it turns out it
+
+
+985
+0:50:55,79 --> 0:50:57,14
+becomes easier to merge.
+
+
+986
+0:50:57,14 --> 0:51:0,95
+If you merge every day, suddenly
+you never get to the
+
+
+987
+0:51:0,95 --> 0:51:2,73
+point where you have
+huge conflicts
+
+
+988
+0:51:2,73 --> 0:51:4,29
+that are hard to resolve.
+
+
+989
+0:51:4,29 --> 0:51:10,26
+If you actually make branching
+and merging easy, you actually
+
+
+990
+0:51:10,26 --> 0:51:13,45
+avoid a whole class of problems
+that you otherwise
+
+
+991
+0:51:13,45 --> 0:51:15,72
+have a really, really
+hard time avoiding.
+
+
+992
+0:51:15,72 --> 0:51:20,36
+So for example, let's go back
+to one of the things where I
+
+
+993
+0:51:20,36 --> 0:51:22,16
+think the designers
+of Subversion
+
+
+994
+0:51:22,16 --> 0:51:24,87
+were complete morons.
+
+
+995
+0:51:24,87 --> 0:51:25,86
+Strong opinions.
+
+
+996
+0:51:25,86 --> 0:51:27,656
+That's me, right?
+
+
+997
+0:51:27,656 --> 0:51:31,96
+There's a few of them in the
+room today, I suspect.
+
+
+998
+0:51:31,96 --> 0:51:34,55
+You're stupid.
+
+
+999
+0:51:34,55 --> 0:51:39,99
+Subversion, for example, talks
+very loudly about how they do
+
+
+1000
+0:51:39,99 --> 0:51:44,89
+CVS right by making branching
+really cheap.
+
+
+1001
+0:51:44,89 --> 0:51:47,83
+It's probably on their main web
+page where they probably
+
+
+1002
+0:51:47,83 --> 0:51:51,77
+say that branching in Subversion
+is an 01 operation.
+
+
+1003
+0:51:51,77 --> 0:51:54,48
+You can do as many cheap
+branches as you want.
+
+
+1004
+0:51:54,48 --> 0:51:56,81
+Nevermind that the
+01 is actually a
+
+
+1005
+0:51:56,81 --> 0:51:58,26
+pretty large 0 I think.
+
+
+1006
+0:51:58,26 --> 0:52:3,51
+But even if it takes a millionth
+of a second to do
+
+
+1007
+0:52:3,51 --> 0:52:6,9
+branching, who cares?
+
+
+1008
+0:52:6,9 --> 0:52:9,3
+It's the wrong thing
+you're measuring.
+
+
+1009
+0:52:9,3 --> 0:52:11,34
+Nobody is interest
+in branching.
+
+
+1010
+0:52:11,34 --> 0:52:14,23
+Branches are completely useless
+unless you merge them,
+
+
+1011
+0:52:14,23 --> 0:52:19,3
+and CVS cannot merge
+anything at all.
+
+
+1012
+0:52:19,3 --> 0:52:23,17
+You can merge things once, but
+because CVS then forgets what
+
+
+1013
+0:52:23,17 --> 0:52:27,19
+you did, you can never, ever
+merge anything again without
+
+
+1014
+0:52:27,19 --> 0:52:30,21
+getting horrible, horrible
+conflicts.
+
+
+1015
+0:52:30,21 --> 0:52:34,2
+Merging in Subversion is
+a complete disaster.
+
+
+1016
+0:52:34,2 --> 0:52:36,76
+The Subversion people kind of
+acknowledge this and they have
+
+
+1017
+0:52:36,76 --> 0:52:40,19
+a plan and their plan
+sucks, too.
+
+
+1018
+0:52:40,19 --> 0:52:43,96
+It is incredible how stupid
+these people are.
+
+
+1019
+0:52:43,96 --> 0:52:47,69
+They've been looking at the
+wrong problem all the time.
+
+
+1020
+0:52:47,69 --> 0:52:51,95
+Branching is not the issue,
+merging is, and merging they
+
+
+1021
+0:52:51,95 --> 0:52:56,8
+didn't do squat for five
+years after the fact.
+
+
+1022
+0:52:56,8 --> 0:52:57,78
+That is sad.
+
+
+1023
+0:52:57,78 --> 0:53:0,67
+So performance is important,
+but you need to
+
+
+1024
+0:53:0,67 --> 0:53:3,36
+look at what matters.
+
+
+1025
+0:53:3,36 --> 0:53:7,0
+Performance for making a branch
+under Git, literally
+
+
+1026
+0:53:7,0 --> 0:53:11,22
+you create a new file that
+is 41 bytes in size.
+
+
+1027
+0:53:11,22 --> 0:53:13,98
+How fast do you think that is?
+
+
+1028
+0:53:13,98 --> 0:53:16,71
+I don't think you
+can measure it.
+
+
+1029
+0:53:16,71 --> 0:53:18,32
+If you use Windows
+you can probably
+
+
+1030
+0:53:18,32 --> 0:53:19,65
+measure it because file--
+
+
+1031
+0:53:19,65 --> 0:53:20,91
+but whatever.
+
+
+1032
+0:53:20,91 --> 0:53:23,81
+It is so fast you can't
+really measure it.
+
+
+1033
+0:53:23,81 --> 0:53:25,9
+That's creating a branch.
+
+
+1034
+0:53:25,9 --> 0:53:28,33
+Nobody cares.
+
+
+1035
+0:53:28,33 --> 0:53:30,42
+It's not an issue.
+
+
+1036
+0:53:30,42 --> 0:53:32,69
+That's not it.
+
+
+1037
+0:53:32,69 --> 0:53:36,91
+The only thing that matters
+is how fast can you merge?
+
+
+1038
+0:53:36,91 --> 0:53:43,8
+In Git I merge 22,000 several
+times a day and I get unhappy
+
+
+1039
+0:53:43,8 --> 0:53:45,72
+if a merge takes more
+than five seconds.
+
+
+1040
+0:53:45,72 --> 0:53:49,58
+And all of those five seconds
+are just the downloading of
+
+
+1041
+0:53:49,58 --> 0:53:53,83
+the deltas between
+the two trees.
+
+
+1042
+0:53:53,83 --> 0:53:58,19
+The merge itself takes less
+than half a second, and I
+
+
+1043
+0:53:58,19 --> 0:54:0,91
+don't have to think about it.
+
+
+1044
+0:54:0,91 --> 0:54:4,22
+What takes longer than the merge
+is after every merge by
+
+
+1045
+0:54:4,22 --> 0:54:6,72
+default, Git will do a diff
+stat of everything that
+
+
+1046
+0:54:6,72 --> 0:54:9,57
+changed as a result of
+that merge because I
+
+
+1047
+0:54:9,57 --> 0:54:10,99
+do care about that.
+
+
+1048
+0:54:10,99 --> 0:54:13,58
+When I merged from somebody,
+I trust them.
+
+
+1049
+0:54:13,58 --> 0:54:16,14
+But on the other hand, hey, they
+might have stopped using
+
+
+1050
+0:54:16,14 --> 0:54:17,94
+their medication.
+
+
+1051
+0:54:17,94 --> 0:54:22,2
+I mean, I trust them, but let's
+just be honest here.
+
+
+1052
+0:54:22,2 --> 0:54:23,63
+They might have been
+OK yesterday,
+
+
+1053
+0:54:23,63 --> 0:54:25,38
+today not a good day.
+
+
+1054
+0:54:25,38 --> 0:54:28,5
+So I do a diff stat and Git
+does that by default.
+
+
+1055
+0:54:28,5 --> 0:54:30,53
+You can turn it off if you
+really want to, but you
+
+
+1056
+0:54:30,53 --> 0:54:31,33
+probably shouldn't.
+
+
+1057
+0:54:31,33 --> 0:54:34,23
+It's fast enough anyway.
+
+
+1058
+0:54:34,23 --> 0:54:37,21
+If it's a big merge, the diff
+stat usually takes a second or
+
+
+1059
+0:54:37,21 --> 0:54:40,99
+two because creating a diff
+and actually doing all the
+
+
+1060
+0:54:40,99 --> 0:54:44,62
+stats on how many lines changed,
+that actually is much
+
+
+1061
+0:54:44,62 --> 0:54:47,31
+more expensive than doing
+the merge itself.
+
+
+1062
+0:54:47,31 --> 0:54:49,52
+That is the kind of performance
+that actually
+
+
+1063
+0:54:49,52 --> 0:54:51,23
+changes how you work.
+
+
+1064
+0:54:51,23 --> 0:54:54,99
+It's no longer doing the same
+thing faster, it's allowing
+
+
+1065
+0:54:54,99 --> 0:54:58,44
+you to work in a completely
+different manner, and that is
+
+
+1066
+0:54:58,44 --> 0:55:1,66
+why performance matters and why
+you really shouldn't look
+
+
+1067
+0:55:1,66 --> 0:55:3,38
+at anything but Git.
+
+
+1068
+0:55:3,38 --> 0:55:8,85
+Hg's Mercurial is pretty good,
+but Git is better.
+
+
+1069
+0:55:8,85 --> 0:55:12,27
+I think I'm running
+out of time.
+
+
+1070
+0:55:12,27 --> 0:55:14,68
+OK, this one is still
+interesting.
+
+
+1071
+0:55:14,68 --> 0:55:16,3
+We never got to the
+implementation part, you
+
+
+1072
+0:55:16,3 --> 0:55:17,97
+really don't care.
+
+
+1073
+0:55:17,97 --> 0:55:20,13
+I will say so much about
+implementation is the
+
+
+1074
+0:55:20,13 --> 0:55:22,0
+implementation is
+really simple.
+
+
+1075
+0:55:22,0 --> 0:55:26,7
+The code data structures are
+really, really, really simple.
+
+
+1076
+0:55:26,7 --> 0:55:32,95
+If you then look at the source
+code and realize it's 80,000
+
+
+1077
+0:55:32,95 --> 0:55:37,37
+lines and mostly in C. And the
+kind of C I write most people
+
+
+1078
+0:55:37,37 --> 0:55:40,41
+don't understand,
+but I commented.
+
+
+1079
+0:55:40,41 --> 0:55:43,64
+The source code may sometimes
+look complicated because we
+
+
+1080
+0:55:43,64 --> 0:55:46,8
+are very performance-centric.
+
+
+1081
+0:55:46,8 --> 0:55:48,18
+I am, I really care.
+
+
+1082
+0:55:48,18 --> 0:55:51,68
+And sometimes to make things
+go really fast, you have to
+
+
+1083
+0:55:51,68 --> 0:55:54,69
+use more complicated algorithms
+than just checking
+
+
+1084
+0:55:54,69 --> 0:55:56,6
+one file at the time.
+
+
+1085
+0:55:56,6 --> 0:55:59,3
+When you're doing 22,000-file
+merges, you don't want to
+
+
+1086
+0:55:59,3 --> 0:56:0,63
+check one file at a time.
+
+
+1087
+0:56:0,63 --> 0:56:3,32
+You want to check the whole
+three in one go and say,
+
+
+1088
+0:56:3,32 --> 0:56:6,47
+they're the same, I didn't
+need to do anything.
+
+
+1089
+0:56:6,47 --> 0:56:8,76
+So Git does things like that
+and that kind of blows the
+
+
+1090
+0:56:8,76 --> 0:56:12,65
+source code up a bit because
+doing it well is complicated.
+
+
+1091
+0:56:12,65 --> 0:56:16,36
+But the basics are really,
+really simple, and one of the
+
+
+1092
+0:56:16,36 --> 0:56:20,4
+basics is this trust and
+reliability thing.
+
+
+1093
+0:56:20,4 --> 0:56:25,6
+Every single piece of data, when
+Git tracks your content,
+
+
+1094
+0:56:25,6 --> 0:56:28,43
+we compress it, we delta it
+against everything else.
+
+
+1095
+0:56:28,43 --> 0:56:33,19
+But we also do a SHA-1 hash of
+the content, and we actually
+
+
+1096
+0:56:33,19 --> 0:56:35,23
+check it when we use it.
+
+
+1097
+0:56:35,23 --> 0:56:39,1
+If you have disk corruption, if
+you have DRAM corruption,
+
+
+1098
+0:56:39,1 --> 0:56:43,14
+if you have any kind of problems
+at all, Git will
+
+
+1099
+0:56:43,14 --> 0:56:44,11
+notice them.
+
+
+1100
+0:56:44,11 --> 0:56:47,83
+It's not a question of
+if, it's a guarantee.
+
+
+1101
+0:56:47,83 --> 0:56:51,1
+You can have people who
+try to be malicious.
+
+
+1102
+0:56:51,1 --> 0:56:53,56
+They won't succeed.
+
+
+1103
+0:56:53,56 --> 0:56:57,85
+You need to know exactly 20
+bytes, you need to know the
+
+
+1104
+0:56:57,85 --> 0:57:4,48
+160-bit SHA-1 name of your top
+of tree, and if you know that,
+
+
+1105
+0:57:4,48 --> 0:57:6,95
+you can trust your
+tree all the way
+
+
+1106
+0:57:6,95 --> 0:57:8,52
+down, the whole history.
+
+
+1107
+0:57:8,52 --> 0:57:11,45
+You can have 10 years of
+history, you can have 100,000
+
+
+1108
+0:57:11,45 --> 0:57:14,44
+files, you can have millions
+of revisions, and you can
+
+
+1109
+0:57:14,44 --> 0:57:20,56
+trust every single piece of it
+because Git is so reliable and
+
+
+1110
+0:57:20,56 --> 0:57:24,6
+all the basic data structures
+are really, really simple.
+
+
+1111
+0:57:24,6 --> 0:57:26,3
+And we check checksums.
+
+
+1112
+0:57:26,3 --> 0:57:32,65
+And we don't just check some
+piddly UDP packet checksum
+
+
+1113
+0:57:32,65 --> 0:57:36,18
+that is a 16-bit sum
+of all the bytes.
+
+
+1114
+0:57:36,18 --> 0:57:39,43
+We check a checksum
+that is considered
+
+
+1115
+0:57:39,43 --> 0:57:41,61
+cryptographically secure.
+
+
+1116
+0:57:41,61 --> 0:57:45,29
+Nobody has been able to break
+SHA-1, but the point is the
+
+
+1117
+0:57:45,29 --> 0:57:47,95
+SHA-1, as far as Git is
+concerned, isn't even a
+
+
+1118
+0:57:47,95 --> 0:57:49,57
+security feature.
+
+
+1119
+0:57:49,57 --> 0:57:53,53
+It's purely a consistency
+check.
+
+
+1120
+0:57:53,53 --> 0:57:58,38
+The security parts are
+elsewhere, so a lot of people
+
+
+1121
+0:57:58,38 --> 0:58:3,24
+assume that since Git uses SHA-1
+and SHA-1 is used for
+
+
+1122
+0:58:3,24 --> 0:58:6,4
+cryptographically secure stuff,
+they think that, OK,
+
+
+1123
+0:58:6,4 --> 0:58:8,84
+it's a huge security feature.
+
+
+1124
+0:58:8,84 --> 0:58:11,33
+It has nothing at all to do with
+security, it's just the
+
+
+1125
+0:58:11,33 --> 0:58:14,9
+best hash you can get.
+
+
+1126
+0:58:14,9 --> 0:58:17,685
+Having a good hash is good for
+being able to trust your data.
+
+
+1127
+0:58:17,685 --> 0:58:21,36
+It happens to have some other
+good features, too.
+
+
+1128
+0:58:21,36 --> 0:58:23,63
+It means that when we hash
+objects, we know that the
+
+
+1129
+0:58:23,63 --> 0:58:26,6
+hashes are actually
+well-distributed and we don't
+
+
+1130
+0:58:26,6 --> 0:58:28,53
+have to worry about certain
+distribution issues.
+
+
+1131
+0:58:28,53 --> 0:58:32,13
+So internally, it means from an
+implementation standpoint
+
+
+1132
+0:58:32,13 --> 0:58:36,6
+we can trust that the hashes
+are so good that we can use
+
+
+1133
+0:58:36,6 --> 0:58:39,75
+hashing algorithms and know that
+there are no bad cases.
+
+
+1134
+0:58:39,75 --> 0:58:43,0
+So there are some reasons
+to like the
+
+
+1135
+0:58:43,0 --> 0:58:44,83
+cryptographic site, too.
+
+
+1136
+0:58:44,83 --> 0:58:50,4
+But it's really about the
+ability to trust your data.
+
+
+1137
+0:58:50,4 --> 0:58:55,59
+I guarantee you, if you put
+your data in Git, you can
+
+
+1138
+0:58:55,59 --> 0:58:58,85
+trust the fact that five years
+later, after it was converted
+
+
+1139
+0:58:58,85 --> 0:59:3,58
+from your hard disk to DVD to
+whatever new technology and
+
+
+1140
+0:59:3,58 --> 0:59:6,99
+you copied it along, five years
+later you can verify
+
+
+1141
+0:59:6,99 --> 0:59:10,61
+that the data you get back
+out is the exact same
+
+
+1142
+0:59:10,61 --> 0:59:11,68
+data you put in.
+
+
+1143
+0:59:11,68 --> 0:59:13,91
+And that's something you really
+should look for in a
+
+
+1144
+0:59:13,91 --> 0:59:16,3
+source control management
+system.
+
+
+1145
+0:59:16,3 --> 0:59:20,37
+One of the reasons I care is for
+the kernel, we had a break
+
+
+1146
+0:59:20,37 --> 0:59:27,55
+in on one of the BitKeeper sites
+where people tried to
+
+
+1147
+0:59:27,55 --> 0:59:30,41
+corrupt the kernel source
+code repositories.
+
+
+1148
+0:59:30,41 --> 0:59:31,97
+And BitKeeper actually
+caught it.
+
+
+1149
+0:59:31,97 --> 0:59:35,76
+BitKeeper did not have a really
+fancy hash at all.
+
+
+1150
+0:59:35,76 --> 0:59:40,37
+I think it's a 16-bit CRC,
+something like that.
+
+
+1151
+0:59:40,37 --> 0:59:46,75
+But it was good enough that you
+could actually see clumsy.
+
+
+1152
+0:59:46,75 --> 0:59:49,83
+It was not cryptographically
+secure, but it was hard enough
+
+
+1153
+0:59:49,83 --> 0:59:55,695
+in practice to overcome that
+it was caught immediately.
+
+
+1154
+0:59:55,695 --> 0:59:58,8
+
+
+
+1155
+0:59:58,8 --> 1:0:4,47
+When that happens once to you,
+you got burnt once, you don't
+
+
+1156
+1:0:4,47 --> 1:0:6,14
+ever want to get burnt again.
+
+
+1157
+1:0:6,14 --> 1:0:8,77
+Maybe your projects aren't
+that important.
+
+
+1158
+1:0:8,77 --> 1:0:12,22
+My projects, they're
+important.
+
+
+1159
+1:0:12,22 --> 1:0:14,78
+There's a reason I care.
+
+
+1160
+1:0:14,78 --> 1:0:17,47
+This is also one of the reasons
+to go back to the
+
+
+1161
+1:0:17,47 --> 1:0:20,29
+distribution angle a bit.
+
+
+1162
+1:0:20,29 --> 1:0:23,67
+When you do Google, for example,
+Google code, you have
+
+
+1163
+1:0:23,67 --> 1:0:28,1
+your source repositories that
+you help people maintain, and
+
+
+1164
+1:0:28,1 --> 1:0:29,45
+I think you do so under
+Subversion.
+
+
+1165
+1:0:29,45 --> 1:0:32,75
+
+
+
+1166
+1:0:32,75 --> 1:0:36,3
+I would never, ever trust Google
+to maintain my source
+
+
+1167
+1:0:36,3 --> 1:0:37,13
+code for me.
+
+
+1168
+1:0:37,13 --> 1:0:38,3
+I'm sorry.
+
+
+1169
+1:0:38,3 --> 1:0:39,325
+You're just not that
+trustworthy.
+
+
+1170
+1:0:39,325 --> 1:0:42,3
+
+
+
+1171
+1:0:42,3 --> 1:0:46,82
+The reason I really prefer a
+distributed system is I can
+
+
+1172
+1:0:46,82 --> 1:0:51,6
+keep my source code behind three
+firewalls on a system
+
+
+1173
+1:0:51,6 --> 1:0:55,53
+that does not allow
+SSH in at all.
+
+
+1174
+1:0:55,53 --> 1:0:59,45
+When I'm here, I cannot read my
+email because my email goes
+
+
+1175
+1:0:59,45 --> 1:1:3,55
+onto my machine, and the only
+way I can get into that
+
+
+1176
+1:1:3,55 --> 1:1:6,39
+machine is when I'm physically
+on that network.
+
+
+1177
+1:1:6,39 --> 1:1:9,78
+So maybe I'm cuckoo, maybe I'm
+a bit crazy and I care about
+
+
+1178
+1:1:9,78 --> 1:1:12,33
+security more than
+most people do.
+
+
+1179
+1:1:12,33 --> 1:1:17,7
+But this whole notion that I
+would give the master copy of
+
+
+1180
+1:1:17,7 --> 1:1:21,26
+source code that I trust and
+I care about so much, and I
+
+
+1181
+1:1:21,26 --> 1:1:25,8
+would give it to a third
+party is ludicrous.
+
+
+1182
+1:1:25,8 --> 1:1:29,17
+Not even Google, not a way
+in hell would I do that.
+
+
+1183
+1:1:29,17 --> 1:1:33,16
+I allow Google to have a copy
+of it, but I want to have
+
+
+1184
+1:1:33,16 --> 1:1:36,93
+something that I know
+nobody touched.
+
+
+1185
+1:1:36,93 --> 1:1:39,885
+And by the way, I'm not a great
+MIS person, so the disk
+
+
+1186
+1:1:39,885 --> 1:1:43,31
+corruption issue is definitely
+a case that I might worry
+
+
+1187
+1:1:43,31 --> 1:1:45,19
+about because I don't
+do backups.
+
+
+1188
+1:1:45,19 --> 1:1:50,64
+So it's OK if I can then
+download it again from
+
+
+1189
+1:1:50,64 --> 1:1:52,34
+multiple trusted parties.
+
+
+1190
+1:1:52,34 --> 1:1:54,68
+I can verify them against
+each other, that
+
+
+1191
+1:1:54,68 --> 1:1:55,7
+part is really easy.
+
+
+1192
+1:1:55,7 --> 1:1:58,79
+I can verify them against
+hopefully that 20 bytes that I
+
+
+1193
+1:1:58,79 --> 1:2:0,24
+really, really cared about.
+
+
+1194
+1:2:0,24 --> 1:2:2,46
+Hopefully I have that
+in a few places.
+
+
+1195
+1:2:2,46 --> 1:2:7,2
+20 bytes is easier to track
+than 180 megabytes and
+
+
+1196
+1:2:7,2 --> 1:2:9,44
+corruption is less likely
+to hit those 20 bytes.
+
+
+1197
+1:2:9,44 --> 1:2:14,4
+If I have those 20 bytes, I can
+download a Git repository
+
+
+1198
+1:2:14,4 --> 1:2:19,39
+form a completely untrusted
+source and I can guarantee
+
+
+1199
+1:2:19,39 --> 1:2:22,14
+that they didn't do anything
+bad to it.
+
+
+1200
+1:2:22,14 --> 1:2:24,52
+That's a huge thing, and that's
+something that when you
+
+
+1201
+1:2:24,52 --> 1:2:28,95
+do hosted repositories for
+other people, if you use
+
+
+1202
+1:2:28,95 --> 1:2:32,26
+Subversion you're just
+not doing it right.
+
+
+1203
+1:2:32,26 --> 1:2:36,23
+You're not allowing them
+to sleep well at night.
+
+
+1204
+1:2:36,23 --> 1:2:42,29
+Of course, if you do it for
+75,000 projects, most of them
+
+
+1205
+1:2:42,29 --> 1:2:43,56
+are probably pretty
+small and not very
+
+
+1206
+1:2:43,56 --> 1:2:44,81
+important, so it's OK.
+
+
+1207
+1:2:44,81 --> 1:2:47,42
+
+
+
+1208
+1:2:47,42 --> 1:2:50,6
+That should make people
+feel better.
+
+
+1209
+1:2:50,6 --> 1:2:51,66
+I have a few more slides.
+
+
+1210
+1:2:51,66 --> 1:2:54,61
+I think we're over time.
+
+
+1211
+1:2:54,61 --> 1:2:56,86
+I'm not even going to bother
+showing them, they're not that
+
+
+1212
+1:2:56,86 --> 1:2:58,11
+interesting I think.
+
+
+1213
+1:2:58,11 --> 1:3:0,82
+
+
+
+1214
+1:3:0,82 --> 1:3:7,63
+I talked a bit about this,
+about content versus
+
+
+1215
+1:3:7,63 --> 1:3:8,84
+individual files.
+
+
+1216
+1:3:8,84 --> 1:3:10,9
+Git tracks content.
+
+
+1217
+1:3:10,9 --> 1:3:12,94
+
+
+
+1218
+1:3:12,94 --> 1:3:18,24
+There is the only sample command
+line in the whole
+
+
+1219
+1:3:18,24 --> 1:3:19,55
+presentation.
+
+
+1220
+1:3:19,55 --> 1:3:24,43
+Gitk is the graphical viewer of
+history of a Git project.
+
+
+1221
+1:3:24,43 --> 1:3:28,28
+It's a [UNINTELLIGIBLE]
+
+
+1222
+1:3:28,28 --> 1:3:32,98
+script that is really only doing
+viewing of stuff that
+
+
+1223
+1:3:32,98 --> 1:3:35,89
+Git is really good
+at showing you.
+
+
+1224
+1:3:35,89 --> 1:3:39,56
+And this is the kind of command
+line I use as a
+
+
+1225
+1:3:39,56 --> 1:3:41,31
+top-level maintainer.
+
+
+1226
+1:3:41,31 --> 1:3:46,76
+I want to be able to say what
+changed since a particular
+
+
+1227
+1:3:46,76 --> 1:3:49,27
+version, maybe since a
+particular date, I can do that
+
+
+1228
+1:3:49,27 --> 1:3:53,25
+easily, in those two directories
+or in those two
+
+
+1229
+1:3:53,25 --> 1:3:55,42
+directories and that file.
+
+
+1230
+1:3:55,42 --> 1:4:1,1
+And what this will show me is
+the global history as it
+
+
+1231
+1:4:1,1 --> 1:4:4,48
+pertains to those parts
+of the repository.
+
+
+1232
+1:4:4,48 --> 1:4:8,92
+It is more expensive to compute
+than the global,
+
+
+1233
+1:4:8,92 --> 1:4:16,18
+global history, but if my laptop
+was actually connected
+
+
+1234
+1:4:16,18 --> 1:4:18,57
+to the A/V system,
+I could show you.
+
+
+1235
+1:4:18,57 --> 1:4:22,43
+Even on that laptop, it
+comes up in seconds.
+
+
+1236
+1:4:22,43 --> 1:4:24,35
+It is that expensive, but
+we are that good.
+
+
+1237
+1:4:24,35 --> 1:4:27,11
+
+
+
+1238
+1:4:27,11 --> 1:4:29,47
+This is something that is
+really, really unique to get.
+
+
+1239
+1:4:29,47 --> 1:4:30,88
+Nobody else can do it.
+
+
+1240
+1:4:30,88 --> 1:4:34,12
+And it's a hugely important
+feature.
+
+
+1241
+1:4:34,12 --> 1:4:37,3
+Maybe it's not so important to
+individual developers because
+
+
+1242
+1:4:37,3 --> 1:4:41,7
+individual developers often do
+think in terms of single
+
+
+1243
+1:4:41,7 --> 1:4:48,59
+files, but it is important for
+the people who merge stuff, it
+
+
+1244
+1:4:48,59 --> 1:4:52,6
+is important for people like me
+and the people I work with
+
+
+1245
+1:4:52,6 --> 1:4:55,2
+directly because they
+never basically care
+
+
+1246
+1:4:55,2 --> 1:4:56,23
+about a single file.
+
+
+1247
+1:4:56,23 --> 1:4:58,5
+And they do care about these
+kinds of features.
+
+
+1248
+1:4:58,5 --> 1:5:1,82
+Somebody sends a bug report,
+which bug reports are usually
+
+
+1249
+1:5:1,82 --> 1:5:2,76
+not very good.
+
+
+1250
+1:5:2,76 --> 1:5:5,53
+But maybe the bug report is
+good enough that you can
+
+
+1251
+1:5:5,53 --> 1:5:8,15
+pinpoint, OK, scuzzy
+subsystem.
+
+
+1252
+1:5:8,15 --> 1:5:10,9
+That's the command line.
+
+
+1253
+1:5:10,9 --> 1:5:14,7
+You can't say which file, but
+you can do this and say, OK,
+
+
+1254
+1:5:14,7 --> 1:5:21,23
+that will cut it down from the
+15,000 commits we've had since
+
+
+1255
+1:5:21,23 --> 1:5:24,62
+last week, it will cut
+it down to 50.
+
+
+1256
+1:5:24,62 --> 1:5:26,38
+That's a huge deal.
+
+
+1257
+1:5:26,38 --> 1:5:30,4
+That is something that nobody
+else can do, I guarantee you.
+
+
+1258
+1:5:30,4 --> 1:5:32,62
+
+
+
+1259
+1:5:32,62 --> 1:5:35,0
+So that's the reason you
+want to use Git.
+
+
+1260
+1:5:35,0 --> 1:5:36,17
+That's what it all
+boils down to.
+
+
+1261
+1:5:36,17 --> 1:5:39,43
+It's safe, it is so fast that
+you can do things that nobody
+
+
+1262
+1:5:39,43 --> 1:5:43,77
+else can do, it does things that
+nobody else can do, even
+
+
+1263
+1:5:43,77 --> 1:5:46,94
+slowly, and it's distributed.
+
+
+1264
+1:5:46,94 --> 1:5:49,18
+So go and spread the word.
+
+
+1265
+1:5:49,18 --> 1:5:50,85
+We have one more question,
+I guess.
+
+
+1266
+1:5:50,85 --> 1:5:51,98
+What is the timing like?
+
+
+1267
+1:5:51,98 --> 1:5:53,691
+I don't know.
+
+
+1268
+1:5:53,691 --> 1:5:55,16
+AUDIENCE: Quickly.
+
+
+1269
+1:5:55,16 --> 1:5:59,8
+So one of the reasons why we
+would switch from Perforce is
+
+
+1270
+1:5:59,8 --> 1:6:1,5
+release capability
+and performance.
+
+
+1271
+1:6:1,5 --> 1:6:5,71
+Otherwise, people would just
+say, keep using it.
+
+
+1272
+1:6:5,71 --> 1:6:8,87
+Would we be exchanging one set
+of scalability performance
+
+
+1273
+1:6:8,87 --> 1:6:13,72
+problems for other scalability
+performance problems?
+
+
+1274
+1:6:13,72 --> 1:6:16,45
+LINUS TORVALDS: I already
+mentioned the fact that I
+
+
+1275
+1:6:16,45 --> 1:6:20,26
+don't know how you maintain
+stuff in Perforce, but when
+
+
+1276
+1:6:20,26 --> 1:6:23,37
+and if you do a switchover to
+Git, what you want to make
+
+
+1277
+1:6:23,37 --> 1:6:26,81
+sure is because of this content
+model, you need to do
+
+
+1278
+1:6:26,81 --> 1:6:30,51
+it at same content boundaries.
+
+
+1279
+1:6:30,51 --> 1:6:32,89
+The content boundaries usually
+are actually pretty
+
+
+1280
+1:6:32,89 --> 1:6:33,71
+self-obvious.
+
+
+1281
+1:6:33,71 --> 1:6:35,0
+I mean, they really are.
+
+
+1282
+1:6:35,0 --> 1:6:39,73
+You have the compiler, you have
+the main source, you have
+
+
+1283
+1:6:39,73 --> 1:6:41,23
+the documentation.
+
+
+1284
+1:6:41,23 --> 1:6:43,88
+Well, you probably have the
+documentation spread out, but
+
+
+1285
+1:6:43,88 --> 1:6:48,3
+you may have some user visible
+documentation.
+
+
+1286
+1:6:48,3 --> 1:6:49,19
+Or maybe Google doesn't.
+
+
+1287
+1:6:49,19 --> 1:6:52,58
+But a lot of companies have a
+separate set of documentation
+
+
+1288
+1:6:52,58 --> 1:6:55,1
+that they give to customers,
+and then they have the
+
+
+1289
+1:6:55,1 --> 1:6:58,63
+documentation that goes into
+each individual package, is
+
+
+1290
+1:6:58,63 --> 1:7:0,59
+package-based.
+
+
+1291
+1:7:0,59 --> 1:7:4,25
+So one of the things you do have
+to think about with Git
+
+
+1292
+1:7:4,25 --> 1:7:9,8
+is you want to make sure it is
+in a somewhat sane hierarchy.
+
+
+1293
+1:7:9,8 --> 1:7:11,75
+
+
+
+1294
+1:7:11,75 --> 1:7:14,69
+Git can easily handle
+larger projects.
+
+
+1295
+1:7:14,69 --> 1:7:20,9
+You can have 10,000 files and
+that's not a problem.
+
+
+1296
+1:7:20,9 --> 1:7:25,85
+The kernel is 22, we've done
+tests with 100, it's fine.
+
+
+1297
+1:7:25,85 --> 1:7:28,48
+It's faster than
+anything else.
+
+
+1298
+1:7:28,48 --> 1:7:33,44
+With a million files, I suspect
+other systems will be
+
+
+1299
+1:7:33,44 --> 1:7:35,29
+faster at some things.
+
+
+1300
+1:7:35,29 --> 1:7:36,85
+And that's the kind of
+situation I don't
+
+
+1301
+1:7:36,85 --> 1:7:38,82
+want you to get into.
+
+
+1302
+1:7:38,82 --> 1:7:42,95
+But if you do that basic setup
+correctly, it will be
+
+
+1303
+1:7:42,95 --> 1:7:47,43
+basically faster at pretty much
+everything, than anything
+
+
+1304
+1:7:47,43 --> 1:7:48,54
+anybody else will.
+
+
+1305
+1:7:48,54 --> 1:7:52,1
+I am very confident about
+Git performance.
+
+
+1306
+1:7:52,1 --> 1:7:56,185
+One of the things we don't
+necessarily do really well is
+
+
+1307
+1:7:56,185 --> 1:7:58,41
+the CVS Annotate.
+
+
+1308
+1:7:58,41 --> 1:8:1,8
+People use CVS Annotate a lot
+if they use CVS. I'm told it
+
+
+1309
+1:8:1,8 --> 1:8:5,38
+sucks under Perforce, too, so
+you probably don't use the
+
+
+1310
+1:8:5,38 --> 1:8:9,28
+Perforce version of Annotate,
+I'm not sure.
+
+
+1311
+1:8:9,28 --> 1:8:11,66
+But CVS users are used
+to CVS Annotate.
+
+
+1312
+1:8:11,66 --> 1:8:15,52
+It's the one operation that CVS
+can do faster than Git,
+
+
+1313
+1:8:15,52 --> 1:8:19,14
+because CVS does track things
+one file at a time.
+
+
+1314
+1:8:19,14 --> 1:8:20,69
+Git doesn't.
+
+
+1315
+1:8:20,69 --> 1:8:26,92
+Git has an annotate, but if you
+moved a function from one
+
+
+1316
+1:8:26,92 --> 1:8:32,359
+file to another, Git will
+literally tell you the history
+
+
+1317
+1:8:32,359 --> 1:8:35,1
+of that function even
+across that move.
+
+
+1318
+1:8:35,1 --> 1:8:38,97
+Not to file move, a function
+within a file.
+
+
+1319
+1:8:38,97 --> 1:8:41,97
+It will go and dig back and
+say, hey, those two lines
+
+
+1320
+1:8:41,97 --> 1:8:44,689
+actually came from that other
+file five years ago.
+
+
+1321
+1:8:44,689 --> 1:8:47,14
+That is, again, something nobody
+else can do and it
+
+
+1322
+1:8:47,14 --> 1:8:48,56
+boils down to the same thing.
+
+
+1323
+1:8:48,56 --> 1:8:51,38
+It's the content that matter,
+it's not actually the files.
+
+
+1324
+1:8:51,38 --> 1:8:54,35
+But it does make it a much more
+expensive operation, so
+
+
+1325
+1:8:54,35 --> 1:8:57,62
+if you go back five years maybe
+it takes 30 seconds.
+
+
+1326
+1:8:57,62 --> 1:9:1,46
+On the kernel, it takes a second
+for any file I have. We
+
+
+1327
+1:9:1,46 --> 1:9:5,22
+started from no history two
+years ago because we just made
+
+
+1328
+1:9:5,22 --> 1:9:8,8
+the decision that let's not make
+it more complicated than
+
+
+1329
+1:9:8,8 --> 1:9:8,66
+it needs to be.
+
+
+1330
+1:9:8,66 --> 1:9:10,58
+So right now, we only
+have two years of
+
+
+1331
+1:9:10,58 --> 1:9:12,359
+history in the kernel.
+
+
+1332
+1:9:12,359 --> 1:9:16,149
+We have more history in other
+projects that we've done
+
+
+1333
+1:9:16,149 --> 1:9:16,93
+timings on.
+
+
+1334
+1:9:16,93 --> 1:9:20,7
+So we've done timings on
+importing the KDE and things
+
+
+1335
+1:9:20,7 --> 1:9:21,95
+like that with more history.
+
+
+1336
+1:9:21,95 --> 1:9:25,47
+
+
+
+1337
+1:9:25,47 --> 1:9:30,165
+There are performance issues,
+but most of them are, Git is
+
+
+1338
+1:9:30,165 --> 1:9:32,229
+one or two orders of
+magnitude faster.
+
+
+1339
+1:9:32,229 --> 1:9:36,52
+So most of them are
+the good kind.
+
+
+1340
+1:9:36,52 --> 1:9:39,359
+And if you find something, we
+actually have a really, really
+
+
+1341
+1:9:39,359 --> 1:9:40,64
+good community.
+
+
+1342
+1:9:40,64 --> 1:9:45,81
+The Git mailing list is fairly
+high signal to noise.
+
+
+1343
+1:9:45,81 --> 1:9:49,4
+It does get a fair amount of
+emails, but it's actually a
+
+
+1344
+1:9:49,4 --> 1:9:52,97
+very pleasant mailing list. If
+anybody is interested, read
+
+
+1345
+1:9:52,97 --> 1:9:55,44
+the sources first, but
+start looking at the
+
+
+1346
+1:9:55,44 --> 1:9:58,12
+mailing list archives.
+
+
+1347
+1:9:58,12 --> 1:10:0,74
+We have our flames, we have are
+pointless discussions, but
+
+
+1348
+1:10:0,74 --> 1:10:2,17
+most of it is actually
+very good.
+
+
+1349
+1:10:2,17 --> 1:10:5,19
+
+
+
+1350
+1:10:5,19 --> 1:10:6,69
+OK.
+
+
+1351
+1:10:6,69 --> 1:10:7,94
+Thanks.
+
+
+1352
+1:10:7,94 --> 1:12:7,94
+
+
+

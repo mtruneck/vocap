@@ -1,0 +1,4108 @@
+1
+0:0:11,91 --> 0:0:45,41
+[ Bagpipes ]
+[ Cheers and applause ]
+
+
+2
+0:0:45,41 --> 0:0:55,91
+>>Conan O'Brien: Thank you.
+Thank you.
+
+
+3
+0:0:55,91 --> 0:0:57,989
+And, please, stop doing that.
+[ Laughter ]
+
+
+4
+0:0:57,989 --> 0:1:1,52
+>>Conan O'Brien: What is your name, sir?
+>>> Stephen.
+
+
+5
+0:1:1,52 --> 0:1:4,949
+>>Conan O'Brien: Stephen, thank you for playing
+music usually reserved for a fireman's funeral.
+
+
+6
+0:1:4,949 --> 0:1:9,42
+That's creating a really nice atmosphere for
+me right now.
+
+
+7
+0:1:9,42 --> 0:1:19,82
+How are you all doing, everybody?
+How are you, Google?
+
+
+8
+0:1:19,82 --> 0:1:21,77
+[ Cheers and applause ]
+>>Conan O'Brien: Who the hell are you?
+
+
+9
+0:1:21,77 --> 0:1:23,9
+Welcome to Google.
+>>Vic Gundotra: Welcome to Google.
+
+
+10
+0:1:23,9 --> 0:1:25,7
+It's very nice that you could be here.
+It's exciting.
+
+
+11
+0:1:25,7 --> 0:1:28,56
+>>Conan O'Brien: Thank you, thank you.
+People are so thrilled to see you.
+
+
+12
+0:1:28,56 --> 0:1:31,66
+>>Vic Gundotra: I noticed that.
+>>Conan O'Brien: What a rare honor for them
+
+
+13
+0:1:31,66 --> 0:1:35,95
+to see you in the flesh.
+>>Vic Gundotra: Yes, on behalf of all the
+
+
+14
+0:1:35,95 --> 0:1:39,74
+Googlers, let me --
+>>Conan O'Brien: You call yourselves Googlers.
+
+
+15
+0:1:39,74 --> 0:1:43,27
+>>Vic Gundotra: We do.
+Aren't we Googlers?
+
+
+16
+0:1:43,27 --> 0:1:44,789
+Googlers, yeah.
+[ Applause ]
+
+
+17
+0:1:44,789 --> 0:1:48,31
+>>Conan O'Brien: Let's start there.
+We can do better than "Googler," okay?
+
+
+18
+0:1:48,31 --> 0:1:53,25
+Something cooler, especially for the guys
+when they're walking into a bar, you hear
+
+
+19
+0:1:53,25 --> 0:1:55,89
+what I'm saying.
+I'm a Googler.
+
+
+20
+0:1:55,89 --> 0:1:58,75
+[ Laughter ]
+>>Conan O'Brien: You don't want to -- like,
+
+
+21
+0:1:58,75 --> 0:1:59,959
+I'm a "G" man or something.
+[ Laughter ]
+
+
+22
+0:1:59,959 --> 0:2:4,239
+>>Conan O'Brien: You've got to get something
+else going, because "Googler"!
+
+
+23
+0:2:4,239 --> 0:2:9,19
+>>Vic Gundotra: Welcome.
+>>Conan O'Brien: We're pretty much done here,
+
+
+24
+0:2:9,19 --> 0:2:10,86
+aren't we?
+>>Vic Gundotra: We are done.
+
+
+25
+0:2:10,86 --> 0:2:13,11
+>>Conan O'Brien: You seem stunned.
+>>Vic Gundotra: Yes.
+
+
+26
+0:2:13,11 --> 0:2:15,569
+So --
+>>Conan O'Brien: But you invited me, and that's
+
+
+27
+0:2:15,569 --> 0:2:16,22
+your problem.
+>>Vic Gundotra: I did.
+
+
+28
+0:2:16,22 --> 0:2:20,4
+So you were at Twitter last week.
+>>Conan O'Brien: No.
+
+
+29
+0:2:20,4 --> 0:2:24,85
+It was a couple of weeks ago.
+Look it up online.
+
+
+30
+0:2:24,85 --> 0:2:26,66
+Ha-ha.
+[ Applause ]
+
+
+31
+0:2:26,66 --> 0:2:30,8
+>>Vic Gundotra: This is harder than it looks.
+[ Laughter ]
+
+
+32
+0:2:30,8 --> 0:2:33,0
+>>Conan O'Brien: Yes.
+I love this format.
+
+
+33
+0:2:33,0 --> 0:2:35,58
+What is this format we're doing here?
+This is nice.
+
+
+34
+0:2:35,58 --> 0:2:36,58
+So --
+>>Vic Gundotra: It's kind of like a slow dance.
+
+
+35
+0:2:36,58 --> 0:2:37,94
+Exactly.
+Like a slow dance.
+
+
+36
+0:2:37,94 --> 0:2:40,99
+>>Conan O'Brien: Circling me.
+[ Laughter ]
+
+
+37
+0:2:40,99 --> 0:2:44,78
+>>Vic Gundotra: It's like a waltz.
+Let's see --
+
+
+38
+0:2:44,78 --> 0:2:48,58
+>>Conan O'Brien: I'm a Googler.
+>>Vic Gundotra: "G" man.
+
+
+39
+0:2:48,58 --> 0:2:55,72
+>>Conan O'Brien: "G" man, yes.
+So what were you asking me?
+
+
+40
+0:2:55,72 --> 0:2:58,34
+You asked me about Twitter.
+Yes, I went by Twitter.
+
+
+41
+0:2:58,34 --> 0:3:1,93
+Does that bother you guys?
+Are you guys mad at Twitter or something?
+
+
+42
+0:3:1,93 --> 0:3:4,79
+I don't know what the rivalries are here.
+You have to explain it to me.
+
+
+43
+0:3:4,79 --> 0:3:7,62
+>>Vic Gundotra: It wasn't a rivalry.
+A lot of us were wondering the intentions,
+
+
+44
+0:3:7,62 --> 0:3:12,4
+Intel, Twitter, Googler.
+Coco, level with me, are you looking for a
+
+
+45
+0:3:12,4 --> 0:3:14,33
+job in the Silicon Valley.
+Is that what you're doing?
+
+
+46
+0:3:14,33 --> 0:3:17,96
+>>Conan O'Brien: I'm looking for free stuff.
+>>Vic Gundotra: Free stuff.
+
+
+47
+0:3:17,96 --> 0:3:22,319
+You've come to the right place.
+You've come to the right place.
+
+
+48
+0:3:22,319 --> 0:3:25,1
+Why don't you have a seat.
+>>Conan O'Brien: Yes, let's sit in this fake
+
+
+49
+0:3:25,1 --> 0:3:28,19
+airport lounge that we've created.
+>>Vic Gundotra: Yes.
+
+
+50
+0:3:28,19 --> 0:3:31,47
+[ Laughter ]
+>>Conan O'Brien: My flight was supposed to
+
+
+51
+0:3:31,47 --> 0:3:35,11
+board 20 minutes ago.
+Is this complimentary?
+
+
+52
+0:3:35,11 --> 0:3:37,63
+>>Vic Gundotra: It is.
+>>Conan O'Brien: Then this trip was worth
+
+
+53
+0:3:37,63 --> 0:3:38,1
+it.
+[ Laughter ]
+
+
+54
+0:3:38,1 --> 0:3:41,74
+>>Conan O'Brien: So I'm sure you have many
+questions for me.
+
+
+55
+0:3:41,74 --> 0:3:43,36
+>>Vic Gundotra: I do.
+But don't mind me.
+
+
+56
+0:3:43,36 --> 0:3:46,319
+If you feel like dancing, go right for it.
+>>Conan O'Brien: Whatever you like.
+
+
+57
+0:3:46,319 --> 0:3:49,83
+>>Vic Gundotra: So we have a thing inside
+Google called a Dory.
+
+
+58
+0:3:49,83 --> 0:3:53,31
+It basically allows -- a Dory, an internal
+name: You don't need to know what it is.
+
+
+59
+0:3:53,31 --> 0:3:54,48
+[ Laughter ]
+.
+
+
+60
+0:3:54,48 --> 0:3:57,98
+>>Vic Gundotra: It allows --
+>>Conan O'Brien: The most condescending man
+
+
+61
+0:3:57,98 --> 0:4:2,349
+I've ever met.
+Hey, don't you worry about it.
+
+
+62
+0:4:2,349 --> 0:4:3,97
+[ Laughter ]
+>>Conan O'Brien: You just relax and let the
+
+
+63
+0:4:3,97 --> 0:4:8,4
+search engine do the work.
+>>Vic Gundotra: We have 45 minutes.
+
+
+64
+0:4:8,4 --> 0:4:12,2
+We're just getting started.
+>>Conan O'Brien: I've got nowhere else to
+
+
+65
+0:4:12,2 --> 0:4:17,31
+go.
+This looks like the club in purple rain.
+
+
+66
+0:4:17,31 --> 0:4:18,47
+I like everybody --
+[ Laughter ]
+
+
+67
+0:4:18,47 --> 0:4:22,99
+>>Conan O'Brien: Are you all -- whoo!
+-- dancing?
+
+
+68
+0:4:22,99 --> 0:4:26,18
+When Morris day and the time come out.
+You kids are young.
+
+
+69
+0:4:26,18 --> 0:4:31,25
+You'll figure it out soon.
+>>Vic Gundotra: So Googlers, or "G" men --
+
+
+70
+0:4:31,25 --> 0:4:33,44
+>>Conan O'Brien: And ladies.
+>>Vic Gundotra: -- and ladies, submitted a
+
+
+71
+0:4:33,44 --> 0:4:35,84
+bunch of questions.
+It's a very Democratic process.
+
+
+72
+0:4:35,84 --> 0:4:40,7
+We get to vote on the best questions.
+And then I cull them and pick the best one,
+
+
+73
+0:4:40,7 --> 0:4:43,81
+so it's quasi Democratic, I guess.
+>>Conan O'Brien: It's not Democratic at all.
+
+
+74
+0:4:43,81 --> 0:4:48,62
+[ Laughter ]
+>>Conan O'Brien: That's like Stalin saying,
+
+
+75
+0:4:48,62 --> 0:4:51,19
+"You guys decide amongst yourselves and then
+I'll kill all of you."
+
+
+76
+0:4:51,19 --> 0:4:56,44
+>>Vic Gundotra: Yeah, I guess you're right.
+>>Conan O'Brien: How is that Democratic?
+
+
+77
+0:4:56,44 --> 0:4:58,81
+>>Vic Gundotra: You have a point.
+>>Conan O'Brien: You have the illusion of
+
+
+78
+0:4:58,81 --> 0:5:1,99
+democracy here.
+Give them some turquoise girl's bicycles.
+
+
+79
+0:5:1,99 --> 0:5:13,31
+[ Laughter. ]
+>>Conan O'Brien: Give them some free chai
+
+
+80
+0:5:13,31 --> 0:5:17,31
+lattes, and then grind them for all they're
+worth.
+
+
+81
+0:5:17,31 --> 0:5:21,8
+[ Laughter. ]
+>>Conan O'Brien: You're getting nervous, aren't
+
+
+82
+0:5:21,8 --> 0:5:23,11
+you?
+>>Vic Gundotra: No.
+
+
+83
+0:5:23,11 --> 0:5:25,2
+[ Laughter. ]
+>>Conan O'Brien: You're wishing I hadn't come.
+
+
+84
+0:5:25,2 --> 0:5:28,889
+[ Laughter ]
+>>Vic Gundotra: Let's start with the questions.
+
+
+85
+0:5:28,889 --> 0:5:32,8
+[ Laughter ]
+>>Vic Gundotra: The first one is from a Googler
+
+
+86
+0:5:32,8 --> 0:5:34,24
+named "Chirp."
+>>Conan O'Brien: Named what?
+
+
+87
+0:5:34,24 --> 0:5:37,389
+>>Vic Gundotra: It says "chirp."
+I'm sorry. It says "Chip."
+
+
+88
+0:5:37,389 --> 0:5:41,1
+>>Conan O'Brien: Why are you running this
+thing?
+
+
+89
+0:5:41,1 --> 0:5:45,2
+"This first question is from Chirp."
+[ Laughter ]
+
+
+90
+0:5:45,2 --> 0:5:48,32
+>>Conan O'Brien: Lipslav gibble ja- -- Oh,
+I'm sorry. It's upside-down.
+
+
+91
+0:5:48,32 --> 0:5:50,62
+You're going to be fine.
+Breathe deeply.
+
+
+92
+0:5:50,62 --> 0:5:55,34
+We'll get through this.
+>>Vic Gundotra: Here's the question: What
+
+
+93
+0:5:55,34 --> 0:6:0,54
+lessons and wisdom can you offer those seeking
+to grow a beard as luxurious as yours?
+
+
+94
+0:6:0,54 --> 0:6:5,86
+>>Conan O'Brien: Shots of testosterone helped
+me.
+
+
+95
+0:6:5,86 --> 0:6:14,13
+I grew this beard pretty much out of -- it
+was a -- a feeling of -- for every day for
+
+
+96
+0:6:14,13 --> 0:6:20,3
+17 years, I've had to shave.
+And I just -- the first day that I didn't
+
+
+97
+0:6:20,3 --> 0:6:23,57
+have "The Tonight Show," I woke up and I thought,
+at least I don't have to shave.
+
+
+98
+0:6:23,57 --> 0:6:26,0
+And then I went with that.
+And it's one of those things where you just
+
+
+99
+0:6:26,0 --> 0:6:28,58
+go with the opportunity.
+I just stopped shaving.
+
+
+100
+0:6:28,58 --> 0:6:32,5
+And then, really, very quickly, 'cause I'm
+all man, --
+
+
+101
+0:6:32,5 --> 0:6:35,61
+[ Laughter ]
+>>Conan O'Brien: -- I had this beard, literally,
+
+
+102
+0:6:35,61 --> 0:6:38,49
+within a day, I had this beard.
+[ Laughter ]
+
+
+103
+0:6:38,49 --> 0:6:44,8
+>>Conan O'Brien: I am very -- I am just all
+man is what I am.
+
+
+104
+0:6:44,8 --> 0:6:46,74
+>>Vic Gundotra: Good answer.
+>>Conan O'Brien: I -- so I say -- but, you
+
+
+105
+0:6:46,74 --> 0:6:50,37
+know, you hipsters and hep cats, you -- What
+generation is this?
+
+
+106
+0:6:50,37 --> 0:6:52,16
+You're not "Y" even.
+You're past "Y."
+
+
+107
+0:6:52,16 --> 0:6:54,65
+How old are you people?
+Are you all in your twenties?
+
+
+108
+0:6:54,65 --> 0:6:58,86
+[ Cheers and applause ]
+>>Conan O'Brien: So you've, like, never even
+
+
+109
+0:6:58,86 --> 0:7:1,71
+heard of the television show "chips."
+I'm just running a test.
+
+
+110
+0:7:1,71 --> 0:7:6,81
+You don't even know what that was.
+You were all born, like, after "the Cosby
+
+
+111
+0:7:6,81 --> 0:7:11,31
+show" was off the air.
+I'm quickly trying to find out who this audience
+
+
+112
+0:7:11,31 --> 0:7:12,84
+is.
+All in your twenties.
+
+
+113
+0:7:12,84 --> 0:7:15,6
+>>Vic Gundotra: They don't even know what
+"The Tonight Show" is.
+
+
+114
+0:7:15,6 --> 0:7:18,9
+They watch the YouTube channel, though.
+>>Conan O'Brien: That's good.
+
+
+115
+0:7:18,9 --> 0:7:21,99
+I like that.
+Who needs to know what a "tonight show" is
+
+
+116
+0:7:21,99 --> 0:7:25,53
+anymore.
+[ Applause ]
+
+
+117
+0:7:25,53 --> 0:7:38,91
+>>Conan O'Brien: (Sobbing) it hurts so much.
+>>Vic Gundotra: Where are we?
+
+
+118
+0:7:38,91 --> 0:7:42,36
+It'll get better.
+>>Conan O'Brien: Anyway, yes.
+
+
+119
+0:7:42,36 --> 0:7:45,32
+>>Vic Gundotra: This one is from Mike in New
+York City.
+
+
+120
+0:7:45,32 --> 0:7:47,88
+>>Conan O'Brien: Are you sure?
+You want to read that carefully?
+
+
+121
+0:7:47,88 --> 0:7:52,389
+It's from Mitchell in --
+>>Vic Gundotra: I've heard that Mr. Burns
+
+
+122
+0:7:52,389 --> 0:7:54,9
+was your favorite "Simpson" character to write
+for.
+
+
+123
+0:7:54,9 --> 0:8:1,9
+What is your favorite Mr. Burns quote of all
+time, either written by you or someone else?
+
+
+124
+0:8:1,9 --> 0:8:7,12
+>>Conan O'Brien: Boy, I don't -- I can't 
+-- don't -- there's not one that comes to
+
+
+125
+0:8:7,12 --> 0:8:9,509
+mind.
+>>Vic Gundotra: You want to make one up?
+
+
+126
+0:8:9,509 --> 0:8:13,289
+>>Conan O'Brien: Well, I guess one of my favorite
+things that was a repeating joke we did all
+
+
+127
+0:8:13,289 --> 0:8:18,27
+the time that always made me laugh was that
+Mr. Simpson [sic], even though he had had
+
+
+128
+0:8:18,27 --> 0:8:24,52
+hundreds and hundreds of death-defying encounters
+with Homer Simpson, never remembers who he
+
+
+129
+0:8:24,52 --> 0:8:27,259
+is.
+I always love every time Homer is brought
+
+
+130
+0:8:27,259 --> 0:8:33,99
+into his office, he's like, "Simpson, eh?"
+And could never remember who he was.
+
+
+131
+0:8:33,99 --> 0:8:37,269
+My other favorite thing is that we made him
+impossibly old.
+
+
+132
+0:8:37,269 --> 0:8:43,929
+We always -- there's an episode, I think that
+John Swartzwelder wrote, where Mr. Burns wants
+
+
+133
+0:8:43,929 --> 0:8:48,74
+to play -- assemble his old -- a baseball
+team, and he wants to assemble a baseball
+
+
+134
+0:8:48,74 --> 0:8:53,92
+team of ringers.
+So he's going and saying, "Get Luke Appleby,
+
+
+135
+0:8:53,92 --> 0:8:57,47
+Morris Brisby," all these people who died
+in 1905.
+
+
+136
+0:8:57,47 --> 0:9:4,429
+And he can't believe they're not alive anymore.
+He was just the most fun person to write for,
+
+
+137
+0:9:4,429 --> 0:9:10,42
+because he's a comedy writer's fantasy.
+There's limitless potential for him because
+
+
+138
+0:9:10,42 --> 0:9:16,429
+he has unlimited wealth and he's as old as
+time, we can do anything we wanted.
+
+
+139
+0:9:16,429 --> 0:9:21,22
+He could have chambers deep down underneath
+his house where he would -- he could be asleep
+
+
+140
+0:9:21,22 --> 0:9:24,5
+in a hyperbaric chamber when Smithers comes
+to get him.
+
+
+141
+0:9:24,5 --> 0:9:27,759
+Whatever we thought of, we could make happen.
+>>Vic Gundotra: I appreciate your explaining
+
+
+142
+0:9:27,759 --> 0:9:33,589
+that to me, because if I had to guess what
+a comedy writer's fantasy would be, I would
+
+
+143
+0:9:33,589 --> 0:9:35,209
+have gone elsewhere.
+But thanks.
+
+
+144
+0:9:35,209 --> 0:9:36,839
+Now I understand.
+Good character.
+
+
+145
+0:9:36,839 --> 0:9:40,529
+Let's go else -- let's -- I've apparently
+left you stunned now.
+
+
+146
+0:9:40,529 --> 0:9:43,19
+>>Conan O'Brien: Do you interact with this
+man on a regular basis?
+
+
+147
+0:9:43,19 --> 0:9:47,529
+[ Laughter ]
+>>Vic Gundotra: Here's -- I won't even tell
+
+
+148
+0:9:47,529 --> 0:9:51,61
+who you this is from, except not from me.
+This is from the audience.
+
+
+149
+0:9:51,61 --> 0:9:55,92
+Are you interested in working at Google?
+You can totally have my job exactly five years
+
+
+150
+0:9:55,92 --> 0:9:57,889
+from today.
+[ Laughter ]
+
+
+151
+0:9:57,889 --> 0:10:2,379
+>>Conan O'Brien: I would take that offer at
+this point.
+
+
+152
+0:10:2,379 --> 0:10:4,49
+The way things are going, I would take that
+offer.
+
+
+153
+0:10:4,49 --> 0:10:6,889
+>>Vic Gundotra: All right.
+>>Conan O'Brien: This seems to be a growth
+
+
+154
+0:10:6,889 --> 0:10:11,19
+industry, so, yes, whoever you are, I'm very
+interested.
+
+
+155
+0:10:11,19 --> 0:10:13,55
+Do I get to choose my -- can I bring my own
+bike here?
+
+
+156
+0:10:13,55 --> 0:10:15,1
+Is that possible?
+>>Vic Gundotra: Yes.
+
+
+157
+0:10:15,1 --> 0:10:17,89
+We would do that.
+>>Conan O'Brien: Or choose from one of the
+
+
+158
+0:10:17,89 --> 0:10:24,4
+Willy Wonka bikes?
+Out in the factory.
+
+
+159
+0:10:24,4 --> 0:10:30,489
+No, I think you guys are doing something right
+here at Google, and I'm all in!
+
+
+160
+0:10:30,489 --> 0:10:32,36
+About stock, how does it work?
+[ Laughter ]
+
+
+161
+0:10:32,36 --> 0:10:37,449
+>>Vic Gundotra: We can work that out for you.
+>>Conan O'Brien: I could get something, I
+
+
+162
+0:10:37,449 --> 0:10:40,209
+think.
+>>Vic Gundotra: Plus a custom bike.
+
+
+163
+0:10:40,209 --> 0:10:42,509
+Somebody taking notes?
+Okay, good.
+
+
+164
+0:10:42,509 --> 0:10:49,17
+Okay, can you please do a dance for us, the
+worm, the sprinkle head at the very least.
+
+
+165
+0:10:49,17 --> 0:10:53,149
+>>Conan O'Brien: What the hell is this?
+What am I, a -- seriously, what is this?
+
+
+166
+0:10:53,149 --> 0:10:58,4
+You guys are so power-mad now at Google.
+[ Laughter ]
+
+
+167
+0:10:58,4 --> 0:11:5,559
+>>Conan O'Brien: You're such entitled A-holes,
+hey, Conan's in the area, make him come by.
+
+
+168
+0:11:5,559 --> 0:11:10,209
+Conan, get over here!
+Get over here before your show, get over here!
+
+
+169
+0:11:10,209 --> 0:11:13,759
+What do you want, you can have one water.
+[ Laughter ]
+
+
+170
+0:11:13,759 --> 0:11:18,309
+>>Conan O'Brien: We've got a stool for you.
+Hey, do a dance!
+
+
+171
+0:11:18,309 --> 0:11:23,11
+Dance around a little bit!
+Turn around!
+
+
+172
+0:11:23,11 --> 0:11:25,239
+Let's see your ass!
+[ Applause ]
+
+
+173
+0:11:25,239 --> 0:11:30,59
+>>Conan O'Brien: Yeah, that was pretty good.
+All right.
+
+
+174
+0:11:30,59 --> 0:11:34,23
+Hey, you want my job in five years?
+Maybe I'll give it to you, ha-ha-ha.
+
+
+175
+0:11:34,23 --> 0:11:39,66
+Get out of here!
+Go do your show!
+
+
+176
+0:11:39,66 --> 0:11:43,119
+What's happened you to people?
+Okay.
+
+
+177
+0:11:43,119 --> 0:11:45,47
+So about this dance, what do you want?
+[ Laughter ]
+
+
+178
+0:11:45,47 --> 0:11:51,47
+>>Conan O'Brien: What's that, you want some
+string dance?
+
+
+179
+0:11:51,47 --> 0:11:53,79
+>>Vic Gundotra: String --
+[ Applause ]
+
+
+180
+0:11:53,79 --> 0:11:59,779
+[ Cheers and applause ]
+>>Vic Gundotra: How do I do this?
+
+
+181
+0:11:59,779 --> 0:12:8,589
+>>Conan O'Brien: Lick your fingers first.
+>>Vic Gundotra: I can do that.
+
+
+182
+0:12:8,589 --> 0:12:11,529
+>>Conan O'Brien: Okay.
+Okay.
+
+
+183
+0:12:11,529 --> 0:12:13,829
+And a little right here.
+>>> Whoo!
+
+
+184
+0:12:13,829 --> 0:12:15,689
+>>Conan O'Brien: Grab the string, right side
+first.
+
+
+185
+0:12:15,689 --> 0:12:18,49
+Loosen this up.
+Loosen that up and then you go like that.
+
+
+186
+0:12:18,49 --> 0:12:21,559
+Then you have to cut the string.
+Then if you're feeling really crazy, you can
+
+
+187
+0:12:21,559 --> 0:12:28,869
+pull up on this one and cut it, pull that
+one and cut it.
+
+
+188
+0:12:28,869 --> 0:12:35,19
+And just go to town.
+>>Vic Gundotra: I like it.
+
+
+189
+0:12:35,19 --> 0:12:37,269
+I like it.
+[ Applause ]
+
+
+190
+0:12:37,269 --> 0:12:41,61
+>>Conan O'Brien: Come on, speed it up, Conan.
+I'm late for my hacky sack in the courtyard.
+
+
+191
+0:12:41,61 --> 0:12:47,47
+>>Vic Gundotra: This is from George, also
+from New York.
+
+
+192
+0:12:47,47 --> 0:12:51,19
+Conan, you have the power to change the game
+on YouTube.
+
+
+193
+0:12:51,19 --> 0:12:54,879
+What are you waiting for?
+>>Conan O'Brien: What does he mean, what am
+
+
+194
+0:12:54,879 --> 0:12:59,98
+I waiting for?
+Like, clarify, please.
+
+
+195
+0:12:59,98 --> 0:13:2,86
+>>Vic Gundotra: Unfortunately, George is in
+New York.
+
+
+196
+0:13:2,86 --> 0:13:6,89
+>>Conan O'Brien: Oh, okay.
+I'm not waiting for anything.
+
+
+197
+0:13:6,89 --> 0:13:7,91
+I'm going with the flow.
+That's what I'm doing right now.
+
+
+198
+0:13:7,91 --> 0:13:13,549
+I've been through a transformative event in
+the last three and a half months, just really
+
+
+199
+0:13:13,549 --> 0:13:19,309
+nice way of saying I got screwed.
+[ Laughter ]
+
+
+200
+0:13:19,309 --> 0:13:25,79
+>>Conan O'Brien: You have no natural reflex.
+[ Laughter ]
+
+
+201
+0:13:25,79 --> 0:13:32,459
+>>Vic Gundotra: Yeah, my wife --
+>>Conan O'Brien: They built you here, didn't
+
+
+202
+0:13:32,459 --> 0:13:36,92
+they?
+There's some nerd way in the back, "The program's
+
+
+203
+0:13:36,92 --> 0:13:40,119
+faulty."
+>>Vic Gundotra: I have to admit --
+
+
+204
+0:13:40,119 --> 0:13:45,389
+>>Conan O'Brien: It's not reading correctly.
+>>Vic Gundotra: You're pretty impressive to
+
+
+205
+0:13:45,389 --> 0:13:51,1
+pick up on that.
+My wife didn't realize that until after we
+
+
+206
+0:13:51,1 --> 0:13:54,97
+were married.
+Okay.
+
+
+207
+0:13:54,97 --> 0:13:55,429
+Let's --
+[ Laughter ]
+
+
+208
+0:13:55,429 --> 0:13:57,69
+>>Conan O'Brien: We've really got to fix this
+thing!
+
+
+209
+0:13:57,69 --> 0:14:3,67
+>>Vic Gundotra: So what sketch have you always
+wanted to do that wasn't safe for network
+
+
+210
+0:14:3,67 --> 0:14:7,79
+television?
+And will you bring it to life on cable?
+
+
+211
+0:14:7,79 --> 0:14:11,199
+>>Conan O'Brien: I -- wow.
+Okay.
+
+
+212
+0:14:11,199 --> 0:14:16,829
+Well, we've had many thoughts over the years
+about things that we weren't sure we could
+
+
+213
+0:14:16,829 --> 0:14:19,329
+do.
+But I have to say, for the most part, I got
+
+
+214
+0:14:19,329 --> 0:14:24,699
+away with murder.
+There's this illusion that, oh, you know,
+
+
+215
+0:14:24,699 --> 0:14:28,549
+the -- these men in suits restrained and shackled
+Conan.
+
+
+216
+0:14:28,549 --> 0:14:33,739
+They never really let him grow a beard or
+do comedy that was weird.
+
+
+217
+0:14:33,739 --> 0:14:40,389
+And the truth is, because for a long time,
+for the majority of my career, I was on at
+
+
+218
+0:14:40,389 --> 0:14:42,999
+12:35 at night, nobody that I worked for watched
+my show.
+
+
+219
+0:14:42,999 --> 0:14:45,149
+[ Laughter ]
+>>Conan O'Brien: They didn't see it.
+
+
+220
+0:14:45,149 --> 0:14:49,66
+And so we just ran with it.
+We just -- I mean, I think about all the things
+
+
+221
+0:14:49,66 --> 0:14:55,759
+we did over the years that are just completely
+absurd, obscene, weird.
+
+
+222
+0:14:55,759 --> 0:15:0,629
+They didn't go through any filter whatsoever.
+And often, every now and then, they assign
+
+
+223
+0:15:0,629 --> 0:15:8,369
+a lawyer to watch the show and give us notes.
+And they were constantly missing the incredibly
+
+
+224
+0:15:8,369 --> 0:15:13,519
+obscene thing we were doing and giving us
+notes about pronunciation of something completely
+
+
+225
+0:15:13,519 --> 0:15:18,19
+unrelated or -- and so there's not a lot that
+I couldn't do.
+
+
+226
+0:15:18,19 --> 0:15:22,48
+I think it's more about the tone.
+I think the tone might change a little bit
+
+
+227
+0:15:22,48 --> 0:15:24,449
+now.
+Because, like I say, I've been through this
+
+
+228
+0:15:24,449 --> 0:15:27,79
+event.
+And the last three and a half months has been
+
+
+229
+0:15:27,79 --> 0:15:34,509
+all improvisation.
+The groundswell of Internet support from a
+
+
+230
+0:15:34,509 --> 0:15:39,249
+lot of young people that are in this room
+completely took my network by surprise.
+
+
+231
+0:15:39,249 --> 0:15:42,559
+They don't know what hit them.
+They -- I think there's a lot of people in
+
+
+232
+0:15:42,559 --> 0:15:49,949
+broadcast television that are very dismissive
+or have been very dismissive about the Internet.
+
+
+233
+0:15:49,949 --> 0:15:55,309
+And they're also afraid of it.
+And they tend to deride what they don't understand.
+
+
+234
+0:15:55,309 --> 0:16:1,559
+So when this explosion happened on the Internet,
+when they announced that, well, okay, maybe
+
+
+235
+0:16:1,559 --> 0:16:7,459
+we're going to slide Conan over to accommodate
+this other gentleman who's having his difficulties
+
+
+236
+0:16:7,459 --> 0:16:10,47
+in another time period, and I won't get into
+specifics, you'll have to look it up.
+
+
+237
+0:16:10,47 --> 0:16:15,419
+[ Laughter ]
+>>Conan O'Brien: And I said, you know, what,
+
+
+238
+0:16:15,419 --> 0:16:18,149
+that doesn't really work for me, I think,
+in a fairly polite way.
+
+
+239
+0:16:18,149 --> 0:16:25,89
+They -- there was suddenly a huge reaction
+from people -- you know, some of the people
+
+
+240
+0:16:25,89 --> 0:16:29,139
+in this room, a lot of people like you across
+the country said, "Wait a minute, we like
+
+
+241
+0:16:29,139 --> 0:16:35,72
+this person, and this person kind of, you
+know, is -- we're with him."
+
+
+242
+0:16:35,72 --> 0:16:41,54
+And they started reacting on the Internet.
+And the first thing that happened at my employers,
+
+
+243
+0:16:41,54 --> 0:16:44,999
+they saw this huge explosion on the Internet
+and thought that I was doing it.
+
+
+244
+0:16:44,999 --> 0:16:46,73
+[ Laughter ]
+>>Conan O'Brien: And they really had this
+
+
+245
+0:16:46,73 --> 0:16:50,459
+attitude of, "Make him stop."
+"Why is he doing this?"
+
+
+246
+0:16:50,459 --> 0:16:55,439
+And they didn't understand what was happening.
+I think they still don't understand what's
+
+
+247
+0:16:55,439 --> 0:16:59,47
+happening.
+And my feeling is, what I've learned is, I
+
+
+248
+0:16:59,47 --> 0:17:5,89
+had nowhere else to go, so I started on Twitter
+because I literally had no other option.
+
+
+249
+0:17:5,89 --> 0:17:12,49
+I was -- I was and am legally prohibited from
+appearing on television, radio, and doing
+
+
+250
+0:17:12,49 --> 0:17:16,26
+performances on the Internet.
+So it was just, literally, like a prisoner
+
+
+251
+0:17:16,26 --> 0:17:21,2
+in a 14th-century cell writing little things
+on a scrap of paper and throwing them out
+
+
+252
+0:17:21,2 --> 0:17:22,69
+the window --
+[ Laughter. ]
+
+
+253
+0:17:22,69 --> 0:17:27,8
+>>Conan O'Brien: -- and hoping a peasant would
+go by and, "Hey, what's this?
+
+
+254
+0:17:27,8 --> 0:17:32,75
+He's in the tower!"
+So I started to do that and send out these
+
+
+255
+0:17:32,75 --> 0:17:35,35
+little things.
+And it exploded overnight.
+
+
+256
+0:17:35,35 --> 0:17:40,81
+And at first, I started to hear a little bit
+of stuff from the other side saying, "We're
+
+
+257
+0:17:40,81 --> 0:17:44,91
+not sure you should be able to -- allowed
+to -- because of the --" and then they realized
+
+
+258
+0:17:44,91 --> 0:17:49,15
+the absurdity of shutting down my Twitter
+account.
+
+
+259
+0:17:49,15 --> 0:17:53,64
+[ Laughter ]
+>>Conan O'Brien: So that started with that.
+
+
+260
+0:17:53,64 --> 0:17:57,5
+And then I started to think about the tour,
+which I'm allowed to do.
+
+
+261
+0:17:57,5 --> 0:18:2,67
+And so we started this idea for a tour.
+And then what was fascinating is, by the time
+
+
+262
+0:18:2,67 --> 0:18:7,26
+we launched the tour, or announced the tour,
+I did not do one -- I didn't spend one penny
+
+
+263
+0:18:7,26 --> 0:18:12,26
+often advertising.
+I sent out one tweet that directed people
+
+
+264
+0:18:12,26 --> 0:18:17,14
+to a Web site where you could buy your ticket.
+That was it.
+
+
+265
+0:18:17,14 --> 0:18:20,83
+And the show sold out in a couple of hours
+across the country.
+
+
+266
+0:18:20,83 --> 0:18:26,6
+And that's got everybody, a lot of people,
+rethinking how things are marketed.
+
+
+267
+0:18:26,6 --> 0:18:29,51
+And I -- there's not one billboard.
+There's not -- I didn't have to go to one
+
+
+268
+0:18:29,51 --> 0:18:34,67
+radio station and sit with morning deejays,
+like, and hawk my show.
+
+
+269
+0:18:34,67 --> 0:18:36,83
+I didn't have to do any of that.
+It was one tweet.
+
+
+270
+0:18:36,83 --> 0:18:40,85
+And I think people are starting to understand
+that the world has completely changed.
+
+
+271
+0:18:40,85 --> 0:18:43,65
+[ Applause ]
+>>Conan O'Brien: And, you know, it has.
+
+
+272
+0:18:43,65 --> 0:18:45,39
+And it is changing.
+[ Applause ]
+
+
+273
+0:18:45,39 --> 0:18:49,86
+>>Conan O'Brien: And I think we can do better!
+Sorry.
+
+
+274
+0:18:49,86 --> 0:18:52,31
+I --
+>>Vic Gundotra: That was great.
+
+
+275
+0:18:52,31 --> 0:18:54,47
+>>Conan O'Brien: -- forgot I wasn't running
+for something.
+
+
+276
+0:18:54,47 --> 0:19:0,72
+But -- but I think that's what's -- what 
+-- the biggest lesson that I've learned in
+
+
+277
+0:19:0,72 --> 0:19:3,72
+the last three and a half months, is just
+a good life lesson.
+
+
+278
+0:19:3,72 --> 0:19:6,99
+I'm not trying to sound corny or anything,
+but these things happen to you, and you think
+
+
+279
+0:19:6,99 --> 0:19:8,9
+you've been dealt a terrible hand or had bad
+luck.
+
+
+280
+0:19:8,9 --> 0:19:15,61
+And when you go with it and start improvising,
+suddenly, you realize that you stumble upon
+
+
+281
+0:19:15,61 --> 0:19:17,91
+some of the best things that have ever happened
+to you.
+
+
+282
+0:19:17,91 --> 0:19:23,4
+And what's interesting about Twitter is that
+because you're limited to I think it's 140
+
+
+283
+0:19:23,4 --> 0:19:32,64
+characters -- someone is going to correct
+me right now -- "Not so!"
+
+
+284
+0:19:32,64 --> 0:19:40,78
+[ Laughter ]
+>>Conan O'Brien: -- you're all going to rush
+
+
+285
+0:19:40,78 --> 0:19:41,86
+the stage.
+[ Laughter ]
+
+
+286
+0:19:41,86 --> 0:19:46,92
+>>Conan O'Brien: Beats the crap out of me.
+But because you're limited, it's a great economy-writing
+
+
+287
+0:19:46,92 --> 0:19:49,54
+tool.
+There's economy of words.
+
+
+288
+0:19:49,54 --> 0:19:55,73
+I'm constantly writing things and then I run
+them past Big Bley (phonetic), who is taking
+
+
+289
+0:19:55,73 --> 0:19:59,86
+the pictures over there, as if he doesn't
+have enough photos of me.
+
+
+290
+0:19:59,86 --> 0:20:5,95
+But -- He'll say, "Well, that's actually three
+words over."
+
+
+291
+0:20:5,95 --> 0:20:10,74
+And it forces you to look back at the sentence,
+and it's -- it forces you to crystallize your
+
+
+292
+0:20:10,74 --> 0:20:15,7
+comedy idea, which is fascinating.
+And the other thing is, I've been -- this
+
+
+293
+0:20:15,7 --> 0:20:17,84
+whole tour wouldn't have happened.
+This tour is a dream come true for me.
+
+
+294
+0:20:17,84 --> 0:20:26,7
+I've always wanted to -- it's half rock show,
+half comedy show, and then it's this fantasy
+
+
+295
+0:20:26,7 --> 0:20:29,48
+to get to do this.
+So the last three and a half months have been
+
+
+296
+0:20:29,48 --> 0:20:33,13
+the most interesting time in my entire career,
+and I wouldn't have traded this for anything
+
+
+297
+0:20:33,13 --> 0:20:36,65
+in the world.
+And so three and a half months ago, what looked
+
+
+298
+0:20:36,65 --> 0:20:40,42
+to everybody like bad luck has become amazingly
+good luck.
+
+
+299
+0:20:40,42 --> 0:20:47,37
+And I think that is a lot of what we're --
+ what relates to everybody here, a lot of
+
+
+300
+0:20:47,37 --> 0:20:52,47
+you are in your twenties, and you take for
+granted that this is the way the world is
+
+
+301
+0:20:52,47 --> 0:20:57,2
+right now.
+But from my perspective, it's changed dramatically
+
+
+302
+0:20:57,2 --> 0:21:0,3
+in just seven years.
+And I don't even know where we're going to
+
+
+303
+0:21:0,3 --> 0:21:3,3
+be five years from now.
+So I don't know what television's going to
+
+
+304
+0:21:3,3 --> 0:21:5,39
+be five years from now.
+There's a lot of people who think you're just
+
+
+305
+0:21:5,39 --> 0:21:10,93
+going to experience it all through your server.
+And people don't even know how the business
+
+
+306
+0:21:10,93 --> 0:21:13,39
+is going to change.
+There might not be, really, network television
+
+
+307
+0:21:13,39 --> 0:21:18,159
+as we know it.
+Wouldn't that be sweet!
+
+
+308
+0:21:18,159 --> 0:21:20,95
+[ Laughter ]
+>>Conan O'Brien: So you know what I mean?
+
+
+309
+0:21:20,95 --> 0:21:25,68
+Who knows?
+So, you know -- seize the day, carpe diem.
+
+
+310
+0:21:25,68 --> 0:21:27,72
+I hate it when people say that.
+I just wanted to work it in.
+
+
+311
+0:21:27,72 --> 0:21:32,87
+I'm going to keep talking to you.
+Ask another question.
+
+
+312
+0:21:32,87 --> 0:21:38,5
+>>Vic Gundotra: I think your point about,
+you know, with "The Tonight Show" fiasco,
+
+
+313
+0:21:38,5 --> 0:21:41,65
+ended up one of the best things you could
+ever imagine happening to you.
+
+
+314
+0:21:41,65 --> 0:21:45,89
+Look, you're here, taking questions from me.
+>>Conan O'Brien: Again, incredible arrogance
+
+
+315
+0:21:45,89 --> 0:21:53,9
+from you people.
+Incredible arrogance to say that, yes, you're
+
+
+316
+0:21:53,9 --> 0:21:56,2
+right, this is the best thing that ever happened
+to you.
+
+
+317
+0:21:56,2 --> 0:21:59,52
+>>Vic Gundotra: Yes.
+>>Conan O'Brien: 'Cause you made it to Google
+
+
+318
+0:21:59,52 --> 0:22:2,88
+with us Googlers.
+>>Vic Gundotra: "G" men.
+
+
+319
+0:22:2,88 --> 0:22:8,36
+Jay Leno has a big chin, you have a giant
+head --
+
+
+320
+0:22:8,36 --> 0:22:13,12
+>>Conan O'Brien: Ha-h -- can't talk about
+that other guy.
+
+
+321
+0:22:13,12 --> 0:22:17,35
+>>Vic Gundotra: Has a big chin.
+You have --
+
+
+322
+0:22:17,35 --> 0:22:22,65
+>>Conan O'Brien: Legal restraints, legal restraints.
+"Hey, why can't you"
+
+
+323
+0:22:22,65 --> 0:22:27,68
+"I didn't do anything. I did as I was told."
+[ Applause ]
+
+
+324
+0:22:27,68 --> 0:22:35,48
+[ Cheers and applause ]
+>>Vic Gundotra: Thank you.
+
+
+325
+0:22:35,48 --> 0:22:40,1
+So this other guy --
+>>Conan O'Brien: That's my impression of Rapper
+
+
+326
+0:22:40,1 --> 0:22:41,73
+Ludicrous.
+[ Laughter ]
+
+
+327
+0:22:41,73 --> 0:22:46,26
+>>Conan O'Brien: We all on the same page on
+this?
+
+
+328
+0:22:46,26 --> 0:22:54,29
+That's my ludicrous impression.
+Check out my new outfit, May 5th.
+
+
+329
+0:22:54,29 --> 0:22:59,77
+Rapper Ludicrous.
+Later, in court, "Yes, Your Honor, that is
+
+
+330
+0:22:59,77 --> 0:23:2,24
+ludicrous."
+You okay?
+
+
+331
+0:23:2,24 --> 0:23:3,9
+How are you doing?
+I worry about you.
+
+
+332
+0:23:3,9 --> 0:23:6,74
+>>Vic Gundotra: I'm doing well.
+Any of you want to ask questions, there's
+
+
+333
+0:23:6,74 --> 0:23:7,37
+mikes.
+So --
+
+
+334
+0:23:7,37 --> 0:23:9,3
+>>Conan O'Brien: What's the point of this
+then?
+
+
+335
+0:23:9,3 --> 0:23:12,52
+>>Vic Gundotra: Well --
+>>Conan O'Brien: Once again, I don't understand
+
+
+336
+0:23:12,52 --> 0:23:15,27
+what's happening here.
+I have some prepared questions from people
+
+
+337
+0:23:15,27 --> 0:23:18,34
+who have been preselected.
+But if anyone wants to shout something out
+
+
+338
+0:23:18,34 --> 0:23:20,59
+at random, go ahead.
+>>Vic Gundotra: That's right.
+
+
+339
+0:23:20,59 --> 0:23:23,26
+>>Conan O'Brien: You've taken the initiative.
+Yes.
+
+
+340
+0:23:23,26 --> 0:23:28,66
+>>> Pleased -- whoa, that's loud.
+It's been a lifelong dream of mine to touch
+
+
+341
+0:23:28,66 --> 0:23:28,72
+your hair.
+So --
+
+
+342
+0:23:28,72 --> 0:24:10,89
+[ Cheers and applause ]
+>>Vic Gundotra: Yeah, about you working here.
+
+
+343
+0:24:10,89 --> 0:24:14,14
+>>Conan O'Brien: I solved that problem.
+[ Laughter ]
+
+
+344
+0:24:14,14 --> 0:24:18,67
+>>Vic Gundotra: Guys, no more touching questions,
+please.
+
+
+345
+0:24:18,67 --> 0:24:22,4
+>>Conan O'Brien: What are you talking about?
+Yes!
+
+
+346
+0:24:22,4 --> 0:24:27,84
+Let's touch it up.
+You know, I'm sorry, I feel really crass.
+
+
+347
+0:24:27,84 --> 0:24:29,39
+I don't even know your name.
+[ Laughter ]
+
+
+348
+0:24:29,39 --> 0:24:35,26
+Can I just know your name?
+Because later on, my wife's going to be, what
+
+
+349
+0:24:35,26 --> 0:24:36,6
+happened?
+I don't know.
+
+
+350
+0:24:36,6 --> 0:24:39,51
+I don't even know her name.
+What did you do?
+
+
+351
+0:24:39,51 --> 0:24:43,72
+We rubbed our heads together.
+What is your name?
+
+
+352
+0:24:43,72 --> 0:24:46,31
+>>> My name's Kelly.
+>>Conan O'Brien: Hi, Kelly.
+
+
+353
+0:24:46,31 --> 0:24:51,85
+We should have done this before we rubbed
+up against each other.
+
+
+354
+0:24:51,85 --> 0:24:55,62
+[ Laughter ]
+>>Vic Gundotra: Yes, there are more.
+
+
+355
+0:24:55,62 --> 0:24:59,99
+>>Conan O'Brien: This guy over here.
+>>> You chose Reggie Watts for your opener,
+
+
+356
+0:24:59,99 --> 0:25:4,4
+who we actually had the pleasure of hosting
+about a week ago.
+
+
+357
+0:25:4,4 --> 0:25:6,32
+Probably the strangest comedian I've ever
+seen.
+
+
+358
+0:25:6,32 --> 0:25:10,33
+Can you talk about your choice of him and
+why you thought he would be great for your
+
+
+359
+0:25:10,33 --> 0:25:12,62
+tour.
+>>Conan O'Brien: Someone explained to me 
+
+
+360
+0:25:12,62 --> 0:25:16,7
+-- I have never done a tour before.
+Someone said, "Well, would you want to have
+
+
+361
+0:25:16,7 --> 0:25:18,77
+an opening act?"
+And I said, "Yeah, it's probably a good idea
+
+
+362
+0:25:18,77 --> 0:25:22,67
+to have someone go out and entertain the crowd."
+But this is going to be kind of an unusual
+
+
+363
+0:25:22,67 --> 0:25:28,74
+show, and if anyone's seen it or is going
+to see it, it's not -- you know, it's not
+
+
+364
+0:25:28,74 --> 0:25:33,71
+just a standup show where I come out and hold
+a mike and talk for an hour and 40 minutes.
+
+
+365
+0:25:33,71 --> 0:25:37,6
+It's also not just a music show.
+There's a lot of different things, different
+
+
+366
+0:25:37,6 --> 0:25:43,17
+components to the show.
+And I've got a sort of a distinctive or weird
+
+
+367
+0:25:43,17 --> 0:25:48,12
+brand of comedy.
+And so we were talking, and someone at the
+
+
+368
+0:25:48,12 --> 0:25:54,21
+company that helped set up the tour said,
+"You know, your opening act can really help
+
+
+369
+0:25:54,21 --> 0:25:57,3
+kind of brand your tour or help brand your
+tour.
+
+
+370
+0:25:57,3 --> 0:26:2,93
+So if you want to send a certain message about
+your tour, your opening act can help.
+
+
+371
+0:26:2,93 --> 0:26:6,8
+And you certainly don't want an opening act
+that's completely -- if Wayne Newton, no offense
+
+
+372
+0:26:6,8 --> 0:26:12,72
+to Wayne Newton, but if he opened my show
+with "Danke Schoen," and that -- it would
+
+
+373
+0:26:12,72 --> 0:26:16,17
+be awesome!
+But he was unavailable.
+
+
+374
+0:26:16,17 --> 0:26:21,4
+[ Laughter ]
+>>Conan O'Brien: We were talking, and I have
+
+
+375
+0:26:21,4 --> 0:26:27,13
+some really smart, funny writers, and someone
+just -- we were chatting about it.
+
+
+376
+0:26:27,13 --> 0:26:29,63
+And I said, "If anyone has any ideas."
+And someone said, "Reggie Watts."
+
+
+377
+0:26:29,63 --> 0:26:34,51
+And then it was like one of those things,
+it's like throwing a ping-pong ball into a
+
+
+378
+0:26:34,51 --> 0:26:38,1
+room of mouse traps, like people just were
+like, "Yes, Reggie Watts," "Reggie Watts,"
+
+
+379
+0:26:38,1 --> 0:26:40,11
+"Reggie Watts," "Reggie Watts."
+They kept saying it.
+
+
+380
+0:26:40,11 --> 0:26:46,3
+And I wasn't familiar with Reggie.
+So I went right to the Internet -- you'll
+
+
+381
+0:26:46,3 --> 0:26:49,73
+see. I'll tell you about it -- and started
+looking at him.
+
+
+382
+0:26:49,73 --> 0:26:51,97
+And he has a really great, creative, unusual
+act.
+
+
+383
+0:26:51,97 --> 0:26:56,49
+He's amazingly talented.
+And he just seemed perfect right away.
+
+
+384
+0:26:56,49 --> 0:26:59,61
+Our big fear was, is he available, because
+he's very much in demand.
+
+
+385
+0:26:59,61 --> 0:27:3,19
+He had some other commitments, but he was
+really into doing this and moved his schedule
+
+
+386
+0:27:3,19 --> 0:27:5,56
+around.
+And it's been a great fit, because I think
+
+
+387
+0:27:5,56 --> 0:27:12,57
+people -- the other thing I want to do with
+this tour is open up people's minds a little
+
+
+388
+0:27:12,57 --> 0:27:18,2
+bit in a way so that there are people who
+have preconceived ideas about what I do, and
+
+
+389
+0:27:18,2 --> 0:27:21,21
+then they see some of the things we're doing
+in the show and they see some of the things
+
+
+390
+0:27:21,21 --> 0:27:24,72
+that are happening, and I think it will --
+ I mean, we have some older people that are
+
+
+391
+0:27:24,72 --> 0:27:28,65
+coming to the show that think, well, I'm going
+to see a guy come out and talk about his experience
+
+
+392
+0:27:28,65 --> 0:27:32,1
+at "The Tonight Show."
+And then they see all the elements we have
+
+
+393
+0:27:32,1 --> 0:27:37,78
+in the show and the kind of performance level
+there is, and people like Reggie Watts come
+
+
+394
+0:27:37,78 --> 0:27:43,64
+out and I think maybe open them up to new
+ideas about what comedy is, because he integrates
+
+
+395
+0:27:43,64 --> 0:27:51,559
+music, hip-hop, comedy, and creates this,
+I think, amazing performance.
+
+
+396
+0:27:51,559 --> 0:27:56,24
+He really gets the crowd going before I even
+set foot on stage.
+
+
+397
+0:27:56,24 --> 0:27:59,94
+>>Vic Gundotra: Cool.
+>>Conan O'Brien: Okay.
+
+
+398
+0:27:59,94 --> 0:28:1,8
+You're fired.
+[ Laughter ]
+
+
+399
+0:28:1,8 --> 0:28:4,5
+>>Conan O'Brien: You really want to ask this
+question now?
+
+
+400
+0:28:4,5 --> 0:28:6,28
+Because he just lost his job.
+>>> Yeah, yeah.
+
+
+401
+0:28:6,28 --> 0:28:7,95
+I actually have two questions.
+>>Conan O'Brien: Nope!
+
+
+402
+0:28:7,95 --> 0:28:13,5
+You have to combine them into one question.
+>>> Okay.
+
+
+403
+0:28:13,5 --> 0:28:15,68
+I'll try my best.
+>>Conan O'Brien: No.
+
+
+404
+0:28:15,68 --> 0:28:16,87
+You'll do better than that.
+[ Laughter ]
+
+
+405
+0:28:16,87 --> 0:28:22,12
+>>> So one of my favorite things --
+>>Conan O'Brien: This isn't Yahoo!, you know.
+
+
+406
+0:28:22,12 --> 0:28:24,309
+We expect the best.
+Ha-ha-ha.
+
+
+407
+0:28:24,309 --> 0:28:32,19
+>>Vic Gundotra: No reflexes, remember?
+>>> So one of my favorite things about the
+
+
+408
+0:28:32,19 --> 0:28:33,61
+return, or, rather, you taking over "The Tonight
+Show" was the return of Andy.
+
+
+409
+0:28:33,61 --> 0:28:38,64
+I was wondering if you could talk --
+>>Conan O'Brien: Why don't we have Andy talk
+
+
+410
+0:28:38,64 --> 0:28:39,8
+about Andy.
+He's here.
+
+
+411
+0:28:39,8 --> 0:28:44,84
+Andy Richter.
+[ Applause ]
+
+
+412
+0:28:44,84 --> 0:28:59,1
+[ Cheers and applause ]
+>>> Andy Richter: Hello.
+
+
+413
+0:28:59,1 --> 0:29:0,72
+It's about time!
+Right there.
+
+
+414
+0:29:0,72 --> 0:29:4,8
+>>Vic Gundotra: You know what, you can have
+this water.
+
+
+415
+0:29:4,8 --> 0:29:8,11
+>>Andy Richter: Okay.
+No, I don't want any water.
+
+
+416
+0:29:8,11 --> 0:29:11,42
+Kirkland?
+>>Conan O'Brien: What is Kirkland water?
+
+
+417
+0:29:11,42 --> 0:29:14,0
+>>Andy Richter: It's Costco water.
+[ Laughter ]
+
+
+418
+0:29:14,0 --> 0:29:18,97
+>>Andy Richter: I'm sorry, Mr. O'Brien.
+You're drinking Costco water.
+
+
+419
+0:29:18,97 --> 0:29:22,82
+>>Conan O'Brien: This is ridiculous.
+>>Andy Richter: I know.
+
+
+420
+0:29:22,82 --> 0:29:25,39
+>>Conan O'Brien: Did you see they made me
+dance?
+
+
+421
+0:29:25,39 --> 0:29:27,73
+>>Andy Richter: I saw it.
+>>Conan O'Brien: Then a woman made me run
+
+
+422
+0:29:27,73 --> 0:29:31,9
+up against her head.
+>>Andy Richter: I know.
+
+
+423
+0:29:31,9 --> 0:29:35,37
+That's why I was standing by the door.
+I was so -- I was humiliated for you.
+
+
+424
+0:29:35,37 --> 0:29:39,45
+No, I actually was just back, standing outside
+the bathroom, because I think your assistant
+
+
+425
+0:29:39,45 --> 0:29:41,47
+is in there front-cleansing.
+[ Laughter ]
+
+
+426
+0:29:41,47 --> 0:29:52,15
+>>Andy Richter: Our tour manager, our tour
+manager said, "You've got to check out the
+
+
+427
+0:29:52,15 --> 0:29:57,6
+Japanese toilets."
+So I just was in the bathroom to look, 'cause
+
+
+428
+0:29:57,6 --> 0:30:3,52
+I've seen them before, and they -- there's
+buttons on the wall, "front cleansing," "rear
+
+
+429
+0:30:3,52 --> 0:30:4,41
+cleansing."
+[ Laughter ]
+
+
+430
+0:30:4,41 --> 0:30:7,52
+>>Conan O'Brien: What is -- I've never heard
+of this before.
+
+
+431
+0:30:7,52 --> 0:30:13,24
+>>Andy Richter: It's like a little bidet.
+>>Conan O'Brien: I understand that part.
+
+
+432
+0:30:13,24 --> 0:30:15,809
+I don't understand, why do they have this
+at Google?
+
+
+433
+0:30:15,809 --> 0:30:22,43
+Why am I asking you?
+"Cleansing is necessary.
+
+
+434
+0:30:22,43 --> 0:30:30,54
+All Googlers must front-cleanse."
+>>Andy Richter: I hope you enjoyed Twitter
+
+
+435
+0:30:30,54 --> 0:30:35,23
+ -- those Twitterers' filthy asses.
+>>Conan O'Brien: I did.
+
+
+436
+0:30:35,23 --> 0:30:39,62
+>>Andy Richter: I want to see it say "filthy
+asses."
+
+
+437
+0:30:39,62 --> 0:30:44,9
+Look, it does!
+[ Applause ]
+
+
+438
+0:30:44,9 --> 0:30:50,84
+>>Conan O'Brien: What a great -- Turn this
+up.
+
+
+439
+0:30:50,84 --> 0:30:54,29
+Turn -- Put this mike up a little bit.
+It's getting low.
+
+
+440
+0:30:54,29 --> 0:30:57,6
+I just -- I love that that's what we're using
+the technology for.
+
+
+441
+0:30:57,6 --> 0:31:0,42
+You know.
+>>Andy Richter: So I was in the bathroom,
+
+
+442
+0:31:0,42 --> 0:31:5,96
+and I hear -- I think it was your Sonne (phonetic),
+assistant screaming in the women's room.
+
+
+443
+0:31:5,96 --> 0:31:10,799
+>>Conan O'Brien: There she is.
+There she is!
+
+
+444
+0:31:10,799 --> 0:31:17,36
+>>> Are you front-cleansed?
+[ Laughter ]
+
+
+445
+0:31:17,36 --> 0:31:27,36
+>>Conan O'Brien: This is either the best or
+worst thing that's ever happened at Google.
+
+
+446
+0:31:27,36 --> 0:31:30,59
+It's not anything in between.
+>>> Wait.
+
+
+447
+0:31:30,59 --> 0:31:34,33
+>>Conan O'Brien: More questions.
+>>> This is perfect for my follow-up question.
+
+
+448
+0:31:34,33 --> 0:31:39,47
+Here at Google, we're interested in seeing
+what the next big thing is, a little insight
+
+
+449
+0:31:39,47 --> 0:31:42,74
+into the future.
+I was curious if you could give us some insights
+
+
+450
+0:31:42,74 --> 0:31:48,57
+into the year 2000.
+[ Applause ]
+
+
+451
+0:31:48,57 --> 0:31:56,78
+>>Conan O'Brien: The future Conan?
+>>> There's always cue cards for that, though.
+
+
+452
+0:31:56,78 --> 0:32:1,179
+You think --
+>>Conan O'Brien: You think we're spontaneously
+
+
+453
+0:32:1,179 --> 0:32:3,9
+funny?
+>>> No way.
+
+
+454
+0:32:3,9 --> 0:32:7,13
+>>Conan O'Brien: "Google merged with Blabble
+and form Gibble Gabble."
+
+
+455
+0:32:7,13 --> 0:32:16,45
+"In the year 2000."
+Yeah, we -- I was once -- I was on an airplane
+
+
+456
+0:32:16,45 --> 0:32:21,7
+once, and the plane was taxiing for the takeoff.
+It was a commercial flight, back in the day,
+
+
+457
+0:32:21,7 --> 0:32:24,88
+just kidding -- I fly commercial.
+But, anyway, -- not like the rest of you,
+
+
+458
+0:32:24,88 --> 0:32:29,429
+who have your jet packs.
+But I was on this commercial flight, and I
+
+
+459
+0:32:29,429 --> 0:32:32,679
+hear the guy, the pilot, is just, like, getting
+ready to take off.
+
+
+460
+0:32:32,679 --> 0:32:36,55
+And he went, "We're all ready to take off,
+and I understand there's someone here on the
+
+
+461
+0:32:36,55 --> 0:32:40,35
+plane, a very special person who can tell
+us a little bit about" -- and then he went,
+
+
+462
+0:32:40,35 --> 0:32:45,14
+"In the year 2000."
+And then started to, like, put the engine
+
+
+463
+0:32:45,14 --> 0:32:48,87
+into overdrive to take off.
+And I lost complete confidence in the pilot.
+
+
+464
+0:32:48,87 --> 0:32:52,96
+[ Laughter ]
+>>Conan O'Brien: At this crucial moment.
+
+
+465
+0:32:52,96 --> 0:32:57,34
+He's, like, making his jokes, "In the year
+two -- shit, I didn't check the altimeter."
+
+
+466
+0:32:57,34 --> 0:33:2,87
+[ Laughter ]
+>>Conan O'Brien: Then later, they check the
+
+
+467
+0:33:2,87 --> 0:33:9,55
+black box, and it's my fault, you know.
+But, anyway, to answer your question, Andy
+
+
+468
+0:33:9,55 --> 0:33:16,51
+was in Los Angeles, and I called him up when
+I had the chance -- and I said, Andy, you
+
+
+469
+0:33:16,51 --> 0:33:20,32
+have to come on board, because "The Tonight
+Show," it's a franchise, no "The Tonight Show"
+
+
+470
+0:33:20,32 --> 0:33:23,49
+show has ever been sacked.
+It's a sure thing.
+
+
+471
+0:33:23,49 --> 0:33:27,55
+[ Laughter ]
+>>Conan O'Brien: Drop what you're doing and
+
+
+472
+0:33:27,55 --> 0:33:30,88
+come with me.
+>>Andy Richter: I said, I'm now a tenured
+
+
+473
+0:33:30,88 --> 0:33:33,179
+professor in show business.
+>>Conan O'Brien: Yes.
+
+
+474
+0:33:33,179 --> 0:33:35,89
+>>Andy Richter: No way they can fire me.
+>>Conan O'Brien: Yeah.
+
+
+475
+0:33:35,89 --> 0:33:39,95
+And you went out and bought a theme restaurant.
+>>Andy Richter: That's right.
+
+
+476
+0:33:39,95 --> 0:33:44,79
+And it was -- it was all the skipper from
+"Gilligan's Island."
+
+
+477
+0:33:44,79 --> 0:33:46,75
+It was all -- That was the theme.
+>>Conan O'Brien: Yeah.
+
+
+478
+0:33:46,75 --> 0:33:52,1
+And now you're impoverished, and here we are.
+But the important thing is, we stuck together.
+
+
+479
+0:33:52,1 --> 0:33:54,99
+And now what it's really -- that's what it's
+about, kids, you have a friend, stick by him,
+
+
+480
+0:33:54,99 --> 0:33:59,41
+and he'll stick by you.
+>>> Even though I did leave you back in the
+
+
+481
+0:33:59,41 --> 0:34:3,46
+nineties.
+>>Conan O'Brien: To go hang with Pat Sajak.
+
+
+482
+0:34:3,46 --> 0:34:13,5
+>>Andy Richter: As it was once written, I
+was seeking prime-time stardom.
+
+
+483
+0:34:13,5 --> 0:34:19,379
+That was what was written about me.
+And I was, like -- I don't remember ever thinking,
+
+
+484
+0:34:19,379 --> 0:34:21,859
+"Sorry, Conan, I'm going to go seek prime-time
+stardom."
+
+
+485
+0:34:21,859 --> 0:34:26,289
+>>Conan O'Brien: You did say that to me, and
+then jumped out the window.
+
+
+486
+0:34:26,289 --> 0:34:29,319
+>>Andy Richter: Yep.
+I was taking a lot of pills in those days.
+
+
+487
+0:34:29,319 --> 0:34:31,649
+>>Conan O'Brien: This gentleman right here,
+how can I help you?
+
+
+488
+0:34:31,649 --> 0:34:39,98
+>>> Gentlemen, we miss you.
+>>Andy Richter: We're right here.
+
+
+489
+0:34:39,98 --> 0:34:44,59
+Like my mom, she cries two days before she
+has to leave because she has to leave in two
+
+
+490
+0:34:44,59 --> 0:34:47,599
+days.
+>>> There's something important I want to
+
+
+491
+0:34:47,599 --> 0:34:49,499
+point out.
+It is Cinco de Mayo.
+
+
+492
+0:34:49,499 --> 0:34:58,509
+So where are Noches De Pasion?
+>>Conan O'Brien: I look forward to the return
+
+
+493
+0:34:58,509 --> 0:35:4,339
+of Conando.
+I don't know what the deal is, actually.
+
+
+494
+0:35:4,339 --> 0:35:10,9
+I'll be honest with you, it's legally unclear
+what can come with us to TBS and what can't
+
+
+495
+0:35:10,9 --> 0:35:18,509
+because of certain intellectual property issues
+that we address in the -- in the live show.
+
+
+496
+0:35:18,509 --> 0:35:24,39
+But I think there's no holding Conando back.
+I've been walking around Los Angeles, and
+
+
+497
+0:35:24,39 --> 0:35:28,93
+I've had many, you know, people come up to
+me and just, like, oh, Conando.
+
+
+498
+0:35:28,93 --> 0:35:29,4
+>>Andy Richter: That's how you're known.
+[ Laughter ]
+
+
+499
+0:35:29,4 --> 0:35:37,79
+>>Conan O'Brien: Yeah, and I speak enough
+Spanish to be able to say, "Si."
+
+
+500
+0:35:37,79 --> 0:35:41,79
+>>Andy Richter: And he always keeps a fake
+mustache in his pocket.
+
+
+501
+0:35:41,79 --> 0:35:45,609
+>>Conan O'Brien: Yes, I glue it on, which
+looks really funny over the red beard.
+
+
+502
+0:35:45,609 --> 0:35:49,21
+I love Conando.
+He's a lot of fun.
+
+
+503
+0:35:49,21 --> 0:35:52,609
+My favorite part is Andy's cameo.
+He's always in a humiliating outfit.
+
+
+504
+0:35:52,609 --> 0:35:58,989
+>>Andy Richter: Yep.
+I think I was going to be a -- no, I -- or
+
+
+505
+0:35:58,989 --> 0:36:4,39
+was I an actual taco?
+>>Conan O'Brien: That's just a dream you had.
+
+
+506
+0:36:4,39 --> 0:36:5,22
+[ Laughter ]
+>>Andy Richter: No.
+
+
+507
+0:36:5,22 --> 0:36:9,559
+Because it was always, like, are you going
+to be like in a Carmen Miranda outfit, are
+
+
+508
+0:36:9,559 --> 0:36:18,45
+you going to be dressed as a giant -- I can't
+think of the word -- those things you shake,
+
+
+509
+0:36:18,45 --> 0:36:22,47
+maraca.
+>>Conan O'Brien: There are a lot of things
+
+
+510
+0:36:22,47 --> 0:36:27,669
+you shake.
+>>> In the Conando world.
+
+
+511
+0:36:27,669 --> 0:36:33,45
+>>> Thank you very much.
+>>Conan O'Brien: Thank you for bowing to us.
+
+
+512
+0:36:33,45 --> 0:36:34,95
+>>> Little tip for you all, might want to
+bow.
+
+
+513
+0:36:34,95 --> 0:36:37,809
+>>Conan O'Brien: I bow to you as well.
+Hello.
+
+
+514
+0:36:37,809 --> 0:36:39,94
+How are you?
+>>> I'm good.
+
+
+515
+0:36:39,94 --> 0:36:41,64
+Thanks.
+>>Conan O'Brien: Okay.
+
+
+516
+0:36:41,64 --> 0:36:45,66
+>>> Okay.
+This is going to be really bizarre, and I
+
+
+517
+0:36:45,66 --> 0:36:51,43
+acknowledge that I probably won't be able
+to look anybody in the eye after asking this.
+
+
+518
+0:36:51,43 --> 0:36:53,65
+But I was wondering if you could settle a
+long argument with my friends.
+
+
+519
+0:36:53,65 --> 0:36:55,809
+So one of my friends from school did dorm
+crew, and he was cleaning out what he thought
+
+
+520
+0:36:55,809 --> 0:37:0,99
+used to be one of your rooms, and he found
+a big ball of hair that he thinks was yours.
+
+
+521
+0:37:0,99 --> 0:37:3,44
+[ Laughter ]
+>>Conan O'Brien: Wait.
+
+
+522
+0:37:3,44 --> 0:37:5,28
+Okay.
+Will you --
+
+
+523
+0:37:5,28 --> 0:37:6,51
+[ Laughter ]
+>>> So --
+
+
+524
+0:37:6,51 --> 0:37:9,769
+[ Laughter ]
+>>Conan O'Brien: You've got to be a little
+
+
+525
+0:37:9,769 --> 0:37:12,249
+more specific.
+Let's get really specific here.
+
+
+526
+0:37:12,249 --> 0:37:17,559
+What year was this and what college?
+>>> Well, this was, like, three years ago.
+
+
+527
+0:37:17,559 --> 0:37:21,27
+>>Conan O'Brien: So -- 'cause I hate to shatter
+any illusions --
+
+
+528
+0:37:21,27 --> 0:37:23,63
+[ Laughter ]
+>>Conan O'Brien: -- you have about my age,
+
+
+529
+0:37:23,63 --> 0:37:27,579
+but I graduated from college in 1985.
+>>> No, I know.
+
+
+530
+0:37:27,579 --> 0:37:30,329
+This is --
+>>Conan O'Brien: So this person thinks that
+
+
+531
+0:37:30,329 --> 0:37:32,43
+I made a giant ball of hair --
+>>> Yes!
+
+
+532
+0:37:32,43 --> 0:37:36,859
+>>Conan O'Brien: -- and spun it and then left
+it in the Holworthy dorm at Harvard?
+
+
+533
+0:37:36,859 --> 0:37:38,38
+>>> This is what I'm saying.
+It doesn't make any sense.
+
+
+534
+0:37:38,38 --> 0:37:43,23
+>>Conan O'Brien: And then put it -- and everyone
+was so horrified by it that from 1985 until
+
+
+535
+0:37:43,23 --> 0:37:51,759
+three years ago, no one went near it, and
+then your friend found it and did a DNA test.
+
+
+536
+0:37:51,759 --> 0:37:56,799
+>>> I know.
+His name is Jim.
+
+
+537
+0:37:56,799 --> 0:38:0,15
+>>Conan O'Brien: Oh, Jim.
+Yes, yes!
+
+
+538
+0:38:0,15 --> 0:38:7,42
+That's all I needed.
+No, I grew a giant ball of hair for Jim.
+
+
+539
+0:38:7,42 --> 0:38:10,569
+And left it for him to find at the Holworthy
+dorm.
+
+
+540
+0:38:10,569 --> 0:38:14,789
+Just next time say Jim.
+That's all you had to do.
+
+
+541
+0:38:14,789 --> 0:38:17,859
+I've heard -- one of the things I'll tell
+you, you've probably experienced this, too,
+
+
+542
+0:38:17,859 --> 0:38:24,29
+Andy, is what happens when you become a known
+person is you start hearing all these things
+
+
+543
+0:38:24,29 --> 0:38:27,79
+back about yourself that are complete madness.
+[ Laughter ]
+
+
+544
+0:38:27,79 --> 0:38:31,96
+>>Conan O'Brien: I went to my -- one of my
+high school reunions, and people were coming
+
+
+545
+0:38:31,96 --> 0:38:35,92
+up to me and saying things that were just
+completely untrue.
+
+
+546
+0:38:35,92 --> 0:38:39,569
+And this one guy -- about our past.
+This one guy came up to me, and just so you
+
+
+547
+0:38:39,569 --> 0:38:44,19
+know, I'll never -- I'll have like a glass
+of wine or two or three now, but I'm not a
+
+
+548
+0:38:44,19 --> 0:38:47,239
+drinker.
+And I never drank at all when I was young
+
+
+549
+0:38:47,239 --> 0:38:53,539
+or in college, ever.
+And this guy came up to me, and he said, "Hey,
+
+
+550
+0:38:53,539 --> 0:38:57,999
+Conan, remember the time you and I broke into
+that liquor store late at night?"
+
+
+551
+0:38:57,999 --> 0:39:0,42
+And I said, "No, no, no."
+And he went, "Come on, we broke into the liquor
+
+
+552
+0:39:0,42 --> 0:39:5,67
+store and we grabbed all that booze, and then
+the cops showed up, and we ran up that hill,
+
+
+553
+0:39:5,67 --> 0:39:9,42
+and you were, like, 'I'm get fucking out of
+here,' and you took the booze, and then later,
+
+
+554
+0:39:9,42 --> 0:39:14,91
+you drank all the booze, and I didn't get
+any of it, you asshole, you."
+
+
+555
+0:39:14,91 --> 0:39:18,44
+And I said, "That didn't really happen."
+"Okay. I get it. Big star now.
+
+
+556
+0:39:18,44 --> 0:39:25,869
+I get it. I get it."
+Now, in his mind, that really happened.
+
+
+557
+0:39:25,869 --> 0:39:30,63
+And I've never committed a crime in my life.
+I am Richie Cunningham to the tenth power.
+
+
+558
+0:39:30,63 --> 0:39:37,66
+I've never -- And so I have had many things
+come back to me where people -- I had a Realtor
+
+
+559
+0:39:37,66 --> 0:39:41,739
+once say, you know, he's showing me, like,
+an apartment that I was going to rent.
+
+
+560
+0:39:41,739 --> 0:39:45,71
+And he was, like, just so you know there are
+no hard feelings, I married your old girlfriend.
+
+
+561
+0:39:45,71 --> 0:39:48,43
+And I said, oh, really?
+And I haven't -- it's not like -- I hate to
+
+
+562
+0:39:48,43 --> 0:39:52,64
+disillusion people, I haven't had that many
+girlfriends in my life, I said, really, was
+
+
+563
+0:39:52,64 --> 0:39:55,18
+it blah, blah, blah?
+And he said, no, come on, Stacey.
+
+
+564
+0:39:55,18 --> 0:40:0,39
+And he told me her full name.
+Never heard of this person before in my life.
+
+
+565
+0:40:0,39 --> 0:40:4,519
+He said, come on, I know you two went out
+for a year and a half.
+
+
+566
+0:40:4,519 --> 0:40:7,73
+But he said, it's okay.
+I'm cool with it.
+
+
+567
+0:40:7,73 --> 0:40:14,859
+So what happens is I've --
+>>> That's what really drew him to her, too.
+
+
+568
+0:40:14,859 --> 0:40:17,14
+>>Conan O'Brien: I know.
+>>> Is getting your sloppy seconds.
+
+
+569
+0:40:17,14 --> 0:40:22,239
+>>Conan O'Brien: Yeah, I know.
+And then he was like, she had Conan.
+
+
+570
+0:40:22,239 --> 0:40:24,21
+She has the ball of hair.
+[ Laughter ]
+
+
+571
+0:40:24,21 --> 0:40:28,779
+>>Conan O'Brien: Damn!
+You got me.
+
+
+572
+0:40:28,779 --> 0:40:32,539
+But the truth is that you've had this, too,
+like, people just come up and they say --
+
+
+573
+0:40:32,539 --> 0:40:38,72
+ and 95% of what I hear is madness.
+Really, just madness, like, hey, a friend
+
+
+574
+0:40:38,72 --> 0:40:41,109
+of mine saw you kick a guy to death in Hong
+Kong.
+
+
+575
+0:40:41,109 --> 0:40:44,88
+[ Laughter ]
+>>Conan O'Brien: And I've learned to just,
+
+
+576
+0:40:44,88 --> 0:40:51,259
+instead of fighting them, I just go, yeah,
+well, that Dick had it coming, you know, like,
+
+
+577
+0:40:51,259 --> 0:40:53,559
+go with it.
+Go with it.
+
+
+578
+0:40:53,559 --> 0:40:58,349
+So, yes, say hi to Jim and sell that hair
+ball on eBay.
+
+
+579
+0:40:58,349 --> 0:40:59,559
+Yes.
+>>> Okay, thanks.
+
+
+580
+0:40:59,559 --> 0:41:3,65
+>>> Conan, last year, you were at the International
+Science and Engineering Fair.
+
+
+581
+0:41:3,65 --> 0:41:6,97
+>>Conan O'Brien: Yes, I was.
+>>> In Reno.
+
+
+582
+0:41:6,97 --> 0:41:11,999
+And this year, it's next week, it's in San
+Jose, and Google is the premier sponsor.
+
+
+583
+0:41:11,999 --> 0:41:14,16
+If we promise you some swag, will you come
+again?
+
+
+584
+0:41:14,16 --> 0:41:17,39
+>>Conan O'Brien: I would love to come.
+I had a blast last year.
+
+
+585
+0:41:17,39 --> 0:41:22,39
+I -- and she shot a remote for "The Tonight
+Show" when I went and talked to all the kids.
+
+
+586
+0:41:22,39 --> 0:41:25,14
+And I absolutely loved it.
+The tour is going to prohibit us from doing
+
+
+587
+0:41:25,14 --> 0:41:29,349
+it just because I am hitting -- I was in Reno
+last night.
+
+
+588
+0:41:29,349 --> 0:41:32,999
+We're here today.
+We're in -- I don't even know -- am I in Sacramento
+
+
+589
+0:41:32,999 --> 0:41:34,41
+tomorrow?
+>>> Sacramento tomorrow.
+
+
+590
+0:41:34,41 --> 0:41:36,349
+>>Conan O'Brien: Sacramento tomorrow.
+It's just, we go, go, go, go.
+
+
+591
+0:41:36,349 --> 0:41:40,299
+We're in a different city all the time.
+So I probably won't be able to do it.
+
+
+592
+0:41:40,299 --> 0:41:45,359
+But I absolutely loved it.
+And the -- the exhibits ranged from just amazing,
+
+
+593
+0:41:45,359 --> 0:41:49,7
+it gave you hope for our country.
+These kids are so smart, and they have these
+
+
+594
+0:41:49,7 --> 0:41:52,59
+incredible projects.
+Then there's every now and then you'd find
+
+
+595
+0:41:52,59 --> 0:41:56,17
+a project which was just such bullshit.
+[ Laughter ]
+
+
+596
+0:41:56,17 --> 0:41:59,339
+I'm not being mean, but every now -- most
+of them are amazing.
+
+
+597
+0:41:59,339 --> 0:42:4,99
+Then there would be a guy who had, like, a
+potato with tooth picks in it and, like, a
+
+
+598
+0:42:4,99 --> 0:42:8,859
+sprout growing out the bottom.
+And he'd say, "It's a potato with water on
+
+
+599
+0:42:8,859 --> 0:42:11,46
+it."
+And you know that he just did this to get
+
+
+600
+0:42:11,46 --> 0:42:15,849
+the hell out of his town and get to Reno.
+And his exhibit's next to a guy who's, like,
+
+
+601
+0:42:15,849 --> 0:42:22,279
+I split the hydrogen atom.
+Using a sneaker in my basement.
+
+
+602
+0:42:22,279 --> 0:42:26,129
+And you're, like, "Oh, my God."
+
+
+603
+0:42:26,129 --> 0:42:28,769
+Yes.
+>>> Andy, Conan, great to have you guys here.
+
+
+604
+0:42:28,769 --> 0:42:32,17
+I just want to say, Andy, your shoes are awesome,
+by the way.
+
+
+605
+0:42:32,17 --> 0:42:35,749
+>>Andy Richter: Oh, thank you.
+I designed them myself.
+
+
+606
+0:42:35,749 --> 0:42:42,9
+Although some dick at the gym said, "What
+are those, Nobi shoes?"
+
+
+607
+0:42:42,9 --> 0:42:44,279
+But, no.
+>>Conan O'Brien: I just meant it as a joke.
+
+
+608
+0:42:44,279 --> 0:42:47,14
+>>Andy Richter: They're super awesome shoes
+is what they are.
+
+
+609
+0:42:47,14 --> 0:42:51,16
+>>> They are.
+So, Conan, I was curious, do you have any
+
+
+610
+0:42:51,16 --> 0:42:55,18
+thoughts on working with the comic geniuses
+Terrance and Phillip in the "South Park" movie.
+
+
+611
+0:42:55,18 --> 0:42:58,759
+What was that like?
+>>Conan O'Brien: It was so funny, because
+
+
+612
+0:42:58,759 --> 0:43:3,99
+I found out later on that I was in the "South
+Park" movie.
+
+
+613
+0:43:3,99 --> 0:43:6,289
+I remember exactly -- this is just what my
+life is like.
+
+
+614
+0:43:6,289 --> 0:43:9,46
+My girlfriend at the time, Stacey, whatever
+ --
+
+
+615
+0:43:9,46 --> 0:43:14,45
+[ Laughter ]
+>>Conan O'Brien: Okay.
+
+
+616
+0:43:14,45 --> 0:43:20,67
+I hit that, you know.
+[ Laughter ]
+
+
+617
+0:43:20,67 --> 0:43:24,39
+>>Conan O'Brien: But -- such an ass.
+My girlfriend at the time and I --
+
+
+618
+0:43:24,39 --> 0:43:27,349
+Look, there's this big screen that says, "You
+have five minutes to go."
+
+
+619
+0:43:27,349 --> 0:43:33,359
+Why?
+Why can't we stay as long as we want?
+
+
+620
+0:43:33,359 --> 0:43:36,759
+Why?
+>>Conan O'Brien: You have some --
+
+
+621
+0:43:36,759 --> 0:43:42,119
+>>Andy Richter: We'll be taken to the vaporization
+chamber and head on to the next level.
+
+
+622
+0:43:42,119 --> 0:43:44,259
+>>Conan O'Brien: "That is all that's acceptable."
+[ Laughter ]
+
+
+623
+0:43:44,259 --> 0:43:47,94
+>>Conan O'Brien: We --
+>>Andy Richter: So you didn't know you were
+
+
+624
+0:43:47,94 --> 0:43:50,64
+in the --
+>>Conan O'Brien: What happened is, I remember
+
+
+625
+0:43:50,64 --> 0:43:54,829
+exactly what happened, which is, I had one
+of my rare vacations, which I never get, and
+
+
+626
+0:43:54,829 --> 0:43:58,79
+I went to Maine with my girlfriend at the
+time.
+
+
+627
+0:43:58,79 --> 0:44:4,279
+And it's this beautiful place that's on a
+lake, and you go and get breakfast in the
+
+
+628
+0:44:4,279 --> 0:44:7,829
+morning and coffee, and someone had a -- 
+and they, like, put down a "U.S.A. Today"
+
+
+629
+0:44:7,829 --> 0:44:9,609
+next to you.
+And I'm sitting there drinking this coffee,
+
+
+630
+0:44:9,609 --> 0:44:13,19
+and I open up the "U.S.A. Today," and it's
+a review of the "South Park" movie, and it's
+
+
+631
+0:44:13,19 --> 0:44:16,839
+saying it's really funny.
+And it has a box, which is the list of who
+
+
+632
+0:44:16,839 --> 0:44:20,63
+plays who.
+And it has all the different names of people,
+
+
+633
+0:44:20,63 --> 0:44:25,45
+then it says, "Conan O'Brien is played by."
+And my jaw just dropped.
+
+
+634
+0:44:25,45 --> 0:44:30,39
+And I said, "There's this movie opening, and
+I'm in it, and they got the" -- fortunately,
+
+
+635
+0:44:30,39 --> 0:44:32,599
+it was really funny.
+Actually, we're both in it.
+
+
+636
+0:44:32,599 --> 0:44:37,99
+It's this funny thing where they come on the
+show to talk to us, and then I end up committing
+
+
+637
+0:44:37,99 --> 0:44:38,5
+suicide.
+But it was really --
+
+
+638
+0:44:38,5 --> 0:44:41,619
+[ Laughter ]
+>>Conan O'Brien: Happens a lot when I'm animated.
+
+
+639
+0:44:41,619 --> 0:44:45,489
+But it was really funny, and I loved it.
+And I got to know those guys later on.
+
+
+640
+0:44:45,489 --> 0:44:50,9
+And they said, "We're really sorry about your
+voice in that movie."
+
+
+641
+0:44:50,9 --> 0:44:53,729
+And I said, what.
+They said the guy who played Data on that
+
+
+642
+0:44:53,729 --> 0:45:1,19
+"Star Trek," whoever that guys is, he convinced
+them, "I do the most amazing Conan O'Brien."
+
+
+643
+0:45:1,19 --> 0:45:3,71
+And they're like, "Cool.
+Okay.
+
+
+644
+0:45:3,71 --> 0:45:5,64
+Great."
+And that's why -- one of the reasons they
+
+
+645
+0:45:5,64 --> 0:45:10,15
+worked me in, is 'cause he convinced them
+that he did a drop-dead perfect Conan O'Brien.
+
+
+646
+0:45:10,15 --> 0:45:16,99
+And then he got into the booth and he was
+like, "Your next question!"
+
+
+647
+0:45:16,99 --> 0:45:19,96
+And Matt and Trey are like, "Look at that."
+But it was too late.
+
+
+648
+0:45:19,96 --> 0:45:20,339
+So --
+[ Laughter ]
+
+
+649
+0:45:20,339 --> 0:45:23,94
+>>Andy Richter: Well, I liked that they were,
+like, "Well, there's nothing that can be done
+
+
+650
+0:45:23,94 --> 0:45:24,52
+about it."
+>>Conan O'Brien: Yeah, I know.
+
+
+651
+0:45:24,52 --> 0:45:27,269
+[ Laughter ]
+>>Conan O'Brien: But I -- once --
+
+
+652
+0:45:27,269 --> 0:45:30,559
+>>Andy Richter: "It's been recorded."
+>>Conan O'Brien: Once you know Matt and Trey,
+
+
+653
+0:45:30,559 --> 0:45:36,119
+you know they were probably, "Whatever, good
+enough."
+
+
+654
+0:45:36,119 --> 0:45:38,989
+But, yeah, I love those guys.
+Actually, "Team America" is one of my favorite
+
+
+655
+0:45:38,989 --> 0:45:46,109
+movies of all time.
+It makes me relentlessly -- I just cry, I'm
+
+
+656
+0:45:46,109 --> 0:45:48,759
+laughing so hard.
+>>> Best fight scenes, best sex scenes.
+
+
+657
+0:45:48,759 --> 0:45:53,819
+>>Conan O'Brien: Yes.
+>>> I was hoping both of you could tell us
+
+
+658
+0:45:53,819 --> 0:45:58,599
+the weirdest thing that's happened to you
+on the live tour.
+
+
+659
+0:45:58,599 --> 0:46:2,19
+>>Conan O'Brien: There's been a lot of weird
+stuff.
+
+
+660
+0:46:2,19 --> 0:46:8,59
+>>> No, I can't -- you know.
+I stay in my room a lot.
+
+
+661
+0:46:8,59 --> 0:46:12,71
+>>Conan O'Brien: I think maybe for me the
+weirdest thing is, just before I went out
+
+
+662
+0:46:12,71 --> 0:46:17,549
+and did a show in San Francisco, someone leaned
+exposure said, "Hey, Neil Young's in the audience."
+
+
+663
+0:46:17,549 --> 0:46:23,13
+And I play guitar in this show.
+And so I don't get nervous a lot.
+
+
+664
+0:46:23,13 --> 0:46:26,589
+I've been doing this a long time.
+But I suddenly realized that I'm going to
+
+
+665
+0:46:26,589 --> 0:46:34,44
+be playing rock guitar in front of Neil Young.
+And I was horrified.
+
+
+666
+0:46:34,44 --> 0:46:39,39
+And then there's a part of the show where
+I take a guitar solo and just before I take
+
+
+667
+0:46:39,39 --> 0:46:44,779
+it, I see it was one of those accidents, but
+I see, like, a shaft of light hitting Neil
+
+
+668
+0:46:44,779 --> 0:46:46,819
+Young's face.
+[ Laughter ]
+
+
+669
+0:46:46,819 --> 0:46:53,479
+>>Conan O'Brien: You know, looking up at me.
+And I don't know what the equivalent is, writing
+
+
+670
+0:46:53,479 --> 0:46:56,419
+code in front of Bill Gates or something.
+[ Laughter ]
+
+
+671
+0:46:56,419 --> 0:46:59,839
+>>> No way.
+>>Conan O'Brien: See, I know what's going
+
+
+672
+0:46:59,839 --> 0:47:3,489
+on.
+>>Vic Gundotra: Conan, we're going to have
+
+
+673
+0:47:3,489 --> 0:47:5,319
+to cut this short.
+>>Conan O'Brien: You don't have to do anything.
+
+
+674
+0:47:5,319 --> 0:47:14,2
+These people don't have to work today.
+You all have to go home!
+
+
+675
+0:47:14,2 --> 0:47:15,39
+[ Applause ]
+>>Conan O'Brien: You've done more than enough
+
+
+676
+0:47:15,39 --> 0:47:18,789
+for this company!
+Are they writing that part?
+
+
+677
+0:47:18,789 --> 0:47:26,359
+In fact, you should all participate in a profit-sharing
+plan with Google.
+
+
+678
+0:47:26,359 --> 0:47:28,29
+Yes!
+[ Applause ]
+
+
+679
+0:47:28,29 --> 0:47:36,39
+>>Vic Gundotra: Guys, we appreciate --
+>>Conan O'Brien: I like it says "applause."
+
+
+680
+0:47:36,39 --> 0:47:47,4
+[ Cheers and applause ]
+>>Conan O'Brien: Hey, just a quick note, this
+
+
+681
+0:47:47,4 --> 0:47:52,67
+was really fun, and we get asked to do a lot
+of things, and we don't really have time to
+
+
+682
+0:47:52,67 --> 0:47:56,9
+do a lot of things.
+But getting in front of young people who are
+
+
+683
+0:47:56,9 --> 0:47:59,66
+really smart and sort of making the future
+happen, that's thrilling for us.
+
+
+684
+0:47:59,66 --> 0:48:1,63
+So thanks for having us here.
+Thank you very much.
+
+
+685
+0:48:1,63 --> 0:50:1,63
+[ Cheers and applause ]
+
+

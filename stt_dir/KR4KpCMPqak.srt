@@ -1,0 +1,212 @@
+1
+0:0:0,0 --> 0:0:0,9
+
+
+
+2
+0:0:0,9 --> 0:0:4,63
+ALICE: Hi, I'm Alice, and
+I produce The Cute Show.
+
+
+3
+0:0:4,63 --> 0:0:9,33
+TAKAKO: Hi, hello, welcome.
+
+
+4
+0:0:9,33 --> 0:0:11,94
+ALICE: We went to Japan to meet
+Takako of Cat Prin, the
+
+
+5
+0:0:11,94 --> 0:0:13,86
+world's premier feline
+cat tailor.
+
+
+6
+0:0:13,86 --> 0:0:17,52
+Takako was sick some
+years ago.
+
+
+7
+0:0:17,52 --> 0:0:20,67
+And she all of a sudden said
+that one day she had this
+
+
+8
+0:0:20,67 --> 0:0:23,95
+dream where God came down and
+told her, you need to make
+
+
+9
+0:0:23,95 --> 0:0:24,86
+clothes for cats.
+
+
+10
+0:0:24,86 --> 0:0:26,83
+And that's what she
+did, and it became
+
+
+11
+0:0:26,83 --> 0:0:28,25
+hugely popular in Japan.
+
+
+12
+0:0:28,25 --> 0:0:30,99
+She spends all day designing cat
+clothes, and she dresses
+
+
+13
+0:0:30,99 --> 0:0:31,79
+up her cats.
+
+
+14
+0:0:31,79 --> 0:0:34,26
+We decided to put out a book
+of her creations called
+
+
+15
+0:0:34,26 --> 0:0:36,19
+Fashion Cats, it came
+out last year.
+
+
+16
+0:0:36,19 --> 0:0:37,7
+Check it out under the
+description below.
+
+
+17
+0:0:37,7 --> 0:0:39,46
+And now here it is,
+The Cute Show.
+
+
+18
+0:0:39,46 --> 0:0:44,31
+
+
+
+19
+0:0:44,31 --> 0:0:45,61
+TAKAKO: [SPEAKING JAPANESE]
+
+
+20
+0:0:45,61 --> 0:1:43,94
+
+
+
+21
+0:1:43,94 --> 0:1:46,468
+Hi, hi!
+
+
+22
+0:1:46,468 --> 0:1:49,21
+I'm Kotaro.
+
+
+23
+0:1:49,21 --> 0:1:51,694
+Hello, you.
+
+
+24
+0:1:51,694 --> 0:1:53,51
+[SPEAKING JAPANESE]
+
+
+25
+0:1:53,51 --> 0:3:26,434
+
+
+
+26
+0:3:26,434 --> 0:3:29,878
+INTERVIEWER: [SPEAKING JAPANESE]
+
+
+27
+0:3:29,878 --> 0:3:31,354
+TAKAKO: [SPEAKING JAPANESE]
+
+
+28
+0:3:31,354 --> 0:3:36,137
+
+
+
+29
+0:3:36,137 --> 0:3:38,54
+INTERVIEWER: [SPEAKING JAPANESE]
+
+
+30
+0:3:38,54 --> 0:3:39,79
+TAKAKO: [SPEAKING JAPANESE]
+
+
+31
+0:3:39,79 --> 0:3:44,25
+
+
+
+32
+0:3:44,25 --> 0:3:46,25
+INTERVIEWER: [SPEAKING JAPANESE]
+
+
+33
+0:3:46,25 --> 0:3:48,75
+
+
+
+34
+0:3:48,75 --> 0:3:50,17
+TAKAKO: [SPEAKING JAPANESE]
+
+
+35
+0:3:50,17 --> 0:4:4,1
+
+
+
+36
+0:4:4,1 --> 0:4:6,265
+INTERVIEWER: [SPEAKING JAPANESE]
+
+
+37
+0:4:6,265 --> 0:4:9,445
+TAKAKO: [SPEAKING JAPANESE]
+
+
+38
+0:4:9,445 --> 0:4:11,28
+INTERVIEWER: [SPEAKING JAPANESE]
+
+
+39
+0:4:11,28 --> 0:4:13,1
+TAKAKO: [SPEAKING JAPANESE]
+
+
+40
+0:4:13,1 --> 0:6:13,1
+
+
+

@@ -1,0 +1,6833 @@
+1
+0:0:0,0 --> 0:0:1,61
+
+
+
+2
+0:0:1,61 --> 0:0:3,14
+MALE SPEAKER:
+Welcome, everybody.
+
+
+3
+0:0:3,14 --> 0:0:7,62
+Six days ago, astronaut
+Mark Whatrey--
+
+
+4
+0:0:7,62 --> 0:0:8,37
+ANDY WEIR: Watney.
+
+
+5
+0:0:8,37 --> 0:0:10,42
+MALE SPEAKER: --became
+one of the first men
+
+
+6
+0:0:10,42 --> 0:0:12,92
+to walk on the surface of Mars.
+
+
+7
+0:0:12,92 --> 0:0:16,39
+Now he may be the
+first man to die there.
+
+
+8
+0:0:16,39 --> 0:0:18,87
+Will he?
+
+
+9
+0:0:18,87 --> 0:0:22,4
+Andy Weir's brilliant
+debut novel, "The Martian,"
+
+
+10
+0:0:22,4 --> 0:0:26,92
+is a gripping story of
+survival against all odds.
+
+
+11
+0:0:26,92 --> 0:0:29,48
+The astronaut is stranded
+millions of miles
+
+
+12
+0:0:29,48 --> 0:0:32,31
+from the nearest human
+being with no way
+
+
+13
+0:0:32,31 --> 0:0:35,45
+to even signal Earth
+that he is alive.
+
+
+14
+0:0:35,45 --> 0:0:37,45
+And even if you he
+could get word out,
+
+
+15
+0:0:37,45 --> 0:0:40,6
+his food would be gone years
+before a rescue mission could
+
+
+16
+0:0:40,6 --> 0:0:43,23
+arrive.
+
+
+17
+0:0:43,23 --> 0:0:46,94
+Andy Weir, he's our neighbor
+here in Mountain View,
+
+
+18
+0:0:46,94 --> 0:0:48,45
+a longtime programmer.
+
+
+19
+0:0:48,45 --> 0:0:53,88
+He got his first job at 15 years
+of age at Sandia National Labs.
+
+
+20
+0:0:53,88 --> 0:0:58,3
+He wrote code for Warcraft II.
+
+
+21
+0:0:58,3 --> 0:1:1,1
+And he's now working
+at MobileIron,
+
+
+22
+0:1:1,1 --> 0:1:4,129
+where he's working
+on Android codes.
+
+
+23
+0:1:4,129 --> 0:1:8,25
+And actually, we talked a little
+bit how he likes the platform,
+
+
+24
+0:1:8,25 --> 0:1:12,11
+and he didn't have
+too many complaints.
+
+
+25
+0:1:12,11 --> 0:1:16,37
+I guess this is kudos to you
+guys from the Android group.
+
+
+26
+0:1:16,37 --> 0:1:23,8
+I am pleased to present
+the book, "The Martian."
+
+
+27
+0:1:23,8 --> 0:1:25,92
+Andy will be talking
+to us today about it
+
+
+28
+0:1:25,92 --> 0:1:29,14
+and showing some of the
+technical details that
+
+
+29
+0:1:29,14 --> 0:1:30,46
+went into the book.
+
+
+30
+0:1:30,46 --> 0:1:31,96
+And please give a warm welcome.
+
+
+31
+0:1:31,96 --> 0:1:38,39
+[APPLAUSE]
+
+
+32
+0:1:38,39 --> 0:1:40,487
+ANDY WEIR: So, like he
+said, I'm Andy Weir.
+
+
+33
+0:1:40,487 --> 0:1:41,57
+And I wrote "The Martian."
+
+
+34
+0:1:41,57 --> 0:1:45,177
+I'm going to be talking
+to you about that today.
+
+
+35
+0:1:45,177 --> 0:1:47,26
+When they told me that I'd
+be doing a Google Talk,
+
+
+36
+0:1:47,26 --> 0:1:48,91
+they said, you're
+going to want to make
+
+
+37
+0:1:48,91 --> 0:1:50,82
+about 40 minutes of content.
+
+
+38
+0:1:50,82 --> 0:1:53,91
+I don't think I'm going to
+make 40 minutes of content.
+
+
+39
+0:1:53,91 --> 0:1:56,85
+But I'll just say what I have
+to say until I'm out of stuff
+
+
+40
+0:1:56,85 --> 0:2:0,57
+to say, and then
+I'll take questions.
+
+
+41
+0:2:0,57 --> 0:2:2,5
+So you just got the
+summary of the book.
+
+
+42
+0:2:2,5 --> 0:2:3,32
+But I'm going to do a reading.
+
+
+43
+0:2:3,32 --> 0:2:4,49
+I'm going to start us
+off with a reading.
+
+
+44
+0:2:4,49 --> 0:2:5,82
+And then I'm going to
+start talking about some
+
+
+45
+0:2:5,82 --> 0:2:8,52
+of the technical stuff that
+went into making the book.
+
+
+46
+0:2:8,52 --> 0:2:11,0
+The reading's going to
+be about 10 minutes.
+
+
+47
+0:2:11,0 --> 0:2:14,41
+And it's just the first chapter.
+
+
+48
+0:2:14,41 --> 0:2:17,62
+So it's about four
+or five pages.
+
+
+49
+0:2:17,62 --> 0:2:20,35
+Also, the reading will
+include profanities.
+
+
+50
+0:2:20,35 --> 0:2:21,67
+I hope nobody's
+bothered by that.
+
+
+51
+0:2:21,67 --> 0:2:23,56
+I don't see any
+children out there.
+
+
+52
+0:2:23,56 --> 0:2:27,63
+So I'm just going
+to jump right in.
+
+
+53
+0:2:27,63 --> 0:2:29,68
+Log entry, Sol 6.
+
+
+54
+0:2:29,68 --> 0:2:31,15
+I'm pretty much fucked.
+
+
+55
+0:2:31,15 --> 0:2:32,57
+That's my considered opinion.
+
+
+56
+0:2:32,57 --> 0:2:33,94
+Fucked.
+
+
+57
+0:2:33,94 --> 0:2:35,76
+Six days into what should be the
+greatest two months of my life,
+
+
+58
+0:2:35,76 --> 0:2:37,38
+and it's turned
+into a nightmare.
+
+
+59
+0:2:37,38 --> 0:2:38,53
+I don't even know
+who'll read this.
+
+
+60
+0:2:38,53 --> 0:2:40,196
+I guess someone will
+find it eventually,
+
+
+61
+0:2:40,196 --> 0:2:41,42
+maybe 100 years from now.
+
+
+62
+0:2:41,42 --> 0:2:43,506
+For the record, I
+didn't die on Sol 6.
+
+
+63
+0:2:43,506 --> 0:2:45,38
+Certainly the rest of
+the crew thought I did.
+
+
+64
+0:2:45,38 --> 0:2:46,374
+And I can't blame them.
+
+
+65
+0:2:46,374 --> 0:2:48,54
+Maybe there'll be a day of
+national mourning for me.
+
+
+66
+0:2:48,54 --> 0:2:50,29
+And my Wikipedia page
+will say Mark Watney
+
+
+67
+0:2:50,29 --> 0:2:52,65
+is the only human being
+to have died on Mars.
+
+
+68
+0:2:52,65 --> 0:2:53,87
+And it'll be right, probably.
+
+
+69
+0:2:53,87 --> 0:2:55,17
+Because I'll surely die here.
+
+
+70
+0:2:55,17 --> 0:2:57,78
+Just not on Sol 6 when
+everyone thinks I did.
+
+
+71
+0:2:57,78 --> 0:2:58,33
+Let's see.
+
+
+72
+0:2:58,33 --> 0:2:59,57
+Where do I begin?
+
+
+73
+0:2:59,57 --> 0:3:2,37
+The Ares program-- mankind
+reaching out to Mars
+
+
+74
+0:3:2,37 --> 0:3:4,37
+to send people to another
+planet for the very first time
+
+
+75
+0:3:4,37 --> 0:3:6,972
+and expand the horizons of
+humanity, blah, blah, blah.
+
+
+76
+0:3:6,972 --> 0:3:9,18
+The Ares 1 crew did their
+thing and came back heroes.
+
+
+77
+0:3:9,18 --> 0:3:11,58
+They got the parades and
+fame and love of the world.
+
+
+78
+0:3:11,58 --> 0:3:13,999
+Ares 2 did the same thing in
+a different location on Mars.
+
+
+79
+0:3:13,999 --> 0:3:16,4
+They got a firm handshake
+and a hot cup of coffee
+
+
+80
+0:3:16,4 --> 0:3:17,3
+when they got home.
+
+
+81
+0:3:17,3 --> 0:3:18,3
+Ares 3?
+
+
+82
+0:3:18,3 --> 0:3:19,23
+Well, that's my mission.
+
+
+83
+0:3:19,23 --> 0:3:20,37
+Well, not mine, per se.
+
+
+84
+0:3:20,37 --> 0:3:21,62
+Commander Lewis was in charge.
+
+
+85
+0:3:21,62 --> 0:3:23,16
+I was just one of her crew.
+
+
+86
+0:3:23,16 --> 0:3:25,642
+Actually, I was the very lowest
+ranked member of the crew.
+
+
+87
+0:3:25,642 --> 0:3:27,35
+I would only be in
+command of the mission
+
+
+88
+0:3:27,35 --> 0:3:28,86
+if I were the only
+remaining person.
+
+
+89
+0:3:28,86 --> 0:3:29,776
+Hey, what do you know?
+
+
+90
+0:3:29,776 --> 0:3:31,4
+I'm in command.
+
+
+91
+0:3:31,4 --> 0:3:32,9
+I wonder if this
+log'll be recovered
+
+
+92
+0:3:32,9 --> 0:3:34,749
+before the rest of the
+crew die of old age.
+
+
+93
+0:3:34,749 --> 0:3:36,54
+I presume they got back
+to Earth all right.
+
+
+94
+0:3:36,54 --> 0:3:38,46
+Guys, if you're reading
+this, it wasn't your fault.
+
+
+95
+0:3:38,46 --> 0:3:39,66
+You did what you had to do.
+
+
+96
+0:3:39,66 --> 0:3:41,63
+In your position, I would
+have done the same thing.
+
+
+97
+0:3:41,63 --> 0:3:42,34
+I don't blame you.
+
+
+98
+0:3:42,34 --> 0:3:43,423
+And I'm glad you survived.
+
+
+99
+0:3:43,423 --> 0:3:45,782
+
+
+
+100
+0:3:45,782 --> 0:3:47,74
+I guess I should explain
+how Mars missions work
+
+
+101
+0:3:47,74 --> 0:3:49,58
+for any laymen who
+may be reading this.
+
+
+102
+0:3:49,58 --> 0:3:52,121
+We got to Earth orbit the normal
+way through an ordinary ship
+
+
+103
+0:3:52,121 --> 0:3:52,914
+to "Hermes."
+
+
+104
+0:3:52,914 --> 0:3:54,33
+All the Ares
+missions use "Hermes"
+
+
+105
+0:3:54,33 --> 0:3:55,48
+to get to and from Mars.
+
+
+106
+0:3:55,48 --> 0:3:58,754
+It's really big and it cost a
+lot, so NASA only built one.
+
+
+107
+0:3:58,754 --> 0:4:1,17
+Once we got to "Hermes," four
+additional unmanned missions
+
+
+108
+0:4:1,17 --> 0:4:3,52
+brought us fuel and supplies
+while we prepared for our trip.
+
+
+109
+0:4:3,52 --> 0:4:5,52
+Once everything was a
+"go," we set out for Mars,
+
+
+110
+0:4:5,52 --> 0:4:6,594
+but not very fast.
+
+
+111
+0:4:6,594 --> 0:4:8,26
+Gone are the days of
+heavy chemical fuel
+
+
+112
+0:4:8,26 --> 0:4:10,32
+burns and trans-Mars
+injection orbits.
+
+
+113
+0:4:10,32 --> 0:4:11,792
+"Hermes" is powered
+by ion engines.
+
+
+114
+0:4:11,792 --> 0:4:13,5
+They throw argon out
+the back of the ship
+
+
+115
+0:4:13,5 --> 0:4:15,93
+really fast to get a tiny
+amount of acceleration.
+
+
+116
+0:4:15,93 --> 0:4:18,79
+The thing is it doesn't
+take much reactant mass.
+
+
+117
+0:4:18,79 --> 0:4:20,94
+So a little argon and a
+nuclear reactor to power things
+
+
+118
+0:4:20,94 --> 0:4:23,261
+let us accelerate constantly
+the whole way there.
+
+
+119
+0:4:23,261 --> 0:4:24,76
+You'd be amazed how
+fast you can get
+
+
+120
+0:4:24,76 --> 0:4:27,762
+going with a tiny
+acceleration over a long time.
+
+
+121
+0:4:27,762 --> 0:4:29,97
+I could regale you with
+tales of how we had great fun
+
+
+122
+0:4:29,97 --> 0:4:31,132
+on the trip, but I won't.
+
+
+123
+0:4:31,132 --> 0:4:32,84
+I don't feel like
+re-living it right now.
+
+
+124
+0:4:32,84 --> 0:4:35,8
+Suffice it to say we
+got to Mars 124 days
+
+
+125
+0:4:35,8 --> 0:4:36,97
+later without
+strangling each other.
+
+
+126
+0:4:36,97 --> 0:4:39,56
+From there we took the
+MDV, Mars Descent Vehicle,
+
+
+127
+0:4:39,56 --> 0:4:40,56
+to the surface.
+
+
+128
+0:4:40,56 --> 0:4:42,98
+The MDV is basically a big
+can with some light thrusters
+
+
+129
+0:4:42,98 --> 0:4:44,1
+and parachutes attached.
+
+
+130
+0:4:44,1 --> 0:4:46,32
+Its sole purpose is to get
+six humans from Mars orbit
+
+
+131
+0:4:46,32 --> 0:4:48,199
+to the surface without
+killing any of them.
+
+
+132
+0:4:48,199 --> 0:4:50,49
+And now we come to the real
+trick of Mars exploration--
+
+
+133
+0:4:50,49 --> 0:4:52,37
+having all your shit
+there in advance.
+
+
+134
+0:4:52,37 --> 0:4:54,85
+A total of 14 unmanned
+missions deposited everything
+
+
+135
+0:4:54,85 --> 0:4:56,392
+we would need for
+surface operations.
+
+
+136
+0:4:56,392 --> 0:4:58,183
+They tried their best
+to land on the supply
+
+
+137
+0:4:58,183 --> 0:5:0,819
+vessels in the same general area
+and did a reasonably good job.
+
+
+138
+0:5:0,819 --> 0:5:2,61
+Supplies aren't nearly
+so fragile as humans
+
+
+139
+0:5:2,61 --> 0:5:4,17
+and can hit the
+ground really hard,
+
+
+140
+0:5:4,17 --> 0:5:5,829
+but they tend to
+bounce around a lot.
+
+
+141
+0:5:5,829 --> 0:5:7,37
+Naturally they didn't
+send us to Mars
+
+
+142
+0:5:7,37 --> 0:5:9,16
+until they confirmed that
+all the supplies had made it
+
+
+143
+0:5:9,16 --> 0:5:11,368
+to the surface and their
+containers weren't breached.
+
+
+144
+0:5:11,368 --> 0:5:13,33
+Start to finish,
+including supply missions,
+
+
+145
+0:5:13,33 --> 0:5:15,52
+a Mars mission takes
+about three years.
+
+
+146
+0:5:15,52 --> 0:5:17,89
+In fact, there were Ares 3
+supplies en route to Mars
+
+
+147
+0:5:17,89 --> 0:5:20,441
+while the Ares 2 crew
+were on their way home.
+
+
+148
+0:5:20,441 --> 0:5:22,94
+The most important piece of the
+advance supplies, of course,
+
+
+149
+0:5:22,94 --> 0:5:25,314
+was the MAV, the
+Mars Ascent Vehicle.
+
+
+150
+0:5:25,314 --> 0:5:26,98
+That's how we would
+get back to "Hermes"
+
+
+151
+0:5:26,98 --> 0:5:28,72
+after surface operations
+were complete.
+
+
+152
+0:5:28,72 --> 0:5:31,7
+The MAV was soft landed
+as opposed to the balloon
+
+
+153
+0:5:31,7 --> 0:5:32,705
+bounce fest the
+other supplies had.
+
+
+154
+0:5:32,705 --> 0:5:35,8
+Of course, it was in constant
+communication with Houston,
+
+
+155
+0:5:35,8 --> 0:5:36,91
+and if there had been
+any problems with it,
+
+
+156
+0:5:36,91 --> 0:5:39,77
+we would have passed by Mars and
+gone home without ever landing.
+
+
+157
+0:5:39,77 --> 0:5:41,7
+The MAV is pretty cool.
+
+
+158
+0:5:41,7 --> 0:5:42,93
+It turns out through a neat
+set of chemical reactions
+
+
+159
+0:5:42,93 --> 0:5:45,388
+with the Martian atmosphere,
+for every kilogram of hydrogen
+
+
+160
+0:5:45,388 --> 0:5:48,74
+you bring to Mars, you can
+make 13 kilograms of fuel.
+
+
+161
+0:5:48,74 --> 0:5:49,24
+It's a slow process, though.
+
+
+162
+0:5:49,24 --> 0:5:51,5
+It takes 24 months
+to fill the tank.
+
+
+163
+0:5:51,5 --> 0:5:53,29
+That's why they sent it
+long before we got there.
+
+
+164
+0:5:53,29 --> 0:5:54,706
+You can imagine
+how disappointed I
+
+
+165
+0:5:54,706 --> 0:5:57,352
+was when I discovered
+the MAV was gone.
+
+
+166
+0:5:57,352 --> 0:5:59,56
+It was a ridiculous sequence
+of events that led to me
+
+
+167
+0:5:59,56 --> 0:6:1,851
+almost dying, and an even
+more ridiculous sequence that
+
+
+168
+0:6:1,851 --> 0:6:2,77
+led to me surviving.
+
+
+169
+0:6:2,77 --> 0:6:4,144
+The mission is
+designed to handle
+
+
+170
+0:6:4,144 --> 0:6:6,539
+sandstorm gusts
+of up to 150 KPH.
+
+
+171
+0:6:6,539 --> 0:6:8,8
+So Houston got
+understandably nervous
+
+
+172
+0:6:8,8 --> 0:6:10,67
+when we got whacked
+with 175 KPH winds.
+
+
+173
+0:6:10,67 --> 0:6:12,42
+We all got in our
+flight suits and huddled
+
+
+174
+0:6:12,42 --> 0:6:14,711
+in the middle of the Hab just
+in case it lost pressure.
+
+
+175
+0:6:14,711 --> 0:6:16,18
+But they Hab wasn't the problem.
+
+
+176
+0:6:16,18 --> 0:6:17,289
+The MAV is a spaceship.
+
+
+177
+0:6:17,289 --> 0:6:18,58
+It has a lot of delicate parts.
+
+
+178
+0:6:18,58 --> 0:6:20,496
+It can put up with storms
+to a certain extent,
+
+
+179
+0:6:20,496 --> 0:6:22,34
+but it can't just get
+sand blasted forever.
+
+
+180
+0:6:22,34 --> 0:6:24,131
+After an hour and a
+half of sustained wind,
+
+
+181
+0:6:24,131 --> 0:6:25,34
+NASA gave the order to abort.
+
+
+182
+0:6:25,34 --> 0:6:27,547
+Nobody wanted to stop a
+month-long mission after only
+
+
+183
+0:6:27,547 --> 0:6:29,68
+six days, but if the MAV
+took any more punishment,
+
+
+184
+0:6:29,68 --> 0:6:32,35
+we'd have all gotten
+stranded down there.
+
+
+185
+0:6:32,35 --> 0:6:34,96
+We had to go out in the storm
+to get from the Hab to the MAV.
+
+
+186
+0:6:34,96 --> 0:6:36,251
+And that was going to be risky.
+
+
+187
+0:6:36,251 --> 0:6:37,59
+But what choice did we have?
+
+
+188
+0:6:37,59 --> 0:6:39,29
+Everyone made it but me.
+
+
+189
+0:6:39,29 --> 0:6:41,52
+Our main communications
+dish, which relayed signals
+
+
+190
+0:6:41,52 --> 0:6:43,68
+from the Hab to "Hermes,"
+acted like a parachute getting
+
+
+191
+0:6:43,68 --> 0:6:45,94
+torn from its foundation and
+carried with the torrent.
+
+
+192
+0:6:45,94 --> 0:6:47,77
+Along the way, it crashed
+through the reception antenna
+
+
+193
+0:6:47,77 --> 0:6:48,299
+array.
+
+
+194
+0:6:48,299 --> 0:6:49,84
+Then one of those
+long, thin antennae
+
+
+195
+0:6:49,84 --> 0:6:51,27
+slammed into me end first.
+
+
+196
+0:6:51,27 --> 0:6:53,54
+It tore through my suit like
+a bullet through butter.
+
+
+197
+0:6:53,54 --> 0:6:56,494
+And I felt the worst pain in my
+life as it ripped open my side.
+
+
+198
+0:6:56,494 --> 0:6:58,41
+I vaguely remember having
+the wind knocked out
+
+
+199
+0:6:58,41 --> 0:6:59,91
+of me-- pulled out
+of me, really--
+
+
+200
+0:6:59,91 --> 0:7:1,785
+and my ears popping
+painfully is the pressure
+
+
+201
+0:7:1,785 --> 0:7:2,63
+in my suit escaped.
+
+
+202
+0:7:2,63 --> 0:7:4,546
+The last thing I remember
+was seeing Johanssen
+
+
+203
+0:7:4,546 --> 0:7:6,68
+hopelessly reaching
+out toward me.
+
+
+204
+0:7:6,68 --> 0:7:8,52
+I awoke to an oxygen
+alarm in my suit,
+
+
+205
+0:7:8,52 --> 0:7:10,27
+a steady obnoxious
+beeping that aroused me
+
+
+206
+0:7:10,27 --> 0:7:14,66
+from a deep and profound
+desire to just fucking die.
+
+
+207
+0:7:14,66 --> 0:7:15,56
+The storm had abated.
+
+
+208
+0:7:15,56 --> 0:7:17,8
+I was face down, almost
+totally buried in sand.
+
+
+209
+0:7:17,8 --> 0:7:19,21
+As I groggily came
+to, I wondered
+
+
+210
+0:7:19,21 --> 0:7:21,119
+why I wasn't more dead.
+
+
+211
+0:7:21,119 --> 0:7:22,66
+The antenna had
+enough force to punch
+
+
+212
+0:7:22,66 --> 0:7:24,2
+through the suit
+and my side, but it
+
+
+213
+0:7:24,2 --> 0:7:25,31
+had been stopped by my pelvis.
+
+
+214
+0:7:25,31 --> 0:7:26,976
+So there was only one
+hole in the suit--
+
+
+215
+0:7:26,976 --> 0:7:29,43
+and a hole in me, of course.
+
+
+216
+0:7:29,43 --> 0:7:30,9
+I'd been knocked
+back quite a ways
+
+
+217
+0:7:30,9 --> 0:7:32,108
+and rolled down a steep hill.
+
+
+218
+0:7:32,108 --> 0:7:33,49
+Somehow I landed
+face down, which
+
+
+219
+0:7:33,49 --> 0:7:35,62
+forced the antenna into a
+strongly oblique angle that
+
+
+220
+0:7:35,62 --> 0:7:37,453
+put a lot of torque on
+the hole in the suit.
+
+
+221
+0:7:37,453 --> 0:7:38,61
+It made a weak seal.
+
+
+222
+0:7:38,61 --> 0:7:40,11
+Then the copious
+blood from my wound
+
+
+223
+0:7:40,11 --> 0:7:41,23
+trickled down toward the hole.
+
+
+224
+0:7:41,23 --> 0:7:43,2
+As the blood reached the site
+of the breach, the water in it
+
+
+225
+0:7:43,2 --> 0:7:45,7
+quickly evaporated from the
+air flow and low pressure,
+
+
+226
+0:7:45,7 --> 0:7:47,374
+leaving a gunky residue behind.
+
+
+227
+0:7:47,374 --> 0:7:49,79
+More blood came in behind it
+and was also reduced to gunk.
+
+
+228
+0:7:49,79 --> 0:7:51,45
+Eventually it sealed
+the gaps around the hole
+
+
+229
+0:7:51,45 --> 0:7:52,824
+and reduced the
+leak to something
+
+
+230
+0:7:52,824 --> 0:7:54,68
+the suit could counteract.
+
+
+231
+0:7:54,68 --> 0:7:56,374
+The suit did its job admirably.
+
+
+232
+0:7:56,374 --> 0:7:58,165
+Sensing the drop in
+pressure, it constantly
+
+
+233
+0:7:58,165 --> 0:8:0,584
+flooded itself with air from
+my nitrogen tank to equalize.
+
+
+234
+0:8:0,584 --> 0:8:2,25
+Once the leak became
+manageable, it only
+
+
+235
+0:8:2,25 --> 0:8:5,4
+had to trickle new air in
+slowly to relieve the air lost.
+
+
+236
+0:8:5,4 --> 0:8:7,989
+After a while, the CO2, carbon
+dioxide, absorbers in the suit
+
+
+237
+0:8:7,989 --> 0:8:10,28
+were expended That's really
+the limiting factor to life
+
+
+238
+0:8:10,28 --> 0:8:12,53
+support-- not the amount of
+oxygen you bring with you,
+
+
+239
+0:8:12,53 --> 0:8:14,34
+but the amount of
+CO2 you can remove.
+
+
+240
+0:8:14,34 --> 0:8:16,62
+In the Hab, I have the
+oxygenator, a large piece
+
+
+241
+0:8:16,62 --> 0:8:20,284
+of equipment that breaks apart
+CO2 to give the oxygen back.
+
+
+242
+0:8:20,284 --> 0:8:21,95
+But the space suits
+have to be portable.
+
+
+243
+0:8:21,95 --> 0:8:23,79
+So they use a simple
+chemical absorption
+
+
+244
+0:8:23,79 --> 0:8:25,58
+process with expendable filters.
+
+
+245
+0:8:25,58 --> 0:8:28,304
+I'd been asleep long enough
+that my filters were useless.
+
+
+246
+0:8:28,304 --> 0:8:30,72
+The suit saw this problem and
+moved into an emergency mode
+
+
+247
+0:8:30,72 --> 0:8:32,309
+the engineers call
+"bloodletting."
+
+
+248
+0:8:32,309 --> 0:8:33,929
+Having no way to
+separate the CO2,
+
+
+249
+0:8:33,929 --> 0:8:36,47
+the suit deliberately vented
+air into the Martian atmosphere,
+
+
+250
+0:8:36,47 --> 0:8:37,94
+then back-filled with nitrogen.
+
+
+251
+0:8:37,94 --> 0:8:39,34
+Between the breach
+and the bloodletting,
+
+
+252
+0:8:39,34 --> 0:8:40,659
+it quickly ran out of nitrogen.
+
+
+253
+0:8:40,659 --> 0:8:42,846
+All it had left
+was my oxygen tank.
+
+
+254
+0:8:42,846 --> 0:8:44,97
+So it did the only thing
+it could to keep me alive.
+
+
+255
+0:8:44,97 --> 0:8:46,678
+It started back-filling
+with pure oxygen.
+
+
+256
+0:8:46,678 --> 0:8:49,84
+I now risked dying
+from oxygen toxicity
+
+
+257
+0:8:49,84 --> 0:8:50,75
+as the excessively
+high amount of oxygen
+
+
+258
+0:8:50,75 --> 0:8:53,25
+threatened to burn up my nervous
+system, lungs, and eyes--
+
+
+259
+0:8:53,25 --> 0:8:55,791
+an ironic death for someone with
+a leaky space suit, too much
+
+
+260
+0:8:55,791 --> 0:8:56,571
+oxygen.
+
+
+261
+0:8:56,571 --> 0:8:59,7
+Every step of the way would
+have had beeping alarms, alerts,
+
+
+262
+0:8:59,7 --> 0:8:59,63
+and warnings.
+
+
+263
+0:8:59,63 --> 0:9:2,55
+But it was a high oxygen
+morning that woke me.
+
+
+264
+0:9:2,55 --> 0:9:4,68
+The sheer volume of training for
+a space mission is astounding.
+
+
+265
+0:9:4,68 --> 0:9:7,2
+I'd spent a week back on Earth
+practicing emergency spacesuit
+
+
+266
+0:9:7,2 --> 0:9:7,7
+drills.
+
+
+267
+0:9:7,7 --> 0:9:8,622
+I knew what to do.
+
+
+268
+0:9:8,622 --> 0:9:10,33
+Carefully reaching
+the side of my helmet,
+
+
+269
+0:9:10,33 --> 0:9:11,22
+I got the breach kit.
+
+
+270
+0:9:11,22 --> 0:9:13,49
+It's nothing more than a funnel
+with a valve at the small end
+
+
+271
+0:9:13,49 --> 0:9:15,78
+and an unbelievably sticky
+resin on the white end.
+
+
+272
+0:9:15,78 --> 0:9:18,284
+The idea is you have
+the valve open and stick
+
+
+273
+0:9:18,284 --> 0:9:19,45
+the white end over the hole.
+
+
+274
+0:9:19,45 --> 0:9:20,71
+The air can escape
+through the valve
+
+
+275
+0:9:20,71 --> 0:9:22,9
+so it doesn't interfere with
+the resin making a good seal.
+
+
+276
+0:9:22,9 --> 0:9:24,92
+Then you close the valve,
+and you've sealed the breach.
+
+
+277
+0:9:24,92 --> 0:9:26,99
+The tricky part was getting
+the antenna out of the way.
+
+
+278
+0:9:26,99 --> 0:9:28,29
+I pulled it out as
+fast as I could,
+
+
+279
+0:9:28,29 --> 0:9:30,581
+wincing as the sudden pressure
+drop dizzied me and made
+
+
+280
+0:9:30,581 --> 0:9:32,649
+the wound in my side
+scream in agony.
+
+
+281
+0:9:32,649 --> 0:9:34,69
+I got the breach kit over
+the hole and sealed it.
+
+
+282
+0:9:34,69 --> 0:9:35,32
+It held.
+
+
+283
+0:9:35,32 --> 0:9:37,96
+The suit back-filled the missing
+air with yet more oxygen.
+
+
+284
+0:9:37,96 --> 0:9:41,1
+Checking my arm readouts, I saw
+the suit was now at 85% oxygen.
+
+
+285
+0:9:41,1 --> 0:9:43,69
+For reference, Earth's
+atmosphere is about 21%.
+
+
+286
+0:9:43,69 --> 0:9:46,69
+I'd be OK so long as I didn't
+spend too much time like that.
+
+
+287
+0:9:46,69 --> 0:9:48,47
+I stumbled up the
+hill back to the Hab.
+
+
+288
+0:9:48,47 --> 0:9:49,81
+As I crested the
+rise, I saw something
+
+
+289
+0:9:49,81 --> 0:9:51,351
+that made me very
+happy and something
+
+
+290
+0:9:51,351 --> 0:9:52,27
+that made me very sad.
+
+
+291
+0:9:52,27 --> 0:9:53,31
+The Hab was intact.
+
+
+292
+0:9:53,31 --> 0:9:53,9
+Yay!
+
+
+293
+0:9:53,9 --> 0:9:55,5
+And the MAV was gone.
+
+
+294
+0:9:55,5 --> 0:9:55,505
+Boo!
+
+
+295
+0:9:55,505 --> 0:9:58,729
+
+
+
+296
+0:9:58,729 --> 0:10:0,52
+Right at that moment,
+I knew I was screwed.
+
+
+297
+0:10:0,52 --> 0:10:2,2
+But I didn't want to just
+die out on the surface.
+
+
+298
+0:10:2,2 --> 0:10:4,5
+I limped back to the Hab
+and fumbled my way out
+
+
+299
+0:10:4,5 --> 0:10:5,56
+into an airlock.
+
+
+300
+0:10:5,56 --> 0:10:7,552
+As soon as it equalized,
+I threw off my helmet.
+
+
+301
+0:10:7,552 --> 0:10:9,135
+Once inside the Hab,
+I doffed the suit
+
+
+302
+0:10:9,135 --> 0:10:10,922
+and got my first good
+look at the injury.
+
+
+303
+0:10:10,922 --> 0:10:11,88
+It would need stitches.
+
+
+304
+0:10:11,88 --> 0:10:13,504
+Fortunately, all of
+us had been trained
+
+
+305
+0:10:13,504 --> 0:10:16,0
+in basic medical
+procedures and the Hab
+
+
+306
+0:10:16,0 --> 0:10:17,819
+had excellent medical supplies.
+
+
+307
+0:10:17,819 --> 0:10:20,11
+A quick shot of a local
+anesthetic, irrigate the wound,
+
+
+308
+0:10:20,11 --> 0:10:21,44
+nine stitches, and I was done.
+
+
+309
+0:10:21,44 --> 0:10:23,44
+I'd be taking antibiotics
+for a couple of weeks,
+
+
+310
+0:10:23,44 --> 0:10:24,774
+but other than that I'd be fine.
+
+
+311
+0:10:24,774 --> 0:10:26,523
+I knew it was hopeless,
+but I tried firing
+
+
+312
+0:10:26,523 --> 0:10:27,72
+up the communications array.
+
+
+313
+0:10:27,72 --> 0:10:28,704
+No signal, of course.
+
+
+314
+0:10:28,704 --> 0:10:30,87
+The primary satellite dish
+had broken off, remember?
+
+
+315
+0:10:30,87 --> 0:10:33,26
+And it took the reception
+antennae with it.
+
+
+316
+0:10:33,26 --> 0:10:35,66
+The Hab had secondary and
+tertiary communication systems,
+
+
+317
+0:10:35,66 --> 0:10:37,118
+but they were both
+just for talking
+
+
+318
+0:10:37,118 --> 0:10:39,63
+to the MAV, which would use
+it's much more powerful systems
+
+
+319
+0:10:39,63 --> 0:10:40,505
+to relay to "Hermes."
+
+
+320
+0:10:40,505 --> 0:10:43,42
+The thing is, that only works
+if the MAV is still around.
+
+
+321
+0:10:43,42 --> 0:10:44,87
+I had no way to
+talk to "Hermes."
+
+
+322
+0:10:44,87 --> 0:10:46,61
+In time, I could locate
+the dish on the surface,
+
+
+323
+0:10:46,61 --> 0:10:48,42
+but it would take weeks for
+me to rig up any repairs
+
+
+324
+0:10:48,42 --> 0:10:49,544
+and that would be too late.
+
+
+325
+0:10:49,544 --> 0:10:52,134
+In an abort, "Hermes" would
+leave within 24 hours.
+
+
+326
+0:10:52,134 --> 0:10:54,3
+The orbital dynamics made
+the trip safer and shorter
+
+
+327
+0:10:54,3 --> 0:10:55,26
+the earlier you left.
+
+
+328
+0:10:55,26 --> 0:10:56,566
+So why wait?
+
+
+329
+0:10:56,566 --> 0:10:58,19
+Checking out my suit,
+I saw the antenna
+
+
+330
+0:10:58,19 --> 0:10:59,91
+had plowed through my
+biomonitor computer.
+
+
+331
+0:10:59,91 --> 0:11:1,421
+When on an EVA, all
+the crew's suits
+
+
+332
+0:11:1,421 --> 0:11:3,42
+are networked so we can
+see each other's status.
+
+
+333
+0:11:3,42 --> 0:11:5,55
+The rest of the crew would have
+seen the pressure in my suit
+
+
+334
+0:11:5,55 --> 0:11:7,216
+drop to nearly zero
+followed immediately
+
+
+335
+0:11:7,216 --> 0:11:9,9
+by my biosigns going flat.
+
+
+336
+0:11:9,9 --> 0:11:11,477
+Add to that, watching me
+tumble down a hill with a spear
+
+
+337
+0:11:11,477 --> 0:11:13,6
+threw me in the
+middle of a sandstorm?
+
+
+338
+0:11:13,6 --> 0:11:14,46
+Yeah, they thought I was dead.
+
+
+339
+0:11:14,46 --> 0:11:16,192
+How could they not?
+
+
+340
+0:11:16,192 --> 0:11:17,9
+They may have even
+had a brief discussion
+
+
+341
+0:11:17,9 --> 0:11:20,27
+about recovering my body,
+but regulations were clear.
+
+
+342
+0:11:20,27 --> 0:11:22,737
+In the event a crewman dies
+on Mars, he stays on Mars.
+
+
+343
+0:11:22,737 --> 0:11:25,32
+Leaving his body behind reduces
+weight for the MAV on the trip
+
+
+344
+0:11:25,32 --> 0:11:25,69
+back.
+
+
+345
+0:11:25,69 --> 0:11:27,815
+That means more disposable
+fuel and a larger margin
+
+
+346
+0:11:27,815 --> 0:11:29,32
+of error for the return thrust.
+
+
+347
+0:11:29,32 --> 0:11:31,64
+No point in giving that
+up for sentimentality.
+
+
+348
+0:11:31,64 --> 0:11:32,93
+So that's the situation.
+
+
+349
+0:11:32,93 --> 0:11:33,84
+I'm stranded on Mars.
+
+
+350
+0:11:33,84 --> 0:11:35,65
+I have no way to communicate
+with "Hermes" or Earth.
+
+
+351
+0:11:35,65 --> 0:11:36,84
+Everyone thinks I'm dead.
+
+
+352
+0:11:36,84 --> 0:11:38,86
+I'm in a Hab designed
+to last 31 days.
+
+
+353
+0:11:38,86 --> 0:11:40,789
+If the oxygenator breaks
+down, I'll suffocate.
+
+
+354
+0:11:40,789 --> 0:11:43,8
+If the water reclaimer breaks
+down, I'll die of thirst.
+
+
+355
+0:11:43,8 --> 0:11:45,6
+If the Hab breaches, I'll
+just kind of explode.
+
+
+356
+0:11:45,6 --> 0:11:46,56
+If none of those
+things happen, I'll
+
+
+357
+0:11:46,56 --> 0:11:48,518
+eventually run out of
+food and starve to death.
+
+
+358
+0:11:48,518 --> 0:11:49,743
+So yeah, I'm fucked.
+
+
+359
+0:11:49,743 --> 0:11:50,689
+[LAUGHTER]
+
+
+360
+0:11:50,689 --> 0:11:56,37
+[APPLAUSE]
+
+
+361
+0:11:56,37 --> 0:11:57,78
+So that's chapter one.
+
+
+362
+0:11:57,78 --> 0:11:59,895
+
+
+
+363
+0:11:59,895 --> 0:12:1,77
+Of the things that was
+really important to me
+
+
+364
+0:12:1,77 --> 0:12:3,395
+in writing this was
+I wanted everything
+
+
+365
+0:12:3,395 --> 0:12:5,96
+to be as scientifically
+accurate as possible.
+
+
+366
+0:12:5,96 --> 0:12:7,51
+So for starters,
+all the technology
+
+
+367
+0:12:7,51 --> 0:12:10,69
+mentioned in the book is real.
+
+
+368
+0:12:10,69 --> 0:12:12,36
+It takes place in
+a slight future,
+
+
+369
+0:12:12,36 --> 0:12:15,53
+so some of the technology is
+much more efficient or much
+
+
+370
+0:12:15,53 --> 0:12:18,2
+more effective than the
+versions of it we have now.
+
+
+371
+0:12:18,2 --> 0:12:20,97
+But it all actually exists.
+
+
+372
+0:12:20,97 --> 0:12:22,6
+And what I'm going
+to talk to you today
+
+
+373
+0:12:22,6 --> 0:12:24,225
+about-- being a Google
+crowd, I thought
+
+
+374
+0:12:24,225 --> 0:12:26,225
+you might be interested
+in some software I wrote
+
+
+375
+0:12:26,225 --> 0:12:29,88
+to make one part of it
+as accurate as possible.
+
+
+376
+0:12:29,88 --> 0:12:32,89
+It has to do with the way that
+"Hermes" got from Earth to Mars
+
+
+377
+0:12:32,89 --> 0:12:34,2
+and back.
+
+
+378
+0:12:34,2 --> 0:12:36,124
+"Hermes" is an ion engine ship.
+
+
+379
+0:12:36,124 --> 0:12:38,54
+And for those of you who don't
+know what ion engines are--
+
+
+380
+0:12:38,54 --> 0:12:41,64
+I mean, I described it
+briefly in the chapter--
+
+
+381
+0:12:41,64 --> 0:12:43,864
+but basically, instead
+of a chemical propellant
+
+
+382
+0:12:43,864 --> 0:12:45,53
+going out the back
+of the ship providing
+
+
+383
+0:12:45,53 --> 0:12:48,34
+a large amount of impulse,
+it's a very small amount
+
+
+384
+0:12:48,34 --> 0:12:50,45
+of acceleration caused
+by magnetic fields
+
+
+385
+0:12:50,45 --> 0:12:52,37
+throwing ions out
+the back of the ship.
+
+
+386
+0:12:52,37 --> 0:12:54,6
+Now the benefit to
+this is that you
+
+
+387
+0:12:54,6 --> 0:12:57,19
+can have much, much,
+much less reactant mass.
+
+
+388
+0:12:57,19 --> 0:12:59,97
+And I believe-- and this is
+just my own subjective opinion--
+
+
+389
+0:12:59,97 --> 0:13:3,476
+we have to improve on the
+technology that we have
+
+
+390
+0:13:3,476 --> 0:13:4,6
+and just keep working that.
+
+
+391
+0:13:4,6 --> 0:13:5,975
+I think that's
+the only way we'll
+
+
+392
+0:13:5,975 --> 0:13:9,92
+be able to send humans long
+distances out into space.
+
+
+393
+0:13:9,92 --> 0:13:12,52
+The amount of
+chemical propellant
+
+
+394
+0:13:12,52 --> 0:13:14,83
+you would need to send
+something big enough
+
+
+395
+0:13:14,83 --> 0:13:17,89
+to support humans for
+several months out to Mars
+
+
+396
+0:13:17,89 --> 0:13:19,78
+would just be huge, huge.
+
+
+397
+0:13:19,78 --> 0:13:21,7
+I mean, you'd be putting
+millions and millions
+
+
+398
+0:13:21,7 --> 0:13:24,67
+of kilograms of just fuel
+into space to do this.
+
+
+399
+0:13:24,67 --> 0:13:27,69
+So you need to
+minimize how much you
+
+
+400
+0:13:27,69 --> 0:13:29,93
+launch from Earth to
+make that efficient.
+
+
+401
+0:13:29,93 --> 0:13:32,81
+So that means for "Hermes,"
+I decided, oh, OK,
+
+
+402
+0:13:32,81 --> 0:13:35,4
+so it's got a slow constant
+acceleration from ion engines.
+
+
+403
+0:13:35,4 --> 0:13:36,78
+It's got a nuclear
+reactor aboard
+
+
+404
+0:13:36,78 --> 0:13:39,47
+to create the energy necessary
+to throw the particles.
+
+
+405
+0:13:39,47 --> 0:13:44,99
+And so that means I needed to
+figure out how it gets there.
+
+
+406
+0:13:44,99 --> 0:13:47,5
+And it turns out for a point
+acceleration, when you just
+
+
+407
+0:13:47,5 --> 0:13:50,23
+say, oh, I want to go on
+a transfer orbit from here
+
+
+408
+0:13:50,23 --> 0:13:51,2
+to here.
+
+
+409
+0:13:51,2 --> 0:13:52,73
+And then there'll be
+a point thrust here,
+
+
+410
+0:13:52,73 --> 0:13:54,32
+and then another
+point thrust here
+
+
+411
+0:13:54,32 --> 0:13:56,71
+to match Mars, boom,
+that's how we do it.
+
+
+412
+0:13:56,71 --> 0:13:57,69
+It's very simple.
+
+
+413
+0:13:57,69 --> 0:13:59,85
+Well, I mean, for
+a dork like me who
+
+
+414
+0:13:59,85 --> 0:14:2,26
+likes orbital dynamics,
+that's very simple.
+
+
+415
+0:14:2,26 --> 0:14:5,52
+With a constantly accelerating
+ship, that's very hard.
+
+
+416
+0:14:5,52 --> 0:14:7,23
+I could not wrap my
+head around the math.
+
+
+417
+0:14:7,23 --> 0:14:8,59
+I couldn't find
+anybody who could
+
+
+418
+0:14:8,59 --> 0:14:9,964
+wrap their heads
+around the math.
+
+
+419
+0:14:9,964 --> 0:14:12,8
+And what I found out by
+doing further research
+
+
+420
+0:14:12,8 --> 0:14:14,9
+is NASA does this by
+computer simulation.
+
+
+421
+0:14:14,9 --> 0:14:15,9
+So that's what I did.
+
+
+422
+0:14:15,9 --> 0:14:18,42
+
+
+
+423
+0:14:18,42 --> 0:14:21,452
+I wrote this program
+called Orbits.
+
+
+424
+0:14:21,452 --> 0:14:22,91
+I don't how well
+that's showing up.
+
+
+425
+0:14:22,91 --> 0:14:23,701
+Let me take a look.
+
+
+426
+0:14:23,701 --> 0:14:24,95
+Are you able to see?
+
+
+427
+0:14:24,95 --> 0:14:26,1
+Yeah, you can kind of see.
+
+
+428
+0:14:26,1 --> 0:14:27,77
+It's a little darker
+than I'd like.
+
+
+429
+0:14:27,77 --> 0:14:33,7
+But this-- well, I've got
+a mouse-- this circle here,
+
+
+430
+0:14:33,7 --> 0:14:35,18
+this red circle, is Mars' orbit.
+
+
+431
+0:14:35,18 --> 0:14:37,24
+The blue circle
+is Earth's orbit.
+
+
+432
+0:14:37,24 --> 0:14:40,27
+And the gray line is
+the course of the ship.
+
+
+433
+0:14:40,27 --> 0:14:44,94
+So the way this works is I can
+mess around with the vector
+
+
+434
+0:14:44,94 --> 0:14:48,94
+that the ship is presenting
+with respect to the sun.
+
+
+435
+0:14:48,94 --> 0:14:51,29
+So in other words, if I were
+to point it directly away
+
+
+436
+0:14:51,29 --> 0:14:55,6
+from the sun, then I can
+show where that vector's
+
+
+437
+0:14:55,6 --> 0:14:56,747
+going to be anywhere
+along the trip.
+
+
+438
+0:14:56,747 --> 0:14:58,83
+You see how it's always
+pointed away from the sun?
+
+
+439
+0:14:58,83 --> 0:15:1,64
+The red vector that's
+following the mouse?
+
+
+440
+0:15:1,64 --> 0:15:2,98
+That's how this works.
+
+
+441
+0:15:2,98 --> 0:15:5,26
+And so I can do
+something like this.
+
+
+442
+0:15:5,26 --> 0:15:7,28
+I can point it-- well,
+directly toward the sun
+
+
+443
+0:15:7,28 --> 0:15:8,53
+leads to your immediate death.
+
+
+444
+0:15:8,53 --> 0:15:11,52
+But point it, say,
+perpendicular to the sun,
+
+
+445
+0:15:11,52 --> 0:15:12,51
+you can see it's
+just always trying
+
+
+446
+0:15:12,51 --> 0:15:14,21
+to go perpendicular to the sun.
+
+
+447
+0:15:14,21 --> 0:15:16,14
+So what I wanted
+to do here is, say,
+
+
+448
+0:15:16,14 --> 0:15:17,75
+this is the start
+point of Earth.
+
+
+449
+0:15:17,75 --> 0:15:19,794
+And as you see, if
+I move along, it
+
+
+450
+0:15:19,794 --> 0:15:21,21
+shows me where
+Earth and Mars will
+
+
+451
+0:15:21,21 --> 0:15:24,15
+be as they're going
+along in their orbits
+
+
+452
+0:15:24,15 --> 0:15:28,17
+from my chosen launch window.
+
+
+453
+0:15:28,17 --> 0:15:31,18
+And then the idea is
+to try to find a way
+
+
+454
+0:15:31,18 --> 0:15:38,94
+to make this get to Mars
+with course changes and stuff
+
+
+455
+0:15:38,94 --> 0:15:41,69
+and work that out.
+
+
+456
+0:15:41,69 --> 0:15:45,21
+This would not be
+a successful trip.
+
+
+457
+0:15:45,21 --> 0:15:48,23
+But after all a whole bunch of
+work and just fiddling around
+
+
+458
+0:15:48,23 --> 0:15:52,93
+with it, I managed to figure out
+this path that actually starts
+
+
+459
+0:15:52,93 --> 0:15:56,38
+here, then intercepts
+Mars, and then
+
+
+460
+0:15:56,38 --> 0:15:58,63
+doesn't do any thrusting
+or anything for a while.
+
+
+461
+0:15:58,63 --> 0:16:0,29
+It's just at Mars.
+
+
+462
+0:16:0,29 --> 0:16:2,46
+And then comes back to Earth.
+
+
+463
+0:16:2,46 --> 0:16:4,98
+I also set up this
+app to animate.
+
+
+464
+0:16:4,98 --> 0:16:8,86
+So I can just press Space,
+and you can watch it happen.
+
+
+465
+0:16:8,86 --> 0:16:10,77
+There it goes to
+Mars, hangs out there
+
+
+466
+0:16:10,77 --> 0:16:13,42
+for their planned
+31-day mission,
+
+
+467
+0:16:13,42 --> 0:16:17,4
+and then comes back
+to Earth like that.
+
+
+468
+0:16:17,4 --> 0:16:18,9
+AUDIENCE: [INAUDIBLE] a year.
+
+
+469
+0:16:18,9 --> 0:16:21,31
+ANDY WEIR: It takes a
+little bit more than a year.
+
+
+470
+0:16:21,31 --> 0:16:23,351
+I don't know if you can
+read it up in the corner.
+
+
+471
+0:16:23,351 --> 0:16:27,68
+Mission day 396 is
+when it completes.
+
+
+472
+0:16:27,68 --> 0:16:30,23
+Now, then, as I
+mentioned in the book,
+
+
+473
+0:16:30,23 --> 0:16:35,39
+they had to abort after only six
+days on Mars due to the storm.
+
+
+474
+0:16:35,39 --> 0:16:37,51
+And I mentioned,
+the orbital dynamics
+
+
+475
+0:16:37,51 --> 0:16:39,68
+make it cheaper the
+earlier you leave.
+
+
+476
+0:16:39,68 --> 0:16:40,56
+And this is why.
+
+
+477
+0:16:40,56 --> 0:16:43,44
+Because if you
+leave earlier, you
+
+
+478
+0:16:43,44 --> 0:16:45,14
+can take a slightly
+different course
+
+
+479
+0:16:45,14 --> 0:16:47,8
+and get back to Earth earlier.
+
+
+480
+0:16:47,8 --> 0:16:49,18
+And that's, of course,
+what anybody would want.
+
+
+481
+0:16:49,18 --> 0:16:52,94
+Any NASA mission
+designer worth their salt
+
+
+482
+0:16:52,94 --> 0:16:54,92
+would want to do
+something like this.
+
+
+483
+0:16:54,92 --> 0:16:58,91
+Another thing I did
+was-- it came up
+
+
+484
+0:16:58,91 --> 0:17:1,72
+a lot in the story-- I
+wanted the transmission
+
+
+485
+0:17:1,72 --> 0:17:2,82
+times to be accurate.
+
+
+486
+0:17:2,82 --> 0:17:5,97
+So when later on in the story
+they're talking to the ship,
+
+
+487
+0:17:5,97 --> 0:17:9,42
+they're talking to Mars,
+Mars is talking to Earth,
+
+
+488
+0:17:9,42 --> 0:17:11,1
+all these entities
+are communicating,
+
+
+489
+0:17:11,1 --> 0:17:13,839
+and I wanted to know what the
+transmission time would be.
+
+
+490
+0:17:13,839 --> 0:17:16,849
+So I set it up so that
+wherever the ship is--
+
+
+491
+0:17:16,849 --> 0:17:20,4
+I can just move the
+mouse around and wherever
+
+
+492
+0:17:20,4 --> 0:17:23,3
+I'm pointing on that-- it'll
+tell you what mission day it is
+
+
+493
+0:17:23,3 --> 0:17:24,869
+and what the current
+distances are
+
+
+494
+0:17:24,869 --> 0:17:26,663
+between Earth and Mars,
+Earth and "Hermes,"
+
+
+495
+0:17:26,663 --> 0:17:27,579
+and "Hermes" and Mars.
+
+
+496
+0:17:27,579 --> 0:17:30,89
+Those are those three numbers up
+top, and the light transmission
+
+
+497
+0:17:30,89 --> 0:17:32,85
+time between them
+so that I could
+
+
+498
+0:17:32,85 --> 0:17:36,9
+have that be accurate
+in the story, too.
+
+
+499
+0:17:36,9 --> 0:17:38,79
+So I'm going to give a
+little bit of a spoiler here.
+
+
+500
+0:17:38,79 --> 0:17:42,64
+The final path that "Hermes"
+ends up taking is this.
+
+
+501
+0:17:42,64 --> 0:17:45,93
+
+
+
+502
+0:17:45,93 --> 0:17:46,75
+And so--
+
+
+503
+0:17:46,75 --> 0:17:48,333
+AUDIENCE: It looks
+like the other one.
+
+
+504
+0:17:48,333 --> 0:17:50,546
+
+
+
+505
+0:17:50,546 --> 0:17:52,42
+ANDY WEIR: So I am giving
+a bit of a spoiler,
+
+
+506
+0:17:52,42 --> 0:17:54,92
+but basically they have
+to go back to Mars.
+
+
+507
+0:17:54,92 --> 0:17:59,42
+And so I'll describe what
+happens as it's happening.
+
+
+508
+0:17:59,42 --> 0:18:0,12
+Here they go.
+
+
+509
+0:18:0,12 --> 0:18:1,3
+They're going to Mars.
+
+
+510
+0:18:1,3 --> 0:18:3,48
+After six Sols,
+they have to abort.
+
+
+511
+0:18:3,48 --> 0:18:6,22
+So they're headed back to Earth.
+
+
+512
+0:18:6,22 --> 0:18:7,49
+They need to go back to Mars.
+
+
+513
+0:18:7,49 --> 0:18:10,91
+Boom, sling shot off of
+Earth, back around the sun.
+
+
+514
+0:18:10,91 --> 0:18:13,124
+And now they need to
+do a flyby of Mars.
+
+
+515
+0:18:13,124 --> 0:18:14,79
+So they're not going
+into orbit, they're
+
+
+516
+0:18:14,79 --> 0:18:16,71
+just-- doink-- doing a flyby.
+
+
+517
+0:18:16,71 --> 0:18:19,65
+And then we got to
+get back to Earth.
+
+
+518
+0:18:19,65 --> 0:18:24,29
+
+
+
+519
+0:18:24,29 --> 0:18:29,45
+So that was a lot of
+work to figure that out.
+
+
+520
+0:18:29,45 --> 0:18:31,62
+And this is all done
+within this simulation,
+
+
+521
+0:18:31,62 --> 0:18:34,79
+this ship "Hermes," has a
+total constant acceleration
+
+
+522
+0:18:34,79 --> 0:18:37,34
+of the two millimeters
+per second per second.
+
+
+523
+0:18:37,34 --> 0:18:38,1
+That's it.
+
+
+524
+0:18:38,1 --> 0:18:39,68
+That's all it gets.
+
+
+525
+0:18:39,68 --> 0:18:42,85
+So yeah, after five
+seconds of doing that,
+
+
+526
+0:18:42,85 --> 0:18:46,96
+it would be moving one
+centimeter per second.
+
+
+527
+0:18:46,96 --> 0:18:50,56
+So that's the software I wrote
+that I wanted to show off.
+
+
+528
+0:18:50,56 --> 0:18:56,611
+I thought the Google crowd would
+like to see how that works.
+
+
+529
+0:18:56,611 --> 0:18:57,86
+And that's about it, actually.
+
+
+530
+0:18:57,86 --> 0:19:0,8
+That's all I really
+had to show you.
+
+
+531
+0:19:0,8 --> 0:19:1,41
+I was going to do the reading.
+
+
+532
+0:19:1,41 --> 0:19:2,8
+What are we at here?
+
+
+533
+0:19:2,8 --> 0:19:3,985
+Oh, 20 minutes in.
+
+
+534
+0:19:3,985 --> 0:19:6,692
+
+
+
+535
+0:19:6,692 --> 0:19:7,9
+AUDIENCE: I really like that.
+
+
+536
+0:19:7,9 --> 0:19:9,63
+So that's great.
+
+
+537
+0:19:9,63 --> 0:19:13,55
+And it seems beyond
+what you had to do.
+
+
+538
+0:19:13,55 --> 0:19:16,13
+Are the orbits elliptical?
+
+
+539
+0:19:16,13 --> 0:19:18,23
+And could they be skewed?
+
+
+540
+0:19:18,23 --> 0:19:20,71
+ANDY WEIR: Those are the
+actual orbits of Earth and Mars
+
+
+541
+0:19:20,71 --> 0:19:22,9
+correctly oriented.
+
+
+542
+0:19:22,9 --> 0:19:23,756
+And the launch window--
+I won't tell you
+
+
+543
+0:19:23,756 --> 0:19:26,51
+the date because I may have a
+contest someday to have people
+
+
+544
+0:19:26,51 --> 0:19:30,43
+figure out the launch date from
+the information in the book--
+
+
+545
+0:19:30,43 --> 0:19:32,94
+but it is based on
+a real-world date.
+
+
+546
+0:19:32,94 --> 0:19:38,12
+And to be thorough,
+the book tells you
+
+
+547
+0:19:38,12 --> 0:19:39,57
+what day everything is on.
+
+
+548
+0:19:39,57 --> 0:19:41,56
+So it's like, log entry, Sol 6.
+
+
+549
+0:19:41,56 --> 0:19:43,25
+Log entry, Sol 27.
+
+
+550
+0:19:43,25 --> 0:19:44,76
+Log entry, Sol 412.
+
+
+551
+0:19:44,76 --> 0:19:45,77
+Whatever.
+
+
+552
+0:19:45,77 --> 0:19:48,36
+So it's actually very
+time specific, just
+
+
+553
+0:19:48,36 --> 0:19:50,21
+the narrative style it has.
+
+
+554
+0:19:50,21 --> 0:19:53,59
+And so I made sure that I knew
+the actual real-world date
+
+
+555
+0:19:53,59 --> 0:19:56,6
+for each-- on any given
+day in the book, what
+
+
+556
+0:19:56,6 --> 0:19:59,79
+the real-world date is so that
+I could mention things like, oh,
+
+
+557
+0:19:59,79 --> 0:20:1,4
+by the way, today's Christmas.
+
+
+558
+0:20:1,4 --> 0:20:2,94
+And it is.
+
+
+559
+0:20:2,94 --> 0:20:5,25
+There were sometimes
+I had to keep myself
+
+
+560
+0:20:5,25 --> 0:20:7,4
+from over clever-ing things.
+
+
+561
+0:20:7,4 --> 0:20:9,44
+There was one kind of major
+plot point that happened.
+
+
+562
+0:20:9,44 --> 0:20:11,37
+And I'm looking
+at my spreadsheet.
+
+
+563
+0:20:11,37 --> 0:20:13,92
+And I'm like, oh, this happens
+to be on Valentine's Day.
+
+
+564
+0:20:13,92 --> 0:20:14,96
+I should mention that.
+
+
+565
+0:20:14,96 --> 0:20:16,93
+But it would just seem
+stupid to the reader.
+
+
+566
+0:20:16,93 --> 0:20:18,59
+It would be like out of nowhere
+someone's like, by the way,
+
+
+567
+0:20:18,59 --> 0:20:20,2
+it's Valentine's Day.
+
+
+568
+0:20:20,2 --> 0:20:22,95
+It's like, no, that's just dumb.
+
+
+569
+0:20:22,95 --> 0:20:25,84
+The trickiest part in this
+was I did all sorts of math.
+
+
+570
+0:20:25,84 --> 0:20:28,57
+I checked all my physics,
+math, science, everything.
+
+
+571
+0:20:28,57 --> 0:20:32,257
+And the hard part was not
+bragging to the reader.
+
+
+572
+0:20:32,257 --> 0:20:34,59
+It was not showing my work
+and trying to go, look at me.
+
+
+573
+0:20:34,59 --> 0:20:35,445
+I'm so cool.
+
+
+574
+0:20:35,445 --> 0:20:37,32
+I just needed to keep
+the story moving along.
+
+
+575
+0:20:37,32 --> 0:20:38,611
+And I wanted it to be accurate.
+
+
+576
+0:20:38,611 --> 0:20:39,12
+That's all.
+
+
+577
+0:20:39,12 --> 0:20:41,87
+AUDIENCE: So I read the
+book about a year ago.
+
+
+578
+0:20:41,87 --> 0:20:43,789
+What I enjoyed the
+most about it were
+
+
+579
+0:20:43,789 --> 0:20:45,8
+two things about the character.
+
+
+580
+0:20:45,8 --> 0:20:47,23
+One was how resourceful he is.
+
+
+581
+0:20:47,23 --> 0:20:50,79
+He always figures out how
+to get out of his situation.
+
+
+582
+0:20:50,79 --> 0:20:52,62
+The other was his attitude.
+
+
+583
+0:20:52,62 --> 0:20:53,7
+He's cut off.
+
+
+584
+0:20:53,7 --> 0:20:54,7
+He has so many setbacks.
+
+
+585
+0:20:54,7 --> 0:20:56,33
+And he always keeps his head up.
+
+
+586
+0:20:56,33 --> 0:20:57,6
+I was wondering,
+was there anything
+
+
+587
+0:20:57,6 --> 0:20:59,75
+that inspired you to make
+a character like that?
+
+
+588
+0:20:59,75 --> 0:21:1,374
+Or was there any kind
+of message you're
+
+
+589
+0:21:1,374 --> 0:21:3,71
+trying to send to make
+somebody so resourceful and so
+
+
+590
+0:21:3,71 --> 0:21:6,71
+optimistic in such
+a bad situation?
+
+
+591
+0:21:6,71 --> 0:21:9,44
+ANDY WEIR: Well, I
+mean, I tried to make
+
+
+592
+0:21:9,44 --> 0:21:10,61
+it a pretty upbeat book.
+
+
+593
+0:21:10,61 --> 0:21:12,806
+It could've been really
+dark and depressing, right?
+
+
+594
+0:21:12,806 --> 0:21:14,18
+It's like the guys
+trapped alone.
+
+
+595
+0:21:14,18 --> 0:21:16,84
+He could be just having
+this crippling psychological
+
+
+596
+0:21:16,84 --> 0:21:19,56
+problems of loneliness
+and all these other things
+
+
+597
+0:21:19,56 --> 0:21:20,93
+that most people would face.
+
+
+598
+0:21:20,93 --> 0:21:23,5
+I figure I can buy
+my way out of that
+
+
+599
+0:21:23,5 --> 0:21:24,51
+by saying he's an astronaut.
+
+
+600
+0:21:24,51 --> 0:21:26,19
+Astronauts are a cut above.
+
+
+601
+0:21:26,19 --> 0:21:28,35
+And so he doesn't
+sink into depression.
+
+
+602
+0:21:28,35 --> 0:21:30,32
+He just goes into
+problem-solving mode.
+
+
+603
+0:21:30,32 --> 0:21:33,79
+And I made him this really
+flippant, smart-ass personality
+
+
+604
+0:21:33,79 --> 0:21:36,14
+because I had to
+tell a whole story.
+
+
+605
+0:21:36,14 --> 0:21:40,43
+If I'd done just
+blank narration, just
+
+
+606
+0:21:40,43 --> 0:21:43,55
+omniscient narration even,
+it would have just seemed
+
+
+607
+0:21:43,55 --> 0:21:47,19
+like a technical manual or a
+really dry sequence of events.
+
+
+608
+0:21:47,19 --> 0:21:49,55
+I needed something in
+the narration itself
+
+
+609
+0:21:49,55 --> 0:21:51,6
+that would keep the
+user interested.
+
+
+610
+0:21:51,6 --> 0:21:54,655
+And so having it told by a
+self-effacing smart-ass seemed
+
+
+611
+0:21:54,655 --> 0:21:55,679
+liked a good idea.
+
+
+612
+0:21:55,679 --> 0:21:57,72
+AUDIENCE: So I'm thinking
+about buying this book.
+
+
+613
+0:21:57,72 --> 0:21:59,11
+ANDY WEIR: $10 right over there.
+
+
+614
+0:21:59,11 --> 0:22:0,29
+AUDIENCE: How do you
+think I should buy it?
+
+
+615
+0:22:0,29 --> 0:22:0,956
+ANDY WEIR: I think you should
+buy one for all your friends.
+
+
+616
+0:22:0,956 --> 0:22:2,53
+AUDIENCE: It's $10
+right over there,
+
+
+617
+0:22:2,53 --> 0:22:5,9
+but there's also a lot
+of digital distribution
+
+
+618
+0:22:5,9 --> 0:22:6,7
+around these days.
+
+
+619
+0:22:6,7 --> 0:22:9,1
+Do you have thoughts as
+an author about that?
+
+
+620
+0:22:9,1 --> 0:22:10,42
+And what works best for you?
+
+
+621
+0:22:10,42 --> 0:22:12,25
+What do you like as a reader?
+
+
+622
+0:22:12,25 --> 0:22:15,307
+And what do you think about
+ebooks in general as an author?
+
+
+623
+0:22:15,307 --> 0:22:17,64
+ANDY WEIR: Well, ebooks are
+how I got into the industry,
+
+
+624
+0:22:17,64 --> 0:22:19,59
+so I'm extremely grateful.
+
+
+625
+0:22:19,59 --> 0:22:21,8
+I think they're great.
+
+
+626
+0:22:21,8 --> 0:22:24,9
+And as for buying a
+physical book or an ebook,
+
+
+627
+0:22:24,9 --> 0:22:26,78
+that's a matter of
+personal choice.
+
+
+628
+0:22:26,78 --> 0:22:28,93
+I still read physical
+books, but that's
+
+
+629
+0:22:28,93 --> 0:22:30,62
+just because I'm
+kind of a Luddite.
+
+
+630
+0:22:30,62 --> 0:22:33,47
+Eventually, I will
+get a proper e-reader.
+
+
+631
+0:22:33,47 --> 0:22:36,8
+And then I'll probably be
+hooked on that from then on.
+
+
+632
+0:22:36,8 --> 0:22:38,654
+
+
+
+633
+0:22:38,654 --> 0:22:40,57
+For those of you who
+don't know, "The Martian"
+
+
+634
+0:22:40,57 --> 0:22:42,24
+was originally
+just a serial story
+
+
+635
+0:22:42,24 --> 0:22:44,8
+that I was posting
+to my website just
+
+
+636
+0:22:44,8 --> 0:22:46,83
+as a hobby doing
+in my spare time.
+
+
+637
+0:22:46,83 --> 0:22:49,43
+And then I finished
+and some people
+
+
+638
+0:22:49,43 --> 0:22:51,97
+said, hey, I don't like
+reading this on web pages.
+
+
+639
+0:22:51,97 --> 0:22:54,387
+Can you put it up
+in an ebook format?
+
+
+640
+0:22:54,387 --> 0:22:55,22
+And so I'm like, OK.
+
+
+641
+0:22:55,22 --> 0:22:56,759
+So I made an EPUB
+and MOBI version.
+
+
+642
+0:22:56,759 --> 0:22:58,8
+And I posted them on the
+website and said, there.
+
+
+643
+0:22:58,8 --> 0:22:59,0
+There you go.
+
+
+644
+0:22:59,0 --> 0:23:0,64
+Free download,
+knock yourself out.
+
+
+645
+0:23:0,64 --> 0:23:2,88
+And then some people
+were like, well,
+
+
+646
+0:23:2,88 --> 0:23:4,48
+I'm not really
+technically savvy.
+
+
+647
+0:23:4,48 --> 0:23:7,3
+And I don't know how to
+get an ebook downloaded
+
+
+648
+0:23:7,3 --> 0:23:9,28
+from the internet
+onto my Kindle.
+
+
+649
+0:23:9,28 --> 0:23:12,38
+Is there a way you can
+just put it up on Kindle?
+
+
+650
+0:23:12,38 --> 0:23:13,76
+And so I looked into it.
+
+
+651
+0:23:13,76 --> 0:23:16,824
+And anybody can post
+their stuff onto Kindle.
+
+
+652
+0:23:16,824 --> 0:23:18,99
+Which is important-- remember
+that-- because anybody
+
+
+653
+0:23:18,99 --> 0:23:20,72
+who wants to be a
+writer, you just can.
+
+
+654
+0:23:20,72 --> 0:23:24,36
+You can just write your
+story, post it on Kindle.
+
+
+655
+0:23:24,36 --> 0:23:25,41
+All they do is
+they check to make
+
+
+656
+0:23:25,41 --> 0:23:28,87
+sure there's nothing illegal or
+really, really evil about what
+
+
+657
+0:23:28,87 --> 0:23:30,18
+you're posting.
+
+
+658
+0:23:30,18 --> 0:23:34,1
+And so I posted it up on Kindle.
+
+
+659
+0:23:34,1 --> 0:23:36,72
+But Amazon is not a charity.
+
+
+660
+0:23:36,72 --> 0:23:37,97
+They're in this to make money.
+
+
+661
+0:23:37,97 --> 0:23:39,52
+They have a minimum
+price that you're
+
+
+662
+0:23:39,52 --> 0:23:41,78
+allowed to charge,
+which is $0.99,
+
+
+663
+0:23:41,78 --> 0:23:43,49
+or at least it was at the time.
+
+
+664
+0:23:43,49 --> 0:23:46,8
+And so I said, OK, I'll
+set the price at $0.99.
+
+
+665
+0:23:46,8 --> 0:23:47,867
+I'm not allowed to charge less.
+
+
+666
+0:23:47,867 --> 0:23:49,45
+And I told everybody,
+hey, here it is.
+
+
+667
+0:23:49,45 --> 0:23:51,59
+It's $0.99 because I can't
+charge less than that.
+
+
+668
+0:23:51,59 --> 0:23:52,47
+Just look at it this way.
+
+
+669
+0:23:52,47 --> 0:23:54,344
+If you want to pay $1
+to have it conveniently
+
+
+670
+0:23:54,344 --> 0:23:57,72
+delivered to your Kindle,
+that's what you're paying for.
+
+
+671
+0:23:57,72 --> 0:24:1,69
+I got $0.30 or something
+out of that per copy.
+
+
+672
+0:24:1,69 --> 0:24:3,94
+I mean, I was not doing
+this for the money.
+
+
+673
+0:24:3,94 --> 0:24:7,1
+And then that's when
+I learned how deep
+
+
+674
+0:24:7,1 --> 0:24:11,55
+Amazon's reach into the
+readership market is.
+
+
+675
+0:24:11,55 --> 0:24:15,44
+Many, many, many more people--
+many multiples more people--
+
+
+676
+0:24:15,44 --> 0:24:18,56
+bought it from Amazon than
+downloaded it for free
+
+
+677
+0:24:18,56 --> 0:24:19,12
+from my site.
+
+
+678
+0:24:19,12 --> 0:24:21,954
+
+
+
+679
+0:24:21,954 --> 0:24:22,87
+AUDIENCE: Such a deal.
+
+
+680
+0:24:22,87 --> 0:24:23,828
+ANDY WEIR: Such a deal.
+
+
+681
+0:24:23,828 --> 0:24:25,69
+I'm like, OK.
+
+
+682
+0:24:25,69 --> 0:24:28,42
+And that caused
+it to start making
+
+
+683
+0:24:28,42 --> 0:24:30,96
+its way up the top
+sellers charts.
+
+
+684
+0:24:30,96 --> 0:24:33,12
+And then once it got into
+the top 10 on sci-fi,
+
+
+685
+0:24:33,12 --> 0:24:34,411
+then it started to really sell.
+
+
+686
+0:24:34,411 --> 0:24:36,84
+Because of course, people
+are like, I want a sci-fi.
+
+
+687
+0:24:36,84 --> 0:24:38,8
+What's in the top 10?
+
+
+688
+0:24:38,8 --> 0:24:40,61
+So once you break
+into that list,
+
+
+689
+0:24:40,61 --> 0:24:43,312
+your sales go really well.
+
+
+690
+0:24:43,312 --> 0:24:44,77
+And it sold well
+enough that it got
+
+
+691
+0:24:44,77 --> 0:24:48,6
+the attention of a guy
+named Julian Pavia at Random
+
+
+692
+0:24:48,6 --> 0:24:50,31
+House, who was an editor there.
+
+
+693
+0:24:50,31 --> 0:24:51,919
+And he said, I like this book.
+
+
+694
+0:24:51,919 --> 0:24:54,46
+I think I want to talk to this
+reader and offer a print deal.
+
+
+695
+0:24:54,46 --> 0:24:56,668
+But first I'm going to run
+it by a colleague of mine,
+
+
+696
+0:24:56,668 --> 0:24:58,919
+a guy named David Fugate,
+who is a literary agent.
+
+
+697
+0:24:58,919 --> 0:25:0,71
+He said, hey, why don't
+you read this book,
+
+
+698
+0:25:0,71 --> 0:25:1,92
+tell me what you
+think, and do you
+
+
+699
+0:25:1,92 --> 0:25:3,711
+think I should offer
+this guy a print deal?
+
+
+700
+0:25:3,711 --> 0:25:6,48
+David read it and said,
+I think it's good.
+
+
+701
+0:25:6,48 --> 0:25:8,23
+I think you should
+offer him a print deal.
+
+
+702
+0:25:8,23 --> 0:25:9,1
+Now hang on a second.
+
+
+703
+0:25:9,1 --> 0:25:10,385
+I'm going to go
+become his agent.
+
+
+704
+0:25:10,385 --> 0:25:13,18
+
+
+
+705
+0:25:13,18 --> 0:25:14,2
+So he did.
+
+
+706
+0:25:14,2 --> 0:25:15,46
+And then he turned
+around and said,
+
+
+707
+0:25:15,46 --> 0:25:18,35
+so Julian, let's talk money.
+
+
+708
+0:25:18,35 --> 0:25:20,3
+So that was pretty cool.
+
+
+709
+0:25:20,3 --> 0:25:23,39
+So my whole experience
+with publishing
+
+
+710
+0:25:23,39 --> 0:25:26,43
+has been completely backwards.
+
+
+711
+0:25:26,43 --> 0:25:30,36
+I wrote what I intended
+to be just a free thing
+
+
+712
+0:25:30,36 --> 0:25:32,2
+and then got forced
+to charge for it.
+
+
+713
+0:25:32,2 --> 0:25:33,87
+And then an agent came
+knocking at my door.
+
+
+714
+0:25:33,87 --> 0:25:36,51
+And then a publisher came
+offering me a contract.
+
+
+715
+0:25:36,51 --> 0:25:38,85
+And I did nothing to
+promote it ever, by the way.
+
+
+716
+0:25:38,85 --> 0:25:40,7
+All I ever did was just post it.
+
+
+717
+0:25:40,7 --> 0:25:43,35
+I didn't even try
+to go to forums
+
+
+718
+0:25:43,35 --> 0:25:45,78
+or do events or anything
+to get people to read it.
+
+
+719
+0:25:45,78 --> 0:25:47,82
+It just spread by word of mouth.
+
+
+720
+0:25:47,82 --> 0:25:52,11
+So the long-ass winded
+answer to your question
+
+
+721
+0:25:52,11 --> 0:25:58,69
+is I'm a big fan of digital
+books because that made me.
+
+
+722
+0:25:58,69 --> 0:26:1,78
+Sorry, one last addendum--
+and it can make anyone.
+
+
+723
+0:26:1,78 --> 0:26:3,48
+That's what I think
+is awesome, is
+
+
+724
+0:26:3,48 --> 0:26:5,45
+it's become a pure meritocracy.
+
+
+725
+0:26:5,45 --> 0:26:7,46
+It used to be sort of
+an old-boy network.
+
+
+726
+0:26:7,46 --> 0:26:10,7
+You had to know somebody to get
+into the publishing industry
+
+
+727
+0:26:10,7 --> 0:26:11,2
+at all.
+
+
+728
+0:26:11,2 --> 0:26:14,77
+Or you had to dedicate your
+life to doing scutt work
+
+
+729
+0:26:14,77 --> 0:26:16,52
+and working your way
+up through journalism
+
+
+730
+0:26:16,52 --> 0:26:18,395
+until someone would take
+you seriously enough
+
+
+731
+0:26:18,395 --> 0:26:21,43
+even to consider reading your
+book at a publishing house.
+
+
+732
+0:26:21,43 --> 0:26:23,89
+But now you can post it yourself
+with no intervening steps
+
+
+733
+0:26:23,89 --> 0:26:26,97
+and, if it's good,
+people will buy it.
+
+
+734
+0:26:26,97 --> 0:26:32,33
+AUDIENCE: So your ion drive,
+is the reaction mass just small
+
+
+735
+0:26:32,33 --> 0:26:35,89
+enough so that you don't
+account for the change
+
+
+736
+0:26:35,89 --> 0:26:37,68
+in how much acceleration
+it can give?
+
+
+737
+0:26:37,68 --> 0:26:38,94
+ANDY WEIR: I cheated.
+
+
+738
+0:26:38,94 --> 0:26:41,265
+The answer is it
+wouldn't quite be.
+
+
+739
+0:26:41,265 --> 0:26:42,14
+It wouldn't quite be.
+
+
+740
+0:26:42,14 --> 0:26:44,56
+And the simulation could
+have accounted for it
+
+
+741
+0:26:44,56 --> 0:26:46,19
+since it's doing
+incremental-- every step,
+
+
+742
+0:26:46,19 --> 0:26:48,85
+I think I had it do it
+in one-hour segments
+
+
+743
+0:26:48,85 --> 0:26:50,9
+to run the simulation forward.
+
+
+744
+0:26:50,9 --> 0:26:52,9
+And so I could have
+accounted for the mass loss.
+
+
+745
+0:26:52,9 --> 0:26:54,12
+It is very small.
+
+
+746
+0:26:54,12 --> 0:26:57,62
+It's on the order of-- I
+can't remember exactly-- it
+
+
+747
+0:26:57,62 --> 0:27:0,51
+was on the order of 10% of
+the ship's mass, though.
+
+
+748
+0:27:0,51 --> 0:27:3,19
+Normally if you
+were going to do--
+
+
+749
+0:27:3,19 --> 0:27:5,885
+to get to Mars using
+a Hohmann transfer,
+
+
+750
+0:27:5,885 --> 0:27:9,24
+it would take five
+kilometers per second delta
+
+
+751
+0:27:9,24 --> 0:27:12,52
+V, which would be
+for a ship like this
+
+
+752
+0:27:12,52 --> 0:27:15,27
+that I later defined as
+being 110,000 kilograms,
+
+
+753
+0:27:15,27 --> 0:27:17,61
+would be millions and
+millions of kilograms of fuel.
+
+
+754
+0:27:17,61 --> 0:27:21,1
+I mean, the vast majority of
+the starting mass would be fuel.
+
+
+755
+0:27:21,1 --> 0:27:24,18
+And so once I checked
+the specific impulse
+
+
+756
+0:27:24,18 --> 0:27:26,2
+of ion engines,
+it's so much better
+
+
+757
+0:27:26,2 --> 0:27:29,58
+than I just said, eh,
+I'll approximate it out.
+
+
+758
+0:27:29,58 --> 0:27:31,58
+AUDIENCE: In talking about
+how to read the book,
+
+
+759
+0:27:31,58 --> 0:27:33,705
+I wanted to put in a plug
+for the audio book, which
+
+
+760
+0:27:33,705 --> 0:27:35,44
+I listened to.
+
+
+761
+0:27:35,44 --> 0:27:36,46
+It's a great way
+to experience it.
+
+
+762
+0:27:36,46 --> 0:27:38,86
+I think you got a really
+wonderful narrator.
+
+
+763
+0:27:38,86 --> 0:27:41,17
+ANDY WEIR: Yeah, the
+narrator's name is RC Bray.
+
+
+764
+0:27:41,17 --> 0:27:42,59
+And he's a veteran narrator.
+
+
+765
+0:27:42,59 --> 0:27:46,12
+He's done over 100
+books, I think.
+
+
+766
+0:27:46,12 --> 0:27:47,78
+And he's got a
+really good voice.
+
+
+767
+0:27:47,78 --> 0:27:50,182
+And he puts a lot
+of feeling into it.
+
+
+768
+0:27:50,182 --> 0:27:51,64
+And since this is
+first-person, you
+
+
+769
+0:27:51,64 --> 0:27:54,66
+can kind of feel, OK, this
+is Mark's voice, basically.
+
+
+770
+0:27:54,66 --> 0:27:57,82
+AUDIENCE: The one thing I wanted
+to ask about that was there
+
+
+771
+0:27:57,82 --> 0:28:0,105
+are a couple of technical
+terms that he, let's say,
+
+
+772
+0:28:0,105 --> 0:28:1,18
+mispronounces that--
+
+
+773
+0:28:1,18 --> 0:28:2,14
+ANDY WEIR: Yep, yep.
+
+
+774
+0:28:2,14 --> 0:28:3,8
+AUDIENCE: --kind of take you
+out of the story for a moment.
+
+
+775
+0:28:3,8 --> 0:28:3,97
+ANDY WEIR: What?
+
+
+776
+0:28:3,97 --> 0:28:5,82
+You don't know about
+the ASC2 standard?
+
+
+777
+0:28:5,82 --> 0:28:7,903
+AUDIENCE: Yeah, the ASC2
+standard is the best one.
+
+
+778
+0:28:7,903 --> 0:28:9,885
+ANDY WEIR: ASC2.
+
+
+779
+0:28:9,885 --> 0:28:12,88
+Yep.
+
+
+780
+0:28:12,88 --> 0:28:14,56
+AUDIENCE: But you get past that.
+
+
+781
+0:28:14,56 --> 0:28:16,643
+ANDY WEIR: Well, so what
+I wanted to do, actually,
+
+
+782
+0:28:16,643 --> 0:28:21,28
+was make my own mapping
+standard for letters to numbers.
+
+
+783
+0:28:21,28 --> 0:28:23,42
+And I was going to call it ASC.
+
+
+784
+0:28:23,42 --> 0:28:26,71
+And then I'd make an improved
+version and call it ASC2.
+
+
+785
+0:28:26,71 --> 0:28:28,91
+And that way I'd
+retroactively be correct.
+
+
+786
+0:28:28,91 --> 0:28:31,789
+No, yeah, he messed that up.
+
+
+787
+0:28:31,789 --> 0:28:33,33
+Which is funny
+because they called me
+
+
+788
+0:28:33,33 --> 0:28:36,41
+for a bunch of pronunciations
+on, OK, what is this?
+
+
+789
+0:28:36,41 --> 0:28:37,41
+And how's it pronounced?
+
+
+790
+0:28:37,41 --> 0:28:38,77
+How do people say this?
+
+
+791
+0:28:38,77 --> 0:28:43,64
+But nobody ever asked me
+how to pronounce ASCII.
+
+
+792
+0:28:43,64 --> 0:28:45,47
+They are making a
+new version of it,
+
+
+793
+0:28:45,47 --> 0:28:47,71
+which I'm not sure
+if it's out yet.
+
+
+794
+0:28:47,71 --> 0:28:49,4
+But they're re-recording
+it from scratch
+
+
+795
+0:28:49,4 --> 0:28:51,85
+because there were a
+lot of edits and changes
+
+
+796
+0:28:51,85 --> 0:28:53,66
+between the original
+Kindle version
+
+
+797
+0:28:53,66 --> 0:28:55,8
+and what's releasing now.
+
+
+798
+0:28:55,8 --> 0:28:58,53
+No significant plot
+changes, nothing like that,
+
+
+799
+0:28:58,53 --> 0:29:0,12
+but a lot of the wording.
+
+
+800
+0:29:0,12 --> 0:29:1,15
+It's much more polished.
+
+
+801
+0:29:1,15 --> 0:29:6,57
+And it's much better now thanks
+to Julian at Random House.
+
+
+802
+0:29:6,57 --> 0:29:11,15
+And so the audio book guys,
+Podium Publishing, decided,
+
+
+803
+0:29:11,15 --> 0:29:12,98
+well, we'll re-record
+it from scratch.
+
+
+804
+0:29:12,98 --> 0:29:17,33
+And I told them, A-S-C-I-I-
+is pronounced AS-key.
+
+
+805
+0:29:17,33 --> 0:29:21,97
+So I think they'll get it
+right in the newer version.
+
+
+806
+0:29:21,97 --> 0:29:23,18
+AUDIENCE: So I listened
+to the audio version, too.
+
+
+807
+0:29:23,18 --> 0:29:25,11
+I really liked it.
+
+
+808
+0:29:25,11 --> 0:29:31,33
+So there was a lot in the
+book about NASA politics
+
+
+809
+0:29:31,33 --> 0:29:35,61
+and what happened inside NASA.
+
+
+810
+0:29:35,61 --> 0:29:37,6
+Did you just dream that up?
+
+
+811
+0:29:37,6 --> 0:29:38,796
+Or did you know
+somebody on the inside?
+
+
+812
+0:29:38,796 --> 0:29:39,67
+Or how did that work?
+
+
+813
+0:29:39,67 --> 0:29:42,639
+ANDY WEIR: Made it all up.
+
+
+814
+0:29:42,639 --> 0:29:43,93
+AUDIENCE: It sounded very real.
+
+
+815
+0:29:43,93 --> 0:29:44,93
+ANDY WEIR: I thought so.
+
+
+816
+0:29:44,93 --> 0:29:48,16
+Well, I've worked for
+the government before.
+
+
+817
+0:29:48,16 --> 0:29:50,96
+As he mentioned, my first
+job was Sandia National Labs
+
+
+818
+0:29:50,96 --> 0:29:56,43
+as a little weaselly computer
+programmer at age 15,
+
+
+819
+0:29:56,43 --> 0:29:58,56
+as opposed to the
+41-year-old weaselly computer
+
+
+820
+0:29:58,56 --> 0:29:59,96
+programmer I am now.
+
+
+821
+0:29:59,96 --> 0:30:4,27
+And I just saw how
+things worked there.
+
+
+822
+0:30:4,27 --> 0:30:7,4
+And I said, like, well,
+NASA's a big federal agency.
+
+
+823
+0:30:7,4 --> 0:30:8,29
+So was Sandia.
+
+
+824
+0:30:8,29 --> 0:30:12,58
+So I'll just assume that
+they're kind of similar.
+
+
+825
+0:30:12,58 --> 0:30:14,785
+But, yeah, I made all that up.
+
+
+826
+0:30:14,785 --> 0:30:17,57
+
+
+
+827
+0:30:17,57 --> 0:30:21,81
+I had no contact with NASA
+or astronauts or anyone
+
+
+828
+0:30:21,81 --> 0:30:23,81
+in the industry at all
+before writing the book.
+
+
+829
+0:30:23,81 --> 0:30:25,81
+And I've since gotten a
+lot of emails from them.
+
+
+830
+0:30:25,81 --> 0:30:27,351
+And they say that
+that's about right.
+
+
+831
+0:30:27,351 --> 0:30:31,779
+
+
+
+832
+0:30:31,779 --> 0:30:33,32
+AUDIENCE: Not really
+a question, I'll
+
+
+833
+0:30:33,32 --> 0:30:35,81
+just note that
+besides Amazon Kindle,
+
+
+834
+0:30:35,81 --> 0:30:39,475
+it's also available
+at Google Play Books.
+
+
+835
+0:30:39,475 --> 0:30:40,41
+ANDY WEIR: All right.
+
+
+836
+0:30:40,41 --> 0:30:41,124
+There you go.
+
+
+837
+0:30:41,124 --> 0:30:42,4
+AUDIENCE: [INAUDIBLE].
+
+
+838
+0:30:42,4 --> 0:30:44,248
+ANDY WEIR: It's also available
+on barnesandnoble.com.
+
+
+839
+0:30:44,248 --> 0:30:46,83
+
+
+
+840
+0:30:46,83 --> 0:30:49,17
+MALE SPEAKER: Andy, what's
+on your reading list?
+
+
+841
+0:30:49,17 --> 0:30:51,11
+ANDY WEIR: What's
+on my reading list?
+
+
+842
+0:30:51,11 --> 0:30:54,55
+I really like to read the old
+classic sci-fi stuff, which
+
+
+843
+0:30:54,55 --> 0:30:57,46
+I've read before and just
+keep reading again and again.
+
+
+844
+0:30:57,46 --> 0:31:0,48
+So Heinlein, Clarke,
+Asimov, that sort of thing.
+
+
+845
+0:31:0,48 --> 0:31:1,86
+Those are my favorite authors.
+
+
+846
+0:31:1,86 --> 0:31:4,86
+And then also anything by
+Terry Pratchett, completely out
+
+
+847
+0:31:4,86 --> 0:31:7,92
+of the sci-fi world,
+but Terry Pratchett.
+
+
+848
+0:31:7,92 --> 0:31:10,86
+Also I really like
+Robert Asprin.
+
+
+849
+0:31:10,86 --> 0:31:12,45
+But he died.
+
+
+850
+0:31:12,45 --> 0:31:14,412
+But that apparently
+didn't stop him
+
+
+851
+0:31:14,412 --> 0:31:15,87
+from making new
+books because I see
+
+
+852
+0:31:15,87 --> 0:31:19,31
+there's a new release
+that's by Robert Asprin.
+
+
+853
+0:31:19,31 --> 0:31:21,56
+And I'm not sure
+how that happened.
+
+
+854
+0:31:21,56 --> 0:31:23,284
+So either someone
+else has taken up
+
+
+855
+0:31:23,284 --> 0:31:24,7
+the role of writing
+Robert Asprin.
+
+
+856
+0:31:24,7 --> 0:31:25,199
+Books.
+
+
+857
+0:31:25,199 --> 0:31:27,44
+Or it's some manuscript
+he was partially through,
+
+
+858
+0:31:27,44 --> 0:31:28,896
+or I don't know.
+
+
+859
+0:31:28,896 --> 0:31:30,52
+AUDIENCE: So right
+after "The Martian,"
+
+
+860
+0:31:30,52 --> 0:31:31,895
+I read-- speaking
+of old sci-fi--
+
+
+861
+0:31:31,895 --> 0:31:35,66
+if I read "When Worlds Collide,"
+which is from 1933, I think.
+
+
+862
+0:31:35,66 --> 0:31:39,19
+And the jump from
+scientific accuracy
+
+
+863
+0:31:39,19 --> 0:31:42,571
+to scientific hand-waving
+was never so great.
+
+
+864
+0:31:42,571 --> 0:31:43,82
+Because there was a spaceship.
+
+
+865
+0:31:43,82 --> 0:31:44,47
+And they fly.
+
+
+866
+0:31:44,47 --> 0:31:47,405
+And they just sort of say, yeah,
+let's build a spaceship now.
+
+
+867
+0:31:47,405 --> 0:31:48,78
+And we'll fly to
+this new planet.
+
+
+868
+0:31:48,78 --> 0:31:49,695
+And that'll work.
+
+
+869
+0:31:49,695 --> 0:31:51,23
+ANDY WEIR: It seems reasonable.
+
+
+870
+0:31:51,23 --> 0:31:53,77
+Or when they're like--
+oh, I never read the book
+
+
+871
+0:31:53,77 --> 0:31:55,66
+but I saw the movie
+from the '50s--
+
+
+872
+0:31:55,66 --> 0:31:57,99
+and they land their
+spaceship on the new planet,
+
+
+873
+0:31:57,99 --> 0:31:59,48
+the one that just destroyed
+Earth, and they're like,
+
+
+874
+0:31:59,48 --> 0:32:0,19
+well, let's go outside.
+
+
+875
+0:32:0,19 --> 0:32:0,8
+And they're like, what?
+
+
+876
+0:32:0,8 --> 0:32:2,38
+You don't know if the
+atmosphere is good.
+
+
+877
+0:32:2,38 --> 0:32:3,921
+And it's like, well,
+if it's no good,
+
+
+878
+0:32:3,921 --> 0:32:6,41
+we're all going to die anyway.
+
+
+879
+0:32:6,41 --> 0:32:7,85
+Yeah, it's good.
+
+
+880
+0:32:7,85 --> 0:32:10,515
+AUDIENCE: [INAUDIBLE]
+
+
+881
+0:32:10,515 --> 0:32:12,14
+AUDIENCE: Yeah,
+speaking of old sci-fi,
+
+
+882
+0:32:12,14 --> 0:32:14,74
+there was a couple of the
+early Doc Smith novels
+
+
+883
+0:32:14,74 --> 0:32:17,7
+that had roughly the
+same set-up-- guy
+
+
+884
+0:32:17,7 --> 0:32:19,25
+crashes on an
+outer system planet
+
+
+885
+0:32:19,25 --> 0:32:24,9
+and has to build up civilization
+until he can make a radio.
+
+
+886
+0:32:24,9 --> 0:32:25,29
+Have you read any of those?
+
+
+887
+0:32:25,29 --> 0:32:28,64
+And can you bring yourself to
+having done the research now?
+
+
+888
+0:32:28,64 --> 0:32:31,44
+ANDY WEIR: I did not
+read any of those.
+
+
+889
+0:32:31,44 --> 0:32:34,29
+As for the research, that was
+just really important to me.
+
+
+890
+0:32:34,29 --> 0:32:37,59
+I just wanted to be as
+accurate as I possibly could.
+
+
+891
+0:32:37,59 --> 0:32:39,422
+There are a few places
+that are inaccurate.
+
+
+892
+0:32:39,422 --> 0:32:40,88
+The biggest place
+that's inaccurate
+
+
+893
+0:32:40,88 --> 0:32:43,26
+is right at the beginning.
+
+
+894
+0:32:43,26 --> 0:32:46,35
+Don't tell anybody, but if
+you're in a dust storm on Mars,
+
+
+895
+0:32:46,35 --> 0:32:47,82
+you're not even
+going to feel it.
+
+
+896
+0:32:47,82 --> 0:32:50,29
+Mars' atmosphere is
+less than 1% of Earth's.
+
+
+897
+0:32:50,29 --> 0:32:53,36
+So a 150 kilometer an
+hour wind would feel
+
+
+898
+0:32:53,36 --> 0:32:56,19
+like about a 1 kilometer
+an hour wind does on Earth.
+
+
+899
+0:32:56,19 --> 0:32:57,78
+It wouldn't do any
+damage to anything.
+
+
+900
+0:32:57,78 --> 0:32:59,76
+Shh.
+
+
+901
+0:32:59,76 --> 0:33:1,9
+I had other ways of doing it.
+
+
+902
+0:33:1,9 --> 0:33:4,93
+I had an idea where the MAV
+would have some sort of failure
+
+
+903
+0:33:4,93 --> 0:33:7,44
+that caused an explosion
+which does all the damage.
+
+
+904
+0:33:7,44 --> 0:33:9,73
+And they're short on
+time because the MAV fuel
+
+
+905
+0:33:9,73 --> 0:33:11,48
+tank is leaking, so
+they need to lift off.
+
+
+906
+0:33:11,48 --> 0:33:13,521
+And they're sure Mark's
+dead and stuff like that.
+
+
+907
+0:33:13,521 --> 0:33:17,945
+But most people don't know
+how Martian dust storms work.
+
+
+908
+0:33:17,945 --> 0:33:19,57
+Most people don't
+realize that it's not
+
+
+909
+0:33:19,57 --> 0:33:20,91
+like being in a sand blaster.
+
+
+910
+0:33:20,91 --> 0:33:22,451
+And it's just more
+dramatic that way.
+
+
+911
+0:33:22,451 --> 0:33:24,22
+So I just made that concession.
+
+
+912
+0:33:24,22 --> 0:33:27,36
+I know I'm a liar.
+
+
+913
+0:33:27,36 --> 0:33:28,87
+I just wanted that more.
+
+
+914
+0:33:28,87 --> 0:33:30,58
+It was more dramatic.
+
+
+915
+0:33:30,58 --> 0:33:36,31
+AUDIENCE: So there used to be a
+sci-fi story by George Landis.
+
+
+916
+0:33:36,31 --> 0:33:40,505
+The title was "A
+Walk in the Sun."
+
+
+917
+0:33:40,505 --> 0:33:42,13
+There was an accident,
+and an astronaut
+
+
+918
+0:33:42,13 --> 0:33:45,36
+has to survive by her
+own on the moon for one
+
+
+919
+0:33:45,36 --> 0:33:47,36
+month until rescuers arrive.
+
+
+920
+0:33:47,36 --> 0:33:49,41
+So that's very similar
+to this set-up.
+
+
+921
+0:33:49,41 --> 0:33:50,245
+Have you read that?
+
+
+922
+0:33:50,245 --> 0:33:51,12
+ANDY WEIR: I haven't.
+
+
+923
+0:33:51,12 --> 0:33:51,855
+AUDIENCE: OK.
+
+
+924
+0:33:51,855 --> 0:33:54,43
+ANDY WEIR: But
+basically "The Martian"
+
+
+925
+0:33:54,43 --> 0:33:57,942
+can be described as Robinson
+Crusoe on Mars, right?
+
+
+926
+0:33:57,942 --> 0:33:59,4
+Except for there
+was a movie called
+
+
+927
+0:33:59,4 --> 0:34:1,922
+"Robinson Crusoe on
+Mars," and my story
+
+
+928
+0:34:1,922 --> 0:34:3,255
+does not have a monkey sidekick.
+
+
+929
+0:34:3,255 --> 0:34:5,867
+
+
+
+930
+0:34:5,867 --> 0:34:7,867
+AUDIENCE: You should
+consider a monkey sidekick.
+
+
+931
+0:34:7,867 --> 0:34:9,32
+Yeah, are you considering one?
+
+
+932
+0:34:9,32 --> 0:34:11,486
+ANDY WEIR: There should
+have been a monkey sidekick.
+
+
+933
+0:34:11,486 --> 0:34:12,19
+I see that now.
+
+
+934
+0:34:12,19 --> 0:34:15,66
+AUDIENCE: If they adapt this
+for Hollywood, [INAUDIBLE].
+
+
+935
+0:34:15,66 --> 0:34:18,35
+ANDY WEIR: There's clearly
+going to be a monkey sidekick.
+
+
+936
+0:34:18,35 --> 0:34:19,786
+There would have to be.
+
+
+937
+0:34:19,786 --> 0:34:21,48
+Well, they might adapt
+it for Hollywood.
+
+
+938
+0:34:21,48 --> 0:34:23,31
+20th Century Fox optioned
+the movie rights.
+
+
+939
+0:34:23,31 --> 0:34:25,639
+So they could make a movie.
+
+
+940
+0:34:25,639 --> 0:34:26,677
+We'll see.
+
+
+941
+0:34:26,677 --> 0:34:28,76
+AUDIENCE: The most important
+question, when can we
+
+
+942
+0:34:28,76 --> 0:34:30,65
+expect another book from you?
+
+
+943
+0:34:30,65 --> 0:34:31,689
+ANDY WEIR: Well, I'm
+working on a pitch
+
+
+944
+0:34:31,689 --> 0:34:33,7
+right now for my next book.
+
+
+945
+0:34:33,7 --> 0:34:35,487
+But I've been so
+busy with the-- it's
+
+
+946
+0:34:35,487 --> 0:34:37,7
+real busy for a
+writer around the time
+
+
+947
+0:34:37,7 --> 0:34:38,85
+his book comes out,
+let me tell you.
+
+
+948
+0:34:38,85 --> 0:34:40,79
+So I've been doing
+stuff related to that.
+
+
+949
+0:34:40,79 --> 0:34:43,801
+But as soon as things calm
+down, I'll work on the pitch.
+
+
+950
+0:34:43,801 --> 0:34:45,8
+And then if they like it,
+I'll start writing it.
+
+
+951
+0:34:45,8 --> 0:34:47,76
+And it'll probably
+take me maybe a year.
+
+
+952
+0:34:47,76 --> 0:34:50,135
+AUDIENCE: Or you could just
+self-publish it and put it up
+
+
+953
+0:34:50,135 --> 0:34:51,56
+on Amazon if they don't like it.
+
+
+954
+0:34:51,56 --> 0:34:56,1
+ANDY WEIR: If Random House
+gives me a bunch of money,
+
+
+955
+0:34:56,1 --> 0:34:58,94
+they're going to want me
+not to put it up for free.
+
+
+956
+0:34:58,94 --> 0:35:1,109
+AUDIENCE: Not
+free, but you know.
+
+
+957
+0:35:1,109 --> 0:35:2,4
+As long as you write something.
+
+
+958
+0:35:2,4 --> 0:35:3,67
+I mean, seriously,
+this is the best
+
+
+959
+0:35:3,67 --> 0:35:4,92
+book I've read in a long time.
+
+
+960
+0:35:4,92 --> 0:35:6,11
+ANDY WEIR: Well, thank you.
+
+
+961
+0:35:6,11 --> 0:35:7,0
+Glad you liked it.
+
+
+962
+0:35:7,0 --> 0:35:9,75
+AUDIENCE: I will say I'm
+only halfway through it.
+
+
+963
+0:35:9,75 --> 0:35:11,76
+But that's got to be
+the best first line
+
+
+964
+0:35:11,76 --> 0:35:15,928
+since "it was a dark
+and stormy night."
+
+
+965
+0:35:15,928 --> 0:35:16,922
+ANDY WEIR: Thank you.
+
+
+966
+0:35:16,922 --> 0:35:19,909
+
+
+
+967
+0:35:19,909 --> 0:35:21,95
+I figure you have one line
+to convince the reader
+
+
+968
+0:35:21,95 --> 0:35:23,267
+to read the first paragraph.
+
+
+969
+0:35:23,267 --> 0:35:24,85
+And you have one
+paragraph to convince
+
+
+970
+0:35:24,85 --> 0:35:26,31
+them to read the first page.
+
+
+971
+0:35:26,31 --> 0:35:27,934
+And if they read the
+first page, you've
+
+
+972
+0:35:27,934 --> 0:35:29,86
+probably got them
+for a while anyway.
+
+
+973
+0:35:29,86 --> 0:35:32,15
+But that first
+line is important.
+
+
+974
+0:35:32,15 --> 0:35:32,74
+AUDIENCE: I was going
+to say, partially
+
+
+975
+0:35:32,74 --> 0:35:35,114
+to what you were saying before,
+even if the atmosphere is
+
+
+976
+0:35:35,114 --> 0:35:37,83
+really thin but it's blowing
+around chunks of sand,
+
+
+977
+0:35:37,83 --> 0:35:40,2
+wouldn't the mass of the sand
+moving at that speed still
+
+
+978
+0:35:40,2 --> 0:35:41,117
+cause a lot of damage?
+
+
+979
+0:35:41,117 --> 0:35:43,408
+ANDY WEIR: Right, but the
+sand that it's blowing around
+
+
+980
+0:35:43,408 --> 0:35:45,574
+in a dust storm is basically
+like talcum powder.
+
+
+981
+0:35:45,574 --> 0:35:46,49
+AUDIENCE: Fair enough.
+
+
+982
+0:35:46,49 --> 0:35:47,74
+ANDY WEIR: It's not
+like big granules.
+
+
+983
+0:35:47,74 --> 0:35:49,615
+AUDIENCE: The actual
+question I was going ask
+
+
+984
+0:35:49,615 --> 0:35:51,86
+is how much of the ending
+and sort of storyboard
+
+
+985
+0:35:51,86 --> 0:35:53,73
+was known when you
+started the book,
+
+
+986
+0:35:53,73 --> 0:35:56,197
+and how much was made
+up as you went along?
+
+
+987
+0:35:56,197 --> 0:35:58,28
+ANDY WEIR: Most of it was
+made up as I went along.
+
+
+988
+0:35:58,28 --> 0:36:0,19
+I had some ideas for
+how the ending would go.
+
+
+989
+0:36:0,19 --> 0:36:2,58
+And it didn't go that way
+because it didn't make sense
+
+
+990
+0:36:2,58 --> 0:36:4,64
+with how the story developed.
+
+
+991
+0:36:4,64 --> 0:36:9,44
+They say there are two kinds
+of writers-- the plotters
+
+
+992
+0:36:9,44 --> 0:36:11,264
+and the pantsers, right?
+
+
+993
+0:36:11,264 --> 0:36:13,68
+Plotters work everything out
+in an outline format and say,
+
+
+994
+0:36:13,68 --> 0:36:14,46
+this is what's going to happen.
+
+
+995
+0:36:14,46 --> 0:36:16,88
+Pantsers are like, eh,
+let's just see what happens.
+
+
+996
+0:36:16,88 --> 0:36:18,91
+And I'm the latter, for sure.
+
+
+997
+0:36:18,91 --> 0:36:21,55
+So at the end, I
+had this in my mind
+
+
+998
+0:36:21,55 --> 0:36:22,93
+the whole time I'm
+writing the book is here's
+
+
+999
+0:36:22,93 --> 0:36:23,95
+what the final
+scene's going to be.
+
+
+1000
+0:36:23,95 --> 0:36:24,94
+And it's going to be awesome.
+
+
+1001
+0:36:24,94 --> 0:36:25,77
+Here's how it's going to be.
+
+
+1002
+0:36:25,77 --> 0:36:26,936
+And it couldn't be that way.
+
+
+1003
+0:36:26,936 --> 0:36:30,4
+
+
+
+1004
+0:36:30,4 --> 0:36:32,92
+AUDIENCE: So related to
+that, your protagonist
+
+
+1005
+0:36:32,92 --> 0:36:34,607
+has to overcome a
+lot of problems.
+
+
+1006
+0:36:34,607 --> 0:36:35,44
+So which came first?
+
+
+1007
+0:36:35,44 --> 0:36:37,93
+The problems that you'd have
+to find a clever solution for?
+
+
+1008
+0:36:37,93 --> 0:36:39,8
+Or you came up with
+the solution and said,
+
+
+1009
+0:36:39,8 --> 0:36:40,41
+how do I get in that situation?
+
+
+1010
+0:36:40,41 --> 0:36:41,46
+ANDY WEIR: I would
+start with the problems.
+
+
+1011
+0:36:41,46 --> 0:36:43,779
+What I wanted to do
+was have the problems--
+
+
+1012
+0:36:43,779 --> 0:36:45,82
+I didn't want him to just
+get struck by lightning
+
+
+1013
+0:36:45,82 --> 0:36:48,74
+over and over, figuratively.
+
+
+1014
+0:36:48,74 --> 0:36:52,12
+I didn't want there to
+be too many coincidences.
+
+
+1015
+0:36:52,12 --> 0:36:54,36
+So I wanted all of his
+problems to either derive
+
+
+1016
+0:36:54,36 --> 0:36:57,36
+from the fact that he's
+using outdated equipment,
+
+
+1017
+0:36:57,36 --> 0:36:59,6
+or that he's using
+equipment in ways
+
+
+1018
+0:36:59,6 --> 0:37:0,83
+that it wasn't
+intended to be used.
+
+
+1019
+0:37:0,83 --> 0:37:2,91
+So the solution to
+his previous problem
+
+
+1020
+0:37:2,91 --> 0:37:5,19
+would often cause
+the next problem.
+
+
+1021
+0:37:5,19 --> 0:37:8,5
+And so I would try to come
+up with the problems first.
+
+
+1022
+0:37:8,5 --> 0:37:9,61
+Then I'd come up
+with the solutions.
+
+
+1023
+0:37:9,61 --> 0:37:12,98
+The cool thing is, though,
+being a writer I can cheat.
+
+
+1024
+0:37:12,98 --> 0:37:15,67
+So every now and then,
+I'd get him into trouble,
+
+
+1025
+0:37:15,67 --> 0:37:17,42
+and I'd be like, he
+can't get out of this.
+
+
+1026
+0:37:17,42 --> 0:37:18,196
+He's going to die.
+
+
+1027
+0:37:18,196 --> 0:37:19,82
+OK, I'm going to go
+back a few chapters
+
+
+1028
+0:37:19,82 --> 0:37:23,942
+and put in some stuff that,
+oh, and this leads to that
+
+
+1029
+0:37:23,942 --> 0:37:24,9
+and this leads to that.
+
+
+1030
+0:37:24,9 --> 0:37:27,24
+And here's this thing
+that he'll have access
+
+
+1031
+0:37:27,24 --> 0:37:30,72
+to which can solve this problem.
+
+
+1032
+0:37:30,72 --> 0:37:32,53
+AUDIENCE: I don't know how much
+insight you have into this,
+
+
+1033
+0:37:32,53 --> 0:37:35,509
+but which of your
+sales channels seems
+
+
+1034
+0:37:35,509 --> 0:37:37,5
+to be doing best in
+this day and age?
+
+
+1035
+0:37:37,5 --> 0:37:40,54
+So I've found the book
+on [INAUDIBLE] blog
+
+
+1036
+0:37:40,54 --> 0:37:43,457
+and read it in
+the last few days.
+
+
+1037
+0:37:43,457 --> 0:37:45,4
+How much does that
+sort of thing help?
+
+
+1038
+0:37:45,4 --> 0:37:47,646
+And electronic versus physical?
+
+
+1039
+0:37:47,646 --> 0:37:49,27
+ANDY WEIR: The answer
+is, I don't know.
+
+
+1040
+0:37:49,27 --> 0:37:55,13
+I do know that right now, in
+this release-- so it released
+
+
+1041
+0:37:55,13 --> 0:37:56,94
+officially two
+days ago, so we're
+
+
+1042
+0:37:56,94 --> 0:37:59,21
+just right at the
+beginning-- I do know
+
+
+1043
+0:37:59,21 --> 0:38:1,73
+that the digital
+version is outselling
+
+
+1044
+0:38:1,73 --> 0:38:2,72
+the physical version.
+
+
+1045
+0:38:2,72 --> 0:38:6,36
+
+
+
+1046
+0:38:6,36 --> 0:38:12,69
+That's usually the case early
+on because there's still
+
+
+1047
+0:38:12,69 --> 0:38:16,53
+pipelining and delivery
+hiccups here and there
+
+
+1048
+0:38:16,53 --> 0:38:17,71
+for various bookstores.
+
+
+1049
+0:38:17,71 --> 0:38:21,14
+And we also don't get a lot of
+our reports from bookstores.
+
+
+1050
+0:38:21,14 --> 0:38:23,0
+But anyway, more
+specific than that,
+
+
+1051
+0:38:23,0 --> 0:38:25,6
+when it comes down
+to how did somebody
+
+
+1052
+0:38:25,6 --> 0:38:27,1
+end up at the page
+where they buy it?
+
+
+1053
+0:38:27,1 --> 0:38:27,71
+I don't know.
+
+
+1054
+0:38:27,71 --> 0:38:31,36
+I don't have that data.
+
+
+1055
+0:38:31,36 --> 0:38:33,531
+AUDIENCE: But you do
+think that posting
+
+
+1056
+0:38:33,531 --> 0:38:35,55
+to whatever was a good idea?
+
+
+1057
+0:38:35,55 --> 0:38:39,88
+ANDY WEIR: Oh, well, so that was
+mostly-- in fact, all of that--
+
+
+1058
+0:38:39,88 --> 0:38:42,81
+was arranged by Random House's
+marketing and publicity.
+
+
+1059
+0:38:42,81 --> 0:38:44,875
+So they said, like,
+then they arranged it
+
+
+1060
+0:38:44,875 --> 0:38:50,91
+with the site owners and blogs
+and stuff like that, and said,
+
+
+1061
+0:38:50,91 --> 0:38:51,59
+we'd like you to
+be on all of these.
+
+
+1062
+0:38:51,59 --> 0:38:54,18
+Let's see which ones of them
+are interested in having you.
+
+
+1063
+0:38:54,18 --> 0:38:57,16
+And they do that
+kind of matchmaking.
+
+
+1064
+0:38:57,16 --> 0:38:59,15
+I have this big
+folder full of what
+
+
+1065
+0:38:59,15 --> 0:39:1,844
+I called homework, just essays
+and articles and things that I
+
+
+1066
+0:39:1,844 --> 0:39:3,51
+write, which was one
+of the reasons I've
+
+
+1067
+0:39:3,51 --> 0:39:7,822
+been too busy to work
+on the next book.
+
+
+1068
+0:39:7,822 --> 0:39:9,53
+AUDIENCE: So do you
+still have a day job?
+
+
+1069
+0:39:9,53 --> 0:39:11,13
+Or are you now a
+full-time writer?
+
+
+1070
+0:39:11,13 --> 0:39:12,5
+ANDY WEIR: I still
+have a day job.
+
+
+1071
+0:39:12,5 --> 0:39:13,0
+I work for MobileIron.
+
+
+1072
+0:39:13,0 --> 0:39:15,37
+I am an Android programmer.
+
+
+1073
+0:39:15,37 --> 0:39:21,46
+And I've warned everybody at
+my company so they know this.
+
+
+1074
+0:39:21,46 --> 0:39:24,742
+If I get an advance for this
+next novel that I'm pitching,
+
+
+1075
+0:39:24,742 --> 0:39:26,2
+then I'm going to
+quit the day job.
+
+
+1076
+0:39:26,2 --> 0:39:29,182
+
+
+
+1077
+0:39:29,182 --> 0:39:31,39
+AUDIENCE: Maybe you don't
+know the specifics of this,
+
+
+1078
+0:39:31,39 --> 0:39:37,52
+but what with the vagaries of
+having been published twice,
+
+
+1079
+0:39:37,52 --> 0:39:42,11
+are you eligible for
+next year's Hugos?
+
+
+1080
+0:39:42,11 --> 0:39:45,6
+ANDY WEIR: I don't know.
+
+
+1081
+0:39:45,6 --> 0:39:48,122
+I hadn't thought
+about awards at all.
+
+
+1082
+0:39:48,122 --> 0:39:51,914
+(WHISPERING) I'll find out.
+
+
+1083
+0:39:51,914 --> 0:39:54,8
+AUDIENCE: What did you think
+of the movie "Gravity"?
+
+
+1084
+0:39:54,8 --> 0:39:55,4
+ANDY WEIR: I liked it a lot.
+
+
+1085
+0:39:55,4 --> 0:39:57,25
+I thought it was really
+beautiful cinematography,
+
+
+1086
+0:39:57,25 --> 0:39:57,99
+first off.
+
+
+1087
+0:39:57,99 --> 0:40:2,64
+And it had a bunch
+of accuracy problems.
+
+
+1088
+0:40:2,64 --> 0:40:6,12
+But, I mean, you
+can't get too picky.
+
+
+1089
+0:40:6,12 --> 0:40:10,7
+It wasn't supposed to be
+a space station tutorial.
+
+
+1090
+0:40:10,7 --> 0:40:12,77
+It was supposed to
+be an exciting movie.
+
+
+1091
+0:40:12,77 --> 0:40:13,53
+And what was it?
+
+
+1092
+0:40:13,53 --> 0:40:17,8
+Like for one thing,
+ISS and the Hubble
+
+
+1093
+0:40:17,8 --> 0:40:19,89
+are in orbits that are
+nowhere near each other,
+
+
+1094
+0:40:19,89 --> 0:40:21,2
+nowhere near the same velocity.
+
+
+1095
+0:40:21,2 --> 0:40:26,34
+In fact, NASA did, at one
+point, try to arrange a mission
+
+
+1096
+0:40:26,34 --> 0:40:28,607
+where they would repair
+the Hubble from ISS.
+
+
+1097
+0:40:28,607 --> 0:40:30,69
+And they could not find
+any way to make that work.
+
+
+1098
+0:40:30,69 --> 0:40:33,55
+
+
+
+1099
+0:40:33,55 --> 0:40:36,28
+So there are few
+errors in "Gravity,"
+
+
+1100
+0:40:36,28 --> 0:40:37,79
+but I liked it a lot.
+
+
+1101
+0:40:37,79 --> 0:40:40,74
+It is kind of inconvenient,
+though, because I released
+
+
+1102
+0:40:40,74 --> 0:40:42,62
+"The Martian" before
+"Gravity" came out.
+
+
+1103
+0:40:42,62 --> 0:40:44,581
+I wrote it all before
+"Gravity" came out.
+
+
+1104
+0:40:44,581 --> 0:40:46,8
+Now the re-release
+of "The Martian,"
+
+
+1105
+0:40:46,8 --> 0:40:49,172
+people are like, oh, hey,
+this is like "Gravity."
+
+
+1106
+0:40:49,172 --> 0:40:51,0
+I'm like, no,
+"Gravity"'s like me.
+
+
+1107
+0:40:51,0 --> 0:40:55,15
+
+
+
+1108
+0:40:55,15 --> 0:40:57,209
+AUDIENCE: I was
+wondering, did you
+
+
+1109
+0:40:57,209 --> 0:40:58,75
+manage to get any
+input on the cover?
+
+
+1110
+0:40:58,75 --> 0:41:0,52
+I mean, it looks really nice.
+
+
+1111
+0:41:0,52 --> 0:41:1,81
+ANDY WEIR: Thanks.
+
+
+1112
+0:41:1,81 --> 0:41:3,99
+That's actually funny.
+
+
+1113
+0:41:3,99 --> 0:41:6,26
+I didn't like it.
+
+
+1114
+0:41:6,26 --> 0:41:10,23
+And they said, hey, here's
+the cover we're going to go.
+
+
+1115
+0:41:10,23 --> 0:41:11,605
+The Random House's
+art department
+
+
+1116
+0:41:11,605 --> 0:41:14,4
+said-- here's this
+whole big thing
+
+
+1117
+0:41:14,4 --> 0:41:17,3
+that they did-- and
+they said, here it is.
+
+
+1118
+0:41:17,3 --> 0:41:19,65
+And I said, I don't like it.
+
+
+1119
+0:41:19,65 --> 0:41:21,33
+But everybody else does.
+
+
+1120
+0:41:21,33 --> 0:41:23,45
+So I'm glad I was wrong.
+
+
+1121
+0:41:23,45 --> 0:41:24,79
+Or I'm glad-- how do I put it?
+
+
+1122
+0:41:24,79 --> 0:41:26,13
+I'm glad I didn't have any say.
+
+
+1123
+0:41:26,13 --> 0:41:30,71
+
+
+
+1124
+0:41:30,71 --> 0:41:32,29
+Although I did point
+out one problem.
+
+
+1125
+0:41:32,29 --> 0:41:36,35
+Originally, in the-- that's an
+actual photo of an astronaut
+
+
+1126
+0:41:36,35 --> 0:41:39,43
+who is on a space shuttle
+mission at the time
+
+
+1127
+0:41:39,43 --> 0:41:40,55
+this photo was taken.
+
+
+1128
+0:41:40,55 --> 0:41:43,37
+I mean, obviously all the
+red stuff is Photoshopped.
+
+
+1129
+0:41:43,37 --> 0:41:46,1
+But in his helmet, you
+could see the reflection
+
+
+1130
+0:41:46,1 --> 0:41:48,18
+of the space shuttle cargo bay.
+
+
+1131
+0:41:48,18 --> 0:41:49,39
+And I pointed that.
+
+
+1132
+0:41:49,39 --> 0:41:50,36
+I'm like, nah.
+
+
+1133
+0:41:50,36 --> 0:41:53,79
+So they fixed that.
+
+
+1134
+0:41:53,79 --> 0:41:55,59
+AUDIENCE: What would you prefer?
+
+
+1135
+0:41:55,59 --> 0:42:0,72
+ANDY WEIR: I imagined--
+well, the Dutch cover--
+
+
+1136
+0:42:0,72 --> 0:42:3,14
+so every language
+that's selling-- it's
+
+
+1137
+0:42:3,14 --> 0:42:5,39
+getting translated
+into 21 languages
+
+
+1138
+0:42:5,39 --> 0:42:9,16
+and pretty much every one of
+them has their own cover art.
+
+
+1139
+0:42:9,16 --> 0:42:11,9
+And the Dutch cover is
+kind of what I liked.
+
+
+1140
+0:42:11,9 --> 0:42:15,8
+It's just basically a
+lone figure, very small,
+
+
+1141
+0:42:15,8 --> 0:42:19,91
+like, in the middle there and
+just big, empty Martian scenery
+
+
+1142
+0:42:19,91 --> 0:42:22,7
+just to show there's
+isolation and stuff.
+
+
+1143
+0:42:22,7 --> 0:42:23,54
+And I thought that was cool.
+
+
+1144
+0:42:23,54 --> 0:42:25,46
+But this is like--
+there are actually
+
+
+1145
+0:42:25,46 --> 0:42:27,662
+websites that just judge
+books by their cover.
+
+
+1146
+0:42:27,662 --> 0:42:29,12
+Like that's literally
+what they do.
+
+
+1147
+0:42:29,12 --> 0:42:29,619
+They say--
+
+
+1148
+0:42:29,619 --> 0:42:32,594
+[LAUGHTER]
+
+
+1149
+0:42:32,594 --> 0:42:34,1
+Literally all they
+do is they say,
+
+
+1150
+0:42:34,1 --> 0:42:36,16
+like, we're rating
+covers of new release,
+
+
+1151
+0:42:36,16 --> 0:42:38,82
+not the content of
+the book, nothing.
+
+
+1152
+0:42:38,82 --> 0:42:41,69
+Just think of them as
+artistic analysis websites.
+
+
+1153
+0:42:41,69 --> 0:42:44,2
+And they loved the
+cover of "The Martian."
+
+
+1154
+0:42:44,2 --> 0:42:45,95
+AUDIENCE: By the way,
+great title, too.
+
+
+1155
+0:42:45,95 --> 0:42:47,379
+ANDY WEIR: Thanks.
+
+
+1156
+0:42:47,379 --> 0:42:49,42
+Yeah, a lot of people will
+say, oh, like pro tip,
+
+
+1157
+0:42:49,42 --> 0:42:52,14
+there's no actual
+Martians in this.
+
+
+1158
+0:42:52,14 --> 0:42:53,28
+There's no aliens.
+
+
+1159
+0:42:53,28 --> 0:42:57,23
+He's the Martian, you see,
+because he's stuck there.
+
+
+1160
+0:42:57,23 --> 0:42:59,96
+MALE SPEAKER: Tell me,
+so how did you actually
+
+
+1161
+0:42:59,96 --> 0:43:4,144
+start to think about writing
+a story of somebody on Mars?
+
+
+1162
+0:43:4,144 --> 0:43:5,81
+I know we talked a
+little bit about this
+
+
+1163
+0:43:5,81 --> 0:43:7,68
+before the talk itself.
+
+
+1164
+0:43:7,68 --> 0:43:10,4
+We're sort of an Apollo
+generation type of thing.
+
+
+1165
+0:43:10,4 --> 0:43:14,21
+But what was that
+moment that's, hey,
+
+
+1166
+0:43:14,21 --> 0:43:15,82
+I'm going to write
+a story about Mars.
+
+
+1167
+0:43:15,82 --> 0:43:16,72
+Why?
+
+
+1168
+0:43:16,72 --> 0:43:19,19
+ANDY WEIR: Well,
+dork that I am, I
+
+
+1169
+0:43:19,19 --> 0:43:22,7
+was imagining how a manned
+Mars mission could work.
+
+
+1170
+0:43:22,7 --> 0:43:25,7
+And so I was just trying
+to say, realistically,
+
+
+1171
+0:43:25,7 --> 0:43:27,81
+how do you get the
+astronauts to Mars?
+
+
+1172
+0:43:27,81 --> 0:43:30,16
+How do you build a ship
+big enough to support them?
+
+
+1173
+0:43:30,16 --> 0:43:31,251
+How does that work?
+
+
+1174
+0:43:31,251 --> 0:43:32,25
+How do you get it there?
+
+
+1175
+0:43:32,25 --> 0:43:34,416
+That's why I had use ion
+engines because it was just
+
+
+1176
+0:43:34,416 --> 0:43:35,754
+too implausible otherwise.
+
+
+1177
+0:43:35,754 --> 0:43:37,67
+It's like once they're
+there, what do they do?
+
+
+1178
+0:43:37,67 --> 0:43:39,38
+How do they get back?
+
+
+1179
+0:43:39,38 --> 0:43:41,78
+And, oh, you could send all
+the supplies in advance.
+
+
+1180
+0:43:41,78 --> 0:43:45,244
+It uses heavily from
+Mars Direct, which is--
+
+
+1181
+0:43:45,244 --> 0:43:46,41
+MALE SPEAKER: Zubrin's plan.
+
+
+1182
+0:43:46,41 --> 0:43:49,46
+ANDY WEIR: Yeah,
+Zubrin's suggested
+
+
+1183
+0:43:49,46 --> 0:43:52,36
+way of doing a Mars
+mission, which if and when
+
+
+1184
+0:43:52,36 --> 0:43:54,94
+we have a Mars mission
+in the real world,
+
+
+1185
+0:43:54,94 --> 0:43:56,51
+it will almost certainly be
+something very much like that.
+
+
+1186
+0:43:56,51 --> 0:43:59,91
+Anyway I was considering all
+the things that could go wrong.
+
+
+1187
+0:43:59,91 --> 0:44:1,56
+I was saying, any
+mission plan has
+
+
+1188
+0:44:1,56 --> 0:44:3,726
+to account for things that
+can go wrong and say, oh,
+
+
+1189
+0:44:3,726 --> 0:44:5,86
+if this happens, then the
+astronaut should do this.
+
+
+1190
+0:44:5,86 --> 0:44:7,42
+If this happens,
+they should do this.
+
+
+1191
+0:44:7,42 --> 0:44:9,67
+And I started thinking of
+all these failure scenarios.
+
+
+1192
+0:44:9,67 --> 0:44:12,59
+And those started to seem
+really interesting to me.
+
+
+1193
+0:44:12,59 --> 0:44:14,755
+So I made a poor,
+hapless main character
+
+
+1194
+0:44:14,755 --> 0:44:15,88
+to suffer through them all.
+
+
+1195
+0:44:15,88 --> 0:44:18,647
+
+
+
+1196
+0:44:18,647 --> 0:44:21,23
+MALE SPEAKER: The readers won't
+suffer if they read this book.
+
+
+1197
+0:44:21,23 --> 0:44:22,14
+I'm sure about that.
+
+
+1198
+0:44:22,14 --> 0:44:24,63
+So please give
+thanks to Andy Weir.
+
+
+1199
+0:44:24,63 --> 0:46:24,63
+[APPLAUSE]
+
+

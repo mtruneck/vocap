@@ -1,0 +1,8383 @@
+1
+0:0:0,0 --> 0:0:0,14
+
+
+
+2
+0:0:0,14 --> 0:0:1,26
+GREG KROAH-HARTMAN:
+Good afternoon.
+
+
+3
+0:0:1,26 --> 0:0:5,57
+Thanks everybody for coming,
+also all the remote sites.
+
+
+4
+0:0:5,57 --> 0:0:9,58
+So we will kick off the Quantum
+AI speaker series.
+
+
+5
+0:0:9,58 --> 0:0:13,21
+And we are very pleased and
+honored that we have an
+
+
+6
+0:0:13,21 --> 0:0:16,72
+illustrous guest, John Preskill,
+who will kick off
+
+
+7
+0:0:16,72 --> 0:0:18,59
+the speaker series.
+
+
+8
+0:0:18,59 --> 0:0:23,35
+John is actually based across
+town and has been at Caltech,
+
+
+9
+0:0:23,35 --> 0:0:26,28
+where he's the Richard
+Feynman Professor.
+
+
+10
+0:0:26,28 --> 0:0:28,21
+He's there since '83.
+
+
+11
+0:0:28,21 --> 0:0:32,15
+And previously, he got his
+PhD. from Harvard.
+
+
+12
+0:0:32,15 --> 0:0:37,3
+So until the mid-90's, he did
+more like traditional physics,
+
+
+13
+0:0:37,3 --> 0:0:40,0
+cosmology, elementary
+particles.
+
+
+14
+0:0:40,0 --> 0:0:44,73
+But then switched to quantum
+information and started IQI,
+
+
+15
+0:0:44,73 --> 0:0:48,83
+the Institute for Quantum
+information at Caltech, where
+
+
+16
+0:0:48,83 --> 0:0:52,44
+many interesting results
+were achieved.
+
+
+17
+0:0:52,44 --> 0:0:57,85
+And in his career, I think he
+had 45 PhDs and 40 post-docs.
+
+
+18
+0:0:57,85 --> 0:1:2,6
+And I think this room here is
+becoming testimony to it
+
+
+19
+0:1:2,6 --> 0:1:6,26
+because we are surrounded
+by Preskill
+
+
+20
+0:1:6,26 --> 0:1:8,6
+post-docs and then PhDs.
+
+
+21
+0:1:8,6 --> 0:1:11,64
+And Sergio on our team
+learned from John.
+
+
+22
+0:1:11,64 --> 0:1:14,8
+So it definitely left his mark
+on the field of quantum
+
+
+23
+0:1:14,8 --> 0:1:16,3
+information.
+
+
+24
+0:1:16,3 --> 0:1:22,12
+And then just a few days ago, I
+was told was that when John
+
+
+25
+0:1:22,12 --> 0:1:25,6
+has a guest who gives a talk,
+then he is being introduced
+
+
+26
+0:1:25,6 --> 0:1:26,64
+with a poem.
+
+
+27
+0:1:26,64 --> 0:1:29,23
+And I thought oh, my god,
+that's high bar.
+
+
+28
+0:1:29,23 --> 0:1:33,48
+But fortunately, Dave Bacon on
+our team came through and he
+
+
+29
+0:1:33,48 --> 0:1:36,93
+put a little limerick together
+to announce John.
+
+
+30
+0:1:36,93 --> 0:1:38,77
+So I will try this.
+
+
+31
+0:1:38,77 --> 0:1:42,56
+There was once a physicist named
+John, who threw qubits
+
+
+32
+0:1:42,56 --> 0:1:44,5
+into the beyond.
+
+
+33
+0:1:44,5 --> 0:1:46,3
+Across the horizon they went.
+
+
+34
+0:1:46,3 --> 0:1:49,9
+But were they really spent
+or destined to
+
+
+35
+0:1:49,9 --> 0:1:51,74
+become Hawking radiation?
+
+
+36
+0:1:51,74 --> 0:1:54,794
+So I approve.
+
+
+37
+0:1:54,794 --> 0:1:58,5
+I confess Dave's is a very
+geeky limerick, even for
+
+
+38
+0:1:58,5 --> 0:1:59,47
+Google standards.
+
+
+39
+0:1:59,47 --> 0:2:3,15
+But maybe the last thing I
+should say about John, I had
+
+
+40
+0:2:3,15 --> 0:2:7,54
+the pleasure to witness his
+birthday symposium, which was
+
+
+41
+0:2:7,54 --> 0:2:8,91
+just a few months ago.
+
+
+42
+0:2:8,91 --> 0:2:10,669
+And that was quite a sight.
+
+
+43
+0:2:10,669 --> 0:2:14,46
+There was a lot of highly
+decorated physicists, from
+
+
+44
+0:2:14,46 --> 0:2:16,86
+Nobel Prize winners
+to winners of the
+
+
+45
+0:2:16,86 --> 0:2:18,75
+fundamental prize of physics.
+
+
+46
+0:2:18,75 --> 0:2:22,24
+And yeah, I was surrounded
+by the worldly leaders of
+
+
+47
+0:2:22,24 --> 0:2:22,9
+physicists.
+
+
+48
+0:2:22,9 --> 0:2:25,31
+And he's highly respected
+among them.
+
+
+49
+0:2:25,31 --> 0:2:28,13
+So I'm very happy that you are
+going to give the first talk
+
+
+50
+0:2:28,13 --> 0:2:29,58
+in the series.
+
+
+51
+0:2:29,58 --> 0:2:30,83
+John.
+
+
+52
+0:2:30,83 --> 0:2:37,58
+
+
+
+53
+0:2:37,58 --> 0:2:39,38
+JOHN PRESKILL: Can
+you hear me OK?
+
+
+54
+0:2:39,38 --> 0:2:41,354
+Thanks a lot, Hartman.
+
+
+55
+0:2:41,354 --> 0:2:45,38
+And good job on the reading
+of the limerick.
+
+
+56
+0:2:45,38 --> 0:2:46,15
+Thank you, Dave.
+
+
+57
+0:2:46,15 --> 0:2:50,16
+I haven't been introduced by a
+limerick before, as I recall.
+
+
+58
+0:2:50,16 --> 0:2:53,86
+This is going to be a talk
+about quantum physics.
+
+
+59
+0:2:53,86 --> 0:2:58,89
+But it's also to some extent
+about technology.
+
+
+60
+0:2:58,89 --> 0:3:1,39
+Now, you guys know more about
+technology than I do.
+
+
+61
+0:3:1,39 --> 0:3:4,76
+I have this laptop I think
+it's pretty cool.
+
+
+62
+0:3:4,76 --> 0:3:8,13
+And we all recognize, I'm sure
+you more than I, that
+
+
+63
+0:3:8,13 --> 0:3:11,23
+technology that seems impressive
+to us now is going
+
+
+64
+0:3:11,23 --> 0:3:15,61
+to be replaced by the end of the
+century by new technology
+
+
+65
+0:3:15,61 --> 0:3:20,27
+that we can't really expect
+to imagine at this stage.
+
+
+66
+0:3:20,27 --> 0:3:25,31
+But it's fun to think about
+future technologies.
+
+
+67
+0:3:25,31 --> 0:3:28,99
+I may not be the best qualified
+to do that because
+
+
+68
+0:3:28,99 --> 0:3:33,34
+unlike many of you, I
+am not an engineer.
+
+
+69
+0:3:33,34 --> 0:3:35,49
+I'm a theoretical physicist.
+
+
+70
+0:3:35,49 --> 0:3:39,31
+And maybe I'm not especially
+knowledgeable about how
+
+
+71
+0:3:39,31 --> 0:3:40,74
+computers work.
+
+
+72
+0:3:40,74 --> 0:3:44,9
+But as a physicist, I know that
+the crowning intellectual
+
+
+73
+0:3:44,9 --> 0:3:48,7
+achievement of the past
+century has been the
+
+
+74
+0:3:48,7 --> 0:3:49,5
+development of quantum theory.
+
+
+75
+0:3:49,5 --> 0:3:52,22
+So it's natural to wonder about
+how the development of
+
+
+76
+0:3:52,22 --> 0:3:56,31
+quantum theory in the 20th
+century is going to impact
+
+
+77
+0:3:56,31 --> 0:4:3,6
+21st century technologies and
+in particular information
+
+
+78
+0:4:3,6 --> 0:4:3,83
+technology.
+
+
+79
+0:4:3,83 --> 0:4:7,39
+Now, quantum theory is
+over 100 years old.
+
+
+80
+0:4:7,39 --> 0:4:9,61
+But there are some ways in which
+classical and quantum
+
+
+81
+0:4:9,61 --> 0:4:14,46
+systems differ that we are
+really only appreciating
+
+
+82
+0:4:14,46 --> 0:4:16,86
+deeply in the last
+couple of years.
+
+
+83
+0:4:16,86 --> 0:4:19,82
+And those properties have to do
+with information encoded in
+
+
+84
+0:4:19,82 --> 0:4:21,649
+physical systems.
+
+
+85
+0:4:21,649 --> 0:4:24,18
+To a physicist, information is
+something that we can encode
+
+
+86
+0:4:24,18 --> 0:4:28,28
+and store in the state of some
+physical system like
+
+
+87
+0:4:28,28 --> 0:4:29,79
+the pages of a book.
+
+
+88
+0:4:29,79 --> 0:4:33,43
+But fundamentally, all physical
+systems are really
+
+
+89
+0:4:33,43 --> 0:4:35,97
+quantum systems governed
+by quantum physics.
+
+
+90
+0:4:35,97 --> 0:4:39,36
+So information is something that
+we can encode and store
+
+
+91
+0:4:39,36 --> 0:4:42,43
+in a quantum system.
+
+
+92
+0:4:42,43 --> 0:4:45,73
+And information carried by
+quantum systems has some
+
+
+93
+0:4:45,73 --> 0:4:48,88
+famously counter-intuitive
+properties.
+
+
+94
+0:4:48,88 --> 0:4:52,28
+So physicists like to
+speak about the
+
+
+95
+0:4:52,28 --> 0:4:54,46
+weirdness of quantum theory.
+
+
+96
+0:4:54,46 --> 0:4:59,95
+And we relish that weirdness and
+take great delight in it.
+
+
+97
+0:4:59,95 --> 0:5:2,71
+But more recently, we're asking
+more seriously whether
+
+
+98
+0:5:2,71 --> 0:5:6,69
+it's possible to put that
+weirdness to work to exploit
+
+
+99
+0:5:6,69 --> 0:5:10,71
+unusual properties of quantum
+information, to perform tasks
+
+
+100
+0:5:10,71 --> 0:5:14,52
+that wouldn't be possible if
+this were a less weird,
+
+
+101
+0:5:14,52 --> 0:5:16,7
+classical world.
+
+
+102
+0:5:16,7 --> 0:5:19,98
+And that desire to put weirdness
+to work has driven
+
+
+103
+0:5:19,98 --> 0:5:21,65
+the emergence of
+a field we call
+
+
+104
+0:5:21,65 --> 0:5:23,7
+quantum information science.
+
+
+105
+0:5:23,7 --> 0:5:27,52
+Which from my perspective,
+derives a lot of its
+
+
+106
+0:5:27,52 --> 0:5:31,77
+intellectual vitality from
+three main ideas, quantum
+
+
+107
+0:5:31,77 --> 0:5:34,11
+entanglement, quantum computing,
+and quantum error
+
+
+108
+0:5:34,11 --> 0:5:35,22
+correction.
+
+
+109
+0:5:35,22 --> 0:5:38,51
+And my goal in the talk is to
+introduce you to these ideas,
+
+
+110
+0:5:38,51 --> 0:5:41,55
+if you're not already
+familiar with them.
+
+
+111
+0:5:41,55 --> 0:5:45,12
+So starting at the beginning,
+we know that we can express
+
+
+112
+0:5:45,12 --> 0:5:49,62
+classical information in terms
+of bits, where we might think
+
+
+113
+0:5:49,62 --> 0:5:53,6
+of a bit as an object like a
+ball that, can be either one
+
+
+114
+0:5:53,6 --> 0:5:55,8
+or two colors say
+red or green.
+
+
+115
+0:5:55,8 --> 0:5:59,7
+And if I want to, I can
+store a bit in a box.
+
+
+116
+0:5:59,7 --> 0:6:2,79
+And then later on if I open the
+box, the color ball I put
+
+
+117
+0:6:2,79 --> 0:6:3,9
+in comes out again.
+
+
+118
+0:6:3,9 --> 0:6:6,81
+So we can recover a
+bit and read it.
+
+
+119
+0:6:6,81 --> 0:6:9,7
+Quantum information, too, can
+be expressed in terms of
+
+
+120
+0:6:9,7 --> 0:6:15,18
+indivisible units, what we call
+quantum bits or qubits.
+
+
+121
+0:6:15,18 --> 0:6:19,69
+And for many purposes, it's
+useful to think of a qubit as
+
+
+122
+0:6:19,69 --> 0:6:21,62
+an object stored in a box.
+
+
+123
+0:6:21,62 --> 0:6:25,9
+But where now, we can open the
+box in two complementary ways,
+
+
+124
+0:6:25,9 --> 0:6:28,46
+two different ways to
+prepare or observe
+
+
+125
+0:6:28,46 --> 0:6:29,99
+the state of a qubit.
+
+
+126
+0:6:29,99 --> 0:6:34,29
+And if I put information in door
+number one or door number
+
+
+127
+0:6:34,29 --> 0:6:39,13
+two, then later on I can open
+the same door again and the
+
+
+128
+0:6:39,13 --> 0:6:42,35
+color that I put in will come
+out of the box, just like it
+
+
+129
+0:6:42,35 --> 0:6:44,7
+were a classical bit.
+
+
+130
+0:6:44,7 --> 0:6:47,98
+But if I say store information
+in door number one and then
+
+
+131
+0:6:47,98 --> 0:6:51,71
+later on open a complementary
+door, door number two, then
+
+
+132
+0:6:51,71 --> 0:6:53,79
+it's unpredictable
+what we'll find.
+
+
+133
+0:6:53,79 --> 0:6:56,71
+It has probability one-half
+of being red, probability
+
+
+134
+0:6:56,71 --> 0:6:59,1
+one-half of being green.
+
+
+135
+0:6:59,1 --> 0:7:2,66
+So if you're going to observe
+quantum information, you have
+
+
+136
+0:7:2,66 --> 0:7:3,62
+to do it the right way.
+
+
+137
+0:7:3,62 --> 0:7:6,2
+If you do it in the wrong way,
+you'll actually damage the
+
+
+138
+0:7:6,2 --> 0:7:7,45
+information.
+
+
+139
+0:7:7,45 --> 0:7:9,8
+
+
+
+140
+0:7:9,8 --> 0:7:12,32
+And one reason why that's
+important is appreciated if we
+
+
+141
+0:7:12,32 --> 0:7:15,17
+think about copying
+quantum states.
+
+
+142
+0:7:15,17 --> 0:7:18,51
+If I had a quantum copying
+machine, that would mean that
+
+
+143
+0:7:18,51 --> 0:7:21,12
+if I happened to have put
+information in door number one
+
+
+144
+0:7:21,12 --> 0:7:24,4
+of a qubit, I could
+make a copy.
+
+
+145
+0:7:24,4 --> 0:7:26,6
+And then I could open door
+number one of the original and
+
+
+146
+0:7:26,6 --> 0:7:29,45
+the duplicate and out of
+both I would find the
+
+
+147
+0:7:29,45 --> 0:7:31,49
+color that I put in.
+
+
+148
+0:7:31,49 --> 0:7:34,49
+Or if I put information in door
+number two of the qubit,
+
+
+149
+0:7:34,49 --> 0:7:37,13
+I could make a copy and open
+door number two on the
+
+
+150
+0:7:37,13 --> 0:7:39,16
+original and the duplicate.
+
+
+151
+0:7:39,16 --> 0:7:40,44
+And the color that I
+had put in would
+
+
+152
+0:7:40,44 --> 0:7:42,93
+come out of both boxes.
+
+
+153
+0:7:42,93 --> 0:7:45,92
+But, in fact, there is
+no such machine.
+
+
+154
+0:7:45,92 --> 0:7:49,72
+A machine that copies unknown
+quantum states is not allowed
+
+
+155
+0:7:49,72 --> 0:7:52,6
+by the rules of quantum
+mechanics.
+
+
+156
+0:7:52,6 --> 0:7:56,14
+And the reason is that to copy
+what's inside the box, the
+
+
+157
+0:7:56,14 --> 0:7:59,4
+machine has to probe
+what's inside.
+
+
+158
+0:7:59,4 --> 0:8:1,26
+And if it opens the right door,
+the door that I used,
+
+
+159
+0:8:1,26 --> 0:8:3,77
+then it can copy the
+information, no problem, just
+
+
+160
+0:8:3,77 --> 0:8:5,41
+as though it were classical.
+
+
+161
+0:8:5,41 --> 0:8:7,64
+But if it opens the wrong
+door, it will damage the
+
+
+162
+0:8:7,64 --> 0:8:8,36
+information.
+
+
+163
+0:8:8,36 --> 0:8:10,96
+And at that point, it won't
+be possible to make a high
+
+
+164
+0:8:10,96 --> 0:8:12,99
+fidelity copy.
+
+
+165
+0:8:12,99 --> 0:8:16,2
+So although we might be able
+to clone a sheep, we can't
+
+
+166
+0:8:16,2 --> 0:8:16,86
+clone a qubit.
+
+
+167
+0:8:16,86 --> 0:8:21,0
+We can't copy unknown
+quantum states.
+
+
+168
+0:8:21,0 --> 0:8:23,4
+Now, there are lots of
+possible physical
+
+
+169
+0:8:23,4 --> 0:8:24,3
+realizations of qubits.
+
+
+170
+0:8:24,3 --> 0:8:26,33
+I'm going to mention
+a couple of others
+
+
+171
+0:8:26,33 --> 0:8:27,42
+later on in the talk.
+
+
+172
+0:8:27,42 --> 0:8:30,42
+But just so you'll have
+something concrete to think
+
+
+173
+0:8:30,42 --> 0:8:33,74
+about for the moment, you can
+imagine a single photon or
+
+
+174
+0:8:33,74 --> 0:8:36,5
+particle of light which
+has an electric field.
+
+
+175
+0:8:36,5 --> 0:8:40,82
+And that electric field can be
+oriented either horizontally
+
+
+176
+0:8:40,82 --> 0:8:45,76
+or vertically, corresponding to
+observing our qubit through
+
+
+177
+0:8:45,76 --> 0:8:48,4
+door number one and seeing
+two possibilities.
+
+
+178
+0:8:48,4 --> 0:8:50,21
+Or we can imagine observing
+it in these
+
+
+179
+0:8:50,21 --> 0:8:52,305
+45-degree rotated axes.
+
+
+180
+0:8:52,305 --> 0:8:54,93
+And that corresponds to opening
+door number two, the
+
+
+181
+0:8:54,93 --> 0:8:59,35
+complementary door, to
+observe the qubit.
+
+
+182
+0:8:59,35 --> 0:9:2,6
+The really interesting
+differences between classical
+
+
+183
+0:9:2,6 --> 0:9:5,33
+and quantum information arise
+only when we consider systems
+
+
+184
+0:9:5,33 --> 0:9:7,16
+with more than one part.
+
+
+185
+0:9:7,16 --> 0:9:9,58
+So suppose we have two qubits.
+
+
+186
+0:9:9,58 --> 0:9:11,66
+They can be far apart
+from one another.
+
+
+187
+0:9:11,66 --> 0:9:14,49
+One is at Caltech,
+in Pasadena.
+
+
+188
+0:9:14,49 --> 0:9:18,1
+The other is in the custody of
+my friend, far away in the
+
+
+189
+0:9:18,1 --> 0:9:20,24
+Andromeda galaxy.
+
+
+190
+0:9:20,24 --> 0:9:23,0
+But a long time ago when these
+two qubits were both on Earth
+
+
+191
+0:9:23,0 --> 0:9:25,11
+and could interact with one
+another, they were prepared in
+
+
+192
+0:9:25,11 --> 0:9:28,38
+a particular state with some
+interesting properties.
+
+
+193
+0:9:28,38 --> 0:9:34,87
+Namely, I can open my box in
+Pasadena and open it through
+
+
+194
+0:9:34,87 --> 0:9:36,48
+either door number one
+or door number two.
+
+
+195
+0:9:36,48 --> 0:9:40,3
+And either way, what comes out
+of the box is random, has
+
+
+196
+0:9:40,3 --> 0:9:43,21
+probability one-half of being
+either red or green.
+
+
+197
+0:9:43,21 --> 0:9:45,7
+And the same thing is true for
+my friend in Andromeda.
+
+
+198
+0:9:45,7 --> 0:9:50,15
+He can open either box and
+either way sees a random bit.
+
+
+199
+0:9:50,15 --> 0:9:54,6
+So neither one of us by opening
+his box can acquire
+
+
+200
+0:9:54,6 --> 0:9:56,56
+any information.
+
+
+201
+0:9:56,56 --> 0:9:58,37
+It just generates
+a random bit.
+
+
+202
+0:9:58,37 --> 0:10:1,46
+And that's kind of surprising
+because with two boxes, we
+
+
+203
+0:10:1,46 --> 0:10:6,445
+ought to have been able to store
+two bits of information.
+
+
+204
+0:10:6,445 --> 0:10:8,71
+So where is that information
+hidden?
+
+
+205
+0:10:8,71 --> 0:10:12,33
+The answer for this particular
+state of the two boxes is that
+
+
+206
+0:10:12,33 --> 0:10:14,52
+all the information is actually
+encoded in the
+
+
+207
+0:10:14,52 --> 0:10:17,94
+correlations between
+the two boxes.
+
+
+208
+0:10:17,94 --> 0:10:21,25
+For this particular state, if my
+friend and I both open door
+
+
+209
+0:10:21,25 --> 0:10:24,21
+number one, we're guaranteed
+to find the same color.
+
+
+210
+0:10:24,21 --> 0:10:25,5
+It could be red,
+could be green.
+
+
+211
+0:10:25,5 --> 0:10:28,14
+But we always find the same one
+if we open the same door.
+
+
+212
+0:10:28,14 --> 0:10:31,42
+And likewise, if we both open
+door number two, we always
+
+
+213
+0:10:31,42 --> 0:10:34,1
+find the same color, probability
+one-half of being
+
+
+214
+0:10:34,1 --> 0:10:36,1
+red, probability one-half
+of being green.
+
+
+215
+0:10:36,1 --> 0:10:39,83
+But it's guaranteed to be the
+same if we open the same door.
+
+
+216
+0:10:39,83 --> 0:10:44,24
+And there are four
+distinguishable ways in which
+
+
+217
+0:10:44,24 --> 0:10:46,23
+a box in Pasadena could
+be correlated
+
+
+218
+0:10:46,23 --> 0:10:47,84
+with a box in Andromeda.
+
+
+219
+0:10:47,84 --> 0:10:52,49
+We could either see the same bit
+or opposite bits when we
+
+
+220
+0:10:52,49 --> 0:10:56,43
+both open door number one or we
+both open door number two.
+
+
+221
+0:10:56,43 --> 0:10:58,12
+We've chosen one of
+those four ways.
+
+
+222
+0:10:58,12 --> 0:11:0,86
+So that's two bits
+of information
+
+
+223
+0:11:0,86 --> 0:11:1,89
+stored in the boxes.
+
+
+224
+0:11:1,89 --> 0:11:5,16
+But what's unusual is the
+information is locally
+
+
+225
+0:11:5,16 --> 0:11:6,0
+inaccessible.
+
+
+226
+0:11:6,0 --> 0:11:8,9
+We can't acquire any of that
+information by looking at the
+
+
+227
+0:11:8,9 --> 0:11:11,53
+boxes one at a time.
+
+
+228
+0:11:11,53 --> 0:11:14,7
+And that property of quantum
+information, that it can be
+
+
+229
+0:11:14,7 --> 0:11:18,11
+stored nonlocally, shared
+between two distantly
+
+
+230
+0:11:18,11 --> 0:11:21,77
+separated systems, is what we
+call quantum entanglement.
+
+
+231
+0:11:21,77 --> 0:11:25,95
+And that's the really central,
+essential way in with quantum
+
+
+232
+0:11:25,95 --> 0:11:30,73
+information is different from
+classical information.
+
+
+233
+0:11:30,73 --> 0:11:33,55
+Correlations themselves are
+not such an unusual thing.
+
+
+234
+0:11:33,55 --> 0:11:36,93
+We encounter them all the
+time in daily life.
+
+
+235
+0:11:36,93 --> 0:11:39,7
+I normally wear two socks
+that are the same color.
+
+
+236
+0:11:39,7 --> 0:11:42,98
+It means that if you look at
+my left foot, then you know
+
+
+237
+0:11:42,98 --> 0:11:46,6
+for sure what color
+to expect when you
+
+
+238
+0:11:46,6 --> 0:11:47,45
+look at my right foot.
+
+
+239
+0:11:47,45 --> 0:11:48,685
+Yeah, Hartman just tried it.
+
+
+240
+0:11:48,685 --> 0:11:50,27
+It worked.
+
+
+241
+0:11:50,27 --> 0:11:54,36
+And that's a correlation.
+
+
+242
+0:11:54,36 --> 0:11:58,89
+And you might say it's kind
+of similar with the boxes.
+
+
+243
+0:11:58,89 --> 0:12:4,91
+If I want to see what my friend
+is going to see when he
+
+
+244
+0:12:4,91 --> 0:12:8,38
+opens store number one in
+Andromeda, I can open door
+
+
+245
+0:12:8,38 --> 0:12:9,54
+number one in Pasadena.
+
+
+246
+0:12:9,54 --> 0:12:12,5
+If I want to know what my friend
+is going to see when he
+
+
+247
+0:12:12,5 --> 0:12:15,52
+opens door number two, I can
+open door number two.
+
+
+248
+0:12:15,52 --> 0:12:18,45
+So aren't the boxes are really
+just like the socks?
+
+
+249
+0:12:18,45 --> 0:12:20,12
+No, they're really different.
+
+
+250
+0:12:20,12 --> 0:12:21,73
+There's a big difference
+between this quantum
+
+
+251
+0:12:21,73 --> 0:12:24,89
+correlation and classical
+correlation.
+
+
+252
+0:12:24,89 --> 0:12:27,45
+An essential difference is
+there's just one way
+
+
+253
+0:12:27,45 --> 0:12:28,47
+to look at a sock.
+
+
+254
+0:12:28,47 --> 0:12:31,67
+But we have these two
+complementary ways of looking
+
+
+255
+0:12:31,67 --> 0:12:33,81
+at a qubit, of opening
+a quantum box.
+
+
+256
+0:12:33,81 --> 0:12:38,63
+And that means that the
+correlations among qubits are
+
+
+257
+0:12:38,63 --> 0:12:41,49
+richer and more interesting
+than correlations among
+
+
+258
+0:12:41,49 --> 0:12:43,84
+classical bits.
+
+
+259
+0:12:43,84 --> 0:12:46,94
+This phenomenon of quantum
+entanglement is an old thing.
+
+
+260
+0:12:46,94 --> 0:12:51,73
+It was discussed quite
+explicitly by Einstein in a
+
+
+261
+0:12:51,73 --> 0:12:55,4
+famous 1935 paper, with
+two collaborators.
+
+
+262
+0:12:55,4 --> 0:12:59,2
+And to Einstein, quantum
+entanglement was so unsettling
+
+
+263
+0:12:59,2 --> 0:13:2,66
+as to indicate that something
+is missing from our current
+
+
+264
+0:13:2,66 --> 0:13:7,3
+understanding of the quantum
+description of nature.
+
+
+265
+0:13:7,3 --> 0:13:11,92
+And that paper induced some
+interesting responses,
+
+
+266
+0:13:11,92 --> 0:13:14,64
+including one from Schrodinger
+later that year, which was
+
+
+267
+0:13:14,64 --> 0:13:17,18
+especially insightful.
+
+
+268
+0:13:17,18 --> 0:13:19,89
+And Schrodinger described
+entanglement this way.
+
+
+269
+0:13:19,89 --> 0:13:23,15
+He said the best possible
+knowledge of a whole does not
+
+
+270
+0:13:23,15 --> 0:13:25,51
+necessarily include
+the best possible
+
+
+271
+0:13:25,51 --> 0:13:27,64
+knowledge of its parts.
+
+
+272
+0:13:27,64 --> 0:13:31,34
+What he meant was that even if
+we know exactly how those two
+
+
+273
+0:13:31,34 --> 0:13:34,28
+boxes were prepared, know
+everything about those two
+
+
+274
+0:13:34,28 --> 0:13:37,71
+boxes, we are still helpless to
+predict what will be found
+
+
+275
+0:13:37,71 --> 0:13:41,73
+when we open one of the boxes
+in Pasadena or Andromeda.
+
+
+276
+0:13:41,73 --> 0:13:44,7
+And it was Schrodinger who
+suggested, using the word
+
+
+277
+0:13:44,7 --> 0:13:49,2
+"entanglement" or "entangled"
+to describe that situation.
+
+
+278
+0:13:49,2 --> 0:13:51,98
+He also said it's discomforting
+that the theory
+
+
+279
+0:13:51,98 --> 0:13:56,19
+should allow a system to be
+steered or piloted into one or
+
+
+280
+0:13:56,19 --> 0:13:59,47
+the other type of state at the
+experimenter's mercy, in spite
+
+
+281
+0:13:59,47 --> 0:14:2,0
+of his having no access to it.
+
+
+282
+0:14:2,0 --> 0:14:5,0
+Schrodinger meant isn't it odd
+that it's up to me to decide
+
+
+283
+0:14:5,0 --> 0:14:8,58
+by opening door number one or
+door number two whether I will
+
+
+284
+0:14:8,58 --> 0:14:12,11
+know what my friend will see
+when he opens door number one
+
+
+285
+0:14:12,11 --> 0:14:13,88
+or door number two?
+
+
+286
+0:14:13,88 --> 0:14:16,24
+But Schrodinger also understood
+that these
+
+
+287
+0:14:16,24 --> 0:14:20,84
+correlations don't enable us
+to send a message from
+
+
+288
+0:14:20,84 --> 0:14:23,81
+Pasadena to Andromeda
+instantaneously.
+
+
+289
+0:14:23,81 --> 0:14:27,32
+No matter what I do, my friend
+opens either door number one
+
+
+290
+0:14:27,32 --> 0:14:29,98
+or door number two and just
+finds a random bit, learning
+
+
+291
+0:14:29,98 --> 0:14:32,27
+nothing about what I did
+and receiving no
+
+
+292
+0:14:32,27 --> 0:14:34,54
+information from me.
+
+
+293
+0:14:34,54 --> 0:14:39,38
+Now, this phenomenon or idea
+of quantum entanglement did
+
+
+294
+0:14:39,38 --> 0:14:43,33
+not advance very much for
+30 years after that.
+
+
+295
+0:14:43,33 --> 0:14:48,16
+Until the mid-'60s, when John
+Bell started us thinking about
+
+
+296
+0:14:48,16 --> 0:14:50,39
+quantum entanglement in a
+rather different way.
+
+
+297
+0:14:50,39 --> 0:14:54,29
+Not just as something weird,
+but something potentially
+
+
+298
+0:14:54,29 --> 0:14:58,51
+useful, a resource that we
+can use to do things.
+
+
+299
+0:14:58,51 --> 0:15:2,44
+Specifically, Bell described
+games that two players can
+
+
+300
+0:15:2,44 --> 0:15:4,92
+play, Alice and Bob.
+
+
+301
+0:15:4,92 --> 0:15:6,7
+It's a cooperative game.
+
+
+302
+0:15:6,7 --> 0:15:7,81
+Alice and Bob are on
+the same side.
+
+
+303
+0:15:7,81 --> 0:15:9,6
+They're both trying to win.
+
+
+304
+0:15:9,6 --> 0:15:13,14
+The way the game works is that
+Alice and Bob receive inputs
+
+
+305
+0:15:13,14 --> 0:15:15,79
+and they are to produce outputs
+which are correlated
+
+
+306
+0:15:15,79 --> 0:15:19,95
+in a certain way, depending on
+the inputs that they receive.
+
+
+307
+0:15:19,95 --> 0:15:23,96
+And if they receive some
+correlated bits before the
+
+
+308
+0:15:23,96 --> 0:15:27,51
+game began, they're allowed to
+consult those correlated bits.
+
+
+309
+0:15:27,51 --> 0:15:30,7
+But under the rules of the game,
+Alice and Bob cannot
+
+
+310
+0:15:30,7 --> 0:15:33,67
+communicate between the time
+that they receive the inputs
+
+
+311
+0:15:33,67 --> 0:15:36,43
+and the time that they
+produce their output.
+
+
+312
+0:15:36,43 --> 0:15:40,75
+And for this particular game, if
+they play the best possible
+
+
+313
+0:15:40,75 --> 0:15:46,67
+strategy, they can win with a
+probability of success 3/4,
+
+
+314
+0:15:46,67 --> 0:15:49,17
+averaged over the inputs that
+they could receive, if we
+
+
+315
+0:15:49,17 --> 0:15:52,58
+assume they're uniformly
+distributed.
+
+
+316
+0:15:52,58 --> 0:15:54,52
+But there's a quantum
+version of the game.
+
+
+317
+0:15:54,52 --> 0:15:55,2
+It's the same game.
+
+
+318
+0:15:55,2 --> 0:15:59,38
+But now, Alice and Bob are
+permitted to use entangled
+
+
+319
+0:15:59,38 --> 0:16:3,18
+qubits that were distributed
+before the game began.
+
+
+320
+0:16:3,18 --> 0:16:5,68
+And by making use of that
+entanglement, they can play a
+
+
+321
+0:16:5,68 --> 0:16:9,2
+better quantum strategy and
+win the game with a higher
+
+
+322
+0:16:9,2 --> 0:16:13,15
+success probability,
+above 85%.
+
+
+323
+0:16:13,15 --> 0:16:15,89
+So the quantum correlations
+are good for something.
+
+
+324
+0:16:15,89 --> 0:16:20,6
+They allow you to win this game
+with higher probability.
+
+
+325
+0:16:20,6 --> 0:16:22,71
+And experimental physicists have
+been playing the game for
+
+
+326
+0:16:22,71 --> 0:16:25,41
+decades now and they keep
+winning with this higher
+
+
+327
+0:16:25,41 --> 0:16:30,29
+probability of success that Bell
+showed us is possible in
+
+
+328
+0:16:30,29 --> 0:16:31,12
+quantum physics.
+
+
+329
+0:16:31,12 --> 0:16:33,76
+So these quantum correlations,
+stronger than classical
+
+
+330
+0:16:33,76 --> 0:16:36,83
+correlations, really do
+seem to be part of
+
+
+331
+0:16:36,83 --> 0:16:39,99
+the way nature behaves.
+
+
+332
+0:16:39,99 --> 0:16:44,46
+Now, to Einstein quantum
+entanglement was kind of
+
+
+333
+0:16:44,46 --> 0:16:45,1
+disgusting.
+
+
+334
+0:16:45,1 --> 0:16:48,76
+And he called it spooky
+action at a distance
+
+
+335
+0:16:48,76 --> 0:16:49,79
+in a derisive tone.
+
+
+336
+0:16:49,79 --> 0:16:54,27
+This sounds even more derisive
+when you say it in German.
+
+
+337
+0:16:54,27 --> 0:16:56,9
+But it doesn't matter
+in physics what
+
+
+338
+0:16:56,9 --> 0:16:58,7
+Einstein things, right?
+
+
+339
+0:16:58,7 --> 0:17:2,65
+Nature is the way experiments
+reveal her to be.
+
+
+340
+0:17:2,65 --> 0:17:6,329
+And we have to learn to
+love her as she is.
+
+
+341
+0:17:6,329 --> 0:17:10,15
+Quantum entanglement is really
+part of the world.
+
+
+342
+0:17:10,15 --> 0:17:10,94
+OK.
+
+
+343
+0:17:10,94 --> 0:17:14,92
+So in a world with quantum
+correlations, we can use those
+
+
+344
+0:17:14,92 --> 0:17:17,827
+correlations to do things that
+we wouldn't be able to do if
+
+
+345
+0:17:17,827 --> 0:17:19,24
+all correlations
+were classical.
+
+
+346
+0:17:19,24 --> 0:17:21,119
+Boxes are not like socks.
+
+
+347
+0:17:21,119 --> 0:17:22,81
+You can win a game with
+a probability of
+
+
+348
+0:17:22,81 --> 0:17:26,329
+85% instead of 75%.
+
+
+349
+0:17:26,329 --> 0:17:28,71
+Is that really a big deal?
+
+
+350
+0:17:28,71 --> 0:17:29,1
+Yeah.
+
+
+351
+0:17:29,1 --> 0:17:31,95
+This is a really,
+really big deal.
+
+
+352
+0:17:31,95 --> 0:17:34,67
+And to appreciate why it's a
+big deal, we really should
+
+
+353
+0:17:34,67 --> 0:17:38,69
+think about systems
+with many parts.
+
+
+354
+0:17:38,69 --> 0:17:42,93
+Now suppose, for example,
+that I have a book.
+
+
+355
+0:17:42,93 --> 0:17:44,92
+It's 100 pages long.
+
+
+356
+0:17:44,92 --> 0:17:48,22
+It consists of a hundred
+subsystems, each a page.
+
+
+357
+0:17:48,22 --> 0:17:50,86
+If it were a classical book
+rather, with bits printed on
+
+
+358
+0:17:50,86 --> 0:17:56,9
+every page, you could read a
+single page and you'd know 1%
+
+
+359
+0:17:56,9 --> 0:17:58,43
+of the content of the book.
+
+
+360
+0:17:58,43 --> 0:18:2,55
+10 pages, you'd know 10% of
+the content of the book.
+
+
+361
+0:18:2,55 --> 0:18:6,31
+But suppose it's a highly
+entangled quantum book.
+
+
+362
+0:18:6,31 --> 0:18:8,74
+Then if you look at the pages
+one at a time, what you see is
+
+
+363
+0:18:8,74 --> 0:18:11,87
+really just random gibberish,
+which tells you nothing about
+
+
+364
+0:18:11,87 --> 0:18:15,56
+the content of the book, if it's
+a highly entangled book.
+
+
+365
+0:18:15,56 --> 0:18:18,87
+If you want to distinguish one
+entangled quantum book from
+
+
+366
+0:18:18,87 --> 0:18:21,76
+another, you can't tell the
+difference by looking at the
+
+
+367
+0:18:21,76 --> 0:18:24,46
+pages one at a time because the
+information isn't printed
+
+
+368
+0:18:24,46 --> 0:18:26,12
+on individual pages.
+
+
+369
+0:18:26,12 --> 0:18:29,27
+Almost all the information is
+encoded in the correlations
+
+
+370
+0:18:29,27 --> 0:18:30,96
+among the pages.
+
+
+371
+0:18:30,96 --> 0:18:33,62
+If you want to distinguish one
+such book from another, you
+
+
+372
+0:18:33,62 --> 0:18:36,9
+have to make a difficult
+collective observation on many
+
+
+373
+0:18:36,9 --> 0:18:39,17
+pages at once, perhaps
+more than half the
+
+
+374
+0:18:39,17 --> 0:18:41,43
+pages in the book.
+
+
+375
+0:18:41,43 --> 0:18:45,51
+If I have a quantum system
+consisting of qubits, and a
+
+
+376
+0:18:45,51 --> 0:18:49,58
+rather modest number of qubits,
+just a few hundred, if
+
+
+377
+0:18:49,58 --> 0:18:52,75
+I wanted to give a complete
+description of all the ways in
+
+
+378
+0:18:52,75 --> 0:18:55,54
+which those qubits are
+correlated with one another, I
+
+
+379
+0:18:55,54 --> 0:18:58,7
+would have to write down a
+huge amount of classical
+
+
+380
+0:18:58,7 --> 0:19:0,72
+information, more bits than
+the number of atoms in the
+
+
+381
+0:19:0,72 --> 0:19:2,4
+visible universe.
+
+
+382
+0:19:2,4 --> 0:19:4,94
+It will never be possible, even
+in principle, to write a
+
+
+383
+0:19:4,94 --> 0:19:6,54
+description like that down.
+
+
+384
+0:19:6,54 --> 0:19:10,23
+There's too much classical
+information to describe this
+
+
+385
+0:19:10,23 --> 0:19:14,61
+extravagant correlation of just
+a few hundred qubits.
+
+
+386
+0:19:14,61 --> 0:19:16,91
+And that property of quantum
+information, that we can't
+
+
+387
+0:19:16,91 --> 0:19:21,47
+hope to describe it using
+classical information, was
+
+
+388
+0:19:21,47 --> 0:19:23,7
+intriguing in particular
+to the Caltech
+
+
+389
+0:19:23,7 --> 0:19:25,9
+physicist Richard Feynman.
+
+
+390
+0:19:25,9 --> 0:19:30,1
+And it led Feynman to make the
+suggestion in the early 1980s
+
+
+391
+0:19:30,1 --> 0:19:33,56
+that if we could process
+quantum bits instead of
+
+
+392
+0:19:33,56 --> 0:19:37,95
+classical bits, operate a
+scalable quantum computer,
+
+
+393
+0:19:37,95 --> 0:19:41,35
+we'd be able to perform tasks
+that would be beyond the
+
+
+394
+0:19:41,35 --> 0:19:44,79
+capability of any conceivable
+digital computer.
+
+
+395
+0:19:44,79 --> 0:19:48,42
+So Feynman's idea was that if
+we can't even write down in
+
+
+396
+0:19:48,42 --> 0:19:52,2
+terms of classical bits the
+state of a few hundred qubits,
+
+
+397
+0:19:52,2 --> 0:19:55,46
+then perhaps by processing the
+qubits, we'd be able to
+
+
+398
+0:19:55,46 --> 0:19:58,66
+perform a task that we
+can't emulate with
+
+
+399
+0:19:58,66 --> 0:20:1,41
+ordinary digital computers.
+
+
+400
+0:20:1,41 --> 0:20:5,18
+When Feynman was making this
+suggestion in the early 1980s,
+
+
+401
+0:20:5,18 --> 0:20:8,87
+there was an undergraduate at
+Caltech, concentrating in
+
+
+402
+0:20:8,87 --> 0:20:11,39
+mathematics, named Peter Shor.
+
+
+403
+0:20:11,39 --> 0:20:15,8
+And Shor, like all Caltech
+undergraduates, had to take
+
+
+404
+0:20:15,8 --> 0:20:16,16
+our core curriculum.
+
+
+405
+0:20:16,16 --> 0:20:20,31
+Everybody at Caltech has to
+learn quantum mechanics, even
+
+
+406
+0:20:20,31 --> 0:20:21,24
+if you major in music.
+
+
+407
+0:20:21,24 --> 0:20:23,14
+We don't have a lot
+of music majors.
+
+
+408
+0:20:23,14 --> 0:20:25,1
+Everybody has to learn quantum
+mechanics when you're a
+
+
+409
+0:20:25,1 --> 0:20:26,48
+sophomore and Peter did.
+
+
+410
+0:20:26,48 --> 0:20:30,83
+And as far as I know, that was
+the most advanced class in
+
+
+411
+0:20:30,83 --> 0:20:31,87
+physics that he took.
+
+
+412
+0:20:31,87 --> 0:20:35,7
+But like many Caltech
+undergraduates, he remembered
+
+
+413
+0:20:35,7 --> 0:20:38,77
+what he learned as a sophomore
+about quantum physics.
+
+
+414
+0:20:38,77 --> 0:20:44,58
+And he drew upon that knowledge
+about 13 years later
+
+
+415
+0:20:44,58 --> 0:20:48,34
+to make an amazing discovery.
+
+
+416
+0:20:48,34 --> 0:20:51,37
+Shor, in 1994, realized that if
+you could build a quantum
+
+
+417
+0:20:51,37 --> 0:20:55,98
+computer, it would be able to
+solve certain problems like
+
+
+418
+0:20:55,98 --> 0:21:1,83
+finding the prime factors of
+large composite integers very,
+
+
+419
+0:21:1,83 --> 0:21:2,42
+very quickly.
+
+
+420
+0:21:2,42 --> 0:21:6,0
+That for a quantum computer,
+factoring would not be much
+
+
+421
+0:21:6,0 --> 0:21:10,31
+harder than multiplying
+numbers together.
+
+
+422
+0:21:10,31 --> 0:21:12,54
+And when I first heard about
+this, as Hartman said in the
+
+
+423
+0:21:12,54 --> 0:21:16,7
+introduction, this was in 1994,
+I didn't know much about
+
+
+424
+0:21:16,7 --> 0:21:17,91
+computer science or
+cryptography.
+
+
+425
+0:21:17,91 --> 0:21:22,45
+I was working on particle
+physics, and cosmology, and
+
+
+426
+0:21:22,45 --> 0:21:24,51
+gravitational physics.
+
+
+427
+0:21:24,51 --> 0:21:26,1
+But as soon as I heard
+about this, I was
+
+
+428
+0:21:26,1 --> 0:21:27,85
+really amazed and stunned.
+
+
+429
+0:21:27,85 --> 0:21:30,55
+Because I understood the
+implications are quite
+
+
+430
+0:21:30,55 --> 0:21:31,42
+remarkable.
+
+
+431
+0:21:31,42 --> 0:21:35,77
+That the boundary between hard
+problems and easy problems,
+
+
+432
+0:21:35,77 --> 0:21:38,66
+the problems that we should be
+able to solve some day with
+
+
+433
+0:21:38,66 --> 0:21:41,4
+advanced technologies versus the
+problems that we never any
+
+
+434
+0:21:41,4 --> 0:21:45,22
+hope of solving, that boundary
+is different than it otherwise
+
+
+435
+0:21:45,22 --> 0:21:48,41
+would be because this is a
+quantum world instead of a
+
+
+436
+0:21:48,41 --> 0:21:49,35
+classical world.
+
+
+437
+0:21:49,35 --> 0:21:51,9
+I thought it was one of the most
+interesting things I had
+
+
+438
+0:21:51,9 --> 0:21:53,72
+ever heard in my scientific
+life.
+
+
+439
+0:21:53,72 --> 0:21:57,11
+And it lead me eventually to
+change the direction of my own
+
+
+440
+0:21:57,11 --> 0:21:58,34
+research toward quantum
+
+
+441
+0:21:58,34 --> 0:22:0,16
+information and quantum computing.
+
+
+442
+0:22:0,16 --> 0:22:2,75
+Just to clarify what I'm talking
+about, I'm talking
+
+
+443
+0:22:2,75 --> 0:22:5,61
+about the scaling of the
+resources that we need to
+
+
+444
+0:22:5,61 --> 0:22:7,4
+solve the problem.
+
+
+445
+0:22:7,4 --> 0:22:9,92
+A hard factoring problem
+nowadays is
+
+
+446
+0:22:9,92 --> 0:22:12,23
+factoring 193 digits.
+
+
+447
+0:22:12,23 --> 0:22:17,23
+That's been done by a network of
+a few hundred workstations
+
+
+448
+0:22:17,23 --> 0:22:20,41
+collaborating over the internet
+in a few months.
+
+
+449
+0:22:20,41 --> 0:22:22,92
+But from what we know about
+the scaling of the best
+
+
+450
+0:22:22,92 --> 0:22:26,55
+classical algorithms for
+factoring, if that same
+
+
+451
+0:22:26,55 --> 0:22:30,95
+hardware were used to try to
+factor a 500-digit number, it
+
+
+452
+0:22:30,95 --> 0:22:33,28
+would take longer than the
+age of the universe.
+
+
+453
+0:22:33,28 --> 0:22:36,0
+So that's not something that we
+expect to happen, factoring
+
+
+454
+0:22:36,0 --> 0:22:38,8
+500-digit numbers in the
+very near future
+
+
+455
+0:22:38,8 --> 0:22:41,26
+with classical computers.
+
+
+456
+0:22:41,26 --> 0:22:43,55
+Now, let's imagine that I have
+a quantum computer with the
+
+
+457
+0:22:43,55 --> 0:22:46,1
+same clock speed as that
+classical computer.
+
+
+458
+0:22:46,1 --> 0:22:50,45
+It can perform the same number
+of basic operations per second
+
+
+459
+0:22:50,45 --> 0:22:54,59
+as the classical computer, but
+now on qubits instead of bits.
+
+
+460
+0:22:54,59 --> 0:22:56,94
+And then we would be able
+to factor, using Shor's
+
+
+461
+0:22:56,94 --> 0:23:0,7
+algorithm, the 193-digit number
+in about a tenth of a
+
+
+462
+0:23:0,7 --> 0:23:3,335
+second and the 500-digit
+number in two seconds.
+
+
+463
+0:23:3,335 --> 0:23:5,81
+Now, there's a completely
+different scaling of the
+
+
+464
+0:23:5,81 --> 0:23:8,46
+resources we need with the
+size of the input to the
+
+
+465
+0:23:8,46 --> 0:23:12,49
+problem when we run
+Shor's algorithm.
+
+
+466
+0:23:12,49 --> 0:23:13,76
+But who cares about factoring?
+
+
+467
+0:23:13,76 --> 0:23:16,52
+People do care about factoring
+because the presumed
+
+
+468
+0:23:16,52 --> 0:23:22,1
+difficulty of factoring is the
+basis of widely used, public,
+
+
+469
+0:23:22,1 --> 0:23:24,47
+key cryptography schemes.
+
+
+470
+0:23:24,47 --> 0:23:27,0
+There are other problems that
+quantum computers can break
+
+
+471
+0:23:27,0 --> 0:23:30,92
+which are alternative ways
+of doing public key.
+
+
+472
+0:23:30,92 --> 0:23:34,22
+When quantum computers are
+widely available, we won't be
+
+
+473
+0:23:34,22 --> 0:23:37,3
+able to protect our privacy in
+the same way that we're doing
+
+
+474
+0:23:37,3 --> 0:23:40,33
+it now using current
+public key schemes.
+
+
+475
+0:23:40,33 --> 0:23:41,95
+Alternatives exist.
+
+
+476
+0:23:41,95 --> 0:23:45,4
+But it's still not exactly clear
+how we will best protect
+
+
+477
+0:23:45,4 --> 0:23:48,4
+our privacy in the post-quantum
+world.
+
+
+478
+0:23:48,4 --> 0:23:52,92
+That's a ongoing subject
+of discussion.
+
+
+479
+0:23:52,92 --> 0:23:55,33
+But the more important thing,
+more broadly, that we learn
+
+
+480
+0:23:55,33 --> 0:23:59,7
+from Peter Shor's algorithm is
+that there's an interesting
+
+
+481
+0:23:59,7 --> 0:24:0,79
+classification of problems.
+
+
+482
+0:24:0,79 --> 0:24:4,14
+There are problems which
+are classically hard
+
+
+483
+0:24:4,14 --> 0:24:5,27
+and quantumly easy.
+
+
+484
+0:24:5,27 --> 0:24:8,38
+Problems that we can't solve
+with reasonable scaling of
+
+
+485
+0:24:8,38 --> 0:24:11,62
+resources with classical
+computers, but which we can
+
+
+486
+0:24:11,62 --> 0:24:12,7
+with quantum computers.
+
+
+487
+0:24:12,7 --> 0:24:16,67
+And so it becomes an urgent
+question, what lies in that
+
+
+488
+0:24:16,67 --> 0:24:19,1
+intermediate region that's
+quantumly easy
+
+
+489
+0:24:19,1 --> 0:24:22,66
+and classically hard?
+
+
+490
+0:24:22,66 --> 0:24:24,77
+And we still have a lot to
+learn about that I think.
+
+
+491
+0:24:24,77 --> 0:24:27,16
+We do know that quantum
+computers have limitations.
+
+
+492
+0:24:27,16 --> 0:24:29,52
+They can't speed
+up everything.
+
+
+493
+0:24:29,52 --> 0:24:34,2
+It seems that spectacular
+speedups are possible only for
+
+
+494
+0:24:34,2 --> 0:24:36,3
+problems with a special
+structure.
+
+
+495
+0:24:36,3 --> 0:24:38,81
+And in particular, we don't
+think that quantum computers
+
+
+496
+0:24:38,81 --> 0:24:42,23
+can dramatically speed
+up problems which are
+
+
+497
+0:24:42,23 --> 0:24:45,22
+NP-complete, the hardest
+problems for which we can
+
+
+498
+0:24:45,22 --> 0:24:46,87
+efficiently verify the solution
+
+
+499
+0:24:46,87 --> 0:24:48,93
+with a classical computer.
+
+
+500
+0:24:48,93 --> 0:24:51,69
+In the worst case, we can't do
+much better than brute force
+
+
+501
+0:24:51,69 --> 0:24:53,75
+search for the answer
+in that case.
+
+
+502
+0:24:53,75 --> 0:24:57,7
+Quantum computers can speed up
+brute force searching, but not
+
+
+503
+0:24:57,7 --> 0:24:59,79
+exponentially, only
+quadratically, a more
+
+
+504
+0:24:59,79 --> 0:25:2,12
+modest speed up.
+
+
+505
+0:25:2,12 --> 0:25:4,23
+It's important to keep in mind
+though that quantum computers
+
+
+506
+0:25:4,23 --> 0:25:7,64
+can also solve problems that are
+not in NP, problems where
+
+
+507
+0:25:7,64 --> 0:25:10,32
+we can't check the answer with
+a classical computer.
+
+
+508
+0:25:10,32 --> 0:25:14,25
+And indeed, the most natural
+application for quantum
+
+
+509
+0:25:14,25 --> 0:25:17,56
+computers is to simulate the
+time evolution of quantum
+
+
+510
+0:25:17,56 --> 0:25:21,12
+systems with many particles,
+many parts, which might be of
+
+
+511
+0:25:21,12 --> 0:25:25,3
+interest in chemistry or in
+the quantum field theories
+
+
+512
+0:25:25,3 --> 0:25:28,21
+that physicists use to describe
+elementary particles.
+
+
+513
+0:25:28,21 --> 0:25:32,2
+So, for example, we can ask
+about the type of problem that
+
+
+514
+0:25:32,2 --> 0:25:35,4
+I as a particle physicist
+used to worry about.
+
+
+515
+0:25:35,4 --> 0:25:38,32
+Suppose we want to consider a
+high energy collision between
+
+
+516
+0:25:38,32 --> 0:25:41,83
+particles and we'd like to be
+able to sample accurately from
+
+
+517
+0:25:41,83 --> 0:25:45,59
+the possible states of many
+particles that could be
+
+
+518
+0:25:45,59 --> 0:25:48,7
+produced in that high
+energy collision.
+
+
+519
+0:25:48,7 --> 0:25:52,35
+And at least in some cases,
+we've shown that that
+
+
+520
+0:25:52,35 --> 0:25:55,77
+simulation can be done with
+efficient scaling of resources
+
+
+521
+0:25:55,77 --> 0:25:58,89
+on a quantum computer, which we
+don't believe is the case
+
+
+522
+0:25:58,89 --> 0:26:0,12
+classically.
+
+
+523
+0:26:0,12 --> 0:26:3,16
+So it may be that a quantum
+computer is capable of
+
+
+524
+0:26:3,16 --> 0:26:6,93
+simulating efficiently any
+quantum process that can occur
+
+
+525
+0:26:6,93 --> 0:26:9,56
+in nature, though that's still
+an open question, in
+
+
+526
+0:26:9,56 --> 0:26:13,37
+particular with regard to
+processes in which both
+
+
+527
+0:26:13,37 --> 0:26:17,85
+quantum mechanics and gravity
+are important.
+
+
+528
+0:26:17,85 --> 0:26:21,11
+So quantum computers would have
+wonderful capabilities.
+
+
+529
+0:26:21,11 --> 0:26:22,84
+We'd love to have them.
+
+
+530
+0:26:22,84 --> 0:26:24,46
+Lots of people around
+the world are
+
+
+531
+0:26:24,46 --> 0:26:26,28
+working on quantum computing.
+
+
+532
+0:26:26,28 --> 0:26:28,22
+So why don't we have
+them already?
+
+
+533
+0:26:28,22 --> 0:26:30,7
+What's the big delay?
+
+
+534
+0:26:30,7 --> 0:26:34,44
+Well, it's really, really,
+really hard.
+
+
+535
+0:26:34,44 --> 0:26:38,23
+And part of what makes it hard
+is that quantum systems are
+
+
+536
+0:26:38,23 --> 0:26:43,13
+more susceptible to error, to
+the damaging effects of noise,
+
+
+537
+0:26:43,13 --> 0:26:45,68
+than classical systems.
+
+
+538
+0:26:45,68 --> 0:26:49,58
+Physicists sometimes like to
+speak about a quantum state of
+
+
+539
+0:26:49,58 --> 0:26:53,34
+a cat, which is a superposition
+of the live and
+
+
+540
+0:26:53,34 --> 0:26:56,23
+dead state of a cat, or in
+this case, the more human
+
+
+541
+0:26:56,23 --> 0:27:0,6
+case, of a awake and
+sleeping cat.
+
+
+542
+0:27:0,6 --> 0:27:5,38
+Now, we never observe in our
+everyday lives that kind of
+
+
+543
+0:27:5,38 --> 0:27:7,7
+superposition of
+macroscopically
+
+
+544
+0:27:7,7 --> 0:27:9,73
+distinguishable states.
+
+
+545
+0:27:9,73 --> 0:27:11,99
+And we understand why
+that's the case.
+
+
+546
+0:27:11,99 --> 0:27:15,75
+Because no real cat can be
+perfectly isolated from its
+
+
+547
+0:27:15,75 --> 0:27:17,35
+surroundings.
+
+
+548
+0:27:17,35 --> 0:27:21,91
+And the interactions with the
+environment very quickly in
+
+
+549
+0:27:21,91 --> 0:27:24,47
+effect measure the cat,
+projecting it onto a state
+
+
+550
+0:27:24,47 --> 0:27:26,98
+which is either completely
+alive or completely dead.
+
+
+551
+0:27:26,98 --> 0:27:30,59
+That's a process that
+we call decoherence.
+
+
+552
+0:27:30,59 --> 0:27:33,28
+And decoherence is actually very
+important for helping us
+
+
+553
+0:27:33,28 --> 0:27:36,52
+understand why classical
+physics works so well.
+
+
+554
+0:27:36,52 --> 0:27:39,64
+Why, when we consider
+macroscopic systems, we don't
+
+
+555
+0:27:39,64 --> 0:27:43,34
+usually have to worry about
+quantum phenomena.
+
+
+556
+0:27:43,34 --> 0:27:44,99
+It's because decoherence
+is extremely
+
+
+557
+0:27:44,99 --> 0:27:48,122
+fast for big systems.
+
+
+558
+0:27:48,122 --> 0:27:52,47
+Now, a quantum computer, when
+we manage to build one, may
+
+
+559
+0:27:52,47 --> 0:27:54,11
+not be much like a cat.
+
+
+560
+0:27:54,11 --> 0:27:58,45
+But it will, like a cat,
+inevitably interact at some
+
+
+561
+0:27:58,45 --> 0:28:0,46
+level with its environment.
+
+
+562
+0:28:0,46 --> 0:28:1,68
+There will be decoherence.
+
+
+563
+0:28:1,68 --> 0:28:5,27
+And so the quantum computer will
+crash unless we can find
+
+
+564
+0:28:5,27 --> 0:28:10,17
+some way of fighting off
+decoherence, of preventing
+
+
+565
+0:28:10,17 --> 0:28:14,67
+sources of error from making
+the quantum computer fail.
+
+
+566
+0:28:14,67 --> 0:28:17,3
+
+
+
+567
+0:28:17,3 --> 0:28:19,3
+Errors are a problem, even
+in the classical
+
+
+568
+0:28:19,3 --> 0:28:21,2
+world, as we all know.
+
+
+569
+0:28:21,2 --> 0:28:24,94
+I have many bits that
+I cherish and I
+
+
+570
+0:28:24,94 --> 0:28:25,91
+would hate to lose.
+
+
+571
+0:28:25,91 --> 0:28:29,0
+And everywhere, there are
+dragons lurking, who take
+
+
+572
+0:28:29,0 --> 0:28:32,7
+delight in tampering with those
+bits and flipping them
+
+
+573
+0:28:32,7 --> 0:28:34,53
+from red to green,
+or whatever.
+
+
+574
+0:28:34,53 --> 0:28:37,71
+But we know ways of protecting
+ourselves from the dragons.
+
+
+575
+0:28:37,71 --> 0:28:40,8
+We can encode information
+redundantly.
+
+
+576
+0:28:40,8 --> 0:28:44,47
+So that if I have a bit that I
+want to be sure to keep, I
+
+
+577
+0:28:44,47 --> 0:28:48,35
+can, for example, store backup
+copies of the bit.
+
+
+578
+0:28:48,35 --> 0:28:52,22
+That's an example of a simple
+code, which can be used to
+
+
+579
+0:28:52,22 --> 0:28:53,93
+protect against errors.
+
+
+580
+0:28:53,93 --> 0:28:56,63
+The dragon might come along
+and flip the color
+
+
+581
+0:28:56,63 --> 0:28:58,31
+of one of the balls.
+
+
+582
+0:28:58,31 --> 0:29:0,94
+But as long as the dragon
+hasn't had a chance to
+
+
+583
+0:29:0,94 --> 0:29:3,86
+interact with more than one
+ball, I can employ a busy
+
+
+584
+0:29:3,86 --> 0:29:7,33
+beaver of the sort we have
+many of at Caltech.
+
+
+585
+0:29:7,33 --> 0:29:10,84
+And we can ask the beaver, if
+he sees the one ball is a
+
+
+586
+0:29:10,84 --> 0:29:13,84
+different color than the others,
+to recolor that ball
+
+
+587
+0:29:13,84 --> 0:29:15,61
+so that all three match.
+
+
+588
+0:29:15,61 --> 0:29:19,0
+And so as long as only one of
+the balls has been damaged, we
+
+
+589
+0:29:19,0 --> 0:29:22,5
+can recover the original encoded
+state and protect
+
+
+590
+0:29:22,5 --> 0:29:23,43
+against errors.
+
+
+591
+0:29:23,43 --> 0:29:26,65
+So we'd like to use the same
+concept of protecting
+
+
+592
+0:29:26,65 --> 0:29:30,3
+information from error through
+redundant storage in the
+
+
+593
+0:29:30,3 --> 0:29:31,4
+quantum world.
+
+
+594
+0:29:31,4 --> 0:29:34,51
+But there are some potential
+obstacles.
+
+
+595
+0:29:34,51 --> 0:29:38,11
+As we've already discussed,
+we can't copy
+
+
+596
+0:29:38,11 --> 0:29:39,34
+unknown quantum states.
+
+
+597
+0:29:39,34 --> 0:29:42,89
+So I can't take the state of a
+quantum computer and store a
+
+
+598
+0:29:42,89 --> 0:29:47,16
+backup copy in case the
+original gets damaged.
+
+
+599
+0:29:47,16 --> 0:29:49,19
+And there are more things that
+can go wrong with quantum
+
+
+600
+0:29:49,19 --> 0:29:53,13
+information than with classical
+information.
+
+
+601
+0:29:53,13 --> 0:29:55,68
+It could be that the dragon will
+come along and open door
+
+
+602
+0:29:55,68 --> 0:29:58,8
+number one of a qubit and flip
+the color of the ball and
+
+
+603
+0:29:58,8 --> 0:29:59,72
+reclose the box.
+
+
+604
+0:29:59,72 --> 0:30:1,99
+That would be like a bit
+flip that occurs
+
+
+605
+0:30:1,99 --> 0:30:4,25
+in a classical bit.
+
+
+606
+0:30:4,25 --> 0:30:6,57
+But it's also possible that
+the dragon could open door
+
+
+607
+0:30:6,57 --> 0:30:9,49
+number two and change the
+color of the ball.
+
+
+608
+0:30:9,49 --> 0:30:13,4
+That's what we call a phase
+error in quantum information.
+
+
+609
+0:30:13,4 --> 0:30:17,23
+It really has no analog in
+the classical world.
+
+
+610
+0:30:17,23 --> 0:30:18,16
+And there's another
+way of thinking
+
+
+611
+0:30:18,16 --> 0:30:20,11
+about these phase errors.
+
+
+612
+0:30:20,11 --> 0:30:23,13
+Another way a phase error, an
+error through door number two
+
+
+613
+0:30:23,13 --> 0:30:27,92
+could occur, would be for a
+dragon to open door number
+
+
+614
+0:30:27,92 --> 0:30:31,44
+one, look at the color of the
+ball, and not flip the color,
+
+
+615
+0:30:31,44 --> 0:30:33,86
+but just remember the color,
+make a record of
+
+
+616
+0:30:33,86 --> 0:30:35,58
+what the color is.
+
+
+617
+0:30:35,58 --> 0:30:38,44
+And that record will damage the
+information if we try to
+
+
+618
+0:30:38,44 --> 0:30:41,22
+look at the qubit through
+the door number two.
+
+
+619
+0:30:41,22 --> 0:30:43,53
+And in many physical situations,
+it's easier to
+
+
+620
+0:30:43,53 --> 0:30:48,84
+remember or record the value of
+a bit than to flip a bit.
+
+
+621
+0:30:48,84 --> 0:30:51,6
+And that means these phase
+errors are particularly
+
+
+622
+0:30:51,6 --> 0:30:55,22
+pervasive and hard
+to avoid in many
+
+
+623
+0:30:55,22 --> 0:30:56,725
+types of physical systems.
+
+
+624
+0:30:56,725 --> 0:31:0,82
+
+
+
+625
+0:31:0,82 --> 0:31:4,4
+In fact, if we want to resist
+decoherence, it means we have
+
+
+626
+0:31:4,4 --> 0:31:6,84
+to somehow prevent the
+environment from learning
+
+
+627
+0:31:6,84 --> 0:31:9,53
+about the state of the quantum
+computer during the course of
+
+
+628
+0:31:9,53 --> 0:31:10,87
+the computation.
+
+
+629
+0:31:10,87 --> 0:31:14,17
+If some record is left behind of
+what the intermediate state
+
+
+630
+0:31:14,17 --> 0:31:17,48
+of the quantum computer was,
+that will cause the quantum
+
+
+631
+0:31:17,48 --> 0:31:19,53
+computer to fail.
+
+
+632
+0:31:19,53 --> 0:31:23,87
+If a quantum computation was
+successful, then it should be
+
+
+633
+0:31:23,87 --> 0:31:26,94
+that if you ask the quantum
+computer after its done, what
+
+
+634
+0:31:26,94 --> 0:31:30,5
+did you just do while you were
+factoring that huge number, it
+
+
+635
+0:31:30,5 --> 0:31:34,8
+should always answer I forget
+because no record was left
+
+
+636
+0:31:34,8 --> 0:31:37,41
+behind of the state
+of the computer at
+
+
+637
+0:31:37,41 --> 0:31:39,5
+intermediate times.
+
+
+638
+0:31:39,5 --> 0:31:42,12
+So we really need to do a kind
+of secret computation,
+
+
+639
+0:31:42,12 --> 0:31:45,33
+completely sealed off from the
+surroundings if we want a
+
+
+640
+0:31:45,33 --> 0:31:47,27
+quantum computer to succeed.
+
+
+641
+0:31:47,27 --> 0:31:49,24
+When we're done with the
+computation and we have the
+
+
+642
+0:31:49,24 --> 0:31:52,22
+result, it's OK to broadcast
+that to the world and tell
+
+
+643
+0:31:52,22 --> 0:31:54,24
+everyone what the answer is.
+
+
+644
+0:31:54,24 --> 0:31:57,4
+But we can't have any record
+left behind of the state of
+
+
+645
+0:31:57,4 --> 0:32:0,93
+the quantum computer during the
+course of the computation
+
+
+646
+0:32:0,93 --> 0:32:3,19
+because that will cause the
+computation to fail.
+
+
+647
+0:32:3,19 --> 0:32:6,64
+So we have to figure out a way
+to encrypt the processing that
+
+
+648
+0:32:6,64 --> 0:32:8,3
+we're doing.
+
+
+649
+0:32:8,3 --> 0:32:10,2
+And really our enemy here
+is entanglement.
+
+
+650
+0:32:10,2 --> 0:32:13,23
+It is entanglement between our
+quantum computer and its
+
+
+651
+0:32:13,23 --> 0:32:16,22
+environment, which drives
+decoherence.
+
+
+652
+0:32:16,22 --> 0:32:19,51
+And the way to fight off that
+entanglement is to use
+
+
+653
+0:32:19,51 --> 0:32:23,74
+entanglement to our advantage,
+to store information in a
+
+
+654
+0:32:23,74 --> 0:32:25,425
+highly entangled state.
+
+
+655
+0:32:25,425 --> 0:32:29,46
+If I want to store one logical
+qubit, it is possible to do
+
+
+656
+0:32:29,46 --> 0:32:34,15
+that if I have five physical
+qubits, in such a way that if
+
+
+657
+0:32:34,15 --> 0:32:37,87
+the dragon comes along and looks
+at one of those five
+
+
+658
+0:32:37,87 --> 0:32:42,63
+qubits, the dragon can't acquire
+any information about
+
+
+659
+0:32:42,63 --> 0:32:45,26
+what the logical state
+is of the qubit by
+
+
+660
+0:32:45,26 --> 0:32:47,16
+looking at that one box.
+
+
+661
+0:32:47,16 --> 0:32:50,47
+This is just like the 100-page
+book I described earlier.
+
+
+662
+0:32:50,47 --> 0:32:53,46
+The state of the five qubits
+is highly entangled.
+
+
+663
+0:32:53,46 --> 0:32:56,12
+So if you want to know what the
+information is stored in
+
+
+664
+0:32:56,12 --> 0:32:59,44
+that five-qubit book, you can't
+learn that information
+
+
+665
+0:32:59,44 --> 0:33:1,41
+by looking at a single qubit.
+
+
+666
+0:33:1,41 --> 0:33:2,1
+It's not there.
+
+
+667
+0:33:2,1 --> 0:33:5,13
+It's in the correlations
+among the qubits.
+
+
+668
+0:33:5,13 --> 0:33:8,79
+And we can again ask the
+beaver to help us out.
+
+
+669
+0:33:8,79 --> 0:33:11,2
+After the dragon has done
+something, and we don't know
+
+
+670
+0:33:11,2 --> 0:33:14,78
+what, we can ask the beaver to
+make some kind of collective
+
+
+671
+0:33:14,78 --> 0:33:17,54
+observation on the five qubits,
+which we can do with
+
+
+672
+0:33:17,54 --> 0:33:18,78
+the quantum computer.
+
+
+673
+0:33:18,78 --> 0:33:21,77
+And from that information learn,
+not the state of the
+
+
+674
+0:33:21,77 --> 0:33:23,57
+logical qubit that we're
+trying to protect.
+
+
+675
+0:33:23,57 --> 0:33:27,4
+We don't want anyone, even the
+beaver, to know what that is.
+
+
+676
+0:33:27,4 --> 0:33:29,56
+But what damage has occurred,
+which of the boxes has been
+
+
+677
+0:33:29,56 --> 0:33:32,76
+damaged, what needs to be done
+to repair the damage.
+
+
+678
+0:33:32,76 --> 0:33:36,43
+And then the beaver can
+reinstate the original encoded
+
+
+679
+0:33:36,43 --> 0:33:39,43
+state, if only one of the
+qubits has been damaged.
+
+
+680
+0:33:39,43 --> 0:33:44,7
+So that's the principle of
+quantum error correction.
+
+
+681
+0:33:44,7 --> 0:33:46,76
+And how do we actually
+get this to work?
+
+
+682
+0:33:46,76 --> 0:33:49,78
+Well, we'll see.
+
+
+683
+0:33:49,78 --> 0:33:57,22
+But one hero of the story is my
+colleague, Alexei Kitaev.
+
+
+684
+0:33:57,22 --> 0:34:2,15
+I first met Alexei in 1997, on
+his first visit to the US.
+
+
+685
+0:34:2,15 --> 0:34:6,5
+He came to Caltech and gave a
+talk on the first day we met.
+
+
+686
+0:34:6,5 --> 0:34:8,96
+And I made these notes.
+
+
+687
+0:34:8,96 --> 0:34:12,56
+And it was really one of the
+most exciting days of my
+
+
+688
+0:34:12,56 --> 0:34:15,94
+scientific life to talk to
+Kitaev that way because I
+
+
+689
+0:34:15,94 --> 0:34:20,0
+learned from him an idea which
+I felt could potentially be
+
+
+690
+0:34:20,0 --> 0:34:23,21
+transformative about quantum
+error correction.
+
+
+691
+0:34:23,21 --> 0:34:26,29
+And what I learned from Kitaev
+is the connection between
+
+
+692
+0:34:26,29 --> 0:34:29,969
+error correction and topology.
+
+
+693
+0:34:29,969 --> 0:34:32,54
+"Topology" is the word
+mathematicians use if they
+
+
+694
+0:34:32,54 --> 0:34:36,67
+want to describe properties of
+objects that remain invariant
+
+
+695
+0:34:36,67 --> 0:34:41,55
+when we smoothly deform the
+object without tearing it.
+
+
+696
+0:34:41,55 --> 0:34:44,5
+And likewise, we would like
+the way a quantum computer
+
+
+697
+0:34:44,5 --> 0:34:48,4
+processes protected information
+to remain
+
+
+698
+0:34:48,4 --> 0:34:52,4
+invariant when we deform
+the computer by
+
+
+699
+0:34:52,4 --> 0:34:54,8
+introducing some noise.
+
+
+700
+0:34:54,8 --> 0:34:57,42
+So we'd like to make use of
+physical interactions that
+
+
+701
+0:34:57,42 --> 0:34:59,89
+have topological features.
+
+
+702
+0:34:59,89 --> 0:35:1,54
+Physicists have known
+about such
+
+
+703
+0:35:1,54 --> 0:35:3,39
+interactions for a long time.
+
+
+704
+0:35:3,39 --> 0:35:8,12
+For example, I can consider an
+electron interacting with a
+
+
+705
+0:35:8,12 --> 0:35:9,88
+magnetic flux tube.
+
+
+706
+0:35:9,88 --> 0:35:12,63
+And if that electron is carried
+around the flux tube,
+
+
+707
+0:35:12,63 --> 0:35:15,31
+even though it never penetrates
+inside to interact
+
+
+708
+0:35:15,31 --> 0:35:19,13
+directly with the magnetic
+field, the quantum state of
+
+
+709
+0:35:19,13 --> 0:35:22,9
+the electron will be modified.
+
+
+710
+0:35:22,9 --> 0:35:25,33
+And that modification is really
+a topological property.
+
+
+711
+0:35:25,33 --> 0:35:27,92
+It stays the same
+if we deform the
+
+
+712
+0:35:27,92 --> 0:35:29,19
+trajectory of the electron.
+
+
+713
+0:35:29,19 --> 0:35:31,74
+The only thing that matters is
+the winding number of the
+
+
+714
+0:35:31,74 --> 0:35:35,62
+electron around the flux tube.
+
+
+715
+0:35:35,62 --> 0:35:39,47
+There are more exotic types of
+topological interactions that
+
+
+716
+0:35:39,47 --> 0:35:43,8
+can occur in two-dimensional
+media, where there are
+
+
+717
+0:35:43,8 --> 0:35:46,44
+point-like particles which
+we call anyons.
+
+
+718
+0:35:46,44 --> 0:35:49,31
+Non-abelian anyons in particular
+have the property
+
+
+719
+0:35:49,31 --> 0:35:52,73
+that I can consider a system of
+many of these particles in
+
+
+720
+0:35:52,73 --> 0:35:54,84
+a two-dimensional media.
+
+
+721
+0:35:54,84 --> 0:35:58,6
+And there are lots of quantum
+states we can construct of
+
+
+722
+0:35:58,6 --> 0:36:2,38
+these many anyons, a number
+of states which are all
+
+
+723
+0:36:2,38 --> 0:36:4,49
+distinguishable, which
+is exponential in
+
+
+724
+0:36:4,49 --> 0:36:6,59
+the number of particles.
+
+
+725
+0:36:6,59 --> 0:36:9,87
+But all of these quantum states
+locally look the same.
+
+
+726
+0:36:9,87 --> 0:36:12,56
+We can't see any of the
+information that distinguishes
+
+
+727
+0:36:12,56 --> 0:36:14,66
+one state from another
+by looking at the
+
+
+728
+0:36:14,66 --> 0:36:16,61
+particles one at a time.
+
+
+729
+0:36:16,61 --> 0:36:17,522
+OK.
+
+
+730
+0:36:17,522 --> 0:36:19,34
+The environment might
+interact with the
+
+
+731
+0:36:19,34 --> 0:36:20,65
+particles one at a time.
+
+
+732
+0:36:20,65 --> 0:36:23,61
+But that doesn't allow any
+information about the encoded
+
+
+733
+0:36:23,61 --> 0:36:26,82
+state to leak to the
+environment.
+
+
+734
+0:36:26,82 --> 0:36:29,61
+And we can process the
+information just by performing
+
+
+735
+0:36:29,61 --> 0:36:33,82
+exchanges of the particles,
+having particles swap places
+
+
+736
+0:36:33,82 --> 0:36:37,67
+to get a different quantum
+state, which can be a logical
+
+
+737
+0:36:37,67 --> 0:36:40,44
+operation in a quantum
+computer.
+
+
+738
+0:36:40,44 --> 0:36:45,16
+So we can imagine operating a
+topological quantum computer,
+
+
+739
+0:36:45,16 --> 0:36:48,96
+that's what I learned from
+Kitaev in 1997, which we could
+
+
+740
+0:36:48,96 --> 0:36:53,27
+initialize by preparing pairs
+of these particles in the
+
+
+741
+0:36:53,27 --> 0:36:56,7
+two-dimensional medium,
+anyons.
+
+
+742
+0:36:56,7 --> 0:36:59,99
+And then process information
+by performing a sequence of
+
+
+743
+0:36:59,99 --> 0:37:4,9
+exchanges or swaps of the
+particles, so that their world
+
+
+744
+0:37:4,9 --> 0:37:8,54
+lines in 2 plus 1 dimensional
+space-time trace out a braid
+
+
+745
+0:37:8,54 --> 0:37:11,25
+in that three-dimensional
+space.
+
+
+746
+0:37:11,25 --> 0:37:16,54
+And then we can read out the
+information at the end by, for
+
+
+747
+0:37:16,54 --> 0:37:19,14
+example, bringing the particles
+together pairwise
+
+
+748
+0:37:19,14 --> 0:37:21,58
+and observing whether they
+disappear, whether they
+
+
+749
+0:37:21,58 --> 0:37:24,96
+annihilate or not.
+
+
+750
+0:37:24,96 --> 0:37:27,69
+And what makes this idea
+beautiful is that the
+
+
+751
+0:37:27,69 --> 0:37:31,27
+computation is intrinsically
+resistant to decoherence.
+
+
+752
+0:37:31,27 --> 0:37:34,27
+If we keep the temperature low
+so there are a lot of stray
+
+
+753
+0:37:34,27 --> 0:37:38,3
+anyons wandering around, if we
+keep the anyons far apart from
+
+
+754
+0:37:38,3 --> 0:37:40,75
+one another, except at the very
+beginning when we create
+
+
+755
+0:37:40,75 --> 0:37:44,46
+the pairs and the very end when
+we annihilate the pairs,
+
+
+756
+0:37:44,46 --> 0:37:47,62
+then there's no way for the
+information that's being
+
+
+757
+0:37:47,62 --> 0:37:50,32
+processed to leak to
+the environment.
+
+
+758
+0:37:50,32 --> 0:37:53,62
+And if we perform the
+right braid, we'll
+
+
+759
+0:37:53,62 --> 0:37:55,27
+get the right answer.
+
+
+760
+0:37:55,27 --> 0:38:0,1
+So it's topologically protected
+quantum computation.
+
+
+761
+0:38:0,1 --> 0:38:3,28
+So that looks pretty
+good to a theorist.
+
+
+762
+0:38:3,28 --> 0:38:5,89
+But how are we actually going
+to build the system that has
+
+
+763
+0:38:5,89 --> 0:38:9,65
+such non-abelian anyons that
+could be the basis of the
+
+
+764
+0:38:9,65 --> 0:38:11,76
+hardware for a quantum
+computer?
+
+
+765
+0:38:11,76 --> 0:38:15,49
+Well, here we can make use of
+another idea which Kitaev and
+
+
+766
+0:38:15,49 --> 0:38:21,76
+others have developed, a trick
+for cutting electrons in half.
+
+
+767
+0:38:21,76 --> 0:38:23,43
+You can think about
+it this way.
+
+
+768
+0:38:23,43 --> 0:38:26,43
+We can imagine a wire which
+is superconducting.
+
+
+769
+0:38:26,43 --> 0:38:29,31
+"Superconducting" means the
+wire conducts electricity
+
+
+770
+0:38:29,31 --> 0:38:32,18
+without any resistance.
+
+
+771
+0:38:32,18 --> 0:38:34,2
+And there are really two types
+of superconducting conducting
+
+
+772
+0:38:34,2 --> 0:38:36,87
+wires, what we call conventional
+or ordinary
+
+
+773
+0:38:36,87 --> 0:38:39,82
+superconductors and something
+called a topological
+
+
+774
+0:38:39,82 --> 0:38:41,0
+superconductor.
+
+
+775
+0:38:41,0 --> 0:38:42,93
+And at the boundary between
+these two types of
+
+
+776
+0:38:42,93 --> 0:38:45,3
+superconductivity sits
+an object we
+
+
+777
+0:38:45,3 --> 0:38:47,96
+call a Mayorana fermion.
+
+
+778
+0:38:47,96 --> 0:38:51,3
+What's unusual about a
+topological superconductor is
+
+
+779
+0:38:51,3 --> 0:38:55,11
+that we can add one extra
+electron to this topological
+
+
+780
+0:38:55,11 --> 0:38:57,23
+superconductor and that
+electron dissolves and
+
+
+781
+0:38:57,23 --> 0:38:59,55
+disappears.
+
+
+782
+0:38:59,55 --> 0:39:2,66
+In so doing, it actually changes
+the state of this pair
+
+
+783
+0:39:2,66 --> 0:39:4,74
+of Mayorana fermions
+at the edge.
+
+
+784
+0:39:4,74 --> 0:39:8,95
+Now, each Mayorana fermion
+individually doesn't change in
+
+
+785
+0:39:8,95 --> 0:39:10,17
+any perceptible way.
+
+
+786
+0:39:10,17 --> 0:39:12,84
+But the pair of Mayorana
+fermions does.
+
+
+787
+0:39:12,84 --> 0:39:17,47
+And that can be used to store
+a qubit of information.
+
+
+788
+0:39:17,47 --> 0:39:19,63
+Experiments have been done
+to look for this effect.
+
+
+789
+0:39:19,63 --> 0:39:21,72
+They are not yet conclusive.
+
+
+790
+0:39:21,72 --> 0:39:25,36
+They'll have to be repeated
+and made more convincing.
+
+
+791
+0:39:25,36 --> 0:39:27,58
+But there are at least
+preliminary indications that
+
+
+792
+0:39:27,58 --> 0:39:31,0
+this type of a topological
+superconductivity in Mayorana
+
+
+793
+0:39:31,0 --> 0:39:34,71
+fermions can be realized in
+systems that experimental
+
+
+794
+0:39:34,71 --> 0:39:38,76
+physicists know how to build now
+using semiconductors and
+
+
+795
+0:39:38,76 --> 0:39:40,57
+superconductors.
+
+
+796
+0:39:40,57 --> 0:39:42,57
+Of course, we'd like to
+be able to process the
+
+
+797
+0:39:42,57 --> 0:39:44,96
+information by doing some
+kind of braiding of
+
+
+798
+0:39:44,96 --> 0:39:46,76
+these Mayorana fermions.
+
+
+799
+0:39:46,76 --> 0:39:48,56
+And that is in principle
+possible.
+
+
+800
+0:39:48,56 --> 0:39:53,16
+If we have a network of wires,
+we can manipulate the position
+
+
+801
+0:39:53,16 --> 0:39:56,78
+of a Mayorana fermion by
+adjusting some voltage gates,
+
+
+802
+0:39:56,78 --> 0:39:59,3
+which determines where the
+boundary is between
+
+
+803
+0:39:59,3 --> 0:40:2,28
+conventional and a topological
+superconductor.
+
+
+804
+0:40:2,28 --> 0:40:5,57
+So I can take one of the
+Mayorana fermions and park it
+
+
+805
+0:40:5,57 --> 0:40:9,2
+around the corner of a
+t-junction, move the first one
+
+
+806
+0:40:9,2 --> 0:40:12,7
+over to the left, and then
+unpark the other one.
+
+
+807
+0:40:12,7 --> 0:40:14,98
+And so if we've achieved an
+exchange of two Mayorana
+
+
+808
+0:40:14,98 --> 0:40:18,8
+fermions, that would be like an
+elementary logic gate in a
+
+
+809
+0:40:18,8 --> 0:40:19,69
+quantum computer.
+
+
+810
+0:40:19,69 --> 0:40:22,71
+So this type of experiment
+hasn't been done yet.
+
+
+811
+0:40:22,71 --> 0:40:24,33
+We're hopeful that it
+can be done in the
+
+
+812
+0:40:24,33 --> 0:40:26,1
+next couple of years.
+
+
+813
+0:40:26,1 --> 0:40:29,45
+And that would be a potential
+step towards building one type
+
+
+814
+0:40:29,45 --> 0:40:30,47
+of quantum hardware.
+
+
+815
+0:40:30,47 --> 0:40:33,84
+But apart from any technological
+implications, it
+
+
+816
+0:40:33,84 --> 0:40:38,69
+would be a real milestone for
+physics to realize this type
+
+
+817
+0:40:38,69 --> 0:40:42,21
+of exotic topological
+interaction between particles
+
+
+818
+0:40:42,21 --> 0:40:46,73
+in some system that physicists
+can control.
+
+
+819
+0:40:46,73 --> 0:40:48,64
+So I've talked about hardware.
+
+
+820
+0:40:48,64 --> 0:40:50,75
+I would like to mention that
+there are a variety of
+
+
+821
+0:40:50,75 --> 0:40:54,3
+different ways of developing
+hardware that are under
+
+
+822
+0:40:54,3 --> 0:40:57,27
+development, many of which
+look very interesting.
+
+
+823
+0:40:57,27 --> 0:41:1,79
+And in particular, it's timely
+to talk about ion-trap
+
+
+824
+0:41:1,79 --> 0:41:6,3
+technology because Dave
+Wineland's work in that area
+
+
+825
+0:41:6,3 --> 0:41:9,48
+was recognized by the most
+recent Nobel Prize in
+
+
+826
+0:41:9,48 --> 0:41:11,7
+physics last year.
+
+
+827
+0:41:11,7 --> 0:41:16,15
+Wineland and others have, over a
+couple of decades, developed
+
+
+828
+0:41:16,15 --> 0:41:17,61
+ion-trap technology.
+
+
+829
+0:41:17,61 --> 0:41:21,28
+They have the ability to store
+individual atoms, which have
+
+
+830
+0:41:21,28 --> 0:41:22,61
+an electron stripped off.
+
+
+831
+0:41:22,61 --> 0:41:23,785
+So they're electrically
+charged.
+
+
+832
+0:41:23,785 --> 0:41:25,17
+They're ions.
+
+
+833
+0:41:25,17 --> 0:41:26,75
+They can be stored with
+electromagnetic
+
+
+834
+0:41:26,75 --> 0:41:29,56
+fields for a long time.
+
+
+835
+0:41:29,56 --> 0:41:34,34
+And although each one is just
+an individual atom, we can
+
+
+836
+0:41:34,34 --> 0:41:39,18
+encode a qubit by imagining that
+each atom is either in
+
+
+837
+0:41:39,18 --> 0:41:42,14
+its lowest energy state, its
+ground state, or in some
+
+
+838
+0:41:42,14 --> 0:41:44,31
+long-lived, excited state.
+
+
+839
+0:41:44,31 --> 0:41:46,4
+And if I want to read out the
+state of the qubit, that's
+
+
+840
+0:41:46,4 --> 0:41:47,47
+actually pretty easy.
+
+
+841
+0:41:47,47 --> 0:41:52,29
+We can illuminate the ions
+with laser light.
+
+
+842
+0:41:52,29 --> 0:41:56,4
+And if we choose the frequency
+of the light suitably, then
+
+
+843
+0:41:56,4 --> 0:41:58,61
+the ions will remain dark
+it they're in the green
+
+
+844
+0:41:58,61 --> 0:42:0,28
+state of the qubit.
+
+
+845
+0:42:0,28 --> 0:42:2,37
+If they're in the red state,
+they will interact strongly
+
+
+846
+0:42:2,37 --> 0:42:4,1
+with the light and fluoresce.
+
+
+847
+0:42:4,1 --> 0:42:6,17
+So they'll glow visibly.
+
+
+848
+0:42:6,17 --> 0:42:9,53
+And we can read out a series
+of 0s and 1s that way, when
+
+
+849
+0:42:9,53 --> 0:42:12,27
+we're ready to read out
+our quantum computer.
+
+
+850
+0:42:12,27 --> 0:42:14,3
+But, of course, we want to do
+more than just read out.
+
+
+851
+0:42:14,3 --> 0:42:16,62
+We want to be able to process
+the information.
+
+
+852
+0:42:16,62 --> 0:42:18,38
+So we have to be able
+to perform logic
+
+
+853
+0:42:18,38 --> 0:42:21,12
+gates on pairs of qubits.
+
+
+854
+0:42:21,12 --> 0:42:22,475
+We've got to get the
+qubits to interact.
+
+
+855
+0:42:22,475 --> 0:42:26,73
+And in this case, we would use
+the electrostatic repulsion
+
+
+856
+0:42:26,73 --> 0:42:29,71
+between ions for that purpose.
+
+
+857
+0:42:29,71 --> 0:42:30,93
+We can do something like this.
+
+
+858
+0:42:30,93 --> 0:42:34,31
+I can pick out an ion in a trap
+and address it with a
+
+
+859
+0:42:34,31 --> 0:42:37,84
+pulse laser, choose the
+frequency and duration of that
+
+
+860
+0:42:37,84 --> 0:42:40,9
+laser pulse properly so that
+if the ion is in the red
+
+
+861
+0:42:40,9 --> 0:42:42,52
+state, nothing will happen.
+
+
+862
+0:42:42,52 --> 0:42:45,76
+If it's in the green state,
+the ion makes a transition
+
+
+863
+0:42:45,76 --> 0:42:47,83
+from the green to
+the red state.
+
+
+864
+0:42:47,83 --> 0:42:50,4
+And at the same time, because
+of those interactions, a
+
+
+865
+0:42:50,4 --> 0:42:54,55
+vibrational mode of all the ions
+in the trap is excited.
+
+
+866
+0:42:54,55 --> 0:42:57,57
+And then I can pick out another
+ion in the trap and
+
+
+867
+0:42:57,57 --> 0:43:0,7
+address it with the pulse laser,
+choose the frequency
+
+
+868
+0:43:0,7 --> 0:43:3,29
+and duration of that pulse in
+such a way that nothing will
+
+
+869
+0:43:3,29 --> 0:43:5,73
+happen if the ions are
+not vibrating.
+
+
+870
+0:43:5,73 --> 0:43:8,73
+But if they are vibrating,
+that ion will undergo a
+
+
+871
+0:43:8,73 --> 0:43:11,18
+transition from one state
+to the other and the
+
+
+872
+0:43:11,18 --> 0:43:13,13
+vibration will stop.
+
+
+873
+0:43:13,13 --> 0:43:14,4
+So what I've done is
+I've picked out
+
+
+874
+0:43:14,4 --> 0:43:16,95
+two ions in the trap.
+
+
+875
+0:43:16,95 --> 0:43:19,56
+And if the first ion
+had been red,
+
+
+876
+0:43:19,56 --> 0:43:20,89
+nothing would have happened.
+
+
+877
+0:43:20,89 --> 0:43:23,88
+If it's green, then both
+ions make a transition.
+
+
+878
+0:43:23,88 --> 0:43:27,22
+And so if I start out with a
+superposition of red and green
+
+
+879
+0:43:27,22 --> 0:43:30,29
+for the first ion, I get a
+correlated quantum state, an
+
+
+880
+0:43:30,29 --> 0:43:33,23
+entangled pair of qubits
+for the pair of ions.
+
+
+881
+0:43:33,23 --> 0:43:36,33
+And the quantum computation
+would consist of many such
+
+
+882
+0:43:36,33 --> 0:43:39,8
+steps, each one an entangling
+operation acting
+
+
+883
+0:43:39,8 --> 0:43:41,27
+on a pair of ions.
+
+
+884
+0:43:41,27 --> 0:43:44,36
+At least that cartoon is the way
+a theorist would describe
+
+
+885
+0:43:44,36 --> 0:43:46,52
+what goes on in Wineland's
+lab.
+
+
+886
+0:43:46,52 --> 0:43:50,2
+If you go to his lab at NIST in
+Boulder, Colorado and look
+
+
+887
+0:43:50,2 --> 0:43:51,72
+around, you're in for
+kind of a shock.
+
+
+888
+0:43:51,72 --> 0:43:55,28
+Because underlying that cartoon
+is a great deal of
+
+
+889
+0:43:55,28 --> 0:43:59,41
+technical complexity, which
+might make you pessimistic
+
+
+890
+0:43:59,41 --> 0:44:2,29
+about the prospects for scaling
+up ion traps to
+
+
+891
+0:44:2,29 --> 0:44:5,25
+thousands or millions
+of qubits.
+
+
+892
+0:44:5,25 --> 0:44:7,3
+Well, it's going to be
+very, very hard.
+
+
+893
+0:44:7,3 --> 0:44:11,19
+Wineland and others have an
+idea of how to do it.
+
+
+894
+0:44:11,19 --> 0:44:14,9
+But it looks very difficult.
+
+
+895
+0:44:14,9 --> 0:44:16,9
+We don't know whether that
+will succeed or not.
+
+
+896
+0:44:16,9 --> 0:44:18,71
+On the other hand, there are
+other ways of realizing qubits
+
+
+897
+0:44:18,71 --> 0:44:21,89
+physically, which are making
+rapid progress.
+
+
+898
+0:44:21,89 --> 0:44:24,21
+One makes use of
+superconductivity again, but
+
+
+899
+0:44:24,21 --> 0:44:26,32
+in a different way than I
+described in the case with
+
+
+900
+0:44:26,32 --> 0:44:28,5
+Mayorana fermions.
+
+
+901
+0:44:28,5 --> 0:44:30,85
+We can use superconducting
+wires to store quantum
+
+
+902
+0:44:30,85 --> 0:44:31,52
+information.
+
+
+903
+0:44:31,52 --> 0:44:34,89
+And although for practical
+reasons this isn't the best
+
+
+904
+0:44:34,89 --> 0:44:37,89
+way to do it, and you'll learn
+about better ways to do it
+
+
+905
+0:44:37,89 --> 0:44:44,7
+when John Martinez is here in
+a month or two, you can
+
+
+906
+0:44:44,7 --> 0:44:47,28
+visualize how we could store
+information by thinking of a
+
+
+907
+0:44:47,28 --> 0:44:50,15
+closed loop of superconducting
+wire with a
+
+
+908
+0:44:50,15 --> 0:44:52,28
+persistent current flowing.
+
+
+909
+0:44:52,28 --> 0:44:54,25
+And the current can flow
+either clockwise or
+
+
+910
+0:44:54,25 --> 0:44:55,76
+counterclockwise around
+the hoop.
+
+
+911
+0:44:55,76 --> 0:44:57,15
+Those are the two
+distinguishable
+
+
+912
+0:44:57,15 --> 0:44:58,82
+states of the qubit.
+
+
+913
+0:44:58,82 --> 0:45:1,26
+And what's remarkable about
+that encoding is that the
+
+
+914
+0:45:1,26 --> 0:45:4,99
+information is encoded in a
+collective state of billions
+
+
+915
+0:45:4,99 --> 0:45:6,1
+of electrons.
+
+
+916
+0:45:6,1 --> 0:45:10,38
+And yet, we can treat it like
+a single unit of quantum
+
+
+917
+0:45:10,38 --> 0:45:13,26
+information and protect it
+and manipulate it quite
+
+
+918
+0:45:13,26 --> 0:45:14,61
+accurately.
+
+
+919
+0:45:14,61 --> 0:45:17,6
+Another possibility is to use a
+single electron, which has a
+
+
+920
+0:45:17,6 --> 0:45:22,59
+magnetic field, a spin, where
+its north pole can be oriented
+
+
+921
+0:45:22,59 --> 0:45:23,59
+either up or down.
+
+
+922
+0:45:23,59 --> 0:45:24,965
+So that's a qubit.
+
+
+923
+0:45:24,965 --> 0:45:27,76
+And what's remarkable about that
+encoding is it's just one
+
+
+924
+0:45:27,76 --> 0:45:28,71
+little electron.
+
+
+925
+0:45:28,71 --> 0:45:33,44
+But yet we can address it,
+prepare its state, manipulate
+
+
+926
+0:45:33,44 --> 0:45:37,13
+its state, get two such qubits
+to interact with a good
+
+
+927
+0:45:37,13 --> 0:45:38,875
+accuracy using current
+technology.
+
+
+928
+0:45:38,875 --> 0:45:41,64
+And both of these technologies
+have been advancing
+
+
+929
+0:45:41,64 --> 0:45:44,24
+impressively in the last
+couple of years.
+
+
+930
+0:45:44,24 --> 0:45:46,53
+And there are a number of
+others, a number of other ways
+
+
+931
+0:45:46,53 --> 0:45:50,1
+that have been proposed and
+are under development for
+
+
+932
+0:45:50,1 --> 0:45:52,9
+proceeding with building
+quantum hardware.
+
+
+933
+0:45:52,9 --> 0:45:54,93
+And we just don't know at this
+stage which of these is going
+
+
+934
+0:45:54,93 --> 0:45:55,46
+to turn out.
+
+
+935
+0:45:55,46 --> 0:45:57,94
+Or maybe it'll be none of these
+and some other idea that
+
+
+936
+0:45:57,94 --> 0:45:59,5
+hasn't been proposed yet.
+
+
+937
+0:45:59,5 --> 0:46:2,31
+Each of these technologies has
+advantages and disadvantages.
+
+
+938
+0:46:2,31 --> 0:46:6,22
+Perhaps the systems of the
+future will use hybrid
+
+
+939
+0:46:6,22 --> 0:46:8,96
+technologies, where we combine
+together different types of
+
+
+940
+0:46:8,96 --> 0:46:14,24
+qubits so we can take advantage
+of the strong points
+
+
+941
+0:46:14,24 --> 0:46:15,49
+of each of these technologies.
+
+
+942
+0:46:15,49 --> 0:46:18,45
+
+
+
+943
+0:46:18,45 --> 0:46:21,23
+No matter how we build the
+hardware, we're going to have
+
+
+944
+0:46:21,23 --> 0:46:23,72
+to do error correction, as
+I described earlier.
+
+
+945
+0:46:23,72 --> 0:46:26,87
+And actually the best idea we
+have about how to do this
+
+
+946
+0:46:26,87 --> 0:46:30,8
+error correction in a reasonably
+efficient manner
+
+
+947
+0:46:30,8 --> 0:46:33,55
+goes back to these topological
+encodings of information that
+
+
+948
+0:46:33,55 --> 0:46:34,36
+I mentioned.
+
+
+949
+0:46:34,36 --> 0:46:37,44
+The best idea we have is that
+if you're going to use ions,
+
+
+950
+0:46:37,44 --> 0:46:41,36
+or electron spins, or
+superconducting circuits, you
+
+
+951
+0:46:41,36 --> 0:46:44,98
+can, by getting such systems
+to interact in a prescribed
+
+
+952
+0:46:44,98 --> 0:46:48,87
+way, make them behave like these
+topological media that I
+
+
+953
+0:46:48,87 --> 0:46:50,93
+described, that support
+anyons.
+
+
+954
+0:46:50,93 --> 0:46:53,46
+And so we can use that
+system to store
+
+
+955
+0:46:53,46 --> 0:46:56,57
+quantum information robustly.
+
+
+956
+0:46:56,57 --> 0:47:0,3
+But that will only work
+effectively if our gates are
+
+
+957
+0:47:0,3 --> 0:47:0,84
+good enough.
+
+
+958
+0:47:0,84 --> 0:47:4,93
+We have to have a low enough
+rate of error per gate in
+
+
+959
+0:47:4,93 --> 0:47:8,48
+order for these error
+correction ideas to
+
+
+960
+0:47:8,48 --> 0:47:11,94
+effectively protect a quantum
+computer against the damaging
+
+
+961
+0:47:11,94 --> 0:47:13,34
+effects of noise.
+
+
+962
+0:47:13,34 --> 0:47:17,35
+We would like the probability
+of error per gate to be
+
+
+963
+0:47:17,35 --> 0:47:21,89
+considerably less than 1% in
+order to have reasonably
+
+
+964
+0:47:21,89 --> 0:47:23,99
+efficient error correction
+schemes.
+
+
+965
+0:47:23,99 --> 0:47:26,55
+And the hardware is advancing
+and getting into that
+
+
+966
+0:47:26,55 --> 0:47:30,34
+interesting regime where we can
+do two qubit gates with
+
+
+967
+0:47:30,34 --> 0:47:32,77
+the required accuracy
+for quantum error
+
+
+968
+0:47:32,77 --> 0:47:37,5
+correction to be effective.
+
+
+969
+0:47:37,5 --> 0:47:40,68
+So how far do we have to go
+before we can build factoring
+
+
+970
+0:47:40,68 --> 0:47:45,7
+machines that can really
+outperform what can be done
+
+
+971
+0:47:45,7 --> 0:47:45,945
+with classical computers?
+
+
+972
+0:47:45,945 --> 0:47:49,5
+Well, let's say we want to break
+the RSA scheme as it's
+
+
+973
+0:47:49,5 --> 0:47:51,3
+usually implemented
+these days.
+
+
+974
+0:47:51,3 --> 0:47:55,7
+That means we have to factor
+a 2048-bit number.
+
+
+975
+0:47:55,7 --> 0:47:57,3
+Well, you know you can do that
+with a classical computer.
+
+
+976
+0:47:57,3 --> 0:48:0,18
+It's just question
+of resources.
+
+
+977
+0:48:0,18 --> 0:48:2,35
+John Martinez has done these
+estimates, which I'm
+
+
+978
+0:48:2,35 --> 0:48:4,36
+stealing from him.
+
+
+979
+0:48:4,36 --> 0:48:7,83
+If you want to factor a 2048-bit
+number, then you just
+
+
+980
+0:48:7,83 --> 0:48:11,29
+have to cover 1/4 of the land
+area of North America with a
+
+
+981
+0:48:11,29 --> 0:48:12,53
+server farm.
+
+
+982
+0:48:12,53 --> 0:48:15,655
+Now, that would cost about a
+million trillion dollars.
+
+
+983
+0:48:15,655 --> 0:48:18,63
+The power requirement would be
+about a million terawatts,
+
+
+984
+0:48:18,63 --> 0:48:21,26
+which is about 100,000
+times the world's
+
+
+985
+0:48:21,26 --> 0:48:23,46
+power output today.
+
+
+986
+0:48:23,46 --> 0:48:25,97
+The bad news is you have to run
+the algorithm for 10 years
+
+
+987
+0:48:25,97 --> 0:48:28,93
+to get the answer and it would
+consume the world's supply of
+
+
+988
+0:48:28,93 --> 0:48:31,7
+fossil fuels in a day.
+
+
+989
+0:48:31,7 --> 0:48:34,87
+So what if you tried to do this
+with the existing quantum
+
+
+990
+0:48:34,87 --> 0:48:39,3
+technology, which Martinez has
+been a leader in developing?
+
+
+991
+0:48:39,3 --> 0:48:41,2
+Well, we just do it
+by brute force.
+
+
+992
+0:48:41,2 --> 0:48:43,71
+If we want to factor this
+number, we need something like
+
+
+993
+0:48:43,71 --> 0:48:47,43
+10,000 logical qubits,
+error-free qubits.
+
+
+994
+0:48:47,43 --> 0:48:50,1
+In order to achieve that, based
+on the types of error
+
+
+995
+0:48:50,1 --> 0:48:53,83
+rates that we think are
+achievable or nearly
+
+
+996
+0:48:53,83 --> 0:48:56,15
+achievable with the current
+technology, we would need
+
+
+997
+0:48:56,15 --> 0:48:59,69
+about 10 million physical
+qubits, keep them far enough
+
+
+998
+0:48:59,69 --> 0:49:1,8
+apart so we have lots
+of room to cool them
+
+
+999
+0:49:1,8 --> 0:49:3,43
+and bring in wires.
+
+
+1000
+0:49:3,43 --> 0:49:6,68
+And then the current cost,
+Martinez estimates, of making
+
+
+1001
+0:49:6,68 --> 0:49:10,86
+a really good qubit in his
+lab is about $10,000.
+
+
+1002
+0:49:10,86 --> 0:49:14,62
+So we could get these 10 million
+physical qubits if we
+
+
+1003
+0:49:14,62 --> 0:49:17,27
+were willing to spend
+a $100 billion.
+
+
+1004
+0:49:17,27 --> 0:49:21,5
+And then we could run the
+algorithm in 16 hours.
+
+
+1005
+0:49:21,5 --> 0:49:23,34
+It would consume 10 megawatts.
+
+
+1006
+0:49:23,34 --> 0:49:23,75
+OK.
+
+
+1007
+0:49:23,75 --> 0:49:26,87
+So actually this is a somewhat
+rosier outlook than maybe the
+
+
+1008
+0:49:26,87 --> 0:49:29,57
+current situation because it's
+such a huge engineering
+
+
+1009
+0:49:29,57 --> 0:49:31,72
+challenge to scale things
+out when we don't know
+
+
+1010
+0:49:31,72 --> 0:49:33,51
+exactly how to do it.
+
+
+1011
+0:49:33,51 --> 0:49:38,14
+But it indicates that we can
+imagine in coming decades that
+
+
+1012
+0:49:38,14 --> 0:49:40,28
+this can really be a practical
+technology.
+
+
+1013
+0:49:40,28 --> 0:49:42,296
+We've just got to bring
+the cost down a
+
+
+1014
+0:49:42,296 --> 0:49:44,42
+bit, below $100 billion.
+
+
+1015
+0:49:44,42 --> 0:49:49,11
+And you'll hear more about
+that from Martinez.
+
+
+1016
+0:49:49,11 --> 0:49:50,97
+So there are three questions
+about quantum computers than
+
+
+1017
+0:49:50,97 --> 0:49:52,64
+I've discussed so far.
+
+
+1018
+0:49:52,64 --> 0:49:53,97
+Why do we want to build one?
+
+
+1019
+0:49:53,97 --> 0:49:56,24
+Well, for one thing, because
+quantum computers would be
+
+
+1020
+0:49:56,24 --> 0:49:59,98
+able, perhaps, to simulate any
+process that occurs in the
+
+
+1021
+0:49:59,98 --> 0:50:0,8
+quantum world.
+
+
+1022
+0:50:0,8 --> 0:50:3,92
+That could be important in
+chemistry, and material
+
+
+1023
+0:50:3,92 --> 0:50:6,37
+science, and from a physicist's
+point of view, in
+
+
+1024
+0:50:6,37 --> 0:50:10,38
+simulating exotic physical
+phenomenon, that particle
+
+
+1025
+0:50:10,38 --> 0:50:14,61
+physicists like me, or like
+I used to be, care about.
+
+
+1026
+0:50:14,61 --> 0:50:15,9
+Can we really build one?
+
+
+1027
+0:50:15,9 --> 0:50:18,32
+Well, we don't know of an
+obstacle in principle that
+
+
+1028
+0:50:18,32 --> 0:50:21,54
+will prevent us from succeeding,
+if we use these
+
+
+1029
+0:50:21,54 --> 0:50:23,92
+principles of quantum
+correction, and we can make
+
+
+1030
+0:50:23,92 --> 0:50:24,96
+the hardware good enough.
+
+
+1031
+0:50:24,96 --> 0:50:27,51
+And as far as we can tell,
+it ought to work.
+
+
+1032
+0:50:27,51 --> 0:50:28,62
+How are we going to do it?
+
+
+1033
+0:50:28,62 --> 0:50:29,88
+That's still far from clear.
+
+
+1034
+0:50:29,88 --> 0:50:34,0
+These different approaches to
+quantum hardware that I
+
+
+1035
+0:50:34,0 --> 0:50:36,94
+quickly summarized for you
+are all being developed.
+
+
+1036
+0:50:36,94 --> 0:50:38,4
+It's important that they
+all be developed.
+
+
+1037
+0:50:38,4 --> 0:50:41,46
+Because we really don't know
+which is going to turn out, if
+
+
+1038
+0:50:41,46 --> 0:50:46,21
+any of them, to be the best
+scalable technology.
+
+
+1039
+0:50:46,21 --> 0:50:48,46
+But you know, I am
+not an engineer.
+
+
+1040
+0:50:48,46 --> 0:50:49,72
+I'm a theoretical physicist.
+
+
+1041
+0:50:49,72 --> 0:50:54,52
+So I get excited about the
+potential ways in which what
+
+
+1042
+0:50:54,52 --> 0:50:57,62
+we're learning by thinking about
+quantum computing can be
+
+
+1043
+0:50:57,62 --> 0:51:2,23
+applied to problems at the
+frontiers of physics.
+
+
+1044
+0:51:2,23 --> 0:51:4,52
+And there are many applications
+of quantum
+
+
+1045
+0:51:4,52 --> 0:51:7,28
+information processing
+to physics.
+
+
+1046
+0:51:7,28 --> 0:51:10,25
+Many of them have to do with
+what we call the monogamy of
+
+
+1047
+0:51:10,25 --> 0:51:13,77
+entanglement, a difference
+between classical and quantum
+
+
+1048
+0:51:13,77 --> 0:51:17,85
+correlations that I haven't
+emphasized so much so far.
+
+
+1049
+0:51:17,85 --> 0:51:20,48
+Classical correlations
+are polygamous.
+
+
+1050
+0:51:20,48 --> 0:51:23,48
+They can be shared
+by many parties.
+
+
+1051
+0:51:23,48 --> 0:51:26,85
+Adam and Betty both read
+the newspaper.
+
+
+1052
+0:51:26,85 --> 0:51:28,4
+They have the same
+information.
+
+
+1053
+0:51:28,4 --> 0:51:30,65
+They become correlated
+with one another.
+
+
+1054
+0:51:30,65 --> 0:51:33,62
+And nothing prevents
+Charlie from
+
+
+1055
+0:51:33,62 --> 0:51:35,1
+reading that same newspaper.
+
+
+1056
+0:51:35,1 --> 0:51:36,67
+So now, all three of them
+are correlated.
+
+
+1057
+0:51:36,67 --> 0:51:39,11
+And Charlie is just as strongly
+correlated with Betty
+
+
+1058
+0:51:39,11 --> 0:51:42,46
+and with Adam, as Adam and Betty
+are with one another.
+
+
+1059
+0:51:42,46 --> 0:51:44,72
+And the rest of us in the room
+can read the newspaper.
+
+
+1060
+0:51:44,72 --> 0:51:47,88
+And everybody joins in
+on the correlation.
+
+
+1061
+0:51:47,88 --> 0:51:49,53
+Quantum correlations
+are different.
+
+
+1062
+0:51:49,53 --> 0:51:51,6
+We say they are monogamous.
+
+
+1063
+0:51:51,6 --> 0:51:53,8
+They are harder to share.
+
+
+1064
+0:51:53,8 --> 0:51:57,77
+If Adam and Betty are strongly
+entangled, if they are fully
+
+
+1065
+0:51:57,77 --> 0:52:1,19
+entangled, as entangled as
+possible with one another,
+
+
+1066
+0:52:1,19 --> 0:52:4,52
+then neither Adam nor Betty
+has the ability to be
+
+
+1067
+0:52:4,52 --> 0:52:8,27
+correlated with any
+other system.
+
+
+1068
+0:52:8,27 --> 0:52:12,22
+Likewise, if Betty is fully
+entangled with Charlie, then
+
+
+1069
+0:52:12,22 --> 0:52:17,32
+Betty and Charlie cannot be
+correlated at all with Adam.
+
+
+1070
+0:52:17,32 --> 0:52:20,58
+So that's what we mean when
+we say the entanglement is
+
+
+1071
+0:52:20,58 --> 0:52:21,24
+monogamous.
+
+
+1072
+0:52:21,24 --> 0:52:24,32
+It can be shared two ways.
+
+
+1073
+0:52:24,32 --> 0:52:27,42
+And that monogamy can be
+frustrating because Betty
+
+
+1074
+0:52:27,42 --> 0:52:31,6
+might want to be entangled with
+both Adam and Charlie.
+
+
+1075
+0:52:31,6 --> 0:52:33,98
+But if she wants to entangle
+with Charlie, she has to
+
+
+1076
+0:52:33,98 --> 0:52:36,8
+sacrifice some of her
+entanglement with Adam in
+
+
+1077
+0:52:36,8 --> 0:52:38,93
+order to do so.
+
+
+1078
+0:52:38,93 --> 0:52:43,32
+That feature, that monogamy
+of entanglement, has many
+
+
+1079
+0:52:43,32 --> 0:52:44,69
+ramifications.
+
+
+1080
+0:52:44,69 --> 0:52:47,29
+One is in quantum
+cryptography.
+
+
+1081
+0:52:47,29 --> 0:52:51,72
+If Adam and Betty are nearly
+fully entangled with one
+
+
+1082
+0:52:51,72 --> 0:52:54,66
+another, if they can verify
+they are very highly
+
+
+1083
+0:52:54,66 --> 0:52:58,4
+entangled, for example by
+playing Bell's game and
+
+
+1084
+0:52:58,4 --> 0:53:1,49
+winning, and then they will
+know that they have very
+
+
+1085
+0:53:1,49 --> 0:53:4,56
+little correlation with anyone
+in the outside world who would
+
+
+1086
+0:53:4,56 --> 0:53:6,93
+be a potential eavesdropper.
+
+
+1087
+0:53:6,93 --> 0:53:8,93
+They can use their entanglement
+to generate a
+
+
+1088
+0:53:8,93 --> 0:53:12,62
+secret key that they share, a
+random string of numbers that
+
+
+1089
+0:53:12,62 --> 0:53:15,87
+Adam has and Betty has, but
+which the outside world knows
+
+
+1090
+0:53:15,87 --> 0:53:16,96
+very little about.
+
+
+1091
+0:53:16,96 --> 0:53:19,75
+And then with a little bit of
+processing, they can amplify
+
+
+1092
+0:53:19,75 --> 0:53:24,32
+that privacy so that they are
+assured that the world outside
+
+
+1093
+0:53:24,32 --> 0:53:25,68
+knows nothing about their key.
+
+
+1094
+0:53:25,68 --> 0:53:28,9
+And they can safely use it
+to encrypt and decrypt a
+
+
+1095
+0:53:28,9 --> 0:53:31,3
+classical message.
+
+
+1096
+0:53:31,3 --> 0:53:34,74
+With information theoretic
+security, no attack by the
+
+
+1097
+0:53:34,74 --> 0:53:39,46
+eavesdropper will succeed in
+breaking such a protocol.
+
+
+1098
+0:53:39,46 --> 0:53:43,27
+Monogamy is very important in
+the study of quantum matter.
+
+
+1099
+0:53:43,27 --> 0:53:45,5
+We might have a system
+of many electrons.
+
+
+1100
+0:53:45,5 --> 0:53:47,98
+And the interactions among the
+electron make them want to
+
+
+1101
+0:53:47,98 --> 0:53:49,56
+entangle with one another.
+
+
+1102
+0:53:49,56 --> 0:53:52,96
+But if electron A is to entangle
+with electron B, then
+
+
+1103
+0:53:52,96 --> 0:53:55,67
+it's going to give up some of
+its ability to entangle with
+
+
+1104
+0:53:55,67 --> 0:53:57,37
+other electrons in the
+system that it
+
+
+1105
+0:53:57,37 --> 0:53:58,94
+wants to entangle with.
+
+
+1106
+0:53:58,94 --> 0:54:3,98
+And so the system will have to
+arrive at some compromise to
+
+
+1107
+0:54:3,98 --> 0:54:7,27
+relieve that frustration, that
+inability to entangle with
+
+
+1108
+0:54:7,27 --> 0:54:10,86
+many particles at once to the
+best degree possible.
+
+
+1109
+0:54:10,86 --> 0:54:15,1
+And there are qualitatively
+different ways in which the
+
+
+1110
+0:54:15,1 --> 0:54:19,74
+many-body state can find and
+entangled a state of matter,
+
+
+1111
+0:54:19,74 --> 0:54:22,81
+which correspond to different
+phases of matter, that can't
+
+
+1112
+0:54:22,81 --> 0:54:25,53
+be smoothly changed
+one to another.
+
+
+1113
+0:54:25,53 --> 0:54:28,45
+Classifying the different phases
+of quantum matter is
+
+
+1114
+0:54:28,45 --> 0:54:30,84
+really a problem in
+understanding the types of
+
+
+1115
+0:54:30,84 --> 0:54:34,33
+entanglement that can be shared
+by many particles.
+
+
+1116
+0:54:34,33 --> 0:54:37,5
+And monogamy is also important
+in the study of black hole
+
+
+1117
+0:54:37,5 --> 0:54:40,77
+physics, which has been a
+subject that's been quite
+
+
+1118
+0:54:40,77 --> 0:54:42,73
+active over the last
+year or so.
+
+
+1119
+0:54:42,73 --> 0:54:44,59
+Let me just take a few minutes
+to tell you about
+
+
+1120
+0:54:44,59 --> 0:54:46,92
+what's been going on.
+
+
+1121
+0:54:46,92 --> 0:54:49,91
+Actually, we've known for a long
+time, nearly 40 years,
+
+
+1122
+0:54:49,91 --> 0:54:52,29
+that black holes, although
+classically they are objects
+
+
+1123
+0:54:52,29 --> 0:54:56,45
+from which nothing can escape,
+actually emit radiation
+
+
+1124
+0:54:56,45 --> 0:54:57,63
+because of quantum effects.
+
+
+1125
+0:54:57,63 --> 0:55:1,25
+We think a black hole, if it
+forms from a collapse of
+
+
+1126
+0:55:1,25 --> 0:55:5,68
+matter, will eventually
+evaporate completely through
+
+
+1127
+0:55:5,68 --> 0:55:9,19
+this emission of Hawking
+radiation.
+
+
+1128
+0:55:9,19 --> 0:55:13,29
+And normally when systems get
+thermalized and behave like
+
+
+1129
+0:55:13,29 --> 0:55:15,74
+they have some characteristic
+temperature and radiate, like
+
+
+1130
+0:55:15,74 --> 0:55:20,51
+black holes do, we believe
+that such processes are
+
+
+1131
+0:55:20,51 --> 0:55:22,48
+microscopically reversible.
+
+
+1132
+0:55:22,48 --> 0:55:25,3
+In principle, they could
+be run backwards.
+
+
+1133
+0:55:25,3 --> 0:55:27,79
+Information doesn't really
+get destroyed.
+
+
+1134
+0:55:27,79 --> 0:55:30,58
+But it gets scrambled, put
+into a form which is
+
+
+1135
+0:55:30,58 --> 0:55:31,97
+very hard to decode.
+
+
+1136
+0:55:31,97 --> 0:55:34,15
+But which, in principle,
+can be decoded.
+
+
+1137
+0:55:34,15 --> 0:55:37,1
+So we think, black holes, like
+other quantum systems, ought
+
+
+1138
+0:55:37,1 --> 0:55:41,42
+not to destroy information, just
+scramble it, making it
+
+
+1139
+0:55:41,42 --> 0:55:43,1
+hard to decode.
+
+
+1140
+0:55:43,1 --> 0:55:45,21
+But black holes are different
+than other systems in an
+
+
+1141
+0:55:45,21 --> 0:55:45,99
+important way.
+
+
+1142
+0:55:45,99 --> 0:55:48,61
+They have a highly deformed
+geometry, which I've tried to
+
+
+1143
+0:55:48,61 --> 0:55:50,64
+indicate here in this diagram.
+
+
+1144
+0:55:50,64 --> 0:55:52,77
+Here, time is running upward.
+
+
+1145
+0:55:52,77 --> 0:55:57,66
+This black line represents the
+event horizon, the boundary
+
+
+1146
+0:55:57,66 --> 0:56:0,62
+between the outside and the
+inside of a black hole.
+
+
+1147
+0:56:0,62 --> 0:56:4,41
+And this green line is a
+slice of constant time,
+
+
+1148
+0:56:4,41 --> 0:56:5,91
+a space-like surface.
+
+
+1149
+0:56:5,91 --> 0:56:8,17
+But just think of it as
+one particular time.
+
+
+1150
+0:56:8,17 --> 0:56:11,71
+But because of the distorted
+geometry, it has
+
+
+1151
+0:56:11,71 --> 0:56:13,3
+this unusual shape.
+
+
+1152
+0:56:13,3 --> 0:56:15,57
+Which means that the collapsing
+matter from which
+
+
+1153
+0:56:15,57 --> 0:56:19,14
+the black hole form, and most
+of the outgoing Hawking
+
+
+1154
+0:56:19,14 --> 0:56:22,73
+radiation emitted as the black
+hole evaporates, are at the
+
+
+1155
+0:56:22,73 --> 0:56:26,76
+same time, cross the single
+space-like slice.
+
+
+1156
+0:56:26,76 --> 0:56:29,45
+And so if information really
+comes out of a black hole in a
+
+
+1157
+0:56:29,45 --> 0:56:32,44
+highly scrambled form, it means
+information at the same
+
+
+1158
+0:56:32,44 --> 0:56:35,11
+time is at two different places,
+inside the black hole
+
+
+1159
+0:56:35,11 --> 0:56:35,71
+and outside.
+
+
+1160
+0:56:35,71 --> 0:56:38,74
+But remember, I told you that
+we can't copy quantum
+
+
+1161
+0:56:38,74 --> 0:56:39,92
+information.
+
+
+1162
+0:56:39,92 --> 0:56:41,18
+So we're kind of stuck here.
+
+
+1163
+0:56:41,18 --> 0:56:44,39
+If black holes don't destroy
+information, then it seems
+
+
+1164
+0:56:44,39 --> 0:56:46,47
+that they are a quantum
+copying machine.
+
+
+1165
+0:56:46,47 --> 0:56:49,44
+That they were able to clone
+a quantum state, taking the
+
+
+1166
+0:56:49,44 --> 0:56:52,2
+information encoded in the
+collapsing matter and printing
+
+
+1167
+0:56:52,2 --> 0:56:54,165
+it in this outgoing
+Hawking radiation.
+
+
+1168
+0:56:54,165 --> 0:56:56,86
+And that caused great
+puzzlement.
+
+
+1169
+0:56:56,86 --> 0:57:0,68
+But for about 20 years, we have
+had an idea about how the
+
+
+1170
+0:57:0,68 --> 0:57:5,12
+situation is resolved, which
+is called black hole
+
+
+1171
+0:57:5,12 --> 0:57:6,8
+complementarity.
+
+
+1172
+0:57:6,8 --> 0:57:8,55
+It's a kind of crazy idea.
+
+
+1173
+0:57:8,55 --> 0:57:15,47
+It is that we should not think
+of the outside system, the
+
+
+1174
+0:57:15,47 --> 0:57:18,59
+Hawking radiation, and the
+inside system, the collapsing
+
+
+1175
+0:57:18,59 --> 0:57:22,92
+matter, as two different
+parts of a big system.
+
+
+1176
+0:57:22,92 --> 0:57:26,38
+We should think of them as
+two complementary ways of
+
+
+1177
+0:57:26,38 --> 0:57:28,2
+describing the same system.
+
+
+1178
+0:57:28,2 --> 0:57:31,21
+There's, so to speak, door
+number one and door number two
+
+
+1179
+0:57:31,21 --> 0:57:34,53
+of black hole physics, two
+complementary descriptions of
+
+
+1180
+0:57:34,53 --> 0:57:36,58
+the same system.
+
+
+1181
+0:57:36,58 --> 0:57:39,49
+And that's not at all obvious.
+
+
+1182
+0:57:39,49 --> 0:57:43,76
+And that we actually need to
+understand the black holes
+
+
+1183
+0:57:43,76 --> 0:57:47,21
+better to clarify exactly
+why it occurs.
+
+
+1184
+0:57:47,21 --> 0:57:49,99
+But the idea is that this
+isn't really cloning.
+
+
+1185
+0:57:49,99 --> 0:57:50,77
+It's just we have two
+
+
+1186
+0:57:50,77 --> 0:57:52,24
+descriptions of the same physics.
+
+
+1187
+0:57:52,24 --> 0:57:55,12
+One is appropriate for someone
+who falls into the black hole,
+
+
+1188
+0:57:55,12 --> 0:57:56,8
+the description of the
+information in
+
+
+1189
+0:57:56,8 --> 0:57:58,26
+the collapsing body.
+
+
+1190
+0:57:58,26 --> 0:58:1,6
+The other is appropriate for
+someone who stays outside.
+
+
+1191
+0:58:1,6 --> 0:58:2,57
+That's the information
+imprinted
+
+
+1192
+0:58:2,57 --> 0:58:4,1
+in the Hawking radiation.
+
+
+1193
+0:58:4,1 --> 0:58:7,97
+This idea of a black hole
+complementarity is intended to
+
+
+1194
+0:58:7,97 --> 0:58:11,16
+reconcile three beliefs
+which seem reasonable.
+
+
+1195
+0:58:11,16 --> 0:58:12,88
+Black holes don't destroy
+information.
+
+
+1196
+0:58:12,88 --> 0:58:15,34
+They merely scramble it.
+
+
+1197
+0:58:15,34 --> 0:58:19,42
+Secondly, that an observer who
+falls through the horizon, the
+
+
+1198
+0:58:19,42 --> 0:58:21,99
+boundary between inside and
+outside of a black hole,
+
+
+1199
+0:58:21,99 --> 0:58:24,95
+doesn't notice anything unusual
+upon entering the
+
+
+1200
+0:58:24,95 --> 0:58:26,12
+black hole.
+
+
+1201
+0:58:26,12 --> 0:58:27,1
+Everything seems normal.
+
+
+1202
+0:58:27,1 --> 0:58:31,6
+Until later on, when the party
+will inevitably be torn apart
+
+
+1203
+0:58:31,6 --> 0:58:34,51
+by very strong gravitational
+forces, deep
+
+
+1204
+0:58:34,51 --> 0:58:36,57
+inside the black hole.
+
+
+1205
+0:58:36,57 --> 0:58:39,95
+And physics seems perfectly
+normal from the point of view
+
+
+1206
+0:58:39,95 --> 0:58:43,27
+of someone who stays outside
+the black hole.
+
+
+1207
+0:58:43,27 --> 0:58:46,57
+But what has recently been
+argued is that these three
+
+
+1208
+0:58:46,57 --> 0:58:49,82
+things can't simultaneously
+be true.
+
+
+1209
+0:58:49,82 --> 0:58:51,4
+And the problem is this.
+
+
+1210
+0:58:51,4 --> 0:58:53,29
+That if we consider an old black
+hole, which has been
+
+
+1211
+0:58:53,29 --> 0:58:56,4
+radiated for a long time,
+information is starting to
+
+
+1212
+0:58:56,4 --> 0:58:58,3
+leak out of it we
+it evaporates.
+
+
+1213
+0:58:58,3 --> 0:59:2,34
+That means that the recently
+emitted radiation, system B,
+
+
+1214
+0:59:2,34 --> 0:59:5,29
+has to be highly entangled
+with radiation that was
+
+
+1215
+0:59:5,29 --> 0:59:8,17
+emitted earlier, which
+I called system C.
+
+
+1216
+0:59:8,17 --> 0:59:10,71
+But we also know that if a
+freely falling observer,
+
+
+1217
+0:59:10,71 --> 0:59:13,57
+falling through the horizon,
+sees not a lot of particles,
+
+
+1218
+0:59:13,57 --> 0:59:16,57
+but something that just looks
+like empty space, empty space
+
+
+1219
+0:59:16,57 --> 0:59:19,19
+actually has a lot of
+entanglement between and
+
+
+1220
+0:59:19,19 --> 0:59:23,22
+outside the black hole, B, and
+the region inside, A. So this
+
+
+1221
+0:59:23,22 --> 0:59:26,28
+recently emitted radiation has
+to be highly entangled with
+
+
+1222
+0:59:26,28 --> 0:59:27,52
+the inside of the black hole.
+
+
+1223
+0:59:27,52 --> 0:59:29,85
+It also has to be
+highly entangled
+
+
+1224
+0:59:29,85 --> 0:59:31,24
+with earlier radiation.
+
+
+1225
+0:59:31,24 --> 0:59:32,52
+And that's a problem.
+
+
+1226
+0:59:32,52 --> 0:59:35,55
+Because system B can't be highly
+entangled with both A
+
+
+1227
+0:59:35,55 --> 0:59:38,14
+and C. That violates monogamy.
+
+
+1228
+0:59:38,14 --> 0:59:40,97
+And so we're really confused
+about what this means.
+
+
+1229
+0:59:40,97 --> 0:59:44,5
+What has been suggested is
+that we should give up on
+
+
+1230
+0:59:44,5 --> 0:59:47,9
+assumption 2, that freely
+falling observers don't think
+
+
+1231
+0:59:47,9 --> 0:59:51,51
+everything is smooth and nice
+and normal when they cross
+
+
+1232
+0:59:51,51 --> 0:59:53,5
+from the outside to the inside
+in the black hole.
+
+
+1233
+0:59:53,5 --> 0:59:55,29
+In fact, there is no inside.
+
+
+1234
+0:59:55,29 --> 0:59:58,64
+And they just hit a
+seething firewall.
+
+
+1235
+0:59:58,64 --> 1:0:2,76
+The singularity, where you get
+torn apart, is actually right
+
+
+1236
+1:0:2,76 --> 1:0:4,13
+at the horizon.
+
+
+1237
+1:0:4,13 --> 1:0:8,24
+That's the suggestion which has
+been promoted recently.
+
+
+1238
+1:0:8,24 --> 1:0:8,96
+And it's crazy.
+
+
+1239
+1:0:8,96 --> 1:0:12,3
+Because if you just solve
+the equations of general
+
+
+1240
+1:0:12,3 --> 1:0:14,6
+relativity to see what the
+geometry of a black hole
+
+
+1241
+1:0:14,6 --> 1:0:16,36
+should be, that's not
+what you find.
+
+
+1242
+1:0:16,36 --> 1:0:21,4
+You find in fact the geometry
+should be very smooth as you
+
+
+1243
+1:0:21,4 --> 1:0:22,7
+cross the horizon.
+
+
+1244
+1:0:22,7 --> 1:0:24,23
+So we're really confused
+about this.
+
+
+1245
+1:0:24,23 --> 1:0:27,59
+The reason I'm telling you about
+it is that this debate
+
+
+1246
+1:0:27,59 --> 1:0:29,11
+could have occurred
+20 years ago.
+
+
+1247
+1:0:29,11 --> 1:0:32,43
+But it's occurring now I think
+because the gravitational
+
+
+1248
+1:0:32,43 --> 1:0:35,2
+physicists and string theorists
+are more accustomed
+
+
+1249
+1:0:35,2 --> 1:0:38,58
+now to thinking about their
+physical systems from the
+
+
+1250
+1:0:38,58 --> 1:0:41,51
+point of view of quantum
+information and entanglement.
+
+
+1251
+1:0:41,51 --> 1:0:43,66
+And that's a change which is
+occurring throughout many
+
+
+1252
+1:0:43,66 --> 1:0:45,41
+areas of physics.
+
+
+1253
+1:0:45,41 --> 1:0:47,37
+Physics is a broad subject.
+
+
+1254
+1:0:47,37 --> 1:0:50,42
+We have the frontier of short
+distances, in which we study
+
+
+1255
+1:0:50,42 --> 1:0:53,44
+the elementary particles and
+their interactions; the
+
+
+1256
+1:0:53,44 --> 1:0:56,43
+frontier of long distances,
+the evolution of the whole
+
+
+1257
+1:0:56,43 --> 1:1:0,5
+universe and the properties
+of the early universe.
+
+
+1258
+1:1:0,5 --> 1:1:2,93
+But there's another frontier,
+also very exciting and very
+
+
+1259
+1:1:2,93 --> 1:1:5,6
+active, which you could call
+the complexity frontier or
+
+
+1260
+1:1:5,6 --> 1:1:9,5
+entanglement frontier, the
+study of highly entangled
+
+
+1261
+1:1:9,5 --> 1:1:11,7
+systems with many parts.
+
+
+1262
+1:1:11,7 --> 1:1:13,18
+That encompasses quantum
+computing, trying to
+
+
+1263
+1:1:13,18 --> 1:1:15,77
+understand phases of quantum
+matter, and all the different
+
+
+1264
+1:1:15,77 --> 1:1:19,67
+ways in which systems of many
+particles can be entangled.
+
+
+1265
+1:1:19,67 --> 1:1:21,86
+That's an area in which
+we can expect great
+
+
+1266
+1:1:21,86 --> 1:1:24,31
+progress in this century.
+
+
+1267
+1:1:24,31 --> 1:1:28,32
+At Caltech, we have a center
+devoted to the exploration of
+
+
+1268
+1:1:28,32 --> 1:1:31,72
+this entanglement frontier
+from many points of view.
+
+
+1269
+1:1:31,72 --> 1:1:37,6
+And the IQIM has a slogan, which
+is nature is subtle,
+
+
+1270
+1:1:37,6 --> 1:1:42,24
+where we are playing on
+Einstein's famous statement,
+
+
+1271
+1:1:42,24 --> 1:1:45,93
+"Subtle is the Lord, but
+malicious He is not."
+
+
+1272
+1:1:45,93 --> 1:1:49,81
+Einstein, for all his audacity
+and genius, underestimated the
+
+
+1273
+1:1:49,81 --> 1:1:52,65
+subtlety of nature when he
+dismissed quantum entanglement
+
+
+1274
+1:1:52,65 --> 1:1:55,13
+as spooky action
+at a distance.
+
+
+1275
+1:1:55,13 --> 1:1:57,77
+And what we're trying to do in
+quantum information science
+
+
+1276
+1:1:57,77 --> 1:2:2,33
+these days is to enjoy and
+relish and explore and exploit
+
+
+1277
+1:2:2,33 --> 1:2:6,1
+ultimately the subtlety of the
+quantum world and all its
+
+
+1278
+1:2:6,1 --> 1:2:7,82
+facets and ramifications.
+
+
+1279
+1:2:7,82 --> 1:2:9,7
+Thanks for listening
+to me today.
+
+
+1280
+1:2:9,7 --> 1:2:17,99
+
+
+
+1281
+1:2:17,99 --> 1:2:19,12
+AUDIENCE: So I remember--
+
+
+1282
+1:2:19,12 --> 1:2:22,9
+I noticed thinking when you
+were talking about how you
+
+
+1283
+1:2:22,9 --> 1:2:26,26
+have to isolate the material,
+the quantum computer, from
+
+
+1284
+1:2:26,26 --> 1:2:31,17
+outside observation that my
+immediate responses, and I
+
+
+1285
+1:2:31,17 --> 1:2:33,5
+thought as an engineer, was
+like man, that's got to be
+
+
+1286
+1:2:33,5 --> 1:2:37,52
+really tough to debug if
+something's going wrong.
+
+
+1287
+1:2:37,52 --> 1:2:40,64
+So I was wondering so what are
+the implications there for how
+
+
+1288
+1:2:40,64 --> 1:2:41,485
+you would program it?
+
+
+1289
+1:2:41,485 --> 1:2:43,85
+Do you have to have like a
+mathematical proof that your
+
+
+1290
+1:2:43,85 --> 1:2:45,1
+program is correct?
+
+
+1291
+1:2:45,1 --> 1:2:48,34
+Because it doesn't seem like
+you could examine what it's
+
+
+1292
+1:2:48,34 --> 1:2:49,59
+doing when it's executing.
+
+
+1293
+1:2:49,59 --> 1:2:52,24
+
+
+
+1294
+1:2:52,24 --> 1:2:54,88
+JOHN PRESKILL: So the question
+is if what I said is true,
+
+
+1295
+1:2:54,88 --> 1:2:59,15
+that in order for a quantum
+computer to work it has to be
+
+
+1296
+1:2:59,15 --> 1:3:1,9
+completely isolated from the
+outside world and we're not
+
+
+1297
+1:3:1,9 --> 1:3:5,66
+able to look inside at what it's
+doing or in the course of
+
+
+1298
+1:3:5,66 --> 1:3:7,73
+a computation, how would
+we ever debug it?
+
+
+1299
+1:3:7,73 --> 1:3:9,7
+How would we as--
+
+
+1300
+1:3:9,7 --> 1:3:10,98
+or you as engineers--
+
+
+1301
+1:3:10,98 --> 1:3:15,58
+manage to figure out how to
+fix it when it's broken?
+
+
+1302
+1:3:15,58 --> 1:3:16,2
+Well, the answer--
+
+
+1303
+1:3:16,2 --> 1:3:18,95
+I mean I don't think there's
+any answer that's
+
+
+1304
+1:3:18,95 --> 1:3:20,17
+surprising to you.
+
+
+1305
+1:3:20,17 --> 1:3:24,17
+You would have to, in the
+process of developing a
+
+
+1306
+1:3:24,17 --> 1:3:29,35
+quantum computer, benchmark
+different subroutines by
+
+
+1307
+1:3:29,35 --> 1:3:31,35
+running them and seeing how
+well they performed.
+
+
+1308
+1:3:31,35 --> 1:3:32,47
+You can break it all.
+
+
+1309
+1:3:32,47 --> 1:3:35,33
+The big computation you can't
+simulate with a classical
+
+
+1310
+1:3:35,33 --> 1:3:37,84
+computer because that's the
+whole reason you're building a
+
+
+1311
+1:3:37,84 --> 1:3:39,38
+quantum computer.
+
+
+1312
+1:3:39,38 --> 1:3:41,68
+The pieces of a computation,
+you can simulate.
+
+
+1313
+1:3:41,68 --> 1:3:44,41
+You can compare such simulations
+to the operation
+
+
+1314
+1:3:44,41 --> 1:3:45,82
+of the quantum hardware.
+
+
+1315
+1:3:45,82 --> 1:3:48,2
+Then you can try to scale
+up to larger and
+
+
+1316
+1:3:48,2 --> 1:3:49,4
+larger quantum circuits.
+
+
+1317
+1:3:49,4 --> 1:3:52,67
+And in cases where you're doing
+computations for which
+
+
+1318
+1:3:52,67 --> 1:3:54,96
+it is easy to know what the
+answer is, make sure you're
+
+
+1319
+1:3:54,96 --> 1:3:55,86
+getting the right answer.
+
+
+1320
+1:3:55,86 --> 1:4:0,94
+If it's not working, then look
+at the individual parts of
+
+
+1321
+1:4:0,94 --> 1:4:5,2
+that circuit and try to improve
+their performance.
+
+
+1322
+1:4:5,2 --> 1:4:6,48
+And there's no deep
+answer to that.
+
+
+1323
+1:4:6,48 --> 1:4:9,66
+It's just sort of the
+obvious answer.
+
+
+1324
+1:4:9,66 --> 1:4:13,66
+AUDIENCE: You mentioned
+earlier that quantum
+
+
+1325
+1:4:13,66 --> 1:4:16,26
+techniques don't work equally
+well on all problems.
+
+
+1326
+1:4:16,26 --> 1:4:19,22
+Some of them give exponential
+speedup, some of them only n
+
+
+1327
+1:4:19,22 --> 1:4:21,4
+squared, that sort stuff.
+
+
+1328
+1:4:21,4 --> 1:4:24,9
+I was wondering if you could
+give any further intuition on
+
+
+1329
+1:4:24,9 --> 1:4:26,74
+what kinds of problems fall
+into the different?
+
+
+1330
+1:4:26,74 --> 1:4:26,98
+JOHN PRESKILL: Yeah.
+
+
+1331
+1:4:26,98 --> 1:4:29,42
+So I think the question is,
+I said that there are some
+
+
+1332
+1:4:29,42 --> 1:4:34,5
+problems that quantum computers
+can achieve
+
+
+1333
+1:4:34,5 --> 1:4:38,35
+spectacular speedups, many
+problems for which we think
+
+
+1334
+1:4:38,35 --> 1:4:40,4
+that's not possible.
+
+
+1335
+1:4:40,4 --> 1:4:44,21
+And so what's the intuition
+about whether a problem lies
+
+
+1336
+1:4:44,21 --> 1:4:47,28
+in one class or the other
+or what's a nice
+
+
+1337
+1:4:47,28 --> 1:4:48,73
+characterization?
+
+
+1338
+1:4:48,73 --> 1:4:51,27
+Well, we don't have the complete
+answer to that.
+
+
+1339
+1:4:51,27 --> 1:4:56,78
+I did say that we do not expect
+exponential speedups to
+
+
+1340
+1:4:56,78 --> 1:5:1,31
+be possible for NP-hard
+problems.
+
+
+1341
+1:5:1,31 --> 1:5:6,95
+We think that in such cases
+even a quantum computer
+
+
+1342
+1:5:6,95 --> 1:5:10,645
+wouldn't in the worst case be
+able to do much better than a
+
+
+1343
+1:5:10,645 --> 1:5:11,53
+brute force search.
+
+
+1344
+1:5:11,53 --> 1:5:14,36
+And they can speed that up a
+little bit, but not a lot
+
+
+1345
+1:5:14,36 --> 1:5:16,76
+compared to classical systems.
+
+
+1346
+1:5:16,76 --> 1:5:19,54
+So first of all, we're talking
+about if we want to stay
+
+
+1347
+1:5:19,54 --> 1:5:24,21
+within the class NP, where we
+can check the answer easily
+
+
+1348
+1:5:24,21 --> 1:5:27,5
+with a classical computer, about
+a rather special class
+
+
+1349
+1:5:27,5 --> 1:5:30,1
+of problems, which are outside
+P. So they're classically
+
+
+1350
+1:5:30,1 --> 1:5:32,0
+hard, but not NP-hard.
+
+
+1351
+1:5:32,0 --> 1:5:35,14
+Factoring is a candidate
+for being in the
+
+
+1352
+1:5:35,14 --> 1:5:36,21
+intermediate class.
+
+
+1353
+1:5:36,21 --> 1:5:41,58
+So other problems which are
+outside P, which we think
+
+
+1354
+1:5:41,58 --> 1:5:43,94
+can't be solved in polynomial
+time with a classical
+
+
+1355
+1:5:43,94 --> 1:5:46,75
+computer, but are not NP-hard,
+are candidates for quantum
+
+
+1356
+1:5:46,75 --> 1:5:47,93
+algorithms.
+
+
+1357
+1:5:47,93 --> 1:5:52,7
+But that's probably not exactly
+the right answer.
+
+
+1358
+1:5:52,7 --> 1:5:54,79
+And I also tried to emphasize
+that we don't have to limit
+
+
+1359
+1:5:54,79 --> 1:5:56,65
+ourselves to NP.
+
+
+1360
+1:5:56,65 --> 1:5:59,12
+There are things that quantum
+computers could do that we
+
+
+1361
+1:5:59,12 --> 1:6:0,91
+wouldn't be able to
+check classically.
+
+
+1362
+1:6:0,91 --> 1:6:3,77
+We could check a quantum
+computer with another quantum
+
+
+1363
+1:6:3,77 --> 1:6:7,11
+computer, things like
+simulation problems,
+
+
+1364
+1:6:7,11 --> 1:6:10,3
+simulating quantum systems
+with many parts.
+
+
+1365
+1:6:10,3 --> 1:6:14,75
+And I think the most potential
+that we currently know from
+
+
+1366
+1:6:14,75 --> 1:6:17,62
+our current understanding
+of quantum computers for
+
+
+1367
+1:6:17,62 --> 1:6:20,69
+nontrivial applications involve
+such simulation of
+
+
+1368
+1:6:20,69 --> 1:6:23,13
+quantum systems.
+
+
+1369
+1:6:23,13 --> 1:6:25,45
+AUDIENCE: Could you say
+something about the robustness
+
+
+1370
+1:6:25,45 --> 1:6:26,43
+of entanglement?
+
+
+1371
+1:6:26,43 --> 1:6:29,8
+So when you were talking about
+quantum computing, it seemed
+
+
+1372
+1:6:29,8 --> 1:6:32,38
+like entanglement was this
+very delicate thing.
+
+
+1373
+1:6:32,38 --> 1:6:35,7
+And you had to worry about the
+decoherence problems that when
+
+
+1374
+1:6:35,7 --> 1:6:37,72
+two particles interact with
+the outside world, the
+
+
+1375
+1:6:37,72 --> 1:6:39,26
+entanglement is lost.
+
+
+1376
+1:6:39,26 --> 1:6:41,28
+But with this black hole
+problem, it seems like the
+
+
+1377
+1:6:41,28 --> 1:6:42,77
+entanglement was
+indestructible.
+
+
+1378
+1:6:42,77 --> 1:6:44,42
+And that was why these
+three propositions
+
+
+1379
+1:6:44,42 --> 1:6:46,23
+couldn't all be true.
+
+
+1380
+1:6:46,23 --> 1:6:49,1
+JOHN PRESKILL: Well,
+entanglement is
+
+
+1381
+1:6:49,1 --> 1:6:52,7
+indestructible, even outside the
+context of the black hole
+
+
+1382
+1:6:52,7 --> 1:6:58,99
+problem, in the sense that if
+you have systems that are
+
+
+1383
+1:6:58,99 --> 1:7:1,67
+entangled with one another,
+although they may interact
+
+
+1384
+1:7:1,67 --> 1:7:4,2
+with the environment, that
+doesn't really destroy the
+
+
+1385
+1:7:4,2 --> 1:7:5,5
+entanglement.
+
+
+1386
+1:7:5,5 --> 1:7:8,3
+It just means that the
+entanglement can now only be
+
+
+1387
+1:7:8,3 --> 1:7:11,72
+detected if we look at
+entanglement between
+
+
+1388
+1:7:11,72 --> 1:7:14,45
+subsystems that include
+the environment.
+
+
+1389
+1:7:14,45 --> 1:7:16,21
+So the problem is that
+we don't control the
+
+
+1390
+1:7:16,21 --> 1:7:17,675
+environment very well.
+
+
+1391
+1:7:17,675 --> 1:7:21,7
+So if we look at just the system
+that we can control and
+
+
+1392
+1:7:21,7 --> 1:7:23,55
+don't pay attention to the
+environment, then it can
+
+
+1393
+1:7:23,55 --> 1:7:26,27
+appear that the entanglement
+is lost, even though it's
+
+
+1394
+1:7:26,27 --> 1:7:27,58
+really there.
+
+
+1395
+1:7:27,58 --> 1:7:30,5
+In the case of the black hole
+problem, I was really talking
+
+
+1396
+1:7:30,5 --> 1:7:32,66
+about this issue of principle,
+of whether entanglement is
+
+
+1397
+1:7:32,66 --> 1:7:35,9
+there or not, not whether it's
+there in a form that we can
+
+
+1398
+1:7:35,9 --> 1:7:38,5
+control or even decode easily.
+
+
+1399
+1:7:38,5 --> 1:7:38,89
+Which actually is an
+
+
+1400
+1:7:38,89 --> 1:7:40,79
+interesting question of principle.
+
+
+1401
+1:7:40,79 --> 1:7:43,67
+Is it a really hard problem to
+do the decoding that could
+
+
+1402
+1:7:43,67 --> 1:7:45,31
+detect this entanglement?
+
+
+1403
+1:7:45,31 --> 1:7:48,91
+And if it's a really hard
+problem, do maybe the laws of
+
+
+1404
+1:7:48,91 --> 1:7:54,67
+physics tell us that this
+entanglement doesn't really
+
+
+1405
+1:7:54,67 --> 1:7:57,17
+have an operational meaning?
+
+
+1406
+1:7:57,17 --> 1:7:59,45
+AUDIENCE: So it sounds like it
+might be very difficult for
+
+
+1407
+1:7:59,45 --> 1:8:1,35
+humans to build such
+a computer.
+
+
+1408
+1:8:1,35 --> 1:8:7,35
+Do such computers exist in
+natural settings where some
+
+
+1409
+1:8:7,35 --> 1:8:13,64
+spontaneous result appears
+quite naturally, like for
+
+
+1410
+1:8:13,64 --> 1:8:18,979
+instance in superconductivity
+where some physical state is
+
+
+1411
+1:8:18,979 --> 1:8:23,49
+just emergent from a large
+group of particles.
+
+
+1412
+1:8:23,49 --> 1:8:26,34
+And the way they actually are
+doing it is a quantum
+
+
+1413
+1:8:26,34 --> 1:8:29,35
+computer, but we don't know
+how it's happening?
+
+
+1414
+1:8:29,35 --> 1:8:31,95
+
+
+
+1415
+1:8:31,95 --> 1:8:32,18
+JOHN PRESKILL: Right.
+
+
+1416
+1:8:32,18 --> 1:8:39,18
+So the question is for humans,
+it may be hard to realize
+
+
+1417
+1:8:39,18 --> 1:8:41,95
+large-scale quantum computers.
+
+
+1418
+1:8:41,95 --> 1:8:43,54
+Are there ways in which
+nature does it?
+
+
+1419
+1:8:43,54 --> 1:8:46,47
+Are there natural processes in
+which quantum computation
+
+
+1420
+1:8:46,47 --> 1:8:50,59
+occurs, so-to-speak
+spontaneously?
+
+
+1421
+1:8:50,59 --> 1:8:50,85
+Yeah.
+
+
+1422
+1:8:50,85 --> 1:8:53,279
+I mean it's sort of-- you know
+it was hard for us to build a
+
+
+1423
+1:8:53,279 --> 1:8:54,109
+hydrogen bomb.
+
+
+1424
+1:8:54,109 --> 1:8:55,59
+But the Sun does it.
+
+
+1425
+1:8:55,59 --> 1:8:58,51
+In fact, it was hard to build a
+fission bomb, but there was
+
+
+1426
+1:8:58,51 --> 1:9:5,609
+a spontaneous uranium reactor
+in Africa because too much
+
+
+1427
+1:9:5,609 --> 1:9:7,72
+uranium was collected
+in one place.
+
+
+1428
+1:9:7,72 --> 1:9:12,649
+So is quantum computation
+occurring by such naturally
+
+
+1429
+1:9:12,649 --> 1:9:14,649
+occurring process somewhere?
+
+
+1430
+1:9:14,649 --> 1:9:16,14
+I don't know.
+
+
+1431
+1:9:16,14 --> 1:9:19,859
+My guess is that if we really
+want large-scale quantum
+
+
+1432
+1:9:19,859 --> 1:9:24,46
+computers, which are hard to
+simulate classically--
+
+
+1433
+1:9:24,46 --> 1:9:26,91
+well, I mean there are lots of
+things going on in physics
+
+
+1434
+1:9:26,91 --> 1:9:33,14
+labs for which that might be a
+fair statement, that there are
+
+
+1435
+1:9:33,14 --> 1:9:35,189
+states of quantum matter.
+
+
+1436
+1:9:35,189 --> 1:9:38,62
+One famous one is the
+high-temperature
+
+
+1437
+1:9:38,62 --> 1:9:41,84
+superconductors, which we don't
+understand very well
+
+
+1438
+1:9:41,84 --> 1:9:44,93
+microscopically how they work
+because haven't so far been
+
+
+1439
+1:9:44,93 --> 1:9:50,38
+able to simulate them on
+classical computers.
+
+
+1440
+1:9:50,38 --> 1:9:54,95
+So maybe that system is, by
+simulating itself, is
+
+
+1441
+1:9:54,95 --> 1:9:57,81
+performing a quantum computation
+in some sense.
+
+
+1442
+1:9:57,81 --> 1:10:1,42
+Or more broadly, whenever a
+quantum system evolves forward
+
+
+1443
+1:10:1,42 --> 1:10:4,37
+in time, it is in
+a sense behaving
+
+
+1444
+1:10:4,37 --> 1:10:5,47
+like a quantum computer.
+
+
+1445
+1:10:5,47 --> 1:10:8,78
+But I'm afraid that's probably
+too broad a notion of what we
+
+
+1446
+1:10:8,78 --> 1:10:10,48
+mean by a quantum computer.
+
+
+1447
+1:10:10,48 --> 1:10:12,8
+My guess is that nature
+has a way of
+
+
+1448
+1:10:12,8 --> 1:10:14,33
+realizing quantum computers.
+
+
+1449
+1:10:14,33 --> 1:10:21,1
+The way is to allow engineers
+to evolve, who build them.
+
+
+1450
+1:10:21,1 --> 1:10:24,22
+And that's probably the
+way nature does it.
+
+
+1451
+1:10:24,22 --> 1:10:26,64
+GREG KROAH-HARTMAN: Maybe we
+conclude it here and thank
+
+
+1452
+1:10:26,64 --> 1:10:28,8
+John for a beautiful talk.
+
+
+1453
+1:10:28,8 --> 1:10:29,25
+JOHN PRESKILL: All right.
+
+
+1454
+1:10:29,25 --> 1:10:30,5
+Thanks for listening.
+
+
+1455
+1:10:30,5 --> 1:12:30,5
+
+
+

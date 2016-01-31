@@ -1,0 +1,3033 @@
+1
+0:0:0,0 --> 0:0:0,15
+
+
+
+2
+0:0:0,15 --> 0:0:1,48
+STEVE SPANGLER: So I bet you
+think this is the part of the
+
+
+3
+0:0:1,48 --> 0:0:3,15
+show where I'm going to
+say, don't try these
+
+
+4
+0:0:3,15 --> 0:0:4,77
+experiments at home.
+
+
+5
+0:0:4,77 --> 0:0:5,61
+And you're right.
+
+
+6
+0:0:5,61 --> 0:0:8,15
+Except there is one experiment
+we want you to try.
+
+
+7
+0:0:8,15 --> 0:0:9,64
+Just look for the graphic
+that's right here
+
+
+8
+0:0:9,64 --> 0:0:10,82
+that says try it.
+
+
+9
+0:0:10,82 --> 0:0:12,7
+That's your signal that
+you can try that
+
+
+10
+0:0:12,7 --> 0:0:13,72
+experiment at home.
+
+
+11
+0:0:13,72 --> 0:0:15,345
+Everything else, off limits.
+
+
+12
+0:0:15,345 --> 0:0:15,68
+Look.
+
+
+13
+0:0:15,68 --> 0:0:17,303
+I've already given you homework,
+and the show hasn't
+
+
+14
+0:0:17,303 --> 0:0:17,956
+even started.
+
+
+15
+0:0:17,956 --> 0:0:26,218
+[MUSIC PLAYING]
+
+
+16
+0:0:26,218 --> 0:0:29,9
+STEVE SPANGLER: I'm fascinated
+with Newton's cradle.
+
+
+17
+0:0:29,9 --> 0:0:32,479
+But then, again, I'm
+easily amused.
+
+
+18
+0:0:32,479 --> 0:0:36,74
+It's the coolest demonstration
+toy because it teaches the
+
+
+19
+0:0:36,74 --> 0:0:39,3
+laws of conservation
+of momentum and the
+
+
+20
+0:0:39,3 --> 0:0:42,18
+conservation of energy.
+
+
+21
+0:0:42,18 --> 0:0:44,2
+Pendulums are just cool.
+
+
+22
+0:0:44,2 --> 0:0:46,65
+As much as we'd like to think
+that Isaac Newton sat around
+
+
+23
+0:0:46,65 --> 0:0:48,61
+and played with this toy, it
+was actually invented by an
+
+
+24
+0:0:48,61 --> 0:0:53,26
+English actor by the name of
+Simon Prebble in 1967.
+
+
+25
+0:0:53,26 --> 0:0:56,21
+He named it after Newton
+because it demonstrates
+
+
+26
+0:0:56,21 --> 0:0:58,59
+Newton's laws of motion.
+
+
+27
+0:0:58,59 --> 0:1:0,64
+What I'm really looking
+for is, instead
+
+
+28
+0:1:0,64 --> 0:1:2,47
+of making it bigger--
+
+
+29
+0:1:2,47 --> 0:1:3,53
+that seems to be what everybody
+wants to do
+
+
+30
+0:1:3,53 --> 0:1:5,57
+nowadays, is to do
+it with something
+
+
+31
+0:1:5,57 --> 0:1:6,99
+that's bigger and bigger.
+
+
+32
+0:1:6,99 --> 0:1:11,44
+I remember, years ago, there was
+a science experiment in a
+
+
+33
+0:1:11,44 --> 0:1:14,41
+book called, Scientific
+Amusements that talked about
+
+
+34
+0:1:14,41 --> 0:1:18,76
+the swing and the transfer of
+energy from a pendulum.
+
+
+35
+0:1:18,76 --> 0:1:21,36
+It almost looked like
+mind control.
+
+
+36
+0:1:21,36 --> 0:1:24,44
+That's what I think I want to
+do is to mess with people in
+
+
+37
+0:1:24,44 --> 0:1:26,81
+our office today and see if I
+can convince them that I can
+
+
+38
+0:1:26,81 --> 0:1:30,55
+control or they can control an
+object with just their mind.
+
+
+39
+0:1:30,55 --> 0:1:34,5
+When in fact, it's all cleverly
+disguised here in the
+
+
+40
+0:1:34,5 --> 0:1:36,426
+swing of a pendulum.
+
+
+41
+0:1:36,426 --> 0:1:40,496
+For now, I'm going to keep
+playing with this.
+
+
+42
+0:1:40,496 --> 0:1:42,492
+[MUSIC PLAYING]
+
+
+43
+0:1:42,492 --> 0:1:45,16
+STEVE SPANGLER: You know, they
+say the old is forever new.
+
+
+44
+0:1:45,16 --> 0:1:46,3
+And it's absolutely right.
+
+
+45
+0:1:46,3 --> 0:1:47,66
+If you want inspiration,
+you turn to some
+
+
+46
+0:1:47,66 --> 0:1:49,14
+of these old books.
+
+
+47
+0:1:49,14 --> 0:1:54,37
+This is Scientific Amusements,
+about 1870 or so, adapted from
+
+
+48
+0:1:54,37 --> 0:1:56,94
+Professor CG Knott.
+
+
+49
+0:1:56,94 --> 0:1:58,96
+What I'm looking at here is, as
+you're thumbing through it,
+
+
+50
+0:1:58,96 --> 0:2:0,72
+there are all these
+old materials.
+
+
+51
+0:2:0,72 --> 0:2:2,95
+But I remember this thing called
+a coupled pendulum.
+
+
+52
+0:2:2,95 --> 0:2:5,68
+It was actually a swinging
+pendulum.
+
+
+53
+0:2:5,68 --> 0:2:7,34
+You can see here that
+they actually used
+
+
+54
+0:2:7,34 --> 0:2:9,4
+eggs for some reason.
+
+
+55
+0:2:9,4 --> 0:2:11,52
+And the eggs would swing
+back and forth.
+
+
+56
+0:2:11,52 --> 0:2:14,84
+I want to build this because, if
+you do it right, you can't
+
+
+57
+0:2:14,84 --> 0:2:17,17
+really see the science behind
+it, the secret.
+
+
+58
+0:2:17,17 --> 0:2:19,55
+And you can make somebody think
+that they're actually
+
+
+59
+0:2:19,55 --> 0:2:21,71
+controlling an object
+with their mind.
+
+
+60
+0:2:21,71 --> 0:2:23,15
+We'll just use some modern
+day materials, and
+
+
+61
+0:2:23,15 --> 0:2:24,3
+we should be set.
+
+
+62
+0:2:24,3 --> 0:2:24,99
+[MUSIC PLAYING]
+
+
+63
+0:2:24,99 --> 0:2:26,4
+STEVE SPANGLER: All right,
+here's everything you're going
+
+
+64
+0:2:26,4 --> 0:2:29,98
+to need, using simple
+household materials.
+
+
+65
+0:2:29,98 --> 0:2:31,25
+We're going to start
+with this cord.
+
+
+66
+0:2:31,25 --> 0:2:35,14
+And it calls for about 36
+inches, so about 100
+
+
+67
+0:2:35,14 --> 0:2:37,98
+centimeters of the cord here.
+
+
+68
+0:2:37,98 --> 0:2:39,9
+So that will be our
+main piece.
+
+
+69
+0:2:39,9 --> 0:2:42,455
+And then the two pendulum pieces
+that are going to hang
+
+
+70
+0:2:42,455 --> 0:2:44,55
+down have to be exactly equal.
+
+
+71
+0:2:44,55 --> 0:2:46,67
+And so, in this particular case,
+we're going to go for
+
+
+72
+0:2:46,67 --> 0:2:50,8
+about 60 centimeters, which is
+approximately 24 inches.
+
+
+73
+0:2:50,8 --> 0:2:53,38
+And all of this is going to have
+to be tweaked a little
+
+
+74
+0:2:53,38 --> 0:2:55,62
+bit, I think, as
+we're doing it.
+
+
+75
+0:2:55,62 --> 0:3:1,7
+But we just want pieces that are
+identical in every way, so
+
+
+76
+0:3:1,7 --> 0:3:5,57
+that the pendulum, when it
+swings back and forth, the
+
+
+77
+0:3:5,57 --> 0:3:7,23
+energy from one is the same.
+
+
+78
+0:3:7,23 --> 0:3:8,98
+And we transfer it to the
+other one as well.
+
+
+79
+0:3:8,98 --> 0:3:10,95
+So we have to keep absolutely
+everything the same.
+
+
+80
+0:3:10,95 --> 0:3:12,51
+So we need those two pieces.
+
+
+81
+0:3:12,51 --> 0:3:16,53
+And now, instead of hanging
+something like a jewel or
+
+
+82
+0:3:16,53 --> 0:3:18,78
+something ornate, I thought
+just these soda
+
+
+83
+0:3:18,78 --> 0:3:19,86
+cans would be fine.
+
+
+84
+0:3:19,86 --> 0:3:22,5
+And I can't just do the soda
+cans, so I emptied them out,
+
+
+85
+0:3:22,5 --> 0:3:24,21
+washed them out and added
+the same amount of
+
+
+86
+0:3:24,21 --> 0:3:25,43
+water to each one.
+
+
+87
+0:3:25,43 --> 0:3:30,15
+So we're looking at about 175
+milliliters in each one.
+
+
+88
+0:3:30,15 --> 0:3:31,3
+It doesn't really matter.
+
+
+89
+0:3:31,3 --> 0:3:33,35
+I'm just showing you what I'm
+doing for this if you're
+
+
+90
+0:3:33,35 --> 0:3:36,13
+trying to replicate it exactly
+the way that I'm doing it,
+
+
+91
+0:3:36,13 --> 0:3:37,5
+hoping that it works.
+
+
+92
+0:3:37,5 --> 0:3:38,43
+So that's the set up.
+
+
+93
+0:3:38,43 --> 0:3:40,22
+Now we just have to tie
+everything together and see if
+
+
+94
+0:3:40,22 --> 0:3:42,74
+we can get this system
+in place.
+
+
+95
+0:3:42,74 --> 0:3:45,536
+
+
+
+96
+0:3:45,536 --> 0:3:46,94
+There you go.
+
+
+97
+0:3:46,94 --> 0:3:50,165
+So I just need to make sure that
+the cord is the same on
+
+
+98
+0:3:50,165 --> 0:3:56,26
+this one as it is this one,
+got it so this is in place
+
+
+99
+0:3:56,26 --> 0:4:3,4
+here, and be sure that this one
+looks exactly the same by
+
+
+100
+0:4:3,4 --> 0:4:8,102
+using the same amount of cord,
+so that will be perfect.
+
+
+101
+0:4:8,102 --> 0:4:9,38
+OK?
+
+
+102
+0:4:9,38 --> 0:4:14,29
+And now we need to tie both of
+these onto this main one here.
+
+
+103
+0:4:14,29 --> 0:4:16,4
+And I'm going to be able
+to move them around.
+
+
+104
+0:4:16,4 --> 0:4:18,964
+I just want to be able to put
+some knots in them, so that
+
+
+105
+0:4:18,964 --> 0:4:23,32
+the cord stays and that I'm,
+again, using the same amount
+
+
+106
+0:4:23,32 --> 0:4:25,14
+of cord on each one.
+
+
+107
+0:4:25,14 --> 0:4:31,87
+
+
+
+108
+0:4:31,87 --> 0:4:33,96
+And now we just need to hook
+them onto something.
+
+
+109
+0:4:33,96 --> 0:4:36,59
+It has to be extremely steady,
+because I don't want that
+
+
+110
+0:4:36,59 --> 0:4:37,61
+other structure moving.
+
+
+111
+0:4:37,61 --> 0:4:40,62
+So we're going to go tie it
+around something or use these
+
+
+112
+0:4:40,62 --> 0:4:44,39
+super strong magnets that we
+have here to hold it in place.
+
+
+113
+0:4:44,39 --> 0:4:47,25
+So I'll use these neodymium
+magnets and
+
+
+114
+0:4:47,25 --> 0:4:47,84
+put them on the ends.
+
+
+115
+0:4:47,84 --> 0:4:49,38
+Hold them in place.
+
+
+116
+0:4:49,38 --> 0:4:50,77
+And we should be set.
+
+
+117
+0:4:50,77 --> 0:4:52,39
+Well, here's our pendulum
+system, right?
+
+
+118
+0:4:52,39 --> 0:4:55,11
+Both cans are equal
+in their weight.
+
+
+119
+0:4:55,11 --> 0:4:57,55
+The cords attached to the top
+are equal in their length.
+
+
+120
+0:4:57,55 --> 0:4:59,47
+And you can see how it's
+attached up here,
+
+
+121
+0:4:59,47 --> 0:5:0,14
+and it can't move.
+
+
+122
+0:5:0,14 --> 0:5:2,21
+I'm just using these super
+strong magnets
+
+
+123
+0:5:2,21 --> 0:5:3,6
+to hold it in place.
+
+
+124
+0:5:3,6 --> 0:5:5,9
+All right, so if we swing both
+of them, it'd be just like
+
+
+125
+0:5:5,9 --> 0:5:7,83
+swinging a kid at
+the playground.
+
+
+126
+0:5:7,83 --> 0:5:9,65
+It just moves back and forth.
+
+
+127
+0:5:9,65 --> 0:5:11,34
+You know, when you push a kid
+and you push him just at the
+
+
+128
+0:5:11,34 --> 0:5:14,5
+right moment, you can add
+some energy to it
+
+
+129
+0:5:14,5 --> 0:5:15,73
+like we're doing here.
+
+
+130
+0:5:15,73 --> 0:5:17,36
+Here's what we want to do with
+this experiment, though.
+
+
+131
+0:5:17,36 --> 0:5:20,15
+The book says that you
+start with one can.
+
+
+132
+0:5:20,15 --> 0:5:22,3
+So let's just say we
+pick the Coke.
+
+
+133
+0:5:22,3 --> 0:5:22,65
+You pull back.
+
+
+134
+0:5:22,65 --> 0:5:24,1
+And you move the one can.
+
+
+135
+0:5:24,1 --> 0:5:26,81
+As you start that in motion,
+the energy is actually
+
+
+136
+0:5:26,81 --> 0:5:27,9
+transferred to the other can.
+
+
+137
+0:5:27,9 --> 0:5:29,43
+And now both of them
+are in motion.
+
+
+138
+0:5:29,43 --> 0:5:31,33
+But now you're supposed to focus
+on the first one here.
+
+
+139
+0:5:31,33 --> 0:5:32,8
+Focus on the Coke.
+
+
+140
+0:5:32,8 --> 0:5:34,83
+You notice how it stops.
+
+
+141
+0:5:34,83 --> 0:5:36,35
+And then it let's go.
+
+
+142
+0:5:36,35 --> 0:5:38,7
+And now refocus your energy
+to the Diet Coke.
+
+
+143
+0:5:38,7 --> 0:5:41,6
+Look at this.
+
+
+144
+0:5:41,6 --> 0:5:41,84
+And then it moves.
+
+
+145
+0:5:41,84 --> 0:5:44,66
+So literally, these two
+swinging bodies are
+
+
+146
+0:5:44,66 --> 0:5:47,56
+transferring energy from
+one to the next.
+
+
+147
+0:5:47,56 --> 0:5:49,62
+So I think, if you do it
+correctly, you might be able
+
+
+148
+0:5:49,62 --> 0:5:51,29
+to convince somebody that
+they could slow it
+
+
+149
+0:5:51,29 --> 0:5:52,6
+down with their mind.
+
+
+150
+0:5:52,6 --> 0:5:52,42
+Watch this.
+
+
+151
+0:5:52,42 --> 0:5:53,11
+Slow it down.
+
+
+152
+0:5:53,11 --> 0:5:53,71
+Slow it down.
+
+
+153
+0:5:53,71 --> 0:5:54,27
+Slow it down.
+
+
+154
+0:5:54,27 --> 0:5:56,1
+And it keeps moving.
+
+
+155
+0:5:56,1 --> 0:5:57,55
+So it's really good,
+after the first or
+
+
+156
+0:5:57,55 --> 0:5:58,7
+second one that's there.
+
+
+157
+0:5:58,7 --> 0:6:2,19
+Transfer your energy
+over to the Coke.
+
+
+158
+0:6:2,19 --> 0:6:3,5
+It's pretty cool.
+
+
+159
+0:6:3,5 --> 0:6:5,44
+Regardless if you can fool your
+friends or not, it's a
+
+
+160
+0:6:5,44 --> 0:6:9,55
+very, very cool pendulum kind of
+trick with the transfer of
+
+
+161
+0:6:9,55 --> 0:6:11,32
+energy from one pendulum
+to the next.
+
+
+162
+0:6:11,32 --> 0:6:12,624
+[MUSIC PLAYING]
+
+
+163
+0:6:12,624 --> 0:6:15,1
+STEVE SPANGLER: All right,
+everybody, get ready.
+
+
+164
+0:6:15,1 --> 0:6:16,8
+I'm going to allow
+you to control an
+
+
+165
+0:6:16,8 --> 0:6:18,73
+object with your mind.
+
+
+166
+0:6:18,73 --> 0:6:19,97
+This is going to be great.
+
+
+167
+0:6:19,97 --> 0:6:21,92
+You're going to really
+like it.
+
+
+168
+0:6:21,92 --> 0:6:23,47
+Don't worry about us.
+
+
+169
+0:6:23,47 --> 0:6:24,86
+We're just going to be
+rigging something.
+
+
+170
+0:6:24,86 --> 0:6:26,12
+Don't worry, all right?
+
+
+171
+0:6:26,12 --> 0:6:27,37
+This is perfectly fine.
+
+
+172
+0:6:27,37 --> 0:6:29,78
+
+
+
+173
+0:6:29,78 --> 0:6:31,3
+That's really good.
+
+
+174
+0:6:31,3 --> 0:6:33,36
+
+
+
+175
+0:6:33,36 --> 0:6:34,56
+Hey, Zarah, come here.
+
+
+176
+0:6:34,56 --> 0:6:37,3
+ZARAH BROWN: Oh, but I'm just
+afraid I have to work.
+
+
+177
+0:6:37,3 --> 0:6:37,36
+STEVE SPANGLER: Come here.
+
+
+178
+0:6:37,36 --> 0:6:38,595
+I'm going to blow your mind.
+
+
+179
+0:6:38,595 --> 0:6:39,5
+ZARAH BROWN: OK.
+
+
+180
+0:6:39,5 --> 0:6:40,15
+STEVE SPANGLER: OK, you ready?
+
+
+181
+0:6:40,15 --> 0:6:40,64
+ZARAH BROWN: Yeah, I'm ready.
+
+
+182
+0:6:40,64 --> 0:6:42,5
+STEVE SPANGLER: So watch this.
+
+
+183
+0:6:42,5 --> 0:6:44,1
+This is an experiment
+in mind control.
+
+
+184
+0:6:44,1 --> 0:6:44,666
+OK, come here.
+
+
+185
+0:6:44,666 --> 0:6:45,32
+ZARAH BROWN: OK.
+
+
+186
+0:6:45,32 --> 0:6:46,27
+STEVE SPANGLER: All right,
+so watch this.
+
+
+187
+0:6:46,27 --> 0:6:48,73
+So I have a Coke can and
+a Diet Coke can.
+
+
+188
+0:6:48,73 --> 0:6:48,99
+ZARAH BROWN: Yeah.
+
+
+189
+0:6:48,99 --> 0:6:50,5
+STEVE SPANGLER: And what I want
+you to do is I want you
+
+
+190
+0:6:50,5 --> 0:6:51,39
+to pick one of the two cans.
+
+
+191
+0:6:51,39 --> 0:6:53,12
+Which one do you have
+the biggest
+
+
+192
+0:6:53,12 --> 0:6:54,34
+connection with mentally?
+
+
+193
+0:6:54,34 --> 0:6:55,57
+ZARAH BROWN: OK, I got it.
+
+
+194
+0:6:55,57 --> 0:6:56,542
+STEVE SPANGLER: [WHISPERS]
+
+
+195
+0:6:56,542 --> 0:6:57,3
+This is all crap.
+
+
+196
+0:6:57,3 --> 0:6:58,236
+Which one is it?
+
+
+197
+0:6:58,236 --> 0:7:0,656
+ZARAH BROWN: It's-- well,
+I-- should I tell you?
+
+
+198
+0:7:0,656 --> 0:7:2,84
+STEVE SPANGLER: No,
+let me divine it.
+
+
+199
+0:7:2,84 --> 0:7:3,5
+Diet Coke.
+
+
+200
+0:7:3,5 --> 0:7:4,2
+ZARAH BROWN: No.
+
+
+201
+0:7:4,2 --> 0:7:4,55
+STEVE SPANGLER: That's--
+
+
+202
+0:7:4,55 --> 0:7:6,84
+I was saying not Diet Coke.
+
+
+203
+0:7:6,84 --> 0:7:7,84
+You want Coke, right?
+
+
+204
+0:7:7,84 --> 0:7:8,6
+ZARAH BROWN: Yes.
+
+
+205
+0:7:8,6 --> 0:7:9,16
+STEVE SPANGLER: OK.
+
+
+206
+0:7:9,16 --> 0:7:10,11
+So here's what's going
+to happen.
+
+
+207
+0:7:10,11 --> 0:7:12,828
+See, these little things will
+swing like this, OK?
+
+
+208
+0:7:12,828 --> 0:7:13,25
+ZARAH BROWN: OK.
+
+
+209
+0:7:13,25 --> 0:7:14,26
+STEVE SPANGLER: So I'm
+going to swing the
+
+
+210
+0:7:14,26 --> 0:7:15,3
+cans back and forth.
+
+
+211
+0:7:15,3 --> 0:7:17,56
+But because you picked Coke,
+I'm going to swing
+
+
+212
+0:7:17,56 --> 0:7:18,825
+Coke first, all right?
+
+
+213
+0:7:18,825 --> 0:7:19,17
+ZARAH BROWN: OK.
+
+
+214
+0:7:19,17 --> 0:7:20,87
+STEVE SPANGLER: I want you
+to focus your attention
+
+
+215
+0:7:20,87 --> 0:7:21,99
+on Coke, all right?
+
+
+216
+0:7:21,99 --> 0:7:22,19
+ZARAH BROWN: OK.
+
+
+217
+0:7:22,19 --> 0:7:23,4
+STEVE SPANGLER: Just stand
+right back here.
+
+
+218
+0:7:23,4 --> 0:7:23,34
+ZARAH BROWN: All right.
+
+
+219
+0:7:23,34 --> 0:7:24,77
+STEVE SPANGLER: Focus your
+attention on the Coke.
+
+
+220
+0:7:24,77 --> 0:7:26,1
+I'm going to pull it
+back like this.
+
+
+221
+0:7:26,1 --> 0:7:27,6
+I'm going to start it swinging.
+
+
+222
+0:7:27,6 --> 0:7:27,32
+Ready?
+
+
+223
+0:7:27,32 --> 0:7:27,493
+ZARAH BROWN: OK.
+
+
+224
+0:7:27,493 --> 0:7:28,29
+STEVE SPANGLER: OK?
+
+
+225
+0:7:28,29 --> 0:7:29,99
+Focus on the Coke, because
+both cans are
+
+
+226
+0:7:29,99 --> 0:7:30,82
+going to start to move.
+
+
+227
+0:7:30,82 --> 0:7:32,86
+Now use your mind to
+slow the Coke down.
+
+
+228
+0:7:32,86 --> 0:7:32,95
+ZARAH BROWN: OK.
+
+
+229
+0:7:32,95 --> 0:7:34,175
+STEVE SPANGLER: Use your
+mind to slow the--
+
+
+230
+0:7:34,175 --> 0:7:35,5
+[GASPS]
+
+
+231
+0:7:35,5 --> 0:7:37,56
+STEVE SPANGLER: Now transfer
+your thought
+
+
+232
+0:7:37,56 --> 0:7:38,73
+waves to the Diet Coke.
+
+
+233
+0:7:38,73 --> 0:7:38,92
+Ready?
+
+
+234
+0:7:38,92 --> 0:7:39,66
+Slow them down.
+
+
+235
+0:7:39,66 --> 0:7:40,84
+Slow them down.
+
+
+236
+0:7:40,84 --> 0:7:41,665
+ZARAH BROWN: What?
+
+
+237
+0:7:41,665 --> 0:7:42,84
+STEVE SPANGLER: Look at this.
+
+
+238
+0:7:42,84 --> 0:7:44,63
+Now go back to the Coke, since
+that's the one that you
+
+
+239
+0:7:44,63 --> 0:7:45,45
+started with.
+
+
+240
+0:7:45,45 --> 0:7:46,56
+Slow it down.
+
+
+241
+0:7:46,56 --> 0:7:47,55
+Slow it down.
+
+
+242
+0:7:47,55 --> 0:7:48,23
+ZARAH BROWN: That's crazy.
+
+
+243
+0:7:48,23 --> 0:7:49,1
+STEVE SPANGLER: Let it go.
+
+
+244
+0:7:49,1 --> 0:7:49,65
+ZARAH BROWN: OK.
+
+
+245
+0:7:49,65 --> 0:7:49,996
+STEVE SPANGLER: OK?
+
+
+246
+0:7:49,996 --> 0:7:50,89
+Now go to the Diet Coke.
+
+
+247
+0:7:50,89 --> 0:7:51,27
+Ready?
+
+
+248
+0:7:51,27 --> 0:7:52,455
+ZARAH BROWN: OK.
+
+
+249
+0:7:52,455 --> 0:7:53,86
+STEVE SPANGLER: Look at this.
+
+
+250
+0:7:53,86 --> 0:7:54,525
+You're amazing.
+
+
+251
+0:7:54,525 --> 0:7:55,822
+ZARAH BROWN: I should
+get a raise.
+
+
+252
+0:7:55,822 --> 0:7:57,21
+STEVE SPANGLER: You
+should not--
+
+
+253
+0:7:57,21 --> 0:7:57,59
+ZARAH BROWN: Yeah.
+
+
+254
+0:7:57,59 --> 0:7:59,59
+STEVE SPANGLER: You should go
+back to work now, all right?
+
+
+255
+0:7:59,59 --> 0:8:0,36
+All right, thank you.
+
+
+256
+0:8:0,36 --> 0:8:1,74
+And no, it has nothing
+to do with the
+
+
+257
+0:8:1,74 --> 0:8:2,7
+period of the pendulum.
+
+
+258
+0:8:2,7 --> 0:8:3,11
+Don't worry.
+
+
+259
+0:8:3,11 --> 0:8:5,83
+This is actual mind control
+right here.
+
+
+260
+0:8:5,83 --> 0:8:7,73
+All right, I need
+another victim,
+
+
+261
+0:8:7,73 --> 0:8:10,62
+somebody that's gullible.
+
+
+262
+0:8:10,62 --> 0:8:11,6
+[MUSIC PLAYING]
+
+
+263
+0:8:11,6 --> 0:8:14,82
+STEVE SPANGLER: This is the
+amazing mind control
+
+
+264
+0:8:14,82 --> 0:8:15,18
+experiment.
+
+
+265
+0:8:15,18 --> 0:8:15,54
+ANN: All right.
+
+
+266
+0:8:15,54 --> 0:8:16,22
+STEVE SPANGLER: Got it?
+
+
+267
+0:8:16,22 --> 0:8:16,44
+Right.
+
+
+268
+0:8:16,44 --> 0:8:18,9
+Now you may walk in between
+them, because
+
+
+269
+0:8:18,9 --> 0:8:18,91
+this is mind control.
+
+
+270
+0:8:18,91 --> 0:8:19,776
+ANN: Do I have to
+say right here?
+
+
+271
+0:8:19,776 --> 0:8:20,81
+STEVE SPANGLER: No,
+you can come here.
+
+
+272
+0:8:20,81 --> 0:8:21,7
+ANN: OK.
+
+
+273
+0:8:21,7 --> 0:8:21,72
+STEVE SPANGLER: All
+right, so watch.
+
+
+274
+0:8:21,72 --> 0:8:22,11
+ANN: OK.
+
+
+275
+0:8:22,11 --> 0:8:23,2
+STEVE SPANGLER: So you see
+the two pendulums?
+
+
+276
+0:8:23,2 --> 0:8:23,89
+ANN: Mm-hm.
+
+
+277
+0:8:23,89 --> 0:8:25,23
+STEVE SPANGLER: They're actually
+hooked with a piece
+
+
+278
+0:8:25,23 --> 0:8:27,25
+of rope or string
+that's this way.
+
+
+279
+0:8:27,25 --> 0:8:29,15
+And if you take both of them and
+pull back-- go ahead and
+
+
+280
+0:8:29,15 --> 0:8:30,51
+take both of them and pull
+them back gently
+
+
+281
+0:8:30,51 --> 0:8:31,87
+and let them swing--
+
+
+282
+0:8:31,87 --> 0:8:33,48
+it's like pushing
+kids on a swing.
+
+
+283
+0:8:33,48 --> 0:8:33,58
+Right?
+
+
+284
+0:8:33,58 --> 0:8:33,78
+ANN: OK.
+
+
+285
+0:8:33,78 --> 0:8:33,88
+Yeah.
+
+
+286
+0:8:33,88 --> 0:8:34,5
+STEVE SPANGLER: All right.
+
+
+287
+0:8:34,5 --> 0:8:37,9
+So what I want you to do is that
+you're going to focus on
+
+
+288
+0:8:37,9 --> 0:8:38,165
+one of the two of them, OK?
+
+
+289
+0:8:38,165 --> 0:8:38,46
+ANN: OK.
+
+
+290
+0:8:38,46 --> 0:8:39,559
+STEVE SPANGLER: So here,
+I want you to
+
+
+291
+0:8:39,559 --> 0:8:40,48
+stare at both of them.
+
+
+292
+0:8:40,48 --> 0:8:42,46
+And I want you to think of
+one of the two of them.
+
+
+293
+0:8:42,46 --> 0:8:42,65
+Ready?
+
+
+294
+0:8:42,65 --> 0:8:43,24
+Which one?
+
+
+295
+0:8:43,24 --> 0:8:43,694
+ANN: OK.
+
+
+296
+0:8:43,694 --> 0:8:44,148
+STEVE SPANGLER: Which one?
+
+
+297
+0:8:44,148 --> 0:8:45,56
+ANN: I want that one.
+
+
+298
+0:8:45,56 --> 0:8:47,615
+STEVE SPANGLER: That is what I
+was thinking in my mind you
+
+
+299
+0:8:47,615 --> 0:8:48,29
+were going to pick.
+
+
+300
+0:8:48,29 --> 0:8:48,61
+ANN: Really?
+
+
+301
+0:8:48,61 --> 0:8:49,766
+STEVE SPANGLER: Yes.
+
+
+302
+0:8:49,766 --> 0:8:50,76
+Magic.
+
+
+303
+0:8:50,76 --> 0:8:51,8
+All right, so now watch.
+
+
+304
+0:8:51,8 --> 0:8:53,7
+I'm going to pull
+this can back.
+
+
+305
+0:8:53,7 --> 0:8:54,43
+And we're going to start
+to let it swing.
+
+
+306
+0:8:54,43 --> 0:8:57,18
+And what I want you to do is I
+want to focus your attention
+
+
+307
+0:8:57,18 --> 0:8:57,87
+on this can.
+
+
+308
+0:8:57,87 --> 0:8:58,73
+Ready?
+
+
+309
+0:8:58,73 --> 0:9:0,45
+Focus your attention
+on the can.
+
+
+310
+0:9:0,45 --> 0:9:1,26
+Focus it.
+
+
+311
+0:9:1,26 --> 0:9:3,28
+You notice how The other one
+starts to swing as well?
+
+
+312
+0:9:3,28 --> 0:9:5,32
+I want you to slow this one
+down with your mind.
+
+
+313
+0:9:5,32 --> 0:9:6,72
+Use your mind and
+slow it down.
+
+
+314
+0:9:6,72 --> 0:9:7,4
+Use your mind.
+
+
+315
+0:9:7,4 --> 0:9:8,27
+Slow it down.
+
+
+316
+0:9:8,27 --> 0:9:9,13
+[GASPS]
+
+
+317
+0:9:9,13 --> 0:9:10,64
+You notice how the other
+one is swinging?
+
+
+318
+0:9:10,64 --> 0:9:11,5
+Good.
+
+
+319
+0:9:11,5 --> 0:9:12,9
+Let it go, Ann.
+
+
+320
+0:9:12,9 --> 0:9:12,33
+Let it go.
+
+
+321
+0:9:12,33 --> 0:9:12,755
+ANN: OK.
+
+
+322
+0:9:12,755 --> 0:9:13,72
+STEVE SPANGLER: Got it?
+
+
+323
+0:9:13,72 --> 0:9:13,94
+ANN: Yeah.
+
+
+324
+0:9:13,94 --> 0:9:16,4
+STEVE SPANGLER: All right, now
+focus your mind on the Coke.
+
+
+325
+0:9:16,4 --> 0:9:16,46
+Ready?
+
+
+326
+0:9:16,46 --> 0:9:16,693
+ANN: OK.
+
+
+327
+0:9:16,693 --> 0:9:17,41
+STEVE SPANGLER: Slow it down.
+
+
+328
+0:9:17,41 --> 0:9:18,2
+Slow it down.
+
+
+329
+0:9:18,2 --> 0:9:19,46
+Slow it down.
+
+
+330
+0:9:19,46 --> 0:9:20,12
+Slow it down.
+
+
+331
+0:9:20,12 --> 0:9:22,54
+Take the energy away from it.
+
+
+332
+0:9:22,54 --> 0:9:23,12
+Good.
+
+
+333
+0:9:23,12 --> 0:9:24,14
+Let it go.
+
+
+334
+0:9:24,14 --> 0:9:25,33
+Let it go.
+
+
+335
+0:9:25,33 --> 0:9:26,12
+Ready?
+
+
+336
+0:9:26,12 --> 0:9:26,89
+[GASPS]
+
+
+337
+0:9:26,89 --> 0:9:29,84
+Grab both cans.
+
+
+338
+0:9:29,84 --> 0:9:33,57
+You have now been controlling
+objects with your mind.
+
+
+339
+0:9:33,57 --> 0:9:34,49
+ANN: This is very exciting.
+
+
+340
+0:9:34,49 --> 0:9:35,16
+STEVE SPANGLER: Yes.
+
+
+341
+0:9:35,16 --> 0:9:35,47
+ANN: OK.
+
+
+342
+0:9:35,47 --> 0:9:38,13
+STEVE SPANGLER: So now, for
+$19.95, I have a full system
+
+
+343
+0:9:38,13 --> 0:9:39,98
+and a seminar that you could
+attend, all right?
+
+
+344
+0:9:39,98 --> 0:9:40,1
+ANN: Oh.
+
+
+345
+0:9:40,1 --> 0:9:40,96
+STEVE SPANGLER: It would
+be really, really good.
+
+
+346
+0:9:40,96 --> 0:9:41,47
+ANN: OK.
+
+
+347
+0:9:41,47 --> 0:9:41,525
+STEVE SPANGLER: All right?
+
+
+348
+0:9:41,525 --> 0:9:42,42
+I think you're going
+to like it.
+
+
+349
+0:9:42,42 --> 0:9:42,62
+ANN: OK.
+
+
+350
+0:9:42,62 --> 0:9:43,84
+STEVE SPANGLER: So just give
+me your credit card.
+
+
+351
+0:9:43,84 --> 0:9:44,79
+And I'll just write down--
+
+
+352
+0:9:44,79 --> 0:9:45,53
+ANN: Sure.
+
+
+353
+0:9:45,53 --> 0:9:46,62
+STEVE SPANGLER: Just your
+expiration date.
+
+
+354
+0:9:46,62 --> 0:9:47,595
+ANN: OK, yeah.
+
+
+355
+0:9:47,595 --> 0:9:48,9
+No problem.
+
+
+356
+0:9:48,9 --> 0:9:50,7
+It's all in my phone.
+
+
+357
+0:9:50,7 --> 0:9:52,75
+STEVE SPANGLER: She's coming
+to the seminar.
+
+
+358
+0:9:52,75 --> 0:9:53,5
+OK?
+
+
+359
+0:9:53,5 --> 0:9:53,52
+So watch this.
+
+
+360
+0:9:53,52 --> 0:9:53,96
+Ready?
+
+
+361
+0:9:53,96 --> 0:9:54,83
+So I'm going to pull
+it back here.
+
+
+362
+0:9:54,83 --> 0:9:56,46
+Pull it back just a
+little bit more.
+
+
+363
+0:9:56,46 --> 0:9:58,54
+OK, take it right
+to your eyes.
+
+
+364
+0:9:58,54 --> 0:9:59,34
+And now don't move.
+
+
+365
+0:9:59,34 --> 0:10:1,48
+Let go.
+
+
+366
+0:10:1,48 --> 0:10:3,11
+See how it doesn't hit you?
+
+
+367
+0:10:3,11 --> 0:10:3,88
+FEMALE SPEAKER: Yes.
+
+
+368
+0:10:3,88 --> 0:10:6,25
+STEVE SPANGLER: That's the
+conservation of energy.
+
+
+369
+0:10:6,25 --> 0:10:7,0
+No, you're moving your head.
+
+
+370
+0:10:7,0 --> 0:10:8,45
+See, now it hit you.
+
+
+371
+0:10:8,45 --> 0:10:9,62
+If you don't move--
+
+
+372
+0:10:9,62 --> 0:10:11,56
+I should put you against
+a brick wall.
+
+
+373
+0:10:11,56 --> 0:10:12,42
+This is even cooler.
+
+
+374
+0:10:12,42 --> 0:10:15,33
+You know what we should do is,
+if I had a great big, huge
+
+
+375
+0:10:15,33 --> 0:10:17,21
+wrecking ball, I could pull
+it right back to your
+
+
+376
+0:10:17,21 --> 0:10:18,6
+nose, let it go.
+
+
+377
+0:10:18,6 --> 0:10:18,84
+It would swing out.
+
+
+378
+0:10:18,84 --> 0:10:20,38
+It would not hit you
+in the nose.
+
+
+379
+0:10:20,38 --> 0:10:21,865
+FEMALE SPEAKER: I
+don't want to.
+
+
+380
+0:10:21,865 --> 0:10:23,53
+STEVE SPANGLER: I'm
+doing that.
+
+
+381
+0:10:23,53 --> 0:10:25,6
+That's an idea.
+
+
+382
+0:10:25,6 --> 0:10:26,17
+Here we go.
+
+
+383
+0:10:26,17 --> 0:10:30,65
+It's a bowling ball, 13 pounds,
+hooked onto a rope.
+
+
+384
+0:10:30,65 --> 0:10:33,23
+And so here's what we're going
+to do, put you right there,
+
+
+385
+0:10:33,23 --> 0:10:34,86
+your back against the wall.
+
+
+386
+0:10:34,86 --> 0:10:36,8
+You can't move.
+
+
+387
+0:10:36,8 --> 0:10:39,61
+So according to Isaac Newton,
+you can't get any more energy
+
+
+388
+0:10:39,61 --> 0:10:41,8
+out of something than
+put into it.
+
+
+389
+0:10:41,8 --> 0:10:43,88
+So if I pull this back, we have
+all this potential energy
+
+
+390
+0:10:43,88 --> 0:10:46,35
+coming right to your nose.
+
+
+391
+0:10:46,35 --> 0:10:49,38
+If I just let go of this,
+it should not come
+
+
+392
+0:10:49,38 --> 0:10:50,46
+back and hit you.
+
+
+393
+0:10:50,46 --> 0:10:52,37
+OK, so watch what happens.
+
+
+394
+0:10:52,37 --> 0:10:53,15
+This would be our mannequin.
+
+
+395
+0:10:53,15 --> 0:10:54,68
+Pretend like it was
+a mannequin.
+
+
+396
+0:10:54,68 --> 0:10:56,57
+I'm going to swing out,
+add some energy,
+
+
+397
+0:10:56,57 --> 0:10:56,84
+and let it come back.
+
+
+398
+0:10:56,84 --> 0:10:58,223
+Watch.
+
+
+399
+0:10:58,223 --> 0:11:0,7
+Ready?
+
+
+400
+0:11:0,7 --> 0:11:0,99
+Here it comes.
+
+
+401
+0:11:0,99 --> 0:11:2,441
+It's out and--
+
+
+402
+0:11:2,441 --> 0:11:2,922
+[SCREAMS]
+
+
+403
+0:11:2,922 --> 0:11:3,884
+[LAUGHTER]
+
+
+404
+0:11:3,884 --> 0:11:5,327
+MALE SPEAKER: Well, that
+would be disaster.
+
+
+405
+0:11:5,327 --> 0:11:7,57
+STEVE SPANGLER: That would
+be kind of a problem.
+
+
+406
+0:11:7,57 --> 0:11:7,8
+[LAUGHTER]
+
+
+407
+0:11:7,8 --> 0:11:9,57
+STEVE SPANGLER: But I don't
+think that'll happen with a
+
+
+408
+0:11:9,57 --> 0:11:10,17
+human being.
+
+
+409
+0:11:10,17 --> 0:11:11,73
+Let's try one.
+
+
+410
+0:11:11,73 --> 0:11:14,27
+Newton said that we shouldn't
+get any more energy out of
+
+
+411
+0:11:14,27 --> 0:11:15,44
+something than we put into it.
+
+
+412
+0:11:15,44 --> 0:11:17,376
+So here's all this potential
+energy right
+
+
+413
+0:11:17,376 --> 0:11:18,665
+up to Beau's head.
+
+
+414
+0:11:18,665 --> 0:11:19,6
+Ready?
+
+
+415
+0:11:19,6 --> 0:11:20,24
+So you've got to
+kiss your nose.
+
+
+416
+0:11:20,24 --> 0:11:21,36
+There you go, right there.
+
+
+417
+0:11:21,36 --> 0:11:22,36
+No, not yet.
+
+
+418
+0:11:22,36 --> 0:11:22,61
+BEAU: Oh.
+
+
+419
+0:11:22,61 --> 0:11:22,86
+[LAUGHTER]
+
+
+420
+0:11:22,86 --> 0:11:23,15
+STEVE SPANGLER: All right.
+
+
+421
+0:11:23,15 --> 0:11:23,726
+So here you go.
+
+
+422
+0:11:23,726 --> 0:11:24,3
+Right there.
+
+
+423
+0:11:24,3 --> 0:11:26,4
+And now let go!
+
+
+424
+0:11:26,4 --> 0:11:27,1
+Hands down.
+
+
+425
+0:11:27,1 --> 0:11:27,36
+Hands down.
+
+
+426
+0:11:27,36 --> 0:11:28,73
+Hands down.
+
+
+427
+0:11:28,73 --> 0:11:29,432
+Here it comes.
+
+
+428
+0:11:29,432 --> 0:11:29,885
+Oh!
+
+
+429
+0:11:29,885 --> 0:11:30,338
+FEMALE SPEAKER: Oh!
+
+
+430
+0:11:30,338 --> 0:11:31,697
+[LAUGHTER]
+
+
+431
+0:11:31,697 --> 0:11:33,16
+STEVE SPANGLER: You see
+it coming towards you.
+
+
+432
+0:11:33,16 --> 0:11:35,255
+Now, if you do this, if you put
+it right up to your nose
+
+
+433
+0:11:35,255 --> 0:11:38,98
+and then do one of these, like
+this, and you swing it out,
+
+
+434
+0:11:38,98 --> 0:11:40,639
+you put more energy
+back into it.
+
+
+435
+0:11:40,639 --> 0:11:41,98
+Yeah.
+
+
+436
+0:11:41,98 --> 0:11:43,393
+It'll smash your head.
+
+
+437
+0:11:43,393 --> 0:11:43,852
+[LAUGHTER]
+
+
+438
+0:11:43,852 --> 0:11:44,77
+BEAU: Smash your head.
+
+
+439
+0:11:44,77 --> 0:11:45,23
+[LAUGHS]
+
+
+440
+0:11:45,23 --> 0:11:46,315
+STEVE SPANGLER: She just
+has to trust that
+
+
+441
+0:11:46,315 --> 0:11:47,52
+it's going to be OK.
+
+
+442
+0:11:47,52 --> 0:11:48,953
+So are you ready?
+
+
+443
+0:11:48,953 --> 0:11:49,12
+ZARAH BROWN: Yep.
+
+
+444
+0:11:49,12 --> 0:11:50,53
+STEVE SPANGLER: So I'll do the
+release, of there's no
+
+
+445
+0:11:50,53 --> 0:11:52,71
+possible way she could
+swing it wrong.
+
+
+446
+0:11:52,71 --> 0:11:54,16
+So it's going go right
+to your nose.
+
+
+447
+0:11:54,16 --> 0:11:54,64
+You got it?
+
+
+448
+0:11:54,64 --> 0:11:54,91
+ZARAH BROWN: Yep.
+
+
+449
+0:11:54,91 --> 0:11:56,576
+STEVE SPANGLER: Can you see
+right on the nose, Bradley?
+
+
+450
+0:11:56,576 --> 0:11:57,63
+Right to the nose.
+
+
+451
+0:11:57,63 --> 0:11:58,51
+You ready?
+
+
+452
+0:11:58,51 --> 0:11:59,66
+Set.
+
+
+453
+0:11:59,66 --> 0:12:0,37
+Don't move.
+
+
+454
+0:12:0,37 --> 0:12:1,39
+Here it comes.
+
+
+455
+0:12:1,39 --> 0:12:2,41
+Stay there.
+
+
+456
+0:12:2,41 --> 0:12:2,91
+Don't move.
+
+
+457
+0:12:2,91 --> 0:12:3,36
+Don't move.
+
+
+458
+0:12:3,36 --> 0:12:3,715
+Don't move.
+
+
+459
+0:12:3,715 --> 0:12:4,7
+ZARAH BROWN: [LAUGHS]
+
+
+460
+0:12:4,7 --> 0:12:6,4
+STEVE SPANGLER: Ah!
+
+
+461
+0:12:6,4 --> 0:12:6,33
+See?
+
+
+462
+0:12:6,33 --> 0:12:8,83
+You proved the laws of
+science are correct.
+
+
+463
+0:12:8,83 --> 0:12:9,72
+ZARAH BROWN: Hallelujah.
+
+
+464
+0:12:9,72 --> 0:12:11,5
+STEVE SPANGLER: La!
+
+
+465
+0:12:11,5 --> 0:12:13,4
+It's just touching your nose.
+
+
+466
+0:12:13,4 --> 0:12:14,21
+Then let go.
+
+
+467
+0:12:14,21 --> 0:12:15,19
+Don't move!
+
+
+468
+0:12:15,19 --> 0:12:17,3
+Don't move!
+
+
+469
+0:12:17,3 --> 0:12:17,433
+Ah!
+
+
+470
+0:12:17,433 --> 0:12:18,82
+MALE SPEAKER: It's really
+intimidating.
+
+
+471
+0:12:18,82 --> 0:12:19,21
+STEVE SPANGLER: Scared, huh?
+
+
+472
+0:12:19,21 --> 0:12:20,924
+MALE SPEAKER: That's really
+intimidating.
+
+
+473
+0:12:20,924 --> 0:12:21,918
+STEVE SPANGLER: Hands down.
+
+
+474
+0:12:21,918 --> 0:12:23,409
+Hands down Hands down.
+
+
+475
+0:12:23,409 --> 0:12:24,403
+Don't move.
+
+
+476
+0:12:24,403 --> 0:12:24,9
+Don't move.
+
+
+477
+0:12:24,9 --> 0:12:25,894
+FEMALE SPEAKER: Oh!
+
+
+478
+0:12:25,894 --> 0:12:26,888
+[LAUGHTER]
+
+
+479
+0:12:26,888 --> 0:12:27,882
+MALE SPEAKER: God.
+
+
+480
+0:12:27,882 --> 0:12:29,39
+[INAUDIBLE].
+
+
+481
+0:12:29,39 --> 0:12:31,346
+MALE SPEAKER: Back.
+
+
+482
+0:12:31,346 --> 0:12:34,304
+[LAUGHTER]
+
+
+483
+0:12:34,304 --> 0:12:36,276
+STEVE SPANGLER: We're going
+to come back and smash
+
+
+484
+0:12:36,276 --> 0:12:36,769
+[INAUDIBLE]
+
+
+485
+0:12:36,769 --> 0:12:37,262
+[LAUGHTER]
+
+
+486
+0:12:37,262 --> 0:12:37,511
+MALE SPEAKER: Woo!
+
+
+487
+0:12:37,511 --> 0:12:37,76
+[LAUGHS]
+
+
+488
+0:12:37,76 --> 0:12:39,98
+STEVE SPANGLER: Here it comes.
+
+
+489
+0:12:39,98 --> 0:12:42,2
+It shouldn't have any more
+energy than you put--
+
+
+490
+0:12:42,2 --> 0:12:42,62
+oh!
+
+
+491
+0:12:42,62 --> 0:12:44,528
+FEMALE SPEAKER: Oh!
+
+
+492
+0:12:44,528 --> 0:12:45,52
+That was close.
+
+
+493
+0:12:45,52 --> 0:12:47,504
+[LAUGHS]
+
+
+494
+0:12:47,504 --> 0:12:48,992
+[INTERPOSING VOICES]
+
+
+495
+0:12:48,992 --> 0:12:50,48
+STEVE SPANGLER: That's back--
+
+
+496
+0:12:50,48 --> 0:12:51,472
+[LAUGHS]
+
+
+497
+0:12:51,472 --> 0:12:52,96
+[LAUGHTER]
+
+
+498
+0:12:52,96 --> 0:12:54,448
+STEVE SPANGLER: There it is.
+
+
+499
+0:12:54,448 --> 0:12:55,44
+There it is.
+
+
+500
+0:12:55,44 --> 0:12:55,936
+There it is.
+
+
+501
+0:12:55,936 --> 0:12:57,94
+It's there.
+
+
+502
+0:12:57,94 --> 0:12:59,926
+[LAUGHTER]
+
+
+503
+0:12:59,926 --> 0:13:2,44
+STEVE SPANGLER: That's
+a little too much.
+
+
+504
+0:13:2,44 --> 0:13:2,856
+Oh!
+
+
+505
+0:13:2,856 --> 0:13:3,69
+[LAUGHTER]
+
+
+506
+0:13:3,69 --> 0:13:5,124
+STEVE SPANGLER: Did
+you see her hair.
+
+
+507
+0:13:5,124 --> 0:13:6,8
+Isn't that great?
+
+
+508
+0:13:6,8 --> 0:13:7,36
+Put your hands down.
+
+
+509
+0:13:7,36 --> 0:13:7,514
+Don't move!
+
+
+510
+0:13:7,514 --> 0:13:8,47
+Don't move!
+
+
+511
+0:13:8,47 --> 0:13:8,589
+FEMALE SPEAKER: Don't move!
+
+
+512
+0:13:8,589 --> 0:13:8,948
+STEVE SPANGLER: Don't move!
+
+
+513
+0:13:8,948 --> 0:13:9,306
+FEMALE SPEAKER: Don't move!
+
+
+514
+0:13:9,306 --> 0:13:9,426
+Don't move!
+
+
+515
+0:13:9,426 --> 0:13:9,904
+Oh!
+
+
+516
+0:13:9,904 --> 0:13:10,382
+[LAUGHS]
+
+
+517
+0:13:10,382 --> 0:13:12,294
+[LAUGHTER]
+
+
+518
+0:13:12,294 --> 0:13:12,926
+STEVE SPANGLER: See?
+
+
+519
+0:13:12,926 --> 0:13:13,66
+You were fine.
+
+
+520
+0:13:13,66 --> 0:13:14,626
+Oh!
+
+
+521
+0:13:14,626 --> 0:13:15,592
+[LAUGHTER]
+
+
+522
+0:13:15,592 --> 0:13:18,7
+STEVE SPANGLER: You're
+OK, Marie.
+
+
+523
+0:13:18,7 --> 0:13:19,76
+No possible way.
+
+
+524
+0:13:19,76 --> 0:13:20,44
+Don't move.
+
+
+525
+0:13:20,44 --> 0:13:20,79
+Don't move!
+
+
+526
+0:13:20,79 --> 0:13:21,764
+FEMALE SPEAKER: Oh, my God!
+
+
+527
+0:13:21,764 --> 0:13:22,738
+My face!
+
+
+528
+0:13:22,738 --> 0:13:23,712
+[LAUGHTER]
+
+
+529
+0:13:23,712 --> 0:13:24,686
+STEVE SPANGLER: See?
+
+
+530
+0:13:24,686 --> 0:13:27,121
+You're OK.
+
+
+531
+0:13:27,121 --> 0:13:27,608
+Don't move.
+
+
+532
+0:13:27,608 --> 0:13:28,95
+Don't move.
+
+
+533
+0:13:28,95 --> 0:13:30,43
+ANN: [LAUGHS]
+
+
+534
+0:13:30,43 --> 0:13:31,504
+[LAUGHTER]
+
+
+535
+0:13:31,504 --> 0:13:34,426
+[APPLAUSE]
+
+
+536
+0:13:34,426 --> 0:13:34,913
+[MUSIC PLAYING]
+
+
+537
+0:13:34,913 --> 0:13:36,51
+STEVE SPANGLER: Here
+it swings.
+
+
+538
+0:13:36,51 --> 0:13:37,77
+It's coming back.
+
+
+539
+0:13:37,77 --> 0:13:38,65
+Do move.
+
+
+540
+0:13:38,65 --> 0:13:40,7
+Oh.
+
+
+541
+0:13:40,7 --> 0:13:41,7
+See?
+
+
+542
+0:13:41,7 --> 0:13:41,22
+Beautiful.
+
+
+543
+0:13:41,22 --> 0:13:42,18
+It works with no--
+
+
+544
+0:13:42,18 --> 0:13:43,16
+oh!
+
+
+545
+0:13:43,16 --> 0:13:45,1
+It works with no
+problem at all.
+
+
+546
+0:13:45,1 --> 0:13:47,42
+And Isaac Newton was correct.
+
+
+547
+0:13:47,42 --> 0:13:49,156
+[MUSIC PLAYING]
+
+
+548
+0:13:49,156 --> 0:13:50,91
+STEVE SPANGLER: Well, if you
+enjoyed this week's episode,
+
+
+549
+0:13:50,91 --> 0:13:52,87
+go ahead and click the Subscribe
+button here.
+
+
+550
+0:13:52,87 --> 0:13:55,22
+You'll be the first to know
+when a brand new episode
+
+
+551
+0:13:55,22 --> 0:13:56,73
+appears each week.
+
+
+552
+0:13:56,73 --> 0:13:59,0
+This button right here will
+show you some more cool
+
+
+553
+0:13:59,0 --> 0:14:1,67
+science experiments that we
+do outside of the show.
+
+
+554
+0:14:1,67 --> 0:14:3,54
+This button right here will
+take you to last week's
+
+
+555
+0:14:3,54 --> 0:14:4,85
+episode, just in case
+you missed it.
+
+
+556
+0:14:4,85 --> 0:14:7,8
+And if you want to see something
+you shouldn't see,
+
+
+557
+0:14:7,8 --> 0:14:9,62
+that's the bloopers and the
+outtakes, well, just click
+
+
+558
+0:14:9,62 --> 0:14:11,1
+this one right over here.
+
+
+559
+0:14:11,1 --> 0:14:13,14
+And if you want to hear me stop
+talking through the magic
+
+
+560
+0:14:13,14 --> 0:14:15,16
+of television, just click
+this button right here.
+
+
+561
+0:14:15,16 --> 0:14:15,76
+Go ahead.
+
+
+562
+0:14:15,76 --> 0:14:16,96
+Click it, and I'll stop.
+
+
+563
+0:14:16,96 --> 0:16:16,96
+[MUSIC PLAYING]
+
+

@@ -1,0 +1,418 @@
+###0 >> For our presentation today from Kirk Sorensen, the founder of Flibe Energy. Kirk has been
+###4 a promoter of energy from Thorium for a long time as [INDISTINCT] energyfromthorium.com
+###8 where pretty big community of amateurs and experts from around the world that had been
+###14 contributing to the community effort to define what would be the optimal Thorium reactor,
+###19 nuclear reactor which generates electricity from Thorium. This is a technology that's
+###24 been around for a long time since, shortly after World War Two. It was matured well up
+###32 until early 1970s and then, and then kind of suddenly ended in favor of the liquid-metal
+###35 fast breeder reactor which then also ended. And Kirk will give us a talk today and explain
+###41 kind of what went wrong, why it stopped, why it--how is this been done. You know, if it's
+###46 such a great idea, why aren’t we doing it? And their actions have very good reasons for
+###50 that and maybe other reasons are cost and then, maybe we should start doing it again.
+###54 So, please have Kirk Sorensen. >> SORENSEN: Thank you very much, Chris. I'm
+###57 very glad to be here at Google today and given another Tech-talk. I always enjoy coming and
+###61 been a part of these things. The question that I'm going to try to answer today is one
+###66 that I'm often asked as I give presentations on Thorium. In fact, I'm almost always asked
+###70 this question which is, "Kirk, Thorium sounds like a great idea. It sounds like it's a good
+###76 technology, why didn’t this happen?" We are Flibe Energy a new company to develop
+###80 liquid fluoride Thorium reactor technology. We're following the vision of Alvin Weinberg.
+###86 He was the director of Oak Ridge National Lab from the 50s to the 1970s and he had a
+###91 vision of how we could use Thorium to advance beyond the current constrains of our society
+###97 in terms of fossil fuels, hydro power and existing nuclear technology. One of the amazing
+###103 parts about his vision was how this could transform not only the US economy but many
+###107 other places in the world. Some of which don’t have the resources that we have in terms of
+###112 fresh water or arable land. This is a vision he had of how Thorium reactors could be used
+###117 to desalinate water, grow crops in desert areas and to some of us like caught terraforming
+###123 the earth, but to really truly change the economic balance of the world. Weinberg's
+###129 vision on the other hand, was brought to an end in the early 1970s and that is really
+###133 the subject of the talk today. There really were three options for nuclear energy at the
+###138 dawn of the nuclear era. There was Uranium-235 which was fissile form of Uranium. This was
+###143 the form of Uranium, they could actually be utilized directly in a nuclear reactor. Most
+###148 of the Uranium was the Uranium-238. This had to be transformed into another nuclear fuel
+###154 called Plutonium before it could be used. And then there was Thorium and in a similar
+###158 magnitude reining 238, it also had to be transformed into another nuclear fuel, Uranium-233 before
+###165 it could use in a reactor. There were some significant differences though between these
+###169 three fuels. As I mentioned, Uranium-235 could be used directly. The other two had to be
+###175 transformed and that meant, they needed two neutrons to be consumed, one to transform
+###179 them and one to fission them. And in order for this to be a sustainable process, you
+###183 have to know what will they emit more than two neutrons when they fission. And the answer
+###188 was, "Yes, they did." In fact, all three of them emitted more than two neutrons when they
+###193 fission. Here was Uranium-235, Uranium-233 admitted about two and a half neutrons per
+###198 fission and Plutonium with fission with almost three neutrons per fission. So, it would emit
+###203 the most neutrons when it fissions. So, the first answer was yes. All three of the fuels
+###208 gave off enough neutrons to sustain their consumption of reactor. But there was more
+###213 to the story, this is a busy graph and I apologize in advance for it. But it tells the story
+###219 of much of our nuclear history. And what it shows is, Plutonium doesn’t emit enough
+###223 neutrons when it isn’t being fission by fast neutrons in order to continue the conversion
+###229 of future Uranium into Plutonium to continue its breeding. It has to be fissioned by fast
+###236 neutrons in order to do this. On the other hand, Thorium and Uranium-233 produce enough
+###242 neutrons in both thermal and fast fission to continue the utilization of that fuel.
+###247 I call it the Threshold of Two, and it's not just about how many neutrons they emit, but
+###252 how many neutrons they emit even accounting for absorption. Because they don’t always
+###257 fission every single time they're hit by a neutron. Uranium-233 and Plutonium-239 of
+###263 those two in thermal neutrons, only Uranium-233 crosses the Threshold of Two. In fast fission
+###270 on the other hand, both Uranium-233 and Plutonium-239 crossed the Threshold of Two. So, it would
+###278 seem, what we just want a fast reactor. We don’t want a reactor that uses slow down
+###282 thermal neutrons, we want a fast reactor because--then we will great confidence that we will be able
+###287 to sustain the consumption of nuclear fuel. Well, there's a powerful disincentive to doing
+###293 it this way and it has to do with what are called, Cross-Sections. These are mathematical
+###299 way of describing how likely it is that a nuclear reaction will proceed and they the
+###305 form of areas, quite literally in area someone's called "a barn" which is, 10 to the minus
+###311 24 square centimeters. This is a really, really, really small unit to variat. But this is the
+###316 unit that nuclear engineers used to describe how probable a nuclear reaction is. This is
+###322 the cross-section of Uranium-233 to a thermal neutron. By comparison, this very, very small
+###329 circle right here is the cross-section of Uranium 233 to a fast neutron. So, it's not
+###333 hard to see which one is more likely to have a fission reaction. A thermal neutron is far
+###340 more likely to cause the fission reaction than a fast neutron. So, the advantage now
+###345 seems to be for the thermal reactors. This is a general feature of almost all nuclear
+###350 materials that their cross-sections are much larger to thermal neutrons than they are to
+###355 fast neutrons. Here we see the cross-section of Plutonium. It's huge in the thermal spectrum
+###361 and it's very, very small in the fast spectrum. And that means that Plutonium is much more
+###367 likely to have a nuclear reaction to a slow down neutron than to a fast neutron. So again,
+###373 why consider a fast reactor? Well, it's because--look at these red regions. Those regions indicate
+###381 the probability that the neutron will be absorbed but not cause a fission, that it will simply
+###385 just be absorbed. You can see that, that probability is about 10% for Uranium-233 in the thermal.
+###391 But if we were to magnify that cross-section, significantly by factor of 500, you could
+###398 see that, that probability becomes much smaller in the fast spectrum. A fast neutron if it
+###404 is absorbed almost always will cause a fission. This is significant for Uranium-233 but it's
+###410 much more significant for Plutonium 239. It will absorb a neutron about one-third of the
+###415 time and not cause a fission. But in the fast spectrum, it will almost always cause a fission.
+###421 So, to make sure that we cross that Threshold of Two, it was necessary to build fast reactors
+###428 that would use Plutonium. On the other hand, it was conceivable that you could build thermal
+###434 or fast reactors that would use Uranium-233. This uncertainty was not particularly appearing
+###441 at the time. They wanted to move out in directions that they felt very confident it. So, the
+###445 United States began to pursue a fast breeder reactor. In 1951, they build the experimental
+###451 breeder reactor one in Idaho. This was a fast breeder reactor. This was a reactor that was
+###456 going to not slow down neutrons but use fast neutrons to convert Uranium into Plutonium
+###462 and to breed from it. This was actually the first reactor to generate some power. It lit
+###466 four little light bulbs and ultimately generated, I believe several hundred kilowatts of power.
+###470 But it shows how early the United States was moving out on the fast breeder reactor. It
+###476 was followed by the experimental breed reactor number two, which was also a fast breeder
+###482 reactor much larger this time. It made 62 megawatts of thermal power. Industry got excited
+###488 about the potential for making breeder reactors. This was actually a commercial reactor, The
+###494 Enrico Fermi Breeder Reactor in Monroe Michigan. They began working on this reactor in 1957
+###501 and it achieved criticality in 1966. But shortly after it achieved criticality, they had a
+###508 melt down at the Enrico Fermi Reactor where the reactor was damaged and shut down. At
+###513 this time, Alvin Weinberg and his colleagues at the Oak Ridge National Labs were working
+###519 on Molten-salt Reactors. These were reactors that didn’t operate in the fast spectrum.
+###524 They operate to slow down neutrons and they predominantly were interested in using Thorium
+###529 and Uranium-233. Weinberg wrote an introduction to a series of papers that were published
+###535 in a nuclear journal in 1969. And these are some of the words that he used and I've always
+###541 found it very interesting how careful and measured he was with his utilization of language.
+###547 Because he knew that most of the effort of the country was on the fast breeder reactor
+###551 and very little in comparison was on the Molten-Salt Reactor. And he said, "The prevailing view
+###557 holds that the liquid-metal fast breeder reactor is the proper path to ubiquitous permanent
+###563 energy. It is no secret that I, as well many of my colleagues at Oak Ridge, have always
+###568 felt differently. When the idea of the breeder was first suggested in 1943, the rapid and
+###574 the efficient recycle of the partially spec core was regarded as the main problem. Nothing
+###579 that has happened in the ensuing quarter century has fundamentally changed this." So, Weinberg
+###584 begins to lay out the scenario that physics hasn't changed and unless you can rapidly
+###591 reprocess nuclear fuel, you won't be able to realize the benefits of the breeder reactor.
+###596 He then goes on to offer an alternative to the prevailing view. The successful breeder
+###601 will be the one that can deal with the spent fuel or the spent core most rationally either
+###607 by achieving extremely long burn up or by greatly simplifying the entire recycle step.
+###613 We at Oak Ridge, have always been intrigued by this latter possibility. It explains our
+###617 long commitment to liquid fuel reactors, first, the Aqueous homogenous and now the Molten-salt.
+###622 So, he presented a different scenario, how they could use fluid field reactors to achieve
+###628 the overall goal of the efficient utilization of nuclear fuel. And the series of papers
+###634 that followed in this were some of the first discussions in the nuclear literature about
+###639 the potential of the Molten-salt reactor. It was not well-known. The moneys that had
+###643 been appropriated in order to research the different breeder reactor types are listed
+###648 in this graph and I found this graph, thanks to a book that had been scanned into Google
+###651 books. Thanks. So, project started by my good friend, Chris Eucare here, so I greatly appreciate--this
+###656 is one of the many things I'm sure people have done with your work. Numbers are one
+###660 thing, so I took it and threw it in a spreadsheet and made a nice graph. The red line shows
+###665 the expenditures on the fast breeder reactor, and this graph only begin to 1968. At that
+###669 point, the United States had already built several fast breeder reactors. We're looking
+###675 at 75 to nearly a hundred million dollars in 1968. It's very hard to see the green line
+###682 for the Molten-salt breeder reactor technology, it's extremely low and then ultimately, it
+###686 was cancelled and briefly resurrected in 1975 and then cancelled again. So, on a scale of
+###692 the appropriations that were made to the fast breeder reactor, you've just about can't see
+###696 the appropriations that were made to the Molten-salt breeder reactor. In June of 1971, President
+###703 Richard Nixon made a speech where he talked about the need for the fast breeder reactor.
+###710 He put the United States on record that this would be a top national goal. Now, we don't
+###715 have any video from the speech he gave that day. But later on in that day, he called Representative
+###720 Craig Hosmer from California to tell him about the speech about the breeder reactor.
+###725 >> Yeah. >> Calling for Craig Hosmer, sir. Ready?
+###728 >> HOSMER: Oh. >> NIXON: Okay.
+###730 >> HOSMER: Mister President? >> NIXON: Since you missed our meeting when
+###733 we had--on a breeder reactor, you know... >> HOSMER: Okay.
+###736 >> NIXON: ...I wanted you to know that we sent a message today, Craig but then I just
+###739 told Zigler that--I told Zigler to tell the press that there's a by part [INDISTINCT]
+###743 that you and [INDISTINCT] >> HOSMER: All right.
+###746 >> NIXON: ...had been bugged me about it. The one thing I wanted to tell you too is
+###749 that, I--Holified was there last night at the [INDISTINCT] Club thing, and I--and I
+###754 have told the people around here--now, this is got to be something we play very close
+###758 to the vest, but I'm being ruthless on one thing, any activities that we possibly can,
+###763 should be placed in southern California in this field. And also, in the saline water
+###769 field. >> HOSMER: Correct.
+###770 >> NIXON: You know, we need the jobs. We need to sum up those air passed workers. Now, we
+###774 got some--we're going to do a couple of new things on water for example, and I have decided
+###778 to throw one big plant in southern California. I mean, you know, a big one of these implementing
+###783 it, if you know what I mean, is... >> HOSMER: Right, right.
+###785 >> NIXON: ...it's just a question how big the plant is. But in this energy field, I
+###790 told Dr. David and of course, Seaborg and the rest that we do it. So, on the committee,
+###795 everytime you have a chance, needle them, say, "Where is this going to be?" Let's push
+###798 the California thing. Can you do that? >> HOSMER: Incidentally, Mister President...
+###799 >> NIXON: Yeah. >> HOSMER: ...I am so delighted that you released
+###799 $16 million on the improvement if the enriching complex. I bet that handles the bad...
+###801 >> NIXON: Right. >> HOSMER: ...political problem for us.
+###804 >> NIXON: Right. Good, good. Well, they told me you were interested in it, and I said,
+###811 "Well, if Hosmer is for it, I'm for it." >> SORENSEN: All right. Let's pause there.
+###819 You can tell just a little bit from listening to Nixon's words that, the fast breeder reactor
+###825 was viewed by him and probably some others in administration as something that they could
+###829 use to economic advantage for the people of southern California to get it. Nixon was from
+###834 California, Hosman was from southern California, Holifield, Chet Holified who ran the--joined
+###839 the committee on atomic energy was also from California. And I think some of the phrases
+###844 in this--in this phone call is very interesting. I'm going to be ruthless on this. We've got
+###848 to play this very close to the vest. It's about jobs, if you're for it, and I'm for
+###852 it. It doesn't lead me to believe that the President was seriously considering alternatives
+###859 to the fast breeder reactor. Another past that could’ve been taken. It was focused
+###862 on what can we do right now to get jobs back home to the--the folks are going to support
+###867 us in re-election. Well a few months later, Nixon was at Hanford, Washington which is
+###873 the side of many of our nations earliest nuclear energy facilities. And he was also giving
+###879 a talk on the significance of the breeder reactor. And again, note the economic potential
+###886 that he puts in front of people during his talk.
+###888 >> NIXON: That is why I made an announcement on June the 4th, one that didn't get of course
+###892 the enormous publicity of the announcement of the journey to China, one that didn't get
+###897 the publicity of my announcement of the economic policy to deal with the problems of inflation
+###902 and unemployment in this country. But one which in terms of the future of the country
+###907 maybe in long term, long range terms even more important in some respects and that is,
+###915 at the United States was going to go forward in building a breeder reactor. Now, don't
+###921 ask me what a breeder reactor is, ask Dr. Slazenger, but don't tell, I'm not to tell
+###925 you because unless you're one of those PHDs, you won't understand it either. But what I
+###930 do know is this, that here we have the potentiality of holding a new breakthrough and the development
+###939 of power for peace, and that means jobs, jobs for this area but jobs and power for hundreds
+###945 from millions of people all over the world. >> SORENSEN: Jobs, job is what it was all
+###952 about. And this area that Nixon was talking to in Hanford, Washington, this was a very
+###956 well-educated area. A lot of the people in the back in there probably had PHDs in nuclear
+###961 engineering and knew exactly what a breeder reactor was. But Nixon was emphasizing the
+###965 economic benefits to them of his announcement that there was going to be a breeder reactor.
+###971 >> NIXON: All of this business about breeder reactors and nuclear energy and the stuff
+###975 is over my--that was one of my poorest subjects, Science and I got through it, but I had to
+###980 work too hard. I gave it up when I was about a sophomore.
+###983 >> SORENSEN: Well, maybe it might have benefited our country a little more if Nixon had been
+###987 able to ascertain the different values of different types of a breeder reactors and
+###991 why one might have an advantage over another. But nevertheless, the US was now firmly on
+###997 the course of making the breeder reactor, a national priority. Nixon emphasized it in
+###1002 his State of the Union Speech. He then emphasized it in another message to congress, the democratic
+###1007 and republic in party platforms in 1972 both included the fast breeder reactor as a national
+###1013 priority. Now, this is about the time when Weinberg's story with the Molten-salt reactor
+###1019 begins to intersect this much larger story of the breeder reactor and the congressional
+###1024 support behind it as well as the presidential support. Testimony given in September of 1972,
+###1030 they noted that the US government would be expected to cover cost overruns on the breeder
+###1035 reactor and the development cost would go over $700,000,000. At this point, industry
+###1041 had already committed $200,000,000 then your dollars to the breeder reactor effort. Representative
+###1046 Craig Hosmer, who was the fellow on the phone call that we heard earlier, said that "If
+###1051 cost targets were missed, I for one don't intend to scream and holler about it." It's
+###1055 not hard to see that they could see great economic benefits occurring to their area
+###1061 of the country if the breeder reactor program was to go forward. In that same month, the
+###1067 atomic energy commission issued WASH 1222, which was an evaluation of Weinberg's Molten-salt
+###1073 breeder reactor. It was highly critical of several technological issues that had been
+###1078 encountered during the development of that idea, more importantly though, it almost completely
+###1084 ignored the safety and economic improvements possible through the use of the Molten-salt
+###1091 breeder reactor technology. Weinberg himself had a meeting which Chet Holified and Milton
+###1096 Shaw of the Atomic energy commission in 1972. We don't know exactly when this meeting took
+###1101 place. Our only record of it is contained in Weinberg's book, his autobiography, The
+###1106 First Nuclear. Here's what he said, "I found myself increasingly at odd with the reactor
+###1111 to the vision of the Atomic energy commission. The director at the time was Milton Shaw.
+###1115 Milt was cut from the Rickover cloth, he had a singleness of purpose and was prepared to
+###1120 bend the rules and regulations in achievement of his goal." Why would he feel this pressure
+###1124 if he has the president and these congressional folks pushing for the fast breeder reactor?
+###1129 "At the time, he became director, the atomic energy commission had made the liquid-metal
+###1133 fast breeder reactor, the primary goal of it's reactor program. Milt tackled the LMFBR
+###1138 project with Rickoverian dedication: woe unto any who stood in his way. This caused problems
+###1143 for me since I was still espousing the Molten-salt breeder." Milt was like a bull, he enjoyed
+###1148 congressional confidence so his position in the AEC was unassailable. And it was clear
+###1153 that he had little confidence in me or Oak Ridge. After all, we were pushing Molten-salt
+###1157 not the fast breeder, more than that, we were being troublesome over the question of reactor
+###1162 safety. And that was another aspect that was getting Weinberg into trouble. He had invented
+###1168 the pressurized light water reactor that formed the backbone of the reactor technologies that
+###1172 were being developed in the country at that time. Here's a picture of some of the pressurized
+###1176 water reactors. His work on the Thorium reactor led him to believe that a significantly higher
+###1182 level of safety was possible. And this--in large part was because the Thorium reactor
+###1186 operated low pressures whereas, water-cooled reactors operated the high pressures. So,
+###1193 he was beginning to bring these issues up in support of the Thorium reactor, but it
+###1198 didn't have that effect. Congressman Chet Hollifield was clearly exasperated with me
+###1203 and he finally blurted out, "Alvin, if you're so concerned about the safety reactors, then
+###1207 I think it might be time for you to leave nuclear energy." But I was speechless, but
+###1212 it was apparent to me that my style, my attitude and my perception of future were no longer
+###1217 in tune with the powers within the AEC. And I think this was a very sad moment in the
+###1222 history of our country and probably in the history of the world because an entire direction
+###1227 of potential development was being ended at that moment by a not well thought out comment
+###1235 by Congressman Holifield, who was very powerful. Weinberg looked at this fairly philosophically
+###1239 when he wrote his autobiography in 1994. And He said, "I look back in these events, I realize
+###1244 that leaving Oak Ridge was the best thing that could have happened to me. My views about
+###1248 nuclear energy were at variance with those of the AEC congressional leadership. After
+###1252 all, it was I who had called nuclear energy a Faustian bargain, who continued to promote
+###1256 the molten-salt breeder. So, Weinberg's pursuit of Thorium appears to have had a great deal
+###1262 to do with why he was fired from his position at Oak Ridge in the atomic energy commission.
+###1268 And it's not hard to see when you stack up the forces that weren't supportive of the
+###1273 fast breeder and that effort, the money, the industrial backing, the confidence they had
+###1280 and here is Weinberg trying to push something different, why they would attempt to truncate
+###1285 his work. The [INDISTINCT] that was in January of 1973, Oak Ridge was directed by the atomic
+###1290 energy commission to terminate the development of the molten-salt reactor. April of that
+###1295 year, Nixon went into reiterate his commitment to the fast breeder, saying it would extract
+###1299 30 times more energy from Uranium than light water reactors and it was highest priority
+###1303 target for nuclear resear and development. We weren't the only ones pursuing the fast
+###1307 breeder reactor. In August 1973, the Phenix reactor in France achieved critically. So,
+###1314 we had real competition in this area and I think it had something to do with the zeal
+###1319 the United States felt to become preeminent in this field. But then something else happened
+###1323 in 1973 that was far more significant. The Yom Kippur war started, it led to the OPEC
+###1329 oil Embargo. Suddenly, the United States, their supply of oil was cut back tremendously.
+###1335 There were long lines, gas stations, people were having to alternate days when they could
+###1340 buy gas, people were--somebody's not able to get to work, enormous amount of economic
+###1346 activity which truncated. Nixon felt great pressure so, he announced project independence
+###1351 which was a plan to make the United States energy independent by 1980. This involved
+###1356 building many fast breeder reactors, many conventional reactors, new oil drilling, new
+###1361 refineries, new coalmines, all kinds of things to make the United States independent in energy
+###1368 supply. He promoted these in talks before congress but then in March of 1974, the oil
+###1373 Embargo ended and pressure reduced to implement project independence. But something else happened
+###1379 that was very significant in 1974. India detonated a nuclear weapon that had been built from
+###1385 Plutonium separated from natural Uranium and a heavy water reactor. This was a very significant
+###1391 event in the history of how the United States approached nuclear power because they became
+###1396 quite fearful, the Plutonium that could be separated from Uranium in reprocessing facilities
+###1402 would be able to be used in a nuclear weapon. And there are many arguments why that is not
+###1407 feasible in conventional light water nuclear reactors, but there are also other arguments
+###1413 on how changes on how you would put fuel through a reactor could lead to, so called Weapons
+###1418 Grade Plutonium, rather than what we call, Reactor Grade Plutonium which is not suitable
+###1423 for nuclear weapons. The entire fast breeder program was partially built on the assumption
+###1429 that separated Plutonium would be available from the light water reactors that we had
+###1433 already built. If we were able to take that Plutonium out, we would be able to start these
+###1437 fast breeder reactors because they required significantly more nuclear fuel to turn them
+###1442 on than a light water reactor did. And that had to do with those relative cross-sections
+###1447 I showed, how big the Plutonium cross-section was in the thermal reactor versus how small
+###1452 it was in the fast reactor. That's why it takes so much more fuel to start a fast breeder
+###1458 reactor for the same electrical power rating than a thermal reactor. Nixon resigned in
+###1464 1974 and Gerald Ford became the President. He put some changes in place for the atomic
+###1468 energy commission, splitting it into two new divisions, the nuclear regulatory commission
+###1473 and the energy research and development administration which would go on to become the DOE. The joint
+###1478 congressional committee in atomic energy lead by Chet Holifield was abolished, the balance
+###1483 of power which changed when Ford came in, in 1974 and made these changes to the AEC
+###1489 and to the congressional committee. But Ford still supported the fast breeder reactor.
+###1494 He mentioned it in several of his speeches including in State of the Union Address. He
+###1498 increased funding for RND for the fast breeder reactor. And he highlighted how the fast breeder
+###1504 reactor could be used to extend Uranium resources for centuries. As the 1976 election approached
+###1509 though, it was very close between Jimmy Carter and Gerald Ford. Jimmy Carter wanted Uranium
+###1517 reprocessing to be abolished. He did not want it to take place. Only about a week before
+###1522 the election, on October 28th, 1976, Ford took Carter's position. He said, "We are not
+###1529 going to reprocess Uranium anymore. We're not going to separate Plutonium," and he highlighted
+###1534 the risk of proliferation as one of the main reasons why he was making this decision. But
+###1539 it's almost certain that pressure from Carter and an attempt to improve his potential to
+###1545 win the 1976s election had to have something to do with it. At that time, the proposal
+###1550 was to build another fast breeder reactor. This time in Tennessee, very close to Oak
+###1555 Ridge on the Clinch River, so this was the proposal that was before the nation as Jimmy
+###1560 Carter became the President in 1977. And Carter was not a supporter of this fast breeder reactor.
+###1567 He considered that the fast breeder reactor and its concentration had something to do
+###1573 with the lack of technology development and solar energy. He blamed the focus that had
+###1578 been on the fast breeder reactor. He called our society a Plutonium society that would
+###1583 use the fast breeder reactor. In April, he reiterated Ford's ban on reprocessing. So,
+###1590 not too much of a surprise, Ford had basically assumed Carter's position, Carter's says,
+###1594 "Yes, we will continue that as National Policy." He also calls for a cut back and funding for
+###1600 the Clinch River breeder reactor. However, he announced a new energy plan, focused less
+###1604 on petroleum and more on coal. He said, "There's no need to enter the Plutonium age by licensing
+###1609 or building a fast breeder reactor such as the proposed demonstration plan at Clinch
+###1613 River." And again, he blamed the emphasis on the breeder reactor for slow progress made
+###1618 in the progress of solar power. Surprisingly, Carter knew a thing or two about Thorium.
+###1623 And the reason he did is because at this time, Admiral Rickover was working with his neighbor
+###1629 reactors branch to load a Thorium Dioxide Uranium-233 Dioxide core into the shipping
+###1635 port reactor. Carter was able to turn the switch that turned the first and only Thorium
+###1641 breeder reactor in US history on. Several times he mentioned how--we wanted to try other
+###1646 approaches to breeder reactors than Plutonium, specifically light water breeder reactors
+###1652 using Uranium. But then, a meltdown happened a Three Mile Island, public confidence in
+###1657 nuclear energy in particular the light water reactor really went down. Even after Ronald
+###1661 Reagan was elected and lifted the ban on commercial reprocessing, no reprocessing plans were built.
+###1667 In 1982, the shipping port reactor which had been running for five years at this point
+###1671 on the Thorium, Uranium-233 core were shut down. And when they examined the fuel, they
+###1676 found that there was 1% more fuel in the reactor than there was when they started. This proved
+###1682 finally a Thorium breeder reactor was possible in a thermal spectrum. It had actually been
+###1688 done. It wasn't a Thorium molten-salt reactor, but it was a true Thorium breeder reactor.
+###1694 Another consequence of the decision not to reprocess nuclear fuel meant that we had to
+###1699 have a new strategy for the long-term disposal of Plutonium. Previously had been assumed
+###1705 that Plutonium from light water reactors would be sent to fast breeder reactors but without
+###1709 that, we need to know what to do. And so President Reagan sign in the Nuclear Waste Policy Act,
+###1714 which continues to be the law of the land till this day, and led to things like the
+###1718 [INDISTINCT] repository. The funding that went into the fast breeder reactor surprisingly
+###1723 peaked even after the United States had made the decision not to continue with reprocessing.
+###1729 And even under the Carter years, from 1976 to 1980, you can see funding levels for the
+###1733 fast breeder were very high. So, this was a reactor type that dominated the long range
+###1739 planning of the United States for many, many years. The atomic energy commission saw Plutonium
+###1744 as a sure bet in the fast breeder. It could cross the Threshold of Two. There wasn't uncertainty
+###1750 there. There was a degree of uncertainty with Thorium. They invested early and heavily in
+###1755 the fast breeder reactor, despite failures and meltdowns, and industry got involved with
+###1760 hundreds of millions of dollars of investment. In 1971 Nixon, made this the US strategy,
+###1767 how are we going to go forward? It was going to be based around the fast breeder, and shortly
+###1771 thereafter, Weinberg was fired and the molten-salt reactor program was cancelled. Before it cancelled
+###1775 the fuel processing program and Carter extended that ban, without fuel reprocessing, the fast
+###1780 breeder was not a viable candidate anymore. And nobody as far as we know in DC ever revisited
+###1787 the question of, "Was it a mistake to cancel the molten-salt reactor effort?" Should we
+###1792 have gone back and said, "You know, now that we're not going to do the fast breeder, maybe
+###1795 we should've done the molten-salt breeder reactor." In all of my studies, I have not
+###1800 been able to find any indication that, that ever took place, that there was a true revisiting
+###1805 of that decision to shut down and a rethinking. The team that worked on this at Oak Ridge
+###1811 disbanded and dispersed. And over the decades that fall the notch was totally forgotten.
+###1815 So now, here we are in 2011 asking, "Why is now the right time for the Liquid Fluoride
+###1821 Thorium Reactor, which is the modern form of the Thorium molten-salt reactor originally
+###1826 proposed?" We know that we need much more energy at much lower prices. And we have to
+###1831 do this with a much lower impact on the earth's environment. We know that we're facing severe
+###1836 challenges from global climate change, melting of glaciers, rising sea levels, changing weather
+###1843 patterns. We need to reduce the amount of carbon dioxide we're putting into the atmosphere
+###1847 dramatically. There's tremendous uncertainty amongst the public about nuclear power because
+###1853 of the events of Akushima Daichi, even though no one was killed there. The coverage and
+###1858 the tone that it took has made people question the safety of nuclear power, primarily the
+###1863 light water reactor to be able to have a different technology that doesn't have some of the risks
+###1869 of operating high pressure fluids and reactors that have the capability to have meltdowns.
+###1875 It's significant. Our alternatives in the form of fossil fuel caused tremendous environmental
+###1880 degradation, not just in mining and processing, but also to our atmosphere, transporting these
+###1886 fuels. It's not cheap to build electrical power transmission lines either. So, even
+###1890 if we wanted to build renewable energy sources dispersed in a wide variety of places, they
+###1895 would face challenges in order to get transmission lines built from here to there. To give you
+###1900 an idea of just some of the things we do in our high-tech online society today, this is
+###1904 a picture of a data center for Facebook that has been built just a hundred miles south
+###1909 of the Arctic Circle in Sweden. It consumes a hundred and twenty megawatts of hydro power,
+###1915 has 14 backup diesel generators to provide 40 megawatts of emergency power. It costs
+###1922 $760,000,000. This is one of the largest solar installations in the world. It's sited on
+###1927 a hundred and eighty-five hectares of land. It provides 20 megawatts of peak energy for
+###1932 15 hours a day at $420,000,000, or about $33 a watt. That's six to seven times what it
+###1940 cost to put other power transmission in. So, this is in Spain and the data center is in
+###1945 Sweden. So, here is an example of a customer that has a dense power demand that wants continuous
+###1950 power, no interruptions and it's in frozen Sweden and here is a diffused power supply
+###1955 in Spain. So, to run this building of those solar power systems, we'll need at least six,
+###1962 but we need more because these plants can only provide power for 15 hours a day. So,
+###1966 we'll need probably 10 or more of these sites to run one of these data centers. Plus, we'll
+###1972 need intercontinental transmission lines to get power from a place like Spain, that's
+###1976 nice and sunny, to a place like Sweden that's frozen. Is this what's going to happen? Probably
+###1980 not, probably what will happen is something more like this, where a dense power supply
+###1985 in the form of coal. This is the prettiest coal plant I've ever seen in my life. This
+###1989 is in Germany. But it provides 1600 megawatts of continuous power by burning lignite coal.
+###1996 Look at that, we could run 13 of those data centers with one of these coal plants. Sounds
+###2002 great right? Well unless you're the environment. If we try to use expensive intermittent and
+###2007 alternative energy, it's not going to be the answer. Most populations, most people on earth
+###2012 can't afford unsubsidized alternative energy. It's just too expensive. What they'll go towards
+###2018 is cheap, reliable, dirty energy. That's not a viable answer for the world either. But
+###2024 it's the one that will be taken because most people don't have alternatives. We believe
+###2028 natural, inexpensive, and abundant Thorium is the answer. This is the material that is
+###2033 dense enough and reliable enough to provide the energy that the world needs, but the machine
+###2038 to make it work is the key. Why molten-salt? Because molten-salt is the only one of the
+###2044 four potential coolants in the reactor that can run at both high temperature and low pressure.
+###2049 It also has a remarkable feature because of the properties of molten-salt. In the event
+###2054 of an emergency, the fuel could be drained into a passively safe, passively cool configuration.
+###2060 This is something that you can't do with a solid-fueled reactor. Finally, the advantages
+###2064 of the molten-salt reactor are significant, inherent passive safety through having fluid
+###2068 fuel and operating at low pressure. You can operate at high temperatures, which means
+###2072 you can get high thermodynamic efficiencies. Your fuel preparation costs are very low and
+###2077 there's no fuel fabrication cost. Fluorides also tried to be an excellent chemistry match
+###2082 with Uranium Thorium Fuel Cycle. They're chemically stable and they're impervious to radiation
+###2087 damage. That enables us to achieve unlimited fuel burn up and continuous recycling of the
+###2092 material from core to blanket. Uranium-233 is highly unsuitable for weapons diversion
+###2098 because of contamination with Uranium-232. And it's easy to down blend it in an emergency.
+###2103 Now, we do have challenges. These salts could be aggressive towards most metal construction
+###2108 materials. It requires special materials to avoid being corroded by the salt. High temperature
+###2115 operation is also both a blessing and a challenge. But I think the fact that the technology base
+###2121 is largely stagnated for 40 years is our single greatest challenge towards going forward,
+###2126 and also the unknown nature of this within the nuclear community. It's very different
+###2131 than what we do today with water cooled Uranium fueled reactors. They are the basis for today's
+###2136 regulatory environment. And so, there will be a great deal of education needed for this
+###2140 technology to go forward. But I think it has great potential because of these attributes.
+###2145 And five energy aspires to be the world leader in the design, development, and manufacture
+###2149 of these liquid fluoride Thorium reactors. Thank you very much.

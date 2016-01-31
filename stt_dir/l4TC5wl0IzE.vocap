@@ -1,0 +1,949 @@
+###16 Excelsior, this is the shuttlecraft Sturgeon.
+###18 Requesting docking coordinates.
+###20 Acknowledged, Sturgeon, you are cleared for docking.
+###26 Don't look so worried.
+###29 Say that one more time, and I swear
+###32 I'll bust you back to yeoman.
+###35 What's on today's schedule?
+###36 I've cleared it.
+###38 You'll have all the time in the world.
+###40 Docking is complete, Excelsior.
+###42 Copy that, Sturgeon.
+###44 Welcome aboard.
+###45 All the time in the world...
+###57 Tracking hydrogen-antihydrogen reaction signatures, Captain.
+###61 There's no doubt they're venting antimatter.
+###66 Maximum resolution.
+###70 Range, Mr. Sulu?
+###71 29 million kilometers, Captain.
+###74 They've drifted well within the Romulan Neutral Zone.
+###76 Another distress signal, Captain.
+###77 They say they're losing life support fast.
+###79 Mr. Sulu, plot an intercept course.
+###82 I want us in and out before anybody's the wiser.
+###86 Ever taken the Kobayashi Maru test?
+###89 Course plotted and laid in, Captain.
+###91 Full ahead.
+###92 Aye, sir.
+###98 Entering Romulan Neutral Zone.
+###103 We are now in violation of treaty.
+###105 Then let's not let any grass...
+###107 Captain, warp field signatures approaching.
+###108 Dropping to sublight.
+###109 On screen.
+###113 Romulan birds-of-prey,
+###114 Imperator class.
+###123 Detecting a build-up of hyperphasic energy, Captain,
+###126 in a triangulated pattern.
+###135 All decks-- Red Alert!
+###150 Space--
+###152 the final frontier.
+###159 These are the new voyages of the Starship Enterprise,
+###163 its five-year mission to explore strange new worlds,
+###167 to seek out new life and new civilizations,
+###171 to boldly go where no man has gone before.
+###214 Spock! What the hell just happened?
+###216 The merchant vessel has been...
+###218 annihilated, Captain.
+###220 There is nothing left.
+###222 Its very atoms have been ripped apart.
+###224 Get us out of here, Sulu.
+###225 Yes, sir!
+###232 Captain, I'm getting encrypted ship-to-ship
+###234 between the Romulan vessels.
+###235 Fortuitously, in a code
+###236 they are unaware that we have previously broken.
+###242 As I suspected.
+###243 The merchant vessel was destroyed by a new weapon,
+###246 most likely a prototype.
+###247 Captain...
+###248 they've spotted us.
+###259 They're building energy again. We have only seconds before...
+###261 Chekov, target those vessels and fire!
+###264 Targeting... firing phasers.
+###287 Damage report.
+###288 Minimal, Captain-- mostly from shifts in our gravity field.
+###291 Analysis, Spock.
+###292 Shields are holding.
+###293 We are safe for the moment-- but trapped.
+###295 Trapped.
+###297 How?
+###298 We appear to be caught in a hyperdimensional field.
+###305 The field is producing gravity waves...
+###309 ...ripples in the space-time continuum.
+###310 This is a strange definition of "safe," Mr. Spock.
+###315 Lieutenant Uhura,
+###316 send out a subspace message to the Romulan High Command,
+###319 in their encrypted code:
+###321 Weapons test a failure.
+###323 Our own ships destroyed.
+###325 Core breach... imminent.
+###328 Aye, sir.
+###330 We might at least dissuade them
+###332 from trying it again, anytime soon.
+###333 Most logical.
+###335 Thank you, Mr. Spock.
+###337 You, Bones and Scotty in conference now.
+###340 Mr. Sulu, you have the Conn.
+###349 Isn't the Kobayashi Maru
+###351 supposed to be a "no-win" scenario?
+###353 Let's hope not.
+###358 The field apparently
+###359 creates a quantum disruption
+###361 that negates the strong and weak forces binding atoms.
+###364 Anything caught within it simply ceases to exist.
+###368 And this is going to happen to us?
+###369 At the moment, our shields are protecting us.
+###372 But the power drain is considerable.
+###374 How much time? No more than 20 hours.
+###377 I cannot say for sure, the way the levels keep changing.
+###379 And we can't use full warp power to escape?
+###381 Ineffective.
+###383 Due to the field, we are in the grip of not four,
+###385 but considerably more dimensions.
+###387 We would need accurate coordinates
+###388 for all of them
+###389 in order to effectively extricate ourselves.
+###392 And without the data on how the field was generated,
+###394 the computer doesn't stand a chance of plotting a course out.
+###397 Is it possible the bird-of-prey has the data?
+###400 If the computer banks are still intact...
+###402 but we can't access them from here.
+###404 And with the field fluctuating to hell and back,
+###406 I wouldn't dare trust the transporters.
+###409 A shuttlecraft, then.
+###410 Wouldn't it be destroyed?
+###411 I believe we can extend the shields out
+###413 far enough to protect it.
+###418 Mr. Sulu.
+###419 Aye, sir?
+###421 We're going to need some fancy piloting
+###423 if we're going to get out of this mess,
+###424 with a few extra-dimensional coordinates thrown in.
+###428 Are you up for it?
+###429 When do I start?
+###432 Captain's Log, Stardate 6283.6.
+###435 The Enterprise is caught like a fly in amber,
+###438 in a tangle of multiple dimensions.
+###440 Our only hope of survival lies in obtaining data
+###442 from the remaining Romulan bird-of-prey
+###444 that might help us chart a course back to normal space.
+###447 I have detailed Lieutenant Sulu
+###449 to pilot a shuttlecraft to the derelict ship,
+###451 accompanied by an expert in Romulan computer science.
+###455 Sorry, sorry.
+###458 You know, we are kind of on the clock here.
+###460 I couldn't get into this damn thing.
+###463 Lisa Chandris, computer science, xeno-cryptography.
+###466 Hikaru Sulu, helmsman.
+###468 I know; I saw you on the bridge, when I came aboard
+###471 and presented my orders to the captain.
+###473 I got here, like, three days ago,
+###475 when you guys docked at Altair IV.
+###477 Well, you're certainly starting things off with a bang.
+###511 Keep them safe, Mr. Scott.
+###523 What was that?
+###526 Gravity wave.
+###529 One of the first things they ask you
+###531 when you sign on for starship duty
+###533 is if you're prone to space sickness.
+###537 I lied.
+###539 We'll be back with the data before you know it.
+###542 If our shields don't fail,
+###544 and if that bird-of-prey isn't torn to quarks
+###546 with us aboard it.
+###548 That about sums it up.
+###551 And that doesn't bother you, huh?
+###553 It certainly motivates me.
+###599 Sorry if I parked too far from the curb, Doctor.
+###602 You're a real cowboy, you are.
+###621 Careful. Gravity's unstable.
+###630 Computer's on a separate power grid,
+###631 so I should be able to...
+###633 Okay, we're on line.
+###634 Now all we have to do is locate the specific data
+###637 on the weapons system.
+###640 Ah, here we are.
+###644 Of course!
+###646 This making sense to you?
+###648 It's complex, but yes.
+###650 Good.
+###651 I'd hate to have gone to all this trouble for nothing.
+###654 I mean... almost nothing...
+###667 Spock?
+###668 Gravity waves, Captain.
+###669 Increasing intensity.
+###670 They could destabilize the bird-of-prey's reactor core.
+###673 Sulu! You and Chandris get out of there now!
+###691 Enterprise! Can you hear us? Enterprise!
+###697 Bird-of-prey reactor core going critical!
+###698 Scotty! Keep the shields extended around that ship
+###700 and beam Sulu and Chandris back through!
+###703 I'll give it my best, Captain.
+###705 Spock! Bones!
+###711 Gravity waves are makin' it devilish hard to lock onto them.
+###724 The core just blew!
+###726 Massive subspace interference.
+###728 I cannot hang onto them!
+###729 Wait. There's a signal.
+###731 One's caught in the pattern buffer.
+###733 Looks to be Sulu, but something's nee right.
+###738 You're not gettin' away now, lad.
+###791 You will stand down now, sir.
+###796 You will stand down.
+###798 And see, I believe, that you know us.
+###805 Captain Kirk...
+###811 Dr. McCoy...
+###812 Bones.
+###814 You're the same...
+###816 How can you be the same?
+###818 DNA and vitals match Sulu's, but...
+###822 Jim-- he's 30 years older.
+###826 Mr. Sulu, you've been gone less than a minute.
+###829 The Romulan ship went critical
+###830 and we tried to beam you both back...
+###832 Oh, my God!
+###834 She's all alone back there!
+###837 You've got to get her!
+###838 You've got to bring her here!
+###839 We lost Dr. Chandris' signal.
+###841 Not Lisa! Lisa's dead!
+###844 She died 15 years ago.
+###846 Captain!
+###847 I'm picking up another signal, faint as a whisper...
+###851 Dr. Chandris?
+###852 Doesn't match her signature.
+###854 Something else.
+###855 Lock in on it!
+###856 I'd do a fair bit better
+###857 if you'd stop shoutin' and flailin' cutlasses about!
+###859 Aw, you're a right will o' the wisp, you are...
+###863 but you won't be gettin' away.
+###872 Alana, don't be afraid.
+###885 Bring her back!
+###886 I've got her pattern in the matrix.
+###888 She won't be gettin' away.
+###890 But she's not exactly arrivin' here yet, either.
+###893 I'll have to rig up some sort of stasis chamber to keep her here.
+###897 At least, for starters.
+###898 You called her Alana. Who is she?
+###900 She's my daughter.
+###905 Status.
+###907 Shields at maximum, sir.
+###908 We've diverted power from all but life support.
+###909 We're holding our own, but we're not going anywhere.
+###912 Understood.
+###913 Report, Commander.
+###917 Sulu, just tell us what you know.
+###923 Lisa and I were aboard the bird-of-prey.
+###927 It was about to explode when the transporter seized us.
+###931 Instead of materializing on the Enterprise,
+###934 we found ourselves on the surface of a planet.
+###938 Clearly one with some form of civilization,
+###940 given your elaborate... ornamentation.
+###944 A dead world, Mr. Spock.
+###946 Disease had wiped them out centuries ago.
+###949 Nothing but ruined cities,
+###952 what remained of a...
+###954 canal system...
+###955 desert that stretched forever.
+###959 There was wildlife, fruits.
+###963 We were able to survive.
+###965 And in time, you and Chandris...
+###968 There comes a point where one has to start living a life--
+###973 whatever it is-- rather than waiting for one to begin.
+###978 But what was 30 years to you
+###980 was 30 seconds to us.
+###981 Fascinating.
+###982 It would appear that the gravitational waves,
+###985 interacting with the multi-dimensional field,
+###987 diverted you and Dr. Chandris
+###989 into a different, more rapid timestream--
+###991 perhaps a wholly different universe.
+###994 Mr. Sulu,
+###995 this ship will be torn to subatomic particles
+###997 in a matter of hours,
+###998 We need that data
+###999 that you and Dr. Chandris got off that ship.
+###1001 The tricorder's back on Caliban.
+###1006 We had to name the planet something.
+###1008 It seemed to fit.
+###1011 It's from Shakespeare...
+###1012 The Tempest.
+###1014 Sulu, do you remember anything
+###1016 from the Romulan data?
+###1017 It's been so long.
+###1020 I...
+###1025 No.
+###1029 When the tricorder's power started to fail,
+###1032 I tried to hold the information in my mind.
+###1036 But after months...
+###1038 years...
+###1041 Lisa thought... you had all died.
+###1046 But I said, "You don't know James Kirk.
+###1048 "He always manages to snatch life from the jaws of death.
+###1052 He'll find a way."
+###1054 You're that way, Sulu.
+###1056 We need that data.
+###1060 Captain...
+###1065 Kirk here.
+###1067 If you fine gentlemen
+###1068 could tear yourselves away from your pressin' business...
+###1070 there's someone here I'd like you to meet.
+###1077 Father!
+###1078 It's all right, Alana.
+###1081 Why is she still insubstantial?
+###1085 Best I can do for now, Captain.
+###1087 A good part of her's still linked
+###1088 to whatever godforsaken rock you were livin' on.
+###1090 She appears to exist in a state of quantum indeterminacy;
+###1094 partly here, in our universe,
+###1097 partly still in the alternate universe.
+###1099 That's impossible.
+###1102 I suggest we make a datachip record of these events.
+###1105 It could prove invaluable to science.
+###1107 Welcome to the Enterprise.
+###1120 They came.
+###1122 They came for us.
+###1125 Just like you said they would.
+###1128 Captain, there are urgent matters we need to attend to.
+###1131 I understand, Mr. Spock.
+###1133 As soon as we're clear of this hyperspatial beastie,
+###1136 we should be able to divert enough power
+###1138 to bring you all the way through.
+###1139 For now, unfortunately,
+###1141 your movements are limited to this chamber.
+###1143 We'll see if we can arrange some introductions later.
+###1145 Miss...
+###1146 Sulu?
+###1148 Alana, please.
+###1150 You're Captain Kirk, aren't you?
+###1151 How did you know?
+###1152 My father told me you were impressive...
+###1155 ...and knew it.
+###1158 You'll have to excuse her, Captain...
+###1162 There's no apologies necessary.
+###1165 Mr. Sulu, we'll need you in sickbay.
+###1170 I'll try not to keep him long.
+###1173 A pleasure meeting you.
+###1175 Bones, Spock, you're with me.
+###1179 I'll be back soon.
+###1189 People move so quickly here.
+###1192 Aye, that they do, lass.
+###1195 You're Montgomery Scott, aren't you?
+###1198 My father told me about you, too.
+###1201 And just what did he tell you?
+###1202 That he wouldn't want to be your liver.
+###1208 It's good to have him back.
+###1211 And to be meetin' his fine fair daughter.
+###1216 Although you no longer consciously retain
+###1219 the hyperspatial coordinates,
+###1221 your mind still retains the data.
+###1223 So... the famous Vulcan mind-meld.
+###1227 I won't tell you this is without risk.
+###1231 But then, what in life is?
+###1238 Shouldn't you send me candy and flowers first?
+###1241 I do not understand.
+###1245 No, I didn't think you would.
+###1251 My thoughts to your thoughts...
+###1256 Sulu, relax. Don't fight it.
+###1261 My mind to your mind.
+###1265 Yes...
+###1267 Our minds are merging, becoming one...
+###1273 Yes.
+###1275 The Romulan ship.
+###1278 Dr. Chandris...
+###1282 Alana...
+###1285 A child...
+###1288 ten years old...
+###1291 What... What's...
+###1292 sand... moving...
+###1294 Rising up...
+###1296 Alana!
+###1299 Sand demon! Fangs! Spurs!
+###1303 It has her!
+###1304 Too far! Too far! I can't...!
+###1308 Jim! Their vitals are spiking!
+###1309 Lisa! She's killing it!
+###1312 She's cutting it to pieces!
+###1315 But it's stabbing... stabbing her!
+###1318 LISA!
+###1322 You saved her...
+###1324 You saved our daughter...
+###1326 She heard me...
+###1329 I know she heard me...
+###1332 Epinephrine level's off the scale.
+###1334 Blood pressure's through the roof.
+###1336 You have to stop it!
+###1337 Stop it now-- before we lose them both!
+###1340 Spock! Break it off!
+###1342 Spock!
+###1348 The data?
+###1350 Too deep.
+###1364 It's clear we'll have to find another way.
+###1371 How is he?
+###1373 Resting.
+###1374 He'll need some time to recover.
+###1377 My God, Jim, what he's been through...
+###1381 Laudable as your tendency
+###1383 toward compassion may be, Doctor,
+###1385 it does not alter the fact
+###1387 that the ship will be destroyed
+###1388 if we do not get that data soon.
+###1390 How can that green blood of yours be so cold?
+###1392 Dr. McCoy...
+###1393 Bones, we need an alternative.
+###1396 Well, there are drugs, hypnotics.
+###1398 They might work.
+###1401 Normally, I'd advise against it.
+###1403 These are not normal circumstances.
+###1406 Do it.
+###1407 They're not standard issue.
+###1409 It'll take me time to formulate them.
+###1412 In the meantime, I want you to get on with Plan B.
+###1415 I was unaware we had a Plan B.
+###1419 I trust you will shortly.
+###1421 Understood.
+###1423 Tell me, Captain, what did you do before you knew me?
+###1426 I always made sure Plan A worked.
+###1430 Ah.
+###1433 While we're at it,
+###1436 maybe you can arrange for a shave and haircut,
+###1438 and rustle up a uniform for him.
+###1440 It's the least we can do.
+###1442 I wouldn't.
+###1443 As far as he's concerned,
+###1445 his tour of duty ended 30 years ago.
+###1447 He's not the man he was.
+###1450 I understand.
+###1453 Captain Kirk to the bridge!
+###1456 Kirk here.
+###1457 The gravitational disturbances
+###1459 are increasing faster than anticipated, Captain.
+###1461 We're runnin' out of time.
+###1463 Understood. Go to Yellow Alert. Kirk out.
+###1466 If we're going to get out of this,
+###1469 I have a feeling we're going to need the man that he was.
+###1482 Captain, I've been monitoring fluctuations in the hyperfield.
+###1486 And?
+###1488 There is the possibility that,
+###1491 were we able to generate a matter-antimatter negation burst
+###1494 of adequate force to free us,
+###1495 we might cause the field to implode.
+###1498 And risk imploding the ship as well.
+###1500 Our calculations must be most precise.
+###1503 How much time do we have?
+###1504 14 hours, 32 minutes and 24...
+###1507 Then I suggest you start exploring it aggressively.
+###1516 Didn't even give you an ocean view.
+###1520 I'd complain to the management.
+###1523 Oh, Father, it's wonderful.
+###1525 You haven't seen much of it yet.
+###1528 That doesn't matter.
+###1530 We're here.
+###1532 I just wish Mother could have seen it.
+###1535 She would have given everything just for you to see it, Alana.
+###1540 This is only the beginning.
+###1542 Scotty will have you flesh and blood in no time, you'll see.
+###1546 And then...
+###1549 Centauri III, the Valles Marineris on Mars,
+###1555 San Francisco--
+###1558 all the places I've told you about.
+###1561 We'll roll them out like a red carpet.
+###1564 You can go anywhere,
+###1566 do anything.
+###1568 The whole universe
+###1570 is ahead of you.
+###1576 Forgive the intrusion.
+###1578 Dr. McCoy's ready for you.
+###1580 I'll be back soon.
+###1588 Captain...
+###1589 I expect you to behave yourself.
+###1597 Your father always had a distinctive sense of humor.
+###1600 Your reputation precedes you, Captain Kirk.
+###1603 Call me Jim.
+###1605 And just what exactly did he tell you about me?
+###1609 How alone you were.
+###1611 He told you I was lonely?
+###1616 Well, that is the price of command.
+###1620 It was more than that.
+###1622 It was something you carried with you...
+###1625 a distance...
+###1629 Always a different girl on every world,
+###1632 none mattering beyond the moment.
+###1636 There was one who was different.
+###1640 Her name... Edith.
+###1649 Some things are best forgotten.
+###1651 I don't talk about the past,
+###1653 and your father shouldn't have, either.
+###1654 I-I hurt you.
+###1657 I'm sorry.
+###1659 I'm not good with people.
+###1662 Lack of practice.
+###1665 It's just... he thought he would never see any of you again.
+###1671 Life seldom takes us where we want it to.
+###1676 Jim...
+###1679 I understand loneliness.
+###1684 You shouldn't try to banish memories.
+###1688 They're how we live on.
+###1691 They're all I have of my mother.
+###1695 Did you know her?
+###1697 She'd just come on the ship.
+###1700 I'd seen her once or twice.
+###1703 You'd have liked her.
+###1706 She was funny...
+###1709 and brave.
+###1711 I know.
+###1714 She died saving you.
+###1716 She didn't hesitate.
+###1721 I could never be that strong.
+###1726 Well...
+###1728 we never know what we can do...
+###1732 ...until we have to.
+###1738 Captain, if I may...
+###1743 Excuse me.
+###1749 Sensor scans of the external hyperfield
+###1751 have proven inadequate to risk a matter-antimatter implosion
+###1755 to free the ship.
+###1756 What do you suggest?
+###1757 The field surrounding Miss Sulu
+###1759 seems a benign microcosm of the larger field.
+###1762 If I might be allowed to take some measurements...
+###1767 Mr. Spock would like to run some tests on you.
+###1771 Will it hurt?
+###1772 No.
+###1775 I would've said yes anyway.
+###1779 I'll see you later.
+###1787 How do we start?
+###1789 We already have.
+###1796 One pharmaceutical cocktail coming up.
+###1798 I swear, at times like this,
+###1801 I feel like a bartender, not a doc--
+###1806 Sorry, I didn't mean to, uh...
+###1809 Oh, it's all right.
+###1811 The only image I had of her was...
+###1814 I understand.
+###1816 Just lie back.
+###1821 You'll feel a bit light-headed and drowsy...
+###1826 Should I count back from a hundred?
+###1829 Just say whatever comes to mind.
+###1838 To be snatched away from everything you know,
+###1841 dropped down in a wilderness,
+###1844 have to build your life up from nothing,
+###1847 with your bare hands...
+###1853 ...only one thing will let you do that and survive.
+###1860 Before all that,
+###1862 I was on the career track to captain.
+###1867 Friends were for off-hours...
+###1871 hobbies mere diversion.
+###1876 Family?
+###1878 Not in the equation.
+###1881 But then...
+###1884 through the long nights,
+###1889 we'd sit in the crystal towers...
+###1892 listen to the wind wash over the dead sea...
+###1898 gaze up at the twin moons...
+###1903 share stories we remembered,
+###1907 adventures we'd had...
+###1912 I may have been lost...
+###1920 ...but I was home.
+###1929 It's a rare man that finds that...
+###1931 and a lucky one.
+###1936 Can I ask you a question, Mr. Spock?
+###1940 I mean, if it doesn't distract you.
+###1942 I'm not easily distracted, Miss Sulu.
+###1945 What would you like to know?
+###1947 Beyond that door...
+###1950 there are hundreds of people.
+###1954 And so far, I've only met six in my whole life--
+###1959 four in the last two hours.
+###1964 My father told me that you were
+###1966 the only one of your kind on the ship.
+###1970 Do you ever wonder what people think about you,
+###1973 or what they see?
+###1978 They will see precisely what you are--
+###1980 a singularly astute and charming young woman.
+###1986 But I'm so different.
+###1987 We are, each of us, unique.
+###1990 You must admit, some of us are a lot more unique than others.
+###1994 It is grammatically incorrect
+###1997 to place a modifier before "unique."
+###2001 But nonetheless, you are correct.
+###2004 Some of us are.
+###2006 You still haven't answered my question.
+###2013 I endure the pressures my choice of life demands,
+###2015 because I prefer it to one of solitude...
+###2019 ...and because I have found that I can tolerate being judged
+###2023 far better than being of no consequence.
+###2027 The scan is complete.
+###2029 I must get this data to Mr. Scott.
+###2033 So, am I one of a kind, Mr. Spock?
+###2036 You are indeed, Miss Sulu.
+###2045 Kirk to sickbay.
+###2047 How're we doing, Bones?
+###2049 Jim, I've tried every neural meta-mnemonic
+###2053 in ship's stores on Sulu.
+###2054 And?
+###2056 Scattered bits and pieces, nothing you can use.
+###2060 And I can't give him any more; his system can't take it.
+###2066 I'm sorry, Jim.
+###2076 How goes Plan B, Mr. Spock?
+###2078 The readings I took from Miss Sulu
+###2080 should allow us to attempt the negation burst.
+###2082 As soon as Mr. Scott concludes his adjustments,
+###2084 we can proceed.
+###2089 Then I suggest you do so with all dispatch.
+###2093 What's wrong?
+###2095 Jim... Alana Sulu's atomic structure
+###2099 is bound to the hyperfield.
+###2100 We can't be certain she'll be coming with us.
+###2103 Scotty said he'd be able to bring her over in time.
+###2106 Time is a luxury we do not have, Captain,
+###2109 and we may not have sufficient power for such an attempt.
+###2112 Are you sure about this?
+###2114 There are some variables in the readings.
+###2116 The stronger possibility is that she will remain with the ship.
+###2119 Still...
+###2122 Thank you, Mr. Spock.
+###2124 Should we inform Miss Sulu, or her father?
+###2128 No... not yet.
+###2131 But I expect you to do whatever you can to better her odds.
+###2134 Of course.
+###2135 For now...
+###2136 is there anything we can do to make her more comfortable?
+###2144 Are you still hanging around?
+###2147 Don't you have anything better to do
+###2150 than make fun of easy targets?
+###2151 Well, we had a few moments before the implosion attempt.
+###2154 I thought I'd drop by and give you a surprise.
+###2156 A surprise?
+###2157 Mr. Scott had some bored technicians he needed to occupy.
+###2162 Would you care for a stroll?
+###2187 What do you call this?
+###2188 Deck 12-- it's not very imaginative.
+###2191 It's perfect.
+###2206 This.
+###2209 What?
+###2211 The best moment of my life.
+###2216 Few people recognize it while it's happening.
+###2221 All the better reason to notice it.
+###2224 It's just the first of many.
+###2236 It's a good look for you.
+###2242 Uhura...
+###2246 It's been forever.
+###2250 My God...
+###2252 What?
+###2255 You're younger than my daughter.
+###2259 Yeah, I heard about her.
+###2261 She sounds wonderful.
+###2264 She takes after her mother.
+###2269 Uhura to the bridge.
+###2274 Acknowledged.
+###2286 We'll catch up later, okay?
+###2293 Uhura.
+###2295 Don't let it all go by.
+###2310 If you've got your sea legs back,
+###2311 you're free to go.
+###2313 Thank you, Doctor.
+###2323 Those aren't really necessary.
+###2328 I know.
+###2356 Bridge.
+###2358 It's a turbolift.
+###2361 It moves horizontally and vertically throughout the ship.
+###2363 You command miracles and you don't even know it.
+###2368 I'm starting to.
+###2375 Alana!
+###2380 Alana!
+###2382 We had nothing like this on Caliban.
+###2384 The name your parents gave that planet--
+###2387 do you know where it's from?
+###2389 My mother was in a production of The Tempest
+###2391 when she was a girl.
+###2393 She knew it by heart.
+###2393 The sorcerer and his beautiful daughter,
+###2396 marooned on an island until a ship arrives.
+###2399 "A brave vessel, who had no doubt
+###2402 some noble creatures in her..."
+###2405 We'd perform it over and over.
+###2407 With Sulu as Prospero...
+###2409 and you as Miranda?
+###2411 I preferred Ariel... who could fly.
+###2417 And where would you like to go, Ariel?
+###2419 Where would you take me, Jim?
+###2432 Yes?
+###2432 We're ready to initiate the implosion, Captain.
+###2436 I'll be there momentarily.
+###2438 Kirk out.
+###2440 Another miracle required?
+###2445 I'm afraid you'll have to return to the stasis room, for safety.
+###2449 This device will beam you there.
+###2451 Oh...
+###2453 You'll see the bridge soon, I promise.
+###2459 I'll hold you to that.
+###2475 Where were you?
+###2477 Jim arranged a tour.
+###2480 "Jim"?
+###2483 Are you jealous, Father?
+###2490 Status, Mr. Spock.
+###2493 Ready when you are, Captain.
+###2496 This might be one of those rare times
+###2498 when we actually get out of a tight spot
+###2500 with some breathing room.
+###2502 All decks, this is the captain speaking.
+###2506 We're about to emit a plasma-antiplasma burst,
+###2508 in an attempt to free the ship.
+###2510 Brace yourselves.
+###2514 At your discretion, Mr. DeSalle.
+###2515 Aye, sir.
+###2516 Detonation in five... four...
+###2519 three... two...
+###2521 one.
+###2535 Alana!
+###2541 Spock! What's happening?
+###2542 Unknown, Captain.
+###2551 Computer, analysis of implosion result.
+###2553 Working.
+###2555 Analysis indicates temporal discontinuity
+###2557 caused by implosion.
+###2559 My calculations predicted this possibility,
+###2562 but not at this magnitude.
+###2564 Just tell us what it means, Spock.
+###2566 It means, Doctor, that we are still trapped,
+###2568 but instead of hours, we now have only 32 minutes
+###2571 before our shields collapse.
+###2577 Sulu to McCoy! Emergency!
+###2586 Captain's log, supplemental.
+###2588 With drug therapy no longer an option to jog Sulu's memory,
+###2591 and our time drastically reduced
+###2593 by the implosion attempt,
+###2594 our options are closing about us--
+###2596 just as the field is closing about the Enterprise.
+###2607 It's nothing, really.
+###2609 I was just dizzy for a moment.
+###2613 She's all right now,
+###2615 near as I can determine.
+###2619 Miss Sulu's molecular structure
+###2621 is indeed linked to the exterior hyperfield.
+###2624 If we fail to find a way to fully extricate her
+###2626 before risking another implosion attempt...
+###2628 Another implosion's not an option.
+###2630 And without the navigational coordinates...
+###2632 Gentlemen, I suggest
+###2634 you come up with something original,
+###2635 because we're not going to just count down the minutes
+###2637 until this ship is destroyed.
+###2639 Captain,
+###2640 if Mr. Scott can lock in on the coordinates of Caliban,
+###2644 it might be feasible to beam the entire ship's company there.
+###2647 It wouldn't help the ship, but...
+###2649 It would save the crew.
+###2651 We'd be marooned there.
+###2655 But alive.
+###2657 And all in all, it's not that bad a life.
+###2660 But if we lower the shields...
+###2661 That might not be necessary,
+###2664 given the higher dimensions involved.
+###2667 Mr. Scott.
+###2668 Aye, Captain.
+###2671 Dr. McCoy, if I may examine the data on your tricorder...
+###2675 Be my guest.
+###2677 How are you feeling?
+###2679 Like a fool.
+###2683 So, tell me, back home, how are you set up for houseguests?
+###2697 Kirk here.
+###2698 Captain, can you get up here?
+###2706 There's no way to duplicate the energy wave
+###2707 that sent Sulu to Caliban.
+###2709 It was a one-in-a-million freak accident.
+###2711 None of us can beam there?
+###2713 But I happened on something else.
+###2715 Sulu's original transporter pattern.
+###2717 The temporal field shift kept it intact.
+###2719 Are you saying we might be able to reintegrate him?
+###2722 As he was,
+###2723 when we beamed him off the bird-of-prey.
+###2725 It's possible-- theoretically, at least.
+###2727 25 minutes to shield failure.
+###2730 Get him up here.
+###2733 It should be possible to reverse the aging process
+###2736 by passing your current incarnation
+###2739 through the pattern buffer.
+###2740 Restoring, in effect, your last saved state.
+###2743 Yes, I see.
+###2747 I don't understand.
+###2749 You mean you'd be giving him back 30 years?
+###2752 No, we'd be taking them away.
+###2759 I'd revert to the man I was
+###2762 before your mother and I were transported.
+###2767 As far as I'd be concerned,
+###2769 the life we spent there would never have happened.
+###2777 But the Romulan navigational data
+###2779 will be fresh in your mind,
+###2781 and you should be able to use it to pilot us to safety.
+###2783 The memories would be gone.
+###2788 I wouldn't know you.
+###2790 20 minutes to shield failure.
+###2795 You can't get rid of me that easily.
+###2797 I'd be here to remind you
+###2799 of every stubborn, mule-headed thing you ever did.
+###2808 If it's the only way to...
+###2812 Captain.
+###2820 I'm sorry, Jim.
+###2822 Alana?
+###2826 I thought the only danger was the implosion.
+###2828 I've been reviewing Dr. McCoy's medical data,
+###2831 along with both my own scans
+###2833 of Miss Sulu and the exterior hyperfield.
+###2838 They'd best be getting a move on.
+###2841 I've no mind to be trading my uniform
+###2843 for a white robe at this late date.
+###2847 I checked her medical readings.
+###2849 There's no doubt, Jim.
+###2852 Do we tell her?
+###2858 We tell them both.
+###2868 Captain, what is it?
+###2870 Your atoms, your molecules,
+###2873 everything that is you--
+###2874 is still tied to Caliban through the hyperfield.
+###2876 It's why you blacked out.
+###2881 And should we succeed shortly in freeing ourselves,
+###2884 the interference caused by our warp engines
+###2886 will result in the field collapsing...
+###2890 ...destroying everything still linked to it.
+###2896 My God, do you know what you're saying?!
+###2901 Yes.
+###2903 You've got to beam her fully onto the Enterprise!
+###2906 Now!
+###2908 Not possible.
+###2911 She is one with the universe that spawned her.
+###2919 Then, can you beam me back?
+###2924 No.
+###2927 But were the ship to fail to extricate itself,
+###2930 there is a 92.3% probability
+###2933 the field would survive,
+###2934 and you would be returned to Caliban.
+###2937 She could live.
+###2939 But 430 others will die.
+###2947 There has to be another way.
+###2953 I can't tell you what to do.
+###2957 But you alone know the navigational coordinates,
+###2960 and have the piloting skill necessary to save the ship.
+###2968 I don't care who dies-- she lives!
+###2972 Not this time, Mr. Spock.
+###2975 Father...
+###2977 I can't let you do this.
+###2981 Alana...
+###2983 Even if Mr. Spock is right, and I survive--
+###2986 what kind of life would that be?
+###2993 How can I go back to that empty world...
+###2998 How can I live, knowing that you,
+###3002 or that all of you, died because of me?
+###3011 I don't know if there's an afterlife,
+###3015 I don't know where we go when we die...
+###3019 ...but if, Father...
+###3024 ...it's not how long we live,
+###3029 it's how we live that matters...
+###3034 ...let my life mean something.
+###3054 Do it, damn you!
+###3063 Energize.
+###3070 "Our revels... now are ended.
+###3077 "And these our actors,
+###3080 "as I foretold you,
+###3082 "were all spirits...
+###3087 "that are melted into air...
+###3091 "into thin air...
+###3098 We are such stuff..."
+###3104 "As dreams are made on..."
+###3141 Ten minutes to shield failure.
+###3147 He's in massive shock.
+###3149 We need him on the bridge.
+###3150 What can you give him?
+###3151 Two cc's of cordrazine.
+###3153 Any more will kill him.
+###3155 Get him to his station-- fast.
+###3162 Jim.
+###3165 In a minute.
+###3177 My father told me you were impressive.
+###3181 Alana, I...
+###3183 Your ship needs you.
+###3186 Is there anything that you'd like?
+###3197 Two minutes to shield failure.
+###3208 How young he is.
+###3216 How handsome.
+###3221 Hyperdimensional coordinates entered.
+###3231 Artificial gravity compromised.
+###3236 Life support system's on reserve power.
+###3240 Acknowledged.
+###3246 One minute to shield failure.
+###3283 Ten seconds to shield failure.
+###3286 Nine...
+###3287 Eight...
+###3288 Seven...
+###3290 Six...
+###3291 Warp drive engaged. Hold on!
+###3313 We're free!
+###3328 Free.
+###3340 As you were.
+###3347 How are you feeling?
+###3349 A little rough around the edges.
+###3353 Captain...
+###3356 I'm told I attacked you,
+###3359 tried to harm you.
+###3363 There were extenuating circumstances.
+###3375 I've watched this.
+###3381 It's like it's happening to another person.
+###3385 Alana...
+###3389 My daughter.
+###3392 The life I had...
+###3397 There's nothing.
+###3401 I'm sorry for your loss.
+###3406 Did you get to know her?
+###3411 Yes.
+###3414 She was...
+###3418 She was unique.
+###3423 She lived her life fully in the time she had...
+###3427 and gave it up for love.
+###3432 What better epitaph...
+###3436 could anyone ask for?
+###3445 Oh, God.
+###3449 If I could only remember.
+###3452 Mr. Sulu,
+###3454 when I attempted to extricate the data from your mind,
+###3458 when our thoughts were joined...
+###3460 I lived those years with you.
+###3465 What are you saying?
+###3468 They can be yours again.
+###3471 But with the memories...
+###3473 would come the grief.
+###3486 Very well.
+###3502 Alana?
+###3514 Alana...
+###3516 Captain?
+###3518 Captain Sulu?
+###3520 Yes, Ensign?
+###3522 Your guests have disembarked from the shuttle, Captain.
+###3525 Escort them to my ready room.
+###3528 Aye, sir.
+###3529 Rand, you have the Conn.
+###3532 Aye, Captain.
+###3535 Captain?
+###3537 Yes?
+###3539 You're a very lucky man.
+###3556 "We are such stuff as dreams are made on..."
+###3562 "And our little life is rounded with a sleep..."
+###3569 Talking to yourself, Father?
+###3572 I'd better keep a closer eye on you.
+###3576 Demora.
+###3579 Say hello to your granddaughter.
+###3592 So beautiful.
+###3598 The whole universe is ahead of you.
+###3604 And I did as you asked--
+###3606 with her name.
+###3609 But... I don't understand.
+###3614 Who's Alana?
+###3621 You had a sister.
+###3652 Subtitles: Tom Collins, Teri Davidson,
+###3658 Kevin King and Bill Wooton.
+###3662 Technical coordination by: Mike Savage
+###3665 Editor: Kevin King
+###3670 Timing: Peter Walker

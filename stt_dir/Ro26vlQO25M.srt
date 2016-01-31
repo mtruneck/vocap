@@ -1,0 +1,828 @@
+1
+0:0:1,26 --> 0:0:4,7
+CARL AZUZ, CNN ANCHOR: What is it like to
+have your life uprooted by a natural disaster?
+
+
+2
+0:0:4,7 --> 0:0:9,48
+Today, we are sharing the story of one young
+victim and his family. I`m Carl Azuz, this
+
+
+3
+0:0:9,48 --> 0:0:24,1
+is CNN STUDENT NEWS.
+
+
+4
+0:0:24,1 --> 0:0:28,59
+We start with a search for hundreds of missing
+people. They haven`t been seen since the typhoon
+
+
+5
+0:0:28,59 --> 0:0:34,1
+hit their home country last week. Typhoons
+are the same kinds of storms as hurricanes,
+
+
+6
+0:0:34,1 --> 0:0:38,96
+and Typhoon Bopha was the strongest one that
+hit the Philippines this year. You can see
+
+
+7
+0:0:38,96 --> 0:0:43,12
+some of the damage that it left behind in
+this "I-Report" video. The storm`s heavy rains
+
+
+8
+0:0:43,12 --> 0:0:48,699
+led the flash floods and landslides, more
+than 600 people were killed in this, and almost
+
+
+9
+0:0:48,699 --> 0:0:55,89
+1500 others were injured. More than 700 people
+are missing including more than 300 Filipino
+
+
+10
+0:0:55,89 --> 0:0:59,489
+fishermen. Search efforts are underway, relief
+groups are trying to get supplies to some
+
+
+11
+0:0:59,489 --> 0:1:3,499
+of the areas that were hit the worst, but
+it`s difficult, because of damage to roads
+
+
+12
+0:1:3,499 --> 0:1:5,229
+and communication lines.
+
+
+13
+0:1:5,229 --> 0:1:11,22
+Next, we are looking at the civil war in Syria.
+It`s been going on for almost two years now
+
+
+14
+0:1:11,22 --> 0:1:16,23
+with Syrian government forces fighting against
+rebel groups. And official who`s represented
+
+
+15
+0:1:16,23 --> 0:1:21,3
+the United Nations in the Arab League says
+the solution is possible, but he also described
+
+
+16
+0:1:21,3 --> 0:1:26,32
+the situation in Syria as bad and getting
+worse. Some of the violence is happening in
+
+
+17
+0:1:26,32 --> 0:1:31,2
+the city of Aleppo. And this Youtube video
+shows the fire in the city`s old market earlier
+
+
+18
+0:1:31,2 --> 0:1:36,9
+this year. The old section of Aleppo is a
+world heritage site, it`s full of historical
+
+
+19
+0:1:36,9 --> 0:1:41,18
+and cultural significance. Arwa Damon explores
+how it`s been effected by the civil war.
+
+
+20
+0:1:41,18 --> 0:1:42,27
+(BEGIN VIDEOTAPE)
+
+
+21
+0:1:42,27 --> 0:1:48,7
+ARWA DAMON, CNN CORRESPONDENT: Aleppo`s old
+city has not seen such devastation since occupied
+
+
+22
+0:1:48,7 --> 0:1:52,92
+by the Mongol invaders eight centuries ago.
+
+
+23
+0:1:52,92 --> 0:2:0,36
+This mosque, for example, dates back to 1315.
+This is Syria`s rich cultural heritage, and
+
+
+24
+0:2:0,36 --> 0:2:7,2
+now everywhere we look, it`s been scarred
+by war. Once bustling winding streets, now
+
+
+25
+0:2:7,2 --> 0:2:9,369
+a maze of ever shifting front lines.
+
+
+26
+0:2:9,369 --> 0:2:19,799
+Overhead, the thundering of fighter jets,
+a small khan, lodging for caravans down the
+
+
+27
+0:2:19,799 --> 0:2:27,959
+ages, lies in ruins. For more than three millennia,
+Aleppo has been a crossroads for traders.
+
+
+28
+0:2:27,959 --> 0:2:35,29
+We hurry through the courtyard of a traditional
+home.
+
+
+29
+0:2:35,29 --> 0:2:43,239
+Sheets are strung across streets to block
+snipers line of sight. Those who dare venture
+
+
+30
+0:2:43,239 --> 0:2:49,9
+quickly across. A unit of fighters records
+people`s names and license plates, only those
+
+
+31
+0:2:49,9 --> 0:2:52,48
+who have shops here are allowed through.
+
+
+32
+0:2:52,48 --> 0:2:58,49
+Abu Bashir says, they`re trying to clamp down
+on robberies.
+
+
+33
+0:2:58,49 --> 0:2:59,639
+(woman talking Arabic)
+
+
+34
+0:2:59,639 --> 0:3:6,23
+DAMON: She shows us the list, the highlighted
+names have cleared out all their possessions.
+
+
+35
+0:3:6,23 --> 0:3:13,239
+In one market, a shop recently hit by army
+fire, still smolders. The heart of old Aleppo,
+
+
+36
+0:3:13,239 --> 0:3:18,639
+now the historic battleground for the very
+uncertain future of Syria.
+
+
+37
+0:3:18,639 --> 0:3:19,4
+(END VIDEOTAPE)
+
+
+38
+0:3:19,4 --> 0:3:20,54
+(BEGIN VIDEO CLIP)
+
+
+39
+0:3:20,54 --> 0:3:25,169
+REP. JERROLD NADLER, NEW YORK: Although the
+emergency response agencies work hard to get
+
+
+40
+0:3:25,169 --> 0:3:29,4
+the city back up and running, there were gaps
+in the recovery operations and there are many
+
+
+41
+0:3:29,4 --> 0:3:34,409
+challenges that remain, particularly for a
+dense urban area like New York. Our transportation
+
+
+42
+0:3:34,409 --> 0:3:39,319
+system is too vulnerable, our infrastructure
+is old and hard to replace. The power grid
+
+
+43
+0:3:39,319 --> 0:3:43,889
+runs more than just lights and computers,
+it also powers heat and hot water and all
+
+
+44
+0:3:43,889 --> 0:3:48,219
+water in the high-rises all over the city.
+And that operates the elevators that the elderly
+
+
+45
+0:3:48,219 --> 0:3:52,749
+and disabled rely upon to escape their homes
+when they become unsafe.
+
+
+46
+0:3:52,749 --> 0:3:55,829
+(END VIDEO CLIP)
+
+
+47
+0:3:55,829 --> 0:4:1,18
+AZUZ: President Obama is asking Congress for
+more than $60 billion to help the states that
+
+
+48
+0:4:1,18 --> 0:4:5,449
+have been effected by Superstorm Sandy. Now,
+that money is not going to cover all of the
+
+
+49
+0:4:5,449 --> 0:4:10,459
+estimated damage from the storm, it would
+be used for recovery and the prepare for future
+
+
+50
+0:4:10,459 --> 0:4:15,48
+natural disasters. Ryan Panetta and his family
+are going through that recovery process right
+
+
+51
+0:4:15,48 --> 0:4:20,57
+now. Every day Ryan gets up and goes to school,
+after classes he rides the bus to his house,
+
+
+52
+0:4:20,57 --> 0:4:25,97
+and all that sounds normal, but for Ryan and
+his family, life is nothing like it was before
+
+
+53
+0:4:25,97 --> 0:4:26,38
+the storm.
+
+
+54
+0:4:26,38 --> 0:4:26,97
+(BEGIN VIDEOTAPE)
+
+
+55
+0:4:26,97 --> 0:4:30,84
+POPPY HARLOW, CNN CORRESPONDENT: The sun isn`t
+up at breakfast time for the Panettas.
+
+
+56
+0:4:30,84 --> 0:4:34,2
+(on camera): How tired are you?
+
+
+57
+0:4:34,2 --> 0:4:34,29
+RYAN PANETTA, 8TH GRADER, SCHOLARS ACADEMY:
+Very.
+
+
+58
+0:4:34,29 --> 0:4:37,57
+HARLOW (voice over): Tim, Ryan, Christian
+and Carly are now living in a borrowed one-bedroom
+
+
+59
+0:4:37,57 --> 0:4:38,94
+apartment with their parents.
+
+
+60
+0:4:38,94 --> 0:4:41,42
+(on camera): How long is your commute to a
+school now?
+
+
+61
+0:4:41,42 --> 0:4:43,8
+PANETTA: It feels almost like two hours.
+
+
+62
+0:4:43,8 --> 0:4:47,3
+HARLOW: And what did it use to be?
+
+
+63
+0:4:47,3 --> 0:4:48,79
+RYAN PANETTA: 15 minutes.
+
+
+64
+0:4:48,79 --> 0:4:49,67
+HARLOW: Wow.
+
+
+65
+0:4:49,67 --> 0:4:55,4
+(voice over): 6:30 a.m and they are out the
+door. A long car ride ...
+
+
+66
+0:4:55,4 --> 0:4:56,74
+KAREN PANETTA, RYAN`S MOTHER: Have a good
+day.
+
+
+67
+0:4:56,74 --> 0:5:0,16
+HARLOW: Then a bus to Ryan`s temporary school,
+PS-13.
+
+
+68
+0:5:0,16 --> 0:5:5,0
+KAREN PANETTA: It`s unreal how much our life
+has changed. You know, and we are trying to
+
+
+69
+0:5:5,0 --> 0:5:5,99
+make the best of it.
+
+
+70
+0:5:5,99 --> 0:5:11,34
+HARLOW: He is an 8th grade honor student,
+one of 5400 New York students still in different
+
+
+71
+0:5:11,34 --> 0:5:12,49
+schools because of Sandy.
+
+
+72
+0:5:12,49 --> 0:5:14,86
+CARRIE JAMES, SCHOLAR`S ACADEMY HUMANITIES
+TEACHER: He is the one that I think was probably
+
+
+73
+0:5:14,86 --> 0:5:19,33
+impacted the most, and yet he has the strongest
+will to be here every day.
+
+
+74
+0:5:19,33 --> 0:5:23,66
+RYAN PANETTA: When something brings you down,
+you`ve got to get up.
+
+
+75
+0:5:23,66 --> 0:5:27,32
+HARLOW (on camera): You are OK, buddy?
+
+
+76
+0:5:27,32 --> 0:5:29,21
+What makes you sad?
+
+
+77
+0:5:29,21 --> 0:5:32,73
+RYAN PANETTA: I honestly don`t know.
+
+
+78
+0:5:32,73 --> 0:5:33,9
+HARLOW: Everything?
+
+
+79
+0:5:33,9 --> 0:5:36,25
+RYAN PANETTA: It`s everything.
+
+
+80
+0:5:36,25 --> 0:5:40,94
+KAREN PANETTA: How did it go today, Ryan?
+
+
+81
+0:5:40,94 --> 0:5:42,7
+RYAN PANETTA: Good.
+
+
+82
+0:5:42,7 --> 0:5:49,34
+HARLOW (VOICE OVER): Every day after school
+Ryan returns to Broad Channel to help his
+
+
+83
+0:5:49,34 --> 0:5:51,37
+dad try to put their home back together.
+
+
+84
+0:5:51,37 --> 0:5:55,66
+JOE PANETTA, RYAN`S FATHER: Everything that
+I owned, everything I worked hard for everything
+
+
+85
+0:5:55,66 --> 0:5:57,41
+was there, and it`s gone, it`s nothing.
+
+
+86
+0:5:57,41 --> 0:6:1,98
+HARLOW: Joe was working overnights, and Karen
+was home with their four children when Sandy
+
+
+87
+0:6:1,98 --> 0:6:2,17
+hit.
+
+
+88
+0:6:2,17 --> 0:6:4,58
+KAREN PANETTA: It was unbelievable, though,
+how quickly it came in.
+
+
+89
+0:6:4,58 --> 0:6:9,69
+HARLOW: The water rushed into their one-story
+house, Ryan swam to neighbor for help.
+
+
+90
+0:6:9,69 --> 0:6:10,5
+RYAN PANETTA: I jumped out.
+
+
+91
+0:6:10,5 --> 0:6:12,23
+HARLOW (on camera): You jumped out here in
+the water?
+
+
+92
+0:6:12,23 --> 0:6:15,44
+RYAN PANETTA: Yes. I wasn`t even thinking
+that like a log would hit me or anything.
+
+
+93
+0:6:15,44 --> 0:6:16,88
+HARLOW: Or the electrical power lines?
+
+
+94
+0:6:16,88 --> 0:6:17,35
+RYAN PANETTA: Yes.
+
+
+95
+0:6:17,35 --> 0:6:18,52
+HARLOW: You swam to this house?
+
+
+96
+0:6:18,52 --> 0:6:22,64
+RYAN PANETTA: Yeah, it`s right here. And they
+took us in to the second floor.
+
+
+97
+0:6:22,64 --> 0:6:26,27
+HARLOW (voice over): The neighbor helped bring
+the rest of the family over, and they watched
+
+
+98
+0:6:26,27 --> 0:6:28,99
+as the water engulfed the only home they`ve
+known.
+
+
+99
+0:6:28,99 --> 0:6:32,2
+(on camera): What did you think when your
+13-old son jumped in the water?
+
+
+100
+0:6:32,2 --> 0:6:35,84
+KAREN PANETTA: You know, I was panicking.
+I was panicking.
+
+
+101
+0:6:35,84 --> 0:6:37,37
+HARLOW: Did Ryan helped save your family?
+
+
+102
+0:6:37,37 --> 0:6:38,15
+KAREN PANETTA: Absolutely.
+
+
+103
+0:6:38,15 --> 0:6:38,93
+HARLOW: No question?
+
+
+104
+0:6:38,93 --> 0:6:39,71
+KAREN PANETTA: Absolutely.
+
+
+105
+0:6:39,71 --> 0:6:44,21
+HARLOW (voice over): Now, all the Panettas
+are working to rebuild their home and erase
+
+
+106
+0:6:44,21 --> 0:6:45,2
+the bad memories.
+
+
+107
+0:6:45,2 --> 0:6:51,47
+RYAN PANETTA: After what I`ve just been through
+like I don`t hope I have to see anything that
+
+
+108
+0:6:51,47 --> 0:6:52,62
+terrifying again.
+
+
+109
+0:6:52,62 --> 0:6:55,63
+HARLOW: Poppy Harlow, CNN, Broad Channel,
+New York.
+
+
+110
+0:6:55,63 --> 0:6:56,43
+(END VIDEOTAPE)
+
+
+111
+0:6:56,43 --> 0:6:57,62
+(BEGIN VIDEO CLIP)
+
+
+112
+0:6:57,62 --> 0:7:1,25
+UNIDENTIFIED FEMALE: See, if you can I.D.
+me.
+
+
+113
+0:7:1,25 --> 0:7:7,27
+I`m a planet in our Solar System. I`m not
+one of the gas giants, but I am the largest
+
+
+114
+0:7:7,27 --> 0:7:12,68
+of the terrestrial or rocky planets. I`m the
+only planet whose name doesn`t come from Greek
+
+
+115
+0:7:12,68 --> 0:7:15,22
+or Roman mythology.
+
+
+116
+0:7:15,22 --> 0:7:22,29
+I`m Earth, the fifth largest planet in the
+Solar System.
+
+
+117
+0:7:22,29 --> 0:7:24,2
+(END VIDEO CLIP)
+
+
+118
+0:7:24,2 --> 0:7:28,4
+AZUZ: You`ve seen a lot of pictures of the
+Earth, most of the time they are taken during
+
+
+119
+0:7:28,4 --> 0:7:32,51
+the day because we have a lot of satellites
+that can do that for us. There is a new sensor
+
+
+120
+0:7:32,51 --> 0:7:36,73
+on a satellite that was launched last year,
+that`s especially designed to observe the
+
+
+121
+0:7:36,73 --> 0:7:41,75
+Earth at night. Scientists say these cloud
+free images are from more detailed view of
+
+
+122
+0:7:41,75 --> 0:7:47,26
+our planet than ever before. What`s really
+interesting are the lights, and how they sort
+
+
+123
+0:7:47,26 --> 0:7:52,58
+of define our world. For example, this is
+Egypt, and that long line is the Nile River,
+
+
+124
+0:7:52,58 --> 0:7:56,8
+the satellite can distinguish the brightly
+lit boats traveling along it. Some of the
+
+
+125
+0:7:56,8 --> 0:8:1,57
+lights around the Arabian Peninsula are gas
+flares from oil exploration, and this border
+
+
+126
+0:8:1,57 --> 0:8:5,91
+between light and dark is marked by the Himalayan
+Mountains, an example of how natural borders
+
+
+127
+0:8:5,91 --> 0:8:11,16
+can effect human settlement. You can see political
+borders, too. The lights here in South Korea,
+
+
+128
+0:8:11,16 --> 0:8:13,6
+the darkness is North Korea.
+
+
+129
+0:8:13,6 --> 0:8:17,87
+There are some new officers on patrol in metro
+stations around Washington, and they come
+
+
+130
+0:8:17,87 --> 0:8:23,7
+equipped with a unique skill set: it all starts
+with their noses, these bomb-sniffing dogs
+
+
+131
+0:8:23,7 --> 0:8:28,31
+worked with the Marine Corps in Afghanistan.
+They were recently donated to the Metro Transit
+
+
+132
+0:8:28,31 --> 0:8:31,33
+Police. Their new handlers are impressed by
+their pedigree.
+
+
+133
+0:8:31,33 --> 0:8:31,75
+(BEGIN VIDEOTAPE)
+
+
+134
+0:8:31,75 --> 0:8:35,0
+SGT. ANDY KEAHON, METRO TRANSIT POLICE DEPARTMENT:
+Every single one of the nine dogs that we
+
+
+135
+0:8:35,0 --> 0:8:38,8
+receive from the Marine Corps found bombs
+in Afghanistan. We have one in particular
+
+
+136
+0:8:38,8 --> 0:8:43,21
+that found 37 improvised explosive devises
+that were all buried down the road. We had
+
+
+137
+0:8:43,21 --> 0:8:46,57
+no idea that these dogs where as good they
+are, and they are fantastic.
+
+
+138
+0:8:46,57 --> 0:8:47,11
+(END VIDEOTAPE)
+
+
+139
+0:8:47,11 --> 0:8:51,11
+AZUZ: And good looking, too. Now, we did a
+dog story. So, before we go, in order to be
+
+
+140
+0:8:51,11 --> 0:8:55,75
+fair we are going to finish up with felines.
+This little guy is down for a catnap. But
+
+
+141
+0:8:55,75 --> 0:9:0,49
+something seems to have spooked him, look
+at those poor paws, flailing. Leave it to
+
+
+142
+0:9:0,49 --> 0:9:6,1
+mom to know just what to do: you brush down
+the arms and come in for a quick kitty cuddle.
+
+
+143
+0:9:6,1 --> 0:9:11,31
+A classic move seems to do the trick, and
+now you know the secret. If your pet is suffering
+
+
+144
+0:9:11,31 --> 0:9:16,31
+from nightmares, a simple hug will take care
+of the whole kitten caboodle. Without any
+
+
+145
+0:9:16,31 --> 0:9:20,81
+fears of further catastrophe. CNN STUDENT
+NEWS returns tomorrow. I hope to see you then,
+
+
+146
+0:9:20,81 --> 0:11:20,81
+bye-bye.
+
+

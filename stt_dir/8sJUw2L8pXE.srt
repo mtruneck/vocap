@@ -1,0 +1,5288 @@
+1
+0:1:13,375 --> 0:1:16,5
+
+
+
+2
+0:1:16,5 --> 0:1:18,292
+POIROT:
+The Harlequinade.
+
+
+3
+0:1:18,292 --> 0:1:20,833
+Ancestor of
+the English pantomime.
+
+
+4
+0:1:20,833 --> 0:1:23,25
+Six characters,
+
+
+5
+0:1:23,25 --> 0:1:26,5
+garish, grotesque,
+
+
+6
+0:1:26,5 --> 0:1:28,42
+first brought to life
+
+
+7
+0:1:28,42 --> 0:1:30,5
+three centuries ago
+by the clowns and the actors
+
+
+8
+0:1:30,5 --> 0:1:32,75
+of the Italian fairgrounds.
+
+
+9
+0:1:32,75 --> 0:1:37,583
+Today, mere costumed characters
+at a masked ball.
+
+
+10
+0:1:37,583 --> 0:1:40,83
+Where now their mystery,
+their magic,
+
+
+11
+0:1:40,83 --> 0:1:42,208
+their comedy...
+
+
+12
+0:1:42,208 --> 0:1:50,83
+their tragedy?
+
+
+13
+0:1:50,83 --> 0:1:51,958
+CRONSHAW:
+Ready for the party, Uncle?
+
+
+14
+0:1:51,958 --> 0:1:53,958
+Well, where's your mask?
+
+
+15
+0:1:53,958 --> 0:1:56,0
+It's not midnight yet,
+you know, Eustace.
+
+
+16
+0:1:56,0 --> 0:1:59,167
+Victory Ball?
+
+
+17
+0:1:59,167 --> 0:2:2,625
+You'd think the Hun would
+remember 1918 as well as we do.
+
+
+18
+0:2:2,625 --> 0:2:4,708
+Ah, well, as Coward says,
+
+
+19
+0:2:4,708 --> 0:2:8,958
+"What a pity the Hun
+prefers fighting to fun."
+
+
+20
+0:2:8,958 --> 0:2:10,0
+Oh, what's this?
+
+
+21
+0:2:10,0 --> 0:2:13,583
+Oh, Uncle Eustace,
+not more for your collection?
+
+
+22
+0:2:13,583 --> 0:2:15,792
+Magnificent set, isn't it?
+
+
+23
+0:2:15,792 --> 0:2:17,42
+Just over from Holland.
+
+
+24
+0:2:17,42 --> 0:2:19,292
+And Mira's holding it for me
+till the end of the month.
+
+
+25
+0:2:19,292 --> 0:2:21,125
+I can guess why
+you're telling me.
+
+
+26
+0:2:21,125 --> 0:2:24,458
+Your poor uncle doesn't
+get 6,000 a year
+
+
+27
+0:2:24,458 --> 0:2:26,0
+from the Cronshaw Estates,
+as you do.
+
+
+28
+0:2:26,0 --> 0:2:27,875
+-- Eustace, please --
+-- You know I'm cleaned out
+
+
+29
+0:2:27,875 --> 0:2:28,917
+after the figurines.
+
+
+30
+0:2:28,917 --> 0:2:32,0
+This is a night
+for old triumphs,
+
+
+31
+0:2:32,0 --> 0:2:37,542
+not for new quarrels.
+
+
+32
+0:2:37,542 --> 0:2:50,417
+BELTAINE:
+Cronshaw.
+
+
+33
+0:2:50,417 --> 0:2:52,625
+MAN:
+This is the National Programme.
+
+
+34
+0:2:52,625 --> 0:2:55,0
+The time is 7:00.
+
+
+35
+0:2:55,0 --> 0:2:58,583
+And now we present a play
+by Desmond Havelock Ellis
+
+
+36
+0:2:58,583 --> 0:3:2,208
+entitled "Deadly Alibi,"
+
+
+37
+0:3:2,208 --> 0:3:4,75
+starring Coco Courtney
+as Loretta Lampton.
+
+
+38
+0:3:4,75 --> 0:3:8,542
+The late Coco Courtney,
+as usual.
+
+
+39
+0:3:8,542 --> 0:3:12,792
+Where the hell is she?
+
+
+40
+0:3:12,792 --> 0:3:14,875
+Cue them.
+
+
+41
+0:3:14,875 --> 0:3:18,958
+Are you expecting Miss Lampton
+for dinner tonight, sir?
+
+
+42
+0:3:18,958 --> 0:3:22,292
+MAN: Yes. She should be arriving
+in about half an hour.
+
+
+43
+0:3:22,292 --> 0:3:24,958
+I believe that clock
+is gaining, sir.
+
+
+44
+0:3:24,958 --> 0:3:27,542
+I'm quite aware of that,
+thank you.
+
+
+45
+0:3:27,542 --> 0:3:29,625
+Will there be any other guests?
+
+
+46
+0:3:29,625 --> 0:3:30,667
+No.
+
+
+47
+0:3:30,667 --> 0:3:33,25
+Very good, sir.
+
+
+48
+0:3:33,25 --> 0:3:37,42
+[ Telephone rings ]
+
+
+49
+0:3:37,42 --> 0:3:38,958
+[ Door opens ]
+
+
+50
+0:3:38,958 --> 0:3:40,333
+Good evening, Davis.
+
+
+51
+0:3:40,333 --> 0:3:42,333
+I'm afraid I'm a little early.
+
+
+52
+0:3:42,333 --> 0:3:44,792
+That's quite all right, miss.
+
+
+53
+0:3:44,792 --> 0:3:46,167
+Bloody actresses.
+
+
+54
+0:3:46,167 --> 0:3:49,292
+COURTNEY: It was such
+a fine night, I --
+
+
+55
+0:3:49,292 --> 0:3:50,958
+Hey, is that the time?
+
+
+56
+0:3:50,958 --> 0:3:52,83
+Approximately.
+
+
+57
+0:3:52,83 --> 0:3:54,125
+Of course.
+I forgot -- it gains.
+
+
+58
+0:3:54,125 --> 0:3:56,667
+Rather fun, really.
+
+
+59
+0:3:56,667 --> 0:3:58,833
+You can be early and late
+at the same time.
+
+
+60
+0:3:58,833 --> 0:4:1,75
+MAN:
+Oh, Letty.
+
+
+61
+0:4:1,75 --> 0:4:3,625
+I wasn't expecting you
+till 8:00.
+
+
+62
+0:4:3,625 --> 0:4:6,792
+COURTNEY: Sorry.
+I never realized.
+
+
+63
+0:4:6,792 --> 0:4:8,25
+POIROT:
+Thank you, Miss Lemon.
+
+
+64
+0:4:8,25 --> 0:4:12,0
+I think Captain Hastings was
+listening to the weather report
+
+
+65
+0:4:12,0 --> 0:4:14,292
+to see whether
+you'd need an umbrella.
+
+
+66
+0:4:14,292 --> 0:4:17,708
+Oh.
+
+
+67
+0:4:17,708 --> 0:4:21,542
+This urgent package
+just arrived by messenger.
+
+
+68
+0:4:21,542 --> 0:4:24,542
+Can I go now?
+
+
+69
+0:4:24,542 --> 0:4:28,667
+Yes, of course.
+
+
+70
+0:4:28,667 --> 0:4:34,125
+[ Departing footsteps ]
+
+
+71
+0:4:34,125 --> 0:4:35,958
+[ Door opens ]
+
+
+72
+0:4:35,958 --> 0:4:37,792
+Just one moment —
+Miss Lemon!
+
+
+73
+0:4:37,792 --> 0:4:39,75
+Ah. I was wondering
+where that had got to.
+
+
+74
+0:4:39,75 --> 0:4:41,542
+Apparently, we won't need
+an umbrella.
+
+
+75
+0:4:41,542 --> 0:4:45,75
+Oh, you haven't forgotten,
+have you?
+
+
+76
+0:4:45,75 --> 0:4:46,875
+The Victory Ball.
+
+
+77
+0:4:46,875 --> 0:4:49,125
+You promised
+you'd try and make it.
+
+
+78
+0:4:49,125 --> 0:4:51,875
+Ackerley was really
+looking forward to it.
+
+
+79
+0:4:51,875 --> 0:4:54,0
+-- Ackerley is?
+-- HASTINGS: He's with the BBC.
+
+
+80
+0:4:54,0 --> 0:4:56,25
+But he's quite a decent chap.
+Drives an Alvis.
+
+
+81
+0:4:56,25 --> 0:4:57,542
+Well, unfortunately,
+
+
+82
+0:4:57,542 --> 0:5:0,458
+I have to rearrange
+my stamps in order of size.
+
+
+83
+0:5:0,458 --> 0:5:4,792
+Please convey my apologies
+to M. Ackerley.
+
+
+84
+0:5:4,792 --> 0:5:6,458
+He'll be very disappointed.
+
+
+85
+0:5:6,458 --> 0:5:7,958
+He said that meeting you
+
+
+86
+0:5:7,958 --> 0:5:11,875
+is the high spot
+of his career.
+
+
+87
+0:5:11,875 --> 0:5:20,333
+Well, that seems reasonable.
+
+
+88
+0:5:20,333 --> 0:5:23,625
+BELTAINE: It's not much to ask,
+Cronshaw.
+
+
+89
+0:5:23,625 --> 0:5:25,75
+A thousand should do it.
+
+
+90
+0:5:25,75 --> 0:5:27,375
+Eustace, not now.
+
+
+91
+0:5:27,375 --> 0:5:30,167
+Later.
+
+
+92
+0:5:30,167 --> 0:5:31,5
+And there she is —
+
+
+93
+0:5:31,5 --> 0:5:33,458
+the belle of the ball.
+
+
+94
+0:5:33,458 --> 0:5:37,125
+Cronsh.
+
+
+95
+0:5:37,125 --> 0:5:39,458
+Cutting it a bit fine,
+weren't you, Coco?
+
+
+96
+0:5:39,458 --> 0:5:44,25
+I like cutting it fine.
+Hello, darling.
+
+
+97
+0:5:44,25 --> 0:5:47,875
+Coco, you remember my uncle,
+the Honorable Eustace.
+
+
+98
+0:5:47,875 --> 0:5:50,83
+Dishonorable, I heard.
+
+
+99
+0:5:50,83 --> 0:5:52,0
+CRONSHAW:
+Oh, and this is Chris Davidson,
+
+
+100
+0:5:52,0 --> 0:5:53,625
+one of Coco's old
+acting cronies.
+
+
+101
+0:5:53,625 --> 0:5:55,333
+Hello.
+
+
+102
+0:5:55,333 --> 0:5:56,625
+CRONSHAW:
+Come on, Davidson.
+
+
+103
+0:5:56,625 --> 0:5:58,458
+We'd better go
+and rescue your wife.
+
+
+104
+0:5:58,458 --> 0:5:59,5
+She's out in the taxi
+
+
+105
+0:5:59,5 --> 0:6:3,292
+with a friend of Uncle's,
+the infamous Mrs. Mallaby.
+
+
+106
+0:6:3,292 --> 0:6:6,208
+Well, about time.
+
+
+107
+0:6:6,208 --> 0:6:8,583
+I was beginning to suspect
+Miss Courtney
+
+
+108
+0:6:8,583 --> 0:6:11,333
+was having a clandestine affair
+with Henry Hall.
+
+
+109
+0:6:11,333 --> 0:6:14,708
+And his orchestra.
+
+
+110
+0:6:14,708 --> 0:6:21,958
+Good evening, Coco.
+
+
+111
+0:6:21,958 --> 0:6:24,792
+Getting chilly, isn't it?
+
+
+112
+0:6:24,792 --> 0:6:43,292
+BELTAINE: All aboard
+for the Victory Ball.
+
+
+113
+0:6:43,292 --> 0:6:45,625
+They seek him here,
+they seek him there.
+
+
+114
+0:6:45,625 --> 0:6:48,333
+Those Frenchies seek him
+everywhere.
+
+
+115
+0:6:48,333 --> 0:6:49,833
+What do you think, Poirot?
+
+
+116
+0:6:49,833 --> 0:6:53,75
+POIROT:
+Hastings, you look...
+
+
+117
+0:6:53,75 --> 0:7:7,583
+...incomparable.
+
+
+118
+0:7:7,583 --> 0:7:9,5
+I still don't think
+they'll let you in.
+
+
+119
+0:7:9,5 --> 0:7:10,667
+I thought I made it clear
+
+
+120
+0:7:10,667 --> 0:7:12,333
+the Victory Ball
+was a costume do.
+
+
+121
+0:7:12,333 --> 0:7:14,292
+Hercule Poirot
+does not wear costumes.
+
+
+122
+0:7:14,292 --> 0:7:15,333
+Everybody does.
+
+
+123
+0:7:15,333 --> 0:7:17,667
+The whole idea is to go
+as someone famous.
+
+
+124
+0:7:17,667 --> 0:7:19,833
+Precisely.
+
+
+125
+0:7:19,833 --> 0:7:47,333
+Oh. I see.
+
+
+126
+0:7:47,333 --> 0:7:49,0
+-- James.
+-- Arthur.
+
+
+127
+0:7:49,0 --> 0:7:51,25
+May I present M. Hercule Poirot?
+
+
+128
+0:7:51,25 --> 0:7:55,42
+I'm so delighted
+to meet you at last.
+
+
+129
+0:7:55,42 --> 0:7:57,333
+The Sheikh of Ackerley,
+I presume.
+
+
+130
+0:7:57,333 --> 0:8:7,167
+[ Laughter ]
+
+
+131
+0:8:7,167 --> 0:8:11,208
+Well, here we are, then.
+
+
+132
+0:8:11,208 --> 0:8:13,5
+We eat supper first,
+don't we, Cronshaw?
+
+
+133
+0:8:13,5 --> 0:8:15,792
+-- No, not till half past 9:00.
+-- Oh.
+
+
+134
+0:8:15,792 --> 0:8:18,292
+Couldn't they run to
+a doorman in this place?
+
+
+135
+0:8:18,292 --> 0:8:20,708
+We're so backward in England,
+Mrs. Mallaby.
+
+
+136
+0:8:20,708 --> 0:8:22,25
+We still have door handles.
+
+
+137
+0:8:22,25 --> 0:8:26,167
+Oh, well, pardon me for living.
+
+
+138
+0:8:26,167 --> 0:8:30,0
+Oh! Sloshed already.
+
+
+139
+0:8:30,0 --> 0:8:31,333
+Did I hurt you, my dear?
+
+
+140
+0:8:31,333 --> 0:8:33,875
+I half expected you
+to shatter like a vase.
+
+
+141
+0:8:33,875 --> 0:8:38,208
+-- Come along, Coco.
+-- It's all right.
+
+
+142
+0:8:38,208 --> 0:8:41,958
+Are you all right, darling?
+
+
+143
+0:8:41,958 --> 0:8:45,42
+I was so afraid I wasn't going
+to make it here on time,
+
+
+144
+0:8:45,42 --> 0:8:47,292
+thanks to the antics
+of Coco Courtney.
+
+
+145
+0:8:47,292 --> 0:8:49,958
+Oh, speaking of which,
+isn't that her up there?
+
+
+146
+0:8:49,958 --> 0:8:54,5
+ACKERLEY:
+Oh, Lord Cronshaw's party, yes.
+
+
+147
+0:8:54,5 --> 0:8:57,83
+She's talked about nothing
+but the costumes
+
+
+148
+0:8:57,83 --> 0:8:58,5
+all through rehearsals.
+
+
+149
+0:8:58,5 --> 0:9:1,208
+They're a reproduction
+of the old Italian comedy.
+
+
+150
+0:9:1,208 --> 0:9:2,25
+The what?
+
+
+151
+0:9:2,25 --> 0:9:4,167
+Ah, yes,
+the Commedia dell'Arte.
+
+
+152
+0:9:4,167 --> 0:9:5,75
+Harlequin, the magical sprite
+
+
+153
+0:9:5,75 --> 0:9:9,5
+who can become invisible,
+and his lover, Columbine.
+
+
+154
+0:9:9,5 --> 0:9:12,833
+Punchinello and Pulcinella,
+the grotesques.
+
+
+155
+0:9:12,833 --> 0:9:17,542
+And, ah, yes, the tragic Pierrot
+and Pierrette.
+
+
+156
+0:9:17,542 --> 0:9:20,958
+Enchanting.
+
+
+157
+0:9:20,958 --> 0:9:23,458
+I thought Lord Cronshaw
+was a younger man.
+
+
+158
+0:9:23,458 --> 0:9:25,208
+What? Punchinello?
+
+
+159
+0:9:25,208 --> 0:9:26,25
+Oh, no, no.
+
+
+160
+0:9:26,25 --> 0:9:29,42
+That's his uncle,
+the Honorable Eustace Beltaine.
+
+
+161
+0:9:29,42 --> 0:9:32,667
+He was the one who bought
+those rare Meissen figurines
+
+
+162
+0:9:32,667 --> 0:9:35,125
+there was
+all that publicity about.
+
+
+163
+0:9:35,125 --> 0:9:38,833
+Apparently, they provided
+the inspiration for the outfits.
+
+
+164
+0:9:38,833 --> 0:9:42,167
+That's Cronshaw
+in the Harlequin suit.
+
+
+165
+0:9:42,167 --> 0:9:43,292
+HASTINGS:
+Oh, yes.
+
+
+166
+0:9:43,292 --> 0:9:46,375
+I read in the paper
+he's worth an absolute fortune.
+
+
+167
+0:9:46,375 --> 0:9:49,83
+POIROT: And who is that
+lighting the cigarette
+
+
+168
+0:9:49,83 --> 0:9:50,625
+of Mlle. Courtney?
+
+
+169
+0:9:50,625 --> 0:9:52,958
+ACKERLEY: The Pierrot?
+Chris Davidson.
+
+
+170
+0:9:52,958 --> 0:9:54,417
+Quite a versatile actor.
+
+
+171
+0:9:54,417 --> 0:9:58,667
+And that's his wife talking
+to Cronshaw, I assume.
+
+
+172
+0:9:58,667 --> 0:10:4,292
+The other lady is
+the notorious Mrs. Mallaby.
+
+
+173
+0:10:4,292 --> 0:10:5,75
+Ah, yes.
+
+
+174
+0:10:5,75 --> 0:10:11,125
+The American widow in search
+of a new victim, yes?
+
+
+175
+0:10:11,125 --> 0:10:13,667
+They say she stalks
+the aristocracy with a net
+
+
+176
+0:10:13,667 --> 0:10:15,0
+and a group of beaters.
+
+
+177
+0:10:15,0 --> 0:10:18,667
+[ Laughter ]
+
+
+178
+0:10:18,667 --> 0:10:19,958
+Oh, you're such a bore.
+
+
+179
+0:10:19,958 --> 0:10:22,792
+ACKERLEY: They make a jolly
+crowd, though, don't they?
+
+
+180
+0:10:22,792 --> 0:10:27,75
+Yes, indeed.
+
+
+181
+0:10:27,75 --> 0:10:59,167
+And now I think it is time
+for a little crème de banane.
+
+
+182
+0:10:59,167 --> 0:11:1,792
+Thank heavens that's over.
+
+
+183
+0:11:1,792 --> 0:11:4,5
+Coco and Cronshaw
+are being simply appalling.
+
+
+184
+0:11:4,5 --> 0:11:6,833
+Ah, there's that shyster
+Van Meer over there.
+
+
+185
+0:11:6,833 --> 0:11:8,458
+MALLABY:
+Eustace, forget it.
+
+
+186
+0:11:8,458 --> 0:11:11,583
+BELTAINE: He held me
+for ransom on the figurines,
+
+
+187
+0:11:11,583 --> 0:11:13,792
+and now he wants to do the same
+again with that china.
+
+
+188
+0:11:13,792 --> 0:11:15,625
+That's the least of
+our worries this evening.
+
+
+189
+0:11:15,625 --> 0:11:16,917
+I'm going to
+corner the blighter
+
+
+190
+0:11:16,917 --> 0:11:18,5
+and demand that
+he reduces the price.
+
+
+191
+0:11:18,5 --> 0:11:21,583
+Eustace!
+
+
+192
+0:11:21,583 --> 0:11:22,917
+I'm sorry.
+
+
+193
+0:11:22,917 --> 0:11:25,292
+When Eustace wants something
+for his collection,
+
+
+194
+0:11:25,292 --> 0:11:26,5
+he does rather...
+
+
+195
+0:11:26,5 --> 0:11:28,583
+BELTAINE: I want to put an end
+to this right now!
+
+
+196
+0:11:28,583 --> 0:11:30,208
+COURTNEY:
+For God's sake, shut up.
+
+
+197
+0:11:30,208 --> 0:11:32,25
+CRONSHAW: Coco, where do you
+think you're going?
+
+
+198
+0:11:32,25 --> 0:11:33,458
+I told you, I've had enough.
+
+
+199
+0:11:33,458 --> 0:11:34,917
+Chris, get me a taxi,
+would you?
+
+
+200
+0:11:34,917 --> 0:11:36,167
+I've got a splitting headache.
+
+
+201
+0:11:36,167 --> 0:11:37,208
+Coco.
+
+
+202
+0:11:37,208 --> 0:11:38,667
+It's all been decided, Cronsh.
+
+
+203
+0:11:38,667 --> 0:11:39,708
+Chris is taking me home.
+
+
+204
+0:11:39,708 --> 0:11:41,167
+CRONSHAW:
+The hell he is.
+
+
+205
+0:11:41,167 --> 0:11:42,417
+You're staying right here!
+
+
+206
+0:11:42,417 --> 0:11:44,708
+I am not prepared to have
+an argument about it.
+
+
+207
+0:11:44,708 --> 0:11:47,708
+Look, why don't we all just sit
+down for a moment and cool off?
+
+
+208
+0:11:47,708 --> 0:11:48,75
+COURTNEY:
+Cool off?
+
+
+209
+0:11:48,75 --> 0:11:50,625
+He's already as cold as
+an iceberg,
+
+
+210
+0:11:50,625 --> 0:11:51,792
+with me as the Titanic.
+
+
+211
+0:11:51,792 --> 0:11:53,25
+[ Laughs ]
+
+
+212
+0:11:53,25 --> 0:11:56,125
+What the hell do you think
+you're laughing at?
+
+
+213
+0:11:56,125 --> 0:11:58,333
+I'm sorry.
+
+
+214
+0:11:58,333 --> 0:12:0,25
+Coco, people are looking.
+
+
+215
+0:12:0,25 --> 0:12:1,583
+Come along.
+
+
+216
+0:12:1,583 --> 0:12:8,42
+Cronshaw, let's go back inside.
+
+
+217
+0:12:8,42 --> 0:12:10,917
+HASTINGS: And yet I feel I took
+the podium in Josephine.
+
+
+218
+0:12:10,917 --> 0:12:16,458
+[ Laughs ]
+
+
+219
+0:12:16,458 --> 0:12:18,875
+M. Ackerley, do I understand
+that you produced
+
+
+220
+0:12:18,875 --> 0:12:21,833
+a play on the radio this evening
+following the weather forecast?
+
+
+221
+0:12:21,833 --> 0:12:23,458
+ACKERLEY:
+Yes.
+
+
+222
+0:12:23,458 --> 0:12:25,667
+Tell me -- is not Mlle. Courtney
+
+
+223
+0:12:25,667 --> 0:12:28,25
+slightly older than is usual
+for the part of the ingenue?
+
+
+224
+0:12:28,25 --> 0:12:31,792
+A little, perhaps, but, then,
+that's the joy of radio.
+
+
+225
+0:12:31,792 --> 0:12:34,708
+The visual appearance
+is all in the mind.
+
+
+226
+0:12:34,708 --> 0:12:42,0
+It's amazing what we
+get away with sometimes.
+
+
+227
+0:12:42,0 --> 0:12:48,25
+Good night.
+
+
+228
+0:12:48,25 --> 0:12:50,75
+HASTINGS:
+What's all that about?
+
+
+229
+0:12:50,75 --> 0:12:53,625
+POIROT: It would appear
+that Mlle. Courtney
+
+
+230
+0:12:53,625 --> 0:12:55,417
+and her boyfriend,
+Lord Cronshaw,
+
+
+231
+0:12:55,417 --> 0:12:57,417
+have had a disagreement
+of some kind.
+
+
+232
+0:12:57,417 --> 0:12:59,542
+Just now I heard her ask
+M. Davidson
+
+
+233
+0:12:59,542 --> 0:13:0,583
+to escort her home.
+
+
+234
+0:13:0,583 --> 0:13:1,625
+Well, that's a shame.
+
+
+235
+0:13:1,625 --> 0:13:2,708
+She'll miss all the fun.
+
+
+236
+0:13:2,708 --> 0:13:4,292
+Well, I wondered
+how long it'd be
+
+
+237
+0:13:4,292 --> 0:13:5,958
+before something
+like that happened.
+
+
+238
+0:13:5,958 --> 0:13:7,667
+You are not surprised?
+
+
+239
+0:13:7,667 --> 0:13:9,667
+I know actors, M. Poirot.
+
+
+240
+0:13:9,667 --> 0:13:11,375
+They never know when to stop.
+
+
+241
+0:13:11,375 --> 0:13:15,333
+Well, she has had her moment
+of drama for this evening.
+
+
+242
+0:13:15,333 --> 0:13:20,0
+Let us hope
+it will be sufficient.
+
+
+243
+0:13:20,0 --> 0:13:22,75
+He's arrogant, conceited.
+
+
+244
+0:13:22,75 --> 0:13:24,625
+What's all this about, Coco?
+
+
+245
+0:13:24,625 --> 0:13:28,583
+What exactly did Cronshaw
+say to you earlier?
+
+
+246
+0:13:28,583 --> 0:13:31,542
+COURTNEY:
+Chris, not now.
+
+
+247
+0:13:31,542 --> 0:13:32,792
+Has our taxi arrived yet?
+
+
+248
+0:13:32,792 --> 0:13:35,292
+-- Your cab is waiting, sir.
+-- Careful.
+
+
+249
+0:13:35,292 --> 0:13:48,83
+MRS. DAVIDSON:
+Chris?
+
+
+250
+0:13:48,83 --> 0:13:50,833
+BELTAINE: We need to
+have this out here and now.
+
+
+251
+0:13:50,833 --> 0:13:53,625
+Look, you're not a poor man.
+
+
+252
+0:13:53,625 --> 0:13:56,875
+Surely you can do me
+this one favor.
+
+
+253
+0:13:56,875 --> 0:14:8,458
+You know I'm desperate.
+
+
+254
+0:14:8,458 --> 0:14:10,125
+Thanks for everything, Chris.
+
+
+255
+0:14:10,125 --> 0:14:12,25
+I think I can handle it
+from here.
+
+
+256
+0:14:12,25 --> 0:14:13,708
+It's time Cronsh realized
+
+
+257
+0:14:13,708 --> 0:14:17,917
+I'm not one of his
+prize racehorses.
+
+
+258
+0:14:17,917 --> 0:14:21,417
+CHRIS: Coco, are you sure
+you'll manage?
+
+
+259
+0:14:21,417 --> 0:14:22,708
+I'm sure.
+
+
+260
+0:14:22,708 --> 0:14:25,25
+I'd get back there
+if I were you.
+
+
+261
+0:14:25,25 --> 0:14:27,75
+That wife of yours may look
+like a startled poodle,
+
+
+262
+0:14:27,75 --> 0:14:28,792
+but she's no fool.
+
+
+263
+0:14:28,792 --> 0:14:30,917
+I'll never make it back
+before midnight.
+
+
+264
+0:14:30,917 --> 0:14:33,667
+Well, then, you'd better
+go home and wait for her.
+
+
+265
+0:14:33,667 --> 0:14:36,583
+Good night, Coco.
+
+
+266
+0:14:36,583 --> 0:14:38,792
+COURTNEY:
+Sleep tight.
+
+
+267
+0:14:38,792 --> 0:14:47,0
+I always do.
+
+
+268
+0:14:47,0 --> 0:14:59,792
+MAN: Have a nice evening,
+Miss Courtney?
+
+
+269
+0:14:59,792 --> 0:15:3,583
+-- Oh!
+-- So sorry.
+
+
+270
+0:15:3,583 --> 0:15:9,167
+Oh, thank you.
+
+
+271
+0:15:9,167 --> 0:15:10,542
+M. Ackerley, I thank you.
+
+
+272
+0:15:10,542 --> 0:15:11,917
+You are very kind.
+
+
+273
+0:15:11,917 --> 0:15:13,458
+My pleasure.
+
+
+274
+0:15:13,458 --> 0:15:14,75
+Santé.
+
+
+275
+0:15:14,75 --> 0:15:19,208
+Cheers.
+
+
+276
+0:15:19,208 --> 0:15:22,625
+Are you sure I can't persuade
+you to recount some of
+
+
+277
+0:15:22,625 --> 0:15:24,917
+your juicier cases
+on the radio?
+
+
+278
+0:15:24,917 --> 0:15:25,958
+Alas, no.
+
+
+279
+0:15:25,958 --> 0:15:28,417
+You see, murder --
+a real murder --
+
+
+280
+0:15:28,417 --> 0:15:30,42
+is not an entertainment.
+
+
+281
+0:15:30,42 --> 0:15:32,875
+Look at this place --
+people dance, they laugh.
+
+
+282
+0:15:32,875 --> 0:15:35,833
+But anywhere, there may be
+evil beneath the mask.
+
+
+283
+0:15:35,833 --> 0:15:36,958
+Pardon me.
+
+
+284
+0:15:36,958 --> 0:15:39,333
+I saw you across the room.
+
+
+285
+0:15:39,333 --> 0:15:42,292
+Aren't you Hercule Poirot,
+the detective?
+
+
+286
+0:15:42,292 --> 0:15:44,167
+I am indeed, Madame Mallaby.
+
+
+287
+0:15:44,167 --> 0:15:45,958
+Ah!
+
+
+288
+0:15:45,958 --> 0:15:48,167
+That's amazing.
+You worked out my name.
+
+
+289
+0:15:48,167 --> 0:15:51,375
+I suppose you don't also know
+where Lord Cronshaw is.
+
+
+290
+0:15:51,375 --> 0:15:52,458
+He's a Harlequin.
+
+
+291
+0:15:52,458 --> 0:15:54,917
+He's been in a tizzy
+ever since supper.
+
+
+292
+0:15:54,917 --> 0:15:55,958
+Alas, no.
+
+
+293
+0:15:55,958 --> 0:15:57,625
+Oh.
+
+
+294
+0:15:57,625 --> 0:16:1,583
+He promised me a turn
+on the floor before 12:00.
+
+
+295
+0:16:1,583 --> 0:16:5,917
+Then, madame, you must not
+be disappointed.
+
+
+296
+0:16:5,917 --> 0:16:9,208
+My associate, Captain Hastings,
+is a dancer consummate.
+
+
+297
+0:16:9,208 --> 0:16:11,583
+He would be pleased
+to accompany you.
+
+
+298
+0:16:11,583 --> 0:16:22,333
+My pleasure.
+
+
+299
+0:16:22,333 --> 0:16:25,75
+Ah, look, there he is.
+
+
+300
+0:16:25,75 --> 0:16:33,42
+Yoo-hoo!
+Viscount Cronshaw!
+
+
+301
+0:16:33,42 --> 0:16:35,583
+Would you excuse me
+for a moment?
+
+
+302
+0:16:35,583 --> 0:16:44,625
+Of course.
+
+
+303
+0:16:44,625 --> 0:16:46,125
+ACKERLEY:
+Been stood up, Arthur?
+
+
+304
+0:16:46,125 --> 0:16:48,42
+No title, I'm afraid.
+
+
+305
+0:16:48,42 --> 0:16:49,917
+MAN:
+My lords,
+
+
+306
+0:16:49,917 --> 0:16:54,208
+ladies and gentlemen,
+the time for
+
+
+307
+0:16:54,208 --> 0:16:58,292
+the unmasking and the victory
+celebrations is at hand.
+
+
+308
+0:16:58,292 --> 0:17:0,333
+[ Audience gasps and applauds ]
+
+
+309
+0:17:0,333 --> 0:17:3,42
+Twelve seconds to midnight.
+
+
+310
+0:17:3,42 --> 0:17:5,25
+Ten, nine,
+
+
+311
+0:17:5,25 --> 0:17:7,792
+eight, seven,
+
+
+312
+0:17:7,792 --> 0:17:11,208
+six, five, four,
+
+
+313
+0:17:11,208 --> 0:17:14,708
+three, two, one.
+
+
+314
+0:17:14,708 --> 0:17:18,458
+[ Cheering ]
+
+
+315
+0:17:18,458 --> 0:17:19,917
+[ Applause ]
+
+
+316
+0:17:19,917 --> 0:17:38,375
+[ Balloons pop ]
+
+
+317
+0:17:38,375 --> 0:18:10,208
+[ Screams ]
+
+
+318
+0:18:10,208 --> 0:18:20,333
+Thank you.
+
+
+319
+0:18:20,333 --> 0:18:30,333
+[ Chopin's piano music playing ]
+
+
+320
+0:18:30,333 --> 0:18:38,333
+Darling, what is it?
+
+
+321
+0:18:38,333 --> 0:18:40,75
+What's happened?
+
+
+322
+0:18:40,75 --> 0:18:55,83
+Lord Cronshaw's dead.
+
+
+323
+0:18:55,83 --> 0:18:57,0
+Inspector Japp,
+any comment to make?
+
+
+324
+0:18:57,0 --> 0:18:59,125
+Is it true Hercule Poirot
+missed the killer?
+
+
+325
+0:18:59,125 --> 0:19:4,667
+Tell us the truth, Inspector.
+
+
+326
+0:19:4,667 --> 0:19:6,792
+JAPP: Here's a fine
+dish of tea, Poirot.
+
+
+327
+0:19:6,792 --> 0:19:9,167
+Peer of the Realm
+murdered in cold blood
+
+
+328
+0:19:9,167 --> 0:19:10,958
+under the noses of 400 revelers.
+
+
+329
+0:19:10,958 --> 0:19:12,333
+We'll need the Albert Hall
+
+
+330
+0:19:12,333 --> 0:19:14,5
+to gather the suspects
+on this one.
+
+
+331
+0:19:14,5 --> 0:19:16,167
+Perhaps.
+
+
+332
+0:19:16,167 --> 0:19:18,167
+It is one of
+the table knives.
+
+
+333
+0:19:18,167 --> 0:19:19,292
+Plenty back here.
+
+
+334
+0:19:19,292 --> 0:19:23,458
+We'll check for prints,
+but I'll lay odds it's clean.
+
+
+335
+0:19:23,458 --> 0:19:27,583
+An instrument not
+very practical,
+
+
+336
+0:19:27,583 --> 0:19:29,25
+but in the right hands...
+
+
+337
+0:19:29,25 --> 0:19:32,667
+Ah, we also found this
+on the floor.
+
+
+338
+0:19:32,667 --> 0:19:35,0
+The Mallaby woman saw him
+make some sort of note
+
+
+339
+0:19:35,0 --> 0:19:37,5
+just before he died.
+
+
+340
+0:19:37,5 --> 0:19:39,25
+POIROT:
+Lowestoft.
+
+
+341
+0:19:39,25 --> 0:19:42,792
+Town on the east coast.
+
+
+342
+0:19:42,792 --> 0:19:45,167
+Perhaps he was
+planning a holiday.
+
+
+343
+0:19:45,167 --> 0:19:48,0
+I say, Poirot, look at this.
+
+
+344
+0:19:48,0 --> 0:20:2,417
+Attention, mon ami.
+
+
+345
+0:20:2,417 --> 0:20:3,542
+Monogrammed.
+
+
+346
+0:20:3,542 --> 0:20:5,542
+HASTINGS:
+"C" for Cronshaw.
+
+
+347
+0:20:5,542 --> 0:20:11,583
+Very nice.
+
+
+348
+0:20:11,583 --> 0:20:12,625
+Idiot!
+
+
+349
+0:20:12,625 --> 0:20:13,708
+HASTINGS:
+What is it?
+
+
+350
+0:20:13,708 --> 0:20:16,167
+Such foolishness!
+
+
+351
+0:20:16,167 --> 0:20:19,0
+Young people must realize that
+life is not to be gambled with
+
+
+352
+0:20:19,0 --> 0:20:22,0
+like the roulette wheel.
+
+
+353
+0:20:22,0 --> 0:20:28,25
+It is nothing less than poison.
+
+
+354
+0:20:28,25 --> 0:20:30,125
+Cocaine.
+
+
+355
+0:20:30,125 --> 0:20:33,708
+Would that account for his
+strange behavior after supper?
+
+
+356
+0:20:33,708 --> 0:20:37,208
+It's not unusual for addicts
+to become moody and troublesome.
+
+
+357
+0:20:37,208 --> 0:20:41,25
+He certainly seems to have
+put up a fight.
+
+
+358
+0:20:41,25 --> 0:20:43,125
+Why do you say that, Hastings?
+
+
+359
+0:20:43,125 --> 0:20:44,792
+Hadn't you noticed?
+
+
+360
+0:20:44,792 --> 0:20:45,833
+His fist.
+
+
+361
+0:20:45,833 --> 0:20:57,292
+It's still clenched.
+
+
+362
+0:20:57,292 --> 0:20:58,625
+C'est ça.
+
+
+363
+0:20:58,625 --> 0:21:0,5
+Well, I can't see
+how that helps us.
+
+
+364
+0:21:0,5 --> 0:21:2,417
+POIROT:
+Can you not, Chief Inspector?
+
+
+365
+0:21:2,417 --> 0:21:5,958
+Then let me enlighten you
+further.
+
+
+366
+0:21:5,958 --> 0:21:8,42
+Unless I am very mistaken,
+
+
+367
+0:21:8,42 --> 0:21:14,167
+there is something very
+important behind this curtain.
+
+
+368
+0:21:14,167 --> 0:21:22,83
+Voilà.
+
+
+369
+0:21:22,83 --> 0:21:25,0
+Well, it's just an empty recess.
+
+
+370
+0:21:25,0 --> 0:21:27,125
+POIROT:
+My point exactly.
+
+
+371
+0:21:27,125 --> 0:21:29,667
+One more thing, Chief Inspector.
+
+
+372
+0:21:29,667 --> 0:21:33,42
+If I were you, I should find
+Mlle. Coco Courtney.
+
+
+373
+0:21:33,42 --> 0:21:34,958
+-- Why?
+-- Ask her if
+
+
+374
+0:21:34,958 --> 0:21:45,125
+she and Lord Cronshaw
+had an argument.
+
+
+375
+0:21:45,125 --> 0:21:48,583
+"Murderer eludes
+famous detective."
+
+
+376
+0:21:48,583 --> 0:21:50,125
+Idiot.
+
+
+377
+0:21:50,125 --> 0:21:53,42
+It's a very good photo
+of Captain Hastings.
+
+
+378
+0:21:53,42 --> 0:21:54,75
+Indeed it is, Miss Lemon.
+
+
+379
+0:21:54,75 --> 0:21:57,417
+I'm sure no one
+will think less of you.
+
+
+380
+0:21:57,417 --> 0:21:59,5
+Seen the paper, Poirot?
+Jolly good photo of me --
+
+
+381
+0:21:59,5 --> 0:22:1,83
+Oh, you've seen it.
+
+
+382
+0:22:1,83 --> 0:22:3,5
+I'll go and sort the letters.
+
+
+383
+0:22:3,5 --> 0:22:6,167
+I wouldn't take it to heart
+if I were you.
+
+
+384
+0:22:6,167 --> 0:22:7,583
+No, indeed, Hastings.
+
+
+385
+0:22:7,583 --> 0:22:10,542
+For the present,
+it suits my purposes.
+
+
+386
+0:22:10,542 --> 0:22:12,917
+Ah.
+
+
+387
+0:22:12,917 --> 0:22:14,625
+This is what interests me.
+
+
+388
+0:22:14,625 --> 0:22:16,0
+The obituary?
+
+
+389
+0:22:16,0 --> 0:22:19,292
+Listen to this.
+
+
+390
+0:22:19,292 --> 0:22:22,25
+"The Viscount Cronshaw was
+chairman of many charities,
+
+
+391
+0:22:22,25 --> 0:22:24,292
+including the Widows
+of British Seamen
+
+
+392
+0:22:24,292 --> 0:22:26,417
+and the League Against
+Drug Addiction."
+
+
+393
+0:22:26,417 --> 0:22:27,458
+[ Telephone rings ]
+
+
+394
+0:22:27,458 --> 0:22:29,542
+"He is succeeded
+in his title and estates
+
+
+395
+0:22:29,542 --> 0:22:31,917
+by his uncle,
+the Honorable Eustace Beltaine."
+
+
+396
+0:22:31,917 --> 0:22:33,792
+The League Against
+Drug Addiction.
+
+
+397
+0:22:33,792 --> 0:22:37,625
+That's a bit hypocritical,
+isn't it?
+
+
+398
+0:22:37,625 --> 0:22:40,333
+You miss my point,
+I think, Hastings.
+
+
+399
+0:22:40,333 --> 0:22:44,83
+Mr. Poirot.
+Chief Inspector Japp.
+
+
+400
+0:22:44,83 --> 0:22:49,458
+Oh.
+
+
+401
+0:22:49,458 --> 0:22:50,5
+Hello?
+
+
+402
+0:22:50,5 --> 0:22:51,542
+Ah, Poirot.
+
+
+403
+0:22:51,542 --> 0:22:53,625
+We're drawing a blank
+at this end, I'm afraid.
+
+
+404
+0:22:53,625 --> 0:22:55,375
+Miss Courtney doesn't
+answer her phone,
+
+
+405
+0:22:55,375 --> 0:22:57,333
+and there's no reply
+at her door, either.
+
+
+406
+0:22:57,333 --> 0:22:59,42
+POIROT: I implore you
+to be persistent,
+
+
+407
+0:22:59,42 --> 0:23:0,83
+Chief Inspector Japp.
+
+
+408
+0:23:0,83 --> 0:23:2,792
+I am now even more convinced
+that Mlle. Courtney
+
+
+409
+0:23:2,792 --> 0:23:4,875
+must be located
+with all possible speed.
+
+
+410
+0:23:4,875 --> 0:23:9,83
+Right.
+
+
+411
+0:23:9,83 --> 0:23:13,875
+Mlle. Courtney
+is proving elusive.
+
+
+412
+0:23:13,875 --> 0:23:16,417
+HASTINGS:
+Probably sleeping the night off.
+
+
+413
+0:23:16,417 --> 0:23:17,833
+All of these theatrical types
+
+
+414
+0:23:17,833 --> 0:23:19,75
+lie in late if they
+haven't a performance.
+
+
+415
+0:23:19,75 --> 0:23:25,333
+But she does have
+a performance.
+
+
+416
+0:23:25,333 --> 0:23:28,0
+They usually perform
+the Friday evening play again
+
+
+417
+0:23:28,0 --> 0:23:29,83
+on Saturday morning.
+
+
+418
+0:23:29,83 --> 0:23:31,667
+My mother listens to it
+during her morning coffee.
+
+
+419
+0:23:31,667 --> 0:23:34,625
+COURTNEY: I do love him
+in a way, I suppose,
+
+
+420
+0:23:34,625 --> 0:23:37,875
+but it was never quite how I
+imagined it was going to be.
+
+
+421
+0:23:37,875 --> 0:23:41,125
+I suppose it never is.
+
+
+422
+0:23:41,125 --> 0:23:43,417
+But I'm staring at
+the clock -- why?
+
+
+423
+0:23:43,417 --> 0:23:45,0
+Come, Hastings.
+
+
+424
+0:23:45,0 --> 0:23:49,125
+We will make a trip
+to Broadcasting House.
+
+
+425
+0:23:49,125 --> 0:23:52,208
+MAN:
+Letty, what do you mean?
+
+
+426
+0:23:52,208 --> 0:24:10,958
+COURTNEY:
+I mean...
+
+
+427
+0:24:10,958 --> 0:24:13,125
+[ Telephone rings ]
+
+
+428
+0:24:13,125 --> 0:24:15,75
+WOMAN:
+"Hercules Poy-rot."
+
+
+429
+0:24:15,75 --> 0:24:20,83
+I'm afraid the variety auditions
+are on Tuesdays.
+
+
+430
+0:24:20,83 --> 0:24:22,667
+That is fortunate.
+
+
+431
+0:24:22,667 --> 0:24:24,5
+I am here on a matter
+of murder, madame.
+
+
+432
+0:24:24,5 --> 0:24:28,167
+You're the detective
+from the newspapers.
+
+
+433
+0:24:28,167 --> 0:24:30,167
+Correct.
+
+
+434
+0:24:30,167 --> 0:24:35,25
+Don't suppose you want to
+miss a second one.
+
+
+435
+0:24:35,25 --> 0:24:38,42
+COURTNEY: You were never where
+you said you were that night,
+
+
+436
+0:24:38,42 --> 0:24:39,125
+but here all the time.
+
+
+437
+0:24:39,125 --> 0:24:41,583
+I was such an idiot.
+
+
+438
+0:24:41,583 --> 0:24:43,917
+I never guessed it was
+the money you wanted.
+
+
+439
+0:24:43,917 --> 0:24:45,25
+MAN:
+Is that what you thought?
+
+
+440
+0:24:45,25 --> 0:24:47,667
+ACKERLEY: Luckily we took
+a recorded transcription
+
+
+441
+0:24:47,667 --> 0:24:49,958
+of last night's performance
+for the archives.
+
+
+442
+0:24:49,958 --> 0:24:53,125
+We would have had to ask one of
+the girls to double up parts.
+
+
+443
+0:24:53,125 --> 0:24:56,208
+Did Mlle. Courtney send to you
+a message this morning
+
+
+444
+0:24:56,208 --> 0:24:57,458
+to explain her absence?
+
+
+445
+0:24:57,458 --> 0:24:58,833
+Not a sausage.
+
+
+446
+0:24:58,833 --> 0:25:0,25
+Three minutes to transmission,
+
+
+447
+0:25:0,25 --> 0:25:2,208
+she still wasn't
+answering her phone,
+
+
+448
+0:25:2,208 --> 0:25:4,458
+so I had no choice
+but to use the transcription
+
+
+449
+0:25:4,458 --> 0:25:5,833
+and dismiss the other actors.
+
+
+450
+0:25:5,833 --> 0:25:8,583
+Hastings, I'm very much afraid
+of what has happened.
+
+
+451
+0:25:8,583 --> 0:25:11,292
+Would you please telephone
+the Chief Inspector Japp?
+
+
+452
+0:25:11,292 --> 0:25:13,25
+Instruct him that he must
+enter the apartment
+
+
+453
+0:25:13,25 --> 0:25:15,333
+of Mlle. Courtney
+by any means necessary.
+
+
+454
+0:25:15,333 --> 0:25:17,375
+-- Well, of course, but what --
+-- Hastings, please.
+
+
+455
+0:25:17,375 --> 0:25:19,5
+This is a matter
+of life and death.
+
+
+456
+0:25:19,5 --> 0:25:22,83
+MAN: Very clever, Letty,
+but I suppose you realize
+
+
+457
+0:25:22,83 --> 0:25:24,83
+that I can't let you
+spill the beans.
+
+
+458
+0:25:24,83 --> 0:25:25,958
+Is there anything
+I can do to help?
+
+
+459
+0:25:25,958 --> 0:25:41,0
+COURTNEY:
+Phillip, you can't!
+
+
+460
+0:25:41,0 --> 0:25:53,375
+Fourth floor, lads.
+
+
+461
+0:25:53,375 --> 0:25:55,125
+Right, the apartment above.
+
+
+462
+0:25:55,125 --> 0:25:56,542
+Get down on the balcony.
+
+
+463
+0:25:56,542 --> 0:25:59,83
+Fast!
+
+
+464
+0:25:59,83 --> 0:26:3,542
+And don't break your necks!
+
+
+465
+0:26:3,542 --> 0:26:9,42
+POIROT:
+Nothing yet?
+
+
+466
+0:26:9,42 --> 0:26:11,667
+You and Mlle. Courtney
+are old friends, huh?
+
+
+467
+0:26:11,667 --> 0:26:15,375
+After a fashion.
+
+
+468
+0:26:15,375 --> 0:26:17,5
+She likes having people
+she knows around her
+
+
+469
+0:26:17,5 --> 0:26:18,542
+playing minor roles.
+
+
+470
+0:26:18,542 --> 0:26:22,208
+Coco and I go back a long way.
+
+
+471
+0:26:22,208 --> 0:26:24,708
+She was playing the lead in Rep
+when I landed my first part.
+
+
+472
+0:26:24,708 --> 0:26:26,625
+So you see a great deal
+of each other.
+
+
+473
+0:26:26,625 --> 0:26:28,0
+CHRIS:
+Look here, Poirot.
+
+
+474
+0:26:28,0 --> 0:26:29,917
+I'm a married man, remember?
+
+
+475
+0:26:29,917 --> 0:26:31,792
+I'm sorry, M. Davidson.
+
+
+476
+0:26:31,792 --> 0:26:36,667
+Forgive me, but...
+I was just trying to ascertain
+
+
+477
+0:26:36,667 --> 0:26:39,25
+whether you could shed any light
+on the argument last evening
+
+
+478
+0:26:39,25 --> 0:26:42,42
+between Mlle. Courtney
+and the Lord Cronshaw.
+
+
+479
+0:26:42,42 --> 0:26:43,167
+Not really.
+
+
+480
+0:26:43,167 --> 0:26:45,75
+There was a bad atmosphere
+all evening.
+
+
+481
+0:26:45,75 --> 0:26:48,42
+It was as if something
+was brewing.
+
+
+482
+0:26:48,42 --> 0:26:49,5
+We all noticed it.
+
+
+483
+0:26:49,5 --> 0:26:52,5
+But they conversed normally
+at supper?
+
+
+484
+0:26:52,5 --> 0:26:53,625
+Hardly a word.
+
+
+485
+0:26:53,625 --> 0:26:56,708
+No one had much of a chance
+to say anything
+
+
+486
+0:26:56,708 --> 0:26:58,667
+with Beltaine going on
+about some china
+
+
+487
+0:26:58,667 --> 0:27:0,5
+he wanted to add
+to his collection.
+
+
+488
+0:27:0,5 --> 0:27:1,792
+Of course, it all flared up
+
+
+489
+0:27:1,792 --> 0:27:3,667
+after the meal,
+
+
+490
+0:27:3,667 --> 0:27:5,792
+and then I ended up
+taking her home.
+
+
+491
+0:27:5,792 --> 0:27:9,792
+And when you were
+alone together
+
+
+492
+0:27:9,792 --> 0:27:13,42
+in the taxi?
+
+
+493
+0:27:13,42 --> 0:27:17,625
+Just a lot of nonsense about
+how she'd make Cronshaw pay.
+
+
+494
+0:27:17,625 --> 0:27:20,333
+The usual hysterics.
+
+
+495
+0:27:20,333 --> 0:27:24,417
+And then I dropped her off
+at her flat.
+
+
+496
+0:27:24,417 --> 0:27:26,708
+At what time was this?
+
+
+497
+0:27:26,708 --> 0:27:27,917
+Nearly midnight.
+
+
+498
+0:27:27,917 --> 0:27:29,917
+There was no time
+to go back to the ball,
+
+
+499
+0:27:29,917 --> 0:27:30,958
+so I just headed home.
+
+
+500
+0:27:30,958 --> 0:27:38,667
+Ah.
+
+
+501
+0:27:38,667 --> 0:27:42,83
+MAN:
+All right, lower away.
+
+
+502
+0:27:42,83 --> 0:27:46,83
+Okay, okay.
+
+
+503
+0:27:46,83 --> 0:27:51,83
+[ Glass shatters ]
+
+
+504
+0:27:51,83 --> 0:28:2,917
+Sir.
+
+
+505
+0:28:2,917 --> 0:28:5,958
+COURTNEY: He made me
+feel young again,
+
+
+506
+0:28:5,958 --> 0:28:8,375
+like a newborn calf.
+
+
+507
+0:28:8,375 --> 0:28:9,5
+When I saw him,
+
+
+508
+0:28:9,5 --> 0:28:11,542
+it was as if the whole world
+was fresh.
+
+
+509
+0:28:11,542 --> 0:28:13,0
+We'll come down right away.
+
+
+510
+0:28:13,0 --> 0:28:20,792
+Even the sky seemed bluer.
+
+
+511
+0:28:20,792 --> 0:28:30,125
+Get up there.
+Come on.
+
+
+512
+0:28:30,125 --> 0:28:32,417
+MAN:
+Let's see her face.
+
+
+513
+0:28:32,417 --> 0:28:34,83
+OFFICER:
+All right, stop that, you lot.
+
+
+514
+0:28:34,83 --> 0:28:35,75
+-- MAN: Courtney!
+-- OFFICER: Come on.
+
+
+515
+0:28:35,75 --> 0:28:37,958
+MAN:
+Try and get another picture.
+
+
+516
+0:28:37,958 --> 0:28:40,25
+OFFICER:
+Come on, move out of the way.
+
+
+517
+0:28:40,25 --> 0:28:43,708
+REPORTER:
+Could you stop for a minute?
+
+
+518
+0:28:43,708 --> 0:28:46,0
+Still looking, Poirot?
+
+
+519
+0:28:46,0 --> 0:28:47,958
+Poirot,
+can you make a statement?
+
+
+520
+0:28:47,958 --> 0:28:56,833
+No photographs.
+No, no, no.
+
+
+521
+0:28:56,833 --> 0:28:58,83
+Chief Inspector.
+
+
+522
+0:28:58,83 --> 0:29:0,333
+JAPP:
+We found her in the bedroom.
+
+
+523
+0:29:0,333 --> 0:29:1,625
+Overdose of cocaine.
+
+
+524
+0:29:1,625 --> 0:29:5,125
+Presumably supplied by her
+boyfriend, Lord Cronshaw.
+
+
+525
+0:29:5,125 --> 0:29:6,583
+How many more must die
+
+
+526
+0:29:6,583 --> 0:29:9,333
+before this folly
+is seen for what it is?
+
+
+527
+0:29:9,333 --> 0:29:11,333
+Toxicity finally
+got too much for her.
+
+
+528
+0:29:11,333 --> 0:29:12,458
+Cronshaw must have been
+
+
+529
+0:29:12,458 --> 0:29:14,208
+supplying it to her
+for some time.
+
+
+530
+0:29:14,208 --> 0:29:16,958
+Do you not understand,
+Chief Inspector?
+
+
+531
+0:29:16,958 --> 0:29:19,83
+Lord Cronshaw
+was determined to stop
+
+
+532
+0:29:19,83 --> 0:29:21,542
+Mlle. Courtney
+from taking cocaine.
+
+
+533
+0:29:21,542 --> 0:29:24,708
+The initial, "C,"
+on the silver case —
+
+
+534
+0:29:24,708 --> 0:29:26,875
+it stood for her name, Coco.
+
+
+535
+0:29:26,875 --> 0:29:28,667
+HASTINGS:
+Of course.
+
+
+536
+0:29:28,667 --> 0:29:30,875
+The quarrel after supper
+was when Cronshaw discovered
+
+
+537
+0:29:30,875 --> 0:29:32,417
+what he'd suspected
+all evening --
+
+
+538
+0:29:32,417 --> 0:29:33,833
+that she had a supply with her.
+
+
+539
+0:29:33,833 --> 0:29:36,583
+He took it from her,
+and that's when she went home.
+
+
+540
+0:29:36,583 --> 0:29:37,875
+JAPP:
+So, to spite him,
+
+
+541
+0:29:37,875 --> 0:29:40,417
+she took another dose
+as soon as she got back.
+
+
+542
+0:29:40,417 --> 0:29:42,917
+Messy.
+
+
+543
+0:29:42,917 --> 0:29:44,125
+What I don't see is where
+
+
+544
+0:29:44,125 --> 0:29:46,83
+Cronshaw's murder fits in
+with all this.
+
+
+545
+0:29:46,83 --> 0:29:50,542
+Because the devil himself
+dances among us,
+
+
+546
+0:29:50,542 --> 0:29:51,958
+but we do not see him.
+
+
+547
+0:29:51,958 --> 0:29:54,708
+Eh?
+
+
+548
+0:29:54,708 --> 0:29:57,333
+I wonder...
+
+
+549
+0:29:57,333 --> 0:29:59,167
+Chief Inspector,
+
+
+550
+0:29:59,167 --> 0:30:2,0
+will you permit me a further
+examination of the body?
+
+
+551
+0:30:2,0 --> 0:30:3,917
+Well, I don't know
+what you expect to find.
+
+
+552
+0:30:3,917 --> 0:30:5,958
+The facts on Miss Courtney
+are indisputable.
+
+
+553
+0:30:5,958 --> 0:30:9,542
+I am not talking about the body
+of Mlle. Courtney.
+
+
+554
+0:30:9,542 --> 0:30:15,75
+I am talking about the body
+of Lord Cronshaw.
+
+
+555
+0:30:15,75 --> 0:30:19,25
+That newspaper headline sent him
+dippy, if you ask me.
+
+
+556
+0:30:19,25 --> 0:30:22,0
+What's he going to find
+that we didn't spot last night?
+
+
+557
+0:30:22,0 --> 0:30:23,875
+You checked all his pockets?
+
+
+558
+0:30:23,875 --> 0:30:25,333
+Pockets, clothing, the lot.
+
+
+559
+0:30:25,333 --> 0:30:26,375
+I don't see --
+
+
+560
+0:30:26,375 --> 0:30:32,42
+Indeed you do not see,
+Chief Inspector.
+
+
+561
+0:30:32,42 --> 0:30:38,42
+JAPP: All right, Poirot,
+what's the trick?
+
+
+562
+0:30:38,42 --> 0:30:40,83
+Look at his hand.
+
+
+563
+0:30:40,83 --> 0:30:41,75
+What do you observe?
+
+
+564
+0:30:41,75 --> 0:30:43,167
+Clenched fist.
+
+
+565
+0:30:43,167 --> 0:30:44,75
+POIROT:
+Hastings.
+
+
+566
+0:30:44,75 --> 0:30:45,792
+I agree.
+
+
+567
+0:30:45,792 --> 0:30:54,417
+But the fist --
+why is it clenched?
+
+
+568
+0:30:54,417 --> 0:31:0,0
+[ Crunching ]
+
+
+569
+0:31:0,0 --> 0:31:12,417
+Could it be
+that it hides a secret?
+
+
+570
+0:31:12,417 --> 0:31:13,875
+Voici.
+
+
+571
+0:31:13,875 --> 0:31:16,542
+Swat me,
+he was holding something.
+
+
+572
+0:31:16,542 --> 0:31:49,292
+POIROT:
+The pompom.
+
+
+573
+0:31:49,292 --> 0:31:55,25
+[ Doorbell rings ]
+
+
+574
+0:31:55,25 --> 0:31:56,583
+Mr. Poirot!
+
+
+575
+0:31:56,583 --> 0:31:59,417
+Ah, Mme. Mallaby.
+
+
+576
+0:31:59,417 --> 0:32:0,667
+Captain Hastings.
+
+
+577
+0:32:0,667 --> 0:32:2,625
+We meet again.
+I wonder, could you --
+
+
+578
+0:32:2,625 --> 0:32:4,167
+-- Of course.
+-- Oh!
+
+
+579
+0:32:4,167 --> 0:32:6,75
+I couldn't decide
+on my autumn look.
+
+
+580
+0:32:6,75 --> 0:32:9,83
+Anyway, Eustace can afford it.
+
+
+581
+0:32:9,83 --> 0:32:14,25
+He's Viscount Cronshaw now.
+
+
+582
+0:32:14,25 --> 0:32:15,917
+26 pence.
+
+
+583
+0:32:15,917 --> 0:32:17,125
+Oh.
+
+
+584
+0:32:17,125 --> 0:32:22,167
+To what do we owe
+this delegation?
+
+
+585
+0:32:22,167 --> 0:32:24,917
+Well, M. Poirot
+has taken it into his head
+
+
+586
+0:32:24,917 --> 0:32:26,833
+to see these famous figurines.
+
+
+587
+0:32:26,833 --> 0:32:28,875
+-- Oh.
+-- A foolish whim.
+
+
+588
+0:32:28,875 --> 0:32:30,75
+Is His Highness
+at home, Summers?
+
+
+589
+0:32:30,75 --> 0:32:34,208
+His...Lordship is in
+the morning room, madam.
+
+
+590
+0:32:34,208 --> 0:32:35,5
+Thank you.
+
+
+591
+0:32:35,5 --> 0:32:46,583
+This way, gang.
+
+
+592
+0:32:46,583 --> 0:32:47,833
+Summers, be a dear
+
+
+593
+0:32:47,833 --> 0:32:50,958
+and take the boxes, will you?
+
+
+594
+0:32:50,958 --> 0:32:52,833
+Hi, Eustace.
+
+
+595
+0:32:52,833 --> 0:32:56,375
+Ooh, I see you're already
+enjoying your inheritance.
+
+
+596
+0:32:56,375 --> 0:32:57,75
+It's beautiful.
+
+
+597
+0:32:57,75 --> 0:33:0,42
+May as well salvage
+some consolation
+
+
+598
+0:33:0,42 --> 0:33:2,0
+out of this awful business.
+
+
+599
+0:33:2,0 --> 0:33:3,208
+-- Hmm.
+-- Ah.
+
+
+600
+0:33:3,208 --> 0:33:5,917
+Poirot, Hastings.
+
+
+601
+0:33:5,917 --> 0:33:6,958
+Welcome.
+
+
+602
+0:33:6,958 --> 0:33:8,625
+Good afternoon, Viscount.
+
+
+603
+0:33:8,625 --> 0:33:11,167
+I say, what a quaint
+little tea set.
+
+
+604
+0:33:11,167 --> 0:33:14,83
+Hastings, this tea set
+is not only "quaint,"
+
+
+605
+0:33:14,83 --> 0:33:16,208
+as you call it, but priceless
+
+
+606
+0:33:16,208 --> 0:33:18,333
+and very rare, n'est-ce pas?
+
+
+607
+0:33:18,333 --> 0:33:21,417
+Had no idea you were
+interested in china, Poirot.
+
+
+608
+0:33:21,417 --> 0:33:24,83
+Mr. Poirot wants
+to see the figurines.
+
+
+609
+0:33:24,83 --> 0:33:25,125
+The Meissens?
+
+
+610
+0:33:25,125 --> 0:33:26,417
+Mais oui.
+
+
+611
+0:33:26,417 --> 0:33:28,458
+We have all heard
+so much about them
+
+
+612
+0:33:28,458 --> 0:33:31,292
+and of your success in
+bringing them to this country.
+
+
+613
+0:33:31,292 --> 0:33:33,833
+I wonder if I could please
+make an examination.
+
+
+614
+0:33:33,833 --> 0:33:34,958
+Feel free.
+
+
+615
+0:33:34,958 --> 0:33:40,75
+Thank you.
+
+
+616
+0:33:40,75 --> 0:33:42,667
+Ah.
+
+
+617
+0:33:42,667 --> 0:33:48,25
+May I?
+
+
+618
+0:33:48,25 --> 0:33:52,208
+I can't imagine
+what he's looking for.
+
+
+619
+0:33:52,208 --> 0:33:54,583
+Tricks of the trade, you know.
+
+
+620
+0:33:54,583 --> 0:33:56,83
+POIROT:
+The costumes last night
+
+
+621
+0:33:56,83 --> 0:34:0,625
+at the ball -- they were
+exact replicas of these?
+
+
+622
+0:34:0,625 --> 0:34:2,167
+To the last detail.
+
+
+623
+0:34:2,167 --> 0:34:4,792
+Oh.
+
+
+624
+0:34:4,792 --> 0:34:7,417
+And this was your apparel,
+was it not?
+
+
+625
+0:34:7,417 --> 0:34:9,75
+Punchinello,
+
+
+626
+0:34:9,75 --> 0:34:12,833
+with the elaborate ruff
+and the hump.
+
+
+627
+0:34:12,833 --> 0:34:15,417
+Yes.
+
+
+628
+0:34:15,417 --> 0:34:18,875
+I imagine it took
+some time to change
+
+
+629
+0:34:18,875 --> 0:34:20,292
+in and out of this costume.
+
+
+630
+0:34:20,292 --> 0:34:25,625
+I had to hold him up
+while he unfastened it.
+
+
+631
+0:34:25,625 --> 0:34:32,583
+As I thought.
+
+
+632
+0:34:32,583 --> 0:34:34,5
+Viscount, where were you
+
+
+633
+0:34:34,5 --> 0:34:37,792
+after supper last night
+during the ball?
+
+
+634
+0:34:37,792 --> 0:34:40,208
+Trying to beat down
+the dealer chap over this lot.
+
+
+635
+0:34:40,208 --> 0:34:42,5
+Finally managed to corner him.
+
+
+636
+0:34:42,5 --> 0:34:44,83
+In the supper room?
+
+
+637
+0:34:44,83 --> 0:34:45,792
+That's right.
+
+
+638
+0:34:45,792 --> 0:34:52,708
+Again, I thank you.
+
+
+639
+0:34:52,708 --> 0:35:8,667
+Well, cheerio.
+
+
+640
+0:35:8,667 --> 0:35:10,667
+Ah, there you are, Poirot.
+
+
+641
+0:35:10,667 --> 0:35:12,917
+I've been looking for you.
+
+
+642
+0:35:12,917 --> 0:35:14,125
+Chief Inspector Japp.
+
+
+643
+0:35:14,125 --> 0:35:15,75
+I've been doing some thinking,
+
+
+644
+0:35:15,75 --> 0:35:17,708
+and to my mind,
+that missing pompom
+
+
+645
+0:35:17,708 --> 0:35:19,917
+could only have come
+from one person.
+
+
+646
+0:35:19,917 --> 0:35:22,125
+I concur absolutely,
+Chief Inspector.
+
+
+647
+0:35:22,125 --> 0:35:31,333
+Excuse me.
+
+
+648
+0:35:31,333 --> 0:35:32,708
+Mrs. Davidson?
+
+
+649
+0:35:32,708 --> 0:35:34,625
+Yes.
+
+
+650
+0:35:34,625 --> 0:35:37,708
+JAPP:
+May we come in?
+
+
+651
+0:35:37,708 --> 0:35:40,833
+Oh, thank you.
+
+
+652
+0:35:40,833 --> 0:35:44,0
+I'm sorry my husband isn't here.
+
+
+653
+0:35:44,0 --> 0:35:45,667
+He went out for a drink.
+
+
+654
+0:35:45,667 --> 0:35:48,292
+A bit early for that
+sort of thing, isn't it?
+
+
+655
+0:35:48,292 --> 0:35:50,542
+He's the sociable type, is he?
+
+
+656
+0:35:50,542 --> 0:35:51,667
+Yes.
+
+
+657
+0:35:51,667 --> 0:35:55,5
+Unlike me.
+
+
+658
+0:35:55,5 --> 0:35:59,917
+Acting isn't exactly
+a good, steady job, you know.
+
+
+659
+0:35:59,917 --> 0:36:2,208
+You're not in
+the profession yourself?
+
+
+660
+0:36:2,208 --> 0:36:3,25
+No.
+
+
+661
+0:36:3,25 --> 0:36:6,542
+I thought I might like to once,
+but I just couldn't,
+
+
+662
+0:36:6,542 --> 0:36:8,917
+not in front of everyone
+like that.
+
+
+663
+0:36:8,917 --> 0:36:12,375
+Why, indeed there are many types
+of people in this world, madame.
+
+
+664
+0:36:12,375 --> 0:36:15,125
+We must each be true
+to ourselves.
+
+
+665
+0:36:15,125 --> 0:36:21,583
+Perhaps.
+
+
+666
+0:36:21,583 --> 0:36:23,333
+What exactly did you want?
+
+
+667
+0:36:23,333 --> 0:36:25,125
+M. Poirot here has some notion
+
+
+668
+0:36:25,125 --> 0:36:26,958
+of staging a reconstruction
+of the evening.
+
+
+669
+0:36:26,958 --> 0:36:29,208
+POIROT:
+Oui, that is so.
+
+
+670
+0:36:29,208 --> 0:36:30,25
+Oh?
+
+
+671
+0:36:30,25 --> 0:36:33,5
+Oh, it is just merely a question
+of detail to be checked.
+
+
+672
+0:36:33,5 --> 0:36:35,75
+The precise nature
+of the costumes
+
+
+673
+0:36:35,75 --> 0:36:38,333
+that were made for you
+for last night's ball.
+
+
+674
+0:36:38,333 --> 0:36:39,375
+You understand?
+
+
+675
+0:36:39,375 --> 0:36:40,417
+I think so.
+
+
+676
+0:36:40,417 --> 0:36:42,0
+JAPP: We'd like to
+have a look at them
+
+
+677
+0:36:42,0 --> 0:36:44,125
+for a moment, if we may.
+Do you still have them?
+
+
+678
+0:36:44,125 --> 0:36:47,5
+I'm afraid not.
+
+
+679
+0:36:47,5 --> 0:36:52,0
+My husband sent them
+to be cleaned.
+
+
+680
+0:36:52,0 --> 0:36:53,833
+POIROT:
+Yes, of course.
+
+
+681
+0:36:53,833 --> 0:36:56,542
+Quel dommage.
+
+
+682
+0:36:56,542 --> 0:36:59,5
+Well, I'm very sorry to have
+disturbed you, Mme. Davidson.
+
+
+683
+0:36:59,5 --> 0:37:6,792
+We will just finish our tea.
+
+
+684
+0:37:6,792 --> 0:37:17,167
+[ Coughs ]
+
+
+685
+0:37:17,167 --> 0:37:22,0
+POIROT:
+Thank you, Hastings.
+
+
+686
+0:37:22,0 --> 0:37:23,625
+You were right, Mme. Davidson,
+
+
+687
+0:37:23,625 --> 0:37:25,333
+not to consider
+a career in acting.
+
+
+688
+0:37:25,333 --> 0:37:29,375
+Your eyes betrayed
+what your tongue denied.
+
+
+689
+0:37:29,375 --> 0:37:30,417
+Chief Inspector?
+
+
+690
+0:37:30,417 --> 0:37:32,958
+There's a pompom missing
+from the Pierrette costume.
+
+
+691
+0:37:32,958 --> 0:37:34,0
+Is there?
+
+
+692
+0:37:34,0 --> 0:37:36,625
+JAPP:
+Perhaps you'd like to tell us
+
+
+693
+0:37:36,625 --> 0:37:39,42
+how it came to turn up in
+the hand of the murdered man.
+
+
+694
+0:37:39,42 --> 0:37:40,458
+Oh, yes, I forgot.
+
+
+695
+0:37:40,458 --> 0:37:42,958
+It got pulled off after supper,
+
+
+696
+0:37:42,958 --> 0:37:45,833
+and I didn't know
+what to do with it.
+
+
+697
+0:37:45,833 --> 0:37:48,875
+I looked for Mr. Beltaine,
+but he was in the supper room
+
+
+698
+0:37:48,875 --> 0:37:51,0
+having some kind of argument,
+
+
+699
+0:37:51,0 --> 0:37:53,83
+so I gave it to Lord Cronshaw
+to look after.
+
+
+700
+0:37:53,83 --> 0:37:56,375
+Sorry, I didn't think
+it was important.
+
+
+701
+0:37:56,375 --> 0:37:59,83
+Does that answer your question?
+
+
+702
+0:37:59,83 --> 0:38:0,833
+You must understand,
+Mme. Davidson,
+
+
+703
+0:38:0,833 --> 0:38:3,458
+that to conceal information
+may not only protect the guilty,
+
+
+704
+0:38:3,458 --> 0:38:6,875
+but also punish the innocent.
+
+
+705
+0:38:6,875 --> 0:38:9,0
+You do understand, do you not?
+
+
+706
+0:38:9,0 --> 0:38:12,0
+I understand.
+
+
+707
+0:38:12,0 --> 0:38:17,417
+I'm sorry.
+
+
+708
+0:38:17,417 --> 0:38:18,458
+BOY:
+Sunday Standard!
+
+
+709
+0:38:18,458 --> 0:38:20,792
+Her story seemed
+completely plausible.
+
+
+710
+0:38:20,792 --> 0:38:22,0
+Except in one respect.
+
+
+711
+0:38:22,0 --> 0:38:25,83
+-- What's that?
+-- It is a foolish lie.
+
+
+712
+0:38:25,83 --> 0:38:27,208
+The threads of the pompom
+that we discovered
+
+
+713
+0:38:27,208 --> 0:38:28,833
+in the hand of
+Lord Cronshaw —
+
+
+714
+0:38:28,833 --> 0:38:30,458
+they were torn, whereas those
+
+
+715
+0:38:30,458 --> 0:38:32,417
+on the costume
+of Mme. Davidson were cut.
+
+
+716
+0:38:32,417 --> 0:38:34,83
+You mean she cut it off herself?
+
+
+717
+0:38:34,83 --> 0:38:35,125
+No, no, Hastings.
+
+
+718
+0:38:35,125 --> 0:38:37,333
+She did not even notice
+that the pompom was missing
+
+
+719
+0:38:37,333 --> 0:38:38,417
+until we pointed it out.
+
+
+720
+0:38:38,417 --> 0:38:40,75
+That is why she made up
+that story that was ridiculous.
+
+
+721
+0:38:40,75 --> 0:38:42,417
+Hers was cut by the murderer.
+
+
+722
+0:38:42,417 --> 0:38:43,583
+Why?
+
+
+723
+0:38:43,583 --> 0:38:45,333
+To replace the one
+that Lord Cronshaw
+
+
+724
+0:38:45,333 --> 0:38:47,208
+had torn from the costume
+of his killer.
+
+
+725
+0:38:47,208 --> 0:38:49,42
+Well, if it wasn't her,
+and her husband
+
+
+726
+0:38:49,42 --> 0:38:51,167
+wasn't even there when
+Cronshaw was murdered —
+
+
+727
+0:38:51,167 --> 0:38:53,25
+Have either of you
+considered the possibility
+
+
+728
+0:38:53,25 --> 0:38:54,292
+of a duplicate costume?
+
+
+729
+0:38:54,292 --> 0:38:55,75
+Another Pierrot?
+
+
+730
+0:38:55,75 --> 0:38:59,25
+Well, what about that note
+he left -- Lowestoft?
+
+
+731
+0:38:59,25 --> 0:39:2,25
+Ah, yes, the note.
+
+
+732
+0:39:2,25 --> 0:39:4,5
+May I suggest that you inquire
+
+
+733
+0:39:4,5 --> 0:39:6,458
+from the dealer
+about the dinner service
+
+
+734
+0:39:6,458 --> 0:39:8,625
+that has just been purchased
+by Lord Beltaine?
+
+
+735
+0:39:8,625 --> 0:39:12,708
+I think you will discover that
+it is rare Lowestoft china.
+
+
+736
+0:39:12,708 --> 0:39:14,875
+You mean —
+
+
+737
+0:39:14,875 --> 0:39:16,75
+And now it is necessary
+to restore
+
+
+738
+0:39:16,75 --> 0:39:45,83
+the reputation
+of Hercule Poirot.
+
+
+739
+0:39:45,83 --> 0:39:47,375
+[ Radio tuning ]
+
+
+740
+0:39:47,375 --> 0:39:49,208
+[ Music plays ]
+
+
+741
+0:39:49,208 --> 0:39:52,333
+MAN: This is
+the National Programme.
+
+
+742
+0:39:52,333 --> 0:39:55,75
+In a change to our
+published schedule,
+
+
+743
+0:39:55,75 --> 0:40:3,417
+we now present
+a special broadcast.
+
+
+744
+0:40:3,417 --> 0:40:5,333
+Good evening, everybody.
+
+
+745
+0:40:5,333 --> 0:40:8,917
+This is Hercule Poirot.
+
+
+746
+0:40:8,917 --> 0:40:12,958
+I have been asked many times to
+recount my cases for the radio,
+
+
+747
+0:40:12,958 --> 0:40:15,208
+but I have always refused.
+
+
+748
+0:40:15,208 --> 0:40:19,625
+However, tonight, I have
+decided to present for you
+
+
+749
+0:40:19,625 --> 0:40:24,125
+a reconstruction of the affair
+at the Victory Ball,
+
+
+750
+0:40:24,125 --> 0:40:27,583
+and that is why I have with me
+tonight in the studio
+
+
+751
+0:40:27,583 --> 0:40:30,0
+the principal members
+of the party
+
+
+752
+0:40:30,0 --> 0:40:33,375
+whose lives were altered
+by that most tragic event.
+
+
+753
+0:40:33,375 --> 0:40:36,875
+I thank you all
+very, very much, indeed,
+
+
+754
+0:40:36,875 --> 0:40:39,625
+for accepting my invitation.
+
+
+755
+0:40:39,625 --> 0:40:44,458
+And now, I take you back
+to the Colossus Ballroom
+
+
+756
+0:40:44,458 --> 0:40:47,917
+on the night
+of the Victory Ball.
+
+
+757
+0:40:47,917 --> 0:40:49,833
+The lights, they dim.
+
+
+758
+0:40:49,833 --> 0:40:54,667
+The music, it plays.
+
+
+759
+0:40:54,667 --> 0:40:58,167
+And the shadows
+of the principal characters
+
+
+760
+0:40:58,167 --> 0:41:5,75
+return to gather before us.
+
+
+761
+0:41:5,75 --> 0:41:8,167
+Listen.
+
+
+762
+0:41:8,167 --> 0:41:11,375
+You can almost hear them.
+
+
+763
+0:41:11,375 --> 0:41:12,708
+MAN:
+Harlequin am I,
+
+
+764
+0:41:12,708 --> 0:41:15,542
+in diamond panes
+of colored hue.
+
+
+765
+0:41:15,542 --> 0:41:17,625
+WOMAN:
+And I his Columbine.
+
+
+766
+0:41:17,625 --> 0:41:19,5
+Together, we have
+
+
+767
+0:41:19,5 --> 0:41:22,458
+special care
+for lovers true.
+
+
+768
+0:41:22,458 --> 0:41:25,542
+MAN: Punchinello also
+here appears.
+
+
+769
+0:41:25,542 --> 0:41:29,42
+Bombast and buffoon
+to no avail.
+
+
+770
+0:41:29,42 --> 0:41:30,583
+WOMAN:
+Seeking heart
+
+
+771
+0:41:30,583 --> 0:41:34,0
+of Pulcinella,
+ever shall he fail.
+
+
+772
+0:41:34,0 --> 0:41:37,125
+MAN: Heroes' tragic fate
+is saddest.
+
+
+773
+0:41:37,125 --> 0:41:40,42
+See his painted tear.
+
+
+774
+0:41:40,42 --> 0:41:43,792
+WOMAN: Sighing for
+his own Pierrette,
+
+
+775
+0:41:43,792 --> 0:41:45,708
+star-crossed lovers.
+
+
+776
+0:41:45,708 --> 0:41:47,708
+So completes
+
+
+777
+0:41:47,708 --> 0:41:53,917
+our masqueraders
+gathered once more here.
+
+
+778
+0:41:53,917 --> 0:41:58,42
+And so our little evocation
+is complete.
+
+
+779
+0:41:58,42 --> 0:42:1,458
+Our ensemble is before us.
+
+
+780
+0:42:1,458 --> 0:42:4,167
+And this, ladies and gentlemen,
+
+
+781
+0:42:4,167 --> 0:42:7,875
+I have been told
+is the wonder of radio,
+
+
+782
+0:42:7,875 --> 0:42:11,792
+because what we see
+is in the eye of our mind.
+
+
+783
+0:42:11,792 --> 0:42:14,75
+What is in the eye
+of your mind,
+
+
+784
+0:42:14,75 --> 0:42:16,167
+Mme. Mallaby?
+
+
+785
+0:42:16,167 --> 0:42:19,208
+Why, the six characters
+we heard,
+
+
+786
+0:42:19,208 --> 0:42:20,667
+of course.
+
+
+787
+0:42:20,667 --> 0:42:22,42
+Viscount?
+
+
+788
+0:42:22,42 --> 0:42:23,917
+Oh, just the same.
+
+
+789
+0:42:23,917 --> 0:42:26,875
+The six characters as portrayed
+
+
+790
+0:42:26,875 --> 0:42:29,292
+by my figurines, but —
+
+
+791
+0:42:29,292 --> 0:42:34,292
+You agree, Mme. Davidson?
+
+
+792
+0:42:34,292 --> 0:42:36,542
+Of course we agree,
+Mr. Poirot.
+
+
+793
+0:42:36,542 --> 0:42:37,583
+POIROT:
+Bon.
+
+
+794
+0:42:37,583 --> 0:42:42,583
+But now let us see
+the reality before us.
+
+
+795
+0:42:42,583 --> 0:42:44,833
+Messieurs, mesdames,
+
+
+796
+0:42:44,833 --> 0:42:47,667
+the players.
+
+
+797
+0:42:47,667 --> 0:42:50,0
+Oh.
+
+
+798
+0:42:50,0 --> 0:42:52,708
+I present to you
+Pierrette, Pierrot,
+
+
+799
+0:42:52,708 --> 0:42:56,292
+Pulcinella, Punchinello,
+and Columbine.
+
+
+800
+0:42:56,292 --> 0:42:58,583
+There's one missing.
+
+
+801
+0:42:58,583 --> 0:42:59,958
+That's right.
+
+
+802
+0:42:59,958 --> 0:43:1,792
+Where's Harlequin?
+
+
+803
+0:43:1,792 --> 0:43:5,458
+Have you forgotten, Viscount,
+
+
+804
+0:43:5,458 --> 0:43:13,875
+that Harlequin
+can become invisible?
+
+
+805
+0:43:13,875 --> 0:43:19,667
+Let us now reveal the truth.
+
+
+806
+0:43:19,667 --> 0:43:22,458
+Are you ready to tell us
+the truth,
+
+
+807
+0:43:22,458 --> 0:43:24,542
+Mme. Davidson,
+
+
+808
+0:43:24,542 --> 0:43:29,75
+or shall I?
+
+
+809
+0:43:29,75 --> 0:43:31,0
+Very well.
+
+
+810
+0:43:31,0 --> 0:43:35,292
+It was all very simple.
+
+
+811
+0:43:35,292 --> 0:43:37,708
+The motive behind the murders
+
+
+812
+0:43:37,708 --> 0:43:41,167
+of both Lord Cronshaw
+and Coco Courtney
+
+
+813
+0:43:41,167 --> 0:43:46,708
+was the evil drug cocaine.
+
+
+814
+0:43:46,708 --> 0:43:48,458
+You're staying right here!
+
+
+815
+0:43:48,458 --> 0:43:51,83
+I'm not prepared to have
+an argument about it.
+
+
+816
+0:43:51,83 --> 0:43:52,625
+POIROT:
+During the Victory Ball,
+
+
+817
+0:43:52,625 --> 0:43:54,83
+I witnessed
+an argument between
+
+
+818
+0:43:54,83 --> 0:43:55,75
+Lord Cronshaw and Mlle. Coco.
+
+
+819
+0:43:55,75 --> 0:43:57,83
+They were known to be lovers,
+
+
+820
+0:43:57,83 --> 0:43:59,417
+but Cronshaw had discovered
+Coco's secret addiction.
+
+
+821
+0:43:59,417 --> 0:44:1,5
+What the hell do you think
+you're laughing at?
+
+
+822
+0:44:1,5 --> 0:44:5,167
+POIROT: The young Lord Cronshaw
+was a man of high principle.
+
+
+823
+0:44:5,167 --> 0:44:8,583
+He seized his lover's cocaine
+and threatened to
+
+
+824
+0:44:8,583 --> 0:44:12,0
+expose the supplier
+who was destroying her life
+
+
+825
+0:44:12,0 --> 0:44:14,0
+along with many others.
+
+
+826
+0:44:14,0 --> 0:44:21,958
+But Coco was now
+hopelessly addicted.
+
+
+827
+0:44:21,958 --> 0:44:24,167
+By the time she reached home,
+
+
+828
+0:44:24,167 --> 0:44:27,542
+she had obtained a new,
+fatally strong dose of cocaine
+
+
+829
+0:44:27,542 --> 0:44:29,708
+from her supplier,
+who now knew
+
+
+830
+0:44:29,708 --> 0:44:31,833
+the one chance to avoid prison
+
+
+831
+0:44:31,833 --> 0:44:35,167
+was murder.
+
+
+832
+0:44:35,167 --> 0:44:38,458
+But what of our Harlequin?
+
+
+833
+0:44:38,458 --> 0:44:40,75
+When I examined the body
+of Lord Cronshaw,
+
+
+834
+0:44:40,75 --> 0:44:43,542
+I failed to discover
+the pompom.
+
+
+835
+0:44:43,542 --> 0:44:44,583
+Why?
+
+
+836
+0:44:44,583 --> 0:44:47,833
+Because the fist was clenched
+tight with the rigor mortis.
+
+
+837
+0:44:47,833 --> 0:44:50,167
+Lord Cronshaw
+was not killed at 12:00.
+
+
+838
+0:44:50,167 --> 0:44:52,25
+He was killed earlier
+in the evening
+
+
+839
+0:44:52,25 --> 0:44:54,833
+and the body hidden in
+the recess until later.
+
+
+840
+0:44:54,833 --> 0:44:55,958
+Voilà.
+
+
+841
+0:44:55,958 --> 0:44:57,292
+But that can't be.
+
+
+842
+0:44:57,292 --> 0:45:0,875
+I saw him myself
+a few moments before midnight.
+
+
+843
+0:45:0,875 --> 0:45:3,83
+No, no, no, Mme. Mallaby.
+
+
+844
+0:45:3,83 --> 0:45:6,917
+The Harlequin that you saw,
+that very same Harlequin,
+
+
+845
+0:45:6,917 --> 0:45:13,875
+is here with us in this room.
+
+
+846
+0:45:13,875 --> 0:45:16,792
+The killer had
+a duplicate costume,
+
+
+847
+0:45:16,792 --> 0:45:20,875
+and after the murder,
+assumed the role of Harlequin,
+
+
+848
+0:45:20,875 --> 0:45:24,292
+even scribbling a false clue
+pointing to M. Beltaine
+
+
+849
+0:45:24,292 --> 0:45:27,0
+and his obsession
+with the Lowestoft china.
+
+
+850
+0:45:27,0 --> 0:45:28,208
+Ridiculous, huh?
+
+
+851
+0:45:28,208 --> 0:45:31,5
+Since the elaborate costume
+of M. Beltaine
+
+
+852
+0:45:31,5 --> 0:45:35,125
+cannot be changed
+without assistance.
+
+
+853
+0:45:35,125 --> 0:45:37,417
+No.
+
+
+854
+0:45:37,417 --> 0:45:39,875
+The murder took place
+soon after supper,
+
+
+855
+0:45:39,875 --> 0:45:41,375
+when the killer contrived
+
+
+856
+0:45:41,375 --> 0:45:43,5
+a moment alone
+with Lord Cronshaw.
+
+
+857
+0:45:43,5 --> 0:45:45,958
+It is Cronshaw
+who knows the truth
+
+
+858
+0:45:45,958 --> 0:45:48,167
+about the dealing in cocaine.
+
+
+859
+0:45:48,167 --> 0:45:51,292
+To avoid being exposed
+and to preserve
+
+
+860
+0:45:51,292 --> 0:45:52,458
+the evil trade in drugs,
+
+
+861
+0:45:52,458 --> 0:45:55,333
+the murderer stabs
+Lord Cronshaw to death.
+
+
+862
+0:45:55,333 --> 0:45:57,792
+At the time,
+
+
+863
+0:45:57,792 --> 0:46:1,417
+the killer is unaware that
+the last act of Lord Cronshaw
+
+
+864
+0:46:1,417 --> 0:46:4,125
+is to pull the pompom
+from the costume.
+
+
+865
+0:46:4,125 --> 0:46:6,708
+Then the body is hidden
+in the alcove
+
+
+866
+0:46:6,708 --> 0:46:9,125
+and the plan,
+it can be completed.
+
+
+867
+0:46:9,125 --> 0:46:11,292
+-- MALLABY: Yoo-hoo!
+-- POIROT: At last,
+
+
+868
+0:46:11,292 --> 0:46:14,333
+having alerted Mme. Mallaby
+just before midnight,
+
+
+869
+0:46:14,333 --> 0:46:17,167
+the final task
+was to drag the body
+
+
+870
+0:46:17,167 --> 0:46:18,292
+from its hiding place
+
+
+871
+0:46:18,292 --> 0:46:19,333
+so it would appear
+
+
+872
+0:46:19,333 --> 0:46:21,75
+that the murder had only
+just been committed.
+
+
+873
+0:46:21,75 --> 0:46:25,125
+MAN:
+Twelve seconds to midnight!
+
+
+874
+0:46:25,125 --> 0:46:26,833
+Ten, nine,
+
+
+875
+0:46:26,833 --> 0:46:30,458
+eight, seven, six,
+
+
+876
+0:46:30,458 --> 0:46:32,208
+five, four,
+
+
+877
+0:46:32,208 --> 0:46:36,167
+three, two, one!
+
+
+878
+0:46:36,167 --> 0:46:40,375
+[ Cheers and applause ]
+
+
+879
+0:46:40,375 --> 0:46:45,125
+[ Balloons popping ]
+
+
+880
+0:46:45,125 --> 0:46:49,5
+POIROT: The murderer
+then slips quietly away.
+
+
+881
+0:46:49,5 --> 0:46:51,5
+[ Screams ]
+
+
+882
+0:46:51,5 --> 0:46:54,42
+POIROT: Knowing that
+when the discovery
+
+
+883
+0:46:54,42 --> 0:46:58,625
+of the body occurs,
+it is believed
+
+
+884
+0:46:58,625 --> 0:47:2,417
+that he is safely at home.
+
+
+885
+0:47:2,417 --> 0:47:5,958
+No, it couldn't
+have been Chris.
+
+
+886
+0:47:5,958 --> 0:47:8,42
+POIROT:
+But it was, Mme. Davidson.
+
+
+887
+0:47:8,42 --> 0:47:9,125
+It was your husband who had
+
+
+888
+0:47:9,125 --> 0:47:10,667
+a moment alone
+with Lord Cronshaw!
+
+
+889
+0:47:10,667 --> 0:47:12,375
+It was your husband
+who gave to Coco
+
+
+890
+0:47:12,375 --> 0:47:14,792
+when they were alone together
+in the taxi more cocaine!
+
+
+891
+0:47:14,792 --> 0:47:17,0
+And, in spite of what
+he told us,
+
+
+892
+0:47:17,0 --> 0:47:18,25
+it was your husband
+
+
+893
+0:47:18,25 --> 0:47:21,458
+who had ample time
+to return to the ball
+
+
+894
+0:47:21,458 --> 0:47:37,375
+to complete his masquerade
+as Harlequin.
+
+
+895
+0:47:37,375 --> 0:47:40,333
+And still you protect him,
+
+
+896
+0:47:40,333 --> 0:47:44,0
+even though you later discovered
+
+
+897
+0:47:44,0 --> 0:47:48,125
+that he was implicating you,
+his own wife, in the crime
+
+
+898
+0:47:48,125 --> 0:47:52,83
+by replacing the pompom
+that was torn from his costume
+
+
+899
+0:47:52,83 --> 0:47:55,708
+with the one
+he cut from your own.
+
+
+900
+0:47:55,708 --> 0:47:57,792
+CHRIS:
+Don't listen to him, darling.
+
+
+901
+0:47:57,792 --> 0:48:0,333
+Congratulations, Mr. Poirot,
+
+
+902
+0:48:0,333 --> 0:48:4,5
+on a most entertaining piece
+of detective fiction.
+
+
+903
+0:48:4,5 --> 0:48:5,542
+POIROT:
+Mais oui.
+
+
+904
+0:48:5,542 --> 0:48:8,917
+I'm afraid that is so.
+
+
+905
+0:48:8,917 --> 0:48:11,167
+Half a mo.
+What do you mean?
+
+
+906
+0:48:11,167 --> 0:48:12,958
+Well, because unless
+Mme. Davidson
+
+
+907
+0:48:12,958 --> 0:48:15,5
+is willing to testify
+that her husband deals in drugs,
+
+
+908
+0:48:15,5 --> 0:48:18,42
+I'm afraid that everything
+that I have told you so far
+
+
+909
+0:48:18,42 --> 0:48:19,458
+remains only theory.
+
+
+910
+0:48:19,458 --> 0:48:21,5
+Then I take it
+that the show is over.
+
+
+911
+0:48:21,5 --> 0:48:22,667
+POIROT:
+Oui.
+
+
+912
+0:48:22,667 --> 0:48:28,25
+Unless...
+
+
+913
+0:48:28,25 --> 0:48:39,5
+Harlequin has one last trick.
+
+
+914
+0:48:39,5 --> 0:48:42,0
+Mme. Mallaby.
+
+
+915
+0:48:42,0 --> 0:48:49,83
+With which hand did you see
+Harlequin writing?
+
+
+916
+0:48:49,83 --> 0:48:51,625
+Oh, my God.
+
+
+917
+0:48:51,625 --> 0:48:53,708
+Cronshaw was right-handed.
+
+
+918
+0:48:53,708 --> 0:48:57,792
+JAPP:
+Christopher Ian Davidson,
+
+
+919
+0:48:57,792 --> 0:49:0,458
+I arrest you for the murders
+of Viscount Cronshaw
+
+
+920
+0:49:0,458 --> 0:49:10,625
+and Miss Coco Courtney.
+
+
+921
+0:49:10,625 --> 0:49:13,375
+If he had not gone too far
+and tried to confuse
+
+
+922
+0:49:13,375 --> 0:49:15,958
+by writing a clue
+that pointed to Beltaine,
+
+
+923
+0:49:15,958 --> 0:49:18,208
+he would be walking
+away with us now,
+
+
+924
+0:49:18,208 --> 0:49:20,75
+but as you say,
+M. Ackerley, actors —
+
+
+925
+0:49:20,75 --> 0:49:22,625
+they never know when to stop.
+
+
+926
+0:49:22,625 --> 0:49:24,25
+However, I thank you
+very much indeed
+
+
+927
+0:49:24,25 --> 0:49:25,292
+for your cooperation.
+
+
+928
+0:49:25,292 --> 0:49:27,292
+I'm honored that you
+took up my invitation.
+
+
+929
+0:49:27,292 --> 0:49:29,208
+I'm sure it was a most
+enlightening experience
+
+
+930
+0:49:29,208 --> 0:49:30,25
+for our listeners.
+
+
+931
+0:49:30,25 --> 0:49:32,83
+-- Thank you.
+-- RECEPTIONIST: Mr. Ackerley?
+
+
+932
+0:49:32,83 --> 0:49:34,333
+They've been trying to find you.
+
+
+933
+0:49:34,333 --> 0:49:37,5
+The switchboard's been flooded
+with callers
+
+
+934
+0:49:37,5 --> 0:49:39,708
+complaining about
+the dreadful accent,
+
+
+935
+0:49:39,708 --> 0:49:42,125
+lowering the standard
+of spoken English,
+
+
+936
+0:49:42,125 --> 0:49:43,625
+all that sort of thing.
+
+
+937
+0:49:43,625 --> 0:49:44,917
+Oh.
+
+
+938
+0:49:44,917 --> 0:49:48,83
+Sir John Reith is waiting
+to see you in his office.
+
+
+939
+0:49:48,83 --> 0:49:53,875
+So sorry.
+
+
+940
+0:49:53,875 --> 0:49:55,75
+Don't take it too hard, Poirot.
+
+
+941
+0:49:55,75 --> 0:49:57,0
+Indeed not.
+
+
+942
+0:49:57,0 --> 0:49:59,83
+I am not at all surprised.
+
+
+943
+0:49:59,83 --> 0:50:0,917
+-- HASTINGS: You're not?
+-- No.
+
+
+944
+0:50:0,917 --> 0:50:3,667
+Chief Inspector, you really
+ought to look to your elocution.
+
+
+945
+0:50:3,667 --> 0:50:5,75
+Swat me, there's nothing
+wrong with my lingo.
+
+
+946
+0:50:5,75 --> 0:50:8,83
+You see, that is exactly
+the kind of expression,
+
+
+947
+0:50:8,83 --> 0:50:9,125
+like "half a mo,"
+
+
+948
+0:50:9,125 --> 0:50:10,958
+that brings the language
+into disrepute.
+
+
+949
+0:50:10,958 --> 0:50:12,833
+Come, Hastings.
+
+
+950
+0:50:12,833 --> 0:50:16,542
+I shall lend to
+the Chief Inspector
+
+
+951
+0:50:16,542 --> 0:50:18,625
+my personal copy
+
+
+952
+0:50:18,625 --> 0:50:27,583
+of "The English
+As She Should Be Spoken."
+
+
+953
+0:50:27,583 --> 0:50:29,875
+Taxi!
+
+
+954
+0:50:29,875 --> 0:52:29,875
+Subtitling made possible by
+Acorn Media
+
+

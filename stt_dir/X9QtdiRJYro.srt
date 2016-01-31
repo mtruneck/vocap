@@ -1,0 +1,6086 @@
+1
+0:0:0,0 --> 0:0:1,54
+
+
+
+2
+0:0:1,54 --> 0:0:4,56
+WIL WHEATON: When most people
+think of a small world, they
+
+
+3
+0:0:4,56 --> 0:0:7,825
+think of being on a boat
+surrounded by creepy dolls who
+
+
+4
+0:0:7,825 --> 0:0:9,402
+won't stop singing.
+
+
+5
+0:0:9,402 --> 0:0:13,91
+But when gamers think of a Small
+World, they imagine a
+
+
+6
+0:0:13,91 --> 0:0:17,76
+fantasy-filled land full of
+crazy races with outrageous
+
+
+7
+0:0:17,76 --> 0:0:21,59
+powers, where the world is
+covered in blood as we battle
+
+
+8
+0:0:21,59 --> 0:0:25,31
+to see who can take it over
+and win the game.
+
+
+9
+0:0:25,31 --> 0:0:29,385
+Today on TableTop, Grant
+Imahara, Sean Plott, and Jenna
+
+
+10
+0:0:29,385 --> 0:0:36,904
+Busch are here as we visit my
+very favorite Small World.
+
+
+11
+0:0:36,904 --> 0:0:53,96
+[MUSIC PLAYING]
+
+
+12
+0:0:53,96 --> 0:0:56,34
+WIL WHEATON: Small World
+combines the military strategy
+
+
+13
+0:0:56,34 --> 0:0:59,79
+of Risk with the delightful
+art and fantasy races of
+
+
+14
+0:0:59,79 --> 0:1:1,4
+Cosmic Encounter.
+
+
+15
+0:1:1,4 --> 0:1:4,209
+Whoever has the most points
+at the end of nine
+
+
+16
+0:1:4,209 --> 0:1:6,38
+rounds wins the game.
+
+
+17
+0:1:6,38 --> 0:1:11,53
+We earn points by conquering
+and holding territories.
+
+
+18
+0:1:11,53 --> 0:1:15,68
+Empty territories cost
+two units to conquer.
+
+
+19
+0:1:15,68 --> 0:1:19,21
+Every item in a territory
+costs one
+
+
+20
+0:1:19,21 --> 0:1:21,27
+more unit to conquer.
+
+
+21
+0:1:21,27 --> 0:1:26,1
+For example, one defender,
+that's three units.
+
+
+22
+0:1:26,1 --> 0:1:29,53
+One mountain, that's
+also three units.
+
+
+23
+0:1:29,53 --> 0:1:34,35
+A mountain plus a defender,
+that's four units.
+
+
+24
+0:1:34,35 --> 0:1:37,98
+At the beginning of every game,
+each player will choose
+
+
+25
+0:1:37,98 --> 0:1:42,59
+a fantasy race, like orcs,
+elves, or the dwarves.
+
+
+26
+0:1:42,59 --> 0:1:46,11
+Each race is combined with a
+unique special power, like
+
+
+27
+0:1:46,11 --> 0:1:48,84
+seafaring, flying, or heroic.
+
+
+28
+0:1:48,84 --> 0:1:51,56
+These power and race
+combinations change every
+
+
+29
+0:1:51,56 --> 0:1:55,52
+game, giving Small World
+tremendous replay value.
+
+
+30
+0:1:55,52 --> 0:1:59,86
+No empire lasts forever, so
+don't get too attached to your
+
+
+31
+0:1:59,86 --> 0:2:1,63
+diplomatic skeletons.
+
+
+32
+0:2:1,63 --> 0:2:4,68
+You will inevitably run out
+of units to conquer new
+
+
+33
+0:2:4,68 --> 0:2:5,38
+territories.
+
+
+34
+0:2:5,38 --> 0:2:6,62
+But don't worry.
+
+
+35
+0:2:6,62 --> 0:2:9,84
+When that happens, you simply
+put your active race into
+
+
+36
+0:2:9,84 --> 0:2:14,71
+decline and choose a new one
+from the board and begin
+
+
+37
+0:2:14,71 --> 0:2:17,19
+conquering all over again.
+
+
+38
+0:2:17,19 --> 0:2:21,19
+It's a very small world, and
+only one person can be the
+
+
+39
+0:2:21,19 --> 0:2:24,71
+victor atop the bloody,
+stinking heap of his
+
+
+40
+0:2:24,71 --> 0:2:26,12
+vanquished opponents.
+
+
+41
+0:2:26,12 --> 0:2:28,71
+Who will that be tonight?
+
+
+42
+0:2:28,71 --> 0:2:31,17
+We will soon find out,
+because it is time
+
+
+43
+0:2:31,17 --> 0:2:32,42
+to play Small World.
+
+
+44
+0:2:32,42 --> 0:2:36,53
+
+
+
+45
+0:2:36,53 --> 0:2:38,65
+GRANT IMAHARA: My name is Grant
+Imahara, and I'm one of
+
+
+46
+0:2:38,65 --> 0:2:41,46
+the hosts on Discovery Channel's
+MythBusters, where
+
+
+47
+0:2:41,46 --> 0:2:45,28
+we basically blow things up
+in the name of science.
+
+
+48
+0:2:45,28 --> 0:2:48,21
+JENNA BUSCH: I'm Jenna Busch,
+and I am an online blogger.
+
+
+49
+0:2:48,21 --> 0:2:49,43
+I do on-camera interviews.
+
+
+50
+0:2:49,43 --> 0:2:51,85
+I interview celebrities and
+cover comic books, video
+
+
+51
+0:2:51,85 --> 0:2:53,39
+games, TV, and film.
+
+
+52
+0:2:53,39 --> 0:2:54,89
+SEAN PLOTT: My real name
+is Sean Plott.
+
+
+53
+0:2:54,89 --> 0:2:58,31
+But on the internets I'm
+known as Day[9].
+
+
+54
+0:2:58,31 --> 0:3:1,14
+I'm mainly known because I do
+StarCraft II commentary.
+
+
+55
+0:3:1,14 --> 0:3:1,72
+JENNA BUSCH: Yes.
+
+
+56
+0:3:1,72 --> 0:3:2,72
+WIL WHEATON: You get
+to go first.
+
+
+57
+0:3:2,72 --> 0:3:4,185
+JENNA BUSCH: Nice.
+
+
+58
+0:3:4,185 --> 0:3:5,18
+All right.
+
+
+59
+0:3:5,18 --> 0:3:6,62
+I wanted to be a sorcerer
+because I
+
+
+60
+0:3:6,62 --> 0:3:9,8
+usually play magic users.
+
+
+61
+0:3:9,8 --> 0:3:11,43
+It's just a thing that I've
+been doing since I started
+
+
+62
+0:3:11,43 --> 0:3:12,17
+playing D&D.
+
+
+63
+0:3:12,17 --> 0:3:12,47
+WIL WHEATON: OK.
+
+
+64
+0:3:12,47 --> 0:3:13,74
+You want the hill sorcerers,
+so you pay
+
+
+65
+0:3:13,74 --> 0:3:15,4
+one tax to the halflings.
+
+
+66
+0:3:15,4 --> 0:3:15,79
+SEAN PLOTT: What?
+
+
+67
+0:3:15,79 --> 0:3:16,5
+JENNA BUSCH: Yeah.
+
+
+68
+0:3:16,5 --> 0:3:17,63
+WIL WHEATON: Then you take
+the hill sorcerers.
+
+
+69
+0:3:17,63 --> 0:3:17,97
+Go ahead.
+
+
+70
+0:3:17,97 --> 0:3:18,38
+Grab them.
+
+
+71
+0:3:18,38 --> 0:3:19,58
+Those are for you.
+
+
+72
+0:3:19,58 --> 0:3:20,59
+SEAN PLOTT: God, I'm already
+on [INAUDIBLE].
+
+
+73
+0:3:20,59 --> 0:3:22,773
+I wanted the hill sorcerers
+so bad.
+
+
+74
+0:3:22,773 --> 0:3:24,174
+WIL WHEATON: You're
+going to get the--
+
+
+75
+0:3:24,174 --> 0:3:37,4
+
+
+
+76
+0:3:37,4 --> 0:3:39,53
+So you choose a section of the
+board that is on the edge of
+
+
+77
+0:3:39,53 --> 0:3:40,68
+the board to come in.
+
+
+78
+0:3:40,68 --> 0:3:41,792
+JENNA BUSCH: All right.
+
+
+79
+0:3:41,792 --> 0:3:42,46
+I'm starting here.
+
+
+80
+0:3:42,46 --> 0:3:43,22
+WIL WHEATON: Coming in
+on the mountains.
+
+
+81
+0:3:43,22 --> 0:3:43,65
+JENNA BUSCH: Uh-huh.
+
+
+82
+0:3:43,65 --> 0:3:45,12
+WIL WHEATON: So that'll
+be three, right?
+
+
+83
+0:3:45,12 --> 0:3:45,485
+JENNA BUSCH: Mm-hm.
+
+
+84
+0:3:45,485 --> 0:3:46,11
+WIL WHEATON: You put
+in one too many.
+
+
+85
+0:3:46,11 --> 0:3:46,5
+JENNA BUSCH: Oh, I did.
+
+
+86
+0:3:46,5 --> 0:3:47,7
+WIL WHEATON: There you go.
+
+
+87
+0:3:47,7 --> 0:3:48,15
+There's three guys.
+
+
+88
+0:3:48,15 --> 0:3:48,36
+JENNA BUSCH: All right.
+
+
+89
+0:3:48,36 --> 0:3:48,98
+WIL WHEATON: OK?
+
+
+90
+0:3:48,98 --> 0:3:50,981
+JENNA BUSCH: Hmm.
+
+
+91
+0:3:50,981 --> 0:3:51,39
+There.
+
+
+92
+0:3:51,39 --> 0:3:52,472
+Well, no.
+
+
+93
+0:3:52,472 --> 0:3:53,14
+WIL WHEATON: All right.
+
+
+94
+0:3:53,14 --> 0:3:54,265
+So that's another three.
+
+
+95
+0:3:54,265 --> 0:3:55,9
+JENNA BUSCH: Three.
+
+
+96
+0:3:55,9 --> 0:3:55,42
+WIL WHEATON: All right.
+
+
+97
+0:3:55,42 --> 0:3:56,63
+And you killed the lost tribes.
+
+
+98
+0:3:56,63 --> 0:3:57,54
+Oh, no.
+
+
+99
+0:3:57,54 --> 0:3:58,75
+I love living in the forest.
+
+
+100
+0:3:58,75 --> 0:3:59,105
+JENNA BUSCH: I'm murdery.
+
+
+101
+0:3:59,105 --> 0:4:0,355
+GRANT IMAHARA: They
+were lost, anyway.
+
+
+102
+0:4:0,355 --> 0:4:13,74
+
+
+
+103
+0:4:13,74 --> 0:4:13,94
+WIL WHEATON: I know.
+
+
+104
+0:4:13,94 --> 0:4:14,14
+JENNA BUSCH: Yeah.
+
+
+105
+0:4:14,14 --> 0:4:15,3
+WIL WHEATON: You're
+very murdery.
+
+
+106
+0:4:15,3 --> 0:4:15,71
+JENNA BUSCH: Yeah.
+
+
+107
+0:4:15,71 --> 0:4:16,74
+Very murdery.
+
+
+108
+0:4:16,74 --> 0:4:18,47
+And then three there.
+
+
+109
+0:4:18,47 --> 0:4:19,29
+Hills.
+
+
+110
+0:4:19,29 --> 0:4:20,486
+WIL WHEATON: And three there
+to claim that hill.
+
+
+111
+0:4:20,486 --> 0:4:22,205
+All right, so and we'll
+score you up at
+
+
+112
+0:4:22,205 --> 0:4:22,92
+the end of your turn.
+
+
+113
+0:4:22,92 --> 0:4:25,32
+One, two, three points.
+
+
+114
+0:4:25,32 --> 0:4:25,52
+SEAN PLOTT: All right.
+
+
+115
+0:4:25,52 --> 0:4:27,79
+Straight up have my
+heart set on the
+
+
+116
+0:4:27,79 --> 0:4:30,316
+wonderful alchemist giant.
+
+
+117
+0:4:30,316 --> 0:4:45,7
+
+
+
+118
+0:4:45,7 --> 0:4:45,84
+I'm going to start
+looping around.
+
+
+119
+0:4:45,84 --> 0:4:45,93
+WIL WHEATON: All right.
+
+
+120
+0:4:45,93 --> 0:4:46,715
+SEAN PLOTT: This is my order.
+
+
+121
+0:4:46,715 --> 0:4:47,39
+All right.
+
+
+122
+0:4:47,39 --> 0:4:49,355
+I'm going to eliminate these
+guys momentarily.
+
+
+123
+0:4:49,355 --> 0:4:50,2
+WIL WHEATON: That's two.
+
+
+124
+0:4:50,2 --> 0:4:51,86
+SEAN PLOTT: And this is where
+the gambling comes.
+
+
+125
+0:4:51,86 --> 0:4:52,11
+WIL WHEATON: OK.
+
+
+126
+0:4:52,11 --> 0:4:52,81
+SEAN PLOTT: Oh, wait.
+
+
+127
+0:4:52,81 --> 0:4:53,39
+If I--
+
+
+128
+0:4:53,39 --> 0:4:53,845
+WIL WHEATON: You still
+don't have to gamble.
+
+
+129
+0:4:53,845 --> 0:4:54,9
+You're good.
+
+
+130
+0:4:54,9 --> 0:4:55,71
+That's two.
+
+
+131
+0:4:55,71 --> 0:4:56,7
+SEAN PLOTT: And then--
+
+
+132
+0:4:56,7 --> 0:4:56,6
+WIL WHEATON: That's one.
+
+
+133
+0:4:56,6 --> 0:4:57,82
+SEAN PLOTT: --this is where
+the gamble comes in.
+
+
+134
+0:4:57,82 --> 0:4:58,94
+WIL WHEATON: And here's your
+reinforcement die.
+
+
+135
+0:4:58,94 --> 0:5:1,42
+SEAN PLOTT: I need-- oh, god,
+I need this so bad.
+
+
+136
+0:5:1,42 --> 0:5:2,373
+WIL WHEATON: When Sean's talking
+about gambling, what
+
+
+137
+0:5:2,373 --> 0:5:4,82
+he means is on your very last
+move, you can roll this
+
+
+138
+0:5:4,82 --> 0:5:6,22
+reinforcement die.
+
+
+139
+0:5:6,22 --> 0:5:9,33
+It has three blank faces and
+the numbers one to three on
+
+
+140
+0:5:9,33 --> 0:5:10,84
+the remaining three faces.
+
+
+141
+0:5:10,84 --> 0:5:12,98
+And that tells you how
+many mysterious
+
+
+142
+0:5:12,98 --> 0:5:14,54
+reinforcement guys you get.
+
+
+143
+0:5:14,54 --> 0:5:16,94
+So since he's trying to conquer
+that mountain, that
+
+
+144
+0:5:16,94 --> 0:5:18,25
+space is going to
+cost him three.
+
+
+145
+0:5:18,25 --> 0:5:19,15
+He only has two guys.
+
+
+146
+0:5:19,15 --> 0:5:22,58
+So if he rolls that die and gets
+a one, two, or three, he
+
+
+147
+0:5:22,58 --> 0:5:23,16
+conquers the mountain.
+
+
+148
+0:5:23,16 --> 0:5:24,53
+So basically you have
+a 50% chance of
+
+
+149
+0:5:24,53 --> 0:5:25,6
+conquering the mountain.
+
+
+150
+0:5:25,6 --> 0:5:27,28
+Conquer that mountain!
+
+
+151
+0:5:27,28 --> 0:5:28,9
+GRANT IMAHARA: Feeling lucky?
+
+
+152
+0:5:28,9 --> 0:5:29,47
+SEAN PLOTT: Now, the thing is I
+just want to say, I could go
+
+
+153
+0:5:29,47 --> 0:5:30,88
+here, but that doesn't
+let me [BEEP]
+
+
+154
+0:5:30,88 --> 0:5:32,31
+gamble, which is the
+important thing.
+
+
+155
+0:5:32,31 --> 0:5:32,665
+WIL WHEATON: I know.
+
+
+156
+0:5:32,665 --> 0:5:33,2
+I understand.
+
+
+157
+0:5:33,2 --> 0:5:33,665
+SEAN PLOTT: All right.
+
+
+158
+0:5:33,665 --> 0:5:34,99
+WIL WHEATON: Kids,
+gambling is cool.
+
+
+159
+0:5:34,99 --> 0:5:36,27
+Also, so is smoking.
+
+
+160
+0:5:36,27 --> 0:5:36,51
+All right.
+
+
+161
+0:5:36,51 --> 0:5:38,89
+Go ahead and roll your die
+and see what happens.
+
+
+162
+0:5:38,89 --> 0:5:39,983
+SEAN PLOTT: Oh!
+
+
+163
+0:5:39,983 --> 0:5:41,27
+GRANT IMAHARA: Denied.
+
+
+164
+0:5:41,27 --> 0:5:43,48
+SEAN PLOTT: Notice how little
+dots there are.
+
+
+165
+0:5:43,48 --> 0:5:44,9
+GRANT IMAHARA: Yeah,
+that's terrible.
+
+
+166
+0:5:44,9 --> 0:5:44,64
+SEAN PLOTT: It looks
+[INAUDIBLE]
+
+
+167
+0:5:44,64 --> 0:5:44,99
+WIL WHEATON: OK.
+
+
+168
+0:5:44,99 --> 0:5:47,21
+So go ahead and take
+that giant back.
+
+
+169
+0:5:47,21 --> 0:5:49,19
+That lost tribesmen actually
+defends you.
+
+
+170
+0:5:49,19 --> 0:5:50,88
+Off my land, giants.
+
+
+171
+0:5:50,88 --> 0:5:51,87
+SEAN PLOTT: And now
+I redeploy.
+
+
+172
+0:5:51,87 --> 0:5:53,245
+WIL WHEATON: And now you
+go ahead and redeploy.
+
+
+173
+0:5:53,245 --> 0:6:2,9
+
+
+
+174
+0:6:2,9 --> 0:6:4,96
+So go ahead and count up
+your points there.
+
+
+175
+0:6:4,96 --> 0:6:8,5
+SEAN PLOTT: One, two, three,
+four, five, six, seven, eight.
+
+
+176
+0:6:8,5 --> 0:6:8,7
+GRANT IMAHARA: Eight.
+
+
+177
+0:6:8,7 --> 0:6:9,78
+SEAN PLOTT: From
+the alchemists.
+
+
+178
+0:6:9,78 --> 0:6:10,41
+WIL WHEATON: Dude,
+the alchemists.
+
+
+179
+0:6:10,41 --> 0:6:10,8
+All right.
+
+
+180
+0:6:10,8 --> 0:6:11,34
+GRANT IMAHARA: Excellent.
+
+
+181
+0:6:11,34 --> 0:6:11,19
+Good turn.
+
+
+182
+0:6:11,19 --> 0:6:11,502
+WIL WHEATON: All right.
+
+
+183
+0:6:11,502 --> 0:6:11,88
+Here you go.
+
+
+184
+0:6:11,88 --> 0:6:13,44
+So there's two 3s--
+
+
+185
+0:6:13,44 --> 0:6:13,87
+SEAN PLOTT: [INAUDIBLE].
+
+
+186
+0:6:13,87 --> 0:6:16,45
+WIL WHEATON: --for six
+and two ones for two.
+
+
+187
+0:6:16,45 --> 0:6:17,38
+GRANT IMAHARA: Oh my god.
+
+
+188
+0:6:17,38 --> 0:6:18,19
+WIL WHEATON: There you are.
+
+
+189
+0:6:18,19 --> 0:6:18,665
+Congratulations.
+
+
+190
+0:6:18,665 --> 0:6:19,51
+SEAN PLOTT: I'm now
+accumulating--
+
+
+191
+0:6:19,51 --> 0:6:21,3
+WIL WHEATON: And now, Grant,
+it is your turn.
+
+
+192
+0:6:21,3 --> 0:6:23,995
+Let's see who you're
+going to be.
+
+
+193
+0:6:23,995 --> 0:6:26,41
+You now can choose
+the pillaging--
+
+
+194
+0:6:26,41 --> 0:6:27,93
+Oh my god, the pillaging orcs!
+
+
+195
+0:6:27,93 --> 0:6:28,95
+You don't want the
+pillaging orcs.
+
+
+196
+0:6:28,95 --> 0:6:30,37
+They're terrible.
+
+
+197
+0:6:30,37 --> 0:6:31,287
+Terrible.
+
+
+198
+0:6:31,287 --> 0:6:44,9
+
+
+
+199
+0:6:44,9 --> 0:6:47,54
+GRANT IMAHARA: Because I know
+that Wil wants it so bad--
+
+
+200
+0:6:47,54 --> 0:6:47,92
+WIL WHEATON: Really?
+
+
+201
+0:6:47,92 --> 0:6:49,24
+GRANT IMAHARA: --I might
+have to take it
+
+
+202
+0:6:49,24 --> 0:6:51,16
+just to deny you that.
+
+
+203
+0:6:51,16 --> 0:6:52,3
+WIL WHEATON: It's going to
+be that kind of game.
+
+
+204
+0:6:52,3 --> 0:6:53,44
+All right.
+
+
+205
+0:6:53,44 --> 0:6:55,38
+Listen, Imahara, if that's the
+kind of game you want to play,
+
+
+206
+0:6:55,38 --> 0:6:56,61
+I will play that kind of game.
+
+
+207
+0:6:56,61 --> 0:6:58,34
+Oh, I will play that
+kind of game.
+
+
+208
+0:6:58,34 --> 0:6:58,42
+GRANT IMAHARA: You're
+good to go?
+
+
+209
+0:6:58,42 --> 0:6:59,14
+You're good to go?
+
+
+210
+0:6:59,14 --> 0:6:59,59
+WIL WHEATON: Bring it.
+
+
+211
+0:6:59,59 --> 0:7:0,31
+GRANT IMAHARA: All right.
+
+
+212
+0:7:0,31 --> 0:7:1,0
+Let's do it.
+
+
+213
+0:7:1,0 --> 0:7:1,42
+OK.
+
+
+214
+0:7:1,42 --> 0:7:3,83
+SEAN PLOTT: So if you want to
+just start here, that's very
+
+
+215
+0:7:3,83 --> 0:7:5,18
+not here, then that's great.
+
+
+216
+0:7:5,18 --> 0:7:5,78
+GRANT IMAHARA: I know.
+
+
+217
+0:7:5,78 --> 0:7:7,66
+You know, that's looking really
+attractive to me.
+
+
+218
+0:7:7,66 --> 0:7:9,17
+I think I'm actually going
+to go here because
+
+
+219
+0:7:9,17 --> 0:7:10,97
+you're doubled up.
+
+
+220
+0:7:10,97 --> 0:7:11,345
+SEAN PLOTT: Yeah.
+
+
+221
+0:7:11,345 --> 0:7:11,72
+Yeah.
+
+
+222
+0:7:11,72 --> 0:7:12,53
+GRANT IMAHARA: All right.
+
+
+223
+0:7:12,53 --> 0:7:13,74
+For this turn.
+
+
+224
+0:7:13,74 --> 0:7:14,82
+So I'll take this.
+
+
+225
+0:7:14,82 --> 0:7:16,1
+WIL WHEATON: So you're
+coming in there.
+
+
+226
+0:7:16,1 --> 0:7:16,73
+GRANT IMAHARA: Plus one.
+
+
+227
+0:7:16,73 --> 0:7:17,203
+WIL WHEATON: Uh-huh.
+
+
+228
+0:7:17,203 --> 0:7:17,676
+Good.
+
+
+229
+0:7:17,676 --> 0:7:18,622
+I regret nothing!
+
+
+230
+0:7:18,622 --> 0:7:20,39
+GRANT IMAHARA: Bye.
+
+
+231
+0:7:20,39 --> 0:7:22,29
+I'll take two here.
+
+
+232
+0:7:22,29 --> 0:7:23,68
+WIL WHEATON: Tell my
+wife I love her!
+
+
+233
+0:7:23,68 --> 0:7:24,95
+GRANT IMAHARA: Plus one.
+
+
+234
+0:7:24,95 --> 0:7:26,54
+Come to me, bonuses.
+
+
+235
+0:7:26,54 --> 0:7:27,79
+Fly to me.
+
+
+236
+0:7:27,79 --> 0:7:30,1
+
+
+
+237
+0:7:30,1 --> 0:7:31,2
+Two to here.
+
+
+238
+0:7:31,2 --> 0:7:32,22
+WIL WHEATON: I can't believe
+I wasted time
+
+
+239
+0:7:32,22 --> 0:7:33,285
+watching Drive Angry 3D.
+
+
+240
+0:7:33,285 --> 0:7:36,75
+[LAUGHTER]
+
+
+241
+0:7:36,75 --> 0:7:40,14
+GRANT IMAHARA: Every time I
+conquer someone, I get one
+
+
+242
+0:7:40,14 --> 0:7:44,0
+coin for the territory, one coin
+because I'm an orc, and
+
+
+243
+0:7:44,0 --> 0:7:46,62
+another one because
+I'm pillaging.
+
+
+244
+0:7:46,62 --> 0:7:46,89
+WIL WHEATON: Nice.
+
+
+245
+0:7:46,89 --> 0:7:47,76
+GRANT IMAHARA: Bang.
+
+
+246
+0:7:47,76 --> 0:7:49,61
+WIL WHEATON: Congratulations,
+Grant.
+
+
+247
+0:7:49,61 --> 0:7:50,58
+Well done.
+
+
+248
+0:7:50,58 --> 0:7:52,77
+GRANT IMAHARA: I'm raking
+it in right now.
+
+
+249
+0:7:52,77 --> 0:7:54,29
+WIL WHEATON: Those of you at
+home who play this game are
+
+
+250
+0:7:54,29 --> 0:7:56,5
+going, why in the world
+do you have Pandemic
+
+
+251
+0:7:56,5 --> 0:7:57,89
+guys in this game?
+
+
+252
+0:7:57,89 --> 0:8:0,13
+Well, because we have
+a camera crew.
+
+
+253
+0:8:0,13 --> 0:8:2,74
+So that you can enjoy this, we
+want people to know where
+
+
+254
+0:8:2,74 --> 0:8:4,27
+things are happening
+on the board.
+
+
+255
+0:8:4,27 --> 0:8:4,53
+OK.
+
+
+256
+0:8:4,53 --> 0:8:6,87
+So I think I'm going
+to actually go
+
+
+257
+0:8:6,87 --> 0:8:9,14
+for the wealthy dwarves.
+
+
+258
+0:8:9,14 --> 0:8:9,58
+GRANT IMAHARA: Really?
+
+
+259
+0:8:9,58 --> 0:8:10,7
+SEAN PLOTT: Really?
+
+
+260
+0:8:10,7 --> 0:8:11,32
+On turn one?
+
+
+261
+0:8:11,32 --> 0:8:25,5
+
+
+
+262
+0:8:25,5 --> 0:8:27,24
+WIL WHEATON: I'm going
+to come in here.
+
+
+263
+0:8:27,24 --> 0:8:29,74
+That's three, two for the space,
+one for the mountain.
+
+
+264
+0:8:29,74 --> 0:8:30,66
+GRANT IMAHARA: And
+you get a mine.
+
+
+265
+0:8:30,66 --> 0:8:33,94
+WIL WHEATON: So I started with
+wealthy dwarves because I get
+
+
+266
+0:8:33,94 --> 0:8:35,98
+seven coins just for
+having them.
+
+
+267
+0:8:35,98 --> 0:8:38,98
+But I knew that I would have
+very little difficulty
+
+
+268
+0:8:38,98 --> 0:8:41,59
+grabbing and holding
+a couple of mines.
+
+
+269
+0:8:41,59 --> 0:8:43,419
+And I can just leave those
+dwarves there, and they're
+
+
+270
+0:8:43,419 --> 0:8:44,92
+paying me two coins a turn.
+
+
+271
+0:8:44,92 --> 0:8:46,79
+I'm going to go ahead and
+score and redeploy.
+
+
+272
+0:8:46,79 --> 0:8:50,16
+I get two because there's
+a mine there.
+
+
+273
+0:8:50,16 --> 0:8:52,38
+I get, oh, three.
+
+
+274
+0:8:52,38 --> 0:8:54,23
+I get four, five.
+
+
+275
+0:8:54,23 --> 0:8:56,39
+I also get seven because
+I'm wealthy.
+
+
+276
+0:8:56,39 --> 0:8:57,37
+So I get 12 this turn.
+
+
+277
+0:8:57,37 --> 0:8:59,23
+But the most important
+thing is--
+
+
+278
+0:8:59,23 --> 0:8:59,31
+JENNA BUSCH: The voice.
+
+
+279
+0:8:59,31 --> 0:9:1,98
+WIL WHEATON: Oh, but Gimli
+was my favorite.
+
+
+280
+0:9:1,98 --> 0:9:2,42
+OK.
+
+
+281
+0:9:2,42 --> 0:9:3,763
+So they go away.
+
+
+282
+0:9:3,763 --> 0:9:4,69
+JENNA BUSCH: Who was
+waiting for that?
+
+
+283
+0:9:4,69 --> 0:9:7,34
+WIL WHEATON: And now
+a little redeploy.
+
+
+284
+0:9:7,34 --> 0:9:8,38
+[INAUDIBLE]
+
+
+285
+0:9:8,38 --> 0:9:8,78
+there.
+
+
+286
+0:9:8,78 --> 0:9:9,47
+All right.
+
+
+287
+0:9:9,47 --> 0:9:10,54
+So what did I say?
+
+
+288
+0:9:10,54 --> 0:9:11,23
+Did I say 12?
+
+
+289
+0:9:11,23 --> 0:9:12,35
+I said 12, didn't I?
+
+
+290
+0:9:12,35 --> 0:9:13,42
+SEAN PLOTT: That is such
+a thinly-veiled brag.
+
+
+291
+0:9:13,42 --> 0:9:14,9
+WIL WHEATON: Math.
+
+
+292
+0:9:14,9 --> 0:9:15,13
+SEAN PLOTT: Can I just
+double check that I
+
+
+293
+0:9:15,13 --> 0:9:16,315
+got a 12-point turn?
+
+
+294
+0:9:16,315 --> 0:9:18,81
+Can you guys hold up as many
+fingers as I have points?
+
+
+295
+0:9:18,81 --> 0:9:21,41
+It might take two of you.
+
+
+296
+0:9:21,41 --> 0:9:23,91
+GRANT IMAHARA: Wil really
+knows this game well.
+
+
+297
+0:9:23,91 --> 0:9:26,64
+I think he might pull
+it out in the end.
+
+
+298
+0:9:26,64 --> 0:9:27,15
+But we'll see.
+
+
+299
+0:9:27,15 --> 0:9:29,4
+JENNA BUSCH: Wil is
+very strategic.
+
+
+300
+0:9:29,4 --> 0:9:29,85
+He's very calm.
+
+
+301
+0:9:29,85 --> 0:9:32,62
+He's very helpful to
+newbies like me.
+
+
+302
+0:9:32,62 --> 0:9:34,45
+SEAN PLOTT: I'm going to lean
+towards Wil because he just
+
+
+303
+0:9:34,45 --> 0:9:37,41
+seems to know not only all the
+good strategies but also all
+
+
+304
+0:9:37,41 --> 0:9:38,66
+the voices.
+
+
+305
+0:9:38,66 --> 0:9:54,75
+
+
+
+306
+0:9:54,75 --> 0:9:55,72
+WIL WHEATON: Please, go ahead.
+
+
+307
+0:9:55,72 --> 0:9:56,24
+Conquer.
+
+
+308
+0:9:56,24 --> 0:9:57,595
+SEAN PLOTT: Whatever you
+do, no, no, no, no, no.
+
+
+309
+0:9:57,595 --> 0:9:58,5
+No, no.
+
+
+310
+0:9:58,5 --> 0:9:58,515
+OK.
+
+
+311
+0:9:58,515 --> 0:9:59,96
+These are sorcerers
+on the backside.
+
+
+312
+0:9:59,96 --> 0:10:1,21
+JENNA BUSCH: Yeah, don't mess
+with the sorcerers.
+
+
+313
+0:10:1,21 --> 0:10:2,46
+SEAN PLOTT: Swamp?
+
+
+314
+0:10:2,46 --> 0:10:8,8
+
+
+
+315
+0:10:8,8 --> 0:10:9,54
+WIL WHEATON: That's going
+to cost you three.
+
+
+316
+0:10:9,54 --> 0:10:10,28
+SEAN PLOTT: It's going
+to cost you three.
+
+
+317
+0:10:10,28 --> 0:10:10,6
+GRANT IMAHARA: And what?
+
+
+318
+0:10:10,6 --> 0:10:10,925
+WIL WHEATON: Bam.
+
+
+319
+0:10:10,925 --> 0:10:13,99
+GRANT IMAHARA: At the moment,
+my wrath is focused on Sean.
+
+
+320
+0:10:13,99 --> 0:10:15,66
+But that's just because he was
+in the wrong place at the
+
+
+321
+0:10:15,66 --> 0:10:16,6
+wrong time.
+
+
+322
+0:10:16,6 --> 0:10:17,63
+SEAN PLOTT: This
+is a massacre.
+
+
+323
+0:10:17,63 --> 0:10:18,31
+JENNA BUSCH: You look upset.
+
+
+324
+0:10:18,31 --> 0:10:20,23
+SEAN PLOTT: My strategy in the
+game is try to avoid the fact
+
+
+325
+0:10:20,23 --> 0:10:21,2
+that Grant is a dick.
+
+
+326
+0:10:21,2 --> 0:10:22,4
+WIL WHEATON: This is
+going to be ugly.
+
+
+327
+0:10:22,4 --> 0:10:24,38
+GRANT IMAHARA: Gosh, that forest
+looks awfully tempting.
+
+
+328
+0:10:24,38 --> 0:10:29,2
+I'm hoping that beating up on
+him early in the game is not
+
+
+329
+0:10:29,2 --> 0:10:31,6
+going to come around
+and backfire on me
+
+
+330
+0:10:31,6 --> 0:10:32,61
+later in the game.
+
+
+331
+0:10:32,61 --> 0:10:33,6
+SEAN PLOTT: Are you kidding?
+
+
+332
+0:10:33,6 --> 0:10:34,53
+My next race is going
+to start here.
+
+
+333
+0:10:34,53 --> 0:10:36,78
+I'm just going to
+hollow you out.
+
+
+334
+0:10:36,78 --> 0:10:37,63
+GRANT IMAHARA: No!
+
+
+335
+0:10:37,63 --> 0:10:40,33
+You're an orc and you're
+rampaging.
+
+
+336
+0:10:40,33 --> 0:10:41,87
+You got to do what
+you got to do.
+
+
+337
+0:10:41,87 --> 0:10:43,26
+Sorry, Sean.
+
+
+338
+0:10:43,26 --> 0:10:43,94
+Oh, well.
+
+
+339
+0:10:43,94 --> 0:10:45,23
+Two for that.
+
+
+340
+0:10:45,23 --> 0:10:46,25
+WIL WHEATON: He's going
+to play the pillaging
+
+
+341
+0:10:46,25 --> 0:10:48,825
+Roto-Rooters in the next one.
+
+
+342
+0:10:48,825 --> 0:10:49,18
+GRANT IMAHARA: All right.
+
+
+343
+0:10:49,18 --> 0:10:49,58
+WIL WHEATON: OK.
+
+
+344
+0:10:49,58 --> 0:10:50,24
+That's conquered.
+
+
+345
+0:10:50,24 --> 0:10:51,48
+And one more.
+
+
+346
+0:10:51,48 --> 0:10:51,96
+OK.
+
+
+347
+0:10:51,96 --> 0:10:52,99
+And then roll.
+
+
+348
+0:10:52,99 --> 0:10:54,48
+SEAN PLOTT: God, I hope
+you get a blank.
+
+
+349
+0:10:54,48 --> 0:10:55,563
+WIL WHEATON: Dice of blank.
+
+
+350
+0:10:55,563 --> 0:10:56,53
+JENNA BUSCH: Dice
+of blank, sir.
+
+
+351
+0:10:56,53 --> 0:10:57,0
+GRANT IMAHARA: It's horrible.
+
+
+352
+0:10:57,0 --> 0:10:57,81
+Two or a--
+
+
+353
+0:10:57,81 --> 0:10:58,67
+SEAN PLOTT: Please
+get a blank.
+
+
+354
+0:10:58,67 --> 0:11:1,49
+Oh god, I'll be so
+happy, I'll die.
+
+
+355
+0:11:1,49 --> 0:11:2,99
+WIL WHEATON: Oh!
+
+
+356
+0:11:2,99 --> 0:11:3,51
+SEAN PLOTT: Yes.
+
+
+357
+0:11:3,51 --> 0:11:5,91
+WIL WHEATON: People who play
+Small World a lot call this
+
+
+358
+0:11:5,91 --> 0:11:8,45
+the dice of rolling blanks.
+
+
+359
+0:11:8,45 --> 0:11:11,18
+But just to show you, look,
+there's actual numbers on it.
+
+
+360
+0:11:11,18 --> 0:11:11,76
+Look, you see that, Jessie?
+
+
+361
+0:11:11,76 --> 0:11:12,11
+GRANT IMAHARA: Where?
+
+
+362
+0:11:12,11 --> 0:11:13,44
+They only appear when
+you're not rolling--
+
+
+363
+0:11:13,44 --> 0:11:13,79
+JENNA BUSCH: Yeah.
+
+
+364
+0:11:13,79 --> 0:11:14,56
+GRANT IMAHARA: --apparently.
+
+
+365
+0:11:14,56 --> 0:11:18,15
+WIL WHEATON: You get two,
+four, five, six,
+
+
+366
+0:11:18,15 --> 0:11:19,56
+seven points this turn.
+
+
+367
+0:11:19,56 --> 0:11:20,32
+SEAN PLOTT: Wait.
+
+
+368
+0:11:20,32 --> 0:11:21,82
+Doesn't he get three for
+these because he's
+
+
+369
+0:11:21,82 --> 0:11:22,59
+the pillaging orcs?
+
+
+370
+0:11:22,59 --> 0:11:23,402
+JENNA BUSCH: Are you
+helping him?
+
+
+371
+0:11:23,402 --> 0:11:24,34
+WIL WHEATON: Yeah, I
+was giving him two.
+
+
+372
+0:11:24,34 --> 0:11:24,64
+Oh, three!
+
+
+373
+0:11:24,64 --> 0:11:25,415
+You're right.
+
+
+374
+0:11:25,415 --> 0:11:26,18
+My bad.
+
+
+375
+0:11:26,18 --> 0:11:26,63
+JENNA BUSCH: Don't help him!
+
+
+376
+0:11:26,63 --> 0:11:27,65
+SEAN PLOTT: Wait a minute.
+
+
+377
+0:11:27,65 --> 0:11:27,96
+[BEEP]
+
+
+378
+0:11:27,96 --> 0:11:29,12
+you, Grant.
+
+
+379
+0:11:29,12 --> 0:11:30,49
+JENNA BUSCH: I think you've
+become that guy.
+
+
+380
+0:11:30,49 --> 0:11:31,58
+GRANT IMAHARA: You
+are a sportsman.
+
+
+381
+0:11:31,58 --> 0:11:31,83
+Yeah.
+
+
+382
+0:11:31,83 --> 0:11:33,22
+WIL WHEATON: So three, six--
+
+
+383
+0:11:33,22 --> 0:11:34,11
+GRANT IMAHARA: Damn my
+rules knowledge.
+
+
+384
+0:11:34,11 --> 0:11:36,27
+SEAN PLOTT: In defense
+of the rules.
+
+
+385
+0:11:36,27 --> 0:11:38,16
+GRANT IMAHARA: And to
+protect my borders.
+
+
+386
+0:11:38,16 --> 0:11:39,88
+SEAN PLOTT: My race could be
+the pacifist children.
+
+
+387
+0:11:39,88 --> 0:11:42,69
+I would send all of
+them your way.
+
+
+388
+0:11:42,69 --> 0:11:45,26
+Next time I go into decline,
+which will happen because I'm
+
+
+389
+0:11:45,26 --> 0:11:47,28
+awful, I'm going
+to invade him.
+
+
+390
+0:11:47,28 --> 0:11:48,11
+GRANT IMAHARA: Ooh.
+
+
+391
+0:11:48,11 --> 0:11:48,86
+SEAN PLOTT: He'll be picking
+up his teeth
+
+
+392
+0:11:48,86 --> 0:11:49,93
+like Pokemon cards.
+
+
+393
+0:11:49,93 --> 0:11:52,86
+I see you, drinking
+your Diet Coke.
+
+
+394
+0:11:52,86 --> 0:11:53,46
+WIL WHEATON: All right.
+
+
+395
+0:11:53,46 --> 0:11:57,96
+This is going to be super
+gamble mania 9,000.
+
+
+396
+0:11:57,96 --> 0:11:58,51
+Are you ready?
+
+
+397
+0:11:58,51 --> 0:11:59,71
+SEAN PLOTT: Look,
+not this side.
+
+
+398
+0:11:59,71 --> 0:12:0,19
+WIL WHEATON: This is my--
+
+
+399
+0:12:0,19 --> 0:12:0,35
+SEAN PLOTT: No.
+
+
+400
+0:12:0,35 --> 0:12:0,94
+You just don't--
+
+
+401
+0:12:0,94 --> 0:12:2,73
+GRANT IMAHARA: Wait,
+do I see any mines?
+
+
+402
+0:12:2,73 --> 0:12:4,15
+No.
+
+
+403
+0:12:4,15 --> 0:12:5,775
+SEAN PLOTT: It's going to
+be gamble mania, Sean.
+
+
+404
+0:12:5,775 --> 0:12:6,835
+I'm like no, no, no, no.
+
+
+405
+0:12:6,835 --> 0:12:7,28
+Don't gamble.
+
+
+406
+0:12:7,28 --> 0:12:7,52
+What?
+
+
+407
+0:12:7,52 --> 0:12:7,89
+What?
+
+
+408
+0:12:7,89 --> 0:12:8,26
+What?
+
+
+409
+0:12:8,26 --> 0:12:8,63
+What?
+
+
+410
+0:12:8,63 --> 0:12:9,24
+What?
+
+
+411
+0:12:9,24 --> 0:12:10,525
+These are my giants.
+
+
+412
+0:12:10,525 --> 0:12:11,51
+WIL WHEATON: And now--
+
+
+413
+0:12:11,51 --> 0:12:12,76
+SEAN PLOTT: Ohh!
+
+
+414
+0:12:12,76 --> 0:12:16,372
+
+
+
+415
+0:12:16,372 --> 0:12:17,83
+JENNA BUSCH: There's
+flailing happening.
+
+
+416
+0:12:17,83 --> 0:12:19,29
+WIL WHEATON: Yes!
+
+
+417
+0:12:19,29 --> 0:12:20,78
+SEAN PLOTT: He's going to stop
+rolling threes eventually.
+
+
+418
+0:12:20,78 --> 0:12:22,58
+Then I'm going to wreck him.
+
+
+419
+0:12:22,58 --> 0:12:23,47
+WIL WHEATON: (SINGING)
+"We are the dwarves.
+
+
+420
+0:12:23,47 --> 0:12:24,16
+We like to mine.
+
+
+421
+0:12:24,16 --> 0:12:27,65
+We get our gold, and we put it
+in our pocket." It's the song
+
+
+422
+0:12:27,65 --> 0:12:28,86
+that the dwarves sing.
+
+
+423
+0:12:28,86 --> 0:12:30,21
+GRANT IMAHARA: You
+took a beating.
+
+
+424
+0:12:30,21 --> 0:12:31,863
+SEAN PLOTT: I don't really
+like that song.
+
+
+425
+0:12:31,863 --> 0:12:32,71
+GRANT IMAHARA: Yeah.
+
+
+426
+0:12:32,71 --> 0:12:33,12
+WIL WHEATON: OK.
+
+
+427
+0:12:33,12 --> 0:12:35,11
+And I'll just put this here so
+everybody knows where my
+
+
+428
+0:12:35,11 --> 0:12:36,48
+little guys did their thing.
+
+
+429
+0:12:36,48 --> 0:12:39,888
+SEAN PLOTT: Well, I'll
+just move this back.
+
+
+430
+0:12:39,888 --> 0:12:41,98
+WIL WHEATON: And that will
+be the end of my turn.
+
+
+431
+0:12:41,98 --> 0:12:42,59
+All right, Jenna.
+
+
+432
+0:12:42,59 --> 0:12:42,91
+JENNA BUSCH: All right.
+
+
+433
+0:12:42,91 --> 0:12:43,93
+WIL WHEATON: It is your turn.
+
+
+434
+0:12:43,93 --> 0:12:46,765
+JENNA BUSCH: I did pretty well
+not attacking certain people,
+
+
+435
+0:12:46,765 --> 0:12:47,43
+just saying.
+
+
+436
+0:12:47,43 --> 0:12:49,6
+Because everyone sort
+of left me alone.
+
+
+437
+0:12:49,6 --> 0:12:51,496
+WIL WHEATON: Welcome
+to round three!
+
+
+438
+0:12:51,496 --> 0:12:52,945
+GRANT IMAHARA: Hey.
+
+
+439
+0:12:52,945 --> 0:12:56,1
+JENNA BUSCH: And I'm going
+to begin round three by--
+
+
+440
+0:12:56,1 --> 0:12:56,93
+WIL WHEATON: Flipping a dwarf!
+
+
+441
+0:12:56,93 --> 0:12:57,89
+GRANT IMAHARA: Oh.
+
+
+442
+0:12:57,89 --> 0:12:58,36
+SEAN PLOTT: Get him.
+
+
+443
+0:12:58,36 --> 0:12:58,74
+Get him.
+
+
+444
+0:12:58,74 --> 0:12:59,55
+WIL WHEATON: Flip the dwarf!
+
+
+445
+0:12:59,55 --> 0:13:0,395
+Good for you.
+
+
+446
+0:13:0,395 --> 0:13:1,23
+Good move.
+
+
+447
+0:13:1,23 --> 0:13:6,3
+I was so focused on protecting
+myself from Sean's giants that
+
+
+448
+0:13:6,3 --> 0:13:10,88
+I completely forgot to defend
+myself against the sorcerers.
+
+
+449
+0:13:10,88 --> 0:13:14,32
+Nothing makes me happier than
+seeing a new player come in
+
+
+450
+0:13:14,32 --> 0:13:18,26
+and just completely exploit a
+total screw-up by a veteran.
+
+
+451
+0:13:18,26 --> 0:13:20,77
+JENNA BUSCH: I try not to pick
+on weak people in real life.
+
+
+452
+0:13:20,77 --> 0:13:22,33
+I like to beat up the
+really tough guys.
+
+
+453
+0:13:22,33 --> 0:13:23,24
+It's more fun.
+
+
+454
+0:13:23,24 --> 0:13:24,105
+WIL WHEATON: It looks
+like Sean's putting
+
+
+455
+0:13:24,105 --> 0:13:25,99
+the giants into decline.
+
+
+456
+0:13:25,99 --> 0:13:26,91
+GRANT IMAHARA: Decline.
+
+
+457
+0:13:26,91 --> 0:13:28,83
+SEAN PLOTT: Dude, they
+had their moments.
+
+
+458
+0:13:28,83 --> 0:13:29,98
+WIL WHEATON: I think
+that's a good move.
+
+
+459
+0:13:29,98 --> 0:13:31,606
+That's a super good move.
+
+
+460
+0:13:31,606 --> 0:13:38,438
+
+
+
+461
+0:13:38,438 --> 0:13:40,28
+SEAN PLOTT: It's the
+quickest move ever.
+
+
+462
+0:13:40,28 --> 0:13:40,56
+WIL WHEATON: Yep.
+
+
+463
+0:13:40,56 --> 0:13:43,25
+So you get four points
+this turn.
+
+
+464
+0:13:43,25 --> 0:13:44,9
+Grant.
+
+
+465
+0:13:44,9 --> 0:13:45,29
+GRANT IMAHARA: All right.
+
+
+466
+0:13:45,29 --> 0:13:46,755
+It's time to go a'pillaging.
+
+
+467
+0:13:46,755 --> 0:13:49,95
+SEAN PLOTT: If you can go
+a'pillaging, like, that way.
+
+
+468
+0:13:49,95 --> 0:13:50,24
+GRANT IMAHARA: No.
+
+
+469
+0:13:50,24 --> 0:13:52,36
+I think I'm going to
+leave that one--
+
+
+470
+0:13:52,36 --> 0:13:53,275
+SEAN PLOTT: God bless you.
+
+
+471
+0:13:53,275 --> 0:13:54,4
+GRANT IMAHARA: --and
+take this.
+
+
+472
+0:13:54,4 --> 0:13:54,695
+SEAN PLOTT: No.
+
+
+473
+0:13:54,695 --> 0:13:55,19
+Wh--?
+
+
+474
+0:13:55,19 --> 0:13:56,79
+WIL WHEATON: Does the
+die help Grant?
+
+
+475
+0:13:56,79 --> 0:13:59,152
+Grant.
+
+
+476
+0:13:59,152 --> 0:13:59,92
+JENNA BUSCH: You did not.
+
+
+477
+0:13:59,92 --> 0:14:2,46
+GRANT IMAHARA: It jumped
+up my arm.
+
+
+478
+0:14:2,46 --> 0:14:2,76
+WIL WHEATON: Wow.
+
+
+479
+0:14:2,76 --> 0:14:4,3
+That was like, I'm
+going for it.
+
+
+480
+0:14:4,3 --> 0:14:4,79
+I'm kissing him.
+
+
+481
+0:14:4,79 --> 0:14:5,26
+SEAN PLOTT: OK.
+
+
+482
+0:14:5,26 --> 0:14:5,68
+OK.
+
+
+483
+0:14:5,68 --> 0:14:5,935
+OK.
+
+
+484
+0:14:5,935 --> 0:14:6,94
+That's fine.
+
+
+485
+0:14:6,94 --> 0:14:7,4
+That's fine.
+
+
+486
+0:14:7,4 --> 0:14:8,88
+WIL WHEATON: That counts
+because it was awesome.
+
+
+487
+0:14:8,88 --> 0:14:10,96
+SEAN PLOTT: Dude, it's
+like, blank, blank.
+
+
+488
+0:14:10,96 --> 0:14:11,49
+Who are we invading?
+
+
+489
+0:14:11,49 --> 0:14:11,78
+Sean?
+
+
+490
+0:14:11,78 --> 0:14:13,14
+Look, another three came up.
+
+
+491
+0:14:13,14 --> 0:14:13,7
+Isn't that funny?
+
+
+492
+0:14:13,7 --> 0:14:15,18
+WIL WHEATON: Did you do
+something horrible to like the
+
+
+493
+0:14:15,18 --> 0:14:18,29
+die maker's family?
+
+
+494
+0:14:18,29 --> 0:14:19,53
+JENNA BUSCH: Are you drawing
+pictures in the velvet?
+
+
+495
+0:14:19,53 --> 0:14:21,36
+SEAN PLOTT: I'm trying to do an
+unhappy face, but instead
+
+
+496
+0:14:21,36 --> 0:14:23,65
+it looks like that boy who's
+just starting puberty and
+
+
+497
+0:14:23,65 --> 0:14:26,49
+grows like a little bit
+of side mustache.
+
+
+498
+0:14:26,49 --> 0:14:26,98
+GRANT IMAHARA: What was that?
+
+
+499
+0:14:26,98 --> 0:14:27,51
+SEAN PLOTT: It's,
+like, so tragic.
+
+
+500
+0:14:27,51 --> 0:14:27,61
+WIL WHEATON: OK.
+
+
+501
+0:14:27,61 --> 0:14:28,63
+Let's count up your points.
+
+
+502
+0:14:28,63 --> 0:14:30,3
+SEAN PLOTT: This is actually
+either a simple
+
+
+503
+0:14:30,3 --> 0:14:31,13
+three from this way.
+
+
+504
+0:14:31,13 --> 0:14:36,89
+WIL WHEATON: You give 3, 6, 7,
+8, 9, 10, 11 points to Grant.
+
+
+505
+0:14:36,89 --> 0:14:38,79
+SEAN PLOTT: Now there's the end
+game victory condition.
+
+
+506
+0:14:38,79 --> 0:14:41,17
+And there is the user defined
+victory condition, which is
+
+
+507
+0:14:41,17 --> 0:14:41,5
+[BEEP]
+
+
+508
+0:14:41,5 --> 0:14:44,6
+invading Grant from right
+there on my next race.
+
+
+509
+0:14:44,6 --> 0:14:45,85
+GRANT IMAHARA: That's right.
+
+
+510
+0:14:45,85 --> 0:15:2,42
+
+
+
+511
+0:15:2,42 --> 0:15:6,38
+The orcs are going
+to go in decline.
+
+
+512
+0:15:6,38 --> 0:15:7,24
+WIL WHEATON: The
+declining orcs?
+
+
+513
+0:15:7,24 --> 0:15:7,79
+GRANT IMAHARA: Yes.
+
+
+514
+0:15:7,79 --> 0:15:8,91
+WIL WHEATON: They've
+had a great run.
+
+
+515
+0:15:8,91 --> 0:15:9,55
+GRANT IMAHARA: We did.
+
+
+516
+0:15:9,55 --> 0:15:10,82
+We pillaged a lot.
+
+
+517
+0:15:10,82 --> 0:15:11,52
+WIL WHEATON: All right.
+
+
+518
+0:15:11,52 --> 0:15:11,17
+Let's see.
+
+
+519
+0:15:11,17 --> 0:15:12,34
+So we'll take these
+two off the map.
+
+
+520
+0:15:12,34 --> 0:15:12,451
+SEAN PLOTT: Yeah.
+
+
+521
+0:15:12,451 --> 0:15:14,23
+Let me just say that every
+time I come home and my
+
+
+522
+0:15:14,23 --> 0:15:16,36
+roommates have TiVoed
+Mythbusters, I'm going to get
+
+
+523
+0:15:16,36 --> 0:15:17,99
+red in the face and be like--
+
+
+524
+0:15:17,99 --> 0:15:19,31
+GRANT IMAHARA: Oh,
+that Grant guy.
+
+
+525
+0:15:19,31 --> 0:15:20,81
+He pillaged me.
+
+
+526
+0:15:20,81 --> 0:15:21,72
+Right through the back door.
+
+
+527
+0:15:21,72 --> 0:15:22,62
+SEAN PLOTT: I can't
+do it direct.
+
+
+528
+0:15:22,62 --> 0:15:23,72
+I have to be, like,
+passive-aggressive.
+
+
+529
+0:15:23,72 --> 0:15:27,41
+I'll be like, it's
+not real science.
+
+
+530
+0:15:27,41 --> 0:15:28,18
+GRANT IMAHARA: It's
+TV science.
+
+
+531
+0:15:28,18 --> 0:15:28,47
+SEAN PLOTT: Yes.
+
+
+532
+0:15:28,47 --> 0:15:28,97
+WIL WHEATON: OK.
+
+
+533
+0:15:28,97 --> 0:15:32,47
+One, two, three, four, five,
+six, seven, eight.
+
+
+534
+0:15:32,47 --> 0:15:33,24
+SEAN PLOTT: These orcs are
+going to go into decline.
+
+
+535
+0:15:33,24 --> 0:15:34,78
+WIL WHEATON: Eight
+points for you.
+
+
+536
+0:15:34,78 --> 0:15:36,37
+SEAN PLOTT: And then we're just
+going to blow them up.
+
+
+537
+0:15:36,37 --> 0:15:37,97
+WIL WHEATON: Duh, duh,
+duh, duh, duh.
+
+
+538
+0:15:37,97 --> 0:15:39,85
+We're going to eat you
+for first breakfast.
+
+
+539
+0:15:39,85 --> 0:15:40,76
+Ta, dah, da, dah.
+
+
+540
+0:15:40,76 --> 0:15:42,59
+we're going to eat your
+for second breakfast.
+
+
+541
+0:15:42,59 --> 0:15:44,11
+La, la, la, la, la.
+
+
+542
+0:15:44,11 --> 0:15:46,82
+And for elevensies, we're going
+to try to roll in here
+
+
+543
+0:15:46,82 --> 0:15:49,825
+and see if we can get you
+with the die roll.
+
+
+544
+0:15:49,825 --> 0:15:50,31
+SEAN PLOTT: Oh!
+
+
+545
+0:15:50,31 --> 0:15:51,17
+WIL WHEATON: Yes!
+
+
+546
+0:15:51,17 --> 0:15:51,64
+SEAN PLOTT: Oh, wait.
+
+
+547
+0:15:51,64 --> 0:15:52,54
+Is that tilted?
+
+
+548
+0:15:52,54 --> 0:15:52,97
+Oh my god.
+
+
+549
+0:15:52,97 --> 0:15:53,32
+JENNA BUSCH: Oh, it is.
+
+
+550
+0:15:53,32 --> 0:15:53,66
+It is.
+
+
+551
+0:15:53,66 --> 0:15:56,6
+WIL WHEATON: No, it's not.
+
+
+552
+0:15:56,6 --> 0:15:58,14
+Awesome in the pants.
+
+
+553
+0:15:58,14 --> 0:15:58,43
+OK.
+
+
+554
+0:15:58,43 --> 0:15:59,24
+So let's see.
+
+
+555
+0:15:59,24 --> 0:16:1,622
+That means that I get
+two, three, four--
+
+
+556
+0:16:1,622 --> 0:16:2,584
+SEAN PLOTT: That's just
+a blow to humanity.
+
+
+557
+0:16:2,584 --> 0:16:4,3
+WIL WHEATON: --five, six,
+seven, eight, nine
+
+
+558
+0:16:4,3 --> 0:16:6,37
+points for that turn.
+
+
+559
+0:16:6,37 --> 0:16:7,8
+And that'll be the
+end of my turn.
+
+
+560
+0:16:7,8 --> 0:16:8,91
+Jenna, it's your turn.
+
+
+561
+0:16:8,91 --> 0:16:9,83
+And you get to choose
+a new race.
+
+
+562
+0:16:9,83 --> 0:16:12,91
+And also, welcome to round
+six, everyone.
+
+
+563
+0:16:12,91 --> 0:16:14,15
+This round is not a number.
+
+
+564
+0:16:14,15 --> 0:16:15,4
+It is a free man.
+
+
+565
+0:16:15,4 --> 0:16:17,918
+
+
+
+566
+0:16:17,918 --> 0:16:19,27
+JENNA BUSCH: You know which
+one I'm picking, right?
+
+
+567
+0:16:19,27 --> 0:16:20,15
+WIL WHEATON: What
+are you taking?
+
+
+568
+0:16:20,15 --> 0:16:20,46
+JENNA BUSCH: Dragon.
+
+
+569
+0:16:20,46 --> 0:16:21,75
+SEAN PLOTT: Oh, you
+love dragons.
+
+
+570
+0:16:21,75 --> 0:16:35,515
+
+
+
+571
+0:16:35,515 --> 0:16:36,22
+JENNA BUSCH: All right.
+
+
+572
+0:16:36,22 --> 0:16:37,3
+WIL WHEATON: Where you going?
+
+
+573
+0:16:37,3 --> 0:16:39,32
+JENNA BUSCH: I'm going
+to go here.
+
+
+574
+0:16:39,32 --> 0:16:40,98
+WIL WHEATON: One, OK.
+
+
+575
+0:16:40,98 --> 0:16:42,97
+It normally would cost you two,
+but because it's adjacent
+
+
+576
+0:16:42,97 --> 0:16:44,25
+to water, it only
+costs you one.
+
+
+577
+0:16:44,25 --> 0:16:44,68
+JENNA BUSCH: Yes.
+
+
+578
+0:16:44,68 --> 0:16:45,38
+WIL WHEATON: OK.
+
+
+579
+0:16:45,38 --> 0:16:46,12
+JENNA BUSCH: I'm going to go--
+
+
+580
+0:16:46,12 --> 0:16:46,43
+WIL WHEATON: OK.
+
+
+581
+0:16:46,43 --> 0:16:46,85
+[INAUDIBLE]
+
+
+582
+0:16:46,85 --> 0:16:47,69
+JENNA BUSCH: --here.
+
+
+583
+0:16:47,69 --> 0:16:48,74
+WIL WHEATON: Two.
+
+
+584
+0:16:48,74 --> 0:16:50,28
+Because there's a dude there.
+
+
+585
+0:16:50,28 --> 0:16:51,63
+So put one more down there--
+
+
+586
+0:16:51,63 --> 0:16:51,74
+JENNA BUSCH: Oh, right.
+
+
+587
+0:16:51,74 --> 0:16:52,79
+WIL WHEATON: --for
+the lost tribe.
+
+
+588
+0:16:52,79 --> 0:16:53,13
+JENNA BUSCH: Dude.
+
+
+589
+0:16:53,13 --> 0:16:53,43
+GRANT IMAHARA: Got it.
+
+
+590
+0:16:53,43 --> 0:16:56,366
+WIL WHEATON: But I love fish
+and things that have forks.
+
+
+591
+0:16:56,366 --> 0:16:57,292
+OK.
+
+
+592
+0:16:57,292 --> 0:16:58,681
+OK.
+
+
+593
+0:16:58,681 --> 0:16:59,15
+JENNA BUSCH: All right.
+
+
+594
+0:16:59,15 --> 0:17:1,29
+So is this technically--?
+
+
+595
+0:17:1,29 --> 0:17:2,25
+WIL WHEATON: Yes, this
+is adjacent to water.
+
+
+596
+0:17:2,25 --> 0:17:2,46
+Yep.
+
+
+597
+0:17:2,46 --> 0:17:3,14
+It sure is.
+
+
+598
+0:17:3,14 --> 0:17:3,875
+JENNA BUSCH: All right.
+
+
+599
+0:17:3,875 --> 0:17:4,765
+All right.
+
+
+600
+0:17:4,765 --> 0:17:6,5
+GRANT IMAHARA: I'm getting
+pushed out of here.
+
+
+601
+0:17:6,5 --> 0:17:6,75
+JENNA BUSCH: Yep.
+
+
+602
+0:17:6,75 --> 0:17:7,49
+GRANT IMAHARA: Oh.
+
+
+603
+0:17:7,49 --> 0:17:8,264
+WIL WHEATON: Orc,
+orc, orc, orc.
+
+
+604
+0:17:8,264 --> 0:17:12,619
+SEAN PLOTT: That's what that's
+like, pillaging orc Grant.
+
+
+605
+0:17:12,619 --> 0:17:14,4
+GRANT IMAHARA: Is this
+the payback I was--
+
+
+606
+0:17:14,4 --> 0:17:15,2
+JENNA BUSCH: Mm-hmm.
+
+
+607
+0:17:15,2 --> 0:17:15,63
+WIL WHEATON: OK.
+
+
+608
+0:17:15,63 --> 0:17:16,39
+JENNA BUSCH: All right.
+
+
+609
+0:17:16,39 --> 0:17:17,79
+I think--
+
+
+610
+0:17:17,79 --> 0:17:19,3
+GRANT IMAHARA: You've just got
+a giant stack over there.
+
+
+611
+0:17:19,3 --> 0:17:19,31
+JENNA BUSCH: I do.
+
+
+612
+0:17:19,31 --> 0:17:20,0
+WIL WHEATON: She has a lot.
+
+
+613
+0:17:20,0 --> 0:17:21,7
+This is going to be a
+huge turn for her.
+
+
+614
+0:17:21,7 --> 0:17:24,64
+Orc, orc, orc, orc.
+
+
+615
+0:17:24,64 --> 0:17:25,14
+JENNA BUSCH: Yep.
+
+
+616
+0:17:25,14 --> 0:17:26,69
+I think--
+
+
+617
+0:17:26,69 --> 0:17:28,4
+SEAN PLOTT: Can you go, like,
+here and then here, in terms
+
+
+618
+0:17:28,4 --> 0:17:28,86
+of conquering?
+
+
+619
+0:17:28,86 --> 0:17:28,986
+WIL WHEATON: Yeah.
+
+
+620
+0:17:28,986 --> 0:17:31,7
+As long as you're adjacent,
+you can attack.
+
+
+621
+0:17:31,7 --> 0:17:31,83
+JENNA BUSCH: Do it again.
+
+
+622
+0:17:31,83 --> 0:17:34,27
+WIL WHEATON: Orc, orc, orc,
+orc, orc, orc, orc.
+
+
+623
+0:17:34,27 --> 0:17:35,38
+Now how many dudes
+do you have left?
+
+
+624
+0:17:35,38 --> 0:17:36,14
+JENNA BUSCH: I have two.
+
+
+625
+0:17:36,14 --> 0:17:37,61
+WIL WHEATON: OK Now, if you're
+going to attack with your
+
+
+626
+0:17:37,61 --> 0:17:40,11
+dragon, a dude has to accompany
+your dragon.
+
+
+627
+0:17:40,11 --> 0:17:41,44
+He's the guy who keeps the
+dragon on a leash.
+
+
+628
+0:17:41,44 --> 0:17:41,59
+JENNA BUSCH: Oh.
+
+
+629
+0:17:41,59 --> 0:17:41,84
+Oh.
+
+
+630
+0:17:41,84 --> 0:17:43,89
+WIL WHEATON: And he's like,
+no, don't kill them.
+
+
+631
+0:17:43,89 --> 0:17:45,44
+Kill the hobbits over there.
+
+
+632
+0:17:45,44 --> 0:17:45,96
+JENNA BUSCH: Dragon wrangler.
+
+
+633
+0:17:45,96 --> 0:17:48,8
+WIL WHEATON: So what
+you want to do--
+
+
+634
+0:17:48,8 --> 0:17:49,535
+I can't believe I'm going
+to tell you this--
+
+
+635
+0:17:49,535 --> 0:17:50,19
+JENNA BUSCH: Tell me this.
+
+
+636
+0:17:50,19 --> 0:17:51,99
+WIL WHEATON: But you probably
+just want to take your dragon
+
+
+637
+0:17:51,99 --> 0:17:52,65
+there and there.
+
+
+638
+0:17:52,65 --> 0:17:53,84
+Because those are
+your [INAUDIBLE]
+
+
+639
+0:17:53,84 --> 0:17:55,82
+JENNA BUSCH: Uh-huh.
+
+
+640
+0:17:55,82 --> 0:17:56,48
+SEAN PLOTT: I think
+she bought it.
+
+
+641
+0:17:56,48 --> 0:17:58,306
+WIL WHEATON: But listen, what
+you're trying to do is--
+
+
+642
+0:17:58,306 --> 0:17:58,44
+SEAN PLOTT: Got her.
+
+
+643
+0:17:58,44 --> 0:18:0,83
+WIL WHEATON: She's not even
+listening to me that much.
+
+
+644
+0:18:0,83 --> 0:18:2,21
+She's like, keep talking,
+Wheaton.
+
+
+645
+0:18:2,21 --> 0:18:3,535
+That's adorable that
+you said--
+
+
+646
+0:18:3,535 --> 0:18:4,41
+JENNA BUSCH: I'm just
+so psyched I got
+
+
+647
+0:18:4,41 --> 0:18:5,64
+to play with a dragon.
+
+
+648
+0:18:5,64 --> 0:18:7,93
+WIL WHEATON: So now what happens
+is the hobbits get
+
+
+649
+0:18:7,93 --> 0:18:9,85
+burninated.
+
+
+650
+0:18:9,85 --> 0:18:11,44
+One of them goes into
+the land of death.
+
+
+651
+0:18:11,44 --> 0:18:14,124
+And I get to keep two of the
+ones that are still alive.
+
+
+652
+0:18:14,124 --> 0:18:14,621
+JENNA BUSCH: All right.
+
+
+653
+0:18:14,621 --> 0:18:16,32
+And I'm going to try--
+
+
+654
+0:18:16,32 --> 0:18:17,8
+SEAN PLOTT: Oh, sad timing.
+
+
+655
+0:18:17,8 --> 0:18:17,53
+JENNA BUSCH: I shouldn't.
+
+
+656
+0:18:17,53 --> 0:18:17,802
+GRANT IMAHARA: All right.
+
+
+657
+0:18:17,802 --> 0:18:18,55
+Go ahead.
+
+
+658
+0:18:18,55 --> 0:18:19,5
+You're on a roll.
+
+
+659
+0:18:19,5 --> 0:18:19,66
+SEAN PLOTT: Come on!
+
+
+660
+0:18:19,66 --> 0:18:20,37
+Come on!
+
+
+661
+0:18:20,37 --> 0:18:21,47
+WIL WHEATON: So normally you
+would need four there.
+
+
+662
+0:18:21,47 --> 0:18:21,57
+JENNA BUSCH: Yeah.
+
+
+663
+0:18:21,57 --> 0:18:22,46
+WIL WHEATON: You need three.
+
+
+664
+0:18:22,46 --> 0:18:23,99
+You have one, so you need to
+roll a two or a three.
+
+
+665
+0:18:23,99 --> 0:18:24,5
+SEAN PLOTT: Come on.
+
+
+666
+0:18:24,5 --> 0:18:25,135
+Come on, three.
+
+
+667
+0:18:25,135 --> 0:18:25,44
+JENNA BUSCH: Oh my god.
+
+
+668
+0:18:25,44 --> 0:18:27,12
+It hasn't worked for me yet.
+
+
+669
+0:18:27,12 --> 0:18:27,6
+SEAN PLOTT: Hurt him.
+
+
+670
+0:18:27,6 --> 0:18:27,93
+GRANT IMAHARA: Oh!
+
+
+671
+0:18:27,93 --> 0:18:30,63
+WIL WHEATON: Oh!
+
+
+672
+0:18:30,63 --> 0:18:32,8
+GRANT IMAHARA: Bye-bye.
+
+
+673
+0:18:32,8 --> 0:18:32,57
+SEAN PLOTT: Yes.
+
+
+674
+0:18:32,57 --> 0:18:34,75
+WIL WHEATON: [INAUDIBLE]
+the Shire, Samwise.
+
+
+675
+0:18:34,75 --> 0:18:37,73
+You should have just ridden on
+the eagles to take the rings
+
+
+676
+0:18:37,73 --> 0:18:39,98
+back to Mordor.
+
+
+677
+0:18:39,98 --> 0:18:40,1
+Why are you so stupid?
+
+
+678
+0:18:40,1 --> 0:18:40,922
+Ahh.
+
+
+679
+0:18:40,922 --> 0:18:42,29
+Now let's count your--
+
+
+680
+0:18:42,29 --> 0:18:42,406
+OK.
+
+
+681
+0:18:42,406 --> 0:18:43,37
+You had a sorcerer.
+
+
+682
+0:18:43,37 --> 0:18:44,31
+That's one.
+
+
+683
+0:18:44,31 --> 0:18:45,83
+I don't think you have any more
+sorcerers on the board.
+
+
+684
+0:18:45,83 --> 0:18:46,4
+JENNA BUSCH: No.
+
+
+685
+0:18:46,4 --> 0:18:46,79
+That's it.
+
+
+686
+0:18:46,79 --> 0:18:50,579
+WIL WHEATON: Two, three, four,
+five, six, seven, eight.
+
+
+687
+0:18:50,579 --> 0:18:51,46
+Eight.
+
+
+688
+0:18:51,46 --> 0:18:52,0
+Eight points for Jenna.
+
+
+689
+0:18:52,0 --> 0:18:52,43
+JENNA BUSCH: Whoo.
+
+
+690
+0:18:52,43 --> 0:18:53,225
+GRANT IMAHARA: Big round.
+
+
+691
+0:18:53,225 --> 0:18:53,73
+JENNA BUSCH: Why, thank you.
+
+
+692
+0:18:53,73 --> 0:18:56,336
+WIL WHEATON: I believe the turn
+now belongs to you, sir.
+
+
+693
+0:18:56,336 --> 0:18:57,97
+SEAN PLOTT: I'm gonna take it.
+
+
+694
+0:18:57,97 --> 0:18:59,12
+Go into decline.
+
+
+695
+0:18:59,12 --> 0:19:0,245
+WIL WHEATON: You lose heroic.
+
+
+696
+0:19:0,245 --> 0:19:1,16
+So heroic goes away.
+
+
+697
+0:19:1,16 --> 0:19:2,37
+You're no longer heroic.
+
+
+698
+0:19:2,37 --> 0:19:4,87
+But we'll put your ghouls
+into decline.
+
+
+699
+0:19:4,87 --> 0:19:7,17
+But what's awesome about that is
+that they still behave like
+
+
+700
+0:19:7,17 --> 0:19:7,73
+an active race.
+
+
+701
+0:19:7,73 --> 0:19:11,5
+So go ahead and conquer
+some territories with
+
+
+702
+0:19:11,5 --> 0:19:12,69
+your declined ghouls.
+
+
+703
+0:19:12,69 --> 0:19:15,5
+SEAN PLOTT: Oh, I get to
+do that afterwards?
+
+
+704
+0:19:15,5 --> 0:19:15,91
+WIL WHEATON: Yeah.
+
+
+705
+0:19:15,91 --> 0:19:17,48
+That's why the ghouls
+are badass.
+
+
+706
+0:19:17,48 --> 0:19:17,97
+SEAN PLOTT: What?
+
+
+707
+0:19:17,97 --> 0:19:18,9
+Wait.
+
+
+708
+0:19:18,9 --> 0:19:18,24
+WIL WHEATON: Yeah.
+
+
+709
+0:19:18,24 --> 0:19:19,69
+You actually played ghouls
+really well.
+
+
+710
+0:19:19,69 --> 0:19:21,0
+I thought you were being
+super strategic.
+
+
+711
+0:19:21,0 --> 0:19:22,2
+That's what you do.
+
+
+712
+0:19:22,2 --> 0:19:23,78
+SEAN PLOTT: I super
+stratege-did-did.
+
+
+713
+0:19:23,78 --> 0:19:25,58
+WIL WHEATON: You grab the
+ghouls, you roll as quick as
+
+
+714
+0:19:25,58 --> 0:19:27,545
+you can, and then you hop into
+decline immediately.
+
+
+715
+0:19:27,545 --> 0:19:29,4
+SEAN PLOTT: And then
+I'm, like, done.
+
+
+716
+0:19:29,4 --> 0:19:29,58
+WIL WHEATON: Yeah.
+
+
+717
+0:19:29,58 --> 0:19:31,76
+SEAN PLOTT: Race number
+three en route.
+
+
+718
+0:19:31,76 --> 0:19:32,0
+WIL WHEATON: Yeah.
+
+
+719
+0:19:32,0 --> 0:19:32,63
+Let's hear.
+
+
+720
+0:19:32,63 --> 0:19:33,83
+Who's coming in next?
+
+
+721
+0:19:33,83 --> 0:19:34,15
+SEAN PLOTT: Wait.
+
+
+722
+0:19:34,15 --> 0:19:35,69
+OK.
+
+
+723
+0:19:35,69 --> 0:19:35,89
+OK.
+
+
+724
+0:19:35,89 --> 0:19:37,34
+So you have a race in decline.
+
+
+725
+0:19:37,34 --> 0:19:38,45
+You're going to attack me.
+
+
+726
+0:19:38,45 --> 0:19:39,47
+Why would you do that?
+
+
+727
+0:19:39,47 --> 0:19:41,96
+I can't believe--
+
+
+728
+0:19:41,96 --> 0:19:43,6
+GRANT IMAHARA: I haven't
+selected anything.
+
+
+729
+0:19:43,6 --> 0:19:43,99
+SEAN PLOTT: I can't believe it.
+
+
+730
+0:19:43,99 --> 0:19:44,34
+OK.
+
+
+731
+0:19:44,34 --> 0:19:44,84
+Wait.
+
+
+732
+0:19:44,84 --> 0:19:45,11
+Hold on.
+
+
+733
+0:19:45,11 --> 0:19:48,27
+I'm going to try to roll
+for that back one.
+
+
+734
+0:19:48,27 --> 0:19:49,42
+WIL WHEATON: Roll for
+which one here?
+
+
+735
+0:19:49,42 --> 0:19:49,76
+SEAN PLOTT: For that forest.
+
+
+736
+0:19:49,76 --> 0:19:50,1
+WIL WHEATON: For here?
+
+
+737
+0:19:50,1 --> 0:19:50,44
+SEAN PLOTT: Yeah.
+
+
+738
+0:19:50,44 --> 0:19:50,85
+WIL WHEATON: All right.
+
+
+739
+0:19:50,85 --> 0:19:51,13
+Go.
+
+
+740
+0:19:51,13 --> 0:19:52,51
+You need to roll-- actually,
+you have a 50%
+
+
+741
+0:19:52,51 --> 0:19:53,57
+chance of making it.
+
+
+742
+0:19:53,57 --> 0:19:54,34
+SEAN PLOTT: Oh, god.
+
+
+743
+0:19:54,34 --> 0:19:56,96
+That's so low for me.
+
+
+744
+0:19:56,96 --> 0:19:56,81
+Oh, god.
+
+
+745
+0:19:56,81 --> 0:19:58,68
+GRANT IMAHARA: Come on.
+
+
+746
+0:19:58,68 --> 0:19:59,14
+SEAN PLOTT: Oh!
+
+
+747
+0:19:59,14 --> 0:19:59,57
+Oh!
+
+
+748
+0:19:59,57 --> 0:19:59,976
+WIL WHEATON: Yeah.
+
+
+749
+0:19:59,976 --> 0:20:0,788
+You got it.
+
+
+750
+0:20:0,788 --> 0:20:1,6
+Congratulations.
+
+
+751
+0:20:1,6 --> 0:20:2,36
+SEAN PLOTT: I pulled
+what we call a
+
+
+752
+0:20:2,36 --> 0:20:4,635
+college, the bare minimum.
+
+
+753
+0:20:4,635 --> 0:20:5,405
+Done.
+
+
+754
+0:20:5,405 --> 0:20:7,13
+GRANT IMAHARA: All right.
+
+
+755
+0:20:7,13 --> 0:20:7,33
+what.
+
+
+756
+0:20:7,33 --> 0:20:8,54
+Will I choose?
+
+
+757
+0:20:8,54 --> 0:20:10,33
+I think it's going to
+be swamp ratmen.
+
+
+758
+0:20:10,33 --> 0:20:11,58
+WIL WHEATON: Swamp ratmen.
+
+
+759
+0:20:11,58 --> 0:20:26,35
+
+
+
+760
+0:20:26,35 --> 0:20:29,11
+GRANT IMAHARA: I shall be
+entering on the swamp.
+
+
+761
+0:20:29,11 --> 0:20:29,37
+WIL WHEATON: OK.
+
+
+762
+0:20:29,37 --> 0:20:30,681
+GRANT IMAHARA: There you go.
+
+
+763
+0:20:30,681 --> 0:20:31,12
+That's right.
+
+
+764
+0:20:31,12 --> 0:20:31,86
+I'll move over here.
+
+
+765
+0:20:31,86 --> 0:20:32,23
+WIL WHEATON: OK.
+
+
+766
+0:20:32,23 --> 0:20:32,396
+Go ahead.
+
+
+767
+0:20:32,396 --> 0:20:32,565
+Go ahead.
+
+
+768
+0:20:32,565 --> 0:20:32,9
+Do it.
+
+
+769
+0:20:32,9 --> 0:20:33,15
+SEAN PLOTT: What?
+
+
+770
+0:20:33,15 --> 0:20:33,3
+WIL WHEATON: Go next.
+
+
+771
+0:20:33,3 --> 0:20:33,36
+Go next.
+
+
+772
+0:20:33,36 --> 0:20:35,94
+SEAN PLOTT: You can't put the
+capitals next to each other.
+
+
+773
+0:20:35,94 --> 0:20:38,252
+This is like East and West
+Germany here, man.
+
+
+774
+0:20:38,252 --> 0:20:39,315
+WIL WHEATON: Oh, no.
+
+
+775
+0:20:39,315 --> 0:20:40,59
+I'm a dead ghoul now.
+
+
+776
+0:20:40,59 --> 0:20:42,292
+Life was good a minute ago.
+
+
+777
+0:20:42,292 --> 0:20:44,64
+GRANT IMAHARA: Can my two
+races attack together?
+
+
+778
+0:20:44,64 --> 0:20:44,975
+WIL WHEATON: No.
+
+
+779
+0:20:44,975 --> 0:20:47,59
+You can attack one after
+another, but they
+
+
+780
+0:20:47,59 --> 0:20:48,86
+can't all join up.
+
+
+781
+0:20:48,86 --> 0:20:51,235
+It can't be like ghouls and
+these other guys are friends.
+
+
+782
+0:20:51,235 --> 0:20:51,57
+Oh, no.
+
+
+783
+0:20:51,57 --> 0:20:54,62
+It sucks to be a ghoul.
+
+
+784
+0:20:54,62 --> 0:20:56,25
+GRANT IMAHARA: I need
+to march that way
+
+
+785
+0:20:56,25 --> 0:20:57,47
+towards the other swamp.
+
+
+786
+0:20:57,47 --> 0:21:1,4
+So I will take you.
+
+
+787
+0:21:1,4 --> 0:21:2,6
+WIL WHEATON: I've been actually
+keeping track in my
+
+
+788
+0:21:2,6 --> 0:21:3,225
+head of score.
+
+
+789
+0:21:3,225 --> 0:21:5,79
+And yeah, you're actually really
+far ahead of everybody.
+
+
+790
+0:21:5,79 --> 0:21:8,95
+You're the barefoot
+Kenyan guy.
+
+
+791
+0:21:8,95 --> 0:21:10,12
+SEAN PLOTT: With no arms.
+
+
+792
+0:21:10,12 --> 0:21:10,986
+WIL WHEATON: At the [INAUDIBLE]
+
+
+793
+0:21:10,986 --> 0:21:11,92
+Marathon.
+
+
+794
+0:21:11,92 --> 0:21:14,31
+GRANT IMAHARA: I'm feeling very
+strong at this moment.
+
+
+795
+0:21:14,31 --> 0:21:15,27
+But we'll see.
+
+
+796
+0:21:15,27 --> 0:21:16,52
+I've got an early lead.
+
+
+797
+0:21:16,52 --> 0:21:17,77
+I'm keeping it.
+
+
+798
+0:21:17,77 --> 0:21:30,58
+
+
+
+799
+0:21:30,58 --> 0:21:34,2
+WIL WHEATON: Welcome, my
+friends, to the last
+
+
+800
+0:21:34,2 --> 0:21:36,33
+round of the game.
+
+
+801
+0:21:36,33 --> 0:21:36,91
+Jenna.
+
+
+802
+0:21:36,91 --> 0:21:37,9
+JENNA BUSCH: Yes.
+
+
+803
+0:21:37,9 --> 0:21:39,59
+WIL WHEATON: You have the honor
+of choosing a new race
+
+
+804
+0:21:39,59 --> 0:21:41,42
+and doing what you
+will with it.
+
+
+805
+0:21:41,42 --> 0:21:41,68
+JENNA BUSCH: Oh.
+
+
+806
+0:21:41,68 --> 0:21:42,34
+Oh.
+
+
+807
+0:21:42,34 --> 0:21:43,4
+GRANT IMAHARA: She's
+going for Amazon.
+
+
+808
+0:21:43,4 --> 0:21:43,78
+WIL WHEATON: Amazons.
+
+
+809
+0:21:43,78 --> 0:21:45,3
+JENNA BUSCH: I call them
+crazy bitches.
+
+
+810
+0:21:45,3 --> 0:21:58,636
+
+
+
+811
+0:21:58,636 --> 0:21:59,12
+All right.
+
+
+812
+0:21:59,12 --> 0:22:0,91
+SEAN PLOTT: This is like
+my consolation
+
+
+813
+0:22:0,91 --> 0:22:2,1
+prize for dead last.
+
+
+814
+0:22:2,1 --> 0:22:2,76
+WIL WHEATON: OK, two.
+
+
+815
+0:22:2,76 --> 0:22:4,18
+All right.
+
+
+816
+0:22:4,18 --> 0:22:5,43
+Now roll again.
+
+
+817
+0:22:5,43 --> 0:22:5,83
+JENNA BUSCH: Oh, right.
+
+
+818
+0:22:5,83 --> 0:22:6,59
+Oh, god.
+
+
+819
+0:22:6,59 --> 0:22:7,23
+I love this.
+
+
+820
+0:22:7,23 --> 0:22:7,41
+GRANT IMAHARA: Wow.
+
+
+821
+0:22:7,41 --> 0:22:8,26
+That's a really powerful--
+
+
+822
+0:22:8,26 --> 0:22:8,62
+JENNA BUSCH: Three.
+
+
+823
+0:22:8,62 --> 0:22:9,43
+GRANT IMAHARA: Oh my gosh.
+
+
+824
+0:22:9,43 --> 0:22:9,77
+WIL WHEATON: Yeah.
+
+
+825
+0:22:9,77 --> 0:22:11,773
+So if you wanted to,
+oh I don't know,
+
+
+826
+0:22:11,773 --> 0:22:12,905
+squash all those ratmen.
+
+
+827
+0:22:12,905 --> 0:22:13,83
+GRANT IMAHARA: Oh, no.
+
+
+828
+0:22:13,83 --> 0:22:15,1
+WIL WHEATON: It's like
+you're getting three.
+
+
+829
+0:22:15,1 --> 0:22:17,11
+So you would normally have
+to attack with four
+
+
+830
+0:22:17,11 --> 0:22:17,79
+to get there, right?
+
+
+831
+0:22:17,79 --> 0:22:19,78
+But you get to squash
+it for one.
+
+
+832
+0:22:19,78 --> 0:22:20,193
+JENNA BUSCH: Oh.
+
+
+833
+0:22:20,193 --> 0:22:21,443
+GRANT IMAHARA: No!
+
+
+834
+0:22:21,443 --> 0:22:23,23
+
+
+
+835
+0:22:23,23 --> 0:22:26,76
+My ratmen are sitting
+ducks out there.
+
+
+836
+0:22:26,76 --> 0:22:27,43
+This is bad.
+
+
+837
+0:22:27,43 --> 0:22:29,22
+This is really bad.
+
+
+838
+0:22:29,22 --> 0:22:31,14
+JENNA BUSCH: I'm going to make
+a necklace of ratmen.
+
+
+839
+0:22:31,14 --> 0:22:32,29
+Wear it everywhere.
+
+
+840
+0:22:32,29 --> 0:22:33,13
+GRANT IMAHARA: Oh my gosh.
+
+
+841
+0:22:33,13 --> 0:22:33,51
+WIL WHEATON: OK.
+
+
+842
+0:22:33,51 --> 0:22:34,88
+So that ratman goes away.
+
+
+843
+0:22:34,88 --> 0:22:36,12
+GRANT IMAHARA: My ratman
+kingdom is quickly
+
+
+844
+0:22:36,12 --> 0:22:36,583
+evaporating.
+
+
+845
+0:22:36,583 --> 0:22:38,28
+SEAN PLOTT: I've spent
+all game--
+
+
+846
+0:22:38,28 --> 0:22:38,49
+JENNA BUSCH: I'm sorry.
+
+
+847
+0:22:38,49 --> 0:22:40,24
+WIL WHEATON: Roll again.
+
+
+848
+0:22:40,24 --> 0:22:40,84
+JENNA BUSCH: Three.
+
+
+849
+0:22:40,84 --> 0:22:41,29
+WIL WHEATON: Three.
+
+
+850
+0:22:41,29 --> 0:22:41,93
+GRANT IMAHARA: Ahh.
+
+
+851
+0:22:41,93 --> 0:22:42,28
+JENNA BUSCH: Huh.
+
+
+852
+0:22:42,28 --> 0:22:43,26
+WIL WHEATON: Oh, dude.
+
+
+853
+0:22:43,26 --> 0:22:43,81
+GRANT IMAHARA: Oh!
+
+
+854
+0:22:43,81 --> 0:22:45,235
+WIL WHEATON: Normally you'd need
+four, but you actually
+
+
+855
+0:22:45,235 --> 0:22:46,0
+only need one.
+
+
+856
+0:22:46,0 --> 0:22:46,952
+Aw, man.
+
+
+857
+0:22:46,952 --> 0:22:47,43
+Oh, no.
+
+
+858
+0:22:47,43 --> 0:22:48,8
+JENNA BUSCH: Oh, this is fun.
+
+
+859
+0:22:48,8 --> 0:22:49,43
+I like the crazy bitches.
+
+
+860
+0:22:49,43 --> 0:22:49,61
+WIL WHEATON: Wow.
+
+
+861
+0:22:49,61 --> 0:22:49,85
+JENNA BUSCH: All right.
+
+
+862
+0:22:49,85 --> 0:22:50,87
+GRANT IMAHARA: They are--
+
+
+863
+0:22:50,87 --> 0:22:52,17
+WIL WHEATON: Shut up!
+
+
+864
+0:22:52,17 --> 0:22:53,69
+SEAN PLOTT: How do
+you run so good?
+
+
+865
+0:22:53,69 --> 0:22:54,19
+WIL WHEATON: Did you
+see that, Grant?
+
+
+866
+0:22:54,19 --> 0:22:56,19
+JENNA BUSCH: Because I suck
+the rest of the game.
+
+
+867
+0:22:56,19 --> 0:22:56,86
+GRANT IMAHARA: It's
+right on the edge.
+
+
+868
+0:22:56,86 --> 0:22:58,86
+WIL WHEATON: She rolled
+a three again.
+
+
+869
+0:22:58,86 --> 0:22:59,3
+GRANT IMAHARA: Oh!
+
+
+870
+0:22:59,3 --> 0:22:59,74
+WIL WHEATON: Go ahead.
+
+
+871
+0:22:59,74 --> 0:22:59,91
+Go ahead.
+
+
+872
+0:22:59,91 --> 0:23:2,854
+GRANT IMAHARA: You're
+killing me.
+
+
+873
+0:23:2,854 --> 0:23:3,61
+WIL WHEATON: That goes there.
+
+
+874
+0:23:3,61 --> 0:23:4,38
+Here you go.
+
+
+875
+0:23:4,38 --> 0:23:5,495
+Keep collecting ratmen.
+
+
+876
+0:23:5,495 --> 0:23:6,21
+JENNA BUSCH: Thank you.
+
+
+877
+0:23:6,21 --> 0:23:8,61
+SEAN PLOTT: This is, like,
+probabilistically impossible.
+
+
+878
+0:23:8,61 --> 0:23:11,52
+JENNA BUSCH: I'm going
+to go there.
+
+
+879
+0:23:11,52 --> 0:23:12,4
+WIL WHEATON: OK.
+
+
+880
+0:23:12,4 --> 0:23:13,63
+GRANT IMAHARA: Jenna, please.
+
+
+881
+0:23:13,63 --> 0:23:15,32
+Please.
+
+
+882
+0:23:15,32 --> 0:23:16,24
+SEAN PLOTT: Berzerking
+Amazons.
+
+
+883
+0:23:16,24 --> 0:23:16,7
+JENNA BUSCH: Oh.
+
+
+884
+0:23:16,7 --> 0:23:18,77
+GRANT IMAHARA: You
+love ratmen.
+
+
+885
+0:23:18,77 --> 0:23:19,57
+Come on.
+
+
+886
+0:23:19,57 --> 0:23:20,61
+WIL WHEATON: That's going
+to cost you three.
+
+
+887
+0:23:20,61 --> 0:23:21,22
+JENNA BUSCH: All right.
+
+
+888
+0:23:21,22 --> 0:23:22,567
+That's totally worth it.
+
+
+889
+0:23:22,567 --> 0:23:23,94
+Sorry, Grant.
+
+
+890
+0:23:23,94 --> 0:23:24,26
+WIL WHEATON: All right.
+
+
+891
+0:23:24,26 --> 0:23:26,23
+Let's count up the points
+you have now.
+
+
+892
+0:23:26,23 --> 0:23:26,49
+GRANT IMAHARA: Oh my god.
+
+
+893
+0:23:26,49 --> 0:23:27,17
+WIL WHEATON: OK.
+
+
+894
+0:23:27,17 --> 0:23:30,43
+1, 2, 3, 4 Tritons.
+
+
+895
+0:23:30,43 --> 0:23:34,79
+5, 6, 7, 8, 9, 10, 11,
+12 total for Amazons.
+
+
+896
+0:23:34,79 --> 0:23:36,57
+SEAN PLOTT: Or as Grant
+would say, par.
+
+
+897
+0:23:36,57 --> 0:23:38,59
+GRANT IMAHARA: Oh, right.
+
+
+898
+0:23:38,59 --> 0:23:39,45
+WIL WHEATON: All right.
+
+
+899
+0:23:39,45 --> 0:23:40,24
+Sean, you're up.
+
+
+900
+0:23:40,24 --> 0:23:42,3
+SEAN PLOTT: I'm choosing the
+top race with the tokens
+
+
+901
+0:23:42,3 --> 0:23:43,1
+sitting on it.
+
+
+902
+0:23:43,1 --> 0:23:43,36
+WIL WHEATON: OK.
+
+
+903
+0:23:43,36 --> 0:23:44,61
+Commando trolls.
+
+
+904
+0:23:44,61 --> 0:23:58,722
+
+
+
+905
+0:23:58,722 --> 0:23:59,23
+SEAN PLOTT: All right.
+
+
+906
+0:23:59,23 --> 0:24:1,165
+So let's go ahead and just
+do some invading.
+
+
+907
+0:24:1,165 --> 0:24:1,65
+All right.
+
+
+908
+0:24:1,65 --> 0:24:2,94
+So one.
+
+
+909
+0:24:2,94 --> 0:24:4,63
+Or is this for any territory?
+
+
+910
+0:24:4,63 --> 0:24:6,0
+WIL WHEATON: Yep.
+
+
+911
+0:24:6,0 --> 0:24:6,255
+SEAN PLOTT: Wow.
+
+
+912
+0:24:6,255 --> 0:24:6,51
+That's--
+
+
+913
+0:24:6,51 --> 0:24:6,92
+GRANT IMAHARA: Wow.
+
+
+914
+0:24:6,92 --> 0:24:8,65
+WIL WHEATON: Every territory's
+attacked at lesson one.
+
+
+915
+0:24:8,65 --> 0:24:9,2
+SEAN PLOTT: All right.
+
+
+916
+0:24:9,2 --> 0:24:10,72
+WIL WHEATON: Interesting that
+you went there instead of
+
+
+917
+0:24:10,72 --> 0:24:11,974
+after the ratmen.
+
+
+918
+0:24:11,974 --> 0:24:12,451
+GRANT IMAHARA: Yeah.
+
+
+919
+0:24:12,451 --> 0:24:14,84
+A little sympathy for
+the ratmen now.
+
+
+920
+0:24:14,84 --> 0:24:15,315
+Oh.
+
+
+921
+0:24:15,315 --> 0:24:17,69
+WIL WHEATON: You didn't come
+up with a backstory for me.
+
+
+922
+0:24:17,69 --> 0:24:19,41
+SEAN PLOTT: Here, let me just
+put this with my collection.
+
+
+923
+0:24:19,41 --> 0:24:21,76
+GRANT IMAHARA: Oh, you
+filthy swamp rats.
+
+
+924
+0:24:21,76 --> 0:24:22,23
+SEAN PLOTT: All right.
+
+
+925
+0:24:22,23 --> 0:24:23,64
+So I'm doing one of those.
+
+
+926
+0:24:23,64 --> 0:24:23,886
+WIL WHEATON: Yep.
+
+
+927
+0:24:23,886 --> 0:24:23,97
+OK.
+
+
+928
+0:24:23,97 --> 0:24:26,66
+GRANT IMAHARA: Kids, let this
+be a lesson to you.
+
+
+929
+0:24:26,66 --> 0:24:28,86
+If you're mean to all the other
+players at the beginning
+
+
+930
+0:24:28,86 --> 0:24:31,61
+of the game, they will
+gang up on you.
+
+
+931
+0:24:31,61 --> 0:24:35,328
+And at the end of the game, you
+got three lousy ratmen.
+
+
+932
+0:24:35,328 --> 0:24:36,6
+SEAN PLOTT: I'm going
+to make it intense.
+
+
+933
+0:24:36,6 --> 0:24:37,32
+WIL WHEATON: All right, Grant.
+
+
+934
+0:24:37,32 --> 0:24:38,85
+GRANT IMAHARA: Swamp ratmen.
+
+
+935
+0:24:38,85 --> 0:24:39,64
+WIL WHEATON: Yep.
+
+
+936
+0:24:39,64 --> 0:24:40,41
+Where are they going?
+
+
+937
+0:24:40,41 --> 0:24:41,99
+GRANT IMAHARA: They're
+going on the swamp.
+
+
+938
+0:24:41,99 --> 0:24:43,29
+Just to grab that last--
+
+
+939
+0:24:43,29 --> 0:24:43,89
+WIL WHEATON: Amazon comes
+off the board.
+
+
+940
+0:24:43,89 --> 0:24:44,36
+GRANT IMAHARA: --bonus.
+
+
+941
+0:24:44,36 --> 0:24:45,89
+WIL WHEATON: So here you go.
+
+
+942
+0:24:45,89 --> 0:24:50,7
+You get one, two, three,
+four, five.
+
+
+943
+0:24:50,7 --> 0:24:53,31
+SEAN PLOTT: 6, 12,
+13, actually.
+
+
+944
+0:24:53,31 --> 0:24:55,35
+Somehow.
+
+
+945
+0:24:55,35 --> 0:24:55,84
+Amazingly.
+
+
+946
+0:24:55,84 --> 0:24:56,18
+WIL WHEATON: You know what?
+
+
+947
+0:24:56,18 --> 0:24:58,6
+You sold that so well, I was
+like oh, god, did I mess up?
+
+
+948
+0:24:58,6 --> 0:24:59,16
+Wow, Grant.
+
+
+949
+0:24:59,16 --> 0:25:0,22
+You only got five points
+that turn.
+
+
+950
+0:25:0,22 --> 0:25:0,96
+I'm really disappointed
+in you.
+
+
+951
+0:25:0,96 --> 0:25:2,34
+You've let us all down.
+
+
+952
+0:25:2,34 --> 0:25:3,32
+GRANT IMAHARA: That's OK.
+
+
+953
+0:25:3,32 --> 0:25:3,76
+WIL WHEATON: Bad fish.
+
+
+954
+0:25:3,76 --> 0:25:5,65
+You go squish now.
+
+
+955
+0:25:5,65 --> 0:25:8,59
+And let's see if we can
+squish one last fish.
+
+
+956
+0:25:8,59 --> 0:25:9,87
+May I have the die, please?
+
+
+957
+0:25:9,87 --> 0:25:10,97
+GRANT IMAHARA: The
+one last fish.
+
+
+958
+0:25:10,97 --> 0:25:11,92
+WIL WHEATON: One last fish.
+
+
+959
+0:25:11,92 --> 0:25:13,8
+Guys, this is the last
+thing that's going
+
+
+960
+0:25:13,8 --> 0:25:15,856
+to happen this game.
+
+
+961
+0:25:15,856 --> 0:25:16,28
+Oh.
+
+
+962
+0:25:16,28 --> 0:25:16,64
+SEAN PLOTT: Oh.
+
+
+963
+0:25:16,64 --> 0:25:17,81
+GRANT IMAHARA: Oh.
+
+
+964
+0:25:17,81 --> 0:25:18,8
+WIL WHEATON: No victory
+for me.
+
+
+965
+0:25:18,8 --> 0:25:19,41
+All right, everybody.
+
+
+966
+0:25:19,41 --> 0:25:20,6
+I'm going to score my points.
+
+
+967
+0:25:20,6 --> 0:25:21,32
+SEAN PLOTT: The game
+ends with a dud.
+
+
+968
+0:25:21,32 --> 0:25:25,66
+WIL WHEATON: 2, 3, 4, 5, 6, 7,
+8, 9, 10 points for me at the
+
+
+969
+0:25:25,66 --> 0:25:26,37
+end of the game.
+
+
+970
+0:25:26,37 --> 0:25:28,403
+Let us now count our scores.
+
+
+971
+0:25:28,403 --> 0:25:29,7
+JENNA BUSCH: All right.
+
+
+972
+0:25:29,7 --> 0:25:30,9
+GRANT IMAHARA: All right.
+
+
+973
+0:25:30,9 --> 0:25:31,22
+WIL WHEATON: And
+then we will--
+
+
+974
+0:25:31,22 --> 0:25:32,56
+SEAN PLOTT: Leave some
+of them face down.
+
+
+975
+0:25:32,56 --> 0:25:34,57
+Everyone pick five chips
+and put them face down.
+
+
+976
+0:25:34,57 --> 0:25:34,85
+WIL WHEATON: All right.
+
+
+977
+0:25:34,85 --> 0:25:36,65
+Are we all counted up?
+
+
+978
+0:25:36,65 --> 0:25:36,99
+Does everyone know how many
+points they have?
+
+
+979
+0:25:36,99 --> 0:25:37,88
+SEAN PLOTT: I have
+60 right now.
+
+
+980
+0:25:37,88 --> 0:25:39,43
+But I haven't flipped
+these last five.
+
+
+981
+0:25:39,43 --> 0:25:39,89
+WIL WHEATON: So OK.
+
+
+982
+0:25:39,89 --> 0:25:40,56
+You're at 60.
+
+
+983
+0:25:40,56 --> 0:25:41,35
+Flip your guys.
+
+
+984
+0:25:41,35 --> 0:25:41,75
+Let's see.
+
+
+985
+0:25:41,75 --> 0:25:42,21
+SEAN PLOTT: All right.
+
+
+986
+0:25:42,21 --> 0:25:43,507
+60.
+
+
+987
+0:25:43,507 --> 0:25:44,94
+[BEEP]
+
+
+988
+0:25:44,94 --> 0:25:46,146
+62.
+
+
+989
+0:25:46,146 --> 0:25:46,88
+Oh, 72.
+
+
+990
+0:25:46,88 --> 0:25:47,93
+WIL WHEATON: 72!
+
+
+991
+0:25:47,93 --> 0:25:48,363
+SEAN PLOTT: 82.
+
+
+992
+0:25:48,363 --> 0:25:49,23
+WIL WHEATON: 82.
+
+
+993
+0:25:49,23 --> 0:25:50,27
+SEAN PLOTT: Oh, please.
+
+
+994
+0:25:50,27 --> 0:25:51,903
+Huh, 87.
+
+
+995
+0:25:51,903 --> 0:25:52,92
+GRANT IMAHARA: 87.
+
+
+996
+0:25:52,92 --> 0:25:53,86
+WIL WHEATON: Grant.
+
+
+997
+0:25:53,86 --> 0:25:54,43
+GRANT IMAHARA: All right.
+
+
+998
+0:25:54,43 --> 0:25:57,68
+So this is 10, 20, 30, 40.
+
+
+999
+0:25:57,68 --> 0:26:0,44
+SEAN PLOTT: God, my heart
+is beating so fast.
+
+
+1000
+0:26:0,44 --> 0:26:2,27
+GRANT IMAHARA: 41.
+
+
+1001
+0:26:2,27 --> 0:26:4,835
+WIL WHEATON: 51, 61.
+
+
+1002
+0:26:4,835 --> 0:26:6,29
+You did this on purpose.
+
+
+1003
+0:26:6,29 --> 0:26:7,8
+GRANT IMAHARA: I sure did.
+
+
+1004
+0:26:7,8 --> 0:26:9,16
+WIL WHEATON: 71.
+
+
+1005
+0:26:9,16 --> 0:26:9,325
+SEAN PLOTT: Wait.
+
+
+1006
+0:26:9,325 --> 0:26:9,811
+What?
+
+
+1007
+0:26:9,811 --> 0:26:10,673
+JENNA BUSCH: Woah.
+
+
+1008
+0:26:10,673 --> 0:26:12,4
+WIL WHEATON: 81.
+
+
+1009
+0:26:12,4 --> 0:26:12,66
+SEAN PLOTT: Wait.
+
+
+1010
+0:26:12,66 --> 0:26:13,36
+Oh my god.
+
+
+1011
+0:26:13,36 --> 0:26:13,6
+Wait.
+
+
+1012
+0:26:13,6 --> 0:26:13,98
+Hey, whoa.
+
+
+1013
+0:26:13,98 --> 0:26:15,23
+What the [BEEP]?
+
+
+1014
+0:26:15,23 --> 0:26:17,56
+
+
+
+1015
+0:26:17,56 --> 0:26:19,24
+Oh my god.
+
+
+1016
+0:26:19,24 --> 0:26:26,58
+WIL WHEATON: 10, 20, 30,
+40, 50, 60, 70, 85.
+
+
+1017
+0:26:26,58 --> 0:26:29,46
+GRANT IMAHARA: No!
+
+
+1018
+0:26:29,46 --> 0:26:29,53
+WIL WHEATON: Jenna.
+
+
+1019
+0:26:29,53 --> 0:26:30,205
+SEAN PLOTT: Oh my god.
+
+
+1020
+0:26:30,205 --> 0:26:30,69
+JENNA BUSCH: 74.
+
+
+1021
+0:26:30,69 --> 0:26:32,17
+I could be dramatic,
+but it's-- yeah.
+
+
+1022
+0:26:32,17 --> 0:26:33,19
+WIL WHEATON: 74.
+
+
+1023
+0:26:33,19 --> 0:26:34,75
+Sean, you win the game!
+
+
+1024
+0:26:34,75 --> 0:26:35,94
+SEAN PLOTT: I didn't
+even know.
+
+
+1025
+0:26:35,94 --> 0:26:38,692
+I thought I was in dead last.
+
+
+1026
+0:26:38,692 --> 0:26:39,564
+GRANT IMAHARA: Ohh.
+
+
+1027
+0:26:39,564 --> 0:26:41,54
+WIL WHEATON: Do you want
+to take a lap around
+
+
+1028
+0:26:41,54 --> 0:26:42,436
+the table or something?
+
+
+1029
+0:26:42,436 --> 0:26:43,308
+JENNA BUSCH: I think
+that you should.
+
+
+1030
+0:26:43,308 --> 0:26:44,18
+WIL WHEATON: It feels good.
+
+
+1031
+0:26:44,18 --> 0:26:46,25
+SEAN PLOTT: I started out
+enraged because Grant kept
+
+
+1032
+0:26:46,25 --> 0:26:48,83
+invading my territory and
+getting, like, 11, 12 point
+
+
+1033
+0:26:48,83 --> 0:26:50,39
+turns back to back to back.
+
+
+1034
+0:26:50,39 --> 0:26:54,64
+However, Jenna kindly invaded
+his homelands, giving me the
+
+
+1035
+0:26:54,64 --> 0:26:56,29
+chance to catch up in
+the last few rounds.
+
+
+1036
+0:26:56,29 --> 0:26:58,69
+GRANT IMAHARA: I was completely
+paralyzed.
+
+
+1037
+0:26:58,69 --> 0:27:2,38
+I think I scored the lowest
+I had the entire game.
+
+
+1038
+0:27:2,38 --> 0:27:5,52
+JENNA BUSCH: I'd also like to
+point out that I took him down
+
+
+1039
+0:27:5,52 --> 0:27:8,11
+with the only female character
+in the game.
+
+
+1040
+0:27:8,11 --> 0:27:10,69
+WIL WHEATON: I had no idea that
+I was going to lose this
+
+
+1041
+0:27:10,69 --> 0:27:12,17
+by just two points.
+
+
+1042
+0:27:12,17 --> 0:27:13,0
+SEAN PLOTT: Total luck for me.
+
+
+1043
+0:27:13,0 --> 0:27:16,45
+I was just a participator in the
+coincidence that wound up
+
+
+1044
+0:27:16,45 --> 0:27:17,35
+giving me victories.
+
+
+1045
+0:27:17,35 --> 0:27:18,246
+WIL WHEATON: What
+a great game!
+
+
+1046
+0:27:18,246 --> 0:27:19,496
+GRANT IMAHARA: Oh my god.
+
+
+1047
+0:27:19,496 --> 0:27:26,0
+
+
+
+1048
+0:27:26,0 --> 0:27:28,6
+WIL WHEATON: You know, the
+only thing worse than me
+
+
+1049
+0:27:28,6 --> 0:27:30,57
+thinking you were going to win
+was actually thinking I was
+
+
+1050
+0:27:30,57 --> 0:27:31,44
+going to win.
+
+
+1051
+0:27:31,44 --> 0:27:32,99
+JENNA BUSCH: I never thought
+I was going to win.
+
+
+1052
+0:27:32,99 --> 0:27:34,852
+WIL WHEATON: And then losing
+by two points.
+
+
+1053
+0:27:34,852 --> 0:27:37,27
+GRANT IMAHARA: Right in the last
+round, that's where it
+
+
+1054
+0:27:37,27 --> 0:27:38,231
+went wrong.
+
+
+1055
+0:27:38,231 --> 0:27:39,704
+No!
+
+
+1056
+0:27:39,704 --> 0:27:41,177
+WIL WHEATON: Will you
+play it again?
+
+
+1057
+0:27:41,177 --> 0:27:41,67
+JENNA BUSCH: Yes.
+
+
+1058
+0:27:41,67 --> 0:27:42,72
+WIL WHEATON: That's awesome.
+
+
+1059
+0:27:42,72 --> 0:27:44,95
+TableTop mission accomplished.
+
+
+1060
+0:27:44,95 --> 0:27:46,4
+Thanks lot, you guys, really.
+
+
+1061
+0:27:46,4 --> 0:27:46,49
+I mean it.
+
+
+1062
+0:27:46,49 --> 0:27:47,44
+Please enjoy.
+
+
+1063
+0:27:47,44 --> 0:27:49,31
+You can sit on this couch
+as long as you need to.
+
+
+1064
+0:27:49,31 --> 0:27:51,27
+I'm going to go downstairs, and
+I'm going to talk to Sean
+
+
+1065
+0:27:51,27 --> 0:27:53,72
+about the victory that I think
+none of us thought we would be
+
+
+1066
+0:27:53,72 --> 0:27:54,657
+talking about today.
+
+
+1067
+0:27:54,657 --> 0:27:55,74
+JENNA BUSCH: Cool.
+
+
+1068
+0:27:55,74 --> 0:27:55,91
+GRANT IMAHARA: All right.
+
+
+1069
+0:27:55,91 --> 0:27:57,752
+JENNA BUSCH: I kicked
+your ratmen's asses.
+
+
+1070
+0:27:57,752 --> 0:27:59,44
+GRANT IMAHARA: Ugh.
+
+
+1071
+0:27:59,44 --> 0:27:59,89
+JENNA BUSCH: I did.
+
+
+1072
+0:27:59,89 --> 0:28:0,97
+GRANT IMAHARA: Right
+in the last round.
+
+
+1073
+0:28:0,97 --> 0:28:3,53
+JENNA BUSCH: With my
+crazy bitches.
+
+
+1074
+0:28:3,53 --> 0:28:5,19
+WIL WHEATON: I don't know
+which one of us is more
+
+
+1075
+0:28:5,19 --> 0:28:8,86
+surprised that we're both
+standing here right now.
+
+
+1076
+0:28:8,86 --> 0:28:9,24
+SEAN PLOTT: Yeah.
+
+
+1077
+0:28:9,24 --> 0:28:12,21
+Because I was expecting Grant to
+just be light years ahead.
+
+
+1078
+0:28:12,21 --> 0:28:12,4
+WIL WHEATON: Yeah.
+
+
+1079
+0:28:12,4 --> 0:28:14,3
+SEAN PLOTT: And then when the
+game ended, I was like, I've
+
+
+1080
+0:28:14,3 --> 0:28:16,74
+been such an asshole
+all game long.
+
+
+1081
+0:28:16,74 --> 0:28:17,72
+Oh, no.
+
+
+1082
+0:28:17,72 --> 0:28:18,86
+WIL WHEATON: Not only did
+you win the game,
+
+
+1083
+0:28:18,86 --> 0:28:20,66
+you also won a ratman.
+
+
+1084
+0:28:20,66 --> 0:28:21,18
+SEAN PLOTT: I did?
+
+
+1085
+0:28:21,18 --> 0:28:21,5
+Yeah.
+
+
+1086
+0:28:21,5 --> 0:28:23,75
+I'm going to of course
+get the two earrings.
+
+
+1087
+0:28:23,75 --> 0:28:24,94
+Maybe I'll have a third
+one so I can get the
+
+
+1088
+0:28:24,94 --> 0:28:25,93
+nose piercing as well.
+
+
+1089
+0:28:25,93 --> 0:28:27,26
+WIL WHEATON: I think that's
+a great idea.
+
+
+1090
+0:28:27,26 --> 0:28:28,52
+And when you do that, if
+you would just send us
+
+
+1091
+0:28:28,52 --> 0:28:29,24
+a picture of it--
+
+
+1092
+0:28:29,24 --> 0:28:30,7
+SEAN PLOTT: Yeah.
+
+
+1093
+0:28:30,7 --> 0:28:32,7
+WIL WHEATON: --so that we can
+put it on the website.
+
+
+1094
+0:28:32,7 --> 0:28:35,5
+But listen, you get a real
+prize for having
+
+
+1095
+0:28:35,5 --> 0:28:36,77
+won today on TableTop.
+
+
+1096
+0:28:36,77 --> 0:28:40,27
+We have spared no expense to
+bring you this incredible
+
+
+1097
+0:28:40,27 --> 0:28:42,12
+TableTop trophy of awesome.
+
+
+1098
+0:28:42,12 --> 0:28:43,31
+SEAN PLOTT: Is that real tape?
+
+
+1099
+0:28:43,31 --> 0:28:45,37
+WIL WHEATON: It is, in fact,
+actual real tape.
+
+
+1100
+0:28:45,37 --> 0:28:49,27
+Listen, we do not cut corners
+for guys like you.
+
+
+1101
+0:28:49,27 --> 0:28:52,26
+So let me just make sure that
+everyone knows that this
+
+
+1102
+0:28:52,26 --> 0:28:54,66
+belongs to Sean.
+
+
+1103
+0:28:54,66 --> 0:28:56,13
+SEAN PLOTT: That is
+I. And may I?
+
+
+1104
+0:28:56,13 --> 0:28:56,79
+WIL WHEATON: Yes, please do.
+
+
+1105
+0:28:56,79 --> 0:28:58,85
+Is there anything you'd like to
+say to the folks at home?
+
+
+1106
+0:28:58,85 --> 0:29:1,2
+SEAN PLOTT: I would like to
+thank everyone who plays
+
+
+1107
+0:29:1,2 --> 0:29:4,45
+German-style board games for
+understanding the complex
+
+
+1108
+0:29:4,45 --> 0:29:6,85
+rules to that game so they can
+appreciate this trophy.
+
+
+1109
+0:29:6,85 --> 0:29:9,7
+And of course to Jenna, because
+without her, she would
+
+
+1110
+0:29:9,7 --> 0:29:12,54
+not have appropriately mauled
+Grant in the last round.
+
+
+1111
+0:29:12,54 --> 0:29:13,56
+WIL WHEATON: Well,
+congratulations.
+
+
+1112
+0:29:13,56 --> 0:29:15,22
+You absolutely earned
+that trophy.
+
+
+1113
+0:29:15,22 --> 0:29:16,52
+And now I have to
+take it back--
+
+
+1114
+0:29:16,52 --> 0:29:16,91
+SEAN PLOTT: Oh.
+
+
+1115
+0:29:16,91 --> 0:29:18,82
+WIL WHEATON: --because we don't
+have enough budget for
+
+
+1116
+0:29:18,82 --> 0:29:19,47
+more than one trophy.
+
+
+1117
+0:29:19,47 --> 0:29:20,9
+SEAN PLOTT: May I at least get
+a departing handshake?
+
+
+1118
+0:29:20,9 --> 0:29:21,93
+WIL WHEATON: Yes, absolutely.
+
+
+1119
+0:29:21,93 --> 0:29:24,88
+You can also have a departing
+piece of tape--
+
+
+1120
+0:29:24,88 --> 0:29:25,22
+SEAN PLOTT: Oh, yeah.
+
+
+1121
+0:29:25,22 --> 0:29:26,24
+WIL WHEATON: --with
+your name on it.
+
+
+1122
+0:29:26,24 --> 0:29:29,43
+So all day long everyone gets to
+know that you are Sean, and
+
+
+1123
+0:29:29,43 --> 0:29:30,34
+you are a winner.
+
+
+1124
+0:29:30,34 --> 0:29:32,62
+SEAN PLOTT: I can't wait to go
+to the nearest coffee shop.
+
+
+1125
+0:29:32,62 --> 0:29:33,72
+WIL WHEATON: Congratulations.
+
+
+1126
+0:29:33,72 --> 0:29:34,34
+SEAN PLOTT: Thank you.
+
+
+1127
+0:29:34,34 --> 0:29:36,45
+WIL WHEATON: We will see you
+next time on TableTop.
+
+
+1128
+0:29:36,45 --> 0:31:36,45
+
+
+

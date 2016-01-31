@@ -1,0 +1,3485 @@
+1
+0:0:4,29 --> 0:0:6,85
+bjbj< Brandon Schauer: When I think about
+John, I think about the William Gibson quote
+
+
+2
+0:0:6,85 --> 0:0:11,62
+that s quite popular, which is, The future
+is already here. It s just not evenly distributed.
+
+
+3
+0:0:11,62 --> 0:0:20,5
+John s a guy who goes and finds where it s
+unevenly distributed, too. Tells the story.
+
+
+4
+0:0:20,5 --> 0:0:26,59
+Brings back empirical data about it, and tells
+us what matters about it. I think he s really
+
+
+5
+0:0:26,59 --> 0:0:31,66
+important for this crowd because he s going
+to tell us about the way our work needs to
+
+
+6
+0:0:31,66 --> 0:0:37,64
+change. Our work, anyone in an organization
+who really wants to be relevant and perform
+
+
+7
+0:0:37,64 --> 0:0:42,82
+well. As you can see from the program, he
+has quite a distinguished background. He s
+
+
+8
+0:0:42,82 --> 0:0:49,14
+held top positions, leading consultancies,
+such as McKinsey and Boston Consulting Group,
+
+
+9
+0:0:49,14 --> 0:0:55,6
+and he s currently serving as a co-chair of
+the Silicon Valley-based Deloitte LP Center
+
+
+10
+0:0:55,6 --> 0:1:2,1
+for the Edge, and he s doing a lot of original
+research to develop new points of view on
+
+
+11
+0:1:2,1 --> 0:1:9,35
+corporate growth, but the latest of his books,
+which is down here cause I just had him sign
+
+
+12
+0:1:9,35 --> 0:1:14,96
+it, co-authored with John Seely Brown and
+Lang Davison, is The Power of Pull from which
+
+
+13
+0:1:14,96 --> 0:1:21,64
+he will be pulling some of his ideas for today.
+So I think it s critical for us to listen
+
+
+14
+0:1:21,64 --> 0:1:27,17
+to him because he s going to tell us what
+needs to change about how we need to work.
+
+
+15
+0:1:27,17 --> 0:1:31,159
+As mentors of your acts, you re already in
+a potentially powerful position as being someone
+
+
+16
+0:1:31,159 --> 0:1:37,28
+who spends time with customers and spends
+a lot of time looking at the behaviors they
+
+
+17
+0:1:37,28 --> 0:1:42,96
+have. There s an interesting stream of data
+that you cross and pull into your own organizations
+
+
+18
+0:1:42,96 --> 0:1:47,689
+and see how the organization is actually doing
+work to serve these customers. These are two
+
+
+19
+0:1:47,689 --> 0:1:55,1
+critical points of data, but I caution that
+if we don t spend time listening and paying
+
+
+20
+0:1:55,1 --> 0:2:1,24
+attention to what John has to say, and the
+realizations he has about the nature of how
+
+
+21
+0:2:1,24 --> 0:2:5,53
+our work should change, we could potentially
+be marginalized and really left behind those
+
+
+22
+0:2:5,53 --> 0:2:12,49
+who are really performing well and better
+than us in the UX business. So please listen
+
+
+23
+0:2:12,49 --> 0:2:25,669
+up, and I d love to invite John Hagel III
+to the stage. John Hagel III: Hi. It s great
+
+
+24
+0:2:25,669 --> 0:2:30,459
+to be here this afternoon. I m particularly
+privileged to speak a group that s at the
+
+
+25
+0:2:30,459 --> 0:2:37,2
+leading edge of experience design. It s somewhat
+intimidating, though, because I confess I
+
+
+26
+0:2:37,2 --> 0:2:46,9
+come before you without any slides whatsoever
+or any visual aids whatsoever so I am the
+
+
+27
+0:2:46,9 --> 0:2:54,749
+experience here. It s clear that I m not a
+designer. I m a simple business guy. I think
+
+
+28
+0:2:54,749 --> 0:3:0,9
+I m what many of you refer to as the suits,
+and I don t think you re referring to the
+
+
+29
+0:3:0,9 --> 0:3:6,569
+fine cut of our tailored suits when you use
+that term. ll just start by saying that I
+
+
+30
+0:3:6,569 --> 0:3:14,54
+m in awe of what you ve accomplished over
+the past decade. Moving the design mentality
+
+
+31
+0:3:14,54 --> 0:3:21,999
+mindset skill set from the design of products
+and services to the design of experiences
+
+
+32
+0:3:21,999 --> 0:3:28,609
+of the users of those products and services
+helps to more effectively pull out the real
+
+
+33
+0:3:28,609 --> 0:3:35,499
+potential value of the products and services
+they re dealing with, but as impressive as
+
+
+34
+0:3:35,499 --> 0:3:41,689
+that is, I want to suggest that there s another
+wave of opportunity ahead, and that is to
+
+
+35
+0:3:41,689 --> 0:3:49,739
+design experiences that help all of us to
+pull out the full potential of ourselves,
+
+
+36
+0:3:49,739 --> 0:3:56,699
+and not just the products and services that
+we use. What if we could apply the tools and
+
+
+37
+0:3:56,699 --> 0:4:3,689
+principles of experience design to help each
+of us to more effectively drive more rapid
+
+
+38
+0:4:3,689 --> 0:4:10,26
+waves of learning and performance improvement
+by working together? I want to illustrate
+
+
+39
+0:4:10,26 --> 0:4:15,749
+that opportunity by going back in time to
+the beginning of my career. As Brandon mentioned,
+
+
+40
+0:4:15,749 --> 0:4:22,83
+I started a long time ago at Boston Consulting
+Group. Boston Consulting Group is a strategy
+
+
+41
+0:4:22,83 --> 0:4:30,7
+consulting firm. They basically built their
+reputation on one chart, one visual aid, and
+
+
+42
+0:4:30,7 --> 0:4:36,72
+it was called the Experience Curve. What the
+Experience Curve did was describe how performance
+
+
+43
+0:4:36,72 --> 0:4:41,7
+improves, and it started by looking at the
+semiconductor industry, and looked at operating
+
+
+44
+0:4:41,7 --> 0:4:47,35
+performance improvement in the semiconductor
+industry over many, many years, and it had
+
+
+45
+0:4:47,35 --> 0:4:53,8
+a very distinctive pattern to it, and over
+the years BCG applied this analysis to industry
+
+
+46
+0:4:53,8 --> 0:5:0,54
+after industry everything from Japanese beer
+to toilet paper. All of it follows the experience
+
+
+47
+0:5:0,54 --> 0:5:6,7
+curve as a way of describing how performance
+improves in markets and industries. So it
+
+
+48
+0:5:6,7 --> 0:5:13,88
+s a very accurate description of performance
+improvement, but it has one distinctive characteristic,
+
+
+49
+0:5:13,88 --> 0:5:20,1
+which I think is important to highlight here,
+which is it s a diminishing returns curve.
+
+
+50
+0:5:20,1 --> 0:5:26,7
+The more experience you accumulate in a marketer
+industry, the longer and harder you have to
+
+
+51
+0:5:26,7 --> 0:5:32,73
+work to get the next increment of performance
+improvement. It may help to explain why many
+
+
+52
+0:5:32,73 --> 0:5:39,4
+of us are feeling increasing stress in the
+markets and industries that we operate in.
+
+
+53
+0:5:39,4 --> 0:5:45,27
+But what if there were an alternative? What
+if we could turn the experience curve on its
+
+
+54
+0:5:45,27 --> 0:5:55,61
+side and generate increasing returns, rather
+than diminishing returns? What if performance
+
+
+55
+0:5:55,61 --> 0:6:4,64
+improvement accelerated as the number of participants
+expands? Now that would be powerful, but what
+
+
+56
+0:6:4,64 --> 0:6:11,43
+would it require? Well, I suggest it requires
+a lot of things, and it starts with a major
+
+
+57
+0:6:11,43 --> 0:6:18,24
+shift in our beliefs and our practices. It
+s a key dimension of what we ve described
+
+
+58
+0:6:18,24 --> 0:6:24,12
+in The Power of Pull as the big shift, and
+as a result, I think it requires a shift in
+
+
+59
+0:6:24,12 --> 0:6:31,8
+design focus so let me amplify a bit on that,
+and when I talk about shift in beliefs, I
+
+
+60
+0:6:31,8 --> 0:6:40,63
+m talking about a shift in our view of where
+and how economic value gets created. The shorthand
+
+
+61
+0:6:40,63 --> 0:6:45,64
+way we have of capturing that is saying we
+re moving from a world of stocks to a world
+
+
+62
+0:6:45,64 --> 0:6:51,7
+of flows. And what do I mean by that? Well,
+I m referring in this case not to stocks that
+
+
+63
+0:6:51,7 --> 0:6:57,2
+are traded on the stock market, but knowledge
+stocks, what we know at any point in time,
+
+
+64
+0:6:57,2 --> 0:7:1,75
+and it turns out if you ask any executive
+and really probe as to their basic beliefs
+
+
+65
+0:7:1,75 --> 0:7:7,83
+of what s created economic value, the basic
+assumption is, first of all, you have to acquire
+
+
+66
+0:7:7,83 --> 0:7:13,18
+some proprietary knowledge stocks, and then
+you have to, aggressively as possible, protect
+
+
+67
+0:7:13,18 --> 0:7:18,21
+those knowledge stocks from anybody else getting
+access to them, and then as efficiently as
+
+
+68
+0:7:18,21 --> 0:7:25,36
+possible, extract the value from those knowledge
+stocks. Huge corporations were created in
+
+
+69
+0:7:25,36 --> 0:7:30,77
+the 20th Century around this set of beliefs.
+Enormous wealth generated around this set
+
+
+70
+0:7:30,77 --> 0:7:37,41
+of beliefs. We make the case that, in fact,
+we re shifting from a world of knowledge stocks
+
+
+71
+0:7:37,41 --> 0:7:41,62
+to a world of knowledge flows, and the reason
+for that is, if you think about it, anything
+
+
+72
+0:7:41,62 --> 0:7:51,91
+you know today has more and more rapidly depreciating
+value. What we know today has a very limited
+
+
+73
+0:7:51,91 --> 0:7:57,73
+shelf life. The shelf life is shrinking over
+time, and the only way you can create economic
+
+
+74
+0:7:57,73 --> 0:8:4,18
+value in that kind of environment is to find
+ways to more effectively participate in a
+
+
+75
+0:8:4,18 --> 0:8:10,77
+larger number of more diverse knowledge flows
+so that you can refresh those knowledge stocks
+
+
+76
+0:8:10,77 --> 0:8:17,79
+at an accelerating rate. Fundamentally different
+view of what s required to create economic
+
+
+77
+0:8:17,79 --> 0:8:23,45
+value. Now in this context I m actually very
+intrigued. I ve just recently encountered
+
+
+78
+0:8:23,45 --> 0:8:29,9
+a set of design theories that are known as
+constructal design theories generated by two
+
+
+79
+0:8:29,9 --> 0:8:36,309
+people: Adrian Bejan and Sylvie Laurent, and
+what they ve done is they ve built a design
+
+
+80
+0:8:36,309 --> 0:8:42,509
+perspective based on what they call a constructal
+law that they ve observed now in playing out
+
+
+81
+0:8:42,509 --> 0:8:50,23
+across physical environments, biological environments
+and social systems. And essentially what the
+
+
+82
+0:8:50,23 --> 0:8:57,35
+constructal law says is that in order to survive,
+systems have to evolve greater and greater
+
+
+83
+0:8:57,35 --> 0:9:8,209
+access to the currents that flow through them.
+Whether we re talking about riverbeds, trees,
+
+
+84
+0:9:8,209 --> 0:9:16,86
+the design of our lungs or our cities, it
+turns out they all obey this constructal law.
+
+
+85
+0:9:16,86 --> 0:9:23,5
+Systems that survive and thrive are those
+that evolve most rapidly and effectively to
+
+
+86
+0:9:23,5 --> 0:9:30,209
+enhance those flows within those systems.
+So I think two interesting implications from
+
+
+87
+0:9:30,209 --> 0:9:38,579
+this perspective: one is that the whole emphasis
+on system design is on enhancing flows. That
+
+
+88
+0:9:38,579 --> 0:9:43,759
+really is the mark of a successful system
+and experience within the system, and it s
+
+
+89
+0:9:43,759 --> 0:9:48,48
+also an emphasis on evolving systems, not
+static systems because the emphasis here is
+
+
+90
+0:9:48,48 --> 0:9:52,779
+these systems are continually evolving, and
+if they re not they re in trouble, and they
+
+
+91
+0:9:52,779 --> 0:9:57,72
+re continuing evolving along a certain pattern,
+which is how do you more effectively generate
+
+
+92
+0:9:57,72 --> 0:10:5,399
+and support the flows within the system. So
+what would it mean to design the systems we
+
+
+93
+0:10:5,399 --> 0:10:11,4
+live and work in to continually evolve our
+ability to experience more and more flow,
+
+
+94
+0:10:11,4 --> 0:10:23,189
+especially the flow of people and of ideas?
+So that s one shift: the shift in beliefs
+
+
+95
+0:10:23,189 --> 0:10:30,199
+from stocks to flows. There s a corollary
+to this, which is a shift in practices. If
+
+
+96
+0:10:30,199 --> 0:10:34,48
+they were fundamentally changing in terms
+of where the source of economic value is,
+
+
+97
+0:10:34,48 --> 0:10:39,529
+it stands to reason that the practices we
+use to create economic value are going to
+
+
+98
+0:10:39,529 --> 0:10:44,68
+have to change in a significant way as well,
+and the way we capture this is the notion
+
+
+99
+0:10:44,68 --> 0:10:52,8
+of moving from a world of push to a world
+of pull. Again, if you go back in time to
+
+
+100
+0:10:52,8 --> 0:10:58,869
+the 20th Century, the large companies that
+succeeded in the 20th Century were operating
+
+
+101
+0:10:58,869 --> 0:11:5,249
+on a push model. Basically said the key is
+to forecast and predict demand, and then make
+
+
+102
+0:11:5,249 --> 0:11:10,129
+sure that all the right people and resources
+are in the right place at the right time to
+
+
+103
+0:11:10,129 --> 0:11:16,43
+meet that demand. Again, huge multinational
+corporations created with this push model,
+
+
+104
+0:11:16,43 --> 0:11:22,809
+enormous wealth created. On the other hand,
+if we re living in a more uncertain and more
+
+
+105
+0:11:22,809 --> 0:11:28,639
+rapidly changing world, that kind of push
+model becomes more and more challenging, more
+
+
+106
+0:11:28,639 --> 0:11:33,36
+and more problematic, and the questions is
+then, well, what s the replacement? What s
+
+
+107
+0:11:33,36 --> 0:11:39,369
+the option? Well, we argue that it s all about
+pull practices. Now many of you, when I say
+
+
+108
+0:11:39,369 --> 0:11:44,209
+pull, are going to have a certain mindset
+or image of what I mean by pull. I want to
+
+
+109
+0:11:44,209 --> 0:11:49,779
+kind of expand that, hopefully. I think it
+probably expands by talking about three levels
+
+
+110
+0:11:49,779 --> 0:11:55,689
+of pull that are becoming increasingly important.
+There s one level, which is probably the most
+
+
+111
+0:11:55,689 --> 0:12:2,459
+obvious, which I call access. It s simply
+the notion of how do I more effectively access
+
+
+112
+0:12:2,459 --> 0:12:7,74
+people and resources when I need them or where
+I need them? It s basic search functionality
+
+
+113
+0:12:7,74 --> 0:12:13,249
+that Google offers. It s the shift from push-based
+media to pull-based media so you can pull
+
+
+114
+0:12:13,249 --> 0:12:19,66
+the media you want, experience at any point
+in time wherever you want it. Now that s a
+
+
+115
+0:12:19,66 --> 0:12:25,449
+powerful of pull, but it s just the first
+level. I haven t even begun to tap into the
+
+
+116
+0:12:25,449 --> 0:12:30,29
+opportunity around pull, which comes starting
+with the second level, which is the notion
+
+
+117
+0:12:30,29 --> 0:12:36,72
+of attraction. Here s the challenge: In a
+world that s more rapidly changing, you don
+
+
+118
+0:12:36,72 --> 0:12:44,17
+t even know what to look for, what questions
+to ask, what to search for. The only way you
+
+
+119
+0:12:44,17 --> 0:12:50,139
+re going to survive and thrive in that kind
+of world is by attracting people and resources
+
+
+120
+0:12:50,139 --> 0:12:56,949
+to you that you never even knew existed, and
+we ve all had the experience of serendipity
+
+
+121
+0:12:56,949 --> 0:13:2,19
+an unexpected encounter. You run into somebody.
+You start up a conversation. Start talking
+
+
+122
+0:13:2,19 --> 0:13:5,709
+about some of the issues you re dealing with,
+and my God, they offer some insight that you
+
+
+123
+0:13:5,709 --> 0:13:14,29
+d been struggling with for months. Enormously
+valuable opportunities. Now when I talk about
+
+
+124
+0:13:14,29 --> 0:13:19,29
+serendipity, most people respond, Yeah, but
+that s pure luck. Now there s nothing you
+
+
+125
+0:13:19,29 --> 0:13:23,42
+can do about serendipity. It just happens.
+All you can do is be prepared for it when
+
+
+126
+0:13:23,42 --> 0:13:32,4
+it does happen. Well, in fact, we make a very
+strong case that you can shape serendipity.
+
+
+127
+0:13:32,4 --> 0:13:39,769
+You can increase both the probability and
+the quality of those unexpected encounters
+
+
+128
+0:13:39,769 --> 0:13:46,869
+by making choices about where you spend your
+time and how you spend your time. Significant
+
+
+129
+0:13:46,869 --> 0:13:55,119
+potential to affect that serendipity, that
+ability to pull that second level of pull,
+
+
+130
+0:13:55,119 --> 0:13:59,209
+but there s a third level that s even more
+interesting, and this is the one I focus on
+
+
+131
+0:13:59,209 --> 0:14:5,129
+in the context of this discussion around design
+challenges and opportunities. The third level
+
+
+132
+0:14:5,129 --> 0:14:11,89
+of pull is what I call achieve. It s the notion
+of pulling out of each of us, and out of the
+
+
+133
+0:14:11,89 --> 0:14:19,189
+institutions we work in the full potential
+that resides within us and within those institutions.
+
+
+134
+0:14:19,189 --> 0:14:25,22
+It gets to the notion of learning, more rapid
+learning, more rapid performance improvement
+
+
+135
+0:14:25,22 --> 0:14:31,379
+by using those first two levels of pull and
+adding some additional elements on top. That
+
+
+136
+0:14:31,379 --> 0:14:38,73
+s where the real power of pull comes in, is
+if you can tap into that in a world of increasing
+
+
+137
+0:14:38,73 --> 0:14:44,959
+pressure, that s the opportunity to shift
+from diminishing returns to increasing returns.
+
+
+138
+0:14:44,959 --> 0:14:53,509
+But the key question is how do you design
+systems and experiences that provide us with
+
+
+139
+0:14:53,509 --> 0:15:1,319
+those scalable pull experiences? It s not
+just with a few friends or coworkers, but
+
+
+140
+0:15:1,319 --> 0:15:7,17
+to really be successful we talk about the
+notion of scalable pull. How do you do this
+
+
+141
+0:15:7,17 --> 0:15:16,519
+in a global basis where you can draw out people
+and resources, not just in your local workplace,
+
+
+142
+0:15:16,519 --> 0:15:25,189
+but around the world, wherever they reside?
+Now I confess I don t have the answers to
+
+
+143
+0:15:25,189 --> 0:15:30,269
+these questions that I m posing. I don t think
+anyone does at this point. That s partly why
+
+
+144
+0:15:30,269 --> 0:15:35,54
+I think they re such interesting questions,
+but I m hoping to intrigue and tease enough
+
+
+145
+0:15:35,54 --> 0:15:45,459
+of you that you ll start to come up with the
+answers to the questions, and I don t have
+
+
+146
+0:15:45,459 --> 0:15:50,809
+the answers, but I think I can frame some
+of the questions that need to be answered,
+
+
+147
+0:15:50,809 --> 0:15:57,499
+and in particular I want to focus on two dimensions
+of the design challenge: one having to do
+
+
+148
+0:15:57,499 --> 0:16:4,579
+with platforms and the other having to do
+with pathways, and I think they re both important.
+
+
+149
+0:16:4,579 --> 0:16:11,36
+In fact, one without the other becomes not
+very interesting. s what are the platform
+
+
+150
+0:16:11,36 --> 0:16:17,929
+designs that would accelerate scalable peer-to-peer
+learning? How would you think about a scalable
+
+
+151
+0:16:17,929 --> 0:16:25,29
+platform to do that? What are the design elements?
+And then how can we design the pathways that
+
+
+152
+0:16:25,29 --> 0:16:30,47
+will help us get pragmatically from where
+we are today, which is nowhere near scalable
+
+
+153
+0:16:30,47 --> 0:16:40,699
+pull platforms, to that big opportunity that
+s out there? So let me just spend a minute
+
+
+154
+0:16:40,699 --> 0:16:47,49
+on the notion of platform designs. What would
+platform designs have to do? We all know that
+
+
+155
+0:16:47,49 --> 0:16:54,79
+teams are incredibly rich environments for
+accelerated peer-to-peer learning. If you
+
+
+156
+0:16:54,79 --> 0:17:1,279
+re a part of a high-performing team, you re
+going to learn very rapidly and dramatically
+
+
+157
+0:17:1,279 --> 0:17:9,66
+improve your own performance in the process,
+but there s a big challenge with teams. Teams
+
+
+158
+0:17:9,66 --> 0:17:16,14
+don t scale. As soon as teams get to a certain
+size, they begin to disintegrate. They begin
+
+
+159
+0:17:16,14 --> 0:17:23,94
+to fall apart. So if you re looking for scalable
+pull in the sense of more rapid performance
+
+
+160
+0:17:23,94 --> 0:17:28,87
+improvement and learning, teams alone are
+not the answer. They re part of the solution,
+
+
+161
+0:17:28,87 --> 0:17:37,24
+but the question then becomes how do we embed
+teams in increasingly rich platforms that
+
+
+162
+0:17:37,24 --> 0:17:44,81
+scale by encouraging the formation of even
+more teams, and also connect with and learn
+
+
+163
+0:17:44,81 --> 0:17:55,5
+from each other across teams? That begins
+to look like a scalable pull platform. Now,
+
+
+164
+0:17:55,5 --> 0:18:2,49
+as Brandon mentioned, I look for early instances
+of some of these things in action, and so
+
+
+165
+0:18:2,49 --> 0:18:8,7
+I want to share a couple of examples of the
+opportunity that s playing out in some domains
+
+
+166
+0:18:8,7 --> 0:18:14,42
+that are not very central to business, but
+I think the opportunity is to learn from those
+
+
+167
+0:18:14,42 --> 0:18:22,56
+environments and apply design principles into
+business. So one example of where some of
+
+
+168
+0:18:22,56 --> 0:18:29,36
+this scalable pull platform is emerging is
+online in a video game that most of you, many
+
+
+169
+0:18:29,36 --> 0:18:35,71
+of you at least, may be familiar with called
+World of Warcraft. It has 12 million participants
+
+
+170
+0:18:35,71 --> 0:18:43,82
+on a global scale 12 million and it s rapidly
+growing, continuing to grow. Most of those
+
+
+171
+0:18:43,82 --> 0:18:50,39
+12 million participants are organized into
+high-performing teams. If they re richly connected
+
+
+172
+0:18:50,39 --> 0:18:57,95
+across teams, they call them Gills. Through
+rich networks of discussion forums, video
+
+
+173
+0:18:57,95 --> 0:19:2,51
+repositories, all kinds of resources that
+can help the members of these teams learn,
+
+
+174
+0:19:2,51 --> 0:19:9,85
+not just within the team, but across teams,
+very interesting network layered on top of
+
+
+175
+0:19:9,85 --> 0:19:16,57
+teams to make them even more successful. There
+s another example that we ve spent a fair
+
+
+176
+0:19:16,57 --> 0:19:23,33
+amount of time with and we talk about in the
+book, which is extreme sports. In particular
+
+
+177
+0:19:23,33 --> 0:19:28,32
+we ve spent a lot of time looking at big wave
+surfing as an area of extreme performance
+
+
+178
+0:19:28,32 --> 0:19:35,17
+improvement, and it turns out big wave surfers,
+by definition, are very much tied to local
+
+
+179
+0:19:35,17 --> 0:19:41,8
+physical environments. They re not on the
+Internet playing games. They re on surf breaks
+
+
+180
+0:19:41,8 --> 0:19:46,39
+wrestling with very, very challenging waves
+as they come. So they re deeply grounded in
+
+
+181
+0:19:46,39 --> 0:19:51,77
+their physical environment, but the scalability
+of the learning comes from the opportunity
+
+
+182
+0:19:51,77 --> 0:19:58,48
+to layer on top of that physical experience
+participation in virtual environments, and
+
+
+183
+0:19:58,48 --> 0:20:3,27
+again, learning from each other regardless
+of where these surfers are located. South
+
+
+184
+0:20:3,27 --> 0:20:10,5
+African surfers communicating with Australian
+surfers communicating with Hawaiian surfers,
+
+
+185
+0:20:10,5 --> 0:20:15,9
+all of them using the same kinds of facilities
+discussion forums, video repositories. They
+
+
+186
+0:20:15,9 --> 0:20:21,66
+study videos of each other to learn the practices
+that are emerging in different local areas,
+
+
+187
+0:20:21,66 --> 0:20:30,85
+and the social relationships that have emerged
+around those exchanges of information. So
+
+
+188
+0:20:30,85 --> 0:20:36,26
+those are a couple of interesting examples
+of the kinds of platforms that are emerging
+
+
+189
+0:20:36,26 --> 0:20:41,93
+that create scalable pull in the sense of
+learning opportunities, more rapid learning,
+
+
+190
+0:20:41,93 --> 0:20:48,77
+more rapid performance improvement as more
+participants join in. Really interesting opportunity
+
+
+191
+0:20:48,77 --> 0:20:55,23
+in a business context. I mentioned there was
+a second design challenge, though, which is
+
+
+192
+0:20:55,23 --> 0:21:0,16
+not just the platforms. It has to do with
+the pathways. Anybody who starts talking about
+
+
+193
+0:21:0,16 --> 0:21:4,62
+these kinds of scalable pull platforms in
+front of an executive is going to get a bleary
+
+
+194
+0:21:4,62 --> 0:21:10,87
+look on the face and say, Well, wait a minute.
+I m over here. You re talking about something
+
+
+195
+0:21:10,87 --> 0:21:15,43
+that s way out there. How they hell am I going
+to get out there? So if you don t design a
+
+
+196
+0:21:15,43 --> 0:21:21,93
+pathway that helps people to move in a pragmatic
+way from where they are today to where they
+
+
+197
+0:21:21,93 --> 0:21:29,52
+need to be, it s going to be a very short
+conversation. So in that context I want to
+
+
+198
+0:21:29,52 --> 0:21:34,88
+tell a bit of a story around a company that
+we found very interesting in the context of
+
+
+199
+0:21:34,88 --> 0:21:41,29
+pull. It s a company I think most of you are
+probably familiar with. It s in the software
+
+
+200
+0:21:41,29 --> 0:21:49,99
+business and it s called SAP. SAP was at one
+time a highly entrepreneurial company. The
+
+
+201
+0:21:49,99 --> 0:21:56,19
+founder of it, Hasso Plattner, amazing guy,
+very curmudgeonly guy, very passionate about
+
+
+202
+0:21:56,19 --> 0:22:3,1
+the software technology and work that he did.
+He became more and more concerned as his company
+
+
+203
+0:22:3,1 --> 0:22:8,98
+grew and scaled because, as it grew and scaled,
+it started to take on more and more of the
+
+
+204
+0:22:8,98 --> 0:22:16,27
+kind of bureaucratic tradition-bound risk
+averse, not invented here kinds of cultures
+
+
+205
+0:22:16,27 --> 0:22:24,52
+that many of us are familiar with in large
+companies. So he said, ve got to change this.
+
+
+206
+0:22:24,52 --> 0:22:31,29
+And what he did was he went out and he bought
+a company, and he bought the company not particularly
+
+
+207
+0:22:31,29 --> 0:22:35,82
+because the company was great, but because
+he wanted the guy who was the founder of that
+
+
+208
+0:22:35,82 --> 0:22:41,73
+company. It was a guy by the name of Shai
+Agassi. Not many of you may be familiar with
+
+
+209
+0:22:41,73 --> 0:22:48,32
+Shai. He made Shai a very senior executive
+of SAP, but he said, m not going to put you
+
+
+210
+0:22:48,32 --> 0:22:52,73
+in charge of the core part of my business
+because if I do they re going to kill you
+
+
+211
+0:22:52,73 --> 0:22:59,68
+over there, and you re a really nice guy.
+I don t want to see you killed. So what I
+
+
+212
+0:22:59,68 --> 0:23:4,63
+m going to do is I m going to put you in charge
+of a part of the business that s on the edge.
+
+
+213
+0:23:4,63 --> 0:23:9,79
+It s a new product that we re introducing
+called NetWeaver. It s generating a very limited
+
+
+214
+0:23:9,79 --> 0:23:16,27
+amount of revenue and no profit so nobody
+is going to pay attention to it over in the
+
+
+215
+0:23:16,27 --> 0:23:20,16
+core of the business. You ll have degrees
+of freedom out there that you wouldn t have
+
+
+216
+0:23:20,16 --> 0:23:25,52
+if you were in the core, and he said, I want
+you to use that platform as an opportunity
+
+
+217
+0:23:25,52 --> 0:23:32,2
+to redefine how we work together and how we
+can get to more accelerated performance improvement.
+
+
+218
+0:23:32,2 --> 0:23:42,7
+What Shai did was he created a platform called
+the SAP Developer Network, and initially it
+
+
+219
+0:23:42,7 --> 0:23:46,93
+was a very simple platform. It basically was
+an environment you could come into, an online
+
+
+220
+0:23:46,93 --> 0:23:52,58
+environment, where if you were a developer
+working on this NetWeaver product and running
+
+
+221
+0:23:52,58 --> 0:23:59,17
+into programming issues, as many people would,
+you could pose the question and see if anybody
+
+
+222
+0:23:59,17 --> 0:24:4,62
+else had had an experience that was equivalent
+could help you work your way through the problem
+
+
+223
+0:24:4,62 --> 0:24:14,4
+you were wrestling with. Really simple. Basically
+a discussion forum, but incredibly powerful.
+
+
+224
+0:24:14,4 --> 0:24:21,48
+And it turns out now SAP Developer Network
+has about two million software developers
+
+
+225
+0:24:21,48 --> 0:24:27,69
+actively participating on this network, and
+again, it s growing at a very rapid rate.
+
+
+226
+0:24:27,69 --> 0:24:36,74
+It s scaling. And it has generated enormous
+productivity on the part of these software
+
+
+227
+0:24:36,74 --> 0:24:42,24
+developers, and the initial focus of the platform
+was actually software developers outside of
+
+
+228
+0:24:42,24 --> 0:24:48,85
+SAP. It was software developers in third-party
+channels, software developers in the customers,
+
+
+229
+0:24:48,85 --> 0:24:54,96
+not the SAP developers because the SAP developers
+had this mindset that how can you possibly
+
+
+230
+0:24:54,96 --> 0:24:59,84
+learn from anybody outside our company. You
+know, we re an incredibly successful company.
+
+
+231
+0:24:59,84 --> 0:25:5,99
+Well, it turns out over time more and more
+of the SAP developers have migrated out into
+
+
+232
+0:25:5,99 --> 0:25:11,58
+this developer network because word has spread
+that it s an amazing productivity tool. You
+
+
+233
+0:25:11,58 --> 0:25:16,99
+can develop more rapidly, learn more quickly
+as part of this network than you ever could
+
+
+234
+0:25:16,99 --> 0:25:25,45
+working on your own or working as part of
+your local team. So very interesting progression
+
+
+235
+0:25:25,45 --> 0:25:32,28
+over time. I tell the story because I think
+it illustrates a number of elements of pathways
+
+
+236
+0:25:32,28 --> 0:25:40,28
+that are going to be important to realizing
+this opportunity to create scalable pull platforms.
+
+
+237
+0:25:40,28 --> 0:25:48,9
+One of the pathways is the notion of starting
+with a very simple transaction in these environments.
+
+
+238
+0:25:48,9 --> 0:25:54,56
+There s often a temptation to go out with
+very elaborate kind of learning environments
+
+
+239
+0:25:54,56 --> 0:26:0,19
+and performance improvement environments.
+This was a simple question and answer discussion
+
+
+240
+0:26:0,19 --> 0:26:8,72
+forum: Pose the problem. See if anybody else
+has an answer to it, and then move to using
+
+
+241
+0:26:8,72 --> 0:26:15,52
+that to build reputation and relationships.
+What happened was that as people started answering
+
+
+242
+0:26:15,52 --> 0:26:22,57
+the problems, they developed a reputation.
+They actually got points. SAP awarded them
+
+
+243
+0:26:22,57 --> 0:26:28,69
+points for each successful answer that was
+delivered, and they built a reputation around
+
+
+244
+0:26:28,69 --> 0:26:34,36
+those points. Interesting sidelight, it turns
+out that a lot of software recruiters had
+
+
+245
+0:26:34,36 --> 0:26:40,15
+figured out that if you re looking for a software
+developer with real talent in certain areas,
+
+
+246
+0:26:40,15 --> 0:26:45,82
+go into the SAP Developer Network and look
+at those reputation profiles, and you ll find
+
+
+247
+0:26:45,82 --> 0:26:51,6
+people who are really successful at answering
+some really challenging problems. So it turns
+
+
+248
+0:26:51,6 --> 0:26:56,51
+out even though those people offering answers
+were not getting any monetary reward directly
+
+
+249
+0:26:56,51 --> 0:27:1,85
+for their answers, they were getting some
+more and more attractive job offers as a result
+
+
+250
+0:27:1,85 --> 0:27:8,55
+of having done that. More motivation to contribute
+even more. And by the way, I should say at
+
+
+251
+0:27:8,55 --> 0:27:14,99
+this point the average time to answer a problem
+that s provided on the SAP Developer Network
+
+
+252
+0:27:14,99 --> 0:27:22,57
+is about 17 minutes from the time it s posed
+to the time the problem is resolved 17 minutes.
+
+
+253
+0:27:22,57 --> 0:27:27,89
+So it s a very, very successful platform in
+that regard. But what s happened is then you
+
+
+254
+0:27:27,89 --> 0:27:34,38
+ve got a third level of progression and evolution,
+which is the notion that over time, as a result
+
+
+255
+0:27:34,38 --> 0:27:39,16
+of this reputation and the relationships that
+emerge, because people were seeking each other
+
+
+256
+0:27:39,16 --> 0:27:45,76
+out as they saw each other s reputation in
+certain areas, teams stated to form and took
+
+
+257
+0:27:45,76 --> 0:27:51,16
+on more and more challenging application development
+initiatives, not just solving a problem with
+
+
+258
+0:27:51,16 --> 0:27:58,45
+their current coding efforts, but actually
+came together from around the world to develop
+
+
+259
+0:27:58,45 --> 0:28:3,22
+entirely new applications, again, based on
+the reputation and relationships that they
+
+
+260
+0:28:3,22 --> 0:28:11,96
+had built as part of this environment. So
+it s an interesting progression. It says start
+
+
+261
+0:28:11,96 --> 0:28:17,54
+with very simple kinds of transactions and
+build on that over time so you get these relationships
+
+
+262
+0:28:17,54 --> 0:28:25,86
+emerging and more interesting learning environments
+begin to surface over time. There s a second
+
+
+263
+0:28:25,86 --> 0:28:31,65
+dimension to the pathway, which is that the
+model that Shai used here, as an entrepreneur
+
+
+264
+0:28:31,65 --> 0:28:38,25
+in the software industry, he was a big proponent
+of rapid iteration of software development,
+
+
+265
+0:28:38,25 --> 0:28:44,66
+and so the notion of deploying this network
+in very short increments, getting it out there,
+
+
+266
+0:28:44,66 --> 0:28:49,82
+watching how people behaved on these networks
+and what kinds of things were working, what
+
+
+267
+0:28:49,82 --> 0:28:57,59
+wasn t, and then doing another iteration based
+on that was a very powerful way to learn from
+
+
+268
+0:28:57,59 --> 0:29:2,75
+the participants and not simply spend a ton
+of money upfront trying to figure out what
+
+
+269
+0:29:2,75 --> 0:29:9,7
+they would need. So that s a second dimension.
+A third dimension is this notion of starting
+
+
+270
+0:29:9,7 --> 0:29:16,59
+on the edge. You know, there s a big question
+of how do you get change to happen. If we
+
+
+271
+0:29:16,59 --> 0:29:22,7
+re talking about scalable pull platforms with
+large enterprises, that s really hard to accomplish
+
+
+272
+0:29:22,7 --> 0:29:28,5
+given the deeply held beliefs and practices
+that drive the core. Most of the cores of
+
+
+273
+0:29:28,5 --> 0:29:36,43
+our companies are push-based cores, and so
+the notion of not trying to change the core,
+
+
+274
+0:29:36,43 --> 0:29:42,27
+but going out to an interesting edge and driving
+change from the edge, and by the way, not
+
+
+275
+0:29:42,27 --> 0:29:48,61
+bringing that edge back into the core. So
+they would have killed the developer network
+
+
+276
+0:29:48,61 --> 0:29:53,82
+if they tried to bring it back into the core.
+What they were doing was creating more and
+
+
+277
+0:29:53,82 --> 0:30:0,19
+more incentive and motivation to pull more
+and more of the people in the core and resources
+
+
+278
+0:30:0,19 --> 0:30:6,4
+in the core out to the edge and scale the
+edge even more rapidly around a very different
+
+
+279
+0:30:6,4 --> 0:30:14,47
+set of practices than had prevailed within
+SAP at the time. There s another dimension
+
+
+280
+0:30:14,47 --> 0:30:22,3
+of the pathway which I think becomes extremely
+important to drive the movement, and that
+
+
+281
+0:30:22,3 --> 0:30:28,7
+s the notion of performance metrics to measure
+progress, and I think what s particularly
+
+
+282
+0:30:28,7 --> 0:30:32,69
+interesting about this opportunity for more
+rapid performance improvement is it almost
+
+
+283
+0:30:32,69 --> 0:30:39,33
+by definition suggests a set of metrics to
+say how are we doing. Is performance actually
+
+
+284
+0:30:39,33 --> 0:30:46,17
+improving as a result of participation on
+these platforms? And what can we learn from
+
+
+285
+0:30:46,17 --> 0:30:50,43
+either the fact that it s improving very,
+very rapidly or not improving as much as we
+
+
+286
+0:30:50,43 --> 0:30:56,61
+d like? How would we tweak it so that we can
+actually get more rapid performance improvement?
+
+
+287
+0:30:56,61 --> 0:31:2,36
+So it involves really focusing on what are
+people trying to get better at in these environments?
+
+
+288
+0:31:2,36 --> 0:31:8,48
+What is the performance improvement goal or
+objective? And how would you measure progress
+
+
+289
+0:31:8,48 --> 0:31:12,55
+in the performance improvement? So at this
+point it s not just the learning. You can
+
+
+290
+0:31:12,55 --> 0:31:17,32
+t measure learning directly, but you can measure
+the outcome from the learning, which ought
+
+
+291
+0:31:17,32 --> 0:31:25,6
+to be performance improvement in whatever
+domain. SAP was relentless in measuring this
+
+
+292
+0:31:25,6 --> 0:31:32,43
+notion of time from question posed to answer
+received as a measure of performance improvement
+
+
+293
+0:31:32,43 --> 0:31:42,57
+within this network. And then, finally, there
+s a fifth dimension of the pathway, which
+
+
+294
+0:31:42,57 --> 0:31:50,75
+is building passion, and I think if anybody
+is trying to design an environment and set
+
+
+295
+0:31:50,75 --> 0:31:57,44
+of experiences to drive more rapid performance
+improvement and more rapid learning, you ultimately
+
+
+296
+0:31:57,44 --> 0:32:9,44
+need to focus on how do you build, generate,
+catalyze, nurture passion among the participants.
+
+
+297
+0:32:9,44 --> 0:32:15,3
+The key participants in the SAP Developer
+Network are deeply passionate about the work
+
+
+298
+0:32:15,3 --> 0:32:22,89
+they re doing on that network. They re not
+doing this just because there s monetary opportunity.
+
+
+299
+0:32:22,89 --> 0:32:27,73
+They are intrinsically engaged in what they
+re doing, and having an impact with what they
+
+
+300
+0:32:27,73 --> 0:32:32,3
+re doing and having an impact with a broader
+and broader range of people with what they
+
+
+301
+0:32:32,3 --> 0:32:42,92
+re doing. There is real passion. So if we
+get it right I think there s really significant
+
+
+302
+0:32:42,92 --> 0:32:49,26
+opportunity, but I don t want to just position
+this as an opportunity. I m going to suggest
+
+
+303
+0:32:49,26 --> 0:32:56,2
+that the reason I m optimistic this challenge
+is going to be addressed is because it s an
+
+
+304
+0:32:56,2 --> 0:33:0,96
+imperative. It s not just an opportunity.
+We re going to have to do this. It s not a
+
+
+305
+0:33:0,96 --> 0:33:6,48
+choice. It s not something that s nice to
+have if we have some budget left over. It
+
+
+306
+0:33:6,48 --> 0:33:14,23
+s essential to succeed in an increasingly
+competitive business world. Why do I say that?
+
+
+307
+0:33:14,23 --> 0:33:23,12
+Well, one of the things that we talk about
+in our research for The Power of Pull is we
+
+
+308
+0:33:23,12 --> 0:33:30,2
+asked a fairly simple question, which we thought
+had been certainly asked and probably answered,
+
+
+309
+0:33:30,2 --> 0:33:37,48
+which was just a question of how are we doing
+as companies. How are companies doing? Not
+
+
+310
+0:33:37,48 --> 0:33:43,42
+just in the most recent quarter or the past
+year, but over a long period of time. How
+
+
+311
+0:33:43,42 --> 0:33:51,1
+are companies doing? To our surprise, perhaps
+not so much shouldn t have been a surprise
+
+
+312
+0:33:51,1 --> 0:33:56,26
+given the very short-term focus we increasingly
+all have, that question, to our knowledge,
+
+
+313
+0:33:56,26 --> 0:34:3,63
+had never been asked, much less answered.
+So what we ended up doing was looking at all
+
+
+314
+0:34:3,63 --> 0:34:10,419
+public companies in the United States, not
+just a sample, but every single public company,
+
+
+315
+0:34:10,419 --> 0:34:17,7
+and we looked at it over a long period of
+time. We went back to 1965 to today, and we
+
+
+316
+0:34:17,7 --> 0:34:22,0
+asked the question, how are they doing? Now
+to measure performance, and this may be a
+
+
+317
+0:34:22,0 --> 0:34:27,7
+bit controversial, and we can certainly talk
+about the pros and cons, we ended up focusing
+
+
+318
+0:34:27,7 --> 0:34:36,75
+on return on assets as our measure of performance.
+It turns out if you look at return on assets
+
+
+319
+0:34:36,75 --> 0:34:43,71
+for all public companies in the U.S. since
+1965 to today return on assets has collapsed.
+
+
+320
+0:34:43,71 --> 0:34:53,98
+It s collapsed by 75 percent over that time
+period. It s a sustained erosion. There is
+
+
+321
+0:34:53,98 --> 0:35:3,4
+no sign of it leveling off. There s absolutely
+no sign of it turning around. So I think it
+
+
+322
+0:35:3,4 --> 0:35:8,0
+suggests that the management practices and
+the management institutions we have today
+
+
+323
+0:35:8,0 --> 0:35:15,53
+are fundamentally broken, and if we don t
+crack this opportunity around more rapid performance
+
+
+324
+0:35:15,53 --> 0:35:19,44
+improvement and more rapid learning, these
+companies are going to go out of business.
+
+
+325
+0:35:19,44 --> 0:35:26,97
+And when I go into corporate boardrooms these
+days, I m struck by how often, how frequently
+
+
+326
+0:35:26,97 --> 0:35:33,58
+I hear the metaphor or the image of the Red
+Queen from Alice in Wonderland. You know,
+
+
+327
+0:35:33,58 --> 0:35:41,7
+executives talk about feeling the Red Queen
+Effect. And I actually push back on that and
+
+
+328
+0:35:41,7 --> 0:35:48,24
+I make the case that the Red Queen actually
+had it pretty good. The Red Queen ran faster
+
+
+329
+0:35:48,24 --> 0:35:55,34
+and faster and she stayed in the same place.
+We re running faster and faster and falling
+
+
+330
+0:35:55,34 --> 0:36:1,26
+farther and farther behind so I think the
+Red Queen actually had it much better than
+
+
+331
+0:36:1,26 --> 0:36:9,1
+we do. So I don t think we have a choice about
+this. I think this is becoming more and more
+
+
+332
+0:36:9,1 --> 0:36:14,26
+of an imperative. If we don t figure out how
+to learn faster and how to accelerate performance
+
+
+333
+0:36:14,26 --> 0:36:18,85
+improvement, and how to go from that diminishing
+returns environment to an increasing returns
+
+
+334
+0:36:18,85 --> 0:36:26,51
+environment we re going out of business. Return
+on assets, by the way, if you just follow
+
+
+335
+0:36:26,51 --> 0:36:31,28
+the current trend line, which, again, has
+been playing out for 40-plus years, reaches
+
+
+336
+0:36:31,28 --> 0:36:41,42
+zero somewhere around 2022 so that s not a
+sustainable outcome. Something will change
+
+
+337
+0:36:41,42 --> 0:36:52,43
+over this next decade in order to address
+that. So I want to end just by focusing on
+
+
+338
+0:36:52,43 --> 0:36:58,95
+the opportunity. Again, I don t want to end
+on a negative note. I come from Silicon Valley.
+
+
+339
+0:36:58,95 --> 0:37:5,49
+We re inherent optimists. I mentioned earlier
+that the opportunity here was this notion
+
+
+340
+0:37:5,49 --> 0:37:10,97
+of increasing returns; that you get better
+faster as more and more participants join
+
+
+341
+0:37:10,97 --> 0:37:14,97
+in, and that s a real exciting and powerful
+opportunity, but I think that s just the tip
+
+
+342
+0:37:14,97 --> 0:37:21,619
+of the iceberg. The one thing that strikes
+me when I hear discussions of increasing return
+
+
+343
+0:37:21,619 --> 0:37:27,23
+is the classic example that people use to
+illustrate increasing returns, is the fax
+
+
+344
+0:37:27,23 --> 0:37:32,66
+machine, and that s the notion if you have
+one fax machine it actually has negative value.
+
+
+345
+0:37:32,66 --> 0:37:37,56
+You had to pay money to get it and you can
+t do anything with it so it s actually a negative
+
+
+346
+0:37:37,56 --> 0:37:45,1
+value. As more fax machines get added in and
+connect to each other, the value goes up over
+
+
+347
+0:37:45,1 --> 0:37:52,23
+time exponentially for all those fax machines.
+But there s a really interesting element or
+
+
+348
+0:37:52,23 --> 0:37:59,49
+detail in that story or in that example, and
+that is that as fax machines increase in numbers
+
+
+349
+0:37:59,49 --> 0:38:4,84
+they are not changing in terms of their basic
+performance. It s simply a function of adding
+
+
+350
+0:38:4,84 --> 0:38:10,5
+and connecting more fax machines together,
+and that is a powerful form of increasing
+
+
+351
+0:38:10,5 --> 0:38:16,15
+returns, but there s a second forum, which
+is what if each of those fax machines were
+
+
+352
+0:38:16,15 --> 0:38:23,11
+getting better in terms of their performance
+and functionality, their design, by participating
+
+
+353
+0:38:23,11 --> 0:38:30,27
+in this broader network. Then you get a second
+increasing returns curve higher, steeper than
+
+
+354
+0:38:30,27 --> 0:38:38,64
+the previous one. So it s a very significant
+opportunity. I think that those of you who
+
+
+355
+0:38:38,64 --> 0:38:44,17
+can take on this design challenge and can
+crack the really difficult problems, I don
+
+
+356
+0:38:44,17 --> 0:38:50,6
+t want to in any way trivialize the challenges
+to creating these pull platforms are going
+
+
+357
+0:38:50,6 --> 0:39:0,19
+to be on the edge of a whole new way of design
+activity and practices. But one final thought
+
+
+358
+0:39:0,19 --> 0:39:7,2
+just to kind of put this into an even broader
+context is that rather than focusing on sustainability
+
+
+359
+0:39:7,2 --> 0:39:12,67
+as a world, I think we should be taking on
+an even greater challenge. It s something
+
+
+360
+0:39:12,67 --> 0:39:18,84
+that a friend of mine, Jean Russell, calls
+thrivability rather than sustainability. Sustainability
+
+
+361
+0:39:18,84 --> 0:39:26,32
+has a notion of sustaining what we have. Thrivability
+has a notion of how do we generate more and
+
+
+362
+0:39:26,32 --> 0:39:33,47
+more sustainable prosperity from the limited
+natural resources that our planet has been
+
+
+363
+0:39:33,47 --> 0:39:40,76
+endowed with. So I don t think it s just our
+business that depends on learning faster by
+
+
+364
+0:39:40,76 --> 0:39:48,61
+working together, but it s our planet. It
+s our entire world. If we don t figure out
+
+
+365
+0:39:48,61 --> 0:39:54,69
+how to drive that kind of more rapid learning
+and performance improvement, we re increasingly
+
+
+366
+0:39:54,69 --> 0:39:59,78
+challenged as a planet. We either have to
+be satisfied with less and less or we have
+
+
+367
+0:39:59,78 --> 0:40:9,609
+to face the consequences of depleting resources
+that are not replaceable. So I think we need
+
+
+368
+0:40:9,609 --> 0:40:17,26
+to design these new experiences for all of
+us, not just for the companies that we re
+
+
+369
+0:40:17,26 --> 0:40:30,19
+in today. Thank you very much. Brandon Schauer:
+So John has a little bit of time for some
+
+
+370
+0:40:30,19 --> 0:40:36,29
+Q&A, and I want to kind of kick it off. I
+think one of the challenges for this group
+
+
+371
+0:40:36,29 --> 0:40:43,22
+is that we re poised between what we hear
+from customers, what we see from customers.
+
+
+372
+0:40:43,22 --> 0:40:50,85
+They being somewhat our platform for learning,
+as well as the organization, and the organization
+
+
+373
+0:40:50,85 --> 0:40:58,42
+representing much more of the core that we
+re struggling with day in, day out. I think
+
+
+374
+0:40:58,42 --> 0:41:5,55
+I can see examples from our industry where
+one organization is moving ahead of another
+
+
+375
+0:41:5,55 --> 0:41:11,119
+because of their ability to create a learning
+platform with customers, as well as within
+
+
+376
+0:41:11,119 --> 0:41:18,6
+the organization. I heard a talk about a year
+ago by one of the creative directors at Electronic
+
+
+377
+0:41:18,6 --> 0:41:25,47
+Arts. His story was of how they originally
+started Madden football franchise interface
+
+
+378
+0:41:25,47 --> 0:41:32,21
+based on what TV looks like, but then they
+tested it with customers and found out people
+
+
+379
+0:41:32,21 --> 0:41:37,4
+don t really like the way the television is
+illustrating the experience of football for
+
+
+380
+0:41:37,4 --> 0:41:41,17
+people. The scores were too big; they took
+up too much of the screen. You couldn t really
+
+
+381
+0:41:41,17 --> 0:41:47,99
+see the action, and so by passionately testing
+and improving this interface, they were actually
+
+
+382
+0:41:47,99 --> 0:41:54,83
+starting to see that football was following
+the way Electronic Arts was presenting football
+
+
+383
+0:41:54,83 --> 0:42:2,4
+through gaming because TV doesn t inter-test
+necessarily or they don t do it in the same
+
+
+384
+0:42:2,4 --> 0:42:6,57
+way. So we can see how one organization starts
+to build another or beat out another if this
+
+
+385
+0:42:6,57 --> 0:42:16,79
+case is TV versus gaming, but I guess my question
+is, what have you found seem to be the linchpin
+
+
+386
+0:42:16,79 --> 0:42:21,17
+ideas or changes that an organization can
+take on to start moving towards this platform?
+
+
+387
+0:42:21,17 --> 0:42:27,39
+One of them was going to the edge. Are there
+others that we, as people who often are kind
+
+
+388
+0:42:27,39 --> 0:42:33,51
+of the middle of the organization, trying
+to push things forward? Are there other tactics
+
+
+389
+0:42:33,51 --> 0:42:39,75
+we can start to employ? John Hagel III: Well,
+it s a great question. I think that there
+
+
+390
+0:42:39,75 --> 0:42:43,73
+are many different approaches, and they hinge
+on the particular environments. I would say
+
+
+391
+0:42:43,73 --> 0:42:49,74
+that one of the reasons I m optimistic is
+I do think many companies, if not all, have
+
+
+392
+0:42:49,74 --> 0:42:58,51
+kind of made this transition from a very narrow
+product-centric view of their offers to much
+
+
+393
+0:42:58,51 --> 0:43:3,19
+more of a sense that those products, if they
+re going to be successful, have to be situated
+
+
+394
+0:43:3,19 --> 0:43:8,4
+within a context in the customer, and that
+you have to really kind of cross the table
+
+
+395
+0:43:8,4 --> 0:43:12,51
+and understand what is the customer actually
+trying to do with these products and services.
+
+
+396
+0:43:12,51 --> 0:43:19,369
+What are they trying to accomplish with them?
+And so broadening your horizon to look at
+
+
+397
+0:43:19,369 --> 0:43:25,9
+the context, and I would say that if you ve
+gone that far there s, I think, a logical
+
+
+398
+0:43:25,9 --> 0:43:35,67
+next step, which is for most situations customers
+are trying to use these products to get better
+
+
+399
+0:43:35,67 --> 0:43:40,369
+at something else, something broader that
+they re trying to do. What is that something
+
+
+400
+0:43:40,369 --> 0:43:48,54
+better and how can you create design experiences?
+And I think one of things, at least from my
+
+
+401
+0:43:48,54 --> 0:43:55,95
+experience, is particularly important in this
+context, and there is a barrier for many companies
+
+
+402
+0:43:55,95 --> 0:44:5,9
+to address this, but too often companies think
+about the user experiences, the mantra of
+
+
+403
+0:44:5,9 --> 0:44:12,69
+one-to-one relationships, and increasingly
+I think if you re really committed to helping
+
+
+404
+0:44:12,69 --> 0:44:21,19
+customers get better faster using the products
+and services that have been provided to them,
+
+
+405
+0:44:21,19 --> 0:44:26,27
+and I hasten to add it s not just getting
+better at using the product. It s getting
+
+
+406
+0:44:26,27 --> 0:44:35,22
+better at whatever task or work they re trying
+to do where this product fits into that experience.
+
+
+407
+0:44:35,22 --> 0:44:40,109
+If you re really committed to doing that,
+you re going to need to bring in other people,
+
+
+408
+0:44:40,109 --> 0:44:48,47
+other participants, at least other customers,
+and potentially other companies to be more
+
+
+409
+0:44:48,47 --> 0:44:54,69
+helpful to those customers so that they can
+get better faster using those products or
+
+
+410
+0:44:54,69 --> 0:45:1,84
+services. So, again, I think one of the hooks
+here is this notion of there s been a trajectory
+
+
+411
+0:45:1,84 --> 0:45:8,56
+of progression. Understanding customer experiences
+is broader than just the direct interaction
+
+
+412
+0:45:8,56 --> 0:45:14,92
+with the product, and then taking it to that
+next step of saying what if, and I think often
+
+
+413
+0:45:14,92 --> 0:45:21,77
+I find the what if exercise is a pretty interesting
+one to really put in tangible terms what would
+
+
+414
+0:45:21,77 --> 0:45:27,59
+the opportunity be? What if the customers
+could take our products and services and get
+
+
+415
+0:45:27,59 --> 0:45:33,39
+better faster on a particular dimension? How
+would that drive their continued purchase
+
+
+416
+0:45:33,39 --> 0:45:39,22
+of our own products or the pace of adoption
+of our products? And, by the way, that was
+
+
+417
+0:45:39,22 --> 0:45:45,24
+one of the key metrics SAP used to measure
+the progression here, was rate of customer
+
+
+418
+0:45:45,24 --> 0:45:51,119
+adoption. As they deployed this developer
+network, one of their key objectives, clearly,
+
+
+419
+0:45:51,119 --> 0:45:56,57
+was to get more of the NetWeaver product into
+the enterprise, and so that was a key measure
+
+
+420
+0:45:56,57 --> 0:46:3,19
+and it was something that spoke to the very
+traditional core executive if you could communicate
+
+
+421
+0:46:3,19 --> 0:46:10,35
+in tangible terms that the pace of adoption
+was going up, and show how the kind of interactions
+
+
+422
+0:46:10,35 --> 0:46:15,68
+that were occurring on this developer network
+most likely contributed to that, you got the
+
+
+423
+0:46:15,68 --> 0:46:22,5
+attention of the core. That s something they
+can relate to versus learning and relationships
+
+
+424
+0:46:22,5 --> 0:46:29,35
+and these more qualitative kinds of terms.
+Brandon Schauer: One last thing before I turn
+
+
+425
+0:46:29,35 --> 0:46:35,29
+it on to the audience, why will push not work
+in the new environment you see? John Hagel
+
+
+426
+0:46:35,29 --> 0:46:40,65
+III: s not to say it won t ever work. I think
+at the end of the day if you really pushed
+
+
+427
+0:46:40,65 --> 0:46:48,28
+me on it I would say that everything we do
+is some blend of push and pull technique so
+
+
+428
+0:46:48,28 --> 0:46:55,59
+it s not to say push will completely disappear,
+but I do think that in a world that is increasingly
+
+
+429
+0:46:55,59 --> 0:47:1,46
+uncertain, and it s not just uncertain in
+small ways. Many of you are familiar with
+
+
+430
+0:47:1,46 --> 0:47:7,7
+Taleb s Black Swan concept. I think one of
+the interesting consequences of a more connected
+
+
+431
+0:47:7,7 --> 0:47:13,2
+world and a more competitive world, connection
+and competition together actually produce
+
+
+432
+0:47:13,2 --> 0:47:18,619
+some very interesting results. One of them
+is extreme events, cascades that go out of
+
+
+433
+0:47:18,619 --> 0:47:28,78
+control and go in ways we never would have
+expected. Who would have expected Egypt, Tunisia
+
+
+434
+0:47:28,78 --> 0:47:36,99
+would be but that s becoming more and more
+frequent. So it s not just the small unexpected,
+
+
+435
+0:47:36,99 --> 0:47:41,34
+We missed our forecast by 20 percent this
+quarter. It s these eruptions, and if you
+
+
+436
+0:47:41,34 --> 0:47:45,92
+have those kinds of eruptions, and you don
+t have access to pull platforms where you
+
+
+437
+0:47:45,92 --> 0:47:53,31
+can quickly adapt to those environments and
+hopefully prosper in them, you re going to
+
+
+438
+0:47:53,31 --> 0:47:58,9
+be increasingly challenged so I think that
+s a key reason. Brandon Schauer: All right.
+
+
+439
+0:47:58,9 --> 0:48:4,5
+Question from the audience? Audience Member::
+You gave a framework access attraction achieve,
+
+
+440
+0:48:4,5 --> 0:48:23,34
+and I was a little bit vague about that, and
+then you gave the example of the developer
+
+
+441
+0:48:23,34 --> 0:48:26,27
+network, but it resonated with me and I understood
+it, and I wonder if you could just connect
+
+
+442
+0:48:26,27 --> 0:48:31,88
+that framework to that example so that I can
+get those pieces. John Hagel III: Great question.
+
+
+443
+0:48:31,88 --> 0:48:36,75
+So access is simply one of the things they
+had as part of the software developer network
+
+
+444
+0:48:36,75 --> 0:48:44,64
+was a lot of kind of frequently asked questions
+repositories. So you could access, you had
+
+
+445
+0:48:44,64 --> 0:48:49,23
+a problem, you could go search through the
+frequently asked questions and often get an
+
+
+446
+0:48:49,23 --> 0:48:59,9
+answer to your question. Second level of attract
+is much more this question of, as these reputations
+
+
+447
+0:48:59,9 --> 0:49:8,359
+were being built on this network, people were
+seeking out others in the network because
+
+
+448
+0:49:8,359 --> 0:49:16,5
+of that reputation, and the person being approached
+had no idea that these other people existed,
+
+
+449
+0:49:16,5 --> 0:49:20,3
+much less that they had interests that were
+kind of related to theirs and they started
+
+
+450
+0:49:20,3 --> 0:49:25,38
+getting into really interesting discussions
+and building relationships around that. So
+
+
+451
+0:49:25,38 --> 0:49:30,53
+that was attraction. You re attracting people
+that you never even knew existed as a result
+
+
+452
+0:49:30,53 --> 0:49:34,95
+of the reputations that were being built and
+the problem solving that you were doing for
+
+
+453
+0:49:34,95 --> 0:49:41,23
+others. And then the third level is the notion
+of achieve, pulling out our full potential,
+
+
+454
+0:49:41,23 --> 0:49:47,349
+learning faster. I think what s happened over
+time is this environment has become an extraordinarily
+
+
+455
+0:49:47,349 --> 0:49:52,619
+rich learning environment. I mean the productivity
+of the software developers has shot way up.
+
+
+456
+0:49:52,619 --> 0:49:57,45
+That s the motivation for more and more of
+these developers to join this network is because
+
+
+457
+0:49:57,45 --> 0:50:3,19
+they know that anytime they run into a problem
+they re going to get an answer pretty quickly,
+
+
+458
+0:50:3,19 --> 0:50:8,33
+and they ll just be able to learn not only
+from the answer, but move faster in terms
+
+
+459
+0:50:8,33 --> 0:50:12,84
+of their coding and learn faster as a result
+of that. They re learning faster because they
+
+
+460
+0:50:12,84 --> 0:50:17,8
+re connecting with each other and engaging
+in really interesting discussions around broader
+
+
+461
+0:50:17,8 --> 0:50:21,3
+software development issues, and they re learning
+faster because they re coming together in
+
+
+462
+0:50:21,3 --> 0:50:25,57
+teams and actually working together to develop
+new software now in ways they never would
+
+
+463
+0:50:25,57 --> 0:50:35,17
+ve done in the past. So hopefully that helps
+to clarify it a bit. Brandon Schauer: I think
+
+
+464
+0:50:35,17 --> 0:50:37,51
+I saw another hand. Could you step by the
+mic over here? Audience Member: So great talk.
+
+
+465
+0:50:37,51 --> 0:50:39,45
+John Hagel III: Thank you. Audience Member:
+And I have two questions: one is on a really
+
+
+466
+0:50:39,45 --> 0:50:53,27
+small scale. I m curious about where you see
+anonymity fitting into the pull model, and
+
+
+467
+0:50:53,27 --> 0:51:1,48
+then the second question is do you have any
+predictions and/or hopes for what you talked
+
+
+468
+0:51:1,48 --> 0:51:12,94
+about? John Hagel III: A lot of hopes. I have
+very few predictions. Who is it that said,
+
+
+469
+0:51:12,94 --> 0:51:17,48
+s very hard to predict the future, especially
+if it s in the future, or something like that?
+
+
+470
+0:51:17,48 --> 0:51:25,93
+In any event, I think that your first question
+was around anonymity, and I ve been involved
+
+
+471
+0:51:25,93 --> 0:51:31,3
+in the online environment for a long time.
+I actually wrote a book 15 years ago now I
+
+
+472
+0:51:31,3 --> 0:51:37,3
+think on virtual community; it s called Net
+Gain, and over that time period this whole
+
+
+473
+0:51:37,3 --> 0:51:44,43
+question of anonymity versus identity has
+really been a continuing discussion. I come
+
+
+474
+0:51:44,43 --> 0:51:50,13
+from the camp that both are going to be appropriate
+and relevant at different points in time.
+
+
+475
+0:51:50,13 --> 0:52:1,44
+I do believe that over time there s more and
+more value in persistent identity, being able
+
+
+476
+0:52:1,44 --> 0:52:11,92
+to what s the right word? Being able to build
+a reputation that is sustainable. Now you
+
+
+477
+0:52:11,92 --> 0:52:23,94
+could do that with persistent anonymous identity,
+an avatar, a made-up name. On the other hand
+
+
+478
+0:52:23,94 --> 0:52:28,91
+I also am a strong believer that at the end
+of the day the people who are going to learn
+
+
+479
+0:52:28,91 --> 0:52:34,34
+fastest and improve performance most rapidly
+are going to be those who find ways to connect
+
+
+480
+0:52:34,34 --> 0:52:40,2
+with each other, not just in virtual environments,
+but in physical environments, and it s going
+
+
+481
+0:52:40,2 --> 0:52:45,96
+to be very hard to preserve anonymity if you
+really believe you re going to end up having
+
+
+482
+0:52:45,96 --> 0:52:49,109
+to actually engage in a physical space with
+these people. I mean you could do it. I m
+
+
+483
+0:52:49,109 --> 0:52:58,21
+not going to say it s impossible, but I do
+think that that s more and more of an opportunity.
+
+
+484
+0:52:58,21 --> 0:53:7,51
+So no predictions. My hopes, you know, obviously
+I do think if we are able to harness this
+
+
+485
+0:53:7,51 --> 0:53:13,71
+design challenge and create these environments
+and experiences where people can learn faster,
+
+
+486
+0:53:13,71 --> 0:53:18,18
+I think it has many different effects. I mean
+I haven t had a chance to really talk about,
+
+
+487
+0:53:18,18 --> 0:53:24,0
+for example, what s going on in Africa and
+places like India using these kinds of environments
+
+
+488
+0:53:24,0 --> 0:53:29,84
+where these very remote villagers are learning
+from each other across villages and into the
+
+
+489
+0:53:29,84 --> 0:53:39,5
+cities in ways that would have never been
+possible before. I was at TED last week, and
+
+
+490
+0:53:39,5 --> 0:53:46,59
+one of the speakers gave an incredible discussion
+of what s going on in the favelas in Brazil
+
+
+491
+0:53:46,59 --> 0:53:51,26
+in terms of connectivity, and actually there
+s higher connectivity now in the favelas than
+
+
+492
+0:53:51,26 --> 0:53:57,3
+there is in the more affluent parts of Brazil,
+and it s precisely because these people recognize
+
+
+493
+0:53:57,3 --> 0:54:2,53
+that by coming together and connecting they
+re going to learn faster, and a huge motivation
+
+
+494
+0:54:2,53 --> 0:54:9,15
+to do that. So I m very hopeful that it will
+both broaden the access and prosperity that
+
+
+495
+0:54:9,15 --> 0:54:15,2
+we ve achieved in certain parts of the globe,
+and that ultimately it will help us to not
+
+
+496
+0:54:15,2 --> 0:54:21,23
+just respond to the increasing pressure and
+stress that we re all feeling, but actually
+
+
+497
+0:54:21,23 --> 0:54:33,42
+help us to thrive and get to new levels of
+rich experiences. So I m very hopeful at the
+
+
+498
+0:54:33,42 --> 0:54:41,55
+end of the day. Audience Member: Thanks for
+the great talk. Most of your examples are
+
+
+499
+0:54:41,55 --> 0:54:45,54
+focused kind of within the organization. I
+m wondering kind of within the enterprise
+
+
+500
+0:54:45,54 --> 0:54:51,8
+or kind of businesses connecting, perhaps,
+to one another, how you see pull working between
+
+
+501
+0:54:51,8 --> 0:54:58,47
+businesses and their customers and how that
+relationship has changed. John Hagel III:
+
+
+502
+0:54:58,47 --> 0:55:4,94
+Actually, the primary example I gave, SAP,
+was actually with customers and with third-party
+
+
+503
+0:55:4,94 --> 0:55:11,17
+channels. That was the primary focus of the
+SAP developer platform. It wasn t an internal
+
+
+504
+0:55:11,17 --> 0:55:15,98
+platform, and I actually believe, going back
+to the question of how do you get change to
+
+
+505
+0:55:15,98 --> 0:55:21,89
+happen in large companies, it s easier to
+change at the interface with the customer
+
+
+506
+0:55:21,89 --> 0:55:30,45
+than internally. We have such rigid policies,
+procedures, processes within the company,
+
+
+507
+0:55:30,45 --> 0:55:37,56
+and customers, fortunately or unfortunately,
+don t like rigid policies, procedures and
+
+
+508
+0:55:37,56 --> 0:55:42,849
+processes so if we re going to be successful
+in engaging with them and building deeper
+
+
+509
+0:55:42,849 --> 0:55:47,63
+trust-based relationships with them, we re
+going to have to figure this out, and so I
+
+
+510
+0:55:47,63 --> 0:55:53,64
+believe it s going to get figured out first
+at the customer interface and then be brought
+
+
+511
+0:55:53,64 --> 0:56:0,1
+into other parts of the company, but that
+is where the change will occur. And again,
+
+
+512
+0:56:0,1 --> 0:56:5,6
+part of it is just the incredibly increasing
+competitive pressure we re all facing in terms
+
+
+513
+0:56:5,6 --> 0:56:12,349
+of how do we expand our relationships with
+our customers and generate more revenue and
+
+
+514
+0:56:12,349 --> 0:56:22,18
+profitability from them, and that that s the
+economic driver that s going to make this
+
+
+515
+0:56:22,18 --> 0:56:29,589
+work. Audience Member: So kind of going back
+to the example that you were using at SAP,
+
+
+516
+0:56:29,589 --> 0:56:39,63
+you talked about the access kind of being
+the initial sort of core, and then as people
+
+
+517
+0:56:39,63 --> 0:56:44,79
+participated and these reputations and so
+forth, that it snowballed. So I have kind
+
+
+518
+0:56:44,79 --> 0:56:50,42
+of two questions around that: one is what
+kind of greases that wheel because conceptually
+
+
+519
+0:56:50,42 --> 0:56:54,97
+it s easy to get your arms around, but until
+you have the reputation how do you get the
+
+
+520
+0:56:54,97 --> 0:57:1,109
+people to come? Was there an actually promotion
+around that? Like how did they get that going?
+
+
+521
+0:57:1,109 --> 0:57:7,47
+And the second is, in our litigious society
+and how historically law has really been behind
+
+
+522
+0:57:7,47 --> 0:57:15,4
+technology, how do we navigate that with liability.
+We re in the healthcare industry and so there
+
+
+523
+0:57:15,4 --> 0:57:21,8
+are a whole lot of issues around sharing and
+learning and that kind of stuff. So I m interested
+
+
+524
+0:57:21,8 --> 0:57:27,27
+in your thoughts on that. John Hagel III:
+Yes. It s a great question. I think that in
+
+
+525
+0:57:27,27 --> 0:57:33,8
+terms of how it gets going, again, it s hard
+to generalize. In the SAP example it was this
+
+
+526
+0:57:33,8 --> 0:57:41,23
+simple process of they took some very narrowly-defined
+areas of the NetWeaver platform and created
+
+
+527
+0:57:41,23 --> 0:57:46,25
+some discussion forums where people could
+just come and ask a question, and so that
+
+
+528
+0:57:46,25 --> 0:57:51,82
+was the starting point. One of the issues
+you face with these kinds of platforms is
+
+
+529
+0:57:51,82 --> 0:57:56,98
+the empty room problem. Right? You create
+this discussion forum and you go in and ask
+
+
+530
+0:57:56,98 --> 0:58:2,13
+a question. It s an echo chamber. Nobody there
+to answer, to talk with you about it. So you
+
+
+531
+0:58:2,13 --> 0:58:9,27
+got to be thoughtful, first of all, about
+how you populate these arenas initially, potentially,
+
+
+532
+0:58:9,27 --> 0:58:15,46
+with some people within the company, but some
+lead customers who you ve identified or engaged
+
+
+533
+0:58:15,46 --> 0:58:21,25
+with in other contexts; draw them in so that
+they become part of the resource that can
+
+
+534
+0:58:21,25 --> 0:58:30,26
+be drawn upon. And I just want to broaden
+it a bit in the sense that I can t resist
+
+
+535
+0:58:30,26 --> 0:58:36,63
+telling a story but one of the people we profiled
+in the book, The Power of Pull, is a guy by
+
+
+536
+0:58:36,63 --> 0:58:44,66
+the name of Yossi Vardi. Some of you may know
+he s a very successful Israeli entrepreneur.
+
+
+537
+0:58:44,66 --> 0:58:52,599
+He goes to conferences. I d say six days out
+of seven he s at a conference somewhere in
+
+
+538
+0:58:52,599 --> 0:58:57,17
+the world. It s all over the world, but what
+s really interesting about him is he never
+
+
+539
+0:58:57,17 --> 0:59:3,75
+goes into a conference, into a session. He
+pays the money; he s there, but he never goes
+
+
+540
+0:59:3,75 --> 0:59:10,74
+into the session. He finds a sofa outside
+the room and he just sits there, and as he
+
+
+541
+0:59:10,74 --> 0:59:17,13
+sees interesting people wondering through
+the hall he kind of calls them over and says,
+
+
+542
+0:59:17,13 --> 0:59:23,77
+Who are you? Let s talk, and he strikes up
+these conversations, and he s a master of
+
+
+543
+0:59:23,77 --> 0:59:28,51
+serendipity. s choices like that, I mean,
+in terms of design that you, in fact, put
+
+
+544
+0:59:28,51 --> 0:59:34,3
+sofas out there, seats out there where people
+can connect with each other and start talking,
+
+
+545
+0:59:34,3 --> 0:59:40,98
+start conversations. It s really basic things
+like that. I just want to finish with a brief
+
+
+546
+0:59:40,98 --> 0:59:46,27
+story because it s such a great one on so
+many levels. It s actually a guy here in San
+
+
+547
+0:59:46,27 --> 0:59:52,26
+Francisco, who many of you I m sure know,
+Chris Anderson, who s the editor of Wired
+
+
+548
+0:59:52,26 --> 0:59:59,5
+magazine. On the side Chris has a startup
+in, of all things, drone aircraft technology,
+
+
+549
+0:59:59,5 --> 1:0:4,89
+unmanned aircraft. It s been his passion all
+his life, and he decided he was going to set
+
+
+550
+1:0:4,89 --> 1:0:9,26
+up this company, and as he set it up he got
+more and more anxious because he has absolutely
+
+
+551
+1:0:9,26 --> 1:0:15,4
+no technology background himself, and so he
+said, How can I do this startup without any
+
+
+552
+1:0:15,4 --> 1:0:21,99
+technologists? So he went out and back to
+the levels of pull he started with the first
+
+
+553
+1:0:21,99 --> 1:0:26,45
+level. He went on a very systematic search.
+He went out to all the logical suspects Carnegie
+
+
+554
+1:0:26,45 --> 1:0:36,73
+Mellon, MIT, Berkeley, Stanford, Caltech.
+Searched ruthlessly through all the PhD programs
+
+
+555
+1:0:36,73 --> 1:0:41,28
+to see if he could find anybody who had the
+profile of skills and experience that he was
+
+
+556
+1:0:41,28 --> 1:0:47,14
+looking for. Nobody. Nothing came up. He was
+really frustrated. One day he was in a discussion
+
+
+557
+1:0:47,14 --> 1:0:54,55
+forum online discussing drone aircraft technology,
+and he struck up a conversation with somebody
+
+
+558
+1:0:54,55 --> 1:0:59,21
+he had never encountered before, and the more
+he got into the conversation, the more excited
+
+
+559
+1:0:59,21 --> 1:1:4,25
+he became. He said, This guy knows more about
+drone aircraft technology than anybody I ve
+
+
+560
+1:1:4,25 --> 1:1:10,83
+ever met, and he finally asked the question.
+He said, Where did you get your PhD from?
+
+
+561
+1:1:10,83 --> 1:1:15,99
+And there was kind of this awkward silence
+on the other end of the discussion forum.
+
+
+562
+1:1:15,99 --> 1:1:21,48
+The guy evaded the question, and they went
+on in the conversation and the more they talked
+
+
+563
+1:1:21,48 --> 1:1:26,33
+the more excited Christ became, and he ultimately
+got enough trust with the guy to probe and
+
+
+564
+1:1:26,33 --> 1:1:34,75
+find out who and where he was. It turns out
+he was at the time a 19-year-old high-school
+
+
+565
+1:1:34,75 --> 1:1:44,45
+graduate in Tijuana, Mexico. Who would have
+thought to look among high-school graduates
+
+
+566
+1:1:44,45 --> 1:1:53,27
+in Tijuana, Mexico to find the CTO of your
+tech startup? This guy, now 23, is the CTO
+
+
+567
+1:1:53,27 --> 1:1:59,99
+of Chris startup; has moved to the United
+States. But I think it s a great example of
+
+
+568
+1:1:59,99 --> 1:2:2,73
+serendipity in action. You often don t know
+where to look for the people who are going
+
+
+569
+1:2:2,73 --> 1:2:7,75
+to be most valuable to you, and if you don
+t participate in environments that help you
+
+
+570
+1:2:7,75 --> 1:2:9,51
+to have those unexpected encounters, you re
+going to be increasingly challenged. Thank
+
+
+571
+1:2:9,51 --> 1:2:10,4
+you. [End of Audio] [Vimeo-210831897] Keynote_John
+Hagel III_MX 2011 Page PAGE of NUMPAGES www.verbalink.com
+
+
+572
+1:2:10,4 --> 1:2:10,42
+Page PAGE of NUMPAGES hC`p [Content_Types].xml
+u$Nw @8Jb _rels/.rels theme/theme/themeManager.xml
+
+
+573
+1:2:10,42 --> 1:2:10,99
+sQ}# theme/theme/theme1.xml G$$DA :$BR si-@R
+r,[L bX*x KfN1 ,tV@ .EML M .c =<R8 (F{\ O/<o[
+
+
+574
+1:2:10,99 --> 1:2:11,369
+62Hp !Uq7 GvxY @JyBw>6K 0i1; P0!Y ?sE/ ?J&l
+p)af theme/theme/_rels/themeManager.xml.rels
+
+
+575
+1:2:11,369 --> 1:2:11,599
+6?$Q K(M&$R(.1 [Content_Types].xmlPK _rels/.relsPK
+theme/theme/themeManager.xmlPK theme/theme/theme1.xmlPK
+
+
+576
+1:2:11,599 --> 1:2:11,79
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+577
+1:2:11,79 --> 1:2:12,6
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1"
+
+
+578
+1:2:12,6 --> 1:2:12,29
+accent2="accent2" accent3="accent3" accent4="accent4"
+accent5="accent5" accent6="accent6" hlink="hlink"
+
+
+579
+1:2:12,29 --> 1:2:12,71
+folHlink="folHlink"/> "^('E2 BoP.E2 Keynote_John
+Hagel III_MX 2011 Verbal Ink Normal.dotm Chelsa
+
+
+580
+1:2:12,71 --> 1:2:13,16
+Robinson Microsoft Macintosh Word Verbal Ink
+Keynote_John Hagel III_MX 2011 Title Microsoft
+
+
+581
+1:2:13,16 --> 1:4:13,16
+Word 97-2004 Document NB6W Word.Document.8
+
+

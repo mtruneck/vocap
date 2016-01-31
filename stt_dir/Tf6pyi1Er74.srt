@@ -1,0 +1,2936 @@
+1
+0:0:0,0 --> 0:0:13,89
+
+
+
+2
+0:0:13,89 --> 0:0:14,67
+MALE SPEAKER: Good afternoon.
+
+
+3
+0:0:14,67 --> 0:0:19,39
+I hope everyone is having a
+wonderful Big Tent Conference.
+
+
+4
+0:0:19,39 --> 0:0:24,22
+We do this because we care
+a lot about information.
+
+
+5
+0:0:24,22 --> 0:0:27,8
+We care exactly for the same
+reasons you do, because of the
+
+
+6
+0:0:27,8 --> 0:0:29,5
+impact that it can have.
+
+
+7
+0:0:29,5 --> 0:0:31,81
+
+
+
+8
+0:0:31,81 --> 0:0:36,86
+I think about what these
+devices represent.
+
+
+9
+0:0:36,86 --> 0:0:41,61
+When I look at this, I say
+to myself, Oh my God.
+
+
+10
+0:0:41,61 --> 0:0:44,62
+This device is really a
+small supercomputer.
+
+
+11
+0:0:44,62 --> 0:0:47,99
+And this is a slightly larger
+supercomputer, all connected
+
+
+12
+0:0:47,99 --> 0:0:51,91
+over this fast network to
+these powerful servers.
+
+
+13
+0:0:51,91 --> 0:0:55,79
+But then I realize that this is
+just really the beginning
+
+
+14
+0:0:55,79 --> 0:0:58,73
+of something much,
+much bigger.
+
+
+15
+0:0:58,73 --> 0:1:1,1
+And the numbers tell
+the story.
+
+
+16
+0:1:1,1 --> 0:1:4,76
+There are now 1.3 million
+activations of
+
+
+17
+0:1:4,76 --> 0:1:8,32
+Android devices per day.
+
+
+18
+0:1:8,32 --> 0:1:11,29
+And that number has doubled
+in the last six months.
+
+
+19
+0:1:11,29 --> 0:1:13,86
+A little bit of math will tell
+you that we're on our way to
+
+
+20
+0:1:13,86 --> 0:1:17,43
+more than a billion or so of
+these kinds of devices pretty
+
+
+21
+0:1:17,43 --> 0:1:20,6
+soon, there are more than
+a half a billion now.
+
+
+22
+0:1:20,6 --> 0:1:21,86
+And of course everyone's waiting
+for the announcement
+
+
+23
+0:1:21,86 --> 0:1:25,12
+of the major competitor
+on Friday.
+
+
+24
+0:1:25,12 --> 0:1:26,63
+And everyone's very excited
+about that, which is
+
+
+25
+0:1:26,63 --> 0:1:27,23
+wonderful--
+
+
+26
+0:1:27,23 --> 0:1:30,75
+another great competitor, a
+smaller percentage than we
+
+
+27
+0:1:30,75 --> 0:1:32,23
+have at this point.
+
+
+28
+0:1:32,23 --> 0:1:34,72
+The fact of the matter is that
+both these platforms are
+
+
+29
+0:1:34,72 --> 0:1:39,64
+completely changing everything
+we do, the way we live, the
+
+
+30
+0:1:39,64 --> 0:1:42,63
+way we operate in
+so many ways.
+
+
+31
+0:1:42,63 --> 0:1:45,35
+It would never have occurred to
+me in all my years of doing
+
+
+32
+0:1:45,35 --> 0:1:48,83
+this sort of thing that you'd
+have start-ups that would all
+
+
+33
+0:1:48,83 --> 0:1:52,17
+be about what people want, what
+information they want,
+
+
+34
+0:1:52,17 --> 0:1:54,45
+how to meet other people, where
+they should go, what
+
+
+35
+0:1:54,45 --> 0:1:56,87
+they should do, how they should
+entertain themselves.
+
+
+36
+0:1:56,87 --> 0:1:58,71
+But not only are those start-ups
+being formed,
+
+
+37
+0:1:58,71 --> 0:2:0,86
+especially here in New York,
+but they're going to be
+
+
+38
+0:2:0,86 --> 0:2:4,84
+successful because of the
+sheer logic of numbers.
+
+
+39
+0:2:4,84 --> 0:2:10,919
+But even more interesting is to
+imagine what's going to be
+
+
+40
+0:2:10,919 --> 0:2:15,8
+possible with these devices
+over the next few years.
+
+
+41
+0:2:15,8 --> 0:2:19,46
+Imagine these not just as pieces
+of hardware but as
+
+
+42
+0:2:19,46 --> 0:2:20,99
+ecosystems.
+
+
+43
+0:2:20,99 --> 0:2:24,5
+Ecosystems that are highly
+personal that you've opted
+
+
+44
+0:2:24,5 --> 0:2:26,88
+into, so you've let us know
+these things, where we can
+
+
+45
+0:2:26,88 --> 0:2:28,89
+help give you advice.
+
+
+46
+0:2:28,89 --> 0:2:30,73
+They serve as your assistant.
+
+
+47
+0:2:30,73 --> 0:2:32,68
+They suggest things.
+
+
+48
+0:2:32,68 --> 0:2:34,79
+This is all in the works.
+
+
+49
+0:2:34,79 --> 0:2:40,55
+So now imagine a few
+steps farther.
+
+
+50
+0:2:40,55 --> 0:2:42,6
+What does the future
+look like?
+
+
+51
+0:2:42,6 --> 0:2:43,89
+This is not the end.
+
+
+52
+0:2:43,89 --> 0:2:45,61
+This is the beginning.
+
+
+53
+0:2:45,61 --> 0:2:48,76
+And this is where it gets
+particularly interesting.
+
+
+54
+0:2:48,76 --> 0:2:52,45
+All of us have been trapped in
+this model, the traditional PC
+
+
+55
+0:2:52,45 --> 0:2:55,26
+model of everything
+right there.
+
+
+56
+0:2:55,26 --> 0:2:58,7
+The most interesting thing about
+computers is that they
+
+
+57
+0:2:58,7 --> 0:3:3,25
+almost disappear because they
+become so commonplace.
+
+
+58
+0:3:3,25 --> 0:3:5,77
+I'll give you a scenario.
+
+
+59
+0:3:5,77 --> 0:3:9,62
+When you wake up in the morning,
+the room is alive.
+
+
+60
+0:3:9,62 --> 0:3:13,13
+And the room knows roughly how
+to wake you at the optimal
+
+
+61
+0:3:13,13 --> 0:3:14,89
+point in your REM cycle.
+
+
+62
+0:3:14,89 --> 0:3:17,45
+It knows what you need in the
+morning and it alerts you
+
+
+63
+0:3:17,45 --> 0:3:20,85
+through complex and powerful
+screens the things that you
+
+
+64
+0:3:20,85 --> 0:3:23,47
+care about, so that you know
+whether you have a crisis
+
+
+65
+0:3:23,47 --> 0:3:27,34
+today or whether you can relax
+and stay in bed for a while.
+
+
+66
+0:3:27,34 --> 0:3:29,18
+Pretty straightforward.
+
+
+67
+0:3:29,18 --> 0:3:31,73
+What's interesting about
+this new world
+
+
+68
+0:3:31,73 --> 0:3:33,7
+is that these devices--
+
+
+69
+0:3:33,7 --> 0:3:37,94
+again all opt-in, all in ways
+that you've set up--
+
+
+70
+0:3:37,94 --> 0:3:40,61
+help you every day
+along the way.
+
+
+71
+0:3:40,61 --> 0:3:43,6
+Not only do they measure your
+heart rate and how you're
+
+
+72
+0:3:43,6 --> 0:3:47,31
+doing, but they also make your
+life so much more efficient.
+
+
+73
+0:3:47,31 --> 0:3:52,0
+How much time do you spend,
+wasting, making travel
+
+
+74
+0:3:52,0 --> 0:3:54,97
+reservations, trying to figure
+out where the bus is, how do I
+
+
+75
+0:3:54,97 --> 0:3:56,81
+get from here to there,
+and so forth.
+
+
+76
+0:3:56,81 --> 0:4:1,39
+They anticipate what you need,
+where you're going, because of
+
+
+77
+0:4:1,39 --> 0:4:4,6
+the things that you have told
+it, the things that
+
+
+78
+0:4:4,6 --> 0:4:5,62
+it thinks you want.
+
+
+79
+0:4:5,62 --> 0:4:8,91
+And all of a sudden you begin
+to realize it's not just an
+
+
+80
+0:4:8,91 --> 0:4:12,78
+assistant, it's really a
+very smart assistant.
+
+
+81
+0:4:12,78 --> 0:4:15,4
+Now as these devices get
+stronger and as they become
+
+
+82
+0:4:15,4 --> 0:4:19,99
+more capable, they can
+do other things.
+
+
+83
+0:4:19,99 --> 0:4:24,41
+Now there's no better example
+of this than in medicine.
+
+
+84
+0:4:24,41 --> 0:4:29,74
+The app that I want, I
+call, Where's My Mom.
+
+
+85
+0:4:29,74 --> 0:4:33,32
+Many people have elderly
+parents.
+
+
+86
+0:4:33,32 --> 0:4:37,24
+I want computers to help monitor
+how my mom's doing.
+
+
+87
+0:4:37,24 --> 0:4:38,85
+How was her day?
+
+
+88
+0:4:38,85 --> 0:4:38,78
+Is she good?
+
+
+89
+0:4:38,78 --> 0:4:40,41
+Is she bad?
+
+
+90
+0:4:40,41 --> 0:4:43,77
+In case there's some alert or
+something that she needs.
+
+
+91
+0:4:43,77 --> 0:4:46,97
+The good news is she's in good
+health but you never know.
+
+
+92
+0:4:46,97 --> 0:4:47,86
+Why can't we do that?
+
+
+93
+0:4:47,86 --> 0:4:49,7
+Well, in fact people
+are building those
+
+
+94
+0:4:49,7 --> 0:4:50,97
+devices right now.
+
+
+95
+0:4:50,97 --> 0:4:53,68
+But now let's go one
+step further.
+
+
+96
+0:4:53,68 --> 0:4:57,51
+Eventually over the next decade,
+you'll be able to
+
+
+97
+0:4:57,51 --> 0:5:1,29
+actually have things that you
+ingest, it will transmit
+
+
+98
+0:5:1,29 --> 0:5:7,24
+through WiFi, it will say what's
+going on inside of you.
+
+
+99
+0:5:7,24 --> 0:5:9,1
+You can decide if you want
+to do this or not.
+
+
+100
+0:5:9,1 --> 0:5:10,69
+But trust me, your health
+will be better.
+
+
+101
+0:5:10,69 --> 0:5:13,51
+You guys don't look like you're
+very happy about this.
+
+
+102
+0:5:13,51 --> 0:5:16,83
+But people are developing
+this stuff now.
+
+
+103
+0:5:16,83 --> 0:5:19,23
+What about transdermal
+measurement?
+
+
+104
+0:5:19,23 --> 0:5:20,11
+These are devices--
+
+
+105
+0:5:20,11 --> 0:5:23,95
+you hold your phone and again
+without pricking your skin, it
+
+
+106
+0:5:23,95 --> 0:5:26,59
+can measure your blood pressure,
+your various other
+
+
+107
+0:5:26,59 --> 0:5:28,9
+vital signs, and so forth.
+
+
+108
+0:5:28,9 --> 0:5:32,5
+We're going to build the systems
+so the doctor calls
+
+
+109
+0:5:32,5 --> 0:5:35,35
+you and says, you better get
+yourself to the hospital right
+
+
+110
+0:5:35,35 --> 0:5:39,17
+now, rather than you
+calling the doctor.
+
+
+111
+0:5:39,17 --> 0:5:43,16
+And that's the ultimate
+inversion of this model, that
+
+
+112
+0:5:43,16 --> 0:5:45,83
+these devices, that the
+micro-miniaturization, the
+
+
+113
+0:5:45,83 --> 0:5:49,32
+technology that we've taken
+that's been so heavy and hard
+
+
+114
+0:5:49,32 --> 0:5:53,71
+to use for most of us becomes
+embedded inside of us.
+
+
+115
+0:5:53,71 --> 0:5:56,53
+There's a new generation of
+technology, social robots,
+
+
+116
+0:5:56,53 --> 0:5:59,95
+that can actually recognize
+gestures and can actually
+
+
+117
+0:5:59,95 --> 0:6:5,45
+interact, all of which will be
+put to the service of us.
+
+
+118
+0:6:5,45 --> 0:6:8,81
+So when you think about this
+from an art perspective and a
+
+
+119
+0:6:8,81 --> 0:6:13,13
+culture perspective, it says
+that these devices, which
+
+
+120
+0:6:13,13 --> 0:6:16,84
+we're so incredibly excited
+about, will be seen as so
+
+
+121
+0:6:16,84 --> 0:6:19,22
+extraordinarily primitive.
+
+
+122
+0:6:19,22 --> 0:6:24,0
+And that the ability to build
+systems that interact, that
+
+
+123
+0:6:24,0 --> 0:6:27,2
+help us, that monitor
+us-- again because
+
+
+124
+0:6:27,2 --> 0:6:29,1
+we want them to--
+
+
+125
+0:6:29,1 --> 0:6:32,316
+will make a huge,
+huge difference
+
+
+126
+0:6:32,316 --> 0:6:33,9
+in everybody's lives.
+
+
+127
+0:6:33,9 --> 0:6:36,99
+And the most exciting thing
+about this is that in the
+
+
+128
+0:6:36,99 --> 0:6:43,17
+spread of this, it happens not
+just for us, the wealthy,
+
+
+129
+0:6:43,17 --> 0:6:44,84
+developed world.
+
+
+130
+0:6:44,84 --> 0:6:48,51
+But the same story at a
+slower scale works in
+
+
+131
+0:6:48,51 --> 0:6:50,57
+the developing world.
+
+
+132
+0:6:50,57 --> 0:6:53,26
+So we sit there and we go, well,
+we're really excited.
+
+
+133
+0:6:53,26 --> 0:6:54,22
+We can use Google here.
+
+
+134
+0:6:54,22 --> 0:6:56,5
+We can watch YouTube
+and so forth.
+
+
+135
+0:6:56,5 --> 0:7:1,53
+In a country with no schools,
+no textbooks, and the only
+
+
+136
+0:7:1,53 --> 0:7:4,35
+thing they have are these
+devices, these devices are
+
+
+137
+0:7:4,35 --> 0:7:6,82
+life-changing.
+
+
+138
+0:7:6,82 --> 0:7:10,2
+And over the next three to
+five years, the next five
+
+
+139
+0:7:10,2 --> 0:7:12,79
+billion will get low-end
+smartphones
+
+
+140
+0:7:12,79 --> 0:7:14,6
+of one kind or another.
+
+
+141
+0:7:14,6 --> 0:7:19,23
+It will finally enable them to
+join our conversation, to get
+
+
+142
+0:7:19,23 --> 0:7:22,63
+the benefits of the information,
+the culture, the
+
+
+143
+0:7:22,63 --> 0:7:26,25
+art, and all the things that you
+all have worked so hard.
+
+
+144
+0:7:26,25 --> 0:7:29,64
+It's extraordinary to imagine
+all of the world now being
+
+
+145
+0:7:29,64 --> 0:7:32,95
+able to participate at the state
+of the art, at the level
+
+
+146
+0:7:32,95 --> 0:7:36,15
+of technology that we're
+talking about today.
+
+
+147
+0:7:36,15 --> 0:7:38,53
+This is I think why we're so
+excited about our partnerships
+
+
+148
+0:7:38,53 --> 0:7:41,5
+with you all and why we're
+putting so much money in this
+
+
+149
+0:7:41,5 --> 0:7:42,28
+kind of stuff.
+
+
+150
+0:7:42,28 --> 0:7:45,78
+I thought what I should do is
+pause and perhaps ask people's
+
+
+151
+0:7:45,78 --> 0:7:49,14
+comments or questions
+as we begin
+
+
+152
+0:7:49,14 --> 0:7:50,64
+the rest of the afternoon.
+
+
+153
+0:7:50,64 --> 0:7:52,77
+Who would like to start with
+questions or comments on this
+
+
+154
+0:7:52,77 --> 0:7:54,2
+or on anything else?
+
+
+155
+0:7:54,2 --> 0:7:58,18
+
+
+
+156
+0:7:58,18 --> 0:8:0,316
+In the back, go ahead,
+yes sir.
+
+
+157
+0:8:0,316 --> 0:8:1,566
+AUDIENCE: [INAUDIBLE]
+
+
+158
+0:8:1,566 --> 0:8:17,58
+
+
+
+159
+0:8:17,58 --> 0:8:20,46
+what in the future the
+individual's responsibility
+
+
+160
+0:8:20,46 --> 0:8:23,3
+for themselves will
+be or could be?
+
+
+161
+0:8:23,3 --> 0:8:26,8
+And how does that change in
+our relationship to larger
+
+
+162
+0:8:26,8 --> 0:8:28,195
+corporations who would have
+to run these systems?
+
+
+163
+0:8:28,195 --> 0:8:30,95
+
+
+
+164
+0:8:30,95 --> 0:8:33,21
+MALE SPEAKER: Very
+good question.
+
+
+165
+0:8:33,21 --> 0:8:36,78
+The technology can be programmed
+to be more of a
+
+
+166
+0:8:36,78 --> 0:8:39,799
+nanny state or more of a
+libertarian model, for
+
+
+167
+0:8:39,799 --> 0:8:43,429
+purposes of discussion,
+if you want to imagine
+
+
+168
+0:8:43,429 --> 0:8:45,44
+the two most extremes.
+
+
+169
+0:8:45,44 --> 0:8:48,86
+I believe societies will
+ultimately choose somewhere
+
+
+170
+0:8:48,86 --> 0:8:51,54
+along that arc.
+
+
+171
+0:8:51,54 --> 0:8:54,4
+And I think societies will
+choose different points based
+
+
+172
+0:8:54,4 --> 0:8:59,1
+on culture, legal precedent,
+sort of the way they run.
+
+
+173
+0:8:59,1 --> 0:9:3,21
+Autocracies, for example, will
+be much less interested in
+
+
+174
+0:9:3,21 --> 0:9:4,36
+your personal freedom than a
+
+
+175
+0:9:4,36 --> 0:9:6,99
+democracy, for obvious reasons.
+
+
+176
+0:9:6,99 --> 0:9:10,7
+And there's lots of
+evidence of that.
+
+
+177
+0:9:10,7 --> 0:9:12,18
+That's the first observation.
+
+
+178
+0:9:12,18 --> 0:9:13,43
+It will vary.
+
+
+179
+0:9:13,43 --> 0:9:16,16
+
+
+
+180
+0:9:16,16 --> 0:9:18,99
+All of these systems, in my
+view, will ultimately be
+
+
+181
+0:9:18,99 --> 0:9:23,27
+designed around, the individual
+has to opt in.
+
+
+182
+0:9:23,27 --> 0:9:26,93
+It's simply too scary to imagine
+these things being
+
+
+183
+0:9:26,93 --> 0:9:31,61
+imposed on people, I argue and
+I feel very strongly that in
+
+
+184
+0:9:31,61 --> 0:9:35,3
+the hawks versus doves argument,
+the hawks tend to
+
+
+185
+0:9:35,3 --> 0:9:39,86
+win and there tends to be
+a stripping of privacy.
+
+
+186
+0:9:39,86 --> 0:9:43,61
+There tends to be a loss of
+individual responsibility, if
+
+
+187
+0:9:43,61 --> 0:9:45,87
+you will, the ability to
+make your own choice.
+
+
+188
+0:9:45,87 --> 0:9:49,27
+But I do think that societies
+will make those decisions but
+
+
+189
+0:9:49,27 --> 0:9:51,51
+in different levels.
+
+
+190
+0:9:51,51 --> 0:9:54,26
+And the technology
+will serve that.
+
+
+191
+0:9:54,26 --> 0:9:55,73
+The second part of your question
+was, what are the
+
+
+192
+0:9:55,73 --> 0:9:57,25
+responsibilities of
+global companies?
+
+
+193
+0:9:57,25 --> 0:10:0,43
+We spend a lot of time at Google
+thinking about this.
+
+
+194
+0:10:0,43 --> 0:10:3,82
+And the conclusion we've come
+to, is we have a set of
+
+
+195
+0:10:3,82 --> 0:10:5,92
+principles that we believe
+in to make the
+
+
+196
+0:10:5,92 --> 0:10:7,63
+world a better place.
+
+
+197
+0:10:7,63 --> 0:10:11,72
+And we will push them as hard
+as we can up to the point
+
+
+198
+0:10:11,72 --> 0:10:14,75
+where we're violating the laws
+of the other country.
+
+
+199
+0:10:14,75 --> 0:10:17,93
+So we will take a position--
+when there's an ambiguity--
+
+
+200
+0:10:17,93 --> 0:10:20,72
+for free expression, openness,
+freedom of
+
+
+201
+0:10:20,72 --> 0:10:23,92
+choice, we trust you.
+
+
+202
+0:10:23,92 --> 0:10:27,59
+When it comes to literally
+violating the law of the other
+
+
+203
+0:10:27,59 --> 0:10:32,35
+country, then we're forced to
+back away, sometimes in our
+
+
+204
+0:10:32,35 --> 0:10:35,89
+view for the wrong reasons.
+
+
+205
+0:10:35,89 --> 0:10:38,69
+Most global companies
+will come to that.
+
+
+206
+0:10:38,69 --> 0:10:40,47
+Our attitude is seen in many
+
+
+207
+0:10:40,47 --> 0:10:43,65
+countries is American hegemony.
+
+
+208
+0:10:43,65 --> 0:10:45,79
+It's important to understand
+that my message, which plays
+
+
+209
+0:10:45,79 --> 0:10:47,62
+well in the US, does not
+necessarily play
+
+
+210
+0:10:47,62 --> 0:10:50,71
+well in other countries.
+
+
+211
+0:10:50,71 --> 0:10:51,53
+More questions?
+
+
+212
+0:10:51,53 --> 0:10:52,78
+Yes, yes, ma'am.
+
+
+213
+0:10:52,78 --> 0:11:1,47
+
+
+
+214
+0:11:1,47 --> 0:11:2,96
+AUDIENCE: What I brought
+up before about market
+
+
+215
+0:11:2,96 --> 0:11:7,96
+saturation, I'd like to hear
+your thoughts on making the
+
+
+216
+0:11:7,96 --> 0:11:12,29
+availability of any kind of a
+creative work, whether it's a
+
+
+217
+0:11:12,29 --> 0:11:17,97
+newspaper, a work of art, but
+making it available so broadly
+
+
+218
+0:11:17,97 --> 0:11:23,34
+that it therefore saturates a
+market, which tends to push
+
+
+219
+0:11:23,34 --> 0:11:25,8
+pricing down.
+
+
+220
+0:11:25,8 --> 0:11:32,4
+Which tends to then support
+industries as a whole but not
+
+
+221
+0:11:32,4 --> 0:11:36,54
+the smaller company, not
+the smaller individual.
+
+
+222
+0:11:36,54 --> 0:11:39,3
+And is that where we're going?
+
+
+223
+0:11:39,3 --> 0:11:42,8
+Where it becomes almost like the
+old motion picture studio
+
+
+224
+0:11:42,8 --> 0:11:44,52
+model for all creative works?
+
+
+225
+0:11:44,52 --> 0:11:47,9
+And that that's the only way
+to make money is if the
+
+
+226
+0:11:47,9 --> 0:11:50,17
+companies own all of this,
+because of this market
+
+
+227
+0:11:50,17 --> 0:11:51,8
+saturation.
+
+
+228
+0:11:51,8 --> 0:11:52,99
+MALE SPEAKER: I agree with the
+first half of your question
+
+
+229
+0:11:52,99 --> 0:11:55,4
+and not the conclusion.
+
+
+230
+0:11:55,4 --> 0:11:58,5
+So the rough analysis of what's
+going on is that we
+
+
+231
+0:11:58,5 --> 0:12:2,24
+went from an era of scarcity
+to an era of abundance.
+
+
+232
+0:12:2,24 --> 0:12:5,87
+That the distribution models
+of the past were largely
+
+
+233
+0:12:5,87 --> 0:12:9,32
+limited by physical constraints,
+the difficulty of
+
+
+234
+0:12:9,32 --> 0:12:12,32
+copying et cetera, et cetera.
+
+
+235
+0:12:12,32 --> 0:12:14,24
+So you had high cost of
+distribution, high cost of
+
+
+236
+0:12:14,24 --> 0:12:15,38
+manufacturing.
+
+
+237
+0:12:15,38 --> 0:12:17,83
+In the digital world, you have
+essentially no cost of
+
+
+238
+0:12:17,83 --> 0:12:20,49
+distribution and no cost
+of manufacturing.
+
+
+239
+0:12:20,49 --> 0:12:22,58
+So you've gone from the
+era of scarcity
+
+
+240
+0:12:22,58 --> 0:12:24,42
+to the era of abundance.
+
+
+241
+0:12:24,42 --> 0:12:27,63
+In an era of abundance, there
+are many, many strategies to
+
+
+242
+0:12:27,63 --> 0:12:28,74
+make money.
+
+
+243
+0:12:28,74 --> 0:12:32,25
+Unfortunately, the people who
+made the money in the era of
+
+
+244
+0:12:32,25 --> 0:12:35,52
+scarcity often don't make the
+transition to the next.
+
+
+245
+0:12:35,52 --> 0:12:38,58
+They struggle for all
+sorts of reasons.
+
+
+246
+0:12:38,58 --> 0:12:39,4
+In the newspapers--
+
+
+247
+0:12:39,4 --> 0:12:41,59
+which is an easy one
+to understand--
+
+
+248
+0:12:41,59 --> 0:12:44,0
+there are number of newspapers
+that were formed that are new
+
+
+249
+0:12:44,0 --> 0:12:47,33
+that are doing very well, that
+adopted an advertising model
+
+
+250
+0:12:47,33 --> 0:12:49,3
+as opposed to a subscription
+model.
+
+
+251
+0:12:49,3 --> 0:12:52,81
+The Politico and Huffington
+Post, as to Huffington Post
+
+
+252
+0:12:52,81 --> 0:12:54,74
+run out of here.
+
+
+253
+0:12:54,74 --> 0:12:58,59
+And so those are some examples
+of new ventures, new business
+
+
+254
+0:12:58,59 --> 0:13:1,93
+models where they ditched
+the old model.
+
+
+255
+0:13:1,93 --> 0:13:4,4
+And it's fine to keep the old
+model but the point is, it's a
+
+
+256
+0:13:4,4 --> 0:13:5,54
+hybrid model.
+
+
+257
+0:13:5,54 --> 0:13:10,22
+So it does not then follow that
+all the content is owned
+
+
+258
+0:13:10,22 --> 0:13:12,18
+by big companies.
+
+
+259
+0:13:12,18 --> 0:13:15,15
+I think what it means is that
+at each point in the value
+
+
+260
+0:13:15,15 --> 0:13:18,3
+chain of distribution, you
+have to come up with a
+
+
+261
+0:13:18,3 --> 0:13:20,9
+strategy to build an audience
+that will get you enough
+
+
+262
+0:13:20,9 --> 0:13:23,86
+market that you can
+monetize it.
+
+
+263
+0:13:23,86 --> 0:13:26,77
+The old model of hey, I'm going
+to restrict access to my
+
+
+264
+0:13:26,77 --> 0:13:30,33
+content works if you have
+something which you can get
+
+
+265
+0:13:30,33 --> 0:13:32,33
+the subscription revenue for.
+
+
+266
+0:13:32,33 --> 0:13:34,71
+It doesn't generally work in a
+world where everything's so
+
+
+267
+0:13:34,71 --> 0:13:36,2
+easily copyable.
+
+
+268
+0:13:36,2 --> 0:13:37,95
+That's where we are.
+
+
+269
+0:13:37,95 --> 0:13:40,5
+A lot of people are struggling
+with this.
+
+
+270
+0:13:40,5 --> 0:13:42,14
+We do have a lot of very
+good examples now.
+
+
+271
+0:13:42,14 --> 0:13:46,56
+If you look at YouTube,
+classic example.
+
+
+272
+0:13:46,56 --> 0:13:50,7
+The major studios took years to
+get to the point where they
+
+
+273
+0:13:50,7 --> 0:13:52,81
+were comfortable putting their
+content on YouTube.
+
+
+274
+0:13:52,81 --> 0:13:55,45
+And now we've pretty much got
+partners with every single one
+
+
+275
+0:13:55,45 --> 0:13:56,8
+of them and pretty much
+every one of those
+
+
+276
+0:13:56,8 --> 0:13:58,29
+deals making money.
+
+
+277
+0:13:58,29 --> 0:14:1,9
+So we together with them figured
+out a way to monetize
+
+
+278
+0:14:1,9 --> 0:14:2,63
+that content in a new way.
+
+
+279
+0:14:2,63 --> 0:14:3,708
+Just took a while.
+
+
+280
+0:14:3,708 --> 0:14:4,958
+AUDIENCE: [INAUDIBLE]
+
+
+281
+0:14:4,958 --> 0:14:8,86
+
+
+
+282
+0:14:8,86 --> 0:14:10,3
+MALE SPEAKER: The question is,
+does it go to the companies
+
+
+283
+0:14:10,3 --> 0:14:12,76
+rather than the individual
+creators?
+
+
+284
+0:14:12,76 --> 0:14:16,69
+The logic would be the inverse
+because the networks should
+
+
+285
+0:14:16,69 --> 0:14:20,97
+disintermediate the middle man
+and the aggregate revenue
+
+
+286
+0:14:20,97 --> 0:14:25,7
+should increase to the content
+provider at the end state.
+
+
+287
+0:14:25,7 --> 0:14:27,26
+So you may be seeing a
+transition effect or you may
+
+
+288
+0:14:27,26 --> 0:14:30,46
+be seeing some aspect of the
+market doesn't make sense.
+
+
+289
+0:14:30,46 --> 0:14:31,54
+But typically the internet
+
+
+290
+0:14:31,54 --> 0:14:33,88
+disintermediates the middle people.
+
+
+291
+0:14:33,88 --> 0:14:36,87
+And it forces the middle men
+to become much more highly
+
+
+292
+0:14:36,87 --> 0:14:40,8
+verticalized and specialized,
+because sheer distribution is
+
+
+293
+0:14:40,8 --> 0:14:41,59
+no longer an asset.
+
+
+294
+0:14:41,59 --> 0:14:44,27
+
+
+
+295
+0:14:44,27 --> 0:14:45,52
+Yes, sir, go ahead.
+
+
+296
+0:14:45,52 --> 0:14:49,7
+
+
+
+297
+0:14:49,7 --> 0:14:50,95
+AUDIENCE: [INAUDIBLE]
+
+
+298
+0:14:50,95 --> 0:14:53,6
+
+
+
+299
+0:14:53,6 --> 0:14:54,86
+is the YouTube film which
+is [INAUDIBLE]
+
+
+300
+0:14:54,86 --> 0:15:3,57
+
+
+
+301
+0:15:3,57 --> 0:15:6,18
+MALE SPEAKER: This is not
+the first time we've had
+
+
+302
+0:15:6,18 --> 0:15:8,48
+controversial videos
+on YouTube.
+
+
+303
+0:15:8,48 --> 0:15:12,72
+Our team has reviewed this video
+very, very carefully.
+
+
+304
+0:15:12,72 --> 0:15:15,36
+It's well within the guidelines
+that we established
+
+
+305
+0:15:15,36 --> 0:15:18,78
+in 2008 for what would be
+permissible on YouTube.
+
+
+306
+0:15:18,78 --> 0:15:20,27
+And you can read them
+on the site, so
+
+
+307
+0:15:20,27 --> 0:15:22,15
+there's no secrets here.
+
+
+308
+0:15:22,15 --> 0:15:23,85
+So it'll stay up.
+
+
+309
+0:15:23,85 --> 0:15:28,98
+We have blocked it in a couple
+of countries where the law
+
+
+310
+0:15:28,98 --> 0:15:31,25
+does not allow it to be shown.
+
+
+311
+0:15:31,25 --> 0:15:34,34
+And we have blocked it in two
+other countries where we
+
+
+312
+0:15:34,34 --> 0:15:36,77
+thought it was a matter
+of public safety.
+
+
+313
+0:15:36,77 --> 0:15:40,45
+We don't want to be associated
+with this violence, of course.
+
+
+314
+0:15:40,45 --> 0:15:46,99
+My personal view is that you
+have internal strife.
+
+
+315
+0:15:46,99 --> 0:15:50,8
+The vast majority of people who
+seem to be engaged in this
+
+
+316
+0:15:50,8 --> 0:15:53,1
+bad behavior have not
+seen the video.
+
+
+317
+0:15:53,1 --> 0:15:57,3
+They heard it through oral
+reports and so forth.
+
+
+318
+0:15:57,3 --> 0:16:2,73
+So to argue against keeping
+the video up is to argue
+
+
+319
+0:16:2,73 --> 0:16:6,53
+against core freedom of
+expression argument.
+
+
+320
+0:16:6,53 --> 0:16:9,61
+And I think all of us believe
+in religious tolerance.
+
+
+321
+0:16:9,61 --> 0:16:11,88
+And that includes religious
+criticism.
+
+
+322
+0:16:11,88 --> 0:16:13,93
+And you'll see that
+our policies.
+
+
+323
+0:16:13,93 --> 0:16:17,27
+So we've made the decision
+to keep it up.
+
+
+324
+0:16:17,27 --> 0:16:20,7
+We obviously do not endorse
+any of those actions or
+
+
+325
+0:16:20,7 --> 0:16:22,77
+violence that have
+consequences.
+
+
+326
+0:16:22,77 --> 0:16:26,47
+And frankly, I think, this is
+going to happen again in other
+
+
+327
+0:16:26,47 --> 0:16:30,3
+forms, consequence of
+the connected world.
+
+
+328
+0:16:30,3 --> 0:16:32,335
+The alternative is to shut
+off the internet, which
+
+
+329
+0:16:32,335 --> 0:16:35,2
+[? you're ?] not going to do.
+
+
+330
+0:16:35,2 --> 0:16:38,86
+AUDIENCE: I have a question
+about what the
+
+
+331
+0:16:38,86 --> 0:16:40,28
+gentleman was saying.
+
+
+332
+0:16:40,28 --> 0:16:43,925
+You said at some point doctor
+will call you, you don't need
+
+
+333
+0:16:43,925 --> 0:16:45,36
+to call the doctor.
+
+
+334
+0:16:45,36 --> 0:16:47,83
+Let's assume in a country where
+it's illegal to be gay.
+
+
+335
+0:16:47,83 --> 0:16:48,9
+You have AIDS.
+
+
+336
+0:16:48,9 --> 0:16:50,64
+Do you want your doctor
+to call you?
+
+
+337
+0:16:50,64 --> 0:16:53,1
+MALE SPEAKER: This is why I said
+earlier it's incredibly
+
+
+338
+0:16:53,1 --> 0:16:56,65
+important that these systems
+be user choice.
+
+
+339
+0:16:56,65 --> 0:17:0,64
+So if you were aware that you're
+potentially eligible
+
+
+340
+0:17:0,64 --> 0:17:3,32
+for some health disease which
+is illegal in your crazy and
+
+
+341
+0:17:3,32 --> 0:17:4,75
+stupid country.
+
+
+342
+0:17:4,75 --> 0:17:6,69
+Right?
+
+
+343
+0:17:6,69 --> 0:17:8,75
+If you find yourself stuck in
+the world's worst country
+
+
+344
+0:17:8,75 --> 0:17:11,68
+which would do that, obviously
+it's a terrible situation.
+
+
+345
+0:17:11,68 --> 0:17:16,91
+You would appropriately decide
+not to expose yourself to this
+
+
+346
+0:17:16,91 --> 0:17:18,829
+possible risk.
+
+
+347
+0:17:18,829 --> 0:17:22,55
+There is an issue here that
+these systems tend naturally
+
+
+348
+0:17:22,55 --> 0:17:25,16
+to be connected and naturally
+have tracking capabilities
+
+
+349
+0:17:25,16 --> 0:17:27,89
+just because of the
+way they're built.
+
+
+350
+0:17:27,89 --> 0:17:30,64
+So that's why opt-in, people can
+turn them on and off, and
+
+
+351
+0:17:30,64 --> 0:17:31,895
+user buy-in are very
+important.
+
+
+352
+0:17:31,895 --> 0:17:34,47
+
+
+
+353
+0:17:34,47 --> 0:17:35,27
+One more, yes?
+
+
+354
+0:17:35,27 --> 0:17:36,205
+The one there.
+
+
+355
+0:17:36,205 --> 0:17:36,58
+Yes.
+
+
+356
+0:17:36,58 --> 0:17:38,19
+Over here or here.
+
+
+357
+0:17:38,19 --> 0:17:38,33
+Go ahead.
+
+
+358
+0:17:38,33 --> 0:17:40,1
+It doesn't matter.
+
+
+359
+0:17:40,1 --> 0:17:42,42
+Yes. sir.
+
+
+360
+0:17:42,42 --> 0:17:47,74
+AUDIENCE: We've had experience
+in the age of the internet of
+
+
+361
+0:17:47,74 --> 0:17:49,91
+material not being available
+anymore and
+
+
+362
+0:17:49,91 --> 0:17:51,95
+storage systems change.
+
+
+363
+0:17:51,95 --> 0:17:56,13
+And there are constant upgrades
+move faster and
+
+
+364
+0:17:56,13 --> 0:17:58,86
+faster and faster, especially
+with mobile.
+
+
+365
+0:17:58,86 --> 0:18:2,42
+So that eventually people have
+to recognize a day may come
+
+
+366
+0:18:2,42 --> 0:18:8,8
+when oh, my photographs, my
+music, my texts, my novel,
+
+
+367
+0:18:8,8 --> 0:18:9,86
+they disappeared.
+
+
+368
+0:18:9,86 --> 0:18:10,72
+Where are they?
+
+
+369
+0:18:10,72 --> 0:18:14,701
+I think if Ray Bradbury were
+writing 451 in this day and
+
+
+370
+0:18:14,701 --> 0:18:16,25
+age, it wouldn't be about
+burning books.
+
+
+371
+0:18:16,25 --> 0:18:18,81
+It would be about pushing a
+button on a computer somewhere
+
+
+372
+0:18:18,81 --> 0:18:21,86
+and they would all just
+digitally disappear.
+
+
+373
+0:18:21,86 --> 0:18:25,47
+As our technology progresses,
+how do we know that we're
+
+
+374
+0:18:25,47 --> 0:18:29,22
+going to be able to retain that
+from the past as a new
+
+
+375
+0:18:29,22 --> 0:18:33,51
+storage system comes
+into being?
+
+
+376
+0:18:33,51 --> 0:18:34,2
+MALE SPEAKER: There
+are whole teams
+
+
+377
+0:18:34,2 --> 0:18:35,6
+looking at this question.
+
+
+378
+0:18:35,6 --> 0:18:38,89
+This is known as the digital
+archival question.
+
+
+379
+0:18:38,89 --> 0:18:42,51
+I'm not as worried about this
+because the systems that
+
+
+380
+0:18:42,51 --> 0:18:46,24
+Google and others are building
+tend to preserve everything in
+
+
+381
+0:18:46,24 --> 0:18:49,4
+a format that is presentable.
+
+
+382
+0:18:49,4 --> 0:18:52,31
+Eventually, I think your
+argument is correct.
+
+
+383
+0:18:52,31 --> 0:18:55,68
+But, for example, the ubiquity
+of jpegs and photographs,
+
+
+384
+0:18:55,68 --> 0:18:59,75
+there will always, 100 years
+from now, be a converter from
+
+
+385
+0:18:59,75 --> 0:19:2,54
+that jpeg format to
+whatever exists.
+
+
+386
+0:19:2,54 --> 0:19:3,68
+There's simply too much.
+
+
+387
+0:19:3,68 --> 0:19:5,62
+There's too many.
+
+
+388
+0:19:5,62 --> 0:19:7,31
+I don't worry about this
+issue for things
+
+
+389
+0:19:7,31 --> 0:19:9,16
+which are highly common.
+
+
+390
+0:19:9,16 --> 0:19:12,51
+I do think that if you have a
+very specialized format, there
+
+
+391
+0:19:12,51 --> 0:19:15,27
+really is danger
+of losing that.
+
+
+392
+0:19:15,27 --> 0:19:18,22
+And so if you're using the
+very standardized data
+
+
+393
+0:19:18,22 --> 0:19:21,16
+representation formats, you'll
+probably be fine.
+
+
+394
+0:19:21,16 --> 0:19:22,97
+And for the specialized stuff,
+there are people trying to
+
+
+395
+0:19:22,97 --> 0:19:25,22
+figure out archivally keep
+this, things like the
+
+
+396
+0:19:25,22 --> 0:19:27,62
+Smithsonian and things
+like that.
+
+
+397
+0:19:27,62 --> 0:19:31,39
+But your your safety in terms of
+preservation is to use the
+
+
+398
+0:19:31,39 --> 0:19:33,11
+most common formats.
+
+
+399
+0:19:33,11 --> 0:19:35,8
+YouTube's not going to go away,
+as an example, Uses
+
+
+400
+0:19:35,8 --> 0:19:38,74
+common formats.
+
+
+401
+0:19:38,74 --> 0:19:39,2
+Yes.
+
+
+402
+0:19:39,2 --> 0:19:39,81
+There was a question over here.
+
+
+403
+0:19:39,81 --> 0:19:40,73
+Yes.
+
+
+404
+0:19:40,73 --> 0:19:42,23
+Yes, sir.
+
+
+405
+0:19:42,23 --> 0:19:46,3
+AUDIENCE: I just wanted to ask
+you about search and curation.
+
+
+406
+0:19:46,3 --> 0:19:49,1
+You talked about five billion
+more people entering this
+
+
+407
+0:19:49,1 --> 0:19:49,74
+conversation.
+
+
+408
+0:19:49,74 --> 0:19:52,55
+It seems like two things
+sort of happen.
+
+
+409
+0:19:52,55 --> 0:19:55,93
+One, we all go into an echo
+chamber and we find the things
+
+
+410
+0:19:55,93 --> 0:20:0,26
+we find over and over again
+versus being given things.
+
+
+411
+0:20:0,26 --> 0:20:2,62
+As the conversation increases,
+how are we going to find the
+
+
+412
+0:20:2,62 --> 0:20:4,785
+things that are really
+important to us?
+
+
+413
+0:20:4,785 --> 0:20:7,34
+MALE SPEAKER: There's been a lot
+of people who worried that
+
+
+414
+0:20:7,34 --> 0:20:10,99
+the nature of the selection bias
+and the systems that are
+
+
+415
+0:20:10,99 --> 0:20:14,42
+being built will ultimately
+produce narrow echo chambers
+
+
+416
+0:20:14,42 --> 0:20:18,38
+where we only hear ourselves and
+our friends and so forth.
+
+
+417
+0:20:18,38 --> 0:20:22,2
+This has been measured and so
+far it's completely not true.
+
+
+418
+0:20:22,2 --> 0:20:28,57
+So far, we've managed to escape
+the outcome of lack of
+
+
+419
+0:20:28,57 --> 0:20:30,9
+criticality.
+
+
+420
+0:20:30,9 --> 0:20:34,16
+And I personally believe that
+as more voices come in, it's
+
+
+421
+0:20:34,16 --> 0:20:37,52
+good from a standpoint
+of more choices.
+
+
+422
+0:20:37,52 --> 0:20:39,96
+We would argue that this
+is a ranking problem.
+
+
+423
+0:20:39,96 --> 0:20:42,29
+How do you-- with all these new
+voices-- how do you rank
+
+
+424
+0:20:42,29 --> 0:20:44,11
+those voices compared
+to others?
+
+
+425
+0:20:44,11 --> 0:20:45,65
+We're in the business
+of ranking.
+
+
+426
+0:20:45,65 --> 0:20:48,26
+It's not perfect but we
+do the best we can.
+
+
+427
+0:20:48,26 --> 0:20:49,75
+We have time for
+a couple more.
+
+
+428
+0:20:49,75 --> 0:20:51,38
+Yes, yes.
+
+
+429
+0:20:51,38 --> 0:20:52,1
+AUDIENCE: Good afternoon.
+
+
+430
+0:20:52,1 --> 0:20:55,55
+I want to follow up on your
+disintermediation point and
+
+
+431
+0:20:55,55 --> 0:21:0,12
+ask if you might envision the
+technologies that Google
+
+
+432
+0:21:0,12 --> 0:21:3,46
+facilitates development of
+as an ultimate disruptor,
+
+
+433
+0:21:3,46 --> 0:21:6,63
+possibly eventually
+disintermediating the need for
+
+
+434
+0:21:6,63 --> 0:21:9,14
+the real estate that cinemas
+offer for alternate content?
+
+
+435
+0:21:9,14 --> 0:21:13,67
+And that possibly opening up
+the abilities for a greater
+
+
+436
+0:21:13,67 --> 0:21:16,56
+amount of this artistic
+alternative content to find
+
+
+437
+0:21:16,56 --> 0:21:17,47
+its way there?
+
+
+438
+0:21:17,47 --> 0:21:18,4
+MALE SPEAKER: I--
+
+
+439
+0:21:18,4 --> 0:21:20,8
+AUDIENCE: Three points
+to it, just quickly.
+
+
+440
+0:21:20,8 --> 0:21:23,25
+If the [? end cinema ?] is
+big, democratized in it's
+
+
+441
+0:21:23,25 --> 0:21:26,45
+offering and community, can
+not those three things and
+
+
+442
+0:21:26,45 --> 0:21:28,72
+more be offered online?
+
+
+443
+0:21:28,72 --> 0:21:31,4
+AUDIENCE: I have a very strong
+opinion on movie theaters.
+
+
+444
+0:21:31,4 --> 0:21:33,9
+I think that they're incredibly
+important because
+
+
+445
+0:21:33,9 --> 0:21:35,6
+they're the only places
+that people turn off
+
+
+446
+0:21:35,6 --> 0:21:36,11
+their mobile devices.
+
+
+447
+0:21:36,11 --> 0:21:38,85
+[AUDIENCE LAUGHTER]
+
+
+448
+0:21:38,85 --> 0:21:39,87
+MALE SPEAKER: No, no
+think about it.
+
+
+449
+0:21:39,87 --> 0:21:43,55
+Is there any other place
+in the world?
+
+
+450
+0:21:43,55 --> 0:21:46,46
+You keep it on when you're
+asleep but not when you're in
+
+
+451
+0:21:46,46 --> 0:21:48,4
+the movie theater.
+
+
+452
+0:21:48,4 --> 0:21:50,98
+This is landmark status.
+
+
+453
+0:21:50,98 --> 0:21:55,45
+[AUDIENCE LAUGHTER]
+
+
+454
+0:21:55,45 --> 0:21:57,14
+MALE SPEAKER: I think going
+to the movies is a social
+
+
+455
+0:21:57,14 --> 0:21:59,81
+experience, the sense of
+going to the opening.
+
+
+456
+0:21:59,81 --> 0:22:1,42
+that's not going to go away.
+
+
+457
+0:22:1,42 --> 0:22:4,49
+And so I think the movie folks
+all believe that you're seeing
+
+
+458
+0:22:4,49 --> 0:22:6,9
+a compression of windows.
+
+
+459
+0:22:6,9 --> 0:22:9,81
+But I think the model will
+preserve at least the notion
+
+
+460
+0:22:9,81 --> 0:22:11,14
+of opening night.
+
+
+461
+0:22:11,14 --> 0:22:12,53
+People want to feel special.
+
+
+462
+0:22:12,53 --> 0:22:14,39
+It goes back to the question
+earlier about scarcity.
+
+
+463
+0:22:14,39 --> 0:22:17,55
+
+
+
+464
+0:22:17,55 --> 0:22:20,15
+Very clever marketeers
+understand that if they make
+
+
+465
+0:22:20,15 --> 0:22:23,97
+slightly fewer of a product
+and there is demand, it
+
+
+466
+0:22:23,97 --> 0:22:26,18
+creates excessive lines.
+
+
+467
+0:22:26,18 --> 0:22:29,51
+That's what happens in the
+clubs around here.
+
+
+468
+0:22:29,51 --> 0:22:31,44
+The most popular club is defined
+as the one with the
+
+
+469
+0:22:31,44 --> 0:22:33,735
+longest line, not the
+greatest capacity.
+
+
+470
+0:22:33,735 --> 0:22:39,71
+
+
+
+471
+0:22:39,71 --> 0:22:41,26
+We have one final question.
+
+
+472
+0:22:41,26 --> 0:22:41,98
+Right over here.
+
+
+473
+0:22:41,98 --> 0:22:43,23
+Yes.
+
+
+474
+0:22:43,23 --> 0:22:47,5
+
+
+
+475
+0:22:47,5 --> 0:22:50,45
+AUDIENCE: How do you go about
+educating entire populaces
+
+
+476
+0:22:50,45 --> 0:22:53,75
+about the ins and outs of opting
+in, when they should do
+
+
+477
+0:22:53,75 --> 0:22:57,72
+it, how they should do it, when
+they shouldn't do it.
+
+
+478
+0:22:57,72 --> 0:22:59,91
+MALE SPEAKER: First that you
+start with an awful lot of
+
+
+479
+0:22:59,91 --> 0:23:1,64
+information that's online.
+
+
+480
+0:23:1,64 --> 0:23:4,24
+And you try to make it readable
+in people's language
+
+
+481
+0:23:4,24 --> 0:23:6,92
+and they can understand it.
+
+
+482
+0:23:6,92 --> 0:23:11,42
+Most people are confused by
+what's happening because
+
+
+483
+0:23:11,42 --> 0:23:12,45
+they're not computer
+scientists.
+
+
+484
+0:23:12,45 --> 0:23:14,93
+They don't really understand
+how this stuff can be used.
+
+
+485
+0:23:14,93 --> 0:23:19,22
+So we've tried very
+hard to do that.
+
+
+486
+0:23:19,22 --> 0:23:22,76
+I think the reality is that
+education in general is going
+
+
+487
+0:23:22,76 --> 0:23:26,0
+to change a big deal around
+the world because you no
+
+
+488
+0:23:26,0 --> 0:23:28,69
+longer need to memorize
+all the stuff.
+
+
+489
+0:23:28,69 --> 0:23:32,3
+Now you need to have a
+significant education in being
+
+
+490
+0:23:32,3 --> 0:23:34,5
+an online citizen.
+
+
+491
+0:23:34,5 --> 0:23:36,68
+As a young person, what does
+it mean to be a tweeter?
+
+
+492
+0:23:36,68 --> 0:23:39,21
+What does it mean
+to be texting?
+
+
+493
+0:23:39,21 --> 0:23:41,32
+So, for example, all these
+high school students are
+
+
+494
+0:23:41,32 --> 0:23:43,31
+probably going to be rather
+surprised to discover all
+
+
+495
+0:23:43,31 --> 0:23:46,88
+those pictures are still
+around when they're 45.
+
+
+496
+0:23:46,88 --> 0:23:49,25
+And nobody told them that or
+if their parents told them
+
+
+497
+0:23:49,25 --> 0:23:50,48
+that, they discounted it.
+
+
+498
+0:23:50,48 --> 0:23:52,85
+But if their teachers tell them,
+maybe they will listen.
+
+
+499
+0:23:52,85 --> 0:23:54,84
+I think there's a whole
+series of steps that
+
+
+500
+0:23:54,84 --> 0:23:56,45
+society will go through.
+
+
+501
+0:23:56,45 --> 0:23:59,17
+What I will tell you is that
+the shift from the analog
+
+
+502
+0:23:59,17 --> 0:24:2,16
+world to the digital world that
+we're going through--
+
+
+503
+0:24:2,16 --> 0:24:4,33
+we're not going back.
+
+
+504
+0:24:4,33 --> 0:24:5,89
+We need to get organized
+around how we're
+
+
+505
+0:24:5,89 --> 0:24:7,4
+going to run society--
+
+
+506
+0:24:7,4 --> 0:24:11,85
+respectfully, with appropriate
+levels of privacy, respecting
+
+
+507
+0:24:11,85 --> 0:24:15,52
+the rights of public safety,
+and sort that out.
+
+
+508
+0:24:15,52 --> 0:24:18,95
+Countries will make those
+decisions differently.
+
+
+509
+0:24:18,95 --> 0:24:22,43
+And this will be a constant
+discussion in the media.
+
+
+510
+0:24:22,43 --> 0:24:26,31
+And that's how the education
+really occurs.
+
+
+511
+0:24:26,31 --> 0:24:27,85
+So with that, Peter,
+thank you.
+
+
+512
+0:24:27,85 --> 0:24:28,6
+Thank you very much.
+
+
+513
+0:24:28,6 --> 0:24:30,1
+Thank you all.
+
+
+514
+0:24:30,1 --> 0:24:31,35
+And we'll continue.
+
+
+515
+0:24:31,35 --> 0:26:31,35
+
+
+

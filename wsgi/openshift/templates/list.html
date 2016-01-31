@@ -1,0 +1,41 @@
+<html>
+<head>
+<title></title>
+<style>
+body { 	background: white url("../static/css/images/header-bg.png") repeat-x; 
+padding: 0px;
+margin: 0px;
+font-family: Arial;
+font-size: 14px;
+}
+img {margin: 0px 0px 0px 50px; padding: 0px;}
+</style>
+</head>
+<body>
+
+<img src="../static/css/images/header.png">
+
+<div style="padding-left: 30px; width: 700px;">
+
+<h1>List of indexed YouTube videos.</h1>
+
+Unortunately, YouTube doesn't allow search throughout all the videos, so they have to be inserted into index manually. The list of currently indexed videos is below.
+<br>
+<br>
+<div>Number of indexed videos: {{ count }}</div>
+
+{% if video_list %}
+    <ul>
+    {% for vid, title in video_list %}
+        <li><a href="http://www.youtube.com/watch?v={{ vid }}">{{ title }}</a></li> 
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No videos are available.</p>
+{% endif %}
+
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1660 @@
+1
+0:0:0,0 --> 0:0:0,14
+
+
+
+2
+0:0:0,14 --> 0:0:1,62
+STEVE SPANGLER: Well, it's
+happening according to plan.
+
+
+3
+0:0:1,62 --> 0:0:3,91
+We're launching our big weather
+balloon in the middle
+
+
+4
+0:0:3,91 --> 0:0:6,7
+of Denver, which is fantastic.
+
+
+5
+0:0:6,7 --> 0:0:10,14
+10,000 screaming kids, and the
+balloon's ready to go up.
+
+
+6
+0:0:10,14 --> 0:0:11,88
+10 minutes.
+
+
+7
+0:0:11,88 --> 0:0:12,51
+It's going to be good.
+
+
+8
+0:0:12,51 --> 0:0:16,78
+
+
+
+9
+0:0:16,78 --> 0:0:19,85
+I'm Steve Spangler, and I'm all
+about making science fun.
+
+
+10
+0:0:19,85 --> 0:0:22,91
+For the last 20 years, I've
+been teaching ways to turn
+
+
+11
+0:0:22,91 --> 0:0:25,92
+ordinary science experiments
+into unforgettable learning
+
+
+12
+0:0:25,92 --> 0:0:26,93
+experiences.
+
+
+13
+0:0:26,93 --> 0:0:29,55
+I have an amazing team who will
+do whatever it takes to
+
+
+14
+0:0:29,55 --> 0:0:32,32
+affect the way people
+think about science.
+
+
+15
+0:0:32,32 --> 0:0:34,6
+And do that, I live
+by one motto--
+
+
+16
+0:0:34,6 --> 0:0:43,826
+"Make it big, do it right,
+give it class."
+
+
+17
+0:0:43,826 --> 0:0:47,2
+[MUSIC PLAYING]
+
+
+18
+0:0:47,2 --> 0:0:49,15
+STEVE MEER: This is Edge
+of Space Sciences.
+
+
+19
+0:0:49,15 --> 0:1:17,394
+And today's flight is
+flight number 175.
+
+
+20
+0:1:17,394 --> 0:1:20,866
+LARRY NOBLE: OK, we have a PVC
+nozzle, which has been turned
+
+
+21
+0:1:20,866 --> 0:1:21,85
+on a lathe.
+
+
+22
+0:1:21,85 --> 0:1:23,74
+It's specially designed.
+
+
+23
+0:1:23,74 --> 0:1:26,9
+It fits in the balloon
+and neck.
+
+
+24
+0:1:26,9 --> 0:1:29,8
+So when this bag starts lifting
+off the ground, we
+
+
+25
+0:1:29,8 --> 0:1:33,3
+know we have sufficient helium
+in the balloon to lift the
+
+
+26
+0:1:33,3 --> 0:1:37,44
+entire payload string to
+the edge of space.
+
+
+27
+0:1:37,44 --> 0:1:51,33
+[MUSIC PLAYING]
+
+
+28
+0:1:51,33 --> 0:1:53,18
+MALE SPEAKER: Are you ready
+to get started?
+
+
+29
+0:1:53,18 --> 0:1:56,12
+
+
+
+30
+0:1:56,12 --> 0:1:56,77
+All right.
+
+
+31
+0:1:56,77 --> 0:1:58,81
+Well, we're going to bring him
+up right now and introduce to
+
+
+32
+0:1:58,81 --> 0:2:0,81
+you Steve Spangler.
+
+
+33
+0:2:0,81 --> 0:2:4,268
+[CROWD CHEERING]
+
+
+34
+0:2:4,268 --> 0:2:5,75
+STEVE SPANGLER: Welcome,
+everybody.
+
+
+35
+0:2:5,75 --> 0:2:9,27
+You know, meteorologists have
+the coolest tools nowadays.
+
+
+36
+0:2:9,27 --> 0:2:12,3
+They've got all this tracking
+device and everything else.
+
+
+37
+0:2:12,3 --> 0:2:15,11
+But believe it or not, a long
+time ago, all they had was a
+
+
+38
+0:2:15,11 --> 0:2:16,51
+simple balloon.
+
+
+39
+0:2:16,51 --> 0:2:20,84
+So here is what a weather
+balloon looks like.
+
+
+40
+0:2:20,84 --> 0:2:22,61
+Kids, you want one of these
+for your birthday.
+
+
+41
+0:2:22,61 --> 0:2:24,27
+Just ask mom and
+dad, all right?
+
+
+42
+0:2:24,27 --> 0:2:25,41
+[CHEERING]
+
+
+43
+0:2:25,41 --> 0:2:27,65
+STEVE SPANGLER: Say, mom and
+dad, can I please have a
+
+
+44
+0:2:27,65 --> 0:2:30,91
+weather balloon and about
+$500 of helium?
+
+
+45
+0:2:30,91 --> 0:2:32,63
+It'll be awesome, right?
+
+
+46
+0:2:32,63 --> 0:2:35,38
+The mere fact that I just
+unrolled this means that they
+
+
+47
+0:2:35,38 --> 0:2:36,84
+probably can't launch this.
+
+
+48
+0:2:36,84 --> 0:2:39,71
+We'll only use it for teaching
+purposes, because that balloon
+
+
+49
+0:2:39,71 --> 0:2:40,87
+is so delicate.
+
+
+50
+0:2:40,87 --> 0:2:43,59
+I told you early on that we
+partnered up with Edge of
+
+
+51
+0:2:43,59 --> 0:2:45,1
+Space Science.
+
+
+52
+0:2:45,1 --> 0:2:47,8
+Kathy is on the field right now
+with our team from Edge of
+
+
+53
+0:2:47,8 --> 0:2:48,84
+Space Science.
+
+
+54
+0:2:48,84 --> 0:2:50,91
+They're going to tell us a
+little bit about the weather
+
+
+55
+0:2:50,91 --> 0:2:53,405
+balloon that we got permission
+to launch today.
+
+
+56
+0:2:53,405 --> 0:2:54,73
+Kathy, tell us all about it.
+
+
+57
+0:2:54,73 --> 0:2:55,93
+KATHY SABINE: Hey, Steve.
+
+
+58
+0:2:55,93 --> 0:2:58,81
+I've got Steve Meer with
+me, and he is with
+
+
+59
+0:2:58,81 --> 0:3:0,69
+Edge of Space Science.
+
+
+60
+0:3:0,69 --> 0:3:3,59
+And this is a one of a kind
+event that you all are going
+
+
+61
+0:3:3,59 --> 0:3:5,43
+to be witnessing today,
+isn't it?
+
+
+62
+0:3:5,43 --> 0:3:7,23
+STEVE MEER: First time we've
+ever launched out of a stadium
+
+
+63
+0:3:7,23 --> 0:3:9,21
+like this with so many people
+watching, so we're very
+
+
+64
+0:3:9,21 --> 0:3:10,2
+excited to be here.
+
+
+65
+0:3:10,2 --> 0:3:11,49
+KATHY SABINE: Is this
+the biggest weather
+
+
+66
+0:3:11,49 --> 0:3:13,8
+balloon ever made?
+
+
+67
+0:3:13,8 --> 0:3:14,22
+STEVE MEER: No, this is
+actually kind of a
+
+
+68
+0:3:14,22 --> 0:3:15,3
+small one for us.
+
+
+69
+0:3:15,3 --> 0:3:17,64
+This is what we call
+1,200 grams.
+
+
+70
+0:3:17,64 --> 0:3:21,44
+And it's got about 230 feet of
+helium in it when it leaves.
+
+
+71
+0:3:21,44 --> 0:3:24,25
+When it gets up to the edge of
+space, it'll be about half the
+
+
+72
+0:3:24,25 --> 0:3:25,74
+size of a school bus.
+
+
+73
+0:3:25,74 --> 0:3:28,47
+KATHY SABINE: My colleagues
+are holding pieces of this
+
+
+74
+0:3:28,47 --> 0:3:29,27
+weather balloon.
+
+
+75
+0:3:29,27 --> 0:3:31,65
+Steve, can you kind of help
+me show the kids what
+
+
+76
+0:3:31,65 --> 0:3:32,83
+we have behind us?
+
+
+77
+0:3:32,83 --> 0:3:33,25
+STEVE MEER: Sure.
+
+
+78
+0:3:33,25 --> 0:3:35,29
+So the first thing we
+have is a parachute.
+
+
+79
+0:3:35,29 --> 0:3:37,53
+And so when the balloon breaks,
+it'll all come down
+
+
+80
+0:3:37,53 --> 0:3:38,23
+under the parachute.
+
+
+81
+0:3:38,23 --> 0:3:40,21
+It's about 5 feet in diameter.
+
+
+82
+0:3:40,21 --> 0:3:42,98
+Then we come down to this
+payload right here, the green
+
+
+83
+0:3:42,98 --> 0:3:44,0
+and orange one.
+
+
+84
+0:3:44,0 --> 0:3:47,4
+This is the tracking and
+telemetry receiver.
+
+
+85
+0:3:47,4 --> 0:3:49,7
+This sends us information about
+where the balloon is so
+
+
+86
+0:3:49,7 --> 0:3:50,76
+we can find it.
+
+
+87
+0:3:50,76 --> 0:3:53,24
+And if we need to abort the
+mission for some reason, we
+
+
+88
+0:3:53,24 --> 0:3:55,69
+can send it a radio signal,
+and it'll cut the balloon
+
+
+89
+0:3:55,69 --> 0:3:57,77
+away, and it'll come back
+under the parachute.
+
+
+90
+0:3:57,77 --> 0:3:58,99
+KATHY SABINE: We've got
+Amelia down here.
+
+
+91
+0:3:58,99 --> 0:4:0,1
+What's she holding?
+
+
+92
+0:4:0,1 --> 0:4:0,86
+STEVE MEER: So Amelia's holding
+
+
+93
+0:4:0,86 --> 0:4:2,48
+what we call the batmobile.
+
+
+94
+0:4:2,48 --> 0:4:4,83
+The batmobile has two
+cameras in it--
+
+
+95
+0:4:4,83 --> 0:4:7,46
+one that'll point down and
+one that points up.
+
+
+96
+0:4:7,46 --> 0:4:10,37
+And then these long rods provide
+inertia so it doesn't
+
+
+97
+0:4:10,37 --> 0:4:12,45
+spin too much under the thing.
+
+
+98
+0:4:12,45 --> 0:4:14,645
+So hopefully on the website
+later today, you'll be able to
+
+
+99
+0:4:14,645 --> 0:4:15,81
+see some cool video.
+
+
+100
+0:4:15,81 --> 0:4:16,22
+KATHY SABINE: All right.
+
+
+101
+0:4:16,22 --> 0:4:18,459
+Marty Coniglio's holding
+an orange box, Steve.
+
+
+102
+0:4:18,459 --> 0:4:20,26
+STEVE MEER: So this orange
+box is another camera.
+
+
+103
+0:4:20,26 --> 0:4:22,18
+This camera is also
+a high-def camera.
+
+
+104
+0:4:22,18 --> 0:4:23,93
+And it's going to take video
+out to the side.
+
+
+105
+0:4:23,93 --> 0:4:26,1
+In fact, it's taping
+us as we speak.
+
+
+106
+0:4:26,1 --> 0:4:27,8
+And then again, the inertia
+rods to keep it
+
+
+107
+0:4:27,8 --> 0:4:29,3
+from spinning so much.
+
+
+108
+0:4:29,3 --> 0:4:32,38
+So Parker has probably the
+most important job here,
+
+
+109
+0:4:32,38 --> 0:4:35,11
+because this is the main
+tracking and relay beacon.
+
+
+110
+0:4:35,11 --> 0:4:37,21
+So this gives us the
+latitude and the
+
+
+111
+0:4:37,21 --> 0:4:39,1
+longitude and the altitude.
+
+
+112
+0:4:39,1 --> 0:4:41,58
+And it also serves as a relay
+point for all the trackers on
+
+
+113
+0:4:41,58 --> 0:4:43,92
+the ground to talk through, so
+we know exactly where the
+
+
+114
+0:4:43,92 --> 0:4:44,84
+balloon is at all times.
+
+
+115
+0:4:44,84 --> 0:4:46,39
+KATHY SABINE: Now, Steve, I
+understand you had to get
+
+
+116
+0:4:46,39 --> 0:4:49,16
+special permission, and we have
+to get a special window
+
+
+117
+0:4:49,16 --> 0:4:51,6
+in sending this balloon
+up today.
+
+
+118
+0:4:51,6 --> 0:4:52,59
+STEVE MEER: We very much want
+to stay out of the way of
+
+
+119
+0:4:52,59 --> 0:4:54,4
+everything in the air
+that could suck
+
+
+120
+0:4:54,4 --> 0:4:54,79
+it into their engines.
+
+
+121
+0:4:54,79 --> 0:4:57,8
+So we're on a kind of
+a deadline here.
+
+
+122
+0:4:57,8 --> 0:4:57,98
+And it's about time.
+
+
+123
+0:4:57,98 --> 0:4:58,29
+KATHY SABINE: All right.
+
+
+124
+0:4:58,29 --> 0:4:59,63
+I'm going to let you
+take over, then.
+
+
+125
+0:4:59,63 --> 0:5:0,29
+STEVE MEER: OK, let's go--
+
+
+126
+0:5:0,29 --> 0:5:2,68
+STEVE SPANGLER: Hey, Steve,
+Kathy, there's two things.
+
+
+127
+0:5:2,68 --> 0:5:5,18
+Would you show us the flags
+that are on there?
+
+
+128
+0:5:5,18 --> 0:5:7,6
+We have a Colorado
+Rockies flag.
+
+
+129
+0:5:7,6 --> 0:5:9,69
+This is what we're going to
+bring back to 9NEWS today,
+
+
+130
+0:5:9,69 --> 0:5:11,96
+hopefully for the
+4 o'clock show.
+
+
+131
+0:5:11,96 --> 0:5:15,23
+Everybody on the weather team
+signed that flag, so that
+
+
+132
+0:5:15,23 --> 0:5:17,53
+we've got to be able to
+get that one back.
+
+
+133
+0:5:17,53 --> 0:5:20,4
+And then we put a scientist
+on board.
+
+
+134
+0:5:20,4 --> 0:5:22,4
+Never before has this scientist
+ever gone to the
+
+
+135
+0:5:22,4 --> 0:5:23,44
+edge of space.
+
+
+136
+0:5:23,44 --> 0:5:25,76
+Ladies and gentlemen, it's
+Beaker right there in the
+
+
+137
+0:5:25,76 --> 0:5:26,535
+middle of the line.
+
+
+138
+0:5:26,535 --> 0:5:27,31
+[CHEERING]
+
+
+139
+0:5:27,31 --> 0:5:29,26
+STEVE SPANGLER: And you have to
+know that there's tracking
+
+
+140
+0:5:29,26 --> 0:5:30,83
+devices on here.
+
+
+141
+0:5:30,83 --> 0:5:33,15
+And we're going to learn
+something about it right now.
+
+
+142
+0:5:33,15 --> 0:5:36,67
+Let me introduce to you the
+president of Edge of Space
+
+
+143
+0:5:36,67 --> 0:5:38,17
+Sciences organization.
+
+
+144
+0:5:38,17 --> 0:5:39,1
+It's Rob Wright.
+
+
+145
+0:5:39,1 --> 0:5:40,852
+Nice round of applause
+for Rob.
+
+
+146
+0:5:40,852 --> 0:5:42,81
+All right, Rob, how do
+you know where it's
+
+
+147
+0:5:42,81 --> 0:5:43,58
+going to come down?
+
+
+148
+0:5:43,58 --> 0:5:45,44
+I mean, what kind of tracking
+do you have to let it know
+
+
+149
+0:5:45,44 --> 0:5:46,34
+where it's coming down?
+
+
+150
+0:5:46,34 --> 0:5:48,44
+ROB WRIGHT: The National Weather
+Service compiles a lot
+
+
+151
+0:5:48,44 --> 0:5:51,4
+of information about the
+upper-level winds.
+
+
+152
+0:5:51,4 --> 0:5:54,28
+And what we do is we gather that
+information, we base that
+
+
+153
+0:5:54,28 --> 0:5:56,78
+information on how fast our
+balloon is going up in the
+
+
+154
+0:5:56,78 --> 0:5:58,51
+air, and what level
+it's going to hit
+
+
+155
+0:5:58,51 --> 0:6:0,5
+those directional winds.
+
+
+156
+0:6:0,5 --> 0:6:3,54
+And when we graph all that out,
+it shows us a nice line
+
+
+157
+0:6:3,54 --> 0:6:5,3
+of where it's going to
+go direction-wise.
+
+
+158
+0:6:5,3 --> 0:6:5,57
+STEVE SPANGLER: All right.
+
+
+159
+0:6:5,57 --> 0:6:6,85
+So here we go with
+a prediction.
+
+
+160
+0:6:6,85 --> 0:6:7,59
+Ready?
+
+
+161
+0:6:7,59 --> 0:6:10,53
+You have to do a prediction for
+a science hypothesis, but
+
+
+162
+0:6:10,53 --> 0:6:13,13
+this guy's on the line with
+his organization.
+
+
+163
+0:6:13,13 --> 0:6:15,6
+I want you to look right
+into that camera.
+
+
+164
+0:6:15,6 --> 0:6:16,94
+Tell us where it's going to
+come down, because that's
+
+
+165
+0:6:16,94 --> 0:6:19,87
+where the chase team from 9NEWS
+and the Spangler Effect,
+
+
+166
+0:6:19,87 --> 0:6:20,81
+we're all going.
+
+
+167
+0:6:20,81 --> 0:6:21,72
+ROB WRIGHT: Hm, thank.
+
+
+168
+0:6:21,72 --> 0:6:21,92
+All right.
+
+
+169
+0:6:21,92 --> 0:6:22,47
+STEVE SPANGLER: All right,
+look right into the
+
+
+170
+0:6:22,47 --> 0:6:23,6
+camera and tell them.
+
+
+171
+0:6:23,6 --> 0:6:25,68
+ROB WRIGHT: We're going to land
+just north of Wiggins, I
+
+
+172
+0:6:25,68 --> 0:6:27,37
+say about 10 miles.
+
+
+173
+0:6:27,37 --> 0:6:27,98
+STEVE SPANGLER: Wow.
+
+
+174
+0:6:27,98 --> 0:6:28,35
+All right?
+
+
+175
+0:6:28,35 --> 0:6:30,44
+So 10 miles north of Wiggins.
+
+
+176
+0:6:30,44 --> 0:6:33,43
+We've got a track team that's
+starting their way there so
+
+
+177
+0:6:33,43 --> 0:6:34,99
+that they can see this
+all the way through.
+
+
+178
+0:6:34,99 --> 0:6:36,91
+Nice round of applause
+for Rob, would ya?
+
+
+179
+0:6:36,91 --> 0:6:38,16
+From Edge of Space Science.
+
+
+180
+0:6:38,16 --> 0:6:41,75
+
+
+
+181
+0:6:41,75 --> 0:6:42,93
+Here's what had to happen.
+
+
+182
+0:6:42,93 --> 0:6:46,56
+In all seriousness, you don't
+normally launch from the
+
+
+183
+0:6:46,56 --> 0:6:47,81
+middle of Denver.
+
+
+184
+0:6:47,81 --> 0:6:51,19
+The FAA has given us permission
+for this window of
+
+
+185
+0:6:51,19 --> 0:6:52,18
+opportunity.
+
+
+186
+0:6:52,18 --> 0:6:56,45
+It means that air traffic right
+now for jets has been
+
+
+187
+0:6:56,45 --> 0:6:59,54
+diverted around Denver for the
+next 10 minutes so that you
+
+
+188
+0:6:59,54 --> 0:7:0,66
+can see a launch.
+
+
+189
+0:7:0,66 --> 0:7:2,7
+I think that's pretty cool.
+
+
+190
+0:7:2,7 --> 0:7:4,91
+So say thanks to the Edge
+of Space Science people.
+
+
+191
+0:7:4,91 --> 0:7:7,97
+[CHEERING]
+
+
+192
+0:7:7,97 --> 0:7:9,81
+STEVE SPANGLER: Kathy and
+Steve, are you ready?
+
+
+193
+0:7:9,81 --> 0:7:10,203
+STEVE MEER: OK.
+
+
+194
+0:7:10,203 --> 0:7:10,99
+We're good.
+
+
+195
+0:7:10,99 --> 0:7:12,93
+STEVE SPANGLER: We're going
+to a countdown from 10.
+
+
+196
+0:7:12,93 --> 0:7:13,72
+Are you ready?
+
+
+197
+0:7:13,72 --> 0:7:14,37
+Here we go.
+
+
+198
+0:7:14,37 --> 0:7:24,583
+10 9, 8, 7, 6, 5, 4,
+3, 2, 1, let go!
+
+
+199
+0:7:24,583 --> 0:7:26,31
+Here it goes.
+
+
+200
+0:7:26,31 --> 0:7:27,115
+Here it goes.
+
+
+201
+0:7:27,115 --> 0:7:28,6
+Here it goes.
+
+
+202
+0:7:28,6 --> 0:7:29,59
+There's Beaker.
+
+
+203
+0:7:29,59 --> 0:7:30,58
+I love it.
+
+
+204
+0:7:30,58 --> 0:7:33,55
+Look at him go.
+
+
+205
+0:7:33,55 --> 0:7:33,55
+Wow.
+
+
+206
+0:7:33,55 --> 0:9:26,114
+[MUSIC PLAYING]
+
+
+207
+0:9:26,114 --> 0:10:57,248
+
+
+
+208
+0:10:57,248 --> 0:10:59,738
+SPEAKER: 93,715.
+
+
+209
+0:10:59,738 --> 0:11:2,726
+93,715 was max.
+
+
+210
+0:11:2,726 --> 0:11:4,33
+[INAUDIBLE].
+
+
+211
+0:11:4,33 --> 0:11:6,11
+ROB WRIGHT: Made it
+up to 93,000 feet.
+
+
+212
+0:11:6,11 --> 0:11:14,29
+It's currently at 92,800 feet.
+
+
+213
+0:11:14,29 --> 0:11:15,433
+STEVE SPANGLER: I think
+you can call off
+
+
+214
+0:11:15,433 --> 0:11:16,25
+the tracking team.
+
+
+215
+0:11:16,25 --> 0:11:17,72
+I think we see it in the sky.
+
+
+216
+0:11:17,72 --> 0:11:19,68
+So we'll just head
+towards that.
+
+
+217
+0:11:19,68 --> 0:11:20,17
+SPEAKER: Oh, OK.
+
+
+218
+0:11:20,17 --> 0:11:21,42
+You're all good.
+
+
+219
+0:11:21,42 --> 0:11:26,5
+
+
+
+220
+0:11:26,5 --> 0:11:27,51
+STEVE SPANGLER: See these
+guys over here?
+
+
+221
+0:11:27,51 --> 0:11:29,9
+These are the mart guys.
+
+
+222
+0:11:29,9 --> 0:11:31,27
+We've just got a car
+and a [INAUDIBLE].
+
+
+223
+0:11:31,27 --> 0:11:32,59
+That's all we have.
+
+
+224
+0:11:32,59 --> 0:11:34,8
+And some gummy bears
+and some chips.
+
+
+225
+0:11:34,8 --> 0:11:40,87
+
+
+
+226
+0:11:40,87 --> 0:11:41,34
+All right.
+
+
+227
+0:11:41,34 --> 0:11:42,52
+We're here.
+
+
+228
+0:11:42,52 --> 0:11:43,58
+I don't know where we are.
+
+
+229
+0:11:43,58 --> 0:11:45,58
+All I know is there's a whole
+bunch of people, and it's
+
+
+230
+0:11:45,58 --> 0:11:48,1
+supposed to be in that
+field somewhere.
+
+
+231
+0:11:48,1 --> 0:11:50,19
+And I understand the farmer's
+not going to shoot us.
+
+
+232
+0:11:50,19 --> 0:11:52,27
+So we can climb over
+the fence.
+
+
+233
+0:11:52,27 --> 0:11:53,98
+We're going to go find
+the payload.
+
+
+234
+0:11:53,98 --> 0:11:55,77
+Beep, beep, beep, beep,
+beep, beep.
+
+
+235
+0:11:55,77 --> 0:12:3,12
+
+
+
+236
+0:12:3,12 --> 0:12:5,285
+All right, so what
+does this do?
+
+
+237
+0:12:5,285 --> 0:12:6,6
+DOUG: This is a directional
+antenna.
+
+
+238
+0:12:6,6 --> 0:12:7,46
+STEVE SPANGLER: OK.
+
+
+239
+0:12:7,46 --> 0:12:7,89
+DOUG: OK.
+
+
+240
+0:12:7,89 --> 0:12:10,19
+And so what it does is it
+receives the signal really
+
+
+241
+0:12:10,19 --> 0:12:12,3
+well here and not
+very well there.
+
+
+242
+0:12:12,3 --> 0:12:13,18
+So you can hear it, right?
+
+
+243
+0:12:13,18 --> 0:12:13,54
+STEVE SPANGLER: Right.
+
+
+244
+0:12:13,54 --> 0:12:16,465
+DOUG: So when it's pointed at
+the payload, now I know which
+
+
+245
+0:12:16,465 --> 0:12:17,11
+way I'm walking.
+
+
+246
+0:12:17,11 --> 0:12:19,34
+If I point it over here, I'm
+not walking that way.
+
+
+247
+0:12:19,34 --> 0:12:22,678
+STEVE SPANGLER: Oh,
+how cool is that?
+
+
+248
+0:12:22,678 --> 0:12:23,928
+There it is.
+
+
+249
+0:12:23,928 --> 0:12:32,125
+
+
+
+250
+0:12:32,125 --> 0:12:32,62
+Look at this.
+
+
+251
+0:12:32,62 --> 0:12:34,2
+It's from the end of the
+Spangler Effect.
+
+
+252
+0:12:34,2 --> 0:12:35,465
+We have nothing.
+
+
+253
+0:12:35,465 --> 0:12:37,3
+No Spangler Effect anymore.
+
+
+254
+0:12:37,3 --> 0:12:40,46
+
+
+
+255
+0:12:40,46 --> 0:12:41,635
+This is our flag.
+
+
+256
+0:12:41,635 --> 0:12:43,73
+S-- that's as much
+as we have left.
+
+
+257
+0:12:43,73 --> 0:12:46,29
+While the logos may not have
+lasted, look at this--
+
+
+258
+0:12:46,29 --> 0:12:48,1
+Beaker made the flight.
+
+
+259
+0:12:48,1 --> 0:12:49,69
+And he actually looks good.
+
+
+260
+0:12:49,69 --> 0:12:52,2
+Doesn't look like there's
+any problem at all.
+
+
+261
+0:12:52,2 --> 0:12:53,76
+He made the flight.
+
+
+262
+0:12:53,76 --> 0:12:58,35
+Popped at 93,000 feet, and
+he's back down again.
+
+
+263
+0:12:58,35 --> 0:12:58,85
+Edge of space--
+
+
+264
+0:12:58,85 --> 0:13:1,56
+I can hardly wait to see the
+video of him just flopping
+
+
+265
+0:13:1,56 --> 0:13:3,578
+around up here like this.
+
+
+266
+0:13:3,578 --> 0:13:4,88
+This is really cool.
+
+
+267
+0:13:4,88 --> 0:13:7,41
+At 11 o'clock today,
+we launched this
+
+
+268
+0:13:7,41 --> 0:13:8,4
+massive weather balloon.
+
+
+269
+0:13:8,4 --> 0:13:9,61
+We had a wonderful payload.
+
+
+270
+0:13:9,61 --> 0:13:11,68
+And here we are at
+about 3 o'clock.
+
+
+271
+0:13:11,68 --> 0:13:14,94
+We finally have tracked it
+15 miles north of Snyder.
+
+
+272
+0:13:14,94 --> 0:13:16,71
+The payload's intact.
+
+
+273
+0:13:16,71 --> 0:13:18,74
+Looks like we have our GoPro
+cameras that will
+
+
+274
+0:13:18,74 --> 0:13:20,0
+grab all of our video.
+
+
+275
+0:13:20,0 --> 0:13:21,35
+Of course, the scientist
+is here.
+
+
+276
+0:13:21,35 --> 0:13:22,87
+Beaker made it back.
+
+
+277
+0:13:22,87 --> 0:13:24,48
+I have no idea what
+this guy saw.
+
+
+278
+0:13:24,48 --> 0:13:28,68
+And our flag from 9NEWS all
+signed has come back as well.
+
+
+279
+0:13:28,68 --> 0:13:29,43
+Success--
+
+
+280
+0:13:29,43 --> 0:13:31,96
+this is the whole process,
+the scientific process.
+
+
+281
+0:13:31,96 --> 0:13:34,3
+And it takes a team of really,
+really smart people to teach
+
+
+282
+0:13:34,3 --> 0:13:35,58
+us how to do this.
+
+
+283
+0:13:35,58 --> 0:13:37,416
+I just want to get kids
+excited about science.
+
+
+284
+0:13:37,416 --> 0:13:38,83
+It's fun.
+
+
+285
+0:13:38,83 --> 0:13:40,84
+Well, if you enjoyed this week's
+episode, go ahead and
+
+
+286
+0:13:40,84 --> 0:13:43,16
+click the Subscribe button here,
+and you'll be the first
+
+
+287
+0:13:43,16 --> 0:13:46,38
+to know when a brand new episode
+appears each week.
+
+
+288
+0:13:46,38 --> 0:13:48,58
+This button right here will
+show you some more cool
+
+
+289
+0:13:48,58 --> 0:13:51,17
+science experiments that we
+do outside of the show.
+
+
+290
+0:13:51,17 --> 0:13:53,1
+This button right here will
+take you to last week's
+
+
+291
+0:13:53,1 --> 0:13:54,32
+episode just in case
+you missed it.
+
+
+292
+0:13:54,32 --> 0:13:56,56
+And if you want to see the stuff
+that you shouldn't see--
+
+
+293
+0:13:56,56 --> 0:13:59,166
+that's the bloopers and the
+outtakes-- well, just click
+
+
+294
+0:13:59,166 --> 0:14:0,6
+this one right over here.
+
+
+295
+0:14:0,6 --> 0:14:2,305
+And if you want to hear me
+stop talking, through the
+
+
+296
+0:14:2,305 --> 0:14:4,71
+magic of television, just click
+this button right here.
+
+
+297
+0:14:4,71 --> 0:14:5,1
+Go ahead.
+
+
+298
+0:14:5,1 --> 0:14:6,26
+Click it, and I'll stop.
+
+
+299
+0:14:6,26 --> 0:16:6,26
+
+
+

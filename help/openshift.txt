@@ -1,0 +1,9 @@
+===== Static files:
+git-vocap:/wsgi/static/"put files here" - and create htaccess file according to README:
+
+$ cat ../.htaccess 
+RewriteEngine On
+RewriteRule ^application/static/(.+)$ /static/$1 [L]
+
+
+===== 

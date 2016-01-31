@@ -1,0 +1,948 @@
+###1 Hi, I'm Sharon Long,
+###2 from Stanford University,
+###3 and I'm here to give my lecture on nitrogen-fixing symbiosis.
+###7 Today, I'll be talking about the regulation of the genes in the
+###10 bacterium itself and how those genes are controlled.
+###13 So just as a review, nitrogen fixation happens in root nodules.
+###17 These nodules form as a result of action of
+###20 soil bacteria interacting with a specific plant.
+###23 Here, you see nodules growing on the root system of a soybean.
+###27 This is a complicated series of tissue and cell interactions,
+###32 a complex developmental process,
+###33 and there's specificity between the bacteria and the plant.
+###37 I'll talk about one side of that specificity a little later today.
+###42 In the early stages for sure, and I'll make the case that it's
+###45 in the later stages as well, bacteria and plant exchange
+###49 signals in order to coordinate with each other.
+###54 Now, let's take the standpoint of the bacterium.
+###57 It's making this huge transition from the free-living bacteria,
+###61 through invasion, in which the bacteria are able to form
+###65 an infection thread and penetrate through individual cells,
+###68 and then into multiple layers of the root, and finally,
+###72 nitrogen fixation, where the bacteria have become endosymbionts,
+###76 inside the cytoplasm of a plant cell,
+###78 and they persist there in a differentiated form, almost like an organelle.
+###83 All of these changes are accompanied by carefully regulated
+###86 changes in gene expression.
+###91 Here's an outline of what I'd like to tell you today.
+###94 I'll begin by talking about a few tools that we use to study
+###97 the genetics and the gene expression of the bacteria.
+###101 And then I'd like to say something about the control of the nodulation genes.
+###106 This is probably the most studied of any of the gene regulation
+###109 events in symbiosis. I'll review some of the background,
+###113 and then I'll talk primarily about the protein activator NodD.
+###118 I'll then tell you some of our recent work on RNA polymerase
+###122 and especially the sigma factors and how they may be
+###124 playing a role in changing and guiding gene expression during symbiosis.
+###130 I'll finish with several glimpses of how particular sets of
+###134 genes are controlled, and a preview of all of the factors
+###139 yet to find in terms of how many genes are active in nodulation.
+###147 So, the first tool to remind you about is my favorite, and that's genetics.
+###153 We can take bacteria and, through mutagenesis and then
+###157 blind screens, we can ask what are the most
+###160 important genes for symbiosis.
+###162 Now, there's a couple of different symbiotic phenotypes
+###165 that we have observed. In contrast to a wild-type situation,
+###169 where the bacteria growing in the free-living state are able to
+###172 interact with the correct host plant and make functional nodules,
+###176 shown here by having a red color reflecting the
+###179 leghemoglobin that's inside the plant.
+###182 The nodules harbor bacteria that fix nitrogen, the plants are able to
+###186 use that to make chlorophyll and protein, they flourish,
+###189 and they're nice and green.
+###190 But, if the bacteria have a mutation in a gene that's
+###194 required for the formation of the nodule, the result
+###197 will be that the plant forms no nodules.
+###199 Therefore, it's not getting any fixed nitrogen, and it starves,
+###203 it's yellow, and it doesn't grow very well.
+###206 We would call this a nod gene in the bacterium
+###210 because mutations in that gene result in the so-called
+###214 Nod- (no nodule) phenotype.
+###217 The other outcome, again comparing to the wild type,
+###220 would be that a bacterium might be able to form a nodule,
+###223 but those nodules don't function, and what I've shown here
+###227 is I've symbolized that by these empty, white circles.
+###232 Those show nodules which are not fixing nitrogen,
+###235 they don't have leghemoglobin, and so we would call
+###238 this Fix- phenotype,
+###241 and the corresponding bacterial gene is going to be a fix gene.
+###244 Another approach is to look at the genome.
+###247 Bacteria tend to have genomes between about one million
+###251 for the very smallest pathogens, all the way up to 10 million bases.
+###255 Rhizobium is on the large size, over 6.5 million bases,
+###260 divided into three replication units: a chromosome, 3.65 million;
+###265 and two very large so-called megaplasmids.
+###268 They're called megaplasmids because they're more than
+###270 one million bases each.
+###272 pSymB, 1.68 million, and pSymA, 1.35 million.
+###277 The nodulation and nitrogen-fixation genes are located on pSymA,
+###282 but in addition, there are symbiosis genes on pSymB and
+###286 on the chromosome. So to some extent,
+###288 the symbiosis genes are dispersed.
+###291 Now, we can take a genomic approach to look at transcription,
+###294 and one way in which we have approached that
+###297 is to do global assays of transcription
+###301 using a custom-designed Affymetrix chip.
+###304 On this chip, we place the genome of the bacterium
+###307 together with 10,000-some genes from the plant
+###312 as follows: The entire Sinorhizobium meliloti genome is there,
+###316 every one of the 6000+ open reading frames and the intergenic spaces,
+###323 and 10,000 tentative consensus sequences from cDNAs
+###327 that were sequenced from the plant.
+###329 Now you'll see some experiments later in which
+###331 we're looking at the expression of genes in Sinorhizobium meliloti,
+###336 and in one case, we're going to be simultaneously looking
+###339 at both the bacterium and the plant.
+###341 And we can do that from a single RNA prep, as shown here.
+###346 So, if you grind up a nodule,
+###349 so you're starting with a nodule over here...
+###352 of course, this is going to be full of many plant cells,
+###355 each one of those plant cells has bacteria,
+###358 and those bacteria shown here have differentiated.
+###361 So a nodule lysate is going to have a
+###365 mixture of all of those materials.
+###369 We have a method which allows us to capture both bacteria and plant
+###373 DNAs at the same time, and that can be shown here.
+###376 For reference, in the right-hand lane,
+###378 we have isolated RNA from a plant root,
+###382 that shows you the large and small ribosomal RNAs here, for reference.
+###389 On the left-hand lane, we have bacteria grown in culture.
+###393 You can see again, the bacterial RNAs here.
+###396 Our prep for nodule RNAs captures both of those, as you can see.
+###401 And this, by being labeled and hybridized onto our Affy Chip
+###404 allows us to get a snapshot of both partners at the same time,
+###409 which is very useful, especially when you're analyzing mutants,
+###413 and useful because perfect synchrony of nodulation
+###418 is hard to achieve experimentally.
+###421 So, having introduced those tools,
+###423 now I'd like to tell you about the control of the nodulation genes.
+###427 Just a little bit of review:
+###430 Nodulation genes here are the genes
+###433 that encode enzymes that synthesize Nod Factor.
+###437 I talked about Nod Factor, and I'll show you a cartoon in a moment.
+###442 It is the substance created by the bacteria that's a
+###446 molecular signal that causes the plant to form the nodule,
+###450 and it also causes transcription in a number of other events in the plant.
+###455 So, powerful signal molecule.
+###457 The genes in the bacterium that are responsible for producing
+###462 Nod Factor include the common nod genes, nodABC.
+###467 The transcription of nodABC is controlled by a promoter
+###471 that includes what's shown here in this oblong, the so-called nod box,
+###476 a highly conserved motif that's in the DNA
+###480 upstream of the nodulation genes, both this set of common nod genes,
+###486 and others that are coordinately regulated.
+###488 All of these genes, as I mentioned before,
+###491 are located on pSymA.
+###495 Now, this cartoon introduces a couple of themes.
+###498 First, it reminds us, from my first lecture,
+###501 that the early events of nodulation include a conversation
+###505 between the plant and the bacteria.
+###508 The plant sends a signal out to the bacteria,
+###510 the bacteria send a signal back.
+###513 In the case shown on the left, we're taking a look at alfalfa,
+###517 Meticago sativa.
+###519 This plant produces a molecule, coded in yellow here,
+###523 and you'll see the structure in a moment.
+###525 That signal, from the plant to the bacterium,
+###528 is able to trigger gene expression, and we'll talk about that in detail.
+###532 The result of that gene expression, as I mentioned before,
+###535 is the production of a Nod Factor called NF-Sm.
+###540 That's the Nod Factor from Sinorhizobium meliloti.
+###543 It has a backbone of N-acetylglucosamines, which is modified,
+###549 in the case of Sinorhizobium meliloti,
+###551 with a 16-carbon N-acyl substitution here,
+###555 an acetyl, and a sulfate, each shown by a color code.
+###559 Now, on the right, we have the contrasting example of a cousin,
+###564 a related legume, pea, or Pisum sativum.
+###567 Here, we've got the root of the pea plant.
+###569 It's creating a flavonoid signal whose structure is slightly different,
+###573 and I've shown that just by the color coding.
+###575 That signal triggers Rhizobium leguminosarum,
+###580 which is the symbiont for pea, to transcribe its nodulation genes,
+###585 and those encode enzymes that make a Nod Factor,
+###587 but it's a slightly different Nod Factor.
+###590 The primary difference, which I'm showing here,
+###592 which is not the only difference, but for the sake of simplicity...
+###595 A primary difference is the nature of the N-acyl substitution,
+###599 it's eight carbons instead of 16, and it has four unsaturations.
+###603 So what we see is some specificity.
+###606 A signal that goes out from the plant from alfalfa here,
+###612 or a slightly different one from pea,
+###614 and the corresponding bacteria which respond to this signal
+###617 make a slightly different Nod Factor, as shown here.
+###620 So, this conversation, plant to bacteria and back again,
+###624 already has some of the hallmarks of the host specificity.
+###628 We're going to talk only about the first part of that conversation.
+###633 Here I'm showing again the host plant producing a flavonoid signal,
+###638 and that is causing transcription in the bacteria.
+###641 Now, I'd like to focus in on the interaction of the flavonoid
+###646 with a protein encoded by this gene, NodD.
+###650 NodD is an activator protein, a part of the LysR family.
+###656 Now, what are all the elements we're going to have to look at?
+###661 Of course, at a promoter, there's going to be an RNA polymerase,
+###665 there's going to be a DNA motif to interact with,
+###669 in this case there's an activator, and we wonder,
+###672 how do these plant signals interact with all of these
+###675 components in order to achieve transcription?
+###678 And how does this occur in a specific way?
+###682 So, I'll take a look now first, and most specifically,
+###687 at the protein NodD.
+###691 I'll put that here in the context of all of those other components.
+###695 The red here is showing DNA, all right, so here's the DNA,
+###699 and the object of this regulation is going to be to
+###704 achieve transcription of the nodulation genes,
+###707 so that they can then make the proteins that synthesize Nod Factor.
+###712 At the DNA, we have a promoter,
+###716 and that's upstream of the nod boxes.
+###718 We know that NodD binds to the promoter and bends the DNA.
+###723 I've shown here a model of NodD as a tetramer;
+###727 we don't know exactly what its form is,
+###729 but we suspect that it's most likely to be a tetramer,
+###733 and more work in the future, we hope,
+###735 will elucidate that more precisely.
+###738 We've shown through genetics that the ability of NodD
+###741 to cause gene expression in bacteria in response
+###744 to a plant signal requires the chaperonins GroES and GroEL.
+###749 Also, we found through genetics that this entire system
+###752 requires the "stringent response," that being a response,
+###756 classically to starvation, where a protein, here RelA,
+###764 causes the synthesis of guanosine tetra- or pentaphosphate,
+###768 shown here as this star.
+###772 All of that has to interact with RNA polymerase,
+###776 the machine that's going to interact with DNA
+###778 and cause template-driven transcription of an mRNA
+###782 off of the DNA template.
+###785 So, these are some of the things that we know,
+###788 but there's a lot of unknowns.
+###791 Let's ask, for example, how the inducer works with the NodD.
+###798 Now I'm not going to show you the data on our GroEL work,
+###802 but I will just mention that we have a combination of
+###805 genetic data and in vitro biochemical studies
+###809 that show how GroEL is required for NodD and luteolin to be active.
+###815 In one of the experiments that follows,
+###817 I'll be referring to that some more.
+###819 Let's now just ask about flavonoids,
+###822 including the particular flavonoid luteolin, and NodD.
+###828 So in this experiment, we're doing the following:
+###831 We're growing Sinorhizobium either without an inducer
+###835 or with an inducer, so it either has just culture medium
+###839 or it has the plant signal in it.
+###841 From those cultured cells, we purify NodD,
+###845 and we ask, using electrophoretic mobility shift assay,
+###849 does that NodD bind to the nod box promoter or not?
+###854 So in pairs here, you're going to be seeing,
+###857 in the open boxes, how much DNA binding is accomplished
+###863 by this amount of NodD onto the nod box promoter
+###868 (the nodulation genes' upstream region).
+###871 And this is the amount of binding when the NodD in question
+###875 came from cells grown without inducer.
+###877 But you can see here that, if the NodD had been purified from
+###883 cells grown with inducer, the same amount of NodD
+###886 does much more DNA binding.
+###890 So it appears that the affinity of NodD for its DNA target
+###894 is increased if the NodD was purified from a
+###898 cell exposed to the plant inducer luteolin.
+###903 Now, this is an in vitro study.
+###906 In this case, all of the NodD is being purified from
+###909 cells grown with no inducer.
+###912 That purified NodD is then incubated with buffer only
+###919 or with the plant inducer luteolin.
+###922 So we're going to have "minus" for no luteolin and
+###925 "plus" for added flavonoid luteolin.
+###929 We found early on in data not shown here,
+###932 that if this were done with NodD only, there was no result.
+###938 However, if we carried this experiment out in a system where the
+###942 NodD was also presented with GroEL/GroES,
+###947 magnesium, ATP, and inducer, there was a profound effect.
+###952 And that's shown here.
+###955 The primary data are as follows:
+###958 In each case, we've got purified NodD that was incubated
+###962 just with magnesium, ATP, and GroES/GroEL here,
+###967 or with those same components and luteolin;
+###971 just chaperonins and ATP here, or with luteolin;
+###977 components only, or with luteolin, and so forth.
+###979 And what you can see is that the presence of the luteolin,
+###984 the flavonoid inducer, is able to enhance the ability of purified NodD
+###989 to bind to its target DNA sequence in the nodulation promoter.
+###996 So, what we've got here, then, is a demonstration that,
+###1002 in the presence of chaperonins
+###1004 and in the presence of the flavonoid inducer,
+###1008 again we see enhanced ability of NodD to bind to DNA.
+###1012 And that's quantified here, if you look at the fraction bound:
+###1015 absence of luteolin in the incubation mixture,
+###1018 presence of luteolin.
+###1020 Now, this was exciting to us because we were starting
+###1024 to get at the question of how the flavonoids
+###1027 affect the bacteria's ability to express genes.
+###1031 But recall, I told you that one of the hallmarks of this system
+###1034 is that it is specific.
+###1036 We know that different plants make different flavonoids.
+###1038 Some of them work in vivo, and some don't.
+###1042 Is that due to DNA?
+###1044 Knowing that we should expect any in vitro regulatory system
+###1050 to explain specificity as well as other aspects of NodD activity,
+###1056 we carried out an in vivo experiment based on some earlier data
+###1059 from some years ago, that showed a correlation
+###1064 between what species a NodD protein came from,
+###1070 and what kinds of flavonoids a cell would respond to.
+###1074 So in this experiment, genetically,
+###1076 we've got a responder cell that's going to report for us
+###1080 whether nodulation genes are transcribed or not.
+###1083 It's got a nod gene promoter fused to beta-galatosidase.
+###1088 But that genetic construct has its own nodD taken away.
+###1093 There's a deletion for nodD, but there's a nod-lac fusion.
+###1097 Into that strain, we're going to place one or the other
+###1100 of these two plasmids.
+###1102 These plasmids have the same vector, so the same backbone.
+###1106 They also have a promoter that's exactly the same;
+###1110 it's a constitutive promoter that's highly expressed.
+###1114 What's different in them is that, in this strain,
+###1117 we've got a gene that represents the trimmed open reading frame
+###1121 for NodD from Sinorhizobium meliloti, which is the symbiont of alfalfa.
+###1126 Now in this other plasmid, we have the trimmed open reading frame
+###1131 of NodD from Rhizobium leguminosarum trifolii,
+###1133 which is a symbiont of clover.
+###1136 So everything is the same except the actual amino acid sequence
+###1141 of the two NodDs.
+###1143 Now we're going to place those into a reporter strain
+###1146 that has no NodD of its own,
+###1148 and ask whether nod genes are expressed or not.
+###1152 So in the left-hand column here, what you're seeing
+###1155 is whether or not nod genes are expressed in response to luteolin.
+###1159 And what you can see is that when the cell includes
+###1164 this plasmid that has the Sinorhizobium meliloti nodD,
+###1168 then yes, there is nod gene expression.
+###1173 However, if the strain has the nodD gene that came from Rhizobium trifolii,
+###1179 then it's kind of iffy, there's not very much expression.
+###1183 So this suggests that this NodD can induce
+###1188 in response to this molecule, but this NodD cannot induce very well.
+###1194 But now let's ask:
+###1196 How do those reporter strains respond to a completely
+###1200 different flavonoid, shown here?
+###1202 You can see for example it has only one hydroxyl,
+###1205 whereas luteolin has four.
+###1208 Well, now, if we take the strain containing the Sinorhizobium meliloti
+###1211 NodD, we see that there's no expression at all.
+###1215 Whereas the NodD from the Rhizobium trifolii shows good activity.
+###1220 So this shows that the amino acid sequence of just NodD
+###1225 is sufficient to account for a different response
+###1229 to one flavonoid structure versus another flavonoid structure.
+###1233 We wanted to put that together with the data that I just showed you,
+###1237 that demonstrated that NodD can bind better to its
+###1244 nod box target if it's got luteolin present.
+###1248 But what we found was something of a surprise.
+###1251 Now what I'm showing here on the top are the
+###1254 structures of the flavonoid that I've introduced before,
+###1256 that's luteolin, and a set of flavonoids here
+###1260 that in vivo do not cause gene expression in Sinorhizobium meliloti.
+###1267 So we would infer from that that the NodD of Sinorhizobium meliloti
+###1271 cannot interact productively with any of these,
+###1274 because they don't work in vivo.
+###1277 However, if we carried out experiments similar to
+###1280 those I showed you before with each of these,
+###1283 we got the following:
+###1285 Here is a set of data, and here's another.
+###1290 This for daidzein, that's the molecule up here.
+###1293 This one for eriodictyol, which is the molecule there.
+###1296 And what you can see here is that,
+###1298 if you compare NodD protein incubated with components such as
+###1303 GroEL, magnesium, ATP,
+###1305 or those same components plus the flavonoid in question,
+###1309 these flavonoids, even though they don't work in vivo,
+###1312 they still enhance the binding of NodD to its target promoter.
+###1317 That's true for daidzein, that's true for eriodictyol.
+###1320 And what this shows is that DNA binding is caused
+###1324 even from flavonoids that are not active.
+###1330 And some of the examples of the data
+###1333 and a quantification are shown here.
+###1336 This shows a gel shift of NodD from Sinorhizobium meliloti
+###1342 presented with buffer only,
+###1345 with daidzein, luteolin, and naringenin, three inducers,
+###1351 of which only the luteolin is really active in vivo.
+###1355 Nonetheless, all of them cause gel shifting,
+###1358 and that's quantified here.
+###1359 What you can see in this graph is NodD with no inducer
+###1364 of any kind added, and NodD with the three different inducers,
+###1368 some of which are active in vivo and some of which aren't.
+###1371 So right now, our working model is that NodD
+###1376 is able to bind DNA with an increased affinity
+###1379 no matter what flavonoid is there.
+###1382 And in fact, the flavonoids that do not work in vivo
+###1386 may actually bind to NodD and inhibit the ability
+###1390 of the correct flavonoid to induce,
+###1393 by causing unproductive DNA binding.
+###1396 So DNA binding does not explain the specificity of NodD
+###1401 for the flavonoid inducers that come from different plants.
+###1405 That leaves us with a series of new experiments
+###1407 to do in the future, and among them,
+###1410 what we want to ask is:
+###1412 Does the presence of the correct flavonoid
+###1415 somehow affect the interaction of NodD with RNA polymerase?
+###1419 And that's led us in turn to ask about the components
+###1424 of RNA polymerase, and in the end,
+###1427 we hope also to work in vitro with the guanosine tetraphosphate
+###1432 and ask about all of these components together.
+###1436 But in this next section, I'll just like to talk about RNA polymerase.
+###1440 In particular, I want to talk about the sigma factors.
+###1443 Now just as a review, RNA polymerase in prokaryotes has
+###1449 a core made of two α subunits (two copies of the α subunit),
+###1454 a β and β' subunit, and in addition, a sigma factor,
+###1458 which has multiple domains, and they're shown here in this cartoon,
+###1462 which is derived from E. coli sigma factor.
+###1465 And what we now know from work in many labs over the years,
+###1469 is that there are many kinds of sigma factors.
+###1473 Originally, the one that was best characterized
+###1476 was the housekeeping, or rpoD, σ70 type of sigma factor.
+###1481 And that's the form of sigma factor that reconstitutes
+###1485 with RNA polymerase for the transcription of most genes
+###1488 in E. coli and in other organisms.
+###1491 The sigma factor here has various alpha-helices
+###1496 and other subdomains; that's what these letters are for.
+###1499 But this is one polypeptide as it interacts with different parts
+###1502 of the β', β, and α subunits.
+###1506 But in addition to the rpoD,
+###1508 there are other sigma factors, a stress sigma factor rpoS,
+###1512 which is very prominent in survival responses of E. coli;
+###1517 heat shock rpoH;
+###1519 in some enterics, there's also rpoN,
+###1522 which is important for nitrogen metabolism and for other functions
+###1526 such as nitrogen fixation in Klebsiella;
+###1529 and a number of other sigma factors,
+###1532 and I'm going to come back in a few minutes to one in particular, the rpoE.
+###1539 In Sinorhizobium meliloti, our annotation showed
+###1542 that there's at least double that number of sigma factors.
+###1546 One of the striking differences with enterics
+###1548 is that there's no copy of rpoS.
+###1551 However, there is a housekeeping sigma,
+###1554 it looks very comparable to the σ70 of E. coli.
+###1558 There are two copies of the rpoH or so-called heat-shock sigma.
+###1564 There are ten copies at least of rpoE,
+###1567 in addition to the fecI originally identified for relationship to iron control,
+###1573 and the rpoN that's important for nitrogen fixation.
+###1577 In the following section, I'd like to tell you some of our
+###1580 new work on rpoH and refer briefly to
+###1583 some emerging work on rpoE.
+###1588 We wanted to know what do those two different copies of rpoH do?
+###1594 Are they important for heat shock?
+###1596 Are they important for symbiosis?
+###1598 Let's start with a look at how these are expressed.
+###1602 On the left-hand column, you can see how the two different copies,
+###1606 rpoH1 and rpoH2, are expressed in free-living cells.
+###1611 The rpoH1 tends to be expressed mostly
+###1615 in late log (late exponential) and stationary,
+###1620 but rpoH2 is expressed mostly in stationary cells.
+###1624 If you grind up nodules and ask whether
+###1626 these rpoH genes are transcribed,
+###1629 you can see that rpoH1 is transcribed, yes, it's present in nodules;
+###1634 but rpoH2 was not detectable in our assays.
+###1638 That leads to surprise in a minute, as I'll tell you.
+###1642 Knocking out one or the other or both of these rpoH genes
+###1647 leads to some phenotypes in the free-living state.
+###1651 The rpoH1 mutant is very sensitive to high temperature.
+###1656 rpoH2 does not appear to have much of a phenotype,
+###1660 but the double mutant, similar to the rpoH1,
+###1663 is affected by high temperature.
+###1666 Here's the surprise about the symbiosis.
+###1669 What we found was that a mutation in rpoH1 was Fix-.
+###1676 rpoH2, if it's knocked out only by itself,
+###1680 does not appear to have any symbiotic defect.
+###1683 However, if you knock out both rpoH1 and rpoH2,
+###1687 and despite the fact that rpoH2 doesn't seem
+###1691 to be detectable as a transcript in nodules,
+###1693 remarkably, that's Nod-.
+###1696 That means that one or the other of those rpoH sigma factors
+###1701 has to be functioning in order for the symbiosis
+###1704 to proceed past some of the very earliest stages.
+###1708 So that's a mystery that we are beginning to look at in more detail.
+###1713 Meanwhile, we've also asked about the spectrum of genes
+###1716 that are expressed.
+###1718 In the following experiment, we used the Affymetrix chip
+###1721 that I described earlier.
+###1724 And what we're going to be doing here is taking a look
+###1727 at the transcripts in wild-type cells, and in each of the two single mutants,
+###1733 and the rpoH1H2 double mutant, as we grow them in culture,
+###1738 give them a heat shock, and then harvest the
+###1741 RNA to assess global transcription.
+###1745 Now, in the following, I'll show you summaries of our data.
+###1750 Remarkably, we found that, when you heat shock wild-type rhizobia,
+###1755 almost a third of the genes in the genome, over 2000 genes,
+###1759 are affected one way or another.
+###1761 One thousand of them go up, another thousand go down.
+###1765 Another intriguing feature of this transcription picture is shown here.
+###1769 Now, if you take the entire genome of Sinorhizobium and you look
+###1772 at the distribution of open reading frames,
+###1774 you can see that more than a half of the open reading frames
+###1777 are in the chromosome, and that's shown in this here,
+###1781 so that's the chromosome.
+###1783 pSymB accounts for this many, as a fraction of the whole,
+###1788 and this is the number that are in pSymA.
+###1791 That's the total genome annotation,
+###1793 but if you look at those 2000 genes that are changed
+###1796 one way or the other by heat shock,
+###1798 what you see is that the chromosome is underrepresented,
+###1802 and the two Sym plasmids are overrepresented.
+###1805 So that, in and of itself, was kind of intriguing,
+###1807 especially when you put it together with the fact that the
+###1810 double mutant of those sigma factors is very defective in symbiosis.
+###1817 Here was another surprise:
+###1819 If you take a look in this picture only at the genes
+###1823 that are increased in heat-shocked cells, and that's, as I said,
+###1827 over a thousand, what we find is that the large majority
+###1833 of those are increased by heat shock
+###1837 even if the two rpoH sigma factors are both knocked out.
+###1842 And that's shown here.
+###1844 These are the increased genes by heat shock in a wild-type,
+###1848 and this blue circle shows those genes
+###1852 that do not get enhanced in a mutant.
+###1857 These are the genes that do not get enhanced
+###1859 by heat shock in an rpoH1H2 double mutant.
+###1864 And the overlap is only about 200.
+###1868 So, only a minority of the heat-shock genes are apparently
+###1873 controlled by the rpoH sigma factors.
+###1876 So, they're doing other things,
+###1879 and some other regulatory system is taking the job that,
+###1882 in E. coli, would be done just by rpoH.
+###1885 Another surprise that needs to be followed up.
+###1889 So I'd now like to ask the question:
+###1893 How about the other sigma factors?
+###1895 As we move forward looking at rpoH,
+###1897 we know that there are more sigma factors to
+###1900 account for in Sinorhizobium meliloti.
+###1903 Now one that's important for sure, that I won't say more about,
+###1907 is obviously the rpoN σ54 sigma factor known to be
+###1913 required for the transcription of nitrogenase and a
+###1915 number of the other genes in the late differentiated state.
+###1920 The rpoE family presents some other very intriguing puzzles.
+###1926 Now, rpoE was identified in E. coli as a sigma factor
+###1932 responsible for genes that were triggered by denaturation
+###1938 of proteins in the periplasm.
+###1940 They're controlled post-transcriptionally by an anti-sigma factor,
+###1945 which captures them in an inactive form,
+###1947 unless the anti-sigma factor is somehow triggered
+###1950 to release the rpoE sigma,
+###1953 which can then go and associate with core polymerase
+###1956 and turn on a large number of genes.
+###1958 So we began to look genetically at these rpoE genes.
+###1962 We found that the single mutants in each of the rpoE
+###1969 open reading frames don't have any particular phenotype,
+###1972 and that's shown here. Right?
+###1973 Single rpoEs have some slight membrane sensitivity, but basically,
+###1981 they seem normal in culture and they're normal for symbiosis.
+###1986 We've now also gone through and made all of the double mutants
+###1989 for each of those sigma factors.
+###1992 What we find there is that some of these rpoE sigma factor
+###1996 double mutants have a symbiotic defect.
+###2000 They make nodules, but nodules do not fix nitrogen.
+###2003 That suggests that somewhere in the transition between the
+###2007 beginning of nodule formation and the differentiation of the bacteria,
+###2011 essential genes require the activity of some of the rpoE sigma factors.
+###2017 It also points out the likelihood that these are at least partially redundant;
+###2021 that's why none of the single mutants had a phenotype,
+###2024 but some of the doubles do.
+###2027 So, in our future work, we are now asking,
+###2031 which of the genes are controlled by each of these rpoEs,
+###2035 and can we use transcriptional analysis of the global picture
+###2039 of rpoE control to understand the redundancy
+###2042 and understand where they're required in symbiosis.
+###2046 So, from that view of the RNA polymerase,
+###2050 I'd like to go to a few more case histories.
+###2053 But we need to keep in mind that whatever stages we're looking at,
+###2058 we may need to consider the global picture of RNA
+###2062 polymerase and of other regulatory contexts
+###2065 to understand how specific regulatory circuits
+###2068 are able to function in symbiosis.
+###2071 Now, my next topic is about the control of
+###2073 extracellular polysaccharides.
+###2076 EPS, extracellular polysaccharides, are required for symbiosis.
+###2081 And I'll tell you in this section about how these are
+###2083 regulated by a family, that includes a periplasmic regulator
+###2089 and a two-component regulatory system.
+###2092 Now, the EPS in Sinorhizobium meliloti has been studied
+###2095 in detail by Graham Walker and his colleagues at MIT,
+###2098 over a number of years.
+###2100 The name of this exopolysaccharide is succinoglycan
+###2103 because it is modified by acidic groups,
+###2106 including succinyl groups.
+###2108 And they have shown that mutants which are not able to
+###2111 synthesize succinoglycan are able to provoke nodules
+###2117 to form on alfalfa as a host, but they cannot invade.
+###2121 So what's shown here, which is a root hair with bacteria invading,
+###2126 and these bacteria are all labeled with green fluorescent protein,
+###2130 allowing you to follow their invasion into the plant.
+###2134 This process will not occur unless you have the
+###2138 extracellular polysaccharides.
+###2141 Now here's some mutants that were found by Graham Walker
+###2144 and his colleagues that were able to make polysaccharide,
+###2149 but they don't make the right amount.
+###2151 In fact, they make too much.
+###2153 So what you're seeing here are bacteria that are streaked
+###2156 on a solid medium including a dye called calcofluor.
+###2160 Calcofluor in solution is not fluorescent,
+###2162 but when it binds to certain beta-glucans, it becomes fluorescent.
+###2166 It's used sometimes as a laundry brightener because,
+###2170 among other glucans, calcofluor can bind to cellulose,
+###2173 which is the constituent of cotton.
+###2176 And when it binds and becomes fluorescent,
+###2178 that means that any cotton fabric that has calcofluor
+###2181 will fluoresce slightly in sunlight, because there's a little bit of UV in sunlight.
+###2186 Picks up the UV, fluoresces bright blue,
+###2189 that makes the laundry look whiter than white.
+###2192 Now in the case of Sinorhizobium,
+###2193 it's lucky for us that the succinoglycan also binds calcofluor.
+###2197 So a wild type, which you can see here, has a light,
+###2202 white glow when it's grown on calcofluor medium
+###2207 and exposed to UV light.
+###2210 But two mutants, here exoR mutant that's defective,
+###2216 and here an exoS mutant that's constitutively active
+###2220 (that is, it's hypermorphic), each of these
+###2224 makes too much polysaccharide.
+###2226 And actually, it turns out that's not good for symbiosis either.
+###2229 If a bacterium makes too much polysaccharide,
+###2231 it doesn't do very well at invasion.
+###2234 So what's going on here?
+###2235 Why does this mutant
+###2238 make too much polysaccharide when it's overexpressed,
+###2240 and this mutant makes too much polysaccharide
+###2243 when it's defective?
+###2244 Well, we would guess that that's because this is a negative regulator
+###2247 and this is a positive regulator.
+###2249 But we took these and found, fortuitously,
+###2254 some unexpected phenotypes that went beyond polysaccharide.
+###2259 Here's the first of those:
+###2261 And that is that mutants defective in exoR
+###2265 or overproductive of/overactive in exoS are not motile.
+###2271 They are not able to swarm on a motility plate, and that's shown here.
+###2276 This is wild type; you can see that on this particular agar,
+###2279 it's able to swim around, it makes a big, wide colony.
+###2283 But the exoR- mutant or the exoS overexpression mutant,
+###2287 both of these are not able to swarm.
+###2290 That's because they're not motile.
+###2292 This plate also lets me introduce to you two genetic constructs
+###2296 that give us clues.
+###2298 In the first one, over here, we've taken this exoS mutant,
+###2302 and we've taken a wild-type ExoR (that's what we
+###2307 infer to be an inhibitory factor)...
+###2311 we've taken ExoR and we're overexpressing it.
+###2314 If we overexpress that ExoR in the presence
+###2319 of this overexpressed ExoS,
+###2322 it apparently allows the cells to be normal again.
+###2327 So that suggests to us that ExoR actually inhibits ExoS,
+###2333 and even if you have a hyperactive ExoS,
+###2336 if you then add more and more ExoR,
+###2338 you're able to get things back to the wild-type balance.
+###2342 Now, the second clue was also very interesting.
+###2345 Here's exoR, and in a population of exoR mutants,
+###2352 which are, as you can see, nonmotile,
+###2354 a suppressor arose.
+###2356 That suppressor allows the exoR to be motile again.
+###2360 So when we tracked down the gene and sequenced it,
+###2362 we found that that suppressor was actually in a gene called chvI.
+###2369 ChvI is a DNA-binding protein that's linked to ExoS,
+###2374 which is a response regulator.
+###2376 ExoS and ChvI are a two-component system.
+###2380 And without even asking about ExoS,
+###2382 what we did was to mutate ExoR and find a suppressor
+###2387 that was in the substrate of ExoS.
+###2392 Now, motility appeared to show us a linkage of the exoS
+###2398 and the exoR with the chvI,
+###2401 but how about other phenotypes?
+###2404 Well, one of the other dramatic changes that happens
+###2408 in an exoR- or exoS constitutive bacterium
+###2416 is that genes which are normally upregulated in a wild type
+###2422 are very low in expression in those mutants.
+###2426 And you can see that here, if you take a look here,
+###2429 these blue panels.
+###2431 These are actually two duplicates of an exoR-
+###2434 and an exoS constitutive, showing a whole set of genes
+###2439 that are not appropriately regulated if exoS
+###2442 and exoR are in those defective conditions.
+###2447 The two suppressors that I showed you,
+###2449 however, the ones that reverse motility?
+###2452 They also reverse the transcription defects
+###2457 and restore them to wild-type levels,
+###2459 and that's shown in these panels on the right,
+###2463 where you can see that coordinate restoration
+###2468 of a wild-type function from the same suppressors.
+###2473 So, what we find is that the motility defect
+###2478 and in the transcription profiles, exoS and exoR and chvI
+###2484 all appear to be targeting coordinated functions.
+###2489 We believe, based on some biochemical data,
+###2493 that the system works as follows:
+###2496 We've shown biochemically that ExoR is in the periplasm
+###2501 in between the cytoplasmic membrane and the outer membrane.
+###2504 So as a negative regulator that's present in the periplasm,
+###2508 it's unique at this point.
+###2510 There's no model for how this might be working,
+###2513 because there's no other proteins of that type yet reported.
+###2517 ExoS and ChvI are the two-component system,
+###2522 with ExoS as a histidine kinase and ChvI is the
+###2526 response regulator that binds to DNA.
+###2529 And through ChvI, all of these functions,
+###2532 including motility, transcription, and we've also shown biofilm formation
+###2536 and other functions... they're all controlled.
+###2539 Now, this presents us with a lot of mysteries.
+###2543 For example, his-kinases (sensor kinases) are presumably
+###2548 responding to some kind of change in the environment,
+###2551 some signal. What is it?
+###2553 Is the plant sending something?
+###2556 Are other bacteria sending something?
+###2559 What are the factors in the
+###2561 environment that control the activity of ExoS?
+###2565 ExoR as well, how does that act?
+###2567 Does that also respond to the environment?
+###2570 So these are some of the mysteries that we hope to
+###2572 work on at the molecular level,
+###2575 and one of the other directions we're going right now
+###2578 is to look very specifically for the targets of the ChvI DNA-binding protein.
+###2585 Now, ExoR and ExoS, as I showed you, control a lot of genes.
+###2590 There are more genes out there.
+###2592 Now we already know that this regulon is required for exopolysaccharide,
+###2598 it has to be just right in order to get invasion,
+###2601 you saw that there are many genes that are controlled.
+###2604 But we also think that, as you go from invasion
+###2607 all the way to differentiation,
+###2609 there are many more genes than that.
+###2612 First, in a promoter trap screen, genetically,
+###2615 we found several dozen bacterial promoters
+###2619 that appear to turn on in between the beginning of invasion
+###2623 and the final differentiation.
+###2625 So, we're looking at those genes to ask,
+###2627 what is it that controls them?
+###2630 Furthermore, we've recently carried out more genetic screens
+###2634 of the type that I described in the beginning --
+###2637 putting random bacterial mutants on plants and asking whether
+###2640 those bacteria are able to cause nodules to form
+###2644 and whether those nodules are functional --
+###2646 to find more nodulation mutants and fixation mutants.
+###2649 We have already found several new genes
+###2652 not previously recovered in earlier screens,
+###2655 for transporters for example,
+###2657 which suggests that the bacteria must be able to import or perhaps
+###2661 export materials in order to accomplish nitrogen fixation
+###2664 and differentiation. And in addition,
+###2669 we've taken the transcriptional approach as follows:
+###2674 So based on our Affymetrix transcription studies,
+###2677 we were able to show that hundreds of bacterial genes change,
+###2683 if you compare cultured bacteria to bacteria in nodules.
+###2686 Over 300 genes increase in expression, including the obvious suspects,
+###2692 such as nitrogenase and fixation genes.
+###2695 But many more than that, 900-some genes, go down.
+###2699 These decreased genes include biosynthetic functions
+###2702 such as amino acid synthesis and others.
+###2706 So the bacteria is having a major change in its gene expression profile.
+###2711 The plant changes as well.
+###2714 Now, several hundred genes change,
+###2717 of which 250 or so increase in the expression,
+###2721 and many plant genes decrease in their expression as well.
+###2725 Now what we wanted to do was ask something about
+###2728 the strategy of how the plants and the bacteria
+###2731 control their transcription in these nodules.
+###2733 So what we're going to do in the next set of experiments
+###2737 is compare the transcripts in a wild-type nodule, such as this one here,
+###2742 to a nodule that's being established on a wild-type plant
+###2746 by a bacterium that's mutated.
+###2749 Now what mutant are we going to use?
+###2751 We're going to use a mutant called fixJ.
+###2753 Now the protein FixJ is required for bacteria in
+###2758 the nodule to transcribe the nitrogenase, or nif genes.
+###2762 And that works as follows:
+###2764 Leghemoglobin, which is present in the plant cytoplasm,
+###2767 shown in this cartoon, buffers oxygen
+###2770 so that the free oxygen tension is very low
+###2773 (although oxygen is delivered at a high rate by leghemoglobin).
+###2777 Now, the low oxygen is able to interact with
+###2780 the two-component regulatory system, FixL and FixJ,
+###2783 that activates a signal transduction cascade
+###2787 that results in nitrogen fixation.
+###2790 So, here's the plant cytoplasm
+###2792 and the bacterium responding to the plant's signal.
+###2795 If you have no FixJ in the bacterium, then there's no nitrogen fixation.
+###2801 So the bacterium provokes a nodule, it gets into the plant,
+###2805 but then it doesn't work.
+###2807 So the RNA transcription studies we're doing now
+###2811 are going to compare a nodule made with wild-type bacteria
+###2816 and a nodule that's made and infected
+###2818 with bacteria that then don't fix nitrogen.
+###2821 And here are results.
+###2822 Let's take a look at the wild type first.
+###2825 As I mentioned... and by the way,
+###2829 we're looking only at the transcripts that are going to go up.
+###2833 The plant has about 250 or so transcripts that are upregulated in a nodule.
+###2839 The bacterium has somewhat over 300 transcripts that increase.
+###2845 This is the wild type.
+###2847 Now, if we ask,
+###2849 what happens if we look at the transcripts
+###2851 made in a nodule that was created by the mutant?
+###2855 We see that a nodule made by the fixJ mutant
+###2861 upregulates very few transcripts.
+###2864 The vast majority of these 300-some transcripts that are
+###2868 increased in bacteria when they're wild-type
+###2872 apparently requires the FixJ system.
+###2876 So I would say from this that the bacterial transcription profile
+###2881 is responding to some signals right in time,
+###2886 at the point that nitrogen fixation is occurring.
+###2889 We found a contrasting result when we ask these same nodules
+###2894 that have so few bacterial transcripts,
+###2897 how many plant transcripts do they have?
+###2899 And that's shown here.
+###2901 What you can see is that almost all of the wild-type transcripts
+###2905 shown in this outer box are also made in the nodule
+###2909 that resulted from the bacteria that is mutated for nitrogen fixation.
+###2915 So I would say that suggests a couple of things.
+###2920 First, that the plant isn't making its decision about
+###2927 whether to transcribe these genes at the last minute.
+###2930 It made that decision to upregulate these genes early on,
+###2935 before the bacterium makes the decision about
+###2937 whether or not to fix nitrogen, right?
+###2940 So most of these genes, I would guess,
+###2943 are being made to build the nodule in the first place,
+###2946 that the strategy of the plant is to decide on the morphogenesis.
+###2951 But it also shows that, yes, there are some genes,
+###2954 and they're shown in this outer part that's not
+###2956 covered by the overlap,
+###2959 there are some genes that do depend on bacterial nitrogen fixation,
+###2964 in order for the plant to express them.
+###2965 So we want to find out in future studies
+###2967 how those are controlled, as well as how some
+###2972 of these are controlled irrespective of the bacterial signaling.
+###2977 And that brings me to the final topic,
+###2981 in which we've been able to use a combination of
+###2984 bacterial genetics and plant genetics,
+###2987 as a way of elucidating new signals.
+###2990 In a screen of plant mutants, we asked,
+###2994 can we find plant mutants that fail to accomplish nitrogen fixation,
+###3000 fail to accomplish correct symbiosis?
+###3003 Just as a baseline, let's take a look here at wild type.
+###3007 Now, in a wild-type plant with wild-type bacteria,
+###3010 you get nice nodules, here's those nodules.
+###3013 If you do a section through a nodule,
+###3015 you can see all of the infected cells.
+###3019 So here in the corner is the vasculature of the plant,
+###3021 so the root is going like this.
+###3023 Here's the nodule coming out and all of these dark-stained cells
+###3026 are packed full of successful bacteria fixing nitrogen.
+###3031 Using a bacterial strain that has a glucuronidase fusion
+###3035 in the nif genes, but is still wild-type,
+###3038 we're able to see that, if you take this kind of section of a nodule
+###3042 and you stain it for glucuronidase activity,
+###3045 you get this deep-blue stain, and that means that the nitrogen fixation
+###3049 genes are being transcribed.
+###3051 But now let's take a look at a plant mutant.
+###3055 So this plant mutant is called dnf,
+###3057 that stands for "defective in nitrogen fixation."
+###3060 If you see here, the bacterial action (wild-type bacteria)
+###3067 on this plant yield tiny, little, white nodules.
+###3071 They're not functioning, they're not fixing nitrogen.
+###3075 A look inside those nodules shows that the bacteria do get into cells.
+###3080 Here's the vasculature again, here's the root,
+###3082 here's the nodule.
+###3084 All these dark-staining cells are packed full of bacteria.
+###3087 However, if you put in the indicator for nif to glucuronidase
+###3092 and you stain for glucuronidase activity,
+###3095 you can see here that the nif genes (nitrogenase genes)
+###3098 are not being expressed. There's no blue stain.
+###3102 So something about this plant mutant
+###3106 is not allowing nitrogen fixation to occur.
+###3109 So we can say that the bacteria need whatever it is that DNF1 does
+###3115 in order to differentiate and fix nitrogen.
+###3118 Having carried out the crosses and mapping necessary,
+###3124 we have cloned and identified DNF1.
+###3127 We found that DNF1 encodes a plant protein
+###3132 that is a nodule-specific signal peptidase.
+###3136 Now, using this illustration from Molecular Biology of the Cell,
+###3140 I can just go through roughly what we would
+###3143 expect the signal peptidase to do doing.
+###3145 In the plant cytoplasm, you're going to have the endoplasmic reticulum.
+###3150 Some plant proteins are going to be encoded in the nucleus,
+###3154 they're going to be translated such that they go
+###3157 into the lumen of the endoplasmic reticulum,
+###3160 and that is made possible by a signal peptide.
+###3163 The signal peptidase cleaves off the signal peptide as so,
+###3169 releasing the mature polypeptide product.
+###3174 Now, what do those do?
+###3176 I'll get to that in a moment.
+###3178 But, what we just conclude is that there's going to be something
+###3183 about the action of DNF1 that's going to result
+###3189 in the production of a mature protein that might go to the cell wall,
+###3195 or it might go into vesicles.
+###3198 So whatever is being produced by the DNF1 signal peptidase
+###3204 may be purposed for secretion or for vesicle delivery.
+###3212 So what are the substrates?
+###3213 And here, our work was able to intersect
+###3216 with the work of Eva Kondorosi and Peter Mergaert
+###3218 and their colleagues.
+###3220 They had discovered a family of nodule-specific plant proteins
+###3224 that they called NCR, "nodule-specific cysteine-rich proteins."
+###3230 Using our mutant, they have been able to show that these NCR proteins
+###3235 are actually processed by our DNF1 signal peptidase.
+###3240 Therefore, what we can envision is that the lumen
+###3243 of the endoplasmic reticulum, as a donor compartment,
+###3246 is going to be full of these NCR peptides after they're processed.
+###3254 And these may be then delivered to a target compartment;
+###3258 we might envision that as having the Rhizobium.
+###3261 So, once again, what can consider here
+###3264 is that we've got NCR proteins from the plant
+###3268 being processed into the endoplasmic reticulum, put into vesicles,
+###3275 and then delivered into a compartment where
+###3277 they actually go into the Rhizobium and
+###3280 cause those Rhizobium to differentiate.
+###3283 This model can be tested in a number of ways,
+###3286 and those are underway at present.
+###3290 What we can envision though, is the following:
+###3294 We know that these bacterial cells,
+###3297 which are here shown in a closeup of an infected cell in a nodule,
+###3302 these bacterial cells must be getting a lot of signals from the plant.
+###3306 So if we envision this as a cartoon of a plant cell,
+###3310 and here's the cytoplasm of the plant cell,
+###3313 we already know from previous work that the leghemoglobin
+###3316 that I mentioned earlier, that gives the nodule its pink color,
+###3320 helps to buffer oxygen.
+###3322 It keeps free oxygen low while delivering it at a fast rate,
+###3326 and we know from earlier work that there's a signal transduction
+###3329 cascade that triggers the activity of NifA and
+###3335 eventual transcription of nitrogenase, due to the FixL/FixJ
+###3340 oxygen-sensitive two-component system.
+###3344 But now what we know is that something else is needed.
+###3347 Unless you've got DNF1 processing the NCRs
+###3353 and maybe doing other jobs as well,
+###3355 unless you've got DNF1, you still won't get nitrogen fixation.
+###3360 So, a completely new kind of process.
+###3366 Deep inside the nodule, there is a new signaling process
+###3370 going that we've now discovered.
+###3372 And this raises the possibility that specific
+###3376 DNF1-processed peptides may be triggering differentiation.
+###3383 As Mergaert and Kondorosi have shown,
+###3385 these peptides are also able to carry out control
+###3390 of bacterial cell division and DNA endoreduplication.
+###3394 So there are many hundreds of NCRs,
+###3397 and tracking down what each of them does
+###3399 is a big challenge for the future.
+###3401 From our standpoint, as we look at bacterial differentiation,
+###3404 we want to know, are these effects direct or indirect?
+###3409 Does an NCR peptide actually go into the bacterium
+###3413 and interact with a receptor, or is it causing some condition
+###3416 in the plant that then causes gene transcription
+###3420 to change in the bacterium?
+###3422 So, our purpose is right now to characterize the mechanism
+###3426 in the plant of how these DNF1 signal peptidase components
+###3432 are working to ask whether there are other substrate
+###3435 proteins as well, and to find out their mechanism in symbiosis.
+###3440 So what I've shown you today is an outline of how
+###3443 we're taking a look at bacterial genes from the early
+###3446 nodulation processes all the way through the differentiation
+###3449 of the bacteria that makes it possible for them to fix nitrogen.
+###3454 And I think in particular that the use of plant mutants,
+###3460 as we did with DNF1, to look for plant factors
+###3464 that control bacteria may be an especially promising
+###3466 direction for the future.
+###3469 They're going to be many levels of regulation,
+###3472 from external signals to sigma factors.
+###3475 I think that the combination of genetics and in vitro transcription
+###3479 studies are important.
+###3481 And a lot of our effort in the future is going to be directed towards
+###3485 this double study of plant mutants and bacterial genes,
+###3490 in order to try to dissect out the signals and controls.
+###3494 So with that, I'll conclude this part of the lecture,
+###3497 and my third lecture is going to be on how the plant responds
+###3500 to the bacterial signals at the various stages of nodulation.
+###3505 Thank you.

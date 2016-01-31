@@ -1,0 +1,520 @@
+###59 Last time we were talking about computerized layout planning and the focus of the last
+###67 two lectures has been on the development of process layouts. In today’s class we are
+###75 going to talk about the design of product layouts or assembly lines and the features
+###82 that we have there in product layouts. If you recall, we had talked about the PQ chart
+###96 and in that we are identify the range in which product layouts and process layouts are used.
+###103 Let us briefly recall the features of these different kinds of production systems and
+###108 see which kind of layout is relevant under what circumstances.
+###114 For instance when you talk about kinds of production systems, we can talk about a flow
+###121 shop. A flow shop is essentially a production system in which the same sets of operations
+###129 are performed in sequence repetitively. So what we have is essentially when the operations
+###140 are going to be repeated so that the pattern of flow of the raw materials through the plant
+###147 is constant more or less. That particular configuration is called a flow shop and in
+###153 fact such systems even in assembly line could be used as a flow shop in that sense. On the
+###163 other extreme we can talk about a job shop. Job shop is something with facilities, capable
+###170 of producing many different jobs in small batches. So the difference between a job shop
+###176 and a flow shop is essentially in terms of the variety of products that we are handling.
+###182 In a job shop you can handle a variety of products and because each product might require
+###188 different kinds of processing depending upon its requirements. You have actually general
+###195 purpose machines laid out in the job shop and each product can go to the respective
+###202 machine, get the operations done and then you to the next particular machine for the
+###208 new operations. So what really happens in the job shop is that the flow pattern is quite
+###215 complicated and material handling costs are pretty high. Basically when you are designing
+###221 layouts for such job shops you are basically talking about the design of process layouts.
+###229 What we are talking about is designing a process layout which can accommodate a variety of
+###235 products that you make. That is what we saw when we were dealing with both the systematic
+###240 layout planning procedure of Muether and also the computerized layout planning packages
+###246 which are there for handling such types of systems.
+###250 Of course one can have a production system which is totally distinct and which is a project
+###257 that should be a major one time job requiring sequencing and coordination among interrelated
+###264 tasks. Now in a project therefore things are done once and for all and there is no need
+###274 for repeating whatever you are doing. Generally a project is a one time activity and therefore
+###279 whatever layout emerges is actually a layout dictated by the particular circumstances.
+###286 Therefore there are no formal methods of designing a layout for a project it is actually dictated
+###292 by the various activities which have to be performed in the project, the kind of equipment
+###298 that is to be laid and the kind of terrain in which the project is to be done. So we
+###304 are not really talking about layouts when you are talking about a project for these
+###308 reasons. Now it is important to note that all these different kinds of production systems
+###320 that we have talked about essentially require resources. Let us recall these resources could
+###330 be man power machines, materials, money, energy, information etc.
+###337 They have to be provided to the production system and the production system will generate
+###344 to you the desirable goods and services and also some undesirable goods and services in
+###350 the form of pollutions noise scrap etc. The purpose of a layout is actually to facilitate
+###359 this operation which goes on within the black box. So we should look at a layout as something
+###367 which facilitates the production process and at the same time tries to improve the productivity
+###374 of the production system by enlarged. So it has to be viewed in that integrated concepts
+###381 and not a problem nearly in isolation. This particular diagram which shows a plot of the
+###400 product variety versus the quantity in fact brings out very beautifully the natural domains
+###409 of the flow shop, the job shop and the projects. For instance if your quantities are small
+###418 but the variety is large then this particular domain is the domain of the project and the
+###426 job shops primarily on the other hand when you increase the quantity and also relatively
+###435 reduce the variety in fact, what happens here is that we are talking here about predictable
+###442 variety ion a job shop.
+###445 The medium level variety and medium level quantity is actually the domain of the job
+###452 shop and when you are talking about the job shop, you are primarily talking about the
+###464 design of process layouts. Whatever we studied in layout planning was actually applicable
+###470 to the job shops that this particular ends up the spectrum here. On the other hand if
+###477 you have a situation where the quantities are large and the variety of the product is
+###482 relatively low, we come to a domain that is naturally suited for a flow shop or in assembly
+###490 line or in mass production in that sense where we are basically performing the same set of
+###498 operations repetitively without much change. So in such a case you tend to use a layout
+###508 which is generally called the product layout or we will see how assemble lines are designed
+###514 for this. So I think this point needs to be kept in mind and depending upon the natural
+###518 requirements of variety and quantity you choose the type of layout and it could be a process
+###526 layout or it could be a product layout as things are there. We are all familiar with
+###537 the concept of mass manufacture, these things and mass production. However there are a couple
+###544 of ideas in mass production or mass manufacture which are worthy of note. So we will talk
+###552 about some of the key ideas which led to mass manufacture as a viable entity. You probably
+###563 know that the first assembly line was set up be Henry ford for making cars in the United
+###570 States.
+###572 But this could not have been possible unless you have number one a logical breakdown of
+###578 work which means the entire task is to be performed is broken down into smaller and
+###586 smaller tasks and some group of tasks are assigned to one particular individual or a
+###594 machine. This breakdown of tasks into smaller task helps in the division of labor to a very
+###606 large extent. As a consequence of that suppose you could know what is the basic advantage
+###616 of the division of labor rather than one person doing all the jobs involved in an assembly,
+###625 if there are ten people doing fractions of those jobs, what is the specific advantage
+###631 that you get by engaging a large number of people? That is one thing you get. Specialization
+###639 of labor that means individual people will now be focusing on individual tasks and as
+###645 a consequence they could become more and more skilled and learning times will tend to draw
+###652 depending on the operation time. The real advantage of the concept of division of labor
+###659 depends on what the assembly line is based. What is that specific concept?
+###667 The major advantage of the division of labor is the fact that it is much more economical
+###676 to produce parts when different people do the jobs. Why is this so? It is because different
+###683 tasks involve different degrees of skill. So what could happen is that there could be
+###688 many tasks that can be performed by an unskilled operator. Other tasks requires skilled operators
+###695 and you can buy along skilled operator at a much cheaper rate as compared to a skilled
+###701 operator for whom you will have to pay that much. However if you have one skilled operator
+###705 doing the whole job then even for the unskilled job which is done you are actually paying
+###711 in at a higher rate. That is what it is. So you are really underutilizing these capabilities.
+###721 If you are employing only one person for doing all the jobs, this particular fact is in fact
+###727 responsible for much of the economic advantage that you get through the division of layout.
+###733 Apart from this of course there are other factors like development of a skill and these
+###740 kinds of things. But I think this must not pay last site off. The second underlying idea
+###750 in mass manufacture is that it is possible to divide the work into workstations. What
+###758 is the work station? Work station will be a set of tasks; you have now broken down the
+###764 original work into smaller tasks. Some of the tasks are grouped together and assigned
+###771 to one particular work station. So at one particular work station maybe the operator
+###777 will take part and will be inspected. It will be a fixed up component on it and then clean
+###785 it and compressed and send it to the next operation. So here we performed a number of
+###791 different tasks. So this grouping of what task set to be performed by the operator defines
+###796 the content of workstation. Basically Adam Smith was responsible for the basic idea of
+###806 the division of labor. He wrote a book called the wealth of nations in 1776 which was basically
+###814 concerned with the advantages of the division of labor. Henry Ford was credited with the
+###820 first person who actually put this ideas together and develop the first circular and of course
+###828 assembly lines could not have been possible but for this very important contribution by
+###833 E Whitney. E Whitney is the person who actually talked about the concept of tolerances and
+###848 fits in meeting parts.
+###853 So he in fact showed that if you maintain the tolerances with the certain range you
+###860 could have parts which are interchangeable and replaceable. This is something very fundamental
+###866 to the assembly language. For instance if you look at the assembly of let us say Maruti
+###873 cars, the person has to fit the four tyres on to the on the wheels of this particular
+###883 car. He can pick up one particular wheel, put it on, put the second wheel, put it on
+###890 third wheel, and put it on. We can take any one of the wheels from the bilor wheels which
+###894 are lying within. Why is this possible? Because of the processes standardization that has
+###898 taken place which means essentially the dimensions confirmed to a certain range. Now in fact
+###906 in all assembly lines this happens. The automobiles are being assembled. We will pick up any carburetor
+###913 and fit up the carburetor of the car and followed by fitting up the next carburetor and so on.
+###919 So it does not really make a difference which carburetor was fitted on to the whole thing,
+###924 whereas this kind of thing could not be possible if standardization was not there.
+###931 You know jocularly we can say you are all seen in the Mahabharata and you know during
+###937 the war the chariot of particular prince was broken. The edges couldn’t replace the wheel
+###947 by any standard wheel. It has to go to a specific carpenter. We have to make wheels specifically
+###954 designed for that and then put it on. This is because that, it was not a standardized
+###965 kind of operation, each thing was there. So unless standardization is done you will not
+###970 be able to go for this assembly. So these are three fundamental concepts which are at
+###976 the back of mass manufacture. What is an assembly line? Assembly line is actually a very sequential
+###986 progression of the input material that comes with one particular point and one edge. Then
+###993 it goes to the first workstation. This person it could be a person, it could be a machine,
+###1000 anything. This workstation performs certain operation on it. Sense it to the next operator
+###1006 who performs those operations which are required and so on. So at the end of the whole thing,
+###1011 the final assembled product comes out of the line. What are the specific features you see
+###1018 in the assembly line? I think one of the immediate things which come to mind is that this production
+###1025 is going to be much faster.
+###1028 As compared to a process layout, why not, because these machines are more official.
+###1034 The same machines could as well be used in the process layout. So the total processing
+###1039 time for producing a part could be the same. The only difference comes because in a process
+###1046 layout it has to go from one department to another department. So there are waiting times
+###1054 then there is cost of transfer and then it is waiting at the new workstation and then
+###1060 so on. Once after the pieces finish, it has to gain
+###1063 rate of the department. So all these loading, waiting, traveling is involved in the process
+###1071 layout. But here the part is some operation is performed in this part, immediately it
+###1078 goes to the next machine which is waiting for the path with open arms. It welcomes to
+###1083 the part and starts performing the operation. So the element of material handling time involved
+###1090 has considerably reduced this system. That is the reason why these systems are much more
+###1096 efficient in terms of production time. This is what it is. Here as some of the advantages
+###1105 of flow line production system which we are talking about today. The first advantage is
+###1111 the smooth flow of material from one work station to the next.
+###1115 I just like to point out that this flow need not only be linear.
+###1124 You could have material flowing like this and then coming back like this and then going
+###1128 in this direction and then coming here. So it is like a serpentine flow
+###1133 especially when there are constraints on space you will find that this kind of flow takes
+###1138 place. If you see for instance any television assembly unit probably go to LG or some other
+###1146 place, you will find that the operators are set like this and then set like this and then
+###1151 set like this. So they accommodate many more people and this is also an assembly line.
+###1156 Moreover the flow could be a straight line. It could be U shape flow, it could be this
+###1162 kind of a flow or it could be even be circular flow. The idea is that depending upon the
+###1167 space but the crucial thing is that smooth flow of material from one workstation to the
+###1172 next takes place. So this is one of the features. Since work is fed from one station to the
+###1182 next small in process inventories result. This is another major advantage because directly
+###1190 the piece is going from one workstation to the other. So there is a much need for having
+###1196 in process inventories between the two stations.
+###1199 Though of course there could be some times some inventories between the stations in the
+###1204 form of buffer stops for some reasons. The total production time per unit is quite short
+###1211 for reason that we just mentioned. There is reduced material handling, little skill required
+###1219 by the operators. Hence training is simple short and inexpensive. Why because the operator
+###1229 is doing very simple kind of things. This job might be to pick up the piece from here,
+###1237 operate a foot pedal where it is held and then take the compressed here. Then probably
+###1244 release it and send it the next operation. So he has to do a couple of things which can
+###1249 probably be landed in half a day. So training is quite simple and inexpensive unlike the
+###1257 training for a process layout. In a process layout you might have a lathe operator. Lathe
+###1264 operator must have proper training. You should be able to read the vernier calipers. You
+###1268 should know how to operate a lathe. You should be at least an ITI trained person and so on.
+###1275 Greater problems are there. In the product layout production planning and control systems
+###1282 are simple. Less space is occupied by work in transit for temporary storage, obviously
+###1292 because we have less. So transit storage so that kind of space is not really used to appear.
+###1299 Whereas if you happen to work flow process layout, work through for instance what you
+###1305 find is typically pasting are storm all over the place. So you probably might not have
+###1311 space to work through the whole thing. You have to mind your step as you step from one
+###1316 costing to the other and you know because of the storage, there is something like this.
+###1321 It could not happen at least in a product layout. It could happen only at the end. The
+###1326 process layout of course, you will have a where house. All the cars are stopped and
+###1331 therefore that is a different thing.
+###1336 Some of the disadvantages of flow line production are that a breakdown of one machine may lead
+###1342 to a complete stoppage of the following machines. Hence maintenance is a challenging job here.
+###1349 This is a very significant thing because if you happen to be in charge of an assembly
+###1357 line, you got to make sure that the line is running all the time which means that is,
+###1363 if there is a request, if there is a breakdown then maintenance staff has to be on the job
+###1368 constantly doing this job. This is relatively in flexible with regard to changes in product
+###1374 design. We cannot keep on changing the product design here. The pace of the line is determined
+###1384 by the bottle neck machine line. Balancing is thus a major problem in design. Obviously
+###1392 different operations workstations take different amounts of time to process the part. The overall
+###1402 phase of the line will be determined by the source machine. Therefore you would like to
+###1407 have as far as possible fairly constant times for all the sections, all the workstations.
+###1418 This may not be possible for various reasons but at least that is the intention.
+###1425 Supervision is general rather than specialized as the supervision of a line is looking after
+###1431 diverse machines on a line. Compare this with supervisor for a process layout. If you have
+###1440 a supervisor, let us say in the lathe section that person could probably have spent ten
+###1445 years in the lathe section and could be familiar with all the machines. We can probably open
+###1450 out each machine and assemble it, that kind of thing because all are lathes and he has
+###1454 considerable experience. But this could not happen because you have one lathe, one milling
+###1460 machine, one some special kind of machine and so on. So all machines are distinct in
+###1464 the line and you don’t expect any person to be specialized of all of them. Generally
+###1470 high investments are required owing to the specialized nature of the machines and their
+###1475 possible duplication in the line. So this is also possible here. Now having understood
+###1487 the features of an assembly line, let us see for instance we want to go for mass production.
+###1496 Indecently you must understand that this decision is primarily economic decision. So just for
+###1504 the sake of argument you might say for instance, suppose we have three options, we can either
+###1510 purchase the path that we are interested in making for ten rupees a piece and just keep
+###1515 buying it that is it or we can invest 10,000 rupees and set up some general purpose machines
+###1524 are individual stations as the case maybe. Then we will be able to make a path on our
+###1529 own for 5 rupees a piece and the total cost will then be the fixed cost and the variable
+###1535 cost could be of this nature. You might say that I can spend and make a heavier investment
+###1540 of 20,000 rupees or whatever it is it is.
+###1544 Then maybe we can produce the part for 2 rupees 50 paisa per piece and it will be like this.
+###1552 Now through a simple break even and analysis, for instance you can find out these two quantities
+###1559 quantity Q1 and quantity Q2 here. This is very simple for instance in this particular
+###1564 case what could be the break even quantity here for this particular situation?
+###1571 I mean what we are saying is what could be the break even quantity here this is like
+###1578 trying to say 10X is = 2000. So what we can therefore say is that we can directly determine
+###1592 this quantity. Let us call this quantity as Q1 and which is that is say 2000 here. Then
+###1600 you find out the tradeoff between the other two options that is between the option of
+###1604 buying at individual stations and the options of setting of a full assembly line. So what
+###1610 could be this value 4000 mean?
+###1614 This Q2 is 4000 of this simple analysis tells you something very interesting or it says
+###1624 is that the least cost option is the one which is shown here. Therefore if you have demand
+###1633 that happens in the range of up to 2000 rupees, it is better to be just by the part from outside,
+###1639 that is the cheapest option here. If you happen to be in the rage of 2000, your demand happens
+###1645 to be in the range of 2000 – 4000. The best thing could be to goal for this intermediate
+###1650 option because it will be cheaper in this case and it will be worth wise to set up an
+###1655 assembly line only if your quantity of production demand happens to exceed 4000 rupees that
+###1663 is all. So you can get quantitative answers to the questions of finding out what could
+###1671 be the best thing to do under various circumstances. So in this particular situation we could go
+###1678 in for assembly line only if it is 4000. What might happen in real life is suppose your
+###1684 current demand is 3500 somewhere here whatever it is, and then obviously you can think of
+###1692 the feature. You are expecting a growth in the next year; it might be worth while to
+###1699 set up an assembly line considering the fact that you are going to cross this barrier of
+###1703 4000 in the next year and so on. So these kinds of decisions actually have to be taken
+###1711 before you make this decision of trying to find out whether you should go for mass production
+###1718 and when you should go for mass production. So it is essential. Let us now talk about
+###1726 the design of the assembly line.
+###1731 What is the objective in the design of an assembly line? It is basically to minimize
+###1735 the total idle time or the number of workstations for a given assembly lines speed. The basic
+###1744 information that we have at disposing such a situation is that we are dividing the work
+###1750 into parts and this division is known as the precedence diagram. So the precedence diagram
+###1756 is basically projection of what other parts have to be, the components of the parts that
+###1765 have to be done in overall products and in what particular sequence. Once we have done
+###1775 this development of tasks, the basic design of the assembly line is actually done by grouping
+###1783 the tasks into work stations. Before we do this exercise we have to know what the feasible
+###1791 range of cycle times is.
+###1792 We will see the feasible range of cycle times through an example. It can be determined very
+###1798 easily as something which lies between the maximum time for an operation and some of
+###1807 the times for all the operations. Then there are many algorithms available for the line
+###1813 balancing process. We have a procedure due to Helgeson and Birnie which is quite commonly
+###1819 known as the rank positional weight method. We also have a procedure due to Kilbridge
+###1825 and Wester which is based on the number of predecessors that means priorities are decided
+###1832 based on the number of predecessors. There is a procedure due to Arcus called COMSOAL
+###1839 which is a computerized method for sequencing operations on assembly lines. The basic philosophy
+###1846 in this procedure is the generation of alternatives by simulation and once you generate a large
+###1852 number of alternatives, you evaluate them and take the one which have you think is best.
+###1857 Once we have generated a large number of options, the next stage is choosing the best design.
+###1863 Choice of the best design obviously depends upon things like balance delay and ideal time
+###1871 for the operation should be minimum. So this is a broad set of picture of assembly line
+###1882 design procedure. Let us now take an example. What we have here is a precedence diagram
+###1891 and the precedence diagram shows that 1, 2, 3 and so on up to 12 are the individual operations
+###1898 or tasks
+###1899 We are assuming these tasks cannot be further divided. This could be like drilling a hole.
+###1905 So obviously drilling a hole cannot be divided into drilling one quarter of the hole and
+###1911 then draw in the next quarter of the hole. So this is that one particular operation which
+###1916 is indivisible. So we have divided the entire tasks in to the twelve operations and this
+###1923 network diagram shows the precedence requirements that are operation one has to be performed
+###1929 first. Then two and four can be performed, similarly six can be performed only when three
+###1936 and five are over in that sense. The figures here refer to the duration of each task. So
+###1943 the duration of the tasks could be determined by a time study or whatever other procedures
+###1950 you have. You know the time required to do this individual task. From this we would like
+###1957 to possibly design an assembly line. Let us see how we can design an assembly line manually
+###1963 for this operation and then we will compare it by using the rank positional weight technique.
+###1971 Now clearly in this particular case we are going to group these operations. So one thing
+###1976 is clear, the maximum time that is required for any operation is seven and the minimum
+###1983 what is the total time required for all the operations could be some of the times of all
+###1988 the operations which is fifty. This clearly means that any assembly line for this precedence
+###1994 diagram will have a cycle time which will range between seven and fifty. This defines
+###2003 the limit on the cycle time for any design. In this particular example, the number of
+###2014 work elements is 12, the cycle time will live between T max and summation Ti is = 1 to N
+###2022 so seven is the bottle neck operation.
+###2024 The operation which takes the longest time in the cycle time will therefore live between
+###2028 fifty. Now you talk about the desired cycle time. A desired cycle time must be somewhere
+###2042 between these two operations between these two limits. So let us say about desired cycle
+###2048 time is ten. How does the desired cycle time come about? It is based on the market demand.
+###2055 It depends upon how many you want to produce per day so cycle time is determined accordingly.
+###2061 This is something the marketing people would be actually telling you if there is a demand
+###2066 for so many cars per day therefore your cycle time should be search. So we say that the
+###2071 desired cycle time is ten and we have this, so this cycle time should be within this range.
+###2078 Obviously if the cycle time happens to be more than fifty, what is going to be the implication?
+###2087 The implication is that you don’t require an assembly line. Your cycle time happens
+###2096 to be more than fifty itreally means that you require a piece that is 60 minutes. What
+###2105 you can do is you can gain one percent, he will do all the tasks in 50 minutes and still
+###2111 have ten minutes free with him. You do not really heed to set up an assembly line if
+###2116 you are in this particular range. You can use that person for ten minutes and you can
+###2122 do something else. You don’t need here and on the other hand if your cycle time is less
+###2130 than seven what are you going to do? Suppose my demand is search there I need a cycle time
+###2136 of five or three. On this side you need multiple lines on this side, you have one line and
+###2146 beyond this you don’t need any assembly line. So this gives your clear idea as to
+###2151 when you need and how many lines. So let us take for this example a situation
+###2158 that the desired cycle time is ten. This is now feasible and it should be between seven
+###2163 and fifty. Let us now try to find out or design the line for us.
+###2171 What we are basically trying to do is our objective is to group the work elements into
+###2181 stations so that no stations time exceeds ten units. That is what we trying to say because
+###2188 if it exceeds ten units, our cycle time will be more than ten and we are designing the
+###2193 line for a cycle time of ten units. How do we attain this? We could do it by inspection
+###2202 and no algorithm. Just look at the precedence diagram and this is the feasible solution
+###2212 what we can say is I can club these two operations one and two and this takes five minutes, five
+###2221 seconds or minutes whatever with the unit of time five + three, so the workstation one
+###2227 will take eight units of time.
+###2230 I should not exceed ten. This is now three and six, so this takes a time of nine. This
+###2238 one takes four + five which is nine. This takes two + four which is six, this takes
+###2246 six + four which is ten and this takes seven + one which is eight. What we are able to
+###2256 do is by simply grouping parts, now what is the objective in grouping? In grouping, some
+###2265 of the time must not exceed ten. So I have six workstations. What is the workstations
+###2273 I have exactly defined? What is to be done at this workstation? I t means the persons
+###2278 going to sit at workstation one will first do a operation one and take five minutes and
+###2284 then do operation four which will take three minutes thereby taking a total of eight minutes
+###2289 here and so on for the next operator in the next operand. So I have a design of an assembly
+###2296 line which as six operators and we exactly know what each operator has to do. This is
+###2303 basically the idea of an assembly line which we just date by simple common sense logic
+###2313 which we can do this one. However to evaluate how good this design is you could need some
+###2318 performance measures. You can have for instance if this is the bottle neck operation you can
+###2343 have two machines here in parallel and each machine will have a in mean effective time
+###2349 of only 3.5,in that point of view and then your bottle neck will be maybe six this will
+###2357 be six which will be the bottle six as you can work that way also. Are you can look for
+###2366 a superior machine which instead of taking seven minutes we will take etcetera and whatever
+###2372 is your requirement. So for this particular example that we just worked out we can calculate
+###2380 something called the line efficiency. What is the efficiency of this line and this is
+###2385 nothing but the summation of all the station times
+###2390 Summation of the station times will be nothing but the total time for all the jobs so you
+###2395 have fifty divided by K. K is the number of workstations the number of workstations that
+###2401 we have got a six into the cycle time of the line is ten. Notice that the cycle time need
+###2407 not be always ten because when you are doing this grouping you are constrained by saying
+###2413 that it should be less than ten. So just we have got lesser than here. Suppose this value
+###2418 and then only eight then our cycle time could have been nine although we started to design
+###2425 a line for a cycle time of ten. So we have here ten and then of course the line efficiency
+###2434 works out to 83.3 percent. One minus the line efficiency is called balance delay. It is
+###2441 a nature of the inefficiency of the operation really. So it is a nature of the idleness
+###2446 of the different stations. When we talk about idleness, what you see out of a total of ten
+###2454 minutes, this value is idle for two minutes. This is idle for one minute, one minute, four
+###2459 minutes. This is not idle at all and this is idle for two minutes. So we would like
+###2466 this idle time to be as small as possible and ideal situation could be, the line is
+###2471 perfectly balanced that everyone is doing the same amount of tasks. That is generally
+###2476 not possible. Why? Because the times are integral number one and then you have a constraint
+###2482 and precedence. We cannot group everything into everything else.
+###2486 You are not way for instance raise that you can put something here and make it exactly
+###2491 two hundred and fifty grams. It is not possible to do that because you are dealing with these
+###2496 individual entities which have to be grouped together. So the balance delay is 16.7 percent
+###2504 and the smoothness index for this is a is a term for an assembly line which is nothing
+###2510 but the this is the idle time ST max, maximum station time that mean that is the cycle time
+###2517 minus Sti, which is the station time of the ith operation and whole square. So it will
+###2523 be for each operation. So what we have to look at is this example, idle time here is
+###2529 two. So two square is four and here it is nine, so this idle is 14 + 1 + 1 and this
+###2538 is sixteen because the idle time here is four. Four four sixteen no idle time here and then
+###2545 four. So root of twenty six which is 5.09 and closer to zero the better if a line is
+###2552 perfectly balanced this smoothness index will be zero. So we try to minimize these smoothness
+###2559 index so we have got measures of the efficiency of this design, you got a line which has an
+###2565 efficiency of 83.3 percent. Balance delay of 60.7 percent and a smoothness index of
+###2572 5.09, this is what we have. Now let us see how we can use one of the standard procedures
+###2583 available. We will discuss the so called ranked positional weight method for developing the
+###2591 line.
+###2591 We will compare the design with the design that we had obtained by induction as it is
+###2599 possible. So the positional weight of a work element is its own processing time plus the
+###2605 processing time of all the following work elements. We define a positional weight for
+###2613 each element in the precedence diagram by same, that this is the time of that operation
+###2619 plus times of all operations which follow it. The basic idea could be that the total
+###2626 positional weight will give you an idea, how much time it will take, at least to go to
+###2631 the end from that operation that happens to be the idea. This is used subsequently in
+###2639 defining your priority for assigning jobs to workstations that is the only thing. At
+###2647 each workstation a list of an eligible job is prepared for the placement. In the rank
+###2654 positional weight technique, the work element with the highest positional weight is selected
+###2660 and that is why it is called ranked positional weight is selected and is assigned to the
+###2664 current workstation. So that is the basic logic of the RPW technique.
+###2671 Let us try to apply this technique to the example that we are considering earlier. What
+###2682 you notice in this precedence diagram is the same precedence diagram that we have. The
+###2688 times are shown on top of each operation but the figures are available in the squares at
+###2697 the bottom or the positional weights. Let us look at them. You start calculating the
+###2701 positional weight from the back. So what do you see is for operation number twelve the
+###2708 positional weight is seven because this will take only seven units of time?
+###2714 You come to eleven then from eleven, this is the operation and this is the following
+###2720 operation for this. So seven plus four eleven will be the positional weights for this elements.
+###2727 Similarly thirteen is the positional weight for this element which is six plus seven;
+###2732 similarly for nine the positional weight will be what follows it which is seven plus one
+###2737 which is eight. When you come to job number six for instance what happens is it is not
+###2744 necessarily fifteen plus eight plus fifteen that will be the positional weight for this,
+###2749 that the point that you have to get. It is all that these jobs are successors of this
+###2756 job. So the time required two plus six plus seven plus one plus four plus four, the total
+###2764 time required for all these jobs is twenty four if you add the five also
+###2768 and therefore this becomes the positional weight for this particular job. For job number
+###2774 three, the positional weight will be simply whatever follows this plus so twenty four
+###2780 is the positional weight here twenty four plus four which is twenty eight. Similarly
+###2784 here is going to be twenty four plus six which is thirty. Thirty plus three thirty three
+###2789 thirty one twenty eight plus three is thirty one. When you come here obviously it is going
+###2797 to be some of the all the jobs which come to plus five. So the total positional weight
+###2801 is fifty here. So the numbers that we have computed here can be computed in one run starting
+###2810 from the back and coming to the front and getting these particular numbers. Now these
+###2815 numbers will define and will actually tell us how to determine then try how to go about
+###2824 designing the assembly line.
+###2828 See designing an assembly line is now based on these numbers and this is how we proceed.
+###2832 For instance you start with a first basket which is the first workstation. You open the
+###2838 first workstation and at the first workstation this is the only job which is eligible because
+###2843 it has no precedence relationships. So one will be put there and the moment you put one,
+###2849 we have consumed five units of time and two and four are again candidates for placement.
+###2856 But out of two and four we will take four because it is a higher positional weight.
+###2862 So we will put four here and once we put four here, one and four will consume a total time
+###2867 of 8 and we can go up to a maximum time of ten. There is no other job available at this
+###2874 junction which can be accommodated within this. So we close this particular workstation
+###2879 with work time of 8 units and proceed to the next station.
+###2887 When you proceed to the next station, this has been placed. There are two jobs completing
+###2892 for placement in this particular work station. This 1, 2 and 5 and out of these, this one
+###2899 has a higher positional weight so we take two and place it first. When you place two,
+###2905 three can be placed too and five can be placed but out of the two this will get a priority.
+###2912 So it can be accommodated because the total time is going to be only nine, so you can
+###2917 put this. You keep proceeding in this particular fashion and you will keep on filling these
+###2923 buckets. The movement you cannot enter anything more into this bucket you open the next bucket.
+###2929 So we are now at the first workstation, the second one, the third one, the fourth one,
+###2933 and fifth one and sixth one. So in this design two we have been able to determine the six
+###2939 workstations and also the operations which are to be done at these individual work stations
+###2946 and these are the cycle times. Since this has the highest cycle time which is ten that
+###2951 means this particular line will now operate for a cycle time of ten, as we have decided
+###2956 earlier.
+###2958 So what we can do is we can look up and can try to evaluate this particular design. We
+###2967 can see for instance that the evaluation of the design by the RPW method. Again the balanced
+###2974 delay in the line efficiency of the same is because the balance delay and the line efficiency
+###2980 are determined by the number of workstations. In this design also you have six workstations
+###2986 in the previous design and you get six workstations. So practically what is the minimum number
+###2992 of workstations? How will you calculate this? You have fifty which is your total work content
+###3000 and your cycle time is ten, fifty by ten which five is.
+###3006 Ideally you can work with the theoretical minimum number of workstations are five but
+###3013 in the two procedures that you have just adopted, we could not we could have these individual
+###3021 operations into five workstations. So the balance delay is 16.7 percent. The line efficiency
+###3029 is 83.3 percent and this particular case. However if you look at the smoothness index,
+###3036 there is an improvement in the smoothness. The smoothness index is found for this design.
+###3043 Look at the ideal times here, 2 2 square which is 4 1 square which is 1 1 square which is
+###3050 1 3 square which is 9 0 and 3 and 3 squares which is 9. The square root of this is 4.9
+###3061 is an improvement on the earlier smoothness index that we have. It means this is slightly
+###3066 better balanced line as compare to the previous one. So we can therefore look at the precedence
+###3076 diagram and from the precedence diagram depending upon the RPWs, depending upon the positional
+###3083 weights, we can determine how to fill up these individual workstations and come up with design.
+###3093 Subsequently we can evaluate the design in terms of the three major parameters, balance,
+###3098 delay, line efficiency and the smoothness index for these particular situations. The
+###3107 question now is what are the possible reasons for high balance delay? Balance delay measures
+###3119 the inefficiency line; inefficiency means the degree of idle time which is there for
+###3125 the various operators.
+###3127 Some of the reasons for this are: 1. The wide range of work element times. What
+###3137 can happen is for instance in your example the work element times will not be constant
+###3145 for all the operations. If all the work element time references in one each or even smaller
+###3151 than this one, then you could combine them into getting any operation time. But this
+###3159 does not happen. Some work element time maybe only one unit second, work element time might
+###3164 be 12 units and you have to take it as it is because the operations are not further
+###3169 divisible. 2. Another possibility could be a large amount
+###3174 of inflexible line mechanization. What might happen in the practical design situation is
+###3182 that you already have a line and you already have a great degree of mechanization. So when
+###3187 you have placed some machines at certain stations which already perform a certain number of
+###3193 operations, you are actually constrained by putting in those operations and that particular
+###3198 point although might not result in the best balance delay. This could be another reason.
+###3204 3. Then indiscriminate choice of cycle times could also lead to high balance device. What
+###3212 it means is if you know that in our example we consider the feasible range of cycle times
+###3218 was from 7 units to 50 units, a wide range is in it. So you could attempt to do a line
+###3228 of cycle time of let us say seven or a cycle time of ten or a cycle time of fifteen or
+###3237 cycle time of whatever it is. If you do that then for different cycle times, you will probably
+###3242 not get the right time. You might get a high balance delay. These are at least some of
+###3249 the reasons why you have high balance delay. Let us now look at some of the problems and
+###3258 prospects of mass production. You see for instance that one of the major problems of
+###3266 mass production is that the variable work element times. We have designed the line based
+###3274 on deterministic times but if an operator is doing a manual task then it is quite likely
+###3283 that the task time is normally distributed with certain mean and certain variance. So
+###3288 sometimes you operator will take less some times the operator will take more. Then you
+###3293 will probably find that there could be starvation for these subsequent machines in that sense
+###3300 of the term.
+###3301 What is done is in order to deal with this problem sometimes buffers are provided in
+###3306 between the tasks. What can happen is even if this fellow is slow, or this machine is
+###3313 slow, this particular person can keep on operating from these buffers. So this is the variable
+###3320 effect of the variable work element time. In fact this problem of finding out the optimum
+###3324 buffer is an optimization problem. A problem which can be determined and then there could
+###3331 be a breakdown at a workstation. If there is a breakdown at workstation what will happen?
+###3337 Since the line is all connected, where there is a breakdown they will be flooding of parts
+###3343 and beyond that there will be starving of parts. All the other machines will be start.
+###3348 So that is why you have to get back into operation as early as possible and we said the maintenance
+###3352 stop has to be very quick.
+###3354 There could be multi product lines that mean the same line can produce multiple products
+###3360 this can happen. For instance in Maruti udyog the same line can produce a Maruti 800, you
+###3365 can also produce a Zen because what we do is we change some operations and something
+###3371 can be done. So designing multi product lines means that you can handle the same thing.
+###3376 We can also talk about modular production and group technology which is an alternative
+###3381 to assembly lines. This means that you can talk about grouping parts in a certain fashion.
+###3389 So that you can achieve modular production and cellular manufacturing which will try
+###3397 to capture the advantages of both product and process layouts and that is the basic
+###3403 feature of cellular manufacture and of course automation and robotics have their role to
+###3409 play. When you are talking about assembly lines, many operations can be automated. You
+###3415 can have robots performing many of the operations. Typically for instance in automobile manufacturing
+###3423 you find that robots perform this operation of spot welding of various sheets and components
+###3431 and we can also use FMS and CIM systems to perform and automate and programs and some
+###3440 of the operations that have to be done. Finally let us try to summarize what we have tried,
+###3448 what we have done in this particular class. We will try to look at the advantages and
+###3453 disadvantages of assembly lines or products layouts. We have seen the basic principles
+###3463 involved in the design of assembly lines.
+###3465 We found that the basic principles involve things like division of labor and interchangeability
+###3471 of parts. Contributions by Adam Smith and by E Whitney help us operate the assembly
+###3479 line and then we saw that the assembly the precedence diagram and market requirements
+###3484 of the design are the two major inputs you need for designing an assembly line. So you
+###3490 need the precedence diagram and the desired cycle time, the rate you would like to produce
+###3496 the part at. We could like to do the grouping of elements in a product layout. This could
+###3504 be done by various algorithms. We mention some of them and we actually looked at the
+###3509 RPW procedure in some detail. We found that they were measures and efficiency like balance
+###3515 delay line efficiency and smoothness index for a line and finally we talked about some
+###3520 of the emerging concepts which could be in the nature of multi product lines. The provision
+###3526 for a buffer automation and worker empowerment is a very important concept, originally given
+###3535 by the Japanese which allows the operator to run the line at his will. That means you
+###3541 can stop the line when there is a problem. All the workers get together and they repair
+###3545 the line and then they go back to the respective places in from the line. So these are some
+###3551 of the concepts which are there for productiveness. I think with this we have been talking mainly
+###3560 about the strategic aspects of design of a production system in this course. Now we will
+###3566 go over to the operational decisions which are relevant in a production system. We talk
+###3572 about the problem of forecasting aviate production planning and planning production system.
+###3590 Thank you!

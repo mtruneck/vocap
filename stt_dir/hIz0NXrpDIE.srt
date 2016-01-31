@@ -1,0 +1,83 @@
+1
+0:0:4,6 --> 0:0:6,8
+FoodTube!
+
+
+2
+0:0:6,8 --> 0:0:9,0
+Arghhhh!
+
+
+3
+0:0:9,0 --> 0:0:9,8
+Boom!
+
+
+4
+0:0:9,8 --> 0:0:12,0
+You're embracing all the things that you love.
+
+
+5
+0:0:12,0 --> 0:0:13,2
+Yay!
+
+
+6
+0:0:13,2 --> 0:0:14,2
+Rum!
+
+
+7
+0:0:14,2 --> 0:0:22,0
+Woohoo!
+
+
+8
+0:0:22,0 --> 0:0:24,23
+We were quite slick until then.
+
+
+9
+0:0:24,23 --> 0:0:27,8
+I am cooking so good!
+
+
+10
+0:0:27,8 --> 0:0:29,8
+Fire a bit of soy sauce in there dude!
+
+
+11
+0:0:29,8 --> 0:0:36,2
+That vinegar is not smacking you around the
+head. It's soft, it's mild, it's gorgeous.
+
+
+12
+0:0:36,2 --> 0:0:41,7
+Can you see two pirates around?
+Yeah!
+
+
+13
+0:0:41,7 --> 0:0:50,0
+Wooooo!
+
+
+14
+0:0:50,0 --> 0:0:58,5
+Woooo, 
+yeaaaaaah!
+
+
+15
+0:0:58,5 --> 0:1:2,5
+Hallelujah!
+
+
+16
+0:1:2,5 --> 0:3:2,5
+And that's how we roll on FoodTube!
+
+

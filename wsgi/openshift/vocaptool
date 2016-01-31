@@ -1,0 +1,19 @@
+#!/bin/python
+
+import gtk
+import os
+import re
+
+clipboard = gtk.clipboard_get()
+text = clipboard.wait_for_text()
+
+pattern = re.compile("v=(...........)")
+m = pattern.search(text) 
+groups = m.groups()
+vid=groups[0]
+
+url="http://127.0.0.1:8000/add/?vid=" + vid
+print url
+
+os.system("google-chrome "+url)
+

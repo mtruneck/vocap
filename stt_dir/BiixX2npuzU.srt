@@ -1,0 +1,777 @@
+1
+0:0:1,35 --> 0:0:4,259
+CARL AZUZ, CNN ANCHOR: It is Friday, which
+is awesome. It`s the end of the week, end
+
+
+2
+0:0:4,259 --> 0:0:8,16
+of the month and the start of a new day of
+CNN STUDENT NEWS. Hello, everyone. My name
+
+
+3
+0:0:8,16 --> 0:0:23,85
+is Carl Azuz. Let`s go in and get started.
+
+
+4
+0:0:23,85 --> 0:0:29,24
+Permanent observer -- or non-member observer
+state -- now they might not sound like much
+
+
+5
+0:0:29,24 --> 0:0:33,85
+of a difference between those two terms, but
+if you ask some Palestinian officials, the
+
+
+6
+0:0:33,85 --> 0:0:38,67
+difference is huge. Yesterday, the United
+Nations voted to upgrade the status of the
+
+
+7
+0:0:38,67 --> 0:0:43,339
+Palestinian Authority. Palestinian officials
+had been pushing for this. They think it will
+
+
+8
+0:0:43,339 --> 0:0:48,55
+give them some leverage in negotiating with
+Israel, but Israel and the United States have
+
+
+9
+0:0:48,55 --> 0:0:53,129
+been against this upgrade, they argue that
+it won`t have much of an effect on efforts
+
+
+10
+0:0:53,129 --> 0:0:55,469
+to create a Middle East peace deal.
+
+
+11
+0:0:55,469 --> 0:1:1,299
+When you hear about drones, unmanned aircraft
+you might think about them flying over Afghanistan.
+
+
+12
+0:1:1,299 --> 0:1:5,59
+These are remote controlled vehicles, and
+they are used a lot by the U.S. military in
+
+
+13
+0:1:5,59 --> 0:1:9,93
+the fight against terrorism. But drones could
+start popping up in the skies over the United
+
+
+14
+0:1:9,93 --> 0:1:15,24
+States. Lisa Sylvester looks at the capabilities
+and the concerns that might come along for
+
+
+15
+0:1:15,24 --> 0:1:15,53
+the ride.
+
+
+16
+0:1:15,53 --> 0:1:16,39
+(BEGIN VIDEOTAPE)
+
+
+17
+0:1:16,39 --> 0:1:20,28
+LISA SYLVESTER, CNN CORRESPONDENT: Right now,
+only groups with special FAA permission, like
+
+
+18
+0:1:20,28 --> 0:1:25,5
+the U.S. Customs and Border Protection can
+operate drones in the United States, but that
+
+
+19
+0:1:25,5 --> 0:1:30,52
+is going to change: Congress has asked the
+Federal Aviation Administration to find a
+
+
+20
+0:1:30,52 --> 0:1:34,82
+safe way to expand the use of drones, or unmanned
+aerial systems domestically.
+
+
+21
+0:1:34,82 --> 0:1:41,3
+BEN WIITTES, BROOKINGS INSTITUTION: The bottom
+line is that by 2015, the FAA has to have
+
+
+22
+0:1:41,3 --> 0:1:48,439
+a comprehensive plan to open the air space
+to both public and private UAS.
+
+
+23
+0:1:48,439 --> 0:1:56,85
+SYLVESTER: Think of the potential from crop
+dusting to news traffic reports to surveilling
+
+
+24
+0:1:56,85 --> 0:2:2,729
+land to monitoring forest fires.
+
+
+25
+0:2:2,729 --> 0:2:7,799
+There is a big industry pushing the federal
+government to open up the skies arguing these
+
+
+26
+0:2:7,799 --> 0:2:11,23
+unmanned air craft systems are safer and less
+expensive.
+
+
+27
+0:2:11,23 --> 0:2:17,44
+SYLVESTER: Unmanned aerial vehicles or drones
+can be as large as a fighter jet or only just
+
+
+28
+0:2:17,44 --> 0:2:22,2
+a couple of feet long, and people have actually
+been flying unmanned vehicles or even model
+
+
+29
+0:2:22,2 --> 0:2:27,92
+airplanes for years, but with certain restrictions.
+They can`t fly them above 400 feet, or in
+
+
+30
+0:2:27,92 --> 0:2:32,87
+certain areas like airports without running
+into problems with FAA.
+
+
+31
+0:2:32,87 --> 0:2:37,76
+That brings us to one of the problems the
+FAA is trying to solve: how to ensure safety
+
+
+32
+0:2:37,76 --> 0:2:40,45
+if the sky suddenly become a lot more crowded.
+
+
+33
+0:2:40,45 --> 0:2:43,15
+KEVIN HIATT, FIGHT SAFETY FOUNDATION: Some
+of the larger concerns are the construction
+
+
+34
+0:2:43,15 --> 0:2:49,75
+of the aircraft. Who`s piloting them? The
+actual bandwidth. Also, taking a look at some
+
+
+35
+0:2:49,75 --> 0:2:54,9
+of those social issues, which we`ve all started
+to look into as far as privacy.
+
+
+36
+0:2:54,9 --> 0:2:58,75
+SYLVESTER: It`s the privacy peace that Representative
+Edward Markey is most concerned about: could
+
+
+37
+0:2:58,75 --> 0:3:4,19
+prying paparazzi hound celebrities? When can
+drones be used by law enforcement to gather
+
+
+38
+0:3:4,19 --> 0:3:7,31
+evidence? And what about the information gathered
+by the drones?
+
+
+39
+0:3:7,31 --> 0:3:10,59
+REP. EDWARD MARKEY, (D ), MASSACHUSETTS: Is
+it possible that this is just going to be
+
+
+40
+0:3:10,59 --> 0:3:18,17
+a rampant, eyes in the sky gathering information
+about Americans with no rules, whatsoever.
+
+
+41
+0:3:18,17 --> 0:3:19,46
+(END VIDEOTAPE)
+
+
+42
+0:3:19,46 --> 0:3:24,79
+AZUZ: During the 2012 U.S. presidential election,
+Barack Obama and Mitt Romney only came face
+
+
+43
+0:3:24,79 --> 0:3:31,12
+to face four times: they had their three debates
+and a fundraising dinner. On election night,
+
+
+44
+0:3:31,12 --> 0:3:33,4
+President Obama suggested another get together:
+
+
+45
+0:3:33,4 --> 0:3:33,9
+(BEGIN VIDEO CLIP)
+
+
+46
+0:3:33,9 --> 0:3:36,51
+BARACK OBAMA, PRESIDENT OF THE UNITED STATES
+OF AMERICA: In the weeks ahead, I also look
+
+
+47
+0:3:36,51 --> 0:3:41,0
+forward to sitting down with Governor Romney
+to talk about where we can work together to
+
+
+48
+0:3:41,0 --> 0:3:42,93
+move this country forward.
+
+
+49
+0:3:42,93 --> 0:3:43,9
+AUDIENCE: Yes!
+
+
+50
+0:3:43,9 --> 0:3:44,38
+(applause)
+
+
+51
+0:3:44,38 --> 0:3:45,83
+(END VIDEO CLIP)
+
+
+52
+0:3:45,83 --> 0:3:49,95
+AZUZ: That meeting happened yesterday. The
+former opponents got together for lunch at
+
+
+53
+0:3:49,95 --> 0:3:54,69
+the White House. Now, we don`t know exactly
+what was sad, there were no news media allowed.
+
+
+54
+0:3:54,69 --> 0:3:59,28
+But a White House statement said President
+Obama and Governor Romney talked about America`s
+
+
+55
+0:3:59,28 --> 0:4:3,32
+role in the world. And they promised to stay
+in touch with each other.
+
+
+56
+0:4:3,32 --> 0:4:8,53
+UNIDENTIFIED MALE: See, if you can I.D. me.
+
+
+57
+0:4:8,53 --> 0:4:15,69
+I was born in Germany in 1879. In my early
+life, I worked in the Swiss patent office.
+
+
+58
+0:4:15,69 --> 0:4:23,39
+But I`m known as a famous physicist. And in
+1921 I won the Nobel Prize for physics.
+
+
+59
+0:4:23,39 --> 0:4:30,45
+I`m Albert Einstein. And you`ve probably heard
+about my theory of relativity.
+
+
+60
+0:4:30,45 --> 0:4:38,4
+AZUZ: When a Nobel prize came up with the
+theory of relativity, it`s no wonder that
+
+
+61
+0:4:38,4 --> 0:4:42,91
+a lot of people think of Einstein as a genius.
+And that`s why there is a lot interest in
+
+
+62
+0:4:42,91 --> 0:4:47,94
+the organ that did Einstein`s thinking: his
+brain. Some photographs were published recently
+
+
+63
+0:4:47,94 --> 0:4:53,4
+that show Einstein`s brain after he died.
+Scientists were eager to get a look and see
+
+
+64
+0:4:53,4 --> 0:4:58,88
+if there were any clues to the famous Germans
+genius. Doctor Sanjay Gupta has more on this.
+
+
+65
+0:4:58,88 --> 0:4:59,41
+(BEGIN VIDEO CLIP)
+
+
+66
+0:4:59,41 --> 0:5:2,68
+DR. SANJAY GUPTA, CNN CORRESPONDENT: Let me
+just say as a starting point. You know, for
+
+
+67
+0:5:2,68 --> 0:5:6,87
+the last nearly half century now, people have
+been fascinated with trying to figure out
+
+
+68
+0:5:6,87 --> 0:5:10,44
+what it was about Einstein brain that might
+be different. And let`s take a look at these
+
+
+69
+0:5:10,44 --> 0:5:15,11
+images. Here, it`s a good place to start,
+specifically looking at all those ridges and
+
+
+70
+0:5:15,11 --> 0:5:20,4
+valleys on the brain. These convolutions that
+are sort of -- they develop as the brain is
+
+
+71
+0:5:20,4 --> 0:5:21,71
+developing as someone ages.
+
+
+72
+0:5:21,71 --> 0:5:26,54
+What do we know about his brain is that he
+had more of these ridges and valleys. And
+
+
+73
+0:5:26,54 --> 0:5:30,35
+the reason that`s significant is you just
+think about that -- as the result of those
+
+
+74
+0:5:30,35 --> 0:5:35,7
+increased ridges and valleys and convolutions,
+you get more surface area. You get more neurons
+
+
+75
+0:5:35,7 --> 0:5:39,42
+and you have more capacity for different parts
+of the brain to talk to each other.
+
+
+76
+0:5:39,42 --> 0:5:42,97
+It doesn`t necessarily means someone`s going
+to be more intelligent, I think it`s best
+
+
+77
+0:5:42,97 --> 0:5:47,22
+to say that they have the capacity for higher
+intelligence because of that increased surface
+
+
+78
+0:5:47,22 --> 0:5:47,82
+area neurons.
+
+
+79
+0:5:47,82 --> 0:5:51,51
+There is also a couple of other things that
+people really honed in on, again, in terms
+
+
+80
+0:5:51,51 --> 0:5:56,29
+of differences. Take a look at this image
+over here. That`s frontal lobe area, and in
+
+
+81
+0:5:56,29 --> 0:6:1,69
+most people whose brains have been examined
+that area of the brain is fused, but if you
+
+
+82
+0:6:1,69 --> 0:6:5,8
+look at that red line there, that`s an area
+of the brain of Albert Einstein where it was
+
+
+83
+0:6:5,8 --> 0:6:9,2
+actually split. This is an executive area
+of the brain. This is where you implement
+
+
+84
+0:6:9,2 --> 0:6:14,9
+things, get things done. He had a higher executive
+sort of capability there.
+
+
+85
+0:6:14,9 --> 0:6:17,919
+Again, it doesn`t necessarily correlate directly
+with intelligence, but it does correlate with
+
+
+86
+0:6:17,919 --> 0:6:23,23
+this idea that if you have significant thoughts,
+to be able to do something with those could
+
+
+87
+0:6:23,23 --> 0:6:25,139
+be -- you could have a greater capacity for
+that.
+
+
+88
+0:6:25,139 --> 0:6:28,84
+A lot of people ask, you know, what does it
+mean for us? Could my brain be like Einstein?
+
+
+89
+0:6:28,84 --> 0:6:32,44
+There is more (inaudible) things that he was
+born with. There are certain areas of the
+
+
+90
+0:6:32,44 --> 0:6:36,26
+brain like look at this area over here that`s
+sort of upside down a horse shoe. That`s an
+
+
+91
+0:6:36,26 --> 0:6:40,9
+area of the brain that`s responsible typically
+for motor control of the hand. In this case,
+
+
+92
+0:6:40,9 --> 0:6:44,63
+the left hand. And now you`d look at that
+area and you realize it, because it`s bigger
+
+
+93
+0:6:44,63 --> 0:6:48,6
+like that, it`s typically associated with
+someone who`s very good with their hands.
+
+
+94
+0:6:48,6 --> 0:6:51,29
+In this case, Einstein was a musician, played
+the violin.
+
+
+95
+0:6:51,29 --> 0:6:54,79
+But that is not something that people are
+born with. That is something that develops.
+
+
+96
+0:6:54,79 --> 0:6:59,26
+And that gives us a little bit of an insight
+into other parts of his brain as well that
+
+
+97
+0:6:59,26 --> 0:7:3,91
+may have increased in size, may have increased
+in capacity as a result of all the work that
+
+
+98
+0:7:3,91 --> 0:7:6,75
+he was doing. It`s fascinating stuff. Back
+to you.
+
+
+99
+0:7:6,75 --> 0:7:7,77
+(END VIDEO CLIP)
+
+
+100
+0:7:7,77 --> 0:7:8,78
+(BEGIN VIDEO CLIP)
+
+
+101
+0:7:8,78 --> 0:7:13,55
+HIILLARY CLINTON, U.S. SECRETARY OF STATE:
+Make no mistake about it - - HIV may well
+
+
+102
+0:7:13,55 --> 0:7:20,93
+be with us into the future, but the disease
+that it causes, need not be.
+
+
+103
+0:7:20,93 --> 0:7:27,99
+We can reach a point where virtually no children
+are born with the virus and as these children
+
+
+104
+0:7:27,99 --> 0:7:35,949
+become teenagers and adults, they are at a
+far lower risk of becoming infected than they
+
+
+105
+0:7:35,949 --> 0:7:37,44
+are today.
+
+
+106
+0:7:37,44 --> 0:7:41,34
+(END VIDEO CLIP)
+
+
+107
+0:7:41,34 --> 0:7:46,43
+AZUZ: You heard Secretary Clinton mention
+the disease that HIV causes. She`s talking
+
+
+108
+0:7:46,43 --> 0:7:52,449
+about AIDS, which stands for acquired immunodeficiency
+syndrome. Tomorrow, December First is world
+
+
+109
+0:7:52,449 --> 0:7:56,96
+AIDS day. It`s the time to support the millions
+of people living with these disease and honor
+
+
+110
+0:7:56,96 --> 0:7:58,979
+those who have lost their lives to it.
+
+
+111
+0:7:58,979 --> 0:8:3,65
+Around 34 million people around the world
+have AIDS. New cases are recorded every year.
+
+
+112
+0:8:3,65 --> 0:8:8,33
+But the number of new cases is decreasing.
+And yesterday, Secretary Clinton announced
+
+
+113
+0:8:8,33 --> 0:8:13,669
+a plan that aims to get rid of AIDS, but focuses
+on preventing the spread of the disease and
+
+
+114
+0:8:13,669 --> 0:8:15,71
+improving treatment for people who have it.
+
+
+115
+0:8:15,71 --> 0:8:15,87
+(BEGIN VIDEO CLIP)
+
+
+116
+0:8:15,87 --> 0:8:17,46
+CLINTON: Thank you all very much.
+
+
+117
+0:8:17,46 --> 0:8:18,3
+(END VIDEO CLIP)
+
+
+118
+0:8:18,3 --> 0:8:21,83
+AZUZ: "CNN Heroes": ordinary people doing
+extraordinary things to make a difference
+
+
+119
+0:8:21,83 --> 0:8:26,85
+in their communities. We know who this year`s
+top ten are on Sunday night and all-star tribute
+
+
+120
+0:8:26,85 --> 0:8:31,83
+honors them and announces the hero of the
+year. A special program starts at 8 p.m. Eastern
+
+
+121
+0:8:31,83 --> 0:8:38,209
+on CNN. Then the CNN "Heroes " tribute as
+it 9 Eastern, 6 central. It`s this Sunday,
+
+
+122
+0:8:38,209 --> 0:8:41,999
+so check it out.
+
+
+123
+0:8:41,999 --> 0:8:47,809
+When you step off an airplane you might hope
+to be greeted by a friendly face. Not this
+
+
+124
+0:8:47,809 --> 0:8:52,769
+one. It`s what visitors to Wellington, New
+Zealand are coming face to face with for a
+
+
+125
+0:8:52,769 --> 0:8:57,79
+few months, though. Gollum can be a larger
+than life character in the "Lord of the Rings"
+
+
+126
+0:8:57,79 --> 0:9:2,99
+and the "Hobbit" movies. And at this airport,
+he`s just larger than a life. The 43 foot
+
+
+127
+0:9:2,99 --> 0:9:8,89
+sculpture -- it`s 43 feet high, and it`s part
+of a publicity campaign, but it`s only going
+
+
+128
+0:9:8,89 --> 0:9:12,24
+to be up for a while. So we don`t think this
+kind of thing is going to be habitual. Now,
+
+
+129
+0:9:12,24 --> 0:9:15,6
+I don`t think anybody is going to make the
+mistake of calling it cute, although some
+
+
+130
+0:9:15,6 --> 0:9:19,879
+might see it as precious. Calling it that,
+though, would take some Gollum. We know these
+
+
+131
+0:9:19,879 --> 0:9:23,79
+puns will get a ringing endorsement for some
+of you , but we really only have two options:
+
+
+132
+0:9:23,79 --> 0:9:28,9
+more, door -- we`re just going to baggins
+them. Those of you who follow the "Lord of
+
+
+133
+0:9:28,9 --> 0:9:31,619
+the Rings" are like OK, OK, the rest of you
+like. So we`re just going to end in there.
+
+
+134
+0:9:31,619 --> 0:11:31,619
+We`ll see you next Monday with more news and
+more puns. Bye now.
+
+

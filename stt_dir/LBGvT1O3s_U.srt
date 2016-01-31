@@ -1,0 +1,1416 @@
+1
+0:0:3,47 --> 0:0:3,53
+0:00:03.066,0:00:08.033
+
+
+2
+0:0:3,53 --> 0:0:6,1
+We want to pass on a country that’s safe
+
+
+3
+0:0:6,1 --> 0:0:8,559
+and respected and admired around the
+
+
+4
+0:0:8,559 --> 0:0:9,9
+world,
+
+
+5
+0:0:9,9 --> 0:0:9,62
+0:00:09.066,0:00:16.033
+
+
+6
+0:0:9,62 --> 0:0:13,3
+a nation that is defended by the strongest
+
+
+7
+0:0:13,3 --> 0:0:16,66
+military on earth and the best troops this
+
+
+8
+0:0:16,66 --> 0:0:17,57
+0:00:17.033,0:00:20.033
+
+
+9
+0:0:17,57 --> 0:0:21,119
+this world has ever known
+
+
+10
+0:0:21,119 --> 0:0:22,89
+0:00:24.033,0:00:29.066
+
+
+11
+0:0:22,89 --> 0:0:26,48
+But also a country that moves with
+
+
+12
+0:0:26,48 --> 0:0:28,949
+confidence beyond this time of war,
+
+
+13
+0:0:28,949 --> 0:0:29,21
+0:00:29.066,0:00:34.000
+
+
+14
+0:0:29,21 --> 0:0:32,29
+to shape a peace that is built on the promise
+
+
+15
+0:0:32,29 --> 0:0:34,23
+of freedom and dignity for every human
+
+
+16
+0:0:34,23 --> 0:0:35,57
+being.
+
+
+17
+0:0:35,57 --> 0:0:36,91
+0:00:36.066,0:00:39.066
+
+
+18
+0:0:36,91 --> 0:0:39,44
+We believe in a generous America,
+
+
+19
+0:0:39,44 --> 0:0:40,6
+0:00:39.000,0:00:42.066
+
+
+20
+0:0:40,6 --> 0:0:42,1
+in a compassionate America,
+
+
+21
+0:0:42,1 --> 0:0:43,11
+0:00:42.033,0:00:44.000
+
+
+22
+0:0:43,11 --> 0:0:44,6
+in a tolerant America,
+
+
+23
+0:0:44,6 --> 0:0:45,28
+0:00:45.033,0:00:51.033
+
+
+24
+0:0:45,28 --> 0:0:47,6
+open to the dreams of an immigrant’s
+
+
+25
+0:0:47,6 --> 0:0:49,72
+daughter who studies in our schools and
+
+
+26
+0:0:49,72 --> 0:0:51,5
+pledges to our flag.
+
+
+27
+0:0:51,5 --> 0:0:52,57
+0:00:57.000,0:01:03.033
+
+
+28
+0:0:52,57 --> 0:0:59,56
+To the young boy on the south side of
+
+
+29
+0:0:59,56 --> 0:1:2,54
+Chicago who sees a life beyond the nearest
+
+
+30
+0:1:2,54 --> 0:1:6,509
+street corner.
+
+
+31
+0:1:6,509 --> 0:1:8,51
+0:01:08.033,0:01:16.066
+
+
+32
+0:1:8,51 --> 0:1:10,11
+To the furniture worker’s child in North
+
+
+33
+0:1:10,11 --> 0:1:13,54
+Carolina who wants to become a doctor or a
+
+
+34
+0:1:13,54 --> 0:1:15,83
+scientist, an engineer or an entrepreneur
+
+
+35
+0:1:15,83 --> 0:1:16,44
+0:01:17.066,0:01:19.000
+
+
+36
+0:1:16,44 --> 0:1:19,1
+a diplomat or even a president
+
+
+37
+0:1:19,1 --> 0:1:21,94
+0:01:20.033,0:01:22.066
+
+
+38
+0:1:21,94 --> 0:1:27,47
+that’s the future we hope for.
+
+
+39
+0:1:27,47 --> 0:1:27,47
+0:01:23.000,0:01:26.000
+
+
+40
+0:1:27,47 --> 0:1:27,47
+That’s the vision we share.
+
+
+41
+0:1:27,47 --> 0:1:27,47
+0:01:26.033,0:01:35.000
+
+
+42
+0:1:27,47 --> 0:1:31,68
+That’s where we need to go — forward.
+
+
+43
+0:1:31,68 --> 0:1:39,229
+That’s where we need to go.
+
+
+44
+0:1:39,229 --> 0:1:39,229
+0:01:38.000,0:01:43.000
+
+
+45
+0:1:39,229 --> 0:1:42,7
+Now, we will disagree, sometimes fiercely,
+
+
+46
+0:1:42,7 --> 0:1:44,9
+about how to get there.
+
+
+47
+0:1:44,9 --> 0:1:45,7
+0:01:45.066,0:01:52.000
+
+
+48
+0:1:45,7 --> 0:1:47,659
+As it has for more than two centuries,
+
+
+49
+0:1:47,659 --> 0:1:50,89
+progress will come in fits and starts. It’s
+not
+
+
+50
+0:1:50,89 --> 0:1:52,49
+always a straight line.
+
+
+51
+0:1:52,49 --> 0:1:52,549
+0:01:52.000,0:01:54.066
+
+
+52
+0:1:52,549 --> 0:1:54,799
+It’s not always a smooth path.
+
+
+53
+0:1:54,799 --> 0:1:56,2
+0:01:56.033,0:02:01.033
+
+
+54
+0:1:56,2 --> 0:1:57,78
+By itself, the recognition that we have
+
+
+55
+0:1:57,78 --> 0:2:0,17
+common hopes and dreams won’t end all the
+
+
+56
+0:2:0,17 --> 0:2:0,659
+gridlock
+
+
+57
+0:2:0,659 --> 0:2:1,189
+0:02:01.033,0:02:07.033
+
+
+58
+0:2:1,189 --> 0:2:4,89
+or solve all our problems or substitute for
+the
+
+
+59
+0:2:4,89 --> 0:2:7,4
+painstaking work of building consensus
+
+
+60
+0:2:7,4 --> 0:2:8,42
+0:02:08.066,0:02:17.066
+
+
+61
+0:2:8,42 --> 0:2:10,78
+and making the difficult compromises needed
+
+
+62
+0:2:10,78 --> 0:2:14,38
+to move this country forward. But that
+
+
+63
+0:2:14,38 --> 0:2:18,59
+common bond is where we must begin.
+
+
+64
+0:2:18,59 --> 0:2:19,88
+0:02:19.000,0:02:21.033
+
+
+65
+0:2:19,88 --> 0:2:20,86
+Our economy is recovering
+
+
+66
+0:2:20,86 --> 0:2:21,63
+0:02:22.000,0:02:23.066
+
+
+67
+0:2:21,63 --> 0:2:24,93
+A decade of war is ending.
+
+
+68
+0:2:24,93 --> 0:2:26,28
+0:02:24.033,0:02:27.000
+
+
+69
+0:2:26,28 --> 0:2:34,38
+A long campaign is now over.
+
+
+70
+0:2:34,38 --> 0:2:35,73
+0:02:35.000,0:02:45.066
+
+
+71
+0:2:35,73 --> 0:2:39,99
+And whether I earned your vote or not, I
+
+
+72
+0:2:39,99 --> 0:2:43,15
+have listened to you, I have learned from
+you,
+
+
+73
+0:2:43,15 --> 0:2:45,76
+and you’ve made me a better president.
+
+
+74
+0:2:45,76 --> 0:2:46,64
+0:02:46.000,0:02:53.066
+
+
+75
+0:2:46,64 --> 0:2:51,8
+And with your stories and your struggles,
+I
+
+
+76
+0:2:51,8 --> 0:2:52,95
+return to the White House
+
+
+77
+0:2:52,95 --> 0:2:53,2
+0:02:53.066,0:02:59.033
+
+
+78
+0:2:53,2 --> 0:2:55,91
+more determined and more inspired than ever
+
+
+79
+0:2:55,91 --> 0:3:10,459
+about the work there is to do and the future
+
+
+80
+0:3:10,459 --> 0:3:10,9
+that lies ahead.
+
+
+81
+0:3:10,9 --> 0:3:11,5
+0:03:09.033,0:03:14.000
+
+
+82
+0:3:11,5 --> 0:3:13,97
+Tonight you voted for action, not politics
+as
+
+
+83
+0:3:13,97 --> 0:3:13,97
+usual.
+
+
+84
+0:3:13,97 --> 0:3:13,97
+0:03:16.033,0:03:20.033
+
+
+85
+0:3:13,97 --> 0:3:19,91
+You elected us to focus on your jobs, not
+
+
+86
+0:3:19,91 --> 0:3:20,73
+ours.
+
+
+87
+0:3:20,73 --> 0:3:21,55
+0:03:22.066,0:03:28.066
+
+
+88
+0:3:21,55 --> 0:3:24,849
+And in the coming weeks and months, I am
+
+
+89
+0:3:24,849 --> 0:3:27,5
+looking forward to reaching out and working
+
+
+90
+0:3:27,5 --> 0:3:28,81
+with leaders of both parties
+
+
+91
+0:3:28,81 --> 0:3:29,51
+0:03:28.066,0:03:32.066
+
+
+92
+0:3:29,51 --> 0:3:32,4
+to meet the challenges we can only solve
+
+
+93
+0:3:32,4 --> 0:3:32,69
+together.
+
+
+94
+0:3:32,69 --> 0:3:33,349
+0:03:33.033,0:03:36.033
+
+
+95
+0:3:33,349 --> 0:3:36,54
+Reducing our deficit. Reforming our tax code.
+
+
+96
+0:3:36,54 --> 0:3:36,91
+0:03:36.033,0:03:44.033
+
+
+97
+0:3:36,91 --> 0:3:40,3
+Fixing our immigration system. Freeing
+
+
+98
+0:3:40,3 --> 0:3:46,569
+ourselves from foreign oil. We’ve got more
+
+
+99
+0:3:46,569 --> 0:3:49,37
+work to do.
+
+
+100
+0:3:49,37 --> 0:3:50,31
+0:03:50.066,0:03:53.066
+
+
+101
+0:3:50,31 --> 0:3:54,209
+But that doesn’t mean your work is done.
+
+
+102
+0:3:54,209 --> 0:3:55,39
+0:03:55.033,0:04:00.033
+
+
+103
+0:3:55,39 --> 0:3:58,75
+The role of citizen in our democracy does
+not
+
+
+104
+0:3:58,75 --> 0:4:0,739
+end with your vote.
+
+
+105
+0:4:0,739 --> 0:4:1,81
+0:04:02.033,0:04:04.000
+
+
+106
+0:4:1,81 --> 0:4:3,9
+America’s never been about what can be
+
+
+107
+0:4:3,9 --> 0:4:4,599
+done for us.
+
+
+108
+0:4:4,599 --> 0:4:4,67
+0:04:04.000,0:04:09.000
+
+
+109
+0:4:4,67 --> 0:4:7,43
+It’s about what can be done by us together
+
+
+110
+0:4:7,43 --> 0:4:11,19
+through the hard and frustrating,
+
+
+111
+0:4:11,19 --> 0:4:11,739
+0:04:09.000,0:04:13.000
+
+
+112
+0:4:11,739 --> 0:4:15,34
+but necessary work of self-government.
+
+
+113
+0:4:15,34 --> 0:4:16,6
+0:04:14.000,0:04:18.000
+
+
+114
+0:4:16,6 --> 0:4:21,1
+That’s the principle we were founded on.
+
+
+115
+0:4:21,1 --> 0:4:21,81
+0:04:21.066,0:04:26.066
+
+
+116
+0:4:21,81 --> 0:4:23,59
+This country has more wealth than any
+
+
+117
+0:4:23,59 --> 0:4:27,9
+nation, but that’s not what makes us rich.
+
+
+118
+0:4:27,9 --> 0:4:28,9
+0:04:27.066,0:04:31.066
+
+
+119
+0:4:28,9 --> 0:4:30,8
+We have the most powerful military in history,
+
+
+120
+0:4:30,8 --> 0:4:32,3
+but that’s not what makes us strong.
+
+
+121
+0:4:32,3 --> 0:4:33,25
+0:04:33.033,0:04:41.000
+
+
+122
+0:4:33,25 --> 0:4:37,47
+Our university, our culture are all the envy
+of
+
+
+123
+0:4:37,47 --> 0:4:39,78
+the world, but that’s not what keeps the
+
+
+124
+0:4:39,78 --> 0:4:41,9
+world coming to our shores.
+
+
+125
+0:4:41,9 --> 0:4:43,12
+0:04:43.066,0:04:49.000
+
+
+126
+0:4:43,12 --> 0:4:44,91
+What makes America exceptional are the
+
+
+127
+0:4:44,91 --> 0:4:47,81
+bonds that hold together the most diverse
+
+
+128
+0:4:47,81 --> 0:4:49,1
+nation on earth.
+
+
+129
+0:4:49,1 --> 0:4:49,72
+0:04:49.000,0:04:53.000
+
+
+130
+0:4:49,72 --> 0:4:52,66
+The belief that our destiny is shared; that
+this
+
+
+131
+0:4:52,66 --> 0:4:54,16
+country only works
+
+
+132
+0:4:54,16 --> 0:4:54,75
+0:04:53.000,0:04:59.066
+
+
+133
+0:4:54,75 --> 0:4:57,18
+when we accept certain obligations to one
+
+
+134
+0:4:57,18 --> 0:4:59,5
+another and to future generations.
+
+
+135
+0:4:59,5 --> 0:4:59,65
+0:04:59.066,0:05:08.033
+
+
+136
+0:4:59,65 --> 0:5:2,33
+The freedom which so many Americans have
+
+
+137
+0:5:2,33 --> 0:5:4,99
+fought for and died for come with
+
+
+138
+0:5:4,99 --> 0:5:7,22
+responsibilities as well as rights.
+
+
+139
+0:5:7,22 --> 0:5:7,669
+0:05:08.033,0:05:13.000
+
+
+140
+0:5:7,669 --> 0:5:11,33
+And among those are love and charity and
+
+
+141
+0:5:11,33 --> 0:5:14,44
+duty and patriotism.
+
+
+142
+0:5:14,44 --> 0:5:16,63
+0:05:13.000,0:05:17.000
+
+
+143
+0:5:16,63 --> 0:5:27,58
+That’s what makes America great
+
+
+144
+0:5:27,58 --> 0:5:29,77
+0:05:29.066,0:05:34.066
+
+
+145
+0:5:29,77 --> 0:5:32,979
+I am hopeful tonight because I’ve seen the
+
+
+146
+0:5:32,979 --> 0:5:34,9
+spirit at work in America.
+
+
+147
+0:5:34,9 --> 0:5:35,84
+0:05:36.066,0:05:42.033
+
+
+148
+0:5:35,84 --> 0:5:38,74
+I’ve seen it in the family business whose
+
+
+149
+0:5:38,74 --> 0:5:41,33
+owners would rather cut their own pay than
+
+
+150
+0:5:41,33 --> 0:5:41,88
+lay off their neighbors,
+
+
+151
+0:5:41,88 --> 0:5:42,9
+0:05:43.000,0:05:47.000
+
+
+152
+0:5:42,9 --> 0:5:44,85
+and in the workers who would rather cut
+
+
+153
+0:5:44,85 --> 0:5:49,639
+back their hours than see a friend lose a
+job.
+
+
+154
+0:5:49,639 --> 0:5:49,639
+0:05:49.033,0:05:57.066
+
+
+155
+0:5:49,639 --> 0:5:52,639
+I’ve seen it in the soldiers who reenlist
+after
+
+
+156
+0:5:52,639 --> 0:5:55,99
+losing a limb and in those SEALs who
+
+
+157
+0:5:55,99 --> 0:5:58,4
+charged up the stairs into darkness
+
+
+158
+0:5:58,4 --> 0:5:58,4
+0:05:57.066,0:06:01.066
+
+
+159
+0:5:58,4 --> 0:5:59,81
+and danger because they knew there was a
+
+
+160
+0:5:59,81 --> 0:6:3,979
+buddy behind them watching their back.
+
+
+161
+0:6:3,979 --> 0:6:5,479
+0:06:09.000,0:06:12.000
+
+
+162
+0:6:5,479 --> 0:6:11,639
+I’ve seen it on the shores of New Jersey
+and
+
+
+163
+0:6:11,639 --> 0:6:12,229
+New York,
+
+
+164
+0:6:12,229 --> 0:6:12,669
+0:06:12.033,0:06:17.033
+
+
+165
+0:6:12,669 --> 0:6:15,15
+where leaders from every party and level of
+
+
+166
+0:6:15,15 --> 0:6:17,39
+government have swept aside their
+
+
+167
+0:6:17,39 --> 0:6:17,669
+differences
+
+
+168
+0:6:17,669 --> 0:6:18,9
+0:06:17.033,0:06:21.033
+
+
+169
+0:6:18,9 --> 0:6:20,32
+to help a community rebuild from the
+
+
+170
+0:6:20,32 --> 0:6:26,169
+wreckage of a terrible storm.
+
+
+171
+0:6:26,169 --> 0:6:30,78
+0:06:30.066,0:06:39.033
+
+
+172
+0:6:30,78 --> 0:6:34,86
+And I saw just the other day, in Mentor, Ohio,
+
+
+173
+0:6:34,86 --> 0:6:38,24
+where a father told the story of his 8-year-
+
+
+174
+0:6:38,24 --> 0:6:39,75
+old daughter,
+
+
+175
+0:6:39,75 --> 0:6:40,82
+0:06:40.000,0:06:48.066
+
+
+176
+0:6:40,82 --> 0:6:44,0
+whose long battle with leukemia nearly cost
+
+
+177
+0:6:44,0 --> 0:6:47,75
+their family everything had it not been for
+
+
+178
+0:6:47,75 --> 0:6:48,88
+health care reform
+
+
+179
+0:6:48,88 --> 0:6:48,88
+0:06:48.066,0:06:53.000
+
+
+180
+0:6:48,88 --> 0:6:52,82
+passing just a few months before the
+
+
+181
+0:6:52,82 --> 0:7:3,34
+insurance company was about to stop
+
+
+182
+0:7:3,34 --> 0:7:3,66
+paying for her care.
+
+
+183
+0:7:3,66 --> 0:7:3,729
+0:07:02.066,0:07:10.000
+
+
+184
+0:7:3,729 --> 0:7:4,9
+I had an opportunity to not just talk to the
+
+
+185
+0:7:4,9 --> 0:7:9,819
+father, but meet this incredible daughter
+of
+
+
+186
+0:7:9,819 --> 0:7:10,789
+his.
+
+
+187
+0:7:10,789 --> 0:7:11,77
+0:07:11.000,0:07:20.000
+
+
+188
+0:7:11,77 --> 0:7:14,229
+And when he spoke to the crowd listening to
+
+
+189
+0:7:14,229 --> 0:7:19,9
+that father’s story, every parent in that
+room
+
+
+190
+0:7:19,9 --> 0:7:20,85
+had tears in their eyes,
+
+
+191
+0:7:20,85 --> 0:7:21,759
+0:07:21.033,0:07:32.000
+
+
+192
+0:7:21,759 --> 0:7:25,77
+because we knew that little girl could be
+our
+
+
+193
+0:7:25,77 --> 0:7:29,91
+own. And I know that every American wants
+
+
+194
+0:7:29,91 --> 0:7:32,61
+her future to be just as bright.
+
+
+195
+0:7:32,61 --> 0:7:33,319
+0:07:34.033,0:07:36.000
+
+
+196
+0:7:33,319 --> 0:7:35,59
+That’s who we are.
+
+
+197
+0:7:35,59 --> 0:7:36,43
+0:07:37.033,0:07:41.033
+
+
+198
+0:7:36,43 --> 0:7:39,449
+That’s the country I’m so proud to lead
+as
+
+
+199
+0:7:39,449 --> 0:7:42,56
+your president.
+
+
+200
+0:7:42,56 --> 0:7:45,3
+0:07:48.066,0:07:52.066
+
+
+201
+0:7:45,3 --> 0:7:52,41
+And tonight, despite all the hardship we’ve
+
+
+202
+0:7:52,41 --> 0:7:53,27
+been through,
+
+
+203
+0:7:53,27 --> 0:7:54,8
+0:07:54.033,0:08:00.066
+
+
+204
+0:7:54,8 --> 0:7:58,55
+despite all the frustrations of Washington,
+I’ve
+
+
+205
+0:7:58,55 --> 0:8:0,22
+never been more hopeful about our future
+
+
+206
+0:8:0,22 --> 0:8:0,83
+0:08:02.000,0:08:06.000
+
+
+207
+0:8:0,83 --> 0:8:5,13
+I have never been more hopeful about
+
+
+208
+0:8:5,13 --> 0:8:5,75
+America.
+
+
+209
+0:8:5,75 --> 0:8:6,36
+0:08:07.000,0:08:11.000
+
+
+210
+0:8:6,36 --> 0:8:9,77
+And I ask you to sustain that hope.
+
+
+211
+0:8:9,77 --> 0:8:10,669
+0:08:11.066,0:08:14.066
+
+
+212
+0:8:10,669 --> 0:8:13,449
+I’m not talking about blind optimism,
+
+
+213
+0:8:13,449 --> 0:8:14,5
+0:08:14.033,0:08:20.033
+
+
+214
+0:8:14,5 --> 0:8:16,55
+the kind of hope that just ignores the
+
+
+215
+0:8:16,55 --> 0:8:19,39
+enormity of the tasks ahead or the
+
+
+216
+0:8:19,39 --> 0:8:21,199
+roadblocks that stand in our path.
+
+
+217
+0:8:21,199 --> 0:8:22,8
+0:08:22.066,0:08:29.000
+
+
+218
+0:8:22,8 --> 0:8:25,3
+I’m not talking about the wishful idealism
+that
+
+
+219
+0:8:25,3 --> 0:8:28,389
+allows us to just sit on the sidelines or
+shirk
+
+
+220
+0:8:28,389 --> 0:8:29,919
+from a fight.
+
+
+221
+0:8:29,919 --> 0:8:31,21
+0:08:31.033,0:08:36.000
+
+
+222
+0:8:31,21 --> 0:8:33,509
+I have always believed that hope is that
+
+
+223
+0:8:33,509 --> 0:8:35,869
+stubborn thing inside us that insists,
+
+
+224
+0:8:35,869 --> 0:8:36,209
+0:08:36.033,0:08:38.000
+
+
+225
+0:8:36,209 --> 0:8:38,19
+despite all the evidence to the contrary,
+
+
+226
+0:8:38,19 --> 0:8:38,369
+0:08:38.000,0:08:45.066
+
+
+227
+0:8:38,369 --> 0:8:41,9
+that something better awaits us so long as
+
+
+228
+0:8:41,9 --> 0:8:43,369
+we have the courage to keep reaching, to
+
+
+229
+0:8:43,369 --> 0:8:47,3
+keep working, to keep fighting.
+
+
+230
+0:8:47,3 --> 0:8:49,569
+0:08:51.033,0:08:54.033
+
+
+231
+0:8:49,569 --> 0:8:53,879
+America, I believe we can build on the
+
+
+232
+0:8:53,879 --> 0:8:55,199
+progress we’ve made
+
+
+233
+0:8:55,199 --> 0:8:55,619
+0:08:55.000,0:09:01.033
+
+
+234
+0:8:55,619 --> 0:8:57,91
+and continue to fight for new jobs and new
+
+
+235
+0:8:57,91 --> 0:9:0,779
+opportunity and new security for the middle
+
+
+236
+0:9:0,779 --> 0:9:1,929
+class.
+
+
+237
+0:9:1,929 --> 0:9:3,89
+0:09:03.000,0:09:09.000
+
+
+238
+0:9:3,89 --> 0:9:5,239
+I believe we can keep the promise of our
+
+
+239
+0:9:5,239 --> 0:9:8,17
+founders, the idea that if you’re willing
+to
+
+
+240
+0:9:8,17 --> 0:9:9,4
+work hard,
+
+
+241
+0:9:9,4 --> 0:9:9,619
+0:09:09.000,0:09:15.000
+
+
+242
+0:9:9,619 --> 0:9:11,839
+it doesn’t matter who you are or where you
+
+
+243
+0:9:11,839 --> 0:9:14,92
+come from or what you look like or where
+
+
+244
+0:9:14,92 --> 0:9:15,449
+you love.
+
+
+245
+0:9:15,449 --> 0:9:15,709
+0:09:15.000,0:09:17.066
+
+
+246
+0:9:15,709 --> 0:9:17,319
+It doesn’t matter whether you’re black
+or
+
+
+247
+0:9:17,319 --> 0:9:18,209
+white or
+
+
+248
+0:9:18,209 --> 0:9:18,739
+0:09:17.066,0:09:27.000
+
+
+249
+0:9:18,739 --> 0:9:22,48
+Hispanic or Asian or Native American or
+
+
+250
+0:9:22,48 --> 0:9:27,279
+young or old or rich or poor, able, disabled,
+
+
+251
+0:9:27,279 --> 0:9:28,879
+gay or straight,
+
+
+252
+0:9:28,879 --> 0:9:29,42
+0:09:27.000,0:09:31.000
+
+
+253
+0:9:29,42 --> 0:9:34,22
+you can make it here in America if you’re
+
+
+254
+0:9:34,22 --> 0:9:35,829
+willing to try.
+
+
+255
+0:9:35,829 --> 0:9:36,36
+0:09:37.033,0:09:45.066
+
+
+256
+0:9:36,36 --> 0:9:39,929
+I believe we can seize this future together
+
+
+257
+0:9:39,929 --> 0:9:44,949
+because we are not as divided as our politics
+
+
+258
+0:9:44,949 --> 0:9:45,509
+suggests.
+
+
+259
+0:9:45,509 --> 0:9:46,69
+0:09:45.033,0:09:48.033
+
+
+260
+0:9:46,69 --> 0:9:48,999
+We’re not as cynical as the pundits believe.
+
+
+261
+0:9:48,999 --> 0:9:49,69
+0:09:48.033,0:09:52.033
+
+
+262
+0:9:49,69 --> 0:9:49,679
+We are greater than the sum of our individual
+
+
+263
+0:9:49,679 --> 0:9:49,749
+ambitions,
+
+
+264
+0:9:49,749 --> 0:9:49,819
+0:09:52.033,0:09:57.000
+
+
+265
+0:9:49,819 --> 0:9:52,329
+and we remain more than a collection of red
+
+
+266
+0:9:52,329 --> 0:9:53,139
+states and blue states.
+
+
+267
+0:9:53,139 --> 0:9:53,189
+0:09:57.000,0:10:01.000
+
+
+268
+0:9:53,189 --> 0:9:54,11
+We are and forever will be the United States
+
+
+269
+0:9:54,11 --> 0:9:54,339
+of America.
+
+
+270
+0:9:54,339 --> 0:9:54,459
+0:10:01.000,0:10:10.000
+
+
+271
+0:9:54,459 --> 0:9:55,389
+And together with your help and God’s grace
+
+
+272
+0:9:55,389 --> 0:9:56,199
+we will continue our journey forward and
+
+
+273
+0:9:56,199 --> 0:9:56,8
+remind the world just
+
+
+274
+0:9:56,8 --> 0:9:56,8
+0:10:10.000,0:10:14.066
+
+
+275
+0:9:56,8 --> 0:10:2,749
+why it is that we live in the greatest nation
+on
+
+
+276
+0:10:2,749 --> 0:10:3,589
+Earth
+
+
+277
+0:10:3,589 --> 0:10:4,429
+0:10:14.066,0:10:20.066
+
+
+278
+0:10:4,429 --> 0:10:10,339
+Thank you, America. God bless you. God
+
+
+279
+0:10:10,339 --> 0:12:10,339
+bless these United States.
+
+

@@ -1,0 +1,1418 @@
+1
+0:0:0,0 --> 0:0:2,34
+
+
+
+2
+0:0:2,34 --> 0:0:5,7
+KRISTIAN VON BENGTSON: If we
+wanted to fly into space, we
+
+
+3
+0:0:5,7 --> 0:0:7,45
+could either try to
+become astronauts.
+
+
+4
+0:0:7,45 --> 0:0:8,97
+Like, ha ha, good luck.
+
+
+5
+0:0:8,97 --> 0:0:11,18
+It is probably not
+going to happen.
+
+
+6
+0:0:11,18 --> 0:0:14,95
+You could also wait until maybe
+Virgin Galactic finishes
+
+
+7
+0:0:14,95 --> 0:0:16,27
+their project.
+
+
+8
+0:0:16,27 --> 0:0:17,65
+That's going to take
+a long time.
+
+
+9
+0:0:17,65 --> 0:0:20,17
+But wouldn't it be much more fun
+if you just created your
+
+
+10
+0:0:20,17 --> 0:0:23,8
+own spacecraft yourself, your
+own space rocket, fly into
+
+
+11
+0:0:23,8 --> 0:0:24,582
+space doing that?
+
+
+12
+0:0:24,582 --> 0:0:25,832
+-Go.
+
+
+13
+0:0:25,832 --> 0:0:48,62
+
+
+
+14
+0:0:48,62 --> 0:0:51,68
+KRISTIAN VON BENGTSON: Working
+metal doesn't sound very sexy,
+
+
+15
+0:0:51,68 --> 0:0:56,28
+but it's actually one of the
+best skills that I've obtained
+
+
+16
+0:0:56,28 --> 0:0:58,78
+through life, except sketching
+and drawing.
+
+
+17
+0:0:58,78 --> 0:1:2,61
+I mean, creating anything
+in metal is just--
+
+
+18
+0:1:2,61 --> 0:1:4,862
+there's no limits to what
+you can actually do
+
+
+19
+0:1:4,862 --> 0:1:7,15
+if you have an idea.
+
+
+20
+0:1:7,15 --> 0:1:11,79
+And of course, wood is nice, but
+you're not going to go far
+
+
+21
+0:1:11,79 --> 0:1:15,6
+in a space rocket
+made of wood.
+
+
+22
+0:1:15,6 --> 0:1:16,71
+Yeah, my name is Kristian
+von Bengtson.
+
+
+23
+0:1:16,71 --> 0:1:22,25
+I'm a co-founder of Copenhagen
+Suborbitals, a non-profit and
+
+
+24
+0:1:22,25 --> 0:1:26,12
+open-source DIY space program.
+
+
+25
+0:1:26,12 --> 0:1:30,7
+We're not doing open-source
+space flights at the moment.
+
+
+26
+0:1:30,7 --> 0:1:31,29
+We're not aiming for
+it right now.
+
+
+27
+0:1:31,29 --> 0:1:32,77
+We're doing suborbital
+space flight.
+
+
+28
+0:1:32,77 --> 0:1:36,24
+That's a parabolic flight where
+you go up and down, a
+
+
+29
+0:1:36,24 --> 0:1:37,49
+short trip.
+
+
+30
+0:1:37,49 --> 0:1:41,27
+
+
+
+31
+0:1:41,27 --> 0:1:46,33
+Copenhagen Suborbitals was
+founded in 2008 by myself and
+
+
+32
+0:1:46,33 --> 0:1:48,2
+my partner, Peter Madsen.
+
+
+33
+0:1:48,2 --> 0:1:52,23
+I was back in Denmark after
+I've been working at NASA
+
+
+34
+0:1:52,23 --> 0:1:53,56
+Johnson Space Center.
+
+
+35
+0:1:53,56 --> 0:1:58,53
+And at that time, I read in
+an article that Peter was
+
+
+36
+0:1:58,53 --> 0:2:3,46
+launching his first and last
+submarine nautilus.
+
+
+37
+0:2:3,46 --> 0:2:8,47
+And in that article, I read that
+Peter had a prior history
+
+
+38
+0:2:8,47 --> 0:2:12,68
+doing rocket engines, and he
+wanted to work again with
+
+
+39
+0:2:12,68 --> 0:2:14,5
+rocket engines.
+
+
+40
+0:2:14,5 --> 0:2:20,1
+So I thought to myself,
+let me talk to Peter.
+
+
+41
+0:2:20,1 --> 0:2:23,13
+And I contacted him, and we
+met in his submarine.
+
+
+42
+0:2:23,13 --> 0:2:25,33
+And basically, within
+a few hours, we
+
+
+43
+0:2:25,33 --> 0:2:28,4
+decided to join forces.
+
+
+44
+0:2:28,4 --> 0:2:30,25
+He would be creating the
+launch vehicles.
+
+
+45
+0:2:30,25 --> 0:2:33,2
+I would be creating the
+space capsules.
+
+
+46
+0:2:33,2 --> 0:2:35,1
+And from that moment,
+actually, Copenhagen
+
+
+47
+0:2:35,1 --> 0:2:36,41
+Suborbitals was founded.
+
+
+48
+0:2:36,41 --> 0:2:43,7
+
+
+
+49
+0:2:43,7 --> 0:2:45,32
+PETER MADSEN: My name
+is Peter Madsen.
+
+
+50
+0:2:45,32 --> 0:2:47,62
+I'm with Copenhagen
+Suborbitals.
+
+
+51
+0:2:47,62 --> 0:2:51,37
+My part of it is the rocket
+engines that propel the
+
+
+52
+0:2:51,37 --> 0:2:52,47
+spacecraft.
+
+
+53
+0:2:52,47 --> 0:2:56,14
+And it's also the construction
+of launch pads and all the
+
+
+54
+0:2:56,14 --> 0:2:59,79
+systems, essentially, that
+takes the spacecraft from
+
+
+55
+0:2:59,79 --> 0:3:1,54
+planet Earth and into Space.
+
+
+56
+0:3:1,54 --> 0:3:10,19
+
+
+
+57
+0:3:10,19 --> 0:3:12,48
+Well, I'm not obsessed.
+
+
+58
+0:3:12,48 --> 0:3:13,79
+Not at all.
+
+
+59
+0:3:13,79 --> 0:3:17,22
+It's all the other people who
+are obsessed with footballs
+
+
+60
+0:3:17,22 --> 0:3:18,31
+and that sort of thing.
+
+
+61
+0:3:18,31 --> 0:3:21,17
+I'm just doing what I've
+always been doing.
+
+
+62
+0:3:21,17 --> 0:3:22,42
+I'm playing.
+
+
+63
+0:3:22,42 --> 0:3:30,3
+
+
+
+64
+0:3:30,3 --> 0:3:31,55
+-[SPEAKING FOREIGN LANGUAGE]
+
+
+65
+0:3:31,55 --> 0:3:34,94
+
+
+
+66
+0:3:34,94 --> 0:3:39,17
+PETER MADSEN: This is the
+TM65 rocket engine.
+
+
+67
+0:3:39,17 --> 0:3:43,95
+It uses two components
+for its propellants.
+
+
+68
+0:3:43,95 --> 0:3:47,26
+The one is liquid oxygen.
+
+
+69
+0:3:47,26 --> 0:3:50,14
+And the other is alcohol,
+the same type of
+
+
+70
+0:3:50,14 --> 0:3:51,73
+alcohol that we drink.
+
+
+71
+0:3:51,73 --> 0:3:54,38
+But this is just slightly
+more concentrated.
+
+
+72
+0:3:54,38 --> 0:3:57,43
+So it's a schnapps
+locks engine.
+
+
+73
+0:3:57,43 --> 0:4:3,57
+
+
+
+74
+0:4:3,57 --> 0:4:8,0
+This engine really works the
+same way as the engines that
+
+
+75
+0:4:8,0 --> 0:4:11,3
+originally propelled the Saturn
+V Rocket to the moon.
+
+
+76
+0:4:11,3 --> 0:4:14,25
+It's the same type
+of technology.
+
+
+77
+0:4:14,25 --> 0:4:17,54
+The difference from the Space
+Shuttle main engines to this
+
+
+78
+0:4:17,54 --> 0:4:23,36
+one is that while a shuttle
+engine consists of literally
+
+
+79
+0:4:23,36 --> 0:4:26,36
+tens of thousands of components,
+this one is a
+
+
+80
+0:4:26,36 --> 0:4:28,9
+couple of hundred components.
+
+
+81
+0:4:28,9 --> 0:4:31,11
+All the parts that this engine
+is consisting of--
+
+
+82
+0:4:31,11 --> 0:4:34,6
+primarily the valves, the
+actuator, the nuts and bolts,
+
+
+83
+0:4:34,6 --> 0:4:36,37
+the tubes and pipes
+and everything--
+
+
+84
+0:4:36,37 --> 0:4:39,75
+are all the products of modern
+industry, and they're all off
+
+
+85
+0:4:39,75 --> 0:4:41,14
+the shelf things.
+
+
+86
+0:4:41,14 --> 0:4:43,69
+If it wasn't used in this rocket
+engine, very likely
+
+
+87
+0:4:43,69 --> 0:4:47,9
+this component would have found
+its way into an ordinary
+
+
+88
+0:4:47,9 --> 0:4:51,85
+house for heating purposes
+or the water
+
+
+89
+0:4:51,85 --> 0:4:53,52
+mains used in a kitchen.
+
+
+90
+0:4:53,52 --> 0:4:56,88
+It's the sort of things that are
+completely normal that we
+
+
+91
+0:4:56,88 --> 0:5:0,8
+put together and turn into
+a rocket engine.
+
+
+92
+0:5:0,8 --> 0:5:2,97
+KRISTIAN VON BENGTSON: Using
+off the shelf products that
+
+
+93
+0:5:2,97 --> 0:5:4,98
+you can buy in vast numbers
+are actually
+
+
+94
+0:5:4,98 --> 0:5:6,37
+very reliable systems.
+
+
+95
+0:5:6,37 --> 0:5:10,48
+Instead of trying to invent our
+own valve, for instance,
+
+
+96
+0:5:10,48 --> 0:5:12,54
+why not buy one that's
+been produced
+
+
+97
+0:5:12,54 --> 0:5:16,44
+maybe a million times?
+
+
+98
+0:5:16,44 --> 0:5:20,12
+When you're working a DIY
+project, the natural premise
+
+
+99
+0:5:20,12 --> 0:5:22,14
+is that you don't have much.
+
+
+100
+0:5:22,14 --> 0:5:24,17
+You don't have much
+money, funding.
+
+
+101
+0:5:24,17 --> 0:5:28,8
+You don't have, maybe, all the
+technology like the pro guys,
+
+
+102
+0:5:28,8 --> 0:5:28,98
+or the materials.
+
+
+103
+0:5:28,98 --> 0:5:31,53
+And then you have to come
+up with solutions.
+
+
+104
+0:5:31,53 --> 0:5:36,81
+And that sparks a lot of new
+technology, new ideas.
+
+
+105
+0:5:36,81 --> 0:5:43,77
+And sometimes it also takes the
+solution that you would
+
+
+106
+0:5:43,77 --> 0:5:46,7
+normally do--
+
+
+107
+0:5:46,7 --> 0:5:49,28
+very expensive, very complex
+in the professional world--
+
+
+108
+0:5:49,28 --> 0:5:52,51
+and bring it down to a level
+and show people that it's
+
+
+109
+0:5:52,51 --> 0:5:54,9
+actually possible
+to do the same--
+
+
+110
+0:5:54,9 --> 0:5:59,43
+come up with same solution
+for less money.
+
+
+111
+0:5:59,43 --> 0:6:3,83
+The first rocket we tried to
+launch, it contained a hair
+
+
+112
+0:6:3,83 --> 0:6:9,63
+dryer to keep one of the
+valves heated up so it
+
+
+113
+0:6:9,63 --> 0:6:11,255
+wouldn't freeze up.
+
+
+114
+0:6:11,255 --> 0:6:12,9
+It was actually a
+great solution.
+
+
+115
+0:6:12,9 --> 0:6:24,19
+
+
+
+116
+0:6:24,19 --> 0:6:26,265
+PETER MADSEN: We have left the
+workshop now, and we have
+
+
+117
+0:6:26,265 --> 0:6:29,46
+walked about 100 meters to one
+of the two test stands.
+
+
+118
+0:6:29,46 --> 0:6:33,24
+And what we have is
+a steel gantry.
+
+
+119
+0:6:33,24 --> 0:6:38,28
+And up there, a room for the the
+four 16 millimeter bolts
+
+
+120
+0:6:38,28 --> 0:6:39,46
+that keep the engine in place.
+
+
+121
+0:6:39,46 --> 0:6:42,552
+And we have a crane that we
+use to hoist it up there.
+
+
+122
+0:6:42,552 --> 0:6:45,65
+And on top of this steel
+structure, we have the
+
+
+123
+0:6:45,65 --> 0:6:49,89
+propellant tanks of, totally,
+700 kilos of propellant that
+
+
+124
+0:6:49,89 --> 0:7:7,69
+the engine consumes in
+about 15 seconds.
+
+
+125
+0:7:7,69 --> 0:7:11,65
+[APPLAUSE]
+
+
+126
+0:7:11,65 --> 0:7:14,19
+KRISTIAN VON BENGTSON: Launching
+rockets is actually
+
+
+127
+0:7:14,19 --> 0:7:15,63
+like anything else
+we're doing here.
+
+
+128
+0:7:15,63 --> 0:7:17,24
+It's tests of different
+systems.
+
+
+129
+0:7:17,24 --> 0:7:22,12
+
+
+
+130
+0:7:22,12 --> 0:7:25,6
+We have to prove to ourselves
+that we are capable of
+
+
+131
+0:7:25,6 --> 0:7:26,68
+handling different
+technologies.
+
+
+132
+0:7:26,68 --> 0:7:30,15
+-[SPEAKING FOREIGN LANGUAGE]
+
+
+133
+0:7:30,15 --> 0:7:33,56
+
+
+
+134
+0:7:33,56 --> 0:7:37,1
+KRISTIAN VON BENGTSON: There's
+always certain things we are
+
+
+135
+0:7:37,1 --> 0:7:39,0
+testing on.
+
+
+136
+0:7:39,0 --> 0:7:42,26
+So it's all a part of the big
+puzzle ending up for a big
+
+
+137
+0:7:42,26 --> 0:7:45,16
+rocket with a capsule on top.
+
+
+138
+0:7:45,16 --> 0:7:47,15
+And of course, we're going
+to do more launches.
+
+
+139
+0:7:47,15 --> 0:7:56,1
+
+
+
+140
+0:7:56,1 --> 0:7:57,92
+PETER MADSEN: We are aiming
+for a manned mission.
+
+
+141
+0:7:57,92 --> 0:8:0,94
+But of course, we are only
+flying the big rockets with a
+
+
+142
+0:8:0,94 --> 0:8:2,89
+crash test dummy inside.
+
+
+143
+0:8:2,89 --> 0:8:5,52
+We're not going to be flying
+any persons, any live human
+
+
+144
+0:8:5,52 --> 0:8:10,59
+being, until we believe
+that it's fairly safe.
+
+
+145
+0:8:10,59 --> 0:8:12,19
+KRISTIAN VON BENGTSON: This
+is is our space capsule,
+
+
+146
+0:8:12,19 --> 0:8:13,53
+Beautiful Betty.
+
+
+147
+0:8:13,53 --> 0:8:17,15
+And it's the first prototype of
+this kind of capsule-type
+
+
+148
+0:8:17,15 --> 0:8:18,7
+space vehicle for one person.
+
+
+149
+0:8:18,7 --> 0:8:20,6
+Most of this--
+
+
+150
+0:8:20,6 --> 0:8:20,78
+the capsule--
+
+
+151
+0:8:20,78 --> 0:8:21,75
+I welded myself.
+
+
+152
+0:8:21,75 --> 0:8:23,9
+But I did the sign--
+
+
+153
+0:8:23,9 --> 0:8:25,78
+and some of the interior
+welding--
+
+
+154
+0:8:25,78 --> 0:8:27,57
+I did with a guy called Klaus.
+
+
+155
+0:8:27,57 --> 0:8:31,22
+He's my partner in doing
+these capsules here.
+
+
+156
+0:8:31,22 --> 0:8:33,65
+And we're also together
+developing the new capsule.
+
+
+157
+0:8:33,65 --> 0:8:36,2
+It was tested about
+two months ago.
+
+
+158
+0:8:36,2 --> 0:8:38,419
+It got pretty roughed up.
+
+
+159
+0:8:38,419 --> 0:8:39,38
+But it's still here.
+
+
+160
+0:8:39,38 --> 0:8:41,23
+And we can still do
+a lot of tests.
+
+
+161
+0:8:41,23 --> 0:8:43,74
+And it's a foundation of all the
+new capsules we're going
+
+
+162
+0:8:43,74 --> 0:8:44,99
+to do in the future.
+
+
+163
+0:8:44,99 --> 0:8:47,98
+
+
+
+164
+0:8:47,98 --> 0:8:50,31
+Well, Randy, the crash
+test dummy,
+
+
+165
+0:8:50,31 --> 0:8:52,45
+was inside this capsule.
+
+
+166
+0:8:52,45 --> 0:8:54,78
+And, well, he lost a leg.
+
+
+167
+0:8:54,78 --> 0:8:58,49
+It's possible, actually, that
+he would have survived, only
+
+
+168
+0:8:58,49 --> 0:9:1,49
+because of the direction
+that it hit water.
+
+
+169
+0:9:1,49 --> 0:9:5,583
+But he might be in a wheelchair
+forever if it was a
+
+
+170
+0:9:5,583 --> 0:9:8,35
+live person.
+
+
+171
+0:9:8,35 --> 0:9:10,29
+Randy has been a good
+friend of ours.
+
+
+172
+0:9:10,29 --> 0:9:12,75
+He's been flying for
+the last two years.
+
+
+173
+0:9:12,75 --> 0:9:15,15
+So every time we have a capsule
+or a spaceship, he's
+
+
+174
+0:9:15,15 --> 0:9:16,97
+going to be in the
+seat, and he's
+
+
+175
+0:9:16,97 --> 0:9:18,65
+going to take the beating.
+
+
+176
+0:9:18,65 --> 0:9:22,31
+That's why you have a
+crash test dummy.
+
+
+177
+0:9:22,31 --> 0:9:26,7
+Keeping one person alive, even
+only for a 15 minute ride, is
+
+
+178
+0:9:26,7 --> 0:9:27,47
+a big challenge.
+
+
+179
+0:9:27,47 --> 0:9:32,66
+You need to create a reliable
+piece of confined room,
+
+
+180
+0:9:32,66 --> 0:9:37,46
+confined space for one person,
+where you have a small seat,
+
+
+181
+0:9:37,46 --> 0:9:41,5
+where you're comfortable but
+also work with all the
+
+
+182
+0:9:41,5 --> 0:9:44,34
+acceleration from launching
+the rocket but also when
+
+
+183
+0:9:44,34 --> 0:9:46,33
+landing on sea.
+
+
+184
+0:9:46,33 --> 0:9:48,24
+This is where you're going to
+be, and this is where you're
+
+
+185
+0:9:48,24 --> 0:9:51,54
+actually going to experience
+this incredible ride, where
+
+
+186
+0:9:51,54 --> 0:9:53,1
+you're going to feel
+the rocket lifting
+
+
+187
+0:9:53,1 --> 0:9:54,83
+you away from Earth.
+
+
+188
+0:9:54,83 --> 0:9:57,49
+And it's going to be so fast.
+
+
+189
+0:9:57,49 --> 0:9:59,13
+And eventually, you're
+going to see Earth
+
+
+190
+0:9:59,13 --> 0:10:0,625
+turning around out here.
+
+
+191
+0:10:0,625 --> 0:10:5,81
+And it's just an amazing
+feeling, actually, just to
+
+
+192
+0:10:5,81 --> 0:10:8,92
+have those thoughts.
+
+
+193
+0:10:8,92 --> 0:10:12,71
+When the US, they launched the
+first astronaut, Alan Shepard,
+
+
+194
+0:10:12,71 --> 0:10:15,9
+the whole countdown actually
+stopped because the engineers
+
+
+195
+0:10:15,9 --> 0:10:17,97
+suddenly became scared.
+
+
+196
+0:10:17,97 --> 0:10:21,6
+They realized they had
+a person inside.
+
+
+197
+0:10:21,6 --> 0:10:25,24
+And they weren't really prepared
+mentally for that.
+
+
+198
+0:10:25,24 --> 0:10:27,84
+So the countdown stopped
+until Alan Shepard--
+
+
+199
+0:10:27,84 --> 0:10:30,966
+he told them "light
+the candle"--
+
+
+200
+0:10:30,966 --> 0:10:32,382
+his famous words.
+
+
+201
+0:10:32,382 --> 0:10:35,214
+
+
+
+202
+0:10:35,214 --> 0:10:36,63
+-Lift off.
+
+
+203
+0:10:36,63 --> 0:10:37,102
+ALAN SHEPARD: All
+right, there.
+
+
+204
+0:10:37,102 --> 0:10:39,932
+Lift off, and the clock
+has started.
+
+
+205
+0:10:39,932 --> 0:10:41,93
+KRISTIAN VON BENGTSON: An
+organization like this--
+
+
+206
+0:10:41,93 --> 0:10:45,59
+I don't know what's going to
+happen when everybody had a
+
+
+207
+0:10:45,59 --> 0:10:49,3
+part in it, and they suddenly
+understand that this--
+
+
+208
+0:10:49,3 --> 0:10:51,19
+what they did--
+
+
+209
+0:10:51,19 --> 0:10:56,33
+if it doesn't work, it will
+have a fatal outcome.
+
+
+210
+0:10:56,33 --> 0:10:58,21
+Or maybe it's not going
+to be a problem.
+
+
+211
+0:10:58,21 --> 0:11:1,4
+Maybe everybody's just going
+to find it exhilarating.
+
+
+212
+0:11:1,4 --> 0:11:9,6
+
+
+
+213
+0:11:9,6 --> 0:11:11,78
+PETER MADSEN: It doesn't take
+much courage to climb on board
+
+
+214
+0:11:11,78 --> 0:11:17,8
+a rocket and have the hatch
+sealed and somebody light it,
+
+
+215
+0:11:17,8 --> 0:11:20,17
+because it either works
+or it doesn't work.
+
+
+216
+0:11:20,17 --> 0:11:22,25
+And if it doesn't work, the
+period of time you'd have to
+
+
+217
+0:11:22,25 --> 0:11:24,69
+realize that is usually
+very short.
+
+
+218
+0:11:24,69 --> 0:11:27,3
+But it takes a lot
+of courage--
+
+
+219
+0:11:27,3 --> 0:11:29,75
+it takes an unimaginable
+amount of courage--
+
+
+220
+0:11:29,75 --> 0:11:35,4
+to be the ground crew, to be the
+commanders on the ground,
+
+
+221
+0:11:35,4 --> 0:11:37,32
+to make the decision, let's
+launch this thing
+
+
+222
+0:11:37,32 --> 0:11:38,53
+and see if it works.
+
+
+223
+0:11:38,53 --> 0:11:41,47
+And Kristian is one of the few
+people that I've ever met who
+
+
+224
+0:11:41,47 --> 0:11:45,355
+is courageous enough
+to do such a thing.
+
+
+225
+0:11:45,355 --> 0:11:54,301
+-T-minus 10, 9, 8, 7,
+6, 5, 4, 3, 2, 1.
+
+
+226
+0:11:54,301 --> 0:11:59,88
+
+
+
+227
+0:11:59,88 --> 0:12:1,92
+KRISTIAN VON BENGTSON: Human
+space flight has always had
+
+
+228
+0:12:1,92 --> 0:12:4,63
+this holy grail kind of
+sphere around it.
+
+
+229
+0:12:4,63 --> 0:12:10,13
+
+
+
+230
+0:12:10,13 --> 0:12:12,4
+It's supposed to be expensive.
+
+
+231
+0:12:12,4 --> 0:12:14,8
+It's supposed to be
+very complex.
+
+
+232
+0:12:14,8 --> 0:12:18,12
+So you just completely just
+forget the notion or the idea
+
+
+233
+0:12:18,12 --> 0:12:21,22
+let's try and build our
+own space rocket.
+
+
+234
+0:12:21,22 --> 0:12:22,91
+People just don't want
+to touch it.
+
+
+235
+0:12:22,91 --> 0:12:27,27
+But I hope we can inspire people
+that space rocket, you
+
+
+236
+0:12:27,27 --> 0:12:28,54
+can actually build
+it yourself.
+
+
+237
+0:12:28,54 --> 0:12:38,32
+
+
+
+238
+0:12:38,32 --> 0:12:41,8
+If there should be some kind
+of legacy from what we are
+
+
+239
+0:12:41,8 --> 0:12:45,53
+doing here on this DIY project,
+that should be
+
+
+240
+0:12:45,53 --> 0:12:48,99
+showing the world that human
+space flight can actually be
+
+
+241
+0:12:48,99 --> 0:12:52,37
+done on a completely different
+scale, on a completely
+
+
+242
+0:12:52,37 --> 0:12:55,86
+different level, with very
+simple technology.
+
+
+243
+0:12:55,86 --> 0:12:57,28
+You're welcome to come
+and join us.
+
+
+244
+0:12:57,28 --> 0:13:0,8
+You're also welcome to come here
+with a measuring tape and
+
+
+245
+0:13:0,8 --> 0:13:2,4
+your camera.
+
+
+246
+0:13:2,4 --> 0:13:5,48
+Take all the pictures or
+download all of the images and
+
+
+247
+0:13:5,48 --> 0:13:8,32
+sketches from our blog and just,
+you know, copy the work
+
+
+248
+0:13:8,32 --> 0:13:10,53
+or go from there from
+what we're doing.
+
+
+249
+0:13:10,53 --> 0:13:13,79
+Basically, everybody can do this
+if they want to do it.
+
+
+250
+0:13:13,79 --> 0:15:13,79
+[MUSIC PLAYING]
+
+

@@ -1,0 +1,7485 @@
+1
+0:0:0,0 --> 0:0:5,67
+
+
+
+2
+0:0:5,67 --> 0:0:7,13
+Hi, I'm Adam Yamaguchi.
+
+
+3
+0:0:7,13 --> 0:0:8,5
+In this episode of Vanguard,
+
+
+4
+0:0:8,5 --> 0:0:9,2
+we're taking you
+
+
+5
+0:0:9,2 --> 0:0:10,57
+inside a prison.
+
+
+6
+0:0:10,57 --> 0:0:11,7
+Now while most people think that
+
+
+7
+0:0:11,7 --> 0:0:12,67
+being in a prison is like being
+
+
+8
+0:0:12,67 --> 0:0:13,67
+cut off from the rest of the
+
+
+9
+0:0:13,67 --> 0:0:15,8
+world, it's not.
+
+
+10
+0:0:15,8 --> 0:0:16,83
+Recently, the California
+
+
+11
+0:0:16,83 --> 0:0:17,83
+Department of Corrections
+
+
+12
+0:0:17,83 --> 0:0:19,7
+offered access inside the prison
+
+
+13
+0:0:19,7 --> 0:0:20,73
+systems to look at a problem
+
+
+14
+0:0:20,73 --> 0:0:22,17
+that afflicts prisons across
+
+
+15
+0:0:22,17 --> 0:0:23,83
+America.
+
+
+16
+0:0:23,83 --> 0:0:24,97
+Contributor Janet Choi went to
+
+
+17
+0:0:24,97 --> 0:0:29,23
+check out.
+
+
+18
+0:0:29,23 --> 0:0:29,9
+(Janet) I'm driving in the
+
+
+19
+0:0:29,9 --> 0:0:30,93
+middle of nowhere, halfway
+
+
+20
+0:0:30,93 --> 0:0:32,6
+between Los Angeles and San
+
+
+21
+0:0:32,6 --> 0:0:34,7
+Francisco, heading to Avenal
+
+
+22
+0:0:34,7 --> 0:0:37,13
+State Prison.
+
+
+23
+0:0:37,13 --> 0:0:38,0
+I've been invited there to
+
+
+24
+0:0:38,0 --> 0:0:39,4
+follow the prison's internal
+
+
+25
+0:0:39,4 --> 0:0:40,9
+security unit, the first time
+
+
+26
+0:0:40,9 --> 0:0:42,17
+any camera crew has been allowed
+
+
+27
+0:0:42,17 --> 0:0:45,73
+to see the ISU team in action.
+
+
+28
+0:0:45,73 --> 0:0:47,73
+Their mission: to stop
+
+
+29
+0:0:47,73 --> 0:0:49,0
+contraband from getting into
+
+
+30
+0:0:49,0 --> 0:0:50,93
+prison.
+
+
+31
+0:0:50,93 --> 0:0:52,2
+It may not make sense, but
+
+
+32
+0:0:52,2 --> 0:0:53,3
+prison's aren't totally
+
+
+33
+0:0:53,3 --> 0:0:55,2
+sealed off environments.
+
+
+34
+0:0:55,2 --> 0:0:56,5
+And I was invited to Avenal to
+
+
+35
+0:0:56,5 --> 0:0:58,47
+see just how hard it is to keep
+
+
+36
+0:0:58,47 --> 0:0:59,67
+inmates from getting stuff
+
+
+37
+0:0:59,67 --> 0:1:6,3
+they're not supposed to have.
+
+
+38
+0:1:6,3 --> 0:1:7,17
+Contraband is a problem in
+
+
+39
+0:1:7,17 --> 0:1:8,73
+prisons across the the country
+
+
+40
+0:1:8,73 --> 0:1:10,53
+because nearly all violence and
+
+
+41
+0:1:10,53 --> 0:1:12,7
+gang activity in prison can be
+
+
+42
+0:1:12,7 --> 0:1:14,67
+traced back it.
+
+
+43
+0:1:14,67 --> 0:1:15,7
+They promised full access to
+
+
+44
+0:1:15,7 --> 0:1:17,7
+their division, and an
+
+
+45
+0:1:17,7 --> 0:1:18,9
+introduction to a new epidemic
+
+
+46
+0:1:18,9 --> 0:1:20,13
+in prisons.
+
+
+47
+0:1:20,13 --> 0:1:21,73
+Something that you and I didn't
+
+
+48
+0:1:21,73 --> 0:1:25,9
+even know was a problem.
+
+
+49
+0:1:25,9 --> 0:1:26,9
+>>This is all prison property
+
+
+50
+0:1:26,9 --> 0:1:30,6
+that you'll see.
+
+
+51
+0:1:30,6 --> 0:1:33,0
+(Janet) As we drove up to meet
+
+
+52
+0:1:33,0 --> 0:1:33,33
+with the ISU something was going
+
+
+53
+0:1:33,33 --> 0:1:34,2
+on.
+
+
+54
+0:1:34,2 --> 0:1:34,8
+>>Yeah, gear it up.
+
+
+55
+0:1:34,8 --> 0:1:37,0
+Let's roll.
+
+
+56
+0:1:37,0 --> 0:1:37,97
+>>There was a stabbing out
+
+
+57
+0:1:37,97 --> 0:1:47,27
+there.
+
+
+58
+0:1:47,27 --> 0:1:48,23
+>>So we were about to go inside
+
+
+59
+0:1:48,23 --> 0:1:49,47
+and interview the guys who seize
+
+
+60
+0:1:49,47 --> 0:1:50,8
+the contraband, only they got
+
+
+61
+0:1:50,8 --> 0:1:51,67
+called out because there was a
+
+
+62
+0:1:51,67 --> 0:2:2,1
+stabbing on the yard.
+
+
+63
+0:2:2,1 --> 0:2:9,97
+>>All right and two visitors.
+
+
+64
+0:2:9,97 --> 0:2:11,4
+(Janet) While the ISU was busy I
+
+
+65
+0:2:11,4 --> 0:2:12,47
+asked Sargeant Carter, to show
+
+
+66
+0:2:12,47 --> 0:2:13,83
+me the prison block and
+
+
+67
+0:2:13,83 --> 0:2:15,87
+introduce me to prisoners.
+
+
+68
+0:2:15,87 --> 0:2:17,7
+I wanted to find out what the
+
+
+69
+0:2:17,7 --> 0:2:19,2
+prisoners were allowed to have.
+
+
+70
+0:2:19,2 --> 0:2:21,4
+What do they have in each, what
+
+
+71
+0:2:21,4 --> 0:2:23,5
+do you call it, bunk area?
+
+
+72
+0:2:23,5 --> 0:2:24,27
+In each dorm?
+
+
+73
+0:2:24,27 --> 0:2:24,77
+>>Let's go take a look.
+
+
+74
+0:2:24,77 --> 0:2:25,23
+>>Yeah?
+
+
+75
+0:2:25,23 --> 0:2:25,93
+You have so little space, what
+
+
+76
+0:2:25,93 --> 0:2:28,63
+do you keep in your space?
+
+
+77
+0:2:28,63 --> 0:2:29,27
+>>Mostly everything is under my
+
+
+78
+0:2:29,27 --> 0:2:30,4
+bunk.
+
+
+79
+0:2:30,4 --> 0:2:31,53
+Nothing really fits in my locker
+
+
+80
+0:2:31,53 --> 0:2:32,17
+because it's too small, so
+
+
+81
+0:2:32,17 --> 0:2:32,9
+we've got everything under our
+
+
+82
+0:2:32,9 --> 0:2:33,63
+bunks.
+
+
+83
+0:2:33,63 --> 0:2:34,93
+Bags and stuff.
+
+
+84
+0:2:34,93 --> 0:2:36,6
+I got a lot of tattoos.
+
+
+85
+0:2:36,6 --> 0:2:37,0
+That's my daughter right
+
+
+86
+0:2:37,0 --> 0:2:38,1
+there.
+
+
+87
+0:2:38,1 --> 0:2:41,17
+Dora, Spongebob.
+
+
+88
+0:2:41,17 --> 0:2:42,63
+It's all for my daughter.
+
+
+89
+0:2:42,63 --> 0:2:43,93
+It's just, you know, something
+
+
+90
+0:2:43,93 --> 0:2:44,77
+to tribute her.
+
+
+91
+0:2:44,77 --> 0:2:45,9
+To remember her, because I
+
+
+92
+0:2:45,9 --> 0:2:46,7
+don't really see her that much
+
+
+93
+0:2:46,7 --> 0:2:47,77
+because I'm incarcerated all
+
+
+94
+0:2:47,77 --> 0:2:48,73
+the time.
+
+
+95
+0:2:48,73 --> 0:2:49,77
+Since I was about 16, I've been
+
+
+96
+0:2:49,77 --> 0:2:50,7
+on the streets probably for
+
+
+97
+0:2:50,7 --> 0:2:52,8
+about five months.
+
+
+98
+0:2:52,8 --> 0:2:55,27
+I was in and out, juvenile hall,
+
+
+99
+0:2:55,27 --> 0:2:57,9
+jail, prison.
+
+
+100
+0:2:57,9 --> 0:3:1,83
+>>This is my bunk.
+
+
+101
+0:3:1,83 --> 0:3:5,5
+I got a college book that I'm
+
+
+102
+0:3:5,5 --> 0:3:7,27
+reading.
+
+
+103
+0:3:7,27 --> 0:3:8,57
+This is a watch that I have, got
+
+
+104
+0:3:8,57 --> 0:3:9,93
+in a package.
+
+
+105
+0:3:9,93 --> 0:3:11,1
+This is a radio that they no
+
+
+106
+0:3:11,1 --> 0:3:12,1
+longer allow you to have...if
+
+
+107
+0:3:12,1 --> 0:3:14,4
+you already got them, you get to
+
+
+108
+0:3:14,4 --> 0:3:16,13
+keep them.
+
+
+109
+0:3:16,13 --> 0:3:19,9
+This is a list of CDs.
+
+
+110
+0:3:19,9 --> 0:3:22,27
+These are me and my bunkie's
+
+
+111
+0:3:22,27 --> 0:3:23,17
+combined, because you're only
+
+
+112
+0:3:23,17 --> 0:3:25,7
+allowed to have 12.
+
+
+113
+0:3:25,7 --> 0:3:26,1
+It's not much.
+
+
+114
+0:3:26,1 --> 0:3:27,5
+It helps to do your time in here
+
+
+115
+0:3:27,5 --> 0:3:29,13
+a little better, you know.
+
+
+116
+0:3:29,13 --> 0:3:29,93
+So you're not going to be as
+
+
+117
+0:3:29,93 --> 0:3:30,53
+stressed out.
+
+
+118
+0:3:30,53 --> 0:3:31,3
+If you get stressed out, you can
+
+
+119
+0:3:31,3 --> 0:3:33,43
+jump up, read a book, listen to
+
+
+120
+0:3:33,43 --> 0:3:35,83
+some music, calm yourself down.
+
+
+121
+0:3:35,83 --> 0:3:36,4
+>>You actually have more stuff
+
+
+122
+0:3:36,4 --> 0:3:37,37
+than most of the guys we've
+
+
+123
+0:3:37,37 --> 0:3:38,27
+seen here.
+
+
+124
+0:3:38,27 --> 0:3:39,33
+>>Yeah well actually I've been
+
+
+125
+0:3:39,33 --> 0:3:40,53
+down a little longer you know
+
+
+126
+0:3:40,53 --> 0:3:42,23
+and over the years things
+
+
+127
+0:3:42,23 --> 0:3:43,67
+accumulate.
+
+
+128
+0:3:43,67 --> 0:3:44,17
+>>How many pairs of shoes do you
+
+
+129
+0:3:44,17 --> 0:3:45,3
+guys have because I'm just
+
+
+130
+0:3:45,3 --> 0:3:45,83
+seeing fifty pairs of shoes
+
+
+131
+0:3:45,83 --> 0:3:47,43
+under there.
+
+
+132
+0:3:47,43 --> 0:3:51,37
+>>I got these and I got the ones
+
+
+133
+0:3:51,37 --> 0:3:53,17
+I play outside in.
+
+
+134
+0:3:53,17 --> 0:3:53,83
+Tall white guy's got to play
+
+
+135
+0:3:53,83 --> 0:3:54,97
+volleyball.
+
+
+136
+0:3:54,97 --> 0:3:55,8
+(Janet) Prisoners are allowed a
+
+
+137
+0:3:55,8 --> 0:3:57,43
+large variety of things, many of
+
+
+138
+0:3:57,43 --> 0:3:58,73
+which surprised me.
+
+
+139
+0:3:58,73 --> 0:4:2,6
+Guitars, televisions, ramen.
+
+
+140
+0:4:2,6 --> 0:4:4,43
+I rejoined the ISU for a tour of
+
+
+141
+0:4:4,43 --> 0:4:7,83
+prison contraband.
+
+
+142
+0:4:7,83 --> 0:4:8,97
+>>This is just a fraction.
+
+
+143
+0:4:8,97 --> 0:4:10,37
+A lot of stuff, we've gotten
+
+
+144
+0:4:10,37 --> 0:4:11,53
+rid of, like the tobacco, we
+
+
+145
+0:4:11,53 --> 0:4:13,33
+obviously throw that away.
+
+
+146
+0:4:13,33 --> 0:4:14,17
+But a lot of the stuff we get
+
+
+147
+0:4:14,17 --> 0:4:16,8
+rid of it, so...
+
+
+148
+0:4:16,8 --> 0:4:17,57
+>>From month to month, I try to
+
+
+149
+0:4:17,57 --> 0:4:19,8
+photograph our discoveries.
+
+
+150
+0:4:19,8 --> 0:4:22,7
+A tobacco, narcotics,
+
+
+151
+0:4:22,7 --> 0:4:23,57
+weapons...It's amazing the
+
+
+152
+0:4:23,57 --> 0:4:24,57
+stuff that they try to smuggle
+
+
+153
+0:4:24,57 --> 0:4:25,57
+in.
+
+
+154
+0:4:25,57 --> 0:4:27,43
+It's weird.
+
+
+155
+0:4:27,43 --> 0:4:28,87
+Like I think this stuff was,
+
+
+156
+0:4:28,87 --> 0:4:31,43
+uh--
+
+
+157
+0:4:31,43 --> 0:4:31,97
+>>Rogaine.
+
+
+158
+0:4:31,97 --> 0:4:32,4
+>>Rogaine.
+
+
+159
+0:4:32,4 --> 0:4:33,17
+Yeah.
+
+
+160
+0:4:33,17 --> 0:4:34,17
+>>Oh, that's funny.
+
+
+161
+0:4:34,17 --> 0:4:34,83
+>>Yeah, they got to look their
+
+
+162
+0:4:34,83 --> 0:4:35,67
+best when they're in the
+
+
+163
+0:4:35,67 --> 0:4:37,83
+inmate population.
+
+
+164
+0:4:37,83 --> 0:4:39,43
+Pounds and pounds of tobacco.
+
+
+165
+0:4:39,43 --> 0:4:40,37
+We brought only just a few out
+
+
+166
+0:4:40,37 --> 0:4:42,1
+because we dispose of the stuff.
+
+
+167
+0:4:42,1 --> 0:4:43,23
+Because we don't have enough
+
+
+168
+0:4:43,23 --> 0:4:44,93
+evidence space, space in our
+
+
+169
+0:4:44,93 --> 0:4:45,87
+evidence room to hold this
+
+
+170
+0:4:45,87 --> 0:4:46,5
+stuff.
+
+
+171
+0:4:46,5 --> 0:4:47,17
+>>Right.
+
+
+172
+0:4:47,17 --> 0:4:49,7
+Is that what it looked like?
+
+
+173
+0:4:49,7 --> 0:4:51,27
+>>Yeah, this is ready to go.
+
+
+174
+0:4:51,27 --> 0:4:53,7
+A little bit of lube and this is
+
+
+175
+0:4:53,7 --> 0:4:55,2
+going in.
+
+
+176
+0:4:55,2 --> 0:4:57,4
+Prison wallet, their rectal
+
+
+177
+0:4:57,4 --> 0:4:59,97
+cavity is where this will go.
+
+
+178
+0:4:59,97 --> 0:5:1,83
+>>Most guys will be able to
+
+
+179
+0:5:1,83 --> 0:5:5,3
+bring three of these at a time.
+
+
+180
+0:5:5,3 --> 0:5:6,63
+There are some seasoned veterans
+
+
+181
+0:5:6,63 --> 0:5:7,67
+that can do quite a bit more
+
+
+182
+0:5:7,67 --> 0:5:9,6
+than that.
+
+
+183
+0:5:9,6 --> 0:5:10,9
+They'll just cover up the
+
+
+184
+0:5:10,9 --> 0:5:14,37
+sharp parts, and insert it where
+
+
+185
+0:5:14,37 --> 0:5:16,2
+it needs to be.
+
+
+186
+0:5:16,2 --> 0:5:16,63
+>>And then what?
+
+
+187
+0:5:16,63 --> 0:5:17,4
+You give them a laxative or
+
+
+188
+0:5:17,4 --> 0:5:18,37
+something?
+
+
+189
+0:5:18,37 --> 0:5:19,0
+>>No, we'll put them on
+
+
+190
+0:5:19,0 --> 0:5:20,93
+contraband watch.
+
+
+191
+0:5:20,93 --> 0:5:22,33
+They're not going to tell us
+
+
+192
+0:5:22,33 --> 0:5:23,4
+what's up there.
+
+
+193
+0:5:23,4 --> 0:5:24,97
+During the unclothed body search
+
+
+194
+0:5:24,97 --> 0:5:26,53
+he has to cough, you'll see
+
+
+195
+0:5:26,53 --> 0:5:30,17
+packaging, or some part of it,
+
+
+196
+0:5:30,17 --> 0:5:32,47
+and then: Oh, that's a clue.
+
+
+197
+0:5:32,47 --> 0:5:32,83
+Might want to put him on
+
+
+198
+0:5:32,83 --> 0:5:33,77
+contraband watch.
+
+
+199
+0:5:33,77 --> 0:5:34,3
+>>Or they'll lube themselves
+
+
+200
+0:5:34,3 --> 0:5:34,63
+up.
+
+
+201
+0:5:34,63 --> 0:5:36,63
+They'll have a lot of Vaseline
+
+
+202
+0:5:36,63 --> 0:5:39,23
+or lubricant in that area.
+
+
+203
+0:5:39,23 --> 0:5:41,23
+>>A wet spot on their pants.
+
+
+204
+0:5:41,23 --> 0:5:42,23
+So you can only imagine where
+
+
+205
+0:5:42,23 --> 0:5:43,67
+someone would hide one of these,
+
+
+206
+0:5:43,67 --> 0:5:45,7
+right?
+
+
+207
+0:5:45,7 --> 0:5:46,0
+>>Pounds and pounds of tobacco.
+
+
+208
+0:5:46,0 --> 0:5:47,53
+Roughly, this is a can of
+
+
+209
+0:5:47,53 --> 0:5:48,57
+Bugler.
+
+
+210
+0:5:48,57 --> 0:5:49,1
+OK.
+
+
+211
+0:5:49,1 --> 0:5:50,9
+This has been vacuumed sealed.
+
+
+212
+0:5:50,9 --> 0:5:51,8
+A can of Bugler on the street
+
+
+213
+0:5:51,8 --> 0:5:55,77
+goes for about 12 bucks.
+
+
+214
+0:5:55,77 --> 0:5:56,27
+>>With papers and all.
+
+
+215
+0:5:56,27 --> 0:5:58,53
+>>With rolling papers.
+
+
+216
+0:5:58,53 --> 0:6:0,27
+This here in the institution is
+
+
+217
+0:6:0,27 --> 0:6:3,27
+about 400 dollars?
+
+
+218
+0:6:3,27 --> 0:6:5,3
+>>If you buy it at the can rate,
+
+
+219
+0:6:5,3 --> 0:6:7,4
+it's about three to $400.
+
+
+220
+0:6:7,4 --> 0:6:8,73
+If you break that down and sell
+
+
+221
+0:6:8,73 --> 0:6:9,73
+it at individual cigarettes like
+
+
+222
+0:6:9,73 --> 0:6:10,6
+most of them do, you're
+
+
+223
+0:6:10,6 --> 0:6:11,77
+probably looking at a $1,000.
+
+
+224
+0:6:11,77 --> 0:6:12,77
+>>It's a big lucrative
+
+
+225
+0:6:12,77 --> 0:6:14,7
+business right now.
+
+
+226
+0:6:14,7 --> 0:6:15,73
+>>And is it organized crime?
+
+
+227
+0:6:15,73 --> 0:6:16,83
+Is it randoms just trying to
+
+
+228
+0:6:16,83 --> 0:6:19,1
+make a buck?
+
+
+229
+0:6:19,1 --> 0:6:21,53
+>>Well, um, it's gang related.
+
+
+230
+0:6:21,53 --> 0:6:22,23
+A lot of it's um, for the
+
+
+231
+0:6:22,23 --> 0:6:24,37
+gang.
+
+
+232
+0:6:24,37 --> 0:6:25,63
+Bottom line is, gangs and dope
+
+
+233
+0:6:25,63 --> 0:6:27,27
+and gangs and money, and
+
+
+234
+0:6:27,27 --> 0:6:28,7
+that's what you have.
+
+
+235
+0:6:28,7 --> 0:6:30,47
+That is their sole mission is to
+
+
+236
+0:6:30,47 --> 0:6:32,17
+make money.
+
+
+237
+0:6:32,17 --> 0:6:36,17
+It's $1,153.
+
+
+238
+0:6:36,17 --> 0:6:37,1
+As you can see.
+
+
+239
+0:6:37,1 --> 0:6:38,6
+He counted it and wrote it on
+
+
+240
+0:6:38,6 --> 0:6:40,47
+the envelope for us, so we
+
+
+241
+0:6:40,47 --> 0:6:42,6
+didn't have to do the math.
+
+
+242
+0:6:42,6 --> 0:6:45,1
+But I'm sure that's just one
+
+
+243
+0:6:45,1 --> 0:6:46,67
+small sample of what's out
+
+
+244
+0:6:46,67 --> 0:6:47,63
+there.
+
+
+245
+0:6:47,63 --> 0:6:49,53
+>>Contraband is big business.
+
+
+246
+0:6:49,53 --> 0:6:51,3
+And all business in prison is
+
+
+247
+0:6:51,3 --> 0:6:53,17
+run by the gangs.
+
+
+248
+0:6:53,17 --> 0:6:54,57
+I returned to yard to see if any
+
+
+249
+0:6:54,57 --> 0:6:56,53
+of the inmates would share their
+
+
+250
+0:6:56,53 --> 0:6:57,6
+experiences in the prison
+
+
+251
+0:6:57,6 --> 0:6:58,97
+economy.
+
+
+252
+0:6:58,97 --> 0:7:0,13
+They were reluctant to speak.
+
+
+253
+0:7:0,13 --> 0:7:2,27
+You guy been having some issues
+
+
+254
+0:7:2,27 --> 0:7:3,17
+up here?
+
+
+255
+0:7:3,17 --> 0:7:3,63
+(producer) Can you say why
+
+
+256
+0:7:3,63 --> 0:7:5,7
+there's been rioting?
+
+
+257
+0:7:5,7 --> 0:7:5,87
+(man off camera) No.
+
+
+258
+0:7:5,87 --> 0:7:6,87
+>>Well, some of us just don't
+
+
+259
+0:7:6,87 --> 0:7:15,3
+get along sometimes.
+
+
+260
+0:7:15,3 --> 0:7:15,9
+There's some things that we
+
+
+261
+0:7:15,9 --> 0:7:18,53
+can't talk about.
+
+
+262
+0:7:18,53 --> 0:7:18,8
+Because it's our world in
+
+
+263
+0:7:18,8 --> 0:7:19,57
+here.
+
+
+264
+0:7:19,57 --> 0:7:20,37
+>>Yeah, you can stay by
+
+
+265
+0:7:20,37 --> 0:7:21,97
+yourself, but then, if something
+
+
+266
+0:7:21,97 --> 0:7:23,17
+happens, if you get in trouble
+
+
+267
+0:7:23,17 --> 0:7:24,8
+by yourself, you're on your
+
+
+268
+0:7:24,8 --> 0:7:27,37
+own.
+
+
+269
+0:7:27,37 --> 0:7:28,3
+>>And like a lot of people, like
+
+
+270
+0:7:28,3 --> 0:7:29,4
+I just had a visit last weekend,
+
+
+271
+0:7:29,4 --> 0:7:30,33
+and my mom asked me, "Well why
+
+
+272
+0:7:30,33 --> 0:7:31,93
+do you have to get involved?"
+
+
+273
+0:7:31,93 --> 0:7:34,3
+Well, that's just prison mom.
+
+
+274
+0:7:34,3 --> 0:7:35,47
+>>So, you're always prepared?
+
+
+275
+0:7:35,47 --> 0:7:37,6
+>>You have to always be ready.
+
+
+276
+0:7:37,6 --> 0:7:38,2
+(Janet) The inmates were
+
+
+277
+0:7:38,2 --> 0:7:39,87
+signaled from off camera to stop
+
+
+278
+0:7:39,87 --> 0:7:41,3
+answering questions and our
+
+
+279
+0:7:41,3 --> 0:7:43,3
+interview was over.
+
+
+280
+0:7:43,3 --> 0:7:44,5
+It made sense.
+
+
+281
+0:7:44,5 --> 0:7:45,73
+I was being escorted by an
+
+
+282
+0:7:45,73 --> 0:7:46,63
+officer.
+
+
+283
+0:7:46,63 --> 0:7:47,67
+And they they were being watched
+
+
+284
+0:7:47,67 --> 0:7:49,27
+by a gang member who refused to
+
+
+285
+0:7:49,27 --> 0:7:50,9
+be filmed.
+
+
+286
+0:7:50,9 --> 0:7:53,0
+I was starting to understand, 90
+
+
+287
+0:7:53,0 --> 0:7:53,97
+percent of prison is spent
+
+
+288
+0:7:53,97 --> 0:7:55,7
+watching.
+
+
+289
+0:7:55,7 --> 0:7:57,73
+The guards watch the prisoners,
+
+
+290
+0:7:57,73 --> 0:7:58,53
+and the prisoners watch the
+
+
+291
+0:7:58,53 --> 0:8:1,13
+guards.
+
+
+292
+0:8:1,13 --> 0:8:2,3
+It is a never ending game of
+
+
+293
+0:8:2,3 --> 0:8:3,53
+hide and seek, where the stakes
+
+
+294
+0:8:3,53 --> 0:8:7,17
+are anything but playful.
+
+
+295
+0:8:7,17 --> 0:8:9,1
+So when we met you today, you
+
+
+296
+0:8:9,1 --> 0:8:10,27
+immediately left because there
+
+
+297
+0:8:10,27 --> 0:8:11,27
+was an assault on one of the
+
+
+298
+0:8:11,27 --> 0:8:11,73
+yards?
+
+
+299
+0:8:11,73 --> 0:8:12,4
+>>There was an assault on one of
+
+
+300
+0:8:12,4 --> 0:8:13,73
+the yards.
+
+
+301
+0:8:13,73 --> 0:8:15,17
+And a Code 2 was called, and
+
+
+302
+0:8:15,17 --> 0:8:16,17
+what we do is we go out to
+
+
+303
+0:8:16,17 --> 0:8:17,9
+assist.
+
+
+304
+0:8:17,9 --> 0:8:20,77
+>>Is gang related activity so
+
+
+305
+0:8:20,77 --> 0:8:22,4
+prevalent that you assume
+
+
+306
+0:8:22,4 --> 0:8:24,5
+automatically, that I know
+
+
+307
+0:8:24,5 --> 0:8:26,27
+you're still investigating,
+
+
+308
+0:8:26,27 --> 0:8:27,93
+but you assume that an assault
+
+
+309
+0:8:27,93 --> 0:8:28,77
+like that is because someone
+
+
+310
+0:8:28,77 --> 0:8:29,33
+didn't do their end of the
+
+
+311
+0:8:29,33 --> 0:8:30,17
+deal?
+
+
+312
+0:8:30,17 --> 0:8:30,8
+>>Something like that needs to
+
+
+313
+0:8:30,8 --> 0:8:31,8
+sanctioned.
+
+
+314
+0:8:31,8 --> 0:8:32,87
+They can't just same, come on
+
+
+315
+0:8:32,87 --> 0:8:36,0
+dude, let's go out there and
+
+
+316
+0:8:36,0 --> 0:8:36,67
+hit this guy.
+
+
+317
+0:8:36,67 --> 0:8:38,5
+They have to get the OK from
+
+
+318
+0:8:38,5 --> 0:8:40,87
+their superiors to go do this.
+
+
+319
+0:8:40,87 --> 0:8:42,13
+A lot of your assaults depend on
+
+
+320
+0:8:42,13 --> 0:8:44,3
+depend on this right here...on
+
+
+321
+0:8:44,3 --> 0:8:45,7
+the flow of contraband coming
+
+
+322
+0:8:45,7 --> 0:8:47,4
+in.
+
+
+323
+0:8:47,4 --> 0:8:48,67
+This is all business.
+
+
+324
+0:8:48,67 --> 0:8:50,23
+It's all about money.
+
+
+325
+0:8:50,23 --> 0:8:52,3
+Don't let anybody tell you
+
+
+326
+0:8:52,3 --> 0:8:53,3
+anything different.
+
+
+327
+0:8:53,3 --> 0:8:55,9
+It's all about money.
+
+
+328
+0:8:55,9 --> 0:8:57,2
+(Janet) I travelled to Avenal to
+
+
+329
+0:8:57,2 --> 0:8:59,5
+embed myself with the ISU, the
+
+
+330
+0:8:59,5 --> 0:9:0,47
+internal security unit charged
+
+
+331
+0:9:0,47 --> 0:9:1,7
+with rooting out prison
+
+
+332
+0:9:1,7 --> 0:9:3,9
+contraband.
+
+
+333
+0:9:3,9 --> 0:9:5,2
+Avenal state prison was designed
+
+
+334
+0:9:5,2 --> 0:9:7,67
+to hold 2,500 prisoners.
+
+
+335
+0:9:7,67 --> 0:9:10,33
+It currently holds 6,500.
+
+
+336
+0:9:10,33 --> 0:9:13,5
+That is 260 percent capacity.
+
+
+337
+0:9:13,5 --> 0:9:15,53
+Avenal is a level two prison.
+
+
+338
+0:9:15,53 --> 0:9:16,67
+That means there is open
+
+
+339
+0:9:16,67 --> 0:9:17,87
+housing.
+
+
+340
+0:9:17,87 --> 0:9:18,63
+And the prisoners are allowed
+
+
+341
+0:9:18,63 --> 0:9:20,6
+more freedom.
+
+
+342
+0:9:20,6 --> 0:9:22,7
+The fact that they don't have
+
+
+343
+0:9:22,7 --> 0:9:23,8
+cells with doors, does it make
+
+
+344
+0:9:23,8 --> 0:9:25,23
+it easier or harder to find
+
+
+345
+0:9:25,23 --> 0:9:26,27
+contraband?
+
+
+346
+0:9:26,27 --> 0:9:29,13
+>>I would say it makes it a lot
+
+
+347
+0:9:29,13 --> 0:9:30,7
+harder, because they can more
+
+
+348
+0:9:30,7 --> 0:9:31,27
+the contraband around a lot
+
+
+349
+0:9:31,27 --> 0:9:32,33
+easier.
+
+
+350
+0:9:32,33 --> 0:9:32,97
+Because they don't have any
+
+
+351
+0:9:32,97 --> 0:9:33,9
+cells or doors, if we search one
+
+
+352
+0:9:33,9 --> 0:9:36,2
+dorm, and they could have just
+
+
+353
+0:9:36,2 --> 0:9:37,17
+taken it out and moved it to the
+
+
+354
+0:9:37,17 --> 0:9:38,67
+next one.
+
+
+355
+0:9:38,67 --> 0:9:39,73
+>>So I'm sort of playing a
+
+
+356
+0:9:39,73 --> 0:9:41,3
+mental video game as I'm
+
+
+357
+0:9:41,3 --> 0:9:42,5
+standing here.
+
+
+358
+0:9:42,5 --> 0:9:43,33
+There's like a thousand
+
+
+359
+0:9:43,33 --> 0:9:44,17
+different places where you could
+
+
+360
+0:9:44,17 --> 0:9:45,33
+hide things.
+
+
+361
+0:9:45,33 --> 0:9:47,87
+Like under your hat.
+
+
+362
+0:9:47,87 --> 0:9:48,2
+>>Yeah.
+
+
+363
+0:9:48,2 --> 0:9:49,33
+Anywhere.
+
+
+364
+0:9:49,33 --> 0:9:51,17
+Like in their socks.
+
+
+365
+0:9:51,17 --> 0:9:53,4
+Anything they have they could
+
+
+366
+0:9:53,4 --> 0:9:55,77
+sew it into their clothing.
+
+
+367
+0:9:55,77 --> 0:9:56,47
+It's very difficult to find
+
+
+368
+0:9:56,47 --> 0:9:58,5
+contraband.
+
+
+369
+0:9:58,5 --> 0:9:59,33
+How would you secure a place
+
+
+370
+0:9:59,33 --> 0:10:1,37
+like this and keep it free of
+
+
+371
+0:10:1,37 --> 0:10:2,13
+contraband?
+
+
+372
+0:10:2,13 --> 0:10:2,87
+Is there anyway to actually do
+
+
+373
+0:10:2,87 --> 0:10:3,87
+it?
+
+
+374
+0:10:3,87 --> 0:10:4,7
+>>Totally, 100 percent?
+
+
+375
+0:10:4,7 --> 0:10:5,57
+No.
+
+
+376
+0:10:5,57 --> 0:10:7,43
+I don't think there is a way.
+
+
+377
+0:10:7,43 --> 0:10:8,4
+Conservative estimate, we catch
+
+
+378
+0:10:8,4 --> 0:10:12,3
+maybe 50 percent of it.
+
+
+379
+0:10:12,3 --> 0:10:13,93
+That's conservative, because
+
+
+380
+0:10:13,93 --> 0:10:14,83
+there's just too many ways for
+
+
+381
+0:10:14,83 --> 0:10:16,73
+the inmates to bring stuff in.
+
+
+382
+0:10:16,73 --> 0:10:17,37
+(Janet) With open cells and
+
+
+383
+0:10:17,37 --> 0:10:19,2
+thousands of hiding places, 
+
+
+384
+0:10:19,2 --> 0:10:20,1
+finding contraband seemed
+
+
+385
+0:10:20,1 --> 0:10:22,6
+hopless.
+
+
+386
+0:10:22,6 --> 0:10:23,47
+The ISU wanted to show
+
+
+387
+0:10:23,47 --> 0:10:25,5
+me the newest trend in prison
+
+
+388
+0:10:25,5 --> 0:10:26,5
+contraband.
+
+
+389
+0:10:26,5 --> 0:10:27,67
+An item that was showing up in
+
+
+390
+0:10:27,67 --> 0:10:30,7
+prisons across the country.
+
+
+391
+0:10:30,7 --> 0:10:31,1
+>>These three bags are from
+
+
+392
+0:10:31,1 --> 0:10:34,2
+December of '08.
+
+
+393
+0:10:34,2 --> 0:10:35,13
+And this is just a portion of
+
+
+394
+0:10:35,13 --> 0:10:36,27
+what we found that month.
+
+
+395
+0:10:36,27 --> 0:10:40,7
+This isn't everything.
+
+
+396
+0:10:40,7 --> 0:10:41,23
+>>Now if you look at this
+
+
+397
+0:10:41,23 --> 0:10:43,53
+photograph, this was one
+
+
+398
+0:10:43,53 --> 0:10:45,13
+seizure.
+
+
+399
+0:10:45,13 --> 0:10:46,23
+You see all the cellphones?
+
+
+400
+0:10:46,23 --> 0:10:47,5
+They had them all individually
+
+
+401
+0:10:47,5 --> 0:10:50,1
+marked up in little packages,
+
+
+402
+0:10:50,1 --> 0:10:52,17
+they had little initials, as to
+
+
+403
+0:10:52,17 --> 0:10:52,93
+who was getting what.
+
+
+404
+0:10:52,93 --> 0:10:53,3
+>>Oh.
+
+
+405
+0:10:53,3 --> 0:10:53,87
+So it was already pre-sold.
+
+
+406
+0:10:53,87 --> 0:10:54,7
+>>It was all ready to go.
+
+
+407
+0:10:54,7 --> 0:10:56,43
+Somebody had already purchased
+
+
+408
+0:10:56,43 --> 0:10:58,0
+this phone.
+
+
+409
+0:10:58,0 --> 0:10:59,1
+Different various types cell
+
+
+410
+0:10:59,1 --> 0:11:1,3
+phones, from low end to high
+
+
+411
+0:11:1,3 --> 0:11:3,2
+type cell phones.
+
+
+412
+0:11:3,2 --> 0:11:4,97
+From little what we call throw
+
+
+413
+0:11:4,97 --> 0:11:7,0
+down, throw away phones up to
+
+
+414
+0:11:7,0 --> 0:11:10,87
+the Blackberrys, the iPhones.
+
+
+415
+0:11:10,87 --> 0:11:13,33
+>>The new Blackberry.
+
+
+416
+0:11:13,33 --> 0:11:15,37
+These just came out so...
+
+
+417
+0:11:15,37 --> 0:11:17,0
+>>Here's a Blackberry.
+
+
+418
+0:11:17,0 --> 0:11:18,13
+>>What is that?
+
+
+419
+0:11:18,13 --> 0:11:19,33
+The Storm?
+
+
+420
+0:11:19,33 --> 0:11:21,1
+>>Yeah, that's what I got.
+
+
+421
+0:11:21,1 --> 0:11:22,3
+Do you have any idea what this
+
+
+422
+0:11:22,3 --> 0:11:23,37
+stuff is going for?
+
+
+423
+0:11:23,37 --> 0:11:24,53
+>>Sure, the low end phones,
+
+
+424
+0:11:24,53 --> 0:11:26,8
+they're going for now, three
+
+
+425
+0:11:26,8 --> 0:11:30,4
+to five hundred, because the
+
+
+426
+0:11:30,4 --> 0:11:31,67
+more we apprehend the stuff,
+
+
+427
+0:11:31,67 --> 0:11:33,2
+price and demand of course goes
+
+
+428
+0:11:33,2 --> 0:11:34,47
+up.
+
+
+429
+0:11:34,47 --> 0:11:35,37
+The higher end cell phones
+
+
+430
+0:11:35,37 --> 0:11:36,5
+you're looking at $1000-
+
+
+431
+0:11:36,5 --> 0:11:38,13
+$1500 depending on like
+
+
+432
+0:11:38,13 --> 0:11:41,6
+Blackberry, iPhone.
+
+
+433
+0:11:41,6 --> 0:11:44,67
+If it's camera capability, it's
+
+
+434
+0:11:44,67 --> 0:11:47,4
+about five to seven hundred.
+
+
+435
+0:11:47,4 --> 0:11:50,17
+>>This one here is the newest
+
+
+436
+0:11:50,17 --> 0:11:51,6
+Blackberry Touch, I think
+
+
+437
+0:11:51,6 --> 0:11:53,13
+it's called the Storm.
+
+
+438
+0:11:53,13 --> 0:11:53,6
+>>That just came out 
+
+
+439
+0:11:53,6 --> 0:11:54,3
+a couple months ago.
+
+
+440
+0:11:54,3 --> 0:11:55,77
+>>Yeah, they're very expensive 
+
+
+441
+0:11:55,77 --> 0:11:58,6
+just to buy, so...
+
+
+442
+0:11:58,6 --> 0:12:0,7
+They'll alter their books and
+
+
+443
+0:12:0,7 --> 0:12:1,3
+they'll put their cell phones
+
+
+444
+0:12:1,3 --> 0:12:3,33
+in there, chargers.
+
+
+445
+0:12:3,33 --> 0:12:4,4
+You open it up and it look like
+
+
+446
+0:12:4,4 --> 0:12:6,37
+a soup, however.
+
+
+447
+0:12:6,37 --> 0:12:7,0
+This is how ingenious these guys
+
+
+448
+0:12:7,0 --> 0:12:8,83
+have gotten.
+
+
+449
+0:12:8,83 --> 0:12:11,2
+You open this up and there's a
+
+
+450
+0:12:11,2 --> 0:12:12,37
+cellphone.
+
+
+451
+0:12:12,37 --> 0:12:14,33
+Get the bars of soap out.
+
+
+452
+0:12:14,33 --> 0:12:15,8
+There's a...there ya go.
+
+
+453
+0:12:15,8 --> 0:12:19,7
+Hollowed out for a cellphone.
+
+
+454
+0:12:19,7 --> 0:12:21,13
+>>They'll get DVD players, and
+
+
+455
+0:12:21,13 --> 0:12:22,6
+movies, and they'll rent it
+
+
+456
+0:12:22,6 --> 0:12:26,3
+out to this guy over here for an
+
+
+457
+0:12:26,3 --> 0:12:28,7
+hour or so.
+
+
+458
+0:12:28,7 --> 0:12:29,23
+Different movies.
+
+
+459
+0:12:29,23 --> 0:12:30,5
+All recent titles.
+
+
+460
+0:12:30,5 --> 0:12:31,8
+A lot of it porn.
+
+
+461
+0:12:31,8 --> 0:12:34,5
+>>It's an all male facility.
+
+
+462
+0:12:34,5 --> 0:12:36,47
+>>There's a market.
+
+
+463
+0:12:36,47 --> 0:12:37,93
+>>There was a guy that was
+
+
+464
+0:12:37,93 --> 0:12:39,33
+conducting a little video
+
+
+465
+0:12:39,33 --> 0:12:41,5
+rental.
+
+
+466
+0:12:41,5 --> 0:12:42,23
+He had a sheet of paper of
+
+
+467
+0:12:42,23 --> 0:12:45,17
+videos that he had, and he'd
+
+
+468
+0:12:45,17 --> 0:12:45,83
+give it to his other
+
+
+469
+0:12:45,83 --> 0:12:48,23
+homeboys, "here you go," and it
+
+
+470
+0:12:48,23 --> 0:12:49,77
+was a rental.
+
+
+471
+0:12:49,77 --> 0:12:50,33
+The same guy that owned that
+
+
+472
+0:12:50,33 --> 0:12:52,1
+iPhone too.
+
+
+473
+0:12:52,1 --> 0:12:53,23
+Didn't have a job, but you
+
+
+474
+0:12:53,23 --> 0:12:54,67
+looked inside his locker, and he
+
+
+475
+0:12:54,67 --> 0:12:57,6
+had food and shoes, and he was
+
+
+476
+0:12:57,6 --> 0:12:59,27
+just hooked up.
+
+
+477
+0:12:59,27 --> 0:13:1,9
+>>Charging?
+
+
+478
+0:13:1,9 --> 0:13:2,47
+We'll show you what happens
+
+
+479
+0:13:2,47 --> 0:13:3,57
+with that.
+
+
+480
+0:13:3,57 --> 0:13:5,7
+When they get the charger, the
+
+
+481
+0:13:5,7 --> 0:13:6,2
+first thing they do is modify
+
+
+482
+0:13:6,2 --> 0:13:7,1
+it.
+
+
+483
+0:13:7,1 --> 0:13:8,13
+>>This is a cell phone charger
+
+
+484
+0:13:8,13 --> 0:13:9,1
+with the housing broke off of
+
+
+485
+0:13:9,1 --> 0:13:11,17
+it.
+
+
+486
+0:13:11,17 --> 0:13:12,37
+That's what you have left, a
+
+
+487
+0:13:12,37 --> 0:13:13,67
+little circuit board.
+
+
+488
+0:13:13,67 --> 0:13:15,2
+They open up their radios.
+
+
+489
+0:13:15,2 --> 0:13:16,27
+They graft it in.
+
+
+490
+0:13:16,27 --> 0:13:18,3
+They wire it in.
+
+
+491
+0:13:18,3 --> 0:13:19,17
+And they put another headphone
+
+
+492
+0:13:19,17 --> 0:13:21,8
+jack.
+
+
+493
+0:13:21,8 --> 0:13:26,1
+And now that's all they need
+
+
+494
+0:13:26,1 --> 0:13:27,37
+to charge their phones.
+
+
+495
+0:13:27,37 --> 0:13:28,23
+>>Who are they calling?
+
+
+496
+0:13:28,23 --> 0:13:28,77
+What are the pictures of?
+
+
+497
+0:13:28,77 --> 0:13:30,13
+>>Well, a lot of them are
+
+
+498
+0:13:30,13 --> 0:13:32,3
+calling loved ones.
+
+
+499
+0:13:32,3 --> 0:13:34,3
+The girlfriend.
+
+
+500
+0:13:34,3 --> 0:13:35,77
+A lot of them are using it for
+
+
+501
+0:13:35,77 --> 0:13:36,9
+their illegal clandestine
+
+
+502
+0:13:36,9 --> 0:13:39,87
+business of orchestrating more
+
+
+503
+0:13:39,87 --> 0:13:41,1
+contraband drops.
+
+
+504
+0:13:41,1 --> 0:13:43,83
+Narcotics drops.
+
+
+505
+0:13:43,83 --> 0:13:45,27
+Doing business, not just here at
+
+
+506
+0:13:45,27 --> 0:13:46,33
+this institution, but up and
+
+
+507
+0:13:46,33 --> 0:13:47,4
+down the state with other
+
+
+508
+0:13:47,4 --> 0:13:49,13
+instutitions.
+
+
+509
+0:13:49,13 --> 0:13:51,73
+We have inmates
+
+
+510
+0:13:51,73 --> 0:13:52,4
+who are coordinating
+
+
+511
+0:13:52,4 --> 0:13:55,93
+escapes.
+
+
+512
+0:13:55,93 --> 0:13:56,93
+May 4, we had an escape, walk
+
+
+513
+0:13:56,93 --> 0:13:58,5
+away from the institution,
+
+
+514
+0:13:58,5 --> 0:14:0,7
+inmate had cell phone.
+
+
+515
+0:14:0,7 --> 0:14:1,23
+Inmate had a cell phone, was
+
+
+516
+0:14:1,23 --> 0:14:2,17
+able to coordinate with somebody
+
+
+517
+0:14:2,17 --> 0:14:3,67
+out on the street, and they
+
+
+518
+0:14:3,67 --> 0:14:4,7
+picked him up in the city of
+
+
+519
+0:14:4,7 --> 0:14:7,7
+Avenal within half an hour of
+
+
+520
+0:14:7,7 --> 0:14:8,9
+him leaving the institution.
+
+
+521
+0:14:8,9 --> 0:14:15,4
+They're coordinating drug drops
+
+
+522
+0:14:15,4 --> 0:14:18,37
+Gangs can conduct their business
+
+
+523
+0:14:18,37 --> 0:14:21,3
+now, they can conduct assaults,
+
+
+524
+0:14:21,3 --> 0:14:23,23
+murder.
+
+
+525
+0:14:23,23 --> 0:14:25,47
+And there's no way to detect
+
+
+526
+0:14:25,47 --> 0:14:26,7
+it because they've got a cell
+
+
+527
+0:14:26,7 --> 0:14:27,47
+phone.
+
+
+528
+0:14:27,47 --> 0:14:28,77
+(Janet) I felt like I understood
+
+
+529
+0:14:28,77 --> 0:14:29,77
+the dangers of having cell
+
+
+530
+0:14:29,77 --> 0:14:30,7
+phones from the officer's
+
+
+531
+0:14:30,7 --> 0:14:32,3
+perspective.
+
+
+532
+0:14:32,3 --> 0:14:32,93
+But I was curious to hear what
+
+
+533
+0:14:32,93 --> 0:14:35,5
+inmates think of the ban.
+
+
+534
+0:14:35,5 --> 0:14:36,7
+I was surprised to hear
+
+
+535
+0:14:36,7 --> 0:14:37,83
+that you're not allowed to 
+
+
+536
+0:14:37,83 --> 0:14:41,47
+have cell phones.
+
+
+537
+0:14:41,47 --> 0:14:42,3
+>>You were surprised to 
+
+
+538
+0:14:42,3 --> 0:14:46,1
+hear that?
+
+
+539
+0:14:46,1 --> 0:14:47,5
+>>We love the internet.
+
+
+540
+0:14:47,5 --> 0:14:48,4
+>>Phone's down there, but
+
+
+541
+0:14:48,4 --> 0:14:49,27
+you're gonna pay
+
+
+542
+0:14:49,27 --> 0:14:53,8
+five, ten dollars a call
+
+
+543
+0:14:53,8 --> 0:14:54,5
+Do you think cell phones should
+
+
+544
+0:14:54,5 --> 0:14:56,43
+be allowed in prison?
+
+
+545
+0:14:56,43 --> 0:14:58,37
+>>Personally yes.
+
+
+546
+0:14:58,37 --> 0:14:59,9
+I don't think it's a major
+
+
+547
+0:14:59,9 --> 0:15:2,37
+problem, just being honest with
+
+
+548
+0:15:2,37 --> 0:15:3,27
+you, you know.
+
+
+549
+0:15:3,27 --> 0:15:5,1
+It would save my momma a whole
+
+
+550
+0:15:5,1 --> 0:15:6,8
+bunch of money on collect calls,
+
+
+551
+0:15:6,8 --> 0:15:7,87
+just for one.
+
+
+552
+0:15:7,87 --> 0:15:9,73
+I guess people can make phone
+
+
+553
+0:15:9,73 --> 0:15:11,8
+calls that are unmonitored and
+
+
+554
+0:15:11,8 --> 0:15:13,9
+make threats or what have you.
+
+
+555
+0:15:13,9 --> 0:15:16,53
+But the same thing can be done
+
+
+556
+0:15:16,53 --> 0:15:20,2
+anyway.
+
+
+557
+0:15:20,2 --> 0:15:21,87
+If somebody was trying to get
+
+
+558
+0:15:21,87 --> 0:15:24,17
+something done to somebody, they
+
+
+559
+0:15:24,17 --> 0:15:25,33
+can do it.
+
+
+560
+0:15:25,33 --> 0:15:26,17
+There's no limit to it.
+
+
+561
+0:15:26,17 --> 0:15:26,9
+There's no stopping it
+
+
+562
+0:15:26,9 --> 0:15:27,83
+actually.
+
+
+563
+0:15:27,83 --> 0:15:29,3
+So I don't think cell phones
+
+
+564
+0:15:29,3 --> 0:15:31,23
+add to that or subtract from
+
+
+565
+0:15:31,23 --> 0:15:32,37
+that.
+
+
+566
+0:15:32,37 --> 0:15:33,23
+>>What about cell phones?
+
+
+567
+0:15:33,23 --> 0:15:34,33
+Were cell phones around--
+
+
+568
+0:15:34,33 --> 0:15:36,23
+>No, no.
+
+
+569
+0:15:36,23 --> 0:15:37,2
+There wasn't no thing
+
+
+570
+0:15:37,2 --> 0:15:38,47
+like cell phones when
+
+
+571
+0:15:38,47 --> 0:15:39,4
+I went to jail.
+
+
+572
+0:15:39,4 --> 0:15:39,9
+>>Have you ever used a 
+
+
+573
+0:15:39,9 --> 0:15:40,37
+cell phone?
+
+
+574
+0:15:40,37 --> 0:15:41,33
+>>No, I don't even know how
+
+
+575
+0:15:41,33 --> 0:15:44,0
+to use it.
+
+
+576
+0:15:44,0 --> 0:15:47,47
+I never even heard or seen them
+
+
+577
+0:15:47,47 --> 0:15:49,73
+so I don't know what they are.
+
+
+578
+0:15:49,73 --> 0:15:50,27
+Welcome back to our
+
+
+579
+0:15:50,27 --> 0:15:51,43
+look at contraband in 
+
+
+580
+0:15:51,43 --> 0:15:52,73
+prisons.
+
+
+581
+0:15:52,73 --> 0:15:53,3
+So far you've seen how
+
+
+582
+0:15:53,3 --> 0:15:54,67
+difficult it is to keep 
+
+
+583
+0:15:54,67 --> 0:15:55,8
+contraband such as
+
+
+584
+0:15:55,8 --> 0:15:56,8
+weapons, drugs, and
+
+
+585
+0:15:56,8 --> 0:15:58,57
+cell phones out of prisons,
+
+
+586
+0:15:58,57 --> 0:15:59,67
+no matter how secure
+
+
+587
+0:15:59,67 --> 0:16:1,1
+they may seem.
+
+
+588
+0:16:1,1 --> 0:16:2,23
+How do officers in prisons 
+
+
+589
+0:16:2,23 --> 0:16:3,2
+actually discover this
+
+
+590
+0:16:3,2 --> 0:16:4,5
+contraband?
+
+
+591
+0:16:4,5 --> 0:16:5,17
+Contributor Janet Choi
+
+
+592
+0:16:5,17 --> 0:16:9,53
+finds out.
+
+
+593
+0:16:9,53 --> 0:16:10,63
+(Janet) California State Prison
+
+
+594
+0:16:10,63 --> 0:16:12,9
+Solano, in Vacaville, CA, is a
+
+
+595
+0:16:12,9 --> 0:16:14,7
+three hour drive from Avenal
+
+
+596
+0:16:14,7 --> 0:16:15,6
+prison.
+
+
+597
+0:16:15,6 --> 0:16:16,6
+I travelled to Solano because I
+
+
+598
+0:16:16,6 --> 0:16:17,83
+was curious to see how other
+
+
+599
+0:16:17,83 --> 0:16:19,1
+prisons were dealing with
+
+
+600
+0:16:19,1 --> 0:16:20,67
+contraband.
+
+
+601
+0:16:20,67 --> 0:16:24,3
+Cell phones off.
+
+
+602
+0:16:24,3 --> 0:16:25,73
+I was especially curious whether
+
+
+603
+0:16:25,73 --> 0:16:26,9
+cell phones were showing up in
+
+
+604
+0:16:26,9 --> 0:16:30,43
+the prison population.
+
+
+605
+0:16:30,43 --> 0:16:34,17
+>>Right there's just about
+
+
+606
+0:16:34,17 --> 0:16:37,73
+1,800 phones.
+
+
+607
+0:16:37,73 --> 0:16:46,3
+(Janet) They were.
+
+
+608
+0:16:46,3 --> 0:16:46,37
+Wow.
+
+
+609
+0:16:46,37 --> 0:16:47,3
+I haven't seen one of those
+
+
+610
+0:16:47,3 --> 0:16:48,0
+before.
+
+
+611
+0:16:48,0 --> 0:16:50,83
+I think Armani would probably be
+
+
+612
+0:16:50,83 --> 0:16:55,7
+a little disappointed.
+
+
+613
+0:16:55,7 --> 0:16:59,27
+>>This was in-- He had this one
+
+
+614
+0:16:59,27 --> 0:17:1,9
+secreted in his anal cavity.
+
+
+615
+0:17:1,9 --> 0:17:3,2
+>>What's the word for that?.
+
+
+616
+0:17:3,2 --> 0:17:4,93
+Kavitzing?
+
+
+617
+0:17:4,93 --> 0:17:6,2
+What's the word?
+
+
+618
+0:17:6,2 --> 0:17:6,77
+(producer) Keister.
+
+
+619
+0:17:6,77 --> 0:17:8,3
+>>Keistering.
+
+
+620
+0:17:8,3 --> 0:17:9,3
+[laughs].
+
+
+621
+0:17:9,3 --> 0:17:9,73
+>>Keister.
+
+
+622
+0:17:9,73 --> 0:17:14,57
+Yes, he had it keistered.
+
+
+623
+0:17:14,57 --> 0:17:16,6
+>>How do you find that?
+
+
+624
+0:17:16,6 --> 0:17:16,93
+>>Pardon me?
+
+
+625
+0:17:16,93 --> 0:17:20,6
+>>How do you find that?
+
+
+626
+0:17:20,6 --> 0:17:22,13
+>>Sometimes when we do a full
+
+
+627
+0:17:22,13 --> 0:17:23,63
+body search, and the way
+
+
+628
+0:17:23,63 --> 0:17:25,73
+that's done is they have to
+
+
+629
+0:17:25,73 --> 0:17:27,33
+bend and squat and spread their
+
+
+630
+0:17:27,33 --> 0:17:30,43
+cheeks, and if you don't have
+
+
+631
+0:17:30,43 --> 0:17:31,13
+enough light, you use a
+
+
+632
+0:17:31,13 --> 0:17:32,73
+flashlight and shine it on their
+
+
+633
+0:17:32,73 --> 0:17:34,73
+anal area.
+
+
+634
+0:17:34,73 --> 0:17:38,17
+A lot times you can see, let's
+
+
+635
+0:17:38,17 --> 0:17:40,5
+say maybe this was a string that
+
+
+636
+0:17:40,5 --> 0:17:41,53
+was tied around this for him to
+
+
+637
+0:17:41,53 --> 0:17:42,4
+get ahold of pull out, so you
+
+
+638
+0:17:42,4 --> 0:17:44,17
+look for something that really
+
+
+639
+0:17:44,17 --> 0:17:45,13
+shouldn't be there.
+
+
+640
+0:17:45,13 --> 0:17:45,73
+>>Right.
+
+
+641
+0:17:45,73 --> 0:17:48,47
+>>Or if it's got moisture
+
+
+642
+0:17:48,47 --> 0:17:50,23
+around it, maybe as you would
+
+
+643
+0:17:50,23 --> 0:17:52,27
+use a lotion or something like
+
+
+644
+0:17:52,27 --> 0:17:54,2
+that, or a glistening.
+
+
+645
+0:17:54,2 --> 0:17:56,8
+Sometimes you ask them to give
+
+
+646
+0:17:56,8 --> 0:17:58,53
+it up and they will.
+
+
+647
+0:17:58,53 --> 0:17:59,8
+We had one guy who basically
+
+
+648
+0:17:59,8 --> 0:18:1,5
+couldn't, and so he had to go
+
+
+649
+0:18:1,5 --> 0:18:2,93
+out to the hospital, and they
+
+
+650
+0:18:2,93 --> 0:18:5,37
+had to give him a little help in
+
+
+651
+0:18:5,37 --> 0:18:11,3
+removing it.
+
+
+652
+0:18:11,3 --> 0:18:11,73
+There are some things 
+
+
+653
+0:18:11,73 --> 0:18:15,17
+that I can't force you to do.
+
+
+654
+0:18:15,17 --> 0:18:16,3
+>>Can't use my grandmother's
+
+
+655
+0:18:16,3 --> 0:18:17,1
+method and rub your
+
+
+656
+0:18:17,1 --> 0:18:21,23
+belly for a while.
+
+
+657
+0:18:21,23 --> 0:18:22,43
+(Janet) I had been impressed by
+
+
+658
+0:18:22,43 --> 0:18:23,8
+the ingenuity of the inmates in
+
+
+659
+0:18:23,8 --> 0:18:24,93
+Avenal.
+
+
+660
+0:18:24,93 --> 0:18:26,73
+I asked if the inmates here had
+
+
+661
+0:18:26,73 --> 0:18:33,1
+any tricks.
+
+
+662
+0:18:33,1 --> 0:18:33,6
+>>Remove this.
+
+
+663
+0:18:33,6 --> 0:18:34,87
+And you can see where he has
+
+
+664
+0:18:34,87 --> 0:18:36,1
+this circuit board installed
+
+
+665
+0:18:36,1 --> 0:18:38,0
+here, that he's added to the
+
+
+666
+0:18:38,0 --> 0:18:39,5
+fan motor.
+
+
+667
+0:18:39,5 --> 0:18:40,23
+And there's another wire
+
+
+668
+0:18:40,23 --> 0:18:42,5
+coming out the back.
+
+
+669
+0:18:42,5 --> 0:18:45,57
+And if you turn it around, you
+
+
+670
+0:18:45,57 --> 0:18:48,3
+can see where he's added thatu
+
+
+671
+0:18:48,3 --> 0:18:50,87
+circuit board to basically
+
+
+672
+0:18:50,87 --> 0:18:53,63
+connect this charger that leads
+
+
+673
+0:18:53,63 --> 0:18:57,67
+to the cell phone.
+
+
+674
+0:18:57,67 --> 0:19:0,87
+We've been finding these quite
+
+
+675
+0:19:0,87 --> 0:19:2,33
+often now.
+
+
+676
+0:19:2,33 --> 0:19:3,17
+This is probably the eighth or
+
+
+677
+0:19:3,17 --> 0:19:3,93
+ninth fan we've found like
+
+
+678
+0:19:3,93 --> 0:19:5,43
+this.
+
+
+679
+0:19:5,43 --> 0:19:5,97
+(Janet) Cell phone's have
+
+
+680
+0:19:5,97 --> 0:19:7,1
+become a necessity for the
+
+
+681
+0:19:7,1 --> 0:19:9,0
+outside world, but I was curious
+
+
+682
+0:19:9,0 --> 0:19:10,4
+why the prisoners were going to
+
+
+683
+0:19:10,4 --> 0:19:12,53
+such lengths to have them
+
+
+684
+0:19:12,53 --> 0:19:13,7
+on the inside.
+
+
+685
+0:19:13,7 --> 0:19:16,57
+Prison...you either adapt
+
+
+686
+0:19:16,57 --> 0:19:17,47
+or you don't.
+
+
+687
+0:19:17,47 --> 0:19:19,8
+I'm in a cell, you're looking
+
+
+688
+0:19:19,8 --> 0:19:22,6
+at maybe 12 hours a day,
+
+
+689
+0:19:22,6 --> 0:19:24,63
+maybe longer.
+
+
+690
+0:19:24,63 --> 0:19:25,6
+You don't understand how
+
+
+691
+0:19:25,6 --> 0:19:29,3
+lonely prison can be.
+
+
+692
+0:19:29,3 --> 0:19:31,3
+>>I miss, social life, being
+
+
+693
+0:19:31,3 --> 0:19:35,3
+with...with significant others.
+
+
+694
+0:19:35,3 --> 0:19:36,5
+I miss being with my family.
+
+
+695
+0:19:36,5 --> 0:19:37,23
+>>Do you have visitors that come
+
+
+696
+0:19:37,23 --> 0:19:38,87
+and visit you?
+
+
+697
+0:19:38,87 --> 0:19:39,47
+>>Of course, I've been married
+
+
+698
+0:19:39,47 --> 0:19:40,53
+three times.
+
+
+699
+0:19:40,53 --> 0:19:41,53
+>>You have?.
+
+
+700
+0:19:41,53 --> 0:19:42,13
+But you've been here for nine
+
+
+701
+0:19:42,13 --> 0:19:43,13
+years?
+
+
+702
+0:19:43,13 --> 0:19:44,7
+>>19.?
+
+
+703
+0:19:44,7 --> 0:19:45,27
+I've been down for 19 years,
+
+
+704
+0:19:45,27 --> 0:19:46,3
+married three times.
+
+
+705
+0:19:46,3 --> 0:19:47,43
+>>So you what you're saying is
+
+
+706
+0:19:47,43 --> 0:19:48,37
+you knew all these women before
+
+
+707
+0:19:48,37 --> 0:19:49,63
+you came in here.
+
+
+708
+0:19:49,63 --> 0:19:53,17
+>>Not necessarily.
+
+
+709
+0:19:53,17 --> 0:19:55,97
+I mean I put an ad in one time
+
+
+710
+0:19:55,97 --> 0:19:57,17
+in the Sacramento Bee.
+
+
+711
+0:19:57,17 --> 0:19:57,77
+And that's how I met my first
+
+
+712
+0:19:57,77 --> 0:20:0,6
+wife.
+
+
+713
+0:20:0,6 --> 0:20:1,27
+>>Wow.
+
+
+714
+0:20:1,27 --> 0:20:1,93
+>>And then you have people on
+
+
+715
+0:20:1,93 --> 0:20:3,27
+the internet.
+
+
+716
+0:20:3,27 --> 0:20:4,3
+Things are different, times have
+
+
+717
+0:20:4,3 --> 0:20:6,3
+changed.
+
+
+718
+0:20:6,3 --> 0:20:6,6
+And I'm about to get married
+
+
+719
+0:20:6,6 --> 0:20:7,8
+again...maybe.
+
+
+720
+0:20:7,8 --> 0:20:8,27
+(Janet) Inmates were 
+
+
+721
+0:20:8,27 --> 0:20:9,7
+reluctant to talk about
+
+
+722
+0:20:9,7 --> 0:20:10,17
+contraband, fearing
+
+
+723
+0:20:10,17 --> 0:20:12,13
+retaliation from the gangs.
+
+
+724
+0:20:12,13 --> 0:20:13,63
+As silly as it seems, we're
+
+
+725
+0:20:13,63 --> 0:20:15,67
+forced to use code words.
+
+
+726
+0:20:15,67 --> 0:20:17,57
+If you wanted to get a 
+
+
+727
+0:20:17,57 --> 0:20:18,53
+certain type of cereal that
+
+
+728
+0:20:18,53 --> 0:20:20,43
+wasn't in the catalog, you'd
+
+
+729
+0:20:20,43 --> 0:20:21,7
+be able to get it?
+
+
+730
+0:20:21,7 --> 0:20:23,53
+>>If I really wanted a cell
+
+
+731
+0:20:23,53 --> 0:20:25,17
+phone and I had the money
+
+
+732
+0:20:25,17 --> 0:20:26,43
+to buy it, I'd probably go
+
+
+733
+0:20:26,43 --> 0:20:27,1
+get it.
+
+
+734
+0:20:27,1 --> 0:20:29,93
+>>How?
+
+
+735
+0:20:29,93 --> 0:20:30,5
+>>You could proabably bring 
+
+
+736
+0:20:30,5 --> 0:20:31,13
+it in.
+
+
+737
+0:20:31,13 --> 0:20:31,77
+If the money's right, she's
+
+
+738
+0:20:31,77 --> 0:20:34,43
+probably willing to do it.
+
+
+739
+0:20:34,43 --> 0:20:35,27
+Now, you wonder how I'm
+
+
+740
+0:20:35,27 --> 0:20:36,27
+able to meet people, that's just
+
+
+741
+0:20:36,27 --> 0:20:38,3
+one sure way of doing it.
+
+
+742
+0:20:38,3 --> 0:20:41,3
+If it comes down to that.
+
+
+743
+0:20:41,3 --> 0:20:42,23
+(Janet) Talking to this inmate I
+
+
+744
+0:20:42,23 --> 0:20:43,43
+understood perhaps the biggest
+
+
+745
+0:20:43,43 --> 0:20:46,23
+allure of cellphones.
+
+
+746
+0:20:46,23 --> 0:20:47,97
+They were a way off the yard.
+
+
+747
+0:20:47,97 --> 0:20:56,13
+If only for a moment.
+
+
+748
+0:20:56,13 --> 0:20:56,77
+(producer) Want to show us your
+
+
+749
+0:20:56,77 --> 0:20:58,73
+whistle?
+
+
+750
+0:20:58,73 --> 0:20:59,43
+>>So, hopefully, I won't have
+
+
+751
+0:20:59,43 --> 0:21:1,47
+to use this thing.
+
+
+752
+0:21:1,47 --> 0:21:2,67
+This whistle is in case I find
+
+
+753
+0:21:2,67 --> 0:21:28,83
+myself in trouble.
+
+
+754
+0:21:28,83 --> 0:21:29,47
+In a typical cell, what are you
+
+
+755
+0:21:29,47 --> 0:21:31,7
+looking for?
+
+
+756
+0:21:31,7 --> 0:21:32,3
+>>In this case, we're looking
+
+
+757
+0:21:32,3 --> 0:21:34,3
+for any kind of contraband.
+
+
+758
+0:21:34,3 --> 0:21:34,97
+Could be weapons, could be
+
+
+759
+0:21:34,97 --> 0:21:36,23
+drugs, could be drug
+
+
+760
+0:21:36,23 --> 0:21:37,7
+paraphernalia, could be cell
+
+
+761
+0:21:37,7 --> 0:21:39,33
+phones.
+
+
+762
+0:21:39,33 --> 0:21:43,17
+Could be any type of article
+
+
+763
+0:21:43,17 --> 0:21:44,87
+that they can't have.
+
+
+764
+0:21:44,87 --> 0:21:46,57
+And where we're looking is
+
+
+765
+0:21:46,57 --> 0:21:47,7
+virtually any area inside the
+
+
+766
+0:21:47,7 --> 0:21:49,1
+cell.
+
+
+767
+0:21:49,1 --> 0:21:52,37
+Common areas are their books.
+
+
+768
+0:21:52,37 --> 0:21:54,83
+Inside their coffee pots.
+
+
+769
+0:21:54,83 --> 0:21:57,3
+Under the lids of the toilets,
+
+
+770
+0:21:57,3 --> 0:21:57,9
+and some of their hiding places
+
+
+771
+0:21:57,9 --> 0:21:58,6
+now, as I was telling you
+
+
+772
+0:21:58,6 --> 0:21:59,67
+before, could be behind these
+
+
+773
+0:21:59,67 --> 0:22:2,5
+safe plates.
+
+
+774
+0:22:2,5 --> 0:22:5,37
+Because...you see these gouges?
+
+
+775
+0:22:5,37 --> 0:22:8,6
+They could have twisted this,
+
+
+776
+0:22:8,6 --> 0:22:9,6
+gotten behind there and put cell
+
+
+777
+0:22:9,6 --> 0:22:13,33
+phones there.
+
+
+778
+0:22:13,33 --> 0:22:32,53
+>>Just got a paper clip.
+
+
+779
+0:22:32,53 --> 0:22:36,8
+So this toilet is empty.
+
+
+780
+0:22:36,8 --> 0:22:37,67
+Come inside here.
+
+
+781
+0:22:37,67 --> 0:22:42,1
+Come all the way in.
+
+
+782
+0:22:42,1 --> 0:22:43,4
+They've actually figured out a
+
+
+783
+0:22:43,4 --> 0:22:44,93
+way to remove these rivets off
+
+
+784
+0:22:44,93 --> 0:22:46,9
+these doors.
+
+
+785
+0:22:46,9 --> 0:22:48,2
+And this door's hollow.
+
+
+786
+0:22:48,2 --> 0:22:49,7
+So once they remove these
+
+
+787
+0:22:49,7 --> 0:22:50,67
+rivets, they could basically pry
+
+
+788
+0:22:50,67 --> 0:22:53,17
+that plate off, right?
+
+
+789
+0:22:53,17 --> 0:22:54,67
+And we've found when they need
+
+
+790
+0:22:54,67 --> 0:22:56,13
+to access it, they just pull it
+
+
+791
+0:22:56,13 --> 0:22:57,2
+off, and they have their
+
+
+792
+0:22:57,2 --> 0:22:59,63
+contraband tied to a string, at
+
+
+793
+0:22:59,63 --> 0:23:2,3
+the bottom of the door.
+
+
+794
+0:23:2,3 --> 0:23:2,7
+(Janet) Wow, it's hard to breath
+
+
+795
+0:23:2,7 --> 0:23:3,83
+in here.
+
+
+796
+0:23:3,83 --> 0:23:5,13
+It's hot; I'm sweating.
+
+
+797
+0:23:5,13 --> 0:23:5,77
+There's no open windows 
+
+
+798
+0:23:5,77 --> 0:23:7,8
+in there.
+
+
+799
+0:23:7,8 --> 0:23:8,47
+>>This is pretty much a staple
+
+
+800
+0:23:8,47 --> 0:23:10,87
+food.
+
+
+801
+0:23:10,87 --> 0:23:12,3
+>>Good old ramen noodles.
+
+
+802
+0:23:12,3 --> 0:23:13,33
+College food.
+
+
+803
+0:23:13,33 --> 0:23:13,63
+>>Yeah.
+
+
+804
+0:23:13,63 --> 0:23:15,1
+It's cheap.
+
+
+805
+0:23:15,1 --> 0:23:19,3
+Filling.
+
+
+806
+0:23:19,3 --> 0:23:21,5
+They'll have like a hundred of
+
+
+807
+0:23:21,5 --> 0:23:24,73
+these things in a bag, and
+
+
+808
+0:23:24,73 --> 0:23:26,13
+usually the one at the bottom is
+
+
+809
+0:23:26,13 --> 0:23:29,77
+the one with the contraband.
+
+
+810
+0:23:29,77 --> 0:23:30,3
+(producer) Is this guy an
+
+
+811
+0:23:30,3 --> 0:23:31,0
+affluent inmate, because he has
+
+
+812
+0:23:31,0 --> 0:23:32,23
+all this stuff?, 
+
+
+813
+0:23:32,23 --> 0:23:34,2
+>>This isn't anything.
+
+
+814
+0:23:34,2 --> 0:23:38,63
+Some of these have, five, six,
+
+
+815
+0:23:38,63 --> 0:23:45,1
+seven, eight bags of canteen.
+
+
+816
+0:23:45,1 --> 0:23:45,77
+Typically, if they have a lot of
+
+
+817
+0:23:45,77 --> 0:23:49,2
+canteen, it's typically a sign
+
+
+818
+0:23:49,2 --> 0:23:52,43
+that he's involved in some
+
+
+819
+0:23:52,43 --> 0:23:54,4
+kind of illegal activity.
+
+
+820
+0:23:54,4 --> 0:23:55,3
+Maybe drug related.
+
+
+821
+0:23:55,3 --> 0:23:56,3
+Maybe cell phone related.
+
+
+822
+0:23:56,3 --> 0:23:58,3
+But he's being paid.
+
+
+823
+0:23:58,3 --> 0:23:59,7
+This is their source of payment,
+
+
+824
+0:23:59,7 --> 0:24:1,93
+too.
+
+
+825
+0:24:1,93 --> 0:24:4,37
+They use that to pay off debts.
+
+
+826
+0:24:4,37 --> 0:24:6,57
+These guys bet in here too.
+
+
+827
+0:24:6,57 --> 0:24:7,27
+They bet on college teams.
+
+
+828
+0:24:7,27 --> 0:24:9,7
+They bet on sports teams.
+
+
+829
+0:24:9,7 --> 0:24:12,3
+This is the money.
+
+
+830
+0:24:12,3 --> 0:24:13,3
+(Janet) It takes an hour or so
+
+
+831
+0:24:13,3 --> 0:24:14,93
+to search a single cell which
+
+
+832
+0:24:14,93 --> 0:24:16,7
+makes the battle against
+
+
+833
+0:24:16,7 --> 0:24:20,1
+contraband seem hard to win.
+
+
+834
+0:24:20,1 --> 0:24:21,53
+But then Officer Medina found
+
+
+835
+0:24:21,53 --> 0:24:22,7
+something.
+
+
+836
+0:24:22,7 --> 0:24:23,4
+>>He has a phone in here
+
+
+837
+0:24:23,4 --> 0:24:24,23
+somewhere.
+
+
+838
+0:24:24,23 --> 0:24:25,27
+>>Why do you say that?
+
+
+839
+0:24:25,27 --> 0:24:26,6
+>>He has an alternate AC
+
+
+840
+0:24:26,6 --> 0:24:30,87
+adaptor.
+
+
+841
+0:24:30,87 --> 0:24:31,43
+You can tell that it's been
+
+
+842
+0:24:31,43 --> 0:24:32,83
+added on there.
+
+
+843
+0:24:32,83 --> 0:24:35,7
+See where it's cut?
+
+
+844
+0:24:35,7 --> 0:24:37,6
+So that, more than likely, fits
+
+
+845
+0:24:37,6 --> 0:24:39,57
+a phone.
+
+
+846
+0:24:39,57 --> 0:24:40,17
+>>How do you know it's in here
+
+
+847
+0:24:40,17 --> 0:24:41,2
+and not on him?
+
+
+848
+0:24:41,2 --> 0:24:41,6
+>>It could be.?
+
+
+849
+0:24:41,6 --> 0:24:43,9
+He could have it walking around
+
+
+850
+0:24:43,9 --> 0:24:46,67
+on the yard.
+
+
+851
+0:24:46,67 --> 0:24:48,7
+Or it could be in here.
+
+
+852
+0:24:48,7 --> 0:24:50,73
+Just have to find it.
+
+
+853
+0:24:50,73 --> 0:24:51,47
+(producer) But the AC adaptor is
+
+
+854
+0:24:51,47 --> 0:24:52,67
+contraband?
+
+
+855
+0:24:52,67 --> 0:24:53,47
+>>Now that it's been altered.
+
+
+856
+0:24:53,47 --> 0:24:59,9
+Yeah, it's contraband.
+
+
+857
+0:24:59,9 --> 0:25:0,8
+When you find something like
+
+
+858
+0:25:0,8 --> 0:25:2,3
+that, you tend to step it up a
+
+
+859
+0:25:2,3 --> 0:25:2,93
+bit.
+
+
+860
+0:25:2,93 --> 0:25:6,6
+Now you want to find it.
+
+
+861
+0:25:6,6 --> 0:25:7,57
+So the next step is to go find
+
+
+862
+0:25:7,57 --> 0:25:9,17
+him.
+
+
+863
+0:25:9,17 --> 0:25:9,97
+Or he could have passed it off
+
+
+864
+0:25:9,97 --> 0:25:13,17
+to one of the homeboys also.
+
+
+865
+0:25:13,17 --> 0:25:14,5
+It's like finding a needle in
+
+
+866
+0:25:14,5 --> 0:25:19,3
+a haystack at this point.
+
+
+867
+0:25:19,3 --> 0:25:20,7
+Well, we got beat this time.
+
+
+868
+0:25:20,7 --> 0:25:21,37
+Sometimes you win, sometimes you
+
+
+869
+0:25:21,37 --> 0:25:25,33
+lose.
+
+
+870
+0:25:25,33 --> 0:25:26,8
+>>We leave a receipt, letting
+
+
+871
+0:25:26,8 --> 0:25:28,43
+the inmate know, these things
+
+
+872
+0:25:28,43 --> 0:25:31,77
+have been confiscated.
+
+
+873
+0:25:31,77 --> 0:25:33,1
+>>That's rather considerate.
+
+
+874
+0:25:33,1 --> 0:25:34,9
+>>Oh yeah.
+
+
+875
+0:25:34,9 --> 0:25:36,3
+Are you going to show him that
+
+
+876
+0:25:36,3 --> 0:25:37,2
+you have the adapter?
+
+
+877
+0:25:37,2 --> 0:25:38,27
+>>Yeah, I believe this is the
+
+
+878
+0:25:38,27 --> 0:25:42,17
+inmate here, those two guys.
+
+
+879
+0:25:42,17 --> 0:25:43,27
+>>That's my cellies.
+
+
+880
+0:25:43,27 --> 0:25:47,3
+>>That's your cellies?
+
+
+881
+0:25:47,3 --> 0:25:47,5
+OK.
+
+
+882
+0:25:47,5 --> 0:25:48,7
+I'll leave you a receipt for
+
+
+883
+0:25:48,7 --> 0:25:50,1
+the search.
+
+
+884
+0:25:50,1 --> 0:25:52,5
+What I like to do is, uh, let
+
+
+885
+0:25:52,5 --> 0:25:54,23
+the inmate know what I took.
+
+
+886
+0:25:54,23 --> 0:25:55,2
+Why I took it.
+
+
+887
+0:25:55,2 --> 0:26:12,5
+So that's what I did.
+
+
+888
+0:26:12,5 --> 0:26:13,67
+(Janet) Solano State Prison is
+
+
+889
+0:26:13,67 --> 0:26:15,73
+designed to hold 2,610
+
+
+890
+0:26:15,73 --> 0:26:17,5
+prisoners.
+
+
+891
+0:26:17,5 --> 0:26:19,33
+It currently holds 6,047.
+
+
+892
+0:26:19,33 --> 0:26:22,7
+I was inside California State
+
+
+893
+0:26:22,7 --> 0:26:24,57
+Prison Solano to investigate
+
+
+894
+0:26:24,57 --> 0:26:27,57
+contraband in prison.
+
+
+895
+0:26:27,57 --> 0:26:28,8
+In my search I had been
+
+
+896
+0:26:28,8 --> 0:26:29,93
+surprised to see how many
+
+
+897
+0:26:29,93 --> 0:26:31,47
+things the prisoners were
+
+
+898
+0:26:31,47 --> 0:26:33,47
+allowed to have.
+
+
+899
+0:26:33,47 --> 0:26:35,2
+We're standing in front of the
+
+
+900
+0:26:35,2 --> 0:26:36,3
+canteen.
+
+
+901
+0:26:36,3 --> 0:26:37,53
+This is where inmates can buy
+
+
+902
+0:26:37,53 --> 0:26:38,8
+stuff off of a list.
+
+
+903
+0:26:38,8 --> 0:26:39,43
+It's where money can be useful.
+
+
+904
+0:26:39,43 --> 0:26:40,3
+So on this list you have
+
+
+905
+0:26:40,3 --> 0:26:41,83
+everything from brown rice, to
+
+
+906
+0:26:41,83 --> 0:26:48,83
+razors, to TV adaptors.
+
+
+907
+0:26:48,83 --> 0:26:50,5
+Is there anything they don't
+
+
+908
+0:26:50,5 --> 0:26:51,17
+have that you wish that they
+
+
+909
+0:26:51,17 --> 0:26:53,1
+had?
+
+
+910
+0:26:53,1 --> 0:26:53,73
+>>There's a lot things I wish
+
+
+911
+0:26:53,73 --> 0:26:56,17
+they had like shrimp.
+
+
+912
+0:26:56,17 --> 0:26:57,5
+Clams and stuff.
+
+
+913
+0:26:57,5 --> 0:26:58,13
+But we have to get them from
+
+
+914
+0:26:58,13 --> 0:27:0,7
+quarterly packages.
+
+
+915
+0:27:0,7 --> 0:27:0,87
+But other than that, they have
+
+
+916
+0:27:0,87 --> 0:27:2,8
+most of the stuff that I eat
+
+
+917
+0:27:2,8 --> 0:27:3,67
+anyway, you know.
+
+
+918
+0:27:3,67 --> 0:27:6,7
+Sausages, doughnuts, lollipops.
+
+
+919
+0:27:6,7 --> 0:27:9,83
+A lot of sweets.
+
+
+920
+0:27:9,83 --> 0:27:10,57
+I already have food from
+
+
+921
+0:27:10,57 --> 0:27:12,87
+yesterday.
+
+
+922
+0:27:12,87 --> 0:27:14,77
+>>You got a sweet tooth.
+
+
+923
+0:27:14,77 --> 0:27:15,77
+>> OK, then can I please get,
+
+
+924
+0:27:15,77 --> 0:27:20,0
+uh, ten more sausages?
+
+
+925
+0:27:20,0 --> 0:27:20,5
+>>Ten more sausages?
+
+
+926
+0:27:20,5 --> 0:27:21,2
+>>You're going to eat all that
+
+
+927
+0:27:21,2 --> 0:27:21,7
+sausage by yourself?
+
+
+928
+0:27:21,7 --> 0:27:22,27
+>>Yeah.
+
+
+929
+0:27:22,27 --> 0:27:22,93
+I'll eat it, but over a period
+
+
+930
+0:27:22,93 --> 0:27:24,37
+of time.
+
+
+931
+0:27:24,37 --> 0:27:25,37
+>>The Prisoner passed out
+
+
+932
+0:27:25,37 --> 0:27:26,67
+popsicles to his friends on the
+
+
+933
+0:27:26,67 --> 0:27:27,8
+yard.
+
+
+934
+0:27:27,8 --> 0:27:28,5
+At first I thought he was
+
+
+935
+0:27:28,5 --> 0:27:29,97
+simply being nice, but I
+
+
+936
+0:27:29,97 --> 0:27:31,67
+recalled in here, food is
+
+
+937
+0:27:31,67 --> 0:27:34,43
+money.
+
+
+938
+0:27:34,43 --> 0:27:35,43
+Was this a friendly gesture, or
+
+
+939
+0:27:35,43 --> 0:27:41,83
+payback for a debt?
+
+
+940
+0:27:41,83 --> 0:27:42,67
+I found this inmate listening
+
+
+941
+0:27:42,67 --> 0:27:44,87
+to a walkman.
+
+
+942
+0:27:44,87 --> 0:27:45,87
+>>Is there any stuff you wish
+
+
+943
+0:27:45,87 --> 0:27:47,3
+you can have that you wish you
+
+
+944
+0:27:47,3 --> 0:27:48,37
+did have?
+
+
+945
+0:27:48,37 --> 0:27:49,9
+>>DVD players.
+
+
+946
+0:27:49,9 --> 0:27:51,13
+>>You miss DVDs.
+
+
+947
+0:27:51,13 --> 0:27:51,8
+>>Yeah, we don't get DVD
+
+
+948
+0:27:51,8 --> 0:27:53,63
+players.
+
+
+949
+0:27:53,63 --> 0:27:54,6
+Wish we had that, though.
+
+
+950
+0:27:54,6 --> 0:27:56,0
+That'd be cool.
+
+
+951
+0:27:56,0 --> 0:27:57,3
+I'll give it to them.
+
+
+952
+0:27:57,3 --> 0:27:58,37
+They played "The Spirit."
+
+
+953
+0:27:58,37 --> 0:27:59,37
+You seen "The Spirit?"
+
+
+954
+0:27:59,37 --> 0:28:0,1
+>>Uh-uh.
+
+
+955
+0:28:0,1 --> 0:28:0,87
+>>It's a new movie out.
+
+
+956
+0:28:0,87 --> 0:28:2,3
+They played that on Channel 7.
+
+
+957
+0:28:2,3 --> 0:28:3,73
+It's like a movie channel for
+
+
+958
+0:28:3,73 --> 0:28:5,27
+the prisoners, all across the
+
+
+959
+0:28:5,27 --> 0:28:8,47
+prisons, Channel 7.
+
+
+960
+0:28:8,47 --> 0:28:9,73
+You know what I mean?
+
+
+961
+0:28:9,73 --> 0:28:10,9
+>>Popcicles, dominos, walkmen.
+
+
+962
+0:28:10,9 --> 0:28:12,83
+They had it pretty good.
+
+
+963
+0:28:12,83 --> 0:28:13,87
+But like all things in here,
+
+
+964
+0:28:13,87 --> 0:28:17,0
+the truth is not on the
+
+
+965
+0:28:17,0 --> 0:28:19,0
+surface.
+
+
+966
+0:28:19,0 --> 0:28:20,5
+[beeping]
+
+
+967
+0:28:20,5 --> 0:28:21,27
+[woman talking on the
+
+
+968
+0:28:21,27 --> 0:28:26,8
+loudspeaker]
+
+
+969
+0:28:26,8 --> 0:28:28,5
+>>An alarm went
+
+
+970
+0:28:28,5 --> 0:28:30,7
+off in one of the buildings.
+
+
+971
+0:28:30,7 --> 0:28:31,23
+So that's why if you look
+
+
+972
+0:28:31,23 --> 0:28:31,93
+around, everybody is seated
+
+
+973
+0:28:31,93 --> 0:28:36,5
+right now.
+
+
+974
+0:28:36,5 --> 0:28:47,7
+It was a false activation.
+
+
+975
+0:28:47,7 --> 0:28:48,33
+>>I had been told that violence
+
+
+976
+0:28:48,33 --> 0:28:49,7
+and contraband are intimately
+
+
+977
+0:28:49,7 --> 0:28:50,53
+linked, and nearly all violence
+
+
+978
+0:28:50,53 --> 0:28:54,23
+is sanctioned by the gangs.
+
+
+979
+0:28:54,23 --> 0:28:54,97
+>>If you look in the yard, you
+
+
+980
+0:28:54,97 --> 0:28:56,3
+can start to see how the
+
+
+981
+0:28:56,3 --> 0:28:59,93
+prisons are segregated.
+
+
+982
+0:28:59,93 --> 0:29:1,23
+In this corner, you can see the
+
+
+983
+0:29:1,23 --> 0:29:3,53
+Southern Hispanics, on the
+
+
+984
+0:29:3,53 --> 0:29:5,2
+other side, on the other side
+
+
+985
+0:29:5,2 --> 0:29:6,5
+you can see the blacks and the
+
+
+986
+0:29:6,5 --> 0:29:7,7
+Northern Hispanics and whites
+
+
+987
+0:29:7,7 --> 0:29:14,23
+over here.
+
+
+988
+0:29:14,23 --> 0:29:15,57
+(lead officer) If you look at
+
+
+989
+0:29:15,57 --> 0:29:16,17
+these two gentlemen over here
+
+
+990
+0:29:16,17 --> 0:29:16,97
+on this bench that just sat
+
+
+991
+0:29:16,97 --> 0:29:17,7
+down with the baseball hats on.
+
+
+992
+0:29:17,7 --> 0:29:20,33
+They're Nortenos, and that's
+
+
+993
+0:29:20,33 --> 0:29:22,43
+where they're supposed to be
+
+
+994
+0:29:22,43 --> 0:29:23,7
+when yard opens up.
+
+
+995
+0:29:23,7 --> 0:29:23,77
+That's their post, that's their
+
+
+996
+0:29:23,77 --> 0:29:24,77
+bench.
+
+
+997
+0:29:24,77 --> 0:29:25,4
+And they stay there.
+
+
+998
+0:29:25,4 --> 0:29:26,53
+Now the rest of the Nortenos
+
+
+999
+0:29:26,53 --> 0:29:27,63
+will walk the yard.
+
+
+1000
+0:29:27,63 --> 0:29:28,87
+And like Officer Sandoval said,
+
+
+1001
+0:29:28,87 --> 0:29:29,9
+they'll count.
+
+
+1002
+0:29:29,9 --> 0:29:30,67
+They'll count the other
+
+
+1003
+0:29:30,67 --> 0:29:33,87
+factions out on the yard, and
+
+
+1004
+0:29:33,87 --> 0:29:34,43
+they'll let everybody know,
+
+
+1005
+0:29:34,43 --> 0:29:35,13
+okay, this is the number we
+
+
+1006
+0:29:35,13 --> 0:29:35,7
+have out here on the blacks,
+
+
+1007
+0:29:35,7 --> 0:29:37,53
+this is what we have on the
+
+
+1008
+0:29:37,53 --> 0:29:39,3
+Surenos, on the whites, and so
+
+
+1009
+0:29:39,3 --> 0:29:40,7
+on.
+
+
+1010
+0:29:40,7 --> 0:29:42,3
+And then they'll adjust their
+
+
+1011
+0:29:42,3 --> 0:29:43,7
+yard activity, and they'll post
+
+
+1012
+0:29:43,7 --> 0:29:45,3
+up on various areas of the yard
+
+
+1013
+0:29:45,3 --> 0:29:46,3
+and they watch for us walking
+
+
+1014
+0:29:46,3 --> 0:29:47,73
+on the yard also and they'll
+
+
+1015
+0:29:47,73 --> 0:29:48,67
+give little cues to each other.
+
+
+1016
+0:29:48,67 --> 0:29:50,5
+And if they see us coming down
+
+
+1017
+0:29:50,5 --> 0:29:53,5
+the run here he may take off
+
+
+1018
+0:29:53,5 --> 0:29:55,2
+his hat and put it on backwards
+
+
+1019
+0:29:55,2 --> 0:29:56,3
+he may scratch his head,
+
+
+1020
+0:29:56,3 --> 0:29:57,63
+something to signal everybody
+
+
+1021
+0:29:57,63 --> 0:29:58,93
+else on the yard that the
+
+
+1022
+0:29:58,93 --> 0:29:59,6
+squads coming on the yard, and
+
+
+1023
+0:29:59,6 --> 0:30:1,1
+all that illegal activity tends
+
+
+1024
+0:30:1,1 --> 0:30:2,7
+to stop.
+
+
+1025
+0:30:2,7 --> 0:30:3,3
+They don't like us out here.
+
+
+1026
+0:30:3,3 --> 0:30:4,1
+(Janet) With so many different
+
+
+1027
+0:30:4,1 --> 0:30:4,9
+gangs, sharing the yard at the
+
+
+1028
+0:30:4,9 --> 0:30:6,2
+same time, violence seemed
+
+
+1029
+0:30:6,2 --> 0:30:7,23
+inevitable.
+
+
+1030
+0:30:7,23 --> 0:30:8,27
+Part of the ISU's job is to
+
+
+1031
+0:30:8,27 --> 0:30:9,3
+keep prison weapons off the
+
+
+1032
+0:30:9,3 --> 0:30:11,97
+yard.
+
+
+1033
+0:30:11,97 --> 0:30:12,57
+>>Sandoval is probably looking
+
+
+1034
+0:30:12,57 --> 0:30:14,7
+for weapons as we speak.
+
+
+1035
+0:30:14,7 --> 0:30:14,83
+There he is see him over there
+
+
+1036
+0:30:14,83 --> 0:30:16,4
+by building nine?
+
+
+1037
+0:30:16,4 --> 0:30:17,13
+>>Oh yeah.
+
+
+1038
+0:30:17,13 --> 0:30:18,7
+>>He's got a nose like a dog's
+
+
+1039
+0:30:18,7 --> 0:30:20,0
+have it for drugs.
+
+
+1040
+0:30:20,0 --> 0:30:24,33
+He's got a nose for weapons.
+
+
+1041
+0:30:24,33 --> 0:30:25,6
+>>What do you find knives?
+
+
+1042
+0:30:25,6 --> 0:30:27,73
+>>Oh yeah, lots of knives.
+
+
+1043
+0:30:27,73 --> 0:30:30,2
+Usually knives in here.
+
+
+1044
+0:30:30,2 --> 0:30:30,5
+Rods.
+
+
+1045
+0:30:30,5 --> 0:30:32,33
+Or flat stock.
+
+
+1046
+0:30:32,33 --> 0:30:33,57
+Sharpened up, handles ready to
+
+
+1047
+0:30:33,57 --> 0:30:35,8
+go.
+
+
+1048
+0:30:35,8 --> 0:30:38,9
+Look at this.
+
+
+1049
+0:30:38,9 --> 0:30:40,23
+But if there had been something
+
+
+1050
+0:30:40,23 --> 0:30:41,13
+there, they might have been,
+
+
+1051
+0:30:41,13 --> 0:30:42,27
+they might have moved it
+
+
+1052
+0:30:42,27 --> 0:30:43,53
+already.
+
+
+1053
+0:30:43,53 --> 0:30:44,1
+(Janet) How often do you find
+
+
+1054
+0:30:44,1 --> 0:30:45,73
+stuff out here?
+
+
+1055
+0:30:45,73 --> 0:30:47,33
+>>Um, sometimes you'll find
+
+
+1056
+0:30:47,33 --> 0:30:50,83
+like three or four a day,
+
+
+1057
+0:30:50,83 --> 0:30:51,3
+you can find weapons
+
+
+1058
+0:30:51,3 --> 0:30:52,47
+buried all over.
+
+
+1059
+0:30:52,47 --> 0:30:53,3
+You can find them buried around
+
+
+1060
+0:30:53,3 --> 0:30:56,3
+their exercise areas.
+
+
+1061
+0:30:56,3 --> 0:30:56,63
+They have one guy responsible
+
+
+1062
+0:30:56,63 --> 0:30:57,67
+for doing that.
+
+
+1063
+0:30:57,67 --> 0:30:59,9
+To hide the weapons out here.
+
+
+1064
+0:30:59,9 --> 0:31:0,93
+If the time comes that they
+
+
+1065
+0:31:0,93 --> 0:31:2,93
+want to stab somebody or going
+
+
+1066
+0:31:2,93 --> 0:31:4,63
+to use the weapon, that one
+
+
+1067
+0:31:4,63 --> 0:31:6,3
+person will tell them, go here,
+
+
+1068
+0:31:6,3 --> 0:31:7,47
+it's right there, go pick it
+
+
+1069
+0:31:7,47 --> 0:31:9,57
+up, take it, and use it.
+
+
+1070
+0:31:9,57 --> 0:31:10,7
+So if they order a guy to go
+
+
+1071
+0:31:10,7 --> 0:31:12,27
+hit somebody, they'll tell him
+
+
+1072
+0:31:12,27 --> 0:31:17,37
+where to go get the knife from.
+
+
+1073
+0:31:17,37 --> 0:31:17,97
+Sometimes I get lucky sometimes
+
+
+1074
+0:31:17,97 --> 0:31:20,7
+I don't.
+
+
+1075
+0:31:20,7 --> 0:31:20,57
+(Janet) Prison gangs are
+
+
+1076
+0:31:20,57 --> 0:31:21,43
+organized.
+
+
+1077
+0:31:21,43 --> 0:31:22,33
+But they are so closely
+
+
+1078
+0:31:22,33 --> 0:31:24,47
+monitored I wondered how they
+
+
+1079
+0:31:24,47 --> 0:31:25,4
+taught each other their codes
+
+
+1080
+0:31:25,4 --> 0:31:26,6
+of conduct.
+
+
+1081
+0:31:26,6 --> 0:31:27,17
+Sgt.
+
+
+1082
+0:31:27,17 --> 0:31:28,5
+Sandoval introduced me to
+
+
+1083
+0:31:28,5 --> 0:31:29,93
+wheelas.
+
+
+1084
+0:31:29,93 --> 0:31:30,57
+What do you call it?
+
+
+1085
+0:31:30,57 --> 0:31:31,1
+Wheelas?
+
+
+1086
+0:31:31,1 --> 0:31:31,87
+>>Wheelas.
+
+
+1087
+0:31:31,87 --> 0:31:33,3
+They are called basement
+
+
+1088
+0:31:33,3 --> 0:31:34,47
+filters.
+
+
+1089
+0:31:34,47 --> 0:31:38,1
+This one is an address min.
+
+
+1090
+0:31:38,1 --> 0:31:41,63
+Proper new arrival seating.
+
+
+1091
+0:31:41,63 --> 0:31:42,5
+They even tell their new
+
+
+1092
+0:31:42,5 --> 0:31:46,37
+arrival inmates, where to sit.
+
+
+1093
+0:31:46,37 --> 0:31:49,33
+How to do an assault, to how to
+
+
+1094
+0:31:49,33 --> 0:31:50,57
+set up weapons.
+
+
+1095
+0:31:50,57 --> 0:31:52,27
+Everything.
+
+
+1096
+0:31:52,27 --> 0:31:53,27
+>>Who's on their hit list,
+
+
+1097
+0:31:53,27 --> 0:31:54,4
+who's good, who's bad, who's
+
+
+1098
+0:31:54,4 --> 0:31:55,93
+running what yard, who's
+
+
+1099
+0:31:55,93 --> 0:31:57,63
+running what institution.
+
+
+1100
+0:31:57,63 --> 0:31:59,5
+>>It's...
+
+
+1101
+0:31:59,5 --> 0:31:59,93
+what?
+
+
+1102
+0:31:59,93 --> 0:32:2,73
+It's like eight lines of text
+
+
+1103
+0:32:2,73 --> 0:32:7,1
+the size of my fingernail.
+
+
+1104
+0:32:7,1 --> 0:32:8,73
+Nortenos recognize the true
+
+
+1105
+0:32:8,73 --> 0:32:10,3
+purpose of our struggle in a
+
+
+1106
+0:32:10,3 --> 0:32:12,8
+close knit raza, let us be the
+
+
+1107
+0:32:12,8 --> 0:32:15,3
+enlightenment and inspiration
+
+
+1108
+0:32:15,3 --> 0:32:17,7
+to those behind the walls and
+
+
+1109
+0:32:17,7 --> 0:32:19,33
+stand victim to the prejudice
+
+
+1110
+0:32:19,33 --> 0:32:23,27
+and movement of the misused.
+
+
+1111
+0:32:23,27 --> 0:32:24,23
+It does remind me of high
+
+
+1112
+0:32:24,23 --> 0:32:25,57
+school, when, not that I ever
+
+
+1113
+0:32:25,57 --> 0:32:27,4
+did it, but what other students
+
+
+1114
+0:32:27,4 --> 0:32:29,1
+would do.
+
+
+1115
+0:32:29,1 --> 0:32:30,2
+>>Now, when they get done
+
+
+1116
+0:32:30,2 --> 0:32:32,13
+writing this, they roll it up,
+
+
+1117
+0:32:32,13 --> 0:32:34,3
+roll it up, roll it up until
+
+
+1118
+0:32:34,3 --> 0:32:35,3
+they get a bindle about that
+
+
+1119
+0:32:35,3 --> 0:32:37,23
+big around, about that long,
+
+
+1120
+0:32:37,23 --> 0:32:39,77
+and then they hide it.
+
+
+1121
+0:32:39,77 --> 0:32:41,87
+>>So they walk in, they go to
+
+
+1122
+0:32:41,87 --> 0:32:42,4
+the bathroom, they pull a
+
+
+1123
+0:32:42,4 --> 0:32:43,6
+string or whatever it is?
+
+
+1124
+0:32:43,6 --> 0:32:44,67
+>>Or just catch it in their
+
+
+1125
+0:32:44,67 --> 0:32:45,37
+hand.
+
+
+1126
+0:32:45,37 --> 0:32:46,47
+>>And they pass them out?
+
+
+1127
+0:32:46,47 --> 0:32:47,27
+>>What he'll do, he'll pass it
+
+
+1128
+0:32:47,27 --> 0:32:48,2
+off to another guy.
+
+
+1129
+0:32:48,2 --> 0:32:49,2
+He'll wash it off, and then the
+
+
+1130
+0:32:49,2 --> 0:32:50,2
+other guy will wrap it in
+
+
+1131
+0:32:50,2 --> 0:32:52,27
+another glove, or some more
+
+
+1132
+0:32:52,27 --> 0:32:53,37
+cellophane, and he'll put it up
+
+
+1133
+0:32:53,37 --> 0:32:55,57
+his, and so on and so on.
+
+
+1134
+0:32:55,57 --> 0:32:56,0
+>>Oh my gosh.
+
+
+1135
+0:32:56,0 --> 0:32:56,6
+I had not idea that there was
+
+
+1136
+0:32:56,6 --> 0:32:57,53
+movement.
+
+
+1137
+0:32:57,53 --> 0:32:58,7
+>>The pass it.
+
+
+1138
+0:32:58,7 --> 0:32:59,43
+They pass it off.
+
+
+1139
+0:32:59,43 --> 0:33:1,83
+It goes from Point A, all the
+
+
+1140
+0:33:1,83 --> 0:33:3,8
+way to Point Z, Z being the
+
+
+1141
+0:33:3,8 --> 0:33:5,2
+main man.
+
+
+1142
+0:33:5,2 --> 0:33:6,83
+He collects all of that.
+
+
+1143
+0:33:6,83 --> 0:33:7,97
+>>And a little more.
+
+
+1144
+0:33:7,97 --> 0:33:8,8
+>>But by the time it gets to
+
+
+1145
+0:33:8,8 --> 0:33:9,7
+him, it's been in 20 other
+
+
+1146
+0:33:9,7 --> 0:33:11,57
+rectums.
+
+
+1147
+0:33:11,57 --> 0:33:15,87
+Honestly.
+
+
+1148
+0:33:15,87 --> 0:33:17,43
+Honestly.
+
+
+1149
+0:33:17,43 --> 0:33:17,9
+It happens that way.
+
+
+1150
+0:33:17,9 --> 0:33:18,97
+I've got thousands of these.
+
+
+1151
+0:33:18,97 --> 0:33:20,23
+It has all their information.
+
+
+1152
+0:33:20,23 --> 0:33:20,8
+See this.
+
+
+1153
+0:33:20,8 --> 0:33:22,27
+How to make a weapon.
+
+
+1154
+0:33:22,27 --> 0:33:22,8
+>>Wow.
+
+
+1155
+0:33:22,8 --> 0:33:23,6
+>>Tells you detailed
+
+
+1156
+0:33:23,6 --> 0:33:24,17
+instructions on how to make
+
+
+1157
+0:33:24,17 --> 0:33:24,87
+one.
+
+
+1158
+0:33:24,87 --> 0:33:28,97
+>>These are both instructions.
+
+
+1159
+0:33:28,97 --> 0:33:31,0
+This is obviously some kind of
+
+
+1160
+0:33:31,0 --> 0:33:32,53
+stabbing ...
+
+
+1161
+0:33:32,53 --> 0:33:51,7
+It says, Final Product.
+
+
+1162
+0:33:51,7 --> 0:33:51,53
+Wow.
+
+
+1163
+0:33:51,53 --> 0:33:53,53
+These are bigger than the ones
+
+
+1164
+0:33:53,53 --> 0:33:55,63
+we saw yesterday.
+
+
+1165
+0:33:55,63 --> 0:33:56,47
+>>They have the machine that
+
+
+1166
+0:33:56,47 --> 0:33:57,77
+cuts these.
+
+
+1167
+0:33:57,77 --> 0:33:58,73
+Some of these guys will be up
+
+
+1168
+0:33:58,73 --> 0:34:0,63
+there and they'll cut them, and
+
+
+1169
+0:34:0,63 --> 0:34:2,53
+then hide them, and then throw
+
+
+1170
+0:34:2,53 --> 0:34:5,93
+them over the fence, or
+
+
+1171
+0:34:5,93 --> 0:34:7,23
+[keister them, and bring them
+
+
+1172
+0:34:7,23 --> 0:34:8,3
+down the hill.
+
+
+1173
+0:34:8,3 --> 0:34:8,97
+>>You say that if that's so
+
+
+1174
+0:34:8,97 --> 0:34:10,93
+natural, to put a knife.
+
+
+1175
+0:34:10,93 --> 0:34:13,2
+>>To these guys, it is.
+
+
+1176
+0:34:13,2 --> 0:34:14,73
+>>They do that every day.
+
+
+1177
+0:34:14,73 --> 0:34:17,4
+>>Drugs.
+
+
+1178
+0:34:17,4 --> 0:34:18,83
+>>Cell phones.
+
+
+1179
+0:34:18,83 --> 0:34:20,63
+>>How is that even physically
+
+
+1180
+0:34:20,63 --> 0:34:21,87
+possible?
+
+
+1181
+0:34:21,87 --> 0:34:24,33
+>> What he'll do is he'll wrap
+
+
+1182
+0:34:24,33 --> 0:34:26,73
+it with a sheet.
+
+
+1183
+0:34:26,73 --> 0:34:27,7
+When it goes up, he doesn't
+
+
+1184
+0:34:27,7 --> 0:34:29,2
+puncture himself.
+
+
+1185
+0:34:29,2 --> 0:34:30,2
+And we've had instances where
+
+
+1186
+0:34:30,2 --> 0:34:31,43
+the inmate has gone to the
+
+
+1187
+0:34:31,43 --> 0:34:32,53
+staff and said, I need to go to
+
+
+1188
+0:34:32,53 --> 0:34:33,97
+the doctor, I'm having
+
+
+1189
+0:34:33,97 --> 0:34:35,2
+problems.
+
+
+1190
+0:34:35,2 --> 0:34:35,8
+Well, what's wrong?
+
+
+1191
+0:34:35,8 --> 0:34:37,2
+I think my weapon is stuck up
+
+
+1192
+0:34:37,2 --> 0:34:39,77
+there and I can't get it out.
+
+
+1193
+0:34:39,77 --> 0:34:40,33
+Yeah.
+
+
+1194
+0:34:40,33 --> 0:34:41,63
+And he'll be in pain, because
+
+
+1195
+0:34:41,63 --> 0:34:43,1
+it punctured his intestine and
+
+
+1196
+0:34:43,1 --> 0:34:46,33
+he couldn't get it out.
+
+
+1197
+0:34:46,33 --> 0:34:47,7
+>> Or, you know, they walk
+
+
+1198
+0:34:47,7 --> 0:34:48,1
+around with them, and used to
+
+
+1199
+0:34:48,1 --> 0:34:49,3
+walking, then all of a sudden,
+
+
+1200
+0:34:49,3 --> 0:34:50,43
+the yard has to get down, and
+
+
+1201
+0:34:50,43 --> 0:34:51,77
+they have to get down, quick,
+
+
+1202
+0:34:51,77 --> 0:34:54,37
+and it can puncture them that
+
+
+1203
+0:34:54,37 --> 0:34:54,97
+way.
+
+
+1204
+0:34:54,97 --> 0:34:56,1
+>>Right.
+
+
+1205
+0:34:56,1 --> 0:34:57,0
+>>I had a guy tell me that he
+
+
+1206
+0:34:57,0 --> 0:34:58,3
+needed to go to the doctor.
+
+
+1207
+0:34:58,3 --> 0:34:59,6
+What's the matter?
+
+
+1208
+0:34:59,6 --> 0:35:0,87
+He was in his cell, and it
+
+
+1209
+0:35:0,87 --> 0:35:2,33
+wasn't a weapon.
+
+
+1210
+0:35:2,33 --> 0:35:3,6
+He was just seeing how many
+
+
+1211
+0:35:3,6 --> 0:35:8,6
+pencils he could keister.
+
+
+1212
+0:35:8,6 --> 0:35:10,0
+Why are you doing that?
+
+
+1213
+0:35:10,0 --> 0:35:11,0
+Well, I just want to see how
+
+
+1214
+0:35:11,0 --> 0:35:14,37
+many I can get up there.
+
+
+1215
+0:35:14,37 --> 0:35:15,97
+>>I was still curious.
+
+
+1216
+0:35:15,97 --> 0:35:17,13
+Besides weapons that were made
+
+
+1217
+0:35:17,13 --> 0:35:18,43
+on the yard, how does
+
+
+1218
+0:35:18,43 --> 0:35:20,6
+contraband get into the prison.
+
+
+1219
+0:35:20,6 --> 0:35:22,3
+I was told the visitors room
+
+
+1220
+0:35:22,3 --> 0:35:23,5
+was another entry point.
+
+
+1221
+0:35:23,5 --> 0:35:27,83
+I asked for a tour.
+
+
+1222
+0:35:27,83 --> 0:35:28,73
+>>Hello, we're going to go
+
+
+1223
+0:35:28,73 --> 0:35:30,0
+through the court into the
+
+
+1224
+0:35:30,0 --> 0:35:35,7
+visiting room, OK?
+
+
+1225
+0:35:35,7 --> 0:35:35,93
+It's really open.
+
+
+1226
+0:35:35,93 --> 0:35:39,23
+I pictured like a glass window
+
+
+1227
+0:35:39,23 --> 0:35:40,37
+You can give them, hand over
+
+
+1228
+0:35:40,37 --> 0:35:42,5
+all kinds of stuff right?
+
+
+1229
+0:35:42,5 --> 0:35:43,63
+>>Yeah?
+
+
+1230
+0:35:43,63 --> 0:35:45,0
+>>That's why I was so confused.
+
+
+1231
+0:35:45,0 --> 0:35:46,33
+I couldn't figure out, how are
+
+
+1232
+0:35:46,33 --> 0:35:48,3
+visitors, how can you pass
+
+
+1233
+0:35:48,3 --> 0:35:49,63
+things through the glass.
+
+
+1234
+0:35:49,63 --> 0:35:51,3
+>>Contact visiting.
+
+
+1235
+0:35:51,3 --> 0:35:52,83
+It's contact visiting, so.
+
+
+1236
+0:35:52,83 --> 0:35:54,63
+Like say you were here visiting
+
+
+1237
+0:35:54,63 --> 0:35:56,43
+somebody and that person, as
+
+
+1238
+0:35:56,43 --> 0:35:59,87
+long as we have them.
+
+
+1239
+0:35:59,87 --> 0:36:0,9
+The tables are low for a
+
+
+1240
+0:36:0,9 --> 0:36:2,23
+reason.
+
+
+1241
+0:36:2,23 --> 0:36:2,83
+>>Right.
+
+
+1242
+0:36:2,83 --> 0:36:4,33
+So you can't hand anything
+
+
+1243
+0:36:4,33 --> 0:36:5,23
+underneath.
+
+
+1244
+0:36:5,23 --> 0:36:6,2
+>>Because if it was up here
+
+
+1245
+0:36:6,2 --> 0:36:7,83
+then we couldn't monitor really
+
+
+1246
+0:36:7,83 --> 0:36:8,87
+what was going on under the
+
+
+1247
+0:36:8,87 --> 0:36:8,9
+table.
+
+
+1248
+0:36:8,9 --> 0:36:10,33
+>>You can have up to 250 people
+
+
+1249
+0:36:10,33 --> 0:36:11,3
+in this room, and how many
+
+
+1250
+0:36:11,3 --> 0:36:12,17
+people would be monitoring
+
+
+1251
+0:36:12,17 --> 0:36:13,5
+them?
+
+
+1252
+0:36:13,5 --> 0:36:15,1
+We have two officers that are
+
+
+1253
+0:36:15,1 --> 0:36:17,97
+on the floor.
+
+
+1254
+0:36:17,97 --> 0:36:19,3
+Actually one is up on the
+
+
+1255
+0:36:19,3 --> 0:36:20,1
+podium, we have a monitoring
+
+
+1256
+0:36:20,1 --> 0:36:23,7
+system up there.
+
+
+1257
+0:36:23,7 --> 0:36:24,0
+And one is monitoring the
+
+
+1258
+0:36:24,0 --> 0:36:25,37
+cameras that are all over the
+
+
+1259
+0:36:25,37 --> 0:36:28,1
+visiting room.
+
+
+1260
+0:36:28,1 --> 0:36:29,87
+They're all over the room.
+
+
+1261
+0:36:29,87 --> 0:36:30,5
+And an officer stays up there
+
+
+1262
+0:36:30,5 --> 0:36:31,43
+to do that.
+
+
+1263
+0:36:31,43 --> 0:36:32,67
+And then one is constantly
+
+
+1264
+0:36:32,67 --> 0:36:35,4
+roving the visiting room.
+
+
+1265
+0:36:35,4 --> 0:36:36,0
+>> What percentage gets in
+
+
+1266
+0:36:36,0 --> 0:36:37,53
+through visitors?
+
+
+1267
+0:36:37,53 --> 0:36:38,73
+>> Mostly what gets in through
+
+
+1268
+0:36:38,73 --> 0:36:41,73
+visiting in going to be drugs.
+
+
+1269
+0:36:41,73 --> 0:36:42,73
+The balloons.
+
+
+1270
+0:36:42,73 --> 0:36:43,7
+So what I'll do, because
+
+
+1271
+0:36:43,7 --> 0:36:44,63
+there's a lot of people in the
+
+
+1272
+0:36:44,63 --> 0:36:46,97
+visiting room, I will open
+
+
+1273
+0:36:46,97 --> 0:36:50,43
+this.
+
+
+1274
+0:36:50,43 --> 0:36:52,3
+I'm over there by the machine.
+
+
+1275
+0:36:52,3 --> 0:36:57,2
+If I came in with something
+
+
+1276
+0:36:57,2 --> 0:36:58,33
+inserted in my body, I would go
+
+
+1277
+0:36:58,33 --> 0:37:0,3
+into the bathroom, okay, take
+
+
+1278
+0:37:0,3 --> 0:37:1,77
+it out, put it in my pocket,
+
+
+1279
+0:37:1,77 --> 0:37:3,67
+and then come in here, and go
+
+
+1280
+0:37:3,67 --> 0:37:5,8
+over here, or we've actually
+
+
+1281
+0:37:5,8 --> 0:37:7,3
+seen it on video where they're
+
+
+1282
+0:37:7,3 --> 0:37:8,37
+sitting here and they're kind
+
+
+1283
+0:37:8,37 --> 0:37:9,83
+of like this and they'll take
+
+
+1284
+0:37:9,83 --> 0:37:11,13
+it out of their pocket and drop
+
+
+1285
+0:37:11,13 --> 0:37:11,77
+it in here.
+
+
+1286
+0:37:11,77 --> 0:37:12,93
+OK?
+
+
+1287
+0:37:12,93 --> 0:37:15,87
+And then I hand it to you, and
+
+
+1288
+0:37:15,87 --> 0:37:16,5
+as you're eating your chips,
+
+
+1289
+0:37:16,5 --> 0:37:19,4
+OK, you'll eat a couple of
+
+
+1290
+0:37:19,4 --> 0:37:19,87
+chips, and then you'll go like
+
+
+1291
+0:37:19,87 --> 0:37:20,73
+this, and then you'll start
+
+
+1292
+0:37:20,73 --> 0:37:21,5
+putting balloons in there and
+
+
+1293
+0:37:21,5 --> 0:37:22,63
+swallowing them.
+
+
+1294
+0:37:22,63 --> 0:37:24,1
+Not too many cell phones,
+
+
+1295
+0:37:24,1 --> 0:37:27,63
+because they're harder to get
+
+
+1296
+0:37:27,63 --> 0:37:30,3
+from here, from wherever she
+
+
+1297
+0:37:30,3 --> 0:37:30,93
+has it into here, into ...
+
+
+1298
+0:37:30,93 --> 0:37:32,23
+Because it's easier to insert
+
+
+1299
+0:37:32,23 --> 0:37:34,13
+rectally than it is to swallow.
+
+
+1300
+0:37:34,13 --> 0:37:35,43
+But we've actually had inmates
+
+
+1301
+0:37:35,43 --> 0:37:36,33
+that will actually take
+
+
+1302
+0:37:36,33 --> 0:37:37,2
+something out of here if it's
+
+
+1303
+0:37:37,2 --> 0:37:38,43
+too big to swallow, and they'll
+
+
+1304
+0:37:38,43 --> 0:37:39,77
+actually kind of go like this
+
+
+1305
+0:37:39,77 --> 0:37:41,57
+and sit there and the next
+
+
+1306
+0:37:41,57 --> 0:37:42,7
+thing you know and then on the
+
+
+1307
+0:37:42,7 --> 0:37:45,57
+video you see them go "oop!"
+
+
+1308
+0:37:45,57 --> 0:37:54,3
+well, we know what that is.
+
+
+1309
+0:37:54,3 --> 0:37:57,37
+Day three without a cell phone.
+
+
+1310
+0:37:57,37 --> 0:38:0,67
+All right ready to go.
+
+
+1311
+0:38:0,67 --> 0:38:1,67
+>>For the first time, Solano
+
+
+1312
+0:38:1,67 --> 0:38:3,3
+State prison was allowing a
+
+
+1313
+0:38:3,3 --> 0:38:4,7
+documentary crew to film its
+
+
+1314
+0:38:4,7 --> 0:38:5,6
+officers searching for
+
+
+1315
+0:38:5,6 --> 0:38:7,13
+contraband.
+
+
+1316
+0:38:7,13 --> 0:38:8,53
+So far they had found a cell
+
+
+1317
+0:38:8,53 --> 0:38:9,97
+phone charger, but no phones.
+
+
+1318
+0:38:9,97 --> 0:38:11,2
+The prisoners were skilled at
+
+
+1319
+0:38:11,2 --> 0:38:15,53
+keeping their valuables hidden.
+
+
+1320
+0:38:15,53 --> 0:38:16,13
+>>Alright.
+
+
+1321
+0:38:16,13 --> 0:38:16,97
+>> Solano was showing off their
+
+
+1322
+0:38:16,97 --> 0:38:17,8
+newest weapon.
+
+
+1323
+0:38:17,8 --> 0:38:18,97
+Meet Caesar, the cell phone
+
+
+1324
+0:38:18,97 --> 0:38:22,6
+sniffing dog.
+
+
+1325
+0:38:22,6 --> 0:38:23,53
+Is he friendly?
+
+
+1326
+0:38:23,53 --> 0:38:24,17
+Very friendly, he's not an
+
+
+1327
+0:38:24,17 --> 0:38:25,17
+attack ranger, very friendly.
+
+
+1328
+0:38:25,17 --> 0:38:29,17
+>>Hi!
+
+
+1329
+0:38:29,17 --> 0:38:29,8
+Oh you gave me a kiss.
+
+
+1330
+0:38:29,8 --> 0:38:30,47
+This early in the morning.
+
+
+1331
+0:38:30,47 --> 0:38:33,6
+Hi!
+
+
+1332
+0:38:33,6 --> 0:38:34,3
+Sweetie.
+
+
+1333
+0:38:34,3 --> 0:38:35,43
+>>Do you want to play ballie?
+
+
+1334
+0:38:35,43 --> 0:38:37,87
+Want your ball?
+
+
+1335
+0:38:37,87 --> 0:38:38,63
+>>Officer Conrad offered to
+
+
+1336
+0:38:38,63 --> 0:38:40,47
+give us a demonstration of
+
+
+1337
+0:38:40,47 --> 0:38:42,67
+Caesar's talents.
+
+
+1338
+0:38:42,67 --> 0:38:49,93
+>>Go find it.
+
+
+1339
+0:38:49,93 --> 0:38:53,5
+What's in there?
+
+
+1340
+0:38:53,5 --> 0:38:57,4
+See the cell phone?
+
+
+1341
+0:38:57,4 --> 0:38:59,83
+On the bottom.
+
+
+1342
+0:38:59,83 --> 0:39:2,13
+>>Oh yeah.
+
+
+1343
+0:39:2,13 --> 0:39:4,97
+>>Oh yeah, that's a good boy.
+
+
+1344
+0:39:4,97 --> 0:39:5,43
+What do we got in there, we got
+
+
+1345
+0:39:5,43 --> 0:39:6,5
+something?
+
+
+1346
+0:39:6,5 --> 0:39:7,0
+>>So he thinks he's looking for
+
+
+1347
+0:39:7,0 --> 0:39:8,53
+that toy?
+
+
+1348
+0:39:8,53 --> 0:39:10,77
+>>Just a piece of canvas.
+
+
+1349
+0:39:10,77 --> 0:39:11,73
+Just his toy.
+
+
+1350
+0:39:11,73 --> 0:39:12,4
+That's all it is.
+
+
+1351
+0:39:12,4 --> 0:39:13,0
+>>And he thinks he's looking
+
+
+1352
+0:39:13,0 --> 0:39:13,7
+for that?
+
+
+1353
+0:39:13,7 --> 0:39:14,4
+>>Yeah.
+
+
+1354
+0:39:14,4 --> 0:39:14,97
+>>So what do you do?
+
+
+1355
+0:39:14,97 --> 0:39:16,37
+Rub a bunch of cellphones onto
+
+
+1356
+0:39:16,37 --> 0:39:16,93
+the toy?
+
+
+1357
+0:39:16,93 --> 0:39:17,93
+>>Actually what we do is take
+
+
+1358
+0:39:17,93 --> 0:39:19,47
+it in its beginning of it's
+
+
+1359
+0:39:19,47 --> 0:39:20,67
+called transfer odor.
+
+
+1360
+0:39:20,67 --> 0:39:22,13
+I'll take a big glass jar and
+
+
+1361
+0:39:22,13 --> 0:39:25,8
+what I'll do is I'll take rags
+
+
+1362
+0:39:25,8 --> 0:39:27,87
+and we permeate the odor into
+
+
+1363
+0:39:27,87 --> 0:39:30,3
+them, roll em up, like this.
+
+
+1364
+0:39:30,3 --> 0:39:32,1
+And just play throw toys.
+
+
+1365
+0:39:32,1 --> 0:39:33,37
+And what we'll do is transfer
+
+
+1366
+0:39:33,37 --> 0:39:35,17
+that odor into the real
+
+
+1367
+0:39:35,17 --> 0:39:36,2
+substance.
+
+
+1368
+0:39:36,2 --> 0:39:36,83
+In other words when I'm
+
+
+1369
+0:39:36,83 --> 0:39:38,3
+searching I'll put his toy say
+
+
+1370
+0:39:38,3 --> 0:39:43,3
+over here in a stack of boxes
+
+
+1371
+0:39:43,3 --> 0:39:44,6
+and then a foot away I'll put
+
+
+1372
+0:39:44,6 --> 0:39:46,37
+the substance we're looking
+
+
+1373
+0:39:46,37 --> 0:39:48,7
+for.
+
+
+1374
+0:39:48,7 --> 0:39:49,27
+And as he comes across he'll
+
+
+1375
+0:39:49,27 --> 0:39:50,1
+hit on that, and then hit on
+
+
+1376
+0:39:50,1 --> 0:39:50,93
+the real thing.
+
+
+1377
+0:39:50,93 --> 0:39:51,63
+>>Got it.
+
+
+1378
+0:39:51,63 --> 0:39:53,6
+>>Is there another one?
+
+
+1379
+0:39:53,6 --> 0:39:59,4
+Let's go find it.
+
+
+1380
+0:39:59,4 --> 0:40:2,3
+What you got in there?
+
+
+1381
+0:40:2,3 --> 0:40:3,57
+What you got in there?
+
+
+1382
+0:40:3,57 --> 0:40:4,17
+What you got?
+
+
+1383
+0:40:4,17 --> 0:40:5,5
+You got something?
+
+
+1384
+0:40:5,5 --> 0:40:7,7
+Get it out of there!
+
+
+1385
+0:40:7,7 --> 0:40:8,63
+Get it out of there!
+
+
+1386
+0:40:8,63 --> 0:40:13,37
+There you go!
+
+
+1387
+0:40:13,37 --> 0:40:16,37
+Let's see what you got.
+
+
+1388
+0:40:16,37 --> 0:40:17,17
+(Janet) I was impressed by
+
+
+1389
+0:40:17,17 --> 0:40:17,97
+Caesar.
+
+
+1390
+0:40:17,97 --> 0:40:18,73
+And I wanted to see him in
+
+
+1391
+0:40:18,73 --> 0:40:19,87
+action.
+
+
+1392
+0:40:19,87 --> 0:40:21,17
+I joined the ISU for a random
+
+
+1393
+0:40:21,17 --> 0:40:23,1
+cell phone sweep.
+
+
+1394
+0:40:23,1 --> 0:40:24,3
+>> As soon as we hit the yard,
+
+
+1395
+0:40:24,3 --> 0:40:24,77
+We've got to move right to
+
+
+1396
+0:40:24,77 --> 0:40:25,2
+the building.
+
+
+1397
+0:40:25,2 --> 0:40:25,9
+We can't stop.
+
+
+1398
+0:40:25,9 --> 0:40:27,47
+We've got to go right there.
+
+
+1399
+0:40:27,47 --> 0:40:28,13
+Because as soon as we hit the
+
+
+1400
+0:40:28,13 --> 0:40:29,0
+yard all the
+
+
+1401
+0:40:29,0 --> 0:40:30,23
+signals are going to go
+
+
+1402
+0:40:30,23 --> 0:40:30,8
+up and everyone's going to
+
+
+1403
+0:40:30,8 --> 0:40:31,67
+start getting alerted.
+
+
+1404
+0:40:31,67 --> 0:40:32,67
+>>Sure.
+
+
+1405
+0:40:32,67 --> 0:40:33,3
+I'll just follow you.
+
+
+1406
+0:40:33,3 --> 0:40:43,53
+>>Just keep up.
+
+
+1407
+0:40:43,53 --> 0:40:44,6
+(Janet) As soon as we hit the
+
+
+1408
+0:40:44,6 --> 0:40:45,73
+yard the inmates began warning
+
+
+1409
+0:40:45,73 --> 0:40:48,67
+the other inmates Listen for
+
+
+1410
+0:40:48,67 --> 0:40:53,67
+all the woof woofs, they see
+
+
+1411
+0:40:53,67 --> 0:40:56,93
+the dog coming.
+
+
+1412
+0:40:56,93 --> 0:40:58,3
+>>There's the whistles.
+
+
+1413
+0:40:58,3 --> 0:40:58,87
+>>Yeah, you hear the whistles.
+
+
+1414
+0:40:58,87 --> 0:40:59,93
+The inmates alerting each other
+
+
+1415
+0:40:59,93 --> 0:41:8,7
+that we're coming.
+
+
+1416
+0:41:8,7 --> 0:41:9,6
+>>And now you start hearing the
+
+
+1417
+0:41:9,6 --> 0:41:10,8
+toilets flushing.
+
+
+1418
+0:41:10,8 --> 0:41:11,6
+It is difficult to hear on
+
+
+1419
+0:41:11,6 --> 0:41:13,1
+camera, but dozens of toilets
+
+
+1420
+0:41:13,1 --> 0:41:31,7
+are flushing at once.
+
+
+1421
+0:41:31,7 --> 0:41:32,7
+>>Boy, no.
+
+
+1422
+0:41:32,7 --> 0:41:32,87
+>>Caesar seemed really excited
+
+
+1423
+0:41:32,87 --> 0:41:33,77
+but could not find a cell
+
+
+1424
+0:41:33,77 --> 0:41:38,13
+phone.
+
+
+1425
+0:41:38,13 --> 0:41:38,73
+>> Are there days where he's
+
+
+1426
+0:41:38,73 --> 0:41:39,47
+off?
+
+
+1427
+0:41:39,47 --> 0:41:40,23
+You know there are days.
+
+
+1428
+0:41:40,23 --> 0:41:41,13
+It's like everything else.
+
+
+1429
+0:41:41,13 --> 0:41:44,5
+Like now, at the beginning,
+
+
+1430
+0:41:44,5 --> 0:41:46,17
+he was so energetic.
+
+
+1431
+0:41:46,17 --> 0:41:47,7
+He's been sitting in the car
+
+
+1432
+0:41:47,7 --> 0:41:48,53
+for an hour, and what happens
+
+
+1433
+0:41:48,53 --> 0:41:50,8
+is he's got so much energy
+
+
+1434
+0:41:50,8 --> 0:41:52,4
+built up.
+
+
+1435
+0:41:52,4 --> 0:41:53,2
+When you see him, he starts
+
+
+1436
+0:41:53,2 --> 0:41:54,2
+biting on stuff, he's
+
+
+1437
+0:41:54,2 --> 0:41:56,83
+frustrated.
+
+
+1438
+0:41:56,83 --> 0:42:11,4
+♪
+
+
+1439
+0:42:11,4 --> 0:42:12,7
+He just searched that over
+
+
+1440
+0:42:12,7 --> 0:42:12,87
+there by the desk in the
+
+
+1441
+0:42:12,87 --> 0:42:16,17
+corner.
+
+
+1442
+0:42:16,17 --> 0:42:16,83
+>>Did you snoop through your
+
+
+1443
+0:42:16,83 --> 0:42:18,57
+brother and sister's things
+
+
+1444
+0:42:18,57 --> 0:42:20,23
+when you were a kid?
+
+
+1445
+0:42:20,23 --> 0:42:22,33
+>>No.
+
+
+1446
+0:42:22,33 --> 0:42:23,47
+Well, I can't say that.
+
+
+1447
+0:42:23,47 --> 0:42:25,17
+I had two older sisters and I
+
+
+1448
+0:42:25,17 --> 0:42:26,17
+tended to look through their
+
+
+1449
+0:42:26,17 --> 0:42:28,27
+drawers.
+
+
+1450
+0:42:28,27 --> 0:42:30,33
+Read their diary a few times.
+
+
+1451
+0:42:30,33 --> 0:42:32,5
+>>[laughs]
+
+
+1452
+0:42:32,5 --> 0:42:33,17
+>>More than likely
+
+
+1453
+0:42:33,17 --> 0:42:35,43
+he has a cell phone.
+
+
+1454
+0:42:35,43 --> 0:42:36,23
+>>Phone numbers.
+
+
+1455
+0:42:36,23 --> 0:42:37,13
+>>He's got phone numbers.
+
+
+1456
+0:42:37,13 --> 0:42:38,97
+1-87--
+
+
+1457
+0:42:38,97 --> 0:42:42,53
+1-877-476-BLOW.
+
+
+1458
+0:42:42,53 --> 0:43:14,6
+♪
+
+
+1459
+0:43:14,6 --> 0:43:15,6
+>>You learn from the clothes.
+
+
+1460
+0:43:15,6 --> 0:43:16,17
+Presence of the odor is still
+
+
+1461
+0:43:16,17 --> 0:43:17,37
+there.
+
+
+1462
+0:43:17,37 --> 0:43:18,7
+Same thing as something like
+
+
+1463
+0:43:18,7 --> 0:43:19,93
+this.
+
+
+1464
+0:43:19,93 --> 0:43:21,3
+We'll just keep our eye on it.
+
+
+1465
+0:43:21,3 --> 0:43:22,47
+>>The warning system, whistling
+
+
+1466
+0:43:22,47 --> 0:43:24,27
+and barking, had worked.
+
+
+1467
+0:43:24,27 --> 0:43:26,2
+The ISU found nothing beside a
+
+
+1468
+0:43:26,2 --> 0:43:27,47
+list of pornographic phone
+
+
+1469
+0:43:27,47 --> 0:43:29,33
+numbers.
+
+
+1470
+0:43:29,33 --> 0:43:30,27
+At that moment, Officer
+
+
+1471
+0:43:30,27 --> 0:43:31,8
+Sandoval came up to tell us
+
+
+1472
+0:43:31,8 --> 0:43:32,97
+that he'd just found something
+
+
+1473
+0:43:32,97 --> 0:43:34,13
+in the first cell that we were
+
+
+1474
+0:43:34,13 --> 0:43:40,83
+in.
+
+
+1475
+0:43:40,83 --> 0:43:41,73
+It was above the area Caesar
+
+
+1476
+0:43:41,73 --> 0:43:43,2
+could search.
+
+
+1477
+0:43:43,2 --> 0:43:44,0
+It turned out Caesar had been
+
+
+1478
+0:43:44,0 --> 0:43:48,53
+right..
+
+
+1479
+0:43:48,53 --> 0:43:50,57
+>>It was right in here.
+
+
+1480
+0:43:50,57 --> 0:43:58,0
+>>Wow.
+
+
+1481
+0:43:58,0 --> 0:43:59,97
+Looks like a part of the radio.
+
+
+1482
+0:43:59,97 --> 0:44:0,97
+>>Yeah, it does.
+
+
+1483
+0:44:0,97 --> 0:44:8,63
+It blends right in....
+
+
+1484
+0:44:8,63 --> 0:44:9,27
+So we'll process it as
+
+
+1485
+0:44:9,27 --> 0:44:11,3
+evidence.
+
+
+1486
+0:44:11,3 --> 0:44:13,73
+The inmate who lives in this
+
+
+1487
+0:44:13,73 --> 0:44:18,9
+rack will get a 115, a rule
+
+
+1488
+0:44:18,9 --> 0:44:20,8
+violation report.
+
+
+1489
+0:44:20,8 --> 0:44:21,53
+He'll probably get another
+
+
+1490
+0:44:21,53 --> 0:44:23,7
+phone within a couple of weeks.
+
+
+1491
+0:44:23,7 --> 0:44:24,67
+>>Did you try turning it on?
+
+
+1492
+0:44:24,67 --> 0:44:29,27
+More than likely, what they do,
+
+
+1493
+0:44:29,27 --> 0:44:30,7
+so we can't access the
+
+
+1494
+0:44:30,7 --> 0:44:33,13
+information, cause this one
+
+
+1495
+0:44:33,13 --> 0:44:35,93
+feels kind of light, he removed
+
+
+1496
+0:44:35,93 --> 0:44:37,2
+the battery.
+
+
+1497
+0:44:37,2 --> 0:46:37,2
+♪ 
+
+

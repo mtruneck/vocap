@@ -1,0 +1,9385 @@
+1
+0:0:0,0 --> 0:0:1,962
+
+
+
+2
+0:0:1,962 --> 0:0:3,42
+CHADE-MENG TAN:
+Morning, everybody.
+
+
+3
+0:0:3,42 --> 0:0:4,97
+Thank you all for being here.
+
+
+4
+0:0:4,97 --> 0:0:6,6
+My name is Meng.
+
+
+5
+0:0:6,6 --> 0:0:8,32
+I'm the Jolly Good
+Fellow of Google,
+
+
+6
+0:0:8,32 --> 0:0:11,255
+and I'm delighted to be
+here with my friend Shawn,
+
+
+7
+0:0:11,255 --> 0:0:15,1
+a fellow Jolly Good
+Fellow and also
+
+
+8
+0:0:15,1 --> 0:0:17,98
+a fellow international
+bestselling author,
+
+
+9
+0:0:17,98 --> 0:0:20,57
+whose latest book is
+"Before Happiness,"
+
+
+10
+0:0:20,57 --> 0:0:22,2
+available at all
+major bookstores.
+
+
+11
+0:0:22,2 --> 0:0:25,65
+
+
+
+12
+0:0:25,65 --> 0:0:28,36
+The first thing you need
+to know about Shawn Achor
+
+
+13
+0:0:28,36 --> 0:0:32,6
+is that he is
+genuinely really nice.
+
+
+14
+0:0:32,6 --> 0:0:34,47
+You know about his
+public persona.
+
+
+15
+0:0:34,47 --> 0:0:36,75
+He's that nice,
+smiling, happy guy.
+
+
+16
+0:0:36,75 --> 0:0:39,804
+And in person, he
+is really that guy.
+
+
+17
+0:0:39,804 --> 0:0:41,22
+So that's the first
+thing you need
+
+
+18
+0:0:41,22 --> 0:0:45,49
+to know about him, genuinely
+beautiful human being.
+
+
+19
+0:0:45,49 --> 0:0:47,54
+The second thing you
+need to know about Shawn
+
+
+20
+0:0:47,54 --> 0:0:51,8
+is that he has one of the
+most popular TED Talks
+
+
+21
+0:0:51,8 --> 0:0:56,3
+ever, almost 6 million
+views the last I checked,
+
+
+22
+0:0:56,3 --> 0:0:58,42
+like 5.9 million or something.
+
+
+23
+0:0:58,42 --> 0:1:1,3
+So if he has $1 per
+view, he's going
+
+
+24
+0:1:1,3 --> 0:1:2,49
+to be the Six
+Million Dollar Man.
+
+
+25
+0:1:2,49 --> 0:1:6,8
+He's going to run in
+slow motion all the time.
+
+
+26
+0:1:6,8 --> 0:1:10,33
+His lectures airing on PBS
+have been seen by millions.
+
+
+27
+0:1:10,33 --> 0:1:16,23
+He is the winner of a dozen
+Distinguished Teaching Awards
+
+
+28
+0:1:16,23 --> 0:1:18,28
+at Harvard University,
+a fairly good university
+
+
+29
+0:1:18,28 --> 0:1:20,282
+the last I heard.
+
+
+30
+0:1:20,282 --> 0:1:22,14
+Just kidding.
+
+
+31
+0:1:22,14 --> 0:1:25,51
+Shawn is one of the
+world's leading experts
+
+
+32
+0:1:25,51 --> 0:1:29,4
+on the connection between
+happiness and success,
+
+
+33
+0:1:29,4 --> 0:1:32,59
+and he has traveled
+to 50 countries.
+
+
+34
+0:1:32,59 --> 0:1:34,15
+The first 49, it's kind of meh.
+
+
+35
+0:1:34,15 --> 0:1:37,2
+But 50, that was impressive.
+
+
+36
+0:1:37,2 --> 0:1:40,18
+With that, my friends, please
+welcome my friend Shawn A.
+
+
+37
+0:1:40,18 --> 0:1:43,168
+SHAWN ACHOR: Thank you.
+
+
+38
+0:1:43,168 --> 0:1:45,66
+Thank you, everyone.
+
+
+39
+0:1:45,66 --> 0:1:47,494
+CHADE-MENG TAN: So thank
+you for being here.
+
+
+40
+0:1:47,494 --> 0:1:49,118
+I've been looking
+forward to having you
+
+
+41
+0:1:49,118 --> 0:1:50,17
+for a really long time.
+
+
+42
+0:1:50,17 --> 0:1:51,2
+SHAWN ACHOR: Me too.
+
+
+43
+0:1:51,2 --> 0:1:52,2
+I'm absolutely thrilled.
+
+
+44
+0:1:52,2 --> 0:1:53,88
+And thank you so
+much for coming out.
+
+
+45
+0:1:53,88 --> 0:1:58,484
+It makes it so much more fun to
+have even all the people that
+
+
+46
+0:1:58,484 --> 0:1:59,4
+are being streamed in.
+
+
+47
+0:1:59,4 --> 0:2:1,229
+So thank you.
+
+
+48
+0:2:1,229 --> 0:2:3,77
+CHADE-MENG TAN: So this is going
+to be purely a conversation.
+
+
+49
+0:2:3,77 --> 0:2:6,84
+Q&A is a composition
+between us and Shawn.
+
+
+50
+0:2:6,84 --> 0:2:9,84
+And I'm just going ask a
+couple questions, and about
+
+
+51
+0:2:9,84 --> 0:2:11,97
+halfway into this
+conversation we're
+
+
+52
+0:2:11,97 --> 0:2:14,3
+going to invite you
+to ask him questions.
+
+
+53
+0:2:14,3 --> 0:2:15,819
+Feel free to embarrass him.
+
+
+54
+0:2:15,819 --> 0:2:16,61
+Don't embarrass me.
+
+
+55
+0:2:16,61 --> 0:2:18,79
+Embarrass this guy.
+
+
+56
+0:2:18,79 --> 0:2:23,69
+So Shawn, my first question
+for you a very simple question,
+
+
+57
+0:2:23,69 --> 0:2:25,165
+how do you define happiness?
+
+
+58
+0:2:25,165 --> 0:2:27,357
+
+
+
+59
+0:2:27,357 --> 0:2:29,44
+SHAWN ACHOR: It's actually
+pretty difficult for us
+
+
+60
+0:2:29,44 --> 0:2:31,77
+to define it.
+
+
+61
+0:2:31,77 --> 0:2:34,86
+As Meng mentioned,
+I've traveled to now
+
+
+62
+0:2:34,86 --> 0:2:37,34
+over 50 countries over
+the past seven years
+
+
+63
+0:2:37,34 --> 0:2:39,277
+studying happiness,
+which is great.
+
+
+64
+0:2:39,277 --> 0:2:41,36
+And one of the things that
+I realized very quickly
+
+
+65
+0:2:41,36 --> 0:2:43,47
+was that everyone had
+a different definition
+
+
+66
+0:2:43,47 --> 0:2:47,17
+of happiness, What they
+thought would create happiness,
+
+
+67
+0:2:47,17 --> 0:2:49,74
+the triggers for
+happiness seemed
+
+
+68
+0:2:49,74 --> 0:2:50,99
+to be different based
+upon different cultures,
+
+
+69
+0:2:50,99 --> 0:2:53,83
+different individuals, even
+at the same organization.
+
+
+70
+0:2:53,83 --> 0:2:56,8
+So if you can't define
+it, maybe can't study it.
+
+
+71
+0:2:56,8 --> 0:2:58,345
+And if you can't
+study it, then we
+
+
+72
+0:2:58,345 --> 0:3:0,95
+can't have things like
+positive psychology
+
+
+73
+0:3:0,95 --> 0:3:2,45
+that are looking at how do
+we raise levels of happiness
+
+
+74
+0:3:2,45 --> 0:3:3,81
+for other people.
+
+
+75
+0:3:3,81 --> 0:3:6,114
+Part of what we found is
+that even though everyone
+
+
+76
+0:3:6,114 --> 0:3:7,53
+in this room and
+everyone watching
+
+
+77
+0:3:7,53 --> 0:3:10,31
+has different
+definitions of happiness,
+
+
+78
+0:3:10,31 --> 0:3:12,27
+if I ask you on a
+scale of 1 to 10
+
+
+79
+0:3:12,27 --> 0:3:15,34
+how happy you felt over the
+past two weeks, most of us
+
+
+80
+0:3:15,34 --> 0:3:17,39
+can kind of put ourselves
+on that spectrum.
+
+
+81
+0:3:17,39 --> 0:3:21,615
+We can put ourselves
+somewhere on that range.
+
+
+82
+0:3:21,615 --> 0:3:23,84
+What we found is that
+even though that's
+
+
+83
+0:3:23,84 --> 0:3:26,55
+a subjective experience,
+if I go into a hospital
+
+
+84
+0:3:26,55 --> 0:3:29,22
+with a broken arm, there's no
+pain meter they can hook me
+
+
+85
+0:3:29,22 --> 0:3:33,9
+up to that automatically means
+I'm experiencing an 8 out
+
+
+86
+0:3:33,9 --> 0:3:36,92
+of 10 on a pain scale, the
+same thing is true happiness.
+
+
+87
+0:3:36,92 --> 0:3:38,605
+We treat people
+based upon the pain
+
+
+88
+0:3:38,605 --> 0:3:40,75
+that they actually experience,
+and we can actually
+
+
+89
+0:3:40,75 --> 0:3:44,0
+study people based upon
+their subjective experience
+
+
+90
+0:3:44,0 --> 0:3:46,17
+of happiness that they're
+experiencing in the world.
+
+
+91
+0:3:46,17 --> 0:3:48,419
+Part of what I'm hoping to
+do and part of the reason I
+
+
+92
+0:3:48,419 --> 0:3:51,26
+wanted to come to
+talk with you is
+
+
+93
+0:3:51,26 --> 0:3:54,43
+that what I'd love for us to do
+is to help the world redefine
+
+
+94
+0:3:54,43 --> 0:3:55,681
+what happiness actually means.
+
+
+95
+0:3:55,681 --> 0:3:57,888
+Because I think that there's
+a lot of confusion about
+
+
+96
+0:3:57,888 --> 0:3:59,1
+what happiness actually is.
+
+
+97
+0:3:59,1 --> 0:4:2,13
+And if we do come up with a
+definition that's aspirational,
+
+
+98
+0:4:2,13 --> 0:4:4,91
+maybe we can start a movement
+not only within our schools
+
+
+99
+0:4:4,91 --> 0:4:8,79
+and in our families but in
+our companies worldwide.
+
+
+100
+0:4:8,79 --> 0:4:11,21
+There's a lot of articles
+that are coming out right now
+
+
+101
+0:4:11,21 --> 0:4:14,8
+talking about how
+having a happy life
+
+
+102
+0:4:14,8 --> 0:4:17,12
+and having a meaningful life
+that a meaningful life is
+
+
+103
+0:4:17,12 --> 0:4:19,709
+so much better than having
+a happy life in terms
+
+
+104
+0:4:19,709 --> 0:4:23,15
+of the levels of health you
+experience in the long run.
+
+
+105
+0:4:23,15 --> 0:4:26,7
+I think those studies,
+while well-meaning,
+
+
+106
+0:4:26,7 --> 0:4:28,94
+are actually leading us astray.
+
+
+107
+0:4:28,94 --> 0:4:30,83
+Because I think it's
+impossible for us
+
+
+108
+0:4:30,83 --> 0:4:33,4
+to sustain happiness
+without meaning.
+
+
+109
+0:4:33,4 --> 0:4:36,282
+And as soon as we start to try
+to define happiness in our life
+
+
+110
+0:4:36,282 --> 0:4:38,24
+without having meaning,
+all we're talking about
+
+
+111
+0:4:38,24 --> 0:4:39,12
+is pleasure.
+
+
+112
+0:4:39,12 --> 0:4:41,34
+And pleasure is very
+short-term, right?
+
+
+113
+0:4:41,34 --> 0:4:43,84
+We could put chocolate bars
+in front of each of you,
+
+
+114
+0:4:43,84 --> 0:4:47,179
+and then we'd be done in
+terms of our happiness.
+
+
+115
+0:4:47,179 --> 0:4:49,47
+Somebody's like, wait, was
+that an option this morning?
+
+
+116
+0:4:49,47 --> 0:4:51,25
+I didn't even know that
+that would be an option.
+
+
+117
+0:4:51,25 --> 0:4:51,96
+CHADE-MENG TAN: It's Google.
+
+
+118
+0:4:51,96 --> 0:4:52,73
+It's always an option.
+
+
+119
+0:4:52,73 --> 0:4:53,605
+SHAWN ACHOR: Exactly.
+
+
+120
+0:4:53,605 --> 0:4:54,286
+Exactly.
+
+
+121
+0:4:54,286 --> 0:4:55,91
+You've got pleasure
+at your fingertips,
+
+
+122
+0:4:55,91 --> 0:4:58,243
+but that doesn't necessarily
+mean that you automatically
+
+
+123
+0:4:58,243 --> 0:4:59,74
+have happiness at
+your fingertips.
+
+
+124
+0:4:59,74 --> 0:5:1,69
+Because happiness,
+the way that we
+
+
+125
+0:5:1,69 --> 0:5:5,2
+are hoping to start your
+redefine this for the world
+
+
+126
+0:5:5,2 --> 0:5:6,99
+is to not have
+happiness be pleasure,
+
+
+127
+0:5:6,99 --> 0:5:8,48
+because that's very short-term.
+
+
+128
+0:5:8,48 --> 0:5:9,425
+And we get addicted to
+
+
+129
+0:5:9,425 --> 0:5:9,925
+It.
+
+
+130
+0:5:9,925 --> 0:5:11,591
+We were talking about
+that this morning.
+
+
+131
+0:5:11,591 --> 0:5:14,22
+If happiness is just a pleasure,
+it becomes a trap, right?
+
+
+132
+0:5:14,22 --> 0:5:16,139
+So if I'm not feeling
+pleasure right now,
+
+
+133
+0:5:16,139 --> 0:5:17,43
+well, then I must not be happy.
+
+
+134
+0:5:17,43 --> 0:5:18,79
+Then I'm not going to
+keep working at this,
+
+
+135
+0:5:18,79 --> 0:5:20,95
+or I'm not going to keep
+trying, because this
+
+
+136
+0:5:20,95 --> 0:5:21,92
+is too difficult now.
+
+
+137
+0:5:21,92 --> 0:5:24,83
+What I'm interested in is
+how do we redefine happiness
+
+
+138
+0:5:24,83 --> 0:5:31,25
+to be-- I stole this definition
+from the ancient Greeks--
+
+
+139
+0:5:31,25 --> 0:5:34,97
+the joy that we feel
+striving for our potential?
+
+
+140
+0:5:34,97 --> 0:5:36,62
+And I love this definition.
+
+
+141
+0:5:36,62 --> 0:5:38,65
+I was at the Divinity
+School before getting
+
+
+142
+0:5:38,65 --> 0:5:40,295
+into studying
+positive psychology,
+
+
+143
+0:5:40,295 --> 0:5:43,13
+and I was studying Christian
+and Buddhist ethics.
+
+
+144
+0:5:43,13 --> 0:5:45,25
+Because I was interested
+in how does the beliefs
+
+
+145
+0:5:45,25 --> 0:5:47,88
+you have about the
+world change the actions
+
+
+146
+0:5:47,88 --> 0:5:49,85
+you decide to do
+within that world.
+
+
+147
+0:5:49,85 --> 0:5:52,42
+And one of the things that I
+loved about this definition
+
+
+148
+0:5:52,42 --> 0:5:55,26
+when I saw it is it changes the
+way that we pursue happiness.
+
+
+149
+0:5:55,26 --> 0:5:56,954
+Because if happiness
+is just pleasure,
+
+
+150
+0:5:56,954 --> 0:5:58,87
+we have to keep running
+after it very quickly,
+
+
+151
+0:5:58,87 --> 0:6:0,97
+and we know it's
+not going to last.
+
+
+152
+0:6:0,97 --> 0:6:3,898
+But if happiness is
+joy, joy is something
+
+
+153
+0:6:3,898 --> 0:6:5,772
+we can feel in the ups
+and downs of our life.
+
+
+154
+0:6:5,772 --> 0:6:8,7
+It's something we can experience
+even when things are not
+
+
+155
+0:6:8,7 --> 0:6:10,5
+pleasurable, when you're working
+on a very difficult project,
+
+
+156
+0:6:10,5 --> 0:6:11,78
+when you're going
+for a difficult run,
+
+
+157
+0:6:11,78 --> 0:6:14,78
+or when you're biking into
+and it's a really long bike
+
+
+158
+0:6:14,78 --> 0:6:16,75
+ride, whatever is it
+you're experiencing.
+
+
+159
+0:6:16,75 --> 0:6:19,38
+Even childbirth is not
+a pleasurable experience
+
+
+160
+0:6:19,38 --> 0:6:21,54
+all the time, but
+you can actually
+
+
+161
+0:6:21,54 --> 0:6:23,75
+feel joy in the midst of that.
+
+
+162
+0:6:23,75 --> 0:6:26,33
+What I want people to do is
+to recognize and to actually
+
+
+163
+0:6:26,33 --> 0:6:28,85
+seek out that joy, which I know
+is one of your pet projects
+
+
+164
+0:6:28,85 --> 0:6:29,67
+as well.
+
+
+165
+0:6:29,67 --> 0:6:33,27
+How do you see joy, but joy
+that's connected to growth?
+
+
+166
+0:6:33,27 --> 0:6:36,55
+Because if happiness is actually
+disconnected from growth,
+
+
+167
+0:6:36,55 --> 0:6:39,7
+it turns out we stagnate
+and our happiness
+
+
+168
+0:6:39,7 --> 0:6:41,15
+goes away pretty quickly.
+
+
+169
+0:6:41,15 --> 0:6:43,58
+I love playing video games.
+
+
+170
+0:6:43,58 --> 0:6:44,58
+I love them.
+
+
+171
+0:6:44,58 --> 0:6:49,4
+And they're very high levels of
+pleasure, and I'm OK at them.
+
+
+172
+0:6:49,4 --> 0:6:51,33
+But in terms of
+long-term meaning,
+
+
+173
+0:6:51,33 --> 0:6:53,0
+there's not too much
+for me in my life.
+
+
+174
+0:6:53,0 --> 0:6:54,83
+Now for some people, there's a
+lot of meaning in video games.
+
+
+175
+0:6:54,83 --> 0:6:56,29
+But for me, not so much.
+
+
+176
+0:6:56,29 --> 0:6:58,54
+So if I keep doing it, even
+though I'm having pleasure
+
+
+177
+0:6:58,54 --> 0:7:0,71
+that pleasure actually
+dissipates after a while,
+
+
+178
+0:7:0,71 --> 0:7:3,62
+because I'm not actually
+pursuing any of my potential
+
+
+179
+0:7:3,62 --> 0:7:5,8
+except within that one domain.
+
+
+180
+0:7:5,8 --> 0:7:7,47
+The thing I love about
+joy that we experience
+
+
+181
+0:7:7,47 --> 0:7:9,6
+striving towards
+our potential is
+
+
+182
+0:7:9,6 --> 0:7:10,51
+that potential
+could be anything.
+
+
+183
+0:7:10,51 --> 0:7:13,9
+It could be as an entrepreneur,
+as a business leader.
+
+
+184
+0:7:13,9 --> 0:7:19,2
+It could be as a lover,
+as a son, as a daughter,
+
+
+185
+0:7:19,2 --> 0:7:20,34
+as a human being.
+
+
+186
+0:7:20,34 --> 0:7:22,4
+And the more than we actually
+strive towards that potential,
+
+
+187
+0:7:22,4 --> 0:7:24,191
+that's where people
+experience that greater
+
+
+188
+0:7:24,191 --> 0:7:25,73
+levels of happiness,
+and it allows
+
+
+189
+0:7:25,73 --> 0:7:29,15
+us to stop making that disjunct
+between happiness and success.
+
+
+190
+0:7:29,15 --> 0:7:32,11
+Because I was out in Indonesia,
+and I was speaking out
+
+
+191
+0:7:32,11 --> 0:7:33,362
+at one of the factories there.
+
+
+192
+0:7:33,362 --> 0:7:35,32
+And one of the managers
+came up to me and said,
+
+
+193
+0:7:35,32 --> 0:7:37,97
+this talk on happiness might
+work at places like Google
+
+
+194
+0:7:37,97 --> 0:7:40,5
+or it might work in
+places in America,
+
+
+195
+0:7:40,5 --> 0:7:43,225
+but seriously actually our
+problem in our country is not
+
+
+196
+0:7:43,225 --> 0:7:44,46
+that people are unhappy work.
+
+
+197
+0:7:44,46 --> 0:7:47,77
+Our problem is sometimes
+people are way too happy.
+
+
+198
+0:7:47,77 --> 0:7:51,46
+Because I had this guy come into
+work three hours late today,
+
+
+199
+0:7:51,46 --> 0:7:53,41
+and I tried to yell at
+him, and he was like,
+
+
+200
+0:7:53,41 --> 0:7:54,88
+what are you doing?
+
+
+201
+0:7:54,88 --> 0:7:56,63
+Let's just relax and
+just enjoy ourselves.
+
+
+202
+0:7:56,63 --> 0:7:59,244
+And I was like, that guy
+didn't make me happy at all.
+
+
+203
+0:7:59,244 --> 0:8:1,66
+But what he's talking about
+there is not happiness, right?
+
+
+204
+0:8:1,66 --> 0:8:2,79
+That's short-term pleasure.
+
+
+205
+0:8:2,79 --> 0:8:4,32
+The guy decide to
+stay home that morning
+
+
+206
+0:8:4,32 --> 0:8:6,653
+and didn't do the work that
+he was supposed to be doing.
+
+
+207
+0:8:6,653 --> 0:8:9,99
+But if that's what
+it is, then long-term
+
+
+208
+0:8:9,99 --> 0:8:11,39
+his levels of happiness are
+actually going to decrease.
+
+
+209
+0:8:11,39 --> 0:8:13,29
+He's never going to get to
+see what his potential was
+
+
+210
+0:8:13,29 --> 0:8:14,331
+within that organization.
+
+
+211
+0:8:14,331 --> 0:8:16,39
+He might not get to see
+what his potential was
+
+
+212
+0:8:16,39 --> 0:8:20,95
+in terms of applying his
+self-control and his behavior
+
+
+213
+0:8:20,95 --> 0:8:21,65
+to his task.
+
+
+214
+0:8:21,65 --> 0:8:23,8
+So what we want people
+to do is to recognize
+
+
+215
+0:8:23,8 --> 0:8:30,97
+that that can be more
+on the side of apathy.
+
+
+216
+0:8:30,97 --> 0:8:33,86
+I think the opposite of
+happiness is not unhappiness.
+
+
+217
+0:8:33,86 --> 0:8:37,28
+The opposite of
+happiness is apathy,
+
+
+218
+0:8:37,28 --> 0:8:39,62
+which is the loss of joy that
+we feel within our lives.
+
+
+219
+0:8:39,62 --> 0:8:42,49
+Because if you think about
+it, unhappiness can sometimes
+
+
+220
+0:8:42,49 --> 0:8:44,19
+make us breakup with people
+we shouldn't be dating.
+
+
+221
+0:8:44,19 --> 0:8:46,715
+Or unhappiness can cause us
+to move to do different jobs,
+
+
+222
+0:8:46,715 --> 0:8:49,84
+or it can cause us to want to
+get better grades in school.
+
+
+223
+0:8:49,84 --> 0:8:51,47
+Unhappiness can be very helpful.
+
+
+224
+0:8:51,47 --> 0:8:53,97
+What I think becomes
+the problem is
+
+
+225
+0:8:53,97 --> 0:8:56,26
+when we've lost that
+joy in our life, when
+
+
+226
+0:8:56,26 --> 0:8:58,76
+we lose that joy striving
+towards our potential.
+
+
+227
+0:8:58,76 --> 0:9:0,85
+So I think that there's a
+revolution inside of us.
+
+
+228
+0:9:0,85 --> 0:9:3,285
+If we can help people
+realize that happiness is joy
+
+
+229
+0:9:3,285 --> 0:9:5,7
+that we feel on the
+way to our potential,
+
+
+230
+0:9:5,7 --> 0:9:7,88
+some amazing things
+start to change.
+
+
+231
+0:9:7,88 --> 0:9:9,3
+CHADE-MENG TAN: Fascinating.
+
+
+232
+0:9:9,3 --> 0:9:11,63
+It's especially
+fascinating in the context
+
+
+233
+0:9:11,63 --> 0:9:14,87
+of one of your teachings
+from your previous book,
+
+
+234
+0:9:14,87 --> 0:9:17,65
+which I thought was
+ground-breaking.
+
+
+235
+0:9:17,65 --> 0:9:21,54
+And when I first read it,
+I was really impressed.
+
+
+236
+0:9:21,54 --> 0:9:24,23
+In your previous book, which
+is "The Happiness Advantage,"
+
+
+237
+0:9:24,23 --> 0:9:27,48
+you talk about the relationship
+between happiness and success.
+
+
+238
+0:9:27,48 --> 0:9:30,701
+And you put it on
+its head, the reverse
+
+
+239
+0:9:30,701 --> 0:9:32,2
+of what everybody
+else was thinking.
+
+
+240
+0:9:32,2 --> 0:9:32,47
+SHAWN ACHOR: Yeah.
+
+
+241
+0:9:32,47 --> 0:9:33,8
+CHADE-MENG TAN:
+Which is everybody
+
+
+242
+0:9:33,8 --> 0:9:35,81
+was thinking that if you're
+successful, you're happy,
+
+
+243
+0:9:35,81 --> 0:9:38,125
+which is basically the
+premise of Asian parenting.
+
+
+244
+0:9:38,125 --> 0:9:38,916
+[AUDIENCE LAUGHING]
+
+
+245
+0:9:38,916 --> 0:9:39,848
+CHADE-MENG TAN: Right?
+
+
+246
+0:9:39,848 --> 0:9:43,11
+Trust me, I know.
+
+
+247
+0:9:43,11 --> 0:9:45,7
+But what you say,
+and I agree with you,
+
+
+248
+0:9:45,7 --> 0:9:47,1
+is that it's the reverse.
+
+
+249
+0:9:47,1 --> 0:9:51,58
+It's that happiness
+brings about success.
+
+
+250
+0:9:51,58 --> 0:9:53,5
+So can you talk more about that?
+
+
+251
+0:9:53,5 --> 0:9:54,25
+SHAWN ACHOR: Sure.
+
+
+252
+0:9:54,25 --> 0:9:59,28
+So you guys might have heard
+"The Battle Hymn of the Tiger
+
+
+253
+0:9:59,28 --> 0:10:1,95
+Mother" book that came out
+about tiger parenting, which
+
+
+254
+0:10:1,95 --> 0:10:4,34
+is the style of parenting
+you're describing,
+
+
+255
+0:10:4,34 --> 0:10:7,48
+which is I'm going to
+push you so far right now,
+
+
+256
+0:10:7,48 --> 0:10:10,21
+and you're going to hate me for
+it, but when you're successful,
+
+
+257
+0:10:10,21 --> 0:10:12,45
+when you're off at
+Harvard, Stanford,
+
+
+258
+0:10:12,45 --> 0:10:14,95
+when you've got a good job,
+then you're going to be happier.
+
+
+259
+0:10:14,95 --> 0:10:16,6
+CHADE-MENG TAN: Right.
+
+
+260
+0:10:16,6 --> 0:10:18,309
+SHAWN ACHOR: And it turns
+out that that formula, which
+
+
+261
+0:10:18,309 --> 0:10:21,33
+undergirds our managing styles
+at most companies, our learning
+
+
+262
+0:10:21,33 --> 0:10:23,79
+styles, our personal
+development styles, it's
+
+
+263
+0:10:23,79 --> 0:10:27,27
+scientifically broken and
+backwards for two reasons.
+
+
+264
+0:10:27,27 --> 0:10:30,804
+The first reason is that every
+time your brain has a success--
+
+
+265
+0:10:30,804 --> 0:10:31,97
+and you've experienced this.
+
+
+266
+0:10:31,97 --> 0:10:33,511
+Everyone in this
+room has experienced
+
+
+267
+0:10:33,511 --> 0:10:36,69
+this-- your brain just
+changes the goal post of what
+
+
+268
+0:10:36,69 --> 0:10:38,765
+success looks like for
+you almost immediately.
+
+
+269
+0:10:38,765 --> 0:10:40,14
+You've got good
+grades in school?
+
+
+270
+0:10:40,14 --> 0:10:41,62
+Don't get excited
+yet, because now you
+
+
+271
+0:10:41,62 --> 0:10:42,953
+need to get into better schools.
+
+
+272
+0:10:42,953 --> 0:10:44,19
+You got into a better school?
+
+
+273
+0:10:44,19 --> 0:10:46,49
+Don't get excited there, because
+then you have to get a job.
+
+
+274
+0:10:46,49 --> 0:10:47,51
+You don't even have
+a job yet, right?
+
+
+275
+0:10:47,51 --> 0:10:49,6
+So you have to get that
+internship and job.
+
+
+276
+0:10:49,6 --> 0:10:50,143
+You hit your sales target?
+
+
+277
+0:10:50,143 --> 0:10:51,6
+We raise your sales target.
+
+
+278
+0:10:51,6 --> 0:10:53,38
+You had double growth
+earnings last year?
+
+
+279
+0:10:53,38 --> 0:10:54,14
+That's phenomenal.
+
+
+280
+0:10:54,14 --> 0:10:56,12
+That means we can double
+the growth again this year.
+
+
+281
+0:10:56,12 --> 0:10:57,244
+And that's not the problem.
+
+
+282
+0:10:57,244 --> 0:10:59,17
+We want to see what your
+brain is capable of.
+
+
+283
+0:10:59,17 --> 0:11:0,65
+We want growth to improve.
+
+
+284
+0:11:0,65 --> 0:11:2,25
+We want to see
+sales improve, all
+
+
+285
+0:11:2,25 --> 0:11:3,483
+of these different
+types of things.
+
+
+286
+0:11:3,483 --> 0:11:5,92
+The problem is where happiness
+comes in that formula.
+
+
+287
+0:11:5,92 --> 0:11:8,8
+Because if happiness
+comes after success,
+
+
+288
+0:11:8,8 --> 0:11:9,71
+which is a moving
+target, the brain
+
+
+289
+0:11:9,71 --> 0:11:12,59
+never gets there for very long.
+
+
+290
+0:11:12,59 --> 0:11:14,85
+We can raise your success
+rates your entire life.
+
+
+291
+0:11:14,85 --> 0:11:15,967
+We can raise your income.
+
+
+292
+0:11:15,967 --> 0:11:17,5
+We don't actually do this.
+
+
+293
+0:11:17,5 --> 0:11:19,19
+We watch people whose
+success rates rise.
+
+
+294
+0:11:19,19 --> 0:11:21,8
+That'd be very
+hard for us to do.
+
+
+295
+0:11:21,8 --> 0:11:23,33
+We watch people whose success
+rates rise dramatically,
+
+
+296
+0:11:23,33 --> 0:11:26,25
+and their happiness
+levels flatline.
+
+
+297
+0:11:26,25 --> 0:11:27,49
+They actually don't move.
+
+
+298
+0:11:27,49 --> 0:11:29,775
+So as your success
+rises in your life,
+
+
+299
+0:11:29,775 --> 0:11:32,232
+your happiness levels will
+actually remain about the same.
+
+
+300
+0:11:32,232 --> 0:11:33,69
+But flip around
+the formula, if you
+
+
+301
+0:11:33,69 --> 0:11:36,68
+can get people to deepen the
+social connection they feel,
+
+
+302
+0:11:36,68 --> 0:11:38,93
+the meaning embedded in the
+relationships, the breadth
+
+
+303
+0:11:38,93 --> 0:11:41,48
+and depth of the relationships,
+if you change and raise
+
+
+304
+0:11:41,48 --> 0:11:43,855
+their levels of optimism, if
+you get people to see stress
+
+
+305
+0:11:43,855 --> 0:11:45,88
+as a challenge instead
+of as a threat,
+
+
+306
+0:11:45,88 --> 0:11:47,71
+when our brain is
+positive first,
+
+
+307
+0:11:47,71 --> 0:11:50,87
+every single educational
+outcome and business outcome
+
+
+308
+0:11:50,87 --> 0:11:53,58
+we can test for
+rises dramatically,
+
+
+309
+0:11:53,58 --> 0:11:54,85
+and our success rates rise.
+
+
+310
+0:11:54,85 --> 0:11:57,2
+So raised success rates,
+happiness flatlines.
+
+
+311
+0:11:57,2 --> 0:11:59,79
+But raise levels of happiness
+withinside organizations
+
+
+312
+0:11:59,79 --> 0:12:1,36
+and schools, and
+their success rates
+
+
+313
+0:12:1,36 --> 0:12:6,6
+rise dramatically,
+which is phenomenal.
+
+
+314
+0:12:6,6 --> 0:12:10,134
+I spent 12 years at Harvard,
+first as an undergraduate
+
+
+315
+0:12:10,134 --> 0:12:11,55
+and then I was at
+Divinity School,
+
+
+316
+0:12:11,55 --> 0:12:13,33
+and then I was a
+teaching fellow there.
+
+
+317
+0:12:13,33 --> 0:12:19,29
+And when I first got into
+Harvard, I applied on a dare,
+
+
+318
+0:12:19,29 --> 0:12:21,22
+so I didn't expect to get in.
+
+
+319
+0:12:21,22 --> 0:12:22,79
+We didn't have any
+money for college,
+
+
+320
+0:12:22,79 --> 0:12:25,64
+but I got a Navy
+ROTC scholarship,
+
+
+321
+0:12:25,64 --> 0:12:28,79
+which allowed me to
+go there through MIT.
+
+
+322
+0:12:28,79 --> 0:12:31,63
+And so I found myself in
+classrooms full of people
+
+
+323
+0:12:31,63 --> 0:12:35,49
+who were incredibly smart
+and were just amazing.
+
+
+324
+0:12:35,49 --> 0:12:37,79
+And I remember that I could
+have felt bad about myself,
+
+
+325
+0:12:37,79 --> 0:12:40,55
+like the mistake, but I remember
+just sitting there thinking
+
+
+326
+0:12:40,55 --> 0:12:42,52
+this is amazing to get
+to have the opportunity
+
+
+327
+0:12:42,52 --> 0:12:45,19
+like this morning,
+to get to spend time
+
+
+328
+0:12:45,19 --> 0:12:48,37
+with all these incredibly
+brilliant and motivated people.
+
+
+329
+0:12:48,37 --> 0:12:51,27
+And you can look around,
+and for many of you--
+
+
+330
+0:12:51,27 --> 0:12:55,43
+I know some of you are
+from Harvard, actually--
+
+
+331
+0:12:55,43 --> 0:12:57,0
+and you could see
+the students who
+
+
+332
+0:12:57,0 --> 0:12:59,63
+saw their education
+as a privilege.
+
+
+333
+0:12:59,63 --> 0:13:1,63
+They saw what they were
+doing as an opportunity,
+
+
+334
+0:13:1,63 --> 0:13:3,838
+and they invested in it in
+completely different ways.
+
+
+335
+0:13:3,838 --> 0:13:5,97
+They'd take classes that
+they'd get a bad grade in,
+
+
+336
+0:13:5,97 --> 0:13:8,949
+like an A-minus, just
+because they wanted to learn.
+
+
+337
+0:13:8,949 --> 0:13:10,49
+Or they'd get involved
+with a sport--
+
+
+338
+0:13:10,49 --> 0:13:12,435
+CHADE-MENG TAN:
+Obviously not Asian.
+
+
+339
+0:13:12,435 --> 0:13:13,49
+That's like an Asian C.
+
+
+340
+0:13:13,49 --> 0:13:14,365
+SHAWN ACHOR: Exactly.
+
+
+341
+0:13:14,365 --> 0:13:15,98
+[AUDIENCE LAUGHING]
+
+
+342
+0:13:15,98 --> 0:13:18,454
+SHAWN ACHOR: I like that.
+
+
+343
+0:13:18,454 --> 0:13:20,69
+CHADE-MENG TAN:
+I'm just kidding.
+
+
+344
+0:13:20,69 --> 0:13:23,184
+Almost.
+
+
+345
+0:13:23,184 --> 0:13:24,6
+SHAWN ACHOR: We'd
+have people that
+
+
+346
+0:13:24,6 --> 0:13:27,881
+would ride the bench on
+a sport for three years
+
+
+347
+0:13:27,881 --> 0:13:29,63
+just so they could
+make friends, and those
+
+
+348
+0:13:29,63 --> 0:13:31,0
+are the people who
+loved their time there.
+
+
+349
+0:13:31,0 --> 0:13:32,1
+And actually, in
+one of our studies
+
+
+350
+0:13:32,1 --> 0:13:33,67
+we found that those
+are the people who
+
+
+351
+0:13:33,67 --> 0:13:35,2
+give the most in
+alumni donations
+
+
+352
+0:13:35,2 --> 0:13:37,15
+back to the school
+later on, which
+
+
+353
+0:13:37,15 --> 0:13:40,12
+is why Harvard got interested
+in happiness in the first place.
+
+
+354
+0:13:40,12 --> 0:13:42,5
+[AUDIENCE LAUGHING]
+
+
+355
+0:13:42,5 --> 0:13:45,53
+SHAWN ACHOR: But afterwards,
+I got the opportunity
+
+
+356
+0:13:45,53 --> 0:13:46,39
+to stay at Harvard.
+
+
+357
+0:13:46,39 --> 0:13:49,9
+I knew that if I left they
+wouldn't let me back in.
+
+
+358
+0:13:49,9 --> 0:13:51,24
+And so I stayed there
+for the next eight years,
+
+
+359
+0:13:51,24 --> 0:13:53,59
+and I lived in the dorms with
+the freshman as a Proctor
+
+
+360
+0:13:53,59 --> 0:13:54,73
+there.
+
+
+361
+0:13:54,73 --> 0:14:0,49
+And Harvard invited me to do
+that-- I wasn't that guy who
+
+
+362
+0:14:0,49 --> 0:14:2,85
+stays in the freshman dorms
+meeting people-- for most
+
+
+363
+0:14:2,85 --> 0:14:3,3
+of it.
+
+
+364
+0:14:3,3 --> 0:14:5,19
+So what it meant was I could
+watch these students transition
+
+
+365
+0:14:5,19 --> 0:14:6,522
+from high school to college.
+
+
+366
+0:14:6,522 --> 0:14:8,23
+And what I saw very
+quickly was no matter
+
+
+367
+0:14:8,23 --> 0:14:10,852
+how happy they were getting into
+that school, two weeks later,
+
+
+368
+0:14:10,852 --> 0:14:12,31
+many of them, their
+brains were not
+
+
+369
+0:14:12,31 --> 0:14:14,856
+focused on the privilege of
+being there or even fully
+
+
+370
+0:14:14,856 --> 0:14:16,48
+focused on their
+philosophy or physics.
+
+
+371
+0:14:16,48 --> 0:14:19,137
+Their brains were scattered
+thinking about the competition,
+
+
+372
+0:14:19,137 --> 0:14:21,47
+the workload, the stresses,
+the hassles, and complaints.
+
+
+373
+0:14:21,47 --> 0:14:23,92
+And very quickly, what was
+promised to create great
+
+
+374
+0:14:23,92 --> 0:14:25,65
+happiness wasn't.
+
+
+375
+0:14:25,65 --> 0:14:28,35
+80% of Harvard students,
+according to the "Crimson" poll
+
+
+376
+0:14:28,35 --> 0:14:30,235
+that they had, 80%
+of them reported
+
+
+377
+0:14:30,235 --> 0:14:32,61
+experiencing depression at
+sometime during the four years
+
+
+378
+0:14:32,61 --> 0:14:33,16
+there.
+
+
+379
+0:14:33,16 --> 0:14:35,77
+And a study that came out in
+2003 by the University Health
+
+
+380
+0:14:35,77 --> 0:14:40,0
+Services, they measured
+6,000 undergraduates
+
+
+381
+0:14:40,0 --> 0:14:43,2
+and found that 10% of them
+had contemplated suicide
+
+
+382
+0:14:43,2 --> 0:14:44,81
+at some point during
+their time there,
+
+
+383
+0:14:44,81 --> 0:14:46,93
+which is extraordinarily high.
+
+
+384
+0:14:46,93 --> 0:14:48,72
+And I know that
+these are statistics,
+
+
+385
+0:14:48,72 --> 0:14:50,187
+but those are human beings.
+
+
+386
+0:14:50,187 --> 0:14:52,52
+And it was heartbreaking
+watching some of these students
+
+
+387
+0:14:52,52 --> 0:14:55,7
+and some of the
+people that we know
+
+
+388
+0:14:55,7 --> 0:14:59,5
+lose that connection to meaning
+in their life and the potential
+
+
+389
+0:14:59,5 --> 0:15:0,727
+that they had.
+
+
+390
+0:15:0,727 --> 0:15:2,56
+One of the studies that
+I got to do early on
+
+
+391
+0:15:2,56 --> 0:15:4,59
+was I looked at 1,600
+Harvard students
+
+
+392
+0:15:4,59 --> 0:15:7,88
+to find out who
+rises to the top.
+
+
+393
+0:15:7,88 --> 0:15:10,1
+If you have people that
+are extremely intelligent,
+
+
+394
+0:15:10,1 --> 0:15:12,24
+extremely successful,
+ambitious, who
+
+
+395
+0:15:12,24 --> 0:15:14,615
+rises to the top in terms of
+their happiness and success?
+
+
+396
+0:15:14,615 --> 0:15:15,739
+And I looked at everything.
+
+
+397
+0:15:15,739 --> 0:15:17,89
+I looked at what grades
+they got in school.
+
+
+398
+0:15:17,89 --> 0:15:20,14
+I looked at their
+familial income.
+
+
+399
+0:15:20,14 --> 0:15:22,59
+We looked at the SAT scores
+before getting into school.
+
+
+400
+0:15:22,59 --> 0:15:24,89
+We looked at the number
+of friends on Facebook.
+
+
+401
+0:15:24,89 --> 0:15:26,84
+We looked at the number
+of romantic partners
+
+
+402
+0:15:26,84 --> 0:15:27,59
+that they had had.
+
+
+403
+0:15:27,59 --> 0:15:29,18
+Which by the way,
+at Harvard they've
+
+
+404
+0:15:29,18 --> 0:15:31,32
+dated less than one
+person, on average,
+
+
+405
+0:15:31,32 --> 0:15:33,35
+after their entire
+four years of college.
+
+
+406
+0:15:33,35 --> 0:15:33,98
+CHADE-MENG TAN:
+Must be engineering?
+
+
+407
+0:15:33,98 --> 0:15:34,522
+I don't know.
+
+
+408
+0:15:34,522 --> 0:15:35,271
+SHAWN ACHOR: Yeah.
+
+
+409
+0:15:35,271 --> 0:15:35,79
+Possibly.
+
+
+410
+0:15:35,79 --> 0:15:39,23
+It was lower than any
+school we saw so far.
+
+
+411
+0:15:39,23 --> 0:15:42,395
+It was actually 0.5 sexual
+partners per Harvard student.
+
+
+412
+0:15:42,395 --> 0:15:43,77
+CHADE-MENG TAN:
+Yep, engineering.
+
+
+413
+0:15:43,77 --> 0:15:44,52
+SHAWN ACHOR: Yeah.
+
+
+414
+0:15:44,52 --> 0:15:45,312
+[AUDIENCE LAUGHING]
+
+
+415
+0:15:45,312 --> 0:15:47,561
+SHAWN ACHOR: Which I only
+mention because I don't even
+
+
+416
+0:15:47,561 --> 0:15:49,55
+know what that
+statistic means, 0.5.
+
+
+417
+0:15:49,55 --> 0:15:51,15
+We were always
+taught to round up.
+
+
+418
+0:15:51,15 --> 0:15:52,84
+CHADE-MENG TAN: Better than MIT.
+
+
+419
+0:15:52,84 --> 0:15:54,89
+SHAWN ACHOR: Possibly.
+
+
+420
+0:15:54,89 --> 0:15:55,39
+Probably.
+
+
+421
+0:15:55,39 --> 0:15:57,35
+[AUDIENCE LAUGHING]
+
+
+422
+0:15:57,35 --> 0:15:58,92
+SHAWN ACHOR: But
+0.5 sexual partners,
+
+
+423
+0:15:58,92 --> 0:16:1,79
+it's the scientific
+equivalent of second base,
+
+
+424
+0:16:1,79 --> 0:16:2,62
+and it was useless
+information to us.
+
+
+425
+0:16:2,62 --> 0:16:6,34
+[AUDIENCE LAUGHING]
+
+
+426
+0:16:6,34 --> 0:16:9,0
+SHAWN ACHOR: What we did find
+was imagine a student who
+
+
+427
+0:16:9,0 --> 0:16:10,647
+ever since they
+were one-year-old
+
+
+428
+0:16:10,647 --> 0:16:12,98
+was placed into a crib wearing
+a onesie that you can buy
+
+
+429
+0:16:12,98 --> 0:16:16,41
+at the bookstore, at The Coop,
+that says "Bound for Harvard"
+
+
+430
+0:16:16,41 --> 0:16:19,781
+and maybe a cute little Yale
+hat, in case something terrible
+
+
+431
+0:16:19,781 --> 0:16:20,28
+happened.
+
+
+432
+0:16:20,28 --> 0:16:23,45
+[AUDIENCE LAUGHING]
+
+
+433
+0:16:23,45 --> 0:16:24,42
+SHAWN ACHOR: And
+ever since there
+
+
+434
+0:16:24,42 --> 0:16:27,259
+were in special pre-K school
+that they got into four years
+
+
+435
+0:16:27,259 --> 0:16:28,8
+before they were
+conceived, they were
+
+
+436
+0:16:28,8 --> 0:16:30,39
+at the top 1% of their class.
+
+
+437
+0:16:30,39 --> 0:16:32,96
+Junior high, high school,
+standardized tests, top 1%.
+
+
+438
+0:16:32,96 --> 0:16:35,46
+They get into Harvard, and they
+have a terrible realization.
+
+
+439
+0:16:35,46 --> 0:16:37,615
+50% of them are
+now below average.
+
+
+440
+0:16:37,615 --> 0:16:39,24
+And to put it more
+poignantly, when
+
+
+441
+0:16:39,24 --> 0:16:41,28
+I was counseling students
+I would tell them
+
+
+442
+0:16:41,28 --> 0:16:44,43
+it seems as if 99%
+of Harvard students
+
+
+443
+0:16:44,43 --> 0:16:47,336
+do not graduate in
+the top 1%, which
+
+
+444
+0:16:47,336 --> 0:16:48,6
+they don't find funny at all.
+
+
+445
+0:16:48,6 --> 0:16:49,77
+[AUDIENCE LAUGHING]
+
+
+446
+0:16:49,77 --> 0:16:51,8
+SHAWN ACHOR: But the
+reason that's interesting
+
+
+447
+0:16:51,8 --> 0:16:52,454
+is they decide
+the only way I can
+
+
+448
+0:16:52,454 --> 0:16:56,53
+be happy is if I'm in the
+top 1% of one category of one
+
+
+449
+0:16:56,53 --> 0:16:57,81
+institution, right?
+
+
+450
+0:16:57,81 --> 0:16:58,394
+Not worldwide.
+
+
+451
+0:16:58,394 --> 0:16:59,851
+And they pick
+grades-- which if you
+
+
+452
+0:16:59,851 --> 0:17:2,34
+know the research on grades,
+you can roll a pair of dice,
+
+
+453
+0:17:2,34 --> 0:17:5,4
+and that's as predictive
+of your future job success
+
+
+454
+0:17:5,4 --> 0:17:7,709
+as your college GPA
+is, which is why
+
+
+455
+0:17:7,709 --> 0:17:9,72
+a lot of people who make
+straight A's in college
+
+
+456
+0:17:9,72 --> 0:17:13,996
+work for people who got
+straight C's in business school.
+
+
+457
+0:17:13,996 --> 0:17:15,79
+Some of you are like, yep.
+
+
+458
+0:17:15,79 --> 0:17:16,787
+But part of what I
+think is fascinating--
+
+
+459
+0:17:16,787 --> 0:17:17,71
+[AUDIENCE LAUGHING]
+
+
+460
+0:17:17,71 --> 0:17:19,96
+SHAWN ACHOR: What I think
+is so fascinating about this
+
+
+461
+0:17:19,96 --> 0:17:22,349
+is that we've got the
+formula backwards.
+
+
+462
+0:17:22,349 --> 0:17:25,39
+They thought, well, if I
+got into a good school,
+
+
+463
+0:17:25,39 --> 0:17:28,64
+if I got a great job, if I
+got to where I am in life,
+
+
+464
+0:17:28,64 --> 0:17:30,12
+of course I'd be happier.
+
+
+465
+0:17:30,12 --> 0:17:32,11
+And it turns out that
+it doesn't automatically
+
+
+466
+0:17:32,11 --> 0:17:33,6
+cause greater
+levels of happiness.
+
+
+467
+0:17:33,6 --> 0:17:36,711
+But amazingly, the formula could
+actually work in the other way.
+
+
+468
+0:17:36,711 --> 0:17:39,21
+We found something that we now
+call the happiness advantage,
+
+
+469
+0:17:39,21 --> 0:17:41,207
+which is when the brain
+is positive it has
+
+
+470
+0:17:41,207 --> 0:17:43,54
+an unfair advantage over the
+brain at negative, neutral,
+
+
+471
+0:17:43,54 --> 0:17:44,38
+or stressed.
+
+
+472
+0:17:44,38 --> 0:17:45,93
+You're 31% more productive.
+
+
+473
+0:17:45,93 --> 0:17:48,38
+Sales rise from a
+neutral salesperson
+
+
+474
+0:17:48,38 --> 0:17:51,87
+to the same salesperson
+at optimistic by 37%.
+
+
+475
+0:17:51,87 --> 0:17:54,63
+We found that people who
+provide social support work,
+
+
+476
+0:17:54,63 --> 0:17:57,0
+you're 40% more likely
+to receive a promotion
+
+
+477
+0:17:57,0 --> 0:17:58,83
+over the next two-year
+period of time.
+
+
+478
+0:17:58,83 --> 0:18:1,33
+We find that you live longer.
+
+
+479
+0:18:1,33 --> 0:18:2,62
+We just did a study, actually.
+
+
+480
+0:18:2,62 --> 0:18:4,221
+I love this study.
+
+
+481
+0:18:4,221 --> 0:18:5,72
+I got to work with
+one of my friends
+
+
+482
+0:18:5,72 --> 0:18:9,36
+who w one of my students
+at Harvard, Alia Crum.
+
+
+483
+0:18:9,36 --> 0:18:12,75
+And she went off to Yale.
+
+
+484
+0:18:12,75 --> 0:18:15,48
+We did a joint study
+at UBS in the middle
+
+
+485
+0:18:15,48 --> 0:18:17,742
+of the banking crisis,
+the big Swiss bank.
+
+
+486
+0:18:17,742 --> 0:18:19,45
+And one of the things
+we were looking for
+
+
+487
+0:18:19,45 --> 0:18:21,87
+is that oftentimes
+the companies would
+
+
+488
+0:18:21,87 --> 0:18:24,67
+want to push you very hard, and
+then your stress levels rise,
+
+
+489
+0:18:24,67 --> 0:18:27,516
+and then they give you a
+stress management program.
+
+
+490
+0:18:27,516 --> 0:18:28,89
+And the stress
+management program
+
+
+491
+0:18:28,89 --> 0:18:30,52
+goes something like this.
+
+
+492
+0:18:30,52 --> 0:18:32,98
+Did you know that stress is
+related to the 10 leading
+
+
+493
+0:18:32,98 --> 0:18:35,442
+causes of death and disease
+in the United States?
+
+
+494
+0:18:35,442 --> 0:18:37,4
+Did you know that the
+World Health Organization
+
+
+495
+0:18:37,4 --> 0:18:39,8
+found stress to be
+the number one killer?
+
+
+496
+0:18:39,8 --> 0:18:42,9
+Stress is related to 80% to 90%
+of all doctor-related visits.
+
+
+497
+0:18:42,9 --> 0:18:44,9
+And stress is catabolic.
+
+
+498
+0:18:44,9 --> 0:18:47,672
+It literally tears down every
+organ in the human body.
+
+
+499
+0:18:47,672 --> 0:18:49,63
+As soon as you hear that,
+what do you think it?
+
+
+500
+0:18:49,63 --> 0:18:50,709
+[AUDIENCE LAUGHING]
+
+
+501
+0:18:50,709 --> 0:18:51,75
+SHAWN ACHOR: More stress.
+
+
+502
+0:18:51,75 --> 0:18:53,91
+You're like, stop
+emailing me so much work.
+
+
+503
+0:18:53,91 --> 0:18:56,82
+You're destroying every
+organ in my body, which
+
+
+504
+0:18:56,82 --> 0:18:59,8
+I think would make a great
+away message at work.
+
+
+505
+0:18:59,8 --> 0:19:2,64
+But part of what we found
+is that all of that's true.
+
+
+506
+0:19:2,64 --> 0:19:4,77
+All of that information
+is absolutely true.
+
+
+507
+0:19:4,77 --> 0:19:6,72
+Stress is terrible killer.
+
+
+508
+0:19:6,72 --> 0:19:10,357
+But just like with Vitamin
+C and coffee and alcohol,
+
+
+509
+0:19:10,357 --> 0:19:11,94
+we keep finding
+studies that are like,
+
+
+510
+0:19:11,94 --> 0:19:14,53
+alcohol will save your
+life, and it will kill you.
+
+
+511
+0:19:14,53 --> 0:19:16,44
+Vitamin C causes cancer
+and cures cancer.
+
+
+512
+0:19:16,44 --> 0:19:17,51
+And we get so frustrated.
+
+
+513
+0:19:17,51 --> 0:19:18,8
+We're like, well, what
+am I supposed to do?
+
+
+514
+0:19:18,8 --> 0:19:20,341
+Am I supposed to
+drink coffee or not?
+
+
+515
+0:19:20,341 --> 0:19:22,64
+Am I supposed to
+drink red wine or not?
+
+
+516
+0:19:22,64 --> 0:19:25,377
+The reason is that it's less
+about the external world
+
+
+517
+0:19:25,377 --> 0:19:26,96
+but about how your
+body and your brain
+
+
+518
+0:19:26,96 --> 0:19:30,4
+process what comes into your
+system and what you experience.
+
+
+519
+0:19:30,4 --> 0:19:31,57
+The same thing's
+true with stress.
+
+
+520
+0:19:31,57 --> 0:19:33,545
+So there's an equally
+true information
+
+
+521
+0:19:33,545 --> 0:19:36,99
+that says that stress actually
+releases a growth hormone that
+
+
+522
+0:19:36,99 --> 0:19:38,76
+speeds up the
+recovery of your cells
+
+
+523
+0:19:38,76 --> 0:19:40,38
+faster than anything we've seen.
+
+
+524
+0:19:40,38 --> 0:19:42,65
+Not low levels of stress
+but moderate to high
+
+
+525
+0:19:42,65 --> 0:19:45,4
+levels of stress actually
+turn on your immune system
+
+
+526
+0:19:45,4 --> 0:19:46,64
+to the highest possible level.
+
+
+527
+0:19:46,64 --> 0:19:49,52
+We found that stress deepens
+your social bonds more
+
+
+528
+0:19:49,52 --> 0:19:52,1
+than anything, which is
+why last week I was out
+
+
+529
+0:19:52,1 --> 0:19:54,69
+working at the Pentagon, and one
+of the things they were saying
+
+
+530
+0:19:54,69 --> 0:19:57,27
+is that's why we on-board
+people in the military
+
+
+531
+0:19:57,27 --> 0:19:59,87
+with bootcamp and
+not a beach vacation,
+
+
+532
+0:19:59,87 --> 0:20:2,9
+because we know that that
+stressful period doesn't
+
+
+533
+0:20:2,9 --> 0:20:2,992
+tear people down.
+
+
+534
+0:20:2,992 --> 0:20:4,95
+It actually causes them
+to create these meaning
+
+
+535
+0:20:4,95 --> 0:20:7,158
+structures, these narratives,
+and these relationships
+
+
+536
+0:20:7,158 --> 0:20:9,64
+that they talk about for the
+entire rest of their life.
+
+
+537
+0:20:9,64 --> 0:20:11,58
+In fact, every moment
+of high human potential
+
+
+538
+0:20:11,58 --> 0:20:14,26
+occurs in the midst of
+stress, not the absence of it.
+
+
+539
+0:20:14,26 --> 0:20:16,17
+So what we did is we
+just showed them videos
+
+
+540
+0:20:16,17 --> 0:20:18,15
+and created a small
+training for the UBS
+
+
+541
+0:20:18,15 --> 0:20:20,52
+employees in the middle
+of a banking crisis
+
+
+542
+0:20:20,52 --> 0:20:23,3
+when they went through
+four restructurings
+
+
+543
+0:20:23,3 --> 0:20:26,33
+and they were told that
+they didn't get their bonus.
+
+
+544
+0:20:26,33 --> 0:20:28,3
+One of my very first
+talks was actually
+
+
+545
+0:20:28,3 --> 0:20:30,14
+at a Swiss bank out in Zurich.
+
+
+546
+0:20:30,14 --> 0:20:33,167
+And the introduction
+was, we don't
+
+
+547
+0:20:33,167 --> 0:20:35,0
+have bonuses for everyone,
+but here's a talk
+
+
+548
+0:20:35,0 --> 0:20:36,541
+on happiness from
+a guy from America.
+
+
+549
+0:20:36,541 --> 0:20:38,36
+[AUDIENCE LAUGHING]
+
+
+550
+0:20:38,36 --> 0:20:40,137
+CHADE-MENG TAN: Yay.
+
+
+551
+0:20:40,137 --> 0:20:41,12
+SHAWN ACHOR: Exactly.
+
+
+552
+0:20:41,12 --> 0:20:44,861
+
+
+
+553
+0:20:44,861 --> 0:20:46,61
+Which is amazing,
+because they immediately
+
+
+554
+0:20:46,61 --> 0:20:48,19
+stonewalled the information.
+
+
+555
+0:20:48,19 --> 0:20:49,56
+But 10 minutes later,
+as soon as they
+
+
+556
+0:20:49,56 --> 0:20:51,67
+started hearing that
+there's research about this,
+
+
+557
+0:20:51,67 --> 0:20:53,0
+suddenly things
+started to change.
+
+
+558
+0:20:53,0 --> 0:20:54,37
+Because it wasn't
+about just, oh, let's
+
+
+559
+0:20:54,37 --> 0:20:55,65
+be happier in the midst
+of this challenge.
+
+
+560
+0:20:55,65 --> 0:20:58,46
+It was like, here's how we can
+actually change the way that we
+
+
+561
+0:20:58,46 --> 0:21:0,54
+view this world and
+actually ripple this out
+
+
+562
+0:21:0,54 --> 0:21:2,647
+to other people around us.
+
+
+563
+0:21:2,647 --> 0:21:3,48
+I'm going off track.
+
+
+564
+0:21:3,48 --> 0:21:4,6
+We can come back to that.
+
+
+565
+0:21:4,6 --> 0:21:7,266
+But the part of what I found was
+so interesting about the stress
+
+
+566
+0:21:7,266 --> 0:21:9,58
+study was we had two groups.
+
+
+567
+0:21:9,58 --> 0:21:11,24
+One group saw stress
+as debilitating,
+
+
+568
+0:21:11,24 --> 0:21:12,875
+and one group saw
+stress as enhancing.
+
+
+569
+0:21:12,875 --> 0:21:15,52
+And we tracked them
+for the next six weeks.
+
+
+570
+0:21:15,52 --> 0:21:19,89
+And I was hoping that the group
+that saw stress as enhancing
+
+
+571
+0:21:19,89 --> 0:21:20,88
+would actually have
+lower levels of stress.
+
+
+572
+0:21:20,88 --> 0:21:22,68
+That was my hope,
+and we were wrong.
+
+
+573
+0:21:22,68 --> 0:21:26,13
+Turns out they had equal levels
+of stress and extremely high.
+
+
+574
+0:21:26,13 --> 0:21:29,77
+But their health-related
+symptoms, their back aches,
+
+
+575
+0:21:29,77 --> 0:21:32,81
+headaches, and fatigue,
+their energy levels at work
+
+
+576
+0:21:32,81 --> 0:21:36,21
+improved by 23% for the group
+that saw stress as enhancing,
+
+
+577
+0:21:36,21 --> 0:21:38,61
+a nearly 30% increase
+in their productivity,
+
+
+578
+0:21:38,61 --> 0:21:40,24
+and their levels of
+happiness improved.
+
+
+579
+0:21:40,24 --> 0:21:43,25
+What that means is stress
+is inevitable in our lives,
+
+
+580
+0:21:43,25 --> 0:21:46,13
+but the way that we
+perceive stress changes how
+
+
+581
+0:21:46,13 --> 0:21:47,6
+it affects the human body.
+
+
+582
+0:21:47,6 --> 0:21:50,97
+And the reason why we feel such
+a negative effect from stress
+
+
+583
+0:21:50,97 --> 0:21:53,24
+is because stress should
+be meaningful, right?
+
+
+584
+0:21:53,24 --> 0:21:55,719
+If I tell you your inbox is
+full of spam, you're like, OK,
+
+
+585
+0:21:55,719 --> 0:21:56,26
+I don't care.
+
+
+586
+0:21:56,26 --> 0:21:57,781
+But if your inbox
+is full of things
+
+
+587
+0:21:57,781 --> 0:21:59,78
+you need to get back that
+you wanted to get back
+
+
+588
+0:21:59,78 --> 0:22:1,85
+to that are meaningful for
+your job or connections
+
+
+589
+0:22:1,85 --> 0:22:3,724
+you want to make, suddenly
+you care about it.
+
+
+590
+0:22:3,724 --> 0:22:7,407
+Or if I tell somebody that
+somebody's kid is failing
+
+
+591
+0:22:7,407 --> 0:22:8,74
+English, they don't really care.
+
+
+592
+0:22:8,74 --> 0:22:11,9
+If their kid's failing English,
+they care a whole bunch.
+
+
+593
+0:22:11,9 --> 0:22:12,42
+Stress has meaning in it.
+
+
+594
+0:22:12,42 --> 0:22:15,859
+But when we separate the energy
+from stress from meaning,
+
+
+595
+0:22:15,859 --> 0:22:17,9
+that's when we get these
+negative health effects.
+
+
+596
+0:22:17,9 --> 0:22:19,79
+So what we found is we can
+actually train people out
+
+
+597
+0:22:19,79 --> 0:22:21,54
+of these ideas,
+which is incredible.
+
+
+598
+0:22:21,54 --> 0:22:25,21
+So all we have to do is deepen
+somebody's social connection,
+
+
+599
+0:22:25,21 --> 0:22:28,339
+change their optimism, or change
+the way that they view stress,
+
+
+600
+0:22:28,339 --> 0:22:30,38
+and we can actually improve
+every single business
+
+
+601
+0:22:30,38 --> 0:22:33,79
+and educational outcome
+worldwide, which is incredible.
+
+
+602
+0:22:33,79 --> 0:22:35,94
+CHADE-MENG TAN: Lovely.
+
+
+603
+0:22:35,94 --> 0:22:38,424
+Your first book, that really
+spoke to me on one level.
+
+
+604
+0:22:38,424 --> 0:22:40,59
+Because when you talk about
+the happiness advantage,
+
+
+605
+0:22:40,59 --> 0:22:45,22
+like happiness before
+success, I reflect on my life.
+
+
+606
+0:22:45,22 --> 0:22:47,38
+And for me, I'm a meditator.
+
+
+607
+0:22:47,38 --> 0:22:49,12
+I've been doing it 20 years.
+
+
+608
+0:22:49,12 --> 0:22:52,89
+And if your meditation
+practice is deep enough,
+
+
+609
+0:22:52,89 --> 0:22:55,1
+you get into a
+state where you are
+
+
+610
+0:22:55,1 --> 0:23:0,87
+happy independent of
+sensations and thoughts.
+
+
+611
+0:23:0,87 --> 0:23:2,59
+You are just happy.
+
+
+612
+0:23:2,59 --> 0:23:5,55
+And then everything you
+experience is bonus.
+
+
+613
+0:23:5,55 --> 0:23:7,75
+And then I found that
+when I'm consistently
+
+
+614
+0:23:7,75 --> 0:23:11,65
+in that from of mind I
+became even more successful.
+
+
+615
+0:23:11,65 --> 0:23:16,4
+And what you gave me was the
+vocabulary and the research
+
+
+616
+0:23:16,4 --> 0:23:18,2
+to understand this
+whole experience.
+
+
+617
+0:23:18,2 --> 0:23:20,665
+So I'm really grateful
+to you for that.
+
+
+618
+0:23:20,665 --> 0:23:23,8
+
+
+
+619
+0:23:23,8 --> 0:23:27,27
+So for me, I decided to
+dedicate my life to creating
+
+
+620
+0:23:27,27 --> 0:23:31,52
+the conditions for world
+peace by making peace, joy,
+
+
+621
+0:23:31,52 --> 0:23:33,81
+and compassion
+universally accessible.
+
+
+622
+0:23:33,81 --> 0:23:37,2
+And I know that's what
+you want to do as well.
+
+
+623
+0:23:37,2 --> 0:23:40,85
+And so my question next to
+you is, how do you spread it?
+
+
+624
+0:23:40,85 --> 0:23:42,25
+How do spread happiness?
+
+
+625
+0:23:42,25 --> 0:23:43,506
+You and maybe in general.
+
+
+626
+0:23:43,506 --> 0:23:45,13
+How do you spread
+happiness in general?
+
+
+627
+0:23:45,13 --> 0:23:47,356
+
+
+
+628
+0:23:47,356 --> 0:23:48,73
+SHAWN ACHOR: Well,
+we're actually
+
+
+629
+0:23:48,73 --> 0:23:51,49
+helped out by our brains.
+
+
+630
+0:23:51,49 --> 0:23:53,91
+One of the things that I've
+found so incredible in some
+
+
+631
+0:23:53,91 --> 0:23:59,25
+of this research that's coming
+out is one of the experiments
+
+
+632
+0:23:59,25 --> 0:24:2,9
+that I have people do
+in some of my talks--
+
+
+633
+0:24:2,9 --> 0:24:5,719
+which actually we can do
+it right now, if you want.
+
+
+634
+0:24:5,719 --> 0:24:6,76
+Let's do it real quickly.
+
+
+635
+0:24:6,76 --> 0:24:8,926
+So you don't have to do any
+of my experiments today.
+
+
+636
+0:24:8,926 --> 0:24:11,94
+I'm not allowed to bring
+consent forms to talks,
+
+
+637
+0:24:11,94 --> 0:24:15,54
+because we had an electric shock
+problem a couple years ago.
+
+
+638
+0:24:15,54 --> 0:24:17,29
+[AUDIENCE LAUGHING]
+
+
+639
+0:24:17,29 --> 0:24:18,11
+SHAWN ACHOR: But here's
+what I need you to do.
+
+
+640
+0:24:18,11 --> 0:24:19,8
+And you can do
+this even if you're
+
+
+641
+0:24:19,8 --> 0:24:20,785
+watching from a remote location.
+
+
+642
+0:24:20,785 --> 0:24:23,6
+All I need you to do is
+just partner up with someone
+
+
+643
+0:24:23,6 --> 0:24:24,185
+that's sitting next to you.
+
+
+644
+0:24:24,185 --> 0:24:26,132
+Partner up into pairs of two.
+
+
+645
+0:24:26,132 --> 0:24:27,9
+Of course pairs of two.
+
+
+646
+0:24:27,9 --> 0:24:28,14
+Partner up into pairs.
+
+
+647
+0:24:28,14 --> 0:24:31,119
+The only caveat is legally I'm
+required to tell you you cannot
+
+
+648
+0:24:31,119 --> 0:24:33,41
+partner up with someone that
+you're married to for this
+
+
+649
+0:24:33,41 --> 0:24:35,86
+experiment or that you
+want to be married to.
+
+
+650
+0:24:35,86 --> 0:24:38,469
+So move around if you're
+struggling with this.
+
+
+651
+0:24:38,469 --> 0:24:40,1
+CHADE-MENG TAN: You
+know who you are.
+
+
+652
+0:24:40,1 --> 0:24:41,93
+SHAWN ACHOR: Yes, exactly.
+
+
+653
+0:24:41,93 --> 0:24:42,84
+So does everyone have a partner?
+
+
+654
+0:24:42,84 --> 0:24:45,36
+You can move closer, because
+you need to sit next to them.
+
+
+655
+0:24:45,36 --> 0:24:52,61
+
+
+
+656
+0:24:52,61 --> 0:24:54,37
+So here's what I need you to do.
+
+
+657
+0:24:54,37 --> 0:24:56,5
+The person that's sitting
+closest to this wall,
+
+
+658
+0:24:56,5 --> 0:24:58,79
+to the exits is your person
+number one in the pair.
+
+
+659
+0:24:58,79 --> 0:24:59,82
+The person furthest
+from that wall,
+
+
+660
+0:24:59,82 --> 0:25:1,361
+you're person number
+two in the pair.
+
+
+661
+0:25:1,361 --> 0:25:4,981
+If you're remote, just pick
+one person to be number one.
+
+
+662
+0:25:4,981 --> 0:25:6,48
+Some of you are
+like, I already knew
+
+
+663
+0:25:6,48 --> 0:25:8,36
+I was person number
+one in this pair.
+
+
+664
+0:25:8,36 --> 0:25:10,83
+There should be a two
+and a one in each group.
+
+
+665
+0:25:10,83 --> 0:25:13,475
+So raise your hand if
+you're person number one.
+
+
+666
+0:25:13,475 --> 0:25:15,33
+Raise your hand if
+you're person number two.
+
+
+667
+0:25:15,33 --> 0:25:15,83
+OK.
+
+
+668
+0:25:15,83 --> 0:25:16,93
+That's not the experiment.
+
+
+669
+0:25:16,93 --> 0:25:17,809
+[AUDIENCE LAUGHING]
+
+
+670
+0:25:17,809 --> 0:25:19,1
+SHAWN ACHOR: I have to do that.
+
+
+671
+0:25:19,1 --> 0:25:21,11
+Because I did this experiment
+on Wall Street a couple months
+
+
+672
+0:25:21,11 --> 0:25:23,55
+ago, and it literally took that
+struggling bank five minutes
+
+
+673
+0:25:23,55 --> 0:25:25,466
+to figure out who number
+one in the group was.
+
+
+674
+0:25:25,466 --> 0:25:26,507
+[AUDIENCE LAUGHING]
+
+
+675
+0:25:26,507 --> 0:25:28,59
+SHAWN ACHOR: Which explains
+what's going on there.
+
+
+676
+0:25:28,59 --> 0:25:30,464
+So here's what I need you to do.
+
+
+677
+0:25:30,464 --> 0:25:32,88
+How many of you, by the way,
+have a psychology background,
+
+
+678
+0:25:32,88 --> 0:25:35,37
+read a lot of psychology
+books, studied psychology?
+
+
+679
+0:25:35,37 --> 0:25:35,87
+OK.
+
+
+680
+0:25:35,87 --> 0:25:37,71
+So for my psychology
+friends, this
+
+
+681
+0:25:37,71 --> 0:25:40,167
+is the emotional prime
+of the experiment.
+
+
+682
+0:25:40,167 --> 0:25:41,625
+For everyone else,
+this is nothing.
+
+
+683
+0:25:41,625 --> 0:25:42,79
+[AUDIENCE LAUGHING]
+
+
+684
+0:25:42,79 --> 0:25:44,23
+SHAWN ACHOR: But here's
+what we ask you to do.
+
+
+685
+0:25:44,23 --> 0:25:45,29
+Over the course of
+your life, you've
+
+
+686
+0:25:45,29 --> 0:25:47,249
+taken your genes, your
+genetic predispositions,
+
+
+687
+0:25:47,249 --> 0:25:49,79
+you've beat both those genes
+out through your self-discipline
+
+
+688
+0:25:49,79 --> 0:25:50,92
+and your self-control.
+
+
+689
+0:25:50,92 --> 0:25:52,58
+You were able to pass the
+classes that you needed to
+
+
+690
+0:25:52,58 --> 0:25:54,13
+in school to get
+into the schools
+
+
+691
+0:25:54,13 --> 0:25:56,62
+you wanted to to apply yourself
+to your job here at Google.
+
+
+692
+0:25:56,62 --> 0:25:58,466
+What I'd love for
+you to do is to use
+
+
+693
+0:25:58,466 --> 0:26:0,9
+all of that
+self-discipline and control
+
+
+694
+0:26:0,9 --> 0:26:1,85
+that you've been
+cultivating for decades,
+
+
+695
+0:26:1,85 --> 0:26:4,35
+and I'd like you to use it to
+control your behavior for just
+
+
+696
+0:26:4,35 --> 0:26:6,329
+seven seconds of this
+experiment, if you can.
+
+
+697
+0:26:6,329 --> 0:26:7,87
+At eight seconds,
+you can do whatever
+
+
+698
+0:26:7,87 --> 0:26:9,662
+you want to or
+with your partner.
+
+
+699
+0:26:9,662 --> 0:26:11,12
+But for seven
+seconds, you're mine.
+
+
+700
+0:26:11,12 --> 0:26:15,33
+So what we ask you do in this
+experiment, person number one,
+
+
+701
+0:26:15,33 --> 0:26:17,254
+is to not get angry
+with person number
+
+
+702
+0:26:17,254 --> 0:26:19,17
+two when they do to you
+what I'm about to tell
+
+
+703
+0:26:19,17 --> 0:26:19,92
+them to do to you.
+
+
+704
+0:26:19,92 --> 0:26:23,61
+[AUDIENCE LAUGHING]
+
+
+705
+0:26:23,61 --> 0:26:24,84
+SHAWN ACHOR: Don't get angry.
+
+
+706
+0:26:24,84 --> 0:26:25,79
+Don't get sad.
+
+
+707
+0:26:25,79 --> 0:26:29,0
+Please, please don't cry like
+the group at the Pentagon.
+
+
+708
+0:26:29,0 --> 0:26:30,254
+[AUDIENCE LAUGHING]
+
+
+709
+0:26:30,254 --> 0:26:31,67
+SHAWN ACHOR: I was
+so embarrassed.
+
+
+710
+0:26:31,67 --> 0:26:32,961
+CHADE-MENG TAN: Those generals.
+
+
+711
+0:26:32,961 --> 0:26:34,965
+
+
+
+712
+0:26:34,965 --> 0:26:36,84
+SHAWN ACHOR: Person
+number one, you basically
+
+
+713
+0:26:36,84 --> 0:26:38,27
+are going to do nothing
+with person number two.
+
+
+714
+0:26:38,27 --> 0:26:39,97
+So person number one and
+two, please turn and face
+
+
+715
+0:26:39,97 --> 0:26:40,46
+one another.
+
+
+716
+0:26:40,46 --> 0:26:41,56
+Person number one,
+make sure you're
+
+
+717
+0:26:41,56 --> 0:26:43,476
+within striking distance
+of person number two.
+
+
+718
+0:26:43,476 --> 0:26:47,354
+[AUDIENCE LAUGHING]
+
+
+719
+0:26:47,354 --> 0:26:49,2
+SHAWN ACHOR: And
+person number one, just
+
+
+720
+0:26:49,2 --> 0:26:50,24
+go neutral on the inside.
+
+
+721
+0:26:50,24 --> 0:26:52,15
+Try to feel no emotions,
+and try and think
+
+
+722
+0:26:52,15 --> 0:26:53,566
+no thoughts, which
+for some of you
+
+
+723
+0:26:53,566 --> 0:26:55,8
+might be extremely
+easy right now.
+
+
+724
+0:26:55,8 --> 0:26:56,43
+Then control your hands,
+person number one.
+
+
+725
+0:26:56,43 --> 0:26:58,47
+Don't move your hands
+even to defend yourself
+
+
+726
+0:26:58,47 --> 0:26:59,76
+from person number two.
+
+
+727
+0:26:59,76 --> 0:27:4,19
+And person number one,
+just control your face.
+
+
+728
+0:27:4,19 --> 0:27:5,63
+Show zero emotion on your face.
+
+
+729
+0:27:5,63 --> 0:27:8,774
+No fear, no flinching, no
+frustration, zero emotion.
+
+
+730
+0:27:8,774 --> 0:27:10,315
+Once you're ready,
+person number one,
+
+
+731
+0:27:10,315 --> 0:27:11,67
+you're using your decades
+of self-discipline
+
+
+732
+0:27:11,67 --> 0:27:13,867
+to control the control your
+thoughts, your emotions,
+
+
+733
+0:27:13,867 --> 0:27:14,95
+your hands, and your face.
+
+
+734
+0:27:14,95 --> 0:27:16,784
+Then person number two,
+please turn to them,
+
+
+735
+0:27:16,784 --> 0:27:18,491
+make sure you're
+looking at them directly
+
+
+736
+0:27:18,491 --> 0:27:20,45
+in the eyes, and for
+the next seven seconds,
+
+
+737
+0:27:20,45 --> 0:27:23,55
+person number two, please just
+smile genuinely and warmly
+
+
+738
+0:27:23,55 --> 0:27:25,62
+but directly up
+into the eyes while
+
+
+739
+0:27:25,62 --> 0:27:27,27
+looking at them
+warmly and deeply.
+
+
+740
+0:27:27,27 --> 0:27:28,2
+Ready?
+
+
+741
+0:27:28,2 --> 0:27:29,246
+Go.
+
+
+742
+0:27:29,246 --> 0:27:30,37
+Some of you already failed.
+
+
+743
+0:27:30,37 --> 0:27:41,4
+
+
+
+744
+0:27:41,4 --> 0:27:43,558
+And stop.
+
+
+745
+0:27:43,558 --> 0:27:46,91
+[AUDIENCE LAUGHING]
+
+
+746
+0:27:46,91 --> 0:27:49,9
+SHAWN ACHOR: So we're
+going to switch it around,
+
+
+747
+0:27:49,9 --> 0:27:50,84
+because some of you
+were terrible at that.
+
+
+748
+0:27:50,84 --> 0:27:52,18
+[AUDIENCE LAUGHING]
+
+
+749
+0:27:52,18 --> 0:27:53,5
+SHAWN ACHOR: Just switch
+it around real quick.
+
+
+750
+0:27:53,5 --> 0:27:55,64
+My psychology friends know
+you never repeat a psychology
+
+
+751
+0:27:55,64 --> 0:27:57,58
+experiment with some
+form of deception in it,
+
+
+752
+0:27:57,58 --> 0:27:58,4
+but just switch it around.
+
+
+753
+0:27:58,4 --> 0:28:0,233
+It's incredibly easy,
+we know at this point,
+
+
+754
+0:28:0,233 --> 0:28:1,92
+for person number to
+control themselves.
+
+
+755
+0:28:1,92 --> 0:28:2,46
+But just try it.
+
+
+756
+0:28:2,46 --> 0:28:4,23
+Person number two, go
+neutral on the inside.
+
+
+757
+0:28:4,23 --> 0:28:5,64
+Using your self-discipline
+and control
+
+
+758
+0:28:5,64 --> 0:28:7,931
+that makes you a lot more
+successful than person number
+
+
+759
+0:28:7,931 --> 0:28:9,75
+one is at life, just
+control yourself.
+
+
+760
+0:28:9,75 --> 0:28:10,81
+And person number
+one, look at them.
+
+
+761
+0:28:10,81 --> 0:28:13,13
+Make sure you look at them
+directly, deeply, warmly
+
+
+762
+0:28:13,13 --> 0:28:13,66
+in the eyes.
+
+
+763
+0:28:13,66 --> 0:28:16,14
+And for the next seven seconds,
+it's your turn for retaliation.
+
+
+764
+0:28:16,14 --> 0:28:16,64
+Go.
+
+
+765
+0:28:16,64 --> 0:28:26,58
+
+
+
+766
+0:28:26,58 --> 0:28:27,27
+And stop.
+
+
+767
+0:28:27,27 --> 0:28:30,65
+
+
+
+768
+0:28:30,65 --> 0:28:31,959
+[AUDIENCE LAUGHING]
+
+
+769
+0:28:31,959 --> 0:28:34,0
+SHAWN ACHOR: So what I
+love about this experiment
+
+
+770
+0:28:34,0 --> 0:28:35,55
+is even if you're
+successful at it,
+
+
+771
+0:28:35,55 --> 0:28:37,94
+as soon as you say stop
+people relax as if that was
+
+
+772
+0:28:37,94 --> 0:28:41,68
+the hardest thing they had to
+do all day, which literally was
+
+
+773
+0:28:41,68 --> 0:28:43,86
+doing nothing for
+the seven seconds.
+
+
+774
+0:28:43,86 --> 0:28:45,86
+But first of all, I'm
+just curious in this room,
+
+
+775
+0:28:45,86 --> 0:28:48,6
+it's a quiet room, so it's hard.
+
+
+776
+0:28:48,6 --> 0:28:49,38
+This experiment
+works much better
+
+
+777
+0:28:49,38 --> 0:28:51,7
+if you've got more
+priming going on.
+
+
+778
+0:28:51,7 --> 0:28:53,83
+But I'm just curious,
+failure at this experiment
+
+
+779
+0:28:53,83 --> 0:28:55,74
+means you smiled when
+I asked you not to,
+
+
+780
+0:28:55,74 --> 0:28:57,22
+and success means that
+you did not smile.
+
+
+781
+0:28:57,22 --> 0:28:59,678
+Raise your hand if you failed
+miserably at this by smiling.
+
+
+782
+0:28:59,678 --> 0:29:0,81
+Oh, OK.
+
+
+783
+0:29:0,81 --> 0:29:1,86
+So a lot of you.
+
+
+784
+0:29:1,86 --> 0:29:3,652
+That's terrible.
+
+
+785
+0:29:3,652 --> 0:29:5,11
+Raise your hand if
+you successfully
+
+
+786
+0:29:5,11 --> 0:29:8,47
+did what I asked you to
+for the full seven seconds.
+
+
+787
+0:29:8,47 --> 0:29:14,87
+So 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 16, 17,
+
+
+788
+0:29:14,87 --> 0:29:15,37
+18.
+
+
+789
+0:29:15,37 --> 0:29:16,745
+18 liars.
+
+
+790
+0:29:16,745 --> 0:29:19,7
+[AUDIENCE LAUGHING]
+
+
+791
+0:29:19,7 --> 0:29:21,9
+SHAWN ACHOR: What we find is--
+
+
+792
+0:29:21,9 --> 0:29:22,34
+CHADE-MENG TAN: Pants on fire.
+
+
+793
+0:29:22,34 --> 0:29:23,822
+SHAWN ACHOR: Exactly.
+
+
+794
+0:29:23,822 --> 0:29:25,53
+Actually, I don't know
+why I counted you,
+
+
+795
+0:29:25,53 --> 0:29:27,738
+because I don't know how
+many people are in the room.
+
+
+796
+0:29:27,738 --> 0:29:30,451
+But what we find is 80% to
+85% of people worldwide cannot
+
+
+797
+0:29:30,451 --> 0:29:32,95
+control themselves for the seven
+seconds of this experiment.
+
+
+798
+0:29:32,95 --> 0:29:34,95
+I did this with senior-level
+bankers, all men,
+
+
+799
+0:29:34,95 --> 0:29:37,52
+all in their mid-50s
+in Tokyo, Japan,
+
+
+800
+0:29:37,52 --> 0:29:39,55
+and the smile
+percentage was 77%.
+
+
+801
+0:29:39,55 --> 0:29:43,84
+What we're finding is
+it's extremely universal.
+
+
+802
+0:29:43,84 --> 0:29:48,2
+You mentioned I've been
+to over 50 countries,
+
+
+803
+0:29:48,2 --> 0:29:50,38
+and I've done this
+experiment in all of them.
+
+
+804
+0:29:50,38 --> 0:29:51,82
+But one I made a mistake with.
+
+
+805
+0:29:51,82 --> 0:29:53,87
+And this gets directly
+back your question.
+
+
+806
+0:29:53,87 --> 0:29:56,82
+But I wanted to
+tell you about this.
+
+
+807
+0:29:56,82 --> 0:30:2,39
+So last year I got invited by
+the royal family in Abu Dhabi,
+
+
+808
+0:30:2,39 --> 0:30:4,8
+as one does, to get to
+give a talk on happiness.
+
+
+809
+0:30:4,8 --> 0:30:7,84
+And I was so excited
+about this opportunity
+
+
+810
+0:30:7,84 --> 0:30:10,349
+that I went over there and was
+meeting all of these people
+
+
+811
+0:30:10,349 --> 0:30:12,64
+that I'd never met before
+and been to a place I'd never
+
+
+812
+0:30:12,64 --> 0:30:14,977
+had that I wasn't thinking
+when I got into the talk,
+
+
+813
+0:30:14,977 --> 0:30:16,6
+because I was too excited.
+
+
+814
+0:30:16,6 --> 0:30:18,78
+And one of the talks there was
+for 300 women in the Middle
+
+
+815
+0:30:18,78 --> 0:30:21,15
+East about how we can raise
+up levels of happiness
+
+
+816
+0:30:21,15 --> 0:30:22,62
+and positive leadership there.
+
+
+817
+0:30:22,62 --> 0:30:23,39
+And some of you are
+smiling because you
+
+
+818
+0:30:23,39 --> 0:30:24,61
+know the mistake I made.
+
+
+819
+0:30:24,61 --> 0:30:28,21
+I tried the smiling experiment
+in the talk and only
+
+
+820
+0:30:28,21 --> 0:30:30,42
+halfway through realized
+that 90% of the room
+
+
+821
+0:30:30,42 --> 0:30:32,742
+was veiled for the
+smiling experiment, which
+
+
+822
+0:30:32,742 --> 0:30:35,2
+had I thought it before I would
+not have made that mistake.
+
+
+823
+0:30:35,2 --> 0:30:38,41
+But I'm so grateful I did,
+because the women in the room
+
+
+824
+0:30:38,41 --> 0:30:39,31
+taught me something.
+
+
+825
+0:30:39,31 --> 0:30:41,41
+They told me that
+the experiment still
+
+
+826
+0:30:41,41 --> 0:30:43,95
+worked because they could see
+the smile in the other woman's
+
+
+827
+0:30:43,95 --> 0:30:44,66
+eyes.
+
+
+828
+0:30:44,66 --> 0:30:47,13
+And even behind the veil,
+the smile was contagious.
+
+
+829
+0:30:47,13 --> 0:30:49,59
+The reason why this is so
+fascinating is what we found
+
+
+830
+0:30:49,59 --> 0:30:53,989
+is inside the human brain, what
+we discovered also by accident
+
+
+831
+0:30:53,989 --> 0:30:56,28
+is over the past 15 years
+we've discovered these things
+
+
+832
+0:30:56,28 --> 0:30:58,3
+in the human brain
+called mirror neurons.
+
+
+833
+0:30:58,3 --> 0:31:0,58
+So if you put me into
+a fMRI brain scan,
+
+
+834
+0:31:0,58 --> 0:31:2,889
+scan my brain while I'm
+smiling, parts of my brain
+
+
+835
+0:31:2,889 --> 0:31:4,93
+will show activation
+telling me that I'm smiling.
+
+
+836
+0:31:4,93 --> 0:31:6,86
+But if I stop
+smiling, which is what
+
+
+837
+0:31:6,86 --> 0:31:9,5
+you were just trying to do,
+and someone smiles at you
+
+
+838
+0:31:9,5 --> 0:31:11,97
+or you see a picture
+of somebody smiling,
+
+
+839
+0:31:11,97 --> 0:31:13,7
+those small parts
+of your brain called
+
+
+840
+0:31:13,7 --> 0:31:16,525
+mirror neurons will
+show activation,
+
+
+841
+0:31:16,525 --> 0:31:18,74
+and they'll tell you you're
+the one that's smiling.
+
+
+842
+0:31:18,74 --> 0:31:23,97
+And your motor neurons
+will cause your face
+
+
+843
+0:31:23,97 --> 0:31:26,56
+to contort into a smile
+before you can stop yourself,
+
+
+844
+0:31:26,56 --> 0:31:29,597
+because you already
+think you're smiling.
+
+
+845
+0:31:29,597 --> 0:31:31,18
+So if you were looking
+at your partner
+
+
+846
+0:31:31,18 --> 0:31:32,846
+and their lips were
+quivering while they
+
+
+847
+0:31:32,846 --> 0:31:35,33
+were trying not to
+smile, that's weird.
+
+
+848
+0:31:35,33 --> 0:31:36,242
+[AUDIENCE LAUGHING]
+
+
+849
+0:31:36,242 --> 0:31:37,95
+SHAWN ACHOR: That
+shouldn't be happening.
+
+
+850
+0:31:37,95 --> 0:31:40,372
+But what's occurring there
+is their mirror neurons
+
+
+851
+0:31:40,372 --> 0:31:42,8
+are fighting against
+their motor neurons.
+
+
+852
+0:31:42,8 --> 0:31:43,47
+Your brain already
+thinks you're smiling,
+
+
+853
+0:31:43,47 --> 0:31:44,5
+so it's like, what's
+the problem here,
+
+
+854
+0:31:44,5 --> 0:31:46,51
+face, as your brain
+is trying to find out
+
+
+855
+0:31:46,51 --> 0:31:47,77
+what's going on between those.
+
+
+856
+0:31:47,77 --> 0:31:48,77
+These happen with yawns.
+
+
+857
+0:31:48,77 --> 0:31:51,63
+So if you see somebody yawn,
+our likelihood of yawning
+
+
+858
+0:31:51,63 --> 0:31:53,13
+increases because
+our brain actually
+
+
+859
+0:31:53,13 --> 0:31:54,45
+tells we're the
+one that's yawning.
+
+
+860
+0:31:54,45 --> 0:31:56,17
+But why this is so
+fascinating and why
+
+
+861
+0:31:56,17 --> 0:31:58,54
+this is crucial to
+this contagious effect
+
+
+862
+0:31:58,54 --> 0:32:1,49
+that we can have is it
+turns out that if you
+
+
+863
+0:32:1,49 --> 0:32:5,534
+have 15 strangers waiting for
+a plane-- they don't even know
+
+
+864
+0:32:5,534 --> 0:32:6,7
+they're part experiment yet.
+
+
+865
+0:32:6,7 --> 0:32:8,16
+They're just at an
+airport-- and you
+
+
+866
+0:32:8,16 --> 0:32:9,63
+introduce an
+undercover researcher,
+
+
+867
+0:32:9,63 --> 0:32:12,58
+a confederate to stand in
+the middle of the 15 people
+
+
+868
+0:32:12,58 --> 0:32:15,37
+and bounce nervously in place,
+tap his foot on the floor
+
+
+869
+0:32:15,37 --> 0:32:18,22
+and look at his watch repeatedly
+with a frown on his face,
+
+
+870
+0:32:18,22 --> 0:32:20,74
+within two minutes of waiting
+for that plane or train,
+
+
+871
+0:32:20,74 --> 0:32:24,42
+depending on the study, 7 to
+12 of the 15 individuals will
+
+
+872
+0:32:24,42 --> 0:32:26,68
+unconsciously start
+bouncing nervously in place
+
+
+873
+0:32:26,68 --> 0:32:28,487
+and/or tapping their
+foot on the ground
+
+
+874
+0:32:28,487 --> 0:32:30,57
+and/or looking at their
+watch more than four times
+
+
+875
+0:32:30,57 --> 0:32:31,22
+in two minutes.
+
+
+876
+0:32:31,22 --> 0:32:32,72
+If you don't believe
+me, this is one
+
+
+877
+0:32:32,72 --> 0:32:34,67
+of the experiments
+you can do yourself
+
+
+878
+0:32:34,67 --> 0:32:36,606
+the next time you
+get on a plain,
+
+
+879
+0:32:36,606 --> 0:32:38,48
+if you want to spread
+stress and negativity--
+
+
+880
+0:32:38,48 --> 0:32:39,97
+[AUDIENCE LAUGHING]
+
+
+881
+0:32:39,97 --> 0:32:40,82
+SHAWN ACHOR: --to the
+people on your plane,
+
+
+882
+0:32:40,82 --> 0:32:42,61
+which is why do this
+at a different gate.
+
+
+883
+0:32:42,61 --> 0:32:44,235
+But the reason I love
+this experiment--
+
+
+884
+0:32:44,235 --> 0:32:45,5
+[AUDIENCE LAUGHING]
+
+
+885
+0:32:45,5 --> 0:32:47,383
+SHAWN ACHOR: --is it shows
+this, that not only do smiles
+
+
+886
+0:32:47,383 --> 0:32:49,98
+and yawns spread, it turns
+out negativity, stress,
+
+
+887
+0:32:49,98 --> 0:32:53,45
+uncertainty, pessimism we can
+pick up like secondhand smoke.
+
+
+888
+0:32:53,45 --> 0:32:54,95
+You can be optimistic,
+but if you're
+
+
+889
+0:32:54,95 --> 0:32:56,44
+surrounded by people
+who are negative,
+
+
+890
+0:32:56,44 --> 0:32:58,33
+your brain through these
+mirror neurons can pick it up.
+
+
+891
+0:32:58,33 --> 0:33:0,4
+And when we tell people
+that, they're like, OK.
+
+
+892
+0:33:0,4 --> 0:33:2,5
+Well, here are the people
+I'm cutting out of my life.
+
+
+893
+0:33:2,5 --> 0:33:3,841
+I'm not going to hang
+out with this person.
+
+
+894
+0:33:3,841 --> 0:33:5,99
+I'm going to de-friend
+them on Facebook.
+
+
+895
+0:33:5,99 --> 0:33:9,34
+I'm not even going to look
+at this person anymore, which
+
+
+896
+0:33:9,34 --> 0:33:10,7
+is awkward because
+they're in my family.
+
+
+897
+0:33:10,7 --> 0:33:13,7
+And what happens is in
+each one of those moments
+
+
+898
+0:33:13,7 --> 0:33:14,64
+we're eliminating
+social connection.
+
+
+899
+0:33:14,64 --> 0:33:16,54
+But these mirror neurons
+give us the power
+
+
+900
+0:33:16,54 --> 0:33:19,307
+to actually spread positive
+change even better.
+
+
+901
+0:33:19,307 --> 0:33:20,765
+Because as we've
+been studying you,
+
+
+902
+0:33:20,765 --> 0:33:22,24
+we've been studying you wrong.
+
+
+903
+0:33:22,24 --> 0:33:24,33
+There's no wires
+connecting your brains.
+
+
+904
+0:33:24,33 --> 0:33:25,589
+There's no organic material.
+
+
+905
+0:33:25,589 --> 0:33:27,13
+So we've made the
+mistake of assuming
+
+
+906
+0:33:27,13 --> 0:33:29,965
+that all of your brains were
+separate, and they're not.
+
+
+907
+0:33:29,965 --> 0:33:33,2
+It misses out on how beautiful
+the human organism actually
+
+
+908
+0:33:33,2 --> 0:33:35,82
+is, because our brains
+are not wired together.
+
+
+909
+0:33:35,82 --> 0:33:38,38
+Our brains are
+wirelessly connected
+
+
+910
+0:33:38,38 --> 0:33:39,962
+through a mirror neuron network.
+
+
+911
+0:33:39,962 --> 0:33:42,17
+Your thoughts right now are
+changing your nonverbals,
+
+
+912
+0:33:42,17 --> 0:33:44,764
+how you're sitting here, which
+is changing the way that people
+
+
+913
+0:33:44,764 --> 0:33:46,93
+sitting next to you are
+processing this information.
+
+
+914
+0:33:46,93 --> 0:33:49,68
+We're in a continual
+feedback loop with the people
+
+
+915
+0:33:49,68 --> 0:33:51,24
+that we walk past
+in the cafeteria.
+
+
+916
+0:33:51,24 --> 0:33:53,9
+We're in a continual
+feedback loop
+
+
+917
+0:33:53,9 --> 0:33:54,839
+with our family members
+and our friends.
+
+
+918
+0:33:54,839 --> 0:33:56,38
+And what we found
+is if we can buffer
+
+
+919
+0:33:56,38 --> 0:33:59,42
+our brain against the
+negative, if we can create even
+
+
+920
+0:33:59,42 --> 0:34:3,27
+a single positive change in
+our life, meditation, exercise,
+
+
+921
+0:34:3,27 --> 0:34:5,1
+gratitude, whatever
+it is you're doing,
+
+
+922
+0:34:5,1 --> 0:34:7,5
+we can actually watch
+that positive effect
+
+
+923
+0:34:7,5 --> 0:34:9,84
+that's occurring in your
+brain wirelessly impact
+
+
+924
+0:34:9,84 --> 0:34:12,63
+the people's brains of
+the people around you.
+
+
+925
+0:34:12,63 --> 0:34:14,449
+One of the opportunities
+I got last year
+
+
+926
+0:34:14,449 --> 0:34:16,692
+was to work at a hospital.
+
+
+927
+0:34:16,692 --> 0:34:18,15
+And hospitals have
+a terrible time,
+
+
+928
+0:34:18,15 --> 0:34:19,733
+because when you
+think about hospitals
+
+
+929
+0:34:19,733 --> 0:34:21,639
+you think about sickness
+and disease, Right?
+
+
+930
+0:34:21,639 --> 0:34:22,722
+And you can't change that.
+
+
+931
+0:34:22,722 --> 0:34:24,234
+But we went into
+the Ritz Carlton
+
+
+932
+0:34:24,234 --> 0:34:25,65
+to figure out what
+they were doing
+
+
+933
+0:34:25,65 --> 0:34:27,273
+to get people to
+love coming there.
+
+
+934
+0:34:27,273 --> 0:34:28,814
+And they have nice
+buildings, but one
+
+
+935
+0:34:28,814 --> 0:34:30,1
+of the things that
+the train-- maybe you
+
+
+936
+0:34:30,1 --> 0:34:32,21
+know this-- they teach
+them to do something
+
+
+937
+0:34:32,21 --> 0:34:33,719
+called the 10-5
+Way, which is if you
+
+
+938
+0:34:33,719 --> 0:34:36,2
+walk within 10 feet of
+somebody at a Ritz Carlton,
+
+
+939
+0:34:36,2 --> 0:34:38,21
+they're trained to make eye
+contact and smile at you.
+
+
+940
+0:34:38,21 --> 0:34:41,9
+And within 5 feet, the employees
+are trained to say hello.
+
+
+941
+0:34:41,9 --> 0:34:42,81
+It's actually really
+fun to go in and out
+
+
+942
+0:34:42,81 --> 0:34:45,235
+of those sphere with
+them at the Ritz,
+
+
+943
+0:34:45,235 --> 0:34:46,61
+even if you're
+not staying there.
+
+
+944
+0:34:46,61 --> 0:34:48,151
+But what we love
+about the experience
+
+
+945
+0:34:48,151 --> 0:34:50,4
+is that we could import
+it down to this hospital,
+
+
+946
+0:34:50,4 --> 0:34:51,8
+to these groups of hospitals.
+
+
+947
+0:34:51,8 --> 0:34:54,25
+And we trained them
+post-Katrina down in Louisiana.
+
+
+948
+0:34:54,25 --> 0:34:56,25
+And some of the doctors
+were like, why would you
+
+
+949
+0:34:56,25 --> 0:34:58,37
+have to train people to smile?
+
+
+950
+0:34:58,37 --> 0:34:59,97
+Isn't that human nature?
+
+
+951
+0:34:59,97 --> 0:35:2,82
+But then other doctors
+were like, uh, you
+
+
+952
+0:35:2,82 --> 0:35:4,22
+hired me to save people's lives.
+
+
+953
+0:35:4,22 --> 0:35:6,874
+It doesn't matter how I
+walked down the hallways.
+
+
+954
+0:35:6,874 --> 0:35:7,79
+I save people's lives.
+
+
+955
+0:35:7,79 --> 0:35:8,47
+That's what I'm hired for.
+
+
+956
+0:35:8,47 --> 0:35:11,23
+I'm not going to do this stupid
+smiling initiative from HR.
+
+
+957
+0:35:11,23 --> 0:35:12,37
+So we said, that's fine.
+
+
+958
+0:35:12,37 --> 0:35:14,74
+But then we trained
+11,000 of their coworkers
+
+
+959
+0:35:14,74 --> 0:35:17,69
+to make eye contact and
+smile and to do the 10-5 Way.
+
+
+960
+0:35:17,69 --> 0:35:20,24
+And what happens is
+everyone started picking up
+
+
+961
+0:35:20,24 --> 0:35:22,54
+the pattern, the doctors,
+and nurses, the staff.
+
+
+962
+0:35:22,54 --> 0:35:24,32
+But the cool part
+was the patients,
+
+
+963
+0:35:24,32 --> 0:35:25,81
+who didn't know
+what was going on,
+
+
+964
+0:35:25,81 --> 0:35:28,75
+picked up and then started
+initiating the social script,
+
+
+965
+0:35:28,75 --> 0:35:31,71
+because they were learning that
+when I walk down this hallway
+
+
+966
+0:35:31,71 --> 0:35:35,755
+I'm supposed to treat people
+as if they're human beings.
+
+
+967
+0:35:35,755 --> 0:35:37,38
+We pick up social
+scripts all the time.
+
+
+968
+0:35:37,38 --> 0:35:42,8
+If you get onto subway in
+New York or The T in Boston,
+
+
+969
+0:35:42,8 --> 0:35:43,69
+you start smiling,
+some people start
+
+
+970
+0:35:43,69 --> 0:35:45,2
+moving away from you, right?
+
+
+971
+0:35:45,2 --> 0:35:46,72
+Because we know
+the social script.
+
+
+972
+0:35:46,72 --> 0:35:48,38
+Let's not necessarily
+do eye contact,
+
+
+973
+0:35:48,38 --> 0:35:50,21
+and let's not actually
+smile at strangers.
+
+
+974
+0:35:50,21 --> 0:35:51,91
+We know that rule.
+
+
+975
+0:35:51,91 --> 0:35:54,714
+But part of what we
+were finding was not
+
+
+976
+0:35:54,714 --> 0:35:56,13
+only did hospital
+hallways change,
+
+
+977
+0:35:56,13 --> 0:35:58,89
+which would be a cute story
+about how hospitals can change,
+
+
+978
+0:35:58,89 --> 0:36:0,879
+what I was interested
+in is what happened
+
+
+979
+0:36:0,879 --> 0:36:2,67
+six months later to
+their business outcome.
+
+
+980
+0:36:2,67 --> 0:36:5,55
+Six months later, the
+hospitals that did this,
+
+
+981
+0:36:5,55 --> 0:36:9,89
+they saw a significant increase
+in their unique patients
+
+
+982
+0:36:9,89 --> 0:36:11,62
+that came to the hospital.
+
+
+983
+0:36:11,62 --> 0:36:12,52
+The likelihood of
+patients to refer
+
+
+984
+0:36:12,52 --> 0:36:15,4
+the care, the quality of care
+that they received skyrocketed.
+
+
+985
+0:36:15,4 --> 0:36:17,39
+And the doctors'
+happiness level at work
+
+
+986
+0:36:17,39 --> 0:36:19,43
+were the highest not only
+in the hospital chain
+
+
+987
+0:36:19,43 --> 0:36:21,8
+but in a decade at
+that organization.
+
+
+988
+0:36:21,8 --> 0:36:23,75
+That's a one-second
+behavioral change
+
+
+989
+0:36:23,75 --> 0:36:26,62
+that shows we can change the
+social script around this
+
+
+990
+0:36:26,62 --> 0:36:29,14
+and actually impact not only
+our happiness but the quality
+
+
+991
+0:36:29,14 --> 0:36:31,99
+of care that we provide
+and our business outcomes.
+
+
+992
+0:36:31,99 --> 0:36:35,372
+My question-- and it's the one
+that you have been championing
+
+
+993
+0:36:35,372 --> 0:36:37,705
+here at Google-- is, what if
+we had more than one second
+
+
+994
+0:36:37,705 --> 0:36:38,73
+with somebody?
+
+
+995
+0:36:38,73 --> 0:36:40,94
+What if we could change
+somebody not just short-term?
+
+
+996
+0:36:40,94 --> 0:36:43,23
+But what if we could
+actually change the very lens
+
+
+997
+0:36:43,23 --> 0:36:44,51
+with which we viewed the world?
+
+
+998
+0:36:44,51 --> 0:36:47,28
+And that's where things become
+really powerful, I think.
+
+
+999
+0:36:47,28 --> 0:36:48,45
+CHADE-MENG TAN: I have
+a suggestion for that--
+
+
+1000
+0:36:48,45 --> 0:36:48,84
+SHAWN ACHOR: Yes.
+
+
+1001
+0:36:48,84 --> 0:36:50,33
+CHADE-MENG TAN: --wish
+is to look at human being
+
+
+1002
+0:36:50,33 --> 0:36:52,5
+and to think, I wish for
+this person to be happy.
+
+
+1003
+0:36:52,5 --> 0:36:54,58
+You don't have to
+do or say anything.
+
+
+1004
+0:36:54,58 --> 0:36:55,82
+Just think.
+
+
+1005
+0:36:55,82 --> 0:36:59,22
+And that thought alone
+changes everything.
+
+
+1006
+0:36:59,22 --> 0:37:1,51
+Because it changes
+your facial expression,
+
+
+1007
+0:37:1,51 --> 0:37:4,75
+changes your behavior,
+and eventually people,
+
+
+1008
+0:37:4,75 --> 0:37:7,18
+they like each other, and
+they don't really know why.
+
+
+1009
+0:37:7,18 --> 0:37:8,88
+This operates on an
+unconscious level.
+
+
+1010
+0:37:8,88 --> 0:37:9,63
+SHAWN ACHOR: Yeah.
+
+
+1011
+0:37:9,63 --> 0:37:11,13
+CHADE-MENG TAN: So I
+suggest that to everybody,
+
+
+1012
+0:37:11,13 --> 0:37:11,84
+that one thought.
+
+
+1013
+0:37:11,84 --> 0:37:13,91
+I wish for this guy to be happy.
+
+
+1014
+0:37:13,91 --> 0:37:15,26
+And then leave it at that.
+
+
+1015
+0:37:15,26 --> 0:37:16,49
+See what happens.
+
+
+1016
+0:37:16,49 --> 0:37:17,82
+SHAWN ACHOR: That's cool.
+
+
+1017
+0:37:17,82 --> 0:37:20,19
+CHADE-MENG TAN: Oh, I love
+how you say it's beautiful.
+
+
+1018
+0:37:20,19 --> 0:37:21,6
+I see it, and I raise you one--
+
+
+1019
+0:37:21,6 --> 0:37:22,2
+SHAWN ACHOR: OK.
+
+
+1020
+0:37:22,2 --> 0:37:22,78
+CHADE-MENG TAN:
+--which is I think
+
+
+1021
+0:37:22,78 --> 0:37:24,86
+that in addition
+happiness is contagious.
+
+
+1022
+0:37:24,86 --> 0:37:28,55
+The other thing I found to
+be contagious is calmness.
+
+
+1023
+0:37:28,55 --> 0:37:32,37
+If you walk into a room in
+a meditative, calm state,
+
+
+1024
+0:37:32,37 --> 0:37:34,48
+no matter how bad things
+are, if you walk in
+
+
+1025
+0:37:34,48 --> 0:37:38,8
+and sit down meditatively
+calm, it starts to spread.
+
+
+1026
+0:37:38,8 --> 0:37:39,84
+People start calming down.
+
+
+1027
+0:37:39,84 --> 0:37:41,66
+So for those of you
+who are meditators,
+
+
+1028
+0:37:41,66 --> 0:37:47,99
+practice that in a meeting
+where things are not going well.
+
+
+1029
+0:37:47,99 --> 0:37:49,11
+Give that a try.
+
+
+1030
+0:37:49,11 --> 0:37:50,75
+See if you can change anything.
+
+
+1031
+0:37:50,75 --> 0:37:52,47
+And sometimes people notice.
+
+
+1032
+0:37:52,47 --> 0:37:55,836
+That guy, every time he walks
+in the room, something changes.
+
+
+1033
+0:37:55,836 --> 0:37:56,96
+See if that happens to you.
+
+
+1034
+0:37:56,96 --> 0:37:58,1
+SHAWN ACHOR: That's cool.
+
+
+1035
+0:37:58,1 --> 0:38:2,4
+CHADE-MENG TAN: Which leads
+me to the next question.
+
+
+1036
+0:38:2,4 --> 0:38:4,62
+The thing I really like
+about this book are
+
+
+1037
+0:38:4,62 --> 0:38:7,34
+two words that you use,
+which I thought was genius.
+
+
+1038
+0:38:7,34 --> 0:38:10,52
+And the words you use
+are positive genius.
+
+
+1039
+0:38:10,52 --> 0:38:13,92
+And can you talk about
+what is a positive genius
+
+
+1040
+0:38:13,92 --> 0:38:16,18
+and how that relates to
+happiness and success?
+
+
+1041
+0:38:16,18 --> 0:38:17,58
+SHAWN ACHOR: Sure.
+
+
+1042
+0:38:17,58 --> 0:38:20,87
+So only 25% of your
+successes here at Google
+
+
+1043
+0:38:20,87 --> 0:38:22,67
+are predicted based
+upon your intelligence
+
+
+1044
+0:38:22,67 --> 0:38:24,135
+and technical skills.
+
+
+1045
+0:38:24,135 --> 0:38:25,69
+CHADE-MENG TAN: The rest
+is their good looks, right?
+
+
+1046
+0:38:25,69 --> 0:38:27,231
+SHAWN ACHOR: The
+rest are good looks.
+
+
+1047
+0:38:27,231 --> 0:38:28,28
+[AUDIENCE LAUGHING]
+
+
+1048
+0:38:28,28 --> 0:38:31,1
+SHAWN ACHOR: Which we know from
+tech, financials, and medicals,
+
+
+1049
+0:38:31,1 --> 0:38:33,72
+where I thought IQ would
+matter more, it doesn't.
+
+
+1050
+0:38:33,72 --> 0:38:37,5
+About 25% of job success is
+predicted by how smart you are.
+
+
+1051
+0:38:37,5 --> 0:38:39,8
+75% of your successes
+are predicted
+
+
+1052
+0:38:39,8 --> 0:38:41,85
+by three other
+factors, your optimism,
+
+
+1053
+0:38:41,85 --> 0:38:43,61
+the belief that your
+behavior matters,
+
+
+1054
+0:38:43,61 --> 0:38:46,71
+your social connections, and
+the way you perceive stress.
+
+
+1055
+0:38:46,71 --> 0:38:48,71
+What we found are that
+there's these individuals
+
+
+1056
+0:38:48,71 --> 0:38:51,74
+and organizations-- and not
+even organizations, nonprofits
+
+
+1057
+0:38:51,74 --> 0:38:56,162
+and families-- that we call
+positive geniuses, who,
+
+
+1058
+0:38:56,162 --> 0:38:58,62
+regardless of the environment
+that they find themselves in,
+
+
+1059
+0:38:58,62 --> 0:39:1,81
+are able to continually
+architect these realities that
+
+
+1060
+0:39:1,81 --> 0:39:4,67
+cause them to see past to not
+only success but to happiness
+
+
+1061
+0:39:4,67 --> 0:39:6,4
+as well.
+
+
+1062
+0:39:6,4 --> 0:39:8,205
+Your brains are phenomenal.
+
+
+1063
+0:39:8,205 --> 0:39:9,96
+Some of you are like,
+yeah, I knew that.
+
+
+1064
+0:39:9,96 --> 0:39:11,5
+That's why I work here.
+
+
+1065
+0:39:11,5 --> 0:39:12,78
+But your brain can
+process about 40 bits
+
+
+1066
+0:39:12,78 --> 0:39:15,17
+of information per second,
+which is really fast.
+
+
+1067
+0:39:15,17 --> 0:39:17,68
+The only problem is your brain
+receives 11 million pieces
+
+
+1068
+0:39:17,68 --> 0:39:20,46
+of information per second from
+all of your nerve endings.
+
+
+1069
+0:39:20,46 --> 0:39:22,67
+So as you're constructing
+a picture of the world,
+
+
+1070
+0:39:22,67 --> 0:39:26,44
+your brain picks and chooses
+two to four small facts,
+
+
+1071
+0:39:26,44 --> 0:39:29,1
+and then you architect an
+entire reality around them.
+
+
+1072
+0:39:29,1 --> 0:39:32,384
+And if we know what those
+facts are for you, if we
+
+
+1073
+0:39:32,384 --> 0:39:34,8
+hear how you're describing
+your work or your relationships
+
+
+1074
+0:39:34,8 --> 0:39:37,89
+or your life, those facts
+you go to immediately,
+
+
+1075
+0:39:37,89 --> 0:39:38,88
+those actually predict
+not only your levels
+
+
+1076
+0:39:38,88 --> 0:39:40,96
+of happiness and
+your stress levels
+
+
+1077
+0:39:40,96 --> 0:39:43,61
+and how calm you are, but it
+predicts your success rates,
+
+
+1078
+0:39:43,61 --> 0:39:46,82
+your educational outcomes, your
+health outcomes in the future.
+
+
+1079
+0:39:46,82 --> 0:39:49,4
+Part of what we found is
+that these positive geniuses
+
+
+1080
+0:39:49,4 --> 0:39:52,34
+have practiced or have
+created these patterns where
+
+
+1081
+0:39:52,34 --> 0:39:55,48
+they can continually architect
+these positive realities over
+
+
+1082
+0:39:55,48 --> 0:39:56,296
+and over again.
+
+
+1083
+0:39:56,296 --> 0:39:57,67
+And what I loved
+about this is it
+
+
+1084
+0:39:57,67 --> 0:39:59,128
+was something that
+could be taught.
+
+
+1085
+0:39:59,128 --> 0:40:3,6
+I think one of the deepest and
+coolest parts of this research
+
+
+1086
+0:40:3,6 --> 0:40:5,27
+in positive psychology
+is this idea
+
+
+1087
+0:40:5,27 --> 0:40:8,6
+that I believe at base is
+just that change is possible,
+
+
+1088
+0:40:8,6 --> 0:40:11,84
+which I actually think
+most people would give
+
+
+1089
+0:40:11,84 --> 0:40:14,125
+lip service to but don't
+actually believe that.
+
+
+1090
+0:40:14,125 --> 0:40:17,15
+Because I think most people
+think that just their genes
+
+
+1091
+0:40:17,15 --> 0:40:19,442
+are their environment,
+that that person's happy
+
+
+1092
+0:40:19,442 --> 0:40:20,65
+because they were born happy.
+
+
+1093
+0:40:20,65 --> 0:40:24,55
+Or I'm happy because
+I was born optimistic
+
+
+1094
+0:40:24,55 --> 0:40:26,285
+or my parents were
+optimistic, and that's
+
+
+1095
+0:40:26,285 --> 0:40:27,16
+the end of the story.
+
+
+1096
+0:40:27,16 --> 0:40:29,91
+Or there are some people
+that are pessimistic as well.
+
+
+1097
+0:40:29,91 --> 0:40:33,16
+There is a researcher up in
+Minnesota who's studying twins.
+
+
+1098
+0:40:33,16 --> 0:40:35,28
+And they found if you
+take identical twins
+
+
+1099
+0:40:35,28 --> 0:40:37,115
+and raise them apart--
+they were already
+
+
+1100
+0:40:37,115 --> 0:40:38,734
+going to be raised apart.
+
+
+1101
+0:40:38,734 --> 0:40:40,15
+They didn't do
+that for the study,
+
+
+1102
+0:40:40,15 --> 0:40:43,6
+but that they have
+identical twins raised
+
+
+1103
+0:40:43,6 --> 0:40:46,94
+different families, different
+environment, same genes,
+
+
+1104
+0:40:46,94 --> 0:40:49,499
+and what they found is,
+on average, the levels
+
+
+1105
+0:40:49,499 --> 0:40:50,79
+of happiness were very similar.
+
+
+1106
+0:40:50,79 --> 0:40:53,57
+So he concluded 80% of
+your long-term happiness
+
+
+1107
+0:40:53,57 --> 0:40:56,14
+is based upon your
+genes, which actually I
+
+
+1108
+0:40:56,14 --> 0:40:57,864
+believe most people believe.
+
+
+1109
+0:40:57,864 --> 0:40:59,53
+They think the majority
+of our happiness
+
+
+1110
+0:40:59,53 --> 0:41:3,304
+is based upon the way your brain
+was wired from the beginning.
+
+
+1111
+0:41:3,304 --> 0:41:4,72
+And if you believe
+that statement,
+
+
+1112
+0:41:4,72 --> 0:41:6,44
+you have to believe
+the next one, which
+
+
+1113
+0:41:6,44 --> 0:41:8,31
+is his famous statement.
+
+
+1114
+0:41:8,31 --> 0:41:10,66
+Stop trying to change
+your happiness.
+
+
+1115
+0:41:10,66 --> 0:41:12,53
+You're as likely to
+change your happiness
+
+
+1116
+0:41:12,53 --> 0:41:14,8
+as to change your
+height, which is also
+
+
+1117
+0:41:14,8 --> 0:41:16,497
+80% determined by genes.
+
+
+1118
+0:41:16,497 --> 0:41:18,83
+He's since recanted that
+statement, because it turns out
+
+
+1119
+0:41:18,83 --> 0:41:20,58
+he was only half right,
+which in this case
+
+
+1120
+0:41:20,58 --> 0:41:22,37
+makes him fully wrong.
+
+
+1121
+0:41:22,37 --> 0:41:24,865
+Because genes do set
+the initial baseline.
+
+
+1122
+0:41:24,865 --> 0:41:27,72
+
+
+
+1123
+0:41:27,72 --> 0:41:29,58
+We can shine a light
+at a three-day-old,
+
+
+1124
+0:41:29,58 --> 0:41:32,372
+and if they turn towards that
+light and that auditory click,
+
+
+1125
+0:41:32,372 --> 0:41:34,58
+they're trying to increase
+their neocortical arousal,
+
+
+1126
+0:41:34,58 --> 0:41:37,12
+and they're more likely to
+be an extrovert at age 10.
+
+
+1127
+0:41:37,12 --> 0:41:38,47
+They turn away from
+it, and they're
+
+
+1128
+0:41:38,47 --> 0:41:39,922
+more likely to be an introvert.
+
+
+1129
+0:41:39,922 --> 0:41:40,63
+That's day three.
+
+
+1130
+0:41:40,63 --> 0:41:42,838
+We haven't even had time to
+screw them up yet, right?
+
+
+1131
+0:41:42,838 --> 0:41:45,7
+They've got these
+predispositions for this.
+
+
+1132
+0:41:45,7 --> 0:41:46,99
+Some of you,
+genetically happiness
+
+
+1133
+0:41:46,99 --> 0:41:49,33
+is a much easier choice
+than it is for other people.
+
+
+1134
+0:41:49,33 --> 0:41:51,97
+Same thing with obesity,
+with alcoholism,
+
+
+1135
+0:41:51,97 --> 0:41:53,62
+all of these different
+types of things.
+
+
+1136
+0:41:53,62 --> 0:41:55,75
+But that's only the
+beginning of the story.
+
+
+1137
+0:41:55,75 --> 0:41:58,94
+The reason why we keep finding
+genes to be so important
+
+
+1138
+0:41:58,94 --> 0:42:2,977
+is that average person
+doesn't fight their genes.
+
+
+1139
+0:42:2,977 --> 0:42:5,56
+And if you've seen my TED Talk,
+one of the things I talk about
+
+
+1140
+0:42:5,56 --> 0:42:7,477
+is how most of
+our research we're
+
+
+1141
+0:42:7,477 --> 0:42:8,56
+interested in the average.
+
+
+1142
+0:42:8,56 --> 0:42:10,851
+We want to find out how many
+aspirin the average person
+
+
+1143
+0:42:10,851 --> 0:42:12,69
+should take if they
+get a headache, which
+
+
+1144
+0:42:12,69 --> 0:42:14,23
+we should already see a problem.
+
+
+1145
+0:42:14,23 --> 0:42:17,24
+Because regardless if you're
+90 pounds or 250 pounds, yeah,
+
+
+1146
+0:42:17,24 --> 0:42:19,94
+about two pills should do it.
+
+
+1147
+0:42:19,94 --> 0:42:22,9
+But as soon as we ask
+questions about potential,
+
+
+1148
+0:42:22,9 --> 0:42:24,82
+about happiness, about
+optimism, about success,
+
+
+1149
+0:42:24,82 --> 0:42:27,352
+those are a different
+group of questions.
+
+
+1150
+0:42:27,352 --> 0:42:29,31
+And when we ask questions
+like that, what we do
+
+
+1151
+0:42:29,31 --> 0:42:31,9
+is we create a cult
+of the average.
+
+
+1152
+0:42:31,9 --> 0:42:33,28
+Because if we ask questions
+like, how fast can
+
+
+1153
+0:42:33,28 --> 0:42:35,769
+a child learn how to
+read?-- and in our research,
+
+
+1154
+0:42:35,769 --> 0:42:37,81
+we changed it to, how fast
+does the average child
+
+
+1155
+0:42:37,81 --> 0:42:40,0
+learn how to read, and then
+we tailor the classes right
+
+
+1156
+0:42:40,0 --> 0:42:40,874
+towards that average.
+
+
+1157
+0:42:40,874 --> 0:42:42,2
+Same thing with genes.
+
+
+1158
+0:42:42,2 --> 0:42:45,2
+If we look at how much genes
+matter, we look at the average,
+
+
+1159
+0:42:45,2 --> 0:42:47,174
+and the average
+person does not fight
+
+
+1160
+0:42:47,174 --> 0:42:48,59
+their genes and
+their environment.
+
+
+1161
+0:42:48,59 --> 0:42:51,48
+But if you look at those same
+graphs with those same twins,
+
+
+1162
+0:42:51,48 --> 0:42:53,68
+we find that they can
+scatter dramatically
+
+
+1163
+0:42:53,68 --> 0:42:56,5
+from their genetic set point
+and from our environment.
+
+
+1164
+0:42:56,5 --> 0:42:59,65
+Only 10% of your long-term
+levels of happiness
+
+
+1165
+0:42:59,65 --> 0:43:1,8
+are predicted based
+upon the external world.
+
+
+1166
+0:43:1,8 --> 0:43:3,88
+90% of your long-term
+levels of happiness
+
+
+1167
+0:43:3,88 --> 0:43:7,41
+is predicted by how your brain
+processes that external world.
+
+
+1168
+0:43:7,41 --> 0:43:9,85
+And one of the things we found--
+and there might be people
+
+
+1169
+0:43:9,85 --> 0:43:12,38
+here in the room, you've
+seen a change in your life.
+
+
+1170
+0:43:12,38 --> 0:43:15,472
+You've actually seen how you've
+become more optimistic or more
+
+
+1171
+0:43:15,472 --> 0:43:17,93
+jaded in your life, whatever
+direction you've been going on
+
+
+1172
+0:43:17,93 --> 0:43:21,16
+that trajectory-- I was
+telling you this morning,
+
+
+1173
+0:43:21,16 --> 0:43:24,73
+I had an identical twin come
+up to me after one of my talks
+
+
+1174
+0:43:24,73 --> 0:43:29,2
+and she said, I used to be
+a very negative person, just
+
+
+1175
+0:43:29,2 --> 0:43:32,3
+like my sister, but now
+I'm extremely positive.
+
+
+1176
+0:43:32,3 --> 0:43:33,23
+I'm like, that's amazing.
+
+
+1177
+0:43:33,23 --> 0:43:34,31
+What did you do?
+
+
+1178
+0:43:34,31 --> 0:43:36,28
+How did you break that
+cycle from your genes?
+
+
+1179
+0:43:36,28 --> 0:43:37,37
+That's what I study.
+
+
+1180
+0:43:37,37 --> 0:43:40,13
+And she thought about it,
+and she was like, actually,
+
+
+1181
+0:43:40,13 --> 0:43:42,17
+I think it happened
+when I was 15.
+
+
+1182
+0:43:42,17 --> 0:43:45,96
+I was involved in a horrific
+car accident, and I almost died.
+
+
+1183
+0:43:45,96 --> 0:43:49,112
+And I realized that
+life was a privilege
+
+
+1184
+0:43:49,112 --> 0:43:50,82
+and that I had a whole
+new lease on life.
+
+
+1185
+0:43:50,82 --> 0:43:53,1
+And from then on,
+I've seen the world
+
+
+1186
+0:43:53,1 --> 0:43:54,36
+in a completely different way.
+
+
+1187
+0:43:54,36 --> 0:43:58,62
+What I love about that is that's
+a trauma that caused growth.
+
+
+1188
+0:43:58,62 --> 0:44:0,42
+It wasn't just
+post-traumatic stress,
+
+
+1189
+0:44:0,42 --> 0:44:1,69
+which is all we hear about.
+
+
+1190
+0:44:1,69 --> 0:44:4,61
+But actually, it was trauma
+that caused somebody to not only
+
+
+1191
+0:44:4,61 --> 0:44:8,13
+grow, create post-traumatic
+growth but a deviation
+
+
+1192
+0:44:8,13 --> 0:44:9,1
+from our genes.
+
+
+1193
+0:44:9,1 --> 0:44:11,91
+And that is what I find that
+these positive geniuses are
+
+
+1194
+0:44:11,91 --> 0:44:15,1
+able to do is to realize
+that they can actually
+
+
+1195
+0:44:15,1 --> 0:44:17,47
+be co-creators of the
+lens with which they view
+
+
+1196
+0:44:17,47 --> 0:44:19,94
+the world with their
+environment and their genes,
+
+
+1197
+0:44:19,94 --> 0:44:22,93
+so much so we can get people
+with genes for pessimism
+
+
+1198
+0:44:22,93 --> 0:44:26,59
+to act in the world and to
+become high-level optimists.
+
+
+1199
+0:44:26,59 --> 0:44:28,36
+We actually haven't
+found anyone who
+
+
+1200
+0:44:28,36 --> 0:44:30,316
+is not capable of
+changing if they're
+
+
+1201
+0:44:30,316 --> 0:44:32,69
+willing to be able to make
+some of these positive changes
+
+
+1202
+0:44:32,69 --> 0:44:34,414
+within their life,
+which shows us
+
+
+1203
+0:44:34,414 --> 0:44:36,83
+that if we just push against
+our environment and our genes
+
+
+1204
+0:44:36,83 --> 0:44:38,79
+and create some of
+these positive habits
+
+
+1205
+0:44:38,79 --> 0:44:41,549
+that you've been doing here
+at Google and the programs
+
+
+1206
+0:44:41,549 --> 0:44:43,34
+where you get people
+to create these ideas,
+
+
+1207
+0:44:43,34 --> 0:44:46,331
+if you take advantage of some
+of the exercise equipment
+
+
+1208
+0:44:46,331 --> 0:44:48,8
+and all of the incredible
+things you have,
+
+
+1209
+0:44:48,8 --> 0:44:51,575
+you can actually get people to
+change from their genetic set
+
+
+1210
+0:44:51,575 --> 0:44:53,996
+point and create a whole new
+trajectory, which is amazing.
+
+
+1211
+0:44:53,996 --> 0:44:54,87
+CHADE-MENG TAN: Yeah.
+
+
+1212
+0:44:54,87 --> 0:44:55,79
+Thank you.
+
+
+1213
+0:44:55,79 --> 0:44:58,1
+So Alex has the mic.
+
+
+1214
+0:44:58,1 --> 0:45:0,232
+Let's get some questions
+from the audience.
+
+
+1215
+0:45:0,232 --> 0:45:2,44
+Yeah, Alex, you get to choose
+who to give the mic to.
+
+
+1216
+0:45:2,44 --> 0:45:3,979
+He has the power.
+
+
+1217
+0:45:3,979 --> 0:45:4,52
+AUDIENCE: Hi.
+
+
+1218
+0:45:4,52 --> 0:45:6,89
+A direct follow-up to
+what you just said.
+
+
+1219
+0:45:6,89 --> 0:45:10,87
+I grew up with the
+quote 10% of the world
+
+
+1220
+0:45:10,87 --> 0:45:13,98
+is what you make
+of it, and 90% is
+
+
+1221
+0:45:13,98 --> 0:45:16,6
+how you take it, which is
+kind of what you just said.
+
+
+1222
+0:45:16,6 --> 0:45:18,21
+You said 90% of
+your happiness is
+
+
+1223
+0:45:18,21 --> 0:45:20,902
+based on how you process
+your external world.
+
+
+1224
+0:45:20,902 --> 0:45:23,694
+Do you have some
+scientific fact?
+
+
+1225
+0:45:23,694 --> 0:45:25,11
+How did you come
+up with that 90%?
+
+
+1226
+0:45:25,11 --> 0:45:27,86
+Because before I thought
+that that was made up.
+
+
+1227
+0:45:27,86 --> 0:45:29,7
+SHAWN ACHOR: Yeah.
+
+
+1228
+0:45:29,7 --> 0:45:31,0
+That research comes
+from a researcher
+
+
+1229
+0:45:31,0 --> 0:45:32,3
+named Sonja Lyubomirsky.
+
+
+1230
+0:45:32,3 --> 0:45:34,38
+And part of what they
+were looking at initially
+
+
+1231
+0:45:34,38 --> 0:45:37,45
+was if we know your
+external world,
+
+
+1232
+0:45:37,45 --> 0:45:40,24
+we can predict short-term
+happiness very easily.
+
+
+1233
+0:45:40,24 --> 0:45:42,15
+If a stock goes
+down, your happiness
+
+
+1234
+0:45:42,15 --> 0:45:43,97
+goes down, unless
+you short the stock.
+
+
+1235
+0:45:43,97 --> 0:45:47,41
+Or if something
+bad happens to you,
+
+
+1236
+0:45:47,41 --> 0:45:49,89
+immediately you have
+a response period.
+
+
+1237
+0:45:49,89 --> 0:45:53,0
+If you don't actually have a
+response period completely,
+
+
+1238
+0:45:53,0 --> 0:45:56,22
+sometimes that can
+actually be problematic.
+
+
+1239
+0:45:56,22 --> 0:45:58,79
+I don't study people that
+are happy all the time,
+
+
+1240
+0:45:58,79 --> 0:46:3,2
+because that can actually be a
+form of a disorder where they
+
+
+1241
+0:46:3,2 --> 0:46:3,78
+don't--
+
+
+1242
+0:46:3,78 --> 0:46:4,94
+CHADE-MENG TAN: Or
+they live in Colorado.
+
+
+1243
+0:46:4,94 --> 0:46:5,815
+SHAWN ACHOR: Exactly.
+
+
+1244
+0:46:5,815 --> 0:46:12,695
+[AUDIENCE LAUGHING]
+
+
+1245
+0:46:12,695 --> 0:46:14,7
+SHAWN ACHOR: So
+anyway, what they
+
+
+1246
+0:46:14,7 --> 0:46:22,6
+found was your happiness levels
+in aggregate over time, which
+
+
+1247
+0:46:22,6 --> 0:46:25,24
+is when we watch your
+patterns move, only 10% of it
+
+
+1248
+0:46:25,24 --> 0:46:27,67
+was predicted by any of
+those external factors
+
+
+1249
+0:46:27,67 --> 0:46:28,83
+that we were looking for.
+
+
+1250
+0:46:28,83 --> 0:46:30,413
+So the rest of it
+had to be determined
+
+
+1251
+0:46:30,413 --> 0:46:33,594
+based upon your genes and what
+she calls the voluntary actions
+
+
+1252
+0:46:33,594 --> 0:46:34,51
+you make in your life.
+
+
+1253
+0:46:34,51 --> 0:46:36,962
+Those are the habits.
+
+
+1254
+0:46:36,962 --> 0:46:38,42
+I like where she's
+going with this,
+
+
+1255
+0:46:38,42 --> 0:46:40,386
+and it's helpful sometimes
+to say those things.
+
+
+1256
+0:46:40,386 --> 0:46:42,51
+But I also think we get
+stuck with the percentages.
+
+
+1257
+0:46:42,51 --> 0:46:49,914
+Because if I'm born with genes
+for pessimism-- actually,
+
+
+1258
+0:46:49,914 --> 0:46:51,83
+I was born probably with
+genes for depression.
+
+
+1259
+0:46:51,83 --> 0:46:54,17
+I actually went through two
+years of depression myself
+
+
+1260
+0:46:54,17 --> 0:46:57,24
+when I was at Harvard while
+I was at the Divinity School.
+
+
+1261
+0:46:57,24 --> 0:47:1,28
+And as I was coming out of that,
+what was helping me pull out
+
+
+1262
+0:47:1,28 --> 0:47:3,679
+of it was positive psychology
+and some of these habits
+
+
+1263
+0:47:3,679 --> 0:47:4,47
+that we were doing.
+
+
+1264
+0:47:4,47 --> 0:47:7,21
+I was doing this journaling
+exercise where you actually
+
+
+1265
+0:47:7,21 --> 0:47:8,69
+journal about
+positive experience
+
+
+1266
+0:47:8,69 --> 0:47:10,35
+and meaningful
+experience over the day.
+
+
+1267
+0:47:10,35 --> 0:47:11,74
+And because our
+brains can't tell
+
+
+1268
+0:47:11,74 --> 0:47:13,239
+the difference
+between visualization
+
+
+1269
+0:47:13,239 --> 0:47:16,6
+and actual experience,
+it doubles the experience
+
+
+1270
+0:47:16,6 --> 0:47:19,5
+for the brain, and you
+start to see more meaning.
+
+
+1271
+0:47:19,5 --> 0:47:22,434
+Even though I have
+genes for that,
+
+
+1272
+0:47:22,434 --> 0:47:24,85
+I don't actually experience
+depression very much any more.
+
+
+1273
+0:47:24,85 --> 0:47:26,92
+And when I start to go down
+into a trough a little bit,
+
+
+1274
+0:47:26,92 --> 0:47:29,64
+I know it's short-lived, and I
+can actually pop back out of it
+
+
+1275
+0:47:29,64 --> 0:47:31,2
+faster and faster now.
+
+
+1276
+0:47:31,2 --> 0:47:33,13
+And if that's the
+case, then how much are
+
+
+1277
+0:47:33,13 --> 0:47:35,35
+the genes mattering
+at this point?
+
+
+1278
+0:47:35,35 --> 0:47:37,61
+Are the genes starting
+to go from 40% down
+
+
+1279
+0:47:37,61 --> 0:47:40,49
+to 30% down to 0%?
+
+
+1280
+0:47:40,49 --> 0:47:42,64
+If I have genes for
+pessimism but I'm
+
+
+1281
+0:47:42,64 --> 0:47:46,81
+acting like an optimist,
+maybe they have 0% of effect
+
+
+1282
+0:47:46,81 --> 0:47:47,52
+upon people.
+
+
+1283
+0:47:47,52 --> 0:47:50,26
+So part of what I think
+is just the recognition
+
+
+1284
+0:47:50,26 --> 0:47:52,41
+that the external
+world does not have
+
+
+1285
+0:47:52,41 --> 0:47:55,32
+a tyranny over people's
+levels of happiness, which
+
+
+1286
+0:47:55,32 --> 0:47:57,14
+is why if you've
+traveled a lot you've
+
+
+1287
+0:47:57,14 --> 0:48:1,35
+seen-- I've worked with very
+wealthy bankers who have just
+
+
+1288
+0:48:1,35 --> 0:48:4,67
+been so depressed and devastated
+in the middle of a banking
+
+
+1289
+0:48:4,67 --> 0:48:5,4
+crisis.
+
+
+1290
+0:48:5,4 --> 0:48:7,35
+And I've worked with
+farmers in Zimbabwe who
+
+
+1291
+0:48:7,35 --> 0:48:10,29
+lost their land who are living
+under a military dictator,
+
+
+1292
+0:48:10,29 --> 0:48:12,33
+and they're some of the
+most optimistic people
+
+
+1293
+0:48:12,33 --> 0:48:13,35
+I've ever met.
+
+
+1294
+0:48:13,35 --> 0:48:16,5
+So I think it goes
+with the common sense
+
+
+1295
+0:48:16,5 --> 0:48:18,58
+that we can find people
+within every environment that
+
+
+1296
+0:48:18,58 --> 0:48:19,88
+are positive and negative.
+
+
+1297
+0:48:19,88 --> 0:48:22,64
+I think the key, though,
+is how do we view reality.
+
+
+1298
+0:48:22,64 --> 0:48:25,12
+Because I was actually
+out in northern California
+
+
+1299
+0:48:25,12 --> 0:48:28,17
+out here speaking to a
+group of software companies,
+
+
+1300
+0:48:28,17 --> 0:48:30,44
+all CEOs of these top
+software companies.
+
+
+1301
+0:48:30,44 --> 0:48:32,51
+You probably know
+all these people.
+
+
+1302
+0:48:32,51 --> 0:48:35,6
+And one of the CEOs offered
+to drive me to the airport
+
+
+1303
+0:48:35,6 --> 0:48:38,442
+after my talk, because
+he wanted to figure out
+
+
+1304
+0:48:38,442 --> 0:48:40,25
+how we could cascade
+this research out
+
+
+1305
+0:48:40,25 --> 0:48:41,66
+through his organization.
+
+
+1306
+0:48:41,66 --> 0:48:42,69
+And so I got into
+his really nice car
+
+
+1307
+0:48:42,69 --> 0:48:45,15
+and put on my seat belt, and
+he got in on the other side
+
+
+1308
+0:48:45,15 --> 0:48:46,51
+and immediately started
+talking to me about what
+
+
+1309
+0:48:46,51 --> 0:48:48,843
+his company was experiencing,
+all the change and stress.
+
+
+1310
+0:48:48,843 --> 0:48:50,85
+And that bell was
+going off in his car
+
+
+1311
+0:48:50,85 --> 0:48:52,433
+because he hadn't
+put on his seat belt
+
+
+1312
+0:48:52,433 --> 0:48:54,795
+yet and just kept going off
+and eventually got tired
+
+
+1313
+0:48:54,795 --> 0:48:55,91
+and just stopped.
+
+
+1314
+0:48:55,91 --> 0:48:58,436
+And I turned to
+him and I was like,
+
+
+1315
+0:48:58,436 --> 0:48:59,56
+you don't wear a seat belt?
+
+
+1316
+0:48:59,56 --> 0:49:2,1
+And he said, no, I
+listened to your talk.
+
+
+1317
+0:49:2,1 --> 0:49:3,21
+I love your research.
+
+
+1318
+0:49:3,21 --> 0:49:4,28
+I'm an optimist.
+
+
+1319
+0:49:4,28 --> 0:49:5,49
+[AUDIENCE LAUGHING]
+
+
+1320
+0:49:5,49 --> 0:49:8,95
+SHAWN ACHOR: I was like,
+oh, you're an idiot.
+
+
+1321
+0:49:8,95 --> 0:49:10,439
+[AUDIENCE LAUGHING]
+
+
+1322
+0:49:10,439 --> 0:49:12,23
+SHAWN ACHOR: But I'd
+love to work with you.
+
+
+1323
+0:49:12,23 --> 0:49:14,68
+[AUDIENCE LAUGHING]
+
+
+1324
+0:49:14,68 --> 0:49:17,55
+SHAWN ACHOR: Optimism is
+great for a lot of things,
+
+
+1325
+0:49:17,55 --> 0:49:19,97
+but it doesn't stop
+cars from hitting us.
+
+
+1326
+0:49:19,97 --> 0:49:22,39
+It doesn't stop reality
+from impinging upon us.
+
+
+1327
+0:49:22,39 --> 0:49:24,21
+And that's irrational optimism.
+
+
+1328
+0:49:24,21 --> 0:49:25,81
+And there's books
+and ideas out there
+
+
+1329
+0:49:25,81 --> 0:49:27,51
+that if you're like, if
+I just change my mindset,
+
+
+1330
+0:49:27,51 --> 0:49:28,87
+everything will change for me.
+
+
+1331
+0:49:28,87 --> 0:49:30,7
+And that's actually irrational.
+
+
+1332
+0:49:30,7 --> 0:49:33,66
+Because if you
+sugarcoat the present,
+
+
+1333
+0:49:33,66 --> 0:49:35,7
+we make bad decisions
+in the future.
+
+
+1334
+0:49:35,7 --> 0:49:38,5
+And if we think that
+reality won't impact us,
+
+
+1335
+0:49:38,5 --> 0:49:40,56
+we don't make any
+changes to that reality,
+
+
+1336
+0:49:40,56 --> 0:49:44,29
+and it causes us to be blind
+to injustices that are going on
+
+
+1337
+0:49:44,29 --> 0:49:47,55
+in the world or to racism
+or to weaknesses in our life
+
+
+1338
+0:49:47,55 --> 0:49:49,24
+that we want to improve.
+
+
+1339
+0:49:49,24 --> 0:49:51,13
+Irrational optimists
+don't put on a seat belt
+
+
+1340
+0:49:51,13 --> 0:49:52,37
+because they don't think
+anything bad can happen
+
+
+1341
+0:49:52,37 --> 0:49:54,94
+to them, and a pessimist
+doesn't put on a seat belt
+
+
+1342
+0:49:54,94 --> 0:49:57,32
+because they think they're
+going to die anyway.
+
+
+1343
+0:49:57,32 --> 0:50:0,7
+But a rational optimist, which
+is what I'm hoping people
+
+
+1344
+0:50:0,7 --> 0:50:3,7
+go for with this idea,
+rational optimism
+
+
+1345
+0:50:3,7 --> 0:50:5,67
+doesn't start with
+rose-colored glasses.
+
+
+1346
+0:50:5,67 --> 0:50:8,6
+It starts with a realistic
+assessment of the present, both
+
+
+1347
+0:50:8,6 --> 0:50:11,17
+the good and the bad,
+but maintains the belief
+
+
+1348
+0:50:11,17 --> 0:50:12,419
+that our behavior matters.
+
+
+1349
+0:50:12,419 --> 0:50:14,21
+It's linked to our
+social support networks.
+
+
+1350
+0:50:14,21 --> 0:50:15,2
+I love that.
+
+
+1351
+0:50:15,2 --> 0:50:17,42
+The rational optimism takes
+a realistic assessment
+
+
+1352
+0:50:17,42 --> 0:50:18,85
+of the present
+first but maintains
+
+
+1353
+0:50:18,85 --> 0:50:20,24
+the belief my behavior matters.
+
+
+1354
+0:50:20,24 --> 0:50:21,79
+It's linked to the
+people around me.
+
+
+1355
+0:50:21,79 --> 0:50:26,3
+And that, I think, is where
+we want to go with this.
+
+
+1356
+0:50:26,3 --> 0:50:28,35
+I get people after
+my talks who say,
+
+
+1357
+0:50:28,35 --> 0:50:30,55
+I'm not an optimist
+or a pessimist.
+
+
+1358
+0:50:30,55 --> 0:50:33,1
+I'm just a realist
+right now, which
+
+
+1359
+0:50:33,1 --> 0:50:34,752
+usually means
+they're a pessimist.
+
+
+1360
+0:50:34,752 --> 0:50:37,98
+But what they're saying
+is actually nonsensical,
+
+
+1361
+0:50:37,98 --> 0:50:39,99
+because both optimists
+and pessimists
+
+
+1362
+0:50:39,99 --> 0:50:41,55
+can both be realists.
+
+
+1363
+0:50:41,55 --> 0:50:44,36
+Realism's seeing the problems
+in this world and in our work
+
+
+1364
+0:50:44,36 --> 0:50:45,37
+and in our lives.
+
+
+1365
+0:50:45,37 --> 0:50:48,43
+Optimism and pessimism is what
+happens after the problem.
+
+
+1366
+0:50:48,43 --> 0:50:49,79
+So you have to see reality.
+
+
+1367
+0:50:49,79 --> 0:50:51,69
+You know that reality
+has an impact.
+
+
+1368
+0:50:51,69 --> 0:50:53,7
+But do I believe
+that that problem is
+
+
+1369
+0:50:53,7 --> 0:50:55,98
+permanent and pervasive,
+it affects everything,
+
+
+1370
+0:50:55,98 --> 0:50:58,62
+or it's local, it's one
+part of your reality,
+
+
+1371
+0:50:58,62 --> 0:50:59,7
+and that it's temporary?
+
+
+1372
+0:50:59,7 --> 0:51:0,67
+This too will pass.
+
+
+1373
+0:51:0,67 --> 0:51:2,81
+That's where we want
+people to get to,
+
+
+1374
+0:51:2,81 --> 0:51:4,67
+not to ignore the
+reality but to realize
+
+
+1375
+0:51:4,67 --> 0:51:5,67
+that they can change it.
+
+
+1376
+0:51:5,67 --> 0:51:7,36
+So I love that quote
+that you were talking
+
+
+1377
+0:51:7,36 --> 0:51:9,693
+about that you grew up with,
+because it really is about,
+
+
+1378
+0:51:9,693 --> 0:51:12,88
+how do you take the world that
+you have and move forward?
+
+
+1379
+0:51:12,88 --> 0:51:13,52
+So thank you.
+
+
+1380
+0:51:13,52 --> 0:51:14,354
+AUDIENCE: Thank you.
+
+
+1381
+0:51:14,354 --> 0:51:16,978
+AUDIENCE: I've heard the saying
+you are the average of the five
+
+
+1382
+0:51:16,978 --> 0:51:18,562
+people you associate
+with the most.
+
+
+1383
+0:51:18,562 --> 0:51:19,27
+SHAWN ACHOR: Wow.
+
+
+1384
+0:51:19,27 --> 0:51:21,811
+AUDIENCE: And whether
+it's five or six,
+
+
+1385
+0:51:21,811 --> 0:51:23,56
+I don't think the
+quantity really matters.
+
+
+1386
+0:51:23,56 --> 0:51:25,37
+And the intent of
+the question is
+
+
+1387
+0:51:25,37 --> 0:51:27,62
+you grow with the
+people around you.
+
+
+1388
+0:51:27,62 --> 0:51:32,24
+And so I started to really
+question my relationships
+
+
+1389
+0:51:32,24 --> 0:51:36,34
+from high school to college and
+now Google and moving forward.
+
+
+1390
+0:51:36,34 --> 0:51:39,77
+Were these relationships
+based-- they've changed so much,
+
+
+1391
+0:51:39,77 --> 0:51:40,66
+and people that I
+used to care about I
+
+
+1392
+0:51:40,66 --> 0:51:42,3
+haven't talked to in so long.
+
+
+1393
+0:51:42,3 --> 0:51:44,9
+And I'm progressing
+forward in my career,
+
+
+1394
+0:51:44,9 --> 0:51:47,567
+and I'm really only
+associating with people--
+
+
+1395
+0:51:47,567 --> 0:51:49,65
+I try to have genuine
+conversations with everyone.
+
+
+1396
+0:51:49,65 --> 0:51:51,16
+But then I realized
+two years later
+
+
+1397
+0:51:51,16 --> 0:51:53,618
+that, oh, I don't even talk to
+this person I cared about so
+
+
+1398
+0:51:53,618 --> 0:51:56,29
+much, just because he's not
+a part of my career anymore.
+
+
+1399
+0:51:56,29 --> 0:51:57,62
+Because it's such a
+huge part in my life.
+
+
+1400
+0:51:57,62 --> 0:51:58,25
+SHAWN ACHOR: Yeah.
+
+
+1401
+0:51:58,25 --> 0:51:59,666
+AUDIENCE: And so
+it's really tough
+
+
+1402
+0:51:59,666 --> 0:52:3,75
+to see are all my
+relationships that superficial
+
+
+1403
+0:52:3,75 --> 0:52:6,7
+to the point of
+helping me just kind of
+
+
+1404
+0:52:6,7 --> 0:52:8,964
+be a more powerful
+force in the world?
+
+
+1405
+0:52:8,964 --> 0:52:11,13
+Because I think we all care
+about changing the world
+
+
+1406
+0:52:11,13 --> 0:52:13,12
+and having an impact,
+and that's really hard
+
+
+1407
+0:52:13,12 --> 0:52:14,94
+when you try to really
+build relationships.
+
+
+1408
+0:52:14,94 --> 0:52:16,55
+And when you say cut
+people out of your life
+
+
+1409
+0:52:16,55 --> 0:52:17,89
+that are bringing
+you down, it may
+
+
+1410
+0:52:17,89 --> 0:52:20,181
+be that they're in a stage
+in which they need the most,
+
+
+1411
+0:52:20,181 --> 0:52:23,26
+and you've just cut them out.
+
+
+1412
+0:52:23,26 --> 0:52:26,22
+Sometimes I reflect on this,
+and I go into a very dark place
+
+
+1413
+0:52:26,22 --> 0:52:26,82
+very quickly.
+
+
+1414
+0:52:26,82 --> 0:52:28,64
+SHAWN ACHOR: Yeah.
+
+
+1415
+0:52:28,64 --> 0:52:31,5
+AUDIENCE: I'm pretty happy
+guy, more or less than not.
+
+
+1416
+0:52:31,5 --> 0:52:34,309
+But I think about
+this stuff a lot,
+
+
+1417
+0:52:34,309 --> 0:52:36,1
+and I was wondering
+what your opinions are.
+
+
+1418
+0:52:36,1 --> 0:52:37,23
+SHAWN ACHOR: Yeah.
+
+
+1419
+0:52:37,23 --> 0:52:39,646
+Thank you for sharing that,
+because I think about this lot
+
+
+1420
+0:52:39,646 --> 0:52:41,62
+too because I find
+the same thing.
+
+
+1421
+0:52:41,62 --> 0:52:43,45
+It's less about my career.
+
+
+1422
+0:52:43,45 --> 0:52:46,11
+It's more about who's in
+my immediate vicinity.
+
+
+1423
+0:52:46,11 --> 0:52:48,83
+I even saw it with my freshmen
+then when I was a Proctor.
+
+
+1424
+0:52:48,83 --> 0:52:51,177
+I'd be so close and
+tight with my freshmen.
+
+
+1425
+0:52:51,177 --> 0:52:52,76
+And then as soon as
+they got moved off
+
+
+1426
+0:52:52,76 --> 0:52:55,7
+to the River Houses or
+the Quad, I was like, OK,
+
+
+1427
+0:52:55,7 --> 0:52:58,172
+I've got my new friends,
+the new freshmen
+
+
+1428
+0:52:58,172 --> 0:52:59,13
+that came in this year.
+
+
+1429
+0:52:59,13 --> 0:53:1,31
+And what I found was it was
+so frustrating because I cared
+
+
+1430
+0:53:1,31 --> 0:53:3,33
+so much about my family
+members, these friends
+
+
+1431
+0:53:3,33 --> 0:53:6,4
+that I had had in the past, but
+they were outside of my sphere,
+
+
+1432
+0:53:6,4 --> 0:53:8,47
+because we're so
+used to interacting
+
+
+1433
+0:53:8,47 --> 0:53:10,85
+with the people that are in
+your sphere, which at work,
+
+
+1434
+0:53:10,85 --> 0:53:14,9
+if you're focused on work, that
+entire sphere might be here.
+
+
+1435
+0:53:14,9 --> 0:53:16,526
+So of course the
+people closest to you
+
+
+1436
+0:53:16,526 --> 0:53:18,4
+might be the people that
+are directly related
+
+
+1437
+0:53:18,4 --> 0:53:19,24
+to that career.
+
+
+1438
+0:53:19,24 --> 0:53:22,27
+
+
+
+1439
+0:53:22,27 --> 0:53:24,912
+And I make a little bit of fun
+of cutting the negative people
+
+
+1440
+0:53:24,912 --> 0:53:26,37
+out of our life,
+because I actually
+
+
+1441
+0:53:26,37 --> 0:53:27,802
+don't want people to do that.
+
+
+1442
+0:53:27,802 --> 0:53:30,1
+I think it misses out on
+how powerful we can actually
+
+
+1443
+0:53:30,1 --> 0:53:32,93
+be in these relationships,
+even if they're short-term.
+
+
+1444
+0:53:32,93 --> 0:53:35,48
+Because at Yale they
+found that if you
+
+
+1445
+0:53:35,48 --> 0:53:37,84
+have three strangers
+come into the room,
+
+
+1446
+0:53:37,84 --> 0:53:39,43
+all with different emotions--
+
+
+1447
+0:53:39,43 --> 0:53:41,62
+I get asked a lot,
+who's more powerful,
+
+
+1448
+0:53:41,62 --> 0:53:44,23
+the positive people in your
+life and the negative people?
+
+
+1449
+0:53:44,23 --> 0:53:45,27
+You might have a positive
+team, but there's
+
+
+1450
+0:53:45,27 --> 0:53:47,9
+this one negative guy
+on the team that's
+
+
+1451
+0:53:47,9 --> 0:53:49,851
+dragging the whole team down, or
+one positive person that you're
+
+
+1452
+0:53:49,851 --> 0:53:52,35
+talking about that's very calm
+that gets everyone else to be
+
+
+1453
+0:53:52,35 --> 0:53:53,23
+calm.
+
+
+1454
+0:53:53,23 --> 0:53:54,8
+We can't answer that question,
+because it's different
+
+
+1455
+0:53:54,8 --> 0:53:55,74
+every time we test it.
+
+
+1456
+0:53:55,74 --> 0:53:57,3
+Sometimes it's the
+positive person.
+
+
+1457
+0:53:57,3 --> 0:53:58,488
+Sometimes it's the
+negative person.
+
+
+1458
+0:53:58,488 --> 0:54:1,55
+What we found is it was
+a different variable.
+
+
+1459
+0:54:1,55 --> 0:54:3,55
+They found that the other
+two people in the room
+
+
+1460
+0:54:3,55 --> 0:54:5,64
+leave with an increased
+likelihood of experiencing
+
+
+1461
+0:54:5,64 --> 0:54:7,8
+the emotions of
+the most verbally
+
+
+1462
+0:54:7,8 --> 0:54:10,4
+and non-verbally expressive
+person in the room.
+
+
+1463
+0:54:10,4 --> 0:54:12,42
+So what that means is
+verbally or non-verbally,
+
+
+1464
+0:54:12,42 --> 0:54:15,69
+if I'm very expressive of my
+pessimism or my negativity,
+
+
+1465
+0:54:15,69 --> 0:54:18,11
+I'm changing that social script.
+
+
+1466
+0:54:18,11 --> 0:54:20,64
+And what we found is social
+influence in our lives
+
+
+1467
+0:54:20,64 --> 0:54:22,32
+is defined by three
+things, the strength
+
+
+1468
+0:54:22,32 --> 0:54:25,49
+of our message, the immediacy,
+how important that message is
+
+
+1469
+0:54:25,49 --> 0:54:27,145
+to people, and the
+number of sources
+
+
+1470
+0:54:27,145 --> 0:54:29,68
+that are giving
+that same message.
+
+
+1471
+0:54:29,68 --> 0:54:33,3
+What we found is that if you're
+wanting to try and create
+
+
+1472
+0:54:33,3 --> 0:54:34,8
+a positive effect
+upon other people,
+
+
+1473
+0:54:34,8 --> 0:54:37,55
+you want to increase the
+strength of that message, to be
+
+
+1474
+0:54:37,55 --> 0:54:39,46
+more positive verbally
+and non-verbally
+
+
+1475
+0:54:39,46 --> 0:54:43,39
+in those relationships to try
+and change those five or six
+
+
+1476
+0:54:43,39 --> 0:54:45,867
+people that might be
+in our average circle.
+
+
+1477
+0:54:45,867 --> 0:54:47,7
+But also, you're trying
+to increase the end.
+
+
+1478
+0:54:47,7 --> 0:54:50,94
+Oftentimes when we think
+about those negative people,
+
+
+1479
+0:54:50,94 --> 0:54:51,76
+we should actually
+not be going straight
+
+
+1480
+0:54:51,76 --> 0:54:52,69
+for the negative person.
+
+
+1481
+0:54:52,69 --> 0:54:53,925
+We should be increasing
+the positivity
+
+
+1482
+0:54:53,925 --> 0:54:56,61
+of the people in the middle that
+we could tip towards positive
+
+
+1483
+0:54:56,61 --> 0:54:58,38
+that help make that
+person actually
+
+
+1484
+0:54:58,38 --> 0:55:0,92
+see a social script
+that's more positive.
+
+
+1485
+0:55:0,92 --> 0:55:2,55
+But what's interesting, the
+other part about your question,
+
+
+1486
+0:55:2,55 --> 0:55:5,61
+is these strong ties versus
+weak ties, which I actually
+
+
+1487
+0:55:5,61 --> 0:55:7,19
+do a lot of research on.
+
+
+1488
+0:55:7,19 --> 0:55:8,81
+Weak ties are actually
+much more predictive
+
+
+1489
+0:55:8,81 --> 0:55:11,97
+of your long-term success
+than the strong ties are.
+
+
+1490
+0:55:11,97 --> 0:55:14,91
+Happiness levels,
+though, are related
+
+
+1491
+0:55:14,91 --> 0:55:17,97
+to both, the breadth and
+depth of your relationships.
+
+
+1492
+0:55:17,97 --> 0:55:19,93
+So part of what
+we find is people,
+
+
+1493
+0:55:19,93 --> 0:55:22,3
+depending on your introversion
+or your extroversion,
+
+
+1494
+0:55:22,3 --> 0:55:25,25
+you can have lots of friends or
+small friends, deep or broad,
+
+
+1495
+0:55:25,25 --> 0:55:28,72
+and what we found is that
+it really is how you see it,
+
+
+1496
+0:55:28,72 --> 0:55:31,44
+how you see those interactions.
+
+
+1497
+0:55:31,44 --> 0:55:34,459
+Do you see them as only
+weak ties, in which case
+
+
+1498
+0:55:34,459 --> 0:55:36,25
+they don't actually
+provide as much meaning
+
+
+1499
+0:55:36,25 --> 0:55:38,15
+to you, in which case
+you don't actually
+
+
+1500
+0:55:38,15 --> 0:55:40,3
+feel sustained by that
+social support network?
+
+
+1501
+0:55:40,3 --> 0:55:42,383
+It's what we see with
+social media a lot of times.
+
+
+1502
+0:55:42,383 --> 0:55:46,91
+When people follow people on
+Twitter or on any social media
+
+
+1503
+0:55:46,91 --> 0:55:49,15
+platform, if they
+follow people they
+
+
+1504
+0:55:49,15 --> 0:55:52,41
+don't know they get no return
+on their investment of time
+
+
+1505
+0:55:52,41 --> 0:55:54,377
+in terms of social connection.
+
+
+1506
+0:55:54,377 --> 0:55:55,96
+But if they follow
+people that they're
+
+
+1507
+0:55:55,96 --> 0:55:57,92
+friends from high school
+and they see that they just
+
+
+1508
+0:55:57,92 --> 0:56:0,3
+had a kid or they just got
+a job and they actually
+
+
+1509
+0:56:0,3 --> 0:56:2,94
+do see them at some point or
+they do interact with them,
+
+
+1510
+0:56:2,94 --> 0:56:4,99
+they have a depth of
+their social knowledge
+
+
+1511
+0:56:4,99 --> 0:56:7,54
+that deepens that relationship
+and causes more meaning.
+
+
+1512
+0:56:7,54 --> 0:56:9,869
+So what I've been doing in
+my life-- this sounds very
+
+
+1513
+0:56:9,869 --> 0:56:11,41
+similar to what
+you're experiencing--
+
+
+1514
+0:56:11,41 --> 0:56:14,24
+is I try to reconnect with
+some of those people in very
+
+
+1515
+0:56:14,24 --> 0:56:17,7
+short bursts but
+in meaningful ways.
+
+
+1516
+0:56:17,7 --> 0:56:19,17
+And one of the habits
+that I have people
+
+
+1517
+0:56:19,17 --> 0:56:21,21
+do at these companies
+is every day
+
+
+1518
+0:56:21,21 --> 0:56:23,83
+when you get into work write
+a two-minute email praising
+
+
+1519
+0:56:23,83 --> 0:56:26,19
+or thanking or reconnecting
+with one person.
+
+
+1520
+0:56:26,19 --> 0:56:26,69
+That's it.
+
+
+1521
+0:56:26,69 --> 0:56:28,76
+Two minutes maximum,
+so it's super short.
+
+
+1522
+0:56:28,76 --> 0:56:31,16
+It's two or three sentences.
+
+
+1523
+0:56:31,16 --> 0:56:31,709
+Try it today.
+
+
+1524
+0:56:31,709 --> 0:56:33,25
+Just connect with
+one of those people
+
+
+1525
+0:56:33,25 --> 0:56:36,75
+you feel like is outside
+of that career sphere.
+
+
+1526
+0:56:36,75 --> 0:56:37,7
+And if you do it for
+three days, you'll
+
+
+1527
+0:56:37,7 --> 0:56:39,28
+literally become addicted
+to it, because you're
+
+
+1528
+0:56:39,28 --> 0:56:41,696
+going to spend all day long
+thinking about how amazing you
+
+
+1529
+0:56:41,696 --> 0:56:43,446
+were for writing that email.
+
+
+1530
+0:56:43,446 --> 0:56:45,3
+[AUDIENCE LAUGHING]
+
+
+1531
+0:56:45,3 --> 0:56:47,78
+SHAWN ACHOR: But what happens
+is 21 days later as you've
+
+
+1532
+0:56:47,78 --> 0:56:50,3
+reconnected to those people,
+your brain realizes, wow,
+
+
+1533
+0:56:50,3 --> 0:56:52,53
+I have incredibly
+robust social support.
+
+
+1534
+0:56:52,53 --> 0:56:56,41
+I saw some of you this morning
+that I hadn't seen from my time
+
+
+1535
+0:56:56,41 --> 0:56:57,86
+at Harvard, and
+it's so exciting.
+
+
+1536
+0:56:57,86 --> 0:57:0,67
+I haven't seen you in so
+long, and it's so exciting
+
+
+1537
+0:57:0,67 --> 0:57:2,85
+to have those opportunities.
+
+
+1538
+0:57:2,85 --> 0:57:5,21
+What we found is social
+support is the greatest
+
+
+1539
+0:57:5,21 --> 0:57:7,41
+predictor of long-term
+happiness we have.
+
+
+1540
+0:57:7,41 --> 0:57:11,8
+So instead of
+fleeing from negative
+
+
+1541
+0:57:11,8 --> 0:57:14,8
+or only investing in our sphere,
+if we can find just small ways
+
+
+1542
+0:57:14,8 --> 0:57:18,22
+to increase and deepen
+that social connection,
+
+
+1543
+0:57:18,22 --> 0:57:20,23
+we've found it's the greatest
+predictor of happiness.
+
+
+1544
+0:57:20,23 --> 0:57:21,605
+At Columbia, they
+found that if I
+
+
+1545
+0:57:21,605 --> 0:57:24,532
+know the collective IQ on a team
+and the years of experience,
+
+
+1546
+0:57:24,532 --> 0:57:26,24
+neither of those are
+as predictive as how
+
+
+1547
+0:57:26,24 --> 0:57:28,69
+tight the team feels, so
+we know it's important.
+
+
+1548
+0:57:28,69 --> 0:57:31,33
+But then the last part, my
+favorite statistic right now,
+
+
+1549
+0:57:31,33 --> 0:57:34,72
+which is actually by a guy
+named Dr. House, which I think
+
+
+1550
+0:57:34,72 --> 0:57:39,16
+is hilarious, he found
+that the social connection
+
+
+1551
+0:57:39,16 --> 0:57:43,4
+is as predictive of how long
+you will live as obesity,
+
+
+1552
+0:57:43,4 --> 0:57:45,76
+high blood pressure, or smoking.
+
+
+1553
+0:57:45,76 --> 0:57:47,57
+We fight so hard
+against the negative,
+
+
+1554
+0:57:47,57 --> 0:57:50,27
+and we forget about how
+powerful two minutes
+
+
+1555
+0:57:50,27 --> 0:57:52,18
+of a positive
+interaction could be.
+
+
+1556
+0:57:52,18 --> 0:57:54,31
+So yeah, I feel the
+exact same thing,
+
+
+1557
+0:57:54,31 --> 0:57:56,84
+and I think it's how we
+perceive those relationships
+
+
+1558
+0:57:56,84 --> 0:57:58,781
+that, while they
+might be temporary,
+
+
+1559
+0:57:58,781 --> 0:58:1,3
+that doesn't take away the
+meaning involved with them,
+
+
+1560
+0:58:1,3 --> 0:58:3,52
+just as everything that
+is temporary in life
+
+
+1561
+0:58:3,52 --> 0:58:5,572
+is not destroyed of meaning.
+
+
+1562
+0:58:5,572 --> 0:58:6,78
+This is from Buddhism, right?
+
+
+1563
+0:58:6,78 --> 0:58:9,524
+
+
+
+1564
+0:58:9,524 --> 0:58:11,19
+While things are
+temporary, that doesn't
+
+
+1565
+0:58:11,19 --> 0:58:12,25
+mean that there's
+not meaningful.
+
+
+1566
+0:58:12,25 --> 0:58:14,208
+In fact, that can actually
+increase the meaning
+
+
+1567
+0:58:14,208 --> 0:58:17,194
+of those short times that
+we have with those people.
+
+
+1568
+0:58:17,194 --> 0:58:18,61
+CHADE-MENG TAN:
+We're out of time,
+
+
+1569
+0:58:18,61 --> 0:58:21,41
+so I just have one short
+last question for you, Shawn.
+
+
+1570
+0:58:21,41 --> 0:58:24,56
+What can we, Google, do for you?
+
+
+1571
+0:58:24,56 --> 0:58:25,45
+SHAWN ACHOR: Oh.
+
+
+1572
+0:58:25,45 --> 0:58:26,88
+You already did it for coming.
+
+
+1573
+0:58:26,88 --> 0:58:28,26
+Thank you so much for coming.
+
+
+1574
+0:58:28,26 --> 0:58:30,41
+I think the biggest
+thing is help us
+
+
+1575
+0:58:30,41 --> 0:58:32,28
+get this positive
+research out there more.
+
+
+1576
+0:58:32,28 --> 0:58:36,36
+Tal Ben-Shahar told me that he
+had an adviser who said that
+
+
+1577
+0:58:36,36 --> 0:58:39,83
+the average scientific journal
+article is only read by seven
+
+
+1578
+0:58:39,83 --> 0:58:40,67
+people total--
+
+
+1579
+0:58:40,67 --> 0:58:41,63
+[AUDIENCE LAUGHING]
+
+
+1580
+0:58:41,63 --> 0:58:42,44
+SHAWN ACHOR: --which
+is incredibly
+
+
+1581
+0:58:42,44 --> 0:58:44,773
+depressing for a researcher
+to hear, because I know that
+
+
+1582
+0:58:44,773 --> 0:58:46,32
+also includes my mom.
+
+
+1583
+0:58:46,32 --> 0:58:47,804
+[AUDIENCE LAUGHING]
+
+
+1584
+0:58:47,804 --> 0:58:49,22
+SHAWN ACHOR: So
+if there's any way
+
+
+1585
+0:58:49,22 --> 0:58:50,27
+you can share this research.
+
+
+1586
+0:58:50,27 --> 0:58:52,15
+I think the best way is
+to tell people about it.
+
+
+1587
+0:58:52,15 --> 0:58:53,92
+Tell people they're
+not just their genes
+
+
+1588
+0:58:53,92 --> 0:58:54,795
+or their environment.
+
+
+1589
+0:58:54,795 --> 0:58:56,71
+But really the best
+way is to show them.
+
+
+1590
+0:58:56,71 --> 0:58:58,36
+Pick up a positive habit.
+
+
+1591
+0:58:58,36 --> 0:59:0,66
+Get involved with
+one of these programs
+
+
+1592
+0:59:0,66 --> 0:59:2,649
+to create one of these
+positive changes.
+
+
+1593
+0:59:2,649 --> 0:59:4,44
+Because what we find
+is that it ripples out
+
+
+1594
+0:59:4,44 --> 0:59:7,16
+so much to effect other people.
+
+
+1595
+0:59:7,16 --> 0:59:7,98
+Real quick story.
+
+
+1596
+0:59:7,98 --> 0:59:11,769
+I was working with a CEO
+of a fast food company.
+
+
+1597
+0:59:11,769 --> 0:59:14,6
+He sold his company for
+hundreds of millions of dollars
+
+
+1598
+0:59:14,6 --> 0:59:15,14
+and had a breakdown.
+
+
+1599
+0:59:15,14 --> 0:59:16,59
+He made millions of dollars.
+
+
+1600
+0:59:16,59 --> 0:59:19,87
+But that night he went
+on track with his wife
+
+
+1601
+0:59:19,87 --> 0:59:22,787
+and start walking off some of
+the weight that he had gained
+
+
+1602
+0:59:22,787 --> 0:59:25,12
+and talking about things that
+he was grateful for, doing
+
+
+1603
+0:59:25,12 --> 0:59:25,953
+that positive habit.
+
+
+1604
+0:59:25,953 --> 0:59:28,292
+It was so helpful that they
+start doing it and telling
+
+
+1605
+0:59:28,292 --> 0:59:29,75
+their kids that
+they were doing it.
+
+
+1606
+0:59:29,75 --> 0:59:32,207
+And they got a call from one
+of their friend's parents
+
+
+1607
+0:59:32,207 --> 0:59:34,54
+who said, did you hear what
+happened at the summer party
+
+
+1608
+0:59:34,54 --> 0:59:35,51
+for your daughter?
+
+
+1609
+0:59:35,51 --> 0:59:36,635
+And they were like, oh, no.
+
+
+1610
+0:59:36,635 --> 0:59:38,11
+Was there drinking or boys?
+
+
+1611
+0:59:38,11 --> 0:59:42,426
+And they said, no, she got
+everyone in her friend group
+
+
+1612
+0:59:42,426 --> 0:59:44,5
+to sit around and
+talk about the things
+
+
+1613
+0:59:44,5 --> 0:59:46,425
+that they were grateful for
+that were going on at school.
+
+
+1614
+0:59:46,425 --> 0:59:48,91
+We can actually create a
+different social script
+
+
+1615
+0:59:48,91 --> 0:59:51,234
+for the world where people
+don't wait for happiness off
+
+
+1616
+0:59:51,234 --> 0:59:53,15
+in the future but actually
+are creating it now
+
+
+1617
+0:59:53,15 --> 0:59:55,32
+and actually are
+tipping this world away
+
+
+1618
+0:59:55,32 --> 0:59:57,38
+from negativity and
+stress to a world that
+
+
+1619
+0:59:57,38 --> 1:0:0,4
+believes this behavior matters
+and can see ways of changing
+
+
+1620
+1:0:0,4 --> 1:0:2,91
+this reality into a better
+reality for all of us,
+
+
+1621
+1:0:2,91 --> 1:0:4,7
+which is why I get excited.
+
+
+1622
+1:0:4,7 --> 1:0:4,42
+CHADE-MENG TAN: Thank you.
+
+
+1623
+1:0:4,42 --> 1:0:4,83
+SHAWN ACHOR: So thank you.
+
+
+1624
+1:0:4,83 --> 1:0:5,68
+Thank you so much.
+
+
+1625
+1:0:5,68 --> 1:0:6,763
+CHADE-MENG TAN: Thank you.
+
+
+1626
+1:0:6,763 --> 1:0:7,78
+[AUDIENCE APPLAUDING]
+
+
+1627
+1:0:7,78 --> 1:0:9,576
+CHADE-MENG TAN: Thank you.
+
+
+1628
+1:0:9,576 --> 1:2:9,576
+
+
+

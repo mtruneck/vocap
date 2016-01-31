@@ -1,0 +1,4223 @@
+1
+0:0:2,167 --> 0:0:6,5
+Jay Keasling: We are in a race.
+the race is against time.
+
+
+2
+0:0:6,5 --> 0:0:8,667
+We have to build
+cities, we need them.
+
+
+3
+0:0:8,667 --> 0:0:11,625
+But we have to make
+them in a different way.
+
+
+4
+0:0:11,625 --> 0:0:13,583
+Dan Kammen: We need a
+wave of innovation,
+
+
+5
+0:0:13,583 --> 0:0:16,958
+not only for our way of life,
+but also for the planet.
+
+
+6
+0:0:16,958 --> 0:0:19,583
+The consequences would
+be enormous if we lose
+
+
+7
+0:0:19,583 --> 0:0:45,417
+this battle.
+
+
+8
+0:0:45,417 --> 0:0:47,583
+Thomas Goetz: I'm Thomas Goetz,
+executive editor at Wired
+
+
+9
+0:0:47,583 --> 0:0:49,792
+Magazine. At wired, we look
+
+
+10
+0:0:49,792 --> 0:0:52,83
+at the innovators and
+innovations that are changing
+
+
+11
+0:0:52,83 --> 0:0:54,0
+our world. In the next
+
+
+12
+0:0:54,0 --> 0:0:56,625
+hour, we'll see three stories
+from acclaimed filmmakers about
+
+
+13
+0:0:56,625 --> 0:0:58,75
+the future of energy.
+
+
+14
+0:0:58,75 --> 0:1:1,667
+We'll explore cutting edge
+innovations in how we drive,
+
+
+15
+0:1:1,667 --> 0:1:3,25
+how we live,
+
+
+16
+0:1:3,25 --> 0:1:6,458
+and, in our first story,
+how we fuel our cars.
+
+
+17
+0:1:6,458 --> 0:1:8,208
+They're all ideas
+that promise to
+
+
+18
+0:1:8,208 --> 0:1:15,583
+shape the path to
+the world of 2050.
+
+
+19
+0:1:15,583 --> 0:1:23,958
+[♪...]
+
+
+20
+0:1:23,958 --> 0:1:27,167
+The world has right now,
+close to a billion cars,
+
+
+21
+0:1:27,167 --> 0:1:28,708
+and we might double the
+
+
+22
+0:1:28,708 --> 0:1:31,42
+number of cars on
+the planet by 2050.
+
+
+23
+0:1:31,42 --> 0:1:32,792
+So if we double the number of
+
+
+24
+0:1:32,792 --> 0:1:36,5
+vehicles, we really increase the
+amount of fuel they consume, and
+
+
+25
+0:1:36,5 --> 0:1:40,83
+that's going to have a big, big
+footprint in terms of our demand
+
+
+26
+0:1:40,83 --> 0:1:42,917
+for resources to move all
+those vehicles around.
+
+
+27
+0:1:42,917 --> 0:1:44,625
+Kay Keasling: We're pulling
+up carbon that's been stored
+
+
+28
+0:1:44,625 --> 0:1:46,625
+underground and
+burning it in our
+
+
+29
+0:1:46,625 --> 0:1:48,667
+automobiles and putting all
+that carbon dioxide into the
+
+
+30
+0:1:48,667 --> 0:1:50,708
+atmosphere.
+
+
+31
+0:1:50,708 --> 0:1:53,5
+If we don't reduce that, we
+could have changes in the
+
+
+32
+0:1:53,5 --> 0:1:57,75
+climate that we could
+never recover from.
+
+
+33
+0:1:57,75 --> 0:2:1,333
+There's a number of forecasts
+for what type of transportation
+
+
+34
+0:2:1,333 --> 0:2:3,5
+economy we could move into.
+
+
+35
+0:2:3,5 --> 0:2:7,125
+One vision is that we would use
+more and more liquid fuels,
+
+
+36
+0:2:7,125 --> 0:2:9,417
+another one is we'll use
+more and more electricity.
+
+
+37
+0:2:9,417 --> 0:2:11,417
+Right now, more of the
+
+
+38
+0:2:11,417 --> 0:2:16,167
+industrial activity is
+focused around liquid biofuels.
+
+
+39
+0:2:16,167 --> 0:2:19,917
+The thing about a fuel is, its
+really unparalleled on a weight
+
+
+40
+0:2:19,917 --> 0:2:24,5
+basis how much energy
+is in a gallon of fuel.
+
+
+41
+0:2:24,5 --> 0:2:27,25
+And even if batteries
+develop as some of the
+
+
+42
+0:2:27,25 --> 0:2:30,542
+advocates hope they develop,
+we're not going to see batteries
+
+
+43
+0:2:30,542 --> 0:2:33,125
+running large trucks
+and we're certainly not
+
+
+44
+0:2:33,125 --> 0:2:36,875
+going to see an
+electrified air flight.
+
+
+45
+0:2:36,875 --> 0:2:39,42
+We're going to need
+transportation fuels for
+
+
+46
+0:2:39,42 --> 0:2:41,583
+those that will directly
+replace the petroleum based
+
+
+47
+0:2:41,583 --> 0:2:44,375
+fuels that we're using today.
+
+
+48
+0:2:44,375 --> 0:2:46,875
+This has kicked off people
+looking at a whole range of
+
+
+49
+0:2:46,875 --> 0:2:54,292
+other alternatives to
+petroleum in your tank.
+
+
+50
+0:2:54,292 --> 0:2:56,75
+Isaias Macedo: Commercial
+production of ethanol as fuel
+
+
+51
+0:2:56,75 --> 0:2:59,625
+started in Brazil
+in 1975. When we
+
+
+52
+0:2:59,625 --> 0:3:4,0
+started the ethanol program,
+nobody talked about reducing
+
+
+53
+0:3:4,0 --> 0:3:7,208
+emissions. This was
+not an issue at that time.
+
+
+54
+0:3:7,208 --> 0:3:10,708
+First, and most important,
+we didn't have money
+
+
+55
+0:3:10,708 --> 0:3:13,667
+to buy oil anymore after
+the first oil short.
+
+
+56
+0:3:13,667 --> 0:3:16,125
+We were importers of oil.
+
+
+57
+0:3:16,125 --> 0:3:21,42
+And today, more than 50%
+of all cars use ethanol
+
+
+58
+0:3:21,42 --> 0:3:23,167
+instead of gasoline.
+
+
+59
+0:3:23,167 --> 0:3:25,458
+Brazil made a very conscious
+choice to try to find a way to
+
+
+60
+0:3:25,458 --> 0:3:27,625
+reduce their fossil
+fuel dependence.
+
+
+61
+0:3:27,625 --> 0:3:30,583
+And they didn't have to look
+very far because Brazil's
+
+
+62
+0:3:30,583 --> 0:3:35,333
+climate is ideal
+for growing sugar cane.
+
+
+63
+0:3:35,333 --> 0:3:37,958
+Carlos Dinucci: when you
+have sugar cane plantation,
+
+
+64
+0:3:37,958 --> 0:3:41,708
+you have only two
+things to make:
+
+
+65
+0:3:41,708 --> 0:3:44,667
+sugar and ethanol.
+
+
+66
+0:3:44,667 --> 0:3:49,417
+My family has been in the
+sugarcane business since 1955
+
+
+67
+0:3:49,417 --> 0:3:52,792
+and about thirty
+years ago, I thought
+
+
+68
+0:3:52,792 --> 0:3:56,542
+"there's an opportunity
+to make more ethanol."
+
+
+69
+0:3:56,542 --> 0:4:4,583
+Now, we're producing 120,000
+cubic meters of ethanol.
+
+
+70
+0:4:4,583 --> 0:4:8,792
+Brazil today has very
+close to 400 sugar mills.
+
+
+71
+0:4:8,792 --> 0:4:12,958
+The overall sales
+is 30 billion us dollars.
+
+
+72
+0:4:12,958 --> 0:4:18,375
+And this number is increasing.
+
+
+73
+0:4:18,375 --> 0:4:21,375
+If you look at how they make
+ethanol and how efficient the
+
+
+74
+0:4:21,375 --> 0:4:25,583
+process is, it's
+really a model for all of us.
+
+
+75
+0:4:25,583 --> 0:4:28,833
+They grind the plant up,
+extract the sugar from the
+
+
+76
+0:4:28,833 --> 0:4:33,625
+cane, the sugar goes into these
+large fermentation tanks which
+
+
+77
+0:4:33,625 --> 0:4:36,833
+combine sugars together with
+yeast that naturally produces
+
+
+78
+0:4:36,833 --> 0:4:39,25
+ethanol. They use the rest
+
+
+79
+0:4:39,25 --> 0:4:42,417
+of the plant to generate heat
+to distill the ethanol
+
+
+80
+0:4:42,417 --> 0:4:45,917
+and turn it into fuel.
+
+
+81
+0:4:45,917 --> 0:4:49,75
+They also use that heat to
+generate electricity renewably,
+
+
+82
+0:4:49,75 --> 0:4:53,958
+not putting excess carbon
+dioxide into the atmosphere.
+
+
+83
+0:4:53,958 --> 0:4:57,167
+Brazil has gotten to a point
+today where they're using about
+
+
+84
+0:4:57,167 --> 0:5:2,375
+40% less petroleum than they
+would be otherwise, but Brazil
+
+
+85
+0:5:2,375 --> 0:5:5,167
+cannot supply the whole world
+with ethanol because they
+
+
+86
+0:5:5,167 --> 0:5:7,167
+would have to cut very
+strongly into food
+
+
+87
+0:5:7,167 --> 0:5:10,333
+production and into critical
+natural areas like the Amazon to
+
+
+88
+0:5:10,333 --> 0:5:13,0
+make that happen.
+
+
+89
+0:5:13,0 --> 0:5:15,375
+This really boils down to the
+fact that there's only so much
+
+
+90
+0:5:15,375 --> 0:5:20,167
+arable land, and growing fuel
+for our gas tanks is yet another
+
+
+91
+0:5:20,167 --> 0:5:23,708
+demand on that landscape.
+
+
+92
+0:5:23,708 --> 0:5:26,375
+We cannot kid ourselves into
+thinking that we've found a
+
+
+93
+0:5:26,375 --> 0:5:28,625
+general solution for
+the world problem.
+
+
+94
+0:5:28,625 --> 0:5:31,875
+I think we have to face the
+world in this way today.
+
+
+95
+0:5:31,875 --> 0:5:37,417
+We have no oil in very
+large quantities anymore.
+
+
+96
+0:5:37,417 --> 0:5:41,208
+We have no coal transforming in
+a clean way, in the meantime we
+
+
+97
+0:5:41,208 --> 0:5:44,708
+have to do the best we
+can, and the best at
+
+
+98
+0:5:44,708 --> 0:5:47,833
+the moment is that
+we can do biofuels.
+
+
+99
+0:5:47,833 --> 0:5:51,583
+Sugarcane to ethanol is an
+incredibly efficient process.
+
+
+100
+0:5:51,583 --> 0:5:54,375
+You get out about
+seven times the energy you put
+
+
+101
+0:5:54,375 --> 0:5:58,125
+into growing the sugar cane.
+In the US when we produce
+
+
+102
+0:5:58,125 --> 0:6:4,292
+ethanol from corn, for every
+unit of input of energy we get
+
+
+103
+0:6:4,292 --> 0:6:7,42
+about the same amount
+of energy out.
+
+
+104
+0:6:7,42 --> 0:6:9,917
+So we're really
+not gaining anything.
+
+
+105
+0:6:9,917 --> 0:6:11,833
+We need a better process.
+
+
+106
+0:6:11,833 --> 0:6:13,625
+We don't have to take what
+nature's given us, we can
+
+
+107
+0:6:13,625 --> 0:6:18,0
+actually engineer plants and
+yeast to be more efficient.
+
+
+108
+0:6:18,0 --> 0:6:19,542
+And that's the basis
+
+
+109
+0:6:19,542 --> 0:6:22,208
+for a lot of the work
+that we're doing now.
+
+
+110
+0:6:22,208 --> 0:6:26,25
+What we need to look at though,
+is which of the pathways to come
+
+
+111
+0:6:26,25 --> 0:6:28,833
+out of this are not
+only good financially,
+
+
+112
+0:6:28,833 --> 0:6:31,458
+but those that are also
+good for sustainability.
+
+
+113
+0:6:31,458 --> 0:6:37,583
+And this equation is
+really wide open right now.
+
+
+114
+0:6:37,583 --> 0:6:40,75
+We are in a race
+to develop fuels.
+
+
+115
+0:6:40,75 --> 0:6:43,333
+The race isn't with
+other countries, the race
+
+
+116
+0:6:43,333 --> 0:6:53,0
+is against time.
+
+
+117
+0:6:53,0 --> 0:6:55,625
+Cristiano Borges: To meet the
+immediate and future demands, we
+
+
+118
+0:6:55,625 --> 0:7:4,83
+made the energy solution
+spring from the ground.
+
+
+119
+0:7:4,83 --> 0:7:6,625
+Luis Scoffone: Brazil is the
+most efficient ethanol producing
+
+
+120
+0:7:6,625 --> 0:7:9,83
+country in the world. Sugarcane
+
+
+121
+0:7:9,83 --> 0:7:14,0
+alcohol from Brazil can reduce
+the total carbon footprint by up
+
+
+122
+0:7:14,0 --> 0:7:23,958
+to 70%, compared with gasoline.
+
+
+123
+0:7:23,958 --> 0:7:27,417
+The biggest challenge for fuel
+providers, and car manufacturers
+
+
+124
+0:7:27,417 --> 0:7:32,792
+is to reduce CO2 emissions
+over the next twenty years.
+
+
+125
+0:7:32,792 --> 0:7:36,125
+Demand for mobility
+will continue to grow.
+
+
+126
+0:7:36,125 --> 0:7:38,917
+We believe that
+biofuels are very
+
+
+127
+0:7:38,917 --> 0:7:42,875
+important because they
+help in an immediate way.
+
+
+128
+0:7:42,875 --> 0:7:46,333
+All forms of fuel are going
+to be needed; hydrocarbons,
+
+
+129
+0:7:46,333 --> 0:7:49,375
+natural gas, biofuels,
+all of them are going to
+
+
+130
+0:7:49,375 --> 0:8:10,583
+be part of the energy needs for
+the future of transportation.
+
+
+131
+0:8:10,583 --> 0:8:13,917
+Brazil has been very successful
+at taking a resource they had
+
+
+132
+0:8:13,917 --> 0:8:17,208
+and finding the process
+to make that into
+
+
+133
+0:8:17,208 --> 0:8:20,125
+ethanol and people call
+those first generation
+
+
+134
+0:8:20,125 --> 0:8:23,625
+biofuels. We have lots
+of lab work around
+
+
+135
+0:8:23,625 --> 0:8:25,625
+the world that
+are looking at the
+
+
+136
+0:8:25,625 --> 0:8:27,833
+second generation and that's
+generally turning cellulosic
+
+
+137
+0:8:27,833 --> 0:8:32,75
+material from for example
+weeds, into biofuels.
+
+
+138
+0:8:32,75 --> 0:8:35,83
+And the United States
+is very much at the
+
+
+139
+0:8:35,83 --> 0:8:42,583
+forefront of the innovation
+part of the equation.
+
+
+140
+0:8:42,583 --> 0:8:46,708
+For centuries we've been using
+yeast to consume glucose and
+
+
+141
+0:8:46,708 --> 0:8:49,25
+produce wine and beer.
+
+
+142
+0:8:49,25 --> 0:8:52,42
+We're trying to do something
+very similar, only we're
+
+
+143
+0:8:52,42 --> 0:8:55,208
+engineering the yeast
+to consume that glucose
+
+
+144
+0:8:55,208 --> 0:8:59,417
+and turn it into a fuel
+or drug or chemical.
+
+
+145
+0:8:59,417 --> 0:9:3,208
+We call this synthetic biology
+and when i started in this area,
+
+
+146
+0:9:3,208 --> 0:9:4,917
+many of my colleagues
+said "Oh Jay, this is
+
+
+147
+0:9:4,917 --> 0:9:7,25
+great work, but where's
+the application, what
+
+
+148
+0:9:7,25 --> 0:9:11,833
+are you going to do with
+these tools?" Who cares?
+
+
+149
+0:9:11,833 --> 0:9:14,125
+Malaria is an enormous problem.
+
+
+150
+0:9:14,125 --> 0:9:17,125
+In any one year,
+a million or so people die of
+
+
+151
+0:9:17,125 --> 0:9:20,42
+the disease and most of them
+are children under the age of 5.
+
+
+152
+0:9:20,42 --> 0:9:24,42
+So we thought this was a great
+opportunity to engineer yeast to
+
+
+153
+0:9:24,42 --> 0:9:28,25
+produce an antimalarial
+drug called artemisinin.
+
+
+154
+0:9:28,25 --> 0:9:31,25
+This drug is derived
+from plants right
+
+
+155
+0:9:31,25 --> 0:9:34,292
+now, but its too expensive for
+people in the developing world.
+
+
+156
+0:9:34,292 --> 0:9:37,792
+So my laboratory engineered
+yeast to produce small
+
+
+157
+0:9:37,792 --> 0:9:42,542
+quantities of artemisinin, now
+that process is being scaled up
+
+
+158
+0:9:42,542 --> 0:9:44,458
+and we'll have this drug
+on the market shortly,
+
+
+159
+0:9:44,458 --> 0:9:48,125
+but at a substantially
+reduced cost.
+
+
+160
+0:9:48,125 --> 0:9:50,292
+It turns out that that
+anti-malarial drug is a
+
+
+161
+0:9:50,292 --> 0:9:53,167
+hydrocarbon and it's
+very similar in
+
+
+162
+0:9:53,167 --> 0:9:56,917
+many ways to diesel fuel.
+
+
+163
+0:9:56,917 --> 0:9:59,167
+We thought, gosh we can
+turn our attention now to
+
+
+164
+0:9:59,167 --> 0:10:2,625
+fuels. We can make a few changes
+in that microbe to turn it into
+
+
+165
+0:10:2,625 --> 0:10:6,42
+a fuel-producing microbe.
+
+
+166
+0:10:6,42 --> 0:10:10,0
+If we imagine that glucose is
+going to be our new petroleum,
+
+
+167
+0:10:10,0 --> 0:10:12,42
+we need a source
+for that glucose.
+
+
+168
+0:10:12,42 --> 0:10:14,625
+So the crops that we're
+looking at are crops like
+
+
+169
+0:10:14,625 --> 0:10:16,708
+switchgrass.
+
+
+170
+0:10:16,708 --> 0:10:19,333
+This is a native grass, it grows
+without a lot of water and on
+
+
+171
+0:10:19,333 --> 0:10:24,125
+marginal lands. we could
+turn it into energy farms.
+
+
+172
+0:10:24,125 --> 0:10:27,42
+The challenge though, is
+that unlike sugar cane, it's
+
+
+173
+0:10:27,42 --> 0:10:30,583
+very difficult to get the
+sugar out of that biomass.
+
+
+174
+0:10:30,583 --> 0:10:34,25
+So we use what we call a
+pre-treatment process to extract
+
+
+175
+0:10:34,25 --> 0:10:36,5
+the glucose from the plant,
+and then we feed that
+
+
+176
+0:10:36,5 --> 0:10:39,75
+glucose to a yeast
+that we've engineered to
+
+
+177
+0:10:39,75 --> 0:10:41,625
+produce hydrocarbons.
+
+
+178
+0:10:41,625 --> 0:10:44,792
+And that yeast takes in the
+sugar, and it changes its
+
+
+179
+0:10:44,792 --> 0:10:50,542
+composition and gives us
+this high-energy molecule.
+
+
+180
+0:10:50,542 --> 0:10:52,375
+They float to the top,
+you skim them off,
+
+
+181
+0:10:52,375 --> 0:10:59,833
+you put them in your tank.
+
+
+182
+0:10:59,833 --> 0:11:3,833
+But it takes a lot of work to
+get from that small test tube
+
+
+183
+0:11:3,833 --> 0:11:5,542
+all the way up into
+
+
+184
+0:11:5,542 --> 0:11:7,542
+the million-gallon tank,
+so we have to give it time.
+
+
+185
+0:11:7,542 --> 0:11:9,625
+But I think that some of the
+discoveries that are happening
+
+
+186
+0:11:9,625 --> 0:11:17,42
+might be applied by
+the end of the decade.
+
+
+187
+0:11:17,42 --> 0:11:19,875
+In terms of a sustainable
+equation for the planet, the
+
+
+188
+0:11:19,875 --> 0:11:23,833
+role of biofuels
+is quite tricky.
+
+
+189
+0:11:23,833 --> 0:11:27,125
+There are a variety of crops
+that do not compete directly
+
+
+190
+0:11:27,125 --> 0:11:30,75
+with food, and finding
+ways to utilize those
+
+
+191
+0:11:30,75 --> 0:11:33,625
+types of crops first,
+that's very attractive.
+
+
+192
+0:11:33,625 --> 0:11:36,458
+So solving the science is
+part of the story, but then
+
+
+193
+0:11:36,458 --> 0:11:40,583
+evaluating all of the new
+fuels in terms of the land-use
+
+
+194
+0:11:40,583 --> 0:11:44,125
+impacts that they could
+have, that is an even
+
+
+195
+0:11:44,125 --> 0:11:47,875
+harder story than
+doing the good science.
+
+
+196
+0:11:47,875 --> 0:11:51,417
+Imagine that you could have one
+process that could take in
+
+
+197
+0:11:51,417 --> 0:11:55,375
+sunlight and carbon dioxide
+and turn it into fuel.
+
+
+198
+0:11:55,375 --> 0:11:57,375
+And imagine if that
+didn't involve growing
+
+
+199
+0:11:57,375 --> 0:12:2,167
+anything at all.
+
+
+200
+0:12:2,167 --> 0:12:4,458
+Nate Lewis: The synthetic
+biologists are trying to take
+
+
+201
+0:12:4,458 --> 0:12:9,958
+plants and make them do things
+that they wouldn't normally do.
+
+
+202
+0:12:9,958 --> 0:12:12,167
+On the other hand,
+materials chemists, like
+
+
+203
+0:12:12,167 --> 0:12:17,333
+myself, want to do artificial
+photosynthesis to improve on the
+
+
+204
+0:12:17,333 --> 0:12:33,75
+process that nature does
+in real photosynthesis.
+
+
+205
+0:12:33,75 --> 0:12:36,792
+We should follow the blue print
+of plants converting sunlight
+
+
+206
+0:12:36,792 --> 0:12:43,333
+into fuel, but take the approach
+that it could be much simpler.
+
+
+207
+0:12:43,333 --> 0:12:45,0
+All we really need
+is a light absorber
+
+
+208
+0:12:45,0 --> 0:12:46,667
+that absorbs sunlight.
+
+
+209
+0:12:46,667 --> 0:12:51,83
+We also need a catalyst
+like iron or nickel.
+
+
+210
+0:12:51,83 --> 0:12:53,958
+So when you see the hydrogen
+coming off of the photo-active
+
+
+211
+0:12:53,958 --> 0:12:58,125
+material, that's an
+example of a semi-conductor
+
+
+212
+0:12:58,125 --> 0:13:1,83
+breaking the chemical
+bonds of water to make
+
+
+213
+0:13:1,83 --> 0:13:2,917
+hydrogen and oxygen.
+
+
+214
+0:13:2,917 --> 0:13:6,167
+Ultimately, our pieces are
+going to be contained in
+
+
+215
+0:13:6,167 --> 0:13:10,417
+something that is easy to
+roll out like bubble wrap,
+
+
+216
+0:13:10,417 --> 0:13:13,25
+where in would come
+sunlight and water.
+
+
+217
+0:13:13,25 --> 0:13:16,42
+You would vent the oxygen
+to the air, but the bottom
+
+
+218
+0:13:16,42 --> 0:13:19,792
+would wick out your liquid or
+gaseous fuel, that then you
+
+
+219
+0:13:19,792 --> 0:13:35,458
+could collect and use for our
+cars and planes and storage.
+
+
+220
+0:13:35,458 --> 0:13:39,542
+Our goal is within two years,
+to have the first artificial
+
+
+221
+0:13:39,542 --> 0:13:42,833
+photosynthesis solarfuels
+generator that we can hold in
+
+
+222
+0:13:42,833 --> 0:13:49,333
+our hands. and then, get
+to scale beyond that time.
+
+
+223
+0:13:49,333 --> 0:13:51,708
+We're certainly not good at
+predicting the future, but to
+
+
+224
+0:13:51,708 --> 0:13:54,875
+me, electric vehicles look
+like a sustainable option.
+
+
+225
+0:13:54,875 --> 0:13:56,958
+We've heard proposals
+about things as
+
+
+226
+0:13:56,958 --> 0:14:0,125
+far-fetched as nuclear power
+planes, and even some proposals
+
+
+227
+0:14:0,125 --> 0:14:2,958
+to move freight around with
+lighter-than-air vehicles.
+
+
+228
+0:14:2,958 --> 0:14:5,875
+And so if the
+future in 2050 does
+
+
+229
+0:14:5,875 --> 0:14:8,417
+include a fair amount of oil,
+what it means would be that we
+
+
+230
+0:14:8,417 --> 0:14:11,375
+haven't deployed
+as many of these clean
+
+
+231
+0:14:11,375 --> 0:14:16,292
+technologies as we already
+know are possible.
+
+
+232
+0:14:16,292 --> 0:14:19,583
+If you think about how long it's
+taken for us to build up the
+
+
+233
+0:14:19,583 --> 0:14:23,792
+petroleum industry, we can't
+hope to reverse that overnight.
+
+
+234
+0:14:23,792 --> 0:14:26,417
+It's a huge change in
+our infrastructure.
+
+
+235
+0:14:26,417 --> 0:14:29,42
+Yes, we should have been
+working on it 30 years ago.
+
+
+236
+0:14:29,42 --> 0:14:31,0
+We didn't.
+
+
+237
+0:14:31,0 --> 0:14:32,917
+We're trying to make up for
+that, and that means basic
+
+
+238
+0:14:32,917 --> 0:14:35,958
+research needs to be done now
+and by as many people as
+
+
+239
+0:14:35,958 --> 0:14:38,667
+possible. We have a long way to
+
+
+240
+0:14:38,667 --> 0:14:48,708
+go, but I'm confident
+that we'll get there.
+
+
+241
+0:14:48,708 --> 0:14:52,417
+In the future, 3d maps are going
+to help people get places more
+
+
+242
+0:14:52,417 --> 0:15:1,583
+efficiently.
+
+
+243
+0:15:1,583 --> 0:15:4,83
+As we just saw, the race to
+produce cleaner energy is
+
+
+244
+0:15:4,83 --> 0:15:5,75
+charging ahead. In the
+
+
+245
+0:15:5,75 --> 0:15:8,375
+meantime, demand for
+cars continues to climb.
+
+
+246
+0:15:8,375 --> 0:15:10,208
+By 2050, it's predicted there
+
+
+247
+0:15:10,208 --> 0:15:12,25
+will be two billion
+cars on the planet,
+
+
+248
+0:15:12,25 --> 0:15:14,542
+and fuel consumption
+will have tripled.
+
+
+249
+0:15:14,542 --> 0:15:16,417
+To keep pace, we'll
+have to radically
+
+
+250
+0:15:16,417 --> 0:15:18,42
+change the way we drive.
+
+
+251
+0:15:18,42 --> 0:15:26,958
+Here's our next story,
+'Driven by design.'
+
+
+252
+0:15:26,958 --> 0:15:28,5
+Asaaf Biderman: The
+automobile came around,
+
+
+253
+0:15:28,5 --> 0:15:30,458
+in many ways it was the future.
+
+
+254
+0:15:30,458 --> 0:15:32,958
+We thought of it as one of the
+more positive changes that had
+
+
+255
+0:15:32,958 --> 0:15:35,625
+happened to society.
+Suddenly, our ability to get a
+
+
+256
+0:15:35,625 --> 0:15:38,5
+job changed, we can
+live farther away with
+
+
+257
+0:15:38,5 --> 0:15:41,333
+bigger plots of land, with
+better quality of living.
+
+
+258
+0:15:41,333 --> 0:15:44,208
+It all looked quite good.
+
+
+259
+0:15:44,208 --> 0:15:48,333
+But there are limitations
+to swearing by the car.
+
+
+260
+0:15:48,333 --> 0:15:50,25
+If it gets congested,
+your quality of
+
+
+261
+0:15:50,25 --> 0:15:52,125
+life drops immediately.
+
+
+262
+0:15:52,125 --> 0:15:54,375
+You have to spend
+so long in the car.
+
+
+263
+0:15:54,375 --> 0:15:57,208
+It's a very inefficient
+use of fuel consumption.
+
+
+264
+0:15:57,208 --> 0:15:59,333
+Things stop making
+sense all of a sudden.
+
+
+265
+0:15:59,333 --> 0:16:1,208
+It doesn't bring you closer
+to where you want to get, it
+
+
+266
+0:16:1,208 --> 0:16:4,5
+actually, sometimes
+brings you farther.
+
+
+267
+0:16:4,5 --> 0:16:7,583
+Narrator: The average American
+spends nearly 300 hours a year
+
+
+268
+0:16:7,583 --> 0:16:9,375
+in their car.
+
+
+269
+0:16:9,375 --> 0:16:12,167
+38 of them stuck in traffic.
+
+
+270
+0:16:12,167 --> 0:16:15,875
+Annually, congestion
+consumes over $1 billion in
+
+
+271
+0:16:15,875 --> 0:16:19,25
+gasoline in the
+United States alone.
+
+
+272
+0:16:19,25 --> 0:16:21,458
+The inefficiency
+caused by traffic, both
+
+
+273
+0:16:21,458 --> 0:16:28,125
+financial and
+personal, is enormous.
+
+
+274
+0:16:28,125 --> 0:16:30,208
+Dirk Sheehan and
+Carmen White's story
+
+
+275
+0:16:30,208 --> 0:16:33,625
+is not that unusual today.
+
+
+276
+0:16:33,625 --> 0:16:36,375
+Carmen White: Dirk works an hour
+and a half away in Warrenville,
+
+
+277
+0:16:36,375 --> 0:16:38,458
+Illinois. Generally he wouldn't
+
+
+278
+0:16:38,458 --> 0:16:42,667
+leave work until 6 or 6:30 and I
+would say usual time for him to
+
+
+279
+0:16:42,667 --> 0:16:45,5
+get home is around 8.
+
+
+280
+0:16:45,5 --> 0:16:46,958
+You all done?
+
+
+281
+0:16:46,958 --> 0:16:48,792
+Thanks, buddy.
+
+
+282
+0:16:48,792 --> 0:16:50,542
+Dirk Sheehan: Usually when I
+wake up I'm the only one up.
+
+
+283
+0:16:50,542 --> 0:16:53,292
+Sometimes the kids wake
+up with my routine.
+
+
+284
+0:16:53,292 --> 0:16:57,5
+More often than not, I don't
+see them in the morning.
+
+
+285
+0:16:57,5 --> 0:17:0,0
+I think about my commute
+when I wake up.
+
+
+286
+0:17:0,0 --> 0:17:3,333
+I check the traffic report to
+see if there's any delays.
+
+
+287
+0:17:3,333 --> 0:17:5,0
+The worst case
+scenario, it takes me
+
+
+288
+0:17:5,0 --> 0:17:7,208
+two hours to get to work.
+
+
+289
+0:17:7,208 --> 0:17:10,458
+We are already so limited in the
+amount of time he can spend with
+
+
+290
+0:17:10,458 --> 0:17:15,792
+the kids, and our
+expenses are crazy high.
+
+
+291
+0:17:15,792 --> 0:17:18,25
+We're spending $400
+a month on gas.
+
+
+292
+0:17:18,25 --> 0:17:21,167
+It takes away from our food
+budget, and we never paid for
+
+
+293
+0:17:21,167 --> 0:17:24,333
+gas like that before. Ever.
+
+
+294
+0:17:24,333 --> 0:17:26,625
+If there's technology that would
+allow me to spend less time in
+
+
+295
+0:17:26,625 --> 0:17:29,542
+the car, spend less
+money on gas, and spend
+
+
+296
+0:17:29,542 --> 0:17:36,583
+more time at home,
+I'd be all for that.
+
+
+297
+0:17:36,583 --> 0:17:38,708
+Mike Finn: The cost of traffic
+is people's time, it's fuel
+
+
+298
+0:17:38,708 --> 0:17:43,0
+wasted, it's an emotional
+toll, it's a frustration.
+
+
+299
+0:17:43,0 --> 0:17:46,0
+Utilizing the roads
+more intelligently is a much
+
+
+300
+0:17:46,0 --> 0:17:49,458
+more efficient approach to
+the inability to have
+
+
+301
+0:17:49,458 --> 0:17:54,292
+supply keep up
+with traffic demand.
+
+
+302
+0:17:54,292 --> 0:17:55,917
+John Leonard: If you took a
+satellite picture of the
+
+
+303
+0:17:55,917 --> 0:17:58,83
+highway, you can see that
+
+
+304
+0:17:58,83 --> 0:18:0,167
+there's actually
+a lot of open space.
+
+
+305
+0:18:0,167 --> 0:18:3,542
+If we had the technology for
+cars to drive more closely,
+
+
+306
+0:18:3,542 --> 0:18:6,25
+but safely, then you could
+increase the utilization of the
+
+
+307
+0:18:6,25 --> 0:18:8,375
+road network.
+
+
+308
+0:18:8,375 --> 0:18:11,25
+What this means is that to be
+more efficient, to use less
+
+
+309
+0:18:11,25 --> 0:18:15,417
+fuel, we need to see
+the road differently.
+
+
+310
+0:18:15,417 --> 0:18:17,625
+We need cars that can
+navigate through the urban
+
+
+311
+0:18:17,625 --> 0:18:25,167
+landscape in a
+radically different way.
+
+
+312
+0:18:25,167 --> 0:18:27,625
+Cliff Fox: Maps in the future
+are going to be able to help
+
+
+313
+0:18:27,625 --> 0:18:31,833
+people get places either more
+safely or more efficiently.
+
+
+314
+0:18:31,833 --> 0:18:35,375
+Today, just helps you get
+from point A to point B.
+
+
+315
+0:18:35,375 --> 0:18:38,708
+But, what if I want to get
+someplace and use the least
+
+
+316
+0:18:38,708 --> 0:18:40,542
+amount of fuel possible?
+
+
+317
+0:18:40,542 --> 0:18:43,83
+Or, if I've got a hybrid
+vehicle, and I want to make sure
+
+
+318
+0:18:43,83 --> 0:18:44,958
+I've got plenty of
+charge to not only get
+
+
+319
+0:18:44,958 --> 0:18:47,167
+there but to get back home?
+
+
+320
+0:18:47,167 --> 0:18:49,125
+So, information
+that is gonna help people
+
+
+321
+0:18:49,125 --> 0:18:52,333
+achieve the more efficient
+or the safer route is
+
+
+322
+0:18:52,333 --> 0:18:55,75
+more detailed information about
+the road than a lot of people
+
+
+323
+0:18:55,75 --> 0:18:59,125
+realize is possible
+to collect today.
+
+
+324
+0:18:59,125 --> 0:19:2,292
+Here in Chicago, Nokia's
+location & commerce unit is
+
+
+325
+0:19:2,292 --> 0:19:5,708
+developing the next
+generation of mapping.
+
+
+326
+0:19:5,708 --> 0:19:9,958
+Lidar, sonar, 360-degree video,
+
+
+327
+0:19:9,958 --> 0:19:15,417
+all are components of what Nokia
+calls - digital mapping.
+
+
+328
+0:19:15,417 --> 0:19:20,125
+We use 64 lasers that rotate and
+they collect data in a 3D way
+
+
+329
+0:19:20,125 --> 0:19:22,5
+about the world.
+
+
+330
+0:19:22,5 --> 0:19:25,292
+It creates what we call a
+point cloud of information.
+
+
+331
+0:19:25,292 --> 0:19:28,125
+That point cloud
+allows us to measure distances
+
+
+332
+0:19:28,125 --> 0:19:31,333
+then between the points
+that we collect.
+
+
+333
+0:19:31,333 --> 0:19:35,625
+That system combined with the
+cameras, with higher precision
+
+
+334
+0:19:35,625 --> 0:19:38,167
+location detection
+through inertial measurement
+
+
+335
+0:19:38,167 --> 0:19:40,75
+units, that whole data
+system allows us to
+
+
+336
+0:19:40,75 --> 0:19:44,583
+collect 1.3 million
+points of data per second.
+
+
+337
+0:19:44,583 --> 0:19:46,708
+Probably within 2-3 years,
+
+
+338
+0:19:46,708 --> 0:19:49,25
+you're gonna see 3D maps that
+are gonna integrate the traffic
+
+
+339
+0:19:49,25 --> 0:19:51,958
+information into your
+routing, to help you understand.
+
+
+340
+0:19:51,958 --> 0:19:53,792
+If I've got 5
+different routes to take,
+
+
+341
+0:19:53,792 --> 0:19:55,958
+which one is the most efficient
+today, given the way the
+
+
+342
+0:19:55,958 --> 0:19:58,417
+stoplights are running, given
+the way traffic is running.
+
+
+343
+0:19:58,417 --> 0:20:0,417
+All of those factors are gonna
+
+
+344
+0:20:0,417 --> 0:20:2,833
+be taken into consideration to
+make sure I've got the best
+
+
+345
+0:20:2,833 --> 0:20:4,542
+route.
+
+
+346
+0:20:4,542 --> 0:20:6,875
+But better mapping that can
+integrate topography,
+
+
+347
+0:20:6,875 --> 0:20:12,0
+infrastructure, and density is
+only part of the answer.
+
+
+348
+0:20:12,0 --> 0:20:14,792
+Another key to improving
+transport efficiency is
+
+
+349
+0:20:14,792 --> 0:20:19,167
+building cars
+that drive themselves.
+
+
+350
+0:20:19,167 --> 0:20:24,125
+Autonomous vehicle technology
+has a tremendous potential to
+
+
+351
+0:20:24,125 --> 0:20:28,583
+improve efficiency of
+our road infrastructure.
+
+
+352
+0:20:28,583 --> 0:20:31,875
+By removing humans from the
+equation, we eliminate all the
+
+
+353
+0:20:31,875 --> 0:20:35,25
+things we do wrong behind the
+wheel - speeding, changing
+
+
+354
+0:20:35,25 --> 0:20:37,208
+lanes too often, merging
+
+
+355
+0:20:37,208 --> 0:20:43,667
+haphazardly; and by marrying
+them with sophisticated 3D maps,
+
+
+356
+0:20:43,667 --> 0:20:50,125
+we can make driving safer
+and more energy efficient.
+
+
+357
+0:20:50,125 --> 0:20:52,75
+That next generation
+vehicle is being
+
+
+358
+0:20:52,75 --> 0:20:59,667
+built right now by Swedish
+trucking company, Scania.
+
+
+359
+0:20:59,667 --> 0:21:2,125
+Tony Sandberg: The solution, as
+we see it, is that the vehicles
+
+
+360
+0:21:2,125 --> 0:21:4,708
+can utilize intelligent maps.
+
+
+361
+0:21:4,708 --> 0:21:7,875
+3D maps with
+traffic information.
+
+
+362
+0:21:7,875 --> 0:21:10,125
+The vehicles will
+be intelligent and
+
+
+363
+0:21:10,125 --> 0:21:11,917
+communicate with each other.
+
+
+364
+0:21:11,917 --> 0:21:13,5
+They will talk to each
+other, they will talk to the
+
+
+365
+0:21:13,5 --> 0:21:17,333
+infrastructure.
+
+
+366
+0:21:17,333 --> 0:21:30,25
+And we will see
+autonomously-driven vehicles.
+
+
+367
+0:21:30,25 --> 0:21:34,542
+The goal was to have multiple
+robots and see if they could go
+
+
+368
+0:21:34,542 --> 0:21:44,0
+60 miles fully autonomously.
+
+
+369
+0:21:44,0 --> 0:21:45,833
+Helen Taylor:
+My name's Helen Taylor.
+
+
+370
+0:21:45,833 --> 0:21:47,667
+My husband John and I,
+we're very passionate about
+
+
+371
+0:21:47,667 --> 0:21:53,667
+fuel economy.
+
+
+372
+0:21:53,667 --> 0:21:55,375
+John Taylor: Yea it's great to
+break world records, but that's
+
+
+373
+0:21:55,375 --> 0:21:57,83
+not the be all and end all now.
+
+
+374
+0:21:57,83 --> 0:21:59,375
+It's more important
+to educate people.
+
+
+375
+0:21:59,375 --> 0:22:2,0
+Together we're showing
+drivers around the world simple
+
+
+376
+0:22:2,0 --> 0:22:5,417
+techniques to improve
+their fuel efficiency.
+
+
+377
+0:22:5,417 --> 0:22:8,917
+We run these education programs,
+get people on the road with us,
+
+
+378
+0:22:8,917 --> 0:22:12,458
+and we finally tweak
+their driving techniques.
+
+
+379
+0:22:12,458 --> 0:22:14,292
+Things like just
+checking your tire
+
+
+380
+0:22:14,292 --> 0:22:16,42
+pressures before you
+even get into your car.
+
+
+381
+0:22:16,42 --> 0:22:18,0
+For every one psi your tires are
+
+
+382
+0:22:18,0 --> 0:22:20,75
+under inflated, you're wasting
+3% of your fuel efficiency.
+
+
+383
+0:22:20,75 --> 0:22:22,417
+And the difference
+
+
+384
+0:22:22,417 --> 0:22:27,333
+between 65 and 75 miles
+per hour is a saving of 23%.
+
+
+385
+0:22:27,333 --> 0:22:29,667
+When you talk to the general
+public, they're very surprised
+
+
+386
+0:22:29,667 --> 0:22:32,0
+that an energy company,
+like Shell, is trying
+
+
+387
+0:22:32,0 --> 0:22:34,25
+to educate people on
+how to save money,
+
+
+388
+0:22:34,25 --> 0:22:36,208
+how to reduce CO2 emissions.
+
+
+389
+0:22:36,208 --> 0:22:40,0
+And here we have Shell sending
+us around the world to do that.
+
+
+390
+0:22:40,0 --> 0:22:42,292
+You always hope when you're on
+this planet that you can make a
+
+
+391
+0:22:42,292 --> 0:22:44,375
+real difference
+in people's lives.
+
+
+392
+0:22:44,375 --> 0:22:46,125
+When you get emails
+from people saying "I've
+
+
+393
+0:22:46,125 --> 0:22:48,375
+saved this amount of money this
+year, now I can put food on the
+
+
+394
+0:22:48,375 --> 0:23:1,5
+table", then you know you are
+really making a difference.
+
+
+395
+0:23:1,5 --> 0:23:4,42
+By displaying traffic density
+in the urban infrastructure
+
+
+396
+0:23:4,42 --> 0:23:6,83
+in a revolutionary way,
+
+
+397
+0:23:6,83 --> 0:23:11,25
+3D digital maps will help create
+a more fuel-efficient future.
+
+
+398
+0:23:11,25 --> 0:23:14,83
+But these technologies are
+limited by the drivers who sit
+
+
+399
+0:23:14,83 --> 0:23:17,417
+behind the wheel. Some
+believe, that for cars and
+
+
+400
+0:23:17,417 --> 0:23:20,417
+trucks to be truly
+energy-efficient, they will need
+
+
+401
+0:23:20,417 --> 0:23:23,833
+to drive themselves.
+
+
+402
+0:23:23,833 --> 0:23:26,958
+The technology's coming into
+play, through sensors and
+
+
+403
+0:23:26,958 --> 0:23:32,292
+capabilities for cars
+to drive autonomously.
+
+
+404
+0:23:32,292 --> 0:23:35,875
+In 2007, the United States'
+department of defense held a
+
+
+405
+0:23:35,875 --> 0:23:39,0
+competition to see
+if a completely autonomous,
+
+
+406
+0:23:39,0 --> 0:23:42,583
+self-driving vehicle
+was possible.
+
+
+407
+0:23:42,583 --> 0:23:45,333
+DARPA stands for the Defense
+Advanced Research Projects
+
+
+408
+0:23:45,333 --> 0:23:49,5
+Agency. They had a competition
+to develop self-driving robots
+
+
+409
+0:23:49,5 --> 0:23:52,208
+that could drive
+themselves in traffic.
+
+
+410
+0:23:52,208 --> 0:23:55,708
+The goal was to have multiple
+robots, turn them loose
+
+
+411
+0:23:55,708 --> 0:23:59,542
+on a course, and see if they
+could go sixty miles in six
+
+
+412
+0:23:59,542 --> 0:24:4,167
+hours, fully autonomously.
+
+
+413
+0:24:4,167 --> 0:24:8,42
+Driving may be one of the most
+complex things we do every day.
+
+
+414
+0:24:8,42 --> 0:24:12,42
+Drivers make dozens of
+decisions at any given moment.
+
+
+415
+0:24:12,42 --> 0:24:14,375
+One study found that drivers
+
+
+416
+0:24:14,375 --> 0:24:19,75
+Were exposed to over 1,300 items
+of information per minute.
+
+
+417
+0:24:19,75 --> 0:24:22,833
+We make so many decisions when
+we're driving without even
+
+
+418
+0:24:22,833 --> 0:24:24,708
+thinking about it.
+
+
+419
+0:24:24,708 --> 0:24:27,833
+So in creating our vehicle,
+a great component of the
+
+
+420
+0:24:27,833 --> 0:24:30,417
+enterprise was
+developing software to handle
+
+
+421
+0:24:30,417 --> 0:24:34,42
+lots of sensors,
+feeding lots of data, and
+
+
+422
+0:24:34,42 --> 0:24:36,667
+generating a bunch of potential
+paths that the vehicle might
+
+
+423
+0:24:36,667 --> 0:24:39,792
+follow. And even
+though the robot doesn't have
+
+
+424
+0:24:39,792 --> 0:24:43,875
+the ability to predict
+the future, by using this
+
+
+425
+0:24:43,875 --> 0:24:47,667
+fast random path generation,
+the robot could anticipate a
+
+
+426
+0:24:47,667 --> 0:24:50,417
+potential accident
+and choose a path to avoid it
+
+
+427
+0:24:50,417 --> 0:24:53,83
+because its always
+thinking about what things
+
+
+428
+0:24:53,83 --> 0:24:59,167
+could the car do next.
+
+
+429
+0:24:59,167 --> 0:25:2,208
+No one expects millions of
+cars driving themselves anytime
+
+
+430
+0:25:2,208 --> 0:25:5,708
+soon. But there is a
+place where self-navigating
+
+
+431
+0:25:5,708 --> 0:25:8,417
+technologies are being
+optimized to create the
+
+
+432
+0:25:8,417 --> 0:25:11,792
+vehicle of the future.
+
+
+433
+0:25:11,792 --> 0:25:14,5
+We're on the Scania test
+track outside Stockholm,
+
+
+434
+0:25:14,5 --> 0:25:16,458
+where we have basically,
+
+
+435
+0:25:16,458 --> 0:25:19,0
+it looks like a highway but it's
+a separate test track where we
+
+
+436
+0:25:19,0 --> 0:25:21,167
+conduct our own experiments.
+
+
+437
+0:25:21,167 --> 0:25:24,292
+Scania, the Swedish trucking
+company, has recently begun
+
+
+438
+0:25:24,292 --> 0:25:28,75
+testing its next generation
+of long-haul truck, utilizing
+
+
+439
+0:25:28,75 --> 0:25:32,167
+radar, sonar, and
+intelligent mapping.
+
+
+440
+0:25:32,167 --> 0:25:37,708
+They've been able to drastically
+reduce fuel consumption.
+
+
+441
+0:25:37,708 --> 0:25:39,833
+Jonas Martensson: We have this
+example with platooning, where
+
+
+442
+0:25:39,833 --> 0:25:44,792
+will make use of the reduction
+in air resistance, or air drag,
+
+
+443
+0:25:44,792 --> 0:25:47,125
+that you get from driving
+close to each other with
+
+
+444
+0:25:47,125 --> 0:25:50,292
+heavy duty vehicles.
+
+
+445
+0:25:50,292 --> 0:25:53,0
+And in order to control
+this, you need to know
+
+
+446
+0:25:53,0 --> 0:25:55,667
+where the other vehicles are,
+their position, their velocity,
+
+
+447
+0:25:55,667 --> 0:25:58,333
+their actions
+in the near future.
+
+
+448
+0:25:58,333 --> 0:26:1,375
+And to be very close to the
+vehicle ahead of you, it
+
+
+449
+0:26:1,375 --> 0:26:4,958
+requires that you have
+a very accurate control.
+
+
+450
+0:26:4,958 --> 0:26:7,875
+If you look at robotics broadly,
+there's a wonderful set of
+
+
+451
+0:26:7,875 --> 0:26:10,83
+research of people
+looking at schooling fish and
+
+
+452
+0:26:10,83 --> 0:26:12,875
+trying to develop the
+ability for robots to work
+
+
+453
+0:26:12,875 --> 0:26:14,792
+together like that.
+
+
+454
+0:26:14,792 --> 0:26:17,125
+So there are wonderful
+examples from nature of how
+
+
+455
+0:26:17,125 --> 0:26:20,958
+cooperation can lead to more
+efficient resource utilization.
+
+
+456
+0:26:20,958 --> 0:26:23,83
+Jonas Hofstedt: You can see it
+when people are competing in
+
+
+457
+0:26:23,83 --> 0:26:28,292
+Tour de France. They platoon
+to reduce air drag.
+
+
+458
+0:26:28,292 --> 0:26:32,333
+They are not bicycling behind
+each other that close because
+
+
+459
+0:26:32,333 --> 0:26:37,5
+it's fun, or because they are
+racing, it is because they are
+
+
+460
+0:26:37,5 --> 0:26:40,125
+reducing air drag
+
+
+461
+0:26:40,125 --> 0:26:42,75
+sitting behind
+the man who is leading.
+
+
+462
+0:26:42,75 --> 0:26:47,0
+A truck traveling 55 miles per
+hour expends half its energy
+
+
+463
+0:26:47,0 --> 0:26:49,375
+just to move
+the air around it.
+
+
+464
+0:26:49,375 --> 0:26:52,458
+At 65 miles per hour, that
+number jumps to almost
+
+
+465
+0:26:52,458 --> 0:26:54,708
+two-thirds.
+
+
+466
+0:26:54,708 --> 0:26:58,667
+Even if platooning can reduce
+the energy used by 10 percent,
+
+
+467
+0:26:58,667 --> 0:27:3,167
+the savings
+would be substantial.
+
+
+468
+0:27:3,167 --> 0:27:6,708
+If a vehicle in front of another
+vehicle wants to brake,
+
+
+469
+0:27:6,708 --> 0:27:10,875
+it immediately sends out
+the brake message to the other
+
+
+470
+0:27:10,875 --> 0:27:16,583
+vehicles, so they actually
+brake at the same time.
+
+
+471
+0:27:16,583 --> 0:27:19,83
+Hassad Alem: The way we do this
+is by, we have an automated
+
+
+472
+0:27:19,83 --> 0:27:21,167
+system. so now for instance,
+
+
+473
+0:27:21,167 --> 0:27:23,375
+if i take my feet off the
+acceleration pedal, and turn the
+
+
+474
+0:27:23,375 --> 0:27:26,333
+system on, the
+velocity is automatically
+
+
+475
+0:27:26,333 --> 0:27:28,792
+governed by getting
+information from the vehicle
+
+
+476
+0:27:28,792 --> 0:27:31,583
+ahead through
+its wireless system.
+
+
+477
+0:27:31,583 --> 0:27:33,708
+We want these
+vehicles to maintain a
+
+
+478
+0:27:33,708 --> 0:27:35,708
+short relative distance.
+
+
+479
+0:27:35,708 --> 0:27:37,667
+So through this system,
+we can reduce fuel
+
+
+480
+0:27:37,667 --> 0:27:42,417
+consumption by utulizing
+the air drag reduction by 10%.
+
+
+481
+0:27:42,417 --> 0:27:45,0
+and 10% would mean you
+would be able to save
+
+
+482
+0:27:45,0 --> 0:27:48,125
+approximately 8,000 Euros
+per single heavyduty
+
+
+483
+0:27:48,125 --> 0:27:57,833
+vehicle per year.
+
+
+484
+0:27:57,833 --> 0:28:0,833
+It may be sometime before
+autonomous vehicles make up the
+
+
+485
+0:28:0,833 --> 0:28:4,583
+majority of cars on
+America's highways.
+
+
+486
+0:28:4,583 --> 0:28:7,958
+Nevertheless, some of these
+technologies are already
+
+
+487
+0:28:7,958 --> 0:28:11,208
+making their way into our lives.
+
+
+488
+0:28:11,208 --> 0:28:14,42
+Now this polar
+baby wants to sleep.
+
+
+489
+0:28:14,42 --> 0:28:15,958
+Do you get to pick out books
+every day or is it just...
+
+
+490
+0:28:15,958 --> 0:28:18,5
+I get to pick out
+books sometimes.
+
+
+491
+0:28:18,5 --> 0:28:20,333
+Okay.
+
+
+492
+0:28:20,333 --> 0:28:23,5
+When we look toward the future,
+the systems will absolutely make
+
+
+493
+0:28:23,5 --> 0:28:26,208
+it safer and more
+efficient and less
+
+
+494
+0:28:26,208 --> 0:28:28,792
+costly for you and also
+make your life easier
+
+
+495
+0:28:28,792 --> 0:28:31,25
+because you're spending
+less time on the roads.
+
+
+496
+0:28:31,25 --> 0:28:33,667
+The city begins to talk, begins
+to tell you where is there
+
+
+497
+0:28:33,667 --> 0:28:36,75
+congestion, what's going on
+in different areas of town?
+
+
+498
+0:28:36,75 --> 0:28:39,375
+Suddenly the car
+becomes a part of a
+
+
+499
+0:28:39,375 --> 0:28:41,375
+much bigger ecosystem.
+
+
+500
+0:28:41,375 --> 0:28:43,625
+We can look at how cars
+interact with other cars,
+
+
+501
+0:28:43,625 --> 0:28:45,833
+how cars interact with
+infrastructure and us, the
+
+
+502
+0:28:45,833 --> 0:28:47,917
+drivers, can start to make
+
+
+503
+0:28:47,917 --> 0:28:50,792
+smart decisions about
+how to move around.
+
+
+504
+0:28:50,792 --> 0:28:57,42
+Suddenly, mobility becomes
+a whole other thing.
+
+
+505
+0:28:57,42 --> 0:28:58,667
+Paul Goldberger: No matter how
+much money they have, no matter
+
+
+506
+0:28:58,667 --> 0:29:0,458
+how much oil they have,
+
+
+507
+0:29:0,458 --> 0:29:11,83
+everybody has to go in
+a different direction.
+
+
+508
+0:29:11,83 --> 0:29:13,208
+We've seen that changing
+the way we drive can improve
+
+
+509
+0:29:13,208 --> 0:29:15,208
+transportation efficiencies.
+
+
+510
+0:29:15,208 --> 0:29:18,83
+But what if we change the way we
+build and live in our cities?
+
+
+511
+0:29:18,83 --> 0:29:21,75
+That's the subject of our next
+story, "Searching for Utopia".
+
+
+512
+0:29:21,75 --> 0:29:23,417
+We'll travel to the
+United Arab Emirates, and
+
+
+513
+0:29:23,417 --> 0:29:25,667
+discover a city rising
+out of the desert.
+
+
+514
+0:29:25,667 --> 0:29:30,958
+Let's take a look.
+
+
+515
+0:29:30,958 --> 0:29:34,875
+From the beginning,
+we've dreamed of Utopia.
+
+
+516
+0:29:34,875 --> 0:29:36,708
+A place where we could live in
+
+
+517
+0:29:36,708 --> 0:29:42,625
+harmony with each other,
+and in balance with nature.
+
+
+518
+0:29:42,625 --> 0:29:45,125
+Many have imagined it,
+
+
+519
+0:29:45,125 --> 0:29:58,583
+tried to design it, but the
+dream always slipped away.
+
+
+520
+0:29:58,583 --> 0:30:1,83
+Then, I heard they were
+building a new city called
+
+
+521
+0:30:1,83 --> 0:30:7,417
+"Masdar", near Abu Dhabi,
+in the Arabian desert.
+
+
+522
+0:30:7,417 --> 0:30:10,25
+It sounded like an
+unlikely place for Utopia,
+
+
+523
+0:30:10,25 --> 0:30:22,917
+and I wanted to see it.
+
+
+524
+0:30:22,917 --> 0:30:27,167
+The last half-century has been a
+pretty bad time for the making
+
+
+525
+0:30:27,167 --> 0:30:31,208
+of cities, mostly.
+
+
+526
+0:30:31,208 --> 0:30:35,83
+The natural tendency has been
+to accommodate to the automobile
+
+
+527
+0:30:35,83 --> 0:30:37,75
+more than anything else.
+
+
+528
+0:30:37,75 --> 0:30:42,292
+Try walking around
+Abu Dhabi, it’s impossible,
+
+
+529
+0:30:42,292 --> 0:30:45,83
+you have to take
+a car everywhere.
+
+
+530
+0:30:45,83 --> 0:30:48,917
+Dubai, the same thing.
+
+
+531
+0:30:48,917 --> 0:30:51,375
+They are among
+the least pedestrian-friendly
+
+
+532
+0:30:51,375 --> 0:30:55,42
+places in the world,
+they are not green by any
+
+
+533
+0:30:55,42 --> 0:31:3,625
+other measure either, and these
+are not easy things to fix.
+
+
+534
+0:31:3,625 --> 0:31:5,75
+Masdar is still under
+construction, and it doesn't
+
+
+535
+0:31:5,75 --> 0:31:7,833
+look like much from the highway.
+
+
+536
+0:31:7,833 --> 0:31:9,958
+But they claim it's going to
+redefine the way cities are
+
+
+537
+0:31:9,958 --> 0:31:15,292
+designed, built, and powered.
+
+
+538
+0:31:15,292 --> 0:31:19,5
+Masdar City in Abu Dhabi, will
+be the city of the future, and
+
+
+539
+0:31:19,5 --> 0:31:23,542
+the role model for the world.
+
+
+540
+0:31:23,542 --> 0:31:26,375
+Once you see what they've
+envisioned for this
+
+
+541
+0:31:26,375 --> 0:31:28,208
+utopian city,
+its very impressive.
+
+
+542
+0:31:28,208 --> 0:31:30,833
+It's carbon-neutral, pedestrian
+friendly and powered by
+
+
+543
+0:31:30,833 --> 0:31:33,292
+renewable energies.
+
+
+544
+0:31:33,292 --> 0:31:35,625
+But I do notice, we're
+going to have to change our
+
+
+545
+0:31:35,625 --> 0:31:39,5
+relationship with cars.
+
+
+546
+0:31:39,5 --> 0:31:45,5
+Car audio: Welcome
+to Masdar City.
+
+
+547
+0:31:45,5 --> 0:31:49,42
+Austin Relton: We are driving in
+the bowels of Masdar City in an
+
+
+548
+0:31:49,42 --> 0:31:54,958
+electric transportation system.
+
+
+549
+0:31:54,958 --> 0:31:57,458
+It's slightly unnerving to see
+this for the first time and
+
+
+550
+0:31:57,458 --> 0:32:1,83
+"where are we going?"
+
+
+551
+0:32:1,83 --> 0:32:3,375
+the first big move the
+architects at foster and
+
+
+552
+0:32:3,375 --> 0:32:6,667
+partners made was to put all
+transportation underneath the
+
+
+553
+0:32:6,667 --> 0:32:11,42
+city, leaving the streets
+of Masdar totally free
+
+
+554
+0:32:11,42 --> 0:32:13,583
+of cars.
+
+
+555
+0:32:13,583 --> 0:32:16,292
+The place reminded me
+of a medieval city.
+
+
+556
+0:32:16,292 --> 0:32:19,208
+And actually, many design
+elements are adapted from
+
+
+557
+0:32:19,208 --> 0:32:22,833
+ancient Arabic
+towns and villages.
+
+
+558
+0:32:22,833 --> 0:32:25,917
+It's all about looking back
+into history to move forward.
+
+
+559
+0:32:25,917 --> 0:32:27,667
+There are some very
+
+
+560
+0:32:27,667 --> 0:32:30,5
+very simple ideas
+that have a huge impact.
+
+
+561
+0:32:30,5 --> 0:32:33,0
+This is a pedestrian zone,
+there's no cars here.
+
+
+562
+0:32:33,0 --> 0:32:35,875
+This has enabled us to push
+our streets together to take
+
+
+563
+0:32:35,875 --> 0:32:41,5
+advantage of the shade, channel
+the cooling breezes through.
+
+
+564
+0:32:41,5 --> 0:32:44,542
+The whole scale here is based on
+the human being, its not based
+
+
+565
+0:32:44,542 --> 0:32:47,417
+on the motor car.
+
+
+566
+0:32:47,417 --> 0:32:50,0
+As soon as you lift up the
+pedestrian plane by seven
+
+
+567
+0:32:50,0 --> 0:32:56,0
+meters, you've suddenly
+captured this breeze.
+
+
+568
+0:32:56,0 --> 0:32:58,25
+What you can see here on
+the balcony is we've got a
+
+
+569
+0:32:58,25 --> 0:33:2,5
+modern interpretation of
+an ancient Arabic screen.
+
+
+570
+0:33:2,5 --> 0:33:4,417
+What we must avoid is
+
+
+571
+0:33:4,417 --> 0:33:7,792
+direct sunlight hitting
+any piece of glass.
+
+
+572
+0:33:7,792 --> 0:33:9,583
+As soon as the
+sun hits the glass,
+
+
+573
+0:33:9,583 --> 0:33:12,25
+the heat's transferred into the
+building and we have to use more
+
+
+574
+0:33:12,25 --> 0:33:14,625
+energy to cool it down.
+
+
+575
+0:33:14,625 --> 0:33:16,125
+Can this really make all
+that much of a difference?
+
+
+576
+0:33:16,125 --> 0:33:18,125
+Yeah, absolutely.
+
+
+577
+0:33:18,125 --> 0:33:20,625
+For example, downtown Abu
+Dhabi... sixty-meter wide
+
+
+578
+0:33:20,625 --> 0:33:26,0
+streets, black asphalt, mirrored
+reflective buildings, no relief
+
+
+579
+0:33:26,0 --> 0:33:28,875
+from the sun.
+
+
+580
+0:33:28,875 --> 0:33:32,5
+On a day in September, the
+air temperature in both places
+
+
+581
+0:33:32,5 --> 0:33:35,417
+was 39 degrees.
+
+
+582
+0:33:35,417 --> 0:33:37,583
+in Abu Dhabi, the
+
+
+583
+0:33:37,583 --> 0:33:43,375
+temperature measured
+at the asphalt was 57 degrees.
+
+
+584
+0:33:43,375 --> 0:33:47,42
+in Masdar, the
+temperature measured on the
+
+
+585
+0:33:47,42 --> 0:33:50,875
+ground, 33 degrees,
+so we've actually lowered
+
+
+586
+0:33:50,875 --> 0:33:53,125
+the air temperature.
+
+
+587
+0:33:53,125 --> 0:33:55,458
+We're trying to do as much as
+possible, with as little as
+
+
+588
+0:33:55,458 --> 0:33:57,458
+possible.
+
+
+589
+0:33:57,458 --> 0:34:2,583
+These simple design moves, cut
+air conditioning needs by 60%.
+
+
+590
+0:34:2,583 --> 0:34:6,75
+But this place is also,
+technically, very sophisticated.
+
+
+591
+0:34:6,75 --> 0:34:8,167
+The roof panels
+not only provide
+
+
+592
+0:34:8,167 --> 0:34:11,75
+shade, they also
+generate electricity.
+
+
+593
+0:34:11,75 --> 0:34:13,625
+And the walls
+themselves are made of
+
+
+594
+0:34:13,625 --> 0:34:16,833
+glass reinforced concrete,
+literally sand taken from the
+
+
+595
+0:34:16,833 --> 0:34:19,208
+desert.
+
+
+596
+0:34:19,208 --> 0:34:21,75
+Everything here is geared
+towards maximizing energy
+
+
+597
+0:34:21,75 --> 0:34:24,292
+efficiency.
+
+
+598
+0:34:24,292 --> 0:34:29,125
+Masdar does represent a
+whole different value system.
+
+
+599
+0:34:29,125 --> 0:34:34,125
+It represents an
+acknowledgment that, eventually,
+
+
+600
+0:34:34,125 --> 0:34:36,875
+everybody has to go in a
+different kind of direction.
+
+
+601
+0:34:36,875 --> 0:34:38,75
+No matter how much
+money they have,
+
+
+602
+0:34:38,75 --> 0:34:42,792
+no matter how much oil they
+have, no matter anything else.
+
+
+603
+0:34:42,792 --> 0:34:45,458
+All of the cities here
+in this part of the world
+
+
+604
+0:34:45,458 --> 0:34:48,83
+have come out of nowhere.
+
+
+605
+0:34:48,83 --> 0:34:51,42
+There was nothing here
+not so long ago, except
+
+
+606
+0:34:51,42 --> 0:34:54,83
+small settlements in the desert.
+
+
+607
+0:34:54,83 --> 0:34:57,0
+And then all of this oil
+and all of this money,
+
+
+608
+0:34:57,0 --> 0:35:2,667
+and suddenly, you know, wham,
+these cities started popping up.
+
+
+609
+0:35:2,667 --> 0:35:5,542
+But they sprung up
+in a false love of a
+
+
+610
+0:35:5,542 --> 0:35:10,375
+Western model that was
+already out of date.
+
+
+611
+0:35:10,375 --> 0:35:14,42
+The model of the late 20th
+century automobile-based
+
+
+612
+0:35:14,42 --> 0:35:28,708
+energy-hogging city.
+
+
+613
+0:35:28,708 --> 0:35:35,42
+For most of the world, energy is
+very expensive. But the United
+
+
+614
+0:35:35,42 --> 0:35:37,875
+Arab Emirates is sitting
+on 10% of the world's
+
+
+615
+0:35:37,875 --> 0:35:44,167
+oil, and energy is cheap,
+so cheap you can
+
+
+616
+0:35:44,167 --> 0:35:48,5
+run a ski slope in
+a shopping mall,
+
+
+617
+0:35:48,5 --> 0:35:53,375
+and build the world's
+tallest skyscraper.
+
+
+618
+0:35:53,375 --> 0:35:56,375
+But even here, cheap energy
+won't last forever, and the
+
+
+619
+0:35:56,375 --> 0:36:13,625
+people behind Masdar are
+determined to find alternatives.
+
+
+620
+0:36:13,625 --> 0:36:15,917
+Martin Haigh: One of the most
+crucial aspects of our energy
+
+
+621
+0:36:15,917 --> 0:36:18,25
+odeling and scenario
+quantification is how much
+
+
+622
+0:36:18,25 --> 0:36:27,958
+energy in total is the
+world going to use in 2050.
+
+
+623
+0:36:27,958 --> 0:36:30,417
+Wim Thomas: The scenarios team
+is a bunch of people with rich
+
+
+624
+0:36:30,417 --> 0:36:31,958
+imagination, I would say.
+
+
+625
+0:36:31,958 --> 0:36:33,417
+Adam Newton: We have political
+
+
+626
+0:36:33,417 --> 0:36:36,167
+scientists, economists,
+geopolitical experts.
+
+
+627
+0:36:36,167 --> 0:36:38,458
+Really we try to simplify
+the complexity all
+
+
+628
+0:36:38,458 --> 0:36:40,333
+around us.
+
+
+629
+0:36:40,333 --> 0:36:42,167
+Jeremy Bentham: We in the
+Scenarios team are currently
+
+
+630
+0:36:42,167 --> 0:36:51,167
+putting a lot of attention into
+cities and city development.
+
+
+631
+0:36:51,167 --> 0:36:55,0
+A lot of megacities are going to
+be built in the coming decades.
+
+
+632
+0:36:55,0 --> 0:36:58,208
+We're talking about the
+equivalent of a new city of a
+
+
+633
+0:36:58,208 --> 0:37:1,458
+million people every week.
+
+
+634
+0:37:1,458 --> 0:37:3,917
+That is an incredible demand.
+
+
+635
+0:37:3,917 --> 0:37:8,583
+Most of the world's resources
+are consumed by the cities.
+
+
+636
+0:37:8,583 --> 0:37:10,917
+What if we could offer a
+blueprint for a better
+
+
+637
+0:37:10,917 --> 0:37:15,125
+city? Public transportation,
+information, energy.
+
+
+638
+0:37:15,125 --> 0:37:17,792
+We understand demand will
+rise, we understand the
+
+
+639
+0:37:17,792 --> 0:37:20,75
+current supplies will
+struggle to keep pace.
+
+
+640
+0:37:20,75 --> 0:37:22,5
+So we have to of course, find
+
+
+641
+0:37:22,5 --> 0:37:26,958
+ways of bridging the gap between
+the demand and the supply.
+
+
+642
+0:37:26,958 --> 0:37:31,458
+Decisions that we take now are
+going to have a major impact on
+
+
+643
+0:37:31,458 --> 0:37:41,875
+decades to come.
+
+
+644
+0:37:41,875 --> 0:37:46,417
+There's enough oil under
+these sands to last 150 years.
+
+
+645
+0:37:46,417 --> 0:37:49,417
+But fundamental to the
+Masdar ideal, is getting
+
+
+646
+0:37:49,417 --> 0:37:51,708
+energy from renewable
+sources, from
+
+
+647
+0:37:51,708 --> 0:37:56,42
+geothermal and wind, and most of
+all, from a source they have in
+
+
+648
+0:37:56,42 --> 0:38:5,333
+abundance in the
+desert: the sun.
+
+
+649
+0:38:5,333 --> 0:38:8,25
+This field of solar panels
+makes more than enough
+
+
+650
+0:38:8,25 --> 0:38:11,667
+electricity to run Masdar, and
+the excess power is sent to the
+
+
+651
+0:38:11,667 --> 0:38:16,708
+Abu Dhabi grid.
+
+
+652
+0:38:16,708 --> 0:38:18,958
+But silicon panels are
+expensive, and the price of
+
+
+653
+0:38:18,958 --> 0:38:21,208
+solar power needs to drop if
+
+
+654
+0:38:21,208 --> 0:38:32,917
+its going to be competitive
+from Africa to Asia to Arizona.
+
+
+655
+0:38:32,917 --> 0:38:36,75
+in the future, Masdar hopes to
+get energy from this prototype
+
+
+656
+0:38:36,75 --> 0:38:41,125
+called the solar beam down.
+
+
+657
+0:38:41,125 --> 0:38:44,42
+Uusing highly reflective
+mirrors, the solar beam down may
+
+
+658
+0:38:44,42 --> 0:38:47,292
+generate power more cheaply and
+ecologically than silicon
+
+
+659
+0:38:47,292 --> 0:38:54,5
+panels.
+
+
+660
+0:38:54,5 --> 0:39:0,625
+The mirrors bounce the suns rays
+up to the tower, and then down
+
+
+661
+0:39:0,625 --> 0:39:5,667
+to a point. reaching a
+temperature of 600
+
+
+662
+0:39:5,667 --> 0:39:8,917
+degrees, steam can
+be generated to run
+
+
+663
+0:39:8,917 --> 0:39:13,875
+turbines to make electricity.
+
+
+664
+0:39:13,875 --> 0:39:16,708
+There's just one problem:
+neither of these solar
+
+
+665
+0:39:16,708 --> 0:39:19,25
+technologies work at night.
+
+
+666
+0:39:19,25 --> 0:39:21,792
+So Masdar needs to
+draw power from the grid
+
+
+667
+0:39:21,792 --> 0:39:28,5
+when the sun goes down, and that
+power comes from natural gas.
+
+
+668
+0:39:28,5 --> 0:39:31,917
+The reality is, it’s just not
+yet possible to power Masdar
+
+
+669
+0:39:31,917 --> 0:39:39,583
+entirely without fossil fuels.
+
+
+670
+0:39:39,583 --> 0:39:42,25
+The great challenge with Masdar,
+
+
+671
+0:39:42,25 --> 0:39:45,708
+will be "how do you make
+it a place that will
+
+
+672
+0:39:45,708 --> 0:39:50,708
+not be just this ideal city that
+no other place could actually
+
+
+673
+0:39:50,708 --> 0:39:56,958
+aspire to, 'cause it
+doesn't seem real."
+
+
+674
+0:39:56,958 --> 0:40:2,83
+What Masdar has to be is a
+laboratory that develops things
+
+
+675
+0:40:2,83 --> 0:40:5,458
+that then can be applied in
+existing cities all around the
+
+
+676
+0:40:5,458 --> 0:40:9,917
+world, because that's
+where it will pay off.
+
+
+677
+0:40:9,917 --> 0:40:13,667
+There's no pay off if
+it's just about itself.
+
+
+678
+0:40:13,667 --> 0:40:17,542
+The payoff is "how can
+everything it's trying to
+
+
+679
+0:40:17,542 --> 0:40:23,5
+do matter in the
+rest of the world?"
+
+
+680
+0:40:23,5 --> 0:40:27,42
+Right now, there's only a store,
+two restaurants, a bank, and a
+
+
+681
+0:40:27,42 --> 0:40:30,167
+few hundred students
+living here.
+
+
+682
+0:40:30,167 --> 0:40:33,83
+It's too early to tell if Masdar
+will work as a city when it's
+
+
+683
+0:40:33,83 --> 0:40:36,625
+finished, but much has
+been achieved: they are
+
+
+684
+0:40:36,625 --> 0:40:38,833
+carbon-neutral, and largely,
+
+
+685
+0:40:38,833 --> 0:40:41,42
+powered by renewable energies.
+
+
+686
+0:40:41,42 --> 0:40:42,875
+Solutions here won't
+work everywhere
+
+
+687
+0:40:42,875 --> 0:40:46,0
+though, many cities are in cold
+climates, and cooling is not
+
+
+688
+0:40:46,0 --> 0:40:48,333
+their energy problem.
+
+
+689
+0:40:48,333 --> 0:40:52,167
+They need to let sunlight
+in, not keep it out.
+
+
+690
+0:40:52,167 --> 0:40:56,917
+Cities like Los Angeles or
+Houston are built around cars.
+
+
+691
+0:40:56,917 --> 0:41:0,83
+Can Masdar's lessons
+be applied to them?
+
+
+692
+0:41:0,83 --> 0:41:2,75
+Still, its a step
+in the right direction.
+
+
+693
+0:41:2,75 --> 0:41:4,667
+And, its impressive
+that this step is being
+
+
+694
+0:41:4,667 --> 0:41:9,75
+taken by a country that
+doesn't need to take it.
+
+
+695
+0:41:9,75 --> 0:41:13,583
+I met a guy who said "actually,
+they did need to take it."
+
+
+696
+0:41:13,583 --> 0:41:19,75
+He took me to the
+desert to explain.
+
+
+697
+0:41:19,75 --> 0:41:21,333
+Muhamad Alkhalil: God says...
+
+
+698
+0:41:21,333 --> 0:41:25,167
+[arabic]
+
+
+699
+0:41:25,167 --> 0:41:29,5
+God talks about man's
+place in, in the universe.
+
+
+700
+0:41:29,5 --> 0:41:32,333
+That this world is a trust.
+
+
+701
+0:41:32,333 --> 0:41:35,875
+And god offered this
+trust to the mountains, to the
+
+
+702
+0:41:35,875 --> 0:41:42,292
+heavens, to the land, to earth,
+and all refused it, refused to
+
+
+703
+0:41:42,292 --> 0:41:45,42
+take this trust.
+
+
+704
+0:41:45,42 --> 0:41:51,833
+But man being adventurous, vain,
+maybe too ambitious, being man
+
+
+705
+0:41:51,833 --> 0:41:53,708
+accepted it.
+
+
+706
+0:41:53,708 --> 0:42:4,292
+Now, accepting it,
+there is a responsibility.
+
+
+707
+0:42:4,292 --> 0:42:9,625
+Taking responsibility
+isn't always easy.
+
+
+708
+0:42:9,625 --> 0:42:12,875
+Utopia may be
+unattainable, but we
+
+
+709
+0:42:12,875 --> 0:42:18,833
+must reach for it, and Masdar
+does give us a clue to what
+
+
+710
+0:42:18,833 --> 0:42:23,208
+cities will be
+like in the future.
+
+
+711
+0:42:23,208 --> 0:42:26,83
+They may not look
+quite like Masdar,
+
+
+712
+0:42:26,83 --> 0:42:29,208
+but they will be shaped
+by the same concerns.
+
+
+713
+0:42:29,208 --> 0:42:30,917
+By energy.
+
+
+714
+0:42:30,917 --> 0:42:35,958
+Where it comes
+from, and how its used.
+
+
+715
+0:42:35,958 --> 0:42:41,42
+The way we've been building
+cities lately is unsustainable.
+
+
+716
+0:42:41,42 --> 0:42:44,792
+We can't go on
+building them that way.
+
+
+717
+0:42:44,792 --> 0:42:48,0
+But to say that we can't
+build cities the way we have
+
+
+718
+0:42:48,0 --> 0:42:50,458
+been building them doesn't mean
+
+
+719
+0:42:50,458 --> 0:42:53,208
+we can't build
+cities in the future.
+
+
+720
+0:42:53,208 --> 0:42:54,958
+In fact, we have
+to build cities.
+
+
+721
+0:42:54,958 --> 0:43:0,125
+Cities are the essential
+statement of human civilization.
+
+
+722
+0:43:0,125 --> 0:43:5,83
+So, we will continue to make
+them, but we have to make them
+
+
+723
+0:43:5,83 --> 0:43:13,42
+in a different way.
+
+
+724
+0:43:13,42 --> 0:43:15,625
+what we've seen is that the
+world of 2050 won't look
+
+
+725
+0:43:15,625 --> 0:43:18,0
+drastically different from
+the world today, but the
+
+
+726
+0:43:18,0 --> 0:43:20,208
+challenges of a
+growing population and
+
+
+727
+0:43:20,208 --> 0:43:23,5
+increased energy use
+demand real solutions.
+
+
+728
+0:43:23,5 --> 0:43:26,708
+Its innovations like those we've
+just seen that will be critical
+
+
+729
+0:43:26,708 --> 0:45:26,708
+in charting our path
+to the world of 2050.
+
+

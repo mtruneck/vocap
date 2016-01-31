@@ -1,0 +1,692 @@
+1
+0:1:17,663 --> 0:1:21,93
+Tallis and me wagered
+on who would get to you first,
+
+
+2
+0:1:21,93 --> 0:1:35,755
+us or the mage.
+
+
+3
+0:1:35,755 --> 0:1:37,858
+What?
+
+
+4
+0:1:37,858 --> 0:1:40,688
+I was just thinking about our deal...
+
+
+5
+0:1:40,688 --> 0:1:44,909
+The Chantry wants Saarebas alive,
+but you intend to kill him.
+
+
+6
+0:1:44,909 --> 0:1:51,134
+That is, if you win our duel.
+
+
+7
+0:1:51,134 --> 0:1:54,195
+You were never intending on going back.
+
+
+8
+0:1:54,195 --> 0:1:57,906
+When I left Kirkwall,
+I knew there was no going back.
+
+
+9
+0:1:57,906 --> 0:1:59,821
+I have no regrets.
+
+
+10
+0:1:59,821 --> 0:2:5,34
+The mage deserves to die.
+You know that as well as I do.
+
+
+11
+0:2:5,34 --> 0:2:7,353
+Doesn't matter what I know.
+
+
+12
+0:2:7,353 --> 0:2:12,167
+The Qunari want him back alive.
+That's my mission.
+
+
+13
+0:2:12,167 --> 0:2:14,738
+I can't mess up again.
+
+
+14
+0:2:14,738 --> 0:2:17,661
+Sooner or later you will disobey
+another order.
+
+
+15
+0:2:17,661 --> 0:2:20,73
+You can't change who you are.
+
+
+16
+0:2:20,73 --> 0:2:25,198
+Then they'll do more than demote you.
+
+
+17
+0:2:25,198 --> 0:2:28,6
+Show me an alternative.
+
+
+18
+0:2:28,6 --> 0:2:30,425
+Free yourself.
+
+
+19
+0:2:30,425 --> 0:2:34,34
+As I have done.
+
+
+20
+0:2:34,34 --> 0:2:36,77
+Are you suggesting
+that we run off together?
+
+
+21
+0:2:36,77 --> 0:2:39,299
+That I become Tal-Vashoth?
+
+
+22
+0:2:39,299 --> 0:2:40,81
+What's Tal-Vashoth?
+
+
+23
+0:2:40,81 --> 0:2:46,684
+One who abandons the Qun.
+An exile, forever outcast.
+
+
+24
+0:2:46,684 --> 0:2:50,307
+From what I've seen,
+that's exactly what you are.
+
+
+25
+0:2:50,307 --> 0:2:52,414
+You said it yourself...
+
+
+26
+0:2:52,414 --> 0:2:56,3
+We're both renegades.
+
+
+27
+0:2:56,3 --> 0:2:57,812
+I suppose...
+
+
+28
+0:2:57,812 --> 0:3:5,54
+Although we see the pit,
+we cannot avoid it.
+
+
+29
+0:3:5,54 --> 0:3:7,61
+What are you doing?
+
+
+30
+0:3:7,61 --> 0:3:20,832
+Falling into the pit.
+
+
+31
+0:3:20,832 --> 0:3:25,817
+Hey, boy, see that?
+
+
+32
+0:3:25,817 --> 0:3:29,947
+I like to blow off a bit of steam too,
+just before battle.
+
+
+33
+0:3:29,947 --> 0:3:32,893
+You up for it?
+
+
+34
+0:3:32,893 --> 0:3:34,631
+No!
+
+
+35
+0:3:34,631 --> 0:3:37,254
+I'm betrothed to Fina.
+Have you not been listening?
+
+
+36
+0:3:37,254 --> 0:3:40,643
+You're going to get torn up
+by a demon army soon enough!
+
+
+37
+0:3:40,643 --> 0:3:42,612
+You done it before, right?
+
+
+38
+0:3:42,612 --> 0:3:47,9
+No.
+Never!
+
+
+39
+0:3:47,9 --> 0:3:52,256
+Then get here and practice,
+for Fina's sake!
+
+
+40
+0:3:52,256 --> 0:3:54,929
+Hey, you two!
+
+
+41
+0:3:54,929 --> 0:4:8,45
+Over here!
+
+
+42
+0:4:8,45 --> 0:4:13,492
+[Saarebas]
+At last!
+
+
+43
+0:4:13,492 --> 0:4:18,674
+Fina!
+
+
+44
+0:4:18,674 --> 0:4:21,814
+Josmael and I will sneak
+around the back, closest to the altar.
+
+
+45
+0:4:21,814 --> 0:4:23,8
+Get the girl out before attacking.
+
+
+46
+0:4:23,8 --> 0:4:25,175
+Really?
+
+
+47
+0:4:25,175 --> 0:4:26,142
+But your mission...
+
+
+48
+0:4:26,142 --> 0:4:29,11
+Will get done one way or another.
+
+
+49
+0:4:29,11 --> 0:4:32,545
+I can't be all Qunari after all...
+
+
+50
+0:4:32,545 --> 0:4:49,0
+No use denying it.
+
+
+51
+0:4:49,0 --> 0:4:51,814
+Move!
+Let's go!
+
+
+52
+0:4:51,814 --> 0:5:4,194
+For the first time in my life,
+I am not the weapon, I wield it.
+
+
+53
+0:5:4,194 --> 0:5:11,745
+Fina!
+Fina!
+
+
+54
+0:5:11,745 --> 0:5:13,94
+Saarebas, they're here!
+
+
+55
+0:5:13,94 --> 0:5:32,162
+What?
+
+
+56
+0:5:32,162 --> 0:5:44,816
+What more appropriate audience
+for a night of death and destruction.
+
+
+57
+0:5:44,816 --> 0:5:53,33
+Go on Templar, I got this!
+
+
+58
+0:5:53,33 --> 0:6:0,54
+I think not, Saarebas!
+
+
+59
+0:6:0,54 --> 0:6:3,14
+Love, why did you warn them?
+
+
+60
+0:6:3,14 --> 0:6:5,565
+All I've ever been was the girl
+you were to marry.
+
+
+61
+0:6:5,565 --> 0:6:10,537
+I wasn't special
+until Saarebas captured me!
+
+
+62
+0:6:10,537 --> 0:6:13,689
+A little blood...
+
+
+63
+0:6:13,689 --> 0:6:24,39
+...for a lot of power!
+
+
+64
+0:6:24,39 --> 0:6:53,507
+Fina...
+
+
+65
+0:6:53,507 --> 0:6:56,873
+My sister!
+
+
+66
+0:6:56,873 --> 0:7:1,664
+No!!!!
+
+
+67
+0:7:1,664 --> 0:7:3,231
+Fen'Harel...
+
+
+68
+0:7:3,231 --> 0:7:14,809
+Thank thee for thy wondrous tools!
+
+
+69
+0:7:14,809 --> 0:7:17,475
+I owe you thanks, Templar.
+
+
+70
+0:7:17,475 --> 0:7:20,689
+Such freedom you've given me.
+
+
+71
+0:7:20,689 --> 0:7:24,312
+A gift for killing your family, perhaps.
+
+
+72
+0:7:24,312 --> 0:7:27,63
+You will bait me no longer, mage!
+
+
+73
+0:7:27,63 --> 0:7:41,385
+You may take my family,
+but my future will be my own!
+
+
+74
+0:7:41,385 --> 0:7:50,148
+[Nyree]
+Nice one!
+
+
+75
+0:7:50,148 --> 0:7:53,127
+Tallis!
+
+
+76
+0:7:53,127 --> 0:8:5,149
+Stop the blood!
+
+
+77
+0:8:5,149 --> 0:8:14,676
+You...
+
+
+78
+0:8:14,676 --> 0:8:16,714
+Tallis!
+
+
+79
+0:8:16,714 --> 0:8:26,425
+[Screams]
+
+
+80
+0:8:26,425 --> 0:8:27,57
+Cairn...
+
+
+81
+0:8:27,57 --> 0:8:28,687
+Cairn!
+
+
+82
+0:8:28,687 --> 0:8:32,614
+Cairn! Cairn!
+Josmael, come quick, heal him!
+
+
+83
+0:8:32,614 --> 0:8:34,41
+Heal him!
+
+
+84
+0:8:34,41 --> 0:8:37,46
+There's no healing that, lovey.
+
+
+85
+0:8:37,46 --> 0:8:39,594
+But...
+
+
+86
+0:8:39,594 --> 0:8:43,17
+...our duel.
+
+
+87
+0:8:43,17 --> 0:8:46,78
+[Saarebas laughs]
+
+
+88
+0:8:46,78 --> 0:8:51,279
+Well, this has been an amusing respite.
+
+
+89
+0:8:51,279 --> 0:8:54,47
+You serve your title well, elf.
+
+
+90
+0:8:54,47 --> 0:8:58,515
+Tallis true.
+
+
+91
+0:8:58,515 --> 0:8:59,957
+Why?
+
+
+92
+0:8:59,957 --> 0:9:4,154
+Why this?
+Why not just escape and live your life?
+
+
+93
+0:9:4,154 --> 0:9:8,846
+I had the means to do harm,
+so I took it.
+
+
+94
+0:9:8,846 --> 0:9:12,928
+It was almost... involuntary.
+
+
+95
+0:9:12,928 --> 0:9:16,75
+How could I deny my function?
+
+
+96
+0:9:16,75 --> 0:9:20,245
+The Qunari made me this way.
+
+
+97
+0:9:20,245 --> 0:9:23,955
+As they have made you.
+
+
+98
+0:9:23,955 --> 0:9:26,55
+You're right...
+
+
+99
+0:9:26,55 --> 0:9:32,756
+No matter how hard we fight it,
+eventually we follow our true nature.
+
+
+100
+0:9:32,756 --> 0:9:37,808
+You can't be faulted for that.
+
+
+101
+0:9:37,808 --> 0:9:41,891
+And neither can I.
+
+
+102
+0:9:41,891 --> 0:9:54,901
+This is for Cairn!
+
+
+103
+0:9:54,901 --> 0:9:57,448
+Here...
+
+
+104
+0:9:57,448 --> 0:9:59,924
+Don't force it.
+
+
+105
+0:9:59,924 --> 0:10:1,982
+You got to dig down a bit.
+
+
+106
+0:10:1,982 --> 0:10:9,37
+Here...
+
+
+107
+0:10:9,37 --> 0:10:11,675
+I'm going to walk the lad
+back to his people.
+
+
+108
+0:10:11,675 --> 0:10:15,12
+It's along my way.
+I'm heading back to Nevarra myself.
+
+
+109
+0:10:15,12 --> 0:10:21,241
+Get myself clear of the blasted law.
+
+
+110
+0:10:21,241 --> 0:10:26,142
+The balance.
+
+
+111
+0:10:26,142 --> 0:10:29,873
+Doesn't feel much like a victory, huh?
+
+
+112
+0:10:29,873 --> 0:10:34,544
+Not really.
+
+
+113
+0:10:34,544 --> 0:10:38,108
+I thought you might want this...
+
+
+114
+0:10:38,108 --> 0:10:42,102
+To remember.
+
+
+115
+0:10:42,102 --> 0:10:48,74
+Thank you.
+
+
+116
+0:10:48,74 --> 0:10:50,799
+Goodbye Josmael.
+
+
+117
+0:10:50,799 --> 0:10:53,32
+One day you'll make a fine Keeper!
+
+
+118
+0:10:53,32 --> 0:10:55,389
+Not one day...
+
+
+119
+0:10:55,389 --> 0:10:59,342
+I am the Keeper.
+I know my duty.
+
+
+120
+0:10:59,342 --> 0:11:2,716
+Thank you, Tallis.
+
+
+121
+0:11:2,716 --> 0:11:6,726
+Your Qunari gonna be right peeved
+with you not showing up with the mage.
+
+
+122
+0:11:6,726 --> 0:11:9,26
+There's a smart move,
+just lay it all on the Templar.
+
+
+123
+0:11:9,26 --> 0:11:11,131
+No!
+
+
+124
+0:11:11,131 --> 0:11:14,726
+I'll finish my mission my way.
+
+
+125
+0:11:14,726 --> 0:11:17,793
+Right, renegade.
+
+
+126
+0:11:17,793 --> 0:11:24,552
+Who knows? Next time you see me
+I might not be Tallis anymore.
+
+
+127
+0:11:24,552 --> 0:11:44,511
+I could be Tal-Vashoth.
+
+
+128
+0:11:44,511 --> 0:11:47,88
+Past the idea of right and wrong,
+there is a field.
+
+
+129
+0:11:47,88 --> 0:11:53,714
+When a soul lies down in that grass,
+the world is in balance.
+
+
+130
+0:11:53,714 --> 0:12:3,841
+I will meet you there.
+
+
+131
+0:12:3,841 --> 0:14:3,841
+Subtitles: Dani Figueiredo.
+
+

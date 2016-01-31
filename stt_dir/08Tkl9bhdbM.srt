@@ -1,0 +1,200 @@
+1
+0:0:6,0 --> 0:0:24,0
+Greetings, I am Michael Jivets, Producer on World of Tanks
+
+
+2
+0:0:24,0 --> 0:0:33,0
+What’s the reason for implementing 3 player platoons in tank companies for non-premium accounts in the 8.5 update?
+
+
+3
+0:0:33,0 --> 0:0:42,0
+We’re continuing to reduce the impact of gold and how it influences the game experience, and that’s why we’ve decided to introduce these new features.
+
+
+4
+0:0:42,0 --> 0:0:47,0
+Forum users have actively discussed a new plan of being able to buy premium equipment for credits.
+
+
+5
+0:0:47,0 --> 0:0:49,0
+Is this currently an experiment?
+
+
+6
+0:0:49,0 --> 0:0:54,0
+Yes, it is, just like buying premium shells for credits was an experiment.
+
+
+7
+0:0:54,0 --> 0:0:56,0
+What about buying experience with credits? 
+
+
+8
+0:0:56,0 --> 0:0:57,0
+Will this ever happen? 
+
+
+9
+0:0:57,0 --> 0:1:0,0
+No, this will never happen. That’s for certain.
+
+
+10
+0:1:0,0 --> 0:1:6,0
+How will the light Soviet tanks introduced in the 8.5 update influence the Т-50 and Т-50-2?
+
+
+11
+0:1:6,0 --> 0:1:10,0
+Perhaps these vehicles will become slightly less popular.
+
+
+12
+0:1:10,0 --> 0:1:18,0
+But their gameplay will not be influenced at all. Simply because this line will not compete with the Т-50 and Т50-2.
+
+
+13
+0:1:18,0 --> 0:1:23,0
+The Т-50-2 is still going to be a top tier light Soviet tank.
+
+
+14
+0:1:23,0 --> 0:1:28,0
+Can players expect to see new premium vehicles in the 8.5 update?
+
+
+15
+0:1:28,0 --> 0:1:34,0
+Yes. This update we will add a new premium British SPG, the Sexton 1.
+
+
+16
+0:1:34,0 --> 0:1:40,0
+Do you plan to make any changes or corrections to the game mechanics in the 8.5 update?
+
+
+17
+0:1:40,0 --> 0:1:46,0
+Yes, we’re going to correct some old and recently arisen errors that may have be obvious to some of our players.
+
+
+18
+0:1:46,0 --> 0:1:54,0
+For example, having artillery’s high-explosive shells detonate in the air. This bug was detected in the 8.4 update. As it is right 
+
+
+19
+0:1:54,0 --> 0:1:58,0
+now, the explosion is not shown in the area where it actually happens.
+
+
+20
+0:1:58,0 --> 0:2:6,0
+The shell can still hit a tank and explode, but a player will see it happen 10 to 15 meters above the tank.
+
+
+21
+0:2:6,0 --> 0:2:14,0
+We’ll also correct another feature regarding HE shells. Right now, when a high-explosive shell hits a destroyed tank, it causes no 
+
+
+22
+0:2:14,0 --> 0:2:17,0
+splash damage to the nearby tanks.
+
+
+23
+0:2:17,0 --> 0:2:26,0
+Now, with the 8.5 update, after hitting a destroyed tank with a high-explosive shell, it will cause splash damage as if it hit the ground near the tank.
+
+
+24
+0:2:26,0 --> 0:2:31,0
+They say the speed of IS-7 will be increased from 50 to 60 km per hour.
+
+
+25
+0:2:31,0 --> 0:2:33,0
+Is that true?
+
+
+26
+0:2:33,0 --> 0:2:35,0
+Yes, it will happen. It’s not a rumor.
+
+
+27
+0:2:35,0 --> 0:2:39,0
+We’ll be increasing the maximum speed of the IS-7 to 60 km per hour.
+
+
+28
+0:2:39,0 --> 0:2:43,0
+Can we expect any new premium Chinese tanks?
+
+
+29
+0:2:43,0 --> 0:2:49,0
+We’ll be adding new premium tanks, including high-tier Chinese vehicles around tier eight.
+
+
+30
+0:2:49,0 --> 0:2:55,0
+What about tier eight heavy Chinese tank, like the WZ-111? Will that make an appearance?
+
+
+31
+0:2:55,0 --> 0:2:58,0
+There are no plans to put that tank in the store.
+
+
+32
+0:2:58,0 --> 0:3:2,0
+It’s possible our players may see it appear during special events.
+
+
+33
+0:3:2,0 --> 0:3:5,0
+Are there any details you can share about the 8.6 update?
+
+
+34
+0:3:5,0 --> 0:3:10,0
+The 8.6 update will feature many changes. 
+
+
+35
+0:3:10,0 --> 0:3:16,0
+The most important of which will be the expansion of the SPG line, up to tier 10.
+
+
+36
+0:3:16,0 --> 0:3:21,0
+When testing the 8.5 update, many players noticed the new tier 10 heavy tanks.
+
+
+37
+0:3:21,0 --> 0:3:24,0
+What’s the status of these particular vehicles?
+
+
+38
+0:3:24,0 --> 0:3:29,0
+These are not premium vehicles and they can’t be bought in the store. 
+
+
+39
+0:3:29,0 --> 0:3:33,0
+Also, these tanks can’t be researched; they are not included in tech trees.
+
+
+40
+0:3:33,0 --> 0:5:33,0
+These vehicles will be special high-tier content for players�
+
+

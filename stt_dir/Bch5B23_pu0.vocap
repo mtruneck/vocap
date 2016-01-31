@@ -1,0 +1,193 @@
+###0 
+###2 CHRISTIAN VON KOENIGSEGG: My name is Christian Von
+###4 Koenigsegg.
+###5 I'm 40 years old.
+###6 And for half of my life I've been on the quest to be a
+###8 leader in the hypercar industry, utilizing Swedish
+###11 design combined with visionary technical solutions.
+###14 
+###18 Our latest car, the Agera R, is built in the old hangers of
+###22 a former Swedish fighter jet squadron.
+###24 Their symbol, a ghost, is now proudly painted on the back of
+###28 every Koenigsegg.
+###29 [MUSIC PLAYING]
+###55 CHRISTIAN VON KOENIGSEGG: So now I'm going to show you
+###57 something which we are working on for the future, which I
+###60 personally find very, very interesting in many aspects.
+###63 So what this is, this is what we call an actuator.
+###67 It's a Free Valve actuator.
+###69 Most of you who are familiar with combustion engines and
+###73 especially car engines know that there are camshafts
+###76 involved to move the valves inside the cylinder head.
+###82 And these valves, they have been controlled by camshafts
+###85 for the last 150 years or something like that.
+###88 But it's very restrictive, really, especially if you have
+###91 multi-cylinders and you want to have a rev range to go
+###94 through with efficiency and power because, when you have a
+###99 camshaft, you basically look at all the cylinders in the
+###101 same line to do, pretty much, the same thing.
+###104 There are coming systems now which give some flexibility.
+###107 You can tweak the angle a little bit, compared to the
+###109 crank of the engine.
+###111 And you can slide them sideways, like Audi is doing
+###113 to shut off cylinders now.
+###115 So it's getting better and better, but it's still very,
+###117 very restrictive.
+###118 You can think of the camshaft like a broom, pretty much.
+###121 You hold it in your hands and you push all the valves
+###122 simultaneously with this broomstick.
+###125 What the Free Valve system does is that each valve
+###128 becomes individual.
+###129 So if you think of the valves like keys on the piano,
+###132 suddenly, instead of pushing all the keys at the same time
+###135 with a broomstick, you can actually play the keys with
+###139 your fingers, which is the Free Valve idea.
+###142 And then, of course, the engine can perform in a
+###144 completely different way than being forced into a preset
+###147 pattern of combustion.
+###150 So what we're going to show you here is this is like a
+###152 small cut out of a cylinder head.
+###155 Here we have one valve.
+###156 Normally, there are two intake valves and two exhaust valves.
+###159 And here is just a small rig to run one of
+###163 these Free Valve actuators.
+###164 So basically, here you have the valve.
+###166 Here you have the actuator.
+###166 It goes into it like this.
+###168 This is lubricated by engine oil and pressurized by
+###172 pressurized air, which acts like an air hammer
+###175 to move this out.
+###176 Then the engine oil makes sure it stays stable and can lock
+###180 it in different positions.
+###181 And then air spring or a metal spring pushes it back.
+###186 So we have individual control over each valve, which brings
+###189 great benefit to the combustion
+###192 cycles in the engine.
+###195 So it's actually a snowballing effect.
+###196 The engine becomes lighter, smaller, cheaper, cleaner.
+###200 It can change the look of the car in the end.
+###202 So it's a very, very interesting technology that
+###204 I'm sure, one way or the other, will conquer the
+###207 cylinder heads of the world.
+###209 So here we'll go into a little bit of details how it works.
+###212 Urban, who is partly responsible for this
+###215 development, will show you a little bit what it looks like.
+###219 URBAN CARLSON: It's a very simple control system.
+###222 We have one signal for each valve.
+###227 And when we tell it to open, it opens with a few
+###230 milliseconds delay.
+###231 And when we tell it to close, it closes with, again, a few
+###235 milliseconds delay.
+###237 This it can do at very high speeds, up to
+###240 20,000 RPM, if necessary.
+###243 CHRISTIAN VON KOENIGSEGG: The same size of actuator is
+###244 actually good for a small motorcycle engine revving
+###248 15,000 RPM and a truck engine revving 2,500 RPM.
+###253 Because the motorcycle valve is very light, so it takes the
+###257 same energy to drive it backwards and forwards at
+###259 15,000 RPM as it takes to drive a huge, heavy truck
+###263 valve backwards and forwards at 2,500 RPM.
+###266 So it's very neat that the same actuator basically covers
+###269 the need for all different engine sizes.
+###272 So now we're running at what kind of RPM here?
+###274 URBAN CARLSON: Well, here's a little bit over idle.
+###278 CHRISTIAN VON KOENIGSEGG: This is actually the
+###279 movement of the valve.
+###281 So you can see it goes quickly up.
+###283 And then it stays flat.
+###285 It's like having a square camshaft profile to make the
+###287 engine breathe really well.
+###289 If you would have a square camshaft profile, it would
+###291 break immediately, because it would jump off the edges and
+###295 would start hitting the valve stem.
+###297 And it wouldn't work.
+###298 But with the Free Valve system, you can actually open
+###301 any way you like and open really fast, stay open flat,
+###304 and then drop down.
+###305 Here it's possible to see the valve sequence as well.
+###308 That is a smooth curve, so it doesn't hit the valve so you
+###310 create noise and wear.
+###311 
+###317 URBAN CARLSON: This is 3,000 RPM.
+###321 And you can see still a square form of the valve curve.
+###327 
+###334 This is 9,000 RPM.
+###346 CHRISTIAN VON KOENIGSEGG: So this might just look like an
+###349 old Saab to you all.
+###351 And in fact, it is, apart from one aspect.
+###355 
+###358 That aspect is what you see that's red here.
+###360 And that's the cylinder head, which has been modified to
+###363 accommodate our Cargine Free Valve system.
+###367 So basically what we've done here is we've taken the
+###371 cylinder head apart, machined out all the mountings and so
+###374 on for the camshafts, and installed 16 Cargine Free
+###379 Valve actuators.
+###381 And then we have designed a special valve cover.
+###384 Or it's not really a valve cover.
+###386 It's more a lid containing pressurized air channels and
+###391 pressurized oil channels coming from
+###392 the engine oil side.
+###395 You can see the height of this black cover here.
+###398 That's the same height as the standard cylinder
+###399 head used to be.
+###401 So even when we retrofit it, when it's not optimized for
+###404 space, it's anyway lower than the standard cylinder head.
+###408 So the engine actually shrinks and becomes lighter.
+###410 If we would have made a cylinder head from scratch,
+###413 instead of retrofitting into an existing cylinder head, it
+###416 would also become much narrower and even lower.
+###419 And this whole section here, which is a cover for where the
+###423 chain drive and for the camshaft used to sit, would
+###425 disappear completely.
+###427 So the engine would also become a lot shorter.
+###429 Basically, when you go from a camshaft to Cargine Free
+###433 Valves, the size of a four-cylinder engine becomes
+###437 just a little bit bigger than the size of a
+###439 three-cylinder engine.
+###440 And then, of course, if you cut away one cylinder to
+###445 maintain the power and torque level you used to have in your
+###448 four-cylinder engine, then it becomes really much smaller.
+###452 So this car here has been running with Cargine Free
+###455 Valve system, winter and summer, for the
+###458 last 2 and 1/2 years.
+###460 We've accumulated almost 60,000 kilometers, without any
+###464 failure whatsoever to the Free Valve system.
+###468 It's just been upgraded with our latest generation,
+###470 actuator generation 5, on both the intake an exhaust side of
+###475 the engine.
+###476 And it's been tested at the testing institute, called AVL,
+###480 with up to 20% improvement in fuel efficiency so far.
+###487 And that's just the starting point, I would say.
+###489 This is more a test field to run for durability and for
+###493 cold starts, even in the winter, down to minus 20
+###496 degrees Celsius.
+###497 But it's really exciting.
+###498 And it's, I think, one of the few cars in the world that is
+###502 running with no camshaft whatsoever.
+###505 When it's fully optimized, we're expecting to have 30%
+###510 less fuel consumption, 30% more torque, and 30% more
+###515 power, and, in an average driving
+###516 cycle, 50% less emissions.
+###520 And that's without connecting it to the possibility, which
+###523 is very interesting, which is an air tank.
+###526 Given this valve technology, we can actually recoup energy
+###529 while engine braking, by using the engine as an air pump,
+###535 pumping up a tank with air, getting air pressure there,
+###539 and then driving off only on that air, using the engine as
+###543 a compressor or, let's say, an air engine.
+###547 That compressed air can also be used for boosting the
+###550 engine while using fuel to have a really big, quick
+###556 spooling turbo which consumes no energy.
+###559 So instead of storing energy in the battery and like a
+###562 battery, we're using an empty tank of air.
+###564 So that's the next step of this technology.
+###566 But already, without that, it's a huge benefit, compared
+###569 to normal camshafts.
+###571 This technology is not yet in Koenigsegg.
+###574 And it's something, of course, we might plan
+###575 to do for the future.
+###576 It will be another three, four years out, before it's in any
+###580 production car.
+###581 And hopefully, the Koenigsegg could be one of the first.
+###583 [MUSIC PLAYING]

@@ -1,0 +1,3063 @@
+1
+0:0:2,5 --> 0:0:10,799
+The following program is brought
+to you in living colour on NBC.
+
+
+2
+0:0:10,799 --> 0:0:14,318
+Captain's log, Stardate 6010.1
+
+
+3
+0:0:14,318 --> 0:0:16,193
+While in the midst of a ship wide systems upgrade
+
+
+4
+0:0:16,193 --> 0:0:39,569
+The Enterprise has been ordered to depart star
+base 37, in response to a nearby distress call.
+
+
+5
+0:0:39,569 --> 0:0:44,27
+While there, I had the dubious honour of greeting
+the new admiral assigned to this sector.
+
+
+6
+0:0:44,27 --> 0:0:47,293
+Our time together, fortunately, was brief.
+
+
+7
+0:0:47,293 --> 0:0:49,404
+At last, we were underway.
+
+
+8
+0:0:49,404 --> 0:0:52,63
+Although I have mixed feelings knowing
+we are more than half way through
+
+
+9
+0:0:52,63 --> 0:0:54,253
+our five-year mission.
+
+
+10
+0:0:54,253 --> 0:0:56,779
+With Sulu at Starfleet for command training,
+
+
+11
+0:0:56,779 --> 0:0:59,236
+the promotion of Mr Chekov to head of security,
+
+
+12
+0:0:59,236 --> 0:1:2,41
+and the return of my former yeoman
+as a newly commissioned officer,
+
+
+13
+0:1:2,41 --> 0:1:7,645
+it seems the more things change,
+the more they stay the same.
+
+
+14
+0:1:7,645 --> 0:1:10,414
+Uhura, have you made any
+contact with the colony?
+
+
+15
+0:1:10,414 --> 0:1:13,853
+Negative Captain, I am no longer
+receiving the distress signal.
+
+
+16
+0:1:13,853 --> 0:1:17,154
+There is an unusual amount of
+interference on subspace.
+
+
+17
+0:1:17,154 --> 0:1:20,698
+- Captain, you wanted to know...
+- Not now Rand. Mr Spock, any readings?
+
+
+18
+0:1:20,698 --> 0:1:23,794
+Nothing yet, sir.
+We are still too far out.
+
+
+19
+0:1:23,794 --> 0:1:29,3
+- Mr DeSalle, what's our ETA?
+- 17 minutes to orbit, sir.
+
+
+20
+0:1:29,3 --> 0:1:32,345
+- Mr Scott?
+- Aye sir, I can give you more.
+
+
+21
+0:1:32,345 --> 0:1:35,58
+- Increase speed to Warp 7.
+- Aye, sir.
+
+
+22
+0:1:35,58 --> 0:1:37,878
+Captain, long-range scans available now.
+
+
+23
+0:1:37,878 --> 0:1:41,952
+Sensors indicate massive energy discharges.
+
+
+24
+0:1:41,952 --> 0:1:43,415
+The readings are off the scale.
+
+
+25
+0:1:43,415 --> 0:1:46,619
+DeSalle, go to maximum Warp.
+Lt Uhura, sound red alert.
+
+
+26
+0:1:46,619 --> 0:1:49,38
+Chekov, bring phasers and
+photon torpedoes online.
+
+
+27
+0:1:49,38 --> 0:1:51,589
+Phasers and photon torpedoes
+armed and ready, Captain.
+
+
+28
+0:1:51,589 --> 0:1:52,957
+Anything, Spock?
+
+
+29
+0:1:52,957 --> 0:1:57,296
+I am at a loss to explain, Captain.
+Sensors reveal two alien vessels,
+
+
+30
+0:1:57,296 --> 0:1:59,13
+then they simply vanished.
+
+
+31
+0:1:59,13 --> 0:2:1,901
+Two vessels?
+Could they have been working together?
+
+
+32
+0:2:1,901 --> 0:2:5,7
+- Unknown.
+- Uhura, anything from the colony?
+
+
+33
+0:2:5,7 --> 0:2:7,199
+Subspace channels are clearing.
+
+
+34
+0:2:7,199 --> 0:2:10,66
+I am receiving a transmission
+from the colony, now
+
+
+35
+0:2:10,66 --> 0:2:13,177
+- On screen, Lieutenant.
+- Aye sir.
+
+
+36
+0:2:13,177 --> 0:2:16,148
+This is Captain James T. Kirk
+of the starship Enterprise.
+
+
+37
+0:2:16,148 --> 0:2:18,422
+Are you in need of assistance?
+
+
+38
+0:2:18,422 --> 0:2:23,532
+I'm Cal Strickland, director of this
+research colony, here on Primus IV.
+
+
+39
+0:2:23,532 --> 0:2:27,238
+You sure took your sweet time,
+responding to our emergency.
+
+
+40
+0:2:27,238 --> 0:2:31,294
+Well we're here now.
+What's the nature of your distress call?
+
+
+41
+0:2:31,294 --> 0:2:34,319
+We have the situation under control
+now, no thanks to you.
+
+
+42
+0:2:34,319 --> 0:2:38,137
+We assumed this outpost was
+to be under your protection.
+
+
+43
+0:2:38,137 --> 0:2:42,78
+Director, it is.
+Now what exactly happened here?
+
+
+44
+0:2:42,78 --> 0:2:47,68
+A short time ago, a large object appears
+in orbit, randomly firing at the planet.
+
+
+45
+0:2:47,68 --> 0:2:50,666
+All attempts at communication
+were unsuccessful.
+
+
+46
+0:2:50,666 --> 0:2:53,855
+Director Strickland, could we please
+review your sensor data,
+
+
+47
+0:2:53,855 --> 0:2:55,983
+as it may contain additional information.
+
+
+48
+0:2:55,983 --> 0:3:1,2
+I'll transmit what we have.
+Of course, by now we are not
+
+
+49
+0:3:1,2 --> 0:3:4,764
+too concerned by a return visit by
+this intruder, thanks to the Onabi.
+
+
+50
+0:3:4,764 --> 0:3:6,297
+The what?
+
+
+51
+0:3:6,297 --> 0:3:10,569
+The Onabi. At least that's
+the name we were given.
+
+
+52
+0:3:10,569 --> 0:3:14,772
+As soon as the Onabi appeared,
+this intruder fled.
+
+
+53
+0:3:14,772 --> 0:3:17,73
+I'll have my chief medical officer
+coordinate with your people
+
+
+54
+0:3:17,73 --> 0:3:21,606
+and beam down anything you might need.
+In the meantime, we will remain here in orbit,
+
+
+55
+0:3:21,606 --> 0:3:23,914
+in case there is any more trouble.
+
+
+56
+0:3:23,914 --> 0:3:29,168
+Don't worry, Kirk. Fortunately, as long as we
+have the Onabi patrolling this sector.
+
+
+57
+0:3:29,168 --> 0:3:34,374
+we feel reasonably sure that we
+won't be calling on you anytime soon.
+
+
+58
+0:3:34,374 --> 0:3:38,897
+At least not if we need anything in a hurry!
+
+
+59
+0:3:38,897 --> 0:3:42,652
+Mr Chekov, cancel the red alert.
+Spock, analyse the sensor data.
+
+
+60
+0:3:42,652 --> 0:3:46,372
+See if you can determine the
+intruders course out of this system.
+
+
+61
+0:3:46,372 --> 0:3:49,74
+- Rand, you take care of that.
+- Yes, sir.
+
+
+62
+0:3:49,74 --> 0:3:59,426
+In the meantime, I will be in
+my quarters with a headache.
+
+
+63
+0:3:59,426 --> 0:4:11,477
+Here we go again.
+
+
+64
+0:4:11,477 --> 0:4:16,593
+Space, the final frontier.
+
+
+65
+0:4:16,593 --> 0:4:20,939
+These are the new voyages of
+the Starship Enterprise.
+
+
+66
+0:4:20,939 --> 0:4:24,902
+Its five-year mission, to explore strange new worlds.
+
+
+67
+0:4:24,902 --> 0:4:28,983
+To seek out new life and new civilizations.
+
+
+68
+0:4:28,983 --> 0:5:31,909
+To boldly go where no man has gone before.
+
+
+69
+0:5:31,909 --> 0:5:35,3
+Captain's Log, stardate 6011.2.
+
+
+70
+0:5:35,3 --> 0:5:38,861
+We are continuing our investigation
+of the mysterious intruder,
+
+
+71
+0:5:38,861 --> 0:5:41,846
+who has been attacking ships and
+outposts throughout this sector.
+
+
+72
+0:5:41,846 --> 0:5:45,132
+I am frustrated by the lack of information
+we have gathered thus far.
+
+
+73
+0:5:45,132 --> 0:5:47,799
+That, and by the fact that
+there is nothing to do but
+
+
+74
+0:5:47,799 --> 0:5:52,561
+wait for the Onabi or
+the intruder to reappear.
+
+
+75
+0:5:52,561 --> 0:5:57,867
+Captain, I do not recall previously
+viewing this representation.
+
+
+76
+0:5:57,867 --> 0:5:59,716
+What Spock?
+
+
+77
+0:5:59,716 --> 0:6:1,94
+The musical composition you have on display.
+
+
+78
+0:6:1,94 --> 0:6:5,696
+Oh, you mean the hymn.
+That belonged to my brother Sam.
+
+
+79
+0:6:5,696 --> 0:6:10,585
+My mother gave it to he and Aurelan
+when they left for Denova.
+
+
+80
+0:6:10,585 --> 0:6:11,858
+What is it Spock?
+
+
+81
+0:6:11,858 --> 0:6:14,423
+I do not understand the words.
+
+
+82
+0:6:14,423 --> 0:6:19,287
+'Amazing grace, how sweet the sound
+that saved a wretch like me?'
+
+
+83
+0:6:19,287 --> 0:6:26,922
+'I once was lost but now I'm found,
+was blind but now I see. '
+
+
+84
+0:6:26,922 --> 0:6:30,888
+Well Spock, it is about us. It is about
+what we are supposedly doing out here.
+
+
+85
+0:6:30,888 --> 0:6:34,22
+Extending compassion to those
+in need, saving the lost.
+
+
+86
+0:6:34,22 --> 0:6:39,26
+Helping those people who can't help themselves
+and asking nothing in return.
+
+
+87
+0:6:39,26 --> 0:6:41,69
+But, the song would seem
+to indicate a deity.
+
+
+88
+0:6:41,69 --> 0:6:43,771
+Were not the religious
+conflicts of your world,
+
+
+89
+0:6:43,771 --> 0:6:45,82
+what led your species to
+the brink of destruction?
+
+
+90
+0:6:45,82 --> 0:6:50,735
+- Yes, but it is the ideal that survives.
+- Then the hymn is still relevant.
+
+
+91
+0:6:50,735 --> 0:6:54,434
+I shall endeavour to study it further.
+
+
+92
+0:6:54,434 --> 0:7:0,337
+- Your move, Captain.
+- Come.
+
+
+93
+0:7:0,337 --> 0:7:6,723
+- Beware Romulans bearing gifts.
+- Why Bones? Romulan Ale!
+
+
+94
+0:7:6,723 --> 0:7:10,224
+You are aware, doctor, that Romulan ale
+is illegal in federation space?
+
+
+95
+0:7:10,224 --> 0:7:14,82
+I only use it for medicinal purposes.
+Now this looks familiar.
+
+
+96
+0:7:14,82 --> 0:7:16,841
+I will have in check-mate
+with his next move.
+
+
+97
+0:7:16,841 --> 0:7:20,4
+Spock, you play the most irritating
+game of chess in the galaxy.
+
+
+98
+0:7:20,4 --> 0:7:24,587
+Irritating, doctor?
+
+
+99
+0:7:24,587 --> 0:7:32,563
+Check-mate.
+
+
+100
+0:7:32,563 --> 0:7:35,332
+Sure you don't know what irritating is?
+
+
+101
+0:7:35,332 --> 0:7:38,257
+The fact that my father
+married a human female...
+
+
+102
+0:7:38,257 --> 0:7:46,814
+- It's terrible having bad blood like that..
+- He may learn to enjoy it, some day.
+
+
+103
+0:7:46,814 --> 0:7:50,76
+- Kirk here. Go ahead, Lieutenant.
+- Captain, receiving a message
+
+
+104
+0:7:50,76 --> 0:7:52,976
+from Starbase 37. It's Admiral Leslie.
+
+
+105
+0:7:52,976 --> 0:7:56,608
+Admiral Leslie. Any relation to our Mr Leslie?
+
+
+106
+0:7:56,608 --> 0:8:0,17
+- It's his father.
+- He has got to be adopted!
+
+
+107
+0:8:0,17 --> 0:8:3,65
+- Highly unlikely, doctor.
+- Go ahead Lt, put him through.
+
+
+108
+0:8:3,65 --> 0:8:7,74
+Admiral. To what do I owe this pleasure?
+
+
+109
+0:8:7,74 --> 0:8:11,216
+Don't get cute, Kirk. Just what
+the hell is going on out there?
+
+
+110
+0:8:11,216 --> 0:8:13,642
+- Sir?
+- I just got a transmission
+
+
+111
+0:8:13,642 --> 0:8:17,527
+from Cal Strickland, the
+director of Primus IV.
+
+
+112
+0:8:17,527 --> 0:8:19,905
+Yes, Admiral and about that situation...
+
+
+113
+0:8:19,905 --> 0:8:27,444
+Cal Strickland is one of the federation's
+most brilliant research archaeologists.
+
+
+114
+0:8:27,444 --> 0:8:29,574
+And he is my friend.
+
+
+115
+0:8:29,574 --> 0:8:35,128
+Imagine the shock that I felt when the
+very Starship I sent to protect him
+
+
+116
+0:8:35,128 --> 0:8:36,464
+is nowhere in sight.
+
+
+117
+0:8:36,464 --> 0:8:39,15
+Now you listen to me, Kirk.
+
+
+118
+0:8:39,15 --> 0:8:41,978
+You find out who's responsible for this,
+or you are going to be watching
+
+
+119
+0:8:41,978 --> 0:8:46,385
+storage consignments of grain
+for the next two years.
+
+
+120
+0:8:46,385 --> 0:8:49,307
+Do I make myself clear, Captain?
+
+
+121
+0:8:49,307 --> 0:8:51,725
+As clearly as can be expected...
+
+
+122
+0:8:51,725 --> 0:8:55,384
+What was that?
+Don't cross me, Kirk.
+
+
+123
+0:8:55,384 --> 0:8:58,903
+If you think for one minute,
+that you can push this admiral around
+
+
+124
+0:8:58,903 --> 0:9:1,12
+you have got another thing comÖ
+
+
+125
+0:9:1,12 --> 0:9:6,212
+Captain, I am receiving an urgent distress
+signal from the transport tug, Al Rashid.
+
+
+126
+0:9:6,212 --> 0:9:8,456
+They are under attack near
+the Klaxor-disturbance
+
+
+127
+0:9:8,456 --> 0:9:11,798
+by a ship matching the description
+of the intruder at Primus IV.
+
+
+128
+0:9:11,798 --> 0:9:15,947
+Go to Red-Alert. Mr Scott, divert all ship's
+power to the engines. I want Warp 8.
+
+
+129
+0:9:15,947 --> 0:9:18,726
+Lay in a direct course to the Al Rashid.
+I am on my way.
+
+
+130
+0:9:18,726 --> 0:9:22,371
+- What about the Admiral?
+- I am sure he will call back.
+
+
+131
+0:9:22,371 --> 0:9:30,34
+Red-Alert. All hands man your battle
+stations. This is not a drill.
+
+
+132
+0:9:30,34 --> 0:9:34,807
+Red-Alert. All hands man your battle
+stations. This is not a drill.
+
+
+133
+0:9:34,807 --> 0:9:37,542
+- Report.
+- We are closing fast on the Al Rashid.
+
+
+134
+0:9:37,542 --> 0:9:40,639
+- She is reporting that she is under attack.
+- The Al Rashid reports a second vessel
+
+
+135
+0:9:40,639 --> 0:9:43,853
+moving in to position.
+They're challenging the intruder.
+
+
+136
+0:9:43,853 --> 0:9:45,555
+The Onabi, I presume.
+
+
+137
+0:9:45,555 --> 0:9:48,559
+- Are we within visual range?
+- Coming in range now, sir.
+
+
+138
+0:9:48,559 --> 0:9:50,781
+On screen. Slow to one half impulse power.
+
+
+139
+0:9:50,781 --> 0:9:53,9
+Put us between...
+
+
+140
+0:9:53,9 --> 0:10:0,401
+My God!
+
+
+141
+0:10:0,401 --> 0:10:3,396
+- Sir, something is jamming the signal.
+- Spock, any readings?
+
+
+142
+0:10:3,396 --> 0:10:5,8
+The intruder vessel no longer appears on sensors.
+
+
+143
+0:10:5,8 --> 0:10:8,66
+and the smaller ship is moving off.
+
+
+144
+0:10:8,66 --> 0:10:10,63
+Plot an intercept course.
+Try to hail them.
+
+
+145
+0:10:10,63 --> 0:10:12,544
+There is no answer to our hails, sir.
+
+
+146
+0:10:12,544 --> 0:10:14,841
+- She is going into Warp.
+- Lock a tractor beam on to her, Scotty.
+
+
+147
+0:10:14,841 --> 0:10:21,48
+Aye, sir.
+
+
+148
+0:10:21,48 --> 0:10:23,153
+That's got her. She's slowing.
+
+
+149
+0:10:23,153 --> 0:10:25,189
+Still no answer to hail, sir.
+
+
+150
+0:10:25,189 --> 0:10:27,548
+Mr Scott, can you get a lock
+on anyone on board?
+
+
+151
+0:10:27,548 --> 0:10:30,957
+There is a lot of interference sir,
+but I have got a lock on something...
+
+
+152
+0:10:30,957 --> 0:10:34,331
+Alert the transporter room.
+Mr Chekov, have a security team standing by.
+
+
+153
+0:10:34,331 --> 0:10:40,562
+Mr Spock, you have the con.
+
+
+154
+0:10:40,562 --> 0:10:54,862
+Transporter room, stand-by.
+
+
+155
+0:10:54,862 --> 0:10:57,132
+- Do we still have a lock?
+- Aye, sir.
+
+
+156
+0:10:57,132 --> 0:11:1,666
+Energize.
+
+
+157
+0:11:1,666 --> 0:11:5,329
+- Recalibrating. Stand-by.
+- What's the problem?
+
+
+158
+0:11:5,329 --> 0:11:9,674
+It's these circuits, sir. We have barely
+tested the new transporters.
+
+
+159
+0:11:9,674 --> 0:11:12,558
+These reading are like nothing
+I have ever seen before.
+
+
+160
+0:11:12,558 --> 0:11:25,773
+Remind me not to use that contraption... ever!
+
+
+161
+0:11:25,773 --> 0:11:31,26
+- Greetings, sentient beings.
+- Bones, how do you read that thing?
+
+
+162
+0:11:31,26 --> 0:11:33,897
+Whatever it is, it doesnít
+register on my tricorder.
+
+
+163
+0:11:33,897 --> 0:11:40,3
+Please do not interrupt when I am speaking.
+
+
+164
+0:11:40,3 --> 0:11:45,894
+Captain,...
+
+
+165
+0:11:45,894 --> 0:11:47,105
+Thank you.
+
+
+166
+0:11:47,105 --> 0:11:48,426
+What was that?
+
+
+167
+0:11:48,426 --> 0:11:51,347
+As I was saying: Greetings, sentient beings.
+
+
+168
+0:11:51,347 --> 0:11:55,261
+- I am Captain James T...
+- Captain, the circuits have activated themselves.
+
+
+169
+0:11:55,261 --> 0:11:57,548
+Someone else is beaming aboard.
+
+
+170
+0:11:57,548 --> 0:12:9,45
+- Mr Chekov, secure the room.
+- Aye, Captain.
+
+
+171
+0:12:9,45 --> 0:12:17,288
+Oh, was I supposed to wait
+until that thing was done?
+
+
+172
+0:12:17,288 --> 0:12:22,111
+I just have no patience.
+How is everything, dear?
+
+
+173
+0:12:22,111 --> 0:12:24,446
+- I am Ohn.
+- Now, Mr Chekov!
+
+
+174
+0:12:24,446 --> 0:12:27,542
+Force-field activated, sir.
+
+
+175
+0:12:27,542 --> 0:12:35,785
+Oh, that is so cute. Look Ohn,
+a force-field. Shall we play?
+
+
+176
+0:12:35,785 --> 0:12:38,699
+I am Onabi! You must release me!
+
+
+177
+0:12:38,699 --> 0:12:44,856
+Mr Chekov, take our guest
+to the brig to, get a grip.
+
+
+178
+0:12:44,856 --> 0:12:47,83
+I will be there later to question her.
+
+
+179
+0:12:47,83 --> 0:12:51,528
+The brig? Oh, I would love to go there.
+Captain, this is going to be so much fun.
+
+
+180
+0:12:51,528 --> 0:12:59,327
+Take me, my Russian!
+
+
+181
+0:12:59,327 --> 0:13:1,437
+What the hell was that?
+
+
+182
+0:13:1,437 --> 0:13:6,707
+Chekov, keep the force-field on that thing.
+
+
+183
+0:13:6,707 --> 0:13:9,636
+Lt Uhura, I would like you to come
+down to the transporter room
+
+
+184
+0:13:9,636 --> 0:13:12,254
+- and have a look at our guest, Ohn.
+- Aye, sir.
+
+
+185
+0:13:12,254 --> 0:13:30,853
+- Mr Chekov, you stay here and... help.
+- Aye, Captain.
+
+
+186
+0:13:30,853 --> 0:13:37,557
+These readings are useless,
+we have to lower the force-field.
+
+
+187
+0:13:37,557 --> 0:13:46,319
+In a way, it's beautiful.
+
+
+188
+0:13:46,319 --> 0:13:50,758
+Uhura! No!
+
+
+189
+0:13:50,758 --> 0:13:58,179
+- ... only Vulcans, now you will die.
+- Go to the side, Mr Chekov.
+
+
+190
+0:13:58,179 --> 0:14:7,731
+And now, I will deal with you, Lieutenant.
+
+
+191
+0:14:7,731 --> 0:14:11,236
+Scott to sick-bay. We have a medical
+emergency in the transporter-room.
+
+
+192
+0:14:11,236 --> 0:14:19,24
+Please respond immediately.
+
+
+193
+0:14:19,24 --> 0:14:22,202
+Captain's log, stardate 6012.4.
+
+
+194
+0:14:22,202 --> 0:14:26,842
+The Al-Rashid has received repairs and
+is continuing on her resupply mission.
+
+
+195
+0:14:26,842 --> 0:14:30,151
+We have taken Onabi into custody
+and are holding her for questioning.
+
+
+196
+0:14:30,151 --> 0:14:33,759
+Sir? I have Captain Jeffries online.
+
+
+197
+0:14:33,759 --> 0:14:38,98
+On screen, Lieutenant.
+Captain, is everything alright over there?
+
+
+198
+0:14:38,98 --> 0:14:42,72
+What the hell was that thing, Jim?
+It came at us out of nowhere.
+
+
+199
+0:14:42,72 --> 0:14:46,439
+We're not certain. It's not the first time,
+that we have heard about this intruder,
+
+
+200
+0:14:46,439 --> 0:14:49,56
+but it was the first time
+that we were able to see it.
+
+
+201
+0:14:49,56 --> 0:14:53,419
+Now, if you hadn't shown
+up when you did...
+
+
+202
+0:14:53,419 --> 0:14:57,663
+Our sensors indicated a second ship
+for a moment. Did you read that?
+
+
+203
+0:14:57,663 --> 0:15:0,522
+We did. We were able to
+bring the pilot on board and
+
+
+204
+0:15:0,522 --> 0:15:2,515
+we think the two might be
+connected in some way.
+
+
+205
+0:15:2,515 --> 0:15:4,294
+We hope to get some answers,
+to all of this, soon.
+
+
+206
+0:15:4,294 --> 0:15:12,688
+Alright Jim. Well you take it easy out here.
+That ship of yours is getting quite a reputation.
+
+
+207
+0:15:12,688 --> 0:15:16,18
+So it would seem. Is there anything else
+that we might be able to do for you?
+
+
+208
+0:15:16,18 --> 0:15:21,219
+No, we're fine. Besides, we need to
+get back to Starbase 24 as it is.
+
+
+209
+0:15:21,219 --> 0:15:42,473
+- Safe travels, Matt.
+- Same.
+
+
+210
+0:15:42,473 --> 0:15:44,135
+How are Chekov and Uhura, Bones?
+
+
+211
+0:15:44,135 --> 0:15:49,152
+Pretty shook-up, Jim. They described
+seeing visions of the ship, the crew.
+
+
+212
+0:15:49,152 --> 0:15:50,969
+Some pretty wild stuff.
+
+
+213
+0:15:50,969 --> 0:15:53,797
+Whatever it was, it happened when
+they came in contact with Ohn.
+
+
+214
+0:15:53,797 --> 0:15:57,219
+A device with the ability to project
+holograms and induce hallucinations
+
+
+215
+0:15:57,219 --> 0:15:59,12
+should be considered an
+extreme hazard, Captain.
+
+
+216
+0:15:59,12 --> 0:16:3,527
+Hallucinations, maybe. But I have
+got two people in sick-bay,
+
+
+217
+0:16:3,527 --> 0:16:5,785
+who swear what they saw really happened.
+
+
+218
+0:16:5,785 --> 0:16:7,973
+What I want to know is who this Onabi is.
+
+
+219
+0:16:7,973 --> 0:16:11,158
+Spock, have we learned anything
+from the sensor data?
+
+
+220
+0:16:11,158 --> 0:16:14,325
+Nothing of use, Captain. The intruder ships
+seem to have appeared out of nowhere.
+
+
+221
+0:16:14,325 --> 0:16:16,533
+Could they have been
+using a cloaking device?
+
+
+222
+0:16:16,533 --> 0:16:19,992
+Unknown. It does appear, Onabi
+drove the intruder ship off.
+
+
+223
+0:16:19,992 --> 0:16:23,361
+If that's the case, she did indeed
+save the colony and the Al Rashid.
+
+
+224
+0:16:23,361 --> 0:16:26,43
+Do we have anything
+definitive on this intruder?
+
+
+225
+0:16:26,43 --> 0:16:29,543
+If our scanners are to be believed,
+the size of the intruder vessel is
+
+
+226
+0:16:29,543 --> 0:16:32,675
+- two hundred times that of our own.
+- Two hundred times?
+
+
+227
+0:16:32,675 --> 0:16:35,636
+We could quite literally beam the
+Onabi Ship aboard the Enterprise.
+
+
+228
+0:16:35,636 --> 0:16:38,248
+While the intruder could beam us into theirs.
+
+
+229
+0:16:38,248 --> 0:16:41,205
+Nothing like being in the
+middle of the food chain.
+
+
+230
+0:16:41,205 --> 0:16:43,866
+Logically, there is another possibility, sir.
+
+
+231
+0:16:43,866 --> 0:16:47,501
+One could assume the intruder is merely
+a projection, created by our guests.
+
+
+232
+0:16:47,501 --> 0:16:50,701
+- For what purpose?
+- Perhaps to gain whatever reward is offered.
+
+
+233
+0:16:50,701 --> 0:16:53,419
+Or, she could be trying to
+destabilise the sector
+
+
+234
+0:16:53,419 --> 0:16:56,97
+and turn the neighbouring planets
+against the federation.
+
+
+235
+0:16:56,97 --> 0:16:58,74
+Do you two just sit around all
+day and make this stuff up?
+
+
+236
+0:16:58,74 --> 0:17:2,216
+Talk about 'paranoid'. Intergalactic plot...
+
+
+237
+0:17:2,216 --> 0:17:5,422
+Really doctor, your lack of reasoning
+seems more on par with...
+
+
+238
+0:17:5,422 --> 0:17:8,8
+Gentlemen, Gentlemen, please. We need to
+start working on getting some answers.
+
+
+239
+0:17:8,8 --> 0:17:11,988
+Then, Captain, may I request permission
+to question the prisoner?
+
+
+240
+0:17:11,988 --> 0:17:16,908
+Spock, that is one emotional woman down
+there. I'd better question her, Jim.
+
+
+241
+0:17:16,908 --> 0:17:18,965
+What she needs is some
+good old southern charm.
+
+
+242
+0:17:18,965 --> 0:17:23,114
+Doctor, your dismal record with emotional
+women, has already been established.
+
+
+243
+0:17:23,114 --> 0:17:25,98
+Why you green-blooded, inhuman son of a...
+
+
+244
+0:17:25,98 --> 0:17:29,134
+I think perhaps both of you
+should question her.
+
+
+245
+0:17:29,134 --> 0:17:32,264
+I am sure that between the two of you,
+you will discover who this intruder is
+
+
+246
+0:17:32,264 --> 0:17:35,584
+and how Onabi managed to
+drive him off three times now.
+
+
+247
+0:17:35,584 --> 0:17:37,9
+Well?
+
+
+248
+0:17:37,9 --> 0:17:38,353
+Aye, sir.
+
+
+249
+0:17:38,353 --> 0:18:1,622
+Yes, sir.
+
+
+250
+0:18:1,622 --> 0:18:13,819
+- Lower the force-field.
+- Aye, sir.
+
+
+251
+0:18:13,819 --> 0:18:17,462
+Well, Spock - Say something?
+
+
+252
+0:18:17,462 --> 0:18:20,174
+I would say the young lady might
+be getting chilled by now.
+
+
+253
+0:18:20,174 --> 0:18:31,466
+What?
+
+
+254
+0:18:31,466 --> 0:18:34,731
+Captain, our guest has managed to escape.
+
+
+255
+0:18:34,731 --> 0:18:40,232
+This is the Captain: We have an intruder alert.
+I repeat. All decks, intruder alert.
+
+
+256
+0:18:40,232 --> 0:18:41,652
+Ms Rand, you have the bridge.
+
+
+257
+0:18:41,652 --> 0:18:42,608
+Sir?
+
+
+258
+0:18:42,608 --> 0:18:44,358
+You have had the proper training, haven't you?
+
+
+259
+0:18:44,358 --> 0:18:46,334
+- Yes, sir.
+- You are fully qualified?
+
+
+260
+0:18:46,334 --> 0:18:47,3
+Yes, sir!
+
+
+261
+0:18:47,3 --> 0:18:48,982
+Then I mean now, you have the bridge.
+
+
+262
+0:18:48,982 --> 0:18:57,2
+I'll be in security.
+
+
+263
+0:18:57,2 --> 0:19:9,4
+- Maintain position, helm.
+- Aye, Captain.
+
+
+264
+0:19:9,4 --> 0:19:12,991
+Pavel, it's good to see you
+on your feet again. Report.
+
+
+265
+0:19:12,991 --> 0:19:17,336
+Captain, all stations report secure.
+There is no sign of Onabi.
+
+
+266
+0:19:17,336 --> 0:19:21,583
+Mr Spock, take charge. When you
+find her, report to me immediately.
+
+
+267
+0:19:21,583 --> 0:19:23,204
+I'll be in my office.
+- Aye, sir.
+
+
+268
+0:19:23,204 --> 0:19:39,12
+You men check section 4. The rest
+head aft. Check each room.
+
+
+269
+0:19:39,12 --> 0:19:42,642
+What's wrong, Captain?
+Am I not to your liking?
+
+
+270
+0:19:42,642 --> 0:20:20,462
+Then perhaps something more like this...
+
+
+271
+0:20:20,462 --> 0:20:30,6
+I am reading an unknown energy source.
+From inside the Captain's office!
+
+
+272
+0:20:30,6 --> 0:20:35,231
+Well don't just stand there Spock.
+Do something.
+
+
+273
+0:20:35,231 --> 0:20:39,634
+- Chekov!
+- I'll apologize later.
+
+
+274
+0:20:39,634 --> 0:20:41,224
+How is she, Bones?
+
+
+275
+0:20:41,224 --> 0:20:43,597
+She'll be out for a while.
+
+
+276
+0:20:43,597 --> 0:20:46,575
+Move her back to the brig.
+Take maximum security precautions,
+
+
+277
+0:20:46,575 --> 0:20:48,41
+and let me know when
+she comes around.
+
+
+278
+0:20:48,41 --> 0:20:59,69
+Aye, sir.
+
+
+279
+0:20:59,69 --> 0:21:1,879
+It seems a little strange that
+a phaser set on stun
+
+
+280
+0:21:1,879 --> 0:21:4,168
+was enough to disable her
+after all we've seen.
+
+
+281
+0:21:4,168 --> 0:21:5,712
+Yeah, it does not make any sense, Jim.
+
+
+282
+0:21:5,712 --> 0:21:9,186
+But all my readings suggest that
+she is truly unconscious.
+
+
+283
+0:21:9,186 --> 0:21:12,626
+- Perhaps it is another ruse.
+- Oh, playing possum, eh Spock?
+
+
+284
+0:21:12,626 --> 0:21:14,946
+Not an unreasonable
+conclusion, doctor.
+
+
+285
+0:21:14,946 --> 0:21:17,631
+Well I'm through playing games.
+It's time we get to the bottom of all this
+
+
+286
+0:21:17,631 --> 0:21:24,68
+before a certain Admiral has
+our collective ass. Gentlemen.
+
+
+287
+0:21:24,68 --> 0:21:31,62
+<i>Lt Arex, report to main engineering.
+Ensign Capek, report to the bridge</i>
+
+
+288
+0:21:31,62 --> 0:21:33,721
+Scotty, if you don't sit
+still, I can't finish.
+
+
+289
+0:21:33,721 --> 0:21:36,311
+Aye lass, it's fine.
+It's just a wee bit sore.
+
+
+290
+0:21:36,311 --> 0:21:40,915
+You asked me to come down here.
+Now do you want me to help or not?
+
+
+291
+0:21:40,915 --> 0:21:47,589
+Aye. Go ahead.
+
+
+292
+0:21:47,589 --> 0:21:48,713
+There, done.
+
+
+293
+0:21:48,713 --> 0:21:51,696
+Ah, Christine, that feels
+much better. Thanks.
+
+
+294
+0:21:51,696 --> 0:21:54,645
+Now go on and make sure,
+Uhura is resting.
+
+
+295
+0:21:54,645 --> 0:22:4,237
+Aye.
+
+
+296
+0:22:4,237 --> 0:22:26,2
+With this ring, I thee wed.
+
+
+297
+0:22:26,2 --> 0:22:29,335
+Captain's log, Stardate 6013.7
+
+
+298
+0:22:29,335 --> 0:22:33,499
+There has been another incident
+with the device known as Ohn.
+
+
+299
+0:22:33,499 --> 0:22:35,62
+Just got back from sick bay.
+
+
+300
+0:22:35,62 --> 0:22:40,271
+Christine still hasn't come around. She was
+attached to that Ohn thing for a long time.
+
+
+301
+0:22:40,271 --> 0:22:43,166
+But fortunately there doesn't appear
+to be any permanent damage.
+
+
+302
+0:22:43,166 --> 0:22:46,596
+- Well how about Uhura?
+- Back on duty.
+
+
+303
+0:22:46,596 --> 0:22:49,21
+Makes you wish we had a
+ship's councillor on board!
+
+
+304
+0:22:49,21 --> 0:22:54,131
+Captain? I'm growing rather bored in here.
+Can we please move on?
+
+
+305
+0:22:54,131 --> 0:22:57,516
+Lower the force-field.
+- Ah, Captain Kirk.
+
+
+306
+0:22:57,516 --> 0:23:1,124
+May I first apologize for my previous antics?
+
+
+307
+0:23:1,124 --> 0:23:2,224
+I meant you no harm.
+
+
+308
+0:23:2,224 --> 0:23:4,602
+Nor we to you.
+
+
+309
+0:23:4,602 --> 0:23:6,519
+We simply want to learn more about you
+
+
+310
+0:23:6,519 --> 0:23:9,622
+and about this alien intruder that
+seems to be menacing this sector.
+
+
+311
+0:23:9,622 --> 0:23:13,981
+- Yes. The Mot-nahp.
+- The what?
+
+
+312
+0:23:13,981 --> 0:23:16,675
+The Mot-nahp, Doctor.
+
+
+313
+0:23:16,675 --> 0:23:19,861
+I most despicable menace.
+
+
+314
+0:23:19,861 --> 0:23:23,668
+I have roamed the galaxy since
+before your sun burnt hot in space.
+
+
+315
+0:23:23,668 --> 0:23:25,344
+But soon my journey ends.
+
+
+316
+0:23:25,344 --> 0:23:30,51
+- So you can destroy this Mot-nahp?
+- Destroy? No...
+
+
+317
+0:23:30,51 --> 0:23:34,176
+But contain the Mot-nahp, I can.
+And once contained, the menace shall end.
+
+
+318
+0:23:34,176 --> 0:23:37,238
+I must say, this all sounds rather epic.
+
+
+319
+0:23:37,238 --> 0:23:40,11
+But there's just too many
+aspects that don't add up.
+
+
+320
+0:23:40,11 --> 0:23:44,23
+Your vessel is simply too small to
+drive off an intruder of this size.
+
+
+321
+0:23:44,23 --> 0:23:46,541
+Do not believe what only
+your eyes tell you, Captain.
+
+
+322
+0:23:46,541 --> 0:23:50,854
+I think you'll find,
+not all is as it seems.
+
+
+323
+0:23:50,854 --> 0:23:52,526
+Angles and ministers of grace...
+
+
+324
+0:23:52,526 --> 0:23:54,935
+Scott to the Captain.
+
+
+325
+0:23:54,935 --> 0:23:56,295
+Kirk here. Go ahead Scotty.
+
+
+326
+0:23:56,295 --> 0:23:58,241
+We are discharging energy
+into the disturbance.
+
+
+327
+0:23:58,241 --> 0:24:0,927
+There's no reason for it, but
+it's happening sure enough.
+
+
+328
+0:24:0,927 --> 0:24:2,535
+Where's it coming from?
+
+
+329
+0:24:2,535 --> 0:24:5,88
+Instruments read that the discharge
+began near the Warp nacelles.
+
+
+330
+0:24:5,88 --> 0:24:9,191
+I'll have to take the mains
+offline to run a full diagnostic.
+
+
+331
+0:24:9,191 --> 0:24:11,961
+Alright Scotty, I'm on my way.
+- Aye, sir. - Kirk out.
+
+
+332
+0:24:11,961 --> 0:24:16,307
+Onabi, I am going to have
+to ask you to wait here.
+
+
+333
+0:24:16,307 --> 0:24:19,89
+If you do not release me,
+you will be sorry.
+
+
+334
+0:24:19,89 --> 0:24:33,347
+The only thing he's sorry about
+is pulling duty in this quadrant
+
+
+335
+0:24:33,347 --> 0:24:35,525
+Status report, Mr Scott.
+
+
+336
+0:24:35,525 --> 0:24:37,44
+We've had to take the mains offline.
+
+
+337
+0:24:37,44 --> 0:24:39,286
+The ships running on battery power only.
+
+
+338
+0:24:39,286 --> 0:24:44,364
+At our present rate of power consumption,
+we can maintain shipís status for 3.24 hours.
+
+
+339
+0:24:44,364 --> 0:24:47,13
+This should not be occurring.
+
+
+340
+0:24:47,13 --> 0:24:49,532
+It is my theory there is
+no actual power drain.
+
+
+341
+0:24:49,532 --> 0:24:51,899
+Are you daft, man?
+The indicators show otherwise.
+
+
+342
+0:24:51,899 --> 0:24:53,78
+Would you care to elaborate, Mr Spock?
+
+
+343
+0:24:53,78 --> 0:24:56,494
+Due to the nature of Ohn, this
+could be some ploy to make us
+
+
+344
+0:24:56,494 --> 0:24:59,173
+believe there is a power drain
+when none actually exists.
+
+
+345
+0:24:59,173 --> 0:25:0,362
+But for what purpose?
+
+
+346
+0:25:0,362 --> 0:25:2,991
+Perhaps to give Onabi
+a chance to save us.
+
+
+347
+0:25:2,991 --> 0:25:7,4
+Mr Spock, you've been able to mind-meld
+with intelligent machines before,
+
+
+348
+0:25:7,4 --> 0:25:9,385
+Is there any chance you
+can make contact with Ohn?
+
+
+349
+0:25:9,385 --> 0:25:12,14
+Captain! Considering the effect the
+contact with Ohn has had so far,
+
+
+350
+0:25:12,14 --> 0:25:15,113
+do you think it wise to
+deliberately touch that thing?
+
+
+351
+0:25:15,113 --> 0:25:18,634
+While the risk is great, the danger Ohn
+could pose to the Enterprise, is greater.
+
+
+352
+0:25:18,634 --> 0:25:22,102
+Captain, I believe this is our best course
+to understand what has been happening.
+
+
+353
+0:25:22,102 --> 0:25:25,842
+Mr Scott, Spock and I are going to deal with Ohn.
+Rand, maintain our position, here.
+
+
+354
+0:25:25,842 --> 0:25:28,606
+- Aye, sir.
+- Aye, sir.
+
+
+355
+0:25:28,606 --> 0:25:31,205
+Scott to engineering.
+I need a team to assist me
+
+
+356
+0:25:31,205 --> 0:25:39,6
+near the main junction circuitry
+at the matter/anti-matter chamber.
+
+
+357
+0:25:39,6 --> 0:25:40,909
+Ohn, this is Captain Kirk.
+
+
+358
+0:25:40,909 --> 0:25:44,477
+Yes, Captain. Mr Spock
+may touch my mind.
+
+
+359
+0:25:44,477 --> 0:25:47,479
+It is impressive that you knew of
+our goal before we told you, Ohn.
+
+
+360
+0:25:47,479 --> 0:25:51,103
+How did you come by this knowledge?
+
+
+361
+0:25:51,103 --> 0:25:53,982
+I guess we are just going to have to
+get this knowledge for ourselves.
+
+
+362
+0:25:53,982 --> 0:25:59,336
+Be careful, Spock.
+
+
+363
+0:25:59,336 --> 0:26:3,847
+Ohn, stop what you are doing!
+Spock!
+
+
+364
+0:26:3,847 --> 0:26:10,26
+Captain, with your permission, I shall now discuss
+these fuel equations with the engineer.
+
+
+365
+0:26:10,26 --> 0:26:14,601
+Mr Spock... welcome aboard.
+
+
+366
+0:26:14,601 --> 0:26:21,666
+I have been, and always shall be, your friend.
+
+
+367
+0:26:21,666 --> 0:26:24,752
+Live long and prosper.
+
+
+368
+0:26:24,752 --> 0:26:30,45
+No.
+
+
+369
+0:26:30,45 --> 0:26:31,74
+Don't you remember?
+
+
+370
+0:26:31,74 --> 0:26:33,365
+Ship... out of danger?
+
+
+371
+0:26:33,365 --> 0:26:39,105
+You saved the ship. You saved us all.
+Don't you remember?
+
+
+372
+0:26:39,105 --> 0:26:41,545
+- No - Yes
+- No - Yes
+
+
+373
+0:26:41,545 --> 0:26:44,394
+I love Italian food, and so do you.
+
+
+374
+0:26:44,394 --> 0:26:47,456
+Yes.
+
+
+375
+0:26:47,456 --> 0:26:49,912
+I thought I was going to die.
+
+
+376
+0:26:49,912 --> 0:26:52,967
+Not possible, you were never alone.
+
+
+377
+0:26:52,967 --> 0:26:55,7
+Don't believe them, don't trust them!
+
+
+378
+0:26:55,7 --> 0:27:1,8
+- They are dying.
+- Let them die!
+
+
+379
+0:27:1,8 --> 0:27:12,229
+It was... fun. Oh my...
+Spock.
+
+
+380
+0:27:12,229 --> 0:27:21,2
+Gentlemen. Captain Kirk is alive.
+
+
+381
+0:27:21,2 --> 0:27:22,693
+Oh, are you alright, Mr Spock?
+
+
+382
+0:27:22,693 --> 0:27:25,252
+I am undamaged. Physically.
+
+
+383
+0:27:25,252 --> 0:27:30,103
+How did you get down here?
+Can you explain what just happened?
+
+
+384
+0:27:30,103 --> 0:27:33,207
+Those images were of no
+memories that I ever recall.
+
+
+385
+0:27:33,207 --> 0:27:36,808
+Ohn gave you a gift, Captain.
+Do you not recognize your own ambition?
+
+
+386
+0:27:36,808 --> 0:27:39,962
+I fail to see how answering in
+riddles will accomplish anything.
+
+
+387
+0:27:39,962 --> 0:27:42,742
+Those images that were shown
+to us, were they the future?
+
+
+388
+0:27:42,742 --> 0:27:45,693
+The future is not written, Mr Spock.
+
+
+389
+0:27:45,693 --> 0:27:48,671
+As to what you saw,
+I have no control over Ohn.
+
+
+390
+0:27:48,671 --> 0:27:52,431
+No control over Ohn? Then that means that
+that thing is a danger to the Enterprise.
+
+
+391
+0:27:52,431 --> 0:27:57,393
+Captain, do you not see, we are the same?
+Ohn is younger, but we are the same.
+
+
+392
+0:27:57,393 --> 0:28:0,546
+The threat is not from us, Captain Kirk.
+The threat is from without.
+
+
+393
+0:28:0,546 --> 0:28:3,46
+We have found no physical
+evidence of your intruder.
+
+
+394
+0:28:3,46 --> 0:28:6,867
+In addition, it is highly probably that Ohn
+is directly affecting ship operations.
+
+
+395
+0:28:6,867 --> 0:28:12,1
+That in itself is reason enough to consider
+that both he and yourself, the true threat.
+
+
+396
+0:28:12,1 --> 0:28:16,822
+You believe me to be a threat?
+You have no idea what's out there.
+
+
+397
+0:28:16,822 --> 0:28:22,335
+The Breen, the Cardassians,
+the Hirogen, the Dominion!
+
+
+398
+0:28:22,335 --> 0:28:25,833
+I'd have tried to make friends!
+
+
+399
+0:28:25,833 --> 0:28:28,536
+Get ready, Captain.
+None compare to the Mot-Nahp.
+
+
+400
+0:28:28,536 --> 0:28:32,361
+We don't respond well to threats, Onabi.
+
+
+401
+0:28:32,361 --> 0:28:34,829
+All hands, man your battle stations.
+
+
+402
+0:28:34,829 --> 0:28:36,382
+This is the Captain. Report!
+
+
+403
+0:28:36,382 --> 0:28:42,764
+Captain, the intruder has
+returned and is engaging.
+
+
+404
+0:28:42,764 --> 0:28:47,681
+I am on my way to the bridge.
+
+
+405
+0:28:47,681 --> 0:29:5,71
+I hope he's up to the game.
+
+
+406
+0:29:5,71 --> 0:29:8,191
+- Report!
+- Sir, shields are at 50%.
+
+
+407
+0:29:8,191 --> 0:29:10,825
+Another few hits like that and
+we will lose them altogether.
+
+
+408
+0:29:10,825 --> 0:29:16,147
+I've ordered Mr Scott to bring
+the mains back online.
+
+
+409
+0:29:16,147 --> 0:29:17,922
+What's she doing up here?
+
+
+410
+0:29:17,922 --> 0:29:19,628
+Just keep her out of the way.
+
+
+411
+0:29:19,628 --> 0:29:23,568
+Mr DeSalle, course 213 mark 4,
+three-quarters impulse power.
+
+
+412
+0:29:23,568 --> 0:29:24,178
+Aye, sir.
+
+
+413
+0:29:24,178 --> 0:29:25,682
+Lieutenant Uhura, anything?
+
+
+414
+0:29:25,682 --> 0:29:27,907
+Negative, sir. Hailing on all channels.
+
+
+415
+0:29:27,907 --> 0:29:32,752
+- They're coming for another pass.
+- Hang on!
+
+
+416
+0:29:32,752 --> 0:29:35,776
+Take evasive action!
+Get us out of that things line of fire!
+
+
+417
+0:29:35,776 --> 0:29:43,549
+Aye, sir!
+
+
+418
+0:29:43,549 --> 0:29:48,193
+Captain, we'll not survive another hit like that.
+We've got batteries only.
+
+
+419
+0:29:48,193 --> 0:29:51,687
+- Scotty, I need emergency power.
+- Aye sir, I'm working on it.
+
+
+420
+0:29:51,687 --> 0:29:56,792
+Captain, I'm receiving damage reports from
+all over the ship. Medical teams are responding.
+
+
+421
+0:29:56,792 --> 0:29:59,849
+Captain, if we maintain this course,
+we'll enter the Klaxor disturbance.
+
+
+422
+0:29:59,849 --> 0:30:2,28
+Our shields and sensors will be useless.
+
+
+423
+0:30:2,28 --> 0:30:4,693
+And so will the Mot-nahps.
+Take us in, Mr DeSalle.
+
+
+424
+0:30:4,693 --> 0:30:6,63
+Aye, sir.
+
+
+425
+0:30:6,63 --> 0:30:8,95
+Aren't we going to fight?
+
+
+426
+0:30:8,95 --> 0:30:10,686
+This isn't a fight we can win.
+This is about survival.
+
+
+427
+0:30:10,686 --> 0:30:13,838
+Take us as far in as we can go, Mr DeSalle.
+
+
+428
+0:30:13,838 --> 0:30:26,28
+Aye, sir. Entering the Klaxor disturbance, now.
+
+
+429
+0:30:26,28 --> 0:30:28,925
+Spock, anything on the sensors?
+
+
+430
+0:30:28,925 --> 0:30:31,473
+Negative. As I warned,
+sensors are inoperative.
+
+
+431
+0:30:31,473 --> 0:30:33,552
+Communications are
+down as well, Captain.
+
+
+432
+0:30:33,552 --> 0:30:36,578
+- Mr Scott, report.
+- The mains are back online.
+
+
+433
+0:30:36,578 --> 0:30:44,881
+Seems there was nothing wrong
+as Mr Spock suggested.
+
+
+434
+0:30:44,881 --> 0:30:46,756
+What was that?
+
+
+435
+0:30:46,756 --> 0:30:49,159
+The Mot-nahp is trying to
+determine your location,
+
+
+436
+0:30:49,159 --> 0:30:52,176
+by setting off anti-matter
+charges within the disturbance.
+
+
+437
+0:30:52,176 --> 0:30:54,212
+That means his sensors are down, too.
+
+
+438
+0:30:54,212 --> 0:30:57,139
+Spock, can you track where that
+weapons fire is coming from?
+
+
+439
+0:30:57,139 --> 0:30:59,328
+Our deflector-screens are
+directing particles in such a way
+
+
+440
+0:30:59,328 --> 0:31:2,674
+that we may be able to get a general
+idea of where the intruder is.
+
+
+441
+0:31:2,674 --> 0:31:5,94
+- How general?
+- Within a kilometre.
+
+
+442
+0:31:5,94 --> 0:31:8,678
+It would appear I owe you an apology.
+
+
+443
+0:31:8,678 --> 0:31:10,935
+None needed, Captain.
+
+
+444
+0:31:10,935 --> 0:31:14,115
+Of course, what you do next
+will determine your fate.
+
+
+445
+0:31:14,115 --> 0:31:18,594
+With a word, you will either
+doom or save your ship and crew.
+
+
+446
+0:31:18,594 --> 0:31:23,369
+Let me help.
+
+
+447
+0:31:23,369 --> 0:31:27,21
+Rand, do we have enough power to transport
+Ohn and Onabi back to their vessel?
+
+
+448
+0:31:27,21 --> 0:31:28,6
+Barely, sir.
+
+
+449
+0:31:28,6 --> 0:31:31,669
+Funnel all ship's power including life
+support into the transporter-room.
+
+
+450
+0:31:31,669 --> 0:31:32,307
+Sir?
+
+
+451
+0:31:32,307 --> 0:31:35,143
+Do it! It may be our only hope.
+
+
+452
+0:31:35,143 --> 0:31:49,96
+Mr Spock, would you please escort Onabi
+to the transporter-room? - Aye, sir.
+
+
+453
+0:31:49,96 --> 0:31:52,88
+Anything Rand?
+
+
+454
+0:31:52,88 --> 0:31:53,866
+Too much interference, sir
+
+
+455
+0:31:53,866 --> 0:31:56,897
+You performed rather well,
+while in command.
+
+
+456
+0:31:56,897 --> 0:32:0,369
+You kept your head in a crisis.
+That's the first major test
+
+
+457
+0:32:0,369 --> 0:32:1,918
+every commander has to face.
+
+
+458
+0:32:1,918 --> 0:32:5,857
+Knowing whether or not you'll rise
+to the occasion, or freeze - well done.
+
+
+459
+0:32:5,857 --> 0:32:7,405
+Thank you, Captain Kirk.
+
+
+460
+0:32:7,405 --> 0:32:10,486
+- Uhura, raise the transporter room.
+- Aye, sir.
+
+
+461
+0:32:10,486 --> 0:32:15,89
+- Transporter-room. Report.
+- Spock here. We are almost ready.
+
+
+462
+0:32:15,89 --> 0:32:17,312
+Onabi is communicating with Ohn, now.
+
+
+463
+0:32:17,312 --> 0:32:20,383
+One could describe them as
+being happy to see each other.
+
+
+464
+0:32:20,383 --> 0:32:22,957
+We are ready now, sir.
+
+
+465
+0:32:22,957 --> 0:32:36,799
+- Mr Spock, peace and long life.
+- Live long and prosper.
+
+
+466
+0:32:36,799 --> 0:32:40,705
+Seven years... what a waste!
+
+
+467
+0:32:40,705 --> 0:32:45,465
+Ohn?
+
+
+468
+0:32:45,465 --> 0:32:50,655
+- Well done, Mr Kyle.
+- You too, sir.
+
+
+469
+0:32:50,655 --> 0:32:53,173
+Transport complete, Captain.
+
+
+470
+0:32:53,173 --> 0:32:55,916
+Very good Spock. Now get
+back up here on the double.
+
+
+471
+0:32:55,916 --> 0:33:1,504
+Affirmative.
+
+
+472
+0:33:1,504 --> 0:33:5,787
+Captain, I'm receiving a very weak
+signal from Onabi. It's audio only.
+
+
+473
+0:33:5,787 --> 0:33:7,586
+Let's hear it, Lieutenant.
+
+
+474
+0:33:7,586 --> 0:33:12,75
+Captain Kirk, if you'd be so kind
+as to move your ship to 127 mark 3,
+
+
+475
+0:33:12,75 --> 0:33:15,252
+I think we can get this taken care of.
+
+
+476
+0:33:15,252 --> 0:33:16,893
+Mr DeSalle, lay in a course.
+
+
+477
+0:33:16,893 --> 0:33:19,163
+That course will take us back to
+the edge of the disturbance, sir.
+
+
+478
+0:33:19,163 --> 0:33:30,3
+Go, DeSalle!
+
+
+479
+0:33:30,3 --> 0:33:38,95
+Sir, the intruder is right on our tail!
+
+
+480
+0:33:38,95 --> 0:33:42,354
+Mr DeSalle, bring us about, Chekov
+fire phasers and photon torpedoes!
+
+
+481
+0:33:42,354 --> 0:33:52,5
+Firing all phasers, torpedoes away!
+
+
+482
+0:33:52,5 --> 0:34:3,676
+There's no effect, sir!
+
+
+483
+0:34:3,676 --> 0:34:6,156
+Uhura, jettison the log buoy.
+Signal all hands to abandon...
+
+
+484
+0:34:6,156 --> 0:34:16,39
+- Captain, look!
+- Stand by, Uhura.
+
+
+485
+0:34:16,39 --> 0:34:18,199
+Spock, are the sensors back online?
+
+
+486
+0:34:18,199 --> 0:34:19,458
+Affirmative, sir.
+
+
+487
+0:34:19,458 --> 0:34:22,226
+I'm reading no sign of the intruder...
+
+
+488
+0:34:22,226 --> 0:34:23,48
+...or of Onabi.
+
+
+489
+0:34:23,48 --> 0:34:27,184
+- Can you track her course?
+- Relaying coordinates to helm, now.
+
+
+490
+0:34:27,184 --> 0:34:36,839
+DeSalle, follow that ship.
+
+
+491
+0:34:36,839 --> 0:34:38,514
+Warp drive is down, sir.
+
+
+492
+0:34:38,514 --> 0:34:40,584
+Scotty, report.
+
+
+493
+0:34:40,584 --> 0:34:43,206
+Aye, the mains are down
+and this time for certain.
+
+
+494
+0:34:43,206 --> 0:34:46,318
+It will take several hours to repair, sir.
+
+
+495
+0:34:46,318 --> 0:34:49,595
+So that's it?
+It's over?
+
+
+496
+0:34:49,595 --> 0:34:51,896
+It would appear so, Rand.
+At least for now.
+
+
+497
+0:34:51,896 --> 0:34:57,672
+- Mr Spock, anything from the sensors?
+- Negative, Captain.
+
+
+498
+0:34:57,672 --> 0:35:0,92
+Looks like Onabi had one
+last trick up her sleeve.
+
+
+499
+0:35:0,92 --> 0:35:6,4
+Ms Rand, have Scotty begin
+damage control and keep on him.
+
+
+500
+0:35:6,4 --> 0:35:9,155
+Don't let him fool you with those
+factor-of-four time estimates.
+
+
+501
+0:35:9,155 --> 0:35:10,454
+- Aye, sir.
+- You have the bridge.
+
+
+502
+0:35:10,454 --> 0:35:14,754
+Lt Uhura, encode to Starfleet command
+my past week's log entries.
+
+
+503
+0:35:14,754 --> 0:35:23,0
+Mr Spock, your with me.
+- Aye, sir.
+
+
+504
+0:35:23,0 --> 0:35:26,967
+Repair teams report to Mr Scott
+in engineering, immediately.
+
+
+505
+0:35:26,967 --> 0:35:37,205
+All hands stand down from Red Alert.
+
+
+506
+0:35:37,205 --> 0:35:40,694
+Captain's personal log, stardate 6014.3
+
+
+507
+0:35:40,694 --> 0:35:45,11
+We continue to clean up our battle damage
+and repairs to the warp drive are nearly complete
+
+
+508
+0:35:45,11 --> 0:35:59,59
+The ship and crew have performed well,
+during this rather unique mission.
+
+
+509
+0:35:59,59 --> 0:36:2,145
+What's that you are playing, Spock?
+It sounds familiar.
+
+
+510
+0:36:2,145 --> 0:36:4,33
+A hymn, doctor, from old Earth.
+
+
+511
+0:36:4,33 --> 0:36:6,505
+The Captain recently introduced me to it.
+
+
+512
+0:36:6,505 --> 0:36:13,212
+I find the tune, most comforting.
+
+
+513
+0:36:13,212 --> 0:36:15,315
+What do you remember,
+anything specific?
+
+
+514
+0:36:15,315 --> 0:36:18,46
+Images mostly, Bones.
+There's just nothing concrete.
+
+
+515
+0:36:18,46 --> 0:36:20,908
+If it was indeed a glimpse at our future,
+
+
+516
+0:36:20,908 --> 0:36:23,11
+perhaps we should re-examine
+some of our methods.
+
+
+517
+0:36:23,11 --> 0:36:27,66
+One possible glimpse, Spock. Onabi said,
+the future is not yet written.
+
+
+518
+0:36:27,66 --> 0:36:30,485
+Maybe what we saw was
+just one possible outcome.
+
+
+519
+0:36:30,485 --> 0:36:34,605
+Perhaps as the hymn says, 'tis grace
+that's brought us safe thus far', Captain.
+
+
+520
+0:36:34,605 --> 0:36:37,43
+That's it Spock. You've got it!
+
+
+521
+0:36:37,43 --> 0:36:40,862
+Well, there's hope for him, yet.
+
+
+522
+0:36:40,862 --> 0:36:46,0
+Of course, on the other hand by changing -
+what was it Spock, our methods?
+
+
+523
+0:36:46,0 --> 0:36:48,954
+That could be what causes
+what you saw to come true.
+
+
+524
+0:36:48,954 --> 0:36:51,622
+The doctor makes an
+almost logical deduction.
+
+
+525
+0:36:51,622 --> 0:36:54,914
+it would appear the timeline
+has been altered, already.
+
+
+526
+0:36:54,914 --> 0:36:59,12
+Was that a joke, Spock?
+Is seemed like a joke.
+
+
+527
+0:36:59,12 --> 0:37:1,729
+I am still puzzled as to the
+nature of the intruder.
+
+
+528
+0:37:1,729 --> 0:37:5,565
+If not a holographic image, they could be
+a major threat to the federation.
+
+
+529
+0:37:5,565 --> 0:37:8,892
+Well, maybe what we saw was
+the vision of a future invader.
+
+
+530
+0:37:8,892 --> 0:37:12,184
+God, I hope not. But I wouldn't mind
+running into Onabi again.
+
+
+531
+0:37:12,184 --> 0:37:14,645
+Gentlemen, that is for the future to decide.
+
+
+532
+0:37:14,645 --> 0:37:17,878
+A future, I hope, with
+many possibilities.
+
+
+533
+0:37:17,878 --> 0:37:21,614
+Captain Kirk, Admiral
+Leslie is calling on subspace.
+
+
+534
+0:37:21,614 --> 0:37:23,994
+He insists on speaking with you.
+
+
+535
+0:37:23,994 --> 0:37:25,86
+Put him through, Lieutenant.
+
+
+536
+0:37:25,86 --> 0:37:27,592
+Captain?
+
+
+537
+0:37:27,592 --> 0:37:29,757
+Admiral, I was just about
+to send you my report.
+
+
+538
+0:37:29,757 --> 0:37:34,515
+Fine, Kirk. In the meantime, let me tell
+you about your next assignment.
+
+
+539
+0:37:34,515 --> 0:37:38,952
+Oh, we're all ears, sir.
+
+
+540
+0:37:38,952 --> 0:37:46,506
+You will proceed to the following coordinates
+and rendezvous with two robot cargo ships.
+
+
+541
+0:37:46,506 --> 0:37:50,892
+carrying a shipment of grain
+to Sherman's Planet.
+
+
+542
+0:37:50,892 --> 0:37:55,98
+Admiral, may I just say on our behalf...
+
+
+543
+0:37:55,98 --> 0:38:0,572
+Oh no Kirk, oh no, wait.
+There's more...
+
+
+544
+0:38:0,572 --> 0:38:19,273
+Oh, boy.
+
+
+545
+0:38:19,273 --> 0:40:19,273
+English subtitles by Peter Walker
+www. startreknewvoyages. de
+
+

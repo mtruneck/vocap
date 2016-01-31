@@ -1,0 +1,6280 @@
+1
+0:0:0,0 --> 0:0:1,757
+
+
+
+2
+0:0:1,757 --> 0:0:3,84
+NATHAN ROGERS: Hi, and
+welcome to Talks at Google.
+
+
+3
+0:0:3,84 --> 0:0:5,52
+My name's Nathan Rogers.
+
+
+4
+0:0:5,52 --> 0:0:8,75
+And today, I've the pleasure
+of introducing one of my best
+
+
+5
+0:0:8,75 --> 0:0:12,18
+friends, Rose McAleese
+to give a talk today.
+
+
+6
+0:0:12,18 --> 0:0:14,27
+So without further
+ado, here is Rose.
+
+
+7
+0:0:14,27 --> 0:0:20,27
+
+
+
+8
+0:0:20,27 --> 0:0:22,36
+ROSE McALEESE: Hi, my
+name is Rose McAleese.
+
+
+9
+0:0:22,36 --> 0:0:24,849
+I'm a poet from
+Seattle, Washington.
+
+
+10
+0:0:24,849 --> 0:0:26,14
+I'm just going to jump into it.
+
+
+11
+0:0:26,14 --> 0:0:29,32
+
+
+
+12
+0:0:29,32 --> 0:0:32,95
+You want to divorce me.
+
+
+13
+0:0:32,95 --> 0:0:33,64
+Fine.
+
+
+14
+0:0:33,64 --> 0:0:37,45
+You wish to divorce me.
+
+
+15
+0:0:37,45 --> 0:0:41,38
+[DERISIVE LAUGH] You silly crow,
+wingspan too short of raven,
+
+
+16
+0:0:41,38 --> 0:0:43,39
+you foolish king, if
+it was not for me,
+
+
+17
+0:0:43,39 --> 0:0:46,1
+you would have no hunger
+for demise or conquer,
+
+
+18
+0:0:46,1 --> 0:0:48,43
+crave the flesh of another.
+
+
+19
+0:0:48,43 --> 0:0:53,17
+I, your lady, no chambermaid,
+rest assure and barren bed
+
+
+20
+0:0:53,17 --> 0:0:55,545
+for you, sit waiting past
+midnight's croning moan.
+
+
+21
+0:0:55,545 --> 0:0:59,2
+Your robes are washed
+daily by these hands.
+
+
+22
+0:0:59,2 --> 0:1:1,87
+Stone, cold water, rinse.
+
+
+23
+0:1:1,87 --> 0:1:4,8
+Make absence of any
+bloodshed, I, your wife,
+
+
+24
+0:1:4,8 --> 0:1:6,67
+clean up all your messes.
+
+
+25
+0:1:6,67 --> 0:1:9,95
+You play no judgment on such
+rash decisions as these.
+
+
+26
+0:1:9,95 --> 0:1:12,1
+No marks are made in your honor.
+
+
+27
+0:1:12,1 --> 0:1:12,6
+This.
+
+
+28
+0:1:12,6 --> 0:1:13,58
+Divorce?
+
+
+29
+0:1:13,58 --> 0:1:15,41
+You've wandered
+too far, my dear.
+
+
+30
+0:1:15,41 --> 0:1:17,43
+Coward, I'm calling
+you for a coward.
+
+
+31
+0:1:17,43 --> 0:1:20,42
+Coward, no hollow, no
+backbone to aspire.
+
+
+32
+0:1:20,42 --> 0:1:23,72
+Where will you go, Sire?
+
+
+33
+0:1:23,72 --> 0:1:26,79
+Oh, Macbeth, such
+childish quarrels as these
+
+
+34
+0:1:26,79 --> 0:1:28,11
+push us back in our demand.
+
+
+35
+0:1:28,11 --> 0:1:29,804
+Who will shine your blade?
+
+
+36
+0:1:29,804 --> 0:1:31,97
+Iron the wrinkles out of
+your half-hearted strategy.
+
+
+37
+0:1:31,97 --> 0:1:35,53
+It is the queen who
+makes all the moves.
+
+
+38
+0:1:35,53 --> 0:1:38,89
+My scenarios unravel like chess.
+
+
+39
+0:1:38,89 --> 0:1:42,24
+And you are just a
+pawn, oh my worship, you
+
+
+40
+0:1:42,24 --> 0:1:43,45
+are just a wooden pawn.
+
+
+41
+0:1:43,45 --> 0:1:46,385
+Names of former lovers
+hang over the mantelpiece
+
+
+42
+0:1:46,385 --> 0:1:47,74
+that is my heart.
+
+
+43
+0:1:47,74 --> 0:1:49,184
+Men, not worthy of royals.
+
+
+44
+0:1:49,184 --> 0:1:50,725
+You are lucky enough
+to be sacrificed
+
+
+45
+0:1:50,725 --> 0:1:53,47
+as a spark in your
+potential, flint
+
+
+46
+0:1:53,47 --> 0:1:55,29
+in the sense of
+you being my Lord.
+
+
+47
+0:1:55,29 --> 0:1:58,94
+Now, I know the women here
+back their husbands are
+
+
+48
+0:1:58,94 --> 0:2:2,765
+victim to naive, and God
+smack but I-- I play shadow.
+
+
+49
+0:2:2,765 --> 0:2:5,89
+I sit closely to
+your heels, because I
+
+
+50
+0:2:5,89 --> 0:2:10,77
+Lady Macbeth made every
+dagger a happy one.
+
+
+51
+0:2:10,77 --> 0:2:12,99
+Bash the ridiculous
+notion of failure.
+
+
+52
+0:2:12,99 --> 0:2:15,26
+One must steal if
+one is not given.
+
+
+53
+0:2:15,26 --> 0:2:18,1
+I vow no sleep will
+be lost over this.
+
+
+54
+0:2:18,1 --> 0:2:24,78
+And I know from experience
+all bloodshed can easily
+
+
+55
+0:2:24,78 --> 0:2:26,865
+be washed away.
+
+
+56
+0:2:26,865 --> 0:2:28,8
+Thanks.
+
+
+57
+0:2:28,8 --> 0:2:29,66
+Oh, I need water.
+
+
+58
+0:2:29,66 --> 0:2:30,48
+[APPLAUSE]
+
+
+59
+0:2:30,48 --> 0:2:31,92
+Oh, OK.
+
+
+60
+0:2:31,92 --> 0:2:35,39
+So I like doing that one first,
+because it gets the nerves out,
+
+
+61
+0:2:35,39 --> 0:2:36,9
+and it scares people.
+
+
+62
+0:2:36,9 --> 0:2:41,64
+So then I can win you back
+over as the talk goes.
+
+
+63
+0:2:41,64 --> 0:2:43,905
+So like I said, I'm
+a poet, a spoken word
+
+
+64
+0:2:43,905 --> 0:2:46,1
+poet from Seattle, Washington.
+
+
+65
+0:2:46,1 --> 0:2:50,19
+A little back history about
+myself-- I started doing poetry
+
+
+66
+0:2:50,19 --> 0:2:52,35
+'cause when I was
+in seventh grade,
+
+
+67
+0:2:52,35 --> 0:2:54,76
+I had a great teacher by
+the name of Miss Chestnut.
+
+
+68
+0:2:54,76 --> 0:2:58,61
+She realized that I was
+a rebel without a cause,
+
+
+69
+0:2:58,61 --> 0:3:2,85
+like I really tried to
+be a bad-- I can't cuss.
+
+
+70
+0:3:2,85 --> 0:3:5,8
+A bad butt, but I
+couldn't be, because I
+
+
+71
+0:3:5,8 --> 0:3:7,92
+was just like I had
+no reason to be mad.
+
+
+72
+0:3:7,92 --> 0:3:10,152
+So, of course, when you
+have no reason to be mad,
+
+
+73
+0:3:10,152 --> 0:3:12,36
+and you're seven years old,
+you start writing poetry.
+
+
+74
+0:3:12,36 --> 0:3:14,35
+And that's pretty much
+kind of where I started,
+
+
+75
+0:3:14,35 --> 0:3:17,33
+and then I became a spoken
+word artist slowly over time.
+
+
+76
+0:3:17,33 --> 0:3:19,544
+And then as time
+progressed, I realized
+
+
+77
+0:3:19,544 --> 0:3:20,71
+that I really love teaching.
+
+
+78
+0:3:20,71 --> 0:3:22,51
+And so I started being
+a teaching artist,
+
+
+79
+0:3:22,51 --> 0:3:24,66
+which is kind of what I do now.
+
+
+80
+0:3:24,66 --> 0:3:29,85
+And then I guess,
+almost two years ago, I
+
+
+81
+0:3:29,85 --> 0:3:31,59
+got my first book published.
+
+
+82
+0:3:31,59 --> 0:3:33,375
+You can like buy it now.
+
+
+83
+0:3:33,375 --> 0:3:35,3
+You can buy here later,
+which is exciting.
+
+
+84
+0:3:35,3 --> 0:3:38,7
+It's really weird to be like,
+I have a published book.
+
+
+85
+0:3:38,7 --> 0:3:41,38
+And so, yeah, I've
+just kind of been
+
+
+86
+0:3:41,38 --> 0:3:44,65
+a poet and everything
+and whatnot.
+
+
+87
+0:3:44,65 --> 0:3:48,95
+I was super nervous about this
+talk for some weird reason.
+
+
+88
+0:3:48,95 --> 0:3:51,3
+I was watching all of
+the other Google talks.
+
+
+89
+0:3:51,3 --> 0:3:54,12
+And I've noticed that you know,
+there's people like Tina Fey
+
+
+90
+0:3:54,12 --> 0:3:56,57
+and like Lady Gaga,
+who've all been here.
+
+
+91
+0:3:56,57 --> 0:4:0,16
+And so it was like, oh, OK,
+I'm neither of those people.
+
+
+92
+0:4:0,16 --> 0:4:2,37
+I don't know what
+I'm going to do.
+
+
+93
+0:4:2,37 --> 0:4:6,35
+So my father, god bless
+his soul-- he's not dead.
+
+
+94
+0:4:6,35 --> 0:4:7,75
+I don't know I just said that.
+
+
+95
+0:4:7,75 --> 0:4:9,44
+He's alive and well.
+
+
+96
+0:4:9,44 --> 0:4:13,526
+Anyway, my father told me start
+talking about what you love
+
+
+97
+0:4:13,526 --> 0:4:14,65
+and how passionate you are.
+
+
+98
+0:4:14,65 --> 0:4:15,61
+People will be
+able to read that.
+
+
+99
+0:4:15,61 --> 0:4:18,459
+And whenever I get nervous, I'm
+just going to jump into a poem.
+
+
+100
+0:4:18,459 --> 0:4:21,76
+So if I start doing something
+or anything, just go with it.
+
+
+101
+0:4:21,76 --> 0:4:22,91
+OK?
+
+
+102
+0:4:22,91 --> 0:4:25,16
+So like I said, I'm
+a teaching artist.
+
+
+103
+0:4:25,16 --> 0:4:27,71
+And the poem, I just
+did was a persona poem
+
+
+104
+0:4:27,71 --> 0:4:28,92
+about Lady Macbeth.
+
+
+105
+0:4:28,92 --> 0:4:30,84
+I'm a huge Shakespearean nerd.
+
+
+106
+0:4:30,84 --> 0:4:33,55
+I fell in love with Shakespeare
+when I was about 13 years old,
+
+
+107
+0:4:33,55 --> 0:4:35,83
+which was kind of just
+disturbing to my parents.
+
+
+108
+0:4:35,83 --> 0:4:37,4
+But they were just like,
+whatever, at least she's
+
+
+109
+0:4:37,4 --> 0:4:37,64
+reading.
+
+
+110
+0:4:37,64 --> 0:4:41,81
+Let her be all mournful
+and semi-teenage angst,
+
+
+111
+0:4:41,81 --> 0:4:43,4
+depressed or whatever it was.
+
+
+112
+0:4:43,4 --> 0:4:44,66
+So I started doing that.
+
+
+113
+0:4:44,66 --> 0:4:46,63
+And then I got into
+acting and realized
+
+
+114
+0:4:46,63 --> 0:4:49,6
+that poetry and spoken word
+is basically like acting,
+
+
+115
+0:4:49,6 --> 0:4:51,78
+but you get to write
+your own lines.
+
+
+116
+0:4:51,78 --> 0:4:54,56
+And so I started becoming
+a teaching artist.
+
+
+117
+0:4:54,56 --> 0:4:57,51
+And in schools, it's really
+hard to teach middle schoolers
+
+
+118
+0:4:57,51 --> 0:4:59,26
+and high school kids poetry.
+
+
+119
+0:4:59,26 --> 0:5:2,17
+They're like what do I need to
+know about a dead white guy,
+
+
+120
+0:5:2,17 --> 0:5:6,73
+pretty much, which is true,
+but also you can make your own
+
+
+121
+0:5:6,73 --> 0:5:7,92
+and revamp it.
+
+
+122
+0:5:7,92 --> 0:5:12,605
+Thank God for people like
+Jack Kerouac and Angela Davis
+
+
+123
+0:5:12,605 --> 0:5:15,23
+and all these people who've kind
+of like reinvented it and made
+
+
+124
+0:5:15,23 --> 0:5:16,646
+it their own and
+everything, which
+
+
+125
+0:5:16,646 --> 0:5:18,6
+is so much fun with
+slam poetry because it's
+
+
+126
+0:5:18,6 --> 0:5:24,74
+a mixture of beatniks, hip
+hop, rap and all that jazz.
+
+
+127
+0:5:24,74 --> 0:5:26,93
+So that poem was
+written from a writing
+
+
+128
+0:5:26,93 --> 0:5:28,51
+prompt that I came
+up with my kids,
+
+
+129
+0:5:28,51 --> 0:5:31,24
+where I asked them to
+take a fictional character
+
+
+130
+0:5:31,24 --> 0:5:33,85
+from either movie,
+a play or a book.
+
+
+131
+0:5:33,85 --> 0:5:35,46
+And they had to
+write a monologue
+
+
+132
+0:5:35,46 --> 0:5:37,74
+to get on a reality TV show.
+
+
+133
+0:5:37,74 --> 0:5:39,8
+So that was Lady
+Beth's monologue
+
+
+134
+0:5:39,8 --> 0:5:41,455
+to get on the "Bad Girls Club."
+
+
+135
+0:5:41,455 --> 0:5:43,58
+I don't know if you guys
+know the "Bad Girls Club,"
+
+
+136
+0:5:43,58 --> 0:5:45,326
+but it's a show
+on Oxygen Channel.
+
+
+137
+0:5:45,326 --> 0:5:47,45
+Oh my god, you need to
+watch the "Bad Girls Club" !
+
+
+138
+0:5:47,45 --> 0:5:50,509
+It is the best
+piece of feminism.
+
+
+139
+0:5:50,509 --> 0:5:51,5
+Just kidding.
+
+
+140
+0:5:51,5 --> 0:5:52,6
+It's not.
+
+
+141
+0:5:52,6 --> 0:5:53,849
+Basically, they take
+a bunch of girls
+
+
+142
+0:5:53,849 --> 0:5:55,89
+put them in a house with
+alcohol and Daddy issues
+
+
+143
+0:5:55,89 --> 0:5:57,99
+and just let them
+roam the world.
+
+
+144
+0:5:57,99 --> 0:5:59,3
+And they fight each other.
+
+
+145
+0:5:59,3 --> 0:6:2,65
+So let's be honest, Lady Macbeth
+would make it on that show,
+
+
+146
+0:6:2,65 --> 0:6:5,17
+and she'd be great.
+
+
+147
+0:6:5,17 --> 0:6:5,85
+You should watch it.
+
+
+148
+0:6:5,85 --> 0:6:8,86
+It's such a great
+guilty pleasure.
+
+
+149
+0:6:8,86 --> 0:6:9,592
+What else?
+
+
+150
+0:6:9,592 --> 0:6:11,3
+So, yeah, that's one
+of the pieces I did,
+
+
+151
+0:6:11,3 --> 0:6:13,78
+It's also in my
+book, which I have.
+
+
+152
+0:6:13,78 --> 0:6:14,53
+I want to show it.
+
+
+153
+0:6:14,53 --> 0:6:15,922
+Where is it?
+
+
+154
+0:6:15,922 --> 0:6:16,63
+I want to get it.
+
+
+155
+0:6:16,63 --> 0:6:17,8
+Sorry!
+
+
+156
+0:6:17,8 --> 0:6:18,49
+I should have had
+my props ready.
+
+
+157
+0:6:18,49 --> 0:6:19,827
+I'm running offscreen.
+
+
+158
+0:6:19,827 --> 0:6:20,91
+This is going to be crazy.
+
+
+159
+0:6:20,91 --> 0:6:23,68
+
+
+
+160
+0:6:23,68 --> 0:6:25,43
+I still can't get over this.
+
+
+161
+0:6:25,43 --> 0:6:28,79
+Like, I first got in my house
+one day, and there it was.
+
+
+162
+0:6:28,79 --> 0:6:32,546
+And some guy named Tom
+Robbins read it and liked it.
+
+
+163
+0:6:32,546 --> 0:6:33,92
+And so did Rachel
+[? McKibbens ?]
+
+
+164
+0:6:33,92 --> 0:6:36,99
+and [INAUDIBLE].
+
+
+165
+0:6:36,99 --> 0:6:41,75
+I'm going to read one
+more piece from this book.
+
+
+166
+0:6:41,75 --> 0:6:47,24
+I'll read a bunch of pieces,
+but I really like this piece.
+
+
+167
+0:6:47,24 --> 0:6:48,57
+So I grew up with a very-- oh!
+
+
+168
+0:6:48,57 --> 0:6:49,9
+Someone walking in.
+
+
+169
+0:6:49,9 --> 0:6:51,23
+Hi.
+
+
+170
+0:6:51,23 --> 0:6:57,68
+I grew up with a very, very
+Irish father, super Irish.
+
+
+171
+0:6:57,68 --> 0:6:59,54
+Also, a fun fact
+about this book,
+
+
+172
+0:6:59,54 --> 0:7:1,93
+I wrote it when I was single.
+
+
+173
+0:7:1,93 --> 0:7:4,419
+
+
+
+174
+0:7:4,419 --> 0:7:5,96
+Can't believe that
+I a boyfriend now,
+
+
+175
+0:7:5,96 --> 0:7:7,376
+because if you
+read this book, you
+
+
+176
+0:7:7,376 --> 0:7:9,72
+would be like why
+would you date her?
+
+
+177
+0:7:9,72 --> 0:7:13,38
+So, sorry for the
+guy who dates me.
+
+
+178
+0:7:13,38 --> 0:7:15,82
+This poem is called "Why
+I Don't Write Love Poems."
+
+
+179
+0:7:15,82 --> 0:7:18,51
+And it starts out with a
+quote from a smart man named
+
+
+180
+0:7:18,51 --> 0:7:22,81
+Charles McAleese, called "He
+Says People are no Damn Good,
+
+
+181
+0:7:22,81 --> 0:7:26,11
+and Men Are Worse."
+
+
+182
+0:7:26,11 --> 0:7:28,4
+I've come to the
+conclusion that I'm not
+
+
+183
+0:7:28,4 --> 0:7:32,5
+made for love, that feelings are
+just tightly wound compasses,
+
+
+184
+0:7:32,5 --> 0:7:35,27
+trying to make it home
+after a long night.
+
+
+185
+0:7:35,27 --> 0:7:37,78
+Romance is a store
+brand laundry detergent
+
+
+186
+0:7:37,78 --> 0:7:40,19
+we use to wash away our naive.
+
+
+187
+0:7:40,19 --> 0:7:42,17
+Why do we love love?
+
+
+188
+0:7:42,17 --> 0:7:44,72
+Love clearly hates us.
+
+
+189
+0:7:44,72 --> 0:7:47,4
+I don't trust men who
+know my middle name.
+
+
+190
+0:7:47,4 --> 0:7:49,12
+I don't trust men who
+can charm my father
+
+
+191
+0:7:49,12 --> 0:7:50,61
+or drink like him either.
+
+
+192
+0:7:50,61 --> 0:7:53,69
+I don't trust men who smile too
+big, whose best traits are all
+
+
+193
+0:7:53,69 --> 0:7:54,19
+physical.
+
+
+194
+0:7:54,19 --> 0:7:57,5
+I don't trust pretty
+boys with nice eyes.
+
+
+195
+0:7:57,5 --> 0:7:59,58
+I don't trust guys who ask,
+if you can't have children,
+
+
+196
+0:7:59,58 --> 0:8:1,2
+why do I need to wear a condom?
+
+
+197
+0:8:1,2 --> 0:8:3,68
+Well, first, you
+need to leave me
+
+
+198
+0:8:3,68 --> 0:8:6,32
+with a mouth of rusty nails
+and a clinic phone number.
+
+
+199
+0:8:6,32 --> 0:8:9,71
+One led me to believe that I
+can save fish from drowning.
+
+
+200
+0:8:9,71 --> 0:8:13,83
+That man gave me a hammer and
+told me to fix my own problems.
+
+
+201
+0:8:13,83 --> 0:8:17,56
+White Boy called me
+intimidating, too much.
+
+
+202
+0:8:17,56 --> 0:8:19,7
+Lover-- not the
+same shade as me,
+
+
+203
+0:8:19,7 --> 0:8:22,72
+reassures his mother
+I was just a friend.
+
+
+204
+0:8:22,72 --> 0:8:26,1
+Boy told me we would work out,
+because he didn't want children
+
+
+205
+0:8:26,1 --> 0:8:28,5
+either, because he made
+sure to call me a dead end
+
+
+206
+0:8:28,5 --> 0:8:29,49
+before he left.
+
+
+207
+0:8:29,49 --> 0:8:30,94
+There is a pattern.
+
+
+208
+0:8:30,94 --> 0:8:33,97
+I love like my body, barren.
+
+
+209
+0:8:33,97 --> 0:8:37,78
+Now men who say I'm too strong
+need to be men about it.
+
+
+210
+0:8:37,78 --> 0:8:40,73
+I mean handle your shit,
+make more eye contact,
+
+
+211
+0:8:40,73 --> 0:8:42,27
+speak more loudly
+and clearly when
+
+
+212
+0:8:42,27 --> 0:8:43,789
+you are walking away from me.
+
+
+213
+0:8:43,789 --> 0:8:46,5
+I will use this as
+experience to hold it
+
+
+214
+0:8:46,5 --> 0:8:48,21
+against the next
+pretty sucker who
+
+
+215
+0:8:48,21 --> 0:8:50,39
+marches his pretty
+little face my way.
+
+
+216
+0:8:50,39 --> 0:8:51,94
+Pray for him, birds.
+
+
+217
+0:8:51,94 --> 0:8:54,45
+Let's hope that
+one gets out alive.
+
+
+218
+0:8:54,45 --> 0:8:57,38
+Alert the others
+that I lust like war.
+
+
+219
+0:8:57,38 --> 0:9:0,95
+I know how to snap next, swallow
+nails, and flirt like Medusa.
+
+
+220
+0:9:0,95 --> 0:9:1,79
+Be forewarned.
+
+
+221
+0:9:1,79 --> 0:9:6,1
+I'm a maneater who is
+developing serious hunger pains.
+
+
+222
+0:9:6,1 --> 0:9:9,39
+I do not need to say
+or believe a thing.
+
+
+223
+0:9:9,39 --> 0:9:11,5
+You are no blacksmith.
+
+
+224
+0:9:11,5 --> 0:9:12,78
+You are no lumberjack.
+
+
+225
+0:9:12,78 --> 0:9:15,7
+Everything you leave
+is made out of sugar.
+
+
+226
+0:9:15,7 --> 0:9:18,1
+This will all crumble
+with one lick.
+
+
+227
+0:9:18,1 --> 0:9:21,35
+Maybe it's my fault I
+wear tap shoes to bed.
+
+
+228
+0:9:21,35 --> 0:9:24,12
+I like a good entrance,
+and I hate silence.
+
+
+229
+0:9:24,12 --> 0:9:27,75
+I have a soft spot for hip bones
+and I love with escape in mind.
+
+
+230
+0:9:27,75 --> 0:9:30,76
+Maybe it's my fault that
+I care with too many keys,
+
+
+231
+0:9:30,76 --> 0:9:32,55
+that I stain every
+lover with rust
+
+
+232
+0:9:32,55 --> 0:9:34,5
+because if I can't
+be beautiful, I
+
+
+233
+0:9:34,5 --> 0:9:37,93
+make sure no one else
+around me is either.
+
+
+234
+0:9:37,93 --> 0:9:39,67
+I'm not bitter.
+
+
+235
+0:9:39,67 --> 0:9:41,74
+I'm just being a man about it.
+
+
+236
+0:9:41,74 --> 0:9:44,47
+No kissing, not trapping
+myself in situations
+
+
+237
+0:9:44,47 --> 0:9:46,42
+I can't charm my way out.
+
+
+238
+0:9:46,42 --> 0:9:48,35
+I take after my mother.
+
+
+239
+0:9:48,35 --> 0:9:50,34
+I'm also take after winter.
+
+
+240
+0:9:50,34 --> 0:9:51,84
+I'm so cold.
+
+
+241
+0:9:51,84 --> 0:9:54,1
+I promised to leave
+quiet this time,
+
+
+242
+0:9:54,1 --> 0:9:57,19
+just leave a sweaty palm
+print on your door handle.
+
+
+243
+0:9:57,19 --> 0:10:1,91
+Boys, how can you not love a
+girl with a good exit strategy.
+
+
+244
+0:10:1,91 --> 0:10:3,35
+Thank you.
+
+
+245
+0:10:3,35 --> 0:10:5,17
+So yay!
+
+
+246
+0:10:5,17 --> 0:10:5,75
+Cue cards!
+
+
+247
+0:10:5,75 --> 0:10:6,88
+Where's my cue cards?
+
+
+248
+0:10:6,88 --> 0:10:9,2
+I need those.
+
+
+249
+0:10:9,2 --> 0:10:12,31
+So the thing I really love
+about poetry in particular
+
+
+250
+0:10:12,31 --> 0:10:15,5
+is that it's just such
+a great way to express.
+
+
+251
+0:10:15,5 --> 0:10:17,32
+Usually people always
+think that like with poetry
+
+
+252
+0:10:17,32 --> 0:10:20,68
+it either needs to rhyme or
+needs to be this or that one,
+
+
+253
+0:10:20,68 --> 0:10:23,47
+when in all honesty, it
+can be whatever you want.
+
+
+254
+0:10:23,47 --> 0:10:25,43
+It really can surely
+come from anywhere
+
+
+255
+0:10:25,43 --> 0:10:27,912
+of sensitive inspiration.
+
+
+256
+0:10:27,912 --> 0:10:29,87
+One of the things I really
+wanted to talk about
+
+
+257
+0:10:29,87 --> 0:10:33,29
+is this whole concept of
+digital versus analog.
+
+
+258
+0:10:33,29 --> 0:10:35,93
+So me as a writer and
+me as like a poet,
+
+
+259
+0:10:35,93 --> 0:10:38,62
+which is kind of a dying art,
+or like, people are always like,
+
+
+260
+0:10:38,62 --> 0:10:39,12
+oh!
+
+
+261
+0:10:39,12 --> 0:10:40,578
+When they find out
+I'm a poet, they
+
+
+262
+0:10:40,578 --> 0:10:42,34
+ask me like three questions.
+
+
+263
+0:10:42,34 --> 0:10:45,45
+First one is where
+can I read your stuff?
+
+
+264
+0:10:45,45 --> 0:10:46,73
+I hate that question.
+
+
+265
+0:10:46,73 --> 0:10:48,73
+Because this was like
+before I became published.
+
+
+266
+0:10:48,73 --> 0:10:52,51
+I was just like you're going
+to hear it at a poetry slam.
+
+
+267
+0:10:52,51 --> 0:10:55,532
+And then the second one
+is why are you a poet,
+
+
+268
+0:10:55,532 --> 0:10:57,24
+which I don't think
+I need to explain it.
+
+
+269
+0:10:57,24 --> 0:10:58,49
+It just kind of happened.
+
+
+270
+0:10:58,49 --> 0:11:0,22
+And then the third
+and final one is, so
+
+
+271
+0:11:0,22 --> 0:11:1,73
+what do you do for money?
+
+
+272
+0:11:1,73 --> 0:11:2,23
+Right?
+
+
+273
+0:11:2,23 --> 0:11:7,454
+So I realized that that's like
+a really difficult thing to do.
+
+
+274
+0:11:7,454 --> 0:11:8,12
+Let's be honest.
+
+
+275
+0:11:8,12 --> 0:11:9,22
+We all want money.
+
+
+276
+0:11:9,22 --> 0:11:11,61
+We all want to get paid
+for our art and everything.
+
+
+277
+0:11:11,61 --> 0:11:13,7
+But it's a sacrifice
+that you make,
+
+
+278
+0:11:13,7 --> 0:11:15,862
+because you just love doing it.
+
+
+279
+0:11:15,862 --> 0:11:17,99
+So, as a writer,
+I always am told
+
+
+280
+0:11:17,99 --> 0:11:19,99
+that I am like a crazy
+person, because I
+
+
+281
+0:11:19,99 --> 0:11:23,7
+have to physically
+write down every poem.
+
+
+282
+0:11:23,7 --> 0:11:25,83
+I can't just type it.
+
+
+283
+0:11:25,83 --> 0:11:30,52
+I have a very, very severe
+and special form of dyslexia,
+
+
+284
+0:11:30,52 --> 0:11:34,38
+where I can't see vowels at all.
+
+
+285
+0:11:34,38 --> 0:11:37,1
+It's a very strange
+form of dyslexia.
+
+
+286
+0:11:37,1 --> 0:11:37,74
+It's very rare.
+
+
+287
+0:11:37,74 --> 0:11:42,5
+So for me, when I write, it's
+kind in this special language
+
+
+288
+0:11:42,5 --> 0:11:43,985
+that no one else
+can really read,
+
+
+289
+0:11:43,985 --> 0:11:45,36
+because it's all
+chicken scratch.
+
+
+290
+0:11:45,36 --> 0:11:47,2
+And like there's no
+vowels in my words
+
+
+291
+0:11:47,2 --> 0:11:49,97
+pretty much, which I
+used to worry about,
+
+
+292
+0:11:49,97 --> 0:11:52,41
+like so people are always
+like why do you keep a diary?
+
+
+293
+0:11:52,41 --> 0:11:53,377
+What if you lose it?
+
+
+294
+0:11:53,377 --> 0:11:54,96
+It's like good luck
+trying to read it.
+
+
+295
+0:11:54,96 --> 0:11:56,5
+There's that episode of Doug.
+
+
+296
+0:11:56,5 --> 0:11:58,541
+I don't know if anyone
+remembers that show, Doug,
+
+
+297
+0:11:58,541 --> 0:12:0,46
+where Doug loses his journal.
+
+
+298
+0:12:0,46 --> 0:12:2,7
+And his arch nemesis,
+Roger finds i.
+
+
+299
+0:12:2,7 --> 0:12:4,799
+And he's worried that
+Roger's going to read it.
+
+
+300
+0:12:4,799 --> 0:12:6,9
+And Roger gives it back to him.
+
+
+301
+0:12:6,9 --> 0:12:7,27
+And he's like it's
+chicken scratch.
+
+
+302
+0:12:7,27 --> 0:12:8,57
+You're able to read this.
+
+
+303
+0:12:8,57 --> 0:12:12,32
+And it's like, ah man, that just
+made me feel so much better.
+
+
+304
+0:12:12,32 --> 0:12:14,8
+So for me, it's all
+about the concept
+
+
+305
+0:12:14,8 --> 0:12:16,41
+that, like, when you're
+stuck in a situation
+
+
+306
+0:12:16,41 --> 0:12:18,42
+or you find yourself in
+front of the computer,
+
+
+307
+0:12:18,42 --> 0:12:20,17
+I always find myself
+procrastinating more.
+
+
+308
+0:12:20,17 --> 0:12:23,676
+Like I find myself
+so highly distracted
+
+
+309
+0:12:23,676 --> 0:12:24,8
+by everything and anything.
+
+
+310
+0:12:24,8 --> 0:12:26,17
+You know, all of a
+sudden, I'm on Twitter.
+
+
+311
+0:12:26,17 --> 0:12:27,545
+All of a sudden,
+I'm on Facebook.
+
+
+312
+0:12:27,545 --> 0:12:29,882
+All of a sudden, I'm
+googling myself, whatever.
+
+
+313
+0:12:29,882 --> 0:12:31,34
+But when you have
+a piece of paper,
+
+
+314
+0:12:31,34 --> 0:12:33,78
+you just kind of
+forget how epically
+
+
+315
+0:12:33,78 --> 0:12:38,56
+organic that is, to literally
+see the word on the page, just
+
+
+316
+0:12:38,56 --> 0:12:41,94
+pressed and archived for
+your own personal advantage.
+
+
+317
+0:12:41,94 --> 0:12:43,88
+And I realize in
+this day and age,
+
+
+318
+0:12:43,88 --> 0:12:46,734
+why keep a journal if no
+one's going to read it.
+
+
+319
+0:12:46,734 --> 0:12:48,4
+But that's the thing
+is you need to keep
+
+
+320
+0:12:48,4 --> 0:12:50,0
+a journal because no
+one's going to read it.
+
+
+321
+0:12:50,0 --> 0:12:52,34
+I know this is like the
+generation where you literally
+
+
+322
+0:12:52,34 --> 0:12:54,44
+put up, like, I had
+the best tuna fish
+
+
+323
+0:12:54,44 --> 0:12:56,67
+sandwich ever on Twitter, right?
+
+
+324
+0:12:56,67 --> 0:12:59,19
+But not everyone
+needs to know that.
+
+
+325
+0:12:59,19 --> 0:13:1,15
+I'm sorry, that stuff
+always bothers me.
+
+
+326
+0:13:1,15 --> 0:13:3,5
+You need to tell people I'm
+going to talk at Google.
+
+
+327
+0:13:3,5 --> 0:13:6,31
+That's the stuff they
+like on Facebook.
+
+
+328
+0:13:6,31 --> 0:13:7,9
+But so my whole
+thing is that you
+
+
+329
+0:13:7,9 --> 0:13:10,93
+have to go back to the page.
+
+
+330
+0:13:10,93 --> 0:13:12,56
+It's really difficult
+and really hard.
+
+
+331
+0:13:12,56 --> 0:13:15,8
+And as a poet, you
+go back to the page,
+
+
+332
+0:13:15,8 --> 0:13:18,9
+and then you kind of bring
+it back to the stage.
+
+
+333
+0:13:18,9 --> 0:13:23,67
+That was so cheesy,
+but really epic.
+
+
+334
+0:13:23,67 --> 0:13:25,82
+So with that I'll
+give you another poem.
+
+
+335
+0:13:25,82 --> 0:13:26,32
+See?
+
+
+336
+0:13:26,32 --> 0:13:28,53
+I got all nervous, and then
+I'm going to do a poem.
+
+
+337
+0:13:28,53 --> 0:13:30,405
+And then I'm not going
+to be nervous anymore.
+
+
+338
+0:13:30,405 --> 0:13:31,55
+It's going great.
+
+
+339
+0:13:31,55 --> 0:13:33,7
+This is a good
+choice of an outfit.
+
+
+340
+0:13:33,7 --> 0:13:36,2
+I went through like three
+different choices today.
+
+
+341
+0:13:36,2 --> 0:13:38,52
+And I just think this one's
+really epic and awesome.
+
+
+342
+0:13:38,52 --> 0:13:40,4
+[? Uniglo, ?] you
+should do my wardrobe.
+
+
+343
+0:13:40,4 --> 0:13:42,5
+That was a really bad shout out.
+
+
+344
+0:13:42,5 --> 0:13:42,88
+That was fun.
+
+
+345
+0:13:42,88 --> 0:13:43,565
+Here's a poem.
+
+
+346
+0:13:43,565 --> 0:13:49,24
+
+
+
+347
+0:13:49,24 --> 0:13:52,19
+One in a million.
+
+
+348
+0:13:52,19 --> 0:13:55,29
+That's how many people have your
+reading disability, Roseanne.
+
+
+349
+0:13:55,29 --> 0:13:57,832
+One in a million.
+
+
+350
+0:13:57,832 --> 0:13:59,54
+That's what the
+well-paid doctor told me.
+
+
+351
+0:13:59,54 --> 0:14:3,65
+But don't worry, he
+said, you're not alone.
+
+
+352
+0:14:3,65 --> 0:14:4,38
+Wait, hold up.
+
+
+353
+0:14:4,38 --> 0:14:7,707
+One in a million
+and I'm not alone?
+
+
+354
+0:14:7,707 --> 0:14:9,29
+That make as much
+sense as this mumble
+
+
+355
+0:14:9,29 --> 0:14:10,62
+jumble they call an alphabet.
+
+
+356
+0:14:10,62 --> 0:14:14,18
+A-E-I-O-U and sometimes Y. See?
+
+
+357
+0:14:14,18 --> 0:14:16,4
+I didn't know these
+letters were special,
+
+
+358
+0:14:16,4 --> 0:14:19,62
+and that these letters were
+going to make me special.
+
+
+359
+0:14:19,62 --> 0:14:21,797
+But I can't recognize vowels.
+
+
+360
+0:14:21,797 --> 0:14:24,38
+And those little perks like to
+play word games up, down, left,
+
+
+361
+0:14:24,38 --> 0:14:26,463
+right, vertical, cross the
+page, like chess pieces
+
+
+362
+0:14:26,463 --> 0:14:27,92
+in a never-ending board game.
+
+
+363
+0:14:27,92 --> 0:14:28,85
+See, I don't know
+what you learned.
+
+
+364
+0:14:28,85 --> 0:14:31,3
+But I learned E came before
+I. If it didn't, then
+
+
+365
+0:14:31,3 --> 0:14:37,54
+they should have rearranged the
+alphabet as I E F G T K X 7 4.
+
+
+366
+0:14:37,54 --> 0:14:38,17
+Ah, screw it.
+
+
+367
+0:14:38,17 --> 0:14:40,4
+You got me memorizing that
+thing, like it's worth it.
+
+
+368
+0:14:40,4 --> 0:14:42,82
+I think spelling
+altogether is preposterous.
+
+
+369
+0:14:42,82 --> 0:14:43,71
+Preposterous.
+
+
+370
+0:14:43,71 --> 0:14:47,3
+P-O-S-T-E-Z-R-N. Preposterous.
+
+
+371
+0:14:47,3 --> 0:14:49,64
+OK, so maybe my
+spelling's a little off.
+
+
+372
+0:14:49,64 --> 0:14:51,5
+But have you ever
+studied English spelling?
+
+
+373
+0:14:51,5 --> 0:14:53,118
+I mean, take the
+word drunkenness.
+
+
+374
+0:14:53,118 --> 0:14:54,76
+D-R-U-N-K-E-N-N-E-S-S-.
+
+
+375
+0:14:54,76 --> 0:14:57,35
+
+
+
+376
+0:14:57,35 --> 0:14:59,63
+A drunk came up
+with the spelling.
+
+
+377
+0:14:59,63 --> 0:15:2,33
+I know this, because A, there's
+not enough thought put into it,
+
+
+378
+0:15:2,33 --> 0:15:4,11
+and B, there's too many Ns.
+
+
+379
+0:15:4,11 --> 0:15:7,23
+And well, drunks never
+know when to end.
+
+
+380
+0:15:7,23 --> 0:15:9,87
+There's an L in salmon.
+
+
+381
+0:15:9,87 --> 0:15:11,73
+Why the hell is
+there an L in salmon?
+
+
+382
+0:15:11,73 --> 0:15:13,48
+Now you got my ears
+[INAUDIBLE] riverbeds,
+
+
+383
+0:15:13,48 --> 0:15:15,102
+trying to hear that salmon.
+
+
+384
+0:15:15,102 --> 0:15:16,56
+And all I'm doing
+is hitting walls.
+
+
+385
+0:15:16,56 --> 0:15:18,18
+And all I got to
+say for it is damn.
+
+
+386
+0:15:18,18 --> 0:15:21,495
+A-E-I-O-U and sometimes
+I ask myself Y.
+
+
+387
+0:15:21,495 --> 0:15:24,91
+See, bullies used to hold books
+over my head yelling spell
+
+
+388
+0:15:24,91 --> 0:15:25,41
+it, Rose.
+
+
+389
+0:15:25,41 --> 0:15:26,65
+Spell it and you'll get it.
+
+
+390
+0:15:26,65 --> 0:15:29,84
+I was put in exile ever
+from going near a library.
+
+
+391
+0:15:29,84 --> 0:15:31,79
+First, I blamed in on my pencil.
+
+
+392
+0:15:31,79 --> 0:15:35,2
+It seemed to be holding
+everyone else's words just fine.
+
+
+393
+0:15:35,2 --> 0:15:38,49
+I cursed each one I picked
+up, spelling it wrong again
+
+
+394
+0:15:38,49 --> 0:15:40,69
+and again and again.
+
+
+395
+0:15:40,69 --> 0:15:44,1
+Until the paper was nothing
+but pinks marks and my eraser
+
+
+396
+0:15:44,1 --> 0:15:47,46
+had crumbled down like a
+watered-down tumbleweed.
+
+
+397
+0:15:47,46 --> 0:15:51,23
+See, the brain is
+like a window sill.
+
+
+398
+0:15:51,23 --> 0:15:55,29
+Outside, stage left,
+there's an apple tree.
+
+
+399
+0:15:55,29 --> 0:15:57,2
+Replace those
+apples with letters.
+
+
+400
+0:15:57,2 --> 0:15:58,95
+And when someone
+approaches you and asks
+
+
+401
+0:15:58,95 --> 0:16:2,8
+you to spell something, you
+can reach outside your window,
+
+
+402
+0:16:2,8 --> 0:16:4,4
+grab the letters
+needed, and then look,
+
+
+403
+0:16:4,4 --> 0:16:5,95
+you have the word predictable.
+
+
+404
+0:16:5,95 --> 0:16:8,3
+Well, aren't you so smart.
+
+
+405
+0:16:8,3 --> 0:16:14,13
+See, my window is a lot
+smaller and really dirty.
+
+
+406
+0:16:14,13 --> 0:16:17,4
+And my apple tree is
+kind of dying and wilted
+
+
+407
+0:16:17,4 --> 0:16:18,4
+in the distance.
+
+
+408
+0:16:18,4 --> 0:16:20,26
+So when I do reach
+for letters, I
+
+
+409
+0:16:20,26 --> 0:16:23,44
+bring up nothing but
+sawdust and paint chips.
+
+
+410
+0:16:23,44 --> 0:16:24,611
+So do it.
+
+
+411
+0:16:24,611 --> 0:16:26,11
+Prick me again with
+one of those Ns,
+
+
+412
+0:16:26,11 --> 0:16:27,7
+let me pour lemon
+juice in my wounds.
+
+
+413
+0:16:27,7 --> 0:16:28,835
+Watch me shrivel
+up like a slug I
+
+
+414
+0:16:28,835 --> 0:16:30,22
+used to torture on
+boring summer day.
+
+
+415
+0:16:30,22 --> 0:16:31,9
+And when September
+comes, I am nothing
+
+
+416
+0:16:31,9 --> 0:16:33,8
+but a ghostwriter
+writing in invisible ink.
+
+
+417
+0:16:33,8 --> 0:16:35,62
+See my writing was fine.
+
+
+418
+0:16:35,62 --> 0:16:37,65
+The spelling was
+being held against me.
+
+
+419
+0:16:37,65 --> 0:16:39,79
+I had great placements
+for nouns, adverbs,
+
+
+420
+0:16:39,79 --> 0:16:41,62
+and I can braise
+some veal-- I got
+
+
+421
+0:16:41,62 --> 0:16:43,74
+elegant adjective-- with ease.
+
+
+422
+0:16:43,74 --> 0:16:46,44
+I filled with tears
+inside in spelling bee.
+
+
+423
+0:16:46,44 --> 0:16:48,24
+And this is my
+apology to anyone who
+
+
+424
+0:16:48,24 --> 0:16:50,3
+says I can't be a poet because
+I don't know how to spell.
+
+
+425
+0:16:50,3 --> 0:16:50,83
+Well, guess what?
+
+
+426
+0:16:50,83 --> 0:16:51,37
+You're wrong.
+
+
+427
+0:16:51,37 --> 0:16:53,12
+Because not only do I
+write, I was a spit.
+
+
+428
+0:16:53,12 --> 0:16:55,85
+And I spit nothing but fire,
+so call yourself cremated.
+
+
+429
+0:16:55,85 --> 0:16:58,23
+Yes, I do have my obstacles.
+
+
+430
+0:16:58,23 --> 0:17:3,67
+A-E-I-O-U, and sometimes
+even Y. But as you can see,
+
+
+431
+0:17:3,67 --> 0:17:5,49
+they haven't stopped me yet.
+
+
+432
+0:17:5,49 --> 0:17:5,596
+Thank you.
+
+
+433
+0:17:5,596 --> 0:17:6,429
+AUDIENCE: [APPLAUSE]
+
+
+434
+0:17:6,429 --> 0:17:7,81
+ROSE McALEESE: Whoo!
+
+
+435
+0:17:7,81 --> 0:17:10,839
+She goes off stage!
+
+
+436
+0:17:10,839 --> 0:17:14,97
+Wait, I have props.
+
+
+437
+0:17:14,97 --> 0:17:16,68
+I'm going to do a magic trick.
+
+
+438
+0:17:16,68 --> 0:17:18,43
+Can I come from the--
+oh, I can't come up!
+
+
+439
+0:17:18,43 --> 0:17:19,555
+I was going to try come up.
+
+
+440
+0:17:19,555 --> 0:17:21,41
+This is Pippo.
+
+
+441
+0:17:21,41 --> 0:17:24,4
+He's famous.
+
+
+442
+0:17:24,4 --> 0:17:25,2
+Ah, man.
+
+
+443
+0:17:25,2 --> 0:17:25,78
+He's drunk.
+
+
+444
+0:17:25,78 --> 0:17:27,27
+He's a little drunk monkey.
+
+
+445
+0:17:27,27 --> 0:17:31,37
+I got Pippo when I
+was three years old.
+
+
+446
+0:17:31,37 --> 0:17:34,42
+Him and I have the same
+birthday, which is Halloween.
+
+
+447
+0:17:34,42 --> 0:17:38,55
+And he's, like, literally
+my most prized possession,
+
+
+448
+0:17:38,55 --> 0:17:41,93
+which is so weird
+for most people.
+
+
+449
+0:17:41,93 --> 0:17:44,5
+But he's the man.
+
+
+450
+0:17:44,5 --> 0:17:47,69
+He has to share a bed with me.
+
+
+451
+0:17:47,69 --> 0:17:48,45
+And he's awesome.
+
+
+452
+0:17:48,45 --> 0:17:50,2
+But the reason why I'm
+talking about Pippo
+
+
+453
+0:17:50,2 --> 0:17:52,2
+is because-- so
+this whole concept
+
+
+454
+0:17:52,2 --> 0:17:53,36
+of going back to the notebooks.
+
+
+455
+0:17:53,36 --> 0:17:57,0
+So I always have a notebook
+with me, like everywhere I go.
+
+
+456
+0:17:57,0 --> 0:18:2,16
+Every jacket of mine has a
+little tiny notebook and a pen.
+
+
+457
+0:18:2,16 --> 0:18:4,79
+I can't be somewhere
+if I can't write.
+
+
+458
+0:18:4,79 --> 0:18:9,52
+You see artists all
+the time that they're
+
+
+459
+0:18:9,52 --> 0:18:11,29
+doing imprints or
+drawing or whatever
+
+
+460
+0:18:11,29 --> 0:18:13,593
+on a napkin or the
+back of a ticket stub.
+
+
+461
+0:18:13,593 --> 0:18:15,9
+I'm that way.
+
+
+462
+0:18:15,9 --> 0:18:18,7
+I literally have millions and
+millions of these notebooks.
+
+
+463
+0:18:18,7 --> 0:18:21,77
+And most notebooks
+represent about six months.
+
+
+464
+0:18:21,77 --> 0:18:25,5
+And then I move on to the next
+one and so on and so forth.
+
+
+465
+0:18:25,5 --> 0:18:27,42
+So one of the things
+that I basically
+
+
+466
+0:18:27,42 --> 0:18:28,889
+wanted to have
+this talk about is
+
+
+467
+0:18:28,889 --> 0:18:30,93
+that like when you're
+stuck in a situation that's
+
+
+468
+0:18:30,93 --> 0:18:34,4
+extremely difficult
+with dealing with life,
+
+
+469
+0:18:34,4 --> 0:18:37,69
+it's always good to go back to
+the page and writing it out.
+
+
+470
+0:18:37,69 --> 0:18:40,495
+And one of my favorite things
+to do is write out lists.
+
+
+471
+0:18:40,495 --> 0:18:42,37
+So I'm going to read
+you guys some of my list
+
+
+472
+0:18:42,37 --> 0:18:44,7
+from my notebook, which
+is kind of like not
+
+
+473
+0:18:44,7 --> 0:18:47,9
+my point, because my point is
+to keep it in the notebook.
+
+
+474
+0:18:47,9 --> 0:18:49,57
+But let's just pretend you
+guys are in my bedroom.
+
+
+475
+0:18:49,57 --> 0:18:52,47
+And I practiced this Google
+Talk in my bedroom one too
+
+
+476
+0:18:52,47 --> 0:18:53,2
+many times.
+
+
+477
+0:18:53,2 --> 0:18:55,5
+He had to listen to it.
+
+
+478
+0:18:55,5 --> 0:18:57,96
+So these are things that
+I believe to be true.
+
+
+479
+0:18:57,96 --> 0:18:58,85
+OK?
+
+
+480
+0:18:58,85 --> 0:19:1,34
+Pigeons don't die.
+
+
+481
+0:19:1,34 --> 0:19:4,0
+Has anyone seen a baby pigeon?
+
+
+482
+0:19:4,0 --> 0:19:4,77
+Exactly.
+
+
+483
+0:19:4,77 --> 0:19:5,62
+They don't die.
+
+
+484
+0:19:5,62 --> 0:19:9,12
+Pigeons have been here
+since the beginning.
+
+
+485
+0:19:9,12 --> 0:19:11,519
+I also believe that I was
+going to marry Sam Cooke.
+
+
+486
+0:19:11,519 --> 0:19:12,56
+Then I found out he died.
+
+
+487
+0:19:12,56 --> 0:19:14,58
+And then I told my mom I
+was going to marry my dad.
+
+
+488
+0:19:14,58 --> 0:19:16,579
+And my mom was like [SNORT]
+good luck with that.
+
+
+489
+0:19:16,579 --> 0:19:17,8
+So that's bad.
+
+
+490
+0:19:17,8 --> 0:19:20,53
+I think spelling is stupid.
+
+
+491
+0:19:20,53 --> 0:19:22,83
+The best moments are
+never caught on film.
+
+
+492
+0:19:22,83 --> 0:19:24,6
+I met Dave Chapelle once.
+
+
+493
+0:19:24,6 --> 0:19:27,882
+No one believes me, because
+I didn't Instagram it.
+
+
+494
+0:19:27,882 --> 0:19:29,34
+I think "Clueless"
+and "Mean Girls"
+
+
+495
+0:19:29,34 --> 0:19:31,92
+are the funniest movies ever.
+
+
+496
+0:19:31,92 --> 0:19:34,17
+You cannot debate me on that.
+
+
+497
+0:19:34,17 --> 0:19:34,99
+I'm sorry.
+
+
+498
+0:19:34,99 --> 0:19:37,61
+I've had many arguments
+with friends being like, no.
+
+
+499
+0:19:37,61 --> 0:19:39,46
+"Clueless" and "Mean Girls."
+
+
+500
+0:19:39,46 --> 0:19:40,97
+On Wednesdays, we wear pink.
+
+
+501
+0:19:40,97 --> 0:19:41,84
+Is today Wednesday?
+
+
+502
+0:19:41,84 --> 0:19:42,42
+No, it's not.
+
+
+503
+0:19:42,42 --> 0:19:43,62
+OK, never mind.
+
+
+504
+0:19:43,62 --> 0:19:46,69
+I also think that
+Beyonce is a unicorn.
+
+
+505
+0:19:46,69 --> 0:19:47,87
+She's amazing.
+
+
+506
+0:19:47,87 --> 0:19:49,51
+I also believe that
+writing things down
+
+
+507
+0:19:49,51 --> 0:19:51,28
+is better than typing them out.
+
+
+508
+0:19:51,28 --> 0:19:53,55
+I also believe that
+the power of good art
+
+
+509
+0:19:53,55 --> 0:19:55,88
+and the power of bad art.
+
+
+510
+0:19:55,88 --> 0:19:57,0
+Here's my bucket list.
+
+
+511
+0:19:57,0 --> 0:19:59,5
+First of all, I hate
+the word bucket list.
+
+
+512
+0:19:59,5 --> 0:20:1,28
+It just sounds so
+stupid and dirty.
+
+
+513
+0:20:1,28 --> 0:20:3,1
+Like bucket is just
+a dirty word to me.
+
+
+514
+0:20:3,1 --> 0:20:6,474
+So this is my to do list,
+which sounds even dirtier, now
+
+
+515
+0:20:6,474 --> 0:20:7,14
+that you say it.
+
+
+516
+0:20:7,14 --> 0:20:8,4
+Like, "to do."
+
+
+517
+0:20:8,4 --> 0:20:8,84
+Anyways.
+
+
+518
+0:20:8,84 --> 0:20:12,27
+So this is what I want
+to do for my to-do list.
+
+
+519
+0:20:12,27 --> 0:20:15,12
+I'd like to move out
+of my roommate's house.
+
+
+520
+0:20:15,12 --> 0:20:18,77
+Fun fact, since I am a poet, I
+live with this elderly couple.
+
+
+521
+0:20:18,77 --> 0:20:20,27
+They're great.
+
+
+522
+0:20:20,27 --> 0:20:21,97
+I call them Mom and Dad.
+
+
+523
+0:20:21,97 --> 0:20:22,67
+They're nice.
+
+
+524
+0:20:22,67 --> 0:20:24,878
+They're not freaked out that
+I call them Mom and Dad,
+
+
+525
+0:20:24,878 --> 0:20:27,25
+because I'm been calling
+them that my whole life.
+
+
+526
+0:20:27,25 --> 0:20:27,85
+Anyways.
+
+
+527
+0:20:27,85 --> 0:20:28,59
+OK.
+
+
+528
+0:20:28,59 --> 0:20:30,67
+I would like to
+write a screenplay.
+
+
+529
+0:20:30,67 --> 0:20:32,87
+I would also like to find
+out what Bill Murray says
+
+
+530
+0:20:32,87 --> 0:20:35,37
+at the end of "Lost
+in Translation"
+
+
+531
+0:20:35,37 --> 0:20:37,67
+to Scarlett Johannsen.
+
+
+532
+0:20:37,67 --> 0:20:41,17
+I would like to find the
+perfect voice for Pippo.
+
+
+533
+0:20:41,17 --> 0:20:44,47
+I want to do like a Lifetime
+web series of just my life,
+
+
+534
+0:20:44,47 --> 0:20:46,68
+because I think I'm cool enough.
+
+
+535
+0:20:46,68 --> 0:20:47,86
+And Pippo needs a voice.
+
+
+536
+0:20:47,86 --> 0:20:48,86
+But I don't know
+what he sounds like,
+
+
+537
+0:20:48,86 --> 0:20:49,49
+so I'm up for suggestions.
+
+
+538
+0:20:49,49 --> 0:20:51,24
+You can look at him
+and examine him.
+
+
+539
+0:20:51,24 --> 0:20:53,53
+I think British, but I'm Irish.
+
+
+540
+0:20:53,53 --> 0:20:55,549
+So why are you British?
+
+
+541
+0:20:55,549 --> 0:20:56,9
+I don't know.
+
+
+542
+0:20:56,9 --> 0:20:57,715
+So if you can think
+of a name for him--
+
+
+543
+0:20:57,715 --> 0:21:0,72
+I actually want to listen
+to Dr. Dre's "Detox."
+
+
+544
+0:21:0,72 --> 0:21:1,47
+It's like Beyonce.
+
+
+545
+0:21:1,47 --> 0:21:2,28
+It's a unicorn.
+
+
+546
+0:21:2,28 --> 0:21:4,29
+I don't know if it's
+actually going to come out.
+
+
+547
+0:21:4,29 --> 0:21:8,33
+I want to befriend a girl
+named Becky really badly,
+
+
+548
+0:21:8,33 --> 0:21:11,14
+so I can be like "Becky,
+look at her butt."
+
+
+549
+0:21:11,14 --> 0:21:14,25
+I also want to
+find a baby pigeon.
+
+
+550
+0:21:14,25 --> 0:21:15,9
+I want to be on "SNL."
+
+
+551
+0:21:15,9 --> 0:21:17,97
+So here's my "SNL"
+moment, you guys.
+
+
+552
+0:21:17,97 --> 0:21:19,76
+I'm going to use
+this Google Talk.
+
+
+553
+0:21:19,76 --> 0:21:23,11
+Lorne Michaels, if you're
+out there, or Maya Rudolph,
+
+
+554
+0:21:23,11 --> 0:21:24,54
+I really want to be on "SNL."
+
+
+555
+0:21:24,54 --> 0:21:26,32
+Like, it kind of
+disgusting how badly
+
+
+556
+0:21:26,32 --> 0:21:27,51
+I want to be on this show.
+
+
+557
+0:21:27,51 --> 0:21:31,295
+So I realize in my "SNL"
+-like working things out,
+
+
+558
+0:21:31,295 --> 0:21:32,92
+there are two types
+of people in "SNL."
+
+
+559
+0:21:32,92 --> 0:21:34,94
+This all has to
+do with something.
+
+
+560
+0:21:34,94 --> 0:21:37,38
+OK, I promise this will have
+a good conclusion at the end.
+
+
+561
+0:21:37,38 --> 0:21:37,95
+I hope.
+
+
+562
+0:21:37,95 --> 0:21:40,21
+Anyways, two things
+about "SNL" people.
+
+
+563
+0:21:40,21 --> 0:21:41,619
+You're either a
+character person,
+
+
+564
+0:21:41,619 --> 0:21:43,66
+where you make up new
+characters, like the Target
+
+
+565
+0:21:43,66 --> 0:21:45,55
+Lady or Debbie Downer, all that.
+
+
+566
+0:21:45,55 --> 0:21:48,49
+Or you're someone
+who does impressions.
+
+
+567
+0:21:48,49 --> 0:21:50,85
+I don't think I
+can do impressions.
+
+
+568
+0:21:50,85 --> 0:21:52,93
+But I have two impressions!
+
+
+569
+0:21:52,93 --> 0:21:55,12
+Can I test them out
+for you on you guys?
+
+
+570
+0:21:55,12 --> 0:21:56,55
+Can I?
+
+
+571
+0:21:56,55 --> 0:21:58,87
+There are people in this
+audience, I promise, YouTube.
+
+
+572
+0:21:58,87 --> 0:22:0,73
+OK, so here's my
+two impressions.
+
+
+573
+0:22:0,73 --> 0:22:1,23
+OK?
+
+
+574
+0:22:1,23 --> 0:22:4,43
+So, Obama.
+
+
+575
+0:22:4,43 --> 0:22:6,785
+[EXHALES] I'm going to get here.
+
+
+576
+0:22:6,785 --> 0:22:9,16
+(DEEP VOICE) Sasha,
+Malia, go to bed.
+
+
+577
+0:22:9,16 --> 0:22:9,91
+(NORMAL VOICE) OK.
+
+
+578
+0:22:9,91 --> 0:22:12,429
+Now here's my Yogi
+Bear impression.
+
+
+579
+0:22:12,429 --> 0:22:13,97
+(DEEP VOICE) Sasha,
+Malia, go to bed.
+
+
+580
+0:22:13,97 --> 0:22:14,803
+AUDIENCE: [LAUGHTER]
+
+
+581
+0:22:14,803 --> 0:22:16,59
+ROSE McALEESE: They're
+the same person!
+
+
+582
+0:22:16,59 --> 0:22:17,897
+Anyways, OK.
+
+
+583
+0:22:17,897 --> 0:22:19,23
+Sorry, that was my "SNL" moment.
+
+
+584
+0:22:19,23 --> 0:22:22,0
+
+
+
+585
+0:22:22,0 --> 0:22:24,5
+Also, moving on.
+
+
+586
+0:22:24,5 --> 0:22:28,1
+So basically I'm working on
+like nine different projects
+
+
+587
+0:22:28,1 --> 0:22:31,7
+right now that have nothing
+to do with my art, which
+
+
+588
+0:22:31,7 --> 0:22:33,61
+really bums me out and
+really makes me sad,
+
+
+589
+0:22:33,61 --> 0:22:34,56
+because I actually
+have to do things
+
+
+590
+0:22:34,56 --> 0:22:40,46
+that I will pay my nonrent
+to my nonroommates.
+
+
+591
+0:22:40,46 --> 0:22:43,8
+But every time I make a list,
+I always feel like I'm writing,
+
+
+592
+0:22:43,8 --> 0:22:47,3
+that I'm an actual writer, that
+I'm actually doing something
+
+
+593
+0:22:47,3 --> 0:22:49,485
+that matters, because
+it impresses myself
+
+
+594
+0:22:49,485 --> 0:22:51,77
+and it impresses Pippo,
+and at the end of the day,
+
+
+595
+0:22:51,77 --> 0:22:53,59
+it makes me happy.
+
+
+596
+0:22:53,59 --> 0:22:57,1
+So one of the last lists
+I wrote is things I hate.
+
+
+597
+0:22:57,1 --> 0:23:2,305
+Dentists, bananas, snow,
+split sinks-- you know,
+
+
+598
+0:23:2,305 --> 0:23:3,93
+when they have one
+faucet for hot water
+
+
+599
+0:23:3,93 --> 0:23:5,179
+and one faucet for cold water.
+
+
+600
+0:23:5,179 --> 0:23:5,74
+I hate that.
+
+
+601
+0:23:5,74 --> 0:23:8,6
+Which one do you use?
+
+
+602
+0:23:8,6 --> 0:23:11,5
+Being told that I'm too much,
+too passionate, too churned-up,
+
+
+603
+0:23:11,5 --> 0:23:12,35
+or too excited.
+
+
+604
+0:23:12,35 --> 0:23:13,84
+I hate flying.
+
+
+605
+0:23:13,84 --> 0:23:16,19
+I hate how easily
+stressed I get.
+
+
+606
+0:23:16,19 --> 0:23:20,34
+I hate how no one experiences
+paper cuts anymore,
+
+
+607
+0:23:20,34 --> 0:23:24,206
+because in this digital age,
+no one reads books that often.
+
+
+608
+0:23:24,206 --> 0:23:25,8
+You know what I mean?
+
+
+609
+0:23:25,8 --> 0:23:26,37
+It's always on something.
+
+
+610
+0:23:26,37 --> 0:23:27,81
+This is the
+generation-- actually,
+
+
+611
+0:23:27,81 --> 0:23:29,83
+you know what, that's
+actually a good thing.
+
+
+612
+0:23:29,83 --> 0:23:32,52
+Why am I hating off a paper--
+no one wants paper clips.
+
+
+613
+0:23:32,52 --> 0:23:35,7
+I think Google saved the paper
+clip, if you think about it.
+
+
+614
+0:23:35,7 --> 0:23:36,24
+The paper cut, I mean.
+
+
+615
+0:23:36,24 --> 0:23:37,823
+Like you don't get
+paper cuts anymore.
+
+
+616
+0:23:37,823 --> 0:23:39,755
+You just Google search things.
+
+
+617
+0:23:39,755 --> 0:23:42,97
+And I also hate buffering
+on like Hulu videos.
+
+
+618
+0:23:42,97 --> 0:23:45,32
+Can someone fix that?
+
+
+619
+0:23:45,32 --> 0:23:46,32
+No one?
+
+
+620
+0:23:46,32 --> 0:23:47,17
+OK, never mind.
+
+
+621
+0:23:47,17 --> 0:23:50,3
+Anyways, so
+basically my point is
+
+
+622
+0:23:50,3 --> 0:23:54,79
+just that when everything
+comes down to it,
+
+
+623
+0:23:54,79 --> 0:23:56,86
+the paper and the
+pen are literally
+
+
+624
+0:23:56,86 --> 0:23:59,38
+the most mightiest
+things in the world.
+
+
+625
+0:23:59,38 --> 0:24:3,27
+I am in this really weird
+purgatory stage in my life
+
+
+626
+0:24:3,27 --> 0:24:5,64
+where I don't know
+exactly what I'm doing.
+
+
+627
+0:24:5,64 --> 0:24:8,44
+Like I can't even believe
+that I'm here right now.
+
+
+628
+0:24:8,44 --> 0:24:12,11
+But I think it just has to do
+with I literally write letters
+
+
+629
+0:24:12,11 --> 0:24:13,3
+to the universe.
+
+
+630
+0:24:13,3 --> 0:24:15,61
+And then I just kind of press
+it together in my notebook
+
+
+631
+0:24:15,61 --> 0:24:19,92
+and hope that someday, someone
+reads it, if not in the cosmos
+
+
+632
+0:24:19,92 --> 0:24:20,93
+or whatever.
+
+
+633
+0:24:20,93 --> 0:24:24,49
+So it's just like go
+back to actual writing.
+
+
+634
+0:24:24,49 --> 0:24:26,97
+I mean picking up a pen
+is such a heavy act,
+
+
+635
+0:24:26,97 --> 0:24:30,67
+but it does so much.
+
+
+636
+0:24:30,67 --> 0:24:32,27
+So now I'm nervous again.
+
+
+637
+0:24:32,27 --> 0:24:33,83
+So I'm going to do another poem.
+
+
+638
+0:24:33,83 --> 0:24:35,81
+This is easy.
+
+
+639
+0:24:35,81 --> 0:24:38,134
+Rappers don't really talk
+between their songs, do they?
+
+
+640
+0:24:38,134 --> 0:24:39,8
+They just kind of go
+into the next song.
+
+
+641
+0:24:39,8 --> 0:24:41,25
+They're horrible
+public speakers.
+
+
+642
+0:24:41,25 --> 0:24:43,124
+I think rappers are
+horrible public speakers.
+
+
+643
+0:24:43,124 --> 0:24:45,577
+That's a secret.
+
+
+644
+0:24:45,577 --> 0:24:47,16
+But then again, I
+want to be a rapper.
+
+
+645
+0:24:47,16 --> 0:24:50,51
+I already have four
+rap names-- Rose Gold,
+
+
+646
+0:24:50,51 --> 0:24:53,82
+Rosetta Stone, and
+Rose Bowl, which
+
+
+647
+0:24:53,82 --> 0:24:55,9
+is like if I ever become
+like a high rapper.
+
+
+648
+0:24:55,9 --> 0:24:56,89
+But I don't smoke weed.
+
+
+649
+0:24:56,89 --> 0:24:59,42
+So, never mind.
+
+
+650
+0:24:59,42 --> 0:25:1,22
+More poems.
+
+
+651
+0:25:1,22 --> 0:25:10,73
+[EXHALES]
+
+
+652
+0:25:10,73 --> 0:25:14,73
+James Brown steps on stage.
+
+
+653
+0:25:14,73 --> 0:25:18,27
+He is carved from
+midnight's marble.
+
+
+654
+0:25:18,27 --> 0:25:22,54
+He turns to his right hand
+man, Clyde Funky Drummer
+
+
+655
+0:25:22,54 --> 0:25:25,675
+Stubblefield and says, kick
+a little, Clemen-clyde.
+
+
+656
+0:25:25,675 --> 0:25:29,49
+Clyde, bursting from
+his love and joy, all
+
+
+657
+0:25:29,49 --> 0:25:33,58
+that is rhythm and blues,
+beats the drums with such ease
+
+
+658
+0:25:33,58 --> 0:25:38,58
+like God told him to play like
+he was God playing the drums.
+
+
+659
+0:25:38,58 --> 0:25:41,9
+The sound that came out
+was pure, cold sweat.
+
+
+660
+0:25:41,9 --> 0:25:42,78
+It's flesh.
+
+
+661
+0:25:42,78 --> 0:25:44,92
+We're naked around the arena.
+
+
+662
+0:25:44,92 --> 0:25:46,862
+A classic in the making.
+
+
+663
+0:25:46,862 --> 0:25:48,32
+The record skips,
+the record skips,
+
+
+664
+0:25:48,32 --> 0:25:51,93
+the record skips a few years,
+and hip hop shows up late
+
+
+665
+0:25:51,93 --> 0:25:53,88
+but looks good.
+
+
+666
+0:25:53,88 --> 0:25:56,34
+Does not make eye contact
+with anyone in the room,
+
+
+667
+0:25:56,34 --> 0:25:57,2
+afraid someone might notice.
+
+
+668
+0:25:57,2 --> 0:25:58,32
+Um, excuse me.
+
+
+669
+0:25:58,32 --> 0:26:0,49
+They're not from
+around these parts.
+
+
+670
+0:26:0,49 --> 0:26:3,9
+See hip hop was given
+all the hand-me-downs,
+
+
+671
+0:26:3,9 --> 0:26:5,46
+but learned to put swag
+back in their stitches.
+
+
+672
+0:26:5,46 --> 0:26:7,87
+Took what's not theirs
+and made it their own.
+
+
+673
+0:26:7,87 --> 0:26:10,3
+See, everything was
+fine, until someone
+
+
+674
+0:26:10,3 --> 0:26:12,61
+noticed the similarities
+there once was.
+
+
+675
+0:26:12,61 --> 0:26:13,26
+Hip hop.
+
+
+676
+0:26:13,26 --> 0:26:15,44
+You kicked a little too
+much dust off those records.
+
+
+677
+0:26:15,44 --> 0:26:18,95
+Even Midas knows the price
+you got to pay for the touch.
+
+
+678
+0:26:18,95 --> 0:26:21,81
+The samples are not free.
+
+
+679
+0:26:21,81 --> 0:26:24,35
+I would worry if I were
+you, Mr. Biz Markie.
+
+
+680
+0:26:24,35 --> 0:26:28,84
+In 2004, Brian Burton took the
+JZ Black Album and the Beatles
+
+
+681
+0:26:28,84 --> 0:26:31,71
+White Album and
+made the Grey album.
+
+
+682
+0:26:31,71 --> 0:26:36,8
+EMI, record companies, all of
+a sudden feeling very cheated,
+
+
+683
+0:26:36,8 --> 0:26:38,86
+decides to sue this nobody
+for all that he's worth.
+
+
+684
+0:26:38,86 --> 0:26:41,71
+This plan backfires, and
+they pulled this lover,
+
+
+685
+0:26:41,71 --> 0:26:44,38
+this fan of pure music
+into the limelight for all
+
+
+686
+0:26:44,38 --> 0:26:46,28
+to love and admire.
+
+
+687
+0:26:46,28 --> 0:26:50,76
+The Beatles, angry about all
+that has taken from them,
+
+
+688
+0:26:50,76 --> 0:26:53,26
+have a song called
+"Revolution #9"
+
+
+689
+0:26:53,26 --> 0:26:55,72
+which is nine minutes of
+remix, remix, remix, mastered
+
+
+690
+0:26:55,72 --> 0:26:56,68
+in sounds.
+
+
+691
+0:26:56,68 --> 0:27:1,47
+Andy Warhol can paint someone
+else's photos and call it art.
+
+
+692
+0:27:1,47 --> 0:27:3,91
+He even took a soup
+can to stop himself
+
+
+693
+0:27:3,91 --> 0:27:6,37
+from being a starving artist.
+
+
+694
+0:27:6,37 --> 0:27:10,51
+Shakespeare took the framework
+of a tragic Italian love story
+
+
+695
+0:27:10,51 --> 0:27:12,8
+and slapped his name on it.
+
+
+696
+0:27:12,8 --> 0:27:16,68
+Disney had the audacity to take
+you your loved fairy tales,
+
+
+697
+0:27:16,68 --> 0:27:19,67
+add some colors, re-animate
+them, and walk to the bank,
+
+
+698
+0:27:19,67 --> 0:27:21,66
+because well, this
+generation know
+
+
+699
+0:27:21,66 --> 0:27:23,6
+the best artists do not copy.
+
+
+700
+0:27:23,6 --> 0:27:24,78
+They steal.
+
+
+701
+0:27:24,78 --> 0:27:27,8
+And history is nothing
+more than a 12-year boy
+
+
+702
+0:27:27,8 --> 0:27:30,18
+with a serious (MOCK
+STUTTER) stuttering problem,
+
+
+703
+0:27:30,18 --> 0:27:32,3
+who's been told
+one too many times
+
+
+704
+0:27:32,3 --> 0:27:34,35
+to learn from your mistakes.
+
+
+705
+0:27:34,35 --> 0:27:38,206
+It is one thing to pull
+from your inspiration.
+
+
+706
+0:27:38,206 --> 0:27:42,19
+It is another thing to be
+the Man's tracing paper.
+
+
+707
+0:27:42,19 --> 0:27:47,61
+As poets, as writers,
+no, as humans, as humans,
+
+
+708
+0:27:47,61 --> 0:27:49,19
+we sample all the time.
+
+
+709
+0:27:49,19 --> 0:27:50,84
+Sample like ribcage.
+
+
+710
+0:27:50,84 --> 0:27:52,51
+Advice your
+grandmother once gave
+
+
+711
+0:27:52,51 --> 0:27:53,69
+you are the weight of Atlas.
+
+
+712
+0:27:53,69 --> 0:27:54,76
+Nothing is holy.
+
+
+713
+0:27:54,76 --> 0:27:55,57
+Nothing is sacred.
+
+
+714
+0:27:55,57 --> 0:27:59,5
+However, she'll be recognized
+and respected and thanked.
+
+
+715
+0:27:59,5 --> 0:28:2,17
+This evening, class,
+Funky Drummer Stubblefield
+
+
+716
+0:28:2,17 --> 0:28:5,37
+is doing me an honor of playing
+my outro, a sample of all
+
+
+717
+0:28:5,37 --> 0:28:7,65
+my favorite Kanye
+West-- oop, sorry.
+
+
+718
+0:28:7,65 --> 0:28:10,5
+Pardon me-- Frankenstein tunes.
+
+
+719
+0:28:10,5 --> 0:28:12,56
+Clyde, whose own
+original sound has
+
+
+720
+0:28:12,56 --> 0:28:17,46
+been copied on 100 different
+songs, has yet to see a penny.
+
+
+721
+0:28:17,46 --> 0:28:20,85
+But for the record, he
+wants nothing in return
+
+
+722
+0:28:20,85 --> 0:28:23,715
+but a simple thank you.
+
+
+723
+0:28:23,715 --> 0:28:28,615
+AUDIENCE: [APPLAUSE]
+
+
+724
+0:28:28,615 --> 0:28:29,99
+ROSE McALEESE:
+Shake that monkey.
+
+
+725
+0:28:29,99 --> 0:28:30,63
+That was inappropriate.
+
+
+726
+0:28:30,63 --> 0:28:31,425
+Never mind.
+
+
+727
+0:28:31,425 --> 0:28:34,28
+
+
+
+728
+0:28:34,28 --> 0:28:39,81
+Anyway, so yeah, being a writer.
+
+
+729
+0:28:39,81 --> 0:28:40,55
+It's fun.
+
+
+730
+0:28:40,55 --> 0:28:42,8
+It's interesting.
+
+
+731
+0:28:42,8 --> 0:28:46,8
+It's been a very interesting
+process, especially
+
+
+732
+0:28:46,8 --> 0:28:48,89
+with becoming a teaching artist.
+
+
+733
+0:28:48,89 --> 0:28:50,21
+I was horrible in school.
+
+
+734
+0:28:50,21 --> 0:28:51,78
+I absolutely hated school.
+
+
+735
+0:28:51,78 --> 0:28:54,489
+It was really difficult
+for me, because I
+
+
+736
+0:28:54,489 --> 0:28:55,53
+had a reading disability.
+
+
+737
+0:28:55,53 --> 0:28:58,14
+And instead of trying
+to actually have someone
+
+
+738
+0:28:58,14 --> 0:29:0,575
+to pull me aside, and
+explain to me what happened,
+
+
+739
+0:29:0,575 --> 0:29:1,95
+they just threw
+me in special ed,
+
+
+740
+0:29:1,95 --> 0:29:4,6
+and were just like we're going
+to just-- she sinks or swims,
+
+
+741
+0:29:4,6 --> 0:29:5,77
+pretty much.
+
+
+742
+0:29:5,77 --> 0:29:8,1
+So I've been going
+back into schools
+
+
+743
+0:29:8,1 --> 0:29:11,89
+and trying to help people
+realize that everyone's special
+
+
+744
+0:29:11,89 --> 0:29:13,93
+and everyone's unique
+in their own way.
+
+
+745
+0:29:13,93 --> 0:29:15,97
+And one of the writing
+exercises that I
+
+
+746
+0:29:15,97 --> 0:29:18,46
+do with my kids,
+first-off, is I tell
+
+
+747
+0:29:18,46 --> 0:29:20,25
+them to write a Pinky List.
+
+
+748
+0:29:20,25 --> 0:29:22,37
+And a Pinky List
+is a list of things
+
+
+749
+0:29:22,37 --> 0:29:26,352
+that make you different
+than the next person.
+
+
+750
+0:29:26,352 --> 0:29:27,81
+So, for instance,
+on my Pinky List,
+
+
+751
+0:29:27,81 --> 0:29:30,27
+I would say like I'm
+born on Halloween.
+
+
+752
+0:29:30,27 --> 0:29:32,76
+I have a fear of bananas.
+
+
+753
+0:29:32,76 --> 0:29:35,53
+My socks never match.
+
+
+754
+0:29:35,53 --> 0:29:37,934
+And just all the weird stuff.
+
+
+755
+0:29:37,934 --> 0:29:39,6
+There's so many-- why
+can't I think of a
+
+
+756
+0:29:39,6 --> 0:29:41,44
+in single weird thing
+about me right now.
+
+
+757
+0:29:41,44 --> 0:29:43,46
+But yeah, so basically,
+one of things I do
+
+
+758
+0:29:43,46 --> 0:29:46,32
+is do a Pinky List, which
+is a great writing exercise.
+
+
+759
+0:29:46,32 --> 0:29:47,48
+I love lists.
+
+
+760
+0:29:47,48 --> 0:29:49,32
+I think that they
+literally break down
+
+
+761
+0:29:49,32 --> 0:29:53,91
+any situation or any problem you
+have or face in everyday life.
+
+
+762
+0:29:53,91 --> 0:29:55,51
+And I guess in this
+whole thing that I
+
+
+763
+0:29:55,51 --> 0:29:58,49
+want you guys to walk away
+with is to just write.
+
+
+764
+0:29:58,49 --> 0:30:3,1
+Journal out just to basically
+just leave it on the page.
+
+
+765
+0:30:3,1 --> 0:30:4,66
+I mean, I can't
+stress that enough.
+
+
+766
+0:30:4,66 --> 0:30:10,8
+It's just so epically
+awesome, and it's really hard
+
+
+767
+0:30:10,8 --> 0:30:12,1
+to just leave in your head.
+
+
+768
+0:30:12,1 --> 0:30:12,82
+It just hurts.
+
+
+769
+0:30:12,82 --> 0:30:13,53
+It really does.
+
+
+770
+0:30:13,53 --> 0:30:16,53
+You just have to put it on
+the page and figure it out.
+
+
+771
+0:30:16,53 --> 0:30:18,7
+I also would like
+to give you guys
+
+
+772
+0:30:18,7 --> 0:30:21,43
+some writing prompts,
+because I'm big on that.
+
+
+773
+0:30:21,43 --> 0:30:23,15
+So one of them is to
+make a Pinky List.
+
+
+774
+0:30:23,15 --> 0:30:24,89
+You guys have
+homework, and you're
+
+
+775
+0:30:24,89 --> 0:30:28,34
+going to have to submit it to
+me on Twitter in 140 characters
+
+
+776
+0:30:28,34 --> 0:30:29,4
+or less.
+
+
+777
+0:30:29,4 --> 0:30:32,5
+So one of the ones I
+have is the Pinky List.
+
+
+778
+0:30:32,5 --> 0:30:36,19
+Another one that I have,
+one of y favorite writing
+
+
+779
+0:30:36,19 --> 0:30:38,16
+prompts that I do with
+my high school kids
+
+
+780
+0:30:38,16 --> 0:30:41,8
+is "Things My Ex
+Would Have Said."
+
+
+781
+0:30:41,8 --> 0:30:41,889
+They love that one.
+
+
+782
+0:30:41,889 --> 0:30:42,43
+I don't know.
+
+
+783
+0:30:42,43 --> 0:30:44,99
+But kids are-- they love
+the anti-love poems.
+
+
+784
+0:30:44,99 --> 0:30:48,6
+Like screw you,
+Dante or whatever.
+
+
+785
+0:30:48,6 --> 0:30:52,16
+Then the other one is "Tell
+Me About the Ride Home," which
+
+
+786
+0:30:52,16 --> 0:30:55,13
+actually I kind of stole that
+from a famous hero of mine,
+
+
+787
+0:30:55,13 --> 0:30:58,25
+Seamus Heaney, RIP.
+
+
+788
+0:30:58,25 --> 0:31:0,55
+And so, yeah, that's
+some writing prompts.
+
+
+789
+0:31:0,55 --> 0:31:1,55
+So you guys can go with.
+
+
+790
+0:31:1,55 --> 0:31:2,94
+So I'm going to
+do one more poem.
+
+
+791
+0:31:2,94 --> 0:31:5,15
+And then you guys
+are free to go back
+
+
+792
+0:31:5,15 --> 0:31:8,6
+to your awesome Googleness.
+
+
+793
+0:31:8,6 --> 0:31:10,17
+By the way, I have a
+question about Google.
+
+
+794
+0:31:10,17 --> 0:31:14,596
+When you are like on the
+interweb, are you Google-able?
+
+
+795
+0:31:14,596 --> 0:31:15,97
+Like I tell people
+this all time,
+
+
+796
+0:31:15,97 --> 0:31:17,803
+like, oh, they're like
+where can I find you?
+
+
+797
+0:31:17,803 --> 0:31:19,4
+And I'm like, oh,
+I'm Google-able.
+
+
+798
+0:31:19,4 --> 0:31:20,57
+That's not a good word.
+
+
+799
+0:31:20,57 --> 0:31:23,75
+You guys have got to think of
+something else to think of.
+
+
+800
+0:31:23,75 --> 0:31:24,25
+OK.
+
+
+801
+0:31:24,25 --> 0:31:25,15
+AUDIENCE: Google me.
+
+
+802
+0:31:25,15 --> 0:31:25,9
+ROSE McALEESE: Oh!
+
+
+803
+0:31:25,9 --> 0:31:26,59
+Google me.
+
+
+804
+0:31:26,59 --> 0:31:27,87
+That's stupid.
+
+
+805
+0:31:27,87 --> 0:31:29,42
+Why didn't I just think of that?
+
+
+806
+0:31:29,42 --> 0:31:33,67
+Someone make a
+hashtag of Google me.
+
+
+807
+0:31:33,67 --> 0:31:35,61
+That was a dumb question.
+
+
+808
+0:31:35,61 --> 0:31:36,11
+OK.
+
+
+809
+0:31:36,11 --> 0:31:38,9
+This is it.
+
+
+810
+0:31:38,9 --> 0:31:40,34
+I'm going to take
+up a lot of space.
+
+
+811
+0:31:40,34 --> 0:31:42,14
+So thank you for coming.
+
+
+812
+0:31:42,14 --> 0:31:44,817
+This is a huge honor
+and not as scary
+
+
+813
+0:31:44,817 --> 0:31:46,15
+as I thought it was going to be.
+
+
+814
+0:31:46,15 --> 0:31:47,164
+This has been fun.
+
+
+815
+0:31:47,164 --> 0:31:48,33
+I hope you enjoyed yourself.
+
+
+816
+0:31:48,33 --> 0:31:49,48
+If not, lie to me.
+
+
+817
+0:31:49,48 --> 0:31:50,1
+OK?
+
+
+818
+0:31:50,1 --> 0:31:50,51
+Thanks.
+
+
+819
+0:31:50,51 --> 0:32:0,573
+
+
+
+820
+0:32:0,573 --> 0:32:2,311
+What is the first
+line of this poem?
+
+
+821
+0:32:2,311 --> 0:32:4,6
+See, this is the other
+thing about poetry.
+
+
+822
+0:32:4,6 --> 0:32:5,93
+It does not need to be
+perfect and crafted,
+
+
+823
+0:32:5,93 --> 0:32:9,51
+and sound like you went
+to college to write it.
+
+
+824
+0:32:9,51 --> 0:32:12,23
+Because I didn't go to college.
+
+
+825
+0:32:12,23 --> 0:32:13,57
+School of Hard Knocks.
+
+
+826
+0:32:13,57 --> 0:32:14,355
+Anyway, OK.
+
+
+827
+0:32:14,355 --> 0:32:15,924
+I should do a football tag.
+
+
+828
+0:32:15,924 --> 0:32:16,59
+What do they do?
+
+
+829
+0:32:16,59 --> 0:32:19,3
+They say their name and
+whatever school they went to.
+
+
+830
+0:32:19,3 --> 0:32:20,446
+I'm going to do
+that. (DEEP VOICE)
+
+
+831
+0:32:20,446 --> 0:32:23,74
+Rose McAleese, School of
+Hard Knocks, Sea Hawks.
+
+
+832
+0:32:23,74 --> 0:32:25,1
+I shouldn't say that.
+
+
+833
+0:32:25,1 --> 0:32:26,3
+We're in San Francisco.
+
+
+834
+0:32:26,3 --> 0:32:27,27
+Not San Francisco.
+
+
+835
+0:32:27,27 --> 0:32:28,64
+We're safe in this area.
+
+
+836
+0:32:28,64 --> 0:32:29,69
+Google's safe.
+
+
+837
+0:32:29,69 --> 0:32:30,72
+Sea Hawk fans here?
+
+
+838
+0:32:30,72 --> 0:32:31,515
+Any?
+
+
+839
+0:32:31,515 --> 0:32:32,14
+AUDIENCE: Whoo!
+
+
+840
+0:32:32,14 --> 0:32:32,42
+ROSE McALEESE: Yay!
+
+
+841
+0:32:32,42 --> 0:32:33,87
+There's like two of your guys.
+
+
+842
+0:32:33,87 --> 0:32:37,6
+OK, so this is the last poem.
+
+
+843
+0:32:37,6 --> 0:32:40,85
+
+
+
+844
+0:32:40,85 --> 0:32:43,61
+With a face more judgmental
+than a Rorschach,
+
+
+845
+0:32:43,61 --> 0:32:45,43
+he says, that's funny.
+
+
+846
+0:32:45,43 --> 0:32:47,77
+You don't dance
+like a white girl.
+
+
+847
+0:32:47,77 --> 0:32:51,36
+Now before I can apply
+to his ignorant comment,
+
+
+848
+0:32:51,36 --> 0:32:54,1
+my beloved drunken friend
+reassures him (TIPSY VOICE)
+
+
+849
+0:32:54,1 --> 0:32:56,16
+well, that is because
+Rose is a unicorn!
+
+
+850
+0:32:56,16 --> 0:32:58,79
+
+
+
+851
+0:32:58,79 --> 0:33:0,2
+Sha sha sha sha!
+
+
+852
+0:33:0,2 --> 0:33:2,5
+Where are my shoes?
+
+
+853
+0:33:2,5 --> 0:33:7,37
+I do not spill drinks when
+I dance, because, well, I
+
+
+854
+0:33:7,37 --> 0:33:7,96
+don't drink.
+
+
+855
+0:33:7,96 --> 0:33:10,4
+And also I need my
+hands always to be free.
+
+
+856
+0:33:10,4 --> 0:33:13,24
+I do not chase boys.
+
+
+857
+0:33:13,24 --> 0:33:15,98
+I run in place.
+
+
+858
+0:33:15,98 --> 0:33:17,99
+I'm a tall glass
+of water that likes
+
+
+859
+0:33:17,99 --> 0:33:19,59
+to get loose-limbed,
+like liquid.
+
+
+860
+0:33:19,59 --> 0:33:21,6
+Give me your marble!
+
+
+861
+0:33:21,6 --> 0:33:22,44
+Give me your hard wood!
+
+
+862
+0:33:22,44 --> 0:33:25,255
+Give me your bar top, even
+roof of moving vehicle
+
+
+863
+0:33:25,255 --> 0:33:28,91
+to truly tell you how my feet
+met floor a long time ago.
+
+
+864
+0:33:28,91 --> 0:33:31,38
+And I dare not separate
+the three of them.
+
+
+865
+0:33:31,38 --> 0:33:34,12
+I don't even need
+music to dance,
+
+
+866
+0:33:34,12 --> 0:33:36,92
+because that way I
+can never be off beat.
+
+
+867
+0:33:36,92 --> 0:33:39,24
+In middle school, I
+was an awkward bag
+
+
+868
+0:33:39,24 --> 0:33:40,73
+of bones and untalented ticks.
+
+
+869
+0:33:40,73 --> 0:33:43,7
+Some might say a skinny
+excuse, a spastic.
+
+
+870
+0:33:43,7 --> 0:33:46,25
+My friends used to
+threaten me by saying,
+
+
+871
+0:33:46,25 --> 0:33:50,85
+Rose, if you can't dance,
+we can't be friends.
+
+
+872
+0:33:50,85 --> 0:33:52,42
+This scared me straight.
+
+
+873
+0:33:52,42 --> 0:33:54,25
+But not straight enough I
+couldn't learn how to bend.
+
+
+874
+0:33:54,25 --> 0:33:56,84
+Since then, I have been
+sweating for unreasons
+
+
+875
+0:33:56,84 --> 0:33:57,83
+unknown to the masses.
+
+
+876
+0:33:57,83 --> 0:34:0,55
+And it's because my body
+thinks the Rapture is coming.
+
+
+877
+0:34:0,55 --> 0:34:3,76
+And I need to produce holy
+water to save me and my dance
+
+
+878
+0:34:3,76 --> 0:34:4,64
+partner.
+
+
+879
+0:34:4,64 --> 0:34:8,96
+People on average usually
+notice three things about me.
+
+
+880
+0:34:8,96 --> 0:34:11,56
+One, she talks a lot.
+
+
+881
+0:34:11,56 --> 0:34:13,76
+And if she's not
+talking, I'm smiling.
+
+
+882
+0:34:13,76 --> 0:34:15,33
+And if I'm not
+smiling, I'm dancing.
+
+
+883
+0:34:15,33 --> 0:34:17,139
+And for me,
+dancing's just my way
+
+
+884
+0:34:17,139 --> 0:34:19,19
+of smiling through
+a conversation.
+
+
+885
+0:34:19,19 --> 0:34:21,75
+We don't even need
+to talk to get along,
+
+
+886
+0:34:21,75 --> 0:34:23,87
+just the heavy amount
+of body language.
+
+
+887
+0:34:23,87 --> 0:34:26,27
+And everyone is fluent in that.
+
+
+888
+0:34:26,27 --> 0:34:29,69
+If you don't leave
+me, well, hey.
+
+
+889
+0:34:29,69 --> 0:34:31,33
+One of us is lying
+and it isn't me,
+
+
+890
+0:34:31,33 --> 0:34:33,73
+because well, I don't
+take anything lying down.
+
+
+891
+0:34:33,73 --> 0:34:34,56
+Baby!
+
+
+892
+0:34:34,56 --> 0:34:37,679
+I can make my hips tick faster
+than any maternal clock.
+
+
+893
+0:34:37,679 --> 0:34:39,71
+I can make your head ring
+like a jewelry store.
+
+
+894
+0:34:39,71 --> 0:34:40,429
+Ay, yo, yo.
+
+
+895
+0:34:40,429 --> 0:34:41,27
+You hungry?
+
+
+896
+0:34:41,27 --> 0:34:42,25
+Try my salsa.
+
+
+897
+0:34:42,25 --> 0:34:45,5
+And may cause your girlfriend
+a serious heartburn.
+
+
+898
+0:34:45,5 --> 0:34:47,63
+I am a party baby.
+
+
+899
+0:34:47,63 --> 0:34:50,13
+I will make you cry and like it.
+
+
+900
+0:34:50,13 --> 0:34:53,7
+I'm also a natural-born ham.
+
+
+901
+0:34:53,7 --> 0:34:55,449
+That's why I'm cutting
+this rug like a butcher.
+
+
+902
+0:34:55,449 --> 0:34:57,79
+Now, I have
+ballrooms in my belly
+
+
+903
+0:34:57,79 --> 0:35:0,14
+and a funky ruckus
+in my armpits.
+
+
+904
+0:35:0,14 --> 0:35:3,25
+But sometimes, I'm not
+good with my words.
+
+
+905
+0:35:3,25 --> 0:35:4,88
+So I have this face
+where, like, when
+
+
+906
+0:35:4,88 --> 0:35:6,56
+I'm really embarrassed--
+like I'm kind of probably
+
+
+907
+0:35:6,56 --> 0:35:8,49
+doing it right now, my face
+turns bright red, which is just
+
+
+908
+0:35:8,49 --> 0:35:9,82
+so bad, it's really obnoxious.
+
+
+909
+0:35:9,82 --> 0:35:10,892
+Then I have this
+yoga position where
+
+
+910
+0:35:10,892 --> 0:35:12,142
+I can put my food in my mouth.
+
+
+911
+0:35:12,142 --> 0:35:15,74
+But my spine thinks otherwise.
+
+
+912
+0:35:15,74 --> 0:35:18,12
+The only time my body
+seems to align perfectly
+
+
+913
+0:35:18,12 --> 0:35:20,1
+is when I'm on this very stage.
+
+
+914
+0:35:20,1 --> 0:35:23,69
+And the only time I've ever
+allow myself to feel beautiful
+
+
+915
+0:35:23,69 --> 0:35:25,6
+is when I'm dancing.
+
+
+916
+0:35:25,6 --> 0:35:27,91
+We make gods when we dance.
+
+
+917
+0:35:27,91 --> 0:35:30,12
+But dancing has
+never been a God.
+
+
+918
+0:35:30,12 --> 0:35:32,37
+So there's no need
+for your judgment day.
+
+
+919
+0:35:32,37 --> 0:35:34,98
+You better rock, span,
+spit, stripe your dress
+
+
+920
+0:35:34,98 --> 0:35:36,36
+from however you please.
+
+
+921
+0:35:36,36 --> 0:35:40,17
+Everyone was meant
+to move like this.
+
+
+922
+0:35:40,17 --> 0:35:43,9
+Now, the ignorant ink
+blot of the man at the bar
+
+
+923
+0:35:43,9 --> 0:35:46,6
+is now lost for words.
+
+
+924
+0:35:46,6 --> 0:35:48,93
+I begin to turn away to
+dance this moment off.
+
+
+925
+0:35:48,93 --> 0:35:52,62
+He stops me and
+asks if he can join.
+
+
+926
+0:35:52,62 --> 0:35:55,82
+And I said, oh
+sweetie, that's cute.
+
+
+927
+0:35:55,82 --> 0:35:59,2
+But I think it's best
+that you just back, relax,
+
+
+928
+0:35:59,2 --> 0:36:0,7
+turn my body into a hashtag.
+
+
+929
+0:36:0,7 --> 0:36:3,0
+Tweet about this
+for your safety.
+
+
+930
+0:36:3,0 --> 0:36:8,39
+And I'll truly show you how a
+unicorn human being breaks it
+
+
+931
+0:36:8,39 --> 0:36:9,82
+down.
+
+
+932
+0:36:9,82 --> 0:36:10,83
+Thanks, guys.
+
+
+933
+0:36:10,83 --> 0:36:12,294
+AUDIENCE: [APPLAUSE]
+
+
+934
+0:36:12,294 --> 0:36:14,246
+ROSE McALEESE: Whoo!
+
+
+935
+0:36:14,246 --> 0:36:16,99
+We out of here, Pippo!
+
+
+936
+0:36:16,99 --> 0:36:18,65
+Oh, we're going
+to take questions.
+
+
+937
+0:36:18,65 --> 0:36:19,39
+Oh, I didn't know it was that.
+
+
+938
+0:36:19,39 --> 0:36:20,69
+Does anyone have a question?
+
+
+939
+0:36:20,69 --> 0:36:21,71
+This is cool.
+
+
+940
+0:36:21,71 --> 0:36:25,904
+AUDIENCE: [INAUDIBLE]
+Canadian or Russian?
+
+
+941
+0:36:25,904 --> 0:36:27,25
+ROSE McALEESE: [LAUGHS] Yeah!
+
+
+942
+0:36:27,25 --> 0:36:29,69
+I like it.
+
+
+943
+0:36:29,69 --> 0:36:32,34
+Someone suggested that Pippo
+should be a Canadian accent.
+
+
+944
+0:36:32,34 --> 0:36:34,25
+How do you feel about that?
+
+
+945
+0:36:34,25 --> 0:36:34,9
+AUDIENCE: Or Russian.
+
+
+946
+0:36:34,9 --> 0:36:35,983
+ROSE McALEESE: Or Russian.
+
+
+947
+0:36:35,983 --> 0:36:37,39
+He could be Russian.
+
+
+948
+0:36:37,39 --> 0:36:38,33
+I have this theory.
+
+
+949
+0:36:38,33 --> 0:36:40,54
+I wrote a list once.
+
+
+950
+0:36:40,54 --> 0:36:44,7
+I do social media
+as a form of payment
+
+
+951
+0:36:44,7 --> 0:36:45,82
+sometimes, which is so funny.
+
+
+952
+0:36:45,82 --> 0:36:47,6
+I get paid to Tweet.
+
+
+953
+0:36:47,6 --> 0:36:49,92
+And one of the lists
+I came up with,
+
+
+954
+0:36:49,92 --> 0:36:50,8
+because I was so
+frustrated with the job,
+
+
+955
+0:36:50,8 --> 0:36:52,88
+was Things Pippo is Famous For.
+
+
+956
+0:36:52,88 --> 0:36:54,66
+He's a famous jewel thief.
+
+
+957
+0:36:54,66 --> 0:36:58,31
+He is actually the original
+member in the Beatles.
+
+
+958
+0:36:58,31 --> 0:37:2,9
+He is also what Sherlock
+Holmes was based on.
+
+
+959
+0:37:2,9 --> 0:37:5,31
+He is Watson and Sherlock.
+
+
+960
+0:37:5,31 --> 0:37:6,56
+Yeah, he's a pretty great guy.
+
+
+961
+0:37:6,56 --> 0:37:8,33
+He used to have
+these red overalls,
+
+
+962
+0:37:8,33 --> 0:37:10,214
+but I lost them in
+a movie theater.
+
+
+963
+0:37:10,214 --> 0:37:12,5
+I lost them watching
+the movie "Beethoven,"
+
+
+964
+0:37:12,5 --> 0:37:13,96
+if anyone remembers
+that-- the dog.
+
+
+965
+0:37:13,96 --> 0:37:16,536
+His hands are also Velcro.
+
+
+966
+0:37:16,536 --> 0:37:17,93
+But he's getting old.
+
+
+967
+0:37:17,93 --> 0:37:19,96
+Oops, story.
+
+
+968
+0:37:19,96 --> 0:37:22,925
+He's fine.
+
+
+969
+0:37:22,925 --> 0:37:26,75
+Look, he's so regal.
+
+
+970
+0:37:26,75 --> 0:37:28,252
+Anyway.
+
+
+971
+0:37:28,252 --> 0:37:30,545
+Oh my god, you have a question!
+
+
+972
+0:37:30,545 --> 0:37:31,17
+AUDIENCE: Yeah.
+
+
+973
+0:37:31,17 --> 0:37:32,31
+I have two questions.
+
+
+974
+0:37:32,31 --> 0:37:33,31
+ROSE McALEESE: OK.
+
+
+975
+0:37:33,31 --> 0:37:35,806
+AUDIENCE: One is what
+grades do you teach?
+
+
+976
+0:37:35,806 --> 0:37:37,11
+ROSE McALEESE: Oh, OK.
+
+
+977
+0:37:37,11 --> 0:37:38,3
+Mostly high school.
+
+
+978
+0:37:38,3 --> 0:37:39,738
+I don't really do well
+in middle schools,
+
+
+979
+0:37:39,738 --> 0:37:42,12
+because I feel like I didn't
+do well in middle school.
+
+
+980
+0:37:42,12 --> 0:37:44,73
+I had a lot of fun
+in high school.
+
+
+981
+0:37:44,73 --> 0:37:45,71
+Fun fact.
+
+
+982
+0:37:45,71 --> 0:37:47,512
+The man who introduced
+me, Nathan, we
+
+
+983
+0:37:47,512 --> 0:37:49,47
+went to middle school
+and high school together.
+
+
+984
+0:37:49,47 --> 0:37:52,94
+We were both nominated
+Most School Spirited.
+
+
+985
+0:37:52,94 --> 0:37:54,75
+So that was kind of
+me in high school.
+
+
+986
+0:37:54,75 --> 0:37:55,97
+I was just this weirdo.
+
+
+987
+0:37:55,97 --> 0:37:59,12
+So I teach 9th
+through 12th grade.
+
+
+988
+0:37:59,12 --> 0:38:1,39
+But I really love teaching
+freshman, because they just
+
+
+989
+0:38:1,39 --> 0:38:4,15
+seem the most awkward-est.
+If you can't tell,
+
+
+990
+0:38:4,15 --> 0:38:6,817
+I'm like a jellyfish
+caught in a blender.
+
+
+991
+0:38:6,817 --> 0:38:8,9
+I don't know what to do
+with myself half the time.
+
+
+992
+0:38:8,9 --> 0:38:10,25
+AUDIENCE: I have an
+interview question.
+
+
+993
+0:38:10,25 --> 0:38:12,125
+ROSE McALEESE: You have
+a interview question?
+
+
+994
+0:38:12,125 --> 0:38:13,46
+AUDIENCE: [INAUDIBLE]?
+
+
+995
+0:38:13,46 --> 0:38:15,321
+ROSE McALEESE: Yeah.
+
+
+996
+0:38:15,321 --> 0:38:15,82
+Wait.
+
+
+997
+0:38:15,82 --> 0:38:17,662
+Oh my god, so OK, I did
+research on you guys
+
+
+998
+0:38:17,662 --> 0:38:19,62
+by watching this movie
+called "The Internship."
+
+
+999
+0:38:19,62 --> 0:38:20,406
+AUDIENCE: [LAUGHTER]
+
+
+1000
+0:38:20,406 --> 0:38:21,281
+ROSE McALEESE: Right?
+
+
+1001
+0:38:21,281 --> 0:38:22,37
+And then the Google.
+
+
+1002
+0:38:22,37 --> 0:38:22,72
+Here's the thing.
+
+
+1003
+0:38:22,72 --> 0:38:24,78
+When they asked the
+question about the blender,
+
+
+1004
+0:38:24,78 --> 0:38:26,38
+the immediate thing
+I thought of was
+
+
+1005
+0:38:26,38 --> 0:38:28,8
+the blender will eventually die.
+
+
+1006
+0:38:28,8 --> 0:38:29,8
+So you just chill out.
+
+
+1007
+0:38:29,8 --> 0:38:31,72
+And that's exactly what
+they do in the movie.
+
+
+1008
+0:38:31,72 --> 0:38:33,86
+So where's my
+internship, Google?
+
+
+1009
+0:38:33,86 --> 0:38:36,97
+I answered the question.
+
+
+1010
+0:38:36,97 --> 0:38:42,17
+I bet, Pippo's probably going
+to get a job offer and me.
+
+
+1011
+0:38:42,17 --> 0:38:42,67
+Whatever.
+
+
+1012
+0:38:42,67 --> 0:38:47,23
+He's talking smack right now.
+
+
+1013
+0:38:47,23 --> 0:38:50,83
+What other questions do they ask
+you at Google for a interview?
+
+
+1014
+0:38:50,83 --> 0:38:52,65
+Is it just that, the
+only hypothetical one.
+
+
+1015
+0:38:52,65 --> 0:38:55,4
+AUDIENCE: [INAUDIBLE]?
+
+
+1016
+0:38:55,4 --> 0:38:57,845
+ROSE McALEESE: I'm going to
+talk to the HR department.
+
+
+1017
+0:38:57,845 --> 0:39:0,345
+I'm going to come up with some
+weird questions for you guys.
+
+
+1018
+0:39:0,345 --> 0:39:2,261
+Like, what reality show
+would you try out for?
+
+
+1019
+0:39:2,261 --> 0:39:5,5
+Which Kardashian do you
+think is your spirit animal?
+
+
+1020
+0:39:5,5 --> 0:39:6,127
+AUDIENCE: [LAUGHTER]
+
+
+1021
+0:39:6,127 --> 0:39:7,46
+ROSE McALEESE: Things like that.
+
+
+1022
+0:39:7,46 --> 0:39:11,13
+Which I think tell a lot about
+a person, like I'm a Khloe!
+
+
+1023
+0:39:11,13 --> 0:39:11,81
+Makes sense.
+
+
+1024
+0:39:11,81 --> 0:39:14,497
+
+
+
+1025
+0:39:14,497 --> 0:39:15,33
+AUDIENCE: All right.
+
+
+1026
+0:39:15,33 --> 0:39:16,704
+I'll ask my second
+question then.
+
+
+1027
+0:39:16,704 --> 0:39:18,62
+ROSE McALEESE: Yeah.
+
+
+1028
+0:39:18,62 --> 0:39:21,43
+AUDIENCE: If I can remember it.
+
+
+1029
+0:39:21,43 --> 0:39:23,59
+So, with your
+reading disability,
+
+
+1030
+0:39:23,59 --> 0:39:26,35
+how do you go from a
+chicken scratch to a book?
+
+
+1031
+0:39:26,35 --> 0:39:28,25
+ROSE McALEESE: So think god.
+
+
+1032
+0:39:28,25 --> 0:39:31,67
+Oh my god, I have a great
+editor who's also my roommate.
+
+
+1033
+0:39:31,67 --> 0:39:32,17
+My mother.
+
+
+1034
+0:39:32,17 --> 0:39:35,25
+I love Kathy Cain.
+
+
+1035
+0:39:35,25 --> 0:39:37,25
+But yeah, no, I had a
+really great editor.
+
+
+1036
+0:39:37,25 --> 0:39:39,42
+And my publisher-- so a
+funny thing about my book
+
+
+1037
+0:39:39,42 --> 0:39:42,52
+is that I made a
+paper copy of my book.
+
+
+1038
+0:39:42,52 --> 0:39:45,6
+And I hid them in bookstores.
+
+
+1039
+0:39:45,6 --> 0:39:47,83
+And my publisher stumbled
+across it and was
+
+
+1040
+0:39:47,83 --> 0:39:50,36
+like, wow, this is really cool.
+
+
+1041
+0:39:50,36 --> 0:39:51,567
+I actually know this girl.
+
+
+1042
+0:39:51,567 --> 0:39:53,9
+And this publisher was actually
+a family friend of mine.
+
+
+1043
+0:39:53,9 --> 0:39:56,72
+And she was like I didn't know
+you wanted to publish a book so
+
+
+1044
+0:39:56,72 --> 0:39:57,75
+let's publish a book.
+
+
+1045
+0:39:57,75 --> 0:40:2,9
+So literally, it's lots of
+editors and things like that.
+
+
+1046
+0:40:2,9 --> 0:40:5,286
+And I do a lot of
+exercises and stuff
+
+
+1047
+0:40:5,286 --> 0:40:6,91
+that have helped me
+with my disability.
+
+
+1048
+0:40:6,91 --> 0:40:7,967
+It used to be way worse.
+
+
+1049
+0:40:7,967 --> 0:40:9,8
+Like in fifth grade, I
+had the reading level
+
+
+1050
+0:40:9,8 --> 0:40:11,33
+of a kindergartner.
+
+
+1051
+0:40:11,33 --> 0:40:13,58
+Now I have the reading
+level of a fifth grader.
+
+
+1052
+0:40:13,58 --> 0:40:14,38
+So it's great.
+
+
+1053
+0:40:14,38 --> 0:40:16,36
+I love those "Lemony
+Snicket" books.
+
+
+1054
+0:40:16,36 --> 0:40:18,29
+Man, they really understand me.
+
+
+1055
+0:40:18,29 --> 0:40:21,72
+Except they have really
+big words in that book.
+
+
+1056
+0:40:21,72 --> 0:40:23,37
+But yeah, now I
+just have an editor.
+
+
+1057
+0:40:23,37 --> 0:40:25,77
+And as much as I hate
+writing on a computer,
+
+
+1058
+0:40:25,77 --> 0:40:28,24
+spell check is a lot of fun.
+
+
+1059
+0:40:28,24 --> 0:40:31,25
+But if you're dyslexic,
+there's a lot of loopholes.
+
+
+1060
+0:40:31,25 --> 0:40:34,63
+Like I can write the word "I,"
+when I really mean myself.
+
+
+1061
+0:40:34,63 --> 0:40:36,51
+I can write this eye
+when I mean this I.
+
+
+1062
+0:40:36,51 --> 0:40:38,23
+And spell check
+won't correct it.
+
+
+1063
+0:40:38,23 --> 0:40:42,81
+There needs to be a grammar
+check, especially on Twitter.
+
+
+1064
+0:40:42,81 --> 0:40:43,84
+The your and you're.
+
+
+1065
+0:40:43,84 --> 0:40:44,775
+Oh, I hate that.
+
+
+1066
+0:40:44,775 --> 0:40:47,14
+Or there and their.
+
+
+1067
+0:40:47,14 --> 0:40:48,11
+Remember DOL?
+
+
+1068
+0:40:48,11 --> 0:40:51,76
+They don't teach that
+in schools anymore?
+
+
+1069
+0:40:51,76 --> 0:40:51,69
+Is that it?
+
+
+1070
+0:40:51,69 --> 0:40:53,174
+Am I good to-- You
+have a question?
+
+
+1071
+0:40:53,174 --> 0:40:55,382
+AUDIENCE: So you're perfectly
+happy for your spelling
+
+
+1072
+0:40:55,382 --> 0:40:56,11
+to be corrected.
+
+
+1073
+0:40:56,11 --> 0:40:58,885
+You don't feel like
+that it loses something?
+
+
+1074
+0:40:58,885 --> 0:41:0,26
+ROSE McALEESE:
+No, I don't really
+
+
+1075
+0:41:0,26 --> 0:41:2,52
+mind when people
+correct my spelling.
+
+
+1076
+0:41:2,52 --> 0:41:5,3
+I bet my friends and my family
+and friends and my boyfriend
+
+
+1077
+0:41:5,3 --> 0:41:8,75
+can tell you I do these
+idiosyncricities or something
+
+
+1078
+0:41:8,75 --> 0:41:9,71
+like that.
+
+
+1079
+0:41:9,71 --> 0:41:10,92
+I also have a mush mouth.
+
+
+1080
+0:41:10,92 --> 0:41:12,46
+So I grew up with
+an Irish father,
+
+
+1081
+0:41:12,46 --> 0:41:14,35
+where I had an accent
+when I was little.
+
+
+1082
+0:41:14,35 --> 0:41:17,21
+And because of that, I feel
+like I can't say certain words
+
+
+1083
+0:41:17,21 --> 0:41:19,5
+correctly, which on top
+of a reason disability,
+
+
+1084
+0:41:19,5 --> 0:41:22,68
+just makes me like a
+really great comic strip.
+
+
+1085
+0:41:22,68 --> 0:41:26,11
+But I don't have an issue
+with people correcting me
+
+
+1086
+0:41:26,11 --> 0:41:27,28
+with spelling.
+
+
+1087
+0:41:27,28 --> 0:41:28,78
+I kind of have more
+of an issue when
+
+
+1088
+0:41:28,78 --> 0:41:31,6
+people correct when I
+pronounce things wrong.
+
+
+1089
+0:41:31,6 --> 0:41:33,4
+Like what's that word I say?
+
+
+1090
+0:41:33,4 --> 0:41:34,51
+PO-tin-ate.
+
+
+1091
+0:41:34,51 --> 0:41:35,9
+Potinate.
+
+
+1092
+0:41:35,9 --> 0:41:36,6
+But it's just potent.
+
+
+1093
+0:41:36,6 --> 0:41:38,6
+For some reason, I want
+the word to be potinate.
+
+
+1094
+0:41:38,6 --> 0:41:41,51
+Or upstairges
+instead of upstairs.
+
+
+1095
+0:41:41,51 --> 0:41:42,311
+I can't say that.
+
+
+1096
+0:41:42,311 --> 0:41:44,31
+Yeah, there's a lot of
+weird things I say wrong.
+
+
+1097
+0:41:44,31 --> 0:41:46,26
+Like fa-SHE-shis.
+
+
+1098
+0:41:46,26 --> 0:41:48,5
+That's not the word.
+
+
+1099
+0:41:48,5 --> 0:41:51,13
+I have real trouble
+with speaking.
+
+
+1100
+0:41:51,13 --> 0:41:53,441
+English is hard.
+
+
+1101
+0:41:53,441 --> 0:41:53,94
+GAIR-age.
+
+
+1102
+0:41:53,94 --> 0:41:57,129
+And I say that, like
+a parking garage.
+
+
+1103
+0:41:57,129 --> 0:41:57,92
+That's really hard.
+
+
+1104
+0:41:57,92 --> 0:42:0,26
+Oh, the letter before I
+in the alphabet, is HAIH.
+
+
+1105
+0:42:0,26 --> 0:42:2,69
+It will always be haich.
+
+
+1106
+0:42:2,69 --> 0:42:5,365
+But there are ones that
+I got rid of. [INAUDIBLE]
+
+
+1107
+0:42:5,365 --> 0:42:6,84
+feel like that one.
+
+
+1108
+0:42:6,84 --> 0:42:9,48
+But I used to make fun
+of my dad and family
+
+
+1109
+0:42:9,48 --> 0:42:11,76
+for saying PRIHV-a-cy,
+instead of PRI-va-cy.
+
+
+1110
+0:42:11,76 --> 0:42:14,18
+But I say it sometimes,
+and that one's just ugly.
+
+
+1111
+0:42:14,18 --> 0:42:15,792
+So you can correct
+me on that one.
+
+
+1112
+0:42:15,792 --> 0:42:18,25
+But no, I have no issue with
+people correcting my spelling.
+
+
+1113
+0:42:18,25 --> 0:42:19,15
+Do it.
+
+
+1114
+0:42:19,15 --> 0:42:20,81
+Please.
+
+
+1115
+0:42:20,81 --> 0:42:22,27
+It's bad.
+
+
+1116
+0:42:22,27 --> 0:42:23,17
+Anyway.
+
+
+1117
+0:42:23,17 --> 0:42:25,411
+Like, why is there
+a D in Wednesday?
+
+
+1118
+0:42:25,411 --> 0:42:25,91
+OK, sorry.
+
+
+1119
+0:42:25,91 --> 0:42:26,409
+I'm done.
+
+
+1120
+0:42:26,409 --> 0:42:27,64
+We should leave.
+
+
+1121
+0:42:27,64 --> 0:42:28,26
+Thanks, guys!
+
+
+1122
+0:42:28,26 --> 0:42:29,24
+I hope you enjoyed.
+
+
+1123
+0:42:29,24 --> 0:44:29,24
+AUDIENCE: [APPLAUSE]
+
+

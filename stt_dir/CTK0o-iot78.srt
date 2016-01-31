@@ -1,0 +1,28 @@
+1
+0:0:0,0 --> 0:0:4,99
+
+
+
+2
+0:0:4,99 --> 0:0:8,189
+Welcome to Fashion Week
+International, a new show that
+
+
+3
+0:0:8,189 --> 0:0:11,37
+reports on the most fabulous
+fashion weeks in the world and
+
+
+4
+0:0:11,37 --> 0:0:13,19
+the culture and politics
+behind them.
+
+
+5
+0:0:13,19 --> 0:2:13,19
+
+
+

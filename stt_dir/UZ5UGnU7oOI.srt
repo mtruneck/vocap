@@ -1,0 +1,215 @@
+1
+0:0:13,821 --> 0:0:18,115
+One of the most striking properties about life is that it has color.
+
+
+2
+0:0:18,115 --> 0:0:22,44
+To understand the phenomenon of color, it helps to think about light as a wave.
+
+
+3
+0:0:22,44 --> 0:0:24,545
+But, before we get to that,
+
+
+4
+0:0:24,545 --> 0:0:27,546
+let's talk a little bit about waves in general.
+
+
+5
+0:0:27,546 --> 0:0:33,85
+Imagine you're sitting on a boat on the ocean watching a cork bob up and down in the water.
+
+
+6
+0:0:33,85 --> 0:0:36,279
+The first thing you notice about the motion is that it repeats itself.
+
+
+7
+0:0:36,279 --> 0:0:41,93
+The cork traces the same path over and over again... up and down, up and down.
+
+
+8
+0:0:41,93 --> 0:0:47,0
+This repetitive or periodic motion is characteristic of waves.
+
+
+9
+0:0:47,0 --> 0:0:48,43
+Then you notice something else...
+
+
+10
+0:0:48,43 --> 0:0:51,917
+using a stopwatch, you measure the time it takes for the piece of cork
+
+
+11
+0:0:51,917 --> 0:0:56,381
+to go over its highest position down to its lowest and then  back up again.
+
+
+12
+0:0:56,381 --> 0:0:58,234
+Suppose this takes two seconds.
+
+
+13
+0:0:58,234 --> 0:1:2,746
+To use the physics jargon, you've measured the period of the waves that cork is bobbing on.
+
+
+14
+0:1:2,746 --> 0:1:6,613
+That is, how long it takes a wave to go through its full range of motion once.
+
+
+15
+0:1:6,613 --> 0:1:12,53
+The same information can be expressed in a different way by calculating the wave's frequency.
+
+
+16
+0:1:12,53 --> 0:1:16,683
+Frequency, as the name suggest, tells you how frequent the waves are.
+
+
+17
+0:1:16,683 --> 0:1:19,746
+That is, how many of them go by in one second.
+
+
+18
+0:1:19,746 --> 0:1:22,631
+If you know how many seconds one full wave takes,
+
+
+19
+0:1:22,631 --> 0:1:26,188
+then it's easy to work out how many waves go by in one second.
+
+
+20
+0:1:26,188 --> 0:1:32,653
+In this case, since each wave takes 2 seconds, the frequency is 0.5 waves per second.
+
+
+21
+0:1:32,653 --> 0:1:36,515
+So enough about bobbing corks... what about light and color?
+
+
+22
+0:1:36,515 --> 0:1:39,229
+If light is a wave, then it must have a frequency. Right?
+
+
+23
+0:1:39,229 --> 0:1:40,942
+Well... yes, it does.
+
+
+24
+0:1:40,942 --> 0:1:45,288
+And it turns out that we already have a name for the frequency of the light that our eyes detect.
+
+
+25
+0:1:45,288 --> 0:1:46,982
+It's called color.
+
+
+26
+0:1:46,982 --> 0:1:51,396
+That's right. Color is nothing more than a measure of how quickly the light waves are waving.
+
+
+27
+0:1:51,396 --> 0:1:55,731
+If our eyes were quick enough, we might be able to observe this periodic motion directly,
+
+
+28
+0:1:55,731 --> 0:1:57,897
+like we can with the cork and the ocean.
+
+
+29
+0:1:57,897 --> 0:2:0,161
+But the frequency of the light we see is so high,
+
+
+30
+0:2:0,161 --> 0:2:4,387
+it waves up and down about 400 million million times a second,
+
+
+31
+0:2:4,387 --> 0:2:10,814
+that we can't possibly see it as a wave. But we can tell, by looking at its color, what its frequency is.
+
+
+32
+0:2:10,814 --> 0:2:14,975
+The lowest frequency light that we can see is red and the highest frequency is purple.
+
+
+33
+0:2:14,975 --> 0:2:20,914
+In between all the other frequencies form a continous band of color, called the visible spectrum.
+
+
+34
+0:2:20,914 --> 0:2:24,139
+So, what if you had a yellow pencil sitting on your desk?
+
+
+35
+0:2:24,139 --> 0:2:29,151
+Well, the sun emits all colors of light, so light of all colors is hitting your pencil.
+
+
+36
+0:2:29,151 --> 0:2:34,79
+The pencil looks yellow because it reflects yellow light more than it reflects the other colors.
+
+
+37
+0:2:34,79 --> 0:2:36,665
+What happens to the blue, purple and red light?
+
+
+38
+0:2:36,665 --> 0:2:40,766
+They get absorbed and the energy they are carrying is turned into heat.
+
+
+39
+0:2:40,766 --> 0:2:42,847
+It is similar with objects of other colors.
+
+
+40
+0:2:42,847 --> 0:2:46,606
+Blue things reflect blue light, red things reflect red light and so on.
+
+
+41
+0:2:46,606 --> 0:2:48,867
+White objects reflect all colors of light,
+
+
+42
+0:2:48,867 --> 0:2:52,945
+while black things do exactly the opposite and absorb at all frequencies.
+
+
+43
+0:2:52,945 --> 0:4:52,945
+This - by the way - is why it's uncomfortable to wear your favorite Metallica t-shirt on a sunny day.
+
+

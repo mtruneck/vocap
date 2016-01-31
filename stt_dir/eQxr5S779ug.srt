@@ -1,0 +1,3356 @@
+1
+0:0:1,4 --> 0:0:3,235
+TRAVIS:
+Now on "Rocket City Rednecks"...
+
+
+2
+0:0:3,235 --> 0:0:5,838
+We get a challenge from
+Papa John himself...
+
+
+3
+0:0:5,838 --> 0:0:7,473
+These are the guys.
+
+
+4
+0:0:7,473 --> 0:0:9,909
+To build
+the ultimate delivery vehicle--
+
+
+5
+0:0:9,909 --> 0:0:13,546
+a pizza bike engineered
+like only we can.
+
+
+6
+0:0:13,546 --> 0:0:16,649
+But in a race between delivery
+bike and delivery truck,
+
+
+7
+0:0:16,649 --> 0:0:19,652
+will our design fail to deliver?
+
+
+8
+0:0:19,652 --> 0:0:21,153
+ROG: You're on fire!
+
+
+9
+0:0:21,153 --> 0:0:23,155
+TRAVIS: I'm Travis Taylor.
+
+
+10
+0:0:23,155 --> 0:0:25,424
+I'm a rocket scientist in
+the space and defense industry
+
+
+11
+0:0:25,424 --> 0:0:28,294
+here in my hometown
+of Huntsville, Alabama,
+
+
+12
+0:0:28,294 --> 0:0:29,962
+where my daddy
+helped build the rockets
+
+
+13
+0:0:29,962 --> 0:0:31,564
+that sent us to the moon.
+
+
+14
+0:0:31,564 --> 0:0:34,166
+DADDY: Have y'all been
+drinking rocket fuel again?
+
+
+15
+0:0:34,166 --> 0:0:37,103
+TRAVIS: Sometimes big science
+moves too slow for me,
+
+
+16
+0:0:37,103 --> 0:0:41,24
+so come the weekend,
+I round up my best friend Rog,
+
+
+17
+0:0:41,24 --> 0:0:43,542
+my nephew, Michael,
+and my buddy, Pete,
+
+
+18
+0:0:43,542 --> 0:0:45,44
+to tackle important problems
+
+
+19
+0:0:45,44 --> 0:0:47,847
+with a little
+down-home ingenuity.
+
+
+20
+0:0:47,847 --> 0:0:52,251
+ROG: Damn it, boy!
+
+
+21
+0:0:52,251 --> 0:0:53,752
+TRAVIS: Right on.
+
+
+22
+0:0:53,752 --> 0:0:55,955
+Hey, is there any more
+beers in the cooler?
+
+
+23
+0:0:55,955 --> 0:0:59,158
+This weekend started off
+a bit different.
+
+
+24
+0:0:59,158 --> 0:1:0,526
+The whole gang came over
+
+
+25
+0:1:0,526 --> 0:1:3,195
+for a video call
+with John Schnatter,
+
+
+26
+0:1:3,195 --> 0:1:6,232
+the CEO and "Papa"
+of Papa John's Pizza.
+
+
+27
+0:1:6,232 --> 0:1:8,167
+He wanted to talk to us.
+
+
+28
+0:1:8,167 --> 0:1:9,335
+Now, this should be interesting.
+
+
+29
+0:1:9,335 --> 0:1:11,67
+Hey, John!
+
+
+30
+0:1:11,67 --> 0:1:14,573
+Yeah, it's Travis Taylor
+and the rest of the guys here.
+
+
+31
+0:1:14,573 --> 0:1:15,741
+JOHN SCHNATTER:
+You know I'm a fan of the show,
+
+
+32
+0:1:15,741 --> 0:1:17,42
+and I know you're
+a fan of my pizzas.
+
+
+33
+0:1:17,42 --> 0:1:18,177
+TRAVIS: Yeah, cool.
+
+
+34
+0:1:18,177 --> 0:1:19,712
+JOHN: I wanted
+to talk to you guys
+
+
+35
+0:1:19,712 --> 0:1:21,347
+about something
+we're working on at Papa John's.
+
+
+36
+0:1:21,347 --> 0:1:23,82
+As you know,
+we're constantly improving.
+
+
+37
+0:1:23,82 --> 0:1:26,318
+In some big cities we're testing
+the concept of using bicycles
+
+
+38
+0:1:26,318 --> 0:1:28,621
+to deliver pizza faster,
+
+
+39
+0:1:28,621 --> 0:1:29,989
+so I thought
+maybe you could come up
+
+
+40
+0:1:29,989 --> 0:1:31,557
+with some of that
+redneck ingenuity
+
+
+41
+0:1:31,557 --> 0:1:32,992
+to help us build
+the ultimate pizza bike.
+
+
+42
+0:1:32,992 --> 0:1:35,261
+TRAVIS: Well, I believe
+we can do it.
+
+
+43
+0:1:35,261 --> 0:1:36,562
+What we need to know, though,
+
+
+44
+0:1:36,562 --> 0:1:39,598
+is what you need
+a pizza delivery bike to do.
+
+
+45
+0:1:39,598 --> 0:1:42,168
+JOHN: I think it needs to carry
+multiple pizzas and drinks,
+
+
+46
+0:1:42,168 --> 0:1:43,269
+it needs to keep the pizza hot,
+
+
+47
+0:1:43,269 --> 0:1:44,737
+and it needs
+to keep the drinks cold,
+
+
+48
+0:1:44,737 --> 0:1:47,206
+and it needs to communicate
+back to home base.
+
+
+49
+0:1:47,206 --> 0:1:50,142
+TRAVIS: Yeah! We can come up
+with something great for you.
+
+
+50
+0:1:50,142 --> 0:1:52,144
+JOHN: Appreciate it.
+Thanks, guys.
+
+
+51
+0:1:52,144 --> 0:1:54,28
+TRAVIS: We understand why
+Papa John wants to do this
+
+
+52
+0:1:54,28 --> 0:1:56,882
+because if you're delivering
+pizzas in the city
+
+
+53
+0:1:56,882 --> 0:1:58,25
+and you've got all that traffic,
+
+
+54
+0:1:58,25 --> 0:1:59,885
+it'd be a lot easier
+if you could zip in and out,
+
+
+55
+0:1:59,885 --> 0:2:2,21
+and the more pizzas
+you could put on the bike,
+
+
+56
+0:2:2,21 --> 0:2:5,791
+the better off you'd be.
+
+
+57
+0:2:5,791 --> 0:2:7,76
+Look, we got to have
+all these things.
+
+
+58
+0:2:7,76 --> 0:2:10,529
+Let's think about it.
+If you got a bicycle...
+
+
+59
+0:2:10,529 --> 0:2:13,332
+I think our biggest challenge
+is keeping the pizza hot
+
+
+60
+0:2:13,332 --> 0:2:14,967
+while on a long bike ride.
+
+
+61
+0:2:14,967 --> 0:2:17,77
+So, instead of using
+some kind of warming bag,
+
+
+62
+0:2:17,77 --> 0:2:21,473
+I want to create an actual
+pizza oven on the bike.
+
+
+63
+0:2:21,473 --> 0:2:23,776
+It's a pizza kitchen on wheels.
+
+
+64
+0:2:23,776 --> 0:2:26,245
+Somehow we got to put an oven
+back in here
+
+
+65
+0:2:26,245 --> 0:2:27,88
+that's gonna hold five pizzas.
+
+
+66
+0:2:27,88 --> 0:2:30,816
+The big challenge of this build
+is gonna be weight and balance
+
+
+67
+0:2:30,816 --> 0:2:33,285
+because we're gonna be adding
+at least 40 pounds
+
+
+68
+0:2:33,285 --> 0:2:34,453
+to the back of this bike
+
+
+69
+0:2:34,453 --> 0:2:37,156
+with the drink cooler
+and the pizza oven.
+
+
+70
+0:2:37,156 --> 0:2:39,825
+And since everything has to be
+custom-fit to the bike,
+
+
+71
+0:2:39,825 --> 0:2:42,595
+we can't just go buy
+our components off the shelf,
+
+
+72
+0:2:42,595 --> 0:2:46,332
+so we cooked up our own recipe
+for our homemade pizza oven.
+
+
+73
+0:2:46,332 --> 0:2:49,134
+The first ingredient
+is angle aluminum,
+
+
+74
+0:2:49,134 --> 0:2:50,903
+which we'll use
+to whip up a rack
+
+
+75
+0:2:50,903 --> 0:2:52,738
+that will fit five pizzas.
+
+
+76
+0:2:52,738 --> 0:2:55,908
+Then we'll blend in parts
+from a camping stove,
+
+
+77
+0:2:55,908 --> 0:2:58,577
+like battery-powered
+heating elements and wiring
+
+
+78
+0:2:58,577 --> 0:3:0,679
+and attach them along the frame.
+
+
+79
+0:3:0,679 --> 0:3:2,14
+For the finishing touch,
+
+
+80
+0:3:2,14 --> 0:3:4,45
+we'll cover the whole thing
+in insulation
+
+
+81
+0:3:4,45 --> 0:3:5,618
+and skin it with aluminum,
+
+
+82
+0:3:5,618 --> 0:3:8,921
+and--bam--we've got
+ourselves a pizza oven.
+
+
+83
+0:3:8,921 --> 0:3:11,19
+I put Pete and Rog
+working on the oven.
+
+
+84
+0:3:11,19 --> 0:3:13,525
+Rog, you and Pete figured out
+
+
+85
+0:3:13,525 --> 0:3:15,461
+how big that pizza oven's
+got to be yet?
+
+
+86
+0:3:15,461 --> 0:3:18,497
+ROG: Yeah. I don't have
+any fancy degrees or anything,
+
+
+87
+0:3:18,497 --> 0:3:20,633
+but something tells me
+this pizza oven
+
+
+88
+0:3:20,633 --> 0:3:23,335
+has to be big enough
+to fit a pizza box.
+
+
+89
+0:3:23,335 --> 0:3:25,704
+TRAVIS: Well, why aren't
+you working on it?
+
+
+90
+0:3:25,704 --> 0:3:27,673
+Where's Pete? ROG: Pete!
+
+
+91
+0:3:27,673 --> 0:3:30,409
+TRAVIS: I picked up
+some empty pizza boxes
+
+
+92
+0:3:30,409 --> 0:3:32,244
+we could use during the build
+
+
+93
+0:3:32,244 --> 0:3:34,28
+to make sure everything
+fits perfectly.
+
+
+94
+0:3:34,28 --> 0:3:37,716
+TRAVIS: I don't know
+how to make a pizza box.
+
+
+95
+0:3:37,716 --> 0:3:40,753
+There's got to be a trick
+to making a pizza box.
+
+
+96
+0:3:40,753 --> 0:3:42,721
+ROG: How many rocket scientists
+does it take
+
+
+97
+0:3:42,721 --> 0:3:44,59
+to put together a pizza box?
+
+
+98
+0:3:44,59 --> 0:3:47,359
+MICHAEL: Hang on,
+I think you gotta start up here.
+
+
+99
+0:3:47,359 --> 0:3:48,827
+There you go.
+
+
+100
+0:3:48,827 --> 0:3:50,696
+That's got to go on the inside.
+
+
+101
+0:3:50,696 --> 0:3:51,83
+[laughs]
+
+
+102
+0:3:51,83 --> 0:3:53,232
+TRAVIS:
+That will do good enough.
+
+
+103
+0:3:53,232 --> 0:3:55,267
+MICHAEL: Push the little tops.
+TRAVIS: Yeah, like that.
+
+
+104
+0:3:55,267 --> 0:3:56,635
+All right, that's close enough.
+
+
+105
+0:3:56,635 --> 0:4:0,39
+ROG: We wanted the pizza boxes
+to slide into a rack,
+
+
+106
+0:4:0,39 --> 0:4:2,508
+so we notched out
+and bent some aluminum angle
+
+
+107
+0:4:2,508 --> 0:4:3,842
+to make a frame.
+
+
+108
+0:4:3,842 --> 0:4:5,444
+PETE: Just take that over
+to the grinder.
+
+
+109
+0:4:5,444 --> 0:4:7,713
+TRAVIS: While those guys
+worked on the oven rack,
+
+
+110
+0:4:7,713 --> 0:4:10,316
+me, Michael, and Daddy
+got the oven platform together.
+
+
+111
+0:4:10,316 --> 0:4:11,95
+DADDY: We thought,
+"This is gonna be
+
+
+112
+0:4:11,95 --> 0:4:14,42
+the easiest thing we've
+ever done," but I'm concerned.
+
+
+113
+0:4:14,42 --> 0:4:17,222
+Every time you jump into
+one of these all you gotta do's,
+
+
+114
+0:4:17,222 --> 0:4:19,758
+you wind up on
+the short end of the stick.
+
+
+115
+0:4:19,758 --> 0:4:23,195
+TRAVIS: Just bolt it together.
+
+
+116
+0:4:23,195 --> 0:4:25,197
+TRAVIS: You got a level.
+Where's the level, Daddy?
+
+
+117
+0:4:25,197 --> 0:4:27,66
+ROG: I know a lot about pizza,
+
+
+118
+0:4:27,66 --> 0:4:29,101
+so when I saw Charlie
+with that level,
+
+
+119
+0:4:29,101 --> 0:4:31,704
+I had to step in before
+they made a major mistake.
+
+
+120
+0:4:31,704 --> 0:4:34,606
+Hey, hey, before
+you tighten it,
+
+
+121
+0:4:34,606 --> 0:4:36,909
+do we not want the pizzas
+at an angle?
+
+
+122
+0:4:36,909 --> 0:4:39,78
+MICHAEL: We want 'em level.
+ROG: I was trying to tell 'em
+
+
+123
+0:4:39,78 --> 0:4:41,48
+if the oven
+wasn't angled up on the back,
+
+
+124
+0:4:41,48 --> 0:4:44,49
+those pizzas were gonna fly out
+as soon as he started pedaling.
+
+
+125
+0:4:44,49 --> 0:4:46,719
+ROG: Them pizzas gonna
+fall out of that.
+
+
+126
+0:4:46,719 --> 0:4:48,554
+DADDY: Alright, there you go.
+
+
+127
+0:4:48,554 --> 0:4:50,823
+MICHAEL:
+We're gonna pick it up level,
+
+
+128
+0:4:50,823 --> 0:4:52,57
+You wanna go higher than level?
+
+
+129
+0:4:52,57 --> 0:4:53,425
+ROG: Just a little bit.
+
+
+130
+0:4:53,425 --> 0:4:56,695
+DADDY: That's a hair
+above level right there.
+
+
+131
+0:4:56,695 --> 0:4:58,797
+ROG: You can't weld nothing.
+
+
+132
+0:4:58,797 --> 0:5:1,233
+TRAVIS: Before we welded
+anything to the platform,
+
+
+133
+0:5:1,233 --> 0:5:3,102
+I wanted to check the weight
+and balance distribution
+
+
+134
+0:5:3,102 --> 0:5:5,137
+of the bike.
+
+
+135
+0:5:5,137 --> 0:5:7,473
+So we loaded about 30 pounds
+of sandbags onto the rack,
+
+
+136
+0:5:7,473 --> 0:5:9,41
+and then I took it
+for a test drive.
+
+
+137
+0:5:9,41 --> 0:5:11,443
+Crap, look at that!
+
+
+138
+0:5:11,443 --> 0:5:12,845
+God!
+
+
+139
+0:5:12,845 --> 0:5:15,47
+What?
+I'm not doing that!
+
+
+140
+0:5:15,47 --> 0:5:16,982
+DADDY: That's got to be
+operator malfunction.
+
+
+141
+0:5:16,982 --> 0:5:18,517
+MICHAEL:
+Holler at him. Tell him.
+
+
+142
+0:5:18,517 --> 0:5:20,85
+DADDY: Operator error!
+
+
+143
+0:5:20,85 --> 0:5:22,788
+TRAVIS: The problem seemed to be
+that the weight of the bags
+
+
+144
+0:5:22,788 --> 0:5:24,356
+was out over the end
+of the wheel.
+
+
+145
+0:5:24,356 --> 0:5:27,292
+Normally, a bike has most
+of the weight over the center.
+
+
+146
+0:5:27,292 --> 0:5:28,961
+Now the weight
+was way off-center,
+
+
+147
+0:5:28,961 --> 0:5:32,631
+and it was making me barely able
+to keep the bike upright.
+
+
+148
+0:5:32,631 --> 0:5:33,966
+We've got a lot to change
+
+
+149
+0:5:33,966 --> 0:5:35,634
+and to straighten out
+and rethink,
+
+
+150
+0:5:35,634 --> 0:5:37,436
+and we're gonna get there.
+
+
+151
+0:5:37,436 --> 0:5:40,472
+Yeah, I don't know what
+to say about it right now.
+
+
+152
+0:5:40,472 --> 0:5:42,508
+DADDY: This thing's going
+every way but right.
+
+
+153
+0:5:42,508 --> 0:5:45,544
+Now, who would've thought
+it'd be complicated
+
+
+154
+0:5:45,544 --> 0:5:48,247
+to build a bicycle for pizza?
+
+
+155
+0:5:48,247 --> 0:5:50,449
+TRAVIS: We messed around with
+the placement of the sandbags
+
+
+156
+0:5:50,449 --> 0:5:52,317
+to adjust the center of gravity.
+
+
+157
+0:5:52,317 --> 0:5:53,852
+MICHAEL: Is that any different?
+
+
+158
+0:5:53,852 --> 0:5:55,821
+TRAVIS:
+Yeah, that's a lot better.
+
+
+159
+0:5:55,821 --> 0:5:57,656
+And it made it ride less wobbly.
+
+
+160
+0:5:57,656 --> 0:5:59,925
+Now that we've figured out
+a better weight distribution...
+
+
+161
+0:5:59,925 --> 0:6:1,86
+Yeah, I could ride on this.
+
+
+162
+0:6:1,86 --> 0:6:4,363
+We got back to work
+on the oven and the cooler.
+
+
+163
+0:6:4,363 --> 0:6:5,898
+Well, let's go.
+
+
+164
+0:6:5,898 --> 0:6:7,866
+Get that weight off there.
+Let's mount that oven.
+
+
+165
+0:6:7,866 --> 0:6:9,334
+Finish building
+that oven Pete, Rog.
+
+
+166
+0:6:9,334 --> 0:6:11,236
+What are y'all doing?
+Build that thing!
+
+
+167
+0:6:11,236 --> 0:6:14,173
+ROG: I got my part done.
+TRAVIS: Where's the other part?
+
+
+168
+0:6:14,173 --> 0:6:16,975
+TRAVIS: We used the elements
+out of a 12-volt camping oven
+
+
+169
+0:6:16,975 --> 0:6:18,544
+to put in our pizza oven.
+
+
+170
+0:6:18,544 --> 0:6:20,12
+These things should work fine,
+
+
+171
+0:6:20,12 --> 0:6:22,14
+and they work off of
+a 12-volt battery.
+
+
+172
+0:6:22,14 --> 0:6:24,116
+Rog worked on the door
+for the oven,
+
+
+173
+0:6:24,116 --> 0:6:25,617
+while Pete did the wiring.
+
+
+174
+0:6:25,617 --> 0:6:26,819
+PETE: Rog, I think
+we're about ready
+
+
+175
+0:6:26,819 --> 0:6:28,32
+to put this thing together.
+
+
+176
+0:6:28,32 --> 0:6:29,588
+TRAVIS: I took it upon myself
+
+
+177
+0:6:29,588 --> 0:6:31,79
+to build the cooler
+for the two-liter soda bottles.
+
+
+178
+0:6:31,79 --> 0:6:32,891
+The oven and the cooler
+
+
+179
+0:6:32,891 --> 0:6:34,793
+were both covered
+with insulating foam
+
+
+180
+0:6:34,793 --> 0:6:37,29
+to keep the heat
+and the cold in.
+
+
+181
+0:6:37,29 --> 0:6:39,97
+Then we covered them
+in sheet metal
+
+
+182
+0:6:39,97 --> 0:6:40,833
+for protection
+from the elements.
+
+
+183
+0:6:40,833 --> 0:6:44,136
+PETE: Chefs,
+step away from your tables.
+
+
+184
+0:6:44,136 --> 0:6:46,4
+MICHAEL:
+There's our battery ready.
+
+
+185
+0:6:46,4 --> 0:6:47,973
+TRAVIS: When Michael
+finished installing the battery,
+
+
+186
+0:6:47,973 --> 0:6:51,9
+I sent him to get some pizzas
+so we could do a test run.
+
+
+187
+0:6:51,9 --> 0:6:53,946
+Now we just need to get the
+cooler and the oven on the bike.
+
+
+188
+0:6:53,946 --> 0:6:55,314
+MICHAEL: Why don't we just
+bungee cord it on there?
+
+
+189
+0:6:55,314 --> 0:6:57,916
+TRAVIS: No. Make me a frame
+that it slides into.
+
+
+190
+0:6:57,916 --> 0:6:59,351
+Put a stop right here.
+
+
+191
+0:6:59,351 --> 0:7:2,788
+Just come up over it with
+the three-quarter inch tubing.
+
+
+192
+0:7:2,788 --> 0:7:4,189
+Or one inch, I don't care.
+
+
+193
+0:7:4,189 --> 0:7:6,91
+MICHAEL: You need to wait
+till you get the oven in there
+
+
+194
+0:7:6,91 --> 0:7:8,293
+and mount it in so it slides.
+
+
+195
+0:7:8,293 --> 0:7:12,64
+TRAVIS: And before long,
+it looked ready to ride,
+
+
+196
+0:7:12,64 --> 0:7:14,366
+until I saw
+what Michael was doing.
+
+
+197
+0:7:14,366 --> 0:7:17,69
+TRAVIS: Yeah, I don't like it.
+I told you what to do.
+
+
+198
+0:7:17,69 --> 0:7:20,72
+I do not want it bungeed on,
+Michael Taylor,
+
+
+199
+0:7:20,72 --> 0:7:21,974
+'cause look--
+when you start doing that,
+
+
+200
+0:7:21,974 --> 0:7:23,509
+that bungee's
+going to let it do that.
+
+
+201
+0:7:23,509 --> 0:7:26,545
+I want you to weld me
+a bar across here.
+
+
+202
+0:7:26,545 --> 0:7:28,347
+ROG: He done told you!
+
+
+203
+0:7:28,347 --> 0:7:30,282
+TRAVIS: Hardheaded boy!
+
+
+204
+0:7:30,282 --> 0:7:32,918
+ROG: I'm tired of counting
+how many times he told you.
+
+
+205
+0:7:32,918 --> 0:7:34,86
+DADDY:
+I've tried to argue with them.
+
+
+206
+0:7:34,86 --> 0:7:35,921
+I never win
+with either one of 'em.
+
+
+207
+0:7:35,921 --> 0:7:37,756
+They're both just hardheaded,
+and I tell 'em
+
+
+208
+0:7:37,756 --> 0:7:39,958
+they take it after
+their mother and their grandma.
+
+
+209
+0:7:39,958 --> 0:7:43,128
+TRAVIS: Daddy, I wouldn't
+be saying that out loud.
+
+
+210
+0:7:43,128 --> 0:7:46,665
+ROG: I don't know what Travis
+has against bungee cords,
+
+
+211
+0:7:46,665 --> 0:7:49,101
+so Michael welded it up
+just like he asked,
+
+
+212
+0:7:49,101 --> 0:7:52,4
+and once again,
+the diva got what he wanted,
+
+
+213
+0:7:52,4 --> 0:7:54,106
+and we loaded her up
+with pizza,
+
+
+214
+0:7:54,106 --> 0:7:55,44
+which gave me an idea.
+
+
+215
+0:7:55,44 --> 0:7:58,377
+Hey, somebody got to 
+feed them kids, man.
+
+
+216
+0:7:58,377 --> 0:8:0,212
+TRAVIS: What?
+Feed them kids?
+
+
+217
+0:8:0,212 --> 0:8:1,446
+ROG: Yeah, carry it over
+to my house.
+
+
+218
+0:8:1,446 --> 0:8:3,215
+TRAVIS:
+Carry it to your house?
+
+
+219
+0:8:3,215 --> 0:8:4,683
+All right,
+well, that's about what?
+
+
+220
+0:8:4,683 --> 0:8:6,952
+Five or six miles from here?
+That's not a bad delivery test.
+
+
+221
+0:8:6,952 --> 0:8:8,62
+ROG:
+I don't think it's that far.
+
+
+222
+0:8:8,62 --> 0:8:11,56
+TRAVIS: I'm gonna deliver
+these pizzas to Rog's house.
+
+
+223
+0:8:11,56 --> 0:8:13,125
+I'm gonna test drive
+the fully loaded bike
+
+
+224
+0:8:13,125 --> 0:8:14,927
+for a few miles
+to make sure
+
+
+225
+0:8:14,927 --> 0:8:18,53
+that all the earlier weight and
+balance problems are solved.
+
+
+226
+0:8:18,53 --> 0:8:21,667
+Once that's settled, we'll add
+the communications systems
+
+
+227
+0:8:21,667 --> 0:8:23,468
+that Papa John wanted.
+
+
+228
+0:8:23,468 --> 0:8:25,837
+MICHAEL: Now kick that thing up,
+and it'll stay. There you go.
+
+
+229
+0:8:25,837 --> 0:8:27,773
+TRAVIS: We'll make it look cool
+
+
+230
+0:8:27,773 --> 0:8:30,375
+and present
+the finished bike to him.
+
+
+231
+0:8:30,375 --> 0:8:34,346
+So I hit the road
+with pizza bike version one.
+
+
+232
+0:8:34,346 --> 0:8:36,515
+ROG:
+Shake it, don't break it!
+
+
+233
+0:8:36,515 --> 0:8:38,35
+Look at him wiggling like that.
+
+
+234
+0:8:38,35 --> 0:8:39,651
+MICHAEL: Don't shake the Cokes!
+
+
+235
+0:8:39,651 --> 0:8:41,987
+TRAVIS: It took a little bit
+just to get started
+
+
+236
+0:8:41,987 --> 0:8:44,122
+because the bike
+is a little unstable.
+
+
+237
+0:8:44,122 --> 0:8:52,731
+PETE: Drain a gear and push it!
+
+
+238
+0:8:52,731 --> 0:8:55,167
+TRAVIS: Whoa!
+Can't stand up on it.
+
+
+239
+0:8:55,167 --> 0:8:57,536
+You certainly can't stand up
+on the thing to climb hills.
+
+
+240
+0:8:57,536 --> 0:9:1,64
+That's a problem.
+
+
+241
+0:9:1,64 --> 0:9:3,742
+MICHAEL:
+Drive that thing straight.
+
+
+242
+0:9:3,742 --> 0:9:5,611
+Keep it in the road!
+TRAVIS: Shut up!
+
+
+243
+0:9:5,611 --> 0:9:7,846
+PETE: I'm a little bit
+concerned about this bike.
+
+
+244
+0:9:7,846 --> 0:9:9,481
+It just seems like
+it's really wobbly.
+
+
+245
+0:9:9,481 --> 0:9:12,351
+ROG: Don't lose him, Pete.
+
+
+246
+0:9:12,351 --> 0:9:14,119
+TRAVIS:
+If I get going really slow,
+
+
+247
+0:9:14,119 --> 0:9:16,188
+then I start wobbling,
+and it gets pretty scary.
+
+
+248
+0:9:16,188 --> 0:9:18,924
+MICHAEL: Need me
+to get out and push?
+
+
+249
+0:9:18,924 --> 0:9:20,392
+TRAVIS: Shut up!
+
+
+250
+0:9:20,392 --> 0:9:24,229
+Crap!
+
+
+251
+0:9:24,229 --> 0:9:28,367
+ROG: You all right, bubba?
+
+
+252
+0:9:28,367 --> 0:9:31,837
+MICHAEL: You all right?
+TRAVIS: Yeah.
+
+
+253
+0:9:31,837 --> 0:9:35,73
+As it started wobbling,
+the front tire got off the road,
+
+
+254
+0:9:35,73 --> 0:9:36,8
+and I crashed pretty good.
+
+
+255
+0:9:36,8 --> 0:9:42,681
+Crap!
+
+
+256
+0:9:42,681 --> 0:9:45,384
+You get too slow,
+you just can't...
+
+
+257
+0:9:45,384 --> 0:9:46,885
+you can't handle it.
+
+
+258
+0:9:46,885 --> 0:9:48,253
+DADDY: We were
+concerned he got hurt,
+
+
+259
+0:9:48,253 --> 0:9:50,856
+but we checked on him.
+He wasn't hurt; just his pride.
+
+
+260
+0:9:50,856 --> 0:9:52,658
+ROG: Stay with it.
+
+
+261
+0:9:52,658 --> 0:9:54,926
+TRAVIS: Well, hope
+they don't mind us delivering
+
+
+262
+0:9:54,926 --> 0:9:56,628
+some shook-up Coca-Colas, Rog.
+
+
+263
+0:9:56,628 --> 0:9:59,398
+Center of gravity's
+just way high.
+
+
+264
+0:9:59,398 --> 0:10:2,367
+Soon as you slow down
+to climb a hill,
+
+
+265
+0:10:2,367 --> 0:10:4,503
+then it's just--I mean,
+it's all my strength
+
+
+266
+0:10:4,503 --> 0:10:7,205
+to just keep it from
+falling over side to side.
+
+
+267
+0:10:7,205 --> 0:10:9,174
+Center of gravity has gotta be
+lower to the ground.
+
+
+268
+0:10:9,174 --> 0:10:12,77
+MICHAEL: You gonna go to Rog's,
+or we gonna load it up?
+
+
+269
+0:10:12,77 --> 0:10:15,8
+TRAVIS: Well, I mean,
+I can get on over this hill.
+
+
+270
+0:10:15,8 --> 0:10:16,782
+DADDY:
+Travis gets back on the bike,
+
+
+271
+0:10:16,782 --> 0:10:19,184
+and he's still gonna take
+these pizzas over to Rog's.
+
+
+272
+0:10:19,184 --> 0:10:22,22
+PETE: All right, ready?
+TRAVIS: Yeah.
+
+
+273
+0:10:22,22 --> 0:10:25,29
+DADDY: And he gets about
+a quarter mile on up the road.
+
+
+274
+0:10:25,29 --> 0:10:27,993
+ROG: I smell something.
+MICHAEL: I smell something.
+
+
+275
+0:10:27,993 --> 0:10:29,695
+[horn honking]
+
+
+276
+0:10:29,695 --> 0:10:32,23
+ROG: You're on fire!
+DADDY: Hey, Travis!
+
+
+277
+0:10:32,23 --> 0:10:34,8
+And the whole back end
+of the bike is on fire.
+
+
+278
+0:10:34,8 --> 0:10:37,235
+[honking]
+
+
+279
+0:10:37,235 --> 0:10:44,276
+And he don't even know it.
+
+
+280
+0:10:44,276 --> 0:10:46,378
+Daddy: These experiments are
+dangerous.
+
+
+281
+0:10:46,378 --> 0:10:48,914
+These guys are real rocket
+scientests.
+
+
+282
+0:10:48,914 --> 0:10:52,5
+Don't try this at home.
+
+
+283
+0:10:52,5 --> 0:10:54,252
+TRAVIS: The CEO of Papa John's
+
+
+284
+0:10:54,252 --> 0:10:55,987
+asked us
+to build him a prototype
+
+
+285
+0:10:55,987 --> 0:10:57,823
+for a pizza delivery bike,
+
+
+286
+0:10:57,823 --> 0:10:59,124
+but so far...
+
+
+287
+0:10:59,124 --> 0:11:0,125
+Crap!
+
+
+288
+0:11:0,125 --> 0:11:1,46
+It hasn't delivered.
+
+
+289
+0:11:1,46 --> 0:11:3,829
+But I hadn't even seen
+the worst of it yet.
+
+
+290
+0:11:3,829 --> 0:11:5,464
+ROG: You're on fire!
+
+
+291
+0:11:5,464 --> 0:11:7,766
+DADDY: The whole back end
+of the bike is on fire.
+
+
+292
+0:11:7,766 --> 0:11:9,601
+And he don't even know it.
+
+
+293
+0:11:9,601 --> 0:11:11,203
+DADDY: Look out.
+
+
+294
+0:11:11,203 --> 0:11:14,139
+You're on fire, boy!
+
+
+295
+0:11:14,139 --> 0:11:16,141
+ROG: Who's gonna
+feed them kids?
+
+
+296
+0:11:16,141 --> 0:11:17,509
+TRAVIS:
+I didn't know it was on fire
+
+
+297
+0:11:17,509 --> 0:11:18,81
+until it was getting
+out of hand,
+
+
+298
+0:11:18,81 --> 0:11:20,779
+and Daddy and Pete were
+honking the horn and yelling,
+
+
+299
+0:11:20,779 --> 0:11:23,148
+and Michael and Rog were yelling
+that I had a fire.
+
+
+300
+0:11:23,148 --> 0:11:24,983
+I thought they were telling me
+I was just on fire
+
+
+301
+0:11:24,983 --> 0:11:27,652
+and was riding pretty good.
+
+
+302
+0:11:27,652 --> 0:11:29,588
+MICHAEL: What in the world?
+
+
+303
+0:11:29,588 --> 0:11:31,256
+DADDY: How could that thing
+catch on fire in there
+
+
+304
+0:11:31,256 --> 0:11:32,724
+with a pizza?
+
+
+305
+0:11:32,724 --> 0:11:34,993
+TRAVIS:
+When I crashed back there,
+
+
+306
+0:11:34,993 --> 0:11:37,329
+I bet we shorted out
+them heating elements.
+
+
+307
+0:11:37,329 --> 0:11:38,63
+I think your kids
+are gonna have to eat
+
+
+308
+0:11:38,63 --> 0:11:40,232
+some peanut butter and jelly
+tonight or something.
+
+
+309
+0:11:40,232 --> 0:11:43,401
+MICHAEL: Get in the truck.
+Let's load this bike up.
+
+
+310
+0:11:43,401 --> 0:11:45,971
+TRAVIS: It's been
+a long, tiring day,
+
+
+311
+0:11:45,971 --> 0:11:47,939
+so we decided to pack it in
+
+
+312
+0:11:47,939 --> 0:11:50,108
+and start bright and early
+tomorrow morning.
+
+
+313
+0:11:50,108 --> 0:11:51,643
+We've got a lot of fixing to do
+
+
+314
+0:11:51,643 --> 0:11:57,949
+if we're gonna have a working
+pizza bike to show Papa John.
+
+
+315
+0:11:57,949 --> 0:12:0,352
+But one thing
+I wanna make sure we got
+
+
+316
+0:12:0,352 --> 0:12:3,588
+is somehow for me to know if
+this thing were to catch on fire
+
+
+317
+0:12:3,588 --> 0:12:6,91
+or start getting too hot,
+that I could shut it off.
+
+
+318
+0:12:6,91 --> 0:12:7,692
+First thing we got to do
+
+
+319
+0:12:7,692 --> 0:12:10,829
+is keep the oven
+from catching on fire again.
+
+
+320
+0:12:10,829 --> 0:12:12,697
+So I'm thinking we need to put
+a temperature probe in there
+
+
+321
+0:12:12,697 --> 0:12:15,167
+that somehow's
+got a screen up here
+
+
+322
+0:12:15,167 --> 0:12:18,203
+that I can tell if it's getting
+too hot or whatever.
+
+
+323
+0:12:18,203 --> 0:12:20,772
+The biggest thing with this bike
+right now is stability.
+
+
+324
+0:12:20,772 --> 0:12:22,274
+It wobbled like crazy.
+
+
+325
+0:12:22,274 --> 0:12:24,75
+The reason the bike wobbles
+
+
+326
+0:12:24,75 --> 0:12:26,578
+is that the center of gravity
+is still too far to the rear.
+
+
+327
+0:12:26,578 --> 0:12:28,18
+Can't move the oven up.
+
+
+328
+0:12:28,18 --> 0:12:31,616
+We have another option:
+make the bike longer.
+
+
+329
+0:12:31,616 --> 0:12:33,652
+You know, when we went to
+the beach a couple years ago,
+
+
+330
+0:12:33,652 --> 0:12:36,288
+Calista wasn't old enough
+to ride a bike yet,
+
+
+331
+0:12:36,288 --> 0:12:37,923
+but she was old enough
+to pedal a tricycle,
+
+
+332
+0:12:37,923 --> 0:12:39,291
+and I rented this bike.
+
+
+333
+0:12:39,291 --> 0:12:41,226
+It had one wheel come off here,
+
+
+334
+0:12:41,226 --> 0:12:44,62
+and it had handlebars on it
+and a pedal.
+
+
+335
+0:12:44,62 --> 0:12:45,263
+Yeah, and she rode it,
+
+
+336
+0:12:45,263 --> 0:12:46,765
+and that thing was stable
+as all get out.
+
+
+337
+0:12:46,765 --> 0:12:48,33
+We went over trails and stuff.
+
+
+338
+0:12:48,33 --> 0:12:49,734
+That's what we need.
+We need one of those.
+
+
+339
+0:12:49,734 --> 0:12:50,936
+Why don't you and Rog
+call around
+
+
+340
+0:12:50,936 --> 0:12:52,704
+and see if y'all can find one,
+
+
+341
+0:12:52,704 --> 0:12:54,84
+then maybe run over
+and get one somewhere.
+
+
+342
+0:12:54,84 --> 0:12:57,442
+ROG: Road trip, man.
+MICHAEL: Let's ride, man.
+
+
+343
+0:12:57,442 --> 0:12:59,177
+TRAVIS: The beer stores
+ain't open yet,
+
+
+344
+0:12:59,177 --> 0:13:0,712
+so y'all oughta be back soon.
+
+
+345
+0:13:0,712 --> 0:13:3,215
+Now the plan is to
+add a kid's trailer bike
+
+
+346
+0:13:3,215 --> 0:13:4,816
+to our pizza bike--
+
+
+347
+0:13:4,816 --> 0:13:7,385
+a third wheel which will
+change the center of gravity,
+
+
+348
+0:13:7,385 --> 0:13:9,588
+making the bike more stable.
+
+
+349
+0:13:9,588 --> 0:13:12,457
+And we'll fix
+the oven and cooler.
+
+
+350
+0:13:12,457 --> 0:13:14,259
+We'll put
+a see-through door on it
+
+
+351
+0:13:14,259 --> 0:13:15,56
+and a temperature gauge
+
+
+352
+0:13:15,56 --> 0:13:18,96
+with the read-out
+mounted on the handlebars.
+
+
+353
+0:13:18,96 --> 0:13:22,33
+That's also where we'll need to
+put the GPS and a Smartphone.
+
+
+354
+0:13:22,33 --> 0:13:23,235
+While we're at it,
+
+
+355
+0:13:23,235 --> 0:13:25,971
+we decided to throw in
+a sensor alert system,
+
+
+356
+0:13:25,971 --> 0:13:30,175
+which will warn us if we get too
+close to crashing into anything.
+
+
+357
+0:13:30,175 --> 0:13:33,111
+While they were gone, we started
+figuring out how to fix the oven
+
+
+358
+0:13:33,111 --> 0:13:35,714
+and how to mount all that stuff
+to the handlebars.
+
+
+359
+0:13:35,714 --> 0:13:38,383
+ROG: You ain't done nothing,
+man, since we been gone.
+
+
+360
+0:13:38,383 --> 0:13:39,718
+MICHAEL: It don't look like
+y'all doing nothing.
+
+
+361
+0:13:39,718 --> 0:13:41,72
+TRAVIS: Oh, shut up. We've been
+working hard up in here.
+
+
+362
+0:13:41,72 --> 0:13:44,322
+ROG: Charlie's the only one
+that's been working, I bet.
+
+
+363
+0:13:44,322 --> 0:13:47,125
+TRAVIS: Hey, look at that.
+That's it right there.
+
+
+364
+0:13:47,125 --> 0:13:52,33
+That is exactly
+what I was talking about.
+
+
+365
+0:13:52,33 --> 0:13:55,634
+Hey, y'all break that bicycle
+while you're at it.
+
+
+366
+0:13:55,634 --> 0:13:58,47
+MICHAEL: I'm trying. This thing
+don't wanna go together.
+
+
+367
+0:13:58,47 --> 0:14:1,406
+Too many moving parts here.
+
+
+368
+0:14:1,406 --> 0:14:3,41
+TRAVIS: Well, quit moving!
+
+
+369
+0:14:3,41 --> 0:14:4,142
+ROG: Y'all be cool.
+
+
+370
+0:14:4,142 --> 0:14:6,144
+MICHAEL: We should
+walk off this job here.
+
+
+371
+0:14:6,144 --> 0:14:7,412
+TRAVIS:
+We had some minor setbacks,
+
+
+372
+0:14:7,412 --> 0:14:10,48
+but it's all
+coming together now.
+
+
+373
+0:14:10,48 --> 0:14:14,52
+Before long, our third wheel
+was set and the oven was ready.
+
+
+374
+0:14:14,52 --> 0:14:16,354
+MICHAEL: We got us a good
+set up oven now.
+
+
+375
+0:14:16,354 --> 0:14:17,589
+TRAVIS: I've been working
+on communication systems
+
+
+376
+0:14:17,589 --> 0:14:20,392
+with a GPS, proximity sensors,
+and all kinds of cool stuff.
+
+
+377
+0:14:20,392 --> 0:14:23,728
+Next we need to get all that
+mounted on the handlebars
+
+
+378
+0:14:23,728 --> 0:14:25,297
+and wired up to the batteries.
+
+
+379
+0:14:25,297 --> 0:14:26,998
+Watch out. There's cameras
+and sensors everywhere
+
+
+380
+0:14:26,998 --> 0:14:29,0
+wired onto this thing.
+
+
+381
+0:14:29,0 --> 0:14:31,69
+PETE: And it's heavy.
+TRAVIS: It is heavy.
+
+
+382
+0:14:31,69 --> 0:14:34,272
+All right, that seat post
+goes into the seat post hole.
+
+
+383
+0:14:34,272 --> 0:14:35,573
+PETE: Okay.
+
+
+384
+0:14:35,573 --> 0:14:37,142
+TRAVIS:
+Into the saddle hole, Pete.
+
+
+385
+0:14:37,142 --> 0:14:39,377
+PETE: Once I knew what
+the trailer would look like,
+
+
+386
+0:14:39,377 --> 0:14:41,212
+I built a much sturdier mount
+for the oven
+
+
+387
+0:14:41,212 --> 0:14:42,714
+and dropped it about six inches
+
+
+388
+0:14:42,714 --> 0:14:44,983
+to bring
+the center of gravity lower.
+
+
+389
+0:14:44,983 --> 0:14:47,719
+TRAVIS: And then
+right into the handlebar mount.
+
+
+390
+0:14:47,719 --> 0:14:50,488
+That bar ends--that's about
+right where the bar's pointing.
+
+
+391
+0:14:50,488 --> 0:14:51,69
+MICHAEL: No, you got to 
+point it down.
+
+
+392
+0:14:51,69 --> 0:14:53,692
+TRAVIS: No, bar handles
+are like that.
+
+
+393
+0:14:53,692 --> 0:14:55,226
+I raced for years, Michael.
+
+
+394
+0:14:55,226 --> 0:14:58,96
+And I raced on this bicycle.
+I know right where I want 'em.
+
+
+395
+0:14:58,96 --> 0:15:0,432
+Then we added
+the best part of all:
+
+
+396
+0:15:0,432 --> 0:15:2,667
+power assist.
+
+
+397
+0:15:2,667 --> 0:15:5,27
+Back when I was huffing
+and puffing up that hill,
+
+
+398
+0:15:5,27 --> 0:15:7,272
+I thought, "Man, I need help."
+
+
+399
+0:15:7,272 --> 0:15:9,507
+So we're making
+an electrical bike engine
+
+
+400
+0:15:9,507 --> 0:15:11,142
+out of two power drills.
+
+
+401
+0:15:11,142 --> 0:15:12,777
+We'll attach 'em
+to the rear pedals
+
+
+402
+0:15:12,777 --> 0:15:14,612
+with triggers
+on the handlebars,
+
+
+403
+0:15:14,612 --> 0:15:16,181
+and when those drills
+start spinning,
+
+
+404
+0:15:16,181 --> 0:15:19,25
+it'll be like having
+another person pedaling.
+
+
+405
+0:15:19,25 --> 0:15:20,885
+We need to hurry up
+and get this done, y'all,
+
+
+406
+0:15:20,885 --> 0:15:24,289
+'cause we got to test
+this thing for Papa John.
+
+
+407
+0:15:24,289 --> 0:15:25,89
+What I'm thinking we're gonna do
+
+
+408
+0:15:25,89 --> 0:15:28,59
+is I'm gonna race Michael
+delivering pizzas.
+
+
+409
+0:15:28,59 --> 0:15:30,662
+We'll go over to the University
+of Alabama Huntsville,
+
+
+410
+0:15:30,662 --> 0:15:33,64
+and we'll deliver some pizzas
+to some college kids
+
+
+411
+0:15:33,64 --> 0:15:34,399
+or something over there.
+
+
+412
+0:15:34,399 --> 0:15:36,134
+I'm gonna be pedaling this,
+
+
+413
+0:15:36,134 --> 0:15:40,271
+and then Michael, I figure,
+can be the pizza delivery boy,
+
+
+414
+0:15:40,271 --> 0:15:42,507
+using his truck.
+
+
+415
+0:15:42,507 --> 0:15:45,76
+MICHAEL: You can't compete
+with a pickup truck.
+
+
+416
+0:15:45,76 --> 0:15:47,245
+TRAVIS: We shall see.
+
+
+417
+0:15:47,245 --> 0:15:50,548
+We're gonna have us a race
+that will prove the pizza bike
+
+
+418
+0:15:50,548 --> 0:15:52,917
+is a better delivery system
+than a car.
+
+
+419
+0:15:52,917 --> 0:15:55,2
+Michael thinks
+he's gonna win this race,
+
+
+420
+0:15:55,2 --> 0:15:58,89
+but he doesn't
+realize my advantage.
+
+
+421
+0:15:58,89 --> 0:15:59,557
+Delivery trucks
+get around great
+
+
+422
+0:15:59,557 --> 0:16:1,926
+on the country roads
+around here,
+
+
+423
+0:16:1,926 --> 0:16:4,262
+but the pizza bike
+will really come in handy
+
+
+424
+0:16:4,262 --> 0:16:7,565
+in high-density areas,
+like a city or college.
+
+
+425
+0:16:7,565 --> 0:16:8,733
+I know that the students
+
+
+426
+0:16:8,733 --> 0:16:10,602
+at the University
+of Alabama Huntsville
+
+
+427
+0:16:10,602 --> 0:16:12,137
+order a lot of pizza,
+
+
+428
+0:16:12,137 --> 0:16:13,972
+so it's the perfect place
+for our test,
+
+
+429
+0:16:13,972 --> 0:16:17,108
+if we can just
+get this thing finished.
+
+
+430
+0:16:17,108 --> 0:16:19,611
+PETE: After we got
+our communications array
+
+
+431
+0:16:19,611 --> 0:16:21,112
+and the oven and cooler
+mounted again,
+
+
+432
+0:16:21,112 --> 0:16:23,882
+we added the final element:
+
+
+433
+0:16:23,882 --> 0:16:26,317
+training wheels.
+
+
+434
+0:16:26,317 --> 0:16:29,54
+Travis says they're to hold
+the power drills in place.
+
+
+435
+0:16:29,54 --> 0:16:34,626
+That's what he says, anyway.
+
+
+436
+0:16:34,626 --> 0:16:37,729
+TRAVIS: We got to UAH
+with the pizza delivery bike,
+
+
+437
+0:16:37,729 --> 0:16:42,1
+then we checked in with the
+on-campus Papa John's kitchen.
+
+
+438
+0:16:42,1 --> 0:16:43,768
+This is where
+we'll pick up the pizza orders
+
+
+439
+0:16:43,768 --> 0:16:45,37
+for the college kids.
+
+
+440
+0:16:45,37 --> 0:16:46,738
+Before we kicked off the race,
+
+
+441
+0:16:46,738 --> 0:16:49,107
+I wanted to show John
+the finished bike.
+
+
+442
+0:16:49,107 --> 0:16:50,375
+JOHN:
+Let's take a look at the bike.
+
+
+443
+0:16:50,375 --> 0:16:52,71
+TRAVIS: This is the bike
+that we made.
+
+
+444
+0:16:52,71 --> 0:16:54,612
+Look right here.
+This is our pizza oven.
+
+
+445
+0:16:54,612 --> 0:16:56,14
+You can put five pizzas in it.
+
+
+446
+0:16:56,14 --> 0:16:58,483
+You got fans, heating elements
+that keep 'em warm.
+
+
+447
+0:16:58,483 --> 0:17:1,419
+We got motors on this thing
+to help us get up a hill.
+
+
+448
+0:17:1,419 --> 0:17:3,822
+This is where the drinks go,
+in the cooler.
+
+
+449
+0:17:3,822 --> 0:17:6,191
+Then up here,
+here's our control board.
+
+
+450
+0:17:6,191 --> 0:17:8,93
+We got GPS right here.
+
+
+451
+0:17:8,93 --> 0:17:11,129
+We got proximity sensors
+tell us if somebody's around.
+
+
+452
+0:17:11,129 --> 0:17:13,331
+Then we also have
+a temperature gauge,
+
+
+453
+0:17:13,331 --> 0:17:15,467
+tells what temperature
+the oven is.
+
+
+454
+0:17:15,467 --> 0:17:16,968
+And then, yeah, we got a horn
+
+
+455
+0:17:16,968 --> 0:17:18,837
+in case we need
+to honk at anybody.
+
+
+456
+0:17:18,837 --> 0:17:21,473
+So then right here we got
+triggers to run the drills.
+
+
+457
+0:17:21,473 --> 0:17:24,809
+So this is the bike, and we're
+about to have a competition.
+
+
+458
+0:17:24,809 --> 0:17:26,444
+JOHN: That's unbelievable!
+
+
+459
+0:17:26,444 --> 0:17:28,413
+You guys put
+a lot of work into it.
+
+
+460
+0:17:28,413 --> 0:17:29,981
+I'd love to see what it can do.
+
+
+461
+0:17:29,981 --> 0:17:32,484
+TRAVIS: All right, cool.
+Let's get ready to do this test.
+
+
+462
+0:17:32,484 --> 0:17:34,152
+Michael,
+I'm gonna whip your butt.
+
+
+463
+0:17:34,152 --> 0:17:36,654
+MICHAEL: You ain't gonna do it.
+Let's go get some pizza.
+
+
+464
+0:17:36,654 --> 0:17:38,456
+We'll be back, John.
+
+
+465
+0:17:38,456 --> 0:17:41,92
+There's no way
+he can out-pedal me.
+
+
+466
+0:17:41,92 --> 0:17:43,828
+DADDY: The pizza's are in there,
+so let's go get 'em.
+
+
+467
+0:17:43,828 --> 0:17:46,931
+So, are you ready?
+Get set...
+
+
+468
+0:17:46,931 --> 0:17:50,602
+Go!
+
+
+469
+0:17:50,602 --> 0:17:52,737
+TRAVIS:
+You can't deliver nothing!
+
+
+470
+0:17:52,737 --> 0:17:54,5
+MICHAEL: Yeah, I can.
+
+
+471
+0:17:54,5 --> 0:17:55,507
+MAN: Pick one!
+
+
+472
+0:17:55,507 --> 0:17:58,309
+[laughing]
+
+
+473
+0:17:58,309 --> 0:18:0,845
+Good luck, guys!
+TRAVIS: Thanks, man!
+
+
+474
+0:18:0,845 --> 0:18:3,81
+ROG: They came out of the store
+about the same time.
+
+
+475
+0:18:3,81 --> 0:18:5,984
+I jumped in the truck
+with Michael as an observer
+
+
+476
+0:18:5,984 --> 0:18:8,219
+while Travis loaded up the bike.
+
+
+477
+0:18:8,219 --> 0:18:10,488
+MICHAEL: Hey, Uncle Travis,
+we'll see you later.
+
+
+478
+0:18:10,488 --> 0:18:17,395
+TRAVIS: Yeah, I hear you.
+ROG: Stay with it, mule! 
+
+
+479
+0:18:17,395 --> 0:18:18,863
+TRAVIS: We built
+the ultimate pizza delivery bike
+
+
+480
+0:18:18,863 --> 0:18:20,431
+for Papa John's.
+
+
+481
+0:18:20,431 --> 0:18:24,335
+Now we're putting it to the test
+with a race at the UAH campus.
+
+
+482
+0:18:24,335 --> 0:18:27,639
+Michael's already off to the
+first delivery in his truck.
+
+
+483
+0:18:27,639 --> 0:18:29,207
+My start isn't going as well.
+
+
+484
+0:18:29,207 --> 0:18:31,142
+PETE: Good luck, Travis.
+DADDY: Good luck, son!
+
+
+485
+0:18:31,142 --> 0:18:33,444
+TRAVIS: We'll see, y'all.
+PETE: Show 'em how it's done.
+
+
+486
+0:18:33,444 --> 0:18:34,546
+MICHAEL: I was pretty confident
+
+
+487
+0:18:34,546 --> 0:18:36,214
+that my truck
+would beat that bike,
+
+
+488
+0:18:36,214 --> 0:18:38,883
+but I saw Uncle Travis
+had some tricks up his sleeve.
+
+
+489
+0:18:38,883 --> 0:18:40,785
+ROG: There he is right there!
+
+
+490
+0:18:40,785 --> 0:18:42,854
+TRAVIS: They may be
+a lot faster on the road,
+
+
+491
+0:18:42,854 --> 0:18:44,789
+but I can cut through
+parking lots,
+
+
+492
+0:18:44,789 --> 0:18:45,957
+ride on the sidewalks,
+
+
+493
+0:18:45,957 --> 0:18:47,825
+or whatever it takes
+to shave off seconds.
+
+
+494
+0:18:47,825 --> 0:18:50,361
+Plus, I know this campus
+really well.
+
+
+495
+0:18:50,361 --> 0:18:52,263
+MICHAEL: Where are we at?
+ROG: I don't know.
+
+
+496
+0:18:52,263 --> 0:18:54,632
+PETE: Since Travis was gonna
+take some shortcuts,
+
+
+497
+0:18:54,632 --> 0:18:56,968
+Charlie and I couldn't
+follow him by truck,
+
+
+498
+0:18:56,968 --> 0:18:58,836
+but he kept us updated.
+
+
+499
+0:18:58,836 --> 0:19:0,838
+TRAVIS: Hey, Pete, I can see
+Michael up ahead of me.
+
+
+500
+0:19:0,838 --> 0:19:2,674
+I'm almost to my first delivery.
+
+
+501
+0:19:2,674 --> 0:19:7,278
+PETE: Awesome, awesome.
+
+
+502
+0:19:7,278 --> 0:19:9,547
+TRAVIS: You can't
+deliver nothing!
+
+
+503
+0:19:9,547 --> 0:19:11,616
+ROG: Stay with it, mule.
+
+
+504
+0:19:11,616 --> 0:19:14,419
+TRAVIS:
+Did y'all order a pizza?
+
+
+505
+0:19:14,419 --> 0:19:16,221
+MICHAEL: Hey!
+
+
+506
+0:19:16,221 --> 0:19:17,555
+TRAVIS: You watch out.
+Don't drop it!
+
+
+507
+0:19:17,555 --> 0:19:19,424
+MICHAEL: Hey, did you
+order this pizza?
+
+
+508
+0:19:19,424 --> 0:19:22,26
+Here you go, man.
+Look at that.
+
+
+509
+0:19:22,26 --> 0:19:24,195
+Have a good one.
+
+
+510
+0:19:24,195 --> 0:19:25,53
+See ya!
+
+
+511
+0:19:25,53 --> 0:19:26,831
+TRAVIS: Thank you, man.
+Y'all have a good one.
+
+
+512
+0:19:26,831 --> 0:19:27,999
+MICHAEL:
+Where are we going next?
+
+
+513
+0:19:27,999 --> 0:19:31,69
+TRAVIS: Game on!
+You can't deliver nothing!
+
+
+514
+0:19:31,69 --> 0:19:33,271
+MICHAEL: I'm getting hungry
+smelling all them pizzas, Rog.
+
+
+515
+0:19:33,271 --> 0:19:35,707
+ROG: I'm fixing
+to open one of 'em up.
+
+
+516
+0:19:35,707 --> 0:19:37,942
+After the first stop,
+I was thinking,
+
+
+517
+0:19:37,942 --> 0:19:40,878
+those college kids don't need
+double of all those pizzas.
+
+
+518
+0:19:40,878 --> 0:19:43,414
+MICHAEL: Do it. Get us a piece
+of pizza out of the bottom box.
+
+
+519
+0:19:43,414 --> 0:19:45,817
+ROG: It's free pizza
+for them anyway.
+
+
+520
+0:19:45,817 --> 0:19:49,187
+MICHAEL: We can't eat
+all of 'em now.
+
+
+521
+0:19:49,187 --> 0:19:51,256
+TRAVIS: I think
+I've caught up with Michael
+
+
+522
+0:19:51,256 --> 0:19:52,59
+or I'm ahead of him.
+
+
+523
+0:19:52,59 --> 0:19:54,92
+PETE: Hell, yeah.
+Keep going, man.
+
+
+524
+0:19:54,92 --> 0:19:56,461
+MICHAEL: Uncle Travis, he cut
+through everywhere in the grass.
+
+
+525
+0:19:56,461 --> 0:19:59,697
+I had to go around these
+stop signs and red lights.
+
+
+526
+0:19:59,697 --> 0:20:0,865
+MICHAEL: Another red light.
+
+
+527
+0:20:0,865 --> 0:20:5,97
+TRAVIS: Oh, sh...ah!
+
+
+528
+0:20:5,97 --> 0:20:7,305
+Hello!
+
+
+529
+0:20:7,305 --> 0:20:11,542
+Here's your pizza.
+Hold on, I got you a drink.
+
+
+530
+0:20:11,542 --> 0:20:12,343
+MICHAEL: Here it is.
+
+
+531
+0:20:12,343 --> 0:20:13,811
+PETE: How you doing, Travis?
+
+
+532
+0:20:13,811 --> 0:20:15,546
+TRAVIS: I just delivered
+the second pizza.
+
+
+533
+0:20:15,546 --> 0:20:17,348
+I don't see Michael nowhere.
+
+
+534
+0:20:17,348 --> 0:20:19,817
+ROG: Where's Travis?
+There he is right there!
+
+
+535
+0:20:19,817 --> 0:20:21,85
+Look at him!
+
+
+536
+0:20:21,85 --> 0:20:26,624
+TRAVIS: Ha! Ha ha!
+You can't deliver nothing!
+
+
+537
+0:20:26,624 --> 0:20:28,96
+MICHAEL: That made me mad
+when he passed us by,
+
+
+538
+0:20:28,96 --> 0:20:31,262
+him just off-roading
+all over campus.
+
+
+539
+0:20:31,262 --> 0:20:35,833
+MICHAEL: Yeah! This woman
+ordered this pizza.
+
+
+540
+0:20:35,833 --> 0:20:37,135
+Hey, have a good day!
+
+
+541
+0:20:37,135 --> 0:20:39,637
+TRAVIS: Man, Michael
+was right on my tail,
+
+
+542
+0:20:39,637 --> 0:20:41,739
+and he could catch me
+any minute.
+
+
+543
+0:20:41,739 --> 0:20:43,207
+I wasn't about
+to let up for a second.
+
+
+544
+0:20:43,207 --> 0:20:45,877
+This is a race to the finish.
+
+
+545
+0:20:45,877 --> 0:20:48,613
+Oh! Whoa.
+
+
+546
+0:20:48,613 --> 0:20:49,781
+I was getting pretty tired,
+
+
+547
+0:20:49,781 --> 0:20:51,616
+and the race was
+getting down to the wire.
+
+
+548
+0:20:51,616 --> 0:20:52,95
+When I hit this incline,
+
+
+549
+0:20:52,95 --> 0:20:56,854
+I knew it was time
+to kick in the power assist.
+
+
+550
+0:20:56,854 --> 0:20:58,189
+Nice.
+
+
+551
+0:20:58,189 --> 0:21:1,292
+Hey Pete, I just used
+the drill motors.
+
+
+552
+0:21:1,292 --> 0:21:2,827
+It worked out awesome.
+
+
+553
+0:21:2,827 --> 0:21:4,128
+It's giving me a little bit
+of advantage, I hope.
+
+
+554
+0:21:4,128 --> 0:21:7,999
+PETE: Well, that is
+too cool, man.
+
+
+555
+0:21:7,999 --> 0:21:11,202
+TRAVIS: The final stop
+was at a fraternity house.
+
+
+556
+0:21:11,202 --> 0:21:14,105
+Man, I was really hoping these
+guys didn't have pizzas already
+
+
+557
+0:21:14,105 --> 0:21:15,707
+when I pulled up.
+
+
+558
+0:21:15,707 --> 0:21:19,444
+Woo! Some of you fellas order
+some pizzas up in here?
+
+
+559
+0:21:19,444 --> 0:21:23,47
+Yeah! Hey, Pete, I'm delivering
+my last run right now.
+
+
+560
+0:21:23,47 --> 0:21:24,482
+PETE: All right, man.
+
+
+561
+0:21:24,482 --> 0:21:25,817
+We're gonna see you out front.
+We're on our way.
+
+
+562
+0:21:25,817 --> 0:21:30,788
+TRAVIS: Pass 'em around.
+Y'all have a good one.
+
+
+563
+0:21:30,788 --> 0:21:32,79
+Y'all stay with it.
+
+
+564
+0:21:32,79 --> 0:21:34,759
+MICHAEL:
+What's going on, fellas?
+
+
+565
+0:21:34,759 --> 0:21:38,96
+They already had some pizzas,
+so I knew Uncle Travis beat us
+
+
+566
+0:21:38,96 --> 0:21:40,231
+and was on his way
+back to Papa John's.
+
+
+567
+0:21:40,231 --> 0:21:42,1
+DADDY: Well, looks like
+you beat Michael.
+
+
+568
+0:21:42,1 --> 0:21:44,268
+TRAVIS: I beat him like crazy.
+
+
+569
+0:21:44,268 --> 0:21:47,238
+First thing I did
+was call up Papa John
+
+
+570
+0:21:47,238 --> 0:21:49,273
+to fill him in on the race.
+
+
+571
+0:21:49,273 --> 0:21:53,111
+Hey, John, we beat Michael
+in the delivery truck.
+
+
+572
+0:21:53,111 --> 0:21:55,46
+I still don't see him anywhere,
+
+
+573
+0:21:55,46 --> 0:21:57,315
+so we made one heck
+of a pizza delivery bike.
+
+
+574
+0:21:57,315 --> 0:21:59,217
+JOHN: You guys are winners.
+Great job!
+
+
+575
+0:21:59,217 --> 0:22:2,387
+I love the fact that your bike
+is really pushing the envelope.
+
+
+576
+0:22:2,387 --> 0:22:4,255
+TRAVIS: It is. Heck yeah!
+
+
+577
+0:22:4,255 --> 0:22:6,491
+JOHN: If some of the kinks
+get worked out, who knows?
+
+
+578
+0:22:6,491 --> 0:22:8,426
+Maybe you guys
+can get a contract,
+
+
+579
+0:22:8,426 --> 0:22:11,763
+or at least trade it in for
+a bunch of Papa John's pizzas.
+
+
+580
+0:22:11,763 --> 0:22:13,164
+TRAVIS: That's right!
+
+
+581
+0:22:13,164 --> 0:22:14,565
+This has been a fun trip.
+Thanks a lot.
+
+
+582
+0:22:14,565 --> 0:22:17,735
+JOHN: Great job.
+
+
+583
+0:22:17,735 --> 0:22:19,437
+PETE: There they are.
+
+
+584
+0:22:19,437 --> 0:22:22,39
+DADDY: I guess you know
+who won this race.
+
+
+585
+0:22:22,39 --> 0:22:25,51
+TRAVIS: I proved real quickly
+that I could deliver something
+
+
+586
+0:22:25,51 --> 0:22:27,578
+and that Michael
+couldn't deliver nothing.
+
+
+587
+0:22:27,578 --> 0:22:29,313
+The ovens worked good.
+
+
+588
+0:22:29,313 --> 0:22:31,315
+It turns left better
+than it turns right.
+
+
+589
+0:22:31,315 --> 0:22:33,351
+MICHAEL: You could deliver pizza
+to NASCAR races.
+
+
+590
+0:22:33,351 --> 0:24:33,351
+TRAVIS: I could deliver
+pizza at NASCAR, man.
+
+

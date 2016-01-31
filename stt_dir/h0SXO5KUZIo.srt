@@ -1,0 +1,6782 @@
+1
+0:0:0,0 --> 0:0:1,166
+
+
+
+2
+0:0:1,166 --> 0:0:2,54
+MALE SPEAKER:
+Welcome, everybody,
+
+
+3
+0:0:2,54 --> 0:0:6,16
+to yet another
+Authors@Google Talk.
+
+
+4
+0:0:6,16 --> 0:0:10,94
+Today with us is best-selling
+New York Times author Peter
+
+
+5
+0:0:10,94 --> 0:0:12,24
+Singer.
+
+
+6
+0:0:12,24 --> 0:0:16,97
+He wrote a very important
+book on cyberwar.
+
+
+7
+0:0:16,97 --> 0:0:21,99
+Our own Eric Schmidt says,
+"this is an essential read."
+
+
+8
+0:0:21,99 --> 0:0:24,58
+My dear colleagues, I
+will repeat this for you.
+
+
+9
+0:0:24,58 --> 0:0:28,16
+This is an essential read.
+
+
+10
+0:0:28,16 --> 0:0:32,369
+So we do have copies
+of the book on sale.
+
+
+11
+0:0:32,369 --> 0:0:35,29
+This is the way it looks like.
+
+
+12
+0:0:35,29 --> 0:0:40,98
+Please go and buy the book,
+even if you've seen this talk.
+
+
+13
+0:0:40,98 --> 0:0:46,94
+Peter is a great author
+in many respects.
+
+
+14
+0:0:46,94 --> 0:0:50,89
+But what he did for
+cybersecurity and cyberwar
+
+
+15
+0:0:50,89 --> 0:0:53,72
+for, in particular,
+is he expanded
+
+
+16
+0:0:53,72 --> 0:0:56,92
+on a field that is growing.
+
+
+17
+0:0:56,92 --> 0:1:1,47
+And that we know is becoming
+increasingly important not only
+
+
+18
+0:1:1,47 --> 0:1:4,209
+from the infrastructure
+standpoint,
+
+
+19
+0:1:4,209 --> 0:1:6,43
+but also for
+international relations.
+
+
+20
+0:1:6,43 --> 0:1:9,362
+I'm going to let Peter
+actually take it from here.
+
+
+21
+0:1:9,362 --> 0:1:10,7
+Thank you, Peter.
+
+
+22
+0:1:10,7 --> 0:1:15,41
+
+
+
+23
+0:1:15,41 --> 0:1:17,77
+PETER SINGER: Thank you
+for the kind introduction.
+
+
+24
+0:1:17,77 --> 0:1:20,32
+So it's a little
+bit daunting to be
+
+
+25
+0:1:20,32 --> 0:1:23,49
+talking on this topic
+at a company like this,
+
+
+26
+0:1:23,49 --> 0:1:25,75
+because I remember
+the very first time
+
+
+27
+0:1:25,75 --> 0:1:28,53
+that I ever saw a computer.
+
+
+28
+0:1:28,53 --> 0:1:33,14
+My father took me to a science
+center down in North Carolina.
+
+
+29
+0:1:33,14 --> 0:1:37,49
+And I got to see a Commodore,
+if you remember those.
+
+
+30
+0:1:37,49 --> 0:1:41,51
+And I took a class
+on how to program,
+
+
+31
+0:1:41,51 --> 0:1:45,44
+learning an entire new
+language for the sole purpose
+
+
+32
+0:1:45,44 --> 0:1:51,8
+of making a smiley face out of
+the letter m that printed out
+
+
+33
+0:1:51,8 --> 0:1:53,62
+on one of those
+old spool printers
+
+
+34
+0:1:53,62 --> 0:1:55,945
+that you tore the perforated
+paper off the sides.
+
+
+35
+0:1:55,945 --> 0:1:57,53
+Remember that?
+
+
+36
+0:1:57,53 --> 0:2:3,2
+Now since then, the centrality
+of computers to my life,
+
+
+37
+0:2:3,2 --> 0:2:5,3
+your life, the
+entire world, it's
+
+
+38
+0:2:5,3 --> 0:2:7,33
+almost impossible to fathom.
+
+
+39
+0:2:7,33 --> 0:2:10,949
+We live in a world where
+more than 40 trillion emails
+
+
+40
+0:2:10,949 --> 0:2:14,3
+are sent every single year.
+
+
+41
+0:2:14,3 --> 0:2:17,15
+The first website
+was made in 1991.
+
+
+42
+0:2:17,15 --> 0:2:19,5
+Now, according to
+your own analytics,
+
+
+43
+0:2:19,5 --> 0:2:23,31
+there's more than 30 trillion
+individual web pages out there.
+
+
+44
+0:2:23,31 --> 0:2:25,11
+Moreover, the
+internet is not just
+
+
+45
+0:2:25,11 --> 0:2:28,57
+about compiling and
+sharing information.
+
+
+46
+0:2:28,57 --> 0:2:32,19
+It's also having impact out on
+the real world via the emerging
+
+
+47
+0:2:32,19 --> 0:2:33,64
+Internet of Things.
+
+
+48
+0:2:33,64 --> 0:2:37,1
+According to Cisco, we'll see
+more than 40 billion devices
+
+
+49
+0:2:37,1 --> 0:2:39,41
+internet-enabled over
+the next five years,
+
+
+50
+0:2:39,41 --> 0:2:44,55
+as everything from thermostats
+to cars to refrigerators
+
+
+51
+0:2:44,55 --> 0:2:48,21
+to technologies literally not
+yet invented or imagined all
+
+
+52
+0:2:48,21 --> 0:2:49,75
+come online and
+all start to carry
+
+
+53
+0:2:49,75 --> 0:2:52,5
+on conversations without us.
+
+
+54
+0:2:52,5 --> 0:2:57,12
+So in short, domains that range
+from communication to commerce
+
+
+55
+0:2:57,12 --> 0:3:0,8
+to critical infrastructure
+to even conflict.
+
+
+56
+0:3:0,8 --> 0:3:2,67
+98% of US military
+communications
+
+
+57
+0:3:2,67 --> 0:3:5,26
+goes over the civilian-owned
+and operated internet.
+
+
+58
+0:3:5,26 --> 0:3:8,15
+All of these spaces
+are dependent on it.
+
+
+59
+0:3:8,15 --> 0:3:10,81
+So we're in an age
+of cyber dependency.
+
+
+60
+0:3:10,81 --> 0:3:13,82
+But in the short
+history of the internet,
+
+
+61
+0:3:13,82 --> 0:3:18,91
+I would argue that we've reached
+a critical turning point.
+
+
+62
+0:3:18,91 --> 0:3:22,16
+And it's because while the
+positive side of cyberspace
+
+
+63
+0:3:22,16 --> 0:3:25,317
+is rippling out, so too are
+the risks, the negative side.
+
+
+64
+0:3:25,317 --> 0:3:27,4
+There's all sorts of ways
+you can illustrate this.
+
+
+65
+0:3:27,4 --> 0:3:30,49
+You can illustrate it
+with the raw numbers.
+
+
+66
+0:3:30,49 --> 0:3:34,89
+Every second, nine new pieces
+of malware are discovered.
+
+
+67
+0:3:34,89 --> 0:3:39,86
+97% of Fortune 500 companies
+know that they've been hacked.
+
+
+68
+0:3:39,86 --> 0:3:42,1
+And the other 3% have
+been, too, they just
+
+
+69
+0:3:42,1 --> 0:3:44,4
+aren't willing to
+admit it to themselves.
+
+
+70
+0:3:44,4 --> 0:3:48,38
+More than 100 governments
+have created some kind
+
+
+71
+0:3:48,38 --> 0:3:53,8
+of cyber military command, some
+kind of military unit designed
+
+
+72
+0:3:53,8 --> 0:3:56,8
+to fight and win wars in
+cyberspace and beyond.
+
+
+73
+0:3:56,8 --> 0:4:0,45
+And indeed, the very first
+Pew poll to kick off 2014
+
+
+74
+0:4:0,45 --> 0:4:4,49
+found that Americans are
+more afraid of a cyber attack
+
+
+75
+0:4:4,49 --> 0:4:7,8
+than they are of North
+Korean nuclear weapons,
+
+
+76
+0:4:7,8 --> 0:4:11,6
+Iranian nuclear weapons,
+the rise of China, Russia,
+
+
+77
+0:4:11,6 --> 0:4:13,47
+or climate change.
+
+
+78
+0:4:13,47 --> 0:4:15,61
+So these fears,
+they've coalesced
+
+
+79
+0:4:15,61 --> 0:4:17,95
+into one of the most
+rapidly growing industries
+
+
+80
+0:4:17,95 --> 0:4:19,32
+in the entire world.
+
+
+81
+0:4:19,32 --> 0:4:23,84
+They've also driven a
+massive bureaucratic growth
+
+
+82
+0:4:23,84 --> 0:4:25,84
+at the national
+governmental level
+
+
+83
+0:4:25,84 --> 0:4:27,9
+not just in the United States.
+
+
+84
+0:4:27,9 --> 0:4:28,59
+Just earlier today,
+France announced
+
+
+85
+0:4:28,59 --> 0:4:30,54
+that it was spending
+another $2 billion
+
+
+86
+0:4:30,54 --> 0:4:34,15
+in its military on cybersecurity
+issues and cyberwar.
+
+
+87
+0:4:34,15 --> 0:4:36,85
+But also we see it
+at the state level.
+
+
+88
+0:4:36,85 --> 0:4:38,8
+And even at the
+local level, where
+
+
+89
+0:4:38,8 --> 0:4:40,92
+you see cities like Los
+Angeles, for example,
+
+
+90
+0:4:40,92 --> 0:4:44,24
+creating cybersecurity centers.
+
+
+91
+0:4:44,24 --> 0:4:48,27
+What all this together means
+is that for all the hope
+
+
+92
+0:4:48,27 --> 0:4:51,55
+and promise of the
+new digital age,
+
+
+93
+0:4:51,55 --> 0:4:55,66
+we also live in an era
+of cyber insecurity,
+
+
+94
+0:4:55,66 --> 0:4:57,8
+if we're really being
+honest about it.
+
+
+95
+0:4:57,8 --> 0:4:59,342
+And so before I go
+much further, it's
+
+
+96
+0:4:59,342 --> 0:5:0,883
+at this point I'm
+going to try and do
+
+
+97
+0:5:0,883 --> 0:5:2,89
+something that's a little
+bit counterintuitive,
+
+
+98
+0:5:2,89 --> 0:5:7,38
+but will maybe help make that
+point about cyber insecurity.
+
+
+99
+0:5:7,38 --> 0:5:10,1
+And a lot like the
+challenge of trying
+
+
+100
+0:5:10,1 --> 0:5:12,16
+to write a book
+about cybersecurity
+
+
+101
+0:5:12,16 --> 0:5:14,21
+and make it
+interesting, you also
+
+
+102
+0:5:14,21 --> 0:5:16,6
+have the challenge of how
+do you give a talk about it
+
+
+103
+0:5:16,6 --> 0:5:19,0
+and give visuals that
+make it interesting.
+
+
+104
+0:5:19,0 --> 0:5:22,15
+So what I did-- and
+with Boris's help,
+
+
+105
+0:5:22,15 --> 0:5:23,63
+hopefully it will
+play for us here
+
+
+106
+0:5:23,63 --> 0:5:25,53
+--is I've assembled
+what I think are
+
+
+107
+0:5:25,53 --> 0:5:29,21
+some of the best
+illustrations of cyberwar art,
+
+
+108
+0:5:29,21 --> 0:5:31,457
+and some of the worst
+illustrations of it.
+
+
+109
+0:5:31,457 --> 0:5:33,4
+And it's going to
+play in front of me.
+
+
+110
+0:5:33,4 --> 0:5:33,54
+I'm not going to speak to it.
+
+
+111
+0:5:33,54 --> 0:5:36,25
+It's just going to continue
+to flash for a couple reasons.
+
+
+112
+0:5:36,25 --> 0:5:40,42
+One, to tell that story
+of cyber insecurity.
+
+
+113
+0:5:40,42 --> 0:5:43,4
+But also because data
+has found that you're
+
+
+114
+0:5:43,4 --> 0:5:45,87
+60% more likely
+to retain what I'm
+
+
+115
+0:5:45,87 --> 0:5:47,84
+saying if you look at a picture.
+
+
+116
+0:5:47,84 --> 0:5:50,75
+Even if the picture has nothing
+to do with what I'm saying,
+
+
+117
+0:5:50,75 --> 0:5:53,1
+it's just the way
+us humans work.
+
+
+118
+0:5:53,1 --> 0:5:54,76
+And that actually goes
+to a broader lesson
+
+
+119
+0:5:54,76 --> 0:5:56,79
+that the book explores, and
+we'll talk about it later on.
+
+
+120
+0:5:56,79 --> 0:5:59,33
+Which is that we're humans,
+we're strange, we're weird,
+
+
+121
+0:5:59,33 --> 0:6:1,68
+but that's what drives
+all of these things.
+
+
+122
+0:6:1,68 --> 0:6:4,66
+So let's pull back on
+all this and wrestle
+
+
+123
+0:6:4,66 --> 0:6:9,12
+with the question of why a book
+on cybersecurity and cyberwar,
+
+
+124
+0:6:9,12 --> 0:6:11,3
+and why now?
+
+
+125
+0:6:11,3 --> 0:6:14,17
+There's two quotes
+that motivated
+
+
+126
+0:6:14,17 --> 0:6:17,26
+me that basically
+encapsulate this.
+
+
+127
+0:6:17,26 --> 0:6:19,13
+The first is from
+President Obama,
+
+
+128
+0:6:19,13 --> 0:6:22,9
+who declared that
+cybersecurity risks pose quote,
+
+
+129
+0:6:22,9 --> 0:6:25,1
+"The most serious economic
+and national security
+
+
+130
+0:6:25,1 --> 0:6:27,86
+challenges of the 21st century."
+
+
+131
+0:6:27,86 --> 0:6:30,75
+The second quote is from
+the former CIA director,
+
+
+132
+0:6:30,75 --> 0:6:34,99
+who said quote, "Rarely has
+something been so important
+
+
+133
+0:6:34,99 --> 0:6:39,34
+and so talked about with less
+and less clarity and less
+
+
+134
+0:6:39,34 --> 0:6:41,88
+apparent understanding."
+
+
+135
+0:6:41,88 --> 0:6:44,43
+And you can see, I really
+do want to talk to this one,
+
+
+136
+0:6:44,43 --> 0:6:46,19
+but we'll keep moving on.
+
+
+137
+0:6:46,19 --> 0:6:49,45
+So let's explore this gap.
+
+
+138
+0:6:49,45 --> 0:6:51,75
+We see it in all
+sorts of fields.
+
+
+139
+0:6:51,75 --> 0:6:56,24
+From the 70% of
+business executives--
+
+
+140
+0:6:56,24 --> 0:7:0,39
+not 70% of CTOs,
+CSOs, CIOs --but 70%
+
+
+141
+0:7:0,39 --> 0:7:4,27
+of business executives in
+general, in any industry, who
+
+
+142
+0:7:4,27 --> 0:7:7,88
+have made a cybersecurity
+decision for their company
+
+
+143
+0:7:7,88 --> 0:7:11,46
+despite the fact that no
+major MBA program teaches it
+
+
+144
+0:7:11,46 --> 0:7:13,55
+as part of your normal
+business management
+
+
+145
+0:7:13,55 --> 0:7:15,53
+training and responsibility.
+
+
+146
+0:7:15,53 --> 0:7:17,1
+That same kind of
+gap in training
+
+
+147
+0:7:17,1 --> 0:7:20,66
+happens at the schools we teach
+our diplomats, our lawyers,
+
+
+148
+0:7:20,66 --> 0:7:23,98
+our journalists, our generals.
+
+
+149
+0:7:23,98 --> 0:7:25,87
+Or anecdotes.
+
+
+150
+0:7:25,87 --> 0:7:28,8
+And there's just
+an array of funny,
+
+
+151
+0:7:28,8 --> 0:7:29,92
+but in a certain way
+sad, anecdotes that
+
+
+152
+0:7:29,92 --> 0:7:30,78
+populate the book.
+
+
+153
+0:7:30,78 --> 0:7:33,41
+From the opening of the book
+where a Pentagon official is
+
+
+154
+0:7:33,41 --> 0:7:36,1
+telling us how
+important this all is,
+
+
+155
+0:7:36,1 --> 0:7:39,55
+but he describes it
+as "this cyber stuff."
+
+
+156
+0:7:39,55 --> 0:7:41,41
+When you can only
+call something stuff,
+
+
+157
+0:7:41,41 --> 0:7:42,97
+but you know it's
+important, that's
+
+
+158
+0:7:42,97 --> 0:7:44,58
+not a good place to be in.
+
+
+159
+0:7:44,58 --> 0:7:49,24
+Or the former Secretary
+of Homeland Security,
+
+
+160
+0:7:49,24 --> 0:7:52,85
+the agency that is ostensibly
+in charge of cybersecurity
+
+
+161
+0:7:52,85 --> 0:7:54,82
+on the civilian side
+for the United States--
+
+
+162
+0:7:54,82 --> 0:7:57,444
+who has actually now taken over
+as Chancellor of the university
+
+
+163
+0:7:57,444 --> 0:8:0,1
+system out here in California
+--who proudly talked
+
+
+164
+0:8:0,1 --> 0:8:4,57
+to us about the fact that
+she doesn't use email.
+
+
+165
+0:8:4,57 --> 0:8:8,8
+And in fact hasn't used social
+media for over a decade.
+
+
+166
+0:8:8,8 --> 0:8:11,28
+Not because she doesn't
+think it's secure,
+
+
+167
+0:8:11,28 --> 0:8:14,57
+but because she just
+doesn't think it's useful.
+
+
+168
+0:8:14,57 --> 0:8:18,78
+That same phenomena is happening
+on the Judicial Branch.
+
+
+169
+0:8:18,78 --> 0:8:21,0
+Where, for example, a
+Supreme Court Justice
+
+
+170
+0:8:21,0 --> 0:8:23,25
+talked about how they
+quote, "Hadn't yet
+
+
+171
+0:8:23,25 --> 0:8:25,5
+gotten around to email."
+
+
+172
+0:8:25,5 --> 0:8:27,304
+Now this is obviously
+worrisome to folks
+
+
+173
+0:8:27,304 --> 0:8:28,72
+here working on
+the Gmail account.
+
+
+174
+0:8:28,72 --> 0:8:30,55
+But there's a broader
+question of what
+
+
+175
+0:8:30,55 --> 0:8:33,11
+does this mean for Justices
+that in the upcoming year
+
+
+176
+0:8:33,11 --> 0:8:36,169
+are going to decide everything
+from maybe net neutrality
+
+
+177
+0:8:36,169 --> 0:8:38,61
+questions to the legalities
+of some of the things
+
+
+178
+0:8:38,61 --> 0:8:41,85
+that the NSA was doing when they
+just haven't yet gotten around
+
+
+179
+0:8:41,85 --> 0:8:43,71
+to email.
+
+
+180
+0:8:43,71 --> 0:8:48,12
+The cyber stuff problem is not
+just an American phenomenon.
+
+
+181
+0:8:48,12 --> 0:8:50,28
+We saw the same
+thing in meetings
+
+
+182
+0:8:50,28 --> 0:8:55,4
+with leaders in China,
+UAE, France, Great Britain.
+
+
+183
+0:8:55,4 --> 0:8:59,16
+The Head of Cybersecurity
+in Australia
+
+
+184
+0:8:59,16 --> 0:9:2,22
+had never heard
+of Tor, obviously
+
+
+185
+0:9:2,22 --> 0:9:5,24
+a critical technology
+in this space.
+
+
+186
+0:9:5,24 --> 0:9:7,81
+Now the result is
+that cybersecurity
+
+
+187
+0:9:7,81 --> 0:9:11,98
+is as crucial to areas as
+intimate as your personal
+
+
+188
+0:9:11,98 --> 0:9:15,1
+privacy, to the security
+of your bank account,
+
+
+189
+0:9:15,1 --> 0:9:18,67
+to as weighty as the future
+of world politics itself.
+
+
+190
+0:9:18,67 --> 0:9:22,4
+But it's been
+treated as an issue
+
+
+191
+0:9:22,4 --> 0:9:27,25
+only for the "it"
+crowd, for the IT folks.
+
+
+192
+0:9:27,25 --> 0:9:30,5
+In turn, the technical
+community that
+
+
+193
+0:9:30,5 --> 0:9:35,55
+understands the workings of
+the software and the hardware
+
+
+194
+0:9:35,55 --> 0:9:38,75
+hasn't dealt very
+well with the wetware,
+
+
+195
+0:9:38,75 --> 0:9:40,49
+with the human side,
+and particularly
+
+
+196
+0:9:40,49 --> 0:9:43,14
+the ripple effects of
+this into other worlds,
+
+
+197
+0:9:43,14 --> 0:9:46,1
+be it policy, law,
+war, you name it.
+
+
+198
+0:9:46,1 --> 0:9:47,45
+They've often
+looked at the world
+
+
+199
+0:9:47,45 --> 0:9:49,75
+through a very specific
+lens and failed
+
+
+200
+0:9:49,75 --> 0:9:52,32
+to appreciate some of the
+broader pictures out there.
+
+
+201
+0:9:52,32 --> 0:9:54,48
+Now the dangers of
+this are diverse.
+
+
+202
+0:9:54,48 --> 0:9:56,92
+Each of us, in whatever
+role we play in life,
+
+
+203
+0:9:56,92 --> 0:9:59,21
+must make decisions
+about cybersecurity
+
+
+204
+0:9:59,21 --> 0:10:1,29
+that shape the future
+of the world well
+
+
+205
+0:10:1,29 --> 0:10:3,35
+beyond just the online world.
+
+
+206
+0:10:3,35 --> 0:10:7,9
+But too often we do so
+without the proper tools.
+
+
+207
+0:10:7,9 --> 0:10:11,58
+Basic terms and
+essential definitions
+
+
+208
+0:10:11,58 --> 0:10:17,8
+that define both what's
+possible but also what's proper,
+
+
+209
+0:10:17,8 --> 0:10:23,16
+what's right and wrong, are
+missed or even worse distorted.
+
+
+210
+0:10:23,16 --> 0:10:27,74
+Past myth and future hype
+often weave together,
+
+
+211
+0:10:27,74 --> 0:10:31,93
+obscuring what actually happened
+with where we really are now.
+
+
+212
+0:10:31,93 --> 0:10:35,98
+And so the result is that
+some threats are overblown
+
+
+213
+0:10:35,98 --> 0:10:40,83
+and overreacted to, and
+other threats are ignored.
+
+
+214
+0:10:40,83 --> 0:10:43,34
+So for example, as
+someone who loves history,
+
+
+215
+0:10:43,34 --> 0:10:47,15
+it absolutely pains
+me when I hear
+
+
+216
+0:10:47,15 --> 0:10:48,69
+people-- and people
+who have done
+
+
+217
+0:10:48,69 --> 0:10:51,45
+this range from senior
+government leaders
+
+
+218
+0:10:51,45 --> 0:10:54,97
+like senators to generals
+to prominent news columnists
+
+
+219
+0:10:54,97 --> 0:10:58,83
+--describe how we are in a
+parallel to the Cold War.
+
+
+220
+0:10:58,83 --> 0:11:0,69
+Or as a cabinet
+official told me,
+
+
+221
+0:11:0,69 --> 0:11:4,85
+that malware was
+"just like a WMD."
+
+
+222
+0:11:4,85 --> 0:11:5,71
+And that's why we
+needed to approach it
+
+
+223
+0:11:5,71 --> 0:11:7,251
+in the same kind of
+deterrence theory
+
+
+224
+0:11:7,251 --> 0:11:9,4
+that we used in the Cold War.
+
+
+225
+0:11:9,4 --> 0:11:11,2
+What these people
+fail to appreciate
+
+
+226
+0:11:11,2 --> 0:11:13,54
+is the parallel to
+the Cold War is not
+
+
+227
+0:11:13,54 --> 0:11:16,58
+the one they think
+they're making.
+
+
+228
+0:11:16,58 --> 0:11:18,33
+If you understand
+both the historic side
+
+
+229
+0:11:18,33 --> 0:11:20,72
+and the technical side, the
+best parallel to the Cold
+
+
+230
+0:11:20,72 --> 0:11:23,3
+War-- actually,
+those early days we
+
+
+231
+0:11:23,3 --> 0:11:26,48
+didn't understand well either
+the technology but even more so
+
+
+232
+0:11:26,48 --> 0:11:30,13
+the political dynamics that it
+was driving, the period of time
+
+
+233
+0:11:30,13 --> 0:11:34,26
+where we took the real life
+versions of Dr. Strangelove
+
+
+234
+0:11:34,26 --> 0:11:35,47
+seriously.
+
+
+235
+0:11:35,47 --> 0:11:37,58
+So as an illustration
+in the book,
+
+
+236
+0:11:37,58 --> 0:11:41,78
+we explore the episode where
+the US Air Force actually
+
+
+237
+0:11:41,78 --> 0:11:45,9
+had a serious plan
+to nuke the moon
+
+
+238
+0:11:45,9 --> 0:11:46,69
+to show the Soviets
+that we could
+
+
+239
+0:11:46,69 --> 0:11:49,41
+do interesting
+stuff in space, too.
+
+
+240
+0:11:49,41 --> 0:11:51,54
+Those are not historic lessons
+we should be drawing in terms
+
+
+241
+0:11:51,54 --> 0:11:52,68
+of the how-to's.
+
+
+242
+0:11:52,68 --> 0:11:55,76
+But that's often what
+the discourse is.
+
+
+243
+0:11:55,76 --> 0:11:57,83
+Let me go into some
+of the manifestations
+
+
+244
+0:11:57,83 --> 0:12:2,66
+of this disconnect, and how they
+play out, and why they matter.
+
+
+245
+0:12:2,66 --> 0:12:6,64
+One in particular is that we
+often lump things together
+
+
+246
+0:12:6,64 --> 0:12:11,28
+that are unlike, simply because
+they involve zeros and ones.
+
+
+247
+0:12:11,28 --> 0:12:14,82
+So take that idea
+of a cyber attack.
+
+
+248
+0:12:14,82 --> 0:12:17,91
+General Alexander,
+who is simultaneously
+
+
+249
+0:12:17,91 --> 0:12:22,51
+the commander of US military
+Cyber Command and double-hatted
+
+
+250
+0:12:22,51 --> 0:12:25,27
+as the head of the
+NSA-- which there
+
+
+251
+0:12:25,27 --> 0:12:28,13
+are some very interesting
+problems with that.
+
+
+252
+0:12:28,13 --> 0:12:29,81
+But let's move beyond that.
+
+
+253
+0:12:29,81 --> 0:12:33,44
+He testified to Congress,
+quote, "Every day,
+
+
+254
+0:12:33,44 --> 0:12:38,79
+America's armed forces face
+millions of cyber attacks."
+
+
+255
+0:12:38,79 --> 0:12:42,17
+But to get those
+numbers he was combining
+
+
+256
+0:12:42,17 --> 0:12:45,8
+a variety of like
+and unlike things.
+
+
+257
+0:12:45,8 --> 0:12:49,72
+He was combining everything from
+probes and address scans that
+
+
+258
+0:12:49,72 --> 0:12:53,24
+never entered networks
+to unsuccessful attempts
+
+
+259
+0:12:53,24 --> 0:12:57,91
+to get in that ranged from kids
+carrying out pranks to attempts
+
+
+260
+0:12:57,91 --> 0:13:1,0
+at political protests to
+attempts to get in to carry out
+
+
+261
+0:13:1,0 --> 0:13:5,6
+some kind of theft
+or active espionage.
+
+
+262
+0:13:5,6 --> 0:13:10,68
+But none of those millions of
+attacks was what his listeners
+
+
+263
+0:13:10,68 --> 0:13:13,98
+in Congress thought
+he was talking about,
+
+
+264
+0:13:13,98 --> 0:13:17,6
+which was the so-called
+cyber-Pearl Harbor
+
+
+265
+0:13:17,6 --> 0:13:21,25
+or cyber-9/11 that actually
+there's been over a half
+
+
+266
+0:13:21,25 --> 0:13:25,241
+million media and government
+speech references to.
+
+
+267
+0:13:25,241 --> 0:13:27,24
+And that's what his boss
+as Secretary of Defense
+
+
+268
+0:13:27,24 --> 0:13:29,1
+was warning everyone about.
+
+
+269
+0:13:29,1 --> 0:13:32,2
+Essentially what we're doing
+is that we're bundling together
+
+
+270
+0:13:32,2 --> 0:13:36,28
+all of these activities simply
+because they involve software.
+
+
+271
+0:13:36,28 --> 0:13:38,86
+Which would be a lot
+like bundling together
+
+
+272
+0:13:38,86 --> 0:13:43,54
+the activities of a group of
+teenagers with firecrackers,
+
+
+273
+0:13:43,54 --> 0:13:46,15
+a group of political protesters
+in the street with a smoke
+
+
+274
+0:13:46,15 --> 0:13:50,76
+bomb, James Bond with
+his Walther PPK missile,
+
+
+275
+0:13:50,76 --> 0:13:53,35
+a terrorist with
+a roadside bomb,
+
+
+276
+0:13:53,35 --> 0:13:55,6
+and a Russian cruise missile,
+and saying these are all
+
+
+277
+0:13:55,6 --> 0:13:59,78
+the same because they involve
+the chemistry of gunpowder.
+
+
+278
+0:13:59,78 --> 0:14:1,92
+We've bundled them together
+on the digital side,
+
+
+279
+0:14:1,92 --> 0:14:3,85
+because they all
+involve the internet.
+
+
+280
+0:14:3,85 --> 0:14:6,56
+Or take the organizations.
+
+
+281
+0:14:6,56 --> 0:14:8,78
+I had a senior US
+military official
+
+
+282
+0:14:8,78 --> 0:14:14,51
+argue with me that Anonymous and
+Al Qaeda were the same thing.
+
+
+283
+0:14:14,51 --> 0:14:19,9
+Now, however you come down on
+Anonymous-- and I'm actually,
+
+
+284
+0:14:19,9 --> 0:14:23,14
+I guess far more
+empathetic towards them
+
+
+285
+0:14:23,14 --> 0:14:26,34
+than what you'd expect
+from people coming from DC.
+
+
+286
+0:14:26,34 --> 0:14:29,55
+But the bottom line is,
+wherever you come down on them,
+
+
+287
+0:14:29,55 --> 0:14:33,42
+they have nothing to do
+with Al Qaeda in terms
+
+
+288
+0:14:33,42 --> 0:14:37,22
+of their organization,
+their means, their ends,
+
+
+289
+0:14:37,22 --> 0:14:40,0
+their causes-- basically the
+only thing they're related
+
+
+290
+0:14:40,0 --> 0:14:42,82
+is they're both non-state actors
+that begin with the letter A.
+
+
+291
+0:14:42,82 --> 0:14:44,99
+But that was the belief.
+
+
+292
+0:14:44,99 --> 0:14:47,44
+Now these gaps in
+understanding, these disconnects
+
+
+293
+0:14:47,44 --> 0:14:50,46
+of policy and reality, mean
+that we're not only seeing
+
+
+294
+0:14:50,46 --> 0:14:52,93
+growing tension--
+and we explore this
+
+
+295
+0:14:52,93 --> 0:14:55,745
+in particular in meetings
+with US and Chinese officials
+
+
+296
+0:14:55,745 --> 0:14:59,87
+who would be negotiating on
+core questions of cybersecurity.
+
+
+297
+0:14:59,87 --> 0:15:4,18
+And yet, as an illustration,
+one State Department official
+
+
+298
+0:15:4,18 --> 0:15:6,48
+going off to one of these
+negotiations actually
+
+
+299
+0:15:6,48 --> 0:15:9,89
+asked us what an ISP was?
+
+
+300
+0:15:9,89 --> 0:15:11,642
+Which to make that
+Cold War parallel,
+
+
+301
+0:15:11,642 --> 0:15:13,85
+would be like going off to
+negotiate with the Soviets
+
+
+302
+0:15:13,85 --> 0:15:15,9
+and not knowing what an ICBM is.
+
+
+303
+0:15:15,9 --> 0:15:18,65
+But the point is, it's
+not only driving tension,
+
+
+304
+0:15:18,65 --> 0:15:21,91
+it's leading to us being
+taken advantage of.
+
+
+305
+0:15:21,91 --> 0:15:25,39
+And that can happen at
+the individual level
+
+
+306
+0:15:25,39 --> 0:15:29,84
+when you get tricked to send
+your mom your bank account
+
+
+307
+0:15:29,84 --> 0:15:31,99
+information because
+she's stuck in Thailand.
+
+
+308
+0:15:31,99 --> 0:15:33,5
+You didn't know she
+was in Thailand,
+
+
+309
+0:15:33,5 --> 0:15:35,63
+but gosh, you just
+need to help her out.
+
+
+310
+0:15:35,63 --> 0:15:37,75
+To more serious
+illustrations of this.
+
+
+311
+0:15:37,75 --> 0:15:41,21
+Like at the G-20 conference,
+the most important
+
+
+312
+0:15:41,21 --> 0:15:43,4
+international
+conference of the year,
+
+
+313
+0:15:43,4 --> 0:15:48,94
+diplomats were spearphished
+by-- they received an email that
+
+
+314
+0:15:48,94 --> 0:15:50,74
+had a wonderful offer for them.
+
+
+315
+0:15:50,74 --> 0:15:52,23
+It said, if you
+click this link you
+
+
+316
+0:15:52,23 --> 0:15:57,14
+will be able to see nude photos
+of the French First Lady.
+
+
+317
+0:15:57,14 --> 0:15:59,986
+And many of these senior
+diplomats clicked the link.
+
+
+318
+0:15:59,986 --> 0:16:2,36
+And unfortunately they didn't
+get to see the nude photos,
+
+
+319
+0:16:2,36 --> 0:16:5,86
+but they did download
+spyware onto their accounts.
+
+
+320
+0:16:5,86 --> 0:16:8,45
+Again, senior
+government officials
+
+
+321
+0:16:8,45 --> 0:16:10,52
+to being taken advantage
+of at the business
+
+
+322
+0:16:10,52 --> 0:16:12,32
+organizational level.
+
+
+323
+0:16:12,32 --> 0:16:16,8
+Either alternatively not doing
+enough to protect the business
+
+
+324
+0:16:16,8 --> 0:16:24,54
+or hiring hucksters
+who offer 100% security
+
+
+325
+0:16:24,54 --> 0:16:28,74
+with some kind of
+silver bullet solution.
+
+
+326
+0:16:28,74 --> 0:16:30,28
+Or frankly, being
+taken advantage
+
+
+327
+0:16:30,28 --> 0:16:31,88
+of at the national
+political level.
+
+
+328
+0:16:31,88 --> 0:16:33,94
+Which is, I think, behind
+a number of the issues
+
+
+329
+0:16:33,94 --> 0:16:38,9
+surrounding the current
+Snowden-NSA scandal.
+
+
+330
+0:16:38,9 --> 0:16:39,98
+This can even happen
+to a president.
+
+
+331
+0:16:39,98 --> 0:16:42,33
+Reportedly, Obama
+expressed his, quote,
+
+
+332
+0:16:42,33 --> 0:16:45,4
+"frustration that the
+complexity of the technology
+
+
+333
+0:16:45,4 --> 0:16:48,14
+was overwhelming policymakers."
+
+
+334
+0:16:48,14 --> 0:16:53,44
+Now, our inability to have
+a proper discussion on these
+
+
+335
+0:16:53,44 --> 0:16:58,42
+means that we see a
+distortion of threats.
+
+
+336
+0:16:58,42 --> 0:17:2,77
+And in turn, a misapplication
+of resources to face them.
+
+
+337
+0:17:2,77 --> 0:17:8,599
+Perhaps the best illustration
+of this is a number-- 31,300.
+
+
+338
+0:17:8,599 --> 0:17:13,5
+That's the number of news
+and academic journal articles
+
+
+339
+0:17:13,5 --> 0:17:17,589
+that have explored the
+phenomenon of cyberterrorism.
+
+
+340
+0:17:17,589 --> 0:17:19,4
+Zero.
+
+
+341
+0:17:19,4 --> 0:17:20,92
+That's the number of
+people that have actually
+
+
+342
+0:17:20,92 --> 0:17:25,907
+been hurt or killed by an actual
+incident of cyberterrorism.
+
+
+343
+0:17:25,907 --> 0:17:27,49
+In the book, we joke
+that in many ways
+
+
+344
+0:17:27,49 --> 0:17:30,47
+cyberterrorism is a lot like
+Discovery Channel's Shark
+
+
+345
+0:17:30,47 --> 0:17:33,73
+Week, where we obsess
+about the danger of sharks
+
+
+346
+0:17:33,73 --> 0:17:35,87
+even though you're 15,000
+times more likely to be
+
+
+347
+0:17:35,87 --> 0:17:37,37
+hurt on your toilet.
+
+
+348
+0:17:37,37 --> 0:17:41,1
+Except the difference is that
+Jaws actually did get someone,
+
+
+349
+0:17:41,1 --> 0:17:43,52
+or the real world version
+of Jaws did get someone.
+
+
+350
+0:17:43,52 --> 0:17:46,33
+Whereas we've not seen
+this in reality yet
+
+
+351
+0:17:46,33 --> 0:17:48,3
+other than Die Hard 4.
+
+
+352
+0:17:48,3 --> 0:17:52,62
+Now let me be clear,
+I'm not saying
+
+
+353
+0:17:52,62 --> 0:17:56,67
+that terrorists don't
+use the internet.
+
+
+354
+0:17:56,67 --> 0:17:58,63
+And in the book we
+have several chapters
+
+
+355
+0:17:58,63 --> 0:18:0,671
+that explore terrorists'
+use of it, much of which
+
+
+356
+0:18:0,671 --> 0:18:2,5
+is like how the
+rest of us use it.
+
+
+357
+0:18:2,5 --> 0:18:5,32
+And I'm not saying that there
+is not interest in carrying out
+
+
+358
+0:18:5,32 --> 0:18:8,49
+acts of cyberterrorism,
+nor that there
+
+
+359
+0:18:8,49 --> 0:18:11,36
+wouldn't be impactful
+effects of them.
+
+
+360
+0:18:11,36 --> 0:18:13,83
+Indeed, our
+development of Stuxnet,
+
+
+361
+0:18:13,83 --> 0:18:17,177
+a cyber weapon that finally
+had physical powers, caused
+
+
+362
+0:18:17,177 --> 0:18:19,76
+physical damage to the world,
+is a great illustration of this.
+
+
+363
+0:18:19,76 --> 0:18:24,17
+But in turn, Stuxnet illustrates
+how an effective cyber attack
+
+
+364
+0:18:24,17 --> 0:18:29,6
+that is real and consequential
+is also quite difficult.
+
+
+365
+0:18:29,6 --> 0:18:34,34
+To put it a different way, when
+it comes to cyberterrorism Al
+
+
+366
+0:18:34,34 --> 0:18:38,23
+Qaeda would like to, but can't.
+
+
+367
+0:18:38,23 --> 0:18:42,88
+China could, but
+doesn't want to yet.
+
+
+368
+0:18:42,88 --> 0:18:46,68
+Now my point, rather,
+is that strategy--
+
+
+369
+0:18:46,68 --> 0:18:50,27
+whether it's at the national
+level, at the business level,
+
+
+370
+0:18:50,27 --> 0:18:52,59
+at the individual
+level, strategy
+
+
+371
+0:18:52,59 --> 0:18:55,89
+is about choices and priorities.
+
+
+372
+0:18:55,89 --> 0:18:58,76
+And so we need to weigh
+the centrality of what
+
+
+373
+0:18:58,76 --> 0:19:2,83
+we talk about, what we obsess
+about in our discussions
+
+
+374
+0:19:2,83 --> 0:19:7,68
+versus what are arguably
+not only very real, but more
+
+
+375
+0:19:7,68 --> 0:19:10,49
+consequential cyber
+threats out there.
+
+
+376
+0:19:10,49 --> 0:19:13,21
+It ranges from something
+that this organization
+
+
+377
+0:19:13,21 --> 0:19:16,43
+is very familiar with--
+the massive campaign
+
+
+378
+0:19:16,43 --> 0:19:21,27
+of intellectual property
+theft that by most measures
+
+
+379
+0:19:21,27 --> 0:19:24,26
+you could judge to be
+the largest theft in all
+
+
+380
+0:19:24,26 --> 0:19:28,18
+of human history, that's
+ongoing right now.
+
+
+381
+0:19:28,18 --> 0:19:30,25
+And where is it coming from?
+
+
+382
+0:19:30,25 --> 0:19:31,76
+If this was a
+Harry Potter novel,
+
+
+383
+0:19:31,76 --> 0:19:33,63
+we would describe it
+as a large Asian power
+
+
+384
+0:19:33,63 --> 0:19:35,32
+that shall not be named.
+
+
+385
+0:19:35,32 --> 0:19:37,82
+To if we want to think
+about the national security
+
+
+386
+0:19:37,82 --> 0:19:41,5
+consequences-- not just looking
+at the consequences of that IP
+
+
+387
+0:19:41,5 --> 0:19:43,58
+theft and how it
+plays out, but look
+
+
+388
+0:19:43,58 --> 0:19:47,8
+beyond the sexy cyber-Pearl
+Harbor descriptions
+
+
+389
+0:19:47,8 --> 0:19:51,17
+and actually focus on how the
+military uses this technology
+
+
+390
+0:19:51,17 --> 0:19:51,85
+and wants to use it.
+
+
+391
+0:19:51,85 --> 0:19:55,5
+And what is the future of
+computer network operations
+
+
+392
+0:19:55,5 --> 0:19:57,99
+in actual campaigns of warfare?
+
+
+393
+0:19:57,99 --> 0:20:0,43
+To maybe moreso we should
+be paying attention
+
+
+394
+0:20:0,43 --> 0:20:3,82
+to the ripple effects, the
+secondary effects of all
+
+
+395
+0:20:3,82 --> 0:20:4,86
+these actions.
+
+
+396
+0:20:4,86 --> 0:20:7,71
+Because if we use the
+illustration of terrorism,
+
+
+397
+0:20:7,71 --> 0:20:9,49
+one of the things
+we've learned from 9/11
+
+
+398
+0:20:9,49 --> 0:20:12,38
+is it's not merely
+the attack itself,
+
+
+399
+0:20:12,38 --> 0:20:15,36
+but how we react
+to it that really
+
+
+400
+0:20:15,36 --> 0:20:17,36
+stakes its place in history.
+
+
+401
+0:20:17,36 --> 0:20:20,7
+And so I worry about some
+of these secondary effects
+
+
+402
+0:20:20,7 --> 0:20:22,49
+that are playing
+out, and particularly
+
+
+403
+0:20:22,49 --> 0:20:26,93
+how they are hammering away
+at that crucial value that
+
+
+404
+0:20:26,93 --> 0:20:30,12
+has basically underpinned
+the internet of trust.
+
+
+405
+0:20:30,12 --> 0:20:31,94
+And we can see
+that being damaged
+
+
+406
+0:20:31,94 --> 0:20:34,64
+by the massive campaigns
+of cyber crime out there.
+
+
+407
+0:20:34,64 --> 0:20:37,42
+Whether it's the IP theft
+to credit card, and like.
+
+
+408
+0:20:37,42 --> 0:20:41,93
+And that's affecting both trust
+that consumers and users have
+
+
+409
+0:20:41,93 --> 0:20:44,46
+with the network, and in
+turn what the operators have
+
+
+410
+0:20:44,46 --> 0:20:45,88
+towards consumers.
+
+
+411
+0:20:45,88 --> 0:20:50,78
+To trust damaged by our
+government's actions seeking
+
+
+412
+0:20:50,78 --> 0:20:54,27
+to deal with
+conventional terrorism.
+
+
+413
+0:20:54,27 --> 0:20:58,58
+And what that has done to
+both trust in those agencies,
+
+
+414
+0:20:58,58 --> 0:21:1,49
+but also trust in America and
+trust in American technology
+
+
+415
+0:21:1,49 --> 0:21:2,89
+companies.
+
+
+416
+0:21:2,89 --> 0:21:6,71
+To finally, what it's done to
+the internet freedom agenda.
+
+
+417
+0:21:6,71 --> 0:21:9,21
+And the trust in the
+underlying governance structure
+
+
+418
+0:21:9,21 --> 0:21:11,79
+of the internet that has
+worked so effectively
+
+
+419
+0:21:11,79 --> 0:21:13,64
+for our lifetime,
+created this thing
+
+
+420
+0:21:13,64 --> 0:21:16,69
+that's been arguably
+the most powerful force
+
+
+421
+0:21:16,69 --> 0:21:20,19
+for political,
+economic, social change
+
+
+422
+0:21:20,19 --> 0:21:22,6
+certainly in my
+lifetime, maybe ever.
+
+
+423
+0:21:22,6 --> 0:21:24,515
+And yet over the next year
+could be seriously damaged
+
+
+424
+0:21:24,515 --> 0:21:26,14
+by some international
+negotiations that
+
+
+425
+0:21:26,14 --> 0:21:28,17
+are playing out,
+particularly pushed
+
+
+426
+0:21:28,17 --> 0:21:31,25
+by authoritarian states
+like Russia and China.
+
+
+427
+0:21:31,25 --> 0:21:36,65
+If you like the idea of Russia's
+82,000 blacklisted websites,
+
+
+428
+0:21:36,65 --> 0:21:41,246
+or if you like the building
+internet wall in China,
+
+
+429
+0:21:41,246 --> 0:21:43,12
+this may be the future
+if we don't watch out.
+
+
+430
+0:21:43,12 --> 0:21:44,9
+Particularly as some
+of the core swing
+
+
+431
+0:21:44,9 --> 0:21:47,43
+states, the Brazils, the
+Indias, the Germanys,
+
+
+432
+0:21:47,43 --> 0:21:50,38
+may not be with us the
+way they were previously.
+
+
+433
+0:21:50,38 --> 0:21:54,35
+Now this gap in the
+fields also means
+
+
+434
+0:21:54,35 --> 0:21:57,23
+when it comes to
+the warfare side,
+
+
+435
+0:21:57,23 --> 0:22:0,91
+we act on bad assumptions.
+
+
+436
+0:22:0,91 --> 0:22:3,62
+Or don't make connections
+across domains
+
+
+437
+0:22:3,62 --> 0:22:5,42
+in ways that truly matter.
+
+
+438
+0:22:5,42 --> 0:22:7,34
+So take the notion of
+something from the field
+
+
+439
+0:22:7,34 --> 0:22:9,84
+of war applied here,
+which is offense, defense,
+
+
+440
+0:22:9,84 --> 0:22:11,72
+the balance between these.
+
+
+441
+0:22:11,72 --> 0:22:15,68
+There is an idea that's taken
+hold that cyber offense is
+
+
+442
+0:22:15,68 --> 0:22:17,3
+inherently privileged.
+
+
+443
+0:22:17,3 --> 0:22:19,5
+It's inherently dominant
+against the defense.
+
+
+444
+0:22:19,5 --> 0:22:22,58
+And not just now, but as
+one US military report
+
+
+445
+0:22:22,58 --> 0:22:25,65
+put it, quote, "For the
+foreseeable future."
+
+
+446
+0:22:25,65 --> 0:22:28,85
+So for as long as we can see
+in the future cyber offense
+
+
+447
+0:22:28,85 --> 0:22:31,93
+will be dominant, is the
+assumption that's out there.
+
+
+448
+0:22:31,93 --> 0:22:34,8
+This in turn has
+driven the US military
+
+
+449
+0:22:34,8 --> 0:22:38,74
+to spend roughly
+four times as much
+
+
+450
+0:22:38,74 --> 0:22:41,84
+on cyber offense
+research and development
+
+
+451
+0:22:41,84 --> 0:22:45,48
+as it has on cyber defense
+research and development.
+
+
+452
+0:22:45,48 --> 0:22:48,29
+Now the problem with
+this is threefold.
+
+
+453
+0:22:48,29 --> 0:22:52,24
+The first is that it
+cyber offense is not
+
+
+454
+0:22:52,24 --> 0:22:55,5
+as easy as it's
+too often depicted.
+
+
+455
+0:22:55,5 --> 0:22:58,55
+So for example, the former
+number two in the Pentagon
+
+
+456
+0:22:58,55 --> 0:23:1,93
+described how, quote, "A
+couple of teenagers sitting
+
+
+457
+0:23:1,93 --> 0:23:4,48
+in their parents'
+basement, sipping Red Bull
+
+
+458
+0:23:4,48 --> 0:23:10,41
+and wearing flip-flops, could
+carry out a WMD-style attack."
+
+
+459
+0:23:10,41 --> 0:23:11,4
+No.
+
+
+460
+0:23:11,4 --> 0:23:12,3
+They couldn't.
+
+
+461
+0:23:12,3 --> 0:23:15,94
+They could do a lot of
+things, but not what he's
+
+
+462
+0:23:15,94 --> 0:23:17,12
+for portraying.
+
+
+463
+0:23:17,12 --> 0:23:19,81
+And Stuxnet is a great
+illustration of that.
+
+
+464
+0:23:19,81 --> 0:23:22,14
+In terms of the wide
+variety of skill sets
+
+
+465
+0:23:22,14 --> 0:23:24,93
+that were involved in this,
+everything from intelligence
+
+
+466
+0:23:24,93 --> 0:23:28,7
+analysts and collection to some
+of the top technical talent
+
+
+467
+0:23:28,7 --> 0:23:31,71
+in the world from multiple
+nations, to nuclear physicists,
+
+
+468
+0:23:31,71 --> 0:23:35,57
+to engineers, to then another
+espionage effort to get it back
+
+
+469
+0:23:35,57 --> 0:23:36,21
+in.
+
+
+470
+0:23:36,21 --> 0:23:39,22
+It was a Manhattan
+Project-style effort.
+
+
+471
+0:23:39,22 --> 0:23:43,1
+Again, the barriers to entry
+are lowering, but it's not just,
+
+
+472
+0:23:43,1 --> 0:23:45,262
+oh I need a teenager
+and some Red Bull
+
+
+473
+0:23:45,262 --> 0:23:47,26
+and I can carry this out.
+
+
+474
+0:23:47,26 --> 0:23:51,2
+The second is history
+is replete with examples
+
+
+475
+0:23:51,2 --> 0:23:53,86
+that every time a military
+assumed the offense was
+
+
+476
+0:23:53,86 --> 0:23:57,7
+inherently dominant, that it
+turned out to be the opposite.
+
+
+477
+0:23:57,7 --> 0:23:59,42
+And we're on the
+100 year anniversary
+
+
+478
+0:23:59,42 --> 0:24:1,21
+of probably the best
+illustration of that.
+
+
+479
+0:24:1,21 --> 0:24:4,6
+Where the nations of Europe,
+prior to World War I,
+
+
+480
+0:24:4,6 --> 0:24:7,6
+all assumed that the new
+technologies of the day
+
+
+481
+0:24:7,6 --> 0:24:9,55
+meant that the offense
+was advantaged.
+
+
+482
+0:24:9,55 --> 0:24:11,53
+And in fact, it
+was so advantaged
+
+
+483
+0:24:11,53 --> 0:24:15,5
+that you couldn't allow yourself
+to be stuck on the defensive.
+
+
+484
+0:24:15,5 --> 0:24:18,73
+So you had to go to war
+before the other guy could.
+
+
+485
+0:24:18,73 --> 0:24:21,23
+So that you wouldn't be
+caught at a disadvantage.
+
+
+486
+0:24:21,23 --> 0:24:23,65
+And as we saw play
+out in World War I,
+
+
+487
+0:24:23,65 --> 0:24:26,69
+actually it was the defense
+that turned out to be dominant.
+
+
+488
+0:24:26,69 --> 0:24:28,74
+But the final
+issue with this is,
+
+
+489
+0:24:28,74 --> 0:24:32,7
+even if it's true
+it doesn't actually
+
+
+490
+0:24:32,7 --> 0:24:37,11
+mean that we should be
+acting the way we are.
+
+
+491
+0:24:37,11 --> 0:24:43,16
+To give a metaphor, the idea
+of sitting in your glass house
+
+
+492
+0:24:43,16 --> 0:24:44,83
+and looking around
+and saying, gosh
+
+
+493
+0:24:44,83 --> 0:24:49,27
+I'm worried about all these
+roving gangs of teens.
+
+
+494
+0:24:49,27 --> 0:24:55,49
+Well, my best answer is to
+buy a stone sharpening kit.
+
+
+495
+0:24:55,49 --> 0:24:57,9
+That's not the logic that
+we should be following,
+
+
+496
+0:24:57,9 --> 0:24:59,28
+but that's what we're
+doing right now.
+
+
+497
+0:24:59,28 --> 0:25:1,89
+So what can we do instead?
+
+
+498
+0:25:1,89 --> 0:25:4,76
+The last third of the
+book is all about these
+
+
+499
+0:25:4,76 --> 0:25:8,8
+what can we do questions,
+everything from global level
+
+
+500
+0:25:8,8 --> 0:25:11,8
+responses to national level
+down to corporate to you
+
+
+501
+0:25:11,8 --> 0:25:13,35
+and I. How can we
+protect ourselves
+
+
+502
+0:25:13,35 --> 0:25:15,54
+and the broader internet itself.
+
+
+503
+0:25:15,54 --> 0:25:16,47
+I'm not going to
+try and summarize
+
+
+504
+0:25:16,47 --> 0:25:18,36
+that 100 pages up here.
+
+
+505
+0:25:18,36 --> 0:25:22,29
+So I'll just hit on five themes
+that cut through all of it.
+
+
+506
+0:25:22,29 --> 0:25:26,26
+The first theme is
+knowledge matters.
+
+
+507
+0:25:26,26 --> 0:25:30,87
+It is vital that we demystify
+this realm if we ever
+
+
+508
+0:25:30,87 --> 0:25:34,49
+want to get anything done
+effective in securing it.
+
+
+509
+0:25:34,49 --> 0:25:37,385
+We have to move past
+the situation now
+
+
+510
+0:25:37,385 --> 0:25:41,22
+where, for example, a White
+House official described this
+
+
+511
+0:25:41,22 --> 0:25:45,19
+as quote, "only
+understood by the nerds."
+
+
+512
+0:25:45,19 --> 0:25:48,82
+Or when the President
+himself received a briefing
+
+
+513
+0:25:48,82 --> 0:25:51,11
+on cyber security questions.
+
+
+514
+0:25:51,11 --> 0:25:53,96
+And at the end of the briefing,
+reportedly asked for, repeated
+
+
+515
+0:25:53,96 --> 0:25:57,48
+back, quote, "This
+time in English."
+
+
+516
+0:25:57,48 --> 0:26:0,23
+That's not to beat up on the
+residents of the White House.
+
+
+517
+0:26:0,23 --> 0:26:5,8
+That would happen in almost
+any major company that's
+
+
+518
+0:26:5,8 --> 0:26:9,71
+not in this space, not in
+Silicon Valley, but also
+
+
+519
+0:26:9,71 --> 0:26:12,412
+even small companies,
+a cupcake stand.
+
+
+520
+0:26:12,412 --> 0:26:13,87
+It would happen at
+the White House.
+
+
+521
+0:26:13,87 --> 0:26:16,38
+It would happen at my house.
+
+
+522
+0:26:16,38 --> 0:26:18,46
+The second theme
+leads from this.
+
+
+523
+0:26:18,46 --> 0:26:20,17
+It's that people matter.
+
+
+524
+0:26:20,17 --> 0:26:22,91
+Cybersecurity is one of those
+wicked problem areas that's
+
+
+525
+0:26:22,91 --> 0:26:25,6
+rife with complexities
+and trade-offs.
+
+
+526
+0:26:25,6 --> 0:26:28,22
+And this is in large part not
+because of the technical side,
+
+
+527
+0:26:28,22 --> 0:26:31,89
+which often gets too much focus,
+but rather the people part.
+
+
+528
+0:26:31,89 --> 0:26:34,275
+Now it's useful from a
+writer's perspective,
+
+
+529
+0:26:34,275 --> 0:26:36,65
+because that gives you all
+the fun characters and stories
+
+
+530
+0:26:36,65 --> 0:26:38,42
+to populate.
+
+
+531
+0:26:38,42 --> 0:26:41,52
+My favorite being the time
+that Pakistan accidentally
+
+
+532
+0:26:41,52 --> 0:26:45,65
+kidnapped all the world's
+cute cat videos for a day.
+
+
+533
+0:26:45,65 --> 0:26:47,33
+But it also means
+that if you want
+
+
+534
+0:26:47,33 --> 0:26:51,32
+to set up best responses at the
+global level, business level,
+
+
+535
+0:26:51,32 --> 0:26:52,74
+all the way down to
+the individual level,
+
+
+536
+0:26:52,74 --> 0:26:55,91
+you need to recognize that
+the people behind the machines
+
+
+537
+0:26:55,91 --> 0:26:59,33
+are both part of
+every single problem.
+
+
+538
+0:26:59,33 --> 0:27:2,69
+And have to be part of
+every single solution.
+
+
+539
+0:27:2,69 --> 0:27:4,41
+This leads to the next theme.
+
+
+540
+0:27:4,41 --> 0:27:6,0
+Incentives matter.
+
+
+541
+0:27:6,0 --> 0:27:9,33
+If you want to understand why
+something is or isn't happening
+
+
+542
+0:27:9,33 --> 0:27:12,89
+in cybersecurity, look
+to the motivations,
+
+
+543
+0:27:12,89 --> 0:27:15,63
+the relative costs,
+the organizations
+
+
+544
+0:27:15,63 --> 0:27:18,62
+that people are in, the
+tensions at play between them.
+
+
+545
+0:27:18,62 --> 0:27:21,96
+There is a reason why, for
+example, finance companies
+
+
+546
+0:27:21,96 --> 0:27:23,9
+are doing better at
+their cyber security--
+
+
+547
+0:27:23,9 --> 0:27:26,69
+both in terms of defending
+themselves, but also sharing
+
+
+548
+0:27:26,69 --> 0:27:29,31
+information --versus
+how, for example,
+
+
+549
+0:27:29,31 --> 0:27:34,34
+critical infrastructure and
+natural gas or the power grid,
+
+
+550
+0:27:34,34 --> 0:27:37,92
+how they're not cooperating and
+not defending themselves well.
+
+
+551
+0:27:37,92 --> 0:27:40,49
+It's because they're
+incentivized both to directly
+
+
+552
+0:27:40,49 --> 0:27:42,88
+understand the cost,
+but also there's
+
+
+553
+0:27:42,88 --> 0:27:46,41
+a regulatory environment around
+them that's driving that.
+
+
+554
+0:27:46,41 --> 0:27:48,585
+And this points to the
+role that government
+
+
+555
+0:27:48,585 --> 0:27:50,87
+can, and frankly
+should, be playing.
+
+
+556
+0:27:50,87 --> 0:27:52,97
+And everything from being
+a trusted information
+
+
+557
+0:27:52,97 --> 0:27:56,86
+provider to setting standards
+to-- in other situations,
+
+
+558
+0:27:56,86 --> 0:27:59,86
+it's going to have to create
+market incentives, which
+
+
+559
+0:27:59,86 --> 0:28:2,45
+is another way of
+saying regulation.
+
+
+560
+0:28:2,45 --> 0:28:5,4
+The fourth is history matters.
+
+
+561
+0:28:5,4 --> 0:28:9,9
+There is a history to how we
+got here with the internet.
+
+
+562
+0:28:9,9 --> 0:28:11,565
+And too often it's ignored.
+
+
+563
+0:28:11,565 --> 0:28:13,69
+And that's when you hear
+these sort of silly things
+
+
+564
+0:28:13,69 --> 0:28:17,64
+like oh, well let's just build
+a new, more secure internet,
+
+
+565
+0:28:17,64 --> 0:28:20,29
+which is not a workable concept.
+
+
+566
+0:28:20,29 --> 0:28:23,77
+And yet it's gotten a lot of
+credence in policy circles.
+
+
+567
+0:28:23,77 --> 0:28:25,73
+But more broadly, it
+means that there's
+
+
+568
+0:28:25,73 --> 0:28:29,552
+a wealth of lessons to learn
+from history and other fields.
+
+
+569
+0:28:29,552 --> 0:28:31,1
+So if we're exploring,
+for example,
+
+
+570
+0:28:31,1 --> 0:28:35,57
+how to deal with cyber crime,
+but also patriotic hacker
+
+
+571
+0:28:35,57 --> 0:28:38,2
+communities that are
+linked to states,
+
+
+572
+0:28:38,2 --> 0:28:41,8
+we look at the age of
+sail as a parallel.
+
+
+573
+0:28:41,8 --> 0:28:44,11
+Where you have this
+domain in which
+
+
+574
+0:28:44,11 --> 0:28:47,2
+commerce, communication,
+and conflict all
+
+
+575
+0:28:47,2 --> 0:28:49,11
+played out on the open sea.
+
+
+576
+0:28:49,11 --> 0:28:52,83
+The conflict actors ranged
+from state militaries
+
+
+577
+0:28:52,83 --> 0:28:55,31
+to individual criminal
+groups, pirates,
+
+
+578
+0:28:55,31 --> 0:28:57,72
+to these fuzzy things in
+the middle, privateers,
+
+
+579
+0:28:57,72 --> 0:28:59,97
+that sort of gave you some
+of the advantage of pirates
+
+
+580
+0:28:59,97 --> 0:29:1,55
+but also state-linked as well.
+
+
+581
+0:29:1,55 --> 0:29:3,5
+And that's a lesson
+that we can look
+
+
+582
+0:29:3,5 --> 0:29:5,66
+to in how we went
+after that trade.
+
+
+583
+0:29:5,66 --> 0:29:9,53
+To if we want to understand
+good role for government, let's
+
+
+584
+0:29:9,53 --> 0:29:13,21
+look at the most successful
+government agencies in history.
+
+
+585
+0:29:13,21 --> 0:29:15,87
+Like the Centers for Disease
+Control, which literally
+
+
+586
+0:29:15,87 --> 0:29:17,45
+started with a
+couple of scientists
+
+
+587
+0:29:17,45 --> 0:29:21,34
+taking a $10 collection,
+a tin cup for $10.
+
+
+588
+0:29:21,34 --> 0:29:24,92
+And that agency went on to
+eradicate malaria inside United
+
+
+589
+0:29:24,92 --> 0:29:27,81
+States, to fight smallpox on
+an international level, to oh,
+
+
+590
+0:29:27,81 --> 0:29:31,64
+by the way, served as a critical
+back channel to the Soviets
+
+
+591
+0:29:31,64 --> 0:29:34,18
+in the worst part
+of the Cold War.
+
+
+592
+0:29:34,18 --> 0:29:39,47
+This leads to the final lesson,
+and it comes from the saying
+
+
+593
+0:29:39,47 --> 0:29:43,13
+that Ben Franklin had, that
+"An ounce of prevention
+
+
+594
+0:29:43,13 --> 0:29:45,48
+is worth a pound of cure."
+
+
+595
+0:29:45,48 --> 0:29:50,23
+What's fascinating is that
+the CDC did studies and proved
+
+
+596
+0:29:50,23 --> 0:29:55,14
+that Franklin's saying actually
+is true in public health.
+
+
+597
+0:29:55,14 --> 0:29:59,94
+It's also true in
+cybersecurity and cyberwar.
+
+
+598
+0:29:59,94 --> 0:30:3,84
+Very simple steps
+of cyber hygiene
+
+
+599
+0:30:3,84 --> 0:30:6,95
+would have an immense impact.
+
+
+600
+0:30:6,95 --> 0:30:9,53
+Indeed, one study of
+the top 20 controls
+
+
+601
+0:30:9,53 --> 0:30:13,2
+found that they would stop
+94% of all cyber attacks.
+
+
+602
+0:30:13,2 --> 0:30:15,28
+Now some people react to
+that, and they go well,
+
+
+603
+0:30:15,28 --> 0:30:16,57
+I'm really special.
+
+
+604
+0:30:16,57 --> 0:30:17,9
+I'm in the 6%.
+
+
+605
+0:30:17,9 --> 0:30:21,16
+Well, statistically we
+all can't be in the 6%.
+
+
+606
+0:30:21,16 --> 0:30:23,63
+But even more so
+they should talk
+
+
+607
+0:30:23,63 --> 0:30:27,57
+to their technical
+folks, their IT crowd.
+
+
+608
+0:30:27,57 --> 0:30:30,5
+And they would quickly
+learn how if they didn't
+
+
+609
+0:30:30,5 --> 0:30:33,67
+have to spend so much time
+dealing with the low level
+
+
+610
+0:30:33,67 --> 0:30:37,16
+stuff, they could actually
+focus on the more advanced
+
+
+611
+0:30:37,16 --> 0:30:39,207
+persistent threats
+that are out there.
+
+
+612
+0:30:39,207 --> 0:30:41,4
+And a large part of
+this, what's interesting
+
+
+613
+0:30:41,4 --> 0:30:43,86
+is the data shows that senior
+executives are actually
+
+
+614
+0:30:43,86 --> 0:30:46,92
+twice as likely to be
+behind one of these problems
+
+
+615
+0:30:46,92 --> 0:30:50,64
+as junior folks, which makes it
+even more difficult for the IT
+
+
+616
+0:30:50,64 --> 0:30:52,72
+department to deal with.
+
+
+617
+0:30:52,72 --> 0:30:56,73
+To give some
+illustrations of this--
+
+
+618
+0:30:56,73 --> 0:30:58,11
+let me add one more thing on it.
+
+
+619
+0:30:58,11 --> 0:31:0,665
+The other challenge to this is
+that there's this assumption
+
+
+620
+0:31:0,665 --> 0:31:2,4
+that the advanced
+threats are all
+
+
+621
+0:31:2,4 --> 0:31:4,91
+using very advanced pathways in.
+
+
+622
+0:31:4,91 --> 0:31:7,2
+And yet consistently,
+they're coming
+
+
+623
+0:31:7,2 --> 0:31:11,0
+in through rather
+simple approaches.
+
+
+624
+0:31:11,0 --> 0:31:14,56
+For example, the most
+important outside penetration
+
+
+625
+0:31:14,56 --> 0:31:19,61
+of US military classified
+networks by a foreign espionage
+
+
+626
+0:31:19,61 --> 0:31:22,29
+agency happened
+when they conducted
+
+
+627
+0:31:22,29 --> 0:31:24,2
+what's known as a candy drop.
+
+
+628
+0:31:24,2 --> 0:31:27,82
+Basically they
+dropped memory sticks
+
+
+629
+0:31:27,82 --> 0:31:31,42
+in a parking lot outside
+a US military base.
+
+
+630
+0:31:31,42 --> 0:31:33,99
+And while we learn in
+preschool don't take candy
+
+
+631
+0:31:33,99 --> 0:31:38,31
+from strangers, a US soldier
+saw the shiny memory stick
+
+
+632
+0:31:38,31 --> 0:31:39,24
+in the dirt.
+
+
+633
+0:31:39,24 --> 0:31:41,0
+Thought this was
+really cool, picked
+
+
+634
+0:31:41,0 --> 0:31:42,677
+it up, wanted to
+see what was on it.
+
+
+635
+0:31:42,677 --> 0:31:44,51
+So he took it inside
+the base and plugged it
+
+
+636
+0:31:44,51 --> 0:31:45,75
+into his computer.
+
+
+637
+0:31:45,75 --> 0:31:48,395
+And that was actually the
+most important penetration
+
+
+638
+0:31:48,395 --> 0:31:51,2
+of US military networks
+from the outside.
+
+
+639
+0:31:51,2 --> 0:31:57,51
+To the insider threat, the
+episodes of Manning or Snowden.
+
+
+640
+0:31:57,51 --> 0:32:1,84
+Again, wherever you
+come down on them,
+
+
+641
+0:32:1,84 --> 0:32:5,85
+we can all agree that the
+organizations were not
+
+
+642
+0:32:5,85 --> 0:32:9,68
+following the kind of
+internal security norms
+
+
+643
+0:32:9,68 --> 0:32:11,81
+that a cupcake
+store should have.
+
+
+644
+0:32:11,81 --> 0:32:15,1
+Monitoring, for example,
+massively anomalous traffic,
+
+
+645
+0:32:15,1 --> 0:32:17,2
+things like that.
+
+
+646
+0:32:17,2 --> 0:32:22,78
+Now this idea of hygiene
+is important-- again,
+
+
+647
+0:32:22,78 --> 0:32:24,666
+when I say hygiene,
+picking up a memory stick
+
+
+648
+0:32:24,666 --> 0:32:25,79
+that you found in the dirt.
+
+
+649
+0:32:25,79 --> 0:32:28,1
+That's basic hygiene,
+that's the five second rule,
+
+
+650
+0:32:28,1 --> 0:32:29,5
+let alone cyber hygiene.
+
+
+651
+0:32:29,5 --> 0:32:34,41
+But this idea of hygiene, I
+think, is important not just
+
+
+652
+0:32:34,41 --> 0:32:38,92
+because of that idea of
+prevention, but even more so
+
+
+653
+0:32:38,92 --> 0:32:41,2
+the ethic behind it.
+
+
+654
+0:32:41,2 --> 0:32:43,8
+That we need--
+again, whether we're
+
+
+655
+0:32:43,8 --> 0:32:45,455
+talking about this on a global
+level, a national level,
+
+
+656
+0:32:45,455 --> 0:32:48,42
+a business level, to
+an individual level.
+
+
+657
+0:32:48,42 --> 0:32:51,44
+I teach my kids hygiene.
+
+
+658
+0:32:51,44 --> 0:32:54,11
+Wash your hands, cover
+your mouth when you cough.
+
+
+659
+0:32:54,11 --> 0:32:56,6
+I teach them that not only
+to protect themselves,
+
+
+660
+0:32:56,6 --> 0:32:59,65
+but also that they
+have a responsibility
+
+
+661
+0:32:59,65 --> 0:33:2,14
+to protect all that they
+connect with through the course
+
+
+662
+0:33:2,14 --> 0:33:3,26
+of their day.
+
+
+663
+0:33:3,26 --> 0:33:4,98
+That's the same kind
+of ethic that we
+
+
+664
+0:33:4,98 --> 0:33:6,199
+need in the online space.
+
+
+665
+0:33:6,199 --> 0:33:7,74
+And we should be
+pushing more of that
+
+
+666
+0:33:7,74 --> 0:33:11,4
+rather than the fears that
+are out there driving us.
+
+
+667
+0:33:11,4 --> 0:33:15,12
+So to bring this
+story full circle,
+
+
+668
+0:33:15,12 --> 0:33:19,47
+in the beginning I talked about
+how when I was seven years old
+
+
+669
+0:33:19,47 --> 0:33:21,65
+I saw my first computer.
+
+
+670
+0:33:21,65 --> 0:33:25,63
+Now if you had told
+little seven-year-old me
+
+
+671
+0:33:25,63 --> 0:33:29,56
+that one day this Commodore
+or its descendants
+
+
+672
+0:33:29,56 --> 0:33:34,87
+would allow someone
+to steal your money,
+
+
+673
+0:33:34,87 --> 0:33:41,39
+steal your identity, even become
+a weapon of mass disruption,
+
+
+674
+0:33:41,39 --> 0:33:44,3
+I would've begged and
+pleaded with my dad
+
+
+675
+0:33:44,3 --> 0:33:47,28
+not to turn on the power button.
+
+
+676
+0:33:47,28 --> 0:33:51,8
+Don't let us go into this
+dangerous, scary world.
+
+
+677
+0:33:51,8 --> 0:33:55,3
+Today I wouldn't have
+it any other way.
+
+
+678
+0:33:55,3 --> 0:33:59,36
+Because that technology
+has given me and all of us
+
+
+679
+0:33:59,36 --> 0:34:4,2
+literally superpowers that
+we didn't imagine back then.
+
+
+680
+0:34:4,2 --> 0:34:11,199
+We can ask any question and
+Google the answer to it.
+
+
+681
+0:34:11,199 --> 0:34:15,179
+Any question, important
+or not important.
+
+
+682
+0:34:15,179 --> 0:34:18,3
+Yesterday I was looking
+up the backstory
+
+
+683
+0:34:18,3 --> 0:34:22,102
+of a minor noble in
+the "Game of Thrones."
+
+
+684
+0:34:22,102 --> 0:34:23,685
+That's actually the
+important example.
+
+
+685
+0:34:23,685 --> 0:34:26,53
+
+
+
+686
+0:34:26,53 --> 0:34:28,489
+This technology has
+given us the power
+
+
+687
+0:34:28,489 --> 0:34:36,4
+to become friends with people
+that we've literally never met.
+
+
+688
+0:34:36,4 --> 0:34:38,94
+All of these great
+steps forward.
+
+
+689
+0:34:38,94 --> 0:34:42,92
+And so the same as it
+was back then, I think,
+
+
+690
+0:34:42,92 --> 0:34:45,65
+is the way it will
+be in the future.
+
+
+691
+0:34:45,65 --> 0:34:50,1
+We have to accept and manage
+the risks of this world--
+
+
+692
+0:34:50,1 --> 0:34:54,8
+whether it's the online world
+or the real world, so to speak,
+
+
+693
+0:34:54,8 --> 0:34:57,73
+--because of all that
+can be achieved in it.
+
+
+694
+0:34:57,73 --> 0:35:0,95
+And to steal the
+title from the book,
+
+
+695
+0:35:0,95 --> 0:35:4,4
+in the end, that's really
+what everyone needs to know.
+
+
+696
+0:35:4,4 --> 0:35:4,85
+Thank you.
+
+
+697
+0:35:4,85 --> 0:35:6,81
+[APPLAUSE]
+
+
+698
+0:35:6,81 --> 0:35:12,69
+
+
+
+699
+0:35:12,69 --> 0:35:14,62
+MALE SPEAKER: We'll
+do a short Q&A. Please
+
+
+700
+0:35:14,62 --> 0:35:17,2
+wait for the audience
+mic to arrive to you.
+
+
+701
+0:35:17,2 --> 0:35:20,94
+And I wanted to mention one more
+thing that Peter told me about.
+
+
+702
+0:35:20,94 --> 0:35:22,97
+And this is, there's a website.
+
+
+703
+0:35:22,97 --> 0:35:26,38
+It's called
+cybersecuritybook.com.
+
+
+704
+0:35:26,38 --> 0:35:31,52
+And there's a cybersecurity
+song playlist there.
+
+
+705
+0:35:31,52 --> 0:35:34,63
+I'm curious myself
+now what that is.
+
+
+706
+0:35:34,63 --> 0:35:35,51
+Questions?
+
+
+707
+0:35:35,51 --> 0:35:37,51
+AUDIENCE: It seemed like
+one of the big problems
+
+
+708
+0:35:37,51 --> 0:35:39,99
+you mentioned was a
+problem of leadership.
+
+
+709
+0:35:39,99 --> 0:35:42,6
+And the people who
+are empowered just
+
+
+710
+0:35:42,6 --> 0:35:44,829
+don't have the sophistication
+to talk about these issues
+
+
+711
+0:35:44,829 --> 0:35:45,62
+and make decisions.
+
+
+712
+0:35:45,62 --> 0:35:47,66
+And I just was
+wondering what you
+
+
+713
+0:35:47,66 --> 0:35:50,919
+thought was the minimum
+level of competence
+
+
+714
+0:35:50,919 --> 0:35:51,96
+required by these people?
+
+
+715
+0:35:51,96 --> 0:35:54,481
+Because realistically, they
+seem to be pretty entrenched.
+
+
+716
+0:35:54,481 --> 0:35:56,23
+And I don't think it's
+realistic to expect
+
+
+717
+0:35:56,23 --> 0:35:57,65
+a whole new breed of
+people to come in and make
+
+
+718
+0:35:57,65 --> 0:35:58,58
+these decisions.
+
+
+719
+0:35:58,58 --> 0:36:1,31
+And on that point, as
+well, how likely do
+
+
+720
+0:36:1,31 --> 0:36:3,675
+think it is to be able to get
+these people to that level
+
+
+721
+0:36:3,675 --> 0:36:6,5
+of sophistication, given the
+fact that these people don't
+
+
+722
+0:36:6,5 --> 0:36:8,42
+know how to use email?
+
+
+723
+0:36:8,42 --> 0:36:11,57
+PETER SINGER: It's
+a great question.
+
+
+724
+0:36:11,57 --> 0:36:15,26
+And one part of it,
+sometimes people say well,
+
+
+725
+0:36:15,26 --> 0:36:17,88
+isn't this just
+a digital native,
+
+
+726
+0:36:17,88 --> 0:36:20,49
+digital immigrant issue?
+
+
+727
+0:36:20,49 --> 0:36:25,38
+That digital immigrants,
+someone who grew up in a world
+
+
+728
+0:36:25,38 --> 0:36:26,84
+without computers
+and then now has
+
+
+729
+0:36:26,84 --> 0:36:30,84
+moved into this world versus
+a native who was born into it
+
+
+730
+0:36:30,84 --> 0:36:33,57
+and it all seems
+natural and intuitive.
+
+
+731
+0:36:33,57 --> 0:36:37,59
+And so this problem, won't
+it just solve itself,
+
+
+732
+0:36:37,59 --> 0:36:40,88
+is how they sometimes
+reference it.
+
+
+733
+0:36:40,88 --> 0:36:46,39
+First, there's a long period
+of time before the immigrants,
+
+
+734
+0:36:46,39 --> 0:36:50,35
+so to speak, move out of
+the positions of power.
+
+
+735
+0:36:50,35 --> 0:36:54,187
+To put it a different
+way-- there's
+
+
+736
+0:36:54,187 --> 0:36:55,645
+a quote in the book
+from a guy that
+
+
+737
+0:36:55,645 --> 0:36:58,72
+talks about how the folks that
+are sitting in the big boy
+
+
+738
+0:36:58,72 --> 0:37:0,32
+chairs, is how he phrased it.
+
+
+739
+0:37:0,32 --> 0:37:3,64
+The big boy chairs in
+government or at CEOs
+
+
+740
+0:37:3,64 --> 0:37:7,26
+of a lot of different companies
+or the like, many of them
+
+
+741
+0:37:7,26 --> 0:37:9,95
+didn't see or use
+their first computer
+
+
+742
+0:37:9,95 --> 0:37:13,36
+until they were in
+their 30s or 40s.
+
+
+743
+0:37:13,36 --> 0:37:16,83
+But it doesn't mean
+one, they're going
+
+
+744
+0:37:16,83 --> 0:37:18,6
+to be in those positions
+for a long time.
+
+
+745
+0:37:18,6 --> 0:37:21,15
+And so we've got this
+gap, this period of time.
+
+
+746
+0:37:21,15 --> 0:37:22,4
+We can't wait it out.
+
+
+747
+0:37:22,4 --> 0:37:26,5
+The second is a lot
+of digital natives
+
+
+748
+0:37:26,5 --> 0:37:28,95
+don't have this intuitively
+the way it's assumed.
+
+
+749
+0:37:28,95 --> 0:37:33,23
+In large part because of how
+we've stovepiped these issues.
+
+
+750
+0:37:33,23 --> 0:37:36,2
+That's for the IT
+folks to handle.
+
+
+751
+0:37:36,2 --> 0:37:38,96
+Or the IT folks saying, oh,
+well that's for legal to handle,
+
+
+752
+0:37:38,96 --> 0:37:41,27
+that's not for us.
+
+
+753
+0:37:41,27 --> 0:37:46,9
+And so to your question,
+what's the level of expertise.
+
+
+754
+0:37:46,9 --> 0:37:49,91
+I don't think there's a common
+test that everyone has to pass,
+
+
+755
+0:37:49,91 --> 0:37:50,957
+or something like that.
+
+
+756
+0:37:50,957 --> 0:37:53,29
+I actually-- and this may be
+a little bit controversial.
+
+
+757
+0:37:53,29 --> 0:37:54,74
+I don't think it's
+even about people
+
+
+758
+0:37:54,74 --> 0:37:57,156
+knowing how to do things like
+computer programming-- maybe
+
+
+759
+0:37:57,156 --> 0:37:59,38
+it's controversial in this room.
+
+
+760
+0:37:59,38 --> 0:38:7,19
+It's instead having familiarity
+of the key concepts,
+
+
+761
+0:38:7,19 --> 0:38:11,23
+the key terms, so
+that frankly, they
+
+
+762
+0:38:11,23 --> 0:38:15,14
+can have a good
+argument about it.
+
+
+763
+0:38:15,14 --> 0:38:20,83
+You can see this in what's
+playing out with the NSA issues
+
+
+764
+0:38:20,83 --> 0:38:24,64
+recently, where
+both the mass media,
+
+
+765
+0:38:24,64 --> 0:38:28,82
+but also both sides in
+Congress that are arguing it,
+
+
+766
+0:38:28,82 --> 0:38:32,56
+it's just so factually
+disconnected.
+
+
+767
+0:38:32,56 --> 0:38:35,74
+And so they're not able to even
+have a good argument about it.
+
+
+768
+0:38:35,74 --> 0:38:38,56
+To use that illustration
+of offense, defense theory.
+
+
+769
+0:38:38,56 --> 0:38:40,83
+It's a great way
+of showing this.
+
+
+770
+0:38:40,83 --> 0:38:42,72
+Where on one hand
+the people that
+
+
+771
+0:38:42,72 --> 0:38:45,1
+understand the
+technical side don't
+
+
+772
+0:38:45,1 --> 0:38:47,65
+know that there's actually
+a very rich literature
+
+
+773
+0:38:47,65 --> 0:38:50,642
+in international relations
+of offense, defense,
+
+
+774
+0:38:50,642 --> 0:38:52,85
+that doesn't lead you to
+one conclusion or the other.
+
+
+775
+0:38:52,85 --> 0:38:55,2
+And they were sort of-- they
+picked one part of it and said,
+
+
+776
+0:38:55,2 --> 0:38:56,936
+this is the conclusion
+of what we should take.
+
+
+777
+0:38:56,936 --> 0:39:1,27
+In turn the IR crowd doesn't
+understand this all that well.
+
+
+778
+0:39:1,27 --> 0:39:5,67
+The bigger thing is not a level
+of knowledge, it's an attitude.
+
+
+779
+0:39:5,67 --> 0:39:10,37
+There's too much Ludditism
+out there that's celebrated.
+
+
+780
+0:39:10,37 --> 0:39:13,47
+A senior government official
+who held responsibility
+
+
+781
+0:39:13,47 --> 0:39:16,17
+for this literally
+saying, doesn't
+
+
+782
+0:39:16,17 --> 0:39:18,51
+think it's all that useful.
+
+
+783
+0:39:18,51 --> 0:39:20,66
+And she did the same
+thing the SecDef did,
+
+
+784
+0:39:20,66 --> 0:39:22,99
+where if their
+email came in it's
+
+
+785
+0:39:22,99 --> 0:39:24,59
+printed out by the assistant.
+
+
+786
+0:39:24,59 --> 0:39:25,84
+They write their answer on it.
+
+
+787
+0:39:25,84 --> 0:39:27,55
+And then they hand it back.
+
+
+788
+0:39:27,55 --> 0:39:30,349
+You can't be effective if
+that's the kind of attitude
+
+
+789
+0:39:30,349 --> 0:39:31,89
+that you have, both
+for your internal
+
+
+790
+0:39:31,89 --> 0:39:36,17
+but you think it's OK to talk
+to others about it that way.
+
+
+791
+0:39:36,17 --> 0:39:39,112
+And so for me it's,
+again, there's
+
+
+792
+0:39:39,112 --> 0:39:40,32
+some base level of knowledge.
+
+
+793
+0:39:40,32 --> 0:39:42,82
+But it's more about changing
+the attitudes around it.
+
+
+794
+0:39:42,82 --> 0:39:47,5
+And frankly stop looking at
+this as just a highly technical
+
+
+795
+0:39:47,5 --> 0:39:52,47
+issue for, again, the IT
+crowd, or for the nerds.
+
+
+796
+0:39:52,47 --> 0:39:54,27
+AUDIENCE: What
+principles have we
+
+
+797
+0:39:54,27 --> 0:39:59,59
+learned from the behavior of
+immune systems and biology,
+
+
+798
+0:39:59,59 --> 0:40:2,315
+and from the resilience
+of biological networks
+
+
+799
+0:40:2,315 --> 0:40:3,94
+all the way from the
+metabolic networks
+
+
+800
+0:40:3,94 --> 0:40:8,11
+up to ecologies, what principles
+have we learned that we are not
+
+
+801
+0:40:8,11 --> 0:40:11,14
+yet applying in cybersecurity?
+
+
+802
+0:40:11,14 --> 0:40:12,93
+PETER SINGER: That's
+actually a great question
+
+
+803
+0:40:12,93 --> 0:40:14,471
+to bridge back to
+the prior question.
+
+
+804
+0:40:14,471 --> 0:40:18,85
+Because that all-important
+word that you used,
+
+
+805
+0:40:18,85 --> 0:40:21,7
+resilience, is
+what I think should
+
+
+806
+0:40:21,7 --> 0:40:24,605
+be at the centerpiece
+of our approaches
+
+
+807
+0:40:24,605 --> 0:40:25,98
+and our discussions
+and the like.
+
+
+808
+0:40:25,98 --> 0:40:29,94
+
+
+
+809
+0:40:29,94 --> 0:40:33,43
+And you see this, again,
+on the government side.
+
+
+810
+0:40:33,43 --> 0:40:37,13
+But also on the business side.
+
+
+811
+0:40:37,13 --> 0:40:41,5
+Basically there's this
+mentality of offense, defense.
+
+
+812
+0:40:41,5 --> 0:40:46,6
+And defense, it's build
+higher or thicker walls.
+
+
+813
+0:40:46,6 --> 0:40:48,66
+
+
+
+814
+0:40:48,66 --> 0:40:52,38
+And then the offense
+side is, weirdly enough,
+
+
+815
+0:40:52,38 --> 0:40:54,65
+coming back into
+the private sector
+
+
+816
+0:40:54,65 --> 0:40:57,35
+with the emergence of the
+potential hack back industry,
+
+
+817
+0:40:57,35 --> 0:41:0,11
+of oh, the best way to
+protect yourself is not just
+
+
+818
+0:41:0,11 --> 0:41:5,91
+to build a high wall but we'll
+go after the bad guys for you.
+
+
+819
+0:41:5,91 --> 0:41:9,0
+It's basically a business
+version of vigilantism.
+
+
+820
+0:41:9,0 --> 0:41:13,814
+It has major concerns for
+international relations,
+
+
+821
+0:41:13,814 --> 0:41:15,48
+because it could
+quickly escalate things
+
+
+822
+0:41:15,48 --> 0:41:17,1
+in a way that's unplanned.
+
+
+823
+0:41:17,1 --> 0:41:21,9
+It's also a horrible business
+model for the client.
+
+
+824
+0:41:21,9 --> 0:41:26,5
+Vigilantism only worked
+for Charles Bronson.
+
+
+825
+0:41:26,5 --> 0:41:30,26
+This idea of the best way
+to defend yourself-- I'm
+
+
+826
+0:41:30,26 --> 0:41:31,48
+going to go after this guy.
+
+
+827
+0:41:31,48 --> 0:41:32,24
+And then oh, you're attacking?
+
+
+828
+0:41:32,24 --> 0:41:33,62
+I'll go after this guy,
+this guy, this guy.
+
+
+829
+0:41:33,62 --> 0:41:35,13
+And so at the end of
+the day all you're
+
+
+830
+0:41:35,13 --> 0:41:37,33
+doing is paying someone to
+go after others for you,
+
+
+831
+0:41:37,33 --> 0:41:39,39
+not actually making
+yourself secure.
+
+
+832
+0:41:39,39 --> 0:41:41,25
+Instead of this
+mentality, it goes
+
+
+833
+0:41:41,25 --> 0:41:43,29
+to what you asked
+about, resilience.
+
+
+834
+0:41:43,29 --> 0:41:47,94
+And you can think about this
+in the physiological way.
+
+
+835
+0:41:47,94 --> 0:41:51,1
+And that turns on everything
+from the notion of it being
+
+
+836
+0:41:51,1 --> 0:41:54,99
+not a Cold War-- you
+know, this idea of we're
+
+
+837
+0:41:54,99 --> 0:41:57,535
+in a new Cold War is
+literally a quote from folks.
+
+
+838
+0:41:57,535 --> 0:42:0,11
+
+
+
+839
+0:42:0,11 --> 0:42:5,0
+One, malware is not like the
+physics of a nuclear weapon.
+
+
+840
+0:42:5,0 --> 0:42:9,93
+Second, there's not the bipolar
+relationship of two powers.
+
+
+841
+0:42:9,93 --> 0:42:12,6
+The players in
+cybersecurity are just
+
+
+842
+0:42:12,6 --> 0:42:14,13
+like the players in cyberspace.
+
+
+843
+0:42:14,13 --> 0:42:17,77
+It's everything from the
+100 cyber military units
+
+
+844
+0:42:17,77 --> 0:42:21,29
+out there to
+non-state collectives
+
+
+845
+0:42:21,29 --> 0:42:25,33
+interested in everything from
+cute cats to online protest
+
+
+846
+0:42:25,33 --> 0:42:28,47
+to corporations that range
+from Google to Target
+
+
+847
+0:42:28,47 --> 0:42:29,98
+to the cupcake store.
+
+
+848
+0:42:29,98 --> 0:42:33,85
+And so it doesn't fit that
+to the online battle of ideas
+
+
+849
+0:42:33,85 --> 0:42:37,33
+is not the ideological Cold
+War battle that it's framed.
+
+
+850
+0:42:37,33 --> 0:42:41,19
+The online battle of
+ideas are-- go on YouTube
+
+
+851
+0:42:41,19 --> 0:42:43,5
+and you can see the
+diversity of them.
+
+
+852
+0:42:43,5 --> 0:42:46,6
+And so instead it's this
+ecosystem of players.
+
+
+853
+0:42:46,6 --> 0:42:49,17
+And then it goes to the idea
+of the physiological approach
+
+
+854
+0:42:49,17 --> 0:42:50,11
+of your own body.
+
+
+855
+0:42:50,11 --> 0:42:53,505
+Our bodies are probably the most
+resilient thing ever created.
+
+
+856
+0:42:53,505 --> 0:42:57,21
+
+
+
+857
+0:42:57,21 --> 0:43:1,58
+They're designed for a world
+that's incredibly hostile.
+
+
+858
+0:43:1,58 --> 0:43:3,58
+They expect that bad
+things are going to happen.
+
+
+859
+0:43:3,58 --> 0:43:5,75
+They have a really
+great exterior line
+
+
+860
+0:43:5,75 --> 0:43:7,66
+of defense, your skin.
+
+
+861
+0:43:7,66 --> 0:43:11,54
+But they fully plan that
+that skin, at some point,
+
+
+862
+0:43:11,54 --> 0:43:13,91
+will definitely be penetrated.
+
+
+863
+0:43:13,91 --> 0:43:17,1
+And it has all sorts of
+systems to react to that.
+
+
+864
+0:43:17,1 --> 0:43:21,7
+Everything from stemming the
+flow to monitoring infection,
+
+
+865
+0:43:21,7 --> 0:43:24,4
+internal monitoring systems,
+to your body triages
+
+
+866
+0:43:24,4 --> 0:43:26,16
+between what's
+important what's not
+
+
+867
+0:43:26,16 --> 0:43:28,81
+to-- guess what,
+your body itself
+
+
+868
+0:43:28,81 --> 0:43:31,83
+operates on the assumption that
+something external is already
+
+
+869
+0:43:31,83 --> 0:43:32,79
+inside.
+
+
+870
+0:43:32,79 --> 0:43:35,33
+There's 10 times
+as much-- when you
+
+
+871
+0:43:35,33 --> 0:43:37,49
+look at the number
+of cell counts,
+
+
+872
+0:43:37,49 --> 0:43:38,97
+there's 10 times
+as much bacteria
+
+
+873
+0:43:38,97 --> 0:43:41,72
+and the like in your body
+than there are human cells.
+
+
+874
+0:43:41,72 --> 0:43:46,12
+And again compare that to the
+typical oh, just buy my widget,
+
+
+875
+0:43:46,12 --> 0:43:49,42
+or if I have a better, stronger
+password I'll keep them out.
+
+
+876
+0:43:49,42 --> 0:43:51,84
+But there's another
+idea of resilience
+
+
+877
+0:43:51,84 --> 0:43:54,81
+that I don't think we
+pay enough attention to.
+
+
+878
+0:43:54,81 --> 0:43:58,42
+And that's psychological
+resilience.
+
+
+879
+0:43:58,42 --> 0:44:3,6
+There's 3,000 books on
+psychological resilience
+
+
+880
+0:44:3,6 --> 0:44:4,61
+of some sort.
+
+
+881
+0:44:4,61 --> 0:44:9,65
+Resilience in your job,
+resilience in your love life,
+
+
+882
+0:44:9,65 --> 0:44:10,464
+et cetera.
+
+
+883
+0:44:10,464 --> 0:44:11,88
+And it's all built
+around the idea
+
+
+884
+0:44:11,88 --> 0:44:14,56
+that you can't go
+through life thinking
+
+
+885
+0:44:14,56 --> 0:44:16,74
+that bad things
+will never happen,
+
+
+886
+0:44:16,74 --> 0:44:19,28
+or they can all be
+deterred or defeated.
+
+
+887
+0:44:19,28 --> 0:44:23,73
+Instead, your success is
+dependent on your assumption
+
+
+888
+0:44:23,73 --> 0:44:25,26
+that bad things will play out.
+
+
+889
+0:44:25,26 --> 0:44:27,45
+But it's all about how will
+you power through them?
+
+
+890
+0:44:27,45 --> 0:44:29,93
+How will you recover
+quickly from them?
+
+
+891
+0:44:29,93 --> 0:44:32,92
+How will you not allow them
+to knock you down in the way
+
+
+892
+0:44:32,92 --> 0:44:33,587
+that they could?
+
+
+893
+0:44:33,587 --> 0:44:35,253
+All these different
+way-- and again, you
+
+
+894
+0:44:35,253 --> 0:44:37,84
+can think about in your love
+life to your job, whatever.
+
+
+895
+0:44:37,84 --> 0:44:42,54
+We need that same mentality
+when it comes to cyber.
+
+
+896
+0:44:42,54 --> 0:44:48,45
+So take cyberterrorism,
+the central discussion
+
+
+897
+0:44:48,45 --> 0:44:52,18
+of, oh my god, the power
+grid might go down.
+
+
+898
+0:44:52,18 --> 0:44:54,92
+And in fact, you've seen all
+of these false news reports
+
+
+899
+0:44:54,92 --> 0:44:57,23
+about times that cyber
+attacks caused it.
+
+
+900
+0:44:57,23 --> 0:45:2,15
+Which either in one situation
+the power didn't go out,
+
+
+901
+0:45:2,15 --> 0:45:4,26
+it's a false story
+that-- guess what,
+
+
+902
+0:45:4,26 --> 0:45:7,58
+"60 Minutes"
+unsurprisingly covered.
+
+
+903
+0:45:7,58 --> 0:45:10,74
+To another situation, things
+that are described as cyber
+
+
+904
+0:45:10,74 --> 0:45:11,89
+attacks that they're not.
+
+
+905
+0:45:11,89 --> 0:45:15,63
+So two dudes with a rifle,
+that's not a cyber attack.
+
+
+906
+0:45:15,63 --> 0:45:18,54
+But that was recently in
+the news covered as in this.
+
+
+907
+0:45:18,54 --> 0:45:21,7
+The bottom line is that
+squirrels have taken down
+
+
+908
+0:45:21,7 --> 0:45:26,33
+more power grids than the
+zero times that hackers have.
+
+
+909
+0:45:26,33 --> 0:45:27,74
+Again, it could play out.
+
+
+910
+0:45:27,74 --> 0:45:29,89
+But it's all about how
+will we react to it.
+
+
+911
+0:45:29,89 --> 0:45:32,43
+
+
+
+912
+0:45:32,43 --> 0:45:35,74
+Where I live outside
+Washington, the power
+
+
+913
+0:45:35,74 --> 0:45:37,87
+went down multiple
+times this summer.
+
+
+914
+0:45:37,87 --> 0:45:41,4
+
+
+
+915
+0:45:41,4 --> 0:45:45,12
+But if it had been a cyber
+attack that caused it,
+
+
+916
+0:45:45,12 --> 0:45:47,74
+we would have had a
+congressional commission
+
+
+917
+0:45:47,74 --> 0:45:49,62
+investigating who to blame.
+
+
+918
+0:45:49,62 --> 0:45:53,23
+And we would have had
+mass hysteria around it.
+
+
+919
+0:45:53,23 --> 0:45:56,86
+And so what I would prefer-- and
+I go back to that echo of 9/11
+
+
+920
+0:45:56,86 --> 0:46:1,66
+and how you react --is the
+British mentality to terrorism,
+
+
+921
+0:46:1,66 --> 0:46:3,37
+keep calm and carry on.
+
+
+922
+0:46:3,37 --> 0:46:7,37
+Rather than the
+American model, which is
+
+
+923
+0:46:7,37 --> 0:46:12,65
+we try and out-escalate the
+hype and the fear around it.
+
+
+924
+0:46:12,65 --> 0:46:17,4
+Because we're seeing more
+gains in the fear and hype.
+
+
+925
+0:46:17,4 --> 0:46:20,27
+And my worry is that's
+carrying over to cyber side.
+
+
+926
+0:46:20,27 --> 0:46:23,77
+AUDIENCE: The cyber crime that
+really matters in the Snowden
+
+
+927
+0:46:23,77 --> 0:46:29,6
+story is not what Snowden
+did, but what he revealed.
+
+
+928
+0:46:29,6 --> 0:46:34,47
+Alexander has two mandates,
+both offense and defense.
+
+
+929
+0:46:34,47 --> 0:46:37,85
+And as we've seen
+and as you've said,
+
+
+930
+0:46:37,85 --> 0:46:42,5
+the offense has dominated
+in his activities.
+
+
+931
+0:46:42,5 --> 0:46:47,73
+But whether offense
+inevitably dominates,
+
+
+932
+0:46:47,73 --> 0:46:52,54
+as they seem to think and as is
+premised behind their actions,
+
+
+933
+0:46:52,54 --> 0:46:54,64
+they've loaded the dice.
+
+
+934
+0:46:54,64 --> 0:46:56,96
+Part of what they've
+done is rather than
+
+
+935
+0:46:56,96 --> 0:47:0,66
+also act on their
+defensive mandate,
+
+
+936
+0:47:0,66 --> 0:47:5,69
+they have purposely gone out
+and inserted vulnerabilities,
+
+
+937
+0:47:5,69 --> 0:47:9,46
+worked with vendors
+of security software
+
+
+938
+0:47:9,46 --> 0:47:11,46
+to purposely insert
+vulnerabilities,
+
+
+939
+0:47:11,46 --> 0:47:14,33
+making us more vulnerable.
+
+
+940
+0:47:14,33 --> 0:47:17,67
+And as you said,
+incentives matter.
+
+
+941
+0:47:17,67 --> 0:47:20,17
+Let's take a look-- in
+the absence of Snowden,
+
+
+942
+0:47:20,17 --> 0:47:22,91
+let's take a look
+at the incentives
+
+
+943
+0:47:22,91 --> 0:47:26,49
+on secret intelligence
+agencies themselves.
+
+
+944
+0:47:26,49 --> 0:47:30,3
+What is the bureaucratic reward
+for successfully carrying out
+
+
+945
+0:47:30,3 --> 0:47:31,58
+an attack?
+
+
+946
+0:47:31,58 --> 0:47:34,77
+And what is the
+bureaucratic reward
+
+
+947
+0:47:34,77 --> 0:47:38,91
+for successfully preventing
+attacks that aren't visible
+
+
+948
+0:47:38,91 --> 0:47:41,1
+because they couldn't happen?
+
+
+949
+0:47:41,1 --> 0:47:43,16
+The second is invisible.
+
+
+950
+0:47:43,16 --> 0:47:45,81
+The bureaucratic
+reward structure
+
+
+951
+0:47:45,81 --> 0:47:48,18
+has no means to reward it.
+
+
+952
+0:47:48,18 --> 0:47:52,45
+And in the absence of Snowden,
+the first is cost-free.
+
+
+953
+0:47:52,45 --> 0:47:55,93
+PETER SINGER: I'm in agreement
+with you on a couple of areas.
+
+
+954
+0:47:55,93 --> 0:47:58,9
+One, on the notion
+of incentives.
+
+
+955
+0:47:58,9 --> 0:48:0,51
+And again, you can see
+that whether you're
+
+
+956
+0:48:0,51 --> 0:48:4,22
+talking about within that
+intelligence agency to why
+
+
+957
+0:48:4,22 --> 0:48:7,38
+we see on the defense side
+certain industries cooperate
+
+
+958
+0:48:7,38 --> 0:48:7,909
+or not.
+
+
+959
+0:48:7,909 --> 0:48:8,95
+And it all turns on that.
+
+
+960
+0:48:8,95 --> 0:48:10,73
+But then there's the
+broader-- essentially
+
+
+961
+0:48:10,73 --> 0:48:14,3
+you pulled the
+bandage of Snowden.
+
+
+962
+0:48:14,3 --> 0:48:15,59
+And so we've got to go at it.
+
+
+963
+0:48:15,59 --> 0:48:20,8
+And you began by hitting
+one part of his activity.
+
+
+964
+0:48:20,8 --> 0:48:22,93
+And I think this is
+the challenge right now
+
+
+965
+0:48:22,93 --> 0:48:27,65
+in the discussion and
+debate around him,
+
+
+966
+0:48:27,65 --> 0:48:30,85
+the NSA, is he a traitor, is
+he a whistleblower, should he
+
+
+967
+0:48:30,85 --> 0:48:36,96
+get clemency or the like,
+is that essentially he
+
+
+968
+0:48:36,96 --> 0:48:42,47
+gathered and now is being
+released-- actually not by him.
+
+
+969
+0:48:42,47 --> 0:48:44,5
+This is one of the
+myths that's out there.
+
+
+970
+0:48:44,5 --> 0:48:47,9
+It's not him pulling
+the strings right now.
+
+
+971
+0:48:47,9 --> 0:48:50,821
+The journalists, they're
+actually going through it.
+
+
+972
+0:48:50,821 --> 0:48:53,7
+And the challenge for them
+is because there's so much,
+
+
+973
+0:48:53,7 --> 0:48:55,75
+it actually involves,
+again, a very different set
+
+
+974
+0:48:55,75 --> 0:48:56,88
+of expertise.
+
+
+975
+0:48:56,88 --> 0:49:1,51
+So someone who understands
+the technology will not
+
+
+976
+0:49:1,51 --> 0:49:5,76
+get-- they'll see a name pop
+up that, say, the Latin America
+
+
+977
+0:49:5,76 --> 0:49:8,21
+beat reporter will go whoa,
+whoa, whoa, that name.
+
+
+978
+0:49:8,21 --> 0:49:11,35
+That guy's now the Deputy
+Foreign Minister of Brazil.
+
+
+979
+0:49:11,35 --> 0:49:12,98
+That name is meaningless
+to the person
+
+
+980
+0:49:12,98 --> 0:49:16,25
+who knows what this acronym
+means that the Latin America
+
+
+981
+0:49:16,25 --> 0:49:17,632
+reporter doesn't know that.
+
+
+982
+0:49:17,632 --> 0:49:19,59
+And then in turn you need
+the spy and the like.
+
+
+983
+0:49:19,59 --> 0:49:22,91
+So they're actually having
+these teams go through it
+
+
+984
+0:49:22,91 --> 0:49:27,34
+and figuring out what's
+newsworthy or not.
+
+
+985
+0:49:27,34 --> 0:49:30,39
+But the bottom line is there's
+such a mass of information
+
+
+986
+0:49:30,39 --> 0:49:32,84
+and the wide variety of
+stories that have come out
+
+
+987
+0:49:32,84 --> 0:49:37,74
+and will continue to come
+out is that it essentially
+
+
+988
+0:49:37,74 --> 0:49:42,17
+falls into three very
+different buckets of activity
+
+
+989
+0:49:42,17 --> 0:49:44,13
+that has been disclosed.
+
+
+990
+0:49:44,13 --> 0:49:47,22
+The first bucket of
+activity is frankly
+
+
+991
+0:49:47,22 --> 0:49:52,33
+what I would describe as
+smart strategic espionage
+
+
+992
+0:49:52,33 --> 0:49:55,3
+against American enemies.
+
+
+993
+0:49:55,3 --> 0:49:57,72
+And you hit sort
+of the mentality
+
+
+994
+0:49:57,72 --> 0:49:59,27
+that drive some of that.
+
+
+995
+0:49:59,27 --> 0:50:1,226
+Now there's an issue
+of-- you said they
+
+
+996
+0:50:1,226 --> 0:50:3,35
+when you're talking about
+NSA versus cyber command.
+
+
+997
+0:50:3,35 --> 0:50:5,391
+And they're the top military
+intelligence agency.
+
+
+998
+0:50:5,391 --> 0:50:8,25
+But the bottom line is
+one bucket of activity
+
+
+999
+0:50:8,25 --> 0:50:15,16
+was things that we would expect
+and want an agency to do.
+
+
+1000
+0:50:15,16 --> 0:50:20,3
+Going after monitoring
+terror rings in Pakistan,
+
+
+1001
+0:50:20,3 --> 0:50:24,27
+Iranian nuclear research,
+China, et cetera.
+
+
+1002
+0:50:24,27 --> 0:50:28,99
+Bucket number two is what
+I would term questionable.
+
+
+1003
+0:50:28,99 --> 0:50:31,32
+Activities that there
+is a debate around
+
+
+1004
+0:50:31,32 --> 0:50:35,43
+because it involves US citizens
+in some way, shape, or form.
+
+
+1005
+0:50:35,43 --> 0:50:40,7
+Either through legal approaches
+on the front door to back door
+
+
+1006
+0:50:40,7 --> 0:50:43,86
+to running with an
+authorization in a way
+
+
+1007
+0:50:43,86 --> 0:50:47,3
+that the policymaker that
+authorized it didn't understand
+
+
+1008
+0:50:47,3 --> 0:50:51,15
+what was authorized
+to essentially deals
+
+
+1009
+0:50:51,15 --> 0:50:53,4
+made with foreign
+intelligence agencies
+
+
+1010
+0:50:53,4 --> 0:50:55,4
+where they were able to
+collect things in a way
+
+
+1011
+0:50:55,4 --> 0:50:57,92
+that we couldn't, an exchange
+of information and the like.
+
+
+1012
+0:50:57,92 --> 0:51:1,87
+But basically the debate around
+involvement of US citizens.
+
+
+1013
+0:51:1,87 --> 0:51:5,56
+Category three is
+the bucket that I
+
+
+1014
+0:51:5,56 --> 0:51:9,59
+would describe as unstrategic,
+or more directly stupid.
+
+
+1015
+0:51:9,59 --> 0:51:13,76
+And that is targeting
+of close American allies
+
+
+1016
+0:51:13,76 --> 0:51:16,53
+and American
+technology companies.
+
+
+1017
+0:51:16,53 --> 0:51:20,17
+And the resonance of
+that is everything
+
+
+1018
+0:51:20,17 --> 0:51:22,39
+from how I mentioned
+the hammering
+
+
+1019
+0:51:22,39 --> 0:51:25,51
+to other kinds of
+international negotiations that
+
+
+1020
+0:51:25,51 --> 0:51:28,49
+may matter more to
+as you mentioned,
+
+
+1021
+0:51:28,49 --> 0:51:33,49
+the undermining of
+cybersecurity for all of us.
+
+
+1022
+0:51:33,49 --> 0:51:34,59
+Particularly based
+on this assumption
+
+
+1023
+0:51:34,59 --> 0:51:36,298
+that they were the
+only ones smart enough
+
+
+1024
+0:51:36,298 --> 0:51:40,18
+to find the vulnerability,
+but then more broadly what
+
+
+1025
+0:51:40,18 --> 0:51:43,5
+it's done to that
+critical word, trust,
+
+
+1026
+0:51:43,5 --> 0:51:45,182
+trust in American
+technology companies.
+
+
+1027
+0:51:45,182 --> 0:51:46,64
+And the resonance
+of that, at least
+
+
+1028
+0:51:46,64 --> 0:51:48,45
+according to
+Forrester Research, is
+
+
+1029
+0:51:48,45 --> 0:51:51,52
+that your industry will lose
+approximately $180 billion
+
+
+1030
+0:51:51,52 --> 0:51:52,75
+worth of revenue.
+
+
+1031
+0:51:52,75 --> 0:51:54,49
+That's why people
+here are pissed.
+
+
+1032
+0:51:54,49 --> 0:51:59,31
+The problem, though, is
+that in the debate around it
+
+
+1033
+0:51:59,31 --> 0:52:3,28
+we pull from whichever
+bucket we care most about.
+
+
+1034
+0:52:3,28 --> 0:52:6,47
+So if you care most about
+classic national security,
+
+
+1035
+0:52:6,47 --> 0:52:9,21
+you go, this guy disclosed
+things that are important.
+
+
+1036
+0:52:9,21 --> 0:52:11,99
+He is a traitor,
+dada, dada, dada.
+
+
+1037
+0:52:11,99 --> 0:52:15,52
+If you care about the privacy
+Fourth Amendment questions,
+
+
+1038
+0:52:15,52 --> 0:52:18,38
+you only talk about
+those, and he's
+
+
+1039
+0:52:18,38 --> 0:52:20,77
+a whistleblower, and
+clemency, and the like.
+
+
+1040
+0:52:20,77 --> 0:52:23,19
+We see it also in
+how we defend it
+
+
+1041
+0:52:23,19 --> 0:52:25,68
+from the narrative on
+the government side.
+
+
+1042
+0:52:25,68 --> 0:52:31,67
+So these kind of activities
+are to prevent another 9/11.
+
+
+1043
+0:52:31,67 --> 0:52:36,69
+Which may describe bucket two
+and the metadata and the like,
+
+
+1044
+0:52:36,69 --> 0:52:38,93
+but that doesn't make
+the Germans feel better
+
+
+1045
+0:52:38,93 --> 0:52:41,82
+about why you were going
+after Angela Merkel's
+
+
+1046
+0:52:41,82 --> 0:52:43,48
+messages, or the like.
+
+
+1047
+0:52:43,48 --> 0:52:47,23
+And so the problem is it's
+all of these things at once.
+
+
+1048
+0:52:47,23 --> 0:52:49,36
+And it's muddied the
+water of the discussions.
+
+
+1049
+0:52:49,36 --> 0:52:51,1
+And we can even see
+this most recently
+
+
+1050
+0:52:51,1 --> 0:52:54,44
+in the President's speech,
+which, again, focused primarily
+
+
+1051
+0:52:54,44 --> 0:52:57,88
+on one of the buckets,
+mostly the privacy side.
+
+
+1052
+0:52:57,88 --> 0:53:0,69
+Because that's what matters
+most in the American political
+
+
+1053
+0:53:0,69 --> 0:53:2,54
+debate, but actually
+may not matter
+
+
+1054
+0:53:2,54 --> 0:53:5,15
+the most in the long
+term national security
+
+
+1055
+0:53:5,15 --> 0:53:7,42
+and economic prosperity
+of the nation, which
+
+
+1056
+0:53:7,42 --> 0:53:11,5
+is weird and scary to say.
+
+
+1057
+0:53:11,5 --> 0:53:14,54
+AUDIENCE: Just a question on
+how Silicon Valley companies can
+
+
+1058
+0:53:14,54 --> 0:53:18,27
+partner with each other and
+with the government to actually
+
+
+1059
+0:53:18,27 --> 0:53:20,79
+have better government
+surveillance policies, right?
+
+
+1060
+0:53:20,79 --> 0:53:23,735
+Recently, we saw the
+government surveillance reform,
+
+
+1061
+0:53:23,735 --> 0:53:25,61
+where like seven companies
+have got together.
+
+
+1062
+0:53:25,61 --> 0:53:28,31
+And again, it's going back to
+the notion of us versus them
+
+
+1063
+0:53:28,31 --> 0:53:29,97
+where instead of
+partnering, it's
+
+
+1064
+0:53:29,97 --> 0:53:33,5
+now they're pushing
+for like reforms,
+
+
+1065
+0:53:33,5 --> 0:53:35,491
+and wasting lobbying
+dollars and stuff while it
+
+
+1066
+0:53:35,491 --> 0:53:36,74
+could be a better partnership.
+
+
+1067
+0:53:36,74 --> 0:53:41,64
+So what are you thoughts
+on what we could do?
+
+
+1068
+0:53:41,64 --> 0:53:44,16
+PETER SINGER: There's
+steps that can be taken.
+
+
+1069
+0:53:44,16 --> 0:53:48,14
+But one of the underlying
+things this is attitude.
+
+
+1070
+0:53:48,14 --> 0:53:54,68
+And it's funny, I was out
+here a little over a year ago.
+
+
+1071
+0:53:54,68 --> 0:53:59,53
+And there was sort of
+an attitude towards,
+
+
+1072
+0:53:59,53 --> 0:54:2,91
+DC is so dysfunctional.
+
+
+1073
+0:54:2,91 --> 0:54:4,6
+Nothing could get done there.
+
+
+1074
+0:54:4,6 --> 0:54:6,14
+You guys are so problematic.
+
+
+1075
+0:54:6,14 --> 0:54:9,93
+We don't want anything
+to do with you.
+
+
+1076
+0:54:9,93 --> 0:54:12,89
+And we don't need
+anything to do with you.
+
+
+1077
+0:54:12,89 --> 0:54:16,2
+And then now we see the flip
+side of that of actually
+
+
+1078
+0:54:16,2 --> 0:54:18,78
+what you do matters to us.
+
+
+1079
+0:54:18,78 --> 0:54:20,52
+You're still dysfunctional.
+
+
+1080
+0:54:20,52 --> 0:54:22,88
+But it matters to us.
+
+
+1081
+0:54:22,88 --> 0:54:28,68
+And in turn, you saw that
+approach from-- again,
+
+
+1082
+0:54:28,68 --> 0:54:34,24
+this is from the stovepiping--
+Individuals pursuing
+
+
+1083
+0:54:34,24 --> 0:54:42,6
+a certain political goal, and
+within just a limited circle,
+
+
+1084
+0:54:42,6 --> 0:54:45,71
+not understanding the ripple
+effects of what they were doing
+
+
+1085
+0:54:45,71 --> 0:54:48,33
+on lots of other
+areas including one
+
+
+1086
+0:54:48,33 --> 0:54:50,71
+of the cornerstones of
+American prosperity, which
+
+
+1087
+0:54:50,71 --> 0:54:53,24
+is our technology industry.
+
+
+1088
+0:54:53,24 --> 0:54:57,275
+So the problem is first
+knocking down that attitude
+
+
+1089
+0:54:57,275 --> 0:55:0,75
+that neither side
+matters to the other
+
+
+1090
+0:55:0,75 --> 0:55:2,56
+and doesn't need to
+understand the other.
+
+
+1091
+0:55:2,56 --> 0:55:8,44
+
+
+
+1092
+0:55:8,44 --> 0:55:10,87
+Too often, Silicon
+Valley-- and even sort
+
+
+1093
+0:55:10,87 --> 0:55:16,5
+of the reaction when I
+said this in the speech
+
+
+1094
+0:55:16,5 --> 0:55:19,16
+--will offer a seeming
+technologic solution
+
+
+1095
+0:55:19,16 --> 0:55:22,3
+to a problem.
+
+
+1096
+0:55:22,3 --> 0:55:25,17
+There's far more
+engineers out here
+
+
+1097
+0:55:25,17 --> 0:55:28,42
+than almost any other specialty.
+
+
+1098
+0:55:28,42 --> 0:55:29,5
+And so there's
+often-- you know, we
+
+
+1099
+0:55:29,5 --> 0:55:32,79
+can engineer our way out of
+it some way, shape, or form.
+
+
+1100
+0:55:32,79 --> 0:55:38,15
+And we even see that now in
+this discussion over privacy
+
+
+1101
+0:55:38,15 --> 0:55:41,26
+where it was OK, we can't
+figure out what to do.
+
+
+1102
+0:55:41,26 --> 0:55:47,77
+But Attorney General and Head
+of National Intelligence,
+
+
+1103
+0:55:47,77 --> 0:55:51,2
+you've got 60 days to
+figure out this solution.
+
+
+1104
+0:55:51,2 --> 0:55:52,53
+And we see different
+sort of things
+
+
+1105
+0:55:52,53 --> 0:55:56,8
+offered that are sort
+of a technical solution.
+
+
+1106
+0:55:56,8 --> 0:55:59,655
+It's not going to be
+a technical solution.
+
+
+1107
+0:55:59,655 --> 0:56:4,6
+It's going to be an awful,
+painful grind of policy
+
+
+1108
+0:56:4,6 --> 0:56:7,71
+and votes and court
+decisions and lobbying
+
+
+1109
+0:56:7,71 --> 0:56:9,22
+and all these other
+things that go
+
+
+1110
+0:56:9,22 --> 0:56:14,5
+into the nasty sausage
+of political process.
+
+
+1111
+0:56:14,5 --> 0:56:17,19
+But in turn, what I'm
+getting at, too often
+
+
+1112
+0:56:17,19 --> 0:56:20,81
+we fail to look at the human
+side of what can be done.
+
+
+1113
+0:56:20,81 --> 0:56:23,41
+And that would be
+another aspect of it.
+
+
+1114
+0:56:23,41 --> 0:56:26,67
+But the bottom
+line is we clearly
+
+
+1115
+0:56:26,67 --> 0:56:28,67
+have a shared stake in it.
+
+
+1116
+0:56:28,67 --> 0:56:33,14
+And I hope we can raise
+the level of discourse
+
+
+1117
+0:56:33,14 --> 0:56:35,93
+and raise the level
+of cooperation.
+
+
+1118
+0:56:35,93 --> 0:56:36,8
+AUDIENCE: Hi, Peter.
+
+
+1119
+0:56:36,8 --> 0:56:38,424
+Great to see the book
+finally come out.
+
+
+1120
+0:56:38,424 --> 0:56:41,655
+What are you optimistic about?
+
+
+1121
+0:56:41,655 --> 0:56:43,28
+PETER SINGER: I
+thought-- I mean, look,
+
+
+1122
+0:56:43,28 --> 0:56:50,16
+I'm actually hugely
+optimistic about-- I mean,
+
+
+1123
+0:56:50,16 --> 0:56:53,15
+the possibilities of this
+technology, what it's allowed
+
+
+1124
+0:56:53,15 --> 0:57:0,6
+to accomplish, and in turn
+the people who misuse it,
+
+
+1125
+0:57:0,6 --> 0:57:3,54
+and what they're
+costing themselves.
+
+
+1126
+0:57:3,54 --> 0:57:9,26
+And that misuse is
+everything from-- there's
+
+
+1127
+0:57:9,26 --> 0:57:13,9
+a very real danger of the
+balkanization of the internet.
+
+
+1128
+0:57:13,9 --> 0:57:18,83
+On the other hand, the cost
+of that to those nations,
+
+
+1129
+0:57:18,83 --> 0:57:21,65
+it will be staggering.
+
+
+1130
+0:57:21,65 --> 0:57:25,29
+A flip way of putting
+it is, there's
+
+
+1131
+0:57:25,29 --> 0:57:27,17
+one nation that has been
+really, really great
+
+
+1132
+0:57:27,17 --> 0:57:29,85
+cyber security
+protections-- North Korea.
+
+
+1133
+0:57:29,85 --> 0:57:31,18
+There's a cost to that.
+
+
+1134
+0:57:31,18 --> 0:57:34,3
+
+
+
+1135
+0:57:34,3 --> 0:57:37,99
+And we can see this in turn
+on the debate around the NSA
+
+
+1136
+0:57:37,99 --> 0:57:38,836
+to businesses.
+
+
+1137
+0:57:38,836 --> 0:57:41,46
+I gave all of these anecdotes of
+how they're not doing it well,
+
+
+1138
+0:57:41,46 --> 0:57:43,62
+but now they're
+facing cost to it.
+
+
+1139
+0:57:43,62 --> 0:57:47,3
+The recent examples of, be it
+Target or Snapchat or Neiman
+
+
+1140
+0:57:47,3 --> 0:57:50,1
+Marcus, is that there's
+an ebb and flow.
+
+
+1141
+0:57:50,1 --> 0:57:53,49
+And people that
+mishandle it face costs.
+
+
+1142
+0:57:53,49 --> 0:57:56,25
+And so to me, that's
+where we'll see reactions.
+
+
+1143
+0:57:56,25 --> 0:57:59,7
+The incentives will drive it.
+
+
+1144
+0:57:59,7 --> 0:58:1,55
+If there's any
+message from the book,
+
+
+1145
+0:58:1,55 --> 0:58:4,89
+it's that this is
+seemingly scary stuff.
+
+
+1146
+0:58:4,89 --> 0:58:6,72
+And some of it should be scary.
+
+
+1147
+0:58:6,72 --> 0:58:10,4
+But on the other hand, we
+can't have a good discussion
+
+
+1148
+0:58:10,4 --> 0:58:13,17
+if it's like Spinal Tap and
+the volume's always at 11.
+
+
+1149
+0:58:13,17 --> 0:58:16,1
+Which has been how
+we've talked about it.
+
+
+1150
+0:58:16,1 --> 0:58:18,0
+And so the goal of
+the book was basically
+
+
+1151
+0:58:18,0 --> 0:58:20,94
+to fill this kind of sweet
+spot where you either
+
+
+1152
+0:58:20,94 --> 0:58:23,49
+had this highly
+technical discussion that
+
+
+1153
+0:58:23,49 --> 0:58:27,84
+was exclusionary or you
+had the histrionic side.
+
+
+1154
+0:58:27,84 --> 0:58:30,42
+And instead, I think
+this can be a topic--
+
+
+1155
+0:58:30,42 --> 0:58:33,22
+I think it has to be a topic
+that we're all better equipped
+
+
+1156
+0:58:33,22 --> 0:58:33,92
+to talk about.
+
+
+1157
+0:58:33,92 --> 0:58:36,76
+And I'm optimistic that
+when we do understand this,
+
+
+1158
+0:58:36,76 --> 0:58:41,546
+we can go much further than
+where we're at right now.
+
+
+1159
+0:58:41,546 --> 0:58:43,93
+MALE SPEAKER: And on
+this optimistic note,
+
+
+1160
+0:58:43,93 --> 0:58:46,5
+please give a hand
+to Peter Singer.
+
+
+1161
+0:58:46,5 --> 0:60:46,5
+
+
+

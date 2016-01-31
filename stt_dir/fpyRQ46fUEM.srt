@@ -1,0 +1,489 @@
+1
+0:0:6,16 --> 0:0:10,5
+The rover has been investigating the YellowKnife
+bay area as part of an effort to pick the
+
+
+2
+0:0:10,5 --> 0:0:15,32
+exact location of our first drill activity
+on Mars.
+
+
+3
+0:0:15,32 --> 0:0:19,57
+The images being returned by Curiosity show
+a diverse collection of interesting features,
+
+
+4
+0:0:19,57 --> 0:0:26,5
+including sedimentary rocks, pebbles, cracks,
+nodules, and veins.
+
+
+5
+0:0:26,5 --> 0:0:30,199
+The vein features are seen as a bright white
+material, and we see them just about everywhere
+
+
+6
+0:0:30,199 --> 0:0:35,47
+we look in Yellowknife bay. The Chemcam instrument
+has found that these veins contain elevated
+
+
+7
+0:0:35,47 --> 0:0:41,719
+levels of calcium sulfate, likely in the form
+of bassanite or gypsum. Gypsum veins are also
+
+
+8
+0:0:41,719 --> 0:0:47,95
+seen here on Earth and associated with water
+percolating through cracks and fractured rocks.
+
+
+9
+0:0:47,95 --> 0:0:51,82
+The exciting news from all of this analysis
+is the candidate site where Curiosity will
+
+
+10
+0:0:51,82 --> 0:0:55,17
+conduct its first drilling activity.
+
+
+11
+0:0:55,17 --> 0:0:59,3
+This site is located only a few meters away
+from the rover's current location, and lies
+
+
+12
+0:0:59,3 --> 0:1:1,46
+in a flat area, suitable for drilling.
+
+
+13
+0:1:1,46 --> 0:1:5,46
+The team hopes to drill directly into one
+of the veins and place the powder into the
+
+
+14
+0:1:5,46 --> 0:1:9,75
+SAM and ChemMin analytical instruments. These
+instruments will give us detailed information
+
+
+15
+0:1:9,75 --> 0:1:12,209
+about the composition of the material. We'll
+be driving over there in the next few days.
+
+
+16
+0:1:12,209 --> 0:1:15,69
+We began our first drilling campaign at the
+site we named John Klein.
+
+
+17
+0:1:15,69 --> 0:1:19,2
+John Klein has an area that has a set of flat
+"plate-y" rocks that are perfect for the first
+
+
+18
+0:1:19,2 --> 0:1:20,38
+use of the drill.
+
+
+19
+0:1:20,38 --> 0:1:24,53
+We were able to place the arm safely and drill
+vertically down into the rock to collect as
+
+
+20
+0:1:24,53 --> 0:1:26,319
+much sample as possible.
+
+
+21
+0:1:26,319 --> 0:1:31,69
+We started by making a very small divot to
+test the hammering mechanism in the drill.
+
+
+22
+0:1:31,69 --> 0:1:35,6
+This worked perfectly, so we proceeded on
+to make a mini hole.
+
+
+23
+0:1:35,6 --> 0:1:37,91
+Our mini drill test drilled 2 centimeters
+down into the rock
+
+
+24
+0:1:37,91 --> 0:1:41,78
+We compared the tailings created by the mini
+drill to the extensive set of test rocks that
+
+
+25
+0:1:41,78 --> 0:1:46,229
+we drilled here on Earth here at JPL and determine
+that what we see on Mars are safe to ingest
+
+
+26
+0:1:46,229 --> 0:1:47,289
+in the system.
+
+
+27
+0:1:47,289 --> 0:1:50,149
+After these preparations we were all very
+excited to move on to ready to move on to
+
+
+28
+0:1:50,149 --> 0:1:51,479
+the big event.
+
+
+29
+0:1:51,479 --> 0:1:53,95
+We drilled 6-and-a-half centimeters down into
+the rock.
+
+
+30
+0:1:53,95 --> 0:1:56,75
+We used the camera at the end of the arm to
+take pictures.
+
+
+31
+0:1:56,75 --> 0:2:0,569
+Here we see two holes, first on the right
+is the mini drill hole and in the center of
+
+
+32
+0:2:0,569 --> 0:2:2,149
+the picture, we have the full hole.
+
+
+33
+0:2:2,149 --> 0:2:5,42
+The gray tailing tells us that there's something
+different about the inside of this rock than
+
+
+34
+0:2:5,42 --> 0:2:6,97
+the surface of the rock.
+
+
+35
+0:2:6,97 --> 0:2:10,539
+In the coming weeks, one of the things we're
+trying to do with this first hole is to use
+
+
+36
+0:2:10,539 --> 0:2:14,35
+this gray powder that we collect to clean
+the internal surfaces of the drill.
+
+
+37
+0:2:14,35 --> 0:2:17,59
+We do that by moving the arm and swishing
+the powder around.
+
+
+38
+0:2:17,59 --> 0:2:21,42
+This was a great week for Curiosity. We got
+to see something we've all been waiting for
+
+
+39
+0:2:21,42 --> 0:2:26,49
+quite some time: sample in the scoop confirming
+that our first drill on Mars collected as
+
+
+40
+0:2:26,49 --> 0:2:27,9
+we had expected.
+
+
+41
+0:2:27,9 --> 0:2:31,18
+This was an important event as this is the
+first time the drill has been used on Mars
+
+
+42
+0:2:31,18 --> 0:2:34,74
+to collect sample for analysis by instruments
+on the rover.
+
+
+43
+0:2:34,74 --> 0:2:41,88
+We use these computer-generated images to
+help us visually identify how much we've collected.
+
+
+44
+0:2:41,88 --> 0:2:47,21
+We were able to estimate that we collected
+about 14 cubic centimeters of sample, or about
+
+
+45
+0:2:47,21 --> 0:2:51,63
+a tablespoon, and this matched our expectations
+of what we would see in the scoop when we
+
+
+46
+0:2:51,63 --> 0:2:53,2
+got to this point.
+
+
+47
+0:2:53,2 --> 0:2:57,64
+Our drilling capability gives us the ability
+to get inside this rock. The first thing you
+
+
+48
+0:2:57,64 --> 0:3:2,21
+notice about the material is that it's a different
+color. Gray not the reddish orange color on
+
+
+49
+0:3:2,21 --> 0:3:7,2
+the surface all around us. That reddish orange
+color is a sign of an iron oxidation. A kind
+
+
+50
+0:3:7,2 --> 0:3:10,4
+of rusting process that's occurred all around
+on Mars.
+
+
+51
+0:3:10,4 --> 0:3:14,72
+The next steps for the team are to finish
+processing the sample with Chimera and then
+
+
+52
+0:3:14,72 --> 0:3:20,22
+put small portions into the SAM and Chemin
+instruments for analysis of chemistry and
+
+
+53
+0:3:20,22 --> 0:3:21,38
+mineralogy.
+
+
+54
+0:3:21,38 --> 0:3:26,12
+This week the Curiosity science team released
+its initial findings from its first ever drilled
+
+
+55
+0:3:26,12 --> 0:3:30,87
+sample on Mars. This sample was collected
+from the "John Klein" drill site, which is
+
+
+56
+0:3:30,87 --> 0:3:35,569
+located about 500 meters east of where we
+landed about 7 months ago.
+
+
+57
+0:3:35,569 --> 0:3:41,1
+Curiosity obtained her first drill sample
+and passed that sample on to her onboard analytical
+
+
+58
+0:3:41,1 --> 0:3:46,0
+lab instruments, called CheMin and SAM. These
+powerful instruments tell us about what minerals
+
+
+59
+0:3:46,0 --> 0:3:50,44
+are present in these rocks and whether they
+contain the ingredients necessary to sustain
+
+
+60
+0:3:50,44 --> 0:3:52,19
+life as we know it.
+
+
+61
+0:3:52,19 --> 0:3:57,39
+What the Curiosity team has found is incredibly
+exciting. When we combine what we have learned
+
+
+62
+0:3:57,39 --> 0:4:1,98
+from our remote sensing and contact science
+instruments with the data that's coming in
+
+
+63
+0:4:1,98 --> 0:4:7,28
+from CheMin and SAM, we get a picture of an
+ancient watery environment, which would have
+
+
+64
+0:4:7,28 --> 0:4:10,39
+been habitable had life been present in it.
+
+
+65
+0:4:10,39 --> 0:4:13,94
+As an example, the information that we're
+getting from the CheMin instrument, tells
+
+
+66
+0:4:13,94 --> 0:4:18,709
+us that the minerals that are present in this
+lakebed sedimentary rock at John Klein are
+
+
+67
+0:4:18,709 --> 0:4:23,52
+very different from just about anything we've
+ever analyzed before on Mars. And they tell
+
+
+68
+0:4:23,52 --> 0:4:28,34
+us that the John Klein rock was deposited
+in a fresh water environment.
+
+
+69
+0:4:28,34 --> 0:4:33,1
+This is an important contrast with other sedimentary
+environments that we've visited on Mars, like
+
+
+70
+0:4:33,1 --> 0:4:37,4
+the Meridiani Planum landing site where the
+Mars Exploration Rover, Opportunity, has been
+
+
+71
+0:4:37,4 --> 0:4:38,9
+operating since 2004.
+
+
+72
+0:4:38,9 --> 0:4:44,27
+At that site, the sedimentary rocks record
+evidence of an environment that was only wet
+
+
+73
+0:4:44,27 --> 0:4:49,15
+on a very intermittent basis, and when it
+was, the waters that were there were highly
+
+
+74
+0:4:49,15 --> 0:4:54,66
+acidic, very salty, and not favorable for
+the survival of organic compounds.
+
+
+75
+0:4:54,66 --> 0:4:58,5
+This is in direct contrast to the fresh water
+environment we're seeing here at the John
+
+
+76
+0:4:58,5 --> 0:4:59,43
+Klein Site.
+
+
+77
+0:4:59,43 --> 0:5:3,32
+The SAM instrument is telling us that these
+rocks contained all of the ingredients necessary
+
+
+78
+0:5:3,32 --> 0:5:8,84
+for a habitable environment. We found carbon,
+sulfur and oxygen, all present and a number
+
+
+79
+0:5:8,84 --> 0:5:11,52
+of other elements in states that life could
+have taken advantage of.
+
+
+80
+0:5:11,52 --> 0:5:15,53
+All in all, these few tablespoons of powder
+from a Martian rock have provided the Curiosity
+
+
+81
+0:5:15,53 --> 0:5:20,31
+science team with an exciting new dataset
+that tells us that Gale Crater, and perhaps
+
+
+82
+0:5:20,31 --> 0:5:25,3
+all of Mars, contained habitable environments.
+This is an incredible success for the Curiosity
+
+
+83
+0:5:25,3 --> 0:5:29,59
+mission to Gale, and the science team is looking
+forward to digging deeper into Mars' ancient
+
+
+84
+0:5:29,59 --> 0:7:29,59
+watery past in the weeks, months, and years
+ahead.
+
+

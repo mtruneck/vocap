@@ -1,0 +1,20 @@
+1
+0:0:7,0 --> 0:0:12,0
+4,300 Guests live in 5-star luxury
+
+
+2
+0:0:12,0 --> 0:0:17,0
+They can shop in a 130 meter long mall
+
+
+3
+0:0:17,0 --> 0:0:19,0
+Ride a surf simulator
+
+
+4
+0:0:19,0 --> 0:2:19,0
+And enjoy a show in a 1,000 seat theatre
+
+

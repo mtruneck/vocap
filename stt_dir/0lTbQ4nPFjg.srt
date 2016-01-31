@@ -1,0 +1,938 @@
+1
+0:0:5,8 --> 0:0:22,0
+All across the immense reaches of time and
+space, energy is being exchanged, transferred,
+
+
+2
+0:0:22,0 --> 0:0:35,69
+released, in a great cosmic pinball game we
+call our universe.
+
+
+3
+0:0:35,69 --> 0:0:43,519
+To see how energy stitches the cosmos together,
+and how we fit within it, we now journey through
+
+
+4
+0:0:43,519 --> 0:0:57,11
+the cosmic power scales of the universe, from
+atoms nearly frozen to stillness.
+
+
+5
+0:0:57,11 --> 0:1:12,73
+To Earths largest explosions. From stars colliding,
+exploding, to distant centers of power so
+
+
+6
+0:1:12,73 --> 0:1:38,35
+strange, and violent, they challenge our imaginations.
+Today, energy is very much on our minds, as
+
+
+7
+0:1:38,35 --> 0:1:43,73
+we search for ways to power our civilization
+and serve the needs of our citizens.
+
+
+8
+0:1:43,73 --> 0:1:54,159
+But what is energy? Where does it come from?
+And where do we stand within the great power
+
+
+9
+0:1:54,159 --> 0:1:56,78
+streams that shape time and space?
+
+
+10
+0:1:56,78 --> 0:2:7,1
+Energy comes from a Greek word for activity
+or working. In physics, it is simply the property
+
+
+11
+0:2:7,1 --> 0:2:18,23
+or the state of anything in our universe that
+allows it to do work. Whether it is thermal,
+
+
+12
+0:2:18,23 --> 0:2:34,83
+kinetic, electro-magnetic, chemical, or gravitational.
+
+
+13
+0:2:34,83 --> 0:2:40,5
+The 19th century German scientist Hermann
+von Helmholtz found that all forms of energy
+
+
+14
+0:2:40,5 --> 0:2:49,63
+are equivalent, that one form can be transformed
+into any other. The laws of physics say that
+
+
+15
+0:2:49,63 --> 0:2:57,43
+in a closed system - such as our universe
+ - energy is conserved. It may be converted,
+
+
+16
+0:2:57,43 --> 0:3:6,58
+concentrated, or dissipated, but it is never
+lost.
+
+
+17
+0:3:6,58 --> 0:3:12,72
+James Prescott Joule built an apparatus that
+demonstrated this principle. It had a weight
+
+
+18
+0:3:12,72 --> 0:3:18,38
+that descended into water and caused a paddle
+to rotate. He showed that the gravitational
+
+
+19
+0:3:18,38 --> 0:3:23,86
+energy lost by the weight is equivalent to
+heat gained by the water from friction with
+
+
+20
+0:3:23,86 --> 0:3:24,33
+the paddle.
+
+
+21
+0:3:24,33 --> 0:3:32,739
+That led to one of several basic energy yardsticks,
+called a joule. Its the amount needed to lift
+
+
+22
+0:3:32,739 --> 0:3:39,68
+an apple weighing 100 grams one meter against
+the pull of Earth's gravity.
+
+
+23
+0:3:39,68 --> 0:3:46,34
+In case you were wondering, it takes about
+one hundred joules to send a tweet, so tweeted
+
+
+24
+0:3:46,34 --> 0:3:50,849
+a tech from Twitter.
+
+
+25
+0:3:50,849 --> 0:3:55,849
+The metabolism of an average sized person,
+going about their day, generates about 100
+
+
+26
+0:3:55,849 --> 0:4:5,92
+joules a second, or 100 watts, the equivalent
+of a 100-watt light bulb. In vigorous exercise,
+
+
+27
+0:4:5,92 --> 0:4:12,349
+the power output of the body goes up by a
+factor of ten, one order of magnitude, to
+
+
+28
+0:4:12,349 --> 0:4:19,39
+around a thousand joules per second, or a
+thousand watts.
+
+
+29
+0:4:19,39 --> 0:4:25,689
+In a series of leaps, by additional factors
+of ten, we can explore the full energy spectrum
+
+
+30
+0:4:25,689 --> 0:4:34,52
+of the universe. So far, the coldest place
+observed in nature is the Boomerang Nebula.
+
+
+31
+0:4:34,52 --> 0:4:41,659
+Here, a dying star ejected its outer layers
+into space at 600,000 kilometers per hour.
+
+
+32
+0:4:41,659 --> 0:4:47,229
+As the expanding clouds of gas became more
+diffuse, they cooled so dramatically that
+
+
+33
+0:4:47,229 --> 0:4:52,36
+their molecules fell to just one degree above
+Absolute Zero, one degree above the total
+
+
+34
+0:4:52,36 --> 0:4:59,68
+absence of heat. That is around a billion
+trillionths of a joule, give or take.
+
+
+35
+0:4:59,68 --> 0:5:5,349
+That makes the signal sent by the Galileo
+spacecraft, as it flew around Jupiter, seem
+
+
+36
+0:5:5,349 --> 0:5:12,999
+positively hot. By the time it reached Earth,
+its radio signal was down to 10 billion billionths
+
+
+37
+0:5:12,999 --> 0:5:18,83
+of a watt. Now jump all the way to 150 billionths
+of a watt.
+
+
+38
+0:5:18,83 --> 0:5:25,719
+That is the amount of power entering the human
+eye from a pair of 50-watt car headlamps a
+
+
+39
+0:5:25,719 --> 0:5:34,789
+kilometer away. Moving up a full seven powers
+of ten, moonlight striking a human face adds
+
+
+40
+0:5:34,789 --> 0:5:40,4
+up to three hundred thousandths of a watt.
+That is roughly equivalent to a crickets chirp.
+
+
+41
+0:5:40,4 --> 0:5:49,9
+From there, it's a mere five powers of ten
+to the low wattage world of everyday human
+
+
+42
+0:5:49,9 --> 0:5:51,52
+technologies.
+
+
+43
+0:5:51,52 --> 0:6:0,58
+Put ten 100-watt bulbs together. At 1000 joules
+per second, 1000 watts, that roughly equals
+
+
+44
+0:6:0,58 --> 0:6:7,379
+the energy of sunlight striking a square meter
+of Earth's surface at noon on a clear day.
+
+
+45
+0:6:7,379 --> 0:6:16,399
+Gather 200 bulbs. 20,000 watts is the energy
+output of an automobile. A diesel locomotive:
+
+
+46
+0:6:16,399 --> 0:6:27,39
+5 million watts. An advanced jet fighter:
+75 million watts. An aircraft carrier: almost
+
+
+47
+0:6:27,39 --> 0:6:30,169
+two hundred million watts.
+
+
+48
+0:6:30,169 --> 0:6:36,149
+The most powerful human technologies today
+function in the range of a billion to 10 billion
+
+
+49
+0:6:36,149 --> 0:6:48,229
+watts, including large hydro-electric or nuclear
+power plants. At the upper end of human technologies,
+
+
+50
+0:6:48,229 --> 0:6:56,8
+was the awesome first stage of a Saturn V
+rocket. In five separate engines, it consumed
+
+
+51
+0:6:56,8 --> 0:7:3,389
+15 tons of fuel per second to generate 190
+billion watts of power.
+
+
+52
+0:7:3,389 --> 0:7:18,29
+How much power can humanity marshal? And how
+much do we need?
+
+
+53
+0:7:18,29 --> 0:7:24,529
+Long before the launch of the space age, visionaries
+began to imagine what it would take to advance
+
+
+54
+0:7:24,529 --> 0:7:32,389
+into the community of galactic civilizations.
+In the 1960s, the Soviet scientist, Nicolai
+
+
+55
+0:7:32,389 --> 0:7:39,509
+Kardashev, speculated that a Level 1 civilization
+would acquire the technology needed to harness
+
+
+56
+0:7:39,509 --> 0:7:43,789
+all the power available on a planet like Earth.
+
+
+57
+0:7:43,789 --> 0:7:51,129
+According to one calculation, we are .16%
+of the way there. This is based on British
+
+
+58
+0:7:51,129 --> 0:8:2,419
+Petroleum's estimate of total world oil consumption,
+some 11 billion tons in 2007. Humans today
+
+
+59
+0:8:2,419 --> 0:8:7,39
+generate about two and a half trillion watts
+of electrical power.
+
+
+60
+0:8:7,39 --> 0:8:16,8
+How does that stack up to the power generated
+by planet Earth? Deep inside our planet, the
+
+
+61
+0:8:16,8 --> 0:8:23,29
+radioactive decay of elements such as uranium
+and thorium generates 44 trillion watts of
+
+
+62
+0:8:23,29 --> 0:8:30,889
+power. As this heat rises to the surface,
+it drives the movement of Earths crustal plates,
+
+
+63
+0:8:30,889 --> 0:8:34,29
+and powers volcanoes.
+
+
+64
+0:8:34,29 --> 0:8:39,75
+Remarkably, that is just a fraction of the
+energy released by a large hurricane in the
+
+
+65
+0:8:39,75 --> 0:8:51,3
+form of rain. At the storms peak, it can rise
+to 600 trillion watts. A hurricane draws upon
+
+
+66
+0:8:51,3 --> 0:8:54,24
+solar heat collected in tropical oceans in
+the summer.
+
+
+67
+0:8:54,24 --> 0:9:1,58
+You have to jump another power of ten to reach
+the estimated total heat flowing through Earths
+
+
+68
+0:9:1,58 --> 0:9:8,46
+atmosphere and oceans from the equator to
+the poles, and another two to get the power
+
+
+69
+0:9:8,46 --> 0:9:14,84
+received by the Earth from the sun, at 174
+quadrillion watts.
+
+
+70
+0:9:14,84 --> 0:9:26,59
+Believe it or not, there's one human technology
+that has exceeded this level. The AN602 hydrogen
+
+
+71
+0:9:26,59 --> 0:9:36,81
+bomb was detonated by the Soviet Union on
+October 30, 1961. It unleashed some 1400 times
+
+
+72
+0:9:36,81 --> 0:9:42,9
+the combined power of the Nagasaki and Hiroshima
+bombs.
+
+
+73
+0:9:42,9 --> 0:9:50,86
+With a blast yield of up to 57 million tons
+of TNT, it generated 5.3 trillion trillion
+
+
+74
+0:9:50,86 --> 0:10:0,25
+watts, if only for a tiny fraction of a second.
+That's 5.3 Yottawatts, a term that will come
+
+
+75
+0:10:0,25 --> 0:10:8,89
+in handy as we now begin to ascend the power
+scales of the universe.
+
+
+76
+0:10:8,89 --> 0:10:15,49
+To Nikolai Kardashev, a Level 2 civilization
+would achieve a constant energy output 80
+
+
+77
+0:10:15,49 --> 0:10:22,53
+times higher than the Russian superbomb. That
+is equivalent to the total luminosity of our
+
+
+78
+0:10:22,53 --> 0:10:29,41
+sun, a medium-sized star that emits 375 yottawatts.
+
+
+79
+0:10:29,41 --> 0:10:35,82
+However, in the grand scheme of things, our
+sun is but a cold spark in a hot universe.
+
+
+80
+0:10:35,82 --> 0:10:45,72
+Look up into Southern skies and you'll see
+the Large Magellanic Cloud, a satellite galaxy
+
+
+81
+0:10:45,72 --> 0:10:55,25
+of our Milky Way. Deep within is the brightest
+star yet discovered. R136a1 is 10 million
+
+
+82
+0:10:55,25 --> 0:10:56,9
+times brighter than the sun.
+
+
+83
+0:10:56,9 --> 0:11:8,26
+Now if that star happened to go supernova,
+at its peak, it would blast out photons with
+
+
+84
+0:11:8,26 --> 0:11:16,95
+a luminosity of around 500 billion yottawatts.
+To advance to a level three civilization,
+
+
+85
+0:11:16,95 --> 0:11:23,26
+you have to marshal the power of an entire
+galaxy.
+
+
+86
+0:11:23,26 --> 0:11:30,32
+The Milky Way, with about two hundred billion
+stars, has an estimated total luminosity of
+
+
+87
+0:11:30,32 --> 0:11:41,3
+3 trillion yottawatts, a three followed by
+36 zeros. The author Isaac Asimov imagined
+
+
+88
+0:11:41,3 --> 0:11:49,44
+a galaxy-scale civilization in his Foundation
+series. Galaxia, he called it, is a super-organism
+
+
+89
+0:11:49,44 --> 0:11:55,18
+that surpasses time and space to draw upon
+all the matter and energy in a galaxy.
+
+
+90
+0:11:55,18 --> 0:12:5,44
+But who is to say that is the upper limit
+for civilizations? To boldly go beyond Level
+
+
+91
+0:12:5,44 --> 0:12:15,63
+3, a civilization would need to marshal the
+power of a quasar. A quasar is about a thousand
+
+
+92
+0:12:15,63 --> 0:12:17,54
+times brighter than our galaxy.
+
+
+93
+0:12:17,54 --> 0:12:24,97
+Here is where cosmic power production enters
+a whole new realm, based on the physics of
+
+
+94
+0:12:24,97 --> 0:12:30,1
+extreme gravity.
+
+
+95
+0:12:30,1 --> 0:12:36,42
+It was Isaac Newton who first defined gravity
+as the force that pulls the apple down, and
+
+
+96
+0:12:36,42 --> 0:12:44,95
+holds the earth in orbit around the sun. Albert
+Einstein redefined it in his famous General
+
+
+97
+0:12:44,95 --> 0:12:51,36
+Theory of Relativity. Gravity isn not simply
+the attraction of objects like stars and planets,
+
+
+98
+0:12:51,36 --> 0:12:59,88
+he said, but a distortion of space and time,
+what he called space-time.
+
+
+99
+0:12:59,88 --> 0:13:5,72
+If space-time is like a fabric, he said, gravity
+is the warping of this fabric by a massive
+
+
+100
+0:13:5,72 --> 0:13:13,27
+object like a star. A planet orbits a star
+when it is caught in this warped space, like
+
+
+101
+0:13:13,27 --> 0:13:21,2
+a ball spinning around a roulette wheel. Some
+scientists began to wonder if matter became
+
+
+102
+0:13:21,2 --> 0:13:27,28
+dense enough, could it warp space to such
+an extreme that nothing could escape its gravity,
+
+
+103
+0:13:27,28 --> 0:13:28,24
+not even light?
+
+
+104
+0:13:28,24 --> 0:13:35,91
+With so much power being emitted from such
+a small area, scientists suspected that quasars
+
+
+105
+0:13:35,91 --> 0:13:42,85
+were actually being powered by black holes.
+How a totally dark object can do this has
+
+
+106
+0:13:42,85 --> 0:13:46,6
+been narrowed by decades of observations and
+theory.
+
+
+107
+0:13:46,6 --> 0:13:56,87
+If a black hole spins, it can turn into a
+violent, cosmic tornado. Gas and stars begin
+
+
+108
+0:13:56,87 --> 0:14:3,18
+to flow in along a rapidly rotating disk.
+The spinning motion of this so-called "accretion
+
+
+109
+0:14:3,18 --> 0:14:8,76
+disk" generates magnetic fields that twist
+up and around.
+
+
+110
+0:14:8,76 --> 0:14:14,41
+These fields can channel some of the inflowing
+matter out into a pair of high-energy beams,
+
+
+111
+0:14:14,41 --> 0:14:21,88
+or jets. Gas and dust nearby catch the brunt
+of this energy, growing hot and bright enough
+
+
+112
+0:14:21,88 --> 0:14:24,42
+to be seen billions of light years away.
+
+
+113
+0:14:24,42 --> 0:14:41,5
+Amazingly, the power of a black hole can rise
+to even greater extremes at the moment of
+
+
+114
+0:14:41,5 --> 0:14:59,56
+its birth. As a giant star ages, heavy elements
+like iron gradually build up in its core.
+
+
+115
+0:14:59,56 --> 0:15:5,43
+As its gravity grows more intense, the star
+begins to shrink, until it reaches a critical
+
+
+116
+0:15:5,43 --> 0:15:14,35
+threshold. Its core literally collapses in
+on itself.
+
+
+117
+0:15:14,35 --> 0:15:30,29
+That causes the star to explode, in a supernova.
+And now, in death, the star can unleash gravitys
+
+
+118
+0:15:30,29 --> 0:15:35,97
+true fury.
+
+
+119
+0:15:35,97 --> 0:15:41,44
+In the violence of the star's death, gravity
+can cause its massive core to collapse to
+
+
+120
+0:15:41,44 --> 0:15:43,86
+a point, forming a black hole.
+
+
+121
+0:15:43,86 --> 0:15:52,12
+In some rare cases, the new-born monster powers
+a jet that accelerates to within a tiny fraction
+
+
+122
+0:15:52,12 --> 0:16:1,17
+of the speed of light. For a few minutes,
+these so-called gamma ray bursts are known
+
+
+123
+0:16:1,17 --> 0:16:8,6
+to be the brightest events since the big bang,
+three orders of magnitude above a quasar at
+
+
+124
+0:16:8,6 --> 0:16:16,67
+a billion billion yottawatts, a ten with 42
+zeros.
+
+
+125
+0:16:16,67 --> 0:16:25,51
+Remarkably, they are still not the most powerful
+events known. Albert Einstein's equations
+
+
+126
+0:16:25,51 --> 0:16:32,15
+contained an astonishing prediction, that
+when massive bodies accelerate or whip around
+
+
+127
+0:16:32,15 --> 0:16:36,23
+each other, they can stir up the normally
+smooth fabric of space-time.
+
+
+128
+0:16:36,23 --> 0:16:49,18
+They produce a series of waves that move outward
+like ripples on a pond. Scientists are now
+
+
+129
+0:16:49,18 --> 0:16:55,9
+hoping to detect these gravitational waves,
+and verify Einsteins prediction, using precision
+
+
+130
+0:16:55,9 --> 0:17:2,49
+lasers and some of the most perfect large-scale
+vacuums ever created.
+
+
+131
+0:17:2,49 --> 0:17:8,72
+At the Laser Interferometry Gravitational
+Wave Observatory, known as LIGO, they are
+
+
+132
+0:17:8,72 --> 0:17:16,209
+hoping to record the collision of ultra-dense
+remnants of dead stars known as neutron stars
+
+
+133
+0:17:16,209 --> 0:17:19,419
+and of black holes.
+
+
+134
+0:17:19,419 --> 0:17:25,779
+According to computer simulations, as two
+black holes spiral into a fateful embrace,
+
+
+135
+0:17:25,779 --> 0:17:32,44
+the energy carried by each gravity wave rises
+five orders of magnitude above a gamma ray
+
+
+136
+0:17:32,44 --> 0:17:43,379
+burst to a hundred billion trillion times
+the power of our sun.
+
+
+137
+0:17:43,379 --> 0:17:53,169
+Does the collision of black holes define the
+known power limits of our universe? Perhaps
+
+
+138
+0:17:53,169 --> 0:17:56,8
+not.
+
+
+139
+0:17:56,8 --> 0:18:1,6
+As turbulent as the environment of a black
+hole might be, its true power may well lie
+
+
+140
+0:18:1,6 --> 0:18:12,129
+deep in its core. A black holes mass is enshrouded
+within a dark sphere called the event horizon.
+
+
+141
+0:18:12,129 --> 0:18:18,24
+Since the 1920s, scientists have described
+the mathematics of the event horizon as the
+
+
+142
+0:18:18,24 --> 0:18:25,649
+equivalent of a waterfall. It's the point
+of no return, beyond which water falls freely
+
+
+143
+0:18:25,649 --> 0:18:31,869
+into the gorge.
+
+
+144
+0:18:31,869 --> 0:18:39,369
+At the event horizon of a black hole, space
+itself falls freely in at the speed of light.
+
+
+145
+0:18:39,369 --> 0:18:44,86
+If the black hole is spinning, then the flow
+spirals down and around an inner horizon that
+
+
+146
+0:18:44,86 --> 0:18:53,869
+envelops the singularity. That's the central
+region where space-time becomes infinitely
+
+
+147
+0:18:53,869 --> 0:18:56,19
+warped.
+
+
+148
+0:18:56,19 --> 0:19:3,82
+Any matter that rides this river of space
+whips around the inner horizon so fast that
+
+
+149
+0:19:3,82 --> 0:19:10,46
+centrifugal force tends to fling it back out.
+As that happens, it collides with matter that's
+
+
+150
+0:19:10,46 --> 0:19:13,98
+streaming in, whipping up a ferocious cosmic
+storm.
+
+
+151
+0:19:13,98 --> 0:19:27,499
+The energy of the colliding streams feeds
+upon itself, rising to what may well be a
+
+
+152
+0:19:27,499 --> 0:19:40,39
+limit imposed by nature. It dissipates only
+as it falls into the singularity and disappears.
+
+
+153
+0:19:40,39 --> 0:19:46,799
+Fortunately, for us, gravity walls off such
+energy extremes behind the event horizon where
+
+
+154
+0:19:46,799 --> 0:19:56,84
+they cannot affect the rest of the universe.
+
+
+155
+0:19:56,84 --> 0:20:5,49
+And so here we sit. Our world is nestled within
+a vast stream of cosmic energy, somewhere
+
+
+156
+0:20:5,49 --> 0:20:12,95
+between the spin of an electron and the maelstrom
+of a black hole.
+
+
+157
+0:20:12,95 --> 0:20:18,36
+There's no telling whether a future Earth
+civilization will be able harness enough energy
+
+
+158
+0:20:18,36 --> 0:20:21,739
+to advance into the cosmos.
+
+
+159
+0:20:21,739 --> 0:20:28,299
+For now, as we tap into the tiny morsels of
+power at our disposal, we venture a closer
+
+
+160
+0:20:28,299 --> 0:22:28,299
+look at a universe blazing with activity.
+We are its product, and its star struck admirer.
+
+

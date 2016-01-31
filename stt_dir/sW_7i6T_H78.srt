@@ -1,0 +1,734 @@
+1
+0:0:8,619 --> 0:0:11,749
+This is a story about a world of obsessed with stuff.
+
+
+2
+0:0:11,749 --> 0:0:16,529
+It's a story about a system in crisis.
+We're trashing the planet,
+
+
+3
+0:0:16,529 --> 0:0:19,999
+we're trashing each other, 
+and we're not even having fun.
+
+
+4
+0:0:19,999 --> 0:0:22,8
+the good thing is that when we
+start to understand the system
+
+
+5
+0:0:22,8 --> 0:0:37,26
+we start to see lots of places to step
+in and turn these problems into solutions
+
+
+6
+0:0:37,26 --> 0:0:39,62
+The other day, I couldn’t find my computer charger. 
+
+
+7
+0:0:39,62 --> 0:0:43,52
+My computer is my lifeline 
+to my work, my friends, my music.
+
+
+8
+0:0:43,52 --> 0:0:44,82
+So I looked everywhere, 
+
+
+9
+0:0:44,82 --> 0:0:46,429
+even in that drawer where this lives. 
+
+
+10
+0:0:46,429 --> 0:0:49,15
+I know you have one too, a tangle of old chargers, 
+
+
+11
+0:0:49,15 --> 0:0:52,34
+the sad remains of electronics past. 
+
+
+12
+0:0:52,34 --> 0:0:54,28
+How did I end up with so many of these things? 
+
+
+13
+0:0:54,28 --> 0:0:56,75
+It’s not like I’m always after the latest gadget. 
+
+
+14
+0:0:56,75 --> 0:1:0,5
+My old devices broke or became so 
+obsolete I couldn’t use them anymore. 
+
+
+15
+0:1:0,5 --> 0:1:4,12
+And not one of these old chargers fits my computer.
+
+
+16
+0:1:4,12 --> 0:1:5,81
+Augh. This isn’t just bad luck.
+
+
+17
+0:1:5,81 --> 0:1:7,179
+It’s bad design. 
+
+
+18
+0:1:7,179 --> 0:1:11,0
+I call it “designed for the dump.” 
+
+
+19
+0:1:11,0 --> 0:1:12,62
+“Designed for the dump” sounds crazy, right? 
+
+
+20
+0:1:12,62 --> 0:1:16,9
+But when you’re trying to sell lots of stuff, 
+it makes perfect sense. 
+
+
+21
+0:1:16,9 --> 0:1:16,89
+It’s a key strategy 
+
+
+22
+0:1:16,89 --> 0:1:19,53
+of the companies that make our electronics. 
+
+
+23
+0:1:19,53 --> 0:1:24,65
+In fact it’s a key part of our whole 
+unsustainable materials economy. 
+
+
+24
+0:1:24,65 --> 0:1:27,72
+Designed for the dump means 
+making stuff to be thrown away quickly.
+
+
+25
+0:1:27,72 --> 0:1:32,4
+Today’s electronics are hard to upgrade, 
+easy to break, and impractical to repair. 
+
+
+26
+0:1:32,4 --> 0:1:35,65
+My DVD player broke and I took it to a shop to get fixed.
+
+
+27
+0:1:35,65 --> 0:1:38,289
+The repair guy wanted $50 just to look at it!
+
+
+28
+0:1:38,289 --> 0:1:42,42
+A new one at Target costs $39.
+
+
+29
+0:1:42,42 --> 0:1:47,61
+In the 1960s, Gordon Moore, 
+the giant brain and semiconductor pioneer, 
+
+
+30
+0:1:47,61 --> 0:1:49,96
+predicted that electronics designers could double
+
+
+31
+0:1:49,96 --> 0:1:51,89
+processor speed every 18 months.
+
+
+32
+0:1:51,89 --> 0:1:53,799
+So far he’s been right.
+
+
+33
+0:1:53,799 --> 0:1:55,7
+This is called Moore’s Law.
+
+
+34
+0:1:55,7 --> 0:1:59,82
+But somehow the bosses of these 
+genius designers got it all twisted up. 
+
+
+35
+0:1:59,82 --> 0:2:4,35
+They seem to think Moore’s Law means every 
+18 months we have to throw out our old electronics
+
+
+36
+0:2:4,35 --> 0:2:11,659
+and buy more. 
+ 
+0:02:06.900,0:02:07.289
+Problem is,
+ 
+0:02:07.289,0:02:11.659
+the 18 months that we use these things 
+are just a blip in their entire lifecycle.
+
+
+37
+0:2:11,659 --> 0:2:15,4
+And that’s where these dump designers 
+aren’t just causing a pain in our wallets.
+
+
+38
+0:2:15,4 --> 0:2:18,629
+They’re creating a global toxic emergency! 
+
+
+39
+0:2:18,629 --> 0:2:21,909
+See, electronics start where most stuff starts,
+in mines and factories. 
+
+
+40
+0:2:21,909 --> 0:2:25,61
+Many of our gadgets are made from 
+more than 1,000 different materials, 
+
+
+41
+0:2:25,61 --> 0:2:30,769
+shipped from around the world to assembly plants. 
+There, workers turn them into products, 
+
+
+42
+0:2:30,769 --> 0:2:36,639
+using loads of toxic chemicals, like PVC, 
+mercury, solvents and flame retardants. 
+
+
+43
+0:2:36,639 --> 0:2:40,7
+Today this usually happens in far 
+off places that are hard to monitor. 
+
+
+44
+0:2:40,7 --> 0:2:42,71
+But it used to happen near my home, in Silicon Valley,
+
+
+45
+0:2:42,71 --> 0:2:46,56
+which thanks to the electronics industry 
+is one of the most poisoned communities
+
+
+46
+0:2:46,56 --> 0:2:47,929
+in the U.S.
+
+
+47
+0:2:47,929 --> 0:2:52,72
+IBM’s own data revealed that its workers making 
+computer chips had 40% more miscarriages 
+
+
+48
+0:2:52,72 --> 0:2:57,229
+and were significantly more likely to die from blood, 
+brain and kidney cancer.
+
+
+49
+0:2:57,229 --> 0:3:0,49
+The same thing is starting to happen all around the world.
+
+
+50
+0:3:0,49 --> 0:3:5,169
+Turns out the high tech industry 
+isn’t as clean as its image.
+
+
+51
+0:3:5,169 --> 0:3:8,48
+So, after its toxic trip around the globe, 
+the gadget lands in my hands.
+
+
+52
+0:3:8,48 --> 0:3:12,87
+I love it for a year or so and 
+then it starts drifting further 
+
+
+53
+0:3:12,87 --> 0:3:14,339
+from its place of honor on my desk or in my pocket. 
+
+
+54
+0:3:14,339 --> 0:3:17,36
+Maybe it spends a little time in my garage 
+
+
+55
+0:3:17,36 --> 0:3:18,29
+before being tossed out.
+
+
+56
+0:3:18,29 --> 0:3:20,209
+And that brings us to disposal, 
+
+
+57
+0:3:20,209 --> 0:3:22,659
+which we think of as the end of its life.
+
+
+58
+0:3:22,659 --> 0:3:27,469
+But really it’s just moved on to become part 
+of the mountains of e-waste we make every year. 
+
+
+59
+0:3:27,469 --> 0:3:32,769
+Remember how these devices were packed with toxic chemicals? 
+Well there’s a simple rule of production: 
+
+
+60
+0:3:32,769 --> 0:3:34,959
+toxics in, toxics out. 
+
+
+61
+0:3:34,959 --> 0:3:39,599
+Computers, cell phones, TVs, all this stuff, 
+is just waiting to release all their toxics 
+
+
+62
+0:3:39,599 --> 0:3:40,829
+when we throw them away. 
+
+
+63
+0:3:40,829 --> 0:3:44,559
+Some of them are slowly releasing this 
+stuff even while we’re using them. 
+
+
+64
+0:3:44,559 --> 0:3:49,129
+You know those fat, old TVs that people are 
+chucking for high-def flat screens? 
+
+
+65
+0:3:49,129 --> 0:3:55,39
+They each have about 5 pounds of lead in them. 
+Lead! As in lead poisoning! 
+
+
+66
+0:3:55,39 --> 0:3:59,889
+So almost all this e-waste either goes from my garage 
+to a landfill or it gets shipped overseas to the garage 
+
+
+67
+0:3:59,889 --> 0:4:3,629
+workshop of some guy in Guiyu, China 
+whose job it is to recycle it. 
+
+
+68
+0:4:3,629 --> 0:4:7,309
+I’ve visited a bunch of these 
+so-called recycling operations.
+
+
+69
+0:4:7,309 --> 0:4:11,849
+Workers, without protective gear, sit on the ground, 
+smashing open electronics to recover the valuable 
+
+
+70
+0:4:11,849 --> 0:4:15,939
+metals inside and chucking or burning 
+the parts no one will pay them for. 
+
+
+71
+0:4:15,939 --> 0:4:17,81
+So while I’m on to my next gadget, 
+
+
+72
+0:4:17,81 --> 0:4:19,229
+my last gadget is off 
+
+
+73
+0:4:19,229 --> 0:4:22,529
+poisoning families in Guiyu or India or Nigeria. 
+
+
+74
+0:4:22,529 --> 0:4:25,25
+Each year we make 25 million tonnes of e-waste 
+
+
+75
+0:4:25,25 --> 0:4:28,9
+which gets dumped, burned or recycled. 
+
+
+76
+0:4:28,9 --> 0:4:31,159
+And that recycling is anything but green. 
+
+
+77
+0:4:31,159 --> 0:4:36,94
+So are the geniuses who design these electronics actually...
+evil geniuses? I don’t think so, 
+
+
+78
+0:4:36,94 --> 0:4:41,52
+because the problems they’re creating
+are well hidden even from them. 
+
+
+79
+0:4:41,52 --> 0:4:42,78
+You see, the companies they work
+
+
+80
+0:4:42,78 --> 0:4:46,819
+for keep these human and environmental costs 
+out of sight and off their accounting books. 
+
+
+81
+0:4:46,819 --> 0:4:50,71
+It’s all about externalizing the true costs of production. 
+
+
+82
+0:4:50,71 --> 0:4:55,86
+Instead of companies paying to make their facilities 
+safe the workers pay with their health. 
+
+
+83
+0:4:55,86 --> 0:5:2,39
+Instead of them paying to redesign using less toxics 
+villagers pay by losing their clean drinking water. 
+
+
+84
+0:5:2,39 --> 0:5:5,509
+Externalizing costs allows companies to keep 
+designing for the dump – 
+
+
+85
+0:5:5,509 --> 0:5:8,379
+they get the profits and everyone else pays. 
+
+
+86
+0:5:8,379 --> 0:5:12,3
+When we go along with it, it’s like 
+we’re looking at this toxic mess and saying to companies 
+
+
+87
+0:5:12,3 --> 0:5:14,26
+“you made it, but we’ll deal with it.” 
+
+
+88
+0:5:14,26 --> 0:5:18,259
+I’ve got a better idea. How about 
+“you made it, you deal with it”? 
+
+
+89
+0:5:18,259 --> 0:5:20,599
+Doesn’t that make more sense? 
+
+
+90
+0:5:20,599 --> 0:5:24,989
+Imagine that instead of all this toxic e-waste piling up 
+
+
+91
+0:5:24,989 --> 0:5:26,439
+in our garages and the streets of Guiyu, 
+
+
+92
+0:5:26,439 --> 0:5:29,62
+we sent it to the garages of the CEOs who made it. 
+
+
+93
+0:5:29,62 --> 0:5:33,65
+You can bet that they’d be on the phone 
+to their designers demanding they 
+
+
+94
+0:5:33,65 --> 0:5:35,499
+stop designing for the dump. 
+
+
+95
+0:5:35,499 --> 0:5:40,21
+Making companies deal with their e-waste is called 
+Extended Producer Responsibility 
+
+
+96
+0:5:40,21 --> 0:5:42,159
+or Product Takeback. 
+
+
+97
+0:5:42,159 --> 0:5:44,449
+If all these old gadgets were their problem, 
+
+
+98
+0:5:44,449 --> 0:5:48,46
+it would be cheaper for them to just design 
+longer lasting, less toxic, 
+
+
+99
+0:5:48,46 --> 0:5:50,39
+and more recyclable products in the first place. 
+
+
+100
+0:5:50,39 --> 0:5:54,129
+They could even make them modular, 
+so that when one part broke, 
+
+
+101
+0:5:54,129 --> 0:5:59,409
+they could just send us a new piece, 
+instead of taking back the whole broken mess.
+
+
+102
+0:5:59,409 --> 0:6:2,65
+Already takeback laws are popping 
+up all over Europe and Asia.
+
+
+103
+0:6:2,65 --> 0:6:6,11
+In the U.S. many cities and states 
+are passing similar laws –
+
+
+104
+0:6:6,11 --> 0:6:9,9
+these need to be protected and strengthened. 
+
+
+105
+0:6:9,9 --> 0:6:11,289
+It’s time to get these brainiacs working on our side. 
+
+
+106
+0:6:11,289 --> 0:6:14,71
+With takeback laws and citizen action 
+to demand greener products, 
+
+
+107
+0:6:14,71 --> 0:6:19,539
+we are starting a race to the top, 
+where designers compete to make long-lasting, 
+
+
+108
+0:6:19,539 --> 0:6:21,719
+toxic-free products. 
+
+
+109
+0:6:21,719 --> 0:6:23,37
+So, let’s have a green Moore’s law. 
+
+
+110
+0:6:23,37 --> 0:6:24,4
+How about: 
+
+
+111
+0:6:24,4 --> 0:6:27,379
+the use of toxic chemicals will be 
+cut in half every 18 months? 
+
+
+112
+0:6:27,379 --> 0:6:31,209
+The number of workers poisoned will 
+decline at an even faster rate? 
+
+
+113
+0:6:31,209 --> 0:6:35,18
+We need to give these designers a challenge 
+they can rise to and do what they do best – 
+
+
+114
+0:6:35,18 --> 0:6:36,469
+innovate. 
+
+
+115
+0:6:36,469 --> 0:6:39,81
+Already, some of them are realizing 
+they’re too smart to be dump designers 
+
+
+116
+0:6:39,81 --> 0:6:44,369
+and are figuring out how to make computers 
+without PVC or toxic flame retardants. 
+
+
+117
+0:6:44,369 --> 0:6:45,659
+Good job guys. 
+
+
+118
+0:6:45,659 --> 0:6:47,509
+But we can do even more. 
+
+
+119
+0:6:47,509 --> 0:6:49,53
+When we take our e-waste to recyclers, 
+
+
+120
+0:6:49,53 --> 0:6:52,669
+we can make sure they don’t 
+export it to developing countries. 
+
+
+121
+0:6:52,669 --> 0:6:56,71
+And when we do need to buy new gadgets, 
+we can choose greener products. 
+
+
+122
+0:6:56,71 --> 0:7:0,509
+But the truth is: 
+we are never going to just shop our way out of this problem 
+
+
+123
+0:7:0,509 --> 0:7:4,6
+because the choices available to us at the store 
+are limited by choices of designers 
+
+
+124
+0:7:4,6 --> 0:7:9,32
+and policymakers outside of the store. 
+That’s why we need to join with others to demand 
+
+
+125
+0:7:9,32 --> 0:7:13,419
+stronger laws on toxic chemicals 
+and on banning e-waste exports. 
+
+
+126
+0:7:13,419 --> 0:7:17,219
+There are billions of people out there who want 
+access to the incredible web of information 
+
+
+127
+0:7:17,219 --> 0:7:19,61
+and entertainment electronics offer. 
+
+
+128
+0:7:19,61 --> 0:7:21,469
+But it’s the access they want, 
+
+
+129
+0:7:21,469 --> 0:7:23,479
+not all that toxic garbage. 
+
+
+130
+0:7:23,479 --> 0:7:27,699
+So let’s get our brains working on 
+sending that old design for the
+
+
+131
+0:7:27,699 --> 0:7:29,449
+dump mentality to the dump where it belongs and instead 
+
+
+132
+0:7:29,449 --> 0:9:29,449
+building an electronics industry 
+and a global society that’s designed to last. 
+
+

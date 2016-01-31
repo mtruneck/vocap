@@ -1,0 +1,1182 @@
+1
+0:0:7,44 --> 0:0:7,53
+Parachute has deployed.
+
+
+2
+0:0:7,53 --> 0:0:7,63
+We are decelerating.
+
+
+3
+0:0:7,63 --> 0:0:9,55
+Heat shield has separated; we are locked on
+the ground.
+
+
+4
+0:0:9,55 --> 0:0:33,559
+We're down to 90 meters per second at an altitude
+of 6.5 kilometers and descending.
+
+
+5
+0:0:33,559 --> 0:0:34,67
+Standing by for back shell separation.
+
+
+6
+0:0:34,67 --> 0:0:35,539
+We are in powered flight.
+
+
+7
+0:0:35,539 --> 0:0:39,289
+We are at altitude of1 kilometer and descending.
+
+
+8
+0:0:39,289 --> 0:0:52,239
+Standing by for sky crane.
+
+
+9
+0:0:52,239 --> 0:1:2,6
+Sky crane has started.
+
+
+10
+0:1:2,6 --> 0:1:18,14
+Touchdown confirmed! We're safe on Mars!
+
+
+11
+0:1:18,14 --> 0:1:23,32
+Cheering, applause
+
+
+12
+0:1:23,32 --> 0:1:28,47
+We had a major success when we deployed the
+arm for the first time on Mars.
+
+
+13
+0:1:28,47 --> 0:1:33,7
+This is critical to ensuring that we can get
+sample into our instruments and use the arm
+
+
+14
+0:1:33,7 --> 0:1:36,13
+for its scientific purposes.
+
+
+15
+0:1:36,13 --> 0:1:40,66
+The ChemCam unit, or chemistry and camera
+instrument, fired the laser for the first
+
+
+16
+0:1:40,66 --> 0:1:45,95
+time on Mars, using the beam from the science
+instrument to interrogate a fist-sized rock
+
+
+17
+0:1:45,95 --> 0:1:47,5
+called coronation.
+
+
+18
+0:1:47,5 --> 0:1:53,4
+Before we could drive curiosity, we wanted
+to wiggle our toes a bit and test the steering
+
+
+19
+0:1:53,4 --> 0:1:53,46
+actuators.
+
+
+20
+0:1:53,46 --> 0:1:56,57
+This is the first time we moved the wheels
+on Mars.
+
+
+21
+0:1:56,57 --> 0:1:59,99
+We hit a major milestone on Mars.
+
+
+22
+0:1:59,99 --> 0:2:4,82
+We completed our first drive of the curiosity
+rover.
+
+
+23
+0:2:4,82 --> 0:2:9,75
+We drove approximately 3 meters forward and
+performed 2 60-degree rotations in a clockwise
+
+
+24
+0:2:9,75 --> 0:2:12,92
+direction with imaging in between.
+
+
+25
+0:2:12,92 --> 0:2:17,5
+We then drove backwards just under 3 meters
+in order to test the wheels in the opposite
+
+
+26
+0:2:17,5 --> 0:2:18,4
+direction.
+
+
+27
+0:2:18,4 --> 0:2:24,12
+This put us in a great configuration to make
+observations of the scours left by the descent
+
+
+28
+0:2:24,12 --> 0:2:30,48
+stage engines.
+
+
+29
+0:2:30,48 --> 0:2:39,7
+We’ve got a very interesting science experiment
+coming up here on Mars.
+
+
+30
+0:2:39,7 --> 0:2:45,3
+We are turning on the sample analysis at Mars
+instrument for the first time to do an atmospheric
+
+
+31
+0:2:45,3 --> 0:2:46,69
+experiment.
+
+
+32
+0:2:46,69 --> 0:2:50,92
+This is where we let in atmosphere into the
+instrument and perform various science experiments
+
+
+33
+0:2:50,92 --> 0:2:53,88
+that determine the composition of the atmosphere.
+
+
+34
+0:2:53,88 --> 0:2:56,45
+This is the first time that this is happening.
+
+
+35
+0:2:56,45 --> 0:3:1,319
+Within days, we will start our journey to
+our first chosen destination on Mars, Glenelg.
+
+
+36
+0:3:1,319 --> 0:3:5,68
+We hope to obtain our first drilled rock sample
+on Mars at this location.
+
+
+37
+0:3:5,68 --> 0:3:9,79
+The team named the landing site this week
+after the famous science fiction author, Ray
+
+
+38
+0:3:9,79 --> 0:3:22,34
+Bradbury, on his birthday, august 22nd, and
+he would have been 92.
+
+
+39
+0:3:22,34 --> 0:3:25,88
+Curiosity is still is heading to Glenelg.
+We've just stopped at the Bathurst rock formation
+
+
+40
+0:3:25,88 --> 0:3:30,9
+to check it out with the robotic arm mounted
+instruments: a hand lens imager and a spectrometer.
+
+
+41
+0:3:30,9 --> 0:3:34,59
+Got some great science data there for the
+science team and now we're moving to a new
+
+
+42
+0:3:34,59 --> 0:3:38,77
+rover location called Rocknest. And we've
+come to Rocknest because it has nice windblown
+
+
+43
+0:3:38,77 --> 0:3:39,76
+sand drifts.
+
+
+44
+0:3:39,76 --> 0:3:46,66
+At the Rocknest location we really are entering
+a new phase in Mars exploration with Curiosity.
+
+
+45
+0:3:46,66 --> 0:3:50,3
+We're starting the surface sampling part of
+the mission. The reason this is a one-ton
+
+
+46
+0:3:50,3 --> 0:3:56,77
+rover with a 200-pound robotic arm, is because
+we have these tools to acquire bits of Mars,
+
+
+47
+0:3:56,77 --> 0:4:2,16
+you know, either with a scoop or with a drill;
+process those samples for our very sensitive
+
+
+48
+0:4:2,16 --> 0:4:3,75
+analytical lab instruments.
+
+
+49
+0:4:3,75 --> 0:4:9,4
+So our scoop - this is not a giant backhoe
+on Mars - we basically have more like an oversized
+
+
+50
+0:4:9,4 --> 0:4:14,879
+tablespoon attached to the end of the arm
+and we grab on the order of 20 grams of material
+
+
+51
+0:4:14,879 --> 0:4:22,79
+and we position the arm over the soil target
+and then we just actuate the scoop, do a little
+
+
+52
+0:4:22,79 --> 0:4:27,3
+bit of vibration to kind of level out the
+sample and then raise the arm up, close the
+
+
+53
+0:4:27,3 --> 0:4:34,69
+scoop and carry on with our sampling activity.
+
+
+54
+0:4:34,69 --> 0:4:39,35
+When we first arrived at Rocknest, we performed
+a wheel scuff maneuver. This is our rover's
+
+
+55
+0:4:39,35 --> 0:4:43,53
+version of kicking up the dirt with your hiking
+boot to determine if the Rocknest area was
+
+
+56
+0:4:43,53 --> 0:4:45,82
+indeed a good first scoop target.
+
+
+57
+0:4:45,82 --> 0:4:50,87
+The first scoop was successfully performed
+on Sol 61 and the entire team was excited
+
+
+58
+0:4:50,87 --> 0:4:55,94
+to see the MastCam images showing the scoop
+full of dirt, as well as the video of the
+
+
+59
+0:4:55,94 --> 0:5:1,94
+vibration activities performed with the turret-mounted
+tools. This vibration allows the team to level
+
+
+60
+0:5:1,94 --> 0:5:7,31
+out and remove any excess sample before closing
+the scoop, and it also provides some insight
+
+
+61
+0:5:7,31 --> 0:5:9,34
+into the makeup of the soil.
+
+
+62
+0:5:9,34 --> 0:5:13,75
+Any large particles would tend to float up
+to the top as the entire sample is vibrated,
+
+
+63
+0:5:13,75 --> 0:5:19,3
+much the same way you would shake out the
+marshmallows in your box of Lucky Charms.
+
+
+64
+0:5:19,3 --> 0:5:23,19
+Curiosity processed the scoop sample through
+CHIMRA, our labyrinth of passageways at the
+
+
+65
+0:5:23,19 --> 0:5:28,69
+end of the arm that we use to sieve and portion
+the soil sample. We did some internal sandblasting
+
+
+66
+0:5:28,69 --> 0:5:33,62
+by vibrating the sample at different orientations
+on the turret in order to remove any internal
+
+
+67
+0:5:33,62 --> 0:5:34,41
+contamination.
+
+
+68
+0:5:34,41 --> 0:5:39,71
+A soil sample was dropped off to the rover’s
+observation tray for assessment by the science
+
+
+69
+0:5:39,71 --> 0:5:45,729
+team. This sample was determined to be suitable
+for drop off to the CheMin instrument.
+
+
+70
+0:5:45,729 --> 0:5:51,4
+The CheMin instrument uses X-rays in order
+to image the sample and determine what minerals
+
+
+71
+0:5:51,4 --> 0:5:56,169
+make it up. This helps geologists understand
+how the rock formed and how it's related to
+
+
+72
+0:5:56,169 --> 0:5:59,72
+other rocks we've studied so far on Mars.
+
+
+73
+0:5:59,72 --> 0:6:4,87
+Scientists identified numerous bright grains
+in the soil. Because of the small piece of
+
+
+74
+0:6:4,87 --> 0:6:9,58
+plastic from the landing event that had been
+found earlier in the week, the team proceeded
+
+
+75
+0:6:9,58 --> 0:6:14,34
+cautiously, dumping the second scoop collected
+and imaging the bright grains.
+
+
+76
+0:6:14,34 --> 0:6:18,82
+These bright grains were later determined
+to be components of the Martian soil, and
+
+
+77
+0:6:18,82 --> 0:6:23,889
+therefore, the sample was deemed to be suitable
+for delivery to the CheMin instrument for
+
+
+78
+0:6:23,889 --> 0:6:24,65
+analysis.
+
+
+79
+0:6:24,65 --> 0:6:30,8
+The science team requested MastCam and NavCam
+mosaics of the outcrops in the direction of
+
+
+80
+0:6:30,8 --> 0:6:34,139
+Glenelg, to plan Curiosity's journey to this
+next science destination.
+
+
+81
+0:6:34,139 --> 0:6:37,86
+In its spare time, Curiosity has also been
+making measurements with other instruments,
+
+
+82
+0:6:37,86 --> 0:6:40,35
+including the ChemCam instrument, which is
+what I work on.
+
+
+83
+0:6:40,35 --> 0:6:44,71
+ChemCam is actually two instruments in one.
+It includes a camera with a telephoto lens
+
+
+84
+0:6:44,71 --> 0:6:49,79
+and it also has a laser that vaporizes a very
+small amount of rock so we can tell what its
+
+
+85
+0:6:49,79 --> 0:6:56,889
+chemical composition is.
+
+
+86
+0:6:56,889 --> 0:7:1,56
+We've been analyzing rocks in an area called
+Rocknest, and I'll tell you in particular
+
+
+87
+0:7:1,56 --> 0:7:6,61
+about one called Zephyr. This one is interesting
+because it appears to be made of 2 different
+
+
+88
+0:7:6,61 --> 0:7:7,55
+types of materials.
+
+
+89
+0:7:7,55 --> 0:7:12,419
+It's got this harder, more resistant material
+on the top, capping it, and then beneath it
+
+
+90
+0:7:12,419 --> 0:7:17,21
+has a lighter colored softer material that
+appears to erode more easily. It's actually
+
+
+91
+0:7:17,21 --> 0:7:21,75
+eroded into a set of natural arches, so some
+of our team members have taken to calling
+
+
+92
+0:7:21,75 --> 0:7:24,33
+it "Stonehenge."
+
+
+93
+0:7:24,33 --> 0:7:29,71
+This feature is really only an inch long.
+We're shooting this from about 8 feet away,
+
+
+94
+0:7:29,71 --> 0:7:31,24
+making the pointing very difficult.
+
+
+95
+0:7:31,24 --> 0:7:35,77
+So that's why we decided to do 9 points instead
+of just 2, just to make sure we would hit
+
+
+96
+0:7:35,77 --> 0:7:37,639
+the material of interest.
+
+
+97
+0:7:37,639 --> 0:7:41,36
+Coming up, we'll be able to use this information
+that we've learned from ChemCam in order to
+
+
+98
+0:7:41,36 --> 0:7:45,57
+decide which targets we should hit next with
+other instruments.
+
+
+99
+0:7:45,57 --> 0:7:50,789
+CheMin performs what we call X-ray diffraction
+measurements on powdered rocks and soil samples.
+
+
+100
+0:7:50,789 --> 0:7:55,139
+An X-ray diffraction is the best method for
+telling us what minerals are present in a
+
+
+101
+0:7:55,139 --> 0:8:0,0
+rock or soil because it is sensitive to the
+arrangements of atoms in minerals. As the
+
+
+102
+0:8:0,0 --> 0:8:4,81
+X-rays strike the soil sample, CheMin shows
+us how mineral crystals distinctively interact
+
+
+103
+0:8:4,81 --> 0:8:10,2
+with X-rays, and this image shows our first
+X-ray diffraction results. The diffraction
+
+
+104
+0:8:10,2 --> 0:8:14,96
+signals appear on the detector as rings that
+represent the fingerprint of the individual
+
+
+105
+0:8:14,96 --> 0:8:18,759
+minerals. The rings tell us not only what
+minerals are present in the soil but also
+
+
+106
+0:8:18,759 --> 0:8:20,71
+how abundant they are.
+
+
+107
+0:8:20,71 --> 0:8:25,43
+The CheMin data provide us with distinctive
+signatures of the minerals: plagioclase feldspar,
+
+
+108
+0:8:25,43 --> 0:8:30,639
+pyroxenes, and olivines. Peridot is a variety
+of olivine; just keep in mind that the olivine
+
+
+109
+0:8:30,639 --> 0:8:35,389
+in the soil sample is much smaller than these
+crystals. Roughly half of the soil consists
+
+
+110
+0:8:35,389 --> 0:8:40,38
+of poorly crystalline material, such as volcanic
+glass. Thus, this Martian soil appears very
+
+
+111
+0:8:40,38 --> 0:8:44,709
+similar to some weathered basaltic soils that
+we see on Earth, in places like the flanks
+
+
+112
+0:8:44,709 --> 0:8:46,7
+of Mauna Kea, Hawaii.
+
+
+113
+0:8:46,7 --> 0:8:50,83
+You can appreciate how revolutionary CheMin
+is when you consider that instruments of this
+
+
+114
+0:8:50,83 --> 0:8:55,52
+type on Earth are typically about the size
+of a doublewide refrigerator and the CheMin
+
+
+115
+0:8:55,52 --> 0:9:0,5
+instrument on the Mars Science Laboratory
+is about the size of a shoebox. CheMin has
+
+
+116
+0:9:0,5 --> 0:9:4,47
+been modified for use on Earth in places such
+as Antarctica and the Arctic.
+
+
+117
+0:9:4,47 --> 0:9:9,6
+It's also been applied for the detection of
+counterfeit pharmaceuticals around the worlds
+
+
+118
+0:9:9,6 --> 0:9:14,55
+and a modification of the instrument has been
+used in archeological studies to help us understand
+
+
+119
+0:9:14,55 --> 0:9:17,8
+the nature of the surfaces and how we might
+protect them.
+
+
+120
+0:9:17,8 --> 0:9:21,42
+In the coming weeks and months, we're excited
+to measure more X-ray diffraction data on
+
+
+121
+0:9:21,42 --> 0:9:25,67
+soils and rocks to tell us much more about
+the geology of Gale Crater.
+
+
+122
+0:9:25,67 --> 0:9:31,86
+While our robotic explorer has been busy characterizing
+the surface of Mars, the SAM team has also
+
+
+123
+0:9:31,86 --> 0:9:36,18
+been busy, but we've been looking at something
+invisible, the Martian atmosphere.
+
+
+124
+0:9:36,18 --> 0:9:43,22
+SAM, or Sample Analysis at Mars, is not one
+instrument, but three, all of which are designed
+
+
+125
+0:9:43,22 --> 0:9:49,5
+to work together to chemically characterize
+Mars. SAM measures chemical elements and molecules,
+
+
+126
+0:9:49,5 --> 0:9:58,2
+in a mass or size range between 2 and 535
+mass units and we do this by looking at gases.
+
+
+127
+0:9:58,2 --> 0:10:3,56
+We can bake solid samples until they give
+up their volatile components or their gases
+
+
+128
+0:10:3,56 --> 0:10:8,61
+or we can directly inhale the Martian atmosphere
+through our inlet ports.
+
+
+129
+0:10:8,61 --> 0:10:14,54
+With our QMS, SAM is able to detect the most
+dominant gas in the Martian atmosphere, carbon
+
+
+130
+0:10:14,54 --> 0:10:19,75
+dioxide. We've not only measured its abundance
+and the ratio to other gases in the Martian
+
+
+131
+0:10:19,75 --> 0:10:26,45
+atmosphere but we've also measured its isotopic
+character. The other instruments are a tunable
+
+
+132
+0:10:26,45 --> 0:10:32,49
+laser spectrometer and a gas chromatograph,
+the latter being used mostly to look for organic
+
+
+133
+0:10:32,49 --> 0:10:34,2
+molecules in solids.
+
+
+134
+0:10:34,2 --> 0:10:40,5
+Now, the tunable laser spectrometer has a
+special role for SAM in that it can very sensitively
+
+
+135
+0:10:40,5 --> 0:10:47,11
+detect the organic molecule, methane, which
+has been observed from the Earth telescopically
+
+
+136
+0:10:47,11 --> 0:10:54,64
+and also by the Mars Express orbiter at very,
+very low limits in the Martian atmosphere.
+
+
+137
+0:10:54,64 --> 0:10:59,61
+We're trying to discover whether or not we
+can see this molecule from the Martian surface
+
+
+138
+0:10:59,61 --> 0:11:6,149
+and if it has any variation from season to
+season. In the coming months, wherever Curiosity
+
+
+139
+0:11:6,149 --> 0:11:12,2
+goes, SAM will continue to sniff the Martian
+atmosphere, periodically looking for changes
+
+
+140
+0:11:12,2 --> 0:11:16,75
+on a seasonal or maybe even diurnal basis
+and that will tell us something about the
+
+
+141
+0:11:16,75 --> 0:11:21,269
+dynamics of the exchange between the surface
+and the atmosphere.
+
+
+142
+0:11:21,269 --> 0:11:26,36
+A lot of what this mission is about is figuring
+out the possibility that ancient Mars was
+
+
+143
+0:11:26,36 --> 0:11:30,81
+a habitable environment. But we're also studying
+the present environment. Two instruments that
+
+
+144
+0:11:30,81 --> 0:11:34,89
+help with that are the RAD instrument and
+the REMS instrument.
+
+
+145
+0:11:34,89 --> 0:11:39,19
+The RAD instrument is a radiation assessment
+detector. It measures the high-energy radiation
+
+
+146
+0:11:39,19 --> 0:11:45,149
+coming up from the cosmic rays and the sun.
+That radiation is changed as it goes through
+
+
+147
+0:11:45,149 --> 0:11:48,73
+Mars' atmosphere to where we detect it on
+the surface.
+
+
+148
+0:11:48,73 --> 0:11:52,38
+These measurements are helping to understand
+what the environment is like on the surface
+
+
+149
+0:11:52,38 --> 0:11:58,16
+so that future astronauts will know how to
+protect themselves from this radiation.
+
+
+150
+0:11:58,16 --> 0:12:2,47
+Another instrument that Curiosity has that
+measures the modern environment is called
+
+
+151
+0:12:2,47 --> 0:12:7,22
+the rover environmental monitoring station.
+It's basically our weather station. We measure
+
+
+152
+0:12:7,22 --> 0:12:11,98
+a lot of things including pressure and humidity,
+temperature and wind.
+
+
+153
+0:12:11,98 --> 0:12:17,149
+It's been seeing little dips in pressure around
+noon that seemed like the signature of dust
+
+
+154
+0:12:17,149 --> 0:12:21,51
+devils. Only thing is our pictures haven't
+turned up any dust devils.
+
+
+155
+0:12:21,51 --> 0:12:25,72
+Spirit and Opportunity saw lots of dust devils
+moving across the horizon. Our best guess
+
+
+156
+0:12:25,72 --> 0:12:30,709
+at what's going on is that Curiosity is seeing
+dust devils go right over it.
+
+
+157
+0:12:30,709 --> 0:12:35,43
+So what we think is happening is the same
+sorts of vortexes, driven by convection are
+
+
+158
+0:12:35,43 --> 0:12:40,89
+occurring on Mars at the Curiosity's site
+but just not picking up dust.
+
+
+159
+0:12:40,89 --> 0:12:43,62
+Another thing that REMS has been measuring
+is winds. Turns out we're in a pretty interesting
+
+
+160
+0:12:43,62 --> 0:12:48,39
+place inside of Gale Crater. We're right at
+the base of a 5-kilometer high mountain to
+
+
+161
+0:12:48,39 --> 0:12:52,279
+the south of us and then there's a pretty
+tall crater rim to the north of us and we're
+
+
+162
+0:12:52,279 --> 0:12:55,329
+sitting in kind of a flat depression between
+the two.
+
+
+163
+0:12:55,329 --> 0:12:59,61
+The winds blow up and down the mountain as
+the temperature changes during the day and
+
+
+164
+0:12:59,61 --> 0:13:4,399
+up and down the crater slopes and then along
+the depression where we're at. So right now
+
+
+165
+0:13:4,399 --> 0:13:8,14
+we're trying to figure out from the REMS data
+exactly which parts of that wind field we're
+
+
+166
+0:13:8,14 --> 0:13:12,38
+measuring.
+
+
+167
+0:13:12,38 --> 0:13:16,279
+After several weeks of being stationary at
+the Rocknest site, we began driving again
+
+
+168
+0:13:16,279 --> 0:13:17,97
+on Saw 100.
+
+
+169
+0:13:17,97 --> 0:13:22,42
+This marked a significant milestone on the
+mission as we reached about a half-kilometer
+
+
+170
+0:13:22,42 --> 0:13:25,32
+of total driving distance on the surface of
+Mars.
+
+
+171
+0:13:25,32 --> 0:13:29,86
+The left front wheel is sitting on a rock
+that we’ve dubbed “Bell Island”.
+
+
+172
+0:13:29,86 --> 0:13:35,209
+We plan to back up off that rock to bring
+the rock into the arm’s workspace and we’re
+
+
+173
+0:13:35,209 --> 0:13:40,3
+going to do some contact science on it with
+APXS and MAHLI.
+
+
+174
+0:13:40,3 --> 0:13:43,91
+After completing our science campaign at our
+current location, we’re going to be moving
+
+
+175
+0:13:43,91 --> 0:13:45,99
+to the east to a place called Point Lake.
+
+
+176
+0:13:45,99 --> 0:13:51,18
+From here, we’re going to be looking for
+a target to perform our first ever drill on
+
+
+177
+0:13:51,18 --> 0:13:52,68
+Mars.
+
+
+178
+0:13:52,68 --> 0:13:56,95
+We've wrapped up our scientific study of Rocknest,
+which also means that we've completed the
+
+
+179
+0:13:56,95 --> 0:14:2,24
+checkout and first scientific use of all our
+instruments on the rover and it truly is working
+
+
+180
+0:14:2,24 --> 0:14:2,98
+great.
+
+
+181
+0:14:2,98 --> 0:14:7,11
+We began the Rocknest campaign by searching
+for a suitable drift of sandy soil using our
+
+
+182
+0:14:7,11 --> 0:14:12,639
+MastCam color cameras. We used out ChemCam
+laser and our APXS chemical sensor to do an
+
+
+183
+0:14:12,639 --> 0:14:17,67
+initial chemical analysis of the soil, determining
+whether it was similar to soils that we understand
+
+
+184
+0:14:17,67 --> 0:14:23,12
+from Spirit and Opportunity and therefore
+safe for scooping and sending to our laboratories.
+
+
+185
+0:14:23,12 --> 0:14:27,61
+We use MAHLI, our hand lens imager to take
+close up views of the soil to look at different
+
+
+186
+0:14:27,61 --> 0:14:32,94
+particle sizes, shapes and colors and how
+they change with depth.
+
+
+187
+0:14:32,94 --> 0:14:36,68
+We then scooped up the soil and analyzed it
+with our X-ray diffraction instrument that
+
+
+188
+0:14:36,68 --> 0:14:41,17
+can identify minerals in the soil based on
+their unique crystal structure. But it turned
+
+
+189
+0:14:41,17 --> 0:14:44,649
+out that a good amount of the material in
+the soil was not crystalline but that's no
+
+
+190
+0:14:44,649 --> 0:14:47,69
+problem for our other laboratory, SAM.
+
+
+191
+0:14:47,69 --> 0:14:52,139
+SAM heated up the soil in an oven, measured
+various gases released as the soil components
+
+
+192
+0:14:52,139 --> 0:14:56,67
+broke down, such as water, carbon dioxide,
+oxygen and sulfur.
+
+
+193
+0:14:56,67 --> 0:15:1,88
+Not surprisingly, the results show a composition
+that is typical of Mars soils studied at other
+
+
+194
+0:15:1,88 --> 0:15:7,839
+sites with perhaps some very simple carbon
+containing molecules and perchlorate salts.
+
+
+195
+0:15:7,839 --> 0:15:13,2
+We haven't yet seen any complex organic molecules
+but sand isn't the best place to look.
+
+
+196
+0:15:13,2 --> 0:15:17,35
+Finally, it's worth remembering that the big
+questions in science, whether Copernicus finding
+
+
+197
+0:15:17,35 --> 0:15:22,43
+that the Earth goes around the sun or Darwin
+showing that natural selection drives biological
+
+
+198
+0:15:22,43 --> 0:15:27,839
+evolution, were answered only after many measurements
+were taken compared against one another and
+
+
+199
+0:15:27,839 --> 0:15:33,1
+hypotheses were proposed and tested against
+data. Only then can the big picture emerge
+
+
+200
+0:15:33,1 --> 0:15:35,23
+and the theory get accepted.
+
+
+201
+0:15:35,23 --> 0:15:38,92
+It'll be no different for Curiosity in its
+mission to understand the habitability of
+
+
+202
+0:15:38,92 --> 0:15:43,6
+ancient Mars at Gale Crater. There won't be
+any single image or measurement that'll answer
+
+
+203
+0:15:43,6 --> 0:15:48,949
+everything. We're in it for the long haul.
+But now we know that we have a fantastic rover,
+
+
+204
+0:15:48,949 --> 0:17:48,949
+a great set of tools, and a fully functional
+scientific payload, so let's get on exploring.
+
+

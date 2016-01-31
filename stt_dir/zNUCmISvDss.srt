@@ -1,0 +1,7033 @@
+1
+0:0:0,0 --> 0:0:0,5
+
+
+
+2
+0:0:0,5 --> 0:0:2,7
+MIKKEL RASMUSSEN: Hi, my
+name is Mikkel Rasmussen
+
+
+3
+0:0:2,7 --> 0:0:6,2
+and this is my partner,
+Christian Madsbjerg.
+
+
+4
+0:0:6,2 --> 0:0:8,62
+And tomorrow we are
+launching a book
+
+
+5
+0:0:8,62 --> 0:0:10,414
+called "The Moment of Clarity."
+
+
+6
+0:0:10,414 --> 0:0:11,58
+It's a pretty exciting book.
+
+
+7
+0:0:11,58 --> 0:0:12,53
+It's about people.
+
+
+8
+0:0:12,53 --> 0:0:14,3
+It's about how to
+understand people,
+
+
+9
+0:0:14,3 --> 0:0:17,12
+how to understand
+who we are as people,
+
+
+10
+0:0:17,12 --> 0:0:19,71
+really understand your
+customers-- not so much
+
+
+11
+0:0:19,71 --> 0:0:23,32
+what they think they want,
+but what they really want.
+
+
+12
+0:0:23,32 --> 0:0:25,64
+But the book is also about
+how you can sometimes
+
+
+13
+0:0:25,64 --> 0:0:29,28
+get people dramatically
+wrong, really misunderstand
+
+
+14
+0:0:29,28 --> 0:0:30,25
+who we are.
+
+
+15
+0:0:30,25 --> 0:0:32,46
+And it happens all the time.
+
+
+16
+0:0:32,46 --> 0:0:35,93
+And I would like to start with
+a little story about kitchens.
+
+
+17
+0:0:35,93 --> 0:0:38,68
+And most of us cook.
+
+
+18
+0:0:38,68 --> 0:0:41,86
+A couple of years ago
+I went to a conference
+
+
+19
+0:0:41,86 --> 0:0:43,45
+called Kitchens of the Future.
+
+
+20
+0:0:43,45 --> 0:0:44,89
+It was a super
+exciting conference
+
+
+21
+0:0:44,89 --> 0:0:47,58
+where people are showing lots
+of new technologies coming
+
+
+22
+0:0:47,58 --> 0:0:48,66
+into the kitchen.
+
+
+23
+0:0:48,66 --> 0:0:50,74
+And there was one
+presenter from Ikea
+
+
+24
+0:0:50,74 --> 0:0:54,12
+together with a couple of
+Japanese technology companies.
+
+
+25
+0:0:54,12 --> 0:0:57,3
+And they presented this
+vision of a future kitchen,
+
+
+26
+0:0:57,3 --> 0:0:59,78
+I think it's supposed
+to be in 2040.
+
+
+27
+0:0:59,78 --> 0:1:3,9
+And if you imagine you go
+into this kitchen in 2040
+
+
+28
+0:1:3,9 --> 0:1:4,849
+it's what's called
+a smart kitchen.
+
+
+29
+0:1:4,849 --> 0:1:7,54
+So it recognizes you, it
+has face recognition, voice
+
+
+30
+0:1:7,54 --> 0:1:10,43
+recognition, there's
+laser beams guiding you
+
+
+31
+0:1:10,43 --> 0:1:11,81
+to how to cut the fish.
+
+
+32
+0:1:11,81 --> 0:1:15,86
+There's a fridge
+with herbs in that's
+
+
+33
+0:1:15,86 --> 0:1:18,6
+grown to your health
+profile that's in the cloud.
+
+
+34
+0:1:18,6 --> 0:1:20,48
+And if you look up in
+one of the corners,
+
+
+35
+0:1:20,48 --> 0:1:23,42
+there's a little thing called
+a nanobot, which is basically
+
+
+36
+0:1:23,42 --> 0:1:26,12
+a machine where you go and you
+say, I would like a tiramisu,
+
+
+37
+0:1:26,12 --> 0:1:26,78
+for example.
+
+
+38
+0:1:26,78 --> 0:1:28,56
+And it basically,
+out of nanomaterials,
+
+
+39
+0:1:28,56 --> 0:1:31,8
+makes that cake for you.
+
+
+40
+0:1:31,8 --> 0:1:34,74
+And I was completely
+energized by this vision.
+
+
+41
+0:1:34,74 --> 0:1:36,11
+I said, this is so great.
+
+
+42
+0:1:36,11 --> 0:1:39,11
+There are still people
+having big ideas.
+
+
+43
+0:1:39,11 --> 0:1:44,869
+Until somebody
+noticed that in 1956
+
+
+44
+0:1:44,869 --> 0:1:46,91
+there was a couple of
+people from General Motors,
+
+
+45
+0:1:46,91 --> 0:1:48,59
+actually, doing
+the same exercise.
+
+
+46
+0:1:48,59 --> 0:1:52,6
+But they were thinking, how
+will the future kitchen look?
+
+
+47
+0:1:52,6 --> 0:1:55,43
+But seen from the
+perspective of 1956.
+
+
+48
+0:1:55,43 --> 0:1:58,3
+That means, how will the
+kitchen look in 2006?
+
+
+49
+0:1:58,3 --> 0:2:0,12
+So now we can evaluate, really.
+
+
+50
+0:2:0,12 --> 0:2:2,61
+So I want to pay a
+little film that they
+
+
+51
+0:2:2,61 --> 0:2:6,32
+made about the kitchen
+of the future in 1956.
+
+
+52
+0:2:6,32 --> 0:2:6,99
+Can you play the movie?
+
+
+53
+0:2:6,99 --> 0:2:17,968
+
+
+
+54
+0:2:17,968 --> 0:2:32,17
+[MUSIC PLAYING]
+
+
+55
+0:2:32,17 --> 0:2:34,78
+-But this was a kitchen
+like none I'd seen.
+
+
+56
+0:2:34,78 --> 0:2:37,53
+Put a card in the slot
+and onto the screen
+
+
+57
+0:2:37,53 --> 0:2:39,664
+pops a picture of just
+how your dish will
+
+
+58
+0:2:39,664 --> 0:2:42,842
+look plus all the
+ingredients you need to cook.
+
+
+59
+0:2:42,842 --> 0:2:47,56
+
+
+
+60
+0:2:47,56 --> 0:2:50,1
+No need for the
+bride to feel tragic.
+
+
+61
+0:2:50,1 --> 0:2:53,8
+The rest is push-button magic.
+
+
+62
+0:2:53,8 --> 0:2:55,75
+So whether you bake
+or broil or stew,
+
+
+63
+0:2:55,75 --> 0:2:58,41
+the Fridgidaire kitchen
+does it all for you.
+
+
+64
+0:2:58,41 --> 0:3:1,51
+Don't have to be chained
+to the stove all day.
+
+
+65
+0:3:1,51 --> 0:3:4,178
+Just set the timer and
+you're on your way.
+
+
+66
+0:3:4,178 --> 0:3:8,66
+[MUSIC PLAYING]
+
+
+67
+0:3:8,66 --> 0:3:13,64
+Tick tock, tick tock, I'm free
+to have fun around the clock.
+
+
+68
+0:3:13,64 --> 0:3:32,564
+[MUSIC PLAYING]
+
+
+69
+0:3:32,564 --> 0:3:35,6
+Jeepers, I'm exhausted.
+
+
+70
+0:3:35,6 --> 0:3:38,87
+[RINGING]
+
+
+71
+0:3:38,87 --> 0:3:43,234
+The kitchen of
+tomorrow is calling me.
+
+
+72
+0:3:43,234 --> 0:3:45,575
+My cake is ready.
+
+
+73
+0:3:45,575 --> 0:3:55,76
+[MUSIC PLAYING]
+
+
+74
+0:3:55,76 --> 0:3:56,82
+-Time for the show.
+
+
+75
+0:3:56,82 --> 0:3:59,345
+Everybody on stage.
+
+
+76
+0:3:59,345 --> 0:4:1,47
+MIKKEL RASMUSSEN: I think
+what's really interesting
+
+
+77
+0:4:1,47 --> 0:4:6,49
+to think about is if you look
+at the core idea of the kitchen
+
+
+78
+0:4:6,49 --> 0:4:9,9
+of tomorrow as Ikea
+thought about it
+
+
+79
+0:4:9,9 --> 0:4:13,74
+and this idea it's
+exactly the same idea.
+
+
+80
+0:4:13,74 --> 0:4:17,97
+And the idea is
+cooking is slavery.
+
+
+81
+0:4:17,97 --> 0:4:20,36
+Technology can free
+us from making food.
+
+
+82
+0:4:20,36 --> 0:4:21,75
+It can do it for us.
+
+
+83
+0:4:21,75 --> 0:4:23,41
+It can recognize who we are.
+
+
+84
+0:4:23,41 --> 0:4:26,73
+And simply, we don't have to
+be tied to the kitchen all day,
+
+
+85
+0:4:26,73 --> 0:4:29,38
+as they sing in this movie.
+
+
+86
+0:4:29,38 --> 0:4:33,46
+And it's the same vision
+you see again in 2006.
+
+
+87
+0:4:33,46 --> 0:4:35,55
+When we imagine the
+kitchen of the future
+
+
+88
+0:4:35,55 --> 0:4:37,65
+it's still a kitchen
+that's automated.
+
+
+89
+0:4:37,65 --> 0:4:39,53
+We don't have to think about it.
+
+
+90
+0:4:39,53 --> 0:4:41,85
+And it has a lot
+of technology that
+
+
+91
+0:4:41,85 --> 0:4:43,63
+actually takes the
+human condition out
+
+
+92
+0:4:43,63 --> 0:4:45,24
+of the whole thing of cooking.
+
+
+93
+0:4:45,24 --> 0:4:47,75
+Now if you're an
+anthropologist--
+
+
+94
+0:4:47,75 --> 0:4:49,43
+we work a lot with
+anthropologists--
+
+
+95
+0:4:49,43 --> 0:4:52,11
+they would tell you
+that cooking is perhaps
+
+
+96
+0:4:52,11 --> 0:4:55,87
+one of the most complicated
+things you can think about when
+
+
+97
+0:4:55,87 --> 0:4:58,54
+it comes to the human
+condition or human behavior.
+
+
+98
+0:4:58,54 --> 0:5:0,92
+That if you think about
+your own cooking habits,
+
+
+99
+0:5:0,92 --> 0:5:4,37
+that they probably come from
+your childhood, the nation
+
+
+100
+0:5:4,37 --> 0:5:5,87
+you're from, the
+region you're from.
+
+
+101
+0:5:5,87 --> 0:5:7,69
+It takes a lot of skill to cook.
+
+
+102
+0:5:7,69 --> 0:5:8,46
+It's not so easy.
+
+
+103
+0:5:8,46 --> 0:5:10,21
+And actually, it's
+quite fun to cook.
+
+
+104
+0:5:10,21 --> 0:5:11,71
+There's also a lot
+of improvisation.
+
+
+105
+0:5:11,71 --> 0:5:14,1
+I don't know if you ever
+tried to come home to a fridge
+
+
+106
+0:5:14,1 --> 0:5:16,0
+and you just look into
+the fridge-- oh there's
+
+
+107
+0:5:16,0 --> 0:5:18,13
+a carrot and some milk
+and some white wine
+
+
+108
+0:5:18,13 --> 0:5:19,57
+and you figure it out.
+
+
+109
+0:5:19,57 --> 0:5:20,9
+That is what cooking is like.
+
+
+110
+0:5:20,9 --> 0:5:23,51
+It's a very human thing to do.
+
+
+111
+0:5:23,51 --> 0:5:26,91
+And therefore, if you think
+about it, having anything
+
+
+112
+0:5:26,91 --> 0:5:29,96
+that automates this for you or
+decides for you or improvises
+
+
+113
+0:5:29,96 --> 0:5:33,75
+for you is actually
+not doing anything
+
+
+114
+0:5:33,75 --> 0:5:37,98
+to help you with what you want
+to do, which it's nice to cook.
+
+
+115
+0:5:37,98 --> 0:5:40,33
+And therefor if you
+make technology,
+
+
+116
+0:5:40,33 --> 0:5:43,49
+for example, that has
+that core idea about who
+
+
+117
+0:5:43,49 --> 0:5:47,54
+we are as people that cooking is
+slavery and the idea is wrong,
+
+
+118
+0:5:47,54 --> 0:5:49,92
+then your technology will fail.
+
+
+119
+0:5:49,92 --> 0:5:53,97
+Not because of the technology,
+but because it simply
+
+
+120
+0:5:53,97 --> 0:5:55,44
+gets people wrong.
+
+
+121
+0:5:55,44 --> 0:5:57,12
+And this happens all the time.
+
+
+122
+0:5:57,12 --> 0:6:1,8
+And you cannot swing a cat
+these days without hitting one
+
+
+123
+0:6:1,8 --> 0:6:4,41
+of those refrigerator companies
+that make smart fridges.
+
+
+124
+0:6:4,41 --> 0:6:5,4
+I don't know you've
+ever seen them,
+
+
+125
+0:6:5,4 --> 0:6:6,67
+like the intelligent fridge.
+
+
+126
+0:6:6,67 --> 0:6:9,27
+There's so many of them
+that there is actually
+
+
+127
+0:6:9,27 --> 0:6:12,13
+a website it's called fuck
+your internet fridge-- I'm
+
+
+128
+0:6:12,13 --> 0:6:16,37
+sorry-- and is a guy who
+every month he tracks failed
+
+
+129
+0:6:16,37 --> 0:6:20,59
+prototypes on
+intelligent fridges.
+
+
+130
+0:6:20,59 --> 0:6:22,91
+And here you have
+April, 2011, May,
+
+
+131
+0:6:22,91 --> 0:6:24,77
+2000-- you can actually
+go in today and see
+
+
+132
+0:6:24,77 --> 0:6:26,99
+are there any failed
+internet fridges today?
+
+
+133
+0:6:26,99 --> 0:6:28,56
+My guess is, there probably is.
+
+
+134
+0:6:28,56 --> 0:6:29,51
+Why?
+
+
+135
+0:6:29,51 --> 0:6:33,9
+Because basically, the idea
+is wrong-- not the technology
+
+
+136
+0:6:33,9 --> 0:6:36,39
+but the idea about who
+we are, that we do not
+
+
+137
+0:6:36,39 --> 0:6:39,2
+want the kitchen to
+be automated for us.
+
+
+138
+0:6:39,2 --> 0:6:40,27
+We want to cook.
+
+
+139
+0:6:40,27 --> 0:6:41,4
+We want Japanese knives.
+
+
+140
+0:6:41,4 --> 0:6:43,42
+We want complicated cooking.
+
+
+141
+0:6:43,42 --> 0:6:45,46
+And so what we are
+saying here is not
+
+
+142
+0:6:45,46 --> 0:6:47,45
+that technology
+is wrong as such.
+
+
+143
+0:6:47,45 --> 0:6:49,8
+It's just you need to
+base it, especially
+
+
+144
+0:6:49,8 --> 0:6:51,58
+when you innovate
+really big ideas,
+
+
+145
+0:6:51,58 --> 0:6:54,5
+on something that's
+a true human insight.
+
+
+146
+0:6:54,5 --> 0:6:58,84
+And cooking as slavery is
+not a true human insight
+
+
+147
+0:6:58,84 --> 0:7:2,38
+and therefore the
+prototypes will fail.
+
+
+148
+0:7:2,38 --> 0:7:5,9
+There are many
+interesting ways to think
+
+
+149
+0:7:5,9 --> 0:7:6,7
+about technology and cooking.
+
+
+150
+0:7:6,7 --> 0:7:9,12
+For example, molecular
+cooking like this,
+
+
+151
+0:7:9,12 --> 0:7:11,4
+where people experiment
+and broaden what cooking
+
+
+152
+0:7:11,4 --> 0:7:13,7
+is, and make it
+more complicated,
+
+
+153
+0:7:13,7 --> 0:7:15,17
+expands what we can
+do with cooking,
+
+
+154
+0:7:15,17 --> 0:7:16,562
+as opposed to automating.
+
+
+155
+0:7:16,562 --> 0:7:19,2
+So we're not saying there's
+something wrong with technology
+
+
+156
+0:7:19,2 --> 0:7:21,77
+but we're saying,
+sometimes it's a good thing
+
+
+157
+0:7:21,77 --> 0:7:24,73
+to understand what your core
+idea about the human behavior
+
+
+158
+0:7:24,73 --> 0:7:26,7
+that you want to attack.
+
+
+159
+0:7:26,7 --> 0:7:28,82
+Now, this is not
+relevant all the time.
+
+
+160
+0:7:28,82 --> 0:7:31,68
+This is only relevant
+sometimes in a company.
+
+
+161
+0:7:31,68 --> 0:7:33,73
+We have been working
+with really big companies
+
+
+162
+0:7:33,73 --> 0:7:35,78
+for over the last 20 years.
+
+
+163
+0:7:35,78 --> 0:7:38,12
+And sometimes
+there's a situation
+
+
+164
+0:7:38,12 --> 0:7:41,3
+where things become
+really uncertain.
+
+
+165
+0:7:41,3 --> 0:7:43,62
+We talk about it in the
+book as navigating in a fog.
+
+
+166
+0:7:43,62 --> 0:7:46,712
+Here's an example-- this is
+one of the biggest sports
+
+
+167
+0:7:46,712 --> 0:7:47,67
+companies in the world.
+
+
+168
+0:7:47,67 --> 0:7:49,95
+And I was attending
+a workshop where
+
+
+169
+0:7:49,95 --> 0:7:51,35
+we talked about the future.
+
+
+170
+0:7:51,35 --> 0:7:53,9
+And they were presenting sport
+shoes and tennis catchers
+
+
+171
+0:7:53,9 --> 0:7:55,407
+and all kinds of technology.
+
+
+172
+0:7:55,407 --> 0:7:57,74
+And all of a sudden, in the
+midst of this big discussion
+
+
+173
+0:7:57,74 --> 0:8:3,27
+about design, product
+innovation, consumers, markets,
+
+
+174
+0:8:3,27 --> 0:8:5,78
+there was a creative
+director who
+
+
+175
+0:8:5,78 --> 0:8:8,79
+raised a question that made
+the room go completely quiet.
+
+
+176
+0:8:8,79 --> 0:8:13,46
+And the question
+was, is yoga a sport?
+
+
+177
+0:8:13,46 --> 0:8:16,39
+And it's a really weird
+question to ask yourself.
+
+
+178
+0:8:16,39 --> 0:8:17,67
+But think about this company.
+
+
+179
+0:8:17,67 --> 0:8:19,68
+This is a company--
+one of the biggest
+
+
+180
+0:8:19,68 --> 0:8:21,48
+sports producers in the world.
+
+
+181
+0:8:21,48 --> 0:8:24,56
+And if you work there, you
+are surrounded by sport.
+
+
+182
+0:8:24,56 --> 0:8:26,444
+People are doing
+sports all the time.
+
+
+183
+0:8:26,444 --> 0:8:29,11
+They wear sport shoes, they play
+sports, they talk about sports.
+
+
+184
+0:8:29,11 --> 0:8:33,61
+Even their language has sports
+metaphors built into it.
+
+
+185
+0:8:33,61 --> 0:8:36,659
+And the core idea behind
+that type of thinking
+
+
+186
+0:8:36,659 --> 0:8:40,83
+is that sport is
+really about winning.
+
+
+187
+0:8:40,83 --> 0:8:42,419
+It's about athleticism.
+
+
+188
+0:8:42,419 --> 0:8:45,71
+It's about winning in
+the marathons and so on.
+
+
+189
+0:8:45,71 --> 0:8:49,159
+And that's an idea that
+this company has also when
+
+
+190
+0:8:49,159 --> 0:8:50,7
+they discuss in a
+workshop like this.
+
+
+191
+0:8:50,7 --> 0:8:52,6
+I could clearly see it.
+
+
+192
+0:8:52,6 --> 0:8:53,82
+So they would take
+up a shoe and say,
+
+
+193
+0:8:53,82 --> 0:8:56,545
+so what should the consumer
+get out of the shoe?
+
+
+194
+0:8:56,545 --> 0:8:58,42
+And they would talk
+about that this shoe will
+
+
+195
+0:8:58,42 --> 0:9:2,19
+make the consumer run a
+marathon two minutes faster.
+
+
+196
+0:9:2,19 --> 0:9:3,82
+And that's super great.
+
+
+197
+0:9:3,82 --> 0:9:7,44
+I remember there was even
+a swimming technology
+
+
+198
+0:9:7,44 --> 0:9:9,44
+with some stripes
+on that supposedly
+
+
+199
+0:9:9,44 --> 0:9:12,9
+would make you do a crawl
+a little bit faster.
+
+
+200
+0:9:12,9 --> 0:9:13,92
+Things like that--
+and it's great ideas
+
+
+201
+0:9:13,92 --> 0:9:15,87
+if you want to win gold medals.
+
+
+202
+0:9:15,87 --> 0:9:17,59
+But what this guy
+was discovering,
+
+
+203
+0:9:17,59 --> 0:9:20,96
+slowly it was dawning on
+him and the [INAUDIBLE]
+
+
+204
+0:9:20,96 --> 0:9:24,69
+is there's something big
+we are not getting right.
+
+
+205
+0:9:24,69 --> 0:9:27,75
+There's something-- I
+can't put my words to it,
+
+
+206
+0:9:27,75 --> 0:9:30,73
+but the best way he could say it
+was to provoke these gentlemen
+
+
+207
+0:9:30,73 --> 0:9:32,95
+and say, is yoga a sport.
+
+
+208
+0:9:32,95 --> 0:9:35,52
+And what he was talking
+about was not yoga.
+
+
+209
+0:9:35,52 --> 0:9:39,41
+It was the whole
+phenomenon around sport
+
+
+210
+0:9:39,41 --> 0:9:40,56
+that he was questioning.
+
+
+211
+0:9:40,56 --> 0:9:43,94
+He was seeing that there are now
+more fitness centers than post
+
+
+212
+0:9:43,94 --> 0:9:45,92
+offices in every
+town in the world.
+
+
+213
+0:9:45,92 --> 0:9:49,27
+He was seeing people
+doing 24 hour bike races.
+
+
+214
+0:9:49,27 --> 0:9:51,78
+He was seeing the marathon
+times coming down,
+
+
+215
+0:9:51,78 --> 0:9:54,7
+with one hour on average,
+because everyone now
+
+
+216
+0:9:54,7 --> 0:9:55,2
+does a marathon.
+
+
+217
+0:9:55,2 --> 0:9:59,26
+And he was basically seeing that
+sports was being democratized.
+
+
+218
+0:9:59,26 --> 0:10:2,6
+And it's not only about
+winning gold medals.
+
+
+219
+0:10:2,6 --> 0:10:4,11
+It's also about
+slimming yourself,
+
+
+220
+0:10:4,11 --> 0:10:6,57
+feeling good about yourself,
+and things like that.
+
+
+221
+0:10:6,57 --> 0:10:9,14
+But he had no way to
+say that to the company
+
+
+222
+0:10:9,14 --> 0:10:11,42
+because he didn't really
+know how to voice it.
+
+
+223
+0:10:11,42 --> 0:10:13,34
+And it was such a
+big problem for him
+
+
+224
+0:10:13,34 --> 0:10:14,7
+that he really didn't
+know how to do it.
+
+
+225
+0:10:14,7 --> 0:10:18,9
+And then in this
+situation-- that's
+
+
+226
+0:10:18,9 --> 0:10:19,91
+the situation
+where we would say,
+
+
+227
+0:10:19,91 --> 0:10:21,78
+this is the most
+important point where
+
+
+228
+0:10:21,78 --> 0:10:23,1
+you need to get people right.
+
+
+229
+0:10:23,1 --> 0:10:25,265
+If you get people
+right on this question,
+
+
+230
+0:10:25,265 --> 0:10:27,39
+you get people-- wrong,
+sorry, about this question,
+
+
+231
+0:10:27,39 --> 0:10:29,677
+you get them wrong
+all the way through.
+
+
+232
+0:10:29,677 --> 0:10:32,26
+So if you think about your own
+business-- now we are in Google
+
+
+233
+0:10:32,26 --> 0:10:34,26
+but you could think about
+any other business--
+
+
+234
+0:10:34,26 --> 0:10:36,93
+and you have problems that you
+deal with in your everyday,
+
+
+235
+0:10:36,93 --> 0:10:39,39
+we would say there are
+three types of problems.
+
+
+236
+0:10:39,39 --> 0:10:41,41
+Some of them require that
+you get people right--
+
+
+237
+0:10:41,41 --> 0:10:43,63
+you're really strong in
+that-- and some of them
+
+
+238
+0:10:43,63 --> 0:10:45,99
+require that you can
+just use your intuition,
+
+
+239
+0:10:45,99 --> 0:10:48,43
+especially if you're really
+familiar with the problem.
+
+
+240
+0:10:48,43 --> 0:10:50,43
+So if you look at the
+three types of problems,
+
+
+241
+0:10:50,43 --> 0:10:52,365
+we can start in the
+bottom and say, there
+
+
+242
+0:10:52,365 --> 0:10:54,86
+are problems where it's
+not really so uncertain.
+
+
+243
+0:10:54,86 --> 0:10:55,8
+We've tried it before.
+
+
+244
+0:10:55,8 --> 0:10:57,34
+We are pretty predictable.
+
+
+245
+0:10:57,34 --> 0:10:58,2
+And those are called knowns.
+
+
+246
+0:10:58,2 --> 0:11:1,16
+You can basically put an
+algorithm to those problems--
+
+
+247
+0:11:1,16 --> 0:11:3,54
+things like, if we put
+money from this channel
+
+
+248
+0:11:3,54 --> 0:11:6,22
+to that channel we'll
+sell this much more.
+
+
+249
+0:11:6,22 --> 0:11:7,74
+And that's something
+you can just
+
+
+250
+0:11:7,74 --> 0:11:11,47
+use an MBA kind
+of thinking to do.
+
+
+251
+0:11:11,47 --> 0:11:13,2
+They're good tools
+and good methods
+
+
+252
+0:11:13,2 --> 0:11:15,11
+and you don't have to get
+people so right, really.
+
+
+253
+0:11:15,11 --> 0:11:19,21
+You can base your decisions
+on assumptions about people.
+
+
+254
+0:11:19,21 --> 0:11:23,0
+Then it becomes a little more
+difficult, more unpredictable,
+
+
+255
+0:11:23,0 --> 0:11:26,0
+and you go to what we
+call hypotheticals.
+
+
+256
+0:11:26,0 --> 0:11:28,19
+And those are you know
+what the problem is
+
+
+257
+0:11:28,19 --> 0:11:31,82
+but there are various ways that
+you could solve the problem.
+
+
+258
+0:11:31,82 --> 0:11:36,74
+For example, we are
+putting more money into R&D
+
+
+259
+0:11:36,74 --> 0:11:38,71
+but we're not selling more.
+
+
+260
+0:11:38,71 --> 0:11:39,565
+Why is that?
+
+
+261
+0:11:39,565 --> 0:11:43,2
+And there could be
+various reasons for that.
+
+
+262
+0:11:43,2 --> 0:11:45,7
+Also here there are some
+good tools and methods
+
+
+263
+0:11:45,7 --> 0:11:48,3
+that you can use from a
+business school, for example,
+
+
+264
+0:11:48,3 --> 0:11:50,36
+calculating your way
+through it, figuring out
+
+
+265
+0:11:50,36 --> 0:11:53,1
+how big are things and so on.
+
+
+266
+0:11:53,1 --> 0:11:55,15
+And then we get to
+the yoga question.
+
+
+267
+0:11:55,15 --> 0:11:56,2
+Is yoga a sport?
+
+
+268
+0:11:56,2 --> 0:11:58,95
+That's not a known and
+it's not a hypothetical.
+
+
+269
+0:11:58,95 --> 0:12:1,61
+It's what we call a
+big unknown, that it's
+
+
+270
+0:12:1,61 --> 0:12:3,81
+something big you're
+uncertain about.
+
+
+271
+0:12:3,81 --> 0:12:5,89
+And this is the point
+when you don't even
+
+
+272
+0:12:5,89 --> 0:12:9,2
+know what the answer is and
+you've never solved it before.
+
+
+273
+0:12:9,2 --> 0:12:11,13
+And in the case of
+the sports company,
+
+
+274
+0:12:11,13 --> 0:12:12,69
+this was the situation.
+
+
+275
+0:12:12,69 --> 0:12:14,48
+That to deal with
+this problem they just
+
+
+276
+0:12:14,48 --> 0:12:16,73
+couldn't calculate their
+way through the problem.
+
+
+277
+0:12:16,73 --> 0:12:22,1
+They had to figure out well,
+how is sports changing as such?
+
+
+278
+0:12:22,1 --> 0:12:24,62
+When you're in this
+situation there's something
+
+
+279
+0:12:24,62 --> 0:12:27,26
+happen that we have seen in
+a lot of businesses, which
+
+
+280
+0:12:27,26 --> 0:12:29,92
+is that we have
+assumptions about people
+
+
+281
+0:12:29,92 --> 0:12:32,89
+that we're nearly born
+with or we learn somehow
+
+
+282
+0:12:32,89 --> 0:12:35,59
+and they're really
+difficult to take off.
+
+
+283
+0:12:35,59 --> 0:12:38,1
+And one of the biggest
+assumptions about people
+
+
+284
+0:12:38,1 --> 0:12:42,3
+is this-- sorry,
+I'll just go on--
+
+
+285
+0:12:42,3 --> 0:12:47,96
+that we can be understood
+as the smallest substances,
+
+
+286
+0:12:47,96 --> 0:12:48,94
+like atoms.
+
+
+287
+0:12:48,94 --> 0:12:50,81
+So here's a physician
+that once said,
+
+
+288
+0:12:50,81 --> 0:12:55,32
+"Everything is made of atoms,
+there's nothing living that you
+
+
+289
+0:12:55,32 --> 0:12:57,86
+cannot understand from the
+point of view that they are made
+
+
+290
+0:12:57,86 --> 0:13:0,91
+of atoms according to
+the laws of physics."
+
+
+291
+0:13:0,91 --> 0:13:3,496
+And I just have to say, really?
+
+
+292
+0:13:3,496 --> 0:13:5,75
+Are we sure about that?
+
+
+293
+0:13:5,75 --> 0:13:8,46
+If you take your own company I
+could provoke you a little bit
+
+
+294
+0:13:8,46 --> 0:13:11,68
+and say, could you take
+this quote and put bits in?
+
+
+295
+0:13:11,68 --> 0:13:13,21
+Everything is made of bits.
+
+
+296
+0:13:13,21 --> 0:13:16,37
+There's nothing living that
+you cannot understand from
+
+
+297
+0:13:16,37 --> 0:13:19,39
+the point of view of a
+bit or a calculation.
+
+
+298
+0:13:19,39 --> 0:13:22,66
+And there's nothing wrong with
+thinking this way if you're
+
+
+299
+0:13:22,66 --> 0:13:25,59
+familiar with what you're doing.
+
+
+300
+0:13:25,59 --> 0:13:29,3
+It's by far the most efficient
+way to think about people,
+
+
+301
+0:13:29,3 --> 0:13:30,96
+that we are basically
+atoms and you
+
+
+302
+0:13:30,96 --> 0:13:33,47
+can reduce people to
+the smallest substance
+
+
+303
+0:13:33,47 --> 0:13:35,38
+and then understand
+the totality from that.
+
+
+304
+0:13:35,38 --> 0:13:38,89
+But when you're in a big
+unknown this is toxic.
+
+
+305
+0:13:38,89 --> 0:13:42,5
+Because what will happen is that
+you get people completely wrong
+
+
+306
+0:13:42,5 --> 0:13:46,28
+and then your ideas will
+end up as smart fridges
+
+
+307
+0:13:46,28 --> 0:13:48,465
+that nobody wants, nobody
+buys, and nobody uses.
+
+
+308
+0:13:48,465 --> 0:13:51,5
+
+
+
+309
+0:13:51,5 --> 0:13:56,78
+Now we have seen that there is
+many assumptions about people.
+
+
+310
+0:13:56,78 --> 0:13:58,7
+There are five I just
+want to talk about
+
+
+311
+0:13:58,7 --> 0:13:59,7
+and then I'm going
+to hand it over
+
+
+312
+0:13:59,7 --> 0:14:1,491
+to Christian who will
+give you a little bit
+
+
+313
+0:14:1,491 --> 0:14:3,56
+of a philosophical
+background before this.
+
+
+314
+0:14:3,56 --> 0:14:5,11
+And then we will
+give you an idea
+
+
+315
+0:14:5,11 --> 0:14:7,119
+of how to get out of this mess.
+
+
+316
+0:14:7,119 --> 0:14:8,41
+But there are five assumptions.
+
+
+317
+0:14:8,41 --> 0:14:11,68
+So think about when you
+talk about users, consumers,
+
+
+318
+0:14:11,68 --> 0:14:13,91
+customers, what are
+you talking about?
+
+
+319
+0:14:13,91 --> 0:14:18,846
+Very often there's an
+idea that human beings
+
+
+320
+0:14:18,846 --> 0:14:20,74
+are first and foremost
+thinking beings.
+
+
+321
+0:14:20,74 --> 0:14:23,572
+That means you can understand
+people by scanning their brain.
+
+
+322
+0:14:23,572 --> 0:14:25,78
+That's one very, very common
+assumption about people,
+
+
+323
+0:14:25,78 --> 0:14:29,6
+that everything there is to
+know about you is in your brain.
+
+
+324
+0:14:29,6 --> 0:14:32,332
+Another assumption is
+you know what you want.
+
+
+325
+0:14:32,332 --> 0:14:33,65
+You know your intentions.
+
+
+326
+0:14:33,65 --> 0:14:35,7
+That means you can go
+and ask a consumer,
+
+
+327
+0:14:35,7 --> 0:14:38,2
+so would you like
+this in red or green?
+
+
+328
+0:14:38,2 --> 0:14:41,42
+And they would actually know.
+
+
+329
+0:14:41,42 --> 0:14:44,33
+A third assumption
+is that consumers--
+
+
+330
+0:14:44,33 --> 0:14:46,97
+they're all about
+options and choices.
+
+
+331
+0:14:46,97 --> 0:14:49,77
+So what you study is,
+how do you make choices?
+
+
+332
+0:14:49,77 --> 0:14:51,52
+So when you go out
+down to the supermarket
+
+
+333
+0:14:51,52 --> 0:14:52,922
+and you want to
+buy a juice, do you
+
+
+334
+0:14:52,922 --> 0:14:54,296
+want the juice
+with the things in
+
+
+335
+0:14:54,296 --> 0:14:56,17
+or the juice without
+the little things in.
+
+
+336
+0:14:56,17 --> 0:14:57,878
+And that's the very,
+very important thing
+
+
+337
+0:14:57,878 --> 0:14:59,33
+about consumers.
+
+
+338
+0:14:59,33 --> 0:15:3,95
+The fourth thing that's
+toxic is the assumption
+
+
+339
+0:15:3,95 --> 0:15:7,19
+that your consumers, your
+customers, your users
+
+
+340
+0:15:7,19 --> 0:15:9,8
+actually know what they want.
+
+
+341
+0:15:9,8 --> 0:15:12,24
+So you actually become
+a slave to their needs.
+
+
+342
+0:15:12,24 --> 0:15:14,35
+You just ask them,
+what do you want?
+
+
+343
+0:15:14,35 --> 0:15:15,31
+Oh, I want a red car.
+
+
+344
+0:15:15,31 --> 0:15:18,73
+Hey, let's produce a red
+car-- that kind of thinking.
+
+
+345
+0:15:18,73 --> 0:15:21,68
+And the fifth one
+is that people--
+
+
+346
+0:15:21,68 --> 0:15:24,24
+because you can understand
+them from their brain
+
+
+347
+0:15:24,24 --> 0:15:26,41
+and have access to
+their inner minds--
+
+
+348
+0:15:26,41 --> 0:15:28,7
+that they are the
+same, regardless which
+
+
+349
+0:15:28,7 --> 0:15:31,83
+social situation
+or mood they're in.
+
+
+350
+0:15:31,83 --> 0:15:33,525
+These five assumptions--
+you may think
+
+
+351
+0:15:33,525 --> 0:15:35,91
+that this is pretty
+banal or stupid
+
+
+352
+0:15:35,91 --> 0:15:38,76
+or something like that--
+but these assumptions
+
+
+353
+0:15:38,76 --> 0:15:42,58
+are at the core of many,
+many business decisions
+
+
+354
+0:15:42,58 --> 0:15:44,75
+every single day that we make.
+
+
+355
+0:15:44,75 --> 0:15:49,21
+When we ask people in a focus
+group to evaluate a product,
+
+
+356
+0:15:49,21 --> 0:15:51,84
+for example, it's based
+on these assumptions.
+
+
+357
+0:15:51,84 --> 0:15:53,86
+When we go and scan
+people's brains
+
+
+358
+0:15:53,86 --> 0:15:56,61
+to figure out whether they like
+the red logo or the green logo,
+
+
+359
+0:15:56,61 --> 0:15:58,28
+it's based on these assumptions.
+
+
+360
+0:15:58,28 --> 0:16:0,6
+When we ask people,
+can you just evaluate
+
+
+361
+0:16:0,6 --> 0:16:2,28
+what you want on a survey?
+
+
+362
+0:16:2,28 --> 0:16:3,845
+It's based on these assumptions.
+
+
+363
+0:16:3,845 --> 0:16:5,47
+And I would even have
+to say, sometimes
+
+
+364
+0:16:5,47 --> 0:16:7,6
+when we do these
+big data analyses,
+
+
+365
+0:16:7,6 --> 0:16:10,12
+it's based on these
+assumptions, that you
+
+
+366
+0:16:10,12 --> 0:16:13,14
+can take people and pull
+them down to what they need
+
+
+367
+0:16:13,14 --> 0:16:14,81
+to put it together
+to a bigger question
+
+
+368
+0:16:14,81 --> 0:16:17,1
+and then here you have the
+understanding of people.
+
+
+369
+0:16:17,1 --> 0:16:19,69
+
+
+
+370
+0:16:19,69 --> 0:16:22,37
+Now this plays out in
+many interesting places.
+
+
+371
+0:16:22,37 --> 0:16:24,7
+And here's an example
+of what can happen.
+
+
+372
+0:16:24,7 --> 0:16:27,33
+So in many companies
+what they do is
+
+
+373
+0:16:27,33 --> 0:16:30,67
+they do these big surveys about
+what people need and then they
+
+
+374
+0:16:30,67 --> 0:16:33,57
+try to data analyze
+their way through this.
+
+
+375
+0:16:33,57 --> 0:16:36,154
+And they end up with
+what's called segments.
+
+
+376
+0:16:36,154 --> 0:16:37,7
+And here's an example.
+
+
+377
+0:16:37,7 --> 0:16:39,86
+This is actually a
+spirits producer.
+
+
+378
+0:16:39,86 --> 0:16:40,65
+They get us drunk.
+
+
+379
+0:16:40,65 --> 0:16:42,6
+That's what they do.
+
+
+380
+0:16:42,6 --> 0:16:44,22
+And they looked at the
+Asian market and women.
+
+
+381
+0:16:44,22 --> 0:16:46,5
+And they did a
+huge data analysis
+
+
+382
+0:16:46,5 --> 0:16:48,38
+to figure out how many women
+there are, how old are they,
+
+
+383
+0:16:48,38 --> 0:16:49,13
+what do they need.
+
+
+384
+0:16:49,13 --> 0:16:51,49
+They did surveys, focus
+groups, everything,
+
+
+385
+0:16:51,49 --> 0:16:53,37
+and boiled it down to
+four types of people.
+
+
+386
+0:16:53,37 --> 0:16:55,44
+I'm not going to go
+through all of them.
+
+
+387
+0:16:55,44 --> 0:16:57,694
+But one of them was called
+the modern life seeker.
+
+
+388
+0:16:57,694 --> 0:16:59,61
+And they figured out
+those were the people who
+
+
+389
+0:16:59,61 --> 0:17:2,87
+had the most money, who
+loved to drink the most,
+
+
+390
+0:17:2,87 --> 0:17:6,73
+and who we wanted to go for.
+
+
+391
+0:17:6,73 --> 0:17:8,78
+And we were asked to go
+out in the supermarket
+
+
+392
+0:17:8,78 --> 0:17:12,28
+and help them identify these
+people to study them further,
+
+
+393
+0:17:12,28 --> 0:17:13,8
+get deep inside
+into who they were.
+
+
+394
+0:17:13,8 --> 0:17:16,798
+But we didn't
+understand-- my mom,
+
+
+395
+0:17:16,798 --> 0:17:18,89
+she's not a modern life seeker.
+
+
+396
+0:17:18,89 --> 0:17:18,589
+I know that.
+
+
+397
+0:17:18,589 --> 0:17:19,7
+And my sister is not.
+
+
+398
+0:17:19,7 --> 0:17:20,819
+And my daughter is not.
+
+
+399
+0:17:20,819 --> 0:17:24,0
+I just couldn't figure out,
+what is a modern life seeker?
+
+
+400
+0:17:24,0 --> 0:17:26,9
+And we went out to the
+supermarket in Bangkok.
+
+
+401
+0:17:26,9 --> 0:17:28,88
+And in this supermarket--
+it's the biggest
+
+
+402
+0:17:28,88 --> 0:17:31,611
+in the world-- it's the most
+instagramed, sorry, shopping
+
+
+403
+0:17:31,611 --> 0:17:32,36
+mall in the world.
+
+
+404
+0:17:32,36 --> 0:17:35,61
+There are thick women and thin
+women, clever, smart, dumb--
+
+
+405
+0:17:35,61 --> 0:17:37,57
+there are all types of women.
+
+
+406
+0:17:37,57 --> 0:17:40,78
+And we asked, could you point
+out the modern life seeker?
+
+
+407
+0:17:40,78 --> 0:17:42,88
+And they kind of started
+sweating and said,
+
+
+408
+0:17:42,88 --> 0:17:45,7
+she's not here.
+
+
+409
+0:17:45,7 --> 0:17:47,32
+And you know why she's not here?
+
+
+410
+0:17:47,32 --> 0:17:49,63
+Because she does not exist.
+
+
+411
+0:17:49,63 --> 0:17:51,7
+Why does she not exist?
+
+
+412
+0:17:51,7 --> 0:17:55,76
+Because it's based on wrong
+assumptions on who we are.
+
+
+413
+0:17:55,76 --> 0:17:58,61
+And it becomes a tool where
+you as a company can say,
+
+
+414
+0:17:58,61 --> 0:18:1,19
+oh our consumers are
+out here in a nice model
+
+
+415
+0:18:1,19 --> 0:18:3,28
+and we don't really
+have to be part of that.
+
+
+416
+0:18:3,28 --> 0:18:6,34
+We can just analyze them and
+tell them what they want.
+
+
+417
+0:18:6,34 --> 0:18:9,307
+And there are many other
+examples of this going on.
+
+
+418
+0:18:9,307 --> 0:18:10,64
+Maybe you should take over here.
+
+
+419
+0:18:10,64 --> 0:18:12,802
+
+
+
+420
+0:18:12,802 --> 0:18:14,26
+CHRISTIAN MADSBJERG:
+So what we see
+
+
+421
+0:18:14,26 --> 0:18:17,23
+is the same research project
+in many different ways.
+
+
+422
+0:18:17,23 --> 0:18:19,26
+So the research
+project is basically,
+
+
+423
+0:18:19,26 --> 0:18:22,18
+as we try to write in the
+book, a Cartesian-- a Rene
+
+
+424
+0:18:22,18 --> 0:18:24,77
+Descartes-inspired project.
+
+
+425
+0:18:24,77 --> 0:18:27,41
+Which is that we have
+access to our inner states.
+
+
+426
+0:18:27,41 --> 0:18:30,23
+We can see what
+we want and need.
+
+
+427
+0:18:30,23 --> 0:18:32,9
+And the mind is us.
+
+
+428
+0:18:32,9 --> 0:18:35,77
+And the mind is the
+brain-- so a set
+
+
+429
+0:18:35,77 --> 0:18:38,32
+of reductions about who we are.
+
+
+430
+0:18:38,32 --> 0:18:41,649
+And if we look at the
+world it's different.
+
+
+431
+0:18:41,649 --> 0:18:43,44
+And we'll show you a
+little bit about that.
+
+
+432
+0:18:43,44 --> 0:18:46,34
+But there's a couple of baseline
+things we see all the time.
+
+
+433
+0:18:46,34 --> 0:18:49,73
+The first one is that you can
+get it down to algorithms.
+
+
+434
+0:18:49,73 --> 0:18:55,53
+You can create systems
+for understanding the data
+
+
+435
+0:18:55,53 --> 0:18:57,35
+that people generate
+in their activity.
+
+
+436
+0:18:57,35 --> 0:19:1,4
+And if you take me-- where
+I work, what I click on,
+
+
+437
+0:19:1,4 --> 0:19:4,67
+where I'm with my phone, where
+I drive, and so on-- that's me.
+
+
+438
+0:19:4,67 --> 0:19:6,16
+That's a very good
+picture of who
+
+
+439
+0:19:6,16 --> 0:19:8,51
+I am and the kinds
+of decisions I make.
+
+
+440
+0:19:8,51 --> 0:19:10,17
+The second one is
+atomized, that you
+
+
+441
+0:19:10,17 --> 0:19:13,75
+can think of people as
+self-contained entities,
+
+
+442
+0:19:13,75 --> 0:19:18,49
+that we are basically
+individual subjects that
+
+
+443
+0:19:18,49 --> 0:19:20,22
+stand against objects
+and give meaning
+
+
+444
+0:19:20,22 --> 0:19:22,8
+to the world in that way.
+
+
+445
+0:19:22,8 --> 0:19:24,22
+And the last thing is
+that we're rational.
+
+
+446
+0:19:24,22 --> 0:19:28,46
+Everybody knows that we're
+not rational all the time.
+
+
+447
+0:19:28,46 --> 0:19:31,221
+But it's something-- and
+there's been economists
+
+
+448
+0:19:31,221 --> 0:19:33,47
+that go a little further and
+say that irrational might
+
+
+449
+0:19:33,47 --> 0:19:35,13
+be a category we
+could use as well.
+
+
+450
+0:19:35,13 --> 0:19:38,58
+But basically, it's the
+rational irrational model.
+
+
+451
+0:19:38,58 --> 0:19:40,3
+And we think that's wrong.
+
+
+452
+0:19:40,3 --> 0:19:43,93
+And I'll show you a picture here
+to explain what it is we mean.
+
+
+453
+0:19:43,93 --> 0:19:48,77
+This is a picture from a project
+by a guy called Paul Radcliff.
+
+
+454
+0:19:48,77 --> 0:19:51,79
+And he asked people to take
+pictures of the best moment
+
+
+455
+0:19:51,79 --> 0:19:55,18
+in a week, the time in
+the week that was best.
+
+
+456
+0:19:55,18 --> 0:19:59,259
+And it's this lady-- she
+sends a picture of umbrellas.
+
+
+457
+0:19:59,259 --> 0:20:0,8
+And I think you know
+this kind of day
+
+
+458
+0:20:0,8 --> 0:20:5,164
+in New York City where
+it's soaking wet.
+
+
+459
+0:20:5,164 --> 0:20:7,75
+And she lost her
+crappy umbrella.
+
+
+460
+0:20:7,75 --> 0:20:9,63
+Her umbrella was
+destroyed by wind.
+
+
+461
+0:20:9,63 --> 0:20:11,404
+And she tried to trash it.
+
+
+462
+0:20:11,404 --> 0:20:12,82
+And when she tried
+to trash it she
+
+
+463
+0:20:12,82 --> 0:20:15,6
+saw that that happened
+to others as well.
+
+
+464
+0:20:15,6 --> 0:20:20,29
+Which meant that the most
+absurdly annoying situation
+
+
+465
+0:20:20,29 --> 0:20:24,15
+of getting completely soaked
+and losing your umbrella
+
+
+466
+0:20:24,15 --> 0:20:26,58
+became delightful
+because it was funny.
+
+
+467
+0:20:26,58 --> 0:20:29,19
+It's funny that other people
+were in the same situation.
+
+
+468
+0:20:29,19 --> 0:20:32,72
+And I think you can also imagine
+what that situation is like
+
+
+469
+0:20:32,72 --> 0:20:34,42
+because you've been there.
+
+
+470
+0:20:34,42 --> 0:20:36,62
+So you're connected to
+humanity in a bigger
+
+
+471
+0:20:36,62 --> 0:20:39,286
+way than just
+rational processes.
+
+
+472
+0:20:39,286 --> 0:20:40,91
+You're connected to
+humanity in the way
+
+
+473
+0:20:40,91 --> 0:20:43,44
+that we understand each other.
+
+
+474
+0:20:43,44 --> 0:20:46,6
+I was at an art
+museum in Los Angeles
+
+
+475
+0:20:46,6 --> 0:20:48,29
+not long ago when
+I met this guy that
+
+
+476
+0:20:48,29 --> 0:20:51,12
+was sitting on a bench crying.
+
+
+477
+0:20:51,12 --> 0:20:58,326
+And he looked at a big Syrian
+tapestry from the 1600.
+
+
+478
+0:20:58,326 --> 0:20:59,95
+And I asked him, so
+why are you crying?
+
+
+479
+0:20:59,95 --> 0:21:2,74
+And he said, because I
+don't feel lonely anymore.
+
+
+480
+0:21:2,74 --> 0:21:6,9
+I feel that somebody, in a place
+I don't know, 400 years ago,
+
+
+481
+0:21:6,9 --> 0:21:8,72
+felt exactly the same as me.
+
+
+482
+0:21:8,72 --> 0:21:11,36
+So the picture was
+about paradise.
+
+
+483
+0:21:11,36 --> 0:21:12,93
+And he'd just lost his mother.
+
+
+484
+0:21:12,93 --> 0:21:14,78
+And he was thinking,
+where is she?
+
+
+485
+0:21:14,78 --> 0:21:16,24
+What's going to happen to her?
+
+
+486
+0:21:16,24 --> 0:21:18,59
+And somebody in a place
+completely distant,
+
+
+487
+0:21:18,59 --> 0:21:21,806
+400 years ago, had the
+exact same feelings as him.
+
+
+488
+0:21:21,806 --> 0:21:23,43
+So he felt connected
+to humanity and he
+
+
+489
+0:21:23,43 --> 0:21:25,12
+didn't feel atomized anymore.
+
+
+490
+0:21:25,12 --> 0:21:27,95
+He felt connected to something.
+
+
+491
+0:21:27,95 --> 0:21:31,79
+And that's a fairly deep
+insight, if you think about it.
+
+
+492
+0:21:31,79 --> 0:21:36,5
+It is that we are, first and
+foremost, not thinking things.
+
+
+493
+0:21:36,5 --> 0:21:37,53
+We're social things.
+
+
+494
+0:21:37,53 --> 0:21:41,42
+We're geared into worlds, and
+if you strip us of our world,
+
+
+495
+0:21:41,42 --> 0:21:43,12
+we make no sense at all.
+
+
+496
+0:21:43,12 --> 0:21:44,79
+We're not interesting at all.
+
+
+497
+0:21:44,79 --> 0:21:48,62
+It is how we are in the
+world that is meaningful.
+
+
+498
+0:21:48,62 --> 0:21:51,19
+And we navigate our world
+through familiarity.
+
+
+499
+0:21:51,19 --> 0:21:54,84
+You know this, I
+guess, when you go
+
+
+500
+0:21:54,84 --> 0:21:56,6
+to a city you've
+never been to before.
+
+
+501
+0:21:56,6 --> 0:21:57,95
+Everything looks new.
+
+
+502
+0:21:57,95 --> 0:21:59,862
+Right now the street
+you go down looks
+
+
+503
+0:21:59,862 --> 0:22:2,32
+like the street to the baker
+or to the cleaner or something
+
+
+504
+0:22:2,32 --> 0:22:5,1
+like that, because you're so
+familiar with your own city.
+
+
+505
+0:22:5,1 --> 0:22:9,0
+But when you move to someplace--
+I moved to New York City
+
+
+506
+0:22:9,0 --> 0:22:10,95
+from Denmark five years ago.
+
+
+507
+0:22:10,95 --> 0:22:15,19
+And it's only now I understand
+how extremely Danish I am.
+
+
+508
+0:22:15,19 --> 0:22:17,734
+When I lived in Denmark
+I didn't see it at all.
+
+
+509
+0:22:17,734 --> 0:22:19,15
+It wasn't at the
+forefront for me.
+
+
+510
+0:22:19,15 --> 0:22:20,165
+I couldn't see it.
+
+
+511
+0:22:20,165 --> 0:22:22,29
+In the same way, when you
+stand in line for coffee,
+
+
+512
+0:22:22,29 --> 0:22:24,46
+it's only when somebody
+breaks the rules
+
+
+513
+0:22:24,46 --> 0:22:27,73
+of standing in line that you
+understand that there are rules
+
+
+514
+0:22:27,73 --> 0:22:29,65
+for standing in line, right?
+
+
+515
+0:22:29,65 --> 0:22:31,36
+So our familiarity
+with the world
+
+
+516
+0:22:31,36 --> 0:22:33,39
+is how we find our way around.
+
+
+517
+0:22:33,39 --> 0:22:37,6
+And that whole layer
+is not in the data
+
+
+518
+0:22:37,6 --> 0:22:41,65
+normally-- the understanding
+of how we act upon the world
+
+
+519
+0:22:41,65 --> 0:22:43,52
+and how we make sense of it.
+
+
+520
+0:22:43,52 --> 0:22:44,51
+In the philosophical
+tradition they
+
+
+521
+0:22:44,51 --> 0:22:47,65
+call that understanding,
+as opposed to knowledge.
+
+
+522
+0:22:47,65 --> 0:22:49,99
+Knowledge is data
+in the way that you
+
+
+523
+0:22:49,99 --> 0:22:51,73
+have a fair bit of data.
+
+
+524
+0:22:51,73 --> 0:22:55,66
+But understanding is
+how you interpret that.
+
+
+525
+0:22:55,66 --> 0:22:57,3
+In the philosophical
+tradition there's
+
+
+526
+0:22:57,3 --> 0:22:59,6
+also been the
+debate about how do
+
+
+527
+0:22:59,6 --> 0:23:1,3
+you make sense of lots of data.
+
+
+528
+0:23:1,3 --> 0:23:4,2
+And Francis Bacon,
+400-ish years ago,
+
+
+529
+0:23:4,2 --> 0:23:8,4
+said that the conclusions will
+fall out of the data itself.
+
+
+530
+0:23:8,4 --> 0:23:11,56
+If you look to the
+big data people,
+
+
+531
+0:23:11,56 --> 0:23:14,739
+they will often say that we
+don't need theory anymore.
+
+
+532
+0:23:14,739 --> 0:23:16,28
+We don't need
+interpretation anymore.
+
+
+533
+0:23:16,28 --> 0:23:18,535
+Because we have so
+much data now that it
+
+
+534
+0:23:18,535 --> 0:23:20,786
+will conclude by itself, OK?
+
+
+535
+0:23:20,786 --> 0:23:23,33
+If this is true,
+you can't do that.
+
+
+536
+0:23:23,33 --> 0:23:25,52
+You do it based on something.
+
+
+537
+0:23:25,52 --> 0:23:28,16
+And it's only when you don't
+have familiarity with something
+
+
+538
+0:23:28,16 --> 0:23:32,89
+that you need this kind of
+analysis that we are proposing.
+
+
+539
+0:23:32,89 --> 0:23:37,8
+We basically are in
+the world already.
+
+
+540
+0:23:37,8 --> 0:23:39,2
+We're always already
+in the world,
+
+
+541
+0:23:39,2 --> 0:23:41,72
+and we're always already
+making sense of it
+
+
+542
+0:23:41,72 --> 0:23:43,6
+before it even happens.
+
+
+543
+0:23:43,6 --> 0:23:47,11
+So we know that's a chair
+without taking our subjectivity
+
+
+544
+0:23:47,11 --> 0:23:50,35
+and looking at the object
+and then seeing what it is.
+
+
+545
+0:23:50,35 --> 0:23:51,55
+We just know it's a chair.
+
+
+546
+0:23:51,55 --> 0:23:53,49
+And we're very
+familiar with chairs.
+
+
+547
+0:23:53,49 --> 0:23:55,47
+
+
+
+548
+0:23:55,47 --> 0:23:57,87
+So what we say that there
+are three building blocks
+
+
+549
+0:23:57,87 --> 0:24:1,376
+you need in order to
+be in situations where
+
+
+550
+0:24:1,376 --> 0:24:3,75
+the business doesn't work,
+where you're not making sense.
+
+
+551
+0:24:3,75 --> 0:24:9,82
+So if you systematically launch
+products that gain 1% to 2%
+
+
+552
+0:24:9,82 --> 0:24:13,8
+market share, you might
+want to think about it.
+
+
+553
+0:24:13,8 --> 0:24:15,35
+So the first thing is
+a humanized mindset.
+
+
+554
+0:24:15,35 --> 0:24:18,3
+So, a mindset about
+humanity that's
+
+
+555
+0:24:18,3 --> 0:24:19,97
+different than the rational one.
+
+
+556
+0:24:19,97 --> 0:24:22,41
+The second one is what
+we call thick data, which
+
+
+557
+0:24:22,41 --> 0:24:25,492
+is data about our
+familiarity with the world.
+
+
+558
+0:24:25,492 --> 0:24:26,95
+And the third thing
+is what we call
+
+
+559
+0:24:26,95 --> 0:24:28,23
+non-linear problem solving.
+
+
+560
+0:24:28,23 --> 0:24:30,51
+And I'll give you a
+couple of examples fast.
+
+
+561
+0:24:30,51 --> 0:24:32,92
+The first one is we
+say, the differences.
+
+
+562
+0:24:32,92 --> 0:24:34,88
+There's a big difference
+between properties
+
+
+563
+0:24:34,88 --> 0:24:37,9
+about something and
+aspects about something.
+
+
+564
+0:24:37,9 --> 0:24:42,869
+The property of a woman
+is that she's a woman.
+
+
+565
+0:24:42,869 --> 0:24:43,91
+You can say it like that.
+
+
+566
+0:24:43,91 --> 0:24:44,66
+It's biological.
+
+
+567
+0:24:44,66 --> 0:24:46,493
+It's pretty clear that
+you can analyze that.
+
+
+568
+0:24:46,493 --> 0:24:49,4
+You can use natural science
+methods to see that.
+
+
+569
+0:24:49,4 --> 0:24:54,17
+The aspects about whether she's
+feminine or not is an aspect.
+
+
+570
+0:24:54,17 --> 0:24:55,46
+It's a human thing.
+
+
+571
+0:24:55,46 --> 0:24:57,8
+It's layered into our
+familiarity with the world.
+
+
+572
+0:24:57,8 --> 0:25:0,62
+And what we are proposing
+is that lots of people
+
+
+573
+0:25:0,62 --> 0:25:3,89
+miss the aspects by only
+focusing on the properties.
+
+
+574
+0:25:3,89 --> 0:25:6,3
+And that's what you get
+when you use natural science
+
+
+575
+0:25:6,3 --> 0:25:10,87
+methods understanding humanity.
+
+
+576
+0:25:10,87 --> 0:25:15,15
+Thick data is trying to analyze
+what does something mean?
+
+
+577
+0:25:15,15 --> 0:25:17,29
+How are things layered
+into our behavior?
+
+
+578
+0:25:17,29 --> 0:25:19,69
+So for instance,
+if you go to a bar,
+
+
+579
+0:25:19,69 --> 0:25:25,23
+and you see an attractive person
+winking to you at the bar,
+
+
+580
+0:25:25,23 --> 0:25:28,99
+you would know within a second,
+without even thinking about it,
+
+
+581
+0:25:28,99 --> 0:25:34,65
+whether it's suggestive, ironic,
+critical-- whatever kind of all
+
+
+582
+0:25:34,65 --> 0:25:38,7
+the options a small movement
+with the eye can be.
+
+
+583
+0:25:38,7 --> 0:25:41,17
+Understanding that and the
+understanding of how you easy
+
+
+584
+0:25:41,17 --> 0:25:44,285
+gauge whether that wink is
+suggestive or not-- means,
+
+
+585
+0:25:44,285 --> 0:25:48,97
+let's leave together or not--
+is important for your success
+
+
+586
+0:25:48,97 --> 0:25:50,41
+at that situation.
+
+
+587
+0:25:50,41 --> 0:25:52,54
+And it's something
+you all know but it's
+
+
+588
+0:25:52,54 --> 0:25:55,14
+hard to analyze unless
+you get thick data.
+
+
+589
+0:25:55,14 --> 0:25:56,98
+And the way we do
+that is we import it
+
+
+590
+0:25:56,98 --> 0:25:58,93
+from the human sciences.
+
+
+591
+0:25:58,93 --> 0:26:1,3
+So that is sociology,
+anthropology, and so on,
+
+
+592
+0:26:1,3 --> 0:26:3,3
+that have methods
+in order to do this.
+
+
+593
+0:26:3,3 --> 0:26:7,19
+And it analyzes what's below
+the threshold of awareness.
+
+
+594
+0:26:7,19 --> 0:26:10,74
+Now Mikkel told you
+before about sports.
+
+
+595
+0:26:10,74 --> 0:26:13,47
+At the time, when we're
+talking about this company that
+
+
+596
+0:26:13,47 --> 0:26:15,71
+is in the sports
+industry, they called
+
+
+597
+0:26:15,71 --> 0:26:18,62
+fitness "sports preparation."
+
+
+598
+0:26:18,62 --> 0:26:20,91
+If think about that for
+a moment the reason why
+
+
+599
+0:26:20,91 --> 0:26:23,57
+it's called sports
+preparation is, of course,
+
+
+600
+0:26:23,57 --> 0:26:25,52
+that you prepare yourself
+to win gold medals.
+
+
+601
+0:26:25,52 --> 0:26:27,58
+The only reason for
+going to the gym
+
+
+602
+0:26:27,58 --> 0:26:29,59
+or doing yoga or anything
+like that could only
+
+
+603
+0:26:29,59 --> 0:26:32,2
+be-- if you are in the mindset
+that sports is about winning--
+
+
+604
+0:26:32,2 --> 0:26:34,64
+is to prepare yourself
+for something real,
+
+
+605
+0:26:34,64 --> 0:26:37,2
+instead of just
+going to the gym.
+
+
+606
+0:26:37,2 --> 0:26:39,72
+And what we found when
+we looked at these things
+
+
+607
+0:26:39,72 --> 0:26:42,12
+was we found what
+in this case we
+
+
+608
+0:26:42,12 --> 0:26:43,99
+call it the little
+black dress phenomenon.
+
+
+609
+0:26:43,99 --> 0:26:48,83
+But it was basically a fitness
+measurement tool for women
+
+
+610
+0:26:48,83 --> 0:26:54,61
+that we found across
+generations, across geography,
+
+
+611
+0:26:54,61 --> 0:26:59,11
+which was a dress that was
+a little bit too small.
+
+
+612
+0:26:59,11 --> 0:27:0,82
+So it was an
+ambition, and it was
+
+
+613
+0:27:0,82 --> 0:27:3,26
+layered into-- the
+whole reason they
+
+
+614
+0:27:3,26 --> 0:27:6,259
+did what they did was
+embodied in that dress.
+
+
+615
+0:27:6,259 --> 0:27:8,425
+And that's the kind of data
+that we call thick data.
+
+
+616
+0:27:8,425 --> 0:27:11,38
+
+
+
+617
+0:27:11,38 --> 0:27:13,86
+It's not the kind of data I
+guess you work with the most,
+
+
+618
+0:27:13,86 --> 0:27:16,45
+and we're not saying that
+that's in any way wrong,
+
+
+619
+0:27:16,45 --> 0:27:18,91
+we're just saying this is
+another type of data that
+
+
+620
+0:27:18,91 --> 0:27:21,85
+can be very helpful if you don't
+have familiarity with an area.
+
+
+621
+0:27:21,85 --> 0:27:24,36
+
+
+
+622
+0:27:24,36 --> 0:27:27,54
+So what we call
+default thinking,
+
+
+623
+0:27:27,54 --> 0:27:34,98
+hypothesis-based inquiry,
+answers what and how much,
+
+
+624
+0:27:34,98 --> 0:27:39,115
+research on what is and has
+been or is happening right now--
+
+
+625
+0:27:39,115 --> 0:27:41,24
+and what we're saying is
+that there's another type.
+
+
+626
+0:27:41,24 --> 0:27:43,54
+And we call it sense
+making in the book.
+
+
+627
+0:27:43,54 --> 0:27:45,87
+It's an exploratory inquiry.
+
+
+628
+0:27:45,87 --> 0:27:48,8
+You're not basing
+yourself on-- you're not
+
+
+629
+0:27:48,8 --> 0:27:50,64
+trying to test a hypothesis.
+
+
+630
+0:27:50,64 --> 0:27:53,65
+You are trying to cast
+a net and understand
+
+
+631
+0:27:53,65 --> 0:27:56,2
+patterns of behavior.
+
+
+632
+0:27:56,2 --> 0:27:58,47
+And in the bottom you
+can see the difference
+
+
+633
+0:27:58,47 --> 0:28:0,37
+between correctness and truth.
+
+
+634
+0:28:0,37 --> 0:28:2,95
+This is a classic Martin
+Heidegger distinction.
+
+
+635
+0:28:2,95 --> 0:28:5,2
+It's that there's lots of
+things that are correct
+
+
+636
+0:28:5,2 --> 0:28:6,99
+but that isn't true.
+
+
+637
+0:28:6,99 --> 0:28:10,7
+So for instance, if
+I ask my daughter,
+
+
+638
+0:28:10,7 --> 0:28:14,63
+could you please put
+six plates on the table,
+
+
+639
+0:28:14,63 --> 0:28:16,63
+she would go and put
+six plates on the table.
+
+
+640
+0:28:16,63 --> 0:28:18,879
+And I'll come in and
+they're all in a stack.
+
+
+641
+0:28:18,879 --> 0:28:20,67
+And I'll say, well
+that's not what I meant.
+
+
+642
+0:28:20,67 --> 0:28:24,21
+I meant around the table with
+forks and knives and stuff.
+
+
+643
+0:28:24,21 --> 0:28:26,755
+And she will say, well six.
+
+
+644
+0:28:26,755 --> 0:28:27,88
+So it's completely correct.
+
+
+645
+0:28:27,88 --> 0:28:30,12
+There are six
+plates on the table.
+
+
+646
+0:28:30,12 --> 0:28:31,78
+But that's not the
+truth about how
+
+
+647
+0:28:31,78 --> 0:28:34,12
+you eat together in a sense.
+
+
+648
+0:28:34,12 --> 0:28:35,79
+And what we're
+trying to get to say
+
+
+649
+0:28:35,79 --> 0:28:37,74
+is that there is a
+method for getting
+
+
+650
+0:28:37,74 --> 0:28:44,57
+to that shared, common
+humanity truth about us.
+
+
+651
+0:28:44,57 --> 0:28:45,14
+You want to say something?
+
+
+652
+0:28:45,14 --> 0:28:47,32
+MIKKEL RASMUSSEN: Yes.
+
+
+653
+0:28:47,32 --> 0:28:51,27
+And I just want to show you how
+one company works with this.
+
+
+654
+0:28:51,27 --> 0:28:53,7
+It's a company that
+many of you know well.
+
+
+655
+0:28:53,7 --> 0:28:54,29
+It's Lego.
+
+
+656
+0:28:54,29 --> 0:28:57,74
+And many years ago
+they were in trouble
+
+
+657
+0:28:57,74 --> 0:28:59,77
+because they were losing money.
+
+
+658
+0:28:59,77 --> 0:29:2,8
+But also they were
+expanding into territories
+
+
+659
+0:29:2,8 --> 0:29:4,81
+that they didn't know so well.
+
+
+660
+0:29:4,81 --> 0:29:8,13
+And somehow they
+got people wrong.
+
+
+661
+0:29:8,13 --> 0:29:11,88
+At that time, when
+we met Lego, they
+
+
+662
+0:29:11,88 --> 0:29:14,16
+had some pretty
+strong assumptions
+
+
+663
+0:29:14,16 --> 0:29:16,24
+about what's going
+to happen to play.
+
+
+664
+0:29:16,24 --> 0:29:19,28
+And one of them is, we're
+to die because PlayStation
+
+
+665
+0:29:19,28 --> 0:29:20,84
+is going to take it all.
+
+
+666
+0:29:20,84 --> 0:29:23,91
+Another one was a phenomenon
+called instant traction.
+
+
+667
+0:29:23,91 --> 0:29:25,4
+Have you heard about this?
+
+
+668
+0:29:25,4 --> 0:29:29,31
+The idea is that kids these
+days-- they have no attention,
+
+
+669
+0:29:29,31 --> 0:29:31,24
+you can't get them
+to do anything.
+
+
+670
+0:29:31,24 --> 0:29:33,63
+So when you go into
+a toy store, the toy
+
+
+671
+0:29:33,63 --> 0:29:36,76
+needs to be very noisy and
+very easy to play with,
+
+
+672
+0:29:36,76 --> 0:29:39,97
+because that's the only way
+you can get their attention.
+
+
+673
+0:29:39,97 --> 0:29:42,41
+They also had a
+creativity idea which
+
+
+674
+0:29:42,41 --> 0:29:44,73
+was called crisp, cool, wow.
+
+
+675
+0:29:44,73 --> 0:29:46,379
+And that was, anything
+was evaluated on
+
+
+676
+0:29:46,379 --> 0:29:47,92
+is it crisp, is it
+cool, or is what--
+
+
+677
+0:29:47,92 --> 0:29:50,45
+nobody knew what it meant.
+
+
+678
+0:29:50,45 --> 0:29:51,98
+Is it crisp, cool, or wow.
+
+
+679
+0:29:51,98 --> 0:29:54,96
+So that means you
+can just do anything.
+
+
+680
+0:29:54,96 --> 0:29:58,46
+That boys wanted evil-- so you
+can see when they did Bionicle
+
+
+681
+0:29:58,46 --> 0:30:2,46
+that there's dark and
+red and blood and death.
+
+
+682
+0:30:2,46 --> 0:30:4,99
+And that girls
+wanted pink-- and you
+
+
+683
+0:30:4,99 --> 0:30:8,62
+can see that it's pink princess,
+everything was pink, and so on.
+
+
+684
+0:30:8,62 --> 0:30:12,34
+And basically they assumed
+that because of this the brick
+
+
+685
+0:30:12,34 --> 0:30:13,97
+has no future.
+
+
+686
+0:30:13,97 --> 0:30:16,28
+We have to head in
+another direction.
+
+
+687
+0:30:16,28 --> 0:30:20,1
+And they did that by launching
+a lot of new innovations
+
+
+688
+0:30:20,1 --> 0:30:23,1
+that was beyond the
+brick-- software
+
+
+689
+0:30:23,1 --> 0:30:26,81
+and toothbrushes and violent
+toys and all kinds of things.
+
+
+690
+0:30:26,81 --> 0:30:30,12
+And it basically got
+them into trouble.
+
+
+691
+0:30:30,12 --> 0:30:33,19
+They got a new CEO
+who at one point
+
+
+692
+0:30:33,19 --> 0:30:35,47
+said, I think we
+need to understand,
+
+
+693
+0:30:35,47 --> 0:30:39,74
+before we take any
+decisions, why do kids plays
+
+
+694
+0:30:39,74 --> 0:30:43,72
+and what role do
+we play in that?
+
+
+695
+0:30:43,72 --> 0:30:47,6
+And the first step in getting
+the human condition right,
+
+
+696
+0:30:47,6 --> 0:30:49,15
+like Christian
+was talking about,
+
+
+697
+0:30:49,15 --> 0:30:51,29
+is not really doing
+any research or meeting
+
+
+698
+0:30:51,29 --> 0:30:52,93
+any consumers or
+anything like that.
+
+
+699
+0:30:52,93 --> 0:30:54,71
+It's looking at the
+assumptions you have
+
+
+700
+0:30:54,71 --> 0:30:56,8
+and trying to
+change the question.
+
+
+701
+0:30:56,8 --> 0:31:0,657
+We talk about this as framing
+your problem as a phenomena.
+
+
+702
+0:31:0,657 --> 0:31:2,49
+And that's a very
+academic way of saying it.
+
+
+703
+0:31:2,49 --> 0:31:6,92
+A simpler way is, try to ask
+your business question in a way
+
+
+704
+0:31:6,92 --> 0:31:9,46
+that a person can experience.
+
+
+705
+0:31:9,46 --> 0:31:13,24
+So for example, the big business
+question for Lego at that point
+
+
+706
+0:31:13,24 --> 0:31:15,32
+was, how can we sell more toys?
+
+
+707
+0:31:15,32 --> 0:31:17,14
+It's a very natural,
+very good question.
+
+
+708
+0:31:17,14 --> 0:31:20,96
+It's just that it's not
+something anybody experiences.
+
+
+709
+0:31:20,96 --> 0:31:26,5
+And what they did is change that
+around to a question which was,
+
+
+710
+0:31:26,5 --> 0:31:27,67
+why do kids play?
+
+
+711
+0:31:27,67 --> 0:31:30,74
+It's a very simple little
+trick but it does wonder.
+
+
+712
+0:31:30,74 --> 0:31:35,56
+Because you start looking
+at very different behaviors
+
+
+713
+0:31:35,56 --> 0:31:37,634
+when you look at
+why do kids play.
+
+
+714
+0:31:37,634 --> 0:31:39,8
+It's actually a little
+tricky, if you look at a kid,
+
+
+715
+0:31:39,8 --> 0:31:40,984
+why do they play?
+
+
+716
+0:31:40,984 --> 0:31:42,4
+Jesus, I don't
+know why they play.
+
+
+717
+0:31:42,4 --> 0:31:43,58
+They just do it.
+
+
+718
+0:31:43,58 --> 0:31:45,14
+Yeah, but why do they play?
+
+
+719
+0:31:45,14 --> 0:31:51,13
+And what Lego did was they spent
+half a year going out to kids,
+
+
+720
+0:31:51,13 --> 0:31:54,34
+living with kids, observing
+kids, figuring out
+
+
+721
+0:31:54,34 --> 0:31:57,6
+what's their world like,
+figuring out parents, figuring
+
+
+722
+0:31:57,6 --> 0:32:0,9
+out how school works,
+and trying to go down
+
+
+723
+0:32:0,9 --> 0:32:4,69
+to that thick data that
+could reveal why do kids play
+
+
+724
+0:32:4,69 --> 0:32:9,87
+and then try to make sense of
+that to find their own future.
+
+
+725
+0:32:9,87 --> 0:32:13,8
+Now this was a really
+interesting experience
+
+
+726
+0:32:13,8 --> 0:32:14,98
+and lots of interesting stories.
+
+
+727
+0:32:14,98 --> 0:32:17,1
+Here's one of them.
+
+
+728
+0:32:17,1 --> 0:32:21,26
+This is a shoe worn by a
+boy in Germany, I believe.
+
+
+729
+0:32:21,26 --> 0:32:27,62
+And the shoe is 1,000 times more
+worth for him than a new shoe.
+
+
+730
+0:32:27,62 --> 0:32:29,43
+And we asked him why.
+
+
+731
+0:32:29,43 --> 0:32:33,7
+And he says, because it's
+worn in the right places it
+
+
+732
+0:32:33,7 --> 0:32:35,38
+shows that I can
+do a kick flipper.
+
+
+733
+0:32:35,38 --> 0:32:38,43
+This shoes is worn
+in the right places
+
+
+734
+0:32:38,43 --> 0:32:40,35
+because he has tried
+a million times
+
+
+735
+0:32:40,35 --> 0:32:43,1
+to do the trick on the
+skateboard that makes him stand
+
+
+736
+0:32:43,1 --> 0:32:47,2
+out in the hierarchy
+among his friends.
+
+
+737
+0:32:47,2 --> 0:32:49,24
+And if you look
+at that, it really
+
+
+738
+0:32:49,24 --> 0:32:52,58
+means that he does not
+suffer from attention span
+
+
+739
+0:32:52,58 --> 0:32:55,51
+or loss of mastery or
+de-skilling or anything
+
+
+740
+0:32:55,51 --> 0:32:56,29
+like that.
+
+
+741
+0:32:56,29 --> 0:32:59,35
+This kid is deeply
+into one thing
+
+
+742
+0:32:59,35 --> 0:33:2,69
+and he does it everyday for
+hours and hours and hours
+
+
+743
+0:33:2,69 --> 0:33:4,3
+and hours.
+
+
+744
+0:33:4,3 --> 0:33:8,16
+And what Lego found
+was all the kids
+
+
+745
+0:33:8,16 --> 0:33:11,91
+that they met had this
+deep mastery of something.
+
+
+746
+0:33:11,91 --> 0:33:16,16
+They met one little guy who
+knew everything about sharks.
+
+
+747
+0:33:16,16 --> 0:33:18,13
+So he was building
+a shark in Lego
+
+
+748
+0:33:18,13 --> 0:33:21,844
+and they asked him so what
+shark is the one with 23 teeth?
+
+
+749
+0:33:21,844 --> 0:33:23,51
+Because there's one
+shark that has that.
+
+
+750
+0:33:23,51 --> 0:33:26,34
+And he knew the whole
+history of sharks.
+
+
+751
+0:33:26,34 --> 0:33:30,13
+
+
+
+752
+0:33:30,13 --> 0:33:32,64
+Now they also found
+another interesting thing,
+
+
+753
+0:33:32,64 --> 0:33:37,25
+which was that a lot of kids,
+when you play with them--
+
+
+754
+0:33:37,25 --> 0:33:42,81
+not talk to them-- they reveal
+a big world of inside knowledge
+
+
+755
+0:33:42,81 --> 0:33:44,93
+that we don't know as adults.
+
+
+756
+0:33:44,93 --> 0:33:46,259
+We call it under the radar.
+
+
+757
+0:33:46,259 --> 0:33:47,3
+We don't know it's there.
+
+
+758
+0:33:47,3 --> 0:33:48,44
+So here's an example.
+
+
+759
+0:33:48,44 --> 0:33:52,1
+It's a German boy who Lego met.
+
+
+760
+0:33:52,1 --> 0:33:59,3
+And his mum told them that this
+boy was really bad at maths.
+
+
+761
+0:33:59,3 --> 0:34:3,91
+He was not good at school,
+probably had ADHD, and so on.
+
+
+762
+0:34:3,91 --> 0:34:6,1
+And she was kind of
+worried about him.
+
+
+763
+0:34:6,1 --> 0:34:10,129
+And to show that, she
+had given him a trumpet.
+
+
+764
+0:34:10,129 --> 0:34:11,92
+Do you think he was
+playing on the trumpet?
+
+
+765
+0:34:11,92 --> 0:34:12,429
+Not really.
+
+
+766
+0:34:12,429 --> 0:34:14,35
+But what he was doing
+was he was doing
+
+
+767
+0:34:14,35 --> 0:34:16,1
+something called
+fantasy football.
+
+
+768
+0:34:16,1 --> 0:34:17,19
+And we observed that.
+
+
+769
+0:34:17,19 --> 0:34:20,86
+And he was sitting with
+a big piece of paper.
+
+
+770
+0:34:20,86 --> 0:34:24,714
+And then he was in like
+soccer-- so he's going
+
+
+771
+0:34:24,714 --> 0:34:26,79
+and Luftkicker was going--
+and he was coming up
+
+
+772
+0:34:26,79 --> 0:34:29,909
+with these imaginary football
+teams, imaginary players.
+
+
+773
+0:34:29,909 --> 0:34:31,76
+And then he would
+make a statistic,
+
+
+774
+0:34:31,76 --> 0:34:35,32
+after 90 minutes of playing
+the game, about who won.
+
+
+775
+0:34:35,32 --> 0:34:39,63
+But not only that, he would
+also make probabilities of,
+
+
+776
+0:34:39,63 --> 0:34:43,38
+if you put your money on
+Luftkicker against Litana,
+
+
+777
+0:34:43,38 --> 0:34:45,56
+it's probably a nine to one.
+
+
+778
+0:34:45,56 --> 0:34:48,509
+So here's a kid where his
+mom and probably his school
+
+
+779
+0:34:48,509 --> 0:34:51,1
+and all the psychologists
+in the world would say,
+
+
+780
+0:34:51,1 --> 0:34:53,9
+he suffers from attention span.
+
+
+781
+0:34:53,9 --> 0:34:54,96
+He's not good at math.
+
+
+782
+0:34:54,96 --> 0:34:56,86
+We're worried about him.
+
+
+783
+0:34:56,86 --> 0:35:0,6
+But what LEGO discovered
+was that behind all that,
+
+
+784
+0:35:0,6 --> 0:35:4,14
+there was a kid who had so much
+talent and so much mastery.
+
+
+785
+0:35:4,14 --> 0:35:6,8
+It's just nobody was seeing it.
+
+
+786
+0:35:6,8 --> 0:35:9,77
+
+
+
+787
+0:35:9,77 --> 0:35:14,31
+They took this insight
+and really thought about,
+
+
+788
+0:35:14,31 --> 0:35:16,19
+what does it mean for us.
+
+
+789
+0:35:16,19 --> 0:35:19,46
+And basically they
+saw three big things.
+
+
+790
+0:35:19,46 --> 0:35:24,2
+One was kids have mastery
+and they strive for mastery.
+
+
+791
+0:35:24,2 --> 0:35:26,88
+Anything that's difficult
+and complex and deep
+
+
+792
+0:35:26,88 --> 0:35:27,95
+is great for kids.
+
+
+793
+0:35:27,95 --> 0:35:29,94
+The other thing--
+this was the thing
+
+
+794
+0:35:29,94 --> 0:35:31,6
+with the shoe and
+the skateboard--
+
+
+795
+0:35:31,6 --> 0:35:36,1
+is that a lot of kids these
+days are looking for hierarchy.
+
+
+796
+0:35:36,1 --> 0:35:38,97
+I'm meaning, if you
+ask any kid, so who's
+
+
+797
+0:35:38,97 --> 0:35:40,5
+best at maths in your class?
+
+
+798
+0:35:40,5 --> 0:35:42,82
+She will say, oh that's Jim.
+
+
+799
+0:35:42,82 --> 0:35:44,5
+And who's number 17?
+
+
+800
+0:35:44,5 --> 0:35:45,64
+That's Jack.
+
+
+801
+0:35:45,64 --> 0:35:49,59
+Ask any European kid,
+so which Italian player
+
+
+802
+0:35:49,59 --> 0:35:51,25
+scored the most goals
+three years ago?
+
+
+803
+0:35:51,25 --> 0:35:52,79
+They'd know.
+
+
+804
+0:35:52,79 --> 0:35:56,65
+And so we found hierarchies
+everywhere, everywhere.
+
+
+805
+0:35:56,65 --> 0:35:59,88
+So mastery and hierarchy.
+
+
+806
+0:35:59,88 --> 0:36:3,16
+And the last thing
+was the sensation
+
+
+807
+0:36:3,16 --> 0:36:9,61
+of building something big
+and complex and challenging.
+
+
+808
+0:36:9,61 --> 0:36:11,2
+If you looked at
+those three things
+
+
+809
+0:36:11,2 --> 0:36:15,46
+and just think about-- we're
+moving into girls' toys,
+
+
+810
+0:36:15,46 --> 0:36:18,37
+we're moving into toothbrushes,
+violent toys, stories
+
+
+811
+0:36:18,37 --> 0:36:22,3
+with a lot of storytelling,
+and we're move ourselves away
+
+
+812
+0:36:22,3 --> 0:36:24,59
+from the core experience
+of building something,
+
+
+813
+0:36:24,59 --> 0:36:26,7
+creating something.
+
+
+814
+0:36:26,7 --> 0:36:28,53
+And you look at the three
+things that kids really
+
+
+815
+0:36:28,53 --> 0:36:34,25
+need, which is-- mastery,
+hierarchy, and challenges.
+
+
+816
+0:36:34,25 --> 0:36:37,96
+LEGO found, but maybe the
+answer is just right here
+
+
+817
+0:36:37,96 --> 0:36:40,85
+in front of us and
+it's called a brick.
+
+
+818
+0:36:40,85 --> 0:36:43,25
+Because a brick can
+give you mastery.
+
+
+819
+0:36:43,25 --> 0:36:45,84
+A brick can give you hierarchy
+if you've built something
+
+
+820
+0:36:45,84 --> 0:36:47,38
+and show other people.
+
+
+821
+0:36:47,38 --> 0:36:49,89
+And a brick can give
+you a challenge.
+
+
+822
+0:36:49,89 --> 0:36:53,37
+And if there was a way we
+could put that idea into all
+
+
+823
+0:36:53,37 --> 0:36:55,89
+of the things we're
+doing, all the innovations
+
+
+824
+0:36:55,89 --> 0:36:58,4
+we're coming up with, all the
+products we're coming up with,
+
+
+825
+0:36:58,4 --> 0:37:1,41
+the way our shops look, the
+way our digital tools are going
+
+
+826
+0:37:1,41 --> 0:37:6,7
+to look-- and they took
+that very idea of back
+
+
+827
+0:37:6,7 --> 0:37:10,44
+to the brick and mastery,
+hierarchy, and challenges
+
+
+828
+0:37:10,44 --> 0:37:13,64
+and put it into
+their core offerings.
+
+
+829
+0:37:13,64 --> 0:37:17,77
+So they created tools where
+kids could design their own LEGO
+
+
+830
+0:37:17,77 --> 0:37:19,2
+and get it printed, basically.
+
+
+831
+0:37:19,2 --> 0:37:22,92
+They created LEGO games that
+gave you skill and hierarchy
+
+
+832
+0:37:22,92 --> 0:37:26,4
+and they went into the digital
+universe with a much bigger
+
+
+833
+0:37:26,4 --> 0:37:28,78
+precision than
+they could before.
+
+
+834
+0:37:28,78 --> 0:37:32,92
+And if you ask the CEO,
+he says today they're
+
+
+835
+0:37:32,92 --> 0:37:35,2
+number two toy
+company in the world.
+
+
+836
+0:37:35,2 --> 0:37:37,51
+They're really profitable
+and successful.
+
+
+837
+0:37:37,51 --> 0:37:39,46
+And not only because
+of that but also
+
+
+838
+0:37:39,46 --> 0:37:42,345
+because of that-- if you
+ask him, he would say,
+
+
+839
+0:37:42,345 --> 0:37:43,47
+well there are two reasons.
+
+
+840
+0:37:43,47 --> 0:37:47,1
+One is that we basically did
+the hygiene on the company
+
+
+841
+0:37:47,1 --> 0:37:48,751
+and we now have
+cost control and we
+
+
+842
+0:37:48,751 --> 0:37:50,0
+know where we're making money.
+
+
+843
+0:37:50,0 --> 0:37:51,541
+And all that you
+can learn in am MBA.
+
+
+844
+0:37:51,541 --> 0:37:53,29
+So that was one thing.
+
+
+845
+0:37:53,29 --> 0:37:55,3
+And the other thing
+was that now we
+
+
+846
+0:37:55,3 --> 0:37:59,78
+understand why kids
+play-- hierarchy,
+
+
+847
+0:37:59,78 --> 0:38:1,81
+mastery, and challenges.
+
+
+848
+0:38:1,81 --> 0:38:4,72
+And we can put that
+into everything we do.
+
+
+849
+0:38:4,72 --> 0:38:8,61
+OK, so that's the story
+about how to do that.
+
+
+850
+0:38:8,61 --> 0:38:12,84
+And in this book we say there
+is a generic method behind this
+
+
+851
+0:38:12,84 --> 0:38:15,73
+that any company could
+learn, any company can do,
+
+
+852
+0:38:15,73 --> 0:38:16,56
+if you do it right.
+
+
+853
+0:38:16,56 --> 0:38:19,36
+If you start by framing your
+question as a phenomenon,
+
+
+854
+0:38:19,36 --> 0:38:21,5
+then you dig into
+how people really
+
+
+855
+0:38:21,5 --> 0:38:24,85
+are, how they really live, and
+get a thick understand of that.
+
+
+856
+0:38:24,85 --> 0:38:26,674
+Then you find the
+patterns in that and say,
+
+
+857
+0:38:26,674 --> 0:38:28,9
+what are the
+interesting patterns?
+
+
+858
+0:38:28,9 --> 0:38:30,53
+Then you say, what are the
+consequences for our business?
+
+
+859
+0:38:30,53 --> 0:38:32,45
+And then you frame
+that as an idea that
+
+
+860
+0:38:32,45 --> 0:38:34,7
+can create impact
+for your business.
+
+
+861
+0:38:34,7 --> 0:38:36,337
+That's basically the
+simple way of doing it.
+
+
+862
+0:38:36,337 --> 0:38:37,42
+It's really simple to say.
+
+
+863
+0:38:37,42 --> 0:38:39,6
+It's not so easy to do.
+
+
+864
+0:38:39,6 --> 0:38:43,68
+But it is simple to say,
+because I just did it.
+
+
+865
+0:38:43,68 --> 0:38:47,33
+OK so really what
+we are saying is,
+
+
+866
+0:38:47,33 --> 0:38:50,98
+we think that in an age
+of a lot of big data
+
+
+867
+0:38:50,98 --> 0:38:53,73
+and a lot of rational
+thinking, there
+
+
+868
+0:38:53,73 --> 0:38:57,8
+is a need also for getting
+a little bit of humanity
+
+
+869
+0:38:57,8 --> 0:38:59,1
+into business again.
+
+
+870
+0:38:59,1 --> 0:39:2,6
+And there is a science
+of understanding people.
+
+
+871
+0:39:2,6 --> 0:39:4,66
+It's called human science,
+anthropology, social science,
+
+
+872
+0:39:4,66 --> 0:39:7,75
+political science,
+parts of economics,
+
+
+873
+0:39:7,75 --> 0:39:13,18
+literature, linguistics--
+that has 100 to 200 years'
+
+
+874
+0:39:13,18 --> 0:39:14,76
+tradition of
+understanding people.
+
+
+875
+0:39:14,76 --> 0:39:16,74
+And all they're
+really saying is,
+
+
+876
+0:39:16,74 --> 0:39:20,17
+there is something about us
+that's not on the surface,
+
+
+877
+0:39:20,17 --> 0:39:23,1
+they can only be
+discovered if we reveal it.
+
+
+878
+0:39:23,1 --> 0:39:26,15
+And I think that one of the most
+emotional moments of mine when
+
+
+879
+0:39:26,15 --> 0:39:28,59
+I wrote this book was when
+I was listening to a song--
+
+
+880
+0:39:28,59 --> 0:39:31,31
+I write and listen to
+songs at the same time--
+
+
+881
+0:39:31,31 --> 0:39:35,6
+and there was a song
+by Tom Waits which
+
+
+882
+0:39:35,6 --> 0:39:38,4
+is called "San Diego
+Serenade," and he
+
+
+883
+0:39:38,4 --> 0:39:43,92
+sings about how he
+never saw the morning
+
+
+884
+0:39:43,92 --> 0:39:45,65
+until he stayed up all night.
+
+
+885
+0:39:45,65 --> 0:39:47,5
+And I can remember
+that from when
+
+
+886
+0:39:47,5 --> 0:39:49,62
+I was a teenager, the first
+time I went out to a party
+
+
+887
+0:39:49,62 --> 0:39:52,93
+and came home and the bird were
+singing, it was in the summer,
+
+
+888
+0:39:52,93 --> 0:39:55,35
+and I could just
+feel the sensation
+
+
+889
+0:39:55,35 --> 0:39:57,33
+of what a morning really is.
+
+
+890
+0:39:57,33 --> 0:39:58,33
+I never saw that before.
+
+
+891
+0:39:58,33 --> 0:39:59,788
+And that's what
+he's singing about.
+
+
+892
+0:39:59,788 --> 0:40:1,55
+He sings about, I
+never saw the sunshine
+
+
+893
+0:40:1,55 --> 0:40:3,7
+until you turned out the light.
+
+
+894
+0:40:3,7 --> 0:40:6,31
+He says, I never
+saw my home town
+
+
+895
+0:40:6,31 --> 0:40:8,3
+until I stayed away too long.
+
+
+896
+0:40:8,3 --> 0:40:11,2
+And then he's saying,
+I never heard a melody
+
+
+897
+0:40:11,2 --> 0:40:13,39
+until I needed a song.
+
+
+898
+0:40:13,39 --> 0:40:15,5
+And that's the
+very simple message
+
+
+899
+0:40:15,5 --> 0:40:17,93
+that we have for you
+guys, that there is a way
+
+
+900
+0:40:17,93 --> 0:40:21,8
+to get both the top layers
+of our experience as humans
+
+
+901
+0:40:21,8 --> 0:40:23,63
+but also get to
+the deeper layers.
+
+
+902
+0:40:23,63 --> 0:40:26,1
+And both are needed
+in the future.
+
+
+903
+0:40:26,1 --> 0:40:27,166
+Thanks a lot.
+
+
+904
+0:40:27,166 --> 0:40:36,84
+
+
+
+905
+0:40:36,84 --> 0:40:39,31
+CHRISTIAN MADSBJERG:
+What do you do now?
+
+
+906
+0:40:39,31 --> 0:40:39,98
+Any questions?
+
+
+907
+0:40:39,98 --> 0:40:42,694
+
+
+
+908
+0:40:42,694 --> 0:40:43,86
+AUDIENCE: I have a question.
+
+
+909
+0:40:43,86 --> 0:40:45,71
+Hi, thanks for joining us.
+
+
+910
+0:40:45,71 --> 0:40:47,53
+Can you talk a
+little bit about how
+
+
+911
+0:40:47,53 --> 0:40:51,12
+you identify the
+right question to ask?
+
+
+912
+0:40:51,12 --> 0:40:54,23
+So sort of the process
+of getting to the why
+
+
+913
+0:40:54,23 --> 0:40:56,806
+do kids play-- what's that like?
+
+
+914
+0:40:56,806 --> 0:40:59,18
+CHRISTIAN MADSBJERG: See, this
+is a really good question.
+
+
+915
+0:40:59,18 --> 0:41:2,56
+And it's interesting because we
+got that question a few times
+
+
+916
+0:41:2,56 --> 0:41:3,49
+before.
+
+
+917
+0:41:3,49 --> 0:41:7,6
+And the literature
+doesn't reveal anything.
+
+
+918
+0:41:7,6 --> 0:41:10,506
+So our main inspirations,
+which are German philosophers
+
+
+919
+0:41:10,506 --> 0:41:12,13
+basically-- so Martin
+Heidegger-- later
+
+
+920
+0:41:12,13 --> 0:41:17,24
+on French philosophers,
+have no method to this.
+
+
+921
+0:41:17,24 --> 0:41:19,75
+The way we do that is
+we turn it into a verb.
+
+
+922
+0:41:19,75 --> 0:41:22,42
+So we say, what's
+the main, most banal,
+
+
+923
+0:41:22,42 --> 0:41:26,24
+we call average, everyday
+experience that people
+
+
+924
+0:41:26,24 --> 0:41:27,37
+have here.
+
+
+925
+0:41:27,37 --> 0:41:32,85
+And then say, what
+might that be like?
+
+
+926
+0:41:32,85 --> 0:41:36,3
+So we say, what's the average,
+everyday practice that people
+
+
+927
+0:41:36,3 --> 0:41:40,835
+have, and are there
+interesting and juicy questions
+
+
+928
+0:41:40,835 --> 0:41:43,21
+that once you think about it--
+once you think about play,
+
+
+929
+0:41:43,21 --> 0:41:45,17
+I mean, I know kids play.
+
+
+930
+0:41:45,17 --> 0:41:46,85
+But I don't really know why.
+
+
+931
+0:41:46,85 --> 0:41:49,28
+And if we don't know
+why, how can we ever,
+
+
+932
+0:41:49,28 --> 0:41:54,28
+ever produce toys that
+are helpful in that case?
+
+
+933
+0:41:54,28 --> 0:41:57,8
+Why do people work out?
+
+
+934
+0:41:57,8 --> 0:42:2,99
+So it's so dumb and average,
+everyday and intuitive
+
+
+935
+0:42:2,99 --> 0:42:6,709
+that people, in the beginning,
+feel, well what does mean?
+
+
+936
+0:42:6,709 --> 0:42:8,75
+And the way that the
+traditional talks about this
+
+
+937
+0:42:8,75 --> 0:42:10,195
+is as a phenomenon.
+
+
+938
+0:42:10,195 --> 0:42:12,71
+That's also why the
+philosophy behind this
+
+
+939
+0:42:12,71 --> 0:42:14,14
+is called phenomenology.
+
+
+940
+0:42:14,14 --> 0:42:17,69
+So it's-- what's the human
+phenomenon that we can all
+
+
+941
+0:42:17,69 --> 0:42:21,54
+share and all experience and
+that's so close to us that we
+
+
+942
+0:42:21,54 --> 0:42:22,23
+never see it.
+
+
+943
+0:42:22,23 --> 0:42:24,88
+It's like wearing glasses--
+maybe not Google Glasses,
+
+
+944
+0:42:24,88 --> 0:42:32,41
+but any old glasses-- that
+you don't think much about.
+
+
+945
+0:42:32,41 --> 0:42:35,43
+So like I said before,
+when you go out
+
+
+946
+0:42:35,43 --> 0:42:38,87
+to what is called a
+mini kitchen-- which
+
+
+947
+0:42:38,87 --> 0:42:41,88
+is a fairly large kitchen--
+but if you go out there
+
+
+948
+0:42:41,88 --> 0:42:44,53
+and there are many people
+around the coffee machine,
+
+
+949
+0:42:44,53 --> 0:42:45,92
+there would be a line.
+
+
+950
+0:42:45,92 --> 0:42:48,86
+There's somebody that's
+next to get coffee.
+
+
+951
+0:42:48,86 --> 0:42:52,26
+But you only see that
+once somebody breaks it.
+
+
+952
+0:42:52,26 --> 0:42:57,14
+So other than that, it just
+works as our everyday dealings
+
+
+953
+0:42:57,14 --> 0:42:58,48
+in the world.
+
+
+954
+0:42:58,48 --> 0:43:0,75
+And that's exactly what
+we're interested in.
+
+
+955
+0:43:0,75 --> 0:43:3,7
+So we're interested in the
+things that are so everyday
+
+
+956
+0:43:3,7 --> 0:43:6,4
+that we don't see them.
+
+
+957
+0:43:6,4 --> 0:43:12,48
+And there's a German
+filmmaker called
+
+
+958
+0:43:12,48 --> 0:43:17,566
+Wim Wenders that made a movie
+called, "Far away So Close."
+
+
+959
+0:43:17,566 --> 0:43:18,69
+And that's the whole point.
+
+
+960
+0:43:18,69 --> 0:43:22,897
+It's so close to us
+that it's far away.
+
+
+961
+0:43:22,897 --> 0:43:24,98
+And it's because we can't
+think about those things
+
+
+962
+0:43:24,98 --> 0:43:25,55
+all the time.
+
+
+963
+0:43:25,55 --> 0:43:27,425
+You can't think about
+how do I stand in line?
+
+
+964
+0:43:27,425 --> 0:43:28,95
+You just do it.
+
+
+965
+0:43:28,95 --> 0:43:31,87
+Or how do you drive a car--
+if you move to New York City--
+
+
+966
+0:43:31,87 --> 0:43:32,67
+I moved to New York
+City and I'm still
+
+
+967
+0:43:32,67 --> 0:43:35,27
+trying to figure out
+how traffic works here.
+
+
+968
+0:43:35,27 --> 0:43:37,872
+People speed up at the
+wrong times and break at--
+
+
+969
+0:43:37,872 --> 0:43:39,8
+and they get annoyed with me.
+
+
+970
+0:43:39,8 --> 0:43:42,35
+I don't know why they
+get annoyed with me.
+
+
+971
+0:43:42,35 --> 0:43:44,56
+A space between two
+cars is an opportunity
+
+
+972
+0:43:44,56 --> 0:43:48,145
+to get ahead and get to the
+red light as fast as possible.
+
+
+973
+0:43:48,145 --> 0:43:49,27
+AUDIENCE: Just don't drive.
+
+
+974
+0:43:49,27 --> 0:43:50,478
+CHRISTIAN MADSBJERG: Exactly.
+
+
+975
+0:43:50,478 --> 0:43:51,21
+Exactly.
+
+
+976
+0:43:51,21 --> 0:43:53,2
+So places have styles.
+
+
+977
+0:43:53,2 --> 0:43:54,81
+And I guess, in a
+couple of years,
+
+
+978
+0:43:54,81 --> 0:43:56,32
+I might figure
+out how it works .
+
+
+979
+0:43:56,32 --> 0:43:58,36
+And I'll start get
+annoyed with people
+
+
+980
+0:43:58,36 --> 0:43:59,64
+when they break those laws.
+
+
+981
+0:43:59,64 --> 0:44:1,3
+But I don't think
+any of the people
+
+
+982
+0:44:1,3 --> 0:44:3,86
+in the system would
+ever think about,
+
+
+983
+0:44:3,86 --> 0:44:5,78
+what's the style of
+driving in New York City.
+
+
+984
+0:44:5,78 --> 0:44:7,82
+It's just what happens, right?
+
+
+985
+0:44:7,82 --> 0:44:10,49
+And that's exactly
+the object of study.
+
+
+986
+0:44:10,49 --> 0:44:14,15
+So we study familiarity, how
+we are familiar with things.
+
+
+987
+0:44:14,15 --> 0:44:16,54
+And familiarity withdrawals.
+
+
+988
+0:44:16,54 --> 0:44:19,23
+In the sense, the classic
+example is a hammer.
+
+
+989
+0:44:19,23 --> 0:44:21,8
+Hammering-- the
+last thing you want
+
+
+990
+0:44:21,8 --> 0:44:24,87
+to do when you hammer
+is think about it.
+
+
+991
+0:44:24,87 --> 0:44:28,97
+You want to be-- you will
+hit your hand and so on.
+
+
+992
+0:44:28,97 --> 0:44:31,84
+And that is when hammers
+are most hammers,
+
+
+993
+0:44:31,84 --> 0:44:34,94
+is when they are engaged with
+skillful people using it.
+
+
+994
+0:44:34,94 --> 0:44:36,59
+That's when hammers
+reveal themselves.
+
+
+995
+0:44:36,59 --> 0:44:38,43
+You can also look at
+the properties and say,
+
+
+996
+0:44:38,43 --> 0:44:41,321
+it has a wooden shank and
+a metal blob at the end
+
+
+997
+0:44:41,321 --> 0:44:41,82
+and so on.
+
+
+998
+0:44:41,82 --> 0:44:44,25
+You can decode it from a
+natural science perspective,
+
+
+999
+0:44:44,25 --> 0:44:45,99
+how much it weighs and so on.
+
+
+1000
+0:44:45,99 --> 0:44:49,98
+But it doesn't weight anything,
+except if it's too heavy.
+
+
+1001
+0:44:49,98 --> 0:44:52,85
+It's just perfect
+when you use it.
+
+
+1002
+0:44:52,85 --> 0:44:56,92
+In that sense, the hammer
+withdraws from our experience.
+
+
+1003
+0:44:56,92 --> 0:45:0,92
+And hammering becomes the
+experience, in a sense, right?
+
+
+1004
+0:45:0,92 --> 0:45:2,2
+Does that answer the question?
+
+
+1005
+0:45:2,2 --> 0:45:3,5
+OK, good.
+
+
+1006
+0:45:3,5 --> 0:45:4,496
+So again, familiarity.
+
+
+1007
+0:45:4,496 --> 0:45:7,4
+AUDIENCE: All right, so
+a question from here.
+
+
+1008
+0:45:7,4 --> 0:45:10,3
+So when I was
+listening to your talk,
+
+
+1009
+0:45:10,3 --> 0:45:13,21
+first with the example
+of the kitchen and later
+
+
+1010
+0:45:13,21 --> 0:45:15,97
+with the LEGO example, I
+noticed that the examples
+
+
+1011
+0:45:15,97 --> 0:45:18,56
+were all very male centric.
+
+
+1012
+0:45:18,56 --> 0:45:20,38
+They were about soccer.
+
+
+1013
+0:45:20,38 --> 0:45:24,98
+All the kids in
+question were all boys.
+
+
+1014
+0:45:24,98 --> 0:45:28,26
+So which made me think, when
+you're doing this process
+
+
+1015
+0:45:28,26 --> 0:45:29,94
+and you're asking
+about the why, how
+
+
+1016
+0:45:29,94 --> 0:45:35,83
+do you guard against
+your implicit biases
+
+
+1017
+0:45:35,83 --> 0:45:39,34
+finding only part of the answer.
+
+
+1018
+0:45:39,34 --> 0:45:42,58
+CHRISTIAN MADSBJERG: So that's
+a methodological question
+
+
+1019
+0:45:42,58 --> 0:45:44,34
+that you can't get out of.
+
+
+1020
+0:45:44,34 --> 0:45:46,19
+And it's called the
+hermeneutic circle.
+
+
+1021
+0:45:46,19 --> 0:45:49,33
+It's basically, in order
+to understand something,
+
+
+1022
+0:45:49,33 --> 0:45:53,215
+you need to use yourself
+and your own experience.
+
+
+1023
+0:45:53,215 --> 0:45:56,36
+A Shakespeare comedy
+isn't funny unless you
+
+
+1024
+0:45:56,36 --> 0:45:58,19
+use your own experience.
+
+
+1025
+0:45:58,19 --> 0:46:1,31
+Because-- yeah well,
+that's obvious.
+
+
+1026
+0:46:1,31 --> 0:46:4,7
+So the way that
+we try to do this
+
+
+1027
+0:46:4,7 --> 0:46:8,64
+is to work with our
+biases, be aware of them
+
+
+1028
+0:46:8,64 --> 0:46:11,3
+and try to adjust for
+them as much as you can,
+
+
+1029
+0:46:11,3 --> 0:46:14,1
+but accepting that you
+can never-- there is
+
+
+1030
+0:46:14,1 --> 0:46:16,93
+no view from nowhere
+when you study people.
+
+
+1031
+0:46:16,93 --> 0:46:19,22
+When you study quarks and
+atoms and bits and bytes
+
+
+1032
+0:46:19,22 --> 0:46:21,23
+or something like that,
+there is a view from nowhere.
+
+
+1033
+0:46:21,23 --> 0:46:23,271
+And the natural sciences
+is a pretty good example
+
+
+1034
+0:46:23,271 --> 0:46:24,95
+and a very successful
+example of that.
+
+
+1035
+0:46:24,95 --> 0:46:27,7
+But for human
+sciences, your insight,
+
+
+1036
+0:46:27,7 --> 0:46:30,76
+the interpretation yourself,
+so you have to work with it
+
+
+1037
+0:46:30,76 --> 0:46:34,11
+and be honest, basically, about
+your own biases and so on.
+
+
+1038
+0:46:34,11 --> 0:46:37,92
+Now we just did a study
+about women and drinking,
+
+
+1039
+0:46:37,92 --> 0:46:41,57
+which are two very
+exciting topics.
+
+
+1040
+0:46:41,57 --> 0:46:45,26
+And we found that women
+are starting going out,
+
+
+1041
+0:46:45,26 --> 0:46:47,6
+in places like
+Russia, China, Brazil,
+
+
+1042
+0:46:47,6 --> 0:46:51,54
+where they never, ever went out
+with their friends and so on.
+
+
+1043
+0:46:51,54 --> 0:46:53,75
+And it turns out it
+freaks out the men.
+
+
+1044
+0:46:53,75 --> 0:46:56,22
+They sit at home and don't
+know really what to do.
+
+
+1045
+0:46:56,22 --> 0:47:0,8
+And a whole new
+culture is starting,
+
+
+1046
+0:47:0,8 --> 0:47:2,98
+especially in Asia
+it's quite prevalent
+
+
+1047
+0:47:2,98 --> 0:47:5,93
+and it's a whole new
+market and so on.
+
+
+1048
+0:47:5,93 --> 0:47:8,46
+So it's not just men we study.
+
+
+1049
+0:47:8,46 --> 0:47:11,19
+I guess the examples were
+biased in that direction.
+
+
+1050
+0:47:11,19 --> 0:47:13,49
+But in that case, you
+need to, again, work
+
+
+1051
+0:47:13,49 --> 0:47:15,9
+with your own assumptions
+and your own biases
+
+
+1052
+0:47:15,9 --> 0:47:17,74
+as much as you can.
+
+
+1053
+0:47:17,74 --> 0:47:20,186
+And there is no
+view from nowhere.
+
+
+1054
+0:47:20,186 --> 0:47:21,12
+[INAUDIBLE]
+
+
+1055
+0:47:21,12 --> 0:47:22,745
+MIKKEL RASMUSSEN:
+When Christian talked
+
+
+1056
+0:47:22,745 --> 0:47:25,59
+he talked about three things
+you need and one of the last one
+
+
+1057
+0:47:25,59 --> 0:47:28,37
+was called non-linear
+problem solving.
+
+
+1058
+0:47:28,37 --> 0:47:31,1
+And it basically means exactly
+what you are talking about now,
+
+
+1059
+0:47:31,1 --> 0:47:35,22
+which is you cannot take your
+own ideas out of the picture.
+
+
+1060
+0:47:35,22 --> 0:47:38,89
+That means this type
+of analysis will never
+
+
+1061
+0:47:38,89 --> 0:47:42,97
+be a completely 100% percent
+exact analysis of how it always
+
+
+1062
+0:47:42,97 --> 0:47:43,48
+will be.
+
+
+1063
+0:47:43,48 --> 0:47:47,13
+It will be a hunch about
+how something works.
+
+
+1064
+0:47:47,13 --> 0:47:49,28
+Like when you go
+in and see a movie,
+
+
+1065
+0:47:49,28 --> 0:47:51,8
+and you talk about
+it afterwards,
+
+
+1066
+0:47:51,8 --> 0:47:53,67
+you have an interpretation
+of that movie.
+
+
+1067
+0:47:53,67 --> 0:47:56,4
+But we are saying
+is if a company can
+
+
+1068
+0:47:56,4 --> 0:48:0,6
+have a conversation about the
+customers they are serving
+
+
+1069
+0:48:0,6 --> 0:48:3,62
+and start making interpretations
+based on deep data,
+
+
+1070
+0:48:3,62 --> 0:48:6,96
+it's much, much better
+than having a numbers-based
+
+
+1071
+0:48:6,96 --> 0:48:10,25
+and very thin data because
+it gives them an insight.
+
+
+1072
+0:48:10,25 --> 0:48:12,0
+But you have to place a bet.
+
+
+1073
+0:48:12,0 --> 0:48:14,34
+It's not like a one-to-one
+where you can say,
+
+
+1074
+0:48:14,34 --> 0:48:15,47
+oh they all have red shoes.
+
+
+1075
+0:48:15,47 --> 0:48:16,48
+Let's make red shoes.
+
+
+1076
+0:48:16,48 --> 0:48:17,59
+It's not like that.
+
+
+1077
+0:48:17,59 --> 0:48:18,74
+I hope that makes sense.
+
+
+1078
+0:48:18,74 --> 0:48:22,25
+CHRISTIAN MADSBJERG: Yeah, and
+you can say that there's-- you
+
+
+1079
+0:48:22,25 --> 0:48:24,13
+can go to school.
+
+
+1080
+0:48:24,13 --> 0:48:27,9
+And anthropology is
+a tradition that's
+
+
+1081
+0:48:27,9 --> 0:48:31,25
+100 years old which is
+about understanding culture.
+
+
+1082
+0:48:31,25 --> 0:48:35,72
+And just like you wouldn't ask
+somebody that's not an engineer
+
+
+1083
+0:48:35,72 --> 0:48:37,98
+to build a bridge, it
+can be helpful to have
+
+
+1084
+0:48:37,98 --> 0:48:42,21
+that kind of training if you
+want to do cultural analysis.
+
+
+1085
+0:48:42,21 --> 0:48:45,59
+But that doesn't give them--
+anthropologists-- a view
+
+
+1086
+0:48:45,59 --> 0:48:50,286
+from nowhere, either, in the
+sense of natural sciences.
+
+
+1087
+0:48:50,286 --> 0:48:51,21
+Oh, sorry.
+
+
+1088
+0:48:51,21 --> 0:48:52,9
+AUDIENCE: Sorry.
+
+
+1089
+0:48:52,9 --> 0:48:53,18
+When you guys are
+working with leaders
+
+
+1090
+0:48:53,18 --> 0:48:55,704
+who are so focused on the bottom
+line, what's the persuasion
+
+
+1091
+0:48:55,704 --> 0:48:58,12
+conversation like to say,
+you're focused on this question,
+
+
+1092
+0:48:58,12 --> 0:49:0,98
+but the actual one
+is like, why play,
+
+
+1093
+0:49:0,98 --> 0:49:2,92
+instead of how to
+make more money?
+
+
+1094
+0:49:2,92 --> 0:49:5,72
+CHRISTIAN MADSBJERG: So,
+first of all, it works.
+
+
+1095
+0:49:5,72 --> 0:49:8,32
+That tends to help.
+
+
+1096
+0:49:8,32 --> 0:49:11,74
+But it feels
+intellectual to them.
+
+
+1097
+0:49:11,74 --> 0:49:14,165
+It feels non-familiar.
+
+
+1098
+0:49:14,165 --> 0:49:15,54
+It doesn't feel
+familiar to start
+
+
+1099
+0:49:15,54 --> 0:49:19,89
+talking about lived experience
+in this kind of complex way.
+
+
+1100
+0:49:19,89 --> 0:49:24,0
+But if they're in enough
+trouble, they tend to listen.
+
+
+1101
+0:49:24,0 --> 0:49:27,81
+So a healthy crisis
+is always a good sign.
+
+
+1102
+0:49:27,81 --> 0:49:31,0
+And you can say that the LEGO
+company had, at that point
+
+
+1103
+0:49:31,0 --> 0:49:34,78
+that we're talking about here,
+lost around $300,000 a day
+
+
+1104
+0:49:34,78 --> 0:49:36,4
+for 10 years.
+
+
+1105
+0:49:36,4 --> 0:49:39,225
+That makes people start
+listening a little bit.
+
+
+1106
+0:49:39,225 --> 0:49:44,78
+And it's a private company so
+it's-- they were in trouble,
+
+
+1107
+0:49:44,78 --> 0:49:46,27
+so that tends to help.
+
+
+1108
+0:49:46,27 --> 0:49:46,67
+MIKKEL RASMUSSEN:
+I also think we've
+
+
+1109
+0:49:46,67 --> 0:49:49,28
+experienced, when we talk
+especially to people pretty
+
+
+1110
+0:49:49,28 --> 0:49:51,81
+high up, that there's a kind
+of fatigue with the tools
+
+
+1111
+0:49:51,81 --> 0:49:52,9
+they have available.
+
+
+1112
+0:49:52,9 --> 0:49:55,605
+There's a fatigue with
+the way strategy is done,
+
+
+1113
+0:49:55,605 --> 0:49:57,68
+the over-quantification
+of everything,
+
+
+1114
+0:49:57,68 --> 0:50:1,17
+the million PowerPoint show,
+how all the strategies end up
+
+
+1115
+0:50:1,17 --> 0:50:4,64
+with the same idea that
+we need to fight our core,
+
+
+1116
+0:50:4,64 --> 0:50:6,39
+we need to go into
+new areas, and we
+
+
+1117
+0:50:6,39 --> 0:50:7,619
+need to build capabilities.
+
+
+1118
+0:50:7,619 --> 0:50:8,91
+It's always those three things.
+
+
+1119
+0:50:8,91 --> 0:50:11,326
+It doesn't matter whether it's
+soap or [? tennis cases ?].
+
+
+1120
+0:50:11,326 --> 0:50:12,84
+It's the same strategy.
+
+
+1121
+0:50:12,84 --> 0:50:15,66
+And we can sense
+that there's time
+
+
+1122
+0:50:15,66 --> 0:50:21,7
+where those discussions-- and I
+think many leaders are looking
+
+
+1123
+0:50:21,7 --> 0:50:23,48
+for something new, something
+that is deeper and more
+
+
+1124
+0:50:23,48 --> 0:50:25,34
+inspirational,
+basically, I think.
+
+
+1125
+0:50:25,34 --> 0:50:26,881
+CHRISTIAN MADSBJERG:
+And I would say,
+
+
+1126
+0:50:26,881 --> 0:50:30,11
+I'm surprised by how complex
+thinkers some of these leaders
+
+
+1127
+0:50:30,11 --> 0:50:31,89
+are, actually.
+
+
+1128
+0:50:31,89 --> 0:50:33,18
+Which is a nice thing.
+
+
+1129
+0:50:33,18 --> 0:50:36,274
+That if you are at
+that level, there's
+
+
+1130
+0:50:36,274 --> 0:50:37,69
+a reason why you're
+at that level.
+
+
+1131
+0:50:37,69 --> 0:50:42,0
+And you have bandwidth enough
+to deal with many things
+
+
+1132
+0:50:42,0 --> 0:50:44,29
+at the same time.
+
+
+1133
+0:50:44,29 --> 0:50:45,79
+So that's very
+positive, in a sense.
+
+
+1134
+0:50:45,79 --> 0:50:47,13
+Thank you.
+
+
+1135
+0:50:47,13 --> 0:50:47,71
+MIKKEL RASMUSSEN:
+You have a question.
+
+
+1136
+0:50:47,71 --> 0:50:49,876
+AUDIENCE: Yeah, so my
+question is around thick data.
+
+
+1137
+0:50:49,876 --> 0:50:55,74
+And I think guys describe
+qualitatively what
+
+
+1138
+0:50:55,74 --> 0:50:58,12
+it was, I guess,
+in your own style.
+
+
+1139
+0:50:58,12 --> 0:51:2,25
+But before you had
+this dichotomy of it's
+
+
+1140
+0:51:2,25 --> 0:51:5,15
+not focus groups, it's
+not explicit questions,
+
+
+1141
+0:51:5,15 --> 0:51:9,36
+it's a little more tacit
+or a little more subtle.
+
+
+1142
+0:51:9,36 --> 0:51:12,43
+And I was wondering
+how do you go
+
+
+1143
+0:51:12,43 --> 0:51:14,52
+about collecting
+that thick data?
+
+
+1144
+0:51:14,52 --> 0:51:15,99
+Or what's that process like?
+
+
+1145
+0:51:15,99 --> 0:51:19,28
+Because it seems more subtle
+and a little more responsive
+
+
+1146
+0:51:19,28 --> 0:51:20,32
+to the environment.
+
+
+1147
+0:51:20,32 --> 0:51:24,35
+And for example, with the
+playing with kids example,
+
+
+1148
+0:51:24,35 --> 0:51:28,42
+it wasn't just observing
+them or taking notes
+
+
+1149
+0:51:28,42 --> 0:51:31,14
+but it was also the process
+of actually playing with them
+
+
+1150
+0:51:31,14 --> 0:51:33,88
+and maybe putting yourself
+in their shoes a little bit.
+
+
+1151
+0:51:33,88 --> 0:51:35,87
+So I was wondering if
+you have any thoughts
+
+
+1152
+0:51:35,87 --> 0:51:38,34
+about that methodology
+on a larger scale.
+
+
+1153
+0:51:38,34 --> 0:51:40,7
+CHRISTIAN MADSBJERG:
+So anthropology
+
+
+1154
+0:51:40,7 --> 0:51:45,61
+has developed a tools set called
+ethnographic data gathering
+
+
+1155
+0:51:45,61 --> 0:51:48,27
+from the 1920s and on.
+
+
+1156
+0:51:48,27 --> 0:51:51,2
+And it's basically
+largely misunderstood
+
+
+1157
+0:51:51,2 --> 0:51:52,18
+in business today.
+
+
+1158
+0:51:52,18 --> 0:51:56,94
+Because it means in-house,
+in-context interviews.
+
+
+1159
+0:51:56,94 --> 0:51:58,53
+So interview is
+one thing and what
+
+
+1160
+0:51:58,53 --> 0:52:1,67
+we say and so on is important,
+but it's also important
+
+
+1161
+0:52:1,67 --> 0:52:2,54
+what we do.
+
+
+1162
+0:52:2,54 --> 0:52:4,19
+And so what we
+normally is say is,
+
+
+1163
+0:52:4,19 --> 0:52:6,63
+we're not interested
+in people, really.
+
+
+1164
+0:52:6,63 --> 0:52:8,39
+We're interested in worlds.
+
+
+1165
+0:52:8,39 --> 0:52:11,49
+And a world has people
+in it, for sure.
+
+
+1166
+0:52:11,49 --> 0:52:13,59
+So let's say the
+world of cooking,
+
+
+1167
+0:52:13,59 --> 0:52:17,6
+or the world of business,
+or the world of Google.
+
+
+1168
+0:52:17,6 --> 0:52:19,25
+They're all-- or the art world.
+
+
+1169
+0:52:19,25 --> 0:52:22,385
+They all have--
+it's not a thing.
+
+
+1170
+0:52:22,385 --> 0:52:23,85
+The art world is not a thing.
+
+
+1171
+0:52:23,85 --> 0:52:26,78
+It consists of galleries
+and artists and pencils
+
+
+1172
+0:52:26,78 --> 0:52:30,48
+and paper and canvases
+and all sorts of things.
+
+
+1173
+0:52:30,48 --> 0:52:33,25
+And it has roles in there,
+so people that feel they're
+
+
+1174
+0:52:33,25 --> 0:52:34,27
+artists.
+
+
+1175
+0:52:34,27 --> 0:52:35,66
+And it has identities.
+
+
+1176
+0:52:35,66 --> 0:52:36,9
+And it has money.
+
+
+1177
+0:52:36,9 --> 0:52:38,5
+It has all sorts of things.
+
+
+1178
+0:52:38,5 --> 0:52:41,46
+In order to understand
+a world, you
+
+
+1179
+0:52:41,46 --> 0:52:43,23
+need a hook into that world.
+
+
+1180
+0:52:43,23 --> 0:52:45,37
+And the way we do that
+is through getting
+
+
+1181
+0:52:45,37 --> 0:52:48,58
+people and seeing how
+they deal with things
+
+
+1182
+0:52:48,58 --> 0:52:50,72
+and how they do the
+things that they do.
+
+
+1183
+0:52:50,72 --> 0:52:52,58
+So it's not that
+they can-- I mean,
+
+
+1184
+0:52:52,58 --> 0:52:54,24
+they always lie to themselves.
+
+
+1185
+0:52:54,24 --> 0:52:56,84
+We all like to ourselves
+all the time about,
+
+
+1186
+0:52:56,84 --> 0:52:59,33
+I need to cook for my
+children all the time
+
+
+1187
+0:52:59,33 --> 0:53:0,98
+and then I can't find
+my pots and pans.
+
+
+1188
+0:53:0,98 --> 0:53:2,73
+That sort of situation.
+
+
+1189
+0:53:2,73 --> 0:53:6,41
+And we just try to cut
+through that by saying,
+
+
+1190
+0:53:6,41 --> 0:53:10,38
+individuals are less
+interesting than worlds,
+
+
+1191
+0:53:10,38 --> 0:53:11,64
+the worlds of people.
+
+
+1192
+0:53:11,64 --> 0:53:13,43
+So what we study
+is not individuals.
+
+
+1193
+0:53:13,43 --> 0:53:15,34
+It's world.
+
+
+1194
+0:53:15,34 --> 0:53:17,152
+So in a sense--
+Margaret Thatcher
+
+
+1195
+0:53:17,152 --> 0:53:19,11
+used to say, there is no
+such thing as society,
+
+
+1196
+0:53:19,11 --> 0:53:19,78
+only individuals.
+
+
+1197
+0:53:19,78 --> 0:53:20,946
+We say the other way around.
+
+
+1198
+0:53:20,946 --> 0:53:24,13
+We say there is no such thing
+as individuals, only societies.
+
+
+1199
+0:53:24,13 --> 0:53:27,6
+You are what you do and
+the way you do it, but also
+
+
+1200
+0:53:27,6 --> 0:53:29,21
+because of all these
+other people that
+
+
+1201
+0:53:29,21 --> 0:53:30,35
+deeply influence you.
+
+
+1202
+0:53:30,35 --> 0:53:33,201
+And you might feel that you
+have rational decisions on what
+
+
+1203
+0:53:33,201 --> 0:53:33,7
+you do.
+
+
+1204
+0:53:33,7 --> 0:53:34,852
+But you don't.
+
+
+1205
+0:53:34,852 --> 0:53:37,31
+You make all sorts of decisions
+because of your surrounding
+
+
+1206
+0:53:37,31 --> 0:53:40,552
+and because the world you're in.
+
+
+1207
+0:53:40,552 --> 0:53:42,69
+Heidegger calls it the one.
+
+
+1208
+0:53:42,69 --> 0:53:44,78
+One does this and one does that.
+
+
+1209
+0:53:44,78 --> 0:53:46,44
+That's most of the time.
+
+
+1210
+0:53:46,44 --> 0:53:48,216
+We do things because
+that's what one does.
+
+
+1211
+0:53:48,216 --> 0:53:49,34
+One gets up in the morning.
+
+
+1212
+0:53:49,34 --> 0:53:51,37
+One asks questions
+when it's uncomfortable
+
+
+1213
+0:53:51,37 --> 0:53:54,29
+that nobody's asked questions--
+that sort of situation.
+
+
+1214
+0:53:54,29 --> 0:53:56,3
+And that's exactly
+what we study.
+
+
+1215
+0:53:56,3 --> 0:54:0,89
+We study how people
+live in worlds
+
+
+1216
+0:54:0,89 --> 0:54:3,66
+and how those worlds interact
+with them, in a sense.
+
+
+1217
+0:54:3,66 --> 0:54:7,425
+So it's observational, but it's
+with a theoretical framework
+
+
+1218
+0:54:7,425 --> 0:54:9,752
+behind it, in a sense.
+
+
+1219
+0:54:9,752 --> 0:54:10,46
+AUDIENCE: Thanks.
+
+
+1220
+0:54:10,46 --> 0:54:11,63
+CHRISTIAN MADSBJERG: Did
+I answer the question?
+
+
+1221
+0:54:11,63 --> 0:54:12,588
+AUDIENCE: Yeah, thanks.
+
+
+1222
+0:54:12,588 --> 0:54:16,97
+CHRISTIAN MADSBJERG:
+Great, thanks Good?
+
+
+1223
+0:54:16,97 --> 0:54:18,75
+Thank you.
+
+
+1224
+0:54:18,75 --> 0:56:18,75
+
+
+

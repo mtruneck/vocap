@@ -1,0 +1,634 @@
+1
+0:0:0,0 --> 0:0:5,225
+
+
+
+2
+0:0:5,225 --> 0:0:17,248
+[MUSIC PLAYING]
+
+
+3
+0:0:17,248 --> 0:0:20,68
+MICHAEL HOLSTINE: We're standing
+on top of level four
+
+
+4
+0:0:20,68 --> 0:0:24,62
+of the Green Bank Telescope,
+the largest fully steerable
+
+
+5
+0:0:24,62 --> 0:0:27,22
+radio telescope in the world.
+
+
+6
+0:0:27,22 --> 0:0:30,96
+We're standing directly under
+the reflector for the main
+
+
+7
+0:0:30,96 --> 0:0:35,2
+structure, which is
+2.4 acres in size.
+
+
+8
+0:0:35,2 --> 0:0:48,96
+
+
+
+9
+0:0:48,96 --> 0:0:50,81
+KAREN O'NEIL: Radio astronomy
+started back in
+
+
+10
+0:0:50,81 --> 0:0:52,48
+the 1920s and '30s.
+
+
+11
+0:0:52,48 --> 0:0:54,41
+It really got its start when
+people were surveying the
+
+
+12
+0:0:54,41 --> 0:0:57,41
+radio sky to understand noise
+that they were seeing within
+
+
+13
+0:0:57,41 --> 0:0:58,76
+their own radio observations.
+
+
+14
+0:0:58,76 --> 0:1:1,43
+And they began to realize that
+that radio noise was actually
+
+
+15
+0:1:1,43 --> 0:1:4,42
+coming from outer space, from
+the sun, from the stars, and
+
+
+16
+0:1:4,42 --> 0:1:6,88
+from the distant galaxies
+that we see out there.
+
+
+17
+0:1:6,88 --> 0:1:8,79
+And so with that became the
+field of radio astronomy.
+
+
+18
+0:1:8,79 --> 0:1:12,21
+And that grew and grew until
+eventually, in the 1950s--
+
+
+19
+0:1:12,21 --> 0:1:13,26
+1956--
+
+
+20
+0:1:13,26 --> 0:1:15,54
+the United States realized that
+if we were going to be a
+
+
+21
+0:1:15,54 --> 0:1:18,85
+player in this new field of
+science, we needed to build a
+
+
+22
+0:1:18,85 --> 0:1:21,7
+national radio astronomy
+facility.
+
+
+23
+0:1:21,7 --> 0:1:23,71
+When they decided to build a
+national radio astronomy
+
+
+24
+0:1:23,71 --> 0:1:26,14
+facility, they began looking
+around the country to
+
+
+25
+0:1:26,14 --> 0:1:29,28
+determine where the best site
+for that facility would be.
+
+
+26
+0:1:29,28 --> 0:1:30,56
+And they had a lot of different
+
+
+27
+0:1:30,56 --> 0:1:31,49
+criteria in that decision.
+
+
+28
+0:1:31,49 --> 0:1:34,2
+But one of the biggest, and
+possibly most important in the
+
+
+29
+0:1:34,2 --> 0:1:37,4
+long run, was they wanted an
+area where radio frequency
+
+
+30
+0:1:37,4 --> 0:1:38,23
+interference was minimal.
+
+
+31
+0:1:38,23 --> 0:1:42,8
+MICHAEL HOLSTINE: You can
+imagine, in 1958 there were no
+
+
+32
+0:1:42,8 --> 0:1:45,65
+wireless communications
+to speak of.
+
+
+33
+0:1:45,65 --> 0:1:49,3
+But in the last 10 to
+15 years, wireless
+
+
+34
+0:1:49,3 --> 0:1:51,19
+technology has exploded.
+
+
+35
+0:1:51,19 --> 0:1:53,82
+Everyone has a cell phone.
+
+
+36
+0:1:53,82 --> 0:1:57,28
+And now simply because the
+telescope is so sensitive
+
+
+37
+0:1:57,28 --> 0:2:0,79
+that, for instance, your cell
+phone that you're so attached
+
+
+38
+0:2:0,79 --> 0:2:5,15
+to, if it, alone, that single
+cell phone, were placed on
+
+
+39
+0:2:5,15 --> 0:2:8,669
+Mars, for instance, it would be
+the brightest radio object
+
+
+40
+0:2:8,669 --> 0:2:10,759
+in the sky to us.
+
+
+41
+0:2:10,759 --> 0:2:14,97
+So we have to figure out a way
+to allow communications,
+
+
+42
+0:2:14,97 --> 0:2:19,21
+particularly for emergency
+medical purposes, and still
+
+
+43
+0:2:19,21 --> 0:2:22,25
+protect the data that the
+observer is trying to receive.
+
+
+44
+0:2:22,25 --> 0:2:39,19
+
+
+
+45
+0:2:39,19 --> 0:2:43,28
+So from this point on, beyond
+this gate, we require that a
+
+
+46
+0:2:43,28 --> 0:2:47,36
+diesel engine only
+travel down here.
+
+
+47
+0:2:47,36 --> 0:2:52,85
+And you can see the "no
+spark plug" sign.
+
+
+48
+0:2:52,85 --> 0:2:57,0
+We design, build, and
+run these extremely
+
+
+49
+0:2:57,0 --> 0:3:0,1
+technologically advanced
+instruments.
+
+
+50
+0:3:0,1 --> 0:3:4,64
+But here, on site, we can't
+use the technology that
+
+
+51
+0:3:4,64 --> 0:3:7,296
+everyone else is
+used to using.
+
+
+52
+0:3:7,296 --> 0:3:8,81
+We don't have cellphones.
+
+
+53
+0:3:8,81 --> 0:3:10,435
+We don't have microwave ovens.
+
+
+54
+0:3:10,435 --> 0:3:13,71
+
+
+
+55
+0:3:13,71 --> 0:3:18,96
+There are a few people that are
+upset that they can't have
+
+
+56
+0:3:18,96 --> 0:3:23,24
+the conveniences that
+maybe their aunt and
+
+
+57
+0:3:23,24 --> 0:3:26,53
+uncle in Ohio have.
+
+
+58
+0:3:26,53 --> 0:3:30,45
+But again, we try to find a way
+to work with those people
+
+
+59
+0:3:30,45 --> 0:3:34,31
+to provide them what they would
+like to have without
+
+
+60
+0:3:34,31 --> 0:3:37,768
+having the wireless
+be part of it.
+
+
+61
+0:3:37,768 --> 0:3:44,164
+[MUSIC PLAYING]
+
+
+62
+0:3:44,164 --> 0:3:46,45
+KAREN O'NEIL: When the GBT came
+along, it's not just very
+
+
+63
+0:3:46,45 --> 0:3:49,15
+sensitive, but it has a very
+wide frequency range.
+
+
+64
+0:3:49,15 --> 0:3:52,53
+That is, we can look at
+wavelengths from many, many
+
+
+65
+0:3:52,53 --> 0:3:55,2
+meters down to things that are
+just three millimeters in
+
+
+66
+0:3:55,2 --> 0:3:57,1
+wavelength, so very,
+very small.
+
+
+67
+0:3:57,1 --> 0:3:59,73
+And with that came the idea of
+well, let's just use this
+
+
+68
+0:3:59,73 --> 0:4:2,2
+incredibly sensitive telescope
+with its incredibly wide
+
+
+69
+0:4:2,2 --> 0:4:4,57
+frequency range and go see what
+we could find out there.
+
+
+70
+0:4:4,57 --> 0:4:6,5
+So they pointed the telescope
+into areas where you can
+
+
+71
+0:4:6,5 --> 0:4:8,72
+expect to find complex
+molecules, like
+
+
+72
+0:4:8,72 --> 0:4:10,6
+star formation areas.
+
+
+73
+0:4:10,6 --> 0:4:12,21
+And they found very, very
+complex molecules, more
+
+
+74
+0:4:12,21 --> 0:4:14,82
+complex than anybody would
+have imagined, up to very
+
+
+75
+0:4:14,82 --> 0:4:15,89
+basic sugars in space.
+
+
+76
+0:4:15,89 --> 0:4:17,85
+So that tells us that the
+building blocks of life are
+
+
+77
+0:4:17,85 --> 0:4:19,26
+everywhere out there.
+
+
+78
+0:4:19,26 --> 0:4:23,11
+As Douglas Adams said,
+the universe is huge.
+
+
+79
+0:4:23,11 --> 0:4:26,38
+It's mind-bogglingly huge.
+
+
+80
+0:4:26,38 --> 0:4:29,48
+And we're already discovering
+stars that have other
+
+
+81
+0:4:29,48 --> 0:4:33,9
+planetary systems, very much
+like our own Earth, here in
+
+
+82
+0:4:33,9 --> 0:4:35,7
+our own galaxy.
+
+
+83
+0:4:35,7 --> 0:4:38,32
+There absolutely is
+life out there.
+
+
+84
+0:4:38,32 --> 0:4:42,74
+I would even go as far to say as
+I think there's intelligent
+
+
+85
+0:4:42,74 --> 0:4:46,319
+life out there.
+
+
+86
+0:4:46,319 --> 0:4:48,43
+KAREN O'NEIL: The bigger
+question is, even if the
+
+
+87
+0:4:48,43 --> 0:4:50,77
+universe is teeming with
+intelligent life, are we going
+
+
+88
+0:4:50,77 --> 0:4:52,33
+to be able to detect
+it in our lifetime?
+
+
+89
+0:4:52,33 --> 0:4:54,79
+That's an incredibly difficult
+feat to do.
+
+
+90
+0:4:54,79 --> 0:4:59,35
+
+
+
+91
+0:4:59,35 --> 0:5:3,3
+MICHAEL HOLSTINE: We are, with a
+certain suite of instruments
+
+
+92
+0:5:3,3 --> 0:5:8,12
+here right now, at least
+trying to reach back to
+
+
+93
+0:5:8,12 --> 0:5:10,78
+milliseconds after the
+Big Bang occurred.
+
+
+94
+0:5:10,78 --> 0:5:16,36
+And we're looking at the epic
+of re-ionization, when there
+
+
+95
+0:5:16,36 --> 0:5:20,67
+started to be a coalescence
+of material.
+
+
+96
+0:5:20,67 --> 0:5:26,85
+Once you have star creation, you
+have a long laundry list
+
+
+97
+0:5:26,85 --> 0:5:31,9
+of things that, at least for
+us, end up into human
+
+
+98
+0:5:31,9 --> 0:5:35,39
+creation, because we're all
+made of the stuff that the
+
+
+99
+0:5:35,39 --> 0:5:37,42
+stars produce.
+
+
+100
+0:5:37,42 --> 0:5:41,27
+So it's a very interesting
+thing to watch.
+
+
+101
+0:5:41,27 --> 0:5:43,7
+I really think there was
+something before
+
+
+102
+0:5:43,7 --> 0:5:45,11
+the Big Bang, too.
+
+
+103
+0:5:45,11 --> 0:5:51,4
+I think that there may have been
+many big bangs, because
+
+
+104
+0:5:51,4 --> 0:5:57,4
+the logic, for me, is there
+that it occurred.
+
+
+105
+0:5:57,4 --> 0:6:3,11
+Every day, people here think
+about those possibilities, not
+
+
+106
+0:6:3,11 --> 0:6:8,34
+just whether it's possible, but
+how do I go about proving
+
+
+107
+0:6:8,34 --> 0:6:10,8
+that that's a possibility?
+
+
+108
+0:6:10,8 --> 0:6:15,84
+And the instruments that are
+here allow a lot of that work
+
+
+109
+0:6:15,84 --> 0:6:18,19
+to be done.
+
+
+110
+0:6:18,19 --> 0:6:48,49
+[MUSIC PLAYING]
+
+
+111
+0:6:48,49 --> 0:8:48,49
+
+
+

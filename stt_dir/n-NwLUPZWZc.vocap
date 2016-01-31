@@ -1,0 +1,590 @@
+###12 (Crickets chirp)
+###25 (Industrial/Electrical Sounds)
+###33 (Dripping Water)
+###108 Guard: Oh it's you. You're not supposed to be here.
+###116 (Gun fire)
+###121 (Blurred voices and music)
+###134 (Alarm clock rings)
+###147 (Bird song)
+###153 Connor: (Groans)
+###165 Connor: James get up. We're late.
+###170 Connor: (Sighs)
+###192 James: Why'd we have to get so drunk on a Sunday night?
+###206 Connor: Do you remember that part last night where Amy got on the table and started to...
+###209 James: (Interrupts) Connor, that's my sister! I don't need to be reminded.
+###218 James: Where's all the food?
+###226 James: (Sighs)
+###229 (Car horn honks)
+###230 Connor: Come on, let's go.
+###243 Amy: Come on guys, we're gonna be late!
+###245 Connor: Sure you're ok to drive after your stunt last night Amy?
+###256 James: Oh... Hi Matt.
+###258 Matt: Alright.
+###265 Connor: Not getting the bus today?
+###266 Matt: Nope
+###271 Amy: I... saw him as I was driving past the shops and picked him up.
+###275 James: Oh, ok.
+###278 Connor: So what's the rush anyway?
+###279 Amy: Some kind of emergency meeting.
+###426 James: What do you think this emergency meeting's about?
+###428 Amy: I don't know, but... it can't be that important.
+###435 Matt: Alright, go on ahead guys. I'm going to go powder my nose.
+###445 Director General (DG): No! Dr. Niven, LHC is most important experiment of our time. I will not let unfounded theories...
+###452 Dr. Niven: (Interrupts) Unfounded?! Director, my results show that...
+###455 DG: (Interrupts) Inconclusive! Your results are inconclusive at best. No, you'll have plenty of time for measurements when you're down in the tunnel tonight.
+###463 Dr. Niven: Director, we have to stop the LHC until we assess the danger.
+###467 DG: No Dr. Niven. Once we have fixed this problem the LHC will run again as usual.
+###473 DG: Finding the Higgs is the highest priority.
+###489 Amy: Why is Dr. Niven going into the tunnels?
+###518 James: Why do you think the Director General's here?
+###520 Matt: Maybe they made a black hole...
+###530 Lisa: (Very quiet) Sorry.
+###533 Lisa: Hey.
+###533 Amy: Hey.
+###535 Lisa: So, did you recover from last night?
+###537 Amy: ...Yeah. You too?
+###537 Lisa: Mmmhmm.
+###540 Amy: Wait, aren't you supposed to be on your way to Barcelona by now?
+###543 Lisa: I might have missed my flight...
+###545 Amy: Oh no!
+###553 DG: Good morning! I'm Professor Vacinski, Director General of CERN.
+###559 DG: This meeting has been called because last night there was an emergency beam dump.
+###563 (Crowd whispers furtively)
+###566 DG: Here we see a monopole magnet in LHC Sector 7G.
+###572 DG: Beam sensors have detected that an unknown event caused this magnet to quench and triggered an uncontrolled shut down.
+###581 DG: If this happens again the results could be catastrophic.
+###585 DG: Due to the special circumstances, Dr. Niven is taking a team into the LHC tunnel to investigate the cause, and see what damage there is.
+###596 The LHC will be in shut down until at least the end of the week.
+###599 DG: Since Dr. Niven will not be available we will need 4 volunteers to be on shift in the control room.
+###607 Connor: We'll do it.
+###608 Amy: (Quietly) What are you doing?!
+###609 DG: Ok, you four.
+###613 Lisa: Oh, I'm going to be at a conference in Barcelona.
+###617 DG: Uh, very well. You... you then.
+###622 Matt: Uh, I have an analysis note due this week, so I'm not going to have time to do this...
+###626 DG: (Interrupting) The collider will be shut down. You can work in the control room.
+###630 DG: Report to the control room at 9pm. That is all everybody.
+###637 Lisa: Sucks to be you guys!
+###659 Connor: Here you go.
+###660 Amy: Thanks.
+###662 Connor: They don't look like proton decay matrices.
+###665 Amy: (Sighs) No.
+###672 Amy: Dr. Niven's got me working on this Higgs bio-entanglement simulation.
+###676 Amy: Some company gave a lot of money to CERN and I get stuck working on it.
+###680 Amy: I've got so much work to do.
+###683 Connor: Listen, are you ok after last night?
+###686 Amy: Why?
+###687 Connor: You and Matt...
+###689 Amy:  I don't know what you're talking about. Anyway, you jealous?
+###697 Amy: Oh... sorry.
+###701 Amy: Listen, I'd better go. I've got a lot of work to do.
+###728 Amy: (Sighs) I'm so tired. I can't even think about work right now.
+###734 Amy: I hope he doesn't expect me to remember anything.
+###741 Dr. Niven: Ah Lisa. Did you finish your talk?
+###744 Lisa: Yeah! Just in time.
+###745 Dr. Niven: I had every confidence in you.
+###747 Amy: Did you get a chance to look at my simulation?
+###750 Dr. Niven: Ah yes! The problem with the supersymmetric parameter lattice...
+###754 Dr. Niven: I think I found a way to express it differently.
+###759 Dr. Niven: I didn't implement it in my analysis code yet but you might like to try it.
+###770 Amy: It looks more complex though. I don't know if it'll work on my laptop.
+###773 Dr. Niven: Well, we'll deal with that later if we need to.
+###775 Amy: Ok, thanks.
+###777 Dr. Niven: Anyway, I have to prepare my team for going into the tunnels and look over Lisa's talk, so I'll talk to you later.
+###785 Dr. Niven: And Lisa... don't miss the plane again.
+###788 Lisa: I won't.
+###812 James: Hey guys, wait!
+###815 James: I'm waiting for someone.
+###817 Amy: Who?
+###818 James: Just... someone.
+###821 Matt: Ok, well, we're going to be late so...
+###826 Kate: Hi!
+###838 James: Everyone, this is my girlfriend Kate.
+###841 James: Kate, this is Matt and Connor...
+###843 Connor: Hi.
+###844 James: And my sister Amy.
+###845 Kate: Hi.
+###845 Amy: Nice to finally meet you.
+###847 James: Finally...? I didn't tell you...
+###849 Amy: Mum let it slip. I was waiting for you to tell me.
+###853 Kate: It's nice to finally meet you as well.
+###856 Amy: Are you coming with us?
+###857 Kate: I think so.
+###858 James: Yeah.
+###858 Amy: Ok.
+###859 James: Shall we go?
+###862 Connor: So... why have you thrown your evening away to go on shift?
+###866 Kate: James was going to come meet me for dinner but he told me you guys had to...
+###870 Connor: Oh... sorry.
+###871 Kate: It's ok, don't worry.
+###873 Matt: And how did James manage to convince you that vending machine food is going to be an acceptable substitute?
+###884 Amy: Shift can sometimes be boring, are you going to be ok?
+###887 James: I told her.
+###887 Kate: I insisted.
+###902 James: She's with me.
+###911 Kate: So are you guys physicists like James then?
+###913 Connor: Yeah but he works on the accelerator. The rest of us analyse the data.
+###916 Matt: Yeah, he's an engineer, and we're real physicists.
+###920 Amy: (Sighs)
+###929 Amy: So what do you do?
+###931 Kate: I'm a trainee nurse.
+###939 James: I hope you're not claustrophobic - it's a long way down.
+###949 Kate: (Coughs)
+###976 Matt: Guys, I've thought of a joke.
+###978 Connor: Ugh - another one?
+###980 Matt: So a chimpanzee and a sloth go down...
+###986 Matt: And then the chimpanzee is like "uh... starfish! Starfish!"
+###989 Everyone: (Laughs)
+###1005 James: Do you want to watch "A Clockwork Orange"? I borrowed it from Amy.
+###1007 Kate: Yep, sure.
+###1008 Matt: That's a pretty deep film for a lowly engineer like yourself.
+###1011 James: (Laughs)
+###1016 Kate: You shouldn't let him talk to you like that.
+###1018 James: He's only messing around.
+###1050 Matt: (Crowd noise)
+###1053 James: So the accelerator boosts the beam of protons to almost the speed of light.
+###1058 James: And then we collide them... here.
+###1062 James: And then we detect what's made in the collision.
+###1074 Amy: (Sighs loudly)
+###1077 James: What's up?
+###1078 Amy: I thought I'd got it working!
+###1081 James: Got... what working?
+###1083 Connor (off screen): Her Higgs simulation.
+###1084 Kate: Her... what simulation?
+###1086 Amy: My Higgs radiation simulation.
+###1091 Matt: The "God" particle.
+###1094 Amy: It's a particle that we're trying to make in the collider.
+###1097 Amy: I'm supposed to be investigating how it acts on living tissue, but my programme just crashes every single time that it starts to look bad.
+###1104 Connor: So what, you think Higgs radiation is dangerous?
+###1106 Amy: I don't know. I'd know if I could get it to finish!
+###1109 Connor: They wouldn't run the LHC if they thought it was a danger.
+###1111 Connor: Must be a glitch or something.
+###1114 Connor: Have you tried on the central computer system?
+###1116 James: Except... she doesn't have access to the mainframe.
+###1119 Kate: Are you not allowed to use it?
+###1121 Connor: Well... not exactly.
+###1125 (Typing on keyboard)
+###1138 Connor: There we go.
+###1138 James: Nice!
+###1155 (Alarm sounds)
+###1156 Matt: Nice one Amy!
+###1157 Amy: It wasn't me!
+###1162 James: It's not you... the LHC is ramping.
+###1165 Matt: "Ramping" ramping?
+###1167 Connor: The beams are firing!
+###1168 Amy: The team's still down there! Shut it off!
+###1174 (James pushes switch)
+###1178 James: What the fuck?!
+###1181 Amy: The phones are down!
+###1184 Kate: What... what's going on?
+###1186 James: The LHC is turned on. The radiation levels will be killing everyone down there.
+###1189 Kate: People are dying?!
+###1191 Matt: No one is dying!
+###1192 Amy: Shut up Matt!
+###1194 Amy: James, what can we do?
+###1195 James: I don't know, the overrides aren't working.
+###1198 Kate: I haven't got any signal!
+###1199 Matt: We're a hundred metres underground, what do you expect!
+###1202 (Console alarm sounds)
+###1206 James: The radiation levels are spiking. The shielding's not in place when the maintenance tunnels are open.
+###1210 Matt: Well why the fuck not?!
+###1211 James: This shouldn't be able to happen.
+###1214 Connor: ...Shit!
+###1216 Connor: We've got less than two minutes and we're fried. We've got to get out!
+###1227 Kate: What about the people in the tunnels?
+###1228 Matt: What about us!
+###1233 James: Fuck!
+###1234 James: It's locked down!
+###1235 Connor: James, calm down and think. How do we get out?
+###1241 James: We go into the service tunnels.
+###1243 Matt: The tunnels?! Are you mental?!
+###1247 James: The LHC master power's down there. It's shielded, we can shut it off.
+###1251 Matt: This is insane...
+###1255 Connor: Right, we'll go down and shut it off. Then we'll work out what to do there.
+###1261 Matt: No, but we can't...
+###1263 Amy (Interrupts): Come on!
+###1321 Kate: Push something!
+###1325 (Buttons being pushed)
+###1328 (Machines stop)
+###1338 (Group breathes heavily)
+###1345 (Backup power starts)
+###1358 Matt: So that's it?! The worlds largest machine has an on/off switch?
+###1362 Kate: What is your problem?!
+###1364 James: Look, this is just a relay. There's six of them. If one of them trips the others go off automatically.
+###1369 Amy: I hope somebody noticed that.
+###1371 Connor: There's nobody around to notice it. No one will be in until tomorrow.
+###1376 Connor: We need to find an elevator to get back to the surface.
+###1378 Matt: Yeah, if James knows where they are...
+###1380 James: Look, if we follow the tunnels we'll get out.
+###1384 Kate: But... what about the people down there? They could still be alive couldn't they?
+###1391 Connor: Even if they are, there's nothing we can do for them.
+###1394 Connor: The best we can do is get out and try and get help.
+###1398 Kate: But if the radiation did that to them... then...
+###1400 James: No - we're safe now the machine's off.
+###1402 James: It's just the ring itself that's radioactive. We're safe here.
+###1407 Amy: Oh my god, all those people...
+###1409 Amy: How could this happen?
+###1411 James: It couldn't have happened. You can't turn the machine on when there are people down there.
+###1415 James: There are interlock systems everywhere.
+###1418 Matt: Well somebody fucked up, and it wasn't me!
+###1420 Connor: Yeah, and it wasn't us! This couldn't happen from the control room.
+###1423 Connor: No one's got access to do that except... except maybe Dr. Niven... but he was down here.
+###1430 Connor: The sooner we get out of here the sooner we can sort it out.
+###1486 Kate: I... I don't like it down here.
+###1488 James: It's not too far.
+###1491 (Distant scream)
+###1494 Amy: What the hell was that?!
+###1510 Kate: Probably a steam valve or something... right?
+###1513 James: Probably.
+###1515 Kate: How much further is it?
+###1517 James: It's not far.
+###1558 Matt: ...Great.
+###1560 Matt: Just as i was starting to get freaked out.
+###1563 James: Look, I'm sorry. I thought that...
+###1565 Matt (Interrupting): Do you know where we're going or don't you?
+###1566 Amy: Matt...
+###1567 Matt: I can't be the only person that heard that scream. We're running around down here - Where the fuck are we going?
+###1573 Connor: Matt, calm down. If you know where to go, let's hear it. If not, shut up.
+###1576 Connor: James, do you know where we can go?
+###1580 James: I think if we go back and left and follow the ring around we can find our way from there...
+###1605 (Loud bang)
+###1619 (Growling)
+###1621 (Kate screams)
+###1633 James: Kate!
+###1653 (Bang against door)
+###1658 James: We've got to go and get her.
+###1659 Amy: You have to listen to me! James, listen! She's gone! You saw those people James, you saw what they did.
+###1669 Matt: Don't just fucking stand there, help!
+###1680 (Gas escaping)
+###1683 (Zombies scream in pain)
+###1699 Connor: What's that?!
+###1701 James: Freon coolant gas.
+###1711 Matt: What the fuck just happened?
+###1714 Amy: They looked like... the technician team that were down here. But why would they that to us?
+###1724 Amy: Did you see their faces?
+###1726 Connor: The radiation burns, yeah... They shouldn't even be alive.
+###1746 Matt: Where you going?
+###1748 Connor: The gas won't stop them forever.
+###1813 Connor: I found a way out. Come on, lets go.
+###1815 Matt: What if there's more of them?
+###1818 Connor: ...Here.
+###1831 Amy: Take this.
+###1889 Matt: One of these maniacs has a gun?!
+###1893 Connor: Think he's been dead a while.
+###1896 Amy: What's a security guard doing down here anyway?
+###1921 Connor: What is this?
+###1922 James: The interlock turns the LHC off if people are in the tunnels.
+###1929 Amy: It's been sabotaged. Someone did this on purpose.
+###1934 (Footsteps in the distance)
+###1935 James: That could be her!
+###1937 Connor: James, stop!
+###1944 Amy: James!
+###1950 Connor: James...
+###1957 (Monster screeches)
+###1958 (Screaming and shouting)
+###1966 (Crunching blow. Creature stops screaming.)
+###1978 Connor: Help!
+###1980 Amy: Give me the pipe!
+###1982 (Pipe clangs into place)
+###1991 (Monster continues struggling and growling)
+###1991 (Amy cries)
+###2003 James: Jesus Christ Matt...
+###2005 Matt: I... what else was I going to do?
+###2009 (Monster continues growling, gurgling and struggling)
+###2020 Amy: If they're all like that we're screwed!
+###2022 Amy: There were like, what, 30 people in this section?!
+###2025 Connor: We'll find a way out. James, which way?
+###2028 James: I thought there was an exit, back at the dead end. Next one's about a three hour walk away, it's at point 17. And that's if we don't get lost.
+###2036 Connor: Is there anywhere safe we can stop on the way?
+###2038 Amy: We need to let someone know we're down here!
+###2040 James: There's a mainframe computer room about half way round. We can send a message from there.
+###2044 Amy: Ok.
+###2049 (Electrical flickering)
+###2082 Connor: Which way now?
+###2093 James: We have to go that way.
+###2095 (Flickering lights)
+###2124 (Low machine noises, heartbeats and breathing)
+###2166 (Sound of tearing meat and chewing)
+###2206 (Monster screeches)
+###2208 (Sound of rapid heartbeat)
+###2217 (Monster screeches)
+###2229 (James screams)
+###2241 (James screams in anger)
+###2253 (Monster gurgles and scratches on floor)
+###2280 Matt: Jesus... What does it take to kill one of these things?!
+###2283 Amy: They're people Matt!
+###2285 Matt: No person could survive this!
+###2288 (Monster gurgles)
+###2292 Amy: Are you hurt?
+###2294 James: It's my arm.
+###2316 (Crunching bone and brain. Monster becomes silent)
+###2318 (Amy whimpers)
+###2322 (Pipe drops on floor)
+###2327 Connor: Are you alright?
+###2329 James: Yeah.
+###2337 Amy: You too?
+###2339 Connor: Ugh... yeah, I'll be fine.
+###2401 (Whine of computer fans)
+###2427 James: Can someone try and log in?
+###2449 (Typing)
+###2458 Matt: It's not accepting my user name. Connor, can you hack this?
+###2461 Amy: Not now Matt, give him a minute.
+###2463 Matt: Look, the quicker we get through to the server the sooner...
+###2465 Amy: Give it a rest Matt! How much use is he going to be to us if he's concussed?!
+###2480 (Connor groans in pain)
+###2480 Connor: Same place as last time.
+###2483 Amy: Same place as what?
+###2485 Connor: Cracked my skull climbing.
+###2487 Connor: They had to put a metal plate in my head.
+###2489 Amy: You never told me about that.
+###2493 Connor: It was when I went home for a few weeks.
+###2496 Connor: After Prague.
+###2500 Amy: Oh.
+###2502 Connor: I didn't mean it like that.
+###2509 Connor: Just give me a minute.
+###2511 Connor: And I'll see what I can do with the terminal.
+###2520 Connor: Is there anything up there?
+###2521 James: There's a door, it's secure. There's no one about. I think we're safe for now.
+###2526 Connor: All right. We'll stay here for a bit. I'll try and get through the firewall, see if I can get any help.
+###2539 Amy: How's your arm?
+###2541 James: Don't worry about me. The bleeding's stopped.
+###2545 Connor: Keep an eye on them stairs.
+###2557 James: We need to be looking for Kate.
+###2561 Amy: James...
+###2563 James: I know what you're trying to say. But you're wrong.
+###2612 (Typing)
+###2619 (Computer bleeps)
+###2619 Connor: Yes! Got in!
+###2622 Amy: Can you get through to anyone?
+###2627 Connor: ...no.
+###2630 Amy: Keep trying.
+###2644 (Computer bleeps)
+###2650 Connor: Amy, come here.
+###2653 James: Have you got through?
+###2655 Connor: No but...
+###2657 Connor: It says Amy's biosim just finished.
+###2660 James: Oh.
+###2661 James: So?
+###2663 Amy: So I was right about Higgs radiation...
+###2677 Matt: What?
+###2679 Amy: The Higgs killed them all.
+###2681 Matt: Killed who? They're not dead.
+###2684 Amy: Yes, they are.
+###2686 Amy: It's killed everything except the brain stem. There's nothing left of them.
+###2690 Amy: The radiation damage might stop it after a while... but for now they're just animals.
+###2697 Connor: You must have messed up or something... Missed a semi-colon! The... the Higgs wouldn't do that.
+###2703 Amy: It doesn't even look like my simulation.
+###2706 Amy: It looks more like Dr. Niven's...
+###2709 (Typing)
+###2711 James: So Dr. Niven knew and he still came down here?
+###2716 Amy: No, it says it's only just completed.
+###2719 Amy: He's been trying to run it for weeks and it always failed...
+###2722 Amy: ...until now.
+###2732 James: So they've been dead since the beam came on...
+###2743 Connor: James - we need to get out of here. I can't get help, but if I can get a map of the tunnels can you find a way out?
+###2750 James: I'll try.
+###2751 Matt: Find the way out?
+###2753 Matt: Why don't you ever know?
+###2755 James: I haven't been to this area before...
+###2757 Matt: Ok then, how long will it take this time?
+###2760 Connor: Matt! Enough!
+###2761 Matt: Fuck you Connor! Why are we even listening to you?!
+###2764 Matt: It's your fault we're on shift! It's your fault we're down here in the first fucking place!
+###2768 Amy: Leave him alone!
+###2770 Matt: Oh, concerned about his feelings now are we?
+###2772 Amy: ...don't.
+###2774 James: What?
+###2776 Matt: Everyone else has figured it out James.
+###2778 Matt: We fucked last night.
+###2779 Amy: Fuck you Matt, I was drunk!
+###2781 Matt: Not that drunk.
+###2782 James: You took advantage of my sister?!
+###2783 Matt: Advan... whatever. At least I get laid. Bet you didn't get that far with Kate.
+###2790 James: You... FUCK!
+###2795 James: I'm going to find Kate.
+###2797 Amy: James, she's dead.
+###2798 James: I have to go.
+###2799 Amy: No, stop it James! Come back! I need you! Come back!
+###2805 Amy: I have to go with him.
+###2807 Connor: You know she's dead right.
+###2808 Amy: I can't let him do this alone.
+###2810 Connor: Alright, I'll come...
+###2811 Amy (Interrupting): No, stay here, you have to find help!
+###2830 Amy: Do you know where you're going?
+###2832 James: I think there's a shortcut up here.
+###2835 Amy: I... I just...
+###2838 James: Thanks for coming.
+###2855 Connor: Look, Matt.
+###2859 Connor: Forget about that.
+###2861 Matt: Fine.
+###2863 Connor: Matt, we need to stick together to get out of here.
+###2865 Connor: Don't worry about...
+###2865 Matt (Interrupting): I said, fine!
+###2870 (Computer bleeps)
+###2877 Connor: What?!
+###2878 (Frantic typing)
+###2889 Connor: Shit!
+###2936 (Clanging metal)
+###2938 (Monster growls)
+###2959 (Growl from darkness)
+###2974 (Monster growls and scratches at cage door)
+###3017 (Crunching blow)
+###3026 Amy: Run!
+###3032 (Crunch of skull on metal)
+###3039 (Gunfire)
+###3050 (Monster growls, then stops)
+###3126 (Amy vomits)
+###3135 James: Are you ok? What's wrong?
+###3137 Amy (tearfully): James, please don't look. Please don't look.
+###3157 James: Let's go.
+###3181 Amy: Are you ok?
+###3183 James: I'm not feeling great.
+###3189 Amy: Look, here, I'll help you.
+###3210 Connor: What happened? Is he ok?
+###3212 Amy: I think his wound's infected.
+###3215 James: I'll be ok.
+###3217 James: Did you call for help?
+###3219 Connor: No. I couldn't through the firewall. But I got a map for this area.
+###3225 James: Alright.
+###3244 Connor: Where did you get that?
+###3246 Amy: We found a body in the tunnels.
+###3248 Amy: He must have shot that guard.
+###3250 Amy: But I saw him with the Director General earlier.
+###3253 Connor: Listen, there's something else.
+###3255 Connor: After you guys left all the sim data got deleted from the system.
+###3260 Connor: There's only one person with the authority to do that.
+###3265 Amy: If he's trying to stop people from finding out, that could by why we can't call for help.
+###3271 Connor: Are there any backups anywhere?
+###3274 Amy: Dr. Niven keeps a record of everything he does.
+###3278 Amy: It could be enough, if we can get to his office.
+###3281 Connor: If he knows we're down here...
+###3290 Amy: We'll get out.
+###3299 James: Hey guys. I think I found something.
+###3305 James: Ok, so we start here.
+###3309 James: And then we go over to here.
+###3311 James: The services lifts are down, so we'll have to take the stairs.
+###3314 James: There's a crawl space here.
+###3316 James: And then we come to here.
+###3320 James: And then we get out here.
+###3323 Amy: Is there any way we can get out nearer to Dr. Niven's office?
+###3326 James: Why?
+###3327 Amy: The simulation data logs got deleted. We have to go and find records.
+###3332 James: I don't think we can get through. There are safety doors in the way.
+###3340 Connor: Let me look at that.
+###3347 Connor: There we go!
+###3358 (Door bleeps and opens.)
+###3373 Amy: Are you feeling ok?
+###3375 James: I just... I just need to sleep.
+###3389 Amy: James?
+###3393 Amy: James!
+###3397 Amy: James?!
+###3400 (James breathes in deeply)
+###3414 Connor: Is he ok?
+###3416 Amy: I don't know. I don't know what's wrong with him.
+###3419 Amy: He's sleeping for now but... maybe we could let him rest for a bit?
+###3423 Connor: Yeah.
+###3424 Matt: No.
+###3425 Matt: I think we should get moving as soon as we can.
+###3427 Connor: If he doesn't rest we'll have to carry him.
+###3429 Matt: We can't wait here forever, and if he can't look after himself...
+###3432 Amy: Don't you dare, you selfish piece of shit! If you want to go just go on your own!
+###3436 Connor: No one's going anywhere! We'll rest for a bit, then we'll leave.
+###3439 (James growls and leaps)
+###3439 Amy: No! James, what are you doing?!
+###3444 Connor: Matt!
+###3446 Amy: Stop!
+###3448 Amy: James!
+###3453 (Gun fire)
+###3461 (James growls)
+###3464 Connor: Give me the gun.
+###3466 Amy: No!
+###3468 (Gun fire. James falls silent.)
+###3476 Connor: Come on, we need to go.
+###3497 (Shuffling feet and growling)
+###3503 (Gun fires twice)
+###3506 (Crunching bone)
+###3519 Amy: He's dead... he's gone.
+###3521 Connor: Amy, you need to... you need to...
+###3524 Connor: We have to...
+###3527 Amy: Connor... I never...
+###3530 Connor: It's ok. We can talk about that when we get out of here.
+###3541 Amy: I don't want to have to do this on my own.
+###3543 Connor: You won't have to.
+###3546 Connor: We know the way out now. We just need to...
+###3548 (Monster roars and chews)
+###3552 (Gun fire)
+###3559 Amy: It's going to be ok! You're going to be ok!
+###3563 Connor: You know what'll happen.
+###3565 Amy: No, I don't! And neither do you!
+###3568 Connor: I'm bleeding out. When I die...
+###3572 Connor: I don't want to come back.
+###3574 Amy: No! I can't lose you. Not now!
+###3578 Connor: I'll end up killing you. You need to get out.
+###3581 Amy: No. Look, hold this - I'll go get a first aid kit. It'll be ok!
+###3586 Connor: Give me the gun if you can't do it!
+###3588 Amy: No!
+###3591 Connor: Amy!
+###3604 (Footsteps and growling)
+###3615 Connor: Amy!
+###3622 (Gun shot followed by another)
+###3628 Amy: Connor...
+###3633 (Connor breathes deeply)
+###3639 (Connor growls. Gun shot)
+###3682 Worker 1: Inadmisse les jeunes souvements sont incompetent.
+###3685 Worker 1: J'en ai mar d'avoir des resultats aussi fou tous les jours tous les jours et je dois de moyens.
+###3692 Worker 1: Tranchement de regarder ca. Incroyable non?
+###3705 Worker 1: Mister! Mister, please, this is not a safe area!
+###3708 Worker 1: Come over! We'll call an ambulance!
+###3710 Worker 1: Appelles l'ambulance.
+###3712 (Monster growls)
+###3713 (Man screams)
+###3720 (Worker 2 screams)
+###3768 (Monster growls)
+###3775 (Gun fire)
+###3780 (Monster continues growling)
+###3781 (Crunch of bone. Monster falls silent)
+###3806 (Matt pants, out of breath)
+###3821 (Monster breathes and snarls)
+###3828 (Monster growls)
+###3846 (Monsters screech)
+###3848 (Matt screams. Flesh ripping)
+###3855 (Sounds of ripping flesh)
+###3863 (Monsters tear flesh. Matt screams loudly)
+###3866 (Matt falls silent)
+###3919 (Sound of flesh being eaten)
+###3953 (Quiet growl and footsteps)
+###3974 (Crack of bone)
+###3976 (Monster continues growling, scratching)
+###3987 (Ripping flesh)
+###4003 Amy: Connor...
+###4006 (Gun shot)
+###4008 (Connor snarls)
+###4008 (Gun shot)
+###4010 (Gun skitters across floor)
+###4023 (Bone being pierced)
+###4024 (Connor stops breathing)
+###4142 (Monsters growling and snarling)
+###4147 (People screaming in background)
+###4171 (Monster snarls)
+###4196 (Monsters bang on door)
+###4211 (Sound of glass smashing)
+###4224 (Thud against door)
+###4226 (Thud against door)
+###4231 (Gun fire)
+###4241 *"Lisa's phone, leave a message"*
+###4243 Amy: Lisa, pick up the phone!
+###4246 Amy: I don't have long! Everything's fucked, everyone's dead!
+###4249 Amy: The Director General killed them all. Pick up the fucking phone!
+###4255 Amy: Lisa listen, I'm going to email you the data. You're the only one that can understand it.
+###4259 (Frantic typing)
+###4280 DG: Move away from the computer.
+###4297 Amy: You did this!
+###4299 Amy: You killed them all.
+###4302 DG: I didn't know this would happen.
+###4305 DG: But I had to do it.
+###4307 DG: Dr. Niven knew the Higgs was dangerous. But I couldn't let that stop me.
+###4311 DG: My research is too important!
+###4313 DG: I had to!
+###4317 DG: And I can't let you tell anyone.
+###4330 (Gun fire)
+###4346 

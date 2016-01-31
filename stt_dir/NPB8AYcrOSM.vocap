@@ -1,0 +1,985 @@
+###0 Hi, I'm Sharon Long,
+###1 from Stanford University,
+###2 and I'm here today to talk about our recent on the plant side
+###5 of the nitrogen-fixing symbiosis, specifically about
+###8 genes and cell responses.
+###11 By way of review, I'll mention again that the Rhizobium symbiosis
+###15 happens in organs called root nodules.
+###19 And within these nodules, bacteria are able to fix nitrogen
+###23 and provide that to the plant for nutrition.
+###26 This is complex developmental process,
+###29 it goes through a number of stages,
+###30 and you'll see some of those today.
+###32 It is species specific, which I've discussed in some of my earlier talks.
+###36 And importantly, for today's lecture,
+###39 bacterium and plant each respond to signals from the other.
+###44 An outline of my talk today is shown here.
+###46 At the beginning, I'll give you some introduction,
+###48 reviewing some of the dynamics of how bacteria and plants interact.
+###52 Then I'd like to talk about some recent work in our lab,
+###55 first about infection and about of group of proteins called flotillins,
+###60 and also about a Nod Factor receptor from the plant.
+###64 Then I'd like to talk about two plant mutants, dnf1 and dnf2,
+###68 which we've identified as being defective in late stages of nodulation.
+###73 And by describing the genes that we've now cloned from those mutants,
+###77 I can share with you some of our ideas on how the symbiosis is working.
+###83 So, here I'm showing a review of the basic idea
+###87 of signal exchange in the early phases of nodulation.
+###91 The plant secretes a flavonoid signal,
+###95 this flavonoid acts as a trigger in the bacterium,
+###98 and that causes the transcription of genes called nod genes,
+###102 which encode enzymes. Those enzymes are able to
+###105 synthesize this second signal, the so-called Nod Factor, down here,
+###110 sometimes abbreviated as NF in some of the slides to come.
+###113 This is a modified chitin fragment,
+###117 you can see there's four residues of N-acetylglucosamine.
+###121 These are modified at the reducing end with a sulfate,
+###126 and at the non-reducing end with both an acetyl and an N-acyl group.
+###131 And in one of the slides yet to come,
+###134 I'll be talking about the differences between the plant response
+###137 to chitin to a true Nod Factor.
+###141 So Nod Factors are very powerful,
+###143 and this gives you an idea of just how powerful they are.
+###146 On the top, we have an alfalfa root, and on this root,
+###150 Sinorhizobium meliloti, the symbiont, has established a nodule,
+###154 and this is an intact nodule.
+###156 It's been cleared, and you can see the deep brown color,
+###160 which is from the metals that are in the various cytochromes
+###163 and enzymes of the bacteria while they're fixing nitrogen.
+###167 Now at the bottom, we see a form that looks very similar,
+###171 and yet this has no bacteria in it.
+###173 This entire structure on an alfalfa root
+###175 was caused just by a small droplet of Nod Factor.
+###180 So this one chemical is able to produce an entire organ on the plant.
+###187 Here is another one of the characteristic early events
+###190 in Rhizobium-legume interactions.
+###193 This shows root hairs on the root of a plant, and here on the right,
+###200 you can see a normal root hair, which grows straight.
+###202 And here you see a root hair that has been provoked
+###205 by Rhizobium to grow in a such a way that it tops over
+###210 and forms a curl. And here in the crook is where the
+###215 bacteria are trapped, and these deformed root hairs
+###220 of various kinds are very characteristic of the effect
+###224 of the correct Rhizobium on its compatible host.
+###229 Now, the bacteria are then able to travel by proliferating
+###235 and burrowing their way into the plant cell itself.
+###239 And this white arrow shows an infection thread;
+###242 this is formed by the plant in response to the bacteria.
+###246 Within the infection thread, bacteria are proliferating,
+###249 and they are invading through the root hair cell,
+###253 and as you'll see, eventually down into further cell layers.
+###257 So there's the infection thread, and you'll see more about that in a little while.
+###262 I'd now like to show you something about the dynamics
+###264 of how Rhizobium affect plants.
+###267 Let's start by looking at normal root hairs.
+###269 So, on a root, the youngest part of the root is over here,
+###272 and you can see that they don't have any root hairs yet,
+###275 and then the root hairs get longer.
+###277 And over here, they're full sized.
+###280 So, root hairs get to a particular size, and then they stop.
+###283 Now let's watch in this movie,
+###285 to see how root hairs elongate normally, that's without Rhizobium.
+###290 So here you see root hairs.
+###292 They start, they grow, and then at some point
+###295 they reach a mature length, and they just stop,
+###298 but they grow fairly straight during this entire process.
+###302 Now we're going to look at root hairs on a plant that
+###305 has been treated with its Rhizobium symbiont.
+###309 So here, the root hairs are in the process of growing,
+###312 and if you watch what happens to them as they grow,
+###316 you'll see how different it is from unperturbed growth.
+###322 So here, for example, we see root hairs that are curling.
+###328 Over on this side, if you look at this root hair, you can see that it's growing,
+###333 and then it pauses, see that pause?
+###335 And then it emerges, and now it pauses and branches again.
+###339 So there's two things going on.
+###341 One is this characteristic pause, so right here you can see
+###346 there's a pause right before it starts to top over.
+###349 And the other is that you're getting branching or curling,
+###353 other kinds of deformation.
+###355 So Rhizobium has a profound effect on the morphogenesis
+###358 of this particular plant cell.
+###361 Now, we've seen a little bit now about root hair deformation,
+###365 and I'll mention along the way that Rhizobium can also
+###369 cause roots to engage in specific transcription,
+###373 which we study with microarrays,
+###374 and they provoke cell division.
+###377 But for the moment, I just want to look a little bit more
+###379 about what happens to these root hairs,
+###382 because if you think about it, root hairs are on the surface of the plant,
+###386 they're single cells, they have a high surface-to-volume ratio...
+###390 it makes sense that these are going to be
+###392 exposed to the signals from the outside,
+###394 and they might be the place where signal transduction begins.
+###398 So, we might ask, by cell biology and by genetics,
+###403 are there receptors, and what is the signal transduction pathway?
+###407 And ask whether we can study root hairs
+###409 as a way of capturing those.
+###411 Now, signal transduction is often a complex and fairly rapid
+###416 multiprotein process, so we set out to look for events
+###420 that occur in root hairs that are cell autonomous and fairly rapid.
+###426 One of the earliest studies that we did in this area was
+###430 simply to look at the electrochemical potential across the plant membrane.
+###435 So in this, we're taking a single root hair here,
+###440 and by putting in a microelectrode and measuring the difference
+###443 in potential between the interior of the cell and exterior of the cell,
+###446 we were able to find that untreated root hairs have a stable,
+###451 very negative potential at about -130 to -140 mV.
+###457 However, if we treated a root hair with Rhizobium,
+###460 what we found was that the Rhizobium and its Nod Factor
+###465 are able to cause a depolarization of that plasma membrane,
+###469 so that the potential change across the membrane here diminishes.
+###475 And that happens actually within a minute.
+###478 In our studies and others', this has been shown to be accompanied
+###481 by ion fluxes (ion currents) near the tip.
+###485 Now one ion in particular is very interesting to us,
+###488 and that is calcium. We've used different techniques,
+###491 but here's one of them that we have used.
+###493 On the left, you can see a root hair,
+###497 and into this root hair we're delivering a mixture of
+###499 two different fluorescent proteins.
+###501 One is fluorescent irrespective of the calcium concentration,
+###505 the other increases its fluorescence when calcium is high.
+###508 Using those two together, we can take a ratio
+###511 and get the value of calcium corrected
+###514 for the concentration of the cytoplasm.
+###517 And then we can track that over time.
+###519 So now we're going to follow calcium in this slide.
+###522 Now, this is a pseudo-color representation
+###525 of the fluorescence corrected for cytoplasmic concentration.
+###530 Cool colors mean low calcium, warm colors mean high calcium.
+###535 If you take a look at the root hairs here, they're all blue,
+###539 that means low calcium.
+###540 As you move in time, and these are ten second intervals,
+###544 you see the warmer color, yellow, appearing from the tip of the root hair,
+###549 so calcium is getting high at the tip.
+###552 As you continue the time series up here,
+###555 you can now get to a point where you see this extremely high calcium,
+###559 shown by red, and this happens to be in the part of the
+###563 cell represented by the nucleus.
+###566 So, what can we say, and I'll quantify that with the following graphs.
+###571 First, if you compare an untreated cell, that's here,
+###574 and here's the baseline of the calcium, with the presentation of
+###578 one nanomolar of Nod Factor,
+###580 what you find is that about ten minutes after the presentation
+###584 of the Nod Factor, you get these sharp upswings in calcium.
+###589 And that's what's going on here.
+###591 This is the calcium spiking represented there.
+###595 Now, number two, if you put in a higher amount of Nod Factor,
+###600 10 nanomolar, now you get something more complex.
+###606 You get a faster response, and this turns out to be the
+###610 tip flux of calcium coming in, and then calcium spiking
+###615 happens at the same time.
+###618 Now the other data that I'll show you here is that,
+###621 if you take chitin alone...
+###625 Now remember I pointed out that Nod Factor is like an
+###628 oligomer of chitin N-acetylglucosamine resides,
+###632 with some modifications. But what if you take the modifications off?
+###636 It's not Nod Factor anymore, it's just chitin.
+###638 If you add very, very large amounts of chitin,
+###646 we've got one micromolar here, so a thousand-fold higher,
+###650 you get some spiking, but you need much more chitin than Nod Factor,
+###656 and it's not completely normal.
+###658 So for that, we can say that the plant is
+###662 exquisitely tuned to the Nod Factor.
+###665 Finally, we do know that the calcium flux and calcium spiking
+###670 are not just separated in space, but they're really independent
+###677 in that you can add high Nod Factor after calcium spiking
+###683 has started, and you'll get the big influx.
+###686 So they really do appear to be two separate events.
+###691 Now a third response that we were able to document
+###694 very early in nodulation is this one:
+###697 Using a whole seedling assay and with an indicator
+###702 that shows the presence of hydrogen peroxide,
+###705 we can follow normal roots over time,
+###709 and we can assess how much peroxide are they producing.
+###712 And in a normal, untreated root hair, that's shown here.
+###716 They don't produce zero, they produce a modest amount,
+###719 and here's what it looks like over a period of about 1.5 hours.
+###723 Now what if we treat those with Nod Factor?
+###725 What we find, very intriguingly, is that Nod Factor causes
+###730 the rate of evolution to be diminished.
+###733 So a lower level of hydrogen peroxide is produced
+###738 in the presence of Nod Factor.
+###742 Now what if we add an "elicitor," pathogenic elicitor?
+###746 We would expect an elicitor to cause the plant to
+###749 mount a defense response, and sure enough,
+###751 if you look at the amount of hydrogen peroxide coming in the plant
+###755 after the treatment with the elicitor, it's accelerated.
+###759 So it seems that roots are able to elaborate hydrogen peroxide,
+###765 an example of reactive oxygen species,
+###769 that Nod Factor diminishes that,
+###771 which would suggest it's lowering its defenses,
+###774 and an elicitor increases it, consistent with an increase in defenses.
+###779 Now, this is only over the couple of hours,
+###782 we're interested here only in very early events.
+###786 In fact, the defense reactions appear to have a very interesting
+###791 and complex role later on in nodulation, but this is not related to those.
+###797 This is just in the first two hours or so.
+###800 So now we can fill in a bit what we know
+###802 about the early responses of the plants to the rhizobial Nod Factor.
+###808 We know that it causes nodules to form, cell divisions in the plant.
+###816 We now can fill in that, in addition to the overall root hair curling,
+###821 which we could see in the microscope,
+###824 other kinds of assays demonstrate that there's a rapid depolarization
+###828 across the plant plasma membrane in response to Nod Factor.
+###832 This is accompanied by calcium flux.
+###835 Slightly later there's calcium spiking in the cytoplasm and
+###838 a suppression of the rate of reactive oxygen production.
+###843 Now one other topic that I'll just mention briefly is transcription.
+###848 We've been able to assess transcription during nodulation,
+###853 at various stages, with a specialized approach,
+###858 which is shown on the next slide.
+###861 We, following our work on determining the complete genome
+###866 sequence of the bacterium, we then constructed an Affymetrix chip
+###872 in which we had the complete bacterial genome,
+###874 plus about 10,000 sequences representing probable genes
+###880 from EST libraries in the plant, and we put
+###883 the two genomes on the same Affymetrix chip.
+###887 So we call this our SymbioChip, and through analysis of RNA
+###894 species from the nodules, we can actually get a readout of
+###897 both bacteria and the plant at the same time.
+###900 And through that, we were able to show that,
+###904 within the first 24 hours after treatment with Nod Factor or
+###909 after treatment with bacteria, a characteristic set of plant genes
+###915 are upregulated or are downregulated.
+###918 Some four dozen or so sequences,
+###921 and I'll talk a little bit more about that in a moment when
+###924 I get to the mutant analysis.
+###926 But now, let me put all of those events on a timeline for you.
+###930 So I'm going to start here on the left.
+###932 Now, we know that in the very early stages, within a minute,
+###936 we get calcium flux, suppression of reactive oxygen,
+###941 we get a depolarization.
+###943 There's also calcium spiking at about 10 minutes.
+###946 There are morphological changes.
+###948 You saw in the film that the root hairs pause
+###951 and swell a little bit right before they start to curl.
+###955 Then there's morphogenesis of the root hair,
+###957 forming branches and curls and both.
+###961 And we can see the cell divisions. Finally, the transcription.
+###965 Now here's the timeline for that happening.
+###968 If we start at time zero, and this is where the bacteria are being added,
+###972 those first events, such as the calcium flux and the depolarization,
+###978 happen within a few minutes, one to a few minutes.
+###981 Calcium spiking at an average of 10 minutes.
+###984 The gene expression that I mentioned, that we can assess
+###986 with our Affymetrix chip, that's happening as early as a
+###990 few hours and goes on for about 24 hours.
+###993 Now the actual curling of the root hair, the deformation of the root hair,
+###997 takes a while to express.
+###1000 Of course we have to keep in mind that this is limited by how
+###1004 fast the root hair can grow.
+###1006 We don't know when the decision to curl is made,
+###1009 but the actual outcome, the mechanics of curling,
+###1012 take somewhat longer.
+###1014 And then, here around 20 hours,
+###1016 we're going to start to get infection.
+###1018 The production of the infection thread and the ability of the bacteria
+###1022 now to penetrate in through that root hair.
+###1025 And then the cell division here leading
+###1028 to the production of the nodule, that's all happening over this
+###1033 period of a day to two days.
+###1036 Now through a set of genetic mutageneses and screens,
+###1041 our group and others have identified many different plant mutants
+###1045 that arrest at one or the other of these stages.
+###1050 And having these subcellular assays to do
+###1053 allowed us to distinguish between the different kinds of
+###1057 plant Nod- mutants. So here's an example.
+###1061 Here, on the left, is a gene called
+###1066 NFP for "Nod Factor perception." If that gene is mutated,
+###1070 you have a block right here, so nothing happens at all,
+###1074 there's no depolarization, there's no calcium flux,
+###1078 no change in the morphology.
+###1080 And then, here are two mutants that are
+###1086 present in such a way that they allow the plant to have calcium flux,
+###1090 and it has suppression of reactive oxygen species and so forth.
+###1095 However, it doesn't show calcium spiking.
+###1098 So these two mutants were able to distinguish
+###1100 between the early calcium flux and the calcium spiking itself.
+###1105 They are not only separated in the cell in geography and in time,
+###1109 but they can be separated genetically.
+###1113 Here, we found one or more mutants that allow calcium spiking
+###1119 but do not allow any gene expression.
+###1122 And so forth and so on down the line.
+###1125 So with all of this, we are able to set a timeline
+###1129 and a developmental sequence for how signals are transduced.
+###1133 And among other things, we were able to use that transcription assay
+###1138 to distinguish between root hair curling genes
+###1143 and early calcium transduction genes.
+###1146 And we were able to show that all of those plant genes
+###1150 that are expressed come on at the same time.
+###1154 It's not the case that you can get a few genes here,
+###1158 and a few more here, and a few more after that.
+###1160 You get no genes expressed at all, up until this point here.
+###1165 And we were able to show that by a combination of
+###1167 mutant analysis and transcription analysis.
+###1173 So that means we're going to be able to say that
+###1176 the series of events of shown here --
+###1179 calcium flux, suppression, growth arrest (the pausing) --
+###1184 can cluster, and we can see that one particular gene called NFP,
+###1190 which we believe encodes a receptor,
+###1192 is responsible and required for those events.
+###1195 Then there's a set of two genes, DMI1 and DMI2,
+###1200 that are required in order to get to calcium spiking.
+###1203 One of these is an ion channel,
+###1205 the other is a putative receptor kinase.
+###1208 Intriguingly, just downstream from calcium spiking
+###1213 is a mutant, DMI3, and another mutant, CYCLOPS;
+###1217 these are both required in order
+###1220 for any of the later events to occur, such as transcription.
+###1225 So we believe that these genes help interpret the
+###1228 calcium spiking signal and transduce it to the
+###1232 next set of genes, NSP1 and NSP2.
+###1235 These are required for transcription, and indeed,
+###1238 they turn out by sequence to be predicted transcription factors.
+###1242 More transcription factors are also required in order for
+###1245 nodulation to occur. Now all of these events
+###1248 on the right require the one pathway, this is called the signaling pathway,
+###1254 starting with the signaling receptor NFP1,
+###1257 and going through transcription factors.
+###1259 But I haven't said anything about infection,
+###1262 and I'd like to mention that.
+###1265 It turns out that the plants appear to have not one receptor, but two.
+###1270 The second receptor is called the "stringent" or "entry" receptor,
+###1275 and the name of that gene is LYK3, in the case of Medicago truncatula.
+###1280 This, and one of the transcription factors,
+###1283 are required in order for infection to occur.
+###1286 So you can have these other events happening, but no infection.
+###1292 This additional set of factors is required for infection.
+###1298 So back to the outline.
+###1300 I've gone through a description of some of the plant cell
+###1303 responses to Nod Factor, and told you about
+###1305 how we have used plant mutants, plus those cell phenotypes,
+###1309 in order to create an ordered set of steps that we believe
+###1313 represents the signal transduction pathway in early nodulation.
+###1317 In the next part of the talk, I'm now going to move, as I say,
+###1322 beyond nodulation: I'll be talking about infection
+###1325 and also about later stages in nodulation.
+###1330 So, as we think about the symbiosis, remember,
+###1334 everything that I described in terms of early signal transduction
+###1338 is over here. That's just the beginning.
+###1342 There's so much more to come.
+###1344 There's as the bacteria infect and eventually form the nodule.
+###1350 So now let's take a look at some of the
+###1352 specific topics that are interesting. First, infection.
+###1356 We've already seen that more genes are needed
+###1358 for infection than just for signaling.
+###1361 And the infection thread is a remarkable structure.
+###1364 It penetrates not just through the root hair,
+###1367 but then through multiple layers of plant cells,
+###1371 on its way in to find target cells.
+###1376 Now, as this proceeds, the plant elaborates an entire nodule,
+###1382 and all the dark cells in this photo are packed full of bacteria.
+###1388 And if you look close up at those,
+###1390 each bacterium is surrounded by an envelope of plant membrane,
+###1395 and within that, the bacteria are going to differentiate.
+###1399 So, using different approaches,
+###1401 we're going to take a look at how the plant manages
+###1405 to support these really remarkable events.
+###1408 We'll start with infection. As I mentioned,
+###1413 infection occurs beginning in the root hairs,
+###1416 and what we wanted to ask is,
+###1418 how does the inside of the plant cell
+###1420 cope with the invasion of the bacterium?
+###1422 How does it reorganize itself?
+###1424 We decided to take a look at some candidate genes called flotillins.
+###1430 These are genes that are originally identified in animals.
+###1434 I'll give a brief review, and then I'll show you
+###1437 our data that demonstrate that plant flotillins are active in nodulation.
+###1443 There's two copies of flotillins that are specifically upregulated
+###1447 in nodules, their transcription is regulated along with other
+###1453 nodulation genes, they're required for infection,
+###1458 they're required for elongation, and remarkably,
+###1461 the proteins of these flotillins have very striking
+###1465 localizations that we believe relate to the
+###1468 mechanism of infection. So, what are flotillins?
+###1471 They've been studied widely in animal cells.
+###1474 This diagram shows an animal cell with plasma membrane.
+###1478 Flotillins are shown here. There's two of them, they're outlined in red.
+###1484 They have a domain that is affiliated with the membrane,
+###1487 and a tail that is more cytoplasmic.
+###1490 And it is thought that they relate to signaling, to endocytosis,
+###1496 and to activity of the actin network within the cell.
+###1503 It's also been demonstrated that these flotillins occur
+###1510 in what are sometimes termed "membrane microdomains,"
+###1514 also sometimes called lipid rafts,
+###1516 although the terminologies are actively being discussed these days.
+###1524 Now plants have flotillins, too,
+###1525 although they have not been widely studied.
+###1529 In Arabidopsis, the sequence shows that
+###1531 there are three flotillins. In our analysis,
+###1533 we found more than seven in the legume Medicago truncatula.
+###1541 Of these seven, we found that two are uniquely expressed in nodules.
+###1547 We found that the proteins are, as with animals,
+###1550 flotillins present in small domains, or puncta.
+###1555 And I'll show you that one of the two has a very special localization
+###1561 during infection.
+###1562 Now, the predicted structures of the flotillins in plants
+###1566 looks very much like the animals',
+###1567 with a head domain and a tail domain,
+###1571 so we might expect that it's going to have some of the same properties.
+###1576 So, as I mentioned, Arabidopsis has only three flotillins,
+###1580 but Medicago truncatula has more than seven,
+###1584 and here's one of the really interesting things for us,
+###1587 is that there are a great number of these that are actually
+###1591 all linked together.
+###1592 Now you'll see here that there's flotillin 3 and 1,
+###1595 then there's down here flotillin 4 and flotillin 2.
+###1599 We believe that those are active flotillins.
+###1602 One of the others, shown here flotillin 5,
+###1604 is in the same genomic regiion, but we believe it's not an active gene.
+###1611 Now, we took a look at the activity of the promoters
+###1615 for each of those flotillins, and what you can see here is
+###1618 that the top, flotillin 1, its promoter is active in the vasculature.
+###1624 Here it's expressing a GUS fusion.
+###1628 Flotillin 3 is also active in the vasculature.
+###1632 But if you take a look at flotillin 2 and flotillin 4,
+###1635 these are being expressed in nodules.
+###1639 We can also quantify the transcript, and the same story emerges.
+###1643 We can see here that flotillin 1 and 3
+###1646 are at a low level throughout nodulation,
+###1649 but both flotillin 2 and flotillin 4 are strongly upregulated
+###1654 in the first day after roots are presented with bacteria.
+###1660 Flotillin 4 comes down, although flotillin 2 stays fairly well expressed
+###1667 during at least a couple of weeks of nodulation.
+###1671 So in terms of their expression,
+###1674 these appear to be especially associated with nodule development.
+###1679 Does that relate to any of the formalities that we know
+###1683 right now about the genetics of early nodulation?
+###1687 So remember that there are a set of genes that I introduced earlier,
+###1690 and we have mutations in these various
+###1693 steps for nodule signal transduction,
+###1698 and that transcription occurs only after a whole set of steps
+###1704 have taken place. So what about flotillin 2 and 4?
+###1708 And as you can see in this bar graph,
+###1712 those two flotillins actually require the same signal transduction pathway
+###1716 in order to be expressed.
+###1718 Here is a wild type on the left, we're seeing flotillin 2 and 4.
+###1722 And then here are a couple of the nodulation mutants.
+###1727 LYK3, NSP2, NIN-1, those are here.
+###1732 NSP and NIN, here's LYK3 for a receptor for Nod Factor.
+###1738 These appear to be required in order for the flotillins to be upregulated.
+###1743 We could also show that some of the downstream genes
+###1746 are not required.
+###1748 Now, we know that these flotillins are controlled
+###1752 in the same way nodulation genes are controlled,
+###1755 but what about their function?
+###1758 Through using RNAi approaches, we can diminish the
+###1762 activity of the various flotillins, and here's one particular experiment,
+###1768 and these results have been borne out in others',
+###1771 though the absolute numbers tend to vary.
+###1775 So if we take a look at a wild-type plant for example,
+###1778 we can see that it's got about six nodules per plant.
+###1782 If you knock out flotillin 1 and 3, there's again about six.
+###1786 But if you knock out flotillin 2, there's many fewer nodules.
+###1792 Flotillin 2 and flotillin 4, if knocked out together, is even more.
+###1796 But flotillin 4 knocked out by itself
+###1798 does not appear to have much an effect on the number of nodules.
+###1803 If you look at the percent of plants with nodules,
+###1806 you don't see a major effect.
+###1807 In fact, if anything, you seem to get a few increases
+###1812 of the percentage of plants that have some kind of growth on them.
+###1816 But now if we look at the percentage of nodules
+###1820 that are actually Fix+, which is indicated by the pink color
+###1824 from leghemoglobin, you can see that about,
+###1829 in this particular experiment, almost 30% of the wild-type nodules
+###1834 appear to be functioning, about the same for flotillin 1 and 3 knockouts.
+###1840 But if flotillin 2 is knocked out,
+###1843 then there's a striking diminution of the number of functional nodules,
+###1848 and a less striking but still significant change for flotillin 4.
+###1854 And the double mutant almost completely wipes out
+###1858 any effectiveness of the nodules that do form.
+###1861 So, we would conclude from that that flotillin 2 and flotillin 4
+###1865 are both required for nodulation, and that they are not redundant,
+###1869 because the double mutant has a more severe phenotype
+###1872 than either of the single mutants alone.
+###1876 We've also now gone to take a look at the proteins,
+###1878 and what we found is the following:
+###1881 Let's begin on the left with flotillin 2.
+###1884 This is a view of epidermal cells,
+###1886 so we're looking down at the surface of the root here.
+###1889 And you can see that flotillin 2 is present in little dots, or puncta,
+###1894 and there's a very striking localization of flotillin 2
+###1898 at the polar end of the cell.
+###1903 In the root hairs, the flotillin 2 is very strikingly punctate,
+###1907 it's present in these little dots, and this kind of distribution
+###1915 remains the case if the plants are inoculated,
+###1920 and that's shown in the lower part of the left-hand side.
+###1923 So, uninoculated and inoculated, flotillin 2 is punctate,
+###1928 it remains fairly stable, although there are some subtle changes
+###1933 in density and in polarity.
+###1936 But we got a very striking result with flotillin 4,
+###1941 and I'll show you that here. Now let's start on the top again.
+###1943 The epidermal cells and root hair cells,
+###1946 and it's very striking that the flotillin 4 signal (a GFP fusion signal)
+###1952 is present in puncta. But even more striking was that,
+###1957 after inoculation, what starts out as an even distribution of flotillin 4
+###1962 in root hairs becomes a highly polar distribution,
+###1966 and that's shown with these red arrows,
+###1969 where you can see that at the tips of these inoculated,
+###1972 bacteria-treated root hairs, flotillin 4 has migrated to the tip.
+###1978 So, that suggests that flotillin 4 has a very active participation
+###1984 in something having to do with what goes on at root hair tips.
+###1987 So we began to look specifically at infection,
+###1990 using wild type as control, where you can see bacteria invading.
+###1996 These blue, lac-stained bacteria show infection threads
+###1999 for bacteria on a wild-type plant.
+###2004 Here's a nice infection thread growing through a root hair
+###2006 on the wild type. But in a flotillin 4 "minus" mutant,
+###2009 things are not working very well.
+###2012 What you're seeing here is that there's no significant
+###2016 penetration deep into the nodule.
+###2019 Furthermore, even if you look at a root hair,
+###2022 the infection threads lack integrity, they're not well structured,
+###2029 and we find in fact that they don't succeed, they don't penetrate.
+###2034 So it appears that flotillin 4 function is important for infection threads,
+###2039 and we also now have evidence that shows that flotillin 4 is
+###2042 associated with infection threads.
+###2046 Flotillin 2 is shown here, bright green fluorescence around the cell.
+###2053 This particular root hair, which is curled, has been infected,
+###2056 and it has bacteria that fluoresce red. Those bacteria are shown here.
+###2061 But you can see that the flotillin 2 is around the membrane of the outer cell,
+###2066 it's not affected, not close by to the red fluorescence of the bacteria.
+###2071 However, if we look at flotillin 4, that's shown here.
+###2075 Flotillin 4-GFP is around the outside, but it's also here, see?
+###2080 Around the infection thread. Green fluorescence,
+###2084 and here's the red bacteria inside the fluorescence.
+###2087 So that suggests that flotillin 4 is affiliated with the
+###2091 infection thread membrane.
+###2093 Now you'll recall that, in the sequence of genes
+###2097 that are important for nodulation signal transduction,
+###2101 one set is called the signaling pathway, here,
+###2104 but more genes are needed in order to get infection,
+###2107 including the entry receptor LYK3.
+###2110 Now that we've got some clue that flotillins are involved in infection,
+###2114 we might want to ask whether we can place flotillins in any kind of
+###2118 relationship to the genes that have been previously found
+###2121 to be important for early signaling and infection.
+###2124 Now, in the following photos,
+###2127 I'm looking at the puncta density of flotillin 4.
+###2133 Here's a wild type, and the puncta density is the number of
+###2137 bright spots per square micron,
+###2140 so you might have a little square micron there,
+###2145 and then you plot the number.
+###2147 And I'm going to compare that wild type to three different mutants.
+###2152 Each of these is a mutant in the putative entry receptor LYK3.
+###2156 lyk3-1, which is the most severe,
+###2160 and two other alleles, lyk3-2 and 3-4.
+###2166 The lyk3-1 is predicted to have a protein with a dead kinase domain,
+###2173 and what we saw looking at this particular index of
+###2177 puncta density is that, if you compare the wild-type number here
+###2182 to the number in the lyk3-1 mutant, the puncta density for FLOT4
+###2187 is greatly diminished, significantly lower.
+###2190 We don't draw any mechanistic conclusion from this,
+###2193 but it did give us the sense that maybe LYK3 itself,
+###2197 together with FLOT4, would be worth looking at.
+###2201 So we want to ask whether LYK3 and flotillin 4 interact.
+###2206 We're going to need to study LYK3,
+###2208 and we were fortunate to collaborate with Doug Cook, Brendan Riely,
+###2212 and their colleagues at UC Davis, and thanks to their contributions,
+###2217 we have the following tools for study:
+###2219 First and most importantly, a stable transgenic of
+###2223 Medicago truncatula that carries a GFP fusion to LYK3,
+###2227 under the control of its own promoter.
+###2230 It's known that this is functional because it complements
+###2233 a lyk3-1 mutant.
+###2235 Because it's under its own promoter, we have more reassurance
+###2239 about its correct position and localization.
+###2242 Now into this stable transgenic, we're now going to introduce
+###2247 a second marker, we're going to create a transformant
+###2251 that also has flotillin 4 linked to the fluorescent mCherry protein,
+###2257 so we'll have green fluorescence for LYK3, red fluorescence for FLOT4.
+###2261 And our particular tool is going to be a spinning-disk confocal
+###2264 at the Carnegie Institution, in collaboration with David Ehrhardt.
+###2270 We were able to visualize the LYK3 putative receptor in root hairs.
+###2277 So the results are shown here.
+###2279 We have LYK3-GFP, it's present in the root hair,
+###2282 you can see that it's punctate.
+###2287 And when we took a look at the LYK3 plant with infections,
+###2292 we found the following: Here's a curled root hair,
+###2296 and you can see going down through the curled root hair
+###2298 is an infection thread, and the green fluorescence of
+###2301 that LYK3 is all the way along the infection thread membrane,
+###2305 so we can see that the LYK3 putative receptor is localizing
+###2310 the same way that the flotillin 4 appears to do along the
+###2315 infection thread, as it moves into the cell.
+###2318 Now, an important control is shown here also.
+###2321 Root hairs and other parts of plant cell walls have
+###2326 autofluorescence as well, and we wanted to ask whether
+###2330 the green fluorescence we saw here was really due to the LYK3,
+###2334 or was it autofluorescence.
+###2336 The results of that are shown in this other panel.
+###2339 Now, this is a fusion of LYK3 to a nonfluorescent protein.
+###2345 And again, there are bacteria that are fluorescing red.
+###2348 Well, what you can see is that it's a good idea
+###2351 to do this control because the crook of the root hair
+###2355 is very highly autofluorescent, so if we were to see this
+###2359 and say it's GFP fluorescence, we'd be wrong,
+###2362 because that's just what root hair cell wall is doing.
+###2365 You can see here the infection thread is moving down
+###2369 with the red fluorescence, and there is no
+###2374 green fluorescence around it.
+###2375 So infection threads are not intrinsically fluorescent;
+###2379 it's only that the LYK3-GFP is providing that signal.
+###2384 So now we know that flotillin 4 and LYK3 appear
+###2388 to localize to the same place.
+###2390 Can we find out anything else about them?
+###2393 So in this, we have started to use that double transgenic.
+###2401 So what's going on here is that this plant has LYK3-GFP.
+###2406 It also has flotillin 4-mCherry.
+###2409 Now, these are closeups below, you can see the LYK3-GFP,
+###2414 flotillin 4-mCherry.
+###2416 And these are uninfected root hairs.
+###2419 And if you merge the two images,
+###2421 it's possible to see here that the green and red are distinct.
+###2426 So that suggests that they are not co-localizing
+###2429 within the distance where their fluorescence would
+###2432 mix and make a yellow color.
+###2435 Now, taking a look at that more statistically,
+###2438 we can do a correlation plot, as shown here,
+###2441 where on one axis, on the x-axis, that's the fluorescence intensity of one,
+###2447 on the y-axis is the fluorescence intensity of the other.
+###2451 And in fact, there's a distribution all the way around,
+###2455 it doesn't particularly correlate.
+###2457 If you have a high fluorescence of mCherry,
+###2459 that could be either low or high fluorescence of GFP.
+###2464 But what happens when we treat root hairs with bacteria?
+###2470 And that's shown here.
+###2472 Now, again we've got the GFP, here's a closeup.
+###2476 We've got the mCherry for the flotillins, and a closeup.
+###2480 But now, when we do the co-localization,
+###2482 you can see that there appears to be a
+###2485 merging of the green and red fluorescence,
+###2488 to present a higher number of puncta that look yellow.
+###2493 So we would say there appears to be an increase
+###2497 in the correlation of their location,
+###2501 and here's another way of looking at that.
+###2503 The correlation plot now shows a correlation coefficient
+###2508 that's more than 0.5.
+###2512 That means that more than half the time,
+###2515 you're getting a correlation of the intensity of fluorescence
+###2518 of one and the other.
+###2520 So that suggests to us that whether or not flotillin 4 and LKY3
+###2525 are associated depends on
+###2528 whether the bacteria have interacted with the root hair.
+###2531 So we pursued that a little more.
+###2534 Another way that we have started to look at that
+###2536 is to examine the dynamics, not just the location,
+###2540 but dynamics of what these proteins are doing.
+###2543 So in this experiment, we're going to be looking at a root hair
+###2548 which has a LYK3-GFP fusion, so that's the only fluorescence
+###2553 you're going to see, it's just the receptor LYK3.
+###2557 And what you're going to be seeing in the micrographs
+###2560 is as if you took a plane like this, right?
+###2564 Through the root hair and, where you see this bright point,
+###2569 that's what is going to be shown now on the films.
+###2574 Now the left-hand...
+###2576 we're going to look at LYK3 in an uninfected root hair.
+###2581 So one of the things you can see is that it's very dynamic.
+###2585 If you try to focus on a point and follow the LYK3,
+###2590 it's moving around too much, you can't do that.
+###2593 But now let's look at a root hair that has been treated with bacteria.
+###2599 What a difference.
+###2600 Now you're looking at the LYK3 fluorescence,
+###2602 and it's really behaving itself. It's sort of staying place,
+###2605 and these two arrowheads, for example,
+###2607 show places that you can focus in,
+###2609 and you can see a LYK3 signal that's not moving, that's fairly stable.
+###2614 So that suggests to us that it's not just where LYK3 is,
+###2620 it's how fast it's moving and perhaps shuttling around,
+###2625 that is being changed by the presence of the bacteria,
+###2627 which is remarkable, and that led us to another way
+###2632 to look at LYK3 together with flotillin 4.
+###2636 In the following, we won't be looking at movies,
+###2639 but we'll be representing the dynamics over time
+###2641 through what's called a kymograph.
+###2643 Now what you're seeing on the left is a micrograph of the receptor
+###2649 LYK3-GFP fluorescence, flotillin 4 fluorescence, and the merge.
+###2654 Likewise, here for bacterially treated root hairs,
+###2659 LYK3-GFP, flotillin 4-mCherry, and then the merge.
+###2664 Now, at each point in time, we don't look at the whole root hair,
+###2670 we're going to just be looking at a transect shown here,
+###2674 and also shown over here, by these blue arrows.
+###2678 And at any one point in time, just that line is going to
+###2682 be represented as follows.
+###2685 Here, if we take this line going across the uninfected LYK3-GFP,
+###2694 then we can see at one 10-second period
+###2698 whether a particular position was light or dark.
+###2701 We can follow that over time and we can see that the correlation
+###2705 is rather loose. However, flotillin 4 is very stable;
+###2709 if you look at the flotillin 4,
+###2712 10 seconds, 20 seconds, and so forth...
+###2715 if it's fluorescent at one 10-second interval,
+###2718 it's highly likely to be fluorescent in the next one,
+###2720 and so you get this set of lines going through.
+###2724 Now, if we take a look at root hairs that are treated with bacteria,
+###2728 we find the following.
+###2731 Again, this is what the root hairs look like,
+###2736 but if we follow them over time, you can now see that the LYK3-GFP
+###2739 is very stable. If that transect shows a bright point
+###2744 at one 10-second interval, it's probably going to be bright
+###2746 the next 10-second interval as well, so the LYK3 has settled down,
+###2752 the flotillin 4 is still very stable, and when you take a look at the merge,
+###2757 you can see that there appears to be a correlation of the brightness.
+###2762 So, as we summarize, we can say the following:
+###2766 That the puncta density is changed for FLOT4-GFP
+###2774 in a genetic background where LYK3 is mutated.
+###2778 We can see that LYK3 itself localizes in puncta
+###2783 that suggests it's in membrane microdomains.
+###2786 Also, it also localizes to infection threads.
+###2789 We found that in uninfected root hairs, the receptor
+###2795 and the flotillin do not have much overlap,
+###2799 and also they are very different in their motility, in their dynamics.
+###2803 However, after inoculation with Sinorhizobium meliloti,
+###2808 the receptor and the flotillin co-localize,
+###2811 and their dynamics remain similar.
+###2814 Not known is whether this is direct or indirect.
+###2818 What is the nature of the protein-protein interactions?
+###2820 Because fluorescence in and of itself is relatively loose,
+###2826 it does not have to have precise molecular adjacency.
+###2831 So further fluorescence studies with FRET
+###2836 and biochemical studies will be necessary,
+###2838 and we think that following the combination of
+###2842 flotillins and receptors is going to be a very exciting way
+###2846 to ask how the plant is mobilizing itself to accept infection.
+###2851 So back to the outline.
+###2853 I've finished talking a little bit about how a candidate gene approach
+###2858 took us from the study of flotillins to the study of infection.
+###2862 In this next segment, I'd like to talk about some mutants
+###2866 that we've isolated called the dnf mutants.
+###2869 These have identified plants genes
+###2872 necessary for the final stages of symbiosis.
+###2875 And I'll talk about two of those, DNF1,
+###2879 which encodes a signal peptidase,
+###2881 and DNF2, a putative phospholipase C.
+###2885 So looking again at the sequence of nodulation,
+###2887 we're now taking a look at an even later stage,
+###2891 where bacteria have penetrated into the nodule,
+###2895 and they get released into the cells, and they're able to fix nitrogen.
+###2902 So the dnf mutants, called "defective in nitrogen fixation,"
+###2907 were isolated out of a screen that we did of
+###2910 mutants that we generated by fast neutron bombardment.
+###2914 This often creates deletions, it's an ionizing radiation,
+###2919 and so these are severe mutants.
+###2921 When we screen them, we found a number of mutants
+###2925 which were like this. Instead of being nice,
+###2928 pink nodules here, the dnf mutants are white,
+###2931 and they're small. They don't have any nitrogenase activity,
+###2935 and that's shown in this slide
+###2938 by assessment of acetylene reduction, shown here.
+###2942 Wild type is able to convert acetylene to ethylene,
+###2945 which an indicator for nitrogenase enzyme.
+###2948 But the dnf mutants, as you can see,
+###2950 have very low or even no ability to fix nitrogen.
+###2955 Now, they also don't seem to have completely normal development.
+###2960 One of the mutants, dnf1, is shown here,
+###2962 and we got two alleles of that, they're very similar.
+###2965 A wild-type nodule has cells filled with bacteria.
+###2971 The bacteria do get infected into the dnf1 nodules as well;
+###2976 nonetheless, they are not as large,
+###2979 and they do not seem to be able to fix nitrogen.
+###2983 So we took a look further at dnf1,
+###2987 and one of the ways in which we studied this was as follows.
+###2993 Here's a wild-type nodule shown in section, and this nodule,
+###2999 in this case, has been established by the action of a bacterium
+###3004 carrying a glucuronidase fusion into the promoter
+###3008 for the nitrogenase gene. That means that if the bacteria
+###3013 are expressing their nitrogenase, then the nodule will turn blue
+###3018 in the presence of a glucuronidase substrate.
+###3021 So, what we see here is that the nifH (which is nitrogenase)-glucuronidase
+###3026 fusion is turned on.
+###3028 That's good, that means that the bacteria are expressing their
+###3031 nitrogen fixation genes.
+###3033 However, what we found with the dnf1 was the following:
+###3038 Taking a look at these nodules with the same exact bacterium
+###3042 carrying a glucuronidase fusion to the nif promoter, we found no activity.
+###3047 You could see here with the red arrow; it's pointing toward the nodule,
+###3050 but there's no blue stain.
+###3051 So we conclude from this that the bacteria are not able to
+###3055 express the genes for nitrogen fixation.
+###3059 So we can say that the bacteria need the plant's DNF1
+###3063 in order for the bacteria to fix nitrogen,
+###3066 or even to express their nitrogen fixation genes.
+###3069 So what is dnf1? This gene in the plant encodes
+###3074 one of the subunits of what turns out to be a nodule-specific
+###3078 signal peptidase.
+###3079 And I'll tell you about nodule-specific
+###3081 and the other components in a moment.
+###3083 But first I'll just review a little bit what signal peptidase is.
+###3086 In a eukaryotic cell, we've got the endoplasmic reticulum,
+###3091 and proteins that are extruded into the lumen
+###3096 may get there by a signal peptide,
+###3098 and if the signal peptidase cleaves off that signal peptide,
+###3103 and that allows the production of the mature protein,
+###3107 which would be shown here.
+###3108 Now, once that mature protein is formed,
+###3111 after its signal peptide is taken off,
+###3114 then it may be targeted for secretion or for vesicle trafficking.
+###3120 So what we found is that DNF1,
+###3122 required for bacterial gene expression and differentiation,
+###3127 has something to do with protein processing.
+###3130 Now let's take a look at the expression of this gene.
+###3133 If you take a look at the vegetative parts of the plant,
+###3135 such as the leaf and stem or flowers,
+###3140 what you find is that expression of the DNF1 signal peptidase subunit
+###3145 is very low, but it's quite high in nodules.
+###3149 It's also present to some extent in developing seeds,
+###3152 although at a much lower level.
+###3154 Taking a look at the time course, what we can see is here.
+###3157 The DNF1, if you plot days of nodule growth and development,
+###3163 and DNF1 expression, you can see that DNF1
+###3165 goes up early in nodule development.
+###3169 You can also track it during seeds and find that
+###3172 it's relatively steady during the maturation of seeds.
+###3176 So, DNF1 is most highly expressed in nodules
+###3179 and it goes up very early in those nodules.
+###3182 Now, let's take a look not just at DNF1, but using transcription,
+###3189 let's take a look at what genes,
+###3192 out of all the microarray data, tend to be expressed
+###3195 whenever DNF1 is expressed, and those are shown here.
+###3199 Now, on the left, you can see the names of the proteins.
+###3204 This is what they do, and what you can see is that there's
+###3207 the other subunits in the signal peptidase complex,
+###3214 are also regulated up in early nodules the same way the DNF1 is.
+###3220 In addition, the signal peptide peptidase,
+###3222 which is needed for completion of the degradation of the signal peptide,
+###3227 that's also upregulated.
+###3229 And finally, this very intriguing protein, SYP132, syntaxin 132...
+###3235 Now what are syntaxins?
+###3237 This is a reminder of how they have been characterized in animal cells;
+###3242 syntaxins are important proteins for vesicle targeting, and in fact,
+###3250 SYP132 here in the plant probably marks the last step of protein secretion,
+###3256 and empirically, it has been observed on plant plasma membranes
+###3260 and also on what's called the symbiosome membrane.
+###3264 That's the membrane that surrounds the bacterium once it's inside the cell.
+###3268 So if we take a look at all of these genes,
+###3271 we can see that they are co-regulated.
+###3274 So we've got a whole signal peptidase complex, and what is it doing?
+###3278 One of the most important questions that could be asked is,
+###3280 what are the substrates?
+###3282 What proteins does this signal peptidase help to mature?
+###3286 And the answer came from work in the labs
+###3289 in Gif-sur-Yvette and in Szeged, Hungary,
+###3293 led by Eva Kondorosi and Peter Mergaert, and their colleagues.
+###3297 And what they have described is a set of proteins
+###3300 called "nodule cysteine-rich peptides."
+###3304 These are characteristic of nodules,
+###3307 they are not expressed anyplace else in the plant.
+###3310 And they are rich in cysteine and bear some resemblance to defensins,
+###3314 which are proteins made by plants and animals
+###3318 in response to microbes.
+###3321 They were able to show using our dnf1 mutant, that one of these,
+###3326 for example, NCR peptide #1, in a wild-type plant,
+###3331 gets processed to a smaller molecular weight.
+###3335 But unless the DNF1 peptidase is there, it does not get processed,
+###3340 because here's our mutant, and you can see that the protein,
+###3344 shown here in immunoblot, is larger.
+###3347 It's because its signal peptide was never taken off.
+###3350 They have also been able to show that, with antibodies,
+###3354 that in wild-type cells, if you use a green dye to indicate the bacteria
+###3359 and a red fluorescence for the antibody to the NCR peptide,
+###3365 they co-localize.
+###3366 Bacteria and NCR peptides co-localize in a normal wild-type cell.
+###3372 Here, they showed an example of what happens in a mutant dnf1 cell.
+###3378 You can see that the bacteria are all over the place in green,
+###3383 but that this NCR peptide,
+###3386 which we know is not being processed, right?
+###3388 Because it's large molecular weight?
+###3389 That NCR peptide is stuck someplace,
+###3392 probably in the endoplasmic reticulum.
+###3394 So, their conclusions, together with our work on the DNF1,
+###3399 are that the NCR peptides are substrates of the DNF1 complex.
+###3403 In wild type, these are delivered to the symbiosome,
+###3406 and in dnf1, they're retained in the ER.
+###3409 They've shown in other work that these mature NCR peptides
+###3413 have profound effects on bacteria,
+###3415 such as causing them to cease cell division
+###3418 and changing their membrane permeability,
+###3421 so that's an ongoing story about the activity of the NCRs.
+###3426 To complete the model so far, we might ask,
+###3430 what does DNF1 do,
+###3432 and one likely activity is that it processes NCR proteins.
+###3438 These end up in the lumen of the ER, and they are targeted,
+###3442 perhaps using SYP132 as part of the mechanism for targeting,
+###3448 into vesicles, which come over and fuse with the symbiosome,
+###3453 in which Rhizobium are going to be differentiating.
+###3457 Now, we also have questions about DNF1 beyond the NCR proteins.
+###3462 For example, DNF1 is present even in legume plants
+###3466 that do not have the NCR proteins.
+###3469 So what is it doing there?
+###3471 Another question is, in the dnf1 mutant,
+###3477 the bacteroids do not differentiate, but they also stop dividing,
+###3482 so it seems that even without DNF1,
+###3485 there may be other signals that are helping these bacteria
+###3490 to stop dividing. So we hope that we'll be able to work on those,
+###3493 as well as on the actual mechanism of DNF1
+###3497 in the next period of our work.
+###3500 I'd now like to finish by telling you about the other mutant, dnf2.
+###3504 And this, as you recall, as shown right there,
+###3507 that also had no nitrogen fixation.
+###3511 And we've done some work to characterize
+###3514 what's going on with dnf2
+###3516 and also to figure out what the gene is.
+###3518 Here is a picture in which you can see,
+###3521 from the root part to the distal part of the nodule,
+###3526 fluorescently labeled bacteria, and they are inside.
+###3530 We can tell that the bacteria get inside the dnf2 mutant nodules.
+###3536 However, they don't express nitrogenase,
+###3540 and they don't express many other bacterial genes either.
+###3543 So, somehow, DNF2 is again required for the bacteria
+###3548 to differentiate and, in fact, to express genes.
+###3553 Now we know that DNF2 is expressed only in nodules,
+###3558 even more strictly than DNF1.
+###3561 This shows you some promoter-GUS fusions
+###3563 where you can see that the early part of the nodule is expressing DNF2,
+###3569 and here you can see it at the tip,
+###3571 and then it diminishes just slightly as the nodules get somewhat older.
+###3578 What is DNF2?
+###3581 It appears to be similar to a phospholipase C,
+###3586 but it's not a canonical phospholipase C the way we're used to seeing.
+###3590 Here would be the classic PLC.
+###3593 You can see it's got the inositol trisphosphate binding, EF-hands,
+###3599 catalytic domains, calcium-binding domains, and so forth.
+###3604 The DNF2 is only homologous to
+###3609 one part of this large, complex phospholipase C.
+###3615 However, we do find that it is very, very similar
+###3619 to a phospholipase C whose model is shown here.
+###3623 This is actually a bacterial phospholipase C,
+###3627 and if you take this in red and then superpose DNF2,
+###3631 it does appear to be very, very similar in its 3D structure.
+###3636 So we want to know what's the biochemical activity;
+###3639 sequence alone doesn't tell us whether it really acts
+###3643 to process phospholipids or as a signaling.
+###3650 But we found one other thing that's really surprising to us.
+###3654 First, as I mentioned, it's only expressed in nodules,
+###3658 but secondly, it's not expressed in the cells of the plant that have Rhizobium.
+###3665 It's expressed in the noninfected cells of the nodule.
+###3669 And that's really a first.
+###3671 There are known metabolic enzymes in soybean, for example,
+###3675 that are present in uninfected cells.
+###3678 But there has never been found a regulator
+###3680 that appears to be active in the noninfected cells of the root nodule.
+###3686 So, what we're trying to ask ourselves is,
+###3689 does the DNF2 protein mediate the infection process
+###3693 directly or indirectly?
+###3696 Is it acting in some way that allows the noninfected cells
+###3700 to send signals or perhaps to avoid signals?
+###3703 So those are some of the questions that lie ahead for us.
+###3707 So winding up the combination of the studies that I've shown you today,
+###3711 I think that the future of our field is going to be very exciting
+###3714 as we take the results of the plant mutants and
+###3718 we study the proteins that are defined by those mutations,
+###3721 and look at how those work, both plant and bacteria together,
+###3725 not looking just at position, but looking at time.
+###3728 We're interested in the great questions of:
+###3732 What the signals are,
+###3734 and how the signals are transduced.
+###3736 Given that so much complicated cell biology has to happen
+###3740 between the beginning of the infection thread and the maturation of the symbiosome,
+###3745 we want to know not just the regulation,
+###3747 but what is the machinery of this infection,
+###3750 and we believe that both the proteins and molecular probes
+###3753 that we can obtain can be used to study the individual steps of
+###3758 nodulation as they move forward.
+###3761 So that concludes our journey through the plant side of symbiosis.

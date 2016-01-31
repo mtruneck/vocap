@@ -1,0 +1,535 @@
+1
+0:0:10,0 --> 0:0:12,66
+African Grass Owlet
+
+
+2
+0:0:12,66 --> 0:0:14,0
+African Marsh Owl
+
+
+3
+0:0:14,0 --> 0:0:16,0
+African Wood Owl
+
+
+4
+0:0:16,0 --> 0:0:18,66
+Andaman Grass owl
+
+
+5
+0:0:18,66 --> 0:0:20,33
+Andean Pygmy Owl
+
+
+6
+0:0:20,33 --> 0:0:22,66
+Ashy Faced Owl
+
+
+7
+0:0:22,66 --> 0:0:24,66
+Austral Pygmy Owl
+
+
+8
+0:0:24,66 --> 0:0:26,66
+Austral Masked Owl
+
+
+9
+0:0:26,66 --> 0:0:28,0
+Balsas Screech Owl
+
+
+10
+0:0:28,0 --> 0:0:30,0
+Band-Bellied Owl
+
+
+11
+0:0:30,0 --> 0:0:32,0
+Bare-Shanked Screech Owl
+
+
+12
+0:0:32,0 --> 0:0:34,0
+Barking Owl
+
+
+13
+0:0:34,0 --> 0:0:36,33
+Barn Owl Chick
+
+
+14
+0:0:36,33 --> 0:0:38,33
+Brred Eagle Owl
+
+
+15
+0:0:38,33 --> 0:0:40,0
+Barred Owl
+
+
+16
+0:0:40,0 --> 0:0:42,33
+Bearded Screech Owl
+
+
+17
+0:0:42,33 --> 0:0:44,0
+Black & White Owl
+
+
+18
+0:0:44,0 --> 0:0:46,0
+Black Banded Owl
+
+
+19
+0:0:46,0 --> 0:0:48,0
+Black-Capped Screech Owl
+
+
+20
+0:0:48,0 --> 0:0:50,66
+Blakistons Fish Owl
+
+
+21
+0:0:50,66 --> 0:0:52,33
+Boobook Owl
+
+
+22
+0:0:52,33 --> 0:0:54,0
+Brown Fish Owl
+
+
+23
+0:0:54,0 --> 0:0:56,33
+Brown Hawk Owl
+
+
+24
+0:0:56,33 --> 0:0:58,66
+Brown Wood Owl
+
+
+25
+0:0:58,66 --> 0:1:0,0
+Brrowing Owl
+
+
+26
+0:1:0,0 --> 0:1:2,33
+Cape Eagle Owl
+
+
+27
+0:1:2,33 --> 0:1:5,0
+Celebes Barn Owl
+
+
+28
+0:1:5,0 --> 0:1:6,66
+Celeces or Sulawesi Scops Owl
+
+
+29
+0:1:6,66 --> 0:1:9,0
+Chaco Pygmy Owl
+
+
+30
+0:1:9,0 --> 0:1:10,66
+Chaco Owl
+
+
+31
+0:1:10,66 --> 0:1:15,0
+Christmas Island Hawk Owl
+
+
+32
+0:1:15,0 --> 0:1:17,66
+Cinnabar Hawk Owl
+
+
+33
+0:1:17,66 --> 0:1:19,0
+Cinnamon Screech Owl
+
+
+34
+0:1:19,0 --> 0:1:21,66
+Coud Forest Owl
+
+
+35
+0:1:21,66 --> 0:1:23,0
+Colima Pygmy Owl
+
+
+36
+0:1:23,0 --> 0:1:25,33
+Collared Scops Owl
+
+
+37
+0:1:25,33 --> 0:1:27,66
+Common Scops Owl
+
+
+38
+0:1:27,66 --> 0:1:29,66
+Costa Rican Pygmy Owl
+
+
+39
+0:1:29,66 --> 0:1:31,33
+Crested Owl
+
+
+40
+0:1:31,33 --> 0:1:33,33
+Dusky Eagle Owl
+
+
+41
+0:1:33,33 --> 0:1:35,66
+Eastern Grass Owl
+
+
+42
+0:1:35,66 --> 0:1:37,66
+Eastern Screech Owl
+
+
+43
+0:1:37,66 --> 0:1:39,0
+Elf Owl
+
+
+44
+0:1:39,0 --> 0:1:41,33
+Easian Eagle Owl Chick
+
+
+45
+0:1:41,33 --> 0:1:43,0
+Erasian Pygmy
+
+
+46
+0:1:43,0 --> 0:1:45,0
+Frruginous Pygmy Owl
+
+
+47
+0:1:45,0 --> 0:1:47,66
+Fammulated Owl
+
+
+48
+0:1:47,66 --> 0:1:49,66
+Forest or Spot-Bellied Owl
+
+
+49
+0:1:49,66 --> 0:1:51,33
+Fser's Eagle owl
+
+
+50
+0:1:51,33 --> 0:1:53,66
+Fulvous owl
+
+
+51
+0:1:53,66 --> 0:1:55,33
+Giant Scops Owl
+
+
+52
+0:1:55,33 --> 0:1:57,66
+Great Gray Owl
+
+
+53
+0:1:57,66 --> 0:1:59,0
+Great Horned Owl
+
+
+54
+0:1:59,0 --> 0:2:1,33
+Greater Sooty Owl
+
+
+55
+0:2:1,33 --> 0:2:3,66
+Guatemalan Pygmy Owl
+
+
+56
+0:2:3,66 --> 0:2:5,66
+Guatemalan Screech Owl
+
+
+57
+0:2:5,66 --> 0:2:7,33
+Humes Tawny Owl
+
+
+58
+0:2:7,33 --> 0:2:9,66
+Indian or Rock Eagle Owl
+
+
+59
+0:2:9,66 --> 0:2:12,66
+Indian Scops Owl
+
+
+60
+0:2:12,66 --> 0:2:14,0
+Jamaican Owl
+
+
+61
+0:2:14,0 --> 0:2:16,66
+Japanese Scops Owl
+
+
+62
+0:2:16,66 --> 0:2:18,66
+Laughing Owl
+
+
+63
+0:2:18,66 --> 0:2:20,0
+Least Pygmy Owl
+
+
+64
+0:2:20,0 --> 0:2:22,33
+Lesser Sooty Owl
+
+
+65
+0:2:22,33 --> 0:2:24,0
+Little Sumba Hawk Owl
+
+
+66
+0:2:24,0 --> 0:2:26,33
+Little Owl
+
+
+67
+0:2:26,33 --> 0:2:28,66
+Long-Earred Owl
+
+
+68
+0:2:28,66 --> 0:2:30,0
+Madagascar Red Owl
+
+
+69
+0:2:30,0 --> 0:2:32,33
+Madagascar Scops Owl
+
+
+70
+0:2:32,33 --> 0:2:34,0
+Magellan Horned Owl
+
+
+71
+0:2:34,0 --> 0:2:36,66
+Malay or Buffy Fish Owl
+
+
+72
+0:2:36,66 --> 0:2:38,0
+Maned Owl
+
+
+73
+0:2:38,0 --> 0:2:40,33
+Mantanani Scops Owl
+
+
+74
+0:2:40,33 --> 0:2:42,0
+Minahassa Barn Owl
+
+
+75
+0:2:42,0 --> 0:2:44,66
+Moluccan Hawk
+
+
+76
+0:2:44,66 --> 0:2:46,66
+Moluccan Scops Owl
+
+
+77
+0:2:46,66 --> 0:2:48,33
+Montane Forest
+
+
+78
+0:2:48,33 --> 0:2:50,0
+Morepork Owl
+
+
+79
+0:2:50,0 --> 0:2:52,66
+Mottled Wood Owl
+
+
+80
+0:2:52,66 --> 0:2:54,33
+Mottled Owl
+
+
+81
+0:2:54,33 --> 0:2:56,33
+Mountain Pygmy Owl
+
+
+82
+0:2:56,33 --> 0:2:58,66
+Northern Hawk Owl
+
+
+83
+0:2:58,66 --> 0:3:0,0
+Northern Pygmy Owl
+
+
+84
+0:3:0,0 --> 0:3:2,66
+Northern Saw-Whet Owl
+
+
+85
+0:3:2,66 --> 0:3:4,33
+Northern Tawny-Bellied Owl
+
+
+86
+0:3:4,33 --> 0:3:6,33
+Northern White Faced Scops Owl
+
+
+87
+0:3:6,33 --> 0:3:8,66
+Ochre-Bellied Hawk Owl
+
+
+88
+0:3:8,66 --> 0:3:10,0
+Oriental Bay Owl
+
+
+89
+0:3:10,0 --> 0:3:12,0
+Oriental Scops Owl
+
+
+90
+0:3:12,0 --> 0:3:14,66
+Pacific Screech Owl
+
+
+91
+0:3:14,66 --> 0:3:16,0
+Pemba Scops Owl
+
+
+92
+0:3:16,0 --> 0:3:18,0
+Pernambuco Pygmy Owl
+
+
+93
+0:3:18,0 --> 0:3:20,33
+Peruvian Pygmy Owl
+
+
+94
+0:3:20,33 --> 0:3:22,0
+Philippine Eagle Owl
+
+
+95
+0:3:22,0 --> 0:3:24,66
+Phillipine Scops Owl
+
+
+96
+0:3:24,66 --> 0:3:27,0
+Powerful Owl
+
+
+97
+0:3:27,0 --> 0:3:29,0
+Puerto Rican Screech Owl
+
+
+98
+0:3:29,0 --> 0:3:31,0
+Ridgways Pygmy Owl
+
+
+99
+0:3:31,0 --> 0:3:33,0
+Rufescent Screech Owl
+
+
+100
+0:3:33,0 --> 0:3:35,33
+Rufous-Legged Owl
+
+
+101
+0:3:35,33 --> 0:3:37,0
+Rufus Owl
+
+
+102
+0:3:37,0 --> 0:3:39,66
+Ryuku Scops Owl
+
+
+103
+0:3:39,66 --> 0:3:41,66
+Serendib Scops Owl
+
+
+104
+0:3:41,66 --> 0:3:43,66
+Short-Earred Owl
+
+
+105
+0:3:43,66 --> 0:3:45,0
+Snowy Owl
+
+
+106
+0:3:45,0 --> 0:3:47,0
+Sokoke Scops Owl
+
+
+107
+0:3:47,0 --> 0:5:47,0
+Spotted Owlet
+
+

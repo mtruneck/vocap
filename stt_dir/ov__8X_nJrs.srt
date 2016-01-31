@@ -1,0 +1,7934 @@
+1
+0:0:0,0 --> 0:0:4,99
+[MUSIC PLAYING]
+
+
+2
+0:0:4,99 --> 0:0:6,49
+MALE SPEAKER: Good
+afternoon, folks.
+
+
+3
+0:0:6,49 --> 0:0:8,78
+Welcome to today's
+"Authors at Talk."
+
+
+4
+0:0:8,78 --> 0:0:13,62
+We have Huggy Rao and Bob Sutton
+with us, both from Stanford.
+
+
+5
+0:0:13,62 --> 0:0:15,677
+And they are incredible
+collaborators
+
+
+6
+0:0:15,677 --> 0:0:18,26
+who have written this new book
+called "Scaling Up Excellence,"
+
+
+7
+0:0:18,26 --> 0:0:20,45
+which we will be
+discussing with them today.
+
+
+8
+0:0:20,45 --> 0:0:22,16
+The format, as you
+can figure out,
+
+
+9
+0:0:22,16 --> 0:0:24,82
+is a fireside chat between us.
+
+
+10
+0:0:24,82 --> 0:0:28,215
+But we will open it up to you
+for questions at some point
+
+
+11
+0:0:28,215 --> 0:0:29,8
+soon.
+
+
+12
+0:0:29,8 --> 0:0:35,1
+Before I get into interactions
+with Huggy and Bob,
+
+
+13
+0:0:35,1 --> 0:0:37,97
+my first exposure to Huggy
+was almost ten years back.
+
+
+14
+0:0:37,97 --> 0:0:41,5
+And we were both working
+with an Indian nonprofit.
+
+
+15
+0:0:41,5 --> 0:0:43,4
+And then a few years
+later, we again
+
+
+16
+0:0:43,4 --> 0:0:44,66
+connected when I was at Google.
+
+
+17
+0:0:44,66 --> 0:0:48,74
+And he is a frequent visitor to
+our annual PiLab summit, which
+
+
+18
+0:0:48,74 --> 0:0:53,615
+is a gathering that we
+have every year, where
+
+
+19
+0:0:53,615 --> 0:0:55,84
+we get academics from
+different social scientists
+
+
+20
+0:0:55,84 --> 0:0:56,76
+to come out here.
+
+
+21
+0:0:56,76 --> 0:1:0,41
+And Huggy always asked the most
+incisive questions out there.
+
+
+22
+0:1:0,41 --> 0:1:2,37
+And he would say,
+can I be mischievous?
+
+
+23
+0:1:2,37 --> 0:1:7,84
+And ask a critical question
+that would really make us think.
+
+
+24
+0:1:7,84 --> 0:1:9,354
+And so today, I'm
+happy that I get
+
+
+25
+0:1:9,354 --> 0:1:11,52
+to ask him the mischievous
+questions about his book.
+
+
+26
+0:1:11,52 --> 0:1:15,7
+BOB SUTTON: He'll probably
+get you a couple times.
+
+
+27
+0:1:15,7 --> 0:1:17,34
+MALE SPEAKER: And
+Bob is a professor
+
+
+28
+0:1:17,34 --> 0:1:19,42
+at the Stanford
+engineering school.
+
+
+29
+0:1:19,42 --> 0:1:22,39
+And Bob doesn't know this,
+but Jennifer Kurkoski,
+
+
+30
+0:1:22,39 --> 0:1:24,55
+who leads our People
+& Innovation Lab,
+
+
+31
+0:1:24,55 --> 0:1:27,28
+said that one of the best
+reads, that she has ever
+
+
+32
+0:1:27,28 --> 0:1:30,26
+had on the academic
+side, is a paper
+
+
+33
+0:1:30,26 --> 0:1:33,68
+that Bob authored in ASQ in '96.
+
+
+34
+0:1:33,68 --> 0:1:35,72
+This was about
+brainstorming an idea--
+
+
+35
+0:1:35,72 --> 0:1:36,56
+BOB SUTTON: Oh yeah, that
+was a long time ago--
+
+
+36
+0:1:36,56 --> 0:1:38,893
+MALE SPEAKER: --and she said,
+that was the best research
+
+
+37
+0:1:38,893 --> 0:1:40,61
+that she has ever
+read that describes
+
+
+38
+0:1:40,61 --> 0:1:42,4
+a qualitative methodology.
+
+
+39
+0:1:42,4 --> 0:1:45,65
+So we're really excited to
+have both of them out here.
+
+
+40
+0:1:45,65 --> 0:1:49,49
+They have set up this
+program about scaling
+
+
+41
+0:1:49,49 --> 0:1:51,89
+that they've been
+running at Stanford.
+
+
+42
+0:1:51,89 --> 0:1:54,67
+And coming from both the
+business school side, as well
+
+
+43
+0:1:54,67 --> 0:1:56,78
+as the engineering
+side, they really
+
+
+44
+0:1:56,78 --> 0:1:59,7
+have a very Googley,
+I guess, approach
+
+
+45
+0:1:59,7 --> 0:2:3,45
+to thinking about this
+huge problem with scaling.
+
+
+46
+0:2:3,45 --> 0:2:6,716
+So let's give a warm
+welcome to Bob and Huggy.
+
+
+47
+0:2:6,716 --> 0:2:7,85
+BOB SUTTON AND HUGGY
+RAO: Thank you very much.
+
+
+48
+0:2:7,85 --> 0:2:7,585
+Thank you.
+
+
+49
+0:2:7,585 --> 0:2:9,885
+
+
+
+50
+0:2:9,885 --> 0:2:11,51
+MALE SPEAKER: So I
+have a few questions
+
+
+51
+0:2:11,51 --> 0:2:12,72
+to start off the discussion.
+
+
+52
+0:2:12,72 --> 0:2:17,17
+And then we'll get into
+some of your questions too.
+
+
+53
+0:2:17,17 --> 0:2:19,59
+So the first one,
+I guess is, tell us
+
+
+54
+0:2:19,59 --> 0:2:21,27
+what you mean by scaling?
+
+
+55
+0:2:21,27 --> 0:2:24,734
+And why you thought it was
+important to write this book?
+
+
+56
+0:2:24,734 --> 0:2:26,525
+BOB SUTTON: I guess,
+Huggy's looking at me,
+
+
+57
+0:2:26,525 --> 0:2:28,95
+so that means I'm
+supposed to go first.
+
+
+58
+0:2:28,95 --> 0:2:32,73
+So in the process of thinking
+about what this challenge was,
+
+
+59
+0:2:32,73 --> 0:2:35,15
+it actually was a
+pretty simple problem
+
+
+60
+0:2:35,15 --> 0:2:36,39
+that we thought
+was going to take
+
+
+61
+0:2:36,39 --> 0:2:37,53
+a couple years to figure out.
+
+
+62
+0:2:37,53 --> 0:2:40,4
+But some seven years later,
+we're still struggling with it.
+
+
+63
+0:2:40,4 --> 0:2:41,77
+And it's essentially,
+when you've
+
+
+64
+0:2:41,77 --> 0:2:44,28
+got a little bit of
+goodness in an organization,
+
+
+65
+0:2:44,28 --> 0:2:45,67
+how do you spread it further?
+
+
+66
+0:2:45,67 --> 0:2:49,451
+So it's everything from,
+you've got a startup,
+
+
+67
+0:2:49,451 --> 0:2:51,7
+being Googley would be a
+good example like, how do you
+
+
+68
+0:2:51,7 --> 0:2:54,54
+maintain your Googley-ness
+as you get bigger?
+
+
+69
+0:2:54,54 --> 0:2:57,75
+And also, spreading
+goodness across the system,
+
+
+70
+0:2:57,75 --> 0:2:59,85
+and getting rid of bad behavior.
+
+
+71
+0:2:59,85 --> 0:3:4,8
+So one of the big things
+that led us to this research
+
+
+72
+0:3:4,8 --> 0:3:6,82
+was, we were involved in
+the founding of the Stanford
+
+
+73
+0:3:6,82 --> 0:3:9,66
+d.school, or Hasso Plattner
+Institute of Design.
+
+
+74
+0:3:9,66 --> 0:3:13,58
+And spreading design thinking or
+innovation was a big challenge.
+
+
+75
+0:3:13,58 --> 0:3:16,23
+And executives were always
+asking us, well, we've
+
+
+76
+0:3:16,23 --> 0:3:18,63
+got this one group
+that's really great, how
+
+
+77
+0:3:18,63 --> 0:3:19,68
+do we spread it further?
+
+
+78
+0:3:19,68 --> 0:3:22,73
+So I guess the headline
+is, spreading something
+
+
+79
+0:3:22,73 --> 0:3:24,63
+good from the few to the many.
+
+
+80
+0:3:24,63 --> 0:3:27,9
+And it's a simple problem,
+but it's not easy to address.
+
+
+81
+0:3:27,9 --> 0:3:29,42
+So that's the basic thing.
+
+
+82
+0:3:29,42 --> 0:3:32,1
+HUGGY RAO: A very
+complementary addition
+
+
+83
+0:3:32,1 --> 0:3:36,64
+to that would be that--
+spreading good from one pocket
+
+
+84
+0:3:36,64 --> 0:3:38,67
+to many pockets.
+
+
+85
+0:3:38,67 --> 0:3:40,4
+You can think of that problem
+as a problem of diffusion,
+
+
+86
+0:3:40,4 --> 0:3:41,7
+if you will.
+
+
+87
+0:3:41,7 --> 0:3:43,81
+But there's also another
+dimension of scaling.
+
+
+88
+0:3:43,81 --> 0:3:45,89
+And that is, if you're
+a small startup,
+
+
+89
+0:3:45,89 --> 0:3:49,94
+as you grow rapidly and
+become larger in size,
+
+
+90
+0:3:49,94 --> 0:3:52,21
+how do you actually
+scale successfully
+
+
+91
+0:3:52,21 --> 0:3:53,83
+in the sense of
+not only achieving
+
+
+92
+0:3:53,83 --> 0:3:58,11
+a particular footprint
+metric, but also making sure
+
+
+93
+0:3:58,11 --> 0:4:0,13
+you retain your mindset.
+
+
+94
+0:4:0,13 --> 0:4:3,46
+Let me illustrate that
+with a little example.
+
+
+95
+0:4:3,46 --> 0:4:6,92
+One of the venture
+capitalists mentioned
+
+
+96
+0:4:6,92 --> 0:4:9,39
+that the difference between
+a startup and a large company
+
+
+97
+0:4:9,39 --> 0:4:13,12
+was, startups are
+like beach volleyball.
+
+
+98
+0:4:13,12 --> 0:4:14,506
+You've got two people.
+
+
+99
+0:4:14,506 --> 0:4:15,63
+You don't have substitutes.
+
+
+100
+0:4:15,63 --> 0:4:16,76
+You don't have coaches.
+
+
+101
+0:4:16,76 --> 0:4:18,24
+You know what the game plan is.
+
+
+102
+0:4:18,24 --> 0:4:20,94
+You've got to make sure the
+ball doesn't touch the sand.
+
+
+103
+0:4:20,94 --> 0:4:23,96
+You're playing volleyball
+still, you go from two to six.
+
+
+104
+0:4:23,96 --> 0:4:28,37
+All of a sudden, if Prasad
+serves from the other end,
+
+
+105
+0:4:28,37 --> 0:4:30,35
+I receive the serve.
+
+
+106
+0:4:30,35 --> 0:4:33,83
+Bob takes it and supplies
+it to Cliff, here.
+
+
+107
+0:4:33,83 --> 0:4:37,72
+Cliff arcs into the air and
+smashes the ball into the net.
+
+
+108
+0:4:37,72 --> 0:4:39,79
+I'm sorry, Cliff.
+
+
+109
+0:4:39,79 --> 0:4:41,906
+The interesting problem
+is, whose fault was it?
+
+
+110
+0:4:41,906 --> 0:4:45,29
+Was it Prasad's serve
+that was unplayable?
+
+
+111
+0:4:45,29 --> 0:4:48,21
+Was it my fault that I couldn't
+receive the serve well?
+
+
+112
+0:4:48,21 --> 0:4:49,72
+Or was it the way Bob supplied?
+
+
+113
+0:4:49,72 --> 0:4:51,86
+Or was it Cliff's problem?
+
+
+114
+0:4:51,86 --> 0:4:54,34
+So you can see, when
+you go from two to six,
+
+
+115
+0:4:54,34 --> 0:4:56,88
+how very quickly it
+becomes a problem.
+
+
+116
+0:4:56,88 --> 0:4:59,14
+And you can extend
+it, six to 60,
+
+
+117
+0:4:59,14 --> 0:5:4,627
+to 600, to 6,000, to
+60,000, and the like.
+
+
+118
+0:5:4,627 --> 0:5:5,46
+MALE SPEAKER: Great.
+
+
+119
+0:5:5,46 --> 0:5:6,793
+Thank you for that introduction.
+
+
+120
+0:5:6,793 --> 0:5:10,36
+So given that as the
+basis then, if you
+
+
+121
+0:5:10,36 --> 0:5:13,35
+have to summarize, what is
+the advice that you would give
+
+
+122
+0:5:13,35 --> 0:5:16,81
+organizations on how they
+should achieve scaling?
+
+
+123
+0:5:16,81 --> 0:5:20,62
+And specifically, how would
+that differ for a startup,
+
+
+124
+0:5:20,62 --> 0:5:24,3
+as you mentioned, versus,
+let's say a large organization
+
+
+125
+0:5:24,3 --> 0:5:26,59
+like Google?
+
+
+126
+0:5:26,59 --> 0:5:29,8
+HUGGY RAO: Let me take
+a quick stab at that.
+
+
+127
+0:5:29,8 --> 0:5:34,79
+For a startup, I think
+the advice that both of us
+
+
+128
+0:5:34,79 --> 0:5:38,18
+talk about in the
+book is, smart scaling
+
+
+129
+0:5:38,18 --> 0:5:41,43
+means that you take time,
+and you do it slowly.
+
+
+130
+0:5:41,43 --> 0:5:45,33
+We just recently
+had an organization
+
+
+131
+0:5:45,33 --> 0:5:50,21
+that actually was
+acquired by Google, Waze.
+
+
+132
+0:5:50,21 --> 0:5:52,36
+And we actually had
+one of their executives
+
+
+133
+0:5:52,36 --> 0:5:55,0
+come and talk to our class,
+and he gave a great example.
+
+
+134
+0:5:55,0 --> 0:5:56,86
+They were growing in Israel.
+
+
+135
+0:5:56,86 --> 0:6:0,56
+You've got all these resources,
+and the VC is saying,
+
+
+136
+0:6:0,56 --> 0:6:3,75
+now's the time to expand
+higher, higher, higher.
+
+
+137
+0:6:3,75 --> 0:6:7,18
+The top managers get
+together and say, you know,
+
+
+138
+0:6:7,18 --> 0:6:9,67
+now is the time to
+have a hiring freeze.
+
+
+139
+0:6:9,67 --> 0:6:11,82
+And that's sort of
+somewhat counterintuitive.
+
+
+140
+0:6:11,82 --> 0:6:14,5
+And people within the company
+are astonished, how could you
+
+
+141
+0:6:14,5 --> 0:6:16,78
+say you have a hiring
+freeze right when you've
+
+
+142
+0:6:16,78 --> 0:6:18,98
+got all this money from the VCs?
+
+
+143
+0:6:18,98 --> 0:6:22,62
+And the argument
+was the following.
+
+
+144
+0:6:22,62 --> 0:6:24,83
+The moment you
+expand, you actually
+
+
+145
+0:6:24,83 --> 0:6:28,24
+are going to get a lot of smart
+people with very many ideas.
+
+
+146
+0:6:28,24 --> 0:6:31,92
+And since you want to focus on a
+particular product application,
+
+
+147
+0:6:31,92 --> 0:6:34,33
+you're going to wind up
+spending a lot of time
+
+
+148
+0:6:34,33 --> 0:6:37,4
+saying no to their smart ideas.
+
+
+149
+0:6:37,4 --> 0:6:38,96
+And that's not something
+you want to do.
+
+
+150
+0:6:38,96 --> 0:6:41,25
+The other interesting
+thing was, when
+
+
+151
+0:6:41,25 --> 0:6:44,39
+you hire people in a
+startup, the smart people
+
+
+152
+0:6:44,39 --> 0:6:46,82
+assume they can hit
+the ground running.
+
+
+153
+0:6:46,82 --> 0:6:48,79
+But often many of them can't.
+
+
+154
+0:6:48,79 --> 0:6:50,85
+And very quickly you've
+shifted the ratio
+
+
+155
+0:6:50,85 --> 0:6:53,36
+of unproductive to
+productive people, at least
+
+
+156
+0:6:53,36 --> 0:6:55,117
+for a short window of time.
+
+
+157
+0:6:55,117 --> 0:6:56,7
+And the third thing
+is, of course, you
+
+
+158
+0:6:56,7 --> 0:6:59,89
+increase coordination
+costs enormously.
+
+
+159
+0:6:59,89 --> 0:7:1,92
+So what they did was--
+they did a smart thing--
+
+
+160
+0:7:1,92 --> 0:7:4,3
+which is hiring freeze.
+
+
+161
+0:7:4,3 --> 0:7:7,1
+But they made sure,
+during that period,
+
+
+162
+0:7:7,1 --> 0:7:9,8
+every single
+employee was focused
+
+
+163
+0:7:9,8 --> 0:7:13,41
+on one number-- improving
+their retention of users
+
+
+164
+0:7:13,41 --> 0:7:14,75
+after three months.
+
+
+165
+0:7:14,75 --> 0:7:18,8
+And pretty much every day,
+you have one question to ask.
+
+
+166
+0:7:18,8 --> 0:7:21,27
+What did I do today to
+improve that number?
+
+
+167
+0:7:21,27 --> 0:7:23,97
+So scaling smartly,
+very important
+
+
+168
+0:7:23,97 --> 0:7:25,53
+for small organizations.
+
+
+169
+0:7:25,53 --> 0:7:26,94
+I'll turn it over to you for
+the larger organizations--
+
+
+170
+0:7:26,94 --> 0:7:27,95
+BOB SUTTON: --I
+get the large end?
+
+
+171
+0:7:27,95 --> 0:7:29,81
+Well, I would also
+emphasize that there's
+
+
+172
+0:7:29,81 --> 0:7:32,8
+a lot of things
+that are similar.
+
+
+173
+0:7:32,8 --> 0:7:35,29
+And in particular, there's
+kind of two principles that
+
+
+174
+0:7:35,29 --> 0:7:36,91
+are implied in what Huggy said.
+
+
+175
+0:7:36,91 --> 0:7:39,9
+One is the notion that
+adding more people
+
+
+176
+0:7:39,9 --> 0:7:40,98
+isn't necessarily good.
+
+
+177
+0:7:40,98 --> 0:7:43,5
+This notion that many
+hands make light work.
+
+
+178
+0:7:43,5 --> 0:7:46,8
+And we were actually
+talking about this at lunch.
+
+
+179
+0:7:46,8 --> 0:7:49,99
+So in 2002, one of my other
+co-authors, Jeff Pfeffer and I
+
+
+180
+0:7:49,99 --> 0:7:52,91
+interviewed Larry Page, when
+Google was about 400 people.
+
+
+181
+0:7:52,91 --> 0:7:55,74
+And Larry emphasized how
+the venture capitalists
+
+
+182
+0:7:55,74 --> 0:7:58,324
+were giving all this grief that
+he wasn't hiring fast enough.
+
+
+183
+0:7:58,324 --> 0:8:0,99
+And that all of his friends from
+Stanford were giving him grief.
+
+
+184
+0:8:0,99 --> 0:8:5,23
+But he said, we really have
+to slow down, and hire and get
+
+
+185
+0:8:5,23 --> 0:8:7,67
+the right people who
+can grow with Google.
+
+
+186
+0:8:7,67 --> 0:8:10,2
+And I'm not going
+to back off on that.
+
+
+187
+0:8:10,2 --> 0:8:12,36
+And then, for the book, we
+interviewed Shona Brown,
+
+
+188
+0:8:12,36 --> 0:8:14,42
+who was quite senior
+here for many years
+
+
+189
+0:8:14,42 --> 0:8:16,41
+and helped grow sort
+of the non-product part
+
+
+190
+0:8:16,41 --> 0:8:18,21
+of the organization,
+in particular.
+
+
+191
+0:8:18,21 --> 0:8:22,14
+And Shona said, we
+constantly had this issue,
+
+
+192
+0:8:22,14 --> 0:8:23,97
+where people are telling
+us to hire faster,
+
+
+193
+0:8:23,97 --> 0:8:26,79
+but we had to make sure we got
+the right people in the seats.
+
+
+194
+0:8:26,79 --> 0:8:29,503
+And I think that's a pretty
+good philosophy, , see,
+
+
+195
+0:8:29,503 --> 0:8:32,39
+even the small versus
+a large company.
+
+
+196
+0:8:32,39 --> 0:8:35,1
+But if I was going to talk
+about large companies,
+
+
+197
+0:8:35,1 --> 0:8:37,57
+one of things that becomes
+increasingly important as they
+
+
+198
+0:8:37,57 --> 0:8:41,33
+grow larger is-- and this
+is Huggy's expression--
+
+
+199
+0:8:41,33 --> 0:8:44,25
+is the notion that bad
+is stronger than good.
+
+
+200
+0:8:44,25 --> 0:8:47,38
+Or the path to greatness
+is to get rid of badness,
+
+
+201
+0:8:47,38 --> 0:8:48,87
+so bad to great.
+
+
+202
+0:8:48,87 --> 0:8:52,21
+And so what happens as
+companies get older,
+
+
+203
+0:8:52,21 --> 0:8:55,82
+very often sort of bad
+behavior or ineffectiveness
+
+
+204
+0:8:55,82 --> 0:8:56,99
+starts growing and growing.
+
+
+205
+0:8:56,99 --> 0:9:0,24
+And if you just push the
+good, and you don't get rid
+
+
+206
+0:9:0,24 --> 0:9:1,822
+of the bad, the
+bad gets obscured.
+
+
+207
+0:9:1,822 --> 0:9:3,53
+And there's lots of
+evidence that, things
+
+
+208
+0:9:3,53 --> 0:9:7,46
+like laziness, incompetence,
+all sorts of difficult things,
+
+
+209
+0:9:7,46 --> 0:9:9,1
+just overwhelm the goodness.
+
+
+210
+0:9:9,1 --> 0:9:11,98
+So good companies, and
+I'll sort of stop here,
+
+
+211
+0:9:11,98 --> 0:9:16,19
+they view scaling as a
+problem of more or less.
+
+
+212
+0:9:16,19 --> 0:9:18,2
+They're always
+adding more people,
+
+
+213
+0:9:18,2 --> 0:9:20,635
+expanding the more
+places and so on.
+
+
+214
+0:9:20,635 --> 0:9:22,26
+But in the process,
+they're getting rid
+
+
+215
+0:9:22,26 --> 0:9:24,1
+of things that are
+getting in the way, are
+
+
+216
+0:9:24,1 --> 0:9:26,16
+no longer effective.
+
+
+217
+0:9:26,16 --> 0:9:29,2
+HUGGY RAO: If I could just
+add one more line to that.
+
+
+218
+0:9:29,2 --> 0:9:32,27
+The big difference, I would say,
+between a small company scaling
+
+
+219
+0:9:32,27 --> 0:9:35,52
+and a large company scaling
+is that, in a large company,
+
+
+220
+0:9:35,52 --> 0:9:39,73
+I would hypothesize that
+the larger the company,
+
+
+221
+0:9:39,73 --> 0:9:43,2
+the greater the probability
+that the smart people inside
+
+
+222
+0:9:43,2 --> 0:9:45,92
+are going to become dumber.
+
+
+223
+0:9:45,92 --> 0:9:47,554
+What I mean by that
+is, obviously I
+
+
+224
+0:9:47,554 --> 0:9:48,47
+don't mean to insist--
+
+
+225
+0:9:48,47 --> 0:9:49,678
+BOB SUTTON: Take that Google.
+
+
+226
+0:9:49,678 --> 0:9:50,602
+[LAUGHTER]
+
+
+227
+0:9:50,602 --> 0:9:52,6
+HUGGY RAO: --I
+don't mean to insist
+
+
+228
+0:9:52,6 --> 0:9:54,17
+that smart people become stupid.
+
+
+229
+0:9:54,17 --> 0:9:57,19
+Clearly that's an untenable
+position for me to argue.
+
+
+230
+0:9:57,19 --> 0:10:0,79
+But what I would say is, that
+smart people can become dumb
+
+
+231
+0:10:0,79 --> 0:10:3,7
+in the sense of being silent.
+
+
+232
+0:10:3,7 --> 0:10:5,36
+And so in a large
+enterprise, I would
+
+
+233
+0:10:5,36 --> 0:10:9,5
+submit that silence is the
+real enemy of excellence.
+
+
+234
+0:10:9,5 --> 0:10:10,38
+BOB SUTTON: So
+just real quickly,
+
+
+235
+0:10:10,38 --> 0:10:14,1
+I was at Pixar yesterday and met
+with some of the senior folks.
+
+
+236
+0:10:14,1 --> 0:10:17,587
+And one thing that they
+did-- because Pixar
+
+
+237
+0:10:17,587 --> 0:10:19,17
+is sort of at this
+point in transition
+
+
+238
+0:10:19,17 --> 0:10:21,13
+where they've kind of grown
+up and everything-- and so
+
+
+239
+0:10:21,13 --> 0:10:22,713
+Ed Catmull, who is
+president of Pixar,
+
+
+240
+0:10:22,713 --> 0:10:25,13
+was worried that too many
+people were being silent.
+
+
+241
+0:10:25,13 --> 0:10:27,835
+And the way Pixar actually
+does movies is that, four
+
+
+242
+0:10:27,835 --> 0:10:33,61
+or five people who are the brain
+trust-- John Lasseter, Pete
+
+
+243
+0:10:33,61 --> 0:10:36,65
+Docter, a number of other folks,
+who make comments on movies,
+
+
+244
+0:10:36,65 --> 0:10:37,67
+and they write notes.
+
+
+245
+0:10:37,67 --> 0:10:39,85
+But they had notes
+days where everybody
+
+
+246
+0:10:39,85 --> 0:10:41,28
+wrote notes about
+everything that
+
+
+247
+0:10:41,28 --> 0:10:42,86
+could be improved at Pixar.
+
+
+248
+0:10:42,86 --> 0:10:45,1
+And it was because they
+were worried they had grown
+
+
+249
+0:10:45,1 --> 0:10:47,844
+and the silence had
+sort of sunk in.
+
+
+250
+0:10:47,844 --> 0:10:49,51
+And as they had gotten
+larger and older,
+
+
+251
+0:10:49,51 --> 0:10:50,634
+there was too much of that.
+
+
+252
+0:10:50,634 --> 0:10:54,1
+And that was a
+countervailing force.
+
+
+253
+0:10:54,1 --> 0:10:55,63
+MALE SPEAKER: The
+technology industry
+
+
+254
+0:10:55,63 --> 0:11:0,6
+has grown rapidly over
+the last few decades.
+
+
+255
+0:11:0,6 --> 0:11:3,62
+And within that industry,
+there are many companies
+
+
+256
+0:11:3,62 --> 0:11:6,65
+that have grown
+very, very quickly.
+
+
+257
+0:11:6,65 --> 0:11:9,43
+And given your vantage
+and your knowledge
+
+
+258
+0:11:9,43 --> 0:11:11,64
+of what's happening
+in that industry,
+
+
+259
+0:11:11,64 --> 0:11:15,6
+do you see the
+processes and tools
+
+
+260
+0:11:15,6 --> 0:11:17,876
+that technology
+companies use to scale?
+
+
+261
+0:11:17,876 --> 0:11:19,25
+Are they different
+from what used
+
+
+262
+0:11:19,25 --> 0:11:20,84
+to happen a generation ago?
+
+
+263
+0:11:20,84 --> 0:11:24,609
+Or different from how it
+happens in the other industries?
+
+
+264
+0:11:24,609 --> 0:11:26,15
+BOB SUTTON: What do
+you think, Huggy?
+
+
+265
+0:11:26,15 --> 0:11:28,82
+HUGGY RAO: They are
+certainly very different.
+
+
+266
+0:11:28,82 --> 0:11:32,9
+I mean, if you take Google,
+for example, and compare it to,
+
+
+267
+0:11:32,9 --> 0:11:35,579
+let's say the median
+firm in Detroit.
+
+
+268
+0:11:35,579 --> 0:11:37,37
+The way they scale is
+very, very different.
+
+
+269
+0:11:37,37 --> 0:11:40,52
+Not just in terms of
+sheer pace, but also
+
+
+270
+0:11:40,52 --> 0:11:43,25
+as you very rightly point
+out, the technology.
+
+
+271
+0:11:43,25 --> 0:11:46,14
+One advantage is, you
+actually have technology
+
+
+272
+0:11:46,14 --> 0:11:48,65
+that allows great
+decentralization.
+
+
+273
+0:11:48,65 --> 0:11:50,94
+But conversely,
+technology also that
+
+
+274
+0:11:50,94 --> 0:11:53,65
+allows great monitoring as well.
+
+
+275
+0:11:53,65 --> 0:11:57,6
+So you actually have both
+dimensions of scaling.
+
+
+276
+0:11:57,6 --> 0:12:1,3
+Whereas in the older
+industries, as it were,
+
+
+277
+0:12:1,3 --> 0:12:5,76
+the problem is the
+costs of monitoring
+
+
+278
+0:12:5,76 --> 0:12:9,22
+are very, very high because
+you really lack line of sight
+
+
+279
+0:12:9,22 --> 0:12:10,61
+into the enterprise.
+
+
+280
+0:12:10,61 --> 0:12:13,73
+Coincidentally, by the way,
+our operational definition
+
+
+281
+0:12:13,73 --> 0:12:17,61
+of excellence, since both
+of us are social scientists,
+
+
+282
+0:12:17,61 --> 0:12:19,63
+is not metric-related.
+
+
+283
+0:12:19,63 --> 0:12:22,2
+But it simply
+means, excellence is
+
+
+284
+0:12:22,2 --> 0:12:25,1
+when an organization-- when
+people in an organization--
+
+
+285
+0:12:25,1 --> 0:12:28,98
+do the right thing, even when
+nobody's monitoring them.
+
+
+286
+0:12:28,98 --> 0:12:31,85
+Even when nobody is actually
+watching over your shoulder.
+
+
+287
+0:12:31,85 --> 0:12:36,18
+So I would say the older
+generation companies perhaps
+
+
+288
+0:12:36,18 --> 0:12:38,73
+invest a little more
+in the monitoring part.
+
+
+289
+0:12:38,73 --> 0:12:40,81
+Here, the kinds
+of individuals who
+
+
+290
+0:12:40,81 --> 0:12:45,3
+self-select, they presumably
+disdain monitoring, in fact,
+
+
+291
+0:12:45,3 --> 0:12:47,81
+otherwise they wouldn't
+actually join the organization.
+
+
+292
+0:12:47,81 --> 0:12:49,5
+BOB SUTTON: One
+thing I would also
+
+
+293
+0:12:49,5 --> 0:12:51,492
+add-- I tend to think
+of similarities more
+
+
+294
+0:12:51,492 --> 0:12:53,2
+than differences--
+maybe it's because I'm
+
+
+295
+0:12:53,2 --> 0:12:57,2
+an old fashioned,
+qualitative researcher.
+
+
+296
+0:12:57,2 --> 0:13:0,7
+But when I look even
+within tech firms,
+
+
+297
+0:13:0,7 --> 0:13:2,41
+it's amazing how--
+when organizations
+
+
+298
+0:13:2,41 --> 0:13:4,45
+have a different mindset
+about how they're
+
+
+299
+0:13:4,45 --> 0:13:7,9
+going to do things--
+how it affects
+
+
+300
+0:13:7,9 --> 0:13:10,54
+a whole bunch of different
+decisions about how people are
+
+
+301
+0:13:10,54 --> 0:13:13,917
+hired, about how,
+actually, a who gets fired,
+
+
+302
+0:13:13,917 --> 0:13:16,25
+the incentives, and so on,
+and the nature of their work.
+
+
+303
+0:13:16,25 --> 0:13:18,791
+And one thing-- and I actually
+talked about this a little bit
+
+
+304
+0:13:18,791 --> 0:13:21,1
+with your BizOps group about
+three or four months ago--
+
+
+305
+0:13:21,1 --> 0:13:24,139
+when I think of-- and I already
+mentioned this a little bit--
+
+
+306
+0:13:24,139 --> 0:13:25,68
+when I think of
+Google, I think of it
+
+
+307
+0:13:25,68 --> 0:13:28,54
+as a place that has generally
+leaned towards generalists,
+
+
+308
+0:13:28,54 --> 0:13:30,18
+and people can grow in the role.
+
+
+309
+0:13:30,18 --> 0:13:32,787
+And at least, my conversations
+with Apple-- and I
+
+
+310
+0:13:32,787 --> 0:13:34,37
+can't quote people
+because, of course,
+
+
+311
+0:13:34,37 --> 0:13:36,51
+they'll shoot me,
+it being Apple.
+
+
+312
+0:13:36,51 --> 0:13:38,58
+But my conversations
+with people at Apple
+
+
+313
+0:13:38,58 --> 0:13:40,3
+is-- and I was told
+this story directly
+
+
+314
+0:13:40,3 --> 0:13:43,46
+by a senior executive-- is
+people get more senior here,
+
+
+315
+0:13:43,46 --> 0:13:46,1
+they get more specialized.
+
+
+316
+0:13:46,1 --> 0:13:47,741
+And if you have an
+organization where
+
+
+317
+0:13:47,741 --> 0:13:49,24
+you are assuming
+people are becoming
+
+
+318
+0:13:49,24 --> 0:13:51,67
+more generalists versus
+more specialized,
+
+
+319
+0:13:51,67 --> 0:13:54,77
+you have to run it in
+completely different ways.
+
+
+320
+0:13:54,77 --> 0:13:57,21
+And I think that's an important
+difference between Google
+
+
+321
+0:13:57,21 --> 0:13:59,75
+and Apple, and it doesn't
+work perfectly in all cases.
+
+
+322
+0:13:59,75 --> 0:14:1,26
+You have certainly
+specialists here,
+
+
+323
+0:14:1,26 --> 0:14:2,63
+and they have generalists there.
+
+
+324
+0:14:2,63 --> 0:14:4,14
+But a sort of exhibit
+one-- and this
+
+
+325
+0:14:4,14 --> 0:14:5,77
+is what this guy
+was talking about--
+
+
+326
+0:14:5,77 --> 0:14:8,15
+was what was going to
+happen with Ron Johnson
+
+
+327
+0:14:8,15 --> 0:14:9,76
+when he went to JC Penneys.
+
+
+328
+0:14:9,76 --> 0:14:12,84
+So Ron Johnson was just
+extremely focused on,
+
+
+329
+0:14:12,84 --> 0:14:15,11
+what's the experience
+like an Apple store?
+
+
+330
+0:14:15,11 --> 0:14:17,4
+And the way it was described
+to me, him and Steve
+
+
+331
+0:14:17,4 --> 0:14:20,7
+would argue for like an
+hour over exactly what angle
+
+
+332
+0:14:20,7 --> 0:14:22,53
+an iPad should be in the store.
+
+
+333
+0:14:22,53 --> 0:14:25,7
+And then you give a guy like
+that an entire business to run,
+
+
+334
+0:14:25,7 --> 0:14:27,36
+the supply chain, pricing,
+you add everything.
+
+
+335
+0:14:27,36 --> 0:14:29,667
+He would not be prepared
+as much to be a generalist.
+
+
+336
+0:14:29,667 --> 0:14:31,75
+If you took another company
+like General Electric,
+
+
+337
+0:14:31,75 --> 0:14:34,52
+it would be sort of the
+opposite sort of career path.
+
+
+338
+0:14:34,52 --> 0:14:36,98
+So I do think that
+tech might have
+
+
+339
+0:14:36,98 --> 0:14:38,58
+some of its own
+characteristics, but
+
+
+340
+0:14:38,58 --> 0:14:42,9
+the company-to-company
+variation is just astounding.
+
+
+341
+0:14:42,9 --> 0:14:44,8
+Even in the old days,
+I remember sitting
+
+
+342
+0:14:44,8 --> 0:14:47,89
+in on new training for
+Facebook employees.
+
+
+343
+0:14:47,89 --> 0:14:49,63
+So this was like--
+and half of them
+
+
+344
+0:14:49,63 --> 0:14:51,8
+were from Google, by the way.
+
+
+345
+0:14:51,8 --> 0:14:53,98
+And I remember Chris Cox,
+who's now head of products,
+
+
+346
+0:14:53,98 --> 0:14:56,43
+and then head of HR, saying,
+yes, you can go in tomorrow,
+
+
+347
+0:14:56,43 --> 0:14:58,91
+and you can touch the
+code, and you can break it.
+
+
+348
+0:14:58,91 --> 0:15:0,74
+And they'd say, we
+can't do that at Google.
+
+
+349
+0:15:0,74 --> 0:15:4,72
+So the point is that,
+the different standards
+
+
+350
+0:15:4,72 --> 0:15:6,74
+in companies are very
+important for scaling
+
+
+351
+0:15:6,74 --> 0:15:9,51
+because-- as Huggy would say--
+that in good organizations,
+
+
+352
+0:15:9,51 --> 0:15:12,58
+people have a really clear
+view of what is sacred
+
+
+353
+0:15:12,58 --> 0:15:13,91
+and what is taboo.
+
+
+354
+0:15:13,91 --> 0:15:16,16
+And those vary from
+organizations to organizations.
+
+
+355
+0:15:16,16 --> 0:15:20,2
+And when everybody
+agrees, it helps a lot.
+
+
+356
+0:15:20,2 --> 0:15:22,34
+BOB SUTTON: As I was
+thinking about your question,
+
+
+357
+0:15:22,34 --> 0:15:26,63
+what suddenly hit me also,
+was the sheer difference
+
+
+358
+0:15:26,63 --> 0:15:31,5
+in the physical architecture
+between the tech companies
+
+
+359
+0:15:31,5 --> 0:15:33,93
+and the old industrial giants.
+
+
+360
+0:15:33,93 --> 0:15:36,82
+Open offices and
+all of these things.
+
+
+361
+0:15:36,82 --> 0:15:39,0
+And I think part of what
+the tech companies do
+
+
+362
+0:15:39,0 --> 0:15:43,14
+is they provide way
+more cues to individuals
+
+
+363
+0:15:43,14 --> 0:15:47,7
+to excel than, I would
+submit, the large companies.
+
+
+364
+0:15:47,7 --> 0:15:51,28
+Let me give you one research
+study which actually shows
+
+
+365
+0:15:51,28 --> 0:15:53,3
+that when you have
+bright lights,
+
+
+366
+0:15:53,3 --> 0:15:55,97
+people actually resort
+to much less cheating.
+
+
+367
+0:15:55,97 --> 0:15:59,63
+Turn down the lamps, the
+propensity to cheat increases.
+
+
+368
+0:15:59,63 --> 0:16:4,42
+So lamps matter more than
+cops, is one simple thing.
+
+
+369
+0:16:4,42 --> 0:16:6,525
+And you can go to
+any organization
+
+
+370
+0:16:6,525 --> 0:16:10,6
+and simply look at, how
+bright is the place?
+
+
+371
+0:16:10,6 --> 0:16:11,41
+How dark is the place?
+
+
+372
+0:16:11,41 --> 0:16:13,4
+That ought to give you
+at least an initial kind
+
+
+373
+0:16:13,4 --> 0:16:16,26
+of working hypothesis about
+what's likely to happen.
+
+
+374
+0:16:16,26 --> 0:16:18,404
+
+
+
+375
+0:16:18,404 --> 0:16:20,7
+MALE SPEAKER: One of
+the scaling mantras
+
+
+376
+0:16:20,7 --> 0:16:21,98
+that you have in the book.
+
+
+377
+0:16:21,98 --> 0:16:26,294
+It is very colorful, it's
+called "Feel the Clusterfug"--
+
+
+378
+0:16:26,294 --> 0:16:27,71
+BOB SUTTON: It's
+"fug" not "fuck."
+
+
+379
+0:16:27,71 --> 0:16:29,376
+MALE SPEAKER: --and
+the last few letters
+
+
+380
+0:16:29,376 --> 0:16:32,5
+are F-U-G, because we know
+this is going to be on YouTube.
+
+
+381
+0:16:32,5 --> 0:16:35,15
+So tell us what
+you mean by that.
+
+
+382
+0:16:35,15 --> 0:16:37,14
+BOB SUTTON: You're looking
+at me, why don't you go?
+
+
+383
+0:16:37,14 --> 0:16:38,57
+HUGGY RAO: OK.
+
+
+384
+0:16:38,57 --> 0:16:45,17
+Bob, of course, is well
+known to have a tendency
+
+
+385
+0:16:45,17 --> 0:16:49,15
+to really aim for very
+provocated titles.
+
+
+386
+0:16:49,15 --> 0:16:54,992
+His earlier books are inspired,
+let's say by various parts of--
+
+
+387
+0:16:54,992 --> 0:16:56,45
+BOB SUTTON: The
+"no asshole world,"
+
+
+388
+0:16:56,45 --> 0:16:56,75
+you can put that, if you want--
+
+
+389
+0:16:56,75 --> 0:16:58,25
+HUGGY RAO: Well, there you go.
+
+
+390
+0:16:58,25 --> 0:17:3,73
+So originally he was actually
+wanting to think of the book
+
+
+391
+0:17:3,73 --> 0:17:6,51
+as, maybe we ought
+to call it cluster,
+
+
+392
+0:17:6,51 --> 0:17:8,46
+and then you know
+what the expletive is.
+
+
+393
+0:17:8,46 --> 0:17:11,2
+The four letter word
+that follows cluster.
+
+
+394
+0:17:11,2 --> 0:17:14,74
+And as we were writing
+it, the editors of course
+
+
+395
+0:17:14,74 --> 0:17:17,38
+said, wait a minute you can't
+use something like that.
+
+
+396
+0:17:17,38 --> 0:17:20,119
+And fortunately, he
+quickly sort of thought
+
+
+397
+0:17:20,119 --> 0:17:25,579
+of Norman Mailer, who used the
+word "fug" to indicate the act.
+
+
+398
+0:17:25,579 --> 0:17:28,14
+And very quickly we
+thought of clusterfug.
+
+
+399
+0:17:28,14 --> 0:17:30,765
+So that's kind of the
+etymology of clusterfug.
+
+
+400
+0:17:30,765 --> 0:17:32,0
+Do you want to talk about--
+
+
+401
+0:17:32,0 --> 0:17:33,53
+BOB SUTTON: --so you
+get to do the fun part?
+
+
+402
+0:17:33,53 --> 0:17:34,32
+HUGGY RAO: --I get
+to do the fun part.
+
+
+403
+0:17:34,32 --> 0:17:34,97
+BOB SUTTON: So
+where this came from
+
+
+404
+0:17:34,97 --> 0:17:37,93
+is, we were having a dinner with
+a guy named Mark Hershon who
+
+
+405
+0:17:37,93 --> 0:17:39,54
+actually is a
+professional namer.
+
+
+406
+0:17:39,54 --> 0:17:41,94
+So he named the BlackBerry,
+he named Swiffer,
+
+
+407
+0:17:41,94 --> 0:17:44,122
+he's really a good
+namer, Dasani water.
+
+
+408
+0:17:44,122 --> 0:17:45,58
+And so we were
+trying to figure out
+
+
+409
+0:17:45,58 --> 0:17:47,105
+what the opposite
+of good scaling
+
+
+410
+0:17:47,105 --> 0:17:48,969
+was so we came on
+this word, clusterfug.
+
+
+411
+0:17:48,969 --> 0:17:50,26
+HUGGY RAO: After a lot of wine.
+
+
+412
+0:17:50,26 --> 0:17:51,593
+BOB SUTTON: After a lot of wine.
+
+
+413
+0:17:51,593 --> 0:17:55,5
+And we realize that there's sort
+of three characteristics you
+
+
+414
+0:17:55,5 --> 0:17:58,96
+would see, in particular, a
+bad IT Rollout at Stanford,
+
+
+415
+0:17:58,96 --> 0:18:0,9
+we were thinking of.
+
+
+416
+0:18:0,9 --> 0:18:2,73
+Or you can figure out what
+happened with Obamacare just
+
+
+417
+0:18:2,73 --> 0:18:3,42
+recently.
+
+
+418
+0:18:3,42 --> 0:18:4,98
+And when bad things
+happen, there's
+
+
+419
+0:18:4,98 --> 0:18:7,28
+three characteristics
+we always would see.
+
+
+420
+0:18:7,28 --> 0:18:9,41
+The first one would be illusion.
+
+
+421
+0:18:9,41 --> 0:18:11,79
+That this is going to be so
+easy, overconfidence, bias,
+
+
+422
+0:18:11,79 --> 0:18:13,65
+we can just roll it out.
+
+
+423
+0:18:13,65 --> 0:18:14,65
+So that's the first one.
+
+
+424
+0:18:14,65 --> 0:18:17,28
+The second was impatience, and
+this is classic with scaling,
+
+
+425
+0:18:17,28 --> 0:18:18,71
+we can do this really fast.
+
+
+426
+0:18:18,71 --> 0:18:19,76
+No problem.
+
+
+427
+0:18:19,76 --> 0:18:22,38
+And then the third
+one is, the people
+
+
+428
+0:18:22,38 --> 0:18:23,94
+doing it are incompetent.
+
+
+429
+0:18:23,94 --> 0:18:26,18
+And that makes
+others incompetent.
+
+
+430
+0:18:26,18 --> 0:18:29,83
+And to us, those three,
+illusion, impatience,
+
+
+431
+0:18:29,83 --> 0:18:33,66
+and incompetence, are the
+hallmarks of both the causes
+
+
+432
+0:18:33,66 --> 0:18:35,7
+and the characteristics
+of bad scaling.
+
+
+433
+0:18:35,7 --> 0:18:37,66
+And I think that that
+happened with Obamacare,
+
+
+434
+0:18:37,66 --> 0:18:39,2
+to name a company.
+
+
+435
+0:18:39,2 --> 0:18:43,109
+If you sort of dig in to what
+happened with poor Groupon.
+
+
+436
+0:18:43,109 --> 0:18:44,9
+I hope nobody here used
+to work at Groupon.
+
+
+437
+0:18:44,9 --> 0:18:48,37
+But if you read the
+CEO's resignation letter,
+
+
+438
+0:18:48,37 --> 0:18:53,93
+pretty much all three of those
+things were raging at Groupon.
+
+
+439
+0:18:53,93 --> 0:18:56,6
+And when I look at the
+companies in the Valley
+
+
+440
+0:18:56,6 --> 0:18:59,66
+that have generally got it
+right, they somehow or another
+
+
+441
+0:18:59,66 --> 0:19:0,43
+avoid that.
+
+
+442
+0:19:0,43 --> 0:19:3,34
+Especially the impatience part
+is sometimes the worst thing.
+
+
+443
+0:19:3,34 --> 0:19:5,91
+HUGGY RAO: So the implication
+behind all of this
+
+
+444
+0:19:5,91 --> 0:19:9,19
+is, really scaling up
+is easy, but screwing up
+
+
+445
+0:19:9,19 --> 0:19:10,74
+is equally easy.
+
+
+446
+0:19:10,74 --> 0:19:14,51
+And the problem of course
+is when people screw up,
+
+
+447
+0:19:14,51 --> 0:19:18,13
+we typically only focus on
+what's called, the sharp edge.
+
+
+448
+0:19:18,13 --> 0:19:22,9
+You look at a person or persons
+and promptly blame them.
+
+
+449
+0:19:22,9 --> 0:19:23,72
+But when you really
+understand what
+
+
+450
+0:19:23,72 --> 0:19:26,78
+causes them to make the
+mistake or the screw up,
+
+
+451
+0:19:26,78 --> 0:19:28,98
+you quickly realize
+there is actually
+
+
+452
+0:19:28,98 --> 0:19:31,23
+a confluence of a
+couple of things.
+
+
+453
+0:19:31,23 --> 0:19:35,86
+One is the psychology,
+the illusion part.
+
+
+454
+0:19:35,86 --> 0:19:39,27
+And the other is
+circulation, or physiology.
+
+
+455
+0:19:39,27 --> 0:19:41,3
+And this gets at
+the impatience part.
+
+
+456
+0:19:41,3 --> 0:19:44,84
+You hasten things, you do
+things, you block circulation.
+
+
+457
+0:19:44,84 --> 0:19:48,495
+And the third is anatomy,
+the structure in who
+
+
+458
+0:19:48,495 --> 0:19:50,73
+can occupy positions
+in the structure.
+
+
+459
+0:19:50,73 --> 0:19:53,4
+So all three of them
+kind of to come together.
+
+
+460
+0:19:53,4 --> 0:19:57,8
+And the result is, anything
+from Sochi, from one extreme,
+
+
+461
+0:19:57,8 --> 0:19:59,22
+to the doping scandal in biking.
+
+
+462
+0:19:59,22 --> 0:20:1,88
+So you can pick whatever
+you want in between,
+
+
+463
+0:20:1,88 --> 0:20:7,43
+you pretty much get an idea of
+how attempts to reform usually
+
+
+464
+0:20:7,43 --> 0:20:10,87
+wind up in clusterfugs.
+
+
+465
+0:20:10,87 --> 0:20:13,3
+MALE SPEAKER: Thank
+you for sharing that.
+
+
+466
+0:20:13,3 --> 0:20:15,93
+I have a bunch more questions,
+but if you have anything
+
+
+467
+0:20:15,93 --> 0:20:17,88
+please feel free to
+line up at the mic.
+
+
+468
+0:20:17,88 --> 0:20:20,47
+BOB SUTTON: We would love
+to hear some questions.
+
+
+469
+0:20:20,47 --> 0:20:21,67
+Torture us, we love that.
+
+
+470
+0:20:21,67 --> 0:20:23,586
+MALE SPEAKER: Yes, and
+while you're lining up,
+
+
+471
+0:20:23,586 --> 0:20:26,5
+let me just continue
+with a couple more.
+
+
+472
+0:20:26,5 --> 0:20:31,63
+And one of them is, the
+role of bureaucracy, right.
+
+
+473
+0:20:31,63 --> 0:20:35,0
+And so we often hear
+that organizations
+
+
+474
+0:20:35,0 --> 0:20:37,72
+grow by instilling a
+lot of bureaucracy.
+
+
+475
+0:20:37,72 --> 0:20:40,42
+But then that is not
+something that people
+
+
+476
+0:20:40,42 --> 0:20:42,75
+find very pleasant to bear with.
+
+
+477
+0:20:42,75 --> 0:20:46,99
+What is the role that
+you see for bureaucracy--
+
+
+478
+0:20:46,99 --> 0:20:49,2
+BOB SUTTON: --let me
+start out with that.
+
+
+479
+0:20:49,2 --> 0:20:54,346
+So bureaucracy seems to
+be used as a dirty word.
+
+
+480
+0:20:54,346 --> 0:20:56,22
+And to me there's a
+difference between having
+
+
+481
+0:20:56,22 --> 0:20:58,96
+just enough structure
+and just enough process,
+
+
+482
+0:20:58,96 --> 0:21:1,369
+versus having stuff
+that weighs people down.
+
+
+483
+0:21:1,369 --> 0:21:2,91
+And this is a big
+scaling issue which
+
+
+484
+0:21:2,91 --> 0:21:4,92
+is, when and how
+late you add process.
+
+
+485
+0:21:4,92 --> 0:21:7,195
+But just to go to what
+Huggy's little companies
+
+
+486
+0:21:7,195 --> 0:21:8,74
+that-- so there's
+a company called
+
+
+487
+0:21:8,74 --> 0:21:12,436
+Pulse started by two Stanford
+students, Ankit and Akshay.
+
+
+488
+0:21:12,436 --> 0:21:13,81
+So we went and we
+talked to them.
+
+
+489
+0:21:13,81 --> 0:21:16,84
+And they had about 11 or 12
+people when we talked to them.
+
+
+490
+0:21:16,84 --> 0:21:18,74
+And they were
+describing how when
+
+
+491
+0:21:18,74 --> 0:21:20,12
+they got about
+seven people, they
+
+
+492
+0:21:20,12 --> 0:21:23,5
+realized that they have to break
+into a couple of teams, two
+
+
+493
+0:21:23,5 --> 0:21:25,39
+or three teams,
+because it was too big.
+
+
+494
+0:21:25,39 --> 0:21:27,62
+Teams over five or six
+usually are a nightmare,
+
+
+495
+0:21:27,62 --> 0:21:28,964
+especially when you get to 10.
+
+
+496
+0:21:28,964 --> 0:21:30,63
+And then when they
+got to 11, and that's
+
+
+497
+0:21:30,63 --> 0:21:32,75
+about the time where
+there are 11 or 12 people.
+
+
+498
+0:21:32,75 --> 0:21:35,649
+They're all in one room, sort
+of the street in Paulo Alto,
+
+
+499
+0:21:35,649 --> 0:21:37,44
+sort of the typical
+startup space with sort
+
+
+500
+0:21:37,44 --> 0:21:38,67
+of rough floors and everything.
+
+
+501
+0:21:38,67 --> 0:21:40,41
+But what they did is they had
+them working in three or four
+
+
+502
+0:21:40,41 --> 0:21:41,31
+different teams.
+
+
+503
+0:21:41,31 --> 0:21:42,56
+So they had division.
+
+
+504
+0:21:42,56 --> 0:21:45,18
+And then they each
+had a board that they
+
+
+505
+0:21:45,18 --> 0:21:47,43
+put with a Post-it note,
+what they were working on.
+
+
+506
+0:21:47,43 --> 0:21:49,599
+And then every
+afternoon, each team
+
+
+507
+0:21:49,599 --> 0:21:51,89
+would say, this is what we
+work-- they all turn around,
+
+
+508
+0:21:51,89 --> 0:21:53,389
+they would announce
+the other teams,
+
+
+509
+0:21:53,389 --> 0:21:54,8
+this is what we worked on.
+
+
+510
+0:21:54,8 --> 0:21:57,714
+Here's the challenges we
+need, can you help us?
+
+
+511
+0:21:57,714 --> 0:21:59,505
+And to me that's actually
+some bureaucracy.
+
+
+512
+0:21:59,505 --> 0:22:0,79
+It's some process.
+
+
+513
+0:22:0,79 --> 0:22:3,16
+It's some division.
+
+
+514
+0:22:3,16 --> 0:22:5,54
+But the challenge,
+and this is Chris Fry,
+
+
+515
+0:22:5,54 --> 0:22:9,22
+who is now head of Twitter,
+some engineering group,
+
+
+516
+0:22:9,22 --> 0:22:11,23
+and is going to bring me to
+a Commonwealth Club event
+
+
+517
+0:22:11,23 --> 0:22:12,28
+with him next week.
+
+
+518
+0:22:12,28 --> 0:22:14,46
+And Chris has this
+great line which
+
+
+519
+0:22:14,46 --> 0:22:16,64
+is that, the
+purpose of hierarchy
+
+
+520
+0:22:16,64 --> 0:22:19,33
+is to defeat bad
+bureaucracy, basically.
+
+
+521
+0:22:19,33 --> 0:22:22,45
+And I really like that line
+because some time stuff that's
+
+
+522
+0:22:22,45 --> 0:22:25,86
+put in causes all this friction,
+and that's bad bureaucracy.
+
+
+523
+0:22:25,86 --> 0:22:29,12
+But sometimes, I mean you've got
+to add a little bit complexity.
+
+
+524
+0:22:29,12 --> 0:22:32,43
+And the things he has, his
+test is, if what you put in
+
+
+525
+0:22:32,43 --> 0:22:34,149
+helps people get
+their work done,
+
+
+526
+0:22:34,149 --> 0:22:36,19
+but it doesn't feel like
+they're walking in muck,
+
+
+527
+0:22:36,19 --> 0:22:37,67
+then you're doing
+your job right.
+
+
+528
+0:22:37,67 --> 0:22:40,7
+And you've always got to
+be sensitive to that sort
+
+
+529
+0:22:40,7 --> 0:22:40,71
+of balance.
+
+
+530
+0:22:40,71 --> 0:22:43,35
+But bureaucracy has
+become, appropriately so,
+
+
+531
+0:22:43,35 --> 0:22:45,77
+a dirty word because of
+the way it's done so often.
+
+
+532
+0:22:45,77 --> 0:22:49,44
+But you do need hierarchy,
+you do need division of labor,
+
+
+533
+0:22:49,44 --> 0:22:51,51
+and you do need process.
+
+
+534
+0:22:51,51 --> 0:22:55,5
+Sorry, Google wouldn't work
+without all those things, as
+
+
+535
+0:22:55,5 --> 0:22:57,49
+warm and fuzzy a
+company as it is.
+
+
+536
+0:22:57,49 --> 0:23:0,58
+HUGGY RAO: My quick take on
+bureaucracy is the following.
+
+
+537
+0:23:0,58 --> 0:23:3,6
+I was actually reminded
+of the role of bureaucracy
+
+
+538
+0:23:3,6 --> 0:23:7,45
+when I was actually at a CTO
+forum a couple of days ago.
+
+
+539
+0:23:7,45 --> 0:23:9,42
+And one of the
+participants, they put it,
+
+
+540
+0:23:9,42 --> 0:23:11,38
+I thought, very cleverly.
+
+
+541
+0:23:11,38 --> 0:23:15,25
+He said, look, the
+great thing about brakes
+
+
+542
+0:23:15,25 --> 0:23:16,94
+is they also make you go faster.
+
+
+543
+0:23:16,94 --> 0:23:18,44
+BOB SUTTON: He means
+brakes on cars.
+
+
+544
+0:23:18,44 --> 0:23:19,106
+HUGGY RAO: Yeah.
+
+
+545
+0:23:19,106 --> 0:23:19,78
+Brakes on cars.
+
+
+546
+0:23:19,78 --> 0:23:21,42
+We often think of
+brakes, of course,
+
+
+547
+0:23:21,42 --> 0:23:23,18
+as something that limits speed.
+
+
+548
+0:23:23,18 --> 0:23:25,68
+But you could plausibly argue,
+when you have breaks you
+
+
+549
+0:23:25,68 --> 0:23:27,65
+actually go a little
+bit faster too.
+
+
+550
+0:23:27,65 --> 0:23:30,85
+And it's a little bit
+like that for rules.
+
+
+551
+0:23:30,85 --> 0:23:34,275
+And the real challenge about
+rules and bureaucracies
+
+
+552
+0:23:34,275 --> 0:23:39,1
+is whatever you do, you ought
+not to increase cognitive load.
+
+
+553
+0:23:39,1 --> 0:23:43,1
+And what we talk about in the
+book is, if you increase load,
+
+
+554
+0:23:43,1 --> 0:23:44,99
+you erode willpower.
+
+
+555
+0:23:44,99 --> 0:23:47,62
+And one of our colleagues
+did a beautiful experiment,
+
+
+556
+0:23:47,62 --> 0:23:50,67
+which actually was a
+variation on a theme.
+
+
+557
+0:23:50,67 --> 0:23:52,54
+So what he did was
+he took a large room
+
+
+558
+0:23:52,54 --> 0:23:55,58
+like this, randomly assigned
+you to two conditions.
+
+
+559
+0:23:55,58 --> 0:23:57,88
+One condition, you
+actually had to remember
+
+
+560
+0:23:57,88 --> 0:23:59,294
+a unique two-digit number.
+
+
+561
+0:23:59,294 --> 0:24:0,96
+The other condition,
+you had to remember
+
+
+562
+0:24:0,96 --> 0:24:2,6
+a unique seven-digit number.
+
+
+563
+0:24:2,6 --> 0:24:5,3
+And all that he does is,
+he opens the door there.
+
+
+564
+0:24:5,3 --> 0:24:6,95
+And along the
+corridors, there are
+
+
+565
+0:24:6,95 --> 0:24:10,62
+two tables, one laden with
+chocolate dessert, one laden
+
+
+566
+0:24:10,62 --> 0:24:12,0
+with fruits.
+
+
+567
+0:24:12,0 --> 0:24:14,37
+And lo and behold,
+what he finds is,
+
+
+568
+0:24:14,37 --> 0:24:16,62
+people who have been asked
+to remember the seven digit
+
+
+569
+0:24:16,62 --> 0:24:17,41
+number.
+
+
+570
+0:24:17,41 --> 0:24:19,935
+They're saying
+238-9242 or whatever,
+
+
+571
+0:24:19,935 --> 0:24:21,81
+and the next thing you
+know is, you're really
+
+
+572
+0:24:21,81 --> 0:24:23,53
+kind of attacking the chocolate.
+
+
+573
+0:24:23,53 --> 0:24:26,15
+And the guys were told to
+remember the two digit number.
+
+
+574
+0:24:26,15 --> 0:24:28,64
+They can resist the
+temptation of chocolate,
+
+
+575
+0:24:28,64 --> 0:24:31,13
+and actually go eat the fruit.
+
+
+576
+0:24:31,13 --> 0:24:33,5
+And what we do in
+organizations when
+
+
+577
+0:24:33,5 --> 0:24:35,6
+we increase
+bureaucracy is, we're
+
+
+578
+0:24:35,6 --> 0:24:37,24
+actually increasing
+demands on people.
+
+
+579
+0:24:37,24 --> 0:24:40,12
+Everyone has to remember
+the seven digit number.
+
+
+580
+0:24:40,12 --> 0:24:43,27
+And then it's no use standing up
+and giving a speech and saying,
+
+
+581
+0:24:43,27 --> 0:24:44,26
+use your willpower.
+
+
+582
+0:24:44,26 --> 0:24:45,19
+They can't.
+
+
+583
+0:24:45,19 --> 0:24:50,39
+Because it's all depleted
+anyway, and that's the problem.
+
+
+584
+0:24:50,39 --> 0:24:51,64
+BOB SUTTON: We got a question.
+
+
+585
+0:24:51,64 --> 0:24:52,12
+ALL: All right.
+
+
+586
+0:24:52,12 --> 0:24:52,619
+All right.
+
+
+587
+0:24:52,619 --> 0:24:53,21
+Thank you.
+
+
+588
+0:24:53,21 --> 0:24:57,875
+
+
+
+589
+0:24:57,875 --> 0:24:59,25
+AUDIENCE: My
+question relates to,
+
+
+590
+0:24:59,25 --> 0:25:1,83
+one of things I'm hearing
+as you're talking,
+
+
+591
+0:25:1,83 --> 0:25:4,38
+is that people who,
+needing to scale up,
+
+
+592
+0:25:4,38 --> 0:25:6,88
+need to change the way in
+which they're doing things,
+
+
+593
+0:25:6,88 --> 0:25:7,699
+obviously.
+
+
+594
+0:25:7,699 --> 0:25:10,24
+One of things I'm thinking, if
+I play a role in Google, which
+
+
+595
+0:25:10,24 --> 0:25:12,82
+is designed to help people
+learn how to do that,
+
+
+596
+0:25:12,82 --> 0:25:14,787
+can you teach
+people to scale up?
+
+
+597
+0:25:14,787 --> 0:25:16,37
+And if so, what are
+some of the things
+
+
+598
+0:25:16,37 --> 0:25:17,84
+that are important to consider.
+
+
+599
+0:25:17,84 --> 0:25:19,465
+BOB SUTTON: So that's
+a great question.
+
+
+600
+0:25:19,465 --> 0:25:23,74
+And in the mindset that at
+least we try to instill, folks,
+
+
+601
+0:25:23,74 --> 0:25:26,98
+is constantly think,
+what got you here
+
+
+602
+0:25:26,98 --> 0:25:28,79
+that won't get you
+to the next stage?
+
+
+603
+0:25:28,79 --> 0:25:33,0
+And two diagnostic things I
+would start with, and then
+
+
+604
+0:25:33,0 --> 0:25:37,52
+Huggy maybe you can jump in, is
+to go back to this size thing.
+
+
+605
+0:25:37,52 --> 0:25:39,47
+Because there are things
+that work at one size
+
+
+606
+0:25:39,47 --> 0:25:40,65
+that won't work in another.
+
+
+607
+0:25:40,65 --> 0:25:42,93
+One of the classic ones,
+and one of the companies
+
+
+608
+0:25:42,93 --> 0:25:44,96
+we know very well, IDEO.
+
+
+609
+0:25:44,96 --> 0:25:47,7
+For years, when I was
+doing an ethnography there,
+
+
+610
+0:25:47,7 --> 0:25:49,81
+I would go to the
+Monday morning meeting.
+
+
+611
+0:25:49,81 --> 0:25:51,4
+There would be 60 people.
+
+
+612
+0:25:51,4 --> 0:25:53,38
+David Kelly, the CEO,
+would run it perfectly.
+
+
+613
+0:25:53,38 --> 0:25:56,62
+It got up to 150 even--
+everybody would talk,
+
+
+614
+0:25:56,62 --> 0:25:58,12
+there would be this
+esprit de corps,
+
+
+615
+0:25:58,12 --> 0:26:0,9
+150 was just-- it
+was a clusterfug.
+
+
+616
+0:26:0,9 --> 0:26:4,44
+So they divided it up, and
+you sort of had to do it.
+
+
+617
+0:26:4,44 --> 0:26:5,7
+So that's one of the things.
+
+
+618
+0:26:5,7 --> 0:26:10,0
+And then the other test is
+that, back to this idea,
+
+
+619
+0:26:10,0 --> 0:26:11,98
+it feels like people
+are walking in muck.
+
+
+620
+0:26:11,98 --> 0:26:14,165
+And one tool we've
+been using-- in fact,
+
+
+621
+0:26:14,165 --> 0:26:16,95
+there's a Fortune 500 company
+that we just did this with,
+
+
+622
+0:26:16,95 --> 0:26:20,8
+where the CEO basically
+put $5,000 on the line
+
+
+623
+0:26:20,8 --> 0:26:21,97
+for each of the
+group presidents,
+
+
+624
+0:26:21,97 --> 0:26:23,84
+is we call the subtraction game.
+
+
+625
+0:26:23,84 --> 0:26:26,39
+And what we do is we have
+people think about what things
+
+
+626
+0:26:26,39 --> 0:26:28,83
+are getting in the way,
+and subtract stuff.
+
+
+627
+0:26:28,83 --> 0:26:31,82
+And it's amazing when
+you think about that.
+
+
+628
+0:26:31,82 --> 0:26:32,54
+Well if somebody
+came in your role,
+
+
+629
+0:26:32,54 --> 0:26:34,53
+which part would you take out?
+
+
+630
+0:26:34,53 --> 0:26:37,88
+That can be quite powerful.
+
+
+631
+0:26:37,88 --> 0:26:40,1
+You have some other
+ideas too, but I
+
+
+632
+0:26:40,1 --> 0:26:42,87
+do think it's a mindset of
+being aware of what is getting
+
+
+633
+0:26:42,87 --> 0:26:45,1
+in the way, in weighing us down.
+
+
+634
+0:26:45,1 --> 0:26:47,71
+HUGGY RAO: Just as a
+quick little extension.
+
+
+635
+0:26:47,71 --> 0:26:51,84
+Given your role for us,
+the key thing about scaling
+
+
+636
+0:26:51,84 --> 0:26:56,34
+is, scaling actually
+has inflection points.
+
+
+637
+0:26:56,34 --> 0:26:58,13
+So scaling is not
+arithmetic, you
+
+
+638
+0:26:58,13 --> 0:27:0,54
+have to really think
+calculus, if you will.
+
+
+639
+0:27:0,54 --> 0:27:3,39
+So as you move from one
+inflection point to another,
+
+
+640
+0:27:3,39 --> 0:27:6,86
+what worked if you scale,
+let's say from zero to 50
+
+
+641
+0:27:6,86 --> 0:27:11,49
+units may not work as you move
+from 50 to 100, then et cetera.
+
+
+642
+0:27:11,49 --> 0:27:14,39
+So the way we think
+about these challenges
+
+
+643
+0:27:14,39 --> 0:27:17,97
+is, you may start
+out as a Catholic,
+
+
+644
+0:27:17,97 --> 0:27:19,97
+and by which we mean
+you have a model
+
+
+645
+0:27:19,97 --> 0:27:21,62
+that you want to replicate.
+
+
+646
+0:27:21,62 --> 0:27:24,61
+But as you quickly
+go up in scale,
+
+
+647
+0:27:24,61 --> 0:27:26,74
+the option that you
+really want to think about
+
+
+648
+0:27:26,74 --> 0:27:29,71
+is, how can we actually
+become Buddhist?
+
+
+649
+0:27:29,71 --> 0:27:34,17
+By which we mean that instead
+of actually prescribing
+
+
+650
+0:27:34,17 --> 0:27:37,96
+every single thing you do, you
+outline general principles,
+
+
+651
+0:27:37,96 --> 0:27:40,2
+and you give tools to people.
+
+
+652
+0:27:40,2 --> 0:27:44,18
+So starting out Catholic
+becoming Buddhist
+
+
+653
+0:27:44,18 --> 0:27:46,11
+is certainly a useful thing.
+
+
+654
+0:27:46,11 --> 0:27:48,12
+Conversely, in large
+companies where
+
+
+655
+0:27:48,12 --> 0:27:50,24
+there's a lot of bad
+behavior, there's
+
+
+656
+0:27:50,24 --> 0:27:52,75
+a lot of Buddhism with
+respect to bad behavior too.
+
+
+657
+0:27:52,75 --> 0:27:54,5
+So there, one of the
+things you have to do
+
+
+658
+0:27:54,5 --> 0:27:56,8
+is, you have to be pretty
+Catholic about what
+
+
+659
+0:27:56,8 --> 0:27:58,6
+the bad behavior is.
+
+
+660
+0:27:58,6 --> 0:28:0,26
+Stop that one thing.
+
+
+661
+0:28:0,26 --> 0:28:2,67
+So those are the
+trade-offs that you
+
+
+662
+0:28:2,67 --> 0:28:5,17
+have to actually
+think of making.
+
+
+663
+0:28:5,17 --> 0:28:8,2
+BOB SUTTON: Good question.
+
+
+664
+0:28:8,2 --> 0:28:10,29
+AUDIENCE: Hi.
+
+
+665
+0:28:10,29 --> 0:28:11,2
+My question.
+
+
+666
+0:28:11,2 --> 0:28:13,77
+At Google, oftentimes
+we hear this principle,
+
+
+667
+0:28:13,77 --> 0:28:15,54
+and we act on them,
+and I know I've
+
+
+668
+0:28:15,54 --> 0:28:17,34
+done, is "launch and iterate."
+
+
+669
+0:28:17,34 --> 0:28:21,41
+Because we don't have
+time to scale slow,
+
+
+670
+0:28:21,41 --> 0:28:23,539
+that's the advice you
+said in the beginning.
+
+
+671
+0:28:23,539 --> 0:28:25,83
+Because there's all these
+demands that are coming to us
+
+
+672
+0:28:25,83 --> 0:28:28,84
+and we need to act
+extremely fast.
+
+
+673
+0:28:28,84 --> 0:28:34,35
+So how does your idea
+of scaling slowly,
+
+
+674
+0:28:34,35 --> 0:28:37,32
+would really work with this
+"launch and iterate" principle?
+
+
+675
+0:28:37,32 --> 0:28:40,67
+BOB SUTTON: To me,
+you sort of have
+
+
+676
+0:28:40,67 --> 0:28:42,99
+to decide which things
+you have to slow down at.
+
+
+677
+0:28:42,99 --> 0:28:45,32
+So you can do other things fast.
+
+
+678
+0:28:45,32 --> 0:28:48,3
+So I hate to bring up
+Facebook, but I will.
+
+
+679
+0:28:48,3 --> 0:28:50,67
+They put an enormous
+amount of energy
+
+
+680
+0:28:50,67 --> 0:28:53,67
+into hiring people and
+brainwashing them properly.
+
+
+681
+0:28:53,67 --> 0:28:55,68
+So they can move fast
+and break things.
+
+
+682
+0:28:55,68 --> 0:28:57,82
+So that's even more
+extreme than iteration.
+
+
+683
+0:28:57,82 --> 0:28:59,75
+And if you have the
+right people, and people
+
+
+684
+0:28:59,75 --> 0:29:1,78
+who will learn fast
+enough, and this,
+
+
+685
+0:29:1,78 --> 0:29:3,82
+we teach in the design
+school, both of us.
+
+
+686
+0:29:3,82 --> 0:29:6,53
+That's our whole
+philosophy is rapid
+
+
+687
+0:29:6,53 --> 0:29:9,62
+prototyping and moving fast.
+
+
+688
+0:29:9,62 --> 0:29:14,387
+And to me, the question is when
+you do that, do you create--
+
+
+689
+0:29:14,387 --> 0:29:16,47
+are you doing it in such
+a way where it's actually
+
+
+690
+0:29:16,47 --> 0:29:18,11
+safe to fail?
+
+
+691
+0:29:18,11 --> 0:29:20,78
+And if you're moving
+fast and breaking things
+
+
+692
+0:29:20,78 --> 0:29:22,31
+or doing rapid prototyping.
+
+
+693
+0:29:22,31 --> 0:29:24,29
+To me that's just fast learning.
+
+
+694
+0:29:24,29 --> 0:29:25,73
+And that should work.
+
+
+695
+0:29:25,73 --> 0:29:28,59
+But if you're doing that in
+a setting, where it's not
+
+
+696
+0:29:28,59 --> 0:29:33,16
+safe to fail, so surgery,
+launching an airplane,
+
+
+697
+0:29:33,16 --> 0:29:34,577
+keeping the Google
+site running, I
+
+
+698
+0:29:34,577 --> 0:29:36,243
+mean if people can't
+do a Google search,
+
+
+699
+0:29:36,243 --> 0:29:37,89
+really bad things are happening.
+
+
+700
+0:29:37,89 --> 0:29:41,18
+So I'm all for moving
+fast and breaking things
+
+
+701
+0:29:41,18 --> 0:29:43,53
+or rapid prototyping
+and the like.
+
+
+702
+0:29:43,53 --> 0:29:45,49
+But the more skilled
+people you've had,
+
+
+703
+0:29:45,49 --> 0:29:47,66
+so the more time you
+spent hiring them,
+
+
+704
+0:29:47,66 --> 0:29:49,75
+and the more they have
+actually shared ideas
+
+
+705
+0:29:49,75 --> 0:29:51,25
+of what effectiveness
+looks like and
+
+
+706
+0:29:51,25 --> 0:29:53,47
+doesn't, the faster
+you can move forward.
+
+
+707
+0:29:53,47 --> 0:29:58,2
+That's why Huggy's metric, Waze,
+is that the name that company?
+
+
+708
+0:29:58,2 --> 0:30:1,37
+That their metric was, are we
+acquiring customers or not?
+
+
+709
+0:30:1,37 --> 0:30:2,819
+So that's what success was.
+
+
+710
+0:30:2,819 --> 0:30:3,86
+So theirs is agreed upon.
+
+
+711
+0:30:3,86 --> 0:30:6,28
+But I'm not saying you
+should oh, be a nervous Cindy
+
+
+712
+0:30:6,28 --> 0:30:7,61
+and not move fast.
+
+
+713
+0:30:7,61 --> 0:30:9,25
+But there are times
+in life-- there's
+
+
+714
+0:30:9,25 --> 0:30:11,35
+a guy named Jerome
+Groopman, who writes stuff
+
+
+715
+0:30:11,35 --> 0:30:14,37
+on how doctors do
+diagnoses, and sometimes
+
+
+716
+0:30:14,37 --> 0:30:19,89
+in life, the best advice he says
+is, don't just do something,
+
+
+717
+0:30:19,89 --> 0:30:20,99
+stand there.
+
+
+718
+0:30:20,99 --> 0:30:24,42
+And a lot of the key to life--
+and this is Danny Kahneman,
+
+
+719
+0:30:24,42 --> 0:30:27,404
+Nobel Prize-winning stuff
+too-- is figuring out
+
+
+720
+0:30:27,404 --> 0:30:28,82
+when you go to
+that sort of system
+
+
+721
+0:30:28,82 --> 0:30:31,51
+too where you actually have to
+do deep cognition versus boom,
+
+
+722
+0:30:31,51 --> 0:30:33,31
+we can go on automatic pilot.
+
+
+723
+0:30:33,31 --> 0:30:36,13
+So I don't think there's any
+hard, magic answers there.
+
+
+724
+0:30:36,13 --> 0:30:37,6
+But knowing when
+to hit the brakes,
+
+
+725
+0:30:37,6 --> 0:30:38,975
+so then you can
+accelerate later,
+
+
+726
+0:30:38,975 --> 0:30:41,89
+to use Huggy's metaphor is a
+lot of what scaling and all
+
+
+727
+0:30:41,89 --> 0:30:43,515
+of organizational life is about.
+
+
+728
+0:30:43,515 --> 0:30:45,14
+HUGGY RAO: Very
+quickly, if I can add--
+
+
+729
+0:30:45,14 --> 0:30:46,223
+BOB SUTTON: Good question.
+
+
+730
+0:30:46,223 --> 0:30:48,21
+HUGGY RAO: I think--
+very nice question.
+
+
+731
+0:30:48,21 --> 0:30:51,23
+I'm often reminded of a
+lovely Latin proverb that
+
+
+732
+0:30:51,23 --> 0:30:53,88
+goes something like this,
+"Festina Lente," which
+
+
+733
+0:30:53,88 --> 0:30:56,15
+means "make haste slowly."
+
+
+734
+0:30:56,15 --> 0:30:57,83
+So here's the problem.
+
+
+735
+0:30:57,83 --> 0:31:1,22
+The problem is when decision
+makers want to scale,
+
+
+736
+0:31:1,22 --> 0:31:4,67
+they usually think of
+desirability considerations.
+
+
+737
+0:31:4,67 --> 0:31:6,9
+What's desirable?
+
+
+738
+0:31:6,9 --> 0:31:9,9
+And cognitively, when we
+think of what's desirable,
+
+
+739
+0:31:9,9 --> 0:31:12,22
+we actually think in
+very abstract ways.
+
+
+740
+0:31:12,22 --> 0:31:14,925
+We call that the
+air war in the book.
+
+
+741
+0:31:14,925 --> 0:31:16,86
+You sort of think it's
+an air-war problem.
+
+
+742
+0:31:16,86 --> 0:31:18,318
+All that you've
+got to do is you've
+
+
+743
+0:31:18,318 --> 0:31:19,36
+got to launch it all out.
+
+
+744
+0:31:19,36 --> 0:31:21,234
+You've got to do this,
+you've got to do that.
+
+
+745
+0:31:21,234 --> 0:31:23,5
+You think things are
+going to really scale.
+
+
+746
+0:31:23,5 --> 0:31:25,69
+But real scaling actually
+requires great attention
+
+
+747
+0:31:25,69 --> 0:31:29,75
+to concrete details, and
+to think feasibility.
+
+
+748
+0:31:29,75 --> 0:31:32,71
+So you really have to
+think about the ground war.
+
+
+749
+0:31:32,71 --> 0:31:34,52
+And in order to
+fight a ground war.
+
+
+750
+0:31:34,52 --> 0:31:38,96
+As you can imagine, a ground war
+also is intense, but arguably
+
+
+751
+0:31:38,96 --> 0:31:43,81
+that occurs on a somewhat slower
+time scale than just an air
+
+
+752
+0:31:43,81 --> 0:31:43,58
+war--
+
+
+753
+0:31:43,58 --> 0:31:46,17
+BOB SUTTON: And I would add,
+back to your prototyping idea.
+
+
+754
+0:31:46,17 --> 0:31:47,84
+So the great thing
+about prototyping
+
+
+755
+0:31:47,84 --> 0:31:50,35
+is, if you're good
+prototyper, whether it's
+
+
+756
+0:31:50,35 --> 0:31:53,21
+software or a product,
+it's really tangible.
+
+
+757
+0:31:53,21 --> 0:31:55,81
+You give people-- do you
+want the latch like this?
+
+
+758
+0:31:55,81 --> 0:31:58,25
+Do you want A or B,
+out of AB testing?
+
+
+759
+0:31:58,25 --> 0:31:59,99
+So the great thing
+about prototyping
+
+
+760
+0:31:59,99 --> 0:32:1,92
+is, you actually
+got tangibility.
+
+
+761
+0:32:1,92 --> 0:32:3,63
+You're not thinking abstractly.
+
+
+762
+0:32:3,63 --> 0:32:7,25
+That's like our definition
+of a lousy group of Stanford
+
+
+763
+0:32:7,25 --> 0:32:9,85
+students or
+executives, is they're
+
+
+764
+0:32:9,85 --> 0:32:13,589
+talking tangibly, and then
+my buddy Diego Rodriguez
+
+
+765
+0:32:13,589 --> 0:32:15,63
+from IDEO, when they talk
+like that, and he says,
+
+
+766
+0:32:15,63 --> 0:32:16,589
+where's your prototype?
+
+
+767
+0:32:16,589 --> 0:32:18,546
+And if they don't have
+a prototype, he says, F,
+
+
+768
+0:32:18,546 --> 0:32:19,2
+and he leaves.
+
+
+769
+0:32:19,2 --> 0:32:23,95
+So tangibility is a big
+part of that concreteness.
+
+
+770
+0:32:23,95 --> 0:32:24,45
+Please.
+
+
+771
+0:32:24,45 --> 0:32:25,866
+AUDIENCE: I have
+another question,
+
+
+772
+0:32:25,866 --> 0:32:27,18
+since nobody else is here.
+
+
+773
+0:32:27,18 --> 0:32:27,4
+BOB SUTTON: Oh good.
+
+
+774
+0:32:27,4 --> 0:32:27,899
+Yeah.
+
+
+775
+0:32:27,899 --> 0:32:28,42
+Go for it.
+
+
+776
+0:32:28,42 --> 0:32:31,38
+AUDIENCE: So you said that
+you define excellence very
+
+
+777
+0:32:31,38 --> 0:32:34,54
+generally, when people do
+the right thing when nobody's
+
+
+778
+0:32:34,54 --> 0:32:36,18
+watching, something like this.
+
+
+779
+0:32:36,18 --> 0:32:38,86
+I think at Google, we
+are very metrics-driven.
+
+
+780
+0:32:38,86 --> 0:32:42,5
+So we need to define
+excellence with metrics.
+
+
+781
+0:32:42,5 --> 0:32:46,1
+So what do you discuss
+about that in your book,
+
+
+782
+0:32:46,1 --> 0:32:48,722
+or you just keep
+it very general?
+
+
+783
+0:32:48,722 --> 0:32:50,43
+HUGGY RAO: I think
+what we talk about is,
+
+
+784
+0:32:50,43 --> 0:32:52,93
+when we think about
+excellence, we actually
+
+
+785
+0:32:52,93 --> 0:32:55,7
+are talking a lot
+about accountability.
+
+
+786
+0:32:55,7 --> 0:32:58,4
+Accountability actually
+has two dimensions.
+
+
+787
+0:32:58,4 --> 0:33:2,91
+One dimension is, you feel
+like you own the place.
+
+
+788
+0:33:2,91 --> 0:33:6,64
+But you can actually do things
+to influence development
+
+
+789
+0:33:6,64 --> 0:33:10,97
+metrics or whatsoever has been
+actually entrusted to you.
+
+
+790
+0:33:10,97 --> 0:33:15,18
+The second dimension
+really is, but you also
+
+
+791
+0:33:15,18 --> 0:33:17,67
+feel the place owns you.
+
+
+792
+0:33:17,67 --> 0:33:20,72
+So you need, I think,
+the push of commitment
+
+
+793
+0:33:20,72 --> 0:33:22,9
+and the tug of obligation.
+
+
+794
+0:33:22,9 --> 0:33:26,6
+And what's important
+with metrics is,
+
+
+795
+0:33:26,6 --> 0:33:27,59
+you want to make
+sure you preserve
+
+
+796
+0:33:27,59 --> 0:33:29,53
+that feeling of
+ownership, and you
+
+
+797
+0:33:29,53 --> 0:33:31,93
+create that sense of obligation.
+
+
+798
+0:33:31,93 --> 0:33:35,0
+If it's only metrics
+that you have-- you
+
+
+799
+0:33:35,0 --> 0:33:37,16
+can actually get
+to that footprint,
+
+
+800
+0:33:37,16 --> 0:33:39,8
+but lose the mindset.
+
+
+801
+0:33:39,8 --> 0:33:41,75
+A couple of weeks ago,
+there was this company
+
+
+802
+0:33:41,75 --> 0:33:44,78
+called Health
+Associates, which I
+
+
+803
+0:33:44,78 --> 0:33:47,83
+think is a Florida-based company
+that actually was indicted
+
+
+804
+0:33:47,83 --> 0:33:49,53
+by the attorney
+general's office.
+
+
+805
+0:33:49,53 --> 0:33:51,119
+Why were they indicted?
+
+
+806
+0:33:51,119 --> 0:33:52,91
+Because they were
+actually admitting people
+
+
+807
+0:33:52,91 --> 0:33:56,54
+into hospitals when there was
+absolutely no reason to do so.
+
+
+808
+0:33:56,54 --> 0:33:59,91
+And what was fascinating
+was the emphasis on metrics.
+
+
+809
+0:33:59,91 --> 0:34:5,9
+Every physician had a
+color-coded ID, if you will,
+
+
+810
+0:34:5,9 --> 0:34:6,69
+on a scorecard.
+
+
+811
+0:34:6,69 --> 0:34:9,23
+You beat target, you were green.
+
+
+812
+0:34:9,23 --> 0:34:11,85
+You were close to
+target, you were orange.
+
+
+813
+0:34:11,85 --> 0:34:14,19
+You were below
+target, you were red.
+
+
+814
+0:34:14,19 --> 0:34:16,21
+And what do you think
+these physicians did?
+
+
+815
+0:34:16,21 --> 0:34:17,88
+They were admitting
+young infants
+
+
+816
+0:34:17,88 --> 0:34:22,31
+with temperatures of 98.7,
+saying that they were abnormal.
+
+
+817
+0:34:22,31 --> 0:34:24,88
+Let them actually get
+admitted into the hospital,
+
+
+818
+0:34:24,88 --> 0:34:27,139
+because you're actually
+increasing revenue.
+
+
+819
+0:34:27,139 --> 0:34:31,4
+So there's also a dark
+side of accountability.
+
+
+820
+0:34:31,4 --> 0:34:33,51
+And the dark side
+of accountability
+
+
+821
+0:34:33,51 --> 0:34:37,6
+often is realized on the
+over-emphasis on metrics.
+
+
+822
+0:34:37,6 --> 0:34:38,87
+And we talked at
+length about that,
+
+
+823
+0:34:38,87 --> 0:34:40,86
+to be very mindful of that.
+
+
+824
+0:34:40,86 --> 0:34:41,96
+BOB SUTTON: But I'll
+get to what your saying,
+
+
+825
+0:34:41,96 --> 0:34:44,334
+but I want to-- and this is
+actually very good question--
+
+
+826
+0:34:44,334 --> 0:34:47,395
+I wouldn't necessarily directly
+disagree with Huggy, but--
+
+
+827
+0:34:47,395 --> 0:34:48,27
+HUGGY RAO: Please do.
+
+
+828
+0:34:48,27 --> 0:34:50,739
+BOB SUTTON: --but I agree
+that you have to-- that things
+
+
+829
+0:34:50,739 --> 0:34:53,29
+are more effective-- whatever
+the metrics are, when there's
+
+
+830
+0:34:53,29 --> 0:34:55,81
+that feeling that, I own the
+place, and the place owns me.
+
+
+831
+0:34:55,81 --> 0:34:57,12
+And you know what
+the larger thing
+
+
+832
+0:34:57,12 --> 0:34:59,16
+you're trying to accomplish
+is, assuming it's ethical.
+
+
+833
+0:34:59,16 --> 0:35:1,564
+Because this would work from
+unethical organizations too.
+
+
+834
+0:35:1,564 --> 0:35:3,48
+Let's have as many murders
+as we possibly can,
+
+
+835
+0:35:3,48 --> 0:35:5,7
+might be, for some
+organizations,
+
+
+836
+0:35:5,7 --> 0:35:6,44
+a reasonable metric.
+
+
+837
+0:35:6,44 --> 0:35:8,86
+But if you look at the
+cases that we look at.
+
+
+838
+0:35:8,86 --> 0:35:11,682
+And three points
+in my career, I try
+
+
+839
+0:35:11,682 --> 0:35:13,64
+to figure out what
+organizational effectiveness
+
+
+840
+0:35:13,64 --> 0:35:14,25
+was.
+
+
+841
+0:35:14,25 --> 0:35:17,46
+And each time I sort of
+succeeded and sort of failed.
+
+
+842
+0:35:17,46 --> 0:35:19,931
+And the best I
+could do was to say,
+
+
+843
+0:35:19,931 --> 0:35:22,43
+in every context you have to
+ask the question, effectiveness
+
+
+844
+0:35:22,43 --> 0:35:23,22
+of what?
+
+
+845
+0:35:23,22 --> 0:35:24,74
+And effectiveness for whom?
+
+
+846
+0:35:24,74 --> 0:35:28,34
+And come up with a reasonable
+metric in that situation.
+
+
+847
+0:35:28,34 --> 0:35:30,79
+So one of the cases
+we use in the book
+
+
+848
+0:35:30,79 --> 0:35:34,79
+is a group that does
+routine knee operations
+
+
+849
+0:35:34,79 --> 0:35:35,99
+at a hospital in Boston.
+
+
+850
+0:35:35,99 --> 0:35:38,96
+So for them, the
+contextualized metrics,
+
+
+851
+0:35:38,96 --> 0:35:42,3
+and you have them here at
+Google as well, would be,
+
+
+852
+0:35:42,3 --> 0:35:43,607
+so how much does it cost?
+
+
+853
+0:35:43,607 --> 0:35:44,69
+How much pain are they in?
+
+
+854
+0:35:44,69 --> 0:35:46,481
+And how many days are
+they in the hospital?
+
+
+855
+0:35:46,481 --> 0:35:48,209
+Those are pretty
+reasonable metrics,
+
+
+856
+0:35:48,209 --> 0:35:50,25
+assuming that they're
+dealing with the exceptions
+
+
+857
+0:35:50,25 --> 0:35:53,74
+in an ethical case,
+in an ethical way,
+
+
+858
+0:35:53,74 --> 0:35:55,65
+but I think the
+notion of metrics--
+
+
+859
+0:35:55,65 --> 0:35:57,85
+I don't think that Huggy
+and I would dismiss it.
+
+
+860
+0:35:57,85 --> 0:35:59,433
+And believe me,
+between the two of us,
+
+
+861
+0:35:59,433 --> 0:36:1,28
+he's the one who
+can count, not me.
+
+
+862
+0:36:1,28 --> 0:36:4,65
+He's one of the best people
+in metrics I've ever seen.
+
+
+863
+0:36:4,65 --> 0:36:7,61
+But embedding it in the
+context is very important.
+
+
+864
+0:36:7,61 --> 0:36:8,15
+Please.
+
+
+865
+0:36:8,15 --> 0:36:10,68
+AUDIENCE: And probably,
+also what you're saying
+
+
+866
+0:36:10,68 --> 0:36:13,54
+is too many metrics
+could be the dark side,
+
+
+867
+0:36:13,54 --> 0:36:16,109
+but just enough, that's
+what you should go for.
+
+
+868
+0:36:16,109 --> 0:36:17,9
+BOB SUTTON: So one of
+my favorite examples,
+
+
+869
+0:36:17,9 --> 0:36:19,941
+I can't remember if we
+put this in a book or not,
+
+
+870
+0:36:19,941 --> 0:36:22,56
+but Jeff Pfeffer and
+I, once, years ago, we
+
+
+871
+0:36:22,56 --> 0:36:23,87
+were studying Citibank.
+
+
+872
+0:36:23,87 --> 0:36:27,14
+And we were introduced to the
+most effective Citibank branch
+
+
+873
+0:36:27,14 --> 0:36:29,439
+manager in all of the New
+York metropolitan area.
+
+
+874
+0:36:29,439 --> 0:36:31,48
+So we go in, and they got
+this balance scorecard,
+
+
+875
+0:36:31,48 --> 0:36:33,1
+they got like 30 measures.
+
+
+876
+0:36:33,1 --> 0:36:34,76
+We say, what's the
+secret to your success?
+
+
+877
+0:36:34,76 --> 0:36:36,45
+He said, I ignore
+everything on the scorecard.
+
+
+878
+0:36:36,45 --> 0:36:38,324
+And the reason they
+think I'm the best person
+
+
+879
+0:36:38,324 --> 0:36:42,22
+is that I have the best
+profitability of any branch.
+
+
+880
+0:36:42,22 --> 0:36:44,29
+And you notice that they
+called me the best guy,
+
+
+881
+0:36:44,29 --> 0:36:46,144
+and that balance
+scorecard is bullshit.
+
+
+882
+0:36:46,144 --> 0:36:47,81
+And the other people
+who are screwing up
+
+
+883
+0:36:47,81 --> 0:36:49,81
+are actually paying
+attention to it.
+
+
+884
+0:36:49,81 --> 0:36:55,13
+So absolutely too many
+metrics are very bad.
+
+
+885
+0:36:55,13 --> 0:36:57,12
+I like Huggy's case with Waze.
+
+
+886
+0:36:57,12 --> 0:36:59,98
+AUDIENCE: Actually I would also
+add that the right metrics are
+
+
+887
+0:36:59,98 --> 0:37:1,21
+just as important, right?
+
+
+888
+0:37:1,21 --> 0:37:3,29
+Metrics drive behavior.
+
+
+889
+0:37:3,29 --> 0:37:6,59
+I think, the question that
+I have on the table is,
+
+
+890
+0:37:6,59 --> 0:37:9,26
+when we talk about
+scaling, I think
+
+
+891
+0:37:9,26 --> 0:37:14,9
+you touch upon people, process,
+tools, so all those three
+
+
+892
+0:37:14,9 --> 0:37:16,7
+things we need to
+look at them, right?
+
+
+893
+0:37:16,7 --> 0:37:17,98
+And how to prioritize.
+
+
+894
+0:37:17,98 --> 0:37:21,85
+And I think you talk about
+stopping bad behavior.
+
+
+895
+0:37:21,85 --> 0:37:23,73
+And I find that
+really interesting,
+
+
+896
+0:37:23,73 --> 0:37:25,67
+and I kind of want
+to hear your take on,
+
+
+897
+0:37:25,67 --> 0:37:30,77
+what are some of the things that
+the highly successful companies
+
+
+898
+0:37:30,77 --> 0:37:33,89
+do in dealing with
+the people issue?
+
+
+899
+0:37:33,89 --> 0:37:36,98
+Because you do hire
+different people
+
+
+900
+0:37:36,98 --> 0:37:40,9
+with different capabilities
+as the company grows.
+
+
+901
+0:37:40,9 --> 0:37:41,81
+Because the needs change.
+
+
+902
+0:37:41,81 --> 0:37:45,55
+So but you go enter with
+different players on the field.
+
+
+903
+0:37:45,55 --> 0:37:48,94
+How do you make them
+work together, right?
+
+
+904
+0:37:48,94 --> 0:37:48,76
+HUGGY RAO: Yeah.
+
+
+905
+0:37:48,76 --> 0:37:50,53
+That's a great question as well.
+
+
+906
+0:37:50,53 --> 0:37:53,35
+So the first thing
+about bad behavior.
+
+
+907
+0:37:53,35 --> 0:37:55,93
+The very basic finding,
+robust finding,
+
+
+908
+0:37:55,93 --> 0:37:58,83
+is bad's way stronger than good.
+
+
+909
+0:37:58,83 --> 0:38:2,29
+In one study of marital
+relationships, what is it?
+
+
+910
+0:38:2,29 --> 0:38:5,47
+For every nasty thing you
+tell your partner, or spouse,
+
+
+911
+0:38:5,47 --> 0:38:7,5
+you have to say five
+good things at least--
+
+
+912
+0:38:7,5 --> 0:38:9,83
+BOB SUTTON: Or it's
+not going to last.
+
+
+913
+0:38:9,83 --> 0:38:12,54
+HUGGY RAO: --and you can
+imagine the, sort of, asymmetry.
+
+
+914
+0:38:12,54 --> 0:38:16,88
+The thing about bad behavior
+is, bad behavior basically
+
+
+915
+0:38:16,88 --> 0:38:19,654
+is a signal that nobody cares.
+
+
+916
+0:38:19,654 --> 0:38:21,7
+And that's the
+reason why you have
+
+
+917
+0:38:21,7 --> 0:38:24,2
+to actually get to
+it very quickly.
+
+
+918
+0:38:24,2 --> 0:38:29,94
+And it might actually
+have to do with waste,
+
+
+919
+0:38:29,94 --> 0:38:31,61
+it might have to
+do with delay, it
+
+
+920
+0:38:31,61 --> 0:38:34,87
+might have to do with
+outright malfeasance, whatever
+
+
+921
+0:38:34,87 --> 0:38:38,36
+the manifestation
+of bad behavior is.
+
+
+922
+0:38:38,36 --> 0:38:39,95
+But the important
+thing to realize,
+
+
+923
+0:38:39,95 --> 0:38:41,82
+and we talk about
+in the book is,
+
+
+924
+0:38:41,82 --> 0:38:43,56
+you don't want to
+leap to the conclusion
+
+
+925
+0:38:43,56 --> 0:38:46,93
+that bad behavior is the
+product of bad people.
+
+
+926
+0:38:46,93 --> 0:38:49,9
+Good people do bad things.
+
+
+927
+0:38:49,9 --> 0:38:52,66
+Because they're mostly
+responding to the system
+
+
+928
+0:38:52,66 --> 0:38:53,5
+that's there.
+
+
+929
+0:38:53,5 --> 0:38:57,38
+And you guys at Google do a
+marvelous job of making sure--
+
+
+930
+0:38:57,38 --> 0:39:1,32
+when you think of people
+who aren't performing,
+
+
+931
+0:39:1,32 --> 0:39:4,41
+how you actually reduce
+variance in performance,
+
+
+932
+0:39:4,41 --> 0:39:6,97
+by giving them a new
+start and so forth.
+
+
+933
+0:39:6,97 --> 0:39:11,29
+So very important to make sure
+you come to terms with the fact
+
+
+934
+0:39:11,29 --> 0:39:14,42
+that why are bad people--
+why are good people doing
+
+
+935
+0:39:14,42 --> 0:39:15,34
+bad things?
+
+
+936
+0:39:15,34 --> 0:39:17,49
+And here, context matters.
+
+
+937
+0:39:17,49 --> 0:39:20,44
+At the other extreme, what
+we talk about in the book is,
+
+
+938
+0:39:20,44 --> 0:39:23,831
+people do bad things
+because bad involves thrill.
+
+
+939
+0:39:23,831 --> 0:39:25,58
+And one of the things
+you've got to you've
+
+
+940
+0:39:25,58 --> 0:39:27,89
+got to kill the thrill.
+
+
+941
+0:39:27,89 --> 0:39:31,35
+We actually have an example of a
+nice study done by psychologist
+
+
+942
+0:39:31,35 --> 0:39:37,5
+about a factory where they
+were actually stealing tools.
+
+
+943
+0:39:37,5 --> 0:39:38,251
+So what do you do?
+
+
+944
+0:39:38,251 --> 0:39:39,875
+BOB SUTTON: Like big
+tools, like things
+
+
+945
+0:39:39,875 --> 0:39:41,13
+that weighed 1,000 pounds.
+
+
+946
+0:39:41,13 --> 0:39:42,796
+HUGGY RAO: They're
+all taking them home.
+
+
+947
+0:39:42,796 --> 0:39:46,65
+So you can think of, oh my
+god, I'm going to put fines.
+
+
+948
+0:39:46,65 --> 0:39:48,76
+No, I'm going to appoint guards.
+
+
+949
+0:39:48,76 --> 0:39:50,79
+No, we're going to
+have video cameras.
+
+
+950
+0:39:50,79 --> 0:39:52,95
+So these guys thought about
+it, and they came back
+
+
+951
+0:39:52,95 --> 0:39:56,27
+with a very strikingly
+counter intuitive solution.
+
+
+952
+0:39:56,27 --> 0:39:59,76
+They said, hey, we actually
+have a lending library here.
+
+
+953
+0:39:59,76 --> 0:40:3,89
+You guys can borrow the tools,
+and if you've been late,
+
+
+954
+0:40:3,89 --> 0:40:7,3
+there's an amnesty, you
+can always turn it back in.
+
+
+955
+0:40:7,3 --> 0:40:10,43
+So once there was no prohibition
+about taking the tools,
+
+
+956
+0:40:10,43 --> 0:40:11,9
+the thrill of
+stealing was kind of
+
+
+957
+0:40:11,9 --> 0:40:14,876
+lost because anybody
+could take any tool.
+
+
+958
+0:40:14,876 --> 0:40:16,25
+And of course,
+these workers were
+
+
+959
+0:40:16,25 --> 0:40:18,33
+being pressured by
+their wives saying,
+
+
+960
+0:40:18,33 --> 0:40:21,66
+you're messing up the art
+and taking up too much space.
+
+
+961
+0:40:21,66 --> 0:40:25,4
+Please return those damn
+tools back to your factory.
+
+
+962
+0:40:25,4 --> 0:40:27,15
+So they were able to
+stop it like that.
+
+
+963
+0:40:27,15 --> 0:40:30,25
+So those are the two
+bookends, if you will of that.
+
+
+964
+0:40:30,25 --> 0:40:32,52
+BOB SUTTON: In this story,
+I like to use the metric.
+
+
+965
+0:40:32,52 --> 0:40:35,61
+They went from having a million
+dollars worth of stuff a year
+
+
+966
+0:40:35,61 --> 0:40:37,472
+stolen to nothing, just by
+saying, here it's yours.
+
+
+967
+0:40:37,472 --> 0:40:39,43
+This was a great example
+of killing the thrill.
+
+
+968
+0:40:39,43 --> 0:40:40,66
+And they would just
+steal things that
+
+
+969
+0:40:40,66 --> 0:40:43,76
+were hard to steal, just because
+it was fun to steal them,
+
+
+970
+0:40:43,76 --> 0:40:45,876
+not because they needed them.
+
+
+971
+0:40:45,876 --> 0:40:48,0
+HUGGY RAO: The other thing
+you have to keep in mind
+
+
+972
+0:40:48,0 --> 0:40:52,67
+is-- and I just want
+to connect the metrics
+
+
+973
+0:40:52,67 --> 0:40:55,37
+and kind of bad
+behavior-- this isn't
+
+
+974
+0:40:55,37 --> 0:40:57,95
+a conclusion by any means,
+but at least a good null
+
+
+975
+0:40:57,95 --> 0:40:59,25
+hypothesis.
+
+
+976
+0:40:59,25 --> 0:41:1,99
+When there are lots of
+metrics, a good null
+
+
+977
+0:41:1,99 --> 0:41:6,76
+hypothesis to begin is, you have
+smart people who are afraid.
+
+
+978
+0:41:6,76 --> 0:41:9,49
+Because if all of the metrics
+were highly correlated,
+
+
+979
+0:41:9,49 --> 0:41:11,27
+they would all load
+into one factor.
+
+
+980
+0:41:11,27 --> 0:41:13,0
+So obviously you
+don't need 30 metrics
+
+
+981
+0:41:13,0 --> 0:41:15,559
+because the intercorrelations
+are so high.
+
+
+982
+0:41:15,559 --> 0:41:17,6
+And the reason they're
+not going to be correlated
+
+
+983
+0:41:17,6 --> 0:41:19,4
+is you going to look
+good on some things.
+
+
+984
+0:41:19,4 --> 0:41:20,873
+BOB SUTTON: I would
+also add, independently,
+
+
+985
+0:41:20,873 --> 0:41:23,257
+the fear-- I actually
+did some early consulting
+
+
+986
+0:41:23,257 --> 0:41:25,84
+work a litttle with HP on this
+when they had too many metrics.
+
+
+987
+0:41:25,84 --> 0:41:29,2
+And what ends up happening
+is, in terms of having
+
+
+988
+0:41:29,2 --> 0:41:32,8
+the same mindset and
+people in the same page is,
+
+
+989
+0:41:32,8 --> 0:41:35,27
+the whole game becomes-- so
+you're a general manager at HP.
+
+
+990
+0:41:35,27 --> 0:41:37,75
+In the old days,
+there's 54 divisions
+
+
+991
+0:41:37,75 --> 0:41:40,91
+and you're assessed on like
+30 or 40 different metrics.
+
+
+992
+0:41:40,91 --> 0:41:42,33
+Your job is to
+convince everybody
+
+
+993
+0:41:42,33 --> 0:41:43,789
+that the one metric
+you're great on
+
+
+994
+0:41:43,789 --> 0:41:45,246
+is what you should
+be evaluated on.
+
+
+995
+0:41:45,246 --> 0:41:47,8
+So this whole
+political gamesmanship
+
+
+996
+0:41:47,8 --> 0:41:50,14
+went on that had nothing
+to do with actually
+
+
+997
+0:41:50,14 --> 0:41:51,58
+moving the company forward.
+
+
+998
+0:41:51,58 --> 0:41:52,41
+Yes.
+
+
+999
+0:41:52,41 --> 0:41:54,6
+You have a question here.
+
+
+1000
+0:41:54,6 --> 0:41:56,58
+AUDIENCE: Thank you for coming
+here, and writing the book.
+
+
+1001
+0:41:56,58 --> 0:41:57,496
+BOB SUTTON: Thank you.
+
+
+1002
+0:41:57,496 --> 0:41:59,36
+AUDIENCE: I wanted
+to ask about the step
+
+
+1003
+0:41:59,36 --> 0:42:0,98
+before you worry about scaling.
+
+
+1004
+0:42:0,98 --> 0:42:4,131
+There is a lot of
+theories, and Paul Graham
+
+
+1005
+0:42:4,131 --> 0:42:6,13
+I think wrote an article
+a few months back that,
+
+
+1006
+0:42:6,13 --> 0:42:8,1
+startups should never
+worry about scaling,
+
+
+1007
+0:42:8,1 --> 0:42:11,23
+should just get the prototype,
+learn as much as you can.
+
+
+1008
+0:42:11,23 --> 0:42:14,5
+And I've actually
+managed startups
+
+
+1009
+0:42:14,5 --> 0:42:18,42
+where we had a great product.
+
+
+1010
+0:42:18,42 --> 0:42:20,982
+We had the team of people
+that were not aligned.
+
+
+1011
+0:42:20,982 --> 0:42:22,94
+And we had the three
+issues that you mentioned,
+
+
+1012
+0:42:22,94 --> 0:42:27,92
+incompetence, the
+impatience, and the illusion.
+
+
+1013
+0:42:27,92 --> 0:42:29,68
+And I sort of said, OK.
+
+
+1014
+0:42:29,68 --> 0:42:30,98
+Let's stop.
+
+
+1015
+0:42:30,98 --> 0:42:33,74
+And let's try to figure
+out what's going on.
+
+
+1016
+0:42:33,74 --> 0:42:35,29
+And improve it based on that.
+
+
+1017
+0:42:35,29 --> 0:42:36,53
+And then worry about scaling.
+
+
+1018
+0:42:36,53 --> 0:42:38,65
+It's not about getting
+more customers, et cetera.
+
+
+1019
+0:42:38,65 --> 0:42:41,274
+BOB SUTTON: I think you answered
+your own question brilliantly.
+
+
+1020
+0:42:41,274 --> 0:42:43,424
+And the way that we
+say this, and it's
+
+
+1021
+0:42:43,424 --> 0:42:45,59
+one of those things that
+is so obvious, it's stupid.
+
+
+1022
+0:42:45,59 --> 0:42:48,52
+But companies
+sometimes forget it.
+
+
+1023
+0:42:48,52 --> 0:42:50,2
+Which is to spread
+excellence, you
+
+
+1024
+0:42:50,2 --> 0:42:52,2
+have to have
+excellence to spread.
+
+
+1025
+0:42:52,2 --> 0:42:54,81
+And so you've got
+to stop-- and that's
+
+
+1026
+0:42:54,81 --> 0:42:58,2
+why to quote Huggy--
+it's a ground war,
+
+
+1027
+0:42:58,2 --> 0:42:58,94
+it's not an air war.
+
+
+1028
+0:42:58,94 --> 0:43:0,944
+When you have real
+excellence, you actually
+
+
+1029
+0:43:0,944 --> 0:43:2,36
+create that little
+pocket in them.
+
+
+1030
+0:43:2,36 --> 0:43:3,735
+And especially if
+you have money.
+
+
+1031
+0:43:3,735 --> 0:43:5,76
+Money's dangerous.
+
+
+1032
+0:43:5,76 --> 0:43:6,742
+And I think you're
+Waze example is great
+
+
+1033
+0:43:6,742 --> 0:43:7,825
+because it's a temptation.
+
+
+1034
+0:43:7,825 --> 0:43:10,32
+Let's build it out and hire
+a huge sales organization
+
+
+1035
+0:43:10,32 --> 0:43:11,51
+before we have something
+that we're selling
+
+
+1036
+0:43:11,51 --> 0:43:12,92
+is a classic thing
+that's happening
+
+
+1037
+0:43:12,92 --> 0:43:15,211
+in many of our over funded
+startups in the Valley right
+
+
+1038
+0:43:15,211 --> 0:43:15,76
+now.
+
+
+1039
+0:43:15,76 --> 0:43:17,98
+And that's one advantage
+that Larry and Sergey took
+
+
+1040
+0:43:17,98 --> 0:43:19,7
+a long time for
+them to sell Google,
+
+
+1041
+0:43:19,7 --> 0:43:22,85
+so they actually had to work on
+making the thing even better.
+
+
+1042
+0:43:22,85 --> 0:43:26,1
+And just to give you an example,
+in the IT rollout space.
+
+
+1043
+0:43:26,1 --> 0:43:28,0
+One of my favorite
+cases in the book,
+
+
+1044
+0:43:28,0 --> 0:43:31,91
+at the end of chapter
+two, is a great rollout
+
+
+1045
+0:43:31,91 --> 0:43:36,23
+of medical care,
+electronic medical care
+
+
+1046
+0:43:36,23 --> 0:43:37,59
+records at Kaiser Permanente.
+
+
+1047
+0:43:37,59 --> 0:43:40,73
+And the way they did it, this
+woman named Louise Lang led it.
+
+
+1048
+0:43:40,73 --> 0:43:44,846
+It was about six or seven year
+process, cost about $5 billion.
+
+
+1049
+0:43:44,846 --> 0:43:46,47
+Kaiser's the biggest
+health care system
+
+
+1050
+0:43:46,47 --> 0:43:48,5
+in the country, private
+health care system.
+
+
+1051
+0:43:48,5 --> 0:43:51,45
+They got it working perfectly in
+the smallest region in Hawaii.
+
+
+1052
+0:43:51,45 --> 0:43:53,822
+They got it just, worked
+and worked and worked.
+
+
+1053
+0:43:53,822 --> 0:43:55,28
+And once that
+started working, then
+
+
+1054
+0:43:55,28 --> 0:43:57,7
+they went to the next
+region, once it was working,
+
+
+1055
+0:43:57,7 --> 0:43:58,2
+went to the next one.
+
+
+1056
+0:43:58,2 --> 0:44:0,66
+So they didn't spread that
+thin coat of whatever.
+
+
+1057
+0:44:0,66 --> 0:44:3,89
+They got it humming, and then
+they spread that excellence.
+
+
+1058
+0:44:3,89 --> 0:44:6,821
+So your example in the startup,
+I think, is exactly right.
+
+
+1059
+0:44:6,821 --> 0:44:9,7
+And that's one reason that--
+probably most people know
+
+
+1060
+0:44:9,7 --> 0:44:11,49
+this evidence-- there's a lot
+of evidence of startups that
+
+
+1061
+0:44:11,49 --> 0:44:17,56
+are started in downturns are
+more likely to survive and grow
+
+
+1062
+0:44:17,56 --> 0:44:19,811
+into larger companies than
+upturns because they-- well
+
+
+1063
+0:44:19,811 --> 0:44:22,268
+first of all, don't have too
+much money, and second of all,
+
+
+1064
+0:44:22,268 --> 0:44:24,2
+they have to take time
+to do stuff right.
+
+
+1065
+0:44:24,2 --> 0:44:27,66
+And I remember when we
+interviewed Larry Page in 2002,
+
+
+1066
+0:44:27,66 --> 0:44:31,6
+I could not figure out whether
+he was the last dot.com person
+
+
+1067
+0:44:31,6 --> 0:44:33,937
+standing, or actually,
+he was on to something.
+
+
+1068
+0:44:33,937 --> 0:44:36,2
+Because all the other
+companies seemed to be dead.
+
+
+1069
+0:44:36,2 --> 0:44:38,642
+And then there was
+this guy, Larry Page,
+
+
+1070
+0:44:38,642 --> 0:44:40,85
+who claimed that he was
+going to grow a huge company.
+
+
+1071
+0:44:40,85 --> 0:44:42,84
+And I guess he was right.
+
+
+1072
+0:44:42,84 --> 0:44:45,55
+So I think you've got it, man.
+
+
+1073
+0:44:45,55 --> 0:44:46,93
+AUDIENCE: So I guess
+the core of my question,
+
+
+1074
+0:44:46,93 --> 0:44:48,88
+and based on your
+experience, and maybe it
+
+
+1075
+0:44:48,88 --> 0:44:51,28
+might be your next book
+which is, how do you
+
+
+1076
+0:44:51,28 --> 0:44:53,415
+infuse excellence
+in the first place?
+
+
+1077
+0:44:53,415 --> 0:44:54,4
+BOB SUTTON: OK.
+
+
+1078
+0:44:54,4 --> 0:44:54,956
+Huggy you answer that.
+
+
+1079
+0:44:54,956 --> 0:44:55,814
+That's too hard.
+
+
+1080
+0:44:55,814 --> 0:44:57,23
+Huggy gets all the
+hard questions.
+
+
+1081
+0:44:57,23 --> 0:44:58,63
+He's the smart one--
+
+
+1082
+0:44:58,63 --> 0:44:58,987
+HUGGY RAO: I think--
+
+
+1083
+0:44:58,987 --> 0:44:59,82
+BOB SUTTON: --He is.
+
+
+1084
+0:44:59,82 --> 0:45:2,21
+If there was an IQ test right
+now, [INAUDIBLE] happen.
+
+
+1085
+0:45:2,21 --> 0:45:5,62
+HUGGY RAO: So this
+actually dovetails
+
+
+1086
+0:45:5,62 --> 0:45:8,61
+quite nicely with one of
+the core beliefs at Google
+
+
+1087
+0:45:8,61 --> 0:45:11,59
+and really your own
+experience here.
+
+
+1088
+0:45:11,59 --> 0:45:14,15
+I think the heart of
+infusing excellence
+
+
+1089
+0:45:14,15 --> 0:45:17,57
+is really how you hire people.
+
+
+1090
+0:45:17,57 --> 0:45:20,3
+That's one part.
+
+
+1091
+0:45:20,3 --> 0:45:23,12
+And real excellence
+also means, how do you
+
+
+1092
+0:45:23,12 --> 0:45:27,84
+get extraordinary performance
+out of ordinary individuals?
+
+
+1093
+0:45:27,84 --> 0:45:29,98
+So hiring talent
+doesn't sort of mean,
+
+
+1094
+0:45:29,98 --> 0:45:33,6
+well we're actually going
+to get the very best people.
+
+
+1095
+0:45:33,6 --> 0:45:35,49
+And we're going to pay a
+whole lot and so forth.
+
+
+1096
+0:45:35,49 --> 0:45:37,84
+You can actually get
+amazing performance
+
+
+1097
+0:45:37,84 --> 0:45:39,88
+from ordinary individuals.
+
+
+1098
+0:45:39,88 --> 0:45:43,2
+And here, changing
+the context matters.
+
+
+1099
+0:45:43,2 --> 0:45:44,99
+One of the cases
+that we talk about,
+
+
+1100
+0:45:44,99 --> 0:45:48,2
+which was actually written by a
+colleague of ours at Stanford,
+
+
+1101
+0:45:48,2 --> 0:45:51,4
+is about a company called
+Tomago-ya in Japan.
+
+
+1102
+0:45:51,4 --> 0:45:56,6
+And what Tomago-ya does is
+they deliver lunch to offices,
+
+
+1103
+0:45:56,6 --> 0:45:59,3
+$3.60 per lunch.
+
+
+1104
+0:45:59,3 --> 0:46:2,36
+And it's a little Bento box.
+
+
+1105
+0:46:2,36 --> 0:46:4,63
+So every day you can
+order the lunch you want.
+
+
+1106
+0:46:4,63 --> 0:46:7,8
+The last order is at 10 o'clock.
+
+
+1107
+0:46:7,8 --> 0:46:9,9
+And you've got to
+deliver the lunch by 12.
+
+
+1108
+0:46:9,9 --> 0:46:12,51
+The amazing thing is, their
+factory is more than 2.5 hours
+
+
+1109
+0:46:12,51 --> 0:46:15,83
+away from the business
+district of Tokyo, Shinjuku,
+
+
+1110
+0:46:15,83 --> 0:46:17,53
+but you've got to
+deliver the lunch.
+
+
+1111
+0:46:17,53 --> 0:46:20,98
+So the problem is, how do you
+actually wait until 10 o'clock
+
+
+1112
+0:46:20,98 --> 0:46:22,53
+and deliver the lunch?
+
+
+1113
+0:46:22,53 --> 0:46:26,6
+And every day they
+serve 70,000 lunches.
+
+
+1114
+0:46:26,6 --> 0:46:30,27
+And the average
+waste, if you will,
+
+
+1115
+0:46:30,27 --> 0:46:33,91
+the underage, or in
+their case, the overage,
+
+
+1116
+0:46:33,91 --> 0:46:38,63
+is that on 46 lunches,
+which translates to 0.06.
+
+
+1117
+0:46:38,63 --> 0:46:41,94
+My colleague, who wrote
+the case, asked the CEO.
+
+
+1118
+0:46:41,94 --> 0:46:42,26
+He says, how do you do that?
+
+
+1119
+0:46:42,26 --> 0:46:44,89
+Do you guys have very
+sophisticated algorithms,
+
+
+1120
+0:46:44,89 --> 0:46:47,85
+where you can process
+orders, route trucks.
+
+
+1121
+0:46:47,85 --> 0:46:49,14
+He says no.
+
+
+1122
+0:46:49,14 --> 0:46:50,44
+How do you do that?
+
+
+1123
+0:46:50,44 --> 0:46:53,42
+And he says, well, we
+make sure our trucks leave
+
+
+1124
+0:46:53,42 --> 0:46:55,94
+before the first order comes.
+
+
+1125
+0:46:55,94 --> 0:46:57,78
+And the guy says,
+how can you do that?
+
+
+1126
+0:46:57,78 --> 0:47:0,79
+How can you get trucks to
+leave your facility at 8:00
+
+
+1127
+0:47:0,79 --> 0:47:4,6
+in the morning to the farthest
+the [INAUDIBLE] customers
+
+
+1128
+0:47:4,6 --> 0:47:6,58
+even before you got the orders?
+
+
+1129
+0:47:6,58 --> 0:47:10,2
+And the guy says, the key
+people are our van drivers,
+
+
+1130
+0:47:10,2 --> 0:47:11,83
+who deliver the lunches.
+
+
+1131
+0:47:11,83 --> 0:47:13,93
+They can actually
+pick the customer.
+
+
+1132
+0:47:13,93 --> 0:47:17,51
+And once the lunch is over,
+these are reusable Bento boxes.
+
+
+1133
+0:47:17,51 --> 0:47:20,47
+You can go and pick the
+Bento box up, talk to people,
+
+
+1134
+0:47:20,47 --> 0:47:23,46
+and quickly find out what the
+nature of demand the next day
+
+
+1135
+0:47:23,46 --> 0:47:24,0
+is.
+
+
+1136
+0:47:24,0 --> 0:47:26,1
+And in the evening,
+they tell their boss.
+
+
+1137
+0:47:26,1 --> 0:47:29,87
+By the way, a small
+district actually
+
+
+1138
+0:47:29,87 --> 0:47:32,63
+is managed by one of
+these area managers.
+
+
+1139
+0:47:32,63 --> 0:47:34,59
+And then you'll
+funnel it upwards,
+
+
+1140
+0:47:34,59 --> 0:47:36,45
+and that's really what it is.
+
+
+1141
+0:47:36,45 --> 0:47:39,18
+And my colleague said,
+now, who designed this?
+
+
+1142
+0:47:39,18 --> 0:47:42,72
+And the founder said, you
+know, me and the truck drivers.
+
+
+1143
+0:47:42,72 --> 0:47:44,73
+And he said, who are
+the truck drivers?
+
+
+1144
+0:47:44,73 --> 0:47:46,55
+And this is the
+striking part, they
+
+
+1145
+0:47:46,55 --> 0:47:50,4
+are all people who are
+high school dropouts.
+
+
+1146
+0:47:50,4 --> 0:47:51,9
+Now, it's true that
+there are bonuses
+
+
+1147
+0:47:51,9 --> 0:47:53,56
+that link to any weigh stage.
+
+
+1148
+0:47:53,56 --> 0:47:56,8
+But the point is,
+it's not just that.
+
+
+1149
+0:47:56,8 --> 0:47:58,77
+You've given them
+a second chance.
+
+
+1150
+0:47:58,77 --> 0:48:1,19
+And you are really getting
+extraordinary performance
+
+
+1151
+0:48:1,19 --> 0:48:5,81
+out of people who could arguably
+be labeled C or B, or whatever.
+
+
+1152
+0:48:5,81 --> 0:48:9,939
+So very important to
+keep that in mind.
+
+
+1153
+0:48:9,939 --> 0:48:11,73
+AUDIENCE: I'll make it
+a little bit harder.
+
+
+1154
+0:48:11,73 --> 0:48:17,74
+So you go into a startup,
+small team, one star.
+
+
+1155
+0:48:17,74 --> 0:48:20,36
+
+
+
+1156
+0:48:20,36 --> 0:48:24,45
+Most of the others are B's
+and a few, let's call, F's.
+
+
+1157
+0:48:24,45 --> 0:48:28,1
+And you start getting rid of
+the F's because it's just not
+
+
+1158
+0:48:28,1 --> 0:48:29,0
+working.
+
+
+1159
+0:48:29,0 --> 0:48:31,12
+And then you end up
+with a smaller team,
+
+
+1160
+0:48:31,12 --> 0:48:32,95
+with the VCs shouting at you.
+
+
+1161
+0:48:32,95 --> 0:48:36,88
+And you're running out of
+money, product's not performing.
+
+
+1162
+0:48:36,88 --> 0:48:41,58
+The excellence, the culture of
+the company is just struggling.
+
+
+1163
+0:48:41,58 --> 0:48:46,44
+And all of the elements
+are against you,
+
+
+1164
+0:48:46,44 --> 0:48:48,0
+as any other startup.
+
+
+1165
+0:48:48,0 --> 0:48:50,63
+And then to infuse a
+culture of excellence
+
+
+1166
+0:48:50,63 --> 0:48:55,73
+into a place that got used to
+being sub-mediocre performance
+
+
+1167
+0:48:55,73 --> 0:48:58,82
+is something I really
+struggled with personally
+
+
+1168
+0:48:58,82 --> 0:48:59,9
+in a previous life.
+
+
+1169
+0:48:59,9 --> 0:49:3,38
+And I want to just see
+what is your take on how
+
+
+1170
+0:49:3,38 --> 0:49:5,537
+that could that be handled.
+
+
+1171
+0:49:5,537 --> 0:49:7,37
+HUGGY RAO: I can certainly
+feel your pain is
+
+
+1172
+0:49:7,37 --> 0:49:8,53
+one thing I can say.
+
+
+1173
+0:49:8,53 --> 0:49:10,21
+I'm being mischievous here.
+
+
+1174
+0:49:10,21 --> 0:49:14,0
+But in the hypothetical example,
+or the reconstructed example
+
+
+1175
+0:49:14,0 --> 0:49:17,36
+out of your experience that
+you gave, you've got one star,
+
+
+1176
+0:49:17,36 --> 0:49:21,86
+you've taken out
+the F's, I assume.
+
+
+1177
+0:49:21,86 --> 0:49:25,342
+And you've got the B people
+as it were, so to speak.
+
+
+1178
+0:49:25,342 --> 0:49:26,8
+And one of the
+things we talk about
+
+
+1179
+0:49:26,8 --> 0:49:31,19
+is, scaling isn't just
+about stars, it's actually
+
+
+1180
+0:49:31,19 --> 0:49:33,37
+about your sherpas, too.
+
+
+1181
+0:49:33,37 --> 0:49:35,74
+I mean think of how you
+get to the top of Everest.
+
+
+1182
+0:49:35,74 --> 0:49:37,344
+Three people get
+there, that's true.
+
+
+1183
+0:49:37,344 --> 0:49:39,1
+But there's a lot of
+people who actually
+
+
+1184
+0:49:39,1 --> 0:49:40,88
+do all the heavy lifting
+to help you get there.
+
+
+1185
+0:49:40,88 --> 0:49:41,85
+BOB SUTTON: The
+Sherpas are the stars,
+
+
+1186
+0:49:41,85 --> 0:49:43,558
+and the other people
+just pay them money.
+
+
+1187
+0:49:43,558 --> 0:49:46,4
+So [INAUDIBLE] the question
+where the stars is.
+
+
+1188
+0:49:46,4 --> 0:49:49,31
+HUGGY RAO: So the real challenge
+is, how do you actually
+
+
+1189
+0:49:49,31 --> 0:49:53,12
+get great performance out of
+people who are at the B level?
+
+
+1190
+0:49:53,12 --> 0:49:55,4
+And one simple place to start.
+
+
+1191
+0:49:55,4 --> 0:49:59,1
+It's by no means a
+sure fire bullet is,
+
+
+1192
+0:49:59,1 --> 0:50:3,45
+if you look at the evidence,
+B-level players respond
+
+
+1193
+0:50:3,45 --> 0:50:9,2
+way more positively to
+gifts that are actually
+
+
+1194
+0:50:9,2 --> 0:50:11,17
+given to them.
+
+
+1195
+0:50:11,17 --> 0:50:13,68
+So when I say gifts, I'm
+not saying buying them off
+
+
+1196
+0:50:13,68 --> 0:50:16,99
+with money, doing something
+for them that's a surprise
+
+
+1197
+0:50:16,99 --> 0:50:19,26
+that they actually value.
+
+
+1198
+0:50:19,26 --> 0:50:21,83
+And the reason is, if
+you have B-level player,
+
+
+1199
+0:50:21,83 --> 0:50:24,77
+you look around in the
+market, and you sort of say,
+
+
+1200
+0:50:24,77 --> 0:50:26,7
+I'm looking around,
+I can't get a job
+
+
+1201
+0:50:26,7 --> 0:50:28,37
+like I have in this company.
+
+
+1202
+0:50:28,37 --> 0:50:31,8
+Here's a company that's
+done something nice for me.
+
+
+1203
+0:50:31,8 --> 0:50:33,9
+And it could be as simple
+a thing as something
+
+
+1204
+0:50:33,9 --> 0:50:36,16
+for their child or
+spouse or whatever
+
+
+1205
+0:50:36,16 --> 0:50:38,94
+the specific
+instantiation is, they're
+
+
+1206
+0:50:38,94 --> 0:50:41,4
+actually going to
+give you 10x back.
+
+
+1207
+0:50:41,4 --> 0:50:45,1
+If I'm an A-level player,
+you do something nice for me,
+
+
+1208
+0:50:45,1 --> 0:50:47,64
+I'm also going to scan
+the talent market,
+
+
+1209
+0:50:47,64 --> 0:50:49,92
+and simply say, well
+he did it because hey,
+
+
+1210
+0:50:49,92 --> 0:50:51,72
+that's the price at attention.
+
+
+1211
+0:50:51,72 --> 0:50:53,78
+Otherwise, I'm going
+to go someplace else.
+
+
+1212
+0:50:53,78 --> 0:50:56,93
+So you actually have
+very asymmetric responses
+
+
+1213
+0:50:56,93 --> 0:50:58,15
+to gift-giving.
+
+
+1214
+0:50:58,15 --> 0:51:0,23
+And what you really
+need to understand
+
+
+1215
+0:51:0,23 --> 0:51:2,47
+is, what's the gift
+that makes the most
+
+
+1216
+0:51:2,47 --> 0:51:5,0
+sense for your B-level players?
+
+
+1217
+0:51:5,0 --> 0:51:7,34
+And that, I don't have line
+of sight to give you more--
+
+
+1218
+0:51:7,34 --> 0:51:10,4
+BOB SUTTON: I'm going to say
+something more cynical which
+
+
+1219
+0:51:10,4 --> 0:51:13,99
+is, we hear about the--
+including this one we're
+
+
+1220
+0:51:13,99 --> 0:51:16,1
+sitting in now-- the
+startups that all make it.
+
+
+1221
+0:51:16,1 --> 0:51:17,15
+Most of them die.
+
+
+1222
+0:51:17,15 --> 0:51:18,69
+Most of them deserve to die.
+
+
+1223
+0:51:18,69 --> 0:51:21,35
+And a lot of the
+entrepreneurial game, I'm sorry,
+
+
+1224
+0:51:21,35 --> 0:51:23,11
+it's just knowing when
+to shoot the thing.
+
+
+1225
+0:51:23,11 --> 0:51:26,77
+And venture capitalists,
+especially the good ones,
+
+
+1226
+0:51:26,77 --> 0:51:28,46
+are really good at that.
+
+
+1227
+0:51:28,46 --> 0:51:31,35
+And I don't want to
+damn your startup.
+
+
+1228
+0:51:31,35 --> 0:51:35,36
+But the typical startup
+in Silicon Valley dies.
+
+
+1229
+0:51:35,36 --> 0:51:36,62
+And it should die.
+
+
+1230
+0:51:36,62 --> 0:51:39,79
+So in the thing to do
+is to take that A-player
+
+
+1231
+0:51:39,79 --> 0:51:43,65
+and maybe reform with another
+set A-players and to go again.
+
+
+1232
+0:51:43,65 --> 0:51:46,49
+Because the great thing about
+startups is, failure's cheap.
+
+
+1233
+0:51:46,49 --> 0:51:50,39
+And most of you who start
+firms in Silicon Valley-- this
+
+
+1234
+0:51:50,39 --> 0:51:52,17
+is not Detroit-- you
+can get another job.
+
+
+1235
+0:51:52,17 --> 0:51:53,63
+Most of you are quite talented.
+
+
+1236
+0:51:53,63 --> 0:51:56,95
+So my view of startups is, if
+things are really screwed up,
+
+
+1237
+0:51:56,95 --> 0:51:59,93
+well that's what
+pulling the plug is for.
+
+
+1238
+0:51:59,93 --> 0:52:1,87
+And quitting is good.
+
+
+1239
+0:52:1,87 --> 0:52:3,43
+Never quit-- that's bullshit.
+
+
+1240
+0:52:3,43 --> 0:52:6,55
+HUGGY RAO: And
+certainly, you don't
+
+
+1241
+0:52:6,55 --> 0:52:9,92
+want to escalate commitment to a
+losing course of action either.
+
+
+1242
+0:52:9,92 --> 0:52:12,94
+BOB SUTTON: That's
+what I was saying.
+
+
+1243
+0:52:12,94 --> 0:52:14,825
+More fancy language.
+
+
+1244
+0:52:14,825 --> 0:52:16,95
+HUGGY RAO: This is the
+conversation Bob and I have.
+
+
+1245
+0:52:16,95 --> 0:52:18,824
+But usually over
+a lot of wine so.
+
+
+1246
+0:52:18,824 --> 0:52:21,24
+MALE SPEAKER: So having said
+all that, you aren't advising
+
+
+1247
+0:52:21,24 --> 0:52:22,573
+people to go to startups, right?
+
+
+1248
+0:52:22,573 --> 0:52:23,222
+[LAUGHTER]
+
+
+1249
+0:52:23,222 --> 0:52:26,4
+BOB SUTTON: No, no.
+
+
+1250
+0:52:26,4 --> 0:52:27,394
+You all know the odds.
+
+
+1251
+0:52:27,394 --> 0:52:28,31
+You all know the game.
+
+
+1252
+0:52:28,31 --> 0:52:29,86
+So it's just the way it works.
+
+
+1253
+0:52:29,86 --> 0:52:32,21
+So you go there, and Google
+buys you or they come back,
+
+
+1254
+0:52:32,21 --> 0:52:34,1
+you come back as an
+employee after it died.
+
+
+1255
+0:52:34,1 --> 0:52:35,44
+Either way, it's OK.
+
+
+1256
+0:52:35,44 --> 0:52:38,1
+MALE SPEAKER: So do we have time
+for a question or two, Cliff,
+
+
+1257
+0:52:38,1 --> 0:52:39,18
+or are we set?
+
+
+1258
+0:52:39,18 --> 0:52:40,61
+CLIFF: Yes, a final question.
+
+
+1259
+0:52:40,61 --> 0:52:43,11
+MALE SPEAKER: Any other audience
+question for Bob and Huggy?
+
+
+1260
+0:52:43,11 --> 0:52:47,16
+
+
+
+1261
+0:52:47,16 --> 0:52:49,61
+I had one more, which
+doesn't have anything
+
+
+1262
+0:52:49,61 --> 0:52:51,35
+to do with the book itself.
+
+
+1263
+0:52:51,35 --> 0:52:53,87
+Obviously, both of you
+teach at the business school
+
+
+1264
+0:52:53,87 --> 0:52:55,29
+at Standford.
+
+
+1265
+0:52:55,29 --> 0:52:57,8
+And many Googlers are
+interested in going
+
+
+1266
+0:52:57,8 --> 0:53:0,3
+to business school
+getting their MBAs, right?
+
+
+1267
+0:53:0,3 --> 0:53:6,7
+So what's the advice that
+you'd give to a Googler who's
+
+
+1268
+0:53:6,7 --> 0:53:8,62
+considering business
+school, who has
+
+
+1269
+0:53:8,62 --> 0:53:10,66
+other things that they could do?
+
+
+1270
+0:53:10,66 --> 0:53:13,32
+And this is a question that
+we and the people up scheme
+
+
+1271
+0:53:13,32 --> 0:53:15,2
+get asked all the time.
+
+
+1272
+0:53:15,2 --> 0:53:18,26
+So since we have you, we can
+ask the same question of you.
+
+
+1273
+0:53:18,26 --> 0:53:20,58
+And by the way, don't
+make it too compelling
+
+
+1274
+0:53:20,58 --> 0:53:22,73
+because we want these
+people to stay here.
+
+
+1275
+0:53:22,73 --> 0:53:25,386
+HUGGY RAO: So Bob why
+don't you actually be--
+
+
+1276
+0:53:25,386 --> 0:53:27,76
+BOB SUTTON: I don't teach in
+a business school, remember.
+
+
+1277
+0:53:27,76 --> 0:53:29,67
+I'm an engineering
+professor, so therefore, I
+
+
+1278
+0:53:29,67 --> 0:53:31,42
+am free to be cynical.
+
+
+1279
+0:53:31,42 --> 0:53:33,78
+Our friend Jeff
+Pfeffer would tell you
+
+
+1280
+0:53:33,78 --> 0:53:37,4
+that, if you're interested
+actually in lifetime income,
+
+
+1281
+0:53:37,4 --> 0:53:40,269
+that you should only go to a top
+eight-- in addition to the fact
+
+
+1282
+0:53:40,269 --> 0:53:42,81
+that it's a great vacation, and
+all sorts of wonderful things
+
+
+1283
+0:53:42,81 --> 0:53:44,55
+happen in business school.
+
+
+1284
+0:53:44,55 --> 0:53:48,251
+But you should only go to a top
+eight or ten business school.
+
+
+1285
+0:53:48,251 --> 0:53:49,626
+Because other than
+that it's just
+
+
+1286
+0:53:49,626 --> 0:53:50,83
+going to take two
+years of your life
+
+
+1287
+0:53:50,83 --> 0:53:52,72
+and lower your lifetime income,
+and there's very good evidence
+
+
+1288
+0:53:52,72 --> 0:53:53,85
+to support this.
+
+
+1289
+0:53:53,85 --> 0:53:57,704
+So I want to play the,
+sort of, Jeff Pfeffer card.
+
+
+1290
+0:53:57,704 --> 0:53:59,87
+But one thing I will say
+about the Stanford Business
+
+
+1291
+0:53:59,87 --> 0:54:2,64
+School, where I don't
+teach, because I'm
+
+
+1292
+0:54:2,64 --> 0:54:6,31
+a tenured engineering professor,
+is that-- as my understanding--
+
+
+1293
+0:54:6,31 --> 0:54:7,847
+is that if you go
+to Stanford, it's
+
+
+1294
+0:54:7,847 --> 0:54:9,43
+actually a really
+good financial deal.
+
+
+1295
+0:54:9,43 --> 0:54:12,7
+That on average, you're going
+to come out ahead financially.
+
+
+1296
+0:54:12,7 --> 0:54:14,836
+And culturally, that's
+sort of up to you.
+
+
+1297
+0:54:14,836 --> 0:54:16,71
+The final thing I would
+say though, since I'm
+
+
+1298
+0:54:16,71 --> 0:54:18,71
+from an engineering school
+and I'm not engineer,
+
+
+1299
+0:54:18,71 --> 0:54:20,53
+is we all know that
+the characteristic
+
+
+1300
+0:54:20,53 --> 0:54:23,9
+of the current boom is
+it's much, much less
+
+
+1301
+0:54:23,9 --> 0:54:27,296
+MBA-centric, and
+much, much-- you
+
+
+1302
+0:54:27,296 --> 0:54:28,87
+know this much
+better than I do--
+
+
+1303
+0:54:28,87 --> 0:54:31,31
+and much, much more
+engineering-centric.
+
+
+1304
+0:54:31,31 --> 0:54:33,66
+So it's the engineers'
+days, and we're
+
+
+1305
+0:54:33,66 --> 0:54:35,227
+winning, even on an engineer.
+
+
+1306
+0:54:35,227 --> 0:54:37,91
+HUGGY RAO: So one other
+thing to keep in mind
+
+
+1307
+0:54:37,91 --> 0:54:43,2
+is, business schools are
+changing dramatically too,
+
+
+1308
+0:54:43,2 --> 0:54:46,2
+so you don't think of the
+MBA as a standalone degree.
+
+
+1309
+0:54:46,2 --> 0:54:48,96
+In fact, we have a number of
+programs where you actually
+
+
+1310
+0:54:48,96 --> 0:54:51,12
+have an MBA, you can
+also get a masters
+
+
+1311
+0:54:51,12 --> 0:54:53,17
+in computer science and
+electrical engineering,
+
+
+1312
+0:54:53,17 --> 0:54:56,17
+just to name a few.
+
+
+1313
+0:54:56,17 --> 0:54:59,9
+So there are lots of
+options and combinations.
+
+
+1314
+0:54:59,9 --> 0:55:2,24
+Our experience certainly at
+the Stanford Business School
+
+
+1315
+0:55:2,24 --> 0:55:6,11
+is, pretty much, the kinds
+of people who actually come,
+
+
+1316
+0:55:6,11 --> 0:55:10,45
+they're overwhelmingly tilted
+towards a startup option.
+
+
+1317
+0:55:10,45 --> 0:55:14,23
+By the end of year one, they've
+already figured out an idea.
+
+
+1318
+0:55:14,23 --> 0:55:15,41
+They're working.
+
+
+1319
+0:55:15,41 --> 0:55:17,2
+They're trying to do things.
+
+
+1320
+0:55:17,2 --> 0:55:19,62
+And as a matter of fact,
+right before I came here,
+
+
+1321
+0:55:19,62 --> 0:55:23,74
+I was actually teaching a course
+along with a finance professor
+
+
+1322
+0:55:23,74 --> 0:55:26,725
+and a marketing professor,
+a course called "From Launch
+
+
+1323
+0:55:26,725 --> 0:55:28,14
+to Liquidity."
+
+
+1324
+0:55:28,14 --> 0:55:30,58
+Once you start a venture,
+how do you actually
+
+
+1325
+0:55:30,58 --> 0:55:31,93
+think of your exit?
+
+
+1326
+0:55:31,93 --> 0:55:34,37
+And I can certainly
+tell you, our students
+
+
+1327
+0:55:34,37 --> 0:55:36,87
+believe in very liquid futures.
+
+
+1328
+0:55:36,87 --> 0:55:38,67
+or at least, they kind
+of anticipate that.
+
+
+1329
+0:55:38,67 --> 0:55:39,69
+BOB SUTTON: See,
+I don't even know
+
+
+1330
+0:55:39,69 --> 0:55:41,41
+how he was teaching this,
+since I'm very focused.
+
+
+1331
+0:55:41,41 --> 0:55:43,784
+The course we teach in the
+engineering school, especially
+
+
+1332
+0:55:43,784 --> 0:55:45,71
+the design school, we
+wouldn't talk about it.
+
+
+1333
+0:55:45,71 --> 0:55:47,25
+We have a class
+called "Launch Pad."
+
+
+1334
+0:55:47,25 --> 0:55:49,5
+We put you in it, and
+you'd start your company.
+
+
+1335
+0:55:49,5 --> 0:55:51,25
+And so there's a class
+called "Launch Pad"
+
+
+1336
+0:55:51,25 --> 0:55:52,54
+taught by Michael
+Dearing and Perry
+
+
+1337
+0:55:52,54 --> 0:55:54,49
+Klebahn, both who are
+successful entrepreneurs
+
+
+1338
+0:55:54,49 --> 0:55:55,41
+in their own right.
+
+
+1339
+0:55:55,41 --> 0:55:58,152
+Although Michael did fail
+in a big shoe operation.
+
+
+1340
+0:55:58,152 --> 0:55:59,86
+If you don't have a
+product by week four,
+
+
+1341
+0:55:59,86 --> 0:56:1,45
+you're supposed
+to be thrown out.
+
+
+1342
+0:56:1,45 --> 0:56:2,332
+So little--
+
+
+1343
+0:56:2,332 --> 0:56:3,79
+HUGGY RAO: A number
+of our students
+
+
+1344
+0:56:3,79 --> 0:56:5,1
+actually do take that course--
+
+
+1345
+0:56:5,1 --> 0:56:6,46
+BOB SUTTON: You can take that
+as well in the business school.
+
+
+1346
+0:56:6,46 --> 0:56:9,82
+HUGGY RAO: So you have the
+whole, sort of, university.
+
+
+1347
+0:56:9,82 --> 0:56:11,11
+But just to give underscore.
+
+
+1348
+0:56:11,11 --> 0:56:15,65
+Bob's point about how
+attractive this is as an option.
+
+
+1349
+0:56:15,65 --> 0:56:17,852
+Once when I was
+teaching a class,
+
+
+1350
+0:56:17,852 --> 0:56:21,7
+there was a young lady who
+got up and told everybody
+
+
+1351
+0:56:21,7 --> 0:56:23,222
+in the class, hey, I
+have a proposal for you.
+
+
+1352
+0:56:23,222 --> 0:56:24,93
+And she looked at me
+and said, professor,
+
+
+1353
+0:56:24,93 --> 0:56:26,5
+can I make the proposal?
+
+
+1354
+0:56:26,5 --> 0:56:26,98
+I said, sure.
+
+
+1355
+0:56:26,98 --> 0:56:29,82
+She looked at 80 kids
+in the class and said,
+
+
+1356
+0:56:29,82 --> 0:56:33,87
+I'm actually going to give
+you $250,000 right now.
+
+
+1357
+0:56:33,87 --> 0:56:38,78
+In return, I want 2% of
+your lifetime earnings.
+
+
+1358
+0:56:38,78 --> 0:56:42,32
+what do you think was the
+response of those 80 people?
+
+
+1359
+0:56:42,32 --> 0:56:44,93
+Mull over that,
+and that's where we
+
+
+1360
+0:56:44,93 --> 0:56:47,88
+ought to appropriately
+close on a puzzle.
+
+
+1361
+0:56:47,88 --> 0:56:49,63
+BOB SUTTON: That's
+like a Google interview
+
+
+1362
+0:56:49,63 --> 0:56:51,25
+question, the old ones.
+
+
+1363
+0:56:51,25 --> 0:56:52,25
+MALE SPEAKER: Thank you.
+
+
+1364
+0:56:52,25 --> 0:56:54,39
+Thank you Bob and Huggy
+for coming over and sharing
+
+
+1365
+0:56:54,39 --> 0:56:56,6
+all of your insights on scaling.
+
+
+1366
+0:56:56,6 --> 0:56:58,747
+Again, the book is called
+"Scaling Up Excellence."
+
+
+1367
+0:56:58,747 --> 0:57:0,33
+BOB SUTTON: Thanks
+for your questions.
+
+
+1368
+0:57:0,33 --> 0:57:1,49
+MALE SPEAKER: Yeah,
+thank you for questions,
+
+
+1369
+0:57:1,49 --> 0:57:4,23
+and we have copies of the
+book in the back, as well.
+
+
+1370
+0:57:4,23 --> 0:57:7,434
+So, with that, lets give a
+warm round to Bob and Huggy.
+
+
+1371
+0:57:7,434 --> 0:57:8,35
+BOB SUTTON: Thank you.
+
+
+1372
+0:57:8,35 --> 0:57:9,641
+HUGGY RAO: Thank you very much.
+
+
+1373
+0:57:9,641 --> 0:59:9,641
+[MUSIC PLAYING]
+
+

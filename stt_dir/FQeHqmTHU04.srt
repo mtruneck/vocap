@@ -1,0 +1,777 @@
+1
+0:0:1,52 --> 0:0:4,39
+CARL AZUZ, CNN ANCHOR: You`ve got one day
+before the U.S. chooses its leader for the
+
+
+2
+0:0:4,39 --> 0:0:8,91
+next four years. You`ve got one hour of extra
+sleep thanks to a time switch, and we`ve got
+
+
+3
+0:0:8,91 --> 0:0:13,9
+one show that will bring you coverage of both
+events in the next ten minutes. Welcome to
+
+
+4
+0:0:13,9 --> 0:0:15,39
+CNN STUDENT NEWS.
+
+
+5
+0:0:15,39 --> 0:0:18,56
+(BEGIN VIDEO CLIP)
+
+
+6
+0:0:18,56 --> 0:0:30,789
+BARACK OBAMA, PRESIDENT OF THE UNITED STATES
+OF AMERICA: After four years as president,
+
+
+7
+0:0:30,789 --> 0:0:31,67
+you know me.
+
+
+8
+0:0:31,67 --> 0:0:32,5
+AUDIENCE: Yes!
+
+
+9
+0:0:32,5 --> 0:0:37,41
+OBAMA: You may not agree with every decision
+I`ve made, you may at times have been frustrated
+
+
+10
+0:0:37,41 --> 0:0:42,41
+by the pace of change, but you know what I
+believe. You know where I stand. You know
+
+
+11
+0:0:42,41 --> 0:0:46,35
+I tell the truth. And you know I`ll fight
+for you and your families every single day.
+
+
+12
+0:0:46,35 --> 0:0:50,0
+MITT ROMNEY, REPUBLICAN PRESIDENTIAL CANDIDATE:
+The same path we`re on means $20 trillion
+
+
+13
+0:0:50,0 --> 0:0:55,78
+in debt in four years. It means crippling
+unemployment continues. It means stagnant
+
+
+14
+0:0:55,78 --> 0:1:0,86
+take home pay, depressed home values. And
+a devastated military.
+
+
+15
+0:1:0,86 --> 0:1:4,969
+OBAMA: Our fight goes on, Virginia, because
+-- because we know this nation can`t succeed
+
+
+16
+0:1:4,969 --> 0:1:11,67
+without a growing, thriving middle class.
+
+
+17
+0:1:11,67 --> 0:1:16,139
+Our fight goes on because America`s always
+done best when everybody has a fair shot.
+
+
+18
+0:1:16,139 --> 0:1:20,95
+And everybody is doing their fair share, and
+everybody is playing by the same rules.
+
+
+19
+0:1:20,95 --> 0:1:22,52
+ROMNEY: If you believe we can do better ...
+
+
+20
+0:1:22,52 --> 0:1:22,7
+(cheers)
+
+
+21
+0:1:22,7 --> 0:1:25,719
+ROMNEY: If you believe America should be on
+a better course ...
+
+
+22
+0:1:25,719 --> 0:1:26,439
+AUDIENCE: Yes!
+
+
+23
+0:1:26,439 --> 0:1:28,84
+ROMNEY: If you are tired of being tired ...
+
+
+24
+0:1:28,84 --> 0:1:29,259
+AUDIENCE: Yes!
+
+
+25
+0:1:29,259 --> 0:1:34,29
+ROMNEY: Then I ask you to vote and work for
+real change, because Paul Ryan and I are going
+
+
+26
+0:1:34,29 --> 0:1:37,27
+to bring real change to America from the day
+one.
+
+
+27
+0:1:37,27 --> 0:1:38,9
+(END VIDEO CLIP)
+
+
+28
+0:1:38,9 --> 0:1:42,74
+AZUZ: If you think there were a lot of stops
+on that map, it`s not even the half of it.
+
+
+29
+0:1:42,74 --> 0:1:48,219
+Ohio, Wisconsin, Virginia, Colorado, Iowa,
+New Hampshire, Florida, Pennsylvania -- the
+
+
+30
+0:1:48,219 --> 0:1:53,39
+candidates are campaigning hard in states
+that could go either way tomorrow. One of
+
+
+31
+0:1:53,39 --> 0:1:56,399
+the things that we are talking about this
+weekend was a report that came out on Friday.
+
+
+32
+0:1:56,399 --> 0:2:3,259
+It said the U.S. economy added 171,000 jobs
+in October. But that the nation`s unemployment
+
+
+33
+0:2:3,259 --> 0:2:9,119
+rate went up slightly, to 7.9 percent. The
+candidates focused on different parts of that
+
+
+34
+0:2:9,119 --> 0:2:13,7
+report. President Obama referred to the added
+jobs and said it shows that the economy is
+
+
+35
+0:2:13,7 --> 0:2:18,67
+improving. Governor Romney looked at the unemployment
+rate and said it shows the economy is at a
+
+
+36
+0:2:18,67 --> 0:2:24,15
+standstill. The CNN election center is packed
+with interactive resources that can help you
+
+
+37
+0:2:24,15 --> 0:2:26,42
+get geared up for election day. Check this
+out.
+
+
+38
+0:2:26,42 --> 0:2:27,53
+(BEGIN VIDEO CLIP)
+
+
+39
+0:2:27,53 --> 0:2:29,6
+MANAV TANNEERU, SENIOR PRODUCER, CNN.COM:
+This is Manav Tanneeru, I`m a senior producer
+
+
+40
+0:2:29,6 --> 0:2:33,89
+at CNN.COM. And I`m here to tell you about
+a couple of features we have at out Web site,
+
+
+41
+0:2:33,89 --> 0:2:40,27
+that might help you get a better idea about
+the election that`s coming around. One of
+
+
+42
+0:2:40,27 --> 0:2:45,43
+them is what we call the CNN electoral map.
+It allows you to game out the presidential
+
+
+43
+0:2:45,43 --> 0:2:50,65
+race by assigning different states to different
+candidates. The point of it is, to see who
+
+
+44
+0:2:50,65 --> 0:2:56,27
+gets the 270 electoral votes first. Now, after
+you make your selection and you come with
+
+
+45
+0:2:56,27 --> 0:3:2,16
+a prediction, you can share with the family
+and friends, the social media, email, different
+
+
+46
+0:3:2,16 --> 0:3:2,88
+methods.
+
+
+47
+0:3:2,88 --> 0:3:7,47
+Another feature we have is called the CNN
+Campaign Explorer. We work with Google on
+
+
+48
+0:3:7,47 --> 0:3:12,82
+this feature. And it shows you different types
+of data. It allows you to take a glance at
+
+
+49
+0:3:12,82 --> 0:3:18,87
+fundraising data, ad spending data, candidate
+travel, and also polling. The last feature
+
+
+50
+0:3:18,87 --> 0:3:23,84
+we have is our polling interactive. It shows
+you CNN poll of polls for the national race
+
+
+51
+0:3:23,84 --> 0:3:28,64
+and different battleground states like Ohio,
+and Florida and Colorado and Nevada. States
+
+
+52
+0:3:28,64 --> 0:3:49,12
+you have heard a lot about in this presidential
+election.
+
+
+53
+0:3:49,12 --> 0:4:7,34
+(END VIDEO CLIP)
+
+
+54
+0:4:7,34 --> 0:4:23,84
+AZUZ: It`s been one week since the storm Sandy
+hit land. You`ve seen pictures of the devastation,
+
+
+55
+0:4:23,84 --> 0:4:29,8
+but what`s incredible, is to compare it to
+what these areas looked like before the storm.
+
+
+56
+0:4:29,8 --> 0:4:34,9
+Like this New Jersey Pier, before totally
+intact, after parts of it just ripped away.
+
+
+57
+0:4:34,9 --> 0:4:40,9
+We are seeing these kinds of before and after
+images from up and down the coast. Originally,
+
+
+58
+0:4:40,9 --> 0:4:44,6
+analysts were predicting that Sandy might
+cause $10 billion to $20 billion in damages.
+
+
+59
+0:4:44,6 --> 0:4:49,449
+Now, they are estimating between 30 and 50
+billion. The victims of these storm are dealing
+
+
+60
+0:4:49,449 --> 0:4:54,29
+with all kinds of challenges, some things
+are starting to get back to normal. For example,
+
+
+61
+0:4:54,29 --> 0:4:58,529
+New York City`s public schools are opening
+back up today. But millions of people still
+
+
+62
+0:4:58,529 --> 0:5:3,319
+didn`t have power yesterday. No power means
+no heat, and with the temperature dropping
+
+
+63
+0:5:3,319 --> 0:5:8,36
+New York officials say tens of thousands of
+people will have to find other housing options.
+
+
+64
+0:5:8,36 --> 0:5:13,2
+Gasoline has also been in short supply. The
+U.S. Defense Department is planning to bring
+
+
+65
+0:5:13,2 --> 0:5:17,219
+more in, but some residents have stood in
+line for hours waiting to fill up.
+
+
+66
+0:5:17,219 --> 0:5:18,199
+(BEGIN VIDEO CLIP)
+
+
+67
+0:5:18,199 --> 0:5:22,789
+UNIDENTIFIED MALE: We saw the truck pulling
+here, we are like, get the cans out, because
+
+
+68
+0:5:22,789 --> 0:5:24,24
+it`s better than waiting in the car.
+
+
+69
+0:5:24,24 --> 0:5:27,77
+UNIDENTIFIED FEMALE: I ran out of gas, looking
+for gas. So I walked here.
+
+
+70
+0:5:27,77 --> 0:5:30,779
+UNIDENTIFIED MALE: Right now, I`m just kind
+of waiting it out. I think in a few more days,
+
+
+71
+0:5:30,779 --> 0:5:33,419
+hopefully, there will be fuel and all the
+stuff will ease up.
+
+
+72
+0:5:33,419 --> 0:5:33,96
+(END VIDEO CLIP)
+
+
+73
+0:5:33,96 --> 0:5:37,529
+AZUZ: New York City`s subway tunnels were
+flooded during the storm. System is coming
+
+
+74
+0:5:37,529 --> 0:5:42,319
+back online, but when Jason Carroll went to
+look at the damage with the subway official,
+
+
+75
+0:5:42,319 --> 0:5:44,879
+he found out some sections still need a lot
+of work.
+
+
+76
+0:5:44,879 --> 0:5:45,49
+(BEGIN VIDEO CLIP)
+
+
+77
+0:5:45,49 --> 0:5:48,249
+JASON CARROLL, CNN CORRESPONDENT: What is
+it exactly that you`ll be doing down here,
+
+
+78
+0:5:48,249 --> 0:5:51,719
+because this is in the area clearly were you
+are working now. I mean it`s ...
+
+
+79
+0:5:51,719 --> 0:5:54,62
+FRANK JEZYCKI, CHIEF INFRASTRUCTURE OFFICER,
+MTA: Well, the station complex itself will
+
+
+80
+0:5:54,62 --> 0:6:3,209
+require a significant rehabilitation due to
+the damage from the storm. The infrastructure
+
+
+81
+0:6:3,209 --> 0:6:11,539
+-- the electrical systems, the fare collection
+systems. The lighting systems. The stairways,
+
+
+82
+0:6:11,539 --> 0:6:16,849
+the ventilation systems, the elevators, the
+escalators, they are all pretty much ruined
+
+
+83
+0:6:16,849 --> 0:6:19,3
+from the water damage, from the surge damage.
+
+
+84
+0:6:19,3 --> 0:6:20,559
+(BEGIN VIDEO CLIP)
+
+
+85
+0:6:20,559 --> 0:6:25,539
+UNIDENTIFIED FEMALE: Today`s "Shoutout" goes
+out to Ms. Holt`s classes at Westbrook Walnut
+
+
+86
+0:6:25,539 --> 0:6:31,52
+Grove High School in Westbrook, Minnesota.
+During which war did the U.S. first practice
+
+
+87
+0:6:31,52 --> 0:6:38,24
+daylight-saving time? Here we go, was it the
+Civil War, World War One, Spanish-American
+
+
+88
+0:6:38,24 --> 0:6:46,249
+War or World War II? You`ve got three seconds,
+go!
+
+
+89
+0:6:46,249 --> 0:6:53,24
+The U.S. first observed daylight saving time
+during World War I. That`s your answer and
+
+
+90
+0:6:53,24 --> 0:6:55,15
+that`s your "Shoutout."
+
+
+91
+0:6:55,15 --> 0:6:57,69
+(END VIDEO CLIP)
+
+
+92
+0:6:57,69 --> 0:7:2,369
+AZUZ: But the idea of daylight saving goes
+back further than that. Back in the 1700s,
+
+
+93
+0:7:2,369 --> 0:7:7,289
+Ben Franklin suggested getting up earlier
+in order to use fewer candles. So that covers
+
+
+94
+0:7:7,289 --> 0:7:11,639
+the who and the when. As for why and where
+this happens around the world, here is Reynolds
+
+
+95
+0:7:11,639 --> 0:7:11,759
+Wolf.
+
+
+96
+0:7:11,759 --> 0:7:12,139
+(BEGIN VIDEO CLIP)
+
+
+97
+0:7:12,139 --> 0:7:16,86
+REYNOLDS WOLF, CNN CORRESPONDENT: This is
+not a complex issue. Daylight saving is basically
+
+
+98
+0:7:16,86 --> 0:7:21,969
+self-explanatory, it`s saving daylight.
+
+
+99
+0:7:21,969 --> 0:7:28,639
+Originally, daylight saving was one of those
+things where it was -- originally for agrarian
+
+
+100
+0:7:28,639 --> 0:7:33,99
+societies, it was to use the -- get the most
+use out of as much daylight as you possibly
+
+
+101
+0:7:33,99 --> 0:7:37,479
+could. It was certainly helpful with farmers,
+certainly helpful with fisherman. But then
+
+
+102
+0:7:37,479 --> 0:7:43,89
+later, in later years it actually began -- daylight
+saving was actually practiced for the sole
+
+
+103
+0:7:43,89 --> 0:7:47,779
+purpose of really saving energy.
+
+
+104
+0:7:47,779 --> 0:7:53,59
+We`ve been following daylight saving time
+in the United States for quite a while. It
+
+
+105
+0:7:53,59 --> 0:7:57,49
+really first became official back during World
+War I for the sake of growing extra food for
+
+
+106
+0:7:57,49 --> 0:8:2,77
+troops overseas. It was brought back for World
+War II. But recently, it was the Energy Policy
+
+
+107
+0:8:2,77 --> 0:8:8,369
+Act of 2005 that was the real difference maker
+that made it more of a formal type of exercise
+
+
+108
+0:8:8,369 --> 0:8:12,569
+that has been basically followed by every
+state in the United States with a few exceptions
+
+
+109
+0:8:12,569 --> 0:8:18,46
+that, being, of course, Arizona, Hawaii, U.S.
+Virgin Islands, Puerto Rico and the American
+
+
+110
+0:8:18,46 --> 0:8:19,74
+Samoa.
+
+
+111
+0:8:19,74 --> 0:8:25,999
+Internationally, it`s kind of a hodgepodge
+around the globe. If you took a look at the
+
+
+112
+0:8:25,999 --> 0:8:29,619
+planet, and you were to light up places that
+were experiencing daylight saving, you`d see
+
+
+113
+0:8:29,619 --> 0:8:33,55
+really just a hop, skip and a jump from one
+continent to the other. It`s kind of varied
+
+
+114
+0:8:33,55 --> 0:8:34,56
+where you happen to go.
+
+
+115
+0:8:34,56 --> 0:8:38,51
+There are some places, I can tell you in Africa
+where there are many spots they don`t practice
+
+
+116
+0:8:38,51 --> 0:8:44,26
+it. There are many places, obviously, in parts
+of Asia. Europe, though, practices it for
+
+
+117
+0:8:44,26 --> 0:8:47,17
+the most part.
+
+
+118
+0:8:47,17 --> 0:8:50,79
+OK, now we are getting to the nitty-gritty
+stuff. This is the stuff that drives people
+
+
+119
+0:8:50,79 --> 0:8:56,65
+crazy. To me, it`s daylight saving. It`s a
+verb, it`s something we are doing. We are
+
+
+120
+0:8:56,65 --> 0:9:0,2
+saving daylight. Savings is a noun, that`s
+something that you have in the bank. Obviously,
+
+
+121
+0:9:0,2 --> 0:9:3,72
+we are using the verb.
+
+
+122
+0:9:3,72 --> 0:9:9,5
+It`s very possible that at some point we may
+indeed get rid of daylight saving time, but
+
+
+123
+0:9:9,5 --> 0:9:13,7
+for the time being, it is certainly here,
+and something we got to deal with, for better
+
+
+124
+0:9:13,7 --> 0:9:13,33
+or for worse.
+
+
+125
+0:9:13,33 --> 0:9:14,8
+(END VIDEO CLIP)
+
+
+126
+0:9:14,8 --> 0:9:18,45
+AZUZ: On Halloween, a 14-year old in Oregon
+elected to fight the bitterness of politics
+
+
+127
+0:9:18,45 --> 0:9:24,32
+with a sweet political costume. He went out
+as a ballot box, the left side was for Obama,
+
+
+128
+0:9:24,32 --> 0:9:29,44
+the right side for Romney. His neighbors voted
+by putting candy in the side they like more.
+
+
+129
+0:9:29,44 --> 0:9:34,6
+And they could vote multiple times. So, no
+matter who got the most votes, this kid won.
+
+
+130
+0:9:34,6 --> 0:9:38,99
+He said there was a five percent margin of
+error for any candy he ate while trick-or-treating,
+
+
+131
+0:9:38,99 --> 0:9:44,7
+not to mention the fact that he wanted people
+to vote early and vote often, to totally stuff
+
+
+132
+0:9:44,7 --> 0:9:47,25
+the ballot box. To sweeten the pot for their
+favorite candy dip.
+
+
+133
+0:9:47,25 --> 0:9:50,81
+There is no real harm in it, though, when
+you think about it. The only potential corruption
+
+
+134
+0:9:50,81 --> 0:9:52,14
+could have been to his teeth.
+
+
+135
+0:9:52,14 --> 0:11:52,14
+We hope you answer the door when CNN STUDENT
+NEWS knocks again tomorrow. See you then.
+
+

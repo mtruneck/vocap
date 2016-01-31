@@ -1,0 +1,5806 @@
+1
+0:0:12,74 --> 0:0:15,219
+Professor Paul Bloom:
+I actually want to begin by
+
+
+2
+0:0:15,219 --> 0:0:17,79
+going back to Freud and hitting
+a couple of loose ends.
+
+
+3
+0:0:17,79 --> 0:0:21,651
+There was a point in my lecture
+on Wednesday where I skipped
+
+
+4
+0:0:21,651 --> 0:0:24,494
+over some parts.
+I said, "We don't have time for
+
+
+5
+0:0:24,494 --> 0:0:26,32
+this" and I just whipped past
+it.
+
+
+6
+0:0:26,32 --> 0:0:28,3
+And I couldn't sleep over the
+weekend.
+
+
+7
+0:0:28,3 --> 0:0:31,844
+I've been tormented.
+I shouldn't have skipped that
+
+
+8
+0:0:31,844 --> 0:0:35,18
+and I want to hit--Let me tell
+you why I skipped it.
+
+
+9
+0:0:35,18 --> 0:0:39,93
+The discussion I skipped was
+the discussion of why we would
+
+
+10
+0:0:39,93 --> 0:0:42,866
+have an unconscious at all.
+So, I was talking about the
+
+
+11
+0:0:42,866 --> 0:0:46,834
+scientifically respectable ideas
+of Freud and I want to talk
+
+
+12
+0:0:46,834 --> 0:0:51,14
+about some new ideas about why
+there could be an unconscious.
+
+
+13
+0:0:51,14 --> 0:0:55,477
+Now, the reason why I skipped
+it is I'm not sure this is the
+
+
+14
+0:0:55,477 --> 0:0:58,5
+best way to look at the
+question.
+
+
+15
+0:0:58,5 --> 0:1:2,778
+As we will learn throughout the
+course, by far the vast majority
+
+
+16
+0:1:2,778 --> 0:1:6,415
+of what our brains do,
+the vast majority of what our
+
+
+17
+0:1:6,415 --> 0:1:9,579
+minds do, is unconscious and
+we're unaware of it.
+
+
+18
+0:1:9,579 --> 0:1:13,932
+So the right question to ask
+may not be, "Why are some things
+
+
+19
+0:1:13,932 --> 0:1:17,82
+unconscious?"
+but rather, why is this tiny
+
+
+20
+0:1:17,82 --> 0:1:20,47
+subset of mental life--why is
+this conscious?
+
+
+21
+0:1:20,47 --> 0:1:23,682
+On the other hand,
+these claims about the utility
+
+
+22
+0:1:23,682 --> 0:1:26,829
+of unconsciousness,
+I think, are provocative and
+
+
+23
+0:1:26,829 --> 0:1:29,503
+interesting.
+So I just wanted to quickly
+
+
+24
+0:1:29,503 --> 0:1:32,52
+share them with you.
+So, the question is,
+
+
+25
+0:1:32,52 --> 0:1:34,982
+from an evolutionary
+standpoint, "Why would an
+
+
+26
+0:1:34,982 --> 0:1:38,645
+unconscious evolve?"
+And an answer that some
+
+
+27
+0:1:38,645 --> 0:1:43,73
+psychologists and biologists
+have given is deception.
+
+
+28
+0:1:43,73 --> 0:1:46,9
+So, most animals do some
+deception.
+
+
+29
+0:1:46,9 --> 0:1:50,314
+And deception defined broadly
+is simply to act or be in some
+
+
+30
+0:1:50,314 --> 0:1:53,894
+way that fools others into
+believing or thinking or
+
+
+31
+0:1:53,894 --> 0:1:56,83
+responding to something that's
+false.
+
+
+32
+0:1:56,83 --> 0:2:0,68
+There's physical examples of
+deception.
+
+
+33
+0:2:0,68 --> 0:2:3,425
+When threatened,
+chimpanzees--their hair stands
+
+
+34
+0:2:3,425 --> 0:2:6,886
+up on end and that makes them
+look bigger to fool others to
+
+
+35
+0:2:6,886 --> 0:2:9,87
+thinking they're more dangerous
+than they are.
+
+
+36
+0:2:9,87 --> 0:2:13,217
+There's an angler fish at the
+bottom of the ocean that has a
+
+
+37
+0:2:13,217 --> 0:2:16,735
+rod sticking up from the top of
+its head with a lure to capture
+
+
+38
+0:2:16,735 --> 0:2:20,196
+other fish – to fool them in
+thinking that this is something
+
+
+39
+0:2:20,196 --> 0:2:22,919
+edible and then to themselves be
+devoured.
+
+
+40
+0:2:22,919 --> 0:2:27,99
+But humans, primates in general
+but particularly humans,
+
+
+41
+0:2:27,99 --> 0:2:32,114
+are masters of deception.
+We use our minds and our
+
+
+42
+0:2:32,114 --> 0:2:35,657
+behaviors and our actions
+continually to try to trick
+
+
+43
+0:2:35,657 --> 0:2:38,449
+people into believing what's not
+true.
+
+
+44
+0:2:38,449 --> 0:2:40,858
+We try to trick people,
+for instance,
+
+
+45
+0:2:40,858 --> 0:2:43,87
+into believing that we're
+tougher, smarter,
+
+
+46
+0:2:43,87 --> 0:2:48,126
+sexier, more reliable,
+more trustworthy and so on,
+
+
+47
+0:2:48,126 --> 0:2:51,368
+than we really are.
+And a large part of social
+
+
+48
+0:2:51,368 --> 0:2:54,588
+psychology concerns the way in
+which we present ourselves to
+
+
+49
+0:2:54,588 --> 0:2:57,808
+other people so as to make the
+maximally positive impression
+
+
+50
+0:2:57,808 --> 0:3:0,99
+even when that impression isn't
+true.
+
+
+51
+0:3:0,99 --> 0:3:5,331
+At the same time,
+though, we've also evolved very
+
+
+52
+0:3:5,331 --> 0:3:9,875
+good lie detection mechanisms.
+So not only is there
+
+
+53
+0:3:9,875 --> 0:3:13,94
+evolutionary pressure for me to
+lie to you, for me to persuade
+
+
+54
+0:3:13,94 --> 0:3:15,6
+you for instance,
+that if we're going to have
+
+
+55
+0:3:15,6 --> 0:3:18,18
+a--if you are threatening me
+don't threaten me,
+
+
+56
+0:3:18,18 --> 0:3:21,83
+I am not the sort of man you
+could screw around with.
+
+
+57
+0:3:21,83 --> 0:3:24,363
+But there's evolutionary
+pressure for you to look and
+
+
+58
+0:3:24,363 --> 0:3:25,938
+say, "No.
+You are the sort of man you
+
+
+59
+0:3:25,938 --> 0:3:27,939
+could screw around with.
+I can tell."
+
+
+60
+0:3:27,939 --> 0:3:31,53
+So how do you become a good
+liar?
+
+
+61
+0:3:31,53 --> 0:3:34,729
+And here's where the
+unconscious comes in.
+
+
+62
+0:3:34,729 --> 0:3:38,794
+The hypothesis is:
+the best lies are lies we tell
+
+
+63
+0:3:38,794 --> 0:3:41,827
+ourselves.
+You're a better liar,
+
+
+64
+0:3:41,827 --> 0:3:45,861
+more generally,
+if you believe the lie that
+
+
+65
+0:3:45,861 --> 0:3:50,43
+you're telling.
+This could be illustrated with
+
+
+66
+0:3:50,43 --> 0:3:54,478
+a story about Alfred Hitchcock.
+The story goes--He hated
+
+
+67
+0:3:54,478 --> 0:3:58,39
+working with child actors but he
+often had to.
+
+
+68
+0:3:58,39 --> 0:4:2,293
+And the story goes--He was
+dealing with a child actor who
+
+
+69
+0:4:2,293 --> 0:4:5,507
+simply could not cry.
+And, finally frustrated,
+
+
+70
+0:4:5,507 --> 0:4:7,953
+Hitchcock went to the actor,
+leaned over,
+
+
+71
+0:4:7,953 --> 0:4:11,133
+whispered in his ear,
+"Your parents have left you and
+
+
+72
+0:4:11,133 --> 0:4:14,969
+they're never coming back."
+The kid burst into tears.
+
+
+73
+0:4:14,969 --> 0:4:18,435
+Hitchcock said,
+"Roll ‘em" and filmed the
+
+
+74
+0:4:18,435 --> 0:4:20,101
+kid.
+And the kid,
+
+
+75
+0:4:20,101 --> 0:4:24,691
+if you were to see him,
+you'd say, "That's--Boy,
+
+
+76
+0:4:24,691 --> 0:4:30,16
+he's--he really looks as if
+he's sad" because he was.
+
+
+77
+0:4:30,16 --> 0:4:34,891
+If I had a competition where
+I'd give $100,000 to the person
+
+
+78
+0:4:34,891 --> 0:4:38,42
+who looks the most as if they
+are in pain,
+
+
+79
+0:4:38,42 --> 0:4:43,51
+it is a very good tactic to
+take a pen and jam it into your
+
+
+80
+0:4:43,51 --> 0:4:47,762
+groin because you will look
+extremely persuasively as if you
+
+
+81
+0:4:47,762 --> 0:4:51,182
+are in pain.
+If I want to persuade you that
+
+
+82
+0:4:51,182 --> 0:4:55,111
+I love you, would never leave
+you, you can trust me with
+
+
+83
+0:4:55,111 --> 0:4:59,54
+everything, it may be a superb
+tactic for me to believe it.
+
+
+84
+0:4:59,54 --> 0:5:5,205
+And so, this account of the
+evolution of the unconscious is
+
+
+85
+0:5:5,205 --> 0:5:8,819
+that certain motivations and
+goals,
+
+
+86
+0:5:8,819 --> 0:5:12,639
+particularly sinister ones,
+are better made to be
+
+
+87
+0:5:12,639 --> 0:5:17,652
+unconscious because if a person
+doesn't know they have them they
+
+
+88
+0:5:17,652 --> 0:5:22,325
+will not give them away.
+And this is something I think
+
+
+89
+0:5:22,325 --> 0:5:26,796
+we should return to later on
+when we talk about social
+
+
+90
+0:5:26,796 --> 0:5:30,17
+interaction and social
+relationships.
+
+
+91
+0:5:30,17 --> 0:5:34,139
+One other thing on Freud--just
+a story of the falsification of
+
+
+92
+0:5:34,139 --> 0:5:37,76
+Freud.
+I was taking my younger child
+
+
+93
+0:5:37,76 --> 0:5:42,326
+home from a play date on Sunday
+and he asked me out of the blue,
+
+
+94
+0:5:42,326 --> 0:5:46,66
+"Why can't you marry your
+mother or your father?"
+
+
+95
+0:5:46,66 --> 0:5:49,267
+Now, that's actually a
+difficult question to ask--to
+
+
+96
+0:5:49,267 --> 0:5:51,824
+answer for a child,
+but I tried my best to give him
+
+
+97
+0:5:51,824 --> 0:5:55,166
+an answer.
+And then I said--then I thought
+
+
+98
+0:5:55,166 --> 0:6:0,589
+back on the Freud lecture and so
+I asked him, "If you could marry
+
+
+99
+0:6:0,589 --> 0:6:3,81
+anybody you want,
+who would it be?"
+
+
+100
+0:6:3,81 --> 0:6:7,383
+imagining he'd make explicit
+the Oedipal complex and name his
+
+
+101
+0:6:7,383 --> 0:6:13,948
+mother.
+Instead, he paused for a moment
+
+
+102
+0:6:13,948 --> 0:6:23,476
+and said, "I would marry a
+donkey and a big bag of
+
+
+103
+0:6:23,476 --> 0:6:26,351
+peanuts."
+[laughter]
+
+
+104
+0:6:26,351 --> 0:6:29,167
+Both his parents are
+psychologists and he hates these
+
+
+105
+0:6:29,167 --> 0:6:32,2
+questions and at times he just
+screws around with us.
+
+
+106
+0:6:32,2 --> 0:6:40,821
+[laughter] Okay.
+Last class I started with Freud
+
+
+107
+0:6:40,821 --> 0:6:44,29
+and now I want to turn to
+Skinner.
+
+
+108
+0:6:44,29 --> 0:6:47,189
+And the story of Skinner and
+science is somewhat different
+
+
+109
+0:6:47,189 --> 0:6:51,499
+from the story of Freud.
+Freud developed and championed
+
+
+110
+0:6:51,499 --> 0:6:55,42
+the theory of psychoanalysis by
+himself.
+
+
+111
+0:6:55,42 --> 0:6:59,109
+It is as close as you could
+find in science to a solitary
+
+
+112
+0:6:59,109 --> 0:7:1,757
+invention.
+Obviously, he drew upon all
+
+
+113
+0:7:1,757 --> 0:7:5,265
+sorts of sources and
+predecessors but psychoanalysis
+
+
+114
+0:7:5,265 --> 0:7:7,81
+is identified as Freud's
+creation.
+
+
+115
+0:7:7,81 --> 0:7:11,875
+Behaviorism is different.
+Behaviorism is a school of
+
+
+116
+0:7:11,875 --> 0:7:15,358
+thought that was there long
+before Skinner,
+
+
+117
+0:7:15,358 --> 0:7:19,7
+championed by psychologists
+like John Watson,
+
+
+118
+0:7:19,7 --> 0:7:22,332
+for instance.
+Skinner came a bit late into
+
+
+119
+0:7:22,332 --> 0:7:26,323
+this but the reason why we've
+heard of Skinner and why Skinner
+
+
+120
+0:7:26,323 --> 0:7:29,53
+is so well known is he packaged
+these notions.
+
+
+121
+0:7:29,53 --> 0:7:32,0
+He expanded upon them;
+he publicized them;
+
+
+122
+0:7:32,0 --> 0:7:35,31
+he developed them
+scientifically and presented
+
+
+123
+0:7:35,31 --> 0:7:38,737
+them both to the scientific
+community and to the popular
+
+
+124
+0:7:38,737 --> 0:7:42,509
+community and sociologically in
+the 1960s and 1970s.
+
+
+125
+0:7:42,509 --> 0:7:45,208
+In the United States,
+behaviorism was incredibly well
+
+
+126
+0:7:45,208 --> 0:7:48,516
+known and so was Skinner.
+He was the sort of person you
+
+
+127
+0:7:48,516 --> 0:7:52,69
+would see on talk shows.
+His books were bestsellers.
+
+
+128
+0:7:52,69 --> 0:7:59,774
+Now, at the core of behaviorism
+are three extremely radical and
+
+
+129
+0:7:59,774 --> 0:8:4,966
+interesting views.
+The first is a strong emphasis
+
+
+130
+0:8:4,966 --> 0:8:8,671
+on learning.
+The strong view of behaviorism
+
+
+131
+0:8:8,671 --> 0:8:12,214
+is everything you know,
+everything you are,
+
+
+132
+0:8:12,214 --> 0:8:17,36
+is the result of experience.
+There's no real human nature.
+
+
+133
+0:8:17,36 --> 0:8:21,89
+Rather, people are infinitely
+malleable.
+
+
+134
+0:8:21,89 --> 0:8:25,348
+There's a wonderful quote from
+John Watson and in this quote
+
+
+135
+0:8:25,348 --> 0:8:29,68
+John Watson is paraphrasing a
+famous boast by the Jesuits.
+
+
+136
+0:8:29,68 --> 0:8:34,529
+The Jesuits used to claim,
+"Give me a child until the age
+
+
+137
+0:8:34,529 --> 0:8:37,82
+of seven and I'll show you the
+man,"
+
+
+138
+0:8:37,82 --> 0:8:41,576
+that they would take a child
+and turn him into anything they
+
+
+139
+0:8:41,576 --> 0:8:44,163
+wanted.
+And Watson expanded on this
+
+
+140
+0:8:44,163 --> 0:8:46,46
+boast,
+Give me a dozen healthy
+
+
+141
+0:8:46,46 --> 0:8:48,841
+infants, well-formed and my own
+specified world to bring them up
+
+
+142
+0:8:48,841 --> 0:8:51,547
+and I'll guarantee to take any
+one at random and train them to
+
+
+143
+0:8:51,547 --> 0:8:54,12
+become any type of specialist I
+might select--doctor,
+
+
+144
+0:8:54,12 --> 0:8:56,254
+lawyer, artist,
+merchant, chief,
+
+
+145
+0:8:56,254 --> 0:8:59,833
+and yes, even beggar-man and
+thief, regardless of his
+
+
+146
+0:8:59,833 --> 0:9:2,37
+talents,
+penchants, tendencies,
+
+
+147
+0:9:2,37 --> 0:9:5,419
+abilities, vocations and race
+of his ancestors.
+
+
+148
+0:9:5,419 --> 0:9:9,897
+Now, you could imagine--You
+could see in this a tremendous
+
+
+149
+0:9:9,897 --> 0:9:13,826
+appeal to this view because
+Watson has an extremely
+
+
+150
+0:9:13,826 --> 0:9:18,99
+egalitarian view in a sense.
+If there's no human nature,
+
+
+151
+0:9:18,99 --> 0:9:22,9
+then there's no sense in which
+one group of humans by dint of
+
+
+152
+0:9:22,9 --> 0:9:26,5
+their race or their sex could be
+better than another group.
+
+
+153
+0:9:26,5 --> 0:9:29,412
+And Watson was explicit.
+None of those facts about
+
+
+154
+0:9:29,412 --> 0:9:32,32
+people will ever make any
+difference.
+
+
+155
+0:9:32,32 --> 0:9:37,77
+What matters to what you are is
+what you learn and how you're
+
+
+156
+0:9:37,77 --> 0:9:40,205
+treated.
+And so, Watson claimed he could
+
+
+157
+0:9:40,205 --> 0:9:44,801
+create anybody in any way simply
+by treating them in a certain
+
+
+158
+0:9:44,801 --> 0:9:45,63
+fashion.
+
+
+159
+0:9:45,63 --> 0:9:49,23
+
+
+
+160
+0:9:49,23 --> 0:9:55,419
+A second aspect of behaviorism
+was anti-mentalism.
+
+
+161
+0:9:55,419 --> 0:9:59,151
+And what I mean by this is the
+behaviorists were obsessed with
+
+
+162
+0:9:59,151 --> 0:10:1,72
+the idea of doing science and
+they felt,
+
+
+163
+0:10:1,72 --> 0:10:5,681
+largely in reaction to Freud,
+that claims about internal
+
+
+164
+0:10:5,681 --> 0:10:8,798
+mental states like desires,
+wishes, goals,
+
+
+165
+0:10:8,798 --> 0:10:11,59
+emotions and so on,
+are unscientific.
+
+
+166
+0:10:11,59 --> 0:10:15,294
+These invisible,
+vague things can never form the
+
+
+167
+0:10:15,294 --> 0:10:19,344
+basis of a serious science.
+And so, the behaviorist
+
+
+168
+0:10:19,344 --> 0:10:23,258
+manifesto would then be to
+develop a science without
+
+
+169
+0:10:23,258 --> 0:10:27,555
+anything that's unobservable and
+instead use notions like
+
+
+170
+0:10:27,555 --> 0:10:31,929
+stimulus and response and
+reinforcement and punishment and
+
+
+171
+0:10:31,929 --> 0:10:36,84
+environment that refer to real
+world and tangible events.
+
+
+172
+0:10:36,84 --> 0:10:41,279
+Finally, behaviorists believed
+there were no interesting
+
+
+173
+0:10:41,279 --> 0:10:45,78
+differences across species.
+A behaviorist might admit that
+
+
+174
+0:10:45,78 --> 0:10:49,814
+a human can do things that a rat
+or pigeon couldn't but a
+
+
+175
+0:10:49,814 --> 0:10:52,48
+behaviorist might just say,
+"Look.
+
+
+176
+0:10:52,48 --> 0:10:55,653
+Those are just general
+associative powers that differ"
+
+
+177
+0:10:55,653 --> 0:10:58,33
+or they may even deny it.
+They might say,
+
+
+178
+0:10:58,33 --> 0:11:0,169
+"Humans and rats aren't
+different at all.
+
+
+179
+0:11:0,169 --> 0:11:3,949
+It's just humans tend to live
+in a richer environment than
+
+
+180
+0:11:3,949 --> 0:11:5,798
+rats."
+From that standpoint,
+
+
+181
+0:11:5,798 --> 0:11:8,309
+from that theoretical
+standpoint, comes a
+
+
+182
+0:11:8,309 --> 0:11:10,57
+methodological approach which
+is,
+
+
+183
+0:11:10,57 --> 0:11:15,4
+if they're all the same then
+you could study human learning
+
+
+184
+0:11:15,4 --> 0:11:19,221
+by studying nonhuman animals.
+And that's a lot of what they
+
+
+185
+0:11:19,221 --> 0:11:20,409
+did.
+Okay.
+
+
+186
+0:11:20,409 --> 0:11:24,38
+I'm going to frame my
+introduction--my discussion of
+
+
+187
+0:11:24,38 --> 0:11:29,51
+behaviors in terms of the three
+main learning principles that
+
+
+188
+0:11:29,51 --> 0:11:33,1
+they argue can explain all of
+human mental life,
+
+
+189
+0:11:33,1 --> 0:11:36,369
+all of human behavior.
+And then, I want to turn to
+
+
+190
+0:11:36,369 --> 0:11:39,282
+objections to behaviorism but
+these three principles are
+
+
+191
+0:11:39,282 --> 0:11:41,3
+powerful and very interesting.
+
+
+192
+0:11:41,3 --> 0:11:45,89
+
+
+
+193
+0:11:45,89 --> 0:11:50,92
+The first is habituation.
+This is the very simplest form
+
+
+194
+0:11:50,92 --> 0:11:53,499
+of learning.
+And what this is is technically
+
+
+195
+0:11:53,499 --> 0:11:58,332
+described as a decline in the
+tendency to respond to stimuli
+
+
+196
+0:11:58,332 --> 0:12:2,1
+that are familiar due to
+repeated exposure.
+
+
+197
+0:12:2,1 --> 0:12:9,809
+"Hey!"
+"Hey!"
+
+
+198
+0:12:9,809 --> 0:12:16,271
+The sudden noise startles but
+as it--as you hear it a second
+
+
+199
+0:12:16,271 --> 0:12:20,572
+time it startles less.
+The third time is just me being
+
+
+200
+0:12:20,572 --> 0:12:24,415
+goofy.
+It's just--It's--You get used
+
+
+201
+0:12:24,415 --> 0:12:26,675
+to things.
+And this, of course,
+
+
+202
+0:12:26,675 --> 0:12:28,33
+is common enough in everyday
+life.
+
+
+203
+0:12:28,33 --> 0:12:34,33
+We get used to the ticking of a
+clock or to noise of traffic but
+
+
+204
+0:12:34,33 --> 0:12:40,235
+it's actually a very important
+form of learning because imagine
+
+
+205
+0:12:40,235 --> 0:12:43,683
+life without it.
+Imagine life where you never
+
+
+206
+0:12:43,683 --> 0:12:46,439
+got used to anything,
+where suddenly somebody steps
+
+
+207
+0:12:46,439 --> 0:12:48,919
+forward and waves their hand and
+you'd go,
+
+
+208
+0:12:48,919 --> 0:12:52,388
+"Woah," and then they wave
+their hand again and you'd go,
+
+
+209
+0:12:52,388 --> 0:12:54,371
+"Whoah," and you
+keep--[laughter]
+
+
+210
+0:12:54,371 --> 0:12:57,84
+And there's the loud ticking of
+a clock and you say,
+
+
+211
+0:12:57,84 --> 0:13:3,377
+"Hmmm."
+And that's not the way animals
+
+
+212
+0:13:3,377 --> 0:13:6,35
+or humans work.
+You get used to things.
+
+
+213
+0:13:6,35 --> 0:13:10,7
+And it's actually critically
+important to get used to things
+
+
+214
+0:13:10,7 --> 0:13:15,124
+because it's a useful adaptive
+mechanism to keep track on new
+
+
+215
+0:13:15,124 --> 0:13:17,981
+events and objects.
+It's important to notice
+
+
+216
+0:13:17,981 --> 0:13:20,981
+something when it's new because
+then you have to decide whether
+
+
+217
+0:13:20,981 --> 0:13:24,76
+it's going to harm you,
+how to deal with it,
+
+
+218
+0:13:24,76 --> 0:13:28,299
+to attend to it,
+but you can't keep on noticing
+
+
+219
+0:13:28,299 --> 0:13:29,671
+it.
+And, in fact,
+
+
+220
+0:13:29,671 --> 0:13:32,769
+you should stop noticing it
+after it's been in the
+
+
+221
+0:13:32,769 --> 0:13:36,419
+environment for long enough.
+So, this counts as learning
+
+
+222
+0:13:36,419 --> 0:13:38,86
+because it happens through
+experience.
+
+
+223
+0:13:38,86 --> 0:13:41,44
+It's a way to learn through
+experience, to change your way
+
+
+224
+0:13:41,44 --> 0:13:44,761
+of thinking through experience.
+And also, it's useful because
+
+
+225
+0:13:44,761 --> 0:13:50,3
+harmful stimuli are noticed but
+when something has shown itself
+
+
+226
+0:13:50,3 --> 0:13:55,159
+to be part of the environment
+you don't notice it anymore.
+
+
+227
+0:13:55,159 --> 0:13:59,5
+The existence of habituation is
+important for many reasons.
+
+
+228
+0:13:59,5 --> 0:14:3,629
+One thing it's important for is
+clever developmental
+
+
+229
+0:14:3,629 --> 0:14:7,839
+psychologists have used
+habituation as a way to study
+
+
+230
+0:14:7,839 --> 0:14:10,965
+people,
+creatures who can't talk like
+
+
+231
+0:14:10,965 --> 0:14:13,74
+nonhuman animals,
+and young babies.
+
+
+232
+0:14:13,74 --> 0:14:18,1
+And when I talk on Wednesday
+about developmental psychology
+
+
+233
+0:14:18,1 --> 0:14:22,134
+I'll show different ways in
+which psychologists have used
+
+
+234
+0:14:22,134 --> 0:14:25,889
+habituation to study the minds
+of young babies.
+
+
+235
+0:14:25,889 --> 0:14:31,649
+The second sort of learning is
+known as classical conditioning.
+
+
+236
+0:14:31,649 --> 0:14:36,146
+And what this is in a very
+general sense is the learning of
+
+
+237
+0:14:36,146 --> 0:14:40,72
+an association between one
+stimulus and another stimulus,
+
+
+238
+0:14:40,72 --> 0:14:44,626
+where stimulus is a technical
+term meaning events in the
+
+
+239
+0:14:44,626 --> 0:14:48,39
+environment like a certain smell
+or sound or sight.
+
+
+240
+0:14:48,39 --> 0:14:56,433
+It was thought up by Pavlov.
+This is Pavlov's famous dog and
+
+
+241
+0:14:56,433 --> 0:14:59,99
+it's an example of scientific
+serendipity.
+
+
+242
+0:14:59,99 --> 0:15:4,903
+Pavlov, when he started this
+research, had no interest at all
+
+
+243
+0:15:4,903 --> 0:15:8,389
+in learning.
+He was interested in saliva.
+
+
+244
+0:15:8,389 --> 0:15:11,75
+And to get saliva he had to
+have dogs.
+
+
+245
+0:15:11,75 --> 0:15:15,224
+And he had to attach something
+to dogs so that their saliva
+
+
+246
+0:15:15,224 --> 0:15:17,74
+would pour out so he could study
+saliva.
+
+
+247
+0:15:17,74 --> 0:15:22,24
+No idea why he wanted to study
+saliva, but he then discovered
+
+
+248
+0:15:22,24 --> 0:15:24,798
+something.
+What he would do is he'd put
+
+
+249
+0:15:24,798 --> 0:15:27,82
+food powder in the dog's mouth
+to generate saliva.
+
+
+250
+0:15:27,82 --> 0:15:33,21
+But Pavlov observed that when
+somebody entered the room who
+
+
+251
+0:15:33,21 --> 0:15:36,649
+typically gave him the food
+powder,
+
+
+252
+0:15:36,649 --> 0:15:39,47
+the dog--the food powder saliva
+would start to come out.
+
+
+253
+0:15:39,47 --> 0:15:44,568
+And later on if you--right
+before or right during you give
+
+
+254
+0:15:44,568 --> 0:15:50,293
+the dog some food – you ping a
+bell – the bell will cause the
+
+
+255
+0:15:50,293 --> 0:15:53,353
+saliva to come forth.
+And, in fact,
+
+
+256
+0:15:53,353 --> 0:15:56,71
+this is the apparatus that he
+used for his research.
+
+
+257
+0:15:56,71 --> 0:16:0,299
+
+
+
+258
+0:16:0,299 --> 0:16:5,391
+He developed the theory of
+classical conditioning by making
+
+
+259
+0:16:5,391 --> 0:16:9,779
+a distinction between two sorts
+of conditioning,
+
+
+260
+0:16:9,779 --> 0:16:13,72
+two sorts of stimulus response
+relationships.
+
+
+261
+0:16:13,72 --> 0:16:17,245
+One is unconditioned.
+An unconditioned is when an
+
+
+262
+0:16:17,245 --> 0:16:19,857
+unconditioned stimulus gives
+rise to an unconditioned
+
+
+263
+0:16:19,857 --> 0:16:22,518
+response.
+And this is what you start off
+
+
+264
+0:16:22,518 --> 0:16:25,88
+with.
+So, if somebody pokes you with
+
+
+265
+0:16:25,88 --> 0:16:28,47
+a stick and you say,
+"Ouch," because it hurts,
+
+
+266
+0:16:28,47 --> 0:16:31,718
+the poking and the "ouch" is an
+unconditioned stimulus causing
+
+
+267
+0:16:31,718 --> 0:16:35,379
+an unconditioned response.
+You didn't have to learn that.
+
+
+268
+0:16:35,379 --> 0:16:39,253
+When Pavlov put food powder in
+the dog's mouth and saliva was
+
+
+269
+0:16:39,253 --> 0:16:42,416
+generated, that's an
+unconditioned stimulus giving
+
+
+270
+0:16:42,416 --> 0:16:44,87
+rise to an unconditioned
+response.
+
+
+271
+0:16:44,87 --> 0:16:48,507
+But what happens through
+learning is that another
+
+
+272
+0:16:48,507 --> 0:16:53,129
+association develops – that
+between the conditioned stimulus
+
+
+273
+0:16:53,129 --> 0:16:56,476
+and the conditioned response.
+So when Pavlov,
+
+
+274
+0:16:56,476 --> 0:16:58,225
+for instance--Well,
+when Pavlov,
+
+
+275
+0:16:58,225 --> 0:17:0,481
+for instance,
+started before conditioning
+
+
+276
+0:17:0,481 --> 0:17:3,19
+there was simply an
+unconditioned stimulus,
+
+
+277
+0:17:3,19 --> 0:17:6,156
+the food in the mouth,
+and an unconditioned response,
+
+
+278
+0:17:6,156 --> 0:17:7,96
+saliva.
+The bell was nothing.
+
+
+279
+0:17:7,96 --> 0:17:12,7
+The bell was a neutral stimulus.
+But over and over again,
+
+
+280
+0:17:12,7 --> 0:17:16,5
+if you put the bell and the
+food together,
+
+
+281
+0:17:16,5 --> 0:17:20,42
+pretty soon the bell will
+generate saliva.
+
+
+282
+0:17:20,42 --> 0:17:24,16
+And now the bell--When--You
+start off with the unconditioned
+
+
+283
+0:17:24,16 --> 0:17:26,38
+stimulus, unconditioned
+response.
+
+
+284
+0:17:26,38 --> 0:17:29,85
+When the conditioned stimulus
+and the unconditioned stimulus
+
+
+285
+0:17:29,85 --> 0:17:32,91
+are brought together over and
+over and over again,
+
+
+286
+0:17:32,91 --> 0:17:36,752
+pretty soon the conditioned
+stimulus gives rise to the
+
+
+287
+0:17:36,752 --> 0:17:39,377
+response.
+And now it's known as the
+
+
+288
+0:17:39,377 --> 0:17:43,91
+conditioned stimulus giving rise
+to the conditioned response.
+
+
+289
+0:17:43,91 --> 0:17:46,46
+This is discussed in detail in
+the textbook but I also--I'm
+
+
+290
+0:17:46,46 --> 0:17:49,23
+going to give you--Don't panic
+if you don't get it quite now.
+
+
+291
+0:17:49,23 --> 0:17:52,329
+I'm going to give you further
+and further examples.
+
+
+292
+0:17:52,329 --> 0:17:55,86
+So, the idea here is,
+repeated pairings of the
+
+
+293
+0:17:55,86 --> 0:18:0,568
+unconditioned stimulus and the
+conditioned stimulus will give
+
+
+294
+0:18:0,568 --> 0:18:3,95
+rise to the response.
+And there's a difference
+
+
+295
+0:18:3,95 --> 0:18:6,97
+between reinforced trials and
+unreinforced trials.
+
+
+296
+0:18:6,97 --> 0:18:9,943
+A reinforced trial is when the
+conditioned stimulus and the
+
+
+297
+0:18:9,943 --> 0:18:11,839
+unconditioned stimulus go
+together.
+
+
+298
+0:18:11,839 --> 0:18:16,25
+You're--and to put it in a
+crude way, you're teaching the
+
+
+299
+0:18:16,25 --> 0:18:18,94
+dog that the bell goes with the
+food.
+
+
+300
+0:18:18,94 --> 0:18:25,566
+An unreinforced trial is when
+you get the food without the
+
+
+301
+0:18:25,566 --> 0:18:27,942
+bell.
+You're not teaching the dog
+
+
+302
+0:18:27,942 --> 0:18:29,25
+this.
+And, in fact,
+
+
+303
+0:18:29,25 --> 0:18:32,191
+once you teach an animal
+something, if you stop doing the
+
+
+304
+0:18:32,191 --> 0:18:35,98
+teaching the response goes away
+and this is known as extinction.
+
+
+305
+0:18:35,98 --> 0:18:40,456
+But here's a graph.
+If you get--They really count
+
+
+306
+0:18:40,456 --> 0:18:43,59
+the number of cubic centimeters
+of saliva.
+
+
+307
+0:18:43,59 --> 0:18:47,671
+The dog is trained so that when
+the bell comes on--Actually,
+
+
+308
+0:18:47,671 --> 0:18:49,72
+I misframed it.
+I'll try again.
+
+
+309
+0:18:49,72 --> 0:18:54,346
+When the bell comes connected
+with food, there's a lot of
+
+
+310
+0:18:54,346 --> 0:18:56,733
+saliva.
+An unreinforced response is
+
+
+311
+0:18:56,733 --> 0:18:59,349
+when the bell goes on but
+there's no food.
+
+
+312
+0:18:59,349 --> 0:19:2,4
+So, it's--Imagine you're the
+dog.
+
+
+313
+0:19:2,4 --> 0:19:6,47
+So, you get food in your mouth,
+"bell, food,
+
+
+314
+0:19:6,47 --> 0:19:12,958
+bell, food," and now "bell."
+But next you get "bell,
+
+
+315
+0:19:12,958 --> 0:19:15,96
+bell, bell."
+You give it up.
+
+
+316
+0:19:15,96 --> 0:19:21,819
+You stop.
+You stop responding to the bell.
+
+
+317
+0:19:21,819 --> 0:19:25,416
+A weird thing which is
+discussed in the textbook is if
+
+
+318
+0:19:25,416 --> 0:19:29,556
+you wait a while and then you
+try it again with the bell after
+
+
+319
+0:19:29,556 --> 0:19:33,79
+a couple of hours,
+the saliva comes back.
+
+
+320
+0:19:33,79 --> 0:19:36,539
+This is known as spontaneous
+recovery.
+
+
+321
+0:19:36,539 --> 0:19:41,461
+So, this all seems a very
+technical phenomena related to
+
+
+322
+0:19:41,461 --> 0:19:46,741
+animals and the like but it's
+easy to see how it generalizes
+
+
+323
+0:19:46,741 --> 0:19:50,682
+and how it extends.
+One interesting notion is that
+
+
+324
+0:19:50,682 --> 0:19:54,53
+of stimulus generalization.
+And stimulus generalization is
+
+
+325
+0:19:54,53 --> 0:19:57,944
+the topic of one of your
+articles in The Norton
+
+
+326
+0:19:57,944 --> 0:20:0,125
+Reader,
+the one by Watson,
+
+
+327
+0:20:0,125 --> 0:20:2,468
+John Watson,
+the famous behaviorist,
+
+
+328
+0:20:2,468 --> 0:20:6,17
+who reported a bizarre
+experiment with a baby known as
+
+
+329
+0:20:6,17 --> 0:20:9,0
+Little Albert.
+And here's the idea.
+
+
+330
+0:20:9,0 --> 0:20:12,0
+Little Albert originally liked
+rats.
+
+
+331
+0:20:12,0 --> 0:20:14,453
+In fact, I'm going to show you
+a movie of Little Albert
+
+
+332
+0:20:14,453 --> 0:20:15,59
+originally liking rats.
+
+
+333
+0:20:15,59 --> 0:20:18,93
+
+
+
+334
+0:20:18,93 --> 0:20:20,14
+See.
+He's okay.
+
+
+335
+0:20:20,14 --> 0:20:24,597
+No problem.
+Now, Watson did something
+
+
+336
+0:20:24,597 --> 0:20:28,346
+interesting.
+As Little Albert was playing
+
+
+337
+0:20:28,346 --> 0:20:30,603
+with the rat,
+"Oh, I like rats,
+
+
+338
+0:20:30,603 --> 0:20:34,892
+oh," Watson went behind the
+baby--this is the--it's in the
+
+
+339
+0:20:34,892 --> 0:20:38,73
+chapter--and banged the metal
+bar right here .
+
+
+340
+0:20:38,73 --> 0:20:41,52
+The baby, "Aah," screamed,
+started to sob.
+
+
+341
+0:20:41,52 --> 0:20:47,874
+Okay.
+What's the unconditioned
+
+
+342
+0:20:47,874 --> 0:20:51,25
+stimulus?
+Somebody.
+
+
+343
+0:20:51,25 --> 0:20:53,66
+The loud noise,
+the bar, the bang.
+
+
+344
+0:20:53,66 --> 0:20:56,39
+What's the unconditioned
+response?
+
+
+345
+0:20:56,39 --> 0:21:3,312
+Crying, sadness, misery.
+And as a result of this,
+
+
+346
+0:21:3,312 --> 0:21:7,64
+Little Albert grew afraid of
+the rat.
+
+
+347
+0:21:7,64 --> 0:21:13,45
+So there--what would be the
+conditioned stimulus?
+
+
+348
+0:21:13,45 --> 0:21:15,788
+The rat.
+What would be the conditioned
+
+
+349
+0:21:15,788 --> 0:21:17,1
+response?
+Fear.
+
+
+350
+0:21:17,1 --> 0:21:21,379
+Excellent.
+Moreover, this fear extended to
+
+
+351
+0:21:21,379 --> 0:21:24,774
+other things.
+So, this is a very weird and
+
+
+352
+0:21:24,774 --> 0:21:28,68
+unpersuasive clip.
+But the idea is--the clip is to
+
+
+353
+0:21:28,68 --> 0:21:31,471
+make the point that the fear
+will extend to a rabbit,
+
+
+354
+0:21:31,471 --> 0:21:33,796
+a white rabbit.
+So, the first part,
+
+
+355
+0:21:33,796 --> 0:21:36,45
+Little Albert's fine with the
+white rabbit.
+
+
+356
+0:21:36,45 --> 0:21:39,56
+The second part is after he's
+been conditioned and he's kind
+
+
+357
+0:21:39,56 --> 0:21:40,779
+of freaked out with the white
+rabbit.
+
+
+358
+0:21:40,779 --> 0:21:45,655
+The problem is in the second
+part they're throwing the rabbit
+
+
+359
+0:21:45,655 --> 0:21:47,85
+at him but now he's okay.
+
+
+360
+0:21:47,85 --> 0:22:5,61
+
+
+
+361
+0:22:5,61 --> 0:22:8,78
+[laughter] Is the mic on?
+Oh.
+
+
+362
+0:22:8,78 --> 0:22:14,753
+This is fine.
+This is one of a long list of
+
+
+363
+0:22:14,753 --> 0:22:18,48
+experiments that we can't do
+anymore.
+
+
+364
+0:22:18,48 --> 0:22:23,652
+So, classical conditioning is
+more than a laboratory
+
+
+365
+0:22:23,652 --> 0:22:27,544
+phenomena.
+The findings of classical
+
+
+366
+0:22:27,544 --> 0:22:34,69
+conditioning have been extended
+and replicated in all sorts of
+
+
+367
+0:22:34,69 --> 0:22:40,59
+animals including crabs,
+fish, cockroaches and so on.
+
+
+368
+0:22:40,59 --> 0:22:46,592
+And it's been argued to be an
+extension of--it's argued to
+
+
+369
+0:22:46,592 --> 0:22:53,24
+underlie certain interesting
+aspects of human responses.
+
+
+370
+0:22:53,24 --> 0:22:56,769
+So, I have some examples here.
+One example is fear.
+
+
+371
+0:22:56,769 --> 0:23:1,18
+So, the Little Albert idea--The
+Little Albert experiment,
+
+
+372
+0:23:1,18 --> 0:23:5,589
+provides an illustration for
+how phobias could emerge.
+
+
+373
+0:23:5,589 --> 0:23:8,63
+Some proportion of people in
+this room have phobias.
+
+
+374
+0:23:8,63 --> 0:23:13,613
+Imagine you're afraid of dogs.
+Well, a possible story for
+
+
+375
+0:23:13,613 --> 0:23:18,16
+the--for why you became afraid
+of dogs is that one day a dog
+
+
+376
+0:23:18,16 --> 0:23:21,32
+came up and he was a neutral
+stimulus.
+
+
+377
+0:23:21,32 --> 0:23:24,779
+No problem.
+And all of a sudden he bit you.
+
+
+378
+0:23:24,779 --> 0:23:28,225
+Now the pain of a bite,
+being bit, and then the pain
+
+
+379
+0:23:28,225 --> 0:23:31,265
+and fear of that is an
+unconditioned stimulus,
+
+
+380
+0:23:31,265 --> 0:23:34,235
+unconditioned response.
+You're just born with that,
+
+
+381
+0:23:34,235 --> 0:23:36,449
+"ow."
+But the presence of the dog
+
+
+382
+0:23:36,449 --> 0:23:40,949
+there is a conditioned stimulus
+and so you grew to be afraid of
+
+
+383
+0:23:40,949 --> 0:23:43,251
+dogs.
+If you believe this,
+
+
+384
+0:23:43,251 --> 0:23:48,157
+this also forms the basis for
+ways for a theory of how you
+
+
+385
+0:23:48,157 --> 0:23:52,374
+could make phobias go away.
+How do you make conditioned
+
+
+386
+0:23:52,374 --> 0:23:55,22
+stimulus, conditioned response
+things go away?
+
+
+387
+0:23:55,22 --> 0:23:58,3
+Well, what you do is you
+extinguish them.
+
+
+388
+0:23:58,3 --> 0:24:1,878
+How do you extinguish them?
+Well, you show the thing that
+
+
+389
+0:24:1,878 --> 0:24:6,101
+would cause you to have the fear
+without the unconditioned
+
+
+390
+0:24:6,101 --> 0:24:9,15
+stimulus.
+Here's an illustration.
+
+
+391
+0:24:9,15 --> 0:24:11,799
+It's a joke.
+Sorry.
+
+
+392
+0:24:11,799 --> 0:24:15,14
+He's simultaneously confronting
+the fear of heights,
+
+
+393
+0:24:15,14 --> 0:24:18,669
+snakes, and the dark because
+he's trapped in that thing and
+
+
+394
+0:24:18,669 --> 0:24:22,1
+the logic is--the logic of--the
+logic is not bad.
+
+
+395
+0:24:22,1 --> 0:24:24,2
+He's stuck in there.
+Those are all the--his
+
+
+396
+0:24:24,2 --> 0:24:27,806
+conditioned stimulus.
+But nothing bad happens so his
+
+
+397
+0:24:27,806 --> 0:24:31,177
+fear goes away.
+The problem with this is while
+
+
+398
+0:24:31,177 --> 0:24:35,583
+he's stuck in there he has this
+screaming, horrific panic attack
+
+
+399
+0:24:35,583 --> 0:24:38,45
+and then it makes his fear much
+worse.
+
+
+400
+0:24:38,45 --> 0:24:41,658
+So, what they do now though,
+and we'll talk about this much
+
+
+401
+0:24:41,658 --> 0:24:45,87
+later in the course when we talk
+about clinical psychology--but
+
+
+402
+0:24:45,87 --> 0:24:47,299
+one cure for phobias does draw
+upon,
+
+
+403
+0:24:47,299 --> 0:24:50,89
+in a more intelligent way,
+the behaviorist literature.
+
+
+404
+0:24:50,89 --> 0:24:55,578
+So, the claim about a phobia is
+that there's a bad association
+
+
+405
+0:24:55,578 --> 0:24:59,881
+between, say dog and fear,
+or between airplanes or snakes
+
+
+406
+0:24:59,881 --> 0:25:3,6
+and some bad response.
+So, what they do is what's
+
+
+407
+0:25:3,6 --> 0:25:6,909
+called, "systematic
+desensitization," which is they
+
+
+408
+0:25:6,909 --> 0:25:10,813
+expose you to what causes you
+the fear but they relax you at
+
+
+409
+0:25:10,813 --> 0:25:14,916
+the same time so you replace the
+aversive classical conditioned
+
+
+410
+0:25:14,916 --> 0:25:17,63
+fear with something more
+positive.
+
+
+411
+0:25:17,63 --> 0:25:20,29
+Traditionally,
+they used to teach people
+
+
+412
+0:25:20,29 --> 0:25:23,289
+relaxation exercises but that
+proves too difficult.
+
+
+413
+0:25:23,289 --> 0:25:26,609
+So nowadays they just pump you
+full of some drug to get you
+
+
+414
+0:25:26,609 --> 0:25:29,871
+really happy and so you're
+really stoned out of your head,
+
+
+415
+0:25:29,871 --> 0:25:34,9
+you're and this isn't so bad.
+It's more complicated than that
+
+
+416
+0:25:34,9 --> 0:25:38,364
+but the notion is you can use
+these associative tools perhaps
+
+
+417
+0:25:38,364 --> 0:25:41,5
+to deal with questions about
+fear,
+
+
+418
+0:25:41,5 --> 0:25:48,95
+phobias and how they go away.
+Hunger.
+
+
+419
+0:25:48,95 --> 0:25:53,89
+We'll spend some time in this
+course discussing why we eat and
+
+
+420
+0:25:53,89 --> 0:25:55,396
+when we eat.
+And one answer to why we eat
+
+
+421
+0:25:55,396 --> 0:25:58,45
+and when we eat is that there's
+cues in the environment that are
+
+
+422
+0:25:58,45 --> 0:26:2,579
+associated with eating.
+And these cues generate hunger.
+
+
+423
+0:26:2,579 --> 0:26:5,787
+For those of you who are trying
+to quit smoking,
+
+
+424
+0:26:5,787 --> 0:26:9,268
+you'll notice that there's
+time--or to quit drinking
+
+
+425
+0:26:9,268 --> 0:26:13,158
+there's times of the day or
+certain activities that really
+
+
+426
+0:26:13,158 --> 0:26:17,39
+make you want to smoke or really
+make you want to drink.
+
+
+427
+0:26:17,39 --> 0:26:21,746
+And from a behaviorist point of
+view this is because of the
+
+
+428
+0:26:21,746 --> 0:26:24,599
+associative history of these
+things.
+
+
+429
+0:26:24,599 --> 0:26:29,211
+More speculatively,
+classical conditioning has been
+
+
+430
+0:26:29,211 --> 0:26:34,468
+argued to be implicated in the
+formation of sexual desire,
+
+
+431
+0:26:34,468 --> 0:26:38,569
+including fetishes.
+So a behaviorist story about
+
+
+432
+0:26:38,569 --> 0:26:41,821
+fetishes, for instance,
+is it's straightforward
+
+
+433
+0:26:41,821 --> 0:26:46,71
+classical conditioning.
+Just as your lover's caress
+
+
+434
+0:26:46,71 --> 0:26:52,586
+brings you to orgasm,
+your eyes happen to fall upon a
+
+
+435
+0:26:52,586 --> 0:26:55,369
+shoe.
+Through the simple tools of
+
+
+436
+0:26:55,369 --> 0:26:59,407
+classical conditioning then,
+the shoe becomes a conditioned
+
+
+437
+0:26:59,407 --> 0:27:3,375
+stimulus giving rise to the
+conditioned response of sexual
+
+
+438
+0:27:3,375 --> 0:27:6,304
+pleasure.
+This almost certainly is not
+
+
+439
+0:27:6,304 --> 0:27:9,444
+the right story but again,
+just as in phobias,
+
+
+440
+0:27:9,444 --> 0:27:13,213
+some ideas of classical
+conditioning may play some role
+
+
+441
+0:27:13,213 --> 0:27:17,75
+in determining what we like and
+what we don't like sexually.
+
+
+442
+0:27:17,75 --> 0:27:20,884
+And in fact,
+one treatment for pedophiles
+
+
+443
+0:27:20,884 --> 0:27:25,82
+and rapists involved controlled
+fantasies during masturbation to
+
+
+444
+0:27:25,82 --> 0:27:30,13
+shift the association from
+domination and violence,
+
+
+445
+0:27:30,13 --> 0:27:33,343
+for instance,
+to develop more positive
+
+
+446
+0:27:33,343 --> 0:27:36,47
+associations with sexual
+pleasure.
+
+
+447
+0:27:36,47 --> 0:27:39,906
+So the strong classical
+conditioning stories about
+
+
+448
+0:27:39,906 --> 0:27:44,43
+fetishes and fears sound silly
+and extreme and they probably
+
+
+449
+0:27:44,43 --> 0:27:47,76
+are but at the same time
+classical conditioning can be
+
+
+450
+0:27:47,76 --> 0:27:51,757
+used at least to shape the focus
+of our desires and of our
+
+
+451
+0:27:51,757 --> 0:27:54,686
+interests.
+Final thought actually is--Oh,
+
+
+452
+0:27:54,686 --> 0:27:55,759
+yeah.
+Okay.
+
+
+453
+0:27:55,759 --> 0:27:58,39
+So, what do we think about
+classical conditioning?
+
+
+454
+0:27:58,39 --> 0:28:0,39
+We talked about what
+habituation is for.
+
+
+455
+0:28:0,39 --> 0:28:1,71
+What's classical conditioning
+for?
+
+
+456
+0:28:1,71 --> 0:28:4,23
+Well, the traditional view is
+it's not for anything.
+
+
+457
+0:28:4,23 --> 0:28:7,517
+It's just association.
+So, what happens is the UCS and
+
+
+458
+0:28:7,517 --> 0:28:11,488
+the CS, the bell and the food,
+go together because they happen
+
+
+459
+0:28:11,488 --> 0:28:14,912
+at the same time.
+And so classical conditioning
+
+
+460
+0:28:14,912 --> 0:28:19,156
+should be the strongest when
+these two are simultaneous and
+
+
+461
+0:28:19,156 --> 0:28:23,839
+the response to one is the same
+as the response to the other.
+
+
+462
+0:28:23,839 --> 0:28:27,42
+This is actually no longer the
+mainstream view.
+
+
+463
+0:28:27,42 --> 0:28:29,75
+The mainstream view is now a
+little bit more interesting.
+
+
+464
+0:28:29,75 --> 0:28:33,257
+It's that what happens in
+classical conditioning is
+
+
+465
+0:28:33,257 --> 0:28:36,46
+preparation.
+What happens is you become
+
+
+466
+0:28:36,46 --> 0:28:41,499
+sensitive to a cue that an event
+is about to happen and that
+
+
+467
+0:28:41,499 --> 0:28:44,83
+allows you to prepare for the
+event.
+
+
+468
+0:28:44,83 --> 0:28:48,795
+This makes certain predictions.
+It predicts that the best
+
+
+469
+0:28:48,795 --> 0:28:52,279
+timing is when the conditioned
+stimulus, which is the signal,
+
+
+470
+0:28:52,279 --> 0:28:55,45
+comes before the unconditioned
+stimulus, which is what you have
+
+
+471
+0:28:55,45 --> 0:28:58,257
+to prepare for.
+And it says the conditioned
+
+
+472
+0:28:58,257 --> 0:29:2,49
+response may be different from
+the unconditioned response.
+
+
+473
+0:29:2,49 --> 0:29:6,388
+So, move away from food.
+Imagine a child who's being
+
+
+474
+0:29:6,388 --> 0:29:10,331
+beaten by his father.
+And when his father raises his
+
+
+475
+0:29:10,331 --> 0:29:13,49
+hand he flinches.
+Well, that's classical
+
+
+476
+0:29:13,49 --> 0:29:16,67
+conditioning.
+What happened in that case is
+
+
+477
+0:29:16,67 --> 0:29:20,799
+he has learned that the raising
+of a hand is a signal that he is
+
+
+478
+0:29:20,799 --> 0:29:24,779
+about to be hit and so he
+responds to that signal.
+
+
+479
+0:29:24,779 --> 0:29:29,24
+His flinch is not the same
+response that one would give if
+
+
+480
+0:29:29,24 --> 0:29:31,75
+one's hit.
+If you're hit, you don't flinch.
+
+
+481
+0:29:31,75 --> 0:29:33,538
+If you're hit,
+you might feel pain or bounce
+
+
+482
+0:29:33,538 --> 0:29:36,387
+back or something.
+Flinching is preparation for
+
+
+483
+0:29:36,387 --> 0:29:38,231
+being hit.
+And, in general,
+
+
+484
+0:29:38,231 --> 0:29:41,976
+the idea of what goes on in
+classical conditioning is that
+
+
+485
+0:29:41,976 --> 0:29:44,67
+the response is sort of a
+preparation.
+
+
+486
+0:29:44,67 --> 0:29:47,589
+The conditioned response is a
+preparation for the
+
+
+487
+0:29:47,589 --> 0:29:50,836
+unconditioned stimulus.
+Classical conditioning shows up
+
+
+488
+0:29:50,836 --> 0:29:53,225
+all over the place.
+As a final exercise,
+
+
+489
+0:29:53,225 --> 0:29:56,604
+and I had to think about
+it--Has anybody here seen the
+
+
+490
+0:29:56,604 --> 0:29:59,579
+movie "Clockwork Orange"?
+A lot of you.
+
+
+491
+0:29:59,579 --> 0:30:3,989
+It's kind of a shocking movie
+and unpleasant and very violent
+
+
+492
+0:30:3,989 --> 0:30:8,325
+but at its core one of the main
+themes is right out of Intro
+
+
+493
+0:30:8,325 --> 0:30:10,589
+Psych.
+It's classical conditioning.
+
+
+494
+0:30:10,589 --> 0:30:14,523
+And a main character,
+who is a violent murderer and
+
+
+495
+0:30:14,523 --> 0:30:19,48
+rapist, is brought in by some
+psychologists for some therapy.
+
+
+496
+0:30:19,48 --> 0:30:22,359
+And the therapy he gets is
+classical conditioning.
+
+
+497
+0:30:22,359 --> 0:30:25,92
+In particular,
+what happens is he is given a
+
+
+498
+0:30:25,92 --> 0:30:28,65
+drug that makes him violently
+ill, extremely nauseous.
+
+
+499
+0:30:28,65 --> 0:30:32,214
+And then his eyes are propped
+open and he's shown scenes of
+
+
+500
+0:30:32,214 --> 0:30:34,955
+violence.
+As a result of this sort of
+
+
+501
+0:30:34,955 --> 0:30:38,322
+conditioning,
+he then – when he experiences
+
+
+502
+0:30:38,322 --> 0:30:42,99
+real world violence – he
+responds with nausea and shock;
+
+
+503
+0:30:42,99 --> 0:30:50,227
+basically, training him to get
+away from these acts of
+
+
+504
+0:30:50,227 --> 0:30:53,9
+violence.
+In this example--Take a moment.
+
+
+505
+0:30:53,9 --> 0:30:55,5
+Don't say it aloud.
+Just take a moment.
+
+
+506
+0:30:55,5 --> 0:30:59,66
+What's the unconditioned
+stimulus?
+
+
+507
+0:30:59,66 --> 0:31:1,238
+Okay.
+Anybody, what's the
+
+
+508
+0:31:1,238 --> 0:31:3,15
+unconditioned stimulus?
+Somebody just say it.
+
+
+509
+0:31:3,15 --> 0:31:8,887
+The drug.
+What's the unconditioned
+
+
+510
+0:31:8,887 --> 0:31:10,98
+response?
+Nausea.
+
+
+511
+0:31:10,98 --> 0:31:14,96
+What's the conditioned stimulus?
+Violence.
+
+
+512
+0:31:14,96 --> 0:31:19,89
+What's the conditioned response?
+Perfect.
+
+
+513
+0:31:19,89 --> 0:31:24,367
+The third and final type of
+learning is known as operant
+
+
+514
+0:31:24,367 --> 0:31:28,589
+conditioning or instrumental
+conditioning.
+
+
+515
+0:31:28,589 --> 0:31:32,981
+And this is the thing,
+this is the theory championed
+
+
+516
+0:31:32,981 --> 0:31:36,769
+and developed most extensively
+by Skinner.
+
+
+517
+0:31:36,769 --> 0:31:41,486
+What this is is learning the
+relationships between what you
+
+
+518
+0:31:41,486 --> 0:31:45,226
+do and how successful or
+unsuccessful they are,
+
+
+519
+0:31:45,226 --> 0:31:48,56
+learning what works and what
+doesn't.
+
+
+520
+0:31:48,56 --> 0:31:50,838
+It's important.
+This is very different from
+
+
+521
+0:31:50,838 --> 0:31:54,71
+classical conditioning and one
+way to see how this is different
+
+
+522
+0:31:54,71 --> 0:31:56,94
+is for classical conditioning
+you don't do anything.
+
+
+523
+0:31:56,94 --> 0:32:1,379
+You could literally be strapped
+down and be immobile and these
+
+
+524
+0:32:1,379 --> 0:32:4,799
+connections are what you
+appreciate and you make
+
+
+525
+0:32:4,799 --> 0:32:8,891
+connections in your mind.
+Instrumental conditioning is
+
+
+526
+0:32:8,891 --> 0:32:12,946
+voluntary.
+You choose to do things and by
+
+
+527
+0:32:12,946 --> 0:32:18,816
+dint of your choices.
+Some choices become more
+
+
+528
+0:32:18,816 --> 0:32:24,4
+learned than others.
+So, the idea itself was
+
+
+529
+0:32:24,4 --> 0:32:29,47
+developed in the nicest form by
+Thorndike who explored how
+
+
+530
+0:32:29,47 --> 0:32:32,755
+animals learn.
+Remember behaviorists were
+
+
+531
+0:32:32,755 --> 0:32:35,83
+entirely comfortable studying
+animals and drawing
+
+
+532
+0:32:35,83 --> 0:32:38,97
+extrapolations to other animals
+and to humans.
+
+
+533
+0:32:38,97 --> 0:32:41,95
+So, he would put a cat in a
+puzzle box.
+
+
+534
+0:32:41,95 --> 0:32:45,924
+And the trick to a puzzle box
+is there's a simple way to get
+
+
+535
+0:32:45,924 --> 0:32:48,955
+out but you have to kind of pull
+on something,
+
+
+536
+0:32:48,955 --> 0:32:51,92
+some special lever,
+to make it pop open.
+
+
+537
+0:32:51,92 --> 0:32:56,427
+And Thorndike noted that cats
+do not solve this problem
+
+
+538
+0:32:56,427 --> 0:33:0,149
+through insight.
+They don't sit in the box for a
+
+
+539
+0:33:0,149 --> 0:33:4,23
+while and mull it over and then
+figure out how to do it.
+
+
+540
+0:33:4,23 --> 0:33:7,501
+Instead, what they do is they
+bounce all around doing
+
+
+541
+0:33:7,501 --> 0:33:11,339
+different things and gradually
+get better and better at it.
+
+
+542
+0:33:11,339 --> 0:33:13,761
+So, what they do is,
+the first time they might
+
+
+543
+0:33:13,761 --> 0:33:15,914
+scratch at the bars,
+push at the ceiling,
+
+
+544
+0:33:15,914 --> 0:33:17,96
+dig at the floor,
+howl, etc., etc.
+
+
+545
+0:33:17,96 --> 0:33:20,269
+And one of their behaviors is
+pressing the lever.
+
+
+546
+0:33:20,269 --> 0:33:23,995
+The lever gets them out of the
+box, but after more and more
+
+
+547
+0:33:23,995 --> 0:33:27,656
+trials they stopped scratching
+at the bars, pushing at the
+
+
+548
+0:33:27,656 --> 0:33:31,42
+ceiling and so on.
+They just pressed the lever.
+
+
+549
+0:33:31,42 --> 0:33:34,866
+And if you graph it,
+they gradually get better and
+
+
+550
+0:33:34,866 --> 0:33:37,51
+better.
+They throw out all of these
+
+
+551
+0:33:37,51 --> 0:33:41,42
+behaviors randomly.
+Some of them get reinforced and
+
+
+552
+0:33:41,42 --> 0:33:46,26
+those are the ones that survive
+and others don't get reinforced
+
+
+553
+0:33:46,26 --> 0:33:49,539
+and those are the ones that go
+extinct.
+
+
+554
+0:33:49,539 --> 0:33:53,418
+And it might occur to some of
+you that this seems to be an
+
+
+555
+0:33:53,418 --> 0:33:57,23
+analogy with the Darwinian
+theory of natural selection
+
+
+556
+0:33:57,23 --> 0:34:0,97
+where there's a random
+assortment of random mutations.
+
+
+557
+0:34:0,97 --> 0:34:4,612
+And sexual selections give rise
+to a host of organisms,
+
+
+558
+0:34:4,612 --> 0:34:8,659
+some of which survive and are
+fit and others which aren't.
+
+
+559
+0:34:8,659 --> 0:34:12,144
+And in fact,
+Skinner explicitly made the
+
+
+560
+0:34:12,144 --> 0:34:16,701
+analogy from the natural
+selection of species to the
+
+
+561
+0:34:16,701 --> 0:34:21,965
+natural selection of behavior.
+So this could be summarized as
+
+
+562
+0:34:21,965 --> 0:34:25,526
+the law of effect,
+which is a tendency to perform
+
+
+563
+0:34:25,526 --> 0:34:30,199
+– an action's increased if
+rewarded, weakened if it's not.
+
+
+564
+0:34:30,199 --> 0:34:34,329
+And Skinner extended this more
+generally.
+
+
+565
+0:34:34,329 --> 0:34:39,643
+So, to illustrate Skinnerian
+theory in operant conditioning
+
+
+566
+0:34:39,643 --> 0:34:43,4
+I'll give an example of training
+a pig.
+
+
+567
+0:34:43,4 --> 0:34:47,699
+So here is the idea.
+You need to train a pig and you
+
+
+568
+0:34:47,699 --> 0:34:51,969
+need to do so through operant
+conditioning.
+
+
+569
+0:34:51,969 --> 0:34:55,614
+So one of the things you want
+to do is--The pig is going to do
+
+
+570
+0:34:55,614 --> 0:34:58,84
+some things you like and some
+things you don't like.
+
+
+571
+0:34:58,84 --> 0:35:3,47
+And so what you want to do,
+basically drawing upon the law
+
+
+572
+0:35:3,47 --> 0:35:8,19
+of effect, is reinforce the pig
+for doing good things.
+
+
+573
+0:35:8,19 --> 0:35:10,23
+Suppose you want the pig to
+walk forward.
+
+
+574
+0:35:10,23 --> 0:35:14,137
+So, you reinforce the pig for
+walking forward and you punish
+
+
+575
+0:35:14,137 --> 0:35:18,73
+the pig for walking backward.
+And if you do that over the
+
+
+576
+0:35:18,73 --> 0:35:20,793
+fullness of time,
+your reinforcement and
+
+
+577
+0:35:20,793 --> 0:35:24,699
+punishment will give rise to a
+pig who walks forward.
+
+
+578
+0:35:24,699 --> 0:35:28,448
+There's two--One technical
+distinction that people love to
+
+
+579
+0:35:28,448 --> 0:35:32,59
+put on Intro Psych exams is that
+the difference between positive
+
+
+580
+0:35:32,59 --> 0:35:35,55
+reinforcement and negative
+reinforcement.
+
+
+581
+0:35:35,55 --> 0:35:40,46
+Reinforcement is something that
+makes the behavior increase.
+
+
+582
+0:35:40,46 --> 0:35:44,51
+Negative reinforcement is very
+different from punishment.
+
+
+583
+0:35:44,51 --> 0:35:47,179
+Negative reinforcement is just
+a type of reward.
+
+
+584
+0:35:47,179 --> 0:35:51,329
+The difference is in positive
+reinforcement you do something;
+
+
+585
+0:35:51,329 --> 0:35:55,369
+in negative reinforcement you
+take away something aversive.
+
+
+586
+0:35:55,369 --> 0:35:59,5
+So, imagine the pig has a heavy
+collar and to reward the pig for
+
+
+587
+0:35:59,5 --> 0:36:2,909
+walking forward you might remove
+the heavy collar.
+
+
+588
+0:36:2,909 --> 0:36:7,61
+So, these are the basic
+techniques to train an animal.
+
+
+589
+0:36:7,61 --> 0:36:11,836
+But it's kind of silly because
+suppose you want your pig to
+
+
+590
+0:36:11,836 --> 0:36:14,211
+dance.
+You don't just want your pig to
+
+
+591
+0:36:14,211 --> 0:36:17,5
+walk forward.
+You want your pig to dance.
+
+
+592
+0:36:17,5 --> 0:36:21,503
+Well, you can't adopt the
+policy of "I'm going to wait for
+
+
+593
+0:36:21,503 --> 0:36:25,717
+this pig to dance and when it
+does I'm going to reinforce it"
+
+
+594
+0:36:25,717 --> 0:36:29,369
+because it's going to take you a
+very long time.
+
+
+595
+0:36:29,369 --> 0:36:33,673
+Similarly, if you're dealing
+with immature humans and you
+
+
+596
+0:36:33,673 --> 0:36:36,44
+want your child to get you a
+beer,
+
+
+597
+0:36:36,44 --> 0:36:39,806
+you can't just sit,
+wait for the kid to give you a
+
+
+598
+0:36:39,806 --> 0:36:42,28
+beer and uncap the bottle and
+say,
+
+
+599
+0:36:42,28 --> 0:36:43,51
+"Excellent.
+Good.
+
+
+600
+0:36:43,51 --> 0:36:47,996
+Hugs."
+You've got to work your way to
+
+
+601
+0:36:47,996 --> 0:36:50,406
+it.
+And the act of working your way
+
+
+602
+0:36:50,406 --> 0:36:55,671
+to it is known as shaping.
+So, here is how to get a pig to
+
+
+603
+0:36:55,671 --> 0:36:58,335
+dance.
+You wait for the pig to do
+
+
+604
+0:36:58,335 --> 0:37:2,511
+something that's halfway close
+to dancing, like stumbling,
+
+
+605
+0:37:2,511 --> 0:37:5,709
+and you reward it.
+Then it does something else
+
+
+606
+0:37:5,709 --> 0:37:8,719
+that's even closer to dancing
+and you reward it.
+
+
+607
+0:37:8,719 --> 0:37:12,389
+And you keep rewarding it as it
+gets closer to closer.
+
+
+608
+0:37:12,389 --> 0:37:16,19
+Here's how to get your child to
+bring you some beer.
+
+
+609
+0:37:16,19 --> 0:37:19,84
+You say, "Johnny,
+could you go to the kitchen and
+
+
+610
+0:37:19,84 --> 0:37:21,653
+get me some beer?"
+And he walks to the kitchen and
+
+
+611
+0:37:21,653 --> 0:37:24,3
+then he forgets why he's there
+and you run out there.
+
+
+612
+0:37:24,3 --> 0:37:25,56
+"You're such a good kid.
+Congratulations.
+
+
+613
+0:37:25,56 --> 0:37:28,631
+Hugs."
+And then you get him to--and
+
+
+614
+0:37:28,631 --> 0:37:32,453
+then finally you get him to also
+open up the refrigerator and get
+
+
+615
+0:37:32,453 --> 0:37:34,167
+the beer,
+open the door,
+
+
+616
+0:37:34,167 --> 0:37:37,942
+get the--and in that way you
+can train creatures to do
+
+
+617
+0:37:37,942 --> 0:37:41,544
+complicated things.
+Skinner had many examples of
+
+
+618
+0:37:41,544 --> 0:37:43,257
+this.
+Skinner developed,
+
+
+619
+0:37:43,257 --> 0:37:46,239
+in World War II,
+a pigeon guided missile.
+
+
+620
+0:37:46,239 --> 0:37:50,449
+It was never actually used but
+it was a great idea.
+
+
+621
+0:37:50,449 --> 0:37:54,252
+And people, in fact--The
+history of the military in the
+
+
+622
+0:37:54,252 --> 0:37:57,772
+United States and other
+countries includes a lot of
+
+
+623
+0:37:57,772 --> 0:38:1,504
+attempts to get animals like
+pigeons or dolphins to do
+
+
+624
+0:38:1,504 --> 0:38:5,8
+interesting and deadly things
+through various training.
+
+
+625
+0:38:5,8 --> 0:38:8,771
+More recreational,
+Skinner was fond of teaching
+
+
+626
+0:38:8,771 --> 0:38:11,917
+animals to play Ping-Pong.
+And again, you don't teach an
+
+
+627
+0:38:11,917 --> 0:38:14,637
+animal to play Ping-Pong by
+waiting for it to play Ping-Pong
+
+
+628
+0:38:14,637 --> 0:38:19,511
+and then rewarding it.
+Rather, you reward
+
+
+629
+0:38:19,511 --> 0:38:24,828
+approximations to it.
+And basically,
+
+
+630
+0:38:24,828 --> 0:38:28,639
+there are primary reinforcers.
+There are some things pigs
+
+
+631
+0:38:28,639 --> 0:38:31,48
+naturally like,
+food for instance.
+
+
+632
+0:38:31,48 --> 0:38:34,554
+There are some things pigs
+actually automatically don't
+
+
+633
+0:38:34,554 --> 0:38:38,159
+like, like being hit or shocked.
+But in the real world when
+
+
+634
+0:38:38,159 --> 0:38:41,113
+dealing with humans,
+but even when dealing with
+
+
+635
+0:38:41,113 --> 0:38:43,783
+animals,
+we don't actually always use
+
+
+636
+0:38:43,783 --> 0:38:46,94
+primary reinforcers or negative
+reinforcers.
+
+
+637
+0:38:46,94 --> 0:38:51,396
+What we often use are things
+like--for my dog saying,
+
+
+638
+0:38:51,396 --> 0:38:54,82
+"Good dog."
+Now, saying "Good dog" is not
+
+
+639
+0:38:54,82 --> 0:38:58,327
+something your dog has been
+built, pre-wired,
+
+
+640
+0:38:58,327 --> 0:39:2,398
+to find pleasurable.
+But what happens is you can do
+
+
+641
+0:39:2,398 --> 0:39:5,676
+a two-step process.
+You can make "Good dog"
+
+
+642
+0:39:5,676 --> 0:39:8,86
+positive through classical
+conditioning.
+
+
+643
+0:39:8,86 --> 0:39:11,929
+You give the dog a treat and
+say, "Good dog."
+
+
+644
+0:39:11,929 --> 0:39:16,3
+Now the phrase "good dog" will
+carry the rewarding quality.
+
+
+645
+0:39:16,3 --> 0:39:19,188
+And you could use that
+rewarding quality in order to
+
+
+646
+0:39:19,188 --> 0:39:21,364
+train it.
+And through this way
+
+
+647
+0:39:21,364 --> 0:39:25,624
+behaviorists have developed
+token economies where they get
+
+
+648
+0:39:25,624 --> 0:39:29,66
+nonhuman animals to do
+interesting things for seemingly
+
+
+649
+0:39:29,66 --> 0:39:32,65
+arbitrary rewards like poker
+chips.
+
+
+650
+0:39:32,65 --> 0:39:38,15
+And in this way you can
+increase the utility and ease of
+
+
+651
+0:39:38,15 --> 0:39:42,5
+training.
+Finally, in the examples we're
+
+
+652
+0:39:42,5 --> 0:39:47,608
+giving, whenever the pig does
+something you like you reinforce
+
+
+653
+0:39:47,608 --> 0:39:50,936
+it.
+But that's not how real life
+
+
+654
+0:39:50,936 --> 0:39:53,742
+works.
+Real life for both humans and
+
+
+655
+0:39:53,742 --> 0:39:58,403
+animals involved cases where the
+reinforcement doesn't happen all
+
+
+656
+0:39:58,403 --> 0:40:2,117
+the time but actually happens
+according to different
+
+
+657
+0:40:2,117 --> 0:40:4,599
+schedules.
+And so, there is the
+
+
+658
+0:40:4,599 --> 0:40:8,213
+distinction between fixed
+schedules versus ratios –
+
+
+659
+0:40:8,213 --> 0:40:11,55
+variable schedules and ratio
+versus interval.
+
+
+660
+0:40:11,55 --> 0:40:13,599
+And this is something you could
+print out to look at.
+
+
+661
+0:40:13,599 --> 0:40:15,42
+I don't need to go over it in
+detail.
+
+
+662
+0:40:15,42 --> 0:40:20,692
+The difference between ratio is
+a reward every certain number of
+
+
+663
+0:40:20,692 --> 0:40:26,102
+times somebody does something.
+So, if every tenth time your
+
+
+664
+0:40:26,102 --> 0:40:31,86
+dog brought you the newspaper
+you gave it hugs and treats;
+
+
+665
+0:40:31,86 --> 0:40:35,452
+that's ratio.
+An interval is over a period of
+
+
+666
+0:40:35,452 --> 0:40:38,177
+time.
+So, if your dog gives you--if
+
+
+667
+0:40:38,177 --> 0:40:42,253
+your dog, I don't know,
+dances for an hour straight,
+
+
+668
+0:40:42,253 --> 0:40:45,5
+that would be an interval
+thing.
+
+
+669
+0:40:45,5 --> 0:40:49,548
+And fixed versus variable
+speaks to whether you give a
+
+
+670
+0:40:49,548 --> 0:40:52,927
+reward on a fixed schedule,
+every fifth time,
+
+
+671
+0:40:52,927 --> 0:40:55,88
+or variable,
+sometimes on the third time,
+
+
+672
+0:40:55,88 --> 0:40:57,94
+sometimes on the seventh time,
+and so on.
+
+
+673
+0:40:57,94 --> 0:41:0,803
+And these are--There are
+examples here and there's no
+
+
+674
+0:41:0,803 --> 0:41:3,799
+need to go over them.
+It's easy enough to think of
+
+
+675
+0:41:3,799 --> 0:41:7,696
+examples in real life.
+So, for example,
+
+
+676
+0:41:7,696 --> 0:41:12,96
+a slot machine is variable
+ratio.
+
+
+677
+0:41:12,96 --> 0:41:16,829
+It goes off after it's been hit
+a certain number of times.
+
+
+678
+0:41:16,829 --> 0:41:19,289
+It doesn't matter how long it
+takes you for--to do it.
+
+
+679
+0:41:19,289 --> 0:41:21,659
+It's the number of times you
+pull it down.
+
+
+680
+0:41:21,659 --> 0:41:24,49
+But it's variable because it
+doesn't always go off on the
+
+
+681
+0:41:24,49 --> 0:41:26,31
+thousandth time.
+You don't know.
+
+
+682
+0:41:26,31 --> 0:41:30,609
+It's unpredictable.
+The slot machine is a good
+
+
+683
+0:41:30,609 --> 0:41:35,777
+example of a phenomena known as
+the partial reinforcement
+
+
+684
+0:41:35,777 --> 0:41:38,219
+effect.
+And this is kind of neat.
+
+
+685
+0:41:38,219 --> 0:41:42,1
+It makes sense when you hear it
+but it's the sort of finding
+
+
+686
+0:41:42,1 --> 0:41:45,849
+that's been validated over and
+over again with animals and
+
+
+687
+0:41:45,849 --> 0:41:49,179
+nonhumans.
+Here's the idea.
+
+
+688
+0:41:49,179 --> 0:41:52,808
+Suppose you want to train
+somebody to do something and you
+
+
+689
+0:41:52,808 --> 0:41:56,564
+want the training such that
+they'll keep on doing it even if
+
+
+690
+0:41:56,564 --> 0:41:58,92
+you're not training them
+anymore,
+
+
+691
+0:41:58,92 --> 0:42:1,5
+which is typically what you
+want.
+
+
+692
+0:42:1,5 --> 0:42:6,695
+If you want that,
+the trick is don't reinforce it
+
+
+693
+0:42:6,695 --> 0:42:10,244
+all the time.
+Behaviors last longer if
+
+
+694
+0:42:10,244 --> 0:42:13,961
+they're reinforced
+intermittently and this is known
+
+
+695
+0:42:13,961 --> 0:42:17,1
+as "the partial reinforcement
+effect."
+
+
+696
+0:42:17,1 --> 0:42:19,156
+Thinking of this
+psychologically,
+
+
+697
+0:42:19,156 --> 0:42:22,981
+it's as if whenever you put
+something in a slot machine it
+
+
+698
+0:42:22,981 --> 0:42:25,53
+gave you money,
+then all of a sudden it
+
+
+699
+0:42:25,53 --> 0:42:28,139
+stopped.
+You keep on doing it a few
+
+
+700
+0:42:28,139 --> 0:42:30,13
+times but then you say,
+"Fine.
+
+
+701
+0:42:30,13 --> 0:42:33,651
+It doesn't work," but what if
+it gave you money one out of
+
+
+702
+0:42:33,651 --> 0:42:37,517
+every hundred times?
+Now you keep on trying and
+
+
+703
+0:42:37,517 --> 0:42:43,304
+because the reinforcement is
+intermittent you don't expect it
+
+
+704
+0:42:43,304 --> 0:42:49,91
+as much and so your behavior
+will persist across often a huge
+
+
+705
+0:42:49,91 --> 0:42:52,559
+amount of time.
+Here's a good example.
+
+
+706
+0:42:52,559 --> 0:42:57,144
+What's the very worst thing to
+do when your kid cries to go
+
+
+707
+0:42:57,144 --> 0:43:1,807
+into bed with you and you don't
+want him to go into bed with
+
+
+708
+0:43:1,807 --> 0:43:4,411
+you?
+Well, one--The worst thing to
+
+
+709
+0:43:4,411 --> 0:43:8,15
+do is for any--Actually,
+for any form of discipline with
+
+
+710
+0:43:8,15 --> 0:43:10,87
+a kid is to say,
+"No, absolutely not.
+
+
+711
+0:43:10,87 --> 0:43:15,61
+No, no, no, no."
+"Okay."
+
+
+712
+0:43:15,61 --> 0:43:19,269
+And then later on the kid's
+going to say,
+
+
+713
+0:43:19,269 --> 0:43:24,941
+"I want to do it again" and you
+say no and the kid keeps asking
+
+
+714
+0:43:24,941 --> 0:43:28,288
+because you've put it,
+well, put it as in a
+
+
+715
+0:43:28,288 --> 0:43:30,515
+psychological way,
+not the way the behaviorists
+
+
+716
+0:43:30,515 --> 0:43:32,18
+would put it.
+The kid knows okay,
+
+
+717
+0:43:32,18 --> 0:43:34,851
+he's not going to get it right
+away, he's going to keep on
+
+
+718
+0:43:34,851 --> 0:43:36,538
+asking.
+And so typically,
+
+
+719
+0:43:36,538 --> 0:43:40,84
+what you're doing inadvertently
+in those situations is you're
+
+
+720
+0:43:40,84 --> 0:43:44,21
+exploiting the partial
+reinforcement effect.
+
+
+721
+0:43:44,21 --> 0:43:47,675
+If I want my kid to do
+something, I should say yes one
+
+
+722
+0:43:47,675 --> 0:43:50,623
+out of every ten times.
+Unfortunately,
+
+
+723
+0:43:50,623 --> 0:43:53,719
+that's the evolution of
+nagging.
+
+
+724
+0:43:53,719 --> 0:43:57,379
+Because you nag,
+you nag, you nag,
+
+
+725
+0:43:57,379 --> 0:44:1,593
+the person says,
+"Fine, okay," and that
+
+
+726
+0:44:1,593 --> 0:44:5,816
+reinforces it.
+If Skinner kept the focus on
+
+
+727
+0:44:5,816 --> 0:44:10,11
+rats and pigeons and dogs,
+he would not have the impact
+
+
+728
+0:44:10,11 --> 0:44:14,801
+that he did but he argued that
+you could extend all of these
+
+
+729
+0:44:14,801 --> 0:44:18,38
+notions to humans and to human
+behavior.
+
+
+730
+0:44:18,38 --> 0:44:21,714
+So for an example,
+he argued that the prison
+
+
+731
+0:44:21,714 --> 0:44:26,134
+system needs to be reformed
+because instead of focusing on
+
+
+732
+0:44:26,134 --> 0:44:30,321
+notions of justice and
+retribution what we should do is
+
+
+733
+0:44:30,321 --> 0:44:34,896
+focus instead on questions of
+reinforcing good behaviors and
+
+
+734
+0:44:34,896 --> 0:44:39,25
+punishing bad ones.
+He argued for the notions of
+
+
+735
+0:44:39,25 --> 0:44:43,69
+operant conditioning to be
+extended to everyday life and
+
+
+736
+0:44:43,69 --> 0:44:48,49
+argued that people's lives would
+become fuller and more
+
+
+737
+0:44:48,49 --> 0:44:51,843
+satisfying if they were
+controlled in a properly
+
+
+738
+0:44:51,843 --> 0:44:55,37
+behaviorist way.
+Any questions about behaviorism?
+
+
+739
+0:44:55,37 --> 0:45:1,679
+
+
+
+740
+0:45:1,679 --> 0:45:3,6
+What are your questions about
+behaviorism?
+
+
+741
+0:45:3,6 --> 0:45:12,54
+
+
+
+742
+0:45:12,54 --> 0:45:16,53
+[laughter] Yes.
+Student:
+
+
+743
+0:45:16,53 --> 0:45:20,21
+[inaudible]--wouldn't there be
+extinction after a while?
+
+
+744
+0:45:20,21 --> 0:45:20,89
+[inaudible]
+Professor Paul Bloom:
+
+
+745
+0:45:20,89 --> 0:45:23,312
+Good question.
+The discussion was over using
+
+
+746
+0:45:23,312 --> 0:45:27,523
+things like poker chips for
+reinforcement and the point is
+
+
+747
+0:45:27,523 --> 0:45:29,903
+exactly right.
+Since the connection with the
+
+
+748
+0:45:29,903 --> 0:45:32,19
+poker chips is established
+through classical conditioning,
+
+
+749
+0:45:32,19 --> 0:45:36,151
+sooner or later by that logic
+the poker chips would lose their
+
+
+750
+0:45:36,151 --> 0:45:40,684
+power to serve as reinforcers.
+You'd have to sort of start it
+
+
+751
+0:45:40,684 --> 0:45:44,453
+up again, retrain again.
+If you have a dog and you say
+
+
+752
+0:45:44,453 --> 0:45:47,1
+"Good dog" to reward the dog,
+by your logic,
+
+
+753
+0:45:47,1 --> 0:45:49,265
+which is right,
+at some point you might as well
+
+
+754
+0:45:49,265 --> 0:45:51,99
+give the dog a treat along with
+the "Good dog."
+
+
+755
+0:45:51,99 --> 0:45:53,44
+Otherwise, "Good dog" is not
+going to cut it anymore.
+
+
+756
+0:45:53,44 --> 0:45:59,17
+
+
+
+757
+0:45:59,17 --> 0:46:1,703
+Yes.
+Student:
+
+
+758
+0:46:1,703 --> 0:46:4,182
+[inaudible]
+Professor Paul Bloom:
+
+
+759
+0:46:4,182 --> 0:46:6,662
+As far as I know,
+Skinner and Skinnerian
+
+
+760
+0:46:6,662 --> 0:46:9,713
+psychologists were never
+directly involved in the
+
+
+761
+0:46:9,713 --> 0:46:12,465
+creation of prisons.
+On the other hand,
+
+
+762
+0:46:12,465 --> 0:46:15,514
+the psychological theory of
+behaviorism has had a huge
+
+
+763
+0:46:15,514 --> 0:46:18,85
+impact and I think a lot of
+people's ways of thinking about
+
+
+764
+0:46:18,85 --> 0:46:21,784
+criminal justice and criminal
+law has been shaped by
+
+
+765
+0:46:21,784 --> 0:46:24,606
+behaviorist principles.
+So for instance,
+
+
+766
+0:46:24,606 --> 0:46:28,238
+institutions like mental
+institutions and some prisons
+
+
+767
+0:46:28,238 --> 0:46:32,35
+have installed token economies
+where there's rewards for good
+
+
+768
+0:46:32,35 --> 0:46:34,9
+behavior,
+often poker chips of a sort.
+
+
+769
+0:46:34,9 --> 0:46:36,98
+And then you could cash them in
+for other things.
+
+
+770
+0:46:36,98 --> 0:46:40,613
+And, to some extent,
+these have been shaped by an
+
+
+771
+0:46:40,613 --> 0:46:43,49
+adherence to behaviorist
+principles.
+
+
+772
+0:46:43,49 --> 0:46:52,371
+Okay.
+So, here are the three general
+
+
+773
+0:46:52,371 --> 0:46:57,872
+positions of behaviorism.
+(1) That there is no innate
+
+
+774
+0:46:57,872 --> 0:47:0,32
+knowledge.
+All you need is learning.
+
+
+775
+0:47:0,32 --> 0:47:4,683
+(2) That you could explain
+human psychology without mental
+
+
+776
+0:47:4,683 --> 0:47:9,76
+notions like desires and goals.
+(3) And that these mechanisms
+
+
+777
+0:47:9,76 --> 0:47:12,23
+apply across all domains and
+across all species.
+
+
+778
+0:47:12,23 --> 0:47:15,309
+
+
+
+779
+0:47:15,309 --> 0:47:19,87
+I think it's fair to say that
+right now just about everybody
+
+
+780
+0:47:19,87 --> 0:47:22,159
+agrees all of these three claims
+are mistaken.
+
+
+781
+0:47:22,159 --> 0:47:28,15
+First, we know that it's not
+true that everything is learned.
+
+
+782
+0:47:28,15 --> 0:47:31,465
+There is considerable evidence
+for different forms of innate
+
+
+783
+0:47:31,465 --> 0:47:35,62
+knowledge and innate desires and
+we'll look--and we'll talk about
+
+
+784
+0:47:35,62 --> 0:47:38,97
+it in detail when we look at
+case studies like language
+
+
+785
+0:47:38,97 --> 0:47:40,655
+learning,
+the development of sexual
+
+
+786
+0:47:40,655 --> 0:47:44,155
+preference, the developing
+understanding of material
+
+
+787
+0:47:44,155 --> 0:47:46,98
+objects.
+There's a lot of debate over
+
+
+788
+0:47:46,98 --> 0:47:51,638
+how much is innate and what the
+character of the built-in mental
+
+
+789
+0:47:51,638 --> 0:47:55,779
+systems are but there's nobody
+who doubts nowadays that a
+
+
+790
+0:47:55,779 --> 0:48:0,659
+considerable amount for humans
+and other animals is built-in.
+
+
+791
+0:48:0,659 --> 0:48:4,869
+Is it true that talking about
+mental states is unscientific?
+
+
+792
+0:48:4,869 --> 0:48:9,39
+Nobody believes this anymore
+either.
+
+
+793
+0:48:9,39 --> 0:48:12,596
+Science, particularly more
+advanced sciences like physics
+
+
+794
+0:48:12,596 --> 0:48:15,389
+or chemistry,
+are all about unobservables.
+
+
+795
+0:48:15,389 --> 0:48:18,619
+They're all about things you
+can't see.
+
+
+796
+0:48:18,619 --> 0:48:23,573
+And it makes sense to explain
+complex and intelligent behavior
+
+
+797
+0:48:23,573 --> 0:48:28,69
+in terms of internal mechanisms
+and internal representations.
+
+
+798
+0:48:28,69 --> 0:48:32,902
+Once again, the computer
+revolution has served as an
+
+
+799
+0:48:32,902 --> 0:48:36,559
+illustrative case study.
+If you have a computer that
+
+
+800
+0:48:36,559 --> 0:48:39,746
+plays chess and you want to
+explain how the computer plays
+
+
+801
+0:48:39,746 --> 0:48:42,372
+chess,
+it's impossible to do so
+
+
+802
+0:48:42,372 --> 0:48:47,235
+without talking about the
+programs and mechanisms inside
+
+
+803
+0:48:47,235 --> 0:48:50,275
+the computer.
+Is it true that animals need
+
+
+804
+0:48:50,275 --> 0:48:52,539
+reinforcement and punishment to
+learn?
+
+
+805
+0:48:52,539 --> 0:48:56,1
+No, and there's several
+demonstrations at the time of
+
+
+806
+0:48:56,1 --> 0:48:58,48
+Skinner suggesting that they
+don't.
+
+
+807
+0:48:58,48 --> 0:49:4,0
+This is from a classic study by
+Tolman where rats were taught to
+
+
+808
+0:49:4,0 --> 0:49:6,785
+run a maze.
+And what they found was the
+
+
+809
+0:49:6,785 --> 0:49:9,589
+rats did fine.
+They learn to run a maze faster
+
+
+810
+0:49:9,589 --> 0:49:12,941
+and faster when they're
+regularly rewarded but they also
+
+
+811
+0:49:12,941 --> 0:49:16,658
+learn to run a maze faster and
+faster if they are not rewarded
+
+
+812
+0:49:16,658 --> 0:49:19,819
+at all.
+So the reward helps,
+
+
+813
+0:49:19,819 --> 0:49:24,8
+but the reward is in no sense
+necessary.
+
+
+814
+0:49:24,8 --> 0:49:29,59
+And here's a more sophisticated
+illustration of the same point.
+
+
+815
+0:49:29,59 --> 0:49:32,685
+Professor Paul Bloom:
+And this is the sort of
+
+
+816
+0:49:32,685 --> 0:49:36,949
+finding, an old finding from
+before most of you were born,
+
+
+817
+0:49:36,949 --> 0:49:40,94
+that was a huge embarrassment
+for the Skinnerian theory,
+
+
+818
+0:49:40,94 --> 0:49:44,639
+as it suggests that rats in
+fact had mental maps,
+
+
+819
+0:49:44,639 --> 0:49:48,848
+an internal mechanism that they
+used to understand the world –
+
+
+820
+0:49:48,848 --> 0:49:52,254
+entirely contrary to the
+behaviorist idea everything
+
+
+821
+0:49:52,254 --> 0:49:56,53
+could be explained in terms of
+reinforcement and punishment.
+
+
+822
+0:49:56,53 --> 0:49:59,854
+Finally, is it true that
+there's no animal-specific
+
+
+823
+0:49:59,854 --> 0:50:3,134
+constraints for learning?
+And again, the answer seems to
+
+
+824
+0:50:3,134 --> 0:50:5,426
+be "no."
+Animals, for instance,
+
+
+825
+0:50:5,426 --> 0:50:9,757
+have natural responses.
+So, you could train a pigeon to
+
+
+826
+0:50:9,757 --> 0:50:14,94
+peck for food but that's because
+pecking for food is a very
+
+
+827
+0:50:14,94 --> 0:50:17,929
+natural response.
+It's very difficult to train it
+
+
+828
+0:50:17,929 --> 0:50:22,12
+to peck to escape a situation.
+You can train it to flap its
+
+
+829
+0:50:22,12 --> 0:50:26,285
+wings to escape a situation but
+it's very difficult to get it to
+
+
+830
+0:50:26,285 --> 0:50:29,7
+flap its wings for food.
+And the idea is they have sort
+
+
+831
+0:50:29,7 --> 0:50:32,743
+of natural responses that these
+learning situations might
+
+
+832
+0:50:32,743 --> 0:50:35,612
+exploit and might channel,
+but essentially,
+
+
+833
+0:50:35,612 --> 0:50:39,973
+they do have certain natural
+ways of acting towards the
+
+
+834
+0:50:39,973 --> 0:50:43,454
+world.
+We know that not all stimuli
+
+
+835
+0:50:43,454 --> 0:50:49,56
+and responses are created equal.
+So, the Gray textbook has a
+
+
+836
+0:50:49,56 --> 0:50:52,809
+very nice discussion of the
+Garcia effect.
+
+
+837
+0:50:52,809 --> 0:50:56,26
+And the Garcia effect goes like
+this.
+
+
+838
+0:50:56,26 --> 0:51:0,559
+Does anybody here have any food
+aversions?
+
+
+839
+0:51:0,559 --> 0:51:2,44
+I don't mean foods you don't
+like.
+
+
+840
+0:51:2,44 --> 0:51:7,53
+I mean foods that really make
+you sick.
+
+
+841
+0:51:7,53 --> 0:51:12,974
+Often food aversions in humans
+and other animals can be formed
+
+
+842
+0:51:12,974 --> 0:51:17,683
+through a form of association.
+What happens is suppose you
+
+
+843
+0:51:17,683 --> 0:51:21,665
+have the flu and you get very
+nauseous and then at the same
+
+
+844
+0:51:21,665 --> 0:51:25,3
+point you eat some sashimi for
+the first time.
+
+
+845
+0:51:25,3 --> 0:51:28,765
+The connection between being
+nauseous and eating a new food
+
+
+846
+0:51:28,765 --> 0:51:31,611
+is very potent.
+And even if you know
+
+
+847
+0:51:31,611 --> 0:51:36,953
+intellectually full well that
+the sashimi isn't why you became
+
+
+848
+0:51:36,953 --> 0:51:42,469
+nauseous, still you'll develop
+an aversion to this new food.
+
+
+849
+0:51:42,469 --> 0:51:48,373
+When I was younger – when I
+was a teenager – I drank this
+
+
+850
+0:51:48,373 --> 0:51:51,619
+Greek liqueur,
+ouzo, with beer.
+
+
+851
+0:51:51,619 --> 0:51:55,61
+I didn't have the flu at the
+time but I became violently ill.
+
+
+852
+0:51:55,61 --> 0:52:1,0
+And as a result I cannot abide
+the smell of that Greek liqueur.
+
+
+853
+0:52:1,0 --> 0:52:5,274
+Now, thank God it didn't
+develop into an aversion to beer
+
+
+854
+0:52:5,274 --> 0:52:7,869
+but-- [laughter]
+Small miracles.
+
+
+855
+0:52:7,869 --> 0:52:11,692
+But the smell is very
+distinctive and for me--was new
+
+
+856
+0:52:11,692 --> 0:52:13,811
+to me.
+And so, through the Garcia
+
+
+857
+0:52:13,811 --> 0:52:16,5
+effect I developed a strong
+aversion.
+
+
+858
+0:52:16,5 --> 0:52:19,821
+What's interesting though is
+the aversion is special so if
+
+
+859
+0:52:19,821 --> 0:52:23,922
+you take an animal and you give
+it a new food and then you give
+
+
+860
+0:52:23,922 --> 0:52:27,76
+it a drug to make it nauseous it
+will avoid that food.
+
+
+861
+0:52:27,76 --> 0:52:32,102
+But if you take an animal and
+you give it a new food and then
+
+
+862
+0:52:32,102 --> 0:52:36,3
+you shock it very painfully it
+won't avoid the new food.
+
+
+863
+0:52:36,3 --> 0:52:39,714
+And the idea is that a
+connection between what
+
+
+864
+0:52:39,714 --> 0:52:43,28
+something tastes and getting
+sick is natural.
+
+
+865
+0:52:43,28 --> 0:52:47,155
+We are hard wired to say, "Look.
+If I'm going to eat a new food
+
+
+866
+0:52:47,155 --> 0:52:50,659
+and I'm going to get nauseous,
+I'm going to avoid that food."
+
+
+867
+0:52:50,659 --> 0:52:55,78
+The Garcia effect is that this
+is special to taste and nausea.
+
+
+868
+0:52:55,78 --> 0:52:58,199
+It doesn't extend more
+generally.
+
+
+869
+0:52:58,199 --> 0:53:2,564
+Finally, I talked about phobias
+and I'll return to phobias later
+
+
+870
+0:53:2,564 --> 0:53:6,324
+on in this course.
+But the claim that people have
+
+
+871
+0:53:6,324 --> 0:53:11,73
+formed their phobias through
+classical conditioning is almost
+
+
+872
+0:53:11,73 --> 0:53:13,954
+always wrong.
+Instead, it turns out that
+
+
+873
+0:53:13,954 --> 0:53:17,929
+there are certain phobias that
+we're specially evolved to have.
+
+
+874
+0:53:17,929 --> 0:53:21,845
+So, both humans and
+chimpanzees, for instance,
+
+
+875
+0:53:21,845 --> 0:53:26,369
+are particularly prone to
+develop fears of snakes.
+
+
+876
+0:53:26,369 --> 0:53:29,659
+And when we talk about the
+emotions later on in the course
+
+
+877
+0:53:29,659 --> 0:53:31,909
+we'll talk about this in more
+detail.
+
+
+878
+0:53:31,909 --> 0:53:35,886
+But what seems likely is the
+sort of phobias you're likely to
+
+
+879
+0:53:35,886 --> 0:53:39,797
+have does not have much to do
+with your personal history but
+
+
+880
+0:53:39,797 --> 0:53:43,84
+rather it has a lot to do with
+your evolutionary history.
+
+
+881
+0:53:43,84 --> 0:53:47,44
+Finally, the other reading
+you're going to do for this
+
+
+882
+0:53:47,44 --> 0:53:51,244
+part--section of the course is
+Chomsky's classic article,
+
+
+883
+0:53:51,244 --> 0:53:53,69
+his "Review of Verbal
+Behavior."
+
+
+884
+0:53:53,69 --> 0:53:57,889
+Chomsky is one of the most
+prominent intellectuals alive.
+
+
+885
+0:53:57,889 --> 0:54:1,384
+He's still a professor at MIT,
+still publishes on language and
+
+
+886
+0:54:1,384 --> 0:54:5,8
+thought, among other matters.
+And the excerpt you're going to
+
+
+887
+0:54:5,8 --> 0:54:7,929
+read is from his "Review of
+Verbal Behavior."
+
+
+888
+0:54:7,929 --> 0:54:11,302
+And this is one of the most
+influential intellectual
+
+
+889
+0:54:11,302 --> 0:54:14,938
+documents ever written in
+psychology because it took the
+
+
+890
+0:54:14,938 --> 0:54:17,65
+entire discipline of behaviorism
+and,
+
+
+891
+0:54:17,65 --> 0:54:21,384
+more than everything else,
+more than any other event,
+
+
+892
+0:54:21,384 --> 0:54:25,622
+could be said to have destroyed
+it or ended it as a dominant
+
+
+893
+0:54:25,622 --> 0:54:29,113
+intellectual endeavor.
+And Chomsky's argument is
+
+
+894
+0:54:29,113 --> 0:54:32,816
+complicated and interesting,
+but the main sort of argument
+
+
+895
+0:54:32,816 --> 0:54:35,219
+he had to make is--goes like
+this.
+
+
+896
+0:54:35,219 --> 0:54:39,567
+When it comes to humans,
+the notions of reward and
+
+
+897
+0:54:39,567 --> 0:54:44,92
+punishment and so on that
+Skinner tried to extend to
+
+
+898
+0:54:44,92 --> 0:54:48,44
+humans are so vague it's not
+science anymore.
+
+
+899
+0:54:48,44 --> 0:54:51,179
+And remember the discussion we
+had with regard to Freud.
+
+
+900
+0:54:51,179 --> 0:54:55,72
+What Skinner--What Chomsky is
+raising here is the concern of
+
+
+901
+0:54:55,72 --> 0:54:57,96
+unfalsifiablity.
+So, here's the sort of example
+
+
+902
+0:54:57,96 --> 0:55:0,562
+he would discuss.
+Skinner, in his book Verbal
+
+
+903
+0:55:0,562 --> 0:55:2,884
+Behavior,
+talks about the question of why
+
+
+904
+0:55:2,884 --> 0:55:5,99
+do we do things like talk to
+ourselves,
+
+
+905
+0:55:5,99 --> 0:55:8,314
+imitate sounds,
+create art, give bad news to an
+
+
+906
+0:55:8,314 --> 0:55:11,46
+enemy, fantasize about pleasant
+situations?
+
+
+907
+0:55:11,46 --> 0:55:14,73
+And Skinner says that they all
+involve reinforcement;
+
+
+908
+0:55:14,73 --> 0:55:16,55
+those are all reinforced
+behaviors.
+
+
+909
+0:55:16,55 --> 0:55:20,959
+But Skinner doesn't literally
+mean that when we talk to
+
+
+910
+0:55:20,959 --> 0:55:24,469
+ourselves somebody gives us food
+pellets.
+
+
+911
+0:55:24,469 --> 0:55:26,859
+He doesn't literally mean even
+that when we talk to ourselves
+
+
+912
+0:55:26,859 --> 0:55:28,89
+somebody pats us on the head and
+says, "Good man.
+
+
+913
+0:55:28,89 --> 0:55:31,469
+Perfect.
+I'm very proud."
+
+
+914
+0:55:31,469 --> 0:55:33,481
+What he means,
+for instance,
+
+
+915
+0:55:33,481 --> 0:55:36,683
+in this case is well,
+talking to yourself is
+
+
+916
+0:55:36,683 --> 0:55:41,227
+self-reinforcing or giving bad
+news to an enemy is reinforcing
+
+
+917
+0:55:41,227 --> 0:55:44,429
+because it makes your enemy feel
+bad.
+
+
+918
+0:55:44,429 --> 0:55:48,87
+Well, Chomsky says the problem
+is not that that's wrong.
+
+
+919
+0:55:48,87 --> 0:55:53,67
+That's all true.
+It's just so vague as to be
+
+
+920
+0:55:53,67 --> 0:55:55,85
+useless.
+Skinner isn't saying anything
+
+
+921
+0:55:55,85 --> 0:55:58,69
+more.
+To say giving bad news to an
+
+
+922
+0:55:58,69 --> 0:56:2,51
+enemy is reinforcing because it
+makes the enemy feel bad doesn't
+
+
+923
+0:56:2,51 --> 0:56:5,464
+say anything different from
+giving bad news to an enemy
+
+
+924
+0:56:5,464 --> 0:56:9,32
+feels good because we like to
+give bad news to an enemy.
+
+
+925
+0:56:9,32 --> 0:56:11,65
+It's just putting it in more
+scientific terms.
+
+
+926
+0:56:11,65 --> 0:56:16,286
+More generally,
+Chomsky suggests that the law
+
+
+927
+0:56:16,286 --> 0:56:22,61
+of effect when applied to humans
+is either trivially true,
+
+
+928
+0:56:22,61 --> 0:56:28,228
+trivially or uninterestingly
+true, or scientifically robust
+
+
+929
+0:56:28,228 --> 0:56:33,594
+and obviously false.
+So, if you want to expand the
+
+
+930
+0:56:33,594 --> 0:56:38,612
+notion of reward or
+reinforcement to anything,
+
+
+931
+0:56:38,612 --> 0:56:42,773
+then it's true.
+So why did you come--those of
+
+
+932
+0:56:42,773 --> 0:56:46,71
+you who are not freshmen--Oh,
+you--Why did you come?
+
+
+933
+0:56:46,71 --> 0:56:49,59
+All of you, why did you come to
+Yale for a second semester?
+
+
+934
+0:56:49,59 --> 0:56:52,659
+"Well, I repeated my action
+because the first semester was
+
+
+935
+0:56:52,659 --> 0:56:54,96
+rewarding."
+Okay.
+
+
+936
+0:56:54,96 --> 0:56:57,936
+What do you mean by that?
+Well, you don't literally mean
+
+
+937
+0:56:57,936 --> 0:57:0,989
+that somebody rewarded you,
+gave you pellets and stuff.
+
+
+938
+0:57:0,989 --> 0:57:3,773
+What you mean is you chose to
+come there for the second
+
+
+939
+0:57:3,773 --> 0:57:6,161
+semester.
+And there's nothing wrong with
+
+
+940
+0:57:6,161 --> 0:57:9,44
+saying that but we shouldn't
+confuse it with science.
+
+
+941
+0:57:9,44 --> 0:57:12,52
+And more generally,
+the problem is you can talk
+
+
+942
+0:57:12,52 --> 0:57:15,175
+about what other people do in
+terms of reinforcement and
+
+
+943
+0:57:15,175 --> 0:57:17,901
+punishment and operant
+conditioning and classical
+
+
+944
+0:57:17,901 --> 0:57:20,521
+conditioning.
+But in order to do so,
+
+
+945
+0:57:20,521 --> 0:57:24,374
+you have to use terms like
+"punishment" and "reward" and
+
+
+946
+0:57:24,374 --> 0:57:28,648
+"reinforcement" in such a vague
+way that in the end you're not
+
+
+947
+0:57:28,648 --> 0:57:33,752
+saying anything scientific.
+So, behaviorism as a dominant
+
+
+948
+0:57:33,752 --> 0:57:39,477
+intellectual field has faded,
+but it still leaves behind an
+
+
+949
+0:57:39,477 --> 0:57:44,906
+important legacy and it still
+stands as one of the major
+
+
+950
+0:57:44,906 --> 0:57:49,94
+contributions of twentieth
+century psychology.
+
+
+951
+0:57:49,94 --> 0:57:52,42
+For one thing,
+it has given us a richer
+
+
+952
+0:57:52,42 --> 0:57:54,476
+understanding of certain
+learning mechanisms,
+
+
+953
+0:57:54,476 --> 0:57:56,8
+particularly with regard to
+nonhumans.
+
+
+954
+0:57:56,8 --> 0:57:59,663
+Mechanisms like habituation,
+classical conditioning and
+
+
+955
+0:57:59,663 --> 0:58:2,6
+operant conditioning are real;
+they can be scientifically
+
+
+956
+0:58:2,6 --> 0:58:4,715
+studied;
+and they play an important role
+
+
+957
+0:58:4,715 --> 0:58:7,759
+in the lives of animals and
+probably an important role in
+
+
+958
+0:58:7,759 --> 0:58:11,53
+human lives as well.
+They just don't explain
+
+
+959
+0:58:11,53 --> 0:58:13,998
+everything.
+Finally, and this is something
+
+
+960
+0:58:13,998 --> 0:58:16,88
+I'm going to return to on
+Wednesday actually,
+
+
+961
+0:58:16,88 --> 0:58:21,783
+behaviorists have provided
+powerful techniques for training
+
+
+962
+0:58:21,783 --> 0:58:26,349
+particularly for nonverbal
+creatures so this extends to
+
+
+963
+0:58:26,349 --> 0:58:29,58
+animal trainers.
+But it also extends to people
+
+
+964
+0:58:29,58 --> 0:58:32,98
+who want to teach young children
+and babies and also want to help
+
+
+965
+0:58:32,98 --> 0:58:35,796
+populations like the severely
+autistic or the severely
+
+
+966
+0:58:35,796 --> 0:58:37,69
+retarded.
+Many of these behaviorist
+
+
+967
+0:58:37,69 --> 0:58:39,67
+techniques have proven to be
+quite useful.
+
+
+968
+0:58:39,67 --> 0:58:43,584
+And in that regard,
+as well as in other regards,
+
+
+969
+0:58:43,584 --> 0:58:47,0
+it stands as an important
+contribution.
+
+
+970
+0:58:47,0 --> 0:60:47,0
+ 
+
+

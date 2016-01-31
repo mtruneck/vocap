@@ -1,0 +1,5242 @@
+1
+0:0:0,405 --> 0:0:3,493
+[KIRK] Captain’s Log: Stardate 7232.5.
+
+
+2
+0:0:3,493 --> 0:0:7,235
+The Enterprise has spent the last 2 weeks
+mapping a previously unexplored sector.
+
+
+3
+0:0:7,235 --> 0:0:12,816
+Long range sensors indicate a rich uradium vein
+on the seventh planet of an uninhabited system.
+
+
+4
+0:0:12,816 --> 0:0:16,302
+A landing party is investigating.
+
+
+5
+0:0:16,302 --> 0:0:17,537
+[scanners hum]
+
+
+6
+0:0:17,537 --> 0:0:19,97
+[McCOY] Jim, I don't know why we're taking this risk.
+
+
+7
+0:0:19,97 --> 0:0:23,97
+I mean one false move and a chain reaction could
+blow away half this continent.
+
+
+8
+0:0:23,97 --> 0:0:27,238
+Uridium may be unstable, Bones, but it's essential
+to starship construction.
+
+
+9
+0:0:27,238 --> 0:0:32,5
+A source in this sector is going to be extremely
+important to the Federation for many years to come.
+
+
+10
+0:0:32,5 --> 0:0:34,869
+Besides...
+
+
+11
+0:0:34,869 --> 0:0:37,724
+I trust my people.
+
+
+12
+0:0:37,724 --> 0:0:41,334
+[scanners hum]
+
+
+13
+0:0:41,334 --> 0:0:43,37
+He's suffered a terrible loss, Jim.
+
+
+14
+0:0:43,37 --> 0:0:45,607
+Freeman meant everything to him.
+
+
+15
+0:0:45,607 --> 0:0:48,0
+Duty leaves little time for personal pain.
+
+
+16
+0:0:48,0 --> 0:0:51,473
+Or personal relationships?
+
+
+17
+0:0:51,473 --> 0:0:52,891
+Like Uncle, like Nephew.
+
+
+18
+0:0:52,891 --> 0:0:54,61
+You both ignore what you can't control:
+
+
+19
+0:0:54,61 --> 0:0:56,97
+Grief, family.
+
+
+20
+0:0:56,97 --> 0:0:58,401
+Don't you see?
+
+
+21
+0:0:58,401 --> 0:1:3,523
+No amount of throwing yourselves into
+work is going to make either disappear.
+
+
+22
+0:1:3,523 --> 0:1:5,243
+We WERE having a conversation.
+
+
+23
+0:1:5,243 --> 0:1:8,4
+You were psychoanalysing, Bones.
+I wasn't listening.
+
+
+24
+0:1:8,4 --> 0:1:11,97
+[SPOCK] Preliminary scans indicate a rich deposit
+close to the surface.
+
+
+25
+0:1:11,97 --> 0:1:14,97
+There will be minimal danger in extracting it.
+An extraordinary find.
+
+
+26
+0:1:14,97 --> 0:1:17,501
+Let's mark this vein and wrap things up, Spock.
+
+
+27
+0:1:17,501 --> 0:1:20,371
+[communicator chirp]
+Kirk to Enterprise, come in.
+
+
+28
+0:1:20,371 --> 0:1:20,971
+[static]
+
+
+29
+0:1:20,971 --> 0:1:23,901
+Kirk to Enterprise, come in.
+
+
+30
+0:1:23,901 --> 0:1:28,5
+The signal is being jammed... locally.
+
+
+31
+0:1:28,5 --> 0:1:31,35
+[explosion]
+
+
+32
+0:1:31,35 --> 0:1:34,4
+[DICKERSON] Arrrghh!
+
+
+33
+0:1:34,4 --> 0:1:48,6
+[explosions]
+
+
+34
+0:1:48,6 --> 0:1:49,97
+[McCOY] What the devil's going on?
+
+
+35
+0:1:49,97 --> 0:1:51,97
+[KIRK] The big question is...
+
+
+36
+0:1:51,97 --> 0:2:3,401
+What's going on up there?
+
+
+37
+0:2:3,401 --> 0:2:9,669
+[Main Theme]
+
+
+38
+0:2:9,669 --> 0:2:11,1
+Space,
+
+
+39
+0:2:11,1 --> 0:2:17,501
+The Final Frontier...
+
+
+40
+0:2:17,501 --> 0:2:21,901
+These are the voyages of the Starship Enterprise.
+
+
+41
+0:2:21,901 --> 0:2:23,901
+its five year mission...
+
+
+42
+0:2:23,901 --> 0:2:26,401
+To explore strange new worlds...
+
+
+43
+0:2:26,401 --> 0:2:30,401
+To seek out new life and new civilisations.
+
+
+44
+0:2:30,401 --> 0:2:31,901
+To boldly go...
+
+
+45
+0:2:31,901 --> 0:3:6,355
+Where no man has gone before.
+
+
+46
+0:3:6,355 --> 0:3:8,65
+[KIRK] Captain's log: supplemental.
+
+
+47
+0:3:8,65 --> 0:3:10,698
+During a general mining survey
+on an uninhabited planet....
+
+
+48
+0:3:10,698 --> 0:3:12,201
+We've been attacked.
+
+
+49
+0:3:12,201 --> 0:3:13,808
+Security Chief Dickerson:
+
+
+50
+0:3:13,808 --> 0:3:14,621
+Dead.
+
+
+51
+0:3:14,621 --> 0:3:17,59
+In orbit a similar ambush.
+
+
+52
+0:3:17,59 --> 0:3:18,608
+Reason or reasons:
+
+
+53
+0:3:18,608 --> 0:3:19,823
+Unknown.
+
+
+54
+0:3:19,823 --> 0:3:22,531
+[RAND]
+Deflector screens raised.
+
+
+55
+0:3:22,531 --> 0:3:25,281
+[rumble]
+
+
+56
+0:3:25,281 --> 0:3:30,777
+[XON] Minimal damage. Weapons and shields are class 13.
+
+
+57
+0:3:30,777 --> 0:3:33,93
+They're not acknowledging hails, Mr DeSalle
+
+
+58
+0:3:33,93 --> 0:3:35,41
+Phasers set to one half.
+
+
+59
+0:3:35,41 --> 0:3:38,191
+Locked.
+
+
+60
+0:3:38,191 --> 0:3:40,638
+Fire.
+
+
+61
+0:3:40,638 --> 0:3:43,198
+[phaser fire]
+
+
+62
+0:3:43,198 --> 0:3:45,191
+Hostile’s weapons are offline.
+
+
+63
+0:3:45,191 --> 0:3:46,882
+Uhura, try to raise the landing party.
+
+
+64
+0:3:46,882 --> 0:3:48,9
+[UHURA]
+Aye, sir.
+
+
+65
+0:3:48,9 --> 0:3:50,653
+Re-establish orbit, Mr Kyle.
+
+
+66
+0:3:50,653 --> 0:3:52,59
+Xon, Scan for human lifesigns.
+
+
+67
+0:3:52,59 --> 0:3:54,543
+Have the transporter room standby.
+
+
+68
+0:3:54,543 --> 0:3:56,695
+Still no contact with the planet, sir.
+
+
+69
+0:3:56,695 --> 0:4:5,746
+[phaser fire]
+
+
+70
+0:4:5,746 --> 0:4:18,522
+[phaser fire]
+
+
+71
+0:4:18,522 --> 0:4:27,785
+[groans]
+
+
+72
+0:4:27,785 --> 0:4:29,812
+[CHEKOV]
+Keptin!
+
+
+73
+0:4:29,812 --> 0:4:37,963
+[phaser stuns]
+
+
+74
+0:4:37,963 --> 0:4:38,95
+[PETER]
+Damn!
+
+
+75
+0:4:38,95 --> 0:4:41,59
+[KIRK]
+Bones!
+
+
+76
+0:4:41,59 --> 0:4:44,17
+[engines humming]
+
+
+77
+0:4:44,17 --> 0:4:46,575
+[PETER]
+I'm all right.
+
+
+78
+0:4:46,575 --> 0:4:48,646
+[SPOCK]
+The hostiles have retreated.
+
+
+79
+0:4:48,646 --> 0:4:51,764
+But communications are still being jammed by
+a device on the surface.
+
+
+80
+0:4:51,764 --> 0:4:58,626
+[KIRK]
+Find it.
+
+
+81
+0:4:58,626 --> 0:5:1,304
+[KIRK]
+Who are you?
+Why did you attack us?
+
+
+82
+0:5:1,304 --> 0:5:2,778
+All your kind...
+
+
+83
+0:5:2,778 --> 0:5:8,126
+... will pay
+
+
+84
+0:5:8,126 --> 0:5:21,214
+[loud hum]
+
+
+85
+0:5:21,214 --> 0:5:25,405
+[humming stops]
+
+
+86
+0:5:25,405 --> 0:5:28,5
+[communicator chirps]
+
+
+87
+0:5:28,5 --> 0:5:29,383
+Kirk here.
+
+
+88
+0:5:29,383 --> 0:5:31,724
+Communications restored.
+
+
+89
+0:5:31,724 --> 0:5:33,155
+Kirk to Enterprise.
+
+
+90
+0:5:33,155 --> 0:5:34,889
+[DeSALLE]
+Enterprise, DeSalle here.
+
+
+91
+0:5:34,889 --> 0:5:37,974
+Captain, we've been attacked but are undamaged.
+
+
+92
+0:5:37,974 --> 0:5:41,193
+An alien ship of unknown design.
+We disabled their weapons...
+
+
+93
+0:5:41,193 --> 0:5:44,442
+...but they've taken on a landing pod
+and are fleeing the system.
+
+
+94
+0:5:44,442 --> 0:5:49,27
+Mr DeSalle, the landing party needs an emergency beam-out.
+Have medical and security standing by in the transporter room.
+
+
+95
+0:5:49,27 --> 0:5:57,112
+Plot a pursuit course on that alien vessel.
+
+
+96
+0:5:57,112 --> 0:5:59,284
+Still no response to our hails, sir.
+
+
+97
+0:5:59,284 --> 0:6:0,974
+Ve are falling back, Keptin.
+
+
+98
+0:6:0,974 --> 0:6:1,914
+Scotty...
+
+
+99
+0:6:1,914 --> 0:6:4,9
+They're a wee bit faster, sir. We're stoking the boilers.
+
+
+100
+0:6:4,9 --> 0:6:6,68
+How's the captive, Bones?
+
+
+101
+0:6:6,68 --> 0:6:10,864
+He's sedated. He's got a concussion
+but otherwise he's fine.
+
+
+102
+0:6:10,864 --> 0:6:13,356
+Now you're nephew on the other hand is beating...
+
+
+103
+0:6:13,356 --> 0:6:15,7
+[KIRK, annoyed]
+The business of this ship--
+
+
+104
+0:6:15,7 --> 0:6:18,6
+He was distracted on the planet.
+He could've been killed.
+
+
+105
+0:6:18,6 --> 0:6:20,274
+[McCOY]
+Whose distraction are you worried about?
+
+
+106
+0:6:20,274 --> 0:6:23,828
+HIS... or YOURS?
+
+
+107
+0:6:23,828 --> 0:6:27,22
+[McCOY]
+Now you have an opportunity here
+to be a real father figure.
+
+
+108
+0:6:27,22 --> 0:6:30,494
+Maybe you are more comfortable
+as his Captain. But what that boy needs--
+
+
+109
+0:6:30,494 --> 0:6:34,338
+[KIRK]
+What I need is my ship's Chief Medical Officer
+to attend to ship's business.
+
+
+110
+0:6:34,338 --> 0:6:38,41
+We're at Red Alert.
+Now get the prisoner ready for questioning.
+
+
+111
+0:6:38,41 --> 0:6:39,205
+Of course, CAPTAIN.
+
+
+112
+0:6:39,205 --> 0:6:40,742
+[KIRK]
+Spock, hostile's position?
+
+
+113
+0:6:40,742 --> 0:6:43,968
+They have exceeded our maximum speed
+and are slipping out of sensor range.
+
+
+114
+0:6:43,968 --> 0:6:45,297
+Scotty, We can't lose them.
+
+
+115
+0:6:45,297 --> 0:6:46,869
+We're givin' it all we've got, sir.
+
+
+116
+0:6:46,869 --> 0:6:49,26
+[CHEKOV]
+Keptin, I'm reading several wessels incoming.
+
+
+117
+0:6:49,26 --> 0:6:50,97
+[SPOCK]
+Confirmed.
+
+
+118
+0:6:50,97 --> 0:6:58,921
+Nine vessesls. Similar to the alien
+hostiles, on an intercept course.
+
+
+119
+0:6:58,921 --> 0:7:0,799
+DeSalle, tactical report.
+
+
+120
+0:7:0,799 --> 0:7:4,216
+They've got speed on their side, sir, but our weapons
+and shields completely outclass them.
+
+
+121
+0:7:4,216 --> 0:7:5,468
+They haven't got a prayer.
+
+
+122
+0:7:5,468 --> 0:7:8,735
+[KIRK] Mr Sulu, maintain course, reduce speed.
+[SULU] Aye, sir.
+
+
+123
+0:7:8,735 --> 0:7:11,595
+Open a channel, Lieutenant.
+Let's give them one more chance.
+
+
+124
+0:7:11,595 --> 0:7:13,23
+[UHURA]
+Aye, sir.
+
+
+125
+0:7:13,23 --> 0:7:14,7
+Channel open.
+
+
+126
+0:7:14,7 --> 0:7:18,473
+This is Captain James T. Kirk of the
+Federation Starship Enterprise.
+
+
+127
+0:7:18,473 --> 0:7:22,265
+We have aboard a member of your team
+from the unprovoked attack on our vessel.
+
+
+128
+0:7:22,265 --> 0:7:26,41
+Standby to prepare--
+[rumbles]
+
+
+129
+0:7:26,41 --> 0:7:30,565
+Unremarkable lasers and weak gravitic torpedoes.
+Minimal damage to our shields.
+
+
+130
+0:7:30,565 --> 0:7:32,785
+[KIRK]
+Uhura?
+
+
+131
+0:7:32,785 --> 0:7:34,96
+[rumbles]
+
+
+132
+0:7:34,96 --> 0:7:39,589
+[CHEKOV]
+This makes no sense. Ve'd have to lower
+our screens for them to do any damage.
+
+
+133
+0:7:39,589 --> 0:7:45,762
+[SPOCK]
+On the contrary, Mr Chekov. They're concentrating
+their fire on one area near our starboard nacelle strut.
+
+
+134
+0:7:45,762 --> 0:7:51,103
+They appear familiar with our configuration. They
+will eventually break through our shields at that point.
+
+
+135
+0:7:51,103 --> 0:7:56,444
+[KIRK]
+Mr Scott, reinforce the starboard shields.
+Chekov: Half phasers. Warn them off.
+
+
+136
+0:7:56,444 --> 0:8:1,18
+[CHEKOV]
+Aye, sir.
+
+
+137
+0:8:1,18 --> 0:8:6,222
+One alien vessel has taken heavy damage and is
+losing life support. Another has lost warp power.
+
+
+138
+0:8:6,222 --> 0:8:10,2
+[KIRK] That's a warning, Mr Chekov?
+[CHEKOV] I'm sorry, sir. They're more fragile than expected.
+
+
+139
+0:8:10,2 --> 0:8:11,459
+[torpedoes crash]
+
+
+140
+0:8:11,459 --> 0:8:18,978
+[SPOCK]
+Shields on starboard nacelle strut down 3 per cent.
+
+
+141
+0:8:18,978 --> 0:8:21,62
+[CHEKOV]
+It's like being attacked by...
+
+
+142
+0:8:21,62 --> 0:8:22,15
+... kittens.
+
+
+143
+0:8:22,15 --> 0:8:25,544
+[SPOCK]
+Indeed.  But given enough time
+their claws WILL do damage.
+
+
+144
+0:8:25,544 --> 0:8:29,429
+[KIRK]
+I'm not just going to order their destruction.
+Why won't they communicate with us?
+
+
+145
+0:8:29,429 --> 0:8:34,249
+[SPOCK]
+They must believe doing so would
+be less fruitful then their attack.
+
+
+146
+0:8:34,249 --> 0:8:39,255
+Security to Sickbay.
+I want the prisoner brought to the bridge.
+
+
+147
+0:8:39,255 --> 0:8:43,937
+[phaser fire]
+[deflector hits]
+
+
+148
+0:8:43,937 --> 0:8:51,13
+[doors open]
+
+
+149
+0:8:51,13 --> 0:8:53,803
+[KIRK]
+Who are you? Why did you attack us?
+
+
+150
+0:8:53,803 --> 0:8:55,803
+My name is Alkar Kyril...
+
+
+151
+0:8:55,803 --> 0:8:57,923
+Adjutant Commander of the Ninth Peshan Fleet.
+
+
+152
+0:8:57,923 --> 0:9:0,359
+You will get no more from me.
+
+
+153
+0:9:0,359 --> 0:9:2,787
+[KIRK]
+We're not here to harm you or your people.
+
+
+154
+0:9:2,787 --> 0:9:4,861
+If they'd simply respond to our hails...
+
+
+155
+0:9:4,861 --> 0:9:10,551
+KYRIL:
+OUR hails have always been answered by insult
+and invasion. Why would we answer yours?
+
+
+156
+0:9:10,551 --> 0:9:12,613
+Impressive.
+
+
+157
+0:9:12,613 --> 0:9:16,12
+Are you mercenaries?
+Or Alersa's new personal toy?
+
+
+158
+0:9:16,12 --> 0:9:19,47
+[KIRK]
+Alersa? Listen I don't know
+anybody named Alersa.
+
+
+159
+0:9:19,47 --> 0:9:20,726
+We're not your enemy.
+
+
+160
+0:9:20,726 --> 0:9:24,216
+[KYRIL]
+You may as well kill me now.
+Your Meskan mind tricks won't work.
+
+
+161
+0:9:24,216 --> 0:9:28,471
+[KIRK]
+Meskan? We're NOT Meskan. We represent
+the United Federation of Planets.
+
+
+162
+0:9:28,471 --> 0:9:30,4
+We're here on a peaceful mission.
+
+
+163
+0:9:30,4 --> 0:9:32,964
+[explosion]
+
+
+164
+0:9:32,964 --> 0:9:34,825
+[KYRIL]
+Meskan murderer!
+
+
+165
+0:9:34,825 --> 0:9:36,656
+200 people!
+
+
+166
+0:9:36,656 --> 0:9:38,355
+On each interceptor!
+
+
+167
+0:9:38,355 --> 0:9:41,82
+[CHEKOV]
+Ve didn't fire.
+
+
+168
+0:9:41,82 --> 0:9:42,266
+[SULU]
+Captain!
+
+
+169
+0:9:42,266 --> 0:9:43,151
+[KYRIL]
+There!
+
+
+170
+0:9:43,151 --> 0:10:16,32
+Perjure yourself again as the evidence
+against you destroys my fleet!
+
+
+171
+0:10:16,32 --> 0:10:17,265
+[MCCOY]
+Jim?
+
+
+172
+0:10:17,265 --> 0:10:20,107
+Is that one of our ships?
+
+
+173
+0:10:20,107 --> 0:10:23,313
+[SCOTTY]
+Sir, the Eagle was lost 8 years ago with all hands.
+
+
+174
+0:10:23,313 --> 0:10:24,995
+[KIRK]
+On the other side of the quadrant.
+
+
+175
+0:10:24,995 --> 0:10:26,978
+[SPOCK]
+There's been significant alteration.
+
+
+176
+0:10:26,978 --> 0:10:29,94
+Armour plating, disruptor canons.
+
+
+177
+0:10:29,94 --> 0:10:33,383
+But it is the Eagle, Captain. And she's
+attacking Peshan ships with alacrity.
+
+
+178
+0:10:33,383 --> 0:10:36,139
+[KIRK]
+Mr Scott extend our shields to cover them.
+
+
+179
+0:10:36,139 --> 0:10:40,31
+[SCOTTY]
+We can't protect them all, sir. And the ones
+we can -- it'll take some doing to maintain.
+
+
+180
+0:10:40,31 --> 0:10:41,58
+[KIRK]
+Do it.
+
+
+181
+0:10:41,58 --> 0:10:43,528
+Lieutenant Uhura, try to raise the Eagle.
+
+
+182
+0:10:43,528 --> 0:10:45,35
+[UHURA]
+They're jamming all channels, sir.
+
+
+183
+0:10:45,35 --> 0:10:47,94
+[CHEKOV]
+Keptin, they are picking off the Peshan
+ships von by von.
+
+
+184
+0:10:47,94 --> 0:10:56,173
+[KIRK]
+Mr Sulu, put us between them.
+Change course: two thirteen mark six.
+
+
+185
+0:10:56,173 --> 0:10:58,524
+[SPOCK]
+Another Peshan vessel has been destroyed.
+
+
+186
+0:10:58,524 --> 0:10:59,553
+[rumble]
+
+
+187
+0:10:59,553 --> 0:11:2,52
+[SPOCK]
+Yet they continue to attack us from
+within our own shields.
+
+
+188
+0:11:2,52 --> 0:11:3,773
+[KIRK]
+Release him.
+
+
+189
+0:11:3,773 --> 0:11:5,912
+Tell your people we're trying to
+protect them.
+
+
+190
+0:11:5,912 --> 0:11:7,769
+[KYRIL]
+They won't listen.
+
+
+191
+0:11:7,769 --> 0:11:9,246
+They'll assume subterfuge.
+
+
+192
+0:11:9,246 --> 0:11:12,522
+[SPOCK]
+One Peshan vessel on collision
+course -- attempting to ram.
+
+
+193
+0:11:12,522 --> 0:11:25,495
+[KIRK]
+Tractor beam.
+
+
+194
+0:11:25,495 --> 0:11:27,708
+[SPOCK]
+Damage to secondary hull.
+
+
+195
+0:11:27,708 --> 0:11:29,569
+[CHEKOV]
+Shields are buckling, sir.
+
+
+196
+0:11:29,569 --> 0:11:32,239
+[UHURA]
+Damage control teams. Decks 18 to 21.
+
+
+197
+0:11:32,239 --> 0:11:34,339
+[SULU]
+The Peshans are breaking away from our shields.
+
+
+198
+0:11:34,339 --> 0:11:36,423
+[CHEKOV]
+Eagle is altering course to pursue.
+
+
+199
+0:11:36,423 --> 0:11:39,124
+[SPOCK]
+They cannot withstand an assault
+outside our protection.
+
+
+200
+0:11:39,124 --> 0:11:41,276
+[KIRK]
+Lock phasers on the Eagle, Mr Chekov.
+
+
+201
+0:11:41,276 --> 0:11:44,277
+[SPOCK]
+Eagle now targeting us. Both phasers
+and disruptor banks.
+
+
+202
+0:11:44,277 --> 0:11:45,572
+[KIRK]
+Evasive.
+
+
+203
+0:11:45,572 --> 0:11:53,633
+[phasers fire]
+
+
+204
+0:11:53,633 --> 0:11:56,975
+[KIRK]
+Return fire, Mr Chekov.
+I want that ship disabled.
+
+
+205
+0:11:56,975 --> 0:12:3,442
+[phaser fire]
+
+
+206
+0:12:3,442 --> 0:12:6,43
+[CHEKOV]
+Little effect against their armour plating, Keptin.
+
+
+207
+0:12:6,43 --> 0:12:8,148
+[KIRK]
+Spock. The prefix codes.
+
+
+208
+0:12:8,148 --> 0:12:9,827
+[SPOCK]
+The prefix code may be intact,
+
+
+209
+0:12:9,827 --> 0:12:13,158
+but normal ship to ship communication
+links are jammed.
+
+
+210
+0:12:13,158 --> 0:12:16,242
+[KIRK]
+Change our codes.
+
+
+211
+0:12:16,242 --> 0:12:18,73
+[KIRK]
+The Eagle. How long?
+
+
+212
+0:12:18,73 --> 0:12:20,126
+[KYRIL]
+Eight years now.
+
+
+213
+0:12:20,126 --> 0:12:22,122
+You really don't know?
+
+
+214
+0:12:22,122 --> 0:12:23,426
+This isn't a trick?
+
+
+215
+0:12:23,426 --> 0:12:25,687
+A trick? Commander Kyril this is a nightmare.
+
+
+216
+0:12:25,687 --> 0:12:28,589
+Who commands that ship?
+
+
+217
+0:12:28,589 --> 0:12:29,717
+[KIRK]
+Now!
+
+
+218
+0:12:29,717 --> 0:12:31,14
+[KYRIL]
+Alersa.
+
+
+219
+0:12:31,14 --> 0:12:33,28
+A vile, dangerous creature.
+
+
+220
+0:12:33,28 --> 0:12:37,271
+She and her crew worm their way onto free vessels,
+twisting innocent minds into doing their bidding.
+
+
+221
+0:12:37,271 --> 0:12:38,635
+[SPOCK]
+Telepaths?
+
+
+222
+0:12:38,635 --> 0:12:41,457
+[KYRIL]
+No, they don't read minds. They're psychomorphs.
+
+
+223
+0:12:41,457 --> 0:12:46,221
+Twisting the perceptions of others and forcing
+their wills on those who are receptive.
+
+
+224
+0:12:46,221 --> 0:12:48,748
+The Meskan used to revile
+those with such power but...
+
+
+225
+0:12:48,748 --> 0:12:53,244
+Now they've risen for control and
+cast Alersa as their saviour.
+
+
+226
+0:12:53,244 --> 0:12:55,149
+What do they need to be saved from?
+
+
+227
+0:12:55,149 --> 0:12:59,853
+We're not proud of it, but far in Peshan history,
+my people subjugated the Meskan.
+
+
+228
+0:12:59,853 --> 0:13:3,97
+Alersa is now bent on revenge.
+
+
+229
+0:13:3,97 --> 0:13:8,652
+Captain, they've devastated our fleet
+from 700 strong to fewer than 70.
+
+
+230
+0:13:8,652 --> 0:13:13,256
+No matter our past crimes, this is not justice.
+
+
+231
+0:13:13,256 --> 0:13:15,477
+[KIRK]
+Evasive means to evade, Mr Chekov.
+
+
+232
+0:13:15,477 --> 0:13:19,863
+[SULU]
+They've reconfigured their thruster ports
+and impulse drive, sir. They outrun us at sub-light.
+
+
+233
+0:13:19,863 --> 0:13:21,919
+Let's show them what these engines can do.
+
+
+234
+0:13:21,919 --> 0:13:23,612
+Aye, sir.
+
+
+235
+0:13:23,612 --> 0:13:25,469
+[strong phaser fire]
+
+
+236
+0:13:25,469 --> 0:13:27,76
+[explosions]
+
+
+237
+0:13:27,76 --> 0:13:29,458
+[CHEKOV] Aarrgghh!
+
+
+238
+0:13:29,458 --> 0:13:34,972
+[KIRK]
+Bones!
+
+
+239
+0:13:34,972 --> 0:13:37,157
+[SENTELL]
+Dorsel shields weakening.
+
+
+240
+0:13:37,157 --> 0:13:39,827
+[UHURA]
+They've blown the long-range subspace transceiver.
+
+
+241
+0:13:39,827 --> 0:13:43,706
+[KIRK]
+Sentell, Torpedoes. Deck 24.
+There's no armour there.
+
+
+242
+0:13:43,706 --> 0:13:48,18
+[torpedo fires]
+
+
+243
+0:13:48,18 --> 0:13:52,69
+[SPOCK]
+We've damaged their cargo bay.
+Section 3A. They're breaking off.
+
+
+244
+0:13:52,69 --> 0:13:55,891
+They're the bully on the block, Spock.
+They're not used to having a bloody nose.
+
+
+245
+0:13:55,891 --> 0:13:58,179
+[KYRIL]
+But there's no strategic value there.
+
+
+246
+0:13:58,179 --> 0:14:1,451
+[KIRK]
+Oh yes there is. It's a coolant system for their
+weapon's subsystems.
+
+
+247
+0:14:1,451 --> 0:14:4,52
+There's bypasses but they may
+not know about them.
+
+
+248
+0:14:4,52 --> 0:14:6,322
+[UHURA]
+Captain, the Eagle is hailing.
+
+
+249
+0:14:6,322 --> 0:14:9,691
+It's a non-standard frequency. All other
+channels are still blocked, sir.
+
+
+250
+0:14:9,691 --> 0:14:11,841
+[KIRK]
+Stall them.  Analyse that signal.
+
+
+251
+0:14:11,841 --> 0:14:14,907
+If we can get into those computers
+while their weapons are down...
+
+
+252
+0:14:14,907 --> 0:14:16,248
+[UHURA]
+Aye, sir.
+
+
+253
+0:14:16,248 --> 0:14:32,905
+[KIRK]
+Commander Kyril, we're going to set this right.
+
+
+254
+0:14:32,905 --> 0:14:36,821
+[CHEKOV]
+I need to get back up there.
+
+
+255
+0:14:36,821 --> 0:14:38,837
+[McCOY]
+Nurse...
+
+
+256
+0:14:38,837 --> 0:14:40,111
+[CHEKOV]
+Vill that help?
+
+
+257
+0:14:40,111 --> 0:14:41,561
+[McCOY]
+Yeah... me.
+
+
+258
+0:14:41,561 --> 0:14:43,964
+It'll paralyse your fingers.
+
+
+259
+0:14:43,964 --> 0:14:46,62
+[CHEKOV]
+Vhere did you intern? A gulag?
+
+
+260
+0:14:46,62 --> 0:14:49,888
+[MCCOY]
+I haven't killed you... yet.
+
+
+261
+0:14:49,888 --> 0:14:52,875
+[CHEKOV]
+And how are you doing, Mr Kirk?
+
+
+262
+0:14:52,875 --> 0:14:56,167
+Other than my destroyed career?
+
+
+263
+0:14:56,167 --> 0:15:1,473
+I wasn't thinking down there.
+I rushed out. Got myself shot.
+
+
+264
+0:15:1,473 --> 0:15:3,449
+Stupid mistake.
+
+
+265
+0:15:3,449 --> 0:15:5,571
+I endangered the whole landing party.
+
+
+266
+0:15:5,571 --> 0:15:7,57
+The ship.
+
+
+267
+0:15:7,57 --> 0:15:10,569
+I'm sure my uncle is drawing
+up the transfer orders himself.
+
+
+268
+0:15:10,569 --> 0:15:13,616
+[CHEKOV]
+Yes. He probably is.
+
+
+269
+0:15:13,616 --> 0:15:17,31
+Ve are in the middle of a battle
+with two unknown attack forces.
+
+
+270
+0:15:17,31 --> 0:15:21,589
+The security guard who dashed instead
+of crawled on the planet's surface
+
+
+271
+0:15:21,589 --> 0:15:23,135
+is foremost on the captain's mind.
+
+
+272
+0:15:23,135 --> 0:15:25,812
+My actions could have
+gotten people killed.
+
+
+273
+0:15:25,812 --> 0:15:27,788
+Perhaps it vas a clever diversion.
+
+
+274
+0:15:27,788 --> 0:15:30,68
+[PETER]
+It wasn't. It was a mistake.
+
+
+275
+0:15:30,68 --> 0:15:35,476
+Ensign, if you continue to crucify yourself like
+this you're going to drive yourself insane.
+
+
+276
+0:15:35,476 --> 0:15:38,204
+Listen to him. He's speaking
+from experience.
+
+
+277
+0:15:38,204 --> 0:15:42,813
+Mistakes are supposed to be a learning experience.
+If I don't examine them I won't learn.
+
+
+278
+0:15:42,813 --> 0:15:46,614
+[CHEKOV]
+And that's something most people
+never understand.
+
+
+279
+0:15:46,614 --> 0:15:51,918
+It's examine. Not dissect.
+
+
+280
+0:15:51,918 --> 0:15:54,5
+Thank you, Lieutenant.
+
+
+281
+0:15:54,5 --> 0:15:55,535
+Sir, am I fit for duty?
+
+
+282
+0:15:55,535 --> 0:15:57,762
+[McCOY]
+Yeah. But your shift has ended.
+
+
+283
+0:15:57,762 --> 0:16:0,229
+Take advantage of the downtime.
+Doctor's orders.
+
+
+284
+0:16:0,229 --> 0:16:3,5
+We're at Red Alert.
+I'm needed at my station.
+
+
+285
+0:16:3,5 --> 0:16:7,613
+Ensign, someone else will cover your
+station. Give yourself a break.
+
+
+286
+0:16:7,613 --> 0:16:15,628
+Go. You can save the
+galaxy tomorrow.
+
+
+287
+0:16:15,628 --> 0:16:19,405
+[doors open and close]
+
+
+288
+0:16:19,405 --> 0:16:21,79
+Remind you of anyone you know?
+
+
+289
+0:16:21,79 --> 0:16:25,976
+[CHEKOV]
+Yes. But he doesn't need to punish
+himself for everything.
+
+
+290
+0:16:25,976 --> 0:16:30,908
+Of course not. He's not Russian.
+
+
+291
+0:16:30,908 --> 0:16:33,117
+Am I fit for duty now, Doctor?
+
+
+292
+0:16:33,117 --> 0:16:37,852
+Nope. But that's never stopped you before.
+
+
+293
+0:16:37,852 --> 0:16:52,396
+Go on. You're released. Get out of here.
+
+
+294
+0:16:52,396 --> 0:16:54,928
+[RAND]
+We're in, sir.
+
+
+295
+0:16:54,928 --> 0:16:57,464
+They've replaced many of
+the computer systems.
+
+
+296
+0:16:57,464 --> 0:17:1,925
+[UHURA]
+These changes are acting like a firewall.
+There's no remote access from here, sir.
+
+
+297
+0:17:1,925 --> 0:17:12,765
+[KIRK]
+Then get me their logs from
+as far back as you can.
+
+
+298
+0:17:12,765 --> 0:17:14,985
+[SULU]
+Done slacking?
+
+
+299
+0:17:14,985 --> 0:17:18,973
+[CHEKOV]
+I am not the one who vas malingering
+on extended leave.
+
+
+300
+0:17:18,973 --> 0:17:22,168
+There's more to life than
+Starfleet, my friend.
+
+
+301
+0:17:22,168 --> 0:17:25,153
+[CHEKOV scoffs]
+Lies.
+
+
+302
+0:17:25,153 --> 0:17:27,261
+[UHURA]
+Captain, we're locked out.
+
+
+303
+0:17:27,261 --> 0:17:29,335
+We've retrieved some of the logs.
+
+
+304
+0:17:29,335 --> 0:17:30,718
+Nothing recent.
+
+
+305
+0:17:30,718 --> 0:17:33,265
+[RAND]
+They're going to take some time to decrypt.
+
+
+306
+0:17:33,265 --> 0:17:44,183
+[KIRK]
+Then let's buy some.
+Uhura, patch me through.
+
+
+307
+0:17:44,183 --> 0:17:46,203
+Alersa?
+
+
+308
+0:17:46,203 --> 0:17:49,204
+Don't be fooled, Captain,
+she's quite deadly.
+
+
+309
+0:17:49,204 --> 0:17:52,557
+Especially in person.
+
+
+310
+0:17:52,557 --> 0:17:54,714
+I'll take that under advisement.
+
+
+311
+0:17:54,714 --> 0:17:59,674
+[ALERSA]
+It seems we've gotten off on
+the wrong foot, Captain Pike.
+
+
+312
+0:17:59,674 --> 0:18:3,499
+It's Captain Kirk. Your library
+computers are out of date.
+
+
+313
+0:18:3,499 --> 0:18:7,45
+Captain Kirk. You'll forgive me, of course.
+
+
+314
+0:18:7,45 --> 0:18:11,45
+Of course, now just return that ship.
+
+
+315
+0:18:11,45 --> 0:18:12,845
+Oh, dear.
+
+
+316
+0:18:12,845 --> 0:18:16,817
+You're going to be difficult.
+How disappointing.
+
+
+317
+0:18:16,817 --> 0:18:21,206
+Do you really expect me to give
+up such a comfortable ship.
+
+
+318
+0:18:21,206 --> 0:18:22,738
+It's so...
+
+
+319
+0:18:22,738 --> 0:18:24,574
+cosy.
+
+
+320
+0:18:24,574 --> 0:18:29,7
+Well, perhaps we can come to
+an understanding, Captain.
+
+
+321
+0:18:29,7 --> 0:18:31,901
+I could send a shuttlecraft
+for you, if you like.
+
+
+322
+0:18:31,901 --> 0:18:39,166
+And we could discuss an armistice
+of sorts, here... on my flagship.
+
+
+323
+0:18:39,166 --> 0:18:43,766
+I could even give you a tour of
+the improvements we've made.
+
+
+324
+0:18:43,766 --> 0:18:50,735
+That's an interesting proposal but why don't I just
+slit my throat right now and save you all the trouble.
+
+
+325
+0:18:50,735 --> 0:18:53,271
+You would do that for... 
+
+
+326
+0:18:53,271 --> 0:18:56,444
+little old me?
+
+
+327
+0:18:56,444 --> 0:18:59,267
+[KYRIL]
+I've warned him about you, Alersa.
+
+
+328
+0:18:59,267 --> 0:19:2,873
+He's not going to put himself in your clutches.
+
+
+329
+0:19:2,873 --> 0:19:5,956
+Alkar. I hope you're well and...
+
+
+330
+0:19:5,956 --> 0:19:8,525
+...and how are the rest of your family?
+
+
+331
+0:19:8,525 --> 0:19:10,381
+Oh...
+
+
+332
+0:19:10,381 --> 0:19:11,856
+Oh, dear.
+
+
+333
+0:19:11,856 --> 0:19:14,615
+I miscounted.
+
+
+334
+0:19:14,615 --> 0:19:17,316
+NONE are left.
+
+
+335
+0:19:17,316 --> 0:19:21,416
+I don't suppose you'd like to beam over to
+this vessel and we'll have a little chat.
+
+
+336
+0:19:21,416 --> 0:19:22,912
+[ALERSA]
+Beaming?
+
+
+337
+0:19:22,912 --> 0:19:25,17
+Yes, the transporters.
+
+
+338
+0:19:25,17 --> 0:19:30,949
+That is one technology that we
+have been unable to decipher.
+
+
+339
+0:19:30,949 --> 0:19:34,654
+Kirk, if you'd be willing to
+let my technicians...
+
+
+340
+0:19:34,654 --> 0:19:51,137
+[KIRK]
+That's not going to happen, Captain.
+
+
+341
+0:19:51,137 --> 0:19:55,281
+[CONDRIS]
+The codes are either
+corrupt, or different.
+
+
+342
+0:19:55,281 --> 0:20:1,511
+Oh, he's a clever boy. I'm sure he changed them
+as soon as he realised we were a threat.
+
+
+343
+0:20:1,511 --> 0:20:5,259
+He's not like that blue buffoon.
+
+
+344
+0:20:5,259 --> 0:20:9,154
+Kirk is formidable.
+
+
+345
+0:20:9,154 --> 0:20:11,267
+Do you fancy him?
+
+
+346
+0:20:11,267 --> 0:20:16,899
+Careful, Andoch. A tongue as sharp
+as yours could slit its own throat.
+
+
+347
+0:20:16,899 --> 0:20:21,908
+Remember, darling, one can
+never have too many pets.
+
+
+348
+0:20:21,908 --> 0:20:23,569
+Condris, how long?
+
+
+349
+0:20:23,569 --> 0:20:25,845
+[CONDRIS]
+Any moment, m'lady.
+
+
+350
+0:20:25,845 --> 0:20:28,318
+Excellent.
+
+
+351
+0:20:28,318 --> 0:20:34,333
+[KIRK]
+She's no fool. She knew those
+codes would be changed.
+
+
+352
+0:20:34,333 --> 0:20:36,44
+She's stalling. Why?
+
+
+353
+0:20:36,44 --> 0:20:39,655
+[KYRIL]
+She may be waiting for assistance.
+
+
+354
+0:20:39,655 --> 0:20:44,42
+Our intelligence reports reveal she's
+developed a new battleship
+
+
+355
+0:20:44,42 --> 0:20:48,6
+We thought your vessel, one of them.
+It's why we attacked you.
+
+
+356
+0:20:48,6 --> 0:20:51,653
+[SPOCK]
+Scanning...
+
+
+357
+0:20:51,653 --> 0:20:54,554
+They're effectively hampering
+our long range sensors.
+
+
+358
+0:20:54,554 --> 0:20:57,806
+The disadvantage of their close
+familiarity with our systems.
+
+
+359
+0:20:57,806 --> 0:21:1,228
+[UHURA]
+Eagle is hailing again, Captain.
+
+
+360
+0:21:1,228 --> 0:21:5,582
+I'm sorry we couldn't come to an
+understanding, Captain Kirk.
+
+
+361
+0:21:5,582 --> 0:21:8,31
+Perhaps we'll renegotiate...
+
+
+362
+0:21:8,31 --> 0:21:30,958
+When my boot is on your throat.
+
+
+363
+0:21:30,958 --> 0:21:32,928
+[KIRK] Captain's log: supplemental.
+
+
+364
+0:21:32,928 --> 0:21:37,938
+The U.S.S. Eagle, missing for eight
+years, has been found in the
+hands of alien aggressors.
+
+
+365
+0:21:37,938 --> 0:21:42,726
+Reverse engineering our technology, they've
+apparently created their own starships:
+
+
+366
+0:21:42,726 --> 0:21:46,668
+An enemy Starfleet.
+
+
+367
+0:21:46,668 --> 0:21:48,133
+Spock. Analysis.
+
+
+368
+0:21:48,133 --> 0:21:51,774
+An interesting amalgam of Federation
+and alien technologies, Captain.
+
+
+369
+0:21:51,774 --> 0:21:55,193
+They have less of the inveterate armour
+and weapons arrays of the Eagle.
+
+
+370
+0:21:55,193 --> 0:21:58,559
+Of course. She keeps the most
+powerful vessel under her control.
+
+
+371
+0:21:58,559 --> 0:22:1,269
+Chekov, concentrate fire on
+the newer ship.
+
+
+372
+0:22:1,269 --> 0:22:4,788
+Mr Sulu, alternate warp and sub-light
+attack vectors. Keep them guessing.
+
+
+373
+0:22:4,788 --> 0:22:11,272
+[SULU]
+Aye, sir.
+
+
+374
+0:22:11,272 --> 0:22:14,492
+Protect the Starstalker.
+
+
+375
+0:22:14,492 --> 0:22:21,372
+I have not come this far against
+the Peshan to have it all taken
+away by one Federation ship!
+
+
+376
+0:22:21,372 --> 0:22:23,79
+Fight them, Andoch.
+
+
+377
+0:22:23,79 --> 0:22:39,388
+Fight them as if your
+life depends on it!
+
+
+378
+0:22:39,388 --> 0:22:41,542
+[DeSALLE]
+Coolant leak.
+Deck 7, Section 2.
+
+
+379
+0:22:41,542 --> 0:22:46,352
+[KIRK]
+Damage Control. Deck 7, Section 2
+Clear and Contain.
+
+
+380
+0:22:46,352 --> 0:22:48,256
+[UHURA]
+Engineering on the com, sir.
+
+
+381
+0:22:48,256 --> 0:22:49,952
+[KIRK]
+Scotty.
+
+
+382
+0:22:49,952 --> 0:22:52,195
+[SCOTTY]
+We've got three main power
+couplings down, Captain.
+
+
+383
+0:22:52,195 --> 0:22:54,26
+We've rerouted, but it's jury rigged.
+
+
+384
+0:22:54,26 --> 0:22:55,182
+It'll take an hour to repair.
+
+
+385
+0:22:55,182 --> 0:22:56,671
+Understood. Kirk out.
+
+
+386
+0:22:56,671 --> 0:23:0,4
+[SPOCK]
+The Meskan hybrid starship
+is disabled and drifting.
+
+
+387
+0:23:0,4 --> 0:23:3,19
+Sensors detect seven incoming contacts:
+
+
+388
+0:23:3,19 --> 0:23:4,418
+Peshan design.
+
+
+389
+0:23:4,418 --> 0:23:7,778
+[KIRK]
+Kyril, you've got to make them
+understand we're not their enemy.
+
+
+390
+0:23:7,778 --> 0:23:9,515
+They won't believe me, Captain.
+
+
+391
+0:23:9,515 --> 0:23:11,864
+They'll assume I'm under
+psychomorphic control.
+
+
+392
+0:23:11,864 --> 0:23:14,888
+[SPOCK]
+The Eagle is changing course
+turning on the Peshan.
+
+
+393
+0:23:14,888 --> 0:23:16,542
+My god.
+
+
+394
+0:23:16,542 --> 0:23:18,83
+Our technology is going to
+slaughter the Peshan fleet.
+
+
+395
+0:23:18,83 --> 0:23:21,803
+[SPOCk]
+Full scan of the Eagle's current
+configuration now complete.
+
+
+396
+0:23:21,803 --> 0:23:26,117
+Reviewing it will take time, but it may
+provide us with an exploitable weakness.
+
+
+397
+0:23:26,117 --> 0:23:29,782
+And with Mr Scott needing an hour.... We've
+got to find a way to knock out her screens.
+
+
+398
+0:23:29,782 --> 0:23:32,796
+[SPOCK]
+Those circuit nodes are heavily
+protected from weapons fire.
+
+
+399
+0:23:32,796 --> 0:23:34,746
+What about a stimulus overload?
+
+
+400
+0:23:34,746 --> 0:23:38,63
+Possible. Such a flash would impair
+our sensors as well, however.
+
+
+401
+0:23:38,63 --> 0:23:42,34
+Leaving us open to attack from both
+Peshan and Meskan forces.
+
+
+402
+0:23:42,34 --> 0:23:44,653
+[KIRK]
+It's a chance we're going to
+have to take, Mr Spock.
+
+
+403
+0:23:44,653 --> 0:23:56,521
+I don't want to see another ship
+destroyed by a Starfleet vessel.
+
+
+404
+0:23:56,521 --> 0:23:58,523
+[ALERSA]
+What's happened?
+
+
+405
+0:23:58,523 --> 0:24:0,583
+[ANDOCH]
+Sensors are down across the grid.
+
+
+406
+0:24:0,583 --> 0:24:5,435
+The Enterprise caused it. We cannot
+accurately move or fire. We're blind.
+
+
+407
+0:24:5,435 --> 0:24:8,95
+Then fire on Kirk's
+last known position.
+
+
+408
+0:24:8,95 --> 0:24:9,845
+Voral. Get those
+sensors fixed.
+
+
+409
+0:24:9,845 --> 0:24:17,68
+NOW!
+
+
+410
+0:24:17,68 --> 0:24:22,74
+Mr Sulu, continue on the pre-plotted course
+Get us some distance.
+
+
+411
+0:24:22,74 --> 0:24:24,218
+[SULU]
+Aye, sir.
+
+
+412
+0:24:24,218 --> 0:24:27,334
+[SPOCK]
+We're likely to recover sensors
+simultaneously with the Eagle
+
+
+413
+0:24:27,334 --> 0:24:31,52
+but the Peshan may
+rebound more quickly.
+
+
+414
+0:24:31,52 --> 0:24:31,951
+[SPOCK]
+Confirmed.
+
+
+415
+0:24:31,951 --> 0:24:33,301
+They already have.
+
+
+416
+0:24:33,301 --> 0:24:37,544
+[KIRK]
+Transfer all power to the deflector screens.
+Stand down from battlestations.
+
+
+417
+0:24:37,544 --> 0:24:38,792
+Mr DeSalle?
+
+
+418
+0:24:38,792 --> 0:24:41,86
+[DeSALLE]
+They'll hold against the
+Peshan lasers, sir.
+
+
+419
+0:24:41,86 --> 0:24:46,19
+[UHURA]
+If we can get out of jamming range for
+30 seconds, sir. I can send a burst
+transmission to Starfleet Command.
+
+
+420
+0:24:46,19 --> 0:24:53,21
+[KYRIL]
+Captain, we can't wait for your fleet to arrive.
+Those new ships of her's will destroy my people.
+
+
+421
+0:24:53,21 --> 0:24:57,567
+[KIRK]
+Lt Uhura. Get me the information
+from the Eagle's logs.
+
+
+422
+0:24:57,567 --> 0:25:7,629
+I want to know how to hurt her.
+Mr Spock, you have the con.
+
+
+423
+0:25:7,629 --> 0:25:9,819
+[KIRK]
+Engineering.
+
+
+424
+0:25:9,819 --> 0:25:12,809
+[McCOY]
+Deck eight.
+
+
+425
+0:25:12,809 --> 0:25:36,256
+One of your officers needs his captain.
+I'd call that 'ship's business.'
+
+
+426
+0:25:36,256 --> 0:25:39,392
+[PETER]
+Enter.
+
+
+427
+0:25:39,392 --> 0:25:42,412
+Captain...
+
+
+428
+0:25:42,412 --> 0:25:45,462
+At ease, Ensign.
+
+
+429
+0:25:45,462 --> 0:25:50,336
+I'd be on duty, sir, but the doctor
+has ordered otherwise.
+
+
+430
+0:25:50,336 --> 0:25:54,965
+Well Doctor's orders can be a bit
+annoying at times.
+
+
+431
+0:25:54,965 --> 0:25:58,16
+Dr McCoy is under the impression
+you need a little guidance.
+
+
+432
+0:25:58,16 --> 0:26:2,405
+That maybe you're being a bit too hard on
+yourself about this incident on the planet.
+
+
+433
+0:26:2,405 --> 0:26:5,421
+I'm trying to learn from
+my mistakes, sir.
+
+
+434
+0:26:5,421 --> 0:26:8,185
+That was your order.
+
+
+435
+0:26:8,185 --> 0:26:11,197
+Peter, that was advice
+not an order.
+
+
+436
+0:26:11,197 --> 0:26:16,49
+You might try listening to me a little bit.
+It might be easier for you if you just relax.
+
+
+437
+0:26:16,49 --> 0:26:23,641
+Could you just please, sit down?
+
+
+438
+0:26:23,641 --> 0:26:26,724
+Lt Chekov thinks I'm over-analysing.
+
+
+439
+0:26:26,724 --> 0:26:28,705
+You are.
+
+
+440
+0:26:28,705 --> 0:26:33,333
+And i know this because it's what
+another Ensign Kirk used to do.
+
+
+441
+0:26:33,333 --> 0:26:35,711
+Listen, your distraction on the planet...
+
+
+442
+0:26:35,711 --> 0:26:37,376
+Perfectly normal.
+
+
+443
+0:26:37,376 --> 0:26:38,759
+Your wounds...
+
+
+444
+0:26:38,759 --> 0:26:40,954
+... very raw.
+
+
+445
+0:26:40,954 --> 0:26:45,809
+But there's no way he would want
+you to risk your life for his memory.
+
+
+446
+0:26:45,809 --> 0:26:47,594
+PETER:
+No, sir. He wouldn't.
+
+
+447
+0:26:47,594 --> 0:26:49,78
+[KIRK]
+Then don't.
+
+
+448
+0:26:49,78 --> 0:26:52,771
+More than anybody else on this ship
+I know that you came here to be with him.
+
+
+449
+0:26:52,771 --> 0:26:54,921
+And for no other reason.
+
+
+450
+0:26:54,921 --> 0:26:57,457
+Now that he's gone...
+
+
+451
+0:26:57,457 --> 0:26:59,175
+...you feel alone
+
+
+452
+0:26:59,175 --> 0:27:2,958
+Really alone.
+
+
+453
+0:27:2,958 --> 0:27:9,778
+Peter, you're not alone.
+Nobody on this ship is alone.
+
+
+454
+0:27:9,778 --> 0:27:12,978
+And you have a duty to honour his memory.
+
+
+455
+0:27:12,978 --> 0:27:16,284
+Honour it by living.
+
+
+456
+0:27:16,284 --> 0:27:22,489
+Please don't let his loss be the
+weight that pulls you down.
+
+
+457
+0:27:22,489 --> 0:27:24,903
+Is that what you would do?
+
+
+458
+0:27:24,903 --> 0:27:42,468
+If you lost someone you loved so much?
+
+
+459
+0:27:42,468 --> 0:27:52,932
+[KIRK]
+It's what I've done.
+
+
+460
+0:27:52,932 --> 0:27:55,966
+I'd like to return to duty, sir.
+But the doctor...
+
+
+461
+0:27:55,966 --> 0:27:57,746
+Yes, the doctor.
+
+
+462
+0:27:57,746 --> 0:28:2,225
+What exactly did McCoy
+have to say to you?
+
+
+463
+0:28:2,225 --> 0:28:7,858
+To take advantage of the downtime.
+
+
+464
+0:28:7,858 --> 0:28:35,379
+Peter.... That's exactly what
+you should do.
+
+
+465
+0:28:35,379 --> 0:28:36,893
+[VORAL]
+Alersa...
+
+
+466
+0:28:36,893 --> 0:28:38,611
+[ALERSA]
+Don't waste my time, Voral.
+
+
+467
+0:28:38,611 --> 0:28:42,43
+If sensors aren't restored I expect
+for you to be working on them.
+
+
+468
+0:28:42,43 --> 0:28:49,698
+[VORAL]
+Alersa, my apologies. My report: I-I've restored
+some circuits, but not all. With time--
+
+
+469
+0:28:49,698 --> 0:28:52,212
+[ALERSA]
+Time?
+
+
+470
+0:28:52,212 --> 0:28:55,8
+How much time, Voral?
+
+
+471
+0:28:55,8 --> 0:28:57,783
+The time it takes to bandage a wound?
+
+
+472
+0:28:57,783 --> 0:29:2,355
+[VORAL]
+I don't know m'lady. We've never
+done battle with such a ship as theirs.
+
+
+473
+0:29:2,355 --> 0:29:4,294
+They know more about certain systems.
+
+
+474
+0:29:4,294 --> 0:29:7,461
+[ALERSA]
+But... they don't know me, yet.
+
+
+475
+0:29:7,461 --> 0:29:10,53
+And you do.
+
+
+476
+0:29:10,53 --> 0:29:13,286
+Will you fail me? You know
+the consequences.
+
+
+477
+0:29:13,286 --> 0:29:14,468
+[VORAL]
+Yes, m'lady.
+
+
+478
+0:29:14,468 --> 0:29:15,839
+[ALERSA]
+Yes, you'll fail me?!
+
+
+479
+0:29:15,839 --> 0:29:17,8
+[VORAL]
+N-no. I'll restore the sensors.
+
+
+480
+0:29:17,8 --> 0:29:18,175
+[ALERSA]
+Immediately?
+
+
+481
+0:29:18,175 --> 0:29:19,677
+[VORAL]
+You have my word...
+
+
+482
+0:29:19,677 --> 0:29:23,795
+...and my heart.
+
+
+483
+0:29:23,795 --> 0:29:25,45
+[ALERSA]
+Of course, I do.
+
+
+484
+0:29:25,45 --> 0:29:36,496
+[laughter]
+
+
+485
+0:29:36,496 --> 0:29:41,968
+[PETER]
+Do you think the Captain has someone
+in mind to replace Dickerson?
+
+
+486
+0:29:41,968 --> 0:29:45,595
+[SENTELL]
+I think you should concentrate more on
+getting your sea legs under you...
+
+
+487
+0:29:45,595 --> 0:29:48,804
+Before vying for department chief.
+
+
+488
+0:29:48,804 --> 0:29:50,733
+You have a knack for this stuff.
+
+
+489
+0:29:50,733 --> 0:29:54,991
+Scotty, would be eager to
+shanghai you for extra work
+
+
+490
+0:29:54,991 --> 0:30:14,904
+We've decrypted the Eagle log data.
+
+
+491
+0:30:14,904 --> 0:30:20,77
+[EAGLE CAPTAIN]
+Captain's Log, Stardate 813.2
+
+
+492
+0:30:20,77 --> 0:30:28,14
+An imperfection in our dilithium crystals
+has caused an engine imbalance.
+
+
+493
+0:30:28,14 --> 0:30:34,229
+It's created a wormhole and
+sent us across the quadrant. 
+
+
+494
+0:30:34,229 --> 0:30:38,51
+Long range communications are down. 
+
+
+495
+0:30:38,51 --> 0:30:43,346
+We have received an answer
+to our distress call...
+
+
+496
+0:30:43,346 --> 0:30:47,627
+from a nearby race known as the Meska. 
+
+
+497
+0:30:47,627 --> 0:30:55,667
+They've sent a ship
+[explosion]
+-- they sent a ship to help.
+
+
+498
+0:30:55,667 --> 0:30:58,93
+Captain's Log: Supplemental.
+
+
+499
+0:30:58,93 --> 0:31:3,65
+The Meskan! The Doctor warned me!
+
+
+500
+0:31:3,65 --> 0:31:6,847
+... Must attempt self-destruct!
+
+
+501
+0:31:6,847 --> 0:31:12,683
+Last resort! Take as many of them
+with us as we can!
+
+
+502
+0:31:12,683 --> 0:31:15,392
+[EAGLE SCIENCE OFFICER]
+No!
+
+
+503
+0:31:15,392 --> 0:31:40,797
+[Alersa cackles]
+
+
+504
+0:31:40,797 --> 0:31:43,542
+[McCOY]
+Maybe the Doctor wasn't affected.
+
+
+505
+0:31:43,542 --> 0:31:47,493
+[KIRK]
+The Captain obviously was.
+Alersa affected his mind.
+
+
+506
+0:31:47,493 --> 0:31:51,984
+She made him do things. Give orders
+he otherwise wouldn't have.
+
+
+507
+0:31:51,984 --> 0:31:54,104
+That crew was bound to follow.
+
+
+508
+0:31:54,104 --> 0:31:57,234
+[KYRIL]
+My wife suffered the same fate.
+
+
+509
+0:31:57,234 --> 0:32:0,847
+She was a captain in our fleet.
+
+
+510
+0:32:0,847 --> 0:32:2,597
+Three years ago...
+
+
+511
+0:32:2,597 --> 0:32:5,106
+Alersa captured her...
+
+
+512
+0:32:5,106 --> 0:32:9,989
+Twisted her mind.
+Used her against us all.
+
+
+513
+0:32:9,989 --> 0:32:14,428
+At Alersa's order, Shati killed my
+commander and destroyed his vessel.
+
+
+514
+0:32:14,428 --> 0:32:22,164
+To avoid further carnage...
+I had to give the order to--
+
+
+515
+0:32:22,164 --> 0:32:27,442
+My wife's death was at my OWN hands.
+
+
+516
+0:32:27,442 --> 0:32:31,401
+Alersa did more than deprive
+Shati of her identity, Captain.
+
+
+517
+0:32:31,401 --> 0:32:35,694
+She stole from me my life.
+
+
+518
+0:32:35,694 --> 0:32:38,156
+When I thought you Meskan...
+
+
+519
+0:32:38,156 --> 0:32:42,214
+I thought my fate the same as Shati's...
+
+
+520
+0:32:42,214 --> 0:32:43,728
+I owe you an apology.
+
+
+521
+0:32:43,728 --> 0:32:46,794
+KIRK:
+No. We owe you.
+
+
+522
+0:32:46,794 --> 0:32:51,564
+For allowing our technology to be stolen
+and used against you in the first place.
+
+
+523
+0:32:51,564 --> 0:32:52,877
+Options, Mr Scott?
+
+
+524
+0:32:52,877 --> 0:32:57,94
+[SCOTTY]
+Damn few. That blasted armour
+is a rodinium derivative alloy,
+
+
+525
+0:32:57,94 --> 0:32:59,75
+protecting her most sensitive areas.
+
+
+526
+0:32:59,75 --> 0:33:2,266
+[SPOCK]
+Scans of the armour's characteristics
+indicate a large fleet
+
+
+527
+0:33:2,266 --> 0:33:3,988
+moving toward the Peshan homeworld.
+
+
+528
+0:33:3,988 --> 0:33:5,934
+[KYRIL]
+Captain, you must stop them.
+
+
+529
+0:33:5,934 --> 0:33:8,515
+[KIRK]
+We can't engage an entire fleet.
+
+
+530
+0:33:8,515 --> 0:33:12,255
+We'd be killing thousands.
+
+
+531
+0:33:12,255 --> 0:33:15,228
+We've got to take the Eagle back.
+Kill the snake at it's head.
+
+
+532
+0:33:15,228 --> 0:33:17,396
+While its body devours my people?
+
+
+533
+0:33:17,396 --> 0:33:20,342
+[SPOCK]
+There may be a way to stop
+both Alersa and her fleet.
+
+
+534
+0:33:20,342 --> 0:33:24,72
+A review of the Eagle's logs indicate this area
+of space is uncommonly susceptible
+
+
+535
+0:33:24,72 --> 0:33:28,655
+to subspace disruption.
+
+
+536
+0:33:28,655 --> 0:33:31,202
+Local subspace disequilibrium.
+
+
+537
+0:33:31,202 --> 0:33:35,999
+Were the Eagle's engine output modified,
+it would disrupt subspace in this area for some time,
+
+
+538
+0:33:35,999 --> 0:33:39,141
+rendering faster than light travel impossible.
+
+
+539
+0:33:39,141 --> 0:33:41,972
+They're not going to voluntarily
+modify their engines.
+
+
+540
+0:33:41,972 --> 0:33:43,618
+[CHEKOV]
+It would take a saboteur.
+
+
+541
+0:33:43,618 --> 0:33:45,106
+[McCOY]
+Wait a minute...
+
+
+542
+0:33:45,106 --> 0:33:47,78
+"This area" includes where, exactly?
+
+
+543
+0:33:47,78 --> 0:33:51,132
+[SPOCK]
+We cannot know the location of
+every Meskan hybrid starship.
+
+
+544
+0:33:51,132 --> 0:33:55,31
+To be effective the disruption must
+encompass BOTH star systems.
+
+
+545
+0:33:55,31 --> 0:33:56,688
+[McCOY]
+My god, Jim...
+
+
+546
+0:33:56,688 --> 0:33:58,97
+That would isolate them totally.
+
+
+547
+0:33:58,97 --> 0:34:2,858
+What if their colony worlds
+can't survive without support?
+
+
+548
+0:34:2,858 --> 0:34:5,348
+Millions could die. On both sides.
+
+
+549
+0:34:5,348 --> 0:34:6,735
+[KIRK]
+Mr Spock...
+
+
+550
+0:34:6,735 --> 0:34:9,662
+How long would this disruption last?
+
+
+551
+0:34:9,662 --> 0:34:10,796
+Unknown.
+
+
+552
+0:34:10,796 --> 0:34:13,759
+[KYRIL]
+Many of our colonies would
+find life difficult for a time...
+
+
+553
+0:34:13,759 --> 0:34:17,154
+But this would keep my homeworld safe.
+
+
+554
+0:34:17,154 --> 0:34:18,849
+[McCOY]
+And what of the Meskan?
+
+
+555
+0:34:18,849 --> 0:34:20,36
+Who speaks for them?
+
+
+556
+0:34:20,36 --> 0:34:22,836
+They can't all support this war.
+
+
+557
+0:34:22,836 --> 0:34:25,203
+Those who don't die along with those who do?
+
+
+558
+0:34:25,203 --> 0:34:28,261
+[KYRIL]
+Such is the unfortunate
+price of warfare, Doctor.
+
+
+559
+0:34:28,261 --> 0:34:29,618
+WE are not the aggressors.
+
+
+560
+0:34:29,618 --> 0:34:32,555
+[McCOY]
+Yeah, well ask the dead if they give
+a damn who the aggressors are.
+
+
+561
+0:34:32,555 --> 0:34:34,6
+[KYRIL]
+Fewer would die this way.
+
+
+562
+0:34:34,6 --> 0:34:37,898
+[MCCOY]
+You don't know that. You CAN'T know that.
+
+
+563
+0:34:37,898 --> 0:34:41,693
+Jim, we can't do this.
+
+
+564
+0:34:41,693 --> 0:34:43,661
+[KIRK]
+I agree with the Doctor.
+
+
+565
+0:34:43,661 --> 0:34:47,493
+We'd be making a decision that would not
+only affect this generation
+
+
+566
+0:34:47,493 --> 0:34:50,4
+...but countless generations to come.
+
+
+567
+0:34:50,4 --> 0:34:52,461
+We can't doom two cultures like this.
+
+
+568
+0:34:52,461 --> 0:34:58,257
+[KYRIL]
+Captain, you argue for a posterity that
+won't exist should we die today!
+
+
+569
+0:34:58,257 --> 0:35:0,141
+Commander...
+
+
+570
+0:35:0,141 --> 0:35:2,906
+This isn't the answer.
+
+
+571
+0:35:2,906 --> 0:35:5,85
+[bosun whistle]
+
+
+572
+0:35:5,85 --> 0:35:6,239
+Kirk here.
+
+
+573
+0:35:6,239 --> 0:35:8,73
+[XON]
+Sensors have been restored, Captain.
+
+
+574
+0:35:8,73 --> 0:35:9,617
+But the Eagle is already gone.
+
+
+575
+0:35:9,617 --> 0:35:11,99
+[KIRK]
+Find them.
+All hands, battlestations.
+
+
+576
+0:35:11,99 --> 0:35:17,305
+[alert klaxon]
+
+
+577
+0:35:17,305 --> 0:35:22,43
+[KIRK] Captain's Log: Stardate 7232.8
+Commander Kyril has contacted his government.
+
+
+578
+0:35:22,43 --> 0:35:25,286
+They have approved the subspace
+destabilisation plan.
+
+
+579
+0:35:25,286 --> 0:35:27,321
+That makes my decision no easier.
+
+
+580
+0:35:27,321 --> 0:35:31,79
+What's left of the Peshan forces have
+pulled back to defend their home-world
+from an attacking Meskan fleet
+
+
+581
+0:35:31,79 --> 0:35:33,316
+that I must stop.
+
+
+582
+0:35:33,316 --> 0:35:37,59
+If necessary, with the drastic
+measure Spock has suggested.
+
+
+583
+0:35:37,59 --> 0:35:39,608
+[KIRK]
+She's alone again. Target the Eagle.
+
+
+584
+0:35:39,608 --> 0:35:40,65
+[CHEKOV]
+Aye, sir.
+
+
+585
+0:35:40,65 --> 0:35:42,29
+[SPOCK]
+Two vessels, incoming.
+
+
+586
+0:35:42,29 --> 0:35:43,552
+Hybrid Meskan starships.
+
+
+587
+0:35:43,552 --> 0:35:49,915
+Time to intercept:
+Three point two minutes
+
+
+588
+0:35:49,915 --> 0:35:52,603
+[KYRIL]
+Our sixth fleet...
+
+
+589
+0:35:52,603 --> 0:35:55,797
+Seventy-five hundred souls...
+
+
+590
+0:35:55,797 --> 0:36:0,239
+They're gone.
+
+
+591
+0:36:0,239 --> 0:36:3,837
+Now nothing stands between
+her and my planet.
+
+
+592
+0:36:3,837 --> 0:36:5,55
+We've got to get through that armour.
+
+
+593
+0:36:5,55 --> 0:36:9,406
+Keptin, it may be possible to strengthen
+our phasers enough to burn through
+
+
+594
+0:36:9,406 --> 0:36:12,84
+Ve could reroute our power
+directly through the varp engines.
+
+
+595
+0:36:12,84 --> 0:36:14,253
+[SCOTTY]
+Our relays really aren't designed
+to withstand that.
+
+
+596
+0:36:14,253 --> 0:36:15,394
+[KIRK]
+Bypass them.
+
+
+597
+0:36:15,394 --> 0:36:18,489
+Aye. But the firing circuits will
+only hold for a minute or two.
+
+
+598
+0:36:18,489 --> 0:36:21,272
+A minute or two will get her
+attention, Mr Scott.
+
+
+599
+0:36:21,272 --> 0:36:25,573
+Aye, sir.
+
+
+600
+0:36:25,573 --> 0:36:27,729
+Mr Spock, this plan...
+
+
+601
+0:36:27,729 --> 0:36:30,25
+How certain are you
+this thing's going to work?
+
+
+602
+0:36:30,25 --> 0:36:32,437
+The problem is not
+execution but timing.
+
+
+603
+0:36:32,437 --> 0:36:35,791
+In order for the Enterprise to
+escape the subsequent dead zone
+
+
+604
+0:36:35,791 --> 0:36:40,337
+The engine imbalance which created
+the wormhole and brought the Eagle to
+this system must be duplicated.
+
+
+605
+0:36:40,337 --> 0:36:43,972
+And only moments before setting off
+the susbspace disruption.
+
+
+606
+0:36:43,972 --> 0:36:47,643
+Kyril? Are you sure about this?
+Are your people sure?
+
+
+607
+0:36:47,643 --> 0:36:49,478
+I'm not.
+
+
+608
+0:36:49,478 --> 0:36:52,33
+But it's a price they
+are willing to pay.
+
+
+609
+0:36:52,33 --> 0:36:56,916
+There will at least be peace if neither
+side can visit war on the enemy.
+
+
+610
+0:36:56,916 --> 0:37:0,93
+If we are to be trapped together forever...
+
+
+611
+0:37:0,93 --> 0:37:3,118
+Maybe it's a just accounting for
+our respective crimes.
+
+
+612
+0:37:3,118 --> 0:37:5,84
+[KIRK]
+I can send you home in a shuttle.
+You'll reach your colony in--
+
+
+613
+0:37:5,84 --> 0:37:8,197
+[KYRIL]
+Captain, I was an astrophysicist.
+
+
+614
+0:37:8,197 --> 0:37:10,306
+If my people are to be lost to
+space-normal travel...
+
+
+615
+0:37:10,306 --> 0:37:14,849
+someone needs to be outside the
+phenomena, looking for a solution.
+
+
+616
+0:37:14,849 --> 0:37:18,265
+And I have no family to return to.
+
+
+617
+0:37:18,265 --> 0:37:21,276
+[KIRK]
+What adjustments do i need to make
+to the Eagle's engines?
+
+
+618
+0:37:21,276 --> 0:37:26,124
+Captain, I am the logical choice to beam
+over to the Eagle and affect the modifications.
+
+
+619
+0:37:26,124 --> 0:37:28,166
+Alersa's abilities may
+be a threat to you,
+
+
+620
+0:37:28,166 --> 0:37:29,881
+while my Vulcan mental disciplines--
+
+
+621
+0:37:29,881 --> 0:37:31,342
+[KIRK]
+Are needed here.
+
+
+622
+0:37:31,342 --> 0:37:35,88
+That woman murdered a starship
+captain and killed his crew.
+
+
+623
+0:37:35,88 --> 0:37:36,595
+I'm going, Spock.
+
+
+624
+0:37:36,595 --> 0:37:38,814
+[SPOCK]
+It will take two saboteurs.
+
+
+625
+0:37:38,814 --> 0:37:41,165
+Someone must route power
+to the proper circuits
+
+
+626
+0:37:41,165 --> 0:37:43,825
+while the other modifies the plasma flow.
+
+
+627
+0:37:43,825 --> 0:37:45,281
+[KIRK]
+Peter?
+
+
+628
+0:37:45,281 --> 0:37:46,529
+[PETER]
+Yes, sir?
+
+
+629
+0:37:46,529 --> 0:37:51,825
+I understand that you've been polishing
+your engineering skills.
+
+
+630
+0:37:51,825 --> 0:38:1,647
+Good. Because you're coming with me.
+
+
+631
+0:38:1,647 --> 0:38:5,486
+[ANDOCH]
+They're cruising at Warp 8,
+heading deep into our system.
+
+
+632
+0:38:5,486 --> 0:38:8,312
+[ALERSA]
+Increase speed to match.
+
+
+633
+0:38:8,312 --> 0:38:11,638
+[ANDOCH]
+The drain to the engines will limit disruptor
+batteries and our structural integrity.
+
+
+634
+0:38:11,638 --> 0:38:13,115
+ANDOCH!
+
+
+635
+0:38:13,115 --> 0:38:16,468
+Intercept the Enterprise.
+
+
+636
+0:38:16,468 --> 0:38:21,255
+Everything I have worked to achieve
+will not be destroyed.
+
+
+637
+0:38:21,255 --> 0:38:25,109
+You know why? Do you?
+
+
+638
+0:38:25,109 --> 0:38:39,97
+Because you will not let that happen.
+
+
+639
+0:38:39,97 --> 0:38:41,391
+[PETER]
+Mr Scott?
+
+
+640
+0:38:41,391 --> 0:38:44,278
+Request permission to assist
+with the warp phasers.
+
+
+641
+0:38:44,278 --> 0:38:46,891
+"Warp phasers"? Is that what
+we're calling 'em now?
+
+
+642
+0:38:46,891 --> 0:38:49,406
+They will be powered
+by the warp engines, sir.
+
+
+643
+0:38:49,406 --> 0:38:51,284
+Aye.
+
+
+644
+0:38:51,284 --> 0:38:53,173
+You lads finish these bypasses.
+
+
+645
+0:38:53,173 --> 0:39:0,508
+I gotta get back to
+ruining my engines.
+
+
+646
+0:39:0,508 --> 0:39:4,919
+[KYLE]
+Imbalancing the engines puts the
+lives of everyone onboard at risk.
+
+
+647
+0:39:4,919 --> 0:39:7,393
+Nobody knows that
+better than Scotty.
+
+
+648
+0:39:7,393 --> 0:39:10,79
+[PETER]
+What if it doesn't work and
+there is no wormhole?
+
+
+649
+0:39:10,79 --> 0:39:13,506
+[KYLE]
+We're sending out a warp buoy
+ahead of the destabilisation wave.
+
+
+650
+0:39:13,506 --> 0:39:15,559
+Starfleet will be briefed
+in three weeks.
+
+
+651
+0:39:15,559 --> 0:39:17,18
+[PETER]
+And we'll be trapped here?
+
+
+652
+0:39:17,18 --> 0:39:19,53
+[KYLE]
+Not to worry, Ensign...
+
+
+653
+0:39:19,53 --> 0:39:25,476
+There's a Class 'M' planet only
+thirteen years away at impulse.
+
+
+654
+0:39:25,476 --> 0:39:27,356
+Mr Chekov, It's the Eagle we want.
+
+
+655
+0:39:27,356 --> 0:39:28,473
+Even the odds.
+
+
+656
+0:39:28,473 --> 0:39:34,622
+Aye, sir
+
+
+657
+0:39:34,622 --> 0:39:42,102
+[SPOCK]
+Eagle is returning fire.
+All weapon banks.
+
+
+658
+0:39:42,102 --> 0:39:45,376
+[UHURA]
+Casualty reports.
+
+
+659
+0:39:45,376 --> 0:39:48,21
+Multiple injuries, Captain.
+
+
+660
+0:39:48,21 --> 0:39:52,581
+Bridge to Kyle.
+
+
+661
+0:39:52,581 --> 0:39:55,743
+Captain, I should really
+run a diagnostic--
+
+
+662
+0:39:55,743 --> 0:39:57,255
+We need those phasers now!
+
+
+663
+0:39:57,255 --> 0:39:59,838
+[KYLE]
+These circuits weren't meant
+for this. They're going to blow.
+
+
+664
+0:39:59,838 --> 0:40:3,736
+Kyle, throw the switch!
+
+
+665
+0:40:3,736 --> 0:40:5,903
+[CHEKOV]
+Keptin! Phasers online!
+
+
+666
+0:40:5,903 --> 0:40:25,681
+Fire.
+
+
+667
+0:40:25,681 --> 0:40:27,41
+[ANDOCH]
+Shields and weapons offline.
+
+
+668
+0:40:27,41 --> 0:40:30,393
+[ALERSA]
+Hide them from, Kirk --
+and jam their sensors!
+
+
+669
+0:40:30,393 --> 0:40:37,417
+And get those weapons back!
+
+
+670
+0:40:37,417 --> 0:40:38,666
+[CHEKOV]
+Chot!
+
+
+671
+0:40:38,666 --> 0:40:41,436
+Phasers -- torpedoes -- The
+whole weapons sub-system.
+
+
+672
+0:40:41,436 --> 0:40:43,293
+Gone.
+
+
+673
+0:40:43,293 --> 0:40:45,626
+[KIRK}
+Kyle, get those weapons back online.
+
+
+674
+0:40:45,626 --> 0:40:48,414
+[KYLE]
+Aye, sir.
+
+
+675
+0:40:48,414 --> 0:40:51,124
+KIRK:
+Uhura, get me the Eagle.
+
+
+676
+0:40:51,124 --> 0:40:53,43
+Onscreen.
+
+
+677
+0:40:53,43 --> 0:40:57,408
+Alersa. I think its time we
+meet face to face.
+
+
+678
+0:40:57,408 --> 0:40:59,892
+We're prepared to beam you
+aboard the Enterprise.
+
+
+679
+0:40:59,892 --> 0:41:1,439
+[ALERSA]
+Captain Kirk...
+
+
+680
+0:41:1,439 --> 0:41:5,931
+I had no idea what a developed sense
+of humour you Starfleet men have.
+
+
+681
+0:41:5,931 --> 0:41:8,43
+Well we've flexed our muscles...
+
+
+682
+0:41:8,43 --> 0:41:9,609
+We've tested each other.
+
+
+683
+0:41:9,609 --> 0:41:13,369
+We've looked and found our
+strengths and weaknesses.
+
+
+684
+0:41:13,369 --> 0:41:14,893
+Let's talk.
+
+
+685
+0:41:14,893 --> 0:41:18,473
+I'm sure we can come to some
+sort of understanding.
+
+
+686
+0:41:18,473 --> 0:41:23,223
+So now it's my turn to slit this
+pretty throat for you?
+
+
+687
+0:41:23,223 --> 0:41:24,392
+[KIRK]
+No.
+
+
+688
+0:41:24,392 --> 0:41:26,399
+I'll come to you.
+
+
+689
+0:41:26,399 --> 0:41:30,29
+This way you will get a first hand look
+at the operation of our transporters.
+
+
+690
+0:41:30,29 --> 0:41:32,36
+Captain Kirk...
+
+
+691
+0:41:32,36 --> 0:41:38,2
+You become more interesting
+with each passing moment.
+
+
+692
+0:41:38,2 --> 0:41:44,365
+Come to me.
+
+
+693
+0:41:44,365 --> 0:41:48,205
+[SENTELL]
+Transporter controls have been rewired so
+we can beam both signals in at the same time...
+
+
+694
+0:41:48,205 --> 0:41:50,119
+The second signal won't be detected.
+
+
+695
+0:41:50,119 --> 0:41:53,194
+We've rigged it for maximum speed transport,
+to limit time shields are down.
+
+
+696
+0:41:53,194 --> 0:41:55,969
+[KIRK]
+You have the co-ordinates to beam
+Ensign Kirk to the Jefferies tube.
+
+
+697
+0:41:55,969 --> 0:41:57,24
+[SENTELL]
+Aye, sir.
+
+
+698
+0:41:57,24 --> 0:42:0,586
+MCCOY:
+Keep a lock on those subcutaneous
+transponders at all times.
+
+
+699
+0:42:0,586 --> 0:42:3,4
+And you...
+
+
+700
+0:42:3,4 --> 0:42:7,775
+Try not dig this one out with a spoon.
+
+
+701
+0:42:7,775 --> 0:42:10,217
+[KIRK]
+Energise.
+
+
+702
+0:42:10,217 --> 0:42:19,499
+[SENTELL]
+Energising.
+
+
+703
+0:42:19,499 --> 0:42:22,28
+[McCOY]
+Two Kirks...
+
+
+704
+0:42:22,28 --> 0:42:26,2
+God must be punishing me.
+
+
+705
+0:42:26,2 --> 0:42:42,462
+[ANDOCH]
+If we were smart we'd kill him now.
+
+
+706
+0:42:42,462 --> 0:42:43,708
+[communicator chirp]
+
+
+707
+0:42:43,708 --> 0:42:45,743
+[ALERSA]
+What's the delay?
+
+
+708
+0:42:45,743 --> 0:42:48,236
+[ANDOCH]
+He's aboard m'lady, we'll take
+him to the briefing room--
+
+
+709
+0:42:48,236 --> 0:42:50,275
+[ALERSA]
+My quarters, Andoch.
+
+
+710
+0:42:50,275 --> 0:42:51,612
+[ANDOCH]
+I thought that-- 
+
+
+711
+0:42:51,612 --> 0:42:54,534
+[ALERSA]
+What have I told you about thinking?
+
+
+712
+0:42:54,534 --> 0:43:15,981
+Don't think. JUST DO as I say.
+
+
+713
+0:43:15,981 --> 0:43:18,67
+[SENTELL]
+No change, Mr Spock.
+
+
+714
+0:43:18,67 --> 0:43:21,713
+We can't maintain a lock
+on the Captain's transponder.
+
+
+715
+0:43:21,713 --> 0:43:24,532
+We've done everything we
+can to boost the signal.
+
+
+716
+0:43:24,532 --> 0:43:26,98
+[SPOCK]
+The armour is interfering
+with the transmission
+
+
+717
+0:43:26,98 --> 0:43:39,409
+[McCOY]
+What about, Peter?
+
+
+718
+0:43:39,409 --> 0:43:44,271
+[SENTELL]
+I have a lock on Ensign Kirk.
+He's in a less protected section.
+
+
+719
+0:43:44,271 --> 0:43:48,397
+Mr Spock, if we can reach the Captain via
+communicator to establish his general position
+
+
+720
+0:43:48,397 --> 0:43:50,517
+...and keep the shields
+down 75% longer.
+
+
+721
+0:43:50,517 --> 0:43:54,602
+That would leave the Enterprise open to heavy
+attack should the Eagle restore her weapons.
+
+
+722
+0:43:54,602 --> 0:43:56,818
+Spock, we are not
+leaving Jim behind.
+
+
+723
+0:43:56,818 --> 0:44:7,45
+If we cannot locate him, Doctor
+we may not have a choice.
+
+
+724
+0:44:7,45 --> 0:44:9,896
+[ALERSA]
+Captain Kirk...
+
+
+725
+0:44:9,896 --> 0:44:14,24
+Well, in person at last.
+
+
+726
+0:44:14,24 --> 0:44:16,995
+Are you truly here to talk?
+
+
+727
+0:44:16,995 --> 0:44:20,102
+Or are you secretly
+planning to kill me?
+
+
+728
+0:44:20,102 --> 0:44:22,779
+[KIRK]
+Well telling you would take away
+half the challenge, wouldn't it?
+
+
+729
+0:44:22,779 --> 0:44:26,398
+Ohhhh... We are two of a kind.
+
+
+730
+0:44:26,398 --> 0:44:31,211
+Why don't we just start with a
+tour of your modifications.
+
+
+731
+0:44:31,211 --> 0:44:33,797
+I have something else in mind.
+
+
+732
+0:44:33,797 --> 0:44:34,9
+[ANDOCH]
+Alersa...
+
+
+733
+0:44:34,9 --> 0:44:36,606
+Do not question me, Andoch.
+
+
+734
+0:44:36,606 --> 0:44:48,407
+Or your next visit to these quarters
+will be far less pleasant than usual.
+
+
+735
+0:44:48,407 --> 0:45:2,1
+[KIRK]
+No guards. I'm flattered.
+
+
+736
+0:45:2,1 --> 0:45:14,527
+[ALERSA]
+You don't strike me as the type of man
+who would hurt a defenceless lady.
+
+
+737
+0:45:14,527 --> 0:45:19,805
+And you don't strike
+me as a lady...
+
+
+738
+0:45:19,805 --> 0:45:21,837
+...who's defenceless.
+
+
+739
+0:45:21,837 --> 0:45:25,5
+You are right about one thing...
+
+
+740
+0:45:25,5 --> 0:45:33,59
+I'm anything but defenceless.
+
+
+741
+0:45:33,59 --> 0:45:36,944
+[ALERSA]
+You see we are the same... don't you?
+
+
+742
+0:45:36,944 --> 0:45:40,692
+Yes, we are...
+
+
+743
+0:45:40,692 --> 0:45:43,236
+But not exactly.
+
+
+744
+0:45:43,236 --> 0:45:46,804
+I'm glad you noticed, Captain.
+
+
+745
+0:45:46,804 --> 0:45:54,545
+Call me, Jim.
+
+
+746
+0:45:54,545 --> 0:45:57,277
+Call me, Alersa.
+
+
+747
+0:45:57,277 --> 0:46:2,218
+Jim, you were going to
+tell me why you're here.
+
+
+748
+0:46:2,218 --> 0:46:4,99
+Well...
+
+
+749
+0:46:4,99 --> 0:46:5,703
+I'd like too.
+
+
+750
+0:46:5,703 --> 0:46:9,563
+[ALERSA]
+Yes...
+
+
+751
+0:46:9,563 --> 0:46:11,618
+I... I can't.
+
+
+752
+0:46:11,618 --> 0:46:13,41
+You can..
+
+
+753
+0:46:13,41 --> 0:46:15,85
+Jim....
+
+
+754
+0:46:15,85 --> 0:46:19,421
+You trusted me the
+moment we met.
+
+
+755
+0:46:19,421 --> 0:46:21,12
+[KIRK]
+I trusted you.
+
+
+756
+0:46:21,12 --> 0:46:38,189
+[ALERSA]
+Yes.
+
+
+757
+0:46:38,189 --> 0:46:40,73
+[communicator chirp]
+
+
+758
+0:46:40,73 --> 0:46:42,727
+[PETER]
+Modifications complete, Mr Spock.
+
+
+759
+0:46:42,727 --> 0:46:46,879
+Acknowledged. Activate at Mr Sentell's
+signal for transporter coordination
+
+
+760
+0:46:46,879 --> 0:46:49,865
+[McCOY]
+Peter, the Captain's
+transponder isn't working.
+
+
+761
+0:46:49,865 --> 0:46:56,102
+Mr Spock, Standby. I can set
+this to trigger remotely.
+
+
+762
+0:46:56,102 --> 0:47:5,666
+I'm going to find
+the Captain.
+
+
+763
+0:47:5,666 --> 0:47:8,877
+[ALERSA]
+Jim...
+
+
+764
+0:47:8,877 --> 0:47:13,405
+Jim, I think it's time for you
+to tell me why you're here.
+
+
+765
+0:47:13,405 --> 0:47:19,937
+[KIRK]
+Your armour modifications would take
+us years to learn about from scans.
+
+
+766
+0:47:19,937 --> 0:47:25,851
+I came to get the information
+for Starfleet.
+
+
+767
+0:47:25,851 --> 0:47:27,961
+[ALERSA]
+Jim...
+
+
+768
+0:47:27,961 --> 0:47:33,974
+That would have been
+very, very, very naughty.
+
+
+769
+0:47:33,974 --> 0:47:37,85
+You should beg forgiveness
+shouldn't you?
+
+
+770
+0:47:37,85 --> 0:47:38,448
+[KIRK]
+I should.
+
+
+771
+0:47:38,448 --> 0:47:41,189
+[ALERSA]
+Yes...
+
+
+772
+0:47:41,189 --> 0:47:45,328
+[KIRK]
+The transporter. You want it.
+
+
+773
+0:47:45,328 --> 0:47:49,721
+I could show you how to fix it.
+
+
+774
+0:47:49,721 --> 0:47:52,377
+Show me.
+
+
+775
+0:47:52,377 --> 0:47:55,614
+Show me how to
+have more power.
+
+
+776
+0:47:55,614 --> 0:47:58,837
+... and all will be forgiven.
+
+
+777
+0:47:58,837 --> 0:48:1,79
+[KIRK]
+Take me to your Engineer.
+
+
+778
+0:48:1,79 --> 0:48:3,167
+Yes.
+
+
+779
+0:48:3,167 --> 0:48:7,568
+I'll show him.
+
+
+780
+0:48:7,568 --> 0:48:9,711
+[ALERSA]
+It's alright.
+
+
+781
+0:48:9,711 --> 0:48:13,652
+[stuns]
+
+
+782
+0:48:13,652 --> 0:48:15,878
+[ALERSA]
+Impossible...
+
+
+783
+0:48:15,878 --> 0:48:17,515
+You couldn't have.
+
+
+784
+0:48:17,515 --> 0:48:22,448
+Oh, I wouldn't have.
+Not with you.
+
+
+785
+0:48:22,448 --> 0:48:27,945
+[stuns]
+
+
+786
+0:48:27,945 --> 0:48:30,955
+[PETER]
+Somehow I knew I'd find you here.
+
+
+787
+0:48:30,955 --> 0:48:32,29
+What happened?
+
+
+788
+0:48:32,29 --> 0:48:33,64
+]KIRK]
+Exhaustion.
+What are you doing here?
+
+
+789
+0:48:33,64 --> 0:48:35,401
+There's no signal from
+your transponder.
+
+
+790
+0:48:35,401 --> 0:48:37,995
+I've set the disruption to
+trigger from remote.
+
+
+791
+0:48:37,995 --> 0:48:47,608
+[KIRK]
+Inside.
+
+
+792
+0:48:47,608 --> 0:48:50,78
+[SENTELL]
+Mr Spock, we've lost
+both signals now.
+
+
+793
+0:48:50,78 --> 0:48:55,298
+[XON]
+They've restored weapons and
+are charging all ports.
+
+
+794
+0:48:55,298 --> 0:48:58,968
+[SCOTTY]
+The imbalance will begin at warp one
+but if they fire their disruptors.
+
+
+795
+0:48:58,968 --> 0:49:3,411
+Take evasive action.
+
+
+796
+0:49:3,411 --> 0:49:5,914
+The Eagle's engines are
+whining like a toy...
+
+
+797
+0:49:5,914 --> 0:49:8,247
+We've got less than 50 seconds.
+
+
+798
+0:49:8,247 --> 0:49:9,724
+[bosun whistle]
+
+
+799
+0:49:9,724 --> 0:49:12,493
+[KIRK]
+Enterprise, two to beam out.
+Deck 5. Section 7.
+
+
+800
+0:49:12,493 --> 0:49:14,588
+[SPOCK]
+Transporter room.
+Prepare to energise.
+
+
+801
+0:49:14,588 --> 0:49:16,12
+Lower the shields.
+
+
+802
+0:49:16,12 --> 0:49:17,15
+Mr Sentell...
+
+
+803
+0:49:17,15 --> 0:49:30,85
+You have 42.9 seconds.
+
+
+804
+0:49:30,85 --> 0:49:33,441
+[UHURA]
+We've got them, Mr Spock.
+
+
+805
+0:49:33,441 --> 0:49:35,81
+[CHEKOV]
+Shields up.
+
+
+806
+0:49:35,81 --> 0:49:36,971
+Launch the warp buoy, Mr Chekov.
+
+
+807
+0:49:36,971 --> 0:49:41,259
+Mr Sulu, warp one.
+
+
+808
+0:49:41,259 --> 0:49:50,97
+[beeping]
+
+
+809
+0:49:50,97 --> 0:50:26,302
+[ALERSA]
+Noooooooooo!
+
+
+810
+0:50:26,302 --> 0:50:28,666
+[SPOCK]
+Federation Space, Captain.
+
+
+811
+0:50:28,666 --> 0:50:31,89
+[SULU]
+Exactly, three parsecs
+from Starbase seven.
+
+
+812
+0:50:31,89 --> 0:50:34,884
+[SPOCK]
+I thought we might need the
+benefit of their repair facilities.
+
+
+813
+0:50:34,884 --> 0:50:37,749
+[KYRIL]
+Did you kill her?
+
+
+814
+0:50:37,749 --> 0:50:39,893
+[KIRK]
+She's stranded, Commander.
+
+
+815
+0:50:39,893 --> 0:50:44,774
+Powerless.
+
+
+816
+0:50:44,774 --> 0:50:47,88
+I'd call that justice.
+
+
+817
+0:50:47,88 --> 0:50:51,817
+[KYRIL]
+A shallow justice, Captain.
+
+
+818
+0:50:51,817 --> 0:50:55,9
+[KIRK] Captain's Log: Stardate 7233.1
+
+
+819
+0:50:55,9 --> 0:50:57,198
+Repairs are almost complete.
+
+
+820
+0:50:57,198 --> 0:51:0,818
+Starfleet is gathering a taskforce which
+will be heading for Peshan Space.
+
+
+821
+0:51:0,818 --> 0:51:5,388
+Probes detect the dead zone blanketing
+the entirety of the Peshan and Meskan systems.
+
+
+822
+0:51:5,388 --> 0:51:8,2
+For how long we can't be sure.
+
+
+823
+0:51:8,2 --> 0:51:11,382
+[door buzzer]
+
+
+824
+0:51:11,382 --> 0:51:15,399
+[KIRK]
+Come.
+
+
+825
+0:51:15,399 --> 0:51:19,727
+[CHEKOV]
+You vanted to see me, sir.
+
+
+826
+0:51:19,727 --> 0:51:22,504
+Yes, I did.
+
+
+827
+0:51:22,504 --> 0:51:26,986
+Mr Chekov, your idea to channel the
+phasers through the main warp engines.
+
+
+828
+0:51:26,986 --> 0:51:30,45
+Do you realise it destroyed the
+entire weapons sub-systems.
+
+
+829
+0:51:30,45 --> 0:51:32,142
+[CHEKOV]
+Yes, sir, I...
+
+
+830
+0:51:32,142 --> 0:51:33,853
+I'm aware of that.
+
+
+831
+0:51:33,853 --> 0:51:35,192
+I'm sorry, sir.
+
+
+832
+0:51:35,192 --> 0:51:37,873
+[KIRK]
+You saved the ship.
+
+
+833
+0:51:37,873 --> 0:51:39,741
+You saved my life
+on the planet.
+
+
+834
+0:51:39,741 --> 0:51:42,756
+Keptin, I vas only doing vhat
+any good officer vould do.
+
+
+835
+0:51:42,756 --> 0:51:47,829
+Mr Chekov, you consistently see dangers to this
+ship and this crew long before the rest of us do.
+
+
+836
+0:51:47,829 --> 0:51:50,371
+You're at the navigation station, you...
+
+
+837
+0:51:50,371 --> 0:51:53,686
+Strategise and Analyse.
+
+
+838
+0:51:53,686 --> 0:51:56,958
+See things the rest of
+us never dream of.
+
+
+839
+0:51:56,958 --> 0:51:59,754
+You have a fatalistic
+heart, Mr Chekov.
+
+
+840
+0:51:59,754 --> 0:52:9,429
+Sir, I'm sorry i have
+disappointed you.
+
+
+841
+0:52:9,429 --> 0:52:15,846
+I'm going to make you
+Chief of Security.
+
+
+842
+0:52:15,846 --> 0:52:19,22
+In addition to your
+duties as navigator.
+
+
+843
+0:52:19,22 --> 0:52:20,829
+Thank you, sir.
+
+
+844
+0:52:20,829 --> 0:52:25,902
+You realise of course this will put
+Mr Kirk under your direct command.
+
+
+845
+0:52:25,902 --> 0:52:29,522
+I understand you've already
+taken him under your wing.
+
+
+846
+0:52:29,522 --> 0:52:32,298
+N-not that I'm
+aware of, sir.
+
+
+847
+0:52:32,298 --> 0:52:33,612
+[KIRK]
+Well...
+
+
+848
+0:52:33,612 --> 0:52:38,653
+He's going to need a mentor and I can't
+think of anyone more suited to the task.
+
+
+849
+0:52:38,653 --> 0:52:40,467
+You know how he is...
+
+
+850
+0:52:40,467 --> 0:52:42,511
+He's a bit too rash.
+
+
+851
+0:52:42,511 --> 0:52:44,796
+Stubborn.
+
+
+852
+0:52:44,796 --> 0:52:48,807
+Competitive.
+
+
+853
+0:52:48,807 --> 0:52:54,321
+And he's way too hard on himself.
+
+
+854
+0:52:54,321 --> 0:52:58,11
+Consensus on this ship is that he
+reminds you of somebody else.
+
+
+855
+0:52:58,11 --> 0:52:59,46
+[CHEKOV]
+Yes...
+
+
+856
+0:52:59,46 --> 0:53:3,431
+You.
+
+
+857
+0:53:3,431 --> 0:53:11,538
+Keptin.
+
+
+858
+0:53:11,538 --> 0:53:14,144
+[KYRIL]
+Captain. Gentlemen.
+
+
+859
+0:53:14,144 --> 0:53:17,638
+I'm glad we got the chance to say goodbye
+before I transport to the Lexington.
+
+
+860
+0:53:17,638 --> 0:53:21,324
+My people are safe and I have
+all of you to thank for it.
+
+
+861
+0:53:21,324 --> 0:53:23,203
+Especially you...
+
+
+862
+0:53:23,203 --> 0:53:25,684
+for risking yourself to
+Alersa's powerful will.
+
+
+863
+0:53:25,684 --> 0:53:27,748
+[McCOY]
+Well she'd never
+met a Kirk before.
+
+
+864
+0:53:27,748 --> 0:53:29,631
+[PETER]
+We have will to spare, sir.
+
+
+865
+0:53:29,631 --> 0:53:31,81
+[KIRK]
+And we managed to
+use it together.
+
+
+866
+0:53:31,81 --> 0:53:33,101
+[McCOY]
+Commander Kyril...
+
+
+867
+0:53:33,101 --> 0:53:35,624
+Good luck on finding a
+solution to the dead zone.
+
+
+868
+0:53:35,624 --> 0:53:39,891
+[SPOCK]
+I shall be interested in monitoring
+the progress of the taskforce.
+
+
+869
+0:53:39,891 --> 0:53:42,205
+[KIRK]
+There may be no solution coming.
+
+
+870
+0:53:42,205 --> 0:53:46,219
+[KYRIL]
+No but it was necessary to
+stop the slaughter.
+
+
+871
+0:53:46,219 --> 0:53:50,696
+Perhaps now, both sides will be more focused
+on the problems the dead zone presents
+
+
+872
+0:53:50,696 --> 0:53:53,661
+Rather than on a war that
+can no longer be fought.
+
+
+873
+0:53:53,661 --> 0:53:55,197
+[KIRK]
+Well...
+
+
+874
+0:53:55,197 --> 0:53:58,217
+I hope that you see your home
+again and that your people prosper.
+
+
+875
+0:53:58,217 --> 0:54:0,281
+No matter what their conditions.
+
+
+876
+0:54:0,281 --> 0:54:9,873
+[SPOCK]
+Lexington signals. They're ready, sir.
+
+
+877
+0:54:9,873 --> 0:54:12,43
+[KIRK]
+Safe travels, Commander.
+
+
+878
+0:54:12,43 --> 0:54:14,6
+And you, Captain.
+
+
+879
+0:54:14,6 --> 0:54:26,258
+Energise.
+
+
+880
+0:54:26,258 --> 0:54:28,864
+Now there goes one brave man.
+
+
+881
+0:54:28,864 --> 0:54:33,702
+The Peshan are a brave people to have embraced a
+solution with such complex challenges.
+
+
+882
+0:54:33,702 --> 0:54:35,962
+The challenge begins now, Spock.
+
+
+883
+0:54:35,962 --> 0:54:39,996
+Where facing life in a world that everyday
+presents a new set of challenges.
+
+
+884
+0:54:39,996 --> 0:54:48,25
+It's going to take a lot of courage to
+work together for the common good.
+
+
+885
+0:54:48,25 --> 0:54:53,629
+Courage, gentlemen:
+The order of the day.
+
+
+886
+0:54:53,629 --> 0:55:5,691
+[music swells]
+
+
+887
+0:55:5,691 --> 0:55:7,35
+This is James Cawley.
+
+
+888
+0:55:7,35 --> 0:55:11,998
+Stay tuned for exciting scenes
+from our next 'Star Trek'
+
+
+889
+0:55:11,998 --> 0:55:17,608
+Next Time on Star Trek: Phase II
+
+
+890
+0:55:17,608 --> 0:55:26,202
+Reading something ahead, Commander.
+Looks to be a nebula.
+
+
+891
+0:55:26,202 --> 0:55:29,37
+Should we wake the Captain, sir?
+
+
+892
+0:55:29,37 --> 0:55:31,558
+I don't understand it...
+
+
+893
+0:55:31,558 --> 0:55:33,5
+I have not broken my vow.
+
+
+894
+0:55:33,5 --> 0:55:35,64
+What's wrong Isel?
+
+
+895
+0:55:35,64 --> 0:55:36,938
+I'm pregnant, Doctor.
+
+
+896
+0:55:36,938 --> 0:55:40,227
+KIRK:
+That child may pose a threat to this
+ship in ways we cannot anticipate
+
+
+897
+0:55:40,227 --> 0:55:41,989
+No matter how much Isel,
+loves that child.
+
+
+898
+0:55:41,989 --> 0:55:44,683
+It was placed inside her
+by an unknown alien.
+
+
+899
+0:55:44,683 --> 0:55:46,103
+For an unknown reason.
+
+
+900
+0:55:46,103 --> 0:55:47,16
+ISEL:
+Mother...
+
+
+901
+0:55:47,16 --> 0:55:51,27
+[Baby laughter]
+
+
+902
+0:55:51,27 --> 0:55:53,317
+PETER:
+Something is being beamed
+aboard from the alien cylinder.
+
+
+903
+0:55:53,317 --> 0:55:57,46
+The alien energy beam is focused on
+impulse engine: plasma cooling unit 2
+
+
+904
+0:55:57,46 --> 0:55:58,563
+KIRK:
+Lock phasers on target.
+
+
+905
+0:55:58,563 --> 0:55:59,992
+SULU:
+Locked on target, sir.
+
+
+906
+0:55:59,992 --> 0:56:1,918
+KIRK:
+Fire
+
+
+907
+0:56:1,918 --> 0:56:3,545
+SCOTTY:
+Medical team to Engineering
+
+
+908
+0:56:3,545 --> 0:56:6,609
+Lt Ross has taken a massive
+dose of Theta Radiation
+
+
+909
+0:56:6,609 --> 0:56:9,626
+KIRK:
+Do you have any idea whether or not
+she's connected to that cylinder out there
+
+
+910
+0:56:9,626 --> 0:56:11,677
+CHILD:
+I didn't mean to hurt you.
+
+
+911
+0:56:11,677 --> 0:56:14,37
+KIRK:
+Spock. What happened?
+
+
+912
+0:56:14,37 --> 0:56:24,222
+SPOCK:
+It was intoxicating
+
+
+913
+0:56:24,222 --> 0:56:27,875
+CHILD:
+Mr Scott is dying.
+I have to help him.
+
+
+914
+0:56:27,875 --> 0:56:32,237
+SPOCK:
+It is an extreme bio-toxin and we
+were exposed to a lethal dose
+
+
+915
+0:56:32,237 --> 0:56:35,952
+Unless Dr McCoy can
+counteract it within 6.2 hours
+
+
+916
+0:56:35,952 --> 0:57:41,139
+It will kill us all.
+
+
+917
+0:57:41,139 --> 0:59:41,139
+[English Subtitles - Peter Goundrill and Peter Walker]
+
+

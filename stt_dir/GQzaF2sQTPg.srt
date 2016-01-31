@@ -1,0 +1,188 @@
+1
+0:0:1,199 --> 0:0:11,589
+FREUND: The brain initiative recently announced
+by the White House is really designed to facilitate
+
+
+2
+0:0:11,589 --> 0:0:16,91
+innovative strategies to better understand
+the brain. And in order to do that we need
+
+
+3
+0:0:16,91 --> 0:0:22,2
+new technologies. CLARITY is a great example
+of the type of new technologies that will
+
+
+4
+0:0:22,2 --> 0:0:25,16
+enable future brain studies.
+
+
+5
+0:0:25,16 --> 0:0:31,3
+So prior to this technology, scientists used
+methods where they would take thin slices
+
+
+6
+0:0:31,3 --> 0:0:38,4
+of the brain. They would put these on glass
+slides, process them with antibodies, which
+
+
+7
+0:0:38,4 --> 0:0:44,87
+illuminate what chemicals are there. And then
+they would have to use a microscope to study
+
+
+8
+0:0:44,87 --> 0:0:49,22
+which transmitters are in which locations.
+Unfortunately, you can’t see the structure
+
+
+9
+0:0:49,22 --> 0:0:52,21
+of a neuron in a brain slice.
+
+
+10
+0:0:52,21 --> 0:0:57,98
+So with this technology, they’re able to
+look at the entire neuron in a three dimensional
+
+
+11
+0:0:57,98 --> 0:1:5,95
+volume. And with this three dimensional structure
+intact, you can see where the neuron starts
+
+
+12
+0:1:5,95 --> 0:1:12,359
+and what brain region it projects to. In slices,
+you can only see what’s in the position
+
+
+13
+0:1:12,359 --> 0:1:18,149
+where you started. And what this technology
+will allow is to do is not only study what
+
+
+14
+0:1:18,149 --> 0:1:25,1
+molecular or single elements of a cell are
+located in a neuron, but how those communicate
+
+
+15
+0:1:25,1 --> 0:1:27,399
+with other elements in the brain.
+
+
+16
+0:1:27,399 --> 0:1:31,479
+So in the recent publication by Deisseroth
+and colleagues, they describe not only the
+
+
+17
+0:1:31,479 --> 0:1:37,49
+ability to look at animal models – or whole
+brains of animals – but also the ability
+
+
+18
+0:1:37,49 --> 0:1:43,499
+to look in human brain. So in a post-mortem
+brain from a child suffering from autism,
+
+
+19
+0:1:43,499 --> 0:1:49,889
+they were able to trace neuronal projections
+from a significant volume of tissue. They’re
+
+
+20
+0:1:49,889 --> 0:1:57,74
+also able to use the technology to stain for
+neurochemicals located in that brain region.
+
+
+21
+0:1:57,74 --> 0:2:2,49
+And the potential for this type of research
+is great for understanding how disruptions
+
+
+22
+0:2:2,49 --> 0:2:9,489
+in neural circuitry are involved in disorders.
+It has really transformative potential.
+
+
+23
+0:2:9,489 --> 0:2:16,19
+The technology shows us in the video an area
+of the brain that’s involved in memory,
+
+
+24
+0:2:16,19 --> 0:2:21,599
+the hippocampus. And this video shows the
+neurons that are involved in processing memory,
+
+
+25
+0:2:21,599 --> 0:2:27,72
+where they project, and what neurotransmitters,
+or chemicals are contained in those neurons.
+
+
+26
+0:2:27,72 --> 0:2:31,78
+And it shows this in three dimensions, so
+you see not only where they start and where
+
+
+27
+0:2:31,78 --> 0:2:35,4
+they project and how they might interact to
+form memories.
+
+
+28
+0:2:35,4 --> 0:2:41,269
+The video through an entire mouse brain shows
+us how neurons are connected. So the neural
+
+
+29
+0:2:41,269 --> 0:2:45,959
+circuitry – which neurons project to which
+areas in the brain, how they might be involved
+
+
+30
+0:2:45,959 --> 0:2:52,849
+in giving commands to execute certain functions
+that we know about from physiology studies,
+
+
+31
+0:2:52,849 --> 0:2:57,79
+but we don’t actually know how they connect
+to each other. This technology allows you
+
+
+32
+0:2:57,79 --> 0:4:57,79
+to bring those together.
+
+

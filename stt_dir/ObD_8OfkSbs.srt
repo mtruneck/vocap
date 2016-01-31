@@ -1,0 +1,250 @@
+1
+0:0:2,53 --> 0:0:6,84
+– I bought something from you last week, and I'm very disappointed.
+
+
+2
+0:0:6,84 --> 0:0:8,56
+– Oh yeah? What's the problem?
+
+
+3
+0:0:8,56 --> 0:0:19,46
+– Yeah, well, my blackberry is not working.
+
+
+4
+0:0:19,46 --> 0:0:23,1
+– What's the matter, it run out of juice?
+
+
+5
+0:0:23,1 --> 0:0:28,54
+– No, no, it's completely frozen!
+
+
+6
+0:0:28,54 --> 0:0:30,32
+– Oh, yeah, I can see that.
+
+
+7
+0:0:30,32 --> 0:0:37,24
+I tell you what: let's try it on orange.
+
+
+8
+0:0:37,24 --> 0:0:39,56
+– That's got a few black spots, you see...
+
+
+9
+0:0:39,56 --> 0:0:43,28
+– Oh, dear, yes. Sorry about that.
+
+
+10
+0:0:43,28 --> 0:0:47,0
+– Well, is there anything I can do to get my blackberry working?
+
+
+11
+0:0:47,0 --> 0:0:49,21
+– Well, could be an application issue.
+
+
+12
+0:0:49,21 --> 0:0:51,38
+Where'd you store that Blackberry?
+
+
+13
+0:0:51,38 --> 0:0:53,8
+– Well, it was on my desktop.
+
+
+14
+0:0:53,8 --> 0:0:58,64
+– Well, you could try using a mouse to drag the blackberry to the trash.
+
+
+15
+0:0:58,64 --> 0:1:0,7
+Then after you've done that,
+
+
+16
+0:1:0,7 --> 0:1:5,84
+you might wanna launch the blackberry from the desktop.
+
+
+17
+0:1:5,84 --> 0:1:8,54
+– Well, I've already tried that a few times.
+
+
+18
+0:1:8,54 --> 0:1:12,4
+I mean, all it did was mess up windows.
+
+
+19
+0:1:12,4 --> 0:1:14,4
+– Well, it might be worth waiting a couple of weeks.
+
+
+20
+0:1:14,4 --> 0:1:16,4
+They've got the latest blackberries coming in then.
+
+
+21
+0:1:16,4 --> 0:1:17,71
+– Well, could you give me a date?
+
+
+22
+0:1:17,71 --> 0:1:21,59
+– Certainly.
+
+
+23
+0:1:21,59 --> 0:1:25,84
+– Let me put that date in my diary.
+
+
+24
+0:1:25,84 --> 0:1:27,3
+– Anything else I can help you with?
+
+
+25
+0:1:27,3 --> 0:1:29,71
+– Yes, yes. I've also got a problem, to be honest,
+
+
+26
+0:1:29,71 --> 0:1:34,11
+with my apple.
+
+
+27
+0:1:34,11 --> 0:1:36,71
+– Oh, dear, oh, dear. That is an old apple, isn't it?
+
+
+28
+0:1:36,71 --> 0:1:38,4
+– Yeah. – When'd you buy that?
+
+
+29
+0:1:38,4 --> 0:1:39,55
+– Last week.
+
+
+30
+0:1:39,55 --> 0:1:43,99
+– Last week? They've brought out two new apples since then!
+
+
+31
+0:1:43,99 --> 0:1:44,95
+What's the problem with it?
+
+
+32
+0:1:44,95 --> 0:1:49,6
+– Well, I tried to put my dongle in it...
+
+
+33
+0:1:49,6 --> 0:1:50,31
+and it won't fit.
+
+
+34
+0:1:50,31 --> 0:1:56,8
+– Oh, yeah.
+
+
+35
+0:1:56,8 --> 0:1:58,8
+And how big's your dongle?
+
+
+36
+0:1:58,8 --> 0:2:2,3
+– Well, I don't know much about these things,
+
+
+37
+0:2:2,3 --> 0:2:6,85
+but my wife's seen a few dongles in her time...
+
+
+38
+0:2:6,85 --> 0:2:10,82
+and she says a little bit on the small side.
+
+
+39
+0:2:10,82 --> 0:2:13,75
+– Well, I'm afraid there's not a lot I can do about that.
+
+
+40
+0:2:13,75 --> 0:2:19,79
+Tell you what: let me try booting it.
+
+
+41
+0:2:19,79 --> 0:2:26,14
+Now it's crashed.
+
+
+42
+0:2:26,14 --> 0:2:27,9
+Anything else I can help you with?
+
+
+43
+0:2:27,9 --> 0:2:29,15
+– Well, funnily enough, yes.
+
+
+44
+0:2:29,15 --> 0:2:31,74
+My grandson's birthday's soon. – Oh, yeah.
+
+
+45
+0:2:31,74 --> 0:2:34,85
+– Now, he's already got an apple and a blackberry.
+
+
+46
+0:2:34,85 --> 0:2:37,82
+I mean, have you got anything else that he might just like?
+
+
+47
+0:2:37,82 --> 0:2:39,65
+– Well, we're doing a special offer on these.
+
+
+48
+0:2:39,65 --> 0:2:41,59
+I mean, I can't make head or tail of them,
+
+
+49
+0:2:41,59 --> 0:2:43,8
+but the kids seem to like them.
+
+
+50
+0:2:43,8 --> 0:4:43,8
+– Oh yeah? – "Eggs box," £3.60.
+
+

@@ -1,0 +1,1224 @@
+1
+0:0:7,41 --> 0:0:14,19
+The universe has long captivated us with its
+immense scales of distance and time.
+
+
+2
+0:0:14,19 --> 0:0:25,91
+How far does it stretch? Where does it end...
+and what lies beyond its star fields... and
+
+
+3
+0:0:25,91 --> 0:0:33,449
+streams of galaxies extending as far as telescopes
+can see?
+
+
+4
+0:0:33,449 --> 0:0:39,16
+These questions are beginning to yield to
+a series of extraordinary new lines of investigation...
+
+
+5
+0:0:39,16 --> 0:0:44,7
+and technologies that are letting us to peer
+into the most distant realms of the cosmos...
+
+
+6
+0:0:44,7 --> 0:0:52,379
+But also at the behavior of matter and energy
+on the smallest of scales.
+
+
+7
+0:0:52,379 --> 0:0:56,61
+Remarkably, our growing understanding of this
+kingdom of the ultra-tiny, inside the nuclei
+
+
+8
+0:0:56,61 --> 0:1:6,78
+of atoms, permits us to glimpse the largest
+vistas of space and time.
+
+
+9
+0:1:6,78 --> 0:1:21,649
+In ancient times, most observers saw the stars
+as a sphere surrounding the earth, often the
+
+
+10
+0:1:21,649 --> 0:1:25,959
+home of deities.
+
+
+11
+0:1:25,959 --> 0:1:32,2
+The Greeks were the first to see celestial
+events as phenomena, subject to human investigation...
+
+
+12
+0:1:32,2 --> 0:1:37,789
+rather than the fickle whims of the Gods.
+
+
+13
+0:1:37,789 --> 0:1:44,78
+One sky-watcher, for example, suggested that
+meteors are made of materials found on Earth...
+
+
+14
+0:1:44,78 --> 0:1:49,63
+and might have even come from the Earth.
+
+
+15
+0:1:49,63 --> 0:1:56,58
+Those early astronomers built the foundations
+of modern science. But they would be shocked
+
+
+16
+0:1:56,58 --> 0:2:3,69
+to see the discoveries made by their counterparts
+today.
+
+
+17
+0:2:3,69 --> 0:2:9,8
+The stars and planets that once harbored the
+gods are now seen as infinitesimal parts of
+
+
+18
+0:2:9,8 --> 0:2:21,75
+a vast scaffolding of matter and energy extending
+far out into space.
+
+
+19
+0:2:21,75 --> 0:2:25,7
+Just how far... began to emerge in the 1920s.
+
+
+20
+0:2:25,7 --> 0:2:30,42
+Working at the huge new 100-inch Hooker Telescope
+on California's Mt. Wilson,
+
+
+21
+0:2:30,42 --> 0:2:35,64
+astronomer Edwin Hubble, along with his assistant
+named Milt Humason, analyzed the light of
+
+
+22
+0:2:35,64 --> 0:2:38,87
+fuzzy patches of sky... known then as nebulae.
+
+
+23
+0:2:38,87 --> 0:2:44,11
+They showed that these were actually distant
+galaxies far beyond our own.
+
+
+24
+0:2:44,11 --> 0:2:49,36
+Hubble and Humason discovered that most of
+them are moving away from us. The farther
+
+
+25
+0:2:49,36 --> 0:2:53,17
+out they looked, the faster they were receding.
+
+
+26
+0:2:53,17 --> 0:3:2,6
+This fact, now known as Hubble's law, suggests
+that there must have been a time when the
+
+
+27
+0:3:2,6 --> 0:3:8,69
+matter in all these galaxies was together
+in one place.
+
+
+28
+0:3:8,69 --> 0:3:17,8
+That time... when our universe sprung forth...
+has come to be called the Big Bang.
+
+
+29
+0:3:17,8 --> 0:3:24,85
+How large the cosmos has gotten since then
+depends on how long its been growing... and
+
+
+30
+0:3:24,85 --> 0:3:26,67
+its expansion rate.
+
+
+31
+0:3:26,67 --> 0:3:32,4
+Recent precision measurements gathered by
+the Hubble space telescope and other instruments
+
+
+32
+0:3:32,4 --> 0:3:34,38
+have brought a consensus...
+
+
+33
+0:3:34,38 --> 0:3:36,67
+That the universe dates back 13.7 billion
+years.
+
+
+34
+0:3:36,67 --> 0:3:47,709
+Its radius, then, is the distance a beam of
+light would have traveled in that time ...
+
+
+35
+0:3:47,709 --> 0:3:50,1
+ 13.7 billion light years.
+
+
+36
+0:3:50,1 --> 0:3:52,4
+That works out to about 1.3 quadrillion kilometers.
+
+
+37
+0:3:52,4 --> 0:3:59,459
+In fact, it's even bigger.... Much bigger.
+How it got so large, so fast, was until recently
+
+
+38
+0:3:59,459 --> 0:4:0,52
+a deep mystery.
+
+
+39
+0:4:0,52 --> 0:4:10,8
+That the universe could expand had been predicted
+back in 1917 by Albert Einstein, except that
+
+
+40
+0:4:10,8 --> 0:4:12,23
+Einstein himself didn't believe it...
+
+
+41
+0:4:12,23 --> 0:4:16,15
+until he saw Hubble and Humason's evidence.
+
+
+42
+0:4:16,15 --> 0:4:21,489
+Einstein's general theory of relativity suggested
+that galaxies could be moving apart because
+
+
+43
+0:4:21,489 --> 0:4:23,57
+space itself is expanding.
+
+
+44
+0:4:23,57 --> 0:4:29,91
+So when a photon gets blasted out from a distant
+star, it moves through a cosmic landscape
+
+
+45
+0:4:29,91 --> 0:4:34,96
+that is getting larger and larger, increasing
+the distance it must travel to reach us.
+
+
+46
+0:4:34,96 --> 0:4:42,19
+In 1995, the orbiting telescope named for
+Edwin Hubble began to take the measure of
+
+
+47
+0:4:42,19 --> 0:4:51,6
+the universe... by looking for the most distant
+galaxies it could see.
+
+
+48
+0:4:51,6 --> 0:4:56,68
+Taking the expansion of the universe into
+account, the space telescope found galaxies
+
+
+49
+0:4:56,68 --> 0:5:2,3
+that are now almost 46 billion light years
+away from us in each direction... and almost
+
+
+50
+0:5:2,3 --> 0:5:5,24
+92 billion light years from each other.
+
+
+51
+0:5:5,24 --> 0:5:10,8
+And that would be the whole universe... according
+to a straightforward model of the big bang.
+
+
+52
+0:5:10,8 --> 0:5:17,27
+But remarkably, that might be a mere speck
+within the universe as a whole, according
+
+
+53
+0:5:17,27 --> 0:5:21,6
+to a dramatic new theory that describes the
+origins of the cosmos.
+
+
+54
+0:5:21,6 --> 0:5:28,5
+It's based on the discovery that energy is
+constantly welling up from the vacuum of space
+
+
+55
+0:5:28,5 --> 0:5:32,72
+in the form of particles of opposite charge...
+matter and anti-matter.
+
+
+56
+0:5:32,72 --> 0:5:40,419
+Back in the 1980s, the physicist Alan Guth
+proposed that energy fields embedded in the
+
+
+57
+0:5:40,419 --> 0:5:45,449
+vacuum of space suddenly tipped into a higher
+energy state...
+
+
+58
+0:5:45,449 --> 0:5:49,699
+causing space and time to literally "inflate"...
+
+
+59
+0:5:49,699 --> 0:5:59,4
+...to go from atomic size... to cosmological
+size within an infinitesimally short time.
+
+
+60
+0:5:59,4 --> 0:6:3,85
+As a result, according to one calculation,
+the universe as a whole...
+
+
+61
+0:6:3,85 --> 0:6:9,75
+...would have grown to some ten billion trillion
+times the size of the observable universe.
+
+
+62
+0:6:9,75 --> 0:6:12,21
+That's ten followed by 24 zeroes.
+
+
+63
+0:6:12,21 --> 0:6:20,61
+Put another way, the complete universe is
+to the observable universe... as the observable
+
+
+64
+0:6:20,61 --> 0:6:26,36
+universe is... to an atom.
+
+
+65
+0:6:26,36 --> 0:6:32,47
+The fury of this period of cosmic inflation
+helps explain the immense size and smoothness
+
+
+66
+0:6:32,47 --> 0:6:33,46
+of the universe.
+
+
+67
+0:6:33,46 --> 0:6:39,54
+But to succeed, the theory must also account
+for how the universe produced what we see
+
+
+68
+0:6:39,54 --> 0:6:47,38
+around us... all those stars and galaxies
+and clusters of galaxies, and ultimately...
+
+
+69
+0:6:47,38 --> 0:6:51,55
+us.
+
+
+70
+0:6:51,55 --> 0:6:55,82
+Scientists are now seeking to piece together
+the chain of events that launched our universe
+
+
+71
+0:6:55,82 --> 0:7:0,49
+in its earliest moments... by generating what
+you might call a "little bang."
+
+
+72
+0:7:0,49 --> 0:7:10,21
+At the Brookhaven National Lab in New York
+State, they are blasting gold atoms in opposite
+
+
+73
+0:7:10,21 --> 0:7:14,46
+directions down tunnels almost two and a half
+miles long.
+
+
+74
+0:7:14,46 --> 0:7:19,59
+When these atoms reach velocities just short
+of the speed of light, they are sent into
+
+
+75
+0:7:19,59 --> 0:7:22,0
+a violent collision.
+
+
+76
+0:7:22,0 --> 0:7:27,66
+A fireball erupts... reaching a temperature
+exceeding two trillion degrees Centigrade.
+
+
+77
+0:7:27,66 --> 0:7:34,44
+As far as we know, the last time anything
+in our universe was that hot was about a millionth
+
+
+78
+0:7:34,44 --> 0:7:37,72
+of a second after its birth.
+
+
+79
+0:7:37,72 --> 0:7:44,35
+What interests the scientists is the splatter
+of subatomic particles... a super-hot soup
+
+
+80
+0:7:44,35 --> 0:7:51,24
+of quarks and gluons... particles that gave
+rise to matter as we know it.
+
+
+81
+0:7:51,24 --> 0:7:57,99
+In initial tests, this quark-gluon plasma
+has shown a crucial property... extremely
+
+
+82
+0:7:57,99 --> 0:8:3,539
+low viscosity or resistance to flow. Scientists
+call this a perfect liquid.
+
+
+83
+0:8:3,539 --> 0:8:9,32
+To grasp its importance, we go back to those
+primordial energy fields that the theory says
+
+
+84
+0:8:9,32 --> 0:8:13,39
+spawned the big bang.
+
+
+85
+0:8:13,39 --> 0:8:18,97
+The thinking is that those fields contained
+tiny fluctuations that were blown up to huge
+
+
+86
+0:8:18,97 --> 0:8:19,61
+size during inflation.
+
+
+87
+0:8:19,61 --> 0:8:35,57
+In the ultra-dense quark-gluon mix, these
+fluctuations generated pressure waves, or
+
+
+88
+0:8:35,57 --> 0:8:43,319
+ripples. As the universe evolved, these ripples
+led to variations in the density of matter.
+
+
+89
+0:8:43,319 --> 0:8:48,709
+Amazingly, the imprint of those primordial
+ripples is out there today... first seen in
+
+
+90
+0:8:48,709 --> 0:8:53,85
+a faint signal discovered accidentally back
+in the 1960s.
+
+
+91
+0:8:53,85 --> 0:8:59,16
+Working for the Bell Telephone Company, physicists
+Arno Penzias and Robert Wilson had built a
+
+
+92
+0:8:59,16 --> 0:9:0,73
+giant horn-shaped antenna.
+
+
+93
+0:9:0,73 --> 0:9:6,679
+But wherever they pointed, the contraption
+picked up excessive noise in the microwave
+
+
+94
+0:9:6,679 --> 0:9:8,559
+portion of the electromagnetic spectrum.
+
+
+95
+0:9:8,559 --> 0:9:13,939
+That noise turned out to match a prediction
+made years earlier...
+
+
+96
+0:9:13,939 --> 0:9:22,49
+That in the wake of the big bang, the universe
+was filled with a cloud of extremely hot gas
+
+
+97
+0:9:22,49 --> 0:9:23,749
+that scattered all light.
+
+
+98
+0:9:23,749 --> 0:9:30,429
+As the universe cooled, the cloud dissipated.
+Light then shone through.
+
+
+99
+0:9:30,429 --> 0:9:37,54
+Over time it shifted... as the universe expanded
+and cooled... to just the noise signature
+
+
+100
+0:9:37,54 --> 0:9:46,199
+detected by Penzias and Wilson. What they'd
+heard was the echo of the Big Bang.
+
+
+101
+0:9:46,199 --> 0:9:52,709
+This image shows the smooth contours of the
+light recorded by the Bell team. Scientists
+
+
+102
+0:9:52,709 --> 0:10:0,899
+would have to look closer... to find the imprint
+of cosmic inflation.
+
+
+103
+0:10:0,899 --> 0:10:7,74
+The Space Shuttle Discovery lifted the Hubble
+Space Telescope into orbit on April 24, 1990...
+
+
+104
+0:10:7,74 --> 0:10:12,989
+in one of the most important scientific milestones
+our time.
+
+
+105
+0:10:12,989 --> 0:10:17,339
+Another launch, arguably just as important,
+took place five months earlier.
+
+
+106
+0:10:17,339 --> 0:10:25,399
+This was the Cosmic Observation Background
+Explorer, COBE for short, was sent up to take
+
+
+107
+0:10:25,399 --> 0:10:30,959
+a harder look at the microwave radiation discovered
+by Penzias and Wilson.
+
+
+108
+0:10:30,959 --> 0:10:36,779
+The results came out two and a half years
+later. The early universe contained a pattern
+
+
+109
+0:10:36,779 --> 0:10:39,6
+of hot and cold spots.
+
+
+110
+0:10:39,6 --> 0:10:45,739
+One COBE scientist called it the fingerprint
+of creation... for it showed the origin of
+
+
+111
+0:10:45,739 --> 0:10:52,949
+the universe we see around us today... smooth
+on a large scale, but with significant clumps...
+
+
+112
+0:10:52,949 --> 0:11:3,679
+...from which gravity would form gas clouds,
+then stars, and galaxies.
+
+
+113
+0:11:3,679 --> 0:11:8,489
+With this cosmic template in hand, astronomers
+set out to discover how the patterns and the
+
+
+114
+0:11:8,489 --> 0:11:10,269
+dimensions of the universe evolved over time.
+
+
+115
+0:11:10,269 --> 0:11:18,91
+In an age of computer controlled telescopes
+and automated observing, astronomers could
+
+
+116
+0:11:18,91 --> 0:11:24,819
+now launch huge international collaborations
+with the goal of mapping a large fraction
+
+
+117
+0:11:24,819 --> 0:11:28,92
+of the universe in three dimensions.
+
+
+118
+0:11:28,92 --> 0:11:35,519
+At Apache Point in New Mexico, the Sloan Digital
+Sky Survey set the standard for mass production
+
+
+119
+0:11:35,519 --> 0:11:36,16
+astronomy.
+
+
+120
+0:11:36,16 --> 0:11:42,47
+A series of steel plates are drilled with
+holes that exactly match the location of galaxies
+
+
+121
+0:11:42,47 --> 0:11:44,579
+in the night sky.
+
+
+122
+0:11:44,579 --> 0:11:49,3
+After plugging fiber optic sensors into the
+holes, the plates capture the light of hundreds
+
+
+123
+0:11:49,3 --> 0:11:55,61
+of galaxies per night, and that light determines
+their distances from Earth.
+
+
+124
+0:11:55,61 --> 0:12:6,36
+Another survey is named the 2 Micron All Sky
+Survey, or 2Mass, after the frequency of infrared
+
+
+125
+0:12:6,36 --> 0:12:10,639
+light its detectors are tuned to capture.
+
+
+126
+0:12:10,639 --> 0:12:15,779
+Here, these data go out to a region 60 million
+light years across. You can see the local
+
+
+127
+0:12:15,779 --> 0:12:16,869
+group of galaxies, dominated by Andromeda
+and the Milky Way in the center. This is our
+
+
+128
+0:12:16,869 --> 0:12:19,209
+neighborhood.
+
+
+129
+0:12:19,209 --> 0:12:23,449
+Jump further out to a region about 200 million
+light years across.
+
+
+130
+0:12:23,449 --> 0:12:29,459
+Our galactic neighborhood merges into the
+densely packed Virgo Supercluster... which
+
+
+131
+0:12:29,459 --> 0:12:33,379
+is the nearest intergalactic city.
+
+
+132
+0:12:33,379 --> 0:12:38,4
+Stepping out to a region over 320 million
+light years across, you can see the full breadth
+
+
+133
+0:12:38,4 --> 0:12:38,829
+of our local region of the universe.
+
+
+134
+0:12:38,829 --> 0:12:44,35
+Galaxies line up in walls and arcs... that
+bound an array of sparsely-populated voids...
+
+
+135
+0:12:44,35 --> 0:12:49,85
+the rural cosmic countryside.
+
+
+136
+0:12:49,85 --> 0:12:55,79
+Moving out with the data... this region is
+over 650 million light years across...
+
+
+137
+0:12:55,79 --> 0:12:55,89
+Then almost two billion...
+
+
+138
+0:12:55,89 --> 0:12:55,89
+3.2 billion...
+
+
+139
+0:12:55,89 --> 0:13:4,389
+And finally out to a region 6.5 billion light
+years from end to end: the cosmic continent.
+
+
+140
+0:13:4,389 --> 0:13:9,949
+In the middle of it all, our galaxy, so immense
+from our Earthly perspective, is less than
+
+
+141
+0:13:9,949 --> 0:13:10,519
+a speck.
+
+
+142
+0:13:10,519 --> 0:13:21,249
+The 2mass study, the Sloan Digital Sky Survey,
+and the 2 Degree Field in Australia have extended
+
+
+143
+0:13:21,249 --> 0:13:24,72
+our maps to a quarter of the way back to the
+beginning of the universe.
+
+
+144
+0:13:24,72 --> 0:13:33,29
+They have laid out a grand cosmic roadmap...
+and gravitational routes.
+
+
+145
+0:13:33,29 --> 0:13:43,6
+Now COBE's successor, the Wilkinson Microwave
+Anisotropy Probe, or "WMAP", was ready to
+
+
+146
+0:13:43,6 --> 0:13:48,79
+scan the early universe for the fine-scale
+origins of this cosmic atlas.
+
+
+147
+0:13:48,79 --> 0:13:54,949
+WMAP was launched beyond any interference
+from Earth... to a position balanced between
+
+
+148
+0:13:54,949 --> 0:13:56,79
+the Earth and the Sun.
+
+
+149
+0:13:56,79 --> 0:14:6,139
+There, for two years, its detectors took in
+the pristine light of deep space.
+
+
+150
+0:14:6,139 --> 0:14:12,89
+This is what WMAP saw... a pattern consistent
+with the filaments and voids that had evolved
+
+
+151
+0:14:12,89 --> 0:14:18,339
+in the universe at large... and with the tiny-scale
+structures sketched by inflation at the very
+
+
+152
+0:14:18,339 --> 0:14:19,48
+birth of the cosmos.
+
+
+153
+0:14:19,48 --> 0:14:27,79
+Scientists at Brookhaven National Lab in the
+U.S. and the new Large Hadron Collider in
+
+
+154
+0:14:27,79 --> 0:14:34,649
+Europe will be probing ultra high-energy collisions
+in the coming years to tease out more details
+
+
+155
+0:14:34,649 --> 0:14:35,709
+of the early universe.
+
+
+156
+0:14:35,709 --> 0:14:38,17
+Others are poring over the WMAP data for evidence
+of its true dimensions.
+
+
+157
+0:14:38,17 --> 0:14:42,739
+One group looked for repeating patterns that
+could be evidence of pressure waves that might
+
+
+158
+0:14:42,739 --> 0:14:45,49
+have ricocheted through the hot gas of early
+times.
+
+
+159
+0:14:45,49 --> 0:14:52,389
+They saw none...which implies that the universe
+had grown so large during inflation that such
+
+
+160
+0:14:52,389 --> 0:14:53,639
+waves could not cross it.
+
+
+161
+0:14:53,639 --> 0:15:1,16
+Then they did the math... the entire universe
+has a minimum diameter of 156 billion light
+
+
+162
+0:15:1,16 --> 0:15:7,79
+years... not quite twice the size of everything
+out there that we can see: the "observable"
+
+
+163
+0:15:7,79 --> 0:15:9,79
+universe.
+
+
+164
+0:15:9,79 --> 0:15:18,299
+What is its maximum size... and what's beyond
+that?
+
+
+165
+0:15:18,299 --> 0:15:24,879
+We will never know for sure what lies beyond
+our visual horizon... but astronomers are
+
+
+166
+0:15:24,879 --> 0:15:33,749
+turning up some surprising hints... in the
+universe they can see.
+
+
+167
+0:15:33,749 --> 0:15:39,649
+To ancient observers, the universe was made
+of five classical elements... Earth, Water,
+
+
+168
+0:15:39,649 --> 0:15:41,319
+Air, Fire...
+
+
+169
+0:15:41,319 --> 0:15:48,69
+and a fifth: Quintessence... or space.
+
+
+170
+0:15:48,69 --> 0:15:57,189
+Aristotle believed the stars, unchanging and
+incorruptible, were made of this fifth element.
+
+
+171
+0:15:57,189 --> 0:16:2,569
+Today, we are finding that space, in fact,
+has a character of its own.
+
+
+172
+0:16:2,569 --> 0:16:7,869
+Astronomers have calculated the gravitational
+pull needed to bind stars as they orbit a
+
+
+173
+0:16:7,869 --> 0:16:13,9
+galaxy... or galaxies as they orbit a cluster
+of galaxies.
+
+
+174
+0:16:13,9 --> 0:16:20,19
+They have found that there is simply nowhere
+near enough visible matter there to hold these
+
+
+175
+0:16:20,19 --> 0:16:21,949
+structures together.
+
+
+176
+0:16:21,949 --> 0:16:28,239
+The missing ingredient, its identity still
+unknown, they call: Dark Matter.
+
+
+177
+0:16:28,239 --> 0:16:35,59
+In supercomputer simulations of cosmic evolution,
+dark matter is added in to supply the gravitational
+
+
+178
+0:16:35,59 --> 0:16:39,559
+tug needed to form the web pattern of filaments
+and walls;
+
+
+179
+0:16:39,559 --> 0:16:44,119
+voids and dense clusters we see in the universe
+at large.
+
+
+180
+0:16:44,119 --> 0:16:50,249
+But something else appears to be happening
+on these large scales.
+
+
+181
+0:16:50,249 --> 0:16:55,23
+Astronomers have been making refined measurements
+of the cosmic expansion rate with a new type
+
+
+182
+0:16:55,23 --> 0:16:57,4
+of distance marker.
+
+
+183
+0:16:57,4 --> 0:17:2,79
+They wanted to know if gravity was slowing
+down the pace at which the universe is spreading
+
+
+184
+0:17:2,79 --> 0:17:2,839
+out.
+
+
+185
+0:17:2,839 --> 0:17:5,54
+But what they've found comes as a shock:
+
+
+186
+0:17:5,54 --> 0:17:13,85
+The markers they use, type IA supernovae,
+are thought to burn at uniform intensities
+
+
+187
+0:17:13,85 --> 0:17:14,56
+throughout the universe.
+
+
+188
+0:17:14,56 --> 0:17:22,3
+By measuring changes in the brightness of
+these so-called standard candles at various
+
+
+189
+0:17:22,3 --> 0:17:27,25
+distances, the researchers have been hunting
+for changes in the rate at which the Cosmos
+
+
+190
+0:17:27,25 --> 0:17:27,93
+is expanding.
+
+
+191
+0:17:27,93 --> 0:17:36,74
+They have shown that while local regions or
+the universe are drawing together, the universe
+
+
+192
+0:17:36,74 --> 0:17:43,63
+as a whole is not only expanding, it's accelerating
+outward!
+
+
+193
+0:17:43,63 --> 0:17:48,96
+The culprit is thought to be energy welling
+up from the vacuum of space... similar to
+
+
+194
+0:17:48,96 --> 0:17:54,22
+what occurred in the early moments of the
+Big Bang, causing cosmic inflation.
+
+
+195
+0:17:54,22 --> 0:17:59,64
+Now it's happening in minute quantities across
+vast regions.
+
+
+196
+0:17:59,64 --> 0:18:6,25
+Over time, this so-called "Dark Energy" has
+grown to an astonishing three-fourths of all
+
+
+197
+0:18:6,25 --> 0:18:9,51
+the matter and energy in the universe.
+
+
+198
+0:18:9,51 --> 0:18:14,92
+With data like this pointing to an underlying
+dynamic within our universe, some scientists
+
+
+199
+0:18:14,92 --> 0:18:21,27
+have suggested its part of an even larger
+cosmic dynamic... much broader and deeper
+
+
+200
+0:18:21,27 --> 0:18:24,85
+than we've ever thought.
+
+
+201
+0:18:24,85 --> 0:18:30,56
+There is a version of inflationary theory
+that suggests we live in one of many universes....co-existing
+
+
+202
+0:18:30,56 --> 0:18:37,14
+side by side but out of touch with one another.
+
+
+203
+0:18:37,14 --> 0:18:46,22
+Like bubbles, they are continually rising
+up... and expanding across the oceans of infinity.
+
+
+204
+0:18:46,22 --> 0:18:52,47
+Just 500 years ago many people looked out
+into space and saw a universe of lights...
+
+
+205
+0:18:52,47 --> 0:18:56,4
+small and nearby... centered on the Earth.
+
+
+206
+0:18:56,4 --> 0:19:2,61
+The birth of astronomy revealed stars far
+from our planet...
+
+
+207
+0:19:2,61 --> 0:19:9,75
+Galaxies... clusters of galaxies... then vast
+walls and filaments of matter.
+
+
+208
+0:19:9,75 --> 0:19:14,87
+Newer ideas about the size of the universe
+amount to a quantum leap in our sense of scale,
+
+
+209
+0:19:14,87 --> 0:19:22,6
+by extending these structures far, far beyond
+our horizon.
+
+
+210
+0:19:22,6 --> 0:19:29,83
+Do these discoveries push us, on our tiny
+out-of-the-way planet, into a smaller and
+
+
+211
+0:19:29,83 --> 0:19:36,41
+smaller corner of Creation?
+
+
+212
+0:19:36,41 --> 0:19:43,5
+Or does our ability to comprehend and imagine
+the far limits of time and space expand our
+
+
+213
+0:19:43,5 --> 0:19:45,76
+importance... in the grand scheme of things?
+
+
+214
+0:19:45,76 --> 0:21:45,76
+8
+
+

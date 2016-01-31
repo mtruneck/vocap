@@ -1,0 +1,58 @@
+###0 
+###0 MATT CUTTS: Today's question comes from Tokyo, Japan.
+###3 The question is, you've been sending various kinds of
+###6 messages via Webmaster Tools to improve transparency.
+###10 It's a good move.
+###11 How many types of messages do you send, and how do you
+###14 decide what message you send?
+###16 Great question.
+###17 So I can share a little bit of stats.
+###20 At this point, we do send hundreds of thousands of
+###23 messages each month.
+###24 That might sound like a lot, but for example, one search
+###27 engine named Blekko estimated that a million spam pages are
+###31 created every hour.
+###33 So the web is very large, so it shouldn't be a surprise
+###36 that some percentage of it is spam.
+###38 And as a result, we do spend a lot of time finding that spam.
+###42 And since we automatically send messages and
+###45 notifications when we find it, there are a lot, hundreds of
+###49 thousands of notifications that we send out each month.
+###52 There's a lot of different categories of spam.
+###54 They're covered in our Webmaster Guidelines,
+###55 everything from cloaking to scraping to sneaky JavaScript
+###59 redirects, paid links, all sorts of stuff.
+###62 But all of those boil down to roughly about 10 different
+###66 messages that we send.
+###68 So hidden text, keyword stuffing, gibberish, all that
+###71 would go into one message that we send out.
+###73 I can share some stats from earlier this year, from
+###76 January and February.
+###78 Out of the hundreds of thousands of messages that we
+###80 sent over that time period, roughly 90% of those were for
+###84 what we call Black Hat.
+###85 That's pure, egregious spam, clear cut, anybody
+###89 sufficiently tech savvy would probably be able to recognize
+###91 that it's spam.
+###92 It's the stuff that you think of as traditional junk that
+###95 you just don't want to show up in your results because it is
+###98 very clearly spam.
+###101 About 4% of the messages were because the content had little
+###105 or no added value, and so it's not ranking as highly in our
+###108 search results.
+###110 About 3% of the messages that we sent
+###112 were related to hacking.
+###113 So hacking is a big attack as far as Black Hats.
+###117 And even though it's illegal, there's a lot of people that
+###119 do that-- trying to promote their pharmacy pills or
+###122 whatever, that sort of thing.
+###124 So about 3% of those messages were related to hacking.
+###127 Something like 2% of the messages that we sent out were
+###130 related to link buying, and about 1% were
+###132 related to link selling.
+###133 So overall between 2% and 3% related to links and link spam
+###138 overall about buying and selling links.
+###140 So that gives you a broad idea of the sorts of categories
+###143 that we send things out for and the rough number of
+###147 messages that we send out each month.
+###148 

@@ -1,0 +1,1789 @@
+1
+0:0:15,218 --> 0:0:17,917
+Thank you. 
+It's a pleasure to be here.
+
+
+2
+0:0:17,917 --> 0:0:19,682
+When something really matters
+
+
+3
+0:0:19,682 --> 0:0:21,422
+it elicits emotion
+
+
+4
+0:0:21,422 --> 0:0:23,879
+and how do we help people 
+communicate emotion,
+
+
+5
+0:0:23,879 --> 0:0:26,23
+to make life better, 
+whether at home,
+
+
+6
+0:0:26,23 --> 0:0:30,49
+at work, for your customers, 
+for your kids at school?
+
+
+7
+0:0:30,49 --> 0:0:33,108
+Our challenge at The MIT Media Lab 
+and at Affectiva,
+
+
+8
+0:0:33,108 --> 0:0:34,766
+has been to come up with better ways
+
+
+9
+0:0:34,766 --> 0:0:36,967
+to measure and help people 
+communicate emotion.
+
+
+10
+0:0:36,967 --> 0:0:39,169
+I'll start with an example 
+that we did years ago
+
+
+11
+0:0:39,169 --> 0:0:41,498
+which was a skin conducting sensor
+
+
+12
+0:0:41,498 --> 0:0:45,433
+that we gave to an audience like you,
+worn on the palm of the hand
+
+
+13
+0:0:45,433 --> 0:0:48,272
+and it glowed brightly every time
+
+
+14
+0:0:48,272 --> 0:0:50,954
+the audience got excited. 
+Every time they were engaged.
+
+
+15
+0:0:50,954 --> 0:0:52,596
+We learned a lot that day.
+
+
+16
+0:0:52,596 --> 0:0:55,4
+We learned for example 
+that every time a new speaker
+
+
+17
+0:0:55,4 --> 0:0:57,879
+came out on stage, 
+the audience glowed.
+
+
+18
+0:0:57,879 --> 0:1:1,65
+Every time there was a live demonstration,
+
+
+19
+0:1:1,65 --> 0:1:3,811
+whether it worked or not, 
+the audience glowed.
+
+
+20
+0:1:3,811 --> 0:1:8,282
+Every time there was live Q&A or laughter,
+
+
+21
+0:1:8,282 --> 0:1:12,59
+the audience glowed 
+but unfortunately, every single time
+
+
+22
+0:1:12,59 --> 0:1:14,928
+there was a PowerPoint presentation
+
+
+23
+0:1:14,928 --> 0:1:17,707
+there was a decaying exponential 
+in brightness.
+
+
+24
+0:1:17,707 --> 0:1:19,742
+(Laughter)
+
+
+25
+0:1:19,742 --> 0:1:21,492
+Let's, let's look more closely
+
+
+26
+0:1:21,492 --> 0:1:24,346
+at an example of the signal changing.
+
+
+27
+0:1:24,346 --> 0:1:28,903
+Here, for a nine year old boy,
+watching a movie trailer,
+
+
+28
+0:1:28,903 --> 0:1:32,938
+the signal will go up about a second 
+after each of the parts of the trailer
+
+
+29
+0:1:32,938 --> 0:1:35,264
+that cause him to engage.
+
+
+30
+0:1:35,264 --> 0:1:36,876
+Starting with the music.
+
+
+31
+0:1:36,876 --> 0:2:0,79
+(Music)
+
+
+32
+0:2:0,79 --> 0:2:2,22
+The three biggest peaks.
+
+
+33
+0:2:2,22 --> 0:2:17,903
+(Laughter)
+
+
+34
+0:2:17,903 --> 0:2:21,569
+See this is where it 
+kind of falls of here though.
+
+
+35
+0:2:21,569 --> 0:2:26,151
+(Music)
+
+
+36
+0:2:26,151 --> 0:2:29,52
+He peaks for the name of the movie 
+and the date of it,
+
+
+37
+0:2:29,52 --> 0:2:32,514
+so you can see why people 
+in Market Research and Advertising
+
+
+38
+0:2:32,514 --> 0:2:34,676
+are extremely interested
+in this information
+
+
+39
+0:2:34,676 --> 0:2:37,831
+or I as an educator, 
+I'm extremely interested too.
+
+
+40
+0:2:37,831 --> 0:2:39,704
+'Cause I want to know what content
+
+
+41
+0:2:39,704 --> 0:2:44,279
+is connecting with my students 
+and with my loved ones.
+
+
+42
+0:2:44,279 --> 0:2:48,765
+Here's an example of the signal 
+changing with a Patriots fan,
+
+
+43
+0:2:48,765 --> 0:2:50,533
+back when the Patriots 
+were in the Superbowl.
+
+
+44
+0:2:50,533 --> 0:2:54,58
+And this one illustrates an important point 
+about skin conductance
+
+
+45
+0:2:54,58 --> 0:2:57,693
+and that is even as we measure 
+the auto-immunic arousal
+
+
+46
+0:2:57,693 --> 0:2:59,374
+of a person and their excitement.
+
+
+47
+0:2:59,374 --> 0:3:1,748
+This goes up with things 
+that are good or bad.
+
+
+48
+0:3:1,748 --> 0:3:5,376
+So we see it go up here 
+when the guy has a --
+
+
+49
+0:3:5,376 --> 0:3:6,667
+when his favorite team 
+scores a touchdown,
+
+
+50
+0:3:6,667 --> 0:3:9,325
+it also goes up 
+during an endzone overthrow.
+
+
+51
+0:3:9,325 --> 0:3:11,716
+So it goes up with good and bad.
+
+
+52
+0:3:11,716 --> 0:3:14,804
+Interestingly, it also goes up 
+during a Dorito's Mouse T.V. commercial,
+
+
+53
+0:3:14,804 --> 0:3:17,898
+when the mouse comes out 
+and catches the man.
+
+
+54
+0:3:17,898 --> 0:3:20,292
+(Laughter)
+
+
+55
+0:3:20,292 --> 0:3:24,261
+It's interesting now that we can get 
+this information in real life,
+
+
+56
+0:3:24,261 --> 0:3:28,81
+to see how relatively important 
+different events are in life
+
+
+57
+0:3:28,81 --> 0:3:31,772
+and where the significance of something 
+that you share with somebody,
+
+
+58
+0:3:31,772 --> 0:3:36,399
+compares with this response to some other things 
+that are going on with their life.
+
+
+59
+0:3:36,399 --> 0:3:38,705
+What drives this signal?
+
+
+60
+0:3:38,705 --> 0:3:42,141
+This skin conductance is driven 
+by the autonomic nervous system,
+
+
+61
+0:3:42,141 --> 0:3:44,265
+sympathetic nervous system response.
+
+
+62
+0:3:44,265 --> 0:3:46,663
+Your autonomic nervous system 
+has two main branches,
+
+
+63
+0:3:46,663 --> 0:3:48,635
+the sympathetic and the parasympathetic.
+
+
+64
+0:3:48,635 --> 0:3:52,562
+The sympathetic can be thought of kind of like 
+stepping on the gas, in the car,
+
+
+65
+0:3:52,562 --> 0:3:55,955
+it revs your heart up, it causes 
+the skin conductance to increase.
+
+
+66
+0:3:55,955 --> 0:3:58,881
+The parasympathetic causes
+the heart to decrease.
+
+
+67
+0:3:58,881 --> 0:4:1,557
+The sympathetic is thought of 
+as fight or flight,
+
+
+68
+0:4:1,557 --> 0:4:3,961
+the parasympathetic is rest & digest.
+
+
+69
+0:4:3,961 --> 0:4:8,19
+Almost all the organs are innervated by both 
+the sympathetic and the parasympathetic,
+
+
+70
+0:4:8,19 --> 0:4:10,387
+except the skin, 
+which gets the pure sympathetic,
+
+
+71
+0:4:10,387 --> 0:4:13,824
+which makes it ideal for us measuring 
+this fight or flight response.
+
+
+72
+0:4:13,824 --> 0:4:17,547
+Now, I became interested in measuring this response
+when I started working a lot
+
+
+73
+0:4:17,547 --> 0:4:20,759
+with people in the autism spectrum, 
+who are non-speaking.
+
+
+74
+0:4:20,759 --> 0:4:23,696
+The most heart-breaking stories, 
+that I hear from these --
+
+
+75
+0:4:23,696 --> 0:4:26,517
+from the families 
+and the individuals themselves,
+
+
+76
+0:4:26,517 --> 0:4:29,227
+when they later acquire 
+the ability to speak,
+
+
+77
+0:4:29,227 --> 0:4:35,116
+is that, the changes that were worst, 
+were when they got kicked out of school
+
+
+78
+0:4:35,116 --> 0:4:37,147
+or were shipped off 
+to an institution,
+
+
+79
+0:4:37,147 --> 0:4:39,979
+removed from learning opportunities 
+and social opportunities.
+
+
+80
+0:4:39,979 --> 0:4:43,22
+What caused that to happen?
+
+
+81
+0:4:43,22 --> 0:4:45,963
+Usually it was a meltdown 
+or a series of meltdowns
+
+
+82
+0:4:45,963 --> 0:4:50,561
+and the meltdowns, like adult tantrums, 
+appear to come from nowhere.
+
+
+83
+0:4:50,561 --> 0:4:52,615
+One moment the person seemed
+calm and relaxed,
+
+
+84
+0:4:52,615 --> 0:4:55,283
+the next moment they might have become injurious
+
+
+85
+0:4:55,283 --> 0:4:57,13
+to themselves or to others.
+
+
+86
+0:4:57,13 --> 0:5:0,215
+So, they seemed very unpredictable 
+and uncontrollable.
+
+
+87
+0:5:0,215 --> 0:5:4,181
+Now, as we undertook the privilege 
+of getting to know some individuals
+
+
+88
+0:5:4,181 --> 0:5:6,357
+who could later communicate, 
+they told us that these meltdowns
+
+
+89
+0:5:6,357 --> 0:5:9,622
+never came from nowhere
+that, in fact, they were always preceeded
+
+
+90
+0:5:9,622 --> 0:5:11,92
+by increasing stress and frustration.
+
+
+91
+0:5:11,92 --> 0:5:14,993
+They couldn't understand why people 
+couldn't see what was bugging them.
+
+
+92
+0:5:14,993 --> 0:5:18,142
+So this made me think,
+"Wow, what if we could enable them
+
+
+93
+0:5:18,142 --> 0:5:20,515
+even though they can't communicate,
+
+
+94
+0:5:20,515 --> 0:5:24,355
+to signal out their increasing stress 
+and frustration?"
+
+
+95
+0:5:24,355 --> 0:5:28,65
+But to do that required a device 
+that is shown on the left here,
+
+
+96
+0:5:28,65 --> 0:5:30,273
+a classic, galvanic skin response,
+
+
+97
+0:5:30,273 --> 0:5:32,756
+skin conductance 
+sympathetic nervous system measure,
+
+
+98
+0:5:32,756 --> 0:5:34,878
+that involved a lot of wires and boxes,
+
+
+99
+0:5:34,878 --> 0:5:37,597
+and that was uncomfortable 
+to wear in daily life.
+
+
+100
+0:5:37,597 --> 0:5:41,174
+So my team at MIT went through 
+lots of iterations
+
+
+101
+0:5:41,174 --> 0:5:43,974
+until we came up with a device 
+that could be worn robustly
+
+
+102
+0:5:43,974 --> 0:5:46,554
+on the wrist and gather data in real life.
+
+
+103
+0:5:46,554 --> 0:5:49,5
+This has just been commercialized by Affectiva
+
+
+104
+0:5:49,5 --> 0:5:52,261
+and I'm pleased to say 
+is finally available as a product
+
+
+105
+0:5:52,261 --> 0:5:55,695
+for people to gather 
+and communicate this information
+
+
+106
+0:5:55,695 --> 0:5:58,7
+in the real world, 
+outside the lab.
+
+
+107
+0:5:58,7 --> 0:6:3,782
+Here's the first example of seven days of data 
+that I saw from a student at MIT
+
+
+108
+0:6:3,782 --> 0:6:6,705
+wearing the skin conductance sensor 
+on his wrist.
+
+
+109
+0:6:6,705 --> 0:6:11,51
+And the first thing that jumped out here 
+was there's a lot of studying and it's very activating.
+
+
+110
+0:6:11,51 --> 0:6:15,339
+Studying and lab work, in fact, sort of
+to the discouragement of we, professors,
+
+
+111
+0:6:15,339 --> 0:6:20,343
+is much more arousing 
+that any of the classroom activity. (Laughter)
+
+
+112
+0:6:20,343 --> 0:6:25,343
+We also saw these huge peaks that were happening 
+during sleep which puzzled us in the first place.
+
+
+113
+0:6:25,343 --> 0:6:28,12
+We just expected sleep to be flat.
+
+
+114
+0:6:28,12 --> 0:6:30,97
+Generally, as we did 
+further polysonography,
+
+
+115
+0:6:30,97 --> 0:6:33,569
+and teamed up with some expert 
+sleep researchers on this,
+
+
+116
+0:6:33,569 --> 0:6:35,993
+we found that these peaks tend to occur
+
+
+117
+0:6:35,993 --> 0:6:39,313
+during slow wave sleep or deep sleep, 
+and we're now looking at the relation
+
+
+118
+0:6:39,313 --> 0:6:42,968
+of those to sleep quality 
+and memory and learning.
+
+
+119
+0:6:42,968 --> 0:6:47,169
+Here's an example, 
+of a girl on the autism spectrum,
+
+
+120
+0:6:47,169 --> 0:6:51,618
+where she's able to communicate out 
+her arousal level, using this sensor.
+
+
+121
+0:6:51,618 --> 0:6:54,273
+Here she's wearing one on each ankle 
+so you'll see two signals streaming
+
+
+122
+0:6:54,273 --> 0:6:55,876
+across the bottom.
+
+
+123
+0:6:55,876 --> 0:6:59,364
+She's wearing it while she's undergoing 
+an ordinary occupational therapy session.
+
+
+124
+0:6:59,364 --> 0:7:3,886
+This is 45 minutes 
+of an ordinary session here,
+
+
+125
+0:7:3,886 --> 0:7:5,912
+and you'll see, you know, 
+it peaked here
+
+
+126
+0:7:5,912 --> 0:7:8,48
+and she had a little bit of a meltdown here, 
+got in a ball-pit,
+
+
+127
+0:7:8,48 --> 0:7:10,651
+calmed down, peaked here, 
+calmed down.
+
+
+128
+0:7:10,651 --> 0:7:15,254
+What you see up here, in blue, is right now, 
+this window here
+
+
+129
+0:7:15,254 --> 0:7:19,24
+the right edge is what you're seeing in the video 
+and we see that it peeked
+
+
+130
+0:7:19,24 --> 0:7:21,626
+as she climbed on this swing, 
+but as she starts swinging,
+
+
+131
+0:7:21,626 --> 0:7:26,525
+as that rhythmic activity kicks in, 
+it has this nice, decaying exponential.
+
+
+132
+0:7:26,525 --> 0:7:31,112
+We see for many people on the autisim spectrum, 
+when they rock, or do these repetitive movements
+
+
+133
+0:7:31,112 --> 0:7:33,164
+they can be very calming for them.
+
+
+134
+0:7:33,164 --> 0:7:36,315
+They're not just doing that 
+to be difficult or something.
+
+
+135
+0:7:36,315 --> 0:7:38,381
+It didn't have a very important, regulatory effect.
+
+
+136
+0:7:38,381 --> 0:7:42,695
+In fact, I've noticed an increasing number 
+of rocking chairs, cropping up in airports
+
+
+137
+0:7:42,695 --> 0:7:46,931
+since 9/11 and they're almost always taken, 
+at least at Boston Logan.
+
+
+138
+0:7:46,931 --> 0:7:50,635
+I think that's a healthy sign.
+
+
+139
+0:7:50,635 --> 0:7:54,603
+Once you get the ability to make 
+a new measure in the real world
+
+
+140
+0:7:54,603 --> 0:7:58,223
+and have people wear it, 
+unobtrusively in daily life,
+
+
+141
+0:7:58,223 --> 0:8:2,11
+you learn a lot of things that are surprising 
+and this is a really special surprise we ran into.
+
+
+142
+0:8:2,11 --> 0:8:4,847
+One of our kids on the autism spectrum
+was wearing this over Christmas.
+
+
+143
+0:8:4,847 --> 0:8:9,95
+I was looking at the data and I saw 
+this enormous peak on one side
+
+
+144
+0:8:9,95 --> 0:8:13,653
+not the other side, I thought: "Oh dear, something 
+is going wrong with the sensor!"
+
+
+145
+0:8:13,653 --> 0:8:16,758
+I looked more closely and it looked like 
+it was fine before the peak and after.
+
+
+146
+0:8:16,758 --> 0:8:19,14
+I asked his brother, "Any idea 
+what could have happened here?"
+
+
+147
+0:8:19,14 --> 0:8:23,47
+and he said, "I was with him 
+and he had a seizure right after."
+
+
+148
+0:8:23,47 --> 0:8:27,65
+Wow! I got on the phone with Joe Madson, 
+Boston Children's Hospital,
+
+
+149
+0:8:27,65 --> 0:8:29,8
+"Is there any way somebody could have 
+a huge auto-immunic surge
+
+
+150
+0:8:29,8 --> 0:8:32,402
+on one side of the body 
+with a big seizure?"
+
+
+151
+0:8:32,402 --> 0:8:33,716
+He said: "Yes"
+
+
+152
+0:8:33,716 --> 0:8:36,952
+Fast forward about 8,000 hours of data 
+and extensive analysis,
+
+
+153
+0:8:36,952 --> 0:8:40,41
+led by my student, Ming-Zher Poh 
+for his doctoral work
+
+
+154
+0:8:40,41 --> 0:8:45,284
+and we have now shown that measuring signals 
+from the wrist, reflects signals
+
+
+155
+0:8:45,284 --> 0:8:48,107
+measured from the brain 
+and the seizures are labeled
+
+
+156
+0:8:48,107 --> 0:8:53,733
+by the epileptologists reading the EEG only, 
+they coincide exactly with these peaks,
+
+
+157
+0:8:53,733 --> 0:8:58,108
+measured just from this electrical signal, 
+from the surface of the skin, on the wrist.
+
+
+158
+0:8:58,108 --> 0:8:59,743
+So this was really mind blowing to me!
+
+
+159
+0:8:59,743 --> 0:9:6,364
+That a change in our brain could show up as these events, picked up through a simple wrist band.
+
+
+160
+0:9:6,364 --> 0:9:12,174
+We're hoping this now can lead to better detection
+and treatment in real time
+
+
+161
+0:9:12,174 --> 0:9:16,889
+of people who suffer from seizures, 
+of the seizure events themselves.
+
+
+162
+0:9:16,889 --> 0:9:21,245
+Now another thing that kind of surprised me 
+in doing this, was --
+
+
+163
+0:9:21,245 --> 0:9:23,824
+the events show up, 
+sometimes, on just one side.
+
+
+164
+0:9:23,824 --> 0:9:26,229
+Usually the two sides 
+are showing the same information.
+
+
+165
+0:9:26,229 --> 0:9:29,599
+We where just measuring two sides 
+for redundancy, to cancel noise,
+
+
+166
+0:9:29,599 --> 0:9:34,452
+but we found that -- we learned something
+that was already in the literature
+
+
+167
+0:9:34,452 --> 0:9:38,923
+the right hemisphere of the brain controls 
+the electrodermal activity of the right palmar surface,
+
+
+168
+0:9:38,923 --> 0:9:40,562
+and the left, 
+the left.
+
+
+169
+0:9:40,562 --> 0:9:44,298
+I sort of rediscovered this when a tragic event 
+happened in my family.
+
+
+170
+0:9:44,298 --> 0:9:48,575
+I lost a loved one and that day I was at work, 
+having trouble speaking.
+
+
+171
+0:9:48,575 --> 0:9:51,761
+Those who know me, 
+know I never have trouble speaking.
+
+
+172
+0:9:51,761 --> 0:9:54,359
+So, one of my colleagues, 
+Ron Elco, said:
+
+
+173
+0:9:54,359 --> 0:9:56,808
+"Put a sensor on both sides!"
+
+
+174
+0:9:56,808 --> 0:10:1,445
+I'm strongly right-handed and sure enough, 
+the left side was incredibly suppressed.
+
+
+175
+0:10:1,445 --> 0:10:6,421
+That night I was, sitting in the kitchen,
+in this total stupor,
+
+
+176
+0:10:6,421 --> 0:10:9,364
+just kind a stirring a pot of something
+
+
+177
+0:10:9,364 --> 0:10:12,37
+and one of my sons came up 
+and started rubbing my back
+
+
+178
+0:10:12,37 --> 0:10:15,876
+which, I felt really blessed, 
+this is a very special moment,
+
+
+179
+0:10:15,876 --> 0:10:20,933
+I almost felt hope restored and then, his little brother 
+came up and did the same thing to him.
+
+
+180
+0:10:20,933 --> 0:10:24,546
+I had one of those rare moments of parental bliss, 
+where you kind of tingle down to your toes
+
+
+181
+0:10:24,546 --> 0:10:28,362
+especially as a mom of sons.
+
+
+182
+0:10:28,362 --> 0:10:30,17
+And -- 
+(Laughter)
+
+
+183
+0:10:30,17 --> 0:10:34,328
+at that moment, my little one looks up at the display 
+in the kitchen, 'cause of course
+
+
+184
+0:10:34,328 --> 0:10:37,204
+I'm streaming my data 
+wirelessly to this monitor,
+
+
+185
+0:10:37,204 --> 0:10:38,842
+(Laughter)
+
+
+186
+0:10:38,842 --> 0:10:41,588
+and he says:
+"Mommy, you're lines crossed!"
+
+
+187
+0:10:41,588 --> 0:10:45,362
+My right signal that was way above my left, 
+had come together
+
+
+188
+0:10:45,362 --> 0:10:48,16
+during that moment of parental bliss.
+
+
+189
+0:10:48,16 --> 0:10:52,352
+Now I thought: "Wow! I've heard about 
+positive and negative stuff for the brain
+
+
+190
+0:10:52,352 --> 0:10:55,603
+you now might show up but I never thought 
+this could show up on the wrist.
+
+
+191
+0:10:55,603 --> 0:10:59,898
+Now, that's just a few data points, 
+but I monitored myself overtime,
+
+
+192
+0:10:59,898 --> 0:11:3,423
+with sleep and sure enough, 
+the signal, as I recovered,
+
+
+193
+0:11:3,423 --> 0:11:7,246
+went back to the normal 
+sort of switching, left and right.
+
+
+194
+0:11:7,246 --> 0:11:11,833
+Now this is just a few data points but it shows 
+that there's this whole new potential to explore
+
+
+195
+0:11:11,833 --> 0:11:18,153
+what's going on in the brain, even by measuring
+some of these peripheral signals downstream.
+
+
+196
+0:11:18,153 --> 0:11:22,22
+There are many positive moments as well,
+that people have shared with us,
+
+
+197
+0:11:22,22 --> 0:11:23,801
+using our emotion technology.
+
+
+198
+0:11:23,801 --> 0:11:29,207
+Here's one from a bride in India, who, naturaly, 
+was sort of stressed out before her wedding
+
+
+199
+0:11:29,207 --> 0:11:30,995
+you see lots of peaks.
+
+
+200
+0:11:30,995 --> 0:11:34,19
+Her friend loved seeing this part 
+where she was chilling with her friends
+
+
+201
+0:11:34,19 --> 0:11:37,809
+and they helped calm her down before 
+and then the four major peaks here,
+
+
+202
+0:11:37,809 --> 0:11:39,801
+during the wedding ceremony.
+
+
+203
+0:11:39,801 --> 0:11:42,66
+The first, where the vows 
+were exchanged,
+
+
+204
+0:11:42,66 --> 0:11:45,292
+the second, third and fourth 
+in the Hindu ceremony
+
+
+205
+0:11:45,292 --> 0:11:48,469
+where the bride and groom 
+exchange symbolic gestures
+
+
+206
+0:11:48,469 --> 0:11:54,957
+that they are now 
+husband and wife.
+
+
+207
+0:11:54,957 --> 0:11:58,944
+Here's an example where a mother 
+and a daughter wanted to share
+
+
+208
+0:11:58,944 --> 0:12:1,906
+the daughter's experience at school.
+
+
+209
+0:12:1,906 --> 0:12:6,47
+The daughter had her first, big concert, 
+in front of school that day.
+
+
+210
+0:12:6,47 --> 0:12:10,44
+She was playing a harp and singing 
+in front of the entire school
+
+
+211
+0:12:10,44 --> 0:12:13,438
+and she expected it would be kind of 
+peeked there, and it was.
+
+
+212
+0:12:13,438 --> 0:12:17,748
+Also it was very peeked during physical education, 
+to be expected
+
+
+213
+0:12:17,748 --> 0:12:22,23
+anything that gives physical exertion, 
+makes you sweat, can be very arousing.
+
+
+214
+0:12:22,23 --> 0:12:24,459
+Her mom was very disappointed 
+to see that math lessons,
+
+
+215
+0:12:24,459 --> 0:12:25,71
+(Laughter)
+
+
+216
+0:12:25,71 --> 0:12:28,73
+was the low point of the day.
+
+
+217
+0:12:28,73 --> 0:12:32,658
+But there was this other, huge peak there 
+between Reading and PE, and --
+
+
+218
+0:12:32,658 --> 0:12:35,339
+What was that?
+
+
+219
+0:12:35,339 --> 0:12:39,181
+Turned out the daughter had a talk 
+with her mom, later that day.
+
+
+220
+0:12:39,181 --> 0:12:43,875
+In fact as she recalled this experience, we see 
+the emotions coming back up again.
+
+
+221
+0:12:43,875 --> 0:12:50,14
+This was this horrible, bullying event that she 
+was being dragged into by her friends.
+
+
+222
+0:12:50,14 --> 0:12:53,654
+Wouldn't it be amazing if the people 
+we care most about
+
+
+223
+0:12:53,654 --> 0:12:57,155
+were given the opportunity 
+to share, in an externalized way
+
+
+224
+0:12:57,155 --> 0:12:59,996
+some of what was going in their day
+that was so difficult.
+
+
+225
+0:12:59,996 --> 0:13:5,72
+Whether they can speak or not, this can be 
+a powerful way to take your emotions outside of you
+
+
+226
+0:13:5,72 --> 0:13:10,44
+and begin to reflect on them 
+and share them with others.
+
+
+227
+0:13:10,44 --> 0:13:14,15
+I have one last example with 
+the skin conductance sensor, a personal one.
+
+
+228
+0:13:14,15 --> 0:13:17,569
+I discovered one day 
+while taking my son
+
+
+229
+0:13:17,569 --> 0:13:21,251
+ona birthday outing to Six Flags, 
+that I indeed had big peaks
+
+
+230
+0:13:21,251 --> 0:13:23,27
+with the Roller Coasters, 
+which I love,
+
+
+231
+0:13:23,27 --> 0:13:27,608
+and a really awful one with a ride that 
+I won't tell you about, that was very unpleasant.
+
+
+232
+0:13:27,608 --> 0:13:29,197
+(Laughter)
+
+
+233
+0:13:29,197 --> 0:13:32,11
+But the surprise to me, when I looked at the data 
+at the end of the day,
+
+
+234
+0:13:32,11 --> 0:13:38,988
+was not that I had this huge peak when I'm 
+on the fastest, highest, most intense roller coaster
+
+
+235
+0:13:38,988 --> 0:13:42,751
+in all of New England, but it was actually 
+earlier in the day
+
+
+236
+0:13:42,751 --> 0:13:45,731
+when we were just trying
+to get out the door.
+
+
+237
+0:13:45,731 --> 0:13:51,985
+(Laughter)
+
+
+238
+0:13:51,985 --> 0:13:56,41
+Many people on the autism spectrum 
+who are conversant,
+
+
+239
+0:13:56,41 --> 0:13:59,276
+tell us that they have difficulty 
+reading facial expressions,
+
+
+240
+0:13:59,276 --> 0:14:0,474
+they are trying to pay attention
+
+
+241
+0:14:0,474 --> 0:14:3,95
+to what you're saying 
+and at the same time,
+
+
+242
+0:14:3,95 --> 0:14:7,417
+they can't tell if you're looking pleased 
+or displeased, interested or bored.
+
+
+243
+0:14:7,417 --> 0:14:10,857
+In particular, many of them have asked us
+if we could please help them
+
+
+244
+0:14:10,857 --> 0:14:13,321
+to have some technology 
+that tells them if the person
+
+
+245
+0:14:13,321 --> 0:14:18,319
+they're speaking with is still interested 
+or if they're boring them.
+
+
+246
+0:14:18,319 --> 0:14:22,698
+So this next example is a short video clip,
+introducing my collaborator on this work,
+
+
+247
+0:14:22,698 --> 0:14:26,834
+Dr. Rana el Kaliouby, who' s also 
+my co-founder at Afaktiva
+
+
+248
+0:14:26,834 --> 0:14:30,642
+and the chief architect 
+of our face reading software.
+
+
+249
+0:14:30,642 --> 0:14:36,459
+"-- Which would be recording your facial expressions
+and analysing them in real time.
+
+
+250
+0:14:36,459 --> 0:14:40,582
+So we use 24 feature points, on the face, 
+like the the eyes, mouth, eyebrows,
+
+
+251
+0:14:40,582 --> 0:14:44,957
+and we use those to recognize facial expressions 
+like, a smile, a lip pucker,
+
+
+252
+0:14:44,957 --> 0:14:48,469
+eyebrow raise and a mouth open 
+and so on.
+
+
+253
+0:14:48,469 --> 0:14:51,518
+And we look at these over time 
+and we sort of use them
+
+
+254
+0:14:51,518 --> 0:14:56,365
+along with head gestures to make a guess 
+at your hidden understatement.
+
+
+255
+0:14:56,365 --> 0:15:8,601
+(Video)
+
+
+256
+0:15:8,601 --> 0:15:11,99
+Each person is wearing a camera, 
+pointing at their own face often.
+
+
+257
+0:15:11,99 --> 0:15:24,882
+(Video)
+
+
+258
+0:15:24,882 --> 0:15:30,764
+(Laughter)
+
+
+259
+0:15:30,764 --> 0:15:34,46
+All right. Using this technology, 
+there are many things we can recognize
+
+
+260
+0:15:34,46 --> 0:15:39,76
+and many things we can learn, for example 
+I learned that actually, I was quite interested
+
+
+261
+0:15:39,76 --> 0:15:43,47
+in what he had to say, but I started 
+to feel dis-interested
+
+
+262
+0:15:43,47 --> 0:15:44,383
+because he never paused,
+
+
+263
+0:15:44,383 --> 0:15:47,703
+he never gave me a chance 
+to go into thinking mode,
+
+
+264
+0:15:47,703 --> 0:15:49,292
+process the information and return.
+
+
+265
+0:15:49,292 --> 0:15:52,304
+Or when I did, he had moved on 
+and I was lost.
+
+
+266
+0:15:52,304 --> 0:15:57,119
+So as we do this fine grain measurement of emotion, 
+we learn a lot of things about how to improve
+
+
+267
+0:15:57,119 --> 0:16:2,456
+our interactions with one another 
+or how to improve our interactions on-line
+
+
+268
+0:16:2,456 --> 0:16:4,991
+or elsewhere in the world.
+
+
+269
+0:16:4,991 --> 0:16:10,198
+Here is just an example reminding us that, you know, 
+while emotion is about what matters most,
+
+
+270
+0:16:10,198 --> 0:16:15,117
+it's also communicating this complicated language, 
+that is non-verbal.
+
+
+271
+0:16:15,117 --> 0:16:18,9
+In order to get a computer
+to learn how to read this,
+
+
+272
+0:16:18,9 --> 0:16:22,992
+we have to solve an extraordinary,
+complex problem
+
+
+273
+0:16:22,992 --> 0:16:26,254
+that makes chess and Go
+look trivial in comparison.
+
+
+274
+0:16:26,254 --> 0:16:30,86
+With over ten thousand facial expressions 
+that can be communicated and changed,
+
+
+275
+0:16:30,86 --> 0:16:34,785
+every second, multiplied by the faces 
+participating in a conversation,
+
+
+276
+0:16:34,785 --> 0:16:40,745
+the social, emotional games people play 
+is probably the hardest computer science
+
+
+277
+0:16:40,745 --> 0:16:45,303
+problem to solve, 
+in the next century as we go forth.
+
+
+278
+0:16:45,303 --> 0:16:48,458
+The complexity is just astronomical.
+
+
+279
+0:16:48,458 --> 0:16:54,161
+What we are starting to work on at MIT 
+and in partnership with Affectiva, in this next project,
+
+
+280
+0:16:54,161 --> 0:16:58,908
+is a way to go online, to get right now 
+thousands and hopefully, before long,
+
+
+281
+0:16:58,908 --> 0:17:3,752
+millions of examples of natural facial expressions, 
+while they happen online.
+
+
+282
+0:17:3,752 --> 0:17:8,562
+Here's an example where we partnered 
+with an interactive task on Forbes.
+
+
+283
+0:17:8,562 --> 0:17:10,763
+You can go to Forbes.com 
+and try this out.
+
+
+284
+0:17:10,763 --> 0:17:14,575
+You click on one of the T.V. commercials. 
+These are designed to elicit delight
+
+
+285
+0:17:14,575 --> 0:17:19,434
+and we measure your smiles 
+and we show the results here
+
+
+286
+0:17:19,434 --> 0:17:22,805
+for one of the commercials, 
+for three groups of people.
+
+
+287
+0:17:22,805 --> 0:17:26,835
+Those who say they have seen 
+the video many times,
+
+
+288
+0:17:26,835 --> 0:17:32,83
+those who have seen it once or twice 
+and those who say this is their first time.
+
+
+289
+0:17:32,83 --> 0:17:35,37
+This should be playing.
+
+
+290
+0:17:35,37 --> 0:17:39,32
+But for some reason it's not playing. 
+Clicking!
+
+
+291
+0:17:39,32 --> 0:17:43,29
+And what will happen 
+when they get there and play this video
+
+
+292
+0:17:43,29 --> 0:17:49,28
+is you'll see the video synchronized
+with the peaks, on the graph.
+
+
+293
+0:17:49,28 --> 0:17:52,942
+You can go online and see this,
+if they can't get it working here.
+
+
+294
+0:17:52,942 --> 0:17:55,908
+If you go to Forbes.com 
+and search for interactive smile
+
+
+295
+0:17:55,908 --> 0:18:1,371
+you can participate, give our researchers
+your facial expression data.
+
+
+296
+0:18:1,371 --> 0:18:5,17
+You can also see the results 
+and see interesting things, like, you know,
+
+
+297
+0:18:5,17 --> 0:18:9,8
+"Do people smile where you smile, 
+if you smile at the dog?"
+
+
+298
+0:18:9,8 --> 0:18:11,999
+One thing we learned is that people 
+who have seen it before
+
+
+299
+0:18:11,999 --> 0:18:17,63
+smile much earlier in anticipation 
+and they also smiled a lot more,
+
+
+300
+0:18:17,63 --> 0:18:20,35
+for these popular videos that they like.
+
+
+301
+0:18:20,35 --> 0:18:27,371
+I seem to have lost my slides completely here. 
+I will wrap up and just tell you
+
+
+302
+0:18:27,371 --> 0:18:32,834
+whether the emotions 
+are online or in real life,
+
+
+303
+0:18:32,834 --> 0:18:36,41
+whether they're to help somebody 
+who is speaking or non-speaking
+
+
+304
+0:18:36,41 --> 0:18:38,907
+or just to capture some 
+of those most positive emotions,
+
+
+305
+0:18:38,907 --> 0:18:41,539
+moments in life, new technology,
+
+
+306
+0:18:41,539 --> 0:18:45,923
+is enabling people to communicate emotion, 
+in ways never before possible.
+
+
+307
+0:18:45,923 --> 0:18:49,891
+I'd love to hear from you, how this technology 
+could help improve lives for you,
+
+
+308
+0:18:49,891 --> 0:18:53,956
+your business, your customers 
+and your loved ones.
+
+
+309
+0:18:53,956 --> 0:18:55,231
+Thank you.
+
+
+310
+0:18:55,231 --> 0:20:55,231
+(Applause)
+
+

@@ -1,0 +1,310 @@
+###15 Thank you. It's a pleasure to be here.
+###17 When something really matters
+###19 it elicits emotion
+###21 and how do we help people communicate emotion,
+###23 to make life better, whether at home,
+###26 at work, for your customers, for your kids at school?
+###30 Our challenge at The MIT Media Lab and at Affectiva,
+###33 has been to come up with better ways
+###34 to measure and help people communicate emotion.
+###36 I'll start with an example that we did years ago
+###39 which was a skin conducting sensor
+###41 that we gave to an audience like you, worn on the palm of the hand
+###45 and it glowed brightly every time
+###48 the audience got excited. Every time they were engaged.
+###50 We learned a lot that day.
+###52 We learned for example that every time a new speaker
+###55 came out on stage, the audience glowed.
+###57 Every time there was a live demonstration,
+###61 whether it worked or not, the audience glowed.
+###63 Every time there was live Q&A or laughter,
+###68 the audience glowed but unfortunately, every single time
+###72 there was a PowerPoint presentation
+###74 there was a decaying exponential in brightness.
+###77 (Laughter)
+###79 Let's, let's look more closely
+###81 at an example of the signal changing.
+###84 Here, for a nine year old boy, watching a movie trailer,
+###88 the signal will go up about a second after each of the parts of the trailer
+###92 that cause him to engage.
+###95 Starting with the music.
+###96 (Music)
+###120 The three biggest peaks.
+###122 (Laughter)
+###137 See this is where it kind of falls of here though.
+###141 (Music)
+###146 He peaks for the name of the movie and the date of it,
+###149 so you can see why people in Market Research and Advertising
+###152 are extremely interested in this information
+###154 or I as an educator, I'm extremely interested too.
+###157 'Cause I want to know what content
+###159 is connecting with my students and with my loved ones.
+###164 Here's an example of the signal changing with a Patriots fan,
+###168 back when the Patriots were in the Superbowl.
+###170 And this one illustrates an important point about skin conductance
+###174 and that is even as we measure the auto-immunic arousal
+###177 of a person and their excitement.
+###179 This goes up with things that are good or bad.
+###181 So we see it go up here when the guy has a --
+###185 when his favorite team scores a touchdown,
+###186 it also goes up during an endzone overthrow.
+###189 So it goes up with good and bad.
+###191 Interestingly, it also goes up during a Dorito's Mouse T.V. commercial,
+###194 when the mouse comes out and catches the man.
+###197 (Laughter)
+###200 It's interesting now that we can get this information in real life,
+###204 to see how relatively important different events are in life
+###208 and where the significance of something that you share with somebody,
+###211 compares with this response to some other things that are going on with their life.
+###216 What drives this signal?
+###218 This skin conductance is driven by the autonomic nervous system,
+###222 sympathetic nervous system response.
+###224 Your autonomic nervous system has two main branches,
+###226 the sympathetic and the parasympathetic.
+###228 The sympathetic can be thought of kind of like stepping on the gas, in the car,
+###232 it revs your heart up, it causes the skin conductance to increase.
+###235 The parasympathetic causes the heart to decrease.
+###238 The sympathetic is thought of as fight or flight,
+###241 the parasympathetic is rest & digest.
+###243 Almost all the organs are innervated by both the sympathetic and the parasympathetic,
+###248 except the skin, which gets the pure sympathetic,
+###250 which makes it ideal for us measuring this fight or flight response.
+###253 Now, I became interested in measuring this response when I started working a lot
+###257 with people in the autism spectrum, who are non-speaking.
+###260 The most heart-breaking stories, that I hear from these --
+###263 from the families and the individuals themselves,
+###266 when they later acquire the ability to speak,
+###269 is that, the changes that were worst, were when they got kicked out of school
+###275 or were shipped off to an institution,
+###277 removed from learning opportunities and social opportunities.
+###279 What caused that to happen?
+###283 Usually it was a meltdown or a series of meltdowns
+###285 and the meltdowns, like adult tantrums, appear to come from nowhere.
+###290 One moment the person seemed calm and relaxed,
+###292 the next moment they might have become injurious
+###295 to themselves or to others.
+###297 So, they seemed very unpredictable and uncontrollable.
+###300 Now, as we undertook the privilege of getting to know some individuals
+###304 who could later communicate, they told us that these meltdowns
+###306 never came from nowhere that, in fact, they were always preceeded
+###309 by increasing stress and frustration.
+###311 They couldn't understand why people couldn't see what was bugging them.
+###314 So this made me think, "Wow, what if we could enable them
+###318 even though they can't communicate,
+###320 to signal out their increasing stress and frustration?"
+###324 But to do that required a device that is shown on the left here,
+###328 a classic, galvanic skin response,
+###330 skin conductance sympathetic nervous system measure,
+###332 that involved a lot of wires and boxes,
+###334 and that was uncomfortable to wear in daily life.
+###337 So my team at MIT went through lots of iterations
+###341 until we came up with a device that could be worn robustly
+###343 on the wrist and gather data in real life.
+###346 This has just been commercialized by Affectiva
+###349 and I'm pleased to say is finally available as a product
+###352 for people to gather and communicate this information
+###355 in the real world, outside the lab.
+###358 Here's the first example of seven days of data that I saw from a student at MIT
+###363 wearing the skin conductance sensor on his wrist.
+###366 And the first thing that jumped out here was there's a lot of studying and it's very activating.
+###371 Studying and lab work, in fact, sort of to the discouragement of we, professors,
+###375 is much more arousing that any of the classroom activity. (Laughter)
+###380 We also saw these huge peaks that were happening during sleep which puzzled us in the first place.
+###385 We just expected sleep to be flat.
+###388 Generally, as we did further polysonography,
+###390 and teamed up with some expert sleep researchers on this,
+###393 we found that these peaks tend to occur
+###395 during slow wave sleep or deep sleep, and we're now looking at the relation
+###399 of those to sleep quality and memory and learning.
+###402 Here's an example, of a girl on the autism spectrum,
+###407 where she's able to communicate out her arousal level, using this sensor.
+###411 Here she's wearing one on each ankle so you'll see two signals streaming
+###414 across the bottom.
+###415 She's wearing it while she's undergoing an ordinary occupational therapy session.
+###419 This is 45 minutes of an ordinary session here,
+###423 and you'll see, you know, it peaked here
+###425 and she had a little bit of a meltdown here, got in a ball-pit,
+###428 calmed down, peaked here, calmed down.
+###430 What you see up here, in blue, is right now, this window here
+###435 the right edge is what you're seeing in the video and we see that it peeked
+###439 as she climbed on this swing, but as she starts swinging,
+###441 as that rhythmic activity kicks in, it has this nice, decaying exponential.
+###446 We see for many people on the autisim spectrum, when they rock, or do these repetitive movements
+###451 they can be very calming for them.
+###453 They're not just doing that to be difficult or something.
+###456 It didn't have a very important, regulatory effect.
+###458 In fact, I've noticed an increasing number of rocking chairs, cropping up in airports
+###462 since 9/11 and they're almost always taken, at least at Boston Logan.
+###466 I think that's a healthy sign.
+###470 Once you get the ability to make a new measure in the real world
+###474 and have people wear it, unobtrusively in daily life,
+###478 you learn a lot of things that are surprising and this is a really special surprise we ran into.
+###482 One of our kids on the autism spectrum was wearing this over Christmas.
+###484 I was looking at the data and I saw this enormous peak on one side
+###489 not the other side, I thought: "Oh dear, something is going wrong with the sensor!"
+###493 I looked more closely and it looked like it was fine before the peak and after.
+###496 I asked his brother, "Any idea what could have happened here?"
+###499 and he said, "I was with him and he had a seizure right after."
+###503 Wow! I got on the phone with Joe Madson, Boston Children's Hospital,
+###507 "Is there any way somebody could have a huge auto-immunic surge
+###509 on one side of the body with a big seizure?"
+###512 He said: "Yes"
+###513 Fast forward about 8,000 hours of data and extensive analysis,
+###516 led by my student, Ming-Zher Poh for his doctoral work
+###520 and we have now shown that measuring signals from the wrist, reflects signals
+###525 measured from the brain and the seizures are labeled
+###528 by the epileptologists reading the EEG only, they coincide exactly with these peaks,
+###533 measured just from this electrical signal, from the surface of the skin, on the wrist.
+###538 So this was really mind blowing to me!
+###539 That a change in our brain could show up as these events, picked up through a simple wrist band.
+###546 We're hoping this now can lead to better detection and treatment in real time
+###552 of people who suffer from seizures, of the seizure events themselves.
+###556 Now another thing that kind of surprised me in doing this, was --
+###561 the events show up, sometimes, on just one side.
+###563 Usually the two sides are showing the same information.
+###566 We where just measuring two sides for redundancy, to cancel noise,
+###569 but we found that -- we learned something that was already in the literature
+###574 the right hemisphere of the brain controls the electrodermal activity of the right palmar surface,
+###578 and the left, the left.
+###580 I sort of rediscovered this when a tragic event happened in my family.
+###584 I lost a loved one and that day I was at work, having trouble speaking.
+###588 Those who know me, know I never have trouble speaking.
+###591 So, one of my colleagues, Ron Elco, said:
+###594 "Put a sensor on both sides!"
+###596 I'm strongly right-handed and sure enough, the left side was incredibly suppressed.
+###601 That night I was, sitting in the kitchen, in this total stupor,
+###606 just kind a stirring a pot of something
+###609 and one of my sons came up and started rubbing my back
+###612 which, I felt really blessed, this is a very special moment,
+###615 I almost felt hope restored and then, his little brother came up and did the same thing to him.
+###620 I had one of those rare moments of parental bliss, where you kind of tingle down to your toes
+###624 especially as a mom of sons.
+###628 And -- (Laughter)
+###630 at that moment, my little one looks up at the display in the kitchen, 'cause of course
+###634 I'm streaming my data wirelessly to this monitor,
+###637 (Laughter)
+###638 and he says: "Mommy, you're lines crossed!"
+###641 My right signal that was way above my left, had come together
+###645 during that moment of parental bliss.
+###648 Now I thought: "Wow! I've heard about positive and negative stuff for the brain
+###652 you now might show up but I never thought this could show up on the wrist.
+###655 Now, that's just a few data points, but I monitored myself overtime,
+###659 with sleep and sure enough, the signal, as I recovered,
+###663 went back to the normal sort of switching, left and right.
+###667 Now this is just a few data points but it shows that there's this whole new potential to explore
+###671 what's going on in the brain, even by measuring some of these peripheral signals downstream.
+###678 There are many positive moments as well, that people have shared with us,
+###682 using our emotion technology.
+###683 Here's one from a bride in India, who, naturaly, was sort of stressed out before her wedding
+###689 you see lots of peaks.
+###690 Her friend loved seeing this part where she was chilling with her friends
+###694 and they helped calm her down before and then the four major peaks here,
+###697 during the wedding ceremony.
+###699 The first, where the vows were exchanged,
+###702 the second, third and fourth in the Hindu ceremony
+###705 where the bride and groom exchange symbolic gestures
+###708 that they are now husband and wife.
+###714 Here's an example where a mother and a daughter wanted to share
+###718 the daughter's experience at school.
+###721 The daughter had her first, big concert, in front of school that day.
+###726 She was playing a harp and singing in front of the entire school
+###730 and she expected it would be kind of peeked there, and it was.
+###733 Also it was very peeked during physical education, to be expected
+###737 anything that gives physical exertion, makes you sweat, can be very arousing.
+###742 Her mom was very disappointed to see that math lessons,
+###744 (Laughter)
+###745 was the low point of the day.
+###748 But there was this other, huge peak there between Reading and PE, and --
+###752 What was that?
+###755 Turned out the daughter had a talk with her mom, later that day.
+###759 In fact as she recalled this experience, we see the emotions coming back up again.
+###763 This was this horrible, bullying event that she was being dragged into by her friends.
+###770 Wouldn't it be amazing if the people we care most about
+###773 were given the opportunity to share, in an externalized way
+###777 some of what was going in their day that was so difficult.
+###779 Whether they can speak or not, this can be a powerful way to take your emotions outside of you
+###785 and begin to reflect on them and share them with others.
+###790 I have one last example with the skin conductance sensor, a personal one.
+###794 I discovered one day while taking my son
+###797 ona birthday outing to Six Flags, that I indeed had big peaks
+###801 with the Roller Coasters, which I love,
+###803 and a really awful one with a ride that I won't tell you about, that was very unpleasant.
+###807 (Laughter)
+###809 But the surprise to me, when I looked at the data at the end of the day,
+###812 was not that I had this huge peak when I'm on the fastest, highest, most intense roller coaster
+###818 in all of New England, but it was actually earlier in the day
+###822 when we were just trying to get out the door.
+###825 (Laughter)
+###831 Many people on the autism spectrum who are conversant,
+###836 tell us that they have difficulty reading facial expressions,
+###839 they are trying to pay attention
+###840 to what you're saying and at the same time,
+###843 they can't tell if you're looking pleased or displeased, interested or bored.
+###847 In particular, many of them have asked us if we could please help them
+###850 to have some technology that tells them if the person
+###853 they're speaking with is still interested or if they're boring them.
+###858 So this next example is a short video clip, introducing my collaborator on this work,
+###862 Dr. Rana el Kaliouby, who' s also my co-founder at Afaktiva
+###866 and the chief architect of our face reading software.
+###870 "-- Which would be recording your facial expressions and analysing them in real time.
+###876 So we use 24 feature points, on the face, like the the eyes, mouth, eyebrows,
+###880 and we use those to recognize facial expressions like, a smile, a lip pucker,
+###884 eyebrow raise and a mouth open and so on.
+###888 And we look at these over time and we sort of use them
+###891 along with head gestures to make a guess at your hidden understatement.
+###896 (Video)
+###908 Each person is wearing a camera, pointing at their own face often.
+###911 (Video)
+###924 (Laughter)
+###930 All right. Using this technology, there are many things we can recognize
+###934 and many things we can learn, for example I learned that actually, I was quite interested
+###939 in what he had to say, but I started to feel dis-interested
+###943 because he never paused,
+###944 he never gave me a chance to go into thinking mode,
+###947 process the information and return.
+###949 Or when I did, he had moved on and I was lost.
+###952 So as we do this fine grain measurement of emotion, we learn a lot of things about how to improve
+###957 our interactions with one another or how to improve our interactions on-line
+###962 or elsewhere in the world.
+###964 Here is just an example reminding us that, you know, while emotion is about what matters most,
+###970 it's also communicating this complicated language, that is non-verbal.
+###975 In order to get a computer to learn how to read this,
+###978 we have to solve an extraordinary, complex problem
+###982 that makes chess and Go look trivial in comparison.
+###986 With over ten thousand facial expressions that can be communicated and changed,
+###990 every second, multiplied by the faces participating in a conversation,
+###994 the social, emotional games people play is probably the hardest computer science
+###1000 problem to solve, in the next century as we go forth.
+###1005 The complexity is just astronomical.
+###1008 What we are starting to work on at MIT and in partnership with Affectiva, in this next project,
+###1014 is a way to go online, to get right now thousands and hopefully, before long,
+###1018 millions of examples of natural facial expressions, while they happen online.
+###1023 Here's an example where we partnered with an interactive task on Forbes.
+###1028 You can go to Forbes.com and try this out.
+###1030 You click on one of the T.V. commercials. These are designed to elicit delight
+###1034 and we measure your smiles and we show the results here
+###1039 for one of the commercials, for three groups of people.
+###1042 Those who say they have seen the video many times,
+###1046 those who have seen it once or twice and those who say this is their first time.
+###1052 This should be playing.
+###1055 But for some reason it's not playing. Clicking!
+###1059 And what will happen when they get there and play this video
+###1063 is you'll see the video synchronized with the peaks, on the graph.
+###1069 You can go online and see this, if they can't get it working here.
+###1072 If you go to Forbes.com and search for interactive smile
+###1075 you can participate, give our researchers your facial expression data.
+###1081 You can also see the results and see interesting things, like, you know,
+###1085 "Do people smile where you smile, if you smile at the dog?"
+###1089 One thing we learned is that people who have seen it before
+###1091 smile much earlier in anticipation and they also smiled a lot more,
+###1097 for these popular videos that they like.
+###1100 I seem to have lost my slides completely here. I will wrap up and just tell you
+###1107 whether the emotions are online or in real life,
+###1112 whether they're to help somebody who is speaking or non-speaking
+###1116 or just to capture some of those most positive emotions,
+###1118 moments in life, new technology,
+###1121 is enabling people to communicate emotion, in ways never before possible.
+###1125 I'd love to hear from you, how this technology could help improve lives for you,
+###1129 your business, your customers and your loved ones.
+###1133 Thank you.
+###1135 (Applause)

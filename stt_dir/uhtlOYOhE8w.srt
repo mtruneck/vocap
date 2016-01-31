@@ -1,0 +1,12034 @@
+1
+0:0:1,7 --> 0:0:2,567
+Audience Members:
+Hey!
+
+
+2
+0:0:2,567 --> 0:0:3,467
+Todd Park:
+How is everybody doing?
+
+
+3
+0:0:3,467 --> 0:0:4,567
+Audience Members:
+Whooo!
+
+
+4
+0:0:4,567 --> 0:0:5,867
+Todd Park:
+Fantastic!
+
+
+5
+0:0:5,867 --> 0:0:6,734
+I'm Todd Park,
+
+
+6
+0:0:6,734 --> 0:0:10,3
+U.S. Chief Technology Officer
+here with my brother,
+
+
+7
+0:0:10,3 --> 0:0:12,8
+Steve Van Roekel, U.S.
+Chief Information Officer.
+
+
+8
+0:0:12,8 --> 0:0:13,867
+[laughter]
+
+
+9
+0:0:13,867 --> 0:0:15,533
+And it is our
+great pleasure to welcome
+
+
+10
+0:0:15,533 --> 0:0:19,1
+you here today both those
+here in person and those
+
+
+11
+0:0:19,1 --> 0:0:21,66
+watching on live stream.
+
+
+12
+0:0:21,66 --> 0:0:22,2
+Today we've all come
+together to celebrate the
+
+
+13
+0:0:22,2 --> 0:0:25,567
+Launch of the Presidential
+Innovation Fellows
+
+
+14
+0:0:25,567 --> 0:0:29,467
+Program, a new initiative
+that is bringing 18
+
+
+15
+0:0:29,467 --> 0:0:31,834
+incredibly talented
+private sector innovators
+
+
+16
+0:0:31,834 --> 0:0:35,333
+from across America to
+D.C. to work with our best
+
+
+17
+0:0:35,333 --> 0:0:39,567
+innovators for six months
+on five high-impact projects.
+
+
+18
+0:0:39,567 --> 0:0:41,5
+These projects promise to
+support entrepreneurs,
+
+
+19
+0:0:41,5 --> 0:0:44,33
+small businesses, job
+growth and the economy
+
+
+20
+0:0:44,33 --> 0:0:46,667
+while also significantly
+improving the ability of
+
+
+21
+0:0:46,667 --> 0:0:49,5
+the federal government to
+serve the American people.
+
+
+22
+0:0:49,5 --> 0:0:50,934
+Today you will learn more
+about these five important
+
+
+23
+0:0:50,934 --> 0:0:55,133
+projects and meet the 18
+extraordinary Americans,
+
+
+24
+0:0:55,133 --> 0:0:57,767
+our Inaugural Presidential
+Innovation Fellows who've
+
+
+25
+0:0:57,767 --> 0:0:59,8
+agreed to drop everything,
+come to D.C. in the middle
+
+
+26
+0:0:59,8 --> 0:1:2,266
+of summer, work incredibly
+hard to do great things
+
+
+27
+0:1:2,266 --> 0:1:3,767
+for the American people.
+
+
+28
+0:1:3,767 --> 0:1:5,3
+And you can follow the
+conversation on twitter,
+
+
+29
+0:1:5,3 --> 0:1:9,734
+contribute to the
+conversation at #innovategov.
+
+
+30
+0:1:9,734 --> 0:1:11,433
+Steven Van Roekel:
+So three months ago today
+
+
+31
+0:1:11,433 --> 0:1:12,166
+Todd and I
+launched the U.S.
+
+
+32
+0:1:12,166 --> 0:1:15,9
+Digital Government
+Strategy which is a
+
+
+33
+0:1:15,9 --> 0:1:18,7
+groundbreaking plan to
+unleash the power of
+
+
+34
+0:1:18,7 --> 0:1:22,4
+innovation and technology
+within government.
+
+
+35
+0:1:22,4 --> 0:1:25,633
+The goals of the digital
+strategy were sort
+of three-fold.
+
+
+36
+0:1:25,633 --> 0:1:29,266
+One was one to just have
+great impact, to focus on
+
+
+37
+0:1:29,266 --> 0:1:31,533
+impact, and driving
+impact across government.
+
+
+38
+0:1:31,533 --> 0:1:33,533
+Two was saving
+taxpayer money.
+
+
+39
+0:1:33,533 --> 0:1:36,0
+We think we can do things
+better, faster and cheaper
+
+
+40
+0:1:36,0 --> 0:1:37,834
+by unleashing innovation.
+
+
+41
+0:1:37,834 --> 0:1:40,734
+And three was delivering
+government in a very
+
+
+42
+0:1:40,734 --> 0:1:42,633
+citizen-centric way.
+
+
+43
+0:1:42,633 --> 0:1:45,166
+Now given all of this
+we've made incredible
+
+
+44
+0:1:45,166 --> 0:1:47,4
+progress the last
+three months.
+
+
+45
+0:1:47,4 --> 0:1:49,7
+Today we are proud to
+announce a few things.
+
+
+46
+0:1:49,7 --> 0:1:52,33
+One is the release of
+"Bring Your Own Device
+
+
+47
+0:1:52,33 --> 0:1:55,166
+Toolkit for government" so
+teaching agencies how to
+
+
+48
+0:1:55,166 --> 0:1:58,2
+use the resources to bear
+to allow employees to
+
+
+49
+0:1:58,2 --> 0:2:1,633
+bring devices to work and
+utilize new technology
+
+
+50
+0:2:1,633 --> 0:2:3,333
+within the boundaries
+of government.
+
+
+51
+0:2:3,333 --> 0:2:5,734
+The second, and the census
+team is here from the
+
+
+52
+0:2:5,734 --> 0:2:8,7
+Commerce Department, and
+today we are very proud to
+
+
+53
+0:2:8,7 --> 0:2:11,633
+announce the launch of
+their new multi-platform
+
+
+54
+0:2:11,633 --> 0:2:14,166
+mobile app that actually
+triangulates census data
+
+
+55
+0:2:14,166 --> 0:2:16,967
+with economic data in
+really interesting ways.
+
+
+56
+0:2:16,967 --> 0:2:19,633
+So I encourage all of you
+to go and check that out.
+
+
+57
+0:2:19,633 --> 0:2:22,4
+But one thing Todd and
+I really realized going
+
+
+58
+0:2:22,4 --> 0:2:25,3
+through this process was,
+you know, just releasing
+
+
+59
+0:2:25,3 --> 0:2:28,2
+toolkits, just unleashing
+technology wasn't enough.
+
+
+60
+0:2:28,2 --> 0:2:30,467
+We needed to bring to bear
+the power of people within
+
+
+61
+0:2:30,467 --> 0:2:34,233
+government and that is
+what today is really all about.
+
+
+62
+0:2:34,233 --> 0:2:36,9
+So based on programs like
+our Entrepreneurs and
+
+
+63
+0:2:36,9 --> 0:2:39,333
+Residents Program we ran
+at the FDA and other
+
+
+64
+0:2:39,333 --> 0:2:42,467
+places, and I believe the
+team is here from there as
+
+
+65
+0:2:42,467 --> 0:2:45,2
+well, and programs like
+Code for America,
+
+
+66
+0:2:45,2 --> 0:2:46,233
+a civic program --
+
+
+67
+0:2:46,233 --> 0:2:46,867
+Todd Park:
+Whahoo!
+
+
+68
+0:2:46,867 --> 0:2:47,8
+Steve Van Roekel:
+-- based on the West Coast,
+
+
+69
+0:2:47,8 --> 0:2:51,66
+you know, we, Todd and I,
+on May 23rd, announced the
+
+
+70
+0:2:51,66 --> 0:2:53,533
+Presidential Innovation
+Fellows Program which as
+
+
+71
+0:2:53,533 --> 0:2:55,6
+Todd mentioned was a
+program that called on
+
+
+72
+0:2:55,6 --> 0:2:57,934
+entrepreneurs from around
+America to come to
+
+
+73
+0:2:57,934 --> 0:3:0,9
+Washington, to pick up
+their lives, to move, in
+
+
+74
+0:3:0,9 --> 0:3:3,567
+many cases, across the
+continent to come work in
+
+
+75
+0:3:3,567 --> 0:3:7,233
+government for a fixed
+period of time on these
+
+
+76
+0:3:7,233 --> 0:3:9,333
+focused innovation
+projects.
+
+
+77
+0:3:9,333 --> 0:3:11,667
+Within three weeks of
+announcing the innovation
+
+
+78
+0:3:11,667 --> 0:3:16,2
+program, we had over
+700 people apply for
+
+
+79
+0:3:16,2 --> 0:3:19,33
+18 positions within
+government and thousands
+
+
+80
+0:3:19,33 --> 0:3:23,967
+more had signed up to be
+followers and follow along
+
+
+81
+0:3:23,967 --> 0:3:26,467
+and work with us as
+we moved forward.
+
+
+82
+0:3:26,467 --> 0:3:28,367
+You'll meet the 18 today.
+
+
+83
+0:3:28,367 --> 0:3:29,8
+We're very
+excited about it.
+
+
+84
+0:3:29,8 --> 0:3:32,33
+And then hear more about
+the projects that all of
+
+
+85
+0:3:32,33 --> 0:3:35,133
+the innovators are
+going to innovate on.
+
+
+86
+0:3:35,133 --> 0:3:37,967
+Todd Park:
+And we were
+just so, so incredibly
+
+
+87
+0:3:37,967 --> 0:3:41,4
+delighted at the
+outpouring from folks who
+
+
+88
+0:3:41,4 --> 0:3:43,734
+wanted to come and serve,
+who wanted to help the
+
+
+89
+0:3:43,734 --> 0:3:46,367
+projects, it was
+just an explosion of
+
+
+90
+0:3:46,367 --> 0:3:49,367
+civic-mindedness, of a
+desire to serve country,
+
+
+91
+0:3:49,367 --> 0:3:51,533
+you know, a dedication
+to the nation's future.
+
+
+92
+0:3:51,533 --> 0:3:53,4
+And it was an incredibly
+difficult task as you take
+
+
+93
+0:3:53,4 --> 0:3:56,233
+the 700 applicants, who
+were amazing, and somehow
+
+
+94
+0:3:56,233 --> 0:4:0,266
+boil them down to just 18
+folks that would actually
+
+
+95
+0:4:0,266 --> 0:4:2,166
+come to D.C.
+to be fellows.
+
+
+96
+0:4:2,166 --> 0:4:3,433
+Many reviewers actually
+told us in all their
+
+
+97
+0:4:3,433 --> 0:4:5,533
+careers in government
+they had never seen an
+
+
+98
+0:4:5,533 --> 0:4:9,133
+applicant pool quite
+like the 700 before.
+
+
+99
+0:4:9,133 --> 0:4:11,133
+In the end the agency
+did actually select 18
+
+
+100
+0:4:11,133 --> 0:4:12,9
+extraordinary Americans
+to serve as inaugural
+
+
+101
+0:4:12,9 --> 0:4:15,3
+fellows, fellows who
+embody the spirit of
+
+
+102
+0:4:15,3 --> 0:4:18,33
+American innovation,
+American entrepreneurship,
+
+
+103
+0:4:18,33 --> 0:4:20,166
+and could can be the best
+ideas from the private
+
+
+104
+0:4:20,166 --> 0:4:23,1
+sector from across the
+nation to bear on the
+
+
+105
+0:4:23,1 --> 0:4:25,4
+critical task of building
+an ever more effective and
+
+
+106
+0:4:25,4 --> 0:4:27,467
+efficient government.
+
+
+107
+0:4:27,467 --> 0:4:29,166
+To say a few words about
+the critical importance of
+
+
+108
+0:4:29,166 --> 0:4:31,66
+this work, it's my great
+pleasure to welcome to the
+
+
+109
+0:4:31,66 --> 0:4:33,767
+stage Jeff Zients, the
+Acting Director of the
+
+
+110
+0:4:33,767 --> 0:4:36,133
+Office of Management and
+Budget and Champion of
+
+
+111
+0:4:36,133 --> 0:4:38,934
+Innovation on
+Awesomeness in general!
+
+
+112
+0:4:38,934 --> 0:4:39,467
+Please welcome Jeff!
+
+
+113
+0:4:39,467 --> 0:4:44,734
+[applause]
+
+
+114
+0:4:44,734 --> 0:4:47,5
+Jeff Zients:
+That's a -- can you hear me?
+
+
+115
+0:4:47,5 --> 0:4:48,467
+Good morning, everybody.
+
+
+116
+0:4:48,467 --> 0:4:50,967
+That's a tough act to
+follow, Todd and Steve.
+
+
+117
+0:4:50,967 --> 0:4:54,2
+And I see Steve Case
+here in the front row.
+
+
+118
+0:4:54,2 --> 0:4:56,33
+Steve's daughter Katie
+and my daughter
+
+
+119
+0:4:56,33 --> 0:4:58,1
+go to school together.
+
+
+120
+0:4:58,1 --> 0:5:1,3
+And my daughter -- they're
+both 17 so you can imagine
+
+
+121
+0:5:1,3 --> 0:5:2,533
+what we're dealing with.
+
+
+122
+0:5:2,533 --> 0:5:3,166
+[laughter]
+
+
+123
+0:5:3,166 --> 0:5:5,166
+-- but she
+frequently, she frequently
+
+
+124
+0:5:5,166 --> 0:5:9,734
+reminds me "you're no
+Steve Case," as I struggle
+
+
+125
+0:5:9,734 --> 0:5:11,8
+with my technology.
+
+
+126
+0:5:11,8 --> 0:5:14,834
+But speaking of
+technology, having spent
+
+
+127
+0:5:14,834 --> 0:5:17,66
+all of my time before
+three years ago in the
+
+
+128
+0:5:17,66 --> 0:5:20,433
+private sector, so 20 odd
+years, I know firsthand
+
+
+129
+0:5:20,433 --> 0:5:22,867
+how important technology
+has been to driving the
+
+
+130
+0:5:22,867 --> 0:5:25,4
+success of the private
+sector and our overall
+
+
+131
+0:5:25,4 --> 0:5:27,0
+global competitiveness.
+
+
+132
+0:5:27,0 --> 0:5:29,5
+The President has been
+onto this since the
+
+
+133
+0:5:29,5 --> 0:5:31,633
+beginning when he
+appointed for the first
+
+
+134
+0:5:31,633 --> 0:5:34,6
+time ever a Chief
+Technology Officer and a
+
+
+135
+0:5:34,6 --> 0:5:36,967
+Chief Information Officer.
+
+
+136
+0:5:36,967 --> 0:5:39,33
+So right from the
+beginning the President
+
+
+137
+0:5:39,33 --> 0:5:40,767
+has recognized the
+importance of technology
+
+
+138
+0:5:40,767 --> 0:5:42,934
+for our economy, our
+global competitiveness,
+
+
+139
+0:5:42,934 --> 0:5:45,367
+and for our government
+operations.
+
+
+140
+0:5:45,367 --> 0:5:49,467
+If you think about
+productivity and the
+
+
+141
+0:5:49,467 --> 0:5:51,834
+productivity increases,
+the year over year
+
+
+142
+0:5:51,834 --> 0:5:54,3
+increases in the private
+sector, 1 1/2 to 2%
+
+
+143
+0:5:54,3 --> 0:5:56,834
+increase for the last
+couple of decades in
+
+
+144
+0:5:56,834 --> 0:5:59,867
+productivity, that
+compounds in a pretty big
+
+
+145
+0:5:59,867 --> 0:6:4,5
+way and companies that
+weren't on that curve are
+
+
+146
+0:6:4,5 --> 0:6:6,66
+no longer with us.
+
+
+147
+0:6:6,66 --> 0:6:7,633
+It's hard to measure
+productivity in
+
+
+148
+0:6:7,633 --> 0:6:9,9
+the federal government.
+
+
+149
+0:6:9,9 --> 0:6:14,133
+But the best metric is
+some work done by McKinsey
+
+
+150
+0:6:14,133 --> 0:6:16,533
+which says that the
+federal sector has grown
+
+
+151
+0:6:16,533 --> 0:6:19,33
+in productivity but slower
+than the private sector.
+
+
+152
+0:6:19,33 --> 0:6:21,0
+So there is a gap, a
+productivity gap between
+
+
+153
+0:6:21,0 --> 0:6:23,834
+how the federal sector has
+increased its productivity
+
+
+154
+0:6:23,834 --> 0:6:25,266
+across the last couple
+of decades and what the
+
+
+155
+0:6:25,266 --> 0:6:27,166
+private sector has done.
+
+
+156
+0:6:27,166 --> 0:6:30,266
+We all know that it is
+wrong to assume technology
+
+
+157
+0:6:30,266 --> 0:6:32,3
+is the answer and lead
+with technology but
+
+
+158
+0:6:32,3 --> 0:6:33,9
+technology at the same
+time has been at the
+
+
+159
+0:6:33,9 --> 0:6:37,233
+center of those
+productivity gains.
+
+
+160
+0:6:37,233 --> 0:6:40,333
+And we need to close
+that productivity gap.
+
+
+161
+0:6:40,333 --> 0:6:43,7
+So central to closing
+that productivity gap is
+
+
+162
+0:6:43,7 --> 0:6:45,266
+improving innovation
+and technology in
+
+
+163
+0:6:45,266 --> 0:6:47,0
+the federal government.
+
+
+164
+0:6:47,0 --> 0:6:49,8
+And I think we have made
+some good progress since
+
+
+165
+0:6:49,8 --> 0:6:51,33
+the very beginning of
+the Administration.
+
+
+166
+0:6:51,33 --> 0:6:53,266
+We have great people in
+the federal government.
+
+
+167
+0:6:53,266 --> 0:6:54,8
+The idea of pairing the
+great people in the
+
+
+168
+0:6:54,8 --> 0:6:56,5
+federal government with
+the best of the private
+
+
+169
+0:6:56,5 --> 0:7:0,7
+sector to accelerate those
+efforts has me and all of
+
+
+170
+0:7:0,7 --> 0:7:4,867
+us incredibly excited
+by the potential.
+
+
+171
+0:7:4,867 --> 0:7:8,367
+I think that this is, all
+of us here, are present at
+
+
+172
+0:7:8,367 --> 0:7:10,2
+the creation of
+something great.
+
+
+173
+0:7:10,2 --> 0:7:12,133
+We're starting with
+-- is it 18 or 19?
+
+
+174
+0:7:12,133 --> 0:7:12,834
+Steven Van Roekel:
+Eighteen.
+
+
+175
+0:7:12,834 --> 0:7:14,7
+Jeff Zients
+-- eighteen, I think we will
+
+
+176
+0:7:14,7 --> 0:7:17,266
+compound in a big way and
+look back and say remember
+
+
+177
+0:7:17,266 --> 0:7:19,567
+when we were only 18?
+
+
+178
+0:7:19,567 --> 0:7:21,5
+Because this idea of
+bringing the best of the
+
+
+179
+0:7:21,5 --> 0:7:24,433
+private sector to the
+federal government and
+
+
+180
+0:7:24,433 --> 0:7:26,467
+pairing our great
+resources here in the
+
+
+181
+0:7:26,467 --> 0:7:27,867
+federal government with
+the private sector is
+
+
+182
+0:7:27,867 --> 0:7:29,8
+something that we need to
+be doing more and more of.
+
+
+183
+0:7:29,8 --> 0:7:31,967
+So thank you all
+for being pioneers.
+
+
+184
+0:7:31,967 --> 0:7:35,33
+I am incredibly excited
+by the early work.
+
+
+185
+0:7:35,33 --> 0:7:37,7
+And look forward to a
+great future of technology
+
+
+186
+0:7:37,7 --> 0:7:39,166
+and innovation in the
+federal government.
+
+
+187
+0:7:39,166 --> 0:7:39,9
+Thank you.
+
+
+188
+0:7:39,9 --> 0:7:51,7
+[applause]
+
+
+189
+0:7:51,7 --> 0:7:54,734
+John Berry:
+Well, congratulations
+to our fellows.
+
+
+190
+0:7:54,734 --> 0:7:56,767
+I'm John Berry, the
+Director of the Office of
+
+
+191
+0:7:56,767 --> 0:8:2,66
+Personnel Management,
+the people side of the equation.
+
+
+192
+0:8:2,66 --> 0:8:5,467
+And as everybody knows,
+innovation starts with
+
+
+193
+0:8:5,467 --> 0:8:7,433
+an idea somewhere.
+
+
+194
+0:8:7,433 --> 0:8:11,2
+A lightbulb that happened
+over somebody's head,
+
+
+195
+0:8:11,2 --> 0:8:15,767
+came out of a discussion, was
+provoked by an observation
+
+
+196
+0:8:15,767 --> 0:8:19,567
+or inspired by a thought.
+
+
+197
+0:8:19,567 --> 0:8:24,33
+And innovation is only
+worthwhile, I would argue,
+
+
+198
+0:8:24,33 --> 0:8:28,133
+if it benefits somebody
+because it makes
+
+
+199
+0:8:28,133 --> 0:8:30,3
+people's lives better.
+
+
+200
+0:8:30,3 --> 0:8:33,133
+Because it makes
+their lives easier.
+
+
+201
+0:8:33,133 --> 0:8:36,9
+Or maybe it makes
+their lives longer.
+
+
+202
+0:8:36,9 --> 0:8:40,767
+And we can't forget that
+from end to end, there is
+
+
+203
+0:8:40,767 --> 0:8:45,166
+always a human
+element in innovation.
+
+
+204
+0:8:45,166 --> 0:8:48,9
+Now, we've tried to focus
+on human-centered design
+
+
+205
+0:8:48,9 --> 0:8:52,0
+in our approaches at OPM.
+
+
+206
+0:8:52,0 --> 0:8:55,867
+We've launched our innovation lab around that concept.
+
+
+207
+0:8:55,867 --> 0:8:58,9
+And we are participating fully in collaborative
+
+
+208
+0:8:58,9 --> 0:9:1,233
+initiatives like this one.
+
+
+209
+0:9:1,233 --> 0:9:3,7
+And so that's why I wanted
+to focus on the human
+
+
+210
+0:9:3,7 --> 0:9:7,166
+collaboration side of
+innovation and the
+
+
+211
+0:9:7,166 --> 0:9:9,533
+reasoning behind the
+Presidential Innovative
+
+
+212
+0:9:9,533 --> 0:9:13,867
+Fellows, Bill Joy,
+a Co-founder of
+
+
+213
+0:9:13,867 --> 0:9:19,467
+Sun Microsystems, pointed out
+what is now known as Joy's Law.
+
+
+214
+0:9:19,467 --> 0:9:22,7
+No matter who you are,
+most of the smartest
+
+
+215
+0:9:22,7 --> 0:9:26,767
+people work for
+somebody else.
+
+
+216
+0:9:26,767 --> 0:9:29,8
+Now, while we have great
+teams in the government
+
+
+217
+0:9:29,8 --> 0:9:34,166
+already, and that was
+proven once again last
+
+
+218
+0:9:34,166 --> 0:9:36,867
+week with the landing, the
+successful landing of the
+
+
+219
+0:9:36,867 --> 0:9:42,667
+Mars Rover, which was a
+phenomenal success, there
+
+
+220
+0:9:42,667 --> 0:9:47,66
+are also a lot of really
+smart, talented folks in
+
+
+221
+0:9:47,66 --> 0:9:50,567
+the private sector, in
+academia, and in
+
+
+222
+0:9:50,567 --> 0:9:52,934
+the nonprofit world.
+
+
+223
+0:9:52,934 --> 0:9:55,767
+And what if we were to
+team some of these best
+
+
+224
+0:9:55,767 --> 0:9:59,1
+innovators outside of
+government with some of
+
+
+225
+0:9:59,1 --> 0:10:2,5
+our brightest innovators
+inside of government,
+
+
+226
+0:10:2,5 --> 0:10:5,633
+just imagine what we
+might accomplish!
+
+
+227
+0:10:5,633 --> 0:10:8,5
+And that's where this
+program came in.
+
+
+228
+0:10:8,5 --> 0:10:11,5
+We laid out five
+challenges.
+
+
+229
+0:10:11,5 --> 0:10:16,0
+And we said, okay, who
+wants to tackle these?
+
+
+230
+0:10:16,0 --> 0:10:20,133
+And as you've heard, the
+response was amazing.
+
+
+231
+0:10:20,133 --> 0:10:23,633
+For the 18 fellowship
+spots, we received over
+
+
+232
+0:10:23,633 --> 0:10:27,8
+700 applications
+representing tremendously
+
+
+233
+0:10:27,8 --> 0:10:31,0
+diverse backgrounds
+and incredible talent.
+
+
+234
+0:10:31,0 --> 0:10:33,7
+Applicants willing to drop
+everything, move here to
+
+
+235
+0:10:33,7 --> 0:10:37,567
+D.C., and serve
+their country.
+
+
+236
+0:10:37,567 --> 0:10:40,467
+And from that pool of
+talent, we have assembled
+
+
+237
+0:10:40,467 --> 0:10:45,266
+the truly impressive teams that you're going to see here today.
+
+
+238
+0:10:45,266 --> 0:10:47,8
+You're going to see
+what I mean in a moment.
+
+
+239
+0:10:47,8 --> 0:10:50,166
+People from nuclear
+engineering, start-up
+
+
+240
+0:10:50,166 --> 0:10:53,533
+businesses, and best
+selling books, these
+
+
+241
+0:10:53,533 --> 0:10:56,433
+fellows are brimming
+with talent,
+
+
+242
+0:10:56,433 --> 0:10:59,8
+accomplishment and courage.
+
+
+243
+0:10:59,8 --> 0:11:3,734
+But before we introduce
+our new teams, let me just
+
+
+244
+0:11:3,734 --> 0:11:7,867
+reach back for a quick
+moment 200 years to a
+
+
+245
+0:11:7,867 --> 0:11:12,8
+British admiral, Horatio
+Nelson, now famous for his
+
+
+246
+0:11:12,8 --> 0:11:16,0
+very brilliant
+Naval victories.
+
+
+247
+0:11:16,0 --> 0:11:20,934
+He won battle after
+battle, often outgunned
+
+
+248
+0:11:20,934 --> 0:11:25,1
+and outnumbered, and he
+did it because unlike many
+
+
+249
+0:11:25,1 --> 0:11:30,533
+admirals before or since,
+he didn't depend on direct
+
+
+250
+0:11:30,533 --> 0:11:33,667
+command over every ship.
+
+
+251
+0:11:33,667 --> 0:11:37,1
+And he didn't stick to
+textbook tactics that
+
+
+252
+0:11:37,1 --> 0:11:41,3
+everyone had used
+for years and years.
+
+
+253
+0:11:41,3 --> 0:11:44,467
+Instead, Nelson discussed
+strategy with his captains
+
+
+254
+0:11:44,467 --> 0:11:49,8
+well in advance and set
+for them broad goals that
+
+
+255
+0:11:49,8 --> 0:11:52,9
+he expected them to
+achieve in whatever battle
+
+
+256
+0:11:52,9 --> 0:11:55,633
+they would find
+themselves.
+
+
+257
+0:11:55,633 --> 0:11:59,9
+His approach meant that
+when his fleet engaged
+
+
+258
+0:11:59,9 --> 0:12:2,2
+another, his captains knew
+immediately how to work
+
+
+259
+0:12:2,2 --> 0:12:6,2
+together, react quickly,
+and to work towards those
+
+
+260
+0:12:6,2 --> 0:12:10,3
+overall goals that Nelson
+had set without waiting
+
+
+261
+0:12:10,3 --> 0:12:12,333
+for specific orders.
+
+
+262
+0:12:12,333 --> 0:12:16,66
+It meant more brains and
+more creativity were
+
+
+263
+0:12:16,66 --> 0:12:20,9
+unleashed on Nelson's side
+than on his adversaries'.
+
+
+264
+0:12:20,9 --> 0:12:25,3
+Now, we're asking
+you the same thing.
+
+
+265
+0:12:25,3 --> 0:12:28,533
+We have set out these five
+broad goals and we're
+
+
+266
+0:12:28,533 --> 0:12:31,667
+counting on your smarts
+and your creativity in
+
+
+267
+0:12:31,667 --> 0:12:35,133
+figuring out ways how to
+reach these goals better
+
+
+268
+0:12:35,133 --> 0:12:37,333
+and more efficiently.
+
+
+269
+0:12:37,333 --> 0:12:40,567
+New ways for our
+government to operate
+
+
+270
+0:12:40,567 --> 0:12:46,4
+using ideas that right now most of us can't even imagine.
+
+
+271
+0:12:46,4 --> 0:12:51,467
+We're counting on you to
+think boldly, fail early,
+
+
+272
+0:12:51,467 --> 0:12:58,934
+learn quickly, and above
+all, dare to do great things!
+
+
+273
+0:12:58,934 --> 0:13:1,8
+Do good things!
+
+
+274
+0:13:1,8 --> 0:13:5,33
+And now it's time to hear
+about each of our great
+
+
+275
+0:13:5,33 --> 0:13:8,5
+projects today and meet
+the teams that are going
+
+
+276
+0:13:8,5 --> 0:13:10,467
+to be powering them.
+
+
+277
+0:13:10,467 --> 0:13:12,834
+To kick things off, would
+you please welcome
+
+
+278
+0:13:12,834 --> 0:13:16,66
+Peter Levin, the Chief
+Technology Officer of the
+
+
+279
+0:13:16,66 --> 0:13:18,66
+Department of Veterans
+Affairs
+
+
+280
+0:13:18,66 --> 0:13:22,333
+and Farzad Mostashari, the National Coordinator for Health
+
+
+281
+0:13:22,333 --> 0:13:24,467
+Information and Technology
+at the Department of
+
+
+282
+0:13:24,467 --> 0:13:26,0
+Health and Human Services.
+
+
+283
+0:13:26,0 --> 0:13:26,867
+Take it away, guys!
+
+
+284
+0:13:26,867 --> 0:13:35,9
+[applause]
+
+
+285
+0:13:35,9 --> 0:13:37,367
+Peter Levin:
+Well, hello and good morning, everybody.
+
+
+286
+0:13:37,367 --> 0:13:39,9
+Audience Members:
+Good morning.
+
+
+287
+0:13:39,9 --> 0:13:41,8
+Peter Levin:
+We are so happy to
+be here and to
+
+
+288
+0:13:41,8 --> 0:13:44,2
+kick off this discussion
+of the Presidential
+
+
+289
+0:13:44,2 --> 0:13:48,266
+Innovation Fellows with a
+conversation about Blue Button.
+
+
+290
+0:13:48,266 --> 0:13:49,567
+Some of you might have
+already heard about Blue
+
+
+291
+0:13:49,567 --> 0:13:51,567
+Button but in the next
+couple of minutes, ten or so,
+
+
+292
+0:13:51,567 --> 0:13:54,667
+we're going to explain
+to you why we've done this
+
+
+293
+0:13:54,667 --> 0:13:55,8
+and what's coming next.
+
+
+294
+0:13:55,8 --> 0:13:58,734
+It's so exciting I can
+hardly talk ...
+
+
+295
+0:13:58,734 --> 0:14:1,433
+but I'm going to try.
+
+
+296
+0:14:1,433 --> 0:14:6,533
+If you have a parent, if
+you are a parent, you
+
+
+297
+0:14:6,533 --> 0:14:9,9
+might have a partner that
+you care about or a pulse
+
+
+298
+0:14:9,9 --> 0:14:12,834
+you want to keep going for
+a long time, then you know
+
+
+299
+0:14:12,834 --> 0:14:17,767
+what a pain it is to get
+your medical records.
+
+
+300
+0:14:17,767 --> 0:14:20,667
+So imagine this situation
+just as a "for instance."
+
+
+301
+0:14:20,667 --> 0:14:23,33
+You have an elderly
+parent, an elderly mom,
+
+
+302
+0:14:23,33 --> 0:14:25,1
+and she is living in
+Washington, D.C. a couple
+
+
+303
+0:14:25,1 --> 0:14:29,133
+months ago, she is
+relatively healthy but she
+
+
+304
+0:14:29,133 --> 0:14:30,9
+has got to take a few meds
+every day, she has got to
+
+
+305
+0:14:30,9 --> 0:14:33,7
+remember to do this every
+day, and all of a sudden a
+
+
+306
+0:14:33,7 --> 0:14:36,266
+ferocious storm comes
+along and knocks out the
+
+
+307
+0:14:36,266 --> 0:14:38,734
+power to her house.
+
+
+308
+0:14:38,734 --> 0:14:42,0
+Now, it ends up that
+that's not really the crisis.
+
+
+309
+0:14:42,0 --> 0:14:44,967
+The crisis occurs a couple
+minutes later when she
+
+
+310
+0:14:44,967 --> 0:14:49,433
+falls down and she has to
+go to the emergency room.
+
+
+311
+0:14:49,433 --> 0:14:51,834
+And she can't
+remember her meds.
+
+
+312
+0:14:51,834 --> 0:14:53,367
+She is not going to
+remember the name.
+
+
+313
+0:14:53,367 --> 0:14:54,934
+She is not going to
+remember the dosage.
+
+
+314
+0:14:54,934 --> 0:14:56,867
+She is not going to
+remember the frequency,
+
+
+315
+0:14:56,867 --> 0:14:58,5
+how often she
+has to take it.
+
+
+316
+0:14:58,5 --> 0:14:59,533
+And you know something?
+
+
+317
+0:14:59,533 --> 0:15:2,467
+You're not going to
+remember it either.
+
+
+318
+0:15:2,467 --> 0:15:4,4
+Let me give you another
+"for instance."
+
+
+319
+0:15:4,4 --> 0:15:6,767
+What if you're a doc,
+imagine you're a doctor
+
+
+320
+0:15:6,767 --> 0:15:9,967
+and a patient comes in to
+see you and the guy seems
+
+
+321
+0:15:9,967 --> 0:15:12,9
+okay, he seems smart,
+he seems lucid.
+
+
+322
+0:15:12,9 --> 0:15:15,33
+He's got a problem, that's
+why he's there, and you're
+
+
+323
+0:15:15,33 --> 0:15:17,5
+going through the medical
+history and he remembers
+
+
+324
+0:15:17,5 --> 0:15:19,0
+everything, he has got
+most of it written down,
+
+
+325
+0:15:19,0 --> 0:15:20,867
+but not all of it, but
+okay, it's time for the
+
+
+326
+0:15:20,867 --> 0:15:23,3
+physical exam, the guy
+takes off his shirt and
+
+
+327
+0:15:23,3 --> 0:15:25,967
+there's a big scar
+right down the middle.
+
+
+328
+0:15:25,967 --> 0:15:27,767
+The guy says, Wow!
+What's that?
+
+
+329
+0:15:27,767 --> 0:15:29,533
+He says, oh, my God, I
+forgot to tell you, I had
+
+
+330
+0:15:29,533 --> 0:15:31,767
+open heart surgery a
+couple of years ago . . .
+
+
+331
+0:15:31,767 --> 0:15:35,7
+you know, something like that would be good to know! Right?
+
+
+332
+0:15:35,7 --> 0:15:43,967
+So now we have these
+problems, so now we have
+
+
+333
+0:15:43,967 --> 0:15:45,834
+these problems
+of complexity.
+
+
+334
+0:15:45,834 --> 0:15:49,333
+So if you're a doctor, you
+have got to keep all of
+
+
+335
+0:15:49,333 --> 0:15:51,0
+this stuff in your head,
+you're dealing with
+
+
+336
+0:15:51,0 --> 0:15:53,367
+hundreds or thousands
+of patients.
+
+
+337
+0:15:53,367 --> 0:15:57,4
+If you're a patient, you
+may have dozens of doctors
+
+
+338
+0:15:57,4 --> 0:15:59,834
+and they all need
+the same information.
+
+
+339
+0:15:59,834 --> 0:16:1,4
+And you know something?
+
+
+340
+0:16:1,4 --> 0:16:4,967
+The combination of that
+complexity, thousands of
+
+
+341
+0:16:4,967 --> 0:16:7,767
+diagnoses, thousands of
+conditions, thousands of
+
+
+342
+0:16:7,767 --> 0:16:12,767
+medications, dozens of
+doctors, combine that with
+
+
+343
+0:16:12,767 --> 0:16:17,333
+paper and people, this
+is a losing combination, folks.
+
+
+344
+0:16:17,333 --> 0:16:21,233
+This is not where
+you want to be.
+
+
+345
+0:16:21,233 --> 0:16:23,266
+But I have good news.
+
+
+346
+0:16:23,266 --> 0:16:26,667
+The days of having to
+remember everything or
+
+
+347
+0:16:26,667 --> 0:16:29,867
+remember where you put
+everything, are numbered.
+
+
+348
+0:16:29,867 --> 0:16:32,9
+The days of having to
+schlep around a suitcase --
+
+
+349
+0:16:32,9 --> 0:16:35,767
+I've seen pictures of
+this-- schlep around a suitcase
+
+
+350
+0:16:35,767 --> 0:16:38,266
+full of the
+medicines you have taken,
+
+
+351
+0:16:38,266 --> 0:16:41,433
+your surgical history, the
+immunizations you and your
+
+
+352
+0:16:41,433 --> 0:16:45,3
+kids have had, the films
+of your radiological
+
+
+353
+0:16:45,3 --> 0:16:50,367
+studies, all that stuff
+is about to move from
+
+
+354
+0:16:50,367 --> 0:16:53,166
+physical atoms to
+electrons as we're going
+
+
+355
+0:16:53,166 --> 0:16:55,5
+to put it in the cloud.
+
+
+356
+0:16:55,5 --> 0:16:56,867
+Those days are numbered.
+
+
+357
+0:16:56,867 --> 0:17:1,567
+In 2010, two years ago
+this month, President
+
+
+358
+0:17:1,567 --> 0:17:4,33
+Obama announced that the
+Department of Veterans
+
+
+359
+0:17:4,33 --> 0:17:8,1
+Affairs, where I work, is
+going to make the personal
+
+
+360
+0:17:8,1 --> 0:17:12,66
+health record of veterans
+available online with
+
+
+361
+0:17:12,66 --> 0:17:15,467
+something called
+Blue Button.
+
+
+362
+0:17:15,467 --> 0:17:18,567
+Blue Button was and is
+still today an
+
+
+363
+0:17:18,567 --> 0:17:20,7
+incredibly simple idea.
+
+
+364
+0:17:20,7 --> 0:17:24,233
+It basically just puts
+electronic information in
+
+
+365
+0:17:24,233 --> 0:17:29,934
+the hands of veterans
+safely, reliably,
+
+
+366
+0:17:29,934 --> 0:17:35,467
+conveniently, stuff that
+we all would want for ourselves.
+
+
+367
+0:17:35,467 --> 0:17:38,633
+So in the words of
+President Obama, with the
+
+
+368
+0:17:38,633 --> 0:17:42,2
+push of a button, your
+records are downloaded,
+
+
+369
+0:17:42,2 --> 0:17:44,1
+and you can share them
+with your doctor or with
+
+
+370
+0:17:44,1 --> 0:17:46,467
+other people you trust.
+
+
+371
+0:17:46,467 --> 0:17:50,166
+All we did really was put
+the name where the name
+
+
+372
+0:17:50,166 --> 0:17:51,2
+is supposed to go.
+
+
+373
+0:17:51,2 --> 0:17:53,7
+Medications and a
+list of medications.
+
+
+374
+0:17:53,7 --> 0:17:56,3
+Penicillin, even if it
+wasn't spelled right, goes
+
+
+375
+0:17:56,3 --> 0:17:58,467
+in the medications part.
+
+
+376
+0:17:58,467 --> 0:17:59,233
+And sore throat?
+
+
+377
+0:17:59,233 --> 0:18:0,433
+Well, that's a problem.
+
+
+378
+0:18:0,433 --> 0:18:1,934
+That's maybe why you are
+in the doctor's office
+
+
+379
+0:18:1,934 --> 0:18:4,133
+today, we just
+listed that as well.
+
+
+380
+0:18:4,133 --> 0:18:7,133
+The trick -- this is not
+a hard technical problem, right?
+
+
+381
+0:18:7,133 --> 0:18:9,7
+The trick really is to
+break through the red
+
+
+382
+0:18:9,7 --> 0:18:13,7
+tape, the can'ts and the
+don'ts and I don't wannas
+
+
+383
+0:18:13,7 --> 0:18:16,4
+and what about this and
+all about that, right?
+
+
+384
+0:18:16,4 --> 0:18:19,433
+Was to make people
+aware that it wasn't a
+
+
+385
+0:18:19,433 --> 0:18:22,0
+technology problem and
+that the clinical, the
+
+
+386
+0:18:22,0 --> 0:18:25,667
+operational, the patient
+impact was immeasurable.
+
+
+387
+0:18:25,667 --> 0:18:27,33
+And we did.
+
+
+388
+0:18:27,33 --> 0:18:29,367
+So you might say, well,
+jeez, I mean, all you've
+
+
+389
+0:18:29,367 --> 0:18:32,567
+done is give some silly
+ASCII files, the kind of
+
+
+390
+0:18:32,567 --> 0:18:35,133
+files that any person can
+read on a screen or on a
+
+
+391
+0:18:35,133 --> 0:18:38,467
+mobile device, all you've
+done is give that to
+
+
+392
+0:18:38,467 --> 0:18:41,633
+people and put it, oh, my
+God, you put it in the
+
+
+393
+0:18:41,633 --> 0:18:45,5
+hands of patients? Really?
+
+
+394
+0:18:45,5 --> 0:18:47,767
+And yet that's
+exactly what we did.
+
+
+395
+0:18:47,767 --> 0:18:50,166
+We took that file and we
+said it's available to you.
+
+
+396
+0:18:50,166 --> 0:18:54,834
+And we've done it
+now 1 million times!
+
+
+397
+0:18:54,834 --> 0:19:2,6
+[applause]
+
+
+398
+0:19:2,6 --> 0:19:4,2
+So just a few
+days after President
+
+
+399
+0:19:4,2 --> 0:19:8,166
+Obama's announcement, not
+only did the VA make their
+
+
+400
+0:19:8,166 --> 0:19:12,934
+Blue Button available, so
+did CMS, so did DOD, and
+
+
+401
+0:19:12,934 --> 0:19:16,0
+shortly thereafter, a lot
+of our private sector
+
+
+402
+0:19:16,0 --> 0:19:18,3
+partners are now making
+their Blue Buttons
+
+
+403
+0:19:18,3 --> 0:19:22,33
+available, too.
+
+
+404
+0:19:22,33 --> 0:19:25,233
+Now today fast forward two
+years later, thanks to
+
+
+405
+0:19:25,233 --> 0:19:27,467
+Director Berry's
+leadership, all of the
+
+
+406
+0:19:27,467 --> 0:19:30,233
+carriers of federal health
+insurance, all the people
+
+
+407
+0:19:30,233 --> 0:19:32,367
+that insure all the folks
+that work for the federal
+
+
+408
+0:19:32,367 --> 0:19:35,867
+government, they're going
+to make a Blue Button available.
+
+
+409
+0:19:35,867 --> 0:19:38,233
+Thank you, very much!
+
+
+410
+0:19:38,233 --> 0:19:41,2
+Large software companies
+of your acquittance have
+
+
+411
+0:19:41,2 --> 0:19:45,66
+readers, large insurers
+that you probably know or
+
+
+412
+0:19:45,66 --> 0:19:47,967
+even belong to are going
+to say -- are going to
+
+
+413
+0:19:47,967 --> 0:19:50,433
+open up the floodgates
+on that data.
+
+
+414
+0:19:50,433 --> 0:19:54,734
+Last month 80,000 people
+just at the VA alone
+
+
+415
+0:19:54,734 --> 0:19:56,834
+downloaded their
+personal health records.
+
+
+416
+0:19:56,834 --> 0:19:59,867
+That number is going
+up and to the right.
+
+
+417
+0:19:59,867 --> 0:20:2,166
+And as I said, in less
+than two years a million
+
+
+418
+0:20:2,166 --> 0:20:4,9
+people have already
+used the Blue Button
+
+
+419
+0:20:4,9 --> 0:20:7,233
+successfully and happily.
+
+
+420
+0:20:7,233 --> 0:20:11,233
+Now, if you're Todd Park,
+you say, a million people?
+
+
+421
+0:20:11,233 --> 0:20:12,734
+That's amazing!
+
+
+422
+0:20:12,734 --> 0:20:13,8
+We should have some
+Presidential innovation
+
+
+423
+0:20:13,8 --> 0:20:15,967
+fellows to help
+to make it bigger.
+
+
+424
+0:20:15,967 --> 0:20:19,133
+And if you are Dr. Farzad
+Mostashari, you say,
+
+
+425
+0:20:19,133 --> 0:20:21,1
+eh, it's good.
+
+
+426
+0:20:21,1 --> 0:20:22,367
+It's a nice start.
+
+
+427
+0:20:22,367 --> 0:20:23,567
+Farzad Mostashari:
+It's a good start, Peter.
+
+
+428
+0:20:23,567 --> 0:20:26,367
+It's a good start.
+
+
+429
+0:20:26,367 --> 0:20:27,2
+Peter Levin:
+Farzad?
+
+
+430
+0:20:27,2 --> 0:20:27,9
+Farzad Mostashari:
+Thank you.
+
+
+431
+0:20:27,9 --> 0:20:30,633
+Peter Levin:
+What are
+we going to do next?
+
+
+432
+0:20:30,633 --> 0:20:35,433
+Farzad Mostashari:
+So now what?
+
+
+433
+0:20:35,433 --> 0:20:41,734
+The VA brilliantly moved
+simply to be able to make
+
+
+434
+0:20:41,734 --> 0:20:45,233
+this information available
+to veterans and as we
+
+
+435
+0:20:45,233 --> 0:20:49,266
+heard, a million veterans
+have downloaded their information.
+
+
+436
+0:20:49,266 --> 0:20:53,4
+And where the VA led,
+others have now followed.
+
+
+437
+0:20:53,4 --> 0:20:56,33
+So how do we take this
+to the next level?
+
+
+438
+0:20:56,33 --> 0:20:59,66
+We have an MVP, right?
+
+
+439
+0:20:59,66 --> 0:21:0,834
+And for you startup
+folks out there,
+
+
+440
+0:21:0,834 --> 0:21:4,33
+this minimally viable product.
+
+
+441
+0:21:4,33 --> 0:21:8,166
+But it's not
+really a product.
+
+
+442
+0:21:8,166 --> 0:21:14,2
+We're not trying to get 10
+million of some thing sold
+
+
+443
+0:21:14,2 --> 0:21:17,166
+or a hundred million.
+
+
+444
+0:21:17,166 --> 0:21:18,667
+It's an idea.
+
+
+445
+0:21:18,667 --> 0:21:23,2
+It's an attitude that
+says it's okay to get
+
+
+446
+0:21:23,2 --> 0:21:27,166
+your own record.
+
+
+447
+0:21:27,166 --> 0:21:31,233
+It's an attitude among
+providers of openness.
+
+
+448
+0:21:31,233 --> 0:21:34,5
+Openness means letting
+other people help.
+
+
+449
+0:21:34,5 --> 0:21:36,433
+When you are talking about
+open government, when
+
+
+450
+0:21:36,433 --> 0:21:38,667
+we're talking about open
+data, when we're talking
+
+
+451
+0:21:38,667 --> 0:21:43,934
+about opening, that means
+letting others help.
+
+
+452
+0:21:43,934 --> 0:21:48,633
+And in this case, who
+are we letting help?
+
+
+453
+0:21:48,633 --> 0:21:49,533
+The patient.
+
+
+454
+0:21:49,533 --> 0:21:54,7
+We're letting the patient and the people who love them help.
+
+
+455
+0:21:54,7 --> 0:21:58,767
+So it's an attitude,
+and it's an action.
+
+
+456
+0:21:58,767 --> 0:22:3,3
+Let's turn Blue Button
+from a noun to a verb.
+
+
+457
+0:22:3,3 --> 0:22:5,433
+So I can say, you know, I
+was talking to my mom last
+
+
+458
+0:22:5,433 --> 0:22:7,266
+night, I'm kind of worried
+about her, yeah, she's
+
+
+459
+0:22:7,266 --> 0:22:9,33
+going to Blue Button those
+scans, and we're going to
+
+
+460
+0:22:9,33 --> 0:22:10,867
+send them to my uncle.
+
+
+461
+0:22:10,867 --> 0:22:12,1
+That's what we want to do.
+
+
+462
+0:22:12,1 --> 0:22:14,233
+We want to make
+it an action.
+
+
+463
+0:22:14,233 --> 0:22:17,633
+To do that, we're going to
+need help to take this to
+
+
+464
+0:22:17,633 --> 0:22:23,367
+the next level up on three
+fronts, that's why
+
+
+465
+0:22:23,367 --> 0:22:24,2
+we got three fellows.
+
+
+466
+0:22:24,2 --> 0:22:25,967
+[laughter]
+
+
+467
+0:22:25,967 --> 0:22:27,667
+Each of you guys have
+got to solve one
+
+
+468
+0:22:27,667 --> 0:22:29,834
+of these problems, right?
+
+
+469
+0:22:29,834 --> 0:22:33,367
+The first is people, we've got to change those attitudes.
+
+
+470
+0:22:33,367 --> 0:22:35,934
+You've got to know that
+you can get it and
+
+
+471
+0:22:35,934 --> 0:22:39,6
+increasingly today,
+right now, you can't.
+
+
+472
+0:22:39,6 --> 0:22:45,0
+If I go all over America
+and I say to one of you
+
+
+473
+0:22:45,0 --> 0:22:46,2
+ask your doctor.
+
+
+474
+0:22:46,2 --> 0:22:49,533
+In fact, ask your doctor!
+
+
+475
+0:22:49,533 --> 0:22:53,166
+Do that.
+Say what's in my record?
+
+
+476
+0:22:53,166 --> 0:22:54,767
+Believe me. Trust me.
+
+
+477
+0:22:54,767 --> 0:22:56,667
+Trust Leon Rodriguez, the
+head of the Office of
+
+
+478
+0:22:56,667 --> 0:23:1,6
+Civil Rights, it's
+not against HIPAA.
+
+
+479
+0:23:1,6 --> 0:23:3,433
+It's not against HIPAA to
+ask for your own records.
+
+
+480
+0:23:3,433 --> 0:23:4,433
+It actually is your right.
+
+
+481
+0:23:4,433 --> 0:23:6,133
+But we need to
+stimulate that demand.
+
+
+482
+0:23:6,133 --> 0:23:8,5
+We need to have more
+people asking, saying can
+
+
+483
+0:23:8,5 --> 0:23:11,734
+I get a copy of
+my own records?
+
+
+484
+0:23:11,734 --> 0:23:13,133
+If you're on Medicare
+now you can get a
+
+
+485
+0:23:13,133 --> 0:23:14,5
+copy of your records.
+
+
+486
+0:23:14,5 --> 0:23:16,567
+If you're a veteran now you can get a copy of your records.
+
+
+487
+0:23:16,567 --> 0:23:20,66
+Increasingly we're going
+to work with those who
+
+
+488
+0:23:20,66 --> 0:23:23,4
+hold the data to change those attitudes and make it available.
+
+
+489
+0:23:23,4 --> 0:23:26,834
+Stimulate the demand, the
+attitudes on the one hand
+
+
+490
+0:23:26,834 --> 0:23:29,266
+and the access on
+the other hand.
+
+
+491
+0:23:29,266 --> 0:23:31,3
+And this is the most fun
+part, well, it's the
+
+
+492
+0:23:31,3 --> 0:23:34,133
+fellow I'm going to be
+working with, the most fun
+
+
+493
+0:23:34,133 --> 0:23:37,66
+is going to be not just
+having it be data that,
+
+
+494
+0:23:37,66 --> 0:23:39,3
+yes, you can print and you
+can read and you can have,
+
+
+495
+0:23:39,3 --> 0:23:43,266
+and you can share, but
+things you can do with it now.
+
+
+496
+0:23:43,266 --> 0:23:47,33
+To have that data, that
+information and the
+
+
+497
+0:23:47,33 --> 0:23:50,367
+incentives turn into
+combustible magic
+
+
+498
+0:23:50,367 --> 0:23:52,934
+in the startup crucible.
+
+
+499
+0:23:52,934 --> 0:23:56,433
+To have people help you
+use your data to do things
+
+
+500
+0:23:56,433 --> 0:23:58,233
+you want to do.
+
+
+501
+0:23:58,233 --> 0:23:59,2
+I want to manage
+my health.
+
+
+502
+0:23:59,2 --> 0:24:0,567
+I want to connect
+to other people.
+
+
+503
+0:24:0,567 --> 0:24:2,33
+I want to manage my
+health care finances.
+
+
+504
+0:24:2,33 --> 0:24:3,133
+I want to get a
+second opinion.
+
+
+505
+0:24:3,133 --> 0:24:5,7
+I want to find a
+clinical trial.
+
+
+506
+0:24:5,7 --> 0:24:7,333
+I want to be able
+to do things.
+
+
+507
+0:24:7,333 --> 0:24:9,8
+And for that we need to
+not just liberate the data
+
+
+508
+0:24:9,8 --> 0:24:12,4
+but we need to make it so
+that those entrepreneurs
+
+
+509
+0:24:12,4 --> 0:24:15,367
+can come in an openness
+to that innovation.
+
+
+510
+0:24:15,367 --> 0:24:18,967
+And that's what
+we're going to do.
+
+
+511
+0:24:18,967 --> 0:24:20,4
+So that's our goal.
+
+
+512
+0:24:20,4 --> 0:24:24,7
+Is to take the million,
+and call it a good start,
+
+
+513
+0:24:24,7 --> 0:24:27,9
+and say how do we take it
+to 10 million by next year
+
+
+514
+0:24:27,9 --> 0:24:34,1
+and a hundred million
+two years from now.
+
+
+515
+0:24:34,1 --> 0:24:38,934
+So meet the Blue
+Button Team.
+
+
+516
+0:24:38,934 --> 0:24:45,266
+I talked to Ryan
+Panchadsaram on the phone
+
+
+517
+0:24:45,266 --> 0:24:47,3
+as we were interviewing
+these phenomenal -- hang
+
+
+518
+0:24:47,3 --> 0:24:48,867
+on, I'm going to praise
+you for a sec --
+
+
+519
+0:24:48,867 --> 0:24:56,367
+[laughter]
+
+
+520
+0:24:56,367 --> 0:24:58,9
+-- as we
+were interviewing these
+
+
+521
+0:24:58,9 --> 0:25:0,467
+amazing, and it was like
+amazing candidate after
+
+
+522
+0:25:0,467 --> 0:25:2,6
+amazing candidate, we were
+like, oh, we've got to get
+
+
+523
+0:25:2,6 --> 0:25:3,867
+that one, oh, how
+could we do better?
+
+
+524
+0:25:3,867 --> 0:25:6,834
+And then I talked to Ryan,
+and, yeah, he graduated
+
+
+525
+0:25:6,834 --> 0:25:9,633
+from UC Berkeley with
+engineering and he has
+
+
+526
+0:25:9,633 --> 0:25:12,7
+this real design
+sensibility and he worked
+
+
+527
+0:25:12,7 --> 0:25:16,867
+on, he was in charge of
+Microsoft Outlook for Mac
+
+
+528
+0:25:16,867 --> 0:25:20,633
+and getting that, all of
+you all love that, right?
+
+
+529
+0:25:20,633 --> 0:25:24,66
+-- the design sense that
+he won the 2012 Google's
+
+
+530
+0:25:24,66 --> 0:25:26,7
+International Design
+Information Design
+
+
+531
+0:25:26,7 --> 0:25:28,533
+Visualization competition.
+
+
+532
+0:25:28,533 --> 0:25:30,3
+And he's this amazing guy.
+
+
+533
+0:25:30,3 --> 0:25:35,567
+But what got me goose
+bumps was when he said
+
+
+534
+0:25:35,567 --> 0:25:39,667
+when I was 18, I talked to
+my parents -- and we go
+
+
+535
+0:25:39,667 --> 0:25:41,4
+back and we started with
+veterans, we go back to
+
+
+536
+0:25:41,4 --> 0:25:46,233
+veterans -- and he said,
+my mom is a marine, my dad
+
+
+537
+0:25:46,233 --> 0:25:49,133
+was in the Air Force and
+served in the Navy, and I
+
+
+538
+0:25:49,133 --> 0:25:53,333
+always thought that I
+would join the military,
+
+
+539
+0:25:53,333 --> 0:25:57,2
+that I would be in the
+armed forces and the service.
+
+
+540
+0:25:57,2 --> 0:26:2,567
+And my parents said to me,
+son, we did this so you
+
+
+541
+0:26:2,567 --> 0:26:7,66
+could serve your
+country a different way.
+
+
+542
+0:26:7,66 --> 0:26:9,333
+And he said, when I
+saw the Presidential
+
+
+543
+0:26:9,333 --> 0:26:12,33
+Innovation Fellow
+opportunity, I knew this
+
+
+544
+0:26:12,33 --> 0:26:14,7
+was my way to serve.
+
+
+545
+0:26:14,7 --> 0:26:18,467
+Ryan, come on up. Whooo!
+
+
+546
+0:26:18,467 --> 0:26:19,867
+Congratulations.
+
+
+547
+0:26:19,867 --> 0:26:28,934
+[applause]
+
+
+548
+0:26:28,934 --> 0:26:31,33
+Peter Levin:
+So the guy who I deal with
+
+
+549
+0:26:31,33 --> 0:26:33,533
+a lot at OSTP besides the
+CTO of the United States
+
+
+550
+0:26:33,533 --> 0:26:35,467
+Todd Park, is this guy
+standing over in the
+
+
+551
+0:26:35,467 --> 0:26:39,734
+corner, John Farmer, calls me
+up some Friday afternoon.
+
+
+552
+0:26:39,734 --> 0:26:40,834
+John is very direct.
+
+
+553
+0:26:40,834 --> 0:26:42,633
+You just do what he says.
+
+
+554
+0:26:42,633 --> 0:26:43,367
+It's easier, right?
+
+
+555
+0:26:43,367 --> 0:26:45,66
+[laughter]
+
+
+556
+0:26:45,66 --> 0:26:47,433
+He says, listen, dude,
+I got bad news for you.
+
+
+557
+0:26:47,433 --> 0:26:50,66
+You've got until Monday to
+cut the pile of resumés.
+
+
+558
+0:26:50,66 --> 0:26:51,767
+And, you know, there
+were 700 all together.
+
+
+559
+0:26:51,767 --> 0:26:54,4
+I don't know how many were
+Blue Button, there was 300?
+
+
+560
+0:26:54,4 --> 0:26:56,367
+I mean, there
+was a lot, right?
+
+
+561
+0:26:56,367 --> 0:26:58,333
+And he says, you know,
+how hard can it be?
+
+
+562
+0:26:58,333 --> 0:26:59,734
+Okay, 300 resumés.
+
+
+563
+0:26:59,734 --> 0:27:1,9
+Oh, my God!
+
+
+564
+0:27:1,9 --> 0:27:5,6
+The same experience
+that Farzad has, right?
+
+
+565
+0:27:5,6 --> 0:27:12,233
+And then I run into a resumé which just bowled me over.
+
+
+566
+0:27:12,233 --> 0:27:13,266
+The guy's name
+is Matt McCall.
+
+
+567
+0:27:13,266 --> 0:27:14,4
+I know this name.
+
+
+568
+0:27:14,4 --> 0:27:15,867
+I know who that guy is!
+
+
+569
+0:27:15,867 --> 0:27:16,8
+I remember reading
+about this.
+
+
+570
+0:27:16,8 --> 0:27:18,7
+That wasn't the only one.
+
+
+571
+0:27:18,7 --> 0:27:20,834
+And you're going through
+it, and what we didn't
+
+
+572
+0:27:20,834 --> 0:27:23,66
+about too much was that a
+lot of what we're trying
+
+
+573
+0:27:23,66 --> 0:27:27,834
+to accomplish here is not
+build proprietary silos of
+
+
+574
+0:27:27,834 --> 0:27:31,333
+secret code, of secret
+sauce that only we have,
+
+
+575
+0:27:31,333 --> 0:27:32,333
+only the government has.
+
+
+576
+0:27:32,333 --> 0:27:33,433
+We're trying to make this
+as open as possible.
+
+
+577
+0:27:33,433 --> 0:27:35,533
+Literally put it into
+the public domain.
+
+
+578
+0:27:35,533 --> 0:27:36,867
+Literally make
+it open source.
+
+
+579
+0:27:36,867 --> 0:27:39,867
+Matt McCall did that
+already on the platform
+
+
+580
+0:27:39,867 --> 0:27:42,734
+that actually is the
+driver of Blue Button.
+
+
+581
+0:27:42,734 --> 0:27:44,633
+So Matt, would you
+please come up.
+
+
+582
+0:27:44,633 --> 0:27:46,533
+I'm so glad I found you.
+
+
+583
+0:27:46,533 --> 0:27:48,333
+Farzad Mostashari:
+Henry, come up, too.
+
+
+584
+0:27:48,333 --> 0:27:51,233
+Matt McCall:
+Thanks, very much.
+
+
+585
+0:27:51,233 --> 0:27:53,567
+[applause]
+
+
+586
+0:27:53,567 --> 0:27:55,5
+Peter Levin:
+Okay, so that was
+the easy one. Right?
+
+
+587
+0:27:55,5 --> 0:27:59,233
+the harder one was a guy,
+you know, finally Farmer
+
+
+588
+0:27:59,233 --> 0:28:1,66
+is, I know he's going to
+call me Monday morning, I
+
+
+589
+0:28:1,66 --> 0:28:2,166
+know this is going
+to be an unpleasant
+
+
+590
+0:28:2,166 --> 0:28:4,266
+conversation, they mostly
+are even when I have good news.
+
+
+591
+0:28:4,266 --> 0:28:8,266
+[laughter]
+
+
+592
+0:28:8,266 --> 0:28:10,633
+So I mean I've
+got like the top three, right?
+
+
+593
+0:28:10,633 --> 0:28:12,7
+And it's really hard, I've
+got this checklist, excel
+
+
+594
+0:28:12,7 --> 0:28:14,66
+spreadsheet, I'm an
+engineer, right?
+
+
+595
+0:28:14,66 --> 0:28:16,3
+So you know you
+model all this stuff.
+
+
+596
+0:28:16,3 --> 0:28:19,433
+And then I'm thinking, you
+know, what I really want,
+
+
+597
+0:28:19,433 --> 0:28:20,7
+you know, a most abstract
+thing, what I really want
+
+
+598
+0:28:20,7 --> 0:28:24,834
+is a guy who like knows
+the provider/payor world,
+
+
+599
+0:28:24,834 --> 0:28:27,633
+that, you know, has been
+to places that I've heard
+
+
+600
+0:28:27,633 --> 0:28:30,0
+of, it's like if I'm going
+to hire somebody who I
+
+
+601
+0:28:30,0 --> 0:28:30,867
+don't actually know very
+well and never heard of
+
+
+602
+0:28:30,867 --> 0:28:33,7
+before, and then I
+get this phone call.
+
+
+603
+0:28:33,7 --> 0:28:35,166
+It's like, hey,
+you know something?
+
+
+604
+0:28:35,166 --> 0:28:38,33
+You've got somebody in
+your pile of 300 resumés
+
+
+605
+0:28:38,33 --> 0:28:39,9
+that you probably want
+to talk to and the guy's
+
+
+606
+0:28:39,9 --> 0:28:41,333
+resumé was right in front
+of me as I'm getting this
+
+
+607
+0:28:41,333 --> 0:28:43,2
+phone call, it's
+like, oh, my God!
+
+
+608
+0:28:43,2 --> 0:28:45,667
+So Henry Wei -- please
+come up and join us --
+
+
+609
+0:28:45,667 --> 0:28:50,266
+[applause]
+
+
+610
+0:28:50,266 --> 0:28:53,734
+-- his last
+title at a major American
+
+
+611
+0:28:53,734 --> 0:28:58,5
+health care provider was
+Director of Clinical Innovations.
+
+
+612
+0:28:58,5 --> 0:29:1,266
+But, oh, wait there's
+more, undergraduate in the
+
+
+613
+0:29:1,266 --> 0:29:4,467
+ivy league, medical
+degree from Cornell.
+
+
+614
+0:29:4,467 --> 0:29:6,333
+And this guy knows, this
+guy has forgotten more
+
+
+615
+0:29:6,333 --> 0:29:10,367
+than all of us together
+know about health informatics.
+
+
+616
+0:29:10,367 --> 0:29:14,633
+So can you imagine the
+dream team, the people who
+
+
+617
+0:29:14,633 --> 0:29:16,3
+build the platform, the
+people who are going to
+
+
+618
+0:29:16,3 --> 0:29:18,734
+stimulate customer demand,
+and people are going to go
+
+
+619
+0:29:18,734 --> 0:29:20,834
+around to all the
+providers and say, it's
+
+
+620
+0:29:20,834 --> 0:29:23,867
+okay, you can do this.
+
+
+621
+0:29:23,867 --> 0:29:25,934
+And in fact we can
+do this together.
+
+
+622
+0:29:25,934 --> 0:29:27,834
+Thank you so much for
+being here today.
+
+
+623
+0:29:27,834 --> 0:29:29,33
+We're so excited
+about this.
+
+
+624
+0:29:29,33 --> 0:29:35,633
+[cheering and applause]
+
+
+625
+0:29:35,633 --> 0:29:39,6
+Farzad Mostashari:
+Next up we have Sean Greene
+from the Small Business
+
+
+626
+0:29:39,6 --> 0:29:49,3
+Association to kick
+off the next group.
+
+
+627
+0:29:49,3 --> 0:29:50,8
+Sean Greene:
+Everyone, thanks for coming.
+
+
+628
+0:29:50,8 --> 0:29:51,4
+I'm Sean Greene.
+
+
+629
+0:29:51,4 --> 0:29:52,734
+I run the Investment and
+Innovation Programs at the
+
+
+630
+0:29:52,734 --> 0:29:55,1
+Small Business
+Administration, SBA, and
+
+
+631
+0:29:55,1 --> 0:29:58,667
+I'm here to talk about
+Project RFP-EZ which is a
+
+
+632
+0:29:58,667 --> 0:30:2,166
+project to make it easier
+for startups to sell to
+
+
+633
+0:30:2,166 --> 0:30:5,2
+the federal government and
+to make procurement of
+
+
+634
+0:30:5,2 --> 0:30:9,233
+federal I.T. better,
+cheaper and faster.
+
+
+635
+0:30:9,233 --> 0:30:11,8
+So to put it in context,
+I think everybody in the
+
+
+636
+0:30:11,8 --> 0:30:14,667
+room and those watching
+at home know that
+
+
+637
+0:30:14,667 --> 0:30:16,767
+particularly in the world
+of the web and mobile
+
+
+638
+0:30:16,767 --> 0:30:23,567
+development, costs have come down dramatically, 5X or more.
+
+
+639
+0:30:23,567 --> 0:30:26,5
+And personally as someone
+who formerly was a web
+
+
+640
+0:30:26,5 --> 0:30:29,233
+entrepreneur and investor,
+what I've seen is a
+
+
+641
+0:30:29,233 --> 0:30:32,934
+massive disconnect between
+how technology is being
+
+
+642
+0:30:32,934 --> 0:30:35,133
+used in the private sector
+and how it is being
+
+
+643
+0:30:35,133 --> 0:30:37,33
+used in government.
+
+
+644
+0:30:37,33 --> 0:30:40,2
+And I see that manifested
+itself in the frustration
+
+
+645
+0:30:40,2 --> 0:30:43,3
+of entrepreneurs who have
+tried to sell to the
+
+
+646
+0:30:43,3 --> 0:30:45,4
+federal government and
+literally see a quote
+
+
+647
+0:30:45,4 --> 0:30:48,233
+there from an entrepreneur
+who said no matter how
+
+
+648
+0:30:48,233 --> 0:30:50,567
+fast or better, and
+cheaper my product, it's
+
+
+649
+0:30:50,567 --> 0:30:53,1
+just impossible to sell to
+the federal government.
+
+
+650
+0:30:53,1 --> 0:30:56,433
+I see frustration in
+venture capitalists who
+
+
+651
+0:30:56,433 --> 0:31:0,433
+advise their portfolio
+companies don't bother
+
+
+652
+0:31:0,433 --> 0:31:1,967
+trying to sell to
+the government.
+
+
+653
+0:31:1,967 --> 0:31:3,467
+It's too much time.
+
+
+654
+0:31:3,467 --> 0:31:4,2
+It's not worth the energy.
+
+
+655
+0:31:4,2 --> 0:31:6,266
+It's not worth
+the bandwidth.
+
+
+656
+0:31:6,266 --> 0:31:8,967
+And if investors are
+saying this, and telling
+
+
+657
+0:31:8,967 --> 0:31:11,233
+their portfolio companies
+not to bother selling to
+
+
+658
+0:31:11,233 --> 0:31:13,567
+the largest customer in
+the world, then we have
+
+
+659
+0:31:13,567 --> 0:31:15,834
+something
+fundamentally wrong.
+
+
+660
+0:31:15,834 --> 0:31:17,667
+At the same time we see
+opportunity and I will
+
+
+661
+0:31:17,667 --> 0:31:22,266
+pick on Todd as others
+have to give an example of
+
+
+662
+0:31:22,266 --> 0:31:26,133
+when Todd was CTO at
+health and human services,
+
+
+663
+0:31:26,133 --> 0:31:29,533
+a team within HHS came to
+him saying, Todd, we've
+
+
+664
+0:31:29,533 --> 0:31:30,2
+got a problem.
+
+
+665
+0:31:30,2 --> 0:31:32,8
+We've got an
+important need here.
+
+
+666
+0:31:32,8 --> 0:31:35,266
+The initial estimate on
+the technology to serve
+
+
+667
+0:31:35,266 --> 0:31:37,934
+this project
+is $5 million.
+
+
+668
+0:31:37,934 --> 0:31:40,367
+We just don't have that
+much in our budget.
+
+
+669
+0:31:40,367 --> 0:31:43,433
+And so Todd worked with
+the team, pointed them to
+
+
+670
+0:31:43,433 --> 0:31:46,333
+look at cloud-based
+solutions.
+
+
+671
+0:31:46,333 --> 0:31:50,834
+And as a result of that,
+the team was able to go
+
+
+672
+0:31:50,834 --> 0:31:53,533
+ahead, find some
+innovative companies that
+
+
+673
+0:31:53,533 --> 0:31:58,133
+could deliver the solution
+for just over $400,000,
+
+
+674
+0:31:58,133 --> 0:32:0,333
+10 X cheaper.
+
+
+675
+0:32:0,333 --> 0:32:2,467
+And so the opportunity and
+the challenge in front of
+
+
+676
+0:32:2,467 --> 0:32:4,3
+us is how do we
+replicate that.
+
+
+677
+0:32:4,3 --> 0:32:7,266
+How do we make that
+happen more often.
+
+
+678
+0:32:7,266 --> 0:32:8,533
+And why should we care?
+
+
+679
+0:32:8,533 --> 0:32:11,0
+Because there is a
+tremendous opportunity for
+
+
+680
+0:32:11,0 --> 0:32:12,567
+a win/win here.
+
+
+681
+0:32:12,567 --> 0:32:16,967
+For the federal government
+the win is an opportunity
+
+
+682
+0:32:16,967 --> 0:32:21,8
+to save taxpayer dollars or get far more bang for the buck.
+
+
+683
+0:32:21,8 --> 0:32:22,7
+And with federal I.T.
+
+
+684
+0:32:22,7 --> 0:32:26,233
+procurement we're talking
+about $80 billion.
+
+
+685
+0:32:26,233 --> 0:32:28,467
+A massive, massive
+opportunity.
+
+
+686
+0:32:28,467 --> 0:32:30,2
+But it's also an
+opportunity for the
+
+
+687
+0:32:30,2 --> 0:32:33,166
+innovative startups who,
+by the way, are the ones
+
+
+688
+0:32:33,166 --> 0:32:37,367
+who create all of the net
+new jobs in the economy.
+
+
+689
+0:32:37,367 --> 0:32:39,133
+And so as we -- as I've
+traveled around the
+
+
+690
+0:32:39,133 --> 0:32:40,5
+country talking to
+hundreds, more than a
+
+
+691
+0:32:40,5 --> 0:32:43,2
+thousand entrepreneurs,
+and we asked them what
+
+
+692
+0:32:43,2 --> 0:32:46,33
+barriers they're facing to
+growing their companies
+
+
+693
+0:32:46,33 --> 0:32:48,9
+and creating jobs, we
+heard about things like
+
+
+694
+0:32:48,9 --> 0:32:50,667
+access to capital,
+changing immigration
+
+
+695
+0:32:50,667 --> 0:32:53,533
+policy, And we're excited
+about the success and
+
+
+696
+0:32:53,533 --> 0:32:55,433
+progress we've made.
+
+
+697
+0:32:55,433 --> 0:32:59,2
+But what I've also heard
+is, hey, make it easier to
+
+
+698
+0:32:59,2 --> 0:33:2,3
+sell to the federal
+government. Right?
+
+
+699
+0:33:2,3 --> 0:33:4,633
+People have told
+me make it easier.
+
+
+700
+0:33:4,633 --> 0:33:7,533
+I know my product is
+better, cheaper, but help
+
+
+701
+0:33:7,533 --> 0:33:10,133
+me get my foot
+in the door.
+
+
+702
+0:33:10,133 --> 0:33:12,867
+And so the opportunity we
+have in front of us is to
+
+
+703
+0:33:12,867 --> 0:33:15,867
+help take the success
+story that I pointed to
+
+
+704
+0:33:15,867 --> 0:33:18,266
+Todd and let's replicate
+that and scale that at a
+
+
+705
+0:33:18,266 --> 0:33:21,333
+much bigger level and
+let's help a lot more
+
+
+706
+0:33:21,333 --> 0:33:25,734
+innovative companies get
+their foot in the door.
+
+
+707
+0:33:25,734 --> 0:33:28,0
+So to understand how to
+do that, let's start with
+
+
+708
+0:33:28,0 --> 0:33:29,7
+understanding the problem.
+
+
+709
+0:33:29,7 --> 0:33:32,33
+The fundamental
+problem is complexity.
+
+
+710
+0:33:32,33 --> 0:33:34,266
+So here is how the federal
+procurement process works
+
+
+711
+0:33:34,266 --> 0:33:35,7
+for the uninitiated.
+
+
+712
+0:33:35,7 --> 0:33:37,467
+It's all clearly mapped
+out right there --
+
+
+713
+0:33:37,467 --> 0:33:38,633
+[laughter]
+
+
+714
+0:33:38,633 --> 0:33:39,8
+-- with, you
+know, an example from the
+
+
+715
+0:33:39,8 --> 0:33:41,533
+Department of Defense.
+
+
+716
+0:33:41,533 --> 0:33:44,133
+So, you know, your startup
+who is already working,
+
+
+717
+0:33:44,133 --> 0:33:47,33
+you know, ridiculous
+hours, where do you begin?
+
+
+718
+0:33:47,33 --> 0:33:50,66
+Startups don't have
+dedicated teams to help
+
+
+719
+0:33:50,66 --> 0:33:52,867
+navigate the federal
+procurement process.
+
+
+720
+0:33:52,867 --> 0:33:57,0
+And at its core we have a
+problem when the process
+
+
+721
+0:33:57,0 --> 0:34:1,433
+for $150,000 software
+procurement works the same
+
+
+722
+0:34:1,433 --> 0:34:6,567
+way that it does for $150
+million procurement.
+
+
+723
+0:34:6,567 --> 0:34:9,133
+More broadly as we think
+about the problem what we
+
+
+724
+0:34:9,133 --> 0:34:12,1
+see is a fundamental gap
+between the innovative
+
+
+725
+0:34:12,1 --> 0:34:15,133
+startups and
+federal buyers.
+
+
+726
+0:34:15,133 --> 0:34:17,266
+So how do they find
+each other, right?
+
+
+727
+0:34:17,266 --> 0:34:20,33
+Most federal buyers don't
+hang out on TechCrunch to
+
+
+728
+0:34:20,33 --> 0:34:22,2
+find out what's the latest
+and what's happening
+
+
+729
+0:34:22,2 --> 0:34:24,0
+with innovative startups.
+
+
+730
+0:34:24,0 --> 0:34:26,967
+The startups don't hang
+out on Fed Biz Ops
+
+
+731
+0:34:26,967 --> 0:34:28,633
+or Federal Register.
+
+
+732
+0:34:28,633 --> 0:34:31,166
+Even if they know where
+to find each other, what
+
+
+733
+0:34:31,166 --> 0:34:33,66
+we're seeing is they speak
+different languages.
+
+
+734
+0:34:33,66 --> 0:34:36,834
+Startups don't speak
+government acronymeese, right?
+
+
+735
+0:34:36,834 --> 0:34:38,333
+People looking to do
+web development for the
+
+
+736
+0:34:38,333 --> 0:34:41,266
+government may have to
+know how to search on
+
+
+737
+0:34:41,266 --> 0:34:44,967
+terms like "content information distribution platform."
+
+
+738
+0:34:44,967 --> 0:34:47,4
+So how do we get over
+the language barrier?
+
+
+739
+0:34:47,4 --> 0:34:50,333
+And then how do we
+challenge the issue of
+
+
+740
+0:34:50,333 --> 0:34:52,266
+just different
+timeframes. Right?
+
+
+741
+0:34:52,266 --> 0:34:55,834
+The traditional RFP
+process that works in the
+
+
+742
+0:34:55,834 --> 0:34:59,4
+federal government is three lifetimes for a startup.
+
+
+743
+0:34:59,4 --> 0:35:1,867
+How do we address
+those challenges?
+
+
+744
+0:35:1,867 --> 0:35:4,1
+So our solution is
+something we're calling
+
+
+745
+0:35:4,1 --> 0:35:6,567
+RFP-EZ. Right?
+
+
+746
+0:35:6,567 --> 0:35:9,0
+So RFP is request for
+proposal, that's the
+
+
+747
+0:35:9,0 --> 0:35:12,8
+traditional way government
+initiates a contracting procedure.
+
+
+748
+0:35:12,8 --> 0:35:15,166
+We're borrowing from a
+successful example, the
+
+
+749
+0:35:15,166 --> 0:35:18,934
+1040EZ and the metaphor,
+right, that we all know
+
+
+750
+0:35:18,934 --> 0:35:21,967
+that took something fairly
+complicated and said, hey,
+
+
+751
+0:35:21,967 --> 0:35:24,4
+for a subset of the people
+who don't need all that
+
+
+752
+0:35:24,4 --> 0:35:28,166
+complexity, how do we make
+something easier to work.
+
+
+753
+0:35:28,166 --> 0:35:33,233
+And we said let's bring that concept to procurement.
+
+
+754
+0:35:33,233 --> 0:35:35,967
+Specifically we'll
+start with federal I.T.
+
+
+755
+0:35:35,967 --> 0:35:38,0
+And at its core what
+we're trying to do is
+
+
+756
+0:35:38,0 --> 0:35:39,233
+build a marketplace.
+
+
+757
+0:35:39,233 --> 0:35:42,467
+A marketplace of buyers
+and sellers,
+
+
+758
+0:35:42,467 --> 0:35:45,567
+to bring together fragmented buyers and sellers to
+
+
+759
+0:35:45,567 --> 0:35:47,7
+make transactions happen.
+
+
+760
+0:35:47,7 --> 0:35:49,8
+And to the economists in
+the room you know this is
+
+
+761
+0:35:49,8 --> 0:35:52,667
+all about lowering
+transaction costs.
+
+
+762
+0:35:52,667 --> 0:35:54,8
+But to the entrepreneurs
+in the room it's about
+
+
+763
+0:35:54,8 --> 0:35:57,767
+making it faster
+and simpler.
+
+
+764
+0:35:57,767 --> 0:35:59,5
+So we're going to do that
+by focusing on a couple
+
+
+765
+0:35:59,5 --> 0:36:1,4
+of different things.
+
+
+766
+0:36:1,4 --> 0:36:3,633
+First we're going to
+focus on discovery.
+
+
+767
+0:36:3,633 --> 0:36:7,6
+How do we help the buyers
+and sellers find each other.
+
+
+768
+0:36:7,6 --> 0:36:10,266
+With an opportunity to
+leverage things like
+
+
+769
+0:36:10,266 --> 0:36:14,333
+online directories, simple
+video demos of products
+
+
+770
+0:36:14,333 --> 0:36:18,0
+and services to help each other know what's available.
+
+
+771
+0:36:18,0 --> 0:36:20,9
+And as appropriate,
+in-person demo days that
+
+
+772
+0:36:20,9 --> 0:36:22,967
+we know have worked very
+effectively in the
+
+
+773
+0:36:22,967 --> 0:36:24,633
+private sector, right?
+
+
+774
+0:36:24,633 --> 0:36:26,5
+Because in the discovery
+process you've got a
+
+
+775
+0:36:26,5 --> 0:36:29,1
+chicken and egg
+problem, right?
+
+
+776
+0:36:29,1 --> 0:36:31,533
+If there aren't enough
+government buyers, you
+
+
+777
+0:36:31,533 --> 0:36:33,767
+can't get the innovative
+startups to come.
+
+
+778
+0:36:33,767 --> 0:36:35,3
+If you don't have
+innovative startups with
+
+
+779
+0:36:35,3 --> 0:36:37,9
+good products, the
+buyers won't come.
+
+
+780
+0:36:37,9 --> 0:36:40,433
+So simplifying a process
+by which you can
+
+
+781
+0:36:40,433 --> 0:36:43,834
+communicate helps that
+discovery process.
+
+
+782
+0:36:43,834 --> 0:36:45,667
+At the end of the day,
+though, what we really
+
+
+783
+0:36:45,667 --> 0:36:48,767
+want to do is to drive
+more transactions.
+
+
+784
+0:36:48,767 --> 0:36:50,734
+And so changing and
+creating templates and
+
+
+785
+0:36:50,734 --> 0:36:53,4
+simplified processes for
+easier transactions are
+
+
+786
+0:36:53,4 --> 0:36:55,533
+critically
+important as well.
+
+
+787
+0:36:55,533 --> 0:36:58,3
+So we have a screen shot
+here of one specific
+
+
+788
+0:36:58,3 --> 0:37:0,767
+module that the team has
+been focused on that we're
+
+
+789
+0:37:0,767 --> 0:37:3,3
+calling statement
+of work composer.
+
+
+790
+0:37:3,3 --> 0:37:8,233
+The whole idea here is a
+simple templated solution
+
+
+791
+0:37:8,233 --> 0:37:10,834
+that creates statements
+of work for
+
+
+792
+0:37:10,834 --> 0:37:13,1
+a specific procurement.
+
+
+793
+0:37:13,1 --> 0:37:16,233
+Why this matters is to the
+program officer who wants
+
+
+794
+0:37:16,233 --> 0:37:18,7
+to do the buy, by
+leveraging a template,
+
+
+795
+0:37:18,7 --> 0:37:20,66
+half of the work
+is already done.
+
+
+796
+0:37:20,66 --> 0:37:22,5
+And they can get
+it done faster.
+
+
+797
+0:37:22,5 --> 0:37:25,266
+To contracting officers,
+they then know that the
+
+
+798
+0:37:25,266 --> 0:37:28,834
+language in this has been
+reviewed by a group of
+
+
+799
+0:37:28,834 --> 0:37:31,433
+their peers to make sure
+it is valid, legitimate,
+
+
+800
+0:37:31,433 --> 0:37:32,166
+et cetera.
+
+
+801
+0:37:32,166 --> 0:37:34,3
+And then to the small
+business, it's written in
+
+
+802
+0:37:34,3 --> 0:37:38,0
+plain English in terms
+friendly to them,
+
+
+803
+0:37:38,0 --> 0:37:41,1
+understandable to them
+to make it happen.
+
+
+804
+0:37:41,1 --> 0:37:45,5
+So I point to a statement
+of work composer not as an
+
+
+805
+0:37:45,5 --> 0:37:48,633
+idea of something that
+we want to do, but I'm
+
+
+806
+0:37:48,633 --> 0:37:53,433
+incredibly pleased to say
+the team is already ready
+
+
+807
+0:37:53,433 --> 0:37:54,8
+to ship this product.
+
+
+808
+0:37:54,8 --> 0:37:57,166
+So in the spirit of rapid
+innovation, they said,
+
+
+809
+0:37:57,166 --> 0:37:59,133
+let's not -- no pressure
+to the other teams --
+
+
+810
+0:37:59,133 --> 0:38:0,4
+[laughter]
+
+
+811
+0:38:0,4 --> 0:38:1,633
+-- you know, we
+haven't shipped anything
+
+
+812
+0:38:1,633 --> 0:38:4,8
+yet, but the team has
+already written the
+
+
+813
+0:38:4,8 --> 0:38:5,7
+code for this.
+
+
+814
+0:38:5,7 --> 0:38:8,5
+For the developer's paying
+attention, they'll be
+
+
+815
+0:38:8,5 --> 0:38:11,133
+posting the code to GitHub
+later this afternoon.
+
+
+816
+0:38:11,133 --> 0:38:13,33
+And very much in the
+spirit of let's get
+
+
+817
+0:38:13,33 --> 0:38:15,2
+something up and running,
+let's get people to kick
+
+
+818
+0:38:15,2 --> 0:38:17,8
+the tires, give feedback
+and we'll rapidly innovate
+
+
+819
+0:38:17,8 --> 0:38:19,266
+and improve
+things from there.
+
+
+820
+0:38:19,266 --> 0:38:22,533
+So with that as a segue,
+let me turn to the team.
+
+
+821
+0:38:22,533 --> 0:38:26,667
+So we have a
+phenomenal team.
+
+
+822
+0:38:26,667 --> 0:38:28,533
+So you heard the dream
+team metaphor, there are
+
+
+823
+0:38:28,533 --> 0:38:30,2
+going to be all kinds of
+great metaphors coming.
+
+
+824
+0:38:30,2 --> 0:38:32,1
+At its core what we're
+really seeing is each one
+
+
+825
+0:38:32,1 --> 0:38:35,5
+of these individuals are
+successful entrepreneurs
+
+
+826
+0:38:35,5 --> 0:38:37,767
+and successful
+technologists.
+
+
+827
+0:38:37,767 --> 0:38:39,133
+So let me
+introduce them now.
+
+
+828
+0:38:39,133 --> 0:38:42,467
+Let me start and lead
+off with Clay Johnson.
+
+
+829
+0:38:42,467 --> 0:38:43,8
+Clay, come on down!
+
+
+830
+0:38:43,8 --> 0:38:48,9
+[applause]
+
+
+831
+0:38:48,9 --> 0:38:51,533
+So Clay is a
+successful entrepreneur.
+
+
+832
+0:38:51,533 --> 0:38:53,233
+A founder of Blue
+State Digital.
+
+
+833
+0:38:53,233 --> 0:38:55,233
+He also is the Director
+of Sunlight Labs at the
+
+
+834
+0:38:55,233 --> 0:38:57,533
+Sunlight Foundation where
+he led a community over
+
+
+835
+0:38:57,533 --> 0:39:2,133
+2,000 developers building
+apps and functionalities
+
+
+836
+0:39:2,133 --> 0:39:2,834
+it helps to make the
+government more
+
+
+837
+0:39:2,834 --> 0:39:4,467
+open and transparent.
+
+
+838
+0:39:4,467 --> 0:39:5,934
+He's a best
+selling author.
+
+
+839
+0:39:5,934 --> 0:39:9,33
+Recently released the
+"Information Diet."
+
+
+840
+0:39:9,33 --> 0:39:12,533
+And was, in 2009 won
+Google and O'Reilly Medias
+
+
+841
+0:39:12,533 --> 0:39:16,967
+Award for Open Source
+Organizer of the Year.
+
+
+842
+0:39:16,967 --> 0:39:21,934
+But most importantly, he
+is the proud father of an
+
+
+843
+0:39:21,934 --> 0:39:25,667
+adorable seven-week-old
+Felix, who is in the
+
+
+844
+0:39:25,667 --> 0:39:27,33
+house today. Felix?
+
+
+845
+0:39:27,33 --> 0:39:29,266
+[cheering and appplause]
+
+
+846
+0:39:29,266 --> 0:39:30,3
+Hey, quiet, quiet, clap
+
+
+847
+0:39:30,3 --> 0:39:33,1
+quietly, Felix
+might be asleep.
+
+
+848
+0:39:33,1 --> 0:39:35,233
+And so when we were
+thinking about what
+
+
+849
+0:39:35,233 --> 0:39:37,467
+profile do we want in our
+innovation fellows, we
+
+
+850
+0:39:37,467 --> 0:39:39,734
+said, well, where can we
+find someone who is not
+
+
+851
+0:39:39,734 --> 0:39:40,9
+going to be sleeping for
+the next six months?
+
+
+852
+0:39:40,9 --> 0:39:42,433
+[laughter]
+
+
+853
+0:39:42,433 --> 0:39:45,333
+Hum. So, welcome, Clay.
+
+
+854
+0:39:45,333 --> 0:39:47,0
+Next I want to
+call up Jed Wood.
+
+
+855
+0:39:47,0 --> 0:39:47,8
+Jed, come on up.
+
+
+856
+0:39:47,8 --> 0:39:53,33
+[applause]
+
+
+857
+0:39:53,33 --> 0:39:56,1
+So Jed is coming in from Chicago, Illinois.
+
+
+858
+0:39:56,1 --> 0:39:58,7
+Jed has more than ten
+years of experience kind
+
+
+859
+0:39:58,7 --> 0:40:0,867
+of merging the worlds of
+design and user
+
+
+860
+0:40:0,867 --> 0:40:3,8
+experience and programming.
+
+
+861
+0:40:3,8 --> 0:40:5,934
+Both critically important
+to this effort.
+
+
+862
+0:40:5,934 --> 0:40:10,8
+He actually, at the
+first-ever White House
+
+
+863
+0:40:10,8 --> 0:40:14,433
+Code-A-Thon, was Top
+Mention in that effort.
+
+
+864
+0:40:14,433 --> 0:40:17,33
+Also a successful
+entrepreneur, has led the
+
+
+865
+0:40:17,33 --> 0:40:22,1
+effort or started, created
+a startup called LimeChili
+
+
+866
+0:40:22,1 --> 0:40:24,667
+that has already spun off
+three different apps that
+
+
+867
+0:40:24,667 --> 0:40:25,6
+have been acquired.
+
+
+868
+0:40:25,6 --> 0:40:27,433
+And with a name like
+LimeChili, we're going to
+
+
+869
+0:40:27,433 --> 0:40:30,8
+turn to him as
+the brand guru.
+
+
+870
+0:40:30,8 --> 0:40:34,3
+And Jed lives in Chicago,
+as I mentioned, with his
+
+
+871
+0:40:34,3 --> 0:40:36,266
+wife and two daughters.
+
+
+872
+0:40:36,266 --> 0:40:39,33
+To the metaphor that we
+had before I only have one
+
+
+873
+0:40:39,33 --> 0:40:42,4
+daughter who, Steve,
+is 13 going on 17.
+
+
+874
+0:40:42,4 --> 0:40:44,934
+So good luck with two!
+
+
+875
+0:40:44,934 --> 0:40:47,433
+And then finally I would
+like to call up Adam Becker.
+
+
+876
+0:40:47,433 --> 0:40:52,367
+[applause]
+
+
+877
+0:40:52,367 --> 0:40:56,767
+So Adam comes
+in from Oakland where he is
+
+
+878
+0:40:56,767 --> 0:40:59,133
+an avid cyclist and
+lives with his two cats,
+
+
+879
+0:40:59,133 --> 0:41:1,4
+slightly less challenging
+than the two daughters,
+
+
+880
+0:41:1,4 --> 0:41:2,834
+but we know it's work.
+
+
+881
+0:41:2,834 --> 0:41:5,467
+So, again, another great
+example of somebody who is
+
+
+882
+0:41:5,467 --> 0:41:8,66
+a talented entrepreneur
+and developer.
+
+
+883
+0:41:8,66 --> 0:41:12,66
+He was the founder and CTO
+of a company GovHub that
+
+
+884
+0:41:12,66 --> 0:41:15,333
+focused on helping
+stakeholders at the local
+
+
+885
+0:41:15,333 --> 0:41:17,7
+level improve
+communications on key
+
+
+886
+0:41:17,7 --> 0:41:19,667
+issues of
+important to them.
+
+
+887
+0:41:19,667 --> 0:41:24,4
+Has also had a ton of web
+or despite his youth or I
+
+
+888
+0:41:24,4 --> 0:41:26,233
+should say probably
+because of his youth --
+
+
+889
+0:41:26,233 --> 0:41:27,2
+[laughter]
+
+
+890
+0:41:27,2 --> 0:41:29,667
+-- but a ton of
+web development projects
+
+
+891
+0:41:29,667 --> 0:41:33,133
+under his belt already,
+and his first website he
+
+
+892
+0:41:33,133 --> 0:41:38,767
+ever built was for his
+junior high punk rock band.
+
+
+893
+0:41:38,767 --> 0:41:40,8
+So everybody is going to
+say that their team are
+
+
+894
+0:41:40,8 --> 0:41:43,533
+rock stars, but we have a
+legitimate punk rock star
+
+
+895
+0:41:43,533 --> 0:41:46,166
+on our team.
+
+
+896
+0:41:46,166 --> 0:41:46,433
+So, welcome the team.
+
+
+897
+0:41:46,433 --> 0:41:51,1
+[applause]
+
+
+898
+0:41:51,1 --> 0:41:52,2
+And I would
+also like to give a
+
+
+899
+0:41:52,2 --> 0:41:54,367
+shout-out to Ashon Wardak
+who is somewhere in the
+
+
+900
+0:41:54,367 --> 0:41:57,7
+room who is on my team
+at SBA, Ashon is also an
+
+
+901
+0:41:57,7 --> 0:42:0,133
+entrepreneur and
+technologist who is the
+
+
+902
+0:42:0,133 --> 0:42:4,7
+point person working
+with the team on RPZ-EZ.
+
+
+903
+0:42:4,7 --> 0:42:7,1
+So quickly, here is our
+game plan, here's what
+
+
+904
+0:42:7,1 --> 0:42:8,367
+we're trying
+to accomplish.
+
+
+905
+0:42:8,367 --> 0:42:11,5
+So in the short-term we
+want to walk before we can
+
+
+906
+0:42:11,5 --> 0:42:14,1
+run so we want to focus
+this effort on I.T.
+
+
+907
+0:42:14,1 --> 0:42:16,5
+specifically and in
+particular on one targeted
+
+
+908
+0:42:16,5 --> 0:42:18,967
+sector web development.
+
+
+909
+0:42:18,967 --> 0:42:21,66
+What we want to do in the
+next six months is build
+
+
+910
+0:42:21,66 --> 0:42:24,3
+an app and a working
+alpha, let's run with a
+
+
+911
+0:42:24,3 --> 0:42:26,667
+handful of actual
+procurements through this
+
+
+912
+0:42:26,667 --> 0:42:28,0
+process.
+
+
+913
+0:42:28,0 --> 0:42:30,367
+Let's have some case
+studies that demonstrate
+
+
+914
+0:42:30,367 --> 0:42:35,967
+how we can save money, get better solutions for taxpayers.
+
+
+915
+0:42:35,967 --> 0:42:40,133
+And then let's create
+the blueprint to scale.
+
+
+916
+0:42:40,133 --> 0:42:42,633
+Beyond that, what we're
+trying to accomplish is
+
+
+917
+0:42:42,633 --> 0:42:46,166
+attract new businesses
+into government contracting.
+
+
+918
+0:42:46,166 --> 0:42:48,767
+Save significant money.
+
+
+919
+0:42:48,767 --> 0:42:50,433
+And then finally, close
+that gap that I talked
+
+
+920
+0:42:50,433 --> 0:42:53,333
+about, and Jeff Zients
+talked about it at the
+
+
+921
+0:42:53,333 --> 0:42:56,367
+beginning as well, of how
+the private sector uses
+
+
+922
+0:42:56,367 --> 0:42:58,2
+technology and
+the government.
+
+
+923
+0:42:58,2 --> 0:43:1,767
+So finally an ask to
+everyone out there here's
+
+
+924
+0:43:1,767 --> 0:43:2,8
+how you can help.
+
+
+925
+0:43:2,8 --> 0:43:5,333
+First of all, follow us
+on Twitter, you see our
+
+
+926
+0:43:5,333 --> 0:43:9,633
+Twitter handle there or
+you'll see it on the next page.
+
+
+927
+0:43:9,633 --> 0:43:12,4
+If you're a developer,
+this is all on an open platform.
+
+
+928
+0:43:12,4 --> 0:43:15,9
+Check out what we're doing
+and contribute on GitHub.
+
+
+929
+0:43:15,9 --> 0:43:17,333
+Folks in the federal
+government, if you are a
+
+
+930
+0:43:17,333 --> 0:43:20,333
+contracting officer
+we need your input.
+
+
+931
+0:43:20,333 --> 0:43:21,266
+Kick the tires.
+
+
+932
+0:43:21,266 --> 0:43:23,834
+Give us the feedback on
+what matters to you.
+
+
+933
+0:43:23,834 --> 0:43:27,133
+Federal buyers, come in and be a beta buyer on the platform.
+
+
+934
+0:43:27,133 --> 0:43:29,1
+And to small businesses,
+particularly in web
+
+
+935
+0:43:29,1 --> 0:43:31,166
+development, contact us.
+
+
+936
+0:43:31,166 --> 0:43:33,734
+We'd love to have you
+participate and join.
+
+
+937
+0:43:33,734 --> 0:43:35,633
+So that's project RFP-EZ.
+
+
+938
+0:43:35,633 --> 0:43:36,4
+Thanks for coming.
+
+
+939
+0:43:36,4 --> 0:43:38,633
+We look forward to your
+input going forward.
+
+
+940
+0:43:38,633 --> 0:43:39,467
+[applause]
+
+
+941
+0:43:39,467 --> 0:43:42,266
+And again on
+any of these e-mail us if
+
+
+942
+0:43:42,266 --> 0:43:45,4
+you're interested at the
+following e-mail -- sorry,
+
+
+943
+0:43:45,4 --> 0:43:49,233
+projectRFP-EZ@SBA.gov.
+
+
+944
+0:43:49,233 --> 0:43:49,867
+Thank you.
+
+
+945
+0:43:49,867 --> 0:43:55,166
+[applause]
+
+
+946
+0:43:55,166 --> 0:43:57,433
+And so now I
+want to turn the mic over
+
+
+947
+0:43:57,433 --> 0:44:0,834
+to Macon Phillips
+to talk about MyGov.
+
+
+948
+0:44:0,834 --> 0:44:3,6
+Macon is the Director of
+Digital Strategy here at
+
+
+949
+0:44:3,6 --> 0:44:5,2
+the White House.
+
+
+950
+0:44:5,2 --> 0:44:9,233
+[applause]
+
+
+951
+0:44:9,233 --> 0:44:10,66
+Macon Phillips:
+All right.
+
+
+952
+0:44:10,66 --> 0:44:11,834
+Welcome everyone, welcome
+to the White House.
+
+
+953
+0:44:11,834 --> 0:44:14,734
+You're getting a sense of
+why sometimes we call this
+
+
+954
+0:44:14,734 --> 0:44:15,9
+room the South
+Beach Auditorium!
+
+
+955
+0:44:15,9 --> 0:44:18,133
+[laughter]
+
+
+956
+0:44:18,133 --> 0:44:21,667
+But I'm the halfway mark
+so hang in there.
+
+
+957
+0:44:21,667 --> 0:44:26,4
+I'm here to talk to you
+about project MyGov.
+
+
+958
+0:44:26,4 --> 0:44:28,667
+And project MyGov is an
+effort to reimagine how
+
+
+959
+0:44:28,667 --> 0:44:30,8
+citizens interact with
+government through an
+
+
+960
+0:44:30,8 --> 0:44:34,133
+experience designed around
+their needs but
+
+
+961
+0:44:34,133 --> 0:44:36,1
+not our bureaucracy.
+
+
+962
+0:44:36,1 --> 0:44:37,834
+And to kind of give you a
+sense of what I mean,
+
+
+963
+0:44:37,834 --> 0:44:41,133
+I'm going to talk to
+you about Alice.
+
+
+964
+0:44:41,133 --> 0:44:42,967
+Just as sort of persona
+we're going to use to
+
+
+965
+0:44:42,967 --> 0:44:47,734
+illustrate this, Alice is
+married, she's got two kids.
+
+
+966
+0:44:47,734 --> 0:44:49,834
+She served in Iraq
+for four years.
+
+
+967
+0:44:49,834 --> 0:44:50,967
+She's a veteran.
+
+
+968
+0:44:50,967 --> 0:44:52,266
+She started her
+own small business.
+
+
+969
+0:44:52,266 --> 0:44:54,367
+She is in catering.
+
+
+970
+0:44:54,367 --> 0:44:56,467
+And she owns her own
+home in my hometown of
+
+
+971
+0:44:56,467 --> 0:44:59,333
+Huntsville, Alabama.
+
+
+972
+0:44:59,333 --> 0:45:0,967
+There is a lot of
+government information
+
+
+973
+0:45:0,967 --> 0:45:2,567
+relevant to her.
+
+
+974
+0:45:2,567 --> 0:45:4,4
+Of course, she goes to
+the Veterans Affairs for
+
+
+975
+0:45:4,4 --> 0:45:6,834
+information about
+her benefits.
+
+
+976
+0:45:6,834 --> 0:45:8,1
+She'll probably interact
+with the Department of
+
+
+977
+0:45:8,1 --> 0:45:12,33
+Education for information
+about student loans.
+
+
+978
+0:45:12,33 --> 0:45:13,567
+Of course, there is the
+Consumer Product Safety
+
+
+979
+0:45:13,567 --> 0:45:15,834
+Commission that is going
+to help her keep tabs on
+
+
+980
+0:45:15,834 --> 0:45:21,767
+product recalls and cribs
+and all sorts of issues.
+
+
+981
+0:45:21,767 --> 0:45:23,333
+There is the Small
+Business Administration
+
+
+982
+0:45:23,333 --> 0:45:25,1
+for information about
+loans and other support
+
+
+983
+0:45:25,1 --> 0:45:27,333
+for her business.
+
+
+984
+0:45:27,333 --> 0:45:28,433
+And then say you have
+got something like the
+
+
+985
+0:45:28,433 --> 0:45:30,834
+Consumer Financial
+Protection Bureau that is
+
+
+986
+0:45:30,834 --> 0:45:33,166
+going to have resources
+about her mortgage or a
+
+
+987
+0:45:33,166 --> 0:45:35,567
+way for her to
+file a complaint.
+
+
+988
+0:45:35,567 --> 0:45:38,0
+She has to go to each
+of these places to
+
+
+989
+0:45:38,0 --> 0:45:39,333
+get that information.
+
+
+990
+0:45:39,333 --> 0:45:42,867
+And sometimes, she may
+not even know that these exist.
+
+
+991
+0:45:42,867 --> 0:45:45,3
+And that is a problem.
+
+
+992
+0:45:45,3 --> 0:45:47,767
+That is also just the
+tip of the iceberg.
+
+
+993
+0:45:47,767 --> 0:45:50,767
+The government has all
+sorts of things
+
+
+994
+0:45:50,767 --> 0:45:51,467
+relevant to her.
+
+
+995
+0:45:51,467 --> 0:45:53,3
+They are scattered and
+they are buried deep
+
+
+996
+0:45:53,3 --> 0:45:54,734
+within this bureaucracy.
+
+
+997
+0:45:54,734 --> 0:45:57,266
+And that is the key
+question of MyGov.
+
+
+998
+0:45:57,266 --> 0:46:1,767
+How can we identify those
+things and bring them to her?
+
+
+999
+0:46:1,767 --> 0:46:4,633
+Now, we first tried to
+tackle this problem with
+
+
+1000
+0:46:4,633 --> 0:46:8,166
+FIRSTGOV, which whose
+mission was to provide the
+
+
+1001
+0:46:8,166 --> 0:46:10,5
+public with easy one stop
+access for all federal
+
+
+1002
+0:46:10,5 --> 0:46:12,1
+information and services.
+
+
+1003
+0:46:12,1 --> 0:46:13,7
+And I think twelve years
+later we can all agree
+
+
+1004
+0:46:13,7 --> 0:46:16,734
+that FIRSTGOV was
+certainly not the last dot gov.
+
+
+1005
+0:46:16,734 --> 0:46:19,266
+But that is not to say
+that websites are bad.
+
+
+1006
+0:46:19,266 --> 0:46:21,33
+We have actually had some
+really great examples of
+
+
+1007
+0:46:21,33 --> 0:46:23,1
+websites in the
+last few years.
+
+
+1008
+0:46:23,1 --> 0:46:26,2
+Take the recent student
+aid.gov that education
+
+
+1009
+0:46:26,2 --> 0:46:27,333
+just put out.
+
+
+1010
+0:46:27,333 --> 0:46:30,166
+It is a great example of
+user centric design that
+
+
+1011
+0:46:30,166 --> 0:46:31,767
+helps people find the
+right student aid
+
+
+1012
+0:46:31,767 --> 0:46:34,433
+resources based
+on their needs.
+
+
+1013
+0:46:34,433 --> 0:46:37,3
+Of course you have
+got Health Care.Gov.
+
+
+1014
+0:46:37,3 --> 0:46:39,934
+Which for the first time
+you can find all of your
+
+
+1015
+0:46:39,934 --> 0:46:41,5
+public and private health
+care coverage options in
+
+
+1016
+0:46:41,5 --> 0:46:43,266
+the same place.
+
+
+1017
+0:46:43,266 --> 0:46:45,967
+And it too is
+built around users.
+
+
+1018
+0:46:45,967 --> 0:46:47,567
+Or Consumer Finance.Gov.
+
+
+1019
+0:46:47,567 --> 0:46:50,133
+Here is a site for the
+Consumer Financial
+
+
+1020
+0:46:50,133 --> 0:46:52,1
+Protection Bureau that
+offers a range of
+
+
+1021
+0:46:52,1 --> 0:46:55,266
+resources to make, to
+empower consumers and also
+
+
+1022
+0:46:55,266 --> 0:46:58,6
+a way for them to
+file complaints.
+
+
+1023
+0:46:58,6 --> 0:47:1,367
+Each offers powerful
+tools to the user.
+
+
+1024
+0:47:1,367 --> 0:47:3,567
+And each is organized
+around a regular person,
+
+
+1025
+0:47:3,567 --> 0:47:5,367
+not a subject
+matter expert.
+
+
+1026
+0:47:5,367 --> 0:47:9,7
+With that said, there is
+still more we can do.
+
+
+1027
+0:47:9,7 --> 0:47:11,834
+These are three distinct
+sites produced
+
+
+1028
+0:47:11,834 --> 0:47:13,533
+by different agencies.
+
+
+1029
+0:47:13,533 --> 0:47:15,667
+And although Alice might
+end up at Student Aid.Gov
+
+
+1030
+0:47:15,667 --> 0:47:18,5
+with her kid, researching
+college affordability
+
+
+1031
+0:47:18,5 --> 0:47:20,166
+options, she might not
+know about some of the
+
+
+1032
+0:47:20,166 --> 0:47:23,433
+benefits relevant to her
+at Health Care.Gov or that
+
+
+1033
+0:47:23,433 --> 0:47:25,166
+she can actually get help
+with her mortgage at
+
+
+1034
+0:47:25,166 --> 0:47:27,0
+Consumer Finance.Gov.
+
+
+1035
+0:47:27,0 --> 0:47:29,333
+There is not an efficient
+super structure across the
+
+
+1036
+0:47:29,333 --> 0:47:32,367
+federal web space to help
+her discover these things.
+
+
+1037
+0:47:32,367 --> 0:47:33,967
+And of course as I said
+earlier this is the
+
+
+1038
+0:47:33,967 --> 0:47:36,33
+tip of the iceberg.
+
+
+1039
+0:47:36,33 --> 0:47:37,467
+The web has brought
+incredible efficiency to the
+
+
+1040
+0:47:37,467 --> 0:47:39,6
+relationship between
+government and citizens.
+
+
+1041
+0:47:39,6 --> 0:47:41,233
+You can pay taxes
+in your pajamas.
+
+
+1042
+0:47:41,233 --> 0:47:43,834
+You can go research energy
+efficient light bulbs or
+
+
+1043
+0:47:43,834 --> 0:47:46,8
+laundry machines
+at Energy Star.Gov.
+
+
+1044
+0:47:46,8 --> 0:47:51,266
+You can even track
+a robot on Mars.
+
+
+1045
+0:47:51,266 --> 0:47:52,633
+All right.
+
+
+1046
+0:47:52,633 --> 0:47:53,6
+So there is a NASA fan.
+
+
+1047
+0:47:53,6 --> 0:47:54,934
+[laughter]
+
+
+1048
+0:47:54,934 --> 0:47:56,33
+All right.
+
+
+1049
+0:47:56,33 --> 0:47:58,667
+There is a lot to discover
+and shifting that burden
+
+
+1050
+0:47:58,667 --> 0:48:0,8
+from the citizen back to
+the government is what we
+
+
+1051
+0:48:0,8 --> 0:48:2,2
+are trying to do here.
+
+
+1052
+0:48:2,2 --> 0:48:3,8
+But back to Alice.
+
+
+1053
+0:48:3,8 --> 0:48:6,734
+I want to stress that we
+are not here to create yet
+
+
+1054
+0:48:6,734 --> 0:48:9,734
+another website that
+Alice has to remember.
+
+
+1055
+0:48:9,734 --> 0:48:11,567
+MyGov is a service that
+goes out into the federal
+
+
+1056
+0:48:11,567 --> 0:48:14,166
+bureaucracy, identifies
+the information and
+
+
+1057
+0:48:14,166 --> 0:48:17,33
+services relevant to
+her based on her needs.
+
+
+1058
+0:48:17,33 --> 0:48:20,9
+Brings that together into
+a personalized experience
+
+
+1059
+0:48:20,9 --> 0:48:23,66
+and that we can present
+perhaps through it's own
+
+
+1060
+0:48:23,66 --> 0:48:25,4
+stand alone dashboard or
+perhaps in the contexts of
+
+
+1061
+0:48:25,4 --> 0:48:27,9
+sites that she is
+already visiting.
+
+
+1062
+0:48:27,9 --> 0:48:29,7
+And this is a pretty
+big challenge.
+
+
+1063
+0:48:29,7 --> 0:48:33,3
+But the good news is, it
+is building on momentum
+
+
+1064
+0:48:33,3 --> 0:48:33,967
+that is already out there.
+
+
+1065
+0:48:33,967 --> 0:48:36,533
+Of course, we have got
+USA.gov, which does, has
+
+
+1066
+0:48:36,533 --> 0:48:37,8
+done incredible work
+laying down the groundwork
+
+
+1067
+0:48:37,8 --> 0:48:40,233
+for how we organize
+information around topics
+
+
+1068
+0:48:40,233 --> 0:48:42,0
+rather than bureaucracy.
+
+
+1069
+0:48:42,0 --> 0:48:43,934
+And I am sure many of
+you have heard about our
+
+
+1070
+0:48:43,934 --> 0:48:46,8
+colleagues across the pond
+at the government, United
+
+
+1071
+0:48:46,8 --> 0:48:48,266
+Kingdoms Government
+Digital Service that have
+
+
+1072
+0:48:48,266 --> 0:48:52,166
+made some remarkable
+achievements with Gov.UK.
+
+
+1073
+0:48:52,166 --> 0:48:54,166
+Now, both of these makes
+search a central part of
+
+
+1074
+0:48:54,166 --> 0:48:55,767
+their strategy and that is
+going to serve as a key
+
+
+1075
+0:48:55,767 --> 0:48:58,767
+component of ours
+moving forward.
+
+
+1076
+0:48:58,767 --> 0:49:2,2
+But our bigger picture is truly a no wrong door approach.
+
+
+1077
+0:49:2,2 --> 0:49:4,3
+Where every federal touch
+point participates in this
+
+
+1078
+0:49:4,3 --> 0:49:7,133
+agency agnostic people
+centered service.
+
+
+1079
+0:49:7,133 --> 0:49:9,967
+And we are not just
+solving for today.
+
+
+1080
+0:49:9,967 --> 0:49:12,734
+This approach also allows
+us to add a new dimension
+
+
+1081
+0:49:12,734 --> 0:49:17,0
+as people's information
+and needs change over time.
+
+
+1082
+0:49:17,0 --> 0:49:19,66
+Imagine if Alice creates a
+custom profile focused on
+
+
+1083
+0:49:19,66 --> 0:49:21,5
+her interest, one that
+enables notifications and
+
+
+1084
+0:49:21,5 --> 0:49:25,433
+alert, if contents she saw
+yesterday changes tomorrow
+
+
+1085
+0:49:25,433 --> 0:49:28,633
+like a new product recall
+or veterans benefit.
+
+
+1086
+0:49:28,633 --> 0:49:31,533
+So what is this
+going to look like?
+
+
+1087
+0:49:31,533 --> 0:49:33,433
+In one month we are
+planning to have a basic
+
+
+1088
+0:49:33,433 --> 0:49:35,7
+prototype of the
+MyGov platform.
+
+
+1089
+0:49:35,7 --> 0:49:38,533
+In three months, define
+this basic persona
+
+
+1090
+0:49:38,533 --> 0:49:41,4
+standards for personalizing services and information.
+
+
+1091
+0:49:41,4 --> 0:49:43,233
+And in six months have
+at least two important
+
+
+1092
+0:49:43,233 --> 0:49:45,567
+citizen and government
+interactions using the
+
+
+1093
+0:49:45,567 --> 0:49:47,934
+platform and a
+personalized notification
+
+
+1094
+0:49:47,934 --> 0:49:51,567
+center for government
+services and information.
+
+
+1095
+0:49:51,567 --> 0:49:52,5
+Now, this is the fun part.
+
+
+1096
+0:49:52,5 --> 0:49:54,0
+Let's talk about who
+is going to do it.
+
+
+1097
+0:49:54,0 --> 0:49:56,433
+Kara. Come on up.
+
+
+1098
+0:49:56,433 --> 0:50:5,6
+[applause]
+
+
+1099
+0:50:5,6 --> 0:50:7,567
+Kara DeFrias'
+enthusiasm for creating
+
+
+1100
+0:50:7,567 --> 0:50:9,433
+great experiences is
+contagious whether she is
+
+
+1101
+0:50:9,433 --> 0:50:11,6
+working on the Oscars,
+with the Gold Medal
+
+
+1102
+0:50:11,6 --> 0:50:13,934
+winning US Women's Soccer team
+
+
+1103
+0:50:13,934 --> 0:50:15,367
+[applause]
+
+
+1104
+0:50:15,367 --> 0:50:17,166
+Or taxes.
+
+
+1105
+0:50:17,166 --> 0:50:19,1
+[laughter]
+
+
+1106
+0:50:19,1 --> 0:50:21,0
+At Turbo Tax,
+we got her to come here
+
+
+1107
+0:50:21,0 --> 0:50:23,433
+all the way from San Diego
+to work with us on making
+
+
+1108
+0:50:23,433 --> 0:50:25,7
+user experiences awesome
+which if you ever paid
+
+
+1109
+0:50:25,7 --> 0:50:27,667
+your taxes, you can
+understand how it could
+
+
+1110
+0:50:27,667 --> 0:50:28,6
+not be awesome.
+
+
+1111
+0:50:28,6 --> 0:50:30,633
+But she knows, she knows
+how to get it done.
+
+
+1112
+0:50:30,633 --> 0:50:32,734
+This three time cancer
+survivor has got a knack
+
+
+1113
+0:50:32,734 --> 0:50:34,9
+for speaking to user in
+their language, tapping
+
+
+1114
+0:50:34,9 --> 0:50:37,767
+into their emotions, and
+relentlessly pushes for
+
+
+1115
+0:50:37,767 --> 0:50:39,567
+what is best for them.
+
+
+1116
+0:50:39,567 --> 0:50:40,867
+Phil. All right.
+
+
+1117
+0:50:40,867 --> 0:50:45,767
+[applause]
+
+
+1118
+0:50:45,767 --> 0:50:47,333
+Phil Ashlock
+is steeped in the open
+
+
+1119
+0:50:47,333 --> 0:50:49,266
+government community from
+years building open source
+
+
+1120
+0:50:49,266 --> 0:50:51,934
+civic infrastructure at
+Open Plans and sharing it
+
+
+1121
+0:50:51,934 --> 0:50:53,533
+through Civic Commons.
+
+
+1122
+0:50:53,533 --> 0:50:55,5
+As a primary instigator
+behind the Community
+
+
+1123
+0:50:55,5 --> 0:50:57,9
+Driven Open 311
+Initiative, a service up
+
+
+1124
+0:50:57,9 --> 0:50:59,834
+and running in a lot of
+cities including this one,
+
+
+1125
+0:50:59,834 --> 0:51:3,1
+Washington, D.C., he has
+created, he has helped a
+
+
+1126
+0:51:3,1 --> 0:51:5,467
+complete a common platform
+for citizen services that
+
+
+1127
+0:51:5,467 --> 0:51:7,6
+is revolutionizing the
+way people interact with
+
+
+1128
+0:51:7,6 --> 0:51:9,2
+government
+around the world.
+
+
+1129
+0:51:9,2 --> 0:51:10,934
+He has got a gift for
+bringing people together
+
+
+1130
+0:51:10,934 --> 0:51:14,533
+to solve complex
+challenges. Ben.
+
+
+1131
+0:51:14,533 --> 0:51:15,433
+All right.
+
+
+1132
+0:51:15,433 --> 0:51:17,0
+Ben Balter everyone.
+
+
+1133
+0:51:17,0 --> 0:51:20,0
+[applause]
+
+
+1134
+0:51:20,0 --> 0:51:20,633
+All right, man.
+
+
+1135
+0:51:20,633 --> 0:51:22,1
+This guy is lightning
+in a bottle.
+
+
+1136
+0:51:22,1 --> 0:51:24,1
+He is the kind of guy
+that has been hacking
+
+
+1137
+0:51:24,1 --> 0:51:26,0
+government from the inside
+out already at places like
+
+
+1138
+0:51:26,0 --> 0:51:27,867
+the CFPB, the Consumer
+Financial Protection
+
+
+1139
+0:51:27,867 --> 0:51:29,533
+Bureau, and FCC.
+
+
+1140
+0:51:29,533 --> 0:51:32,0
+All the while pursuing
+degrees in law and business.
+
+
+1141
+0:51:32,0 --> 0:51:33,66
+Obviously, an
+under achiever.
+
+
+1142
+0:51:33,66 --> 0:51:35,233
+[laughter]
+
+
+1143
+0:51:35,233 --> 0:51:36,9
+Danny,
+come on up.
+
+
+1144
+0:51:36,9 --> 0:51:38,333
+All right.
+
+
+1145
+0:51:38,333 --> 0:51:40,967
+[applause]
+
+
+1146
+0:51:40,967 --> 0:51:42,6
+So Danny Chapman
+brings his award
+
+
+1147
+0:51:42,6 --> 0:51:44,166
+winning design shops and
+recent work at Rhode
+
+
+1148
+0:51:44,166 --> 0:51:47,8
+Island's RI.Gov among
+many other sites.
+
+
+1149
+0:51:47,8 --> 0:51:51,533
+And he has got that rare
+intersection of experience
+
+
+1150
+0:51:51,533 --> 0:51:54,1
+with both design, but
+also empathy for user
+
+
+1151
+0:51:54,1 --> 0:51:57,66
+experience with
+government services.
+
+
+1152
+0:51:57,66 --> 0:51:59,233
+And finally we
+have got Greg.
+
+
+1153
+0:51:59,233 --> 0:52:2,967
+[applause]
+
+
+1154
+0:52:2,967 --> 0:52:4,734
+All right.
+
+
+1155
+0:52:4,734 --> 0:52:6,834
+So Greg has made a career
+of creating products that
+
+
+1156
+0:52:6,834 --> 0:52:9,0
+make information
+more accessible.
+
+
+1157
+0:52:9,0 --> 0:52:10,9
+Most recently he was on
+the core team developing
+
+
+1158
+0:52:10,9 --> 0:52:13,633
+USA Search Platform and
+his idea of relaxing with
+
+
+1159
+0:52:13,633 --> 0:52:16,1
+a movie is building a
+custom application to
+
+
+1160
+0:52:16,1 --> 0:52:19,433
+search I Tunes, Amazon, Netflix, and Hulu for the best options.
+
+
+1161
+0:52:19,433 --> 0:52:20,166
+[laughter]
+
+
+1162
+0:52:20,166 --> 0:52:20,9
+It is out there.
+
+
+1163
+0:52:20,9 --> 0:52:22,7
+It is Cinidex.come
+with an I.
+
+
+1164
+0:52:22,7 --> 0:52:25,433
+Right. All right.
+Cinidex with an I.
+
+
+1165
+0:52:25,433 --> 0:52:28,233
+So any way we are looking
+for ideas from everyone.
+
+
+1166
+0:52:28,233 --> 0:52:31,3
+For example, are you
+an expert in privacy?
+
+
+1167
+0:52:31,3 --> 0:52:33,33
+We want, we want
+to talk to you.
+
+
+1168
+0:52:33,33 --> 0:52:35,66
+Providing a level of
+personalization requires
+
+
+1169
+0:52:35,66 --> 0:52:37,0
+knowing something
+about that person.
+
+
+1170
+0:52:37,0 --> 0:52:39,233
+And this must be handled
+with a strong emphasis on
+
+
+1171
+0:52:39,233 --> 0:52:42,667
+user permission, control,
+and transparency.
+
+
+1172
+0:52:42,667 --> 0:52:45,3
+Have you had experience
+developing platforms like this?
+
+
+1173
+0:52:45,3 --> 0:52:46,333
+We want to connect.
+
+
+1174
+0:52:46,333 --> 0:52:48,433
+The bottom line is that
+even though this project
+
+
+1175
+0:52:48,433 --> 0:52:50,8
+is called MyGov, the
+challenge is all of ours.
+
+
+1176
+0:52:50,8 --> 0:52:53,3
+Yours, mine, and Alice's.
+
+
+1177
+0:52:53,3 --> 0:52:55,266
+And we cannot wait
+to get to work.
+
+
+1178
+0:52:55,266 --> 0:52:56,5
+So thank you everyone.
+
+
+1179
+0:52:56,5 --> 0:53:0,767
+[applause]
+
+
+1180
+0:53:0,767 --> 0:53:2,6
+All right. All right.
+
+
+1181
+0:53:2,6 --> 0:53:5,367
+And now I am going to
+introduce Maura O'Neill,
+
+
+1182
+0:53:5,367 --> 0:53:6,967
+who is the Chief
+Innovation Officer at
+
+
+1183
+0:53:6,967 --> 0:53:9,9
+USAID, Maura?
+
+
+1184
+0:53:9,9 --> 0:53:11,266
+Maura O'Neill:
+Thanks so much.
+
+
+1185
+0:53:11,266 --> 0:53:13,233
+Thanks so much, Macon.
+
+
+1186
+0:53:13,233 --> 0:53:15,33
+Hi, I am happy to be here.
+
+
+1187
+0:53:15,33 --> 0:53:17,333
+And so excited to share
+this platform with these
+
+
+1188
+0:53:17,333 --> 0:53:20,233
+amazing Presidential
+Innovation Fellows and the
+
+
+1189
+0:53:20,233 --> 0:53:22,567
+awesome people that I get
+a chance to work with in
+
+
+1190
+0:53:22,567 --> 0:53:24,0
+this administration.
+
+
+1191
+0:53:24,0 --> 0:53:26,533
+As Macon said, my name is
+Maura O'Neill and I joined
+
+
+1192
+0:53:26,533 --> 0:53:29,233
+administrator Raj
+Shah three years ago.
+
+
+1193
+0:53:29,233 --> 0:53:34,33
+At AID, the US Agency for
+International Development.
+
+
+1194
+0:53:34,33 --> 0:53:37,4
+USAID's development work
+is a key component of our
+
+
+1195
+0:53:37,4 --> 0:53:40,767
+foreign policy along side
+with the defense work that
+
+
+1196
+0:53:40,767 --> 0:53:43,9
+our military does and the
+diplomacy work that our
+
+
+1197
+0:53:43,9 --> 0:53:47,367
+state does, our State
+Department does.
+
+
+1198
+0:53:47,367 --> 0:53:50,233
+We know that our economic
+prosperity at home and our
+
+
+1199
+0:53:50,233 --> 0:53:54,266
+own national security is
+at risk when one third of
+
+
+1200
+0:53:54,266 --> 0:53:57,233
+the people in the world
+live in extreme poverty
+
+
+1201
+0:53:57,233 --> 0:53:59,633
+and a million more
+live under oppressive
+
+
+1202
+0:53:59,633 --> 0:54:3,166
+governments for which they
+don't have a hope to build
+
+
+1203
+0:54:3,166 --> 0:54:5,934
+a better life for their,
+or their children.
+
+
+1204
+0:54:5,934 --> 0:54:8,2
+Development as President
+Obama and Secretary
+
+
+1205
+0:54:8,2 --> 0:54:11,567
+Clinton note is essential
+to advancing American
+
+
+1206
+0:54:11,567 --> 0:54:15,3
+interests and solving
+global security problems
+
+
+1207
+0:54:15,3 --> 0:54:17,767
+as diplomacy in defense.
+
+
+1208
+0:54:17,767 --> 0:54:21,467
+Our job at USAID is to
+reduce that risk by being
+
+
+1209
+0:54:21,467 --> 0:54:24,567
+relentlessly focused
+on finding ways
+
+
+1210
+0:54:24,567 --> 0:54:26,834
+to deliver results.
+
+
+1211
+0:54:26,834 --> 0:54:29,7
+Faster and more efficient
+than traditional development.
+
+
+1212
+0:54:29,7 --> 0:54:33,7
+And humanitarian
+assistance has done.
+
+
+1213
+0:54:33,7 --> 0:54:36,7
+So come back with me to
+that first week of work
+
+
+1214
+0:54:36,7 --> 0:54:38,667
+that Raj and I were at.
+
+
+1215
+0:54:38,667 --> 0:54:42,967
+It was Wednesday, it
+was late afternoon.
+
+
+1216
+0:54:42,967 --> 0:54:45,7
+And across, flashed across
+our screens the
+
+
+1217
+0:54:45,7 --> 0:54:48,133
+Haiti Earthquake. 7.0.
+
+
+1218
+0:54:48,133 --> 0:54:55,1
+Turns out it ends up being
+the most, the largest
+
+
+1219
+0:54:55,1 --> 0:54:57,734
+urban disaster in
+modern history.
+
+
+1220
+0:54:57,734 --> 0:55:0,333
+It effected a third
+of the population.
+
+
+1221
+0:55:0,333 --> 0:55:3,333
+And it claimed all, nearly
+a quarter of a million
+
+
+1222
+0:55:3,333 --> 0:55:4,734
+peoples lives.
+
+
+1223
+0:55:4,734 --> 0:55:7,367
+Since it was dusk, it
+would be morning before we
+
+
+1224
+0:55:7,367 --> 0:55:9,3
+could assess the damage.
+
+
+1225
+0:55:9,3 --> 0:55:11,433
+Could we land planes?
+
+
+1226
+0:55:11,433 --> 0:55:12,4
+Could we dock ships?
+
+
+1227
+0:55:12,4 --> 0:55:14,7
+How were we going to
+get help down there?
+
+
+1228
+0:55:14,7 --> 0:55:16,266
+We worked all night.
+
+
+1229
+0:55:16,266 --> 0:55:18,266
+It was the first of many.
+
+
+1230
+0:55:18,266 --> 0:55:20,433
+We worked in lock step
+with other US government
+
+
+1231
+0:55:20,433 --> 0:55:24,9
+agencies and our
+military to help Haiti.
+
+
+1232
+0:55:24,9 --> 0:55:28,7
+The earthquake left a
+government in rubble, an
+
+
+1233
+0:55:28,7 --> 0:55:31,834
+economy in shambles and
+people living in make
+
+
+1234
+0:55:31,834 --> 0:55:35,934
+shift camps coping
+with enormous loss.
+
+
+1235
+0:55:35,934 --> 0:55:38,767
+It also caused
+a cash crisis.
+
+
+1236
+0:55:38,767 --> 0:55:40,9
+The earthquake destroyed
+nearly a third of all of
+
+
+1237
+0:55:40,9 --> 0:55:45,633
+the branch, bank
+branches, and the ATM's.
+
+
+1238
+0:55:45,633 --> 0:55:49,2
+But for over 90 percent of
+the Haitians, who didn't
+
+
+1239
+0:55:49,2 --> 0:55:50,433
+have access to either
+one of those before the
+
+
+1240
+0:55:50,433 --> 0:55:53,266
+earthquake, their life
+savings went down
+
+
+1241
+0:55:53,266 --> 0:55:54,333
+with their house.
+
+
+1242
+0:55:54,333 --> 0:55:58,767
+Their cash was buried
+hopelessly under thousands
+
+
+1243
+0:55:58,767 --> 0:56:1,5
+and thousands of
+pounds of rubble.
+
+
+1244
+0:56:1,5 --> 0:56:7,4
+So here they were with no ability to actually buy anything.
+
+
+1245
+0:56:7,4 --> 0:56:9,8
+So imagine for a minute,
+what it meant if your
+
+
+1246
+0:56:9,8 --> 0:56:13,266
+savings were wiped
+out in a second.
+
+
+1247
+0:56:13,266 --> 0:56:15,767
+Walk with me and walk with
+the people in Haiti for a
+
+
+1248
+0:56:15,767 --> 0:56:19,834
+second as we put
+ourselves in their shoes.
+
+
+1249
+0:56:19,834 --> 0:56:21,967
+Their house has been
+destroyed, a loved one has
+
+
+1250
+0:56:21,967 --> 0:56:25,633
+probably been killed,
+everything around you
+
+
+1251
+0:56:25,633 --> 0:56:27,533
+seems to have crumbled.
+
+
+1252
+0:56:27,533 --> 0:56:30,1
+And because your entire
+life's worth is your
+
+
+1253
+0:56:30,1 --> 0:56:32,266
+assets and your cash,
+has been swept away
+
+
+1254
+0:56:32,266 --> 0:56:33,867
+with the destruction.
+
+
+1255
+0:56:33,867 --> 0:56:35,767
+You have no ability
+to buy food.
+
+
+1256
+0:56:35,767 --> 0:56:37,633
+You have no ability
+to buy water.
+
+
+1257
+0:56:37,633 --> 0:56:40,166
+And you have no ability
+to buy any supplies to
+
+
+1258
+0:56:40,166 --> 0:56:42,4
+rebuild your house.
+
+
+1259
+0:56:42,4 --> 0:56:45,767
+This cash crisis was one
+of the least understood
+
+
+1260
+0:56:45,767 --> 0:56:49,867
+but hugely damaging
+effects of the earthquake.
+
+
+1261
+0:56:49,867 --> 0:56:53,0
+I often think about this
+story and think how lucky
+
+
+1262
+0:56:53,0 --> 0:56:57,0
+you and I are to live in
+a place that has a safe
+
+
+1263
+0:56:57,0 --> 0:57:0,433
+place to store our money.
+
+
+1264
+0:57:0,433 --> 0:57:3,333
+At AID, we know that
+financial inclusion and
+
+
+1265
+0:57:3,333 --> 0:57:6,66
+financial infrastructure
+is critical for families
+
+
+1266
+0:57:6,66 --> 0:57:7,967
+and economies to grow.
+
+
+1267
+0:57:7,967 --> 0:57:12,633
+In our, in Haiti, where
+mobile phones were the
+
+
+1268
+0:57:12,633 --> 0:57:14,734
+only thing left standing
+at the end of this
+
+
+1269
+0:57:14,734 --> 0:57:18,967
+earthquake, we thought
+what if we could turn
+
+
+1270
+0:57:18,967 --> 0:57:20,133
+every phone into a wallet?
+
+
+1271
+0:57:20,133 --> 0:57:21,734
+A cash register?
+
+
+1272
+0:57:21,734 --> 0:57:23,667
+A bank branch?
+
+
+1273
+0:57:23,667 --> 0:57:26,233
+President Obama had
+challenged us to create a
+
+
+1274
+0:57:26,233 --> 0:57:29,967
+world in which AID and aid
+is no longer necessary.
+
+
+1275
+0:57:29,967 --> 0:57:33,133
+This was the kind of game
+changing innovation that
+
+
+1276
+0:57:33,133 --> 0:57:35,633
+was going to be necessary.
+
+
+1277
+0:57:35,633 --> 0:57:38,9
+Priya Jaisinghani and I,
+she is the Director of our
+
+
+1278
+0:57:38,9 --> 0:57:42,967
+Mobile Solutions Team at
+USAID, lead an effort with
+
+
+1279
+0:57:42,967 --> 0:57:45,367
+the Bill and Melinda
+Gates Foundation.
+
+
+1280
+0:57:45,367 --> 0:57:48,967
+The USAID Haiti office and
+local companies to build a
+
+
+1281
+0:57:48,967 --> 0:57:51,266
+mobile monies platform
+in Haiti months
+
+
+1282
+0:57:51,266 --> 0:57:53,333
+after the earthquake.
+
+
+1283
+0:57:53,333 --> 0:57:56,233
+I was in Haiti just last
+month and excited to tell
+
+
+1284
+0:57:56,233 --> 0:57:57,767
+you about the progress.
+
+
+1285
+0:57:57,767 --> 0:58:0,767
+The Haitians celebrated
+the five millionth mobile
+
+
+1286
+0:58:0,767 --> 0:58:3,533
+money transaction in
+less than two years.
+
+
+1287
+0:58:3,533 --> 0:58:5,633
+So we have a long way
+to go in rebuilding the
+
+
+1288
+0:58:5,633 --> 0:58:8,166
+country and people
+rebuilding their lives,
+
+
+1289
+0:58:8,166 --> 0:58:10,433
+but we have a financial
+infrastructure that is
+
+
+1290
+0:58:10,433 --> 0:58:12,266
+beginning to work.
+
+
+1291
+0:58:12,266 --> 0:58:14,834
+To better explain why this
+is important and what it
+
+
+1292
+0:58:14,834 --> 0:58:19,7
+means, let me introduce
+you to -- so this is what
+
+
+1293
+0:58:19,7 --> 0:58:23,333
+a lot of the ATM's and
+bank branches look like
+
+
+1294
+0:58:23,333 --> 0:58:25,9
+the day after
+the earthquake.
+
+
+1295
+0:58:25,9 --> 0:58:28,8
+So let me introduce
+you to Martine.
+
+
+1296
+0:58:28,8 --> 0:58:31,1
+Before the earth -- after
+the earthquake she had to
+
+
+1297
+0:58:31,1 --> 0:58:34,1
+move 75 miles north of
+Port Au Prince to live
+
+
+1298
+0:58:34,1 --> 0:58:35,3
+with her family.
+
+
+1299
+0:58:35,3 --> 0:58:37,467
+Taking only what
+she could carry.
+
+
+1300
+0:58:37,467 --> 0:58:39,867
+She made a living by
+selling food, soaps,
+
+
+1301
+0:58:39,867 --> 0:58:43,33
+sponges, and other
+miscellaneous items.
+
+
+1302
+0:58:43,33 --> 0:58:45,333
+She made a few dollars
+here and there.
+
+
+1303
+0:58:45,333 --> 0:58:47,2
+But she didn't have
+anywhere to put it.
+
+
+1304
+0:58:47,2 --> 0:58:49,266
+She carried around
+a bag of cash,
+
+
+1305
+0:58:49,266 --> 0:58:51,166
+she stuffed it in her clothes.
+
+
+1306
+0:58:51,166 --> 0:58:53,133
+But she lived in
+a state of fear.
+
+
+1307
+0:58:53,133 --> 0:58:56,433
+Worrying every day that
+a thief or a stranger or
+
+
+1308
+0:58:56,433 --> 0:59:0,834
+maybe somebody that had a
+little less than her would
+
+
+1309
+0:59:0,834 --> 0:59:3,467
+steal that sum of
+money from her.
+
+
+1310
+0:59:3,467 --> 0:59:6,767
+This began to change when
+Martine participated in
+
+
+1311
+0:59:6,767 --> 0:59:9,8
+one of USAID programs
+with Mercy Corp.
+
+
+1312
+0:59:9,8 --> 0:59:12,867
+She learned how to use
+mobile money and she sent
+
+
+1313
+0:59:12,867 --> 0:59:16,233
+it back and forth with her
+family in Port Au Prince.
+
+
+1314
+0:59:16,233 --> 0:59:18,533
+As a result of the
+training she received, she
+
+
+1315
+0:59:18,533 --> 0:59:21,8
+decided to start using
+mobile money in her business.
+
+
+1316
+0:59:21,8 --> 0:59:24,233
+To more efficiently
+collect fees, to deposit
+
+
+1317
+0:59:24,233 --> 0:59:26,767
+her money in the bank,
+and for her products.
+
+
+1318
+0:59:26,767 --> 0:59:30,834
+Just like we use credit
+cards in our businesses today.
+
+
+1319
+0:59:30,834 --> 0:59:33,133
+Martine told us that
+mobile money is like
+
+
+1320
+0:59:33,133 --> 0:59:35,834
+a safe for me.
+
+
+1321
+0:59:35,834 --> 0:59:37,7
+Like a safe,
+it makes Martine feel
+
+
+1322
+0:59:37,7 --> 0:59:40,1
+secure and empowered.
+
+
+1323
+0:59:40,1 --> 0:59:42,467
+Like a safe, it keeps
+money close so Martine
+
+
+1324
+0:59:42,467 --> 0:59:45,1
+doesn't have to
+travel to a bank.
+
+
+1325
+0:59:45,1 --> 0:59:47,433
+And like a safe, it
+enables Martine to grow
+
+
+1326
+0:59:47,433 --> 0:59:50,166
+her business and
+support her future.
+
+
+1327
+0:59:50,166 --> 0:59:53,533
+Martine's story is not
+that unique in Haiti.
+
+
+1328
+0:59:53,533 --> 0:59:56,1
+And electronic payments
+won't solve all
+
+
+1329
+0:59:56,1 --> 0:59:57,6
+of her problems.
+
+
+1330
+0:59:57,6 --> 1:0:0,834
+But it is helping
+her in profound ways.
+
+
+1331
+1:0:0,834 --> 1:0:2,967
+If you only remember three
+things from this talk
+
+
+1332
+1:0:2,967 --> 1:0:6,734
+today, I want you to
+remember that electronic
+
+
+1333
+1:0:6,734 --> 1:0:10,66
+payments reduce
+transaction costs, they
+
+
+1334
+1:0:10,66 --> 1:0:12,4
+reduce corruption and
+violence, and they enable
+
+
+1335
+1:0:12,4 --> 1:0:14,367
+businesses to grow.
+
+
+1336
+1:0:14,367 --> 1:0:16,8
+And these are the
+conditions necessary if
+
+
+1337
+1:0:16,8 --> 1:0:22,333
+donors to create a world
+where donors are not needed.
+
+
+1338
+1:0:22,333 --> 1:0:25,333
+Now think about the
+US for a moment.
+
+
+1339
+1:0:25,333 --> 1:0:28,233
+The industrial revolution
+wouldn't have happened
+
+
+1340
+1:0:28,233 --> 1:0:31,266
+without thriving
+commercial banks like Bank
+
+
+1341
+1:0:31,266 --> 1:0:33,6
+of America, Wells Fargo,
+and thousands of community
+
+
+1342
+1:0:33,6 --> 1:0:36,0
+banks around the US.
+
+
+1343
+1:0:36,0 --> 1:0:38,7
+EBay might not have been
+the eBay powerhouse that
+
+
+1344
+1:0:38,7 --> 1:0:41,4
+we know today if it
+weren't for Pay Pal.
+
+
+1345
+1:0:41,4 --> 1:0:44,233
+Our economy depends on
+the ability to send and
+
+
+1346
+1:0:44,233 --> 1:0:46,7
+receive monies seamlessly.
+
+
+1347
+1:0:46,7 --> 1:0:49,2
+Your livelihood and mine
+depend on the ability to
+
+
+1348
+1:0:49,2 --> 1:0:53,667
+save, invest money, and
+use credit and debt cards
+
+
+1349
+1:0:53,667 --> 1:0:55,567
+in your wallet.
+
+
+1350
+1:0:55,567 --> 1:0:57,834
+But we also know that
+this kind of thing
+
+
+1351
+1:0:57,834 --> 1:0:59,133
+just doesn't happen.
+
+
+1352
+1:0:59,133 --> 1:1:1,9
+Think back to the history
+of the credit card.
+
+
+1353
+1:1:1,9 --> 1:1:4,7
+It actually took 50 years
+for the credit cards to
+
+
+1354
+1:1:4,7 --> 1:1:7,567
+really become
+ubiquitous in the US.
+
+
+1355
+1:1:7,567 --> 1:1:9,734
+People didn't trust credit
+cards, at least they
+
+
+1356
+1:1:9,734 --> 1:1:12,0
+didn't know whether they
+should trust credit cards.
+
+
+1357
+1:1:12,0 --> 1:1:14,934
+Not enough
+merchants took it.
+
+
+1358
+1:1:14,934 --> 1:1:18,233
+But we don't have 50 years
+to wait to get people out
+
+
+1359
+1:1:18,233 --> 1:1:20,633
+of extreme poverty and
+create new markets for
+
+
+1360
+1:1:20,633 --> 1:1:23,667
+American products.
+
+
+1361
+1:1:23,667 --> 1:1:27,4
+So let's see what is
+happening around the world.
+
+
+1362
+1:1:27,4 --> 1:1:30,533
+The technology exists,
+the innovation payments
+
+
+1363
+1:1:30,533 --> 1:1:32,433
+platform exist.
+
+
+1364
+1:1:32,433 --> 1:1:36,6
+And here is a picture of
+the place in the world
+
+
+1365
+1:1:36,6 --> 1:1:39,5
+that this is
+happening so well.
+
+
+1366
+1:1:39,5 --> 1:1:40,767
+And that is Kenya.
+
+
+1367
+1:1:40,767 --> 1:1:43,233
+And we are honored to have
+the ambassador to the US
+
+
+1368
+1:1:43,233 --> 1:1:45,567
+from Kenya joining
+us here to today.
+
+
+1369
+1:1:45,567 --> 1:1:49,633
+Kenya's M-Pesa mobile
+money product, 80 percent
+
+
+1370
+1:1:49,633 --> 1:1:52,0
+of Kenyan adults use it
+as a way to store
+
+
+1371
+1:1:52,0 --> 1:1:53,367
+and transfer money.
+
+
+1372
+1:1:53,367 --> 1:1:55,633
+And they have done this
+in just five years.
+
+
+1373
+1:1:55,633 --> 1:1:57,233
+Not 50 years.
+
+
+1374
+1:1:57,233 --> 1:1:59,467
+80 percent of the
+adults are using it.
+
+
+1375
+1:1:59,467 --> 1:2:1,433
+But this is one of the
+few platforms to
+
+
+1376
+1:2:1,433 --> 1:2:3,367
+reach mass scale.
+
+
+1377
+1:2:3,367 --> 1:2:5,667
+There is about 130
+deployments of mobile
+
+
+1378
+1:2:5,667 --> 1:2:8,6
+money and electronic
+platforms world wide that
+
+
+1379
+1:2:8,6 --> 1:2:9,533
+are stalled.
+
+
+1380
+1:2:9,533 --> 1:2:11,467
+They are stalled for
+various reasons.
+
+
+1381
+1:2:11,467 --> 1:2:13,5
+But in large part they are
+stalled, because there
+
+
+1382
+1:2:13,5 --> 1:2:17,633
+aren't any anchor tenants
+to this mobile money platform.
+
+
+1383
+1:2:17,633 --> 1:2:19,333
+They are -- it is
+a network effect.
+
+
+1384
+1:2:19,333 --> 1:2:22,1
+There needs to be huge
+volumes of transactions to
+
+
+1385
+1:2:22,1 --> 1:2:25,1
+support the kinds of
+agents on every corner
+
+
+1386
+1:2:25,1 --> 1:2:27,333
+just like there was to
+have an ATM machine
+
+
+1387
+1:2:27,333 --> 1:2:28,6
+on every corner.
+
+
+1388
+1:2:28,6 --> 1:2:32,367
+So we need to and can jump
+start these efforts to
+
+
+1389
+1:2:32,367 --> 1:2:35,967
+find these anchor tenants
+for that mobile money mall.
+
+
+1390
+1:2:35,967 --> 1:2:38,967
+Until today, cash was
+the only alternative.
+
+
+1391
+1:2:38,967 --> 1:2:41,2
+And for those of us who
+live in the US, it seems
+
+
+1392
+1:2:41,2 --> 1:2:44,433
+pretty easy, we go to
+the ATM, we get cash.
+
+
+1393
+1:2:44,433 --> 1:2:47,133
+We don't put our lives at
+risk as we are storing our
+
+
+1394
+1:2:47,133 --> 1:2:52,4
+money in our pockets or
+have, or have to use our
+
+
+1395
+1:2:52,4 --> 1:2:55,934
+credit cards to actually
+buy things that are remote.
+
+
+1396
+1:2:55,934 --> 1:2:58,667
+But at this unique moment
+in history when technology
+
+
+1397
+1:2:58,667 --> 1:3:0,867
+allows us to envision a
+world where everybody can
+
+
+1398
+1:3:0,867 --> 1:3:4,2
+soon keep their money
+electronically, safely,
+
+
+1399
+1:3:4,2 --> 1:3:6,333
+soundly and together build
+a better and stronger
+
+
+1400
+1:3:6,333 --> 1:3:9,66
+economy, that is
+what we are about.
+
+
+1401
+1:3:9,66 --> 1:3:13,166
+So I am so excited to
+launch the 20 Percent
+
+
+1402
+1:3:13,166 --> 1:3:14,7
+Initiative today.
+
+
+1403
+1:3:14,7 --> 1:3:17,834
+Which aims to reduce 20
+percent of the cost with
+
+
+1404
+1:3:17,834 --> 1:3:21,4
+cash based programs across
+the US government and put
+
+
+1405
+1:3:21,4 --> 1:3:23,4
+these tools in the hands
+of the poorest people
+
+
+1406
+1:3:23,4 --> 1:3:24,767
+in the world.
+
+
+1407
+1:3:24,767 --> 1:3:28,8
+At USAID we are proud that
+we have taken bold steps
+
+
+1408
+1:3:28,8 --> 1:3:31,166
+to motivate a change in
+the way our partners and
+
+
+1409
+1:3:31,166 --> 1:3:32,834
+we do business.
+
+
+1410
+1:3:32,834 --> 1:3:34,8
+We continue to use our
+budget as a force for
+
+
+1411
+1:3:34,8 --> 1:3:37,867
+good, creating incentives
+that encourage partners to
+
+
+1412
+1:3:37,867 --> 1:3:40,133
+implement new
+payment methods.
+
+
+1413
+1:3:40,133 --> 1:3:42,633
+The Catholic Relief
+Services in Haiti when
+
+
+1414
+1:3:42,633 --> 1:3:45,8
+they instituted paying
+their salaries through
+
+
+1415
+1:3:45,8 --> 1:3:49,1
+mobile money, reduced
+their administrative costs
+
+
+1416
+1:3:49,1 --> 1:3:50,633
+by 60 percent.
+
+
+1417
+1:3:50,633 --> 1:3:54,266
+So we think that
+20 percent is a,
+
+
+1418
+1:3:54,266 --> 1:3:55,667
+is a huge goal.
+
+
+1419
+1:3:55,667 --> 1:3:59,3
+But you know, we have an
+awesome set of other teams
+
+
+1420
+1:3:59,3 --> 1:4:1,934
+here and we have got to
+beat them on some metrics.
+
+
+1421
+1:4:1,934 --> 1:4:5,66
+And Shawn released his
+data today, so we can't
+
+
+1422
+1:4:5,66 --> 1:4:6,233
+actually do that.
+
+
+1423
+1:4:6,233 --> 1:4:11,166
+So we think that 20
+percent is, is a great goal.
+
+
+1424
+1:4:11,166 --> 1:4:15,66
+But we also as
+aspire to do higher.
+
+
+1425
+1:4:15,66 --> 1:4:17,3
+We are prouder still that
+the White House wants to
+
+
+1426
+1:4:17,3 --> 1:4:20,233
+expand this initiative
+across the US government.
+
+
+1427
+1:4:20,233 --> 1:4:21,667
+Like the Department
+Of Defense.
+
+
+1428
+1:4:21,667 --> 1:4:24,633
+Which has said it needs to
+get cash off of the battle
+
+
+1429
+1:4:24,633 --> 1:4:28,0
+field to keep our
+soldiers safe.
+
+
+1430
+1:4:28,0 --> 1:4:31,266
+In Afghanistan where
+police officers began to
+
+
+1431
+1:4:31,266 --> 1:4:33,867
+get paid through mobile
+money instead of a series
+
+
+1432
+1:4:33,867 --> 1:4:36,867
+of cash payments, they
+discovered that they had a
+
+
+1433
+1:4:36,867 --> 1:4:38,633
+30 percent raise.
+
+
+1434
+1:4:38,633 --> 1:4:40,7
+They thought they got that
+actually from the
+
+
+1435
+1:4:40,7 --> 1:4:42,0
+mobile money company.
+
+
+1436
+1:4:42,0 --> 1:4:44,0
+But in fact that was
+actually the amount of
+
+
+1437
+1:4:44,0 --> 1:4:46,767
+sticky fingers that were
+happening from the time
+
+
+1438
+1:4:46,767 --> 1:4:49,6
+the cash was deployed to
+the time they got it
+
+
+1439
+1:4:49,6 --> 1:4:50,8
+in their hands.
+
+
+1440
+1:4:50,8 --> 1:4:54,3
+A really important thing
+about this is, when they
+
+
+1441
+1:4:54,3 --> 1:4:56,934
+were getting 30 percent
+less, they were getting
+
+
+1442
+1:4:56,934 --> 1:5:0,1
+paid less than the Taliban
+was willing to offer them
+
+
+1443
+1:5:0,1 --> 1:5:2,1
+to come to the other side.
+
+
+1444
+1:5:2,1 --> 1:5:5,0
+When they got that 30
+percent raise, the money
+
+
+1445
+1:5:5,0 --> 1:5:7,266
+that they should have had
+in the first place, they
+
+
+1446
+1:5:7,266 --> 1:5:9,166
+were getting paid more
+than the Taliban was
+
+
+1447
+1:5:9,166 --> 1:5:10,767
+willing to offer them.
+
+
+1448
+1:5:10,767 --> 1:5:13,6
+So if we don't think this
+has huge implications not
+
+
+1449
+1:5:13,6 --> 1:5:16,834
+just for disaster but for
+national security as well
+
+
+1450
+1:5:16,834 --> 1:5:19,767
+as Americans to sell
+products over seas, the
+
+
+1451
+1:5:19,767 --> 1:5:23,967
+effect of this kind of
+payments platform, and the
+
+
+1452
+1:5:23,967 --> 1:5:28,0
+efficiencies and
+opportunities are enormous.
+
+
+1453
+1:5:28,0 --> 1:5:31,166
+So moving from cash to
+electronic helps us, helps
+
+
+1454
+1:5:31,166 --> 1:5:33,467
+our security, it creates
+new products, and makes
+
+
+1455
+1:5:33,467 --> 1:5:36,133
+the world more safe.
+
+
+1456
+1:5:36,133 --> 1:5:38,834
+So we say to ourselves,
+well, this is so simple.
+
+
+1457
+1:5:38,834 --> 1:5:39,967
+We thought this too.
+
+
+1458
+1:5:39,967 --> 1:5:43,166
+We said okay, well, we'll
+just -- how many programs
+
+
+1459
+1:5:43,166 --> 1:5:46,533
+could we possibly have
+doing cash at USAID globally?
+
+
+1460
+1:5:46,533 --> 1:5:48,66
+We are in almost a
+hundred countries.
+
+
+1461
+1:5:48,66 --> 1:5:52,166
+Well, we had a 140
+projects that used cash
+
+
+1462
+1:5:52,166 --> 1:5:54,433
+because it is hard to
+actually transport
+
+
+1463
+1:5:54,433 --> 1:5:56,667
+anything else
+around the world.
+
+
+1464
+1:5:56,667 --> 1:5:59,633
+So we got into this and
+we found this is actually
+
+
+1465
+1:5:59,633 --> 1:6:2,66
+pretty darn complicated.
+
+
+1466
+1:6:2,66 --> 1:6:6,3
+It sort of looks like
+navigating this slide.
+
+
+1467
+1:6:6,3 --> 1:6:8,667
+It didn't take us long to
+realize that there were
+
+
+1468
+1:6:8,667 --> 1:6:11,2
+deep challenges to
+internal processes,
+
+
+1469
+1:6:11,2 --> 1:6:14,266
+contract language, audit
+requirements, internal
+
+
+1470
+1:6:14,266 --> 1:6:18,2
+champions, and oh, yes, we
+wanted to make sure that
+
+
+1471
+1:6:18,2 --> 1:6:20,333
+terrorists and money
+launderers around the
+
+
+1472
+1:6:20,333 --> 1:6:23,834
+world couldn't actually use this new financial structure.
+
+
+1473
+1:6:23,834 --> 1:6:25,7
+So we have been working
+very closely with our US
+
+
+1474
+1:6:25,7 --> 1:6:27,5
+Treasury colleagues.
+
+
+1475
+1:6:27,5 --> 1:6:29,233
+And other things I
+won't bore you with.
+
+
+1476
+1:6:29,233 --> 1:6:31,2
+But it is a challenge that
+cuts across the banking
+
+
+1477
+1:6:31,2 --> 1:6:34,66
+industry, the payments
+industry, technology,
+
+
+1478
+1:6:34,66 --> 1:6:37,4
+consumer protection,
+and a whole lot of other
+
+
+1479
+1:6:37,4 --> 1:6:39,5
+sets of bureaucracies.
+
+
+1480
+1:6:39,5 --> 1:6:43,5
+So the White House and us
+went on a hunt to find an
+
+
+1481
+1:6:43,5 --> 1:6:46,467
+entrepreneur with the
+experience and skill to
+
+
+1482
+1:6:46,467 --> 1:6:48,4
+join Priya, to join
+[inaudible] and others to
+
+
+1483
+1:6:48,4 --> 1:6:51,33
+tackle this
+multi-faceted challenge.
+
+
+1484
+1:6:51,33 --> 1:6:53,367
+So I like to introduce
+Karl Mehta, our
+
+
+1485
+1:6:53,367 --> 1:6:55,266
+Presidential
+innovation fellow.
+
+
+1486
+1:6:55,266 --> 1:7:0,3
+[applause]
+
+
+1487
+1:7:0,3 --> 1:7:2,767
+We are really
+excited to have him.
+
+
+1488
+1:7:2,767 --> 1:7:4,734
+Karl is a Silicon Valley
+based entrepreneur from
+
+
+1489
+1:7:4,734 --> 1:7:6,367
+Fremont, California.
+
+
+1490
+1:7:6,367 --> 1:7:8,66
+He is an engineer,inventor.
+
+
+1491
+1:7:8,66 --> 1:7:9,8
+He started three
+companies.
+
+
+1492
+1:7:9,8 --> 1:7:14,166
+His last one, PlaySpan, he
+worked -- that he sold to
+
+
+1493
+1:7:14,166 --> 1:7:16,533
+Visa, he worked with
+companies like Warner
+
+
+1494
+1:7:16,533 --> 1:7:19,667
+Brothers, Nickelodeon,
+Disney and Facebook.
+
+
+1495
+1:7:19,667 --> 1:7:22,1
+So you may have actually
+used if you brought,
+
+
+1496
+1:7:22,1 --> 1:7:24,867
+bought some virtual goods
+on those sites, or you
+
+
+1497
+1:7:24,867 --> 1:7:26,934
+bought some real goods you
+may have actually used the
+
+
+1498
+1:7:26,934 --> 1:7:28,967
+payment platform of Karl.
+
+
+1499
+1:7:28,967 --> 1:7:31,8
+So we are so excited
+to have you, Karl.
+
+
+1500
+1:7:31,8 --> 1:7:34,1
+And we think his expertise
+is just going to be
+
+
+1501
+1:7:34,1 --> 1:7:35,9
+essential to us
+accelerating the
+
+
+1502
+1:7:35,9 --> 1:7:38,7
+development of these
+platforms world wide and
+
+
+1503
+1:7:38,7 --> 1:7:40,3
+the efficiencies that
+we can gain in our
+
+
+1504
+1:7:40,3 --> 1:7:42,433
+development program.
+
+
+1505
+1:7:42,433 --> 1:7:44,967
+So a minute ago I
+mentioned that USAID is
+
+
+1506
+1:7:44,967 --> 1:7:46,1
+proud of our work.
+
+
+1507
+1:7:46,1 --> 1:7:47,233
+We are.
+
+
+1508
+1:7:47,233 --> 1:7:50,433
+But actually if we are
+going to move from a cash
+
+
+1509
+1:7:50,433 --> 1:7:52,4
+based world to
+electronic world,
+
+
+1510
+1:7:52,4 --> 1:7:54,166
+we have to build a movement.
+
+
+1511
+1:7:54,166 --> 1:7:55,867
+We have to build a
+movement across the US
+
+
+1512
+1:7:55,867 --> 1:7:58,6
+Government hand in hand
+with the public sector and
+
+
+1513
+1:7:58,6 --> 1:8:0,767
+the private sector
+to get out of cash.
+
+
+1514
+1:8:0,767 --> 1:8:3,0
+And that is where
+you come involved.
+
+
+1515
+1:8:3,0 --> 1:8:5,467
+If you work for a company
+that does business over
+
+
+1516
+1:8:5,467 --> 1:8:8,4
+seas, if you worship at a
+place that does charitable
+
+
+1517
+1:8:8,4 --> 1:8:11,4
+work over seas, if you
+know an NGO that works
+
+
+1518
+1:8:11,4 --> 1:8:14,767
+globally, ask them to
+start using electronic payments.
+
+
+1519
+1:8:14,767 --> 1:8:15,834
+Join us.
+
+
+1520
+1:8:15,834 --> 1:8:18,7
+Build this mobile money
+and this electronics
+
+
+1521
+1:8:18,7 --> 1:8:23,3
+payments platform
+and let us realize at
+
+
+1522
+1:8:23,3 --> 1:8:26,834
+ProjectTwenty, the kinds
+of opportunities that I
+
+
+1523
+1:8:26,834 --> 1:8:28,233
+have described today.
+
+
+1524
+1:8:28,233 --> 1:8:31,734
+So join me in thanking
+Karl and come help us
+
+
+1525
+1:8:31,734 --> 1:8:33,233
+revolutionize the world.
+
+
+1526
+1:8:33,233 --> 1:8:39,767
+[applause]
+
+
+1527
+1:8:39,767 --> 1:8:41,266
+So I would now
+like to introduce my good
+
+
+1528
+1:8:41,266 --> 1:8:46,0
+friend and most amazing
+chief technology officer, for
+
+
+1529
+1:8:46,0 --> 1:8:47,66
+the country, Todd Park.
+
+
+1530
+1:8:47,66 --> 1:8:49,3
+[applause]
+
+
+1531
+1:8:49,3 --> 1:8:51,967
+Todd Park:
+Thank you.
+
+
+1532
+1:8:51,967 --> 1:8:57,1
+Hello. I just got the news flash that the hash tag innovate.gov
+
+
+1533
+1:8:57,1 --> 1:8:59,367
+is trending across the United States of America.
+
+
+1534
+1:8:59,367 --> 1:9:2,6
+So join the conversation,
+join the fun on Twitter.
+
+
+1535
+1:9:2,6 --> 1:9:4,767
+So it is my great pleasure
+to talk with you about the
+
+
+1536
+1:9:4,767 --> 1:9:7,533
+5th and final Presidential
+Innovation Fellows
+
+
+1537
+1:9:7,533 --> 1:9:10,333
+Project, the Open Data
+Initiatives Program.
+
+
+1538
+1:9:10,333 --> 1:9:12,734
+And I would like to start
+by talking about the weather.
+
+
+1539
+1:9:12,734 --> 1:9:15,834
+Or more specifically
+weather data.
+
+
+1540
+1:9:15,834 --> 1:9:17,834
+So decades ago, the
+government made a key
+
+
+1541
+1:9:17,834 --> 1:9:19,567
+decision which was to
+actually make all of the
+
+
+1542
+1:9:19,567 --> 1:9:22,1
+weather data it was
+collecting downloadable
+
+
+1543
+1:9:22,1 --> 1:9:25,233
+electronically by
+anybody for free.
+
+
+1544
+1:9:25,233 --> 1:9:28,6
+What then happened is that
+free fuel powered enormous
+
+
+1545
+1:9:28,6 --> 1:9:30,667
+rising tide of innovation
+in the project.
+
+
+1546
+1:9:30,667 --> 1:9:32,834
+Entrepreneurs, who picked
+up that data and turned it
+
+
+1547
+1:9:32,834 --> 1:9:35,233
+into the Weather Channel,
+Weather.Com, iPhone
+
+
+1548
+1:9:35,233 --> 1:9:37,4
+weather apps, weather
+insurance and much more.
+
+
+1549
+1:9:37,4 --> 1:9:39,9
+Growing the economy,
+creating jobs, and adding
+
+
+1550
+1:9:39,9 --> 1:9:41,834
+a lot of value to
+all of our lives.
+
+
+1551
+1:9:41,834 --> 1:9:43,9
+Government ran a similar
+play in the 80's when
+
+
+1552
+1:9:43,9 --> 1:9:46,266
+President Reagan began
+the process of liberating
+
+
+1553
+1:9:46,266 --> 1:9:48,367
+access, civilly and
+commercial access to the
+
+
+1554
+1:9:48,367 --> 1:9:51,2
+global positioning system. GPS.
+
+
+1555
+1:9:51,2 --> 1:9:53,233
+Which, of course, now
+has spun everything from
+
+
+1556
+1:9:53,233 --> 1:9:56,166
+navigation systems to
+precision crop farming to
+
+
+1557
+1:9:56,166 --> 1:9:58,567
+four square on your iPhone
+and everything in between.
+
+
+1558
+1:9:58,567 --> 1:10:0,533
+In fact, actually last
+year alone it is estimated
+
+
+1559
+1:10:0,533 --> 1:10:3,533
+that civilian and
+commercial access to GPS
+
+
+1560
+1:10:3,533 --> 1:10:7,533
+created $90 billion of
+value for the American economy.
+
+
+1561
+1:10:7,533 --> 1:10:9,834
+Growing jobs, growing the
+economy, and improving all
+
+
+1562
+1:10:9,834 --> 1:10:11,467
+of our lives in
+immeasurable ways.
+
+
+1563
+1:10:11,467 --> 1:10:13,66
+And so we love this play.
+
+
+1564
+1:10:13,66 --> 1:10:16,133
+We love this play of
+basically without
+
+
+1565
+1:10:16,133 --> 1:10:18,66
+legislation, without
+regulation, without
+
+
+1566
+1:10:18,66 --> 1:10:20,7
+actually really spending
+a ton of money, right,
+
+
+1567
+1:10:20,7 --> 1:10:22,867
+taking data that is
+sitting in the vault of
+
+
+1568
+1:10:22,867 --> 1:10:24,6
+the government that
+taxpayers have already
+
+
+1569
+1:10:24,6 --> 1:10:28,734
+paid for, and Jiu Jitsuing
+it into the public domain
+
+
+1570
+1:10:28,734 --> 1:10:30,867
+as machine readable
+fuel so the American
+
+
+1571
+1:10:30,867 --> 1:10:33,967
+entrepreneur can take
+and turn into magic.
+
+
+1572
+1:10:33,967 --> 1:10:36,633
+Turn into all kinds of new
+products, services that
+
+
+1573
+1:10:36,633 --> 1:10:38,8
+help improve American
+lives, create jobs, and
+
+
+1574
+1:10:38,8 --> 1:10:40,367
+grow the economy.
+
+
+1575
+1:10:40,367 --> 1:10:42,3
+So that is what the Open
+Data Initiatives Program
+
+
+1576
+1:10:42,3 --> 1:10:43,166
+is all about.
+
+
+1577
+1:10:43,166 --> 1:10:45,834
+It is expanding and
+accelerating the work to
+
+
+1578
+1:10:45,834 --> 1:10:48,967
+liberate data as fuel for
+American entrepreneurship
+
+
+1579
+1:10:48,967 --> 1:10:49,767
+and innovation.
+
+
+1580
+1:10:49,767 --> 1:10:52,333
+We are focused on
+these seven sectors.
+
+
+1581
+1:10:52,333 --> 1:10:54,567
+Health is actually an area
+where through the Health
+
+
+1582
+1:10:54,567 --> 1:10:56,433
+Data Initiative we have
+been liberating health
+
+
+1583
+1:10:56,433 --> 1:10:59,166
+related data, information
+resources for a few years
+
+
+1584
+1:10:59,166 --> 1:11:1,5
+now with hundreds of
+companies, large and
+
+
+1585
+1:11:1,5 --> 1:11:3,2
+small, taking that data
+and turning it into all
+
+
+1586
+1:11:3,2 --> 1:11:4,0
+kinds of products.
+
+
+1587
+1:11:4,0 --> 1:11:5,934
+It will help you pick the
+right hospital or doctor
+
+
+1588
+1:11:5,934 --> 1:11:6,7
+for your family.
+
+
+1589
+1:11:6,7 --> 1:11:8,633
+Connect to a clinical
+trial that can save your life.
+
+
+1590
+1:11:8,633 --> 1:11:10,1
+Help doctors deliver
+better care.
+
+
+1591
+1:11:10,1 --> 1:11:12,333
+Help you manage your
+asthma, using the latest
+
+
+1592
+1:11:12,333 --> 1:11:13,633
+medical knowledge
+and much more.
+
+
+1593
+1:11:13,633 --> 1:11:16,567
+We just kicked off in May,
+a Safety Date Initiative.
+
+
+1594
+1:11:16,567 --> 1:11:18,266
+We kicked off actually
+a couple of months ago
+
+
+1595
+1:11:18,266 --> 1:11:19,533
+Energy Data Initiative.
+
+
+1596
+1:11:19,533 --> 1:11:21,66
+An Education
+Data Initiative.
+
+
+1597
+1:11:21,66 --> 1:11:23,0
+I see folks on that team
+here in the room for the
+
+
+1598
+1:11:23,0 --> 1:11:24,66
+Department of Education.
+
+
+1599
+1:11:24,66 --> 1:11:25,734
+We will shortly be
+launching an Impact Data
+
+
+1600
+1:11:25,734 --> 1:11:28,433
+Initiative focused on non
+profit sector related data.
+
+
+1601
+1:11:28,433 --> 1:11:30,9
+Global Development Data
+Initiative focused on food
+
+
+1602
+1:11:30,9 --> 1:11:32,734
+security and
+other key topics.
+
+
+1603
+1:11:32,734 --> 1:11:34,9
+And a Finance Data
+Initiative as well.
+
+
+1604
+1:11:34,9 --> 1:11:39,1
+And the whole idea is not
+just to liberate data. Okay.
+
+
+1605
+1:11:39,1 --> 1:11:40,967
+Because data by
+itself is useless. Right.
+
+
+1606
+1:11:40,967 --> 1:11:43,367
+I can't feed
+my babies data.
+
+
+1607
+1:11:43,367 --> 1:11:45,433
+I can't pour data on a
+wound and heal it, right?
+
+
+1608
+1:11:45,433 --> 1:11:48,66
+I can't actually pour data
+on a road and fix it.
+
+
+1609
+1:11:48,66 --> 1:11:50,834
+Data is only useful
+if it is applied.
+
+
+1610
+1:11:50,834 --> 1:11:53,3
+So you do actually have to
+make new data available,
+
+
+1611
+1:11:53,3 --> 1:11:54,7
+that is actually
+very helpful.
+
+
+1612
+1:11:54,7 --> 1:11:57,6
+You also need to take
+existing public data, that
+
+
+1613
+1:11:57,6 --> 1:12:0,3
+may be available, but
+in books, PDF's, static
+
+
+1614
+1:12:0,3 --> 1:12:3,133
+websites that are useless
+to a developer, and
+
+
+1615
+1:12:3,133 --> 1:12:5,467
+actually make it available
+in forms that are useful
+
+
+1616
+1:12:5,467 --> 1:12:6,9
+to a developer. Right?
+
+
+1617
+1:12:6,9 --> 1:12:9,2
+Bulk down loadable files,
+you know, liquid machine,
+
+
+1618
+1:12:9,2 --> 1:12:11,1
+readable data, accessible
+through API's, basically
+
+
+1619
+1:12:11,1 --> 1:12:12,9
+forms that are
+usable by developers.
+
+
+1620
+1:12:12,9 --> 1:12:13,834
+You do that too.
+
+
+1621
+1:12:13,834 --> 1:12:16,367
+But if you just do that,
+you have accomplished
+
+
+1622
+1:12:16,367 --> 1:12:18,333
+actually some of what
+you need, but not all.
+
+
+1623
+1:12:18,333 --> 1:12:19,834
+And the last thing you
+need to do is you need to
+
+
+1624
+1:12:19,834 --> 1:12:22,734
+actually engage the people
+that you hope will use the
+
+
+1625
+1:12:22,734 --> 1:12:26,367
+data, will apply the data
+to create tangible benefit
+
+
+1626
+1:12:26,367 --> 1:12:27,3
+for the American people.
+
+
+1627
+1:12:27,3 --> 1:12:29,533
+Engage with the
+entrepreneurs, innovators,
+
+
+1628
+1:12:29,533 --> 1:12:31,6
+spread the word about the
+data that is available.
+
+
+1629
+1:12:31,6 --> 1:12:33,734
+Get their feedback on what
+can be improved about,
+
+
+1630
+1:12:33,734 --> 1:12:36,867
+what feedback actually
+would be useful to make a
+
+
+1631
+1:12:36,867 --> 1:12:39,567
+new data resources
+available so on and so forth.
+
+
+1632
+1:12:39,567 --> 1:12:41,4
+Celebrate what they are
+doing, spread the word
+
+
+1633
+1:12:41,4 --> 1:12:43,1
+about what they are doing,
+and catalyze a chain
+
+
+1634
+1:12:43,1 --> 1:12:46,7
+reaction of innovation
+that continually expands
+
+
+1635
+1:12:46,7 --> 1:12:48,533
+the array of services,
+products, features
+
+
+1636
+1:12:48,533 --> 1:12:50,9
+benefits, produced for the
+American people, produced
+
+
+1637
+1:12:50,9 --> 1:12:53,0
+by entrepreneurs using
+our data, in a way that
+
+
+1638
+1:12:53,0 --> 1:12:56,567
+actually improves lives
+and creates jobs.
+
+
+1639
+1:12:56,567 --> 1:12:58,5
+And so what does success
+actually look like at the
+
+
+1640
+1:12:58,5 --> 1:12:59,533
+end of the day?
+
+
+1641
+1:12:59,533 --> 1:13:3,5
+Success looks like Dr.
+Pete Hudson, emergency
+
+
+1642
+1:13:3,5 --> 1:13:5,567
+room doc and entrepreneur.
+
+
+1643
+1:13:5,567 --> 1:13:7,934
+And Pete Hudson, in fact,
+happens to be here.
+
+
+1644
+1:13:7,934 --> 1:13:9,66
+What do you know?
+
+
+1645
+1:13:9,66 --> 1:13:10,734
+He is on the stage,
+Dr. Pete Hudson.
+
+
+1646
+1:13:10,734 --> 1:13:16,7
+[applause]
+
+
+1647
+1:13:16,7 --> 1:13:17,7
+Dr. Pete Hudson:
+Well, thank you,
+
+
+1648
+1:13:17,7 --> 1:13:20,633
+Todd, and thank you very
+much for having me here at
+
+
+1649
+1:13:20,633 --> 1:13:22,333
+this very exciting
+event here today.
+
+
+1650
+1:13:22,333 --> 1:13:25,133
+Lots of energy
+in this room.
+
+
+1651
+1:13:25,133 --> 1:13:28,333
+And Todd asked me to come
+here to talk to you about
+
+
+1652
+1:13:28,333 --> 1:13:30,8
+the perspective as an
+entrepreneur from the
+
+
+1653
+1:13:30,8 --> 1:13:33,734
+private sector who has
+worked with open data from
+
+
+1654
+1:13:33,734 --> 1:13:35,133
+the government before.
+
+
+1655
+1:13:35,133 --> 1:13:36,633
+And it has been a really
+important part of our
+
+
+1656
+1:13:36,633 --> 1:13:39,633
+company and so I want to
+tell you our creation story.
+
+
+1657
+1:13:39,633 --> 1:13:44,533
+So iTriage was created in
+2009 by two crusty old ER
+
+
+1658
+1:13:44,533 --> 1:13:47,133
+docs who are unlikely
+entrepreneurs.
+
+
+1659
+1:13:47,133 --> 1:13:49,367
+The good looking one up
+here is Wayne Guerra on
+
+
+1660
+1:13:49,367 --> 1:13:51,266
+the left and the other guy
+has a little bit more
+
+
+1661
+1:13:51,266 --> 1:13:53,6
+gray hair now.
+
+
+1662
+1:13:53,6 --> 1:13:57,767
+And we started the company
+after practicing emergency
+
+
+1663
+1:13:57,767 --> 1:14:0,433
+medicine for about 20
+years and taking care of
+
+
+1664
+1:14:0,433 --> 1:14:2,633
+about 50,000 patients.
+
+
+1665
+1:14:2,633 --> 1:14:4,734
+What we noticed during
+that period of time was
+
+
+1666
+1:14:4,734 --> 1:14:8,467
+that people struggled
+with the core information
+
+
+1667
+1:14:8,467 --> 1:14:10,166
+surrounding their
+health care.
+
+
+1668
+1:14:10,166 --> 1:14:12,133
+That they didn't have the
+right information at the
+
+
+1669
+1:14:12,133 --> 1:14:15,266
+right time to make the
+right decision and an
+
+
+1670
+1:14:15,266 --> 1:14:16,7
+informed decision about
+what to do about
+
+
+1671
+1:14:16,7 --> 1:14:17,533
+their health care.
+
+
+1672
+1:14:17,533 --> 1:14:19,66
+And that led to
+huge problems.
+
+
+1673
+1:14:19,66 --> 1:14:24,333
+Increased costs, bad
+outcomes, and huge
+
+
+1674
+1:14:24,333 --> 1:14:26,3
+inefficiencies
+in the system.
+
+
+1675
+1:14:26,3 --> 1:14:28,9
+And one day we just
+decided we had had enough,
+
+
+1676
+1:14:28,9 --> 1:14:30,767
+we had to do
+something about it.
+
+
+1677
+1:14:30,767 --> 1:14:35,7
+But we weren't really
+sure how to do it.
+
+
+1678
+1:14:35,7 --> 1:14:39,567
+Enter the Smart Phone.
+
+
+1679
+1:14:39,567 --> 1:14:43,533
+Todd Park:
+Should be.
+
+
+1680
+1:14:43,533 --> 1:14:45,4
+Dr. Pete Hudson:
+So enter the Smart Phone a
+
+
+1681
+1:14:45,4 --> 1:14:48,3
+device that you can take with you anywhere you need to be.
+
+
+1682
+1:14:48,3 --> 1:14:50,567
+It can access
+data remotely.
+
+
+1683
+1:14:50,567 --> 1:14:51,834
+It has a beautiful
+interface.
+
+
+1684
+1:14:51,834 --> 1:14:53,867
+It is easy for people to
+use and you can distribute
+
+
+1685
+1:14:53,867 --> 1:14:56,0
+technology wirelessly.
+
+
+1686
+1:14:56,0 --> 1:14:57,867
+We called it our iTriage,
+because we wanted people
+
+
+1687
+1:14:57,867 --> 1:14:59,934
+to be able to make
+decisions based on
+
+
+1688
+1:14:59,934 --> 1:15:2,967
+information and based on
+the taxonomy of health care.
+
+
+1689
+1:15:2,967 --> 1:15:6,3
+So we started to assemble
+data and we put together
+
+
+1690
+1:15:6,3 --> 1:15:8,867
+clinical information, we
+connected that to provider
+
+
+1691
+1:15:8,867 --> 1:15:12,934
+directories, and built a
+technology that allowed
+
+
+1692
+1:15:12,934 --> 1:15:18,5
+people to start to work
+through the pathways of,
+
+
+1693
+1:15:18,5 --> 1:15:20,467
+of clinical information
+starting with the symptom,
+
+
+1694
+1:15:20,467 --> 1:15:23,533
+going to conditions, then
+all of the way to the
+
+
+1695
+1:15:23,533 --> 1:15:24,667
+right providers, and then
+connecting directly
+
+
+1696
+1:15:24,667 --> 1:15:26,533
+with that provider.
+
+
+1697
+1:15:26,533 --> 1:15:29,633
+It was a very fun exercise
+in building a product and
+
+
+1698
+1:15:29,633 --> 1:15:32,1
+so we launched it
+in the marketplace.
+
+
+1699
+1:15:32,1 --> 1:15:34,467
+We didn't know
+what would happen.
+
+
+1700
+1:15:34,467 --> 1:15:37,166
+And you know, one of the
+reasons I am here today is
+
+
+1701
+1:15:37,166 --> 1:15:39,133
+because I think it became
+wildly successful.
+
+
+1702
+1:15:39,133 --> 1:15:41,567
+Millions of people
+have downloaded it.
+
+
+1703
+1:15:41,567 --> 1:15:45,166
+In fact, we are up to 7
+million people right now.
+
+
+1704
+1:15:45,166 --> 1:15:49,867
+Every month about it is
+used about 3 million times
+
+
+1705
+1:15:49,867 --> 1:15:51,867
+to make health care
+decisions and to get the
+
+
+1706
+1:15:51,867 --> 1:15:55,7
+information to make
+informed, take informed action.
+
+
+1707
+1:15:55,7 --> 1:15:58,5
+It has been adopted by
+close to 20 percent of the
+
+
+1708
+1:15:58,5 --> 1:16:1,433
+acute hospital
+marketplace, and we have
+
+
+1709
+1:16:1,433 --> 1:16:3,967
+added on functionality to
+like appointment setting
+
+
+1710
+1:16:3,967 --> 1:16:6,734
+and ER check in, urgent
+care check in, and things
+
+
+1711
+1:16:6,734 --> 1:16:8,767
+like that to connect
+directly into the HIT
+
+
+1712
+1:16:8,767 --> 1:16:11,1
+systems in the hospitals
+and provide that data
+
+
+1713
+1:16:11,1 --> 1:16:14,4
+right back to
+the consumer.
+
+
+1714
+1:16:14,4 --> 1:16:17,367
+It is -- it has been well
+reviewed by people all
+
+
+1715
+1:16:17,367 --> 1:16:18,2
+around the country.
+
+
+1716
+1:16:18,2 --> 1:16:20,667
+In fact, we have had
+60,000 people write in
+
+
+1717
+1:16:20,667 --> 1:16:22,867
+reviews and it is a four
+and a half out of five
+
+
+1718
+1:16:22,867 --> 1:16:25,867
+stars on both markets.
+
+
+1719
+1:16:25,867 --> 1:16:28,2
+We were so passionate
+about this and drove this,
+
+
+1720
+1:16:28,2 --> 1:16:32,166
+this technology as
+quickly as we could.
+
+
+1721
+1:16:32,166 --> 1:16:36,6
+In fact, from start up to
+the first significant
+
+
+1722
+1:16:36,6 --> 1:16:40,1
+M Health Acquisition in the
+marketplace by Aetna, it
+
+
+1723
+1:16:40,1 --> 1:16:41,333
+was about two
+and a half years.
+
+
+1724
+1:16:41,333 --> 1:16:42,667
+And now we are part of
+this amazing group at
+
+
+1725
+1:16:42,667 --> 1:16:46,133
+Aetna that is looking
+at post reform business
+
+
+1726
+1:16:46,133 --> 1:16:48,33
+models for health care.
+
+
+1727
+1:16:48,33 --> 1:16:49,333
+And how we fit into that.
+
+
+1728
+1:16:49,333 --> 1:16:50,367
+So let's go back to the
+creation story and
+
+
+1729
+1:16:50,367 --> 1:16:52,767
+back to 2010.
+
+
+1730
+1:16:52,767 --> 1:16:55,734
+One of our employees
+Jonathan White, who is
+
+
+1731
+1:16:55,734 --> 1:16:57,467
+starting to work with
+different sectors of
+
+
+1732
+1:16:57,467 --> 1:16:59,834
+government came into me
+and said, have you heard
+
+
+1733
+1:16:59,834 --> 1:17:2,834
+about this Open Data
+Initiative thing?
+
+
+1734
+1:17:2,834 --> 1:17:4,166
+I said, no, I haven't
+heard about it.
+
+
+1735
+1:17:4,166 --> 1:17:5,367
+But it sounds interesting.
+
+
+1736
+1:17:5,367 --> 1:17:9,433
+So we got connected with
+Todd and others here in
+
+
+1737
+1:17:9,433 --> 1:17:11,967
+the government, and we, we
+found out that there was
+
+
+1738
+1:17:11,967 --> 1:17:14,834
+great data, provider
+data that we needed.
+
+
+1739
+1:17:14,834 --> 1:17:18,533
+Federally qualified health
+centers provider, Medicare
+
+
+1740
+1:17:18,533 --> 1:17:21,266
+provider data sets, mental
+health and substance abuse
+
+
+1741
+1:17:21,266 --> 1:17:23,9
+data sets and they were
+actually put together and
+
+
+1742
+1:17:23,9 --> 1:17:26,133
+opened up by great people
+in the government.
+
+
+1743
+1:17:26,133 --> 1:17:29,7
+And made available to us.
+
+
+1744
+1:17:29,7 --> 1:17:32,767
+We participated in two
+different events and presented.
+
+
+1745
+1:17:32,767 --> 1:17:36,2
+And I am happy to announce
+that there has been
+
+
+1746
+1:17:36,2 --> 1:17:38,4
+125,000 people that have
+found federally qualified
+
+
+1747
+1:17:38,4 --> 1:17:41,66
+health centers since
+we started that.
+
+
+1748
+1:17:41,66 --> 1:17:44,467
+About 25,000 people have
+found mental health and
+
+
+1749
+1:17:44,467 --> 1:17:46,433
+substance abuse centers
+through our technology
+
+
+1750
+1:17:46,433 --> 1:17:47,9
+with this data.
+
+
+1751
+1:17:47,9 --> 1:17:50,4
+So we are actually really
+connecting people.
+
+
+1752
+1:17:50,4 --> 1:17:52,6
+But I think the two things
+that I am proudest about
+
+
+1753
+1:17:52,6 --> 1:17:55,1
+with this company are,
+one, that we went from two
+
+
+1754
+1:17:55,1 --> 1:17:59,3
+employees who were unpaid,
+and I can vouch for that
+
+
+1755
+1:17:59,3 --> 1:18:1,233
+because I was one of them.
+
+
+1756
+1:18:1,233 --> 1:18:4,1
+To now 80 employees.
+
+
+1757
+1:18:4,1 --> 1:18:5,6
+15 contractors.
+
+
+1758
+1:18:5,6 --> 1:18:7,333
+30 open requisitions.
+
+
+1759
+1:18:7,333 --> 1:18:10,834
+So for those of you who
+are motivated, like to
+
+
+1760
+1:18:10,834 --> 1:18:13,533
+build stuff, and are
+really talented come join
+
+
+1761
+1:18:13,533 --> 1:18:17,2
+the most amazing group of
+employees at our offices.
+
+
+1762
+1:18:17,2 --> 1:18:18,467
+I know they are watching
+right now and they
+
+
+1763
+1:18:18,467 --> 1:18:21,967
+are absolutely fantastic.
+
+
+1764
+1:18:21,967 --> 1:18:24,367
+So that is one of the
+things that I am proudest of.
+
+
+1765
+1:18:24,367 --> 1:18:26,9
+The second thing that I am
+proudest of is the number
+
+
+1766
+1:18:26,9 --> 1:18:29,5
+of stories we have gotten
+of people who have been
+
+
+1767
+1:18:29,5 --> 1:18:31,533
+empowered by this
+technology and made better
+
+
+1768
+1:18:31,533 --> 1:18:36,367
+decisions from a man who
+had jaw pain, didn't know
+
+
+1769
+1:18:36,367 --> 1:18:38,533
+what it could be, used our
+technology and connected
+
+
+1770
+1:18:38,533 --> 1:18:40,4
+to, oh, it could
+be a heart attack.
+
+
+1771
+1:18:40,4 --> 1:18:41,9
+I am going to call 911.
+
+
+1772
+1:18:41,9 --> 1:18:43,767
+It saved his life.
+
+
+1773
+1:18:43,767 --> 1:18:46,934
+To a story I just got the
+other day, a visually
+
+
+1774
+1:18:46,934 --> 1:18:49,6
+impaired woman with
+cerebral palsy, who has
+
+
+1775
+1:18:49,6 --> 1:18:52,433
+multiple medical problems,
+and is bed bound, who uses
+
+
+1776
+1:18:52,433 --> 1:18:54,633
+our technology to become
+more informed about her
+
+
+1777
+1:18:54,633 --> 1:18:56,834
+health conditions
+and medications.
+
+
+1778
+1:18:56,834 --> 1:18:58,7
+And now can actually have
+communication with her
+
+
+1779
+1:18:58,7 --> 1:19:2,0
+doctor about the
+different issues.
+
+
+1780
+1:19:2,0 --> 1:19:3,3
+Those are the
+things that matter.
+
+
+1781
+1:19:3,3 --> 1:19:4,934
+So that is our story.
+
+
+1782
+1:19:4,934 --> 1:19:7,6
+It is a story of American
+innovation that is trying
+
+
+1783
+1:19:7,6 --> 1:19:9,734
+to tackle a really
+big problem.
+
+
+1784
+1:19:9,734 --> 1:19:12,7
+So download iTriage.
+
+
+1785
+1:19:12,7 --> 1:19:14,7
+And it took us 20 years
+to take care of 50,000
+
+
+1786
+1:19:14,7 --> 1:19:17,7
+patients and three to
+take care of 7 million.
+
+
+1787
+1:19:17,7 --> 1:19:20,266
+That is how technology
+should scale and
+
+
+1788
+1:19:20,266 --> 1:19:21,133
+make things better.
+
+
+1789
+1:19:21,133 --> 1:19:22,533
+So thank you very much.
+
+
+1790
+1:19:22,533 --> 1:19:24,66
+Todd Park:
+Thank you so much, Pete.
+
+
+1791
+1:19:24,66 --> 1:19:24,5
+[applause]
+
+
+1792
+1:19:24,5 --> 1:19:28,33
+Rock on.
+
+
+1793
+1:19:28,33 --> 1:19:30,0
+And so what is the play?
+
+
+1794
+1:19:30,0 --> 1:19:30,8
+What is the Open Data
+Initiatives Play exactly?
+
+
+1795
+1:19:30,8 --> 1:19:35,633
+It is clone Pete Hudson.
+
+
+1796
+1:19:35,633 --> 1:19:36,834
+That is the play.
+
+
+1797
+1:19:36,834 --> 1:19:38,767
+Clone the story.
+
+
+1798
+1:19:38,767 --> 1:19:42,266
+And very specifically
+clone the actual use
+
+
+1799
+1:19:42,266 --> 1:19:43,433
+of the data.
+
+
+1800
+1:19:43,433 --> 1:19:46,233
+The application of data by
+American entrepreneurship
+
+
+1801
+1:19:46,233 --> 1:19:49,867
+innovators to create real
+benefit in people's lives.
+
+
+1802
+1:19:49,867 --> 1:19:50,5
+Right.
+
+
+1803
+1:19:50,5 --> 1:19:52,433
+Help people find the right
+doctor that could
+
+
+1804
+1:19:52,433 --> 1:19:53,333
+save their life.
+
+
+1805
+1:19:53,333 --> 1:19:55,333
+Help your daughter find
+the college that will
+
+
+1806
+1:19:55,333 --> 1:19:57,734
+provide the best
+value for her.
+
+
+1807
+1:19:57,734 --> 1:20:1,7
+Help a new father or
+mother know what products
+
+
+1808
+1:20:1,7 --> 1:20:4,1
+have been recalled, what
+cribs have been recalled
+
+
+1809
+1:20:4,1 --> 1:20:6,834
+so that you can actually
+keep your baby safe.
+
+
+1810
+1:20:6,834 --> 1:20:8,8
+Get transparency on the
+non profit marketplace so
+
+
+1811
+1:20:8,8 --> 1:20:10,7
+you actually put your
+charitable contributions,
+
+
+1812
+1:20:10,7 --> 1:20:13,266
+your hard earned dollars
+into the non profits that
+
+
+1813
+1:20:13,266 --> 1:20:18,133
+will produce the best
+value socially for your money.
+
+
+1814
+1:20:18,133 --> 1:20:20,633
+Real tools, real services,
+built by American
+
+
+1815
+1:20:20,633 --> 1:20:23,367
+entrepreneurs using free
+government data that can
+
+
+1816
+1:20:23,367 --> 1:20:27,533
+help make American lives
+easier, make them better,
+
+
+1817
+1:20:27,533 --> 1:20:29,8
+and create jobs and grow
+the economy all at
+
+
+1818
+1:20:29,8 --> 1:20:31,33
+the same time.
+
+
+1819
+1:20:31,33 --> 1:20:34,5
+And we are so incredibly
+excited by the fellows
+
+
+1820
+1:20:34,5 --> 1:20:37,967
+that have come to town to
+help our amazing team do that.
+
+
+1821
+1:20:37,967 --> 1:20:39,333
+And so I would like to
+introduce them starting
+
+
+1822
+1:20:39,333 --> 1:20:45,867
+with Ian Kalin from San
+Francisco, California.
+
+
+1823
+1:20:45,867 --> 1:20:49,367
+Ian has a story out
+of a Hollywood movie.
+
+
+1824
+1:20:49,367 --> 1:20:51,133
+He started his
+professional career as a
+
+
+1825
+1:20:51,133 --> 1:20:53,266
+counter terrorism officer
+for the United States
+
+
+1826
+1:20:53,266 --> 1:20:55,266
+Navy, post 911.
+
+
+1827
+1:20:55,266 --> 1:20:57,233
+He later served as a
+nuclear engineer for the
+
+
+1828
+1:20:57,233 --> 1:21:0,133
+fairly large boat the
+Aircraft Carrier USS
+
+
+1829
+1:21:0,133 --> 1:21:2,33
+Ronald Reagan.
+
+
+1830
+1:21:2,33 --> 1:21:3,9
+After leaving the navy,
+he joined, a fast growing
+
+
+1831
+1:21:3,9 --> 1:21:4,7
+energy start up.
+
+
+1832
+1:21:4,7 --> 1:21:6,66
+Had a brilliant
+career there.
+
+
+1833
+1:21:6,66 --> 1:21:7,834
+That delivered market
+intelligence solutions to
+
+
+1834
+1:21:7,834 --> 1:21:10,4
+the electricity
+and gas sectors.
+
+
+1835
+1:21:10,4 --> 1:21:12,667
+He is incredibly
+passionate about energy
+
+
+1836
+1:21:12,667 --> 1:21:14,467
+and empowering
+people through data.
+
+
+1837
+1:21:14,467 --> 1:21:17,33
+And he has chosen to give
+up a full ride to Harvard
+
+
+1838
+1:21:17,33 --> 1:21:18,867
+University's Kennedy
+School to serve his
+
+
+1839
+1:21:18,867 --> 1:21:21,767
+country once again as a
+Presidential innovation fellow.
+
+
+1840
+1:21:21,767 --> 1:21:27,8
+[applause]
+
+
+1841
+1:21:27,8 --> 1:21:30,367
+Next
+up Marina Martin.
+
+
+1842
+1:21:30,367 --> 1:21:31,533
+Hailing from
+Seattle, Washington.
+
+
+1843
+1:21:31,533 --> 1:21:35,8
+[applause]
+
+
+1844
+1:21:35,8 --> 1:21:38,166
+Another
+unbelievable human being.
+
+
+1845
+1:21:38,166 --> 1:21:40,233
+She has been a business
+efficiency consultant and
+
+
+1846
+1:21:40,233 --> 1:21:43,467
+a web developer, combining
+two very high octane
+
+
+1847
+1:21:43,467 --> 1:21:45,367
+skills in one incredible
+person for the past
+
+
+1848
+1:21:45,367 --> 1:21:47,633
+decade, helping businesses
+save time and money
+
+
+1849
+1:21:47,633 --> 1:21:49,934
+through optimization
+and code.
+
+
+1850
+1:21:49,934 --> 1:21:52,433
+She has written extensively about business efficiency.
+
+
+1851
+1:21:52,433 --> 1:21:53,633
+She has worked on
+open gov products
+
+
+1852
+1:21:53,633 --> 1:21:54,9
+across Washington state.
+
+
+1853
+1:21:54,9 --> 1:21:58,367
+She actually did the first
+start up weekend focused on gov.
+
+
+1854
+1:21:58,367 --> 1:21:59,7
+In her spare time, I don't
+know how she finds the
+
+
+1855
+1:21:59,7 --> 1:22:3,6
+time, she works with medically fragile foster children.
+
+
+1856
+1:22:3,6 --> 1:22:4,967
+And she will be a critical
+force propelling our
+
+
+1857
+1:22:4,967 --> 1:22:8,333
+Education Data
+Initiative forward.
+
+
+1858
+1:22:8,333 --> 1:22:10,3
+So thank you so much
+to serve, Marina.
+
+
+1859
+1:22:10,3 --> 1:22:13,8
+[applause]
+
+
+1860
+1:22:13,8 --> 1:22:15,233
+Next
+up Nick Bramble.
+
+
+1861
+1:22:15,233 --> 1:22:17,867
+[applause]
+
+
+1862
+1:22:17,867 --> 1:22:20,0
+Hailing from
+New Haven, Connecticut,
+
+
+1863
+1:22:20,0 --> 1:22:22,734
+Nick is a lawyer who is
+passionate about improving
+
+
+1864
+1:22:22,734 --> 1:22:24,7
+how governments release
+data and promote
+
+
+1865
+1:22:24,7 --> 1:22:26,767
+engagement by citizens
+and start-ups.
+
+
+1866
+1:22:26,767 --> 1:22:28,967
+He directed the law and
+media program at Yale law
+
+
+1867
+1:22:28,967 --> 1:22:30,867
+School's information
+society project.
+
+
+1868
+1:22:30,867 --> 1:22:32,767
+And has done a research in
+the realms of data policy,
+
+
+1869
+1:22:32,767 --> 1:22:34,967
+privacy and
+intellectual property.
+
+
+1870
+1:22:34,967 --> 1:22:37,3
+Interesting trivia fact,
+he also has been an extra
+
+
+1871
+1:22:37,3 --> 1:22:39,133
+on several episodes
+of Dawson's Creek.
+
+
+1872
+1:22:39,133 --> 1:22:40,433
+[laughter]
+
+
+1873
+1:22:40,433 --> 1:22:42,6
+And helped
+build grammar learning
+
+
+1874
+1:22:42,6 --> 1:22:43,4
+software and work prior to
+attending the
+
+
+1875
+1:22:43,4 --> 1:22:44,7
+Harvard Law School.
+
+
+1876
+1:22:44,7 --> 1:22:46,166
+He will be a critical
+force propelling our
+
+
+1877
+1:22:46,166 --> 1:22:48,166
+Finance Data
+Initiative forward.
+
+
+1878
+1:22:48,166 --> 1:22:49,533
+Welcome and
+thank you, Nick.
+
+
+1879
+1:22:49,533 --> 1:22:52,9
+[applause]
+
+
+1880
+1:22:52,9 --> 1:22:55,133
+Next up
+is Raphael Majma.
+
+
+1881
+1:22:55,133 --> 1:22:57,667
+Hailing from the borough,
+Brooklyn, New York.
+
+
+1882
+1:22:57,667 --> 1:23:0,633
+[applause]
+
+
+1883
+1:23:0,633 --> 1:23:2,367
+Raphael is a
+second generation Mexican
+
+
+1884
+1:23:2,367 --> 1:23:4,3
+Iranian American who
+transitioned from a career
+
+
+1885
+1:23:4,3 --> 1:23:6,667
+path in commercial law to
+pursue the opportunity to
+
+
+1886
+1:23:6,667 --> 1:23:9,834
+use his legal expertise as
+a passionate advocate for
+
+
+1887
+1:23:9,834 --> 1:23:11,166
+the cause of open data.
+
+
+1888
+1:23:11,166 --> 1:23:12,934
+He most recently worked
+on the initiative on open
+
+
+1889
+1:23:12,934 --> 1:23:15,33
+government data in the non
+profit sector for Beth
+
+
+1890
+1:23:15,33 --> 1:23:17,333
+Novak at New York Law
+School creating strategies
+
+
+1891
+1:23:17,333 --> 1:23:19,767
+for getting data unstuck.
+
+
+1892
+1:23:19,767 --> 1:23:22,0
+He is an eager, selfless,
+young innovator who is
+
+
+1893
+1:23:22,0 --> 1:23:24,767
+dedicated to public
+service, dedicated to
+
+
+1894
+1:23:24,767 --> 1:23:26,834
+actually making data
+more accessible.
+
+
+1895
+1:23:26,834 --> 1:23:28,2
+We couldn't be more
+excited that he is here.
+
+
+1896
+1:23:28,2 --> 1:23:29,367
+He will be instrumental
+in helping to drive our
+
+
+1897
+1:23:29,367 --> 1:23:31,934
+Impact Data Initiative
+which is focused on non
+
+
+1898
+1:23:31,934 --> 1:23:34,133
+profit sector related
+data liberation.
+
+
+1899
+1:23:34,133 --> 1:23:36,7
+Thank you and
+congratulations to Raphael.
+
+
+1900
+1:23:36,7 --> 1:23:40,1
+[applause]
+
+
+1901
+1:23:40,1 --> 1:23:43,2
+Next up Dmitry Kachaev.
+
+
+1902
+1:23:43,2 --> 1:23:44,633
+Welcome Dmitry.
+
+
+1903
+1:23:44,633 --> 1:23:47,7
+[applause]
+
+
+1904
+1:23:47,7 --> 1:23:52,9
+Back in the
+summer of 2006, ages ago,
+
+
+1905
+1:23:52,9 --> 1:23:55,767
+way before it was cool,
+Dmitry worked to design
+
+
+1906
+1:23:55,767 --> 1:23:58,133
+and develop and launch the
+first government open data
+
+
+1907
+1:23:58,133 --> 1:24:0,233
+catalog for the
+District of Columbia.
+
+
+1908
+1:24:0,233 --> 1:24:1,9
+He was also part of the
+two person team that came
+
+
+1909
+1:24:1,9 --> 1:24:5,6
+up with, and launched and
+help to run the very first
+
+
+1910
+1:24:5,6 --> 1:24:8,0
+open innovation
+competition around
+
+
+1911
+1:24:8,0 --> 1:24:9,934
+government data, building
+apps using government data.
+
+
+1912
+1:24:9,934 --> 1:24:11,333
+He has also collaborated
+with a number of big
+
+
+1913
+1:24:11,333 --> 1:24:13,767
+American cities to design,
+implement, and launch the
+
+
+1914
+1:24:13,767 --> 1:24:15,6
+Open 311, API.
+
+
+1915
+1:24:15,6 --> 1:24:17,633
+He hails from
+Arlington, Virginia.
+
+
+1916
+1:24:17,633 --> 1:24:19,433
+He will be a key force
+powering our Global
+
+
+1917
+1:24:19,433 --> 1:24:20,7
+Development Data
+Initiative.
+
+
+1918
+1:24:20,7 --> 1:24:22,567
+Welcome and
+congratulations, Dmitry.
+
+
+1919
+1:24:22,567 --> 1:24:26,1
+[applause]
+
+
+1920
+1:24:26,1 --> 1:24:27,633
+And last but
+definitely not least,
+
+
+1921
+1:24:27,633 --> 1:24:29,467
+Nathaniel Manning.
+
+
+1922
+1:24:29,467 --> 1:24:30,3
+[applause]
+
+
+1923
+1:24:30,3 --> 1:24:33,7
+From San
+Francisco, California.
+
+
+1924
+1:24:33,7 --> 1:24:35,367
+Nathaniel is the director
+of business development
+
+
+1925
+1:24:35,367 --> 1:24:37,734
+and strategy at a
+legendary organization the
+
+
+1926
+1:24:37,734 --> 1:24:40,5
+tax base Ushahidi which is
+a non profit tech company.
+
+
+1927
+1:24:40,5 --> 1:24:42,266
+It specializes in
+developing free and open
+
+
+1928
+1:24:42,266 --> 1:24:44,3
+source software for
+information collection,
+
+
+1929
+1:24:44,3 --> 1:24:47,2
+visualization interactive
+map, and actually played a
+
+
+1930
+1:24:47,2 --> 1:24:49,2
+critical role in the response to the Haiti earthquake.
+
+
+1931
+1:24:49,2 --> 1:24:51,8
+He is also a robotics
+entrepreneur on top of that.
+
+
+1932
+1:24:51,8 --> 1:24:53,5
+He co-founded and is the
+chief operating officer of
+
+
+1933
+1:24:53,5 --> 1:24:54,734
+Nine Cents Robotic.
+
+
+1934
+1:24:54,734 --> 1:24:56,834
+He sits on the World
+Economics Forum Personal
+
+
+1935
+1:24:56,834 --> 1:24:58,767
+Data Tiger Team, on
+Googles Data Colloquium
+
+
+1936
+1:24:58,767 --> 1:25:0,533
+Team, on the Technical
+Advisory Board for the
+
+
+1937
+1:25:0,533 --> 1:25:2,1
+Rules which is an
+organization dedicated to
+
+
+1938
+1:25:2,1 --> 1:25:5,8
+fighting poverty, and is alumnus of Singularity University.
+
+
+1939
+1:25:5,8 --> 1:25:7,7
+He will join Dmitry in
+powering forward the
+
+
+1940
+1:25:7,7 --> 1:25:9,667
+Global Data Initiative.
+
+
+1941
+1:25:9,667 --> 1:25:11,166
+Thank you for your
+service, sir.
+
+
+1942
+1:25:11,166 --> 1:25:13,333
+[applause].
+
+
+1943
+1:25:13,333 --> 1:25:15,5
+So please join me in
+congratulating the amazing
+
+
+1944
+1:25:15,5 --> 1:25:18,33
+Open Data Fellows.
+
+
+1945
+1:25:18,33 --> 1:25:20,1
+And we are excited not
+just about the fellows
+
+
+1946
+1:25:20,1 --> 1:25:22,3
+coming to town, we are
+excited about anyone and
+
+
+1947
+1:25:22,3 --> 1:25:23,767
+everyone in America
+plugging in who actually
+
+
+1948
+1:25:23,767 --> 1:25:25,0
+wants to help.
+
+
+1949
+1:25:25,0 --> 1:25:26,233
+So we are very interested
+in talking with
+
+
+1950
+1:25:26,233 --> 1:25:27,633
+entrepreneurs and
+innovators who want to
+
+
+1951
+1:25:27,633 --> 1:25:29,667
+learn more about our data,
+give us feedback about,
+
+
+1952
+1:25:29,667 --> 1:25:32,367
+just new data to be
+liberated, and we are
+
+
+1953
+1:25:32,367 --> 1:25:33,633
+interested in folks
+unleashing their inner
+
+
+1954
+1:25:33,633 --> 1:25:36,166
+pique and building great
+things that can help
+
+
+1955
+1:25:36,166 --> 1:25:39,0
+American people create
+jobs, using open data.
+
+
+1956
+1:25:39,0 --> 1:25:41,5
+Data owners across the
+government as per the
+
+
+1957
+1:25:41,5 --> 1:25:43,567
+digital government
+strategy, right, we are on
+
+
+1958
+1:25:43,567 --> 1:25:48,2
+a real, real movement
+here, a bunch of work to
+
+
+1959
+1:25:48,2 --> 1:25:50,433
+make the defaults data
+open, of data in the
+
+
+1960
+1:25:50,433 --> 1:25:52,1
+government open and
+machine readable.
+
+
+1961
+1:25:52,1 --> 1:25:54,7
+So we are really, really
+interested in seeing if
+
+
+1962
+1:25:54,7 --> 1:25:56,5
+you have data that you
+want to liberate, make
+
+
+1963
+1:25:56,5 --> 1:25:58,667
+machine readable, and turn
+into goodness for America.
+
+
+1964
+1:25:58,667 --> 1:26:0,467
+So if you are a data owner
+that wants to join the
+
+
+1965
+1:26:0,467 --> 1:26:2,934
+movement, opening your
+data, please let us know.
+
+
+1966
+1:26:2,934 --> 1:26:4,734
+And anyone who wants
+to host, meet up with
+
+
+1967
+1:26:4,734 --> 1:26:6,734
+entrepreneurs innovators,
+technologists, wants to
+
+
+1968
+1:26:6,734 --> 1:26:8,667
+code the thons(sp), we
+would love to actually
+
+
+1969
+1:26:8,667 --> 1:26:9,333
+work with you.
+
+
+1970
+1:26:9,333 --> 1:26:10,633
+A lot of this is about
+actually on the ground
+
+
+1971
+1:26:10,633 --> 1:26:12,767
+engagement, actually being
+out there, meeting up with
+
+
+1972
+1:26:12,767 --> 1:26:14,33
+developers, meeting up
+with the entrepreneurs,
+
+
+1973
+1:26:14,33 --> 1:26:15,8
+and getting feedback on
+our data, helping to see
+
+
+1974
+1:26:15,8 --> 1:26:17,433
+what they actually do,
+celebrate what they do and
+
+
+1975
+1:26:17,433 --> 1:26:18,633
+catalyze more of it.
+
+
+1976
+1:26:18,633 --> 1:26:20,166
+So if you are interested
+in being part of that, do
+
+
+1977
+1:26:20,166 --> 1:26:21,1
+let us know.
+
+
+1978
+1:26:21,1 --> 1:26:23,834
+And you can contact us
+actually at this Twitter.
+
+
+1979
+1:26:23,834 --> 1:26:26,867
+Hash tag, you can also
+you can go to White
+
+
+1980
+1:26:26,867 --> 1:26:28,533
+House.gov/innovate fellows
+and sign up to follow any
+
+
+1981
+1:26:28,533 --> 1:26:29,767
+of the projects.
+
+
+1982
+1:26:29,767 --> 1:26:31,333
+And stay tuned for more
+opportunities to be helpful.
+
+
+1983
+1:26:31,333 --> 1:26:34,233
+This team needs you and will
+be looking for your help.
+
+
+1984
+1:26:34,233 --> 1:26:36,33
+So thank you and
+congratulations again.
+
+
+1985
+1:26:36,33 --> 1:26:41,9
+[applause]
+
+
+1986
+1:26:41,9 --> 1:26:44,333
+Okay.
+
+
+1987
+1:26:44,333 --> 1:26:45,4
+Steve Van Roekel:
+All right.
+
+
+1988
+1:26:45,4 --> 1:26:48,33
+To close on the day I want
+to ask you that join me
+
+
+1989
+1:26:48,33 --> 1:26:49,6
+one more time.
+
+
+1990
+1:26:49,6 --> 1:26:50,934
+I know we have been
+clapping a lot, to thank
+
+
+1991
+1:26:50,934 --> 1:26:52,633
+all of these great
+Americans that have been
+
+
+1992
+1:26:52,633 --> 1:26:58,2
+coming to work with us.
+
+
+1993
+1:26:58,2 --> 1:27:0,367
+You know, Todd and I, the
+leadership here at the
+
+
+1994
+1:27:0,367 --> 1:27:2,1
+White House, the
+leadership in the agencies
+
+
+1995
+1:27:2,1 --> 1:27:4,6
+that we have talked to and
+the President are thrilled
+
+
+1996
+1:27:4,6 --> 1:27:5,567
+that you are here.
+
+
+1997
+1:27:5,567 --> 1:27:9,567
+And this is an incredible
+opportunity to do
+
+
+1998
+1:27:9,567 --> 1:27:12,967
+incredible things for the
+American people and, and
+
+
+1999
+1:27:12,967 --> 1:27:15,233
+thankfully, we have as you
+learned have incredible
+
+
+2000
+1:27:15,233 --> 1:27:17,633
+people here to
+help us do that.
+
+
+2001
+1:27:17,633 --> 1:27:18,4
+Todd Park:
+Again, it is an opportunity for
+
+
+2002
+1:27:18,4 --> 1:27:20,3
+everyone across the
+country to get engaged.
+
+
+2003
+1:27:20,3 --> 1:27:22,633
+We have actually had about
+4,500 people already
+
+
+2004
+1:27:22,633 --> 1:27:24,633
+signed up to follow the
+projects and contribute to
+
+
+2005
+1:27:24,633 --> 1:27:26,0
+them in some capacity.
+
+
+2006
+1:27:26,0 --> 1:27:28,7
+So here again are
+the hash tags.
+
+
+2007
+1:27:28,7 --> 1:27:30,8
+You can actually sign up
+for email updates for all
+
+
+2008
+1:27:30,8 --> 1:27:34,1
+of them at White House.gov
+at/innovation fellows.
+
+
+2009
+1:27:34,1 --> 1:27:36,967
+Stay tuned for
+opportunities to plug in
+
+
+2010
+1:27:36,967 --> 1:27:40,166
+specific ways and we are
+grateful in advance for
+
+
+2011
+1:27:40,166 --> 1:27:41,1
+all of your help.
+
+
+2012
+1:27:41,1 --> 1:27:42,567
+Actually, it is one
+additional opportunity to
+
+
+2013
+1:27:42,567 --> 1:27:45,767
+engage, we'll be having
+Twitter office hours to
+
+
+2014
+1:27:45,767 --> 1:27:47,667
+talk about the fellows
+program and the five
+
+
+2015
+1:27:47,667 --> 1:27:49,834
+projects today at 5 PM.
+
+
+2016
+1:27:49,834 --> 1:27:51,266
+And you can actually
+tee up your ideas and
+
+
+2017
+1:27:51,266 --> 1:27:55,1
+questions at the Twitter
+hash tag, WH chat.
+
+
+2018
+1:27:55,1 --> 1:27:57,4
+And now to close our
+event, we would like to
+
+
+2019
+1:27:57,4 --> 1:27:59,467
+welcome the fellows all
+back to the stage with the
+
+
+2020
+1:27:59,467 --> 1:28:4,967
+Director John Barry for
+the ceremonial swearing in.
+
+
+2021
+1:28:4,967 --> 1:28:5,867
+Fellows come on up.
+
+
+2022
+1:28:5,867 --> 1:28:34,133
+[applause].
+
+
+2023
+1:28:34,133 --> 1:28:39,66
+John Barry:
+Okay. This is your
+last chance to back out.
+
+
+2024
+1:28:39,66 --> 1:28:43,667
+I am going to administer
+to you your oath of office.
+
+
+2025
+1:28:43,667 --> 1:28:47,0
+It is a solemn oath and it
+is one that dates back to
+
+
+2026
+1:28:47,0 --> 1:28:49,7
+the beginning
+of our country.
+
+
+2027
+1:28:49,7 --> 1:28:51,467
+And everyone who has
+served our country has
+
+
+2028
+1:28:51,467 --> 1:28:53,6
+taken this oath.
+
+
+2029
+1:28:53,6 --> 1:28:55,9
+Our men and women in
+uniform take the
+
+
+2030
+1:28:55,9 --> 1:28:57,8
+exact same oath.
+
+
+2031
+1:28:57,8 --> 1:29:2,266
+And so this oath has a
+certain solemnity to it.
+
+
+2032
+1:29:2,266 --> 1:29:6,233
+And I am going to -- you
+will repeat after me.
+
+
+2033
+1:29:6,233 --> 1:29:9,567
+I will begin by saying I,
+and I will pause and allow
+
+
+2034
+1:29:9,567 --> 1:29:11,66
+you to say your names.
+
+
+2035
+1:29:11,66 --> 1:29:12,433
+If you would
+say your names.
+
+
+2036
+1:29:12,433 --> 1:29:13,967
+And then you have the
+option to either
+
+
+2037
+1:29:13,967 --> 1:29:16,467
+swear or to affirm.
+
+
+2038
+1:29:16,467 --> 1:29:19,567
+And you can adjust
+according to your conscience.
+
+
+2039
+1:29:19,567 --> 1:29:22,133
+And then the rest you
+just repeat after me.
+
+
+2040
+1:29:22,133 --> 1:29:25,66
+Okay. Everybody ready?
+
+
+2041
+1:29:25,66 --> 1:29:30,767
+If you would raise your
+right hands, please. I.
+
+
+2042
+1:29:30,767 --> 1:29:31,567
+The Group:
+I.
+
+
+2043
+1:29:31,567 --> 1:29:33,233
+John Barry:
+Do solemnly swear.
+
+
+2044
+1:29:33,233 --> 1:29:35,66
+The Group:
+Do solemnly swear.
+
+
+2045
+1:29:35,66 --> 1:29:39,433
+John Barry:
+That I will support and defend.
+
+
+2046
+1:29:39,433 --> 1:29:39,934
+The Group:
+That I will support and defend.
+
+
+2047
+1:29:39,934 --> 1:29:42,33
+John Barry:
+The constitution of
+the United States.
+
+
+2048
+1:29:42,33 --> 1:29:45,66
+The Group:
+The constitution of
+the United States.
+
+
+2049
+1:29:45,66 --> 1:29:46,3
+John Barry:
+Against all enemies.
+
+
+2050
+1:29:46,3 --> 1:29:47,533
+The Group:
+Against all enemies.
+
+
+2051
+1:29:47,533 --> 1:29:49,1
+John Barry:
+Foreign and domestic.
+
+
+2052
+1:29:49,1 --> 1:29:51,166
+The Group:
+Foreign and domestic.
+
+
+2053
+1:29:51,166 --> 1:29:53,266
+John Barry:
+And that I will
+bear true faith.
+
+
+2054
+1:29:53,266 --> 1:29:55,33
+The Group:
+And that I
+will bear truth faith.
+
+
+2055
+1:29:55,33 --> 1:29:57,266
+John Barry:
+And allegiance to the same.
+
+
+2056
+1:29:57,266 --> 1:29:59,66
+The Group:
+And allegiance to the same.
+
+
+2057
+1:29:59,66 --> 1:30:1,834
+John Barry:
+That I take
+this obligation freely.
+
+
+2058
+1:30:1,834 --> 1:30:4,333
+The Group:
+That I take
+this obligation freely.
+
+
+2059
+1:30:4,333 --> 1:30:6,333
+John Barry:
+Without any mental reservation.
+
+
+2060
+1:30:6,333 --> 1:30:8,3
+The Group:
+Without any mental reservation.
+
+
+2061
+1:30:8,3 --> 1:30:11,33
+John Barry:
+Or purpose of evasion.
+
+
+2062
+1:30:11,33 --> 1:30:12,667
+The Group:
+Or purpose of evasion.
+
+
+2063
+1:30:12,667 --> 1:30:15,2
+John Barry:
+And that I
+will well and faithfully.
+
+
+2064
+1:30:15,2 --> 1:30:17,567
+The Group:
+And that I will
+well and faithfully.
+
+
+2065
+1:30:17,567 --> 1:30:19,2
+John Barry:
+Discharge the duties.
+
+
+2066
+1:30:19,2 --> 1:30:20,533
+The Group:
+Discharge the duties.
+
+
+2067
+1:30:20,533 --> 1:30:22,0
+John Barry:
+Of the Office.
+
+
+2068
+1:30:22,0 --> 1:30:22,934
+The Group:
+Of the Office.
+
+
+2069
+1:30:22,934 --> 1:30:25,2
+John Barry:
+On which
+I am about to enter.
+
+
+2070
+1:30:25,2 --> 1:30:26,333
+The Group:
+On which
+I am about to enter.
+
+
+2071
+1:30:26,333 --> 1:30:27,533
+John Barry:
+So help me God.
+
+
+2072
+1:30:27,533 --> 1:30:28,567
+The Group:
+So help me God.
+
+
+2073
+1:30:28,567 --> 1:30:30,166
+John Barry.
+Welcome aboard.
+
+
+2074
+1:30:30,166 --> 1:32:30,166
+[applause]
+
+

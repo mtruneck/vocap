@@ -1,0 +1,6525 @@
+1
+0:0:0,0 --> 0:0:45,767
+♪ [music playing--
+no dialogue] ♪♪.
+
+
+2
+0:0:45,767 --> 0:0:48,4
+>> Dr. Wafeek Wahby:
+Well, before we start, I want to
+
+
+3
+0:0:48,4 --> 0:0:51,8
+tell you we are taping so we
+can capture Marty McIntyre's
+
+
+4
+0:0:51,8 --> 0:0:55,5
+presentation for any of you or
+for anybody else who missed
+
+
+5
+0:0:55,5 --> 0:0:59,67
+this class so we can have it
+on DVD if anybody would like
+
+
+6
+0:0:59,67 --> 0:1:1,733
+to have it, and leave it
+in the library as well.
+
+
+7
+0:1:1,733 --> 0:1:6,467
+So, now we start officially,
+it's 5 o'clock, so good evening,
+
+
+8
+0:1:6,467 --> 0:1:8,0
+or good afternoon if you like.
+
+
+9
+0:1:8,0 --> 0:1:12,0
+My name is Wafeek Wahby, and
+I am thankful to Dr. Mori Toosi
+
+
+10
+0:1:12,0 --> 0:1:15,6
+to give us his class,
+your students.
+
+
+11
+0:1:15,6 --> 0:1:18,667
+And let me see by a show of
+hands how many of you have been
+
+
+12
+0:1:18,667 --> 0:1:22,8
+to Marty McIntyre's
+class last week.
+
+
+13
+0:1:22,8 --> 0:1:24,133
+Okay, very good.
+
+
+14
+0:1:24,133 --> 0:1:25,5
+>> Ms. Marty McIntyre:
+Or last year.
+
+
+15
+0:1:25,5 --> 0:1:26,933
+>> Dr. Wahby:
+Last year, last year, very good.
+
+
+16
+0:1:26,933 --> 0:1:30,0
+How many of you have been to
+the plant in Alsip in Chicago?
+
+
+17
+0:1:30,0 --> 0:1:32,167
+Very good, okay.
+
+
+18
+0:1:32,167 --> 0:1:34,467
+Now the plan would be like this.
+
+
+19
+0:1:34,467 --> 0:1:36,433
+Today we will get the
+theoretical background and
+
+
+20
+0:1:36,433 --> 0:1:39,333
+the fun here on the screen and
+from Marty, and then on the
+
+
+21
+0:1:39,333 --> 0:1:43,5
+15th of October we will take
+two vans or three vans and go
+
+
+22
+0:1:43,5 --> 0:1:47,233
+and visit the plant, and we
+will talk about this later
+
+
+23
+0:1:47,233 --> 0:1:49,467
+and Dr. Toosi will
+give you the details.
+
+
+24
+0:1:49,467 --> 0:1:52,767
+So we can see how things
+are done in the plant,
+
+
+25
+0:1:52,767 --> 0:1:54,933
+and maybe we can
+visit some projects.
+
+
+26
+0:1:54,933 --> 0:1:57,433
+So without much ado,
+Marty McIntyre, and
+
+
+27
+0:1:57,433 --> 0:1:59,33
+she will introduce herself.
+
+
+28
+0:1:59,33 --> 0:2:1,333
+>> Ms. McIntyre:
+Okay, hi.
+
+
+29
+0:2:1,333 --> 0:2:4,333
+I thought I recognized a
+couple of you from last year,
+
+
+30
+0:2:4,333 --> 0:2:8,1
+but I work with PCI,
+which is the Precast
+
+
+31
+0:2:8,1 --> 0:2:11,0
+Prestressed Concrete Institute.
+
+
+32
+0:2:11,0 --> 0:2:16,267
+It's kind of a combination of a
+trade association, so we have
+
+
+33
+0:2:16,267 --> 0:2:22,567
+about 235 member companies who
+manufacture precast products.
+
+
+34
+0:2:22,567 --> 0:2:26,667
+Anything from bridge beams,
+hollowcore, double tees, any of
+
+
+35
+0:2:26,667 --> 0:2:30,333
+the large structural type pieces
+of concrete that you would see
+
+
+36
+0:2:30,333 --> 0:2:32,633
+coming to a job site
+on a truck.
+
+
+37
+0:2:32,633 --> 0:2:37,67
+So no small lentils and
+nothing that goes underground.
+
+
+38
+0:2:37,67 --> 0:2:41,5
+We're also an institute, which
+means we do a lot of work with
+
+
+39
+0:2:41,5 --> 0:2:49,567
+universities doing research,
+product development, and kind of
+
+
+40
+0:2:49,567 --> 0:2:55,333
+state-of-the-industry work to
+kind of keep things up to speed.
+
+
+41
+0:2:55,333 --> 0:2:59,533
+So this is going to be a review
+for some of you who have seen
+
+
+42
+0:2:59,533 --> 0:3:2,467
+this already, but I just have a
+little bit of information for
+
+
+43
+0:3:2,467 --> 0:3:7,0
+you that gives you kind of a
+nice introduction to Precast.
+
+
+44
+0:3:7,0 --> 0:3:11,2
+We're going to talk a little
+bit about what are the products
+
+
+45
+0:3:11,2 --> 0:3:13,633
+that are manufactured,
+where are they used, and
+
+
+46
+0:3:13,633 --> 0:3:16,7
+how are they manufactured.
+
+
+47
+0:3:16,7 --> 0:3:20,67
+So feel free to stop me at any
+point if you have any questions
+
+
+48
+0:3:20,67 --> 0:3:24,433
+and I'd be happy to answer your
+questions for you.
+
+
+49
+0:3:24,433 --> 0:3:27,1
+I always think when I'm
+starting to talk about precast
+
+
+50
+0:3:27,1 --> 0:3:31,33
+that in some ways it's kind
+of fun to look at kind of
+
+
+51
+0:3:31,33 --> 0:3:35,367
+the biggest or the best or the
+most interesting projects
+
+
+52
+0:3:35,367 --> 0:3:37,0
+that have been done.
+
+
+53
+0:3:37,0 --> 0:3:40,667
+So over the last year I kind of
+put together, this is my own
+
+
+54
+0:3:40,667 --> 0:3:44,0
+personal list of what I call the
+"Seven Wonders of Precast",
+
+
+55
+0:3:44,0 --> 0:3:45,833
+some of the projects that
+I think are some of the
+
+
+56
+0:3:45,833 --> 0:3:49,733
+coolest precast projects
+that are out there.
+
+
+57
+0:3:49,733 --> 0:3:53,5
+And that's kind of a nice way
+for me to get started.
+
+
+58
+0:3:53,5 --> 0:3:55,933
+So you can see that they're all
+over the world, but of course
+
+
+59
+0:3:55,933 --> 0:3:58,767
+I know more projects in the
+US than anywhere else,
+
+
+60
+0:3:58,767 --> 0:4:2,967
+so a lot of them are right
+here in our own back door.
+
+
+61
+0:4:2,967 --> 0:4:7,733
+Oops, oh, it didn't like getting
+transferred, I apologize.
+
+
+62
+0:4:7,733 --> 0:4:11,6
+So this is supposed to show
+you the Bahai Temple.
+
+
+63
+0:4:11,6 --> 0:4:14,7
+I can show you another
+picture of it, it's up
+
+
+64
+0:4:14,7 --> 0:4:16,467
+here in the corner.
+
+
+65
+0:4:16,467 --> 0:4:21,633
+Sorry about that, I don't know
+why it didn't transfer.
+
+
+66
+0:4:21,633 --> 0:4:26,6
+So the Bahai Temple is in
+Glencoe, Illinois, up north of
+
+
+67
+0:4:26,6 --> 0:4:31,933
+Chicago, kind of near the
+lakefront on Lake Michigan.
+
+
+68
+0:4:31,933 --> 0:4:36,267
+And it was actually done in
+the 1920s through the 1930s,
+
+
+69
+0:4:36,267 --> 0:4:38,67
+it took quite a while to build.
+
+
+70
+0:4:38,67 --> 0:4:41,8
+And the entire skin of it is
+actually architectural precast.
+
+
+71
+0:4:41,8 --> 0:4:44,967
+It was manufactured in
+New York and then shipped,
+
+
+72
+0:4:44,967 --> 0:4:48,533
+piece by piece, to Glencoe.
+
+
+73
+0:4:48,533 --> 0:4:52,733
+And you can see on the dome and
+in some of the other areas,
+
+
+74
+0:4:52,733 --> 0:4:54,9
+and if you could see the
+pictures that I had put on my
+
+
+75
+0:4:54,9 --> 0:4:58,167
+slide you'd be able to see that,
+some of the intricate detail
+
+
+76
+0:4:58,167 --> 0:5:2,633
+that you can actually get out
+of architectural Precast.
+
+
+77
+0:5:2,633 --> 0:5:5,833
+Then those are all put together
+and it can really withstand the
+
+
+78
+0:5:5,833 --> 0:5:10,9
+test of time, so it does
+a nice job doing that.
+
+
+79
+0:5:10,9 --> 0:5:13,933
+In some ways
+manufacturing--yes?
+
+
+80
+0:5:13,933 --> 0:5:15,167
+>> Dr. Wahby:
+Would you please give us
+
+
+81
+0:5:15,167 --> 0:5:18,67
+your definition of precast?
+
+
+82
+0:5:18,67 --> 0:5:20,767
+>> Ms. McIntyre:
+The definition of precast?
+
+
+83
+0:5:20,767 --> 0:5:22,3
+>> Dr. Wahby:
+What precast means.
+
+
+84
+0:5:22,3 --> 0:5:24,5
+>> Ms. McIntyre:
+You know, precast is anything
+
+
+85
+0:5:24,5 --> 0:5:28,0
+that's cast in a plant and then
+brought to the site.
+
+
+86
+0:5:28,0 --> 0:5:33,167
+So it's cast out of concrete,
+and usually it's manufactured
+
+
+87
+0:5:33,167 --> 0:5:35,3
+in some kind of formwork.
+
+
+88
+0:5:35,3 --> 0:5:39,233
+In the case of the Bahai Temple,
+it's specially designed formwork
+
+
+89
+0:5:39,233 --> 0:5:41,9
+with all of those
+intricate details.
+
+
+90
+0:5:41,9 --> 0:5:45,667
+Actually, all of these would
+be specialty things.
+
+
+91
+0:5:45,667 --> 0:5:50,3
+But it can also be kind of
+more mundane--double T's,
+
+
+92
+0:5:50,3 --> 0:5:53,533
+hollow core, different pieces
+like that, that are cast
+
+
+93
+0:5:53,533 --> 0:5:57,567
+in steel beds where you repeat
+the same pattern or the
+
+
+94
+0:5:57,567 --> 0:6:0,233
+same piece over and
+over again.
+
+
+95
+0:6:0,233 --> 0:6:3,667
+So precast is really
+manufactured at the plant
+
+
+96
+0:6:3,667 --> 0:6:7,767
+and then brought
+to the job site.
+
+
+97
+0:6:7,767 --> 0:6:10,833
+So, in some ways, with
+architectural precast and
+
+
+98
+0:6:10,833 --> 0:6:13,333
+what happened with the
+Bahai Temple, precast has
+
+
+99
+0:6:13,333 --> 0:6:15,333
+not changed a whole lot.
+
+
+100
+0:6:15,333 --> 0:6:19,0
+If you had a client who was
+willing to pay that much money,
+
+
+101
+0:6:19,0 --> 0:6:21,933
+put that much money into it,
+you could still get that kind
+
+
+102
+0:6:21,933 --> 0:6:25,433
+of architectural precast and
+that same level of detail.
+
+
+103
+0:6:25,433 --> 0:6:28,433
+I don't see a whole lot of
+clients looking for that,
+
+
+104
+0:6:28,433 --> 0:6:30,167
+but that could happen.
+
+
+105
+0:6:30,167 --> 0:6:32,433
+The things that have really
+changed in our industry since
+
+
+106
+0:6:32,433 --> 0:6:36,467
+that was done in the 1920s
+and 1930s was really the
+
+
+107
+0:6:36,467 --> 0:6:39,467
+quality of the concrete
+that's being used.
+
+
+108
+0:6:39,467 --> 0:6:42,567
+There's add mixtures
+now that allow a much
+
+
+109
+0:6:42,567 --> 0:6:46,67
+higher strength
+concrete to be used.
+
+
+110
+0:6:46,67 --> 0:6:49,0
+There's self-compacting
+concrete, which allows the
+
+
+111
+0:6:49,0 --> 0:6:53,233
+concrete to flow and get into
+a lot of nooks and crannies
+
+
+112
+0:6:53,233 --> 0:6:56,4
+a little bit better, and
+just the whole idea of
+
+
+113
+0:6:56,4 --> 0:6:58,333
+repetition in the industry.
+
+
+114
+0:6:58,333 --> 0:7:1,867
+That's one of the first examples
+of architectural precast.
+
+
+115
+0:7:1,867 --> 0:7:8,867
+And now, you know, 50, 75 years
+later it's become an industry
+
+
+116
+0:7:8,867 --> 0:7:11,9
+and, you know, it's just a
+much more common product
+
+
+117
+0:7:11,9 --> 0:7:15,3
+than it was then.
+
+
+118
+0:7:15,3 --> 0:7:20,967
+I don't know why it doesn't
+like my pictures.
+
+
+119
+0:7:20,967 --> 0:7:30,667
+The second project that I like
+to talk about is the Chunnel.
+
+
+120
+0:7:30,667 --> 0:7:35,833
+In a lot of ways this is
+just as interesting.
+
+
+121
+0:7:35,833 --> 0:7:39,4
+It might not be as beautiful to
+look at as the Bahai Temple,
+
+
+122
+0:7:39,4 --> 0:7:43,1
+but just the scope of the
+project and the magnitude
+
+
+123
+0:7:43,1 --> 0:7:45,4
+of what they were able
+to do with the precast
+
+
+124
+0:7:45,4 --> 0:7:47,567
+is really remarkable.
+
+
+125
+0:7:47,567 --> 0:7:51,633
+The entire tunnel, or Chunnel,
+underneath the English Channel
+
+
+126
+0:7:51,633 --> 0:7:53,867
+is lined in precast.
+
+
+127
+0:7:53,867 --> 0:7:56,567
+And they actually had to use
+two different designs for the
+
+
+128
+0:7:56,567 --> 0:7:59,4
+precast on the two different
+sides of the Chunnel
+
+
+129
+0:7:59,4 --> 0:8:1,533
+because of the soil conditions.
+
+
+130
+0:8:1,533 --> 0:8:3,9
+And so they really had to look
+at the soil conditions and
+
+
+131
+0:8:3,9 --> 0:8:6,367
+design the precast around it.
+
+
+132
+0:8:6,367 --> 0:8:12,167
+So all of the liner components,
+they've augured all of the dirt
+
+
+133
+0:8:12,167 --> 0:8:16,667
+out of it and then placed the
+liners in there and created the
+
+
+134
+0:8:16,667 --> 0:8:20,67
+Chunnel underneath the Channel.
+
+
+135
+0:8:20,67 --> 0:8:23,2
+So the Sunshine Skyway Bridge
+is kind of interesting because
+
+
+136
+0:8:23,2 --> 0:8:28,67
+it's a five-mile-long bridge,
+and it was really an
+
+
+137
+0:8:28,67 --> 0:8:30,767
+engineering feat that kind of
+combines the two things that
+
+
+138
+0:8:30,767 --> 0:8:32,8
+we were looking at earlier.
+
+
+139
+0:8:32,8 --> 0:8:37,533
+It's the engineering of the
+Chunnel and the magnitude of
+
+
+140
+0:8:37,533 --> 0:8:41,2
+that project, but it's got some
+of the same beauty, I think,
+
+
+141
+0:8:41,2 --> 0:8:43,7
+that the Bahai Temple has.
+
+
+142
+0:8:43,7 --> 0:8:47,533
+It really was able to kind of
+take the product and use it
+
+
+143
+0:8:47,533 --> 0:8:52,0
+in a very organic way to make
+it beautiful and functional
+
+
+144
+0:8:52,0 --> 0:8:54,0
+at the same time.
+
+
+145
+0:8:54,0 --> 0:8:58,0
+So that was done in the 1980s,
+and at that time it was the
+
+
+146
+0:8:58,0 --> 0:9:3,8
+longest bridge and the
+first of its type.
+
+
+147
+0:9:3,8 --> 0:9:6,367
+The Jubilee Church is in Rome.
+
+
+148
+0:9:6,367 --> 0:9:9,867
+Richard Meier was the
+architect, he is actually
+
+
+149
+0:9:9,867 --> 0:9:11,733
+a New York architect.
+
+
+150
+0:9:11,733 --> 0:9:16,567
+This is a Catholic church in
+Rome, and Richard Meier loves
+
+
+151
+0:9:16,567 --> 0:9:21,133
+very bright white,
+clean spaces.
+
+
+152
+0:9:21,133 --> 0:9:27,167
+And the Jubilee Church really
+reflects his love of that kind
+
+
+153
+0:9:27,167 --> 0:9:30,333
+of starkness and the whiteness.
+
+
+154
+0:9:30,333 --> 0:9:33,967
+The interesting thing about it,
+I think, is really where you are
+
+
+155
+0:9:33,967 --> 0:9:38,833
+able to take the precast and
+use it as a curved product, a
+
+
+156
+0:9:38,833 --> 0:9:43,133
+molded product, a
+very flowable look.
+
+
+157
+0:9:43,133 --> 0:9:45,667
+Unfortunately, you can't see
+the picture of the inside of
+
+
+158
+0:9:45,667 --> 0:9:48,0
+the church, but the inside
+of the church is also
+
+
+159
+0:9:48,0 --> 0:9:50,8
+very bright and white.
+
+
+160
+0:9:50,8 --> 0:9:53,533
+Some of the things that make
+this one of my seven wonders
+
+
+161
+0:9:53,533 --> 0:9:58,8
+include that look of the church
+that looks kind of like a sail
+
+
+162
+0:9:58,8 --> 0:10:2,867
+and that it has that ability
+to come in different shapes,
+
+
+163
+0:10:2,867 --> 0:10:6,67
+but they've still managed to
+use some repetition here.
+
+
+164
+0:10:6,67 --> 0:10:8,733
+You'll see that they've repeated
+the same shapes in the
+
+
+165
+0:10:8,733 --> 0:10:12,633
+three sails or three surfaces.
+
+
+166
+0:10:12,633 --> 0:10:14,9
+And the other thing that's
+really interesting about
+
+
+167
+0:10:14,9 --> 0:10:19,5
+this project is the bright
+whiteness of the concrete.
+
+
+168
+0:10:19,5 --> 0:10:22,7
+They actually used an add
+mixture that's available
+
+
+169
+0:10:22,7 --> 0:10:28,267
+from an Italian company that
+is a self-cleaning concrete.
+
+
+170
+0:10:28,267 --> 0:10:32,533
+So now they won't have to go
+back and clean this material
+
+
+171
+0:10:32,533 --> 0:10:36,3
+over and over again, it'll stay
+bright and white like this.
+
+
+172
+0:10:36,3 --> 0:10:39,767
+The other thing that that
+add mixture does is allow
+
+
+173
+0:10:39,767 --> 0:10:44,0
+the concrete to absorb CO2.
+
+
+174
+0:10:44,0 --> 0:10:47,8
+So it actually cleans
+the air around it.
+
+
+175
+0:10:47,8 --> 0:10:51,6
+We've only seen it used in
+one project so far in the US.
+
+
+176
+0:10:51,6 --> 0:10:53,6
+I think it's still kind
+of expensive, but I think
+
+
+177
+0:10:53,6 --> 0:10:56,467
+it's one of the ways
+that we'll see concrete
+
+
+178
+0:10:56,467 --> 0:10:58,2
+changing in the future.
+
+
+179
+0:10:58,2 --> 0:11:0,733
+It's not something that's
+just used for precast,
+
+
+180
+0:11:0,733 --> 0:11:3,133
+you can use it really for
+any kind of concrete.
+
+
+181
+0:11:3,133 --> 0:11:5,6
+But, you know, I think that's
+just a really beautiful example
+
+
+182
+0:11:5,6 --> 0:11:7,933
+of new technology.
+
+
+183
+0:11:7,933 --> 0:11:9,367
+>> Dr. Wafeek Wahby:
+I have a question.
+
+
+184
+0:11:9,367 --> 0:11:11,833
+In the back, please,
+back one slide.
+
+
+185
+0:11:11,833 --> 0:11:18,7
+Any idea if these three bending
+parts are hollow or kind of a
+
+
+186
+0:11:18,7 --> 0:11:21,567
+shell of some sort?
+
+
+187
+0:11:21,567 --> 0:11:24,267
+>> Ms. McIntyre:
+I believe, no, they are not.
+
+
+188
+0:11:24,267 --> 0:11:28,2
+They are about, I think they
+are about 8 inches thick.
+
+
+189
+0:11:28,2 --> 0:11:32,33
+>> Dr. Wahby:
+Okay, just one solid thing?
+
+
+190
+0:11:32,33 --> 0:11:36,0
+>> Ms. McIntyre:
+They are solid panels.
+
+
+191
+0:11:36,0 --> 0:11:39,467
+I believe they are structural
+as well as being radius.
+
+
+192
+0:11:39,467 --> 0:11:41,33
+>> Dr. Wahby:
+Okay, thanks.
+
+
+193
+0:11:41,33 --> 0:11:45,7
+>> Ms McIntyre:
+I'm going to go back so we can
+
+
+194
+0:11:45,7 --> 0:11:47,733
+look at the
+Sidney Opera House.
+
+
+195
+0:11:47,733 --> 0:11:49,9
+I always think that it's kind
+of interesting to look at this,
+
+
+196
+0:11:49,9 --> 0:11:53,5
+which is a very modern example
+of precast concrete.
+
+
+197
+0:11:53,5 --> 0:11:57,2
+And really, you can look back
+at the Sidney Opera House
+
+
+198
+0:11:57,2 --> 0:12:1,6
+up on the top, all of the
+white components that
+
+
+199
+0:12:1,6 --> 0:12:5,1
+look like sails, those are
+all precast concrete,
+
+
+200
+0:12:5,1 --> 0:12:8,267
+it's on a steel frame.
+
+
+201
+0:12:8,267 --> 0:12:13,7
+Jørn Utzon was the name of the
+architect on that project,
+
+
+202
+0:12:13,7 --> 0:12:17,867
+and he designed this, it
+was a design competition.
+
+
+203
+0:12:17,867 --> 0:12:23,0
+He kind of snuck the design in
+at the last minute and they had
+
+
+204
+0:12:23,0 --> 0:12:25,633
+picked something else, but
+then when they saw this
+
+
+205
+0:12:25,633 --> 0:12:28,533
+they said, "No, we have to
+have this opera house".
+
+
+206
+0:12:28,533 --> 0:12:31,9
+And that's really great, but the
+technology was not there at the
+
+
+207
+0:12:31,9 --> 0:12:35,867
+time to build it, so then there
+were all sorts of delays.
+
+
+208
+0:12:35,867 --> 0:12:39,433
+And what he finally figured out
+was he was going to be able to
+
+
+209
+0:12:39,433 --> 0:12:43,167
+make it affordable and make it
+happen by keeping that radius
+
+
+210
+0:12:43,167 --> 0:12:47,233
+exactly the same for all of
+those different panels and to
+
+
+211
+0:12:47,233 --> 0:12:52,667
+create a lot of repetition even
+without having one piece be
+
+
+212
+0:12:52,667 --> 0:12:55,367
+exactly the same as the others.
+
+
+213
+0:12:55,367 --> 0:12:59,267
+So he kind of played on
+the radius to create
+
+
+214
+0:12:59,267 --> 0:13:1,433
+those different sails.
+
+
+215
+0:13:1,433 --> 0:13:3,933
+It was one of the first
+projects to really use
+
+
+216
+0:13:3,933 --> 0:13:8,1
+building information
+modeling and computers,
+
+
+217
+0:13:8,1 --> 0:13:10,233
+computer aided design.
+
+
+218
+0:13:10,233 --> 0:13:13,3
+And it was very controversial
+because it kept having delay
+
+
+219
+0:13:13,3 --> 0:13:18,5
+after delay after delay, and
+finally the architect got
+
+
+220
+0:13:18,5 --> 0:13:25,1
+kicked off the project and he
+never saw the finished project.
+
+
+221
+0:13:25,1 --> 0:13:28,833
+It's such an interesting story,
+you could make a movie out of
+
+
+222
+0:13:28,833 --> 0:13:33,1
+the creation of the
+Sidney Opera House.
+
+
+223
+0:13:33,1 --> 0:13:38,967
+But again, this is one of the
+Seven Wonders because it really
+
+
+224
+0:13:38,967 --> 0:13:43,533
+kind of did something completely
+new with precast concrete.
+
+
+225
+0:13:43,533 --> 0:13:49,6
+The TransAmerica Tower is in San
+Francisco, and it's the tallest
+
+
+226
+0:13:49,6 --> 0:13:55,667
+architecturally precast-clad
+building in the US.
+
+
+227
+0:13:55,667 --> 0:13:58,6
+And some of the things that
+make it really interesting
+
+
+228
+0:13:58,6 --> 0:14:4,0
+include that they had to be able
+to, you know, put it up with
+
+
+229
+0:14:4,0 --> 0:14:8,33
+architectural precast and clad
+the exterior in some place that,
+
+
+230
+0:14:8,33 --> 0:14:10,267
+you know, is going to have
+to have high seismic,
+
+
+231
+0:14:10,267 --> 0:14:13,967
+in a high-seismic zone.
+
+
+232
+0:14:13,967 --> 0:14:16,7
+So that was kind of
+interesting as well.
+
+
+233
+0:14:16,7 --> 0:14:20,133
+They wanted something that, you
+know, they could keep clean and
+
+
+234
+0:14:20,133 --> 0:14:26,167
+neat and did it with
+precast concrete.
+
+
+235
+0:14:26,167 --> 0:14:30,533
+Another early example of
+architectural precast.
+
+
+236
+0:14:30,533 --> 0:14:33,833
+COSI is a little bit
+closer to home.
+
+
+237
+0:14:33,833 --> 0:14:40,9
+It's in Columbus, and
+it's the Columbus Museum
+
+
+238
+0:14:40,9 --> 0:14:44,2
+of Science and Industry.
+
+
+239
+0:14:44,2 --> 0:14:50,67
+Arata Isozaki is a Japanese
+architect, he was the one
+
+
+240
+0:14:50,67 --> 0:14:52,67
+who designed it.
+
+
+241
+0:14:52,67 --> 0:14:56,467
+And again, very organic in the
+way that he used concrete as a
+
+
+242
+0:14:56,467 --> 0:15:0,967
+very flowable material and
+actually used that ability
+
+
+243
+0:15:0,967 --> 0:15:3,267
+to curve and shape it.
+
+
+244
+0:15:3,267 --> 0:15:5,9
+Each one of these pieces, you
+can kind of see the people are
+
+
+245
+0:15:5,9 --> 0:15:9,967
+right here, so each one of
+these pieces is 60 feet tall
+
+
+246
+0:15:9,967 --> 0:15:13,6
+and about 10 feet wide.
+
+
+247
+0:15:13,6 --> 0:15:18,567
+It was cast all in one piece in
+specialty forms and then the
+
+
+248
+0:15:18,567 --> 0:15:22,767
+precaster who did it had to
+create specialty trucks to cart
+
+
+249
+0:15:22,767 --> 0:15:25,67
+it to the job site.
+
+
+250
+0:15:25,67 --> 0:15:29,133
+They had to create specialty
+forms for it and had to be
+
+
+251
+0:15:29,133 --> 0:15:32,9
+very careful with all of the
+handling and erection of this
+
+
+252
+0:15:32,9 --> 0:15:36,567
+piece because, you know, you
+can't pick up a piece of
+
+
+253
+0:15:36,567 --> 0:15:40,4
+precast in the middle because
+it's actually more fragile than
+
+
+254
+0:15:40,4 --> 0:15:44,33
+you think it would be, it
+can just break into two.
+
+
+255
+0:15:44,33 --> 0:15:47,0
+So they had to be very
+careful about handling
+
+
+256
+0:15:47,0 --> 0:15:51,9
+and erecting this project.
+
+
+257
+0:15:51,9 --> 0:15:55,633
+And there's some, just some
+examples of what it looked like
+
+
+258
+0:15:55,633 --> 0:16:3,67
+when they were handling it.
+
+
+259
+0:16:3,67 --> 0:16:6,933
+So that's kind of my fun part,
+and I apologize that the
+
+
+260
+0:16:6,933 --> 0:16:9,4
+pictures didn't translate.
+
+
+261
+0:16:9,4 --> 0:16:15,333
+Anybody got any questions about
+anything you've seen so far?
+
+
+262
+0:16:15,333 --> 0:16:17,67
+No?
+
+
+263
+0:16:17,67 --> 0:16:21,0
+Alright, well, let's get
+down to the nitty gritty.
+
+
+264
+0:16:21,0 --> 0:16:24,3
+When I talk about precast
+products, sometimes I like to
+
+
+265
+0:16:24,3 --> 0:16:26,7
+think about music as well.
+
+
+266
+0:16:26,7 --> 0:16:30,333
+So here I've got my George
+Handel, who's one of my
+
+
+267
+0:16:30,333 --> 0:16:33,833
+favorites, and Metallica,
+who I also like.
+
+
+268
+0:16:33,833 --> 0:16:37,933
+And I love thinking about
+precast the same way I think
+
+
+269
+0:16:37,933 --> 0:16:40,967
+about music because you
+are taking these two very
+
+
+270
+0:16:40,967 --> 0:16:44,767
+diverse types of music.
+
+
+271
+0:16:44,767 --> 0:16:48,867
+You probably, in a lot of ways,
+wouldn't think of those two
+
+
+272
+0:16:48,867 --> 0:16:53,3
+groups, or a composer and that
+group in the same light, but
+
+
+273
+0:16:53,3 --> 0:16:57,0
+when you think about it, they're
+using all of the same notes.
+
+
+274
+0:16:57,0 --> 0:17:1,2
+They are creating the music
+using the same scale, the same
+
+
+275
+0:17:1,2 --> 0:17:5,3
+12 notes, the same keys on a
+piano, and that's the same thing
+
+
+276
+0:17:5,3 --> 0:17:7,933
+that's happening with
+precast concrete.
+
+
+277
+0:17:7,933 --> 0:17:11,33
+So I always like to think
+about it that way.
+
+
+278
+0:17:11,33 --> 0:19:2,633
+♪ [music playing--
+no dialogue] ♪♪.
+
+
+279
+0:19:2,633 --> 0:19:6,133
+Really, what that shows is all
+of the different pieces of
+
+
+280
+0:19:6,133 --> 0:19:9,33
+precast flying in and
+coming together.
+
+
+281
+0:19:9,33 --> 0:19:10,733
+It's all cool stuff.
+
+
+282
+0:19:10,733 --> 0:19:14,3
+I wanted to kind of take you
+through the notes on the scale
+
+
+283
+0:19:14,3 --> 0:19:17,767
+or the keys on the piano
+in terms of what happens
+
+
+284
+0:19:17,767 --> 0:19:20,767
+in the precast industry.
+
+
+285
+0:19:20,767 --> 0:19:24,33
+And that would be what common,
+what the products are
+
+
+286
+0:19:24,33 --> 0:19:26,0
+that are commonly used.
+
+
+287
+0:19:26,0 --> 0:19:28,167
+So probably the most common
+product that you're going
+
+
+288
+0:19:28,167 --> 0:19:30,833
+to see is hollowcore.
+
+
+289
+0:19:30,833 --> 0:19:35,433
+Hollowcore comes in widths of
+2 feet, 4 feet, and 8 feet,
+
+
+290
+0:19:35,433 --> 0:19:39,2
+but it's typically going to
+be 4 feet long, and it can be
+
+
+291
+0:19:39,2 --> 0:19:42,933
+anywhere from 6 inches deep
+to 16 inches deep.
+
+
+292
+0:19:42,933 --> 0:19:46,6
+But usually you're going to see
+a piece of hollowcore that is
+
+
+293
+0:19:46,6 --> 0:19:51,933
+4 feet wide and 10 to 12 inches
+deep, and then it's got these
+
+
+294
+0:19:51,933 --> 0:19:55,3
+cores that are cast
+in the middle of it.
+
+
+295
+0:19:55,3 --> 0:19:58,767
+So who can tell me why they
+think the cores are cast
+
+
+296
+0:19:58,767 --> 0:20:1,7
+in the middle of it?
+
+
+297
+0:20:1,7 --> 0:20:3,33
+Yeah?
+
+
+298
+0:20:3,33 --> 0:20:4,7
+>> male speaker:
+[unclear audio].
+
+
+299
+0:20:4,7 --> 0:20:6,3
+>> Ms. McIntyre:
+Absolutely, yeah.
+
+
+300
+0:20:6,3 --> 0:20:8,33
+That's it exactly.
+
+
+301
+0:20:8,33 --> 0:20:11,167
+Because you get the strength of
+the concrete and you can combine
+
+
+302
+0:20:11,167 --> 0:20:16,67
+that with the strength of
+steel that you are doing the
+
+
+303
+0:20:16,67 --> 0:20:19,333
+prestressing with and you don't
+need all that extra weight.
+
+
+304
+0:20:19,333 --> 0:20:22,667
+Weight is going to be one of the
+downfalls for precast concrete.
+
+
+305
+0:20:22,667 --> 0:20:23,833
+Yeah?
+
+
+306
+0:20:23,833 --> 0:20:25,3
+>> male speaker:
+[unclear audio].
+
+
+307
+0:20:25,3 --> 0:20:26,567
+>> Ms. McIntyre:
+Oh, yes.
+
+
+308
+0:20:26,567 --> 0:20:30,333
+He said to decrease the
+weight of the pieces,
+
+
+309
+0:20:30,333 --> 0:20:33,33
+which was exactly right.
+
+
+310
+0:20:33,33 --> 0:20:35,4
+>> male speaker:
+[unclear audio].
+
+
+311
+0:20:35,4 --> 0:20:36,933
+>> Ms. McIntyre:
+It is also the saving of
+
+
+312
+0:20:36,933 --> 0:20:41,133
+materials, but for the most
+part it's the weight, because
+
+
+313
+0:20:41,133 --> 0:20:45,167
+weight is going to be your
+one thing that you want to
+
+
+314
+0:20:45,167 --> 0:20:47,4
+watch out for with, or
+one of the things that
+
+
+315
+0:20:47,4 --> 0:20:51,8
+you're going to want to watch
+out for with precast concrete.
+
+
+316
+0:20:51,8 --> 0:20:54,933
+You can manufacture it in a
+couple of different ways.
+
+
+317
+0:20:54,933 --> 0:20:57,633
+One is a wet cast method,
+where you have a pretty
+
+
+318
+0:20:57,633 --> 0:21:1,33
+typical wet mix of concrete.
+
+
+319
+0:21:1,33 --> 0:21:6,9
+You put hoses in the forms that
+kind of look like fire hoses.
+
+
+320
+0:21:6,9 --> 0:21:9,6
+You place the concrete
+on top of it.
+
+
+321
+0:21:9,6 --> 0:21:14,267
+As the concrete cures, you
+pull those hoses out of it
+
+
+322
+0:21:14,267 --> 0:21:16,333
+and you end up
+with those cores.
+
+
+323
+0:21:16,333 --> 0:21:19,867
+The other way is you can use an
+extruded method, and with that
+
+
+324
+0:21:19,867 --> 0:21:26,767
+the concrete is very dry and it
+actually comes out of a machine.
+
+
+325
+0:21:26,767 --> 0:21:30,0
+I always liken it to a tube of
+toothpaste, where you're kind of
+
+
+326
+0:21:30,0 --> 0:21:32,833
+pushing the concrete out.
+
+
+327
+0:21:32,833 --> 0:21:35,167
+The concrete might be about
+the same consistency
+
+
+328
+0:21:35,167 --> 0:21:37,33
+of toothpaste as well.
+
+
+329
+0:21:37,33 --> 0:21:39,4
+And you might have augurs
+working in there, and
+
+
+330
+0:21:39,4 --> 0:21:42,267
+that's going to create
+the openings in it.
+
+
+331
+0:21:42,267 --> 0:21:46,833
+And with that dry mix you can
+almost walk on it immediately.
+
+
+332
+0:21:46,833 --> 0:21:49,233
+So that's the couple of
+different areas that you
+
+
+333
+0:21:49,233 --> 0:21:51,167
+can manufacture it in.
+
+
+334
+0:21:51,167 --> 0:21:54,6
+Hollowcore, usually, is going
+to be about 30 feet long.
+
+
+335
+0:21:54,6 --> 0:21:58,233
+And we see a lot of it
+used for hotels, motels,
+
+
+336
+0:21:58,233 --> 0:22:5,667
+single-family condominiums,
+schools, any place where you
+
+
+337
+0:22:5,667 --> 0:22:10,433
+want to get a nice long span
+and any place that fire safety
+
+
+338
+0:22:10,433 --> 0:22:12,167
+is going to be an issue.
+
+
+339
+0:22:12,167 --> 0:22:17,67
+It can be a really good product
+in any of those cases.
+
+
+340
+0:22:17,67 --> 0:22:18,767
+Double tees.
+
+
+341
+0:22:18,767 --> 0:22:20,867
+They're called double tees
+because that's what they
+
+
+342
+0:22:20,867 --> 0:22:23,567
+look like, two T's right
+next to each other.
+
+
+343
+0:22:23,567 --> 0:22:27,433
+Double tees have two parts
+of the product.
+
+
+344
+0:22:27,433 --> 0:22:30,833
+The first part is your top
+surface that goes across the
+
+
+345
+0:22:30,833 --> 0:22:34,467
+top of the tees, and that's
+going to be called your flange.
+
+
+346
+0:22:34,467 --> 0:22:38,7
+Your flange is usually going
+to be about 12 feet wide.
+
+
+347
+0:22:38,7 --> 0:22:42,4
+Sometimes we have 15 feet
+wide, but usually it's going
+
+
+348
+0:22:42,4 --> 0:22:44,267
+to be about 12 feet wide.
+
+
+349
+0:22:44,267 --> 0:22:47,133
+And then you'll have the
+two stems coming down,
+
+
+350
+0:22:47,133 --> 0:22:52,367
+the two stems of the tee, and
+those are usually going to be
+
+
+351
+0:22:52,367 --> 0:22:54,833
+about 18 inches deep.
+
+
+352
+0:22:54,833 --> 0:22:57,667
+And then you're going to
+have a piece of precast
+
+
+353
+0:22:57,667 --> 0:23:3,1
+that's generally 60 feet
+long and 12 feet wide, but
+
+
+354
+0:23:3,1 --> 0:23:7,433
+you can go up to about
+110 feet long with this.
+
+
+355
+0:23:7,433 --> 0:23:11,233
+So, we see this used a lot for
+parking decks, that's really
+
+
+356
+0:23:11,233 --> 0:23:13,767
+the number one thing that
+you see it used in.
+
+
+357
+0:23:13,767 --> 0:23:17,6
+You also see it used for, the
+other building that I have down
+
+
+358
+0:23:17,6 --> 0:23:22,33
+there is a convention center,
+where you might have heavier
+
+
+359
+0:23:22,33 --> 0:23:29,1
+loads on the floor, swimming
+pools, some condominium
+
+
+360
+0:23:29,1 --> 0:23:32,7
+buildings will use them where
+you need longer spans.
+
+
+361
+0:23:32,7 --> 0:23:36,67
+So, this is generally longer
+spans and a little bit heavier
+
+
+362
+0:23:36,67 --> 0:23:43,5
+duty floor product than you
+would get with the hollowcore.
+
+
+363
+0:23:43,5 --> 0:23:46,767
+Architectural precast, this
+is what you're going to see
+
+
+364
+0:23:46,767 --> 0:23:49,2
+when you visit Alsip.
+
+
+365
+0:23:49,2 --> 0:23:53,167
+And architectural precast really
+starts to be where you have
+
+
+366
+0:23:53,167 --> 0:23:57,367
+a lot more color, texture.
+
+
+367
+0:23:57,367 --> 0:24:1,8
+Usually it's a cladding product
+on the exterior of the building.
+
+
+368
+0:24:1,8 --> 0:24:5,867
+You can have color integrated
+right into it.
+
+
+369
+0:24:5,867 --> 0:24:8,8
+You're going to start to
+have your curved pieces.
+
+
+370
+0:24:8,8 --> 0:24:11,267
+You're going to start to
+have more decorative
+
+
+371
+0:24:11,267 --> 0:24:13,467
+detail added to it.
+
+
+372
+0:24:13,467 --> 0:24:15,767
+And these are usually
+cast in wooden forms
+
+
+373
+0:24:15,767 --> 0:24:17,867
+rather than in steel forms.
+
+
+374
+0:24:17,867 --> 0:24:22,9
+So you will have some repetition
+with them, but usually you're
+
+
+375
+0:24:22,9 --> 0:24:26,767
+going to have formwork
+that's built specifically
+
+
+376
+0:24:26,767 --> 0:24:30,433
+for that particular building.
+
+
+377
+0:24:30,433 --> 0:24:33,233
+Then you can also
+have wall panels.
+
+
+378
+0:24:33,233 --> 0:24:41,3
+Wall panels can still have a
+little bit of decorative pieces
+
+
+379
+0:24:41,3 --> 0:24:45,233
+to them, but in most
+cases rather than having
+
+
+380
+0:24:45,233 --> 0:24:47,9
+the color integrated right
+into it you're going to
+
+
+381
+0:24:47,9 --> 0:24:51,233
+stain over the concrete,
+so both the yellow and
+
+
+382
+0:24:51,233 --> 0:24:54,4
+the blue are stained
+right into there.
+
+
+383
+0:24:54,4 --> 0:24:57,733
+Sometimes we see people just
+leave the concrete exposed
+
+
+384
+0:24:57,733 --> 0:25:0,3
+like you see here.
+
+
+385
+0:25:0,3 --> 0:25:3,3
+But these are usually cast
+in what our industry calls
+
+
+386
+0:25:3,3 --> 0:25:5,267
+long line beds.
+
+
+387
+0:25:5,267 --> 0:25:9,767
+And so those beds can be
+150 feet long, and they
+
+
+388
+0:25:9,767 --> 0:25:14,633
+cast multiple pieces all at
+the same time, so usually
+
+
+389
+0:25:14,633 --> 0:25:21,0
+not as much decorative
+detail added to those.
+
+
+390
+0:25:21,0 --> 0:25:23,7
+Then you can also have
+structural products.
+
+
+391
+0:25:23,7 --> 0:25:30,67
+Those would be columns, beams,
+inverted T-beams, any kind of
+
+
+392
+0:25:30,67 --> 0:25:34,6
+structural wall panel, things
+like that, and that can be
+
+
+393
+0:25:34,6 --> 0:25:37,467
+the entire structure and
+frame of a building.
+
+
+394
+0:25:37,467 --> 0:25:41,933
+Typically when you're using
+precast as the structural
+
+
+395
+0:25:41,933 --> 0:25:45,967
+system, we see it usually
+used anywhere from 2 stories
+
+
+396
+0:25:45,967 --> 0:25:50,6
+to about 11 or 12 stories,
+would be typical.
+
+
+397
+0:25:50,6 --> 0:25:54,7
+There is a project in California
+that goes 22 stories, that's
+
+
+398
+0:25:54,7 --> 0:25:59,5
+about as high as it's gone
+but, you know, we see a lot of
+
+
+399
+0:25:59,5 --> 0:26:8,267
+8- to 12-story structures
+done in structural precast.
+
+
+400
+0:26:8,267 --> 0:26:11,133
+We also have modular
+construction,
+
+
+401
+0:26:11,133 --> 0:26:13,8
+in this case it's a prison.
+
+
+402
+0:26:13,8 --> 0:26:16,333
+That's probably the most
+popular use for it where
+
+
+403
+0:26:16,333 --> 0:26:18,133
+we've got the prison cells.
+
+
+404
+0:26:18,133 --> 0:26:22,3
+And one of the reasons that this
+is so popular for the prisons is
+
+
+405
+0:26:22,3 --> 0:26:24,733
+it can all be done off-site.
+
+
+406
+0:26:24,733 --> 0:26:28,233
+So they add the furniture,
+the communications equipment,
+
+
+407
+0:26:28,233 --> 0:26:32,367
+the safety equipment, all
+at the precaster's site.
+
+
+408
+0:26:32,367 --> 0:26:36,67
+They bring it out to the job
+site, they stack them, one right
+
+
+409
+0:26:36,67 --> 0:26:39,967
+on top of the other, and in this
+case they've got the two prison
+
+
+410
+0:26:39,967 --> 0:26:44,167
+cells and then they've got a
+lip coming out for a walkway.
+
+
+411
+0:26:44,167 --> 0:26:47,4
+We don't see a whole lot of
+prisons being built in Illinois
+
+
+412
+0:26:47,4 --> 0:26:50,733
+right now considering we
+have one sitting empty,
+
+
+413
+0:26:50,733 --> 0:26:55,5
+but for awhile that
+was being done.
+
+
+414
+0:26:55,5 --> 0:26:58,833
+The interesting thing about
+these is the whole idea of
+
+
+415
+0:26:58,833 --> 0:27:2,1
+modularity is really being
+carried into a lot of different
+
+
+416
+0:27:2,1 --> 0:27:7,7
+products as well, the wall
+panels and floor systems.
+
+
+417
+0:27:7,7 --> 0:27:11,0
+I'm starting to see more
+things being added
+
+
+418
+0:27:11,0 --> 0:27:13,67
+at the precast plant.
+
+
+419
+0:27:13,67 --> 0:27:17,733
+So the electrical conduit and
+boxes are being cast right in,
+
+
+420
+0:27:17,733 --> 0:27:20,567
+holes for the plumbing
+being cast right in.
+
+
+421
+0:27:20,567 --> 0:27:24,333
+So a lot of that is happening
+at the manufacturer's site
+
+
+422
+0:27:24,333 --> 0:27:27,367
+rather than happening
+at the job site.
+
+
+423
+0:27:27,367 --> 0:27:30,3
+And that's something that a lot
+of insurance companies like
+
+
+424
+0:27:30,3 --> 0:27:35,567
+because they feel it's a more
+controlled environment.
+
+
+425
+0:27:35,567 --> 0:27:39,567
+And then we also do a lot of
+transportation products.
+
+
+426
+0:27:39,567 --> 0:27:42,733
+In Illinois, the three biggest
+transportation products,
+
+
+427
+0:27:42,733 --> 0:27:44,667
+well, four really.
+
+
+428
+0:27:44,667 --> 0:27:48,9
+Bulb tees, like you see
+going across.
+
+
+429
+0:27:48,9 --> 0:27:52,967
+Box beams--those are usually
+for shorter bridges, they're
+
+
+430
+0:27:52,967 --> 0:27:58,167
+hollow boxes, usually they have
+like a styrofoam piece in the
+
+
+431
+0:27:58,167 --> 0:28:1,9
+middle with four sides
+of concrete around it.
+
+
+432
+0:28:1,9 --> 0:28:4,267
+The bulb tees are shaped
+kind of like this with
+
+
+433
+0:28:4,267 --> 0:28:7,333
+a bulb on the bottom.
+
+
+434
+0:28:7,333 --> 0:28:11,467
+Sound wall--up in the
+Chicago area, there's quite
+
+
+435
+0:28:11,467 --> 0:28:13,5
+a bit of sound wall.
+
+
+436
+0:28:13,5 --> 0:28:16,533
+And then also
+retaining wall systems.
+
+
+437
+0:28:16,533 --> 0:28:18,633
+So those are the biggest
+transportation products
+
+
+438
+0:28:18,633 --> 0:28:19,933
+that we see.
+
+
+439
+0:28:19,933 --> 0:28:21,267
+Yes?
+
+
+440
+0:28:21,267 --> 0:28:22,6
+>> male speaker:
+[unclear audio].
+
+
+441
+0:28:22,6 --> 0:28:23,733
+>> Ms. McIntyre:
+He was asking what
+
+
+442
+0:28:23,733 --> 0:28:25,1
+sound wall is.
+
+
+443
+0:28:25,1 --> 0:28:28,167
+Sound wall is a wall
+system that you would see
+
+
+444
+0:28:28,167 --> 0:28:29,9
+on the side of a highway.
+
+
+445
+0:28:29,9 --> 0:28:33,267
+So usually it's some kind of
+decorative concrete piece
+
+
+446
+0:28:33,267 --> 0:28:37,567
+about 8 inches thick.
+
+
+447
+0:28:37,567 --> 0:28:40,867
+You see it in more densely
+populated urban areas where
+
+
+448
+0:28:40,867 --> 0:28:43,333
+they don't want the sound of
+the highway going to the homes
+
+
+449
+0:28:43,333 --> 0:28:46,467
+on either side, or the
+businesses on either side.
+
+
+450
+0:28:46,467 --> 0:28:52,467
+So we see a lot of that up
+north, not so much down here.
+
+
+451
+0:28:52,467 --> 0:28:56,267
+So that's kind of the typical
+products that you see
+
+
+452
+0:28:56,267 --> 0:28:57,967
+with precast concrete.
+
+
+453
+0:28:57,967 --> 0:28:59,6
+Does anybody have any
+questions about any of
+
+
+454
+0:28:59,6 --> 0:29:5,8
+the products that you've seen?
+
+
+455
+0:29:5,8 --> 0:29:7,667
+>> male speaker:
+I've got a quick question.
+
+
+456
+0:29:7,667 --> 0:29:8,867
+>> Ms. McInyre:
+Oh, yeah.
+
+
+457
+0:29:8,867 --> 0:29:10,833
+>> male speaker:
+On several of the buildings,
+
+
+458
+0:29:10,833 --> 0:29:13,6
+like when they were
+talking about buildings,
+
+
+459
+0:29:13,6 --> 0:29:16,0
+I'm assuming that some of
+that is hollowcore with
+
+
+460
+0:29:16,0 --> 0:29:20,9
+some kind of insulation
+[unclear audio] unit?
+
+
+461
+0:29:20,9 --> 0:29:22,433
+>> Ms. McIntyre:
+For the walls or for the floors?
+
+
+462
+0:29:22,433 --> 0:29:24,867
+>> male speaker:
+Yes, for the exterior,
+
+
+463
+0:29:24,867 --> 0:29:26,967
+primarily for the
+exterior walls.
+
+
+464
+0:29:26,967 --> 0:29:28,5
+>> Ms. McIntyre:
+Yeah, some of them, not so they
+
+
+465
+0:29:28,5 --> 0:29:31,4
+don't use, in this part of the
+country we don't see a whole lot
+
+
+466
+0:29:31,4 --> 0:29:34,4
+of hollowcore being used
+for the wall systems.
+
+
+467
+0:29:34,4 --> 0:29:37,233
+In Wisconsin, we do
+see that sometimes.
+
+
+468
+0:29:37,233 --> 0:29:40,4
+So it's really a matter of
+what's available locally.
+
+
+469
+0:29:40,4 --> 0:29:46,5
+But yeah, you can put insulation
+right into the wall panels.
+
+
+470
+0:29:46,5 --> 0:29:49,833
+It depends on what you're using
+it for that starts to make it
+
+
+471
+0:29:49,833 --> 0:29:51,433
+a little bit more expensive.
+
+
+472
+0:29:51,433 --> 0:29:54,3
+So a lot of times you'll put up
+the concrete system and then
+
+
+473
+0:29:54,3 --> 0:29:57,733
+put the insulaion and then
+put the dry wall over it if
+
+
+474
+0:29:57,733 --> 0:29:59,433
+you're going to dry wall it.
+
+
+475
+0:29:59,433 --> 0:30:2,2
+But if you're not going to
+dry wall over it, you can
+
+
+476
+0:30:2,2 --> 0:30:7,467
+put the insulation right
+in the middle of it.
+
+
+477
+0:30:7,467 --> 0:30:9,6
+Anything else?
+
+
+478
+0:30:9,6 --> 0:30:11,767
+Well, I thought I would just
+show you some projects just so
+
+
+479
+0:30:11,767 --> 0:30:16,3
+you can see what typical
+projects look like with precast.
+
+
+480
+0:30:16,3 --> 0:30:21,133
+We do a lot of athletic
+facilities--the risers, beams,
+
+
+481
+0:30:21,133 --> 0:30:24,567
+raker beams, the
+exterior systems.
+
+
+482
+0:30:24,567 --> 0:30:28,1
+We see a lot of this thin brick
+being added right to the
+
+
+483
+0:30:28,1 --> 0:30:31,667
+precast wall panels so you get
+a lot of decorative finishes
+
+
+484
+0:30:31,667 --> 0:30:35,2
+that way, but we see
+a lot of those.
+
+
+485
+0:30:35,2 --> 0:30:39,933
+And a lot of schools are using
+precast these days, whether
+
+
+486
+0:30:39,933 --> 0:30:45,33
+they be just the gymnasium
+with the steel form or the
+
+
+487
+0:30:45,33 --> 0:30:49,6
+steel structure on the interior
+with precast wall panels
+
+
+488
+0:30:49,6 --> 0:30:53,2
+around it or decorative pieces.
+
+
+489
+0:30:53,2 --> 0:30:56,867
+Centralia High School just did
+a really nice high school
+
+
+490
+0:30:56,867 --> 0:30:59,467
+out of precast.
+
+
+491
+0:30:59,467 --> 0:31:1,6
+A lot of healh care facilities.
+
+
+492
+0:31:1,6 --> 0:31:8,2
+In the healthcare market we see
+more of the exterior skin on the
+
+
+493
+0:31:8,2 --> 0:31:11,7
+cladding products being used.
+
+
+494
+0:31:11,7 --> 0:31:15,3
+Some designers feel like
+there's vibration issues that
+
+
+495
+0:31:15,3 --> 0:31:19,667
+they want to stay away from
+with the structural system.
+
+
+496
+0:31:19,667 --> 0:31:24,567
+Although I have seen it used
+successfully, structural systems
+
+
+497
+0:31:24,567 --> 0:31:28,767
+used successfully in
+healthcare as well.
+
+
+498
+0:31:28,767 --> 0:31:35,467
+Industrial faciliies.
+
+
+499
+0:31:35,467 --> 0:31:40,367
+Industrial facilities, a lot of
+warehouses, food facilities,
+
+
+500
+0:31:40,367 --> 0:31:42,967
+things like that, we see
+a lot of those used.
+
+
+501
+0:31:42,967 --> 0:31:45,567
+I don't even remember what
+that picture looked like.
+
+
+502
+0:31:45,567 --> 0:31:47,433
+Municipal buildings.
+
+
+503
+0:31:47,433 --> 0:31:51,933
+We see a lot of every, well
+lately, half of my members seem
+
+
+504
+0:31:51,933 --> 0:31:57,733
+to be working on water systems,
+water reclamation projects.
+
+
+505
+0:31:57,733 --> 0:32:0,6
+That seems to be one of
+the few building types
+
+
+506
+0:32:0,6 --> 0:32:3,0
+that's still going
+up these days.
+
+
+507
+0:32:3,0 --> 0:32:5,4
+But a lot of municipal
+buildings, anywhere where
+
+
+508
+0:32:5,4 --> 0:32:7,533
+the tenant is going to be
+there for a long time and
+
+
+509
+0:32:7,533 --> 0:32:11,633
+starts to really look at the
+long-term cost-effectiveness
+
+
+510
+0:32:11,633 --> 0:32:16,9
+of using insulated wall
+panels, for instance.
+
+
+511
+0:32:16,9 --> 0:32:18,1
+>> Dr. Wahby:
+I have a question.
+
+
+512
+0:32:18,1 --> 0:32:19,467
+>> Ms. McIntyre:
+Yes?
+
+
+513
+0:32:19,467 --> 0:32:20,633
+>> Dr. Wahby:
+The previous screen, the
+
+
+514
+0:32:20,633 --> 0:32:23,33
+building to the right,
+these walls are structural
+
+
+515
+0:32:23,33 --> 0:32:25,367
+or pure architectural?
+
+
+516
+0:32:25,367 --> 0:32:26,467
+>> Ms. McIntyre:
+Right here?
+
+
+517
+0:32:26,467 --> 0:32:27,733
+>> Dr. Wahby:
+Yes, and the shell.
+
+
+518
+0:32:27,733 --> 0:32:28,867
+>> Ms. McIntyre:
+Yes, those are actually
+
+
+519
+0:32:28,867 --> 0:32:30,333
+structural wall panels.
+
+
+520
+0:32:30,333 --> 0:32:35,7
+It's what our industry likes to
+call a total precast building,
+
+
+521
+0:32:35,7 --> 0:32:39,733
+which means that it's got
+precast columns and beams.
+
+
+522
+0:32:39,733 --> 0:32:42,667
+You can see the double tee
+floors, and then the exterior
+
+
+523
+0:32:42,667 --> 0:32:47,9
+wall panels are also structural,
+so they have eliminated all the
+
+
+524
+0:32:47,9 --> 0:32:54,267
+perimeter structural framing.
+
+
+525
+0:32:54,267 --> 0:32:56,667
+Office buildings.
+
+
+526
+0:32:56,667 --> 0:32:59,767
+This is the FBI building
+in Chicago.
+
+
+527
+0:32:59,767 --> 0:33:2,3
+One of the interesting things
+that we've been doing a lot of
+
+
+528
+0:33:2,3 --> 0:33:6,233
+research on recently is
+blast-resistant design.
+
+
+529
+0:33:6,233 --> 0:33:10,467
+We've been working with the US
+Airforce on blast-resistant,
+
+
+530
+0:33:10,467 --> 0:33:12,633
+and that seems to be a
+hot topic with a lot of
+
+
+531
+0:33:12,633 --> 0:33:15,933
+government buildings ever
+since Oklahoma City.
+
+
+532
+0:33:15,933 --> 0:33:19,633
+That seems to be
+a key element.
+
+
+533
+0:33:19,633 --> 0:33:22,0
+One of the other interesting
+things, this is a building
+
+
+534
+0:33:22,0 --> 0:33:25,8
+actually in Milwaukee, where
+they took all the cladding off
+
+
+535
+0:33:25,8 --> 0:33:29,233
+and they wanted to save the
+office building so they re-clad
+
+
+536
+0:33:29,233 --> 0:33:32,8
+it in architectural precast,
+and that's another trend that
+
+
+537
+0:33:32,8 --> 0:33:36,433
+I've seen quite a bit of.
+
+
+538
+0:33:36,433 --> 0:33:41,233
+And then a lot of residential,
+multi-family housing.
+
+
+539
+0:33:41,233 --> 0:33:45,233
+Not a lot of people are building
+that this year, but in
+
+
+540
+0:33:45,233 --> 0:33:50,433
+past years we've seen precast
+used for that quite a bit.
+
+
+541
+0:33:50,433 --> 0:33:52,833
+And then transportation
+products.
+
+
+542
+0:33:52,833 --> 0:33:55,133
+This is kind of interesting.
+
+
+543
+0:33:55,133 --> 0:33:59,633
+This bridge here is going over
+the Dust Plains River on the
+
+
+544
+0:33:59,633 --> 0:34:7,1
+new leg of I-355, and the
+beams going across there
+
+
+545
+0:34:7,1 --> 0:34:10,567
+were 176 feet long.
+
+
+546
+0:34:10,567 --> 0:34:14,2
+So one of the great things about
+that is it really shows you
+
+
+547
+0:34:14,2 --> 0:34:17,933
+how long you can get
+with precast concrete.
+
+
+548
+0:34:17,933 --> 0:34:22,1
+They really were trying to be
+very careful about putting
+
+
+549
+0:34:22,1 --> 0:34:26,733
+anything into the river and
+disturbing the habitat of a
+
+
+550
+0:34:26,733 --> 0:34:30,133
+dragonfly that was there,
+so they had to have these
+
+
+551
+0:34:30,133 --> 0:34:34,33
+long beams and not
+disturb the habitat.
+
+
+552
+0:34:34,33 --> 0:34:36,9
+And they went to a lot of
+expense and trouble to
+
+
+553
+0:34:36,9 --> 0:34:40,867
+create this bridge, and then
+it turns out that where the
+
+
+554
+0:34:40,867 --> 0:34:44,267
+bridge casts a shadow the
+dragonflies won't fly there
+
+
+555
+0:34:44,267 --> 0:34:50,67
+anyway, so it ended
+up being for naught.
+
+
+556
+0:34:50,67 --> 0:34:52,967
+But it did prove that
+you can go 176 feet
+
+
+557
+0:34:52,967 --> 0:34:56,7
+with precast bridge beams.
+
+
+558
+0:34:56,7 --> 0:34:59,8
+And then probably one of the
+most common types of projects
+
+
+559
+0:34:59,8 --> 0:35:7,67
+that you're going to see
+with precast products are
+
+
+560
+0:35:7,67 --> 0:35:9,867
+going to be parking decks.
+
+
+561
+0:35:9,867 --> 0:35:14,4
+You know, that 60-foot-long
+double tee that'll give you,
+
+
+562
+0:35:14,4 --> 0:35:18,667
+you know, a couple of bays
+of parking and you can do
+
+
+563
+0:35:18,667 --> 0:35:21,967
+decorative finishes on the
+exterior, you can do simple
+
+
+564
+0:35:21,967 --> 0:35:24,0
+finishes on the exterior.
+
+
+565
+0:35:24,0 --> 0:35:25,933
+I just did a seminar
+yesterday on the history
+
+
+566
+0:35:25,933 --> 0:35:28,733
+of the parking deck.
+
+
+567
+0:35:28,733 --> 0:35:33,333
+And it's kind of interesting
+to see, it's kind of turning,
+
+
+568
+0:35:33,333 --> 0:35:37,167
+they used to look a lot like
+buildings, and then for awhile
+
+
+569
+0:35:37,167 --> 0:35:40,633
+they were very kind of simple
+gray boxes and now it's kind of
+
+
+570
+0:35:40,633 --> 0:35:43,8
+turning back and now they're all
+looking like buildings again,
+
+
+571
+0:35:43,8 --> 0:35:47,167
+so that's kind of interesting.
+
+
+572
+0:35:47,167 --> 0:35:53,7
+So that's really typically where
+we see the products being used.
+
+
+573
+0:35:53,7 --> 0:35:59,4
+You guys have any questions
+about the projects?
+
+
+574
+0:35:59,4 --> 0:36:1,667
+Okay, well, I thought
+I would finish up by
+
+
+575
+0:36:1,667 --> 0:36:5,333
+showing you a plant tour.
+
+
+576
+0:36:5,333 --> 0:36:8,8
+ >> narrator:
+ This video will explain the
+
+
+577
+0:36:8,8 --> 0:36:12,3
+ entire process of producing
+ a prestressed concrete unit
+
+
+578
+0:36:12,3 --> 0:36:14,167
+ at a prestressing plant.
+
+
+579
+0:36:14,167 --> 0:36:17,267
+ In this case, a double tee.
+
+
+580
+0:36:17,267 --> 0:36:20,767
+ A double tee is used primarily
+ in parking structures but can
+
+
+581
+0:36:20,767 --> 0:36:24,33
+be used in virtually any type
+of building, including office
+
+
+582
+0:36:24,33 --> 0:36:28,4
+buildings, industrial buildings,
+ and schools, to name a few.
+
+
+583
+0:36:28,4 --> 0:36:32,0
+Double tees are kind of a unique
+product, having a capability
+
+
+584
+0:36:32,0 --> 0:36:33,967
+ of having a very long span.
+
+
+585
+0:36:33,967 --> 0:36:36,267
+ And when we start talking
+ long spans, you're talking
+
+
+586
+0:36:36,267 --> 0:36:41,767
+ 60 feet plus, and sometimes
+ goes as high as 120 feet.
+
+
+587
+0:36:41,767 --> 0:36:43,133
+ >> narrator:
+ The typical day of a
+
+
+588
+0:36:43,133 --> 0:36:45,0
+ prestressing plant usually
+ starts very early
+
+
+589
+0:36:45,0 --> 0:36:47,0
+ in the morning.
+
+
+590
+0:36:47,0 --> 0:36:50,567
+ The product from the previous
+ day's casting has cured by now
+
+
+591
+0:36:50,567 --> 0:36:53,2
+ and the pieces need to be
+ stripped from the form to
+
+
+592
+0:36:53,2 --> 0:36:56,5
+ get ready for today's casting.
+
+
+593
+0:36:56,5 --> 0:36:59,133
+ For any prestressing plant,
+ it is very important to
+
+
+594
+0:36:59,133 --> 0:37:1,233
+ maintain a clean plant.
+
+
+595
+0:37:1,233 --> 0:37:4,167
+ Maintaining neatness is not
+ only positive from an image
+
+
+596
+0:37:4,167 --> 0:37:7,267
+ standpoint but also from a
+ safety standpoint, since any
+
+
+597
+0:37:7,267 --> 0:37:10,1
+debris that might be left over
+from the day before could create
+
+
+598
+0:37:10,1 --> 0:37:14,67
+ a tripping hazard or
+ other safety problem.
+
+
+599
+0:37:14,67 --> 0:37:19,33
+ The first part of the process
+ is setting up of the form.
+
+
+600
+0:37:19,33 --> 0:37:22,2
+ A thorough cleaning of the
+ entire form is done with basic
+
+
+601
+0:37:22,2 --> 0:37:25,233
+ labor and appropriate
+ cleaning equipment.
+
+
+602
+0:37:25,233 --> 0:37:27,633
+ Setting the side forms, or
+ in the case of a typical
+
+
+603
+0:37:27,633 --> 0:37:30,9
+ double tee, the forms may
+ be fixed forms with an
+
+
+604
+0:37:30,9 --> 0:37:35,33
+ appropriate draft to allow
+ for easy stripping.
+
+
+605
+0:37:35,33 --> 0:37:37,0
+ Once the bed is clean,
+ it's ready for
+
+
+606
+0:37:37,0 --> 0:37:41,3
+ setting up today's cast.
+
+
+607
+0:37:41,3 --> 0:37:44,9
+ This particular bed is set
+ up for five double tees,
+
+
+608
+0:37:44,9 --> 0:37:47,267
+ each about 60 feet long.
+
+
+609
+0:37:47,267 --> 0:37:51,433
+ The bed has a total
+ length of 400 feet.
+
+
+610
+0:37:51,433 --> 0:37:54,9
+ This is a self-stressing form,
+ where the form itself is
+
+
+611
+0:37:54,9 --> 0:37:57,533
+ designed to take the total
+ prestressed force and
+
+
+612
+0:37:57,533 --> 0:38:3,2
+compression, and also to handle
+the eccentricity of the strands.
+
+
+613
+0:38:3,2 --> 0:38:6,367
+ Sometimes the producer may use
+ a form that is set between
+
+
+614
+0:38:6,367 --> 0:38:9,833
+ bulkheads that are built
+ right into the ground.
+
+
+615
+0:38:9,833 --> 0:38:13,167
+ The prestressing force is then
+ resisted entirely by the
+
+
+616
+0:38:13,167 --> 0:38:16,567
+bulkheads and their foundations.
+
+
+617
+0:38:16,567 --> 0:38:18,967
+ Next, the strands are
+ placed in the form and
+
+
+618
+0:38:18,967 --> 0:38:22,2
+ extended from end to end.
+
+
+619
+0:38:22,2 --> 0:38:25,1
+Crew members thread the strands
+ through each of the dividers
+
+
+620
+0:38:25,1 --> 0:38:29,233
+ and then run them through the
+ stressing plates at each end.
+
+
+621
+0:38:29,233 --> 0:38:31,2
+ The typical spacing
+ of the strands is
+
+
+622
+0:38:31,2 --> 0:38:35,3
+ approximately 2 inches.
+
+
+623
+0:38:35,3 --> 0:38:38,7
+ This divider is a steel device
+ that separates the individual
+
+
+624
+0:38:38,7 --> 0:38:41,9
+ double tee units from
+ one another.
+
+
+625
+0:38:41,9 --> 0:38:44,5
+ A gap of about a foot is
+ typical between the ends
+
+
+626
+0:38:44,5 --> 0:38:46,6
+ of the adjacent pieces.
+
+
+627
+0:38:46,6 --> 0:38:50,367
+This gap is required so the
+strands can be accessed and cut
+
+
+628
+0:38:50,367 --> 0:38:55,833
+ and that each double tee can
+ be stripped from the forms.
+
+
+629
+0:38:55,833 --> 0:38:59,0
+ The next step is the
+ tensioning of the strands.
+
+
+630
+0:38:59,0 --> 0:39:2,3
+ In this case, we have a strand
+ pattern with straight strands
+
+
+631
+0:39:2,3 --> 0:39:6,67
+ of six strands in each
+ stem, as shown here.
+
+
+632
+0:39:6,67 --> 0:39:10,67
+The strands are first tensioned
+ to about two to five kips,
+
+
+633
+0:39:10,67 --> 0:39:14,0
+ based on the gauge
+ pressure reading.
+
+
+634
+0:39:14,0 --> 0:39:17,2
+ In this case, a mark is
+ made on the strand after
+
+
+635
+0:39:17,2 --> 0:39:19,933
+ the preload is applied.
+
+
+636
+0:39:19,933 --> 0:39:23,67
+The strand is then tensioned
+to the specified level and
+
+
+637
+0:39:23,67 --> 0:39:27,3
+is measured using the gauge
+pressure on the hydraulic pump.
+
+
+638
+0:39:27,3 --> 0:39:30,5
+ The QC technician then checks
+ the elongation against
+
+
+639
+0:39:30,5 --> 0:39:33,7
+ the theoretical elongation.
+
+
+640
+0:39:33,7 --> 0:39:36,533
+ The requirement that is the
+ force on the gauge and the
+
+
+641
+0:39:36,533 --> 0:39:40,533
+ elongation must match
+ within 5 percent.
+
+
+642
+0:39:40,533 --> 0:39:43,167
+ If that tolerance is not
+ achieved, the reason must
+
+
+643
+0:39:43,167 --> 0:39:45,533
+ be established and the
+ strand may have to be
+
+
+644
+0:39:45,533 --> 0:39:49,633
+ de-tensioned and re-tensioned.
+
+
+645
+0:39:49,633 --> 0:39:52,5
+ After the strands of this
+ double tee are all stressed,
+
+
+646
+0:39:52,5 --> 0:39:55,5
+ the remaining embeds
+ are set in place.
+
+
+647
+0:39:55,5 --> 0:40:0,767
+These include stem reinforcing,
+ lifting devices that will be
+
+
+648
+0:40:0,767 --> 0:40:6,433
+ used to strip and handle the
+ piece, forms for block outs
+
+
+649
+0:40:6,433 --> 0:40:11,167
+ in the flange and forms for
+ blockouts in the stems,
+
+
+650
+0:40:11,167 --> 0:40:16,133
+ flange reinforcing, and flange
+ connectors, or vectors,
+
+
+651
+0:40:16,133 --> 0:40:18,4
+ along the edges.
+
+
+652
+0:40:18,4 --> 0:40:21,3
+In this case, one of the double
+ tees in the bed has typical
+
+
+653
+0:40:21,3 --> 0:40:26,1
+flange connectors applied along
+one edge and special flat plate
+
+
+654
+0:40:26,1 --> 0:40:29,133
+ connectors applied along the
+ other edge to accommodate
+
+
+655
+0:40:29,133 --> 0:40:33,4
+ connections across an
+ expansion joint.
+
+
+656
+0:40:33,4 --> 0:40:36,733
+ The form is now ready to have
+concrete poured, but only after
+
+
+657
+0:40:36,733 --> 0:40:40,0
+ a pre-pour quality control
+ check has been made and the
+
+
+658
+0:40:40,0 --> 0:40:43,267
+ QC person signs off on it.
+
+
+659
+0:40:43,267 --> 0:40:46,967
+ This QC check can also be done
+ by the bed superintendant and
+
+
+660
+0:40:46,967 --> 0:40:49,967
+ depends on the particular
+ plant's practices.
+
+
+661
+0:40:49,967 --> 0:40:52,633
+ Either way, the check
+ is critical to ensure an
+
+
+662
+0:40:52,633 --> 0:40:54,933
+ end product with the
+ highest quality.
+
+
+663
+0:40:54,933 --> 0:40:57,467
+ There's all these things you
+look for, the mesh, you look for
+
+
+664
+0:40:57,467 --> 0:41:0,133
+anything that could be touching
+ the stems on the bottom,
+
+
+665
+0:41:0,133 --> 0:41:2,9
+ wire ties that might have fell
+ in there, because that would
+
+
+666
+0:41:2,9 --> 0:41:5,0
+ develop some type
+ of a rough spot.
+
+
+667
+0:41:5,0 --> 0:41:6,233
+ You check the length.
+
+
+668
+0:41:6,233 --> 0:41:8,867
+ You want to make sure that
+ the damps are correct.
+
+
+669
+0:41:8,867 --> 0:41:12,567
+ Do we have the strand
+ stripped properly?
+
+
+670
+0:41:12,567 --> 0:41:17,33
+So, there are a lot of critical
+ areas that you need to verify.
+
+
+671
+0:41:17,33 --> 0:41:18,5
+ >> narrator:
+ Concrete is mixed at the
+
+
+672
+0:41:18,5 --> 0:41:21,233
+ batch plant under tightly
+ controlled conditions.
+
+
+673
+0:41:21,233 --> 0:41:24,1
+ The cement is supplied
+ using tanker trucks.
+
+
+674
+0:41:24,1 --> 0:41:27,33
+ Here the cement is being blown
+ from the tanker through piping
+
+
+675
+0:41:27,33 --> 0:41:29,733
+ to the cement silos.
+
+
+676
+0:41:29,733 --> 0:41:32,5
+ When needed, aggregates
+ are delivered to bins
+
+
+677
+0:41:32,5 --> 0:41:34,333
+ in the batch plant.
+
+
+678
+0:41:34,333 --> 0:41:36,933
+ The aggregates are stored
+ outside of the batch plant
+
+
+679
+0:41:36,933 --> 0:41:38,8
+ in separate bins.
+
+
+680
+0:41:38,8 --> 0:41:43,0
+ In this case, an enclosed
+vertical bin system is utilized.
+
+
+681
+0:41:43,0 --> 0:41:47,167
+ During winter in northern
+ climates, the aggregates must
+
+
+682
+0:41:47,167 --> 0:41:50,4
+ be heated to get them to flow
+ properly through the batching
+
+
+683
+0:41:50,4 --> 0:41:55,333
+ system and to maintain proper
+ concrete mix temperatures.
+
+
+684
+0:41:55,333 --> 0:41:57,233
+ Payloaders are used to
+ shuffle the materials
+
+
+685
+0:41:57,233 --> 0:41:59,433
+ to the conveyor belt.
+
+
+686
+0:41:59,433 --> 0:42:3,1
+Computers are used to
+proportion the materials
+
+
+687
+0:42:3,1 --> 0:42:5,167
+ for the desired concrete mix.
+
+
+688
+0:42:5,167 --> 0:42:9,967
+Cement, sand, stone, water, and
+ add-mixtures are measured
+
+
+689
+0:42:9,967 --> 0:42:13,1
+ according to signals
+ from the computer.
+
+
+690
+0:42:13,1 --> 0:42:16,0
+ After the concrete is
+ mixed, it is discharged
+
+
+691
+0:42:16,0 --> 0:42:18,0
+ into a delivery device.
+
+
+692
+0:42:18,0 --> 0:42:20,133
+ It's imperative that the
+ concrete mix be delivered
+
+
+693
+0:42:20,133 --> 0:42:23,33
+ to the form as
+ soon as possible.
+
+
+694
+0:42:23,33 --> 0:42:25,967
+ These vehicles are called
+ tuckers, and they are used
+
+
+695
+0:42:25,967 --> 0:42:29,533
+ to deliver the concrete
+ to the bed in the yard.
+
+
+696
+0:42:29,533 --> 0:42:32,267
+ A soft, consolidating
+ concrete is being used
+
+
+697
+0:42:32,267 --> 0:42:35,2
+ to cast these particular
+ double tees.
+
+
+698
+0:42:35,2 --> 0:42:37,933
+ With this type of concrete,
+ vibration is not required
+
+
+699
+0:42:37,933 --> 0:42:40,233
+ to consolidate the concrete.
+
+
+700
+0:42:40,233 --> 0:42:43,33
+ However, minor controlled
+ vibration is used in the
+
+
+701
+0:42:43,33 --> 0:42:46,2
+ double tee stems to help
+ remove air from the sides of
+
+
+702
+0:42:46,2 --> 0:42:49,9
+ the form, reducing bug
+ holes in the stems.
+
+
+703
+0:42:49,9 --> 0:42:53,167
+ There are many advantages in
+ using this type of concrete.
+
+
+704
+0:42:53,167 --> 0:42:56,967
+ We do use self-consolidating
+ concrete for our double tees.
+
+
+705
+0:42:56,967 --> 0:43:0,67
+ We feel that it gives
+ us a better finish.
+
+
+706
+0:43:0,67 --> 0:43:3,7
+ We feel that it's easier to
+ place, takes less labor,
+
+
+707
+0:43:3,7 --> 0:43:7,7
+ less strain on the laborer
+ to place that concrete.
+
+
+708
+0:43:7,7 --> 0:43:9,367
+ >> narrator:
+The QC Department will make the
+
+
+709
+0:43:9,367 --> 0:43:12,6
+ necessary tests at this time,
+ including a temperature check
+
+
+710
+0:43:12,6 --> 0:43:14,767
+ of the concrete.
+
+
+711
+0:43:14,767 --> 0:43:18,767
+ Since SCC is being used here,
+ a spread test is done to check
+
+
+712
+0:43:18,767 --> 0:43:22,567
+ the concrete flow in
+ lieu of a slump test.
+
+
+713
+0:43:22,567 --> 0:43:24,9
+ The spread is measured
+ to assure conformance
+
+
+714
+0:43:24,9 --> 0:43:27,167
+ to the planned spread.
+
+
+715
+0:43:27,167 --> 0:43:30,133
+ The edges of the circle of
+ concrete are also inspected
+
+
+716
+0:43:30,133 --> 0:43:32,5
+ to check for segregation.
+
+
+717
+0:43:32,5 --> 0:43:37,0
+The appearance is translated to
+a visual stability index number.
+
+
+718
+0:43:37,0 --> 0:43:40,633
+ There is a check
+ for air content.
+
+
+719
+0:43:40,633 --> 0:43:43,5
+ Cylinders are filled and
+ will be used later for
+
+
+720
+0:43:43,5 --> 0:43:46,633
+ strength tests of
+ the cured concrete.
+
+
+721
+0:43:46,633 --> 0:43:50,133
+ Back at the bed, the concrete
+ placement continues.
+
+
+722
+0:43:50,133 --> 0:43:54,633
+ A vibrating screed is used
+ to level the surface evenly.
+
+
+723
+0:43:54,633 --> 0:43:57,933
+ A bullfloat is used to
+ finish the surface.
+
+
+724
+0:43:57,933 --> 0:44:0,767
+ An evaporation-reducing
+ spray is also being applied
+
+
+725
+0:44:0,767 --> 0:44:2,8
+ to the surface to
+ minimize the potential
+
+
+726
+0:44:2,8 --> 0:44:5,433
+for plastic shrinkage cracking.
+
+
+727
+0:44:5,433 --> 0:44:8,0
+ The final finish will vary
+ depending on the use
+
+
+728
+0:44:8,0 --> 0:44:10,67
+ of the double tee.
+
+
+729
+0:44:10,67 --> 0:44:13,467
+ If a cast-in-place topping is
+ necessary, the surface will be
+
+
+730
+0:44:13,467 --> 0:44:17,7
+ made very rough so that a
+ good bond will be achieved.
+
+
+731
+0:44:17,7 --> 0:44:20,567
+ If it is a roof, the finish
+ will be relatively smooth,
+
+
+732
+0:44:20,567 --> 0:44:22,933
+ but not necessarily perfect.
+
+
+733
+0:44:22,933 --> 0:44:25,967
+ In this case the surface is
+ broomed, as these double tees
+
+
+734
+0:44:25,967 --> 0:44:29,1
+ are being used in a
+ parking structure.
+
+
+735
+0:44:29,1 --> 0:44:31,567
+ Different patterns can be
+ applied depending on the
+
+
+736
+0:44:31,567 --> 0:44:34,867
+ needs of the project.
+
+
+737
+0:44:34,867 --> 0:44:37,667
+ The bed is now in
+ its curing stage.
+
+
+738
+0:44:37,667 --> 0:44:41,33
+ Sometimes, particularly in
+ cold climates, the double tee
+
+
+739
+0:44:41,33 --> 0:44:43,267
+ may be covered with tarps.
+
+
+740
+0:44:43,267 --> 0:44:45,8
+ In other areas,
+ they may be open.
+
+
+741
+0:44:45,8 --> 0:44:50,0
+Accelerated curing is often done
+using live steam or radiant heat
+
+
+742
+0:44:50,0 --> 0:44:53,133
+ from heaters attached
+ to the form itself.
+
+
+743
+0:44:53,133 --> 0:44:57,1
+ Double tees for parking
+ garages really need to be
+
+
+744
+0:44:57,1 --> 0:44:59,233
+ held to a high standard.
+
+
+745
+0:44:59,233 --> 0:45:1,433
+ When they're assembled
+ in a garage, they make
+
+
+746
+0:45:1,433 --> 0:45:3,5
+ the finished surface.
+
+
+747
+0:45:3,5 --> 0:45:6,7
+ There are tolerances for
+ putting these pieces together,
+
+
+748
+0:45:6,7 --> 0:45:9,567
+ offsets in the surfaces.
+
+
+749
+0:45:9,567 --> 0:45:12,4
+ All of the connections are
+ very sensitive as well.
+
+
+750
+0:45:12,4 --> 0:45:15,4
+ To be executed properly, the
+ embedments in the double tee
+
+
+751
+0:45:15,4 --> 0:45:17,667
+ have to be placed properly.
+
+
+752
+0:45:17,667 --> 0:45:22,1
+ So there are, again, a lot
+ of critical issues that you
+
+
+753
+0:45:22,1 --> 0:45:24,667
+ have to be concerned with
+ to get proper performance
+
+
+754
+0:45:24,667 --> 0:45:28,233
+ out of that simple double tee.
+
+
+755
+0:45:28,233 --> 0:45:31,733
+ After 12 to 16 hours of
+ curing, the tees are
+
+
+756
+0:45:31,733 --> 0:45:34,33
+ ready to be stripped.
+
+
+757
+0:45:34,33 --> 0:45:37,333
+ The QC Department first tests
+ the concrete to be sure it has
+
+
+758
+0:45:37,333 --> 0:45:40,933
+ achieved the strength required
+ to de-tension the strands,
+
+
+759
+0:45:40,933 --> 0:45:43,967
+ typically 3500 psi.
+
+
+760
+0:45:43,967 --> 0:45:47,567
+ This is a typical test
+ being conducted.
+
+
+761
+0:45:47,567 --> 0:45:51,2
+The strands are de-tensioned in
+a specific sequence established
+
+
+762
+0:45:51,2 --> 0:45:54,9
+ by the QC Department or
+ the plant engineer.
+
+
+763
+0:45:54,9 --> 0:45:58,233
+ Here, personnel are positioned
+ at each end of the bed and at
+
+
+764
+0:45:58,233 --> 0:46:1,6
+ some of the intermediate
+ bulkhead locations.
+
+
+765
+0:46:1,6 --> 0:46:5,933
+ On a signal, they burn
+ the strand at each end.
+
+
+766
+0:46:5,933 --> 0:46:9,267
+ After all the strands are cut
+and block-out formwork has been
+
+
+767
+0:46:9,267 --> 0:46:12,967
+ removed, the tees are
+ stripped from the form.
+
+
+768
+0:46:12,967 --> 0:46:15,933
+ Cables are attached to the
+ lifting devices and each piece
+
+
+769
+0:46:15,933 --> 0:46:19,233
+ is removed and transported
+ to a detailing area for any
+
+
+770
+0:46:19,233 --> 0:46:22,233
+ minor cosmetic touch-ups.
+
+
+771
+0:46:22,233 --> 0:46:25,2
+ Also at this time, the QC
+ Department does a post-pour
+
+
+772
+0:46:25,2 --> 0:46:30,2
+ QC check on each piece that is
+ brought to the detailing area.
+
+
+773
+0:46:30,2 --> 0:46:32,8
+ When I first get back there,
+ I go and check the length
+
+
+774
+0:46:32,8 --> 0:46:36,167
+ of the piece and verify that
+ within, oh there's a tolerance
+
+
+775
+0:46:36,167 --> 0:46:38,633
+ of a quarter inch or so.
+
+
+776
+0:46:38,633 --> 0:46:41,2
+ Check the width, we check
+ the vectors, we check the
+
+
+777
+0:46:41,2 --> 0:46:43,2
+ electrical block-outs.
+
+
+778
+0:46:43,2 --> 0:46:46,833
+ I do a visual for any type of
+ discoloration in the stems
+
+
+779
+0:46:46,833 --> 0:46:51,367
+ underneath the piece, any type
+ of surface cracks, bug holes,
+
+
+780
+0:46:51,367 --> 0:46:54,0
+ just do a complete visual.
+
+
+781
+0:46:54,0 --> 0:46:55,533
+ >> narrator:
+ Any defects are noted so that
+
+
+782
+0:46:55,533 --> 0:47:0,67
+ repairs can be done
+ before shipping the tee.
+
+
+783
+0:47:0,67 --> 0:47:2,9
+After all the work is completed,
+ the double tees are moved into
+
+
+784
+0:47:2,9 --> 0:47:5,433
+the storage area where they are
+ typically stacked using
+
+
+785
+0:47:5,433 --> 0:47:10,333
+ appropriate dunage,
+ located near the ends.
+
+
+786
+0:47:10,333 --> 0:47:13,33
+ When the job site requires
+ the tee to be shipped, it is
+
+
+787
+0:47:13,33 --> 0:47:17,833
+ loaded on a trailer and
+ transported to the job site.
+
+
+788
+0:47:17,833 --> 0:47:20,667
+ What you have just observed
+ is the process for making
+
+
+789
+0:47:20,667 --> 0:47:23,567
+ one type of
+ prestressed product.
+
+
+790
+0:47:23,567 --> 0:47:27,6
+These other types are made using
+ essentially the same process.
+
+
+791
+0:47:27,6 --> 0:47:30,8
+ Hollow-core plank, which are
+ used for floor and roof
+
+
+792
+0:47:30,8 --> 0:47:34,5
+ components in multi-family
+ housing, schools, hotels,
+
+
+793
+0:47:34,5 --> 0:47:36,5
+ and many other buildings.
+
+
+794
+0:47:36,5 --> 0:47:39,467
+ Inverted tee beams, which
+ can be used in any total
+
+
+795
+0:47:39,467 --> 0:47:42,667
+ precast concrete build system.
+
+
+796
+0:47:42,667 --> 0:47:46,433
+ Columns, which are cast
+ horizontally and then rotated
+
+
+797
+0:47:46,433 --> 0:47:48,867
+ in the air at the job site.
+
+
+798
+0:47:48,867 --> 0:47:53,467
+ They are often designed as
+ prestressed components.
+
+
+799
+0:47:53,467 --> 0:47:56,9
+Architectural spandrels, used in
+ office buildings and parking
+
+
+800
+0:47:56,9 --> 0:48:1,1
+ structures, can be made using
+ the prestressing process.
+
+
+801
+0:48:1,1 --> 0:48:4,733
+ Deck slabs and box beams,
+ which are used primarily in
+
+
+802
+0:48:4,733 --> 0:48:8,133
+ short-span bridge
+ construction.
+
+
+803
+0:48:8,133 --> 0:48:10,8
+ Standard AASHTO girders,
+ which are used in
+
+
+804
+0:48:10,8 --> 0:48:14,133
+ long-span bridge
+ construction.
+
+
+805
+0:48:14,133 --> 0:48:16,967
+ Standard bulb tees
+ are also used in
+
+
+806
+0:48:16,967 --> 0:48:20,733
+ long-span bridge
+ construction.
+
+
+807
+0:48:20,733 --> 0:48:24,67
+ Prestressed piles that support
+ any type of building in areas
+
+
+808
+0:48:24,67 --> 0:48:28,433
+ that have unfavorable
+ soil conditions.
+
+
+809
+0:48:28,433 --> 0:48:30,1
+ As you can see, there
+ are many types of
+
+
+810
+0:48:30,1 --> 0:48:32,333
+ prestressed products
+ available.
+
+
+811
+0:48:32,333 --> 0:48:34,9
+ The variety of products that
+ can be prestressed in a
+
+
+812
+0:48:34,9 --> 0:48:38,267
+ long line operation is almost
+ unlimited and is up to the
+
+
+813
+0:48:38,267 --> 0:48:41,867
+ imagination of the
+ design professional.
+
+
+814
+0:48:41,867 --> 0:48:45,4
+ We really do encourage our
+ customers and architects and
+
+
+815
+0:48:45,4 --> 0:48:50,3
+ engineers to get to our
+ plants to really understand
+
+
+816
+0:48:50,3 --> 0:48:52,7
+ how precast concrete is made.
+
+
+817
+0:48:52,7 --> 0:48:56,33
+ They need an understanding of
+ the high quality that they can
+
+
+818
+0:48:56,33 --> 0:49:0,4
+get out of precast concrete, as
+ opposed to the random quality
+
+
+819
+0:49:0,4 --> 0:49:3,67
+ that you might get out of
+ cast-in-place concrete.
+
+
+820
+0:49:3,67 --> 0:49:7,4
+Well, it's important that we do
+things as efficiently as we can
+
+
+821
+0:49:7,4 --> 0:49:11,433
+ and as cost-effectively as we
+can, but also as well as we can.
+
+
+822
+0:49:11,433 --> 0:49:14,267
+ And it's not only my
+ responsibility, but the
+
+
+823
+0:49:14,267 --> 0:49:16,9
+ responsibility of everybody
+ here--management, labor,
+
+
+824
+0:49:16,9 --> 0:49:20,33
+ everybody included--to do the
+ best job that they can to,
+
+
+825
+0:49:20,33 --> 0:49:23,233
+ at the end of the day, make a
+ little bit of money, but also
+
+
+826
+0:49:23,233 --> 0:49:26,967
+ have a customer that is very
+ happy and will possibly want
+
+
+827
+0:49:26,967 --> 0:49:30,533
+ to have some return work
+ coming back our way.
+
+
+828
+0:49:30,533 --> 0:49:40,767
+[no dialogue].
+
+
+829
+0:49:40,767 --> 0:49:42,2
+>> Ms. McIntyre:
+You'll see a very different
+
+
+830
+0:49:42,2 --> 0:49:46,8
+plant when you go to see
+Lombard Architectual, but
+
+
+831
+0:49:46,8 --> 0:49:51,6
+that gives you an idea of the
+process that you go through.
+
+
+832
+0:49:51,6 --> 0:49:54,0
+One of the things that you saw
+there was the prestressing
+
+
+833
+0:49:54,0 --> 0:49:57,33
+operation, and I just
+thought I'd show you some
+
+
+834
+0:49:57,33 --> 0:49:59,7
+samples of prestressing steel.
+
+
+835
+0:49:59,7 --> 0:50:3,1
+So, you know, like they
+mentioned, they'll pull this
+
+
+836
+0:50:3,1 --> 0:50:7,733
+at three or four kips with
+40,000, 50,000 psi, and it
+
+
+837
+0:50:7,733 --> 0:50:11,633
+does have that ability
+to stretch and give.
+
+
+838
+0:50:11,633 --> 0:50:14,1
+They place the concrete
+in, the concrete then
+
+
+839
+0:50:14,1 --> 0:50:16,867
+adheres to that strand.
+
+
+840
+0:50:16,867 --> 0:50:20,967
+After it cures they'll cut
+either end, and then you'll
+
+
+841
+0:50:20,967 --> 0:50:27,833
+have an arch or a camber in the
+beam or wall that you have, and
+
+
+842
+0:50:27,833 --> 0:50:32,0
+that's going to help counteract
+any loads that are placed on it.
+
+
+843
+0:50:32,0 --> 0:50:33,9
+>> Dr. Wahby:
+[unclear audio].
+
+
+844
+0:50:33,9 --> 0:50:35,633
+>> Ms. McIntyre:
+Oh, okay, you've got a--
+
+
+845
+0:50:35,633 --> 0:50:37,233
+>> Dr. Wahby:
+[unclear audio].
+
+
+846
+0:50:37,233 --> 0:50:39,0
+>> Ms. McIntyre:
+Okay, here's a typical rebar so
+
+
+847
+0:50:39,0 --> 0:50:43,7
+you can see the difference,
+you know, that doesn't have
+
+
+848
+0:50:43,7 --> 0:50:46,467
+that same ability.
+
+
+849
+0:50:46,467 --> 0:50:49,767
+>> Dr. Wahby:
+[unlcear audio].
+
+
+850
+0:50:49,767 --> 0:50:51,433
+>> Ms. McIntyre:
+Yeah.
+
+
+851
+0:50:51,433 --> 0:51:2,867
+[no dialogue].
+
+
+852
+0:51:2,867 --> 0:51:4,733
+>> male speaker:
+Yeah, I was just curious what
+
+
+853
+0:51:4,733 --> 0:51:7,333
+you do with the piece of
+concrete deemed unusable,
+
+
+854
+0:51:7,333 --> 0:51:9,433
+like after it's already made?
+
+
+855
+0:51:9,433 --> 0:51:11,467
+>> Ms. McIntyre:
+Well, most of the time they
+
+
+856
+0:51:11,467 --> 0:51:15,7
+try not to have it
+be unusable.
+
+
+857
+0:51:15,7 --> 0:51:18,633
+Every once in awhile a bridge
+beam or something like that
+
+
+858
+0:51:18,633 --> 0:51:21,8
+will be rejected by the DOT,
+and usually then it's just
+
+
+859
+0:51:21,8 --> 0:51:25,633
+crushed and used as road base
+or something like that.
+
+
+860
+0:51:25,633 --> 0:51:31,3
+But by that point, they've got
+$30,000 or $40,000, you know,
+
+
+861
+0:51:31,3 --> 0:51:35,0
+for some of those bridge beams
+especially, invested in it.
+
+
+862
+0:51:35,0 --> 0:51:38,667
+So, they really try to
+do everything right or
+
+
+863
+0:51:38,667 --> 0:51:48,367
+fix it in some manner.
+
+
+864
+0:51:48,367 --> 0:51:50,2
+>> male speaker:
+I was just looking at your
+
+
+865
+0:51:50,2 --> 0:51:52,533
+prestressed wires, it's
+seven cords in it,
+
+
+866
+0:51:52,533 --> 0:51:54,3
+does that ever change?
+
+
+867
+0:51:54,3 --> 0:51:56,767
+>> Ms. McIntyre:
+No, the size might change.
+
+
+868
+0:51:56,767 --> 0:52:3,633
+You might go anywhere from 3/8
+of an inch to 3/4 of an inch,
+
+
+869
+0:52:3,633 --> 0:52:9,367
+but you always have the
+seven wires still in it.
+
+
+870
+0:52:9,367 --> 0:52:10,467
+>> male speaker:
+Okay, all right.
+
+
+871
+0:52:10,467 --> 0:52:11,767
+>> Ms. McIntyre:
+And I have no idea
+
+
+872
+0:52:11,767 --> 0:52:13,0
+why it's seven.
+
+
+873
+0:52:13,0 --> 0:52:14,3
+>> male speaker:
+That's, I just, okay, I didn't
+
+
+874
+0:52:14,3 --> 0:52:16,167
+know if it was, they
+don't add more wire,
+
+
+875
+0:52:16,167 --> 0:52:18,0
+they just change
+the size?
+
+
+876
+0:52:18,0 --> 0:52:19,933
+>> Ms. McIntyre:
+They just make it bigger, yeah.
+
+
+877
+0:52:19,933 --> 0:52:21,233
+>> Dr. Wahby:
+Typically you have the
+
+
+878
+0:52:21,233 --> 0:52:23,633
+middle one and then the
+others braid around it.
+
+
+879
+0:52:23,633 --> 0:52:25,5
+>> Ms. McIntyre:
+The six wrap around it, yeah.
+
+
+880
+0:52:25,5 --> 0:52:26,733
+>> Dr. Wahby:
+But tell us something about
+
+
+881
+0:52:26,733 --> 0:52:29,233
+the material, it's different
+material than the rebars.
+
+
+882
+0:52:29,233 --> 0:52:34,567
+The feel itself is different,
+it has higher inside strength
+
+
+883
+0:52:34,567 --> 0:52:37,167
+and higher [unclear audio].
+
+
+884
+0:52:37,167 --> 0:52:41,9
+So it's really different
+material, kind of steel,
+
+
+885
+0:52:41,9 --> 0:52:43,4
+different type of steel.
+
+
+886
+0:52:43,4 --> 0:52:46,7
+You cannot take the rebar
+and stretch it like this.
+
+
+887
+0:52:46,7 --> 0:52:50,133
+>> Ms. McIntyre:
+Yeah.
+
+
+888
+0:52:50,133 --> 0:52:55,0
+Any other questions?
+
+
+889
+0:52:55,0 --> 0:52:56,6
+>> Dr. Wahby:
+I have a question for you
+
+
+890
+0:52:56,6 --> 0:53:3,367
+regarding the magic formula for
+holding one piece, big or small.
+
+
+891
+0:53:3,367 --> 0:53:7,833
+There's a formula for per piece
+thing, if you use your trucks.
+
+
+892
+0:53:7,833 --> 0:53:9,633
+>> Ms. McIntyre:
+Oh, how much you can
+
+
+893
+0:53:9,633 --> 0:53:11,0
+put on a truck?
+
+
+894
+0:53:11,0 --> 0:53:13,0
+>> Dr. Wahby:
+No, I mean if you have a
+
+
+895
+0:53:13,0 --> 0:53:15,0
+small piece or large piece.
+
+
+896
+0:53:15,0 --> 0:53:16,667
+>> Ms. McIntyre:
+Oh, yeah.
+
+
+897
+0:53:16,667 --> 0:53:20,533
+I talk about that a lot with
+designers because every time
+
+
+898
+0:53:20,533 --> 0:53:24,433
+you pick up, to get precast on
+a building, you have to have
+
+
+899
+0:53:24,433 --> 0:53:26,967
+one key thing and
+that's a crane.
+
+
+900
+0:53:26,967 --> 0:53:29,9
+And you have to have a crane
+that's going to be able to lift
+
+
+901
+0:53:29,9 --> 0:53:33,6
+the lagest piece of precast
+that you have on that job.
+
+
+902
+0:53:33,6 --> 0:53:38,367
+So that's kind of going to be
+the crane that you're going to
+
+
+903
+0:53:38,367 --> 0:53:40,433
+go with for the whole project.
+
+
+904
+0:53:40,433 --> 0:53:44,133
+So then every time you pick up a
+piece off a truck and put it on
+
+
+905
+0:53:44,133 --> 0:53:48,67
+a building, you're going to pay
+what we call the "pick price".
+
+
+906
+0:53:48,67 --> 0:53:51,367
+And the pick price is going to
+be for the use of that crane.
+
+
+907
+0:53:51,367 --> 0:53:55,33
+So the crane doesn't really
+care what size it is,
+
+
+908
+0:53:55,33 --> 0:53:56,933
+you're still going
+to have to pay.
+
+
+909
+0:53:56,933 --> 0:54:2,167
+If you're in downtown Chicago,
+it might be $1500 every time
+
+
+910
+0:54:2,167 --> 0:54:4,433
+you pick up a piece and
+put it on a building.
+
+
+911
+0:54:4,433 --> 0:54:8,1
+So if you have a one-by-ten
+column cover, you've now added
+
+
+912
+0:54:8,1 --> 0:54:13,67
+$150 per square foot to
+put it on the building.
+
+
+913
+0:54:13,67 --> 0:54:17,933
+So, in general, larger pieces
+are going to be less expensive.
+
+
+914
+0:54:17,933 --> 0:54:21,733
+You don't want to have a
+building full of small pieces
+
+
+915
+0:54:21,733 --> 0:54:25,267
+of precast because you're going
+to have to pay that pick price.
+
+
+916
+0:54:25,267 --> 0:54:29,233
+And it would also take longer
+to erect the building as well.
+
+
+917
+0:54:29,233 --> 0:54:31,733
+>> Dr. Wahby:
+So these two advices you give,
+
+
+918
+0:54:31,733 --> 0:54:34,667
+the repetition of the piece.
+
+
+919
+0:54:34,667 --> 0:54:35,867
+>> Ms. McIntyre:
+Right.
+
+
+920
+0:54:35,867 --> 0:54:37,33
+>> Dr. Wahby:
+You make many of it.
+
+
+921
+0:54:37,33 --> 0:54:38,267
+>> Ms. McIntyre:
+Right.
+
+
+922
+0:54:38,267 --> 0:54:39,333
+>> Dr. Wahby:
+And as large as possible.
+
+
+923
+0:54:39,333 --> 0:54:40,7
+>> Ms. McIntyre:
+Right.
+
+
+924
+0:54:40,7 --> 0:54:42,567
+In general, larger is going
+to be less expensive, and
+
+
+925
+0:54:42,567 --> 0:54:44,933
+then the repetition is
+going to be important.
+
+
+926
+0:54:44,933 --> 0:54:47,5
+You saw how everything's
+cast in a long line bed.
+
+
+927
+0:54:47,5 --> 0:54:50,933
+You want all of your strands
+lined up the same way so
+
+
+928
+0:54:50,933 --> 0:54:54,233
+piece after piece the strand
+pattern will be the same,
+
+
+929
+0:54:54,233 --> 0:54:56,933
+because every piece has to
+be engineered for that
+
+
+930
+0:54:56,933 --> 0:54:59,33
+specific project
+that you're doing.
+
+
+931
+0:54:59,33 --> 0:55:2,67
+Even though you're using
+the same, you know, notes
+
+
+932
+0:55:2,67 --> 0:55:6,733
+on the keyboard, you still
+have to engineer it or
+
+
+933
+0:55:6,733 --> 0:55:9,167
+compose it in a different way.
+
+
+934
+0:55:9,167 --> 0:55:12,6
+So absolutely, you want to
+create as much repetition
+
+
+935
+0:55:12,6 --> 0:55:15,5
+and use the same pieces
+over and over again.
+
+
+936
+0:55:15,5 --> 0:55:19,6
+And then, those are going to
+be the two biggest factors
+
+
+937
+0:55:19,6 --> 0:55:21,8
+in the cost of the precast.
+
+
+938
+0:55:21,8 --> 0:55:24,0
+One is the size of the pieces.
+
+
+939
+0:55:24,0 --> 0:55:29,0
+The other is the amount of
+repetition that you have.
+
+
+940
+0:55:29,0 --> 0:55:31,7
+>> Dr. Wahby:
+Any other questions?
+
+
+941
+0:55:31,7 --> 0:55:34,6
+I have a question regarding
+some tips or tricks of trade
+
+
+942
+0:55:34,6 --> 0:55:38,1
+that they would do for an
+extremely long piece, the
+
+
+943
+0:55:38,1 --> 0:55:41,833
+longest piece they can have,
+how do they transport it?
+
+
+944
+0:55:41,833 --> 0:55:46,567
+Or, if it is tall, how
+do they manipulate it?
+
+
+945
+0:55:46,567 --> 0:55:48,933
+>> Ms. McIntyre:
+Well, with the longer pieces,
+
+
+946
+0:55:48,933 --> 0:55:51,33
+like with that, I was
+talking about that bridge
+
+
+947
+0:55:51,33 --> 0:55:53,6
+where it was 176 feet.
+
+
+948
+0:55:53,6 --> 0:55:58,933
+You really start using the
+piece of precast as kind of
+
+
+949
+0:55:58,933 --> 0:56:0,567
+the bed of the truck.
+
+
+950
+0:56:0,567 --> 0:56:3,8
+Then you don't actually have a
+truck bed, you'll have wheels
+
+
+951
+0:56:3,8 --> 0:56:7,133
+on the front and then another
+column of wheels on the back
+
+
+952
+0:56:7,133 --> 0:56:12,0
+and then usually, the driver
+will have a steering component
+
+
+953
+0:56:12,0 --> 0:56:15,6
+to actually steer the back
+wheels from the truck or
+
+
+954
+0:56:15,6 --> 0:56:17,867
+the cab of the truck.
+
+
+955
+0:56:17,867 --> 0:56:22,3
+So, you know, then you'll get
+it to the ground that way.
+
+
+956
+0:56:22,3 --> 0:56:25,5
+And then, also, as I mentioned,
+when you're erecting precast
+
+
+957
+0:56:25,5 --> 0:56:28,9
+you always want to handle
+it from the two ends.
+
+
+958
+0:56:28,9 --> 0:56:30,967
+You never really want to
+handle it from the middle
+
+
+959
+0:56:30,967 --> 0:56:33,33
+because it can snap.
+
+
+960
+0:56:33,33 --> 0:56:41,2
+So, the precaster will do all of
+the engineering for the pieces
+
+
+961
+0:56:41,2 --> 0:56:46,5
+of precast because when you
+handle it, that's going to be
+
+
+962
+0:56:46,5 --> 0:56:49,1
+when the most pressure is
+actually going to be applied
+
+
+963
+0:56:49,1 --> 0:56:54,33
+to a piece of precast, not when
+it's in place in the building.
+
+
+964
+0:56:54,33 --> 0:56:56,5
+It's all of the handling
+that goes into it.
+
+
+965
+0:56:56,5 --> 0:56:59,333
+So the precaster likes to do
+all of the engineering of
+
+
+966
+0:56:59,333 --> 0:57:2,8
+his own pieces and all of
+the connection details.
+
+
+967
+0:57:2,8 --> 0:57:3,833
+>> Dr. Wahby:
+Thanks.
+
+
+968
+0:57:3,833 --> 0:57:6,733
+Now, you gave us your
+definition for precast.
+
+
+969
+0:57:6,733 --> 0:57:9,4
+What is the definition
+for prestressed?
+
+
+970
+0:57:9,4 --> 0:57:11,6
+Pre- to what?
+
+
+971
+0:57:11,6 --> 0:57:13,767
+>> Ms. McIntyre:
+The prestressed is what uses
+
+
+972
+0:57:13,767 --> 0:57:18,33
+those prestressing steel
+and you've got that steel
+
+
+973
+0:57:18,33 --> 0:57:19,6
+within the piece.
+
+
+974
+0:57:19,6 --> 0:57:23,333
+So precast is any kind,
+prestressed concrete is
+
+
+975
+0:57:23,333 --> 0:57:26,567
+also precast concrete,
+but precast concrete is
+
+
+976
+0:57:26,567 --> 0:57:28,9
+not necessarily prestressed.
+
+
+977
+0:57:28,9 --> 0:57:32,667
+Usually, prestressed concrete
+are pieces that are longer,
+
+
+978
+0:57:32,667 --> 0:57:37,0
+that require more load
+placed on them, or maybe
+
+
+979
+0:57:37,0 --> 0:57:39,1
+they'are structural pieces.
+
+
+980
+0:57:39,1 --> 0:57:43,133
+But the prestressing is what
+allows you to actually use
+
+
+981
+0:57:43,133 --> 0:57:48,567
+less of the concrete material
+without losing any strength
+
+
+982
+0:57:48,567 --> 0:57:50,767
+or by gaining strength.
+
+
+983
+0:57:50,767 --> 0:57:53,3
+>> Dr. Wahby:
+And the "pre" term time-wise
+
+
+984
+0:57:53,3 --> 0:57:57,6
+reflects to the pouring of
+concrete, so you are actually
+
+
+985
+0:57:57,6 --> 0:58:0,9
+stressing the steel of
+the strands before.
+
+
+986
+0:58:0,9 --> 0:58:2,233
+>> Ms. McIntyre:
+Before you place the concrete
+
+
+987
+0:58:2,233 --> 0:58:3,5
+in the form.
+
+
+988
+0:58:3,5 --> 0:58:4,667
+>> Dr Wahby:
+So hence, the term "pre-"
+
+
+989
+0:58:4,667 --> 0:58:5,867
+for stressing.
+
+
+990
+0:58:5,867 --> 0:58:7,267
+>> Ms. McIntyre:
+Well, you could also do
+
+
+991
+0:58:7,267 --> 0:58:11,167
+post-tensioning which is,
+sometimes you see precast
+
+
+992
+0:58:11,167 --> 0:58:12,433
+done with that.
+
+
+993
+0:58:12,433 --> 0:58:14,167
+You don't see a whole lot
+of it done in this area,
+
+
+994
+0:58:14,167 --> 0:58:17,267
+and they would create a
+sleeve, the precaster would
+
+
+995
+0:58:17,267 --> 0:58:20,6
+create a sleeve within
+the precast product.
+
+
+996
+0:58:20,6 --> 0:58:24,167
+Then it would go out to the
+job site and be stressed
+
+
+997
+0:58:24,167 --> 0:58:27,433
+at the job site and then
+grouted into place there.
+
+
+998
+0:58:27,433 --> 0:58:30,667
+You could get your
+tension that way without
+
+
+999
+0:58:30,667 --> 0:58:33,167
+stressing it at the plant.
+
+
+1000
+0:58:33,167 --> 0:58:36,5
+So really, it's a function of
+stressing it at the plant versus
+
+
+1001
+0:58:36,5 --> 0:58:40,67
+stressing it at the job site.
+
+
+1002
+0:58:40,67 --> 0:58:43,167
+>> Dr. Wahby:
+What would make an owner
+
+
+1003
+0:58:43,167 --> 0:58:48,7
+or engineer or architect choose
+prestressed or precast over
+
+
+1004
+0:58:48,7 --> 0:58:51,9
+other post-tension
+or other types?
+
+
+1005
+0:58:51,9 --> 0:58:54,333
+>> Ms. McIntyre:
+Well, one of it is what's
+
+
+1006
+0:58:54,333 --> 0:58:59,633
+commonly used in your area,
+but we usually can provide
+
+
+1007
+0:58:59,633 --> 0:59:3,933
+something much faster than
+other types of products if
+
+
+1008
+0:59:3,933 --> 0:59:6,133
+you were casting
+something in place.
+
+
+1009
+0:59:6,133 --> 0:59:13,467
+Sometimes it's fire
+prevention, fire ratings
+
+
+1010
+0:59:13,467 --> 0:59:15,4
+are going to be important.
+
+
+1011
+0:59:15,4 --> 0:59:18,0
+The city of Chicago loves
+concrete because they're
+
+
+1012
+0:59:18,0 --> 0:59:20,33
+real funny about fire.
+
+
+1013
+0:59:20,33 --> 0:59:26,3
+So, you know, sometimes it's
+the needs of the project.
+
+
+1014
+0:59:26,3 --> 0:59:30,7
+Sometimes it's how fast is it
+going to go up, sometimes it's
+
+
+1015
+0:59:30,7 --> 0:59:33,367
+what does it look like.
+
+
+1016
+0:59:33,367 --> 0:59:37,633
+But usually it's faster,
+cheaper, better, you know,
+
+
+1017
+0:59:37,633 --> 0:59:40,867
+the quality of the concrete
+is going to be a little bit
+
+
+1018
+0:59:40,867 --> 0:59:44,467
+better, too, because they're
+using very low water-cement
+
+
+1019
+0:59:44,467 --> 0:59:47,7
+ratio because they want to
+turn those beds over and
+
+
+1020
+0:59:47,7 --> 0:59:50,567
+start casting the beds
+again the next day.
+
+
+1021
+0:59:50,567 --> 0:59:55,33
+So, you know, that's going to
+be, that's going to be key.
+
+
+1022
+0:59:55,33 --> 0:59:57,2
+>> Dr. Wahby:
+Talk about money and jobs.
+
+
+1023
+0:59:57,2 --> 0:59:58,8
+>> Ms. McIntyre:
+Okay.
+
+
+1024
+0:59:58,8 --> 1:0:1,567
+>> Dr. Wahby:
+In a normal economic situation,
+
+
+1025
+1:0:1,567 --> 1:0:4,5
+not now, normal situation.
+
+
+1026
+1:0:4,5 --> 1:0:7,4
+What is average salary,
+what are the jobs,
+
+
+1027
+1:0:7,4 --> 1:0:9,8
+what would our graduates do?
+
+
+1028
+1:0:9,8 --> 1:0:13,4
+Would be working in concreting,
+or managers, or what?
+
+
+1029
+1:0:13,4 --> 1:0:15,7
+>> Ms. McIntyre:
+Yeah, we have, our industry
+
+
+1030
+1:0:15,7 --> 1:0:20,933
+does a few things where
+they see graduates.
+
+
+1031
+1:0:20,933 --> 1:0:25,133
+Sometimes they're project
+managers, where they come in
+
+
+1032
+1:0:25,133 --> 1:0:27,767
+and they'll supervise the
+drawings and kind of,
+
+
+1033
+1:0:27,767 --> 1:0:32,367
+after the salesman gets the
+project in, you would supervise
+
+
+1034
+1:0:32,367 --> 1:0:36,3
+getting the drawings done,
+communicating with the client,
+
+
+1035
+1:0:36,3 --> 1:0:39,933
+making sure that the product
+gets to where it needs to be
+
+
+1036
+1:0:39,933 --> 1:0:46,233
+when it needs to be there,
+making sure that the materials
+
+
+1037
+1:0:46,233 --> 1:0:51,1
+are ordered for the products
+that you're going to make,
+
+
+1038
+1:0:51,1 --> 1:0:53,467
+when they need to happen.
+
+
+1039
+1:0:53,467 --> 1:0:58,1
+So that could be a job.
+
+
+1040
+1:0:58,1 --> 1:1:2,833
+We also work with a lot of
+erectors, companies that erect
+
+
+1041
+1:1:2,833 --> 1:1:5,4
+both steel and pre-cast, and
+you could be a certified
+
+
+1042
+1:1:5,4 --> 1:1:11,33
+pre-cast erector and again,
+project manager-type jobs
+
+
+1043
+1:1:11,33 --> 1:1:16,967
+and, you know, supervising
+work like that.
+
+
+1044
+1:1:16,967 --> 1:1:21,433
+Marketing, I know a lot of
+people who've gone into sales
+
+
+1045
+1:1:21,433 --> 1:1:25,33
+and marketing with a good
+construction background and,
+
+
+1046
+1:1:25,33 --> 1:1:29,167
+you know, then work selling
+the pre-cast products.
+
+
+1047
+1:1:29,167 --> 1:1:32,933
+But usually you work
+your way up through a
+
+
+1048
+1:1:32,933 --> 1:1:35,7
+pre-stressing plant
+to a sales job.
+
+
+1049
+1:1:35,7 --> 1:1:38,67
+Those are usually some of the
+better-paying jobs, so I think
+
+
+1050
+1:1:38,67 --> 1:1:42,333
+a lot of people like to
+work their way into those.
+
+
+1051
+1:1:42,333 --> 1:1:46,833
+And, you know, some of our
+plants are union plants and
+
+
+1052
+1:1:46,833 --> 1:1:52,767
+some are not, so salaries
+really vary different places.
+
+
+1053
+1:1:52,767 --> 1:2:0,333
+But there's also, you saw
+the quality assurance guy
+
+
+1054
+1:2:0,333 --> 1:2:5,567
+doing that, and sometimes they
+come up through the ranks or
+
+
+1055
+1:2:5,567 --> 1:2:9,5
+sometimes they'll bring
+people in to do that.
+
+
+1056
+1:2:9,5 --> 1:2:13,467
+Engineering firms, there's a
+lot of drafting that goes on
+
+
+1057
+1:2:13,467 --> 1:2:19,367
+using, usually, some kind of
+computer-aided design system.
+
+
+1058
+1:2:19,367 --> 1:2:25,733
+So we have drafters that draft
+all the different pieces
+
+
+1059
+1:2:25,733 --> 1:2:28,3
+after the engineers
+design them.
+
+
+1060
+1:2:28,3 --> 1:2:29,967
+>> Dr. Wahby:
+Now, if somebody is lucky to
+
+
+1061
+1:2:29,967 --> 1:2:33,4
+end up working for a plant,
+what is the magic number
+
+
+1062
+1:2:33,4 --> 1:2:35,1
+for average salary?
+
+
+1063
+1:2:35,1 --> 1:2:37,633
+>> Ms. McIntyre:
+You know what, I have no idea.
+
+
+1064
+1:2:37,633 --> 1:2:38,9
+>> Dr. Wahby:
+Okay.
+
+
+1065
+1:2:38,9 --> 1:2:41,67
+>> Ms. McIntyre:
+I don't know.
+
+
+1066
+1:2:41,67 --> 1:2:43,133
+>> Dr. Wahby:
+I'll get you another question,
+
+
+1067
+1:2:43,133 --> 1:2:44,533
+easy one.
+
+
+1068
+1:2:44,533 --> 1:2:47,433
+What is relationship between the
+PCI that you mentioned earlier
+
+
+1069
+1:2:47,433 --> 1:2:49,367
+and whatever you said now.
+
+
+1070
+1:2:49,367 --> 1:2:51,367
+PCI, what is PCI?
+
+
+1071
+1:2:51,367 --> 1:2:52,633
+>> Ms. McIntyre:
+PCI is the Pre-cast
+
+
+1072
+1:2:52,633 --> 1:2:56,467
+Pre-stressed Concrete
+Institute, and I work for
+
+
+1073
+1:2:56,467 --> 1:2:58,6
+the Illinois-Wisconsin region.
+
+
+1074
+1:2:58,6 --> 1:3:0,5
+So, is that what you
+were asking?
+
+
+1075
+1:3:0,5 --> 1:3:2,4
+>> Dr. Wahby:
+They inspect the plants?
+
+
+1076
+1:3:2,4 --> 1:3:3,733
+>> Ms. McIntyre:
+Oh, yes.
+
+
+1077
+1:3:3,733 --> 1:3:7,633
+They have, I'm sorry, the
+plants that are members of PCI
+
+
+1078
+1:3:7,633 --> 1:3:10,733
+have to be PCI-certified plants,
+and that means that twice
+
+
+1079
+1:3:10,733 --> 1:3:14,6
+a year an inspector comes to
+the plant and checks all
+
+
+1080
+1:3:14,6 --> 1:3:16,833
+of the quality
+assurance manuals.
+
+
+1081
+1:3:16,833 --> 1:3:20,467
+He makes sure that all of the
+equipment's calibrated, how do
+
+
+1082
+1:3:20,467 --> 1:3:23,833
+you store your materials, how
+do you train your workers,
+
+
+1083
+1:3:23,833 --> 1:3:26,33
+how do you deal with
+your customers.
+
+
+1084
+1:3:26,33 --> 1:3:30,0
+And twice a year he spends two
+days at the plant ensuring that
+
+
+1085
+1:3:30,0 --> 1:3:33,933
+they meet all of those
+quality issues.
+
+
+1086
+1:3:33,933 --> 1:3:35,633
+>> Dr. Wahby:
+Unannounced, unannounced.
+
+
+1087
+1:3:35,633 --> 1:3:38,67
+>> Ms. McIntyre:
+Unannounced, yes, yes.
+
+
+1088
+1:3:38,67 --> 1:3:39,667
+>> Dr. Wahby:
+Okay, very good.
+
+
+1089
+1:3:39,667 --> 1:3:42,333
+I think I'll stop asking here
+questions, but I'll ask the
+
+
+1090
+1:3:42,333 --> 1:3:46,633
+audience the last question, and
+whoever answers this question,
+
+
+1091
+1:3:46,633 --> 1:3:50,9
+I'll give him a chocolate,
+how about that?
+
+
+1092
+1:3:50,9 --> 1:3:55,633
+If you can guess, what is the
+major of Marty McIntyre?
+
+
+1093
+1:3:55,633 --> 1:3:59,633
+You saw how professional she is
+in concrete and so forth.
+
+
+1094
+1:3:59,633 --> 1:4:1,233
+What do you think?
+
+
+1095
+1:4:1,233 --> 1:4:3,0
+Please, if you know
+it from before,
+
+
+1096
+1:4:3,0 --> 1:4:5,167
+you don't qualify for that.
+
+
+1097
+1:4:5,167 --> 1:4:8,0
+But guess what was her major
+when she was undergrad.
+
+
+1098
+1:4:8,0 --> 1:4:11,3
+Any guess?
+Chocolate?
+
+
+1099
+1:4:11,3 --> 1:4:12,733
+>> male speaker:
+Speech communication.
+
+
+1100
+1:4:12,733 --> 1:4:13,867
+>> Dr. Wahby:
+Speech communication,
+
+
+1101
+1:4:13,867 --> 1:4:15,3
+she is good with that,
+very good.
+
+
+1102
+1:4:15,3 --> 1:4:16,733
+>> Ms. McIntyre:
+No, it wasn't that.
+
+
+1103
+1:4:16,733 --> 1:4:18,0
+>> Dr. Wahby:
+She is talented.
+
+
+1104
+1:4:18,0 --> 1:4:22,0
+Now, I tell Marty, I tell Marty
+that she is a role model
+
+
+1105
+1:4:22,0 --> 1:4:24,33
+for a successful person.
+
+
+1106
+1:4:24,33 --> 1:4:27,633
+She will tell you where she
+started and where she is now,
+
+
+1107
+1:4:27,633 --> 1:4:32,733
+and this is a story of success
+and it's inspired many students
+
+
+1108
+1:4:32,733 --> 1:4:36,9
+in the past to change careers,
+drastically, and be successful
+
+
+1109
+1:4:36,9 --> 1:4:38,233
+wherever they are.
+
+
+1110
+1:4:38,233 --> 1:4:39,7
+So bloom wherever you are.
+
+
+1111
+1:4:39,7 --> 1:4:41,67
+So what is your major?
+
+
+1112
+1:4:41,67 --> 1:4:43,167
+>> Ms. McIntyre:
+My major was English literature
+
+
+1113
+1:4:43,167 --> 1:4:46,2
+with an emphasis in
+journalism.
+
+
+1114
+1:4:46,2 --> 1:4:49,1
+>> Dr. Wahby:
+Okay, so you speak English.
+
+
+1115
+1:4:49,1 --> 1:4:51,0
+>> Ms. McIntyre:
+And then I got out of school
+
+
+1116
+1:4:51,0 --> 1:4:54,0
+and I was doing marketing
+for architecture firms,
+
+
+1117
+1:4:54,0 --> 1:4:56,333
+or for an architecture firm.
+
+
+1118
+1:4:56,333 --> 1:4:59,833
+And I decided I wanted to write
+more, so I went and worked for
+
+
+1119
+1:4:59,833 --> 1:5:2,267
+"Roads and Bridges" magazine.
+
+
+1120
+1:5:2,267 --> 1:5:5,733
+And then I worked for the
+"Concrete Producer" magazine.
+
+
+1121
+1:5:5,733 --> 1:5:9,367
+And then I worked for the
+Portland Cement Association.
+
+
+1122
+1:5:9,367 --> 1:5:11,8
+And now I work for PCI.
+
+
+1123
+1:5:11,8 --> 1:7:11,8
+[no dialogue].
+
+

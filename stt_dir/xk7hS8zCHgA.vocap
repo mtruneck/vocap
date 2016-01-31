@@ -1,0 +1,517 @@
+###17 In
+###38 the
+###58 last lecture we had looked at some of the issues in the location of facilities and we
+###66 had got a broad overview of the problem of location of different types of facilities.
+###74 In this particular lecture we are going to be talking about some mathematical models
+###79 for facility location. In fact before we take up any mathematical models we initiate the
+###92 discussion.
+###92 I will discuss the case study. This case study is actually based on paper that Prof. Prem
+###102 Vrat and I wrote and this is the reference. It is called a decision model for a multi
+###108 objective plant location problem and the basic intention in this particular case study is
+###116 to look at various factors which are relevant for the plant location problem and try to
+###124 then determine after conducting a feasibility study as to what should be the best location
+###133 for the manufacturing plant. So this would be the kind of study that any new entrepreneur
+###140 or any new company contemplating a new location for a manufacturing plant would go through.
+###151 In this particular case study the objective of the location was actually to setup a straw
+###158 board plant. Straw board as you know is a packaging material which is made from industrial
+###168 waste and basically the idea was that this would be setup in an industrial setting so
+###178 that there would be availability of industrial waste automatically and that particular industrial
+###185 waste would serve as the input for the plant and this would then be processed to supply
+###194 various industries needing packaging material in the form of cottons and so on and various
+###199 things. This was the basic idea behind the location of this particular plant. Now what
+###210 was actually done was that in order to conduct this study systematically, interviews were
+###220 carried out with the plant managers and various other people in the organization to identify
+###228 what were the various factors that they consider important for this particular decision.
+###235 After series of discussion with the management it was found that the factors that needed
+###244 to be considered are A nearness to raw material source. Obviously the nearer you are to the
+###253 raw material source, it would cut down the cost of transportation and it is also easy
+###259 to get your raw materials. Second factor that was considered important was the availability
+###266 and dependability of power. Then the manager identifies transport facility as an important
+###275 factor. Labor supply was another important factor, employee facilities, the kinds of
+###284 facility that employees will have in terms of shopping recreation schools etc. This was
+###292 considered to be a factor in the beginning. Competition for the market was considered
+###297 to be another major factor because if they were already a large number of manufactures
+###303 of straw board in that particular area it would be difficult to sell your product. So
+###309 the lesser the competition for the market, the better it was. Proximity to market was
+###315 considered another important factor. Government incentives, as we know, typically the government
+###322 might want to give certain kinds of incentives for certain locations may be to encourage
+###329 development of certain backward areas. These are the kinds of incentives that are available
+###337 and then finally the cost of land in that particular site which we are considering.
+###342 In fact you see these factors are almost generic in any plant location problem. You would have
+###348 to consider various factors. The only thing that would happen is the relative importance
+###354 you might give in these factors. They could vary depending up on the nature of the plant.
+###360 Our approach in the problem is essentially something very simple and it is summarized
+###367 in the form of this table.
+###369 What you would like to do is we have identified the objectives that we have. You would like
+###379 to prioritize these objectives and give certain weights and then we identify alternative locations
+###387 A1, A2 and up to Am and each alternative location is evaluated on the corresponding objective.
+###398 For instance P11 is the score given to the first alternative on the objective, P12 is
+###405 the score given to the first alternative on the second objective and so on. So if we can
+###412 then get these scores, somehow then what we simply have to do is we can calculate the
+###419 effectiveness of alternative A1, alternative A2, alternative Em if there are m alternatives
+###427 we and get a kind of a score. This is very similar to the manner in which we evaluate
+###435 students in a class. These are the candidate location of the candidates (Refer Slide Time:
+###440 07:19), and these are the performances in various subjects as you go through. Each subject
+###447 has different weightage or different number of credits and what we assign basically to
+###452 you is some kind of marks based on some scheme and ultimately you calculate a CGPA or a grade
+###460 point average. So what we are trying to say here is that, we use this kind of a scheme
+###466 to evaluate different alternative locations. Now let us see how it can be done.
+###472 Earlier however we do what would be necessary are the various objectives that we have, the
+###481 objective that we just listed out nearest to the raw material source availability and
+###485 dependability of powers and so on. You have to score these objectives to determine the
+###490 weights, so what is actually being suggested here is that if you construct a triangular
+###497 matrix, the purpose of triangular matrix is because there are n objectives. There will
+###501 be nC2 possible comparisons or pair wise comparisons. All pair wise comparisons. So we look for
+###506 pair wise comparisons, for instance in comparing objective 1 with objective 3. You might want
+###513 to give o1, two marks whatever the interpretation is; to these marks. Then ultimately you can
+###521 determine the scores by counting the number of scores or votes polled by different objectives.
+###529 So you will able to get scores. The basic advantage of scheme like this is when you
+###535 have a large number of objectives; it is very difficult to give weights to the individual
+###541 objectives. But if you are comparing only 2 at a time, it is much easy for a person
+###547 or a manager to say between o1 and o3; I can compare and say o1 is more important. The
+###552 difference is medium. So it is much easier to adopt a pair wise comparison approach and
+###561 evolve a set of scores.
+###564 For instance for this particular problem what was done was this triangular matrix was constructed
+###574 and these were the objectives A, B, C, D, E, F, G, H, I. The management was asked to
+###587 compare between A and B and the management felt that A was more important and the difference
+###594 was medium. So you wrote A2 here. Similarly in comparing for instance C and G, the management
+###602 felt that G was more important, but the difference was minor. So you put minor. This is because
+###612 you are basically distinguishing between (Refer Slide Time: 10:17) and then you say how much
+###619 better, so this is a simple way of doing it. So having got this information we can simply
+###629 compute, for instance total A, you can count the rows in this particular row. For B it
+###635 can be in this column and this row for C, you can count the votes here and so on. So
+###641 you would know exactly what is the score or the weightage for each of these various objectives.
+###651 So in this particular example we have these objectives A B C D E F G H I which were nearness
+###657 to raw materials source availability and dependability of power, transport, facilities etc and the
+###664 total weightage given to these particular factors came out from their as 16, 4, 6, 3,
+###673 0, 14, 8, 12, 8, 7, and this was what was basically involved here and the weightage
+###687 for all these the percentage weightage you sum it up this seems to be an error here sum
+###693 it up and then divide this by the total you get 23.0 percent weightage given to this particular
+###702 factor here and so on similarly so hundred percent weightage this is how it is finally
+###707 distributed to these individual objectives. So this was the rational way of arriving at
+###716 these weightages, basically using pair wise comparisons. There are a number of techniques
+###724 available these days which you can employ if you so desire. AHP is one example. Analytic
+###731 hierarchy process is also pair wise comparison technique which essentially gives you these
+###736 weights and so on. But you have to go through a similar kind of an exercise.
+###742 So ultimately the results for this problem could be classified as the above. A survey
+###751 was conducted as to where the location should be. Now the management in this case was interested
+###758 that the location of the plant should be anywhere in north India. We did not want to go to South
+###763 or West so the major industrial districts in the north were considered and these districts
+###772 Panipat, Sonepat, Rohtak, Meerut, Faridabad, Gurgaon, and Ghaziabad. These were the tentative
+###781 locations that were possible for setting up the plant and now we have these objectives
+###790 and these are the weightages that we have discovered and just determined from the pair
+###794 wise comparisons. Finally what we are required to do is to evaluate each of these locations
+###803 on these individual factors. If you recall the analogy this is not very difficult, it
+###809 is like saying if this subject is Physics I have to give quizzes in Physics to determine
+###814 the marks. I have to determine this factor which I will find out and so on. What we are
+###819 trying to say is that the first factor which was essentially near to raw materials sources
+###830 was found in this particular classification, nearness to raw material source, Rohtak was
+###836 the best.
+###837 Hence, Rohtak got 100 points. The scheme was the worst location which will be given 50
+###845 points and the best location will be given 100 points. It is very much like trying to
+###850 say that we normally do not fail candidates in the IIT and therefore the worst fellow
+###856 will get 50 marks. The best fellow will get 100 marks in the particular. So in comparing
+###861 these, in terms of distance in the raw material source, Rohtak was relatively raw at that
+###870 time and plenty of raw materials were available there and so on, so it was 100 which were
+###877 the worst. Faridabad, Gurgaon and Ghaziabad were all low in the hierarchy and Faridabad
+###884 was the worst. Faridabad was the worst although it is an industrial town. Whatever, there
+###894 were already large number of industrial units set up for the availability of raw materials.
+###901 It was difficult, more difficult as compared to other factors. So this was the scheme,
+###906 this was on a normalized scale of 50 to 100. Similarly all these evaluations were done
+###915 on a normalized scale from 50 to 100. For instance in the second objective it was felt
+###922 that Sonepat was the best and Meerut and Gahziabad were the worst. For instance the third factor
+###933 was transport facilities. As far as transport facilities were concerned, it was Panipat
+###940 that was the best out of these options. It got 100 points, Rohtak was petty good, Faridabad
+###947 was petty good Gurgaon was bad and Ghaziabad was okay. So this was basically an evaluation
+###957 of these locations on all the factors.
+###962 Once all these scores are available what we can do is 90 into 0.23, 80 into 0.057 so on.
+###969 The final points that you get here are 86.1 and similarly 85.98, 91.16, 75, 61, 71, 64
+###978 etc. So from this analysis it emerged that Rohtak was the best option out of these. Now
+###990 however you find that this was a very good option, no doubt but the second best option
+###995 was petty close. This is 91 marks, this is 86 marks. So it is like trying to say that
+###1002 a company comes to recruit, you need not only recruit the best candidate, but the second
+###1006 best, and the third best will also get jobs. So in the same sense you find that here 91
+###1013 and then 86 will be petty close and then 85, 0.8 which is almost 86, so these are petty
+###1018 close. So you could do a more detailed comparison between the first three. What this means is
+###1027 that Rohtak was best on one, two, three and four. Out of these various objectives, Panipet
+###1035 was the best one on only two of these objectives.
+###1042 Let us see where Rohtak was worst. It was worst on this particular factor i.e., 60 marks.
+###1050 But it was even worst on this factor and this was likely to be better but then it was best.
+###1056 So on the whole it seems that Rohtak would be the optimal location. So the optimal location
+###1065 was in fact suggested as Rohtak and the company adopted this. After many years the feed back
+###1071 received from the company is that they are very happy in Rohtak which means the decision
+###1076 that was taken more than 15 years ago was probably the right decision for them in terms
+###1081 of whatever we did. Now having used the decision matrix for alternative location, you could
+###1088 use this methodology for any real life situation. You see the tricky part here is how do you
+###1095 assign these marks to these candidates?
+###1098 If a particular factor is let us say capital cost, then the highest capital cost will be
+###1104 the most undesirable, least capital cost will be the most desirable and so on. So the manner
+###1110 in which you assign these marks is basically the process of normalization.
+###1116 Now what about normalization? What we mean in normalization is that depending up on the
+###1124 objectives suppose our objective is capital cost and we have investigated a number of
+###1130 different alternatives then in the alternatives the one which is the highest in terms of capital
+###1137 cost should be given the least marks, i.e., is 20 the one which is the lowest should get
+###1144 the highest marks which is 80 and the most convenient way to represent this relationship
+###1152 is a linear straight line or a normal straight line. You might use a normalization curve
+###1164 of this kind or a teacher who is giving a normalization curve of this kind. So this
+###1170 is exactly what normalization would mean. It is not necessarily true that normalization
+###1178 would be linear. Take the same example of the capital cost for instance we have something
+###1187 like this, the lowest capital cost is L and the highest capital cost is H. The company
+###1194 might be indifferent for instance, lowest cost might be 2 lakh or whatever and say upto
+###1200 3 lakh. The company says it does not make much of a difference. You are indifferent
+###1203 between 2 and 3 lakhs. So you give 80 marks to all of them who have done this particular
+###1211 factor and then from here it could be a straight line, it could be a concave function or a
+###1219 convex function as the case may be. The difference between the concave and convex function would
+###1227 be that in the convex function which you have here, the drop is very steep in the beginning.
+###1236 Slope is highest here and it tends to fall and the minimum slope is here. So it is like
+###1241 saying you are penalizing the candidate most. That is capital cost. There is a fall in capital
+###1249 cost. You are penalizing here and relatively at this point, the rate of penalty is decreasing.
+###1255 It is the reverse in the case of the other function. Now what I am simply trying to emphasize
+###1264 here is if you give careful thought to normalization, this is a very important strategic decision
+###1270 location and what is normalization? Normalization curves represent your attitudes towards the
+###1279 particular object.
+###1282 For instance, if you have a factor like labor attitude, you might want to classify labor
+###1289 attitude into three categories, bad, medium and good. You might say rested where the labor
+###1297 is so restive. It is willing to pick up agenda for every small provocation. So it is a restive
+###1306 labor. You have a satisfactory labor. The labor is willing to be cooperative and you
+###1313 might have a cooperative labor which is willing to do everything. Obviously this is the best.
+###1319 So you give maximum marks. Let us say 80, between these you give 60 between these you
+###1324 give 20. So essentially the normalization curve for such subjective factors will be
+###1329 a staircase function of this kind where you can decide the length or the height of the
+###1334 stair in each case. It is not necessarily true that the normalization curve is linear
+###1345 or be portions of linear functions. (Refer Slide Time: 22:34)
+###1350 A normalization curve could also be nonlinear. So a nonlinear function is Present, so this
+###1357 is the least desirable. This is the most desirable. The most desirable aspect is given the maximum
+###1365 number of points. The least desirable is given the least number of points and you can think
+###1369 of what would be the nature of this curve for your case. So the point is that once we
+###1376 have developed the normalization curves for individual objectives, this process becomes
+###1383 very objective. All that you need to do is develop the weights for the objectives like
+###1389 we did through the triangular matrix, determine the normalization curves and feed them to
+###1394 a computer and then feed the data corresponding to individual alternatives locations into
+###1402 the program and then you can get the final solution for various options. So the idea
+###1414 here was that we were dealing with the practical plant location problem. Practical plant location
+###1421 problem has both subjective and objective factors. We had here a mechanism to deal with
+###1428 both subjective and objective factors but there was no attempt at optimization.
+###1435 What was the kind of problems that we were considering? We looked through the feasibility
+###1441 report or identified a number of locations and we were trying to choose the best location.
+###1447 So it was the problem of choosing the best out of the available options. That is the
+###1453 kind of the problem that we were considering, however in facility location we have certain
+###1457 mathematical models where the intention is to determine the best or the ideal location
+###1465 and that particular ideal location can then motivate you to locate your facilities wherever
+###1473 they are. Let us see the models and we looked at some simple models, for facility location
+###1479 in this context.
+###1483 Let us talk about the problem which is known in lecture as the single facility location
+###1490 problem. The single facility location problem is essentially the problem where you want
+###1496 to locate one new facility and this problem occurs very frequently in life. Here are some
+###1502 examples of what we call the single facility location problem. For instance you want to
+###1508 determine the location of a new lathe in a job shop and you already have 23 lathes. You
+###1514 bring in another lathe, the 24th one and you are trying to find out where it should be
+###1518 located. It is a single facility location problem because you are trying to find out
+###1522 the location. A tool crib in a factory is the place where we have the workers taking
+###1529 their tools and deposit their tool every time.
+###1532 So it is a common facility for all workers. You might want to find out what is the best
+###1537 location of the tool crib such that the total travel distance of all these workers is minimized
+###1542 which means total time is minimized. This means their productivity is maximized because
+###1547 they are wasting less time in computing, in that sense you could talk about the location
+###1552 of a new warehouse for a company warehouse. You could talk about the location of the hospital
+###1559 or a fire station or a police station. All single you could talk about is the location
+###1566 of the new classroom building on a college campus, single facility location problem,
+###1573 a new airfield for a number of bases and you can talk about the component in an electrical
+###1580 network. You know electrical network these days have a large number of electrical components
+###1592 put onto one board. Suppose it is decided that you improve the design characteristics,
+###1597 you want to put an additional resistor somewhere. Where should that additional resistor be and
+###1603 it is going to be connected to some of these components. So you are trying to say where
+###1608 should I put up the additional resistor such that the total length of the cable or the
+###1613 length of wire is minimized? This is again a problem of a single facility location.
+###1619 You want to talk about installation of a new appliance in a kitchen; this is again a single
+###1627 facility location problem. You want to find out where copying machine should be placed
+###1631 in the library, assuming that in a library, different readers from different locations
+###1638 may have statistical data on an average 20 percent of the users, from first floor and
+###1644 30 percent from this floor, come here for this particular thing. So you can determine
+###1649 where the optimum location for the copying machine should be or if there is a new component
+###1654 on a control panel you have a big switch here Larson and Tubro switch here. It is huge one
+###1658 and we are trying to find out where new component should be installed which also happens to
+###1662 be a single facility location problem. So the single facility location problem is actually
+###1668 a problem, in fact that is why it is called single facility. We are not talking about
+###1673 single plant location because when you recall, when we were discussing the issues in locations
+###1680 were specified that often tend to speak in terms of facilities and depending on whichever
+###1687 facility it is you have to determine the optimum location.
+###1693 For this problem the statement mathematical statement can be built up as follows: we say
+###1700 that we have m existing facilities at locations P1, P2, Pm whose locations are a1b1, a2b2
+###1711 and so on up to am bm, so we know the location of the m existing facilities and the new facility
+###1717 is to be located at some point X which is x y. You want to determine this (Refer Slide
+###1723 Time: 28:44) and where it should be located. The new facility, the other existing facilities
+###1728 are fixed that is their assumption and dX Pi is an appropriately defined as the distance
+###1733 between X and Pi. X is the new facility you want to locate and Pi is one of the existing
+###1740 facilities. So the distance between them can be called as dX, Pi and this distance could
+###1746 be defined in various weights.
+###1747 It could be Euclidean distance which is a straight line distance. It could be the Rectilinear
+###1752 distance which is the Manhattan distance between these two points, it could be the square Euclidean
+###1758 distance, it could be what we call a generalized distance or it could be a distance on a network.
+###1764 In fact this would define a variety of models which are available even for the simple problem,
+###1771 the single facility location problem. What is the objective of this exercise? The objective
+###1777 is to determine the location X for the new facility so as to minimize transportation
+###1784 related costs, that is what you want to do and what are these transportation cost related
+###1793 to? The transportations related to cost are the sum from i = 1to n, the summation of wi
+###1802 into dX, Pi where wi is the weight associated with the ith facility which is the product
+###1810 of the cost per unit distance and the expected number of annual trips between X and Pi. If
+###1818 you recall our discussion of the varianon frame where we had determined weights corresponding
+###1825 to each of the points, the interpretation of wi is the same. It is a weightage given
+###1832 to the ith point. How important it is in terms of the interactions that take place between
+###1839 new facility and that particular facility. That is the objective function. This is general
+###1845 problem; a general statement of the problem is this.
+###1852 So essentially if you look at the problem in a graphical perspective what is really
+###1859 required is that we have points P1, P2, and P3 and so on up to Pn or Pm. This is the case
+###1868 and it may be spread out. These are the existing facilities. We are interested in finding out
+###1876 an optimum location X. This optimum location X should be such that the total cost of movement
+###1890 between all these should be minimized. That means what we are trying to say is that we
+###1897 are trying to minimize the total cost of travel or transportation between the various facilities.
+###1907 There could be many examples which we can construct for instance, if these facilities
+###1915 are hospitals in the city, let us say Delhi has 10 hospitals, these are the 10 hospitals
+###1920 that you have in the city and the problem is that you are trying to find out the location
+###1925 of a centralized blood bank facility. This can be called upon by any hospital in case
+###1931 of emergency or whatever it is.
+###1934 So what we are trying to say is that we should determine the location such that if you know
+###1939 roughly that during a particular day there are roughly 5 trips, here 20 trips, here 10
+###1946 trips, here 10 trips, here 30, and so on which you, from the past historical data use the
+###1953 information to determine the optimum location of the new service facility. Similarly you
+###1961 might say for instance if I want to find out the location of a hospital which will cater
+###1968 to the needs of different people in the localities and these localities have these weights in
+###1974 terms of number of people falling sick. Let us consider an order of magnitude proportional
+###1981 to population, assuming that all people are subjected to same kind of health conditions.
+###1987 So if you do that then again the problem of finding out the location of this hospital
+###1992 is basically a single facility location problem. Now what we would like to do is first understand
+###2007 the various commonly used distances that we talked about.
+###2013 For instance if the location of the new facility is at X and the ith existing facility is located
+###2021 at the point Pi which has coordinates ai, bi then the rectilinear distance between these
+###2028 2 points is actually this (Refer Slide Time: 33:52) distance. This distance and then this
+###2034 distance (Refer Slide Time: 33:54) and mathematically the rectilinear distance will be represented
+###2040 by x – ai mod + y – bi mod. Now you must understand that there are a large number of
+###2053 situations in real life where the rectilinear distance would be an appropriate one to consider,
+###2062 for instance all movements within the factory are generally rectilinear because in a factory
+###2070 on the shop floor you can typically move along a set of perpendicular heights. So if a worker
+###2078 has to go from one place to the other he has to take of the perpendicular route this way
+###2084 and then go this way.
+###2085 That is the rectilinear distance and therefore if you are dealing with a problem of let us
+###2091 say machine location within a factory, or you are talking about location of some other
+###2099 tool crib in a factory or if you are talking about the location of a let us say even canteen
+###2105 within a factory. The distance measure that you think that is most appropriate is a rectilinear
+###2112 distance measure and therefore this is a very important distance measure especially in the
+###2118 context of location on the shop floor, locations within the factory. Of course if you happen
+###2129 to travel to New York for instance the distances are rectilinear that is why it is called Manhattan.
+###2136 What you have is you have a large number of parallel streets and these are intersected
+###2142 by a number of other parallel streets and all that you have therefore is the movement
+###2148 is always rectilinear and in fact that is the word Manhattan and rectilinear comes from
+###2152 it. In our context Delhi would not be rectilinear. If you go to Chandigarh for instance the movement
+###2165 from one place to other is generally rectilinear because the layout of the city is such that
+###2171 you move about one round about another and there are parallel streets and so on.
+###2176 So it is essentially rectilinear if you are talking about location of a facility in Chandigarh.
+###2183 Rectilinear distance could be any problem which is an important distance measure. The
+###2192 next important distance that we consider is what we call Euclidean distance measure. Euclidean
+###2198 distance measure is the shortest distance between two points.
+###2201 The Euclidean distance from the point X which you want to determine to the existing facility
+###2208 Pi, ai, bi, you have this particular distance which is the shortest distance between 2 points.
+###2216 It is governed by this function x – ai whole square + y – bi whole square and the square
+###2223 root of this. This can be conveniently calculated in this fashion. Where do you think Euclidean
+###2233 distance will be appropriate in the location problem? Where do you think you could consider
+###2246 where things take place? Let us say generally straight line generally and if you are trying
+###2251 to talk about this, what would happen? For instance if you are talking about the location
+###2258 of an airport, you know that you are going to expect flights from a large number of cities
+###2263 in India and abroad here and flights going out. So that would determine the weights for
+###2269 the cities and since you travel almost a straight line, you could say that the determination
+###2276 of the optimum location of the airport could be (Refer Slide Time: 38:00) but there are
+###2279 other considerations like determination of the airport. But definitely from the point
+###2283 to view a minimization of the total travel, this would be an optimum situation.
+###2291 Then where else you think this would be appropriate? It all depends up on whether naval applications,
+###2304 whether you travel straight or you travel all over the sea, how you travel and so on.
+###2313 For instance suppose you travel by this trolley car or a ropeway, suppose if in the mountains,
+###2327 the government wants to decide up on picnic spot and it was to find out the location of
+###2333 a ropeway and this way you could probably visit location on one hill and the other hill
+###2341 wherever it is and different locations as it is. Then which particular location will
+###2348 minimize the total cost of the cableway?
+###2351 Obviously it will be Euclidean distance. So you could have a very large number of situations
+###2360 wherein if you are talking about electrical circuit, you want to fix a particular component
+###2369 and the component is to be connected by a wire to a number of different components assuming
+###2373 of course that if it could be done on a Euclidean way in that particular component, then the
+###2383 location which tries to minimize the cost of wire, the cost of cable etc but also be
+###2390 using the Euclidean. Finally let us look at the problem where you are talking of squared
+###2397 Euclidean. This under root sign is missing so we are talking about the square of the
+###2403 Euclidean distance. Square of the Euclidean distance is just the distance but the square
+###2410 of it.
+###2413 Square Euclidean distance location problems are also very relevant in many situations.
+###2420 They are relevant mainly in problems which involves radiations. The radiation loss is
+###2431 typically proportional to the square of the distance. You may remember your thermodynamics
+###2438 and see that the heat loss from a particular source is proportional to the square of the
+###2446 Euclidean distance from that particular source. Now this is something very important today
+###2455 because this is in the context of let us satellite location problem or in the context of suppose
+###2464 you want to locate a satellite in space and the satellite has to serve a number of existing
+###2470 location on the earth, it has to serve New Delhi, Kolkata, Hyderabad, Singapore etc.
+###2476 So you have a number of m points which it has to serve and let us say you know the weightages
+###2482 for these points so the idea is that the optimal point for the satellite would be the one if
+###2492 you want to minimize the total radiation loss.
+###2496 You want to minimize the total radiation loss; it should be located, such that this particular
+###2506 distance criterion is actually this particular criterion. So the distance measure may be
+###2516 any other because you travel anyway so I have to go from here to here, or I can go this
+###2520 way, I can go this way, I can travel on a network in any particular manner and so on.
+###2526 So it could be other or any other network. Those can be commonly used distances so what
+###2534 we do is normally the network location problem is a practical problem because there you define
+###2540 exactly the distances from one node to the other on the network. You can look at the
+###2545 network and try to solve the location problem on the network.
+###2552 Now let us try to look at this particular problem of rectilinear distances. In a rectilinear
+###2569 distance problem our objective function is simply Z which is the total cost, which is
+###2574 the summation from i = 1 to n, wi into x – ai + y – bi mod. That is what it is, that is
+###2582 the rectilinear distance. The only interesting thing here is that this particular function
+###2587 could be sort of broken up into wi into x – ai mod + wi into y – bi mod and this
+###2597 can then be written as two separate summations. The summation for x – ai mod and the summation
+###2604 for y – bi mod and the interesting thing here is that this is the function of x alone.
+###2610 This (Refer Slide Time: 43:30) is the function of y alone. So the problem of rectilinear
+###2615 distances is that if you want to minimize Z what you have to basically do is you have
+###2622 to minimize f1 x and f2 y independently that means optimum location for the rectilinear
+###2629 distance location problem is determined simply independently minimizing f1 x and f2 y. Now
+###2638 you can determine the procedure for doing this and rather than deriving the procedure
+###2645 I would state the procedure here in fact in this particular situation, the f1 x and f2
+###2651 y are minimized, if you locate at the medium location, that is the result. That actually
+###2657 comes from duality theory. We can look at the proof in the tutorials.
+###2664 Let us take an example to illustrate what we have been talking about and we will use
+###2677 this frame work of the example on different distance measure. For instance let us assume
+###2684 that service facility to serve five offices located at (0, 0), (3, 16), (18, 2), (8, 18)
+###2691 and (20, 2) is to be set up. It is like saying the number of cars transported per day between
+###2698 the new service facility which you want to set up and the offices equal 5, 22, 41, 60
+###2704 and 34 respectively. So the question is what location for the service facility will minimize
+###2710 the distance, the cars are transported per day? It is like saying that you have collection
+###2717 centers for cars at 5 places and cannot place south Delhi etc. You also want to have central
+###2727 service facility. Where will you avail the service? The people can deposit their cars
+###2734 here and their experience shows that the number of cars deposited per day is so much so where
+###2739 should your service facility be? This is the problem and we are assuming that the distance
+###2745 involved is rectilinear.
+###2750 So as I indicated to you, the answer to this problem is that we can determine the x coordinate
+###2755 and the y coordinate independently and the x coordinate is nothing but a median location.
+###2761 So this simply means if we arrange the entire x coordinates in ascending order, these are
+###2768 0, 3, 18, 20 and this is corresponding to the existing facility 1, Corresponding to
+###2774 the existing facility 2, this is corresponding to existing facility 4, this is corresponding
+###2779 to the existing facility 3, and 5. So ascending order of the x coordinates and we determine
+###2784 the weights. Weights are the number of cars that come here, 3, 22, 60, 41, and 34. Determine
+###2791 the cumulative weight, this should be 3, rather this should be 5. This is error somewhere,
+###2801 so misprint. So you have 5, let us say 5 is the cumulative weight here and then 27 and
+###2808 then 87 and then 128 and then 162. What needs to be done is if the total cumulative weight
+###2816 i.e., 162 is the sum of the weights, half of that is 81. So you find out where the cumulative
+###2822 weight changes, that is this is less than 81 and this is greater than 81.
+###2827 This becomes greater than 81 here for the first time. So this row determines the optimal
+###2832 solution. A very simple straightforward and therefore x star = 8. So we have determined
+###2839 the optimum x coordinates for this particular problem. The rectilinear distance location
+###2844 problem is merely a median location. So this is how you determine the median location then
+###2854 we can do a similar procedure for the y coordinate. When you do the y coordinate what happens
+###2860 is that if you arrange the y coordinate in ascending order 0, 2, 16 and 18, you find
+###2867 that this corresponds to the first facility. Both the facilities 3 and 5 share this coordinates
+###2873 so we write both of them here and 2 and then 4 in that order and then the weights which
+###2879 are there are 5, 14, so this is 5 in the previous slide, it should have been 5. This is 5, so
+###2890 this particular value should be 5 (Refer Slide Time: 48:19). Now we have 80 again, you have
+###2901 the total cumulative weight which is 162, half of that, this is less than this, this
+###2907 is greater than this (Refer Slide Time: 48:30), so where the cumulative weight first exceeds
+###2911 half the value, that row is here, so corresponding to this we can identify that y star = 16,
+###2918 it is very simple. So you observe that we can determine the x star and the y star value
+###2926 independently by similar procedures by just identifying the median and we have identified
+###2932 the median. So in this particular case we now have in fact determined both x star and y star.
+###2946 So x star is 8 and y star is 16, so 8,16 becomes the optimum location for the service facility,
+###2956 that means this will minimize the total cost of travel, that is the optimum solution or
+###2960 the ideal solution for the location of the service facility for this particular problem.
+###2967 Now let us look at the case where you find that the distance measure is, let us say square
+###2981 Euclidean. We will not talk about the Euclidean case now. We shall talk about it later but
+###2985 let us talk about the squared Euclidean case that is the satellite location problem. So
+###2991 the location is also another interesting problem here. You know it would be like trying to
+###2997 say that suppose in the squared Euclidean problem, the optimum location is in fact in
+###3004 this case, centroid location. This can be proved very easily. So the centroid location
+###3011 for this problem is simply x star = summation wi ai divided by summation wi, y star is equal
+###3018 to summation wi bi divided by summation wi. So for the same problem that we considered
+###3025 earlier for the Euclidean distance, for the rectilinear distance case, we can easily determine
+###3031 this summation wi in the denominator. It is 162 which is the total weight. Sum of the
+###3038 weights and x star is 12.12; y star is 9.77. So if your distance measure is a squared Euclidean,
+###3050 it would be best to locate the new facility at 12.12 and 9.77 and obviously this differs
+###3057 from the earlier median location that we determined of 816. I am just trying to tell you that
+###3067 if you are still not very clear about when you should use the squared Euclidean case,
+###3076 suppose your set of 5, 6 friends are celebrating a bonfire in winter, imagine the situation
+###3091 and they are standing or sitting in a certain location around bonfire, then the question
+###3098 is which is the best position for the bonfire such that the total loss of heat energy is
+###3105 minimum for all these guys. So if that is to happen, the bonfire should be at the centroid
+###3111 of all these points, where the people are sitting. That is exactly where the satellite
+###3117 location problem is in terms of whatever it is.
+###3120 So this can be determined very simply by saying 12.12 and y star is also is equal to 9.77
+###3127 and therefore you can determine the centroid location very easily.
+###3132 In this particular case if you now look at the Euclidean distance locations which is
+###3143 the third problem that we are trying to talk about, you recall that one simple way of solving
+###3149 this problem is by using the mechanical analogy that was developed by varianon in the frame
+###3159 which we call a varianon frame. All that we have done was all these points are raw materials
+###3165 sources and markets so all the total points are actually plotted here to scale and then
+###3173 you take the required number of strings, tie them to a common knot, and pass one string
+###3180 through each of these holes which you have drilled here. Then you can hang a weight.
+###3184 This is equal to the weight corresponding to that particular point. You allow the system
+###3190 to come to equilibrium and when that happens, the location of P is actually the solution
+###3197 to the Euclidean distance location problem.
+###3202 As we had seen the other day, normally this method of constructing the varianon frame
+###3209 and the strings models is quite cumbersome. So mathematical procedures are available by
+###3216 means of which you can compute this particular point but there are certain mathematical complications
+###3222 in this analysis and therefore the resort has to be made to iterative heuristic procedure
+###3232 for getting this particular point. So getting this point mean that you start with a trail
+###3237 point P and the trail point P most of the solutions is the solution to the centroid
+###3243 problem you can start with 12.12 and 9.77 and then keep iterating in certain fashion.
+###3249 We will then talk about the algorithm in the tutorials, how it is done. But essentially
+###3256 this is an exact solution of the Euclidean distance location problem which you can see
+###3261 from here and I think that gives you a broad idea of how these problems are. Yes, I think
+###3275 so far all the problems that we have considered; it can be termed as minisum problem that means
+###3283 it comes to the objective function.
+###3286 In all cases the objective was to minimize the sum of the total travel from the facility
+###3292 to all other facilities. If you are talking about locating a central service station,
+###3299 so you are talking about the cost of movement from the service station to the first facility
+###3303 from the service station to second facility and so on. This sum was there. So all the
+###3309 three problems that we have considered so far were actually minisum problems where you
+###3313 are trying to minimize the total sum. Now in many instances especially in emergency
+###3321 location problem it is not appropriate to think of a mini sum objective.
+###3327 It is better to think in terms of what we call a minimax objective. For example it is
+###3332 like saying if these are the resistances of different people in different locality and
+###3341 you are trying to find out the location of a fire station, The location of the fire station
+###3346 should not be such, the total cost to this plus this plus this plus (Refer Slide Time:
+###3350 55:50) this should be minimum because when a fire breaks out, the fire tender has to
+###3357 run to that particular place. So really speaking, the location of the fire station should be
+###3362 such that it should be nearest to the farthest point.
+###3370 You are trying to minimize the maximum distance from that particular in all emergency location,
+###3378 mimimax problems are quite common. For the location of emergency facilities our objective
+###3384 would be to minimize the maximum distance just to give a motivation without going into
+###3389 details. For instance these were the points and you want to locate a facility. The idea
+###3397 is that what would be a minimax location? A minimax location will be we try to enclose
+###3403 these in a circle and the circle which has the minimum diameter. The center of that circle
+###3410 which is let us say this one (Refer Slide Time: 52:61) encloses these points. This is
+###3413 the circle which encloses all these facilities with the minimum diameter. This circle is
+###3419 larger and there could be other larger circles. Basically what we are seeking is this circle
+###3425 and the center of this is optimum location. Now graphically it is very wonderful to look
+###3433 at this particular procedure and there are algorithms for instance there is a beautiful
+###3439 algorithm by Elzinga and Hearn which is actually based on this analogy. So this is just to
+###3444 tell you that if the objective function changes, the problem is no longer a minisum problem
+###3450 but a minimax problem. Finally let us look at this complication.
+###3454 For instance we determine an ideal location by these mathematical procedures, if we determine
+###3460 an ideal location what may happen is that the ideal location may not be available. There
+###3465 might be a building, there might be a river running through it or there might be other
+###3470 complications and you cannot locate because in solving the problem, in determining the
+###3475 ideal solutions, we have taken into consideration the feasibility of these locations. So what
+###3482 is interesting is that we can build cost contours. These are lines of constant cost. So this
+###3489 is the minimum cost of optimal location. Cost increases by 5 percent, by 10 percent, by
+###3494 15 percent, by 20 percent whatever it is and you have lines of constant cost. This will
+###3500 help you to choose an alternative location. These are very much like lines of constant
+###3505 height on a map; on a geographical map you have lines of constant height. Similarly you
+###3512 have lines of constant cost and this mapping once is done would give you ideas as to which
+###3519 side you should shift, where is the cost lesser, where is the cost more and there are procedures
+###3526 to develop the cost contours. In fact in the tutorial exercises you will have an opportunity
+###3532 to develop these cost contours. Finally let us see what we have done in this particular
+###3540 lecture
+###3540 We started with looking at a practical problem, a case study and we saw that the decision
+###3548 matrix approach to handle multiple objectives in plant location was in fact very worthwhile
+###3554 approach to consider all the objectives and consider the feasible solution. Basically
+###3562 this problem could be termed as a problem of choosing the best amongst options. Then
+###3571 we have the single facility location models. We talked about the rectilinear distance,
+###3577 the squared Euclidean distance, the Euclidean distance where the objective was to generate
+###3582 the best from the infinite options which are available and finally we talked about the
+###3589 notion of minisum and minimax problems where the objectives could change depending up on
+###3595 the context. Finally we saw our cost contour that can help to accommodate practical constraints
+###3603 that is moving from ideal to a feasible solution. So with this we conclude this particular lecture
+###3613 and in the next lecture we will go over to the facility layout problem which is the next
+###3620 important problem in the context of facility location.
+###3623 Thank you

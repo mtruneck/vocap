@@ -1,0 +1,98 @@
+<html>
+<head>
+	<link rel="stylesheet" href="static/css/colorbox.css">
+	<link rel="stylesheet" href="static/css/jquery-ui.css">
+	<link rel="stylesheet" href="static/css/vocap.css">
+	<title>Vocap - Vocabulary in Captions</title>
+</head>
+<body>
+
+<div id="whole_page">
+
+<div id="top">
+	<a href="" title="Vocap - VOcabulary in CAPtions">
+		<div class="heading"><span>Vocap - Vocabulary in Captions</span></div>
+	</a>
+
+	<form id="search_form">
+		<input name="search_query" id="search_query"></input>
+		<span id="submit_search">Search</span>
+	</form>
+
+	<span id="dict"></span>
+</div>
+
+<div id="left">
+	<div id="result">
+
+    <div style="text-align: center; padding: 10px 20px 10px 20px;">
+    <h2>What can Vocap do for you?</h2>
+    You can search for a word of phrase in subtitles of YouTube videos
+    and play the particular part.
+    <br>
+    <br>
+    <h2>How to use it?</h2>
+    You can search either single words or you can also search for a 
+    words with different ending using asterisk, e.g. <i>end*</i> matches 
+    <i>end</i>, <i>ends</i>, <i>ending</i>.. And you can search for 
+    phrases by quotes, e.g. "put it out".
+    <br>
+    <br>
+    <h2>What is it good for?</h2>
+    For learning English vocabulary because I found it very helpful
+    to see/hear the words in a real context.
+    <br>
+    <br>
+    Or for any other purpose you come up with.
+    <br>
+    <br>
+    <h2>What languages are supported?</h2>
+    Only English by now.
+    <br>
+    <br>
+    <h2>What if I don't see the subtitles in the video.</h2>
+    You have to turn on the closed captions in the Youtube videos
+    manually. It is not posible to do it automaticaly.
+    <br>
+    <br>
+    <h2>Who made Vocap?</h2>
+	michal.trunecka(at)gmail.com
+    
+    </div>
+
+	</div>
+</div>
+
+<div id="right">
+	<div id="player" style=""></div>
+</div>
+
+<div id="footer">
+	<a class="iframe" href="list/">List of indexed videos</a>
+</div>
+
+</div> <!-- div id=whole_page -->
+
+
+<script src="static/lib/require.js" data-main="static/js/config"></script>
+
+{% if on_openshift %}
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39672468-1']);
+  _gaq.push(['_setDomainName', 'vocap-giat.rhcloud.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+{% endif %}
+
+</body>
+</html>

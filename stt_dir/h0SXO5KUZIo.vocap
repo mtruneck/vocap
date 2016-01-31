@@ -1,0 +1,1161 @@
+###0 
+###1 MALE SPEAKER: Welcome, everybody,
+###2 to yet another Authors@Google Talk.
+###6 Today with us is best-selling New York Times author Peter
+###10 Singer.
+###12 He wrote a very important book on cyberwar.
+###16 Our own Eric Schmidt says, "this is an essential read."
+###21 My dear colleagues, I will repeat this for you.
+###24 This is an essential read.
+###28 So we do have copies of the book on sale.
+###32 This is the way it looks like.
+###35 Please go and buy the book, even if you've seen this talk.
+###40 Peter is a great author in many respects.
+###46 But what he did for cybersecurity and cyberwar
+###50 for, in particular, is he expanded
+###53 on a field that is growing.
+###56 And that we know is becoming increasingly important not only
+###61 from the infrastructure standpoint,
+###64 but also for international relations.
+###66 I'm going to let Peter actually take it from here.
+###69 Thank you, Peter.
+###70 
+###75 PETER SINGER: Thank you for the kind introduction.
+###77 So it's a little bit daunting to be
+###80 talking on this topic at a company like this,
+###83 because I remember the very first time
+###85 that I ever saw a computer.
+###88 My father took me to a science center down in North Carolina.
+###93 And I got to see a Commodore, if you remember those.
+###97 And I took a class on how to program,
+###101 learning an entire new language for the sole purpose
+###105 of making a smiley face out of the letter m that printed out
+###111 on one of those old spool printers
+###113 that you tore the perforated paper off the sides.
+###115 Remember that?
+###117 Now since then, the centrality of computers to my life,
+###123 your life, the entire world, it's
+###125 almost impossible to fathom.
+###127 We live in a world where more than 40 trillion emails
+###130 are sent every single year.
+###134 The first website was made in 1991.
+###137 Now, according to your own analytics,
+###139 there's more than 30 trillion individual web pages out there.
+###143 Moreover, the internet is not just
+###145 about compiling and sharing information.
+###148 It's also having impact out on the real world via the emerging
+###152 Internet of Things.
+###153 According to Cisco, we'll see more than 40 billion devices
+###157 internet-enabled over the next five years,
+###159 as everything from thermostats to cars to refrigerators
+###164 to technologies literally not yet invented or imagined all
+###168 come online and all start to carry
+###169 on conversations without us.
+###172 So in short, domains that range from communication to commerce
+###177 to critical infrastructure to even conflict.
+###180 98% of US military communications
+###182 goes over the civilian-owned and operated internet.
+###185 All of these spaces are dependent on it.
+###188 So we're in an age of cyber dependency.
+###190 But in the short history of the internet,
+###193 I would argue that we've reached a critical turning point.
+###198 And it's because while the positive side of cyberspace
+###202 is rippling out, so too are the risks, the negative side.
+###205 There's all sorts of ways you can illustrate this.
+###207 You can illustrate it with the raw numbers.
+###210 Every second, nine new pieces of malware are discovered.
+###214 97% of Fortune 500 companies know that they've been hacked.
+###219 And the other 3% have been, too, they just
+###222 aren't willing to admit it to themselves.
+###224 More than 100 governments have created some kind
+###228 of cyber military command, some kind of military unit designed
+###233 to fight and win wars in cyberspace and beyond.
+###236 And indeed, the very first Pew poll to kick off 2014
+###240 found that Americans are more afraid of a cyber attack
+###244 than they are of North Korean nuclear weapons,
+###247 Iranian nuclear weapons, the rise of China, Russia,
+###251 or climate change.
+###253 So these fears, they've coalesced
+###255 into one of the most rapidly growing industries
+###257 in the entire world.
+###259 They've also driven a massive bureaucratic growth
+###263 at the national governmental level
+###265 not just in the United States.
+###267 Just earlier today, France announced
+###268 that it was spending another $2 billion
+###270 in its military on cybersecurity issues and cyberwar.
+###274 But also we see it at the state level.
+###276 And even at the local level, where
+###278 you see cities like Los Angeles, for example,
+###280 creating cybersecurity centers.
+###284 What all this together means is that for all the hope
+###288 and promise of the new digital age,
+###291 we also live in an era of cyber insecurity,
+###295 if we're really being honest about it.
+###297 And so before I go much further, it's
+###299 at this point I'm going to try and do
+###300 something that's a little bit counterintuitive,
+###302 but will maybe help make that point about cyber insecurity.
+###307 And a lot like the challenge of trying
+###310 to write a book about cybersecurity
+###312 and make it interesting, you also
+###314 have the challenge of how do you give a talk about it
+###316 and give visuals that make it interesting.
+###319 So what I did-- and with Boris's help,
+###322 hopefully it will play for us here
+###323 --is I've assembled what I think are
+###325 some of the best illustrations of cyberwar art,
+###329 and some of the worst illustrations of it.
+###331 And it's going to play in front of me.
+###333 I'm not going to speak to it.
+###333 It's just going to continue to flash for a couple reasons.
+###336 One, to tell that story of cyber insecurity.
+###340 But also because data has found that you're
+###343 60% more likely to retain what I'm
+###345 saying if you look at a picture.
+###347 Even if the picture has nothing to do with what I'm saying,
+###350 it's just the way us humans work.
+###353 And that actually goes to a broader lesson
+###354 that the book explores, and we'll talk about it later on.
+###356 Which is that we're humans, we're strange, we're weird,
+###359 but that's what drives all of these things.
+###361 So let's pull back on all this and wrestle
+###364 with the question of why a book on cybersecurity and cyberwar,
+###369 and why now?
+###371 There's two quotes that motivated
+###374 me that basically encapsulate this.
+###377 The first is from President Obama,
+###379 who declared that cybersecurity risks pose quote,
+###382 "The most serious economic and national security
+###385 challenges of the 21st century."
+###387 The second quote is from the former CIA director,
+###390 who said quote, "Rarely has something been so important
+###394 and so talked about with less and less clarity and less
+###399 apparent understanding."
+###401 And you can see, I really do want to talk to this one,
+###404 but we'll keep moving on.
+###406 So let's explore this gap.
+###409 We see it in all sorts of fields.
+###411 From the 70% of business executives--
+###416 not 70% of CTOs, CSOs, CIOs --but 70%
+###420 of business executives in general, in any industry, who
+###424 have made a cybersecurity decision for their company
+###427 despite the fact that no major MBA program teaches it
+###431 as part of your normal business management
+###433 training and responsibility.
+###435 That same kind of gap in training
+###437 happens at the schools we teach our diplomats, our lawyers,
+###440 our journalists, our generals.
+###443 Or anecdotes.
+###445 And there's just an array of funny,
+###448 but in a certain way sad, anecdotes that
+###449 populate the book.
+###450 From the opening of the book where a Pentagon official is
+###453 telling us how important this all is,
+###456 but he describes it as "this cyber stuff."
+###459 When you can only call something stuff,
+###461 but you know it's important, that's
+###462 not a good place to be in.
+###464 Or the former Secretary of Homeland Security,
+###469 the agency that is ostensibly in charge of cybersecurity
+###472 on the civilian side for the United States--
+###474 who has actually now taken over as Chancellor of the university
+###477 system out here in California --who proudly talked
+###480 to us about the fact that she doesn't use email.
+###484 And in fact hasn't used social media for over a decade.
+###488 Not because she doesn't think it's secure,
+###491 but because she just doesn't think it's useful.
+###494 That same phenomena is happening on the Judicial Branch.
+###498 Where, for example, a Supreme Court Justice
+###501 talked about how they quote, "Hadn't yet
+###503 gotten around to email."
+###505 Now this is obviously worrisome to folks
+###507 here working on the Gmail account.
+###508 But there's a broader question of what
+###510 does this mean for Justices that in the upcoming year
+###513 are going to decide everything from maybe net neutrality
+###516 questions to the legalities of some of the things
+###518 that the NSA was doing when they just haven't yet gotten around
+###521 to email.
+###523 The cyber stuff problem is not just an American phenomenon.
+###528 We saw the same thing in meetings
+###530 with leaders in China, UAE, France, Great Britain.
+###535 The Head of Cybersecurity in Australia
+###539 had never heard of Tor, obviously
+###542 a critical technology in this space.
+###545 Now the result is that cybersecurity
+###547 is as crucial to areas as intimate as your personal
+###551 privacy, to the security of your bank account,
+###555 to as weighty as the future of world politics itself.
+###558 But it's been treated as an issue
+###562 only for the "it" crowd, for the IT folks.
+###567 In turn, the technical community that
+###570 understands the workings of the software and the hardware
+###575 hasn't dealt very well with the wetware,
+###578 with the human side, and particularly
+###580 the ripple effects of this into other worlds,
+###583 be it policy, law, war, you name it.
+###586 They've often looked at the world
+###587 through a very specific lens and failed
+###589 to appreciate some of the broader pictures out there.
+###592 Now the dangers of this are diverse.
+###594 Each of us, in whatever role we play in life,
+###596 must make decisions about cybersecurity
+###599 that shape the future of the world well
+###601 beyond just the online world.
+###603 But too often we do so without the proper tools.
+###607 Basic terms and essential definitions
+###611 that define both what's possible but also what's proper,
+###617 what's right and wrong, are missed or even worse distorted.
+###623 Past myth and future hype often weave together,
+###627 obscuring what actually happened with where we really are now.
+###631 And so the result is that some threats are overblown
+###635 and overreacted to, and other threats are ignored.
+###640 So for example, as someone who loves history,
+###643 it absolutely pains me when I hear
+###647 people-- and people who have done
+###648 this range from senior government leaders
+###651 like senators to generals to prominent news columnists
+###654 --describe how we are in a parallel to the Cold War.
+###658 Or as a cabinet official told me,
+###660 that malware was "just like a WMD."
+###664 And that's why we needed to approach it
+###665 in the same kind of deterrence theory
+###667 that we used in the Cold War.
+###669 What these people fail to appreciate
+###671 is the parallel to the Cold War is not
+###673 the one they think they're making.
+###676 If you understand both the historic side
+###678 and the technical side, the best parallel to the Cold
+###680 War-- actually, those early days we
+###683 didn't understand well either the technology but even more so
+###686 the political dynamics that it was driving, the period of time
+###690 where we took the real life versions of Dr. Strangelove
+###694 seriously.
+###695 So as an illustration in the book,
+###697 we explore the episode where the US Air Force actually
+###701 had a serious plan to nuke the moon
+###705 to show the Soviets that we could
+###706 do interesting stuff in space, too.
+###709 Those are not historic lessons we should be drawing in terms
+###711 of the how-to's.
+###712 But that's often what the discourse is.
+###715 Let me go into some of the manifestations
+###717 of this disconnect, and how they play out, and why they matter.
+###722 One in particular is that we often lump things together
+###726 that are unlike, simply because they involve zeros and ones.
+###731 So take that idea of a cyber attack.
+###734 General Alexander, who is simultaneously
+###737 the commander of US military Cyber Command and double-hatted
+###742 as the head of the NSA-- which there
+###745 are some very interesting problems with that.
+###748 But let's move beyond that.
+###749 He testified to Congress, quote, "Every day,
+###753 America's armed forces face millions of cyber attacks."
+###758 But to get those numbers he was combining
+###762 a variety of like and unlike things.
+###765 He was combining everything from probes and address scans that
+###769 never entered networks to unsuccessful attempts
+###773 to get in that ranged from kids carrying out pranks to attempts
+###777 at political protests to attempts to get in to carry out
+###781 some kind of theft or active espionage.
+###785 But none of those millions of attacks was what his listeners
+###790 in Congress thought he was talking about,
+###793 which was the so-called cyber-Pearl Harbor
+###797 or cyber-9/11 that actually there's been over a half
+###801 million media and government speech references to.
+###805 And that's what his boss as Secretary of Defense
+###807 was warning everyone about.
+###809 Essentially what we're doing is that we're bundling together
+###812 all of these activities simply because they involve software.
+###816 Which would be a lot like bundling together
+###818 the activities of a group of teenagers with firecrackers,
+###823 a group of political protesters in the street with a smoke
+###826 bomb, James Bond with his Walther PPK missile,
+###830 a terrorist with a roadside bomb,
+###833 and a Russian cruise missile, and saying these are all
+###835 the same because they involve the chemistry of gunpowder.
+###839 We've bundled them together on the digital side,
+###841 because they all involve the internet.
+###843 Or take the organizations.
+###846 I had a senior US military official
+###848 argue with me that Anonymous and Al Qaeda were the same thing.
+###854 Now, however you come down on Anonymous-- and I'm actually,
+###859 I guess far more empathetic towards them
+###863 than what you'd expect from people coming from DC.
+###866 But the bottom line is, wherever you come down on them,
+###869 they have nothing to do with Al Qaeda in terms
+###873 of their organization, their means, their ends,
+###877 their causes-- basically the only thing they're related
+###880 is they're both non-state actors that begin with the letter A.
+###882 But that was the belief.
+###884 Now these gaps in understanding, these disconnects
+###887 of policy and reality, mean that we're not only seeing
+###890 growing tension-- and we explore this
+###892 in particular in meetings with US and Chinese officials
+###895 who would be negotiating on core questions of cybersecurity.
+###899 And yet, as an illustration, one State Department official
+###904 going off to one of these negotiations actually
+###906 asked us what an ISP was?
+###909 Which to make that Cold War parallel,
+###911 would be like going off to negotiate with the Soviets
+###913 and not knowing what an ICBM is.
+###915 But the point is, it's not only driving tension,
+###918 it's leading to us being taken advantage of.
+###921 And that can happen at the individual level
+###925 when you get tricked to send your mom your bank account
+###929 information because she's stuck in Thailand.
+###931 You didn't know she was in Thailand,
+###933 but gosh, you just need to help her out.
+###935 To more serious illustrations of this.
+###937 Like at the G-20 conference, the most important
+###941 international conference of the year,
+###943 diplomats were spearphished by-- they received an email that
+###948 had a wonderful offer for them.
+###950 It said, if you click this link you
+###952 will be able to see nude photos of the French First Lady.
+###957 And many of these senior diplomats clicked the link.
+###959 And unfortunately they didn't get to see the nude photos,
+###962 but they did download spyware onto their accounts.
+###965 Again, senior government officials
+###968 to being taken advantage of at the business
+###970 organizational level.
+###972 Either alternatively not doing enough to protect the business
+###976 or hiring hucksters who offer 100% security
+###984 with some kind of silver bullet solution.
+###988 Or frankly, being taken advantage
+###990 of at the national political level.
+###991 Which is, I think, behind a number of the issues
+###993 surrounding the current Snowden-NSA scandal.
+###998 This can even happen to a president.
+###999 Reportedly, Obama expressed his, quote,
+###1002 "frustration that the complexity of the technology
+###1005 was overwhelming policymakers."
+###1008 Now, our inability to have a proper discussion on these
+###1013 means that we see a distortion of threats.
+###1018 And in turn, a misapplication of resources to face them.
+###1022 Perhaps the best illustration of this is a number-- 31,300.
+###1028 That's the number of news and academic journal articles
+###1033 that have explored the phenomenon of cyberterrorism.
+###1037 Zero.
+###1039 That's the number of people that have actually
+###1040 been hurt or killed by an actual incident of cyberterrorism.
+###1045 In the book, we joke that in many ways
+###1047 cyberterrorism is a lot like Discovery Channel's Shark
+###1050 Week, where we obsess about the danger of sharks
+###1053 even though you're 15,000 times more likely to be
+###1055 hurt on your toilet.
+###1057 Except the difference is that Jaws actually did get someone,
+###1061 or the real world version of Jaws did get someone.
+###1063 Whereas we've not seen this in reality yet
+###1066 other than Die Hard 4.
+###1068 Now let me be clear, I'm not saying
+###1072 that terrorists don't use the internet.
+###1076 And in the book we have several chapters
+###1078 that explore terrorists' use of it, much of which
+###1080 is like how the rest of us use it.
+###1082 And I'm not saying that there is not interest in carrying out
+###1085 acts of cyberterrorism, nor that there
+###1088 wouldn't be impactful effects of them.
+###1091 Indeed, our development of Stuxnet,
+###1093 a cyber weapon that finally had physical powers, caused
+###1097 physical damage to the world, is a great illustration of this.
+###1099 But in turn, Stuxnet illustrates how an effective cyber attack
+###1104 that is real and consequential is also quite difficult.
+###1109 To put it a different way, when it comes to cyberterrorism Al
+###1114 Qaeda would like to, but can't.
+###1118 China could, but doesn't want to yet.
+###1122 Now my point, rather, is that strategy--
+###1126 whether it's at the national level, at the business level,
+###1130 at the individual level, strategy
+###1132 is about choices and priorities.
+###1135 And so we need to weigh the centrality of what
+###1138 we talk about, what we obsess about in our discussions
+###1142 versus what are arguably not only very real, but more
+###1147 consequential cyber threats out there.
+###1150 It ranges from something that this organization
+###1153 is very familiar with-- the massive campaign
+###1156 of intellectual property theft that by most measures
+###1161 you could judge to be the largest theft in all
+###1164 of human history, that's ongoing right now.
+###1168 And where is it coming from?
+###1170 If this was a Harry Potter novel,
+###1171 we would describe it as a large Asian power
+###1173 that shall not be named.
+###1175 To if we want to think about the national security
+###1177 consequences-- not just looking at the consequences of that IP
+###1181 theft and how it plays out, but look
+###1183 beyond the sexy cyber-Pearl Harbor descriptions
+###1187 and actually focus on how the military uses this technology
+###1191 and wants to use it.
+###1191 And what is the future of computer network operations
+###1195 in actual campaigns of warfare?
+###1197 To maybe moreso we should be paying attention
+###1200 to the ripple effects, the secondary effects of all
+###1203 these actions.
+###1204 Because if we use the illustration of terrorism,
+###1207 one of the things we've learned from 9/11
+###1209 is it's not merely the attack itself,
+###1212 but how we react to it that really
+###1215 stakes its place in history.
+###1217 And so I worry about some of these secondary effects
+###1220 that are playing out, and particularly
+###1222 how they are hammering away at that crucial value that
+###1226 has basically underpinned the internet of trust.
+###1230 And we can see that being damaged
+###1231 by the massive campaigns of cyber crime out there.
+###1234 Whether it's the IP theft to credit card, and like.
+###1237 And that's affecting both trust that consumers and users have
+###1241 with the network, and in turn what the operators have
+###1244 towards consumers.
+###1245 To trust damaged by our government's actions seeking
+###1250 to deal with conventional terrorism.
+###1254 And what that has done to both trust in those agencies,
+###1258 but also trust in America and trust in American technology
+###1261 companies.
+###1262 To finally, what it's done to the internet freedom agenda.
+###1266 And the trust in the underlying governance structure
+###1269 of the internet that has worked so effectively
+###1271 for our lifetime, created this thing
+###1273 that's been arguably the most powerful force
+###1276 for political, economic, social change
+###1280 certainly in my lifetime, maybe ever.
+###1282 And yet over the next year could be seriously damaged
+###1284 by some international negotiations that
+###1286 are playing out, particularly pushed
+###1288 by authoritarian states like Russia and China.
+###1291 If you like the idea of Russia's 82,000 blacklisted websites,
+###1296 or if you like the building internet wall in China,
+###1301 this may be the future if we don't watch out.
+###1303 Particularly as some of the core swing
+###1304 states, the Brazils, the Indias, the Germanys,
+###1307 may not be with us the way they were previously.
+###1310 Now this gap in the fields also means
+###1314 when it comes to the warfare side,
+###1317 we act on bad assumptions.
+###1320 Or don't make connections across domains
+###1323 in ways that truly matter.
+###1325 So take the notion of something from the field
+###1327 of war applied here, which is offense, defense,
+###1329 the balance between these.
+###1331 There is an idea that's taken hold that cyber offense is
+###1335 inherently privileged.
+###1337 It's inherently dominant against the defense.
+###1339 And not just now, but as one US military report
+###1342 put it, quote, "For the foreseeable future."
+###1345 So for as long as we can see in the future cyber offense
+###1348 will be dominant, is the assumption that's out there.
+###1351 This in turn has driven the US military
+###1354 to spend roughly four times as much
+###1358 on cyber offense research and development
+###1361 as it has on cyber defense research and development.
+###1365 Now the problem with this is threefold.
+###1368 The first is that it cyber offense is not
+###1372 as easy as it's too often depicted.
+###1375 So for example, the former number two in the Pentagon
+###1378 described how, quote, "A couple of teenagers sitting
+###1381 in their parents' basement, sipping Red Bull
+###1384 and wearing flip-flops, could carry out a WMD-style attack."
+###1390 No.
+###1391 They couldn't.
+###1392 They could do a lot of things, but not what he's
+###1395 for portraying.
+###1397 And Stuxnet is a great illustration of that.
+###1399 In terms of the wide variety of skill sets
+###1402 that were involved in this, everything from intelligence
+###1404 analysts and collection to some of the top technical talent
+###1408 in the world from multiple nations, to nuclear physicists,
+###1411 to engineers, to then another espionage effort to get it back
+###1415 in.
+###1416 It was a Manhattan Project-style effort.
+###1419 Again, the barriers to entry are lowering, but it's not just,
+###1423 oh I need a teenager and some Red Bull
+###1425 and I can carry this out.
+###1427 The second is history is replete with examples
+###1431 that every time a military assumed the offense was
+###1433 inherently dominant, that it turned out to be the opposite.
+###1437 And we're on the 100 year anniversary
+###1439 of probably the best illustration of that.
+###1441 Where the nations of Europe, prior to World War I,
+###1444 all assumed that the new technologies of the day
+###1447 meant that the offense was advantaged.
+###1449 And in fact, it was so advantaged
+###1451 that you couldn't allow yourself to be stuck on the defensive.
+###1455 So you had to go to war before the other guy could.
+###1458 So that you wouldn't be caught at a disadvantage.
+###1461 And as we saw play out in World War I,
+###1463 actually it was the defense that turned out to be dominant.
+###1466 But the final issue with this is,
+###1468 even if it's true it doesn't actually
+###1472 mean that we should be acting the way we are.
+###1477 To give a metaphor, the idea of sitting in your glass house
+###1483 and looking around and saying, gosh
+###1484 I'm worried about all these roving gangs of teens.
+###1489 Well, my best answer is to buy a stone sharpening kit.
+###1495 That's not the logic that we should be following,
+###1497 but that's what we're doing right now.
+###1499 So what can we do instead?
+###1501 The last third of the book is all about these
+###1504 what can we do questions, everything from global level
+###1508 responses to national level down to corporate to you
+###1511 and I. How can we protect ourselves
+###1513 and the broader internet itself.
+###1515 I'm not going to try and summarize
+###1516 that 100 pages up here.
+###1518 So I'll just hit on five themes that cut through all of it.
+###1522 The first theme is knowledge matters.
+###1526 It is vital that we demystify this realm if we ever
+###1530 want to get anything done effective in securing it.
+###1534 We have to move past the situation now
+###1537 where, for example, a White House official described this
+###1541 as quote, "only understood by the nerds."
+###1545 Or when the President himself received a briefing
+###1548 on cyber security questions.
+###1551 And at the end of the briefing, reportedly asked for, repeated
+###1553 back, quote, "This time in English."
+###1557 That's not to beat up on the residents of the White House.
+###1560 That would happen in almost any major company that's
+###1565 not in this space, not in Silicon Valley, but also
+###1569 even small companies, a cupcake stand.
+###1572 It would happen at the White House.
+###1573 It would happen at my house.
+###1576 The second theme leads from this.
+###1578 It's that people matter.
+###1580 Cybersecurity is one of those wicked problem areas that's
+###1582 rife with complexities and trade-offs.
+###1585 And this is in large part not because of the technical side,
+###1588 which often gets too much focus, but rather the people part.
+###1591 Now it's useful from a writer's perspective,
+###1594 because that gives you all the fun characters and stories
+###1596 to populate.
+###1598 My favorite being the time that Pakistan accidentally
+###1601 kidnapped all the world's cute cat videos for a day.
+###1605 But it also means that if you want
+###1607 to set up best responses at the global level, business level,
+###1611 all the way down to the individual level,
+###1612 you need to recognize that the people behind the machines
+###1615 are both part of every single problem.
+###1619 And have to be part of every single solution.
+###1622 This leads to the next theme.
+###1624 Incentives matter.
+###1626 If you want to understand why something is or isn't happening
+###1629 in cybersecurity, look to the motivations,
+###1632 the relative costs, the organizations
+###1635 that people are in, the tensions at play between them.
+###1638 There is a reason why, for example, finance companies
+###1641 are doing better at their cyber security--
+###1643 both in terms of defending themselves, but also sharing
+###1646 information --versus how, for example,
+###1649 critical infrastructure and natural gas or the power grid,
+###1654 how they're not cooperating and not defending themselves well.
+###1657 It's because they're incentivized both to directly
+###1660 understand the cost, but also there's
+###1662 a regulatory environment around them that's driving that.
+###1666 And this points to the role that government
+###1668 can, and frankly should, be playing.
+###1670 And everything from being a trusted information
+###1672 provider to setting standards to-- in other situations,
+###1676 it's going to have to create market incentives, which
+###1679 is another way of saying regulation.
+###1682 The fourth is history matters.
+###1685 There is a history to how we got here with the internet.
+###1689 And too often it's ignored.
+###1691 And that's when you hear these sort of silly things
+###1693 like oh, well let's just build a new, more secure internet,
+###1697 which is not a workable concept.
+###1700 And yet it's gotten a lot of credence in policy circles.
+###1703 But more broadly, it means that there's
+###1705 a wealth of lessons to learn from history and other fields.
+###1709 So if we're exploring, for example,
+###1711 how to deal with cyber crime, but also patriotic hacker
+###1715 communities that are linked to states,
+###1718 we look at the age of sail as a parallel.
+###1721 Where you have this domain in which
+###1724 commerce, communication, and conflict all
+###1727 played out on the open sea.
+###1729 The conflict actors ranged from state militaries
+###1732 to individual criminal groups, pirates,
+###1735 to these fuzzy things in the middle, privateers,
+###1737 that sort of gave you some of the advantage of pirates
+###1739 but also state-linked as well.
+###1741 And that's a lesson that we can look
+###1743 to in how we went after that trade.
+###1745 To if we want to understand good role for government, let's
+###1749 look at the most successful government agencies in history.
+###1753 Like the Centers for Disease Control, which literally
+###1755 started with a couple of scientists
+###1757 taking a $10 collection, a tin cup for $10.
+###1761 And that agency went on to eradicate malaria inside United
+###1764 States, to fight smallpox on an international level, to oh,
+###1767 by the way, served as a critical back channel to the Soviets
+###1771 in the worst part of the Cold War.
+###1774 This leads to the final lesson, and it comes from the saying
+###1779 that Ben Franklin had, that "An ounce of prevention
+###1783 is worth a pound of cure."
+###1785 What's fascinating is that the CDC did studies and proved
+###1790 that Franklin's saying actually is true in public health.
+###1795 It's also true in cybersecurity and cyberwar.
+###1799 Very simple steps of cyber hygiene
+###1803 would have an immense impact.
+###1806 Indeed, one study of the top 20 controls
+###1809 found that they would stop 94% of all cyber attacks.
+###1813 Now some people react to that, and they go well,
+###1815 I'm really special.
+###1816 I'm in the 6%.
+###1817 Well, statistically we all can't be in the 6%.
+###1821 But even more so they should talk
+###1823 to their technical folks, their IT crowd.
+###1827 And they would quickly learn how if they didn't
+###1830 have to spend so much time dealing with the low level
+###1833 stuff, they could actually focus on the more advanced
+###1837 persistent threats that are out there.
+###1839 And a large part of this, what's interesting
+###1841 is the data shows that senior executives are actually
+###1843 twice as likely to be behind one of these problems
+###1846 as junior folks, which makes it even more difficult for the IT
+###1850 department to deal with.
+###1852 To give some illustrations of this--
+###1856 let me add one more thing on it.
+###1858 The other challenge to this is that there's this assumption
+###1860 that the advanced threats are all
+###1862 using very advanced pathways in.
+###1864 And yet consistently, they're coming
+###1867 in through rather simple approaches.
+###1871 For example, the most important outside penetration
+###1874 of US military classified networks by a foreign espionage
+###1879 agency happened when they conducted
+###1882 what's known as a candy drop.
+###1884 Basically they dropped memory sticks
+###1887 in a parking lot outside a US military base.
+###1891 And while we learn in preschool don't take candy
+###1893 from strangers, a US soldier saw the shiny memory stick
+###1898 in the dirt.
+###1899 Thought this was really cool, picked
+###1901 it up, wanted to see what was on it.
+###1902 So he took it inside the base and plugged it
+###1904 into his computer.
+###1905 And that was actually the most important penetration
+###1908 of US military networks from the outside.
+###1911 To the insider threat, the episodes of Manning or Snowden.
+###1917 Again, wherever you come down on them,
+###1921 we can all agree that the organizations were not
+###1925 following the kind of internal security norms
+###1929 that a cupcake store should have.
+###1931 Monitoring, for example, massively anomalous traffic,
+###1935 things like that.
+###1937 Now this idea of hygiene is important-- again,
+###1942 when I say hygiene, picking up a memory stick
+###1944 that you found in the dirt.
+###1945 That's basic hygiene, that's the five second rule,
+###1948 let alone cyber hygiene.
+###1949 But this idea of hygiene, I think, is important not just
+###1954 because of that idea of prevention, but even more so
+###1958 the ethic behind it.
+###1961 That we need-- again, whether we're
+###1963 talking about this on a global level, a national level,
+###1965 a business level, to an individual level.
+###1968 I teach my kids hygiene.
+###1971 Wash your hands, cover your mouth when you cough.
+###1974 I teach them that not only to protect themselves,
+###1976 but also that they have a responsibility
+###1979 to protect all that they connect with through the course
+###1982 of their day.
+###1983 That's the same kind of ethic that we
+###1984 need in the online space.
+###1986 And we should be pushing more of that
+###1987 rather than the fears that are out there driving us.
+###1991 So to bring this story full circle,
+###1995 in the beginning I talked about how when I was seven years old
+###1999 I saw my first computer.
+###2001 Now if you had told little seven-year-old me
+###2005 that one day this Commodore or its descendants
+###2009 would allow someone to steal your money,
+###2014 steal your identity, even become a weapon of mass disruption,
+###2021 I would've begged and pleaded with my dad
+###2024 not to turn on the power button.
+###2027 Don't let us go into this dangerous, scary world.
+###2031 Today I wouldn't have it any other way.
+###2035 Because that technology has given me and all of us
+###2039 literally superpowers that we didn't imagine back then.
+###2044 We can ask any question and Google the answer to it.
+###2051 Any question, important or not important.
+###2055 Yesterday I was looking up the backstory
+###2058 of a minor noble in the "Game of Thrones."
+###2062 That's actually the important example.
+###2063 
+###2066 This technology has given us the power
+###2068 to become friends with people that we've literally never met.
+###2076 All of these great steps forward.
+###2078 And so the same as it was back then, I think,
+###2082 is the way it will be in the future.
+###2085 We have to accept and manage the risks of this world--
+###2090 whether it's the online world or the real world, so to speak,
+###2094 --because of all that can be achieved in it.
+###2097 And to steal the title from the book,
+###2100 in the end, that's really what everyone needs to know.
+###2104 Thank you.
+###2104 [APPLAUSE]
+###2106 
+###2112 MALE SPEAKER: We'll do a short Q&A. Please
+###2114 wait for the audience mic to arrive to you.
+###2117 And I wanted to mention one more thing that Peter told me about.
+###2120 And this is, there's a website.
+###2122 It's called cybersecuritybook.com.
+###2126 And there's a cybersecurity song playlist there.
+###2131 I'm curious myself now what that is.
+###2134 Questions?
+###2135 AUDIENCE: It seemed like one of the big problems
+###2137 you mentioned was a problem of leadership.
+###2139 And the people who are empowered just
+###2142 don't have the sophistication to talk about these issues
+###2144 and make decisions.
+###2145 And I just was wondering what you
+###2147 thought was the minimum level of competence
+###2150 required by these people?
+###2151 Because realistically, they seem to be pretty entrenched.
+###2154 And I don't think it's realistic to expect
+###2156 a whole new breed of people to come in and make
+###2157 these decisions.
+###2158 And on that point, as well, how likely do
+###2161 think it is to be able to get these people to that level
+###2163 of sophistication, given the fact that these people don't
+###2166 know how to use email?
+###2168 PETER SINGER: It's a great question.
+###2171 And one part of it, sometimes people say well,
+###2175 isn't this just a digital native,
+###2177 digital immigrant issue?
+###2180 That digital immigrants, someone who grew up in a world
+###2185 without computers and then now has
+###2186 moved into this world versus a native who was born into it
+###2190 and it all seems natural and intuitive.
+###2193 And so this problem, won't it just solve itself,
+###2197 is how they sometimes reference it.
+###2200 First, there's a long period of time before the immigrants,
+###2206 so to speak, move out of the positions of power.
+###2210 To put it a different way-- there's
+###2214 a quote in the book from a guy that
+###2215 talks about how the folks that are sitting in the big boy
+###2218 chairs, is how he phrased it.
+###2220 The big boy chairs in government or at CEOs
+###2223 of a lot of different companies or the like, many of them
+###2227 didn't see or use their first computer
+###2229 until they were in their 30s or 40s.
+###2233 But it doesn't mean one, they're going
+###2236 to be in those positions for a long time.
+###2238 And so we've got this gap, this period of time.
+###2241 We can't wait it out.
+###2242 The second is a lot of digital natives
+###2246 don't have this intuitively the way it's assumed.
+###2248 In large part because of how we've stovepiped these issues.
+###2253 That's for the IT folks to handle.
+###2256 Or the IT folks saying, oh, well that's for legal to handle,
+###2258 that's not for us.
+###2261 And so to your question, what's the level of expertise.
+###2266 I don't think there's a common test that everyone has to pass,
+###2269 or something like that.
+###2270 I actually-- and this may be a little bit controversial.
+###2273 I don't think it's even about people
+###2274 knowing how to do things like computer programming-- maybe
+###2277 it's controversial in this room.
+###2279 It's instead having familiarity of the key concepts,
+###2287 the key terms, so that frankly, they
+###2291 can have a good argument about it.
+###2295 You can see this in what's playing out with the NSA issues
+###2300 recently, where both the mass media,
+###2304 but also both sides in Congress that are arguing it,
+###2308 it's just so factually disconnected.
+###2312 And so they're not able to even have a good argument about it.
+###2315 To use that illustration of offense, defense theory.
+###2318 It's a great way of showing this.
+###2320 Where on one hand the people that
+###2322 understand the technical side don't
+###2325 know that there's actually a very rich literature
+###2327 in international relations of offense, defense,
+###2330 that doesn't lead you to one conclusion or the other.
+###2332 And they were sort of-- they picked one part of it and said,
+###2335 this is the conclusion of what we should take.
+###2336 In turn the IR crowd doesn't understand this all that well.
+###2341 The bigger thing is not a level of knowledge, it's an attitude.
+###2345 There's too much Ludditism out there that's celebrated.
+###2350 A senior government official who held responsibility
+###2353 for this literally saying, doesn't
+###2356 think it's all that useful.
+###2358 And she did the same thing the SecDef did,
+###2360 where if their email came in it's
+###2362 printed out by the assistant.
+###2364 They write their answer on it.
+###2365 And then they hand it back.
+###2367 You can't be effective if that's the kind of attitude
+###2370 that you have, both for your internal
+###2371 but you think it's OK to talk to others about it that way.
+###2376 And so for me it's, again, there's
+###2379 some base level of knowledge.
+###2380 But it's more about changing the attitudes around it.
+###2382 And frankly stop looking at this as just a highly technical
+###2387 issue for, again, the IT crowd, or for the nerds.
+###2392 AUDIENCE: What principles have we
+###2394 learned from the behavior of immune systems and biology,
+###2399 and from the resilience of biological networks
+###2402 all the way from the metabolic networks
+###2403 up to ecologies, what principles have we learned that we are not
+###2408 yet applying in cybersecurity?
+###2411 PETER SINGER: That's actually a great question
+###2412 to bridge back to the prior question.
+###2414 Because that all-important word that you used,
+###2418 resilience, is what I think should
+###2421 be at the centerpiece of our approaches
+###2424 and our discussions and the like.
+###2425 
+###2429 And you see this, again, on the government side.
+###2433 But also on the business side.
+###2437 Basically there's this mentality of offense, defense.
+###2441 And defense, it's build higher or thicker walls.
+###2446 
+###2448 And then the offense side is, weirdly enough,
+###2452 coming back into the private sector
+###2454 with the emergence of the potential hack back industry,
+###2457 of oh, the best way to protect yourself is not just
+###2460 to build a high wall but we'll go after the bad guys for you.
+###2465 It's basically a business version of vigilantism.
+###2469 It has major concerns for international relations,
+###2473 because it could quickly escalate things
+###2475 in a way that's unplanned.
+###2477 It's also a horrible business model for the client.
+###2481 Vigilantism only worked for Charles Bronson.
+###2486 This idea of the best way to defend yourself-- I'm
+###2490 going to go after this guy.
+###2491 And then oh, you're attacking?
+###2492 I'll go after this guy, this guy, this guy.
+###2493 And so at the end of the day all you're
+###2495 doing is paying someone to go after others for you,
+###2497 not actually making yourself secure.
+###2499 Instead of this mentality, it goes
+###2501 to what you asked about, resilience.
+###2503 And you can think about this in the physiological way.
+###2507 And that turns on everything from the notion of it being
+###2511 not a Cold War-- you know, this idea of we're
+###2514 in a new Cold War is literally a quote from folks.
+###2517 
+###2520 One, malware is not like the physics of a nuclear weapon.
+###2525 Second, there's not the bipolar relationship of two powers.
+###2529 The players in cybersecurity are just
+###2532 like the players in cyberspace.
+###2534 It's everything from the 100 cyber military units
+###2537 out there to non-state collectives
+###2541 interested in everything from cute cats to online protest
+###2545 to corporations that range from Google to Target
+###2548 to the cupcake store.
+###2549 And so it doesn't fit that to the online battle of ideas
+###2553 is not the ideological Cold War battle that it's framed.
+###2557 The online battle of ideas are-- go on YouTube
+###2561 and you can see the diversity of them.
+###2563 And so instead it's this ecosystem of players.
+###2566 And then it goes to the idea of the physiological approach
+###2569 of your own body.
+###2570 Our bodies are probably the most resilient thing ever created.
+###2573 
+###2577 They're designed for a world that's incredibly hostile.
+###2581 They expect that bad things are going to happen.
+###2583 They have a really great exterior line
+###2585 of defense, your skin.
+###2587 But they fully plan that that skin, at some point,
+###2591 will definitely be penetrated.
+###2593 And it has all sorts of systems to react to that.
+###2597 Everything from stemming the flow to monitoring infection,
+###2601 internal monitoring systems, to your body triages
+###2604 between what's important what's not
+###2606 to-- guess what, your body itself
+###2608 operates on the assumption that something external is already
+###2611 inside.
+###2612 There's 10 times as much-- when you
+###2615 look at the number of cell counts,
+###2617 there's 10 times as much bacteria
+###2618 and the like in your body than there are human cells.
+###2621 And again compare that to the typical oh, just buy my widget,
+###2626 or if I have a better, stronger password I'll keep them out.
+###2629 But there's another idea of resilience
+###2631 that I don't think we pay enough attention to.
+###2634 And that's psychological resilience.
+###2638 There's 3,000 books on psychological resilience
+###2643 of some sort.
+###2644 Resilience in your job, resilience in your love life,
+###2649 et cetera.
+###2650 And it's all built around the idea
+###2651 that you can't go through life thinking
+###2654 that bad things will never happen,
+###2656 or they can all be deterred or defeated.
+###2659 Instead, your success is dependent on your assumption
+###2663 that bad things will play out.
+###2665 But it's all about how will you power through them?
+###2667 How will you recover quickly from them?
+###2669 How will you not allow them to knock you down in the way
+###2672 that they could?
+###2673 All these different way-- and again, you
+###2675 can think about in your love life to your job, whatever.
+###2677 We need that same mentality when it comes to cyber.
+###2682 So take cyberterrorism, the central discussion
+###2688 of, oh my god, the power grid might go down.
+###2692 And in fact, you've seen all of these false news reports
+###2694 about times that cyber attacks caused it.
+###2697 Which either in one situation the power didn't go out,
+###2702 it's a false story that-- guess what,
+###2704 "60 Minutes" unsurprisingly covered.
+###2707 To another situation, things that are described as cyber
+###2710 attacks that they're not.
+###2711 So two dudes with a rifle, that's not a cyber attack.
+###2715 But that was recently in the news covered as in this.
+###2718 The bottom line is that squirrels have taken down
+###2721 more power grids than the zero times that hackers have.
+###2726 Again, it could play out.
+###2727 But it's all about how will we react to it.
+###2729 
+###2732 Where I live outside Washington, the power
+###2735 went down multiple times this summer.
+###2737 
+###2741 But if it had been a cyber attack that caused it,
+###2745 we would have had a congressional commission
+###2747 investigating who to blame.
+###2749 And we would have had mass hysteria around it.
+###2753 And so what I would prefer-- and I go back to that echo of 9/11
+###2756 and how you react --is the British mentality to terrorism,
+###2761 keep calm and carry on.
+###2763 Rather than the American model, which is
+###2767 we try and out-escalate the hype and the fear around it.
+###2772 Because we're seeing more gains in the fear and hype.
+###2777 And my worry is that's carrying over to cyber side.
+###2780 AUDIENCE: The cyber crime that really matters in the Snowden
+###2783 story is not what Snowden did, but what he revealed.
+###2789 Alexander has two mandates, both offense and defense.
+###2794 And as we've seen and as you've said,
+###2797 the offense has dominated in his activities.
+###2802 But whether offense inevitably dominates,
+###2807 as they seem to think and as is premised behind their actions,
+###2812 they've loaded the dice.
+###2814 Part of what they've done is rather than
+###2816 also act on their defensive mandate,
+###2820 they have purposely gone out and inserted vulnerabilities,
+###2825 worked with vendors of security software
+###2829 to purposely insert vulnerabilities,
+###2831 making us more vulnerable.
+###2834 And as you said, incentives matter.
+###2837 Let's take a look-- in the absence of Snowden,
+###2840 let's take a look at the incentives
+###2842 on secret intelligence agencies themselves.
+###2846 What is the bureaucratic reward for successfully carrying out
+###2850 an attack?
+###2851 And what is the bureaucratic reward
+###2854 for successfully preventing attacks that aren't visible
+###2858 because they couldn't happen?
+###2861 The second is invisible.
+###2863 The bureaucratic reward structure
+###2865 has no means to reward it.
+###2868 And in the absence of Snowden, the first is cost-free.
+###2872 PETER SINGER: I'm in agreement with you on a couple of areas.
+###2875 One, on the notion of incentives.
+###2878 And again, you can see that whether you're
+###2880 talking about within that intelligence agency to why
+###2884 we see on the defense side certain industries cooperate
+###2887 or not.
+###2887 And it all turns on that.
+###2888 But then there's the broader-- essentially
+###2890 you pulled the bandage of Snowden.
+###2894 And so we've got to go at it.
+###2895 And you began by hitting one part of his activity.
+###2900 And I think this is the challenge right now
+###2902 in the discussion and debate around him,
+###2907 the NSA, is he a traitor, is he a whistleblower, should he
+###2910 get clemency or the like, is that essentially he
+###2916 gathered and now is being released-- actually not by him.
+###2922 This is one of the myths that's out there.
+###2924 It's not him pulling the strings right now.
+###2927 The journalists, they're actually going through it.
+###2930 And the challenge for them is because there's so much,
+###2933 it actually involves, again, a very different set
+###2935 of expertise.
+###2936 So someone who understands the technology will not
+###2941 get-- they'll see a name pop up that, say, the Latin America
+###2945 beat reporter will go whoa, whoa, whoa, that name.
+###2948 That guy's now the Deputy Foreign Minister of Brazil.
+###2951 That name is meaningless to the person
+###2952 who knows what this acronym means that the Latin America
+###2956 reporter doesn't know that.
+###2957 And then in turn you need the spy and the like.
+###2959 So they're actually having these teams go through it
+###2962 and figuring out what's newsworthy or not.
+###2967 But the bottom line is there's such a mass of information
+###2970 and the wide variety of stories that have come out
+###2972 and will continue to come out is that it essentially
+###2977 falls into three very different buckets of activity
+###2982 that has been disclosed.
+###2984 The first bucket of activity is frankly
+###2987 what I would describe as smart strategic espionage
+###2992 against American enemies.
+###2995 And you hit sort of the mentality
+###2997 that drive some of that.
+###2999 Now there's an issue of-- you said they
+###3001 when you're talking about NSA versus cyber command.
+###3003 And they're the top military intelligence agency.
+###3005 But the bottom line is one bucket of activity
+###3008 was things that we would expect and want an agency to do.
+###3015 Going after monitoring terror rings in Pakistan,
+###3020 Iranian nuclear research, China, et cetera.
+###3024 Bucket number two is what I would term questionable.
+###3028 Activities that there is a debate around
+###3031 because it involves US citizens in some way, shape, or form.
+###3035 Either through legal approaches on the front door to back door
+###3040 to running with an authorization in a way
+###3043 that the policymaker that authorized it didn't understand
+###3047 what was authorized to essentially deals
+###3051 made with foreign intelligence agencies
+###3053 where they were able to collect things in a way
+###3055 that we couldn't, an exchange of information and the like.
+###3057 But basically the debate around involvement of US citizens.
+###3061 Category three is the bucket that I
+###3065 would describe as unstrategic, or more directly stupid.
+###3069 And that is targeting of close American allies
+###3073 and American technology companies.
+###3076 And the resonance of that is everything
+###3080 from how I mentioned the hammering
+###3082 to other kinds of international negotiations that
+###3085 may matter more to as you mentioned,
+###3088 the undermining of cybersecurity for all of us.
+###3093 Particularly based on this assumption
+###3094 that they were the only ones smart enough
+###3096 to find the vulnerability, but then more broadly what
+###3100 it's done to that critical word, trust,
+###3103 trust in American technology companies.
+###3105 And the resonance of that, at least
+###3106 according to Forrester Research, is
+###3108 that your industry will lose approximately $180 billion
+###3111 worth of revenue.
+###3112 That's why people here are pissed.
+###3114 The problem, though, is that in the debate around it
+###3119 we pull from whichever bucket we care most about.
+###3123 So if you care most about classic national security,
+###3126 you go, this guy disclosed things that are important.
+###3129 He is a traitor, dada, dada, dada.
+###3131 If you care about the privacy Fourth Amendment questions,
+###3135 you only talk about those, and he's
+###3138 a whistleblower, and clemency, and the like.
+###3140 We see it also in how we defend it
+###3143 from the narrative on the government side.
+###3145 So these kind of activities are to prevent another 9/11.
+###3151 Which may describe bucket two and the metadata and the like,
+###3156 but that doesn't make the Germans feel better
+###3158 about why you were going after Angela Merkel's
+###3161 messages, or the like.
+###3163 And so the problem is it's all of these things at once.
+###3167 And it's muddied the water of the discussions.
+###3169 And we can even see this most recently
+###3171 in the President's speech, which, again, focused primarily
+###3174 on one of the buckets, mostly the privacy side.
+###3177 Because that's what matters most in the American political
+###3180 debate, but actually may not matter
+###3182 the most in the long term national security
+###3185 and economic prosperity of the nation, which
+###3187 is weird and scary to say.
+###3191 AUDIENCE: Just a question on how Silicon Valley companies can
+###3194 partner with each other and with the government to actually
+###3198 have better government surveillance policies, right?
+###3200 Recently, we saw the government surveillance reform,
+###3203 where like seven companies have got together.
+###3205 And again, it's going back to the notion of us versus them
+###3208 where instead of partnering, it's
+###3209 now they're pushing for like reforms,
+###3213 and wasting lobbying dollars and stuff while it
+###3215 could be a better partnership.
+###3216 So what are you thoughts on what we could do?
+###3221 PETER SINGER: There's steps that can be taken.
+###3224 But one of the underlying things this is attitude.
+###3228 And it's funny, I was out here a little over a year ago.
+###3234 And there was sort of an attitude towards,
+###3239 DC is so dysfunctional.
+###3242 Nothing could get done there.
+###3244 You guys are so problematic.
+###3246 We don't want anything to do with you.
+###3249 And we don't need anything to do with you.
+###3252 And then now we see the flip side of that of actually
+###3256 what you do matters to us.
+###3258 You're still dysfunctional.
+###3260 But it matters to us.
+###3262 And in turn, you saw that approach from-- again,
+###3268 this is from the stovepiping-- Individuals pursuing
+###3274 a certain political goal, and within just a limited circle,
+###3282 not understanding the ripple effects of what they were doing
+###3285 on lots of other areas including one
+###3288 of the cornerstones of American prosperity, which
+###3290 is our technology industry.
+###3293 So the problem is first knocking down that attitude
+###3297 that neither side matters to the other
+###3300 and doesn't need to understand the other.
+###3302 
+###3308 Too often, Silicon Valley-- and even sort
+###3310 of the reaction when I said this in the speech
+###3316 --will offer a seeming technologic solution
+###3319 to a problem.
+###3322 There's far more engineers out here
+###3325 than almost any other specialty.
+###3328 And so there's often-- you know, we
+###3329 can engineer our way out of it some way, shape, or form.
+###3332 And we even see that now in this discussion over privacy
+###3338 where it was OK, we can't figure out what to do.
+###3341 But Attorney General and Head of National Intelligence,
+###3347 you've got 60 days to figure out this solution.
+###3351 And we see different sort of things
+###3352 offered that are sort of a technical solution.
+###3356 It's not going to be a technical solution.
+###3359 It's going to be an awful, painful grind of policy
+###3364 and votes and court decisions and lobbying
+###3367 and all these other things that go
+###3369 into the nasty sausage of political process.
+###3374 But in turn, what I'm getting at, too often
+###3377 we fail to look at the human side of what can be done.
+###3380 And that would be another aspect of it.
+###3383 But the bottom line is we clearly
+###3386 have a shared stake in it.
+###3388 And I hope we can raise the level of discourse
+###3393 and raise the level of cooperation.
+###3395 AUDIENCE: Hi, Peter.
+###3396 Great to see the book finally come out.
+###3398 What are you optimistic about?
+###3401 PETER SINGER: I thought-- I mean, look,
+###3403 I'm actually hugely optimistic about-- I mean,
+###3410 the possibilities of this technology, what it's allowed
+###3413 to accomplish, and in turn the people who misuse it,
+###3420 and what they're costing themselves.
+###3423 And that misuse is everything from-- there's
+###3429 a very real danger of the balkanization of the internet.
+###3433 On the other hand, the cost of that to those nations,
+###3438 it will be staggering.
+###3441 A flip way of putting it is, there's
+###3445 one nation that has been really, really great
+###3447 cyber security protections-- North Korea.
+###3449 There's a cost to that.
+###3451 
+###3454 And we can see this in turn on the debate around the NSA
+###3457 to businesses.
+###3458 I gave all of these anecdotes of how they're not doing it well,
+###3461 but now they're facing cost to it.
+###3463 The recent examples of, be it Target or Snapchat or Neiman
+###3467 Marcus, is that there's an ebb and flow.
+###3470 And people that mishandle it face costs.
+###3473 And so to me, that's where we'll see reactions.
+###3476 The incentives will drive it.
+###3479 If there's any message from the book,
+###3481 it's that this is seemingly scary stuff.
+###3484 And some of it should be scary.
+###3486 But on the other hand, we can't have a good discussion
+###3490 if it's like Spinal Tap and the volume's always at 11.
+###3493 Which has been how we've talked about it.
+###3496 And so the goal of the book was basically
+###3498 to fill this kind of sweet spot where you either
+###3500 had this highly technical discussion that
+###3503 was exclusionary or you had the histrionic side.
+###3507 And instead, I think this can be a topic--
+###3510 I think it has to be a topic that we're all better equipped
+###3513 to talk about.
+###3513 And I'm optimistic that when we do understand this,
+###3516 we can go much further than where we're at right now.
+###3521 MALE SPEAKER: And on this optimistic note,
+###3523 please give a hand to Peter Singer.
+###3526 

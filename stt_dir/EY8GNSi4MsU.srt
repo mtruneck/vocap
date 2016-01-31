@@ -1,0 +1,6360 @@
+1
+0:0:0,667 --> 0:0:1,75
+Male Narrator:
+Earth's population
+
+
+2
+0:0:1,75 --> 0:0:5,0
+has now passed seven billion. 
+
+
+3
+0:0:5,0 --> 0:0:7,625
+And world energy consumption
+is projected to increase
+
+
+4
+0:0:7,625 --> 0:0:12,25
+more than 25% during
+the next 15 years,
+
+
+5
+0:0:12,25 --> 0:0:16,0
+and may nearly double
+by the year 2050.
+
+
+6
+0:0:16,0 --> 0:0:19,125
+But how much energy we need,
+and how we get it,
+
+
+7
+0:0:19,125 --> 0:0:21,792
+depends on choices
+we make now.
+
+
+8
+0:0:21,792 --> 0:0:24,542
+And those energy choices
+have consequences
+
+
+9
+0:0:24,542 --> 0:0:26,583
+for Earth's climate.
+
+
+10
+0:0:26,583 --> 0:0:31,42
+We already see the promise
+of 21st century renewables.
+
+
+11
+0:0:31,42 --> 0:0:33,917
+But, today,
+most big nations still rely
+
+
+12
+0:0:33,917 --> 0:0:36,25
+on 19th century technologies.
+
+
+13
+0:0:36,25 --> 0:0:37,542
+Lykke Friss:
+At a global perspective,
+
+
+14
+0:0:37,542 --> 0:0:41,5
+we simply know that the age
+of cheap energy is over.
+
+
+15
+0:0:41,5 --> 0:0:43,83
+Narrator:
+Innovative projects prove
+
+
+16
+0:0:43,83 --> 0:0:46,125
+that wind can power
+entire communities.
+
+
+17
+0:0:46,125 --> 0:0:48,292
+And conservation
+and efficiency can cut
+
+
+18
+0:0:48,292 --> 0:0:53,833
+projected world energy demand
+thirty per cent by 2030.
+
+
+19
+0:0:53,833 --> 0:0:55,167
+Richard Alley:
+But how to get there?
+
+
+20
+0:0:55,167 --> 0:0:58,42
+That's not just a technological
+question of solar cells
+
+
+21
+0:0:58,42 --> 0:1:0,458
+and wind turbines,
+but depends on choices
+
+
+22
+0:1:0,458 --> 0:1:3,542
+made by real people living
+in the real world.
+
+
+23
+0:1:3,542 --> 0:1:5,958
+And that means economics
+and politics,
+
+
+24
+0:1:5,958 --> 0:1:9,958
+national security, jobs--
+why we do what we do.
+
+
+25
+0:1:9,958 --> 0:1:11,25
+I'm Richard Alley.
+
+
+26
+0:1:11,25 --> 0:1:14,375
+I'm an Earth scientist,
+a parent and a professor,
+
+
+27
+0:1:14,375 --> 0:1:17,875
+concerned for my kids',
+and my students' future.
+
+
+28
+0:1:17,875 --> 0:1:20,208
+I've studied our planet's
+changing ice sheets
+
+
+29
+0:1:20,208 --> 0:1:22,375
+and climate history,
+
+
+30
+0:1:22,375 --> 0:1:24,375
+and tried to come up
+with numbers for how much
+
+
+31
+0:1:24,375 --> 0:1:29,125
+renewable energy
+our planet offers.
+
+
+32
+0:1:29,125 --> 0:1:30,75
+Narrator:
+Geologist Richard Alley
+
+
+33
+0:1:30,75 --> 0:1:34,792
+is one of the 97%
+of climate experts who believe
+
+
+34
+0:1:34,792 --> 0:1:39,833
+current energy practices are
+warming the planet.
+
+
+35
+0:1:39,833 --> 0:1:42,708
+But that the answers
+are out there,
+
+
+36
+0:1:42,708 --> 0:1:44,542
+Blowing in the wind,
+
+
+37
+0:1:44,542 --> 0:1:46,958
+Shining down from above,
+
+
+38
+0:1:46,958 --> 0:1:51,167
+And in the minds of inventors
+and engineers.
+
+
+39
+0:1:51,167 --> 0:1:54,375
+Soren Hermansen: Technology
+is easy, we'll find solutions.
+
+
+40
+0:1:54,375 --> 0:1:56,542
+It's a matter
+of making decisions.
+
+
+41
+0:1:56,542 --> 0:1:58,125
+Narrator:
+Building a nation's energy
+
+
+42
+0:1:58,125 --> 0:2:1,0
+infrastructure takes decades.
+
+
+43
+0:2:1,0 --> 0:2:3,542
+Now some energy insiders
+wonder if America
+
+
+44
+0:2:3,542 --> 0:2:6,458
+is still up to the task.
+
+
+45
+0:2:6,458 --> 0:2:7,542
+John Hofmeister:
+You need to think of energy
+
+
+46
+0:2:7,542 --> 0:2:9,667
+in a 50 year time frame.
+
+
+47
+0:2:9,667 --> 0:2:12,458
+And our elected officials
+are thinking of energy
+
+
+48
+0:2:12,458 --> 0:2:14,917
+in two-year election cycles.
+
+
+49
+0:2:14,917 --> 0:2:16,917
+That's ridiculous!
+
+
+50
+0:2:16,917 --> 0:2:18,25
+Richard Alley:
+But I'm optimistic
+
+
+51
+0:2:18,25 --> 0:2:21,125
+we can get to a world
+with more people living better
+
+
+52
+0:2:21,125 --> 0:2:24,375
+while using cleaner and more
+sustainable energy.
+
+
+53
+0:2:24,375 --> 0:2:31,667
+And that's why we call this
+program Powering The Planet.
+
+
+54
+0:2:31,667 --> 0:2:35,833
+Announcer: Powering the Planet-
+Earth: The Operators' Manual
+
+
+55
+0:2:35,833 --> 0:2:40,792
+is made possible by NSF, the
+National Science Foundation,
+
+
+56
+0:2:40,792 --> 0:3:2,83
+where discoveries begin.
+
+
+57
+0:3:2,83 --> 0:3:5,417
+Narrator: Planet Earth is awash
+in renewable energy.
+
+
+58
+0:3:5,417 --> 0:3:9,5
+The oceans store heat
+and offer wave and tidal power.
+
+
+59
+0:3:9,5 --> 0:3:13,167
+Plants harvest sunlight
+and store its energy.
+
+
+60
+0:3:13,167 --> 0:3:16,583
+The Sun warms the atmosphere
+and sets air in motion,
+
+
+61
+0:3:16,583 --> 0:3:19,625
+and we're getting better
+at tapping wind power.
+
+
+62
+0:3:19,625 --> 0:3:22,125
+But the biggest and most
+promising energy source
+
+
+63
+0:3:22,125 --> 0:3:30,542
+is the nearby star that lights
+our days and warms our world.
+
+
+64
+0:3:30,542 --> 0:3:32,667
+Sunlight reaching
+the Earth's surface offers
+
+
+65
+0:3:32,667 --> 0:3:36,458
+about 120,000 terawatts.
+
+
+66
+0:3:36,458 --> 0:3:38,875
+If the Sun's energy were spread
+around the world,
+
+
+67
+0:3:38,875 --> 0:3:43,375
+it would average around
+240 watts per square meter.
+
+
+68
+0:3:43,375 --> 0:3:47,583
+Richard Alley brings that huge
+number down to earth.
+
+
+69
+0:3:47,583 --> 0:3:49,542
+Alley: If I walk out
+into this little patch
+
+
+70
+0:3:49,542 --> 0:3:54,292
+of this great desert, and I hold
+out my arms about like this--
+
+
+71
+0:3:54,292 --> 0:3:57,292
+And then another of me
+does the same thing--
+
+
+72
+0:3:57,292 --> 0:3:59,625
+And each of me
+is holding two 60 watt
+
+
+73
+0:3:59,625 --> 0:4:3,917
+incandescent light bulbs,
+or 10 compact fluorescents,
+
+
+74
+0:4:3,917 --> 0:4:8,542
+that's 240 watts per square
+meter that I'm marking out here.
+
+
+75
+0:4:8,542 --> 0:4:10,708
+That's a lot of energy.
+
+
+76
+0:4:10,708 --> 0:4:13,875
+And averaged across the globe,
+day and night,
+
+
+77
+0:4:13,875 --> 0:4:16,5
+summer and winter,
+that's how much sunlight
+
+
+78
+0:4:16,5 --> 0:4:22,875
+is available
+to power the planet.
+
+
+79
+0:4:22,875 --> 0:4:25,542
+Let's see what it takes
+to turn that vast potential
+
+
+80
+0:4:25,542 --> 0:4:29,208
+into energy we can use.
+
+
+81
+0:4:29,208 --> 0:4:31,917
+Doesn't take a genius to know
+that a mirror reflects the Sun,
+
+
+82
+0:4:31,917 --> 0:4:33,583
+but it does take an inventor
+
+
+83
+0:4:33,583 --> 0:4:36,83
+and engineer
+to make the next step.
+
+
+84
+0:4:36,83 --> 0:4:38,5
+Use the mirror
+to focus the Sun's rays
+
+
+85
+0:4:38,5 --> 0:4:41,375
+on a tank filled
+with liquid to make steam,
+
+
+86
+0:4:41,375 --> 0:4:43,875
+to drive a turbine,
+to make electricity,
+
+
+87
+0:4:43,875 --> 0:4:47,25
+and you have
+concentrated solar power.
+
+
+88
+0:4:47,25 --> 0:4:49,542
+That's not a new idea,
+but one that a little-known
+
+
+89
+0:4:49,542 --> 0:4:54,417
+American inventor, Frank Shuman,
+pursued around 1910.
+
+
+90
+0:4:54,417 --> 0:4:56,5
+Narrator:
+In his Philadelphia workshop,
+
+
+91
+0:4:56,5 --> 0:5:2,792
+Shuman invented safety glass
+for skylights and automobiles.
+
+
+92
+0:5:2,792 --> 0:5:5,542
+He also came up with designs
+that could concentrate sunlight
+
+
+93
+0:5:5,542 --> 0:5:9,792
+on metal tubes, heat liquid,
+and drive a steam turbine.
+
+
+94
+0:5:9,792 --> 0:5:14,25
+But in Pennsylvania, back then,
+it was all about coal.
+
+
+95
+0:5:14,25 --> 0:5:16,958
+Shuman had difficulty finding
+local backers.
+
+
+96
+0:5:16,958 --> 0:5:21,417
+So in 1912 he set off
+for Egypt.
+
+
+97
+0:5:21,417 --> 0:5:24,167
+His prototype solar farm
+used parabolic troughs
+
+
+98
+0:5:24,167 --> 0:5:27,417
+to concentrate sunlight
+and boil water.
+
+
+99
+0:5:27,417 --> 0:5:30,708
+The steam ran a 75 horsepower
+engine that pumped water
+
+
+100
+0:5:30,708 --> 0:5:33,917
+from the Nile to irrigate
+cotton fields.
+
+
+101
+0:5:33,917 --> 0:5:36,958
+The idea was right,
+but ahead of its time.
+
+
+102
+0:5:36,958 --> 0:5:39,42
+Hobbled by both
+lack of government support
+
+
+103
+0:5:39,42 --> 0:5:42,83
+and adequate private capital,
+the experiment ended
+
+
+104
+0:5:42,83 --> 0:5:51,917
+with the outbreak
+of World War One.
+
+
+105
+0:5:51,917 --> 0:5:54,208
+These parabolic troughs
+look very similar
+
+
+106
+0:5:54,208 --> 0:5:56,875
+to Shumans' designs,
+though they didn't come online
+
+
+107
+0:5:56,875 --> 0:5:59,0
+until a century later.
+
+
+108
+0:5:59,0 --> 0:6:1,833
+This is Solnova 3,
+at one of the world's
+
+
+109
+0:6:1,833 --> 0:6:5,5
+first commercial
+solar power plants.
+
+
+110
+0:6:5,5 --> 0:6:8,125
+Just as in Shuman's
+experimental station,
+
+
+111
+0:6:8,125 --> 0:6:11,292
+the troughs concentrate
+solar radiation on a pipe
+
+
+112
+0:6:11,292 --> 0:6:14,375
+that contains
+a heat-bearing fluid.
+
+
+113
+0:6:14,375 --> 0:6:17,792
+When completed there'll be
+three almost identical plants,
+
+
+114
+0:6:17,792 --> 0:6:20,542
+each with an output
+of 50 megawatts,
+
+
+115
+0:6:20,542 --> 0:6:26,208
+large enough to support
+about 26,000 households.
+
+
+116
+0:6:26,208 --> 0:6:29,42
+While the Sun powers
+the Solucar platform, it was
+
+
+117
+0:6:29,42 --> 0:6:33,958
+the Spanish government that
+helped develop solar power.
+
+
+118
+0:6:33,958 --> 0:6:35,917
+The central government
+set a specific target
+
+
+119
+0:6:35,917 --> 0:6:39,875
+of 500 megawatts
+of concentrated solar power
+
+
+120
+0:6:39,875 --> 0:6:43,708
+and committed to price supports
+for 25 years.
+
+
+121
+0:6:43,708 --> 0:6:46,958
+That in turn unleashed
+inventors and industry
+
+
+122
+0:6:46,958 --> 0:6:49,625
+to prototype plants
+like this one.
+
+
+123
+0:6:49,625 --> 0:6:52,83
+The technology works,
+though changing government
+
+
+124
+0:6:52,83 --> 0:6:56,667
+policies and the budget crisis
+have impacted the industry.
+
+
+125
+0:6:56,667 --> 0:6:59,875
+But, Abengoa,
+the company building Solucar,
+
+
+126
+0:6:59,875 --> 0:7:2,208
+is a part of a consortium
+planning the world's largest
+
+
+127
+0:7:2,208 --> 0:7:5,708
+solar power project.
+
+
+128
+0:7:5,708 --> 0:7:9,208
+Formed by a group of European
+and North African companies
+
+
+129
+0:7:9,208 --> 0:7:11,333
+and the Desertec foundation,
+
+
+130
+0:7:11,333 --> 0:7:13,375
+this consortium has energy
+ambitions that are
+
+
+131
+0:7:13,375 --> 0:7:18,792
+revolutionary for both Europe
+and the Middle East.
+
+
+132
+0:7:18,792 --> 0:7:21,792
+Unlike some of its neighbors,
+Morocco has little oil
+
+
+133
+0:7:21,792 --> 0:7:25,875
+or other fossil fuels.
+
+
+134
+0:7:25,875 --> 0:7:33,75
+But it does have sun, sand,
+and empty spaces.
+
+
+135
+0:7:33,75 --> 0:7:35,75
+The Moroccan government has
+encouraged the use
+
+
+136
+0:7:35,75 --> 0:7:37,375
+of distributed solar power
+
+
+137
+0:7:37,375 --> 0:7:41,708
+by small businesses
+and individuals.
+
+
+138
+0:7:41,708 --> 0:7:43,958
+Already, out on the edge
+of the Sahara,
+
+
+139
+0:7:43,958 --> 0:7:48,125
+you can see photovoltaic panels
+on top of tents.
+
+
+140
+0:7:48,125 --> 0:7:50,5
+But the Desertec vision
+goes beyond this
+
+
+141
+0:7:50,5 --> 0:7:54,125
+by including concentrated
+solar power plants,
+
+
+142
+0:7:54,125 --> 0:7:57,625
+photovoltaic installations,
+and wind turbines,
+
+
+143
+0:7:57,625 --> 0:7:59,542
+linked with low-loss,
+high efficiency
+
+
+144
+0:7:59,542 --> 0:8:3,167
+transmission cables
+back to Europe.
+
+
+145
+0:8:3,167 --> 0:8:5,542
+The Desertec project estimates
+that solar power
+
+
+146
+0:8:5,542 --> 0:8:9,42
+from the Sahara
+could provide more than 80%
+
+
+147
+0:8:9,42 --> 0:8:10,542
+of North Africa's needs,
+
+
+148
+0:8:10,542 --> 0:8:14,375
+and 15% of Europe's
+electricity, by 2050.
+
+
+149
+0:8:14,375 --> 0:8:18,125
+In a single generation,
+Morocco's young and growing
+
+
+150
+0:8:18,125 --> 0:8:20,917
+population could go
+from energy poverty
+
+
+151
+0:8:20,917 --> 0:8:23,25
+to energy independence.
+
+
+152
+0:8:23,25 --> 0:8:25,458
+The energy created by this
+proven technology
+
+
+153
+0:8:25,458 --> 0:8:28,208
+could generate
+both electricity and income
+
+
+154
+0:8:28,208 --> 0:8:31,458
+for some of the world's
+poorest nations.
+
+
+155
+0:8:31,458 --> 0:8:35,83
+And updated versions
+of Shuman's century-old designs
+
+
+156
+0:8:35,83 --> 0:8:38,83
+and a smart grid,
+could go a very long way
+
+
+157
+0:8:38,83 --> 0:8:41,42
+toward meeting our species'
+need for energy.
+
+
+158
+0:8:41,42 --> 0:8:43,917
+Collecting just 10%
+of the Sun's energy
+
+
+159
+0:8:43,917 --> 0:8:47,542
+from a 600-mile-square
+of low-latitude desert would
+
+
+160
+0:8:47,542 --> 0:8:54,167
+supply roughly twice today's
+human consumption of energy.
+
+
+161
+0:8:54,167 --> 0:8:56,625
+There are other ways
+to harvest sunlight.
+
+
+162
+0:8:56,625 --> 0:8:59,667
+It's estimated that biomass,
+plants growing through
+
+
+163
+0:8:59,667 --> 0:9:4,0
+photosynthesis, offers 11 times
+current human energy use.
+
+
+164
+0:9:4,0 --> 0:9:6,375
+And one nation has already
+proven it's possible
+
+
+165
+0:9:6,375 --> 0:9:9,583
+to Grow Your Own.
+
+
+166
+0:9:9,583 --> 0:9:13,375
+In the United States, for every
+thousand people, there are
+
+
+167
+0:9:13,375 --> 0:9:18,708
+more than 800 motor vehicles--
+cars, trucks and buses.
+
+
+168
+0:9:18,708 --> 0:9:21,833
+If developing nations follow
+that path, there'll soon be
+
+
+169
+0:9:21,833 --> 0:9:26,458
+close to 6 billion motor
+vehicles on the planet.
+
+
+170
+0:9:26,458 --> 0:9:28,5
+And if they're burning
+gasoline and diesel,
+
+
+171
+0:9:28,5 --> 0:9:30,5
+they'll be pumping out
+nearly 12 billion
+
+
+172
+0:9:30,5 --> 0:9:34,667
+additional metric tons
+of carbon dioxide every year,
+
+
+173
+0:9:34,667 --> 0:9:38,125
+assuming there's enough oil
+to keep them on the road.
+
+
+174
+0:9:38,125 --> 0:9:40,792
+One nation doesn't
+have that worry.
+
+
+175
+0:9:40,792 --> 0:9:43,708
+Carlos de Brito Cruz:
+If for some magical reason,
+
+
+176
+0:9:43,708 --> 0:9:48,583
+every molecule of gasoline
+in the world would disappear,
+
+
+177
+0:9:48,583 --> 0:9:51,833
+I guess that the only country
+that would keep
+
+
+178
+0:9:51,833 --> 0:9:56,25
+its cars running normally
+would be Brazil.
+
+
+179
+0:9:56,25 --> 0:9:58,5
+Narrator:
+That wasn't always true.
+
+
+180
+0:9:58,5 --> 0:10:0,667
+As in every other
+industrialized nation,
+
+
+181
+0:10:0,667 --> 0:10:3,0
+the two oil shocks
+of the 1970's
+
+
+182
+0:10:3,0 --> 0:10:6,42
+brought gasoline shortages
+to Brazil.
+
+
+183
+0:10:6,42 --> 0:10:8,833
+Its government,
+then a military dictatorship,
+
+
+184
+0:10:8,833 --> 0:10:12,375
+decided to do something
+revolutionary.
+
+
+185
+0:10:12,375 --> 0:10:14,917
+Jose Goldemberg:
+Military dictatorships are bad
+
+
+186
+0:10:14,917 --> 0:10:17,958
+for many, many things,
+but the military dictatorship
+
+
+187
+0:10:17,958 --> 0:10:21,167
+in Brazil realized
+that science and technology was
+
+
+188
+0:10:21,167 --> 0:10:25,583
+an instrument for development,
+for independence.
+
+
+189
+0:10:25,583 --> 0:10:27,833
+Brito: In 1975,
+the Brazilian government
+
+
+190
+0:10:27,833 --> 0:10:29,917
+created the Pro-Alcohol,
+
+
+191
+0:10:29,917 --> 0:10:33,125
+an ethanol substituting
+gasoline program.
+
+
+192
+0:10:33,125 --> 0:10:34,583
+Goldemberg: I think
+it did it for nationalistic
+
+
+193
+0:10:34,583 --> 0:10:36,875
+reasons, too, which was one
+
+
+194
+0:10:36,875 --> 0:10:39,417
+of the characteristics
+of military regimes.
+
+
+195
+0:10:39,417 --> 0:10:41,292
+Narrator:
+Although a nuclear physicist,
+
+
+196
+0:10:41,292 --> 0:10:44,667
+Jose Goldemberg worked
+with agricultural colleagues
+
+
+197
+0:10:44,667 --> 0:10:47,125
+and wrote a paper
+for the journal, Science, 
+
+
+198
+0:10:47,125 --> 0:10:49,375
+proposing ethanol
+made from sugar cane
+
+
+199
+0:10:49,375 --> 0:10:51,958
+as an alternative
+to imported gasoline.
+
+
+200
+0:10:51,958 --> 0:10:53,83
+Goldemberg:
+People were quite surprised
+
+
+201
+0:10:53,83 --> 0:10:54,875
+that there were options
+to gasoline, you know.
+
+
+202
+0:10:54,875 --> 0:10:58,125
+Until that time,
+gasoline dominated
+
+
+203
+0:10:58,125 --> 0:10:59,667
+completely the picture.
+
+
+204
+0:10:59,667 --> 0:11:3,167
+Brito: Producing alcohol
+from sugar is something
+
+
+205
+0:11:3,167 --> 0:11:7,208
+that humanity has done
+for more than 3,000 years,
+
+
+206
+0:11:7,208 --> 0:11:9,792
+so it's not really a new idea.
+
+
+207
+0:11:9,792 --> 0:11:11,667
+Goldemberg:
+Ethanol from sugar cane is
+
+
+208
+0:11:11,667 --> 0:11:17,0
+really solar energy
+turned into liquid.
+
+
+209
+0:11:17,0 --> 0:11:19,958
+Sugar cane proved to be
+the best raw material
+
+
+210
+0:11:19,958 --> 0:11:21,708
+for the production of ethanol.
+
+
+211
+0:11:21,708 --> 0:11:24,167
+That doesn't have to do
+with Brazil
+
+
+212
+0:11:24,167 --> 0:11:25,792
+or nationalism or anything.
+
+
+213
+0:11:25,792 --> 0:11:30,458
+It has to do
+with photosynthesis.
+
+
+214
+0:11:30,458 --> 0:11:32,0
+Narrator: Though nature
+may have blessed Brazil
+
+
+215
+0:11:32,0 --> 0:11:35,125
+with rain and sunshine,
+it took high-level policy
+
+
+216
+0:11:35,125 --> 0:11:39,42
+and investment for this nation
+to grow its own fuel supply.
+
+
+217
+0:11:39,42 --> 0:11:41,708
+Goldemberg: That took a decision
+from the government.
+
+
+218
+0:11:41,708 --> 0:11:43,917
+So it was not only
+natural resources,
+
+
+219
+0:11:43,917 --> 0:11:47,583
+but a deliberate attempt
+by the government
+
+
+220
+0:11:47,583 --> 0:11:50,167
+which created the conditions
+to do that.
+
+
+221
+0:11:50,167 --> 0:11:52,917
+Of course, in the beginning
+ethanol was expensive.
+
+
+222
+0:11:52,917 --> 0:11:54,542
+And the government
+understood that.
+
+
+223
+0:11:54,542 --> 0:11:56,917
+But everybody knows
+that in the beginning,
+
+
+224
+0:11:56,917 --> 0:11:58,625
+technologies are expensive.
+
+
+225
+0:11:58,625 --> 0:12:0,5
+Automobiles were very expensive
+
+
+226
+0:12:0,5 --> 0:12:4,917
+when Ford came into the game.
+
+
+227
+0:12:4,917 --> 0:12:7,542
+Narrator:
+And, more or less, it worked.
+
+
+228
+0:12:7,542 --> 0:12:9,5
+Goldemberg:
+For 10 years, then,
+
+
+229
+0:12:9,5 --> 0:12:11,375
+Brazil was the only country
+in the world
+
+
+230
+0:12:11,375 --> 0:12:15,875
+that had automobiles
+that could use 100% ethanol.
+
+
+231
+0:12:15,875 --> 0:12:20,42
+That required a complete
+distribution system
+
+
+232
+0:12:20,42 --> 0:12:21,542
+for pure ethanol.
+
+
+233
+0:12:21,542 --> 0:12:24,792
+Brito: And at some point,
+by the end of the 80s,
+
+
+234
+0:12:24,792 --> 0:12:30,208
+most of the cars
+were pure ethanol cars.
+
+
+235
+0:12:30,208 --> 0:12:32,875
+Narrator: Manufacturers
+like GM Brazil responded,
+
+
+236
+0:12:32,875 --> 0:12:37,25
+and tooled up to support
+pure ethanol.
+
+
+237
+0:12:37,25 --> 0:12:38,542
+Henrique Basilio Pereira:
+We were selling
+
+
+238
+0:12:38,542 --> 0:12:44,417
+about 97% of our cars during
+that period, on ethanol.
+
+
+239
+0:12:44,417 --> 0:12:46,417
+Narrator:
+Then oil prices crashed,
+
+
+240
+0:12:46,417 --> 0:12:51,75
+and subsidizing ethanol
+no longer seemed so wise.
+
+
+241
+0:12:51,75 --> 0:12:55,42
+But Brazil was still
+a major sugar producer.
+
+
+242
+0:12:55,42 --> 0:12:58,625
+Could engineering innovations
+find some way to build cars
+
+
+243
+0:12:58,625 --> 0:13:1,917
+that could use either
+gasoline or ethanol?
+
+
+244
+0:13:1,917 --> 0:13:3,208
+Pereira:
+In the end of the 80s,
+
+
+245
+0:13:3,208 --> 0:13:4,792
+beginning of the 90s,
+we started thinking
+
+
+246
+0:13:4,792 --> 0:13:8,125
+about having a car
+that could run on both fuels.
+
+
+247
+0:13:8,125 --> 0:13:10,792
+But during that period
+we did not have
+
+
+248
+0:13:10,792 --> 0:13:14,25
+a technology sufficient
+to run a flex car.
+
+
+249
+0:13:14,25 --> 0:13:16,0
+Narrator:
+A new kind of dual-fuel engine
+
+
+250
+0:13:16,0 --> 0:13:18,375
+had already been invented
+in the United States,
+
+
+251
+0:13:18,375 --> 0:13:20,875
+back in the 1980s.
+
+
+252
+0:13:20,875 --> 0:13:24,708
+But in 2003, the first
+mass-produced flex car,
+
+
+253
+0:13:24,708 --> 0:13:27,917
+a VW Gol, rolled off
+production lines
+
+
+254
+0:13:27,917 --> 0:13:31,542
+not in the U.S.,
+but in Brazil.
+
+
+255
+0:13:31,542 --> 0:13:33,167
+Once again,
+the Brazilian government,
+
+
+256
+0:13:33,167 --> 0:13:36,0
+by now civilian,
+had stepped in.
+
+
+257
+0:13:36,0 --> 0:13:39,958
+Brito:
+In 2002 the Brazilian government
+
+
+258
+0:13:39,958 --> 0:13:45,542
+organized an initiative
+for reducing taxes
+
+
+259
+0:13:45,542 --> 0:13:49,917
+for the automakers if they
+would make Flex-fuel cars.
+
+
+260
+0:13:49,917 --> 0:13:52,917
+So you see the government policy
+reversed and changed,
+
+
+261
+0:13:52,917 --> 0:13:56,792
+and still the policy worked.
+
+
+262
+0:13:56,792 --> 0:13:59,25
+Narrator: And once again,
+natural resources
+
+
+263
+0:13:59,25 --> 0:14:2,42
+and human planning
+came together.
+
+
+264
+0:14:2,42 --> 0:14:3,917
+Pereira: Here
+at General Motors de Brasil,
+
+
+265
+0:14:3,917 --> 0:14:6,125
+we are producing, right now,
+a hundred percent
+
+
+266
+0:14:6,125 --> 0:14:9,625
+of the passenger cars
+as flex fuel.
+
+
+267
+0:14:9,625 --> 0:14:10,875
+Narrator:
+Now Brazilian consumers
+
+
+268
+0:14:10,875 --> 0:14:13,792
+have a choice,
+trading off the higher cost,
+
+
+269
+0:14:13,792 --> 0:14:16,542
+but higher energy
+of a tank-full of gasoline,
+
+
+270
+0:14:16,542 --> 0:14:20,83
+against the lower cost,
+but lower energy of ethanol.
+
+
+271
+0:14:20,83 --> 0:14:23,875
+Brito:
+And 95% of the automobiles
+
+
+272
+0:14:23,875 --> 0:14:28,83
+sold every month in Brazil
+are Flex fuel cars.
+
+
+273
+0:14:28,83 --> 0:14:31,583
+That makes Brazil
+a very unique country
+
+
+274
+0:14:31,583 --> 0:14:34,25
+in terms
+of substituting gasoline.
+
+
+275
+0:14:34,25 --> 0:14:38,333
+Brazil, last year,
+used more liters of ethanol
+
+
+276
+0:14:38,333 --> 0:14:39,833
+than liters of gasoline.
+
+
+277
+0:14:39,833 --> 0:14:45,167
+So it's not a small experiment,
+it's a large experiment.
+
+
+278
+0:14:45,167 --> 0:14:47,292
+Narrator: Brazilian researchers
+claim they could expand
+
+
+279
+0:14:47,292 --> 0:14:50,542
+their nation's production
+of biofuel ten times over,
+
+
+280
+0:14:50,542 --> 0:14:54,333
+using only abandoned farmland
+and under-utilized pastures,
+
+
+281
+0:14:54,333 --> 0:14:57,917
+while still protecting
+the nation's forests.
+
+
+282
+0:14:57,917 --> 0:15:0,917
+Brito:
+Biofuels will only be
+
+
+283
+0:15:0,917 --> 0:15:6,25
+a sustainable alternative,
+not only if they do not compete
+
+
+284
+0:15:6,25 --> 0:15:9,958
+with the production
+of food, but also
+
+
+285
+0:15:9,958 --> 0:15:15,458
+if they do not cause harm
+to the environment.
+
+
+286
+0:15:15,458 --> 0:15:17,917
+Narrator: Looking back, it
+may seem like a straight path
+
+
+287
+0:15:17,917 --> 0:15:21,625
+from imported oil
+to energy independence,
+
+
+288
+0:15:21,625 --> 0:15:25,542
+but the Proalcool program was
+an on-again, off-again process,
+
+
+289
+0:15:25,542 --> 0:15:30,5
+before ending up with Flex cars
+using flex fuels.
+
+
+290
+0:15:30,5 --> 0:15:33,375
+What was constant
+was a nation focusing
+
+
+291
+0:15:33,375 --> 0:15:37,42
+on its unique capabilities
+and natural resources,
+
+
+292
+0:15:37,42 --> 0:15:41,208
+assets that inevitably vary
+nation by nation.
+
+
+293
+0:15:41,208 --> 0:15:44,375
+For Jose Goldemberg, present at
+the creation of the push
+
+
+294
+0:15:44,375 --> 0:15:49,125
+for sugar-cane ethanol,
+the story has one main lesson.
+
+
+295
+0:15:49,125 --> 0:15:51,583
+Goldemberg:
+You have to adopt a solution,
+
+
+296
+0:15:51,583 --> 0:15:54,667
+and then have the courage
+to stick to it.
+
+
+297
+0:15:54,667 --> 0:15:56,42
+Narrator:
+Are there other examples
+
+
+298
+0:15:56,42 --> 0:15:57,917
+of communities and nations
+that have begun
+
+
+299
+0:15:57,917 --> 0:16:1,333
+the transition away
+from fossil fuels?
+
+
+300
+0:16:1,333 --> 0:16:3,917
+What does it take to welcome
+the turbines and solar farms
+
+
+301
+0:16:3,917 --> 0:16:12,917
+of the new energy system,
+and say, "Yes, In My Backyard."
+
+
+302
+0:16:12,917 --> 0:16:15,0
+This is the story
+of two communities
+
+
+303
+0:16:15,0 --> 0:16:19,625
+that at first
+look very different.
+
+
+304
+0:16:19,625 --> 0:16:23,458
+Samso is a small island
+off the Danish mainland.
+
+
+305
+0:16:23,458 --> 0:16:28,208
+West Texas is a vast, dry
+expanse in America's South.
+
+
+306
+0:16:28,208 --> 0:16:31,458
+What both have
+is abundant wind.
+
+
+307
+0:16:31,458 --> 0:16:35,667
+At times, Samso produces more
+electricity than it uses,
+
+
+308
+0:16:35,667 --> 0:16:39,625
+exporting surplus power
+to the Danish mainland.
+
+
+309
+0:16:39,625 --> 0:16:42,458
+And Texas wind now generates
+as much power
+
+
+310
+0:16:42,458 --> 0:16:45,917
+as the next three
+U.S. states combined.
+
+
+311
+0:16:45,917 --> 0:16:48,292
+Samso and West Texas
+both solved
+
+
+312
+0:16:48,292 --> 0:16:51,417
+the NIMBY,
+not in my backyard challenge
+
+
+313
+0:16:51,417 --> 0:16:55,625
+that has stymied so many
+renewable energy projects.
+
+
+314
+0:16:55,625 --> 0:16:59,167
+It's not easy, but
+with patience, and persistence,
+
+
+315
+0:16:59,167 --> 0:17:3,5
+and the efforts of the right
+people, it can be done.
+
+
+316
+0:17:3,5 --> 0:17:6,667
+Soren: Okay--
+My name is Soren Hermansen,
+
+
+317
+0:17:6,667 --> 0:17:11,208
+and I am the Director
+of the Samso Energy Academy.
+
+
+318
+0:17:11,208 --> 0:17:14,917
+Samso means, in Danish,
+means the Meeting Island--
+
+
+319
+0:17:14,917 --> 0:17:16,583
+when you make a circle
+around all of Denmark,
+
+
+320
+0:17:16,583 --> 0:17:20,375
+then Samso is right
+in the center of the circle.
+
+
+321
+0:17:20,375 --> 0:17:21,792
+Narrator:
+But it wasn't geography
+
+
+322
+0:17:21,792 --> 0:17:24,375
+that brought Lykke Friis,
+then Denmark's Minister
+
+
+323
+0:17:24,375 --> 0:17:29,375
+of Climate and Energy,
+here in mid-2011.
+
+
+324
+0:17:29,375 --> 0:17:32,792
+It was why and how this
+community had turned NIMBY
+
+
+325
+0:17:32,792 --> 0:17:35,708
+into "Yes, in my backyard."
+
+
+326
+0:17:35,708 --> 0:17:39,125
+Lykke Friis: Well,
+Samso is a pioneering project,
+
+
+327
+0:17:39,125 --> 0:17:42,917
+in the sense that Samso,
+way back, decided
+
+
+328
+0:17:42,917 --> 0:17:47,708
+that Samso should become
+independent of fossil fuels.
+
+
+329
+0:17:47,708 --> 0:17:49,25
+Narrator:
+Before its transformation,
+
+
+330
+0:17:49,25 --> 0:17:53,375
+people thought of Samso as just
+a cute tourist community,
+
+
+331
+0:17:53,375 --> 0:17:58,25
+busy in summer,
+empty and desolate in winter.
+
+
+332
+0:17:58,25 --> 0:18:1,208
+Now people come here
+not just to see the turbines,
+
+
+333
+0:18:1,208 --> 0:18:3,542
+but to understand
+the process that got
+
+
+334
+0:18:3,542 --> 0:18:7,375
+the community
+to welcome wind energy.
+
+
+335
+0:18:7,375 --> 0:18:10,208
+After a national competition,
+Samso was selected
+
+
+336
+0:18:10,208 --> 0:18:12,667
+by the Danish government
+to be a proof of concept
+
+
+337
+0:18:12,667 --> 0:18:16,583
+for how to transition
+from fossil fuels.
+
+
+338
+0:18:16,583 --> 0:18:19,625
+But it was up to individuals
+like Soren Hermansen,
+
+
+339
+0:18:19,625 --> 0:18:22,25
+with the passion and skills
+to effect change,
+
+
+340
+0:18:22,25 --> 0:18:24,458
+to figure out just how.
+
+
+341
+0:18:24,458 --> 0:18:26,667
+Soren: So when we won,
+the normal reaction
+
+
+342
+0:18:26,667 --> 0:18:29,208
+from most people was,
+"Yeah, you can do this project,
+
+
+343
+0:18:29,208 --> 0:18:32,25
+that's OK,
+but just leave me out of it."
+
+
+344
+0:18:32,25 --> 0:18:34,375
+Narrator:
+Samso has a deep attachment
+
+
+345
+0:18:34,375 --> 0:18:38,667
+to its past and values
+its traditional way of life.
+
+
+346
+0:18:38,667 --> 0:18:41,708
+Soren: But gradually
+we won their confidence
+
+
+347
+0:18:41,708 --> 0:18:45,875
+in establishing easy projects
+to understand,
+
+
+348
+0:18:45,875 --> 0:18:48,83
+and also easy projects
+to finance.
+
+
+349
+0:18:48,83 --> 0:18:51,875
+Because basically it's all
+about, "What's in it for me?"
+
+
+350
+0:18:51,875 --> 0:18:55,42
+Because it's not
+convinced idealists
+
+
+351
+0:18:55,42 --> 0:18:58,542
+or green environmental
+hippies who lives here.
+
+
+352
+0:18:58,542 --> 0:19:0,75
+Narrator:
+Soren, a native of the island,
+
+
+353
+0:19:0,75 --> 0:19:4,25
+convinced some of his neighbors
+to become early adopters.
+
+
+354
+0:19:4,25 --> 0:19:7,875
+They found success,
+and spread the word.
+
+
+355
+0:19:7,875 --> 0:19:9,917
+Jorgen Tranberg
+operated a large
+
+
+356
+0:19:9,917 --> 0:19:14,667
+and profitable herd
+of milk cows.
+
+
+357
+0:19:14,667 --> 0:19:17,333
+After initial reservations,
+he invested
+
+
+358
+0:19:17,333 --> 0:19:20,5
+in a turbine on his own land.
+
+
+359
+0:19:20,5 --> 0:19:22,958
+When that went well,
+Jorgen became part owner
+
+
+360
+0:19:22,958 --> 0:19:25,833
+of one of the offshore
+turbines.
+
+
+361
+0:19:25,833 --> 0:19:27,5
+Soren:
+Farmers, they have to invent
+
+
+362
+0:19:27,5 --> 0:19:30,917
+new things and be ready
+for changes.
+
+
+363
+0:19:30,917 --> 0:19:32,917
+So when they see a potential,
+they look at it,
+
+
+364
+0:19:32,917 --> 0:19:34,25
+no matter what it is.
+
+
+365
+0:19:34,25 --> 0:19:35,875
+They look at it, say,
+"Could I do this?"
+
+
+366
+0:19:35,875 --> 0:19:38,583
+And if they see fellow farmers
+do the same thing,
+
+
+367
+0:19:38,583 --> 0:19:41,292
+they are quick
+to respond to that.
+
+
+368
+0:19:41,292 --> 0:19:44,83
+So even being very traditional
+and conservative in their heads
+
+
+369
+0:19:44,83 --> 0:19:47,292
+I think they have this ability
+of making moves and do things,
+
+
+370
+0:19:47,292 --> 0:19:49,417
+because they have this
+independency in them.
+
+
+371
+0:19:49,417 --> 0:19:52,667
+A farmer is a free man--
+maybe he owes a lot of money
+
+
+372
+0:19:52,667 --> 0:19:56,458
+to the bank, but he's still
+a free man in his thinking.
+
+
+373
+0:19:56,458 --> 0:19:57,625
+Narrator:
+It was seeing what was
+
+
+374
+0:19:57,625 --> 0:19:59,792
+in it for them
+and for their community,
+
+
+375
+0:19:59,792 --> 0:20:3,625
+that won over landowners
+in West Texas.
+
+
+376
+0:20:3,625 --> 0:20:5,875
+And it took one of their own,
+a man whose family
+
+
+377
+0:20:5,875 --> 0:20:8,667
+had deep roots
+in Roscoe's cotton fields,
+
+
+378
+0:20:8,667 --> 0:20:11,417
+to educate them
+about wind farming.
+
+
+379
+0:20:11,417 --> 0:20:15,708
+Cliff Etheredge: Well, I'm
+really a farmer-farmer, you see.
+
+
+380
+0:20:15,708 --> 0:20:19,417
+I farmed for almost
+over 40 years.
+
+
+381
+0:20:19,417 --> 0:20:23,0
+We're in-- right in the middle
+of the Roscoe Wind Farm.
+
+
+382
+0:20:23,0 --> 0:20:26,833
+And we've got
+about 780 megawatts
+
+
+383
+0:20:26,833 --> 0:20:29,208
+of production,
+that's per hour,
+
+
+384
+0:20:29,208 --> 0:20:36,0
+enough electricity
+for about 265,000 average homes.
+
+
+385
+0:20:36,0 --> 0:20:38,417
+Narrator: Roscoe had no oil
+and faced hard times
+
+
+386
+0:20:38,417 --> 0:20:42,708
+in the early 90's,
+but it did have wind.
+
+
+387
+0:20:42,708 --> 0:20:44,125
+Cliff:
+When this land was acquired
+
+
+388
+0:20:44,125 --> 0:20:47,167
+there was absolutely
+no value to the wind.
+
+
+389
+0:20:47,167 --> 0:20:49,958
+Fact is, it was
+a severe detriment,
+
+
+390
+0:20:49,958 --> 0:20:54,792
+because of the evaporation
+of the moisture.
+
+
+391
+0:20:54,792 --> 0:20:57,42
+Narrator:
+Cliff, like Soren, had to work
+
+
+392
+0:20:57,42 --> 0:21:1,417
+with his neighbors to get them
+ready to accept wind turbines.
+
+
+393
+0:21:1,417 --> 0:21:3,5
+Cliff: The first thing
+farmers want to know is,
+
+
+394
+0:21:3,5 --> 0:21:5,667
+"Well, how much is it going
+to cost me?"
+
+
+395
+0:21:5,667 --> 0:21:7,458
+It costs them nothing.
+
+
+396
+0:21:7,458 --> 0:21:10,25
+"What's it going to hurt?"
+Three to five percent
+
+
+397
+0:21:10,25 --> 0:21:13,292
+of your farmland
+is all it's going to take up.
+
+
+398
+0:21:13,292 --> 0:21:16,83
+You can do what you want to
+with the rest of it.
+
+
+399
+0:21:16,83 --> 0:21:18,833
+Then it came down to,
+"Well, how much money
+
+
+400
+0:21:18,833 --> 0:21:21,125
+is this going to make me?"
+
+
+401
+0:21:21,125 --> 0:21:22,583
+Narrator: Cliff did his
+research and checked
+
+
+402
+0:21:22,583 --> 0:21:25,792
+his numbers with wind
+experts and the Farm Bureau.
+
+
+403
+0:21:25,792 --> 0:21:27,42
+Cliff:
+Then I was able to go
+
+
+404
+0:21:27,42 --> 0:21:29,792
+to our Landowners' Association
+and show them,
+
+
+405
+0:21:29,792 --> 0:21:34,0
+where they had been receiving
+35 to 40 dollars an acre,
+
+
+406
+0:21:34,0 --> 0:21:36,125
+then the landowners
+could expect somewhere
+
+
+407
+0:21:36,125 --> 0:21:38,708
+in the neighborhood
+of three times that.
+
+
+408
+0:21:38,708 --> 0:21:40,833
+Narrator:
+In fact, farmers stand to make
+
+
+409
+0:21:40,833 --> 0:21:44,125
+10 to 15 thousand dollars
+a year, per turbine,
+
+
+410
+0:21:44,125 --> 0:21:46,625
+just from leasing
+the wind rights.
+
+
+411
+0:21:46,625 --> 0:21:48,167
+Cliff:
+There was no guarantees in it
+
+
+412
+0:21:48,167 --> 0:21:51,42
+from the very beginning,
+but sure enough we've got,
+
+
+413
+0:21:51,42 --> 0:21:55,0
+I think, in the neighborhood
+of 95 or more percent
+
+
+414
+0:21:55,0 --> 0:21:59,875
+of our area that accepted
+the wind farm.
+
+
+415
+0:21:59,875 --> 0:22:2,208
+Narrator:
+In both Samso and West Texas,
+
+
+416
+0:22:2,208 --> 0:22:4,917
+individuals saw
+economic benefits.
+
+
+417
+0:22:4,917 --> 0:22:7,458
+But the whole community,
+beyond the investors
+
+
+418
+0:22:7,458 --> 0:22:11,708
+and land-owners,
+benefited too.
+
+
+419
+0:22:11,708 --> 0:22:14,42
+Cliff:
+Because of the wind farm, now,
+
+
+420
+0:22:14,42 --> 0:22:16,25
+and the people working
+in the wind industry,
+
+
+421
+0:22:16,25 --> 0:22:18,667
+now we've got jobs available
+and opportunities
+
+
+422
+0:22:18,667 --> 0:22:22,125
+for young people to come back
+from college
+
+
+423
+0:22:22,125 --> 0:22:25,5
+or from technical school
+or from whatever.
+
+
+424
+0:22:25,5 --> 0:22:29,542
+It's just been a Godsend.
+
+
+425
+0:22:29,542 --> 0:22:30,75
+Narrator:
+For Kim Alexander,
+
+
+426
+0:22:30,75 --> 0:22:33,333
+superintendent
+of the Roscoe school district,
+
+
+427
+0:22:33,333 --> 0:22:36,5
+that godsend translates
+into dollars.
+
+
+428
+0:22:36,5 --> 0:22:40,333
+Kim Alexander: In 2007,
+prior to the wind values
+
+
+429
+0:22:40,333 --> 0:22:43,83
+coming on our tax roll,
+our property values
+
+
+430
+0:22:43,83 --> 0:22:45,458
+were at about $65 million.
+
+
+431
+0:22:45,458 --> 0:22:48,375
+And then, that wind
+development, they jumped
+
+
+432
+0:22:48,375 --> 0:22:52,75
+to approximately $400 million,
+to $465 million.
+
+
+433
+0:22:52,75 --> 0:22:54,0
+Narrator:
+The school district will get
+
+
+434
+0:22:54,0 --> 0:22:57,292
+more than $10 million dollars
+over a decade.
+
+
+435
+0:22:57,292 --> 0:23:1,625
+That guaranteed revenue stream
+unlocked additional funding.
+
+
+436
+0:23:1,625 --> 0:23:4,208
+School buildings,
+some dating from the 1930's,
+
+
+437
+0:23:4,208 --> 0:23:7,375
+could be updated,
+and computer labs added.
+
+
+438
+0:23:7,375 --> 0:23:9,375
+Cliff:
+This is an indication to me
+
+
+439
+0:23:9,375 --> 0:23:12,833
+of what can be done for rural
+areas, and will be done,
+
+
+440
+0:23:12,833 --> 0:23:17,917
+all the way to Canada--
+bringing life and prosperity
+
+
+441
+0:23:17,917 --> 0:23:20,208
+back to these
+rural communities
+
+
+442
+0:23:20,208 --> 0:23:23,625
+that are suffering just
+like we have.
+
+
+443
+0:23:23,625 --> 0:23:24,792
+Narrator:
+The same oil shock
+
+
+444
+0:23:24,792 --> 0:23:26,583
+that got Brazil
+started on ethanol,
+
+
+445
+0:23:26,583 --> 0:23:29,708
+got Denmark started
+on manufacturing wind turbines,
+
+
+446
+0:23:29,708 --> 0:23:31,625
+just in time
+to compensate for a decline
+
+
+447
+0:23:31,625 --> 0:23:34,75
+in its ship-building industry.
+
+
+448
+0:23:34,75 --> 0:23:35,917
+Lykke:
+And it's also good
+
+
+449
+0:23:35,917 --> 0:23:37,417
+for the economy,
+in terms of export.
+
+
+450
+0:23:37,417 --> 0:23:42,375
+I mean, 10% of Danish exports
+comes from the cleantech area.
+
+
+451
+0:23:42,375 --> 0:23:44,375
+Narrator: Energy
+and environment always require
+
+
+452
+0:23:44,375 --> 0:23:49,5
+tradeoffs, such as clear vistas
+versus clean energy.
+
+
+453
+0:23:49,5 --> 0:23:50,667
+It's something
+that communities
+
+
+454
+0:23:50,667 --> 0:23:54,333
+have to make time
+to work through.
+
+
+455
+0:23:54,333 --> 0:23:57,667
+Cliff, for one,
+believes it's worth it.
+
+
+456
+0:23:57,667 --> 0:23:58,958
+Cliff:
+Everything, the schools,
+
+
+457
+0:23:58,958 --> 0:24:1,833
+the churches,
+the civic organizations,
+
+
+458
+0:24:1,833 --> 0:24:4,792
+all the businesses
+will benefit from this.
+
+
+459
+0:24:4,792 --> 0:24:8,792
+It will increase, hopefully,
+our town's populations,
+
+
+460
+0:24:8,792 --> 0:24:11,625
+and our economics.
+
+
+461
+0:24:11,625 --> 0:24:14,667
+Kim Alexander: 
+My granddad used to say,
+
+
+462
+0:24:14,667 --> 0:24:16,167
+not realizing
+he was prophetic,
+
+
+463
+0:24:16,167 --> 0:24:20,42
+but "If we could sell the wind,
+we'd be wealthy."
+
+
+464
+0:24:20,42 --> 0:24:21,5
+Well, who would
+have ever thought
+
+
+465
+0:24:21,5 --> 0:24:23,75
+we'd be able to sell the wind?
+
+
+466
+0:24:23,75 --> 0:24:27,208
+Narrator:
+For Samso, Denmark and Texas,
+
+
+467
+0:24:27,208 --> 0:24:31,417
+clean energy brought economic
+benefits and energy security.
+
+
+468
+0:24:31,417 --> 0:24:34,83
+But replacing fossil fuel
+emissions with wind power
+
+
+469
+0:24:34,83 --> 0:24:36,708
+has other advantages.
+
+
+470
+0:24:36,708 --> 0:24:37,917
+Lykke:
+And let's not forget,
+
+
+471
+0:24:37,917 --> 0:24:40,542
+also good for climate
+and health, and such,
+
+
+472
+0:24:40,542 --> 0:24:42,83
+and that's a very
+important argument.
+
+
+473
+0:24:42,83 --> 0:24:46,208
+Cliff: We've got a constant
+wind resource here,
+
+
+474
+0:24:46,208 --> 0:24:51,375
+that's tremendously valuable,
+and as opposed to oil and gas,
+
+
+475
+0:24:51,375 --> 0:24:57,375
+it'll last forever,
+and it doesn't pollute anything.
+
+
+476
+0:24:57,375 --> 0:24:58,583
+Narrator:
+Burning fossil fuel
+
+
+477
+0:24:58,583 --> 0:25:0,75
+emits black soot
+and other pollutants
+
+
+478
+0:25:0,75 --> 0:25:3,75
+that fall out of the atmosphere
+quite quickly.
+
+
+479
+0:25:3,75 --> 0:25:6,333
+But it also releases carbon
+dioxide, which remains
+
+
+480
+0:25:6,333 --> 0:25:11,458
+in the air much longer,
+to influence Earth's climate.
+
+
+481
+0:25:11,458 --> 0:25:14,125
+Richard Alley's ice core
+research shows that sometimes
+
+
+482
+0:25:14,125 --> 0:25:16,875
+the Earth experiences
+abrupt climate changes,
+
+
+483
+0:25:16,875 --> 0:25:19,833
+known as tipping points.
+
+
+484
+0:25:19,833 --> 0:25:21,583
+And if we keep on
+burning fossil fuels
+
+
+485
+0:25:21,583 --> 0:25:24,917
+without capturing CO2
+emissions, we may increase
+
+
+486
+0:25:24,917 --> 0:25:29,167
+the risk of pushing Earth's
+climate over the edge.
+
+
+487
+0:25:29,167 --> 0:25:34,42
+It might be wise
+to Look Before You Leap.
+
+
+488
+0:25:34,42 --> 0:25:35,208
+Richard Alley:
+The Earth's climate system
+
+
+489
+0:25:35,208 --> 0:25:37,5
+is usually well-behaved--
+
+
+490
+0:25:37,5 --> 0:25:40,292
+a little more Sun,
+a little more CO2,
+
+
+491
+0:25:40,292 --> 0:25:43,25
+and we get a predictable
+amount of warming.
+
+
+492
+0:25:43,25 --> 0:25:46,292
+This is the pattern of natural
+variability of the climate
+
+
+493
+0:25:46,292 --> 0:25:50,375
+our planet has experienced over
+the past 400 thousand years,
+
+
+494
+0:25:50,375 --> 0:25:53,792
+as recorded in the physics
+and chemistry of ice cores.
+
+
+495
+0:25:53,792 --> 0:25:56,875
+The regular ups and downs
+in temperature are the result
+
+
+496
+0:25:56,875 --> 0:25:59,708
+of changes in Earth's orbit
+around the Sun,
+
+
+497
+0:25:59,708 --> 0:26:2,458
+and their subsequent effects
+on levels of carbon dioxide
+
+
+498
+0:26:2,458 --> 0:26:5,375
+and other heat-trapping gases.
+
+
+499
+0:26:5,375 --> 0:26:7,458
+You can think
+of this natural variation
+
+
+500
+0:26:7,458 --> 0:26:10,417
+as the Ice Age roller coaster.
+
+
+501
+0:26:10,417 --> 0:26:14,542
+As a geologist, I'm at home
+in the vast expanses of time.
+
+
+502
+0:26:14,542 --> 0:26:17,583
+So let's take a ride,
+cresting hills
+
+
+503
+0:26:17,583 --> 0:26:19,542
+and rolling through valleys,
+
+
+504
+0:26:19,542 --> 0:26:21,833
+following the more-or-less
+regular pattern
+
+
+505
+0:26:21,833 --> 0:26:26,25
+of changing climate, over
+hundreds of thousands of years.
+
+
+506
+0:26:26,25 --> 0:26:30,292
+Here we're down at 180 parts
+per million of CO2,
+
+
+507
+0:26:30,292 --> 0:26:33,75
+and in an Ice Age.
+
+
+508
+0:26:33,75 --> 0:26:36,875
+Now we're climbing
+to 280 parts per million,
+
+
+509
+0:26:36,875 --> 0:26:40,125
+a warmer interglacial period.
+
+
+510
+0:26:40,125 --> 0:26:45,208
+Then down to a cold 180
+and up again, to a warmer 280.
+
+
+511
+0:26:45,208 --> 0:26:49,792
+Then repeating 180-280,
+the natural cycling
+
+
+512
+0:26:49,792 --> 0:26:53,583
+of the climate roller coaster.
+
+
+513
+0:26:53,583 --> 0:26:56,792
+But if we look in greater
+detail at 100,000 years
+
+
+514
+0:26:56,792 --> 0:26:59,83
+of Earth history,
+and specifically
+
+
+515
+0:26:59,83 --> 0:27:1,292
+at the ice core record
+from Greenland,
+
+
+516
+0:27:1,292 --> 0:27:3,75
+it's obvious our planet's
+climate hasn't always
+
+
+517
+0:27:3,75 --> 0:27:9,333
+had smooth ups and downs.
+
+
+518
+0:27:9,333 --> 0:27:11,667
+Occasionally,
+we cross some sort
+
+
+519
+0:27:11,667 --> 0:27:14,0
+of a tipping point,
+and the Earth evolves
+
+
+520
+0:27:14,0 --> 0:27:18,42
+really rapidly to a new state
+which is very different.
+
+
+521
+0:27:18,42 --> 0:27:21,708
+Over the last 100,000 years
+of the Ice Age cycling,
+
+
+522
+0:27:21,708 --> 0:27:25,0
+we've had a couple of dozen
+of these large, abrupt,
+
+
+523
+0:27:25,0 --> 0:27:29,0
+widespread climate shifts,
+almost as if the Earth
+
+
+524
+0:27:29,0 --> 0:27:38,208
+was bungy-jumping
+off the climate roller coaster.
+
+
+525
+0:27:38,208 --> 0:27:40,25
+Of course, you'd have
+to be a little nuts
+
+
+526
+0:27:40,25 --> 0:27:43,42
+to bungy off a roller coaster.
+
+
+527
+0:27:43,42 --> 0:27:49,583
+Which is why I'm leaving this
+to my computer avatar.
+
+
+528
+0:27:49,583 --> 0:27:53,167
+But these abrupt climate
+changes are real.
+
+
+529
+0:27:53,167 --> 0:27:57,0
+Here's one of the largest
+and most recent.
+
+
+530
+0:27:57,0 --> 0:28:0,833
+About 13,000 years ago, as the
+Earth was climbing out
+
+
+531
+0:28:0,833 --> 0:28:4,0
+of the last Ice Age,
+the North passed a tipping
+
+
+532
+0:28:4,0 --> 0:28:7,417
+point and rapidly slid back
+into a cold millennium--
+
+
+533
+0:28:7,417 --> 0:28:11,667
+drying monsoon regions
+of Asia where huge populations
+
+
+534
+0:28:11,667 --> 0:28:16,125
+now rely on rain,
+and warming the South.
+
+
+535
+0:28:16,125 --> 0:28:20,458
+There was weather and climate
+disruption world-wide.
+
+
+536
+0:28:20,458 --> 0:28:23,375
+But then, another
+tipping point was reached,
+
+
+537
+0:28:23,375 --> 0:28:26,542
+and in ten years or so,
+temperatures in Greenland rose
+
+
+538
+0:28:26,542 --> 0:28:31,625
+by about 10 degrees Centigrade,
+18 Fahrenheit--
+
+
+539
+0:28:31,625 --> 0:28:33,25
+numbers we know
+with high confidence
+
+
+540
+0:28:33,25 --> 0:28:35,833
+from the ice core record.
+
+
+541
+0:28:35,833 --> 0:28:39,458
+Today, whatever climate model
+we use to project the impact
+
+
+542
+0:28:39,458 --> 0:28:44,5
+of rising levels of CO2, you
+see a relatively smooth curve,
+
+
+543
+0:28:44,5 --> 0:28:46,25
+heading upward,
+but in principle
+
+
+544
+0:28:46,25 --> 0:28:48,917
+a change we could adapt to.
+
+
+545
+0:28:48,917 --> 0:28:51,375
+But Earth's history shows us
+that Earth's climate
+
+
+546
+0:28:51,375 --> 0:28:54,708
+doesn't always work this way.
+
+
+547
+0:28:54,708 --> 0:28:58,542
+Sometimes it really does get
+as crazy and unpredictable
+
+
+548
+0:28:58,542 --> 0:29:10,125
+as bungy jumping off
+the climate roller coaster.
+
+
+549
+0:29:10,125 --> 0:29:13,458
+An abrupt climate change could
+be really bad for people.
+
+
+550
+0:29:13,458 --> 0:29:17,792
+We're optimistic that we won't
+have one, but we're not certain.
+
+
+551
+0:29:17,792 --> 0:29:20,708
+And the science suggests
+that the harder and faster
+
+
+552
+0:29:20,708 --> 0:29:23,917
+we turn the CO2 knob,
+the more likely we are
+
+
+553
+0:29:23,917 --> 0:29:28,375
+to cross a tipping point
+and trigger one.
+
+
+554
+0:29:28,375 --> 0:29:33,42
+Yet here we are today, racing
+up a hill to who knows where.
+
+
+555
+0:29:33,42 --> 0:29:35,75
+As burning fossil fuels
+means we've blown past
+
+
+556
+0:29:35,75 --> 0:29:40,208
+390 parts per million,
+without slowing down.
+
+
+557
+0:29:40,208 --> 0:29:42,833
+Will our ascent be smooth
+and manageable?
+
+
+558
+0:29:42,833 --> 0:29:46,375
+Or will our ride
+come off the rails?
+
+
+559
+0:29:46,375 --> 0:29:49,25
+If we wanted
+to take out insurance
+
+
+560
+0:29:49,25 --> 0:29:52,0
+against the possibility
+of such a change,
+
+
+561
+0:29:52,0 --> 0:29:59,458
+we could look at slowing down
+now before we tip over the edge.
+
+
+562
+0:29:59,458 --> 0:30:1,833
+Narrator: One way of ensuring
+a more manageable climate
+
+
+563
+0:30:1,833 --> 0:30:4,625
+is to research and deploy ways
+to burn fossil fuels
+
+
+564
+0:30:4,625 --> 0:30:9,42
+without releasing massive
+amounts of carbon dioxide.
+
+
+565
+0:30:9,42 --> 0:30:12,5
+And, surprising as it may be,
+some of the most innovative
+
+
+566
+0:30:12,5 --> 0:30:16,125
+work to meet that urgent 21st
+century goal is happening
+
+
+567
+0:30:16,125 --> 0:30:24,42
+in the land of one of Earth's
+most ancient empires.
+
+
+568
+0:30:24,42 --> 0:30:26,958
+China was first unified
+as a nation
+
+
+569
+0:30:26,958 --> 0:30:30,208
+in the 3rd century B.C.
+by the Emperor who had this
+
+
+570
+0:30:30,208 --> 0:30:35,167
+army of Terracotta Warriors
+built to guard his tomb.
+
+
+571
+0:30:35,167 --> 0:30:38,208
+These figures represent state
+control, and mass production
+
+
+572
+0:30:38,208 --> 0:30:42,917
+in the service of a master
+plan, extending from this life
+
+
+573
+0:30:42,917 --> 0:30:46,83
+into the hereafter.
+
+
+574
+0:30:46,83 --> 0:30:48,75
+This is a wonder
+of the ancient world.
+
+
+575
+0:30:48,75 --> 0:30:50,125
+But when China
+wanted to showcase
+
+
+576
+0:30:50,125 --> 0:30:53,417
+its National Treasures
+for a contemporary audience,
+
+
+577
+0:30:53,417 --> 0:30:55,958
+it placed one of the Emperors'
+majestic chariots
+
+
+578
+0:30:55,958 --> 0:31:2,417
+as a centerpiece at the 2010
+Shanghai World EXPO.
+
+
+579
+0:31:2,417 --> 0:31:4,125
+This EXPO, however,
+was focused more
+
+
+580
+0:31:4,125 --> 0:31:8,208
+on the future than the past.
+
+
+581
+0:31:8,208 --> 0:31:10,625
+One entire floor of the massive
+Chinese pavilion
+
+
+582
+0:31:10,625 --> 0:31:15,208
+was devoted to renewable energy
+and low-carbon living.
+
+
+583
+0:31:15,208 --> 0:31:17,375
+Here there was no doubt
+that CO2 emissions
+
+
+584
+0:31:17,375 --> 0:31:20,25
+were driving climate change.
+
+
+585
+0:31:20,25 --> 0:31:24,583
+And that clean energy
+was the solution.
+
+
+586
+0:31:24,583 --> 0:31:27,583
+All World's Fairs are exercises
+in self-promotion,
+
+
+587
+0:31:27,583 --> 0:31:32,792
+if not propaganda-- but hard
+numbers tell the story.
+
+
+588
+0:31:32,792 --> 0:31:35,708
+In 2010 China invested
+more on renewable energy
+
+
+589
+0:31:35,708 --> 0:31:38,375
+than any other nation
+on Earth.
+
+
+590
+0:31:38,375 --> 0:31:41,917
+Germany was number 2,
+and the U.S., number 3,
+
+
+591
+0:31:41,917 --> 0:31:44,417
+committing roughly half
+as much as China.
+
+
+592
+0:31:44,417 --> 0:31:45,583
+Julio Friedman:
+China's being aggressive
+
+
+593
+0:31:45,583 --> 0:31:47,167
+on all the clean energy fronts.
+
+
+594
+0:31:47,167 --> 0:31:49,42
+They're building
+100,000 megawatts of wind.
+
+
+595
+0:31:49,42 --> 0:31:51,625
+They're putting up 10,000
+megawatts of solar PV--
+
+
+596
+0:31:51,625 --> 0:31:54,667
+50,000 megawatts of nuclear.
+
+
+597
+0:31:54,667 --> 0:31:56,167
+Narrator: At the U.S.
+Department of Energy's
+
+
+598
+0:31:56,167 --> 0:31:59,458
+Lawrence Livermore National
+Laboratory in California,
+
+
+599
+0:31:59,458 --> 0:32:1,125
+geoscientist Julio Friedman
+
+
+600
+0:32:1,125 --> 0:32:5,292
+is in charge of its
+Carbon Management Program.
+
+
+601
+0:32:5,292 --> 0:32:7,792
+He uses some of the world's
+fastest supercomputers
+
+
+602
+0:32:7,792 --> 0:32:11,292
+to study how to store CO2
+underground.
+
+
+603
+0:32:11,292 --> 0:32:15,167
+And he's an expert on
+U.S.-China energy collaboration
+
+
+604
+0:32:15,167 --> 0:32:16,333
+Julio: They're not
+putting all their eggs
+
+
+605
+0:32:16,333 --> 0:32:17,583
+in one basket, either.
+
+
+606
+0:32:17,583 --> 0:32:20,42
+They're trying to cover,
+comprehensively,
+
+
+607
+0:32:20,42 --> 0:32:22,125
+all the clean energy options.
+
+
+608
+0:32:22,125 --> 0:32:24,792
+Narrator: And that includes
+an old and dirty fuel that
+
+
+609
+0:32:24,792 --> 0:32:29,708
+China both mines and imports
+at world-record levels.
+
+
+610
+0:32:29,708 --> 0:32:31,667
+Julio: China is the
+world's largest coal producer.
+
+
+611
+0:32:31,667 --> 0:32:33,875
+It's the world's
+largest coal user.
+
+
+612
+0:32:33,875 --> 0:32:43,625
+They're not going to abandon
+coal any time soon.
+
+
+613
+0:32:43,625 --> 0:32:45,125
+Narrator:
+The city of Xi'an is home
+
+
+614
+0:32:45,125 --> 0:32:47,125
+to the Terracotta Warriors,
+and was once
+
+
+615
+0:32:47,125 --> 0:32:51,5
+the capital of China, starting
+point for the Silk Road.
+
+
+616
+0:32:51,5 --> 0:32:54,333
+Now, it's a modern city
+that illustrates the forces
+
+
+617
+0:32:54,333 --> 0:32:57,333
+that will shape
+China's energy future--
+
+
+618
+0:32:57,333 --> 0:33:1,708
+and, inevitably,
+impact the entire planet.
+
+
+619
+0:33:1,708 --> 0:33:3,75
+Xi'an is also home
+to the Thermal Power
+
+
+620
+0:33:3,75 --> 0:33:7,5
+Research Institute, T-P-R-I.
+
+
+621
+0:33:7,5 --> 0:33:10,708
+Thermal power in China
+is shorthand for coal,
+
+
+622
+0:33:10,708 --> 0:33:14,333
+which supplies 3/4ths of this
+nation's electricity supply.
+
+
+623
+0:33:14,333 --> 0:33:16,458
+In the U.S., it's about half.
+
+
+624
+0:33:16,458 --> 0:33:19,583
+And worldwide, burning coal
+produces about one quarter
+
+
+625
+0:33:19,583 --> 0:33:22,542
+of all greenhouse
+gas emissions.
+
+
+626
+0:33:22,542 --> 0:33:24,583
+Julio:
+If you look in the past coal,
+
+
+627
+0:33:24,583 --> 0:33:27,833
+is mighty-- built our country.
+
+
+628
+0:33:27,833 --> 0:33:31,625
+It is filthy-- soiled our land
+and atmospheres.
+
+
+629
+0:33:31,625 --> 0:33:34,792
+In the future I think
+coal can be mighty,
+
+
+630
+0:33:34,792 --> 0:33:38,708
+and can be clean,
+and can be benign.
+
+
+631
+0:33:38,708 --> 0:33:41,542
+Narrator: Clean coal
+may seem like a contradiction,
+
+
+632
+0:33:41,542 --> 0:33:43,75
+but if it's real,
+it has implications
+
+
+633
+0:33:43,75 --> 0:33:46,5
+not just for China,
+but also for the U.S.
+
+
+634
+0:33:46,5 --> 0:33:49,167
+and many developing nations.
+
+
+635
+0:33:49,167 --> 0:33:51,5
+TPRI is owned
+by Huaneng Power,
+
+
+636
+0:33:51,5 --> 0:33:54,792
+one of the largest utilities
+in the world.
+
+
+637
+0:33:54,792 --> 0:33:56,917
+They've renamed this key
+national laboratory
+
+
+638
+0:33:56,917 --> 0:34:0,333
+the Clean Energy
+Research Institute.
+
+
+639
+0:34:0,333 --> 0:34:5,208
+Xu Shisen is the Director.
+
+
+640
+0:34:5,208 --> 0:34:6,958
+Xu [translator]: Coal-fired
+power plants account
+
+
+641
+0:34:6,958 --> 0:34:10,25
+for 74% of China's
+energy production.
+
+
+642
+0:34:10,25 --> 0:34:13,667
+It's the main source
+of power generation.
+
+
+643
+0:34:13,667 --> 0:34:15,958
+Narrator: Coal is dirty,
+but cheap and abundant.
+
+
+644
+0:34:15,958 --> 0:34:18,292
+The Institute's new mission
+is to develop innovative
+
+
+645
+0:34:18,292 --> 0:34:21,667
+technologies and processes
+that can burn this hydrocarbon,
+
+
+646
+0:34:21,667 --> 0:34:25,958
+in cleaner, safer ways.
+
+
+647
+0:34:25,958 --> 0:34:28,917
+Julio: Coal is half
+of the world's power today.
+
+
+648
+0:34:28,917 --> 0:34:32,375
+It's half of the emissions
+that the U.S.
+
+
+649
+0:34:32,375 --> 0:34:33,917
+and China put
+into the atmosphere.
+
+
+650
+0:34:33,917 --> 0:34:36,875
+We just have to tackle
+coal directly.
+
+
+651
+0:34:36,875 --> 0:34:39,333
+There is no solution
+to climate change
+
+
+652
+0:34:39,333 --> 0:34:42,917
+that doesn't involve China
+reassessing its coal markets,
+
+
+653
+0:34:42,917 --> 0:34:45,0
+and its coal conversion
+technology.
+
+
+654
+0:34:45,0 --> 0:34:47,75
+And they're doing that.
+
+
+655
+0:34:47,75 --> 0:34:49,833
+Xu: China started
+researching and developing
+
+
+656
+0:34:49,833 --> 0:34:56,208
+clean coal technology back
+in the early 1990s.
+
+
+657
+0:34:56,208 --> 0:34:57,958
+Narrator: Technology
+developed at the Institute
+
+
+658
+0:34:57,958 --> 0:35:1,0
+is used in this pilot carbon
+sequestration facility,
+
+
+659
+0:35:1,0 --> 0:35:3,167
+outside Shanghai.
+
+
+660
+0:35:3,167 --> 0:35:5,708
+It's attached
+to the giant Shidongkou #2
+
+
+661
+0:35:5,708 --> 0:35:11,167
+generating station,
+also owned by Huaneng Power.
+
+
+662
+0:35:11,167 --> 0:35:14,625
+This plant uses a process
+called Post Combustion Capture,
+
+
+663
+0:35:14,625 --> 0:35:18,0
+P-C-C, where coal is first
+burned in a more or less
+
+
+664
+0:35:18,0 --> 0:35:22,917
+traditional manner,
+and then the CO2 is captured.
+
+
+665
+0:35:22,917 --> 0:35:25,542
+Julio: So Shidongkou
+is remarkable in every way.
+
+
+666
+0:35:25,542 --> 0:35:28,917
+They're capturing 150,000 tons
+of carbon dioxide, and they've
+
+
+667
+0:35:28,917 --> 0:35:32,125
+been doing that now for about
+18 months successfully.
+
+
+668
+0:35:32,125 --> 0:35:34,125
+Narrator: Shidongkou
+sells the captured CO2
+
+
+669
+0:35:34,125 --> 0:35:36,542
+for use in soft drinks
+and chemicals,
+
+
+670
+0:35:36,542 --> 0:35:38,75
+turning it into a resource.
+
+
+671
+0:35:38,75 --> 0:35:41,25
+In the future, they'll scale up
+and begin sequestering
+
+
+672
+0:35:41,25 --> 0:35:43,417
+the CO2 deep underground.
+
+
+673
+0:35:43,417 --> 0:35:45,583
+Julio: Already, that means
+that it works and that the cost
+
+
+674
+0:35:45,583 --> 0:35:47,75
+and performance
+are pretty well understood.
+
+
+675
+0:35:47,75 --> 0:35:50,875
+So, if it can be widely applied,
+then it creates
+
+
+676
+0:35:50,875 --> 0:35:53,0
+the new benchmark
+that will define
+
+
+677
+0:35:53,0 --> 0:35:56,83
+whether or not this works
+anywhere else.
+
+
+678
+0:35:56,83 --> 0:35:58,667
+Narrator: If this new
+technology works, any existing
+
+
+679
+0:35:58,667 --> 0:36:2,833
+coal plant can be retrofitted
+and run more cleanly.
+
+
+680
+0:36:2,833 --> 0:36:4,125
+Xu:
+But it is more about
+
+
+681
+0:36:4,125 --> 0:36:7,708
+the economic feasibility because
+the cost is very high,
+
+
+682
+0:36:7,708 --> 0:36:12,125
+which increases the price
+of electricity by about 20%.
+
+
+683
+0:36:12,125 --> 0:36:13,792
+Julio: Nobody wants
+to pay more for power,
+
+
+684
+0:36:13,792 --> 0:36:17,375
+but nobody wants to have
+contaminated rivers and skies.
+
+
+685
+0:36:17,375 --> 0:36:20,75
+If we can pay 20 percent
+more to get Carbon Capture
+
+
+686
+0:36:20,75 --> 0:36:23,375
+and Sequestration deployed
+at scale in today's fleet,
+
+
+687
+0:36:23,375 --> 0:36:25,917
+I would be a very, very,
+happy guy
+
+
+688
+0:36:25,917 --> 0:36:27,708
+if we could get away for that.
+
+
+689
+0:36:27,708 --> 0:36:29,417
+Narrator: Shidongkou Number 2
+demonstrates
+
+
+690
+0:36:29,417 --> 0:36:32,875
+what can be done
+at many older power plants.
+
+
+691
+0:36:32,875 --> 0:36:36,0
+But the Greengen construction
+site near Tianjin,
+
+
+692
+0:36:36,0 --> 0:36:38,167
+about 70 miles south
+of Beijing,
+
+
+693
+0:36:38,167 --> 0:36:40,792
+represents a completely new
+approach to turning coal
+
+
+694
+0:36:40,792 --> 0:36:46,75
+into energy with minimal
+pollution and emissions.
+
+
+695
+0:36:46,75 --> 0:36:50,167
+Albert Lin is an American
+venture capitalist.
+
+
+696
+0:36:50,167 --> 0:36:51,875
+Together with his colleague,
+Bill Douglas,
+
+
+697
+0:36:51,875 --> 0:36:54,708
+from Houston, Texas, they've
+licensed Huaneng technology
+
+
+698
+0:36:54,708 --> 0:36:56,125
+for what they hope will be
+
+
+699
+0:36:56,125 --> 0:36:59,5
+a clean coal plant
+in Pennsylvania.
+
+
+700
+0:36:59,5 --> 0:37:2,375
+They visited Greengen
+in July 2010.
+
+
+701
+0:37:2,375 --> 0:37:3,833
+Albert Lin:
+A year and a half ago
+
+
+702
+0:37:3,833 --> 0:37:6,583
+when I was here,
+this was just cleared land.
+
+
+703
+0:37:6,583 --> 0:37:8,208
+And so this kind of a project,
+
+
+704
+0:37:8,208 --> 0:37:11,708
+of this size at this pace,
+is unprecedented.
+
+
+705
+0:37:11,708 --> 0:37:14,292
+Narrator: By October 2011,
+the physical structure
+
+
+706
+0:37:14,292 --> 0:37:19,83
+was completed, with
+commissioning tests ongoing.
+
+
+707
+0:37:19,83 --> 0:37:23,542
+Lin: This is the world's most
+advanced coal gasifier.
+
+
+708
+0:37:23,542 --> 0:37:25,583
+Narrator: This structure,
+at the heart of Greengen,
+
+
+709
+0:37:25,583 --> 0:37:28,75
+burns coal converted
+into what's called syn-gas,
+
+
+710
+0:37:28,75 --> 0:37:34,375
+and emits far fewer pollutants
+than a traditional plant.
+
+
+711
+0:37:34,375 --> 0:37:35,792
+Xu:
+The ultimate goal for GreenGen
+
+
+712
+0:37:35,792 --> 0:37:41,5
+is to generate 400MW
+of electricity.
+
+
+713
+0:37:41,5 --> 0:37:48,792
+At the same time, we want
+to capture 90% of the CO2.
+
+
+714
+0:37:48,792 --> 0:37:50,792
+Narrator: Once Greengen
+is fully operational,
+
+
+715
+0:37:50,792 --> 0:37:53,75
+the CO2 will be pumped
+offshore to be used
+
+
+716
+0:37:53,75 --> 0:37:55,792
+in enhanced oil recovery.
+
+
+717
+0:37:55,792 --> 0:37:57,83
+Julio:
+If it works as advertised
+
+
+718
+0:37:57,83 --> 0:38:0,42
+and if the costs are competitive
+with other clean energy,
+
+
+719
+0:38:0,42 --> 0:38:3,625
+it creates a technology option
+that's new for the world.
+
+
+720
+0:38:3,625 --> 0:38:5,708
+Narrator: And Greengen
+should cost about one half
+
+
+721
+0:38:5,708 --> 0:38:8,542
+of the similar project planned
+for Pennsylvania.
+
+
+722
+0:38:8,542 --> 0:38:10,125
+Julio:
+It's not just green washing.
+
+
+723
+0:38:10,125 --> 0:38:12,375
+They expect these things
+to operate for thirty years,
+
+
+724
+0:38:12,375 --> 0:38:15,208
+they expect them
+to perform as advertised,
+
+
+725
+0:38:15,208 --> 0:38:16,667
+they expect them to be clean.
+
+
+726
+0:38:16,667 --> 0:38:21,167
+And they expect them to be
+a solution to the country.
+
+
+727
+0:38:21,167 --> 0:38:23,458
+Narrator: It's no secret,
+especially to anyone living
+
+
+728
+0:38:23,458 --> 0:38:28,292
+in a big Chinese city, that air
+quality is often dangerous.
+
+
+729
+0:38:28,292 --> 0:38:31,167
+And clean coal proponents
+like Lin and Friedman
+
+
+730
+0:38:31,167 --> 0:38:33,167
+recognize the harm
+that increasing levels
+
+
+731
+0:38:33,167 --> 0:38:36,25
+of carbon dioxide
+do to climate.
+
+
+732
+0:38:36,25 --> 0:38:40,208
+They think that paying now
+is better than paying later.
+
+
+733
+0:38:40,208 --> 0:38:42,458
+Lin: The reality is that
+if climate were not important
+
+
+734
+0:38:42,458 --> 0:38:45,25
+or were not a factor, we would
+not be doing any of this.
+
+
+735
+0:38:45,25 --> 0:38:49,83
+Because it is cheaper to pollute
+and do it the old-fashioned way.
+
+
+736
+0:38:49,83 --> 0:38:50,583
+But what we're saying is
+
+
+737
+0:38:50,583 --> 0:38:52,25
+there's a better way out
+for every one
+
+
+738
+0:38:52,25 --> 0:38:54,458
+because sooner or later
+we are going to have to address
+
+
+739
+0:38:54,458 --> 0:38:56,625
+the climate issues,
+and the pollution issues,
+
+
+740
+0:38:56,625 --> 0:38:58,292
+and the things
+that have been associated
+
+
+741
+0:38:58,292 --> 0:39:1,25
+with a growing population.
+
+
+742
+0:39:1,25 --> 0:39:2,458
+Friedman:
+I think it's pretty clear
+
+
+743
+0:39:2,458 --> 0:39:4,792
+to everybody that China
+is going for the gold.
+
+
+744
+0:39:4,792 --> 0:39:8,25
+They want to be number one
+in all these areas.
+
+
+745
+0:39:8,25 --> 0:39:10,333
+And they're committing to it
+in the same way
+
+
+746
+0:39:10,333 --> 0:39:13,292
+that an Olympic athlete
+commits to that goal.
+
+
+747
+0:39:13,292 --> 0:39:18,83
+They're using every resource
+they have to move ahead
+
+
+748
+0:39:18,83 --> 0:39:22,958
+for their population's needs,
+and for their economy's needs.
+
+
+749
+0:39:22,958 --> 0:39:26,333
+Narrator: China's breakneck
+development may seem chaotic.
+
+
+750
+0:39:26,333 --> 0:39:28,667
+But behind the seeming chaos
+there's literally
+
+
+751
+0:39:28,667 --> 0:39:31,667
+a plan in their energy
+policies.
+
+
+752
+0:39:31,667 --> 0:39:35,167
+China's 12th 5-year Plan,
+announced in 2011,
+
+
+753
+0:39:35,167 --> 0:39:37,458
+set ambitious goals
+for how much power
+
+
+754
+0:39:37,458 --> 0:39:40,417
+must be generated
+by renewable energy.
+
+
+755
+0:39:40,417 --> 0:39:42,917
+Of course, top down direction
+is easier
+
+
+756
+0:39:42,917 --> 0:39:47,583
+in an authoritarian state,
+but CO2 emissions per unit
+
+
+757
+0:39:47,583 --> 0:39:53,75
+of economic output are targeted
+for a 17% reduction by 2015.
+
+
+758
+0:39:53,75 --> 0:39:56,5
+Friedman: I think the most
+important thing to learn
+
+
+759
+0:39:56,5 --> 0:39:59,0
+from what China
+is doing these days
+
+
+760
+0:39:59,0 --> 0:40:1,583
+is that it's good
+to have a plan.
+
+
+761
+0:40:1,583 --> 0:40:4,833
+You can quibble with their
+plan, but they have one.
+
+
+762
+0:40:4,833 --> 0:40:9,25
+Having that plan, having that
+long arc of commitment,
+
+
+763
+0:40:9,25 --> 0:40:15,75
+is what's really going
+to deliver the goods.
+
+
+764
+0:40:15,75 --> 0:40:17,917
+Narrator: Will the result
+of all China's plans,
+
+
+765
+0:40:17,917 --> 0:40:21,917
+and incentives, and subsidies,
+be more blue sky days--
+
+
+766
+0:40:21,917 --> 0:40:23,458
+where traditions endure,
+and people
+
+
+767
+0:40:23,458 --> 0:40:29,83
+eventually enjoy cleaner air?
+
+
+768
+0:40:29,83 --> 0:40:31,42
+Will sustained policy
+and state planning
+
+
+769
+0:40:31,42 --> 0:40:34,83
+result in abundant energy
+and technological achievements
+
+
+770
+0:40:34,83 --> 0:40:39,0
+to rival those
+of the first Chinese Emperor?
+
+
+771
+0:40:39,0 --> 0:40:41,625
+But all that won't matter much
+to the planet's climate
+
+
+772
+0:40:41,625 --> 0:40:44,5
+if China, the United States,
+India, and others
+
+
+773
+0:40:44,5 --> 0:40:47,42
+decide to keep coal
+and other fossil fuels
+
+
+774
+0:40:47,42 --> 0:40:50,125
+a major portion
+of their energy mix--
+
+
+775
+0:40:50,125 --> 0:40:55,292
+without paying the price
+to burn them cleanly.
+
+
+776
+0:40:55,292 --> 0:40:56,5
+Richard Alley:
+So, the Earth provides
+
+
+777
+0:40:56,5 --> 0:41:0,208
+lots of choices for clean,
+low carbon energy.
+
+
+778
+0:41:0,208 --> 0:41:4,292
+And Brazil, China and Texas show
+there are ways forward.
+
+
+779
+0:41:4,292 --> 0:41:5,5
+But can we afford it?
+
+
+780
+0:41:5,5 --> 0:41:8,917
+Can society make the kinds
+of changes needed?
+
+
+781
+0:41:8,917 --> 0:41:11,167
+Well, we've done it before.
+
+
+782
+0:41:11,167 --> 0:41:15,458
+(Bagpipes play)
+
+
+783
+0:41:15,458 --> 0:41:18,625
+Let's take a walk through
+history in Edinburgh, Scotland,
+
+
+784
+0:41:18,625 --> 0:41:20,458
+but it could be
+many other big cities
+
+
+785
+0:41:20,458 --> 0:41:24,25
+a couple of centuries ago.
+
+
+786
+0:41:24,25 --> 0:41:28,833
+Here's what a visitor
+from London wrote in 1754--
+
+
+787
+0:41:28,833 --> 0:41:30,0
+[Man with English accent]
+"When I first came
+
+
+788
+0:41:30,0 --> 0:41:31,792
+into the High Street
+of that city,
+
+
+789
+0:41:31,792 --> 0:41:34,292
+I thought I had not seen
+anything of the kind
+
+
+790
+0:41:34,292 --> 0:41:37,875
+more magnificent-- the extreme
+height of the houses,
+
+
+791
+0:41:37,875 --> 0:41:40,917
+which are, for the most part,
+built with stone,
+
+
+792
+0:41:40,917 --> 0:41:43,917
+and well sashed..."
+
+
+793
+0:41:43,917 --> 0:41:48,583
+Alley: It's evening,
+time for a wee bite!
+
+
+794
+0:41:48,583 --> 0:41:51,375
+Scottish taverns, then as now,
+were noisy places,
+
+
+795
+0:41:51,375 --> 0:41:56,0
+buzzing with good conversation
+and high spirits.
+
+
+796
+0:41:56,0 --> 0:41:59,417
+The visitor from London dined
+well and drank a few glasses
+
+
+797
+0:41:59,417 --> 0:42:2,583
+of fine French claret,
+but then his new friends
+
+
+798
+0:42:2,583 --> 0:42:5,125
+did something that was
+second nature to them
+
+
+799
+0:42:5,125 --> 0:42:11,208
+in the 18th Century, but seems
+very strange to us today.
+
+
+800
+0:42:11,208 --> 0:42:12,75
+[English accent]
+"The clock struck ten,
+
+
+801
+0:42:12,75 --> 0:42:15,75
+then the company began to light
+pieces of paper,
+
+
+802
+0:42:15,75 --> 0:42:19,792
+and throw them upon the table
+to smoke the room..."
+
+
+803
+0:42:19,792 --> 0:42:21,125
+Alley:
+Lighting those pieces of paper
+
+
+804
+0:42:21,125 --> 0:42:24,625
+was meant to mix
+one bad smell with another.
+
+
+805
+0:42:24,625 --> 0:42:27,958
+Chambermaid:
+"Gardyloo!"
+
+
+806
+0:42:27,958 --> 0:42:29,958
+Alley: You see,
+ten o'clock was when you could
+
+
+807
+0:42:29,958 --> 0:42:34,833
+empty brimming chamber pots
+down into the streets.
+
+
+808
+0:42:34,833 --> 0:42:35,958
+Chambermaid:
+"Gardyloo!"
+
+
+809
+0:42:35,958 --> 0:42:39,83
+Man: "Hud your haunde"/
+Hold your hand!
+
+
+810
+0:42:39,83 --> 0:42:40,708
+Alley: The London
+visitor safely dodged
+
+
+811
+0:42:40,708 --> 0:42:44,208
+the terrible shower,
+but then he was forced to hide
+
+
+812
+0:42:44,208 --> 0:42:46,625
+between his bed sheets
+to avoid the smell
+
+
+813
+0:42:46,625 --> 0:42:49,375
+pouring into his room
+from the filth.
+
+
+814
+0:42:49,375 --> 0:42:51,958
+And yet the people
+had gotten used to this,
+
+
+815
+0:42:51,958 --> 0:42:54,625
+to the inconvenience
+and disease, and some people
+
+
+816
+0:42:54,625 --> 0:42:57,958
+made a living hauling away
+the human waste.
+
+
+817
+0:42:57,958 --> 0:43:1,667
+The English visitor thought
+all this simply had no remedy.
+
+
+818
+0:43:1,667 --> 0:43:4,125
+[English accent] "Anything
+so expensive as a conveyance
+
+
+819
+0:43:4,125 --> 0:43:6,75
+for the waste down
+from the uppermost floor
+
+
+820
+0:43:6,75 --> 0:43:8,625
+could never be agreed on.
+
+
+821
+0:43:8,625 --> 0:43:11,83
+Nor could there be made,
+within the building,
+
+
+822
+0:43:11,83 --> 0:43:15,667
+any receiver suitable to such
+numbers of people."
+
+
+823
+0:43:15,667 --> 0:43:17,167
+Alley:
+So, what do chamber pots
+
+
+824
+0:43:17,167 --> 0:43:21,167
+have to do with carbon dioxide
+and sustainable energy?
+
+
+825
+0:43:21,167 --> 0:43:24,708
+Not to mince words, we're
+pouring CO2, another form
+
+
+826
+0:43:24,708 --> 0:43:27,833
+of human waste, into the public
+space, and we'll have
+
+
+827
+0:43:27,833 --> 0:43:32,667
+to deal with the consequences
+if we don't clean it up.
+
+
+828
+0:43:32,667 --> 0:43:35,292
+Today, of course, most of us
+have conveyances
+
+
+829
+0:43:35,292 --> 0:43:37,875
+down from bathrooms,
+and sinks to wash in,
+
+
+830
+0:43:37,875 --> 0:43:40,917
+and receivers for our waste.
+
+
+831
+0:43:40,917 --> 0:43:42,42
+What happened?
+
+
+832
+0:43:42,42 --> 0:43:43,458
+Look around your house.
+
+
+833
+0:43:43,458 --> 0:43:44,917
+How much did
+the porcelain throne
+
+
+834
+0:43:44,917 --> 0:43:48,417
+in your bathroom really cost?
+
+
+835
+0:43:48,417 --> 0:43:50,958
+It took a considerable
+investment for all those pipes
+
+
+836
+0:43:50,958 --> 0:43:55,375
+bringing water to wash with,
+and to take the waste away.
+
+
+837
+0:43:55,375 --> 0:43:57,875
+The revolution in hygiene
+involved an extensive
+
+
+838
+0:43:57,875 --> 0:44:0,5
+infrastructure
+of toilets in homes,
+
+
+839
+0:44:0,5 --> 0:44:3,875
+sewers underneath our cities,
+water treatment plants.
+
+
+840
+0:44:3,875 --> 0:44:8,375
+Today we might call it
+the Sanitation Smart Grid.
+
+
+841
+0:44:8,375 --> 0:44:11,125
+So, how much did all this cost?
+
+
+842
+0:44:11,125 --> 0:44:13,833
+Not that much, if you consider
+the millions of lives saved
+
+
+843
+0:44:13,833 --> 0:44:17,208
+with clean water, prevention
+of diseases like cholera
+
+
+844
+0:44:17,208 --> 0:44:20,917
+and typhoid-- something like
+1% of the economy,
+
+
+845
+0:44:20,917 --> 0:44:22,75
+in very round numbers.
+
+
+846
+0:44:22,75 --> 0:44:25,25
+And that's more or less
+the estimated cost
+
+
+847
+0:44:25,25 --> 0:44:28,542
+of switching the world
+to a sustainable energy system
+
+
+848
+0:44:28,542 --> 0:44:33,0
+that doesn't dump fossil fuel
+CO2 into the public space.
+
+
+849
+0:44:33,0 --> 0:44:35,875
+Cleaning up the cities took
+decades and even centuries,
+
+
+850
+0:44:35,875 --> 0:44:37,917
+and we're trying to do things
+a little faster,
+
+
+851
+0:44:37,917 --> 0:44:40,417
+but the revolution
+in waste management shows
+
+
+852
+0:44:40,417 --> 0:44:43,292
+that we can do big things
+to get benefits
+
+
+853
+0:44:43,292 --> 0:44:47,458
+that none of us would ever
+walk away from.
+
+
+854
+0:44:47,458 --> 0:44:50,708
+Narrator: Old energy
+technologies can be cleaned up.
+
+
+855
+0:44:50,708 --> 0:44:53,0
+New ones can come online.
+
+
+856
+0:44:53,0 --> 0:44:55,125
+Other nations
+are moving ahead.
+
+
+857
+0:44:55,125 --> 0:44:58,667
+What will it take to keep the
+lights on in the United States,
+
+
+858
+0:44:58,667 --> 0:45:3,42
+and Avoid The Energy Abyss.
+
+
+859
+0:45:3,42 --> 0:45:4,958
+There's no question
+that transitioning to clean
+
+
+860
+0:45:4,958 --> 0:45:9,667
+and renewable energy
+is going to be a huge task.
+
+
+861
+0:45:9,667 --> 0:45:13,625
+But America has done
+similar things before.
+
+
+862
+0:45:13,625 --> 0:45:16,458
+Take the Hoover Dam,
+and the electrification program
+
+
+863
+0:45:16,458 --> 0:45:18,833
+of the 1930s.
+
+
+864
+0:45:18,833 --> 0:45:21,667
+Or the building of
+the Interstate highway system.
+
+
+865
+0:45:21,667 --> 0:45:23,125
+Hofmeister:
+Well, I am optimistic.
+
+
+866
+0:45:23,125 --> 0:45:26,5
+John Hofmeister is a former
+oil man, based in Texas.
+
+
+867
+0:45:26,5 --> 0:45:29,917
+He headed up Shell
+in the United States.
+
+
+868
+0:45:29,917 --> 0:45:33,625
+He also wrote a book entitled
+Why We Hate The Oil Companies,
+
+
+869
+0:45:33,625 --> 0:45:36,0
+and he's worried that today
+America isn't making
+
+
+870
+0:45:36,0 --> 0:45:38,208
+the right decisions
+about energy.
+
+
+871
+0:45:38,208 --> 0:45:39,208
+Hofmeister:
+You need to think of energy
+
+
+872
+0:45:39,208 --> 0:45:41,208
+in a 50-year time frame.
+
+
+873
+0:45:41,208 --> 0:45:44,208
+And our elected officials
+are thinking of energy
+
+
+874
+0:45:44,208 --> 0:45:46,583
+in two-year election cycles.
+
+
+875
+0:45:46,583 --> 0:45:48,167
+That's ridiculous!
+
+
+876
+0:45:48,167 --> 0:45:51,917
+And it is going to take us, as a
+nation, to an energy abyss,
+
+
+877
+0:45:51,917 --> 0:45:54,875
+because you can't design
+an energy system
+
+
+878
+0:45:54,875 --> 0:45:58,375
+to replace the 20th century,
+which is growing old,
+
+
+879
+0:45:58,375 --> 0:46:1,583
+and running out in some cases,
+you can't replace that
+
+
+880
+0:46:1,583 --> 0:46:4,625
+with two year cycles
+of decision making.
+
+
+881
+0:46:4,625 --> 0:46:7,5
+Narrator:
+Other nations have changed.
+
+
+882
+0:46:7,5 --> 0:46:10,417
+Look around Copenhagen
+and you see pedestrian walkways
+
+
+883
+0:46:10,417 --> 0:46:13,917
+and bikes as a major form
+of transportation.
+
+
+884
+0:46:13,917 --> 0:46:17,542
+In response to the Oil Shocks
+of the 1970s, Denmark
+
+
+885
+0:46:17,542 --> 0:46:22,25
+turned away from fossil fuel
+and toward sustainable energy.
+
+
+886
+0:46:22,25 --> 0:46:24,333
+Soren: In Denmark
+we had car-free Sundays
+
+
+887
+0:46:24,333 --> 0:46:26,917
+where nobody was allowed
+to drive their cars on Sundays.
+
+
+888
+0:46:26,917 --> 0:46:29,75
+And there was a rationing
+of fuel and gas.
+
+
+889
+0:46:29,75 --> 0:46:33,542
+Lykke: These are sort of things
+that people remember,
+
+
+890
+0:46:33,542 --> 0:46:36,542
+"Well, we need to change."
+
+
+891
+0:46:36,542 --> 0:46:39,625
+Narrator: The U.S. also
+experienced the Oil Shocks,
+
+
+892
+0:46:39,625 --> 0:46:42,5
+with gas lines
+and angry citizens.
+
+
+893
+0:46:42,5 --> 0:46:45,625
+And for a while, America got
+serious about exploring
+
+
+894
+0:46:45,625 --> 0:46:48,917
+alternatives to imported
+gasoline and fossil fuel.
+
+
+895
+0:46:48,917 --> 0:46:51,5
+Here's the energy share of all
+Federal, non-defense
+
+
+896
+0:46:51,5 --> 0:46:56,708
+R&D investment
+from 1957 through 2011.
+
+
+897
+0:46:56,708 --> 0:46:59,42
+Investment ramped up
+in the Oil Shock,
+
+
+898
+0:46:59,42 --> 0:47:3,208
+but then went down,
+down, down.
+
+
+899
+0:47:3,208 --> 0:47:5,125
+And without serious new
+commitments,
+
+
+900
+0:47:5,125 --> 0:47:7,875
+the 2009 stimulus funds
+for energy,
+
+
+901
+0:47:7,875 --> 0:47:11,125
+will just have been
+a temporary upward blip.
+
+
+902
+0:47:11,125 --> 0:47:12,625
+Hofmeister:
+We're not making the decisions
+
+
+903
+0:47:12,625 --> 0:47:15,542
+at the national level
+that need to be made,
+
+
+904
+0:47:15,542 --> 0:47:17,542
+in terms of the next decade,
+
+
+905
+0:47:17,542 --> 0:47:20,167
+and the next several decades
+after that.
+
+
+906
+0:47:20,167 --> 0:47:21,708
+Narrator:
+Hofmeister and other experts
+
+
+907
+0:47:21,708 --> 0:47:24,83
+look around the world
+and see other countries
+
+
+908
+0:47:24,83 --> 0:47:27,458
+moving ahead to defend their
+nation's energy security.
+
+
+909
+0:47:27,458 --> 0:47:30,125
+Hofmeister: Places
+like China have a clear plan,
+
+
+910
+0:47:30,125 --> 0:47:32,292
+and they are driving forward.
+
+
+911
+0:47:32,292 --> 0:47:34,708
+And they are building
+an energy infrastructure
+
+
+912
+0:47:34,708 --> 0:47:37,458
+for the 21st century,
+which will perhaps
+
+
+913
+0:47:37,458 --> 0:47:40,42
+one day supply energy
+to the world's
+
+
+914
+0:47:40,42 --> 0:47:43,917
+largest economy--
+China, not the U.S.
+
+
+915
+0:47:43,917 --> 0:47:45,875
+Narrator:
+In America, energy policies
+
+
+916
+0:47:45,875 --> 0:47:50,375
+change with each new
+Administration, if not sooner.
+
+
+917
+0:47:50,375 --> 0:47:53,667
+Since our interview, Denmark's
+government has changed parties,
+
+
+918
+0:47:53,667 --> 0:47:56,708
+but now former Minister
+of Climate and Energy,
+
+
+919
+0:47:56,708 --> 0:47:59,375
+Lykke Friis, doesn't expect
+energy policy
+
+
+920
+0:47:59,375 --> 0:48:1,5
+to change that much.
+
+
+921
+0:48:1,5 --> 0:48:3,833
+Lykke: Even if we
+are kicked out of office,
+
+
+922
+0:48:3,833 --> 0:48:7,708
+this will not lead to a huge
+change in our energy policy.
+
+
+923
+0:48:7,708 --> 0:48:11,125
+Hofmeister: We need decisions
+that go beyond a single term
+
+
+924
+0:48:11,125 --> 0:48:14,125
+of a President, that go beyond
+a single Congress,
+
+
+925
+0:48:14,125 --> 0:48:16,458
+with a Republican
+or a Democratic majority.
+
+
+926
+0:48:16,458 --> 0:48:18,583
+And we're not doing it.
+
+
+927
+0:48:18,583 --> 0:48:20,583
+Other parts of the world are.
+
+
+928
+0:48:20,583 --> 0:48:21,917
+Lykke:
+All countries have to embark
+
+
+929
+0:48:21,917 --> 0:48:23,792
+upon this transformation.
+
+
+930
+0:48:23,792 --> 0:48:26,333
+And the lesson is, it can
+be done, because Denmark,
+
+
+931
+0:48:26,333 --> 0:48:29,958
+we've had also growth rate
+by 80% since the 80s.
+
+
+932
+0:48:29,958 --> 0:48:32,167
+But our energy consumption
+and CO2 emissions
+
+
+933
+0:48:32,167 --> 0:48:33,667
+have been more or less stable.
+
+
+934
+0:48:33,667 --> 0:48:36,0
+Hofmeister: We're going
+to find ourselves as a nation,
+
+
+935
+0:48:36,0 --> 0:48:39,792
+entering third world status
+when it comes
+
+
+936
+0:48:39,792 --> 0:48:44,208
+to the reliability of our
+energy system, within a decade,
+
+
+937
+0:48:44,208 --> 0:48:47,792
+if we don't get
+with a different program.
+
+
+938
+0:48:47,792 --> 0:48:50,625
+And I don't see any inclination
+now to make hard decisions.
+
+
+939
+0:48:50,625 --> 0:48:53,708
+I see divisiveness,
+I see partisan paralysis,
+
+
+940
+0:48:53,708 --> 0:48:56,208
+I see short-term political
+time thinking,
+
+
+941
+0:48:56,208 --> 0:48:59,167
+and I see dysfunctional
+government.
+
+
+942
+0:48:59,167 --> 0:49:0,75
+Narrator:
+America may lack consensus
+
+
+943
+0:49:0,75 --> 0:49:3,875
+on a national climate policy,
+and about building
+
+
+944
+0:49:3,875 --> 0:49:7,42
+a new energy system,
+but some states and cities
+
+
+945
+0:49:7,42 --> 0:49:12,333
+are moving ahead, with new
+ideas and new technologies.
+
+
+946
+0:49:12,333 --> 0:49:16,25
+Call them, Laboratories
+Of Low-Carbon Living.
+
+
+947
+0:49:16,25 --> 0:49:19,625
+Here are three examples
+of communities actively engaged
+
+
+948
+0:49:19,625 --> 0:49:22,917
+in reducing
+their carbon footprint.
+
+
+949
+0:49:22,917 --> 0:49:26,125
+In rural Alaska, trees are
+harvested from rivers
+
+
+950
+0:49:26,125 --> 0:49:28,917
+to power biomass boilers,
+cutting the cost
+
+
+951
+0:49:28,917 --> 0:49:31,375
+of shipping in diesel,
+generating local jobs,
+
+
+952
+0:49:31,375 --> 0:49:34,875
+and keeping dollars
+in the community.
+
+
+953
+0:49:34,875 --> 0:49:36,83
+Dennis Charley:
+The community cuts wood
+
+
+954
+0:49:36,83 --> 0:49:37,583
+and brings it in
+and everything.
+
+
+955
+0:49:37,583 --> 0:49:41,167
+So instead of all the money
+going to the oil companies,
+
+
+956
+0:49:41,167 --> 0:49:43,958
+it's a community thing now.
+
+
+957
+0:49:43,958 --> 0:49:46,167
+Narrator: Baltimore, Maryland,
+is tapping what some call
+
+
+958
+0:49:46,167 --> 0:49:51,167
+the fifth fuel-- conservation
+and energy efficiency.
+
+
+959
+0:49:51,167 --> 0:49:54,42
+Experts think saving energy can
+cover almost one quarter
+
+
+960
+0:49:54,42 --> 0:49:57,42
+of U.S. needs by 2030.
+
+
+961
+0:49:57,42 --> 0:49:58,625
+Robbyn Lewis: We want
+Patterson Park neighborhood
+
+
+962
+0:49:58,625 --> 0:50:3,625
+to be the most energy efficient,
+greenest, most sustainable
+
+
+963
+0:50:3,625 --> 0:50:6,667
+neighborhood in the City,
+and by signing this pledge
+
+
+964
+0:50:6,667 --> 0:50:11,875
+you join like 120, 130
+other people who already signed.
+
+
+965
+0:50:11,875 --> 0:50:14,25
+Narrator: In their second year,
+the Baltimore Neighborhood
+
+
+966
+0:50:14,25 --> 0:50:17,375
+Energy Challenge saved more
+than 2 million kilowatt hours
+
+
+967
+0:50:17,375 --> 0:50:21,542
+and nearly 7% on gas
+and electric bills.
+
+
+968
+0:50:21,542 --> 0:50:25,583
+In Kansas, America's heartland,
+the Climate and Energy Project
+
+
+969
+0:50:25,583 --> 0:50:28,5
+used federal stimulus dollars
+to fund four prizes
+
+
+970
+0:50:28,5 --> 0:50:32,125
+of $100,000, to be awarded
+to the communities
+
+
+971
+0:50:32,125 --> 0:50:35,25
+that conserved
+the most energy.
+
+
+972
+0:50:35,25 --> 0:50:37,917
+That resulted in savings of
+more than two million dollars
+
+
+973
+0:50:37,917 --> 0:50:41,42
+in 2011,
+savings that are expected
+
+
+974
+0:50:41,42 --> 0:50:45,125
+to continue each year
+for the next decade.
+
+
+975
+0:50:45,125 --> 0:50:47,0
+Nancy Jackson: We're looking
+at energy efficiency
+
+
+976
+0:50:47,0 --> 0:50:49,875
+and presenting it
+as a win-win-win,
+
+
+977
+0:50:49,875 --> 0:50:52,875
+because it allows people
+to save money in their homes
+
+
+978
+0:50:52,875 --> 0:50:54,5
+and their churches
+and their businesses
+
+
+979
+0:50:54,5 --> 0:50:55,833
+and their communities.
+
+
+980
+0:50:55,833 --> 0:50:59,0
+It allows them to build
+their local economies because
+
+
+981
+0:50:59,0 --> 0:51:1,667
+it employs lots of people,
+installing insulation
+
+
+982
+0:51:1,667 --> 0:51:3,458
+and windows and appliances.
+
+
+983
+0:51:3,458 --> 0:51:7,25
+And at the same time,
+it insures a much more robust
+
+
+984
+0:51:7,25 --> 0:51:9,375
+and healthy energy future.
+
+
+985
+0:51:9,375 --> 0:51:10,833
+Narrator:
+But Richard Alley believes
+
+
+986
+0:51:10,833 --> 0:51:12,292
+building a clean and
+sustainable future
+
+
+987
+0:51:12,292 --> 0:51:15,375
+takes a sustained
+and national effort.
+
+
+988
+0:51:15,375 --> 0:51:18,25
+Alley: It took more than
+one hundred years for Shuman's
+
+
+989
+0:51:18,25 --> 0:51:22,0
+ideas of concentrated
+solar power to come to scale.
+
+
+990
+0:51:22,0 --> 0:51:24,375
+It took thirty years
+for Brazil to develop
+
+
+991
+0:51:24,375 --> 0:51:28,42
+a national infrastructure
+for sugar cane ethanol.
+
+
+992
+0:51:28,42 --> 0:51:31,667
+China needed six five-year
+plans to go from a poor,
+
+
+993
+0:51:31,667 --> 0:51:37,542
+agrarian society to a world
+leader in clean technology.
+
+
+994
+0:51:37,542 --> 0:51:38,958
+And the choices we make today
+
+
+995
+0:51:38,958 --> 0:51:41,583
+will shape
+America's energy future.
+
+
+996
+0:51:41,583 --> 0:51:45,792
+And what happens in China
+and Chicago, India, and Indiana,
+
+
+997
+0:51:45,792 --> 0:51:47,917
+will shape the planet.
+
+
+998
+0:51:47,917 --> 0:51:49,583
+The clock is ticking.
+
+
+999
+0:51:49,583 --> 0:51:52,292
+The longer we ignore what's
+needed to move forward
+
+
+1000
+0:51:52,292 --> 0:51:56,542
+with non-polluting energy
+sources, the more it'll cost,
+
+
+1001
+0:51:56,542 --> 0:52:0,375
+in cold cash,
+and a warmer planet.
+
+
+1002
+0:52:0,375 --> 0:52:3,333
+Earth's history and solid
+physics tell us
+
+
+1003
+0:52:3,333 --> 0:52:5,708
+the climate our kids
+and grandkids could see
+
+
+1004
+0:52:5,708 --> 0:52:9,625
+if we keep burning fossil fuels
+and releasing the CO2.
+
+
+1005
+0:52:9,625 --> 0:52:12,625
+But all of us are able to make
+the plans and choices
+
+
+1006
+0:52:12,625 --> 0:52:16,25
+we know will work to discover
+and develop new ways
+
+
+1007
+0:52:16,25 --> 0:52:18,292
+of Powering The Planet.
+
+
+1008
+0:52:18,292 --> 0:52:22,75
+For "Earth: The Operators'
+Manual", I'm Richard Alley.
+
+
+1009
+0:52:22,75 --> 0:52:27,83
+Announcer: Powering the Planet -
+Earth: The Operators' Manual
+
+
+1010
+0:52:27,83 --> 0:52:31,917
+is made possible by NSF, the
+National Science Foundation,
+
+
+1011
+0:52:31,917 --> 0:52:53,625
+where discoveries begin.
+
+
+1012
+0:52:53,625 --> 0:52:55,25
+Female narrator: 
+For the annotated script,
+
+
+1013
+0:52:55,25 --> 0:52:57,25
+with links to information
+on climate change
+
+
+1014
+0:52:57,25 --> 0:52:58,625
+and sustainability,
+
+
+1015
+0:52:58,625 --> 0:53:1,5
+online tools to help you save
+money and energy,
+
+
+1016
+0:53:1,5 --> 0:53:3,708
+educator resources,
+and much more--
+
+
+1017
+0:53:3,708 --> 0:53:9,542
+visit PBS.org/ E-T-O-M, ETOM
+
+
+1018
+0:53:9,542 --> 0:53:13,583
+Powering the Planet is available
+on DVD and Blu-ray disc.
+
+
+1019
+0:53:13,583 --> 0:53:15,542
+The companion book is also
+available.
+
+
+1020
+0:53:15,542 --> 0:53:18,583
+To order, visit ShopPBS.org
+
+
+1021
+0:53:18,583 --> 0:53:36,708
+or call us at 1-800-PLAY PBS.
+
+
+1022
+0:53:36,708 --> 0:53:38,875
+Richard Alley: To feed
+Earth's growing population
+
+
+1023
+0:53:38,875 --> 0:53:41,667
+we may need to double
+our food supply.
+
+
+1024
+0:53:41,667 --> 0:53:43,875
+And that may not be easy
+if we're burning
+
+
+1025
+0:53:43,875 --> 0:53:45,75
+a lot of our food for fuel.
+
+
+1026
+0:53:45,75 --> 0:53:49,75
+At NREL, D.O.E.'s National
+Renewable Energy Lab,
+
+
+1027
+0:53:49,75 --> 0:53:52,833
+they're engaged in aggressive
+research and development
+
+
+1028
+0:53:52,833 --> 0:53:55,0
+to try to extract sugars
+to make ethanol
+
+
+1029
+0:53:55,0 --> 0:53:57,5
+from non-food sources.
+
+
+1030
+0:53:57,5 --> 0:53:59,333
+So what are the big issues?
+
+
+1031
+0:53:59,333 --> 0:54:0,792
+How much is available?
+
+
+1032
+0:54:0,792 --> 0:54:2,208
+Jim McMillan:
+The challenge is economics,
+
+
+1033
+0:54:2,208 --> 0:54:4,417
+and it's projected
+that in the United States,
+
+
+1034
+0:54:4,417 --> 0:54:9,83
+we could be producing over
+a billion tons of this material,
+
+
+1035
+0:54:9,83 --> 0:54:12,25
+dry matter, on an annual basis.
+
+
+1036
+0:54:12,25 --> 0:54:14,167
+Richard Alley: NREL calculates
+that would convert
+
+
+1037
+0:54:14,167 --> 0:54:17,167
+into 80 billion gallons
+of ethanol,
+
+
+1038
+0:54:17,167 --> 0:54:20,292
+potentially replacing one third
+of all gasoline
+
+
+1039
+0:54:20,292 --> 0:54:22,375
+used in U.S. transportation.
+
+
+1040
+0:54:22,375 --> 0:54:25,417
+And that would cancel out
+all America's oil imports
+
+
+1041
+0:54:25,417 --> 0:54:28,5
+from the Middle East,
+Nigeria and Russia.
+
+
+1042
+0:54:28,5 --> 0:54:30,417
+Jim: We've heard a lot
+of articles about biofuels
+
+
+1043
+0:54:30,417 --> 0:54:33,375
+being done wrong,
+but if we do it right, biofuels
+
+
+1044
+0:54:33,375 --> 0:54:37,583
+can be a very significant
+part of the solution.
+
+
+1045
+0:54:37,583 --> 0:54:39,667
+Narrator: Modern sugar cane
+plantations like this one
+
+
+1046
+0:54:39,667 --> 0:54:44,42
+use machines for as much
+as 75% of the harvesting.
+
+
+1047
+0:54:44,42 --> 0:54:46,875
+Unlike the old days, planting
+is the only activity
+
+
+1048
+0:54:46,875 --> 0:54:49,792
+relying on manual labor.
+
+
+1049
+0:54:49,792 --> 0:54:51,583
+Jose Goldemberg:
+You know, the system became
+
+
+1050
+0:54:51,583 --> 0:54:54,708
+very efficient and used a lot
+of mechanization.
+
+
+1051
+0:54:54,708 --> 0:54:57,708
+Therefore, to use
+mechanization, you need
+
+
+1052
+0:54:57,708 --> 0:55:1,542
+a trained labor force
+and good machines.
+
+
+1053
+0:55:1,542 --> 0:55:4,583
+And sugar cane generates jobs.
+
+
+1054
+0:55:4,583 --> 0:55:7,292
+In Brazil, the sugar cane
+industry generates
+
+
+1055
+0:55:7,292 --> 0:55:10,5
+one million jobs
+of good quality,
+
+
+1056
+0:55:10,5 --> 0:55:14,542
+better than in other areas
+of agriculture.
+
+
+1057
+0:55:14,542 --> 0:55:16,25
+Narrator: Worldwide,
+there are legitimate concerns
+
+
+1058
+0:55:16,25 --> 0:55:18,958
+about diverting food
+and water into biofuels,
+
+
+1059
+0:55:18,958 --> 0:55:23,125
+and cutting down
+CO2-absorbing trees.
+
+
+1060
+0:55:23,125 --> 0:55:25,875
+But in recent years,
+rates of rainforest loss
+
+
+1061
+0:55:25,875 --> 0:55:30,208
+to agriculture in Brazil
+have fallen by close to 50%--
+
+
+1062
+0:55:30,208 --> 0:55:32,333
+and 90% of water used
+to fertilize
+
+
+1063
+0:55:32,333 --> 0:55:37,375
+and irrigate modern sugar cane
+plantations is recycled.
+
+
+1064
+0:55:37,375 --> 0:55:40,625
+Uncle Sam began building
+the Hoover Dam in 1931,
+
+
+1065
+0:55:40,625 --> 0:55:44,125
+and it was completed in 1936,
+under budget,
+
+
+1066
+0:55:44,125 --> 0:55:45,833
+and two years ahead
+of schedule.
+
+
+1067
+0:55:45,833 --> 0:55:48,167
+While the dam impacted
+the river ecosystem,
+
+
+1068
+0:55:48,167 --> 0:55:51,625
+it created jobs, provided water
+and power to millions,
+
+
+1069
+0:55:51,625 --> 0:55:54,625
+and has more than paid
+for itself.
+
+
+1070
+0:55:54,625 --> 0:55:56,542
+The Interstate Highway System
+was championed
+
+
+1071
+0:55:56,542 --> 0:56:0,792
+by President Eisenhower
+to support national defense.
+
+
+1072
+0:56:0,792 --> 0:56:2,583
+At more than
+400 billion dollars,
+
+
+1073
+0:56:2,583 --> 0:56:7,42
+it's one of the largest public
+works projects in history.
+
+
+1074
+0:56:7,42 --> 0:56:10,83
+Some say it led to America's
+over-reliance on cars
+
+
+1075
+0:56:10,83 --> 0:56:12,458
+and under-funding
+of mass transit,
+
+
+1076
+0:56:12,458 --> 0:56:16,5
+but it helped power decades
+of economic growth.
+
+
+1077
+0:56:16,5 --> 0:56:19,292
+And when the Defense
+Department, and later NSF,
+
+
+1078
+0:56:19,292 --> 0:56:22,83
+funded the development of what
+became today's Internet,
+
+
+1079
+0:56:22,83 --> 0:56:25,208
+some called it
+the Information Super-Highway.
+
+
+1080
+0:56:25,208 --> 0:56:28,125
+It's hard to think of America
+without rural electrification,
+
+
+1081
+0:56:28,125 --> 0:56:31,708
+Interstates and the Internet,
+and it's impossible to deny
+
+
+1082
+0:56:31,708 --> 0:56:34,125
+the critical role
+of the Federal government
+
+
+1083
+0:56:34,125 --> 0:58:34,125
+in building them. 
+
+

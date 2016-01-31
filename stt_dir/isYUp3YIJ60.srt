@@ -1,0 +1,1134 @@
+1
+0:0:0,0 --> 0:0:4,37
+
+
+
+2
+0:0:4,37 --> 0:0:8,7
+TED SOUTHERN: A space suit is
+an enclosure to protect a
+
+
+3
+0:0:8,7 --> 0:0:12,46
+human being from the extreme
+environments of space.
+
+
+4
+0:0:12,46 --> 0:0:15,91
+The classic way of talking
+about an EVA suit is a
+
+
+5
+0:0:15,91 --> 0:0:19,4
+spaceship for one.
+
+
+6
+0:0:19,4 --> 0:0:23,64
+So how is it possible for two
+guys to make space suits that
+
+
+7
+0:0:23,64 --> 0:0:27,24
+historically have been built
+by whole teams of people?
+
+
+8
+0:0:27,24 --> 0:0:28,39
+How is it possible?
+
+
+9
+0:0:28,39 --> 0:0:29,932
+Maybe we shouldn't
+be doing this.
+
+
+10
+0:0:29,932 --> 0:0:51,4
+
+
+
+11
+0:0:51,4 --> 0:0:52,84
+My name is Ted Southern.
+
+
+12
+0:0:52,84 --> 0:0:56,98
+We are here at the Final
+Frontier Design studio.
+
+
+13
+0:0:56,98 --> 0:1:32,61
+
+
+
+14
+0:1:32,61 --> 0:1:33,86
+NIK MOISEEV: [SPEAKING RUSSIAN]
+
+
+15
+0:1:33,86 --> 0:2:50,94
+
+
+
+16
+0:2:50,94 --> 0:2:53,27
+TED SOUTHERN: I moved to New
+York and told people I wanted
+
+
+17
+0:2:53,27 --> 0:2:55,77
+to make body armor for a living,
+and that was really my
+
+
+18
+0:2:55,77 --> 0:2:57,18
+goal in life.
+
+
+19
+0:2:57,18 --> 0:3:0,74
+And I was lucky, within about a
+year of living here, to find
+
+
+20
+0:3:0,74 --> 0:3:5,32
+a costume shop, Izquierdo
+Studios in Chelsea, that
+
+
+21
+0:3:5,32 --> 0:3:6,95
+actually did make body armor.
+
+
+22
+0:3:6,95 --> 0:3:9,77
+And 10 years at Izquierdo Studio
+taught me a lot of
+
+
+23
+0:3:9,77 --> 0:3:12,81
+different things about a lot
+of different materials.
+
+
+24
+0:3:12,81 --> 0:3:16,4
+I still do costuming
+now independently.
+
+
+25
+0:3:16,4 --> 0:3:18,8
+I got started making wings for
+Victoria's Secret, and I'm
+
+
+26
+0:3:18,8 --> 0:3:20,5
+still doing that now.
+
+
+27
+0:3:20,5 --> 0:3:25,13
+
+
+
+28
+0:3:25,13 --> 0:3:29,17
+I actually see a lot of
+commonality between costuming
+
+
+29
+0:3:29,17 --> 0:3:30,295
+and space suits.
+
+
+30
+0:3:30,295 --> 0:3:32,165
+You're obviously building
+for the human body.
+
+
+31
+0:3:32,165 --> 0:3:34,52
+You want something to be
+comfortable and functional.
+
+
+32
+0:3:34,52 --> 0:3:37,78
+I suppose, on paper, I would be
+the creative one coming up
+
+
+33
+0:3:37,78 --> 0:3:40,52
+with crazy ideas and Nik
+would keep me in line.
+
+
+34
+0:3:40,52 --> 0:3:42,83
+But sometimes it's the
+other way around.
+
+
+35
+0:3:42,83 --> 0:3:46,19
+With space suits, it's
+a longer process.
+
+
+36
+0:3:46,19 --> 0:3:48,54
+There's generally a little bit
+more money involved, a little
+
+
+37
+0:3:48,54 --> 0:3:50,15
+bit higher technology.
+
+
+38
+0:3:50,15 --> 0:3:53,64
+But I really see it as a
+continuum, and there's a great
+
+
+39
+0:3:53,64 --> 0:3:55,52
+deal of relation.
+
+
+40
+0:3:55,52 --> 0:4:0,33
+And Nik and I were competitors
+in the 2007 Astronaut Glove
+
+
+41
+0:4:0,33 --> 0:4:3,59
+Competition, which is part of
+NASA's Centennial Challenges,
+
+
+42
+0:4:3,59 --> 0:4:5,89
+sort of like the X PRIZES.
+
+
+43
+0:4:5,89 --> 0:4:9,32
+The challenge was to redesign
+a space suit glove to have
+
+
+44
+0:4:9,32 --> 0:4:11,93
+lower torque and higher mobility
+than NASA's current
+
+
+45
+0:4:11,93 --> 0:4:13,18
+technology.
+
+
+46
+0:4:13,18 --> 0:4:16,48
+
+
+
+47
+0:4:16,48 --> 0:4:18,88
+With the glove, it's been
+a consistent problem.
+
+
+48
+0:4:18,88 --> 0:4:21,51
+It's sort of the weak point of
+design for a space suit.
+
+
+49
+0:4:21,51 --> 0:4:24,88
+It is the most functional part
+of the suit, and a critical
+
+
+50
+0:4:24,88 --> 0:4:27,886
+part of astronaut efficiency.
+
+
+51
+0:4:27,886 --> 0:4:30,73
+Neither one of us won in 2007.
+
+
+52
+0:4:30,73 --> 0:4:33,39
+And I gave you a ride
+back to New York
+
+
+53
+0:4:33,39 --> 0:4:34,795
+City afterwards, right?
+
+
+54
+0:4:34,795 --> 0:4:36,41
+NIK MOISEEV: Right.
+
+
+55
+0:4:36,41 --> 0:4:37,725
+TED SOUTHERN: And kind
+of never thought I
+
+
+56
+0:4:37,725 --> 0:4:39,7
+would see him again.
+
+
+57
+0:4:39,7 --> 0:4:43,16
+But he kept in touch through
+email, and we decided to
+
+
+58
+0:4:43,16 --> 0:4:48,66
+become partners for the 2009
+Astronaut Glove Competition.
+
+
+59
+0:4:48,66 --> 0:4:51,835
+And we outperformed NASA's
+current technology and won
+
+
+60
+0:4:51,835 --> 0:4:52,36
+some money.
+
+
+61
+0:4:52,36 --> 0:4:57,99
+We won second place and formed
+an LLC from there.
+
+
+62
+0:4:57,99 --> 0:5:0,51
+So here at Final Frontier
+Design, we are working
+
+
+63
+0:5:0,51 --> 0:5:2,59
+specifically on IVA suits now.
+
+
+64
+0:5:2,59 --> 0:5:6,22
+We're trying to meet a market
+demand in the new commercial
+
+
+65
+0:5:6,22 --> 0:5:8,86
+space industry for launch
+and reentry suits.
+
+
+66
+0:5:8,86 --> 0:5:24,46
+
+
+
+67
+0:5:24,46 --> 0:5:27,145
+TED SOUTHERN: This is a vacuum
+chamber glove box.
+
+
+68
+0:5:27,145 --> 0:5:30,49
+It pulls pressure out from
+inside this chamber and mimics
+
+
+69
+0:5:30,49 --> 0:5:34,6
+that pressure differential you
+would have inside a suit.
+
+
+70
+0:5:34,6 --> 0:5:36,54
+The gloves are obviously really
+important to test on
+
+
+71
+0:5:36,54 --> 0:5:41,0
+their own as much as possible,
+because it really is the human
+
+
+72
+0:5:41,0 --> 0:5:42,215
+interaction with space.
+
+
+73
+0:5:42,215 --> 0:5:45,84
+It's how humans get work done,
+is with their hands.
+
+
+74
+0:5:45,84 --> 0:5:50,36
+But we can go in here and try
+different tests for dexterity.
+
+
+75
+0:5:50,36 --> 0:5:52,48
+One of the ones that I
+think is particularly
+
+
+76
+0:5:52,48 --> 0:5:54,26
+hard is this peg board.
+
+
+77
+0:5:54,26 --> 0:5:58,31
+Last time I was at the Johnson
+Space Center, we used their
+
+
+78
+0:5:58,31 --> 0:6:0,77
+vacuum chamber glove box,
+and inside they
+
+
+79
+0:6:0,77 --> 0:6:2,24
+had a Rubik's cube.
+
+
+80
+0:6:2,24 --> 0:6:5,534
+So I felt like I needed a
+Rubik's cube in my vacuum
+
+
+81
+0:6:5,534 --> 0:6:7,53
+chamber as well.
+
+
+82
+0:6:7,53 --> 0:6:11,61
+So this is what we call the
+Frontier Prime, it's our first
+
+
+83
+0:6:11,61 --> 0:6:13,25
+full-body pressure garment.
+
+
+84
+0:6:13,25 --> 0:6:16,66
+This suit was a collaboration
+between the two of us, Nikolay
+
+
+85
+0:6:16,66 --> 0:6:18,11
+built the outer garment.
+
+
+86
+0:6:18,11 --> 0:6:20,12
+So this is what we call
+the 2G suit, the
+
+
+87
+0:6:20,12 --> 0:6:21,88
+second generation suit.
+
+
+88
+0:6:21,88 --> 0:6:25,28
+The real advantage of this suit
+is it's almost entirely
+
+
+89
+0:6:25,28 --> 0:6:26,53
+single layer.
+
+
+90
+0:6:26,53 --> 0:6:30,6
+
+
+
+91
+0:6:30,6 --> 0:6:33,39
+So it is a challenge for two
+guys to be making space suits
+
+
+92
+0:6:33,39 --> 0:6:34,71
+when historically it's been the
+
+
+93
+0:6:34,71 --> 0:6:37,4
+dominion of crews of engineers.
+
+
+94
+0:6:37,4 --> 0:6:43,51
+
+
+
+95
+0:6:43,51 --> 0:6:46,85
+But we've made a lot of
+accomplishments so far.
+
+
+96
+0:6:46,85 --> 0:6:49,3
+Obviously, we started with
+gloves, which are one of the
+
+
+97
+0:6:49,3 --> 0:6:52,22
+most specific and heavy-designed
+parts of a
+
+
+98
+0:6:52,22 --> 0:6:53,64
+space suit.
+
+
+99
+0:6:53,64 --> 0:6:57,23
+And we've made a great deal of
+improvements over the years in
+
+
+100
+0:6:57,23 --> 0:7:0,26
+not just our gloves, but
+obviously we've moved on to a
+
+
+101
+0:7:0,26 --> 0:7:0,93
+whole suit.
+
+
+102
+0:7:0,93 --> 0:7:4,17
+We're testing at levels that
+NASA tests at, as far as
+
+
+103
+0:7:4,17 --> 0:7:6,836
+leakage rates, as far as range
+of motion, as far as cycling,
+
+
+104
+0:7:6,836 --> 0:7:8,86
+as far as torque.
+
+
+105
+0:7:8,86 --> 0:7:10,99
+
+
+
+106
+0:7:10,99 --> 0:7:33,17
+
+
+
+107
+0:7:33,17 --> 0:7:34,11
+TED SOUTHERN: It's low weight.
+
+
+108
+0:7:34,11 --> 0:7:39,54
+It's low mass, which is a huge
+driver in space travel.
+
+
+109
+0:7:39,54 --> 0:7:41,3
+There are generally considered
+to be two
+
+
+110
+0:7:41,3 --> 0:7:42,82
+kinds of space suits.
+
+
+111
+0:7:42,82 --> 0:7:46,53
+One is an IVA suit, which is
+sort of a launch, reentry, and
+
+
+112
+0:7:46,53 --> 0:7:47,66
+docking suit.
+
+
+113
+0:7:47,66 --> 0:7:49,243
+IVA is Intra-Vehicular
+Activity.
+
+
+114
+0:7:49,243 --> 0:7:52,48
+
+
+
+115
+0:7:52,48 --> 0:7:56,5
+The EVA suits, Extra-Vehicular
+Activity, are a lot more
+
+
+116
+0:7:56,5 --> 0:7:56,76
+complicated.
+
+
+117
+0:7:56,76 --> 0:8:0,61
+They have life support generally
+on their back.
+
+
+118
+0:8:0,61 --> 0:8:3,9
+They have enclosures over the
+pressure garment that protect
+
+
+119
+0:8:3,9 --> 0:8:5,33
+from thermal extremes,
+
+
+120
+0:8:5,33 --> 0:8:8,92
+micrometeoroids, sometimes radiation.
+
+
+121
+0:8:8,92 --> 0:8:11,83
+Even before Americans were
+going to space, they were
+
+
+122
+0:8:11,83 --> 0:8:14,41
+going to very high altitudes
+where they needed protection
+
+
+123
+0:8:14,41 --> 0:8:16,79
+from the extreme environment.
+
+
+124
+0:8:16,79 --> 0:8:20,28
+And I think the most classic
+case of-- the pioneer of that
+
+
+125
+0:8:20,28 --> 0:8:23,74
+is Wiley Post.
+
+
+126
+0:8:23,74 --> 0:8:27,9
+He's an early aviator who did
+a lot of experience with
+
+
+127
+0:8:27,9 --> 0:8:27,99
+pressure garments.
+
+
+128
+0:8:27,99 --> 0:8:30,74
+He had a distinct advantage
+because he only had one eye,
+
+
+129
+0:8:30,74 --> 0:8:34,74
+so he could turn the visor of
+his helmet to one side and get
+
+
+130
+0:8:34,74 --> 0:8:36,13
+good peripheral vision.
+
+
+131
+0:8:36,13 --> 0:8:39,1
+He used pretty crude and
+rudimentary things-- squirrel
+
+
+132
+0:8:39,1 --> 0:8:44,15
+fur and really thick rubber and
+very restricted mobility--
+
+
+133
+0:8:44,15 --> 0:8:49,83
+and was very dependent on the
+capsule that he was in.
+
+
+134
+0:8:49,83 --> 0:8:51,8
+NIK MOISEEV: [SPEAKING RUSSIAN]
+
+
+135
+0:8:51,8 --> 0:9:17,3
+
+
+
+136
+0:9:17,3 --> 0:9:20,4
+TED SOUTHERN: Obviously, with
+NASA, space suits improved
+
+
+137
+0:9:20,4 --> 0:9:21,5
+quite a bit.
+
+
+138
+0:9:21,5 --> 0:9:25,5
+The Mercury suits were much
+more anthropomorphic and
+
+
+139
+0:9:25,5 --> 0:9:30,716
+functional, but we didn't
+see EVA until Gemini.
+
+
+140
+0:9:30,716 --> 0:9:34,89
+The Apollo suits that went to
+the Moon were even a great
+
+
+141
+0:9:34,89 --> 0:9:37,35
+deal more functional than the
+Gemini suits who only saw
+
+
+142
+0:9:37,35 --> 0:9:39,318
+limited EVA.
+
+
+143
+0:9:39,318 --> 0:9:41,7
+-I like to skip along.
+
+
+144
+0:9:41,7 --> 0:9:42,18
+-Not me, boy.
+
+
+145
+0:9:42,18 --> 0:9:42,892
+Skip.
+
+
+146
+0:9:42,892 --> 0:9:44,47
+-Well, whatever you call it.
+
+
+147
+0:9:44,47 --> 0:9:47,28
+
+
+
+148
+0:9:47,28 --> 0:9:48,53
+NIK MOISEEV: [SPEAKING RUSSIAN]
+
+
+149
+0:9:48,53 --> 0:10:7,36
+
+
+
+150
+0:10:7,36 --> 0:10:10,26
+TED SOUTHERN: Today's current
+EMU has a really
+
+
+151
+0:10:10,26 --> 0:10:12,9
+long lifespan on orbit.
+
+
+152
+0:10:12,9 --> 0:10:17,62
+It's capable of 8 to 10 hour
+EVAs, through a great variety
+
+
+153
+0:10:17,62 --> 0:10:18,78
+of sizes of people.
+
+
+154
+0:10:18,78 --> 0:10:21,6
+There are females and males
+who are doing work
+
+
+155
+0:10:21,6 --> 0:10:22,57
+in space suits now.
+
+
+156
+0:10:22,57 --> 0:10:27,53
+So it's come a long way since
+Wiley Post for sure.
+
+
+157
+0:10:27,53 --> 0:10:29,624
+-Wave for the camera.
+
+
+158
+0:10:29,624 --> 0:10:31,456
+That's good.
+
+
+159
+0:10:31,456 --> 0:10:31,92
+All right.
+
+
+160
+0:10:31,92 --> 0:10:33,17
+NIK MOISEEV: [SPEAKING RUSSIAN]
+
+
+161
+0:10:33,17 --> 0:10:42,65
+
+
+
+162
+0:10:42,65 --> 0:10:44,14
+TED SOUTHERN: So I'm pretty
+excited about the waist belt.
+
+
+163
+0:10:44,14 --> 0:10:46,628
+We really need to
+work on that.
+
+
+164
+0:10:46,628 --> 0:10:48,436
+NIK MOISEEV: I am
+so hungry that--
+
+
+165
+0:10:48,436 --> 0:10:49,1
+TED SOUTHERN: Are you hungry?
+
+
+166
+0:10:49,1 --> 0:10:50,83
+But we just ate.
+
+
+167
+0:10:50,83 --> 0:10:54,83
+So in June of this year, June
+of 2012, we launched a
+
+
+168
+0:10:54,83 --> 0:10:59,71
+Kickstarter campaign to help
+us support our new company,
+
+
+169
+0:10:59,71 --> 0:11:3,45
+and to really sort of announce
+that we're ready to build a
+
+
+170
+0:11:3,45 --> 0:11:5,35
+flight-certified suit.
+
+
+171
+0:11:5,35 --> 0:11:8,31
+So thank you for your
+Kickstarter support.
+
+
+172
+0:11:8,31 --> 0:11:8,79
+All right.
+
+
+173
+0:11:8,79 --> 0:11:11,67
+NIK MOISEEV: Give me five.
+
+
+174
+0:11:11,67 --> 0:11:12,51
+TED SOUTHERN: We were
+successful.
+
+
+175
+0:11:12,51 --> 0:11:14,37
+We reached our funding goals.
+
+
+176
+0:11:14,37 --> 0:11:17,6
+But I think more importantly
+than that, we got customers.
+
+
+177
+0:11:17,6 --> 0:11:18,12
+We got press.
+
+
+178
+0:11:18,12 --> 0:11:21,75
+We got people aware
+of our project.
+
+
+179
+0:11:21,75 --> 0:11:24,71
+We are working now with
+Zero2Infinity, which is, as I
+
+
+180
+0:11:24,71 --> 0:11:27,88
+mentioned, the Spanish
+high-altitude balloon company.
+
+
+181
+0:11:27,88 --> 0:11:31,82
+I think it'll give a lot of
+validation to work at altitude
+
+
+182
+0:11:31,82 --> 0:11:34,86
+and to test these suits in
+flight before they start going
+
+
+183
+0:11:34,86 --> 0:11:36,1
+on rockets.
+
+
+184
+0:11:36,1 --> 0:11:38,0
+So we're really excited
+be working with them.
+
+
+185
+0:11:38,0 --> 0:11:52,5
+
+
+
+186
+0:11:52,5 --> 0:11:56,89
+It's exciting for us to be
+around in this time where the
+
+
+187
+0:11:56,89 --> 0:12:0,1
+commercial industry is just
+starting to exist.
+
+
+188
+0:12:0,1 --> 0:12:4,68
+I think there's a lot of very
+optimistic people saying next
+
+
+189
+0:12:4,68 --> 0:12:6,29
+year we'll fly.
+
+
+190
+0:12:6,29 --> 0:12:9,22
+It's a long wait, but I think
+it's really exciting that it's
+
+
+191
+0:12:9,22 --> 0:12:10,6
+actually happening.
+
+
+192
+0:12:10,6 --> 0:12:12,18
+And I think once the industry
+gains a little bit of
+
+
+193
+0:12:12,18 --> 0:12:15,25
+traction, it will really
+expand quite quickly.
+
+
+194
+0:12:15,25 --> 0:12:25,22
+
+
+
+195
+0:12:25,22 --> 0:12:29,78
+It's part of human destiny
+to move beyond Earth.
+
+
+196
+0:12:29,78 --> 0:12:32,74
+It may take a long time,
+but I think that
+
+
+197
+0:12:32,74 --> 0:12:33,78
+it's part of our future.
+
+
+198
+0:12:33,78 --> 0:12:35,87
+There's a great William
+Burroughs quote where he says
+
+
+199
+0:12:35,87 --> 0:12:40,845
+human beings are not destined
+to remain human beings any
+
+
+200
+0:12:40,845 --> 0:12:44,71
+more than a tadpole is destined
+to remain a tadpole.
+
+
+201
+0:12:44,71 --> 0:12:46,67
+We will evolve.
+
+
+202
+0:12:46,67 --> 0:12:48,63
+We will move on past Earth.
+
+
+203
+0:12:48,63 --> 0:12:49,88
+NIK MOISEEV: [SPEAKING RUSSIAN].
+
+
+204
+0:12:49,88 --> 0:14:49,88
+
+
+

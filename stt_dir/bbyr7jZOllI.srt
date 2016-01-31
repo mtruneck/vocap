@@ -1,0 +1,2508 @@
+1
+0:0:0,16 --> 0:0:4,299
+>> For our presentation today from Kirk Sorensen,
+the founder of Flibe Energy. Kirk has been
+
+
+2
+0:0:4,299 --> 0:0:8,549
+a promoter of energy from Thorium for a long
+time as [INDISTINCT] energyfromthorium.com
+
+
+3
+0:0:8,549 --> 0:0:14,919
+where pretty big community of amateurs and
+experts from around the world that had been
+
+
+4
+0:0:14,919 --> 0:0:19,84
+contributing to the community effort to define
+what would be the optimal Thorium reactor,
+
+
+5
+0:0:19,84 --> 0:0:24,46
+nuclear reactor which generates electricity
+from Thorium. This is a technology that's
+
+
+6
+0:0:24,46 --> 0:0:32,11
+been around for a long time since, shortly
+after World War Two. It was matured well up
+
+
+7
+0:0:32,11 --> 0:0:35,42
+until early 1970s and then, and then kind
+of suddenly ended in favor of the liquid-metal
+
+
+8
+0:0:35,42 --> 0:0:41,75
+fast breeder reactor which then also ended.
+And Kirk will give us a talk today and explain
+
+
+9
+0:0:41,75 --> 0:0:46,57
+kind of what went wrong, why it stopped, why
+it--how is this been done. You know, if it's
+
+
+10
+0:0:46,57 --> 0:0:50,35
+such a great idea, why aren’t we doing it?
+And their actions have very good reasons for
+
+
+11
+0:0:50,35 --> 0:0:54,98
+that and maybe other reasons are cost and
+then, maybe we should start doing it again.
+
+
+12
+0:0:54,98 --> 0:0:57,78
+So, please have Kirk Sorensen.
+>> SORENSEN: Thank you very much, Chris. I'm
+
+
+13
+0:0:57,78 --> 0:1:1,859
+very glad to be here at Google today and given
+another Tech-talk. I always enjoy coming and
+
+
+14
+0:1:1,859 --> 0:1:6,68
+been a part of these things. The question
+that I'm going to try to answer today is one
+
+
+15
+0:1:6,68 --> 0:1:10,84
+that I'm often asked as I give presentations
+on Thorium. In fact, I'm almost always asked
+
+
+16
+0:1:10,84 --> 0:1:16,1
+this question which is, "Kirk, Thorium sounds
+like a great idea. It sounds like it's a good
+
+
+17
+0:1:16,1 --> 0:1:20,87
+technology, why didn’t this happen?" We
+are Flibe Energy a new company to develop
+
+
+18
+0:1:20,87 --> 0:1:26,8
+liquid fluoride Thorium reactor technology.
+We're following the vision of Alvin Weinberg.
+
+
+19
+0:1:26,8 --> 0:1:31,32
+He was the director of Oak Ridge National
+Lab from the 50s to the 1970s and he had a
+
+
+20
+0:1:31,32 --> 0:1:37,1
+vision of how we could use Thorium to advance
+beyond the current constrains of our society
+
+
+21
+0:1:37,1 --> 0:1:43,14
+in terms of fossil fuels, hydro power and
+existing nuclear technology. One of the amazing
+
+
+22
+0:1:43,14 --> 0:1:47,49
+parts about his vision was how this could
+transform not only the US economy but many
+
+
+23
+0:1:47,49 --> 0:1:52,25
+other places in the world. Some of which don’t
+have the resources that we have in terms of
+
+
+24
+0:1:52,25 --> 0:1:57,44
+fresh water or arable land. This is a vision
+he had of how Thorium reactors could be used
+
+
+25
+0:1:57,44 --> 0:2:3,28
+to desalinate water, grow crops in desert
+areas and to some of us like caught terraforming
+
+
+26
+0:2:3,28 --> 0:2:9,5
+the earth, but to really truly change the
+economic balance of the world. Weinberg's
+
+
+27
+0:2:9,5 --> 0:2:13,8
+vision on the other hand, was brought to an
+end in the early 1970s and that is really
+
+
+28
+0:2:13,8 --> 0:2:18,13
+the subject of the talk today. There really
+were three options for nuclear energy at the
+
+
+29
+0:2:18,13 --> 0:2:23,95
+dawn of the nuclear era. There was Uranium-235
+which was fissile form of Uranium. This was
+
+
+30
+0:2:23,95 --> 0:2:28,8
+the form of Uranium, they could actually be
+utilized directly in a nuclear reactor. Most
+
+
+31
+0:2:28,8 --> 0:2:34,61
+of the Uranium was the Uranium-238. This had
+to be transformed into another nuclear fuel
+
+
+32
+0:2:34,61 --> 0:2:38,75
+called Plutonium before it could be used.
+And then there was Thorium and in a similar
+
+
+33
+0:2:38,75 --> 0:2:45,32
+magnitude reining 238, it also had to be transformed
+into another nuclear fuel, Uranium-233 before
+
+
+34
+0:2:45,32 --> 0:2:49,88
+it could use in a reactor. There were some
+significant differences though between these
+
+
+35
+0:2:49,88 --> 0:2:55,2
+three fuels. As I mentioned, Uranium-235 could
+be used directly. The other two had to be
+
+
+36
+0:2:55,2 --> 0:2:59,48
+transformed and that meant, they needed two
+neutrons to be consumed, one to transform
+
+
+37
+0:2:59,48 --> 0:3:3,96
+them and one to fission them. And in order
+for this to be a sustainable process, you
+
+
+38
+0:3:3,96 --> 0:3:8,36
+have to know what will they emit more than
+two neutrons when they fission. And the answer
+
+
+39
+0:3:8,36 --> 0:3:13,43
+was, "Yes, they did." In fact, all three of
+them emitted more than two neutrons when they
+
+
+40
+0:3:13,43 --> 0:3:18,33
+fission. Here was Uranium-235, Uranium-233
+admitted about two and a half neutrons per
+
+
+41
+0:3:18,33 --> 0:3:23,74
+fission and Plutonium with fission with almost
+three neutrons per fission. So, it would emit
+
+
+42
+0:3:23,74 --> 0:3:28,59
+the most neutrons when it fissions. So, the
+first answer was yes. All three of the fuels
+
+
+43
+0:3:28,59 --> 0:3:33,33
+gave off enough neutrons to sustain their
+consumption of reactor. But there was more
+
+
+44
+0:3:33,33 --> 0:3:39,15
+to the story, this is a busy graph and I apologize
+in advance for it. But it tells the story
+
+
+45
+0:3:39,15 --> 0:3:43,9
+of much of our nuclear history. And what it
+shows is, Plutonium doesn’t emit enough
+
+
+46
+0:3:43,9 --> 0:3:49,83
+neutrons when it isn’t being fission by
+fast neutrons in order to continue the conversion
+
+
+47
+0:3:49,83 --> 0:3:56,349
+of future Uranium into Plutonium to continue
+its breeding. It has to be fissioned by fast
+
+
+48
+0:3:56,349 --> 0:4:2,12
+neutrons in order to do this. On the other
+hand, Thorium and Uranium-233 produce enough
+
+
+49
+0:4:2,12 --> 0:4:7,13
+neutrons in both thermal and fast fission
+to continue the utilization of that fuel.
+
+
+50
+0:4:7,13 --> 0:4:12,61
+I call it the Threshold of Two, and it's not
+just about how many neutrons they emit, but
+
+
+51
+0:4:12,61 --> 0:4:17,22
+how many neutrons they emit even accounting
+for absorption. Because they don’t always
+
+
+52
+0:4:17,22 --> 0:4:23,169
+fission every single time they're hit by a
+neutron. Uranium-233 and Plutonium-239 of
+
+
+53
+0:4:23,169 --> 0:4:30,75
+those two in thermal neutrons, only Uranium-233
+crosses the Threshold of Two. In fast fission
+
+
+54
+0:4:30,75 --> 0:4:38,9
+on the other hand, both Uranium-233 and Plutonium-239
+crossed the Threshold of Two. So, it would
+
+
+55
+0:4:38,9 --> 0:4:42,46
+seem, what we just want a fast reactor. We
+don’t want a reactor that uses slow down
+
+
+56
+0:4:42,46 --> 0:4:47,77
+thermal neutrons, we want a fast reactor because--then
+we will great confidence that we will be able
+
+
+57
+0:4:47,77 --> 0:4:53,77
+to sustain the consumption of nuclear fuel.
+Well, there's a powerful disincentive to doing
+
+
+58
+0:4:53,77 --> 0:4:59,47
+it this way and it has to do with what are
+called, Cross-Sections. These are mathematical
+
+
+59
+0:4:59,47 --> 0:5:5,21
+way of describing how likely it is that a
+nuclear reaction will proceed and they the
+
+
+60
+0:5:5,21 --> 0:5:11,22
+form of areas, quite literally in area someone's
+called "a barn" which is, 10 to the minus
+
+
+61
+0:5:11,22 --> 0:5:16,72
+24 square centimeters. This is a really, really,
+really small unit to variat. But this is the
+
+
+62
+0:5:16,72 --> 0:5:22,55
+unit that nuclear engineers used to describe
+how probable a nuclear reaction is. This is
+
+
+63
+0:5:22,55 --> 0:5:29,7
+the cross-section of Uranium-233 to a thermal
+neutron. By comparison, this very, very small
+
+
+64
+0:5:29,7 --> 0:5:33,86
+circle right here is the cross-section of
+Uranium 233 to a fast neutron. So, it's not
+
+
+65
+0:5:33,86 --> 0:5:40,74
+hard to see which one is more likely to have
+a fission reaction. A thermal neutron is far
+
+
+66
+0:5:40,74 --> 0:5:45,35
+more likely to cause the fission reaction
+than a fast neutron. So, the advantage now
+
+
+67
+0:5:45,35 --> 0:5:50,79
+seems to be for the thermal reactors. This
+is a general feature of almost all nuclear
+
+
+68
+0:5:50,79 --> 0:5:55,76
+materials that their cross-sections are much
+larger to thermal neutrons than they are to
+
+
+69
+0:5:55,76 --> 0:6:1,729
+fast neutrons. Here we see the cross-section
+of Plutonium. It's huge in the thermal spectrum
+
+
+70
+0:6:1,729 --> 0:6:7,57
+and it's very, very small in the fast spectrum.
+And that means that Plutonium is much more
+
+
+71
+0:6:7,57 --> 0:6:13,52
+likely to have a nuclear reaction to a slow
+down neutron than to a fast neutron. So again,
+
+
+72
+0:6:13,52 --> 0:6:21,2
+why consider a fast reactor? Well, it's because--look
+at these red regions. Those regions indicate
+
+
+73
+0:6:21,2 --> 0:6:25,36
+the probability that the neutron will be absorbed
+but not cause a fission, that it will simply
+
+
+74
+0:6:25,36 --> 0:6:31,99
+just be absorbed. You can see that, that probability
+is about 10% for Uranium-233 in the thermal.
+
+
+75
+0:6:31,99 --> 0:6:38,5
+But if we were to magnify that cross-section,
+significantly by factor of 500, you could
+
+
+76
+0:6:38,5 --> 0:6:44,93
+see that, that probability becomes much smaller
+in the fast spectrum. A fast neutron if it
+
+
+77
+0:6:44,93 --> 0:6:50,15
+is absorbed almost always will cause a fission.
+This is significant for Uranium-233 but it's
+
+
+78
+0:6:50,15 --> 0:6:55,86
+much more significant for Plutonium 239. It
+will absorb a neutron about one-third of the
+
+
+79
+0:6:55,86 --> 0:7:1,68
+time and not cause a fission. But in the fast
+spectrum, it will almost always cause a fission.
+
+
+80
+0:7:1,68 --> 0:7:8,62
+So, to make sure that we cross that Threshold
+of Two, it was necessary to build fast reactors
+
+
+81
+0:7:8,62 --> 0:7:14,229
+that would use Plutonium. On the other hand,
+it was conceivable that you could build thermal
+
+
+82
+0:7:14,229 --> 0:7:21,4
+or fast reactors that would use Uranium-233.
+This uncertainty was not particularly appearing
+
+
+83
+0:7:21,4 --> 0:7:25,1
+at the time. They wanted to move out in directions
+that they felt very confident it. So, the
+
+
+84
+0:7:25,1 --> 0:7:31,889
+United States began to pursue a fast breeder
+reactor. In 1951, they build the experimental
+
+
+85
+0:7:31,889 --> 0:7:36,8
+breeder reactor one in Idaho. This was a fast
+breeder reactor. This was a reactor that was
+
+
+86
+0:7:36,8 --> 0:7:42,33
+going to not slow down neutrons but use fast
+neutrons to convert Uranium into Plutonium
+
+
+87
+0:7:42,33 --> 0:7:46,57
+and to breed from it. This was actually the
+first reactor to generate some power. It lit
+
+
+88
+0:7:46,57 --> 0:7:50,919
+four little light bulbs and ultimately generated,
+I believe several hundred kilowatts of power.
+
+
+89
+0:7:50,919 --> 0:7:56,389
+But it shows how early the United States was
+moving out on the fast breeder reactor. It
+
+
+90
+0:7:56,389 --> 0:8:2,5
+was followed by the experimental breed reactor
+number two, which was also a fast breeder
+
+
+91
+0:8:2,5 --> 0:8:8,35
+reactor much larger this time. It made 62
+megawatts of thermal power. Industry got excited
+
+
+92
+0:8:8,35 --> 0:8:14,63
+about the potential for making breeder reactors.
+This was actually a commercial reactor, The
+
+
+93
+0:8:14,63 --> 0:8:21,46
+Enrico Fermi Breeder Reactor in Monroe Michigan.
+They began working on this reactor in 1957
+
+
+94
+0:8:21,46 --> 0:8:28,66
+and it achieved criticality in 1966. But shortly
+after it achieved criticality, they had a
+
+
+95
+0:8:28,66 --> 0:8:33,929
+melt down at the Enrico Fermi Reactor where
+the reactor was damaged and shut down. At
+
+
+96
+0:8:33,929 --> 0:8:39,29
+this time, Alvin Weinberg and his colleagues
+at the Oak Ridge National Labs were working
+
+
+97
+0:8:39,29 --> 0:8:44,49
+on Molten-salt Reactors. These were reactors
+that didn’t operate in the fast spectrum.
+
+
+98
+0:8:44,49 --> 0:8:49,449
+They operate to slow down neutrons and they
+predominantly were interested in using Thorium
+
+
+99
+0:8:49,449 --> 0:8:55,23
+and Uranium-233. Weinberg wrote an introduction
+to a series of papers that were published
+
+
+100
+0:8:55,23 --> 0:9:1,149
+in a nuclear journal in 1969. And these are
+some of the words that he used and I've always
+
+
+101
+0:9:1,149 --> 0:9:7,259
+found it very interesting how careful and
+measured he was with his utilization of language.
+
+
+102
+0:9:7,259 --> 0:9:11,839
+Because he knew that most of the effort of
+the country was on the fast breeder reactor
+
+
+103
+0:9:11,839 --> 0:9:17,189
+and very little in comparison was on the Molten-Salt
+Reactor. And he said, "The prevailing view
+
+
+104
+0:9:17,189 --> 0:9:23,209
+holds that the liquid-metal fast breeder reactor
+is the proper path to ubiquitous permanent
+
+
+105
+0:9:23,209 --> 0:9:28,129
+energy. It is no secret that I, as well many
+of my colleagues at Oak Ridge, have always
+
+
+106
+0:9:28,129 --> 0:9:34,269
+felt differently. When the idea of the breeder
+was first suggested in 1943, the rapid and
+
+
+107
+0:9:34,269 --> 0:9:39,92
+the efficient recycle of the partially spec
+core was regarded as the main problem. Nothing
+
+
+108
+0:9:39,92 --> 0:9:44,819
+that has happened in the ensuing quarter century
+has fundamentally changed this." So, Weinberg
+
+
+109
+0:9:44,819 --> 0:9:51,499
+begins to lay out the scenario that physics
+hasn't changed and unless you can rapidly
+
+
+110
+0:9:51,499 --> 0:9:56,769
+reprocess nuclear fuel, you won't be able
+to realize the benefits of the breeder reactor.
+
+
+111
+0:9:56,769 --> 0:10:1,73
+He then goes on to offer an alternative to
+the prevailing view. The successful breeder
+
+
+112
+0:10:1,73 --> 0:10:7,269
+will be the one that can deal with the spent
+fuel or the spent core most rationally either
+
+
+113
+0:10:7,269 --> 0:10:13,29
+by achieving extremely long burn up or by
+greatly simplifying the entire recycle step.
+
+
+114
+0:10:13,29 --> 0:10:17,6
+We at Oak Ridge, have always been intrigued
+by this latter possibility. It explains our
+
+
+115
+0:10:17,6 --> 0:10:22,989
+long commitment to liquid fuel reactors, first,
+the Aqueous homogenous and now the Molten-salt.
+
+
+116
+0:10:22,989 --> 0:10:28,41
+So, he presented a different scenario, how
+they could use fluid field reactors to achieve
+
+
+117
+0:10:28,41 --> 0:10:34,269
+the overall goal of the efficient utilization
+of nuclear fuel. And the series of papers
+
+
+118
+0:10:34,269 --> 0:10:39,189
+that followed in this were some of the first
+discussions in the nuclear literature about
+
+
+119
+0:10:39,189 --> 0:10:43,189
+the potential of the Molten-salt reactor.
+It was not well-known. The moneys that had
+
+
+120
+0:10:43,189 --> 0:10:48,319
+been appropriated in order to research the
+different breeder reactor types are listed
+
+
+121
+0:10:48,319 --> 0:10:51,97
+in this graph and I found this graph, thanks
+to a book that had been scanned into Google
+
+
+122
+0:10:51,97 --> 0:10:56,389
+books. Thanks. So, project started by my good
+friend, Chris Eucare here, so I greatly appreciate--this
+
+
+123
+0:10:56,389 --> 0:11:0,29
+is one of the many things I'm sure people
+have done with your work. Numbers are one
+
+
+124
+0:11:0,29 --> 0:11:5,209
+thing, so I took it and threw it in a spreadsheet
+and made a nice graph. The red line shows
+
+
+125
+0:11:5,209 --> 0:11:9,73
+the expenditures on the fast breeder reactor,
+and this graph only begin to 1968. At that
+
+
+126
+0:11:9,73 --> 0:11:15,949
+point, the United States had already built
+several fast breeder reactors. We're looking
+
+
+127
+0:11:15,949 --> 0:11:22,59
+at 75 to nearly a hundred million dollars
+in 1968. It's very hard to see the green line
+
+
+128
+0:11:22,59 --> 0:11:26,959
+for the Molten-salt breeder reactor technology,
+it's extremely low and then ultimately, it
+
+
+129
+0:11:26,959 --> 0:11:32,119
+was cancelled and briefly resurrected in 1975
+and then cancelled again. So, on a scale of
+
+
+130
+0:11:32,119 --> 0:11:36,899
+the appropriations that were made to the fast
+breeder reactor, you've just about can't see
+
+
+131
+0:11:36,899 --> 0:11:43,559
+the appropriations that were made to the Molten-salt
+breeder reactor. In June of 1971, President
+
+
+132
+0:11:43,559 --> 0:11:50,769
+Richard Nixon made a speech where he talked
+about the need for the fast breeder reactor.
+
+
+133
+0:11:50,769 --> 0:11:55,739
+He put the United States on record that this
+would be a top national goal. Now, we don't
+
+
+134
+0:11:55,739 --> 0:12:0,769
+have any video from the speech he gave that
+day. But later on in that day, he called Representative
+
+
+135
+0:12:0,769 --> 0:12:5,67
+Craig Hosmer from California to tell him about
+the speech about the breeder reactor.
+
+
+136
+0:12:5,67 --> 0:12:8,47
+>> Yeah.
+>> Calling for Craig Hosmer, sir. Ready?
+
+
+137
+0:12:8,47 --> 0:12:10,6
+>> HOSMER: Oh.
+>> NIXON: Okay.
+
+
+138
+0:12:10,6 --> 0:12:13,999
+>> HOSMER: Mister President?
+>> NIXON: Since you missed our meeting when
+
+
+139
+0:12:13,999 --> 0:12:16,329
+we had--on a breeder reactor, you know...
+>> HOSMER: Okay.
+
+
+140
+0:12:16,329 --> 0:12:19,429
+>> NIXON: ...I wanted you to know that we
+sent a message today, Craig but then I just
+
+
+141
+0:12:19,429 --> 0:12:23,399
+told Zigler that--I told Zigler to tell the
+press that there's a by part [INDISTINCT]
+
+
+142
+0:12:23,399 --> 0:12:26,29
+that you and [INDISTINCT]
+>> HOSMER: All right.
+
+
+143
+0:12:26,29 --> 0:12:29,98
+>> NIXON: ...had been bugged me about it.
+The one thing I wanted to tell you too is
+
+
+144
+0:12:29,98 --> 0:12:34,519
+that, I--Holified was there last night at
+the [INDISTINCT] Club thing, and I--and I
+
+
+145
+0:12:34,519 --> 0:12:38,899
+have told the people around here--now, this
+is got to be something we play very close
+
+
+146
+0:12:38,899 --> 0:12:43,949
+to the vest, but I'm being ruthless on one
+thing, any activities that we possibly can,
+
+
+147
+0:12:43,949 --> 0:12:49,249
+should be placed in southern California in
+this field. And also, in the saline water
+
+
+148
+0:12:49,249 --> 0:12:50,1
+field.
+>> HOSMER: Correct.
+
+
+149
+0:12:50,1 --> 0:12:54,589
+>> NIXON: You know, we need the jobs. We need
+to sum up those air passed workers. Now, we
+
+
+150
+0:12:54,589 --> 0:12:58,619
+got some--we're going to do a couple of new
+things on water for example, and I have decided
+
+
+151
+0:12:58,619 --> 0:13:3,449
+to throw one big plant in southern California.
+I mean, you know, a big one of these implementing
+
+
+152
+0:13:3,449 --> 0:13:5,869
+it, if you know what I mean, is...
+>> HOSMER: Right, right.
+
+
+153
+0:13:5,869 --> 0:13:10,17
+>> NIXON: ...it's just a question how big
+the plant is. But in this energy field, I
+
+
+154
+0:13:10,17 --> 0:13:15,649
+told Dr. David and of course, Seaborg and
+the rest that we do it. So, on the committee,
+
+
+155
+0:13:15,649 --> 0:13:18,369
+everytime you have a chance, needle them,
+say, "Where is this going to be?" Let's push
+
+
+156
+0:13:18,369 --> 0:13:19,69
+the California thing. Can you do that?
+>> HOSMER: Incidentally, Mister President...
+
+
+157
+0:13:19,69 --> 0:13:19,549
+>> NIXON: Yeah.
+>> HOSMER: ...I am so delighted that you released
+
+
+158
+0:13:19,549 --> 0:13:21,579
+$16 million on the improvement if the enriching
+complex. I bet that handles the bad...
+
+
+159
+0:13:21,579 --> 0:13:24,519
+>> NIXON: Right.
+>> HOSMER: ...political problem for us.
+
+
+160
+0:13:24,519 --> 0:13:31,85
+>> NIXON: Right. Good, good. Well, they told
+me you were interested in it, and I said,
+
+
+161
+0:13:31,85 --> 0:13:39,619
+"Well, if Hosmer is for it, I'm for it."
+>> SORENSEN: All right. Let's pause there.
+
+
+162
+0:13:39,619 --> 0:13:45,359
+You can tell just a little bit from listening
+to Nixon's words that, the fast breeder reactor
+
+
+163
+0:13:45,359 --> 0:13:49,989
+was viewed by him and probably some others
+in administration as something that they could
+
+
+164
+0:13:49,989 --> 0:13:54,859
+use to economic advantage for the people of
+southern California to get it. Nixon was from
+
+
+165
+0:13:54,859 --> 0:13:59,359
+California, Hosman was from southern California,
+Holifield, Chet Holified who ran the--joined
+
+
+166
+0:13:59,359 --> 0:14:4,509
+the committee on atomic energy was also from
+California. And I think some of the phrases
+
+
+167
+0:14:4,509 --> 0:14:8,489
+in this--in this phone call is very interesting.
+I'm going to be ruthless on this. We've got
+
+
+168
+0:14:8,489 --> 0:14:12,739
+to play this very close to the vest. It's
+about jobs, if you're for it, and I'm for
+
+
+169
+0:14:12,739 --> 0:14:19,189
+it. It doesn't lead me to believe that the
+President was seriously considering alternatives
+
+
+170
+0:14:19,189 --> 0:14:22,589
+to the fast breeder reactor. Another past
+that could’ve been taken. It was focused
+
+
+171
+0:14:22,589 --> 0:14:27,879
+on what can we do right now to get jobs back
+home to the--the folks are going to support
+
+
+172
+0:14:27,879 --> 0:14:33,41
+us in re-election. Well a few months later,
+Nixon was at Hanford, Washington which is
+
+
+173
+0:14:33,41 --> 0:14:39,69
+the side of many of our nations earliest nuclear
+energy facilities. And he was also giving
+
+
+174
+0:14:39,69 --> 0:14:46,49
+a talk on the significance of the breeder
+reactor. And again, note the economic potential
+
+
+175
+0:14:46,49 --> 0:14:48,23
+that he puts in front of people during his
+talk.
+
+
+176
+0:14:48,23 --> 0:14:52,819
+>> NIXON: That is why I made an announcement
+on June the 4th, one that didn't get of course
+
+
+177
+0:14:52,819 --> 0:14:57,689
+the enormous publicity of the announcement
+of the journey to China, one that didn't get
+
+
+178
+0:14:57,689 --> 0:15:2,619
+the publicity of my announcement of the economic
+policy to deal with the problems of inflation
+
+
+179
+0:15:2,619 --> 0:15:7,759
+and unemployment in this country. But one
+which in terms of the future of the country
+
+
+180
+0:15:7,759 --> 0:15:15,439
+maybe in long term, long range terms even
+more important in some respects and that is,
+
+
+181
+0:15:15,439 --> 0:15:21,769
+at the United States was going to go forward
+in building a breeder reactor. Now, don't
+
+
+182
+0:15:21,769 --> 0:15:25,959
+ask me what a breeder reactor is, ask Dr.
+Slazenger, but don't tell, I'm not to tell
+
+
+183
+0:15:25,959 --> 0:15:30,259
+you because unless you're one of those PHDs,
+you won't understand it either. But what I
+
+
+184
+0:15:30,259 --> 0:15:39,49
+do know is this, that here we have the potentiality
+of holding a new breakthrough and the development
+
+
+185
+0:15:39,49 --> 0:15:45,97
+of power for peace, and that means jobs, jobs
+for this area but jobs and power for hundreds
+
+
+186
+0:15:45,97 --> 0:15:52,149
+from millions of people all over the world.
+>> SORENSEN: Jobs, job is what it was all
+
+
+187
+0:15:52,149 --> 0:15:56,249
+about. And this area that Nixon was talking
+to in Hanford, Washington, this was a very
+
+
+188
+0:15:56,249 --> 0:16:1,449
+well-educated area. A lot of the people in
+the back in there probably had PHDs in nuclear
+
+
+189
+0:16:1,449 --> 0:16:5,449
+engineering and knew exactly what a breeder
+reactor was. But Nixon was emphasizing the
+
+
+190
+0:16:5,449 --> 0:16:11,25
+economic benefits to them of his announcement
+that there was going to be a breeder reactor.
+
+
+191
+0:16:11,25 --> 0:16:15,449
+>> NIXON: All of this business about breeder
+reactors and nuclear energy and the stuff
+
+
+192
+0:16:15,449 --> 0:16:20,29
+is over my--that was one of my poorest subjects,
+Science and I got through it, but I had to
+
+
+193
+0:16:20,29 --> 0:16:23,159
+work too hard. I gave it up when I was about
+a sophomore.
+
+
+194
+0:16:23,159 --> 0:16:27,209
+>> SORENSEN: Well, maybe it might have benefited
+our country a little more if Nixon had been
+
+
+195
+0:16:27,209 --> 0:16:31,649
+able to ascertain the different values of
+different types of a breeder reactors and
+
+
+196
+0:16:31,649 --> 0:16:37,579
+why one might have an advantage over another.
+But nevertheless, the US was now firmly on
+
+
+197
+0:16:37,579 --> 0:16:42,799
+the course of making the breeder reactor,
+a national priority. Nixon emphasized it in
+
+
+198
+0:16:42,799 --> 0:16:47,889
+his State of the Union Speech. He then emphasized
+it in another message to congress, the democratic
+
+
+199
+0:16:47,889 --> 0:16:53,91
+and republic in party platforms in 1972 both
+included the fast breeder reactor as a national
+
+
+200
+0:16:53,91 --> 0:16:59,29
+priority. Now, this is about the time when
+Weinberg's story with the Molten-salt reactor
+
+
+201
+0:16:59,29 --> 0:17:4,67
+begins to intersect this much larger story
+of the breeder reactor and the congressional
+
+
+202
+0:17:4,67 --> 0:17:10,44
+support behind it as well as the presidential
+support. Testimony given in September of 1972,
+
+
+203
+0:17:10,44 --> 0:17:15,32
+they noted that the US government would be
+expected to cover cost overruns on the breeder
+
+
+204
+0:17:15,32 --> 0:17:21,38
+reactor and the development cost would go
+over $700,000,000. At this point, industry
+
+
+205
+0:17:21,38 --> 0:17:26,81
+had already committed $200,000,000 then your
+dollars to the breeder reactor effort. Representative
+
+
+206
+0:17:26,81 --> 0:17:31,99
+Craig Hosmer, who was the fellow on the phone
+call that we heard earlier, said that "If
+
+
+207
+0:17:31,99 --> 0:17:35,91
+cost targets were missed, I for one don't
+intend to scream and holler about it." It's
+
+
+208
+0:17:35,91 --> 0:17:41,24
+not hard to see that they could see great
+economic benefits occurring to their area
+
+
+209
+0:17:41,24 --> 0:17:47,3
+of the country if the breeder reactor program
+was to go forward. In that same month, the
+
+
+210
+0:17:47,3 --> 0:17:53,36
+atomic energy commission issued WASH 1222,
+which was an evaluation of Weinberg's Molten-salt
+
+
+211
+0:17:53,36 --> 0:17:58,91
+breeder reactor. It was highly critical of
+several technological issues that had been
+
+
+212
+0:17:58,91 --> 0:18:4,94
+encountered during the development of that
+idea, more importantly though, it almost completely
+
+
+213
+0:18:4,94 --> 0:18:11,33
+ignored the safety and economic improvements
+possible through the use of the Molten-salt
+
+
+214
+0:18:11,33 --> 0:18:16,78
+breeder reactor technology. Weinberg himself
+had a meeting which Chet Holified and Milton
+
+
+215
+0:18:16,78 --> 0:18:21,95
+Shaw of the Atomic energy commission in 1972.
+We don't know exactly when this meeting took
+
+
+216
+0:18:21,95 --> 0:18:26,45
+place. Our only record of it is contained
+in Weinberg's book, his autobiography, The
+
+
+217
+0:18:26,45 --> 0:18:31,62
+First Nuclear. Here's what he said, "I found
+myself increasingly at odd with the reactor
+
+
+218
+0:18:31,62 --> 0:18:35,73
+to the vision of the Atomic energy commission.
+The director at the time was Milton Shaw.
+
+
+219
+0:18:35,73 --> 0:18:40,17
+Milt was cut from the Rickover cloth, he had
+a singleness of purpose and was prepared to
+
+
+220
+0:18:40,17 --> 0:18:44,53
+bend the rules and regulations in achievement
+of his goal." Why would he feel this pressure
+
+
+221
+0:18:44,53 --> 0:18:49,2
+if he has the president and these congressional
+folks pushing for the fast breeder reactor?
+
+
+222
+0:18:49,2 --> 0:18:53,2
+"At the time, he became director, the atomic
+energy commission had made the liquid-metal
+
+
+223
+0:18:53,2 --> 0:18:58,82
+fast breeder reactor, the primary goal of
+it's reactor program. Milt tackled the LMFBR
+
+
+224
+0:18:58,82 --> 0:19:3,89
+project with Rickoverian dedication: woe unto
+any who stood in his way. This caused problems
+
+
+225
+0:19:3,89 --> 0:19:8,79
+for me since I was still espousing the Molten-salt
+breeder." Milt was like a bull, he enjoyed
+
+
+226
+0:19:8,79 --> 0:19:13,39
+congressional confidence so his position in
+the AEC was unassailable. And it was clear
+
+
+227
+0:19:13,39 --> 0:19:17,72
+that he had little confidence in me or Oak
+Ridge. After all, we were pushing Molten-salt
+
+
+228
+0:19:17,72 --> 0:19:22,58
+not the fast breeder, more than that, we were
+being troublesome over the question of reactor
+
+
+229
+0:19:22,58 --> 0:19:28,57
+safety. And that was another aspect that was
+getting Weinberg into trouble. He had invented
+
+
+230
+0:19:28,57 --> 0:19:32,97
+the pressurized light water reactor that formed
+the backbone of the reactor technologies that
+
+
+231
+0:19:32,97 --> 0:19:36,96
+were being developed in the country at that
+time. Here's a picture of some of the pressurized
+
+
+232
+0:19:36,96 --> 0:19:42,71
+water reactors. His work on the Thorium reactor
+led him to believe that a significantly higher
+
+
+233
+0:19:42,71 --> 0:19:46,93
+level of safety was possible. And this--in
+large part was because the Thorium reactor
+
+
+234
+0:19:46,93 --> 0:19:53,2
+operated low pressures whereas, water-cooled
+reactors operated the high pressures. So,
+
+
+235
+0:19:53,2 --> 0:19:58,64
+he was beginning to bring these issues up
+in support of the Thorium reactor, but it
+
+
+236
+0:19:58,64 --> 0:20:3,34
+didn't have that effect. Congressman Chet
+Hollifield was clearly exasperated with me
+
+
+237
+0:20:3,34 --> 0:20:7,7
+and he finally blurted out, "Alvin, if you're
+so concerned about the safety reactors, then
+
+
+238
+0:20:7,7 --> 0:20:12,64
+I think it might be time for you to leave
+nuclear energy." But I was speechless, but
+
+
+239
+0:20:12,64 --> 0:20:17,17
+it was apparent to me that my style, my attitude
+and my perception of future were no longer
+
+
+240
+0:20:17,17 --> 0:20:22,65
+in tune with the powers within the AEC. And
+I think this was a very sad moment in the
+
+
+241
+0:20:22,65 --> 0:20:27,44
+history of our country and probably in the
+history of the world because an entire direction
+
+
+242
+0:20:27,44 --> 0:20:35,49
+of potential development was being ended at
+that moment by a not well thought out comment
+
+
+243
+0:20:35,49 --> 0:20:39,74
+by Congressman Holifield, who was very powerful.
+Weinberg looked at this fairly philosophically
+
+
+244
+0:20:39,74 --> 0:20:44,7
+when he wrote his autobiography in 1994. And
+He said, "I look back in these events, I realize
+
+
+245
+0:20:44,7 --> 0:20:48,17
+that leaving Oak Ridge was the best thing
+that could have happened to me. My views about
+
+
+246
+0:20:48,17 --> 0:20:52,66
+nuclear energy were at variance with those
+of the AEC congressional leadership. After
+
+
+247
+0:20:52,66 --> 0:20:56,73
+all, it was I who had called nuclear energy
+a Faustian bargain, who continued to promote
+
+
+248
+0:20:56,73 --> 0:21:2,48
+the molten-salt breeder. So, Weinberg's pursuit
+of Thorium appears to have had a great deal
+
+
+249
+0:21:2,48 --> 0:21:8,46
+to do with why he was fired from his position
+at Oak Ridge in the atomic energy commission.
+
+
+250
+0:21:8,46 --> 0:21:13,72
+And it's not hard to see when you stack up
+the forces that weren't supportive of the
+
+
+251
+0:21:13,72 --> 0:21:20,15
+fast breeder and that effort, the money, the
+industrial backing, the confidence they had
+
+
+252
+0:21:20,15 --> 0:21:25,72
+and here is Weinberg trying to push something
+different, why they would attempt to truncate
+
+
+253
+0:21:25,72 --> 0:21:30,8
+his work. The [INDISTINCT] that was in January
+of 1973, Oak Ridge was directed by the atomic
+
+
+254
+0:21:30,8 --> 0:21:35,2
+energy commission to terminate the development
+of the molten-salt reactor. April of that
+
+
+255
+0:21:35,2 --> 0:21:39,38
+year, Nixon went into reiterate his commitment
+to the fast breeder, saying it would extract
+
+
+256
+0:21:39,38 --> 0:21:43,65
+30 times more energy from Uranium than light
+water reactors and it was highest priority
+
+
+257
+0:21:43,65 --> 0:21:47,94
+target for nuclear resear and development.
+We weren't the only ones pursuing the fast
+
+
+258
+0:21:47,94 --> 0:21:54,99
+breeder reactor. In August 1973, the Phenix
+reactor in France achieved critically. So,
+
+
+259
+0:21:54,99 --> 0:21:59,89
+we had real competition in this area and I
+think it had something to do with the zeal
+
+
+260
+0:21:59,89 --> 0:22:3,85
+the United States felt to become preeminent
+in this field. But then something else happened
+
+
+261
+0:22:3,85 --> 0:22:9,73
+in 1973 that was far more significant. The
+Yom Kippur war started, it led to the OPEC
+
+
+262
+0:22:9,73 --> 0:22:15,6
+oil Embargo. Suddenly, the United States,
+their supply of oil was cut back tremendously.
+
+
+263
+0:22:15,6 --> 0:22:20,71
+There were long lines, gas stations, people
+were having to alternate days when they could
+
+
+264
+0:22:20,71 --> 0:22:26,9
+buy gas, people were--somebody's not able
+to get to work, enormous amount of economic
+
+
+265
+0:22:26,9 --> 0:22:31,95
+activity which truncated. Nixon felt great
+pressure so, he announced project independence
+
+
+266
+0:22:31,95 --> 0:22:36,4
+which was a plan to make the United States
+energy independent by 1980. This involved
+
+
+267
+0:22:36,4 --> 0:22:41,48
+building many fast breeder reactors, many
+conventional reactors, new oil drilling, new
+
+
+268
+0:22:41,48 --> 0:22:48,33
+refineries, new coalmines, all kinds of things
+to make the United States independent in energy
+
+
+269
+0:22:48,33 --> 0:22:53,37
+supply. He promoted these in talks before
+congress but then in March of 1974, the oil
+
+
+270
+0:22:53,37 --> 0:22:59,81
+Embargo ended and pressure reduced to implement
+project independence. But something else happened
+
+
+271
+0:22:59,81 --> 0:23:5,53
+that was very significant in 1974. India detonated
+a nuclear weapon that had been built from
+
+
+272
+0:23:5,53 --> 0:23:11,6
+Plutonium separated from natural Uranium and
+a heavy water reactor. This was a very significant
+
+
+273
+0:23:11,6 --> 0:23:16,17
+event in the history of how the United States
+approached nuclear power because they became
+
+
+274
+0:23:16,17 --> 0:23:22,45
+quite fearful, the Plutonium that could be
+separated from Uranium in reprocessing facilities
+
+
+275
+0:23:22,45 --> 0:23:27,86
+would be able to be used in a nuclear weapon.
+And there are many arguments why that is not
+
+
+276
+0:23:27,86 --> 0:23:33,15
+feasible in conventional light water nuclear
+reactors, but there are also other arguments
+
+
+277
+0:23:33,15 --> 0:23:38,59
+on how changes on how you would put fuel through
+a reactor could lead to, so called Weapons
+
+
+278
+0:23:38,59 --> 0:23:43,24
+Grade Plutonium, rather than what we call,
+Reactor Grade Plutonium which is not suitable
+
+
+279
+0:23:43,24 --> 0:23:49,23
+for nuclear weapons. The entire fast breeder
+program was partially built on the assumption
+
+
+280
+0:23:49,23 --> 0:23:53,3
+that separated Plutonium would be available
+from the light water reactors that we had
+
+
+281
+0:23:53,3 --> 0:23:57,13
+already built. If we were able to take that
+Plutonium out, we would be able to start these
+
+
+282
+0:23:57,13 --> 0:24:2,31
+fast breeder reactors because they required
+significantly more nuclear fuel to turn them
+
+
+283
+0:24:2,31 --> 0:24:7,22
+on than a light water reactor did. And that
+had to do with those relative cross-sections
+
+
+284
+0:24:7,22 --> 0:24:12,81
+I showed, how big the Plutonium cross-section
+was in the thermal reactor versus how small
+
+
+285
+0:24:12,81 --> 0:24:18,67
+it was in the fast reactor. That's why it
+takes so much more fuel to start a fast breeder
+
+
+286
+0:24:18,67 --> 0:24:24,27
+reactor for the same electrical power rating
+than a thermal reactor. Nixon resigned in
+
+
+287
+0:24:24,27 --> 0:24:28,87
+1974 and Gerald Ford became the President.
+He put some changes in place for the atomic
+
+
+288
+0:24:28,87 --> 0:24:33,44
+energy commission, splitting it into two new
+divisions, the nuclear regulatory commission
+
+
+289
+0:24:33,44 --> 0:24:38,62
+and the energy research and development administration
+which would go on to become the DOE. The joint
+
+
+290
+0:24:38,62 --> 0:24:43,29
+congressional committee in atomic energy lead
+by Chet Holifield was abolished, the balance
+
+
+291
+0:24:43,29 --> 0:24:49,67
+of power which changed when Ford came in,
+in 1974 and made these changes to the AEC
+
+
+292
+0:24:49,67 --> 0:24:54,1
+and to the congressional committee. But Ford
+still supported the fast breeder reactor.
+
+
+293
+0:24:54,1 --> 0:24:58,69
+He mentioned it in several of his speeches
+including in State of the Union Address. He
+
+
+294
+0:24:58,69 --> 0:25:4,26
+increased funding for RND for the fast breeder
+reactor. And he highlighted how the fast breeder
+
+
+295
+0:25:4,26 --> 0:25:9,35
+reactor could be used to extend Uranium resources
+for centuries. As the 1976 election approached
+
+
+296
+0:25:9,35 --> 0:25:17,52
+though, it was very close between Jimmy Carter
+and Gerald Ford. Jimmy Carter wanted Uranium
+
+
+297
+0:25:17,52 --> 0:25:22,94
+reprocessing to be abolished. He did not want
+it to take place. Only about a week before
+
+
+298
+0:25:22,94 --> 0:25:29,13
+the election, on October 28th, 1976, Ford
+took Carter's position. He said, "We are not
+
+
+299
+0:25:29,13 --> 0:25:34,12
+going to reprocess Uranium anymore. We're
+not going to separate Plutonium," and he highlighted
+
+
+300
+0:25:34,12 --> 0:25:39,72
+the risk of proliferation as one of the main
+reasons why he was making this decision. But
+
+
+301
+0:25:39,72 --> 0:25:45,55
+it's almost certain that pressure from Carter
+and an attempt to improve his potential to
+
+
+302
+0:25:45,55 --> 0:25:50,52
+win the 1976s election had to have something
+to do with it. At that time, the proposal
+
+
+303
+0:25:50,52 --> 0:25:55,2
+was to build another fast breeder reactor.
+This time in Tennessee, very close to Oak
+
+
+304
+0:25:55,2 --> 0:26:0,59
+Ridge on the Clinch River, so this was the
+proposal that was before the nation as Jimmy
+
+
+305
+0:26:0,59 --> 0:26:7,96
+Carter became the President in 1977. And Carter
+was not a supporter of this fast breeder reactor.
+
+
+306
+0:26:7,96 --> 0:26:13,86
+He considered that the fast breeder reactor
+and its concentration had something to do
+
+
+307
+0:26:13,86 --> 0:26:18,84
+with the lack of technology development and
+solar energy. He blamed the focus that had
+
+
+308
+0:26:18,84 --> 0:26:23,85
+been on the fast breeder reactor. He called
+our society a Plutonium society that would
+
+
+309
+0:26:23,85 --> 0:26:30,48
+use the fast breeder reactor. In April, he
+reiterated Ford's ban on reprocessing. So,
+
+
+310
+0:26:30,48 --> 0:26:34,81
+not too much of a surprise, Ford had basically
+assumed Carter's position, Carter's says,
+
+
+311
+0:26:34,81 --> 0:26:40,39
+"Yes, we will continue that as National Policy."
+He also calls for a cut back and funding for
+
+
+312
+0:26:40,39 --> 0:26:44,78
+the Clinch River breeder reactor. However,
+he announced a new energy plan, focused less
+
+
+313
+0:26:44,78 --> 0:26:49,75
+on petroleum and more on coal. He said, "There's
+no need to enter the Plutonium age by licensing
+
+
+314
+0:26:49,75 --> 0:26:53,98
+or building a fast breeder reactor such as
+the proposed demonstration plan at Clinch
+
+
+315
+0:26:53,98 --> 0:26:58,23
+River." And again, he blamed the emphasis
+on the breeder reactor for slow progress made
+
+
+316
+0:26:58,23 --> 0:27:3,47
+in the progress of solar power. Surprisingly,
+Carter knew a thing or two about Thorium.
+
+
+317
+0:27:3,47 --> 0:27:9,44
+And the reason he did is because at this time,
+Admiral Rickover was working with his neighbor
+
+
+318
+0:27:9,44 --> 0:27:15,25
+reactors branch to load a Thorium Dioxide
+Uranium-233 Dioxide core into the shipping
+
+
+319
+0:27:15,25 --> 0:27:21,41
+port reactor. Carter was able to turn the
+switch that turned the first and only Thorium
+
+
+320
+0:27:21,41 --> 0:27:26,67
+breeder reactor in US history on. Several
+times he mentioned how--we wanted to try other
+
+
+321
+0:27:26,67 --> 0:27:32,25
+approaches to breeder reactors than Plutonium,
+specifically light water breeder reactors
+
+
+322
+0:27:32,25 --> 0:27:37,18
+using Uranium. But then, a meltdown happened
+a Three Mile Island, public confidence in
+
+
+323
+0:27:37,18 --> 0:27:41,65
+nuclear energy in particular the light water
+reactor really went down. Even after Ronald
+
+
+324
+0:27:41,65 --> 0:27:47,95
+Reagan was elected and lifted the ban on commercial
+reprocessing, no reprocessing plans were built.
+
+
+325
+0:27:47,95 --> 0:27:51,85
+In 1982, the shipping port reactor which had
+been running for five years at this point
+
+
+326
+0:27:51,85 --> 0:27:56,76
+on the Thorium, Uranium-233 core were shut
+down. And when they examined the fuel, they
+
+
+327
+0:27:56,76 --> 0:28:2,69
+found that there was 1% more fuel in the reactor
+than there was when they started. This proved
+
+
+328
+0:28:2,69 --> 0:28:8,2
+finally a Thorium breeder reactor was possible
+in a thermal spectrum. It had actually been
+
+
+329
+0:28:8,2 --> 0:28:14,18
+done. It wasn't a Thorium molten-salt reactor,
+but it was a true Thorium breeder reactor.
+
+
+330
+0:28:14,18 --> 0:28:19,51
+Another consequence of the decision not to
+reprocess nuclear fuel meant that we had to
+
+
+331
+0:28:19,51 --> 0:28:25,18
+have a new strategy for the long-term disposal
+of Plutonium. Previously had been assumed
+
+
+332
+0:28:25,18 --> 0:28:29,49
+that Plutonium from light water reactors would
+be sent to fast breeder reactors but without
+
+
+333
+0:28:29,49 --> 0:28:34,14
+that, we need to know what to do. And so President
+Reagan sign in the Nuclear Waste Policy Act,
+
+
+334
+0:28:34,14 --> 0:28:38,1
+which continues to be the law of the land
+till this day, and led to things like the
+
+
+335
+0:28:38,1 --> 0:28:43,12
+[INDISTINCT] repository. The funding that
+went into the fast breeder reactor surprisingly
+
+
+336
+0:28:43,12 --> 0:28:49,59
+peaked even after the United States had made
+the decision not to continue with reprocessing.
+
+
+337
+0:28:49,59 --> 0:28:53,97
+And even under the Carter years, from 1976
+to 1980, you can see funding levels for the
+
+
+338
+0:28:53,97 --> 0:28:59,46
+fast breeder were very high. So, this was
+a reactor type that dominated the long range
+
+
+339
+0:28:59,46 --> 0:29:4,82
+planning of the United States for many, many
+years. The atomic energy commission saw Plutonium
+
+
+340
+0:29:4,82 --> 0:29:10,38
+as a sure bet in the fast breeder. It could
+cross the Threshold of Two. There wasn't uncertainty
+
+
+341
+0:29:10,38 --> 0:29:15,45
+there. There was a degree of uncertainty with
+Thorium. They invested early and heavily in
+
+
+342
+0:29:15,45 --> 0:29:20,55
+the fast breeder reactor, despite failures
+and meltdowns, and industry got involved with
+
+
+343
+0:29:20,55 --> 0:29:27,58
+hundreds of millions of dollars of investment.
+In 1971 Nixon, made this the US strategy,
+
+
+344
+0:29:27,58 --> 0:29:31,22
+how are we going to go forward? It was going
+to be based around the fast breeder, and shortly
+
+
+345
+0:29:31,22 --> 0:29:35,44
+thereafter, Weinberg was fired and the molten-salt
+reactor program was cancelled. Before it cancelled
+
+
+346
+0:29:35,44 --> 0:29:40,38
+the fuel processing program and Carter extended
+that ban, without fuel reprocessing, the fast
+
+
+347
+0:29:40,38 --> 0:29:47,59
+breeder was not a viable candidate anymore.
+And nobody as far as we know in DC ever revisited
+
+
+348
+0:29:47,59 --> 0:29:52,65
+the question of, "Was it a mistake to cancel
+the molten-salt reactor effort?" Should we
+
+
+349
+0:29:52,65 --> 0:29:55,809
+have gone back and said, "You know, now that
+we're not going to do the fast breeder, maybe
+
+
+350
+0:29:55,809 --> 0:30:0,1
+we should've done the molten-salt breeder
+reactor." In all of my studies, I have not
+
+
+351
+0:30:0,1 --> 0:30:5,23
+been able to find any indication that, that
+ever took place, that there was a true revisiting
+
+
+352
+0:30:5,23 --> 0:30:11,1
+of that decision to shut down and a rethinking.
+The team that worked on this at Oak Ridge
+
+
+353
+0:30:11,1 --> 0:30:15,73
+disbanded and dispersed. And over the decades
+that fall the notch was totally forgotten.
+
+
+354
+0:30:15,73 --> 0:30:21,91
+So now, here we are in 2011 asking, "Why is
+now the right time for the Liquid Fluoride
+
+
+355
+0:30:21,91 --> 0:30:26,82
+Thorium Reactor, which is the modern form
+of the Thorium molten-salt reactor originally
+
+
+356
+0:30:26,82 --> 0:30:31,75
+proposed?" We know that we need much more
+energy at much lower prices. And we have to
+
+
+357
+0:30:31,75 --> 0:30:36,99
+do this with a much lower impact on the earth's
+environment. We know that we're facing severe
+
+
+358
+0:30:36,99 --> 0:30:43,3
+challenges from global climate change, melting
+of glaciers, rising sea levels, changing weather
+
+
+359
+0:30:43,3 --> 0:30:47,19
+patterns. We need to reduce the amount of
+carbon dioxide we're putting into the atmosphere
+
+
+360
+0:30:47,19 --> 0:30:53,66
+dramatically. There's tremendous uncertainty
+amongst the public about nuclear power because
+
+
+361
+0:30:53,66 --> 0:30:58,429
+of the events of Akushima Daichi, even though
+no one was killed there. The coverage and
+
+
+362
+0:30:58,429 --> 0:31:3,429
+the tone that it took has made people question
+the safety of nuclear power, primarily the
+
+
+363
+0:31:3,429 --> 0:31:9,66
+light water reactor to be able to have a different
+technology that doesn't have some of the risks
+
+
+364
+0:31:9,66 --> 0:31:15,53
+of operating high pressure fluids and reactors
+that have the capability to have meltdowns.
+
+
+365
+0:31:15,53 --> 0:31:20,33
+It's significant. Our alternatives in the
+form of fossil fuel caused tremendous environmental
+
+
+366
+0:31:20,33 --> 0:31:26,16
+degradation, not just in mining and processing,
+but also to our atmosphere, transporting these
+
+
+367
+0:31:26,16 --> 0:31:30,76
+fuels. It's not cheap to build electrical
+power transmission lines either. So, even
+
+
+368
+0:31:30,76 --> 0:31:35,42
+if we wanted to build renewable energy sources
+dispersed in a wide variety of places, they
+
+
+369
+0:31:35,42 --> 0:31:40,11
+would face challenges in order to get transmission
+lines built from here to there. To give you
+
+
+370
+0:31:40,11 --> 0:31:44,309
+an idea of just some of the things we do in
+our high-tech online society today, this is
+
+
+371
+0:31:44,309 --> 0:31:49,32
+a picture of a data center for Facebook that
+has been built just a hundred miles south
+
+
+372
+0:31:49,32 --> 0:31:55,3
+of the Arctic Circle in Sweden. It consumes
+a hundred and twenty megawatts of hydro power,
+
+
+373
+0:31:55,3 --> 0:32:2,91
+has 14 backup diesel generators to provide
+40 megawatts of emergency power. It costs
+
+
+374
+0:32:2,91 --> 0:32:7,23
+$760,000,000. This is one of the largest solar
+installations in the world. It's sited on
+
+
+375
+0:32:7,23 --> 0:32:12,5
+a hundred and eighty-five hectares of land.
+It provides 20 megawatts of peak energy for
+
+
+376
+0:32:12,5 --> 0:32:20,23
+15 hours a day at $420,000,000, or about $33
+a watt. That's six to seven times what it
+
+
+377
+0:32:20,23 --> 0:32:25,309
+cost to put other power transmission in. So,
+this is in Spain and the data center is in
+
+
+378
+0:32:25,309 --> 0:32:30,38
+Sweden. So, here is an example of a customer
+that has a dense power demand that wants continuous
+
+
+379
+0:32:30,38 --> 0:32:35,57
+power, no interruptions and it's in frozen
+Sweden and here is a diffused power supply
+
+
+380
+0:32:35,57 --> 0:32:42,77
+in Spain. So, to run this building of those
+solar power systems, we'll need at least six,
+
+
+381
+0:32:42,77 --> 0:32:46,53
+but we need more because these plants can
+only provide power for 15 hours a day. So,
+
+
+382
+0:32:46,53 --> 0:32:52,59
+we'll need probably 10 or more of these sites
+to run one of these data centers. Plus, we'll
+
+
+383
+0:32:52,59 --> 0:32:56,45
+need intercontinental transmission lines to
+get power from a place like Spain, that's
+
+
+384
+0:32:56,45 --> 0:33:0,929
+nice and sunny, to a place like Sweden that's
+frozen. Is this what's going to happen? Probably
+
+
+385
+0:33:0,929 --> 0:33:5,66
+not, probably what will happen is something
+more like this, where a dense power supply
+
+
+386
+0:33:5,66 --> 0:33:9,679
+in the form of coal. This is the prettiest
+coal plant I've ever seen in my life. This
+
+
+387
+0:33:9,679 --> 0:33:16,3
+is in Germany. But it provides 1600 megawatts
+of continuous power by burning lignite coal.
+
+
+388
+0:33:16,3 --> 0:33:22,97
+Look at that, we could run 13 of those data
+centers with one of these coal plants. Sounds
+
+
+389
+0:33:22,97 --> 0:33:27,61
+great right? Well unless you're the environment.
+If we try to use expensive intermittent and
+
+
+390
+0:33:27,61 --> 0:33:32,26
+alternative energy, it's not going to be the
+answer. Most populations, most people on earth
+
+
+391
+0:33:32,26 --> 0:33:38,77
+can't afford unsubsidized alternative energy.
+It's just too expensive. What they'll go towards
+
+
+392
+0:33:38,77 --> 0:33:44,63
+is cheap, reliable, dirty energy. That's not
+a viable answer for the world either. But
+
+
+393
+0:33:44,63 --> 0:33:48,25
+it's the one that will be taken because most
+people don't have alternatives. We believe
+
+
+394
+0:33:48,25 --> 0:33:53,559
+natural, inexpensive, and abundant Thorium
+is the answer. This is the material that is
+
+
+395
+0:33:53,559 --> 0:33:58,25
+dense enough and reliable enough to provide
+the energy that the world needs, but the machine
+
+
+396
+0:33:58,25 --> 0:34:4,54
+to make it work is the key. Why molten-salt?
+Because molten-salt is the only one of the
+
+
+397
+0:34:4,54 --> 0:34:9,579
+four potential coolants in the reactor that
+can run at both high temperature and low pressure.
+
+
+398
+0:34:9,579 --> 0:34:14,339
+It also has a remarkable feature because of
+the properties of molten-salt. In the event
+
+
+399
+0:34:14,339 --> 0:34:20,89
+of an emergency, the fuel could be drained
+into a passively safe, passively cool configuration.
+
+
+400
+0:34:20,89 --> 0:34:24,519
+This is something that you can't do with a
+solid-fueled reactor. Finally, the advantages
+
+
+401
+0:34:24,519 --> 0:34:28,989
+of the molten-salt reactor are significant,
+inherent passive safety through having fluid
+
+
+402
+0:34:28,989 --> 0:34:32,72
+fuel and operating at low pressure. You can
+operate at high temperatures, which means
+
+
+403
+0:34:32,72 --> 0:34:37,839
+you can get high thermodynamic efficiencies.
+Your fuel preparation costs are very low and
+
+
+404
+0:34:37,839 --> 0:34:42,559
+there's no fuel fabrication cost. Fluorides
+also tried to be an excellent chemistry match
+
+
+405
+0:34:42,559 --> 0:34:47,509
+with Uranium Thorium Fuel Cycle. They're chemically
+stable and they're impervious to radiation
+
+
+406
+0:34:47,509 --> 0:34:52,569
+damage. That enables us to achieve unlimited
+fuel burn up and continuous recycling of the
+
+
+407
+0:34:52,569 --> 0:34:58,239
+material from core to blanket. Uranium-233
+is highly unsuitable for weapons diversion
+
+
+408
+0:34:58,239 --> 0:35:3,42
+because of contamination with Uranium-232.
+And it's easy to down blend it in an emergency.
+
+
+409
+0:35:3,42 --> 0:35:8,489
+Now, we do have challenges. These salts could
+be aggressive towards most metal construction
+
+
+410
+0:35:8,489 --> 0:35:15,14
+materials. It requires special materials to
+avoid being corroded by the salt. High temperature
+
+
+411
+0:35:15,14 --> 0:35:21,4
+operation is also both a blessing and a challenge.
+But I think the fact that the technology base
+
+
+412
+0:35:21,4 --> 0:35:26,9
+is largely stagnated for 40 years is our single
+greatest challenge towards going forward,
+
+
+413
+0:35:26,9 --> 0:35:31,2
+and also the unknown nature of this within
+the nuclear community. It's very different
+
+
+414
+0:35:31,2 --> 0:35:36,249
+than what we do today with water cooled Uranium
+fueled reactors. They are the basis for today's
+
+
+415
+0:35:36,249 --> 0:35:40,73
+regulatory environment. And so, there will
+be a great deal of education needed for this
+
+
+416
+0:35:40,73 --> 0:35:45,769
+technology to go forward. But I think it has
+great potential because of these attributes.
+
+
+417
+0:35:45,769 --> 0:35:49,89
+And five energy aspires to be the world leader
+in the design, development, and manufacture
+
+
+418
+0:35:49,89 --> 0:37:49,89
+of these liquid fluoride Thorium reactors.
+Thank you very much.
+
+

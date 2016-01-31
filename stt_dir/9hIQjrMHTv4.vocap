@@ -1,0 +1,98 @@
+###5 The Internet in the year 2009.
+###9 We send e-mails, make calls over the internet
+###12 and discuss topics we take an interest in.
+###15 Even our banking is going virtual.
+###18 But what we take for granted today
+###20 was only a vague idea fifty years ago.
+###24 In order to understand how we got this far
+###27 let's go back to 1957, when everything began.
+###32 Before 1957 computers only worked on one task at a time.
+###36 This is called batch processing.
+###38 Of course, this was quite ineffective.
+###42 With computers getting bigger and bigger
+###44 they had to be stored in special cooled rooms.
+###47 But then the developers couldn't work directly on the computers anymore –
+###51 specialists had to be called in to connect them.
+###54 Programming at that time meant a lot of manual work
+###57 and the indirect connection to the computers led to
+###60 a lot of bugs, wasting time and fraying the developers´ nerves.
+###66 The year 1957 marked a big change.
+###69 A remote connection had to be installed
+###72 so the developers could work directly on the computers.
+###76 At the same time the idea of time-sharing came up.
+###80 This is the first concept in computer technology
+###83 to share the processing power of one computer with multiple users.
+###92 On October 4th 1957, during the Cold War
+###95 the first unmanned satellite, Sputnik 1, was sent into orbit by the Soviet Union.
+###101 The fear of a "Missile Gap" emerged.
+###105 In order to secure America's lead in technology,
+###108 the US founded the "Defense Advanced Research Project Agency" in February 1958.
+###115 At that time, knowledge was only transferred by people.
+###119 The DARPA planned a large-scale computer network
+###123 in order to accelerate knowledge transfer and avoid the doubling up
+###127 of already existing research.
+###130 This network would become the Arpanet.
+###132 Furthermore three other concepts were to be developed,
+###135 which are fundamental for the history of the Internet:
+###138 The concept of a military network by the RAND Corporation in America.
+###143 The commercial network of the National Physical Laboratory in England.
+###148 And the scientific network, Cyclades, in France.
+###152 The scientific, military and commercial approaches of these concepts
+###157 are the foundations for our modern Internet.
+###163 Let's begin with the Arpanet, the most familiar of these networks.
+###167 Its development began in 1966.
+###170 Universities were generally quite cautious about sharing their computers.
+###175 Therefore small computers were put on front of the mainframe.
+###178 This computer, the Interface Message Processor, took over control of the network actvitities,
+###184 while the mainframe was only in charge of the initialization of programs and data files.
+###189 At the same time, the IMP also served as interface for the mainframe.
+###193 Since only the IMPs were interconnected in a network
+###197 this was also called IMP-subnet.
+###199 For the first connections between the computers
+###202 the Network Working Group developed the Network Control Protocol [Network Control Program].
+###207 Later on, the NCP was replaced by the more efficient Transmission Control Protocol.
+###212 The specific feature of the TCP is the verification of the file transfer.
+###217 Let's take a short detour to England.
+###220 Since the NPL network was designed on a commercial basis
+###224 a lot of users and file transfer were expected.
+###228 In order to avoid congestion of the lines, the sent files were divided into smaller packets
+###234 which were put together again at the receiver.
+###238 "Packet Switching" was born!
+###246 In 1962 American ferret aircrafts discovered middle and long range range missiles in Cuba,
+###252 which were able to reach the United States.
+###255 This stoked fear of an atomic conflict.
+###259 At that time information systems had a centralized network architecture.
+###265 To avoid the breakdown during an attack,
+###268 a decentralized network architecture had to be developed,
+###272 which in case of loss of a node would still be operative.
+###277 Communication still used to work through radio waves,
+###281 that would have caused problems in case of an atomic attack:
+###286 the ionosphere would be affected and the long-wave radio waves wouldn't work anymore.
+###291 Therefore they had to use direct waves, which, however, don't have a long range.
+###297 A better solution was the model of a distributed network.
+###301 Thus long distances could be covered with a minimum of interference.
+###307 Another milestone followed with the development of the French network "Cyclades".
+###311 Since Cyclades had a far smaller budget than Arpanet and thus also fewer nodes
+###317 the focus was layed on the communication with other networks.
+###322 In this way the term "inter-net" was born.
+###327 Moreover, Cyclades´ concept went further than ARPA's and the NPL's.
+###332 During communication between sender and receiver the computers were not to intervene anymore,
+###338 but simply serve as a transfer node.
+###341 Cyclades´ protocol went through all machines using a physical layer
+###346 that was implemented into the hardware,
+###348 providing a direct connection with the receiver – an end-to-end structure.
+###354 Inspired by the Cyclades network and driven by the incompatibility between the networks,
+###359 their connection gained in importance everywhere.
+###364 The phone companies developed the X.25 protocol which enabled communication
+###369 through their servers – in exchange for monthly basic charge of course.
+###375 DARPA's Transmission Control Protocol was to connect the computers through gateways...
+###382 and the International Organization for Standardization designed the OSI Reference Model.
+###390 The innovation of OSI was the attempt to standardize the network from its ends
+###395 and the channel's division into separate layers.
+###399 Finally, the TCP assimilated the preferences of the OSI Reference Model
+###404 and gave way to the TCP/IP protocol –
+###408 a standard which guaranteed compatibility between networks
+###412 and finally merged them, creating the Internet.
+###417 By February 28, 1990 the ARPANET hardware was removed, but the Internet...
+###424 ... was up and running.
+###428 Subtitles by HackJack (aka StevXtreme)

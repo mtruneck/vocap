@@ -1,0 +1,170 @@
+1
+0:0:0,21 --> 0:0:3,58
+On those cold, rainy days when you forget
+your rain jacket or umbrella and you want
+
+
+2
+0:0:3,58 --> 0:0:7,79
+to stay as dry as possible… should you walk
+and spend more time in the rain? Or should
+
+
+3
+0:0:7,79 --> 0:0:11,16
+you run, which means you'll be smashing into
+more raindrops from the side?
+
+
+4
+0:0:11,16 --> 0:0:14,95
+Assuming you haven't been fully soaked yet
+and you aren't jumping into puddles, the answer
+
+
+5
+0:0:14,95 --> 0:0:18,88
+is simple. As you move out of the way of one
+falling raindrop, you move into the way of
+
+
+6
+0:0:18,88 --> 0:0:22,169
+another. So the amount of rain hitting the
+top of you is constant, regardless of how
+
+
+7
+0:0:22,169 --> 0:0:25,179
+fast you're going. Alternatively, you can
+picture that the raindrops themselves are
+
+
+8
+0:0:25,179 --> 0:0:28,919
+stationary and you (and the earth beneath
+you) are moving upwards through the rain!
+
+
+9
+0:0:28,919 --> 0:0:32,759
+And since the volume of a parallelepiped (that's
+a 3D parallelogram) doesn't depend at all
+
+
+10
+0:0:32,759 --> 0:0:36,59
+on its slant, then no matter how fast you're
+moving horizontally the same amount of rain
+
+
+11
+0:0:36,59 --> 0:0:38,46
+will land on top of you each second.
+
+
+12
+0:0:38,46 --> 0:0:42,6
+Now, if you're not moving, the rain from the
+top is all you'll get. But if you ARE moving,
+
+
+13
+0:0:42,6 --> 0:0:46,739
+you'll also run into raindrops from the side
+and you'll get wetter. So in any given second,
+
+
+14
+0:0:46,739 --> 0:0:50,539
+you stay driest by standing still, and the
+faster you move the wetter you become.
+
+
+15
+0:0:50,539 --> 0:0:54,249
+But if you're trying to get from point A to
+point B, then standing still won't do you
+
+
+16
+0:0:54,249 --> 0:0:58,42
+much good. And en route from point A to point
+B, the total amount of rain you run into from
+
+
+17
+0:0:58,42 --> 0:1:2,789
+the side has nothing to do with how fast you're
+going - just like how a snowplow will plow
+
+
+18
+0:1:2,789 --> 0:1:7,6
+the same amount of snow from a stretch of
+road regardless of the exact speed it drives.
+
+
+19
+0:1:7,6 --> 0:1:10,32
+In the case of running through the rain, you
+can figure that out using parallelepipeds
+
+
+20
+0:1:10,32 --> 0:1:11,159
+again.
+
+
+21
+0:1:11,159 --> 0:1:14,68
+So over a given period of time, the same amount
+of rain will hit you from the top, regardless
+
+
+22
+0:1:14,68 --> 0:1:18,9
+of how fast you're going. And over a given
+distance, you'll hit the same amount of rain
+
+
+23
+0:1:18,9 --> 0:1:20,909
+from the side - again, regardless of how fast
+you're going.
+
+
+24
+0:1:20,909 --> 0:1:24,829
+So your total wetness is equal to the wetness
+per second for rain from the top times the
+
+
+25
+0:1:24,829 --> 0:1:28,56
+amount of time you spend in the rain, plus
+the wetness per meter for rain from the side
+
+
+26
+0:1:28,56 --> 0:1:30,479
+times the number of meters you travel.
+
+
+27
+0:1:30,479 --> 0:1:33,869
+So to stay driest getting from one point to
+another, you should try to minimize the amount
+
+
+28
+0:1:33,869 --> 0:1:37,549
+of water falling onto you from above. And
+quite simply, that means getting out of the
+
+
+29
+0:1:37,549 --> 0:3:37,549
+rain as fast as possible.
+
+

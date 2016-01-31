@@ -1,0 +1,337 @@
+1
+0:0:0,0 --> 0:0:7,34
+
+
+
+2
+0:0:7,34 --> 0:0:8,24
+BERNARDO: Hi, I'm Bernardo.
+
+
+3
+0:0:8,24 --> 0:0:11,63
+I'm the co-producer and editor
+of a short documentary called
+
+
+4
+0:0:11,63 --> 0:0:13,28
+Mexican Pointy Boots.
+
+
+5
+0:0:13,28 --> 0:0:16,86
+The story, it's about this
+fashion trend that started in
+
+
+6
+0:0:16,86 --> 0:0:19,45
+Matehuala, which is a town in
+central Mexico, about four
+
+
+7
+0:0:19,45 --> 0:0:22,5
+hours north of Mexico City,
+where these kids started
+
+
+8
+0:0:22,5 --> 0:0:25,23
+wearing these ridiculously long
+pointy boots to dance to
+
+
+9
+0:0:25,23 --> 0:0:27,2
+music called Tribal.
+
+
+10
+0:0:27,2 --> 0:0:30,88
+The music and the boots became
+incredibly popular.
+
+
+11
+0:0:30,88 --> 0:0:33,82
+We also took those guys to
+perform at the Vice Mexico
+
+
+12
+0:0:33,82 --> 0:0:38,5
+anniversary party last year,
+and it was pretty amazing.
+
+
+13
+0:0:38,5 --> 0:0:52,855
+[MUSIC PLAYING]
+
+
+14
+0:0:52,855 --> 0:0:54,34
+ANNOUNCER: [SPEAKING SPANISH]
+
+
+15
+0:0:54,34 --> 0:1:16,14
+
+
+
+16
+0:1:16,14 --> 0:1:17,39
+MALE SPEAKER 1:
+[SPEAKING SPANISH]
+
+
+17
+0:1:17,39 --> 0:2:25,52
+
+
+
+18
+0:2:25,52 --> 0:2:26,77
+MALE SPEAKER 2:
+[SPEAKING SPANISH]
+
+
+19
+0:2:26,77 --> 0:2:45,27
+
+
+
+20
+0:2:45,27 --> 0:3:22,538
+KIKO: [SPEAKING SPANISH]
+
+
+21
+0:3:22,538 --> 0:3:23,996
+BOY: [SPEAKING SPANISH]
+
+
+22
+0:3:23,996 --> 0:3:27,41
+
+
+
+23
+0:3:27,41 --> 0:3:28,66
+KIKO: [SPEAKING SPANISH]
+
+
+24
+0:3:28,66 --> 0:3:34,99
+
+
+
+25
+0:3:34,99 --> 0:3:36,24
+MALE SPEAKER 3:
+[SPEAKING SPANISH]
+
+
+26
+0:3:36,24 --> 0:3:39,865
+
+
+
+27
+0:3:39,865 --> 0:3:53,81
+[MUSIC - ERICK RINCON]
+
+
+28
+0:3:53,81 --> 0:3:55,6
+ERICK RINCON: [SPEAKING SPANISH]
+
+
+29
+0:3:55,6 --> 0:4:29,111
+
+
+
+30
+0:4:29,111 --> 0:4:33,4
+[MUSIC - ERICK RINCON]
+
+
+31
+0:4:33,4 --> 0:4:34,29
+ERICK RINCON: [SPEAKING SPANISH]
+
+
+32
+0:4:34,29 --> 0:5:3,8
+
+
+
+33
+0:5:3,8 --> 0:5:11,96
+[MUSIC - ERICK RINCON]
+
+
+34
+0:5:11,96 --> 0:5:13,21
+[SPEAKING SPANISH]
+
+
+35
+0:5:13,21 --> 0:5:51,48
+
+
+
+36
+0:5:51,48 --> 0:5:52,73
+MALE SPEAKER 4:
+[SPEAKING SPANISH]
+
+
+37
+0:5:52,73 --> 0:6:28,238
+
+
+
+38
+0:6:28,238 --> 0:6:32,7
+[MUSIC - ERICK RINCON]
+
+
+39
+0:6:32,7 --> 0:6:33,95
+ERICK RINCON: [SPEAKING SPANISH]
+
+
+40
+0:6:33,95 --> 0:6:46,716
+
+
+
+41
+0:6:46,716 --> 0:6:50,798
+[MUSIC - ERICK RINCON]
+
+
+42
+0:6:50,798 --> 0:6:52,7
+MALE SPEAKER 5:
+[SPEAKING SPANISH]
+
+
+43
+0:6:52,7 --> 0:7:1,87
+
+
+
+44
+0:7:1,87 --> 0:7:3,12
+MALE SPEAKER 6:
+[SPEAKING SPANISH]
+
+
+45
+0:7:3,12 --> 0:7:8,51
+
+
+
+46
+0:7:8,51 --> 0:7:20,432
+[MUSIC - ERICK RINCON]
+
+
+47
+0:7:20,432 --> 0:7:21,914
+ANNOUNCER: [SPEAKING SPANISH]
+
+
+48
+0:7:21,914 --> 0:7:27,842
+
+
+
+49
+0:7:27,842 --> 0:7:31,3
+[CROWD CHEERS]
+
+
+50
+0:7:31,3 --> 0:7:50,64
+[MUSIC - ERICK RINCON]
+
+
+51
+0:7:50,64 --> 0:7:51,89
+MALE SPEAKER 7:
+[SPEAKING SPANISH]
+
+
+52
+0:7:51,89 --> 0:8:6,155
+
+
+
+53
+0:8:6,155 --> 0:8:7,634
+ANNOUNCER: [SPEAKING SPANISH]
+
+
+54
+0:8:7,634 --> 0:8:13,55
+
+
+
+55
+0:8:13,55 --> 0:8:26,37
+[MUSIC - ERICK RINCON]
+
+
+56
+0:8:26,37 --> 0:8:27,62
+KIKO: [SPEAKING SPANISH]
+
+
+57
+0:8:27,62 --> 0:8:32,669
+
+
+
+58
+0:8:32,669 --> 0:8:33,919
+MALE SPEAKER 3:
+[SPEAKING SPANISH]
+
+
+59
+0:8:33,919 --> 0:8:36,594
+
+
+
+60
+0:8:36,594 --> 0:8:44,22
+[MUSIC - ERICK RINCON]
+
+
+61
+0:8:44,22 --> 0:8:45,51
+MALE SPEAKER 8:
+[SPEAKING SPANISH]
+
+
+62
+0:8:45,51 --> 0:8:57,81
+
+
+
+63
+0:8:57,81 --> 0:9:26,31
+[MUSIC - ERICK RINCON]
+
+
+64
+0:9:26,31 --> 0:11:26,31
+
+
+

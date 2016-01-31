@@ -1,0 +1,3404 @@
+1
+0:0:1,267 --> 0:0:2,535
+TRAVIS:
+Now on Rocket City Rednecks...
+
+
+2
+0:0:2,535 --> 0:0:3,769
+ROG: Three, two, one.
+
+
+3
+0:0:3,769 --> 0:0:7,406
+TRAVIS: We build
+a one-man flying machine.
+
+
+4
+0:0:7,406 --> 0:0:9,842
+But, since I'm off at
+a sci-fi convention,
+
+
+5
+0:0:9,842 --> 0:0:12,478
+can the guys get airborne?
+
+
+6
+0:0:12,478 --> 0:0:17,316
+Or are they facing
+a Hillbilly Hindenburg?
+
+
+7
+0:0:17,316 --> 0:0:19,85
+ROG: Oh, the humanity!
+
+
+8
+0:0:19,85 --> 0:0:20,553
+TRAVIS: I'm Travis Taylor.
+
+
+9
+0:0:20,553 --> 0:0:22,621
+I'm a rocket scientist in
+the space and defense industry
+
+
+10
+0:0:22,621 --> 0:0:25,357
+here in my hometown of
+Huntsville, Alabama,
+
+
+11
+0:0:25,357 --> 0:0:27,93
+where my daddy helped
+build the rockets
+
+
+12
+0:0:27,93 --> 0:0:28,727
+that sent us to the moon.
+
+
+13
+0:0:28,727 --> 0:0:31,397
+DADDY: Have y'all been drinking
+the rocket fuel again?
+
+
+14
+0:0:31,397 --> 0:0:34,133
+TRAVIS: Sometimes, big science
+moves too slow for me.
+
+
+15
+0:0:34,133 --> 0:0:37,236
+So come the weekend,
+I round up my best friend Rog...
+
+
+16
+0:0:37,236 --> 0:0:38,471
+ROG: Hey!
+
+
+17
+0:0:38,471 --> 0:0:40,573
+TRAVIS: ...my nephew Michael
+and my buddy Pete
+
+
+18
+0:0:40,573 --> 0:0:42,108
+to tackle important problems
+
+
+19
+0:0:42,108 --> 0:0:45,211
+with a little
+down-home ingenuity.
+
+
+20
+0:0:45,211 --> 0:0:49,849
+ROG: Damn it, boy!
+
+
+21
+0:0:49,849 --> 0:0:51,16
+TRAVIS: Right on.
+
+
+22
+0:0:51,16 --> 0:0:54,286
+Hey, is there any more beers
+in the cooler?
+
+
+23
+0:0:54,286 --> 0:0:56,589
+Human beings have always
+wanted to fly.
+
+
+24
+0:0:56,589 --> 0:0:59,191
+From Leonardo Da Vinci
+to the Wright brothers.
+
+
+25
+0:0:59,191 --> 0:1:1,994
+So this weekend, I wanted us
+to fulfill the dream
+
+
+26
+0:1:1,994 --> 0:1:5,297
+by creating
+a one-man flying machine.
+
+
+27
+0:1:5,297 --> 0:1:7,967
+In fact, the US military
+has been trying to create
+
+
+28
+0:1:7,967 --> 0:1:12,671
+a personal aerial device
+since the 1950s.
+
+
+29
+0:1:12,671 --> 0:1:15,274
+Ours has got to be small,
+portable,
+
+
+30
+0:1:15,274 --> 0:1:19,512
+and able to soar into the sky
+without killing the pilot.
+
+
+31
+0:1:19,512 --> 0:1:22,815
+The only problem is
+I've got a scheduling conflict.
+
+
+32
+0:1:22,815 --> 0:1:25,151
+The guys are gonna have to wait
+until I get back this afternoon
+
+
+33
+0:1:25,151 --> 0:1:27,186
+before they get started.
+
+
+34
+0:1:27,186 --> 0:1:29,155
+DADDY: Y'all doing good
+cleaning up, huh?
+
+
+35
+0:1:29,155 --> 0:1:30,456
+ROG: Where's Travis at
+
+
+36
+0:1:30,456 --> 0:1:33,492
+when we all cleaning up
+his ideas and crap over here?
+
+
+37
+0:1:33,492 --> 0:1:35,227
+DADDY: Well, you're doing
+a good job of cleaning up,
+
+
+38
+0:1:35,227 --> 0:1:38,697
+but he's at the science fiction
+convention is where he's gone.
+
+
+39
+0:1:38,697 --> 0:1:40,499
+TRAVIS: I'm a huge fan
+of science fiction
+
+
+40
+0:1:40,499 --> 0:1:42,34
+and a science fiction author.
+
+
+41
+0:1:42,34 --> 0:1:43,969
+This weekend I'm at
+a science fiction convention
+
+
+42
+0:1:43,969 --> 0:1:46,205
+talking about my writing.
+
+
+43
+0:1:46,205 --> 0:1:49,74
+What I like to see, what
+I usually do with my characters
+
+
+44
+0:1:49,74 --> 0:1:50,809
+is they get what's
+coming to 'em,
+
+
+45
+0:1:50,809 --> 0:1:52,678
+and then we blow 'em up
+some more.
+
+
+46
+0:1:52,678 --> 0:1:54,28
+[laughter]
+
+
+47
+0:1:54,28 --> 0:1:58,417
+It's a lot of fun, and you never
+know what you're gonna see next.
+
+
+48
+0:1:58,417 --> 0:1:59,985
+GORDO: I was at both panels.
+It was awesome.
+
+
+49
+0:1:59,985 --> 0:2:2,154
+TRAVIS: Oh, thanks, man!
+Thanks a lot.
+
+
+50
+0:2:2,154 --> 0:2:3,155
+GORDO: I really like
+what you said.
+
+
+51
+0:2:3,155 --> 0:2:4,59
+TRAVIS: I appreciate it.
+
+
+52
+0:2:4,59 --> 0:2:5,925
+What's your name?
+
+
+53
+0:2:5,925 --> 0:2:6,759
+GORDO: Uh, Gordo.
+
+
+54
+0:2:6,759 --> 0:2:11,664
+TRAVIS: Gordo, "To Gordo...
+
+
+55
+0:2:11,664 --> 0:2:13,199
+Stay with it."
+
+
+56
+0:2:13,199 --> 0:2:15,1
+GORDO: Yeah, if you ever have
+like an assistant
+
+
+57
+0:2:15,1 --> 0:2:18,404
+you could hire or something,
+'cause, like, I write a lot.
+
+
+58
+0:2:18,404 --> 0:2:19,805
+TRAVIS: This one fanboy, Gordo,
+
+
+59
+0:2:19,805 --> 0:2:21,707
+he's been following me around
+pretty much in this con.
+
+
+60
+0:2:21,707 --> 0:2:23,75
+It happens sometimes.
+
+
+61
+0:2:23,75 --> 0:2:24,376
+I have no idea
+what he looked like,
+
+
+62
+0:2:24,376 --> 0:2:26,312
+because he's wearing
+a gray alien suit.
+
+
+63
+0:2:26,312 --> 0:2:33,953
+TRAVIS: All right, thanks, man.
+Thanks, Gordo.
+
+
+64
+0:2:33,953 --> 0:2:35,588
+ROG: Travis ain't here,
+
+
+65
+0:2:35,588 --> 0:2:38,457
+but that's no reason we can't
+start the project without him.
+
+
+66
+0:2:38,457 --> 0:2:40,192
+We've got enough brainpower here
+to surprise him
+
+
+67
+0:2:40,192 --> 0:2:42,761
+with a flying machine
+by the time he gets back.
+
+
+68
+0:2:42,761 --> 0:2:43,896
+Let's make a jetpack
+
+
+69
+0:2:43,896 --> 0:2:46,332
+like they had on
+the Six Million Dollar Man.
+
+
+70
+0:2:46,332 --> 0:2:47,299
+You remember?
+
+
+71
+0:2:47,299 --> 0:2:48,3
+He wanted to be an astronaut
+
+
+72
+0:2:48,3 --> 0:2:49,835
+when he was, like,
+six years old.
+
+
+73
+0:2:49,835 --> 0:2:51,303
+That's why we have rocket stuff
+laying around,
+
+
+74
+0:2:51,303 --> 0:2:53,239
+because he's a rocket guy.
+
+
+75
+0:2:53,239 --> 0:2:54,84
+DADDY:
+Y'all think we can build one?
+
+
+76
+0:2:54,84 --> 0:2:56,875
+ROG: Shoot, yeah,
+we got some rockets.
+
+
+77
+0:2:56,875 --> 0:2:59,211
+Well, Charlie, you care if
+we rage and go power around,
+
+
+78
+0:2:59,211 --> 0:3:0,446
+we get all the stuff we need?
+
+
+79
+0:3:0,446 --> 0:3:1,814
+DADDY: Would it make
+any difference?
+
+
+80
+0:3:1,814 --> 0:3:2,948
+ROG: Well, you don't care.
+
+
+81
+0:3:2,948 --> 0:3:4,183
+DADDY: Go ahead.
+
+
+82
+0:3:4,183 --> 0:3:5,818
+ROG: Hey, Michael, we got
+some of them mannequins.
+
+
+83
+0:3:5,818 --> 0:3:6,919
+MICHAEL: Oh, I'm sure we do.
+
+
+84
+0:3:6,919 --> 0:3:8,787
+DADDY: I think,
+I think the truth...
+
+
+85
+0:3:8,787 --> 0:3:10,155
+ROG: I'm fixing to write
+on the chalkboard.
+
+
+86
+0:3:10,155 --> 0:3:13,959
+Alright, Pete.
+
+
+87
+0:3:13,959 --> 0:3:15,494
+I went up to the chalkboard,
+
+
+88
+0:3:15,494 --> 0:3:19,365
+wrote Pete does the ciphering,
+deciphering the math.
+
+
+89
+0:3:19,365 --> 0:3:22,468
+These people in the south,
+sometimes they decipher.
+
+
+90
+0:3:22,468 --> 0:3:23,569
+That's what you do.
+
+
+91
+0:3:23,569 --> 0:3:25,571
+Charlie.
+
+
+92
+0:3:25,571 --> 0:3:28,54
+Charlie keeps everybody
+straight.
+
+
+93
+0:3:28,54 --> 0:3:30,843
+MICHAEL: I like that, Rog.
+
+
+94
+0:3:30,843 --> 0:3:32,911
+ROG: Michael and I might have
+to go on a road trip.
+
+
+95
+0:3:32,911 --> 0:3:34,313
+DADDY: Road trip?
+
+
+96
+0:3:34,313 --> 0:3:36,282
+ROG: Well, maybe it might
+if it comes up.
+
+
+97
+0:3:36,282 --> 0:3:37,616
+We don't know.
+
+
+98
+0:3:37,616 --> 0:3:40,519
+There's nobody there to yell
+and scream at everybody.
+
+
+99
+0:3:40,519 --> 0:3:43,122
+And I thought, I can be a diva.
+
+
+100
+0:3:43,122 --> 0:3:44,456
+That sounds like a good job.
+
+
+101
+0:3:44,456 --> 0:3:45,924
+I'm gonna be Travis.
+
+
+102
+0:3:45,924 --> 0:3:48,227
+You know he don't do nothing
+but walk around and holler.
+
+
+103
+0:3:48,227 --> 0:3:49,495
+DADDY: You know,
+I got this suspicion,
+
+
+104
+0:3:49,495 --> 0:3:51,764
+Rog has always wanted
+to be the boss.
+
+
+105
+0:3:51,764 --> 0:3:54,33
+ROG: He walks around here,
+I hear him all the time.
+
+
+106
+0:3:54,33 --> 0:3:55,901
+"Well, I'm gonna go
+check on Rog."
+
+
+107
+0:3:55,901 --> 0:3:57,403
+"Well, I'm gonna go
+check on Daddy."
+
+
+108
+0:3:57,403 --> 0:3:59,4
+[laughs]
+PETE: That's right.
+
+
+109
+0:3:59,4 --> 0:4:0,205
+MICHAEL: I'm gonna go
+find them dummies.
+
+
+110
+0:4:0,205 --> 0:4:1,707
+ROG: Charlie and I dug out
+the rocket motors
+
+
+111
+0:4:1,707 --> 0:4:4,476
+while Michael rounded up
+a couple of dummies.
+
+
+112
+0:4:4,476 --> 0:4:7,98
+Everything we needed
+is right here.
+
+
+113
+0:4:7,98 --> 0:4:9,715
+Boy, he's got pretty eyes.
+
+
+114
+0:4:9,715 --> 0:4:11,35
+Is that, that's a boy, ain't it?
+
+
+115
+0:4:11,35 --> 0:4:13,319
+I'm a sucker for pretty eyes,
+
+
+116
+0:4:13,319 --> 0:4:16,855
+and them eyes were saying,
+"I want to fly."
+
+
+117
+0:4:16,855 --> 0:4:19,858
+Build like a frame,
+put it on his back.
+
+
+118
+0:4:19,858 --> 0:4:23,62
+All we need is a frame
+and that...
+
+
+119
+0:4:23,62 --> 0:4:25,64
+Charlie, can we use that
+backpack over there?
+
+
+120
+0:4:25,64 --> 0:4:27,99
+DADDY: Man, if that thing
+pulls hard enough
+
+
+121
+0:4:27,99 --> 0:4:28,967
+to pick him up off the ground...
+
+
+122
+0:4:28,967 --> 0:4:30,336
+PETE: Yeah, I know.
+
+
+123
+0:4:30,336 --> 0:4:31,503
+DADDY: You're gonna have to have
+more than one strap
+
+
+124
+0:4:31,503 --> 0:4:32,571
+coming through like that.
+
+
+125
+0:4:32,571 --> 0:4:33,872
+That, that thing...
+
+
+126
+0:4:33,872 --> 0:4:36,508
+PETE: Yeah, he's gonna need
+a hefty jockstrap.
+
+
+127
+0:4:36,508 --> 0:4:38,677
+Actually, building a jetpack
+is more complex
+
+
+128
+0:4:38,677 --> 0:4:41,18
+than just putting a rocket
+in a backpack.
+
+
+129
+0:4:41,18 --> 0:4:44,35
+These are K-sized motors with
+nearly 100 pounds of thrust,
+
+
+130
+0:4:44,35 --> 0:4:45,584
+so we'll need a structure
+
+
+131
+0:4:45,584 --> 0:4:48,887
+to keep it from just
+tearing off the backpack.
+
+
+132
+0:4:48,887 --> 0:4:51,223
+We're also gonna need to add
+some fins for flight stability
+
+
+133
+0:4:51,223 --> 0:4:54,593
+if we want to get airborne.
+
+
+134
+0:4:54,593 --> 0:4:56,762
+ROG: I'm gonna go check
+on Michael and Pete.
+
+
+135
+0:4:56,762 --> 0:4:57,93
+MICHAEL: Shut up, Rog!
+
+
+136
+0:4:57,93 --> 0:5:0,466
+ROG: Oh, is it too early?
+
+
+137
+0:5:0,466 --> 0:5:2,167
+MICHAEL: It was definitely
+different with Rog,
+
+
+138
+0:5:2,167 --> 0:5:3,202
+you know, running the show.
+
+
+139
+0:5:3,202 --> 0:5:4,37
+ROG: Here.
+
+
+140
+0:5:4,37 --> 0:5:6,305
+MICHAEL: Thanks, man.
+I like you as the boss.
+
+
+141
+0:5:6,305 --> 0:5:8,44
+ROG: Well, thank you.
+I'm gonna check on Charlie.
+
+
+142
+0:5:8,44 --> 0:5:9,808
+MICHAEL: That's the best thing
+about Rog being the boss
+
+
+143
+0:5:9,808 --> 0:5:11,91
+is he keeps you in beer.
+
+
+144
+0:5:11,91 --> 0:5:13,512
+ROG: I'm gonna go check on Pete.
+
+
+145
+0:5:13,512 --> 0:5:14,947
+PETE: Now I'm not sure
+what Travis is up to
+
+
+146
+0:5:14,947 --> 0:5:16,615
+at the sci-fi convention,
+
+
+147
+0:5:16,615 --> 0:5:18,684
+but I doubt he's having
+as much fun as we are
+
+
+148
+0:5:18,684 --> 0:5:20,819
+watching Rog play boss.
+
+
+149
+0:5:20,819 --> 0:5:22,287
+GORDO: So what are you doing
+after this?
+
+
+150
+0:5:22,287 --> 0:5:23,922
+TRAVIS: Uh, I'm not sure.
+
+
+151
+0:5:23,922 --> 0:5:26,625
+I have to look at the schedule
+what they got me scheduled for.
+
+
+152
+0:5:26,625 --> 0:5:30,162
+Man, that Gordo was on me
+like bees on honey.
+
+
+153
+0:5:30,162 --> 0:5:32,97
+GORDO: Do you ever, like,
+think for when you're writing,
+
+
+154
+0:5:32,97 --> 0:5:33,399
+do you ever, like, have, like,
+
+
+155
+0:5:33,399 --> 0:5:35,134
+an assistant that you'd hire
+or something?
+
+
+156
+0:5:35,134 --> 0:5:36,268
+TRAVIS: But, hey, I'll make time
+
+
+157
+0:5:36,268 --> 0:5:38,537
+for anybody who loves
+science fiction,
+
+
+158
+0:5:38,537 --> 0:5:41,44
+because, to me,
+it's very important.
+
+
+159
+0:5:41,44 --> 0:5:44,209
+Science fiction drove me
+to become a scientist,
+
+
+160
+0:5:44,209 --> 0:5:45,677
+and I believe there are
+all sorts of things
+
+
+161
+0:5:45,677 --> 0:5:49,314
+in science fiction that
+the authors imagine
+
+
+162
+0:5:49,314 --> 0:5:51,216
+years before it ever happened.
+
+
+163
+0:5:51,216 --> 0:5:53,619
+And in a lot of cases,
+the reason it happened
+
+
+164
+0:5:53,619 --> 0:5:56,88
+was because the scientist
+or engineer read that story
+
+
+165
+0:5:56,88 --> 0:6:2,327
+and said, hey, maybe,
+just maybe.
+
+
+166
+0:6:2,327 --> 0:6:4,62
+PETE: Careful,
+that's a loaded rocket.
+
+
+167
+0:6:4,62 --> 0:6:7,366
+ROG: Lock them nuts down
+tight as you can get 'em, man.
+
+
+168
+0:6:7,366 --> 0:6:8,767
+MICHAEL: Both of 'em?
+
+
+169
+0:6:8,767 --> 0:6:11,69
+ROG: Yeah, both of 'em.
+
+
+170
+0:6:11,69 --> 0:6:13,472
+See how fast stuff gets done
+when I'm the boss?
+
+
+171
+0:6:13,472 --> 0:6:15,407
+We got our jetpack
+on our dummy's back
+
+
+172
+0:6:15,407 --> 0:6:17,543
+and fins on his feet.
+
+
+173
+0:6:17,543 --> 0:6:19,411
+This thing's almost ready to go.
+
+
+174
+0:6:19,411 --> 0:6:21,146
+We got the thrust structure
+
+
+175
+0:6:21,146 --> 0:6:28,153
+and the rocket with
+100 pounds of thrust.
+
+
+176
+0:6:28,153 --> 0:6:29,555
+He got pretty eyes still,
+don't he?
+
+
+177
+0:6:29,555 --> 0:6:30,923
+PETE: He does.
+
+
+178
+0:6:30,923 --> 0:6:32,458
+DADDY: I wish you'd forget
+about the eyes, Rog.
+
+
+179
+0:6:32,458 --> 0:6:34,593
+ROG: Well.
+
+
+180
+0:6:34,593 --> 0:6:36,295
+PETE: I've been trying to give
+the guys some guidance
+
+
+181
+0:6:36,295 --> 0:6:38,464
+in rocket science know-how.
+
+
+182
+0:6:38,464 --> 0:6:41,266
+I'm a little concerned about
+how this is gonna work.
+
+
+183
+0:6:41,266 --> 0:6:42,734
+That's a K-motor in there.
+
+
+184
+0:6:42,734 --> 0:6:44,97
+They are made for high-power
+experimental rockets
+
+
+185
+0:6:44,97 --> 0:6:47,206
+that are designed to go
+about a mile high.
+
+
+186
+0:6:47,206 --> 0:6:49,975
+It packs a lot of thrust in
+a very short amount of time.
+
+
+187
+0:6:49,975 --> 0:6:51,81
+MICHAEL: All right,
+that backpack's locked down.
+
+
+188
+0:6:51,81 --> 0:6:54,513
+PETE: But anytime we get to
+strap a rocket to anything,
+
+
+189
+0:6:54,513 --> 0:6:56,148
+it's always fun,
+so I figure, what the heck.
+
+
+190
+0:6:56,148 --> 0:6:57,382
+Let's see what happens
+
+
+191
+0:6:57,382 --> 0:7:0,252
+and hopefully not get killed
+in the process.
+
+
+192
+0:7:0,252 --> 0:7:2,187
+ROG: Hey, look, right up there,
+that's a good spot.
+
+
+193
+0:7:2,187 --> 0:7:4,356
+PETE: So we headed off to
+our favorite test field
+
+
+194
+0:7:4,356 --> 0:7:6,792
+where we can stand as far away
+from this thing as possible
+
+
+195
+0:7:6,792 --> 0:7:8,26
+when it goes off.
+
+
+196
+0:7:8,26 --> 0:7:9,695
+All right, we got a hot rocket!
+
+
+197
+0:7:9,695 --> 0:7:10,896
+ROG: Hurry up, Pete!
+
+
+198
+0:7:10,896 --> 0:7:12,564
+We ain't got time for
+your shenanigans.
+
+
+199
+0:7:12,564 --> 0:7:13,799
+MICHAEL: You know,
+this is something that
+
+
+200
+0:7:13,799 --> 0:7:15,868
+as long as it works
+I want to try it out, too.
+
+
+201
+0:7:15,868 --> 0:7:16,735
+ROG: Everybody ready?
+
+
+202
+0:7:16,735 --> 0:7:18,237
+PETE: Yeah.
+
+
+203
+0:7:18,237 --> 0:7:19,538
+DADDY: I hope this truck
+protects us
+
+
+204
+0:7:19,538 --> 0:7:21,24
+from what's about to happen.
+
+
+205
+0:7:21,24 --> 0:7:23,242
+Part of me wants
+to close my eyes,
+
+
+206
+0:7:23,242 --> 0:7:26,78
+and the other part don't want
+to miss a second.
+
+
+207
+0:7:26,78 --> 0:7:32,618
+ROG: Three, two, one.
+
+
+208
+0:7:32,618 --> 0:7:33,886
+[laughs]
+
+
+209
+0:7:33,886 --> 0:7:35,587
+DADDY: Oh, man!
+
+
+210
+0:7:35,587 --> 0:7:39,191
+You want to put my son
+on that thing?
+
+
+211
+0:7:39,191 --> 0:7:43,829
+ROG: We let it go
+and she does a loop-de-loop.
+
+
+212
+0:7:43,829 --> 0:7:45,163
+[laughs]
+
+
+213
+0:7:45,163 --> 0:7:48,166
+DADDY: That thing went
+end over end, heel over head,
+
+
+214
+0:7:48,166 --> 0:7:50,202
+tumbling and it wrecked.
+
+
+215
+0:7:50,202 --> 0:7:51,87
+Tore it all to pieces.
+
+
+216
+0:7:51,87 --> 0:7:54,306
+MICHAEL: That thing
+actually flew!
+
+
+217
+0:7:54,306 --> 0:7:56,41
+DADDY: Actually flew?
+
+
+218
+0:7:56,41 --> 0:7:58,11
+Yeah, it flipped in circles.
+
+
+219
+0:7:58,11 --> 0:7:59,244
+MICHAEL: Three circles.
+
+
+220
+0:7:59,244 --> 0:8:1,46
+ROG: He did a face-plant.
+Look at here.
+
+
+221
+0:8:1,46 --> 0:8:3,949
+DADDY: A mannequin is not
+a very good rocket.
+
+
+222
+0:8:3,949 --> 0:8:5,717
+What did you think
+it was gonna do?
+
+
+223
+0:8:5,717 --> 0:8:7,386
+ROG: Well, if it don't work,
+we'll go do something else.
+
+
+224
+0:8:7,386 --> 0:8:10,589
+Let's go back and draw pictures
+on the chalkboard,
+
+
+225
+0:8:10,589 --> 0:8:12,257
+figure out something better
+that we can control.
+
+
+226
+0:8:12,257 --> 0:8:13,392
+PETE: Yeah.
+
+
+227
+0:8:13,392 --> 0:8:15,594
+ROG: So much for the first
+jetpack idea.
+
+
+228
+0:8:15,594 --> 0:8:17,229
+Maybe we need bigger rockets.
+
+
+229
+0:8:17,229 --> 0:8:19,598
+I figured I'd call Travis
+and see what he thinks.
+
+
+230
+0:8:19,598 --> 0:8:22,501
+TRAVIS: What?
+
+
+231
+0:8:22,501 --> 0:8:23,669
+Hang on just a minute, Gordo.
+
+
+232
+0:8:23,669 --> 0:8:27,172
+Rog, Rog, you, you're...
+
+
+233
+0:8:27,172 --> 0:8:29,207
+No, you can't do that
+with a rocket engine, Rog.
+
+
+234
+0:8:29,207 --> 0:8:31,543
+In fact, it'll blow up.
+
+
+235
+0:8:31,543 --> 0:8:35,781
+No, hang on just a minute.
+
+
+236
+0:8:35,781 --> 0:8:37,149
+I'll talk to you in a minute,
+Gordo.
+
+
+237
+0:8:37,149 --> 0:8:39,851
+It's alright.
+
+
+238
+0:8:39,851 --> 0:8:41,687
+What?
+
+
+239
+0:8:41,687 --> 0:8:44,289
+No, you can't put
+a rocket engine on that.
+
+
+240
+0:8:44,289 --> 0:8:45,657
+Rog, those motors are too big.
+
+
+241
+0:8:45,657 --> 0:8:47,359
+It'll start a fire
+and it might blow up.
+
+
+242
+0:8:47,359 --> 0:8:49,828
+It'll kill somebody.
+
+
+243
+0:8:49,828 --> 0:8:52,397
+No, I--what are you--
+I can't believe that.
+
+
+244
+0:8:52,397 --> 0:8:54,6
+I got to--
+no, you're not doing that.
+
+
+245
+0:8:54,6 --> 0:9:0,772
+I decided I'd better get back
+before Rog blows everybody up.
+
+
+246
+0:9:0,772 --> 0:9:3,375
+ROG: Travis didn't seem too keen
+on bigger rockets.
+
+
+247
+0:9:3,375 --> 0:9:5,377
+Luckily, Michael came up
+with a totally different
+
+
+248
+0:9:5,377 --> 0:9:7,346
+flying machine idea.
+
+
+249
+0:9:7,346 --> 0:9:8,714
+MICHAEL: We were on the way back
+from this test
+
+
+250
+0:9:8,714 --> 0:9:9,982
+and I had an idea.
+
+
+251
+0:9:9,982 --> 0:9:12,15
+I got this helicopter that,
+you know, it flies.
+
+
+252
+0:9:12,15 --> 0:9:15,22
+I built it out of a kit and
+a bunch of radio control parts.
+
+
+253
+0:9:15,22 --> 0:9:17,556
+This radio-controlled,
+six-blade chopper,
+
+
+254
+0:9:17,556 --> 0:9:19,191
+thought it would work real good
+for a flying machine
+
+
+255
+0:9:19,191 --> 0:9:21,526
+if you, you know,
+scale it up a whole lot.
+
+
+256
+0:9:21,526 --> 0:9:23,662
+It's something that's stable
+and that we can control,
+
+
+257
+0:9:23,662 --> 0:9:26,164
+and it's a whole lot safer
+to ride on.
+
+
+258
+0:9:26,164 --> 0:9:27,866
+This is a radio-controlled
+helicopter.
+
+
+259
+0:9:27,866 --> 0:9:29,801
+Here you go, Rog, you think
+you can fly this thing?
+
+
+260
+0:9:29,801 --> 0:9:31,236
+ROG: No, I can't fly.
+
+
+261
+0:9:31,236 --> 0:9:33,605
+DADDY: We're gonna have to
+build it to pick up 200 pounds,
+
+
+262
+0:9:33,605 --> 0:9:35,14
+'cause that's what your Uncle
+Travis is gonna want to do.
+
+
+263
+0:9:35,14 --> 0:9:36,441
+He's gonna want
+to fly the thing.
+
+
+264
+0:9:36,441 --> 0:9:37,943
+ROG: Of course, we're gonna
+have to do a test
+
+
+265
+0:9:37,943 --> 0:9:40,278
+before we strap a bunch of these
+on Travis.
+
+
+266
+0:9:40,278 --> 0:9:42,314
+And since we only have
+one copter right now,
+
+
+267
+0:9:42,314 --> 0:9:44,683
+I grabbed our little
+two-pound light mannequin.
+
+
+268
+0:9:44,683 --> 0:9:45,984
+DADDY: What?
+
+
+269
+0:9:45,984 --> 0:9:47,919
+ROG: Lookie here.
+You know it'll pick him up.
+
+
+270
+0:9:47,919 --> 0:9:49,588
+DADDY: Well, that thing
+don't weigh anything.
+
+
+271
+0:9:49,588 --> 0:9:52,24
+ROG: Well, still, that's what
+we gonna tow to, ain't it?
+
+
+272
+0:9:52,24 --> 0:9:54,493
+MICHAEL: Ain't tried carrying
+anything with this copter yet,
+
+
+273
+0:9:54,493 --> 0:9:55,927
+so it's good to start light.
+
+
+274
+0:9:55,927 --> 0:9:57,129
+We need to make sure
+we can control it
+
+
+275
+0:9:57,129 --> 0:9:59,631
+before adding too much weight.
+
+
+276
+0:9:59,631 --> 0:10:5,737
+ROG: Let's see what
+this thing will do.
+
+
+277
+0:10:5,737 --> 0:10:7,139
+ROG: Wake up, mule, wake up.
+
+
+278
+0:10:7,139 --> 0:10:9,708
+MICHAEL: Wake up!
+
+
+279
+0:10:9,708 --> 0:10:13,345
+PETE: Oh, man, you got plenty
+of lift right there.
+
+
+280
+0:10:13,345 --> 0:10:15,547
+TRAVIS: When I pulled up,
+there was the weirdest thing
+
+
+281
+0:10:15,547 --> 0:10:19,651
+I'd ever seen
+in Daddy's front yard.
+
+
+282
+0:10:19,651 --> 0:10:21,153
+MICHAEL: Hey.
+
+
+283
+0:10:21,153 --> 0:10:22,688
+TRAVIS: What in the wide, wide
+world of sports
+
+
+284
+0:10:22,688 --> 0:10:28,994
+is going on here?
+
+
+285
+0:10:28,994 --> 0:10:31,263
+DADDY: These Experiments are
+dangerous.
+
+
+286
+0:10:31,263 --> 0:10:33,665
+These guys are real rocket
+scientists
+
+
+287
+0:10:33,665 --> 0:10:38,103
+Don't try this at home!
+
+
+288
+0:10:38,103 --> 0:10:40,572
+TRAVIS: We're building
+a one-man flying machine.
+
+
+289
+0:10:40,572 --> 0:10:42,641
+Since I was at
+a science fiction convention,
+
+
+290
+0:10:42,641 --> 0:10:44,976
+the guys got started without me.
+
+
+291
+0:10:44,976 --> 0:10:45,977
+ROG: Everybody ready?
+
+
+292
+0:10:45,977 --> 0:10:49,781
+PETE: Yeah.
+
+
+293
+0:10:49,781 --> 0:10:51,49
+[laughs]
+
+
+294
+0:10:51,49 --> 0:10:52,551
+DADDY: Oh, man.
+
+
+295
+0:10:52,551 --> 0:10:55,52
+TRAVIS: Looks like I couldn't
+have got home a moment too soon.
+
+
+296
+0:10:55,52 --> 0:10:57,656
+[horn honks]
+
+
+297
+0:10:57,656 --> 0:10:59,558
+[laughs]
+
+
+298
+0:10:59,558 --> 0:11:2,427
+What in the wide, wide world
+of sports is going on here?
+
+
+299
+0:11:2,427 --> 0:11:4,196
+DADDY: We're playing
+with your new toy.
+
+
+300
+0:11:4,196 --> 0:11:5,43
+TRAVIS: Look at that!
+
+
+301
+0:11:5,43 --> 0:11:7,99
+I got home from
+the science fiction convention
+
+
+302
+0:11:7,99 --> 0:11:9,334
+and I pull into Daddy's, and
+there are the guys out there,
+
+
+303
+0:11:9,334 --> 0:11:12,437
+and they've got this,
+this helicopter thing up there,
+
+
+304
+0:11:12,437 --> 0:11:14,106
+and there's a dummy
+hanging from it.
+
+
+305
+0:11:14,106 --> 0:11:16,108
+I mean, what in the world
+are they doing?
+
+
+306
+0:11:16,108 --> 0:11:17,776
+It looked cool, though.
+
+
+307
+0:11:17,776 --> 0:11:20,145
+DADDY: Now, I'm gonna tell you,
+this is the second effort.
+
+
+308
+0:11:20,145 --> 0:11:21,68
+The first one was
+a total bomb-out.
+
+
+309
+0:11:21,68 --> 0:11:22,914
+TRAVIS: What'd y'all do
+the first go around?
+
+
+310
+0:11:22,914 --> 0:11:24,85
+ROG: Come over here and look.
+We'll show you.
+
+
+311
+0:11:24,85 --> 0:11:26,118
+TRAVIS: I thought it was
+pretty cool of the guys
+
+
+312
+0:11:26,118 --> 0:11:28,153
+to be working on the one-man
+flying machine thing
+
+
+313
+0:11:28,153 --> 0:11:30,255
+while I was off at
+the science fiction convention.
+
+
+314
+0:11:30,255 --> 0:11:32,124
+It feels heavy.
+What motor did you use on it?
+
+
+315
+0:11:32,124 --> 0:11:35,26
+PETE: K-motor.
+TRAVIS: A K-motor! Holy crap!
+
+
+316
+0:11:35,26 --> 0:11:36,161
+That'll do it.
+
+
+317
+0:11:36,161 --> 0:11:37,763
+Broke this one's leg off!
+
+
+318
+0:11:37,763 --> 0:11:39,531
+MICHAEL: He broke his own
+leg off when he crashed.
+
+
+319
+0:11:39,531 --> 0:11:41,466
+TRAVIS: Oh, and his head!
+
+
+320
+0:11:41,466 --> 0:11:42,667
+DADDY: That's about
+what you'd look like
+
+
+321
+0:11:42,667 --> 0:11:44,202
+if you'd been hooked
+on to that thing.
+
+
+322
+0:11:44,202 --> 0:11:46,538
+TRAVIS: I wouldn't let y'all
+hook a K-motor to my back.
+
+
+323
+0:11:46,538 --> 0:11:47,739
+DADDY: We decided
+we had to do something,
+
+
+324
+0:11:47,739 --> 0:11:49,808
+then Michael had
+this helicopter.
+
+
+325
+0:11:49,808 --> 0:11:51,71
+TRAVIS: It's not a bad idea.
+
+
+326
+0:11:51,71 --> 0:11:52,978
+We could probably do this
+
+
+327
+0:11:52,978 --> 0:11:55,247
+if we could find the motors
+and the propellers.
+
+
+328
+0:11:55,247 --> 0:11:57,883
+We're gonna scale up Michael's
+remote-control helicopter
+
+
+329
+0:11:57,883 --> 0:12:1,186
+so that it's big enough
+to lift one man.
+
+
+330
+0:12:1,186 --> 0:12:3,321
+ROG: Look at these
+pretty eyes, mule.
+
+
+331
+0:12:3,321 --> 0:12:5,791
+Have you seen these eyes
+on this guy?
+
+
+332
+0:12:5,791 --> 0:12:7,192
+TRAVIS: So I sent the guys
+to find
+
+
+333
+0:12:7,192 --> 0:12:10,228
+the biggest hobby helicopter
+propellers they could find.
+
+
+334
+0:12:10,228 --> 0:12:11,897
+We're back in business.
+
+
+335
+0:12:11,897 --> 0:12:13,532
+You know where to get
+that kind of stuff?
+
+
+336
+0:12:13,532 --> 0:12:14,566
+MICHAEL: Yeah, I know where
+we can find some.
+
+
+337
+0:12:14,566 --> 0:12:15,433
+ROG: Let's go, road trip.
+
+
+338
+0:12:15,433 --> 0:12:17,736
+MICHAEL: Road trip, Rog,
+come on!
+
+
+339
+0:12:17,736 --> 0:12:19,4
+ROG: Travis came back in
+
+
+340
+0:12:19,4 --> 0:12:22,34
+and fell right into
+his diva-boss-princess mode.
+
+
+341
+0:12:22,34 --> 0:12:24,576
+TRAVIS: Buy every big motor
+they got!
+
+
+342
+0:12:24,576 --> 0:12:26,11
+ROG: I didn't mind,
+'cause first thing I got to do
+
+
+343
+0:12:26,11 --> 0:12:27,279
+is go on a road trip.
+
+
+344
+0:12:27,279 --> 0:12:29,14
+TRAVIS: Tell 'em to put it
+on Rog's tab.
+
+
+345
+0:12:29,14 --> 0:12:30,382
+MICHAEL: All right.
+
+
+346
+0:12:30,382 --> 0:12:32,517
+PETE: And don't forget
+propellers and controllers.
+
+
+347
+0:12:32,517 --> 0:12:34,986
+TRAVIS: We're gonna create
+a lightweight aluminum frame
+
+
+348
+0:12:34,986 --> 0:12:37,956
+with six arms to hold six of the
+biggest motors and propellers
+
+
+349
+0:12:37,956 --> 0:12:39,257
+we can find.
+
+
+350
+0:12:39,257 --> 0:12:42,26
+Then we'll have the pilot seated
+underneath it all
+
+
+351
+0:12:42,26 --> 0:12:43,562
+in a lawn chair.
+
+
+352
+0:12:43,562 --> 0:12:45,831
+We are gonna add
+thick Lexan shields
+
+
+353
+0:12:45,831 --> 0:12:47,999
+on all sides of the cockpit.
+
+
+354
+0:12:47,999 --> 0:12:54,239
+To protect the pilot from debris
+and the chopper blades.
+
+
+355
+0:12:54,239 --> 0:12:55,674
+Once Michael and Rog got back
+
+
+356
+0:12:55,674 --> 0:12:58,176
+with a whole bunch of motors
+and propellers,
+
+
+357
+0:12:58,176 --> 0:12:59,678
+I started divvying up the jobs.
+
+
+358
+0:12:59,678 --> 0:13:1,98
+Sent Daddy and Rog to start
+cutting the materials,
+
+
+359
+0:13:1,98 --> 0:13:3,415
+Michael started
+drilling the holes,
+
+
+360
+0:13:3,415 --> 0:13:5,817
+Pete and I were figuring out how
+it was all gonna fit together.
+
+
+361
+0:13:5,817 --> 0:13:7,152
+It's gonna be a cage like that,
+
+
+362
+0:13:7,152 --> 0:13:9,87
+so now figure out those pieces,
+Pete.
+
+
+363
+0:13:9,87 --> 0:13:10,488
+PETE: All right.
+
+
+364
+0:13:10,488 --> 0:13:12,19
+TRAVIS: We're real concerned
+that the motors we got
+
+
+365
+0:13:12,19 --> 0:13:15,727
+were not gonna be enough
+to lift me and the helicopter,
+
+
+366
+0:13:15,727 --> 0:13:17,929
+so we had to do a test.
+
+
+367
+0:13:17,929 --> 0:13:19,197
+DADDY: We set up a scale system
+
+
+368
+0:13:19,197 --> 0:13:20,699
+so we could measure
+the lift weight
+
+
+369
+0:13:20,699 --> 0:13:22,434
+of the motor and the propellers.
+
+
+370
+0:13:22,434 --> 0:13:24,502
+Now, I keep telling these boys,
+
+
+371
+0:13:24,502 --> 0:13:27,539
+these blades are very sharp
+and very dangerous,
+
+
+372
+0:13:27,539 --> 0:13:29,474
+they can shatter any second
+
+
+373
+0:13:29,474 --> 0:13:32,277
+and send wooden spikes
+going in all directions.
+
+
+374
+0:13:32,277 --> 0:13:33,945
+TRAVIS: Stay away from
+the blade, Pete.
+
+
+375
+0:13:33,945 --> 0:13:36,281
+DADDY: I made everybody get
+behind a blast shield
+
+
+376
+0:13:36,281 --> 0:13:37,482
+for protection.
+
+
+377
+0:13:37,482 --> 0:13:40,218
+Come on, son,
+it'll take your head off.
+
+
+378
+0:13:40,218 --> 0:13:41,119
+TRAVIS: You guys ready?
+
+
+379
+0:13:41,119 --> 0:13:42,12
+ROG: Yeah.
+MICHAEL: Yeah.
+
+
+380
+0:13:42,12 --> 0:13:45,323
+TRAVIS: All right, here we go.
+
+
+381
+0:13:45,323 --> 0:13:50,295
+5, 10, 15...
+
+
+382
+0:13:50,295 --> 0:13:55,533
+20, 25, 30...
+
+
+383
+0:13:55,533 --> 0:13:57,602
+almost 35 at times.
+
+
+384
+0:13:57,602 --> 0:13:59,971
+PETE: That's all...
+
+
+385
+0:13:59,971 --> 0:14:2,507
+TRAVIS: All right,
+bring her down.
+
+
+386
+0:14:2,507 --> 0:14:4,843
+It looks like we're gonna get
+about 33 pounds of lift
+
+
+387
+0:14:4,843 --> 0:14:6,244
+from each motor.
+
+
+388
+0:14:6,244 --> 0:14:8,38
+That's including lifting
+its own weight.
+
+
+389
+0:14:8,38 --> 0:14:9,381
+PETE: Let's unhook it.
+
+
+390
+0:14:9,381 --> 0:14:11,449
+TRAVIS:
+Yeah, unhook the battery.
+
+
+391
+0:14:11,449 --> 0:14:17,255
+Whoa, whoa, whoa!
+What'd you do?
+
+
+392
+0:14:17,255 --> 0:14:18,189
+[whistles]
+
+
+393
+0:14:18,189 --> 0:14:19,291
+MICHAEL:
+Don't turn it off, Pete.
+
+
+394
+0:14:19,291 --> 0:14:20,525
+You nev--don't ever cut that.
+
+
+395
+0:14:20,525 --> 0:14:21,86
+PETE: Yep, I remember that now.
+
+
+396
+0:14:21,86 --> 0:14:24,596
+MICHAEL: Yeah.
+
+
+397
+0:14:24,596 --> 0:14:27,499
+TRAVIS: Man, you weren't
+but an inch from that.
+
+
+398
+0:14:27,499 --> 0:14:29,234
+Don't do that again.
+
+
+399
+0:14:29,234 --> 0:14:30,835
+PETE: When that motor started up
+right next to me,
+
+
+400
+0:14:30,835 --> 0:14:33,305
+probably doing
+a good 2,000 RPMs,
+
+
+401
+0:14:33,305 --> 0:14:35,974
+that scared the crap out of me.
+
+
+402
+0:14:35,974 --> 0:14:38,576
+TRAVIS: I'm really glad Pete
+has those Aikido reflexes.
+
+
+403
+0:14:38,576 --> 0:14:41,212
+He got away from it really quick
+and turned everything off.
+
+
+404
+0:14:41,212 --> 0:14:44,149
+PETE: You know, that's one
+of the times luck won out.
+
+
+405
+0:14:44,149 --> 0:14:45,35
+TRAVIS: We're gonna be right on
+the hairy edge
+
+
+406
+0:14:45,35 --> 0:14:48,186
+of having enough lift to do it.
+
+
+407
+0:14:48,186 --> 0:14:50,755
+PETE: Yeah, I know.
+
+
+408
+0:14:50,755 --> 0:14:53,291
+TRAVIS: Once we got the aluminum
+cut and the holes drilled,
+
+
+409
+0:14:53,291 --> 0:14:56,394
+we began to put together
+the frame of our flying machine.
+
+
+410
+0:14:56,394 --> 0:14:58,43
+It's got to hold
+six of those motors
+
+
+411
+0:14:58,43 --> 0:15:1,199
+and the pilot will hang
+beneath it in a lawn chair,
+
+
+412
+0:15:1,199 --> 0:15:5,7
+surrounded by thick, protective,
+plastic shields.
+
+
+413
+0:15:5,7 --> 0:15:8,39
+DADDY: It's another long day
+and another long night.
+
+
+414
+0:15:8,39 --> 0:15:10,41
+Thankfully,
+Travis picked up some dinner
+
+
+415
+0:15:10,41 --> 0:15:13,812
+to help us get through.
+
+
+416
+0:15:13,812 --> 0:15:16,514
+TRAVIS: By morning, we had
+most of the frame together.
+
+
+417
+0:15:16,514 --> 0:15:19,784
+Our propeller test showed us
+that we needed six propellers,
+
+
+418
+0:15:19,784 --> 0:15:21,586
+but with the extra weight
+of the shields,
+
+
+419
+0:15:21,586 --> 0:15:24,389
+I was afraid that wasn't
+gonna give us enough lift.
+
+
+420
+0:15:24,389 --> 0:15:26,324
+So we added two more propellers.
+
+
+421
+0:15:26,324 --> 0:15:27,659
+TRAVIS:
+You got these two blades.
+
+
+422
+0:15:27,659 --> 0:15:29,694
+They're opposite direction
+and opposite pitch.
+
+
+423
+0:15:29,694 --> 0:15:31,396
+That end's got to be
+the same as that one.
+
+
+424
+0:15:31,396 --> 0:15:32,464
+PETE: Right.
+
+
+425
+0:15:32,464 --> 0:15:34,432
+TRAVIS: Once we had it
+all wired up,
+
+
+426
+0:15:34,432 --> 0:15:36,835
+we added some safety cushions
+and padding,
+
+
+427
+0:15:36,835 --> 0:15:39,17
+and we were ready
+to fly this puppy.
+
+
+428
+0:15:39,17 --> 0:15:40,572
+There are a lot of things
+that could go wrong
+
+
+429
+0:15:40,572 --> 0:15:41,873
+with this helicopter,
+
+
+430
+0:15:41,873 --> 0:15:43,241
+but there are a lot of things
+that could go right.
+
+
+431
+0:15:43,241 --> 0:15:44,709
+MICHAEL: What do y'all reckon
+it weighs?
+
+
+432
+0:15:44,709 --> 0:15:46,745
+TRAVIS: I don't know,
+I'm thinking with everything,
+
+
+433
+0:15:46,745 --> 0:15:49,414
+the motors and all,
+about 80 pounds.
+
+
+434
+0:15:49,414 --> 0:15:51,449
+DADDY: If this thing weighs
+80 or 100 pounds,
+
+
+435
+0:15:51,449 --> 0:15:53,351
+and Travis weighs 200 pounds,
+
+
+436
+0:15:53,351 --> 0:15:56,87
+that's around 300 pounds
+we need to lift.
+
+
+437
+0:15:56,87 --> 0:15:58,423
+That's beyond the hairy edge,
+if you ask me.
+
+
+438
+0:15:58,423 --> 0:16:0,625
+TRAVIS: Into the wind, yeah,
+back toward the house.
+
+
+439
+0:16:0,625 --> 0:16:4,629
+Alright, right there.
+
+
+440
+0:16:4,629 --> 0:16:6,164
+That's a pretty strong one.
+
+
+441
+0:16:6,164 --> 0:16:7,699
+Where'd that wind come from?
+Ain't been blowing all day.
+
+
+442
+0:16:7,699 --> 0:16:9,501
+We come out to test fly
+the helicopter.
+
+
+443
+0:16:9,501 --> 0:16:11,736
+Alright, let's clear out.
+
+
+444
+0:16:11,736 --> 0:16:14,939
+For safety's sake, Daddy ain't
+gonna let me get in that thing
+
+
+445
+0:16:14,939 --> 0:16:17,842
+until we know it'll fly
+and we can control it.
+
+
+446
+0:16:17,842 --> 0:16:19,744
+But as soon as we can
+fly it right,
+
+
+447
+0:16:19,744 --> 0:16:23,415
+I'm gonna hop right in it
+and have the ride of my life.
+
+
+448
+0:16:23,415 --> 0:16:26,17
+Alright, guys, this is it.
+I want this thing to fly.
+
+
+449
+0:16:26,17 --> 0:16:26,851
+ROG: Who don't?
+
+
+450
+0:16:26,851 --> 0:16:28,353
+TRAVIS: Yeah, I tell you what!
+
+
+451
+0:16:28,353 --> 0:16:30,121
+Come on, let's bring
+the power up!
+
+
+452
+0:16:30,121 --> 0:16:31,99
+ROG: Spinning mule.
+
+
+453
+0:16:31,99 --> 0:16:32,891
+DADDY: There she goes.
+
+
+454
+0:16:32,891 --> 0:16:34,92
+TRAVIS: They're all spinning.
+
+
+455
+0:16:34,92 --> 0:16:35,393
+PETE: That's a good sign.
+
+
+456
+0:16:35,393 --> 0:16:39,631
+TRAVIS: Bring it up
+nice and easy, nice and easy.
+
+
+457
+0:16:39,631 --> 0:16:40,465
+DADDY: Come on.
+
+
+458
+0:16:40,465 --> 0:16:41,8
+TRAVIS: Come on, baby, come on.
+
+
+459
+0:16:41,8 --> 0:16:42,801
+DADDY: Come on.
+
+
+460
+0:16:42,801 --> 0:16:44,469
+TRAVIS: Come on.
+
+
+461
+0:16:44,469 --> 0:16:46,137
+DADDY: Get up.
+
+
+462
+0:16:46,137 --> 0:16:47,338
+TRAVIS: Coming on up,
+coming on up.
+
+
+463
+0:16:47,338 --> 0:16:48,173
+DADDY: Get up.
+
+
+464
+0:16:48,173 --> 0:16:50,775
+TRAVIS: Coming on up.
+
+
+465
+0:16:50,775 --> 0:16:53,912
+Well, she's kicking up
+some dust a little.
+
+
+466
+0:16:53,912 --> 0:16:55,78
+Coming off the ground,
+coming off the ground.
+
+
+467
+0:16:55,78 --> 0:16:58,116
+We're flying! We're flying!
+
+
+468
+0:16:58,116 --> 0:17:0,351
+We're flying!
+
+
+469
+0:17:0,351 --> 0:17:1,319
+We're flying!
+
+
+470
+0:17:1,319 --> 0:17:3,521
+PETE: Oh.
+
+
+471
+0:17:3,521 --> 0:17:7,158
+TRAVIS: Oh!
+
+
+472
+0:17:7,158 --> 0:17:7,992
+Crap!
+
+
+473
+0:17:7,992 --> 0:17:15,133
+ROG: Son of a...
+
+
+474
+0:17:15,133 --> 0:17:16,367
+TRAVIS:
+We spent the whole weekend
+
+
+475
+0:17:16,367 --> 0:17:18,536
+building a one-man
+flying machine...
+
+
+476
+0:17:18,536 --> 0:17:21,72
+Let's all grab a leg
+and let's fly it.
+
+
+477
+0:17:21,72 --> 0:17:21,94
+PETE: All right.
+
+
+478
+0:17:21,94 --> 0:17:23,7
+TRAVIS: ...and we finally went
+
+
+479
+0:17:23,7 --> 0:17:25,9
+to get our homemade copter
+airborne.
+
+
+480
+0:17:25,9 --> 0:17:29,8
+Coming off the ground.
+We're flying! We're flying!
+
+
+481
+0:17:29,8 --> 0:17:30,281
+We're flying!
+
+
+482
+0:17:30,281 --> 0:17:32,75
+But then, disaster.
+
+
+483
+0:17:32,75 --> 0:17:35,353
+Oh!
+
+
+484
+0:17:35,353 --> 0:17:38,256
+MICHAEL: This one right here's
+busted all to, hmm.
+
+
+485
+0:17:38,256 --> 0:17:41,25
+TRAVIS: We blew another,
+another gusset here.
+
+
+486
+0:17:41,25 --> 0:17:43,795
+DADDY: Here's one propeller
+tore all to pieces.
+
+
+487
+0:17:43,795 --> 0:17:45,73
+TRAVIS: This isn't anything
+unheard of
+
+
+488
+0:17:45,73 --> 0:17:49,534
+when you're talking about
+experimental aircraft.
+
+
+489
+0:17:49,534 --> 0:17:55,14
+You don't ever get it right
+the first time.
+
+
+490
+0:17:55,14 --> 0:17:57,242
+Now I got to go back and see
+what we broke,
+
+
+491
+0:17:57,242 --> 0:18:1,679
+what ain't broke,
+what we got to do to fix it.
+
+
+492
+0:18:1,679 --> 0:18:4,949
+We made three major
+modifications to the copter.
+
+
+493
+0:18:4,949 --> 0:18:7,585
+We made the frame taller
+and the base wider,
+
+
+494
+0:18:7,585 --> 0:18:9,854
+so it's less likely to flip.
+
+
+495
+0:18:9,854 --> 0:18:12,157
+We got rid of the Lexan
+protective shields
+
+
+496
+0:18:12,157 --> 0:18:15,393
+to lighten it up,
+and most importantly,
+
+
+497
+0:18:15,393 --> 0:18:17,162
+we doubled the amount
+of propellers
+
+
+498
+0:18:17,162 --> 0:18:19,931
+with top rotors and
+bottom rotors on each arm.
+
+
+499
+0:18:19,931 --> 0:18:22,233
+That should give it
+twice the lift.
+
+
+500
+0:18:22,233 --> 0:18:25,69
+Now we're gonna take it out
+and I'm gonna ride that thing.
+
+
+501
+0:18:25,69 --> 0:18:28,439
+Let's take this thing around
+the corner and hook it up.
+
+
+502
+0:18:28,439 --> 0:18:29,641
+DADDY: Wait a minute, son.
+
+
+503
+0:18:29,641 --> 0:18:31,176
+TRAVIS: What have you got there?
+
+
+504
+0:18:31,176 --> 0:18:34,279
+DADDY: I got old Sidney here.
+He's gonna pilot this thing.
+
+
+505
+0:18:34,279 --> 0:18:35,613
+There's no way in the world
+
+
+506
+0:18:35,613 --> 0:18:38,883
+you're gonna get in that thing
+before we try it.
+
+
+507
+0:18:38,883 --> 0:18:41,85
+This contraption is more
+dangerous than ever.
+
+
+508
+0:18:41,85 --> 0:18:43,321
+They not only took off
+the safety shields,
+
+
+509
+0:18:43,321 --> 0:18:46,491
+they doubled the rotors,
+so it's twice as deadly.
+
+
+510
+0:18:46,491 --> 0:18:50,662
+We need a test dummy before
+I let anybody get in that thing.
+
+
+511
+0:18:50,662 --> 0:18:52,564
+TRAVIS: We better tie this thing
+down really good, though.
+
+
+512
+0:18:52,564 --> 0:18:55,667
+I don't want anything coming
+loose and getting into a blade.
+
+
+513
+0:18:55,667 --> 0:18:59,37
+We moved the whole thing to
+the test site in the backyard.
+
+
+514
+0:18:59,37 --> 0:19:1,105
+Crawl up under there
+and tie it off.
+
+
+515
+0:19:1,105 --> 0:19:3,474
+And then we tethered the copter
+to the ground
+
+
+516
+0:19:3,474 --> 0:19:7,11
+to keep it from flying away
+out of control or flipping over.
+
+
+517
+0:19:7,11 --> 0:19:9,147
+So I think it's about
+as safe as it'll get.
+
+
+518
+0:19:9,147 --> 0:19:11,749
+Y'all get back away from 'em.
+Y'all get out of there.
+
+
+519
+0:19:11,749 --> 0:19:13,284
+MICHAEL: It's good.
+
+
+520
+0:19:13,284 --> 0:19:14,586
+TRAVIS: Alright, spin test.
+
+
+521
+0:19:14,586 --> 0:19:16,154
+Get over here where you're safe
+in the safe zone.
+
+
+522
+0:19:16,154 --> 0:19:18,122
+Everybody in the safe zone now.
+
+
+523
+0:19:18,122 --> 0:19:20,124
+Be ready to run away
+from the helicopter.
+
+
+524
+0:19:20,124 --> 0:19:21,326
+ROG: Yeah.
+
+
+525
+0:19:21,326 --> 0:19:23,595
+TRAVIS: We're gonna throttle it
+up a little.
+
+
+526
+0:19:23,595 --> 0:19:26,831
+Here we go!
+
+
+527
+0:19:26,831 --> 0:19:31,2
+Everything's still spinning.
+
+
+528
+0:19:31,2 --> 0:19:32,136
+Come on, baby.
+
+
+529
+0:19:32,136 --> 0:19:38,676
+PETE: Come on.
+
+
+530
+0:19:38,676 --> 0:19:41,112
+ROG: There you go, son!
+
+
+531
+0:19:41,112 --> 0:19:42,8
+There it is!
+
+
+532
+0:19:42,8 --> 0:19:43,448
+TRAVIS: Yeah!
+
+
+533
+0:19:43,448 --> 0:19:44,616
+ROG: That's a good deal.
+
+
+534
+0:19:44,616 --> 0:19:45,984
+TRAVIS: Oh, yeah!
+Now we're talking.
+
+
+535
+0:19:45,984 --> 0:19:47,118
+ROG: Alright!
+
+
+536
+0:19:47,118 --> 0:19:48,419
+PETE: There you go.
+
+
+537
+0:19:48,419 --> 0:19:49,721
+TRAVIS: Now let's bring
+her down, bring her down.
+
+
+538
+0:19:49,721 --> 0:19:50,922
+PETE: Bring it down.
+
+
+539
+0:19:50,922 --> 0:19:53,224
+Easy, easy.
+
+
+540
+0:19:53,224 --> 0:19:54,626
+TRAVIS: Yeah, right there.
+
+
+541
+0:19:54,626 --> 0:19:56,894
+PETE: Good job, man,
+that was awesome!
+
+
+542
+0:19:56,894 --> 0:19:58,429
+TRAVIS: Helicopter taters.
+
+
+543
+0:19:58,429 --> 0:20:0,298
+That was awesome.
+
+
+544
+0:20:0,298 --> 0:20:2,3
+The copter flew perfectly level.
+
+
+545
+0:20:2,3 --> 0:20:5,236
+It looked like it could've just
+flown like that forever.
+
+
+546
+0:20:5,236 --> 0:20:6,971
+It was a perfect test flight.
+
+
+547
+0:20:6,971 --> 0:20:8,906
+Now it's my turn.
+
+
+548
+0:20:8,906 --> 0:20:11,9
+Now we got to recharge
+the batteries
+
+
+549
+0:20:11,9 --> 0:20:13,177
+and let's do a man flight.
+
+
+550
+0:20:13,177 --> 0:20:15,213
+DADDY: I'm still not confident
+with this.
+
+
+551
+0:20:15,213 --> 0:20:17,515
+That dummy's only
+20 pounds or so.
+
+
+552
+0:20:17,515 --> 0:20:20,51
+Travis is eight or ten times
+heavier.
+
+
+553
+0:20:20,51 --> 0:20:21,986
+This might not even
+get off the ground,
+
+
+554
+0:20:21,986 --> 0:20:23,288
+and if it tips over again,
+
+
+555
+0:20:23,288 --> 0:20:27,825
+Travis could be
+seriously injured.
+
+
+556
+0:20:27,825 --> 0:20:29,227
+ROG: Look at that boy, yeah.
+
+
+557
+0:20:29,227 --> 0:20:31,329
+TRAVIS: I've got my fireproof
+race driver's suit
+
+
+558
+0:20:31,329 --> 0:20:32,397
+and my helmet,
+
+
+559
+0:20:32,397 --> 0:20:34,532
+and I'm ready to be
+the test pilot.
+
+
+560
+0:20:34,532 --> 0:20:35,933
+Y'all about got it ready?
+
+
+561
+0:20:35,933 --> 0:20:37,635
+This is gonna be a lot of fun.
+
+
+562
+0:20:37,635 --> 0:20:39,337
+DADDY: Is there any way
+I could talk you out of this?
+
+
+563
+0:20:39,337 --> 0:20:41,572
+TRAVIS: Probably not, Daddy.
+
+
+564
+0:20:41,572 --> 0:20:43,308
+MICHAEL: Get in there
+and fire it up.
+
+
+565
+0:20:43,308 --> 0:20:46,11
+TRAVIS: I can't wait to get in
+that thing and fly it.
+
+
+566
+0:20:46,11 --> 0:20:48,346
+MICHAEL: Do your little test and
+then as long as they all spin,
+
+
+567
+0:20:48,346 --> 0:20:50,982
+we're out of here.
+
+
+568
+0:20:50,982 --> 0:20:52,417
+Got it, we're gone.
+
+
+569
+0:20:52,417 --> 0:20:54,686
+PETE: Alright. The field
+is clear, you're good to go!
+
+
+570
+0:20:54,686 --> 0:21:5,63
+MICHAEL: It's all you!
+
+
+571
+0:21:5,63 --> 0:21:6,397
+PETE: All right.
+
+
+572
+0:21:6,397 --> 0:21:7,398
+DADDY: Oh!
+
+
+573
+0:21:7,398 --> 0:21:9,33
+It ain't gonna work.
+
+
+574
+0:21:9,33 --> 0:21:17,675
+I knew it.
+
+
+575
+0:21:17,675 --> 0:21:22,48
+ROG: Yeah!
+
+
+576
+0:21:22,48 --> 0:21:23,915
+PETE: Yeah!
+
+
+577
+0:21:23,915 --> 0:21:29,721
+ROG: All right.
+
+
+578
+0:21:29,721 --> 0:21:34,25
+PETE: Yeah!
+
+
+579
+0:21:34,25 --> 0:21:34,992
+ROG: Look at him, son!
+
+
+580
+0:21:34,992 --> 0:21:36,461
+PETE: Woo!
+
+
+581
+0:21:36,461 --> 0:21:38,496
+MICHAEL: That's awesome,
+that's awesome! Shut him down.
+
+
+582
+0:21:38,496 --> 0:21:41,299
+TRAVIS: When I hit the ground
+and I realized I wasn't dead,
+
+
+583
+0:21:41,299 --> 0:21:44,168
+I thought that was the greatest
+thing I'd ever done.
+
+
+584
+0:21:44,168 --> 0:21:45,57
+Look at that.
+
+
+585
+0:21:45,57 --> 0:21:47,672
+PETE: That was awesome, buddy!
+
+
+586
+0:21:47,672 --> 0:21:48,506
+TRAVIS: How about that?
+
+
+587
+0:21:48,506 --> 0:21:49,407
+PETE: How'd that feel?
+
+
+588
+0:21:49,407 --> 0:21:50,675
+TRAVIS: Oh, that was great!
+
+
+589
+0:21:50,675 --> 0:21:51,876
+DADDY: You know,
+this has got to be
+
+
+590
+0:21:51,876 --> 0:21:53,344
+what the Wright brothers
+went through.
+
+
+591
+0:21:53,344 --> 0:21:54,712
+They didn't know if
+they could fly or not,
+
+
+592
+0:21:54,712 --> 0:21:57,515
+but they proved that they could
+and this afternoon,
+
+
+593
+0:21:57,515 --> 0:21:59,884
+Travis proved that we could
+build a helicopter right here
+
+
+594
+0:21:59,884 --> 0:22:3,54
+in this garage
+and make the thing fly.
+
+
+595
+0:22:3,54 --> 0:22:4,689
+TRAVIS: Man, let me tell you,
+it felt like,
+
+
+596
+0:22:4,689 --> 0:22:6,491
+I couldn't really tell how high
+I was off the ground,
+
+
+597
+0:22:6,491 --> 0:22:8,393
+but at one time I thought
+I was up there pretty good.
+
+
+598
+0:22:8,393 --> 0:22:9,894
+PETE: Oh, you were about
+like that, yeah.
+
+
+599
+0:22:9,894 --> 0:22:11,562
+TRAVIS: That was cool, man.
+
+
+600
+0:22:11,562 --> 0:22:14,298
+DADDY: I tell you,
+it was a hoot. I loved it.
+
+
+601
+0:22:14,298 --> 0:22:16,1
+TRAVIS: Go watch any flight test
+on a new vehicle,
+
+
+602
+0:22:16,1 --> 0:22:17,502
+they only fly it a few feet
+off the ground
+
+
+603
+0:22:17,502 --> 0:22:19,537
+the first few times anyway.
+
+
+604
+0:22:19,537 --> 0:22:22,206
+That's 100% success right there.
+
+
+605
+0:22:22,206 --> 0:22:23,941
+ROG: Well, it ain't a jetpack,
+
+
+606
+0:22:23,941 --> 0:22:28,78
+but we built a flying machine
+in a garage and made it fly.
+
+
+607
+0:22:28,78 --> 0:22:32,75
+It's like something out of
+Travis' sci-fi books.
+
+
+608
+0:22:32,75 --> 0:24:32,75
+I bet even his biggest fan
+wouldn't believe this.
+
+

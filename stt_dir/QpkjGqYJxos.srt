@@ -1,0 +1,385 @@
+1
+0:0:0,309 --> 0:0:5,823
+[film whirrs]
+
+
+2
+0:0:5,823 --> 0:0:7,5
+[thunk!]
+
+
+3
+0:0:7,5 --> 0:0:12,644
+Hello? Can you hear me?
+
+
+4
+0:0:12,644 --> 0:0:14,126
+Hello?
+
+
+5
+0:0:14,126 --> 0:0:17,22
+[phone beeps]
+
+
+6
+0:0:17,22 --> 0:0:18,104
+[door slams]
+
+
+7
+0:0:18,104 --> 0:0:30,32
+[heavy music in car]
+
+
+8
+0:0:30,32 --> 0:0:57,259
+[banjo music plays]
+
+
+9
+0:0:57,259 --> 0:1:14,642
+[music fades]
+
+
+10
+0:1:14,642 --> 0:1:16,477
+Jess: Oh Cass, do you have a sec?
+
+
+11
+0:1:16,477 --> 0:1:18,147
+Cass: If I said no would it matter?
+
+
+12
+0:1:18,147 --> 0:1:21,111
+Jess: Um, well something really big has come up and I need more hours.
+
+
+13
+0:1:21,111 --> 0:1:23,476
+Cass: Same as you and everybody else.
+
+
+14
+0:1:23,476 --> 0:1:27,28
+[noisy chatter]
+
+
+15
+0:1:27,28 --> 0:1:31,184
+Cass: Sorry about the wait.
+
+
+16
+0:1:31,184 --> 0:1:33,347
+Jess: What about an advanced pay or something?
+
+
+17
+0:1:33,347 --> 0:1:35,24
+Cass: No.
+
+
+18
+0:1:35,24 --> 0:1:37,554
+Jess: Or I could take day shifts because the tips are a heaps better?
+
+
+19
+0:1:37,554 --> 0:1:40,389
+Cass: Jess, if you don't like the arrangements quit.
+
+
+20
+0:1:40,389 --> 0:1:42,702
+Jess: Why do you need to be such a...
+
+
+21
+0:1:42,702 --> 0:1:47,306
+Cass: Such a what? You think you get special treatment because you're pregnant?
+
+
+22
+0:1:47,306 --> 0:1:51,396
+Jess: Please?
+
+
+23
+0:1:51,396 --> 0:1:56,823
+Cass: [sighs]
+
+
+24
+0:1:56,823 --> 0:2:4,147
+Cass: Don't make this my problem. If you can't look after your baby now I can't help you.
+
+
+25
+0:2:4,147 --> 0:2:18,35
+[rousing guitar music plays]
+
+
+26
+0:2:18,35 --> 0:2:24,27
+[tires splash]
+
+
+27
+0:2:24,27 --> 0:2:28,564
+[bell rings]
+
+
+28
+0:2:28,564 --> 0:2:33,336
+[door closes]
+
+
+29
+0:2:33,336 --> 0:2:35,652
+Jess: Wow it's really coming down!
+
+
+30
+0:2:35,652 --> 0:2:37,3
+Woman: Thank you.
+
+
+31
+0:2:37,3 --> 0:2:38,774
+Jess: No worries. Do you want to sit?
+
+
+32
+0:2:38,774 --> 0:2:40,185
+Woman: Oh look at you!
+
+
+33
+0:2:40,185 --> 0:2:42,558
+Jess: Yeah can't miss me.
+
+
+34
+0:2:42,558 --> 0:2:44,503
+Woman: Is it a boy or girl?
+
+
+35
+0:2:44,503 --> 0:2:48,983
+Jess: We are praying for a girl but the way it's kicking is telling me it's otherwise.
+
+
+36
+0:2:48,983 --> 0:2:50,557
+Woman: Is this your first?
+
+
+37
+0:2:50,557 --> 0:2:53,392
+Jess: Yes, it's kind of scary.
+
+
+38
+0:2:53,392 --> 0:2:55,23
+Woman: When's it due?
+
+
+39
+0:2:55,23 --> 0:2:56,624
+Jessica: Next month.
+
+
+40
+0:2:56,624 --> 0:3:0,823
+Woman: Next month? Oh my goodness, you should be at home resting.
+
+
+41
+0:3:0,823 --> 0:3:4,621
+Jessica: Yeah, um well with the baby and everything I have to work.
+
+
+42
+0:3:4,621 --> 0:3:7,705
+Woman: I'm so sorry I didn't - I didn't mean to...
+
+
+43
+0:3:7,705 --> 0:3:12,775
+Jessica: No, um let me know when you're ready.
+
+
+44
+0:3:12,775 --> 0:3:18,425
+[phone beeps]
+
+
+45
+0:3:18,425 --> 0:3:20,504
+Woman: Oh!
+
+
+46
+0:3:20,504 --> 0:3:27,944
+[knock, knock, knock]
+
+
+47
+0:3:27,944 --> 0:3:29,56
+Man: Your tire's flat.
+
+
+48
+0:3:29,56 --> 0:3:32,983
+Woman; Well I'm so glad you came along to tell me that.
+
+
+49
+0:3:32,983 --> 0:3:35,783
+[phone clatters]
+
+
+50
+0:3:35,783 --> 0:3:37,398
+Man: Nice car.
+
+
+51
+0:3:37,398 --> 0:3:40,822
+Woman: Yes they said there will be people coming along soon.
+
+
+52
+0:3:40,822 --> 0:3:45,663
+Man: Look why don't you just pop the boot. Let me get at the tire.
+
+
+53
+0:3:45,663 --> 0:3:54,7
+Man: Have a look around. How long you been waiting already?
+
+
+54
+0:3:54,7 --> 0:3:58,429
+[boot latch clicks]
+
+
+55
+0:3:58,429 --> 0:4:14,829
+[guitar music plays]
+
+
+56
+0:4:14,829 --> 0:4:20,65
+[spoon scraping plate]
+
+
+57
+0:4:20,65 --> 0:4:22,398
+Woman; Are you from around here?
+
+
+58
+0:4:22,398 --> 0:4:26,55
+Man: A few towns over. Out this way looking for work.
+
+
+59
+0:4:26,55 --> 0:4:28,131
+Woman: How's that going?
+
+
+60
+0:4:28,131 --> 0:4:29,337
+[tire lever clatters]
+
+
+61
+0:4:29,337 --> 0:4:31,655
+Man: Arrgh!
+
+
+62
+0:4:31,655 --> 0:4:38,423
+Man: Arrgh [exhales]
+
+
+63
+0:4:38,423 --> 0:4:47,2
+Jess: Here we go. Oh thanks I'll just grab your change.
+
+
+64
+0:4:47,2 --> 0:4:52,726
+[boot slams]
+
+
+65
+0:4:52,726 --> 0:4:55,743
+Man: Well you're all set.
+
+
+66
+0:4:55,743 --> 0:5:14,394
+Woman: Go on, you need it. Go on.
+
+
+67
+0:5:14,394 --> 0:5:25,583
+Man: Thanks but no thanks. We've all been there hey.
+
+
+68
+0:5:25,583 --> 0:5:27,725
+Woman: You're a good man.
+
+
+69
+0:5:27,725 --> 0:5:30,905
+Man: [chuckles] I'm quite the catch.
+
+
+70
+0:5:30,905 --> 0:5:33,6
+[till slams]
+
+
+71
+0:5:33,6 --> 0:5:37,14
+[customers chatter]
+
+
+72
+0:5:37,14 --> 0:5:55,63
+[soft piano plays]
+
+
+73
+0:5:55,63 --> 0:6:0,942
+[uplifting music plays]
+
+
+74
+0:6:0,942 --> 0:6:2,368
+[door slams]
+
+
+75
+0:6:2,368 --> 0:6:7,362
+[engine stutters]
+
+
+76
+0:6:7,362 --> 0:6:34,158
+[uplifting music continues]
+
+
+77
+0:6:34,158 --> 0:8:34,158
+Jess: You'll never guess what happened to me today.
+
+

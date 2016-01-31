@@ -1,0 +1,1373 @@
+###0 [MUSIC PLAYING]
+###4 MALE SPEAKER: Good afternoon, folks.
+###6 Welcome to today's "Authors at Talk."
+###8 We have Huggy Rao and Bob Sutton with us, both from Stanford.
+###13 And they are incredible collaborators
+###15 who have written this new book called "Scaling Up Excellence,"
+###18 which we will be discussing with them today.
+###20 The format, as you can figure out,
+###22 is a fireside chat between us.
+###24 But we will open it up to you for questions at some point
+###28 soon.
+###29 Before I get into interactions with Huggy and Bob,
+###35 my first exposure to Huggy was almost ten years back.
+###37 And we were both working with an Indian nonprofit.
+###41 And then a few years later, we again
+###43 connected when I was at Google.
+###44 And he is a frequent visitor to our annual PiLab summit, which
+###48 is a gathering that we have every year, where
+###53 we get academics from different social scientists
+###55 to come out here.
+###56 And Huggy always asked the most incisive questions out there.
+###60 And he would say, can I be mischievous?
+###62 And ask a critical question that would really make us think.
+###67 And so today, I'm happy that I get
+###69 to ask him the mischievous questions about his book.
+###71 BOB SUTTON: He'll probably get you a couple times.
+###75 MALE SPEAKER: And Bob is a professor
+###77 at the Stanford engineering school.
+###79 And Bob doesn't know this, but Jennifer Kurkoski,
+###82 who leads our People & Innovation Lab,
+###84 said that one of the best reads, that she has ever
+###87 had on the academic side, is a paper
+###90 that Bob authored in ASQ in '96.
+###93 This was about brainstorming an idea--
+###95 BOB SUTTON: Oh yeah, that was a long time ago--
+###96 MALE SPEAKER: --and she said, that was the best research
+###98 that she has ever read that describes
+###100 a qualitative methodology.
+###102 So we're really excited to have both of them out here.
+###105 They have set up this program about scaling
+###109 that they've been running at Stanford.
+###111 And coming from both the business school side, as well
+###114 as the engineering side, they really
+###116 have a very Googley, I guess, approach
+###119 to thinking about this huge problem with scaling.
+###123 So let's give a warm welcome to Bob and Huggy.
+###126 BOB SUTTON AND HUGGY RAO: Thank you very much.
+###127 Thank you.
+###127 
+###129 MALE SPEAKER: So I have a few questions
+###131 to start off the discussion.
+###132 And then we'll get into some of your questions too.
+###137 So the first one, I guess is, tell us
+###139 what you mean by scaling?
+###141 And why you thought it was important to write this book?
+###144 BOB SUTTON: I guess, Huggy's looking at me,
+###146 so that means I'm supposed to go first.
+###148 So in the process of thinking about what this challenge was,
+###152 it actually was a pretty simple problem
+###155 that we thought was going to take
+###156 a couple years to figure out.
+###157 But some seven years later, we're still struggling with it.
+###160 And it's essentially, when you've
+###161 got a little bit of goodness in an organization,
+###164 how do you spread it further?
+###165 So it's everything from, you've got a startup,
+###169 being Googley would be a good example like, how do you
+###171 maintain your Googley-ness as you get bigger?
+###174 And also, spreading goodness across the system,
+###177 and getting rid of bad behavior.
+###179 So one of the big things that led us to this research
+###184 was, we were involved in the founding of the Stanford
+###186 d.school, or Hasso Plattner Institute of Design.
+###189 And spreading design thinking or innovation was a big challenge.
+###193 And executives were always asking us, well, we've
+###196 got this one group that's really great, how
+###198 do we spread it further?
+###199 So I guess the headline is, spreading something
+###202 good from the few to the many.
+###204 And it's a simple problem, but it's not easy to address.
+###207 So that's the basic thing.
+###209 HUGGY RAO: A very complementary addition
+###212 to that would be that-- spreading good from one pocket
+###216 to many pockets.
+###218 You can think of that problem as a problem of diffusion,
+###220 if you will.
+###221 But there's also another dimension of scaling.
+###223 And that is, if you're a small startup,
+###225 as you grow rapidly and become larger in size,
+###229 how do you actually scale successfully
+###232 in the sense of not only achieving
+###233 a particular footprint metric, but also making sure
+###238 you retain your mindset.
+###240 Let me illustrate that with a little example.
+###243 One of the venture capitalists mentioned
+###246 that the difference between a startup and a large company
+###249 was, startups are like beach volleyball.
+###253 You've got two people.
+###254 You don't have substitutes.
+###255 You don't have coaches.
+###256 You know what the game plan is.
+###258 You've got to make sure the ball doesn't touch the sand.
+###260 You're playing volleyball still, you go from two to six.
+###263 All of a sudden, if Prasad serves from the other end,
+###268 I receive the serve.
+###270 Bob takes it and supplies it to Cliff, here.
+###273 Cliff arcs into the air and smashes the ball into the net.
+###277 I'm sorry, Cliff.
+###279 The interesting problem is, whose fault was it?
+###281 Was it Prasad's serve that was unplayable?
+###285 Was it my fault that I couldn't receive the serve well?
+###288 Or was it the way Bob supplied?
+###289 Or was it Cliff's problem?
+###291 So you can see, when you go from two to six,
+###294 how very quickly it becomes a problem.
+###296 And you can extend it, six to 60,
+###299 to 600, to 6,000, to 60,000, and the like.
+###304 MALE SPEAKER: Great.
+###305 Thank you for that introduction.
+###306 So given that as the basis then, if you
+###310 have to summarize, what is the advice that you would give
+###313 organizations on how they should achieve scaling?
+###316 And specifically, how would that differ for a startup,
+###320 as you mentioned, versus, let's say a large organization
+###324 like Google?
+###326 HUGGY RAO: Let me take a quick stab at that.
+###329 For a startup, I think the advice that both of us
+###334 talk about in the book is, smart scaling
+###338 means that you take time, and you do it slowly.
+###341 We just recently had an organization
+###345 that actually was acquired by Google, Waze.
+###350 And we actually had one of their executives
+###352 come and talk to our class, and he gave a great example.
+###355 They were growing in Israel.
+###356 You've got all these resources, and the VC is saying,
+###360 now's the time to expand higher, higher, higher.
+###363 The top managers get together and say, you know,
+###367 now is the time to have a hiring freeze.
+###369 And that's sort of somewhat counterintuitive.
+###371 And people within the company are astonished, how could you
+###374 say you have a hiring freeze right when you've
+###376 got all this money from the VCs?
+###378 And the argument was the following.
+###382 The moment you expand, you actually
+###384 are going to get a lot of smart people with very many ideas.
+###388 And since you want to focus on a particular product application,
+###391 you're going to wind up spending a lot of time
+###394 saying no to their smart ideas.
+###397 And that's not something you want to do.
+###398 The other interesting thing was, when
+###401 you hire people in a startup, the smart people
+###404 assume they can hit the ground running.
+###406 But often many of them can't.
+###408 And very quickly you've shifted the ratio
+###410 of unproductive to productive people, at least
+###413 for a short window of time.
+###415 And the third thing is, of course, you
+###416 increase coordination costs enormously.
+###419 So what they did was-- they did a smart thing--
+###421 which is hiring freeze.
+###424 But they made sure, during that period,
+###427 every single employee was focused
+###429 on one number-- improving their retention of users
+###433 after three months.
+###434 And pretty much every day, you have one question to ask.
+###438 What did I do today to improve that number?
+###441 So scaling smartly, very important
+###443 for small organizations.
+###445 I'll turn it over to you for the larger organizations--
+###446 BOB SUTTON: --I get the large end?
+###447 Well, I would also emphasize that there's
+###449 a lot of things that are similar.
+###452 And in particular, there's kind of two principles that
+###455 are implied in what Huggy said.
+###456 One is the notion that adding more people
+###459 isn't necessarily good.
+###460 This notion that many hands make light work.
+###463 And we were actually talking about this at lunch.
+###466 So in 2002, one of my other co-authors, Jeff Pfeffer and I
+###469 interviewed Larry Page, when Google was about 400 people.
+###472 And Larry emphasized how the venture capitalists
+###475 were giving all this grief that he wasn't hiring fast enough.
+###478 And that all of his friends from Stanford were giving him grief.
+###480 But he said, we really have to slow down, and hire and get
+###485 the right people who can grow with Google.
+###487 And I'm not going to back off on that.
+###490 And then, for the book, we interviewed Shona Brown,
+###492 who was quite senior here for many years
+###494 and helped grow sort of the non-product part
+###496 of the organization, in particular.
+###498 And Shona said, we constantly had this issue,
+###502 where people are telling us to hire faster,
+###503 but we had to make sure we got the right people in the seats.
+###506 And I think that's a pretty good philosophy, , see,
+###509 even the small versus a large company.
+###512 But if I was going to talk about large companies,
+###515 one of things that becomes increasingly important as they
+###517 grow larger is-- and this is Huggy's expression--
+###521 is the notion that bad is stronger than good.
+###524 Or the path to greatness is to get rid of badness,
+###527 so bad to great.
+###528 And so what happens as companies get older,
+###532 very often sort of bad behavior or ineffectiveness
+###535 starts growing and growing.
+###536 And if you just push the good, and you don't get rid
+###540 of the bad, the bad gets obscured.
+###541 And there's lots of evidence that, things
+###543 like laziness, incompetence, all sorts of difficult things,
+###547 just overwhelm the goodness.
+###549 So good companies, and I'll sort of stop here,
+###551 they view scaling as a problem of more or less.
+###556 They're always adding more people,
+###558 expanding the more places and so on.
+###560 But in the process, they're getting rid
+###562 of things that are getting in the way, are
+###564 no longer effective.
+###566 HUGGY RAO: If I could just add one more line to that.
+###569 The big difference, I would say, between a small company scaling
+###572 and a large company scaling is that, in a large company,
+###575 I would hypothesize that the larger the company,
+###579 the greater the probability that the smart people inside
+###583 are going to become dumber.
+###585 What I mean by that is, obviously I
+###587 don't mean to insist--
+###588 BOB SUTTON: Take that Google.
+###589 [LAUGHTER]
+###590 HUGGY RAO: --I don't mean to insist
+###592 that smart people become stupid.
+###594 Clearly that's an untenable position for me to argue.
+###597 But what I would say is, that smart people can become dumb
+###600 in the sense of being silent.
+###603 And so in a large enterprise, I would
+###605 submit that silence is the real enemy of excellence.
+###609 BOB SUTTON: So just real quickly,
+###610 I was at Pixar yesterday and met with some of the senior folks.
+###614 And one thing that they did-- because Pixar
+###617 is sort of at this point in transition
+###619 where they've kind of grown up and everything-- and so
+###621 Ed Catmull, who is president of Pixar,
+###622 was worried that too many people were being silent.
+###625 And the way Pixar actually does movies is that, four
+###627 or five people who are the brain trust-- John Lasseter, Pete
+###633 Docter, a number of other folks, who make comments on movies,
+###636 and they write notes.
+###637 But they had notes days where everybody
+###639 wrote notes about everything that
+###641 could be improved at Pixar.
+###642 And it was because they were worried they had grown
+###645 and the silence had sort of sunk in.
+###647 And as they had gotten larger and older,
+###649 there was too much of that.
+###650 And that was a countervailing force.
+###654 MALE SPEAKER: The technology industry
+###655 has grown rapidly over the last few decades.
+###660 And within that industry, there are many companies
+###663 that have grown very, very quickly.
+###666 And given your vantage and your knowledge
+###669 of what's happening in that industry,
+###671 do you see the processes and tools
+###675 that technology companies use to scale?
+###677 Are they different from what used
+###679 to happen a generation ago?
+###680 Or different from how it happens in the other industries?
+###684 BOB SUTTON: What do you think, Huggy?
+###686 HUGGY RAO: They are certainly very different.
+###688 I mean, if you take Google, for example, and compare it to,
+###692 let's say the median firm in Detroit.
+###695 The way they scale is very, very different.
+###697 Not just in terms of sheer pace, but also
+###700 as you very rightly point out, the technology.
+###703 One advantage is, you actually have technology
+###706 that allows great decentralization.
+###708 But conversely, technology also that
+###710 allows great monitoring as well.
+###713 So you actually have both dimensions of scaling.
+###717 Whereas in the older industries, as it were,
+###721 the problem is the costs of monitoring
+###725 are very, very high because you really lack line of sight
+###729 into the enterprise.
+###730 Coincidentally, by the way, our operational definition
+###733 of excellence, since both of us are social scientists,
+###737 is not metric-related.
+###739 But it simply means, excellence is
+###742 when an organization-- when people in an organization--
+###745 do the right thing, even when nobody's monitoring them.
+###748 Even when nobody is actually watching over your shoulder.
+###751 So I would say the older generation companies perhaps
+###756 invest a little more in the monitoring part.
+###758 Here, the kinds of individuals who
+###760 self-select, they presumably disdain monitoring, in fact,
+###765 otherwise they wouldn't actually join the organization.
+###767 BOB SUTTON: One thing I would also
+###769 add-- I tend to think of similarities more
+###771 than differences-- maybe it's because I'm
+###773 an old fashioned, qualitative researcher.
+###777 But when I look even within tech firms,
+###780 it's amazing how-- when organizations
+###782 have a different mindset about how they're
+###784 going to do things-- how it affects
+###787 a whole bunch of different decisions about how people are
+###790 hired, about how, actually, a who gets fired,
+###793 the incentives, and so on, and the nature of their work.
+###796 And one thing-- and I actually talked about this a little bit
+###798 with your BizOps group about three or four months ago--
+###801 when I think of-- and I already mentioned this a little bit--
+###804 when I think of Google, I think of it
+###805 as a place that has generally leaned towards generalists,
+###808 and people can grow in the role.
+###810 And at least, my conversations with Apple-- and I
+###812 can't quote people because, of course,
+###814 they'll shoot me, it being Apple.
+###816 But my conversations with people at Apple
+###818 is-- and I was told this story directly
+###820 by a senior executive-- is people get more senior here,
+###823 they get more specialized.
+###826 And if you have an organization where
+###827 you are assuming people are becoming
+###829 more generalists versus more specialized,
+###831 you have to run it in completely different ways.
+###834 And I think that's an important difference between Google
+###837 and Apple, and it doesn't work perfectly in all cases.
+###839 You have certainly specialists here,
+###841 and they have generalists there.
+###842 But a sort of exhibit one-- and this
+###844 is what this guy was talking about--
+###845 was what was going to happen with Ron Johnson
+###848 when he went to JC Penneys.
+###849 So Ron Johnson was just extremely focused on,
+###852 what's the experience like an Apple store?
+###855 And the way it was described to me, him and Steve
+###857 would argue for like an hour over exactly what angle
+###860 an iPad should be in the store.
+###862 And then you give a guy like that an entire business to run,
+###865 the supply chain, pricing, you add everything.
+###867 He would not be prepared as much to be a generalist.
+###869 If you took another company like General Electric,
+###871 it would be sort of the opposite sort of career path.
+###874 So I do think that tech might have
+###876 some of its own characteristics, but
+###878 the company-to-company variation is just astounding.
+###882 Even in the old days, I remember sitting
+###884 in on new training for Facebook employees.
+###887 So this was like-- and half of them
+###889 were from Google, by the way.
+###891 And I remember Chris Cox, who's now head of products,
+###893 and then head of HR, saying, yes, you can go in tomorrow,
+###896 and you can touch the code, and you can break it.
+###898 And they'd say, we can't do that at Google.
+###900 So the point is that, the different standards
+###904 in companies are very important for scaling
+###906 because-- as Huggy would say-- that in good organizations,
+###909 people have a really clear view of what is sacred
+###912 and what is taboo.
+###913 And those vary from organizations to organizations.
+###916 And when everybody agrees, it helps a lot.
+###920 BOB SUTTON: As I was thinking about your question,
+###922 what suddenly hit me also, was the sheer difference
+###926 in the physical architecture between the tech companies
+###931 and the old industrial giants.
+###933 Open offices and all of these things.
+###936 And I think part of what the tech companies do
+###939 is they provide way more cues to individuals
+###943 to excel than, I would submit, the large companies.
+###947 Let me give you one research study which actually shows
+###951 that when you have bright lights,
+###953 people actually resort to much less cheating.
+###955 Turn down the lamps, the propensity to cheat increases.
+###959 So lamps matter more than cops, is one simple thing.
+###964 And you can go to any organization
+###966 and simply look at, how bright is the place?
+###970 How dark is the place?
+###971 That ought to give you at least an initial kind
+###973 of working hypothesis about what's likely to happen.
+###976 
+###978 MALE SPEAKER: One of the scaling mantras
+###980 that you have in the book.
+###981 It is very colorful, it's called "Feel the Clusterfug"--
+###986 BOB SUTTON: It's "fug" not "fuck."
+###987 MALE SPEAKER: --and the last few letters
+###989 are F-U-G, because we know this is going to be on YouTube.
+###992 So tell us what you mean by that.
+###995 BOB SUTTON: You're looking at me, why don't you go?
+###997 HUGGY RAO: OK.
+###998 Bob, of course, is well known to have a tendency
+###1005 to really aim for very provocated titles.
+###1009 His earlier books are inspired, let's say by various parts of--
+###1014 BOB SUTTON: The "no asshole world,"
+###1016 you can put that, if you want--
+###1016 HUGGY RAO: Well, there you go.
+###1018 So originally he was actually wanting to think of the book
+###1023 as, maybe we ought to call it cluster,
+###1026 and then you know what the expletive is.
+###1028 The four letter word that follows cluster.
+###1031 And as we were writing it, the editors of course
+###1034 said, wait a minute you can't use something like that.
+###1037 And fortunately, he quickly sort of thought
+###1040 of Norman Mailer, who used the word "fug" to indicate the act.
+###1045 And very quickly we thought of clusterfug.
+###1048 So that's kind of the etymology of clusterfug.
+###1050 Do you want to talk about--
+###1052 BOB SUTTON: --so you get to do the fun part?
+###1053 HUGGY RAO: --I get to do the fun part.
+###1054 BOB SUTTON: So where this came from
+###1054 is, we were having a dinner with a guy named Mark Hershon who
+###1057 actually is a professional namer.
+###1059 So he named the BlackBerry, he named Swiffer,
+###1061 he's really a good namer, Dasani water.
+###1064 And so we were trying to figure out
+###1065 what the opposite of good scaling
+###1067 was so we came on this word, clusterfug.
+###1068 HUGGY RAO: After a lot of wine.
+###1070 BOB SUTTON: After a lot of wine.
+###1071 And we realize that there's sort of three characteristics you
+###1075 would see, in particular, a bad IT Rollout at Stanford,
+###1078 we were thinking of.
+###1080 Or you can figure out what happened with Obamacare just
+###1082 recently.
+###1083 And when bad things happen, there's
+###1084 three characteristics we always would see.
+###1087 The first one would be illusion.
+###1089 That this is going to be so easy, overconfidence, bias,
+###1091 we can just roll it out.
+###1093 So that's the first one.
+###1094 The second was impatience, and this is classic with scaling,
+###1097 we can do this really fast.
+###1098 No problem.
+###1099 And then the third one is, the people
+###1102 doing it are incompetent.
+###1103 And that makes others incompetent.
+###1106 And to us, those three, illusion, impatience,
+###1109 and incompetence, are the hallmarks of both the causes
+###1113 and the characteristics of bad scaling.
+###1115 And I think that that happened with Obamacare,
+###1117 to name a company.
+###1119 If you sort of dig in to what happened with poor Groupon.
+###1123 I hope nobody here used to work at Groupon.
+###1124 But if you read the CEO's resignation letter,
+###1128 pretty much all three of those things were raging at Groupon.
+###1133 And when I look at the companies in the Valley
+###1136 that have generally got it right, they somehow or another
+###1139 avoid that.
+###1140 Especially the impatience part is sometimes the worst thing.
+###1143 HUGGY RAO: So the implication behind all of this
+###1145 is, really scaling up is easy, but screwing up
+###1149 is equally easy.
+###1150 And the problem of course is when people screw up,
+###1154 we typically only focus on what's called, the sharp edge.
+###1158 You look at a person or persons and promptly blame them.
+###1162 But when you really understand what
+###1163 causes them to make the mistake or the screw up,
+###1166 you quickly realize there is actually
+###1168 a confluence of a couple of things.
+###1171 One is the psychology, the illusion part.
+###1175 And the other is circulation, or physiology.
+###1179 And this gets at the impatience part.
+###1181 You hasten things, you do things, you block circulation.
+###1184 And the third is anatomy, the structure in who
+###1188 can occupy positions in the structure.
+###1190 So all three of them kind of to come together.
+###1193 And the result is, anything from Sochi, from one extreme,
+###1197 to the doping scandal in biking.
+###1199 So you can pick whatever you want in between,
+###1201 you pretty much get an idea of how attempts to reform usually
+###1207 wind up in clusterfugs.
+###1210 MALE SPEAKER: Thank you for sharing that.
+###1213 I have a bunch more questions, but if you have anything
+###1215 please feel free to line up at the mic.
+###1217 BOB SUTTON: We would love to hear some questions.
+###1220 Torture us, we love that.
+###1221 MALE SPEAKER: Yes, and while you're lining up,
+###1223 let me just continue with a couple more.
+###1226 And one of them is, the role of bureaucracy, right.
+###1231 And so we often hear that organizations
+###1235 grow by instilling a lot of bureaucracy.
+###1237 But then that is not something that people
+###1240 find very pleasant to bear with.
+###1242 What is the role that you see for bureaucracy--
+###1246 BOB SUTTON: --let me start out with that.
+###1249 So bureaucracy seems to be used as a dirty word.
+###1254 And to me there's a difference between having
+###1256 just enough structure and just enough process,
+###1258 versus having stuff that weighs people down.
+###1261 And this is a big scaling issue which
+###1262 is, when and how late you add process.
+###1264 But just to go to what Huggy's little companies
+###1267 that-- so there's a company called
+###1268 Pulse started by two Stanford students, Ankit and Akshay.
+###1272 So we went and we talked to them.
+###1273 And they had about 11 or 12 people when we talked to them.
+###1276 And they were describing how when
+###1278 they got about seven people, they
+###1280 realized that they have to break into a couple of teams, two
+###1283 or three teams, because it was too big.
+###1285 Teams over five or six usually are a nightmare,
+###1287 especially when you get to 10.
+###1288 And then when they got to 11, and that's
+###1290 about the time where there are 11 or 12 people.
+###1292 They're all in one room, sort of the street in Paulo Alto,
+###1295 sort of the typical startup space with sort
+###1297 of rough floors and everything.
+###1298 But what they did is they had them working in three or four
+###1300 different teams.
+###1301 So they had division.
+###1302 And then they each had a board that they
+###1305 put with a Post-it note, what they were working on.
+###1307 And then every afternoon, each team
+###1309 would say, this is what we work-- they all turn around,
+###1311 they would announce the other teams,
+###1313 this is what we worked on.
+###1314 Here's the challenges we need, can you help us?
+###1317 And to me that's actually some bureaucracy.
+###1319 It's some process.
+###1320 It's some division.
+###1323 But the challenge, and this is Chris Fry,
+###1325 who is now head of Twitter, some engineering group,
+###1329 and is going to bring me to a Commonwealth Club event
+###1331 with him next week.
+###1332 And Chris has this great line which
+###1334 is that, the purpose of hierarchy
+###1336 is to defeat bad bureaucracy, basically.
+###1339 And I really like that line because some time stuff that's
+###1342 put in causes all this friction, and that's bad bureaucracy.
+###1345 But sometimes, I mean you've got to add a little bit complexity.
+###1349 And the things he has, his test is, if what you put in
+###1352 helps people get their work done,
+###1354 but it doesn't feel like they're walking in muck,
+###1356 then you're doing your job right.
+###1357 And you've always got to be sensitive to that sort
+###1360 of balance.
+###1360 But bureaucracy has become, appropriately so,
+###1363 a dirty word because of the way it's done so often.
+###1365 But you do need hierarchy, you do need division of labor,
+###1369 and you do need process.
+###1371 Sorry, Google wouldn't work without all those things, as
+###1375 warm and fuzzy a company as it is.
+###1377 HUGGY RAO: My quick take on bureaucracy is the following.
+###1380 I was actually reminded of the role of bureaucracy
+###1383 when I was actually at a CTO forum a couple of days ago.
+###1387 And one of the participants, they put it,
+###1389 I thought, very cleverly.
+###1391 He said, look, the great thing about brakes
+###1395 is they also make you go faster.
+###1396 BOB SUTTON: He means brakes on cars.
+###1398 HUGGY RAO: Yeah.
+###1399 Brakes on cars.
+###1399 We often think of brakes, of course,
+###1401 as something that limits speed.
+###1403 But you could plausibly argue, when you have breaks you
+###1405 actually go a little bit faster too.
+###1407 And it's a little bit like that for rules.
+###1410 And the real challenge about rules and bureaucracies
+###1414 is whatever you do, you ought not to increase cognitive load.
+###1419 And what we talk about in the book is, if you increase load,
+###1423 you erode willpower.
+###1424 And one of our colleagues did a beautiful experiment,
+###1427 which actually was a variation on a theme.
+###1430 So what he did was he took a large room
+###1432 like this, randomly assigned you to two conditions.
+###1435 One condition, you actually had to remember
+###1437 a unique two-digit number.
+###1439 The other condition, you had to remember
+###1440 a unique seven-digit number.
+###1442 And all that he does is, he opens the door there.
+###1445 And along the corridors, there are
+###1446 two tables, one laden with chocolate dessert, one laden
+###1450 with fruits.
+###1452 And lo and behold, what he finds is,
+###1454 people who have been asked to remember the seven digit
+###1456 number.
+###1457 They're saying 238-9242 or whatever,
+###1459 and the next thing you know is, you're really
+###1461 kind of attacking the chocolate.
+###1463 And the guys were told to remember the two digit number.
+###1466 They can resist the temptation of chocolate,
+###1468 and actually go eat the fruit.
+###1471 And what we do in organizations when
+###1473 we increase bureaucracy is, we're
+###1475 actually increasing demands on people.
+###1477 Everyone has to remember the seven digit number.
+###1480 And then it's no use standing up and giving a speech and saying,
+###1483 use your willpower.
+###1484 They can't.
+###1485 Because it's all depleted anyway, and that's the problem.
+###1490 BOB SUTTON: We got a question.
+###1491 ALL: All right.
+###1492 All right.
+###1492 Thank you.
+###1493 
+###1497 AUDIENCE: My question relates to,
+###1499 one of things I'm hearing as you're talking,
+###1501 is that people who, needing to scale up,
+###1504 need to change the way in which they're doing things,
+###1506 obviously.
+###1507 One of things I'm thinking, if I play a role in Google, which
+###1510 is designed to help people learn how to do that,
+###1512 can you teach people to scale up?
+###1514 And if so, what are some of the things
+###1516 that are important to consider.
+###1517 BOB SUTTON: So that's a great question.
+###1519 And in the mindset that at least we try to instill, folks,
+###1523 is constantly think, what got you here
+###1526 that won't get you to the next stage?
+###1528 And two diagnostic things I would start with, and then
+###1533 Huggy maybe you can jump in, is to go back to this size thing.
+###1537 Because there are things that work at one size
+###1539 that won't work in another.
+###1540 One of the classic ones, and one of the companies
+###1542 we know very well, IDEO.
+###1544 For years, when I was doing an ethnography there,
+###1547 I would go to the Monday morning meeting.
+###1549 There would be 60 people.
+###1551 David Kelly, the CEO, would run it perfectly.
+###1553 It got up to 150 even-- everybody would talk,
+###1556 there would be this esprit de corps,
+###1558 150 was just-- it was a clusterfug.
+###1560 So they divided it up, and you sort of had to do it.
+###1564 So that's one of the things.
+###1565 And then the other test is that, back to this idea,
+###1570 it feels like people are walking in muck.
+###1571 And one tool we've been using-- in fact,
+###1574 there's a Fortune 500 company that we just did this with,
+###1576 where the CEO basically put $5,000 on the line
+###1580 for each of the group presidents,
+###1581 is we call the subtraction game.
+###1583 And what we do is we have people think about what things
+###1586 are getting in the way, and subtract stuff.
+###1588 And it's amazing when you think about that.
+###1591 Well if somebody came in your role,
+###1592 which part would you take out?
+###1594 That can be quite powerful.
+###1597 You have some other ideas too, but I
+###1600 do think it's a mindset of being aware of what is getting
+###1602 in the way, in weighing us down.
+###1605 HUGGY RAO: Just as a quick little extension.
+###1607 Given your role for us, the key thing about scaling
+###1611 is, scaling actually has inflection points.
+###1616 So scaling is not arithmetic, you
+###1618 have to really think calculus, if you will.
+###1620 So as you move from one inflection point to another,
+###1623 what worked if you scale, let's say from zero to 50
+###1626 units may not work as you move from 50 to 100, then et cetera.
+###1631 So the way we think about these challenges
+###1634 is, you may start out as a Catholic,
+###1637 and by which we mean you have a model
+###1639 that you want to replicate.
+###1641 But as you quickly go up in scale,
+###1644 the option that you really want to think about
+###1646 is, how can we actually become Buddhist?
+###1649 By which we mean that instead of actually prescribing
+###1654 every single thing you do, you outline general principles,
+###1657 and you give tools to people.
+###1660 So starting out Catholic becoming Buddhist
+###1664 is certainly a useful thing.
+###1666 Conversely, in large companies where
+###1668 there's a lot of bad behavior, there's
+###1670 a lot of Buddhism with respect to bad behavior too.
+###1672 So there, one of the things you have to do
+###1674 is, you have to be pretty Catholic about what
+###1676 the bad behavior is.
+###1678 Stop that one thing.
+###1680 So those are the trade-offs that you
+###1682 have to actually think of making.
+###1685 BOB SUTTON: Good question.
+###1688 AUDIENCE: Hi.
+###1690 My question.
+###1691 At Google, oftentimes we hear this principle,
+###1693 and we act on them, and I know I've
+###1695 done, is "launch and iterate."
+###1697 Because we don't have time to scale slow,
+###1701 that's the advice you said in the beginning.
+###1703 Because there's all these demands that are coming to us
+###1705 and we need to act extremely fast.
+###1708 So how does your idea of scaling slowly,
+###1714 would really work with this "launch and iterate" principle?
+###1717 BOB SUTTON: To me, you sort of have
+###1720 to decide which things you have to slow down at.
+###1722 So you can do other things fast.
+###1725 So I hate to bring up Facebook, but I will.
+###1728 They put an enormous amount of energy
+###1730 into hiring people and brainwashing them properly.
+###1733 So they can move fast and break things.
+###1735 So that's even more extreme than iteration.
+###1737 And if you have the right people, and people
+###1739 who will learn fast enough, and this,
+###1741 we teach in the design school, both of us.
+###1743 That's our whole philosophy is rapid
+###1746 prototyping and moving fast.
+###1749 And to me, the question is when you do that, do you create--
+###1754 are you doing it in such a way where it's actually
+###1756 safe to fail?
+###1758 And if you're moving fast and breaking things
+###1760 or doing rapid prototyping.
+###1762 To me that's just fast learning.
+###1764 And that should work.
+###1765 But if you're doing that in a setting, where it's not
+###1768 safe to fail, so surgery, launching an airplane,
+###1773 keeping the Google site running, I
+###1774 mean if people can't do a Google search,
+###1776 really bad things are happening.
+###1777 So I'm all for moving fast and breaking things
+###1781 or rapid prototyping and the like.
+###1783 But the more skilled people you've had,
+###1785 so the more time you spent hiring them,
+###1787 and the more they have actually shared ideas
+###1789 of what effectiveness looks like and
+###1791 doesn't, the faster you can move forward.
+###1793 That's why Huggy's metric, Waze, is that the name that company?
+###1798 That their metric was, are we acquiring customers or not?
+###1801 So that's what success was.
+###1802 So theirs is agreed upon.
+###1803 But I'm not saying you should oh, be a nervous Cindy
+###1806 and not move fast.
+###1807 But there are times in life-- there's
+###1809 a guy named Jerome Groopman, who writes stuff
+###1811 on how doctors do diagnoses, and sometimes
+###1814 in life, the best advice he says is, don't just do something,
+###1819 stand there.
+###1820 And a lot of the key to life-- and this is Danny Kahneman,
+###1824 Nobel Prize-winning stuff too-- is figuring out
+###1827 when you go to that sort of system
+###1828 too where you actually have to do deep cognition versus boom,
+###1831 we can go on automatic pilot.
+###1833 So I don't think there's any hard, magic answers there.
+###1836 But knowing when to hit the brakes,
+###1837 so then you can accelerate later,
+###1838 to use Huggy's metaphor is a lot of what scaling and all
+###1841 of organizational life is about.
+###1843 HUGGY RAO: Very quickly, if I can add--
+###1845 BOB SUTTON: Good question.
+###1846 HUGGY RAO: I think-- very nice question.
+###1848 I'm often reminded of a lovely Latin proverb that
+###1851 goes something like this, "Festina Lente," which
+###1853 means "make haste slowly."
+###1856 So here's the problem.
+###1857 The problem is when decision makers want to scale,
+###1861 they usually think of desirability considerations.
+###1864 What's desirable?
+###1866 And cognitively, when we think of what's desirable,
+###1869 we actually think in very abstract ways.
+###1872 We call that the air war in the book.
+###1874 You sort of think it's an air-war problem.
+###1876 All that you've got to do is you've
+###1878 got to launch it all out.
+###1879 You've got to do this, you've got to do that.
+###1881 You think things are going to really scale.
+###1883 But real scaling actually requires great attention
+###1885 to concrete details, and to think feasibility.
+###1889 So you really have to think about the ground war.
+###1892 And in order to fight a ground war.
+###1894 As you can imagine, a ground war also is intense, but arguably
+###1898 that occurs on a somewhat slower time scale than just an air
+###1903 war--
+###1903 BOB SUTTON: And I would add, back to your prototyping idea.
+###1906 So the great thing about prototyping
+###1907 is, if you're good prototyper, whether it's
+###1910 software or a product, it's really tangible.
+###1913 You give people-- do you want the latch like this?
+###1915 Do you want A or B, out of AB testing?
+###1918 So the great thing about prototyping
+###1919 is, you actually got tangibility.
+###1921 You're not thinking abstractly.
+###1923 That's like our definition of a lousy group of Stanford
+###1927 students or executives, is they're
+###1929 talking tangibly, and then my buddy Diego Rodriguez
+###1933 from IDEO, when they talk like that, and he says,
+###1935 where's your prototype?
+###1936 And if they don't have a prototype, he says, F,
+###1938 and he leaves.
+###1939 So tangibility is a big part of that concreteness.
+###1943 Please.
+###1944 AUDIENCE: I have another question,
+###1945 since nobody else is here.
+###1947 BOB SUTTON: Oh good.
+###1947 Yeah.
+###1947 Go for it.
+###1948 AUDIENCE: So you said that you define excellence very
+###1951 generally, when people do the right thing when nobody's
+###1954 watching, something like this.
+###1956 I think at Google, we are very metrics-driven.
+###1958 So we need to define excellence with metrics.
+###1962 So what do you discuss about that in your book,
+###1966 or you just keep it very general?
+###1968 HUGGY RAO: I think what we talk about is,
+###1970 when we think about excellence, we actually
+###1972 are talking a lot about accountability.
+###1975 Accountability actually has two dimensions.
+###1978 One dimension is, you feel like you own the place.
+###1982 But you can actually do things to influence development
+###1986 metrics or whatsoever has been actually entrusted to you.
+###1990 The second dimension really is, but you also
+###1995 feel the place owns you.
+###1997 So you need, I think, the push of commitment
+###2000 and the tug of obligation.
+###2002 And what's important with metrics is,
+###2006 you want to make sure you preserve
+###2007 that feeling of ownership, and you
+###2009 create that sense of obligation.
+###2011 If it's only metrics that you have-- you
+###2015 can actually get to that footprint,
+###2017 but lose the mindset.
+###2019 A couple of weeks ago, there was this company
+###2021 called Health Associates, which I
+###2024 think is a Florida-based company that actually was indicted
+###2027 by the attorney general's office.
+###2029 Why were they indicted?
+###2031 Because they were actually admitting people
+###2032 into hospitals when there was absolutely no reason to do so.
+###2036 And what was fascinating was the emphasis on metrics.
+###2039 Every physician had a color-coded ID, if you will,
+###2045 on a scorecard.
+###2046 You beat target, you were green.
+###2049 You were close to target, you were orange.
+###2051 You were below target, you were red.
+###2054 And what do you think these physicians did?
+###2056 They were admitting young infants
+###2057 with temperatures of 98.7, saying that they were abnormal.
+###2062 Let them actually get admitted into the hospital,
+###2064 because you're actually increasing revenue.
+###2067 So there's also a dark side of accountability.
+###2071 And the dark side of accountability
+###2073 often is realized on the over-emphasis on metrics.
+###2077 And we talked at length about that,
+###2078 to be very mindful of that.
+###2080 BOB SUTTON: But I'll get to what your saying,
+###2081 but I want to-- and this is actually very good question--
+###2084 I wouldn't necessarily directly disagree with Huggy, but--
+###2087 HUGGY RAO: Please do.
+###2088 BOB SUTTON: --but I agree that you have to-- that things
+###2090 are more effective-- whatever the metrics are, when there's
+###2093 that feeling that, I own the place, and the place owns me.
+###2095 And you know what the larger thing
+###2097 you're trying to accomplish is, assuming it's ethical.
+###2099 Because this would work from unethical organizations too.
+###2101 Let's have as many murders as we possibly can,
+###2103 might be, for some organizations,
+###2105 a reasonable metric.
+###2106 But if you look at the cases that we look at.
+###2108 And three points in my career, I try
+###2111 to figure out what organizational effectiveness
+###2113 was.
+###2114 And each time I sort of succeeded and sort of failed.
+###2117 And the best I could do was to say,
+###2119 in every context you have to ask the question, effectiveness
+###2122 of what?
+###2123 And effectiveness for whom?
+###2124 And come up with a reasonable metric in that situation.
+###2128 So one of the cases we use in the book
+###2130 is a group that does routine knee operations
+###2134 at a hospital in Boston.
+###2135 So for them, the contextualized metrics,
+###2138 and you have them here at Google as well, would be,
+###2142 so how much does it cost?
+###2143 How much pain are they in?
+###2144 And how many days are they in the hospital?
+###2146 Those are pretty reasonable metrics,
+###2148 assuming that they're dealing with the exceptions
+###2150 in an ethical case, in an ethical way,
+###2153 but I think the notion of metrics--
+###2155 I don't think that Huggy and I would dismiss it.
+###2157 And believe me, between the two of us,
+###2159 he's the one who can count, not me.
+###2161 He's one of the best people in metrics I've ever seen.
+###2164 But embedding it in the context is very important.
+###2167 Please.
+###2168 AUDIENCE: And probably, also what you're saying
+###2170 is too many metrics could be the dark side,
+###2173 but just enough, that's what you should go for.
+###2176 BOB SUTTON: So one of my favorite examples,
+###2177 I can't remember if we put this in a book or not,
+###2179 but Jeff Pfeffer and I, once, years ago, we
+###2182 were studying Citibank.
+###2183 And we were introduced to the most effective Citibank branch
+###2187 manager in all of the New York metropolitan area.
+###2189 So we go in, and they got this balance scorecard,
+###2191 they got like 30 measures.
+###2193 We say, what's the secret to your success?
+###2194 He said, I ignore everything on the scorecard.
+###2196 And the reason they think I'm the best person
+###2198 is that I have the best profitability of any branch.
+###2202 And you notice that they called me the best guy,
+###2204 and that balance scorecard is bullshit.
+###2206 And the other people who are screwing up
+###2207 are actually paying attention to it.
+###2209 So absolutely too many metrics are very bad.
+###2215 I like Huggy's case with Waze.
+###2217 AUDIENCE: Actually I would also add that the right metrics are
+###2219 just as important, right?
+###2221 Metrics drive behavior.
+###2223 I think, the question that I have on the table is,
+###2226 when we talk about scaling, I think
+###2229 you touch upon people, process, tools, so all those three
+###2234 things we need to look at them, right?
+###2236 And how to prioritize.
+###2237 And I think you talk about stopping bad behavior.
+###2241 And I find that really interesting,
+###2243 and I kind of want to hear your take on,
+###2245 what are some of the things that the highly successful companies
+###2250 do in dealing with the people issue?
+###2253 Because you do hire different people
+###2256 with different capabilities as the company grows.
+###2260 Because the needs change.
+###2261 So but you go enter with different players on the field.
+###2265 How do you make them work together, right?
+###2268 HUGGY RAO: Yeah.
+###2268 That's a great question as well.
+###2270 So the first thing about bad behavior.
+###2273 The very basic finding, robust finding,
+###2275 is bad's way stronger than good.
+###2278 In one study of marital relationships, what is it?
+###2282 For every nasty thing you tell your partner, or spouse,
+###2285 you have to say five good things at least--
+###2287 BOB SUTTON: Or it's not going to last.
+###2289 HUGGY RAO: --and you can imagine the, sort of, asymmetry.
+###2292 The thing about bad behavior is, bad behavior basically
+###2296 is a signal that nobody cares.
+###2299 And that's the reason why you have
+###2301 to actually get to it very quickly.
+###2304 And it might actually have to do with waste,
+###2309 it might have to do with delay, it
+###2311 might have to do with outright malfeasance, whatever
+###2314 the manifestation of bad behavior is.
+###2318 But the important thing to realize,
+###2319 and we talk about in the book is,
+###2321 you don't want to leap to the conclusion
+###2323 that bad behavior is the product of bad people.
+###2326 Good people do bad things.
+###2329 Because they're mostly responding to the system
+###2332 that's there.
+###2333 And you guys at Google do a marvelous job of making sure--
+###2337 when you think of people who aren't performing,
+###2341 how you actually reduce variance in performance,
+###2344 by giving them a new start and so forth.
+###2346 So very important to make sure you come to terms with the fact
+###2351 that why are bad people-- why are good people doing
+###2354 bad things?
+###2355 And here, context matters.
+###2357 At the other extreme, what we talk about in the book is,
+###2360 people do bad things because bad involves thrill.
+###2363 And one of the things you've got to you've
+###2365 got to kill the thrill.
+###2367 We actually have an example of a nice study done by psychologist
+###2371 about a factory where they were actually stealing tools.
+###2377 So what do you do?
+###2378 BOB SUTTON: Like big tools, like things
+###2379 that weighed 1,000 pounds.
+###2381 HUGGY RAO: They're all taking them home.
+###2382 So you can think of, oh my god, I'm going to put fines.
+###2386 No, I'm going to appoint guards.
+###2388 No, we're going to have video cameras.
+###2390 So these guys thought about it, and they came back
+###2392 with a very strikingly counter intuitive solution.
+###2396 They said, hey, we actually have a lending library here.
+###2399 You guys can borrow the tools, and if you've been late,
+###2403 there's an amnesty, you can always turn it back in.
+###2407 So once there was no prohibition about taking the tools,
+###2410 the thrill of stealing was kind of
+###2411 lost because anybody could take any tool.
+###2414 And of course, these workers were
+###2416 being pressured by their wives saying,
+###2418 you're messing up the art and taking up too much space.
+###2421 Please return those damn tools back to your factory.
+###2425 So they were able to stop it like that.
+###2427 So those are the two bookends, if you will of that.
+###2430 BOB SUTTON: In this story, I like to use the metric.
+###2432 They went from having a million dollars worth of stuff a year
+###2435 stolen to nothing, just by saying, here it's yours.
+###2437 This was a great example of killing the thrill.
+###2439 And they would just steal things that
+###2440 were hard to steal, just because it was fun to steal them,
+###2443 not because they needed them.
+###2445 HUGGY RAO: The other thing you have to keep in mind
+###2448 is-- and I just want to connect the metrics
+###2452 and kind of bad behavior-- this isn't
+###2455 a conclusion by any means, but at least a good null
+###2457 hypothesis.
+###2459 When there are lots of metrics, a good null
+###2461 hypothesis to begin is, you have smart people who are afraid.
+###2466 Because if all of the metrics were highly correlated,
+###2469 they would all load into one factor.
+###2471 So obviously you don't need 30 metrics
+###2473 because the intercorrelations are so high.
+###2475 And the reason they're not going to be correlated
+###2477 is you going to look good on some things.
+###2479 BOB SUTTON: I would also add, independently,
+###2480 the fear-- I actually did some early consulting
+###2483 work a litttle with HP on this when they had too many metrics.
+###2485 And what ends up happening is, in terms of having
+###2489 the same mindset and people in the same page is,
+###2492 the whole game becomes-- so you're a general manager at HP.
+###2495 In the old days, there's 54 divisions
+###2497 and you're assessed on like 30 or 40 different metrics.
+###2500 Your job is to convince everybody
+###2502 that the one metric you're great on
+###2503 is what you should be evaluated on.
+###2505 So this whole political gamesmanship
+###2507 went on that had nothing to do with actually
+###2510 moving the company forward.
+###2511 Yes.
+###2512 You have a question here.
+###2514 AUDIENCE: Thank you for coming here, and writing the book.
+###2516 BOB SUTTON: Thank you.
+###2517 AUDIENCE: I wanted to ask about the step
+###2519 before you worry about scaling.
+###2520 There is a lot of theories, and Paul Graham
+###2524 I think wrote an article a few months back that,
+###2526 startups should never worry about scaling,
+###2528 should just get the prototype, learn as much as you can.
+###2531 And I've actually managed startups
+###2534 where we had a great product.
+###2538 We had the team of people that were not aligned.
+###2540 And we had the three issues that you mentioned,
+###2542 incompetence, the impatience, and the illusion.
+###2547 And I sort of said, OK.
+###2549 Let's stop.
+###2550 And let's try to figure out what's going on.
+###2553 And improve it based on that.
+###2555 And then worry about scaling.
+###2556 It's not about getting more customers, et cetera.
+###2558 BOB SUTTON: I think you answered your own question brilliantly.
+###2561 And the way that we say this, and it's
+###2563 one of those things that is so obvious, it's stupid.
+###2565 But companies sometimes forget it.
+###2568 Which is to spread excellence, you
+###2570 have to have excellence to spread.
+###2572 And so you've got to stop-- and that's
+###2574 why to quote Huggy-- it's a ground war,
+###2578 it's not an air war.
+###2578 When you have real excellence, you actually
+###2580 create that little pocket in them.
+###2582 And especially if you have money.
+###2583 Money's dangerous.
+###2585 And I think you're Waze example is great
+###2586 because it's a temptation.
+###2587 Let's build it out and hire a huge sales organization
+###2590 before we have something that we're selling
+###2591 is a classic thing that's happening
+###2592 in many of our over funded startups in the Valley right
+###2595 now.
+###2595 And that's one advantage that Larry and Sergey took
+###2597 a long time for them to sell Google,
+###2599 so they actually had to work on making the thing even better.
+###2602 And just to give you an example, in the IT rollout space.
+###2606 One of my favorite cases in the book,
+###2608 at the end of chapter two, is a great rollout
+###2611 of medical care, electronic medical care
+###2616 records at Kaiser Permanente.
+###2617 And the way they did it, this woman named Louise Lang led it.
+###2620 It was about six or seven year process, cost about $5 billion.
+###2624 Kaiser's the biggest health care system
+###2626 in the country, private health care system.
+###2628 They got it working perfectly in the smallest region in Hawaii.
+###2631 They got it just, worked and worked and worked.
+###2633 And once that started working, then
+###2635 they went to the next region, once it was working,
+###2637 went to the next one.
+###2638 So they didn't spread that thin coat of whatever.
+###2640 They got it humming, and then they spread that excellence.
+###2643 So your example in the startup, I think, is exactly right.
+###2646 And that's one reason that-- probably most people know
+###2649 this evidence-- there's a lot of evidence of startups that
+###2651 are started in downturns are more likely to survive and grow
+###2657 into larger companies than upturns because they-- well
+###2659 first of all, don't have too much money, and second of all,
+###2662 they have to take time to do stuff right.
+###2664 And I remember when we interviewed Larry Page in 2002,
+###2667 I could not figure out whether he was the last dot.com person
+###2671 standing, or actually, he was on to something.
+###2673 Because all the other companies seemed to be dead.
+###2676 And then there was this guy, Larry Page,
+###2678 who claimed that he was going to grow a huge company.
+###2680 And I guess he was right.
+###2682 So I think you've got it, man.
+###2685 AUDIENCE: So I guess the core of my question,
+###2686 and based on your experience, and maybe it
+###2688 might be your next book which is, how do you
+###2691 infuse excellence in the first place?
+###2693 BOB SUTTON: OK.
+###2694 Huggy you answer that.
+###2694 That's too hard.
+###2695 Huggy gets all the hard questions.
+###2697 He's the smart one--
+###2698 HUGGY RAO: I think--
+###2698 BOB SUTTON: --He is.
+###2699 If there was an IQ test right now, [INAUDIBLE] happen.
+###2702 HUGGY RAO: So this actually dovetails
+###2705 quite nicely with one of the core beliefs at Google
+###2708 and really your own experience here.
+###2711 I think the heart of infusing excellence
+###2714 is really how you hire people.
+###2717 That's one part.
+###2720 And real excellence also means, how do you
+###2723 get extraordinary performance out of ordinary individuals?
+###2727 So hiring talent doesn't sort of mean,
+###2729 well we're actually going to get the very best people.
+###2733 And we're going to pay a whole lot and so forth.
+###2735 You can actually get amazing performance
+###2737 from ordinary individuals.
+###2739 And here, changing the context matters.
+###2743 One of the cases that we talk about,
+###2744 which was actually written by a colleague of ours at Stanford,
+###2748 is about a company called Tomago-ya in Japan.
+###2751 And what Tomago-ya does is they deliver lunch to offices,
+###2756 $3.60 per lunch.
+###2759 And it's a little Bento box.
+###2762 So every day you can order the lunch you want.
+###2764 The last order is at 10 o'clock.
+###2767 And you've got to deliver the lunch by 12.
+###2769 The amazing thing is, their factory is more than 2.5 hours
+###2772 away from the business district of Tokyo, Shinjuku,
+###2775 but you've got to deliver the lunch.
+###2777 So the problem is, how do you actually wait until 10 o'clock
+###2780 and deliver the lunch?
+###2782 And every day they serve 70,000 lunches.
+###2786 And the average waste, if you will,
+###2790 the underage, or in their case, the overage,
+###2793 is that on 46 lunches, which translates to 0.06.
+###2798 My colleague, who wrote the case, asked the CEO.
+###2801 He says, how do you do that?
+###2802 Do you guys have very sophisticated algorithms,
+###2804 where you can process orders, route trucks.
+###2807 He says no.
+###2809 How do you do that?
+###2810 And he says, well, we make sure our trucks leave
+###2813 before the first order comes.
+###2815 And the guy says, how can you do that?
+###2817 How can you get trucks to leave your facility at 8:00
+###2820 in the morning to the farthest the [INAUDIBLE] customers
+###2824 even before you got the orders?
+###2826 And the guy says, the key people are our van drivers,
+###2830 who deliver the lunches.
+###2831 They can actually pick the customer.
+###2833 And once the lunch is over, these are reusable Bento boxes.
+###2837 You can go and pick the Bento box up, talk to people,
+###2840 and quickly find out what the nature of demand the next day
+###2843 is.
+###2844 And in the evening, they tell their boss.
+###2846 By the way, a small district actually
+###2849 is managed by one of these area managers.
+###2852 And then you'll funnel it upwards,
+###2854 and that's really what it is.
+###2856 And my colleague said, now, who designed this?
+###2859 And the founder said, you know, me and the truck drivers.
+###2862 And he said, who are the truck drivers?
+###2864 And this is the striking part, they
+###2866 are all people who are high school dropouts.
+###2870 Now, it's true that there are bonuses
+###2871 that link to any weigh stage.
+###2873 But the point is, it's not just that.
+###2876 You've given them a second chance.
+###2878 And you are really getting extraordinary performance
+###2881 out of people who could arguably be labeled C or B, or whatever.
+###2885 So very important to keep that in mind.
+###2889 AUDIENCE: I'll make it a little bit harder.
+###2891 So you go into a startup, small team, one star.
+###2897 
+###2900 Most of the others are B's and a few, let's call, F's.
+###2904 And you start getting rid of the F's because it's just not
+###2908 working.
+###2909 And then you end up with a smaller team,
+###2911 with the VCs shouting at you.
+###2912 And you're running out of money, product's not performing.
+###2916 The excellence, the culture of the company is just struggling.
+###2921 And all of the elements are against you,
+###2926 as any other startup.
+###2928 And then to infuse a culture of excellence
+###2930 into a place that got used to being sub-mediocre performance
+###2935 is something I really struggled with personally
+###2938 in a previous life.
+###2939 And I want to just see what is your take on how
+###2943 that could that be handled.
+###2945 HUGGY RAO: I can certainly feel your pain is
+###2947 one thing I can say.
+###2948 I'm being mischievous here.
+###2950 But in the hypothetical example, or the reconstructed example
+###2954 out of your experience that you gave, you've got one star,
+###2957 you've taken out the F's, I assume.
+###2961 And you've got the B people as it were, so to speak.
+###2965 And one of the things we talk about
+###2966 is, scaling isn't just about stars, it's actually
+###2971 about your sherpas, too.
+###2973 I mean think of how you get to the top of Everest.
+###2975 Three people get there, that's true.
+###2977 But there's a lot of people who actually
+###2979 do all the heavy lifting to help you get there.
+###2980 BOB SUTTON: The Sherpas are the stars,
+###2981 and the other people just pay them money.
+###2983 So [INAUDIBLE] the question where the stars is.
+###2986 HUGGY RAO: So the real challenge is, how do you actually
+###2989 get great performance out of people who are at the B level?
+###2993 And one simple place to start.
+###2995 It's by no means a sure fire bullet is,
+###2999 if you look at the evidence, B-level players respond
+###3003 way more positively to gifts that are actually
+###3009 given to them.
+###3011 So when I say gifts, I'm not saying buying them off
+###3013 with money, doing something for them that's a surprise
+###3016 that they actually value.
+###3019 And the reason is, if you have B-level player,
+###3021 you look around in the market, and you sort of say,
+###3024 I'm looking around, I can't get a job
+###3026 like I have in this company.
+###3028 Here's a company that's done something nice for me.
+###3031 And it could be as simple a thing as something
+###3033 for their child or spouse or whatever
+###3036 the specific instantiation is, they're
+###3038 actually going to give you 10x back.
+###3041 If I'm an A-level player, you do something nice for me,
+###3045 I'm also going to scan the talent market,
+###3047 and simply say, well he did it because hey,
+###3049 that's the price at attention.
+###3051 Otherwise, I'm going to go someplace else.
+###3053 So you actually have very asymmetric responses
+###3056 to gift-giving.
+###3058 And what you really need to understand
+###3060 is, what's the gift that makes the most
+###3062 sense for your B-level players?
+###3065 And that, I don't have line of sight to give you more--
+###3067 BOB SUTTON: I'm going to say something more cynical which
+###3070 is, we hear about the-- including this one we're
+###3073 sitting in now-- the startups that all make it.
+###3076 Most of them die.
+###3077 Most of them deserve to die.
+###3078 And a lot of the entrepreneurial game, I'm sorry,
+###3081 it's just knowing when to shoot the thing.
+###3083 And venture capitalists, especially the good ones,
+###3086 are really good at that.
+###3088 And I don't want to damn your startup.
+###3091 But the typical startup in Silicon Valley dies.
+###3095 And it should die.
+###3096 So in the thing to do is to take that A-player
+###3099 and maybe reform with another set A-players and to go again.
+###3103 Because the great thing about startups is, failure's cheap.
+###3106 And most of you who start firms in Silicon Valley-- this
+###3110 is not Detroit-- you can get another job.
+###3112 Most of you are quite talented.
+###3113 So my view of startups is, if things are really screwed up,
+###3116 well that's what pulling the plug is for.
+###3119 And quitting is good.
+###3121 Never quit-- that's bullshit.
+###3123 HUGGY RAO: And certainly, you don't
+###3126 want to escalate commitment to a losing course of action either.
+###3129 BOB SUTTON: That's what I was saying.
+###3132 More fancy language.
+###3134 HUGGY RAO: This is the conversation Bob and I have.
+###3136 But usually over a lot of wine so.
+###3138 MALE SPEAKER: So having said all that, you aren't advising
+###3141 people to go to startups, right?
+###3142 [LAUGHTER]
+###3143 BOB SUTTON: No, no.
+###3146 You all know the odds.
+###3147 You all know the game.
+###3148 So it's just the way it works.
+###3149 So you go there, and Google buys you or they come back,
+###3152 you come back as an employee after it died.
+###3154 Either way, it's OK.
+###3155 MALE SPEAKER: So do we have time for a question or two, Cliff,
+###3158 or are we set?
+###3159 CLIFF: Yes, a final question.
+###3160 MALE SPEAKER: Any other audience question for Bob and Huggy?
+###3163 
+###3167 I had one more, which doesn't have anything
+###3169 to do with the book itself.
+###3171 Obviously, both of you teach at the business school
+###3173 at Standford.
+###3175 And many Googlers are interested in going
+###3177 to business school getting their MBAs, right?
+###3180 So what's the advice that you'd give to a Googler who's
+###3186 considering business school, who has
+###3188 other things that they could do?
+###3190 And this is a question that we and the people up scheme
+###3193 get asked all the time.
+###3195 So since we have you, we can ask the same question of you.
+###3198 And by the way, don't make it too compelling
+###3200 because we want these people to stay here.
+###3202 HUGGY RAO: So Bob why don't you actually be--
+###3205 BOB SUTTON: I don't teach in a business school, remember.
+###3207 I'm an engineering professor, so therefore, I
+###3209 am free to be cynical.
+###3211 Our friend Jeff Pfeffer would tell you
+###3213 that, if you're interested actually in lifetime income,
+###3217 that you should only go to a top eight-- in addition to the fact
+###3220 that it's a great vacation, and all sorts of wonderful things
+###3222 happen in business school.
+###3224 But you should only go to a top eight or ten business school.
+###3228 Because other than that it's just
+###3229 going to take two years of your life
+###3230 and lower your lifetime income, and there's very good evidence
+###3232 to support this.
+###3233 So I want to play the, sort of, Jeff Pfeffer card.
+###3237 But one thing I will say about the Stanford Business
+###3239 School, where I don't teach, because I'm
+###3242 a tenured engineering professor, is that-- as my understanding--
+###3246 is that if you go to Stanford, it's
+###3247 actually a really good financial deal.
+###3249 That on average, you're going to come out ahead financially.
+###3252 And culturally, that's sort of up to you.
+###3254 The final thing I would say though, since I'm
+###3256 from an engineering school and I'm not engineer,
+###3258 is we all know that the characteristic
+###3260 of the current boom is it's much, much less
+###3263 MBA-centric, and much, much-- you
+###3267 know this much better than I do--
+###3268 and much, much more engineering-centric.
+###3271 So it's the engineers' days, and we're
+###3273 winning, even on an engineer.
+###3275 HUGGY RAO: So one other thing to keep in mind
+###3277 is, business schools are changing dramatically too,
+###3283 so you don't think of the MBA as a standalone degree.
+###3286 In fact, we have a number of programs where you actually
+###3288 have an MBA, you can also get a masters
+###3291 in computer science and electrical engineering,
+###3293 just to name a few.
+###3296 So there are lots of options and combinations.
+###3299 Our experience certainly at the Stanford Business School
+###3302 is, pretty much, the kinds of people who actually come,
+###3306 they're overwhelmingly tilted towards a startup option.
+###3310 By the end of year one, they've already figured out an idea.
+###3314 They're working.
+###3315 They're trying to do things.
+###3317 And as a matter of fact, right before I came here,
+###3319 I was actually teaching a course along with a finance professor
+###3323 and a marketing professor, a course called "From Launch
+###3326 to Liquidity."
+###3328 Once you start a venture, how do you actually
+###3330 think of your exit?
+###3331 And I can certainly tell you, our students
+###3334 believe in very liquid futures.
+###3336 or at least, they kind of anticipate that.
+###3338 BOB SUTTON: See, I don't even know
+###3339 how he was teaching this, since I'm very focused.
+###3341 The course we teach in the engineering school, especially
+###3343 the design school, we wouldn't talk about it.
+###3345 We have a class called "Launch Pad."
+###3347 We put you in it, and you'd start your company.
+###3349 And so there's a class called "Launch Pad"
+###3351 taught by Michael Dearing and Perry
+###3352 Klebahn, both who are successful entrepreneurs
+###3354 in their own right.
+###3355 Although Michael did fail in a big shoe operation.
+###3358 If you don't have a product by week four,
+###3359 you're supposed to be thrown out.
+###3361 So little--
+###3362 HUGGY RAO: A number of our students
+###3363 actually do take that course--
+###3365 BOB SUTTON: You can take that as well in the business school.
+###3366 HUGGY RAO: So you have the whole, sort of, university.
+###3369 But just to give underscore.
+###3371 Bob's point about how attractive this is as an option.
+###3375 Once when I was teaching a class,
+###3377 there was a young lady who got up and told everybody
+###3381 in the class, hey, I have a proposal for you.
+###3383 And she looked at me and said, professor,
+###3384 can I make the proposal?
+###3386 I said, sure.
+###3386 She looked at 80 kids in the class and said,
+###3389 I'm actually going to give you $250,000 right now.
+###3393 In return, I want 2% of your lifetime earnings.
+###3398 what do you think was the response of those 80 people?
+###3402 Mull over that, and that's where we
+###3404 ought to appropriately close on a puzzle.
+###3407 BOB SUTTON: That's like a Google interview
+###3409 question, the old ones.
+###3411 MALE SPEAKER: Thank you.
+###3412 Thank you Bob and Huggy for coming over and sharing
+###3414 all of your insights on scaling.
+###3416 Again, the book is called "Scaling Up Excellence."
+###3418 BOB SUTTON: Thanks for your questions.
+###3420 MALE SPEAKER: Yeah, thank you for questions,
+###3421 and we have copies of the book in the back, as well.
+###3424 So, with that, lets give a warm round to Bob and Huggy.
+###3427 BOB SUTTON: Thank you.
+###3428 HUGGY RAO: Thank you very much.
+###3429 [MUSIC PLAYING]

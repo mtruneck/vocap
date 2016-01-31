@@ -1,0 +1,6725 @@
+1
+0:0:3,56 --> 0:0:12,3
+Let's welcome Phil Libin.
+
+
+2
+0:0:12,3 --> 0:0:12,86
+Thank you so much.
+
+
+3
+0:0:12,86 --> 0:0:18,1
+One of the things we made Evernote for was a - as an easy way
+
+
+4
+0:0:18,1 --> 0:0:21,32
+to capture all of the most memorable moments in your life,
+
+
+5
+0:0:21,32 --> 0:0:26,36
+so if you guys just hold on here a sec.
+
+
+6
+0:0:26,36 --> 0:0:30,45
+And now I remember this which is pretty cool.
+
+
+7
+0:0:30,45 --> 0:0:35,12
+I actually did this little bit with taking
+
+
+8
+0:0:35,12 --> 0:0:36,94
+a picture of a crowd with a cell phone.
+
+
+9
+0:0:36,94 --> 0:0:38,9
+It kind of was a gag for the first time
+
+
+10
+0:0:38,9 --> 0:0:40,46
+it was my very first press conference.
+
+
+11
+0:0:40,46 --> 0:0:43,32
+We were in Japan and we had a new press conference before,
+
+
+12
+0:0:43,32 --> 0:0:45,344
+but I guess in Japan, they still do them
+
+
+13
+0:0:45,344 --> 0:0:47,61
+and there were hundreds of hundreds of reporters that
+
+
+14
+0:0:47,61 --> 0:0:50,5
+showed up and I got up on stage and there was literally like just a wall
+
+
+15
+0:0:50,5 --> 0:0:53,1
+of flashes because I guess this is what they will do in Japan and I was
+
+
+16
+0:0:53,1 --> 0:0:56,16
+kind of taking it back and I just took up my phone and took a picture
+
+
+17
+0:0:56,16 --> 0:0:59,8
+of the crowd and the way back and I kind of broke the ice and got everyone
+
+
+18
+0:0:59,8 --> 0:1:1,95
+laughing and I just - I happened to do it at Evernote,
+
+
+19
+0:1:1,95 --> 0:1:4,349
+because that's the app that I had one at the time.
+
+
+20
+0:1:4,349 --> 0:1:5,84
+And so it kind of started as a joke,
+
+
+21
+0:1:5,84 --> 0:1:8,2
+but then it actually turned out to be something I do all the time now
+
+
+22
+0:1:8,2 --> 0:1:11,33
+because it's actually really cool where you have this memory of what you
+
+
+23
+0:1:11,33 --> 0:1:16,49
+all look like before I bored you for the next hour with this talk.
+
+
+24
+0:1:16,49 --> 0:1:21,3
+So I was asked to come in and talk about
+
+
+25
+0:1:21,3 --> 0:1:24,42
+being an entrepreneur and I figured okay,
+
+
+26
+0:1:24,42 --> 0:1:28,69
+well that's Phil Libin's standard talk number 17/B.
+
+
+27
+0:1:28,69 --> 0:1:32,338
+I don't really have to think much about how to do that.
+
+
+28
+0:1:32,338 --> 0:1:34,23
+And my original plan was to just come in here and basically
+
+
+29
+0:1:34,23 --> 0:1:37,58
+say the same stuff that I've said to a bunch of audiences
+
+
+30
+0:1:37,58 --> 0:1:38,88
+interested about entrepreneurship,
+
+
+31
+0:1:38,88 --> 0:1:42,33
+you know, stay in school and follow your dream and embrace
+
+
+32
+0:1:42,33 --> 0:1:44,7
+failure and now is the best time in the history of the
+
+
+33
+0:1:44,7 --> 0:1:48,81
+world to start a company and all that stuff.
+
+
+34
+0:1:48,81 --> 0:1:52,27
+But somehow I couldn't quite bring myself to do it,
+
+
+35
+0:1:52,27 --> 0:1:54,33
+because in the past week,
+
+
+36
+0:1:54,33 --> 0:1:57,49
+I think like most of you or like many of you,
+
+
+37
+0:1:57,49 --> 0:2:0,16
+I've spent a lot of time thinking about Steve Jobs
+
+
+38
+0:2:0,16 --> 0:2:3,45
+and all of a sudden I realize that the general
+
+
+39
+0:2:3,45 --> 0:2:6,64
+platitude how to be an entrepreneur speech,
+
+
+40
+0:2:6,64 --> 0:2:9,79
+it's very hard to add anything to what he has already said.
+
+
+41
+0:2:9,79 --> 0:2:14,47
+I went back and I watched Steve Jobs' Stanford address from 2005,
+
+
+42
+0:2:14,47 --> 0:2:16,7
+which again all of you have probably seen in the past few
+
+
+43
+0:2:16,7 --> 0:2:20,15
+days and that is just an extraordinary speech, right.
+
+
+44
+0:2:20,15 --> 0:2:23,1
+It is the Apple of commencement addresses.
+
+
+45
+0:2:23,1 --> 0:2:26,9
+Most of the ideas in it actually aren't the
+
+
+46
+0:2:26,9 --> 0:2:28,16
+first time we ever heard those, right.
+
+
+47
+0:2:28,16 --> 0:2:30,8
+There is a lot of things in that speech that
+
+
+48
+0:2:30,8 --> 0:2:32,8
+almost everyone's probably heard before,
+
+
+49
+0:2:32,8 --> 0:2:33,8
+but the execution is just flawless, right.
+
+
+50
+0:2:33,8 --> 0:2:36,13
+It's just perfectly put together, perfectly expressed.
+
+
+51
+0:2:36,13 --> 0:2:39,38
+Flawless and it just carried so much weight because of it,
+
+
+52
+0:2:39,38 --> 0:2:42,98
+but it was the follow your dream speech and
+
+
+53
+0:2:42,98 --> 0:2:44,96
+I thought there is no way - I can't add to that.
+
+
+54
+0:2:44,96 --> 0:2:46,44
+It can't be better than that,
+
+
+55
+0:2:46,44 --> 0:2:49,14
+because that's already been done as perfectly as
+
+
+56
+0:2:49,14 --> 0:2:51,86
+it's ever going to - as it's ever going to be done.
+
+
+57
+0:2:51,86 --> 0:2:55,5
+So it made me think that I should kind of throw my standard
+
+
+58
+0:2:55,5 --> 0:2:56,69
+entrepreneurship talk out of the window and try to do
+
+
+59
+0:2:56,69 --> 0:3:0,12
+something that maybe expands on this topic a little bit
+
+
+60
+0:3:0,12 --> 0:3:2,56
+more and the more I started thinking about it,
+
+
+61
+0:3:2,56 --> 0:3:5,69
+the more I realized that well,
+
+
+62
+0:3:5,69 --> 0:3:10,18
+the only thing that I can think of to maybe add to it is,
+
+
+63
+0:3:10,18 --> 0:3:11,37
+this whole follow your dream,
+
+
+64
+0:3:11,37 --> 0:3:15,15
+like that's all built well and good and it's very profound
+
+
+65
+0:3:15,15 --> 0:3:17,7
+and was very well stated but it really doesn't answer
+
+
+66
+0:3:17,7 --> 0:3:20,26
+the question of well what's the right dream.
+
+
+67
+0:3:20,26 --> 0:3:24,16
+How do you dream the right thing.
+
+
+68
+0:3:24,16 --> 0:3:28,243
+Because obviously the world is extremely lucky that Steve Jobs
+
+
+69
+0:3:28,243 --> 0:3:30,96
+followed his dream and that Martin Luther King followed
+
+
+70
+0:3:30,96 --> 0:3:33,73
+his dream and that Beethoven followed this dream,
+
+
+71
+0:3:33,73 --> 0:3:36,22
+but those people also have pretty good dreams,
+
+
+72
+0:3:36,22 --> 0:3:40,33
+Snooki is probably also following her dream and
+
+
+73
+0:3:40,33 --> 0:3:44,8
+so I don't know if that's self sufficient.
+
+
+74
+0:3:44,8 --> 0:3:46,17
+And it's actually something I realized I've been thinking
+
+
+75
+0:3:46,17 --> 0:3:50,37
+about for my whole life is what is the goal?
+
+
+76
+0:3:50,37 --> 0:3:52,48
+What is the meaning of it? What is the dream to have?
+
+
+77
+0:3:52,48 --> 0:3:55,97
+Like, yeah, once I figure out what's my dream,
+
+
+78
+0:3:55,97 --> 0:3:57,88
+once I have a suitably epic dream,
+
+
+79
+0:3:57,88 --> 0:4:1,24
+then I think it's all well and good to say I'm just going
+
+
+80
+0:4:1,24 --> 0:4:3,46
+to follow it to its logical conclusion and have a great
+
+
+81
+0:4:3,46 --> 0:4:6,62
+time and hopefully put a dent in the universe,
+
+
+82
+0:4:6,62 --> 0:4:9,22
+but I couldn't for a very long time figure out what a suitably
+
+
+83
+0:4:9,22 --> 0:4:13,55
+epic dream would be and so I wanted to share kind of before
+
+
+84
+0:4:13,55 --> 0:4:16,44
+we get to the standard entrepreneurship stuff,
+
+
+85
+0:4:16,44 --> 0:4:19,76
+the thought process that led me to this very specific vision
+
+
+86
+0:4:19,76 --> 0:4:23,49
+of what I wanted to accomplish and why I think being an entrepreneur
+
+
+87
+0:4:23,49 --> 0:4:28,52
+is the most direct path to accomplishing it.
+
+
+88
+0:4:28,52 --> 0:4:32,34
+So I started out - this is kind of a philosophical question right,
+
+
+89
+0:4:32,34 --> 0:4:36,9
+what is a suitable dream to have in your life, a suitable goal.
+
+
+90
+0:4:36,9 --> 0:4:41,1
+And it makes me think of the very first philosophical thought
+
+
+91
+0:4:41,1 --> 0:4:43,4
+that I was aware of ever having like I kind of distinctively
+
+
+92
+0:4:43,4 --> 0:4:45,79
+have this memory from when I was a little kid and it was the
+
+
+93
+0:4:45,79 --> 0:4:49,21
+first time that I probably thought - had an abstract thought
+
+
+94
+0:4:49,21 --> 0:4:51,31
+and I forget how old I was but I was in Russia,
+
+
+95
+0:4:51,31 --> 0:4:54,38
+I was born in Russia and I was probably five or may be six or
+
+
+96
+0:4:54,38 --> 0:4:58,9
+something and we had gone on some trip with my family and
+
+
+97
+0:4:58,9 --> 0:5:1,64
+I really loved it and I think maybe we were like two weeks away
+
+
+98
+0:5:1,64 --> 0:5:5,39
+in some nice place and I was really having a great time.
+
+
+99
+0:5:5,39 --> 0:5:7,8
+And then it was time to leave, it was the last day,
+
+
+100
+0:5:7,8 --> 0:5:10,79
+it was time to go back and I remember talking to my mom saying,
+
+
+101
+0:5:10,79 --> 0:5:12,26
+I don't want to leave.
+
+
+102
+0:5:12,26 --> 0:5:14,24
+This is really great. I don't want to go back home.
+
+
+103
+0:5:14,24 --> 0:5:16,84
+I want this - I just want to stay here.
+
+
+104
+0:5:16,84 --> 0:5:19,6
+And she said, well, you can't, our vacation is over.
+
+
+105
+0:5:19,6 --> 0:5:21,3
+And I said, well, why does it - why does it have to end?
+
+
+106
+0:5:21,3 --> 0:5:22,6
+Why does it have to be over?
+
+
+107
+0:5:22,6 --> 0:5:24,75
+And she said, well everything, everything ends.
+
+
+108
+0:5:24,75 --> 0:5:27,11
+And I remember being struck by that when I was five.
+
+
+109
+0:5:27,11 --> 0:5:29,33
+Remember that idea that well everything ends is what
+
+
+110
+0:5:29,33 --> 0:5:31,55
+something that was kind of non-trivial to me.
+
+
+111
+0:5:31,55 --> 0:5:33,9
+I never thought of it that way before.
+
+
+112
+0:5:33,9 --> 0:5:36,94
+And I thought well, what do you mean? You mean really everything?
+
+
+113
+0:5:36,94 --> 0:5:40,21
+And she said, yeah, everything. This vacation will end.
+
+
+114
+0:5:40,21 --> 0:5:42,3
+The summer will end, the year will end. Everything ends.
+
+
+115
+0:5:42,3 --> 0:5:45,36
+And I remember thinking like well,
+
+
+116
+0:5:45,36 --> 0:5:47,88
+obviously I made the next logical leap for a five-year old,
+
+
+117
+0:5:47,88 --> 0:5:50,26
+I said, well, is the world going to end?
+
+
+118
+0:5:50,26 --> 0:5:53,89
+And she said, yeah, at some point probably the world will end.
+
+
+119
+0:5:53,89 --> 0:5:56,92
+And this is what really fascinated me.
+
+
+120
+0:5:56,92 --> 0:5:59,12
+I was a little five-year old nerd and I immediately
+
+
+121
+0:5:59,12 --> 0:6:4,691
+filled up with the idea of the world ending.
+
+
+122
+0:6:4,691 --> 0:6:6,49
+Probably because it would mean that like I wouldn't
+
+
+123
+0:6:6,49 --> 0:6:8,35
+have to keep playing soccer in the soccer club that
+
+
+124
+0:6:8,35 --> 0:6:11,76
+I hated and they tried to enroll me into something.
+
+
+125
+0:6:11,76 --> 0:6:13,94
+And I spent the next several years thinking about that
+
+
+126
+0:6:13,94 --> 0:6:16,34
+and wondering and kind of obsessing in a creepy little
+
+
+127
+0:6:16,34 --> 0:6:19,7
+kid obsessed way about the end of the world.
+
+
+128
+0:6:19,7 --> 0:6:21,59
+And I - of course, I had no idea how it would happen,
+
+
+129
+0:6:21,59 --> 0:6:23,62
+but I remember one of the first movies I saw was this
+
+
+130
+0:6:23,62 --> 0:6:27,71
+horror movie about dinosaurs and there was a dinosaurs
+
+
+131
+0:6:27,71 --> 0:6:30,69
+that somehow woken up and started eating people.
+
+
+132
+0:6:30,69 --> 0:6:32,15
+And that point I figured okay,
+
+
+133
+0:6:32,15 --> 0:6:34,77
+well, the world will probably end from dinosaurs.
+
+
+134
+0:6:34,77 --> 0:6:37,27
+Dinosaurs will probably come and eat all of us and I kind of
+
+
+135
+0:6:37,27 --> 0:6:41,488
+became an expert on the end of the world through dinosaurs.
+
+
+136
+0:6:41,488 --> 0:6:45,368
+And then I went to my parents,
+
+
+137
+0:6:45,368 --> 0:6:47,8
+and I said, well do you think it's going to be dinosaurs?
+
+
+138
+0:6:47,8 --> 0:6:48,64
+Like what are you talking about?
+
+
+139
+0:6:48,64 --> 0:6:52,3
+Well, the end of the world, that's what I'm always talking about.
+
+
+140
+0:6:52,3 --> 0:6:53,18
+Do you think it's going to be dinosaurs?
+
+
+141
+0:6:53,18 --> 0:6:53,97
+They said no, it's not going to be -
+
+
+142
+0:6:53,97 --> 0:6:56,3
+probably not going to be dinosaurs.
+
+
+143
+0:6:56,3 --> 0:6:57,4
+What's it going to be?
+
+
+144
+0:6:57,4 --> 0:6:58,51
+And I think at that point I was probably seven or
+
+
+145
+0:6:58,51 --> 0:7:0,39
+eight and I was just old enough where they felt they
+
+
+146
+0:7:0,39 --> 0:7:1,81
+should just tell me the truth which was again,
+
+
+147
+0:7:1,81 --> 0:7:3,81
+this was in the late 70s, early 80s and they said,
+
+
+148
+0:7:3,81 --> 0:7:6,9
+no, it's probably going to be nuclear war.
+
+
+149
+0:7:6,9 --> 0:7:10,1
+Realistically, back then just about everyone
+
+
+150
+0:7:10,1 --> 0:7:13,2
+thought that the world would end in 10 years,
+
+
+151
+0:7:13,2 --> 0:7:16,75
+20 years, but either us and that point the Soviet Union or the U.S.
+
+
+152
+0:7:16,75 --> 0:7:18,79
+would initiate a nuclear war and that would
+
+
+153
+0:7:18,79 --> 0:7:19,51
+probably be the end of the world.
+
+
+154
+0:7:19,51 --> 0:7:22,72
+So that was kind of my first realistic thought about it.
+
+
+155
+0:7:22,72 --> 0:7:25,85
+And then we emigrated to the U.S.
+
+
+156
+0:7:25,85 --> 0:7:27,52
+and so I got this kind of see it from the other side,
+
+
+157
+0:7:27,52 --> 0:7:30,72
+but even in the U.S. most people in the early 80s I think thought
+
+
+158
+0:7:30,72 --> 0:7:34,36
+that the missiles were imminent. The world was going to end.
+
+
+159
+0:7:34,36 --> 0:7:38,17
+And I was really kind of - I was really focused on that.
+
+
+160
+0:7:38,17 --> 0:7:40,17
+And to learn English, I did a lot of reading.
+
+
+161
+0:7:40,17 --> 0:7:41,95
+I came here when I was eight years old and I learned
+
+
+162
+0:7:41,95 --> 0:7:43,9
+English basically by reading comic books.
+
+
+163
+0:7:43,9 --> 0:7:48,99
+I read a lot of Thor comic books and I just - I read all sorts of geek,
+
+
+164
+0:7:48,99 --> 0:7:56,15
+sci-fi and fantasy stuff and I kept seeing these stories about superheroes
+
+
+165
+0:7:56,15 --> 0:7:59,18
+and Gods and monsters and the end of the world and Norse Mythology and
+
+
+166
+0:7:59,18 --> 0:8:6,695
+Thor and Geek Mythology and how they thought it would happen.
+
+
+167
+0:8:6,695 --> 0:8:9,12
+And then I read something which was kind
+
+
+168
+0:8:9,12 --> 0:8:10,3
+of the second thing that stuck with me,
+
+
+169
+0:8:10,3 --> 0:8:13,91
+which was - it's from Genesis from the Bible,
+
+
+170
+0:8:13,91 --> 0:8:15,2
+but I'm pretty sure you didn't read it in the Bible
+
+
+171
+0:8:15,2 --> 0:8:18,255
+and probably read it in Spiderman or something.
+
+
+172
+0:8:18,255 --> 0:8:23,12
+But it was this idea that God created us in his image right.
+
+
+173
+0:8:23,12 --> 0:8:24,29
+This line that everyone thought,
+
+
+174
+0:8:24,29 --> 0:8:28,11
+God made us and made people in his image and I remember thinking
+
+
+175
+0:8:28,11 --> 0:8:31,16
+now that's a really interesting idea like what does that mean,
+
+
+176
+0:8:31,16 --> 0:8:33,9
+like whether you believe in it or not that didn't really matter,
+
+
+177
+0:8:33,9 --> 0:8:36,24
+I thought what is this - it sort of - it's kind of an interesting thing,
+
+
+178
+0:8:36,24 --> 0:8:39,8
+God made us in his image. What does that mean?
+
+
+179
+0:8:39,8 --> 0:8:44,1
+Does that mean that God is kind of a fat guy with a beard? Probably.
+
+
+180
+0:8:44,1 --> 0:8:45,9
+But this probably also means something else,
+
+
+181
+0:8:45,9 --> 0:8:47,3
+something else that's more interesting and so
+
+
+182
+0:8:47,3 --> 0:8:49,46
+I started thinking well what could it mean?
+
+
+183
+0:8:49,46 --> 0:8:53,62
+What is maybe something that is more inherently and essentially
+
+
+184
+0:8:53,62 --> 0:8:58,15
+part of people's idea of God and maybe it's that essential
+
+
+185
+0:8:58,15 --> 0:9:1,68
+quality that mankind is made in the image.
+
+
+186
+0:9:1,68 --> 0:9:3,21
+So maybe it's not a physical resemblance,
+
+
+187
+0:9:3,21 --> 0:9:6,53
+maybe it's some kind of a - some kind of an inherent quality that
+
+
+188
+0:9:6,53 --> 0:9:9,38
+people ascribe to God and that's the part that we have,
+
+
+189
+0:9:9,38 --> 0:9:10,83
+that's in our image.
+
+
+190
+0:9:10,83 --> 0:9:13,66
+And some point later probably in high school,
+
+
+191
+0:9:13,66 --> 0:9:17,7
+I came upon this idea of transcendence and that this was
+
+
+192
+0:9:17,7 --> 0:9:20,54
+actually the central thing that many religions and many
+
+
+193
+0:9:20,54 --> 0:9:23,89
+philosophies subscribed to God was this idea of transcendence
+
+
+194
+0:9:23,89 --> 0:9:27,18
+that God was there before the beginning,
+
+
+195
+0:9:27,18 --> 0:9:29,1
+and God will be there after the end that He sort of
+
+
+196
+0:9:29,1 --> 0:9:32,44
+transcends whatever bubble of reality we live in.
+
+
+197
+0:9:32,44 --> 0:9:35,1
+And that, of course, dovetailed perfectly with my whole sick
+
+
+198
+0:9:35,1 --> 0:9:37,39
+end-of-the-world fixation and I thought,
+
+
+199
+0:9:37,39 --> 0:9:40,61
+okay, that's something deep at least,
+
+
+200
+0:9:40,61 --> 0:9:42,87
+you know, for what passed for deep in high school,
+
+
+201
+0:9:42,87 --> 0:9:45,25
+you know, was also listening to Wham!
+
+
+202
+0:9:45,25 --> 0:9:49,24
+or whatever. Actually, Dio probably;
+
+
+203
+0:9:49,24 --> 0:9:52,69
+I was more of a metalhead back then.
+
+
+204
+0:9:52,69 --> 0:9:54,13
+And, I thought this is interesting, right?
+
+
+205
+0:9:54,13 --> 0:9:58,45
+This is maybe the central idea is transcendence, right?
+
+
+206
+0:9:58,45 --> 0:10:1,32
+This is what God means. And, I wasn't saying this in a religious way.
+
+
+207
+0:10:1,32 --> 0:10:3,16
+I wasn't ever particularly religious,
+
+
+208
+0:10:3,16 --> 0:10:6,65
+but I thought the idea of transcendence is a really fascinating one.
+
+
+209
+0:10:6,65 --> 0:10:8,15
+The idea that you - yes,
+
+
+210
+0:10:8,15 --> 0:10:10,87
+every - there is a start and an end to everything
+
+
+211
+0:10:10,87 --> 0:10:14,3
+but some things transcend that.
+
+
+212
+0:10:14,3 --> 0:10:18,8
+And, I was really fixated on this idea of transcendence and
+
+
+213
+0:10:18,8 --> 0:10:21,82
+this got me beaten up a lot in school because it wasn't
+
+
+214
+0:10:21,82 --> 0:10:26,64
+a particular - particularly popular topic of conversation.
+
+
+215
+0:10:26,64 --> 0:10:28,63
+Basically, I was such a giant nerd that -
+
+
+216
+0:10:28,63 --> 0:10:30,83
+I am not kidding - in high school,
+
+
+217
+0:10:30,83 --> 0:10:34,31
+the chess team would not hang out with me.
+
+
+218
+0:10:34,31 --> 0:10:37,91
+Like, literally, the chess team would not hang out with me.
+
+
+219
+0:10:37,91 --> 0:10:40,96
+The computer club hung out with me but I was
+
+
+220
+0:10:40,96 --> 0:10:45,66
+not nearly cool enough for the chess team.
+
+
+221
+0:10:45,66 --> 0:10:50,37
+So, when I got to thinking about how the world actually would end for
+
+
+222
+0:10:50,37 --> 0:10:53,26
+real after it became hopefully clear that it wasn't really going to
+
+
+223
+0:10:53,26 --> 0:10:56,34
+be in the next five years because of dinosaurs and nuclear war,
+
+
+224
+0:10:56,34 --> 0:10:58,4
+I thought, okay, well, but really it will end at some point.
+
+
+225
+0:10:58,4 --> 0:10:59,33
+So, how is that going to happen, right?
+
+
+226
+0:10:59,33 --> 0:11:1,99
+So, I started reading basically everyone
+
+
+227
+0:11:1,99 --> 0:11:3,18
+I could on the subject, right?
+
+
+228
+0:11:3,18 --> 0:11:5,52
+Gould and Dawkins and everyone else, right?
+
+
+229
+0:11:5,52 --> 0:11:7,22
+There is lots of theories about how
+
+
+230
+0:11:7,22 --> 0:11:11,67
+things are going to go down, right? So, an asteroid impact, right?
+
+
+231
+0:11:11,67 --> 0:11:14,34
+There was Carl Sagan who was writing about this where there is actually
+
+
+232
+0:11:14,34 --> 0:11:17,24
+mathematically extremely high percentage that we will have an asteroid
+
+
+233
+0:11:17,24 --> 0:11:21,32
+impact that will destroy the entire planet or all life on it and,
+
+
+234
+0:11:21,32 --> 0:11:23,63
+you know, it happens every couple of hundred thousand years
+
+
+235
+0:11:23,63 --> 0:11:26,15
+and just because it doesn't happen in mankind's memory was
+
+
+236
+0:11:26,15 --> 0:11:29,13
+exactly because mankind came around after the last time it
+
+
+237
+0:11:29,13 --> 0:11:31,56
+happened but that doesn't mean it won't happen again.
+
+
+238
+0:11:31,56 --> 0:11:33,38
+And, of course, there is, you know - there is viruses.
+
+
+239
+0:11:33,38 --> 0:11:36,34
+There's all sorts of stuff. At some point, the sun will burn out.
+
+
+240
+0:11:36,34 --> 0:11:39,63
+At some point after that, the whole galaxy will collapse.
+
+
+241
+0:11:39,63 --> 0:11:41,82
+So, there are actually interesting ways
+
+
+242
+0:11:41,82 --> 0:11:43,11
+to think about how the world will end.
+
+
+243
+0:11:43,11 --> 0:11:44,89
+We're probably - hopefully, we're not talking about decades,
+
+
+244
+0:11:44,89 --> 0:11:46,48
+maybe talking about thousands or ten thousands of
+
+
+245
+0:11:46,48 --> 0:11:50,1
+hundreds of thousands of years and I combined that
+
+
+246
+0:11:50,1 --> 0:11:52,35
+with this idea of transcendence and I thought,
+
+
+247
+0:11:52,35 --> 0:11:54,41
+well, this is actually kind of cool, right?
+
+
+248
+0:11:54,41 --> 0:11:59,1
+Maybe the way in which humans are made in God's image,
+
+
+249
+0:11:59,1 --> 0:12:0,2
+in this image of transcendence,
+
+
+250
+0:12:0,2 --> 0:12:4,14
+is maybe we have the spark that we have a chance to actually
+
+
+251
+0:12:4,14 --> 0:12:9,72
+transcend the natural way that otherwise the world would end,
+
+
+252
+0:12:9,72 --> 0:12:11,46
+all life would be destroyed, and so on.
+
+
+253
+0:12:11,46 --> 0:12:13,8
+So, if we didn't do anything,
+
+
+254
+0:12:13,8 --> 0:12:15,75
+obviously, there is a very good chance that whatever the end is,
+
+
+255
+0:12:15,75 --> 0:12:17,44
+people would have brought it about ourselves.
+
+
+256
+0:12:17,44 --> 0:12:20,75
+We would kill ourselves off through pollution
+
+
+257
+0:12:20,75 --> 0:12:21,86
+or overpopulation or something.
+
+
+258
+0:12:21,86 --> 0:12:26,86
+And so, there was a goal of not doing that and for a while
+
+
+259
+0:12:26,86 --> 0:12:28,52
+that was - kind of became my goal in life, it was.
+
+
+260
+0:12:28,52 --> 0:12:31,3
+I said, okay, I'm going to be basically an environmentalist, right?
+
+
+261
+0:12:31,3 --> 0:12:34,78
+I am going to try to prevent mankind destroying the planet.
+
+
+262
+0:12:34,78 --> 0:12:37,35
+But, then I realized, well, even if we don't do anything,
+
+
+263
+0:12:37,35 --> 0:12:38,47
+it's still going to end.
+
+
+264
+0:12:38,47 --> 0:12:39,88
+It's just a matter of time,
+
+
+265
+0:12:39,88 --> 0:12:42,8
+like if we were - if there were basically no people;
+
+
+266
+0:12:42,8 --> 0:12:44,24
+if, you know, chimpanzees were the highest organism,
+
+
+267
+0:12:44,24 --> 0:12:45,96
+very similar to ours,
+
+
+268
+0:12:45,96 --> 0:12:48,57
+and you can argue that the same kind of emotion and
+
+
+269
+0:12:48,57 --> 0:12:51,28
+a very similar intelligence but there was no pollution or
+
+
+270
+0:12:51,28 --> 0:12:53,75
+anything that wouldn't save all life on the planet.
+
+
+271
+0:12:53,75 --> 0:12:56,98
+It would still all get wiped out the next meteor impact or something.
+
+
+272
+0:12:56,98 --> 0:13:1,57
+In fact, the only way that it was even a slight likelihood of that -
+
+
+273
+0:13:1,57 --> 0:13:4,97
+of the planet or life on it transcending that event was people,
+
+
+274
+0:13:4,97 --> 0:13:6,75
+was if we actually got our acts together
+
+
+275
+0:13:6,75 --> 0:13:9,81
+enough to do something about it.
+
+
+276
+0:13:9,81 --> 0:13:16,67
+So, we - mankind would have to actually organize and get our act together
+
+
+277
+0:13:16,67 --> 0:13:20,54
+in such a way that we advanced forward in technology but did in a
+
+
+278
+0:13:20,54 --> 0:13:23,94
+way that didn't cause the end of all life prematurely by us just
+
+
+279
+0:13:23,94 --> 0:13:26,97
+being stupid and nuking ourselves or polluting the planet.
+
+
+280
+0:13:26,97 --> 0:13:28,11
+But, at the same time,
+
+
+281
+0:13:28,11 --> 0:13:30,22
+we got advanced enough quickly enough where we actually had
+
+
+282
+0:13:30,22 --> 0:13:35,77
+the wherewithal to avert or transcend or live through an ever-increasing
+
+
+283
+0:13:35,77 --> 0:13:39,34
+series of mathematically likely threats,
+
+
+284
+0:13:39,34 --> 0:13:42,91
+going - spanning thousands and even millions of years into the future.
+
+
+285
+0:13:42,91 --> 0:13:46,31
+It's kind of an egghead idea but I thought that's like a good
+
+
+286
+0:13:46,31 --> 0:13:49,31
+definition to me of what it means to be in God's image,
+
+
+287
+0:13:49,31 --> 0:13:51,49
+right, to be transcendent.
+
+
+288
+0:13:51,49 --> 0:13:55,27
+And of course, we wouldn't - it wouldn't just be about saving us.
+
+
+289
+0:13:55,27 --> 0:13:59,34
+There is a great scene in Futurama, right, where Bender,
+
+
+290
+0:13:59,34 --> 0:14:2,23
+it's the robot and he's in a van with the rest of the characters
+
+
+291
+0:14:2,23 --> 0:14:5,57
+and the van goes over a - goes over the cliff and they are plummeting
+
+
+292
+0:14:5,57 --> 0:14:7,54
+and everyone is yelling and Bender goes,
+
+
+293
+0:14:7,54 --> 0:14:11,75
+"I'll save me!" and he, like, stretches his arms out to save himself.
+
+
+294
+0:14:11,75 --> 0:14:15,6
+So, this isn't just about saving us, saving humanity, right.
+
+
+295
+0:14:15,6 --> 0:14:18,55
+But, it is very much about saving the whales,
+
+
+296
+0:14:18,55 --> 0:14:20,5
+like they did on Star Trek IV, right.
+
+
+297
+0:14:20,5 --> 0:14:23,22
+Like, if the whales are going to survive, we have to do it.
+
+
+298
+0:14:23,22 --> 0:14:25,68
+They are not going to get by on their own, right?
+
+
+299
+0:14:25,68 --> 0:14:27,56
+The only way they can actually survive
+
+
+300
+0:14:27,56 --> 0:14:30,75
+in the long term is through people.
+
+
+301
+0:14:30,75 --> 0:14:33,93
+And so, I thought - this was around high school;
+
+
+302
+0:14:33,93 --> 0:14:35,2
+I put these things together and I said,
+
+
+303
+0:14:35,2 --> 0:14:38,88
+okay, that's a big enough dream for me.
+
+
+304
+0:14:38,88 --> 0:14:43,3
+Like, I want to work towards getting humanity to the point
+
+
+305
+0:14:43,3 --> 0:14:46,94
+where we can survive and guarantee the survival of us and
+
+
+306
+0:14:46,94 --> 0:14:51,21
+of life and of intelligence for millions of years, right?
+
+
+307
+0:14:51,21 --> 0:14:53,84
+Like that was sufficiently epoch and I thought okay,
+
+
+308
+0:14:53,84 --> 0:14:59,465
+now I've got something. But, it wasn't exactly actionable.
+
+
+309
+0:14:59,465 --> 0:15:0,78
+I couldn't quite figure out a way to
+
+
+310
+0:15:0,78 --> 0:15:5,7
+actually do that in a meaningful way.
+
+
+311
+0:15:5,7 --> 0:15:5,99
+So, I just continued,
+
+
+312
+0:15:5,99 --> 0:15:7,57
+you know, kind of being a nerd and reading a lot of
+
+
+313
+0:15:7,57 --> 0:15:12,66
+sci-fi and fantasy and when I got my - after college,
+
+
+314
+0:15:12,66 --> 0:15:15,68
+I got a job and I was working with a few friends
+
+
+315
+0:15:15,68 --> 0:15:18,1
+of mine in Boston as a software engineer.
+
+
+316
+0:15:18,1 --> 0:15:19,9
+So, I am a programmer by training and I got
+
+
+317
+0:15:19,9 --> 0:15:23,471
+a job at a company in Boston called ATG, the Art Technology Group.
+
+
+318
+0:15:23,471 --> 0:15:24,2
+That's what it was called at the time.
+
+
+319
+0:15:24,2 --> 0:15:27,22
+I think it has since been bought by Oracle a couple of years ago.
+
+
+320
+0:15:27,22 --> 0:15:29,26
+And, ATG was this amazing company.
+
+
+321
+0:15:29,26 --> 0:15:33,41
+I joined them right before they IPOed and we built -
+
+
+322
+0:15:33,41 --> 0:15:35,31
+we just built all this awesome technology.
+
+
+323
+0:15:35,31 --> 0:15:37,16
+We invented a lot of the stuff that you just
+
+
+324
+0:15:37,16 --> 0:15:38,43
+sort of take for granted on the Internet,
+
+
+325
+0:15:38,43 --> 0:15:41,38
+like dynamic web pages and stuff like that.
+
+
+326
+0:15:41,38 --> 0:15:45,4
+This was in the late '90s.
+
+
+327
+0:15:45,4 --> 0:15:48,27
+And, I had this phenomenal experience at ATG,
+
+
+328
+0:15:48,27 --> 0:15:51,97
+which is for - up to now at every point in my life,
+
+
+329
+0:15:51,97 --> 0:15:53,9
+I was sort of used to feeling like
+
+
+330
+0:15:53,9 --> 0:15:56,56
+I was the smartest person in the room,
+
+
+331
+0:15:56,56 --> 0:15:58,14
+totally not, just to fight obviously.
+
+
+332
+0:15:58,14 --> 0:15:59,97
+But that was the feeling I had, right?
+
+
+333
+0:15:59,97 --> 0:16:3,94
+I was this kind of the snotty, nerdish kid and I always felt that,
+
+
+334
+0:16:3,94 --> 0:16:6,6
+like, I was always the smartest person
+
+
+335
+0:16:6,6 --> 0:16:7,36
+in the room pretty much all the time.
+
+
+336
+0:16:7,36 --> 0:16:8,61
+Yeah, yeah, sure, the other kids had
+
+
+337
+0:16:8,61 --> 0:16:12,35
+girlfriends and were good at sports.
+
+
+338
+0:16:12,35 --> 0:16:15,73
+But, I always got the sense that I was the smartest person.
+
+
+339
+0:16:15,73 --> 0:16:19,17
+And, at ATG that was the first time where that was patently not true,
+
+
+340
+0:16:19,17 --> 0:16:21,81
+where like even somebody like me could look around and be like man,
+
+
+341
+0:16:21,81 --> 0:16:23,94
+I suck, I am below average here.
+
+
+342
+0:16:23,94 --> 0:16:26,21
+Like, this is a brilliant group of people,
+
+
+343
+0:16:26,21 --> 0:16:28,14
+a brilliant group of developers and engineers,
+
+
+344
+0:16:28,14 --> 0:16:30,26
+and they are getting stuff done in an amazing way,
+
+
+345
+0:16:30,26 --> 0:16:32,27
+and I am like I am in awe of this team,
+
+
+346
+0:16:32,27 --> 0:16:34,5
+and I frankly was below average.
+
+
+347
+0:16:34,5 --> 0:16:35,8
+Like, I kind of got the feeling that,
+
+
+348
+0:16:35,8 --> 0:16:37,96
+like, they were putting up with me because I was,
+
+
+349
+0:16:37,96 --> 0:16:39,91
+like, I was just worth it to put up with.
+
+
+350
+0:16:39,91 --> 0:16:42,0
+But, I certainly wasn't one of the star developers,
+
+
+351
+0:16:42,0 --> 0:16:44,57
+one of the star programmers. Their other people were.
+
+
+352
+0:16:44,57 --> 0:16:47,5
+And, I had this - when I first realized this,
+
+
+353
+0:16:47,5 --> 0:16:49,5
+first, it really troubled me, you know, greatly.
+
+
+354
+0:16:49,5 --> 0:16:52,33
+But, then I realized this is awesome.
+
+
+355
+0:16:52,33 --> 0:16:55,87
+This is like the first time I'm ever really enjoying myself.
+
+
+356
+0:16:55,87 --> 0:16:59,81
+This is the first time where I felt like the environment
+
+
+357
+0:16:59,81 --> 0:17:2,6
+that I was in that I lucked into by joining this company,
+
+
+358
+0:17:2,6 --> 0:17:4,41
+and it wasn't the first company I worked at, right?
+
+
+359
+0:17:4,41 --> 0:17:5,94
+I had worked at tons of places where I did feel
+
+
+360
+0:17:5,94 --> 0:17:8,44
+like I was the smartest person in the room.
+
+
+361
+0:17:8,44 --> 0:17:10,24
+But, in this environment where I clearly wasn't,
+
+
+362
+0:17:10,24 --> 0:17:11,74
+where there was everyone around me or almost
+
+
+363
+0:17:11,74 --> 0:17:13,64
+everyone was much smarter than I was,
+
+
+364
+0:17:13,64 --> 0:17:16,18
+was the first time that I was actually happy and comfortable
+
+
+365
+0:17:16,18 --> 0:17:18,49
+and not stressed out and not thinking about the end
+
+
+366
+0:17:18,49 --> 0:17:22,64
+of the world for some strange reason. And, I thought this is great.
+
+
+367
+0:17:22,64 --> 0:17:24,37
+This is how I'm going to structure my life.
+
+
+368
+0:17:24,37 --> 0:17:27,19
+I want to structure my life so that I am
+
+
+369
+0:17:27,19 --> 0:17:29,48
+never the smartest person in the room.
+
+
+370
+0:17:29,48 --> 0:17:31,99
+I want to go to other rooms. I want to make friends.
+
+
+371
+0:17:31,99 --> 0:17:35,68
+I want to create a bubble around me where
+
+
+372
+0:17:35,68 --> 0:17:38,86
+everyone else is just so much better,
+
+
+373
+0:17:38,86 --> 0:17:40,51
+you know, smarter, more productive,
+
+
+374
+0:17:40,51 --> 0:17:43,33
+more capable because that's how stuff actually happens
+
+
+375
+0:17:43,33 --> 0:17:45,6
+and that's how I get to feel good about things and that's
+
+
+376
+0:17:45,6 --> 0:17:47,17
+how I learned things and learning is actually really fun
+
+
+377
+0:17:47,17 --> 0:17:49,69
+when you are learning things that you care about.
+
+
+378
+0:17:49,69 --> 0:17:53,37
+And, I kind of resolved to actually structure my life that way and
+
+
+379
+0:17:53,37 --> 0:17:57,52
+that meant not working in places that were going to be stupid,
+
+
+380
+0:17:57,52 --> 0:17:59,45
+not doing things that I didn't have any respect for,
+
+
+381
+0:17:59,45 --> 0:18:2,83
+not associating with people when I could have avoided that
+
+
+382
+0:18:2,83 --> 0:18:6,73
+I felt we thought was - weren't going to add to this but actively
+
+
+383
+0:18:6,73 --> 0:18:10,77
+cultivating friends and relationships in work environments
+
+
+384
+0:18:10,77 --> 0:18:13,99
+where I felt almost everyone else was smarter than I am.
+
+
+385
+0:18:13,99 --> 0:18:16,34
+And, I've managed to hold on to that up until now.
+
+
+386
+0:18:16,34 --> 0:18:18,14
+That's been one of the fundamental things that I
+
+
+387
+0:18:18,14 --> 0:18:19,9
+have done that I think has worked really well.
+
+
+388
+0:18:19,9 --> 0:18:22,3
+In fact, it's clearly the case here, right?
+
+
+389
+0:18:22,3 --> 0:18:24,94
+Just me being in this room, I think, is an example of that.
+
+
+390
+0:18:24,94 --> 0:18:27,77
+Like, I couldn't get into Stanford, right?
+
+
+391
+0:18:27,77 --> 0:18:31,24
+By definition, you guys are all smarter than I am.
+
+
+392
+0:18:31,24 --> 0:18:34,8
+This is me and if being here is very much part
+
+
+393
+0:18:34,8 --> 0:18:38,4
+and parcel of that lifetime experiment of trying
+
+
+394
+0:18:38,4 --> 0:18:40,92
+to surround myself with the most interesting,
+
+
+395
+0:18:40,92 --> 0:18:43,81
+the best possible people and then just kind of seeing what happens.
+
+
+396
+0:18:43,81 --> 0:18:49,73
+So, I had this realization at ATG and all of a sudden,
+
+
+397
+0:18:49,73 --> 0:18:51,8
+it kind of made sense.
+
+
+398
+0:18:51,8 --> 0:18:52,84
+I kind of went back to my whole end-of-the-world,
+
+
+399
+0:18:52,84 --> 0:18:53,7
+whole transcendence,
+
+
+400
+0:18:53,7 --> 0:18:57,43
+whole like general goal of saving humanity and life and intelligence
+
+
+401
+0:18:57,43 --> 0:19:1,96
+and everything from total extinction and I thought,
+
+
+402
+0:19:1,96 --> 0:19:3,74
+now, I kind of connected the dots;
+
+
+403
+0:19:3,74 --> 0:19:5,43
+it makes sense to me because what's going to prevent us?
+
+
+404
+0:19:5,43 --> 0:19:9,63
+What's going to prevent humanity from achieving that level?
+
+
+405
+0:19:9,63 --> 0:19:11,4
+Well, it's stupidity.
+
+
+406
+0:19:11,4 --> 0:19:12,61
+That's what's going to prevent us from happening.
+
+
+407
+0:19:12,61 --> 0:19:15,11
+It's every time you turn on the news and there is a
+
+
+408
+0:19:15,11 --> 0:19:18,8
+politician saying something jaw-droppingly stupid.
+
+
+409
+0:19:18,8 --> 0:19:21,7
+It's the amazing power of the torch-wielding
+
+
+410
+0:19:21,7 --> 0:19:25,68
+mob to just destroy things to get in the way.
+
+
+411
+0:19:25,68 --> 0:19:26,62
+It's going to be stupidity,
+
+
+412
+0:19:26,62 --> 0:19:30,3
+it's going to be stupid people and assholes that are going
+
+
+413
+0:19:30,3 --> 0:19:32,98
+to prevent us from doing this and then I thought,
+
+
+414
+0:19:32,98 --> 0:19:35,21
+okay now that's becoming actionable,
+
+
+415
+0:19:35,21 --> 0:19:39,96
+so now my dream became - I am going to spend my life trying
+
+
+416
+0:19:39,96 --> 0:19:42,57
+to reduce the amount of stupidity on this planet.
+
+
+417
+0:19:42,57 --> 0:19:46,47
+And that was something I felt I could do.
+
+
+418
+0:19:46,47 --> 0:19:49,25
+I felt - like I am not going to get rid
+
+
+419
+0:19:49,25 --> 0:19:52,33
+of all of it but I can get started,
+
+
+420
+0:19:52,33 --> 0:19:55,21
+I can have an impact and that became my dream.
+
+
+421
+0:19:55,21 --> 0:19:57,85
+My dream became to change the world for the
+
+
+422
+0:19:57,85 --> 0:20:1,55
+better by reducing the amount of stupidity,
+
+
+423
+0:20:1,55 --> 0:20:4,1
+reducing the number of assholes in proportion,
+
+
+424
+0:20:4,1 --> 0:20:8,7
+they still grows the population in several different
+
+
+425
+0:20:8,7 --> 0:20:10,72
+ways and I said that's what I wanted to do.
+
+
+426
+0:20:10,72 --> 0:20:11,62
+So the first thing we did,
+
+
+427
+0:20:11,62 --> 0:20:14,64
+when I had this realization is I got a few of my friends together from
+
+
+428
+0:20:14,64 --> 0:20:17,63
+college and at the company we decided to start our own company.
+
+
+429
+0:20:17,63 --> 0:20:19,61
+So we started our own company called Engine 5
+
+
+430
+0:20:19,61 --> 0:20:23,84
+in 1997 and we did - we were all geeks,
+
+
+431
+0:20:23,84 --> 0:20:27,94
+we did software, we didn't know anything about business.
+
+
+432
+0:20:27,94 --> 0:20:29,98
+We didn't care about business. We didn't know anything about money.
+
+
+433
+0:20:29,98 --> 0:20:31,77
+We didn't even know literally.
+
+
+434
+0:20:31,77 --> 0:20:35,3
+We did not know that there was a thing called investors.
+
+
+435
+0:20:35,3 --> 0:20:37,84
+We didn't know that what you were supposed to do when you start
+
+
+436
+0:20:37,84 --> 0:20:40,83
+a company is get other people's money and spend it though,
+
+
+437
+0:20:40,83 --> 0:20:44,1
+we didn't know, we never read a business book.
+
+
+438
+0:20:44,1 --> 0:20:49,84
+And this was in Boston where things aren't going to bread - entrepreneurship
+
+
+439
+0:20:49,84 --> 0:20:51,35
+is not bread into the culture like it is here.
+
+
+440
+0:20:51,35 --> 0:20:53,26
+And so, we're just three engineers.
+
+
+441
+0:20:53,26 --> 0:20:53,91
+We started the company,
+
+
+442
+0:20:53,91 --> 0:20:55,86
+called it Engine 5, because there was going to be five of us,
+
+
+443
+0:20:55,86 --> 0:20:58,77
+but two chickened out.
+
+
+444
+0:20:58,77 --> 0:21:1,0
+They know who they are and they deeply regret it.
+
+
+445
+0:21:1,0 --> 0:21:6,3
+And we just showed up and we started writing software
+
+
+446
+0:21:6,3 --> 0:21:10,7
+and we've got very lucky because '97 was just right as
+
+
+447
+0:21:10,7 --> 0:21:12,56
+the first dotcom phase was really starting to expand and
+
+
+448
+0:21:12,56 --> 0:21:15,16
+so there was infinite demand for good programmers.
+
+
+449
+0:21:15,16 --> 0:21:17,73
+We started building ecommerce systems and
+
+
+450
+0:21:17,73 --> 0:21:19,61
+stuff like that and we just did it.
+
+
+451
+0:21:19,61 --> 0:21:21,21
+We did it with no money. We never put any money in.
+
+
+452
+0:21:21,21 --> 0:21:24,28
+We never took a penny of investor money.
+
+
+453
+0:21:24,28 --> 0:21:25,41
+A couple years later,
+
+
+454
+0:21:25,41 --> 0:21:28,54
+our accountant actually made us put $100 in each because he said,
+
+
+455
+0:21:28,54 --> 0:21:30,84
+like, you have to put some money in otherwise
+
+
+456
+0:21:30,84 --> 0:21:33,38
+I can't do the books, we said, books.
+
+
+457
+0:21:33,38 --> 0:21:38,57
+And out entire company was structured around this one idea;
+
+
+458
+0:21:38,57 --> 0:21:41,96
+they say that the most successful companies have a big idea, right?
+
+
+459
+0:21:41,96 --> 0:21:45,45
+Our big idea was no assholes.
+
+
+460
+0:21:45,45 --> 0:21:47,46
+We didn't know what we were going to do.
+
+
+461
+0:21:47,46 --> 0:21:49,8
+We knew that had to do with computers, because that's we were,
+
+
+462
+0:21:49,8 --> 0:21:52,29
+we were computer guys but we thought, okay.
+
+
+463
+0:21:52,29 --> 0:21:55,4
+Here is the experience, so we had very often including this other
+
+
+464
+0:21:55,4 --> 0:21:57,65
+company that had brilliant people,
+
+
+465
+0:21:57,65 --> 0:21:58,2
+you would sit there,
+
+
+466
+0:21:58,2 --> 0:22:0,4
+you sit at your desk and you look over at somebody,
+
+
+467
+0:22:0,4 --> 0:22:2,16
+I don't want to point anyone particular,
+
+
+468
+0:22:2,16 --> 0:22:4,97
+you look over at someone and you'd go, that guy over there,
+
+
+469
+0:22:4,97 --> 0:22:8,47
+that guy is an asshole.
+
+
+470
+0:22:8,47 --> 0:22:10,79
+Why is he here?
+
+
+471
+0:22:10,79 --> 0:22:14,69
+When they interviewed him? Didn't they know? Couldn't they tell?
+
+
+472
+0:22:14,69 --> 0:22:15,98
+Why did the hire him anyway?
+
+
+473
+0:22:15,98 --> 0:22:19,28
+We couldn't figure it out, so we thought this was our big idea.
+
+
+474
+0:22:19,28 --> 0:22:22,33
+We are going to start a company and when we interview people
+
+
+475
+0:22:22,33 --> 0:22:24,43
+for a job and they come in and we interview them,
+
+
+476
+0:22:24,43 --> 0:22:26,94
+and if we think, that's very nice you're real
+
+
+477
+0:22:26,94 --> 0:22:29,5
+qualified but you kind of an asshole,
+
+
+478
+0:22:29,5 --> 0:22:30,33
+we are not going to hire that guy.
+
+
+479
+0:22:30,33 --> 0:22:32,72
+And we thought is it feasible to do that?
+
+
+480
+0:22:32,72 --> 0:22:33,8
+Can we have a company like that?
+
+
+481
+0:22:33,8 --> 0:22:36,49
+Obviously it's hard because it's never been done before.
+
+
+482
+0:22:36,49 --> 0:22:43,33
+But we thought we'd give it a try and we did.
+
+
+483
+0:22:43,33 --> 0:22:45,52
+And that actually worked really well.
+
+
+484
+0:22:45,52 --> 0:22:50,67
+And so, that - with that as the focus, that as our strategic vision,
+
+
+485
+0:22:50,67 --> 0:22:53,49
+plus the fact that we got ridiculously lucky and the timing,
+
+
+486
+0:22:53,49 --> 0:22:57,3
+we sold our company a few years later,
+
+
+487
+0:22:57,3 --> 0:22:58,87
+I think we grew to like 12 people and we sold
+
+
+488
+0:22:58,87 --> 0:23:1,44
+the company for something like $25 million,
+
+
+489
+0:23:1,44 --> 0:23:5,51
+$26 million, which was a lot of money back then in the '90s,
+
+
+490
+0:23:5,51 --> 0:23:7,97
+especially since there were zero investor dollars in it,
+
+
+491
+0:23:7,97 --> 0:23:9,28
+because again like, that was when the
+
+
+492
+0:23:9,28 --> 0:23:11,14
+accountant had made us put $300 in,
+
+
+493
+0:23:11,14 --> 0:23:16,13
+because he's like okay, I need a base price for something.
+
+
+494
+0:23:16,13 --> 0:23:19,12
+And the way we sold our company is we wound
+
+
+495
+0:23:19,12 --> 0:23:25,43
+up doing a - we wound up doing this project, we did ecommerce sites.
+
+
+496
+0:23:25,43 --> 0:23:28,9
+Back then, ecommerce wasn't really - it was just getting started and
+
+
+497
+0:23:28,9 --> 0:23:30,73
+we build shopping carts and websites where you can buy stuff.
+
+
+498
+0:23:30,73 --> 0:23:35,2
+And we did a really big project for - I think it was Nokia,
+
+
+499
+0:23:35,2 --> 0:23:38,33
+so one of the major companies at the time.
+
+
+500
+0:23:38,33 --> 0:23:40,1
+They wanted to sell stuff online.
+
+
+501
+0:23:40,1 --> 0:23:42,92
+And the client had decided that they were going to
+
+
+502
+0:23:42,92 --> 0:23:45,3
+give us this thing called Vignette Story Server,
+
+
+503
+0:23:45,3 --> 0:23:48,49
+which was this giant content management package
+
+
+504
+0:23:48,49 --> 0:23:50,87
+from a big company that has just gone public.
+
+
+505
+0:23:50,87 --> 0:23:53,65
+And we beg them not to use it, because we looked that and we said,
+
+
+506
+0:23:53,65 --> 0:23:56,28
+like, this thing, the Story Server, like you paid $1 million for it,
+
+
+507
+0:23:56,28 --> 0:23:59,89
+it doesn't do anything. Like we know, we're technical guys;
+
+
+508
+0:23:59,89 --> 0:24:1,15
+we were in charge of implementing it like
+
+
+509
+0:24:1,15 --> 0:24:3,61
+I am telling you it doesn't do anything.
+
+
+510
+0:24:3,61 --> 0:24:6,0
+I mean it costs money but it doesn't actually accomplish anything,
+
+
+511
+0:24:6,0 --> 0:24:7,85
+so still need to customize it for a year but
+
+
+512
+0:24:7,85 --> 0:24:10,14
+like we can do that year of customization,
+
+
+513
+0:24:10,14 --> 0:24:12,14
+without that thing it will be - it will be just as good,
+
+
+514
+0:24:12,14 --> 0:24:14,97
+please don't use it, just give us the $1 million instead,
+
+
+515
+0:24:14,97 --> 0:24:16,42
+and they said no, no, a strategic decision,
+
+
+516
+0:24:16,42 --> 0:24:21,7
+CEO played golf with somebody, we need to do it, we said alright.
+
+
+517
+0:24:21,7 --> 0:24:25,35
+So we had to build this very big complex site using this technology
+
+
+518
+0:24:25,35 --> 0:24:27,95
+and it was impossible because the thing didn't do anything.
+
+
+519
+0:24:27,95 --> 0:24:28,93
+More than it didn't do anything,
+
+
+520
+0:24:28,93 --> 0:24:32,13
+it kind of prevented you from doing anything and
+
+
+521
+0:24:32,13 --> 0:24:34,5
+so we had to fight uphill to actually connect it.
+
+
+522
+0:24:34,5 --> 0:24:36,49
+We had to build all this plumbing to connect this Story
+
+
+523
+0:24:36,49 --> 0:24:39,52
+Server thing to real things that actually did something,
+
+
+524
+0:24:39,52 --> 0:24:41,27
+so you can have shopping carts and inventory and whatever,
+
+
+525
+0:24:41,27 --> 0:24:42,49
+and it was really difficult,
+
+
+526
+0:24:42,49 --> 0:24:44,79
+far harder than it would have been without it.
+
+
+527
+0:24:44,79 --> 0:24:47,36
+And - but it worked and we launched the product and then
+
+
+528
+0:24:47,36 --> 0:24:49,96
+we were sitting around right afterwards we were just kind
+
+
+529
+0:24:49,96 --> 0:24:55,1
+of joking around and one of my friends suggested,
+
+
+530
+0:24:55,1 --> 0:24:57,15
+hey, we should send a letter to Vignette,
+
+
+531
+0:24:57,15 --> 0:24:58,69
+we should say like, dear Vignette,
+
+
+532
+0:24:58,69 --> 0:25:0,64
+just thought you would like to know that we had to do
+
+
+533
+0:25:0,64 --> 0:25:3,14
+something with your copy of product and we managed to
+
+
+534
+0:25:3,14 --> 0:25:5,68
+do it and it worked but like boy it was difficult,
+
+
+535
+0:25:5,68 --> 0:25:8,2
+your product sucks.
+
+
+536
+0:25:8,2 --> 0:25:13,16
+And we were sort of laughing about that and then I thought why not,
+
+
+537
+0:25:13,16 --> 0:25:16,51
+let's do that, so I wrote a letter to Vignette.
+
+
+538
+0:25:16,51 --> 0:25:18,22
+And I wasn't quite as rude about it but I based -
+
+
+539
+0:25:18,22 --> 0:25:20,78
+that's what exactly what I told them.
+
+
+540
+0:25:20,78 --> 0:25:23,25
+And three weeks later they bought the company.
+
+
+541
+0:25:23,25 --> 0:25:25,73
+Because they immediately wrote back like, really?
+
+
+542
+0:25:25,73 --> 0:25:28,13
+We would love to get it to do something and yeah we know
+
+
+543
+0:25:28,13 --> 0:25:34,62
+that it's - back then everything was booming so fast,
+
+
+544
+0:25:34,62 --> 0:25:37,6
+right, they didn't have time to - like to actually write a product,
+
+
+545
+0:25:37,6 --> 0:25:39,0
+they were too busy selling it,
+
+
+546
+0:25:39,0 --> 0:25:41,23
+they were too busy growing and they knew it.
+
+
+547
+0:25:41,23 --> 0:25:43,8
+And they were actually really good about it
+
+
+548
+0:25:43,8 --> 0:25:46,55
+and they bought us pretty much immediately.
+
+
+549
+0:25:46,55 --> 0:25:49,8
+And then we helped kind of redo the architecture so that
+
+
+550
+0:25:49,8 --> 0:25:52,42
+a couple of years later it actually did do something.
+
+
+551
+0:25:52,42 --> 0:25:56,8
+And so the lesson we apparently learnt from that is like
+
+
+552
+0:25:56,8 --> 0:25:58,8
+hey this whole experiment of like just really trying to
+
+
+553
+0:25:58,8 --> 0:26:1,61
+not tolerate stupidity and not have any assholes,
+
+
+554
+0:26:1,61 --> 0:26:3,6
+that worked really well although we may have just
+
+
+555
+0:26:3,6 --> 0:26:5,9
+gotten really lucky the first time around,
+
+
+556
+0:26:5,9 --> 0:26:8,91
+and B, like we were just be direct about what you want.
+
+
+557
+0:26:8,91 --> 0:26:11,94
+Like we had a thing that we thought we should - there will be useful information
+
+
+558
+0:26:11,94 --> 0:26:15,31
+to tell this big public company and we did it, we told them.
+
+
+559
+0:26:15,31 --> 0:26:17,52
+And they did the right thing and they bought us and
+
+
+560
+0:26:17,52 --> 0:26:20,58
+everyone - it kind of worked out well for everyone.
+
+
+561
+0:26:20,58 --> 0:26:25,34
+And then we spent about two years at Vignette
+
+
+562
+0:26:25,34 --> 0:26:27,18
+and then we started our second company,
+
+
+563
+0:26:27,18 --> 0:26:29,65
+second team of people right through college - from college.
+
+
+564
+0:26:29,65 --> 0:26:34,72
+We started our second company which we did on October 11 of 2001,
+
+
+565
+0:26:34,72 --> 0:26:36,75
+so exactly a month after September 11.
+
+
+566
+0:26:36,75 --> 0:26:39,54
+And I think like everyone back then we sort of
+
+
+567
+0:26:39,54 --> 0:26:43,65
+felt we need to do something more substantive.
+
+
+568
+0:26:43,65 --> 0:26:45,42
+It seemed like the stuff we were working on before,
+
+
+569
+0:26:45,42 --> 0:26:46,68
+yeah it was interesting technology,
+
+
+570
+0:26:46,68 --> 0:26:51,85
+we were doing ecommerce and collaborate filtering and dynamic recommendations
+
+
+571
+0:26:51,85 --> 0:26:54,55
+but none of that seem to matter among that September 11,
+
+
+572
+0:26:54,55 --> 0:26:57,2
+we wanted to do something more fundamental, more substantive.
+
+
+573
+0:26:57,2 --> 0:27:1,6
+So, we met this brilliant professor out of MIT who had this
+
+
+574
+0:27:1,6 --> 0:27:5,47
+idea that would really revolutionize security and photography
+
+
+575
+0:27:5,47 --> 0:27:8,38
+and smartcards and we did a startup out of MIT,
+
+
+576
+0:27:8,38 --> 0:27:10,5
+a spin out of MIT called CoreStreet
+
+
+577
+0:27:10,5 --> 0:27:12,52
+basically to productize this idea.
+
+
+578
+0:27:12,52 --> 0:27:17,57
+And we applied the same rules, no assholes except but at that point
+
+
+579
+0:27:17,57 --> 0:27:21,15
+of course I was grandfathered in.
+
+
+580
+0:27:21,15 --> 0:27:24,93
+And small group of people and just build this technology
+
+
+581
+0:27:24,93 --> 0:27:29,16
+and that worked well but what I learned from that
+
+
+582
+0:27:29,16 --> 0:27:35,65
+is people don't get excited about security.
+
+
+583
+0:27:35,65 --> 0:27:38,19
+We were basically selling big systems to the government and
+
+
+584
+0:27:38,19 --> 0:27:41,56
+it kind of became an expert of like DoD procurement schedules
+
+
+585
+0:27:41,56 --> 0:27:45,82
+and it didn't want - I didn't want that in my head.
+
+
+586
+0:27:45,82 --> 0:27:48,13
+And even though we were doing interesting work and important work,
+
+
+587
+0:27:48,13 --> 0:27:50,86
+work that actually today is used by millions of people
+
+
+588
+0:27:50,86 --> 0:27:54,17
+and really I think did improve security worldwide,
+
+
+589
+0:27:54,17 --> 0:27:56,95
+no one cares, like no one is excited about it.
+
+
+590
+0:27:56,95 --> 0:27:58,8
+Because in the security field what
+
+
+591
+0:27:58,8 --> 0:28:0,71
+I realized is the best case scenario,
+
+
+592
+0:28:0,71 --> 0:28:5,36
+the best case scenario in security is your customer resents you,
+
+
+593
+0:28:5,36 --> 0:28:8,37
+because nothing bad happen then they feel
+
+
+594
+0:28:8,37 --> 0:28:9,46
+like they wasted their time and money,
+
+
+595
+0:28:9,46 --> 0:28:10,68
+they didn't need you, nothing bad happen.
+
+
+596
+0:28:10,68 --> 0:28:14,21
+That's best case scenario, it's all downhill from that.
+
+
+597
+0:28:14,21 --> 0:28:16,8
+And once this company started,
+
+
+598
+0:28:16,8 --> 0:28:18,42
+kind of gotten at speed and got to the point where we
+
+
+599
+0:28:18,42 --> 0:28:21,29
+were stable we thought okay we need to - it's time for
+
+
+600
+0:28:21,29 --> 0:28:26,7
+adults to come in and take over and run this thing and
+
+
+601
+0:28:26,7 --> 0:28:30,22
+it's time for us to do something consumer based.
+
+
+602
+0:28:30,22 --> 0:28:33,68
+We wanted to do something that people would fall in love with.
+
+
+603
+0:28:33,68 --> 0:28:38,13
+We wanted to take our plan of reducing the amount
+
+
+604
+0:28:38,13 --> 0:28:40,6
+of stupidity in the world to the next level and
+
+
+605
+0:28:40,6 --> 0:28:42,15
+say rather than just doing it based on example,
+
+
+606
+0:28:42,15 --> 0:28:44,62
+like no stupidity in our company,
+
+
+607
+0:28:44,62 --> 0:28:48,45
+let's actually - like let's actually make something that tries
+
+
+608
+0:28:48,45 --> 0:28:51,51
+to make the world smarter or at least its user smarter.
+
+
+609
+0:28:51,51 --> 0:28:54,64
+What - but more importantly we said let's make something
+
+
+610
+0:28:54,64 --> 0:28:57,57
+that a billion people - if we execute it well I want a billion
+
+
+611
+0:28:57,57 --> 0:28:59,4
+people to wake up excited about in the morning.
+
+
+612
+0:28:59,4 --> 0:29:1,33
+We didn't know what, but that was the idea.
+
+
+613
+0:29:1,33 --> 0:29:3,41
+We said we probably want to move to California because it's going
+
+
+614
+0:29:3,41 --> 0:29:6,12
+to have to be consumer based and consumer technology is really like
+
+
+615
+0:29:6,12 --> 0:29:10,27
+we want to be in Silicon Valley and we were talking to Andrew,
+
+
+616
+0:29:10,27 --> 0:29:12,17
+one of the guys in the team,
+
+
+617
+0:29:12,17 --> 0:29:15,41
+one of the co-founders in these companies.
+
+
+618
+0:29:15,41 --> 0:29:16,55
+And I said to him, I said,
+
+
+619
+0:29:16,55 --> 0:29:20,17
+Andrew, look I want to build something that a billion people
+
+
+620
+0:29:20,17 --> 0:29:24,8
+will wake up in the morning excited about, what can we build?
+
+
+621
+0:29:24,8 --> 0:29:26,46
+Then he said, Chinese breakfast.
+
+
+622
+0:29:26,46 --> 0:29:32,6
+And I said, no, it's not the answer I was looking for.
+
+
+623
+0:29:32,6 --> 0:29:36,85
+Let's think about it some more.
+
+
+624
+0:29:36,85 --> 0:29:39,48
+And then we realized that it should be Evernote, right?
+
+
+625
+0:29:39,48 --> 0:29:41,7
+It should be something that this universe would demand for,
+
+
+626
+0:29:41,7 --> 0:29:42,57
+because we thought - well,
+
+
+627
+0:29:42,57 --> 0:29:45,48
+none of us are fully happy with our meat brands.
+
+
+628
+0:29:45,48 --> 0:29:48,57
+All of us wish we had better memory,
+
+
+629
+0:29:48,57 --> 0:29:50,97
+that's - yeah, that's not an original idea,
+
+
+630
+0:29:50,97 --> 0:29:52,33
+there's something new in that, right?
+
+
+631
+0:29:52,33 --> 0:29:54,83
+People have been thinking - people have been creating technologies,
+
+
+632
+0:29:54,83 --> 0:29:56,38
+you know, these to be rocks,
+
+
+633
+0:29:56,38 --> 0:29:59,64
+for help you remembering stuff for tens of thousands of years.
+
+
+634
+0:29:59,64 --> 0:30:2,31
+But if we can execute it, if we can do it really well,
+
+
+635
+0:30:2,31 --> 0:30:5,98
+if we can execute this idea of building something that
+
+
+636
+0:30:5,98 --> 0:30:8,44
+will improve everyone's memory and we execute it,
+
+
+637
+0:30:8,44 --> 0:30:10,93
+so that a billion people would use it,
+
+
+638
+0:30:10,93 --> 0:30:13,78
+we'll have something. And we took a gamble. We took a bet.
+
+
+639
+0:30:13,78 --> 0:30:15,66
+The technology had just gotten to the point where
+
+
+640
+0:30:15,66 --> 0:30:17,58
+that was feasible for the first time ever,
+
+
+641
+0:30:17,58 --> 0:30:20,89
+that we can do something that was really, really mass market.
+
+
+642
+0:30:20,89 --> 0:30:22,33
+And that's how Evernote came about.
+
+
+643
+0:30:22,33 --> 0:30:25,39
+So we started working on this idea of human memory extension.
+
+
+644
+0:30:25,39 --> 0:30:27,47
+We immediately ran into another small team
+
+
+645
+0:30:27,47 --> 0:30:29,81
+that was working on the exact same idea.
+
+
+646
+0:30:29,81 --> 0:30:33,68
+That team was led by a really brilliant Russian-American
+
+
+647
+0:30:33,68 --> 0:30:36,78
+inventor and scientist named Stepan Pachikov. We met.
+
+
+648
+0:30:36,78 --> 0:30:40,8
+We decided to actually combine the two teams together in 2007.
+
+
+649
+0:30:40,8 --> 0:30:42,7
+He said, rather than two small companies competing with each other,
+
+
+650
+0:30:42,7 --> 0:30:44,47
+let's just join forces and so we did that in '07.
+
+
+651
+0:30:44,47 --> 0:30:49,3
+We formed the current entity called Evernote
+
+
+652
+0:30:49,3 --> 0:30:51,44
+and it's been a lot of fun ever since.
+
+
+653
+0:30:51,44 --> 0:31:0,3
+And the main - the main goal of Evernote was to just take that mission
+
+
+654
+0:31:0,3 --> 0:31:2,65
+of reducing the stupidity in the world and make it more direct,
+
+
+655
+0:31:2,65 --> 0:31:4,13
+because we said, we're going to run
+
+
+656
+0:31:4,13 --> 0:31:7,68
+the company using these principles.
+
+
+657
+0:31:7,68 --> 0:31:9,87
+We're going to talk about these principles and we're
+
+
+658
+0:31:9,87 --> 0:31:12,45
+going to have a product that if you use it,
+
+
+659
+0:31:12,45 --> 0:31:15,62
+it has a chance of actually just improving your memory of making you -
+
+
+660
+0:31:15,62 --> 0:31:18,13
+of making you smarter so we decided to kind of do this more directly.
+
+
+661
+0:31:18,13 --> 0:31:21,83
+So this is - this is our dream. This is what we're pursuing.
+
+
+662
+0:31:21,83 --> 0:31:25,3
+And I finally feel like it's a suitably epic dream
+
+
+663
+0:31:25,3 --> 0:31:27,64
+that it's actually worth devoting my life to.
+
+
+664
+0:31:27,64 --> 0:31:31,81
+And so that was always the plan at Evernote.
+
+
+665
+0:31:31,81 --> 0:31:35,93
+There is no exit strategy at Evernote, and there never was.
+
+
+666
+0:31:35,93 --> 0:31:40,13
+It's our third company and this is the one we get to keep.
+
+
+667
+0:31:40,13 --> 0:31:42,6
+The first two, we didn't build for us, right.
+
+
+668
+0:31:42,6 --> 0:31:44,94
+The first two, we built for somebody else.
+
+
+669
+0:31:44,94 --> 0:31:47,24
+Well, we built it to manipulate our environment so that
+
+
+670
+0:31:47,24 --> 0:31:50,15
+we can have a fun place to work and to make some money,
+
+
+671
+0:31:50,15 --> 0:31:52,0
+but ultimately we weren't - the products
+
+
+672
+0:31:52,0 --> 0:31:53,32
+we were building weren't for us,
+
+
+673
+0:31:53,32 --> 0:31:55,86
+because the first company built e-commerce products for retailers,
+
+
+674
+0:31:55,86 --> 0:31:57,53
+but we weren't a retailer.
+
+
+675
+0:31:57,53 --> 0:32:0,7
+Then the second company built security products for big governments,
+
+
+676
+0:32:0,7 --> 0:32:4,1
+but we're not a big government yet.
+
+
+677
+0:32:4,1 --> 0:32:6,13
+And we said, well the third time around,
+
+
+678
+0:32:6,13 --> 0:32:8,7
+let's build something for us, let's build something that we want that
+
+
+679
+0:32:8,7 --> 0:32:12,62
+we love and if you're doing that, why would you ever want to exit.
+
+
+680
+0:32:12,62 --> 0:32:13,76
+And so - there is no exit,
+
+
+681
+0:32:13,76 --> 0:32:16,7
+there is no - there is no acquisition strategy.
+
+
+682
+0:32:16,7 --> 0:32:18,76
+We've turned down every acquisition offer.
+
+
+683
+0:32:18,76 --> 0:32:21,52
+We've structured the board. We've structured our investment in such a
+
+
+684
+0:32:21,52 --> 0:32:24,39
+way that we can build a 100-year company,
+
+
+685
+0:32:24,39 --> 0:32:27,17
+because that's much more fun, that is much cooler.
+
+
+686
+0:32:27,17 --> 0:32:30,84
+It's much more interesting to come into work every day and think I'm
+
+
+687
+0:32:30,84 --> 0:32:36,53
+pursuing my life stream and I'm doing it in a way that I intend to do
+
+
+688
+0:32:36,53 --> 0:32:41,64
+in all seriousness for the rest of my life and I'm not taking any shortcuts
+
+
+689
+0:32:41,64 --> 0:32:44,67
+about building the company in such a way that I can flip it,
+
+
+690
+0:32:44,67 --> 0:32:47,56
+that I can sell it, that I can exit, because if you want to exit,
+
+
+691
+0:32:47,56 --> 0:32:50,78
+if you want to sell your company, something is wrong, right?
+
+
+692
+0:32:50,78 --> 0:32:52,81
+If you want to sell it,
+
+
+693
+0:32:52,81 --> 0:32:55,1
+something is not - something isn't correct,
+
+
+694
+0:32:55,1 --> 0:32:57,88
+right, because you are obviously not sufficiently in love with it.
+
+
+695
+0:32:57,88 --> 0:33:3,0
+You're obviously valuing it less than the acquirer, so why is that?
+
+
+696
+0:33:3,0 --> 0:33:5,36
+I mean maybe there's a legitimate reason,
+
+
+697
+0:33:5,36 --> 0:33:9,2
+maybe you think that your dream has a much better future if
+
+
+698
+0:33:9,2 --> 0:33:11,69
+you combine forces with the acquirer, that makes sense.
+
+
+699
+0:33:11,69 --> 0:33:14,9
+But if you're just doing it to exit
+
+
+700
+0:33:14,9 --> 0:33:15,12
+that doesn't make any sense to us.
+
+
+701
+0:33:15,12 --> 0:33:18,17
+So having exited two companies we explicitly said,
+
+
+702
+0:33:18,17 --> 0:33:20,34
+no exit, at Evernote.
+
+
+703
+0:33:20,34 --> 0:33:21,85
+In fact, about a year ago,
+
+
+704
+0:33:21,85 --> 0:33:25,91
+I kind of tired of having some of those conversation
+
+
+705
+0:33:25,91 --> 0:33:28,0
+with the company where - people,
+
+
+706
+0:33:28,0 --> 0:33:29,49
+in a small company, everyone just talks about,
+
+
+707
+0:33:29,49 --> 0:33:30,75
+your executives, your staff will be like,
+
+
+708
+0:33:30,75 --> 0:33:31,79
+hey, who do you think will buy us?
+
+
+709
+0:33:31,79 --> 0:33:34,18
+You think Google will buy us, you think you know whatever.
+
+
+710
+0:33:34,18 --> 0:33:36,93
+And I finally said, okay, I have had it with this conversation,
+
+
+711
+0:33:36,93 --> 0:33:40,14
+we just turned on a big offer for acquisition and I said
+
+
+712
+0:33:40,14 --> 0:33:42,2
+we're not - we're no longer talking about who's going to buy us,
+
+
+713
+0:33:42,2 --> 0:33:45,94
+no one is going to buy us, let's talk about who we're going to buy.
+
+
+714
+0:33:45,94 --> 0:33:46,98
+And let's do that seriously.
+
+
+715
+0:33:46,98 --> 0:33:51,89
+Let's seriously say, let us just shift gears, who do we want to buy?
+
+
+716
+0:33:51,89 --> 0:33:54,0
+And people said okay, yeah, that's a more interesting question,
+
+
+717
+0:33:54,0 --> 0:33:57,8
+that's actually more fun to think about that and we all said Skitch,
+
+
+718
+0:33:57,8 --> 0:33:59,34
+because we all love this little product called Skitch
+
+
+719
+0:33:59,34 --> 0:34:0,71
+and we actually thought that was a tip of the iceberg
+
+
+720
+0:34:0,71 --> 0:34:2,56
+of what we could do with it and a few months later,
+
+
+721
+0:34:2,56 --> 0:34:5,8
+we bought our first company and it was Skitch and that was actually
+
+
+722
+0:34:5,8 --> 0:34:8,5
+awesomely fun to acquire this great - this great team,
+
+
+723
+0:34:8,5 --> 0:34:9,32
+this great technology,
+
+
+724
+0:34:9,32 --> 0:34:11,86
+a product that we had already been in love with,
+
+
+725
+0:34:11,86 --> 0:34:14,88
+that is actively helps you to be smarter and more productive
+
+
+726
+0:34:14,88 --> 0:34:20,16
+and a better communicator and we'll buy several more as well.
+
+
+727
+0:34:20,16 --> 0:34:22,26
+But the kind of companies that we're buying now,
+
+
+728
+0:34:22,26 --> 0:34:23,43
+we have the same discussion.
+
+
+729
+0:34:23,43 --> 0:34:27,58
+We don't buy a company that somebody wants to sell to us.
+
+
+730
+0:34:27,58 --> 0:34:30,69
+You buy a company like Skitch that has founders
+
+
+731
+0:34:30,69 --> 0:34:33,8
+who are fundamentally in love with this idea that
+
+
+732
+0:34:33,8 --> 0:34:35,29
+getting out is the last thing in their minds.
+
+
+733
+0:34:35,29 --> 0:34:37,31
+And we have to convince them that the best way to reach that
+
+
+734
+0:34:37,31 --> 0:34:40,9
+idea is to do it inside that we share the same passion,
+
+
+735
+0:34:40,9 --> 0:34:42,66
+we share the same vision, you will get there together,
+
+
+736
+0:34:42,66 --> 0:34:46,45
+you guys will actually wind up fulfilling your dream better,
+
+
+737
+0:34:46,45 --> 0:34:48,96
+inside Evernote than outside of it.
+
+
+738
+0:34:48,96 --> 0:34:51,89
+And that worked really well and in one case we actually just purchased
+
+
+739
+0:34:51,89 --> 0:34:54,19
+couple of more companies that we haven't announced yet,
+
+
+740
+0:34:54,19 --> 0:34:57,2
+but hopefully, we will soon and we'll do that for the next
+
+
+741
+0:34:57,2 --> 0:35:2,13
+100 years and this 100-year plan is a hell of a lot better,
+
+
+742
+0:35:2,13 --> 0:35:6,91
+a hell of a lot more fun than any of the previous things I've done.
+
+
+743
+0:35:6,91 --> 0:35:9,77
+But the secret is it's stuff that we're building for ourselves.
+
+
+744
+0:35:9,77 --> 0:35:11,32
+I do not think I would have the patience to
+
+
+745
+0:35:11,32 --> 0:35:16,8
+spend 100 years building software for banks.
+
+
+746
+0:35:16,8 --> 0:35:18,84
+So, having said all that,
+
+
+747
+0:35:18,84 --> 0:35:22,26
+I think that if we can get back to where this all started,
+
+
+748
+0:35:22,26 --> 0:35:24,22
+right, the kind of standard entrepreneurial talk.
+
+
+749
+0:35:24,22 --> 0:35:29,6
+So, you want to be an entrepreneur.
+
+
+750
+0:35:29,6 --> 0:35:35,3
+Well, I don't, I never did. The first time - I remember the first time
+
+
+751
+0:35:35,3 --> 0:35:36,72
+somebody called me a serial entrepreneur,
+
+
+752
+0:35:36,72 --> 0:35:39,27
+I think I just started my second company and I like Phil Libin,
+
+
+753
+0:35:39,27 --> 0:35:41,9
+serial entrepreneur - serial entrepreneur like the
+
+
+754
+0:35:41,9 --> 0:35:44,4
+Quaker Oats guys is a serial entrepreneur, right.
+
+
+755
+0:35:44,4 --> 0:35:45,56
+I just started a company;
+
+
+756
+0:35:45,56 --> 0:35:48,16
+I don't remember - not really sure what that means.
+
+
+757
+0:35:48,16 --> 0:35:51,25
+My goal wasn't to create companies and sell them.
+
+
+758
+0:35:51,25 --> 0:35:53,83
+My goal was to do something meaningful and
+
+
+759
+0:35:53,83 --> 0:35:57,6
+I thought that lacking any artistic skills,
+
+
+760
+0:35:57,6 --> 0:36:1,14
+the best way to actually have this kind of impact is to make
+
+
+761
+0:36:1,14 --> 0:36:3,69
+an entrepreneur and make some money for people because that -
+
+
+762
+0:36:3,69 --> 0:36:6,2
+the universe lets you do more and more interesting things if
+
+
+763
+0:36:6,2 --> 0:36:9,57
+you can actually demonstrate an ability to make money.
+
+
+764
+0:36:9,57 --> 0:36:10,87
+And that's how it's worked out.
+
+
+765
+0:36:10,87 --> 0:36:13,3
+So, if you want to be an entrepreneur,
+
+
+766
+0:36:13,3 --> 0:36:14,86
+I think the first thing is to really ask yourself
+
+
+767
+0:36:14,86 --> 0:36:18,8
+is why because there are many bad reasons.
+
+
+768
+0:36:18,8 --> 0:36:22,32
+There is only one good reason. There're many bad reasons.
+
+
+769
+0:36:22,32 --> 0:36:24,3
+So, if you want to be an entrepreneur,
+
+
+770
+0:36:24,3 --> 0:36:25,26
+and you've fallen into any of the most
+
+
+771
+0:36:25,26 --> 0:36:28,69
+common bad reasons, don't do it. I think the number one mistake;
+
+
+772
+0:36:28,69 --> 0:36:30,89
+the number one bad reason for being an entrepreneur
+
+
+773
+0:36:30,89 --> 0:36:33,15
+is because you want to make money.
+
+
+774
+0:36:33,15 --> 0:36:35,1
+If you are thinking of being an entrepreneur because
+
+
+775
+0:36:35,1 --> 0:36:36,15
+you think it's a good way to make money,
+
+
+776
+0:36:36,15 --> 0:36:39,74
+you are just bad at math because it isn't.
+
+
+777
+0:36:39,74 --> 0:36:44,34
+You just have to look at the statistics.
+
+
+778
+0:36:44,34 --> 0:36:46,44
+Thank you.
+
+
+779
+0:36:46,44 --> 0:36:46,73
+Right.
+
+
+780
+0:36:46,73 --> 0:36:47,71
+Depending on how you count,
+
+
+781
+0:36:47,71 --> 0:36:52,46
+95% or 99% of companies fail and if you are smart enough to be in
+
+
+782
+0:36:52,46 --> 0:36:55,93
+this room and you are talented enough and you have driven enough just
+
+
+783
+0:36:55,93 --> 0:36:59,44
+to be here and you want to optimize for your lifetime earnings,
+
+
+784
+0:36:59,44 --> 0:37:1,8
+being an entrepreneur is stupid.
+
+
+785
+0:37:1,8 --> 0:37:3,42
+If you want to optimize for your lifetime earnings,
+
+
+786
+0:37:3,42 --> 0:37:5,12
+having already got into this room at Stanford,
+
+
+787
+0:37:5,12 --> 0:37:7,23
+you're much better off just getting a job.
+
+
+788
+0:37:7,23 --> 0:37:9,86
+Become a banker or something, you will make a lot more money.
+
+
+789
+0:37:9,86 --> 0:37:11,81
+The expected case, there will be a lot more.
+
+
+790
+0:37:11,81 --> 0:37:14,39
+Some people get lucky and make significant amount.
+
+
+791
+0:37:14,39 --> 0:37:17,9
+But being entrepreneur is not a good idea if that's your main goal.
+
+
+792
+0:37:17,9 --> 0:37:19,33
+So if you want to make money, I would say that is a serious mistake.
+
+
+793
+0:37:19,33 --> 0:37:22,9
+If you are doing it because you have some sense of power,
+
+
+794
+0:37:22,9 --> 0:37:25,43
+like you want to be the CEO because you're going to be at the top,
+
+
+795
+0:37:25,43 --> 0:37:28,14
+there is this pyramid, right, this OR chart and you are at the top
+
+
+796
+0:37:28,14 --> 0:37:29,88
+and there's all these people below you.
+
+
+797
+0:37:29,88 --> 0:37:32,34
+That's ridiculous, it doesn't work like that.
+
+
+798
+0:37:32,34 --> 0:37:35,53
+When you are the CEO of a startup company, everyone is your boss.
+
+
+799
+0:37:35,53 --> 0:37:37,99
+You are all the way at the bottom. It is an inverted pyramid.
+
+
+800
+0:37:37,99 --> 0:37:40,67
+Like you are down here and it goes like that
+
+
+801
+0:37:40,67 --> 0:37:42,66
+and all of your employees are your boss.
+
+
+802
+0:37:42,66 --> 0:37:44,45
+All of your investors are your bosses.
+
+
+803
+0:37:44,45 --> 0:37:45,88
+All of your customers are your bosses.
+
+
+804
+0:37:45,88 --> 0:37:48,29
+Everyone in the media is your boss.
+
+
+805
+0:37:48,29 --> 0:37:51,46
+I have never had more bosses than I have at Evernote.
+
+
+806
+0:37:51,46 --> 0:37:52,53
+So, if it's a power trip,
+
+
+807
+0:37:52,53 --> 0:37:53,83
+if you want to be an entrepreneur because it's
+
+
+808
+0:37:53,83 --> 0:37:57,59
+a power trip that's just a ridiculous idea.
+
+
+809
+0:37:57,59 --> 0:37:59,16
+I've had some people say that they want to
+
+
+810
+0:37:59,16 --> 0:38:5,21
+do it because they want more flex time.
+
+
+811
+0:38:5,21 --> 0:38:7,98
+Oh, I've got this job and it's 9:00 to 5:00
+
+
+812
+0:38:7,98 --> 0:38:9,23
+and I really want more flexibility,
+
+
+813
+0:38:9,23 --> 0:38:11,46
+so I would like to do something entrepreneurial
+
+
+814
+0:38:11,46 --> 0:38:15,1
+so I can kind of control my own hours.
+
+
+815
+0:38:15,1 --> 0:38:17,51
+You do get flex time as an entrepreneur.
+
+
+816
+0:38:17,51 --> 0:38:23,56
+You get to work any 20 hours a day you want.
+
+
+817
+0:38:23,56 --> 0:38:26,27
+So lots of really bad reasons and if you are thinking
+
+
+818
+0:38:26,27 --> 0:38:27,7
+of being an entrepreneur for one of those reasons,
+
+
+819
+0:38:27,7 --> 0:38:29,93
+I would say really like, yeah, take this class,
+
+
+820
+0:38:29,93 --> 0:38:30,88
+learn about it, it's all good,
+
+
+821
+0:38:30,88 --> 0:38:33,1
+you can learn about art appreciation without becoming
+
+
+822
+0:38:33,1 --> 0:38:36,78
+a professional artist, but don't do it.
+
+
+823
+0:38:36,78 --> 0:38:38,71
+If you want to be an entrepreneur because you want to change
+
+
+824
+0:38:38,71 --> 0:38:41,39
+the world because you want to do something that has a fundamental
+
+
+825
+0:38:41,39 --> 0:38:46,52
+impact on the universe and you have a decent idea of the direction
+
+
+826
+0:38:46,52 --> 0:38:48,86
+of how you want to change or what that change is,
+
+
+827
+0:38:48,86 --> 0:38:51,61
+then actually think it's an unparalleled time to do it.
+
+
+828
+0:38:51,61 --> 0:38:54,31
+And to wrap up where I started,
+
+
+829
+0:38:54,31 --> 0:38:58,42
+now is the best time in the history of the universe to start
+
+
+830
+0:38:58,42 --> 0:39:3,46
+a company because we are living in a geek meritocracy today
+
+
+831
+0:39:3,46 --> 0:39:6,68
+or as close to a geek meritocracy as ever happened.
+
+
+832
+0:39:6,68 --> 0:39:9,57
+My first two companies, they're all software companies,
+
+
+833
+0:39:9,57 --> 0:39:12,29
+we had to spend probably 70% of our time and resources,
+
+
+834
+0:39:12,29 --> 0:39:15,13
+we spent 30% roughly on making the product,
+
+
+835
+0:39:15,13 --> 0:39:17,77
+we spent 70% on all the other crap.
+
+
+836
+0:39:17,77 --> 0:39:20,8
+Marketing, logistics, channel partnerships,
+
+
+837
+0:39:20,8 --> 0:39:23,99
+advertising, all of that stuff, 70%.
+
+
+838
+0:39:23,99 --> 0:39:26,8
+Now, especially if you are doing something for consumers,
+
+
+839
+0:39:26,8 --> 0:39:31,3
+you can spend 95% or 99% of all your resources making great
+
+
+840
+0:39:31,3 --> 0:39:34,12
+product and you get massive leverage and everything else.
+
+
+841
+0:39:34,12 --> 0:39:36,31
+And it's only happened two or three years ago,
+
+
+842
+0:39:36,31 --> 0:39:40,29
+right, because of app stores, right, because I used to have to worry.
+
+
+843
+0:39:40,29 --> 0:39:41,66
+Well, if I release a new version,
+
+
+844
+0:39:41,66 --> 0:39:44,66
+how are people - how are people in a different stage going to get it?
+
+
+845
+0:39:44,66 --> 0:39:48,29
+Well, I better have a deal with a retailer that works in Tennessee.
+
+
+846
+0:39:48,29 --> 0:39:49,66
+Now, you make a great app,
+
+
+847
+0:39:49,66 --> 0:39:52,17
+everyone in the planet can have it tomorrow, right.
+
+
+848
+0:39:52,17 --> 0:39:53,14
+Same thing for advertising,
+
+
+849
+0:39:53,14 --> 0:39:54,92
+I used to worry about how do you reach people.
+
+
+850
+0:39:54,92 --> 0:39:56,51
+Well now you don't have to worry about how to reach people,
+
+
+851
+0:39:56,51 --> 0:39:58,3
+what do you mean reach people, you make a great product,
+
+
+852
+0:39:58,3 --> 0:39:59,71
+everyone is already having a different number
+
+
+853
+0:39:59,71 --> 0:40:2,3
+of conversations in all their social networks,
+
+
+854
+0:40:2,3 --> 0:40:3,51
+you just want to be the thing that they talk about.
+
+
+855
+0:40:3,51 --> 0:40:8,21
+So be great, people will talk about you, end of the story.
+
+
+856
+0:40:8,21 --> 0:40:10,38
+Smartphones, computers are everywhere.
+
+
+857
+0:40:10,38 --> 0:40:12,1
+Without smartphones, it wasn't possible.
+
+
+858
+0:40:12,1 --> 0:40:15,1
+Freemium economics, I have got lots of things to say about freemium
+
+
+859
+0:40:15,1 --> 0:40:18,4
+in different talks but freemium economics works really well,
+
+
+860
+0:40:18,4 --> 0:40:21,1
+if you know what you are doing, if you build a good consumer app.
+
+
+861
+0:40:21,1 --> 0:40:23,78
+These things put together, app stores, smartphones,
+
+
+862
+0:40:23,78 --> 0:40:26,73
+open source infrastructure, network services, freemium economics;
+
+
+863
+0:40:26,73 --> 0:40:29,11
+all of this is new in the past five years.
+
+
+864
+0:40:29,11 --> 0:40:31,14
+All of it together make this a geek meritocracy,
+
+
+865
+0:40:31,14 --> 0:40:34,41
+make this the best possible time in the history of the universe to
+
+
+866
+0:40:34,41 --> 0:40:37,76
+innovate and start a company and all of the depressing stuff you hear
+
+
+867
+0:40:37,76 --> 0:40:42,29
+on TV about how it's a bad economy and it's a bad time to do it,
+
+
+868
+0:40:42,29 --> 0:40:43,6
+it's complete nonsense.
+
+
+869
+0:40:43,6 --> 0:40:47,61
+All I ask about that is to say well, when would you rather be alive.
+
+
+870
+0:40:47,61 --> 0:40:50,51
+Is there any point that you think you would rather like - would
+
+
+871
+0:40:50,51 --> 0:40:54,61
+just change your life today for - would you be back in 1992,
+
+
+872
+0:40:54,61 --> 0:40:55,73
+would you go back to the '70s,
+
+
+873
+0:40:55,73 --> 0:40:57,36
+would you go back to the 1500s like when,
+
+
+874
+0:40:57,36 --> 0:40:59,58
+when was there ever a better time.
+
+
+875
+0:40:59,58 --> 0:41:2,73
+There hasn't been, there is always some feeling that kids
+
+
+876
+0:41:2,73 --> 0:41:5,15
+today and there's malaise or whatever but the facts are,
+
+
+877
+0:41:5,15 --> 0:41:7,72
+the verifiable facts is we've never been close
+
+
+878
+0:41:7,72 --> 0:41:10,84
+to fair meritocracy and if you are a geek,
+
+
+879
+0:41:10,84 --> 0:41:14,1
+pretty sure some of you are,
+
+
+880
+0:41:14,1 --> 0:41:15,76
+now is the best time to be an entrepreneur,
+
+
+881
+0:41:15,76 --> 0:41:32,234
+if you got the right reason to do it. So, thank you very much.
+
+
+882
+0:41:32,234 --> 0:41:34,14
+Phil will you - when somebody asks a question, would you repeat it,
+
+
+883
+0:41:34,14 --> 0:41:37,18
+so the online audience can hear the question?
+
+
+884
+0:41:37,18 --> 0:41:41,24
+Sure, please just... Over here I'll start.
+
+
+885
+0:41:41,24 --> 0:41:45,24
+Thank you, that was great. Thank you so much.
+
+
+886
+0:41:45,24 --> 0:41:49,26
+The first question, so you never want to sell the company. Yeah.
+
+
+887
+0:41:49,26 --> 0:41:53,65
+But you raised $50 million recently from people who generally
+
+
+888
+0:41:53,65 --> 0:41:58,5
+like to get their money back and multiples thereof.
+
+
+889
+0:41:58,5 --> 0:42:1,99
+And also I think we read somewhere that when you raised
+
+
+890
+0:42:1,99 --> 0:42:3,89
+it you sort of said you kind of didn't need it.
+
+
+891
+0:42:3,89 --> 0:42:5,4
+Yeah, yeah.
+
+
+892
+0:42:5,4 --> 0:42:9,76
+So can you rationalize those comments against what you just
+
+
+893
+0:42:9,76 --> 0:42:12,42
+said about building a 100-year company, never selling it.
+
+
+894
+0:42:12,42 --> 0:42:16,59
+How do you actually make all those pieces fit?
+
+
+895
+0:42:16,59 --> 0:42:19,12
+So the question is, I said I don't want to sell
+
+
+896
+0:42:19,12 --> 0:42:21,3
+the company but we raised a bunch of money,
+
+
+897
+0:42:21,3 --> 0:42:25,5
+close to $100 million from people who like to get their money back,
+
+
+898
+0:42:25,5 --> 0:42:28,79
+how do we rationalize that. Well, pretty easy.
+
+
+899
+0:42:28,79 --> 0:42:30,97
+So there has actually been this complete revolution,
+
+
+900
+0:42:30,97 --> 0:42:33,6
+just in the past two years in the VC industry,
+
+
+901
+0:42:33,6 --> 0:42:36,2
+which I think people here kind of know but the memo hasn't
+
+
+902
+0:42:36,2 --> 0:42:37,59
+quite gotten out to the rest of the world yet.
+
+
+903
+0:42:37,59 --> 0:42:41,94
+But there is a total fundamental change of shifting - shift
+
+
+904
+0:42:41,94 --> 0:42:46,61
+of thinking about this which is sophisticated investors
+
+
+905
+0:42:46,61 --> 0:42:49,42
+like Sequoia and Morgenthaler are our main investors,
+
+
+906
+0:42:49,42 --> 0:42:52,64
+have totally decoupled exit from liquidity.
+
+
+907
+0:42:52,64 --> 0:42:53,95
+Those two things used to be together,
+
+
+908
+0:42:53,95 --> 0:42:56,56
+so you start a company and the investors
+
+
+909
+0:42:56,56 --> 0:42:58,97
+want you to starve until you're done,
+
+
+910
+0:42:58,97 --> 0:43:0,33
+until you exit and then everyone gets their
+
+
+911
+0:43:0,33 --> 0:43:2,84
+money back and that's fundamentally stupid.
+
+
+912
+0:43:2,84 --> 0:43:5,2
+And like look in hindsight like obviously it's stupid,
+
+
+913
+0:43:5,2 --> 0:43:6,95
+why - who does that benefit?
+
+
+914
+0:43:6,95 --> 0:43:9,8
+Why would anyone want to put pressure on the founders of
+
+
+915
+0:43:9,8 --> 0:43:11,76
+a company to potentially sell prematurely because yeah,
+
+
+916
+0:43:11,76 --> 0:43:13,22
+they are kind of successful but they also got to put
+
+
+917
+0:43:13,22 --> 0:43:15,42
+their kids through college and they have a lot of money
+
+
+918
+0:43:15,42 --> 0:43:17,53
+on paper but they don't have any money really.
+
+
+919
+0:43:17,53 --> 0:43:19,97
+So this whole idea of coupling exit and liquidity
+
+
+920
+0:43:19,97 --> 0:43:22,62
+which was 99% of the time before,
+
+
+921
+0:43:22,62 --> 0:43:24,61
+it doesn't make any sense and it was people
+
+
+922
+0:43:24,61 --> 0:43:27,23
+here that figured out, boy that's dumb.
+
+
+923
+0:43:27,23 --> 0:43:28,64
+What do you do when you see something that's dumb,
+
+
+924
+0:43:28,64 --> 0:43:32,27
+well you just stop doing it. So the secondary markets today provide
+
+
+925
+0:43:32,27 --> 0:43:36,45
+all the liquidity that you ever need, totally separate from an exit.
+
+
+926
+0:43:36,45 --> 0:43:40,3
+So when you do a round, especially any of the later rounds,
+
+
+927
+0:43:40,3 --> 0:43:44,2
+it's usually not only possible but it's usually quite encouraged to allow
+
+
+928
+0:43:44,2 --> 0:43:47,56
+existing shareholders to sell a certain portion of their shares.
+
+
+929
+0:43:47,56 --> 0:43:50,83
+The bigger funds like Sequoia, Sequoia is not a monolithic entity,
+
+
+930
+0:43:50,83 --> 0:43:53,18
+right, they have many funds with different risk profiles,
+
+
+931
+0:43:53,18 --> 0:43:55,46
+so they can actually - some of their funds that
+
+
+932
+0:43:55,46 --> 0:43:57,42
+have more start up profiles can get out,
+
+
+933
+0:43:57,42 --> 0:44:0,1
+some of their growth funds can get in, they can shuffle that through,
+
+
+934
+0:44:0,1 --> 0:44:1,26
+there's tons of other investors that are
+
+
+935
+0:44:1,26 --> 0:44:4,25
+happy to buy shares from founders,
+
+
+936
+0:44:4,25 --> 0:44:8,4
+from employees, from shareholders and so you can have multiple liquidity
+
+
+937
+0:44:8,4 --> 0:44:12,43
+events all the way through and then at some point you'll IPO and
+
+
+938
+0:44:12,43 --> 0:44:14,79
+you have the liquidity that way but there is no exit.
+
+
+939
+0:44:14,79 --> 0:44:16,95
+There is no synchronized event where everyone is
+
+
+940
+0:44:16,95 --> 0:44:19,61
+like we're done because why should there be.
+
+
+941
+0:44:19,61 --> 0:44:20,78
+That's not good for anyone.
+
+
+942
+0:44:20,78 --> 0:44:25,8
+So that's - the separation of liquidity from exit,
+
+
+943
+0:44:25,8 --> 0:44:28,7
+I think, was like a profound shift that happened - really Facebook,
+
+
+944
+0:44:28,7 --> 0:44:31,82
+I think, is probably the first company that really figured this out.
+
+
+945
+0:44:31,82 --> 0:44:35,12
+Facebook and investors like Sequoia, like DST, like Yuri Milner,
+
+
+946
+0:44:35,12 --> 0:44:36,78
+they were kind of the few people to do it and it's like you're
+
+
+947
+0:44:36,78 --> 0:44:40,19
+watching history happen right now and it's fantastic.
+
+
+948
+0:44:40,19 --> 0:44:42,88
+Like I go to Boston and like the Boston BCs didn't get that memo yet.
+
+
+949
+0:44:42,88 --> 0:44:44,82
+So they are still conflating those two things.
+
+
+950
+0:44:44,82 --> 0:44:46,89
+But it's only, you know, sooner or later, the next decade or two,
+
+
+951
+0:44:46,89 --> 0:44:51,2
+that everyone will figure it out.
+
+
+952
+0:44:51,2 --> 0:44:52,48
+Please.
+
+
+953
+0:44:52,48 --> 0:44:55,98
+Can you talk a little bit more about when the team broke up when you
+
+
+954
+0:44:55,98 --> 0:44:59,72
+were doing Engine 5 and how you have dealt through that change?
+
+
+955
+0:44:59,72 --> 0:45:1,67
+When the team broke up? Yeah, you said there were going to
+
+
+956
+0:45:1,67 --> 0:45:4,13
+be five founders and then two left.
+
+
+957
+0:45:4,13 --> 0:45:6,16
+Yeah, yeah, so there was - well,
+
+
+958
+0:45:6,16 --> 0:45:7,42
+that happened right before we founded it.
+
+
+959
+0:45:7,42 --> 0:45:10,17
+So we basically got five coworkers together,
+
+
+960
+0:45:10,17 --> 0:45:13,92
+you know, five friends and we said, let's make a company,
+
+
+961
+0:45:13,92 --> 0:45:16,83
+call it Engine 5 and everyone said awesome and then,
+
+
+962
+0:45:16,83 --> 0:45:19,8
+you know, when we got the name and got the domain name,
+
+
+963
+0:45:19,8 --> 0:45:20,27
+because back then you could get domain
+
+
+964
+0:45:20,27 --> 0:45:24,72
+names and just be like engine5.com, yay it's free.
+
+
+965
+0:45:24,72 --> 0:45:27,92
+And then two people just, you know, they just chickened out,
+
+
+966
+0:45:27,92 --> 0:45:29,67
+appropriately so, right.
+
+
+967
+0:45:29,67 --> 0:45:31,74
+Because of everything that I just said, like why be an entrepreneur,
+
+
+968
+0:45:31,74 --> 0:45:34,95
+like these were two people who - they didn't want to change the world.
+
+
+969
+0:45:34,95 --> 0:45:37,56
+They wanted some stability, they wanted to have a family,
+
+
+970
+0:45:37,56 --> 0:45:38,43
+they were making good money,
+
+
+971
+0:45:38,43 --> 0:45:42,94
+they made the perfectly rational decision to not join three crazy
+
+
+972
+0:45:42,94 --> 0:45:47,19
+people that were leaving a good job to go do their own thing.
+
+
+973
+0:45:47,19 --> 0:45:49,23
+So - yeah, they just chickened out and we just said,
+
+
+974
+0:45:49,23 --> 0:45:52,22
+okay, well, we'll do it without you.
+
+
+975
+0:45:52,22 --> 0:45:55,7
+And it has - could be a lot harder if that happens later on, of course.
+
+
+976
+0:45:55,7 --> 0:45:57,19
+But ultimately, you know,
+
+
+977
+0:45:57,19 --> 0:46:1,3
+if you already have a company and you have a co-founder
+
+
+978
+0:46:1,3 --> 0:46:3,57
+and it's just not working out, that's painful.
+
+
+979
+0:46:3,57 --> 0:46:7,24
+But there is a little mental tool that
+
+
+980
+0:46:7,24 --> 0:46:9,56
+I thought of several years ago.
+
+
+981
+0:46:9,56 --> 0:46:12,25
+So a management tool, how to be a good CEO,
+
+
+982
+0:46:12,25 --> 0:46:14,5
+there's this fundamental thing,
+
+
+983
+0:46:14,5 --> 0:46:19,71
+which is most people conflate difficult
+
+
+984
+0:46:19,71 --> 0:46:22,57
+decisions with unpleasant decisions.
+
+
+985
+0:46:22,57 --> 0:46:25,99
+Super common cognitive mistake made by everyone but particularly
+
+
+986
+0:46:25,99 --> 0:46:28,61
+devastating if you are in management, then you make it.
+
+
+987
+0:46:28,61 --> 0:46:31,13
+If there is - there are decisions that are difficult in that you don't
+
+
+988
+0:46:31,13 --> 0:46:34,58
+know what the right answer is and then there's decisions that are unpleasant
+
+
+989
+0:46:34,58 --> 0:46:37,71
+in that the consequences of making them are deeply unpleasant and almost
+
+
+990
+0:46:37,71 --> 0:46:39,45
+everyone thinks that those two things are the same.
+
+
+991
+0:46:39,45 --> 0:46:41,25
+In fact, when we say like that's a really hard decision,
+
+
+992
+0:46:41,25 --> 0:46:43,16
+a lot of the time they mean like no it wasn't,
+
+
+993
+0:46:43,16 --> 0:46:44,39
+it was easy to see what the right answer is;
+
+
+994
+0:46:44,39 --> 0:46:45,44
+it's just really unpleasant.
+
+
+995
+0:46:45,44 --> 0:46:48,96
+Like when you have to fire someone, that is not a difficult decision.
+
+
+996
+0:46:48,96 --> 0:46:51,9
+Very, very rarely are you actually on the
+
+
+997
+0:46:51,9 --> 0:46:54,4
+fence about like does this make sense, does it not make sense.
+
+
+998
+0:46:54,4 --> 0:46:56,86
+It's deeply unpleasant, especially if it's a friend of yours.
+
+
+999
+0:46:56,86 --> 0:46:59,3
+So one kind of central thing whenever you have any kind of
+
+
+1000
+0:46:59,3 --> 0:47:1,26
+disagreement is you got to separate those two things out,
+
+
+1001
+0:47:1,26 --> 0:47:4,87
+you got to be like what's obviously the right answer and you
+
+
+1002
+0:47:4,87 --> 0:47:7,9
+totally separate that out from whether or not it's fun,
+
+
+1003
+0:47:7,9 --> 0:47:12,61
+from whether or not it's emotionally pleasant or not and you make
+
+
+1004
+0:47:12,61 --> 0:47:15,4
+the decision based on what's correct and you deal with it and it's
+
+
+1005
+0:47:15,4 --> 0:47:19,7
+almost always better to do it sooner rather than later.
+
+
+1006
+0:47:19,7 --> 0:47:20,2
+Please.
+
+
+1007
+0:47:20,2 --> 0:47:24,43
+You said that you joined with another smaller company,
+
+
+1008
+0:47:24,43 --> 0:47:27,81
+how did that process go as far as managing
+
+
+1009
+0:47:27,81 --> 0:47:33,16
+ownership? Well, it was mixed, frankly.
+
+
+1010
+0:47:33,16 --> 0:47:37,7
+On the one hand, it was really good in terms of
+
+
+1011
+0:47:37,7 --> 0:47:39,5
+the two companies meshed together and Stepan,
+
+
+1012
+0:47:39,5 --> 0:47:41,79
+the founder of the other one and I just got along fantastically
+
+
+1013
+0:47:41,79 --> 0:47:46,81
+well and he was just fantastic about kind of being extremely helpful
+
+
+1014
+0:47:46,81 --> 0:47:50,18
+but also not getting in the way because I was the CEO of the combined
+
+
+1015
+0:47:50,18 --> 0:47:52,9
+entity and sort of culturally it worked out.
+
+
+1016
+0:47:52,9 --> 0:47:55,27
+So like the mix between the two people,
+
+
+1017
+0:47:55,27 --> 0:47:58,77
+that actually went great, or the two teams.
+
+
+1018
+0:47:58,77 --> 0:48:0,78
+And there were some difficulties but for the most part,
+
+
+1019
+0:48:0,78 --> 0:48:1,64
+that was very good.
+
+
+1020
+0:48:1,64 --> 0:48:4,23
+The main problem that we had which I totally didn't anticipate and
+
+
+1021
+0:48:4,23 --> 0:48:8,71
+why I do not recommend doing this at all is it made us un-fundable
+
+
+1022
+0:48:8,71 --> 0:48:13,6
+because it - what it turns out is investors especially here but really
+
+
+1023
+0:48:13,6 --> 0:48:18,32
+everywhere like they don't want to see creativity on the cap table,
+
+
+1024
+0:48:18,32 --> 0:48:21,94
+anything that doesn't start like a normal startup is like two friends
+
+
+1025
+0:48:21,94 --> 0:48:24,0
+in college and you get started and you get some founder shares
+
+
+1026
+0:48:24,0 --> 0:48:25,94
+and you do friends and family and then you do an angel,
+
+
+1027
+0:48:25,94 --> 0:48:26,7
+like that's normal.
+
+
+1028
+0:48:26,7 --> 0:48:28,59
+As soon as you have something weird, you're like woah.
+
+
+1029
+0:48:28,59 --> 0:48:30,68
+There's like two different companies and one had some investment
+
+
+1030
+0:48:30,68 --> 0:48:32,77
+and one had others and the cap table is like too long and
+
+
+1031
+0:48:32,77 --> 0:48:34,13
+there's like already multiple classes of stock,
+
+
+1032
+0:48:34,13 --> 0:48:37,9
+right, as soon as it looked different basically
+
+
+1033
+0:48:37,9 --> 0:48:39,5
+until we had enough traction to actually make it
+
+
+1034
+0:48:39,5 --> 0:48:41,27
+worthwhile for investors to look beyond that,
+
+
+1035
+0:48:41,27 --> 0:48:42,33
+no one would look beyond it.
+
+
+1036
+0:48:42,33 --> 0:48:44,76
+So, we probably struggled for a year longer than we would
+
+
+1037
+0:48:44,76 --> 0:48:46,88
+have otherwise because of that and I had no idea.
+
+
+1038
+0:48:46,88 --> 0:48:48,8
+I had no idea that investors were kind of,
+
+
+1039
+0:48:48,8 --> 0:48:50,87
+you know, were going to be like this but it was very difficult for
+
+
+1040
+0:48:50,87 --> 0:48:54,36
+us to raise money because we had an unconventional structure.
+
+
+1041
+0:48:54,36 --> 0:48:56,98
+And that kind of taught me an important
+
+
+1042
+0:48:56,98 --> 0:48:59,95
+lesson which is startups - you know,
+
+
+1043
+0:48:59,95 --> 0:49:2,66
+people say that startups should be innovative,
+
+
+1044
+0:49:2,66 --> 0:49:6,98
+sort of the engines of innovation at a startup; completely wrong.
+
+
+1045
+0:49:6,98 --> 0:49:10,58
+Startups must never innovate on anything
+
+
+1046
+0:49:10,58 --> 0:49:15,7
+at all whatsoever except your one thing.
+
+
+1047
+0:49:15,7 --> 0:49:16,49
+So the thing that you're doing,
+
+
+1048
+0:49:16,49 --> 0:49:18,89
+your product, you pour all your innovation on that.
+
+
+1049
+0:49:18,89 --> 0:49:21,1
+Everything else, it's got to be completely by the book,
+
+
+1050
+0:49:21,1 --> 0:49:22,26
+completely cookie cutter.
+
+
+1051
+0:49:22,26 --> 0:49:25,18
+You do not want to be smart about anything else
+
+
+1052
+0:49:25,18 --> 0:49:26,96
+because it will just get in the way of it.
+
+
+1053
+0:49:26,96 --> 0:49:30,41
+So when an engineer comes to you and says,
+
+
+1054
+0:49:30,41 --> 0:49:32,61
+hey, Phil - maybe he won't call you Phil,
+
+
+1055
+0:49:32,61 --> 0:49:35,75
+but this database we're using is really crappy.
+
+
+1056
+0:49:35,75 --> 0:49:37,4
+I've got an idea for a totally better database that
+
+
+1057
+0:49:37,4 --> 0:49:39,6
+I can write myself and it will totally be better for us.
+
+
+1058
+0:49:39,6 --> 0:49:40,43
+I am going to write my database.
+
+
+1059
+0:49:40,43 --> 0:49:44,18
+You say, no, we are going to use the boring database
+
+
+1060
+0:49:44,18 --> 0:49:46,8
+off the shelf because that's good enough.
+
+
+1061
+0:49:46,8 --> 0:49:49,21
+If you are passionate about writing a better database,
+
+
+1062
+0:49:49,21 --> 0:49:52,55
+you go and start a database company and then you do that.
+
+
+1063
+0:49:52,55 --> 0:49:53,65
+And if somebody else comes in and says,
+
+
+1064
+0:49:53,65 --> 0:49:55,99
+hey, I've got a totally clever way that we can figure out our
+
+
+1065
+0:49:55,99 --> 0:49:58,9
+stock options that are like not really how other people are doing
+
+
+1066
+0:49:58,9 --> 0:50:0,85
+stock options because the way other people are doing them isn't
+
+
+1067
+0:50:0,85 --> 0:50:3,32
+fair and I've got a better way of doing stock options.
+
+
+1068
+0:50:3,32 --> 0:50:5,66
+You say, no, because that's going to make us un-fundable.
+
+
+1069
+0:50:5,66 --> 0:50:7,97
+If you are passionate about a different way of doing stock options,
+
+
+1070
+0:50:7,97 --> 0:50:10,54
+you go and start - I don't know,
+
+
+1071
+0:50:10,54 --> 0:50:13,49
+well whatever, you're screwed, I guess.
+
+
+1072
+0:50:13,49 --> 0:50:17,21
+So the mistake we made is we innovated in the initial structure
+
+
+1073
+0:50:17,21 --> 0:50:36,51
+of the company which is not something that I would repeat. Please.
+
+
+1074
+0:50:36,51 --> 0:50:38,167
+The question to you is,
+
+
+1075
+0:50:38,167 --> 0:50:44,667
+in a world that's accelerating so fast why would you not countenance
+
+
+1076
+0:50:44,667 --> 0:50:49,708
+or why would somebody like me who's giving away the money not countenance
+
+
+1077
+0:50:49,708 --> 0:50:53,104
+somebody who is innovating in a number of degrees,
+
+
+1078
+0:50:53,104 --> 0:50:57,25
+granted their main innovation is their concept.
+
+
+1079
+0:50:57,25 --> 0:50:58,83
+Where I'm fascinated would be to bring
+
+
+1080
+0:50:58,83 --> 0:51:2,38
+me different kinds of structures,
+
+
+1081
+0:51:2,38 --> 0:51:5,83
+like say a flat structure? I love that.
+
+
+1082
+0:51:5,83 --> 0:51:9,99
+You're up. So the question is as someone who self-proclaimed
+
+
+1083
+0:51:9,99 --> 0:51:10,87
+has more money than God,
+
+
+1084
+0:51:10,87 --> 0:51:20,89
+which is a - that's great - oh, behind you, okay.
+
+
+1085
+0:51:20,89 --> 0:51:22,42
+My motivation for having a thoughtful
+
+
+1086
+0:51:22,42 --> 0:51:30,28
+answer decreased all of a sudden.
+
+
+1087
+0:51:30,28 --> 0:51:33,31
+Why wouldn't somebody want innovation in multiple areas
+
+
+1088
+0:51:33,31 --> 0:51:35,21
+including things like structuring the company?
+
+
+1089
+0:51:35,21 --> 0:51:37,77
+Well, you know, I think they would, right.
+
+
+1090
+0:51:37,77 --> 0:51:41,29
+I think, obviously, if you are an investor,
+
+
+1091
+0:51:41,29 --> 0:51:43,41
+you want innovation everywhere you can get it, right.
+
+
+1092
+0:51:43,41 --> 0:51:44,79
+Because there's always - every time you see it,
+
+
+1093
+0:51:44,79 --> 0:51:46,19
+there is always a very good chance that like,
+
+
+1094
+0:51:46,19 --> 0:51:47,69
+yeah, this could be the thing that's really big.
+
+
+1095
+0:51:47,69 --> 0:51:50,74
+In fact, maybe it's the auxiliary innovation that turns out to
+
+
+1096
+0:51:50,74 --> 0:51:54,56
+be the much bigger idea than the actual company, absolutely.
+
+
+1097
+0:51:54,56 --> 0:51:58,77
+If you are running the company and
+
+
+1098
+0:51:58,77 --> 0:51:59,94
+which is the position that I am in,
+
+
+1099
+0:51:59,94 --> 0:52:1,85
+then especially if you're running the company like
+
+
+1100
+0:52:1,85 --> 0:52:4,18
+I did with a whole bunch of brilliant people,
+
+
+1101
+0:52:4,18 --> 0:52:6,0
+then your number one enemy is distraction, right.
+
+
+1102
+0:52:6,0 --> 0:52:8,13
+Because there is an infinite number of great ideas
+
+
+1103
+0:52:8,13 --> 0:52:10,25
+and an infinite number of things that they can improve
+
+
+1104
+0:52:10,25 --> 0:52:13,6
+and it's keeping that tight focus is super hard,
+
+
+1105
+0:52:13,6 --> 0:52:15,69
+especially super hard when you're working with people like I always
+
+
+1106
+0:52:15,69 --> 0:52:21,4
+am that are smarter than I am and it's tough but that's why,
+
+
+1107
+0:52:21,4 --> 0:52:24,3
+so it's basically a question of focus.
+
+
+1108
+0:52:24,3 --> 0:52:28,739
+Please in the back. I'm interested about your...
+
+
+1109
+0:52:28,739 --> 0:52:32,866
+Sorry, so how about you first and then... Me? Yes please.
+
+
+1110
+0:52:32,866 --> 0:52:36,627
+I'm interested in your prior experiences with Evernote
+
+
+1111
+0:52:36,627 --> 0:52:43,763
+where at ATG and Engine 5 more consumer,
+
+
+1112
+0:52:43,763 --> 0:52:51,52
+was that a hard transition to make?
+
+
+1113
+0:52:51,52 --> 0:52:54,6
+So the question was, was it difficult to make the transition
+
+
+1114
+0:52:54,6 --> 0:52:57,51
+from Engine 5 and ATG and CoreStreet,
+
+
+1115
+0:52:57,51 --> 0:52:59,11
+which was an enterprise focus to Evernote,
+
+
+1116
+0:52:59,11 --> 0:53:0,7
+which was a consumer focus.
+
+
+1117
+0:53:0,7 --> 0:53:4,42
+Yeah, yeah, it was - it's quite difficult,
+
+
+1118
+0:53:4,42 --> 0:53:10,43
+but it's a huge amount of fun and I wasn't - I wasn't - I was
+
+
+1119
+0:53:10,43 --> 0:53:14,6
+never really motivated by doing things that were easy.
+
+
+1120
+0:53:14,6 --> 0:53:19,4
+I am extremely motivated by not doing anything boring,
+
+
+1121
+0:53:19,4 --> 0:53:22,79
+by not putting myself in environments where I'm bored,
+
+
+1122
+0:53:22,79 --> 0:53:27,2
+where I'm - I have to interact with people that I'd rather not interact
+
+
+1123
+0:53:27,2 --> 0:53:30,71
+with on a regular basis and you find a lot more of that when you
+
+
+1124
+0:53:30,71 --> 0:53:32,83
+are dealing with governments and banks and businesses than you
+
+
+1125
+0:53:32,83 --> 0:53:35,81
+do when you're - when you have smart investors and you're building
+
+
+1126
+0:53:35,81 --> 0:53:40,52
+consumer products because the test of fire right is are people
+
+
+1127
+0:53:40,52 --> 0:53:45,22
+using it and the gap between like somebody at Evernote has a great
+
+
+1128
+0:53:45,22 --> 0:53:47,75
+idea and they tell me about it and we're like oh yeah that's really
+
+
+1129
+0:53:47,75 --> 0:53:49,75
+exciting and we kind of work on it.
+
+
+1130
+0:53:49,75 --> 0:53:52,6
+The time from that to a million people are in love with it,
+
+
+1131
+0:53:52,6 --> 0:53:55,4
+it's like - it's a few months and that's just - that is
+
+
+1132
+0:53:55,4 --> 0:53:59,43
+so personally gratifying that just that in and of itself
+
+
+1133
+0:53:59,43 --> 0:54:2,78
+makes all of the other difficulties worthwhile.
+
+
+1134
+0:54:2,78 --> 0:54:5,71
+It's much harder to bullshit 100 million consumers
+
+
+1135
+0:54:5,71 --> 0:54:8,69
+than it is a giant federal agency.
+
+
+1136
+0:54:8,69 --> 0:54:13,49
+So to me that's a lot - it's a lot more challenging but a lot more fun.
+
+
+1137
+0:54:13,49 --> 0:54:15,73
+And also if you're concerned about making money,
+
+
+1138
+0:54:15,73 --> 0:54:18,38
+the valuation multiples you get are much higher,
+
+
+1139
+0:54:18,38 --> 0:54:22,46
+so I think you can actually - you're probably better off even
+
+
+1140
+0:54:22,46 --> 0:54:25,66
+if you are financially motivated to be doing consumer stuff.
+
+
+1141
+0:54:25,66 --> 0:54:28,96
+Sorry, yeah. I am a big fan of the product.
+
+
+1142
+0:54:28,96 --> 0:54:31,22
+I have been using it about two years and I think my favorite
+
+
+1143
+0:54:31,22 --> 0:54:33,5
+thing about it is how it's evolved from a place for me to
+
+
+1144
+0:54:33,5 --> 0:54:36,34
+take notes to ever since people have gotten more tablets
+
+
+1145
+0:54:36,34 --> 0:54:39,55
+and smartphones a way to sync between all my devices.
+
+
+1146
+0:54:39,55 --> 0:54:41,83
+Can you talk more about the product itself and its evolution
+
+
+1147
+0:54:41,83 --> 0:54:44,68
+over the few years and also what you see it moving towards
+
+
+1148
+0:54:44,68 --> 0:54:47,7
+in the future in terms of future technologies as well as
+
+
+1149
+0:54:47,7 --> 0:54:50,18
+the trends in social and the sharing space?
+
+
+1150
+0:54:50,18 --> 0:54:54,72
+So the question was about the future evolution of Evernote
+
+
+1151
+0:54:54,72 --> 0:54:57,79
+especially around social and tablets and other experiences.
+
+
+1152
+0:54:57,79 --> 0:55:0,98
+Well, at a high level our goal with Evernote
+
+
+1153
+0:55:0,98 --> 0:55:4,81
+is to be 100% buzzword compliant.
+
+
+1154
+0:55:4,81 --> 0:55:7,55
+So whenever the important new buzzwords come around,
+
+
+1155
+0:55:7,55 --> 0:55:12,33
+whether it's social or tablet or at some point it'll be olfactory,
+
+
+1156
+0:55:12,33 --> 0:55:17,95
+that's going to be a big thing, we'll be like, yes, we are there.
+
+
+1157
+0:55:17,95 --> 0:55:22,23
+At a higher level, we got extreme - somebody actually
+
+
+1158
+0:55:22,23 --> 0:55:23,75
+asked me recently in an interview like,
+
+
+1159
+0:55:23,75 --> 0:55:28,2
+how did you guys predict the success of smartphones and tablets,
+
+
+1160
+0:55:28,2 --> 0:55:31,29
+because in 2007 actually it wasn't - it wasn't successful.
+
+
+1161
+0:55:31,29 --> 0:55:32,12
+How did you guys predict it?
+
+
+1162
+0:55:32,12 --> 0:55:34,85
+And I said, well, we didn't predict it, we bet on it.
+
+
+1163
+0:55:34,85 --> 0:55:37,3
+We made a fairly foolish gamble.
+
+
+1164
+0:55:37,3 --> 0:55:38,67
+It's like how did you guys predict that
+
+
+1165
+0:55:38,67 --> 0:55:40,98
+it would come out 35 black if it did.
+
+
+1166
+0:55:40,98 --> 0:55:45,71
+Well, we didn't. We just bet on it. And we got lucky. We bet right.
+
+
+1167
+0:55:45,71 --> 0:55:48,86
+We bet right that smartphones were going to be huge.
+
+
+1168
+0:55:48,86 --> 0:55:50,54
+We didn't even know about app stores.
+
+
+1169
+0:55:50,54 --> 0:55:53,75
+We just got really lucky on that. We bet right on tablets.
+
+
+1170
+0:55:53,75 --> 0:55:56,8
+As soon as we heard about the iPad we were like yeah we're on that -
+
+
+1171
+0:55:56,8 --> 0:55:59,7
+I think my official quote I got contacted at that point I think by,
+
+
+1172
+0:55:59,7 --> 0:56:1,13
+I forget which magazine,
+
+
+1173
+0:56:1,13 --> 0:56:4,2
+they wanted quotes from CEOs about whether or not
+
+
+1174
+0:56:4,2 --> 0:56:6,81
+you're thinking of supporting the new iPad, the new Apple tablet.
+
+
+1175
+0:56:6,81 --> 0:56:9,3
+This was like when Apple first announced it but it was a few months
+
+
+1176
+0:56:9,3 --> 0:56:11,78
+before they launched it and they ran this article with quotes from
+
+
+1177
+0:56:11,78 --> 0:56:13,62
+other CEOs and the quotes were all like very nuanced,
+
+
+1178
+0:56:13,62 --> 0:56:16,63
+there was like a paragraph or two about well we think
+
+
+1179
+0:56:16,63 --> 0:56:18,77
+this and this and it will be exciting to see this.
+
+
+1180
+0:56:18,77 --> 0:56:22,31
+And my quote was, I was quoted in print saying,
+
+
+1181
+0:56:22,31 --> 0:56:25,34
+"Yeah, we're going to support the hell out of it."
+
+
+1182
+0:56:25,34 --> 0:56:28,6
+In fact, like the day that they - Apple announced it,
+
+
+1183
+0:56:28,6 --> 0:56:30,99
+obviously couldn't get them ahead of time or anything but they
+
+
+1184
+0:56:30,99 --> 0:56:34,37
+published the physical dimensions and so we had cardboard.
+
+
+1185
+0:56:34,37 --> 0:56:36,28
+We cut out cardboard into the perfect physical
+
+
+1186
+0:56:36,28 --> 0:56:37,92
+dimensions of an iPad and we like,
+
+
+1187
+0:56:37,92 --> 0:56:40,86
+we carried around these like cardboard iPads and
+
+
+1188
+0:56:40,86 --> 0:56:42,61
+that's how we built the whole interaction design,
+
+
+1189
+0:56:42,61 --> 0:56:44,49
+like we put them in and out of our bags, we carried them.
+
+
+1190
+0:56:44,49 --> 0:56:47,65
+We like Photoshopped pieces of paper with like where new elements
+
+
+1191
+0:56:47,65 --> 0:56:50,26
+could go and we stuck it on there and we tried to figure out
+
+
+1192
+0:56:50,26 --> 0:56:53,27
+well do my thumbs go here or do they go there and like we
+
+
+1193
+0:56:53,27 --> 0:56:58,24
+just - we bet on this being huge and it paid out.
+
+
+1194
+0:56:58,24 --> 0:57:1,69
+In fact, I didn't see Evernote running on the iPad until
+
+
+1195
+0:57:1,69 --> 0:57:4,0
+I stood in line with everyone else and got the first iPad
+
+
+1196
+0:57:4,0 --> 0:57:6,76
+and saw how it actually runs pretty well on it,
+
+
+1197
+0:57:6,76 --> 0:57:11,19
+better than it did on cardboard,
+
+
+1198
+0:57:11,19 --> 0:57:17,51
+although the cardboard was lighter and it had better battery life.
+
+
+1199
+0:57:17,51 --> 0:57:21,73
+And on social, we actually went the other way. We went anti-social.
+
+
+1200
+0:57:21,73 --> 0:57:24,56
+So our pitch in 2007 was, Evernote is anti-social,
+
+
+1201
+0:57:24,56 --> 0:57:26,38
+because everyone else at that point was doing Facebook,
+
+
+1202
+0:57:26,38 --> 0:57:28,78
+Facebook for dogs or something and we said - we said,
+
+
+1203
+0:57:28,78 --> 0:57:31,99
+no, no, Evernote doesn't care about your friends.
+
+
+1204
+0:57:31,99 --> 0:57:33,69
+Evernote cares about you.
+
+
+1205
+0:57:33,69 --> 0:57:36,21
+Evernote cares about what's in your head and we want
+
+
+1206
+0:57:36,21 --> 0:57:38,0
+users that have substantive things in their heads.
+
+
+1207
+0:57:38,0 --> 0:57:40,81
+We don't care about how you - what your friend's dog feels,
+
+
+1208
+0:57:40,81 --> 0:57:41,96
+is it depressed today or not.
+
+
+1209
+0:57:41,96 --> 0:57:45,26
+And that actually worked really well for us.
+
+
+1210
+0:57:45,26 --> 0:57:48,21
+Now we've actually added a whole bunch of sharing and collaboration functionality
+
+
+1211
+0:57:48,21 --> 0:57:50,78
+into it and we are intending to do a lot more than that.
+
+
+1212
+0:57:50,78 --> 0:57:52,21
+In terms of the future goal,
+
+
+1213
+0:57:52,21 --> 0:57:56,25
+it's a 100-year company and I only have the plans
+
+
+1214
+0:57:56,25 --> 0:57:57,82
+locked down for the next 20 or 30 years.
+
+
+1215
+0:57:57,82 --> 0:58:2,74
+So there is still a lot of uncertainty but in a nutshell,
+
+
+1216
+0:58:2,74 --> 0:58:5,64
+we are going - we are making this very perilous transition right now
+
+
+1217
+0:58:5,64 --> 0:58:11,7
+from a single app to a family of products around your memories.
+
+
+1218
+0:58:11,7 --> 0:58:12,52
+So by the end of the year,
+
+
+1219
+0:58:12,52 --> 0:58:15,35
+we'll actually have several products available
+
+
+1220
+0:58:15,35 --> 0:58:16,85
+that all work with your same account,
+
+
+1221
+0:58:16,85 --> 0:58:18,11
+your same memory, your same thoughts
+
+
+1222
+0:58:18,11 --> 0:58:19,88
+but that do different things with it.
+
+
+1223
+0:58:19,88 --> 0:58:23,98
+And the main idea is to go from this unstructured mass
+
+
+1224
+0:58:23,98 --> 0:58:27,23
+of memory and then incrementally add intelligence and structure
+
+
+1225
+0:58:27,23 --> 0:58:30,25
+to it to actually let you do specific things.
+
+
+1226
+0:58:30,25 --> 0:58:33,46
+But there is still obviously lots of ways that that can go but
+
+
+1227
+0:58:33,46 --> 0:58:37,1
+that's the high level picture of the long term direction.
+
+
+1228
+0:58:37,1 --> 0:58:37,84
+Please.
+
+
+1229
+0:58:37,84 --> 0:58:39,93
+So with Apple launching iCloud for the office use,
+
+
+1230
+0:58:39,93 --> 0:58:43,13
+it is going to be a very similar platform to what Evernote is.
+
+
+1231
+0:58:43,13 --> 0:58:45,7
+How do you think that's going to affect your market in the future?
+
+
+1232
+0:58:45,7 --> 0:58:46,8
+Well, it's hard to say.
+
+
+1233
+0:58:46,8 --> 0:58:52,68
+I think the rule of thumb is - I think the rule of thumb in Silicon
+
+
+1234
+0:58:52,68 --> 0:58:55,9
+Valley is if Apple features you 13 times in the keynote that they
+
+
+1235
+0:58:55,9 --> 0:58:58,8
+don't plan on putting you out of business for at least a year.
+
+
+1236
+0:58:58,8 --> 0:59:0,67
+So, I think we have at least a year where
+
+
+1237
+0:59:0,67 --> 0:59:2,17
+we don't have to worry about it.
+
+
+1238
+0:59:2,17 --> 0:59:5,6
+I actually think - so every time Apple releases anything,
+
+
+1239
+0:59:5,6 --> 0:59:6,18
+you never know, right.
+
+
+1240
+0:59:6,18 --> 0:59:7,71
+You never know is it good for you or is it bad for you.
+
+
+1241
+0:59:7,71 --> 0:59:9,33
+It's always been great for us.
+
+
+1242
+0:59:9,33 --> 0:59:12,78
+So the - just the preponderance of evidence is every time
+
+
+1243
+0:59:12,78 --> 0:59:16,59
+Apple does something that gets more people using smartphones
+
+
+1244
+0:59:16,59 --> 0:59:18,78
+or tablets or into the cloud or with App Stores,
+
+
+1245
+0:59:18,78 --> 0:59:19,72
+it always works out great.
+
+
+1246
+0:59:19,72 --> 0:59:22,81
+You never know how long that's going to hold up.
+
+
+1247
+0:59:22,81 --> 0:59:24,1
+I actually don't think there is anything in
+
+
+1248
+0:59:24,1 --> 0:59:27,18
+iCloud that's actually similar to Evernote.
+
+
+1249
+0:59:27,18 --> 0:59:29,18
+We don't really care about storage so much.
+
+
+1250
+0:59:29,18 --> 0:59:32,55
+In fact we were thinking of - we have got some really nice
+
+
+1251
+0:59:32,55 --> 0:59:35,8
+ideas about how we're going to work with iCloud to make other
+
+
+1252
+0:59:35,8 --> 0:59:38,41
+iCloud apps a whole lot better and more interesting.
+
+
+1253
+0:59:38,41 --> 0:59:41,8
+So I don't think there is a particular iCloud threat but that's
+
+
+1254
+0:59:41,8 --> 0:59:43,4
+not to say that there is not some threat somewhere,
+
+
+1255
+0:59:43,4 --> 0:59:46,6
+maybe by Apple, maybe by Google,
+
+
+1256
+0:59:46,6 --> 0:59:48,33
+more likely by someone we've never heard of.
+
+
+1257
+0:59:48,33 --> 0:59:52,98
+But we do have a very specific philosophy about competition
+
+
+1258
+0:59:52,98 --> 0:59:57,2
+which is in all of my previous companies and in the companies
+
+
+1259
+0:59:57,2 --> 1:0:0,55
+that I've worked with or at in the past,
+
+
+1260
+1:0:0,55 --> 1:0:6,57
+we always had a list of our enemies, we always had like, oh,
+
+
+1261
+1:0:6,57 --> 1:0:8,63
+those guys, we always had like a list of people
+
+
+1262
+1:0:8,63 --> 1:0:10,55
+that like that's our nemesis right there.
+
+
+1263
+1:0:10,55 --> 1:0:12,38
+And like we are going to crush those guys.
+
+
+1264
+1:0:12,38 --> 1:0:13,81
+We've always had that,
+
+
+1265
+1:0:13,81 --> 1:0:17,17
+one or two companies and it turned out it never mattered,
+
+
+1266
+1:0:17,17 --> 1:0:20,89
+never, not once - not once did the people that we focused on in
+
+
+1267
+1:0:20,89 --> 1:0:24,3
+the competition actually significantly play a role in terms
+
+
+1268
+1:0:24,3 --> 1:0:27,7
+of the success or failure of our company a few years later.
+
+
+1269
+1:0:27,7 --> 1:0:28,61
+It was always something else.
+
+
+1270
+1:0:28,61 --> 1:0:30,39
+And so with Evernote we decided explicitly -
+
+
+1271
+1:0:30,39 --> 1:0:32,4
+again because we are not that smart,
+
+
+1272
+1:0:32,4 --> 1:0:34,61
+it takes us three times to actually figure this out,
+
+
+1273
+1:0:34,61 --> 1:0:38,55
+we said explicitly we aren't going to look at competition.
+
+
+1274
+1:0:38,55 --> 1:0:39,39
+We're not going to look at it.
+
+
+1275
+1:0:39,39 --> 1:0:40,47
+We are not going to pay attention to it.
+
+
+1276
+1:0:40,47 --> 1:0:41,55
+Not because we are not threatened,
+
+
+1277
+1:0:41,55 --> 1:0:43,65
+of course we are threatened but because
+
+
+1278
+1:0:43,65 --> 1:0:45,38
+looking at it doesn't help you,
+
+
+1279
+1:0:45,38 --> 1:0:46,58
+it doesn't actually make your product better.
+
+
+1280
+1:0:46,58 --> 1:0:47,72
+The only way that you can win,
+
+
+1281
+1:0:47,72 --> 1:0:50,78
+the only way to increase your chances of actually succeeding is just
+
+
+1282
+1:0:50,78 --> 1:0:55,5
+to make a great product and you don't do that by looking behind you.
+
+
+1283
+1:0:55,5 --> 1:0:57,91
+You do that by typing and looking at a screen.
+
+
+1284
+1:0:57,91 --> 1:0:59,65
+And so we don't look at it.
+
+
+1285
+1:0:59,65 --> 1:1:2,3
+We don't think about things that might potentially disrupt us.
+
+
+1286
+1:1:2,3 --> 1:1:3,62
+We do think a lot about partners and how
+
+
+1287
+1:1:3,62 --> 1:1:5,26
+we can work together and we have an API,
+
+
+1288
+1:1:5,26 --> 1:1:6,92
+we have about 7,000 partners.
+
+
+1289
+1:1:6,92 --> 1:1:10,7
+Many of them started as competitors but then wound up working
+
+
+1290
+1:1:10,7 --> 1:1:16,1
+in the ecosystem but ultimately the competitive threat I don't
+
+
+1291
+1:1:16,1 --> 1:1:20,63
+think is in the top 20 threats to a company at this stage.
+
+
+1292
+1:1:20,63 --> 1:1:22,21
+And especially for of you guys,
+
+
+1293
+1:1:22,21 --> 1:1:24,17
+if you are thinking of being entrepreneurs,
+
+
+1294
+1:1:24,17 --> 1:1:28,92
+I think if you sort of lay out the possible things that can go wrong,
+
+
+1295
+1:1:28,92 --> 1:1:29,75
+that can kill your company,
+
+
+1296
+1:1:29,75 --> 1:1:33,33
+just like write them out in order of probability.
+
+
+1297
+1:1:33,33 --> 1:1:35,5
+The probability of your company failing because some
+
+
+1298
+1:1:35,5 --> 1:1:38,59
+competitor beats you is not in the top five.
+
+
+1299
+1:1:38,59 --> 1:1:43,16
+It's probably not even in the top ten for early stage.
+
+
+1300
+1:1:43,16 --> 1:1:44,42
+And anything that's not in the top five,
+
+
+1301
+1:1:44,42 --> 1:1:46,69
+like you don't have time to think about it.
+
+
+1302
+1:1:46,69 --> 1:1:50,55
+So my advice is don't even bother.
+
+
+1303
+1:1:50,55 --> 1:1:53,276
+Please, in the aisle.
+
+
+1304
+1:1:53,276 --> 1:1:58,59
+My question is about switching over from kind of paper to electronic.
+
+
+1305
+1:1:58,59 --> 1:2:1,54
+So as somebody who signed up for Evernote - well a long
+
+
+1306
+1:2:1,54 --> 1:2:5,0
+time ago but haven't used it very much because I really
+
+
+1307
+1:2:5,0 --> 1:2:9,12
+value having like my notes, my plan on paper.
+
+
+1308
+1:2:9,12 --> 1:2:11,13
+What's your take on like switching those
+
+
+1309
+1:2:11,13 --> 1:2:12,84
+people over - like I use smartphones,
+
+
+1310
+1:2:12,84 --> 1:2:15,7
+I use my laptop, I just haven't been able to kind of
+
+
+1311
+1:2:15,7 --> 1:2:17,43
+sync those two so what are your thoughts on that?
+
+
+1312
+1:2:17,43 --> 1:2:20,66
+Phil, this will be the last question. Okay, so last question.
+
+
+1313
+1:2:20,66 --> 1:2:23,27
+Sorry and the question was about paper and how we
+
+
+1314
+1:2:23,27 --> 1:2:26,66
+switch people over from using paper to Evernote.
+
+
+1315
+1:2:26,66 --> 1:2:27,57
+So that's a really great question.
+
+
+1316
+1:2:27,57 --> 1:2:29,73
+So the short answer is what I recommend,
+
+
+1317
+1:2:29,73 --> 1:2:32,19
+what I do myself is I take a lot of notes on paper
+
+
+1318
+1:2:32,19 --> 1:2:34,44
+because I love my moleskin notebook and a nice pen,
+
+
+1319
+1:2:34,44 --> 1:2:39,23
+I kind of have a pen fetish and I'll take notes and I'll just take
+
+
+1320
+1:2:39,23 --> 1:2:42,39
+a picture of the page with my iPhone in Evernote and that's to me
+
+
+1321
+1:2:42,39 --> 1:2:44,42
+that's the best of both worlds because I get to take the notes,
+
+
+1322
+1:2:44,42 --> 1:2:47,48
+it's unobtrusive, I get the notebook but it's also in Evernote,
+
+
+1323
+1:2:47,48 --> 1:2:49,6
+it's synchronized, it's stored forever and it will
+
+
+1324
+1:2:49,6 --> 1:2:53,3
+actually find as long as I write like a title, the notes roll across,
+
+
+1325
+1:2:53,3 --> 1:2:54,84
+I can actually use Evernote to find those notes
+
+
+1326
+1:2:54,84 --> 1:2:56,93
+because of our handwriting recognition.
+
+
+1327
+1:2:56,93 --> 1:2:58,94
+So to me that actually works really well.
+
+
+1328
+1:2:58,94 --> 1:3:1,85
+In fact Mashable - no,
+
+
+1329
+1:3:1,85 --> 1:3:4,83
+not Mashable, Lifehacker does a survey every year where they
+
+
+1330
+1:3:4,83 --> 1:3:8,1
+ask people like what's your favorite note-taking tool.
+
+
+1331
+1:3:8,1 --> 1:3:9,58
+And they did it like the first time like
+
+
+1332
+1:3:9,58 --> 1:3:11,48
+three years ago and it's like Evernote,
+
+
+1333
+1:3:11,48 --> 1:3:15,8
+Microsoft OneNote, a bunch of other stuff and paper and always,
+
+
+1334
+1:3:15,8 --> 1:3:18,99
+every single year it's like we are the most popular
+
+
+1335
+1:3:18,99 --> 1:3:21,1
+app like by far but paper always beat us,
+
+
+1336
+1:3:21,1 --> 1:3:23,58
+it's always like pen and paper is number one and then Evernote
+
+
+1337
+1:3:23,58 --> 1:3:26,13
+and then like everyone else is far behind and this has
+
+
+1338
+1:3:26,13 --> 1:3:27,81
+happened for years and for years we were like,
+
+
+1339
+1:3:27,81 --> 1:3:35,205
+oh paper, it's our nemesis. But this year they just did it - they just
+
+
+1340
+1:3:35,205 --> 1:3:42,23
+did it a month ago and we beat paper.
+
+
+1341
+1:3:42,23 --> 1:3:48,925
+ 
+
+
+1342
+1:3:48,925 --> 1:3:49,125
+ 
+
+
+1343
+1:3:49,125 --> 1:3:49,325
+ 
+
+
+1344
+1:3:49,325 --> 1:3:49,525
+ 
+
+
+1345
+1:3:49,525 --> 1:5:49,525
+ 
+
+

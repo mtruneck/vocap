@@ -1,0 +1,3875 @@
+1
+0:0:0,934 --> 0:0:2,802
+Travis Taylor: Now,
+on Rocket City Rednecks.
+
+
+2
+0:0:2,802 --> 0:0:3,736
+Watch out!
+
+
+3
+0:0:3,736 --> 0:0:5,471
+Some mudslinging
+adventure.
+
+
+4
+0:0:5,471 --> 0:0:6,839
+God dang.
+
+
+5
+0:0:6,839 --> 0:0:8,507
+Lead to our
+craziest build yet.
+
+
+6
+0:0:8,507 --> 0:0:9,775
+I designed it
+but you didn't
+
+
+7
+0:0:9,775 --> 0:0:11,677
+weld it for nothin'.
+
+
+8
+0:0:11,677 --> 0:0:14,747
+But, will our wearable
+transforming ATV
+
+
+9
+0:0:14,747 --> 0:0:17,349
+stand up to the
+ultimate redneck test?
+
+
+10
+0:0:17,349 --> 0:0:19,885
+I've transformed
+and I can't get up.
+
+
+11
+0:0:19,885 --> 0:0:21,954
+Rog:<i> [laughing].</i>
+
+
+12
+0:0:21,954 --> 0:0:23,322
+Travis Taylor:
+I'm Travis Taylor.
+
+
+13
+0:0:23,322 --> 0:0:25,57
+I'm a rocket scientist
+in the space and defense
+
+
+14
+0:0:25,57 --> 0:0:26,625
+industry here in
+my hometown of
+
+
+15
+0:0:26,625 --> 0:0:28,327
+Huntsville, Alabama,
+
+
+16
+0:0:28,327 --> 0:0:30,129
+where my daddy
+helped build the rockets
+
+
+17
+0:0:30,129 --> 0:0:31,497
+that sent us to the moon.
+
+
+18
+0:0:31,497 --> 0:0:32,465
+Daddy: Have y'all
+been drinking
+
+
+19
+0:0:32,465 --> 0:0:34,266
+the rocket fuel again?
+
+
+20
+0:0:34,266 --> 0:0:35,534
+Travis Taylor:
+Sometimes, big science
+
+
+21
+0:0:35,534 --> 0:0:37,36
+moves too slow for me.
+
+
+22
+0:0:37,36 --> 0:0:38,137
+So come the weekend,
+
+
+23
+0:0:38,137 --> 0:0:40,272
+I round up my
+best friend Rog.
+
+
+24
+0:0:40,272 --> 0:0:41,407
+Rog: Hey!
+
+
+25
+0:0:41,407 --> 0:0:43,609
+Travis Taylor: My nephew
+Michael and my buddy Pete,
+
+
+26
+0:0:43,609 --> 0:0:45,77
+to tackle
+important problems with
+
+
+27
+0:0:45,77 --> 0:0:48,13
+a little down-home ingenuity.
+
+
+28
+0:0:48,13 --> 0:0:52,718
+Rog: Damn it, boy!
+
+
+29
+0:0:52,718 --> 0:0:53,752
+Travis Taylor: Right on.
+
+
+30
+0:0:53,752 --> 0:0:58,624
+Hey, is there any more
+beers in the cooler?
+
+
+31
+0:0:58,624 --> 0:1:0,759
+Sometimes we get the
+inspiration for our
+
+
+32
+0:1:0,759 --> 0:1:4,697
+projects in
+unexpected places.
+
+
+33
+0:1:4,697 --> 0:1:6,565
+Me and Rog and Michael
+went down to this
+
+
+34
+0:1:6,565 --> 0:1:14,24
+racecourse and man we've
+been having a blast.
+
+
+35
+0:1:14,24 --> 0:1:16,175
+All of a sudden every
+time I give it throttle,
+
+
+36
+0:1:16,175 --> 0:1:18,31
+it would just bog down and
+stop and I got stuck right
+
+
+37
+0:1:18,31 --> 0:1:21,113
+out there in the middle
+of the mud and the water.
+
+
+38
+0:1:21,113 --> 0:1:22,248
+Michael: You stuck
+or something?
+
+
+39
+0:1:22,248 --> 0:1:23,582
+Travis Taylor: Yeah, look.
+
+
+40
+0:1:23,582 --> 0:1:24,517
+Michael: Look on
+that other side and
+
+
+41
+0:1:24,517 --> 0:1:25,551
+check your linkage.
+
+
+42
+0:1:25,551 --> 0:1:27,19
+Travis Taylor: What
+the hell is a linkage?
+
+
+43
+0:1:27,19 --> 0:1:28,42
+Michael: The throttle
+linkage I mean.
+
+
+44
+0:1:28,42 --> 0:1:29,555
+You got a multi tool.
+
+
+45
+0:1:29,555 --> 0:1:30,689
+Travis Taylor: Multi tool.
+
+
+46
+0:1:30,689 --> 0:1:34,426
+Michael: Tighten them
+thing up with them pliers.
+
+
+47
+0:1:34,426 --> 0:1:35,694
+Travis Taylor: Well I
+got it pulled loose,
+
+
+48
+0:1:35,694 --> 0:1:37,96
+but now I need
+a screwdriver.
+
+
+49
+0:1:37,96 --> 0:1:38,164
+How do I get the
+screwdriver out of this?
+
+
+50
+0:1:38,164 --> 0:1:39,231
+Michael: I don't
+know, I bet that
+
+
+51
+0:1:39,231 --> 0:1:40,132
+multi tool has got one.
+
+
+52
+0:1:40,132 --> 0:1:41,233
+Travis Taylor: Oh
+look a transformer.
+
+
+53
+0:1:41,233 --> 0:1:42,801
+Just like it's a
+transformer, man,
+
+
+54
+0:1:42,801 --> 0:1:44,136
+how do get in
+there to it though?
+
+
+55
+0:1:44,136 --> 0:1:47,206
+The multi tool, it was
+a transforming tool
+
+
+56
+0:1:47,206 --> 0:1:50,476
+and man that gave me
+the idea right then.
+
+
+57
+0:1:50,476 --> 0:1:51,744
+If I was a
+multi tool, man,
+
+
+58
+0:1:51,744 --> 0:1:53,12
+if I was stuck in
+the mud, I just,
+
+
+59
+0:1:53,12 --> 0:1:54,246
+I just change forms
+whatever it is just
+
+
+60
+0:1:54,246 --> 0:1:55,347
+get up and walk out.
+
+
+61
+0:1:55,347 --> 0:1:56,782
+Rog: You are a multi tool.
+
+
+62
+0:1:56,782 --> 0:1:58,5
+Travis Taylor:
+Shut up, Rog.
+
+
+63
+0:1:58,5 --> 0:1:59,318
+That's what we are going
+to do this weekend;
+
+
+64
+0:1:59,318 --> 0:2:1,754
+we can call daddy and
+Pete and build us a
+
+
+65
+0:2:1,754 --> 0:2:4,356
+transforming ATV
+that would be bad.
+
+
+66
+0:2:4,356 --> 0:2:5,824
+Michael: Yeah it would.
+
+
+67
+0:2:5,824 --> 0:2:7,126
+Travis Taylor: What
+are you doing?
+
+
+68
+0:2:7,126 --> 0:2:7,893
+You better not.
+
+
+69
+0:2:7,893 --> 0:2:9,28
+Watch out!
+
+
+70
+0:2:9,28 --> 0:2:13,933
+Hey, crap!
+
+
+71
+0:2:13,933 --> 0:2:15,201
+God, dang!
+
+
+72
+0:2:15,201 --> 0:2:16,869
+Well I was at the house
+and I took a shower and
+
+
+73
+0:2:16,869 --> 0:2:18,971
+got a change of clothes, I
+got to thinking about it
+
+
+74
+0:2:18,971 --> 0:2:21,574
+and I saw my son's toys.
+
+
+75
+0:2:21,574 --> 0:2:22,441
+Look at this thing;
+
+
+76
+0:2:22,441 --> 0:2:23,509
+it might give us
+some ideas about
+
+
+77
+0:2:23,509 --> 0:2:25,1
+how the joints might work.
+
+
+78
+0:2:25,1 --> 0:2:27,88
+We're gonna do something
+like that with the ATV,
+
+
+79
+0:2:27,88 --> 0:2:29,949
+so you can pretty much
+wear the ATV and then when
+
+
+80
+0:2:29,949 --> 0:2:32,718
+you're ready to go, you
+can just fold it out and
+
+
+81
+0:2:32,718 --> 0:2:35,821
+get down on it then it,
+then it, then it goes.
+
+
+82
+0:2:35,821 --> 0:2:38,257
+Our transforming ATV is
+gonna need a lightweight
+
+
+83
+0:2:38,257 --> 0:2:41,827
+metal frame that conforms
+perfectly to my body.
+
+
+84
+0:2:41,827 --> 0:2:43,62
+We'll attach 4 wheels,
+
+
+85
+0:2:43,62 --> 0:2:44,563
+and a lightweight
+engine to it.
+
+
+86
+0:2:44,563 --> 0:2:47,66
+The rib cage has to be
+especially strong because
+
+
+87
+0:2:47,66 --> 0:2:50,35
+it'll protect my internal
+organs and support all my
+
+
+88
+0:2:50,35 --> 0:2:52,137
+weight when the frame
+pulls down into a
+
+
+89
+0:2:52,137 --> 0:2:55,774
+full-fledged ATV.
+
+
+90
+0:2:55,774 --> 0:2:57,977
+This is gonna be a very
+complicated project,
+
+
+91
+0:2:57,977 --> 0:2:59,445
+so we're gonna
+need to build
+
+
+92
+0:2:59,445 --> 0:3:1,847
+a wooden prototype first.
+
+
+93
+0:3:1,847 --> 0:3:3,916
+We are gonna use lawn
+mower wheels on the front.
+
+
+94
+0:3:3,916 --> 0:3:5,618
+Pete and Michael are
+heading out to find two
+
+
+95
+0:3:5,618 --> 0:3:7,353
+bicycle wheels
+for the back.
+
+
+96
+0:3:7,353 --> 0:3:10,55
+Michael: Road trip in
+Uncle Mule's truck.
+
+
+97
+0:3:10,55 --> 0:3:12,191
+Travis Taylor:
+Don't wreck my truck!
+
+
+98
+0:3:12,191 --> 0:3:13,759
+They are going
+over to Rog's to
+
+
+99
+0:3:13,759 --> 0:3:14,793
+see what he might have.
+
+
+100
+0:3:14,793 --> 0:3:16,862
+Michael: There
+is a bike, black.
+
+
+101
+0:3:16,862 --> 0:3:18,697
+Pete: There it is.
+
+
+102
+0:3:18,697 --> 0:3:20,99
+That would give him
+some ground clearance
+
+
+103
+0:3:20,99 --> 0:3:21,433
+on his knees.
+
+
+104
+0:3:21,433 --> 0:3:26,305
+Let's get it and go.
+
+
+105
+0:3:26,305 --> 0:3:27,573
+Michael: On our way
+back from Rog's,
+
+
+106
+0:3:27,573 --> 0:3:30,9
+I decided to have
+a little fun.
+
+
+107
+0:3:30,9 --> 0:3:31,31
+Somebody keeps
+driving through my
+
+
+108
+0:3:31,31 --> 0:3:34,213
+momma's yard
+tearing it up.
+
+
+109
+0:3:34,213 --> 0:3:35,848
+I know she's home
+today and I was in
+
+
+110
+0:3:35,848 --> 0:3:38,617
+uncle Travis's truck, so
+I thought I'd drive his
+
+
+111
+0:3:38,617 --> 0:3:40,152
+truck through our
+yard and make it look
+
+
+112
+0:3:40,152 --> 0:3:41,954
+like it was him driving
+through the yard.
+
+
+113
+0:3:41,954 --> 0:3:43,222
+And she'd get
+mad at him and
+
+
+114
+0:3:43,222 --> 0:3:44,323
+he wouldn't even know
+what was going on.
+
+
+115
+0:3:44,323 --> 0:3:51,23
+I thought it would be fun.
+
+
+116
+0:3:51,23 --> 0:3:52,865
+Momma will think
+its Uncle Travis
+
+
+117
+0:3:52,865 --> 0:4:0,906
+driving through the yard.
+
+
+118
+0:4:0,906 --> 0:4:2,174
+Travis Taylor: Well
+this could pop up.
+
+
+119
+0:4:2,174 --> 0:4:4,41
+There could be a pin
+that goes in place.
+
+
+120
+0:4:4,41 --> 0:4:7,313
+Daddy, Rog and I are
+figuring out the rib cage.
+
+
+121
+0:4:7,313 --> 0:4:9,181
+It's the single
+most critical part
+
+
+122
+0:4:9,181 --> 0:4:10,382
+of this build.
+
+
+123
+0:4:10,382 --> 0:4:11,95
+Let's make me a
+box like this,
+
+
+124
+0:4:11,95 --> 0:4:13,485
+so cut me
+whatever you said,
+
+
+125
+0:4:13,485 --> 0:4:18,123
+Rog those pieces were
+and we'll go from there.
+
+
+126
+0:4:18,123 --> 0:4:19,458
+Daddy: I'm real
+concerned about
+
+
+127
+0:4:19,458 --> 0:4:21,126
+getting this
+rib cage right.
+
+
+128
+0:4:21,126 --> 0:4:22,561
+If it's not
+designed correctly,
+
+
+129
+0:4:22,561 --> 0:4:24,763
+Travis could be crushed.
+
+
+130
+0:4:24,763 --> 0:4:26,532
+Travis Taylor: Needs
+to be no more than,
+
+
+131
+0:4:26,532 --> 0:4:28,133
+certainly 2 feet's enough.
+
+
+132
+0:4:28,133 --> 0:4:29,935
+You got them two 2-foot
+pieces done yet?
+
+
+133
+0:4:29,935 --> 0:4:31,103
+Rog: I don't know
+quit telling me
+
+
+134
+0:4:31,103 --> 0:4:32,938
+to do 7 things, man.
+
+
+135
+0:4:32,938 --> 0:4:37,71
+Travis Taylor:<i> [laughing].</i>
+
+
+136
+0:4:37,71 --> 0:4:41,647
+Rog: I can only
+think in two things.
+
+
+137
+0:4:41,647 --> 0:4:43,248
+Travis Taylor:
+That's pretty quick.
+
+
+138
+0:4:43,248 --> 0:4:44,383
+Michael: Yeah what
+else you all need,
+
+
+139
+0:4:44,383 --> 0:4:45,517
+let's go on
+another road trip.
+
+
+140
+0:4:45,517 --> 0:4:46,618
+Pete: Yeah, it's
+cool in there.
+
+
+141
+0:4:46,618 --> 0:4:49,21
+Travis Taylor: That tire
+is flat as a flute, man.
+
+
+142
+0:4:49,21 --> 0:4:50,923
+Is that all y'all
+could come up with?
+
+
+143
+0:4:50,923 --> 0:4:52,558
+Michael: Put air in
+it and it won't be.
+
+
+144
+0:4:52,558 --> 0:4:53,625
+Pete: It's all
+you ask for.
+
+
+145
+0:4:53,625 --> 0:4:54,993
+Travis Taylor: Y'all all
+went over to Rog's house
+
+
+146
+0:4:54,993 --> 0:4:56,161
+and came back with
+2 bicycles and
+
+
+147
+0:4:56,161 --> 0:4:57,863
+I said to come back
+with 2 wheels, the same,
+
+
+148
+0:4:57,863 --> 0:4:58,997
+that aren't flat.
+
+
+149
+0:4:58,997 --> 0:5:0,165
+Michael: How are
+they different?
+
+
+150
+0:5:0,165 --> 0:5:2,101
+Travis Taylor: Well
+that's a back wheel,
+
+
+151
+0:5:2,101 --> 0:5:3,602
+it's got a different
+kind of hub,
+
+
+152
+0:5:3,602 --> 0:5:4,803
+that's a front wheel and
+
+
+153
+0:5:4,803 --> 0:5:5,938
+it's got a different
+kind of hub.
+
+
+154
+0:5:5,938 --> 0:5:7,172
+What do they
+come back with?
+
+
+155
+0:5:7,172 --> 0:5:9,308
+Two tires that
+are different and
+
+
+156
+0:5:9,308 --> 0:5:15,114
+one of them is flat.
+
+
+157
+0:5:15,114 --> 0:5:17,349
+Crap we might not
+have measured right.
+
+
+158
+0:5:17,349 --> 0:5:19,218
+I wasn't thinking
+about it just right.
+
+
+159
+0:5:19,218 --> 0:5:20,285
+Pete: Open these up.
+
+
+160
+0:5:20,285 --> 0:5:21,62
+Travis Taylor:
+Take these off.
+
+
+161
+0:5:21,62 --> 0:5:22,855
+Pete: We should
+only have to open
+
+
+162
+0:5:22,855 --> 0:5:26,358
+one of them up though.
+
+
+163
+0:5:26,358 --> 0:5:28,494
+Travis Taylor: All right,
+so here's the deal.
+
+
+164
+0:5:28,494 --> 0:5:30,262
+I'm thinking we
+might cut it here,
+
+
+165
+0:5:30,262 --> 0:5:33,31
+put piano hinge
+here, so the front,
+
+
+166
+0:5:33,31 --> 0:5:38,47
+the front is gonna
+do like this.
+
+
+167
+0:5:38,47 --> 0:5:40,672
+Ah thank you Rog,
+
+
+168
+0:5:40,672 --> 0:5:43,409
+there you go my brother
+that's beautiful.
+
+
+169
+0:5:43,409 --> 0:5:45,577
+Yeah aww!
+
+
+170
+0:5:45,577 --> 0:5:47,479
+Pete: We either have
+another spring here
+
+
+171
+0:5:47,479 --> 0:5:48,881
+that's holding it to
+that, against it.
+
+
+172
+0:5:48,881 --> 0:5:50,416
+Travis Taylor: Pete
+and Daddy are working
+
+
+173
+0:5:50,416 --> 0:5:51,817
+on the front end.
+
+
+174
+0:5:51,817 --> 0:5:54,353
+When I'm in ATV mode my
+hands will be holding
+
+
+175
+0:5:54,353 --> 0:5:56,822
+onto the front axle
+and I'll steer by
+
+
+176
+0:5:56,822 --> 0:5:58,891
+turning the front wheels.
+
+
+177
+0:5:58,891 --> 0:6:1,66
+The big problem is where
+to put the back wheels so
+
+
+178
+0:6:1,66 --> 0:6:3,629
+they can be deployed
+when I want,
+
+
+179
+0:6:3,629 --> 0:6:5,564
+but don't get in
+the way of walking.
+
+
+180
+0:6:5,564 --> 0:6:7,466
+First up, I'm
+gonna assign Pete
+
+
+181
+0:6:7,466 --> 0:6:12,905
+to work on the front wheels.
+
+
+182
+0:6:12,905 --> 0:6:14,54
+Pete: My job is to
+figure out how to roll
+
+
+183
+0:6:14,54 --> 0:6:17,109
+and steer the transformer.
+
+
+184
+0:6:17,109 --> 0:6:21,68
+We're gonna start by using
+the lawn mower wheels.
+
+
+185
+0:6:21,68 --> 0:6:23,382
+Two forks that are
+coming off the
+
+
+186
+0:6:23,382 --> 0:6:24,85
+outside of his arms.
+
+
+187
+0:6:24,85 --> 0:6:25,984
+Just have to
+figure out which
+
+
+188
+0:6:25,984 --> 0:6:32,157
+way you want the
+forks to pivot.
+
+
+189
+0:6:32,157 --> 0:6:34,693
+Daddy: How much
+does he need to turn?
+
+
+190
+0:6:34,693 --> 0:6:39,31
+I can lop that corner off
+right there pretty quick.
+
+
+191
+0:6:39,31 --> 0:6:41,133
+There's no room for
+the wheels to turn,
+
+
+192
+0:6:41,133 --> 0:6:45,838
+so I had to cut off the
+corners of the frame.
+
+
+193
+0:6:45,838 --> 0:6:51,343
+Now it should
+turn on a dime.
+
+
+194
+0:6:51,343 --> 0:6:53,111
+Travis Taylor: I've been
+wrestling with the idea
+
+
+195
+0:6:53,111 --> 0:6:54,947
+about where these rear
+wheels are gonna go when
+
+
+196
+0:6:54,947 --> 0:6:59,818
+I'm standing up and
+suddenly, it hit me.
+
+
+197
+0:6:59,818 --> 0:7:2,187
+I got an idea about this.
+
+
+198
+0:7:2,187 --> 0:7:5,57
+This piece pins to that
+piece and the wheel is
+
+
+199
+0:7:5,57 --> 0:7:8,327
+gonna be right
+here at this pin.
+
+
+200
+0:7:8,327 --> 0:7:9,628
+So I got knee joints and
+
+
+201
+0:7:9,628 --> 0:7:10,963
+I got everything
+else, right.
+
+
+202
+0:7:10,963 --> 0:7:12,13
+Then when I get
+ready to go,
+
+
+203
+0:7:12,13 --> 0:7:15,3
+then I just lean
+over on the wheel.
+
+
+204
+0:7:15,3 --> 0:7:16,735
+Michael: Just as Uncle
+Travis was figuring out
+
+
+205
+0:7:16,735 --> 0:7:19,905
+how to attach the
+wheels, my phone rings.
+
+
+206
+0:7:19,905 --> 0:7:21,974
+There she is, she's
+calling me now.
+
+
+207
+0:7:21,974 --> 0:7:23,8
+And it's my momma.
+
+
+208
+0:7:23,8 --> 0:7:24,943
+This is gonna be good.
+
+
+209
+0:7:24,943 --> 0:7:26,111
+Hello.
+
+
+210
+0:7:26,111 --> 0:7:27,846
+Momma: Why the hell did
+you drive through my yard?
+
+
+211
+0:7:27,846 --> 0:7:29,481
+Michael: Well it
+wasn't me drivin'.
+
+
+212
+0:7:29,481 --> 0:7:31,383
+Well you saw what
+truck it was.
+
+
+213
+0:7:31,383 --> 0:7:33,852
+Travis Taylor: He's trying
+to blame me for it PK.
+
+
+214
+0:7:33,852 --> 0:7:37,189
+Momma: Yeah it was a red
+truck with you driving
+
+
+215
+0:7:37,189 --> 0:7:39,725
+and Pete in the
+passenger's seat.
+
+
+216
+0:7:39,725 --> 0:7:40,993
+Michael: All right Momma.
+
+
+217
+0:7:40,993 --> 0:7:42,6
+Rog: You got busted!
+
+
+218
+0:7:42,6 --> 0:7:43,61
+Michael: We'll talk later.
+
+
+219
+0:7:43,61 --> 0:7:44,129
+Rog: He is gonna
+get a whoopin' as
+
+
+220
+0:7:44,129 --> 0:7:45,3
+soon as he gets home.
+
+
+221
+0:7:45,3 --> 0:7:46,131
+<i> [laughing].</i>
+
+
+222
+0:7:46,131 --> 0:7:47,65
+I love it!
+
+
+223
+0:7:47,65 --> 0:7:48,367
+Momma: I don't want
+my yard destroyed
+
+
+224
+0:7:48,367 --> 0:7:50,102
+like Grandma Mary's.
+
+
+225
+0:7:50,102 --> 0:7:52,7
+Rog: Oh she's low rated.
+
+
+226
+0:7:52,7 --> 0:7:53,472
+Michael: Yeah.
+
+
+227
+0:7:53,472 --> 0:7:54,873
+Travis Taylor: Michael
+was trying to get me in
+
+
+228
+0:7:54,873 --> 0:7:57,376
+trouble by driving
+my truck through his
+
+
+229
+0:7:57,376 --> 0:8:0,345
+momma's backyard,
+but it completely
+
+
+230
+0:8:0,345 --> 0:8:1,947
+backfired on him.
+
+
+231
+0:8:1,947 --> 0:8:4,616
+He's so nervous, he's
+upset he's not gonna go
+
+
+232
+0:8:4,616 --> 0:8:6,752
+home for 2 or 3 days.
+
+
+233
+0:8:6,752 --> 0:8:9,254
+'Cause he don't want his
+momma to yell at him.
+
+
+234
+0:8:9,254 --> 0:8:12,457
+'Cause it's the funniest
+thing I've ever seen.
+
+
+235
+0:8:12,457 --> 0:8:13,559
+We're having a blast;
+
+
+236
+0:8:13,559 --> 0:8:14,86
+he's not gonna
+live this down as
+
+
+237
+0:8:14,86 --> 0:8:16,295
+long as we can make it.
+
+
+238
+0:8:16,295 --> 0:8:18,463
+I recommend you go
+spend the night down
+
+
+239
+0:8:18,463 --> 0:8:20,132
+at ACE tonight Michael.
+
+
+240
+0:8:20,132 --> 0:8:21,199
+Michael: Yeah.
+
+
+241
+0:8:21,199 --> 0:8:22,434
+Travis Taylor: I
+don't believe I would
+
+
+242
+0:8:22,434 --> 0:8:23,535
+go home for a day
+or two if I was you.
+
+
+243
+0:8:23,535 --> 0:8:24,603
+Pete: Yeah.
+
+
+244
+0:8:24,603 --> 0:8:26,204
+Travis Taylor:
+Since Michael and
+
+
+245
+0:8:26,204 --> 0:8:27,94
+Pete brought me back
+two different wheels,
+
+
+246
+0:8:27,94 --> 0:8:30,275
+one of which was flat,
+we're gonna call an
+
+
+247
+0:8:30,275 --> 0:8:33,312
+audible and make the rear
+wheels out of plywood.
+
+
+248
+0:8:33,312 --> 0:8:36,381
+We're going to have
+some bungees that helped.
+
+
+249
+0:8:36,381 --> 0:8:38,65
+Put it on.
+
+
+250
+0:8:38,65 --> 0:8:39,851
+We're getting
+really close to doing a
+
+
+251
+0:8:39,851 --> 0:8:42,387
+prototype test with
+the suit, the ATV,
+
+
+252
+0:8:42,387 --> 0:8:44,289
+except we won't
+have any motors on it,
+
+
+253
+0:8:44,289 --> 0:8:45,39
+kinda like a wagon.
+
+
+254
+0:8:45,39 --> 0:8:46,558
+Hopefully the guys
+will push me around.
+
+
+255
+0:8:46,558 --> 0:8:47,826
+We'll see if the
+steering works,
+
+
+256
+0:8:47,826 --> 0:8:48,894
+we'll see if the
+wheels works,
+
+
+257
+0:8:48,894 --> 0:8:50,729
+we'll see if it can
+transform from standing up
+
+
+258
+0:8:50,729 --> 0:8:52,164
+and walking around
+and going down in
+
+
+259
+0:8:52,164 --> 0:8:53,765
+the ATV position.
+
+
+260
+0:8:53,765 --> 0:8:55,133
+If this prototype works,
+
+
+261
+0:8:55,133 --> 0:8:56,268
+we're gonna move on and
+
+
+262
+0:8:56,268 --> 0:8:57,736
+make the real
+one out of metal.
+
+
+263
+0:8:57,736 --> 0:9:0,72
+If it doesn't, I might be
+spending a lot of time
+
+
+264
+0:9:0,72 --> 0:9:2,841
+with the chiropractor.
+
+
+265
+0:9:2,841 --> 0:9:4,643
+This is heavy, man.
+
+
+266
+0:9:4,643 --> 0:9:6,78
+Michael: If you can't
+handle it, let it go.
+
+
+267
+0:9:6,78 --> 0:9:7,679
+Travis Taylor: Watch
+out, can I let it go?
+
+
+268
+0:9:7,679 --> 0:9:8,547
+Michael: Yes, yes.
+
+
+269
+0:9:8,547 --> 0:9:9,648
+Travis Taylor:
+That's all right.
+
+
+270
+0:9:9,648 --> 0:9:10,816
+Pete: His wheels are
+almost straight.
+
+
+271
+0:9:10,816 --> 0:9:11,95
+Travis Taylor: All right
+now let's see if I can
+
+
+272
+0:9:11,95 --> 0:9:13,452
+transform and get
+down and make it roll.
+
+
+273
+0:9:13,452 --> 0:9:14,653
+All right there.
+
+
+274
+0:9:14,653 --> 0:9:16,555
+Michael: There's one leg.
+
+
+275
+0:9:16,555 --> 0:9:18,323
+Oh you're hung
+on your own leg.
+
+
+276
+0:9:18,323 --> 0:9:20,25
+Travis Taylor:
+Something broke loose.
+
+
+277
+0:9:20,25 --> 0:9:20,959
+Michael: All right.
+
+
+278
+0:9:20,959 --> 0:9:22,761
+Travis Taylor:
+Something broke loose.
+
+
+279
+0:9:22,761 --> 0:9:24,763
+Pete: Probably
+just the Velcro.
+
+
+280
+0:9:24,763 --> 0:9:26,965
+Travis Taylor: Oh crap
+something's loose,
+
+
+281
+0:9:26,965 --> 0:9:28,667
+it broke loose.
+
+
+282
+0:9:28,667 --> 0:9:29,935
+What broke loose?
+
+
+283
+0:9:29,935 --> 0:9:31,336
+Michael: You got to
+drag your knees up.
+
+
+284
+0:9:31,336 --> 0:9:33,238
+Travis Taylor:
+Why am I stuck?
+
+
+285
+0:9:33,238 --> 0:9:34,706
+Rog:<i> [laughing].</i>
+
+
+286
+0:9:34,706 --> 0:9:37,309
+Travis Taylor:
+I can't get up.
+
+
+287
+0:9:37,309 --> 0:9:38,71
+Pete: Is that bungee?
+
+
+288
+0:9:38,71 --> 0:9:39,778
+Travis Taylor: No
+ain't the bungee.
+
+
+289
+0:9:39,778 --> 0:9:40,779
+I can't get up.
+
+
+290
+0:9:40,779 --> 0:9:42,481
+Rog: Seeing Travis
+in this prototype was
+
+
+291
+0:9:42,481 --> 0:9:44,149
+the funniest
+thing I ever saw.
+
+
+292
+0:9:44,149 --> 0:9:45,45
+He looked like
+he was stuck in a
+
+
+293
+0:9:45,45 --> 0:9:46,985
+fold out couch
+or something.
+
+
+294
+0:9:46,985 --> 0:9:47,886
+Travis Taylor: Ough!
+
+
+295
+0:9:47,886 --> 0:9:49,221
+Rog: Stay with it, Mule.
+
+
+296
+0:9:49,221 --> 0:9:50,856
+Travis Taylor: I
+can't get up, man.
+
+
+297
+0:9:50,856 --> 0:9:52,157
+<i> [laughing].</i>
+
+
+298
+0:9:52,157 --> 0:9:54,993
+Listen, listen,
+oh watch out, Rog.
+
+
+299
+0:9:54,993 --> 0:9:55,894
+Hey, look.
+
+
+300
+0:9:55,894 --> 0:9:57,262
+Rog: Let me push, push ya.
+
+
+301
+0:9:57,262 --> 0:9:58,397
+Travis Taylor: Stop.
+
+
+302
+0:9:58,397 --> 0:9:59,331
+Oh crap.
+
+
+303
+0:9:59,331 --> 0:10:0,265
+Daddy: That ain't
+gonna get it.
+
+
+304
+0:10:0,265 --> 0:10:1,266
+Travis Taylor: No,
+this ain't right,
+
+
+305
+0:10:1,266 --> 0:10:3,235
+something ain't
+right here boys.
+
+
+306
+0:10:3,235 --> 0:10:7,105
+I've transformed
+and I can't get up.
+
+
+307
+0:10:7,105 --> 0:10:9,274
+Oh crap.
+
+
+308
+0:10:9,274 --> 0:10:13,912
+Ow!
+
+
+309
+0:10:13,912 --> 0:10:15,981
+Daddy: These experiments
+are dangerous.
+
+
+310
+0:10:15,981 --> 0:10:17,716
+Don't try them at home.
+
+
+311
+0:10:17,716 --> 0:10:19,818
+In fact, I wish these
+guys wouldn't try em
+
+
+312
+0:10:19,818 --> 0:10:22,454
+at my home!
+
+
+313
+0:10:22,454 --> 0:10:25,791
+Travis Taylor:
+Why am I stuck?
+
+
+314
+0:10:25,791 --> 0:10:27,25
+Rog: Stay with it, Mule.
+
+
+315
+0:10:27,25 --> 0:10:29,94
+Travis Taylor: We're
+building a wearable ATV
+
+
+316
+0:10:29,94 --> 0:10:31,96
+that can drive
+over any terrain,
+
+
+317
+0:10:31,96 --> 0:10:35,1
+then transform into a
+suit for walking around.
+
+
+318
+0:10:35,1 --> 0:10:37,35
+But our prototype
+has a huge problem.
+
+
+319
+0:10:37,35 --> 0:10:40,205
+In ATV mode the frame
+collapsed putting
+
+
+320
+0:10:40,205 --> 0:10:43,141
+all the weight
+directly on my spine.
+
+
+321
+0:10:43,141 --> 0:10:47,813
+I can't, it won't undo,
+it's stuck wherever it is.
+
+
+322
+0:10:47,813 --> 0:10:49,848
+Daddy: It's a good thing
+we made this out of wood
+
+
+323
+0:10:49,848 --> 0:10:52,451
+first because if it was
+made out of metal we could
+
+
+324
+0:10:52,451 --> 0:10:54,352
+have broken his back.
+
+
+325
+0:10:54,352 --> 0:10:56,388
+Travis Taylor: Something's
+loose, it broke loose.
+
+
+326
+0:10:56,388 --> 0:10:59,257
+I could feel the pressure,
+but I couldn't stop it.
+
+
+327
+0:10:59,257 --> 0:11:0,125
+Michael: C'mon up.
+
+
+328
+0:11:0,125 --> 0:11:1,193
+Daddy: Can you
+come out of there?
+
+
+329
+0:11:1,193 --> 0:11:3,862
+Travis Taylor: Yeah,
+I can get out of this.
+
+
+330
+0:11:3,862 --> 0:11:6,298
+See look in order for it
+to roll right, now look,
+
+
+331
+0:11:6,298 --> 0:11:9,234
+if you did this,
+look, it will roll,
+
+
+332
+0:11:9,234 --> 0:11:10,869
+look that right
+there will roll.
+
+
+333
+0:11:10,869 --> 0:11:11,937
+Michael: Yeah.
+
+
+334
+0:11:11,937 --> 0:11:12,971
+Travis Taylor: That's
+what we gotta to have
+
+
+335
+0:11:12,971 --> 0:11:14,39
+it locked together,
+right there.
+
+
+336
+0:11:14,39 --> 0:11:15,24
+The front worked fine.
+
+
+337
+0:11:15,24 --> 0:11:16,274
+Rog: Yup.
+
+
+338
+0:11:16,274 --> 0:11:17,843
+Travis Taylor: This
+part's fine, worked good.
+
+
+339
+0:11:17,843 --> 0:11:19,111
+I can even lean out
+and it will fall out
+
+
+340
+0:11:19,111 --> 0:11:20,846
+in front of me
+that's a good idea.
+
+
+341
+0:11:20,846 --> 0:11:22,914
+This right here concerns
+me 'cause that puts all
+
+
+342
+0:11:22,914 --> 0:11:27,385
+the weight of the vehicle
+right in my back.
+
+
+343
+0:11:27,385 --> 0:11:30,922
+To get my body in the
+right position in ATV mode
+
+
+344
+0:11:30,922 --> 0:11:33,625
+we need to keep the
+frame from falling flat,
+
+
+345
+0:11:33,625 --> 0:11:35,861
+so we're gonna need to
+add a locking mechanism
+
+
+346
+0:11:35,861 --> 0:11:38,463
+in my hips to keep
+the frame stable and
+
+
+347
+0:11:38,463 --> 0:11:42,768
+prevent it from
+breaking my back.
+
+
+348
+0:11:42,768 --> 0:11:44,803
+Pete: We have a plan for
+the frame but we also need
+
+
+349
+0:11:44,803 --> 0:11:47,606
+to figure out how we're
+gonna power this thing.
+
+
+350
+0:11:47,606 --> 0:11:49,441
+Travis Taylor: 200cc
+gas powered engine.
+
+
+351
+0:11:49,441 --> 0:11:50,642
+Daddy: No, no.
+
+
+352
+0:11:50,642 --> 0:11:51,777
+Travis Taylor: Or an
+electrical motor or
+
+
+353
+0:11:51,777 --> 0:11:52,611
+whatever.
+
+
+354
+0:11:52,611 --> 0:11:53,712
+Daddy: Forget gas engine.
+
+
+355
+0:11:53,712 --> 0:11:55,13
+Now you, I'm not gonna
+put up with you putting
+
+
+356
+0:11:55,13 --> 0:11:56,314
+a gas engine on the back.
+
+
+357
+0:11:56,314 --> 0:11:57,449
+Travis Taylor: Well
+I don't even where
+
+
+358
+0:11:57,449 --> 0:11:58,416
+we'd put it Daddy.
+
+
+359
+0:11:58,416 --> 0:11:59,818
+If we put it here a
+gas engine weighs
+
+
+360
+0:11:59,818 --> 0:12:1,86
+what a 150 pounds?
+
+
+361
+0:12:1,86 --> 0:12:3,355
+How much does a
+5-horse engine weigh?
+
+
+362
+0:12:3,355 --> 0:12:5,39
+Daddy: There's no way
+I am letting him drive
+
+
+363
+0:12:5,39 --> 0:12:7,526
+around the road with a
+tank of highly flammable
+
+
+364
+0:12:7,526 --> 0:12:9,661
+liquid strapped
+to his behind.
+
+
+365
+0:12:9,661 --> 0:12:12,297
+I don't want gas
+on your back.
+
+
+366
+0:12:12,297 --> 0:12:13,698
+Travis Taylor: I don't
+want gas on my back
+
+
+367
+0:12:13,698 --> 0:12:15,66
+either, Daddy.
+
+
+368
+0:12:15,66 --> 0:12:16,101
+Daddy: Take that
+out of the loop.
+
+
+369
+0:12:16,101 --> 0:12:17,302
+Travis Taylor: Well then
+if we are gonna do that,
+
+
+370
+0:12:17,302 --> 0:12:18,37
+then it means that
+it's electrical,
+
+
+371
+0:12:18,37 --> 0:12:19,671
+that means we got to
+find electrical motors
+
+
+372
+0:12:19,671 --> 0:12:20,705
+that will do it.
+
+
+373
+0:12:20,705 --> 0:12:21,807
+Michael: We got to go
+get some materials.
+
+
+374
+0:12:21,807 --> 0:12:24,142
+Travis Taylor: Let's
+see what we're doing.
+
+
+375
+0:12:24,142 --> 0:12:26,244
+We need
+parts of ATV's.
+
+
+376
+0:12:26,244 --> 0:12:27,312
+Michael: Right.
+
+
+377
+0:12:27,312 --> 0:12:28,38
+Travis Taylor: That we
+can start working on.
+
+
+378
+0:12:28,38 --> 0:12:29,748
+Why don't you and Rog
+go find us some parts,
+
+
+379
+0:12:29,748 --> 0:12:30,816
+me and Daddy will start
+digging into this and
+
+
+380
+0:12:30,816 --> 0:12:32,417
+figure out what we
+did wrong so by the
+
+
+381
+0:12:32,417 --> 0:12:33,618
+time you get back.
+
+
+382
+0:12:33,618 --> 0:12:34,853
+Rog: Road trip.
+
+
+383
+0:12:34,853 --> 0:12:35,654
+Michael: Road trip.
+
+
+384
+0:12:35,654 --> 0:12:36,588
+Pete: Oh c'mon guys.
+
+
+385
+0:12:36,588 --> 0:12:37,689
+Michael: Road trip.
+
+
+386
+0:12:37,689 --> 0:12:38,99
+Travis Taylor: Hey, y'all
+don't stay gone long.
+
+
+387
+0:12:38,99 --> 0:12:40,158
+Michael: You say
+that every time we
+
+
+388
+0:12:40,158 --> 0:12:41,126
+go on a road trip.
+
+
+389
+0:12:41,126 --> 0:12:42,327
+Rog: We ain't
+never gone long.
+
+
+390
+0:12:42,327 --> 0:12:43,495
+Travis Taylor: Yeah,
+because you always
+
+
+391
+0:12:43,495 --> 0:12:44,462
+stay gone too long.
+
+
+392
+0:12:44,462 --> 0:12:45,33
+Rog: Whatever.
+
+
+393
+0:12:45,33 --> 0:12:46,364
+Pete: He means it
+every time too.
+
+
+394
+0:12:46,364 --> 0:12:47,499
+Rog: Shot gun.
+
+
+395
+0:12:47,499 --> 0:12:49,0
+Travis Taylor: So
+I sent Michael and
+
+
+396
+0:12:49,0 --> 0:12:51,203
+Rog out to look for some
+small electrical motors.
+
+
+397
+0:12:51,203 --> 0:12:52,47
+Rog: We got motor
+city right there.
+
+
+398
+0:12:52,47 --> 0:12:53,338
+Right there.
+
+
+399
+0:12:53,338 --> 0:12:54,339
+Michael: Where, what?
+
+
+400
+0:12:54,339 --> 0:12:56,241
+Rog: That little blue
+motor city thing.
+
+
+401
+0:12:56,241 --> 0:12:56,975
+Michael: You're right.
+
+
+402
+0:12:56,975 --> 0:12:58,777
+Rog: Pull in there.
+
+
+403
+0:12:58,777 --> 0:13:0,579
+We headed over to this
+street that has all these
+
+
+404
+0:13:0,579 --> 0:13:2,881
+little junk shops
+and antique stores.
+
+
+405
+0:13:2,881 --> 0:13:4,983
+I figured that's where
+we'd find a good used
+
+
+406
+0:13:4,983 --> 0:13:6,952
+electric motor.
+
+
+407
+0:13:6,952 --> 0:13:9,354
+Michael: Let's see
+if you was right.
+
+
+408
+0:13:9,354 --> 0:13:11,223
+It may not be
+worth a damn, Rog.
+
+
+409
+0:13:11,223 --> 0:13:12,958
+Rog: So number 2.
+
+
+410
+0:13:12,958 --> 0:13:14,92
+Michael: What?
+
+
+411
+0:13:14,92 --> 0:13:17,829
+Turn it on,
+see if it works.
+
+
+412
+0:13:17,829 --> 0:13:18,897
+Michael: Things
+got a lot of power;
+
+
+413
+0:13:18,897 --> 0:13:22,834
+it will carry you
+around won't it?
+
+
+414
+0:13:22,834 --> 0:13:24,569
+We found this
+nifty motorcycle,
+
+
+415
+0:13:24,569 --> 0:13:27,439
+so we're gonna take the
+motor from that but I
+
+
+416
+0:13:27,439 --> 0:13:30,742
+think we're gonna need
+a little more power.
+
+
+417
+0:13:30,742 --> 0:13:32,377
+We checked out
+that motorcycle.
+
+
+418
+0:13:32,377 --> 0:13:33,478
+Clerk: That's a
+good one there.
+
+
+419
+0:13:33,478 --> 0:13:34,412
+Michael: It runs
+pretty good,
+
+
+420
+0:13:34,412 --> 0:13:35,614
+you got anymore
+like that thing.
+
+
+421
+0:13:35,614 --> 0:13:36,715
+Clerk: Yeah.
+
+
+422
+0:13:36,715 --> 0:13:38,516
+I got a 4 wheeler
+right there.
+
+
+423
+0:13:38,516 --> 0:13:39,484
+Rog: Where?
+
+
+424
+0:13:39,484 --> 0:13:44,89
+Michael: Check that
+4 wheeler out Rog.
+
+
+425
+0:13:44,89 --> 0:13:46,992
+This toy ATV has a
+working electrical motor
+
+
+426
+0:13:46,992 --> 0:13:48,293
+that we could tear out.
+
+
+427
+0:13:48,293 --> 0:13:49,661
+And if we put together
+with that little
+
+
+428
+0:13:49,661 --> 0:13:51,363
+motorcycle engine,
+we'll actually have the
+
+
+429
+0:13:51,363 --> 0:13:55,367
+equivalent of
+a gas engine.
+
+
+430
+0:13:55,367 --> 0:14:4,442
+Man, that looks good.
+
+
+431
+0:14:4,442 --> 0:14:5,71
+Travis Taylor: I'm done.
+
+
+432
+0:14:5,71 --> 0:14:7,545
+While Rog and
+Michael were gone,
+
+
+433
+0:14:7,545 --> 0:14:10,81
+we built a new locking
+metal hinge and
+
+
+434
+0:14:10,81 --> 0:14:11,783
+installed it on
+the prototype.
+
+
+435
+0:14:11,783 --> 0:14:13,518
+This is to just
+make sure that this
+
+
+436
+0:14:13,518 --> 0:14:15,754
+is the right idea.
+
+
+437
+0:14:15,754 --> 0:14:17,289
+Ok well, y'all push me.
+
+
+438
+0:14:17,289 --> 0:14:19,157
+Well, it's rolling fine.
+
+
+439
+0:14:19,157 --> 0:14:21,526
+It does all right,
+this is the right plan.
+
+
+440
+0:14:21,526 --> 0:14:22,861
+Daddy: Get out and
+let's start making on
+
+
+441
+0:14:22,861 --> 0:14:23,895
+a good one.
+
+
+442
+0:14:23,895 --> 0:14:24,963
+Travis Taylor: Yeah
+we need to figure out
+
+
+443
+0:14:24,963 --> 0:14:26,64
+how to make this
+out of aluminum
+
+
+444
+0:14:26,64 --> 0:14:27,299
+or somethin' now.
+
+
+445
+0:14:27,299 --> 0:14:28,433
+<i> [Car horn].</i>
+
+
+446
+0:14:28,433 --> 0:14:29,601
+Travis Taylor:
+There they are.
+
+
+447
+0:14:29,601 --> 0:14:31,269
+About time they got back.
+
+
+448
+0:14:31,269 --> 0:14:34,306
+We got the idea this
+works just fine.
+
+
+449
+0:14:34,306 --> 0:14:35,74
+Look at that,
+those are nice,
+
+
+450
+0:14:35,74 --> 0:14:37,475
+we use all that
+for something.
+
+
+451
+0:14:37,475 --> 0:14:39,21
+Michael: We had
+to make two stops.
+
+
+452
+0:14:39,21 --> 0:14:40,245
+Pete: There's
+some good shocks.
+
+
+453
+0:14:40,245 --> 0:14:41,279
+Travis Taylor: That's
+it, look that has got
+
+
+454
+0:14:41,279 --> 0:14:42,38
+electrical motors in
+it, we can use them.
+
+
+455
+0:14:42,38 --> 0:14:43,348
+Michael: Right there
+is the batteries
+
+
+456
+0:14:43,348 --> 0:14:44,382
+for it under there.
+
+
+457
+0:14:44,382 --> 0:14:45,45
+Travis Taylor: Let's
+start getting it out,
+
+
+458
+0:14:45,45 --> 0:14:46,484
+let's find us some
+aluminum pieces,
+
+
+459
+0:14:46,484 --> 0:14:47,986
+turn that prototype
+into a real transformer.
+
+
+460
+0:14:47,986 --> 0:14:49,854
+Rog and Daddy can start
+measuring the pieces
+
+
+461
+0:14:49,854 --> 0:14:51,256
+and figuring out
+how to convert this
+
+
+462
+0:14:51,256 --> 0:14:52,857
+over to the aluminum.
+
+
+463
+0:14:52,857 --> 0:14:55,393
+Pete, why don't
+you tear into them
+
+
+464
+0:14:55,393 --> 0:14:57,562
+motorcycles that
+they just bought?
+
+
+465
+0:14:57,562 --> 0:14:58,53
+Pete: Ok.
+
+
+466
+0:14:58,53 --> 0:15:0,131
+Travis Taylor: And
+find the motors and
+
+
+467
+0:15:0,131 --> 0:15:2,667
+electronics and all that.
+
+
+468
+0:15:2,667 --> 0:15:4,235
+Michael: Here's
+the instructions.
+
+
+469
+0:15:4,235 --> 0:15:6,37
+If you feel like reading
+instructions.
+
+
+470
+0:15:6,37 --> 0:15:7,405
+Daddy: I don't know
+what you need to read the
+
+
+471
+0:15:7,405 --> 0:15:8,807
+instructions, we're
+gonna tear the thing
+
+
+472
+0:15:8,807 --> 0:15:10,175
+apart not put it together.
+
+
+473
+0:15:10,175 --> 0:15:16,381
+Rog: Does it have
+instructions to tear it apart?
+
+
+474
+0:15:16,381 --> 0:15:17,716
+Travis Taylor: We're
+gonna build the frame
+
+
+475
+0:15:17,716 --> 0:15:18,75
+out of aluminum,
+
+
+476
+0:15:18,75 --> 0:15:20,952
+skin it with armor and
+when we get it done,
+
+
+477
+0:15:20,952 --> 0:15:23,321
+we're gonna put this
+transforming ATV to the
+
+
+478
+0:15:23,321 --> 0:15:25,29
+ultimate redneck test.
+
+
+479
+0:15:25,29 --> 0:15:26,191
+A beer run.
+
+
+480
+0:15:26,191 --> 0:15:27,959
+Rog, you help Daddy
+figure out how to
+
+
+481
+0:15:27,959 --> 0:15:29,327
+reproduce this
+with aluminum.
+
+
+482
+0:15:29,327 --> 0:15:30,829
+Cut the pieces and
+get them to Michael
+
+
+483
+0:15:30,829 --> 0:15:32,163
+as fast as you can.
+
+
+484
+0:15:32,163 --> 0:15:38,937
+Michael, you weld them
+as fast as you can.
+
+
+485
+0:15:38,937 --> 0:15:41,6
+Daddy: All right,
+there's one of them.
+
+
+486
+0:15:41,6 --> 0:15:42,741
+Michael: Here is your
+leg part finished.
+
+
+487
+0:15:42,741 --> 0:15:44,843
+Travis Taylor: Oh
+man, look at that.
+
+
+488
+0:15:44,843 --> 0:15:46,244
+Michael: Oughtta
+wait with the.
+
+
+489
+0:15:46,244 --> 0:15:47,145
+Travis Taylor:
+Is it still hot?
+
+
+490
+0:15:47,145 --> 0:15:48,246
+Michael: No, it
+ain't hot no more.
+
+
+491
+0:15:48,246 --> 0:15:49,214
+Travis Taylor: So that's
+that piece right there.
+
+
+492
+0:15:49,214 --> 0:15:50,382
+Michael: Yeah, drilled
+all the way up to
+
+
+493
+0:15:50,382 --> 0:15:51,783
+mount to the
+hip somewhere.
+
+
+494
+0:15:51,783 --> 0:15:57,255
+Travis Taylor: All right,
+go make the other one.
+
+
+495
+0:15:57,255 --> 0:15:58,456
+Daddy: All we need
+you to do is line
+
+
+496
+0:15:58,456 --> 0:16:0,558
+the washers up
+with that hole.
+
+
+497
+0:16:0,558 --> 0:16:2,36
+While those boys were
+mounting the new set of
+
+
+498
+0:16:2,36 --> 0:16:4,763
+bike wheels, Pete and I
+were attaching the motors
+
+
+499
+0:16:4,763 --> 0:16:7,198
+and the batteries from
+those toy vehicles.
+
+
+500
+0:16:7,198 --> 0:16:11,102
+Pete: I think it's
+pretty well lined up.
+
+
+501
+0:16:11,102 --> 0:16:12,604
+Daddy: Uh-oh.
+
+
+502
+0:16:12,604 --> 0:16:14,773
+Pete: Pull that
+out and we'll see.
+
+
+503
+0:16:14,773 --> 0:16:16,408
+Travis Taylor: It
+ain't going nowhere.
+
+
+504
+0:16:16,408 --> 0:16:17,475
+All right.
+
+
+505
+0:16:17,475 --> 0:16:19,144
+It took us a while to
+finally attach the motors
+
+
+506
+0:16:19,144 --> 0:16:25,5
+to the frame, but I think
+we got that working.
+
+
+507
+0:16:25,5 --> 0:16:26,84
+Hey, hey, hey!
+
+
+508
+0:16:26,84 --> 0:16:27,852
+Hold on just a minute.
+
+
+509
+0:16:27,852 --> 0:16:30,188
+I told Michael to get
+working on the chest plate.
+
+
+510
+0:16:30,188 --> 0:16:34,92
+When I turn around, I see
+a disaster in the making.
+
+
+511
+0:16:34,92 --> 0:16:36,828
+What in the crap
+are y'all doing?
+
+
+512
+0:16:36,828 --> 0:16:38,329
+Michael's doing
+one of the worst
+
+
+513
+0:16:38,329 --> 0:16:40,698
+welding jobs I
+have ever seen him do.
+
+
+514
+0:16:40,698 --> 0:16:42,667
+This is the rib cage
+that's gonna protect
+
+
+515
+0:16:42,667 --> 0:16:44,936
+my chest and he has
+got angels going
+
+
+516
+0:16:44,936 --> 0:16:46,671
+every which way.
+
+
+517
+0:16:46,671 --> 0:16:48,84
+Look how cock
+eyed that is, now.
+
+
+518
+0:16:48,84 --> 0:16:49,774
+Rog: Who did that?
+
+
+519
+0:16:49,774 --> 0:16:51,142
+Who did that?
+
+
+520
+0:16:51,142 --> 0:16:52,31
+Travis Taylor:
+What in the world?
+
+
+521
+0:16:52,31 --> 0:16:54,579
+Michael: First
+Uncle Travis says,
+
+
+522
+0:16:54,579 --> 0:16:55,947
+"Do it as fast
+as you can."
+
+
+523
+0:16:55,947 --> 0:16:57,148
+Then, when I do
+it fast, he says,
+
+
+524
+0:16:57,148 --> 0:16:58,65
+"That's not good
+enough, do it over."
+
+
+525
+0:16:58,65 --> 0:17:0,185
+There's no
+pleasing this guy.
+
+
+526
+0:17:0,185 --> 0:17:1,653
+Travis Taylor: You
+got, that means you
+
+
+527
+0:17:1,653 --> 0:17:3,88
+are gonna have to
+completely redo it,
+
+
+528
+0:17:3,88 --> 0:17:4,622
+you got to grind
+them off and
+
+
+529
+0:17:4,622 --> 0:17:8,493
+put them up here
+and re-weld it.
+
+
+530
+0:17:8,493 --> 0:17:10,328
+Michael's welding
+job actually puts
+
+
+531
+0:17:10,328 --> 0:17:11,696
+my life in danger.
+
+
+532
+0:17:11,696 --> 0:17:14,199
+I already nearly got
+my back broke and
+
+
+533
+0:17:14,199 --> 0:17:17,35
+now I could get
+my chest crushed too.
+
+
+534
+0:17:17,35 --> 0:17:19,904
+And Michael and Rog think
+it's all fun and games.
+
+
+535
+0:17:19,904 --> 0:17:21,773
+Rog: I'm glad I ain't
+the one who done that.
+
+
+536
+0:17:21,773 --> 0:17:22,74
+Travis Taylor: Man.
+
+
+537
+0:17:22,74 --> 0:17:23,942
+Michael: Who
+designed that thing?
+
+
+538
+0:17:23,942 --> 0:17:24,943
+Travis Taylor:
+I designed it,
+
+
+539
+0:17:24,943 --> 0:17:26,44
+but you didn't weld
+it for nothing.
+
+
+540
+0:17:26,44 --> 0:17:27,345
+Michael: Who
+designed that thing?
+
+
+541
+0:17:27,345 --> 0:17:29,47
+Daddy: That beats
+anything I've ever seen.
+
+
+542
+0:17:29,47 --> 0:17:30,515
+Those boys fight so much;
+
+
+543
+0:17:30,515 --> 0:17:32,617
+sometimes I think
+Michael intentionally
+
+
+544
+0:17:32,617 --> 0:17:34,152
+messes things up.
+
+
+545
+0:17:34,152 --> 0:17:35,22
+Travis Taylor: You're
+gonna break that.
+
+
+546
+0:17:35,22 --> 0:17:36,121
+Michael: No I ain't.
+
+
+547
+0:17:36,121 --> 0:17:37,222
+I didn't do nothing.
+
+
+548
+0:17:37,222 --> 0:17:38,857
+Daddy: Travis
+gets really mad,
+
+
+549
+0:17:38,857 --> 0:17:40,358
+but that just seems
+to tickle Michael.
+
+
+550
+0:17:40,358 --> 0:17:41,626
+The madder Travis gets,
+
+
+551
+0:17:41,626 --> 0:17:43,461
+the more Michael
+seems to enjoy it.
+
+
+552
+0:17:43,461 --> 0:17:44,729
+Travis Taylor: I can't
+believe you did that.
+
+
+553
+0:17:44,729 --> 0:17:54,372
+I just, God that
+aggravates me.
+
+
+554
+0:17:54,372 --> 0:17:56,207
+Pete: All right, let me
+mark these real quick.
+
+
+555
+0:17:56,207 --> 0:17:57,609
+Travis Taylor: We're
+building a wearable
+
+
+556
+0:17:57,609 --> 0:18:0,545
+transforming ATV
+that will fold into a
+
+
+557
+0:18:0,545 --> 0:18:3,982
+full size all
+terrain vehicle.
+
+
+558
+0:18:3,982 --> 0:18:5,583
+But Michael's lazy
+welding makes my
+
+
+559
+0:18:5,583 --> 0:18:8,553
+chest plate vulnerable
+and dangerous.
+
+
+560
+0:18:8,553 --> 0:18:10,121
+Hey, hey, hey!
+
+
+561
+0:18:10,121 --> 0:18:11,956
+Look how cock
+eyed that is, now.
+
+
+562
+0:18:11,956 --> 0:18:12,891
+Michael: Who
+designed that thing?
+
+
+563
+0:18:12,891 --> 0:18:13,858
+Travis Taylor:
+I designed it,
+
+
+564
+0:18:13,858 --> 0:18:14,959
+but you didn't weld
+it for nothin'.
+
+
+565
+0:18:14,959 --> 0:18:17,529
+Michael: Who
+designed that thing?
+
+
+566
+0:18:17,529 --> 0:18:18,83
+Travis Taylor: With
+a little persuasion
+
+
+567
+0:18:18,83 --> 0:18:20,665
+Michael did finally
+get it right.
+
+
+568
+0:18:20,665 --> 0:18:23,301
+And we're back on track.
+
+
+569
+0:18:23,301 --> 0:18:24,903
+Michael: There it is.
+
+
+570
+0:18:24,903 --> 0:18:25,904
+Travis Taylor: All
+right, look here,
+
+
+571
+0:18:25,904 --> 0:18:27,472
+we got the chest
+plate about done.
+
+
+572
+0:18:27,472 --> 0:18:31,509
+So the skin is gonna have
+to cover the inside.
+
+
+573
+0:18:31,509 --> 0:18:33,678
+All right, I got this
+piece up here we're missing.
+
+
+574
+0:18:33,678 --> 0:18:35,413
+Next we had
+to work on the brakes.
+
+
+575
+0:18:35,413 --> 0:18:36,881
+Yeah get in there.
+
+
+576
+0:18:36,881 --> 0:18:38,183
+Michael: Put the
+round thing in first.
+
+
+577
+0:18:38,183 --> 0:18:39,651
+Travis Taylor: Yeah, yeah
+I've done this before on
+
+
+578
+0:18:39,651 --> 0:18:42,387
+my bicycle before I know
+what's happening here.
+
+
+579
+0:18:42,387 --> 0:18:43,855
+Michael: All right
+now hit the brake,
+
+
+580
+0:18:43,855 --> 0:18:44,956
+hit the brake.
+
+
+581
+0:18:44,956 --> 0:18:45,99
+There it is.
+
+
+582
+0:18:45,99 --> 0:18:47,158
+Travis Taylor: Did
+it let off though?
+
+
+583
+0:18:47,158 --> 0:18:48,226
+Michael: Yup.
+
+
+584
+0:18:48,226 --> 0:18:49,327
+Travis Taylor: Now
+it's the last step,
+
+
+585
+0:18:49,327 --> 0:18:51,29
+skinning the
+ATV suit with an
+
+
+586
+0:18:51,29 --> 0:18:56,34
+exoskeleton and mudguards.
+
+
+587
+0:18:56,34 --> 0:18:57,669
+Rog: We took a bunch of
+plastic pieces from the
+
+
+588
+0:18:57,669 --> 0:19:0,438
+toy ATV and cut them up
+so the transformer really
+
+
+589
+0:19:0,438 --> 0:19:4,142
+looks cool as it's
+rolling down the road.
+
+
+590
+0:19:4,142 --> 0:19:9,881
+Travis Taylor: What do
+you think about that?
+
+
+591
+0:19:9,881 --> 0:19:12,5
+Now it's time to do
+our first road test.
+
+
+592
+0:19:12,5 --> 0:19:14,586
+I'm nervous because I
+might get stuck in it
+
+
+593
+0:19:14,586 --> 0:19:17,255
+again or, it could just
+collapse at high speed or,
+
+
+594
+0:19:17,255 --> 0:19:23,861
+who knows, I might
+just run over myself.
+
+
+595
+0:19:23,861 --> 0:19:26,97
+Here we go,
+you ready?
+
+
+596
+0:19:26,97 --> 0:19:28,8
+Michael: Yeah hit it, go.
+
+
+597
+0:19:28,8 --> 0:19:33,404
+Daddy: Look at him go!
+
+
+598
+0:19:33,404 --> 0:19:37,75
+He left here like
+Lindburg didn't he?
+
+
+599
+0:19:37,75 --> 0:19:38,476
+Travis Taylor: It
+was pretty amazing.
+
+
+600
+0:19:38,476 --> 0:19:41,412
+I started out slow, but I
+soon started picking up
+
+
+601
+0:19:41,412 --> 0:19:43,715
+speed and it was
+smooth as silk,
+
+
+602
+0:19:43,715 --> 0:19:47,85
+this transforming
+ATV really is more
+
+
+603
+0:19:47,85 --> 0:19:48,419
+than meets the eye.
+
+
+604
+0:19:48,419 --> 0:19:49,954
+Michael: You best stay
+out of the monkey grass,
+
+
+605
+0:19:49,954 --> 0:19:52,223
+before you get
+grandma all fired up.
+
+
+606
+0:19:52,223 --> 0:19:54,559
+<i> [laughing].</i>
+
+
+607
+0:19:54,559 --> 0:19:57,195
+Michael: It works.
+
+
+608
+0:19:57,195 --> 0:19:59,897
+Daddy: Watch out.
+
+
+609
+0:19:59,897 --> 0:20:0,965
+Michael: Can you get up?
+
+
+610
+0:20:0,965 --> 0:20:2,533
+Travis Taylor: Well,
+I should be able to.
+
+
+611
+0:20:2,533 --> 0:20:4,335
+Rog: I don't know
+about all that.
+
+
+612
+0:20:4,335 --> 0:20:6,337
+Travis Taylor: This is
+the moment of truth,
+
+
+613
+0:20:6,337 --> 0:20:9,54
+this has proven we can
+make a wearable ATV,
+
+
+614
+0:20:9,54 --> 0:20:12,677
+but have we really built
+a transforming ATV?
+
+
+615
+0:20:12,677 --> 0:20:15,88
+Right there is locked,
+it won't come in.
+
+
+616
+0:20:15,88 --> 0:20:23,321
+Can I even stand
+up in this thing?
+
+
+617
+0:20:23,321 --> 0:20:28,159
+Michael: There you go,
+there is one foot.
+
+
+618
+0:20:28,159 --> 0:20:30,695
+Rog: Look at
+him, look at him.
+
+
+619
+0:20:30,695 --> 0:20:32,53
+Travis Taylor: Boom,
+transforming taters
+
+
+620
+0:20:32,53 --> 0:20:33,731
+right there.
+
+
+621
+0:20:33,731 --> 0:20:42,24
+Now I can
+walk around in it.
+
+
+622
+0:20:42,24 --> 0:20:44,75
+Whoo, how about that?
+
+
+623
+0:20:44,75 --> 0:20:45,209
+Michael: That's
+impressive.
+
+
+624
+0:20:45,209 --> 0:20:46,477
+Travis Taylor: Now
+it's time to put our
+
+
+625
+0:20:46,477 --> 0:20:48,212
+transforming ATV
+to the ultimate
+
+
+626
+0:20:48,212 --> 0:20:51,249
+redneck challenge,
+a beer run!
+
+
+627
+0:20:51,249 --> 0:20:52,35
+Ho-yah!
+
+
+628
+0:20:52,35 --> 0:20:54,319
+Rog: Settle down, Mule.
+
+
+629
+0:20:54,319 --> 0:20:56,754
+Travis Taylor: Michael
+go get the wagon.
+
+
+630
+0:20:56,754 --> 0:20:58,723
+Hook it up
+to this thing,
+
+
+631
+0:20:58,723 --> 0:21:0,91
+we gonna
+celebrate tonight.
+
+
+632
+0:21:0,91 --> 0:21:1,392
+Rog get on here.
+
+
+633
+0:21:1,392 --> 0:21:3,761
+Rog: Let's go son,
+I got my billfold.
+
+
+634
+0:21:3,761 --> 0:21:5,29
+Travis Taylor: Well
+let's go get some beer,
+
+
+635
+0:21:5,29 --> 0:21:5,863
+come on.
+
+
+636
+0:21:5,863 --> 0:21:6,731
+Rog: Let's go.
+
+
+637
+0:21:6,731 --> 0:21:7,665
+Travis Taylor: Here we go.
+
+
+638
+0:21:7,665 --> 0:21:8,766
+Daddy: Hey Rog,
+put this on.
+
+
+639
+0:21:8,766 --> 0:21:10,234
+Grab that and stick it on.
+
+
+640
+0:21:10,234 --> 0:21:11,936
+Travis Taylor: Put that
+on your melon head, Rog.
+
+
+641
+0:21:11,936 --> 0:21:13,137
+Rog: It's on.
+
+
+642
+0:21:13,137 --> 0:21:14,706
+Michael: This is the
+best invention yet,
+
+
+643
+0:21:14,706 --> 0:21:16,407
+you can drive that
+to the beer store.
+
+
+644
+0:21:16,407 --> 0:21:18,776
+Daddy: Look at that
+pulling a little wagon,
+
+
+645
+0:21:18,776 --> 0:21:20,78
+just like he did
+with a tricycle
+
+
+646
+0:21:20,78 --> 0:21:21,446
+when he was a kid.
+
+
+647
+0:21:21,446 --> 0:21:23,314
+Michael: Yeah.
+
+
+648
+0:21:23,314 --> 0:21:25,35
+Rog: Turn right here,
+right out front.
+
+
+649
+0:21:25,35 --> 0:21:27,985
+There we go.
+
+
+650
+0:21:27,985 --> 0:21:33,925
+This is where
+we need to be.
+
+
+651
+0:21:33,925 --> 0:21:35,93
+Travis Taylor: You done?
+
+
+652
+0:21:35,93 --> 0:21:36,27
+Rog: Transform.
+
+
+653
+0:21:36,27 --> 0:21:42,834
+Travis Taylor:
+I heard that.
+
+
+654
+0:21:42,834 --> 0:21:45,303
+Rog: Look at you, son.
+
+
+655
+0:21:45,303 --> 0:21:47,171
+Travis Taylor: Ah, son!
+
+
+656
+0:21:47,171 --> 0:21:48,339
+Rog: Ain't
+nothing like it.
+
+
+657
+0:21:48,339 --> 0:21:49,474
+Travis Taylor: We
+need to get us some
+
+
+658
+0:21:49,474 --> 0:21:52,11
+beer up in here.
+
+
+659
+0:21:52,11 --> 0:21:53,845
+We need a keg of beer.
+
+
+660
+0:21:53,845 --> 0:21:54,779
+Clerk: We can do it.
+
+
+661
+0:21:54,779 --> 0:21:55,813
+Travis Taylor: We've
+been working hard
+
+
+662
+0:21:55,813 --> 0:21:57,515
+building this
+thing all weekend.
+
+
+663
+0:21:57,515 --> 0:21:58,983
+Let me hold
+the right door.
+
+
+664
+0:21:58,983 --> 0:22:0,151
+Rog: All right come on.
+
+
+665
+0:22:0,151 --> 0:22:1,85
+Travis Taylor: Here we go.
+
+
+666
+0:22:1,85 --> 0:22:2,52
+I got it, I got it.
+
+
+667
+0:22:2,52 --> 0:22:11,863
+What are we gonna,
+go right here?
+
+
+668
+0:22:11,863 --> 0:22:13,131
+Rog: Look at it.
+
+
+669
+0:22:13,131 --> 0:22:14,165
+Travis Taylor:
+This is one of my
+
+
+670
+0:22:14,165 --> 0:22:15,533
+favorite things
+we've ever done.
+
+
+671
+0:22:15,533 --> 0:22:18,403
+Rog: Yeah I am glad
+we built it to bubba.
+
+
+672
+0:22:18,403 --> 0:22:20,638
+Look at there, let's go.
+
+
+673
+0:22:20,638 --> 0:22:21,973
+Travis Taylor: This
+is one of the most
+
+
+674
+0:22:21,973 --> 0:22:23,808
+amazing things
+we ever built.
+
+
+675
+0:22:23,808 --> 0:22:25,91
+We took a couple of
+electric motors,
+
+
+676
+0:22:25,91 --> 0:22:28,579
+ATV parts and some
+aluminum framing and
+
+
+677
+0:22:28,579 --> 0:22:32,316
+built a real life
+transforming ATV,
+
+
+678
+0:22:32,316 --> 0:22:33,584
+just like I
+use to watch on
+
+
+679
+0:22:33,584 --> 0:22:35,486
+Saturday morning cartoons.
+
+
+680
+0:22:35,486 --> 0:22:37,522
+Rednecks roll out!
+
+
+681
+0:22:37,522 --> 0:24:37,522
+Wahoo!
+
+

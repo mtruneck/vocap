@@ -1,0 +1,4055 @@
+1
+0:0:0,0 --> 0:0:1,872
+
+
+
+2
+0:0:1,872 --> 0:0:3,58
+ARTUR OLIVEIRA: Good
+afternoon, everyone.
+
+
+3
+0:0:3,58 --> 0:0:5,51
+Thank you all so much
+for making it out.
+
+
+4
+0:0:5,51 --> 0:0:7,73
+My name is Artur Oliveira.
+
+
+5
+0:0:7,73 --> 0:0:10,17
+I'm on the authors
+at Google team.
+
+
+6
+0:0:10,17 --> 0:0:14,791
+And it is my pleasure to
+introduce your speaker today.
+
+
+7
+0:0:14,791 --> 0:0:16,29
+A lot of you might
+be wondering what
+
+
+8
+0:0:16,29 --> 0:0:18,5
+does serving great
+guacamole have
+
+
+9
+0:0:18,5 --> 0:0:20,11
+to do with eradicating poverty?
+
+
+10
+0:0:20,11 --> 0:0:21,7
+And the thing is, I don't know.
+
+
+11
+0:0:21,7 --> 0:0:24,14
+That's why we have
+Josh Ruxin here,
+
+
+12
+0:0:24,14 --> 0:0:27,22
+who is here today with us to
+talk about his brand new book
+
+
+13
+0:0:27,22 --> 0:0:28,76
+"A Thousand Hills
+Through Heaven,
+
+
+14
+0:0:28,76 --> 0:0:32,159
+Love, Hope, and a
+Restaurant in Rwanda."
+
+
+15
+0:0:32,159 --> 0:0:34,43
+Now, the "New York
+Times" called it an
+
+
+16
+0:0:34,43 --> 0:0:36,14
+observing and
+affecting narrative.
+
+
+17
+0:0:36,14 --> 0:0:39,24
+And the book has been receiving
+a lot of praise recently,
+
+
+18
+0:0:39,24 --> 0:0:41,33
+so this really is a treat.
+
+
+19
+0:0:41,33 --> 0:0:43,73
+Josh is on faculty at
+Columbia University,
+
+
+20
+0:0:43,73 --> 0:0:46,32
+and he's been living
+in Rwanda since 2005.
+
+
+21
+0:0:46,32 --> 0:0:48,94
+So without further ado, if we
+could please welcome up Josh.
+
+
+22
+0:0:48,94 --> 0:0:50,371
+JOSH RUXIN: Thank you, Artur.
+
+
+23
+0:0:50,371 --> 0:0:51,802
+[INAUDIBLE]
+
+
+24
+0:0:51,802 --> 0:0:55,15
+Hi, everybody.
+
+
+25
+0:0:55,15 --> 0:0:58,91
+So, this whole story actually
+starts about 30 years ago.
+
+
+26
+0:0:58,91 --> 0:1:1,66
+I was a high school
+student at the height
+
+
+27
+0:1:1,66 --> 0:1:3,25
+of the Ethiopian famine.
+
+
+28
+0:1:3,25 --> 0:1:5,17
+I didn't really
+know much about it.
+
+
+29
+0:1:5,17 --> 0:1:11,93
+But there was a really
+cute upper class woman
+
+
+30
+0:1:11,93 --> 0:1:15,65
+who I saw go into some
+meeting after school.
+
+
+31
+0:1:15,65 --> 0:1:17,75
+And I thought, huh, I
+wonder where she's going,
+
+
+32
+0:1:17,75 --> 0:1:20,63
+so I followed her in
+and started to learn
+
+
+33
+0:1:20,63 --> 0:1:25,83
+about this incredible
+catastrophe that was costing
+
+
+34
+0:1:25,83 --> 0:1:28,36
+of course millions
+of lives in Ethiopia.
+
+
+35
+0:1:28,36 --> 0:1:31,53
+This was back 1984, 1985.
+
+
+36
+0:1:31,53 --> 0:1:34,28
+And that was actually the very
+beginning of my interest in it
+
+
+37
+0:1:34,28 --> 0:1:34,78
+all.
+
+
+38
+0:1:34,78 --> 0:1:39,63
+A couple years later, it
+led to a trip to Ethiopia.
+
+
+39
+0:1:39,63 --> 0:1:40,94
+I was just a teenager.
+
+
+40
+0:1:40,94 --> 0:1:43,87
+I'd never been outside
+of the country before,
+
+
+41
+0:1:43,87 --> 0:1:49,46
+and ended up taking a little
+plane to the middle of nowhere
+
+
+42
+0:1:49,46 --> 0:1:54,25
+in northern Ethiopia, get out
+of the plane on a grassy field.
+
+
+43
+0:1:54,25 --> 0:1:58,21
+And everybody
+dropped their plows
+
+
+44
+0:1:58,21 --> 0:2:1,76
+and came over to look
+at this white teenager
+
+
+45
+0:2:1,76 --> 0:2:2,9
+from Connecticut.
+
+
+46
+0:2:2,9 --> 0:2:6,8
+And a teacher came over
+and started to translate
+
+
+47
+0:2:6,8 --> 0:2:9,8
+and asked all the kids
+who were gathered around,
+
+
+48
+0:2:9,8 --> 0:2:13,78
+how do you think this kid and
+the other students got here?
+
+
+49
+0:2:13,78 --> 0:2:17,37
+And one kid raised his
+hand and says, by mule?
+
+
+50
+0:2:17,37 --> 0:2:24,7
+And then another kid points at
+me and says, come, in Amharic.
+
+
+51
+0:2:24,7 --> 0:2:27,72
+And so I end up walking with
+these kids about a mile up
+
+
+52
+0:2:27,72 --> 0:2:30,5
+to this mud-walled classroom.
+
+
+53
+0:2:30,5 --> 0:2:34,14
+And there's a poster,
+which has got pictures
+
+
+54
+0:2:34,14 --> 0:2:38,14
+of this club from high school
+from three years earlier
+
+
+55
+0:2:38,14 --> 0:2:42,68
+that we had sent with an
+aid worker years before.
+
+
+56
+0:2:42,68 --> 0:2:48,21
+And that for me was that aha
+moment that I'm sure all of you
+
+
+57
+0:2:48,21 --> 0:2:50,88
+have had in one way or
+another about how very, very
+
+
+58
+0:2:50,88 --> 0:2:54,43
+small this planet is,
+how you're only ever
+
+
+59
+0:2:54,43 --> 0:2:59,0
+24 hours away from the
+poorest places, the most
+
+
+60
+0:2:59,0 --> 0:3:0,41
+desperate places.
+
+
+61
+0:3:0,41 --> 0:3:2,96
+And I decided then,
+hey, I want to make
+
+
+62
+0:3:2,96 --> 0:3:4,15
+some sort of contribution.
+
+
+63
+0:3:4,15 --> 0:3:6,54
+I want to figure out how
+to make a difference.
+
+
+64
+0:3:6,54 --> 0:3:8,11
+And the next 30
+years have been spent
+
+
+65
+0:3:8,11 --> 0:3:10,65
+trying to figure out
+how the heck to do that,
+
+
+66
+0:3:10,65 --> 0:3:16,7
+because it's not as easy as
+just having your heart into it.
+
+
+67
+0:3:16,7 --> 0:3:23,6
+So, about eight years ago, now
+nine years ago, my wife and I
+
+
+68
+0:3:23,6 --> 0:3:24,77
+were just about to be married.
+
+
+69
+0:3:24,77 --> 0:3:29,94
+And we were given a very
+unusual sendoff gift.
+
+
+70
+0:3:29,94 --> 0:3:36,41
+A very wealthy donor and
+fundraiser said to us, hey,
+
+
+71
+0:3:36,41 --> 0:3:39,5
+I've seen a really
+interesting poverty reduction
+
+
+72
+0:3:39,5 --> 0:3:41,77
+program in Kenya and
+some other places,
+
+
+73
+0:3:41,77 --> 0:3:45,0
+but it's not happening in
+Rwanda, and it should be.
+
+
+74
+0:3:45,0 --> 0:3:49,6
+So why don't you, Josh, and
+with your new wife Alissa,
+
+
+75
+0:3:49,6 --> 0:3:53,17
+head to Rwanda and get it going.
+
+
+76
+0:3:53,17 --> 0:3:57,19
+At that time, my wife had
+a public health degree
+
+
+77
+0:3:57,19 --> 0:3:58,35
+from Harvard.
+
+
+78
+0:3:58,35 --> 0:4:1,35
+She was sick and tired of taking
+the subway down to Wall Street,
+
+
+79
+0:4:1,35 --> 0:4:4,35
+where she was running a
+executive public health
+
+
+80
+0:4:4,35 --> 0:4:6,96
+program at Goldman Sachs.
+
+
+81
+0:4:6,96 --> 0:4:9,6
+And she said, sure, let's go.
+
+
+82
+0:4:9,6 --> 0:4:11,79
+We'll go for a year or two.
+
+
+83
+0:4:11,79 --> 0:4:13,5
+And we never came back.
+
+
+84
+0:4:13,5 --> 0:4:16,829
+
+
+
+85
+0:4:16,829 --> 0:4:22,3
+We got to Rwanda just 10
+years after the genocide.
+
+
+86
+0:4:22,3 --> 0:4:26,36
+And I'm sure when most of
+you think about Rwanda,
+
+
+87
+0:4:26,36 --> 0:4:28,98
+that is what you think
+about, the "Hotel
+
+
+88
+0:4:28,98 --> 0:4:33,99
+Rwanda," the senseless
+horrible slaughter of over
+
+
+89
+0:4:33,99 --> 0:4:38,63
+a million people in a
+hundred days back in 1994.
+
+
+90
+0:4:38,63 --> 0:4:42,25
+But we actually
+arrived in a country
+
+
+91
+0:4:42,25 --> 0:4:48,4
+that, while it certainly bore
+the scars of the genocide,
+
+
+92
+0:4:48,4 --> 0:4:52,1
+was clean, secure,
+beautiful, with wonderful,
+
+
+93
+0:4:52,1 --> 0:4:55,26
+welcoming people that was
+very much on the move.
+
+
+94
+0:4:55,26 --> 0:4:58,4
+It was actually even
+then growing at rates
+
+
+95
+0:4:58,4 --> 0:5:0,83
+that would make this
+administration very jealous,
+
+
+96
+0:5:0,83 --> 0:5:4,84
+nearly double-digit economic
+growth rates every year.
+
+
+97
+0:5:4,84 --> 0:5:9,45
+So I arrived to start working
+at the Millennium Village
+
+
+98
+0:5:9,45 --> 0:5:12,595
+site, which is just down
+south of Kigali in a place
+
+
+99
+0:5:12,595 --> 0:5:13,22
+called Mayange.
+
+
+100
+0:5:13,22 --> 0:5:18,21
+And it was not booming.
+
+
+101
+0:5:18,21 --> 0:5:22,97
+It actually was suffering
+from a horrible famine.
+
+
+102
+0:5:22,97 --> 0:5:25,85
+The health center as
+I found it back then,
+
+
+103
+0:5:25,85 --> 0:5:29,4
+this was actually the
+ambulance at the health center.
+
+
+104
+0:5:29,4 --> 0:5:30,39
+Most days it was shut.
+
+
+105
+0:5:30,39 --> 0:5:32,78
+The doors were just not open.
+
+
+106
+0:5:32,78 --> 0:5:35,44
+And I asked, how
+do you get a nurse?
+
+
+107
+0:5:35,44 --> 0:5:37,405
+And they said, well,
+you can go find her
+
+
+108
+0:5:37,405 --> 0:5:39,89
+if you've got money
+to go find her.
+
+
+109
+0:5:39,89 --> 0:5:45,23
+And then compounding everything,
+the land had no topsoil.
+
+
+110
+0:5:45,23 --> 0:5:47,64
+All the topsoil had
+rolled down the hills
+
+
+111
+0:5:47,64 --> 0:5:49,44
+because of deforestation.
+
+
+112
+0:5:49,44 --> 0:5:51,52
+And people were
+literally starving
+
+
+113
+0:5:51,52 --> 0:5:55,47
+because they couldn't
+produce enough food to eat.
+
+
+114
+0:5:55,47 --> 0:5:58,43
+So with my colleagues, we
+started at the very beginning,
+
+
+115
+0:5:58,43 --> 0:6:1,879
+which was, as long as people
+are dying from starvation,
+
+
+116
+0:6:1,879 --> 0:6:3,92
+no one's really going to
+want to listen to a word
+
+
+117
+0:6:3,92 --> 0:6:5,7
+that we have to say.
+
+
+118
+0:6:5,7 --> 0:6:8,59
+So we started working on
+progressive terracing and line
+
+
+119
+0:6:8,59 --> 0:6:9,68
+planting.
+
+
+120
+0:6:9,68 --> 0:6:11,68
+And pretty soon,
+those very hills--
+
+
+121
+0:6:11,68 --> 0:6:15,16
+this is a picture taken
+from the same exact angle--
+
+
+122
+0:6:15,16 --> 0:6:18,27
+started to green up and
+started to produce food.
+
+
+123
+0:6:18,27 --> 0:6:21,62
+And that was actually
+the very first harvest.
+
+
+124
+0:6:21,62 --> 0:6:23,37
+That ended up
+changing everything,
+
+
+125
+0:6:23,37 --> 0:6:28,68
+because lots of our thinking
+around building community
+
+
+126
+0:6:28,68 --> 0:6:31,15
+grew out of the
+notion that you need
+
+
+127
+0:6:31,15 --> 0:6:33,76
+to have an integrated
+set of interventions
+
+
+128
+0:6:33,76 --> 0:6:38,8
+in order to reduce
+poverty ultimately.
+
+
+129
+0:6:38,8 --> 0:6:44,15
+And I'll never
+forget, one day, one
+
+
+130
+0:6:44,15 --> 0:6:47,97
+of the early adopters in the
+community-- who this might well
+
+
+131
+0:6:47,97 --> 0:6:47,93
+have been her field.
+
+
+132
+0:6:47,93 --> 0:6:48,75
+I can't remember.
+
+
+133
+0:6:48,75 --> 0:6:51,3
+Her name's Jacqueline-- she
+came up to me, and she said,
+
+
+134
+0:6:51,3 --> 0:6:54,51
+you know, Josh, I'm
+really angry with you,
+
+
+135
+0:6:54,51 --> 0:6:58,5
+because for years I was
+the funeral director here.
+
+
+136
+0:6:58,5 --> 0:7:0,68
+And we had deaths all the time.
+
+
+137
+0:7:0,68 --> 0:7:3,4
+And I actually made
+a decent living
+
+
+138
+0:7:3,4 --> 0:7:4,75
+directing those funerals.
+
+
+139
+0:7:4,75 --> 0:7:7,33
+But you've put me
+out of business.
+
+
+140
+0:7:7,33 --> 0:7:9,88
+No one dies here anymore.
+
+
+141
+0:7:9,88 --> 0:7:12,89
+And that was the moment that
+the whole community really
+
+
+142
+0:7:12,89 --> 0:7:17,41
+started to take over its
+development interventions,
+
+
+143
+0:7:17,41 --> 0:7:18,81
+completely own it.
+
+
+144
+0:7:18,81 --> 0:7:22,58
+And today, we've basically
+scaled down that project.
+
+
+145
+0:7:22,58 --> 0:7:27,22
+And if it's any sign
+of the reduction
+
+
+146
+0:7:27,22 --> 0:7:29,7
+if not virtual
+elimination of poverty,
+
+
+147
+0:7:29,7 --> 0:7:32,43
+the real estate prices
+have gone up fivefold
+
+
+148
+0:7:32,43 --> 0:7:36,862
+since the bottom in 2005 when
+people were literally just
+
+
+149
+0:7:36,862 --> 0:7:39,7
+leaving because there was
+no reason to be in Mayange.
+
+
+150
+0:7:39,7 --> 0:7:42,8
+
+
+
+151
+0:7:42,8 --> 0:7:44,44
+Oh, that's Jacqueline,
+by the way.
+
+
+152
+0:7:44,44 --> 0:7:47,1
+
+
+
+153
+0:7:47,1 --> 0:7:51,0
+So meanwhile, my
+wife was in Kigali,
+
+
+154
+0:7:51,0 --> 0:7:55,63
+and she was working with
+the orphans of the genocide.
+
+
+155
+0:7:55,63 --> 0:8:1,4
+And she was working on a
+program called Generation Rwanda
+
+
+156
+0:8:1,4 --> 0:8:3,86
+helping some of
+these kids get access
+
+
+157
+0:8:3,86 --> 0:8:5,47
+to scholarships for university.
+
+
+158
+0:8:5,47 --> 0:8:9,74
+But the vast majority didn't
+have access to scholarships.
+
+
+159
+0:8:9,74 --> 0:8:11,59
+There weren't enough
+donors to pay for them.
+
+
+160
+0:8:11,59 --> 0:8:18,22
+And Alissa had a huge insight,
+which was these kids need jobs.
+
+
+161
+0:8:18,22 --> 0:8:20,13
+And with jobs,
+they're going to be
+
+
+162
+0:8:20,13 --> 0:8:22,99
+able to put themselves
+through university.
+
+
+163
+0:8:22,99 --> 0:8:24,43
+I said, great, honey.
+
+
+164
+0:8:24,43 --> 0:8:26,144
+What do you propose?
+
+
+165
+0:8:26,144 --> 0:8:28,6
+She said, well, how about
+we just open a cafe?
+
+
+166
+0:8:28,6 --> 0:8:31,56
+There's no good place to get
+a cup of coffee around here.
+
+
+167
+0:8:31,56 --> 0:8:35,46
+So, being a supportive husband,
+I said, that sounds great.
+
+
+168
+0:8:35,46 --> 0:8:38,95
+I had this vision
+of plastic chairs,
+
+
+169
+0:8:38,95 --> 0:8:43,46
+and plastic tables, and maybe
+a really nice espresso maker.
+
+
+170
+0:8:43,46 --> 0:8:49,17
+And then some investors
+put millions of dollars
+
+
+171
+0:8:49,17 --> 0:8:55,23
+behind a Starbucks-style
+cafe in Kigali.
+
+
+172
+0:8:55,23 --> 0:8:58,77
+And she said, OK,
+second thought,
+
+
+173
+0:8:58,77 --> 0:9:0,27
+let's do something different.
+
+
+174
+0:9:0,27 --> 0:9:4,307
+Let's build the best gourmet
+restaurant in East Africa.
+
+
+175
+0:9:4,307 --> 0:9:5,89
+So this is actually
+the building site.
+
+
+176
+0:9:5,89 --> 0:9:8,38
+Alissa found this land.
+
+
+177
+0:9:8,38 --> 0:9:13,13
+It's literally just two blocks
+away from the famed hotel
+
+
+178
+0:9:13,13 --> 0:9:16,23
+Rwanda, the Hotel
+des Mille Collines.
+
+
+179
+0:9:16,23 --> 0:9:20,51
+And this is construction
+back in 2007
+
+
+180
+0:9:20,51 --> 0:9:24,36
+when my wife was pregnant
+with our first child.
+
+
+181
+0:9:24,36 --> 0:9:28,54
+And this is the construction
+of the magnificent deck
+
+
+182
+0:9:28,54 --> 0:9:33,0
+overlooking all of Kigali.
+
+
+183
+0:9:33,0 --> 0:9:36,31
+And eventually Heaven emerged.
+
+
+184
+0:9:36,31 --> 0:9:39,38
+That's what it looks like
+today just before service.
+
+
+185
+0:9:39,38 --> 0:9:42,57
+Most nights we have a lot more
+customers than in that picture.
+
+
+186
+0:9:42,57 --> 0:9:46,46
+
+
+
+187
+0:9:46,46 --> 0:9:55,85
+And it's been an incredibly
+rewarding but on a daily basis
+
+
+188
+0:9:55,85 --> 0:9:59,22
+hugely challenging endeavor.
+
+
+189
+0:9:59,22 --> 0:10:3,5
+From the very beginning, most of
+our servers, most of our chefs,
+
+
+190
+0:10:3,5 --> 0:10:5,87
+most everyone who
+works at Heaven
+
+
+191
+0:10:5,87 --> 0:10:8,3
+had never had a job
+before and had never
+
+
+192
+0:10:8,3 --> 0:10:11,46
+even set foot in a restaurant.
+
+
+193
+0:10:11,46 --> 0:10:16,2
+So the training element of
+this hospitality business
+
+
+194
+0:10:16,2 --> 0:10:17,81
+has not gone away.
+
+
+195
+0:10:17,81 --> 0:10:21,21
+In fact, we have rotating
+chefs and rotating
+
+
+196
+0:10:21,21 --> 0:10:22,28
+front-of-house managers.
+
+
+197
+0:10:22,28 --> 0:10:26,97
+So if anyone has any friends out
+there, every six months or so,
+
+
+198
+0:10:26,97 --> 0:10:30,21
+people cycle through, usually
+from the States and Europe,
+
+
+199
+0:10:30,21 --> 0:10:34,354
+to really invest in
+the team at Heaven.
+
+
+200
+0:10:34,354 --> 0:10:35,77
+I can send you the
+job description
+
+
+201
+0:10:35,77 --> 0:10:37,47
+if you're interested.
+
+
+202
+0:10:37,47 --> 0:10:44,17
+So what does, I mean
+as Artur set this up,
+
+
+203
+0:10:44,17 --> 0:10:46,3
+what does serving
+up great guacamole
+
+
+204
+0:10:46,3 --> 0:10:50,406
+or great filet mignon have
+to do with poverty reduction?
+
+
+205
+0:10:50,406 --> 0:10:51,78
+That was something
+that I started
+
+
+206
+0:10:51,78 --> 0:10:56,24
+to figure out very early
+on in the enterprise.
+
+
+207
+0:10:56,24 --> 0:11:0,51
+One of our first cleaners
+was a woman named Solange.
+
+
+208
+0:11:0,51 --> 0:11:3,63
+Solange, I don't even
+think I knew her name back
+
+
+209
+0:11:3,63 --> 0:11:5,62
+in 2008 when we opened up.
+
+
+210
+0:11:5,62 --> 0:11:10,55
+And one day Alissa found
+Solange in the kitchen,
+
+
+211
+0:11:10,55 --> 0:11:13,98
+like around 11:00 or
+so, preparing food.
+
+
+212
+0:11:13,98 --> 0:11:15,88
+But she was the cleaner.
+
+
+213
+0:11:15,88 --> 0:11:18,83
+And Alissa came
+home, and she said,
+
+
+214
+0:11:18,83 --> 0:11:21,38
+you won't believe who was
+in the kitchen cooking.
+
+
+215
+0:11:21,38 --> 0:11:22,51
+I said, who?
+
+
+216
+0:11:22,51 --> 0:11:24,37
+She said the cleaner was.
+
+
+217
+0:11:24,37 --> 0:11:25,38
+This is ridiculous.
+
+
+218
+0:11:25,38 --> 0:11:27,15
+We've got to sit
+down with the staff.
+
+
+219
+0:11:27,15 --> 0:11:28,94
+We've got to sit
+down with the chefs.
+
+
+220
+0:11:28,94 --> 0:11:33,22
+Why are they pawning off
+the work onto Solange?
+
+
+221
+0:11:33,22 --> 0:11:38,45
+So that night, we sat down with
+the whole kitchen staff just
+
+
+222
+0:11:38,45 --> 0:11:40,6
+before service.
+
+
+223
+0:11:40,6 --> 0:11:42,93
+And I said, what
+are you all doing?
+
+
+224
+0:11:42,93 --> 0:11:45,57
+Why was Solange in here cooking?
+
+
+225
+0:11:45,57 --> 0:11:50,95
+And they replied, well, she
+was just making staff meal.
+
+
+226
+0:11:50,95 --> 0:11:52,95
+I said, yeah, but
+that's your job.
+
+
+227
+0:11:52,95 --> 0:11:56,83
+They said, yeah, but
+she's the best cook.
+
+
+228
+0:11:56,83 --> 0:12:0,88
+So Solange today is actually
+the sous chef at Heaven.
+
+
+229
+0:12:0,88 --> 0:12:3,77
+She's worked under
+Michelin-star chefs.
+
+
+230
+0:12:3,77 --> 0:12:7,91
+She makes the best squash
+risotto you've ever tasted.
+
+
+231
+0:12:7,91 --> 0:12:12,5
+She can knock out without
+even planning for it--
+
+
+232
+0:12:12,5 --> 0:12:14,42
+for some reason, when
+people come into Heaven,
+
+
+233
+0:12:14,42 --> 0:12:16,2
+they don't make reservations.
+
+
+234
+0:12:16,2 --> 0:12:19,2
+So people will think
+nothing of walking
+
+
+235
+0:12:19,2 --> 0:12:24,59
+into this restaurant in
+Central Africa with 30 people
+
+
+236
+0:12:24,59 --> 0:12:27,42
+and expecting world-class
+service and world-class food.
+
+
+237
+0:12:27,42 --> 0:12:31,37
+And Solange is actually able
+to knock those meals right out
+
+
+238
+0:12:31,37 --> 0:12:33,53
+of the kitchen with no problem.
+
+
+239
+0:12:33,53 --> 0:12:37,6
+
+
+
+240
+0:12:37,6 --> 0:12:40,34
+That's Heaven by
+night out on the deck.
+
+
+241
+0:12:40,34 --> 0:12:42,54
+That's Solange.
+
+
+242
+0:12:42,54 --> 0:12:44,96
+Solange, by the way, is
+the very first member
+
+
+243
+0:12:44,96 --> 0:12:48,92
+of her entire family
+to go to university.
+
+
+244
+0:12:48,92 --> 0:12:52,63
+There's about a dozen
+kids and family at home
+
+
+245
+0:12:52,63 --> 0:12:55,1
+who are completely
+supported by her income.
+
+
+246
+0:12:55,1 --> 0:12:56,71
+She pays for their health care.
+
+
+247
+0:12:56,71 --> 0:13:0,2
+She pays for their education.
+
+
+248
+0:13:0,2 --> 0:13:5,2
+And yet Solange doesn't receive
+a charitable contribution.
+
+
+249
+0:13:5,2 --> 0:13:11,3
+She doesn't receive a
+501(c)(3) annual check.
+
+
+250
+0:13:11,3 --> 0:13:14,5
+She's working for pay.
+
+
+251
+0:13:14,5 --> 0:13:19,6
+And that lesson about
+financial sustainability
+
+
+252
+0:13:19,6 --> 0:13:22,42
+really changed my
+outlook about how
+
+
+253
+0:13:22,42 --> 0:13:25,23
+to think about what I've been
+doing in the public health
+
+
+254
+0:13:25,23 --> 0:13:26,6
+sector.
+
+
+255
+0:13:26,6 --> 0:13:28,787
+So in public health, I've
+got this organization
+
+
+256
+0:13:28,787 --> 0:13:29,745
+called Health Builders.
+
+
+257
+0:13:29,745 --> 0:13:33,64
+You can check it out,
+globalhealthbuilders.org.
+
+
+258
+0:13:33,64 --> 0:13:34,59
+And we do two things.
+
+
+259
+0:13:34,59 --> 0:13:39,49
+We actually take lessons
+from Heaven in accounting,
+
+
+260
+0:13:39,49 --> 0:13:41,78
+and human resources,
+and in management.
+
+
+261
+0:13:41,78 --> 0:13:43,64
+We go into health centers.
+
+
+262
+0:13:43,64 --> 0:13:46,6
+We help them improve these
+public health centers
+
+
+263
+0:13:46,6 --> 0:13:49,28
+to the point where they
+are cash flow positive.
+
+
+264
+0:13:49,28 --> 0:13:51,94
+They're real
+functional businesses.
+
+
+265
+0:13:51,94 --> 0:13:54,34
+And then we do
+something landmark.
+
+
+266
+0:13:54,34 --> 0:13:57,83
+We actually let them go.
+
+
+267
+0:13:57,83 --> 0:14:1,0
+Because that's one of the keys
+to doing development right
+
+
+268
+0:14:1,0 --> 0:14:3,97
+is knowing when
+you've done your job
+
+
+269
+0:14:3,97 --> 0:14:8,23
+and when everyone can
+take over and manage
+
+
+270
+0:14:8,23 --> 0:14:10,84
+the future of the health
+center or the restaurant.
+
+
+271
+0:14:10,84 --> 0:14:13,47
+Though we're not
+there yet with Heaven.
+
+
+272
+0:14:13,47 --> 0:14:17,97
+And this is an example
+of that thinking
+
+
+273
+0:14:17,97 --> 0:14:20,58
+around financial
+sustainability put to use.
+
+
+274
+0:14:20,58 --> 0:14:25,24
+This is a health center right
+up by the mountain gorillas up
+
+
+275
+0:14:25,24 --> 0:14:27,1
+in the northern
+part of the country.
+
+
+276
+0:14:27,1 --> 0:14:30,67
+It was co-financed by a
+donor, a very generous donor,
+
+
+277
+0:14:30,67 --> 0:14:33,55
+and by local funds.
+
+
+278
+0:14:33,55 --> 0:14:38,47
+So we put together a public
+contract and built it.
+
+
+279
+0:14:38,47 --> 0:14:42,67
+And then we trained the staff
+up and opened the doors.
+
+
+280
+0:14:42,67 --> 0:14:45,32
+There's no plaque there
+that says Health Builders.
+
+
+281
+0:14:45,32 --> 0:14:48,91
+It is a government of
+Rwanda health facility,
+
+
+282
+0:14:48,91 --> 0:14:52,1
+and it runs on its own.
+
+
+283
+0:14:52,1 --> 0:14:54,62
+So that's really
+the way that I see
+
+
+284
+0:14:54,62 --> 0:14:56,69
+the future of
+development happening
+
+
+285
+0:14:56,69 --> 0:15:0,94
+is that in countries
+like Rwanda, where
+
+
+286
+0:15:0,94 --> 0:15:2,93
+the government cares
+about the public's health
+
+
+287
+0:15:2,93 --> 0:15:6,85
+and really cares about real
+development and poverty
+
+
+288
+0:15:6,85 --> 0:15:10,92
+eradication, it's going to
+be between the public sector
+
+
+289
+0:15:10,92 --> 0:15:12,36
+and the private sector.
+
+
+290
+0:15:12,36 --> 0:15:16,17
+The very first night
+that Heaven opened,
+
+
+291
+0:15:16,17 --> 0:15:17,98
+my country director
+for the health work
+
+
+292
+0:15:17,98 --> 0:15:21,4
+is a guy named [INAUDIBLE]
+Carabucci, huge guy,
+
+
+293
+0:15:21,4 --> 0:15:21,98
+really tall.
+
+
+294
+0:15:21,98 --> 0:15:23,4
+He says he's 6 foot 6.
+
+
+295
+0:15:23,4 --> 0:15:26,11
+I think he's over 7 feet.
+
+
+296
+0:15:26,11 --> 0:15:33,3
+And he walks in, looks out
+over 150 customers in Heaven,
+
+
+297
+0:15:33,3 --> 0:15:39,2
+grabs my wife, and says,
+we don't need aid anymore.
+
+
+298
+0:15:39,2 --> 0:15:42,43
+We don't need donor
+assistance anymore in Rwanda.
+
+
+299
+0:15:42,43 --> 0:15:46,18
+What we need is a
+thousand Heavens.
+
+
+300
+0:15:46,18 --> 0:15:48,46
+We actually need
+lots of businesses
+
+
+301
+0:15:48,46 --> 0:15:50,95
+like this that are investing
+in management training, that
+
+
+302
+0:15:50,95 --> 0:15:52,599
+are generating salaries.
+
+
+303
+0:15:52,599 --> 0:15:54,39
+That's what's going to
+change this country.
+
+
+304
+0:15:54,39 --> 0:15:56,95
+That's what's going
+to change the world.
+
+
+305
+0:15:56,95 --> 0:15:57,72
+And actually that
+was the working title
+
+
+306
+0:15:57,72 --> 0:16:0,29
+for a while for the book.
+
+
+307
+0:16:0,29 --> 0:16:6,21
+So, I know that a lot of
+people often ask me, well,
+
+
+308
+0:16:6,21 --> 0:16:7,307
+how do I have impact?
+
+
+309
+0:16:7,307 --> 0:16:8,39
+I want to become a doctor.
+
+
+310
+0:16:8,39 --> 0:16:9,431
+I want to become a nurse.
+
+
+311
+0:16:9,431 --> 0:16:11,42
+Or I want to go to
+public health school
+
+
+312
+0:16:11,42 --> 0:16:14,7
+because I want to
+make a difference.
+
+
+313
+0:16:14,7 --> 0:16:19,11
+And my top-level
+advice on that front
+
+
+314
+0:16:19,11 --> 0:16:23,99
+is, you don't have to do those
+things in order to have impact.
+
+
+315
+0:16:23,99 --> 0:16:28,14
+And for that matter, you
+don't have to become a martyr,
+
+
+316
+0:16:28,14 --> 0:16:32,54
+sacrifice yourself, in
+order to have huge impact.
+
+
+317
+0:16:32,54 --> 0:16:35,11
+I think that's a little bit
+of the conventional wisdom
+
+
+318
+0:16:35,11 --> 0:16:37,29
+is you've got to
+give everything up
+
+
+319
+0:16:37,29 --> 0:16:41,18
+in order to reduce poverty
+and have social impact.
+
+
+320
+0:16:41,18 --> 0:16:43,78
+And our experience has
+been much different.
+
+
+321
+0:16:43,78 --> 0:16:45,14
+We have a good life.
+
+
+322
+0:16:45,14 --> 0:16:48,13
+We've got three kids.
+
+
+323
+0:16:48,13 --> 0:16:52,36
+We have high stress, high
+anxiety, just like everybody
+
+
+324
+0:16:52,36 --> 0:16:53,83
+does with their jobs.
+
+
+325
+0:16:53,83 --> 0:16:59,35
+But we feel really
+lucky to live in Rwanda
+
+
+326
+0:16:59,35 --> 0:17:2,59
+and to have the opportunity
+to make a contribution
+
+
+327
+0:17:2,59 --> 0:17:6,52
+in a way that is dignifying
+and in a way that
+
+
+328
+0:17:6,52 --> 0:17:10,55
+is led by the Rwandan
+people and by our friends.
+
+
+329
+0:17:10,55 --> 0:17:13,359
+So with that I wanted to
+open it up to all of you
+
+
+330
+0:17:13,359 --> 0:17:17,64
+and have a little bit of a
+discussion about this very
+
+
+331
+0:17:17,64 --> 0:17:18,609
+large restaurant.
+
+
+332
+0:17:18,609 --> 0:17:19,95
+We can seat up to 200.
+
+
+333
+0:17:19,95 --> 0:17:24,0
+In fact, there were 200 people
+in last night, called Heaven.
+
+
+334
+0:17:24,0 --> 0:17:26,8
+AUDIENCE: So, it's a high-end
+restaurant, and it's serving,
+
+
+335
+0:17:26,8 --> 0:17:28,65
+I'm assuming, wealthier people.
+
+
+336
+0:17:28,65 --> 0:17:31,53
+Are the people that mostly
+come in native Rwandans
+
+
+337
+0:17:31,53 --> 0:17:32,6
+or more tourists?
+
+
+338
+0:17:32,6 --> 0:17:33,84
+JOSH RUXIN: It's a split.
+
+
+339
+0:17:33,84 --> 0:17:36,44
+So, about a third
+of our clientele
+
+
+340
+0:17:36,44 --> 0:17:41,25
+are tourists who have come to
+see the gorillas in the mist.
+
+
+341
+0:17:41,25 --> 0:17:44,44
+And about a third are expats.
+
+
+342
+0:17:44,44 --> 0:17:46,61
+There's over 3,000
+Americans, for example,
+
+
+343
+0:17:46,61 --> 0:17:48,16
+who live in Kigali.
+
+
+344
+0:17:48,16 --> 0:17:54,1
+And about a third are Rwandans,
+mainly higher class Rwandans.
+
+
+345
+0:17:54,1 --> 0:17:57,93
+But if it's Mother's
+Day, if it's a birthday,
+
+
+346
+0:17:57,93 --> 0:18:3,34
+if it's Christmas Eve or New
+Year's, it is a total mix,
+
+
+347
+0:18:3,34 --> 0:18:6,56
+and it's almost all Rwandese.
+
+
+348
+0:18:6,56 --> 0:18:10,39
+Rwandans actually-- this has
+been a real challenge for us--
+
+
+349
+0:18:10,39 --> 0:18:13,73
+don't have a culture of food.
+
+
+350
+0:18:13,73 --> 0:18:15,79
+And eating was
+actually something
+
+
+351
+0:18:15,79 --> 0:18:18,5
+done at home, done
+behind closed doors.
+
+
+352
+0:18:18,5 --> 0:18:20,53
+Maybe that grew out of
+the scarcity of food
+
+
+353
+0:18:20,53 --> 0:18:22,27
+over generations.
+
+
+354
+0:18:22,27 --> 0:18:29,59
+And so you will find Rwandese
+who drive in Porsche Cayennes,
+
+
+355
+0:18:29,59 --> 0:18:32,65
+but they insist
+on eating at home.
+
+
+356
+0:18:32,65 --> 0:18:37,74
+So it's been a challenge for
+us to really teach and educate
+
+
+357
+0:18:37,74 --> 0:18:41,589
+the market about great food
+and what that tastes like.
+
+
+358
+0:18:41,589 --> 0:18:43,38
+AUDIENCE: And then,
+just a quick follow-up,
+
+
+359
+0:18:43,38 --> 0:18:45,63
+I guess what I was
+wondering is did you
+
+
+360
+0:18:45,63 --> 0:18:48,78
+get any backlash in terms of
+having people lift themselves
+
+
+361
+0:18:48,78 --> 0:18:52,39
+out of poverty but also with
+this kind of contrasting
+
+
+362
+0:18:52,39 --> 0:18:55,624
+high-end restaurant,
+so the idea of people
+
+
+363
+0:18:55,624 --> 0:18:57,4
+taking jobs to
+lift themselves out
+
+
+364
+0:18:57,4 --> 0:19:1,96
+of poverty by serving people
+that are wealthier than them?
+
+
+365
+0:19:1,96 --> 0:19:2,99
+JOSH RUXIN: No.
+
+
+366
+0:19:2,99 --> 0:19:5,69
+AUDIENCE: I mean just in
+terms of a class issue.
+
+
+367
+0:19:5,69 --> 0:19:7,15
+JOSH RUXIN: No, I
+don't think over
+
+
+368
+0:19:7,15 --> 0:19:9,41
+the years we've ever
+seen that class issue.
+
+
+369
+0:19:9,41 --> 0:19:12,67
+AUDIENCE: So the focus is just
+really positive on the job
+
+
+370
+0:19:12,67 --> 0:19:14,522
+creation and everything
+that's going on?
+
+
+371
+0:19:14,522 --> 0:19:15,48
+JOSH RUXIN: Absolutely.
+
+
+372
+0:19:15,48 --> 0:19:15,816
+AUDIENCE: That's awesome.
+
+
+373
+0:19:15,816 --> 0:19:16,49
+JOSH RUXIN: Yes.
+
+
+374
+0:19:16,49 --> 0:19:17,74
+AUDIENCE: I have two question.
+
+
+375
+0:19:17,74 --> 0:19:20,46
+The first one, you mentioned
+that you left to Rwanda
+
+
+376
+0:19:20,46 --> 0:19:22,355
+and never came back.
+
+
+377
+0:19:22,355 --> 0:19:23,98
+So the first question
+is, what happened
+
+
+378
+0:19:23,98 --> 0:19:26,755
+with the rest of your family,
+extended family, friends?
+
+
+379
+0:19:26,755 --> 0:19:27,63
+Were they supportive?
+
+
+380
+0:19:27,63 --> 0:19:29,9
+JOSH RUXIN: Oh, the
+family back here--
+
+
+381
+0:19:29,9 --> 0:19:29,875
+AUDIENCE: Yes, exactly.
+
+
+382
+0:19:29,875 --> 0:19:31,8
+JOSH RUXIN: Oh yeah, I
+was just about to say,
+
+
+383
+0:19:31,8 --> 0:19:32,827
+that whole family's
+in Kigali right now.
+
+
+384
+0:19:32,827 --> 0:19:34,66
+AUDIENCE: No, exactly,
+that's the first one.
+
+
+385
+0:19:34,66 --> 0:19:37,9
+And the second one is that
+because of those connection,
+
+
+386
+0:19:37,9 --> 0:19:40,94
+maybe, did they help
+either via donation
+
+
+387
+0:19:40,94 --> 0:19:43,36
+or some of your friends decided
+to go there and help you?
+
+
+388
+0:19:43,36 --> 0:19:45,31
+Or did they just
+say, hey, good luck.
+
+
+389
+0:19:45,31 --> 0:19:46,78
+We wish you the best.
+
+
+390
+0:19:46,78 --> 0:19:50,8
+JOSH RUXIN: Well, we are
+not independently wealthy
+
+
+391
+0:19:50,8 --> 0:19:52,73
+and when we were
+building Heaven ran
+
+
+392
+0:19:52,73 --> 0:19:54,83
+into cost overruns,
+cost overruns.
+
+
+393
+0:19:54,83 --> 0:19:57,1
+We had actually taken
+out a second mortgage
+
+
+394
+0:19:57,1 --> 0:19:59,84
+on our apartment back in New
+York City, which of course we
+
+
+395
+0:19:59,84 --> 0:20:2,53
+had had every
+intention to return to.
+
+
+396
+0:20:2,53 --> 0:20:4,79
+And then we burned through
+that second mortgage
+
+
+397
+0:20:4,79 --> 0:20:7,83
+and then contacted
+our immediate family
+
+
+398
+0:20:7,83 --> 0:20:10,54
+and asked them to help us
+out and write some checks.
+
+
+399
+0:20:10,54 --> 0:20:12,33
+And then we burned
+through all that.
+
+
+400
+0:20:12,33 --> 0:20:15,45
+And we were feeling very
+sheepish before even opening
+
+
+401
+0:20:15,45 --> 0:20:18,35
+the doors and turned
+to friends and had
+
+
+402
+0:20:18,35 --> 0:20:20,7
+them write checks,
+not as donations.
+
+
+403
+0:20:20,7 --> 0:20:23,6
+And over the course of
+the first two years,
+
+
+404
+0:20:23,6 --> 0:20:26,64
+we actually paid off all
+the friends and family,
+
+
+405
+0:20:26,64 --> 0:20:31,2
+and then just last year paid
+off the rest of the debt.
+
+
+406
+0:20:31,2 --> 0:20:33,38
+So that's the debt
+situation, which isn't really
+
+
+407
+0:20:33,38 --> 0:20:35,87
+what your question
+was referring to.
+
+
+408
+0:20:35,87 --> 0:20:38,62
+In terms of family
+and their reaction,
+
+
+409
+0:20:38,62 --> 0:20:40,786
+they come and they visit.
+
+
+410
+0:20:40,786 --> 0:20:44,23
+They always expected
+that we would come back.
+
+
+411
+0:20:44,23 --> 0:20:47,28
+But here's something
+interesting,
+
+
+412
+0:20:47,28 --> 0:20:50,59
+which is, when I started
+working in development
+
+
+413
+0:20:50,59 --> 0:20:53,3
+back when I graduated
+from university,
+
+
+414
+0:20:53,3 --> 0:20:55,45
+I remember this
+is the early '90s,
+
+
+415
+0:20:55,45 --> 0:20:57,16
+and I was living in Bolivia.
+
+
+416
+0:20:57,16 --> 0:21:3,48
+And I would receive a letter
+and read the letter every day
+
+
+417
+0:21:3,48 --> 0:21:6,42
+for a month and a half
+until I got another letter.
+
+
+418
+0:21:6,42 --> 0:21:9,47
+
+
+
+419
+0:21:9,47 --> 0:21:12,95
+And my kids on a
+weekly basis get
+
+
+420
+0:21:12,95 --> 0:21:16,23
+to use Skype video with
+their grandparents.
+
+
+421
+0:21:16,23 --> 0:21:18,82
+I get to see my
+friends all the time.
+
+
+422
+0:21:18,82 --> 0:21:22,79
+It is completely transformed
+what that experience is.
+
+
+423
+0:21:22,79 --> 0:21:26,73
+Literally distance
+has been destroyed.
+
+
+424
+0:21:26,73 --> 0:21:30,405
+And it's so much easier than
+it ever was before to do it.
+
+
+425
+0:21:30,405 --> 0:21:33,12
+Of course, when I tell
+my wife that who's
+
+
+426
+0:21:33,12 --> 0:21:37,77
+about to board 32
+hours of transport
+
+
+427
+0:21:37,77 --> 0:21:41,9
+with the three kids this
+Friday evening, she says,
+
+
+428
+0:21:41,9 --> 0:21:42,3
+no, it's not any easier.
+
+
+429
+0:21:42,3 --> 0:21:46,4
+Can't we just go on holiday
+break in the neighborhood?
+
+
+430
+0:21:46,4 --> 0:21:49,77
+But outside of
+that, the families
+
+
+431
+0:21:49,77 --> 0:21:51,89
+have been incredibly supportive.
+
+
+432
+0:21:51,89 --> 0:21:52,97
+And they love Rwanda.
+
+
+433
+0:21:52,97 --> 0:21:56,43
+I mean, everyone has
+fallen in love with Rwanda.
+
+
+434
+0:21:56,43 --> 0:21:59,49
+It really is this
+incredible jewel.
+
+
+435
+0:21:59,49 --> 0:22:3,34
+And I think they all see
+our hope, and our dream,
+
+
+436
+0:22:3,34 --> 0:22:5,73
+and our imagination,
+which is, let's not
+
+
+437
+0:22:5,73 --> 0:22:8,62
+leave all the great things
+in Rwanda in Rwanda.
+
+
+438
+0:22:8,62 --> 0:22:9,94
+Let's expand it.
+
+
+439
+0:22:9,94 --> 0:22:12,5
+Let's expand the health
+work to other countries.
+
+
+440
+0:22:12,5 --> 0:22:14,82
+Let's expand Heaven
+to other places.
+
+
+441
+0:22:14,82 --> 0:22:18,35
+Actually Alissa opened up a
+little boutique guest house
+
+
+442
+0:22:18,35 --> 0:22:19,23
+just last year.
+
+
+443
+0:22:19,23 --> 0:22:21,84
+It's been one of the best
+parts of the whole business,
+
+
+444
+0:22:21,84 --> 0:22:24,48
+and she wants to expand
+it to create more jobs
+
+
+445
+0:22:24,48 --> 0:22:30,255
+and hospitality to really get
+a feel for the whole spectrum
+
+
+446
+0:22:30,255 --> 0:22:34,71
+of what international
+consumers are looking for.
+
+
+447
+0:22:34,71 --> 0:22:37,73
+AUDIENCE: So you hear a
+lot in Uganda and Nigeria
+
+
+448
+0:22:37,73 --> 0:22:40,72
+about sort of the problem
+with brain drain and people
+
+
+449
+0:22:40,72 --> 0:22:43,65
+having aspirations to leave
+the country for education
+
+
+450
+0:22:43,65 --> 0:22:46,784
+and maybe having
+intentions to come back.
+
+
+451
+0:22:46,784 --> 0:22:48,2
+I know Rwanda's a
+little different
+
+
+452
+0:22:48,2 --> 0:22:50,605
+with the recent history,
+but how is the education
+
+
+453
+0:22:50,605 --> 0:22:51,23
+infrastructure?
+
+
+454
+0:22:51,23 --> 0:22:55,2
+Do a lot of people want to
+leave Rwanda for education?
+
+
+455
+0:22:55,2 --> 0:22:56,27
+JOSH RUXIN: They certainly do.
+
+
+456
+0:22:56,27 --> 0:23:1,6
+But first off, Rwanda is
+a tale of exceptionalism
+
+
+457
+0:23:1,6 --> 0:23:6,19
+because the genocide
+didn't just happen in 1994.
+
+
+458
+0:23:6,19 --> 0:23:9,47
+You've got to go back to
+1959 to see its roots.
+
+
+459
+0:23:9,47 --> 0:23:13,12
+And from 1959 to 1994, you
+had hundreds of thousands
+
+
+460
+0:23:13,12 --> 0:23:15,67
+of people who left the country.
+
+
+461
+0:23:15,67 --> 0:23:18,52
+Some lived in refugee camps
+in Uganda and elsewhere.
+
+
+462
+0:23:18,52 --> 0:23:23,79
+But some made their way to the
+States, to the UK, to Belgium.
+
+
+463
+0:23:23,79 --> 0:23:28,22
+They got educated, and as
+soon as the war was over
+
+
+464
+0:23:28,22 --> 0:23:31,68
+and the genocide was over,
+they started coming back in.
+
+
+465
+0:23:31,68 --> 0:23:34,2
+And so you literally
+had this case
+
+
+466
+0:23:34,2 --> 0:23:35,93
+of the reverse of brain drain.
+
+
+467
+0:23:35,93 --> 0:23:37,61
+You had incredibly
+skilled people
+
+
+468
+0:23:37,61 --> 0:23:40,1
+who were exposed to
+the outside world.
+
+
+469
+0:23:40,1 --> 0:23:42,32
+Bear in mind, you
+saw the map before.
+
+
+470
+0:23:42,32 --> 0:23:43,41
+Rwanda is landlocked.
+
+
+471
+0:23:43,41 --> 0:23:44,39
+There's no poor.
+
+
+472
+0:23:44,39 --> 0:23:46,34
+It was never on a spice route.
+
+
+473
+0:23:46,34 --> 0:23:48,92
+And so critically,
+that is in part
+
+
+474
+0:23:48,92 --> 0:23:53,4
+where the prosperity
+and the future of Rwanda
+
+
+475
+0:23:53,4 --> 0:23:56,54
+has been pinned, all these
+people who actually came back
+
+
+476
+0:23:56,54 --> 0:23:58,945
+with real knowledge
+about what's going
+
+
+477
+0:23:58,945 --> 0:24:1,57
+on in the outside world, what's
+happening in technology, what's
+
+
+478
+0:24:1,57 --> 0:24:3,15
+happening in business.
+
+
+479
+0:24:3,15 --> 0:24:7,69
+So today what
+happens, certainly, I
+
+
+480
+0:24:7,69 --> 0:24:12,0
+know lots of students who have
+gone abroad and stayed abroad.
+
+
+481
+0:24:12,0 --> 0:24:16,11
+But I also know a whole lot who
+have gone abroad and come back
+
+
+482
+0:24:16,11 --> 0:24:19,76
+for jobs in tech
+and jobs in banking.
+
+
+483
+0:24:19,76 --> 0:24:22,39
+I wish they would come
+back for jobs at Heaven,
+
+
+484
+0:24:22,39 --> 0:24:26,4
+because that level of
+management is really needed.
+
+
+485
+0:24:26,4 --> 0:24:27,416
+It's needed at Heaven.
+
+
+486
+0:24:27,416 --> 0:24:28,79
+It's needed in
+the health sector.
+
+
+487
+0:24:28,79 --> 0:24:30,98
+It's needed in all those areas.
+
+
+488
+0:24:30,98 --> 0:24:32,27
+And it is building.
+
+
+489
+0:24:32,27 --> 0:24:36,79
+But Rwanda is essentially
+a new country, so reborn
+
+
+490
+0:24:36,79 --> 0:24:38,89
+just 19 years ago.
+
+
+491
+0:24:38,89 --> 0:24:41,78
+The 20th anniversary is
+coming up of the genocide.
+
+
+492
+0:24:41,78 --> 0:24:45,31
+And I think a lot of
+people with Mandela's death
+
+
+493
+0:24:45,31 --> 0:24:47,73
+are starting to think
+about that and remember,
+
+
+494
+0:24:47,73 --> 0:24:51,8
+oh yeah, when Nelson Mandela
+was elected president-- that
+
+
+495
+0:24:51,8 --> 0:24:55,42
+was in April 1994--
+all eyes were on that
+
+
+496
+0:24:55,42 --> 0:24:58,89
+while the genocide was
+unfolding in Rwanda.
+
+
+497
+0:24:58,89 --> 0:25:0,64
+And I think that
+it's unfortunate
+
+
+498
+0:25:0,64 --> 0:25:5,7
+that we look to Africa now, and
+we think about Mandela's legacy
+
+
+499
+0:25:5,7 --> 0:25:8,21
+and overlook the fact
+that one of the best
+
+
+500
+0:25:8,21 --> 0:25:11,26
+stories of leadership, and
+growth, and prosperity,
+
+
+501
+0:25:11,26 --> 0:25:13,365
+and stability on
+the entire continent
+
+
+502
+0:25:13,365 --> 0:25:17,26
+and in the entire world is
+up to the north in the place
+
+
+503
+0:25:17,26 --> 0:25:18,916
+that I call home.
+
+
+504
+0:25:18,916 --> 0:25:22,49
+AUDIENCE: Hi, I just want to
+say I was in Rwanda in 2008,
+
+
+505
+0:25:22,49 --> 0:25:23,74
+and I went to your restaurant.
+
+
+506
+0:25:23,74 --> 0:25:24,28
+JOSH RUXIN: Thank you
+for being a patron.
+
+
+507
+0:25:24,28 --> 0:25:26,696
+AUDIENCE: And it was one of
+the most memorable experiences
+
+
+508
+0:25:26,696 --> 0:25:28,3
+I had in Africa.
+
+
+509
+0:25:28,3 --> 0:25:30,63
+And I also wondered if you
+had any experience starting
+
+
+510
+0:25:30,63 --> 0:25:34,74
+restaurants in the US and if
+you ran into any reluctance
+
+
+511
+0:25:34,74 --> 0:25:37,444
+from the local people about an
+American starting a business.
+
+
+512
+0:25:37,444 --> 0:25:39,61
+Because when I was there,
+I was under the impression
+
+
+513
+0:25:39,61 --> 0:25:41,77
+it was an African-owned
+restaurant.
+
+
+514
+0:25:41,77 --> 0:25:45,0
+Because we were told
+it was run by orphans.
+
+
+515
+0:25:45,0 --> 0:25:47,81
+And it didn't have the
+feeling of an American
+
+
+516
+0:25:47,81 --> 0:25:50,607
+or a foreign-owned business.
+
+
+517
+0:25:50,607 --> 0:25:51,94
+JOSH RUXIN: That's good to hear.
+
+
+518
+0:25:51,94 --> 0:25:54,75
+I guess I wasn't
+working that night.
+
+
+519
+0:25:54,75 --> 0:25:59,84
+So, I suppose if we had had
+any restaurant experience,
+
+
+520
+0:25:59,84 --> 0:26:2,717
+we might not have been so
+naive as to have gotten
+
+
+521
+0:26:2,717 --> 0:26:4,3
+into this business
+in the first place.
+
+
+522
+0:26:4,3 --> 0:26:6,11
+It's the world's
+hardest business.
+
+
+523
+0:26:6,11 --> 0:26:12,4
+And Alissa outside of a
+short stint as a barista
+
+
+524
+0:26:12,4 --> 0:26:16,61
+had no experienced in
+any related industry.
+
+
+525
+0:26:16,61 --> 0:26:18,37
+I actually was
+always the one who
+
+
+526
+0:26:18,37 --> 0:26:20,5
+wore the apron in
+the relationship.
+
+
+527
+0:26:20,5 --> 0:26:23,35
+She's cooked, in the
+course of our marriage
+
+
+528
+0:26:23,35 --> 0:26:27,4
+and our relationship,
+exactly one meal for me.
+
+
+529
+0:26:27,4 --> 0:26:29,139
+And that was very early on.
+
+
+530
+0:26:29,139 --> 0:26:30,68
+I've done all the
+cooking ever since.
+
+
+531
+0:26:30,68 --> 0:26:32,54
+And in the early
+days, I actually
+
+
+532
+0:26:32,54 --> 0:26:35,3
+did a lot of the cooking
+and a lot of the training
+
+
+533
+0:26:35,3 --> 0:26:36,59
+back in the kitchen.
+
+
+534
+0:26:36,59 --> 0:26:37,67
+I love food.
+
+
+535
+0:26:37,67 --> 0:26:38,83
+I love cooking.
+
+
+536
+0:26:38,83 --> 0:26:40,19
+I am not a chef.
+
+
+537
+0:26:40,19 --> 0:26:42,1
+I recognize my
+shortcomings, and that's
+
+
+538
+0:26:42,1 --> 0:26:44,25
+why we started bringing
+on international chefs
+
+
+539
+0:26:44,25 --> 0:26:45,61
+to think about the management.
+
+
+540
+0:26:45,61 --> 0:26:49,1
+And there's so much to
+think about in terms
+
+
+541
+0:26:49,1 --> 0:26:51,3
+of inventory and planing.
+
+
+542
+0:26:51,3 --> 0:26:57,63
+And as Americans in Rwanda
+starting up a business
+
+
+543
+0:26:57,63 --> 0:27:1,44
+and starting up a
+restaurant, we were embraced.
+
+
+544
+0:27:1,44 --> 0:27:4,21
+I mean, it took no
+more than 48 hours
+
+
+545
+0:27:4,21 --> 0:27:5,4
+to incorporate the business.
+
+
+546
+0:27:5,4 --> 0:27:8,2
+
+
+
+547
+0:27:8,2 --> 0:27:10,484
+Anyone, any one of you
+can come to Rwanda.
+
+
+548
+0:27:10,484 --> 0:27:11,9
+If you've got a
+business idea, you
+
+
+549
+0:27:11,9 --> 0:27:15,27
+can literally go to the
+Rwanda Development Board,
+
+
+550
+0:27:15,27 --> 0:27:17,3
+incorporate your
+business, and get moving.
+
+
+551
+0:27:17,3 --> 0:27:19,26
+It is effortless there.
+
+
+552
+0:27:19,26 --> 0:27:22,56
+So they really are
+welcoming private investment
+
+
+553
+0:27:22,56 --> 0:27:25,89
+and bringing entrepreneurial
+skills and management
+
+
+554
+0:27:25,89 --> 0:27:27,59
+to the country.
+
+
+555
+0:27:27,59 --> 0:27:29,635
+AUDIENCE: So you said
+you weren't there yet
+
+
+556
+0:27:29,635 --> 0:27:35,78
+in terms of handing off
+Heaven to be owned maybe
+
+
+557
+0:27:35,78 --> 0:27:38,19
+by the people that work there.
+
+
+558
+0:27:38,19 --> 0:27:39,58
+Are there plans to do that?
+
+
+559
+0:27:39,58 --> 0:27:40,56
+What's the timeline?
+
+
+560
+0:27:40,56 --> 0:27:43,67
+What does that look like?
+
+
+561
+0:27:43,67 --> 0:27:46,35
+JOSH RUXIN: Well, I think we're
+in an interesting position
+
+
+562
+0:27:46,35 --> 0:27:46,92
+right now.
+
+
+563
+0:27:46,92 --> 0:27:53,12
+The restaurant and the
+inn are doing well.
+
+
+564
+0:27:53,12 --> 0:27:56,63
+But it still does take an
+enormous amount of effort
+
+
+565
+0:27:56,63 --> 0:28:0,32
+from my wife, and on a really
+busy night from both of us.
+
+
+566
+0:28:0,32 --> 0:28:2,58
+It's sort of still all
+hands on deck because
+
+
+567
+0:28:2,58 --> 0:28:4,83
+of the unpredictability
+of the business.
+
+
+568
+0:28:4,83 --> 0:28:11,57
+And it's very hard to build that
+management set in Heaven staff
+
+
+569
+0:28:11,57 --> 0:28:13,68
+and bring them up to
+that management level.
+
+
+570
+0:28:13,68 --> 0:28:17,4
+We're constantly working on
+that and aiming for that.
+
+
+571
+0:28:17,4 --> 0:28:19,45
+And I think one of
+the solutions for it
+
+
+572
+0:28:19,45 --> 0:28:23,6
+is Heaven actually needs to
+grow to be a little bit bigger
+
+
+573
+0:28:23,6 --> 0:28:27,91
+as a business in order to
+have international trainers
+
+
+574
+0:28:27,91 --> 0:28:30,67
+constantly on board,
+constantly on staff,
+
+
+575
+0:28:30,67 --> 0:28:34,19
+so that we can move
+on and do other things
+
+
+576
+0:28:34,19 --> 0:28:37,68
+and not be as engaged in
+day-to-day management.
+
+
+577
+0:28:37,68 --> 0:28:40,53
+That said, compared
+to back in 2008,
+
+
+578
+0:28:40,53 --> 0:28:44,12
+when Alyssa and I would be
+at the restaurant until 1:00
+
+
+579
+0:28:44,12 --> 0:28:45,96
+in the morning
+every single night,
+
+
+580
+0:28:45,96 --> 0:28:50,13
+and then I went to my day job,
+which was in public health.
+
+
+581
+0:28:50,13 --> 0:28:53,67
+Compared to those days,
+we are very, very far
+
+
+582
+0:28:53,67 --> 0:28:57,21
+advanced and much, much
+closer to the realization
+
+
+583
+0:28:57,21 --> 0:28:58,82
+of that sustainability.
+
+
+584
+0:28:58,82 --> 0:29:1,556
+But the restaurant business
+is a little tricky.
+
+
+585
+0:29:1,556 --> 0:29:3,43
+It doesn't matter where
+you are in the world.
+
+
+586
+0:29:3,43 --> 0:29:5,71
+You know when the
+owner is not around.
+
+
+587
+0:29:5,71 --> 0:29:8,75
+That's just the
+nature of the beast.
+
+
+588
+0:29:8,75 --> 0:29:12,7
+And I hope that we can
+really get to that point.
+
+
+589
+0:29:12,7 --> 0:29:18,63
+At the same time, Heaven has
+become this incredible platform
+
+
+590
+0:29:18,63 --> 0:29:21,35
+for Alissa in particular
+to build out her ideas.
+
+
+591
+0:29:21,35 --> 0:29:25,49
+So last Saturday, she hosted
+on that beautiful terrace
+
+
+592
+0:29:25,49 --> 0:29:29,1
+the very first farmers
+market in Rwanda's history
+
+
+593
+0:29:29,1 --> 0:29:32,68
+and got all sorts of
+organic growers and people
+
+
+594
+0:29:32,68 --> 0:29:34,41
+producing really
+interesting products
+
+
+595
+0:29:34,41 --> 0:29:36,43
+to come in and do that.
+
+
+596
+0:29:36,43 --> 0:29:39,29
+There's theater that
+happens that she brings in
+
+
+597
+0:29:39,29 --> 0:29:40,62
+and art exhibitions.
+
+
+598
+0:29:40,62 --> 0:29:44,54
+And so it's a lot more than just
+dishing up food and dishing up
+
+
+599
+0:29:44,54 --> 0:29:46,21
+a great customer experience.
+
+
+600
+0:29:46,21 --> 0:29:48,8
+It's also about serving
+as a real cultural venue
+
+
+601
+0:29:48,8 --> 0:29:52,61
+to show off all the great things
+that are happening in Rwanda.
+
+
+602
+0:29:52,61 --> 0:29:54,86
+AUDIENCE: So I was actually
+born and raised in Kigali,
+
+
+603
+0:29:54,86 --> 0:29:56,41
+and I'm half Rwandan.
+
+
+604
+0:29:56,41 --> 0:29:58,779
+And I went to your
+restaurant in 2011.
+
+
+605
+0:29:58,779 --> 0:29:59,57
+It was really good.
+
+
+606
+0:29:59,57 --> 0:30:2,7
+And I want to thank you
+for spreading the gospel.
+
+
+607
+0:30:2,7 --> 0:30:5,32
+But my question was, you
+have mentioned many times
+
+
+608
+0:30:5,32 --> 0:30:9,7
+how exceptionally run Rwanda
+was and how safe it is.
+
+
+609
+0:30:9,7 --> 0:30:12,68
+What are your thoughts
+on aid for places
+
+
+610
+0:30:12,68 --> 0:30:16,44
+that aren't run like Rwanda?
+
+
+611
+0:30:16,44 --> 0:30:18,65
+JOSH RUXIN: So as you
+will read in the book,
+
+
+612
+0:30:18,65 --> 0:30:21,31
+I have pretty
+strong views on this
+
+
+613
+0:30:21,31 --> 0:30:25,92
+that when you think about
+aid and the level of aid,
+
+
+614
+0:30:25,92 --> 0:30:28,96
+for example, of the US
+government in Rwanda,
+
+
+615
+0:30:28,96 --> 0:30:31,63
+it's been well placed
+and well positioned.
+
+
+616
+0:30:31,63 --> 0:30:36,36
+Rwanda is famous for having some
+of the world's lowest levels
+
+
+617
+0:30:36,36 --> 0:30:37,66
+of corruption.
+
+
+618
+0:30:37,66 --> 0:30:40,71
+And I'm all for
+that kind of aid.
+
+
+619
+0:30:40,71 --> 0:30:43,71
+Because when the
+government in particular
+
+
+620
+0:30:43,71 --> 0:30:47,81
+cares about the public's health
+and the public's development--
+
+
+621
+0:30:47,81 --> 0:30:49,28
+you haven't been
+there since 2011?
+
+
+622
+0:30:49,28 --> 0:30:50,196
+AUDIENCE: [INAUDIBLE].
+
+
+623
+0:30:50,196 --> 0:30:54,34
+JOSH RUXIN: Wi-Fi is on the
+public buses now in Kigali.
+
+
+624
+0:30:54,34 --> 0:30:57,85
+It's just extraordinary
+the ambition of the place.
+
+
+625
+0:30:57,85 --> 0:31:1,1
+But I've worked in so
+many other countries
+
+
+626
+0:31:1,1 --> 0:31:4,44
+where government
+officials have asked me
+
+
+627
+0:31:4,44 --> 0:31:8,14
+for bribes, where I felt as
+though the work of Health
+
+
+628
+0:31:8,14 --> 0:31:11,19
+Builders just could
+not take off because
+
+
+629
+0:31:11,19 --> 0:31:14,2
+of the corruption of
+the public sector.
+
+
+630
+0:31:14,2 --> 0:31:17,7
+And in a world where
+realistically, we've
+
+
+631
+0:31:17,7 --> 0:31:21,43
+got finite resources,
+sadly, for doing things
+
+
+632
+0:31:21,43 --> 0:31:24,42
+like public health,
+I would much rather
+
+
+633
+0:31:24,42 --> 0:31:28,89
+see those funds channeled to
+countries like Rwanda that
+
+
+634
+0:31:28,89 --> 0:31:34,12
+have a plan for sustainability,
+that have a plan for not
+
+
+635
+0:31:34,12 --> 0:31:36,83
+accepting donor
+aid in the future
+
+
+636
+0:31:36,83 --> 0:31:40,5
+in building out a tax base
+to do it on their own.
+
+
+637
+0:31:40,5 --> 0:31:43,2
+And I get enraged
+when I see countries
+
+
+638
+0:31:43,2 --> 0:31:47,38
+which have the resources, have
+the means, have the wealth
+
+
+639
+0:31:47,38 --> 0:31:49,53
+and just aren't
+doing it and yet are
+
+
+640
+0:31:49,53 --> 0:31:51,8
+receiving big chunks of aid.
+
+
+641
+0:31:51,8 --> 0:31:59,28
+As a humanitarian, I'm compelled
+and feel enormous sympathy
+
+
+642
+0:31:59,28 --> 0:32:1,61
+for the poor.
+
+
+643
+0:32:1,61 --> 0:32:4,3
+But at the same time,
+I feel as though we
+
+
+644
+0:32:4,3 --> 0:32:6,52
+need better systems
+and better milestones
+
+
+645
+0:32:6,52 --> 0:32:9,18
+in order to get the
+governments to take
+
+
+646
+0:32:9,18 --> 0:32:14,24
+this type of development on, and
+internalize it, and build out
+
+
+647
+0:32:14,24 --> 0:32:16,69
+what has happened in Rwanda.
+
+
+648
+0:32:16,69 --> 0:32:20,61
+In my book, I refer
+to five lessons.
+
+
+649
+0:32:20,61 --> 0:32:24,83
+And my lesson about what to
+say to those countries that
+
+
+650
+0:32:24,83 --> 0:32:27,69
+are incredibly corrupt
+that are looking for aid
+
+
+651
+0:32:27,69 --> 0:32:29,207
+relates to the middle finger.
+
+
+652
+0:32:29,207 --> 0:32:30,79
+AUDIENCE: So you
+said in the beginning
+
+
+653
+0:32:30,79 --> 0:32:34,15
+there was no local cuisine
+because people just
+
+
+654
+0:32:34,15 --> 0:32:35,61
+don't eat out.
+
+
+655
+0:32:35,61 --> 0:32:36,56
+What is your cuisine?
+
+
+656
+0:32:36,56 --> 0:32:38,3
+And what have you done
+to maybe tease out
+
+
+657
+0:32:38,3 --> 0:32:40,89
+the locals to participate?
+
+
+658
+0:32:40,89 --> 0:32:43,33
+JOSH RUXIN: So we've done
+a combination of things.
+
+
+659
+0:32:43,33 --> 0:32:46,53
+So the main local cuisine
+when Rwandese go out
+
+
+660
+0:32:46,53 --> 0:32:51,34
+for a traditional meal, it might
+be goat brochette, rice, beans,
+
+
+661
+0:32:51,34 --> 0:32:53,95
+relatively simple
+food with piri piri,
+
+
+662
+0:32:53,95 --> 0:32:57,96
+really spicy sauce,
+and also maybe
+
+
+663
+0:32:57,96 --> 0:33:1,52
+some matoke in a tomato sauce.
+
+
+664
+0:33:1,52 --> 0:33:4,77
+We have a very eccentric menu.
+
+
+665
+0:33:4,77 --> 0:33:7,81
+We have got probably our
+signature dish, which
+
+
+666
+0:33:7,81 --> 0:33:11,47
+has been on the menu now since
+we opened, is our filet mignon.
+
+
+667
+0:33:11,47 --> 0:33:15,32
+You want to talk about
+green, pasture-fed cows,
+
+
+668
+0:33:15,32 --> 0:33:19,477
+I mean, you're not going to find
+more sustainably raised cattle
+
+
+669
+0:33:19,477 --> 0:33:20,81
+than what you'll find in Rwanda.
+
+
+670
+0:33:20,81 --> 0:33:22,37
+It is a fabulous piece of beef.
+
+
+671
+0:33:22,37 --> 0:33:25,24
+And then we smother it in a
+cassava chimichurri sauce.
+
+
+672
+0:33:25,24 --> 0:33:27,47
+So we take cassava
+leaves, which are often
+
+
+673
+0:33:27,47 --> 0:33:33,82
+served as a local food in
+the form of a sombe, which
+
+
+674
+0:33:33,82 --> 0:33:35,12
+is with palm oil.
+
+
+675
+0:33:35,12 --> 0:33:37,91
+And we do it with olive
+oil, some garlic, and onion.
+
+
+676
+0:33:37,91 --> 0:33:40,38
+And then sometimes we'll
+actually take the matoke.
+
+
+677
+0:33:40,38 --> 0:33:41,66
+We'll take cream.
+
+
+678
+0:33:41,66 --> 0:33:44,34
+We'll take green bananas,
+and we'll mash them up
+
+
+679
+0:33:44,34 --> 0:33:46,56
+with some butter
+instead of potatoes.
+
+
+680
+0:33:46,56 --> 0:33:52,18
+So it has these local
+flavors, but it is clearly
+
+
+681
+0:33:52,18 --> 0:33:54,63
+an international dish.
+
+
+682
+0:33:54,63 --> 0:33:56,79
+And then I got to
+confess, probably
+
+
+683
+0:33:56,79 --> 0:33:59,3
+our most popular
+dessert over the years
+
+
+684
+0:33:59,3 --> 0:34:2,95
+has always been our
+molten chocolate brownie
+
+
+685
+0:34:2,95 --> 0:34:5,12
+with our homemade ice cream.
+
+
+686
+0:34:5,12 --> 0:34:8,34
+Anyway, well, it is so great to
+be here with all of you today.
+
+
+687
+0:34:8,34 --> 0:34:11,29
+And I want to welcome
+you to Heaven.
+
+
+688
+0:34:11,29 --> 0:34:12,605
+Come on in.
+
+
+689
+0:34:12,605 --> 0:34:15,1
+You can have a mojito on me.
+
+
+690
+0:34:15,1 --> 0:34:19,88
+And come out to Rwanda, and
+come have the experience
+
+
+691
+0:34:19,88 --> 0:34:23,59
+of seeing this country that
+has so much to show the world.
+
+
+692
+0:34:23,59 --> 0:34:25,56
+Lots of people say,
+oh, can I come on,
+
+
+693
+0:34:25,56 --> 0:34:28,32
+and can I volunteer for
+two weeks or three weeks?
+
+
+694
+0:34:28,32 --> 0:34:30,28
+And I say, don't
+think that you need
+
+
+695
+0:34:30,28 --> 0:34:32,57
+to come out as a
+volunteer to have impact.
+
+
+696
+0:34:32,57 --> 0:34:35,76
+You can have impact by
+coming out as a tourist,
+
+
+697
+0:34:35,76 --> 0:34:37,62
+spending money,
+eating in Heaven,
+
+
+698
+0:34:37,62 --> 0:34:41,21
+eating in other restaurants,
+giving good customer feedback,
+
+
+699
+0:34:41,21 --> 0:34:43,739
+and spreading the word.
+
+
+700
+0:34:43,739 --> 0:34:48,909
+Because that is a massive source
+of national income is tourism.
+
+
+701
+0:34:48,909 --> 0:34:51,739
+That really is one of
+the top still growing
+
+
+702
+0:34:51,739 --> 0:34:53,31
+exports in the country.
+
+
+703
+0:34:53,31 --> 0:34:57,5
+So that is a great
+way to be helpful.
+
+
+704
+0:34:57,5 --> 0:34:59,4
+Thank you so much.
+
+
+705
+0:34:59,4 --> 0:36:59,4
+
+
+

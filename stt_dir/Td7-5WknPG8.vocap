@@ -1,0 +1,1424 @@
+###0 
+###4 MALE SPEAKER: So it's my great pleasure
+###6 to introduce Bob Frankston, who imagined
+###9 a world with a spreadsheet before computers really
+###13 had a useful thing to do.
+###15 And so it was world changing, and I
+###19 think what's really interesting is when
+###23 I met with Bob a couple weeks ago and we start talking,
+###25 we immediately got into a really strong agreement
+###28 and a really good argument all within about four minutes.
+###31 And so I thought, that's the kind of guy
+###32 I want to talk here.
+###33 So thanks for coming, Bob.
+###35 I really appreciate it.
+###36 BOB FRANKSTON: OK.
+###36 
+###40 As some people here know, my history
+###42 goes back well before VisiCalc, which is actually Dan's idea.
+###45 
+###48 I will go through history, but let's start the talk.
+###53 Hit the space bar.
+###54 That's a good way to move forward.
+###56 So I'm going to start at the end point.
+###58 Both of the talk, where the high-level issues are,
+###62 and the sense that I interested in the endpoints
+###64 of connections, and not all the network crap in the middle.
+###68 So the internet itself is just a technique.
+###70 It's the way we can use whatever is available to communicate.
+###73 The problem is that we have all these people who
+###76 think the internet is important.
+###78 That's thinking that there is a thing called the internet.
+###81 And they sort of have to defend it and make it work.
+###85 And for me, it's just that stuff in the middle.
+###88 I just start with what you do with it.
+###90 And you mentioned using VisiCalc, some people at the St
+###93 Student Information Processing Board
+###95 at MIT, which I co-founded in '69, trying
+###98 to get people to use computers back then.
+###100 I had a sense they were useful.
+###102 Nobody believed me.
+###104 And this is that actually the culture, the Project MAC,
+###108 which is in the building that's inside one of the Novartis
+###110 buildings now, which is the attitude of how
+###115 do we make this technology useful?
+###117 What can we do with it?
+###119 So I'm skipping outside my talk, but for me the slides
+###122 are mainly a guide.
+###123 They try to keep me on track.
+###127 There will be lots of points we can discuss later I'll
+###129 just mention.
+###130 One of the big insights is the least important thing
+###134 we do is exchange content.
+###137 Now that might sound heretical, but how many people
+###140 have ever sent a copy of Wikipedia?
+###143 You just say the word Wikipedia.
+###145 You refer to it.
+###145 You never send it.
+###147 And that's part of the secret about what makes this work.
+###151 Yet all our policies, all our measures
+###153 of broadband and everything, running out of internet,
+###156 are based on the idea we're shipping exabytes of data
+###160 through this one router, which must
+###162 be in the middle of Kansas City.
+###163 
+###166 But for me, the internet is really about opportunity.
+###168 How do we create opportunity to do things at the-- well,
+###172 there's no real edge, but outside of the net?
+###175 
+###178 And the other important point is that the internet
+###181 is a discontinuity.
+###183 When you read the classic histories of in the internet,
+###188 they start with the ARPANET and have a packet radio.
+###190 No, that's nonsense.
+###192 Yes, the excellent technologies were there,
+###196 but the interent really started from a very different
+###199 beginning.
+###200 It was the revolt against networking as a service.
+###205 You didn't need a third party along the way
+###207 to read your telegram like a scribe
+###209 and repeat it down the line.
+###212 You do it yourself.
+###213 You just exchang these meaningless bits.
+###216 And one of the really horrendous legacies we're still stuck with
+###220 is the idea the carrier in the middle
+###221 must make a profit for you to do anything.
+###224 And I was reminded of this.
+###226 I understand why companies need to make a profit,
+###228 the question is whether that's the right model.
+###231 For example, airlines.
+###232 I don't have a better idea for airlines.
+###235 But the consequence is I'm not going
+###237 to be able to get to Los Vegas tomorrow because airlines
+###240 no longer have enough extra equipment.
+###243 So basically, they canceled my flight
+###245 because a gear was stuck somewhere
+###248 and there's absolutely no resilience.
+###249 The whole system shuts down.
+###252 And maybe airlines have to do it.,
+###254 but for us to use that technology for networking
+###256 is absurd.
+###259 So as I said, the internet is a technique
+###261 for doing things ourselves.
+###263 Now, I put in DIO as a broader point
+###265 because doing it ourselves doesn't mean you do it alone.
+###269 It could be doing it ourselves if you
+###271 have communities that work together.
+###274 But it's easy to just think of DIY as opposed
+###278 to depending on a third party.
+###279 Do it yourself.
+###280 
+###285 The other thing that we're going to get to is once meaning
+###287 is outside the network-- oh, I just
+###291 realized you're not seeing my slides.
+###293 MALE SPEAKER: [INAUDIBLE] slides?
+###295 BOB FRANKSTON: Yes, there are slides here.
+###296 I'm more coherent than I seem, because the explanation is up
+###299 on the slides.
+###301 Speaking of depending on a third party
+###303 and not having eyes in the back of my head.
+###305 
+###309 Ah, there it is.
+###310 I won't go back to the other pictures,
+###312 nor show my beautiful picture of the trolley in the snow.
+###315 
+###318 That explains why you were actually looking at me
+###320 and seemed to be awake.
+###321 
+###331 I can go all the way back, but that's not important.
+###333 So there's where you see DIY versus DIO.
+###335 You wondered why I was-- OK.
+###338 Do I seem more coherent now that you can see it?
+###340 OK.
+###341 So what does this mean?
+###344 This is really about taking advantage of opportunities.
+###348 And we're limited by discovering what we can do.
+###352 For example, voice over IP was a discovery.
+###357 Yes, we could get to work in some cases
+###359 in the early studies, but how can you do voice over a-- when
+###363 you lose your package, you got high jitter.
+###366 Just like TV.
+###366 People thought we need asynchronous TV.
+###369 But some people were creative and figured out
+###371 ways to take advantage of opportunities.
+###373 Now it's not always obvious.
+###374 
+###377 The reason VoIP it works now has nothing
+###380 to do with making VoIP work.
+###383 It was the web that gave us the capacity.
+###386 If we try to make VoIP work, we actually did.
+###389 It's called SS7.
+###392 Does anybody want to buy a used phone network?
+###394 It's too expensive to maintain.
+###395 
+###399 But the key is to have an appropriate business model.
+###403 And this is one of the main messages.
+###405 So we don't need a third party the middle like the airlines
+###408 do.
+###409 Have to run at the edge, to only do what's profitable.
+###414 It's sort of like depending on the railroad
+###416 to get to a destination.
+###418 Not many railroads are willing to tracks up Mount Everest.
+###420 
+###424 So we want to get away from this idea of the provider making
+###427 profit for us to do anything.
+###429 The other problem we have with the current business model
+###433 is that providers' worst enemy, the people
+###438 they fear the most, the existential threat,
+###441 are the customers.
+###443 There's a customer buying from Netflix
+###446 will remove all the profit of selling content,
+###448 as the cable companies do now.
+###450 And there's a slide show I point to on my site
+###454 from the cellular industry explaining that abundance
+###459 is the greatest threat.
+###462 That if they don't prevent abundance,
+###465 people are not going to buy the services.
+###468 So if you wondered why there's a problem with broadband crisis,
+###474 it's obvious.
+###475 
+###478 Giving the customers enough capacity is a losing idea.
+###483 So this is not sustainable.
+###484 We need to have a sustainable business model,
+###487 and this is, again, Google, since you use connectivity,
+###491 to encourage capacity.
+###493 
+###499 As I said, we exchange references, not contact.
+###501 Capacity is not the same as bandwidth.
+###505 It turns out we have so much capacity,
+###507 we're using, at the first approximation,
+###508 0% of our capacity.
+###512 And that's what's a conflict of interest.
+###516 So there is an alternative model,
+###519 which is the way we fund sidewalks.
+###521 The sidewalk owner does not view the user
+###524 as a competitive threat.
+###527 But people talk about privatizing the Mass Pike.
+###531 Then Route 30 becomes a competitive threat.
+###534 We already saw this in Detroit.
+###536 There's a private bridge in Detroit.
+###538 They try to keep the city from building a public bridge
+###541 because it's competition.
+###543 So you've really got to be careful about what
+###546 incentives we create.
+###549 Now the resource I describe as ambient connectivity,
+###555 and I use this term for the idea of wherever you are,
+###558 you could just assume connectivity.
+###560 Now this is sort of like having open Wi-Fi everywhere,
+###563 except I don't want to tie it to any particular technology.
+###567 Current Wi-Fi is much better than it might be,
+###571 but it's still a problematic technology.
+###575 But the key is to be able to assume
+###578 we're connected wherever we are.
+###579 I'll get more into this.
+###581 I add the word permissionless because people somehow
+###585 seem to assume you've got to show your credentials to prove
+###588 you can pay for it.
+###589 But how many of you have to show that you're
+###592 authorized to use a sidewalk?
+###594 That's the exception, not the rule.
+###595 
+###599 And the thing to realize is this whole idea of networking,
+###604 we so implicitly have a provider-centric view.
+###608 We talk about the network as what's important,
+###610 and how you maintain the network.
+###612 And as we'll see, our language, our framework
+###614 is infused with a provider-centric view
+###618 of protocols and everything.
+###621 What you have to do is forget about the network.
+###623 I want to be able to think just about the relationships
+###626 between the two endpoints and what I'm trying to accomplish.
+###629 It should just work everywhere.
+###630 Or you shouldn't have to log into this or connect to this.
+###633 Yes?
+###633 AUDIENCE: One of the big struggles we've had
+###635 is that users want to be able to define what they get
+###639 from an ISP, and the ISP is usually unwilling to commit.
+###644 BOB FRANKSTON: We shouldn't have the concept of an ISP
+###646 because the interent is not a service that's being pumped out
+###649 of the salt mines in Louisiana.
+###652 It's what we do with the available resources.
+###654 The internet is a technique.
+###655 
+###658 That's what I'm saying about flipping the model.
+###660 People assume they have to ask the ISP.
+###662 No, you're important.
+###664 The ISP should come to you and say, please, I want a job.
+###668 Can I do anything for you?
+###669 
+###678 I'm very interested in how language works,
+###680 so I have to use language people are familiar with.
+###682 So I say open access, even though words like that
+###685 are still provider-centric.
+###686 
+###688 One of the big words we use, terrible words, is broadband.
+###692 What is broadband?
+###693 
+###697 AUDIENCE: Effectively, a bigger pipe than the other.
+###699 BOB FRANKSTON: Well actually, it's
+###700 a technical term that comes from radio technology.
+###704 It turns out the companies that extended the TV antennas up
+###708 the top of the mountain took the broadband over the air signals
+###711 and put it on a coaxial cable, versus baseband.
+###714 And that became-- we're going to give examples later--
+###717 associated with a business model because that's
+###719 the way language works.
+###720 
+###722 And then it became literally a contronym.
+###727 Literally itself has become a contronym.
+###730 A contronym is a word that's its own antonym.
+###733 And the way language works, literally fills
+###734 in the same slot as figuratively,
+###736 so people tend to confuse the two.
+###738 So broadband we use to mean the internet, when the internet is
+###741 really what you tunnel through despite the broadband business
+###744 model.
+###746 This is what makes it so hard to talk about this.
+###749 And I have to emphasize, I'm talking about an architecture,
+###751 not any particular implementation.
+###753 So when I talk about having open Wi-Fi, that's just an example.
+###758 It's one way to do it.
+###759 
+###762 What amazes me is how often it's, oh, we'll
+###763 give you wireless mesh.
+###766 First, why do I say wireless?
+###768 A wire is just a wave guide for signals.
+###771 There's nothing wrong with wires.
+###773 And mesh is just a particular technology.
+###776 And if I've got a fiber that takes me across the country,
+###778 why do I want a bucket brigade?
+###780 It's an economic problem to solve,
+###783 and technology's just a means.
+###785 What we do have to do is preserve
+###786 the magic of it just works.
+###789 And that's the real architectural goal.
+###791 That's the power of architecture.
+###794 Network just disappears.
+###795 
+###798 And apps can use any available means, including the QR codes.
+###801 So if we're just exchanging a reference,
+###803 I just give you a QR code.
+###805 So one way to explain this is our view
+###808 of the history of what I call digital.
+###810 Now when I say digital, I mean discrete symbols.
+###813 It doesn't mean 10 fingers.
+###815 But the fact that we can have these sharp distinctions
+###818 and you can regenerate the meaning.
+###820 That's the real value.
+###821 The zeroes and ones are going to be regenerated.
+###823 But it's also alphabets.
+###826 If I write letters, even-- . pictographics.
+###831 Hieroglyphics were very distinct symbols.
+###833 Little off, you can guess what it is again.
+###836 And that allowed the message to be preserved over distance.
+###839 You can carry the message.
+###840 If it got a little distorted, you can correct it.
+###842 Smudged.
+###843 But also over time.
+###845 And we actually had some forward error correcting
+###847 oral traditions, but that's for when
+###849 you want a discussion of details of language.
+###852 But one of the legacies of the early days
+###859 of inarticulate digital is the telegraph.
+###862 We had to use the wire to keep the single contained,
+###865 to maintain the relationships between the bits,
+###867 the endpoints.
+###868 So it flooded our skies with all these wires.
+###873 Every call needed its own wire.
+###877 And you think that's bad?
+###880 Even when we had wireless, no wires,
+###882 we created virtual wires.
+###884 This cockamamie idea of single frequency signaling
+###889 creates scarcity.
+###891 It's as if we said no two people in the room
+###895 could wear a blue shirt because it'll be confused.
+###899 Interference is not a property of physics.
+###901 Waves pass through each other.
+###903 Interference is another word for confusion.
+###907 So whenever anybody talks about interference,
+###909 they're just saying we're creating confusion.
+###910 If you use all the rich data, and in a sense,
+###914 if you look at meaning come from context,
+###917 big data's fundamental.
+###919 Information in isolation is meaningless.
+###922 Yet our telecommunications system
+###924 is trying to carefully preserve--
+###926 this is the inarticulate digital.
+###928 We have to carefully preserve all this stuff
+###930 because-- it's a great hack, by the way.
+###933 The tuning fork was a wonderful discovery back then.
+###938 The fact it's been used to compromise the Constitution
+###940 and prevent free speech, well, collateral damage.
+###944 The other reminder is that business models-- again,
+###947 like broadband, the business model
+###950 came from the accidental properties of history.
+###956 The single frequency single hop signal
+###959 gave us the business model of radio.
+###962 And if I make it to CS this year, I ask about radio,
+###966 I've found Pandora is radio.
+###970 Tubes and transistors are no longer radio.
+###973 Beware the language.
+###974 
+###977 The talking telegraph really created havoc.
+###982 We had this great technology.
+###984 Digital can cover any distance.
+###987 And then this guy across the river
+###989 there disobeyed his father-in-law,
+###991 stole an idea from Elisha Gray, who
+###993 retired to West [INAUDIBLE], and created the talking telegraph
+###998 using analog technology, and made a mess of things.
+###1002 Distance now became difficult.
+###1006 Distance used to be easy.
+###1007 Telegraph would go over any distance.
+###1009 Distance became hard.
+###1012 And with that explicit understanding,
+###1015 we could tune things, we could tune knobs and all this stuff.
+###1019 But it was very hard to preserve a signal across the street,
+###1023 let alone across the country.
+###1026 So this guy Claude Shannon did a lot of research,
+###1030 created this whole technology for how
+###1032 to preserve a signal within wire.
+###1035 Within the channel.
+###1036 He didn't use the term wire.
+###1038 He used a channel.
+###1039 It wasn't very abstract term.
+###1042 He called it information for the same reason physicists,
+###1046 we'll point out, like to use words like work.
+###1049 Well we have giant brains, all this notation,
+###1052 anthropomorphic notation.
+###1054 We use the word communicate as if these wires carried
+###1058 our meaning.
+###1060 And we're still living in that legacy.
+###1063 
+###1066 Matter of fact, here it's more than a century
+###1069 after that picture I showed you of the wires
+###1073 covering all the streets, yet it's even worse.
+###1076 All we've done in a century and a half
+###1079 is learn how to take all those wires
+###1081 and bundle them up very neatly into little tiny packages.
+###1085 And worse, we have multiple bundles and wires
+###1088 from competing bundlers, or bunglers,
+###1091 whatever you want to call them.
+###1093 And it's even worse.
+###1095 Inside each of those we have virtual circuits
+###1097 to maintain each conversation.
+###1099 
+###1102 Now how you can maintain a business model of carrying bits
+###1105 where there's no longer any way to compete.
+###1110 In other words, they're just bits.
+###1111 They're generic bits.
+###1112 How you differentiate.
+###1115 But the reason we have the legacy
+###1116 is we're still stuck in stage two, the idea
+###1119 that you need pipes, pipes, pipes.
+###1122 And it comes out in many ways.
+###1124 One is carriers don't want to become dumb pipes.
+###1128 Sorry.
+###1130 That's not the worst of it, is the fact
+###1133 we don't need pipes anymore.
+###1134 Bits are all self-identified, meaning
+###1136 it's assembled outside the network.
+###1138 We don't need pipes.
+###1139 Yet our business models are still pipe-based.
+###1145 Now the digital technology that gave us computers
+###1147 did set the stage for the future.
+###1150 But we first have to-- again, this
+###1151 is why I brought up the issue of language.
+###1153 How many people think physicists should run the NLRB, National
+###1157 Labor Relations Board, because they understand what work is?
+###1161 Why would a double E be allowed to run
+###1164 a school of communications and the PR department?
+###1167 Those people understand communications.
+###1170 Apparently E's don't because they confuse information
+###1173 in the Shannon sense.
+###1175 How much information is there in not answering a question?
+###1180 Or in a pause?
+###1181 There are people who spend a lot of time figuring it out,
+###1184 and you have to slap them and say, no.
+###1184 That's a stupid question.
+###1185 
+###1189 Now this sets the stage for what I'm calling stage three.
+###1194 Now we're very interested in [INAUDIBLE],
+###1195 but I took a class in spring of 1973 from Mike Hammer.
+###1200 Does anybody remember Mike Hammer, reengineering?
+###1204 It was studying networks.
+###1205 So one of things we studied was ALOHAnet.
+###1207 
+###1211 How many people here know about ALOHAnet?
+###1214 OK.
+###1214 It was a radio packet network in Hawaii.
+###1217 Do It yourself packet network.
+###1218 There had been various experiments integrating packet
+###1221 networks, but I remember ALOHA was
+###1223 the one we studied in class.
+###1226 And basically it was what any hacker would do.
+###1230 It looks at a packet and resends it.
+###1231 No big deal.
+###1233 Maybe it's the latest temperature.
+###1234 You don't resend it.
+###1235 You just give them temperature.
+###1238 I mean, we called it a net.
+###1239 It was ALOHAnet, but it was a network in the sense Facebook
+###1244 is a network, or, sorry, Google+ is a network.
+###1248 It's a social network.
+###1251 That's the problem with language again.
+###1253 This is why I'm so fascinated by language.
+###1256 The word network is so general as to be
+###1258 totally useless for communicating.
+###1260 Worse than useless.
+###1262 It sort of like diplomacy.
+###1263 You can both use the same word, but mean
+###1265 entirely different things.
+###1266 But you think you're talking to each other.
+###1269 And at the end of the class, some other kid sitting next
+###1272 to me-- this is May 1973, did his baseband project.
+###1275 He took ALOHA and put it on a coax.
+###1278 Now I wanted to do it over the campus network,
+###1280 it would have been broadband.
+###1281 But I didn't follow through, so it doesn't count.
+###1285 But it was obvious this is a great hack.
+###1287 2.994 megabits, as he reminds me.
+###1292 That's Bob Metcalfe, you know.
+###1296 It was wonderful.
+###1297 But to get his Doctorate he had to prove to the EE people
+###1302 that it would perform well.
+###1303 Turns out he was wrong.
+###1304 It performed much better than his thesis said.
+###1307 
+###1311 So how many of you are familiar with the paradigms framings?
+###1317 When you change a paradigm, everything changes.
+###1320 So when Copernicus did his little thing
+###1321 of moving a reference point 93 million miles,
+###1325 it was a nice mathematical hack, and it
+###1327 did make navigation easier.
+###1329 But it had two side effects, which
+###1331 he wouldn't have anticipated.
+###1332 One, it destroyed people's idea that they
+###1335 were the middle of the universe.
+###1339 And that made it very hard to accept.
+###1341 And I'm telling you meaning is not fundamental,
+###1343 if you want a scary concept.
+###1346 The other thing it did was give Newton his physics.
+###1350 Because suddenly you could see a uniformity out
+###1353 of all these disparate things, and you just
+###1355 get a deeper understanding.
+###1357 And in that sense, what the packet radios forced us to do
+###1362 was learn how to preserve meaning outside of the network.
+###1366 Discover what we can do with the opportunities.
+###1370 And that, I argue, is the real origin of the internet.
+###1374 Learning how to solve problems ourselves,
+###1377 learning the techniques for using any available resource
+###1380 as a way to communicate in the human sense, not just EE sense.
+###1387 And that's why I say a fundamental discontinuity,
+###1390 yet we're still thinking stage two because, as I said,
+###1394 language, information, communications.
+###1396 It just sounds just like the railroads of the 19th century.
+###1399 And in fact, we have a thing called the Federal
+###1402 Communications Commission.
+###1405 What do they mean by communications?
+###1410 What's worse is they're explicitly spun off
+###1413 from the ICC, Interstate Commerce Commission, which
+###1417 managed railroads.
+###1419 Now that's gone.
+###1420 It's been replaced by the Department of Transportation,
+###1423 which manages the means we use to travel.
+###1428 It does not manage the actual freight itself.
+###1431 In the meantime, the FCC is there
+###1433 telling us what words we're allowed to use,
+###1436 how we're allowed to run elections.
+###1437 Really weird.
+###1440 You'd think these people didn't understand how to communicate.
+###1443 And we're still compromising the First Amendment
+###1445 by creating scarcity in order to keep the business alive.
+###1448 So the internet happened when we're interconnected the LANs.
+###1451 The LAN, you were , anywhere, plugged into the coax,
+###1453 you were just there.
+###1456 But the consequence of that was you
+###1459 could not see beyond the individual packet.
+###1463 So therefore, we had to have a system--
+###1466 and this is the real insight-- to separate TCP from IP.
+###1470 And it wasn't just Vince or Bob Kahn.
+###1473 There were a number of others.
+###1474 David Reed locally, and Dave Clark,
+###1476 and all these other people.
+###1478 How do you preserve an application relationship
+###1483 independent, when you could just exchange nothing above packets?
+###1487 
+###1491 And this where the end-to-end argument.
+###1492 You had to have meaning outside the application.
+###1495 
+###1502 The earlier slide said TCP, mentioned explicitly.
+###1505 What TCP is, it says transmission control protocol.
+###1510 Very interesting.
+###1512 Because if all you want to do was make sure
+###1517 all the bits got through, you keep
+###1518 retrying til it gets through.
+###1521 But TCP was also protocol for cooperatively
+###1523 sharing the resources in the middle by detecting congestion,
+###1527 by backing off.
+###1529 And what's amazing is how well that worked.
+###1532 That it's really a social protocol for sharing resources.
+###1537 It's not just a reliable stream protocol.
+###1540 
+###1543 And basically, yes, you can violate it,
+###1546 but if more than a few people violate a collapse,
+###1548 you get immediate feedback, people used standard libraries.
+###1550 So it's a whole interesting discussion
+###1551 about why that works.
+###1552 And sociologists should study this some more.
+###1556 And I won't go into problems like buffer blow.
+###1558 There were lots of other issues.
+###1559 
+###1562 So where I come into this, and this much prouder
+###1565 than doing VisiCalc, was home networks.
+###1567 
+###1571 The original triple play plan, or n-tuple play. [INAUDIBLE]
+###1575 is a good example.
+###1577 They would haul a pipe into your house.
+###1580 They would put an a ATM card cage in the basement.
+###1584 ATM was asynchronous transfer mode.
+###1586 The base for DSL.
+###1588 I'll try to avoid too much acronym soup.
+###1590 By the way, ADSL is interesting.
+###1592 You know why DSL exists?
+###1594 For interactive TV.
+###1597 It was not created for the internet.
+###1598 That was a later repurposing.
+###1601 There's a lot of repurposing discovery.
+###1603 Hindsight history makes things look so purposeful.
+###1605 
+###1608 People have a reason for everything.
+###1611 But if you remember at the beginning
+###1614 when you had to run a separate wire for reach relationship,
+###1618 well those wires, virtual wires were
+###1621 inside a pipe or any other triple plays.
+###1624 Each phone line was delivered to the card cage.
+###1627 In the early days, remember, the phone companies
+###1630 owned your phone.
+###1632 The service was the conversation.
+###1636 It was not the wires coming into your house.
+###1641 And therefore in the 1950s, AT&T had
+###1644 to be sued to allow you put a box around a phone.
+###1647 it was a kind of device called the Hush-A-Phone compromised
+###1649 the quality of the service and dispersed their reputation.
+###1653 Later the Carterfone allowed your equipment on,
+###1657 but the Hush-A-Phone, I think was a more interesting case.
+###1660 Where the boundary of the service is.
+###1662 
+###1666 And you can see the example of how that works in practice.
+###1668 Carriers would want to charge for each IP address
+###1671 as if it were a phone number.
+###1673 You're going to pay for each IP address.
+###1676 Since they looked inside your house,
+###1678 they can do things like trying to ban webcams
+###1681 because those were an abuse of their service.
+###1683 
+###1687 It really [INAUDIBLE] home.
+###1689 Repurposing a video distribution service, rethink connectivity.
+###1694 And today, the modern version of that is called Google Fiber.
+###1696 
+###1699 And Google Fiber's attitude is you can share.
+###1702 They're telling you what you do with the bits.
+###1704 Now what company would be so evil
+###1710 AUDIENCE: Are you referring to the no servers allowed?
+###1713 BOB FRANKSTON: No, that the least of it.
+###1715 AUDIENCE: That is [INAUDIBLE].
+###1716 BOB FRANKSTON: No I understand.
+###1717 Verizon had the same attitude.
+###1719 And the nice thing about terms of service--
+###1721 I'll be nice to the FCC, so I won't say
+###1723 fuck them-- but back when I was doing home networking--
+###1727 and I'll get into that-- I basically
+###1729 ignored the terms of service.
+###1730 Because the phone companies said you're not
+###1733 allowed to add more than one PC to your home network.
+###1736 To the router.
+###1737 They're going to tell you what you
+###1739 can do with the device inside your own home.
+###1743 AUDIENCE: So for the Google Fiber
+###1744 no sharing, you mean you can't [INAUDIBLE]
+###1746 community over to watch TV?
+###1748 BOB FRANKSTON: No, it's not just watch TV.
+###1749 If I have a Google Fiber programs,
+###1751 I'm not allowed to share that connection with my neighbor.
+###1754 Now I can understand the business model point
+###1757 of view, which is why you need a business model that
+###1759 doesn't create such terrible behavior.
+###1762 But are there people who try to bring,
+###1764 like housing communities.
+###1765 You want to bring broadband to the poor.
+###1767 You got a gigabit.
+###1769 That'll serve complete apartment houses.
+###1773 Steve [INAUDIBLE] here uses just a few megabits
+###1776 to serve the [INAUDIBLE] project.
+###1778 So that it's as if you-- yes?
+###1781 AUDIENCE: Yes.
+###1782 [INAUDIBLE] one gigabit.
+###1784 BOB FRANKSTON: No it's not.
+###1785 You play the odds.
+###1786 Sure.
+###1788 But let people discover what it does.
+###1791 AUDIENCE: Providers tell you up front, yes,
+###1793 you may have one gigabit of bandwidth,
+###1795 but you only have 5%.
+###1796 
+###1799 BOB FRANKSTON: Yeah.
+###1800 Let the people decide and discover that.
+###1802 Sure.
+###1803 But it's sort of like a sidewalk.
+###1805 We're going to limit how many people can live in the house.
+###1809 This is where you have the idea of discovering
+###1811 what you can do from the edge.
+###1813 
+###1816 I don't want guarantees.
+###1819 The reason Skype can do video is because Skype does not
+###1823 promise to do video.
+###1824 If they promised video, they could not do video.
+###1828 There are a lot of counterintuitive aspects
+###1830 here, which is why you have to start
+###1831 thinking from the resource and from outside.
+###1835 And you also have some interesting things,
+###1837 like if you're above a threshold,
+###1839 you've got 10 people with 10 connections, you get 100 times
+###1843 of capacity.
+###1844 But basically, if you have a lot of DSL wires, you share them,
+###1850 you get disproportional improvement.
+###1851 It's like a one-lane highway will get more than three
+###1855 times the traffic jams of a three-lane highway.
+###1858 Because you start to use the resource effectively.
+###1860 You fill in the holes, you accept delays.
+###1863 And it all depends on the application.
+###1865 We're just extending the word Wikipedia.
+###1867 Who cares?
+###1868 A gigabit is wonderful.
+###1869 Even if you've got a 10 megabit.
+###1871 Let me share.
+###1871 Let me decide.
+###1873 But it affects the business model.
+###1874 That's why I keep coming back to the funding model.
+###1877 I'm not saying it should be given away,
+###1879 we need funding models that work with societal needs.
+###1883 Yes.
+###1884 AUDIENCE: My one big sticky thing
+###1885 here still is legal issues, including intellectual property
+###1891 enforcement.
+###1892 BOB FRANKSTON: No.
+###1892 But that's not in the wire.
+###1893 The bits are bits.
+###1895 They have no inherent meaning.
+###1897 This is a homeopathic theory of communications,
+###1900 that bits have a memory of their original intent.
+###1902 AUDIENCE: We share a network connection
+###1904 that [INAUDIBLE] multi-family home.
+###1907 And one person who was visiting downloaded--
+###1909 BOB FRANKSTON: Yes.
+###1910 And this is why lawyers are one of the greatest
+###1913 threats to society.
+###1914 Basically, you should move the trial
+###1917 to Salem, which is the appropriate venue
+###1919 for such theories.
+###1921 AUDIENCE: My point is, we do need, as a society, to--
+###1924 BOB FRANKSTON: No.
+###1926 We have to come to the 20th century, let alone the 21st.
+###1930 AUDIENCE: But isn't the fundamental problem referring
+###1932 to the fact that you're trying to share the resource that
+###1937 has a huge level of [INAUDIBLE]?
+###1940 BOB FRANKSTON: OK.
+###1940 
+###1942 Let me get through this and I'll get to this other.
+###1944 The short answer is we're using 0% of the available capacity.
+###1949 So before you start telling me about a shortage,
+###1951 start telling me where that shortage is.
+###1954 When I've got three broadbands coming through my backyard
+###1957 and 1% of any one of them is my full internet connection,
+###1961 I've already got 100,000 times the capacity.
+###1964 So what do you mean?
+###1965 Why do you tell me shortage?
+###1967 Where's the shortage?
+###1968 When the police will run a fiber to their gun detection
+###1973 sound thing, which only a few kilobits you need for gunshot,
+###1977 but deny anybody the ability to share that.
+###1980 People now run fibers to fire alarms and things.
+###1984 That are terabits of capacity going unused.
+###1986 So before you run about scarcity,
+###1988 show me there's a problem.
+###1989 
+###1992 And the other example I won't get into is meter reading.
+###1995 Now meter bits are special.
+###1997 They can't go over the real internet.
+###1999 They need their own network so the phone companies
+###2002 can go back to triple-play and collect money
+###2005 for each meter read.
+###2006 And if you read the IEEE numbers about how many gigabits
+###2009 of capacity and everything they need to read the meter,
+###2012 they need a whole fiber infrastructure,
+###2014 gigabits capacity.
+###2016 Though if you run the numbers, you'll find out
+###2018 it's less than a bit per second.
+###2020 But you need fiber.
+###2022 We're really beholden to all these myths.
+###2025 So we need to start from the edge.
+###2027 And the other important point is local connectivity
+###2030 is more important than distant connectivity.
+###2033 We became fixated on long distance.
+###2035 Anybody old enough to remember when long distance would
+###2038 put fear in your hearts you'd go bankrupt on a long distance
+###2041 call?
+###2042 That's because of the stupid thing with analog telephony
+###2046 that Al Bell did.
+###2049 With digital it's no longer an issue.
+###2051 And even more important, the people we know and stuff
+###2053 are nearby.
+###2055 I was reminded of this.
+###2056 We're so hung up on social media, the network.
+###2059 My son last night was caught-- foolishly
+###2061 decided to take a long drive to Phoenix.
+###2065 And he was going to go from Indianapolis,
+###2067 or he was going from Indianapolis to St. Louis.
+###2071 It turns out that outside Terra Haute,
+###2074 traffic was stopped for 12 hours in the middle of the snow.
+###2079 Online social media is no information.
+###2082 If he had CB radio with him, and they almost took one,
+###2086 he could've found out from the truckers and everybody what
+###2088 was happening locally.
+###2089 
+###2092 And so you can get across the country easily
+###2097 to get to a website, but you can't
+###2100 send a message from your light switch to the light fixture,
+###2103 because that's still using technology
+###2106 Ben Franklin understood.
+###2108 
+###2111 We have TV controllers.
+###2113 There are so many problems with you
+###2115 have to be on the right LAN, you've
+###2117 got to point the IR at the right device.
+###2119 We do all this work at a distance,
+###2121 yet we don't realize it starts locally.
+###2124 And then interconnect these local islands
+###2127 is how the internet happened.
+###2129 And that's important lesson I built on.
+###2132 Actually, we're going to finish.
+###2134 So what I did with home networking is I made it opaque.
+###2138 I was at Microsoft at the time.
+###2140 Basically I prototyped it at my house.
+###2141 I did it for myself.
+###2143 And I try to do things that are generalized.
+###2144 When Dan Bricklin did a spreadsheet
+###2146 so he could do his homework, we just
+###2148 did a general version of it.
+###2149 
+###2153 So the NAT is a nice hack.
+###2155 So people couldn't peek inside your house.
+###2157 They couldn't enforce the terms of service.
+###2159 You could share all you want.
+###2161 On occasion they'll try to tell you, and the problem is yeah,
+###2163 some people look at the IP address
+###2165 and all sorts of how bad ideas.
+###2169 Accuse you of being a witch because your bits
+###2170 don't look right.
+###2173 But the key is to make it just so you can give people
+###2175 the tools to use the resources available.
+###2178 How many people worry about how many gigabits of video
+###2181 they're showing within their home?
+###2185 There's no cost.
+###2186 It suddenly becomes expensive once you get outside the home.
+###2190 So the benefits to the ownership is you get as many IP devices
+###2192 as you want.
+###2193 There's not scarcity of IP addresses, no meter running.
+###2198 And right now we ca run gigabits in the home.
+###2200 Remember it used to be ten megabits was very expensive.
+###2203 Modems used to be $300 for kilobits.
+###2206 But we're not quite there.
+###2207 We still have this perimeter security, these complex rules.
+###2210 Instead of abstracting security, making the application.
+###2213 We still think it's a property of the network.
+###2215 And these all long discussions in their own right.
+###2218 And we still don't understand generic bits.
+###2221 We have USB, we have SATA we have FireWire, we have HDMI.
+###2225 All these special packets, as if they're are all
+###2228 so special and different.
+###2231 I did this display port here because that's really
+###2233 an application protocol which we should be pushing,
+###2235 but instead we're stuck with HDMI,
+###2237 which is equivalent to the old digital telephone.
+###2240 Sort of faux digital.
+###2243 So with home control we can learn by doing.
+###2247 But people still think it's special
+###2251 because it's within a home.
+###2253 It's behind a NAT.
+###2255 When it's really just the example of a do it yourself
+###2260 environment.
+###2262 We have discovered, for example, want
+###2264 to solve a problem connecting devices?
+###2267 One thing from the edge is, v6 is a dead issue at this point.
+###2272 Instead we use v4 reflected to the cloud.
+###2275 Which I think is a terrible idea, but it works.
+###2278 It's an example of you go with what works.
+###2280 
+###2282 But I won't dwell on that either.
+###2284 Another topic.
+###2287 But we still use wires to define relationships.
+###2288 So how do we move beyond the home?
+###2291 
+###2293 The answer's very simple.
+###2295 We do what we did with the original internet.
+###2296 
+###2298 We basically interconnect this islands.
+###2300 We've already tunneled between the islands.
+###2302 When you get a quote, "broadband connection",
+###2305 you're really tunneling out of your home through telecom.
+###2309 They own the other end of the tunnel,
+###2310 but that's a temporary historical accident.
+###2312 We won't go into why it happened.
+###2314 But we can take the same ownership perimeter
+###2317 and expand it out from your home.
+###2320 So if you and your neighbors share,
+###2321 which some people are already doing, an apartment house,
+###2325 you can get many benefits.
+###2327 To get two major benefits.
+###2329 One is cost savings.
+###2330 You share the capacity.
+###2332 But the other thing is you can get permissionless ambient
+###2335 connectivity.
+###2336 You can now do all those IP-based devices.
+###2339 You can buy some now, but the problem with perimeter security
+###2342 makes them very brittle and fragile.
+###2345 AUDIENCE: It depends on what the perimeter is.
+###2347 In our building we run our own services.
+###2350 BOB FRANKSTON: Yeah, But do you have
+###2353 a WEP or other authentication?
+###2354 
+###2357 AUDIENCE: It's been years since I
+###2359 was using any of those services.
+###2360 BOB FRANKSTON: No, but the answers is--
+###2361 AUDIENCE: A server you can [INAUDIBLE].
+###2363 BOB FRANKSTON: Right.
+###2364 You have that, but what you want to do
+###2366 is at least be able to have devices just connect.
+###2368 I'm glad to see Google does not have an agree screen.
+###2372 But the problem is you get things like this at Jet Blue.
+###2377 Now can somebody explain why first I
+###2380 have to call my lawyer before I can call my lawyer?
+###2383 
+###2386 There's something wrong there.
+###2388 I've already the airline terminal.
+###2389 I've already agreed to much worse things they could do me,
+###2393 yet they have me type agree.
+###2395 This is something everybody should
+###2397 do what they can to get rid of those.
+###2399 
+###2402 And again, if you ask people fear,
+###2404 they'll say child pornography.
+###2405 
+###2408 They don't have any better idea, it's
+###2409 just they've learned this mantra.
+###2412 But if we paid for infrastructure
+###2414 like we do roads and sidewalks, we
+###2415 wouldn't have a need to shut things down just for revenue.
+###2418 AUDIENCE: Will you accept, especially
+###2420 in neighborhoods like where my house is, that there
+###2423 are thieves, drug dealers, all sorts of criminals using
+###2427 those public rights of way to get by with no record
+###2430 that they passed because--
+###2432 BOB FRANKSTON: You mean you let people walk by your house
+###2435 without signing an agreement?
+###2437 And without paying you?
+###2439 AUDIENCE: Yeah.
+###2439 Well the ping is a totally different issue.
+###2441 BOB FRANKSTON: Well ask Rand Paul.
+###2443 He'd demand--
+###2444 AUDIENCE: You have a very different expectation
+###2446 of how freely usable for potentially illegal activities
+###2450 a sidewalk is, compared to--
+###2452 
+###2456 BOB FRANKSTON: And this is what's amazing.
+###2457 We're lucky by accident in the Constitution days
+###2461 when people were really pissed off at the king,
+###2463 so they wrote the free speech thing in.
+###2465 But every opportunity since, the fear is so-- it's spelled NSA.
+###2473 And yes, it's amazing how people fear
+###2480 what they don't understand yet.
+###2481 Which means you're not going to get any discontinuities,
+###2483 and you're not going to get any surprises.
+###2485 Yes.
+###2486 But an important part of the whole lecture,
+###2489 why the First Amendment works.
+###2492 Why things work despite the fact that crossing a street
+###2496 is too dangerous to do.
+###2498 
+###2502 So if we fund the infrastructure-- again,
+###2505 as I keep saying-- as you do sidewalks, these problems go.
+###2508 The reason for putting up a wall, putting fear aside,
+###2512 financial reasons go away.
+###2513 Because it's so cheap, you pay for it once
+###2516 like a home network.
+###2517 And then you create opportunity to discover [INAUDIBLE].
+###2520 We haven't even started to explore what we can do.
+###2524 Because we can do high value applications.
+###2526 Like at home control.
+###2527 
+###2534 I don't know where my slide is, but home control
+###2536 is a wonderful example, because we just
+###2539 start to discover what we can do with connectivity.
+###2542 But one of the lessons I learned to total control
+###2545 is that we could do high value applications.
+###2547 We call them trophy homes.
+###2549 There are lighting scenarios, all these
+###2551 complicated high value stories.
+###2553 TVs coming down, the shades, all this stuff.
+###2556 We can't do light switches.
+###2558 OK?
+###2559 That's the problem here.
+###2561 Without permissionless ambient connectivity,
+###2563 simple things become hard.
+###2564 It's not just permissionless.
+###2566 The DNS, the current-- you must ask ICANN for permission.
+###2570 There are lots of other problems,
+###2571 but if we solve the financial problems,
+###2574 we then have an incentive to solve problems.
+###2576 We introduce resilience to the edge.
+###2577 You connect through an access point.
+###2580 You're walking down the street, you've
+###2581 got Comcast and all these others connected to,
+###2584 and then Google Maps stops working.
+###2586 Because one access point got stuck.
+###2588 Authentication chain, somebody broke it.
+###2590 The protocols of the edge aren't resilient.
+###2593 So there's a lot of work to do better protocols
+###2596 and have resilience of the whole network.
+###2598 Not meshy, necessarily.
+###2599 That's just technology.
+###2600 But resilience.
+###2601 So the old model, we assume value
+###2604 is created inside the network.
+###2607 Thus we could fund the network out of the revenue.
+###2610 And that's where the cable TV companies are.
+###2613 They own the pipes, they sell resources,
+###2615 just like railroads sold rides.
+###2618 If you go to Netflix that collapses,
+###2620 which creates the conflict.
+###2621 Fortunately there's a new business model,
+###2624 which is the one I keep saying.
+###2626 Just pay for the wires.
+###2627 They're so cheap.
+###2628 You put them in once.
+###2630 It's amazing how inexpensive.
+###2632 And if we didn't put the fiber in,
+###2636 we would have been doing gigabits over copper.
+###2638 DSL was running megabits 25 years ago.
+###2642 Now it's copper, right, so not pairs.
+###2644 You don't follow DSL rules.
+###2647 You be very innovative, you do the bundles as a whole.
+###2649 And at this point, one way to use copper is to sell it.
+###2655 Less copper and buy fiber.
+###2656 I don't care.
+###2658 I'm just saying the economics is what drives Moore's law.
+###2662 And then we won't have the need to exclude people for no reason
+###2666 other than forcing people to pay.
+###2669 Imagine sidewalks, the paywall around them.
+###2671 
+###2673 To show you the value of this, let's look at a case study.
+###2676 Philips Lifeline is one of the local companies there now
+###2679 in Framingham.
+###2680 They started locally.
+###2682 And initially they just had the radio
+###2686 from the device going to a phone and it would dial up.
+###2690 It worked well enough for the purpose.
+###2692 Hopefully the phone line was not in use,
+###2694 and all the other things.
+###2695 But they put it before, and you can
+###2696 get it to work enough times to be useful.
+###2699 Now people are going to the next stage, which they carefully
+###2703 set up connections to cell phone.
+###2705 If you set up the Bluetooth right and use the right
+###2707 phone, and you've paid your bill, and the matter of--
+###2710 and you [MUMBLING].
+###2712 It can work.
+###2715 But the problem without permissionless ambient
+###2717 connectivity is the default is failure.
+###2722 Shouldn't the default be to just work?
+###2725 And that's really what I'm getting to.
+###2727 The idea that we want just works connectivity.
+###2729 Now there are no guarantees, and this
+###2730 is why the VoIP story is important.
+###2732 Because we can get voice to work.
+###2734 It turns out Skype works much better over lines
+###2737 that the traditional phone companies can't
+###2739 use because their protocols are all
+###2741 brittly dependent upon the network doing everything right,
+###2744 preserving a path.
+###2745 Turns out cleverness can make up for a lot.
+###2749 So this is why so important are the incentives
+###2751 and create opportunities.
+###2752 
+###2755 And then there's a whole discussion, which
+###2757 I won't get into, is then we can start
+###2759 rethinking the current internet.
+###2760 For example, the Post Office, I understand,
+###2762 is routing far better than any of the internet people.
+###2765 Because it try to send mail to you.
+###2766 It sends mail to a place.
+###2767 That's its job.
+###2769 You tell your friends where you are.
+###2770 
+###2774 So I can go through, if anybody wants to,
+###2776 the other big topic we could do is where are the smarts.
+###2779 Smarts are valuable.
+###2781 So people want to own the smarts.
+###2783 But if you go into a restaurant, you
+###2784 don't want your wait person knowing
+###2787 what you're going to eat.
+###2788 You'd like to have some say in the matter.
+###2792 So I won't go into the challenges,
+###2795 but obviously there's a telecom industry which exists
+###2799 and to rightfully sees this as a deadly threat.
+###2802 We have an FCC, which is trying to transition to IP, as
+###2806 if they're desperate attempt to keep us in stage two.
+###2810 By simply saying IP is the new phone wire,
+###2813 but everything else is the same.
+###2815 You don't transition.
+###2817 You let the whole thing fade into the sunset.
+###2819 At some point nobody's going to care about it.
+###2822 You resell the facilities.
+###2824 And want does one do with lead acid batteries?
+###2827 How do you decommission them?
+###2828 There might be a lot of money.
+###2829 Somebody find a good use for lead acid batteries.
+###2832 You'd make a lot of money.
+###2835 AUDIENCE: They recycle them, I thought.
+###2837 BOB FRANKSTON: As what?
+###2837 Maybe they do, but I'm just saying.
+###2839 The whole internet thing is just in the infancy.
+###2843 Everything I read about it is very special hacks.
+###2846 There's no general connectivity.
+###2847 But then again, these long discussions-- I
+###2849 just wanted to introduce these as ideas at this point.
+###2854 I can also, if you want, go to the other slide,
+###2856 which I'm proud of, is how do we run out of the internet
+###2858 when it's just a technique?
+###2860 After hacking at night here, went to Union Square
+###2865 for French toast.
+###2867 And I was told we're out of a French toast.
+###2871 
+###2874 We asked, said are you out of bread, milk too?
+###2876 He said the guy didn't know how to make it.
+###2878 And that's really those wires are,
+###2880 is running out of internet.
+###2881 So any questions?
+###2883 Anybody confused?
+###2884 Anybody awake?
+###2884 
+###2888 AUDIENCE: So what happens to your do it yourself
+###2891 home small community network when it breaks?
+###2895 BOB FRANKSTON: What happens if your water pipe breaks?
+###2899 AUDIENCE: Well, I get it serviced.
+###2900 BOB FRANKSTON: Yeah.
+###2901 So we'll have the new plumbers.
+###2902 And in fact, I'm actually trying to find
+###2904 people who want to start.
+###2905 In other words, the point I'm making
+###2907 is I'm actually in favor of business, capitalists,
+###2909 and all this.
+###2910 It's just you've got to have rational businesses,
+###2913 and the model changes.
+###2915 If you want to read a book "Railroaded", by Richard White.
+###2921 It's a wonderful story because it
+###2922 tells how the railroads in the West-- this is opposed
+###2925 to the ones in the East, which have different densities--
+###2928 were never financially viable.
+###2930 That's why you've got the FCC.
+###2933 Or subways in New York were never viable.
+###2935 Each infrastructure, you have to look at how these centers work,
+###2940 what's the business model?
+###2941 Instead of just continuing forward.
+###2943 So yes, if we're viewing a time and materials
+###2945 model as a business, we need plumbers.
+###2948 Of course they're a time and material business.
+###2950 Your plumber does not charge you for the cost of water
+###2954 at the price of whisky.
+###2956 When you buy flour you don't pay for the cake.
+###2960 So you have to understand where the values is added.
+###2962 Question back there?
+###2963 
+###2966 The first step, one thing to do, and people are already
+###2968 doing it, the first step is education and understanding.
+###2973 But if you're in an apartment house,
+###2975 get your friends and neighbors to basically make
+###2977 that a connected zone.
+###2979 Because petitioning the city is hard,
+###2981 because there's too much education, the language,
+###2983 everything makes it very hard.
+###2984 How can you even talk about the FCC
+###2987 when they were created to keep a business model alive?
+###2992 They're not a technology They were designed
+###2995 as part of a deal with AT&T to make
+###2998 AT&T viable as the stewards of our ability to communicate.
+###3003 Things have sort of gotten out of whack.
+###3006 And they also got a right to do it
+###3007 based on spectrum allocation.
+###3010 But you understand how hard it is
+###3011 to get people to think differently,
+###3013 but if you change economics, if your building--
+###3016 and there are a million buildings-- so
+###3017 if you start to get your building
+###3019 to be a connected zone, and work out from there,
+###3021 repeating the history of the internet,
+###3023 you start to get to an alternative which is viable.
+###3026 
+###3029 And I think that's the starting.
+###3033 AUDIENCE: When you start to get, having been involved
+###3037 in small building connectivity zone
+###3039 efforts over a couple of decades, problems you have
+###3042 is still, as far as I know, too much expertise.
+###3045 BOB FRANKSTON: Yeah.
+###3046 If you want a problem, it's really
+###3048 a problem in California, the Bay Area.
+###3050 Too many people who understand too much.
+###3052 That's my parallel to put in fiber, ripped out fiber.
+###3056 So yes.
+###3057 It's a matter of venue shopping and set example.
+###3061 AUDIENCE: But more than this, plumbing isn't a simple thing.
+###3064 But plumbing was simplified so that it could become a trade.
+###3067 And by having it established as a trade,
+###3070 regular people can become people that maintain plumbing.
+###3072 You need that for networking.
+###3074 BOB FRANKSTON: Well actually, remember,
+###3075 I did that already for home networks.
+###3076 
+###3079 When I first started doing home networking
+###3080 in '95, think of the reaction I got
+###3083 when I said people are going to maintain their own home
+###3085 networks.
+###3088 So I did a couple things.
+###3089 First thing, remember I had this position having been in a class
+###3094 where we were doing this stuff.
+###3095 So I knew there was nothing hard there.
+###3097 Nothing secret.
+###3098 I just had to remove all the things that
+###3099 made it hard like configuring IP addresses and things like that.
+###3104 I've learned a lot since.
+###3105 There's a lot of ways they can make it even simpler.
+###3107 So yes.
+###3108 Part of it is this is why I talk about the connectivity of net
+###3112 routing I compare with crossing a river by jumping on icebergs.
+###3117 Turns out we have bridges.
+###3119 Just use the bridges.
+###3120 It's like the Post Office delivers to addresses.
+###3122 So insights like that make things much simpler.
+###3125 All hubs and routers should be self-diagnosing.
+###3129 But until we have a market incentive to do this,
+###3132 it's going to be hard to make that happen.
+###3134 Unfortunately, I was at Microsoft.
+###3137 I was able to keep them, and I purposely
+###3139 made sure they had no way to monetize it.
+###3143 To control it.
+###3145 But they did get value out of the connectivity.
+###3147 Just like Google has a value out of connectivity.
+###3149 The more people can connect-- even if 99% of the traffic
+###3153 is local, you can still start to offer all these new services
+###3157 and these new innovations.
+###3159 But I am actively looking for people
+###3160 to work with who do want to do business in both educating
+###3164 people on how to do it themselves
+###3166 and providing the appropriate expertise.
+###3169 So yes.
+###3171 I don't expect most people to want to do their own networking
+###3173 or build their own networks, but there's no reason
+###3178 that it has to be hard.
+###3180 We're just used to it.
+###3181 The same as DNS.
+###3182 We have this whole legacy because so much
+###3184 of today's internet goes back to the mainframe
+###3187 days, port numbers, all these issues, which are legacies.
+###3193 We've learned a lot since we first did the current internet.
+###3199 Yes.
+###3200 AUDIENCE: So, to [INAUDIBLE] idea
+###3202 up, you just have to make it easier.
+###3203 But you mentioned a problem being firewalls and such.
+###3207 BOB FRANKSTON: Yes.
+###3209 AUDIENCE: One of the [INAUDIBLE] benefits of that is I
+###3214 think at one time if you put a Windows computer
+###3217 on the public [INAUDIBLE], it would compromise in 10 minutes.
+###3220 Definitely less [INAUDIBLE].
+###3223 BOB FRANKSTON: Yes.
+###3223 And when I first did it, what I was saying is OK,
+###3227 v4 closed the ports by default.
+###3230 But IPv6 or IPsec, we wouldn't be stupid.
+###3237 We designed it to be aware.
+###3239 Now it turns out we're still stupid,
+###3241 but that's another issue.
+###3243 But we can't depend upon permanent security.
+###3245 So now anybody know the Maginot Line in France?
+###3251 And how how well it worked for them.
+###3254 Now it turns out Andre Maginot actually was not stupid.
+###3257 He knew you still needed an army.
+###3260 But he made a mistake.
+###3261 He died.
+###3263 And the politicians then said, army?
+###3265 We don't need no army.
+###3266 We've got a wall.
+###3268 So people are building in these hyper things.
+###3270 But look at Google's problem.
+###3273 Chromecast is on the wrong network.
+###3274 The device doesn't work.
+###3278 So the answer is yes.
+###3280 We have to first have a better security model.
+###3283 Because when you go to Starbucks that same machine
+###3285 gets connected.
+###3287 That's based at the application level,
+###3290 the software level doesn't depend on the firewall.
+###3293 In my model, even if you have permissionless security,
+###3296 you still can have legacy stuff protected.
+###3298 So I'm not saying we get rid of all that.
+###3301 I'm looking new opportunities.
+###3302 
+###3305 AUDIENCE: One of the big incentives
+###3306 to have an apartment network, basically.
+###3309 A small community network when I was
+###3313 having a college-ish lifestyle, was
+###3315 that we could have our server serving the copies of our CDs
+###3320 to us [INAUDIBLE].
+###3322 Now that isn't done anymore.
+###3323 Maybe it's done centrally.
+###3325 Do you see obvious ways that Google
+###3328 could enable that sort of community hub
+###3331 when we're otherwise serving.
+###3336 BOB FRANKSTON: It's interesting.
+###3337 One of the things that Western Digital is selling
+###3339 is a personal cloud, which is basically
+###3341 a disk in your house as a server, Pogoplug.
+###3343 A lot of people doing it, so I can easily see products.
+###3346 Because if you want to watch multi-screen 3D
+###3352 ultra high definition video, it would be nice to cache
+###3356 on a server right in the building.
+###3360 It's interesting.
+###3361 This is sort of a Maraschino cherry problem.
+###3363 Maraschino is you take a cherry, take all the cherry-ness out
+###3366 of it, then add it back.
+###3369 And in a sense, we've done such a good job of conquering
+###3371 distance, we have to put locality back in.
+###3375 But that's pragmatic.
+###3376 I mean, there are two reasons to [INAUDIBLE].
+###3377 One is performance.
+###3378 And fine, put a cache server there.
+###3380 You can put that in a box.
+###3383 Chrome PCs should be able to work with local cache as well
+###3387 as remote.
+###3388 By the way, a little footnote.
+###3389 Be careful about the word cache.
+###3391 Sometimes you'll explicitly put it there.
+###3393 You want to make sure this information is there in case
+###3396 you get disconnected versus just for performance.
+###3399 You've got multiple issues.
+###3401 So you can easily have protocols that
+###3403 allow peer sharing locally.
+###3404 This is content-centeric networking.
+###3407 So lots of reasons for doing it.
+###3408 But you also want your thermostat, your other devices,
+###3412 to work within your house when your connection further out
+###3416 goes down.
+###3417 So we have to understand that the relationships are
+###3420 separate geographically.
+###3422 So there are reasons for having geographic proximity.
+###3425 Sometimes I want a light switch to say turn
+###3427 on the light in this room.
+###3429 And you might use techniques like IR not for the message,
+###3432 not for sending a message, just so you
+###3434 know what room you're in.
+###3437 Again, that's why I'm saying we have
+###3439 to rethink a lot of what the internet is as opportunity.
+###3443 And the distance stuff, yeah it's nice,
+###3445 but we forgot there's a physical world there.
+###3448 CB radios, we need to do virtual CB radios.
+###3451 So next my son is stuck on I-70 outside of Terra Haute,
+###3457 the truckers and stuff have a local social network, not just
+###3461 CB radios.
+###3462 Though it's probably nice that nobody else
+###3464 has CB radios anymore, knowing them.
+###3467 AUDIENCE: You made a comment at the beginning about something
+###3470 like most [INAUDIBLE] involved in sharing.
+###3474 BOB FRANKSTON: Well, we don't exchange content.
+###3477 We exchange references.
+###3478 Is that what you're saying?
+###3480 AUDIENCE: I don't know.
+###3481 I was trying to--
+###3482 BOB FRANKSTON: When I say Wikipedia instead of giving you
+###3483 a copy of Wikipedia?
+###3484 AUDIENCE: Right.
+###3484 BOB FRANKSTON: Yes.
+###3486 You want me to expand on that?
+###3487 That's a very interesting topic.
+###3489 Because I used to give my talks and ask people
+###3492 how much do we compress the Encyclopedia Britannica?
+###3496 And I say to an ISBN number.
+###3498 And if you're a communication theorist,
+###3502 you want to fit it into the old model,
+###3503 you say, well the ISBN is a dictionary
+###3506 just like any of the coding we use is a dictionary.
+###3510 But remember, in communication theory,
+###3512 you have out-of-band signalling.
+###3513 You have an out-of-band clock, which enables a three kilohertz
+###3516 line to carry more than three kilohertz because
+###3518 of precise timing.
+###3520 But then I decided that's nonsense.
+###3522 it's too hard.
+###3522 It's really that we're just making references to things.
+###3527 And really that's what language is.
+###3530 You send URLs.
+###3531 Now URLs have URL problems.
+###3535 And then, so your effective capacity is meaningless.
+###3538 This is why clocking the number of bits of value is bad enough.
+###3542 It's already inversed.
+###3543 The longer the movie, the less valuable each bit is.
+###3547 But you can't even measure.
+###3549 Same movie can be a terabit or it
+###3552 can be ten bits depending on whether you just
+###3555 need a reference or you need a copy.
+###3556 
+###3559 My mother wanted to send a toy to her grandson in Seattle
+###3565 from New York.
+###3566 I said, fine.
+###3567 I'll have it there in an hour.
+###3569 I returned it to Radio Shack, gave my brother the number,
+###3572 and he bought it for him.
+###3573 
+###3577 AUDIENCE: The bit usage, bit used driver
+###3582 has been people watching movies and such.
+###3585 BOB FRANKSTON: It actually turns our that's not that big.
+###3587 That's what Akamai is about.
+###3589 They're cached locally.
+###3590 There are two ways it's not a big thing.
+###3592 Number one, it's cached locally.
+###3593 Number two, Netflix does the compression
+###3596 that the originally DSL people only envy.
+###3598 So at two megabits, they can give you a high definition
+###3601 experience.
+###3603 You don't really care [INAUDIBLE] picture.
+###3604 You want to enjoy the movie.
+###3607 A cute idea would be to put a camera on,
+###3609 and if you're enough feet away from the TV,
+###3611 they'll de-res it because you're not
+###3612 going to see the extras reses.
+###3614 When you come closer-- the point is there are no rules here.
+###3618 AUDIENCE: But my point about that
+###3620 is that is a lot of what people consume from an ISP.
+###3624 BOB FRANKSTON: Well, consume is an interesting word,
+###3626 but we'll put that aside.
+###3627 Yes.
+###3628 AUDIENCE: A lot of how they're sending bits or receiving bits.
+###3633 What we've found with the service I work on
+###3636 is that if you call something caching rather than keeping
+###3639 a copy, then the content owners are much more
+###3643 willing to allow you to have a copy on the client side.
+###3646 Therefore, community networks that
+###3648 merely cache the video in ways that the [INAUDIBLE].
+###3652 BOB FRANKSTON: Yes.
+###3654 Our language, our legal system.
+###3655 Well, our legal system is still in the 13th century.
+###3659 Instead of science, which tests ideas,
+###3661 our legal system proves things by example.
+###3665 Not that I have anything against lawyers,
+###3667 but I have something against lawyers.
+###3670 OK.
+###3671 MALE SPEAKER: Thank you very much.
+###3673 

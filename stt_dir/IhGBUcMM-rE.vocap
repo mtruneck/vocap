@@ -1,0 +1,448 @@
+###59 n the last lecture we were talking about some mathematical models for facility location.
+###65 Today we are going to be talking about the problem of layout planning. If you recall,
+###74 the hierarchy of location problems is the next important problem where the objective
+###79 is to determine the related positioning of different departments. In this lecture we
+###87 look at the basic issues that are involved in the layout planning exercise. We shall
+###95 look at a generic procedure known as systematic layout planning to develop a layout of a plant.
+###108 What are the objectives in plant layout? When you develop a layout for a manufacturing plant,
+###115 what are the typical objectives?
+###117 There could be many objectives some of them are listed on this slide for instance one
+###125 objective could be to minimize the investment and equipment. Somebody might say how layout
+###132 will influence the investment in equipment?
+###137 Obviously if you do not duplicate equipment and you have a streamline layout then you
+###142 could minimize the investment and equipment. The layout has considerable effect on the
+###147 investment in equipment. It also helps you to minimize the overall production time. You
+###158 can utilize the existing space most effectively with proper layout. A proper layout should
+###168 provide for employee convenience safety and comfort. You should try to maintain flexibility
+###178 of arrangement. Layout generally tries to minimize the material handling cost. It also
+###191 tries to minimize the variation in types of material handling equipment for instance a
+###198 good layout could try to standardize the kind of material handling equipment that it uses,
+###205 for instance you do not expect forklift trolleys of very different sizes to operate in the
+###210 same shop floor, you could expect standardize equipment. Generally the plant layout could
+###220 facilitate the manufacturing process and it could also facilitate the organizational structure,
+###229 because what could happen is that you are trying to place different kinds of equipment
+###235 and trying to segregate different types of operations. Therefore it will tend to facilitate
+###242 the organization structure as well. Let us have a brief idea about different types of
+###251 layouts.
+###254 Brightly speaking we can talk about the product layout, a process layout or mix of these two,
+###263 which is called a mixed layout or the layout by fixed position. Let us see for instance
+###270 as to what are the features of each of these different types of layouts. The product layout
+###277 is essentially one where a product enters the line and one side and you keep on performing
+###286 different operations on the product. Finally finished products come out in the outside.
+###291 So, all assembly lines for instance are typically examples of product layouts. The idea here
+###298 is that the layout is dictated by the product. Whatever operations are required on the product,
+###305 they are laid out in either straight line or in U mode or in serpentine time mode or
+###312 in any other mode but the essential thing are that all the operations are to be performed
+###318 on the product or performed in sequence. From the raw material you ultimately get the final
+###324 product. This is the typical feature of a product layout. In fact when you are talking
+###331 about product layouts you tend to generally resort to products layouts when the volume
+###336 of production is large and for instance and you have a dedicated product, you are not
+###347 changing the product design that frequently. Another kind of layout is a process layout.
+###356 Essentially a process layout is something where you have different departments that
+###360 are A B C D E F. Each of these departments houses machine which are similar in character
+###369 though these machines are not identical. For instance A could be all the lathes. So lathes
+###377 with different features are in the lathe shop, this could be a milling shop, this could be
+###381 a grinding shop and so on. Each shop has different types of machines clubbed together and what
+###388 happens is that a particular product depending upon it is requirement will move from one
+###396 department to another to another till finally the product is produced. The major advantage
+###404 of this type of layout is the product variety that it can handle unlike the product layout
+###410 which typically handles the single type of product. You can make a variety of products
+###415 in this particular layout and of course what will be the major problem here? The major
+###423 problem obviously is B is large number of products moving here and there. So there will
+###428 be a lot of confusion in terms of movement.
+###432 There will be lot of delays as product weight and move to different departments therefore
+###439 the production time generally tend to be large in such situations. So you could try to have
+###446 the situation where you have both the product and the process layouts mixed, so it is a
+###452 mixed layout. Mixed layout is a very common layout in industry, for instance what could
+###458 happen is if you go to a factory like Maruthi ute for instance, you could find that the
+###466 final product is being produced as an assembly line. So it is a product layout. But the various
+###473 components which go into the product are actually being produced in a process layout in different
+###479 shops. So you invariably have a mixture of both the product and the process layout in
+###486 various organizations. Of course one can also talk about a cellular layout or a group layout
+###495 which is something that is generally suited to a situation where you have a predictable
+###502 variety of products to make and the idea is that you try to group products into product
+###511 families, part into part families and these individual parts are part family is then subjected
+###518 to processing in individual cells. The basic idea is that in a cell, the processing sequences
+###529 are almost uniform, so the modification behind the cellular layout is that we try to get
+###535 advantages of both product layout and process layouts, that means you get the variety of
+###544 the process layout and you try to get the speeds by this grouping of parts which are
+###550 all then processed in various kinds of cell.
+###556 Then we talk about layout by fixed position. In a layout by fixed position what happens
+###562 is that the layout is determined by the size of the product, for instance this is true
+###569 for special structures of a ship building or for assembly of an aircraft depending upon
+###574 the type of the aircraft, you have different machines, different pupil keep coming and
+###580 moving. In all these cases what was happening was that the job was moving and the machines
+###587 was stationary here. The job is stationary and the machines are moving. There is really
+###593 not much to choose as far as the layout is concerned, this is governed by the shape of
+###597 the product itself. If you are building a ship, the shape of the ship it itself will
+###603 dictate the layout and machines will come do the welding operations of the riveting
+###607 operations and go back. Then somebody else will do the painting and this is what it is.
+###618 We are looking at this layout design problem. It is important to note how this problem is
+###626 actually affected by other decisions pertaining to the product, the schedule and the process.
+###633 You see that the layout design problem which we are trying to a address is governed by
+###638 the product design, the process design and the schedule design. The product design means
+###645 what you have to make that determines the layout. How you have to make it means the
+###654 process that you have selected for making the product. So this will term in the various
+###659 machines and equipment that you need. Schedule design which talks about how much you need
+###666 to make. So this is essentially a decision that comes from marketing forecasting of the
+###671 man which tells you how much how many pieces you need per day. The product process and
+###678 schedule constitutes the basic information that you need for layout design. Mind you
+###687 it is not only layout design which is linked to this but these decisions in and sales are
+###691 also related to each other. To call the choice of the product will also determine what process
+###696 to take. Choice of the process will also determine the schedule that you have to follow and so
+###704 on. So in the layout design process, we are here primarily talking about the layout of
+###712 process layout. In the layout design process, you need inputs from the product, the process
+###720 and the schedule that is the important thing. If you try to compare for instance what could
+###732 be the features of a product layout in this category? You find what is the product layout?
+###738 Product layout is a situation where the input is some raw material and it is being processed
+###744 in different works station and sequence till finally the final product comes out here.
+###751 So in a situation like this you have smooth and logical flow lines. You need to have very
+###757 small in process inventories because the part which is processed here will immediately go
+###763 to the next machine, so there has to be very little in process inventory here.
+###768 Total production time per unit is short. There is a reduced material handling because the
+###775 parts directly move from one workstation to the other. So it does not have to be transported
+###779 in trolleys and tracks to other departments. There is little operator skill and the training
+###786 is therefore simple production, planning and control and there is less space for work in
+###795 transit and temporary storage. These are some of the features of a product layout.
+###807 Let us look at the process layout. Now what is our basic concern in this particular session?
+###813 A process layout is a collection of departments A B C D E F which are housed in maybe different
+###822 rooms or different buildings. Therefore the advantages are there is better utilization
+###831 of machines, hence fewer machines and needed. Why this is happening is because here you
+###838 have a lathe that is a special purpose lathe. So all jobs which require processing on that
+###844 special purpose lathe will come here and get the processing done and go away. Whereas if
+###849 the same thing was to be done in a product layout, you will have to duplicate the machine
+###855 at whatever operation it came.
+###857 If you need a lathe here, after ten operations you require the same lathe, you duplicate.
+###861 So generally, better utilization of machines and fewer machines are needed in a process
+###866 layout. There is a high degree of flexibility with regard to equipment or manpower allocation
+###874 for specific tasks. What this means is if a job comes to a department of the milling
+###881 machine, there is often a choice. It can be put in either machine 1 or machine 2 or machine
+###885 3 because they are all capable of doing the operation. It can be given to definitive operators
+###891 depending upon their skills. You have this flexibility with regard to both equipment
+###896 and manpower allocation for specific tasks. Comparatively low investment in machine is
+###903 required, this follows from one. There is greater job satisfaction for the operator.
+###910 Why is there a greater job satisfaction for the operator because the operator who is working
+###916 in a particular department during the day handles variety of jobs, different types of
+###922 jobs unlike an operator who is working on a product layout, who could be sitting on
+###928 a machine and operating a pedal. So you operate a pedal maybe 250 times a day and that is
+###935 the end it is life.
+###939 Here there is greater job satisfaction for the operator and specialized supervision is
+###943 also possible here. Why specialized supervision? because the supervisor for the lathe section
+###950 nearly spent 10 years in the lathe section and become a supervisor and in our knows the
+###955 ins and outs of all the machines which are there in this particular shop. If you talk
+###960 about the product layout on a line there are different machines manufactured by different
+###967 manufactures and having different features. It is impossible for one particular individual
+###972 to be an expert of all those machines. The kind of supervision that he will be able to
+###976 give is only general and not specialized. However the process layout has some limitations
+###996 and we should be aware of those limitations. Since longer flow lines usually result, material
+###1003 handling is more expensive. Obviously a part has to go from here to here. It has the first
+###1008 weight then somebody has to load it on to a trolley and then the trolley has to go.
+###1012 The trolley may weigh in that department; somebody unloads it and so on.
+###1015 So longer flow line used result material handling is more expensive. In fact the general objective
+###1024 function in designing a layout of this type is one of the major objectives to minimize
+###1030 the material handling cost. Production planning and control systems are more involved in such
+###1038 systems. Total production time is usually longer. Large in process inventories take
+###1044 place because material might be stored up in different departments without being processed.
+###1052 Space and capital are tied up by work in processes and because of the diversity of jobs in specialized
+###1060 departments, higher grades of skill are required. This is also another feature because quite
+###1067 often if you need somebody to operate a grinding machine, you could at least expect that he
+###1072 has done an ITI diploma and has put in three years therefore he can undertake to operate
+###1081 such machines. All these operators operating this machine would generally be pupil who
+###1087 have higher grades of skill unlike an operator on a product line because on a product line,
+###1096 if you even select a man from the street, all you has to do is to press a pedal 250
+###1103 times and that practice can be given to him in half a day and therefore training people
+###1109 and product for operating product layout is generally much easier whereas here it will
+###1114 be much more difficult. Let us look at this chart which is called a P-Q chart and essentially
+###1127 what we have said is consider a situation where we have to make a large number of products,
+###1130 P is the product variety and we arrange these products in the descending order of the quantity
+###1139 that you need. What really happens is that this product is the first one to be made in
+###1145 large quantity. This product is to be made in lesser quantity and so on. So we have products
+###1151 which are arranged in the descending order of the air quantity. Now this chart which
+###1157 was suggested by Muether, gives an idea of the situation under which you should use different
+###1165 types layouts. For instance what you said is once you got these products lined like
+###1171 these, the products which are here, that means for products for which the varieties low but
+###1180 the quantities are high, those are the products for which product layout is more suitable.
+###1186 I mean you set up assembly line, and on this end here where you have a large number of
+###1193 products but the quantities are electively smaller. So it is a large amount of variety
+###1199 but low production quantities. This is the situation where a process layout is recommended
+###1207 and in between these two categories when you have intermediate variety and intermediate
+###1212 production quantity, generally you could use a combination layout which is the product
+###1217 of these. The idea here is only to give you an overall intuitive feel when a product layout
+###1227 and process layout should be selected. Product layout is most appropriate when you are having
+###1234 less number of products to produce in large quantities and the process layout is used
+###1239 when you have large variety but to be produced in small quantities. This summarizes the features
+###1248 of product and process layouts in that sense. Let us now look at the process of designing
+###1258 a process layout. Normally when you talk about layout planning we are generally talking only
+###1264 about process layouts because product layout is generally fixed by the sequence of operation.
+###1270 So, there is nothing much to design except to ensure that you have the space to layout
+###1275 those machines.
+###1277 There is a procedure which is called systematic layout planning SLP. SLP procedure of Muether
+###1285 was proposed way back in 1961 where we gave a general framework for how these process
+###1295 layouts are to be designed. You might wonder as to why a procedure developed so long ago
+###1303 is still being talk about. You talk about something when it is still useful. The zero
+###1312 invented so many years ago is still useful. But the point here is that the systematic
+###1321 layout planning procedure of Muether has suddenly become important because this has now become
+###1328 the basis for many of the computerized layout planning algorithms which are available. In
+###1336 the next class we shall be talking about some computerized layout planning procedures. Those
+###1345 procedures are actually base their inputs and operations on the SLP procedure. We look
+###1353 at the SLP procedure in this class to understand what all is required. The first in that required
+###1361 is to input data and activities. What is the kind of data or activity that you have to
+###1369 input for this particular problem?
+###1371 There are three kinds of data that you need to input, the product data, the process data
+###1379 and the scheduled data. The input to the process of planning a process layout is essentially
+###1390 inputting this kind of data about the product the process and schedule and from this input
+###1397 data the first step that is done is to identify the flow of material. The second step is to
+###1408 identify the activity relationship based on step one and step two. We develop what is
+###1417 called a relationship diagram and then this relationship diagram is converted into what
+###1428 is called as space relationship diagram. In order to develop the space relationship diagram,
+###1434 you have to compute in step 4, the space required, match it with the space available, that means
+###1441 if you find that the space required is 4000 square feet you must make sure that 4000 square
+###1446 feet of space is available. So it is just to check in that direction and then you develop
+###1452 the space relationship diagram in step six. This space relationship diagram is then subjected
+###1459 to modifying considerations and practical limitations which you may not have considered
+###1465 in the entire process so for. On the basis of space to develop the layout alternatives,
+###1475 you evaluate these alternatives and pickup the best layout alternative that you have.
+###1479 So this is the brad framework and it is a very systematic framework for a problem like
+###1485 designing a layout. You can see that you can divide this framework into three different
+###1492 phases. Up to here is the phase of analysis, up to step five is the phase of analysis,
+###1500 where your analyzing your data, finding out the flow of material activity relationships,
+###1507 depending upon the activity relationship diagram, the space required and the space available.
+###1515 Once the analysis part is over you search for the solutions. So from the space relationship
+###1523 diagram, you are developing layout alternatives, so you are searching for alternatives solution
+###1529 and then once you have searched you have developed these solutions, you have to identify which
+###1534 is the best so it is the selection of the solution. Search followed by selection, preceded
+###1543 by analysis is the general order of this particular algorithm. The one reason why it is popular
+###1551 is that it provides a framework for intensive exactly what is to be done. When you are developing
+###1557 computer program you must tell the computer exactly what is to be done and that is why
+###1561 this framework has been used in layout planning exercise. This is the SLP procedure of muether.
+###1569 We will try to illustrate this procedure to a sample problem so that you get an idea of
+###1575 what exact or how the layout operations can be done. Just to give you a feel if we are
+###1591 to organize production as a product layout essentially what it means is that you have
+###1597 to start from the raw materials stage.
+###1599 You have different types of products. You go to the saw department, you go to the milling
+###1606 department, you come to inspection one and then do this operation here and then final
+###1612 operation here and you come out and similarly what we are trying to say is every departments
+###1618 which are laid out core also be laid out so that you are trying to facilitate a product
+###1624 layout for three different product. Now we in this particular scheme of things have essentially
+###1638 used these three symbols.
+###1640 The circle represents an operation being done like machining operation or mettle removal
+###1645 or grinding whatever a square represents and inspection and a inverted triangle of this
+###1654 nature represents storage. This is a convenient way of representing the types of operations
+###1662 which are required here. Let us assume that we have a process layout for the same thing,
+###1669 so what we have is, we have these different departments, raw materials, storage, saw department,
+###1675 where saw is done of the material, the lathe department, the drilling department, the milling
+###1682 department, the inspection the packing and finish goods and here again we have different
+###1686 products which we try to move. So these products move according to their needs. There is a
+###1691 lot of criss crossing so typically this is the kind of thing it happens in a process
+###1695 layout.
+###1706 These crosses I think are supposed to be the centralized of these individual departments,
+###1710 if your raw material stored, this is the center. If this is the one, these are the centers.
+###1717 We need them later. Let us suppose that we are trying to work on this particular process
+###1723 layout and we are maybe trying to evaluate this process layout. We are trying to find
+###1728 a better layout by using SLP. We will see how we can do that. So the operation could
+###1737 be something like this. This is out input data for the problem. We are saying essentially
+###1744 that they are three products A, B and C which we want to manufacture and the processing
+###1752 sequence of these products is this first goes to saw, then mill then inspect then turn,
+###1759 then mill, then drill then inspect then package and similarly for this and similarly for this
+###1766 that means we know for each product the processing sequenc
+###1771 We know the information pertaining to the product, what is the product and how it is
+###1775 going to be processed? Product and the process information is available to us for these three
+###1781 products, then we would also like to know the schedule information to how much is the
+###1792 demand for each of these products. What my happen is that these products may be considerable
+###1800 in size, this maybe a small costing, this maybe a much bigger thing, this maybe a smaller
+###1806 thing and so on.
+###1808 In order to take care of that aspect we are simply standardizing the material flow required
+###1816 in the plant to pallet loads per day, that means how many trolley loads per day will
+###1821 be needed? What we are saying is that as far as product is concerned we required eight
+###1826 pallet loads per day in terms of production. This might be something like 160 products
+###1835 or whatever it is. We are talking in terms of pallet loads. Similarly B requires 3 pallet
+###1841 loads which maybe 300 components so whatever could be different and C could be five pallet
+###1846 loads per day, so we are using a common unit for measuring the material handling of these
+###1852 products throughout the plant. This is essentially our schedule requirement. Firstly, how many
+###1859 trolley loads of A, B, C must be produce per day in the factory? We need information about
+###1867 the processing the products the processing and the quantities. This is the input to it.
+###1879 What we are going to do is we are going to actually construct what is called a from-to
+###1883 chart and from-to chart is actually a convenient means of reducing a large volume of data into
+###1898 a workable form.
+###1902 By inspecting the data displayed in the from-to chart the layout analyst can identify the
+###1909 departments having large volumes of movement. So let us try to do it for our example,
+###1921 What we find here is let us say we construct this information, from-to chart is actually
+###1935 a square matrix. In the matrix we have listed all the departments, raw materials, saw lathe,
+###1944 drill mill inspection packaging and finish goods, and same departments here and so on.
+###1950 What we are trying to basically find out is what is the total movement from this to this
+###1955 so it is a from-to chart it is very much like a distance chart, which is say what are the
+###1961 distances from one pair of cities to another pair of cities? For instance what you find
+###1968 is everything begins from the raw materials stage, so you have the total movement which
+###1976 will take place form raw material to saw.
+###1981 What you are saying is let us look at this requirement. This product A will go from raw
+###1989 material to saw C, will also go from raw material to saw, but B will go from raw material to
+###1995 drill, it does not go to saw, so as far as this is concerned product A and C will make
+###2001 a movement from raw material to saw and you can easily find out what is the total movement
+###2006 of raw materials of product A and C. So A trolleys are moving and C is five trolley
+###2013 loads are moving, so 8 + 5 is 13, that how you get this figure of 13 and similarly for
+###2019 the other entries in this particular chart. So it shows that the total movement which
+###2025 takes place from raw material to saw, 13 daily they will be 13 trolley loads moving from
+###2032 raw material to saw and from raw material to drill 3 will be moving and as far as this
+###2038 movement is concerned from milling to inspection 16 will be moving and so on. This from- to
+###2045 charts shows the number of materials handling trips per day between all the departments.
+###2051 Now what is the idea? The idea is that those departments which have a large amount of movement,
+###2061 especially these departments should be as close to each other, the layout is possible.
+###2068 They should be as much as possible, close to each other and for those departments which
+###2073 do not have any movement, need not be that close. So from this from-to chart we can we
+###2084 can make a common like this. Normally the from-to chart is used to analyze the flow
+###2090 in process layouts. The item movement that occurs over some specified period of time
+###2098 is totaled for all products and entered in the from-to chart as shown in the next figure.
+###2103 What do you like to simply show is this information?
+###2112 In this figure which is also from-to chart, the previous chart was total flow or material
+###2123 handling material flow taking place between all pairs of departments. This particular
+###2131 chart is the information pertaining to the distances between the various departments.
+###2139 You are asking me about the centers in that layouts, so if you are now talking about this
+###2144 layout, we look at the centralized of each department and find out what is the distance
+###2150 from the centroid of one department to the centroid the other departments. On that basis
+###2155 we can construct a diagram of this nature, which should show that the raw material to
+###2163 drill department is 72. Note that the various distances between all pairs of departments
+###2173 are listed here. This particular matrix could be either symmetric but it is not necessary
+###2181 that it be a symmetric. The distance from one department to another need not be the
+###2185 same as the distance from the same department back to cell if there are unidirectional flows
+###2190 and so on. If you are permitting all kind of flows, then this maybe the same. Whatever
+###2198 be the distances they can be accommodated and this is the distance matrix, so we have
+###2203 a flow matrix and we have a distance matrix which we have constructed. An important thing
+###2209 to note here is that the distance matrix can be constructed only if you have a tentative
+###2215 layout.
+###2216 So it is for that tentative layout that we have made the distances, so then what we do
+###2223 is we multiply the two matrices element by element. Now we have the total material handling
+###2232 effect. This is the total loads multiplied with distance which we had in the previous
+###2238 matrix. We have two matrices; we multiply that so this is the total material handling
+###2244 effect. You will have these entrances here. We can sum up the rows; you will get 424 which
+###2252 is the material handling effort. Total material handling movement from the raw material is
+###2260 424 units and total material handling movement to the saw is 208. So this is the to and this
+###2269 is the from, in terms of total material handling effort and a zero in a particular column shows
+###2279 that this is a source and a zero in a particular row shows that this is the sink, obviously
+###2286 because what is happening is that everything flows from the raw materials store. It is
+###2291 a source, there is nothing coming to it and the finish goods is last operation. So that
+###2297 is where you have, and nothing goes out of it. If you sum up these values, this column
+###2304 or this row, the total value is 4032. So it shows that the process layout which we are
+###2315 at the movement investigating has a total material handling effort of 4032, this is
+###2324 significant a development because what have we done? We have been able to quantify the
+###2331 material handling movement for a layout and this is the likely objective function for
+###2336 that particular layout. We are able to say that the total material handling effort for
+###2342 this layout is so much. Clearly we could use this information to evaluate different layouts.
+###2350 Plant one, plant two, plant three, each one we can calculate the distance matrix will
+###2357 be different the load matrix will be the same. You will get different material handling figures
+###2364 which is like the objective function values and you can choose a particular layout which
+###2369 in fact has the minimum material handling effect and in fact this is one of the basic
+###2375 logic that is provided in the development of craft which is a computerized relative
+###2382 allocation of facilities technique which we can talk about in the next class.
+###2397 We can plant a layout by following these steps is something like this. Suppose these are
+###2405 the departments which are to be placed in a layout, the foreman office, the conference
+###2411 room, the parcel post parts, shipment repair and service area, servile area receiving testing
+###2416 and general storage, first thing that you can do is apart from the material handling
+###2423 effect, we were initially talking about box number one in the SLP procedure, i.e., development
+###2429 of the flow of materialism in the various types. We are not talking about box number
+###2434 two, where you are trying to develop activity relationships for these things. What you can
+###2439 say is for each pair for instance you can say that as far as repair and service parts
+###2445 is concerned its proximity two, for instance the conference room is unimportant, so we
+###2454 give a U rating here so this is the significant of the U. You have various ratings. Normally
+###2463 what we give is we give typically the ratings A E I O U and X. A means it is absolutely
+###2478 essential to locate the departments close to each other for instance, this is A, it
+###2485 is shows that parts shipment and general storage is absolutely essential to have them close
+###2491 to each other so you have an A rating. E means that is essential but not absolutely essential,
+###2497 so for instance service area and testing is essential to have them close to each other.
+###2503 I is important so for instance here the conference room in the foreman room is important to have
+###2511 them close to each other because you can call them for conference, O ordinary close nesses.
+###2520 You have an overrating between the repair and service department and the parcel post
+###2524 and U is unimportant that they be close to each other, for instance conference room it
+###2532 is unimportant that it is close to parcel post or parts shipment and so on. X means
+###2539 it is highly undesirable to have these two departments close to each other. You do not
+###2543 see that here. What may happen is for instance you might have a boundary; you might not want
+###2553 that to be close to your air condition metrology shop. You can give X rating; it is highly
+###2560 undesirable to have these things there. What is really important is given this ratings
+###2566 for these are giving the general preferences that you may have for locating certain department
+###2574 close to each other or not. You accommodate those priorities that you have in the form
+###2579 of these ratings, these are called activity relationships. The numbers are normally given
+###2590 because a factor say E might, you might have a number of reasons 1, 2, 3, 4, 5 which you
+###2599 document. (Refer Slide Time: 43:18)
+###2600 ‘Might’ refers to for what reason we identify E. When you are documenting this, the numbers
+###2617 are also clear here. We talk about these ratings:
+###2623 Absolutely essential Especially important
+###2626 Important Ordinary closeness OK
+###2628 unimportant and X is undesirable.
+###2631 When you are giving any rating it could be for various reasons for which you get a code
+###2637 like flow of materials, ease of supervision, common personnel, and contact necessary and
+###2642 convenience or something else. When you give a rating you might see whether it is for this
+###2647 reason or that reason whatever that is the idea. On the basis of this information we
+###2653 can develop what is called an activity relationship chart. This is what an activity relationship
+###2666 chart looks like. We have these departments from 1 to 10 which you can talk about, so
+###2674 each square represents a department 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. After being represented
+###2685 by a square, you identify what kind of a rating you want to get between these departments.
+###2693 Mind you the rating can also consider the material handling effort which you computed
+###2698 in step one. You can have various types of situation. It should be one line here, two
+###2708 lines here, three lines here and four lines here that is it and X U is no relationship
+###2716 and X rating could be wave V diagram. What will happen is for instance between one and
+###2721 three there are three lines. It means that there is an E rating between 1 and 3.
+###2727 Similarly for the others what will happen is that the number of lines between a department
+###2733 actually shows the a affinity between these departments that is the related desirability
+###2738 of different departments to be close to each other is stronger if the bond is stronger
+###2743 and the number of lines show the bond. You are basically getting an idea of which department
+###2748 should get close to each other to this. This is called an activity relationship diagram.
+###2758 Here we assumed that the same size was there for department particular to calculate the
+###2763 requirements of each department. So what will happen is typically how we will be able to
+###2768 do that for different departments? say if this is the saw department you know that this
+###2773 houses the equipment, the Amstrong hack saw and there are 3 of these the machine center
+###2780 dimension for each of these in feet in 10/9. The total machine area requirement is 190
+###2788 per machine and the total process area required is because there are 3 machines 570 square
+###2797 feet.
+###2798 You can find out immediately the amount of machine area that you need for this department
+###2804 called saw, similarly in the mill you might have different types of machines. You have
+###2809 a plain mill - 5 of them, vertical mill - 7 of them, hand mill- 4 of them. You know the
+###2814 department sizes of the machines center requirements, area of which department and the total area
+###2821 corresponding to each of these machines. This exercise can be done for the calculation of
+###2828 the production space.
+###2831 We do it for each department in the same manner and at the end of it we have been able to
+###2847 find out the total at that mean, the final area requirements the total square feet required
+###2854 is now 3931. This is the space required only for the machines, so normal practice in factory
+###2862 design is to add 40 percent space for aisle that is movement within the department. 40
+###2868 percent aisle space of this is 1572. The total production space required is 5503 that is
+###2875 how we calculated this space and we also know the space requirement of individual departments
+###2881 as a consequence. We have so far not considered non productive activity space, this is only
+###2892 protection space.
+###2893 You will have to add the requirements of the non production activity space for storage,
+###2898 office, locker rooms, foreman maintenance, and tool crib and so on. This total area comes
+###2903 out to 1448 square feet in addition to that you already had. We have to add to the earlier
+###2913 area production area 5503, this additional space 1448 and get the total requirement of
+###2921 6951 square feet of floor space required in total.
+###2926 This is the activity involved in calculating the space from the production requirements
+###2931 and the non production requirements. What is then finally done is we have the activity
+###2938 relationship diagram. The activity relationship diagram of each department was shown as a
+###2945 square; this is called a space relationship diagram. We did the calculations for the space;
+###2952 each department is shown propositional to its size. This department has a size of so
+###2958 much.
+###2959 This department has a size of so much and so on. This was a bigger department and it
+###2963 has a size of 1750 and so on. You represent these departments in terms of sizes propositional
+###2971 to the areas. What is the problem now? If you can imagine that these individual blocks
+###2978 are cut out of card board with various things, you could shift them around and try to range
+###2987 them in the form of a layout and you could then ultimately get a layout. This is basically
+###2994 what may of the computer programs do. They begin with this diagram as an input and then
+###3004 by shuffling around these departments, generate a layout. Obviously there are infinite possible
+###3009 combinations. You have to look for a best combination and best means. What is your objective?
+###3015 The objective could be anything; generally the objective is a material handling effort.
+###3021 If you are using activity relationships, you are trying to maximize the material handling
+###3027 and other factors also. What you do is you can give some weightages to A E I O U X, some
+###3033 marks and ultimately develop a layout for those particular boxes.
+###3041 Finally what we do is we can develop a plant layout by shuffling these departments. Ultimately
+###3048 this shuffling leads to what is called a block plan. So this is the block plan. We show department
+###3053 1 should be here, 2, 3, 4, 5
+###3055 We actually solved the plant layout problem for this particular case by developing a block
+###3060 plant which looks like this. Finally when we look at what we have tried to do in this
+###3068 particular lecture, we have seen that the objectives in different types of layouts whether
+###3073 you talking about process layout, product layout or mixed layout or even cellular layouts,
+###3078 the objectives are different. Therefore the ways of handling these layouts are all different.
+###3085 Systematic layout planning is a systematic procedure for designing process layouts and
+###3092 basically we looked at this procedure in this particular class to identify how systematic
+###3100 layout planning can be done for process layouts.
+###3103 From-to charts measure material handling effort. A step by step procedure for a sample layout
+###3110 was done and the major advantage of this particular systematic layout planning procedure is that
+###3116 it is a precursor to computerized layout planning. Therefore in the next class we will try to
+###3125 look at some of the computerized layout planning procedures that are available for handling
+###3131 the layout planning problem course. This will constitute a basis for doing the exercise.
+###3148 Thank you

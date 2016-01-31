@@ -1,0 +1,976 @@
+1
+0:0:0,0 --> 0:0:0,16
+
+
+
+2
+0:0:0,16 --> 0:0:1,4
+STEVE SPANGLER: So today's
+questions.
+
+
+3
+0:0:1,4 --> 0:0:4,4
+Who likes a lot of these lights
+and these lights here
+
+
+4
+0:0:4,4 --> 0:0:7,11
+and some batteries and this
+thing and some electrical tape
+
+
+5
+0:0:7,11 --> 0:0:9,43
+and a whole thing of super
+strong magnets?
+
+
+6
+0:0:9,43 --> 0:0:10,25
+Who?
+
+
+7
+0:0:10,25 --> 0:0:12,5
+This guy.
+
+
+8
+0:0:12,5 --> 0:0:15,13
+I'm Steve Spangler and I'm all
+about making science fun.
+
+
+9
+0:0:15,13 --> 0:0:18,15
+For the last 20 years, I've
+been teaching ways to turn
+
+
+10
+0:0:18,15 --> 0:0:21,16
+ordinary science experiments
+into unforgettable learning
+
+
+11
+0:0:21,16 --> 0:0:22,17
+experiences.
+
+
+12
+0:0:22,17 --> 0:0:24,81
+I have an amazing team who will
+do whatever it takes to
+
+
+13
+0:0:24,81 --> 0:0:27,54
+affect the way people
+think about science.
+
+
+14
+0:0:27,54 --> 0:0:31,25
+And to do that I live by one
+motto, make it big, do it
+
+
+15
+0:0:31,25 --> 0:0:32,855
+right, give it class.
+
+
+16
+0:0:32,855 --> 0:0:38,26
+
+
+
+17
+0:0:38,26 --> 0:0:40,81
+As a kid you probably had a
+whole bunch of these Christmas
+
+
+18
+0:0:40,81 --> 0:0:43,5
+lights, you know the strand
+that breaks, and somebody
+
+
+19
+0:0:43,5 --> 0:0:44,91
+throws them away and you
+figured this out.
+
+
+20
+0:0:44,91 --> 0:0:46,58
+You figured that you could take
+a pair of scissors-- no,
+
+
+21
+0:0:46,58 --> 0:0:48,23
+not while it's plugged in--
+you could take a pair of
+
+
+22
+0:0:48,23 --> 0:0:51,21
+scissors, cut it, strip the
+ends off and get something
+
+
+23
+0:0:51,21 --> 0:0:53,11
+that looks like this.
+
+
+24
+0:0:53,11 --> 0:0:56,89
+This now, was perfect to be able
+to learn how to use and
+
+
+25
+0:0:56,89 --> 0:0:57,82
+make circuits.
+
+
+26
+0:0:57,82 --> 0:1:0,36
+So you'd find yourself a big
+battery, because you needed to
+
+
+27
+0:1:0,36 --> 0:1:2,41
+have a good supply
+of energy there.
+
+
+28
+0:1:2,41 --> 0:1:4,69
+Because you never wanted
+to hook up just one.
+
+
+29
+0:1:4,69 --> 0:1:5,55
+You'd want to hook
+up multiples.
+
+
+30
+0:1:5,55 --> 0:1:6,94
+So you'd hang onto this one.
+
+
+31
+0:1:6,94 --> 0:1:9,65
+And this one would hook up
+and use alligator clips.
+
+
+32
+0:1:9,65 --> 0:1:13,29
+And, low and behold, if you
+completed the circuit, it
+
+
+33
+0:1:13,29 --> 0:1:14,54
+looked like this.
+
+
+34
+0:1:14,54 --> 0:1:17,44
+You see, as a kid, I
+was easily amused.
+
+
+35
+0:1:17,44 --> 0:1:19,6
+You could do parallel circuit
+and series circuits and
+
+
+36
+0:1:19,6 --> 0:1:24,12
+switches and whatever else you
+wanted to but, in short order,
+
+
+37
+0:1:24,12 --> 0:1:28,42
+LEDs gave way to all of
+this material here.
+
+
+38
+0:1:28,42 --> 0:1:31,82
+And this, was the new battery
+and bulbs unit.
+
+
+39
+0:1:31,82 --> 0:1:33,95
+LEDs, light emitting diodes.
+
+
+40
+0:1:33,95 --> 0:1:36,1
+They come in all these different
+sizes and shapes and
+
+
+41
+0:1:36,1 --> 0:1:38,51
+colors, and they run off such
+a small amount of energy.
+
+
+42
+0:1:38,51 --> 0:1:41,62
+This is a watch battery, so
+instead of that huge one we
+
+
+43
+0:1:41,62 --> 0:1:44,74
+had before, now you just have
+this small little battery.
+
+
+44
+0:1:44,74 --> 0:1:48,1
+In this state here, this will
+last 30, maybe 40 days
+
+
+45
+0:1:48,1 --> 0:1:52,55
+constantly on, and this is the
+basis of today's project.
+
+
+46
+0:1:52,55 --> 0:1:54,95
+It's amazing what you
+can find online.
+
+
+47
+0:1:54,95 --> 0:1:56,6
+I want to show you how
+to make a throwie.
+
+
+48
+0:1:56,6 --> 0:2:0,19
+A throwie is a device that was
+invented back in 2005, by
+
+
+49
+0:2:0,19 --> 0:2:2,2
+Graffiti Research Lab.
+
+
+50
+0:2:2,2 --> 0:2:6,51
+The idea was this-- what if
+you could make light in a
+
+
+51
+0:2:6,51 --> 0:2:10,6
+device that you could throw and
+have it stick to a metal
+
+
+52
+0:2:10,6 --> 0:2:14,13
+object and literally, graffiti
+the side of a bridge or a
+
+
+53
+0:2:14,13 --> 0:2:17,26
+building, something like that,
+using light as a graffiti
+
+
+54
+0:2:17,26 --> 0:2:18,84
+source instead of
+a can of paint.
+
+
+55
+0:2:18,84 --> 0:2:20,94
+And that's exactly what
+a throwie is.
+
+
+56
+0:2:20,94 --> 0:2:22,91
+Still don't understand what
+we're talking about?
+
+
+57
+0:2:22,91 --> 0:2:25,308
+Take a look at this video from
+Graffiti Research Lab.
+
+
+58
+0:2:25,308 --> 0:3:0,87
+[MUSIC PLAYING]
+
+
+59
+0:3:0,87 --> 0:3:2,69
+Here's what you're going
+to need, some LEDs.
+
+
+60
+0:3:2,69 --> 0:3:5,2
+Now, LEDS come in all
+shapes and sizes.
+
+
+61
+0:3:5,2 --> 0:3:6,8
+These are 10 millimeter LEDs.
+
+
+62
+0:3:6,8 --> 0:3:10,7
+They're super bright and
+they're probably--
+
+
+63
+0:3:10,7 --> 0:3:10,9
+I don't know--
+
+
+64
+0:3:10,9 --> 0:3:13,39
+$0.20, $0.30 cents apiece if
+you're buying a bag of 100 of
+
+
+65
+0:3:13,39 --> 0:3:14,84
+them, in bulk, online.
+
+
+66
+0:3:14,84 --> 0:3:16,7
+To power them you're going to
+need to have these watch
+
+
+67
+0:3:16,7 --> 0:3:17,57
+batteries here.
+
+
+68
+0:3:17,57 --> 0:3:20,7
+These are CR 2032s,
+very, very common.
+
+
+69
+0:3:20,7 --> 0:3:21,77
+It's a three volt battery.
+
+
+70
+0:3:21,77 --> 0:3:24,58
+Again, in quantity, maybe
+$0.30, $0.40.
+
+
+71
+0:3:24,58 --> 0:3:26,15
+You're going to need to have
+some electrical tape.
+
+
+72
+0:3:26,15 --> 0:3:28,8
+And finally, neodymium
+magnets, so
+
+
+73
+0:3:28,8 --> 0:3:29,9
+super strong magnets.
+
+
+74
+0:3:29,9 --> 0:3:31,71
+And that's what's going
+to hold it in place.
+
+
+75
+0:3:31,71 --> 0:3:34,446
+So let's start by making a red
+LED throwie and you're going
+
+
+76
+0:3:34,446 --> 0:3:35,64
+to start with the LED.
+
+
+77
+0:3:35,64 --> 0:3:38,92
+Now, these are 10 millimeter
+super brights.
+
+
+78
+0:3:38,92 --> 0:3:42,33
+And you're going to open up the
+little ends like this, so
+
+
+79
+0:3:42,33 --> 0:3:44,49
+that you can take the watch
+battery and kind of put it
+
+
+80
+0:3:44,49 --> 0:3:45,24
+right in between.
+
+
+81
+0:3:45,24 --> 0:3:48,15
+No extra wires needed, just hold
+it in place and it works.
+
+
+82
+0:3:48,15 --> 0:3:50,79
+If for some reason it doesn't
+work, it just means that you
+
+
+83
+0:3:50,79 --> 0:3:53,17
+have the LED probably
+reversed.
+
+
+84
+0:3:53,17 --> 0:3:55,4
+So if you put in place and it
+doesn't work, it doesn't mean
+
+
+85
+0:3:55,4 --> 0:3:56,9
+the battery is bad or
+the LED is bad.
+
+
+86
+0:3:56,9 --> 0:3:59,8
+Try just reversing it since this
+is polarity sensitive,
+
+
+87
+0:3:59,8 --> 0:4:2,1
+meaning plus goes to plus
+and minus goes to minus.
+
+
+88
+0:4:2,1 --> 0:4:3,29
+And it's ready to go.
+
+
+89
+0:4:3,29 --> 0:4:5,54
+It's just a simple
+little diode.
+
+
+90
+0:4:5,54 --> 0:4:7,33
+It starts with a piece
+of electrical tape.
+
+
+91
+0:4:7,33 --> 0:4:10,32
+If you pull off a piece of the
+tape, you can now make the
+
+
+92
+0:4:10,32 --> 0:4:12,22
+throwie like this.
+
+
+93
+0:4:12,22 --> 0:4:16,1
+And you want to just tape the
+leads in place around the
+
+
+94
+0:4:16,1 --> 0:4:22,14
+battery so it's making constant
+contact and this, is
+
+
+95
+0:4:22,14 --> 0:4:23,21
+a simple circuit.
+
+
+96
+0:4:23,21 --> 0:4:24,96
+Now, I guess it could
+be tossed around.
+
+
+97
+0:4:24,96 --> 0:4:26,3
+You could do something
+with it.
+
+
+98
+0:4:26,3 --> 0:4:29,82
+But it's not sticky and that's
+where the magnet comes in.
+
+
+99
+0:4:29,82 --> 0:4:33,11
+Well, to turn the LED and the
+watch battery into a throwie,
+
+
+100
+0:4:33,11 --> 0:4:35,74
+you're going to need to have a
+super strong neodymium magnet.
+
+
+101
+0:4:35,74 --> 0:4:38,41
+Now, these little guys have
+become expensive over the last
+
+
+102
+0:4:38,41 --> 0:4:40,62
+year and a half or two years,
+so that's the most expensive
+
+
+103
+0:4:40,62 --> 0:4:42,86
+part of the project, but you
+really do need these small
+
+
+104
+0:4:42,86 --> 0:4:45,9
+little neodymium magnets.
+
+
+105
+0:4:45,9 --> 0:4:46,18
+Here's how it works.
+
+
+106
+0:4:46,18 --> 0:4:49,93
+We use the watch battery to
+complete the circuit here with
+
+
+107
+0:4:49,93 --> 0:4:54,45
+the LED and then, we put the
+magnet right on the lead so it
+
+
+108
+0:4:54,45 --> 0:4:56,38
+literally, holds it in place.
+
+
+109
+0:4:56,38 --> 0:4:58,4
+Now, this whole thing gets
+wrapped with the electrical
+
+
+110
+0:4:58,4 --> 0:5:2,6
+tape and you have yourself
+a throwie.
+
+
+111
+0:5:2,6 --> 0:5:4,12
+We have everything in place
+now we just need to have
+
+
+112
+0:5:4,12 --> 0:5:5,56
+something metal.
+
+
+113
+0:5:5,56 --> 0:5:8,95
+That's where the trash can
+lid comes into place.
+
+
+114
+0:5:8,95 --> 0:5:10,31
+And that's what you
+call a throwie.
+
+
+115
+0:5:10,31 --> 0:5:12,14
+Now, you just need more.
+
+
+116
+0:5:12,14 --> 0:5:17,49
+What a perfect way to be able
+to combine science and art.
+
+
+117
+0:5:17,49 --> 0:5:21,75
+What if you had a throwie that
+you could turn on and off
+
+
+118
+0:5:21,75 --> 0:5:23,34
+using this little plastic tab?
+
+
+119
+0:5:23,34 --> 0:5:24,84
+It's easy to make.
+
+
+120
+0:5:24,84 --> 0:5:26,79
+Higginsworth actually
+came up with this.
+
+
+121
+0:5:26,79 --> 0:5:29,61
+This is a little plastic
+tab here that you
+
+
+122
+0:5:29,61 --> 0:5:30,72
+just pull in and out.
+
+
+123
+0:5:30,72 --> 0:5:32,92
+And it's made out of this
+little plastic here.
+
+
+124
+0:5:32,92 --> 0:5:35,75
+So we just took a piece of
+recycled packaging material,
+
+
+125
+0:5:35,75 --> 0:5:36,7
+cut it up in there.
+
+
+126
+0:5:36,7 --> 0:5:37,38
+It was perfect.
+
+
+127
+0:5:37,38 --> 0:5:40,22
+And this electrical tape that
+you see here, has another
+
+
+128
+0:5:40,22 --> 0:5:43,41
+piece of electrical tape here
+that won't stick to this, so
+
+
+129
+0:5:43,41 --> 0:5:45,88
+that it's easy to be able
+to slide it in and out.
+
+
+130
+0:5:45,88 --> 0:5:48,11
+Wrap the electrical tape around,
+put it on the magnet
+
+
+131
+0:5:48,11 --> 0:5:51,4
+side, and watch this as you
+pull, it lights up.
+
+
+132
+0:5:51,4 --> 0:5:53,5
+When you're done playing
+with it you are
+
+
+133
+0:5:53,5 --> 0:5:55,24
+back as you were before.
+
+
+134
+0:5:55,24 --> 0:5:58,91
+So let's say you're making a
+throwie, you've got your LEDs.
+
+
+135
+0:5:58,91 --> 0:5:59,78
+You've got the battery.
+
+
+136
+0:5:59,78 --> 0:6:2,225
+You've got your electrical
+tape.
+
+
+137
+0:6:2,225 --> 0:6:4,75
+The only thing you're missing
+is, of course, those super
+
+
+138
+0:6:4,75 --> 0:6:7,44
+expensive neodymium magnets.
+
+
+139
+0:6:7,44 --> 0:6:9,21
+Is there another way to get
+it to stick to something?
+
+
+140
+0:6:9,21 --> 0:6:11,86
+Well, how about Velcro?
+
+
+141
+0:6:11,86 --> 0:6:14,56
+So we just went out and bought
+some of the sticky back Velcro
+
+
+142
+0:6:14,56 --> 0:6:17,8
+and cut the Velcro so that
+you put, for example,
+
+
+143
+0:6:17,8 --> 0:6:19,14
+the hook side here.
+
+
+144
+0:6:19,14 --> 0:6:22,47
+And now, it's easy to be able to
+throw it onto the loop side
+
+
+145
+0:6:22,47 --> 0:6:23,76
+and it sticks perfectly.
+
+
+146
+0:6:23,76 --> 0:6:26,23
+Which got me to thinking, what
+if you could make an entire
+
+
+147
+0:6:26,23 --> 0:6:28,99
+suit, a jumpsuit,
+out of Velcro?
+
+
+148
+0:6:28,99 --> 0:6:33,47
+And you had, oh, I say, 150 or
+so friends that would throw
+
+
+149
+0:6:33,47 --> 0:6:36,93
+throwies on that jumpsuit.
+
+
+150
+0:6:36,93 --> 0:6:39,1
+Take a look at this.
+
+
+151
+0:6:39,1 --> 0:6:41,2
+Well, you know how to make a
+throwie using the Velcro.
+
+
+152
+0:6:41,2 --> 0:6:44,13
+The only thing you need now is
+something to throw the Velcro
+
+
+153
+0:6:44,13 --> 0:6:46,63
+to and that's where Higginsworth
+comes in.
+
+
+154
+0:6:46,63 --> 0:6:49,61
+Higginsworth, you have the
+Velcro and it's the other side
+
+
+155
+0:6:49,61 --> 0:6:51,81
+and it sticks.
+
+
+156
+0:6:51,81 --> 0:6:52,195
+It's perfect.
+
+
+157
+0:6:52,195 --> 0:6:53,445
+But that's not very fun.
+
+
+158
+0:6:53,445 --> 0:6:56,702
+It would be fun if there are
+hundreds of them like this.
+
+
+159
+0:6:56,702 --> 0:7:5,134
+
+
+
+160
+0:7:5,134 --> 0:7:6,622
+Now, that's cool.
+
+
+161
+0:7:6,622 --> 0:7:25,47
+
+
+
+162
+0:7:25,47 --> 0:7:27,82
+Now, I have three Velcro people
+
+
+163
+0:7:27,82 --> 0:7:29,11
+and hundreds of friends.
+
+
+164
+0:7:29,11 --> 0:7:30,33
+Watch this.
+
+
+165
+0:7:30,33 --> 0:7:31,58
+Go!
+
+
+166
+0:7:31,58 --> 0:8:13,244
+
+
+
+167
+0:8:13,244 --> 0:8:15,24
+Let's here it for
+Velcro, people!
+
+
+168
+0:8:15,24 --> 0:8:52,1
+
+
+
+169
+0:8:52,1 --> 0:8:53,6
+HIGGINSWORTH: What kind of ice
+cream do we get to try?
+
+
+170
+0:8:53,6 --> 0:8:55,4
+FEMALE SPEAKER: Caramel cone,
+cookies and cream, mango
+
+
+171
+0:8:55,4 --> 0:8:56,65
+sorbet and Belgian chocolate.
+
+
+172
+0:8:56,65 --> 0:10:56,65
+
+
+

@@ -1,0 +1,2783 @@
+1
+0:0:17,97 --> 0:0:23,89
+>>Tony Voellm: So with that, I'd like to introduce
+our first speaker of the day. Mark Trostler
+
+
+2
+0:0:23,89 --> 0:0:29,189
+is an O'Reilly author, well respected in the
+community. He has written a book on testable
+
+
+3
+0:0:29,189 --> 0:0:37,4
+JavaScript. He was born in Southern California.
+He says he is going to live there until he
+
+
+4
+0:0:37,4 --> 0:0:40,89
+dies. I told him please don't do that anytime
+soon. And with that, I'm going to hand it
+
+
+5
+0:0:40,89 --> 0:0:44,98
+off to Mark, and so here you are.
+[ Applause ]
+
+
+6
+0:0:44,98 --> 0:0:52,199
+>>Mark Trostler: Thanks. I don't know about
+well respected in the field. I don't know
+
+
+7
+0:0:52,199 --> 0:0:59,239
+where that came from, but....
+Okay. So my name is Mark. I work at Google.
+
+
+8
+0:0:59,239 --> 0:1:3,979
+I'm an SET with Google help. I'm actually
+based in Irvine.
+
+
+9
+0:1:3,979 --> 0:1:10,35
+Yes, I have this book Testable JavaScript.
+O'Reilly was supposed to send out a bunch
+
+
+10
+0:1:10,35 --> 0:1:17,79
+of copies but they failed, so they said find
+me afterwards and I'll collect emails and
+
+
+11
+0:1:17,79 --> 0:1:19,84
+if you're interested in the book, I can get
+you a free e-copy.
+
+
+12
+0:1:19,84 --> 0:1:29,79
+Okay. So when we talk about testability, before
+I even jump into this, we heard a lot about
+
+
+13
+0:1:29,79 --> 0:1:33,71
+testing and automating your testing and I
+think Simon yesterday said something really
+
+
+14
+0:1:33,71 --> 0:1:39,54
+great which was you can't sort of bake in
+testing and maintainability and all of this
+
+
+15
+0:1:39,54 --> 0:1:44,34
+stuff after the fact. It needs to be there
+from the very beginning; otherwise, you're
+
+
+16
+0:1:44,34 --> 0:1:50,229
+not going to get the benefits of automation
+and easy testing and all this. So it's really
+
+
+17
+0:1:50,229 --> 0:1:54,67
+important that from the very beginning, your
+applications don't just come in at the end
+
+
+18
+0:1:54,67 --> 0:1:58,38
+and try to test something.
+Really try to be present at the beginning
+
+
+19
+0:1:58,38 --> 0:2:2,7
+when these applications are being developed
+and architected so you could have your say
+
+
+20
+0:2:2,7 --> 0:2:9,6
+about how maybe they should be built to make
+your jobs and our jobs much easier down the
+
+
+21
+0:2:9,6 --> 0:2:14,92
+line when you need to test these things.
+Okay. So when we talk about testability, these
+
+
+22
+0:2:14,92 --> 0:2:19,58
+are sort of the standard things that get thrown
+out. We want loose coupling and tightly focused
+
+
+23
+0:2:19,58 --> 0:2:27,41
+methods, and all this other good stuff. No
+surprises, and all that. And I hear these
+
+
+24
+0:2:27,41 --> 0:2:33,41
+and I see these in a lot of presentations
+and when I talk to people, and that's great,
+
+
+25
+0:2:33,41 --> 0:2:38,98
+and I don't think anyone disagrees with any
+of these things, but rarely do we talk about,
+
+
+26
+0:2:38,98 --> 0:2:44,99
+okay, how specifically do we actually achieve
+these things? What do we need to do in our
+
+
+27
+0:2:44,99 --> 0:2:50,36
+applications that actually have loose coupling
+and tightly focused methods and all this other
+
+
+28
+0:2:50,36 --> 0:2:54,44
+stuff?
+Sorry.
+
+
+29
+0:2:54,44 --> 0:3:4,4
+So the way we get there is using interfaces
+and not implementations. And what I mean by
+
+
+30
+0:3:4,4 --> 0:3:10,25
+that is, and what a lot of this presentation
+is about, is we talk a lot -- there's a lot
+
+
+31
+0:3:10,25 --> 0:3:15,959
+of talk, especially in the JavaScript community
+and probably in Java as well, about hiding
+
+
+32
+0:3:15,959 --> 0:3:20,54
+data. I want to make this private. I want
+to make this protected. I'm going to use the
+
+
+33
+0:3:20,54 --> 0:3:28,12
+module pattern or closure to hide variables
+or properties and methods from you.
+
+
+34
+0:3:28,12 --> 0:3:33,5
+And when you start talking about what you're
+hiding versus what you're exposing, I think
+
+
+35
+0:3:33,5 --> 0:3:40,61
+you've already sort of lost.
+And so what I mean by that is when you program
+
+
+36
+0:3:40,61 --> 0:3:46,92
+and you test to implement to interfaces and
+not to implementations, your life becomes
+
+
+37
+0:3:46,92 --> 0:3:54,69
+a lot simpler. You can swap implementations
+very easily. You can work, end test, end code
+
+
+38
+0:3:54,69 --> 0:3:59,9
+all in parallel, and you will see what I mean
+by when I say all this stuff, and you can
+
+
+39
+0:3:59,9 --> 0:4:5,209
+write the test one time, hopefully, and then
+as you implement different functionality,
+
+
+40
+0:4:5,209 --> 0:4:8,33
+your tests don't have to change, or change
+very little.
+
+
+41
+0:4:8,33 --> 0:4:14,55
+I don't know -- we have some bonus slides
+that have slipped in here so I'm just going
+
+
+42
+0:4:14,55 --> 0:4:19,22
+to ignore those.
+So when I talked about interfaces in JavaScript,
+
+
+43
+0:4:19,22 --> 0:4:25,6
+the first reaction is, JavaScript doesn't
+have interfaces. Well, it sort of does, and
+
+
+44
+0:4:25,6 --> 0:4:31,44
+we can fake it by creating an object like
+this and defining a bunch of empty functions
+
+
+45
+0:4:31,44 --> 0:4:36,81
+or methods. And when I do this, what I've
+done here is I've essentially created an interface.
+
+
+46
+0:4:36,81 --> 0:4:43,28
+Here is an interface for a user repository.
+It provides some -- all the basic functionality
+
+
+47
+0:4:43,28 --> 0:4:49,5
+that I need to get and set and deal with users.
+Everyone's application, most applications
+
+
+48
+0:4:49,5 --> 0:4:54,99
+have users. You need a way to store them somewhere,
+somehow and then retrieve them back later.
+
+
+49
+0:4:54,99 --> 0:5:1,22
+So here we create a simple interface that
+can get and set and query and do these other
+
+
+50
+0:5:1,22 --> 0:5:8,35
+interesting things to a user repository.
+And what's great when I have an interface
+
+
+51
+0:5:8,35 --> 0:5:14,1
+like this, besides the fact that it's very
+sort of self-documenting is when I write my
+
+
+52
+0:5:14,1 --> 0:5:22,15
+tests, I write tests to the interface. So
+here you could see I'm passing in a repo object.
+
+
+53
+0:5:22,15 --> 0:5:28,669
+I don't care what this repo object, how it's
+actually implemented. I just care about its
+
+
+54
+0:5:28,669 --> 0:5:33,61
+interface, the save and the get methods. So
+I'm going to write a test here that I'm going
+
+
+55
+0:5:33,61 --> 0:5:38,7
+to save a user, and them I'm going to call
+get and get the user back, and then I'm just
+
+
+56
+0:5:38,7 --> 0:5:45,22
+going to verify that the user I saved is actually
+the user I returned. And this is all via the
+
+
+57
+0:5:45,22 --> 0:5:54,24
+interface, not via some implementation that
+is buried somewhere in the object.
+
+
+58
+0:5:54,24 --> 0:5:59,81
+So now when I want to actually have an implementation
+of that interface in JavaScript, it looks
+
+
+59
+0:5:59,81 --> 0:6:7,38
+something like this. First I have a constructor
+function which takes parameters specific to
+
+
+60
+0:6:7,38 --> 0:6:14,12
+that implementation. So here I'm using the
+redis data store to implement the user repo
+
+
+61
+0:6:14,12 --> 0:6:22,72
+interface, and it takes some host port options,
+sort of injected, as we'll see, dependencies
+
+
+62
+0:6:22,72 --> 0:6:29,199
+into the constructor, and then I have any
+-- I have my redis client here, and then later
+
+
+63
+0:6:29,199 --> 0:6:36,169
+on I set the prototype of this constructor
+function to be the interface itself. So here
+
+
+64
+0:6:36,169 --> 0:6:43,35
+I'm sort of declaring to the world that I'm
+going to implement this user repo interface.
+
+
+65
+0:6:43,35 --> 0:6:49,55
+And then finally on the prototype I go ahead
+and define all the methods that the interface
+
+
+66
+0:6:49,55 --> 0:6:56,46
+says I need to define. Get, save, query, delete,
+you know, whatever.
+
+
+67
+0:6:56,46 --> 0:7:6,669
+So in this way I've sort of created a JavaScript
+object that implements my interface.
+
+
+68
+0:7:6,669 --> 0:7:11,99
+So what we've got here is we have an object
+that's acting as an interface. There's no
+
+
+69
+0:7:11,99 --> 0:7:18,199
+initialization you could do on this object.
+This object can only be used by implementations
+
+
+70
+0:7:18,199 --> 0:7:23,61
+to actually get work done. The interface itself
+does nothing.
+
+
+71
+0:7:23,61 --> 0:7:29,479
+The implementation itself has a constructor
+which takes specific parameters that are injected
+
+
+72
+0:7:29,479 --> 0:7:33,88
+into it to actually create the object, the
+implementation.
+
+
+73
+0:7:33,88 --> 0:7:38,669
+And then I sort of state my intention to the
+world that, hey, I'm going to implement this
+
+
+74
+0:7:38,669 --> 0:7:43,8
+interface by setting my prototype equal to
+it.
+
+
+75
+0:7:43,8 --> 0:7:48,69
+And then finally, in the actually implementation
+object, I then go ahead and I override all
+
+
+76
+0:7:48,69 --> 0:7:54,84
+those interface methods, and now I have an
+actual implementation of that interface.
+
+
+77
+0:7:54,84 --> 0:8:0,58
+And what's great here is now when I need to
+test this thing, I've already got the tests.
+
+
+78
+0:8:0,58 --> 0:8:7,31
+I just create a new object of this specific
+implementation of the user repo interface,
+
+
+79
+0:8:7,31 --> 0:8:12,15
+and now I just call the test method it, and,
+great, I do my save and my get and hopefully
+
+
+80
+0:8:12,15 --> 0:8:18,15
+it all works, and now I've just tested my
+implementation.
+
+
+81
+0:8:18,15 --> 0:8:23,61
+So time goes on. My application is growing.
+Redis turns out, oh, crap, that was a bad
+
+
+82
+0:8:23,61 --> 0:8:30,43
+idea to use redis. We actually need to use
+Amazon S3. No problem. Very simple. All we
+
+
+83
+0:8:30,43 --> 0:8:36,18
+need is a new implementation of our user repo
+interface. Going to call this one user repo
+
+
+84
+0:8:36,18 --> 0:8:42,62
+S3. It has a constructor. It takes parameters
+that are injected into the constructor for
+
+
+85
+0:8:42,62 --> 0:8:47,86
+what we need for this specific implementation.
+I'm going to announce to the world that I
+
+
+86
+0:8:47,86 --> 0:8:53,6
+am also going to implement this user repo
+interface, and then I'm going to go ahead
+
+
+87
+0:8:53,6 --> 0:8:58,879
+and actually create the methods that actually
+are going to implement that interface, the
+
+
+88
+0:8:58,879 --> 0:9:5,629
+save, the get, the whatever. Hey, I've already
+got the test for this thing. All I need to
+
+
+89
+0:9:5,629 --> 0:9:14,369
+do is wire up a new Amazon -- sorry, user
+repo S3 object, run it through my tests that
+
+
+90
+0:9:14,369 --> 0:9:18,869
+I've already created that I've already created,
+and I could tell easily, quickly, if this
+
+
+91
+0:9:18,869 --> 0:9:26,819
+thing actually works or not.
+Which brings us to our first principle of
+
+
+92
+0:9:26,819 --> 0:9:31,97
+the day, which is the single responsibility
+principle that says every interface essentially
+
+
+93
+0:9:31,97 --> 0:9:40,929
+should just do one thing and one thing only.
+Which leads us to the second principle of
+
+
+94
+0:9:40,929 --> 0:9:46,97
+the day, which is no object should be forced
+to depend on methods and functionality that
+
+
+95
+0:9:46,97 --> 0:9:54,11
+it doesn't use or need.
+And we saw that in our user repo interface.
+
+
+96
+0:9:54,11 --> 0:10:0,939
+It just deals with saving and getting users.
+There's nothing else in there. There's no
+
+
+97
+0:10:0,939 --> 0:10:6,319
+extra functionality that I might or might
+not need later.
+
+
+98
+0:10:6,319 --> 0:10:10,559
+Which finally takes us to our first pattern,
+which I'll just call it the interface pattern
+
+
+99
+0:10:10,559 --> 0:10:16,5
+here. When we bring all this stuff together,
+we have the single responsibility principle.
+
+
+100
+0:10:16,5 --> 0:10:22,989
+We match sets with gets, and what I mean by
+that is if you have -- if your interface has
+
+
+101
+0:10:22,989 --> 0:10:27,949
+a way to take something in, it should have
+a corresponding method to get the thing back
+
+
+102
+0:10:27,949 --> 0:10:31,259
+out.
+I see this a lot with logging. There is a
+
+
+103
+0:10:31,259 --> 0:10:35,899
+method on the logger to log something, and
+then it goes away, and there's no way to get
+
+
+104
+0:10:35,899 --> 0:10:40,929
+it back. The only way to get it back later
+is you have some other way to maybe query
+
+
+105
+0:10:40,929 --> 0:10:46,48
+the database later to actually read the logs.
+That's sort of dumb. You should have something
+
+
+106
+0:10:46,48 --> 0:10:50,23
+in the interface, if you can set it, you should
+be able to get it back.
+
+
+107
+0:10:50,23 --> 0:10:57,41
+You end up with more smaller interfaces versus
+a couple really big interfaces that try to
+
+
+108
+0:10:57,41 --> 0:11:1,369
+do everything. You really want a lot of small
+focused ones.
+
+
+109
+0:11:1,369 --> 0:11:6,42
+And then of course we want the interface segregation
+principle. We want our interfaces just doing
+
+
+110
+0:11:6,42 --> 0:11:11,85
+one thing, one thing only, not any extra functionality
+in there.
+
+
+111
+0:11:11,85 --> 0:11:17,19
+And when you write tests and when you write
+your application, you just look at the interface.
+
+
+112
+0:11:17,19 --> 0:11:21,319
+You don't look at the implementation. That
+interface we saw, the user repo interface,
+
+
+113
+0:11:21,319 --> 0:11:26,23
+it's an object. It's a self-documenting. Here
+are all the methods on it. Here's sort of
+
+
+114
+0:11:26,23 --> 0:11:29,649
+what they -- the parameters that they take.
+That's the only thing you should be looking
+
+
+115
+0:11:29,649 --> 0:11:36,11
+at when you're programming and when you're
+testing.
+
+
+116
+0:11:36,11 --> 0:11:43,49
+Okay. So we've created a bunch of nice interfaces.
+We've maybe gotten some implementations of
+
+
+117
+0:11:43,49 --> 0:11:47,569
+those interfaces. Now it's time to actually
+use this stuff.
+
+
+118
+0:11:47,569 --> 0:11:53,699
+What we don't want to do is just turn around
+and in something that actually needs our user
+
+
+119
+0:11:53,699 --> 0:12:2,6
+repo is to call new. Because what we've done
+is you've tightly coupled your implementation
+
+
+120
+0:12:2,6 --> 0:12:8,759
+to the thing that needs it. So here later
+on when I switch from redis to S3, I need
+
+
+121
+0:12:8,759 --> 0:12:14,799
+to go through all my code and find out all
+the places where I sort of got this user repo
+
+
+122
+0:12:14,799 --> 0:12:21,69
+redis object that is now very tightly coupled
+here and replace it with the S3 object. Not
+
+
+123
+0:12:21,69 --> 0:12:28,9
+only that, any parameters that this thing
+needed to be created, I need to somehow switch
+
+
+124
+0:12:28,9 --> 0:12:31,839
+to now being the S3 parameters instead of
+these.
+
+
+125
+0:12:31,839 --> 0:12:36,6
+So we don't want to do this. This is the sort
+of definition poster child of tight coupling
+
+
+126
+0:12:36,6 --> 0:12:42,69
+when you do something like this.
+So what you do want to do is pass the dependent
+
+
+127
+0:12:42,69 --> 0:12:47,379
+in in the constructor just like we saw for
+those interfaces earlier when we were creating
+
+
+128
+0:12:47,379 --> 0:12:52,799
+implementations. You pass these things into
+the constructor.
+
+
+129
+0:12:52,799 --> 0:12:57,509
+And then later on, we just sort of save off
+a copy of it, and then later on, in class,
+
+
+130
+0:12:57,509 --> 0:13:3,819
+we'll use the interface methods of this user
+repo object. And now my controller doesn't
+
+
+131
+0:13:3,819 --> 0:13:11,429
+care, doesn't know, doesn't want to know whether
+it's redis, it's S3, it's MySQL, it's whatever
+
+
+132
+0:13:11,429 --> 0:13:17,759
+the heck you decide it should be later, because
+these things change, and they do, this class
+
+
+133
+0:13:17,759 --> 0:13:25,939
+does not care, doesn't know. It's just programming
+to the interface.
+
+
+134
+0:13:25,939 --> 0:13:30,529
+Which brings us to the next principle. The
+Liskov substitution principle has a big impressive
+
+
+135
+0:13:30,529 --> 0:13:36,199
+sounding name which is something which is
+pretty simple intuitively, which is any objects
+
+
+136
+0:13:36,199 --> 0:13:42,879
+that implements the same interfaces, they
+can be swapped out at will. So as we saw earlier,
+
+
+137
+0:13:42,879 --> 0:13:49,19
+I have my user repo S3, I have my user repo
+redis. I can swap them out to my user controller
+
+
+138
+0:13:49,19 --> 0:13:54,1
+class. My user controller class has no idea,
+doesn't care, shouldn't have to know, doesn't
+
+
+139
+0:13:54,1 --> 0:14:1,91
+know. That's all thanks to the Liskov substitution
+principle. A great phrase.
+
+
+140
+0:14:1,91 --> 0:14:6,799
+So when you pass in all your dependents to
+a constructor, you end up with something called
+
+
+141
+0:14:6,799 --> 0:14:13,249
+constructor injection. A very fancy name for
+just passing in all your dependents to a constructor.
+
+
+142
+0:14:13,249 --> 0:14:17,98
+And what's great about constructor injection
+is it makes all of that object's dependencies
+
+
+143
+0:14:17,98 --> 0:14:24,48
+very explicit such that you can't even create
+this object until you have all of its dependencies
+
+
+144
+0:14:24,48 --> 0:14:30,29
+passed into it. You can't create an object
+that's sort of half created and then later
+
+
+145
+0:14:30,29 --> 0:14:34,769
+on you need to remember to call, like, an
+init method or set something else up over
+
+
+146
+0:14:34,769 --> 0:14:39,449
+here. You can't even get this object at all
+until you've actually passed in all of its
+
+
+147
+0:14:39,449 --> 0:14:44,29
+dependencies in the constructor.
+This also gives us this nice loose coupling
+
+
+148
+0:14:44,29 --> 0:14:50,709
+that everyone agrees is a great idea that
+lets us swap out implementations at runtime
+
+
+149
+0:14:50,709 --> 0:14:57,209
+or whenever you need to, essentially, to get
+very loose coupling.
+
+
+150
+0:14:57,209 --> 0:15:0,29
+There are a couple exceptions to this rule,
+and we're going to talk about those in a little
+
+
+151
+0:15:0,29 --> 0:15:11,199
+bit. Runtime dependencies being the most common.
+When we talk about constructor injection and
+
+
+152
+0:15:11,199 --> 0:15:16,709
+we say you can't create an object until you
+pass in all of its dependencies to it, the
+
+
+153
+0:15:16,709 --> 0:15:22,59
+first thing you would think about is, well,
+crap, that doesn't seem to help me. Now the
+
+
+154
+0:15:22,59 --> 0:15:28,129
+object that -- now I need to know all of the
+dependencies of any object I need in order
+
+
+155
+0:15:28,129 --> 0:15:32,819
+to create that object. And that sort of puts
+all the onus on me. And that doesn't seem
+
+
+156
+0:15:32,819 --> 0:15:37,739
+to make sense.
+Well, you're right. You shouldn't create objects,
+
+
+157
+0:15:37,739 --> 0:15:43,29
+in fact, should you very rarely, if ever,
+create objects during the normal course of
+
+
+158
+0:15:43,29 --> 0:15:48,419
+the running of your application.
+What we want to do here is, we want to create
+
+
+159
+0:15:48,419 --> 0:15:54,259
+all of our objects up-front at the very beginning
+of -- before your application even runs, create
+
+
+160
+0:15:54,259 --> 0:16:0,69
+all your objects, create all your dependencies,
+and then sort of kick your application off
+
+
+161
+0:16:0,69 --> 0:16:6,41
+once you have all of your dependencies and
+all the objects created from this giant object
+
+
+162
+0:16:6,41 --> 0:16:10,769
+graph.
+So what we've got here is, we really broke
+
+
+163
+0:16:10,769 --> 0:16:17,689
+our application into two distinct phases,
+if you will. One is at the very beginning
+
+
+164
+0:16:17,689 --> 0:16:23,439
+at a place called composition root, if you
+want a fancy phrase for it. You create all
+
+
+165
+0:16:23,439 --> 0:16:30,16
+the objects your application is going to need
+for its entire life. You sort of follow this
+
+
+166
+0:16:30,16 --> 0:16:36,569
+object graph, and you create all these objects.
+And then you create sort of the highest level
+
+
+167
+0:16:36,569 --> 0:16:40,729
+one, and then you kick it off and hit "start,"
+and then off it goes.
+
+
+168
+0:16:40,729 --> 0:16:46,399
+So we create all of our objects at the very
+beginning, and then we, if the first phase,
+
+
+169
+0:16:46,399 --> 0:16:52,819
+and then in phase 2, we actually use the objects
+in our application runs, and it's all right.
+
+
+170
+0:16:52,819 --> 0:16:59,179
+Now, in a Web application, composition root
+isn't necessarily when the entire application
+
+
+171
+0:16:59,179 --> 0:17:5,36
+starts up, say, with the Web server or something
+like that. There's also the request cycle.
+
+
+172
+0:17:5,36 --> 0:17:12,35
+For instance, a user object, you don't know
+who the user is specifically until the request
+
+
+173
+0:17:12,35 --> 0:17:16,689
+cycle starts and you've sort of retrieved
+your session. You're like, oh, the user is
+
+
+174
+0:17:16,689 --> 0:17:20,78
+Mark. I'm going to create the user object
+Mark that represents him.
+
+
+175
+0:17:20,78 --> 0:17:26,149
+So it's okay for your composition root to
+be, you know, scoped at a request cycle as
+
+
+176
+0:17:26,149 --> 0:17:30,71
+well as from the very first time your application
+starts up.
+
+
+177
+0:17:30,71 --> 0:17:36,299
+Okay. Great. So we want to create all these
+objects at the very beginning. Well, then
+
+
+178
+0:17:36,299 --> 0:17:42,72
+what creates all the objects?
+Well, there's lots of different dependency
+
+
+179
+0:17:42,72 --> 0:17:48,2
+injectors or inversion of control containers,
+whatever you like calling them. Those are
+
+
+180
+0:17:48,2 --> 0:17:54,9
+the things that are -- actually create your
+objects for you. And you can use sort of one
+
+
+181
+0:17:54,9 --> 0:17:59,419
+off the shelf. Certainly there's many for
+Java. There's a lot for JavaScript as well,
+
+
+182
+0:17:59,419 --> 0:18:11,679
+it turns out. cujo, cujojs is a really popular
+one. Do it yourself, that's a DIY dependency
+
+
+183
+0:18:11,679 --> 0:18:15,919
+injection. You can also do it yourself. And
+the idea is, at the very beginning of your
+
+
+184
+0:18:15,919 --> 0:18:19,679
+application, at the composition root, whether
+that's during the request cycle or when your
+
+
+185
+0:18:19,679 --> 0:18:23,759
+application first starts up or when you first
+push all your client-side JavaScript to your
+
+
+186
+0:18:23,759 --> 0:18:32,95
+browser, this object depends on these three,
+these three objects depend on these eight,
+
+
+187
+0:18:32,95 --> 0:18:37,82
+these eight depend on these 24. Finally, at
+the very bottom, you have a set of objects
+
+
+188
+0:18:37,82 --> 0:18:42,86
+that don't depend on anything else. So you
+create those first. You walk your way up your
+
+
+189
+0:18:42,86 --> 0:18:47,85
+sort of dependency graph until you get to
+the very top, and then you've created everything.
+
+
+190
+0:18:47,85 --> 0:18:53,9
+And that's what these dependency injection
+or inversion of control containers are really
+
+
+191
+0:18:53,9 --> 0:18:59,24
+good at, are walking that object graph to
+create all your objects for you.
+
+
+192
+0:18:59,24 --> 0:19:7,86
+AngularJS, open source Google project, does
+dependency injection as well.
+
+
+193
+0:19:7,86 --> 0:19:14,36
+So there's -- you have lots of -- you have
+lots of options here of what you want to use.
+
+
+194
+0:19:14,36 --> 0:19:23,61
+Okay. So you've created these sort of self-contained
+objects, and they just do one thing, and they
+
+
+195
+0:19:23,61 --> 0:19:29,179
+do one thing only. And that's great. And then
+the question is, well, what about this other
+
+
+196
+0:19:29,179 --> 0:19:34,759
+stuff that I might want to do? I might want
+to do logging. I might want to do caching,
+
+
+197
+0:19:34,759 --> 0:19:41,61
+all these sort of cross-cutting concerns.
+And the question is, how do we sort of weave
+
+
+198
+0:19:41,61 --> 0:19:47,39
+these cross-cutting concerns into the fabric
+of our application here?
+
+
+199
+0:19:47,39 --> 0:19:52,13
+We don't -- we know we don't want to pollute
+our interfaces with logging or with any of
+
+
+200
+0:19:52,13 --> 0:19:57,23
+this other stuff, because you might need it,
+you might not need it. Not all classes might
+
+
+201
+0:19:57,23 --> 0:20:2,98
+want logging. So how do we bring all this
+stuff together?
+
+
+202
+0:20:2,98 --> 0:20:8,7
+Well, let's first look at what we don't want
+to do. And what we don't want to do is what
+
+
+203
+0:20:8,7 --> 0:20:14,669
+we saw earlier, which is just sort of, you
+know, create new versions of this stuff within
+
+
+204
+0:20:14,669 --> 0:20:20,269
+a specific implementation. So within my userrepo
+redis implementation, I don't want to just
+
+
+205
+0:20:20,269 --> 0:20:25,769
+turn around and call, you know, new logger
+or new profiler. Again, this tightly couples
+
+
+206
+0:20:25,769 --> 0:20:31,389
+us to those implementations. And it makes
+things a lot more difficult to test when you
+
+
+207
+0:20:31,389 --> 0:20:37,87
+have this stuff sort of buried within the
+object itself. It's a lot harder to mock out
+
+
+208
+0:20:37,87 --> 0:20:43,549
+and stub this stuff out.
+So you say, okay, well, I want to pass some
+
+
+209
+0:20:43,549 --> 0:20:49,22
+stuff in maybe to the implementation. And
+this is on the right track in that we're using
+
+
+210
+0:20:49,22 --> 0:20:56,299
+constructor injection. But there are a lot
+of problems with this approach as well.
+
+
+211
+0:20:56,299 --> 0:21:1,36
+For one, the single responsibility principle
+here is, now we have a specific implementation.
+
+
+212
+0:21:1,36 --> 0:21:7,909
+Userrepo redis is now sort of baked in logging
+and profiling. And when I want to use the
+
+
+213
+0:21:7,909 --> 0:21:11,87
+userrepo redis object and maybe I don't want
+profiling and I don't want logging, I'm sort
+
+
+214
+0:21:11,87 --> 0:21:14,84
+of stuck here.
+So what I mean by that specifically is, you'll
+
+
+215
+0:21:14,84 --> 0:21:23,44
+end up with code something like this method
+that's implementing the save interface method.
+
+
+216
+0:21:23,44 --> 0:21:30,94
+You sort of put all this extra junk in here
+that not all users of this class might need.
+
+
+217
+0:21:30,94 --> 0:21:34,83
+Here we've got logging, we have profiling,
+and then in the middle of all that, we're
+
+
+218
+0:21:34,83 --> 0:21:38,879
+actually going to reach out to redis to save
+the user. And then we're going to do some
+
+
+219
+0:21:38,879 --> 0:21:46,69
+more logging and more profiling. And the problem
+here is, in our next implementation, userrepo
+
+
+220
+0:21:46,69 --> 0:21:51,25
+S3, I've got to remember if I want logging,
+profiling, I've got to pull all this code
+
+
+221
+0:21:51,25 --> 0:21:56,9
+out of there and I've got to put it over here.
+And as I said earlier, not everybody -- you
+
+
+222
+0:21:56,9 --> 0:22:2,74
+might not want logging and profiling all the
+time whenever you're using this object.
+
+
+223
+0:22:2,74 --> 0:22:9,85
+So the solution to this problem is -- like
+the solution to almost all problems, is, we
+
+
+224
+0:22:9,85 --> 0:22:15,7
+want to keep the different functionality separate.
+We want to maintain the single responsibility
+
+
+225
+0:22:15,7 --> 0:22:21,29
+principle. We want to keep -- we don't want
+to put in any extra functionality into our
+
+
+226
+0:22:21,29 --> 0:22:25,19
+implementation here that some classes might
+not need.
+
+
+227
+0:22:25,19 --> 0:22:31,429
+So what we want to do is create an interface.
+So here is a logger interface. You see it
+
+
+228
+0:22:31,429 --> 0:22:36,929
+just has two methods here, a log method, and
+then, a way to get the log back out once you've
+
+
+229
+0:22:36,929 --> 0:22:40,75
+put the log in.
+And here's a simple implementation of that
+
+
+230
+0:22:40,75 --> 0:22:46,809
+interface. Here's an implementation that's
+going to log to a file. You can imagine one
+
+
+231
+0:22:46,809 --> 0:22:57,84
+that would log to a database or log to a remote
+logging somewhere else. I have my implementation-specific
+
+
+232
+0:22:57,84 --> 0:23:2,12
+constructor that's going to take a file. Here
+I'm announcing to the world that I am going
+
+
+233
+0:23:2,12 --> 0:23:7,289
+to implement the logger interface. And then
+I go ahead and blow through all the interface
+
+
+234
+0:23:7,289 --> 0:23:13,169
+methods and implement them for this specific
+implementation.
+
+
+235
+0:23:13,169 --> 0:23:18,96
+So quick aside here. One thing that makes
+JavaScript really nice is, we can sort of
+
+
+236
+0:23:18,96 --> 0:23:25,99
+do whatever we want with the objects. A lot
+of sort of built-in reflection.
+
+
+237
+0:23:25,99 --> 0:23:29,75
+Here's just a quick method called mixin. And
+what this method is going to do -- and we'll
+
+
+238
+0:23:29,75 --> 0:23:34,539
+see how we use it on the next slide -- is,
+we're going to sort of take all the methods
+
+
+239
+0:23:34,539 --> 0:23:40,639
+from base class and automatically embed them
+sort of from the base, and we're going to
+
+
+240
+0:23:40,639 --> 0:23:44,96
+automatically add them to a different object.
+So we're just going to blow through all the
+
+
+241
+0:23:44,96 --> 0:23:50,6
+properties in our base object. And then if
+we find one that's a method and that doesn't
+
+
+242
+0:23:50,6 --> 0:23:56,669
+already exist in the -- in our current implementation,
+we're just going to stick it on the current
+
+
+243
+0:23:56,669 --> 0:24:3,12
+object. And we'll see how we use this in a
+second.
+
+
+244
+0:24:3,12 --> 0:24:6,779
+Well, let's just look at how we use this thing,
+actually.
+
+
+245
+0:24:6,779 --> 0:24:13,179
+Okay. So let's get back to our initial problem
+here, which is, we want to sort of have logging
+
+
+246
+0:24:13,179 --> 0:24:20,249
+with our -- with our userrepo. So here's how
+we do it. We create something called a decorator.
+
+
+247
+0:24:20,249 --> 0:24:25,33
+And here is a specific implementation of one,
+a userrepo logger. And the idea of the decorator
+
+
+248
+0:24:25,33 --> 0:24:31,399
+here is, it is going to also implement the
+userrepo interface, but it's going to have
+
+
+249
+0:24:31,399 --> 0:24:35,37
+logging baked into it.
+So, again, here I have a constructor which
+
+
+250
+0:24:35,37 --> 0:24:40,289
+is being injected with its dependencies in
+this case. It has a dependency of another
+
+
+251
+0:24:40,289 --> 0:24:44,779
+userrepo object. We don't care which one,
+because it's just going to -- we're just programming
+
+
+252
+0:24:44,779 --> 0:24:49,509
+to the interface. And a logger object. Again,
+we don't care which one, because we're just
+
+
+253
+0:24:49,509 --> 0:24:56,72
+going to deal with the interface.
+Now we're going to mix in all of the original
+
+
+254
+0:24:56,72 --> 0:25:2,889
+repo's original methods into this class. And
+this is really just sort of a helper which
+
+
+255
+0:25:2,889 --> 0:25:10,559
+lets me not have to define all of the save,
+the get, the query user, the delete user methods.
+
+
+256
+0:25:10,559 --> 0:25:16,62
+If I don't declare any of those off our prototype,
+then they will just fall back to sort of the
+
+
+257
+0:25:16,62 --> 0:25:22,34
+inner repo's version of those methods.
+And then, finally, I actually am going to
+
+
+258
+0:25:22,34 --> 0:25:27,159
+implement the save method here. And what I'm
+going to do here is, I'm actually going to
+
+
+259
+0:25:27,159 --> 0:25:32,7
+take the logger, and I'm going to do my logging.
+And then I'm going to sort of hand off responsibility
+
+
+260
+0:25:32,7 --> 0:25:41,59
+for the actual repo saving to whatever repo
+was passed in to me.
+
+
+261
+0:25:41,59 --> 0:25:47,58
+And so here what I've done is I've sort of
+intercepted or decorated the save method with
+
+
+262
+0:25:47,58 --> 0:25:54,639
+logging. And what's great here is, the inner
+repo, whichever one I happen to pass in, userrepo
+
+
+263
+0:25:54,639 --> 0:26:0,549
+redis, userrepo S3, or whatever, has no idea
+that logging is happening. And the logging
+
+
+264
+0:26:0,549 --> 0:26:7,86
+has no idea about the userrepo. They're not
+mixed in any way. Only through this decorator
+
+
+265
+0:26:7,86 --> 0:26:13,789
+class.
+So when I want to create one of these things
+
+
+266
+0:26:13,789 --> 0:26:20,72
+at the very beginning of my application, using
+my dependency injector and my container, I
+
+
+267
+0:26:20,72 --> 0:26:26,57
+create whichever implementation of userrepo
+I want. Here in this case, the redis 1. I
+
+
+268
+0:26:26,57 --> 0:26:31,639
+create whichever implementation of the logging
+I want. Here in this case, the file one.
+
+
+269
+0:26:31,639 --> 0:26:36,72
+And now I've got another userrepo that, thanks
+to our good friend, the Liskov Substitution
+
+
+270
+0:26:36,72 --> 0:26:43,169
+Principle, says I can now use this userrepo
+anywhere I was using a userrepo before, and
+
+
+271
+0:26:43,169 --> 0:26:50,98
+now I get logging for free without having
+to, you know, mess up my original userrepo
+
+
+272
+0:26:50,98 --> 0:26:59,62
+redis or S3 implementation.
+Okay. So we talked about -- we wanted to do
+
+
+273
+0:26:59,62 --> 0:27:4,379
+profiling, too. Remember that?
+So let's again go through this same kind of
+
+
+274
+0:27:4,379 --> 0:27:9,73
+deal here. I'm going to create a profile interface.
+It does a start and a stop. And then, of course,
+
+
+275
+0:27:9,73 --> 0:27:15,35
+it has a way to get it back out, too, once
+we've stuck it in. Here's a very simple implementation
+
+
+276
+0:27:15,35 --> 0:27:22,2
+of that interface. Here's my constructor function,
+which has implementation-specific parameters,
+
+
+277
+0:27:22,2 --> 0:27:29,19
+none in this case, announcing to the world
+that I am going to implement the profile interface.
+
+
+278
+0:27:29,19 --> 0:27:34,86
+And then, finally, I'm going to go ahead and
+actually implement all of those methods there.
+
+
+279
+0:27:34,86 --> 0:27:41,85
+Here's just start, stop.
+One can imagine, of course, other profiling.
+
+
+280
+0:27:41,85 --> 0:27:48,97
+What if you want disk space profiling, what
+if you wanted CPU profiling? No problem, just
+
+
+281
+0:27:48,97 --> 0:27:53,919
+create another implementation of the profiler
+interface and you've got those.
+
+
+282
+0:27:53,919 --> 0:28:0,34
+Again, I'm going to create another decorator
+for this one, going to call it userrepo profiler.
+
+
+283
+0:28:0,34 --> 0:28:6,129
+This one in its constructor function takes,
+again, an inner repo, it takes a profiler
+
+
+284
+0:28:6,129 --> 0:28:13,46
+interface. I'm going to mix in everything
+from the userrepo into this current object.
+
+
+285
+0:28:13,46 --> 0:28:18,269
+Again, this is just sort of like a convenience
+so I don't -- so this object doesn't have
+
+
+286
+0:28:18,269 --> 0:28:22,559
+to implement all of the interface methods
+if it doesn't want to.
+
+
+287
+0:28:22,559 --> 0:28:28,899
+And then, finally, I'm going to sort of intercept
+or decorator the save method of the userrepo
+
+
+288
+0:28:28,899 --> 0:28:33,39
+interface. And in this case, I'm going to
+do -- sort of start my profiler, then I'm
+
+
+289
+0:28:33,39 --> 0:28:39,159
+going to delegate to the inner repo to do
+any actual saving, and then I'm going to stop
+
+
+290
+0:28:39,159 --> 0:28:47,169
+the profiler. So now I have a sort of profiling
+userrepo.
+
+
+291
+0:28:47,169 --> 0:28:52,9
+And then, finally, we're going to put the
+whole thing together here to get an all-seeing,
+
+
+292
+0:28:52,9 --> 0:28:59,35
+all-knowing, all doing logging and profiling
+userrepo object. So first I'm going to create
+
+
+293
+0:28:59,35 --> 0:29:4,33
+a specific implementation here. I'm going
+to use the redis one. For grins, I'm going
+
+
+294
+0:29:4,33 --> 0:29:9,83
+to use the time implementation for profiler.
+I'm going to use the logger implement- -- the
+
+
+295
+0:29:9,83 --> 0:29:15,69
+file implementation for logger. And now I'm
+going to sort of create my -- here's my profiling
+
+
+296
+0:29:15,69 --> 0:29:24,369
+userrepo object. And then here's my logging
+profiling userrepo object. Because I've been
+
+
+297
+0:29:24,369 --> 0:29:29,44
+programming to interfaces, I can -- and because
+of our good friend the Liskov Substitution
+
+
+298
+0:29:29,44 --> 0:29:36,879
+Principle, I can use this userrepo prof object
+anywhere I can use a userrepo object since
+
+
+299
+0:29:36,879 --> 0:29:41,759
+it implements that interface. So I'm going
+to use that to pass into the userrepo logger
+
+
+300
+0:29:41,759 --> 0:29:48,799
+object. And now, at the very end here, I have
+a userrepo object that can be used anywhere
+
+
+301
+0:29:48,799 --> 0:29:57,71
+a userrepo object could be used. But this
+one has logging and profiling built into it.
+
+
+302
+0:29:57,71 --> 0:30:5,519
+And at no point have I sort of violated any
+of our principles of keeping things separate.
+
+
+303
+0:30:5,519 --> 0:30:11,749
+And what's great is, I can test the heck out
+of my logger implementation. I can test the
+
+
+304
+0:30:11,749 --> 0:30:17,49
+heck out of the profiler implementation. And
+I don't need to mix them. I don't need to
+
+
+305
+0:30:17,49 --> 0:30:24,749
+have that kind of testing also when I'm just
+testing the userrepo interface as well.
+
+
+306
+0:30:24,749 --> 0:30:36,889
+Okay. So just a quick note on tests here.
+There's a couple ways to test decorators.
+
+
+307
+0:30:36,889 --> 0:30:44,46
+One is, you sort of mock out the -- sort of
+the part that's doing the decorating. Then
+
+
+308
+0:30:44,46 --> 0:30:52,769
+you just sort of call your save method on
+that object, and then you verify your mocked-out
+
+
+309
+0:30:52,769 --> 0:30:57,34
+object.
+The other way is to sort of create the whole
+
+
+310
+0:30:57,34 --> 0:31:6,669
+thing and sort of mock out everything. And
+so this is more like if you don't trust the
+
+
+311
+0:31:6,669 --> 0:31:11,119
+fact that when you put all of this stuff together
+it's actually going to work like you think
+
+
+312
+0:31:11,119 --> 0:31:16,659
+it is, you can -- you can do tests like that.
+The previous way is, you've sort of tested
+
+
+313
+0:31:16,659 --> 0:31:21,72
+the two in -- all the interfaces in isolation,
+and you can just run them through your normal
+
+
+314
+0:31:21,72 --> 0:31:28,899
+userrepo test that we saw earlier, that save
+that's just saving to the -- you know, that's
+
+
+315
+0:31:28,899 --> 0:31:34,429
+just using the interface methods.
+So they're really easy to test, and these
+
+
+316
+0:31:34,429 --> 0:31:40,639
+decorators are obviously -- are very easy
+to mock out as well.
+
+
+317
+0:31:40,639 --> 0:31:45,639
+Which brings us to our second pattern, which
+is the decorator pattern, which is what we
+
+
+318
+0:31:45,639 --> 0:31:54,8
+just saw. And the whole game here is, again,
+everything we just saw, you create a constructor
+
+
+319
+0:31:54,8 --> 0:31:59,59
+that sort of takes an inner version of the
+interface and any other objects it needs that
+
+
+320
+0:31:59,59 --> 0:32:6,539
+it's going to decorate the interface with.
+Then you want to sort of mix in the inner
+
+
+321
+0:32:6,539 --> 0:32:12,739
+objects methods into your decorator objects
+so you don't have to implement all the interface
+
+
+322
+0:32:12,739 --> 0:32:18,649
+methods if you don't want to.
+And then, finally, you go ahead and actually
+
+
+323
+0:32:18,649 --> 0:32:24,95
+implement the interface methods that you want,
+using -- using the decorator, using the other
+
+
+324
+0:32:24,95 --> 0:32:29,539
+object you passed in the logger, the profiler,
+to actually do the work that you want the
+
+
+325
+0:32:29,539 --> 0:32:34,39
+decorator to do.
+And I say in there optionally, because it
+
+
+326
+0:32:34,39 --> 0:32:39,409
+turns out you don't actually need to call
+the inner interface if for some reason your
+
+
+327
+0:32:39,409 --> 0:32:44,7
+decorator decides it doesn't need to. And
+the sort of the canonical example here is
+
+
+328
+0:32:44,7 --> 0:32:50,899
+caching. You don't want to build caching directly
+into your implementations. You can write a
+
+
+329
+0:32:50,899 --> 0:32:57,85
+caching decorator that in the save method
+or in the get method, it would look to see,
+
+
+330
+0:32:57,85 --> 0:33:3,19
+hey, is this object already in my cache that
+I'm keeping locally in the decorator? If so,
+
+
+331
+0:33:3,19 --> 0:33:10,71
+I don't need to delegate it all to the inner
+repo. I can just return the object I've already
+
+
+332
+0:33:10,71 --> 0:33:16,179
+got.
+Okay. Last bit I'm going to talk about here
+
+
+333
+0:33:16,179 --> 0:33:25,239
+is, what about runtime dependencies?
+And sort of the example here is, I've got
+
+
+334
+0:33:25,239 --> 0:33:32,499
+a dating site, awesome Web site. People come,
+they try to find their matches for who they
+
+
+335
+0:33:32,499 --> 0:33:37,2
+want to go out with. And there's a couple
+different criteria they can use to determine
+
+
+336
+0:33:37,2 --> 0:33:42,7
+what they want to use to find their matches.
+They can use do we share the same likes? Do
+
+
+337
+0:33:42,7 --> 0:33:48,129
+we like to do the same activities? Distance,
+how far away are they from me. Or anything
+
+
+338
+0:33:48,129 --> 0:33:51,759
+else you can think of.
+And the idea here is that when the user comes
+
+
+339
+0:33:51,759 --> 0:33:55,989
+to the site, they sort of have a pulldown,
+and it's up to them to select how they want
+
+
+340
+0:33:55,989 --> 0:33:58,529
+to find their matches, one of those three
+things.
+
+
+341
+0:33:58,529 --> 0:34:4,6
+Well, the thing is, you don't know what they're
+going to pick; right? So you can't sort of
+
+
+342
+0:34:4,6 --> 0:34:10,399
+create a user controller object or something
+at the beginning with one of these fine match
+
+
+343
+0:34:10,399 --> 0:34:13,52
+algorithms, because it's up to the user to
+pick it. You don't know what it's going to
+
+
+344
+0:34:13,52 --> 0:34:18,53
+be.
+So the first step here, of course, is to create
+
+
+345
+0:34:18,53 --> 0:34:23,7
+an interface called findmatches. This is given
+a user ID. It's going to return a set of matches
+
+
+346
+0:34:23,7 --> 0:34:26,79
+for them.
+And then we're going to go ahead and create
+
+
+347
+0:34:26,79 --> 0:34:32,29
+some implementations of this interface. Again,
+here's -- that "F" is just short for function,
+
+
+348
+0:34:32,29 --> 0:34:38,29
+because there wasn't enough room on the slide.
+So I have a constructor function here. Here's
+
+
+349
+0:34:38,29 --> 0:34:44,5
+one for distance. Here I'm going to say I
+am going to implement the find matches interface,
+
+
+350
+0:34:44,5 --> 0:34:50,3
+and then I have some other objects here. I've
+got one for activities. I've got one that's
+
+
+351
+0:34:50,3 --> 0:34:55,859
+going to find your closest matches for likes
+and whatnot.
+
+
+352
+0:34:55,859 --> 0:35:1,7
+So here's the crux of the problem here, is,
+in my user controller, I don't know what you're
+
+
+353
+0:35:1,7 --> 0:35:9,64
+going to pick. So I don't know which find
+match sort of implementation to inject here.
+
+
+354
+0:35:9,64 --> 0:35:15,65
+So I could inject all three. That's sort of
+-- that's clunky, doesn't smell right. What
+
+
+355
+0:35:15,65 --> 0:35:20,349
+about if I come up with a fourth? You know,
+a fourth one later. Then I've got to make
+
+
+356
+0:35:20,349 --> 0:35:26,2
+sure I add it there. What if there are other
+things that need sort of a dynamically injected
+
+
+357
+0:35:26,2 --> 0:35:34,52
+findmatches?
+So the solution here is an abstract factory.
+
+
+358
+0:35:34,52 --> 0:35:40,869
+So I don't want to get too bogged down in
+the terminology "abstract factory." That sounds
+
+
+359
+0:35:40,869 --> 0:35:44,94
+crazy. That sounds like something you need
+in Java, not something you need in JavaScript.
+
+
+360
+0:35:44,94 --> 0:35:48,99
+Isn't JavaScript supposed to free us from
+all of this?
+
+
+361
+0:35:48,99 --> 0:35:55,349
+Well, when I say "abstract factory," all I'm
+talking about here is, it's an object that's
+
+
+362
+0:35:55,349 --> 0:36:0,869
+going to take a runtime value and return a
+dependency. That's all I mean here.
+
+
+363
+0:36:0,869 --> 0:36:5,7
+So to create one of these abstract factories,
+just like everything else, I'm going to have
+
+
+364
+0:36:5,7 --> 0:36:12,26
+an interface. I'm going to call this one findmatch
+factory. It just has one method, a get match
+
+
+365
+0:36:12,26 --> 0:36:17,589
+implementation. And you can see it takes a
+type. And this type, say, is just a string,
+
+
+366
+0:36:17,589 --> 0:36:22,88
+likes or activities or distance. And it's
+going to return to me the implementation I
+
+
+367
+0:36:22,88 --> 0:36:27,97
+need, the findmatch implementation I need,
+to actually find the matches that the user
+
+
+368
+0:36:27,97 --> 0:36:33,75
+has requested.
+So here's a quick implementation of this interface.
+
+
+369
+0:36:33,75 --> 0:36:40,839
+Again, I have my constructor. In this case,
+it's going to take a userrepo object. I have
+
+
+370
+0:36:40,839 --> 0:36:46,7
+a -- I'm here, I'm broadcasting to the world
+that I am going to implement the findmatch
+
+
+371
+0:36:46,7 --> 0:36:55,589
+factory interface. And then here is my get
+match implementation actual implementation
+
+
+372
+0:36:55,589 --> 0:36:59,839
+of it. And you can see there's something slightly
+strange here which should make you sort of
+
+
+373
+0:36:59,839 --> 0:37:5,54
+recoil, is that there's -- new's in here.
+Whenever you see "new" in code, you should
+
+
+374
+0:37:5,54 --> 0:37:10,619
+get a little bit scared.
+But it turns out for factories, it's okay.
+
+
+375
+0:37:10,619 --> 0:37:16,619
+It's okay to call new here. This is the whole
+point of this object. You don't have to do
+
+
+376
+0:37:16,619 --> 0:37:23,329
+it this way. You can also pass these sort
+of three or more implementations in via the
+
+
+377
+0:37:23,329 --> 0:37:28,69
+constructor. It's sort of up to you how you
+want to do it. But the idea here is, I'm going
+
+
+378
+0:37:28,69 --> 0:37:34,7
+to take a type, a runtime value, and I'm going
+to return an actual implementation.
+
+
+379
+0:37:34,7 --> 0:37:38,75
+So in this case, I'm going to switch on the
+type, and depending on which one they selected,
+
+
+380
+0:37:38,75 --> 0:37:43,549
+I will return you the correct implementation
+for that type.
+
+
+381
+0:37:43,549 --> 0:37:50,67
+Okay. So what happens here is, in my user
+controller, what I'm injecting into its constructor
+
+
+382
+0:37:50,67 --> 0:37:58,44
+is the abstract factory. That's the whole
+game here. So here I'm injecting in the abstract
+
+
+383
+0:37:58,44 --> 0:38:7,49
+factory. I save it off for later, and then
+-- so here's a constructor. Here I'm saying
+
+
+384
+0:38:7,49 --> 0:38:14,47
+I am implementing the controller interface.
+And then in this method here, where -- that
+
+
+385
+0:38:14,47 --> 0:38:19,26
+finally boils down to when the user has actually
+selected their type, I know what type they
+
+
+386
+0:38:19,26 --> 0:38:25,329
+selected, I know what the user is. Now I reach
+out to my factory that was injected to me,
+
+
+387
+0:38:25,329 --> 0:38:30,22
+and I say, aha, okay, I've finally got the
+type. Give me the object that matches this
+
+
+388
+0:38:30,22 --> 0:38:37,17
+type. It does. And then now I can call the
+interface method matches, if you remember
+
+
+389
+0:38:37,17 --> 0:38:42,48
+from the findmatch interface, to actually
+get the matches that the user requested, whether
+
+
+390
+0:38:42,48 --> 0:38:51,76
+you get it by distance, or likes or activities,
+whatever they wanted.
+
+
+391
+0:38:51,76 --> 0:38:57,31
+What's great about abstract factories is,
+they're really easy to test. You know, all
+
+
+392
+0:38:57,31 --> 0:39:2,49
+-- they're not doing very much. Right? They're
+just translating from a type to an object.
+
+
+393
+0:39:2,49 --> 0:39:8,64
+So a dead-simple test is just to iterate over
+all of the known types and make sure you got
+
+
+394
+0:39:8,64 --> 0:39:15,95
+the object back that you expected.
+And they're really easy to mock out. So when
+
+
+395
+0:39:15,95 --> 0:39:23,849
+we want to test the user controller, mocking
+out an abstract factory is really simple.
+
+
+396
+0:39:23,849 --> 0:39:31,13
+So here's a -- here's an implementation of
+our abstract factory for test. It has a specific
+
+
+397
+0:39:31,13 --> 0:39:37,18
+constructor that takes a mocked-out match
+version and what the expected type was. I
+
+
+398
+0:39:37,18 --> 0:39:41,74
+say I'm going to implement this interface.
+And then the get matching implementation just
+
+
+399
+0:39:41,74 --> 0:39:46,1
+sort of returns the mock, plus it checks to
+make sure that the type it got passed was
+
+
+400
+0:39:46,1 --> 0:39:52,349
+what was actually expected.
+And then you can go ahead and inject this
+
+
+401
+0:39:52,349 --> 0:40:3,329
+mocked out or test version of the abstract
+factory into your user controller.
+
+
+402
+0:40:3,329 --> 0:40:8,53
+Which brings us to our final pattern of the
+day, which is the abstract factory pattern.
+
+
+403
+0:40:8,53 --> 0:40:13,74
+And the game here is, as we just discussed,
+I'm going to take a runtime value and I'm
+
+
+404
+0:40:13,74 --> 0:40:21,359
+going to return to you an actual object for
+that runtime value. The factory implementation
+
+
+405
+0:40:21,359 --> 0:40:27,549
+itself has created a composition root, along
+with all the other objects. And you inject
+
+
+406
+0:40:27,549 --> 0:40:34,1
+the factory instead of injecting, you know,
+the actual, you know, findmatches object into
+
+
+407
+0:40:34,1 --> 0:40:40,97
+the constructor of any object that needs to
+deal with this runtime value.
+
+
+408
+0:40:40,97 --> 0:40:46,49
+And then, finally, you use the factory at
+the moment when you actually need it to get
+
+
+409
+0:40:46,49 --> 0:41:2,59
+the actual dependency that you needed.
+Okay. So to sort of tie a bow on all of this,
+
+
+410
+0:41:2,59 --> 0:41:7,67
+what we really like to see when we're talking
+about testable JavaScript or, really, testable
+
+
+411
+0:41:7,67 --> 0:41:16,26
+probably anything, is we like composition.
+Inheritance is a little more stifling. Composition
+
+
+412
+0:41:16,26 --> 0:41:23,4
+allows us to really easily mix and match pieces
+that we need without sort of sullying our
+
+
+413
+0:41:23,4 --> 0:41:32,39
+implementation objects or our interfaces.
+We want to program and test to those interfaces.
+
+
+414
+0:41:32,39 --> 0:41:36,839
+Again, we talked about -- I talked at the
+very beginning about hiding data, making stuff
+
+
+415
+0:41:36,839 --> 0:41:40,91
+private, putting, like, an underscore there
+to make sure people know that, hey, this is
+
+
+416
+0:41:40,91 --> 0:41:45,71
+private, don't touch this. Using interfaces,
+it's just here's the interface. That's what
+
+
+417
+0:41:45,71 --> 0:41:53,21
+you've got. That's it.
+You don't have to worry about hiding as much.
+
+
+418
+0:41:53,21 --> 0:41:58,77
+Again, we want to create lots of small interfaces,
+because we've seen how easy it is to mix and
+
+
+419
+0:41:58,77 --> 0:42:5,69
+match them together. And it's significantly
+easier to test small interfaces and to mock
+
+
+420
+0:42:5,69 --> 0:42:11,589
+out small interfaces than it is big, hairy,
+complex ones.
+
+
+421
+0:42:11,589 --> 0:42:16,65
+We're going to decorate and intercept for
+those cross-cutting concerns. We're going
+
+
+422
+0:42:16,65 --> 0:42:23,47
+to constructor inject all of our dependencies,
+even the runtime ones, using abstract factories.
+
+
+423
+0:42:23,47 --> 0:42:27,27
+And here's our abstract factories for the
+runtime dependencies.
+
+
+424
+0:42:27,27 --> 0:42:34,539
+And, finally, there's really, unfortunately,
+only one way to actually ensure testability
+
+
+425
+0:42:34,539 --> 0:42:39,7
+of your code. And that is to write the tests
+first. Because then you're guaranteed to have
+
+
+426
+0:42:39,7 --> 0:42:44,289
+the tests up-front. But if you follow, you
+know, all of these patterns and these principles
+
+
+427
+0:42:44,289 --> 0:42:49,43
+I showed you, maybe you could try to get away
+without writing the tests first. But why would
+
+
+428
+0:42:49,43 --> 0:42:52,53
+you want to do that?
+That's all I've got.
+
+
+429
+0:42:52,53 --> 0:42:56,23
+Thank you very much.
+[ Applause ]
+
+
+430
+0:42:56,23 --> 0:43:4,99
+>>Tony Voellm: Thank you, Mark. That was fantastic.
+And thank you for bringing back my childhood
+
+
+431
+0:43:4,99 --> 0:43:9,89
+fears with the cujojs.
+For those of you who don't know Cujo, it was
+
+
+432
+0:43:9,89 --> 0:43:14,46
+this giant German shepherd that's rabid, attacks
+his family. They're stuck in the car. Everybody
+
+
+433
+0:43:14,46 --> 0:43:19,869
+dies. It's a terrible movie. So years of Beethoven
+and Disney has fixed this, but I'm going to
+
+
+434
+0:43:19,869 --> 0:43:21,94
+have to watch that movie tonight.
+>>Mark Trostler: Sorry to take you back down
+
+
+435
+0:43:21,94 --> 0:43:27,41
+that road.
+>>Tony Voellm: Questions? We have two mikes
+
+
+436
+0:43:27,41 --> 0:43:30,73
+in the aisle, like we did yesterday.
+So I see one live question.
+
+
+437
+0:43:30,73 --> 0:43:34,809
+When you ask your question, state your name,
+your company, and your question. Or you can
+
+
+438
+0:43:34,809 --> 0:43:36,95
+delete other parts if you don't really want
+to state your name.
+
+
+439
+0:43:36,95 --> 0:43:43,869
+So with that, go ahead, please.
+>>> My name is Alec Monroe. I work at Arc90.
+
+
+440
+0:43:43,869 --> 0:43:51,44
+I noticed one piece that wasn't injectable:
+The redis client or the S3 client.
+
+
+441
+0:43:51,44 --> 0:43:55,69
+Wouldn't that become an issue when you were
+trying to do something live and you didn't
+
+
+442
+0:43:55,69 --> 0:43:58,369
+want to actually -- or trying to test something
+and you didn't want to actually have to be
+
+
+443
+0:43:58,369 --> 0:44:1,16
+talking to S3?
+>>Mark Trostler: That's a good point. Because
+
+
+444
+0:44:1,16 --> 0:44:7,22
+when I was looking at the slides, I was, like,
+you could just inject the redis object itself
+
+
+445
+0:44:7,22 --> 0:44:14,95
+into the user redis repo. But sort of the
+idea of the user redis repo is, it's talking
+
+
+446
+0:44:14,95 --> 0:44:20,849
+to redis. So that's sort of a -- you know,
+like, a piece of that object that can't really
+
+
+447
+0:44:20,849 --> 0:44:25,66
+be abstracted away.
+But using, you know -- programming to the
+
+
+448
+0:44:25,66 --> 0:44:29,359
+interface, it's really easy just to create
+a mock. So if you don't really want to talk
+
+
+449
+0:44:29,359 --> 0:44:34,4
+to redis, it's really easy just to create
+a mocked-out version of userrepo that, you
+
+
+450
+0:44:34,4 --> 0:44:38,39
+know, is just checking to make sure, like,
+did I get this? Was that what I expected?
+
+
+451
+0:44:38,39 --> 0:44:40,349
+And whatnot?
+>>> So use a different repo in that case?
+
+
+452
+0:44:40,349 --> 0:44:44,63
+>>Mark Trostler: Yeah, just use a different
+repo. Since you're programming to the interface,
+
+
+453
+0:44:44,63 --> 0:44:50,5
+it doesn't matter what the interface is.
+>>Tony Voellm: With that, thank you. If you
+
+
+454
+0:44:50,5 --> 0:44:53,45
+have other questions, I'm sure you'll be around,
+Mark.
+
+
+455
+0:44:53,45 --> 0:44:56,799
+>>Mark Trostler: I'll be around. This is a
+good question on the Dory, too. But --
+
+
+456
+0:44:56,799 --> 0:45:0,25
+>>Tony Voellm: It's a fantastic question.
+It says -- it's about, you know, performance
+
+
+457
+0:45:0,25 --> 0:45:3,13
+concerns if you have ten seconds, ten seconds
+here.
+
+
+458
+0:45:3,13 --> 0:45:6,27
+>>Mark Trostler: So the idea is -- so the
+question is, well, if you create all your
+
+
+459
+0:45:6,27 --> 0:45:10,39
+objects up-front, isn't that a performance
+problem or something like that.
+
+
+460
+0:45:10,39 --> 0:45:14,26
+Turns out it's really not, since you're going
+to be creating all these objects anyway during
+
+
+461
+0:45:14,26 --> 0:45:18,1
+the course of your application, it's better
+to create them up-front and then you have
+
+
+462
+0:45:18,1 --> 0:45:21,559
+less of a performance issue throughout the
+rest of your application.
+
+
+463
+0:45:21,559 --> 0:45:30,65
+>>Tony Voellm: Good answer. All right.
+Thank you. All right.
+
+
+464
+0:45:30,65 --> 0:47:30,65
+[ Applause ]
+
+

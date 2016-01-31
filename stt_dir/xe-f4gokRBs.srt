@@ -1,0 +1,516 @@
+1
+0:0:0,0 --> 0:0:4,0
+Hey it's me Destin. Welcome back to Smarter Every Day. Today we're gonna do awesome science with
+
+
+2
+0:0:4,0 --> 0:0:8,0
+Orbix Hot Glass here at Lookout Mountain Alabama. Goggle up.
+
+
+3
+0:0:8,0 --> 0:0:12,0
+Science is about to happen. We're gonna use a high speed camera and learn about Prince Rupert's Drop.
+
+
+4
+0:0:12,0 --> 0:0:16,0
+[whispers] It's never been done on the internet. You're gonna learn something.
+
+
+5
+0:0:16,0 --> 0:0:18,0
+Let's go.
+
+
+6
+0:0:18,0 --> 0:0:22,5
+
+
+
+7
+0:0:22,5 --> 0:0:24,0
+OK we are here inside the shop with
+
+
+8
+0:0:24,0 --> 0:0:28,0
+Cal. Cal owns the place. Can you show me how to make a Prince Rupert's Drop?
+
+
+9
+0:0:28,0 --> 0:0:32,0
+(Cal) Sure. I'm gonna gather some glass, drop it in a bucket of
+
+
+10
+0:0:32,0 --> 0:0:34,0
+cold water.
+
+
+11
+0:0:34,0 --> 0:0:36,0
+
+
+
+12
+0:0:36,0 --> 0:0:41,5
+[sizzling sound]
+
+
+13
+0:0:41,5 --> 0:0:44,0
+(Destin) So after it cools down, this is what you're left with.
+
+
+14
+0:0:44,0 --> 0:0:48,0
+It kinda looks like a tadpole, but it has some really interesting mechanical properties.
+
+
+15
+0:0:48,0 --> 0:0:52,0
+We can actually hit this thing with a hammer and it won't break.
+
+
+16
+0:0:52,0 --> 0:0:56,0
+OK I'm ready. [bang]
+Didn't go.
+
+
+17
+0:0:56,0 --> 0:1:0,0
+OK I think Cal is kind of a pansy so I.. You think you can break it? [laugh]
+
+
+18
+0:1:0,0 --> 0:1:4,0
+So we're gonna try again only this time I'm gonna make him hit it really hard
+
+
+19
+0:1:4,0 --> 0:1:8,0
+and I'm gonna record it with high speed. Does that work? Think you can break it? Alright. Let's do it.
+
+
+20
+0:1:8,0 --> 0:1:12,0
+The challenge is on.
+(Cal) Just hit it?
+- Yep.
+
+
+21
+0:1:12,0 --> 0:1:16,0
+[bang] [shattering] [laughs]
+So do you think you actually broke it? I don't think
+
+
+22
+0:1:16,0 --> 0:1:20,0
+you did. You think you broke it?
+- I know I broke it. [laugh]
+
+
+23
+0:1:20,0 --> 0:1:24,0
+- Let's look at the high speed.
+
+
+24
+0:1:24,0 --> 0:1:26,0
+[music]
+
+
+25
+0:1:26,0 --> 0:1:28,0
+
+
+
+26
+0:1:28,0 --> 0:1:32,0
+OK so the drop broke, but technically it wasn't the
+
+
+27
+0:1:32,0 --> 0:1:36,0
+hammer that broke it. If you look close in the high speed you can see that it's the wiggling of the
+
+
+28
+0:1:36,0 --> 0:1:40,0
+tail that makes it go. This is the mystery of the
+
+
+29
+0:1:40,0 --> 0:1:44,0
+Prince Rupert's Drop. You can try
+
+
+30
+0:1:44,0 --> 0:1:48,0
+as hard as you can to break the bulb, but you can't.
+
+
+31
+0:1:48,0 --> 0:1:52,0
+But, if you even nick the tail, the entire thing will explode. Not shatter,
+
+
+32
+0:1:52,0 --> 0:1:56,0
+but actually explode. Let's go outside and I'll show you more.
+
+
+33
+0:1:56,0 --> 0:2:0,0
+OK we're gonna just run an obscene frame rate here. We have this
+
+
+34
+0:2:0,0 --> 0:2:4,0
+Phantom V1610. So, glass breaking occurs
+
+
+35
+0:2:4,0 --> 0:2:8,0
+so fast that you have to have like hundreds of thousands of frames per second, so we're gonna
+
+
+36
+0:2:8,0 --> 0:2:12,0
+have a lower resolution and we have to have a lot of light as well. We're also gonna use this Miro over
+
+
+37
+0:2:12,0 --> 0:2:16,0
+here to run about 3000 frames per second so we can get a wide shot to see the whole event.
+
+
+38
+0:2:16,0 --> 0:2:20,0
+as well.
+3..2..1.. go.
+
+
+39
+0:2:20,0 --> 0:2:24,0
+[shatter]
+
+
+40
+0:2:24,0 --> 0:2:26,0
+      [Awesome Music by Gordon McGladdery}
+
+
+41
+0:2:26,0 --> 0:2:56,0
+
+
+
+42
+0:2:56,0 --> 0:3:0,0
+OK now we understand what a Prince Rupert Drop does, but at this point
+
+
+43
+0:3:0,0 --> 0:3:4,0
+we don't quite understand why it does it. Let's take a closer look.
+
+
+44
+0:3:4,0 --> 0:3:8,0
+OK this is called a polariscope and basically what it is is it's a filtered piece of
+
+
+45
+0:3:8,0 --> 0:3:12,0
+glass that's polarized. I have another filter here. You can see if I turn it,
+
+
+46
+0:3:12,0 --> 0:3:16,0
+then I can block out the light. Now if I put this on the camera
+
+
+47
+0:3:16,0 --> 0:3:20,0
+that you're looking through here, and then I put the Prince Rupert's Drop in between
+
+
+48
+0:3:20,0 --> 0:3:24,0
+the two pieces of glass, you should be able to see the internal stresses built up
+
+
+49
+0:3:24,0 --> 0:3:28,0
+inside the Prince Rupert's Drop. So to understand how these stresses got here, let's
+
+
+50
+0:3:28,0 --> 0:3:32,0
+use the color grey to represent nice and strong solid glass. We use red
+
+
+51
+0:3:32,0 --> 0:3:36,0
+to represent molten glass and because of the thermal expansion coefficient it's safe to assume that the
+
+
+52
+0:3:36,0 --> 0:3:40,0
+higher the temperature the larger this glass wants to be. Blue represents glass that's cooling
+
+
+53
+0:3:40,0 --> 0:3:44,0
+off, or transitioning between the two states. Because of that same thermal expansion coefficient 
+
+
+54
+0:3:44,0 --> 0:3:48,0
+this glass is shrinking and basically pulling in on itself. Think of a
+
+
+55
+0:3:48,0 --> 0:3:52,0
+Prince Rupert's Drop as a bunch of little infantessimal pieces of glass with each piece trying to interact
+
+
+56
+0:3:52,0 --> 0:3:56,0
+with the pieces around it. When the molten glass is first dripped into the water, the
+
+
+57
+0:3:56,0 --> 0:4:0,0
+outside layer touches the water and immediately solidifies. This locks in that
+
+
+58
+0:4:0,0 --> 0:4:4,0
+outside shape of the drop. The inside of the drop however is still a hot expanded
+
+
+59
+0:4:4,0 --> 0:4:8,0
+liquid. As heat's transferred to the water that glass on the inside slowly begins to
+
+
+60
+0:4:8,0 --> 0:4:12,0
+cool down, and pulls in against that outside layer. The problem is that
+
+
+61
+0:4:12,0 --> 0:4:16,0
+because it's already locked in as a round solid, it only compresses tighter against
+
+
+62
+0:4:16,0 --> 0:4:20,0
+itself. This actually makes it stronger. Kind of like how an arch compresses and gets stronger when
+
+
+63
+0:4:20,0 --> 0:4:24,0
+you put your weight on it only this is in all directions. And because the cooling glass can't
+
+
+64
+0:4:24,0 --> 0:4:28,0
+move that outside layer it begins to pull against itself, causing it to be
+
+
+65
+0:4:28,0 --> 0:4:32,0
+in extremely high tension. It then hardens in this state of tension and there you have it, a
+
+
+66
+0:4:32,0 --> 0:4:36,0
+Prince Rupert's Drop. The outside is in extremely high compressive stress and the inside is in
+
+
+67
+0:4:36,0 --> 0:4:40,0
+extremely high tensile stress. If one link in this tension chain is ever cut, it
+
+
+68
+0:4:40,0 --> 0:4:44,0
+breaks on down the line, feeding off of its own stored up energy just like a chemical
+
+
+69
+0:4:44,0 --> 0:4:48,0
+explosive does. The difference here is that instead of releasing chemical potential energy
+
+
+70
+0:4:48,0 --> 0:4:52,0
+mechanical strain energy is released. This wave of energy is what we call a
+
+
+71
+0:4:52,0 --> 0:4:56,0
+failure front. You can directly measure the velocity of that failure front as long as
+
+
+72
+0:4:56,0 --> 0:5:0,0
+you have a camera fast enough. Let's give it a shot at 130,000 frames
+
+
+73
+0:5:0,0 --> 0:5:4,0
+per second.
+3..2..1..go.
+
+
+74
+0:5:4,0 --> 0:5:8,0
+Got it?
+
+
+75
+0:5:8,0 --> 0:5:12,0
+[music]
+
+
+76
+0:5:12,0 --> 0:5:16,0
+
+
+
+77
+0:5:16,0 --> 0:5:20,0
+
+
+
+78
+0:5:20,0 --> 0:5:24,0
+
+
+
+79
+0:5:24,0 --> 0:5:28,0
+
+
+
+80
+0:5:28,0 --> 0:5:32,0
+
+
+
+81
+0:5:32,0 --> 0:5:36,0
+
+
+
+82
+0:5:36,0 --> 0:5:40,0
+
+
+
+83
+0:5:40,0 --> 0:5:44,0
+So a big thanks to Cal from Orbix Hot Glass. If you found this
+
+
+84
+0:5:44,0 --> 0:5:48,0
+interesting and you want to support him by buying stuff go click on the link, wherever I
+
+
+85
+0:5:48,0 --> 0:5:52,0
+put it, and go check out his web site. Click the cat to subscribe.
+
+
+86
+0:5:52,0 --> 0:5:56,0
+With the helmet. [laugh] It's a sad looking cat.
+
+
+87
+0:5:56,0 --> 0:6:0,0
+You've never caught the cat on fire, ever?
+- Never.
+- Not even once?
+
+
+88
+0:6:0,0 --> 0:6:4,0
+- Never.
+- These things are named for a guy named Prince Rupert, imagine that,
+
+
+89
+0:6:4,0 --> 0:6:8,0
+who lived in Bavaria back in the 1600s.
+Here, here.
+
+
+90
+0:6:8,0 --> 0:6:12,0
+[shins banging on concrete laughter through pain]
+
+
+91
+0:6:12,0 --> 0:6:16,0
+He brought these over as a gift to King Charles II in England who gave them to his
+
+
+92
+0:6:16,0 --> 0:6:20,0
+Royal Society to try to figure out.
+Yep ready. [clang]
+
+
+93
+0:6:20,0 --> 0:6:22,0
+Holy smokes!
+
+
+94
+0:6:22,0 --> 0:6:24,0
+
+
+
+95
+0:6:24,0 --> 0:6:28,0
+- Aah the tension's killing me. [shatter]
+-(Destin in background) NO DON'T BLOW UP!
+
+
+96
+0:6:28,0 --> 0:6:32,0
+- You know it blow.. blowed up?
+- Yep, it blowed up.
+
+
+97
+0:6:32,0 --> 0:6:33,0
+- It BLOWED UP Y'ALL! [laugh]
+
+
+98
+0:6:33,0 --> 0:6:35,0
+
+
+
+99
+0:6:35,0 --> 0:6:36,0
+Captioning in different languages welcome.
+Please contact Destin if you can help.
+
+
+100
+0:6:36,0 --> 0:8:36,0
+[ Captions by Andrew Jackson ]
+captionsbyandrew.wordpress.com
+
+

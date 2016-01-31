@@ -1,0 +1,949 @@
+1
+0:0:0,0 --> 0:0:8,9
+
+
+
+2
+0:0:8,9 --> 0:0:12,18
+People have the right to know
+that there are spy satellites
+
+
+3
+0:0:12,18 --> 0:0:16,3
+above their heads, and not only
+spy satellites, but all
+
+
+4
+0:0:16,3 --> 0:0:17,76
+kinds of satellites.
+
+
+5
+0:0:17,76 --> 0:0:22,48
+And by a clear night, they can
+see all the satellites passing
+
+
+6
+0:0:22,48 --> 0:0:23,22
+over their heads.
+
+
+7
+0:0:23,22 --> 0:0:27,66
+So in a sense, they
+are not so secret.
+
+
+8
+0:0:27,66 --> 0:0:31,12
+Yes, I think that it may
+interest some people to know
+
+
+9
+0:0:31,12 --> 0:0:34,6
+that these satellites are
+visible, and even that we can
+
+
+10
+0:0:34,6 --> 0:0:37,73
+catch some details with
+a telescope--
+
+
+11
+0:0:37,73 --> 0:0:40,83
+like a game, spying
+spy satellites.
+
+
+12
+0:0:40,83 --> 0:0:59,32
+
+
+
+13
+0:0:59,32 --> 0:1:5,28
+We are in the Astronomy and
+Space encounter, the main
+
+
+14
+0:1:5,28 --> 0:1:9,85
+forum or encounter place for
+astronomy in France.
+
+
+15
+0:1:9,85 --> 0:1:13,33
+It happens every two years, and
+there are several thousand
+
+
+16
+0:1:13,33 --> 0:1:15,49
+visitors during three days.
+
+
+17
+0:1:15,49 --> 0:1:19,51
+My speech is about, of course,
+photography of space station
+
+
+18
+0:1:19,51 --> 0:1:22,88
+and other satellites, like
+geostationary satellites or
+
+
+19
+0:1:22,88 --> 0:1:24,515
+other funny satellites.
+
+
+20
+0:1:24,515 --> 0:1:32,5
+
+
+
+21
+0:1:32,5 --> 0:1:33,65
+My name is Thierry Legault.
+
+
+22
+0:1:33,65 --> 0:1:35,7
+I'm an engineer.
+
+
+23
+0:1:35,7 --> 0:1:37,31
+I live in the suburbs
+of Paris.
+
+
+24
+0:1:37,31 --> 0:1:40,74
+My hobby is astronomy,
+and more precisely
+
+
+25
+0:1:40,74 --> 0:1:41,99
+astrophotography.
+
+
+26
+0:1:41,99 --> 0:1:46,36
+
+
+
+27
+0:1:46,36 --> 0:1:52,42
+It's a nice feeling to be able
+to transmit our passion to
+
+
+28
+0:1:52,42 --> 0:1:56,5
+other people and help them
+through to practice and to do
+
+
+29
+0:1:56,5 --> 0:2:1,776
+the same kind of photography as
+I do-- or better, I hope.
+
+
+30
+0:2:1,776 --> 0:2:5,84
+And I would like to try to
+find all the ways to be
+
+
+31
+0:2:5,84 --> 0:2:8,81
+different because I like
+to do things that
+
+
+32
+0:2:8,81 --> 0:2:10,479
+have never been done.
+
+
+33
+0:2:10,479 --> 0:2:23,2
+
+
+
+34
+0:2:23,2 --> 0:2:26,46
+This website called Heavens
+Above gives us the list of the
+
+
+35
+0:2:26,46 --> 0:2:30,89
+brightest satellites visible
+in the evening tonight.
+
+
+36
+0:2:30,89 --> 0:2:35,22
+And a good candidate
+is the Cosmos 1782
+
+
+37
+0:2:35,22 --> 0:2:36,8
+because it's quite bright.
+
+
+38
+0:2:36,8 --> 0:2:39,5
+It's an intelligence
+satellites--
+
+
+39
+0:2:39,5 --> 0:2:40,28
+Russian intelligence
+satellite.
+
+
+40
+0:2:40,28 --> 0:2:46,14
+So I go into the other website,
+which is CalSky, to
+
+
+41
+0:2:46,14 --> 0:2:50,21
+get some calculations.
+
+
+42
+0:2:50,21 --> 0:2:54,5
+When I was a teenager,
+I asked my parents
+
+
+43
+0:2:54,5 --> 0:2:56,905
+to buy a small telescope.
+
+
+44
+0:2:56,905 --> 0:3:0,24
+And then I was the happiest
+child in the world with my
+
+
+45
+0:3:0,24 --> 0:3:3,92
+telescope, looking at
+the stars, the moon.
+
+
+46
+0:3:3,92 --> 0:3:9,325
+And then I continue with a lot
+bigger means now, and bigger
+
+
+47
+0:3:9,325 --> 0:3:13,26
+telescopes and cameras, but
+in the same principle.
+
+
+48
+0:3:13,26 --> 0:3:18,78
+The satellite will come from
+there, like this, over the
+
+
+49
+0:3:18,78 --> 0:3:20,3
+house like that.
+
+
+50
+0:3:20,3 --> 0:3:31,4
+
+
+
+51
+0:3:31,4 --> 0:3:36,3
+I got started watching
+satellites quite by chance.
+
+
+52
+0:3:36,3 --> 0:3:39,32
+Six years ago, I've been
+writing a book about
+
+
+53
+0:3:39,32 --> 0:3:40,95
+astrophotography.
+
+
+54
+0:3:40,95 --> 0:3:44,57
+And since I wanted to take all
+of the photos for the book, I
+
+
+55
+0:3:44,57 --> 0:3:49,74
+needed any kind of a photo of
+the sky including the passage
+
+
+56
+0:3:49,74 --> 0:3:52,2
+of the space station in
+front of the sun.
+
+
+57
+0:3:52,2 --> 0:3:54,5
+So I took one.
+
+
+58
+0:3:54,5 --> 0:3:59,34
+And I said, OK, this is funny,
+so took a picture of the space
+
+
+59
+0:3:59,34 --> 0:4:1,45
+station and the space
+shuttle just
+
+
+60
+0:4:1,45 --> 0:4:5,83
+beside, just after undocking.
+
+
+61
+0:4:5,83 --> 0:4:12,758
+And this photo has had big
+success on CNN, and the
+
+
+62
+0:4:12,758 --> 0:4:16,19
+"Guardian," and "Popular
+Science," and a lot of
+
+
+63
+0:4:16,19 --> 0:4:19,48
+magazines in France
+and also in other
+
+
+64
+0:4:19,48 --> 0:4:21,7
+countries in the world.
+
+
+65
+0:4:21,7 --> 0:4:23,312
+And so I continued to
+take such shots.
+
+
+66
+0:4:23,312 --> 0:4:27,74
+
+
+
+67
+0:4:27,74 --> 0:4:29,708
+OK, good.
+
+
+68
+0:4:29,708 --> 0:4:43,12
+
+
+
+69
+0:4:43,12 --> 0:4:47,7
+More than three years ago,
+I contacted a friend of a
+
+
+70
+0:4:47,7 --> 0:4:51,78
+friend, which is named Emmanuel
+Rietsch, to modify my
+
+
+71
+0:4:51,78 --> 0:4:55,78
+mount to be able to track,
+automatically, the satellites.
+
+
+72
+0:4:55,78 --> 0:4:58,42
+Basically, there were two
+parts in the project.
+
+
+73
+0:4:58,42 --> 0:5:3,12
+The first part was to make the
+mount able to track the
+
+
+74
+0:5:3,12 --> 0:5:8,7
+satellite manually, with a
+joystick, like a joystick of a
+
+
+75
+0:5:8,7 --> 0:5:9,415
+video game.
+
+
+76
+0:5:9,415 --> 0:5:13,35
+And so the second part of the
+project has been to make the
+
+
+77
+0:5:13,35 --> 0:5:16,9
+system, and especially the
+software, with an additional
+
+
+78
+0:5:16,9 --> 0:5:20,57
+camera, tracking camera, able
+to track to satellites
+
+
+79
+0:5:20,57 --> 0:5:21,83
+automatically.
+
+
+80
+0:5:21,83 --> 0:5:23,49
+This is a Unix system.
+
+
+81
+0:5:23,49 --> 0:5:26,13
+
+
+
+82
+0:5:26,13 --> 0:5:27,53
+In a matter of-- thank
+you, Emmanuel.
+
+
+83
+0:5:27,53 --> 0:5:49,68
+
+
+
+84
+0:5:49,68 --> 0:5:56,91
+This telescope will take
+the high resolution
+
+
+85
+0:5:56,91 --> 0:5:59,5
+video of the satellite.
+
+
+86
+0:5:59,5 --> 0:6:2,82
+This one is used just to
+track the satellite
+
+
+87
+0:6:2,82 --> 0:6:4,83
+with a second camera.
+
+
+88
+0:6:4,83 --> 0:6:8,5
+There would be the main camera
+here, second camera here.
+
+
+89
+0:6:8,5 --> 0:6:13,43
+And this one is to center the
+satellite visually, just at
+
+
+90
+0:6:13,43 --> 0:6:16,89
+the beginning, when it appears,
+to be sure that it's
+
+
+91
+0:6:16,89 --> 0:6:20,4
+visible through this camera.
+
+
+92
+0:6:20,4 --> 0:6:24,9
+With the solar or lunar transit,
+almost all of them
+
+
+93
+0:6:24,9 --> 0:6:26,1
+are successful--
+
+
+94
+0:6:26,1 --> 0:6:28,3
+95% or more.
+
+
+95
+0:6:28,3 --> 0:6:30,36
+But for satellites like
+that, it's much less.
+
+
+96
+0:6:30,36 --> 0:6:33,66
+It's, say, 50%.
+
+
+97
+0:6:33,66 --> 0:6:35,7
+Sometimes there are
+some clouds.
+
+
+98
+0:6:35,7 --> 0:6:37,36
+Sometimes they are too faint.
+
+
+99
+0:6:37,36 --> 0:6:41,82
+Sometimes computers don't want
+to work exactly as you want.
+
+
+100
+0:6:41,82 --> 0:6:44,24
+Especially, just at the critical
+moment, you have a
+
+
+101
+0:6:44,24 --> 0:6:47,135
+blue screen saying, everything
+is crashed.
+
+
+102
+0:6:47,135 --> 0:6:48,385
+It happens sometimes.
+
+
+103
+0:6:48,385 --> 0:6:51,76
+
+
+
+104
+0:6:51,76 --> 0:6:54,91
+Astrophotography is not
+something that's very easy.
+
+
+105
+0:6:54,91 --> 0:6:59,91
+The stars, and the nebulas, and
+the galaxies are faint.
+
+
+106
+0:6:59,91 --> 0:7:4,38
+The planets are small, and
+so it's quite difficult.
+
+
+107
+0:7:4,38 --> 0:7:7,2
+Light pollution is a very,
+very big problem for
+
+
+108
+0:7:7,2 --> 0:7:11,762
+astronomers because they have to
+go farther and farther from
+
+
+109
+0:7:11,762 --> 0:7:13,24
+the cities.
+
+
+110
+0:7:13,24 --> 0:7:18,52
+And it's just like people are
+prisoners in a prison of light
+
+
+111
+0:7:18,52 --> 0:7:21,76
+because they can't see outside
+this prison of light.
+
+
+112
+0:7:21,76 --> 0:7:25,82
+They don't see the nature, and
+the stars, and the Milky Way.
+
+
+113
+0:7:25,82 --> 0:7:28,47
+So in my opinion,
+light pollution,
+
+
+114
+0:7:28,47 --> 0:7:30,455
+is a kind of prison.
+
+
+115
+0:7:30,455 --> 0:7:35,24
+So I have to align everything
+first on a star, the polar
+
+
+116
+0:7:35,24 --> 0:7:39,31
+star, which will appear later.
+
+
+117
+0:7:39,31 --> 0:7:44,96
+And then, after all this
+alignment, I have to focus the
+
+
+118
+0:7:44,96 --> 0:7:46,93
+camera on the star.
+
+
+119
+0:7:46,93 --> 0:7:50,2
+And then I have to change the
+alignment in the mount to
+
+
+120
+0:7:50,2 --> 0:7:54,268
+align it on the trajectory of
+the satellite in the sky.
+
+
+121
+0:7:54,268 --> 0:8:4,31
+
+
+
+122
+0:8:4,31 --> 0:8:5,56
+So far.
+
+
+123
+0:8:5,56 --> 0:8:7,89
+
+
+
+124
+0:8:7,89 --> 0:8:12,16
+The weather is the biggest
+enemy of the astronomer
+
+
+125
+0:8:12,16 --> 0:8:16,29
+because the telescope that
+looks through the clouds
+
+
+126
+0:8:16,29 --> 0:8:17,58
+doesn't exist.
+
+
+127
+0:8:17,58 --> 0:8:22,76
+Unfortunately we see
+some clouds coming
+
+
+128
+0:8:22,76 --> 0:8:25,26
+over the area of Paris.
+
+
+129
+0:8:25,26 --> 0:8:29,45
+Paris is the red dot in the
+north of France here.
+
+
+130
+0:8:29,45 --> 0:8:33,38
+And so we'll have a sky which
+that is partly cloudy so we
+
+
+131
+0:8:33,38 --> 0:8:35,88
+need some chance.
+
+
+132
+0:8:35,88 --> 0:8:42,12
+It's not the funniest part of
+the game, driving and trying
+
+
+133
+0:8:42,12 --> 0:8:43,72
+to find clear skies.
+
+
+134
+0:8:43,72 --> 0:8:47,0
+But when it's successful, it's
+more rewarding, let's say.
+
+
+135
+0:8:47,0 --> 0:8:53,34
+
+
+
+136
+0:8:53,34 --> 0:8:56,401
+All the clouds are coming now.
+
+
+137
+0:8:56,401 --> 0:8:58,79
+The sky is completely covered.
+
+
+138
+0:8:58,79 --> 0:9:3,55
+And this is one of the reasons
+why we go in sunny countries
+
+
+139
+0:9:3,55 --> 0:9:4,39
+to observe the sky.
+
+
+140
+0:9:4,39 --> 0:9:14,21
+
+
+
+141
+0:9:14,21 --> 0:9:19,526
+OK, we have quite a hole, but
+other ones coming after.
+
+
+142
+0:9:19,526 --> 0:9:26,128
+
+
+
+143
+0:9:26,128 --> 0:9:28,104
+These clouds coming again.
+
+
+144
+0:9:28,104 --> 0:9:36,996
+
+
+
+145
+0:9:36,996 --> 0:9:38,478
+I think it's over.
+
+
+146
+0:9:38,478 --> 0:9:53,792
+
+
+
+147
+0:9:53,792 --> 0:9:58,134
+It's full of clouds now.
+
+
+148
+0:9:58,134 --> 0:10:0,102
+This is a pity.
+
+
+149
+0:10:0,102 --> 0:10:4,7
+They have clouds everywhere,
+so nature has won.
+
+
+150
+0:10:4,7 --> 0:10:7,71
+She's always the stronger,
+at the end.
+
+
+151
+0:10:7,71 --> 0:10:11,16
+I'm a little bit sad,
+of course, but I
+
+
+152
+0:10:11,16 --> 0:10:12,67
+know that it's a risk.
+
+
+153
+0:10:12,67 --> 0:10:17,16
+So if I don't want to take the
+risk, I'd just stay on my sofa
+
+
+154
+0:10:17,16 --> 0:10:18,0
+watching TV.
+
+
+155
+0:10:18,0 --> 0:10:21,18
+And so it's a part
+of the risk.
+
+
+156
+0:10:21,18 --> 0:10:23,91
+Of course, I'm not very happy.
+
+
+157
+0:10:23,91 --> 0:10:32,12
+But an activity where there is
+no in risk, and where you win
+
+
+158
+0:10:32,12 --> 0:10:34,62
+every time, it's something
+that is too easy.
+
+
+159
+0:10:34,62 --> 0:10:39,82
+
+
+
+160
+0:10:39,82 --> 0:10:42,85
+I photograph satellites because
+it's difficult.
+
+
+161
+0:10:42,85 --> 0:10:45,87
+It's a kind of challenge
+with myself.
+
+
+162
+0:10:45,87 --> 0:10:49,66
+And each time I say, OK,
+you succeed or not.
+
+
+163
+0:10:49,66 --> 0:10:51,97
+And next time, can
+you do better?
+
+
+164
+0:10:51,97 --> 0:10:53,97
+Can do another satellite?
+
+
+165
+0:10:53,97 --> 0:10:55,16
+Something else?
+
+
+166
+0:10:55,16 --> 0:10:56,86
+Something more difficult?
+
+
+167
+0:10:56,86 --> 0:11:2,572
+So it's a way to improve my
+skill with a telescope.
+
+
+168
+0:11:2,572 --> 0:11:6,47
+And yeah, it's like a game or
+a challenge with myself.
+
+
+169
+0:11:6,47 --> 0:11:9,3
+Next time, I will get them.
+
+
+170
+0:11:9,3 --> 0:13:9,3
+
+
+

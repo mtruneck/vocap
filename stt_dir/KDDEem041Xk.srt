@@ -1,0 +1,651 @@
+1
+0:0:0,0 --> 0:0:4,87
+
+
+
+2
+0:0:4,87 --> 0:0:9,74
+[COMPUTER MUSIC]
+
+
+3
+0:0:9,74 --> 0:0:11,85
+EVAN TWYFORD: Three dimensional
+design for me was
+
+
+4
+0:0:11,85 --> 0:0:14,93
+always kind of the greatest
+form of creation.
+
+
+5
+0:0:14,93 --> 0:0:19,79
+Being able to take an idea from
+that very tiny amount of
+
+
+6
+0:0:19,79 --> 0:0:22,19
+energy, being this idea
+in your head, and then
+
+
+7
+0:0:22,19 --> 0:0:24,53
+formulating that into
+a fully functional
+
+
+8
+0:0:24,53 --> 0:0:25,98
+three-dimensional product.
+
+
+9
+0:0:25,98 --> 0:0:28,54
+Take that a step further, I
+always kind of wanted to
+
+
+10
+0:0:28,54 --> 0:0:32,25
+design the ultimate three
+dimensional object, right?
+
+
+11
+0:0:32,25 --> 0:0:35,97
+And so designing space vehicles,
+to me, was like that
+
+
+12
+0:0:35,97 --> 0:0:37,4
+ultimate form of creation.
+
+
+13
+0:0:37,4 --> 0:0:39,6
+It's like, what's the bad ass
+thing you could design would
+
+
+14
+0:0:39,6 --> 0:0:40,74
+be a spaceship.
+
+
+15
+0:0:40,74 --> 0:0:46,14
+And NASA really was kind of
+the final frontier for me.
+
+
+16
+0:0:46,14 --> 0:0:55,5
+
+
+
+17
+0:0:55,5 --> 0:0:59,13
+My name's Evan Twyford, and I'm
+a habitability designer at
+
+
+18
+0:0:59,13 --> 0:1:0,67
+NASA's Johnson Space Center.
+
+
+19
+0:1:0,67 --> 0:1:6,94
+
+
+
+20
+0:1:6,94 --> 0:1:10,55
+We in our group do conceptual
+design for
+
+
+21
+0:1:10,55 --> 0:1:12,53
+NASA's human space flight.
+
+
+22
+0:1:12,53 --> 0:1:17,73
+A lot of these projects are
+coming down as major kind of
+
+
+23
+0:1:17,73 --> 0:1:20,44
+campaign level design projects,
+where they're saying
+
+
+24
+0:1:20,44 --> 0:1:22,78
+hey, we're doing a mission
+to the moon.
+
+
+25
+0:1:22,78 --> 0:1:25,12
+We're working on a pressurized
+rover.
+
+
+26
+0:1:25,12 --> 0:1:27,38
+We've got this idea, and
+we want you guys to
+
+
+27
+0:1:27,38 --> 0:1:28,64
+help us make it happen.
+
+
+28
+0:1:28,64 --> 0:1:30,82
+Starting off with sketching
+and rendering, very
+
+
+29
+0:1:30,82 --> 0:1:31,91
+conceptual.
+
+
+30
+0:1:31,91 --> 0:1:37,4
+Take it to a full scale mock
+up phase out of wood, foam
+
+
+31
+0:1:37,4 --> 0:1:39,24
+core, low fidelity materials.
+
+
+32
+0:1:39,24 --> 0:1:42,64
+We use those to kind of sketch
+out the volume of how big the
+
+
+33
+0:1:42,64 --> 0:1:45,9
+vehicle might be, and how it
+would feel on the inside.
+
+
+34
+0:1:45,9 --> 0:1:48,96
+Part of what we'll do when we're
+designing a habitat is
+
+
+35
+0:1:48,96 --> 0:1:52,2
+we'll look at how the corners,
+how the edges are treated.
+
+
+36
+0:1:52,2 --> 0:1:54,7
+What type of paint schemes
+are going to go inside.
+
+
+37
+0:1:54,7 --> 0:1:56,9
+There was actually an issue with
+one of the colors that
+
+
+38
+0:1:56,9 --> 0:1:58,7
+they had painted on the
+International Space Station,
+
+
+39
+0:1:58,7 --> 0:2:1,83
+where one of the hatches was
+like a salmon color.
+
+
+40
+0:2:1,83 --> 0:2:4,92
+And the crew really disliked
+it, so we try to
+
+
+41
+0:2:4,92 --> 0:2:7,8
+avoid salmon now.
+
+
+42
+0:2:7,8 --> 0:2:9,74
+And then working out the details
+in a CAD system on the
+
+
+43
+0:2:9,74 --> 0:2:12,465
+computer, and developing a fully
+functional prototype.
+
+
+44
+0:2:12,465 --> 0:2:17,48
+
+
+
+45
+0:2:17,48 --> 0:2:20,86
+And the type of design at NASA
+that we do kind of crosses the
+
+
+46
+0:2:20,86 --> 0:2:23,15
+line between fine art
+and engineering.
+
+
+47
+0:2:23,15 --> 0:2:25,84
+So it's a lot more problem
+solving, though, which is what
+
+
+48
+0:2:25,84 --> 0:2:27,9
+makes it really exciting.
+
+
+49
+0:2:27,9 --> 0:2:42,76
+
+
+
+50
+0:2:42,76 --> 0:2:49,79
+So this is the SEV, the Space
+Exploration Vehicle on the
+
+
+51
+0:2:49,79 --> 0:2:51,3
+chassis, gen 1B.
+
+
+52
+0:2:51,3 --> 0:2:54,0
+
+
+
+53
+0:2:54,0 --> 0:2:59,29
+For interior design for space
+vehicles, there is certainly
+
+
+54
+0:2:59,29 --> 0:3:4,25
+the problem of confinement,
+which is a psychological issue
+
+
+55
+0:3:4,25 --> 0:3:5,67
+for crew members over time.
+
+
+56
+0:3:5,67 --> 0:3:9,45
+So we have to deal with ways of
+designing environments and
+
+
+57
+0:3:9,45 --> 0:3:15,77
+designing products that will
+reduce the effects of feelings
+
+
+58
+0:3:15,77 --> 0:3:17,8
+of confinement in space.
+
+
+59
+0:3:17,8 --> 0:3:24,75
+So this is the interior of the
+SEV rover gen 1B, and most of
+
+
+60
+0:3:24,75 --> 0:3:29,86
+the interior design elements was
+a product of our team, as
+
+
+61
+0:3:29,86 --> 0:3:32,95
+well the robotics team that
+we've been working with on
+
+
+62
+0:3:32,95 --> 0:3:34,58
+this vehicle for some time.
+
+
+63
+0:3:34,58 --> 0:3:37,865
+And we've kind of been charged
+with making the interior of
+
+
+64
+0:3:37,865 --> 0:3:41,96
+the vehicle more comfortable,
+more luxurious, if you can
+
+
+65
+0:3:41,96 --> 0:3:43,21
+call it that.
+
+
+66
+0:3:43,21 --> 0:3:50,2
+
+
+
+67
+0:3:50,2 --> 0:3:52,98
+Seeing as most of us haven't
+actually been to outer space,
+
+
+68
+0:3:52,98 --> 0:3:55,41
+it can make things very
+difficult sometimes, because
+
+
+69
+0:3:55,41 --> 0:3:57,31
+everybody has a different
+opinion, or different
+
+
+70
+0:3:57,31 --> 0:3:59,73
+assumptions that they're
+making about what that
+
+
+71
+0:3:59,73 --> 0:4:0,93
+experience is like.
+
+
+72
+0:4:0,93 --> 0:4:5,4
+So it's a very testing and
+evaluation intensive work
+
+
+73
+0:4:5,4 --> 0:4:5,6
+environment.
+
+
+74
+0:4:5,6 --> 0:4:9,74
+So we have to do whatever we
+can to ensure that these
+
+
+75
+0:4:9,74 --> 0:4:11,94
+products will work in their
+intended environment.
+
+
+76
+0:4:11,94 --> 0:4:16,589
+So sometimes that means flying
+products, or mock ups on zero
+
+
+77
+0:4:16,589 --> 0:4:21,98
+gravity flight in the
+parabolic aircraft.
+
+
+78
+0:4:21,98 --> 0:4:24,48
+Sometimes it means going out
+into the desert and testing
+
+
+79
+0:4:24,48 --> 0:4:29,31
+them in a very harsh, kind of
+desolate environment that
+
+
+80
+0:4:29,31 --> 0:4:31,49
+might be similar to what we
+would encounter in space.
+
+
+81
+0:4:31,49 --> 0:4:39,34
+
+
+
+82
+0:4:39,34 --> 0:4:41,98
+There's always that kind of
+thing with designers between
+
+
+83
+0:4:41,98 --> 0:4:43,77
+are you going to be like, a
+stylist, or are you going to
+
+
+84
+0:4:43,77 --> 0:4:44,82
+be a problem solver?
+
+
+85
+0:4:44,82 --> 0:4:50,77
+And you can look at a product
+and say this accomplishes
+
+
+86
+0:4:50,77 --> 0:4:53,26
+exactly what we need it to
+accomplish, and that's what
+
+
+87
+0:4:53,26 --> 0:4:55,96
+makes it beautiful, and that's
+what makes it successful.
+
+
+88
+0:4:55,96 --> 0:4:59,5
+It's a very pure design problem
+that we're dealing
+
+
+89
+0:4:59,5 --> 0:5:4,22
+with, which is to create
+products and environments that
+
+
+90
+0:5:4,22 --> 0:5:9,64
+the crew will find useful, and
+will make them successful and
+
+
+91
+0:5:9,64 --> 0:5:13,7
+productive in their
+daily routines.
+
+
+92
+0:5:13,7 --> 0:5:16,18
+MALE SPEAKER: Go for
+main engine start.
+
+
+93
+0:5:16,18 --> 0:5:22,74
+T-minus 10, 9, 8, 7, 6, 5--
+
+
+94
+0:5:22,74 --> 0:5:25,28
+All three engines
+up and burning.
+
+
+95
+0:5:25,28 --> 0:5:28,79
+2, 1, 0, and lift off.
+
+
+96
+0:5:28,79 --> 0:5:30,36
+The final lift off
+of Atlantis.
+
+
+97
+0:5:30,36 --> 0:5:33,37
+
+
+
+98
+0:5:33,37 --> 0:5:35,15
+EVAN TWYFORD: The shuttle
+program and the International
+
+
+99
+0:5:35,15 --> 0:5:40,56
+Space Station were started in
+the '80s as sort of a longer
+
+
+100
+0:5:40,56 --> 0:5:43,34
+term analog for human space
+flight, and establishing a
+
+
+101
+0:5:43,34 --> 0:5:45,52
+permanent human presence
+in space.
+
+
+102
+0:5:45,52 --> 0:5:50,43
+To start to learn more about
+how humans would behave and
+
+
+103
+0:5:50,43 --> 0:5:53,78
+interact in longer term space
+flight scenarios.
+
+
+104
+0:5:53,78 --> 0:6:2,5
+
+
+
+105
+0:6:2,5 --> 0:6:8,57
+I've kind of felt like a lot of
+people in general are maybe
+
+
+106
+0:6:8,57 --> 0:6:12,67
+not as excited by the
+International Space Station,
+
+
+107
+0:6:12,67 --> 0:6:13,95
+or by the shuttle program.
+
+
+108
+0:6:13,95 --> 0:6:16,9
+Or at least not as much as they
+were maybe in the '80s,
+
+
+109
+0:6:16,9 --> 0:6:18,89
+when the shuttle
+was brand new.
+
+
+110
+0:6:18,89 --> 0:6:22,95
+I just hope that we can really
+re-engage people in the right
+
+
+111
+0:6:22,95 --> 0:6:25,1
+way, and get people excited
+about space flight.
+
+
+112
+0:6:25,1 --> 0:6:27,96
+Because this next generation of
+space vehicles is going to
+
+
+113
+0:6:27,96 --> 0:6:30,16
+be the most bad ass that
+we've ever seen.
+
+
+114
+0:6:30,16 --> 0:8:30,16
+[ELECTRONIC MUSIC PLAYING]
+
+

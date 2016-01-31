@@ -1,0 +1,1075 @@
+1
+0:0:2,5 --> 0:0:20,167
+
+
+
+2
+0:0:20,167 --> 0:0:27,0
+Mayday, this is UNSC FFG 201 Forward Unto Dawn requesting immediate evac.
+
+
+3
+0:0:27,0 --> 0:0:35,0
+Survivors aboard, prioritization code Victor 05-3-00
+
+
+4
+0:0:35,0 --> 0:0:47,0
+Mayday, this is UNSC FFG 201 Forward Unto Dawn requesting immediate evac. Survivors aboard…
+
+
+5
+0:0:47,0 --> 0:0:56,5
+Halo 4: Forward Unto Dawn Part I
+
+
+6
+0:0:56,5 --> 0:1:5,833
+Mayday, this is UNSC FFG 201 Forward Unto Dawn requesting immediate evac. Survivors aboard…
+
+
+7
+0:1:5,833 --> 0:1:7,833
+Locking onto frequency, tracking the coordinates.
+
+
+8
+0:1:7,833 --> 0:1:13,667
+
+
+
+9
+0:1:13,667 --> 0:1:15,0
+Play it again, please.
+
+
+10
+0:1:15,0 --> 0:1:21,333
+Mayday mayday mayday. This is UNSC FFG 201 Forward Unto Dawn requesting immediate evac. Survivors aboard…
+
+
+11
+0:1:21,333 --> 0:1:23,0
+We have a lock.
+
+
+12
+0:1:23,0 --> 0:1:26,5
+It's him! -Initiating protocol 117-alpha. All stations on deck!
+
+
+13
+0:1:26,5 --> 0:1:32,833
+
+
+
+14
+0:1:32,833 --> 0:1:33,667
+Shall I play it again, sir?
+
+
+15
+0:1:33,667 --> 0:1:36,167
+
+
+
+16
+0:1:36,167 --> 0:1:37,0
+Sir?
+
+
+17
+0:1:37,0 --> 0:1:39,167
+
+
+
+18
+0:1:39,167 --> 0:1:40,0
+Commander Lasky?
+
+
+19
+0:1:40,0 --> 0:1:47,5
+
+
+
+20
+0:1:47,5 --> 0:1:49,5
+Cryopods opening.
+
+
+21
+0:1:49,5 --> 0:1:57,0
+
+
+
+22
+0:1:57,0 --> 0:1:57,833
+Lasky? You okay?
+
+
+23
+0:1:57,833 --> 0:2:2,5
+
+
+
+24
+0:2:2,5 --> 0:2:2,5
+Are you alright?
+
+
+25
+0:2:2,5 --> 0:2:5,833
+
+
+
+26
+0:2:5,833 --> 0:2:7,5
+Lasky, let's go!
+
+
+27
+0:2:7,5 --> 0:2:10,5
+
+
+
+28
+0:2:10,5 --> 0:2:12,5
+Hastati Squad, four minutes to the rendezvous point.
+
+
+29
+0:2:12,5 --> 0:2:15,5
+Copy, Vickers. Timer four minutes.
+
+
+30
+0:2:15,5 --> 0:2:17,5
+Will you be able to shoot with those hands?
+
+
+31
+0:2:17,5 --> 0:2:19,5
+We'll find out.
+
+
+32
+0:2:19,5 --> 0:2:20,833
+Come on! -Axios!
+
+
+33
+0:2:20,833 --> 0:2:50,5
+
+
+
+34
+0:2:50,5 --> 0:2:56,0
+Move it!
+
+
+35
+0:2:56,0 --> 0:2:58,167
+Tchatkova, checkpoint.
+
+
+36
+0:2:58,167 --> 0:2:59,5
+Chen, checkpoint.
+
+
+37
+0:2:59,5 --> 0:3:1,5
+50 seconds
+
+
+38
+0:3:1,5 --> 0:3:2,5
+Go!
+
+
+39
+0:3:2,5 --> 0:3:6,5
+
+
+
+40
+0:3:6,5 --> 0:3:7,167
+Where are you guys?
+
+
+41
+0:3:7,167 --> 0:3:8,667
+RV in 15 seconds.
+
+
+42
+0:3:8,667 --> 0:3:10,833
+Ready?
+
+
+43
+0:3:10,833 --> 0:3:11,833
+I'll see you at the party.
+
+
+44
+0:3:11,833 --> 0:3:19,0
+
+
+
+45
+0:3:19,0 --> 0:3:20,0
+Sully!
+
+
+46
+0:3:20,0 --> 0:3:20,667
+We have to leave him!
+
+
+47
+0:3:20,667 --> 0:3:21,5
+Lasky, what the hell? -Come on!
+
+
+48
+0:3:21,5 --> 0:3:24,0
+Lasky!
+
+
+49
+0:3:24,0 --> 0:3:26,5
+Ten seconds!
+
+
+50
+0:3:26,5 --> 0:3:29,5
+
+
+
+51
+0:3:29,5 --> 0:3:30,5
+Lasky, hurry it up!
+
+
+52
+0:3:30,5 --> 0:3:34,5
+Landing in 3-2-1
+
+
+53
+0:3:34,5 --> 0:3:37,5
+Enemy inbound. They'll be on us in 35 seconds.
+
+
+54
+0:3:37,5 --> 0:3:40,167
+Fresh mags in your weapons, prepare to attack.
+
+
+55
+0:3:40,167 --> 0:3:40,667
+Whst?
+
+
+56
+0:3:40,667 --> 0:3:47,0
+Our objective is to neutralise the insurrectionists and acquire the target. We move on my mark.
+
+
+57
+0:3:47,0 --> 0:3:48,5
+30 seconds.
+
+
+58
+0:3:48,5 --> 0:3:50,167
+We should flank them a force a surrender.
+
+
+59
+0:3:50,167 --> 0:3:52,0
+They're too close to flank! Innies never surrender.
+
+
+60
+0:3:52,0 --> 0:3:55,0
+Dimah and I could circle around, there's still time.
+
+
+61
+0:3:55,0 --> 0:3:55,667
+We can make it.
+
+
+62
+0:3:55,667 --> 0:3:56,5
+25 seconds
+
+
+63
+0:3:56,5 --> 0:3:59,167
+Guys.
+
+
+64
+0:3:59,167 --> 0:4:1,167
+It's our best move.
+
+
+65
+0:4:1,167 --> 0:4:2,5
+20 seconds
+
+
+66
+0:4:2,5 --> 0:4:5,0
+No, we're sticking to my plan. ON MY MARK.
+
+
+67
+0:4:5,0 --> 0:4:5,5
+It won't work.
+
+
+68
+0:4:5,5 --> 0:4:6,833
+You're not in charge anymore, Lasky.
+
+
+69
+0:4:6,833 --> 0:4:8,5
+Tom, just do what he says.
+
+
+70
+0:4:8,5 --> 0:4:10,5
+15 seconds.
+
+
+71
+0:4:10,5 --> 0:4:11,667
+Those are my orders.
+
+
+72
+0:4:11,667 --> 0:4:12,5
+I don't care.
+
+
+73
+0:4:12,5 --> 0:4:13,5
+10 seconds
+
+
+74
+0:4:13,5 --> 0:4:15,5
+
+
+
+75
+0:4:15,5 --> 0:4:17,833
+5 seconds
+
+
+76
+0:4:17,833 --> 0:4:19,167
+Axios!
+
+
+77
+0:4:19,167 --> 0:4:19,833
+Lasky!
+
+
+78
+0:4:19,833 --> 0:4:45,5
+
+
+
+79
+0:4:45,5 --> 0:4:53,833
+Hastati Squad leader on the field. Exercise paused.
+
+
+80
+0:4:53,833 --> 0:4:55,667
+Let me guess, Lasky. You ignored orders.
+
+
+81
+0:4:55,667 --> 0:5:0,0
+Just another strategic casualty, sir.
+
+
+82
+0:5:0,0 --> 0:5:2,5
+Unacceptable.
+
+
+83
+0:5:2,5 --> 0:5:5,167
+
+
+
+84
+0:5:5,167 --> 0:5:6,0
+Game over.
+
+
+85
+0:5:6,0 --> 0:5:12,5
+Shoulder your weapon, cadet. Your little escapade kept Hastati Squad from achieving its objective.
+
+
+86
+0:5:12,5 --> 0:5:14,333
+
+
+
+87
+0:5:14,333 --> 0:5:15,5
+Again.
+
+
+88
+0:5:15,5 --> 0:5:30,5
+
+
+
+89
+0:5:30,5 --> 0:5:36,5
+Exercise complete. Zero wins, Hastati defaults.
+
+
+90
+0:5:36,5 --> 0:5:39,0
+
+
+
+91
+0:5:39,0 --> 0:5:40,0
+Shit.
+
+
+92
+0:5:40,0 --> 0:5:54,5
+
+
+
+93
+0:5:54,5 --> 0:5:59,5
+Robot tagged you?
+
+
+94
+0:5:59,5 --> 0:6:3,5
+Once with two meters. Twice from one.
+
+
+95
+0:6:3,5 --> 0:6:6,5
+I'm still numb from all the stun rounds.
+
+
+96
+0:6:6,5 --> 0:6:8,333
+I'm always numb
+
+
+97
+0:6:8,333 --> 0:6:19,167
+
+
+
+98
+0:6:19,167 --> 0:6:25,167
+Hastati, hold arms!
+
+
+99
+0:6:25,167 --> 0:6:31,167
+
+
+
+100
+0:6:31,167 --> 0:6:32,5
+General Black, sir!
+
+
+101
+0:6:32,5 --> 0:6:37,167
+
+
+
+102
+0:6:37,167 --> 0:6:47,5
+Let me remind you cadets: This academy bears the name of the Roman general Gnaeus Domitius Corbulo.
+
+
+103
+0:6:47,5 --> 0:6:54,5
+Because he represents honour, valour, allegiance.
+
+
+104
+0:6:54,5 --> 0:7:1,5
+General Corbulo was to take his own life in the name of the empire.
+
+
+105
+0:7:1,5 --> 0:7:5,5
+Corbulo did not hesitate nor question.
+
+
+106
+0:7:5,5 --> 0:7:11,5
+He loyally obeyed, screaming "Axios!" as he fell upon his own sword.
+
+
+107
+0:7:11,5 --> 0:7:21,167
+Axios. I AM WORTHY.
+
+
+108
+0:7:21,167 --> 0:7:25,5
+But I'm afraid, cadets, today you have proven to be anything but.
+
+
+109
+0:7:25,5 --> 0:7:33,0
+We are at war with insurrectionists. Terrorists who would like nothing more than to see all of us dead.
+
+
+110
+0:7:33,0 --> 0:7:39,167
+Had this been an actual Firefight the rebels would have likely killed every member of Hastati Squad.
+
+
+111
+0:7:39,167 --> 0:7:45,167
+
+
+
+112
+0:7:45,167 --> 0:7:54,5
+Every single one of you at this academy was sent here because your parents are the upper eschelon of the United Nations Space Command.
+
+
+113
+0:7:54,5 --> 0:8:1,167
+Because all of you are its future, and I expect you to act like it.
+
+
+114
+0:8:1,167 --> 0:8:4,0
+Understood, sir!
+
+
+115
+0:8:4,0 --> 0:8:8,5
+Well what are you waiting for? Lead them on tour, Orenski.
+
+
+116
+0:8:8,5 --> 0:8:12,5
+
+
+
+117
+0:8:12,5 --> 0:8:13,667
+Axios!
+
+
+118
+0:8:13,667 --> 0:8:15,5
+Axios!
+
+
+119
+0:8:15,5 --> 0:8:21,5
+Hastati, right turn!
+
+
+120
+0:8:21,5 --> 0:8:23,5
+Double ???
+
+
+121
+0:8:23,5 --> 0:8:47,5
+
+
+
+122
+0:8:47,5 --> 0:8:53,5
+Corbulo Academy of Military Science Circinus-IV
+
+
+123
+0:8:53,5 --> 0:9:37,0
+
+
+
+124
+0:9:37,0 --> 0:9:40,5
+Sully, do you ever stop talking?
+
+
+125
+0:9:40,5 --> 0:9:44,0
+No, seriously. I'm on to something, here.
+
+
+126
+0:9:44,0 --> 0:9:48,5
+The comms are messed up and I'm decoding something kick-ass.
+
+
+127
+0:9:48,5 --> 0:9:53,333
+ONI's hiding stuff from us, I'm positive. They've got secrets, man.
+
+
+128
+0:9:53,333 --> 0:9:55,167
+Stop stepping on our dicks, Lasky.
+
+
+129
+0:9:55,167 --> 0:9:57,0
+Hey, ease up, Gingerbread.
+
+
+130
+0:9:57,0 --> 0:10:2,167
+No, Sully. Vickers is right. My combat score sucked because of you.
+
+
+131
+0:10:2,167 --> 0:10:6,167
+Don't bother, JJ. He's gone soft. He's an Innie-lover now.
+
+
+132
+0:10:6,167 --> 0:10:9,833
+Dimah, that order didn't make any sense.
+
+
+133
+0:10:9,833 --> 0:10:12,5
+Doesn't have to make sense. Just follow it.
+
+
+134
+0:10:12,5 --> 0:10:27,167
+
+
+
+135
+0:10:27,167 --> 0:10:29,5
+I'm trying to survive here, okay?
+
+
+136
+0:10:29,5 --> 0:10:35,167
+You need to respect the chain of command. The UNSC isn't the enemy. The Innies are.
+
+
+137
+0:10:35,167 --> 0:10:38,5
+Spoken like a true believer.
+
+
+138
+0:10:38,5 --> 0:10:40,5
+Yeah, well. At least I believe in something these days.
+
+
+139
+0:10:40,5 --> 0:10:43,667
+
+
+
+140
+0:10:43,667 --> 0:10:49,5
+Cadet Thomas Lasky report to Colonel Mehaffey's office immediately.
+
+
+141
+0:10:49,5 --> 0:11:23,0
+
+
+
+142
+0:11:23,0 --> 0:11:25,167
+No, we're sticking to my plan. ON MY MARK.
+
+
+143
+0:11:25,167 --> 0:0:2,5
+It won't work.
+
+
+144
+0:0:2,5 --> 0:11:26,167
+You're not in charge anymore, Lasky.
+
+
+145
+0:11:26,167 --> 0:0:2,5
+Tom, just do what he says.
+
+
+146
+0:0:2,5 --> 0:11:28,167
+15 seconds
+
+
+147
+0:11:28,167 --> 0:11:29,0
+They're my orders.
+
+
+148
+0:11:29,0 --> 0:11:30,5
+I don't care.
+
+
+149
+0:11:30,5 --> 0:11:31,5
+Pause.
+
+
+150
+0:11:31,5 --> 0:11:34,333
+
+
+
+151
+0:11:34,333 --> 0:11:38,5
+You don't care? You do realise your helmets transmit everything.
+
+
+152
+0:11:38,5 --> 0:11:40,167
+No excuse, sir.
+
+
+153
+0:11:40,167 --> 0:11:44,167
+You continue pulling down your squad, you're going to end up with a lot of enemies.
+
+
+154
+0:11:44,167 --> 0:11:44,5
+Yes, sir!
+
+
+155
+0:11:44,5 --> 0:11:47,0
+
+
+
+156
+0:11:47,0 --> 0:11:53,833
+I served under your mother and I know what she's like. And I sure as hell don't need to tell you that Colonel Lasky's not going to
+
+
+157
+0:11:53,833 --> 0:11:58,5
+allow a son of hers to leave this academy without a diploma.
+
+
+158
+0:11:58,5 --> 0:12:4,167
+I wouldn't know what my mother thinks, sir. I never see her.
+
+
+159
+0:12:4,167 --> 0:12:10,5
+It's been a long war. Your mother holds a lot of hands.
+
+
+160
+0:12:10,5 --> 0:12:12,167
+So I'm told, sir.
+
+
+161
+0:12:12,167 --> 0:12:17,5
+
+
+
+162
+0:12:17,5 --> 0:12:26,5
+You know, Thomas, I've seen a lot of cadets come through here. Many have suffered like you.
+
+
+163
+0:12:26,5 --> 0:12:32,5
+Pain like that can't be forgotten. But you can learn how to tolerate it.
+
+
+164
+0:12:32,5 --> 0:12:33,667
+I'll do my best, sir.
+
+
+165
+0:12:33,667 --> 0:12:34,833
+That will be all.
+
+
+166
+0:12:34,833 --> 0:12:43,833
+
+
+
+167
+0:12:43,833 --> 0:12:47,5
+How long have you had those blisters?
+
+
+168
+0:12:47,5 --> 0:12:52,5
+It's been on and off for a few weeks, but these are from yesterday.
+
+
+169
+0:12:52,5 --> 0:12:54,5
+Any other symptoms?
+
+
+170
+0:12:54,5 --> 0:12:56,333
+It's getting hard to breathe.
+
+
+171
+0:12:56,333 --> 0:12:59,5
+Okay. Let's keep an eye on it. Cryo training can take its toll.
+
+
+172
+0:12:59,5 --> 0:13:59,5
+
+
+
+173
+0:13:59,5 --> 0:14:1,667
+You really shouldn't be looking at that stuff, Sully.
+
+
+174
+0:14:1,667 --> 0:14:4,333
+
+
+
+175
+0:14:4,333 --> 0:14:5,167
+Score.
+
+
+176
+0:14:5,167 --> 0:14:16,833
+
+
+
+177
+0:14:16,833 --> 0:14:28,5
+"Your academic performance is exemplary. But your combat scores are disappointing."
+
+
+178
+0:14:28,5 --> 0:14:59,167
+
+
+
+179
+0:14:59,167 --> 0:15:5,5
+Hey, little bro. Hello from Jericho 7. It's day 131 of deployment. So, I gotta show you something.
+
+
+180
+0:15:5,5 --> 0:15:7,5
+Mom's gonna flip when she sees this. But whatever.
+
+
+181
+0:15:7,5 --> 0:15:14,833
+
+
+
+182
+0:15:14,833 --> 0:15:24,5
+It's still a little raw. But we got a big drop on an innie stronghold next week, wanted to get it done before then. Anyways--
+
+
+183
+0:15:24,5 --> 0:15:26,5
+So you haven't been court-marshalled yet, then?
+
+
+184
+0:15:26,5 --> 0:15:42,333
+
+
+
+185
+0:15:42,333 --> 0:15:43,333
+I'm not apologizing.
+
+
+186
+0:15:43,333 --> 0:15:44,5
+yes you are.
+
+
+187
+0:15:44,5 --> 0:15:46,0
+At least I believe in something.
+
+
+188
+0:15:46,0 --> 0:15:47,167
+I do believe in something.
+
+
+189
+0:15:47,167 --> 0:15:48,167
+Yeah, so do I.
+
+
+190
+0:15:48,167 --> 0:15:50,5
+Like what?
+
+
+191
+0:15:50,5 --> 0:15:55,167
+Just not in stupid orders that lead to needless violence.
+
+
+192
+0:15:55,167 --> 0:15:57,333
+Negotiating isn't an option anymore, Tom.
+
+
+193
+0:15:57,333 --> 0:16:3,333
+So we're brainwashing kids and then sending them in to exterminate a bunch of overtaxed farmers.
+
+
+194
+0:16:3,333 --> 0:16:7,5
+Farmers? That's who you think they are? You have no idea what the innies are like.
+
+
+195
+0:16:7,5 --> 0:16:11,0
+
+
+
+196
+0:16:11,0 --> 0:16:12,0
+I have a pretty good idea.
+
+
+197
+0:16:12,0 --> 0:16:14,5
+
+
+
+198
+0:16:14,5 --> 0:16:23,833
+Well then, you should know how much they hate us and that they're not going to stop fighting until we're all dead.
+
+
+199
+0:16:23,833 --> 0:16:27,0
+Can you blame them?
+
+
+200
+0:16:27,0 --> 0:16:32,5
+Yeah. I can. I blame them for a lot of things.
+
+
+201
+0:16:32,5 --> 0:16:36,5
+
+
+
+202
+0:16:36,5 --> 0:16:37,5
+And you should, too.
+
+
+203
+0:16:37,5 --> 0:16:53,0
+
+
+
+204
+0:16:53,0 --> 0:17:1,833
+I'm staying safe, doing my job. I just want you to do your job.
+
+
+205
+0:17:1,833 --> 0:17:6,833
+Oh, an by the way, nice check mate, bro.
+
+
+206
+0:17:6,833 --> 0:17:9,0
+Yet again.
+
+
+207
+0:17:9,0 --> 0:17:14,5
+Okay. New game. It's your move.
+
+
+208
+0:17:14,5 --> 0:17:23,667
+And hang in there. I know it's tough with mom being gone all the time. Being alone.
+
+
+209
+0:17:23,667 --> 0:17:27,0
+She loves you, so do I.
+
+
+210
+0:17:27,0 --> 0:17:28,5
+Miss you, buddy.
+
+
+211
+0:17:28,5 --> 0:17:35,167
+
+
+
+212
+0:17:35,167 --> 0:17:36,5
+I miss you, too.
+
+
+213
+0:17:36,5 --> 0:17:40,0
+
+
+
+214
+0:17:40,0 --> 0:17:43,5
+Lights out, doors closing.
+
+
+215
+0:17:43,5 --> 0:19:43,5
+
+
+

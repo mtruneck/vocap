@@ -1,0 +1,4925 @@
+1
+0:0:0,0 --> 0:0:1,667
+Hi, I'm Sharon Long,
+
+
+2
+0:0:1,667 --> 0:0:2,6
+from Stanford University,
+
+
+3
+0:0:2,6 --> 0:0:5,667
+and I'm here today to talk about our recent on the plant side
+
+
+4
+0:0:5,667 --> 0:0:8,667
+of the nitrogen-fixing symbiosis, specifically about
+
+
+5
+0:0:8,667 --> 0:0:11,567
+genes and cell responses.
+
+
+6
+0:0:11,567 --> 0:0:15,7
+By way of review, I'll mention again that the Rhizobium symbiosis
+
+
+7
+0:0:15,7 --> 0:0:19,5
+happens in organs called root nodules.
+
+
+8
+0:0:19,5 --> 0:0:23,767
+And within these nodules, bacteria are able to fix nitrogen
+
+
+9
+0:0:23,767 --> 0:0:26,167
+and provide that to the plant for nutrition.
+
+
+10
+0:0:26,167 --> 0:0:29,67
+This is complex developmental process,
+
+
+11
+0:0:29,67 --> 0:0:30,567
+it goes through a number of stages,
+
+
+12
+0:0:30,567 --> 0:0:32,233
+and you'll see some of those today.
+
+
+13
+0:0:32,233 --> 0:0:36,367
+It is species specific, which I've discussed in some of my earlier talks.
+
+
+14
+0:0:36,367 --> 0:0:39,667
+And importantly, for today's lecture,
+
+
+15
+0:0:39,667 --> 0:0:44,1
+bacterium and plant each respond to signals from the other.
+
+
+16
+0:0:44,1 --> 0:0:46,267
+An outline of my talk today is shown here.
+
+
+17
+0:0:46,267 --> 0:0:48,4
+At the beginning, I'll give you some introduction,
+
+
+18
+0:0:48,4 --> 0:0:52,4
+reviewing some of the dynamics of how bacteria and plants interact.
+
+
+19
+0:0:52,4 --> 0:0:55,333
+Then I'd like to talk about some recent work in our lab,
+
+
+20
+0:0:55,333 --> 0:1:0,133
+first about infection and about of group of proteins called flotillins,
+
+
+21
+0:1:0,133 --> 0:1:4,0
+and also about a Nod Factor receptor from the plant.
+
+
+22
+0:1:4,0 --> 0:1:8,267
+Then I'd like to talk about two plant mutants, dnf1 and dnf2,
+
+
+23
+0:1:8,267 --> 0:1:13,633
+which we've identified as being defective in late stages of nodulation.
+
+
+24
+0:1:13,633 --> 0:1:17,7
+And by describing the genes that we've now cloned from those mutants,
+
+
+25
+0:1:17,7 --> 0:1:23,367
+I can share with you some of our ideas on how the symbiosis is working.
+
+
+26
+0:1:23,367 --> 0:1:27,733
+So, here I'm showing a review of the basic idea
+
+
+27
+0:1:27,733 --> 0:1:31,733
+of signal exchange in the early phases of nodulation.
+
+
+28
+0:1:31,733 --> 0:1:35,1
+The plant secretes a flavonoid signal,
+
+
+29
+0:1:35,1 --> 0:1:38,3
+this flavonoid acts as a trigger in the bacterium,
+
+
+30
+0:1:38,3 --> 0:1:42,167
+and that causes the transcription of genes called nod genes,
+
+
+31
+0:1:42,167 --> 0:1:45,167
+which encode enzymes. Those enzymes are able to
+
+
+32
+0:1:45,167 --> 0:1:50,533
+synthesize this second signal, the so-called Nod Factor, down here,
+
+
+33
+0:1:50,533 --> 0:1:53,967
+sometimes abbreviated as NF in some of the slides to come.
+
+
+34
+0:1:53,967 --> 0:1:57,267
+This is a modified chitin fragment,
+
+
+35
+0:1:57,267 --> 0:2:1,933
+you can see there's four residues of N-acetylglucosamine.
+
+
+36
+0:2:1,933 --> 0:2:6,133
+These are modified at the reducing end with a sulfate,
+
+
+37
+0:2:6,133 --> 0:2:11,367
+and at the non-reducing end with both an acetyl and an N-acyl group.
+
+
+38
+0:2:11,367 --> 0:2:14,367
+And in one of the slides yet to come,
+
+
+39
+0:2:14,367 --> 0:2:17,8
+I'll be talking about the differences between the plant response
+
+
+40
+0:2:17,8 --> 0:2:21,167
+to chitin to a true Nod Factor.
+
+
+41
+0:2:21,167 --> 0:2:23,4
+So Nod Factors are very powerful,
+
+
+42
+0:2:23,4 --> 0:2:26,6
+and this gives you an idea of just how powerful they are.
+
+
+43
+0:2:26,6 --> 0:2:30,467
+On the top, we have an alfalfa root, and on this root,
+
+
+44
+0:2:30,467 --> 0:2:34,933
+Sinorhizobium meliloti, the symbiont, has established a nodule,
+
+
+45
+0:2:34,933 --> 0:2:36,5
+and this is an intact nodule.
+
+
+46
+0:2:36,5 --> 0:2:40,267
+It's been cleared, and you can see the deep brown color,
+
+
+47
+0:2:40,267 --> 0:2:43,567
+which is from the metals that are in the various cytochromes
+
+
+48
+0:2:43,567 --> 0:2:47,3
+and enzymes of the bacteria while they're fixing nitrogen.
+
+
+49
+0:2:47,3 --> 0:2:51,33
+Now at the bottom, we see a form that looks very similar,
+
+
+50
+0:2:51,33 --> 0:2:53,3
+and yet this has no bacteria in it.
+
+
+51
+0:2:53,3 --> 0:2:55,9
+This entire structure on an alfalfa root
+
+
+52
+0:2:55,9 --> 0:3:0,9
+was caused just by a small droplet of Nod Factor.
+
+
+53
+0:3:0,9 --> 0:3:7,6
+So this one chemical is able to produce an entire organ on the plant.
+
+
+54
+0:3:7,6 --> 0:3:10,633
+Here is another one of the characteristic early events
+
+
+55
+0:3:10,633 --> 0:3:13,767
+in Rhizobium-legume interactions.
+
+
+56
+0:3:13,767 --> 0:3:20,0
+This shows root hairs on the root of a plant, and here on the right,
+
+
+57
+0:3:20,0 --> 0:3:22,233
+you can see a normal root hair, which grows straight.
+
+
+58
+0:3:22,233 --> 0:3:25,733
+And here you see a root hair that has been provoked
+
+
+59
+0:3:25,733 --> 0:3:30,367
+by Rhizobium to grow in a such a way that it tops over
+
+
+60
+0:3:30,367 --> 0:3:35,367
+and forms a curl. And here in the crook is where the
+
+
+61
+0:3:35,367 --> 0:3:40,6
+bacteria are trapped, and these deformed root hairs
+
+
+62
+0:3:40,6 --> 0:3:44,167
+of various kinds are very characteristic of the effect
+
+
+63
+0:3:44,167 --> 0:3:49,133
+of the correct Rhizobium on its compatible host.
+
+
+64
+0:3:49,133 --> 0:3:55,433
+Now, the bacteria are then able to travel by proliferating
+
+
+65
+0:3:55,433 --> 0:3:59,533
+and burrowing their way into the plant cell itself.
+
+
+66
+0:3:59,533 --> 0:4:2,6
+And this white arrow shows an infection thread;
+
+
+67
+0:4:2,6 --> 0:4:6,333
+this is formed by the plant in response to the bacteria.
+
+
+68
+0:4:6,333 --> 0:4:9,7
+Within the infection thread, bacteria are proliferating,
+
+
+69
+0:4:9,7 --> 0:4:13,67
+and they are invading through the root hair cell,
+
+
+70
+0:4:13,67 --> 0:4:17,567
+and as you'll see, eventually down into further cell layers.
+
+
+71
+0:4:17,567 --> 0:4:22,133
+So there's the infection thread, and you'll see more about that in a little while.
+
+
+72
+0:4:22,133 --> 0:4:24,667
+I'd now like to show you something about the dynamics
+
+
+73
+0:4:24,667 --> 0:4:27,267
+of how Rhizobium affect plants.
+
+
+74
+0:4:27,267 --> 0:4:29,633
+Let's start by looking at normal root hairs.
+
+
+75
+0:4:29,633 --> 0:4:32,967
+So, on a root, the youngest part of the root is over here,
+
+
+76
+0:4:32,967 --> 0:4:35,4
+and you can see that they don't have any root hairs yet,
+
+
+77
+0:4:35,4 --> 0:4:37,5
+and then the root hairs get longer.
+
+
+78
+0:4:37,5 --> 0:4:40,67
+And over here, they're full sized.
+
+
+79
+0:4:40,67 --> 0:4:43,767
+So, root hairs get to a particular size, and then they stop.
+
+
+80
+0:4:43,767 --> 0:4:45,567
+Now let's watch in this movie,
+
+
+81
+0:4:45,567 --> 0:4:50,367
+to see how root hairs elongate normally, that's without Rhizobium.
+
+
+82
+0:4:50,367 --> 0:4:52,33
+So here you see root hairs.
+
+
+83
+0:4:52,33 --> 0:4:55,167
+They start, they grow, and then at some point
+
+
+84
+0:4:55,167 --> 0:4:58,8
+they reach a mature length, and they just stop,
+
+
+85
+0:4:58,8 --> 0:5:2,9
+but they grow fairly straight during this entire process.
+
+
+86
+0:5:2,9 --> 0:5:5,667
+Now we're going to look at root hairs on a plant that
+
+
+87
+0:5:5,667 --> 0:5:9,7
+has been treated with its Rhizobium symbiont.
+
+
+88
+0:5:9,7 --> 0:5:12,767
+So here, the root hairs are in the process of growing,
+
+
+89
+0:5:12,767 --> 0:5:16,6
+and if you watch what happens to them as they grow,
+
+
+90
+0:5:16,6 --> 0:5:22,833
+you'll see how different it is from unperturbed growth.
+
+
+91
+0:5:22,833 --> 0:5:28,767
+So here, for example, we see root hairs that are curling.
+
+
+92
+0:5:28,767 --> 0:5:33,0
+Over on this side, if you look at this root hair, you can see that it's growing,
+
+
+93
+0:5:33,0 --> 0:5:35,567
+and then it pauses, see that pause?
+
+
+94
+0:5:35,567 --> 0:5:39,6
+And then it emerges, and now it pauses and branches again.
+
+
+95
+0:5:39,6 --> 0:5:41,367
+So there's two things going on.
+
+
+96
+0:5:41,367 --> 0:5:46,33
+One is this characteristic pause, so right here you can see
+
+
+97
+0:5:46,33 --> 0:5:49,167
+there's a pause right before it starts to top over.
+
+
+98
+0:5:49,167 --> 0:5:53,1
+And the other is that you're getting branching or curling,
+
+
+99
+0:5:53,1 --> 0:5:55,67
+other kinds of deformation.
+
+
+100
+0:5:55,67 --> 0:5:58,2
+So Rhizobium has a profound effect on the morphogenesis
+
+
+101
+0:5:58,2 --> 0:6:1,633
+of this particular plant cell.
+
+
+102
+0:6:1,633 --> 0:6:5,0
+Now, we've seen a little bit now about root hair deformation,
+
+
+103
+0:6:5,0 --> 0:6:9,3
+and I'll mention along the way that Rhizobium can also
+
+
+104
+0:6:9,3 --> 0:6:13,0
+cause roots to engage in specific transcription,
+
+
+105
+0:6:13,0 --> 0:6:14,733
+which we study with microarrays,
+
+
+106
+0:6:14,733 --> 0:6:17,0
+and they provoke cell division.
+
+
+107
+0:6:17,0 --> 0:6:19,467
+But for the moment, I just want to look a little bit more
+
+
+108
+0:6:19,467 --> 0:6:22,33
+about what happens to these root hairs,
+
+
+109
+0:6:22,33 --> 0:6:26,333
+because if you think about it, root hairs are on the surface of the plant,
+
+
+110
+0:6:26,333 --> 0:6:30,0
+they're single cells, they have a high surface-to-volume ratio...
+
+
+111
+0:6:30,0 --> 0:6:32,367
+it makes sense that these are going to be
+
+
+112
+0:6:32,367 --> 0:6:34,367
+exposed to the signals from the outside,
+
+
+113
+0:6:34,367 --> 0:6:38,1
+and they might be the place where signal transduction begins.
+
+
+114
+0:6:38,1 --> 0:6:43,733
+So, we might ask, by cell biology and by genetics,
+
+
+115
+0:6:43,733 --> 0:6:47,767
+are there receptors, and what is the signal transduction pathway?
+
+
+116
+0:6:47,767 --> 0:6:49,967
+And ask whether we can study root hairs
+
+
+117
+0:6:49,967 --> 0:6:51,633
+as a way of capturing those.
+
+
+118
+0:6:51,633 --> 0:6:56,4
+Now, signal transduction is often a complex and fairly rapid
+
+
+119
+0:6:56,4 --> 0:7:0,4
+multiprotein process, so we set out to look for events
+
+
+120
+0:7:0,4 --> 0:7:6,567
+that occur in root hairs that are cell autonomous and fairly rapid.
+
+
+121
+0:7:6,567 --> 0:7:10,633
+One of the earliest studies that we did in this area was
+
+
+122
+0:7:10,633 --> 0:7:15,933
+simply to look at the electrochemical potential across the plant membrane.
+
+
+123
+0:7:15,933 --> 0:7:20,0
+So in this, we're taking a single root hair here,
+
+
+124
+0:7:20,0 --> 0:7:23,433
+and by putting in a microelectrode and measuring the difference
+
+
+125
+0:7:23,433 --> 0:7:26,967
+in potential between the interior of the cell and exterior of the cell,
+
+
+126
+0:7:26,967 --> 0:7:31,967
+we were able to find that untreated root hairs have a stable,
+
+
+127
+0:7:31,967 --> 0:7:37,267
+very negative potential at about -130 to -140 mV.
+
+
+128
+0:7:37,267 --> 0:7:40,7
+However, if we treated a root hair with Rhizobium,
+
+
+129
+0:7:40,7 --> 0:7:45,5
+what we found was that the Rhizobium and its Nod Factor
+
+
+130
+0:7:45,5 --> 0:7:49,967
+are able to cause a depolarization of that plasma membrane,
+
+
+131
+0:7:49,967 --> 0:7:55,0
+so that the potential change across the membrane here diminishes.
+
+
+132
+0:7:55,0 --> 0:7:58,167
+And that happens actually within a minute.
+
+
+133
+0:7:58,167 --> 0:8:1,5
+In our studies and others', this has been shown to be accompanied
+
+
+134
+0:8:1,5 --> 0:8:5,367
+by ion fluxes (ion currents) near the tip.
+
+
+135
+0:8:5,367 --> 0:8:8,3
+Now one ion in particular is very interesting to us,
+
+
+136
+0:8:8,3 --> 0:8:11,467
+and that is calcium. We've used different techniques,
+
+
+137
+0:8:11,467 --> 0:8:13,967
+but here's one of them that we have used.
+
+
+138
+0:8:13,967 --> 0:8:17,1
+On the left, you can see a root hair,
+
+
+139
+0:8:17,1 --> 0:8:19,533
+and into this root hair we're delivering a mixture of
+
+
+140
+0:8:19,533 --> 0:8:21,233
+two different fluorescent proteins.
+
+
+141
+0:8:21,233 --> 0:8:25,33
+One is fluorescent irrespective of the calcium concentration,
+
+
+142
+0:8:25,33 --> 0:8:28,9
+the other increases its fluorescence when calcium is high.
+
+
+143
+0:8:28,9 --> 0:8:31,667
+Using those two together, we can take a ratio
+
+
+144
+0:8:31,667 --> 0:8:34,1
+and get the value of calcium corrected
+
+
+145
+0:8:34,1 --> 0:8:37,1
+for the concentration of the cytoplasm.
+
+
+146
+0:8:37,1 --> 0:8:39,567
+And then we can track that over time.
+
+
+147
+0:8:39,567 --> 0:8:42,967
+So now we're going to follow calcium in this slide.
+
+
+148
+0:8:42,967 --> 0:8:45,767
+Now, this is a pseudo-color representation
+
+
+149
+0:8:45,767 --> 0:8:50,267
+of the fluorescence corrected for cytoplasmic concentration.
+
+
+150
+0:8:50,267 --> 0:8:55,633
+Cool colors mean low calcium, warm colors mean high calcium.
+
+
+151
+0:8:55,633 --> 0:8:59,567
+If you take a look at the root hairs here, they're all blue,
+
+
+152
+0:8:59,567 --> 0:9:0,933
+that means low calcium.
+
+
+153
+0:9:0,933 --> 0:9:4,233
+As you move in time, and these are ten second intervals,
+
+
+154
+0:9:4,233 --> 0:9:9,233
+you see the warmer color, yellow, appearing from the tip of the root hair,
+
+
+155
+0:9:9,233 --> 0:9:12,9
+so calcium is getting high at the tip.
+
+
+156
+0:9:12,9 --> 0:9:15,967
+As you continue the time series up here,
+
+
+157
+0:9:15,967 --> 0:9:19,833
+you can now get to a point where you see this extremely high calcium,
+
+
+158
+0:9:19,833 --> 0:9:23,67
+shown by red, and this happens to be in the part of the
+
+
+159
+0:9:23,67 --> 0:9:26,2
+cell represented by the nucleus.
+
+
+160
+0:9:26,2 --> 0:9:31,67
+So, what can we say, and I'll quantify that with the following graphs.
+
+
+161
+0:9:31,67 --> 0:9:34,567
+First, if you compare an untreated cell, that's here,
+
+
+162
+0:9:34,567 --> 0:9:38,233
+and here's the baseline of the calcium, with the presentation of
+
+
+163
+0:9:38,233 --> 0:9:40,8
+one nanomolar of Nod Factor,
+
+
+164
+0:9:40,8 --> 0:9:44,33
+what you find is that about ten minutes after the presentation
+
+
+165
+0:9:44,33 --> 0:9:49,33
+of the Nod Factor, you get these sharp upswings in calcium.
+
+
+166
+0:9:49,33 --> 0:9:51,833
+And that's what's going on here.
+
+
+167
+0:9:51,833 --> 0:9:55,433
+This is the calcium spiking represented there.
+
+
+168
+0:9:55,433 --> 0:10:0,967
+Now, number two, if you put in a higher amount of Nod Factor,
+
+
+169
+0:10:0,967 --> 0:10:6,33
+10 nanomolar, now you get something more complex.
+
+
+170
+0:10:6,33 --> 0:10:10,7
+You get a faster response, and this turns out to be the
+
+
+171
+0:10:10,7 --> 0:10:15,333
+tip flux of calcium coming in, and then calcium spiking
+
+
+172
+0:10:15,333 --> 0:10:18,0
+happens at the same time.
+
+
+173
+0:10:18,0 --> 0:10:21,7
+Now the other data that I'll show you here is that,
+
+
+174
+0:10:21,7 --> 0:10:25,133
+if you take chitin alone...
+
+
+175
+0:10:25,133 --> 0:10:28,933
+Now remember I pointed out that Nod Factor is like an
+
+
+176
+0:10:28,933 --> 0:10:32,8
+oligomer of chitin N-acetylglucosamine resides,
+
+
+177
+0:10:32,8 --> 0:10:36,33
+with some modifications. But what if you take the modifications off?
+
+
+178
+0:10:36,33 --> 0:10:38,867
+It's not Nod Factor anymore, it's just chitin.
+
+
+179
+0:10:38,867 --> 0:10:46,967
+If you add very, very large amounts of chitin,
+
+
+180
+0:10:46,967 --> 0:10:50,333
+we've got one micromolar here, so a thousand-fold higher,
+
+
+181
+0:10:50,333 --> 0:10:56,533
+you get some spiking, but you need much more chitin than Nod Factor,
+
+
+182
+0:10:56,533 --> 0:10:58,2
+and it's not completely normal.
+
+
+183
+0:10:58,2 --> 0:11:2,5
+So for that, we can say that the plant is
+
+
+184
+0:11:2,5 --> 0:11:5,8
+exquisitely tuned to the Nod Factor.
+
+
+185
+0:11:5,8 --> 0:11:10,433
+Finally, we do know that the calcium flux and calcium spiking
+
+
+186
+0:11:10,433 --> 0:11:17,1
+are not just separated in space, but they're really independent
+
+
+187
+0:11:17,1 --> 0:11:23,533
+in that you can add high Nod Factor after calcium spiking
+
+
+188
+0:11:23,533 --> 0:11:26,9
+has started, and you'll get the big influx.
+
+
+189
+0:11:26,9 --> 0:11:31,133
+So they really do appear to be two separate events.
+
+
+190
+0:11:31,133 --> 0:11:34,2
+Now a third response that we were able to document
+
+
+191
+0:11:34,2 --> 0:11:37,67
+very early in nodulation is this one:
+
+
+192
+0:11:37,67 --> 0:11:42,0
+Using a whole seedling assay and with an indicator
+
+
+193
+0:11:42,0 --> 0:11:45,0
+that shows the presence of hydrogen peroxide,
+
+
+194
+0:11:45,0 --> 0:11:49,367
+we can follow normal roots over time,
+
+
+195
+0:11:49,367 --> 0:11:52,867
+and we can assess how much peroxide are they producing.
+
+
+196
+0:11:52,867 --> 0:11:56,467
+And in a normal, untreated root hair, that's shown here.
+
+
+197
+0:11:56,467 --> 0:11:59,267
+They don't produce zero, they produce a modest amount,
+
+
+198
+0:11:59,267 --> 0:12:3,0
+and here's what it looks like over a period of about 1.5 hours.
+
+
+199
+0:12:3,0 --> 0:12:5,633
+Now what if we treat those with Nod Factor?
+
+
+200
+0:12:5,633 --> 0:12:10,0
+What we find, very intriguingly, is that Nod Factor causes
+
+
+201
+0:12:10,0 --> 0:12:13,6
+the rate of evolution to be diminished.
+
+
+202
+0:12:13,6 --> 0:12:18,967
+So a lower level of hydrogen peroxide is produced
+
+
+203
+0:12:18,967 --> 0:12:22,3
+in the presence of Nod Factor.
+
+
+204
+0:12:22,3 --> 0:12:26,533
+Now what if we add an "elicitor," pathogenic elicitor?
+
+
+205
+0:12:26,533 --> 0:12:29,6
+We would expect an elicitor to cause the plant to
+
+
+206
+0:12:29,6 --> 0:12:31,767
+mount a defense response, and sure enough,
+
+
+207
+0:12:31,767 --> 0:12:35,633
+if you look at the amount of hydrogen peroxide coming in the plant
+
+
+208
+0:12:35,633 --> 0:12:39,433
+after the treatment with the elicitor, it's accelerated.
+
+
+209
+0:12:39,433 --> 0:12:45,8
+So it seems that roots are able to elaborate hydrogen peroxide,
+
+
+210
+0:12:45,8 --> 0:12:49,167
+an example of reactive oxygen species,
+
+
+211
+0:12:49,167 --> 0:12:51,6
+that Nod Factor diminishes that,
+
+
+212
+0:12:51,6 --> 0:12:54,33
+which would suggest it's lowering its defenses,
+
+
+213
+0:12:54,33 --> 0:12:59,867
+and an elicitor increases it, consistent with an increase in defenses.
+
+
+214
+0:12:59,867 --> 0:13:2,6
+Now, this is only over the couple of hours,
+
+
+215
+0:13:2,6 --> 0:13:6,167
+we're interested here only in very early events.
+
+
+216
+0:13:6,167 --> 0:13:11,467
+In fact, the defense reactions appear to have a very interesting
+
+
+217
+0:13:11,467 --> 0:13:17,467
+and complex role later on in nodulation, but this is not related to those.
+
+
+218
+0:13:17,467 --> 0:13:20,833
+This is just in the first two hours or so.
+
+
+219
+0:13:20,833 --> 0:13:22,933
+So now we can fill in a bit what we know
+
+
+220
+0:13:22,933 --> 0:13:28,533
+about the early responses of the plants to the rhizobial Nod Factor.
+
+
+221
+0:13:28,533 --> 0:13:36,833
+We know that it causes nodules to form, cell divisions in the plant.
+
+
+222
+0:13:36,833 --> 0:13:41,533
+We now can fill in that, in addition to the overall root hair curling,
+
+
+223
+0:13:41,533 --> 0:13:44,7
+which we could see in the microscope,
+
+
+224
+0:13:44,7 --> 0:13:48,767
+other kinds of assays demonstrate that there's a rapid depolarization
+
+
+225
+0:13:48,767 --> 0:13:52,767
+across the plant plasma membrane in response to Nod Factor.
+
+
+226
+0:13:52,767 --> 0:13:55,333
+This is accompanied by calcium flux.
+
+
+227
+0:13:55,333 --> 0:13:58,433
+Slightly later there's calcium spiking in the cytoplasm and
+
+
+228
+0:13:58,433 --> 0:14:3,433
+a suppression of the rate of reactive oxygen production.
+
+
+229
+0:14:3,433 --> 0:14:8,8
+Now one other topic that I'll just mention briefly is transcription.
+
+
+230
+0:14:8,8 --> 0:14:13,433
+We've been able to assess transcription during nodulation,
+
+
+231
+0:14:13,433 --> 0:14:18,533
+at various stages, with a specialized approach,
+
+
+232
+0:14:18,533 --> 0:14:21,33
+which is shown on the next slide.
+
+
+233
+0:14:21,33 --> 0:14:26,467
+We, following our work on determining the complete genome
+
+
+234
+0:14:26,467 --> 0:14:32,167
+sequence of the bacterium, we then constructed an Affymetrix chip
+
+
+235
+0:14:32,167 --> 0:14:34,8
+in which we had the complete bacterial genome,
+
+
+236
+0:14:34,8 --> 0:14:40,533
+plus about 10,000 sequences representing probable genes
+
+
+237
+0:14:40,533 --> 0:14:43,567
+from EST libraries in the plant, and we put
+
+
+238
+0:14:43,567 --> 0:14:47,7
+the two genomes on the same Affymetrix chip.
+
+
+239
+0:14:47,7 --> 0:14:54,0
+So we call this our SymbioChip, and through analysis of RNA
+
+
+240
+0:14:54,0 --> 0:14:57,6
+species from the nodules, we can actually get a readout of
+
+
+241
+0:14:57,6 --> 0:15:0,9
+both bacteria and the plant at the same time.
+
+
+242
+0:15:0,9 --> 0:15:4,233
+And through that, we were able to show that,
+
+
+243
+0:15:4,233 --> 0:15:9,867
+within the first 24 hours after treatment with Nod Factor or
+
+
+244
+0:15:9,867 --> 0:15:15,33
+after treatment with bacteria, a characteristic set of plant genes
+
+
+245
+0:15:15,33 --> 0:15:18,333
+are upregulated or are downregulated.
+
+
+246
+0:15:18,333 --> 0:15:21,767
+Some four dozen or so sequences,
+
+
+247
+0:15:21,767 --> 0:15:24,67
+and I'll talk a little bit more about that in a moment when
+
+
+248
+0:15:24,67 --> 0:15:26,633
+I get to the mutant analysis.
+
+
+249
+0:15:26,633 --> 0:15:30,7
+But now, let me put all of those events on a timeline for you.
+
+
+250
+0:15:30,7 --> 0:15:32,9
+So I'm going to start here on the left.
+
+
+251
+0:15:32,9 --> 0:15:36,533
+Now, we know that in the very early stages, within a minute,
+
+
+252
+0:15:36,533 --> 0:15:41,967
+we get calcium flux, suppression of reactive oxygen,
+
+
+253
+0:15:41,967 --> 0:15:43,7
+we get a depolarization.
+
+
+254
+0:15:43,7 --> 0:15:46,567
+There's also calcium spiking at about 10 minutes.
+
+
+255
+0:15:46,567 --> 0:15:48,5
+There are morphological changes.
+
+
+256
+0:15:48,5 --> 0:15:51,933
+You saw in the film that the root hairs pause
+
+
+257
+0:15:51,933 --> 0:15:55,0
+and swell a little bit right before they start to curl.
+
+
+258
+0:15:55,0 --> 0:15:57,733
+Then there's morphogenesis of the root hair,
+
+
+259
+0:15:57,733 --> 0:16:1,433
+forming branches and curls and both.
+
+
+260
+0:16:1,433 --> 0:16:5,867
+And we can see the cell divisions. Finally, the transcription.
+
+
+261
+0:16:5,867 --> 0:16:8,467
+Now here's the timeline for that happening.
+
+
+262
+0:16:8,467 --> 0:16:12,833
+If we start at time zero, and this is where the bacteria are being added,
+
+
+263
+0:16:12,833 --> 0:16:18,167
+those first events, such as the calcium flux and the depolarization,
+
+
+264
+0:16:18,167 --> 0:16:21,67
+happen within a few minutes, one to a few minutes.
+
+
+265
+0:16:21,67 --> 0:16:24,333
+Calcium spiking at an average of 10 minutes.
+
+
+266
+0:16:24,333 --> 0:16:26,667
+The gene expression that I mentioned, that we can assess
+
+
+267
+0:16:26,667 --> 0:16:30,467
+with our Affymetrix chip, that's happening as early as a
+
+
+268
+0:16:30,467 --> 0:16:33,9
+few hours and goes on for about 24 hours.
+
+
+269
+0:16:33,9 --> 0:16:37,7
+Now the actual curling of the root hair, the deformation of the root hair,
+
+
+270
+0:16:37,7 --> 0:16:40,1
+takes a while to express.
+
+
+271
+0:16:40,1 --> 0:16:44,333
+Of course we have to keep in mind that this is limited by how
+
+
+272
+0:16:44,333 --> 0:16:46,767
+fast the root hair can grow.
+
+
+273
+0:16:46,767 --> 0:16:49,833
+We don't know when the decision to curl is made,
+
+
+274
+0:16:49,833 --> 0:16:52,867
+but the actual outcome, the mechanics of curling,
+
+
+275
+0:16:52,867 --> 0:16:54,567
+take somewhat longer.
+
+
+276
+0:16:54,567 --> 0:16:56,567
+And then, here around 20 hours,
+
+
+277
+0:16:56,567 --> 0:16:58,733
+we're going to start to get infection.
+
+
+278
+0:16:58,733 --> 0:17:2,367
+The production of the infection thread and the ability of the bacteria
+
+
+279
+0:17:2,367 --> 0:17:5,433
+now to penetrate in through that root hair.
+
+
+280
+0:17:5,433 --> 0:17:8,8
+And then the cell division here leading
+
+
+281
+0:17:8,8 --> 0:17:13,3
+to the production of the nodule, that's all happening over this
+
+
+282
+0:17:13,3 --> 0:17:16,0
+period of a day to two days.
+
+
+283
+0:17:16,0 --> 0:17:21,6
+Now through a set of genetic mutageneses and screens,
+
+
+284
+0:17:21,6 --> 0:17:25,6
+our group and others have identified many different plant mutants
+
+
+285
+0:17:25,6 --> 0:17:30,133
+that arrest at one or the other of these stages.
+
+
+286
+0:17:30,133 --> 0:17:33,67
+And having these subcellular assays to do
+
+
+287
+0:17:33,67 --> 0:17:37,67
+allowed us to distinguish between the different kinds of
+
+
+288
+0:17:37,67 --> 0:17:41,933
+plant Nod- mutants. So here's an example.
+
+
+289
+0:17:41,933 --> 0:17:46,233
+Here, on the left, is a gene called
+
+
+290
+0:17:46,233 --> 0:17:50,5
+NFP for "Nod Factor perception." If that gene is mutated,
+
+
+291
+0:17:50,5 --> 0:17:54,3
+you have a block right here, so nothing happens at all,
+
+
+292
+0:17:54,3 --> 0:17:58,1
+there's no depolarization, there's no calcium flux,
+
+
+293
+0:17:58,1 --> 0:18:0,8
+no change in the morphology.
+
+
+294
+0:18:0,8 --> 0:18:6,167
+And then, here are two mutants that are
+
+
+295
+0:18:6,167 --> 0:18:10,9
+present in such a way that they allow the plant to have calcium flux,
+
+
+296
+0:18:10,9 --> 0:18:15,333
+and it has suppression of reactive oxygen species and so forth.
+
+
+297
+0:18:15,333 --> 0:18:18,0
+However, it doesn't show calcium spiking.
+
+
+298
+0:18:18,0 --> 0:18:20,933
+So these two mutants were able to distinguish
+
+
+299
+0:18:20,933 --> 0:18:25,233
+between the early calcium flux and the calcium spiking itself.
+
+
+300
+0:18:25,233 --> 0:18:29,867
+They are not only separated in the cell in geography and in time,
+
+
+301
+0:18:29,867 --> 0:18:33,0
+but they can be separated genetically.
+
+
+302
+0:18:33,0 --> 0:18:39,967
+Here, we found one or more mutants that allow calcium spiking
+
+
+303
+0:18:39,967 --> 0:18:42,733
+but do not allow any gene expression.
+
+
+304
+0:18:42,733 --> 0:18:45,333
+And so forth and so on down the line.
+
+
+305
+0:18:45,333 --> 0:18:49,133
+So with all of this, we are able to set a timeline
+
+
+306
+0:18:49,133 --> 0:18:53,833
+and a developmental sequence for how signals are transduced.
+
+
+307
+0:18:53,833 --> 0:18:58,33
+And among other things, we were able to use that transcription assay
+
+
+308
+0:18:58,33 --> 0:19:3,633
+to distinguish between root hair curling genes
+
+
+309
+0:19:3,633 --> 0:19:6,833
+and early calcium transduction genes.
+
+
+310
+0:19:6,833 --> 0:19:10,833
+And we were able to show that all of those plant genes
+
+
+311
+0:19:10,833 --> 0:19:14,7
+that are expressed come on at the same time.
+
+
+312
+0:19:14,7 --> 0:19:18,167
+It's not the case that you can get a few genes here,
+
+
+313
+0:19:18,167 --> 0:19:20,533
+and a few more here, and a few more after that.
+
+
+314
+0:19:20,533 --> 0:19:25,367
+You get no genes expressed at all, up until this point here.
+
+
+315
+0:19:25,367 --> 0:19:27,867
+And we were able to show that by a combination of
+
+
+316
+0:19:27,867 --> 0:19:33,233
+mutant analysis and transcription analysis.
+
+
+317
+0:19:33,233 --> 0:19:36,967
+So that means we're going to be able to say that
+
+
+318
+0:19:36,967 --> 0:19:39,833
+the series of events of shown here --
+
+
+319
+0:19:39,833 --> 0:19:44,867
+calcium flux, suppression, growth arrest (the pausing) --
+
+
+320
+0:19:44,867 --> 0:19:50,3
+can cluster, and we can see that one particular gene called NFP,
+
+
+321
+0:19:50,3 --> 0:19:52,3
+which we believe encodes a receptor,
+
+
+322
+0:19:52,3 --> 0:19:55,933
+is responsible and required for those events.
+
+
+323
+0:19:55,933 --> 0:20:0,233
+Then there's a set of two genes, DMI1 and DMI2,
+
+
+324
+0:20:0,233 --> 0:20:3,4
+that are required in order to get to calcium spiking.
+
+
+325
+0:20:3,4 --> 0:20:5,433
+One of these is an ion channel,
+
+
+326
+0:20:5,433 --> 0:20:8,733
+the other is a putative receptor kinase.
+
+
+327
+0:20:8,733 --> 0:20:13,8
+Intriguingly, just downstream from calcium spiking
+
+
+328
+0:20:13,8 --> 0:20:17,933
+is a mutant, DMI3, and another mutant, CYCLOPS;
+
+
+329
+0:20:17,933 --> 0:20:20,5
+these are both required in order
+
+
+330
+0:20:20,5 --> 0:20:25,3
+for any of the later events to occur, such as transcription.
+
+
+331
+0:20:25,3 --> 0:20:28,667
+So we believe that these genes help interpret the
+
+
+332
+0:20:28,667 --> 0:20:32,267
+calcium spiking signal and transduce it to the
+
+
+333
+0:20:32,267 --> 0:20:35,133
+next set of genes, NSP1 and NSP2.
+
+
+334
+0:20:35,133 --> 0:20:38,367
+These are required for transcription, and indeed,
+
+
+335
+0:20:38,367 --> 0:20:42,1
+they turn out by sequence to be predicted transcription factors.
+
+
+336
+0:20:42,1 --> 0:20:45,3
+More transcription factors are also required in order for
+
+
+337
+0:20:45,3 --> 0:20:48,333
+nodulation to occur. Now all of these events
+
+
+338
+0:20:48,333 --> 0:20:54,67
+on the right require the one pathway, this is called the signaling pathway,
+
+
+339
+0:20:54,67 --> 0:20:57,133
+starting with the signaling receptor NFP1,
+
+
+340
+0:20:57,133 --> 0:20:59,867
+and going through transcription factors.
+
+
+341
+0:20:59,867 --> 0:21:2,633
+But I haven't said anything about infection,
+
+
+342
+0:21:2,633 --> 0:21:5,367
+and I'd like to mention that.
+
+
+343
+0:21:5,367 --> 0:21:10,8
+It turns out that the plants appear to have not one receptor, but two.
+
+
+344
+0:21:10,8 --> 0:21:15,367
+The second receptor is called the "stringent" or "entry" receptor,
+
+
+345
+0:21:15,367 --> 0:21:20,733
+and the name of that gene is LYK3, in the case of Medicago truncatula.
+
+
+346
+0:21:20,733 --> 0:21:23,533
+This, and one of the transcription factors,
+
+
+347
+0:21:23,533 --> 0:21:26,733
+are required in order for infection to occur.
+
+
+348
+0:21:26,733 --> 0:21:32,9
+So you can have these other events happening, but no infection.
+
+
+349
+0:21:32,9 --> 0:21:38,267
+This additional set of factors is required for infection.
+
+
+350
+0:21:38,267 --> 0:21:40,4
+So back to the outline.
+
+
+351
+0:21:40,4 --> 0:21:43,567
+I've gone through a description of some of the plant cell
+
+
+352
+0:21:43,567 --> 0:21:45,967
+responses to Nod Factor, and told you about
+
+
+353
+0:21:45,967 --> 0:21:49,7
+how we have used plant mutants, plus those cell phenotypes,
+
+
+354
+0:21:49,7 --> 0:21:53,2
+in order to create an ordered set of steps that we believe
+
+
+355
+0:21:53,2 --> 0:21:57,933
+represents the signal transduction pathway in early nodulation.
+
+
+356
+0:21:57,933 --> 0:22:2,433
+In the next part of the talk, I'm now going to move, as I say,
+
+
+357
+0:22:2,433 --> 0:22:5,767
+beyond nodulation: I'll be talking about infection
+
+
+358
+0:22:5,767 --> 0:22:10,4
+and also about later stages in nodulation.
+
+
+359
+0:22:10,4 --> 0:22:14,867
+So, as we think about the symbiosis, remember,
+
+
+360
+0:22:14,867 --> 0:22:18,8
+everything that I described in terms of early signal transduction
+
+
+361
+0:22:18,8 --> 0:22:22,633
+is over here. That's just the beginning.
+
+
+362
+0:22:22,633 --> 0:22:24,6
+There's so much more to come.
+
+
+363
+0:22:24,6 --> 0:22:30,2
+There's as the bacteria infect and eventually form the nodule.
+
+
+364
+0:22:30,2 --> 0:22:32,333
+So now let's take a look at some of the
+
+
+365
+0:22:32,333 --> 0:22:36,433
+specific topics that are interesting. First, infection.
+
+
+366
+0:22:36,433 --> 0:22:38,867
+We've already seen that more genes are needed
+
+
+367
+0:22:38,867 --> 0:22:41,67
+for infection than just for signaling.
+
+
+368
+0:22:41,67 --> 0:22:44,267
+And the infection thread is a remarkable structure.
+
+
+369
+0:22:44,267 --> 0:22:47,767
+It penetrates not just through the root hair,
+
+
+370
+0:22:47,767 --> 0:22:51,133
+but then through multiple layers of plant cells,
+
+
+371
+0:22:51,133 --> 0:22:56,2
+on its way in to find target cells.
+
+
+372
+0:22:56,2 --> 0:23:2,5
+Now, as this proceeds, the plant elaborates an entire nodule,
+
+
+373
+0:23:2,5 --> 0:23:8,367
+and all the dark cells in this photo are packed full of bacteria.
+
+
+374
+0:23:8,367 --> 0:23:10,867
+And if you look close up at those,
+
+
+375
+0:23:10,867 --> 0:23:15,8
+each bacterium is surrounded by an envelope of plant membrane,
+
+
+376
+0:23:15,8 --> 0:23:19,33
+and within that, the bacteria are going to differentiate.
+
+
+377
+0:23:19,33 --> 0:23:21,6
+So, using different approaches,
+
+
+378
+0:23:21,6 --> 0:23:25,633
+we're going to take a look at how the plant manages
+
+
+379
+0:23:25,633 --> 0:23:28,167
+to support these really remarkable events.
+
+
+380
+0:23:28,167 --> 0:23:33,333
+We'll start with infection. As I mentioned,
+
+
+381
+0:23:33,333 --> 0:23:36,5
+infection occurs beginning in the root hairs,
+
+
+382
+0:23:36,5 --> 0:23:38,0
+and what we wanted to ask is,
+
+
+383
+0:23:38,0 --> 0:23:40,567
+how does the inside of the plant cell
+
+
+384
+0:23:40,567 --> 0:23:42,867
+cope with the invasion of the bacterium?
+
+
+385
+0:23:42,867 --> 0:23:44,7
+How does it reorganize itself?
+
+
+386
+0:23:44,7 --> 0:23:50,367
+We decided to take a look at some candidate genes called flotillins.
+
+
+387
+0:23:50,367 --> 0:23:54,67
+These are genes that are originally identified in animals.
+
+
+388
+0:23:54,67 --> 0:23:57,133
+I'll give a brief review, and then I'll show you
+
+
+389
+0:23:57,133 --> 0:24:3,733
+our data that demonstrate that plant flotillins are active in nodulation.
+
+
+390
+0:24:3,733 --> 0:24:7,8
+There's two copies of flotillins that are specifically upregulated
+
+
+391
+0:24:7,8 --> 0:24:13,167
+in nodules, their transcription is regulated along with other
+
+
+392
+0:24:13,167 --> 0:24:18,667
+nodulation genes, they're required for infection,
+
+
+393
+0:24:18,667 --> 0:24:21,933
+they're required for elongation, and remarkably,
+
+
+394
+0:24:21,933 --> 0:24:25,233
+the proteins of these flotillins have very striking
+
+
+395
+0:24:25,233 --> 0:24:28,67
+localizations that we believe relate to the
+
+
+396
+0:24:28,67 --> 0:24:31,2
+mechanism of infection. So, what are flotillins?
+
+
+397
+0:24:31,2 --> 0:24:34,367
+They've been studied widely in animal cells.
+
+
+398
+0:24:34,367 --> 0:24:38,733
+This diagram shows an animal cell with plasma membrane.
+
+
+399
+0:24:38,733 --> 0:24:44,167
+Flotillins are shown here. There's two of them, they're outlined in red.
+
+
+400
+0:24:44,167 --> 0:24:47,233
+They have a domain that is affiliated with the membrane,
+
+
+401
+0:24:47,233 --> 0:24:50,667
+and a tail that is more cytoplasmic.
+
+
+402
+0:24:50,667 --> 0:24:56,833
+And it is thought that they relate to signaling, to endocytosis,
+
+
+403
+0:24:56,833 --> 0:25:3,867
+and to activity of the actin network within the cell.
+
+
+404
+0:25:3,867 --> 0:25:10,467
+It's also been demonstrated that these flotillins occur
+
+
+405
+0:25:10,467 --> 0:25:14,533
+in what are sometimes termed "membrane microdomains,"
+
+
+406
+0:25:14,533 --> 0:25:16,733
+also sometimes called lipid rafts,
+
+
+407
+0:25:16,733 --> 0:25:24,1
+although the terminologies are actively being discussed these days.
+
+
+408
+0:25:24,1 --> 0:25:25,967
+Now plants have flotillins, too,
+
+
+409
+0:25:25,967 --> 0:25:29,1
+although they have not been widely studied.
+
+
+410
+0:25:29,1 --> 0:25:31,1
+In Arabidopsis, the sequence shows that
+
+
+411
+0:25:31,1 --> 0:25:33,9
+there are three flotillins. In our analysis,
+
+
+412
+0:25:33,9 --> 0:25:41,367
+we found more than seven in the legume Medicago truncatula.
+
+
+413
+0:25:41,367 --> 0:25:47,33
+Of these seven, we found that two are uniquely expressed in nodules.
+
+
+414
+0:25:47,33 --> 0:25:50,733
+We found that the proteins are, as with animals,
+
+
+415
+0:25:50,733 --> 0:25:55,733
+flotillins present in small domains, or puncta.
+
+
+416
+0:25:55,733 --> 0:26:1,167
+And I'll show you that one of the two has a very special localization
+
+
+417
+0:26:1,167 --> 0:26:2,833
+during infection.
+
+
+418
+0:26:2,833 --> 0:26:6,67
+Now, the predicted structures of the flotillins in plants
+
+
+419
+0:26:6,67 --> 0:26:7,833
+looks very much like the animals',
+
+
+420
+0:26:7,833 --> 0:26:11,9
+with a head domain and a tail domain,
+
+
+421
+0:26:11,9 --> 0:26:16,133
+so we might expect that it's going to have some of the same properties.
+
+
+422
+0:26:16,133 --> 0:26:20,5
+So, as I mentioned, Arabidopsis has only three flotillins,
+
+
+423
+0:26:20,5 --> 0:26:24,867
+but Medicago truncatula has more than seven,
+
+
+424
+0:26:24,867 --> 0:26:27,7
+and here's one of the really interesting things for us,
+
+
+425
+0:26:27,7 --> 0:26:31,0
+is that there are a great number of these that are actually
+
+
+426
+0:26:31,0 --> 0:26:32,533
+all linked together.
+
+
+427
+0:26:32,533 --> 0:26:35,833
+Now you'll see here that there's flotillin 3 and 1,
+
+
+428
+0:26:35,833 --> 0:26:39,0
+then there's down here flotillin 4 and flotillin 2.
+
+
+429
+0:26:39,0 --> 0:26:42,1
+We believe that those are active flotillins.
+
+
+430
+0:26:42,1 --> 0:26:44,233
+One of the others, shown here flotillin 5,
+
+
+431
+0:26:44,233 --> 0:26:51,4
+is in the same genomic regiion, but we believe it's not an active gene.
+
+
+432
+0:26:51,4 --> 0:26:55,533
+Now, we took a look at the activity of the promoters
+
+
+433
+0:26:55,533 --> 0:26:58,667
+for each of those flotillins, and what you can see here is
+
+
+434
+0:26:58,667 --> 0:27:4,833
+that the top, flotillin 1, its promoter is active in the vasculature.
+
+
+435
+0:27:4,833 --> 0:27:8,333
+Here it's expressing a GUS fusion.
+
+
+436
+0:27:8,333 --> 0:27:12,233
+Flotillin 3 is also active in the vasculature.
+
+
+437
+0:27:12,233 --> 0:27:15,533
+But if you take a look at flotillin 2 and flotillin 4,
+
+
+438
+0:27:15,533 --> 0:27:19,33
+these are being expressed in nodules.
+
+
+439
+0:27:19,33 --> 0:27:23,667
+We can also quantify the transcript, and the same story emerges.
+
+
+440
+0:27:23,667 --> 0:27:26,5
+We can see here that flotillin 1 and 3
+
+
+441
+0:27:26,5 --> 0:27:29,3
+are at a low level throughout nodulation,
+
+
+442
+0:27:29,3 --> 0:27:34,533
+but both flotillin 2 and flotillin 4 are strongly upregulated
+
+
+443
+0:27:34,533 --> 0:27:40,233
+in the first day after roots are presented with bacteria.
+
+
+444
+0:27:40,233 --> 0:27:47,433
+Flotillin 4 comes down, although flotillin 2 stays fairly well expressed
+
+
+445
+0:27:47,433 --> 0:27:51,567
+during at least a couple of weeks of nodulation.
+
+
+446
+0:27:51,567 --> 0:27:54,2
+So in terms of their expression,
+
+
+447
+0:27:54,2 --> 0:27:59,9
+these appear to be especially associated with nodule development.
+
+
+448
+0:27:59,9 --> 0:28:3,767
+Does that relate to any of the formalities that we know
+
+
+449
+0:28:3,767 --> 0:28:7,67
+right now about the genetics of early nodulation?
+
+
+450
+0:28:7,67 --> 0:28:10,933
+So remember that there are a set of genes that I introduced earlier,
+
+
+451
+0:28:10,933 --> 0:28:13,767
+and we have mutations in these various
+
+
+452
+0:28:13,767 --> 0:28:18,867
+steps for nodule signal transduction,
+
+
+453
+0:28:18,867 --> 0:28:24,2
+and that transcription occurs only after a whole set of steps
+
+
+454
+0:28:24,2 --> 0:28:28,667
+have taken place. So what about flotillin 2 and 4?
+
+
+455
+0:28:28,667 --> 0:28:32,67
+And as you can see in this bar graph,
+
+
+456
+0:28:32,67 --> 0:28:36,533
+those two flotillins actually require the same signal transduction pathway
+
+
+457
+0:28:36,533 --> 0:28:38,267
+in order to be expressed.
+
+
+458
+0:28:38,267 --> 0:28:42,567
+Here is a wild type on the left, we're seeing flotillin 2 and 4.
+
+
+459
+0:28:42,567 --> 0:28:47,2
+And then here are a couple of the nodulation mutants.
+
+
+460
+0:28:47,2 --> 0:28:52,533
+LYK3, NSP2, NIN-1, those are here.
+
+
+461
+0:28:52,533 --> 0:28:58,5
+NSP and NIN, here's LYK3 for a receptor for Nod Factor.
+
+
+462
+0:28:58,5 --> 0:29:3,633
+These appear to be required in order for the flotillins to be upregulated.
+
+
+463
+0:29:3,633 --> 0:29:6,3
+We could also show that some of the downstream genes
+
+
+464
+0:29:6,3 --> 0:29:8,5
+are not required.
+
+
+465
+0:29:8,5 --> 0:29:12,5
+Now, we know that these flotillins are controlled
+
+
+466
+0:29:12,5 --> 0:29:15,433
+in the same way nodulation genes are controlled,
+
+
+467
+0:29:15,433 --> 0:29:18,133
+but what about their function?
+
+
+468
+0:29:18,133 --> 0:29:22,167
+Through using RNAi approaches, we can diminish the
+
+
+469
+0:29:22,167 --> 0:29:28,4
+activity of the various flotillins, and here's one particular experiment,
+
+
+470
+0:29:28,4 --> 0:29:31,767
+and these results have been borne out in others',
+
+
+471
+0:29:31,767 --> 0:29:35,367
+though the absolute numbers tend to vary.
+
+
+472
+0:29:35,367 --> 0:29:38,5
+So if we take a look at a wild-type plant for example,
+
+
+473
+0:29:38,5 --> 0:29:42,2
+we can see that it's got about six nodules per plant.
+
+
+474
+0:29:42,2 --> 0:29:46,8
+If you knock out flotillin 1 and 3, there's again about six.
+
+
+475
+0:29:46,8 --> 0:29:52,67
+But if you knock out flotillin 2, there's many fewer nodules.
+
+
+476
+0:29:52,67 --> 0:29:56,7
+Flotillin 2 and flotillin 4, if knocked out together, is even more.
+
+
+477
+0:29:56,7 --> 0:29:58,767
+But flotillin 4 knocked out by itself
+
+
+478
+0:29:58,767 --> 0:30:3,133
+does not appear to have much an effect on the number of nodules.
+
+
+479
+0:30:3,133 --> 0:30:6,267
+If you look at the percent of plants with nodules,
+
+
+480
+0:30:6,267 --> 0:30:7,933
+you don't see a major effect.
+
+
+481
+0:30:7,933 --> 0:30:12,1
+In fact, if anything, you seem to get a few increases
+
+
+482
+0:30:12,1 --> 0:30:16,533
+of the percentage of plants that have some kind of growth on them.
+
+
+483
+0:30:16,533 --> 0:30:20,1
+But now if we look at the percentage of nodules
+
+
+484
+0:30:20,1 --> 0:30:24,967
+that are actually Fix+, which is indicated by the pink color
+
+
+485
+0:30:24,967 --> 0:30:29,167
+from leghemoglobin, you can see that about,
+
+
+486
+0:30:29,167 --> 0:30:34,33
+in this particular experiment, almost 30% of the wild-type nodules
+
+
+487
+0:30:34,33 --> 0:30:40,167
+appear to be functioning, about the same for flotillin 1 and 3 knockouts.
+
+
+488
+0:30:40,167 --> 0:30:43,67
+But if flotillin 2 is knocked out,
+
+
+489
+0:30:43,67 --> 0:30:48,8
+then there's a striking diminution of the number of functional nodules,
+
+
+490
+0:30:48,8 --> 0:30:54,533
+and a less striking but still significant change for flotillin 4.
+
+
+491
+0:30:54,533 --> 0:30:58,3
+And the double mutant almost completely wipes out
+
+
+492
+0:30:58,3 --> 0:31:1,667
+any effectiveness of the nodules that do form.
+
+
+493
+0:31:1,667 --> 0:31:5,433
+So, we would conclude from that that flotillin 2 and flotillin 4
+
+
+494
+0:31:5,433 --> 0:31:9,4
+are both required for nodulation, and that they are not redundant,
+
+
+495
+0:31:9,4 --> 0:31:12,3
+because the double mutant has a more severe phenotype
+
+
+496
+0:31:12,3 --> 0:31:16,1
+than either of the single mutants alone.
+
+
+497
+0:31:16,1 --> 0:31:18,833
+We've also now gone to take a look at the proteins,
+
+
+498
+0:31:18,833 --> 0:31:21,267
+and what we found is the following:
+
+
+499
+0:31:21,267 --> 0:31:24,767
+Let's begin on the left with flotillin 2.
+
+
+500
+0:31:24,767 --> 0:31:26,933
+This is a view of epidermal cells,
+
+
+501
+0:31:26,933 --> 0:31:29,7
+so we're looking down at the surface of the root here.
+
+
+502
+0:31:29,7 --> 0:31:34,133
+And you can see that flotillin 2 is present in little dots, or puncta,
+
+
+503
+0:31:34,133 --> 0:31:38,567
+and there's a very striking localization of flotillin 2
+
+
+504
+0:31:38,567 --> 0:31:43,633
+at the polar end of the cell.
+
+
+505
+0:31:43,633 --> 0:31:47,867
+In the root hairs, the flotillin 2 is very strikingly punctate,
+
+
+506
+0:31:47,867 --> 0:31:55,767
+it's present in these little dots, and this kind of distribution
+
+
+507
+0:31:55,767 --> 0:32:0,133
+remains the case if the plants are inoculated,
+
+
+508
+0:32:0,133 --> 0:32:3,433
+and that's shown in the lower part of the left-hand side.
+
+
+509
+0:32:3,433 --> 0:32:8,7
+So, uninoculated and inoculated, flotillin 2 is punctate,
+
+
+510
+0:32:8,7 --> 0:32:13,567
+it remains fairly stable, although there are some subtle changes
+
+
+511
+0:32:13,567 --> 0:32:16,767
+in density and in polarity.
+
+
+512
+0:32:16,767 --> 0:32:21,67
+But we got a very striking result with flotillin 4,
+
+
+513
+0:32:21,67 --> 0:32:23,933
+and I'll show you that here. Now let's start on the top again.
+
+
+514
+0:32:23,933 --> 0:32:26,733
+The epidermal cells and root hair cells,
+
+
+515
+0:32:26,733 --> 0:32:32,9
+and it's very striking that the flotillin 4 signal (a GFP fusion signal)
+
+
+516
+0:32:32,9 --> 0:32:37,167
+is present in puncta. But even more striking was that,
+
+
+517
+0:32:37,167 --> 0:32:42,8
+after inoculation, what starts out as an even distribution of flotillin 4
+
+
+518
+0:32:42,8 --> 0:32:46,967
+in root hairs becomes a highly polar distribution,
+
+
+519
+0:32:46,967 --> 0:32:49,367
+and that's shown with these red arrows,
+
+
+520
+0:32:49,367 --> 0:32:52,4
+where you can see that at the tips of these inoculated,
+
+
+521
+0:32:52,4 --> 0:32:58,2
+bacteria-treated root hairs, flotillin 4 has migrated to the tip.
+
+
+522
+0:32:58,2 --> 0:33:4,233
+So, that suggests that flotillin 4 has a very active participation
+
+
+523
+0:33:4,233 --> 0:33:7,433
+in something having to do with what goes on at root hair tips.
+
+
+524
+0:33:7,433 --> 0:33:10,7
+So we began to look specifically at infection,
+
+
+525
+0:33:10,7 --> 0:33:16,233
+using wild type as control, where you can see bacteria invading.
+
+
+526
+0:33:16,233 --> 0:33:19,967
+These blue, lac-stained bacteria show infection threads
+
+
+527
+0:33:19,967 --> 0:33:24,33
+for bacteria on a wild-type plant.
+
+
+528
+0:33:24,33 --> 0:33:26,533
+Here's a nice infection thread growing through a root hair
+
+
+529
+0:33:26,533 --> 0:33:29,833
+on the wild type. But in a flotillin 4 "minus" mutant,
+
+
+530
+0:33:29,833 --> 0:33:32,67
+things are not working very well.
+
+
+531
+0:33:32,67 --> 0:33:36,5
+What you're seeing here is that there's no significant
+
+
+532
+0:33:36,5 --> 0:33:39,667
+penetration deep into the nodule.
+
+
+533
+0:33:39,667 --> 0:33:42,233
+Furthermore, even if you look at a root hair,
+
+
+534
+0:33:42,233 --> 0:33:49,3
+the infection threads lack integrity, they're not well structured,
+
+
+535
+0:33:49,3 --> 0:33:54,733
+and we find in fact that they don't succeed, they don't penetrate.
+
+
+536
+0:33:54,733 --> 0:33:59,133
+So it appears that flotillin 4 function is important for infection threads,
+
+
+537
+0:33:59,133 --> 0:34:2,7
+and we also now have evidence that shows that flotillin 4 is
+
+
+538
+0:34:2,7 --> 0:34:6,4
+associated with infection threads.
+
+
+539
+0:34:6,4 --> 0:34:13,33
+Flotillin 2 is shown here, bright green fluorescence around the cell.
+
+
+540
+0:34:13,33 --> 0:34:16,633
+This particular root hair, which is curled, has been infected,
+
+
+541
+0:34:16,633 --> 0:34:21,133
+and it has bacteria that fluoresce red. Those bacteria are shown here.
+
+
+542
+0:34:21,133 --> 0:34:26,33
+But you can see that the flotillin 2 is around the membrane of the outer cell,
+
+
+543
+0:34:26,33 --> 0:34:31,2
+it's not affected, not close by to the red fluorescence of the bacteria.
+
+
+544
+0:34:31,2 --> 0:34:35,4
+However, if we look at flotillin 4, that's shown here.
+
+
+545
+0:34:35,4 --> 0:34:40,867
+Flotillin 4-GFP is around the outside, but it's also here, see?
+
+
+546
+0:34:40,867 --> 0:34:44,4
+Around the infection thread. Green fluorescence,
+
+
+547
+0:34:44,4 --> 0:34:47,367
+and here's the red bacteria inside the fluorescence.
+
+
+548
+0:34:47,367 --> 0:34:51,167
+So that suggests that flotillin 4 is affiliated with the
+
+
+549
+0:34:51,167 --> 0:34:53,67
+infection thread membrane.
+
+
+550
+0:34:53,67 --> 0:34:57,867
+Now you'll recall that, in the sequence of genes
+
+
+551
+0:34:57,867 --> 0:35:1,367
+that are important for nodulation signal transduction,
+
+
+552
+0:35:1,367 --> 0:35:4,367
+one set is called the signaling pathway, here,
+
+
+553
+0:35:4,367 --> 0:35:7,433
+but more genes are needed in order to get infection,
+
+
+554
+0:35:7,433 --> 0:35:10,633
+including the entry receptor LYK3.
+
+
+555
+0:35:10,633 --> 0:35:14,367
+Now that we've got some clue that flotillins are involved in infection,
+
+
+556
+0:35:14,367 --> 0:35:18,733
+we might want to ask whether we can place flotillins in any kind of
+
+
+557
+0:35:18,733 --> 0:35:21,767
+relationship to the genes that have been previously found
+
+
+558
+0:35:21,767 --> 0:35:24,9
+to be important for early signaling and infection.
+
+
+559
+0:35:24,9 --> 0:35:27,767
+Now, in the following photos,
+
+
+560
+0:35:27,767 --> 0:35:33,2
+I'm looking at the puncta density of flotillin 4.
+
+
+561
+0:35:33,2 --> 0:35:37,633
+Here's a wild type, and the puncta density is the number of
+
+
+562
+0:35:37,633 --> 0:35:40,933
+bright spots per square micron,
+
+
+563
+0:35:40,933 --> 0:35:45,367
+so you might have a little square micron there,
+
+
+564
+0:35:45,367 --> 0:35:47,867
+and then you plot the number.
+
+
+565
+0:35:47,867 --> 0:35:52,233
+And I'm going to compare that wild type to three different mutants.
+
+
+566
+0:35:52,233 --> 0:35:56,667
+Each of these is a mutant in the putative entry receptor LYK3.
+
+
+567
+0:35:56,667 --> 0:36:0,7
+lyk3-1, which is the most severe,
+
+
+568
+0:36:0,7 --> 0:36:6,767
+and two other alleles, lyk3-2 and 3-4.
+
+
+569
+0:36:6,767 --> 0:36:13,833
+The lyk3-1 is predicted to have a protein with a dead kinase domain,
+
+
+570
+0:36:13,833 --> 0:36:17,233
+and what we saw looking at this particular index of
+
+
+571
+0:36:17,233 --> 0:36:22,4
+puncta density is that, if you compare the wild-type number here
+
+
+572
+0:36:22,4 --> 0:36:27,33
+to the number in the lyk3-1 mutant, the puncta density for FLOT4
+
+
+573
+0:36:27,33 --> 0:36:30,533
+is greatly diminished, significantly lower.
+
+
+574
+0:36:30,533 --> 0:36:33,3
+We don't draw any mechanistic conclusion from this,
+
+
+575
+0:36:33,3 --> 0:36:37,33
+but it did give us the sense that maybe LYK3 itself,
+
+
+576
+0:36:37,33 --> 0:36:41,767
+together with FLOT4, would be worth looking at.
+
+
+577
+0:36:41,767 --> 0:36:46,4
+So we want to ask whether LYK3 and flotillin 4 interact.
+
+
+578
+0:36:46,4 --> 0:36:48,9
+We're going to need to study LYK3,
+
+
+579
+0:36:48,9 --> 0:36:52,733
+and we were fortunate to collaborate with Doug Cook, Brendan Riely,
+
+
+580
+0:36:52,733 --> 0:36:57,333
+and their colleagues at UC Davis, and thanks to their contributions,
+
+
+581
+0:36:57,333 --> 0:36:59,967
+we have the following tools for study:
+
+
+582
+0:36:59,967 --> 0:37:3,733
+First and most importantly, a stable transgenic of
+
+
+583
+0:37:3,733 --> 0:37:7,733
+Medicago truncatula that carries a GFP fusion to LYK3,
+
+
+584
+0:37:7,733 --> 0:37:10,0
+under the control of its own promoter.
+
+
+585
+0:37:10,0 --> 0:37:13,2
+It's known that this is functional because it complements
+
+
+586
+0:37:13,2 --> 0:37:15,633
+a lyk3-1 mutant.
+
+
+587
+0:37:15,633 --> 0:37:19,0
+Because it's under its own promoter, we have more reassurance
+
+
+588
+0:37:19,0 --> 0:37:22,567
+about its correct position and localization.
+
+
+589
+0:37:22,567 --> 0:37:27,367
+Now into this stable transgenic, we're now going to introduce
+
+
+590
+0:37:27,367 --> 0:37:31,67
+a second marker, we're going to create a transformant
+
+
+591
+0:37:31,67 --> 0:37:37,767
+that also has flotillin 4 linked to the fluorescent mCherry protein,
+
+
+592
+0:37:37,767 --> 0:37:41,133
+so we'll have green fluorescence for LYK3, red fluorescence for FLOT4.
+
+
+593
+0:37:41,133 --> 0:37:44,567
+And our particular tool is going to be a spinning-disk confocal
+
+
+594
+0:37:44,567 --> 0:37:50,133
+at the Carnegie Institution, in collaboration with David Ehrhardt.
+
+
+595
+0:37:50,133 --> 0:37:57,267
+We were able to visualize the LYK3 putative receptor in root hairs.
+
+
+596
+0:37:57,267 --> 0:37:59,3
+So the results are shown here.
+
+
+597
+0:37:59,3 --> 0:38:2,867
+We have LYK3-GFP, it's present in the root hair,
+
+
+598
+0:38:2,867 --> 0:38:7,233
+you can see that it's punctate.
+
+
+599
+0:38:7,233 --> 0:38:12,467
+And when we took a look at the LYK3 plant with infections,
+
+
+600
+0:38:12,467 --> 0:38:16,67
+we found the following: Here's a curled root hair,
+
+
+601
+0:38:16,67 --> 0:38:18,533
+and you can see going down through the curled root hair
+
+
+602
+0:38:18,533 --> 0:38:21,967
+is an infection thread, and the green fluorescence of
+
+
+603
+0:38:21,967 --> 0:38:25,867
+that LYK3 is all the way along the infection thread membrane,
+
+
+604
+0:38:25,867 --> 0:38:30,233
+so we can see that the LYK3 putative receptor is localizing
+
+
+605
+0:38:30,233 --> 0:38:35,4
+the same way that the flotillin 4 appears to do along the
+
+
+606
+0:38:35,4 --> 0:38:38,333
+infection thread, as it moves into the cell.
+
+
+607
+0:38:38,333 --> 0:38:41,733
+Now, an important control is shown here also.
+
+
+608
+0:38:41,733 --> 0:38:46,33
+Root hairs and other parts of plant cell walls have
+
+
+609
+0:38:46,33 --> 0:38:50,2
+autofluorescence as well, and we wanted to ask whether
+
+
+610
+0:38:50,2 --> 0:38:54,533
+the green fluorescence we saw here was really due to the LYK3,
+
+
+611
+0:38:54,533 --> 0:38:56,3
+or was it autofluorescence.
+
+
+612
+0:38:56,3 --> 0:38:59,667
+The results of that are shown in this other panel.
+
+
+613
+0:38:59,667 --> 0:39:5,533
+Now, this is a fusion of LYK3 to a nonfluorescent protein.
+
+
+614
+0:39:5,533 --> 0:39:8,933
+And again, there are bacteria that are fluorescing red.
+
+
+615
+0:39:8,933 --> 0:39:11,567
+Well, what you can see is that it's a good idea
+
+
+616
+0:39:11,567 --> 0:39:15,1
+to do this control because the crook of the root hair
+
+
+617
+0:39:15,1 --> 0:39:19,0
+is very highly autofluorescent, so if we were to see this
+
+
+618
+0:39:19,0 --> 0:39:22,267
+and say it's GFP fluorescence, we'd be wrong,
+
+
+619
+0:39:22,267 --> 0:39:25,767
+because that's just what root hair cell wall is doing.
+
+
+620
+0:39:25,767 --> 0:39:29,2
+You can see here the infection thread is moving down
+
+
+621
+0:39:29,2 --> 0:39:34,0
+with the red fluorescence, and there is no
+
+
+622
+0:39:34,0 --> 0:39:35,633
+green fluorescence around it.
+
+
+623
+0:39:35,633 --> 0:39:39,367
+So infection threads are not intrinsically fluorescent;
+
+
+624
+0:39:39,367 --> 0:39:44,7
+it's only that the LYK3-GFP is providing that signal.
+
+
+625
+0:39:44,7 --> 0:39:48,533
+So now we know that flotillin 4 and LYK3 appear
+
+
+626
+0:39:48,533 --> 0:39:50,4
+to localize to the same place.
+
+
+627
+0:39:50,4 --> 0:39:53,433
+Can we find out anything else about them?
+
+
+628
+0:39:53,433 --> 0:40:1,8
+So in this, we have started to use that double transgenic.
+
+
+629
+0:40:1,8 --> 0:40:6,8
+So what's going on here is that this plant has LYK3-GFP.
+
+
+630
+0:40:6,8 --> 0:40:9,667
+It also has flotillin 4-mCherry.
+
+
+631
+0:40:9,667 --> 0:40:14,167
+Now, these are closeups below, you can see the LYK3-GFP,
+
+
+632
+0:40:14,167 --> 0:40:16,167
+flotillin 4-mCherry.
+
+
+633
+0:40:16,167 --> 0:40:19,667
+And these are uninfected root hairs.
+
+
+634
+0:40:19,667 --> 0:40:21,633
+And if you merge the two images,
+
+
+635
+0:40:21,633 --> 0:40:26,0
+it's possible to see here that the green and red are distinct.
+
+
+636
+0:40:26,0 --> 0:40:29,167
+So that suggests that they are not co-localizing
+
+
+637
+0:40:29,167 --> 0:40:32,167
+within the distance where their fluorescence would
+
+
+638
+0:40:32,167 --> 0:40:35,367
+mix and make a yellow color.
+
+
+639
+0:40:35,367 --> 0:40:38,433
+Now, taking a look at that more statistically,
+
+
+640
+0:40:38,433 --> 0:40:41,8
+we can do a correlation plot, as shown here,
+
+
+641
+0:40:41,8 --> 0:40:47,5
+where on one axis, on the x-axis, that's the fluorescence intensity of one,
+
+
+642
+0:40:47,5 --> 0:40:51,267
+on the y-axis is the fluorescence intensity of the other.
+
+
+643
+0:40:51,267 --> 0:40:55,167
+And in fact, there's a distribution all the way around,
+
+
+644
+0:40:55,167 --> 0:40:57,67
+it doesn't particularly correlate.
+
+
+645
+0:40:57,67 --> 0:40:59,633
+If you have a high fluorescence of mCherry,
+
+
+646
+0:40:59,633 --> 0:41:4,4
+that could be either low or high fluorescence of GFP.
+
+
+647
+0:41:4,4 --> 0:41:10,5
+But what happens when we treat root hairs with bacteria?
+
+
+648
+0:41:10,5 --> 0:41:12,4
+And that's shown here.
+
+
+649
+0:41:12,4 --> 0:41:16,867
+Now, again we've got the GFP, here's a closeup.
+
+
+650
+0:41:16,867 --> 0:41:20,3
+We've got the mCherry for the flotillins, and a closeup.
+
+
+651
+0:41:20,3 --> 0:41:22,833
+But now, when we do the co-localization,
+
+
+652
+0:41:22,833 --> 0:41:25,967
+you can see that there appears to be a
+
+
+653
+0:41:25,967 --> 0:41:28,833
+merging of the green and red fluorescence,
+
+
+654
+0:41:28,833 --> 0:41:33,8
+to present a higher number of puncta that look yellow.
+
+
+655
+0:41:33,8 --> 0:41:37,0
+So we would say there appears to be an increase
+
+
+656
+0:41:37,0 --> 0:41:41,167
+in the correlation of their location,
+
+
+657
+0:41:41,167 --> 0:41:43,733
+and here's another way of looking at that.
+
+
+658
+0:41:43,733 --> 0:41:48,867
+The correlation plot now shows a correlation coefficient
+
+
+659
+0:41:48,867 --> 0:41:52,5
+that's more than 0.5.
+
+
+660
+0:41:52,5 --> 0:41:55,367
+That means that more than half the time,
+
+
+661
+0:41:55,367 --> 0:41:58,133
+you're getting a correlation of the intensity of fluorescence
+
+
+662
+0:41:58,133 --> 0:42:0,267
+of one and the other.
+
+
+663
+0:42:0,267 --> 0:42:5,433
+So that suggests to us that whether or not flotillin 4 and LKY3
+
+
+664
+0:42:5,433 --> 0:42:8,433
+are associated depends on
+
+
+665
+0:42:8,433 --> 0:42:11,833
+whether the bacteria have interacted with the root hair.
+
+
+666
+0:42:11,833 --> 0:42:14,1
+So we pursued that a little more.
+
+
+667
+0:42:14,1 --> 0:42:16,867
+Another way that we have started to look at that
+
+
+668
+0:42:16,867 --> 0:42:20,7
+is to examine the dynamics, not just the location,
+
+
+669
+0:42:20,7 --> 0:42:23,567
+but dynamics of what these proteins are doing.
+
+
+670
+0:42:23,567 --> 0:42:28,733
+So in this experiment, we're going to be looking at a root hair
+
+
+671
+0:42:28,733 --> 0:42:33,867
+which has a LYK3-GFP fusion, so that's the only fluorescence
+
+
+672
+0:42:33,867 --> 0:42:37,433
+you're going to see, it's just the receptor LYK3.
+
+
+673
+0:42:37,433 --> 0:42:40,1
+And what you're going to be seeing in the micrographs
+
+
+674
+0:42:40,1 --> 0:42:44,667
+is as if you took a plane like this, right?
+
+
+675
+0:42:44,667 --> 0:42:49,667
+Through the root hair and, where you see this bright point,
+
+
+676
+0:42:49,667 --> 0:42:54,733
+that's what is going to be shown now on the films.
+
+
+677
+0:42:54,733 --> 0:42:56,367
+Now the left-hand...
+
+
+678
+0:42:56,367 --> 0:43:1,567
+we're going to look at LYK3 in an uninfected root hair.
+
+
+679
+0:43:1,567 --> 0:43:5,567
+So one of the things you can see is that it's very dynamic.
+
+
+680
+0:43:5,567 --> 0:43:10,433
+If you try to focus on a point and follow the LYK3,
+
+
+681
+0:43:10,433 --> 0:43:13,933
+it's moving around too much, you can't do that.
+
+
+682
+0:43:13,933 --> 0:43:19,0
+But now let's look at a root hair that has been treated with bacteria.
+
+
+683
+0:43:19,0 --> 0:43:20,333
+What a difference.
+
+
+684
+0:43:20,333 --> 0:43:22,467
+Now you're looking at the LYK3 fluorescence,
+
+
+685
+0:43:22,467 --> 0:43:25,667
+and it's really behaving itself. It's sort of staying place,
+
+
+686
+0:43:25,667 --> 0:43:27,5
+and these two arrowheads, for example,
+
+
+687
+0:43:27,5 --> 0:43:29,533
+show places that you can focus in,
+
+
+688
+0:43:29,533 --> 0:43:34,967
+and you can see a LYK3 signal that's not moving, that's fairly stable.
+
+
+689
+0:43:34,967 --> 0:43:40,233
+So that suggests to us that it's not just where LYK3 is,
+
+
+690
+0:43:40,233 --> 0:43:45,4
+it's how fast it's moving and perhaps shuttling around,
+
+
+691
+0:43:45,4 --> 0:43:47,8
+that is being changed by the presence of the bacteria,
+
+
+692
+0:43:47,8 --> 0:43:52,967
+which is remarkable, and that led us to another way
+
+
+693
+0:43:52,967 --> 0:43:56,6
+to look at LYK3 together with flotillin 4.
+
+
+694
+0:43:56,6 --> 0:43:59,167
+In the following, we won't be looking at movies,
+
+
+695
+0:43:59,167 --> 0:44:1,933
+but we'll be representing the dynamics over time
+
+
+696
+0:44:1,933 --> 0:44:3,667
+through what's called a kymograph.
+
+
+697
+0:44:3,667 --> 0:44:9,7
+Now what you're seeing on the left is a micrograph of the receptor
+
+
+698
+0:44:9,7 --> 0:44:14,8
+LYK3-GFP fluorescence, flotillin 4 fluorescence, and the merge.
+
+
+699
+0:44:14,8 --> 0:44:19,533
+Likewise, here for bacterially treated root hairs,
+
+
+700
+0:44:19,533 --> 0:44:24,733
+LYK3-GFP, flotillin 4-mCherry, and then the merge.
+
+
+701
+0:44:24,733 --> 0:44:30,533
+Now, at each point in time, we don't look at the whole root hair,
+
+
+702
+0:44:30,533 --> 0:44:34,2
+we're going to just be looking at a transect shown here,
+
+
+703
+0:44:34,2 --> 0:44:38,167
+and also shown over here, by these blue arrows.
+
+
+704
+0:44:38,167 --> 0:44:42,433
+And at any one point in time, just that line is going to
+
+
+705
+0:44:42,433 --> 0:44:45,433
+be represented as follows.
+
+
+706
+0:44:45,433 --> 0:44:54,433
+Here, if we take this line going across the uninfected LYK3-GFP,
+
+
+707
+0:44:54,433 --> 0:44:58,367
+then we can see at one 10-second period
+
+
+708
+0:44:58,367 --> 0:45:1,767
+whether a particular position was light or dark.
+
+
+709
+0:45:1,767 --> 0:45:5,2
+We can follow that over time and we can see that the correlation
+
+
+710
+0:45:5,2 --> 0:45:9,367
+is rather loose. However, flotillin 4 is very stable;
+
+
+711
+0:45:9,367 --> 0:45:12,233
+if you look at the flotillin 4,
+
+
+712
+0:45:12,233 --> 0:45:15,67
+10 seconds, 20 seconds, and so forth...
+
+
+713
+0:45:15,67 --> 0:45:18,533
+if it's fluorescent at one 10-second interval,
+
+
+714
+0:45:18,533 --> 0:45:20,633
+it's highly likely to be fluorescent in the next one,
+
+
+715
+0:45:20,633 --> 0:45:24,933
+and so you get this set of lines going through.
+
+
+716
+0:45:24,933 --> 0:45:28,33
+Now, if we take a look at root hairs that are treated with bacteria,
+
+
+717
+0:45:28,33 --> 0:45:31,767
+we find the following.
+
+
+718
+0:45:31,767 --> 0:45:36,1
+Again, this is what the root hairs look like,
+
+
+719
+0:45:36,1 --> 0:45:39,767
+but if we follow them over time, you can now see that the LYK3-GFP
+
+
+720
+0:45:39,767 --> 0:45:44,533
+is very stable. If that transect shows a bright point
+
+
+721
+0:45:44,533 --> 0:45:46,967
+at one 10-second interval, it's probably going to be bright
+
+
+722
+0:45:46,967 --> 0:45:52,67
+the next 10-second interval as well, so the LYK3 has settled down,
+
+
+723
+0:45:52,67 --> 0:45:57,267
+the flotillin 4 is still very stable, and when you take a look at the merge,
+
+
+724
+0:45:57,267 --> 0:46:2,33
+you can see that there appears to be a correlation of the brightness.
+
+
+725
+0:46:2,33 --> 0:46:6,733
+So, as we summarize, we can say the following:
+
+
+726
+0:46:6,733 --> 0:46:14,67
+That the puncta density is changed for FLOT4-GFP
+
+
+727
+0:46:14,67 --> 0:46:18,333
+in a genetic background where LYK3 is mutated.
+
+
+728
+0:46:18,333 --> 0:46:23,667
+We can see that LYK3 itself localizes in puncta
+
+
+729
+0:46:23,667 --> 0:46:26,3
+that suggests it's in membrane microdomains.
+
+
+730
+0:46:26,3 --> 0:46:29,833
+Also, it also localizes to infection threads.
+
+
+731
+0:46:29,833 --> 0:46:35,0
+We found that in uninfected root hairs, the receptor
+
+
+732
+0:46:35,0 --> 0:46:39,0
+and the flotillin do not have much overlap,
+
+
+733
+0:46:39,0 --> 0:46:43,333
+and also they are very different in their motility, in their dynamics.
+
+
+734
+0:46:43,333 --> 0:46:48,533
+However, after inoculation with Sinorhizobium meliloti,
+
+
+735
+0:46:48,533 --> 0:46:51,933
+the receptor and the flotillin co-localize,
+
+
+736
+0:46:51,933 --> 0:46:54,867
+and their dynamics remain similar.
+
+
+737
+0:46:54,867 --> 0:46:58,33
+Not known is whether this is direct or indirect.
+
+
+738
+0:46:58,33 --> 0:47:0,9
+What is the nature of the protein-protein interactions?
+
+
+739
+0:47:0,9 --> 0:47:6,567
+Because fluorescence in and of itself is relatively loose,
+
+
+740
+0:47:6,567 --> 0:47:11,967
+it does not have to have precise molecular adjacency.
+
+
+741
+0:47:11,967 --> 0:47:16,367
+So further fluorescence studies with FRET
+
+
+742
+0:47:16,367 --> 0:47:18,733
+and biochemical studies will be necessary,
+
+
+743
+0:47:18,733 --> 0:47:22,467
+and we think that following the combination of
+
+
+744
+0:47:22,467 --> 0:47:26,8
+flotillins and receptors is going to be a very exciting way
+
+
+745
+0:47:26,8 --> 0:47:31,933
+to ask how the plant is mobilizing itself to accept infection.
+
+
+746
+0:47:31,933 --> 0:47:33,733
+So back to the outline.
+
+
+747
+0:47:33,733 --> 0:47:38,633
+I've finished talking a little bit about how a candidate gene approach
+
+
+748
+0:47:38,633 --> 0:47:42,3
+took us from the study of flotillins to the study of infection.
+
+
+749
+0:47:42,3 --> 0:47:46,167
+In this next segment, I'd like to talk about some mutants
+
+
+750
+0:47:46,167 --> 0:47:49,6
+that we've isolated called the dnf mutants.
+
+
+751
+0:47:49,6 --> 0:47:52,3
+These have identified plants genes
+
+
+752
+0:47:52,3 --> 0:47:55,8
+necessary for the final stages of symbiosis.
+
+
+753
+0:47:55,8 --> 0:47:59,0
+And I'll talk about two of those, DNF1,
+
+
+754
+0:47:59,0 --> 0:48:1,33
+which encodes a signal peptidase,
+
+
+755
+0:48:1,33 --> 0:48:5,0
+and DNF2, a putative phospholipase C.
+
+
+756
+0:48:5,0 --> 0:48:7,767
+So looking again at the sequence of nodulation,
+
+
+757
+0:48:7,767 --> 0:48:11,6
+we're now taking a look at an even later stage,
+
+
+758
+0:48:11,6 --> 0:48:15,567
+where bacteria have penetrated into the nodule,
+
+
+759
+0:48:15,567 --> 0:48:22,367
+and they get released into the cells, and they're able to fix nitrogen.
+
+
+760
+0:48:22,367 --> 0:48:27,133
+So the dnf mutants, called "defective in nitrogen fixation,"
+
+
+761
+0:48:27,133 --> 0:48:30,533
+were isolated out of a screen that we did of
+
+
+762
+0:48:30,533 --> 0:48:34,67
+mutants that we generated by fast neutron bombardment.
+
+
+763
+0:48:34,67 --> 0:48:39,433
+This often creates deletions, it's an ionizing radiation,
+
+
+764
+0:48:39,433 --> 0:48:41,933
+and so these are severe mutants.
+
+
+765
+0:48:41,933 --> 0:48:45,667
+When we screen them, we found a number of mutants
+
+
+766
+0:48:45,667 --> 0:48:48,4
+which were like this. Instead of being nice,
+
+
+767
+0:48:48,4 --> 0:48:51,467
+pink nodules here, the dnf mutants are white,
+
+
+768
+0:48:51,467 --> 0:48:55,7
+and they're small. They don't have any nitrogenase activity,
+
+
+769
+0:48:55,7 --> 0:48:58,433
+and that's shown in this slide
+
+
+770
+0:48:58,433 --> 0:49:2,833
+by assessment of acetylene reduction, shown here.
+
+
+771
+0:49:2,833 --> 0:49:5,7
+Wild type is able to convert acetylene to ethylene,
+
+
+772
+0:49:5,7 --> 0:49:8,867
+which an indicator for nitrogenase enzyme.
+
+
+773
+0:49:8,867 --> 0:49:10,567
+But the dnf mutants, as you can see,
+
+
+774
+0:49:10,567 --> 0:49:15,733
+have very low or even no ability to fix nitrogen.
+
+
+775
+0:49:15,733 --> 0:49:20,233
+Now, they also don't seem to have completely normal development.
+
+
+776
+0:49:20,233 --> 0:49:22,467
+One of the mutants, dnf1, is shown here,
+
+
+777
+0:49:22,467 --> 0:49:25,333
+and we got two alleles of that, they're very similar.
+
+
+778
+0:49:25,333 --> 0:49:31,467
+A wild-type nodule has cells filled with bacteria.
+
+
+779
+0:49:31,467 --> 0:49:36,233
+The bacteria do get infected into the dnf1 nodules as well;
+
+
+780
+0:49:36,233 --> 0:49:39,3
+nonetheless, they are not as large,
+
+
+781
+0:49:39,3 --> 0:49:43,3
+and they do not seem to be able to fix nitrogen.
+
+
+782
+0:49:43,3 --> 0:49:47,6
+So we took a look further at dnf1,
+
+
+783
+0:49:47,6 --> 0:49:53,767
+and one of the ways in which we studied this was as follows.
+
+
+784
+0:49:53,767 --> 0:49:59,333
+Here's a wild-type nodule shown in section, and this nodule,
+
+
+785
+0:49:59,333 --> 0:50:4,9
+in this case, has been established by the action of a bacterium
+
+
+786
+0:50:4,9 --> 0:50:8,9
+carrying a glucuronidase fusion into the promoter
+
+
+787
+0:50:8,9 --> 0:50:13,1
+for the nitrogenase gene. That means that if the bacteria
+
+
+788
+0:50:13,1 --> 0:50:18,633
+are expressing their nitrogenase, then the nodule will turn blue
+
+
+789
+0:50:18,633 --> 0:50:21,3
+in the presence of a glucuronidase substrate.
+
+
+790
+0:50:21,3 --> 0:50:26,267
+So, what we see here is that the nifH (which is nitrogenase)-glucuronidase
+
+
+791
+0:50:26,267 --> 0:50:28,67
+fusion is turned on.
+
+
+792
+0:50:28,67 --> 0:50:31,5
+That's good, that means that the bacteria are expressing their
+
+
+793
+0:50:31,5 --> 0:50:33,533
+nitrogen fixation genes.
+
+
+794
+0:50:33,533 --> 0:50:38,467
+However, what we found with the dnf1 was the following:
+
+
+795
+0:50:38,467 --> 0:50:42,533
+Taking a look at these nodules with the same exact bacterium
+
+
+796
+0:50:42,533 --> 0:50:47,467
+carrying a glucuronidase fusion to the nif promoter, we found no activity.
+
+
+797
+0:50:47,467 --> 0:50:50,467
+You could see here with the red arrow; it's pointing toward the nodule,
+
+
+798
+0:50:50,467 --> 0:50:51,733
+but there's no blue stain.
+
+
+799
+0:50:51,733 --> 0:50:55,767
+So we conclude from this that the bacteria are not able to
+
+
+800
+0:50:55,767 --> 0:50:59,167
+express the genes for nitrogen fixation.
+
+
+801
+0:50:59,167 --> 0:51:3,933
+So we can say that the bacteria need the plant's DNF1
+
+
+802
+0:51:3,933 --> 0:51:6,1
+in order for the bacteria to fix nitrogen,
+
+
+803
+0:51:6,1 --> 0:51:9,4
+or even to express their nitrogen fixation genes.
+
+
+804
+0:51:9,4 --> 0:51:14,33
+So what is dnf1? This gene in the plant encodes
+
+
+805
+0:51:14,33 --> 0:51:18,1
+one of the subunits of what turns out to be a nodule-specific
+
+
+806
+0:51:18,1 --> 0:51:19,567
+signal peptidase.
+
+
+807
+0:51:19,567 --> 0:51:21,4
+And I'll tell you about nodule-specific
+
+
+808
+0:51:21,4 --> 0:51:23,3
+and the other components in a moment.
+
+
+809
+0:51:23,3 --> 0:51:26,6
+But first I'll just review a little bit what signal peptidase is.
+
+
+810
+0:51:26,6 --> 0:51:31,167
+In a eukaryotic cell, we've got the endoplasmic reticulum,
+
+
+811
+0:51:31,167 --> 0:51:36,133
+and proteins that are extruded into the lumen
+
+
+812
+0:51:36,133 --> 0:51:38,9
+may get there by a signal peptide,
+
+
+813
+0:51:38,9 --> 0:51:43,967
+and if the signal peptidase cleaves off that signal peptide,
+
+
+814
+0:51:43,967 --> 0:51:47,1
+and that allows the production of the mature protein,
+
+
+815
+0:51:47,1 --> 0:51:48,9
+which would be shown here.
+
+
+816
+0:51:48,9 --> 0:51:51,833
+Now, once that mature protein is formed,
+
+
+817
+0:51:51,833 --> 0:51:54,367
+after its signal peptide is taken off,
+
+
+818
+0:51:54,367 --> 0:52:0,67
+then it may be targeted for secretion or for vesicle trafficking.
+
+
+819
+0:52:0,67 --> 0:52:2,733
+So what we found is that DNF1,
+
+
+820
+0:52:2,733 --> 0:52:7,1
+required for bacterial gene expression and differentiation,
+
+
+821
+0:52:7,1 --> 0:52:10,6
+has something to do with protein processing.
+
+
+822
+0:52:10,6 --> 0:52:13,333
+Now let's take a look at the expression of this gene.
+
+
+823
+0:52:13,333 --> 0:52:15,833
+If you take a look at the vegetative parts of the plant,
+
+
+824
+0:52:15,833 --> 0:52:20,233
+such as the leaf and stem or flowers,
+
+
+825
+0:52:20,233 --> 0:52:25,533
+what you find is that expression of the DNF1 signal peptidase subunit
+
+
+826
+0:52:25,533 --> 0:52:29,233
+is very low, but it's quite high in nodules.
+
+
+827
+0:52:29,233 --> 0:52:32,6
+It's also present to some extent in developing seeds,
+
+
+828
+0:52:32,6 --> 0:52:34,733
+although at a much lower level.
+
+
+829
+0:52:34,733 --> 0:52:37,967
+Taking a look at the time course, what we can see is here.
+
+
+830
+0:52:37,967 --> 0:52:43,1
+The DNF1, if you plot days of nodule growth and development,
+
+
+831
+0:52:43,1 --> 0:52:45,6
+and DNF1 expression, you can see that DNF1
+
+
+832
+0:52:45,6 --> 0:52:49,9
+goes up early in nodule development.
+
+
+833
+0:52:49,9 --> 0:52:52,333
+You can also track it during seeds and find that
+
+
+834
+0:52:52,333 --> 0:52:56,4
+it's relatively steady during the maturation of seeds.
+
+
+835
+0:52:56,4 --> 0:52:59,367
+So, DNF1 is most highly expressed in nodules
+
+
+836
+0:52:59,367 --> 0:53:2,9
+and it goes up very early in those nodules.
+
+
+837
+0:53:2,9 --> 0:53:9,467
+Now, let's take a look not just at DNF1, but using transcription,
+
+
+838
+0:53:9,467 --> 0:53:12,2
+let's take a look at what genes,
+
+
+839
+0:53:12,2 --> 0:53:15,867
+out of all the microarray data, tend to be expressed
+
+
+840
+0:53:15,867 --> 0:53:19,167
+whenever DNF1 is expressed, and those are shown here.
+
+
+841
+0:53:19,167 --> 0:53:24,9
+Now, on the left, you can see the names of the proteins.
+
+
+842
+0:53:24,9 --> 0:53:27,3
+This is what they do, and what you can see is that there's
+
+
+843
+0:53:27,3 --> 0:53:34,9
+the other subunits in the signal peptidase complex,
+
+
+844
+0:53:34,9 --> 0:53:40,467
+are also regulated up in early nodules the same way the DNF1 is.
+
+
+845
+0:53:40,467 --> 0:53:42,533
+In addition, the signal peptide peptidase,
+
+
+846
+0:53:42,533 --> 0:53:47,733
+which is needed for completion of the degradation of the signal peptide,
+
+
+847
+0:53:47,733 --> 0:53:49,767
+that's also upregulated.
+
+
+848
+0:53:49,767 --> 0:53:55,967
+And finally, this very intriguing protein, SYP132, syntaxin 132...
+
+
+849
+0:53:55,967 --> 0:53:57,9
+Now what are syntaxins?
+
+
+850
+0:53:57,9 --> 0:54:2,9
+This is a reminder of how they have been characterized in animal cells;
+
+
+851
+0:54:2,9 --> 0:54:10,167
+syntaxins are important proteins for vesicle targeting, and in fact,
+
+
+852
+0:54:10,167 --> 0:54:16,467
+SYP132 here in the plant probably marks the last step of protein secretion,
+
+
+853
+0:54:16,467 --> 0:54:20,967
+and empirically, it has been observed on plant plasma membranes
+
+
+854
+0:54:20,967 --> 0:54:24,5
+and also on what's called the symbiosome membrane.
+
+
+855
+0:54:24,5 --> 0:54:28,833
+That's the membrane that surrounds the bacterium once it's inside the cell.
+
+
+856
+0:54:28,833 --> 0:54:31,133
+So if we take a look at all of these genes,
+
+
+857
+0:54:31,133 --> 0:54:34,133
+we can see that they are co-regulated.
+
+
+858
+0:54:34,133 --> 0:54:38,67
+So we've got a whole signal peptidase complex, and what is it doing?
+
+
+859
+0:54:38,67 --> 0:54:40,7
+One of the most important questions that could be asked is,
+
+
+860
+0:54:40,7 --> 0:54:42,533
+what are the substrates?
+
+
+861
+0:54:42,533 --> 0:54:46,733
+What proteins does this signal peptidase help to mature?
+
+
+862
+0:54:46,733 --> 0:54:49,767
+And the answer came from work in the labs
+
+
+863
+0:54:49,767 --> 0:54:53,8
+in Gif-sur-Yvette and in Szeged, Hungary,
+
+
+864
+0:54:53,8 --> 0:54:57,933
+led by Eva Kondorosi and Peter Mergaert, and their colleagues.
+
+
+865
+0:54:57,933 --> 0:55:0,533
+And what they have described is a set of proteins
+
+
+866
+0:55:0,533 --> 0:55:4,867
+called "nodule cysteine-rich peptides."
+
+
+867
+0:55:4,867 --> 0:55:7,767
+These are characteristic of nodules,
+
+
+868
+0:55:7,767 --> 0:55:10,6
+they are not expressed anyplace else in the plant.
+
+
+869
+0:55:10,6 --> 0:55:14,7
+And they are rich in cysteine and bear some resemblance to defensins,
+
+
+870
+0:55:14,7 --> 0:55:18,967
+which are proteins made by plants and animals
+
+
+871
+0:55:18,967 --> 0:55:21,0
+in response to microbes.
+
+
+872
+0:55:21,0 --> 0:55:26,1
+They were able to show using our dnf1 mutant, that one of these,
+
+
+873
+0:55:26,1 --> 0:55:31,367
+for example, NCR peptide #1, in a wild-type plant,
+
+
+874
+0:55:31,367 --> 0:55:35,267
+gets processed to a smaller molecular weight.
+
+
+875
+0:55:35,267 --> 0:55:40,533
+But unless the DNF1 peptidase is there, it does not get processed,
+
+
+876
+0:55:40,533 --> 0:55:44,433
+because here's our mutant, and you can see that the protein,
+
+
+877
+0:55:44,433 --> 0:55:47,467
+shown here in immunoblot, is larger.
+
+
+878
+0:55:47,467 --> 0:55:50,667
+It's because its signal peptide was never taken off.
+
+
+879
+0:55:50,667 --> 0:55:54,333
+They have also been able to show that, with antibodies,
+
+
+880
+0:55:54,333 --> 0:55:59,633
+that in wild-type cells, if you use a green dye to indicate the bacteria
+
+
+881
+0:55:59,633 --> 0:56:5,5
+and a red fluorescence for the antibody to the NCR peptide,
+
+
+882
+0:56:5,5 --> 0:56:6,833
+they co-localize.
+
+
+883
+0:56:6,833 --> 0:56:12,567
+Bacteria and NCR peptides co-localize in a normal wild-type cell.
+
+
+884
+0:56:12,567 --> 0:56:18,0
+Here, they showed an example of what happens in a mutant dnf1 cell.
+
+
+885
+0:56:18,0 --> 0:56:23,67
+You can see that the bacteria are all over the place in green,
+
+
+886
+0:56:23,67 --> 0:56:26,1
+but that this NCR peptide,
+
+
+887
+0:56:26,1 --> 0:56:28,133
+which we know is not being processed, right?
+
+
+888
+0:56:28,133 --> 0:56:29,733
+Because it's large molecular weight?
+
+
+889
+0:56:29,733 --> 0:56:32,567
+That NCR peptide is stuck someplace,
+
+
+890
+0:56:32,567 --> 0:56:34,833
+probably in the endoplasmic reticulum.
+
+
+891
+0:56:34,833 --> 0:56:39,0
+So, their conclusions, together with our work on the DNF1,
+
+
+892
+0:56:39,0 --> 0:56:43,567
+are that the NCR peptides are substrates of the DNF1 complex.
+
+
+893
+0:56:43,567 --> 0:56:46,233
+In wild type, these are delivered to the symbiosome,
+
+
+894
+0:56:46,233 --> 0:56:49,3
+and in dnf1, they're retained in the ER.
+
+
+895
+0:56:49,3 --> 0:56:53,4
+They've shown in other work that these mature NCR peptides
+
+
+896
+0:56:53,4 --> 0:56:55,667
+have profound effects on bacteria,
+
+
+897
+0:56:55,667 --> 0:56:58,7
+such as causing them to cease cell division
+
+
+898
+0:56:58,7 --> 0:57:1,767
+and changing their membrane permeability,
+
+
+899
+0:57:1,767 --> 0:57:6,433
+so that's an ongoing story about the activity of the NCRs.
+
+
+900
+0:57:6,433 --> 0:57:10,667
+To complete the model so far, we might ask,
+
+
+901
+0:57:10,667 --> 0:57:12,367
+what does DNF1 do,
+
+
+902
+0:57:12,367 --> 0:57:18,767
+and one likely activity is that it processes NCR proteins.
+
+
+903
+0:57:18,767 --> 0:57:22,267
+These end up in the lumen of the ER, and they are targeted,
+
+
+904
+0:57:22,267 --> 0:57:28,267
+perhaps using SYP132 as part of the mechanism for targeting,
+
+
+905
+0:57:28,267 --> 0:57:33,7
+into vesicles, which come over and fuse with the symbiosome,
+
+
+906
+0:57:33,7 --> 0:57:37,733
+in which Rhizobium are going to be differentiating.
+
+
+907
+0:57:37,733 --> 0:57:42,567
+Now, we also have questions about DNF1 beyond the NCR proteins.
+
+
+908
+0:57:42,567 --> 0:57:46,333
+For example, DNF1 is present even in legume plants
+
+
+909
+0:57:46,333 --> 0:57:49,1
+that do not have the NCR proteins.
+
+
+910
+0:57:49,1 --> 0:57:51,167
+So what is it doing there?
+
+
+911
+0:57:51,167 --> 0:57:57,67
+Another question is, in the dnf1 mutant,
+
+
+912
+0:57:57,67 --> 0:58:2,167
+the bacteroids do not differentiate, but they also stop dividing,
+
+
+913
+0:58:2,167 --> 0:58:5,167
+so it seems that even without DNF1,
+
+
+914
+0:58:5,167 --> 0:58:10,1
+there may be other signals that are helping these bacteria
+
+
+915
+0:58:10,1 --> 0:58:13,967
+to stop dividing. So we hope that we'll be able to work on those,
+
+
+916
+0:58:13,967 --> 0:58:17,233
+as well as on the actual mechanism of DNF1
+
+
+917
+0:58:17,233 --> 0:58:20,0
+in the next period of our work.
+
+
+918
+0:58:20,0 --> 0:58:24,833
+I'd now like to finish by telling you about the other mutant, dnf2.
+
+
+919
+0:58:24,833 --> 0:58:27,9
+And this, as you recall, as shown right there,
+
+
+920
+0:58:27,9 --> 0:58:31,0
+that also had no nitrogen fixation.
+
+
+921
+0:58:31,0 --> 0:58:34,567
+And we've done some work to characterize
+
+
+922
+0:58:34,567 --> 0:58:36,567
+what's going on with dnf2
+
+
+923
+0:58:36,567 --> 0:58:38,9
+and also to figure out what the gene is.
+
+
+924
+0:58:38,9 --> 0:58:41,767
+Here is a picture in which you can see,
+
+
+925
+0:58:41,767 --> 0:58:46,567
+from the root part to the distal part of the nodule,
+
+
+926
+0:58:46,567 --> 0:58:50,267
+fluorescently labeled bacteria, and they are inside.
+
+
+927
+0:58:50,267 --> 0:58:56,833
+We can tell that the bacteria get inside the dnf2 mutant nodules.
+
+
+928
+0:58:56,833 --> 0:59:0,1
+However, they don't express nitrogenase,
+
+
+929
+0:59:0,1 --> 0:59:3,967
+and they don't express many other bacterial genes either.
+
+
+930
+0:59:3,967 --> 0:59:8,567
+So, somehow, DNF2 is again required for the bacteria
+
+
+931
+0:59:8,567 --> 0:59:13,8
+to differentiate and, in fact, to express genes.
+
+
+932
+0:59:13,8 --> 0:59:18,467
+Now we know that DNF2 is expressed only in nodules,
+
+
+933
+0:59:18,467 --> 0:59:21,267
+even more strictly than DNF1.
+
+
+934
+0:59:21,267 --> 0:59:23,833
+This shows you some promoter-GUS fusions
+
+
+935
+0:59:23,833 --> 0:59:29,767
+where you can see that the early part of the nodule is expressing DNF2,
+
+
+936
+0:59:29,767 --> 0:59:31,5
+and here you can see it at the tip,
+
+
+937
+0:59:31,5 --> 0:59:38,633
+and then it diminishes just slightly as the nodules get somewhat older.
+
+
+938
+0:59:38,633 --> 0:59:41,33
+What is DNF2?
+
+
+939
+0:59:41,33 --> 0:59:46,233
+It appears to be similar to a phospholipase C,
+
+
+940
+0:59:46,233 --> 0:59:50,7
+but it's not a canonical phospholipase C the way we're used to seeing.
+
+
+941
+0:59:50,7 --> 0:59:53,33
+Here would be the classic PLC.
+
+
+942
+0:59:53,33 --> 0:59:59,967
+You can see it's got the inositol trisphosphate binding, EF-hands,
+
+
+943
+0:59:59,967 --> 1:0:4,533
+catalytic domains, calcium-binding domains, and so forth.
+
+
+944
+1:0:4,533 --> 1:0:9,433
+The DNF2 is only homologous to
+
+
+945
+1:0:9,433 --> 1:0:15,1
+one part of this large, complex phospholipase C.
+
+
+946
+1:0:15,1 --> 1:0:19,33
+However, we do find that it is very, very similar
+
+
+947
+1:0:19,33 --> 1:0:23,9
+to a phospholipase C whose model is shown here.
+
+
+948
+1:0:23,9 --> 1:0:27,33
+This is actually a bacterial phospholipase C,
+
+
+949
+1:0:27,33 --> 1:0:31,7
+and if you take this in red and then superpose DNF2,
+
+
+950
+1:0:31,7 --> 1:0:36,433
+it does appear to be very, very similar in its 3D structure.
+
+
+951
+1:0:36,433 --> 1:0:39,7
+So we want to know what's the biochemical activity;
+
+
+952
+1:0:39,7 --> 1:0:43,2
+sequence alone doesn't tell us whether it really acts
+
+
+953
+1:0:43,2 --> 1:0:50,267
+to process phospholipids or as a signaling.
+
+
+954
+1:0:50,267 --> 1:0:54,133
+But we found one other thing that's really surprising to us.
+
+
+955
+1:0:54,133 --> 1:0:58,467
+First, as I mentioned, it's only expressed in nodules,
+
+
+956
+1:0:58,467 --> 1:1:5,833
+but secondly, it's not expressed in the cells of the plant that have Rhizobium.
+
+
+957
+1:1:5,833 --> 1:1:9,267
+It's expressed in the noninfected cells of the nodule.
+
+
+958
+1:1:9,267 --> 1:1:11,867
+And that's really a first.
+
+
+959
+1:1:11,867 --> 1:1:15,8
+There are known metabolic enzymes in soybean, for example,
+
+
+960
+1:1:15,8 --> 1:1:18,133
+that are present in uninfected cells.
+
+
+961
+1:1:18,133 --> 1:1:20,667
+But there has never been found a regulator
+
+
+962
+1:1:20,667 --> 1:1:26,267
+that appears to be active in the noninfected cells of the root nodule.
+
+
+963
+1:1:26,267 --> 1:1:29,667
+So, what we're trying to ask ourselves is,
+
+
+964
+1:1:29,667 --> 1:1:33,7
+does the DNF2 protein mediate the infection process
+
+
+965
+1:1:33,7 --> 1:1:36,67
+directly or indirectly?
+
+
+966
+1:1:36,67 --> 1:1:40,267
+Is it acting in some way that allows the noninfected cells
+
+
+967
+1:1:40,267 --> 1:1:43,833
+to send signals or perhaps to avoid signals?
+
+
+968
+1:1:43,833 --> 1:1:47,7
+So those are some of the questions that lie ahead for us.
+
+
+969
+1:1:47,7 --> 1:1:51,9
+So winding up the combination of the studies that I've shown you today,
+
+
+970
+1:1:51,9 --> 1:1:54,933
+I think that the future of our field is going to be very exciting
+
+
+971
+1:1:54,933 --> 1:1:58,1
+as we take the results of the plant mutants and
+
+
+972
+1:1:58,1 --> 1:2:1,867
+we study the proteins that are defined by those mutations,
+
+
+973
+1:2:1,867 --> 1:2:5,8
+and look at how those work, both plant and bacteria together,
+
+
+974
+1:2:5,8 --> 1:2:8,8
+not looking just at position, but looking at time.
+
+
+975
+1:2:8,8 --> 1:2:12,967
+We're interested in the great questions of:
+
+
+976
+1:2:12,967 --> 1:2:14,5
+What the signals are,
+
+
+977
+1:2:14,5 --> 1:2:16,633
+and how the signals are transduced.
+
+
+978
+1:2:16,633 --> 1:2:20,633
+Given that so much complicated cell biology has to happen
+
+
+979
+1:2:20,633 --> 1:2:25,67
+between the beginning of the infection thread and the maturation of the symbiosome,
+
+
+980
+1:2:25,67 --> 1:2:27,333
+we want to know not just the regulation,
+
+
+981
+1:2:27,333 --> 1:2:30,2
+but what is the machinery of this infection,
+
+
+982
+1:2:30,2 --> 1:2:33,9
+and we believe that both the proteins and molecular probes
+
+
+983
+1:2:33,9 --> 1:2:38,67
+that we can obtain can be used to study the individual steps of
+
+
+984
+1:2:38,67 --> 1:2:41,133
+nodulation as they move forward.
+
+
+985
+1:2:41,133 --> 1:4:41,133
+So that concludes our journey through the plant side of symbiosis.
+
+

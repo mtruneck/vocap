@@ -1,0 +1,5610 @@
+1
+0:0:13,64 --> 0:0:16,488
+Professor Paul Bloom:
+This class today is about
+
+
+2
+0:0:16,488 --> 0:0:18,785
+language.
+And language is,
+
+
+3
+0:0:18,785 --> 0:0:23,5
+to a large extent,
+where the action is.
+
+
+4
+0:0:23,5 --> 0:0:26,494
+The study of human language has
+been the battleground over
+
+
+5
+0:0:26,494 --> 0:0:28,73
+different theories of human
+nature.
+
+
+6
+0:0:28,73 --> 0:0:32,148
+So, every philosopher or
+psychologist or humanist or
+
+
+7
+0:0:32,148 --> 0:0:36,36
+neuroscientist who has ever
+thought about people has had to
+
+
+8
+0:0:36,36 --> 0:0:40,46
+make some claim about the nature
+of language and how it works.
+
+
+9
+0:0:40,46 --> 0:0:43,785
+I'm including here people like
+Aristotle and Plato,
+
+
+10
+0:0:43,785 --> 0:0:45,98
+Hume, Locke,
+Freud and Skinner.
+
+
+11
+0:0:45,98 --> 0:0:49,686
+I'm also including modern-day
+approaches to computational
+
+
+12
+0:0:49,686 --> 0:0:53,261
+theory, cognitive neuroscience,
+evolutionary theory and
+
+
+13
+0:0:53,261 --> 0:0:56,894
+cultural psychology.
+If you hope to make it with a
+
+
+14
+0:0:56,894 --> 0:1:0,66
+theory of what people are and
+how people work,
+
+
+15
+0:1:0,66 --> 0:1:3,38
+you have to explain and talk
+about language.
+
+
+16
+0:1:3,38 --> 0:1:6,501
+In fact, language is
+sufficiently interesting that,
+
+
+17
+0:1:6,501 --> 0:1:10,6
+unlike most other things I'll
+talk about in this class,
+
+
+18
+0:1:10,6 --> 0:1:13,209
+there is an entire field
+devoted to its study,
+
+
+19
+0:1:13,209 --> 0:1:17,409
+the field of linguistics that
+is entirely devoted to studying
+
+
+20
+0:1:17,409 --> 0:1:21,189
+the nuances and structures of
+different languages.
+
+
+21
+0:1:21,189 --> 0:1:23,897
+Now, I'll first,
+before getting into details,
+
+
+22
+0:1:23,897 --> 0:1:27,867
+make a definitional point.
+When I'm talking about language
+
+
+23
+0:1:27,867 --> 0:1:32,72
+I'm meaning systems like English
+and Dutch and Warlpiri and
+
+
+24
+0:1:32,72 --> 0:1:36,64
+Italian and Turkish and Urdu and
+what we've seen and heard right
+
+
+25
+0:1:36,64 --> 0:1:40,265
+now in class in the
+demonstration that preceded the
+
+
+26
+0:1:40,265 --> 0:1:44,694
+formal lecture.
+Now, you could use language in
+
+
+27
+0:1:44,694 --> 0:1:47,869
+a different sense.
+You could use the term
+
+
+28
+0:1:47,869 --> 0:1:51,567
+"language" to describe what dogs
+do, or what chimpanzees do,
+
+
+29
+0:1:51,567 --> 0:1:53,924
+or birds.
+You could use language to
+
+
+30
+0:1:53,924 --> 0:1:56,49
+describe music,
+talk about the--a musical
+
+
+31
+0:1:56,49 --> 0:1:59,424
+language or art,
+or any communicative system,
+
+
+32
+0:1:59,424 --> 0:2:2,239
+and there's actually nothing
+wrong with that.
+
+
+33
+0:2:2,239 --> 0:2:5,121
+There's no rule about how
+you're supposed to use the word
+
+
+34
+0:2:5,121 --> 0:2:7,504
+"language."
+But the problem is if you use
+
+
+35
+0:2:7,504 --> 0:2:10,58
+the word "language" impossibly,
+incredibly broadly,
+
+
+36
+0:2:10,58 --> 0:2:14,129
+then from a scientific point of
+view it becomes useless to ask
+
+
+37
+0:2:14,129 --> 0:2:17,896
+interesting questions about it.
+If language can refer to just
+
+
+38
+0:2:17,896 --> 0:2:21,8
+about everything from English to
+traffic signals,
+
+
+39
+0:2:21,8 --> 0:2:23,715
+then we're not going to be able
+to find interesting
+
+
+40
+0:2:23,715 --> 0:2:26,139
+generalizations or do good
+science about it.
+
+
+41
+0:2:26,139 --> 0:2:28,51
+So, what I want to do is,
+I want to discuss the
+
+
+42
+0:2:28,51 --> 0:2:32,718
+scientific notion of language,
+at first restricting myself to
+
+
+43
+0:2:32,718 --> 0:2:37,834
+systems like English and Dutch
+and American sign language and
+
+
+44
+0:2:37,834 --> 0:2:40,794
+Navajo and so on.
+Once we've made some
+
+
+45
+0:2:40,794 --> 0:2:43,992
+generalizations about language
+in this narrow sense,
+
+
+46
+0:2:43,992 --> 0:2:46,534
+we could then ask,
+and we will ask,
+
+
+47
+0:2:46,534 --> 0:2:51,49
+to what extent do other systems
+such as animal communication
+
+
+48
+0:2:51,49 --> 0:2:54,569
+systems relate to this narrower
+definition.
+
+
+49
+0:2:54,569 --> 0:2:56,509
+So we could ask,
+in this narrow sense,
+
+
+50
+0:2:56,509 --> 0:2:59,55
+what properties do languages
+have and then go on to ask,
+
+
+51
+0:2:59,55 --> 0:3:1,891
+in a broader sense,
+what other communicative
+
+
+52
+0:3:1,891 --> 0:3:4,69
+systems also possess those
+properties.
+
+
+53
+0:3:4,69 --> 0:3:9,819
+Well, some things are obvious
+about language so here are some;
+
+
+54
+0:3:9,819 --> 0:3:11,25
+here are the questions we will
+ask.
+
+
+55
+0:3:11,25 --> 0:3:13,159
+This will frame our discussion
+today.
+
+
+56
+0:3:13,159 --> 0:3:15,75
+We'll first go over some basic
+facts about language.
+
+
+57
+0:3:15,75 --> 0:3:18,89
+We'll talk about what languages
+share, we'll talk about how
+
+
+58
+0:3:18,89 --> 0:3:21,435
+language develops,
+and we'll talk about language
+
+
+59
+0:3:21,435 --> 0:3:25,639
+and communication in nonhumans.
+I began this class with a
+
+
+60
+0:3:25,639 --> 0:3:30,442
+demonstration of--that
+illustrates two very important
+
+
+61
+0:3:30,442 --> 0:3:35,834
+facts about language.
+One is that languages all share
+
+
+62
+0:3:35,834 --> 0:3:39,52
+some deep and intricate
+universals.
+
+
+63
+0:3:39,52 --> 0:3:41,319
+In particular,
+all languages,
+
+
+64
+0:3:41,319 --> 0:3:45,11
+at minimum, are powerful enough
+to convey an abstract notion
+
+
+65
+0:3:45,11 --> 0:3:47,992
+like this;
+abstract in the sense that it
+
+
+66
+0:3:47,992 --> 0:3:51,821
+talks about thoughts and it
+talks about a proposition and
+
+
+67
+0:3:51,821 --> 0:3:55,754
+spatial relations in objects.
+There's no language in the
+
+
+68
+0:3:55,754 --> 0:3:59,78
+world that you just cannot talk
+about abstract things with.
+
+
+69
+0:3:59,78 --> 0:4:2,921
+Every language can do this.
+But the demonstration also
+
+
+70
+0:4:2,921 --> 0:4:6,381
+illustrated another fact about
+language, which is how different
+
+
+71
+0:4:6,381 --> 0:4:8,56
+languages are.
+They sound different.
+
+
+72
+0:4:8,56 --> 0:4:11,829
+If you know one language,
+you don't necessarily know
+
+
+73
+0:4:11,829 --> 0:4:14,569
+another.
+It's not merely that you can't
+
+
+74
+0:4:14,569 --> 0:4:17,762
+understand it.
+It could sound strange or look
+
+
+75
+0:4:17,762 --> 0:4:20,62
+unusual in the case of a sign
+language.
+
+
+76
+0:4:20,62 --> 0:4:25,548
+And so, any adequate theory of
+language has to allow for both
+
+
+77
+0:4:25,548 --> 0:4:30,23
+the commonalities and the
+differences across languages.
+
+
+78
+0:4:30,23 --> 0:4:33,937
+And this is the puzzle faced by
+the psychology and cognitive
+
+
+79
+0:4:33,937 --> 0:4:37,82
+science of language.
+Well, let's start with an
+
+
+80
+0:4:37,82 --> 0:4:41,1
+interesting claim about language
+made by Charles Darwin.
+
+
+81
+0:4:41,1 --> 0:4:43,97
+So, Darwin writes,
+"Man has an instinctive
+
+
+82
+0:4:43,97 --> 0:4:47,329
+tendency to speak,
+as we see in the babble of our
+
+
+83
+0:4:47,329 --> 0:4:50,277
+young children,
+while no child has an
+
+
+84
+0:4:50,277 --> 0:4:53,819
+instinctive tendency to bake,
+brew or write."
+
+
+85
+0:4:53,819 --> 0:4:57,14
+And what Darwin is claiming
+here, and it's a controversial
+
+
+86
+0:4:57,14 --> 0:5:0,742
+and interesting claim,
+is that language is special in
+
+
+87
+0:5:0,742 --> 0:5:4,714
+that there's some sort of
+propensity or capacity or
+
+
+88
+0:5:4,714 --> 0:5:9,48
+instinct for language unlike the
+other examples he gives.
+
+
+89
+0:5:9,48 --> 0:5:13,132
+Not everything comes natural to
+us but Darwin suggests that
+
+
+90
+0:5:13,132 --> 0:5:15,645
+language does.
+Well, why should we believe
+
+
+91
+0:5:15,645 --> 0:5:18,695
+this?
+Well, there are some basic
+
+
+92
+0:5:18,695 --> 0:5:22,35
+facts that support Darwin's
+claim.
+
+
+93
+0:5:22,35 --> 0:5:25,778
+For one thing,
+every normal--every human
+
+
+94
+0:5:25,778 --> 0:5:29,591
+society has language.
+In the course of traveling,
+
+
+95
+0:5:29,591 --> 0:5:32,711
+cultures encounter other
+cultures and they often
+
+
+96
+0:5:32,711 --> 0:5:36,759
+encounter cultures that are very
+different from their own.
+
+
+97
+0:5:36,759 --> 0:5:39,83
+But through the course of human
+history, nobody has ever
+
+
+98
+0:5:39,83 --> 0:5:42,844
+encountered another group of
+humans that did not have a
+
+
+99
+0:5:42,844 --> 0:5:45,678
+language.
+Does this show that it's built
+
+
+100
+0:5:45,678 --> 0:5:48,3
+in?
+Well, not necessarily.
+
+
+101
+0:5:48,3 --> 0:5:51,11
+It could be a cultural
+innovation.
+
+
+102
+0:5:51,11 --> 0:5:52,853
+It could be,
+for instance,
+
+
+103
+0:5:52,853 --> 0:5:56,828
+that language is such a good
+idea that every culture comes
+
+
+104
+0:5:56,828 --> 0:6:1,1
+across it and develops it.
+Just about every culture uses
+
+
+105
+0:6:1,1 --> 0:6:5,191
+some sort of utensils to eat
+food with, a knife and a fork,
+
+
+106
+0:6:5,191 --> 0:6:9,163
+chopsticks, a spoon.
+This probably is not because
+
+
+107
+0:6:9,163 --> 0:6:13,459
+use of eating utensils is human
+nature, but rather,
+
+
+108
+0:6:13,459 --> 0:6:16,932
+it's because it's just a very
+useful thing that cultures
+
+
+109
+0:6:16,932 --> 0:6:20,563
+discover over and over again.
+Well, we know that this
+
+
+110
+0:6:20,563 --> 0:6:23,91
+probably is not true with regard
+to language.
+
+
+111
+0:6:23,91 --> 0:6:29,973
+And one reason we know this is
+because of the demonstrated case
+
+
+112
+0:6:29,973 --> 0:6:34,863
+studies where a language is
+created within a single
+
+
+113
+0:6:34,863 --> 0:6:38,889
+generation.
+And these case studies have
+
+
+114
+0:6:38,889 --> 0:6:43,846
+happened over history.
+The standard example is people
+
+
+115
+0:6:43,846 --> 0:6:48,71
+involved in the slave trade.
+The slave trade revolving
+
+
+116
+0:6:48,71 --> 0:6:51,524
+around tobacco or cotton or
+coffee or sugar would tend to
+
+
+117
+0:6:51,524 --> 0:6:55,41
+mix slaves and laborers from
+different language backgrounds,
+
+
+118
+0:6:55,41 --> 0:6:59,182
+in part deliberately,
+so as to avoid the possibility
+
+
+119
+0:6:59,182 --> 0:7:1,462
+of revolt.
+What would happen is these
+
+
+120
+0:7:1,462 --> 0:7:4,73
+people who were enslaved from
+different cultures would develop
+
+
+121
+0:7:4,73 --> 0:7:7,783
+a makeshift communication system
+so they could talk to one
+
+
+122
+0:7:7,783 --> 0:7:11,219
+another.
+And this is called a "pidgin,"
+
+
+123
+0:7:11,219 --> 0:7:15,468
+p-i-d-g-i-n, a pidgin.
+And this pidgin was how they
+
+
+124
+0:7:15,468 --> 0:7:17,961
+would talk.
+And this pidgin was not a
+
+
+125
+0:7:17,961 --> 0:7:19,854
+language.
+It was strings of words
+
+
+126
+0:7:19,854 --> 0:7:22,931
+borrowed from the different
+languages around them and put
+
+
+127
+0:7:22,931 --> 0:7:25,19
+together in sort of haphazard
+ways.
+
+
+128
+0:7:25,19 --> 0:7:29,233
+The question is what happens to
+the children who are raised in
+
+
+129
+0:7:29,233 --> 0:7:32,432
+this society.
+And you might expect it that
+
+
+130
+0:7:32,432 --> 0:7:36,37
+they would come to speak a
+pidgin, but they don't.
+
+
+131
+0:7:36,37 --> 0:7:39,131
+What happens is,
+in the course of a single
+
+
+132
+0:7:39,131 --> 0:7:42,23
+generation, they develop their
+own language.
+
+
+133
+0:7:42,23 --> 0:7:46,96
+They create a language with
+rich syntax and morphology and
+
+
+134
+0:7:46,96 --> 0:7:50,29
+phonology, terms that we'll
+understand in a few minutes.
+
+
+135
+0:7:50,29 --> 0:7:54,74
+And this language that they
+create is called a "creole."
+
+
+136
+0:7:54,74 --> 0:7:59,26
+And languages that we know now
+as creoles, the word refers back
+
+
+137
+0:7:59,26 --> 0:8:1,998
+to their history.
+That means that they were
+
+
+138
+0:8:1,998 --> 0:8:5,441
+developed from pidgins.
+And this is interesting because
+
+
+139
+0:8:5,441 --> 0:8:8,725
+this suggests that to some
+extent the ability to use and
+
+
+140
+0:8:8,725 --> 0:8:12,129
+understand and learn language is
+part of human nature.
+
+
+141
+0:8:12,129 --> 0:8:14,43
+It doesn't require an extensive
+cultural history.
+
+
+142
+0:8:14,43 --> 0:8:18,404
+Rather, just about any normal
+child, even when not exposed to
+
+
+143
+0:8:18,404 --> 0:8:21,649
+a full-fledged language,
+can create a language.
+
+
+144
+0:8:21,649 --> 0:8:25,13
+And more recently,
+there's been case studies of
+
+
+145
+0:8:25,13 --> 0:8:27,93
+children who acquire sign
+language.
+
+
+146
+0:8:27,93 --> 0:8:31,995
+There's a wonderful case in
+Nicaragua in sign language where
+
+
+147
+0:8:31,995 --> 0:8:36,13
+they acquire sign language from
+adults who themselves are not
+
+
+148
+0:8:36,13 --> 0:8:39,77
+versed in sign language.
+They're sort of second-language
+
+
+149
+0:8:39,77 --> 0:8:42,638
+learners struggling along.
+What you might have expected
+
+
+150
+0:8:42,638 --> 0:8:45,788
+would be the children would then
+use whatever system their adults
+
+
+151
+0:8:45,788 --> 0:8:48,409
+use, but they don't.
+They "creolized" it.
+
+
+152
+0:8:48,409 --> 0:8:51,11
+They take this makeshift
+communication system developed
+
+
+153
+0:8:51,11 --> 0:8:52,259
+by adults and,
+again,
+
+
+154
+0:8:52,259 --> 0:8:56,667
+they turn it into a full-blown
+language, suggesting that to
+
+
+155
+0:8:56,667 --> 0:9:0,466
+some extent it's part of our
+human nature to create
+
+
+156
+0:9:0,466 --> 0:9:6,46
+languages.
+Also, every normal human has
+
+
+157
+0:9:6,46 --> 0:9:9,577
+language.
+Not everybody in this room can
+
+
+158
+0:9:9,577 --> 0:9:12,421
+ride a bicycle.
+Not everybody in this room can
+
+
+159
+0:9:12,421 --> 0:9:15,744
+play chess.
+But everybody possesses at
+
+
+160
+0:9:15,744 --> 0:9:19,173
+least one language.
+And everybody started to
+
+
+161
+0:9:19,173 --> 0:9:22,399
+possess at least one language
+when they were a child.
+
+
+162
+0:9:22,399 --> 0:9:26,241
+There are exceptions,
+but the exceptions come about
+
+
+163
+0:9:26,241 --> 0:9:28,929
+due to some sort of brain
+damage.
+
+
+164
+0:9:28,929 --> 0:9:33,9
+Any neurologically normal human
+will come to possess a language.
+
+
+165
+0:9:33,9 --> 0:9:38,677
+What else do we know?
+Well, the claim that language
+
+
+166
+0:9:38,677 --> 0:9:42,611
+is part of human nature is
+supported by neurological
+
+
+167
+0:9:42,611 --> 0:9:45,347
+studies,
+some of which were referred to
+
+
+168
+0:9:45,347 --> 0:9:49,61
+in the chapters on the brain
+that you read earlier that talk
+
+
+169
+0:9:49,61 --> 0:9:52,899
+about dedicated parts of the
+brain that work for language.
+
+
+170
+0:9:52,899 --> 0:9:56,399
+And if parts of these
+brains--if parts--if these parts
+
+
+171
+0:9:56,399 --> 0:10:0,427
+of the brain are damaged you get
+language deficits or aphasias
+
+
+172
+0:10:0,427 --> 0:10:4,59
+where you might lose the ability
+to understand or create
+
+
+173
+0:10:4,59 --> 0:10:6,701
+language.
+More speculatively,
+
+
+174
+0:10:6,701 --> 0:10:11,744
+there has been some fairly
+recent work studying the genetic
+
+
+175
+0:10:11,744 --> 0:10:16,22
+basis of language,
+looking at the genes that are
+
+
+176
+0:10:16,22 --> 0:10:20,505
+directly responsible for the
+capacity to learn and use
+
+
+177
+0:10:20,505 --> 0:10:23,376
+language.
+And one bit of evidence that
+
+
+178
+0:10:23,376 --> 0:10:27,154
+these genes are implicated is
+that some unfortunate people
+
+
+179
+0:10:27,154 --> 0:10:29,74
+have point mutations in these
+genes.
+
+
+180
+0:10:29,74 --> 0:10:33,25
+And such people are unable to
+learn and use language.
+
+
+181
+0:10:33,25 --> 0:10:35,761
+So, in general,
+there is some support,
+
+
+182
+0:10:35,761 --> 0:10:39,902
+at least at a very broad level,
+for the claim that language is
+
+
+183
+0:10:39,902 --> 0:10:42,549
+in some sense part of human
+nature.
+
+
+184
+0:10:42,549 --> 0:10:44,36
+Well, what do we mean by
+language?
+
+
+185
+0:10:44,36 --> 0:10:46,559
+What are we talking about when
+we talk about language?
+
+
+186
+0:10:46,559 --> 0:10:48,975
+We don't want to restrict
+ourselves, for instance,
+
+
+187
+0:10:48,975 --> 0:10:53,799
+to English or French.
+What do all languages share?
+
+
+188
+0:10:53,799 --> 0:11:0,539
+Well, all languages are
+creative and this means a couple
+
+
+189
+0:11:0,539 --> 0:11:4,507
+of things.
+One meaning is the meaning
+
+
+190
+0:11:4,507 --> 0:11:9,245
+emphasized by Rene Descartes.
+When Rene Descartes argued that
+
+
+191
+0:11:9,245 --> 0:11:12,238
+we are more than merely
+machines, his best piece of
+
+
+192
+0:11:12,238 --> 0:11:15,59
+evidence for him was the human
+capacity for language.
+
+
+193
+0:11:15,59 --> 0:11:19,15
+No machine could do this
+because our capacity for
+
+
+194
+0:11:19,15 --> 0:11:23,436
+language is unbounded and free.
+We could say anything we choose
+
+
+195
+0:11:23,436 --> 0:11:25,74
+to say.
+We have free will.
+
+
+196
+0:11:25,74 --> 0:11:29,317
+And in fact,
+language allows us to produce a
+
+
+197
+0:11:29,317 --> 0:11:33,104
+virtual infinity of sentences.
+So, we could create and
+
+
+198
+0:11:33,104 --> 0:11:35,5
+understand sentences that we
+never heard before.
+
+
+199
+0:11:35,5 --> 0:11:38,49
+And there are a lot of
+sentences.
+
+
+200
+0:11:38,49 --> 0:11:44,991
+So, if you want to estimate how
+many grammatical sentences under
+
+
+201
+0:11:44,991 --> 0:11:49,177
+twenty words in English,
+the answer is,
+
+
+202
+0:11:49,177 --> 0:11:53,279
+"a lot."
+And what this means is that any
+
+
+203
+0:11:53,279 --> 0:11:58,209
+theory of language use and
+language comprehension cannot
+
+
+204
+0:11:58,209 --> 0:12:2,268
+simply appeal to a list.
+When you understand a sentence
+
+
+205
+0:12:2,268 --> 0:12:5,53
+I said you have to have the
+capacity to understand a
+
+
+206
+0:12:5,53 --> 0:12:7,73
+sentence even if you've never
+heard it before.
+
+
+207
+0:12:7,73 --> 0:12:11,684
+And this is because we could
+effortlessly produce and
+
+
+208
+0:12:11,684 --> 0:12:16,19
+understand sentences that no
+human has ever said before on
+
+
+209
+0:12:16,19 --> 0:12:18,785
+earth.
+Would anybody volunteer to say
+
+
+210
+0:12:18,785 --> 0:12:21,393
+a sentence, non obscene,
+non derogatory,
+
+
+211
+0:12:21,393 --> 0:12:24,201
+that has never been spoken
+before on earth,
+
+
+212
+0:12:24,201 --> 0:12:24,87
+ever?
+
+
+213
+0:12:24,87 --> 0:12:29,85
+
+
+
+214
+0:12:29,85 --> 0:12:35,799
+Here.
+I'll start.
+
+
+215
+0:12:35,799 --> 0:12:39,751
+"It's surprisingly easy to get
+a purple tie on eBay if you
+
+
+216
+0:12:39,751 --> 0:12:43,467
+don't care much about quality."
+I could imagine no one else in
+
+
+217
+0:12:43,467 --> 0:12:47,361
+the world has said this before.
+"I am upset that one cannot
+
+
+218
+0:12:47,361 --> 0:12:52,629
+easily download 'Buffy the
+Vampire Slayer' through iTunes."
+
+
+219
+0:12:52,629 --> 0:12:56,931
+Now, it's possible somebody
+said both these sentences
+
+
+220
+0:12:56,931 --> 0:13:0,82
+before, but you probably have
+not heard them.
+
+
+221
+0:13:0,82 --> 0:13:3,48
+But you understand them
+immediately.
+
+
+222
+0:13:3,48 --> 0:13:8,551
+So, how do you do it?
+Well, you have rules in your
+
+
+223
+0:13:8,551 --> 0:13:11,424
+head.
+You've learnt what the words
+
+
+224
+0:13:11,424 --> 0:13:15,679
+mean, but you have abstract and
+unconscious rules that take
+
+
+225
+0:13:15,679 --> 0:13:18,242
+these words,
+figure out the order,
+
+
+226
+0:13:18,242 --> 0:13:22,35
+and in a fraction of a second,
+give rise to understanding.
+
+
+227
+0:13:22,35 --> 0:13:24,649
+And that's the sort of thing
+linguists study.
+
+
+228
+0:13:24,649 --> 0:13:30,438
+So, take some standard examples
+from the linguistic study of
+
+
+229
+0:13:30,438 --> 0:13:32,976
+English.
+And bear in mind the rules
+
+
+230
+0:13:32,976 --> 0:13:36,57
+we're talking about here are not
+rules you explicitly know.
+
+
+231
+0:13:36,57 --> 0:13:40,422
+They're automatic rules of the
+same sort we're going to talk
+
+
+232
+0:13:40,422 --> 0:13:44,78
+about in the context of visual
+perception in that they're
+
+
+233
+0:13:44,78 --> 0:13:47,604
+implicit and unconscious and not
+accessible to explicit
+
+
+234
+0:13:47,604 --> 0:13:50,214
+understanding.
+So for instance,
+
+
+235
+0:13:50,214 --> 0:13:55,189
+immediately you read "The pig
+is eager to eat" versus "The pig
+
+
+236
+0:13:55,189 --> 0:13:59,512
+is easy to eat" and in a
+fraction of a second you know
+
+
+237
+0:13:59,512 --> 0:14:4,254
+there's an important difference.
+"The pig is eager to eat" means
+
+
+238
+0:14:4,254 --> 0:14:7,592
+the state of affairs that we're
+talking about is when the pig
+
+
+239
+0:14:7,592 --> 0:14:10,303
+does the eating.
+"The pig is easy to eat" is
+
+
+240
+0:14:10,303 --> 0:14:14,62
+when the pig is being eaten.
+You would see a sentence like
+
+
+241
+0:14:14,62 --> 0:14:17,7
+"Bill knew that John liked him"
+and you know,
+
+
+242
+0:14:17,7 --> 0:14:19,6
+without even knowing how you
+know,
+
+
+243
+0:14:19,6 --> 0:14:24,557
+that this could mean that Bill
+knew that John liked Bill or it
+
+
+244
+0:14:24,557 --> 0:14:28,539
+could mean that Bill knew that
+John liked Fred.
+
+
+245
+0:14:28,539 --> 0:14:32,789
+But it can't mean that Bill
+knew that John liked John.
+
+
+246
+0:14:32,789 --> 0:14:35,56
+The natural interpretation,
+in fact, is that Bill knew that
+
+
+247
+0:14:35,56 --> 0:14:39,19
+John liked Bill.
+The two words co-refer.
+
+
+248
+0:14:39,19 --> 0:14:42,958
+Contrast that with "Bill knew
+that John liked himself," which
+
+
+249
+0:14:42,958 --> 0:14:46,35
+only has the meaning Bill knew
+that John liked John.
+
+
+250
+0:14:46,35 --> 0:14:49,353
+And this is what linguists do
+for a living so if you hear me
+
+
+251
+0:14:49,353 --> 0:14:52,564
+talking about this and say,
+"I want to spend the next forty
+
+
+252
+0:14:52,564 --> 0:14:56,9
+years of my life studying that,"
+you should become a linguist.
+
+
+253
+0:14:56,9 --> 0:14:59,141
+But that's the sort of--those
+are the sort of phenomena that
+
+
+254
+0:14:59,141 --> 0:15:2,9
+we're interested in.
+Now, it gets more complicated.
+
+
+255
+0:15:2,9 --> 0:15:5,474
+Those are examples from syntax,
+but language has many
+
+
+256
+0:15:5,474 --> 0:15:8,344
+structures.
+Language has structures going
+
+
+257
+0:15:8,344 --> 0:15:12,638
+from the bottom to the top.
+All languages--All human
+
+
+258
+0:15:12,638 --> 0:15:17,9
+languages have phonology,
+which is the system of sounds
+
+
+259
+0:15:17,9 --> 0:15:21,84
+or signs;
+morphology, which is the system
+
+
+260
+0:15:21,84 --> 0:15:26,39
+of words or morphemes,
+basic units of meaning;
+
+
+261
+0:15:26,39 --> 0:15:30,68
+and syntax, which refer to
+rules and principles that put
+
+
+262
+0:15:30,68 --> 0:15:34,169
+together words and phrases into
+meaningful utterances.
+
+
+263
+0:15:34,169 --> 0:15:38,543
+And I want to talk briefly
+about each of these three parts
+
+
+264
+0:15:38,543 --> 0:15:42,379
+of language before looking at
+some other issues.
+
+
+265
+0:15:42,379 --> 0:15:45,363
+I'm indebted here to Steven
+Pinker's excellent book The
+
+
+266
+0:15:45,363 --> 0:15:47,719
+Language Instinct which
+provides, I think,
+
+
+267
+0:15:47,719 --> 0:15:49,97
+a superb discussion of these
+phenomena.
+
+
+268
+0:15:49,97 --> 0:15:53,86
+And I'm going to steal some of
+my examples from Pinker.
+
+
+269
+0:15:53,86 --> 0:15:59,142
+So, phonology.
+Phonology is the system of
+
+
+270
+0:15:59,142 --> 0:16:1,58
+sounds that languages have.
+
+
+271
+0:16:1,58 --> 0:16:8,65
+
+
+
+272
+0:16:8,65 --> 0:16:11,66
+There's a subset.
+There's a list,
+
+
+273
+0:16:11,66 --> 0:16:13,81
+a finite list,
+of possible sounds that
+
+
+274
+0:16:13,81 --> 0:16:15,611
+language can use.
+I'm going to put aside for the
+
+
+275
+0:16:15,611 --> 0:16:18,35
+moment the question of sign
+languages and how they work.
+
+
+276
+0:16:18,35 --> 0:16:20,32
+I'm going to talk about them in
+a little bit.
+
+
+277
+0:16:20,32 --> 0:16:25,879
+The idea is that English has
+about forty of these phonemes.
+
+
+278
+0:16:25,879 --> 0:16:29,599
+So, if you're a native
+monolingual speaker of English
+
+
+279
+0:16:29,599 --> 0:16:33,604
+you hear speech and each sound
+you hear is categorized as
+
+
+280
+0:16:33,604 --> 0:16:37,37
+falling into one of those forty
+morphemes--sorry,
+
+
+281
+0:16:37,37 --> 0:16:39,965
+phonemes.
+So, for example,
+
+
+282
+0:16:39,965 --> 0:16:46,69
+English has a phoneme of "lu,"
+"l," and a phoneme of "r."
+
+
+283
+0:16:46,69 --> 0:16:50,302
+And so, an English speaker can
+hear the difference between
+
+
+284
+0:16:50,302 --> 0:16:53,598
+"lip" and "rip" and that
+corresponds to two different
+
+
+285
+0:16:53,598 --> 0:16:57,305
+words in English.
+Other languages don't have that
+
+
+286
+0:16:57,305 --> 0:17:1,518
+distinction and so those
+distinctions are very difficult
+
+
+287
+0:17:1,518 --> 0:17:4,89
+for non-native English speakers
+to learn.
+
+
+288
+0:17:4,89 --> 0:17:9,148
+So, part of what goes on when
+you learn, is you have to learn
+
+
+289
+0:17:9,148 --> 0:17:12,839
+the language--the phonemes that
+your language has.
+
+
+290
+0:17:12,839 --> 0:17:17,89
+Another part of the problem of
+learning language is you have to
+
+
+291
+0:17:17,89 --> 0:17:20,859
+figure out what the boundaries
+are between the words.
+
+
+292
+0:17:20,859 --> 0:17:23,561
+You have to use sound signals
+to figure out the boundaries
+
+
+293
+0:17:23,561 --> 0:17:26,319
+between the words.
+Now that--If the only language
+
+
+294
+0:17:26,319 --> 0:17:29,698
+you've ever heard is English,
+that's going to seem like a
+
+
+295
+0:17:29,698 --> 0:17:33,136
+really weird example of a
+problem because you're listening
+
+
+296
+0:17:33,136 --> 0:17:36,695
+to me speak and in between each
+of my words you're hearing a
+
+
+297
+0:17:36,695 --> 0:17:38,993
+pause.
+You don't have to be very smart
+
+
+298
+0:17:38,993 --> 0:17:41,68
+to figure out where one word
+begins and one word ends.
+
+
+299
+0:17:41,68 --> 0:17:45,9
+But the pause is a
+psychological illusion.
+
+
+300
+0:17:45,9 --> 0:17:49,17
+If you were to just talk into
+an oscilloscope that measured
+
+
+301
+0:17:49,17 --> 0:17:52,679
+your sound vibrations,
+there are no pauses between the
+
+
+302
+0:17:52,679 --> 0:17:55,597
+words.
+Rather, the pauses are inserted
+
+
+303
+0:17:55,597 --> 0:17:59,692
+by your mind as you already know
+where one word begins and
+
+
+304
+0:17:59,692 --> 0:18:3,392
+another one ends.
+And you insert a pause at that
+
+
+305
+0:18:3,392 --> 0:18:5,967
+point.
+You could see this when you
+
+
+306
+0:18:5,967 --> 0:18:9,0
+hear a language you don't
+already know.
+
+
+307
+0:18:9,0 --> 0:18:12,261
+So, for those of you who have
+never heard French before,
+
+
+308
+0:18:12,261 --> 0:18:15,701
+when you hear somebody say,
+"Je ne sais pas" you could say,
+
+
+309
+0:18:15,701 --> 0:18:18,594
+"Remarkable!
+French has no pauses between
+
+
+310
+0:18:18,594 --> 0:18:21,27
+words."
+And you-- And now a French
+
+
+311
+0:18:21,27 --> 0:18:24,859
+speaker, of course,
+hears "Je ne sais pas."
+
+
+312
+0:18:24,859 --> 0:18:28,278
+For Hebrew, I know one sentence
+in Hebrew: "Sleecha,
+
+
+313
+0:18:28,278 --> 0:18:31,898
+eypho ha-sheeruteem" which I
+think is a request for the
+
+
+314
+0:18:31,898 --> 0:18:35,87
+bathroom.
+But if you don't know Hebrew
+
+
+315
+0:18:35,87 --> 0:18:37,869
+there's no pauses.
+And the truth is,
+
+
+316
+0:18:37,869 --> 0:18:40,572
+when you each gave your
+demonstrations,
+
+
+317
+0:18:40,572 --> 0:18:44,342
+nobody spoke properly because
+nobody spoke--Here's the
+
+
+318
+0:18:44,342 --> 0:18:47,329
+sentence: "Glorp fendel smug
+wuggle."
+
+
+319
+0:18:47,329 --> 0:18:51,652
+Rather, you all sounded like,
+"blublublublublub" without any
+
+
+320
+0:18:51,652 --> 0:18:54,95
+pauses because I don't know your
+languages.
+
+
+321
+0:18:54,95 --> 0:18:59,553
+Children come into the world
+without knowing any specific
+
+
+322
+0:18:59,553 --> 0:19:3,17
+language and so they have to
+learn pauses.
+
+
+323
+0:19:3,17 --> 0:19:8,3
+They have to learn to interpret
+sounds in context and sometimes
+
+
+324
+0:19:8,3 --> 0:19:11,698
+they make mistakes.
+They get problems of
+
+
+325
+0:19:11,698 --> 0:19:13,903
+segmentation.
+And there are some
+
+
+326
+0:19:13,903 --> 0:19:16,287
+illustrations.
+You could see their mistakes if
+
+
+327
+0:19:16,287 --> 0:19:19,612
+they're trying to repeat back
+something that's already known
+
+
+328
+0:19:19,612 --> 0:19:22,64
+within a society.
+So, songs are a good example.
+
+
+329
+0:19:22,64 --> 0:19:24,46
+These are excerpts from
+children.
+
+
+330
+0:19:24,46 --> 0:19:27,49
+"I'll never be your pizza
+burnin'."
+
+
+331
+0:19:27,49 --> 0:19:29,61
+Anybody know--figure out what
+that corresponds to?
+
+
+332
+0:19:29,61 --> 0:19:31,948
+Student: Beast of burden?
+Professor Paul Bloom:
+
+
+333
+0:19:31,948 --> 0:19:33,69
+"Beast of burden."
+Very good.
+
+
+334
+0:19:33,69 --> 0:19:38,789
+"A girl with colitis goes by."
+Somebody?
+
+
+335
+0:19:38,789 --> 0:19:41,29
+Student: "A girl with
+kaleidoscope eyes."
+
+
+336
+0:19:41,29 --> 0:19:42,18
+Professor Paul Bloom:
+"The ants are my friends;
+
+
+337
+0:19:42,18 --> 0:19:48,862
+they're blowin' in the wind."
+And [laughter]
+
+
+338
+0:19:48,862 --> 0:19:54,539
+this is a religious one.
+"Our father with Bart in heaven;
+
+
+339
+0:19:54,539 --> 0:19:59,444
+Harold be they name… Lead us
+not into Penn Station…" Now,
+
+
+340
+0:19:59,444 --> 0:20:4,185
+phonological understanding
+illustrates all sorts of aspects
+
+
+341
+0:20:4,185 --> 0:20:8,859
+of language processing and,
+in fact, of consciousness.
+
+
+342
+0:20:8,859 --> 0:20:13,414
+Because remember I said that,
+typically, when you hear a
+
+
+343
+0:20:13,414 --> 0:20:17,638
+sentence you make--you
+manufacture in your mind gaps
+
+
+344
+0:20:17,638 --> 0:20:21,258
+between the words.
+Typically, when there's
+
+
+345
+0:20:21,258 --> 0:20:25,325
+something which is unclear
+you'll fill in the gap and
+
+
+346
+0:20:25,325 --> 0:20:29,41
+figure out what the word is.
+And you'll hear it that way.
+
+
+347
+0:20:29,41 --> 0:20:32,323
+So, the few examples--The best
+examples, again,
+
+
+348
+0:20:32,323 --> 0:20:37,259
+are for when it goes wrong.
+So, a classic example is from
+
+
+349
+0:20:37,259 --> 0:20:41,319
+the song "Super Freak" by Rick
+James.
+
+
+350
+0:20:41,319 --> 0:20:46,86
+I got a big lecture about
+copyright laws and this is going
+
+
+351
+0:20:46,86 --> 0:20:49,27
+to violate most of them.
+Rick James is going to be
+
+
+352
+0:20:49,27 --> 0:20:51,533
+sitting on the--at--staring at
+the web two years from now
+
+
+353
+0:20:51,533 --> 0:20:53,0
+saying, "Hey.
+That's my thing."
+
+
+354
+0:20:53,0 --> 0:20:55,522
+Okay.
+So, I want you to listen to
+
+
+355
+0:20:55,522 --> 0:20:59,553
+this line.
+I'm sure most of you have heard
+
+
+356
+0:20:59,553 --> 0:21:4,53
+this before but I want you to
+listen closely.
+
+
+357
+0:21:4,53 --> 0:21:6,5
+What was that last line?
+
+
+358
+0:21:6,5 --> 0:21:15,29
+
+
+
+359
+0:21:15,29 --> 0:21:17,47
+[laughter]
+"The kind of girl you read
+
+
+360
+0:21:17,47 --> 0:21:20,521
+about--" Well,
+it turns out that nobody really
+
+
+361
+0:21:20,521 --> 0:21:23,687
+knows.
+And it sounds to many people
+
+
+362
+0:21:23,687 --> 0:21:28,13
+who do top-down interpretation
+as--to me as well,
+
+
+363
+0:21:28,13 --> 0:21:30,49
+that "she's the kind of girl
+you read about in
+
+
+364
+0:21:30,49 --> 0:21:34,597
+Newsweek magazine."
+But that makes no sense at all
+
+
+365
+0:21:34,597 --> 0:21:39,79
+given that you don't want to
+"bring home to Mama."
+
+
+366
+0:21:39,79 --> 0:21:42,207
+And she's--and it's not
+the--and in fact,
+
+
+367
+0:21:42,207 --> 0:21:46,38
+if you check the notes on the
+song, she's in fact,
+
+
+368
+0:21:46,38 --> 0:21:50,73
+"the kind of girl you read
+about in new wave magazines."
+
+
+369
+0:21:50,73 --> 0:21:57,233
+Now, when you listen to it
+then, again, knowing that,
+
+
+370
+0:21:57,233 --> 0:22:2,173
+you hear it that way.
+Now, this top-down--This is
+
+
+371
+0:22:2,173 --> 0:22:6,953
+known as "top-down" processing.
+Top-down processing is an
+
+
+372
+0:22:6,953 --> 0:22:12,366
+example of when you know what
+something is you hear it that
+
+
+373
+0:22:12,366 --> 0:22:16,212
+way.
+And this is extremely useful
+
+
+374
+0:22:16,212 --> 0:22:21,23
+when it comes to filling in gaps
+in sounds.
+
+
+375
+0:22:21,23 --> 0:22:26,29
+In normal conversation,
+if I'm to say "s-- entence" you
+
+
+376
+0:22:26,29 --> 0:22:29,57
+won't hear that as "s--
+entence."
+
+
+377
+0:22:29,57 --> 0:22:32,25
+Rather, you hear "sentence."
+You fill in the gap.
+
+
+378
+0:22:32,25 --> 0:22:36,999
+This can lead to problems.
+The problem it's led to in my
+
+
+379
+0:22:36,999 --> 0:22:41,26
+life revolves around the song
+"Get Crunk" [laughter]
+
+
+380
+0:22:41,26 --> 0:22:45,685
+because I've heard "Get Crunk"
+and my children asked me if I
+
+
+381
+0:22:45,685 --> 0:22:49,16
+would buy them "Get Crunk" from
+iTunes.
+
+
+382
+0:22:49,16 --> 0:22:53,0
+My children are eight and ten.
+And now "Get Crunk," as I was
+
+
+383
+0:22:53,0 --> 0:22:57,9
+aware from having heard it
+before, involves the consistent
+
+
+384
+0:22:57,9 --> 0:23:0,319
+refrain of "get crunk" extremely
+bad word,
+
+
+385
+0:23:0,319 --> 0:23:4,109
+"get crunk" extremely bad word,
+and so I said "no."
+
+
+386
+0:23:4,109 --> 0:23:6,264
+And then they said,
+"Well, there's a clean version
+
+
+387
+0:23:6,264 --> 0:23:9,118
+of it."
+So, I downloaded the clean
+
+
+388
+0:23:9,118 --> 0:23:10,987
+version.
+Unfortunately,
+
+
+389
+0:23:10,987 --> 0:23:14,766
+knowing what the clean
+version--knowing what the word
+
+
+390
+0:23:14,766 --> 0:23:18,69
+is means to me the clean version
+is not very clean.
+
+
+391
+0:23:18,69 --> 0:23:21,896
+Now, I will add,
+[laughter]
+
+
+392
+0:23:21,896 --> 0:23:28,68
+before people write letters and
+stuff, this is the clean
+
+
+393
+0:23:28,68 --> 0:23:31,348
+version.
+[laughter]
+
+
+394
+0:23:31,348 --> 0:23:37,17
+Thank goodness they took away
+that obscene word.
+
+
+395
+0:23:37,17 --> 0:23:42,1
+[laughter] Okay.
+So, top-down processing affects
+
+
+396
+0:23:42,1 --> 0:23:45,313
+how we hear things,
+usually, almost always,
+
+
+397
+0:23:45,313 --> 0:23:47,395
+for the better.
+And in fact,
+
+
+398
+0:23:47,395 --> 0:23:50,804
+this is a theme we're going to
+return to next class when we
+
+
+399
+0:23:50,804 --> 0:23:54,213
+talk about vision because the
+same thing is going to happen
+
+
+400
+0:23:54,213 --> 0:23:57,686
+there.
+How we see the world is often
+
+
+401
+0:23:57,686 --> 0:24:3,73
+confusing and befuddled but what
+we know can clear things up.
+
+
+402
+0:24:3,73 --> 0:24:4,63
+Same with sound.
+
+
+403
+0:24:4,63 --> 0:24:8,0
+
+
+
+404
+0:24:8,0 --> 0:24:11,84
+Morphology is the next level up.
+Phonology is sounds.
+
+
+405
+0:24:11,84 --> 0:24:16,28
+Morphology is words.
+And human language uses this
+
+
+406
+0:24:16,28 --> 0:24:19,812
+amazing trick described by
+Ferdinand de Saussure,
+
+
+407
+0:24:19,812 --> 0:24:23,27
+the great linguist,
+as "the arbitrariness of the
+
+
+408
+0:24:23,27 --> 0:24:26,593
+sign."
+And what this means is we can
+
+
+409
+0:24:26,593 --> 0:24:31,88
+use--take any arbitrary idea in
+the world, the idea of a chair
+
+
+410
+0:24:31,88 --> 0:24:36,704
+or a story or a country,
+and make a sound or a sign to
+
+
+411
+0:24:36,704 --> 0:24:40,16
+connect to it.
+And the link is arbitrary.
+
+
+412
+0:24:40,16 --> 0:24:44,75
+You might choose to use a word
+for "dog" as "woof woof" because
+
+
+413
+0:24:44,75 --> 0:24:49,44
+it sounds like a dog but you
+can't use a word for "country"
+
+
+414
+0:24:49,44 --> 0:24:53,78
+that sounds like a country.
+You could use a sign language
+
+
+415
+0:24:53,78 --> 0:24:56,674
+thing for "drink" that looks
+sort of like the act of drinking
+
+
+416
+0:24:56,674 --> 0:25:0,31
+but you can't use a sign
+language word for "country" that
+
+
+417
+0:25:0,31 --> 0:25:3,78
+looks like a country,
+or for "idea" that looks like
+
+
+418
+0:25:3,78 --> 0:25:6,618
+an idea.
+So, the way languages work is
+
+
+419
+0:25:6,618 --> 0:25:11,821
+it allows for arbitrary naming.
+It allows for this map between
+
+
+420
+0:25:11,821 --> 0:25:17,369
+a symbol, say a spoken word,
+and any sort of thought we want
+
+
+421
+0:25:17,369 --> 0:25:20,823
+to use.
+And those arbitrary mappings,
+
+
+422
+0:25:20,823 --> 0:25:25,329
+as we come to learn them,
+make up the vocabulary of a
+
+
+423
+0:25:25,329 --> 0:25:28,69
+language.
+I'm talking about words but the
+
+
+424
+0:25:28,69 --> 0:25:31,309
+more technical term is
+"morpheme."
+
+
+425
+0:25:31,309 --> 0:25:35,546
+And what a morpheme is is the
+smallest meaningful unit in a
+
+
+426
+0:25:35,546 --> 0:25:38,221
+language.
+Now often, this is the same
+
+
+427
+0:25:38,221 --> 0:25:40,789
+thing as a word.
+So, "dog" is a word.
+
+
+428
+0:25:40,789 --> 0:25:43,991
+And "dog" is also a morpheme,
+but not always because there
+
+
+429
+0:25:43,991 --> 0:25:46,968
+are single morphemes and then
+there are words that are
+
+
+430
+0:25:46,968 --> 0:25:51,466
+composed of many morphemes.
+So, "dogs" and "complained" are
+
+
+431
+0:25:51,466 --> 0:25:57,69
+one word, but two morphemes and
+what this means is that you make
+
+
+432
+0:25:57,69 --> 0:26:1,16
+the word by putting together two
+morphemes.
+
+
+433
+0:26:1,16 --> 0:26:4,435
+To put it differently,
+in order to know what "dogs"
+
+
+434
+0:26:4,435 --> 0:26:7,579
+means, you never had to learn
+the word "dogs."
+
+
+435
+0:26:7,579 --> 0:26:11,628
+All you had to know is the word
+"dog" and the plural morpheme
+
+
+436
+0:26:11,628 --> 0:26:15,339
+'s' and you could put them
+together to create a word.
+
+
+437
+0:26:15,339 --> 0:26:20,2
+How many morphemes does the
+average speaker know?
+
+
+438
+0:26:20,2 --> 0:26:25,217
+The answer is fairly startling.
+The average speaker knows,
+
+
+439
+0:26:25,217 --> 0:26:28,97
+as a low-ball estimate,
+about 60,000 words.
+
+
+440
+0:26:28,97 --> 0:26:34,849
+I think the proper estimate is
+closer to 80,000 or 100,000.
+
+
+441
+0:26:34,849 --> 0:26:37,27
+What this means,
+if you average it out,
+
+
+442
+0:26:37,27 --> 0:26:40,294
+is that since children start
+learning their first words at
+
+
+443
+0:26:40,294 --> 0:26:44,959
+about their first year of life,
+they learn about nine new words
+
+
+444
+0:26:44,959 --> 0:26:49,772
+a day.
+And it's not a continuous nine
+
+
+445
+0:26:49,772 --> 0:26:54,13
+words every day.
+It goes up and down depending
+
+
+446
+0:26:54,13 --> 0:26:56,8
+on the age.
+But still, the amount of words
+
+
+447
+0:26:56,8 --> 0:27:0,71
+we know is staggering.
+How many of you know more than
+
+
+448
+0:27:0,71 --> 0:27:4,891
+one language pretty fluently?
+Those of you who know other
+
+
+449
+0:27:4,891 --> 0:27:8,804
+languages might have in your
+heads 200,000 words or 300,000
+
+
+450
+0:27:8,804 --> 0:27:12,92
+words and you're accessing them
+in a fraction of a second.
+
+
+451
+0:27:12,92 --> 0:27:18,254
+It is--could legitimately be
+seen as one of the most
+
+
+452
+0:27:18,254 --> 0:27:22,2
+astonishing things that people
+do.
+
+
+453
+0:27:22,2 --> 0:27:26,28
+Finally, syntax.
+So, we have the sound system of
+
+
+454
+0:27:26,28 --> 0:27:29,381
+a language, the phonology.
+We have the words of a
+
+
+455
+0:27:29,381 --> 0:27:33,36
+language, the morphology,
+but all that gives you is
+
+
+456
+0:27:33,36 --> 0:27:37,42
+"dog," "cup," "chair," "house,"
+"story," "idea."
+
+
+457
+0:27:37,42 --> 0:27:41,299
+That won't allow us to
+communicate complicated ideas.
+
+
+458
+0:27:41,299 --> 0:27:45,59
+So, the final step in the story
+is syntax.
+
+
+459
+0:27:45,59 --> 0:27:49,423
+And syntax refers to those
+rules and principles that allow
+
+
+460
+0:27:49,423 --> 0:27:54,17
+us to combine words into phrases
+and phrases into sentences.
+
+
+461
+0:27:54,17 --> 0:27:59,616
+And syntax uses another neat
+trick and this is defined by
+
+
+462
+0:27:59,616 --> 0:28:5,55
+Wilhelm von Humboldt as the
+"infinite use of finite media."
+
+
+463
+0:28:5,55 --> 0:28:9,17
+So, here's the question.
+Your vocabulary is finite.
+
+
+464
+0:28:9,17 --> 0:28:12,681
+There are just so many words.
+You have to learn them one by
+
+
+465
+0:28:12,681 --> 0:28:16,72
+one, but you could produce a
+virtual infinity of sentences.
+
+
+466
+0:28:16,72 --> 0:28:20,738
+How can you do that?
+How can you go from a finite
+
+
+467
+0:28:20,738 --> 0:28:25,359
+list of symbols to an infinite
+number of sentences?
+
+
+468
+0:28:25,359 --> 0:28:30,789
+And the answer is you have a
+combinatorial system.
+
+
+469
+0:28:30,789 --> 0:28:34,965
+Now, language is not the only
+thing in culture or nature that
+
+
+470
+0:28:34,965 --> 0:28:37,75
+has this sort of combinatorial
+system.
+
+
+471
+0:28:37,75 --> 0:28:40,789
+Music also has a combinatorial
+system.
+
+
+472
+0:28:40,789 --> 0:28:43,839
+There's a finite number of
+notes but a limitless number of
+
+
+473
+0:28:43,839 --> 0:28:47,545
+musical compositions.
+DNA also has this sort of
+
+
+474
+0:28:47,545 --> 0:28:53,89
+combinatorial system where you
+have a finite number of,
+
+
+475
+0:28:53,89 --> 0:28:57,176
+I guess, bases or amino acids
+that could combine to a possible
+
+
+476
+0:28:57,176 --> 0:29:0,81
+infinity of strings,
+of DNA strings.
+
+
+477
+0:29:0,81 --> 0:29:3,9
+
+
+
+478
+0:29:3,9 --> 0:29:8,233
+So, how does this happen?
+Well, the infinity mechanism,
+
+
+479
+0:29:8,233 --> 0:29:11,253
+and many of you will be
+familiar with this from
+
+
+480
+0:29:11,253 --> 0:29:14,47
+mathematics or computer science,
+is recursion.
+
+
+481
+0:29:14,47 --> 0:29:17,744
+And there's a lot to be said
+about this but it could be
+
+
+482
+0:29:17,744 --> 0:29:20,17
+pretty simply illustrated in
+language.
+
+
+483
+0:29:20,17 --> 0:29:22,68
+So, here's an example of a
+simple language.
+
+
+484
+0:29:22,68 --> 0:29:27,1
+It's not--It's actually close
+to how linguists describe normal
+
+
+485
+0:29:27,1 --> 0:29:31,89
+languages, but it's very simple.
+It has three nouns,
+
+
+486
+0:29:31,89 --> 0:29:34,889
+"Fred," "Barney" and "Wilma,"
+and two verbs,
+
+
+487
+0:29:34,889 --> 0:29:38,59
+"thinks" and "likes."
+A very simple language.
+
+
+488
+0:29:38,59 --> 0:29:42,783
+And one rule.
+And the way to read this rule
+
+
+489
+0:29:42,783 --> 0:29:47,46
+is you make a sentence by taking
+a noun, any noun,
+
+
+490
+0:29:47,46 --> 0:29:51,57
+putting a verb after it,
+and then following that verb
+
+
+491
+0:29:51,57 --> 0:29:54,849
+with a noun.
+Now, when you do this,
+
+
+492
+0:29:54,849 --> 0:29:57,712
+how many--And then so,
+for instance,
+
+
+493
+0:29:57,712 --> 0:30:1,23
+you get the sentence "Fred
+likes Wilma."
+
+
+494
+0:30:1,23 --> 0:30:4,349
+When you do this,
+how many possible sentences are
+
+
+495
+0:30:4,349 --> 0:30:6,91
+there?
+Let me just take a second.
+
+
+496
+0:30:6,91 --> 0:30:12,9
+Okay.
+Any guesses?
+
+
+497
+0:30:12,9 --> 0:30:16,268
+Eighteen.
+The sentences are "Fred likes
+
+
+498
+0:30:16,268 --> 0:30:19,13
+Fred," "Fred likes Barney,"
+"Fred likes Wilma,"
+
+
+499
+0:30:19,13 --> 0:30:21,976
+"Fred thinks Fred," "Fred
+thinks Barney," "Fred thinks
+
+
+500
+0:30:21,976 --> 0:30:25,28
+Wilma," and so on.
+The three nouns followed by any
+
+
+501
+0:30:25,28 --> 0:30:28,41
+of the two verbs followed by any
+of the three nouns.
+
+
+502
+0:30:28,41 --> 0:30:30,74
+That is not a very interesting
+language.
+
+
+503
+0:30:30,74 --> 0:30:34,777
+But now, take a more
+complicated language--same
+
+
+504
+0:30:34,777 --> 0:30:39,341
+vocabulary, the same three
+nouns, the same two verbs,
+
+
+505
+0:30:39,341 --> 0:30:43,73
+the same sentence,
+but now one other sentence.
+
+
+506
+0:30:43,73 --> 0:30:48,529
+This sentence expands to a noun
+followed by a verb followed by a
+
+
+507
+0:30:48,529 --> 0:30:51,5
+sentence and there you get
+recursion.
+
+
+508
+0:30:51,5 --> 0:30:57,96
+You have one rule invoking
+another rule and then you can
+
+
+509
+0:30:57,96 --> 0:31:4,42
+get a sentence like "Fred thinks
+Barney likes Wilma."
+
+
+510
+0:31:4,42 --> 0:31:9,18
+And here you get a potential
+infinity of sentences.
+
+
+511
+0:31:9,18 --> 0:31:14,201
+And this is obviously a toy
+example but you could see the
+
+
+512
+0:31:14,201 --> 0:31:19,134
+use of recursion in everyday
+life and in everyday use of
+
+
+513
+0:31:19,134 --> 0:31:21,18
+language.
+You could say,
+
+
+514
+0:31:21,18 --> 0:31:24,701
+"John hates cheese," "My
+roommate heard a rumor that John
+
+
+515
+0:31:24,701 --> 0:31:26,9
+hates cheese,"
+"It disturbed Mary when I told
+
+
+516
+0:31:26,9 --> 0:31:29,16
+her that my roommate heard a
+rumor that John hates cheese,"
+
+
+517
+0:31:29,16 --> 0:31:31,263
+"I was amazed that it disturbed
+Mary when I told her that my
+
+
+518
+0:31:31,263 --> 0:31:33,9
+roommate heard a rumor that John
+hates cheese,"
+
+
+519
+0:31:33,9 --> 0:31:34,89
+"Professor Bloom had devoted
+way too much of his lecture
+
+
+520
+0:31:34,89 --> 0:31:36,258
+talking about how I was amazed
+[laughter]
+
+
+521
+0:31:36,258 --> 0:31:38,31
+that it disturbed Mary when I
+told her that my roommate heard
+
+
+522
+0:31:38,31 --> 0:31:42,119
+a rumor that John hates cheese,"
+"It really bothered me that--"
+
+
+523
+0:31:42,119 --> 0:31:46,79
+and there's no limit.
+There's no longest sentence.
+
+
+524
+0:31:46,79 --> 0:31:49,213
+You could keep producing a
+sentence deeper and deeper
+
+
+525
+0:31:49,213 --> 0:31:52,867
+embedded until you die.
+And this is part of the power
+
+
+526
+0:31:52,867 --> 0:31:56,247
+of language.
+Now, the syntactic rules are
+
+
+527
+0:31:56,247 --> 0:31:59,136
+complicated.
+And one of the puzzles of
+
+
+528
+0:31:59,136 --> 0:32:2,315
+syntactic rules,
+or one of the issues of them,
+
+
+529
+0:32:2,315 --> 0:32:6,13
+is that different rules can
+conspire to create the same
+
+
+530
+0:32:6,13 --> 0:32:8,771
+sentence.
+So, you take a sentence
+
+
+531
+0:32:8,771 --> 0:32:12,74
+like--This is a classic line
+from Groucho Marx:
+
+
+532
+0:32:12,74 --> 0:32:15,89
+"I once shot an elephant in my
+pajamas.
+
+
+533
+0:32:15,89 --> 0:32:17,91
+How it got into my pajamas I'll
+never know."
+
+
+534
+0:32:17,91 --> 0:32:20,131
+And the humor,
+such that it is,
+
+
+535
+0:32:20,131 --> 0:32:24,204
+revolves around the ambiguity
+of rules that generate it,
+
+
+536
+0:32:24,204 --> 0:32:29,553
+like this versus like this.
+Often, to illustrate the issues
+
+
+537
+0:32:29,553 --> 0:32:33,591
+of ambiguity,
+people have collected poorly
+
+
+538
+0:32:33,591 --> 0:32:38,614
+thought-out headlines in
+newspaper reports that play
+
+
+539
+0:32:38,614 --> 0:32:42,849
+on--that inadvertently have
+ambiguity.
+
+
+540
+0:32:42,849 --> 0:32:45,809
+"Complaints about NBA referees
+growing ugly."
+
+
+541
+0:32:45,809 --> 0:32:48,73
+So, that's the beauty of that
+structure.
+
+
+542
+0:32:48,73 --> 0:32:54,461
+"Kids make nutritious snacks."
+"No one was injured in a blast
+
+
+543
+0:32:54,461 --> 0:32:58,314
+which was attributed to the
+buildup of gas by one town
+
+
+544
+0:32:58,314 --> 0:33:1,811
+official."
+Last summer I was in Seoul
+
+
+545
+0:33:1,811 --> 0:33:7,602
+visiting the--visiting Korea
+University and the big headline
+
+
+546
+0:33:7,602 --> 0:33:13,197
+there on the front page was
+"General arrested for fondling
+
+
+547
+0:33:13,197 --> 0:33:15,522
+privates."
+[laughter]
+
+
+548
+0:33:15,522 --> 0:33:20,126
+Now, there actually is--The
+ambiguity is actually quite
+
+
+549
+0:33:20,126 --> 0:33:24,815
+difficult to avoid in the
+construction and understanding
+
+
+550
+0:33:24,815 --> 0:33:28,47
+of sentences.
+It's one of the ways in which
+
+
+551
+0:33:28,47 --> 0:33:31,89
+it's often difficult to write
+clearly, and in fact,
+
+
+552
+0:33:31,89 --> 0:33:36,125
+there's a whole sub-field of
+the law involving the use of
+
+
+553
+0:33:36,125 --> 0:33:40,621
+linguistic theory to
+disambiguate sentences both in
+
+
+554
+0:33:40,621 --> 0:33:44,357
+the Constitution,
+in legislation,
+
+
+555
+0:33:44,357 --> 0:33:48,67
+as well as in some criminal
+cases.
+
+
+556
+0:33:48,67 --> 0:33:51,837
+And there was,
+several years ago,
+
+
+557
+0:33:51,837 --> 0:33:57,48
+a very serious criminal case
+that rested on a sentence.
+
+
+558
+0:33:57,48 --> 0:34:0,438
+And here's what happened.
+There were two brothers,
+
+
+559
+0:34:0,438 --> 0:34:3,599
+one of them retarded,
+and they get into a robbery.
+
+
+560
+0:34:3,599 --> 0:34:9,289
+And a police officer sees them
+and points the gun at them.
+
+
+561
+0:34:9,289 --> 0:34:15,48
+And one of the brothers points
+a gun at the police officer.
+
+
+562
+0:34:15,48 --> 0:34:19,683
+The police officer shouts for
+the brother, the non-retarded
+
+
+563
+0:34:19,683 --> 0:34:23,138
+brother, to drop the gun.
+Actually, he said,
+
+
+564
+0:34:23,138 --> 0:34:27,294
+"Give me the gun."
+The retarded brother shouted,
+
+
+565
+0:34:27,294 --> 0:34:32,532
+"Let him have it," whereupon
+the brother shot and killed the
+
+
+566
+0:34:32,532 --> 0:34:35,842
+police officer.
+Now, the brother who did the
+
+
+567
+0:34:35,842 --> 0:34:39,347
+shooting was plainly a murderer.
+What about that brother who
+
+
+568
+0:34:39,347 --> 0:34:43,448
+shouted, "Let him have it"?
+Well, it depends on what he--on
+
+
+569
+0:34:43,448 --> 0:34:47,906
+how you interpret that sentence
+because the sentence is
+
+
+570
+0:34:47,906 --> 0:34:52,189
+beautifully ambiguous.
+It could mean "shoot him,
+
+
+571
+0:34:52,189 --> 0:34:56,804
+let him have it," or it could
+mean "give him the gun,
+
+
+572
+0:34:56,804 --> 0:34:59,167
+let him have it."
+And in fact,
+
+
+573
+0:34:59,167 --> 0:35:1,762
+the trial, which I think
+somebody could--If people out
+
+
+574
+0:35:1,762 --> 0:35:4,26
+there know about this,
+please send me an e-mail.
+
+
+575
+0:35:4,26 --> 0:35:8,63
+My understanding was he was
+found guilty but a lot to turn
+
+
+576
+0:35:8,63 --> 0:35:13,349
+on the ambiguity of a sentence.
+I want to shift now and talk
+
+
+577
+0:35:13,349 --> 0:35:17,495
+about where does all this
+knowledge come from but I'll
+
+
+578
+0:35:17,495 --> 0:35:22,11
+stop and answer any questions
+about the material so far.
+
+
+579
+0:35:22,11 --> 0:35:24,809
+What are your questions?
+Yes.
+
+
+580
+0:35:24,809 --> 0:35:27,565
+Student: How does syntax
+differ from grammar or are they
+
+
+581
+0:35:27,565 --> 0:35:29,207
+exactly the same?
+Professor Paul Bloom:
+
+
+582
+0:35:29,207 --> 0:35:30,718
+Syntax--The question is,
+"How is syntax different from
+
+
+583
+0:35:30,718 --> 0:35:33,119
+grammar?"
+They're exactly the same.
+
+
+584
+0:35:33,119 --> 0:35:39,451
+Syntax is a more technical term
+but it means the same thing as
+
+
+585
+0:35:39,451 --> 0:35:41,51
+grammar.
+Yes.
+
+
+586
+0:35:41,51 --> 0:35:44,59
+Student: You said that
+every normal human being that's
+
+
+587
+0:35:44,59 --> 0:35:47,619
+born uses at some point or
+another some kind of language.
+
+
+588
+0:35:47,619 --> 0:35:52,618
+Aren't there people who weren't
+born within a culture and grew
+
+
+589
+0:35:52,618 --> 0:35:57,207
+up and who never really spoke a
+language though they were
+
+
+590
+0:35:57,207 --> 0:35:59,561
+physically normal?
+Professor Paul Bloom:
+
+
+591
+0:35:59,561 --> 0:36:1,37
+Yes.
+I'm glad you actually asked me
+
+
+592
+0:36:1,37 --> 0:36:2,506
+about that because,
+as I said it,
+
+
+593
+0:36:2,506 --> 0:36:4,159
+I realized it wasn't quite
+right.
+
+
+594
+0:36:4,159 --> 0:36:7,942
+The point that was just raised
+here is I had said before that
+
+
+595
+0:36:7,942 --> 0:36:11,536
+everybody who's neurologically
+normal comes to acquire and
+
+
+596
+0:36:11,536 --> 0:36:14,606
+learn a language.
+But what about people who are
+
+
+597
+0:36:14,606 --> 0:36:18,46
+neurologically normal but they
+don't have language around them?
+
+
+598
+0:36:18,46 --> 0:36:20,166
+And in fact,
+there have been,
+
+
+599
+0:36:20,166 --> 0:36:22,3
+historically,
+some cases of this.
+
+
+600
+0:36:22,3 --> 0:36:24,662
+There's been,
+probably apocryphal,
+
+
+601
+0:36:24,662 --> 0:36:29,3
+stories about children who are
+raised by wolves or by dogs.
+
+
+602
+0:36:29,3 --> 0:36:31,525
+There are stories,
+horrible stories,
+
+
+603
+0:36:31,525 --> 0:36:35,732
+some in the twentieth century,
+about children who are locked
+
+
+604
+0:36:35,732 --> 0:36:40,51
+away by insane or evil parents
+and have never learned to speak.
+
+
+605
+0:36:40,51 --> 0:36:43,738
+There are stories of deaf
+people who are within certain
+
+
+606
+0:36:43,738 --> 0:36:47,206
+societies where nobody signs to
+them, and so they're what's
+
+
+607
+0:36:47,206 --> 0:36:50,979
+known as linguistic isolates.
+And they themselves never learn
+
+
+608
+0:36:50,979 --> 0:36:53,337
+to speak.
+And those cases are the
+
+
+609
+0:36:53,337 --> 0:36:57,28
+dramatic exception and they do
+tell you something.
+
+
+610
+0:36:57,28 --> 0:36:59,118
+They tell you that it's not
+enough to have a brain for
+
+
+611
+0:36:59,118 --> 0:37:2,3
+language.
+Somebody does have to use it
+
+
+612
+0:37:2,3 --> 0:37:4,5
+with you.
+Interestingly,
+
+
+613
+0:37:4,5 --> 0:37:7,929
+it doesn't have to be that many
+people.
+
+
+614
+0:37:7,929 --> 0:37:11,533
+So, Susan Goldin-Meadow has
+studied deaf children that
+
+
+615
+0:37:11,533 --> 0:37:15,476
+nobody signed to but what she
+studies is deaf children with
+
+
+616
+0:37:15,476 --> 0:37:19,42
+deaf siblings and these children
+don't just sit there.
+
+
+617
+0:37:19,42 --> 0:37:23,52
+They create their own language.
+It's not a full-blown language
+
+
+618
+0:37:23,52 --> 0:37:25,656
+like American sign-language or
+langue des signes
+
+
+619
+0:37:25,656 --> 0:37:28,26
+quebecoise but it's a
+language nonetheless,
+
+
+620
+0:37:28,26 --> 0:37:31,3
+with words and syntax and
+phonology.
+
+
+621
+0:37:31,3 --> 0:37:39,4
+It's an interesting question.
+Any other questions?
+
+
+622
+0:37:39,4 --> 0:37:46,154
+Yes.
+Student: Could it be
+
+
+623
+0:37:46,154 --> 0:37:56,46
+argued that there are inherent
+limits to grammar?
+
+
+624
+0:37:56,46 --> 0:37:58,59
+Professor Paul Bloom:
+It's a good question.
+
+
+625
+0:37:58,59 --> 0:38:0,63
+The question is,
+"Are there inherent limits in
+
+
+626
+0:38:0,63 --> 0:38:3,3
+our abilities to come up with
+grammars?"
+
+
+627
+0:38:3,3 --> 0:38:7,18
+And most linguists would argue
+"yes," that languages are highly
+
+
+628
+0:38:7,18 --> 0:38:9,59
+constrained in how they do
+things.
+
+
+629
+0:38:9,59 --> 0:38:12,947
+So, for instance,
+one example is there's no
+
+
+630
+0:38:12,947 --> 0:38:17,343
+language in the world that ever
+constructs a question by
+
+
+631
+0:38:17,343 --> 0:38:21,659
+switching the order of words
+around in a sentence.
+
+
+632
+0:38:21,659 --> 0:38:25,731
+There's no language in the
+world that has a rule that says
+
+
+633
+0:38:25,731 --> 0:38:29,559
+the fifth word has to be a verb.
+And linguists have all of these
+
+
+634
+0:38:29,559 --> 0:38:31,862
+conditions they say,
+"no language in the world works
+
+
+635
+0:38:31,862 --> 0:38:33,462
+this way."
+Now this is--;So,
+
+
+636
+0:38:33,462 --> 0:38:36,44
+these are constraints on
+grammar and they're really
+
+
+637
+0:38:36,44 --> 0:38:39,775
+interesting because they tell us
+what's a humanly natural
+
+
+638
+0:38:39,775 --> 0:38:43,289
+language versus what's not a
+humanly natural language.
+
+
+639
+0:38:43,289 --> 0:38:46,603
+But notice, even if there is
+incredible constraints on
+
+
+640
+0:38:46,603 --> 0:38:50,354
+grammars, still--we could still
+produce an infinite number of
+
+
+641
+0:38:50,354 --> 0:38:53,458
+sentences.
+It's just like if you restrict
+
+
+642
+0:38:53,458 --> 0:38:57,321
+me to only a subset of numbers,
+only the odd numbers,
+
+
+643
+0:38:57,321 --> 0:39:0,59
+still there's an infinity of
+odd numbers.
+
+
+644
+0:39:0,59 --> 0:39:7,132
+So, grammar can be restricted
+but still give rise to an
+
+
+645
+0:39:7,132 --> 0:39:13,204
+infinity of possible sentences.
+Well, there's a radical claim
+
+
+646
+0:39:13,204 --> 0:39:17,354
+about the origin of language
+associated with the guy who we
+
+
+647
+0:39:17,354 --> 0:39:20,932
+met when we talked about
+behaviorism who wrote A
+
+
+648
+0:39:20,932 --> 0:39:24,949
+Review of Verbal Behavior,
+ the linguist Noam Chomsky.
+
+
+649
+0:39:24,949 --> 0:39:28,79
+And Chomsky makes this radical
+claim.
+
+
+650
+0:39:28,79 --> 0:39:31,297
+And this is that we shouldn't
+view language learning as
+
+
+651
+0:39:31,297 --> 0:39:34,23
+learning at all.
+Instead, we should view it as
+
+
+652
+0:39:34,23 --> 0:39:37,19
+something similar to growth.
+So he says, 
+
+
+653
+0:39:37,19 --> 0:39:39,88
+No one would take
+seriously the proposal that a
+
+
+654
+0:39:39,88 --> 0:39:42,933
+human organism learns through
+experience to have arms rather
+
+
+655
+0:39:42,933 --> 0:39:45,138
+than wings,
+or that the basic structure of
+
+
+656
+0:39:45,138 --> 0:39:47,71
+particular organs results from
+accidental experience.
+
+
+657
+0:39:47,71 --> 0:39:49,641
+[Language]
+proves to be no less marvelous
+
+
+658
+0:39:49,641 --> 0:39:51,909
+and intricate than these
+physical structures.
+
+
+659
+0:39:51,909 --> 0:39:55,329
+Why, then, should we not study
+the acquisition of a cognitive
+
+
+660
+0:39:55,329 --> 0:39:58,749
+structure like language more or
+less as we study some complex
+
+
+661
+0:39:58,749 --> 0:40:1,775
+bodily organ?
+So, you might learn to play
+
+
+662
+0:40:1,775 --> 0:40:5,205
+baseball, you might learn about
+the American Civil War,
+
+
+663
+0:40:5,205 --> 0:40:9,79
+but if Chomsky is right you
+didn't learn to speak English.
+
+
+664
+0:40:9,79 --> 0:40:12,85
+Rather, what happened is you
+heard English and--but the
+
+
+665
+0:40:12,85 --> 0:40:17,109
+capacity grew in your head and
+something a lot more similar to
+
+
+666
+0:40:17,109 --> 0:40:20,95
+the development of arms or legs
+or a visual system.
+
+
+667
+0:40:20,95 --> 0:40:25,559
+Well, should we believe this?
+We know there has to be some
+
+
+668
+0:40:25,559 --> 0:40:28,828
+effect of the environment
+shaping language,
+
+
+669
+0:40:28,828 --> 0:40:31,107
+obviously,
+because in order to know
+
+
+670
+0:40:31,107 --> 0:40:34,329
+English you have to have heard
+English, in order to know Dutch
+
+
+671
+0:40:34,329 --> 0:40:37,884
+you have had to heard,
+to--had to have learned and
+
+
+672
+0:40:37,884 --> 0:40:39,569
+heard Dutch.
+And in fact,
+
+
+673
+0:40:39,569 --> 0:40:42,67
+languages differ in all the
+ways that we were talking about.
+
+
+674
+0:40:42,67 --> 0:40:46,708
+Some languages like English has
+a--have a distinction between
+
+
+675
+0:40:46,708 --> 0:40:49,44
+‘l' and ‘r.'
+Other languages do not.
+
+
+676
+0:40:49,44 --> 0:40:53,898
+For a language like English,
+that creature there is referred
+
+
+677
+0:40:53,898 --> 0:40:57,655
+to with the morpheme "dog."
+That's a historical accident of
+
+
+678
+0:40:57,655 --> 0:41:1,855
+English.
+In French it's chien and
+
+
+679
+0:41:1,855 --> 0:41:6,615
+in Greek it's something else.
+And each of those 6,000
+
+
+680
+0:41:6,615 --> 0:41:9,724
+languages and people in the room
+who know another language would
+
+
+681
+0:41:9,724 --> 0:41:11,539
+say,
+"Yeah, in Vietnamese it's
+
+
+682
+0:41:11,539 --> 0:41:14,48
+this," "In Urdu it's this," "In
+Czech it's that."
+
+
+683
+0:41:14,48 --> 0:41:19,76
+Finally, there is syntax.
+So, English is what's known as
+
+
+684
+0:41:19,76 --> 0:41:24,292
+a subject-verb-object language.
+That means if you want to
+
+
+685
+0:41:24,292 --> 0:41:28,217
+convey the idea that Bill hit
+John, you would say,
+
+
+686
+0:41:28,217 --> 0:41:32,99
+"Bill hit John."
+But not all languages work that
+
+
+687
+0:41:32,99 --> 0:41:34,139
+way.
+In fact, the majority of
+
+
+688
+0:41:34,139 --> 0:41:36,767
+languages, more languages,
+are actually
+
+
+689
+0:41:36,767 --> 0:41:40,338
+subject-object-verb languages.
+So, you would say,
+
+
+690
+0:41:40,338 --> 0:41:44,632
+if you wanted to convey that
+Bill was the hitter and John was
+
+
+691
+0:41:44,632 --> 0:41:48,26
+hit, "Bill John hit."
+All of this has to be learned.
+
+
+692
+0:41:48,26 --> 0:41:51,756
+And all of this has to be
+learned through exposure to
+
+
+693
+0:41:51,756 --> 0:41:54,499
+language users.
+On the other hand,
+
+
+694
+0:41:54,499 --> 0:41:59,741
+there is considerable evidence
+that the development of these
+
+
+695
+0:41:59,741 --> 0:42:2,814
+language skills,
+in some way,
+
+
+696
+0:42:2,814 --> 0:42:9,159
+is similar to growth in the way
+that Chomsky suggests.
+
+
+697
+0:42:9,159 --> 0:42:12,469
+So, here are some basic facts
+about language development.
+
+
+698
+0:42:12,469 --> 0:42:15,39
+One is something which I had
+mentioned before.
+
+
+699
+0:42:15,39 --> 0:42:21,92
+All normal children learn
+language.
+
+
+700
+0:42:21,92 --> 0:42:25,19
+There can be specific
+impairments of language.
+
+
+701
+0:42:25,19 --> 0:42:28,11
+Now, again, we spoke about them
+before when talking about the
+
+
+702
+0:42:28,11 --> 0:42:30,845
+brain.
+Some of these impairments could
+
+
+703
+0:42:30,845 --> 0:42:33,36
+be due to trauma,
+the aphasias.
+
+
+704
+0:42:33,36 --> 0:42:38,159
+Trauma, a blow to the head,
+a stroke can rid you of your
+
+
+705
+0:42:38,159 --> 0:42:40,947
+language.
+But, also, there are genetic
+
+
+706
+0:42:40,947 --> 0:42:44,731
+disorders, some falling under
+the rubric of what's known as
+
+
+707
+0:42:44,731 --> 0:42:49,889
+"specific language impairment,"
+where children are born without
+
+
+708
+0:42:49,889 --> 0:42:55,1
+the same ability as the rest of
+us to learn to speak.
+
+
+709
+0:42:55,1 --> 0:42:58,13
+And these are interesting in
+many ways.
+
+
+710
+0:42:58,13 --> 0:43:1,347
+One reason that they're
+interesting is that they
+
+
+711
+0:43:1,347 --> 0:43:4,36
+illustrate something about human
+language.
+
+
+712
+0:43:4,36 --> 0:43:8,101
+It is not--It would not be
+unreasonable for you to think
+
+
+713
+0:43:8,101 --> 0:43:10,889
+before listening to his lecture,
+"Look.
+
+
+714
+0:43:10,889 --> 0:43:14,974
+All you need to have to learn a
+language is to be smart" or "All
+
+
+715
+0:43:14,974 --> 0:43:18,151
+you need to have to learn a
+language is to want to
+
+
+716
+0:43:18,151 --> 0:43:22,171
+communicate" or "All you need to
+have to learn a language is to
+
+
+717
+0:43:22,171 --> 0:43:25,477
+be a social person wanting
+to--having the ability to
+
+
+718
+0:43:25,477 --> 0:43:28,59
+understand others and deal with
+others."
+
+
+719
+0:43:28,59 --> 0:43:32,208
+But the cases of specific
+language impairments suggest
+
+
+720
+0:43:32,208 --> 0:43:36,336
+that all of that is wrong,
+because there are children in
+
+
+721
+0:43:36,336 --> 0:43:39,47
+this world right now who are
+plenty smart,
+
+
+722
+0:43:39,47 --> 0:43:44,682
+who really want to communicate,
+and who are entirely social
+
+
+723
+0:43:44,682 --> 0:43:48,65
+creatures but they can't learn
+language.
+
+
+724
+0:43:48,65 --> 0:43:52,522
+And this suggests that the
+ability to learn language and
+
+
+725
+0:43:52,522 --> 0:43:56,888
+understand language is to some
+extent separate from these other
+
+
+726
+0:43:56,888 --> 0:44:0,763
+aspects of mental life.
+Continuing on this theme,
+
+
+727
+0:44:0,763 --> 0:44:5,105
+we also know that language is
+learnt without any sort of
+
+
+728
+0:44:5,105 --> 0:44:8,917
+feedback or training.
+There are many Americans who
+
+
+729
+0:44:8,917 --> 0:44:12,82
+believe that they need to teach
+their children language.
+
+
+730
+0:44:12,82 --> 0:44:16,151
+And there's a huge industry
+with DVDs and flash cards and
+
+
+731
+0:44:16,151 --> 0:44:19,9
+all sorts of things designed to
+teach your children language.
+
+
+732
+0:44:19,9 --> 0:44:22,392
+And I think many parents
+believe that if they didn't
+
+
+733
+0:44:22,392 --> 0:44:25,374
+persist in using these things
+their children would never learn
+
+
+734
+0:44:25,374 --> 0:44:28,112
+to speak.
+But we know that that's not
+
+
+735
+0:44:28,112 --> 0:44:30,82
+true.
+We know that this isn't true
+
+
+736
+0:44:30,82 --> 0:44:35,619
+because there are communities
+where they don't speak to their
+
+
+737
+0:44:35,619 --> 0:44:37,772
+kids.
+They don't speak to their kids
+
+
+738
+0:44:37,772 --> 0:44:40,696
+because they don't believe it's
+important to speak to their
+
+
+739
+0:44:40,696 --> 0:44:42,348
+kids.
+Some linguists would
+
+
+740
+0:44:42,348 --> 0:44:45,532
+interview--Linguists would
+interview adults in these
+
+
+741
+0:44:45,532 --> 0:44:48,528
+communities and say,
+"Why don't you speak to your
+
+
+742
+0:44:48,528 --> 0:44:51,523
+babies?"
+And these adults would respond,
+
+
+743
+0:44:51,523 --> 0:44:54,34
+"It'd be ridiculous to speak to
+a baby.
+
+
+744
+0:44:54,34 --> 0:44:58,562
+The baby has nothing to say.
+You might as well just speak to
+
+
+745
+0:44:58,562 --> 0:45:0,687
+your dog."
+And then the American linguist
+
+
+746
+0:45:0,687 --> 0:45:5,469
+would say, "Yeah.
+We speak to our dogs."
+
+
+747
+0:45:5,469 --> 0:45:7,629
+[laughter]
+Americans and Europeans speak
+
+
+748
+0:45:7,629 --> 0:45:10,96
+to everything and everybody.
+Other cultures are more picky
+
+
+749
+0:45:10,96 --> 0:45:14,242
+and they don't talk to their
+children until their children
+
+
+750
+0:45:14,242 --> 0:45:17,694
+themselves are talking.
+This doesn't seem to make much
+
+
+751
+0:45:17,694 --> 0:45:20,17
+of a difference in language
+learning.
+
+
+752
+0:45:20,17 --> 0:45:24,188
+Some studies have,
+motivated by Chomsky's work in
+
+
+753
+0:45:24,188 --> 0:45:28,206
+expressed--sorry,
+motivated by Chomsky's critique
+
+
+754
+0:45:28,206 --> 0:45:33,137
+of Skinner's Verbal Behavior,
+ have asked even in-- "What
+
+
+755
+0:45:33,137 --> 0:45:36,599
+if we just looked at children
+within the United States?
+
+
+756
+0:45:36,599 --> 0:45:39,83
+Don't these children get
+feedback?"
+
+
+757
+0:45:39,83 --> 0:45:45,628
+And the answer is yes and no.
+So your average highly educated
+
+
+758
+0:45:45,628 --> 0:45:50,425
+Western parent does give their
+children feedback--do give their
+
+
+759
+0:45:50,425 --> 0:45:53,829
+children feedback based on what
+they say.
+
+
+760
+0:45:53,829 --> 0:45:58,961
+But they don't typically give
+feedback based on the syntax or
+
+
+761
+0:45:58,961 --> 0:46:3,73
+grammaticality of what they say.
+The example given by Brown and
+
+
+762
+0:46:3,73 --> 0:46:7,326
+Hanlon in the classic study in
+the 1970s is they did all of
+
+
+763
+0:46:7,326 --> 0:46:10,86
+these studies looking at what
+children say and how parents
+
+
+764
+0:46:10,86 --> 0:46:13,859
+responded,
+and it turns out parents
+
+
+765
+0:46:13,859 --> 0:46:19,205
+respond not to the grammatical
+correctness but to the affect or
+
+
+766
+0:46:19,205 --> 0:46:23,0
+cuteness or sociability of the
+utterance.
+
+
+767
+0:46:23,0 --> 0:46:26,32
+So for instance,
+if a child says to his mother,
+
+
+768
+0:46:26,32 --> 0:46:28,668
+"I loves you,
+Mommy," it's a very unusual
+
+
+769
+0:46:28,668 --> 0:46:30,91
+parent who would say,
+"Oh, no.
+
+
+770
+0:46:30,91 --> 0:46:34,82
+The verb agreement is mistaken.
+[laughter]
+
+
+771
+0:46:34,82 --> 0:46:38,719
+You've added a redundant ‘s.'
+It's not appropriate."
+
+
+772
+0:46:38,719 --> 0:46:42,171
+Similarly, if a child is to
+say, "I hate your guts,
+
+
+773
+0:46:42,171 --> 0:46:45,83
+Mother," it's an unusual
+mother, "That's wonderful.
+
+
+774
+0:46:45,83 --> 0:46:48,852
+There's a subject, verb, object.
+The whole thing's structurally
+
+
+775
+0:46:48,852 --> 0:46:51,4
+fine."
+We respond to our kids like we
+
+
+776
+0:46:51,4 --> 0:46:54,396
+respond to each other based on
+the message that's conveyed,
+
+
+777
+0:46:54,396 --> 0:46:56,969
+not the grammaticality of the
+utterances.
+
+
+778
+0:46:56,969 --> 0:47:0,794
+Children make grammatical
+mistakes all the time but then
+
+
+779
+0:47:0,794 --> 0:47:4,34
+they go away and they go away
+without correction.
+
+
+780
+0:47:4,34 --> 0:47:9,143
+So those are some basic facts.
+What do we know about the time
+
+
+781
+0:47:9,143 --> 0:47:13,354
+course of language?
+Well, early on children start
+
+
+782
+0:47:13,354 --> 0:47:18,26
+off and they prefer the melody
+of their own language.
+
+
+783
+0:47:18,26 --> 0:47:23,389
+These studies were done in
+France with four-day-old babies.
+
+
+784
+0:47:23,389 --> 0:47:26,639
+And what they did was they used
+a sucking method.
+
+
+785
+0:47:26,639 --> 0:47:28,86
+Remember, there's a limited
+number of things babies can do.
+
+
+786
+0:47:28,86 --> 0:47:32,559
+One of the things they can do
+is suck, and these babies would
+
+
+787
+0:47:32,559 --> 0:47:34,78
+suck on a pacifier to hear
+French.
+
+
+788
+0:47:34,78 --> 0:47:41,119
+And they would prefer to hear
+French than to hear Russian.
+
+
+789
+0:47:41,119 --> 0:47:45,391
+And these investigators claimed
+this is because they had been
+
+
+790
+0:47:45,391 --> 0:47:49,519
+exposed to French in the first
+four days of their lives.
+
+
+791
+0:47:49,519 --> 0:47:53,395
+Reviewers, mostly from France,
+objected and said,
+
+
+792
+0:47:53,395 --> 0:47:55,429
+"No.
+Maybe French just sounds better.
+
+
+793
+0:47:55,429 --> 0:47:57,84
+Everybody's going to like
+French."
+
+
+794
+0:47:57,84 --> 0:48:0,239
+So, they re-did the study in
+Russia.
+
+
+795
+0:48:0,239 --> 0:48:3,893
+Russian kids sucked harder to
+hear Russian than they did to
+
+
+796
+0:48:3,893 --> 0:48:6,263
+French.
+And what they're listening to
+
+
+797
+0:48:6,263 --> 0:48:8,38
+isn't the words.
+They don't know words yet.
+
+
+798
+0:48:8,38 --> 0:48:11,539
+They don't know of syntax yet.
+It's the rhythm of the language.
+
+
+799
+0:48:11,539 --> 0:48:14,57
+For you, French and Russian
+sound different.
+
+
+800
+0:48:14,57 --> 0:48:17,123
+Even if you're like me and you
+don't know a word of either
+
+
+801
+0:48:17,123 --> 0:48:18,869
+language, they still sound
+different.
+
+
+802
+0:48:18,869 --> 0:48:22,79
+They sound different to babies
+too.
+
+
+803
+0:48:22,79 --> 0:48:27,295
+And a baby being raised in
+France or a baby being raised in
+
+
+804
+0:48:27,295 --> 0:48:32,24
+Russia knows enough to tell
+what's his language and what
+
+
+805
+0:48:32,24 --> 0:48:35,738
+isn't.
+Early on, children are
+
+
+806
+0:48:35,738 --> 0:48:40,11
+sensitive to every phoneme there
+is.
+
+
+807
+0:48:40,11 --> 0:48:42,898
+So, English-speaking children,
+for instance,
+
+
+808
+0:48:42,898 --> 0:48:46,66
+can--English-speaking babies
+– babies who are born in the
+
+
+809
+0:48:46,66 --> 0:48:49,773
+United States – can
+distinguish between English
+
+
+810
+0:48:49,773 --> 0:48:53,665
+phonemes like "lip" and "rip"
+but they could also distinguish
+
+
+811
+0:48:53,665 --> 0:48:58,269
+between phonemic contrasts that
+are not exemplified in English,
+
+
+812
+0:48:58,269 --> 0:49:0,92
+such as phonemic contrasts in
+Czech or Hindi.
+
+
+813
+0:49:0,92 --> 0:49:2,379
+Yes.
+Student:
+
+
+814
+0:49:2,379 --> 0:49:6,35
+I'm wondering if you can say
+the wrong things to them--to
+
+
+815
+0:49:6,35 --> 0:49:9,17
+infants based on what you were
+saying before.
+
+
+816
+0:49:9,17 --> 0:49:11,542
+Because I was in France one
+summer and I had some neighbors
+
+
+817
+0:49:11,542 --> 0:49:13,61
+there.
+I hated these neighbors,
+
+
+818
+0:49:13,61 --> 0:49:18,906
+I thought they were stupid.
+Not because they were French,
+
+
+819
+0:49:18,906 --> 0:49:25,1
+but they had a baby and it
+would gaggle and coo and they
+
+
+820
+0:49:25,1 --> 0:49:30,96
+would respond in similar terms.
+Professor Paul Bloom:
+
+
+821
+0:49:30,96 --> 0:49:31,929
+They would gaggle and coo back
+at the baby.
+
+
+822
+0:49:31,929 --> 0:49:34,21
+Student: [inaudible]
+And I hate these people.
+
+
+823
+0:49:34,21 --> 0:49:40,737
+[inaudible]
+So I don't know if it--Does it
+
+
+824
+0:49:40,737 --> 0:49:50,449
+matter what you say to babies as
+long as you say something.
+
+
+825
+0:49:50,449 --> 0:49:54,51
+Professor Paul Bloom:
+There's a lot going on in your
+
+
+826
+0:49:54,51 --> 0:49:55,722
+question.
+[laughter]
+
+
+827
+0:49:55,722 --> 0:49:57,889
+Some raising--Well,
+there's a lot going on in your
+
+
+828
+0:49:57,889 --> 0:50:0,166
+question.
+The answer to the question--
+
+
+829
+0:50:0,166 --> 0:50:3,34
+The question was,
+"your baby's going to coo and
+
+
+830
+0:50:3,34 --> 0:50:6,402
+'ga ga, goo goo,' does it matter
+if you coo and 'ga ga,
+
+
+831
+0:50:6,402 --> 0:50:8,687
+goo goo' back?"
+No, it doesn't make a
+
+
+832
+0:50:8,687 --> 0:50:11,929
+difference.
+Your hatred towards them was
+
+
+833
+0:50:11,929 --> 0:50:15,89
+unmotivated.
+You can be relieved of that
+
+
+834
+0:50:15,89 --> 0:50:18,59
+debt, or now you know you feel
+bad now, I guess.
+
+
+835
+0:50:18,59 --> 0:50:22,4
+[laughter]
+If you speak to your children
+
+
+836
+0:50:22,4 --> 0:50:25,579
+in perfect English,
+it's very strange.
+
+
+837
+0:50:25,579 --> 0:50:28,17
+Nobody speaks to their babies
+in, "Hello, Son.
+
+
+838
+0:50:28,17 --> 0:50:31,364
+It's time--Oh.
+You want to change your diaper
+
+
+839
+0:50:31,364 --> 0:50:34,9
+right now so stay still."
+That's bad parenting.
+
+
+840
+0:50:34,9 --> 0:50:36,379
+It sounds kind of silly.
+More--What most people do is,
+
+
+841
+0:50:36,379 --> 0:50:38,0
+"Oh.
+You're such a cute little baby."
+
+
+842
+0:50:38,0 --> 0:50:41,612
+And it probably--One--T
+here's--Evolutionary
+
+
+843
+0:50:41,612 --> 0:50:46,315
+psychologists debate the
+function of why we talk funny to
+
+
+844
+0:50:46,315 --> 0:50:48,863
+babies.
+And some people have argued
+
+
+845
+0:50:48,863 --> 0:50:51,449
+that it does help their language
+learning.
+
+
+846
+0:50:51,449 --> 0:50:55,85
+And some people have argued
+instead that what it does is it
+
+
+847
+0:50:55,85 --> 0:50:57,855
+calms them.
+They like to hear the music of
+
+
+848
+0:50:57,855 --> 0:51:1,83
+a smooth voice and so on.
+But whether or not you do so
+
+
+849
+0:51:1,83 --> 0:51:3,219
+doesn't seem to make a big
+difference.
+
+
+850
+0:51:3,219 --> 0:51:7,44
+It is very difficult to find
+any effect of how parents talk
+
+
+851
+0:51:7,44 --> 0:51:10,786
+to their kids on how their kids
+learn language,
+
+
+852
+0:51:10,786 --> 0:51:13,769
+particularly when it comes to
+babies.
+
+
+853
+0:51:13,769 --> 0:51:19,498
+So, early on babies can--are
+sensitive to all phonemes and
+
+
+854
+0:51:19,498 --> 0:51:23,202
+then that goes away.
+Around twelve months of age it
+
+
+855
+0:51:23,202 --> 0:51:26,144
+goes away.
+This is one thing you were much
+
+
+856
+0:51:26,144 --> 0:51:29,929
+better at when you were a baby
+than you are now.
+
+
+857
+0:51:29,929 --> 0:51:33,329
+When you were a baby you were a
+multilingual fool.
+
+
+858
+0:51:33,329 --> 0:51:38,989
+You could understand the sound
+differences of every language on
+
+
+859
+0:51:38,989 --> 0:51:41,18
+earth.
+Now, if you're like me,
+
+
+860
+0:51:41,18 --> 0:51:43,53
+you could barely understand
+English.
+
+
+861
+0:51:43,53 --> 0:51:46,313
+[laughter]
+You narrow down until you're
+
+
+862
+0:51:46,313 --> 0:51:49,389
+sensitive just to the language
+you hear.
+
+
+863
+0:51:49,389 --> 0:51:55,95
+And this narrowing down is
+largely in place by about twelve
+
+
+864
+0:51:55,95 --> 0:51:59,71
+months of age.
+Around seven months is babbling.
+
+
+865
+0:51:59,71 --> 0:52:4,396
+And I want to stop at this
+point to go back to the issue--I
+
+
+866
+0:52:4,396 --> 0:52:9,325
+promised you I would turn a bit
+to sign language and I want to
+
+
+867
+0:52:9,325 --> 0:52:14,174
+describe now a very elegant--I
+want to show a little film now
+
+
+868
+0:52:14,174 --> 0:52:18,457
+of a very elegant series of
+experiments looking at the
+
+
+869
+0:52:18,457 --> 0:52:23,386
+question of whether babies who
+are exposed to a sign language,
+
+
+870
+0:52:23,386 --> 0:52:26,862
+babble.
+One of the real surprising
+
+
+871
+0:52:26,862 --> 0:52:31,634
+findings in my field over the
+last ten/twenty years has been
+
+
+872
+0:52:31,634 --> 0:52:36,324
+that the acquisition of sign
+languages has turned out to be
+
+
+873
+0:52:36,324 --> 0:52:40,84
+almost exactly the same;
+in fact, as far as we know,
+
+
+874
+0:52:40,84 --> 0:52:43,7
+exactly the same as the
+acquisition of spoken languages.
+
+
+875
+0:52:43,7 --> 0:52:46,498
+It didn't have to be that way.
+It could have been just as
+
+
+876
+0:52:46,498 --> 0:52:50,175
+reasonable to expect that
+there'd be an advantage for
+
+
+877
+0:52:50,175 --> 0:52:53,175
+speech over sign.
+That sign languages may be
+
+
+878
+0:52:53,175 --> 0:52:56,773
+full-blown languages but they
+just take--they're just harder
+
+
+879
+0:52:56,773 --> 0:53:0,128
+to learn because the brain and
+the body have adapted for
+
+
+880
+0:53:0,128 --> 0:53:2,26
+speech.
+It turns out that this just
+
+
+881
+0:53:2,26 --> 0:53:5,69
+isn't the case.
+It turns out that sign and--the
+
+
+882
+0:53:5,69 --> 0:53:9,91
+developmental milestones of sign
+languages and the developmental
+
+
+883
+0:53:9,91 --> 0:53:12,73
+milestones of spoken languages
+are precisely the same.
+
+
+884
+0:53:12,73 --> 0:53:14,53
+They start babbling at the same
+point.
+
+
+885
+0:53:14,53 --> 0:53:17,64
+They start using first words,
+first sentences,
+
+
+886
+0:53:17,64 --> 0:53:19,989
+first complicated
+constructions.
+
+
+887
+0:53:19,989 --> 0:53:23,385
+There seems to be no
+interesting difference between
+
+
+888
+0:53:23,385 --> 0:53:27,256
+how the brain comes to acquire
+and use the spoken language
+
+
+889
+0:53:27,256 --> 0:53:31,564
+versus a sign language.
+Around twelve months of age,
+
+
+890
+0:53:31,564 --> 0:53:35,99
+children start using their
+first words.
+
+
+891
+0:53:35,99 --> 0:53:41,396
+These are words for objects and
+actions like "dog" and "up" and
+
+
+892
+0:53:41,396 --> 0:53:44,201
+"milk."
+They start showing some
+
+
+893
+0:53:44,201 --> 0:53:47,79
+sensitivity to the order of
+words.
+
+
+894
+0:53:47,79 --> 0:53:53,178
+So they know that "dog bites
+cat" is different from "cat
+
+
+895
+0:53:53,178 --> 0:53:56,209
+bites dog."
+Around eighteen months of age,
+
+
+896
+0:53:56,209 --> 0:53:58,1
+they start learning words
+faster.
+
+
+897
+0:53:58,1 --> 0:54:2,895
+They start producing little,
+miniature sentences like "Want
+
+
+898
+0:54:2,895 --> 0:54:7,36
+cookie" or "Milk spill" and the
+function morphemes,
+
+
+899
+0:54:7,36 --> 0:54:10,179
+the little words,
+"in," "of," "a," "the," and so
+
+
+900
+0:54:10,179 --> 0:54:12,4
+on start to gradually appear.
+
+
+901
+0:54:12,4 --> 0:54:15,84
+
+
+
+902
+0:54:15,84 --> 0:54:17,929
+Then the--Then there's the bad
+news.
+
+
+903
+0:54:17,929 --> 0:54:22,21
+Around seven years of age going
+up through puberty,
+
+
+904
+0:54:22,21 --> 0:54:26,489
+the ability to learn language
+starts to go away.
+
+
+905
+0:54:26,489 --> 0:54:31,542
+The best work on this has been
+done by Elissa Newport and Sam
+
+
+906
+0:54:31,542 --> 0:54:36,425
+Supalla who have studied people
+who have been in the United
+
+
+907
+0:54:36,425 --> 0:54:40,419
+States for many,
+many years – 30,40 years –
+
+
+908
+0:54:40,419 --> 0:54:44,5
+and seeing how well they have
+come to speak English.
+
+
+909
+0:54:44,5 --> 0:54:47,35
+And it turns out the big
+determinant of how well you
+
+
+910
+0:54:47,35 --> 0:54:50,48
+speak English as an immigrant
+isn't how smart you are.
+
+
+911
+0:54:50,48 --> 0:54:53,238
+It's not how many family
+members you have when you're
+
+
+912
+0:54:53,238 --> 0:54:55,46
+here.
+It's not your motivation.
+
+
+913
+0:54:55,46 --> 0:54:58,53
+It's how old you were when you
+started.
+
+
+914
+0:54:58,53 --> 0:55:2,418
+It turns out that if you start
+learning a language – a second
+
+
+915
+0:55:2,418 --> 0:55:6,181
+language is where most of the
+work's been done – within the
+
+
+916
+0:55:6,181 --> 0:55:8,69
+first few years of life you're
+fine.
+
+
+917
+0:55:8,69 --> 0:55:13,27
+You'll speak like a native.
+But then it starts getting
+
+
+918
+0:55:13,27 --> 0:55:16,227
+worse and worse.
+And once you hit puberty,
+
+
+919
+0:55:16,227 --> 0:55:20,635
+suddenly there's huge variation
+in the abilities you have to
+
+
+920
+0:55:20,635 --> 0:55:22,929
+learn language.
+It is very rare,
+
+
+921
+0:55:22,929 --> 0:55:25,363
+for instance,
+for somebody who has learned
+
+
+922
+0:55:25,363 --> 0:55:28,389
+English past puberty to speak
+without an accent.
+
+
+923
+0:55:28,389 --> 0:55:31,53
+An accent is very hard to shake
+and it's not just an accent.
+
+
+924
+0:55:31,53 --> 0:55:35,677
+It's also other aspects of
+phonology, syntax,
+
+
+925
+0:55:35,677 --> 0:55:39,569
+and morphology.
+It's like the part of the brain
+
+
+926
+0:55:39,569 --> 0:55:44,222
+that's responsible for language
+learning is only around early in
+
+
+927
+0:55:44,222 --> 0:55:48,949
+development and if you don't get
+your language by then it'll just
+
+
+928
+0:55:48,949 --> 0:55:53,616
+run out.
+I want to begin next class with
+
+
+929
+0:55:53,616 --> 0:55:58,4
+this question,
+the question of animals.
+
+
+930
+0:55:58,4 --> 0:56:1,3
+And that will shut down the
+language learning part.
+
+
+931
+0:56:1,3 --> 0:56:10,199
+But one thing I'll put up here
+is your second reading response.
+
+
+932
+0:56:10,199 --> 0:56:13,353
+So, I'll also put this up on
+Wednesday, and by Wednesday you
+
+
+933
+0:56:13,353 --> 0:56:16,667
+might have a bit of a better--be
+in a better position to answer
+
+
+934
+0:56:16,667 --> 0:56:19,335
+this question.
+But I'll continue with language
+
+
+935
+0:56:19,335 --> 0:56:22,85
+on Wednesday and then we'll also
+talk about vision,
+
+
+936
+0:56:22,85 --> 0:56:30,0
+attention, and memory.
+I'll see you then.
+
+
+937
+0:56:30,0 --> 0:58:30,0
+ 
+
+

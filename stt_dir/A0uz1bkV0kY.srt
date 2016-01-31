@@ -1,0 +1,332 @@
+1
+0:0:0,0 --> 0:0:0,78
+
+
+
+2
+0:0:0,78 --> 0:0:3,51
+MATT CUTTS: Today's question
+comes from Tokyo, Japan.
+
+
+3
+0:0:3,51 --> 0:0:6,59
+The question is, you've been
+sending various kinds of
+
+
+4
+0:0:6,59 --> 0:0:10,35
+messages via Webmaster Tools
+to improve transparency.
+
+
+5
+0:0:10,35 --> 0:0:11,59
+It's a good move.
+
+
+6
+0:0:11,59 --> 0:0:14,65
+How many types of messages do
+you send, and how do you
+
+
+7
+0:0:14,65 --> 0:0:16,7
+decide what message you send?
+
+
+8
+0:0:16,7 --> 0:0:17,46
+Great question.
+
+
+9
+0:0:17,46 --> 0:0:20,5
+So I can share a little
+bit of stats.
+
+
+10
+0:0:20,5 --> 0:0:23,17
+At this point, we do send
+hundreds of thousands of
+
+
+11
+0:0:23,17 --> 0:0:24,97
+messages each month.
+
+
+12
+0:0:24,97 --> 0:0:27,98
+That might sound like a lot,
+but for example, one search
+
+
+13
+0:0:27,98 --> 0:0:31,72
+engine named Blekko estimated
+that a million spam pages are
+
+
+14
+0:0:31,72 --> 0:0:33,39
+created every hour.
+
+
+15
+0:0:33,39 --> 0:0:36,72
+So the web is very large, so
+it shouldn't be a surprise
+
+
+16
+0:0:36,72 --> 0:0:38,57
+that some percentage
+of it is spam.
+
+
+17
+0:0:38,57 --> 0:0:42,61
+And as a result, we do spend a
+lot of time finding that spam.
+
+
+18
+0:0:42,61 --> 0:0:45,66
+And since we automatically
+send messages and
+
+
+19
+0:0:45,66 --> 0:0:49,2
+notifications when we find it,
+there are a lot, hundreds of
+
+
+20
+0:0:49,2 --> 0:0:52,13
+thousands of notifications that
+we send out each month.
+
+
+21
+0:0:52,13 --> 0:0:54,4
+There's a lot of different
+categories of spam.
+
+
+22
+0:0:54,4 --> 0:0:55,7
+They're covered in our
+Webmaster Guidelines,
+
+
+23
+0:0:55,7 --> 0:0:59,64
+everything from cloaking to
+scraping to sneaky JavaScript
+
+
+24
+0:0:59,64 --> 0:1:2,57
+redirects, paid links,
+all sorts of stuff.
+
+
+25
+0:1:2,57 --> 0:1:6,43
+But all of those boil down to
+roughly about 10 different
+
+
+26
+0:1:6,43 --> 0:1:8,1
+messages that we send.
+
+
+27
+0:1:8,1 --> 0:1:11,35
+So hidden text, keyword
+stuffing, gibberish, all that
+
+
+28
+0:1:11,35 --> 0:1:13,69
+would go into one message
+that we send out.
+
+
+29
+0:1:13,69 --> 0:1:16,45
+I can share some stats from
+earlier this year, from
+
+
+30
+0:1:16,45 --> 0:1:18,9
+January and February.
+
+
+31
+0:1:18,9 --> 0:1:20,33
+Out of the hundreds of thousands
+of messages that we
+
+
+32
+0:1:20,33 --> 0:1:24,54
+sent over that time period,
+roughly 90% of those were for
+
+
+33
+0:1:24,54 --> 0:1:25,62
+what we call Black Hat.
+
+
+34
+0:1:25,62 --> 0:1:29,1
+That's pure, egregious spam,
+clear cut, anybody
+
+
+35
+0:1:29,1 --> 0:1:31,74
+sufficiently tech savvy would
+probably be able to recognize
+
+
+36
+0:1:31,74 --> 0:1:32,56
+that it's spam.
+
+
+37
+0:1:32,56 --> 0:1:35,57
+It's the stuff that you think
+of as traditional junk that
+
+
+38
+0:1:35,57 --> 0:1:38,46
+you just don't want to show up
+in your results because it is
+
+
+39
+0:1:38,46 --> 0:1:41,26
+very clearly spam.
+
+
+40
+0:1:41,26 --> 0:1:45,89
+About 4% of the messages were
+because the content had little
+
+
+41
+0:1:45,89 --> 0:1:48,89
+or no added value, and so it's
+not ranking as highly in our
+
+
+42
+0:1:48,89 --> 0:1:50,21
+search results.
+
+
+43
+0:1:50,21 --> 0:1:52,65
+About 3% of the messages
+that we sent
+
+
+44
+0:1:52,65 --> 0:1:53,97
+were related to hacking.
+
+
+45
+0:1:53,97 --> 0:1:57,34
+So hacking is a big attack
+as far as Black Hats.
+
+
+46
+0:1:57,34 --> 0:1:59,65
+And even though it's illegal,
+there's a lot of people that
+
+
+47
+0:1:59,65 --> 0:2:2,78
+do that-- trying to promote
+their pharmacy pills or
+
+
+48
+0:2:2,78 --> 0:2:4,16
+whatever, that sort of thing.
+
+
+49
+0:2:4,16 --> 0:2:7,54
+So about 3% of those messages
+were related to hacking.
+
+
+50
+0:2:7,54 --> 0:2:10,12
+Something like 2% of the
+messages that we sent out were
+
+
+51
+0:2:10,12 --> 0:2:12,38
+related to link buying,
+and about 1% were
+
+
+52
+0:2:12,38 --> 0:2:13,83
+related to link selling.
+
+
+53
+0:2:13,83 --> 0:2:18,26
+So overall between 2% and 3%
+related to links and link spam
+
+
+54
+0:2:18,26 --> 0:2:20,47
+overall about buying
+and selling links.
+
+
+55
+0:2:20,47 --> 0:2:23,87
+So that gives you a broad idea
+of the sorts of categories
+
+
+56
+0:2:23,87 --> 0:2:27,2
+that we send things out for
+and the rough number of
+
+
+57
+0:2:27,2 --> 0:2:28,64
+messages that we send
+out each month.
+
+
+58
+0:2:28,64 --> 0:4:28,64
+
+
+

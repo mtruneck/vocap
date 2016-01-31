@@ -1,0 +1,163 @@
+###3 So I've done a little work on looking at dealmakers and I wanted
+###6 to understand kind of the nature of networking and the new frontiers
+###9 that I think are coming between applying network theory and understanding
+###13 the structure of social capital and understanding innovation from
+###16 the standpoint of how firms ultimately take route.
+###20 And I did little work on this and it occurred to me
+###22 in the academic literature there was a real clear
+###24 distinction between entrepreneurs and investors.
+###27 Never understood that distinction because the successful
+###29 entrepreneurs I knew were investors, right.
+###32 There is no clear bright line between those two.
+###35 So I always wondered there was these other people up there
+###37 that kind of fuse those two concepts and they tended to
+###39 be the people that made more and more things happen.
+###42 You might have started as an entrepreneur,
+###43 might have started as an investor but you become something else.
+###47 I don't know, for the lack of a better word,
+###48 I am looking for a better word for those
+###49 of you trying to think about this.
+###51 The dealmakers, the people that actually make things happen.
+###55 And I tried to understand that.
+###56 They broker resources,
+###57 they shape your networks and they syndicate and interconnect, right.
+###61 It occurs to me that there are these people in the
+###62 center that activate the rest of the network, when it works, right.
+###66 And these are the people that I was starting to get interested in.
+###69 I remember about five years ago when the
+###70 economy was starting to climb to a halt,
+###72 it was grinding to a halt, I wanted to get something going.
+###76 And I was thinking to myself who do we need.
+###79 We need the people who have done it repeatedly.
+###81 We might call them serial entrepreneurs,
+###83 you might call them the people who ultimately
+###85 broker deals or what have you.
+###87 These are the individuals that are going to help us make a heaven.
+###90 For some reason, they're frozen. They are not doing it anymore.
+###92 Why is that? They're living in kind of a fear.
+###95 So I said, let's figure out something, so I developed this algorithm,
+###99 I guess, it's for lack of - it's a vaunted
+###101 term to call it an algorithm.
+###102 The truth of the matter is, I'm looking for people who have multiple
+###105 positions in entrepreneurial firms, I'm actually stacking them up,
+###109 and then I relate them socially to try to understand
+###111 how they're connected to one another.
+###113 Because I want you as young entrepreneurs to be able to access them,
+###116 right, because that's how you're going to be successful.
+###119 So finding out who the who is.
+###121 The way I do that is I try to understand the entrepreneurs
+###124 and investors and generally there are distinctions
+###125 bringing those two types of people.
+###126 But as they move up in their career, they have two equity positions,
+###131 three equity positions, four equity positions in firms,
+###133 they become more and more important in seeing
+###136 the network kind of come to life, right.
+###139 So I'm looking at actors within firms,
+###141 within regions using interlocks, very interested in this.
+###144 It occurred to me, I looked at all the tech hotspots and
+###147 back in the '80s we actually had a whole set of theories
+###150 where if we brought all the technologies together,
+###152 entrepreneurship would happen, right.
+###154 And this is a chart that shows the number of firms born
+###157 and it was fascinating to me that when I looked at it,
+###159 Silicon Valley created almost 5,000
+###161 firms over a 20 year period whereas Boston created about
+###164 half that even though in most cases you're equating Silicon
+###167 Valley and Boston as equal parties in entrepreneurship.
+###171 All these other technology regions including my region,
+###173 Research Triangle Park, created less than 1,000, right.
+###177 Ironically where I come from Research Triangle Park has the highest
+###179 density of PhDs over total employees of anywhere in the world.
+###184 Yet, they're not creating that many companies.
+###185 So I was trying to figure that out.
+###188 When I looked at these patterns,
+###190 these are the number of equity positions
+###191 held and you see the numbers on the left, 1 all the way to 30,
+###195 these are the equity positions by each of these regions.
+###197 And I noticed there was a big fat base
+###200 wherever there was nice economies,
+###202 where Silicon Valley was performing
+###204 so well in creating great companies,
+###206 had a lot of entrepreneurs and investors engaged in it.
+###208 Okay, we already kind of knew that,
+###210 but the other pattern I saw on the data that I thought was really
+###212 interesting was there was a really nice fat long tail.
+###215 There were a lot of people who did a lot of things, right.
+###218 Whereas these other regions you never saw those people, right.
+###222 So I started to look at the relationship of dealmakers to the
+###226 performance of regions by way of creating new companies.
+###229 And I founded as a matter of fact,
+###232 statistically the presence of dealmakers was actually
+###235 more correlated to firm birth than the frequency of
+###240 the availability of entrepreneurs and investors.
+###242 So what does it tell you? It occurs to me, that these people are
+###246 usually in the elite, the top 2.7%,
+###249 these are people who have three or more equity
+###252 positions in entrepreneurial firms.
+###254 And in places like the Bay Area, it's 4.5%
+###257 of the population, whereas places like Austin,
+###260 Texas or Denver, it's around 1%, right.
+###264 So something is in the water here, right.
+###267 It occurs to me, these are the people.
+###268 Well I wanted to map the networks and these are
+###270 the networks of these 12 technology hotspots,
+###272 as a matter of fact they're organized by population,
+###275 so the most populous is Boston, the least populous is Austin,
+###278 the lower right hand side.
+###279 If it varied by population,
+###281 you would expect to see the most dense to the least dense, correct?
+###284 What do you see in the pattern of this data?
+###287 You see the most dense or the most intense
+###292 entrepreneurial network in Silicon Valley.
+###294 The third greatest - largest metropolitan area up here
+###297 Phoenix has the weakest entrepreneurial network.
+###299 I was talking to Michael Crow,
+###301 the Chancellor of Arizona State University,
+###302 shown this data, and he said Zoller, how many people are up there?
+###304 And I said about 150 and he said, I'll just have them over the house.
+###309 I want to talk to these guys.
+###311 Well, in places like RTP or Austin or places like that,
+###314 they hang in there even though they're small places.
+###317 Please, question?
+###319 Okay, the data comes ultimately from private transaction data.
+###324 It comes from public databases, like Standard & Poor's.
+###328 And I came up with the software to actually put all
+###331 the data together and then socially relate it.
+###334 Well, what was fascinating is,
+###336 this is the aggregate network of entrepreneurs
+###339 in each of these regions. What does that tell you?
+###340 What two regions other than Silicon Valley and Boston would you
+###343 say are starting to look like hot entrepreneurial networks?
+###347 San Diego. San Diego and Seattle, right.
+###349 Now I'm leaving out some obvious cities because
+###352 these are technology hotspots, right?
+###354 Leaving out some of the key metropolitan areas
+###356 like Los Angeles or New York or Chicago, starting to study those.
+###360 What's ironic is many of those cities because they're
+###362 financial headquarters tend not to be entrepreneurial.
+###365 But you know the stories that are evolving.
+###368 The Groupon founders are really driving an
+###370 entrepreneurial revolution in Chicago.
+###372 Have you all noticed what's happening in New York lately,
+###375 across the bridge in Brooklyn?
+###377 It's unbelievable, there's an entrepreneurial
+###378 revolution going on there.
+###380 But the aggregate networks are just one story.
+###382 I want to know where the dealmakers are? Well, check this out.
+###385 When you screen the aggregate network
+###387 for three or more equity positions, this is the picture you get.
+###391 Silicon Valley, you would still need the Stanford
+###393 Football Stadium to have everybody there, right.
+###395 Boston, you could probably fit them in the Stanford Basketball Arena.
+###399 Whereas in Austin, you could probably get them in this room, right.
+###403 In Phoenix, you could probably get them in
+###405 the classroom we're going next, right.
+###407 When you go to four plus dealmakers look at this.
+###410 You would still need the basketball stadium
+###413 here in time for Silicon Valley,
+###415 whereas in Boston you could probably get them in this room.
+###418 And the people in Phoenix,
+###419 you could probably get them in the front row,
+###421 pretty interesting, isn't it?
+###423 Things aren't all equal when we are looking
+###425 at the performance of regions.

@@ -1,0 +1,815 @@
+1
+0:0:3,5 --> 0:0:6,14
+So I've done a little work on looking at dealmakers and I wanted
+
+
+2
+0:0:6,14 --> 0:0:9,3
+to understand kind of the nature of networking and the new frontiers
+
+
+3
+0:0:9,3 --> 0:0:13,38
+that I think are coming between applying network theory and understanding
+
+
+4
+0:0:13,38 --> 0:0:16,32
+the structure of social capital and understanding innovation from
+
+
+5
+0:0:16,32 --> 0:0:20,8
+the standpoint of how firms ultimately take route.
+
+
+6
+0:0:20,8 --> 0:0:22,76
+And I did little work on this and it occurred to me
+
+
+7
+0:0:22,76 --> 0:0:24,64
+in the academic literature there was a real clear
+
+
+8
+0:0:24,64 --> 0:0:27,44
+distinction between entrepreneurs and investors.
+
+
+9
+0:0:27,44 --> 0:0:29,5
+Never understood that distinction because the successful
+
+
+10
+0:0:29,5 --> 0:0:32,15
+entrepreneurs I knew were investors, right.
+
+
+11
+0:0:32,15 --> 0:0:35,13
+There is no clear bright line between those two.
+
+
+12
+0:0:35,13 --> 0:0:37,12
+So I always wondered there was these other people up there
+
+
+13
+0:0:37,12 --> 0:0:39,64
+that kind of fuse those two concepts and they tended to
+
+
+14
+0:0:39,64 --> 0:0:42,3
+be the people that made more and more things happen.
+
+
+15
+0:0:42,3 --> 0:0:43,46
+You might have started as an entrepreneur,
+
+
+16
+0:0:43,46 --> 0:0:47,25
+might have started as an investor but you become something else.
+
+
+17
+0:0:47,25 --> 0:0:48,39
+I don't know, for the lack of a better word,
+
+
+18
+0:0:48,39 --> 0:0:49,71
+I am looking for a better word for those
+
+
+19
+0:0:49,71 --> 0:0:51,93
+of you trying to think about this.
+
+
+20
+0:0:51,93 --> 0:0:55,15
+The dealmakers, the people that actually make things happen.
+
+
+21
+0:0:55,15 --> 0:0:56,48
+And I tried to understand that.
+
+
+22
+0:0:56,48 --> 0:0:57,83
+They broker resources,
+
+
+23
+0:0:57,83 --> 0:1:1,2
+they shape your networks and they syndicate and interconnect, right.
+
+
+24
+0:1:1,2 --> 0:1:2,92
+It occurs to me that there are these people in the
+
+
+25
+0:1:2,92 --> 0:1:6,84
+center that activate the rest of the network, when it works, right.
+
+
+26
+0:1:6,84 --> 0:1:9,1
+And these are the people that I was starting to get interested in.
+
+
+27
+0:1:9,1 --> 0:1:10,71
+I remember about five years ago when the
+
+
+28
+0:1:10,71 --> 0:1:12,78
+economy was starting to climb to a halt,
+
+
+29
+0:1:12,78 --> 0:1:16,14
+it was grinding to a halt, I wanted to get something going.
+
+
+30
+0:1:16,14 --> 0:1:19,23
+And I was thinking to myself who do we need.
+
+
+31
+0:1:19,23 --> 0:1:21,28
+We need the people who have done it repeatedly.
+
+
+32
+0:1:21,28 --> 0:1:23,42
+We might call them serial entrepreneurs,
+
+
+33
+0:1:23,42 --> 0:1:25,47
+you might call them the people who ultimately
+
+
+34
+0:1:25,47 --> 0:1:27,54
+broker deals or what have you.
+
+
+35
+0:1:27,54 --> 0:1:30,1
+These are the individuals that are going to help us make a heaven.
+
+
+36
+0:1:30,1 --> 0:1:32,38
+For some reason, they're frozen. They are not doing it anymore.
+
+
+37
+0:1:32,38 --> 0:1:35,84
+Why is that? They're living in kind of a fear.
+
+
+38
+0:1:35,84 --> 0:1:39,92
+So I said, let's figure out something, so I developed this algorithm,
+
+
+39
+0:1:39,92 --> 0:1:41,85
+I guess, it's for lack of - it's a vaunted
+
+
+40
+0:1:41,85 --> 0:1:42,92
+term to call it an algorithm.
+
+
+41
+0:1:42,92 --> 0:1:45,91
+The truth of the matter is, I'm looking for people who have multiple
+
+
+42
+0:1:45,91 --> 0:1:49,74
+positions in entrepreneurial firms, I'm actually stacking them up,
+
+
+43
+0:1:49,74 --> 0:1:51,99
+and then I relate them socially to try to understand
+
+
+44
+0:1:51,99 --> 0:1:53,61
+how they're connected to one another.
+
+
+45
+0:1:53,61 --> 0:1:56,78
+Because I want you as young entrepreneurs to be able to access them,
+
+
+46
+0:1:56,78 --> 0:1:59,97
+right, because that's how you're going to be successful.
+
+
+47
+0:1:59,97 --> 0:2:1,85
+So finding out who the who is.
+
+
+48
+0:2:1,85 --> 0:2:4,1
+The way I do that is I try to understand the entrepreneurs
+
+
+49
+0:2:4,1 --> 0:2:5,73
+and investors and generally there are distinctions
+
+
+50
+0:2:5,73 --> 0:2:6,97
+bringing those two types of people.
+
+
+51
+0:2:6,97 --> 0:2:11,27
+But as they move up in their career, they have two equity positions,
+
+
+52
+0:2:11,27 --> 0:2:13,96
+three equity positions, four equity positions in firms,
+
+
+53
+0:2:13,96 --> 0:2:16,96
+they become more and more important in seeing
+
+
+54
+0:2:16,96 --> 0:2:19,42
+the network kind of come to life, right.
+
+
+55
+0:2:19,42 --> 0:2:21,2
+So I'm looking at actors within firms,
+
+
+56
+0:2:21,2 --> 0:2:24,9
+within regions using interlocks, very interested in this.
+
+
+57
+0:2:24,9 --> 0:2:27,88
+It occurred to me, I looked at all the tech hotspots and
+
+
+58
+0:2:27,88 --> 0:2:30,63
+back in the '80s we actually had a whole set of theories
+
+
+59
+0:2:30,63 --> 0:2:32,72
+where if we brought all the technologies together,
+
+
+60
+0:2:32,72 --> 0:2:34,66
+entrepreneurship would happen, right.
+
+
+61
+0:2:34,66 --> 0:2:37,47
+And this is a chart that shows the number of firms born
+
+
+62
+0:2:37,47 --> 0:2:39,82
+and it was fascinating to me that when I looked at it,
+
+
+63
+0:2:39,82 --> 0:2:41,76
+Silicon Valley created almost 5,000
+
+
+64
+0:2:41,76 --> 0:2:44,47
+firms over a 20 year period whereas Boston created about
+
+
+65
+0:2:44,47 --> 0:2:47,43
+half that even though in most cases you're equating Silicon
+
+
+66
+0:2:47,43 --> 0:2:51,5
+Valley and Boston as equal parties in entrepreneurship.
+
+
+67
+0:2:51,5 --> 0:2:53,29
+All these other technology regions including my region,
+
+
+68
+0:2:53,29 --> 0:2:57,32
+Research Triangle Park, created less than 1,000, right.
+
+
+69
+0:2:57,32 --> 0:2:59,73
+Ironically where I come from Research Triangle Park has the highest
+
+
+70
+0:2:59,73 --> 0:3:4,1
+density of PhDs over total employees of anywhere in the world.
+
+
+71
+0:3:4,1 --> 0:3:5,98
+Yet, they're not creating that many companies.
+
+
+72
+0:3:5,98 --> 0:3:8,65
+So I was trying to figure that out.
+
+
+73
+0:3:8,65 --> 0:3:10,31
+When I looked at these patterns,
+
+
+74
+0:3:10,31 --> 0:3:11,71
+these are the number of equity positions
+
+
+75
+0:3:11,71 --> 0:3:15,77
+held and you see the numbers on the left, 1 all the way to 30,
+
+
+76
+0:3:15,77 --> 0:3:17,99
+these are the equity positions by each of these regions.
+
+
+77
+0:3:17,99 --> 0:3:20,9
+And I noticed there was a big fat base
+
+
+78
+0:3:20,9 --> 0:3:22,62
+wherever there was nice economies,
+
+
+79
+0:3:22,62 --> 0:3:24,35
+where Silicon Valley was performing
+
+
+80
+0:3:24,35 --> 0:3:26,6
+so well in creating great companies,
+
+
+81
+0:3:26,6 --> 0:3:28,42
+had a lot of entrepreneurs and investors engaged in it.
+
+
+82
+0:3:28,42 --> 0:3:30,33
+Okay, we already kind of knew that,
+
+
+83
+0:3:30,33 --> 0:3:32,31
+but the other pattern I saw on the data that I thought was really
+
+
+84
+0:3:32,31 --> 0:3:35,34
+interesting was there was a really nice fat long tail.
+
+
+85
+0:3:35,34 --> 0:3:38,93
+There were a lot of people who did a lot of things, right.
+
+
+86
+0:3:38,93 --> 0:3:42,9
+Whereas these other regions you never saw those people, right.
+
+
+87
+0:3:42,9 --> 0:3:46,48
+So I started to look at the relationship of dealmakers to the
+
+
+88
+0:3:46,48 --> 0:3:49,74
+performance of regions by way of creating new companies.
+
+
+89
+0:3:49,74 --> 0:3:52,3
+And I founded as a matter of fact,
+
+
+90
+0:3:52,3 --> 0:3:55,96
+statistically the presence of dealmakers was actually
+
+
+91
+0:3:55,96 --> 0:4:0,19
+more correlated to firm birth than the frequency of
+
+
+92
+0:4:0,19 --> 0:4:2,62
+the availability of entrepreneurs and investors.
+
+
+93
+0:4:2,62 --> 0:4:6,72
+So what does it tell you? It occurs to me, that these people are
+
+
+94
+0:4:6,72 --> 0:4:9,66
+usually in the elite, the top 2.7%,
+
+
+95
+0:4:9,66 --> 0:4:12,65
+these are people who have three or more equity
+
+
+96
+0:4:12,65 --> 0:4:14,73
+positions in entrepreneurial firms.
+
+
+97
+0:4:14,73 --> 0:4:17,829
+And in places like the Bay Area, it's 4.5%
+
+
+98
+0:4:17,829 --> 0:4:20,5
+of the population, whereas places like Austin,
+
+
+99
+0:4:20,5 --> 0:4:24,22
+Texas or Denver, it's around 1%, right.
+
+
+100
+0:4:24,22 --> 0:4:27,25
+So something is in the water here, right.
+
+
+101
+0:4:27,25 --> 0:4:28,63
+It occurs to me, these are the people.
+
+
+102
+0:4:28,63 --> 0:4:30,5
+Well I wanted to map the networks and these are
+
+
+103
+0:4:30,5 --> 0:4:32,73
+the networks of these 12 technology hotspots,
+
+
+104
+0:4:32,73 --> 0:4:35,42
+as a matter of fact they're organized by population,
+
+
+105
+0:4:35,42 --> 0:4:38,63
+so the most populous is Boston, the least populous is Austin,
+
+
+106
+0:4:38,63 --> 0:4:39,69
+the lower right hand side.
+
+
+107
+0:4:39,69 --> 0:4:41,59
+If it varied by population,
+
+
+108
+0:4:41,59 --> 0:4:44,95
+you would expect to see the most dense to the least dense, correct?
+
+
+109
+0:4:44,95 --> 0:4:47,87
+What do you see in the pattern of this data?
+
+
+110
+0:4:47,87 --> 0:4:52,48
+You see the most dense or the most intense
+
+
+111
+0:4:52,48 --> 0:4:54,62
+entrepreneurial network in Silicon Valley.
+
+
+112
+0:4:54,62 --> 0:4:57,22
+The third greatest - largest metropolitan area up here
+
+
+113
+0:4:57,22 --> 0:4:59,3
+Phoenix has the weakest entrepreneurial network.
+
+
+114
+0:4:59,3 --> 0:5:1,0
+I was talking to Michael Crow,
+
+
+115
+0:5:1,0 --> 0:5:2,53
+the Chancellor of Arizona State University,
+
+
+116
+0:5:2,53 --> 0:5:4,8
+shown this data, and he said Zoller, how many people are up there?
+
+
+117
+0:5:4,8 --> 0:5:9,4
+And I said about 150 and he said, I'll just have them over the house.
+
+
+118
+0:5:9,4 --> 0:5:11,19
+I want to talk to these guys.
+
+
+119
+0:5:11,19 --> 0:5:14,61
+Well, in places like RTP or Austin or places like that,
+
+
+120
+0:5:14,61 --> 0:5:17,88
+they hang in there even though they're small places.
+
+
+121
+0:5:17,88 --> 0:5:19,7
+Please, question?
+
+
+122
+0:5:19,7 --> 0:5:24,36
+Okay, the data comes ultimately from private transaction data.
+
+
+123
+0:5:24,36 --> 0:5:28,8
+It comes from public databases, like Standard & Poor's.
+
+
+124
+0:5:28,8 --> 0:5:31,34
+And I came up with the software to actually put all
+
+
+125
+0:5:31,34 --> 0:5:34,98
+the data together and then socially relate it.
+
+
+126
+0:5:34,98 --> 0:5:36,63
+Well, what was fascinating is,
+
+
+127
+0:5:36,63 --> 0:5:39,1
+this is the aggregate network of entrepreneurs
+
+
+128
+0:5:39,1 --> 0:5:40,58
+in each of these regions. What does that tell you?
+
+
+129
+0:5:40,58 --> 0:5:43,23
+What two regions other than Silicon Valley and Boston would you
+
+
+130
+0:5:43,23 --> 0:5:47,6
+say are starting to look like hot entrepreneurial networks?
+
+
+131
+0:5:47,6 --> 0:5:49,14
+San Diego. San Diego and Seattle, right.
+
+
+132
+0:5:49,14 --> 0:5:52,4
+Now I'm leaving out some obvious cities because
+
+
+133
+0:5:52,4 --> 0:5:54,31
+these are technology hotspots, right?
+
+
+134
+0:5:54,31 --> 0:5:56,73
+Leaving out some of the key metropolitan areas
+
+
+135
+0:5:56,73 --> 0:6:0,79
+like Los Angeles or New York or Chicago, starting to study those.
+
+
+136
+0:6:0,79 --> 0:6:2,79
+What's ironic is many of those cities because they're
+
+
+137
+0:6:2,79 --> 0:6:5,5
+financial headquarters tend not to be entrepreneurial.
+
+
+138
+0:6:5,5 --> 0:6:8,17
+But you know the stories that are evolving.
+
+
+139
+0:6:8,17 --> 0:6:10,3
+The Groupon founders are really driving an
+
+
+140
+0:6:10,3 --> 0:6:12,35
+entrepreneurial revolution in Chicago.
+
+
+141
+0:6:12,35 --> 0:6:15,3
+Have you all noticed what's happening in New York lately,
+
+
+142
+0:6:15,3 --> 0:6:17,24
+across the bridge in Brooklyn?
+
+
+143
+0:6:17,24 --> 0:6:18,67
+It's unbelievable, there's an entrepreneurial
+
+
+144
+0:6:18,67 --> 0:6:20,8
+revolution going on there.
+
+
+145
+0:6:20,8 --> 0:6:22,34
+But the aggregate networks are just one story.
+
+
+146
+0:6:22,34 --> 0:6:25,45
+I want to know where the dealmakers are? Well, check this out.
+
+
+147
+0:6:25,45 --> 0:6:27,15
+When you screen the aggregate network
+
+
+148
+0:6:27,15 --> 0:6:31,43
+for three or more equity positions, this is the picture you get.
+
+
+149
+0:6:31,43 --> 0:6:33,35
+Silicon Valley, you would still need the Stanford
+
+
+150
+0:6:33,35 --> 0:6:35,89
+Football Stadium to have everybody there, right.
+
+
+151
+0:6:35,89 --> 0:6:39,22
+Boston, you could probably fit them in the Stanford Basketball Arena.
+
+
+152
+0:6:39,22 --> 0:6:43,67
+Whereas in Austin, you could probably get them in this room, right.
+
+
+153
+0:6:43,67 --> 0:6:45,6
+In Phoenix, you could probably get them in
+
+
+154
+0:6:45,6 --> 0:6:47,83
+the classroom we're going next, right.
+
+
+155
+0:6:47,83 --> 0:6:50,91
+When you go to four plus dealmakers look at this.
+
+
+156
+0:6:50,91 --> 0:6:53,0
+You would still need the basketball stadium
+
+
+157
+0:6:53,0 --> 0:6:55,53
+here in time for Silicon Valley,
+
+
+158
+0:6:55,53 --> 0:6:58,3
+whereas in Boston you could probably get them in this room.
+
+
+159
+0:6:58,3 --> 0:6:59,11
+And the people in Phoenix,
+
+
+160
+0:6:59,11 --> 0:7:1,61
+you could probably get them in the front row,
+
+
+161
+0:7:1,61 --> 0:7:3,29
+pretty interesting, isn't it?
+
+
+162
+0:7:3,29 --> 0:7:5,94
+Things aren't all equal when we are looking
+
+
+163
+0:7:5,94 --> 0:9:5,94
+at the performance of regions.
+
+

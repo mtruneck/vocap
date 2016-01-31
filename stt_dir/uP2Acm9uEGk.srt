@@ -1,0 +1,7343 @@
+1
+0:0:6,64 --> 0:0:14,28
+In that case, I will move on to introduce
+Colonel Gordon Fullerton who got is bachelor's
+
+
+2
+0:0:14,28 --> 0:0:23,869
+and master's degree from Caltech in mechanical
+engineering, did ROTC and went on to the Air
+
+
+3
+0:0:23,869 --> 0:0:33,579
+Force where, well, I guess he has flown, in
+the course of his career about 135 different
+
+
+4
+0:0:33,579 --> 0:0:34,71
+types of airplanes.
+
+
+5
+0:0:34,71 --> 0:0:39,42
+16,000 flying hours.
+
+
+6
+0:0:39,42 --> 0:0:53,929
+He flew F86 interceptors, B47 Bombers before
+going to Air Force test pilot school in the
+
+
+7
+0:0:53,929 --> 0:0:54,55
+mid `60s.
+
+
+8
+0:0:54,55 --> 0:1:1,969
+In '66, he was chosen by the Air Force for
+the Manned Orbiting Laboratory which was going
+
+
+9
+0:1:1,969 --> 0:1:7,49
+to be the Air Force's Space Station.
+
+
+10
+0:1:7,49 --> 0:1:17,32
+That program was cancelled in 1969 and the
+MOL, well, some of the MOL astronauts came
+
+
+11
+0:1:17,32 --> 0:1:20,2
+over to NASA and became NASA astronauts.
+
+
+12
+0:1:20,2 --> 0:1:25,49
+That was in the heyday of Apollo.
+
+
+13
+0:1:25,49 --> 0:1:30,799
+And Gordon was support crew on the last four
+Apollo missions.
+
+
+14
+0:1:30,799 --> 0:1:40,57
+Then went on to be the test pilot on three
+of the first five approach and landing tests.
+
+
+15
+0:1:40,57 --> 0:1:46,6
+If you remember, that is when the Shuttle
+Enterprise, which was not designed for orbital
+
+
+16
+0:1:46,6 --> 0:1:51,439
+flight but was designed to test basically
+the last 50,000 feet down to the ground, was
+
+
+17
+0:1:51,439 --> 0:1:53,39
+dropped from the 747.
+
+
+18
+0:1:53,39 --> 0:2:1,93
+Went onto pilot the third Shuttle flight,
+which was one of the orbital flight tests.
+
+
+19
+0:2:1,93 --> 0:2:4,549
+That was the flight which landed in New Mexico.
+
+
+20
+0:2:4,549 --> 0:2:18,709
+And then commanded STS-51F which was the first
+flight of the instrument pointing system.
+
+
+21
+0:2:18,709 --> 0:2:27,25
+That was also the flight, I am trying to think,
+where you lost the engine, which we talked
+
+
+22
+0:2:27,25 --> 0:2:27,65
+about.
+
+
+23
+0:2:27,65 --> 0:2:31,349
+That was the one flight where we had an engine
+shutdown.
+
+
+24
+0:2:31,349 --> 0:2:37,98
+And we went over that in some detail.
+
+
+25
+0:2:37,98 --> 0:2:42,44
+I think they should hear about it from what
+it seemed like inside the cockpit, now that
+
+
+26
+0:2:42,44 --> 0:2:44,78
+they have heard kind of the technical details.
+
+
+27
+0:2:44,78 --> 0:2:51,879
+In any case, after leaving the Astronautic
+Office, Gordon has moved into pilot's heaven
+
+
+28
+0:2:51,879 --> 0:2:59,55
+which is Edwards Air Force Base, the Dryden
+Test Flight Center where he basically spends
+
+
+29
+0:2:59,55 --> 0:3:0,879
+all his time.
+
+
+30
+0:3:0,879 --> 0:3:3,989
+Well, not all of his time because there is
+management stuff as well.
+
+
+31
+0:3:3,989 --> 0:3:5,549
+Unfortunately, that is the price you pay.
+
+
+32
+0:3:5,549 --> 0:3:9,18
+But basically he gets to fly airplanes for
+a living.
+
+
+33
+0:3:9,18 --> 0:3:15,87
+And lots of different kinds, including the
+career aircraft and the B52 which launches
+
+
+34
+0:3:15,87 --> 0:3:24,65
+various test aircraft and a whole bunch of
+other airplanes.
+
+
+35
+0:3:24,65 --> 0:3:31,12
+If you remember in the whole systems engineering
+approach to things, we talk about the conceived
+
+
+36
+0:3:31,12 --> 0:3:35,62
+design, manufacture, test and operation.
+
+
+37
+0:3:35,62 --> 0:3:42,9
+So this is basically the final lecture and
+this is the test and operation of the Space
+
+
+38
+0:3:42,9 --> 0:3:44,45
+Shuttle from a pilot's point of view.
+
+
+39
+0:3:44,45 --> 0:3:46,47
+So, with that, I will give it to you, Gordon.
+
+
+40
+0:3:46,47 --> 0:3:50,98
+Thanks.
+
+
+41
+0:3:50,98 --> 0:4:1,629
+I was sitting at your place back in 1958 when
+I was a grad student at Caltech for a year
+
+
+42
+0:4:1,629 --> 0:4:3,129
+before heading off to the Air Force.
+
+
+43
+0:4:3,129 --> 0:4:8,45
+Wow, almost 50 years ago.
+
+
+44
+0:4:8,45 --> 0:4:13,48
+But the real blessing of my life is to be
+able to do what I love to do for as long as
+
+
+45
+0:4:13,48 --> 0:4:17,35
+I have done it, beyond all reason.
+
+
+46
+0:4:17,35 --> 0:4:20,22
+Anyway, I hope to share some of that with
+you this morning.
+
+
+47
+0:4:20,22 --> 0:4:21,97
+This is my first time through this pitch.
+
+
+48
+0:4:21,97 --> 0:4:29,25
+Feel free to holler out any questions as we
+go and we will stumble through it together.
+
+
+49
+0:4:29,25 --> 0:4:42,79
+I planned to talk about three different phases
+of the orbiter test program.
+
+
+50
+0:4:42,79 --> 0:4:50,15
+The first were called ALT, the Approach and
+Landing Test, that consisted of really 13
+
+
+51
+0:4:50,15 --> 0:4:57,3
+flights, five captive inert flights where
+the enterprise was flown on top of the 747
+
+
+52
+0:4:57,3 --> 0:4:58,41
+but nobody in the cockpit.
+
+
+53
+0:4:58,41 --> 0:5:0,61
+The controls were locked.
+
+
+54
+0:5:0,61 --> 0:5:7,37
+That was to clear the envelope for the kind
+of unlikely looking combination of a 747 with
+
+
+55
+0:5:7,37 --> 0:5:9,29
+an orbiter on top.
+
+
+56
+0:5:9,29 --> 0:5:14,82
+And then there were three "captive active"
+flights where we were manned up in the orbiter
+
+
+57
+0:5:14,82 --> 0:5:19,57
+with the systems running, the electronics,
+the hydraulics were active.
+
+
+58
+0:5:19,57 --> 0:5:23,5
+The controls were free to move a little bit,
+not full throw.
+
+
+59
+0:5:23,5 --> 0:5:28,73
+And we also determined how high the combination
+could get.
+
+
+60
+0:5:28,73 --> 0:5:38,23
+Because altitude was not 50,000 feet, it was
+more like 28,000 feet max even with the 747
+
+
+61
+0:5:38,23 --> 0:5:41,33
+engines over boosted.
+
+
+62
+0:5:41,33 --> 0:5:47,7
+Followed by three "free flights" were we actually
+pushed the button, munched off the top and
+
+
+63
+0:5:47,7 --> 0:5:51,6
+glided to a landing.
+
+
+64
+0:5:51,6 --> 0:5:56,79
+The orbital flight test, prior to the Shuttle
+Program, OFT consisted of four flights.
+
+
+65
+0:5:56,79 --> 0:6:2,66
+STS 1 through 4 of varying durations.
+
+
+66
+0:6:2,66 --> 0:6:10,23
+STS-1 was planned for just a couple days to
+get up and get down and have a look at how
+
+
+67
+0:6:10,23 --> 0:6:11,3
+things looked after it flew.
+
+
+68
+0:6:11,3 --> 0:6:13,59
+STS-2 was supposed to be five days.
+
+
+69
+0:6:13,59 --> 0:6:19,5
+They had a fuel cell problem that cut their
+flight short, unfortunately for the crew.
+
+
+70
+0:6:19,5 --> 0:6:23,54
+Then I was on STS-3.
+
+
+71
+0:6:23,54 --> 0:6:25,59
+We were scheduled for seven days.
+
+
+72
+0:6:25,59 --> 0:6:32,4
+And, because of a raging dust storm at the
+planned landing site, we got an extra day.
+
+
+73
+0:6:32,4 --> 0:6:33,66
+A real blessing.
+
+
+74
+0:6:33,66 --> 0:6:38,56
+With no tests to do, we had a free day on
+orbit.
+
+
+75
+0:6:38,56 --> 0:6:41,88
+And ended up with eight days.
+
+
+76
+0:6:41,88 --> 0:6:48,85
+STS-4 planned and flew seven days, landing
+on the fourth of July with President Reagan
+
+
+77
+0:6:48,85 --> 0:6:50,55
+out there to watch.
+
+
+78
+0:6:50,55 --> 0:6:55,74
+And then we got into operational flights of
+which there had been a lot.
+
+
+79
+0:6:55,74 --> 0:6:58,69
+Something over a hundred.
+
+
+80
+0:6:58,69 --> 0:7:8,82
+The last flight to fly, the return to flight
+was STS-114, but the number system went through
+
+
+81
+0:7:8,82 --> 0:7:9,95
+a couple of phases.
+
+
+82
+0:7:9,95 --> 0:7:12,86
+There have not been 114 flights.
+
+
+83
+0:7:12,86 --> 0:7:17,44
+I don't know how many it has been, but there
+had been a bunch.
+
+
+84
+0:7:17,44 --> 0:7:24,58
+I will talk about three, well, more than three
+flights, but the ALT flights.
+
+
+85
+0:7:24,58 --> 0:7:32,69
+If you have to have a crew patch, that is
+a major hurdle that you have to overcome.
+
+
+86
+0:7:32,69 --> 0:7:37,14
+When you are assigned to a crew, get the patch
+designed and then get it approved by upper
+
+
+87
+0:7:37,14 --> 0:7:42,6
+management.
+
+
+88
+0:7:42,6 --> 0:7:56,61
+Part of the OFT, STS-3 in 1982 and finally
+then an operational flight 51F in 1985.
+
+
+89
+0:7:56,61 --> 0:8:3,93
+Prior to any of these flights, I worked into
+a dream job for really systems engineering,
+
+
+90
+0:8:3,93 --> 0:8:6,8
+I guess, and for a pilot.
+
+
+91
+0:8:6,8 --> 0:8:9,31
+I had been to test pilot school.
+
+
+92
+0:8:9,31 --> 0:8:18,8
+I was intrigued with all the airplanes I flew
+with a cockpit design and was very aware of
+
+
+93
+0:8:18,8 --> 0:8:19,45
+the flaws of cockpit design.
+
+
+94
+0:8:19,45 --> 0:8:28,77
+It seems like sometimes engineers lie awake
+nights trying to make it hard to operate subsystems.
+
+
+95
+0:8:28,77 --> 0:8:40,9
+I got in at the beginning of the orbiter crew
+interface and became, before it was over,
+
+
+96
+0:8:40,9 --> 0:8:46,7
+sort of the Czar who was responsible to sign
+off all the drawings, lots of reviews.
+
+
+97
+0:8:46,7 --> 0:8:56,39
+It was a great responsibility because I was
+immediately and early into subsystem design
+
+
+98
+0:8:56,39 --> 0:9:0,42
+because you have to know what the subsystem
+does to make any intelligent choice of what
+
+
+99
+0:9:0,42 --> 0:9:4,22
+the controls and displays should be.
+
+
+100
+0:9:4,22 --> 0:9:13,58
+This is a view of, not the Enterprise, but
+probably, I don't know whether it is a simulator
+
+
+101
+0:9:13,58 --> 0:9:20,69
+or the real airplane, they look alike, but
+one of the orbital capable shuttles.
+
+
+102
+0:9:20,69 --> 0:9:26,96
+This is like the little old ladies always
+say when you're out on display for Armed Forces
+
+
+103
+0:9:26,96 --> 0:9:32,5
+Day and look at all the things, how do you
+remember what they all do?
+
+
+104
+0:9:32,5 --> 0:9:38,45
+Well, that really is a challenge to make things
+straightforward.
+
+
+105
+0:9:38,45 --> 0:9:47,65
+And I became painfully aware, especially later
+on when we had a lot of experiments coming
+
+
+106
+0:9:47,65 --> 0:9:56,65
+in, that engineers in their little ivory tower
+building a system in the lab are so totally,
+
+
+107
+0:9:56,65 --> 0:10:2,75
+personally familiar with how their stuff works
+that it doesn't bother them that the switches
+
+
+108
+0:10:2,75 --> 0:10:5,18
+are unlabeled or labeled illogically.
+
+
+109
+0:10:5,18 --> 0:10:10,99
+And they bring that all in and want to put
+it in the orbiter.
+
+
+110
+0:10:10,99 --> 0:10:18,57
+And when the crew says wait a minute, I have
+to remember, before I turn on switch A, switch
+
+
+111
+0:10:18,57 --> 0:10:24,77
+C and D have got to be turned on in this order
+or the whole thing will blow up?
+
+
+112
+0:10:24,77 --> 0:10:26,63
+And they say oh, yeah, that is the way it
+is.
+
+
+113
+0:10:26,63 --> 0:10:29,5
+And they know it so well personally.
+
+
+114
+0:10:29,5 --> 0:10:34,17
+And, yet, when you are overwhelmed with a
+whole lot of experiments, I am sure you ran
+
+
+115
+0:10:34,17 --> 0:10:43,78
+into it on your flight, that all the stuff
+that is just totally familiar to the guy that
+
+
+116
+0:10:43,78 --> 0:10:48,72
+invented it becomes a challenge when you are
+faced with a whole lot of them and a limited
+
+
+117
+0:10:48,72 --> 0:10:50,52
+amount of time to learn it.
+
+
+118
+0:10:50,52 --> 0:10:58,44
+And so, standardization of what the scheme,
+especially in the software.
+
+
+119
+0:10:58,44 --> 0:11:8,85
+While there are a lot of gadgets, in fact,
+if you count all the switches, gauges, circuit
+
+
+120
+0:11:8,85 --> 0:11:14,44
+breakers, upstairs, downstairs and the mid
+deck, there are about 2,100 total in the orbiter
+
+
+121
+0:11:14,44 --> 0:11:17,8
+cockpit.
+
+
+122
+0:11:17,8 --> 0:11:23,66
+But the real challenge is what shows up on
+the screens here.
+
+
+123
+0:11:23,66 --> 0:11:30,0
+So the software was a bigger thing in making
+them all play together.
+
+
+124
+0:11:30,0 --> 0:11:33,72
+Here is a higher view in the overhead panel
+above your head.
+
+
+125
+0:11:33,72 --> 0:11:37,43
+And the forward cockpit has a lot of other
+switches.
+
+
+126
+0:11:37,43 --> 0:11:47,66
+An example of what I am talking about, this
+array of switches right here controls the
+
+
+127
+0:11:47,66 --> 0:11:56,1
+reaction control system valving and then the
+orbital maneuvering system.
+
+
+128
+0:11:56,1 --> 0:12:5,7
+Back in Apollo, which I worked on when I first
+came to Johnson Space Center, I learned, while
+
+
+129
+0:12:5,7 --> 0:12:13,72
+lying many hours in the Apollo crew simulator,
+that that had the worst cockpit every designed
+
+
+130
+0:12:13,72 --> 0:12:16,44
+by man.
+
+
+131
+0:12:16,44 --> 0:12:25,81
+As an example, it had a helium pressurization
+system to push the propellants for the reaction
+
+
+132
+0:12:25,81 --> 0:12:31,18
+control jets out of the tanks and then the
+valves that went to the various arrays of
+
+
+133
+0:12:31,18 --> 0:12:34,9
+thrusters all around the command module.
+
+
+134
+0:12:34,9 --> 0:12:40,37
+And one would think logically, if you have
+something to turn on the helium, you label
+
+
+135
+0:12:40,37 --> 0:12:42,23
+that helium on/off.
+
+
+136
+0:12:42,23 --> 0:12:51,29
+And then the manifold, the next branch in
+the Christmas tree manifold would be system
+
+
+137
+0:12:51,29 --> 0:12:53,55
+A versus system B or something like that.
+
+
+138
+0:12:53,55 --> 0:12:55,86
+And, in fact, it had names like that.
+
+
+139
+0:12:55,86 --> 0:13:3,38
+But they put the switches in a long room and
+labeled them A through H, right there on the
+
+
+140
+0:13:3,38 --> 0:13:5,16
+panel.
+
+
+141
+0:13:5,16 --> 0:13:10,67
+No clue as to what you were throwing, so every
+move you made in the cockpit, some of these
+
+
+142
+0:13:10,67 --> 0:13:19,63
+things were critical, required you to either
+be a metal giant or open a checklist and say
+
+
+143
+0:13:19,63 --> 0:13:29,73
+to pressurize system B, I have got to throw
+B on and then A next and then H last or something
+
+
+144
+0:13:29,73 --> 0:13:30,17
+like that.
+
+
+145
+0:13:30,17 --> 0:13:34,47
+Obviously, unacceptable.
+
+
+146
+0:13:34,47 --> 0:13:41,91
+It became my career and mania to try to improve
+that.
+
+
+147
+0:13:41,91 --> 0:13:49,52
+The first orbiter simulator built was called
+the OAS, Orbiter Aeroflight Simulator.
+
+
+148
+0:13:49,52 --> 0:13:58,67
+It was on a moving based platform like the
+standard airline simulators you see today.
+
+
+149
+0:13:58,67 --> 0:14:2,26
+This is Fred Hayes and I sitting in the cockpit.
+
+
+150
+0:14:2,26 --> 0:14:5,57
+This one was built originally to be the Enterprise.
+
+
+151
+0:14:5,57 --> 0:14:15,88
+And the Enterprise was OV-101 in the scheme
+of things, a numbering of orbiters as they
+
+
+152
+0:14:15,88 --> 0:14:17,9
+were built.
+
+
+153
+0:14:17,9 --> 0:14:23,23
+101 had only the systems it needed to fly
+the approach and landing test.
+
+
+154
+0:14:23,23 --> 0:14:28,35
+The plan was to retrofit it later to make
+it into orbit capable.
+
+
+155
+0:14:28,35 --> 0:14:38,0
+But before the ALT program it had just what
+you needed and only that to fly in the atmosphere
+
+
+156
+0:14:38,0 --> 0:14:39,74
+very short flights.
+
+
+157
+0:14:39,74 --> 0:14:46,95
+But this is our first chance to look at what
+we had and what we were getting into as far
+
+
+158
+0:14:46,95 --> 0:14:50,35
+as pilot concerns.
+
+
+159
+0:14:50,35 --> 0:14:52,99
+Now, I guess you have had all the subsystems,
+right?
+
+
+160
+0:14:52,99 --> 0:14:58,69
+You were all completely briefed and experts
+on subsystems by the people that had preceded
+
+
+161
+0:14:58,69 --> 0:15:0,36
+me here in the course.
+
+
+162
+0:15:0,36 --> 0:15:7,15
+I will give you, though, a quick review here,
+the avionics system.
+
+
+163
+0:15:7,15 --> 0:15:15,279
+The Shuttle is build with inside the outer
+mole line as the pressure vessel that is roughly
+
+
+164
+0:15:15,279 --> 0:15:24,86
+back to the forward bulkhead of the payload
+bay and is imbedded inside basically aluminum
+
+
+165
+0:15:24,86 --> 0:15:30,6
+structure with a thermal protection system
+applied to the outside.
+
+
+166
+0:15:30,6 --> 0:15:38,18
+And most of the avionics are in racks right
+up here, right in there with you in the cockpit
+
+
+167
+0:15:38,18 --> 0:15:39,85
+on the middeck.
+
+
+168
+0:15:39,85 --> 0:15:48,32
+The stowage lockers are aft of the racks full
+of black boxes and lots of wires.
+
+
+169
+0:15:48,32 --> 0:15:53,69
+And the other place there were avionics is
+back here just after the aft bulkhead of the
+
+
+170
+0:15:53,69 --> 0:15:54,46
+payload bay.
+
+
+171
+0:15:54,46 --> 0:16:1,57
+And there are some areas where they put items
+like rate gyros and accelerometers.
+
+
+172
+0:16:1,57 --> 0:16:10,43
+A lot way back.
+
+
+173
+0:16:10,43 --> 0:16:18,87
+From a systems engineering standpoint, Fred
+Hayes and I were out at Palmdale where they
+
+
+174
+0:16:18,87 --> 0:16:20,86
+built all the orbiters.
+
+
+175
+0:16:20,86 --> 0:16:32,22
+It seems like the testing always happens after
+2:00 AM, tests would run around the clock.
+
+
+176
+0:16:32,22 --> 0:16:39,77
+And we were out there way after midnight in
+the cockpit participating in the first time
+
+
+177
+0:16:39,77 --> 0:16:44,85
+they were going to close the loop between
+the rate gyros and the flight control system
+
+
+178
+0:16:44,85 --> 0:16:51,4
+which is contained back up here in the nose
+and the general purpose computers.
+
+
+179
+0:16:51,4 --> 0:16:58,69
+The whole orbiter was suspended on some big
+airfield bag so it had compliance to move.
+
+
+180
+0:16:58,69 --> 0:17:5,89
+And the hydraulic system was on powered by
+a facility hydraulic source.
+
+
+181
+0:17:5,89 --> 0:17:13,85
+The elevons were powered and the rudder speed
+brake was powered and the process let us down
+
+
+182
+0:17:13,85 --> 0:17:20,66
+for the very first time that we were going
+to close the loop between the software up
+
+
+183
+0:17:20,66 --> 0:17:27,199
+here and the rate gyros particularly and accelerometers
+mounted in the back.
+
+
+184
+0:17:27,199 --> 0:17:29,22
+And it was a milestone.
+
+
+185
+0:17:29,22 --> 0:17:36,29
+And we had people stationed around the back
+to see if anything spit out hydraulic fluid
+
+
+186
+0:17:36,29 --> 0:17:39,24
+or whatever.
+
+
+187
+0:17:39,24 --> 0:17:44,29
+Anyway, we went up to the glass shield and
+pushed the button to go into CSS, Control
+
+
+188
+0:17:44,29 --> 0:17:51,27
+Stick Steering, which hooked the stick up
+now to the flight control system.
+
+
+189
+0:17:51,27 --> 0:17:55,54
+I will never forget.
+
+
+190
+0:17:55,54 --> 0:18:1,12
+We pushed the button and a rumble started.
+
+
+191
+0:18:1,12 --> 0:18:4,36
+And the rumble built very rapidly to a violent
+rumble.
+
+
+192
+0:18:4,36 --> 0:18:7,62
+I mean we were being bounced around the cockpit.
+
+
+193
+0:18:7,62 --> 0:18:15,59
+This is 150,000 pounds of airplane dancing
+on these rubber bags.
+
+
+194
+0:18:15,59 --> 0:18:19,64
+And it didn't take us long to say this doesn't
+feel good.
+
+
+195
+0:18:19,64 --> 0:18:25,44
+We pulled the button that downloads back to
+direct control so there is no feedback.
+
+
+196
+0:18:25,44 --> 0:18:30,809
+And the upshot of it was that these rate gyros
+are mounted on this flexible bulkhead.
+
+
+197
+0:18:30,809 --> 0:18:35,89
+And that had been taken into account properly.
+
+
+198
+0:18:35,89 --> 0:18:41,38
+And so there was a structural resonance that
+was just diversion.
+
+
+199
+0:18:41,38 --> 0:18:49,2
+In spite of all the Grounds tests down at
+Downy and the Iron Bird mockups and everything,
+
+
+200
+0:18:49,2 --> 0:18:58,19
+when we put it in the real airplane it tried
+to jump off the supports.
+
+
+201
+0:18:58,19 --> 0:19:6,16
+And Fred and I were in the cockpit, our eyes
+were big, and we called the control room which
+
+
+202
+0:19:6,16 --> 0:19:8,37
+were people back in an adjacent room.
+
+
+203
+0:19:8,37 --> 0:19:14,6
+It seems like most spacecraft tests, traditionally,
+are done with engineers all locked up in windowless
+
+
+204
+0:19:14,6 --> 0:19:16,85
+room, no view of the real hardware.
+
+
+205
+0:19:16,85 --> 0:19:23,39
+Down at the Cape they are miles away when
+the spacecraft is either out on the pad or
+
+
+206
+0:19:23,39 --> 0:19:26,3
+in the main checkout building.
+
+
+207
+0:19:26,3 --> 0:19:34,3
+And so they said no, the procedure says this
+is OK and we want you to re-engage.
+
+
+208
+0:19:34,3 --> 0:19:37,37
+We tried one more time.
+
+
+209
+0:19:37,37 --> 0:19:42,63
+And this time the guy stationed in back that
+were watching said this doesn't look good.
+
+
+210
+0:19:42,63 --> 0:19:46,3
+They started hollering on the loop so we pitched
+it off.
+
+
+211
+0:19:46,3 --> 0:19:50,67
+And we went into a raging argument.
+
+
+212
+0:19:50,67 --> 0:19:53,4
+We need to complete this test, the engineers
+were saying.
+
+
+213
+0:19:53,4 --> 0:19:56,42
+And we were saying we don't want to break
+something.
+
+
+214
+0:19:56,42 --> 0:20:1,8
+And they got people out of bed down in California,
+controls engineers.
+
+
+215
+0:20:1,8 --> 0:20:7,53
+And so, it was a memorable night.
+
+
+216
+0:20:7,53 --> 0:20:16,52
+The resolution was finally a redesign of the
+mounting area back there and reanalysis of
+
+
+217
+0:20:16,52 --> 0:20:21,7
+the vibrational modes of the aft bulkhead
+sorted all out.
+
+
+218
+0:20:21,7 --> 0:20:31,54
+Here is what we had for a crew interface.
+
+
+219
+0:20:31,54 --> 0:20:38,78
+You saw in the earlier picture, upfront three
+CRTs, monochrome, green, it was either green
+
+
+220
+0:20:38,78 --> 0:20:45,53
+or nothing on the screen, and we had two keyboards,
+three CRTs.
+
+
+221
+0:20:45,53 --> 0:20:49,71
+There was always this little concern, when
+you are punching on a keyboard, you want to
+
+
+222
+0:20:49,71 --> 0:20:55,22
+be sure it is selected to the CRT you think
+you are doing something on.
+
+
+223
+0:20:55,22 --> 0:20:58,799
+Another marginal design, but that is what
+we ended up with.
+
+
+224
+0:20:58,799 --> 0:21:2,65
+You notice we have a hexadecimal keyboard
+here.
+
+
+225
+0:21:2,65 --> 0:21:13,3
+We have some strange keys called item and
+electric and ops which had to do with this
+
+
+226
+0:21:13,3 --> 0:21:17,79
+truly unique way you cause things to happen
+through software.
+
+
+227
+0:21:17,79 --> 0:21:21,38
+And lots of things were critical through software.
+
+
+228
+0:21:21,38 --> 0:21:24,53
+And then this rather dim green screen.
+
+
+229
+0:21:24,53 --> 0:21:30,71
+This was way before the days, I guess, Bill
+Gates was still here at MIT or maybe even
+
+
+230
+0:21:30,71 --> 0:21:32,27
+hadn't registered yet.
+
+
+231
+0:21:32,27 --> 0:21:32,97
+I don't know.
+
+
+232
+0:21:32,97 --> 0:21:36,63
+It was way before Windows 1.0.
+
+
+233
+0:21:36,63 --> 0:21:45,17
+And so it seems almost comical now when you
+compare it to even modern airliner crew interface
+
+
+234
+0:21:45,17 --> 0:21:51,49
+with glass cockpits, but we were breaking
+new ground here.
+
+
+235
+0:21:51,49 --> 0:21:58,59
+And it, even at the time, seemed antiquated
+because that is all they were willing to embrace
+
+
+236
+0:21:58,59 --> 0:22:3,29
+in the way of computer control and design.
+
+
+237
+0:22:3,29 --> 0:22:4,62
+And it was unique.
+
+
+238
+0:22:4,62 --> 0:22:13,25
+And it causes lots of headaches and delays.
+
+
+239
+0:22:13,25 --> 0:22:23,41
+The big thing about the orbiter with its data
+process system, the decision was made that
+
+
+240
+0:22:23,41 --> 0:22:29,19
+everything is going to be done with these
+all powerful general purpose computers in
+
+
+241
+0:22:29,19 --> 0:22:33,12
+which there were five in an array that worked
+together.
+
+
+242
+0:22:33,12 --> 0:22:41,94
+Flight control, system management, navigation,
+inertial subsystem control of everything.
+
+
+243
+0:22:41,94 --> 0:22:50,88
+And so, the result was the software loads,
+as they were built, had lots of flaws when
+
+
+244
+0:22:50,88 --> 0:22:54,49
+they came down, yet we couldn't fix them.
+
+
+245
+0:22:54,49 --> 0:23:4,0
+We had cases as dumb as a display that showed
+the Freon loop A pump on.
+
+
+246
+0:23:4,0 --> 0:23:9,6
+And, when it got through the entire software
+belt, it was backwards.
+
+
+247
+0:23:9,6 --> 0:23:12,65
+It would say off when it was really on.
+
+
+248
+0:23:12,65 --> 0:23:14,25
+Seems like a simple fix, right?
+
+
+249
+0:23:14,25 --> 0:23:20,12
+Go back to the programmer and rewrite the
+code.
+
+
+250
+0:23:20,12 --> 0:23:21,73
+But we couldn't do it.
+
+
+251
+0:23:21,73 --> 0:23:25,85
+We had to live with it for a long period of
+time through training until another whole
+
+
+252
+0:23:25,85 --> 0:23:27,64
+load was built.
+
+
+253
+0:23:27,64 --> 0:23:35,4
+Because the load that would fix this dumb
+little bi-level mistake was also the one that
+
+
+254
+0:23:35,4 --> 0:23:38,21
+steered you during ascent.
+
+
+255
+0:23:38,21 --> 0:23:42,679
+So everything was frozen and there was great
+fear of changing anything that would ricochet
+
+
+256
+0:23:42,679 --> 0:23:45,179
+through to something truly critical.
+
+
+257
+0:23:45,179 --> 0:23:57,7
+And so, even when we got to STS-3, we flew
+with a book about this thick of program notes
+
+
+258
+0:23:57,7 --> 0:24:6,59
+that told you, line after line, what was wrong,
+what was backwards, what was a trap.
+
+
+259
+0:24:6,59 --> 0:24:12,54
+And really a big challenge to the crew to
+embrace and live with because there just wasn't
+
+
+260
+0:24:12,54 --> 0:24:19,73
+time in the program to build another load,
+check it out through all the different labs
+
+
+261
+0:24:19,73 --> 0:24:26,88
+that had to certify it.
+
+
+262
+0:24:26,88 --> 0:24:32,86
+That is load for modular software where you
+can change something here and be assured you
+
+
+263
+0:24:32,86 --> 0:24:40,26
+are not bollixing up something else in the
+same machine.
+
+
+264
+0:24:40,26 --> 0:24:41,49
+OMS, RCS.
+
+
+265
+0:24:41,49 --> 0:24:43,9
+These are the two pods.
+
+
+266
+0:24:43,9 --> 0:24:50,1
+On either side of the vertical tail are a
+couple big OMS, propellant tanks, oxidizer
+
+
+267
+0:24:50,1 --> 0:24:51,86
+and fuel hypergolic.
+
+
+268
+0:24:51,86 --> 0:24:53,419
+We didn't need any ignition system.
+
+
+269
+0:24:53,419 --> 0:24:59,89
+As soon as these came together in a thruster
+you had thrust.
+
+
+270
+0:24:59,89 --> 0:25:4,14
+And there were, I think, 44 main thrusters.
+
+
+271
+0:25:4,14 --> 0:25:8,41
+Here are four yaw jets firing out to the side.
+
+
+272
+0:25:8,41 --> 0:25:11,12
+S&B pitch jets.
+
+
+273
+0:25:11,12 --> 0:25:13,59
+The same thing repeated on the other side.
+
+
+274
+0:25:13,59 --> 0:25:16,91
+And up in the nose are the forward RCS.
+
+
+275
+0:25:16,91 --> 0:25:20,61
+They had jets that fired up and out to the
+side and down.
+
+
+276
+0:25:20,61 --> 0:25:26,919
+And I mentioned the controls in the cockpit,
+which we did.
+
+
+277
+0:25:26,919 --> 0:25:36,16
+One of my great successes was getting the
+orbiter panels to be arranged in a plumbing
+
+
+278
+0:25:36,16 --> 0:25:40,65
+layout so that you could see what you were
+pressurizing when you turned on the helium
+
+
+279
+0:25:40,65 --> 0:25:44,19
+for a given let and that sort of thing.
+
+
+280
+0:25:44,19 --> 0:25:53,34
+Helium tanks are what pressurized in a really
+cleaver system of OH control.
+
+
+281
+0:25:53,34 --> 0:26:0,679
+That is when you are in zero G and you have
+propellant floating around randomly.
+
+
+282
+0:26:0,679 --> 0:26:4,72
+And you turn on the helium to push it toward
+the outlet.
+
+
+283
+0:26:4,72 --> 0:26:10,51
+If the outlet is uncovered, the helium is
+going to squirt right out.
+
+
+284
+0:26:10,51 --> 0:26:17,59
+But they had an elaborate system of surface
+tension kind of baffles that kept and trapped
+
+
+285
+0:26:17,59 --> 0:26:24,73
+fuel near the outlet of the tank so that when
+the thrust came on and all the propellant
+
+
+286
+0:26:24,73 --> 0:26:32,419
+went down where it should, it sort of recharged
+this chamber at the bottom of the tanks to
+
+
+287
+0:26:32,419 --> 0:26:38,669
+keep it flowing smoothly and not lose all
+the pressurization.
+
+
+288
+0:26:38,669 --> 0:26:53,66
+I remember my first impression of what reaction
+control jets would be like was based on science
+
+
+289
+0:26:53,66 --> 0:27:0,169
+fiction movies where you would see the spacecraft
+out there and there were little squirts of
+
+
+290
+0:27:0,169 --> 0:27:2,64
+jets that nudge you around.
+
+
+291
+0:27:2,64 --> 0:27:9,74
+And we went out to the Ground test facility
+at White Sands on a fieldtrip out there where
+
+
+292
+0:27:9,74 --> 0:27:16,7
+they actually had the forward RCS setup, and
+they were going to do real firings of the
+
+
+293
+0:27:16,7 --> 0:27:19,49
+main jets out there.
+
+
+294
+0:27:19,49 --> 0:27:24,25
+And we were probably a couple hundred feet
+away from the test setup.
+
+
+295
+0:27:24,25 --> 0:27:33,309
+We were out there waiting for this sequence
+of jet firing to start on a test.
+
+
+296
+0:27:33,309 --> 0:27:41,77
+And the first firing of one of the main jets,
+which are right up around 900 pounds thrust,
+
+
+297
+0:27:41,77 --> 0:27:42,86
+was just this short pulse.
+
+
+298
+0:27:42,86 --> 0:27:46,47
+And everybody went about three feet off the
+ground.
+
+
+299
+0:27:46,47 --> 0:27:49,77
+I mean it was like you fired a howitzer.
+
+
+300
+0:27:49,77 --> 0:27:51,44
+It was just stunning.
+
+
+301
+0:27:51,44 --> 0:27:56,0
+Wham, wham, and it just blew you away.
+
+
+302
+0:27:56,0 --> 0:27:59,38
+And the realization of we are going to be
+in the cockpit here, and these things are
+
+
+303
+0:27:59,38 --> 0:28:3,75
+firing right outside the windshield.
+
+
+304
+0:28:3,75 --> 0:28:4,52
+They did.
+
+
+305
+0:28:4,52 --> 0:28:9,49
+In space, the ignition transient ricochets
+through the structure.
+
+
+306
+0:28:9,49 --> 0:28:12,58
+You can hear this kind of bombing effect.
+
+
+307
+0:28:12,58 --> 0:28:18,19
+But once they are on, if it is a long duration
+firing, it is silent.
+
+
+308
+0:28:18,19 --> 0:28:25,39
+And the same way visually, you can see a flash
+when the fuel is led a little bit in front
+
+
+309
+0:28:25,39 --> 0:28:28,429
+of the oxidizer to make sure you don't overheat
+something.
+
+
+310
+0:28:28,429 --> 0:28:31,27
+And so, there is incomplete combustion at
+the ignition.
+
+
+311
+0:28:31,27 --> 0:28:32,789
+You can see a flash go out there.
+
+
+312
+0:28:32,789 --> 0:28:38,88
+But what is on during an OMS burn, for instance,
+when these OMS engines are firing and you
+
+
+313
+0:28:38,88 --> 0:28:42,929
+are looking back at the aft, you see the flash
+and they are on and they are pushing and you
+
+
+314
+0:28:42,929 --> 0:28:43,47
+can feel it.
+
+
+315
+0:28:43,47 --> 0:28:48,6
+But otherwise invisible is the way I remember.
+
+
+316
+0:28:48,6 --> 0:28:51,85
+On the other hand, there are vernier jets,
+little guys.
+
+
+317
+0:28:51,85 --> 0:28:53,75
+I don't know if they are shown here.
+
+
+318
+0:28:53,75 --> 0:29:0,75
+But there are little 25 pound thrusters or
+something used 98% of the time on orbit.
+
+
+319
+0:29:0,75 --> 0:29:5,179
+You really are doing that kind of thing with
+the vernier jets.
+
+
+320
+0:29:5,179 --> 0:29:9,179
+And you cannot hear those or see anything
+when they are going off.
+
+
+321
+0:29:9,179 --> 0:29:16,179
+In fact, we got everybody quiet and kind of
+held onto the walls just trying to see if
+
+
+322
+0:29:16,179 --> 0:29:22,88
+we could barely detect when a vernier jet
+fired physically in a cockpit.
+
+
+323
+0:29:22,88 --> 0:29:29,57
+Interesting.
+
+
+324
+0:29:29,57 --> 0:29:36,66
+The orbiter is one giant heat transfer machine.
+
+
+325
+0:29:36,66 --> 0:29:45,47
+Lots of calories of heat energy pumped around
+from one end to the other.
+
+
+326
+0:29:45,47 --> 0:29:53,87
+And so, there are water loops within the cabin
+that transfer the heat to Freon loops.
+
+
+327
+0:29:53,87 --> 0:30:0,19
+The fluid is pumped through the radiators
+to reject heat.
+
+
+328
+0:30:0,19 --> 0:30:8,48
+In spite of all these heat rejection systems
+then there are heaters everywhere, whole banks
+
+
+329
+0:30:8,48 --> 0:30:10,15
+of heaters to keep stuff from freezing.
+
+
+330
+0:30:10,15 --> 0:30:19,9
+Then for the landing and takeoff phases, there
+are flash evaporators that flash water and/or
+
+
+331
+0:30:19,9 --> 0:30:23,299
+ammonia.
+
+
+332
+0:30:23,299 --> 0:30:32,59
+When you are down in the atmosphere you use
+ammonia to cool the loops.
+
+
+333
+0:30:32,59 --> 0:30:35,58
+And, of course, the payload bay doors are
+closed.
+
+
+334
+0:30:35,58 --> 0:30:44,86
+And it turns out STS-3, a major test of it
+was test all these loops and how the structure
+
+
+335
+0:30:44,86 --> 0:30:51,71
+responded to long durations of given attitudes
+with the sun shining on one side and cold
+
+
+336
+0:30:51,71 --> 0:30:58,91
+space on the other side and how the structure
+would distort or hopefully not distort and
+
+
+337
+0:30:58,91 --> 0:31:0,74
+how all that system would work.
+
+
+338
+0:31:0,74 --> 0:31:7,75
+As it turned out, if you like lots of redundancy,
+this is probably the weak point I thought
+
+
+339
+0:31:7,75 --> 0:31:12,49
+in the whole orbiter design, we've got three
+engines.
+
+
+340
+0:31:12,49 --> 0:31:16,14
+We proved that you can get there with only
+two.
+
+
+341
+0:31:16,14 --> 0:31:22,86
+But the Freon loops, there were two redundant
+through the radiators.
+
+
+342
+0:31:22,86 --> 0:31:28,32
+And if one Freon loop pumped quick you are
+in a severe emergency.
+
+
+343
+0:31:28,32 --> 0:31:31,549
+That means stop everything and power down
+severely.
+
+
+344
+0:31:31,549 --> 0:31:44,2
+Turn off all the computers except one, get
+in a proper attitude and go into a panic reconfiguration
+
+
+345
+0:31:44,2 --> 0:31:45,62
+to come back and land.
+
+
+346
+0:31:45,62 --> 0:31:49,85
+Originally, the design had three Freon loops.
+
+
+347
+0:31:49,85 --> 0:31:56,37
+It could use one and go on with no concern.
+
+
+348
+0:31:56,37 --> 0:32:7,559
+But, as it turned out, the heat loads were
+so high and the weight criticality determined
+
+
+349
+0:32:7,559 --> 0:32:13,82
+that all we had electrical power to run were
+two loops.
+
+
+350
+0:32:13,82 --> 0:32:19,59
+And so we ended up with a single Freon loop
+which fortunately, as far as I know, never
+
+
+351
+0:32:19,59 --> 0:32:20,809
+failed.
+
+
+352
+0:32:20,809 --> 0:32:30,3
+But if it had it would have been a crash deorbit
+landing under severely powered down conditions.
+
+
+353
+0:32:30,3 --> 0:32:38,12
+While it is kind of mundane and people don't
+think about it as a primary system, the thermal
+
+
+354
+0:32:38,12 --> 0:32:42,49
+control really was critical.
+
+
+355
+0:32:42,49 --> 0:32:50,23
+Payload bay doors, this is a busy chart but
+indicates these are really complicated.
+
+
+356
+0:32:50,23 --> 0:33:3,289
+60 feet long and something like 120 little
+motor driven latches to latch them closed.
+
+
+357
+0:33:3,289 --> 0:33:10,69
+And you don't just go chunk close like the
+bomb bay on a B52 and it is closed.
+
+
+358
+0:33:10,69 --> 0:33:17,2
+To close the payload bay doors you get them
+close and then the latches along the bulked,
+
+
+359
+0:33:17,2 --> 0:33:20,549
+all in a zipper fashion, have to sequentially
+close.
+
+
+360
+0:33:20,549 --> 0:33:29,559
+And then you go down the center section to
+latch the two left and right doors together.
+
+
+361
+0:33:29,559 --> 0:33:33,179
+All software controlled.
+
+
+362
+0:33:33,179 --> 0:33:39,95
+And there was a lot of concern that we address
+on STS-3 particularly about whether this is
+
+
+363
+0:33:39,95 --> 0:33:41,21
+all going to work.
+
+
+364
+0:33:41,21 --> 0:33:47,82
+If you have been floating around with these
+pointed to dark space, would they distort
+
+
+365
+0:33:47,82 --> 0:33:50,83
+to where the zipper scheme would work?
+
+
+366
+0:33:50,83 --> 0:34:0,5
+We worried about it enough that part of our
+emergency training, contingency training,
+
+
+367
+0:34:0,5 --> 0:34:7,799
+a lot of time was spent underwater in the
+neutral buoyancy tank looking at a system
+
+
+368
+0:34:7,799 --> 0:34:18,129
+going out EVA with a series of come-alongs,
+you know, the kind of things you use to pull
+
+
+369
+0:34:18,129 --> 0:34:28,519
+the motor out a car, that kind of thing, that
+we could go down there and hookup and latch
+
+
+370
+0:34:28,519 --> 0:34:37,739
+the doors shut to actually manually get them
+shut and then latch them shut with these.
+
+
+371
+0:34:37,739 --> 0:34:39,19
+Fortunately, that has never been used.
+
+
+372
+0:34:39,19 --> 0:34:46,839
+And this complex system has worked good, but
+it was scary the first time we flew it on
+
+
+373
+0:34:46,839 --> 0:34:47,729
+STS-3.
+
+
+374
+0:34:47,729 --> 0:34:50,2
+That was a big concern.
+
+
+375
+0:34:50,2 --> 0:34:58,819
+What I have got here is hydraulic system.
+
+
+376
+0:34:58,819 --> 0:35:8,269
+Hydraulics are hydrazine powered turbines
+that run at some ridiculous RPM, like 200,000
+
+
+377
+0:35:8,269 --> 0:35:12,95
+RPM to drive hydraulic pumps back here in
+the backend.
+
+
+378
+0:35:12,95 --> 0:35:19,89
+And then they are crucial during launch because
+they have got to hold the elevons in position.
+
+
+379
+0:35:19,89 --> 0:35:28,19
+But they also have to provide the muscle to
+gimbal the main engines and keep you steering
+
+
+380
+0:35:28,19 --> 0:35:31,4
+straight during launch.
+
+
+381
+0:35:31,4 --> 0:35:37,16
+During entry they are what you use to fly
+when you get into a dynamic pressure situation.
+
+
+382
+0:35:37,16 --> 0:35:40,969
+Control the rudder speed brake and the body
+flap.
+
+
+383
+0:35:40,969 --> 0:35:48,369
+The body flap is a big surface that sticks
+out underneath the main engine bells and is
+
+
+384
+0:35:48,369 --> 0:35:50,859
+a slow moving trem device.
+
+
+385
+0:35:50,859 --> 0:35:52,9
+The body flat is always moved.
+
+
+386
+0:35:52,9 --> 0:35:59,869
+You go through this mach 25 to mach zero envelope.
+
+
+387
+0:35:59,869 --> 0:36:7,2
+And the trem conditions necessary with these
+big elevons varies a lot.
+
+
+388
+0:36:7,2 --> 0:36:14,15
+So, to desaturate the elevons and keep them
+basically faired with the wing, the body flap
+
+
+389
+0:36:14,15 --> 0:36:16,46
+is your trim device.
+
+
+390
+0:36:16,46 --> 0:36:21,839
+And it is like this row of tables long and
+this wide.
+
+
+391
+0:36:21,839 --> 0:36:25,44
+I remember asking to see the motor.
+
+
+392
+0:36:25,44 --> 0:36:31,99
+It is driven by a whole lot of mechanical
+advantage by a hydraulic motor.
+
+
+393
+0:36:31,99 --> 0:36:34,119
+A guy took me around.
+
+
+394
+0:36:34,119 --> 0:36:36,869
+I couldn't find the actuator for the body
+flap.
+
+
+395
+0:36:36,869 --> 0:36:37,349
+He showed me.
+
+
+396
+0:36:37,349 --> 0:36:41,119
+The motor was this big around and this long,
+a little hydraulic motor.
+
+
+397
+0:36:41,119 --> 0:36:45,13
+So you can do anything with mechanical advantage.
+
+
+398
+0:36:45,13 --> 0:36:47,9
+But it didn't have to move very fast.
+
+
+399
+0:36:47,9 --> 0:36:54,71
+Finally, on the system pictures here, the
+RMS.
+
+
+400
+0:36:54,71 --> 0:36:56,519
+Hopefully, you have heard about this.
+
+
+401
+0:36:56,519 --> 0:36:59,45
+It was built by Spara up in Canada.
+
+
+402
+0:36:59,45 --> 0:37:3,44
+The Canadians main contribution to the orbiter
+program.
+
+
+403
+0:37:3,44 --> 0:37:5,38
+A pretty magical device.
+
+
+404
+0:37:5,38 --> 0:37:13,859
+It can go on either side, but for our flights
+mounted on the left-hand side or the right
+
+
+405
+0:37:13,859 --> 0:37:16,64
+if you're looking out the back windows at
+it.
+
+
+406
+0:37:16,64 --> 0:37:25,799
+And it had joints logically called the shoulder
+joint, elbow, wrist joint.
+
+
+407
+0:37:25,799 --> 0:37:29,969
+All electric motor driven.
+
+
+408
+0:37:29,969 --> 0:37:32,279
+But the interesting thing was a control.
+
+
+409
+0:37:32,279 --> 0:37:39,249
+You had hand controllers mounted in the aft
+part on the right console in the back where
+
+
+410
+0:37:39,249 --> 0:37:40,16
+you looked out.
+
+
+411
+0:37:40,16 --> 0:37:46,9
+And you could work in the mode where you actually
+drive in the end left, right, up, down, in,
+
+
+412
+0:37:46,9 --> 0:37:50,59
+out without regard to whatever joint was done.
+
+
+413
+0:37:50,59 --> 0:37:52,39
+That is all resolved by the software.
+
+
+414
+0:37:52,39 --> 0:37:54,229
+And worked well.
+
+
+415
+0:37:54,229 --> 0:38:0,96
+The end effector was a cleaver kind of a hallow
+cylindrical device.
+
+
+416
+0:38:0,96 --> 0:38:12,259
+It would rotate inside and three cables that
+would be curved around the periphery inside
+
+
+417
+0:38:12,259 --> 0:38:15,95
+this cavity when activated.
+
+
+418
+0:38:15,95 --> 0:38:22,369
+I put this over a post on whatever you wanted
+to grab onto with a knob on the end.
+
+
+419
+0:38:22,369 --> 0:38:27,42
+You go over the post and then rotate the inner
+barrel and the cables would wrap up and grab
+
+
+420
+0:38:27,42 --> 0:38:28,93
+onto the post.
+
+
+421
+0:38:28,93 --> 0:38:31,88
+And then they would retract in to rigidize.
+
+
+422
+0:38:31,88 --> 0:38:34,549
+And that was the grabber on the RMS.
+
+
+423
+0:38:34,549 --> 0:38:38,79
+And we flew this on STS-3.
+
+
+424
+0:38:38,79 --> 0:38:39,109
+I will show you later.
+
+
+425
+0:38:39,109 --> 0:38:45,729
+Anyway, that is the subsystem review.
+
+
+426
+0:38:45,729 --> 0:38:51,339
+Let me show you how things went during approach
+and landing tests.
+
+
+427
+0:38:51,339 --> 0:38:52,15
+Now, let's see.
+
+
+428
+0:38:52,15 --> 0:39:1,17
+I have never figured out how to imbed video
+and PowerPoint so I am going to be doing it
+
+
+429
+0:39:1,17 --> 0:39:1,66
+manually.
+
+
+430
+0:39:1,66 --> 0:39:21,18
+Any questions while we are waiting on this
+to come up?
+
+
+431
+0:39:21,18 --> 0:39:28,489
+Well, this is the desert around where I live
+and a Gila monster and a Joshua tree to set
+
+
+432
+0:39:28,489 --> 0:39:29,49
+the scene.
+
+
+433
+0:39:29,49 --> 0:39:33,999
+And here you have OV-101.
+
+
+434
+0:39:33,999 --> 0:39:38,789
+The numbering system, as it turned out, is
+kind of interesting.
+
+
+435
+0:39:38,789 --> 0:39:42,589
+They built OV-99 as the structural test article.
+
+
+436
+0:39:42,589 --> 0:39:49,71
+It was strictly built to be in the lab and
+do all the structural testing on it.
+
+
+437
+0:39:49,71 --> 0:39:58,839
+101 then was the first orbiter build, the
+Enterprise, being hauled from Palmdale across
+
+
+438
+0:39:58,839 --> 0:40:3,739
+the backgrounds and the desert roads to get
+over to Edwards in these scenes.
+
+
+439
+0:40:3,739 --> 0:40:6,91
+And 101 was the ALT airplane.
+
+
+440
+0:40:6,91 --> 0:40:10,91
+You can see kind of phony looking RCS.
+
+
+441
+0:40:10,91 --> 0:40:18,349
+It has, as I mentioned, only the systems that
+you needed to fly atmospheric flight.
+
+
+442
+0:40:18,349 --> 0:40:23,44
+This was a big thing getting it across the
+country.
+
+
+443
+0:40:23,44 --> 0:40:26,64
+It had a Pitot boom on it.
+
+
+444
+0:40:26,64 --> 0:40:30,42
+It has just simulated thermal protection.
+
+
+445
+0:40:30,42 --> 0:40:37,9
+Styrofoam painted to look kind of like they
+thought the space vehicles would look but
+
+
+446
+0:40:37,9 --> 0:40:38,29
+wasn't real.
+
+
+447
+0:40:38,29 --> 0:40:46,89
+It was put in the mating and docking device
+which is at NASA Dryden where I work now.
+
+
+448
+0:40:46,89 --> 0:40:46,88
+Hoisted it up.
+
+
+449
+0:40:46,88 --> 0:40:54,479
+And then the 747 and 905, the first Shuttle
+carrier aircraft, was pulled under and they
+
+
+450
+0:40:54,479 --> 0:40:55,119
+mated them up.
+
+
+451
+0:40:55,119 --> 0:41:0,709
+I remember flying out to Edwards and seeing
+this unlikely combination.
+
+
+452
+0:41:0,709 --> 0:41:6,809
+And the first time I saw the two together,
+I thought they cannot be serious.
+
+
+453
+0:41:6,809 --> 0:41:10,239
+But then I realized I was going to be in it.
+
+
+454
+0:41:10,239 --> 0:41:14,559
+There were 13 total flights.
+
+
+455
+0:41:14,559 --> 0:41:17,469
+This is a taxi test.
+
+
+456
+0:41:17,469 --> 0:41:21,45
+When you have an aerodynamic test you can
+sneak up, and so you do baby steps.
+
+
+457
+0:41:21,45 --> 0:41:26,65
+This was just a high speed down the runway
+to see if it would rotate and if anything
+
+
+458
+0:41:26,65 --> 0:41:29,489
+would shake alarmingly.
+
+
+459
+0:41:29,489 --> 0:41:34,15
+And that will look good.
+
+
+460
+0:41:34,15 --> 0:41:39,489
+Preparations proceeded for the first of the
+captive inert flights.
+
+
+461
+0:41:39,489 --> 0:41:45,41
+This is Fitz Fulton and Tom McMurtry, both
+real good friends, and they were the crew
+
+
+462
+0:41:45,41 --> 0:41:49,269
+on the 747 for this first milestone flight.
+
+
+463
+0:41:49,269 --> 0:41:55,94
+A lot of people were out watching and wondering
+if it would fly, which it did very well.
+
+
+464
+0:41:55,94 --> 0:41:57,609
+And off it went.
+
+
+465
+0:41:57,609 --> 0:42:3,109
+You notice a longer front attached structure
+there.
+
+
+466
+0:42:3,109 --> 0:42:12,19
+And the orbiter is purposely on there at angle
+of attack to produce lift.
+
+
+467
+0:42:12,19 --> 0:42:19,989
+I flew a 747 for ferry flights now and to
+haul orbiters back to the Cape when they land
+
+
+468
+0:42:19,989 --> 0:42:22,559
+at Edwards, as the last one did.
+
+
+469
+0:42:22,559 --> 0:42:30,65
+And the nose, that front bipod is much shorter
+so that the orbiter is down for less drag
+
+
+470
+0:42:30,65 --> 0:42:33,119
+for the combination.
+
+
+471
+0:42:33,119 --> 0:42:44,41
+But this setup here was so that we could get
+the orbiter off the top and not the tail.
+
+
+472
+0:42:44,41 --> 0:42:44,95
+There is a rumble.
+
+
+473
+0:42:44,95 --> 0:42:46,829
+The crew noticed a shaking.
+
+
+474
+0:42:46,829 --> 0:42:49,4
+It is still the case when you fly.
+
+
+475
+0:42:49,4 --> 0:42:55,64
+These vertical fins were added onto the horizontal
+stabs to increase directional stability because
+
+
+476
+0:42:55,64 --> 0:42:58,4
+the orbiter blanks a lot of flow over the
+normal vertical.
+
+
+477
+0:42:58,4 --> 0:43:1,749
+In fact, they overdid it a little bit.
+
+
+478
+0:43:1,749 --> 0:43:8,969
+There is too much structural stability which
+has resulted in the weird situation.
+
+
+479
+0:43:8,969 --> 0:43:19,99
+Your cross-wind limit, when you have an orbiter
+onboard, is greater than when it is not because
+
+
+480
+0:43:19,99 --> 0:43:21,609
+you have so much directional stability and
+a crosswind.
+
+
+481
+0:43:21,609 --> 0:43:26,509
+There is a strong weathervaning and you run
+out of normal rudder without an orbiter, so
+
+
+482
+0:43:26,509 --> 0:43:31,63
+you are good only to 15 knots crosswind with
+the orbiter on.
+
+
+483
+0:43:31,63 --> 0:43:33,729
+The limit is 20 knots.
+
+
+484
+0:43:33,729 --> 0:43:35,109
+And it is a good limit.
+
+
+485
+0:43:35,109 --> 0:43:37,569
+I have flown them both ways in cross winds.
+
+
+486
+0:43:37,569 --> 0:43:42,619
+And, indeed, at those numbers you run out
+of rudder as you land and are rolling out.
+
+
+487
+0:43:42,619 --> 0:43:49,339
+The strong weathervane intensity is leading
+you out this side of the runway.
+
+
+488
+0:43:49,339 --> 0:43:50,44
+Anyway, that looked good.
+
+
+489
+0:43:50,44 --> 0:43:55,549
+And so I came back and we had a big post-flight
+party.
+
+
+490
+0:43:55,549 --> 0:43:56,979
+ALT was great for parties.
+
+
+491
+0:43:56,979 --> 0:43:59,99
+We had 13 post-flight parties.
+
+
+492
+0:43:59,99 --> 0:44:11,7
+And, at the same time we were doing the ALT
+flights, we are developing a Shuttle training
+
+
+493
+0:44:11,7 --> 0:44:12,259
+aircraft.
+
+
+494
+0:44:12,259 --> 0:44:19,279
+This is Gulfstream II with big side force
+generators on the belly.
+
+
+495
+0:44:19,279 --> 0:44:21,64
+That is an airborne simulator.
+
+
+496
+0:44:21,64 --> 0:44:25,2
+The left seat is set up with orbiter instruments.
+
+
+497
+0:44:25,2 --> 0:44:34,16
+And the right seat was the standard gulfstream
+cockpit that had flown thousands of dives
+
+
+498
+0:44:34,16 --> 0:44:47,549
+at the ground in the SGA preparing for the
+whole idea of first time for sure unpowered
+
+
+499
+0:44:47,549 --> 0:44:49,999
+landing that you have to do right the first
+time.
+
+
+500
+0:44:49,999 --> 0:44:58,979
+And back in the simulator here for lots more
+runs.
+
+
+501
+0:44:58,979 --> 0:45:5,15
+And it was a great time because everything
+was brand new, very interesting.
+
+
+502
+0:45:5,15 --> 0:45:8,299
+This is a camera and an actual model.
+
+
+503
+0:45:8,299 --> 0:45:13,63
+This is before the days of computer generated
+video.
+
+
+504
+0:45:13,63 --> 0:45:16,63
+It flew the little camera down to landing.
+
+
+505
+0:45:16,63 --> 0:45:19,869
+And we learned a lot about [NOISE OBSCURES]
+
+
+506
+0:45:19,869 --> 0:45:21,269
+characteristics.
+
+
+507
+0:45:21,269 --> 0:45:30,609
+One that we really wondered about, when you
+made a lateral input to roll the orbiter in
+
+
+508
+0:45:30,609 --> 0:45:32,969
+the simulator, it would bang you.
+
+
+509
+0:45:32,969 --> 0:45:37,89
+It was this lateral lurch, we call it.
+
+
+510
+0:45:37,89 --> 0:45:38,579
+It would jolt you sideways.
+
+
+511
+0:45:38,579 --> 0:45:40,42
+And we thought this cannot be real.
+
+
+512
+0:45:40,42 --> 0:45:41,13
+It doesn't make any sense.
+
+
+513
+0:45:41,13 --> 0:45:43,569
+No airplane we ever flew does that.
+
+
+514
+0:45:43,569 --> 0:45:45,43
+We squawked it.
+
+
+515
+0:45:45,43 --> 0:45:51,49
+They came back and said the equations are
+all worked out so we live with it and thought
+
+
+516
+0:45:51,49 --> 0:45:57,13
+it was just an artifact that snuck in there
+and didn't worry about it.
+
+
+517
+0:45:57,13 --> 0:46:10,7
+Now, the captive-active started where we actually
+got in and cranked things up.
+
+
+518
+0:46:10,7 --> 0:46:14,369
+On the second flight, I was chasing in a T-38.
+
+
+519
+0:46:14,369 --> 0:46:15,89
+And Engle and Truly were in the cockpit.
+
+
+520
+0:46:15,89 --> 0:46:22,539
+And I noticed a shiny look on the side.
+
+
+521
+0:46:22,539 --> 0:46:28,619
+That big X on the CRT is what happens when
+the computer that is driving that CRT quits.
+
+
+522
+0:46:28,619 --> 0:46:34,42
+That is sort of the panic symbol when the
+X shows up.
+
+
+523
+0:46:34,42 --> 0:46:38,91
+Anyway, I noticed a leak, as it turned out
+to be.
+
+
+524
+0:46:38,91 --> 0:46:40,93
+We had that severe hydrazine leak.
+
+
+525
+0:46:40,93 --> 0:46:43,92
+Hydrazine is bad stuff to have leaking.
+
+
+526
+0:46:43,92 --> 0:46:49,969
+And one of the APU supply tanks let go.
+
+
+527
+0:46:49,969 --> 0:46:53,92
+Plus, they had an over temp.
+
+
+528
+0:46:53,92 --> 0:46:59,819
+We found things that were wrong that made
+these captive flights worthwhile.
+
+
+529
+0:46:59,819 --> 0:47:6,93
+If we had just gone and launched off on the
+first one, it could have been more exciting
+
+
+530
+0:47:6,93 --> 0:47:10,89
+than it needed to be.
+
+
+531
+0:47:10,89 --> 0:47:11,479
+We had five of those.
+
+
+532
+0:47:11,479 --> 0:47:16,459
+And Fred Hayes and I got the odd numbered
+flights, one, three and five.
+
+
+533
+0:47:16,459 --> 0:47:17,869
+Five more post-flight parties.
+
+
+534
+0:47:17,869 --> 0:47:24,469
+And then we decided we were ready to go.
+
+
+535
+0:47:24,469 --> 0:47:27,13
+Well, this is the last of the captive-active
+flights.
+
+
+536
+0:47:27,13 --> 0:47:34,369
+The scheme by which we plan to get off of
+here and not take off the tail of the 747
+
+
+537
+0:47:34,369 --> 0:47:37,13
+was that the 747 would go as high as it could
+go.
+
+
+538
+0:47:37,13 --> 0:47:43,69
+It could get up to around 27,000 feet with
+engines over-boosted.
+
+
+539
+0:47:43,69 --> 0:47:47,829
+Pratt & Whitney said you could go this long
+with extra power.
+
+
+540
+0:47:47,829 --> 0:47:52,9
+And then nose over and speed up to 240 knots.
+
+
+541
+0:47:52,9 --> 0:47:57,289
+It was climbing maybe to 190, 200 knots.
+
+
+542
+0:47:57,289 --> 0:48:0,959
+With a little downhill push, we got up to
+240.
+
+
+543
+0:48:0,959 --> 0:48:11,89
+At 240 the SEA pilots would go to idle power
+and air brakes up to put drag on the carrier.
+
+
+544
+0:48:11,89 --> 0:48:19,41
+At that condition of 240 knots and the angle
+of attack of the orbiter, it was actually
+
+
+545
+0:48:19,41 --> 0:48:22,89
+lifting more than its own weight.
+
+
+546
+0:48:22,89 --> 0:48:27,779
+So the result is we really dropped the carrier,
+as it turns out.
+
+
+547
+0:48:27,779 --> 0:48:31,199
+There is three-quarters of a G difference
+between the two.
+
+
+548
+0:48:31,199 --> 0:48:33,959
+And so, we got a lot of use.
+
+
+549
+0:48:33,959 --> 0:48:39,109
+For some reason Fred's left shoulder, he is
+in the left seat and he mashed the separation
+
+
+550
+0:48:39,109 --> 0:48:45,479
+button after Fitz on the carrier aircraft
+hollered "carrier ready," that is they were
+
+
+551
+0:48:45,479 --> 0:48:55,309
+back at idle with the speed brakes up, pushed
+the go button and bang, all seven explosive
+
+
+552
+0:48:55,309 --> 0:48:58,509
+bolts would blow.
+
+
+553
+0:48:58,509 --> 0:49:0,259
+Control Room was in Houston, strange enough.
+
+
+554
+0:49:0,259 --> 0:49:7,589
+We are talking to people back in the old JSC
+Control Room when we are out at Edwards flying
+
+
+555
+0:49:7,589 --> 0:49:8,609
+these flights.
+
+
+556
+0:49:8,609 --> 0:49:9,599
+It was just like they were there.
+
+
+557
+0:49:9,599 --> 0:49:13,549
+And we were coming up on a condition.
+
+
+558
+0:49:13,549 --> 0:49:17,599
+And this was in August of '77.
+
+
+559
+0:49:17,599 --> 0:49:20,209
+All the ALT flights happened in 1977.
+
+
+560
+0:49:20,209 --> 0:49:26,239
+You notice there is a tail cone on here.
+
+
+561
+0:49:26,239 --> 0:49:29,17
+The tail cone was flown on the first three
+flights.
+
+
+562
+0:49:29,17 --> 0:49:32,949
+That makes a big difference.
+
+
+563
+0:49:32,949 --> 0:49:39,749
+It smoothes the flow s that the buffet on
+the tail, the carrier aircraft was less, and
+
+
+564
+0:49:39,749 --> 0:49:43,79
+it just about doubled the L/D of the orbiter.
+
+
+565
+0:49:43,79 --> 0:49:51,44
+We are going to arm.
+
+
+566
+0:49:51,44 --> 0:50:4,999
+And we had two chases, one off to the right
+and in trail separation.
+
+
+567
+0:50:4,999 --> 0:50:12,839
+Just like the engineer said and the load cells
+that we had on there, testing exactly which
+
+
+568
+0:50:12,839 --> 0:50:16,65
+was the thing tugging before we did it, said
+we could do straight up.
+
+
+569
+0:50:16,65 --> 0:50:18,209
+This is slow motion.
+
+
+570
+0:50:18,209 --> 0:50:19,18
+Nothing is leaking.
+
+
+571
+0:50:19,18 --> 0:50:27,839
+The vortex is out at the wing tips causing
+condensation and away we went.
+
+
+572
+0:50:27,839 --> 0:50:32,91
+And simultaneous with this bang that shutters
+through the airplane with all these explosive
+
+
+573
+0:50:32,91 --> 0:50:39,319
+volts a big X on the CRT in front of me.
+
+
+574
+0:50:39,319 --> 0:50:44,41
+We had cue cards and we had practiced this.
+
+
+575
+0:50:44,41 --> 0:50:53,64
+My job, while Fred flew, he actually got a
+vertical clear from this chase pilot and then
+
+
+576
+0:50:53,64 --> 0:50:58,65
+rolled into a bank and a lateral clear from
+the guy that was chasing from behind and knew
+
+
+577
+0:50:58,65 --> 0:51:0,199
+that it was OK to push over.
+
+
+578
+0:51:0,199 --> 0:51:4,259
+Because we are only now at 200 knots and we
+wanted to get to 300.
+
+
+579
+0:51:4,259 --> 0:51:9,859
+And it took a considerable pushover to get
+up to speed.
+
+
+580
+0:51:9,859 --> 0:51:14,779
+Meanwhile, I am pulling circuit breakers on
+rate gyros and turning off accelerometers
+
+
+581
+0:51:14,779 --> 0:51:25,299
+at our preplanned procedure to accommodate
+flaws in the redundancy management.
+
+
+582
+0:51:25,299 --> 0:51:31,279
+When you lose one computer you also take out
+part of the sensors in the flight control
+
+
+583
+0:51:31,279 --> 0:51:31,449
+system.
+
+
+584
+0:51:31,449 --> 0:51:36,66
+And, to be sure that a subsequent failure
+wouldn't put you in worse shape, it took about
+
+
+585
+0:51:36,66 --> 0:51:39,65
+a minute's worth of manual reconfiguration
+on my part.
+
+
+586
+0:51:39,65 --> 0:51:42,109
+And I kind of missed the whole first part
+of the flight.
+
+
+587
+0:51:42,109 --> 0:51:46,559
+When I turned around I realized hey, this
+thing is flying good, it is smooth and is
+
+
+588
+0:51:46,559 --> 0:51:47,819
+on speed.
+
+
+589
+0:51:47,819 --> 0:51:49,789
+And Fred was flying.
+
+
+590
+0:51:49,789 --> 0:51:55,349
+We flew a rectangular pattern out of a downwind
+leg here as we nosed over.
+
+
+591
+0:51:55,349 --> 0:52:1,199
+And I got my chance to roll into a left 90
+degree turn and fly base leg.
+
+
+592
+0:52:1,199 --> 0:52:7,9
+And, as I put the stick over to roll, we got
+this big lateral arch just like the simulator
+
+
+593
+0:52:7,9 --> 0:52:10,9
+said.
+
+
+594
+0:52:10,9 --> 0:52:11,559
+It just stunned me.
+
+
+595
+0:52:11,559 --> 0:52:13,869
+Son of a gun, they were right after all.
+
+
+596
+0:52:13,869 --> 0:52:21,18
+It was just the nature of something flying
+at high alpha and rotating about a stability
+
+
+597
+0:52:21,18 --> 0:52:23,759
+axis and the cockpit gets slid sideways.
+
+
+598
+0:52:23,759 --> 0:52:26,89
+It has big elevons so it flies like a fighter.
+
+
+599
+0:52:26,89 --> 0:52:27,299
+It really does.
+
+
+600
+0:52:27,299 --> 0:52:31,279
+And you are doing it all with a little stick
+that doesn't move much.
+
+
+601
+0:52:31,279 --> 0:52:38,219
+Anyway, we came down final at 290, I think
+it was, flared out.
+
+
+602
+0:52:38,219 --> 0:52:40,89
+My job was to put the gear down, a critical
+function.
+
+
+603
+0:52:40,89 --> 0:52:50,469
+And we are landing on lakebed 1-7 on the dry
+lake at Edwards which is something like ten
+
+
+604
+0:52:50,469 --> 0:52:54,509
+miles long, so we have pretty good margins
+there.
+
+
+605
+0:52:54,509 --> 0:53:0,44
+And Fred took the airplane back from ALT and
+I got to fly base leg.
+
+
+606
+0:53:0,44 --> 0:53:6,299
+But we touched down at about 185, I think
+it was, nice and smooth.
+
+
+607
+0:53:6,299 --> 0:53:7,49
+It was beautiful.
+
+
+608
+0:53:7,49 --> 0:53:16,489
+The speed brake comes out to help cushion
+the de-rotation, nose gear down and he raised
+
+
+609
+0:53:16,489 --> 0:53:18,18
+a little dust as he rolled to a stop.
+
+
+610
+0:53:18,18 --> 0:53:20,17
+So it was a good day.
+
+
+611
+0:53:20,17 --> 0:53:28,699
+Now, we had a really good post-flight party
+after this one.
+
+
+612
+0:53:28,699 --> 0:53:39,219
+And see the rudder speed brake flared there
+and the elevons fold up.
+
+
+613
+0:53:39,219 --> 0:53:43,239
+And so, now Fred truly did it again.
+
+
+614
+0:53:43,239 --> 0:53:56,42
+A couple weeks later or thereabouts they got
+their turn and they did much the same flight,
+
+
+615
+0:53:56,42 --> 0:53:57,59
+repeated it.
+
+
+616
+0:53:57,59 --> 0:54:0,369
+Oh, one thing.
+
+
+617
+0:54:0,369 --> 0:54:3,63
+You see the Pitot boom out there.
+
+
+618
+0:54:3,63 --> 0:54:7,91
+The Pitot boom is strictly on the Enterprise,
+put out there to get good air data out in
+
+
+619
+0:54:7,91 --> 0:54:14,249
+front of this big blivit of an airplane which
+is hard to get good measurements.
+
+
+620
+0:54:14,249 --> 0:54:30,369
+Let me get the next one going here, if I can
+figure out how to get out of this.
+
+
+621
+0:54:30,369 --> 0:54:32,319
+The excitement came later.
+
+
+622
+0:54:32,319 --> 0:54:49,319
+On STS-1, I looked out there when were on
+final, I had to look out and look at the Pitot
+
+
+623
+0:54:49,319 --> 0:54:54,829
+boom, and it is going through an arch of about
+three feet.
+
+
+624
+0:54:54,829 --> 0:54:59,189
+It was built with the perfect resonance of
+everything else with the airplane, and it
+
+
+625
+0:54:59,189 --> 0:55:2,209
+was just a blur out there going back and forth.
+
+
+626
+0:55:2,209 --> 0:55:4,759
+And I really thought it was going to break
+off.
+
+
+627
+0:55:4,759 --> 0:55:13,689
+Was that your only Pitot source or did you
+have the normal ones [OVERLAPPING VOICES]?
+
+
+628
+0:55:13,689 --> 0:55:15,92
+Good question.
+
+
+629
+0:55:15,92 --> 0:55:18,269
+Somehow we had at least inertially derived
+ones.
+
+
+630
+0:55:18,269 --> 0:55:20,469
+Everything looked good.
+
+
+631
+0:55:20,469 --> 0:55:24,279
+And, actually, it still put out good airspeed,
+even though it was a blur.
+
+
+632
+0:55:24,279 --> 0:55:26,759
+And I think the beta averaged out.
+
+
+633
+0:55:26,759 --> 0:55:35,459
+Anyway, it wasn't a problem we noticed other
+than visually it looked like it was going
+
+
+634
+0:55:35,459 --> 0:55:36,469
+to break off.
+
+
+635
+0:55:36,469 --> 0:55:40,969
+They changed and stiffened it up so it wasn't
+a problem on subsequent flights.
+
+
+636
+0:55:40,969 --> 0:55:47,92
+Now, you can see here we are at free flight
+four now which was the other crew's turn.
+
+
+637
+0:55:47,92 --> 0:55:59,569
+The tail cone is off and our final pressure
+glide slope with the tail cone on was 11 degrees.
+
+
+638
+0:55:59,569 --> 0:56:5,449
+With tail cone off it was 23 degrees, halves
+your L/D.
+
+
+639
+0:56:5,449 --> 0:56:11,189
+So you really are in a steep dive.
+
+
+640
+0:56:11,189 --> 0:56:20,739
+Normal ILS into Logan out here would be 2.5
+degrees so you are coming down gangbusters.
+
+
+641
+0:56:20,739 --> 0:56:27,91
+And it is even worse in ALT than it was in
+the orbital missions which were coming down
+
+
+642
+0:56:27,91 --> 0:56:30,439
+with the same configuration but much heavier.
+
+
+643
+0:56:30,439 --> 0:56:33,989
+Heavier you've got more gravity working for
+you and you can fly shallower.
+
+
+644
+0:56:33,989 --> 0:56:36,339
+It doesn't seem to figure, but that is the
+way it is.
+
+
+645
+0:56:36,339 --> 0:56:41,289
+So 19 degrees is a normal return from orbit.
+
+
+646
+0:56:41,289 --> 0:56:44,67
+Final pressure glide slope we were up in the
+20s.
+
+
+647
+0:56:44,67 --> 0:56:51,9
+Kind of catching up a little.
+
+
+648
+0:56:51,9 --> 0:56:57,18
+One of our jobs on the flight preceding this
+was to try the braking.
+
+
+649
+0:56:57,18 --> 0:57:0,17
+We just let it roll out on the first couple
+flights.
+
+
+650
+0:57:0,17 --> 0:57:2,829
+They wanted to do brake tests.
+
+
+651
+0:57:2,829 --> 0:57:8,969
+And Fred jumped on the brakes after we touched
+down and another resonance problem, interaction
+
+
+652
+0:57:8,969 --> 0:57:19,339
+between the structure and the anti-skid, and
+I thought it was going to break the airplane.
+
+
+653
+0:57:19,339 --> 0:57:24,749
+It was just violent shuttering, shaking, everything
+rattling in the cockpit.
+
+
+654
+0:57:24,749 --> 0:57:27,93
+And I hollered to Fred, get off the brakes,
+we are going to brake something.
+
+
+655
+0:57:27,93 --> 0:57:30,91
+He said no, the card says we have got to do
+max braking.
+
+
+656
+0:57:30,91 --> 0:57:33,969
+I was pleading with him to get off the brakes,
+which he did.
+
+
+657
+0:57:33,969 --> 0:57:34,9
+Easy fix.
+
+
+658
+0:57:34,9 --> 0:57:40,109
+When they flew the next flight here they did
+hard braking, and it was smooth.
+
+
+659
+0:57:40,109 --> 0:57:47,14
+They went in to change the resister and the
+feedback electrons, and that did it.
+
+
+660
+0:57:47,14 --> 0:57:50,549
+I mean it was instant fix.
+
+
+661
+0:57:50,549 --> 0:58:2,519
+So there still is reason to do flight tests
+because surprises happen.
+
+
+662
+0:58:2,519 --> 0:58:9,529
+Now free flight five, it turns out there was
+a little brake here.
+
+
+663
+0:58:9,529 --> 0:58:17,459
+We are back at Houston and Prince Charles,
+who wasn't married yet at that time, came
+
+
+664
+0:58:17,459 --> 0:58:19,299
+by on a visit.
+
+
+665
+0:58:19,299 --> 0:58:24,92
+And we gave him a ride in the simulator.
+
+
+666
+0:58:24,92 --> 0:58:26,209
+He had some flying time.
+
+
+667
+0:58:26,209 --> 0:58:28,819
+And he got into a horrendous PIO.
+
+
+668
+0:58:28,819 --> 0:58:33,38
+I mean he was out of control and crashed in
+the simulator.
+
+
+669
+0:58:33,38 --> 0:58:34,229
+And felt bad.
+
+
+670
+0:58:34,229 --> 0:58:37,109
+And we said that is because you're not used
+to the stick and everything.
+
+
+671
+0:58:37,109 --> 0:58:38,299
+And that was his tour.
+
+
+672
+0:58:38,299 --> 0:58:43,39
+Now, for this flight, he was actually out
+along the runway.
+
+
+673
+0:58:43,39 --> 0:58:46,859
+They had him out there so he could watch.
+
+
+674
+0:58:46,859 --> 0:58:51,15
+The objective here was to land on the concrete
+runway, put it right on the line, there is
+
+
+675
+0:58:51,15 --> 0:58:57,869
+a white line 5,000 feet down, and Fred was
+really working at it, putting in a lot of
+
+
+676
+0:58:57,869 --> 0:58:57,869
+inputs.
+
+
+677
+0:58:57,869 --> 0:58:59,749
+Look at the elevons going there.
+
+
+678
+0:58:59,749 --> 0:59:2,17
+You see them?
+
+
+679
+0:59:2,17 --> 0:59:6,88
+And he is making roll commands.
+
+
+680
+0:59:6,88 --> 0:59:16,349
+And so we logged a couple landings.
+
+
+681
+0:59:16,349 --> 0:59:24,209
+And down and rolled to a stop.
+
+
+682
+0:59:24,209 --> 0:59:26,849
+Afterwards, we called out and he came up to
+say hello.
+
+
+683
+0:59:26,849 --> 0:59:28,15
+He said oh, you made me feel good.
+
+
+684
+0:59:28,15 --> 0:59:31,69
+You guys did as bad as I did.
+
+
+685
+0:59:31,69 --> 0:59:35,849
+There he is right there with his binoculars.
+
+
+686
+0:59:35,849 --> 0:59:38,199
+Well, that scared everybody to death.
+
+
+687
+0:59:38,199 --> 0:59:40,769
+It looked worse from outside than it did in
+the cockpit.
+
+
+688
+0:59:40,769 --> 0:59:45,199
+And the flight control flaw that we found,
+though, was serious.
+
+
+689
+0:59:45,199 --> 0:59:50,39
+You've got elevons that do both pitch and
+roll.
+
+
+690
+0:59:50,39 --> 0:59:54,829
+So, in the software, when you are asking for
+both pitch and roll at the same time, it has
+
+
+691
+0:59:54,829 --> 0:59:58,819
+got to decide which one do I move?
+
+
+692
+0:59:58,819 --> 1:0:8,9
+This is just a supposition of what would come.
+
+
+693
+1:0:8,9 --> 1:0:10,549
+The software had to give priority.
+
+
+694
+1:0:10,549 --> 1:0:13,63
+And they decided to give priority to pitch.
+
+
+695
+1:0:13,63 --> 1:0:22,39
+And roll was taken second priority when you
+had to limit the commands to the elevons to
+
+
+696
+1:0:22,39 --> 1:0:27,329
+within the capability of the hydraulic system.
+
+
+697
+1:0:27,329 --> 1:0:32,689
+The result was a lag in roll response when
+you are working pitch hard.
+
+
+698
+1:0:32,689 --> 1:0:36,549
+And the lag was up around two-tenths to three-tenths
+of a second.
+
+
+699
+1:0:36,549 --> 1:0:40,539
+You may be aware if you studied flight control
+systems.
+
+
+700
+1:0:40,539 --> 1:0:50,949
+Any kind of system that has a quarter second
+delay between input and response is asking
+
+
+701
+1:0:50,949 --> 1:0:55,239
+for a PIO, Pilot Induced Oscillation.
+
+
+702
+1:0:55,239 --> 1:0:57,4
+And we had a big time in roll.
+
+
+703
+1:0:57,4 --> 1:1:1,529
+Fred was clanking back and forth to stop and
+roll trying to level the wings out there that
+
+
+704
+1:1:1,529 --> 1:1:2,749
+first skip.
+
+
+705
+1:1:2,749 --> 1:1:6,759
+I heard the controller banging over there.
+
+
+706
+1:1:6,759 --> 1:1:10,42
+And I suggested if you get off maybe it will
+damp.
+
+
+707
+1:1:10,42 --> 1:1:15,119
+We're doing this and, sure enough, that is
+what he did.
+
+
+708
+1:1:15,119 --> 1:1:21,15
+He stopped the inputs, the airplane damped
+right away and then it went OK.
+
+
+709
+1:1:21,15 --> 1:1:30,869
+But it was something we had to fix, obviously.
+
+
+710
+1:1:30,869 --> 1:1:40,89
+Here is a picture just a micro-second after
+liftoff on one of the last two.
+
+
+711
+1:1:40,89 --> 1:1:46,549
+Well, there was a decision with a lot of debate
+about do we go back and fix the flight control
+
+
+712
+1:1:46,549 --> 1:1:48,199
+and fly some more ALT?
+
+
+713
+1:1:48,199 --> 1:1:52,289
+But this is a huge production and it was costing
+time and we weren't getting into orbit.
+
+
+714
+1:1:52,289 --> 1:1:58,869
+A decision was made now we will do it in simulators
+and in-flight simulators and fix the problem,
+
+
+715
+1:1:58,869 --> 1:1:59,819
+but press on.
+
+
+716
+1:1:59,819 --> 1:2:4,479
+That was the end of ALT, at the end of which,
+when you do flight tests, you talk about opening
+
+
+717
+1:2:4,479 --> 1:2:5,819
+the envelope of an airplane.
+
+
+718
+1:2:5,819 --> 1:2:12,279
+Well, the envelope of the Space Shuttle is
+400 nautical miles altitude and mach 25.
+
+
+719
+1:2:12,279 --> 1:2:16,69
+And in ALT we got the four miles and 0.3 mach.
+
+
+720
+1:2:16,69 --> 1:2:23,299
+It is really down in the lower left corner,
+but worth doing.
+
+
+721
+1:2:23,299 --> 1:2:25,729
+Test results.
+
+
+722
+1:2:25,729 --> 1:2:28,779
+I mentioned as we went we had that APU fuel
+leak.
+
+
+723
+1:2:28,779 --> 1:2:29,429
+Fixed it.
+
+
+724
+1:2:29,429 --> 1:2:32,99
+Didn't come back.
+
+
+725
+1:2:32,99 --> 1:2:37,9
+The buffet lifter drag was right on what we
+expected, no surprises there.
+
+
+726
+1:2:37,9 --> 1:2:40,619
+Handling qualities were good, even with the
+lurch.
+
+
+727
+1:2:40,619 --> 1:2:43,15
+It was not a problem.
+
+
+728
+1:2:43,15 --> 1:2:46,67
+I mentioned the Pitot boom, the anti-skid.
+
+
+729
+1:2:46,67 --> 1:2:51,15
+SCA did the job, although it struggled to
+get up.
+
+
+730
+1:2:51,15 --> 1:2:55,689
+With the tail coming off, it could only get
+to about 18,000 feet.
+
+
+731
+1:2:55,689 --> 1:3:0,67
+So this was not a good program to build up
+your flying time.
+
+
+732
+1:3:0,67 --> 1:3:9,63
+It was about a total, in three flights, of
+about 12 minutes of flying time.
+
+
+733
+1:3:9,63 --> 1:3:18,16
+And the biggie I mentioned was the handling
+qualities and the PIO tendency that we fixed
+
+
+734
+1:3:18,16 --> 1:3:25,16
+with lots of studies later and changes in
+the way the control equations were written.
+
+
+735
+1:3:25,16 --> 1:3:30,369
+And, as a final thing, they did some more
+flights with the nose lowered down and determine
+
+
+736
+1:3:30,369 --> 1:3:34,789
+what the ferry flight performance of the combination
+is.
+
+
+737
+1:3:34,789 --> 1:3:41,439
+I, later after flying in space, checked out
+on the 747 and still fly it on the ferry flights.
+
+
+738
+1:3:41,439 --> 1:3:44,559
+And it does the job.
+
+
+739
+1:3:44,559 --> 1:3:46,89
+It burns lots of gas.
+
+
+740
+1:3:46,89 --> 1:3:56,549
+I figured out that the combination across
+the country, the mileage is about 300 feet
+
+
+741
+1:3:56,549 --> 1:4:0,549
+per gallon, so a football field per gallon
+of fuel.
+
+
+742
+1:4:0,549 --> 1:4:4,519
+40,000 pounds an hour is the field flow.
+
+
+743
+1:4:4,519 --> 1:4:15,59
+It goes about 1.5 times its own length when
+we get on the gas, but it gets there.
+
+
+744
+1:4:15,59 --> 1:4:17,819
+I don't have to buy the fuel.
+
+
+745
+1:4:17,819 --> 1:4:20,979
+A lot of people said wasn't this scary, ALT?
+
+
+746
+1:4:20,979 --> 1:4:25,609
+Actually, from a risk standpoint, we had ejection
+seats.
+
+
+747
+1:4:25,609 --> 1:4:31,709
+If anything had gone wrong, anywhere along
+the line, we could have pulled the handle
+
+
+748
+1:4:31,709 --> 1:4:33,14
+and jumped out.
+
+
+749
+1:4:33,14 --> 1:4:39,66
+The scariest part of it was when we got in,
+and during the captive flights, we would just
+
+
+750
+1:4:39,66 --> 1:4:41,959
+walk up a stairway and crawl through the hatch.
+
+
+751
+1:4:41,959 --> 1:4:43,38
+And the same way getting out.
+
+
+752
+1:4:43,38 --> 1:4:52,979
+But after the captive active flights, we would
+land still on the orbiter.
+
+
+753
+1:4:52,979 --> 1:4:56,849
+And they had this cherry picker to get us
+out.
+
+
+754
+1:4:56,849 --> 1:5:0,89
+Now, the situation here is it's a round hatch
+hedged at the bottom.
+
+
+755
+1:5:0,89 --> 1:5:7,769
+They only wanted on person at a time on the
+end of this thing.
+
+
+756
+1:5:7,769 --> 1:5:13,849
+You open a round hatch and then they bring
+this up, the guy on the ground.
+
+
+757
+1:5:13,849 --> 1:5:19,41
+And he doesn't want to get too close and ding
+so he leaves about this much of a gap from
+
+
+758
+1:5:19,41 --> 1:5:24,67
+this round hatch which is 60 feet above the
+ground that you have got to crawl out on your
+
+
+759
+1:5:24,67 --> 1:5:31,929
+knees, then stand up and then make the leap
+across the thing onto this wobbly cage up
+
+
+760
+1:5:31,929 --> 1:5:32,88
+there.
+
+
+761
+1:5:32,88 --> 1:5:37,519
+That is how our captive actives went.
+
+
+762
+1:5:37,519 --> 1:5:44,999
+Where you wearing flight suits for all these
+tests?
+
+
+763
+1:5:44,999 --> 1:5:52,509
+Yeah, we were wearing flight suits and helmets
+like you would in a 518 or any fighter.
+
+
+764
+1:5:52,509 --> 1:5:53,219
+Not pressure suits.
+
+
+765
+1:5:53,219 --> 1:6:2,219
+We didn't have a severe cabin pressure risk
+at 25,000 feet.
+
+
+766
+1:6:2,219 --> 1:6:8,719
+Let me get into the full screen mode here.
+
+
+767
+1:6:8,719 --> 1:6:15,49
+I put in some thoughts about what is different
+when you test an aircraft versus a spacecraft.
+
+
+768
+1:6:15,49 --> 1:6:18,589
+With an airplane you can do little baby steps,
+incremental tests.
+
+
+769
+1:6:18,589 --> 1:6:24,699
+You can do static runs of the propulsion up
+to the full power in the airplane itself.
+
+
+770
+1:6:24,699 --> 1:6:28,42
+Then you taxi it slow and then faster and
+faster down the runway.
+
+
+771
+1:6:28,42 --> 1:6:31,739
+You can rotate the nose a little bit.
+
+
+772
+1:6:31,739 --> 1:6:36,729
+The first flight you will fly slow and leave
+the gear down and then land it soon and check
+
+
+773
+1:6:36,729 --> 1:6:37,249
+everything.
+
+
+774
+1:6:37,249 --> 1:6:40,49
+And you could hold off for a perfect day to
+do it.
+
+
+775
+1:6:40,49 --> 1:6:44,179
+And then you go faster and faster to expand
+the envelope.
+
+
+776
+1:6:44,179 --> 1:6:50,289
+If anything goes wrong you can peel off and
+get back on the ground quick.
+
+
+777
+1:6:50,289 --> 1:6:55,579
+And, as I mentioned, you can always pull the
+handle and bail out if things go really bad.
+
+
+778
+1:6:55,579 --> 1:7:1,299
+When you have a spacecraft it is all or nothing.
+
+
+779
+1:7:1,299 --> 1:7:5,88
+You have got to use the propulsion at its
+full power.
+
+
+780
+1:7:5,88 --> 1:7:11,789
+All the critical systems and subsystems have
+got to work.
+
+
+781
+1:7:11,789 --> 1:7:14,819
+You cannot make a quick abort.
+
+
+782
+1:7:14,819 --> 1:7:19,39
+Long delays like days are sometimes required
+to get back to the conditions where you can
+
+
+783
+1:7:19,39 --> 1:7:21,459
+make an appropriate landing.
+
+
+784
+1:7:21,459 --> 1:7:27,789
+And the weather could turn sour at the time.
+
+
+785
+1:7:27,789 --> 1:7:34,42
+When you are going to flight test the spacecraft
+you have got to have a lot of redundancy in
+
+
+786
+1:7:34,42 --> 1:7:41,509
+the design to allow for the bad day that has
+to carry it through in a considerable amount
+
+
+787
+1:7:41,509 --> 1:7:41,91
+of time.
+
+
+788
+1:7:41,91 --> 1:7:50,819
+You necessarily have got to test everything
+to the limit, wind tunnels, CVD, thermal vacuum
+
+
+789
+1:7:50,819 --> 1:7:54,479
+because the environment is lots more stressful.
+
+
+790
+1:7:54,479 --> 1:7:59,359
+You have got to have a lot of instrumentation
+so that you can tell what did go wrong or
+
+
+791
+1:7:59,359 --> 1:8:0,789
+be sure that everything went right.
+
+
+792
+1:8:0,789 --> 1:8:8,839
+You are talking about an army of controllers
+in a control room to pull it off with a complex
+
+
+793
+1:8:8,839 --> 1:8:10,359
+system like the Shuttle.
+
+
+794
+1:8:10,359 --> 1:8:14,38
+And lots of simulation to get everybody trained.
+
+
+795
+1:8:14,38 --> 1:8:16,31
+A biggie is to verify the software.
+
+
+796
+1:8:16,31 --> 1:8:22,12
+I mentioned the software is guaranteed to
+be wrong on the first release and several
+
+
+797
+1:8:22,12 --> 1:8:22,73
+subsequent.
+
+
+798
+1:8:22,73 --> 1:8:27,6
+It is just the nature of building software.
+
+
+799
+1:8:27,6 --> 1:8:32,9
+And so getting that checked out is a major
+one.
+
+
+800
+1:8:32,9 --> 1:8:33,4
+Procedures.
+
+
+801
+1:8:33,4 --> 1:8:44,46
+When we flew the orbital flight, the stack
+of checklists just laid on top of each other
+
+
+802
+1:8:44,46 --> 1:8:49,109
+was about this high, for 51F, and it weighed
+210 pounds.
+
+
+803
+1:8:49,109 --> 1:8:55,6
+It was called the Flight Data File.
+
+
+804
+1:8:55,6 --> 1:9:3,94
+And then lots of time and expense getting
+everybody really ready to go.
+
+
+805
+1:9:3,94 --> 1:9:10,549
+And being sure that when you're going into
+an unknown part of the envelope that the margins
+
+
+806
+1:9:10,549 --> 1:9:12,28
+on the flight control are adequate.
+
+
+807
+1:9:12,28 --> 1:9:17,98
+So the surprises and the aeroderivatives that
+hit you can be accommodating.
+
+
+808
+1:9:17,98 --> 1:9:22,83
+I have rambled on a long time here.
+
+
+809
+1:9:22,83 --> 1:9:27,21
+We can take the five-minute break, I can answer
+questions, however you want to do it.
+
+
+810
+1:9:27,21 --> 1:9:28,56
+Maybe it's time for a stretch.
+
+
+811
+1:9:28,56 --> 1:9:32,53
+Let's do a two-minute break.
+
+
+812
+1:9:32,53 --> 1:9:36,359
+These people are tough.
+
+
+813
+1:9:36,359 --> 1:9:38,28
+All right.
+
+
+814
+1:9:38,28 --> 1:9:40,2
+Break is over.
+
+
+815
+1:9:40,2 --> 1:9:58,31
+The next assignment for me was being put on
+an orbital flight test, and specifically STS-3.
+
+
+816
+1:9:58,31 --> 1:10:11,98
+A two man crew, Jack Lousma, a Marine, and
+myself from the Air Force, we were in pressure
+
+
+817
+1:10:11,98 --> 1:10:16,22
+suits, you will notice there, and on ejection
+seats in the Columbia.
+
+
+818
+1:10:16,22 --> 1:10:19,1
+This is OV-102.
+
+
+819
+1:10:19,1 --> 1:10:22,18
+101 was the Enterprise.
+
+
+820
+1:10:22,18 --> 1:10:24,63
+102 was the Columbia.
+
+
+821
+1:10:24,63 --> 1:10:28,17
+And our countdown went smoothly.
+
+
+822
+1:10:28,17 --> 1:10:30,21
+This was in March of '82.
+
+
+823
+1:10:30,21 --> 1:10:37,29
+And this is a signature moment in your life
+when the SRBs light.
+
+
+824
+1:10:37,29 --> 1:10:46,4
+I mean it looks smooth and nice as we are
+flying through a cloud here on launch, logging
+
+
+825
+1:10:46,4 --> 1:10:57,58
+weather time I might add, but it is rough
+and noisy and rattley.
+
+
+826
+1:10:57,58 --> 1:11:3,9
+And the acceleration is right away, and it
+builds up to 3Gs.
+
+
+827
+1:11:3,9 --> 1:11:6,2
+When the main engines are throttled back,
+the whole 3Gs.
+
+
+828
+1:11:6,2 --> 1:11:10,67
+And so, it is no doubt you are on your way
+somewhere really fast wherever the solids
+
+
+829
+1:11:10,67 --> 1:11:14,2
+want to go.
+
+
+830
+1:11:14,2 --> 1:11:17,4
+Everything worked good right up to MECO.
+
+
+831
+1:11:17,4 --> 1:11:20,51
+And the external tank, as you saw, drifted
+away.
+
+
+832
+1:11:20,51 --> 1:11:28,96
+And then here come the first order of business,
+opening the payload bay doors so we can start
+
+
+833
+1:11:28,96 --> 1:11:33,24
+rejecting heat with the radiators that are
+mounted on the inside.
+
+
+834
+1:11:33,24 --> 1:11:35,44
+We are tailed down.
+
+
+835
+1:11:35,44 --> 1:11:41,77
+And as you watch here, we are going right
+over Los Angeles at the time.
+
+
+836
+1:11:41,77 --> 1:11:43,48
+This is just north of LA.
+
+
+837
+1:11:43,48 --> 1:11:47,92
+You can see LA.
+
+
+838
+1:11:47,92 --> 1:12:2,37
+Sorry, this is Santa Monica, LAX and 
+Palos Verdes right there.
+
+
+839
+1:12:2,37 --> 1:12:9,62
+Anyway, the first thing we had to do is get
+out of Theodolite, that is a sighting device
+
+
+840
+1:12:9,62 --> 1:12:19,75
+that surveyors use, and take a daunting number
+of readings on little targets that were pasted
+
+
+841
+1:12:19,75 --> 1:12:23,98
+around inside the payload bay and on the doors
+to measure where they were.
+
+
+842
+1:12:23,98 --> 1:12:27,2
+And we did that through the flight all the
+way along.
+
+
+843
+1:12:27,2 --> 1:12:30,31
+It wasn't fast enough.
+
+
+844
+1:12:30,31 --> 1:12:32,8
+Out in front of the nose there were some dark
+patches.
+
+
+845
+1:12:32,8 --> 1:12:36,47
+That is where tile were, white tile, and fell
+off during launch.
+
+
+846
+1:12:36,47 --> 1:12:38,35
+They actually found some washed up on the
+beach.
+
+
+847
+1:12:38,35 --> 1:12:44,87
+Fortunately, none of the black tile on the
+bottom fell off but we did lose some on the
+
+
+848
+1:12:44,87 --> 1:12:44,87
+top.
+
+
+849
+1:12:44,87 --> 1:12:51,49
+Zero G is really one of the delights.
+
+
+850
+1:12:51,49 --> 1:12:59,1
+There are two really good things about flying
+in orbit, weightlessness and the view out
+
+
+851
+1:12:59,1 --> 1:12:59,33
+the window.
+
+
+852
+1:12:59,33 --> 1:13:6,88
+And that is like nothing that you experience,
+even flying high-performance airplanes.
+
+
+853
+1:13:6,88 --> 1:13:9,81
+We had the RMS cranked up.
+
+
+854
+1:13:9,81 --> 1:13:12,21
+That was my job as RMS operator.
+
+
+855
+1:13:12,21 --> 1:13:18,46
+And we had a package in the back, the plasma
+diagnostic package to grab and move out there.
+
+
+856
+1:13:18,46 --> 1:13:20,94
+There are some things that show you the housekeeping
+area.
+
+
+857
+1:13:20,94 --> 1:13:31,29
+In the corner there is the john.
+
+
+858
+1:13:31,29 --> 1:13:34,25
+And long duration spaceflight exercise is
+important.
+
+
+859
+1:13:34,25 --> 1:13:39,4
+It is really not a big deal on a seven-day
+flight.
+
+
+860
+1:13:39,4 --> 1:13:47,38
+Jack is a Marine, as I mentioned.
+
+
+861
+1:13:47,38 --> 1:13:51,61
+He has got to have his daily ration of pushups,
+so here we go.
+
+
+862
+1:13:51,61 --> 1:13:54,21
+How about a one-handed pushup, Jack?
+
+
+863
+1:13:54,21 --> 1:14:7,9
+How about a no-handed pushup?
+
+
+864
+1:14:7,9 --> 1:14:9,13
+This is a quick summary.
+
+
+865
+1:14:9,13 --> 1:14:11,61
+We went our seven days.
+
+
+866
+1:14:11,61 --> 1:14:18,57
+And the lakebed at Edwards, they had a really
+wet spring, was unusable, so we went to White
+
+
+867
+1:14:18,57 --> 1:14:20,58
+Sands, New Mexico.
+
+
+868
+1:14:20,58 --> 1:14:28,48
+The first day, right as we are about to light
+the OMS engines to start deorbit, they said
+
+
+869
+1:14:28,48 --> 1:14:32,75
+hold off because this terrible dust storm
+is going on.
+
+
+870
+1:14:32,75 --> 1:14:40,63
+And then we waited a delightful day with nothing
+in the flight plane much to enjoy ourselves,
+
+
+871
+1:14:40,63 --> 1:14:42,25
+and then came down the next day.
+
+
+872
+1:14:42,25 --> 1:14:49,85
+Now we find another gotcha in handling quantities
+here.
+
+
+873
+1:14:49,85 --> 1:14:54,4
+Right here Jack thought the nose might be
+coming down too fast and tried to stop it,
+
+
+874
+1:14:54,4 --> 1:14:58,8
+and ended up doing a little wheelie.
+
+
+875
+1:14:58,8 --> 1:15:3,4
+Subsequent analysis showed that the whole
+response of the vehicle changes when you are
+
+
+876
+1:15:3,4 --> 1:15:5,79
+down on the main gear only.
+
+
+877
+1:15:5,79 --> 1:15:7,63
+And nobody thought of that.
+
+
+878
+1:15:7,63 --> 1:15:16,92
+It would seem like, well, they are worried
+about pitch in the air but not while you are
+
+
+879
+1:15:16,92 --> 1:15:18,65
+rolling on the main gear trying to de-rotate.
+
+
+880
+1:15:18,65 --> 1:15:21,92
+So it resulted in more software changes.
+
+
+881
+1:15:21,92 --> 1:15:31,25
+Another thing we learned, they were pushing
+for auto-land.
+
+
+882
+1:15:31,25 --> 1:15:36,53
+We flew the whole turn onto final and down
+final hands off in auto-land.
+
+
+883
+1:15:36,53 --> 1:15:45,73
+The program wanted to take this out of the
+hands of the crew, so here on the third flight
+
+
+884
+1:15:45,73 --> 1:15:49,94
+they had us sitting there watching the airplane
+fly down to pre-flare.
+
+
+885
+1:15:49,94 --> 1:15:55,21
+And then the first chance Jack got to grab
+the stick was at the last minute to do the
+
+
+886
+1:15:55,21 --> 1:15:57,23
+flare and landing.
+
+
+887
+1:15:57,23 --> 1:15:59,41
+And that was dumb when you look back, really
+dumb.
+
+
+888
+1:15:59,41 --> 1:16:7,2
+And so, now all flight commanders, if it has
+been auto down to 40,000 feet where you go
+
+
+889
+1:16:7,2 --> 1:16:11,15
+subsonic, we will fly manually all the way
+down to get a feel for the airplane.
+
+
+890
+1:16:11,15 --> 1:16:13,63
+It makes a lot more sense.
+
+
+891
+1:16:13,63 --> 1:16:14,87
+That is the way flights are done now.
+
+
+892
+1:16:14,87 --> 1:16:18,37
+Here is where we started from orbit.
+
+
+893
+1:16:18,37 --> 1:16:21,85
+This is how Cape Canaveral looks.
+
+
+894
+1:16:21,85 --> 1:16:24,46
+Right here is the shuttle landing strip that
+is down there.
+
+
+895
+1:16:24,46 --> 1:16:25,34
+You can see it.
+
+
+896
+1:16:25,34 --> 1:16:28,85
+And the launch pads are these two dots.
+
+
+897
+1:16:28,85 --> 1:16:34,49
+And so, that is where usually a shuttle flight
+starts and ends.
+
+
+898
+1:16:34,49 --> 1:16:37,21
+Here is a picture of our payload bay on STS-3.
+
+
+899
+1:16:37,21 --> 1:16:40,22
+And we did have a payload.
+
+
+900
+1:16:40,22 --> 1:16:48,46
+Previous crews had pretty much empty payload
+bay, but we had an environmental measurement
+
+
+901
+1:16:48,46 --> 1:16:51,67
+thing, a lot of instrumentation.
+
+
+902
+1:16:51,67 --> 1:16:59,2
+Then this PDP, Plasma Diagnostic Package that
+we actually had something to grab with the
+
+
+903
+1:16:59,2 --> 1:17:0,63
+manipulator arm, as you see here.
+
+
+904
+1:17:0,63 --> 1:17:8,15
+I looked around and found, I don't know if
+you can recognize this, but that is Cape Cod
+
+
+905
+1:17:8,15 --> 1:17:8,32
+back there.
+
+
+906
+1:17:8,32 --> 1:17:13,12
+A picture of MIT.
+
+
+907
+1:17:13,12 --> 1:17:14,18
+Not a good picture.
+
+
+908
+1:17:14,18 --> 1:17:16,13
+There have got to be lots of better ones.
+
+
+909
+1:17:16,13 --> 1:17:22,16
+And here is where we ended up, the White Sands
+area near Alamogordo, New Mexico.
+
+
+910
+1:17:22,16 --> 1:17:31,13
+What we learned, this is a pretty cryptic
+summary.
+
+
+911
+1:17:31,13 --> 1:17:33,19
+Training was a real problem.
+
+
+912
+1:17:33,19 --> 1:17:43,97
+The first two crews that flew STS-1 and STS-2
+had all the attention of the training people
+
+
+913
+1:17:43,97 --> 1:17:44,97
+in the simulators.
+
+
+914
+1:17:44,97 --> 1:17:48,3
+They had priority, properly so.
+
+
+915
+1:17:48,3 --> 1:17:55,23
+We, on the third flight, had low priority
+and really struggled.
+
+
+916
+1:17:55,23 --> 1:18:0,35
+And what we found, when we got in the simulators,
+is when they didn't work right nobody could
+
+
+917
+1:18:0,35 --> 1:18:3,54
+explain why.
+
+
+918
+1:18:3,54 --> 1:18:6,84
+Many times we try on ascent and crash and
+burn.
+
+
+919
+1:18:6,84 --> 1:18:9,13
+And you always were scratching your head is
+this real?
+
+
+920
+1:18:9,13 --> 1:18:12,94
+Is this the way the orbiter flies or is it
+some flaw in the simulator?
+
+
+921
+1:18:12,94 --> 1:18:20,95
+Early on you are developing not only the orbiter
+but the training facilities.
+
+
+922
+1:18:20,95 --> 1:18:22,85
+And the people didn't understand the system.
+
+
+923
+1:18:22,85 --> 1:18:28,64
+We had more exposure from ALT to subsystems
+than the people that were supposed to be the
+
+
+924
+1:18:28,64 --> 1:18:29,4
+experts.
+
+
+925
+1:18:29,4 --> 1:18:36,52
+It was a group learning process and a long
+way from what happens now when crews go in.
+
+
+926
+1:18:36,52 --> 1:18:40,31
+And they get the straight word right from
+the beginning on how things are.
+
+
+927
+1:18:40,31 --> 1:18:43,21
+The tiles fell off.
+
+
+928
+1:18:43,21 --> 1:18:43,85
+Not good.
+
+
+929
+1:18:43,85 --> 1:18:52,26
+They changed the bonding scheme, improved
+the quality control and, fortunately for the
+
+
+930
+1:18:52,26 --> 1:18:55,61
+program, no critical tiles fell off.
+
+
+931
+1:18:55,61 --> 1:18:57,9
+But that was alarming.
+
+
+932
+1:18:57,9 --> 1:19:4,42
+We looked out there, we reported it, took
+pictures of it looking at these gaps in the
+
+
+933
+1:19:4,42 --> 1:19:6,67
+system right out in front of the windshield.
+
+
+934
+1:19:6,67 --> 1:19:13,79
+But Ground said don't worry, that is a cool
+area during entry.
+
+
+935
+1:19:13,79 --> 1:19:18,71
+Entry is at 40 degrees angle of attack so
+it is cool on top.
+
+
+936
+1:19:18,71 --> 1:19:19,41
+They were right.
+
+
+937
+1:19:19,41 --> 1:19:23,9
+Everything was fine.
+
+
+938
+1:19:23,9 --> 1:19:29,29
+Another tile thing was after the flight, actually,
+delay that.
+
+
+939
+1:19:29,29 --> 1:19:32,35
+It was really more after the next flight.
+
+
+940
+1:19:32,35 --> 1:19:36,8
+I mentioned how the ride is.
+
+
+941
+1:19:36,8 --> 1:19:40,1
+The first two minutes were rough and exciting.
+
+
+942
+1:19:40,1 --> 1:19:49,38
+The next six or seven are unbelievably smooth
+when you get on the main engines, and then
+
+
+943
+1:19:49,38 --> 1:19:52,46
+more vibration that you are getting sitting
+in the chairs now.
+
+
+944
+1:19:52,46 --> 1:19:54,48
+And it is just a steady relentless push.
+
+
+945
+1:19:54,48 --> 1:19:58,31
+It is just a spectacular right.
+
+
+946
+1:19:58,31 --> 1:20:3,3
+But you are back in the seat.
+
+
+947
+1:20:3,3 --> 1:20:9,63
+Had an APU oil overheat during that 3G part.
+
+
+948
+1:20:9,63 --> 1:20:15,46
+Actually, about two minutes before MECO, Ground
+called and said we needed to shut down one
+
+
+949
+1:20:15,46 --> 1:20:15,91
+APU.
+
+
+950
+1:20:15,91 --> 1:20:21,27
+We were up past the point where we could live
+without all three APUs running.
+
+
+951
+1:20:21,27 --> 1:20:28,46
+I had a chance to test what I worked on years
+previously with the cockpit design.
+
+
+952
+1:20:28,46 --> 1:20:35,29
+You are concerned about visibility when you
+are squashed in the seat at 3Gs and access.
+
+
+953
+1:20:35,29 --> 1:20:40,36
+And the APU switches, we had to put them down
+here.
+
+
+954
+1:20:40,36 --> 1:20:48,19
+And, I remember worrying specifically, if
+we have got to get to the APU switches, the
+
+
+955
+1:20:48,19 --> 1:20:52,92
+guy on the right seat under 3Gs, can he lift
+the helmet and look over there and find the
+
+
+956
+1:20:52,92 --> 1:20:53,69
+correct switch?
+
+
+957
+1:20:53,69 --> 1:20:58,38
+And you do not want to shut down the wrong
+one, one of the good ones.
+
+
+958
+1:20:58,38 --> 1:21:8,0
+And it turned out, I guess with the adrenaline
+lifting this heavy helmet at 3Gs, I did it
+
+
+959
+1:21:8,0 --> 1:21:10,28
+without even thinking about it and went right
+to the switch.
+
+
+960
+1:21:10,28 --> 1:21:17,19
+So it worked.
+
+
+961
+1:21:17,19 --> 1:21:19,92
+General habitability was good in the orbiter.
+
+
+962
+1:21:19,92 --> 1:21:26,6
+The first time anybody lived there for eight
+days.
+
+
+963
+1:21:26,6 --> 1:21:30,31
+A good way to think about living in the orbiter,
+think of it as a camping trip.
+
+
+964
+1:21:30,31 --> 1:21:37,93
+You go on a camping trip you don't worry about
+hot water, showers and all the niceties of
+
+
+965
+1:21:37,93 --> 1:21:39,2
+home.
+
+
+966
+1:21:39,2 --> 1:21:41,24
+You get in that frame of mind and it is fine.
+
+
+967
+1:21:41,24 --> 1:21:51,47
+The food is adequate, the facilities are OK,
+although in our case the toilet ground to
+
+
+968
+1:21:51,47 --> 1:21:52,74
+a halt.
+
+
+969
+1:21:52,74 --> 1:22:0,83
+It is a drum that rotates to centrifugally
+sling all fecal material out and contain it.
+
+
+970
+1:22:0,83 --> 1:22:2,76
+And it ground to a halt.
+
+
+971
+1:22:2,76 --> 1:22:13,0
+We were in a real camping trip for a while
+on that, although it worked out.
+
+
+972
+1:22:13,0 --> 1:22:16,44
+The arm worked great, RMS.
+
+
+973
+1:22:16,44 --> 1:22:19,21
+The main jets I mentioned earlier.
+
+
+974
+1:22:19,21 --> 1:22:23,69
+Of course, you don't use the main jets much.
+
+
+975
+1:22:23,69 --> 1:22:27,77
+It would be hard to sleep with them booming
+away, but you use the Verniers most of the
+
+
+976
+1:22:27,77 --> 1:22:27,88
+time.
+
+
+977
+1:22:27,88 --> 1:22:32,81
+Verniers are critical to smooth operation
+over long periods of time.
+
+
+978
+1:22:32,81 --> 1:22:39,52
+We spent a lot of time, for instance, tail
+sun.
+
+
+979
+1:22:39,52 --> 1:22:45,62
+For like three days we put the tail right
+at the sun and stayed in that inertial attitude.
+
+
+980
+1:22:45,62 --> 1:22:51,39
+And so it cooked the backend while the front
+end of the orbiter is cold.
+
+
+981
+1:22:51,39 --> 1:22:56,58
+We took all the Theodolite measurements, opened
+and closed the doors.
+
+
+982
+1:22:56,58 --> 1:22:58,38
+All of that worked fine.
+
+
+983
+1:22:58,38 --> 1:22:59,93
+The systems handled it.
+
+
+984
+1:22:59,93 --> 1:23:1,67
+A lot of it was ground analysis.
+
+
+985
+1:23:1,67 --> 1:23:6,14
+And how the temperatures were, were extensively
+instrumented.
+
+
+986
+1:23:6,14 --> 1:23:12,94
+And we did notice a strange thing.
+
+
+987
+1:23:12,94 --> 1:23:15,88
+Not strange but it became apparent.
+
+
+988
+1:23:15,88 --> 1:23:24,48
+When you are in orbit, when you are on the
+sunny side of the earth, as soon as the sun
+
+
+989
+1:23:24,48 --> 1:23:31,31
+comes up it is high noon bright, but there
+is no atmosphere around to diffuse the light.
+
+
+990
+1:23:31,31 --> 1:23:38,74
+When we were at tail sun, it is hidden behind
+perfectly eclipsed by the aft structure.
+
+
+991
+1:23:38,74 --> 1:23:46,74
+And so, there is no sun ball to be seen anywhere,
+even though it is bright sunny from just the
+
+
+992
+1:23:46,74 --> 1:23:50,98
+reflections of the structure you can see out
+the window.
+
+
+993
+1:23:50,98 --> 1:23:58,37
+I noticed, looking at the radiators, which
+are very, very smooth concave surfaces out
+
+
+994
+1:23:58,37 --> 1:24:1,19
+there and shiny silver colored.
+
+
+995
+1:24:1,19 --> 1:24:9,25
+It looked like there were bright diamonds
+all along the surface when we were tail sun.
+
+
+996
+1:24:9,25 --> 1:24:14,99
+And I finally figured out it was just little
+specks of dust on the radiators, which you
+
+
+997
+1:24:14,99 --> 1:24:16,73
+wouldn't even notice normally.
+
+
+998
+1:24:16,73 --> 1:24:24,55
+But exactly tail sun, the sun's rays are coming
+right down exactly tangent to that surface.
+
+
+999
+1:24:24,55 --> 1:24:28,65
+And the least little thing on it would flare.
+
+
+1000
+1:24:28,65 --> 1:24:36,46
+And interesting effect which took me a while
+to figure out what all these bright spots
+
+
+1001
+1:24:36,46 --> 1:24:44,59
+on the radiators are.
+
+
+1002
+1:24:44,59 --> 1:24:53,15
+Entry on STS-3 was done to an about 1:00 in
+the morning landing at White Sands, New Mexico.
+
+
+1003
+1:24:53,15 --> 1:24:54,1
+We started the entry.
+
+
+1004
+1:24:54,1 --> 1:25:0,44
+Halfway around the world it is dark, and most
+of the entry was in the dark.
+
+
+1005
+1:25:0,44 --> 1:25:5,81
+The plasma light show that happens, as you
+get down in the atmosphere, the ionization
+
+
+1006
+1:25:5,81 --> 1:25:11,42
+that happens produces a spectacular scene
+out the windshield.
+
+
+1007
+1:25:11,42 --> 1:25:19,6
+I mean it also had us thinking about the missing
+tiles that are going.
+
+
+1008
+1:25:19,6 --> 1:25:24,15
+But a night entry is really a show.
+
+
+1009
+1:25:24,15 --> 1:25:29,36
+The next flight was a day entry which was
+not nearly as spectacular.
+
+
+1010
+1:25:29,36 --> 1:25:41,98
+I mentioned about grabbing the stick too late,
+unfair to Jack, and then the de-rotation.
+
+
+1011
+1:25:41,98 --> 1:25:43,85
+Now onto part three.
+
+
+1012
+1:25:43,85 --> 1:25:45,5
+How am I doing?
+
+
+1013
+1:25:45,5 --> 1:25:46,6
+I might make it yet.
+
+
+1014
+1:25:46,6 --> 1:26:0,72
+STS-51F was a whole different situation than
+the earlier test flights.
+
+
+1015
+1:26:0,72 --> 1:26:5,5
+One big difference is there were seven people
+instead of two.
+
+
+1016
+1:26:5,5 --> 1:26:9,41
+With seven we had to add a little bit on the
+patch to put the extra two names.
+
+
+1017
+1:26:9,41 --> 1:26:12,44
+This is the ninth flight.
+
+
+1018
+1:26:12,44 --> 1:26:15,6
+There are nineteen stars.
+
+
+1019
+1:26:15,6 --> 1:26:15,78
+Primary experiments.
+
+
+1020
+1:26:15,78 --> 1:26:16,96
+This was a science flight.
+
+
+1021
+1:26:16,96 --> 1:26:19,97
+It was a space lab but without the laboratory.
+
+
+1022
+1:26:19,97 --> 1:26:25,9
+All equipment in the payload bay full stem
+to stern with telescopes mostly.
+
+
+1023
+1:26:25,9 --> 1:26:31,65
+And all the telescopes mounted on the pointing
+system we had were solar telescopes.
+
+
+1024
+1:26:31,65 --> 1:26:37,57
+So we had the sun in the accurate part of
+the sky.
+
+
+1025
+1:26:37,57 --> 1:26:46,68
+Here is Orion and Leo, the backwards question
+mark.
+
+
+1026
+1:26:46,68 --> 1:26:51,32
+Nineteen stars.
+
+
+1027
+1:26:51,32 --> 1:27:1,7
+A lot of symbology here.
+
+
+1028
+1:27:1,7 --> 1:27:13,23
+A short entertaining video.
+
+
+1029
+1:27:13,23 --> 1:27:22,22
+We had seven people, including three mission
+specialists, which Dr.
+
+
+1030
+1:27:22,22 --> 1:27:25,92
+Hoffman was when he was down in Houston.
+
+
+1031
+1:27:25,92 --> 1:27:31,53
+And we had two payload specialists, guys who
+were not full time astronauts.
+
+
+1032
+1:27:31,53 --> 1:27:33,3
+They were solar physicists.
+
+
+1033
+1:27:33,3 --> 1:27:39,74
+And they were the experts on the solar telescopes
+that we had and went along to fly.
+
+
+1034
+1:27:39,74 --> 1:27:43,78
+First try here at main engine ignition ended
+three seconds after ignition.
+
+
+1035
+1:27:43,78 --> 1:27:51,6
+We felt the spacecraft rock around, the noise
+and then nothing.
+
+
+1036
+1:27:51,6 --> 1:28:0,76
+And we had a pad shutdown because the left
+engine, the automatic system detected a failure,
+
+
+1037
+1:28:0,76 --> 1:28:2,98
+a slow-acting valve and it shut us off.
+
+
+1038
+1:28:2,98 --> 1:28:7,4
+So we are there wondering if we are on fire
+and whether we ought to race out and so forth.
+
+
+1039
+1:28:7,4 --> 1:28:13,28
+It was tense for a while but there wasn't
+a fire, just this automatic shutdown.
+
+
+1040
+1:28:13,28 --> 1:28:15,79
+We crawled out.
+
+
+1041
+1:28:15,79 --> 1:28:24,57
+We were told there would be a two-week delay,
+so we took the kids to Disneyland and had
+
+
+1042
+1:28:24,57 --> 1:28:28,26
+a good time, went back home and started the
+whole training cycle again.
+
+
+1043
+1:28:28,26 --> 1:28:34,84
+And came back two weeks later and got a good
+start this time.
+
+
+1044
+1:28:34,84 --> 1:28:41,27
+But not after lying on our back on the pads
+strapped in for five hours because of some
+
+
+1045
+1:28:41,27 --> 1:28:48,4
+software glitches that had to be fixed and
+computers reloaded and tested.
+
+
+1046
+1:28:48,4 --> 1:28:52,49
+And one of our reports was five hours is the
+limit.
+
+
+1047
+1:28:52,49 --> 1:28:58,49
+I mean you are lying on your back with your
+feet up in a pressure suit strapped in.
+
+
+1048
+1:28:58,49 --> 1:29:8,71
+That is more than is reasonable to ask prior
+to launch.
+
+
+1049
+1:29:8,71 --> 1:29:10,74
+On the way up, well, I will mention that later.
+
+
+1050
+1:29:10,74 --> 1:29:12,91
+Here is the instrument system.
+
+
+1051
+1:29:12,91 --> 1:29:15,4
+This baby was built in Germany.
+
+
+1052
+1:29:15,4 --> 1:29:23,15
+It is this gimbal device that held these four
+solar telescopes and the star trackers.
+
+
+1053
+1:29:23,15 --> 1:29:25,38
+Here is a physics experiment.
+
+
+1054
+1:29:25,38 --> 1:29:30,34
+The OMS engines are lit and produces one-sixteenth
+of a G.
+
+
+1055
+1:29:30,34 --> 1:29:33,92
+The thrust of the orbital maneuvering engines.
+
+
+1056
+1:29:33,92 --> 1:29:37,2
+If you are trying to sleep, that is what happens
+when the OMS engines come on.
+
+
+1057
+1:29:37,2 --> 1:29:44,29
+And you saw the water going across.
+
+
+1058
+1:29:44,29 --> 1:29:46,87
+It is déjà vu.
+
+
+1059
+1:29:46,87 --> 1:29:52,27
+We had the same old PDP package on this, but
+with a difference this time.
+
+
+1060
+1:29:52,27 --> 1:29:54,94
+We took it out of the payload bay and brought
+it up here.
+
+
+1061
+1:29:54,94 --> 1:29:59,56
+That is my right ear you are looking at in
+profile out the window.
+
+
+1062
+1:29:59,56 --> 1:30:5,24
+It is crowded up there with seven people up
+on the flight deck all trying to get a view
+
+
+1063
+1:30:5,24 --> 1:30:7,22
+here, but we let go of it.
+
+
+1064
+1:30:7,22 --> 1:30:13,37
+And it had a momentum wheel in there to cause
+it to spin up slowly.
+
+
+1065
+1:30:13,37 --> 1:30:22,62
+And we backed away from it and flew a couple
+of very challenging loops around it.
+
+
+1066
+1:30:22,62 --> 1:30:26,8
+Here is a sequel to the hairbrush.
+
+
+1067
+1:30:26,8 --> 1:30:26,76
+This is not me.
+
+
+1068
+1:30:26,76 --> 1:30:33,54
+It is Story Musgrave who has the same hairdo
+as I do.
+
+
+1069
+1:30:33,54 --> 1:30:37,74
+And he is getting spiffed up for the TV show.
+
+
+1070
+1:30:37,74 --> 1:31:0,3
+That is all we did is horse around for seven
+days.
+
+
+1071
+1:31:0,3 --> 1:31:4,38
+It got extended a day to eight days again.
+
+
+1072
+1:31:4,38 --> 1:31:13,24
+And this landing was back at Edwards, runway
+23 on August 6th when it was 105 degrees,
+
+
+1073
+1:31:13,24 --> 1:31:17,67
+lots of heat waves.
+
+
+1074
+1:31:17,67 --> 1:31:22,96
+This landing was by far the most forward CG
+because we still had all that equipment in
+
+
+1075
+1:31:22,96 --> 1:31:24,65
+the payload bay.
+
+
+1076
+1:31:24,65 --> 1:31:32,17
+And we were almost the heaviest orbiter landing,
+so getting the nose down before it fell down,
+
+
+1077
+1:31:32,17 --> 1:32:1,23
+crashed and broke the nose gear was one of
+my primary concerns on this one.
+
+
+1078
+1:32:1,23 --> 1:32:4,42
+More about the actual launch itself.
+
+
+1079
+1:32:4,42 --> 1:32:5,85
+There is the customary view.
+
+
+1080
+1:32:5,85 --> 1:32:18,59
+They put a camera right in close and got this
+really close-up view, but it was about 5.5
+
+
+1081
+1:32:18,59 --> 1:32:21,61
+minutes after this picture.
+
+
+1082
+1:32:21,61 --> 1:32:22,82
+We had delayed five hours.
+
+
+1083
+1:32:22,82 --> 1:32:30,69
+It is late afternoon so very quickly heading
+out over the Atlantic we were in darkness.
+
+
+1084
+1:32:30,69 --> 1:32:31,98
+And then, bang.
+
+
+1085
+1:32:31,98 --> 1:32:38,56
+Remember the left engine got us on the pad
+abort?
+
+
+1086
+1:32:38,56 --> 1:32:42,11
+Well, the center engine shut down.
+
+
+1087
+1:32:42,11 --> 1:32:47,9
+We were at 3Gs and all of a sudden we are
+at 2Gs or something like that.
+
+
+1088
+1:32:47,9 --> 1:32:53,66
+Instant square wave cutoff and acceleration.
+
+
+1089
+1:32:53,66 --> 1:32:56,37
+Looking there and confirming the center engine
+shut down.
+
+
+1090
+1:32:56,37 --> 1:33:1,86
+What happened was there are a number of sensors
+on the main engines.
+
+
+1091
+1:33:1,86 --> 1:33:9,24
+The particular one that got us was the fuel
+high pressure turbo pump.
+
+
+1092
+1:33:9,24 --> 1:33:19,13
+A piece of machinery running at 75,000 RPM
+high pressures.
+
+
+1093
+1:33:19,13 --> 1:33:26,15
+The high-tech gear that makes the main engine
+so efficient, IISP, but really run at the
+
+
+1094
+1:33:26,15 --> 1:33:31,61
+limits of metallurgy and technology.
+
+
+1095
+1:33:31,61 --> 1:33:36,88
+The sensor that senses the output temperature
+was a series of four platinum wires in the
+
+
+1096
+1:33:36,88 --> 1:33:42,55
+cavity in the output of that turbo pump.
+
+
+1097
+1:33:42,55 --> 1:33:45,73
+They had some tendency for the wires to burn
+through.
+
+
+1098
+1:33:45,73 --> 1:33:53,28
+When they burn through, they showed over-temp
+was the electrical result of a burn through,
+
+
+1099
+1:33:53,28 --> 1:33:54,28
+one of these sensors.
+
+
+1100
+1:33:54,28 --> 1:33:56,91
+Well, we had two burn throughs.
+
+
+1101
+1:33:56,91 --> 1:34:3,36
+And the software said that must mean there
+are two sensors that say you are too hot,
+
+
+1102
+1:34:3,36 --> 1:34:4,81
+I will shut the motor off.
+
+
+1103
+1:34:4,81 --> 1:34:6,85
+And it did.
+
+
+1104
+1:34:6,85 --> 1:34:20,81
+With no reaction we just kept going straight
+and smooth, but it now put us into what is
+
+
+1105
+1:34:20,81 --> 1:34:21,49
+called an abort.
+
+
+1106
+1:34:21,49 --> 1:34:24,34
+Well, here is the crew.
+
+
+1107
+1:34:24,34 --> 1:34:26,96
+There are seven of us.
+
+
+1108
+1:34:26,96 --> 1:34:33,75
+I need to practice this more.
+
+
+1109
+1:34:33,75 --> 1:34:35,62
+But, anyway, it was a two shift operation.
+
+
+1110
+1:34:35,62 --> 1:34:39,55
+We were going to work around the clock, so
+we had a red team and a blue team.
+
+
+1111
+1:34:39,55 --> 1:34:44,21
+And I was the commander so I had a striped
+shirt.
+
+
+1112
+1:34:44,21 --> 1:34:44,71
+Abort to orbit.
+
+
+1113
+1:34:44,71 --> 1:34:49,98
+We had to call from the ground, confirm what
+we knew already, which means turning that
+
+
+1114
+1:34:49,98 --> 1:34:54,4
+rotary knob to ATO, abort to orbit, kind of
+an oxymoron in a way.
+
+
+1115
+1:34:54,4 --> 1:34:55,29
+It is not really an abort.
+
+
+1116
+1:34:55,29 --> 1:34:58,5
+It is pressing on and pushing the button behind
+it.
+
+
+1117
+1:34:58,5 --> 1:35:4,6
+It loads the software in to do a couple of
+things, lower the insertion target.
+
+
+1118
+1:35:4,6 --> 1:35:11,22
+We had tried to get as high orbit as performance
+would permit, but now we are going lower.
+
+
+1119
+1:35:11,22 --> 1:35:15,76
+Engine down costs you total performance.
+
+
+1120
+1:35:15,76 --> 1:35:20,17
+And we also started dumping OMS fuel.
+
+
+1121
+1:35:20,17 --> 1:35:26,1
+We had to turn on the OMS engines, and we
+ended up dumping 4500 pounds of OMS fuel,
+
+
+1122
+1:35:26,1 --> 1:35:34,47
+a little bit of extra thrust but a significant
+loss of weight to allow the remaining performance
+
+
+1123
+1:35:34,47 --> 1:35:38,47
+to get us to an acceptable orbit.
+
+
+1124
+1:35:38,47 --> 1:35:44,98
+And, interestingly, the last sim we did in
+training in Houston, before we went to the
+
+
+1125
+1:35:44,98 --> 1:35:51,78
+Cape to fly about two days before, was an
+integrated sim where we are tied into all
+
+
+1126
+1:35:51,78 --> 1:35:53,73
+the controllers and everybody is working as
+a team.
+
+
+1127
+1:35:53,73 --> 1:35:59,65
+And the very last run we had was an ATO, abort
+to orbit.
+
+
+1128
+1:35:59,65 --> 1:36:1,65
+And, son of a gun, that is what we did.
+
+
+1129
+1:36:1,65 --> 1:36:5,11
+We always had trouble starting a watch.
+
+
+1130
+1:36:5,11 --> 1:36:9,22
+And you try to do everything internally on
+the crew so that if you lose communication
+
+
+1131
+1:36:9,22 --> 1:36:15,53
+with the ground you can complete the emergency
+properly on your own.
+
+
+1132
+1:36:15,53 --> 1:36:22,63
+On ATOs before, we had to start a stopwatch
+at the time we started the OMS dump.
+
+
+1133
+1:36:22,63 --> 1:36:27,4
+And we had a chart to go in to find out how
+many minutes of OMS dump we needed to do given
+
+
+1134
+1:36:27,4 --> 1:36:31,2
+at what velocity we lost the engine.
+
+
+1135
+1:36:31,2 --> 1:36:33,65
+And Story's job was to do the watch.
+
+
+1136
+1:36:33,65 --> 1:36:39,11
+In the excitement of all the other stuff we
+had to do to get the OMS on, we would always
+
+
+1137
+1:36:39,11 --> 1:36:39,47
+forget the watch.
+
+
+1138
+1:36:39,47 --> 1:36:43,3
+But this time he got the watch going so we
+actually did it right.
+
+
+1139
+1:36:43,3 --> 1:36:51,67
+And we knew that when we got to where we burned
+out all the available fuel, which we did,
+
+
+1140
+1:36:51,67 --> 1:37:1,35
+we went to a fuel depletion cutoff, that we
+would be really close to having to do right
+
+
+1141
+1:37:1,35 --> 1:37:4,45
+away another OMS burn to get an acceptable
+orbit.
+
+
+1142
+1:37:4,45 --> 1:37:9,0
+We are right on the boundary, as it turned
+out.
+
+
+1143
+1:37:9,0 --> 1:37:16,79
+We dumped the right amount of OMS, every last
+drop of main propellant gone, we were just
+
+
+1144
+1:37:16,79 --> 1:37:26,3
+on the boundary of not having to do the first
+OMS burn and we could relax 45 minutes later
+
+
+1145
+1:37:26,3 --> 1:37:29,94
+halfway around the world to do the final circularization.
+
+
+1146
+1:37:29,94 --> 1:37:35,86
+So it worked out good, except we were in a
+lot lower orbit than we had planned.
+
+
+1147
+1:37:35,86 --> 1:37:40,77
+And everything about this space lab flight
+depended on the orbit, so we were into a giant
+
+
+1148
+1:37:40,77 --> 1:37:41,17
+re-plan.
+
+
+1149
+1:37:41,17 --> 1:37:45,72
+Here is a nice picture of the IPS.
+
+
+1150
+1:37:45,72 --> 1:37:55,17
+Gordon, I also explain the situation of the
+inhibit switch on and off.
+
+
+1151
+1:37:55,17 --> 1:38:2,2
+I don't know how much you were aware of what
+was going on there in the cockpit.
+
+
+1152
+1:38:2,2 --> 1:38:8,61
+There is a switch in the cockpit.
+
+
+1153
+1:38:8,61 --> 1:38:13,4
+You have a lot of parameters that are monitored
+in the software on the main engines which,
+
+
+1154
+1:38:13,4 --> 1:38:17,21
+if they go out of tolerance, will shut the
+engine off.
+
+
+1155
+1:38:17,21 --> 1:38:24,13
+In fact, that is exactly why we lost the center
+engine.
+
+
+1156
+1:38:24,13 --> 1:38:28,83
+But, right after that engine shutdown, we
+were in a state where we really don't want
+
+
+1157
+1:38:28,83 --> 1:38:29,74
+to lose another engine.
+
+
+1158
+1:38:29,74 --> 1:38:35,53
+Because if, with only one left, we did not
+have the performance to get to orbit, we would
+
+
+1159
+1:38:35,53 --> 1:38:42,44
+have had to have gone to Zaragoza, Spain and
+land in the middle of the night where it was
+
+
+1160
+1:38:42,44 --> 1:38:45,6
+a 10,000 foot overcast and raining.
+
+
+1161
+1:38:45,6 --> 1:38:51,88
+I mean if we pulled that off we would have
+deserved some kind of metal.
+
+
+1162
+1:38:51,88 --> 1:38:59,51
+And so, as a preplanned procedure, when you
+lose one engine before, the point where you
+
+
+1163
+1:38:59,51 --> 1:39:5,36
+can stagger into orbit on one remaining engine
+you inhibit the limits.
+
+
+1164
+1:39:5,36 --> 1:39:13,42
+You throw a switch that says you're telling
+the engines to keep running regardless of
+
+
+1165
+1:39:13,42 --> 1:39:18,5
+over-temps or anything because you take the
+chance, which is a big one if something let
+
+
+1166
+1:39:18,5 --> 1:39:28,77
+go, to not be susceptible that got us for
+the first engine, that is a sensor failure.
+
+
+1167
+1:39:28,77 --> 1:39:29,78
+And so we did that.
+
+
+1168
+1:39:29,78 --> 1:39:35,79
+We inhibited the limits until we got to a
+point in the energy profile where we were
+
+
+1169
+1:39:35,79 --> 1:39:37,72
+"press to MECO." That is the call.
+
+
+1170
+1:39:37,72 --> 1:39:45,87
+Press to MECO means that you are now at a
+velocity where you can make it into acceptable
+
+
+1171
+1:39:45,87 --> 1:39:51,79
+low orbit on one engine if you should lose
+another one.
+
+
+1172
+1:39:51,79 --> 1:39:59,8
+Press to MECO then the plan was we will re-enable
+the limits so we are not hanging it out on
+
+
+1173
+1:39:59,8 --> 1:40:3,51
+a possible second engine failure.
+
+
+1174
+1:40:3,51 --> 1:40:7,57
+And we would accept a second engine failure
+because we knew we could make it on one engine.
+
+
+1175
+1:40:7,57 --> 1:40:12,69
+So we did that, the call came up, we went
+to enable.
+
+
+1176
+1:40:12,69 --> 1:40:17,6
+And then, before we got there, we got another
+call from the ground that said go back to
+
+
+1177
+1:40:17,6 --> 1:40:18,87
+inhibit.
+
+
+1178
+1:40:18,87 --> 1:40:21,72
+Well, it wasn't time to get a full explanation.
+
+
+1179
+1:40:21,72 --> 1:40:23,99
+We dutifully did it.
+
+
+1180
+1:40:23,99 --> 1:40:28,49
+What they saw on the ground is more failures
+on the right engine.
+
+
+1181
+1:40:28,49 --> 1:40:30,57
+Remember the left got us on the pad abort?
+
+
+1182
+1:40:30,57 --> 1:40:32,74
+The center engine shut down on the way up.
+
+
+1183
+1:40:32,74 --> 1:40:39,61
+And, to make everything equal, the right engine,
+the same sensors they can see on the ground,
+
+
+1184
+1:40:39,61 --> 1:40:45,65
+it is not visible in the cockpit, each of
+those four platinum wires they saw starting
+
+
+1185
+1:40:45,65 --> 1:40:47,82
+to go.
+
+
+1186
+1:40:47,82 --> 1:40:50,6
+Clearly a design problem here.
+
+
+1187
+1:40:50,6 --> 1:40:55,79
+And they could tell those were going to go
+and get us that second engine, so that is
+
+
+1188
+1:40:55,79 --> 1:40:58,94
+why we went back to inhibit for the rest of
+the way.
+
+
+1189
+1:40:58,94 --> 1:41:4,65
+It made a good war story, but we got there.
+
+
+1190
+1:41:4,65 --> 1:41:10,63
+We started operating the IPS.
+
+
+1191
+1:41:10,63 --> 1:41:15,99
+A platform built in Germany with all the telescopes.
+
+
+1192
+1:41:15,99 --> 1:41:19,46
+These are start trackers to align where it
+is.
+
+
+1193
+1:41:19,46 --> 1:41:22,15
+And this baby could point.
+
+
+1194
+1:41:22,15 --> 1:41:26,26
+The spec was one arch second of accuracy.
+
+
+1195
+1:41:26,26 --> 1:41:29,33
+An arch second is the size of a dime.
+
+
+1196
+1:41:29,33 --> 1:41:36,9
+If you are standing at the capital and looking
+at dime at the Lincoln Memorial, that is how
+
+
+1197
+1:41:36,9 --> 1:41:38,8
+much.
+
+
+1198
+1:41:38,8 --> 1:41:42,9
+But, when we cranked it up, it didn't work
+worth a hoot.
+
+
+1199
+1:41:42,9 --> 1:41:46,84
+They just couldn't get it to stabilize or
+point where it was supposed to.
+
+
+1200
+1:41:46,84 --> 1:41:52,35
+And, for three days, the payload specialists
+and the MSs were in constant communication
+
+
+1201
+1:41:52,35 --> 1:41:54,11
+with the ground.
+
+
+1202
+1:41:54,11 --> 1:41:59,56
+And they patched the software in a major way
+and kept sending up new software loads to
+
+
+1203
+1:41:59,56 --> 1:42:1,62
+get this thing to work.
+
+
+1204
+1:42:1,62 --> 1:42:9,79
+And viola, on the third day they finally got
+it right, then it worked well and got a lot
+
+
+1205
+1:42:9,79 --> 1:42:14,82
+of good solar science.
+
+
+1206
+1:42:14,82 --> 1:42:23,63
+Just an aside, when you are looking at pictures
+from space, you tend to think you walk around
+
+
+1207
+1:42:23,63 --> 1:42:26,6
+out here and the atmosphere is this big ocean
+of air above you, right?
+
+
+1208
+1:42:26,6 --> 1:42:30,1
+Lots of air way up there.
+
+
+1209
+1:42:30,1 --> 1:42:37,34
+This little bitty blue line right there, barely
+perceptible, there always appears on any sunlit
+
+
+1210
+1:42:37,34 --> 1:42:46,13
+picture showing the limb of the earth, that
+is the same blue as the scattering that causes
+
+
+1211
+1:42:46,13 --> 1:42:47,76
+the sky to be blue.
+
+
+1212
+1:42:47,76 --> 1:42:50,2
+And that is how thick it is.
+
+
+1213
+1:42:50,2 --> 1:42:54,92
+It is just this little thin shell of atmosphere
+around.
+
+
+1214
+1:42:54,92 --> 1:43:5,91
+At 18,000 feet three miles up you have lost
+half the atmospheric pressure.
+
+
+1215
+1:43:5,91 --> 1:43:10,0
+And that is laying on an 8,000 mile diameter
+globe.
+
+
+1216
+1:43:10,0 --> 1:43:18,3
+And so that is where all of human history
+has happened, in that little shell over there
+
+
+1217
+1:43:18,3 --> 1:43:19,94
+laying around the globe.
+
+
+1218
+1:43:19,94 --> 1:43:25,69
+A philosophical point for you engineers.
+
+
+1219
+1:43:25,69 --> 1:43:28,11
+What is flying on orbit like?
+
+
+1220
+1:43:28,11 --> 1:43:34,43
+Well, it is one of the 215 pounds of checklist.
+
+
+1221
+1:43:34,43 --> 1:43:39,98
+Here I am checking propellant usage against
+what we've got and where we are because we
+
+
+1222
+1:43:39,98 --> 1:43:49,6
+dumped 4,500 pounds of crucial fuel that we
+needed to make the planned most maneuvers
+
+
+1223
+1:43:49,6 --> 1:43:55,58
+that ever been done in the orbit on our mission.
+
+
+1224
+1:43:55,58 --> 1:44:1,91
+We didn't want an extra blip out of an RCS
+thruster, and it worked very well.
+
+
+1225
+1:44:1,91 --> 1:44:7,15
+We got through seven days and even had enough
+to have another day of science on the eighth
+
+
+1226
+1:44:7,15 --> 1:44:7,23
+day.
+
+
+1227
+1:44:7,23 --> 1:44:11,53
+Flying is mostly watching the clock.
+
+
+1228
+1:44:11,53 --> 1:44:15,11
+Everything happens according to time.
+
+
+1229
+1:44:15,11 --> 1:44:21,36
+And, since you have 16 sunrises and sunsets
+every 24 hours, you never know what time it
+
+
+1230
+1:44:21,36 --> 1:44:24,78
+is without looking at a watch.
+
+
+1231
+1:44:24,78 --> 1:44:29,3
+And you are looking at a crew activity plan
+with everything laid out.
+
+
+1232
+1:44:29,3 --> 1:44:40,9
+And we even had an alarm system you could
+set in the CRT to make a tone to wake you
+
+
+1233
+1:44:40,9 --> 1:44:40,45
+up.
+
+
+1234
+1:44:40,45 --> 1:44:45,22
+It is a lot of clock watching to pull off
+a complex mission like this.
+
+
+1235
+1:44:45,22 --> 1:44:47,4
+It is just the way life is on orbit.
+
+
+1236
+1:44:47,4 --> 1:44:56,86
+Now, here is one of our really serious high-level
+scientific objectives.
+
+
+1237
+1:44:56,86 --> 1:44:59,44
+This was the official name, the Carbonated
+Beverage Test.
+
+
+1238
+1:44:59,44 --> 1:45:4,44
+I don't know if it was an MIT guy or not.
+
+
+1239
+1:45:4,44 --> 1:45:9,98
+He was a real serious academic type.
+
+
+1240
+1:45:9,98 --> 1:45:12,38
+An Indian I think.
+
+
+1241
+1:45:12,38 --> 1:45:23,59
+Anyway, he built a Coke can that had a lot
+of pressure regulators in there and laminar
+
+
+1242
+1:45:23,59 --> 1:45:27,59
+flow annular things.
+
+
+1243
+1:45:27,59 --> 1:45:31,5
+So many that this Coke can only held four
+ounces of Coke.
+
+
+1244
+1:45:31,5 --> 1:45:34,54
+But he talked to the White House.
+
+
+1245
+1:45:34,54 --> 1:45:35,65
+Reagan was president.
+
+
+1246
+1:45:35,65 --> 1:45:42,56
+And somebody on the staff approved we are
+going to fly these Coke cans and see if they
+
+
+1247
+1:45:42,56 --> 1:45:49,28
+had a system to provide pop in orbit with
+the regular kind of carbonation and dispense
+
+
+1248
+1:45:49,28 --> 1:45:51,76
+OK.
+
+
+1249
+1:45:51,76 --> 1:45:55,5
+We got the briefing and we had the four stowed
+in a locker.
+
+
+1250
+1:45:55,5 --> 1:45:57,88
+And I got them out at the start of the test.
+
+
+1251
+1:45:57,88 --> 1:46:3,81
+But 30 days before launch, all of a sudden
+this big thing came down.
+
+
+1252
+1:46:3,81 --> 1:46:10,67
+Pepsi got wind of this experiment and went
+to the White House staff and they got Pepsi
+
+
+1253
+1:46:10,67 --> 1:46:11,51
+put on.
+
+
+1254
+1:46:11,51 --> 1:46:19,14
+Pepsi went into a crash program to fly more
+cans of Pepsi.
+
+
+1255
+1:46:19,14 --> 1:46:24,88
+Here is Carl trying the Pepsi.
+
+
+1256
+1:46:24,88 --> 1:46:29,25
+You notice that looks a lot like a shaving
+cream can.
+
+
+1257
+1:46:29,25 --> 1:46:35,52
+Well, that's how the Pepsi came out, just
+like shaving cream, this frothy ball of stuff.
+
+
+1258
+1:46:35,52 --> 1:46:37,86
+I mean theirs was the last minute deal.
+
+
+1259
+1:46:37,86 --> 1:46:41,18
+It didn't have any pressure regulators in
+it.
+
+
+1260
+1:46:41,18 --> 1:46:47,74
+It just went out there.
+
+
+1261
+1:46:47,74 --> 1:46:51,34
+Now we worried about having to make a judgment,
+which tasted better.
+
+
+1262
+1:46:51,34 --> 1:46:58,85
+Well, the problem was we didn't have any kind
+of refrigerator so they are both warm.
+
+
+1263
+1:46:58,85 --> 1:47:4,55
+Warm pop is not my favorite.
+
+
+1264
+1:47:4,55 --> 1:47:16,8
+And so, they were not anything anybody fought
+over, either kind.
+
+
+1265
+1:47:16,8 --> 1:47:23,95
+If you let the Pepsi float around it would
+coalesce a little CO2 in random fashion, but
+
+
+1266
+1:47:23,95 --> 1:47:31,28
+the physics of it, Carl found by blowing very
+carefully on the edge you could get it spinning
+
+
+1267
+1:47:31,28 --> 1:47:33,38
+up.
+
+
+1268
+1:47:33,38 --> 1:47:40,97
+And spinning Pepsi would have the froth at
+the poles and the liquid around the equator.
+
+
+1269
+1:47:40,97 --> 1:47:51,5
+And we always had a tall guy standing by in
+case it drifted into something.
+
+
+1270
+1:47:51,5 --> 1:47:52,55
+This is the end of the experiment here.
+
+
+1271
+1:47:52,55 --> 1:47:59,78
+He got it into his mouth without touching
+any of it.
+
+
+1272
+1:47:59,78 --> 1:48:6,55
+We had the same PDP but, as I mentioned and
+as you saw in the movie, we let go of it.
+
+
+1273
+1:48:6,55 --> 1:48:10,73
+We actually maneuvered all around the orbit
+and looked at the wake through the plasma,
+
+
+1274
+1:48:10,73 --> 1:48:11,85
+let go of it.
+
+
+1275
+1:48:11,85 --> 1:48:18,52
+The proximity ops were very extensive and
+challenging and many, many maneuvers.
+
+
+1276
+1:48:18,52 --> 1:48:20,7
+That is in the Caribbean.
+
+
+1277
+1:48:20,7 --> 1:48:21,69
+The tongue of the ocean.
+
+
+1278
+1:48:21,69 --> 1:48:25,95
+A spectacular coral reef around very deep
+water.
+
+
+1279
+1:48:25,95 --> 1:48:28,88
+Here is the Gibraltar.
+
+
+1280
+1:48:28,88 --> 1:48:32,63
+The rock, I believe, is out on the point.
+
+
+1281
+1:48:32,63 --> 1:48:38,19
+The Mediterranean here and the Atlantic here.
+
+
+1282
+1:48:38,19 --> 1:48:40,28
+You've heard you cannot see borders in space.
+
+
+1283
+1:48:40,28 --> 1:48:41,62
+Not true.
+
+
+1284
+1:48:41,62 --> 1:48:49,33
+This is Israel this way and Egypt this way
+and the Gaza strip along here, which has been
+
+
+1285
+1:48:49,33 --> 1:48:53,47
+in the news as of late.
+
+
+1286
+1:48:53,47 --> 1:48:56,33
+And in the same area the Dead Sea, the Sea
+of Galilee.
+
+
+1287
+1:48:56,33 --> 1:48:58,3
+Here is most of Israel in one picture.
+
+
+1288
+1:48:58,3 --> 1:49:4,22
+A little closer to home.
+
+
+1289
+1:49:4,22 --> 1:49:6,9
+This is most of New Jersey.
+
+
+1290
+1:49:6,9 --> 1:49:7,61
+Long Island.
+
+
+1291
+1:49:7,61 --> 1:49:8,42
+There is Manhattan.
+
+
+1292
+1:49:8,42 --> 1:49:11,39
+Hudson River and East River.
+
+
+1293
+1:49:11,39 --> 1:49:18,61
+There are about 10,000 copies of this picture.
+
+
+1294
+1:49:18,61 --> 1:49:20,22
+This is Southern California.
+
+
+1295
+1:49:20,22 --> 1:49:21,81
+This is San Diego right here.
+
+
+1296
+1:49:21,81 --> 1:49:23,88
+Los Angeles.
+
+
+1297
+1:49:23,88 --> 1:49:29,72
+And, in high rise print, you can see water
+here which is San Francisco Bay.
+
+
+1298
+1:49:29,72 --> 1:49:36,88
+And the center of it all is the Antelope Valley
+right here where I live and where Edwards
+
+
+1299
+1:49:36,88 --> 1:49:38,4
+is right here.
+
+
+1300
+1:49:38,4 --> 1:49:44,11
+This is the San Andreas Fault right through
+here.
+
+
+1301
+1:49:44,11 --> 1:49:52,55
+Closer up of LA which, at the end of 51F,
+we came right by Catalina Island, right up
+
+
+1302
+1:49:52,55 --> 1:49:54,83
+the Harbor Freeway into Edwards.
+
+
+1303
+1:49:54,83 --> 1:50:3,17
+And we went by Harbor Freeway at about mach
+3.
+
+
+1304
+1:50:3,17 --> 1:50:6,0
+And closer up of the dry lake at Edwards.
+
+
+1305
+1:50:6,0 --> 1:50:8,55
+And the landing.
+
+
+1306
+1:50:8,55 --> 1:50:15,79
+Flight test results most of which I have mentioned
+already.
+
+
+1307
+1:50:15,79 --> 1:50:24,22
+And, to finish up, I have reports on a memory
+stick here, the pilot reports we wrote as
+
+
+1308
+1:50:24,22 --> 1:50:28,9
+crews which you can take at your leisure.
+
+
+1309
+1:50:28,9 --> 1:50:30,739
+If you are interested, copy it off.
+
+
+1310
+1:50:30,739 --> 1:50:32,9
+They are available.
+
+
+1311
+1:50:32,9 --> 1:50:41,38
+Not great works of art, but the specific things
+that we learned on doing the flight test.
+
+
+1312
+1:50:41,38 --> 1:50:50,14
+And these are just thoughts of transitioning
+into operation from test mode, which I got
+
+
+1313
+1:50:50,14 --> 1:50:53,97
+to see the whole gamut from beginning to full
+operational.
+
+
+1314
+1:50:53,97 --> 1:50:56,75
+I apologize for running over.
+
+
+1315
+1:50:56,75 --> 1:51:0,43
+I don't think anybody minded.
+
+
+1316
+1:51:0,43 --> 1:51:4,23
+As you see, everybody is listening very intently.
+
+
+1317
+1:51:4,23 --> 1:51:6,489
+Thank you very much for taking the time.
+
+
+1318
+1:51:6,489 --> 1:53:6,489
+[APPLAUSE]
+
+

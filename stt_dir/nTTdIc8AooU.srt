@@ -1,0 +1,745 @@
+1
+0:0:1,23 --> 0:0:4,6
+CARL AZUZ, CNN ANCHOR: One of the world`s
+most powerful countries is selecting a new
+
+
+2
+0:0:4,6 --> 0:0:7,529
+leader. We are not talking about the U.S.
+election, but we have a lot of follow-up on
+
+
+3
+0:0:7,529 --> 0:0:23,839
+that at well. Welcome to CNN STUDENT NEWS.
+
+
+4
+0:0:23,839 --> 0:0:28,269
+We are starting with the U.S. presidential
+election. The election night audience wasn`t
+
+
+5
+0:0:28,269 --> 0:0:33,9
+limited to the United States. From South America
+to Europe, Africa to the Middle East and Asia,
+
+
+6
+0:0:33,9 --> 0:0:36,1
+the world was watching as results came in
+on Tuesday night.
+
+
+7
+0:0:36,1 --> 0:0:36,75
+(BEGIN VIDEO CLIP)
+
+
+8
+0:0:36,75 --> 0:0:40,329
+UNIDENTIFIED MALE: It`s a day to celebrate
+for Barack Obama supporters. Let`s get to
+
+
+9
+0:0:40,329 --> 0:0:47,76
+the big headlines at this moment. Barack Obama
+is reelected U.S. president. The first picture
+
+
+10
+0:0:47,76 --> 0:1:1,21
+of the first couple`s victory as Obama tweets
+a thank you to his voters for a second term.
+
+
+11
+0:1:1,21 --> 0:1:7,96
+(END VIDEO CLIP)
+
+
+12
+0:1:7,96 --> 0:1:13,83
+AZUZ: So people were watching the election
+in the real world, and many of them were talking
+
+
+13
+0:1:13,83 --> 0:1:18,51
+about the election in the digital one. Karin
+Caifa look at the role that social media took
+
+
+14
+0:1:18,51 --> 0:1:21,94
+on during election day and some of the trends
+that defined the day.
+
+
+15
+0:1:21,94 --> 0:1:22,63
+(BEGIN VIDEO CLIP)
+
+
+16
+0:1:22,63 --> 0:1:26,67
+KARIN CAIFA, CNN CORRESPONDENT: As election
+day turned into election night, millions of
+
+
+17
+0:1:26,67 --> 0:1:32,43
+votes and how they added up generated million
+of tweets, leading up to this one: a thank
+
+
+18
+0:1:32,43 --> 0:1:35,56
+you from a newly reelected president of the
+United States.
+
+
+19
+0:1:35,56 --> 0:1:38,72
+BARACK OBAMA, PRESIDENT OF THE UNITED STATES
+OF AMERICA: For the United States of America,
+
+
+20
+0:1:38,72 --> 0:1:40,54
+the best is yet to come.
+
+
+21
+0:1:40,54 --> 0:1:41,9
+(APPLAUSE)
+
+
+22
+0:1:41,9 --> 0:1:47,18
+CAIFA: Election day 2012 took its place as
+Twitter`s biggest political event ever. And
+
+
+23
+0:1:47,18 --> 0:1:53,25
+as TV networks called the race, second screens
+lit up at a rate of more than 327,000 tweets
+
+
+24
+0:1:53,25 --> 0:1:58,77
+per minute. Google searches pointed to an
+anxious electorate. Top search terms during
+
+
+25
+0:1:58,77 --> 0:2:3,8
+the day included "election results", "exit
+polls", "election news" and "Who`s winning
+
+
+26
+0:2:3,8 --> 0:2:9,299
+the election?" On Facebook, the number one
+term Tuesday morning and afternoon, variations
+
+
+27
+0:2:9,299 --> 0:2:15,359
+of "vote", "voted", and "go vote." After projections,
+"Obama wins" jumped to the top spots on both
+
+
+28
+0:2:15,359 --> 0:2:17,209
+Facebook and Google.
+
+
+29
+0:2:17,209 --> 0:2:22,459
+Meanwhile, among Instagram photos, a bevy
+of proud ballot shots raised legal questions
+
+
+30
+0:2:22,459 --> 0:2:28,45
+in states with restrictions on photography
+in polling places. In November 2008, about
+
+
+31
+0:2:28,45 --> 0:2:33,859
+37 percent of Americans said they used a social
+networking site. Fast forward to 2012, two
+
+
+32
+0:2:33,859 --> 0:2:35,26
+thirds are socially engaged.
+
+
+33
+0:2:35,26 --> 0:2:37,459
+MITT ROMNEY, REPUBLICAN PRESIDENTIAL CANDIDATE:
+You guys are the best.
+
+
+34
+0:2:37,459 --> 0:2:42,59
+CAIFA: And while Republicans made social strides,
+they are still catching up to do -- Mitt Romney
+
+
+35
+0:2:42,59 --> 0:2:48,34
+amassed a respectable 1.7 million Twitter
+follows during his campaign; still, just a
+
+
+36
+0:2:48,34 --> 0:2:52,4
+fraction of President Obama`s over 22 million.
+
+
+37
+0:2:52,4 --> 0:2:54,43
+In Chicago, I`m Karin Caifa.
+
+
+38
+0:2:54,43 --> 0:2:55,42
+(END VIDEOTAPE)
+
+
+39
+0:2:55,42 --> 0:2:59,439
+AZUZ: Well, President Obama has been elected
+to a second term in the White House, but the
+
+
+40
+0:2:59,439 --> 0:3:4,67
+next four years could present some big challenges
+for the president and the country. The fiscal
+
+
+41
+0:3:4,67 --> 0:3:10,98
+cliff has to do with the U.S. debt, some spending
+cuts and tax increases are said to kick in
+
+
+42
+0:3:10,98 --> 0:3:15,639
+unless President Obama and Congress can come
+up with other ways to get the country`s debt
+
+
+43
+0:3:15,639 --> 0:3:21,389
+under control. Most American voters said the
+economy was the number one issue in this election.
+
+
+44
+0:3:21,389 --> 0:3:25,519
+One thing the financial experts look at in
+order to figure out how the economy is doing
+
+
+45
+0:3:25,519 --> 0:3:30,349
+is the U.S. stock markets, specifically, the
+Dow Jones Industrial Average. Yesterday, it
+
+
+46
+0:3:30,349 --> 0:3:36,269
+dropped more than 300 points, the worst one
+day drop in a year. So, things are still pretty
+
+
+47
+0:3:36,269 --> 0:3:40,889
+rough on Wall Street, and that`s why economic
+issues like the fiscal cliff are going to
+
+
+48
+0:3:40,889 --> 0:3:42,519
+get a lot of attention.
+
+
+49
+0:3:42,519 --> 0:3:46,42
+What else lies ahead for the president`s second
+term? There is a possibility he could nominate
+
+
+50
+0:3:46,42 --> 0:3:51,489
+more justices to the U.S. Supreme Court. He
+nominated two during his first term, plus
+
+
+51
+0:3:51,489 --> 0:3:55,529
+some members of the president`s cabinet have
+said they`ll step down, so he`ll need to fill
+
+
+52
+0:3:55,529 --> 0:3:57,79
+those positions as well.
+
+
+53
+0:3:57,79 --> 0:4:1,779
+Before we leave election night behind, we
+want to point out some firsts that happened
+
+
+54
+0:4:1,779 --> 0:4:7,609
+on Tuesday. Same-sex marriage became legal
+in Maryland and Maine. A similar vote in Washington
+
+
+55
+0:4:7,609 --> 0:4:12,49
+was still pending. Judges and legislators
+have approved it in other states, but this
+
+
+56
+0:4:12,49 --> 0:4:16,19
+was the first time that voters approved same-sex
+marriage.
+
+
+57
+0:4:16,19 --> 0:4:20,91
+In Wisconsin, Tammy Baldwin became the first
+openly gay politician elected to the U.S.
+
+
+58
+0:4:20,91 --> 0:4:25,25
+Senate. She`s also the first woman elected
+to the Senate from Wisconsin.
+
+
+59
+0:4:25,25 --> 0:4:30,39
+Voters in two states, Colorado and Washington,
+approved legalizing marijuana. That`s a first,
+
+
+60
+0:4:30,39 --> 0:4:35,12
+but it`s also not a done deal. The federal
+government says marijuana is illegal, and
+
+
+61
+0:4:35,12 --> 0:4:40,38
+that overrules states rights in this case.
+And for the first time, a majority of voters
+
+
+62
+0:4:40,38 --> 0:4:45,44
+in Puerto Rico said they would like the U.S.
+territory to change its status and become
+
+
+63
+0:4:45,44 --> 0:4:47,13
+a U.S. state.
+
+
+64
+0:4:47,13 --> 0:4:48,82
+(BEGIN VIDEO CLIP)
+
+
+65
+0:4:48,82 --> 0:4:55,78
+UNIDENTIFIED FEMALE: Just the facts: in 1949,
+China officially changed its name to the People`s
+
+
+66
+0:4:55,78 --> 0:5:1,29
+Republic of China. The country had existed
+for centuries, but 1949 was when China became
+
+
+67
+0:5:1,29 --> 0:5:7,16
+a communist nation. In a communist country,
+the government controls the economy and one
+
+
+68
+0:5:7,16 --> 0:5:9,9
+political party holds all the power.
+
+
+69
+0:5:9,9 --> 0:5:12,71
+(END VIDEO CLIP)
+
+
+70
+0:5:12,71 --> 0:5:17,6
+AZUZ: That government and country are set
+to get a new leader. Now, there won`t be a
+
+
+71
+0:5:17,6 --> 0:5:22,25
+new party in charge of China. The Communist
+Party will still lead the country`s government,
+
+
+72
+0:5:22,25 --> 0:5:27,47
+but there will be a different person heading
+up that party. Every five years, more than
+
+
+73
+0:5:27,47 --> 0:5:32,43
+2,200 delegates from the Communist Party Congress
+get together. They evaluate the country`s
+
+
+74
+0:5:32,43 --> 0:5:37,19
+progress and set new directions for China.
+Every ten years, they pick new leadership.
+
+
+75
+0:5:37,19 --> 0:5:42,38
+That process started today. Most, maybe all
+of the decisions are determined in advance.
+
+
+76
+0:5:42,38 --> 0:5:47,9
+And that`s why we can tell you that this man,
+Xi Jingping, is expected to be China`s next
+
+
+77
+0:5:47,9 --> 0:5:51,9
+president. He`s been the vice president for
+nearly 5 years, but some experts describe
+
+
+78
+0:5:51,9 --> 0:5:56,3
+Xi as a mystery. They say they are not sure
+what type of leader he would be.
+
+
+79
+0:5:56,3 --> 0:5:57,59
+(BEGIN VIDEO CLIP)
+
+
+80
+0:5:57,59 --> 0:6:3,44
+UNIDENTIFIED FEMALE: What`s the word? It`s
+a type of winter storm that commonly hits
+
+
+81
+0:6:3,44 --> 0:6:7,14
+this part of the United States.
+
+
+82
+0:6:7,14 --> 0:6:12,56
+Nor`easter. That`s the word.
+
+
+83
+0:6:12,56 --> 0:6:14,56
+(END VIDEO CLIP)
+
+
+84
+0:6:14,56 --> 0:6:19,61
+AZUZ: There is one of those bearing down on
+the Northeastern U.S. right now. Yes, this
+
+
+85
+0:6:19,61 --> 0:6:24,37
+is the same part of the country that was hit
+less than two weeks ago by Sandy. A lot of
+
+
+86
+0:6:24,37 --> 0:6:29,19
+people still recovering from that storm. Hundreds
+of thousands still don`t have power. And now
+
+
+87
+0:6:29,19 --> 0:6:33,3
+they are going to have to deal with this two.
+You are looking at more rain, more wind, now
+
+
+88
+0:6:33,3 --> 0:6:38,31
+add snow to the mix. The Nor`easter could
+drive temperatures down into the `20s, and
+
+
+89
+0:6:38,31 --> 0:6:43,71
+that could be a serious problem for the thousands
+of people whose homes don`t have heat or power.
+
+
+90
+0:6:43,71 --> 0:6:45,47
+Rob Marciano has more on these winter storms.
+
+
+91
+0:6:45,47 --> 0:6:46,11
+(BEGIN VIDEO CLIP)
+
+
+92
+0:6:46,11 --> 0:6:49,19
+ROB MARCIANO, CNN CORRESPONDENT: A Nor`easter
+is the storm that typically happens in the
+
+
+93
+0:6:49,19 --> 0:6:54,19
+Northeast. That`s not why it`s called a Nor`easter,
+though. The name comes from the wind or the
+
+
+94
+0:6:54,19 --> 0:6:58,68
+prevailing wind that you typically get from
+that sort of storm, which is out of the Northeast,
+
+
+95
+0:6:58,68 --> 0:7:5,85
+and the bigger, stronger the storm, the stronger
+the Nor`east wind is.
+
+
+96
+0:7:5,85 --> 0:7:12,44
+Nor`easters are typically a weak storm that
+make their way across the U.S. and will get
+
+
+97
+0:7:12,44 --> 0:7:16,18
+a little bit of energy from the jet stream,
+and then when they heat the coast, that difference
+
+
+98
+0:7:16,18 --> 0:7:20,5
+in temperature between the land and the ocean,
+that gives them a little bit more in the way
+
+
+99
+0:7:20,5 --> 0:7:26,67
+of instability and more fuel for the fire.
+
+
+100
+0:7:26,67 --> 0:7:32,61
+Common characteristics of a Nor`easter are
+wind, rain, sometimes snow, definitely waves
+
+
+101
+0:7:32,61 --> 0:7:35,7
+battering the coastline, and because of that
+you can get some beach erosion, you can get
+
+
+102
+0:7:35,7 --> 0:7:41,68
+some coastal flooding. A storm surge is possible
+as well. So, a lot of damage can be done not
+
+
+103
+0:7:41,68 --> 0:7:46,87
+only along the shoreline, but also inland
+in form of winds and heavy snow. Sometimes
+
+
+104
+0:7:46,87 --> 0:7:52,3
+Nor`easters can dump several feet of snow,
+especially at the higher terrain.
+
+
+105
+0:7:52,3 --> 0:7:58,4
+Nor`easters typically happen anywhere really
+from September all the way to May. The more
+
+
+106
+0:7:58,4 --> 0:8:2,69
+intense ones happen really in the fall and
+winter time, but spring time, you can get
+
+
+107
+0:8:2,69 --> 0:8:6,97
+some Nor`easters that have some devastating
+winds.
+
+
+108
+0:8:6,97 --> 0:8:13,2
+Nor`easters and hurricanes are completely
+different, because they derive their energy
+
+
+109
+0:8:13,2 --> 0:8:19,63
+from two completely different sources. Your
+hurricanes get your energy from the warm waters
+
+
+110
+0:8:19,63 --> 0:8:25,47
+of the Atlantic Ocean, and that latent heat
+relays is what drives the engine. Once a hurricane
+
+
+111
+0:8:25,47 --> 0:8:27,91
+goes on land, it loses its energy.
+
+
+112
+0:8:27,91 --> 0:8:34,11
+A Nor`easter gets its energy from the differences
+between hot and cold. Often, a blizzard will
+
+
+113
+0:8:34,11 --> 0:8:39,459
+come from a strong Nor`easter. And some cases,
+they can be one and the same. Blinding snow
+
+
+114
+0:8:39,459 --> 0:8:45,139
+and wind, winds blowing 35-40 miles an hour.
+And obviously, devastating cold. And that`s
+
+
+115
+0:8:45,139 --> 0:8:49,999
+why the strongest Nor`easters typically happen
+in fall and winter, when you have that dynamic
+
+
+116
+0:8:49,999 --> 0:8:51,759
+contrast in temperatures.
+
+
+117
+0:8:51,759 --> 0:8:52,85
+(END VIDEOTAPE)
+
+
+118
+0:8:52,85 --> 0:8:57,569
+AZUZ: Well, finally today, we are going to
+talk about a ping-pong player that is a machine.
+
+
+119
+0:8:57,569 --> 0:9:2,61
+Well, at least we warned you. This robotic
+returner is a ping-pong prodigy. It`s on display
+
+
+120
+0:9:2,61 --> 0:9:8,1
+at an event in China. The robot`s eyes have
+cameras that collect images of the ball, and
+
+
+121
+0:9:8,1 --> 0:9:13,259
+then it takes it 50 to 100 milliseconds to
+respond and hit the ball back. Actually it
+
+
+122
+0:9:13,259 --> 0:9:16,68
+seems kind of like the ball is coming right
+to it. So, if you were to really challenge
+
+
+123
+0:9:16,68 --> 0:9:20,91
+this thing, it might be in for some trouble.
+If it couldn`t keep up, it could be up the
+
+
+124
+0:9:20,91 --> 0:9:24,829
+creek without a pedal. But for the engineers
+building it, they could still get some valuable
+
+
+125
+0:9:24,829 --> 0:9:27,86
+information. And besides, it seems like they
+are doing pretty well, considering the net
+
+
+126
+0:9:27,86 --> 0:9:29,23
+results so far.
+
+
+127
+0:9:29,23 --> 0:9:32,31
+Coming up with puns like that is always a
+ball, and we really gave them our best shot,
+
+
+128
+0:9:32,31 --> 0:9:37,24
+and now it`s time for us to go so, we will
+serve up more headlines tomorrow on CNN STUDENT
+
+
+129
+0:9:37,24 --> 0:11:37,24
+NEWS.
+
+

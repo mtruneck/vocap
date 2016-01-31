@@ -1,0 +1,3192 @@
+1
+0:0:0,133 --> 0:0:1,133
+
+
+
+2
+0:0:1,133 --> 0:0:2,901
+
+
+
+3
+0:0:2,901 --> 0:0:8,334
+(Dr. Jaradat)
+We live in a world of salt,
+but we do not recognize it.
+
+
+4
+0:0:8,334 --> 0:0:11,501
+(Dr. Cihacek)
+Once it's salinated,
+you got a problem.
+
+
+5
+0:0:11,501 --> 0:0:15,601
+(Dr. Hopkins)
+One of the points that many,
+many farmers have said is
+
+
+6
+0:0:15,601 --> 0:0:17,567
+that they're seeing salts
+in places
+
+
+7
+0:0:17,567 --> 0:0:19,434
+that they'd never witnessed
+problems before.
+
+
+8
+0:0:19,434 --> 0:0:22,601
+(Harold Steppuhn)
+If I'm a producer
+and on my ground,
+
+
+9
+0:0:22,601 --> 0:0:25,534
+I've got a problem with it--
+it's not overblown--
+
+
+10
+0:0:25,534 --> 0:0:27,434
+that's my livelihood
+off that land.
+
+
+11
+0:0:27,434 --> 0:0:31,601
+
+
+
+12
+0:0:31,601 --> 0:0:34,534
+Funding for "Salt of the Earth"
+
+
+13
+0:0:34,534 --> 0:0:38,334
+is made possible by an
+EPA Section 319 grant
+
+
+14
+0:0:38,334 --> 0:0:41,4
+administered by the North Dakota
+Department of Health.
+
+
+15
+0:0:41,4 --> 0:0:43,4
+the Eastern North Dakota
+
+
+16
+0:0:43,4 --> 0:0:46,33
+Resource Conservation
+and Development Councils,
+
+
+17
+0:0:46,33 --> 0:0:47,968
+with support provided by the...
+
+
+18
+0:0:47,968 --> 0:0:50,267
+
+
+
+19
+0:0:50,267 --> 0:0:52,467
+...helping people help the land,
+
+
+20
+0:0:52,467 --> 0:0:55,634
+and by the members
+of Prairie Public.
+
+
+21
+0:0:55,634 --> 0:1:0,767
+
+
+
+22
+0:1:0,767 --> 0:1:2,634
+It's a waste of fertilizer,
+seed,
+
+
+23
+0:1:2,634 --> 0:1:4,801
+and your time and effort on it.
+
+
+24
+0:1:4,801 --> 0:1:10,67
+It went from, I would say 5%
+to 10% of the farm acres
+
+
+25
+0:1:10,67 --> 0:1:14,367
+being affected by salinity to up
+to 40% to 50%.
+
+
+26
+0:1:14,367 --> 0:1:18,67
+Salinity isn't a new problem,
+it's a worldwide problem
+
+
+27
+0:1:18,67 --> 0:1:22,267
+(Matt Olien, narrator)
+If you've driven by farm fields
+in the Upper Great Plains,
+
+
+28
+0:1:22,267 --> 0:1:24,367
+you've no doubt noticed
+patches of white,
+
+
+29
+0:1:24,367 --> 0:1:26,501
+chalky soil,
+usually near roads and ditches,
+
+
+30
+0:1:26,501 --> 0:1:28,434
+that just doesn't
+seem to belong,
+
+
+31
+0:1:28,434 --> 0:1:30,33
+and doesn't seem to go away.
+
+
+32
+0:1:30,33 --> 0:1:31,701
+Farmers wish it would.
+
+
+33
+0:1:31,701 --> 0:1:34,234
+It's soil salinity,
+too much salt in the soil,
+
+
+34
+0:1:34,234 --> 0:1:35,901
+and it can prove
+nearly impossible
+
+
+35
+0:1:35,901 --> 0:1:38,334
+to grow a productive crop
+in those areas.
+
+
+36
+0:1:38,334 --> 0:1:42,0
+Overall reduced soil health,
+so compaction issues,
+
+
+37
+0:1:42,0 --> 0:1:44,367
+reduced biological activity.
+
+
+38
+0:1:44,367 --> 0:1:46,567
+You don't have
+as good of soil to till.
+
+
+39
+0:1:46,567 --> 0:1:48,234
+It's harder to work the soil.
+
+
+40
+0:1:48,234 --> 0:1:50,267
+A lot of that depends on your
+strategies
+
+
+41
+0:1:50,267 --> 0:1:52,67
+you're using for management--
+if you're using
+
+
+42
+0:1:52,67 --> 0:1:54,67
+conventional tillage
+or no till or strip till.
+
+
+43
+0:1:54,67 --> 0:1:55,934
+But it really depends
+on the producer
+
+
+44
+0:1:55,934 --> 0:1:57,534
+and what they're willing to try.
+
+
+45
+0:1:57,534 --> 0:2:0,133
+In my area I would say
+
+
+46
+0:2:0,133 --> 0:2:3,67
+over 95% of my fields have
+salinity,
+
+
+47
+0:2:3,67 --> 0:2:5,567
+and 80% of them have
+visible white spots
+
+
+48
+0:2:5,567 --> 0:2:7,467
+that are well in excess of this.
+
+
+49
+0:2:7,467 --> 0:2:10,33
+All of my producers
+are very concerned about it
+
+
+50
+0:2:10,33 --> 0:2:13,167
+and are actively looking for
+answers and trying new things
+
+
+51
+0:2:13,167 --> 0:2:15,2
+and trying to seed
+some cover crops,
+
+
+52
+0:2:15,2 --> 0:2:17,734
+trying some crop rotations,
+trying some limited drainage
+
+
+53
+0:2:17,734 --> 0:2:19,501
+when they can get
+the permission.
+
+
+54
+0:2:19,501 --> 0:2:22,634
+So the producer is going
+to try to pick the crop
+
+
+55
+0:2:22,634 --> 0:2:25,2
+that gives him the best option
+and economic return.
+
+
+56
+0:2:25,2 --> 0:2:27,234
+(narrator)
+Excess Salinity
+is caused generally
+
+
+57
+0:2:27,234 --> 0:2:30,868
+by too wet of conditions
+resulting in a high water table.
+
+
+58
+0:2:30,868 --> 0:2:33,467
+Most agree the problem
+in the Upper Great Plains
+
+
+59
+0:2:33,467 --> 0:2:35,1
+got worse around 1993
+
+
+60
+0:2:35,1 --> 0:2:38,968
+when the dry cycle converted to
+a wet cycle and has never left.
+
+
+61
+0:2:38,968 --> 0:2:42,901
+But the problem has been around
+for centuries.
+
+
+62
+0:2:42,901 --> 0:2:47,267
+(Dr. Jaradat) The land
+in Mesopotamia is very flat,
+
+
+63
+0:2:47,267 --> 0:2:50,67
+and irrigating that land
+created problems
+
+
+64
+0:2:50,67 --> 0:2:53,367
+in addition to the high
+temperature
+
+
+65
+0:2:53,367 --> 0:2:56,968
+and high evaporation from
+the irrigated water.
+
+
+66
+0:2:56,968 --> 0:3:0,834
+Salts became concentrated,
+and the irrigation water
+
+
+67
+0:3:0,834 --> 0:3:5,667
+coming from the twin rivers,
+the Tigris and Euphrates,
+
+
+68
+0:3:5,667 --> 0:3:9,968
+enriched that salt
+in the Mesopotamia plain,
+
+
+69
+0:3:9,968 --> 0:3:12,868
+and in less than 1500 years,
+
+
+70
+0:3:12,868 --> 0:3:15,234
+the problems started showing up
+
+
+71
+0:3:15,234 --> 0:3:18,601
+to the point that
+most fertile parts
+
+
+72
+0:3:18,601 --> 0:3:21,934
+of lower Mesopotamia
+turned into white crusts.
+
+
+73
+0:3:21,934 --> 0:3:24,567
+People went hungry,
+and cities
+
+
+74
+0:3:24,567 --> 0:3:27,334
+and the empires themselves
+crumbled
+
+
+75
+0:3:27,334 --> 0:3:31,33
+because of the loss
+of their wealth.
+
+
+76
+0:3:31,33 --> 0:3:32,801
+(Dr. Cihacek) This is a geologic
+process
+
+
+77
+0:3:32,801 --> 0:3:35,567
+so it's been going on for a long
+period of time.
+
+
+78
+0:3:35,567 --> 0:3:37,234
+We've got relatively young
+glacial soil.
+
+
+79
+0:3:37,234 --> 0:3:40,334
+A lot of our soils were pushed
+in here by the glaciers,
+
+
+80
+0:3:40,334 --> 0:3:41,934
+spread out on the landscape.
+
+
+81
+0:3:41,934 --> 0:3:44,968
+So as these salts weather--
+they're young materials;
+
+
+82
+0:3:44,968 --> 0:3:48,434
+there's a lot of things
+to weather in there.
+
+
+83
+0:3:48,434 --> 0:3:51,33
+They dissolve
+and go into the water.
+
+
+84
+0:3:51,33 --> 0:3:55,334
+Then wherever the water goes,
+they carry these salt minerals.
+
+
+85
+0:3:55,334 --> 0:3:58,1
+(Dr. Abdullah) Although it is
+a problem here,
+
+
+86
+0:3:58,1 --> 0:3:59,667
+but it's no comparison
+
+
+87
+0:3:59,667 --> 0:4:3,267
+to the salinity problem in other
+parts of the world.
+
+
+88
+0:4:3,267 --> 0:4:5,767
+Just to give you
+an example-- California,
+
+
+89
+0:4:5,767 --> 0:4:8,234
+the Joaquin Valley
+and the Salton Sea.
+
+
+90
+0:4:8,234 --> 0:4:10,434
+The problems there are
+much bigger.
+
+
+91
+0:4:10,434 --> 0:4:13,133
+The world is losing
+approximately
+
+
+92
+0:4:13,133 --> 0:4:17,33
+a million hectares a year
+to salinity,
+
+
+93
+0:4:17,33 --> 0:4:21,2
+and there are 200 million
+hectares of saline land
+
+
+94
+0:4:21,2 --> 0:4:25,434
+which is not producing up
+to its productive capacity.
+
+
+95
+0:4:25,434 --> 0:4:28,1
+There are issues
+in the Nile Delta
+
+
+96
+0:4:28,1 --> 0:4:31,3
+especially after the
+construction of the Aswan Dam.
+
+
+97
+0:4:31,3 --> 0:4:33,968
+After the construction
+of the dam,
+
+
+98
+0:4:33,968 --> 0:4:37,133
+this kind of natural remedy,
+so to speak,
+
+
+99
+0:4:37,133 --> 0:4:44,3
+of soil fertility and handling
+salinity stopped abruptly.
+
+
+100
+0:4:44,3 --> 0:4:51,467
+Based on that, in fact, major
+health problems were created.
+
+
+101
+0:4:51,467 --> 0:4:54,701
+(narrator)
+In our region,
+the topography of the land
+
+
+102
+0:4:54,701 --> 0:4:56,767
+has lent itself
+to salinity problems,
+
+
+103
+0:4:56,767 --> 0:4:59,1
+forcing many farmers
+to move this land
+
+
+104
+0:4:59,1 --> 0:5:0,834
+to the Conservation Reserve
+Program.
+
+
+105
+0:5:0,834 --> 0:5:2,701
+When the glaciers came
+through here,
+
+
+106
+0:5:2,701 --> 0:5:4,601
+they ground up to pure shale,
+
+
+107
+0:5:4,601 --> 0:5:8,1
+and most of the salinity
+that is in our soil
+
+
+108
+0:5:8,1 --> 0:5:9,968
+originated
+from the pure shale formation
+
+
+109
+0:5:9,968 --> 0:5:12,0
+in Eastern North Dakota
+at least.
+
+
+110
+0:5:12,0 --> 0:5:14,501
+We were just looking
+in our training yesterday
+
+
+111
+0:5:14,501 --> 0:5:16,868
+at a soil survey
+that was completed
+
+
+112
+0:5:16,868 --> 0:5:19,2
+in Stutsman County
+back in the '80's
+
+
+113
+0:5:19,2 --> 0:5:21,67
+before the wet cycle
+really started.
+
+
+114
+0:5:21,67 --> 0:5:23,601
+There was only,
+I think, about 10 acres
+
+
+115
+0:5:23,601 --> 0:5:26,434
+of a whole quarter section
+that was mapped saline.
+
+
+116
+0:5:26,434 --> 0:5:28,634
+I believe that there's
+no question
+
+
+117
+0:5:28,634 --> 0:5:31,968
+but that some of the salinity
+that we're seeing
+
+
+118
+0:5:31,968 --> 0:5:35,234
+and the degree and the nature
+of the salinity,
+
+
+119
+0:5:35,234 --> 0:5:37,567
+it's a function of what we're
+doing with water.
+
+
+120
+0:5:37,567 --> 0:5:39,601
+It's linked to
+the Red River Valley floods.
+
+
+121
+0:5:39,601 --> 0:5:41,267
+It's linked to overland flow.
+
+
+122
+0:5:41,267 --> 0:5:42,934
+So consequently
+what that means is,
+
+
+123
+0:5:42,934 --> 0:5:45,367
+is that there's simply
+more water on the landscape.
+
+
+124
+0:5:45,367 --> 0:5:48,67
+More water either
+runs off the landscape.
+
+
+125
+0:5:48,67 --> 0:5:51,2
+More water resides within
+the landscape, and there's
+
+
+126
+0:5:51,2 --> 0:5:54,734
+less water that is moved back
+up through evapotranspiration.
+
+
+127
+0:5:54,734 --> 0:5:56,501
+
+
+
+128
+0:5:56,501 --> 0:5:59,501
+It's roughly 10.8
+
+
+129
+0:5:59,501 --> 0:6:2,167
+deciSiemens per meter.
+
+
+130
+0:6:2,167 --> 0:6:5,367
+And in this type of sampling,
+
+
+131
+0:6:5,367 --> 0:6:7,634
+it'll show less salts
+'cause we have
+
+
+132
+0:6:7,634 --> 0:6:11,1
+a higher concentration of water
+with this soil, but that would
+
+
+133
+0:6:11,1 --> 0:6:14,0
+easily equate to 25 deciSiemens
+on the other methods,
+
+
+134
+0:6:14,0 --> 0:6:17,634
+and that is restrictive
+to almost all plant growth.
+
+
+135
+0:6:17,634 --> 0:6:20,133
+(narrator)
+Salinity can be
+invisible or visible.
+
+
+136
+0:6:20,133 --> 0:6:23,601
+Either way, it is affecting
+the bottom line and livelihood
+
+
+137
+0:6:23,601 --> 0:6:26,4
+of producers all over
+the Upper Great Plains.
+
+
+138
+0:6:26,4 --> 0:6:29,234
+Joleen Hadrich with
+North Dakota State University
+
+
+139
+0:6:29,234 --> 0:6:31,734
+has researched
+the economic impact of salinity.
+
+
+140
+0:6:31,734 --> 0:6:35,4
+What we know is that their yield
+is going to decrease,
+
+
+141
+0:6:35,4 --> 0:6:38,0
+and that, of course, is going to
+relate
+
+
+142
+0:6:38,0 --> 0:6:40,734
+into lower revenues and a lower
+profit level.
+
+
+143
+0:6:40,734 --> 0:6:44,467
+Slightly saline would result
+in about a 15% yield loss.
+
+
+144
+0:6:44,467 --> 0:6:47,33
+The moderate
+would be 50% yield loss.
+
+
+145
+0:6:47,33 --> 0:6:50,3
+When I applied
+the average crop prices
+
+
+146
+0:6:50,3 --> 0:6:54,567
+that we're receiving right now
+in those yield decreases,
+
+
+147
+0:6:54,567 --> 0:6:58,367
+it resulted in $150 million
+decrease in revenue.
+
+
+148
+0:6:58,367 --> 0:7:2,1
+(Bill Schuh)
+I think it's first
+and foremost a crop problem
+
+
+149
+0:7:2,1 --> 0:7:3,801
+and secondly
+an economic problem.
+
+
+150
+0:7:3,801 --> 0:7:7,701
+The loss of crop yields from
+salinization of the soil
+
+
+151
+0:7:7,701 --> 0:7:11,534
+is a very, very major economic
+loss for our state.
+
+
+152
+0:7:11,534 --> 0:7:14,267
+(Joe Breker) I did a recent poll
+
+
+153
+0:7:14,267 --> 0:7:17,901
+with our group, our corn growers
+group, and it was
+
+
+154
+0:7:17,901 --> 0:7:22,33
+fairly common to have producers
+from all over the state
+
+
+155
+0:7:22,33 --> 0:7:27,167
+that are in the corn growers
+that had from 10% to 15%
+
+
+156
+0:7:27,167 --> 0:7:31,0
+of their farms
+severely impacted by salinity.
+
+
+157
+0:7:31,0 --> 0:7:36,234
+In terms of an overall problem,
+we could say
+
+
+158
+0:7:36,234 --> 0:7:39,467
+that the agricultural land
+in Canada,
+
+
+159
+0:7:39,467 --> 0:7:42,234
+about 1/3 includes
+salt-affected soils.
+
+
+160
+0:7:42,234 --> 0:7:46,968
+If I'm a producer,
+I will try to minimize that--
+
+
+161
+0:7:46,968 --> 0:7:50,868
+any kind of problems
+that relate to salinity--
+
+
+162
+0:7:50,868 --> 0:7:53,334
+primarily
+because my assessed lands,
+
+
+163
+0:7:53,334 --> 0:7:55,968
+the assessments, will decrease
+
+
+164
+0:7:55,968 --> 0:7:59,801
+if my lands are
+identified as salinized.
+
+
+165
+0:7:59,801 --> 0:8:4,567
+When we get to an EC of about
+8 which is moderately saline,
+
+
+166
+0:8:4,567 --> 0:8:8,33
+we have at least 50% reduction
+in yields on wheat.
+
+
+167
+0:8:8,33 --> 0:8:11,434
+You can have 75% yield loss
+on corn,
+
+
+168
+0:8:11,434 --> 0:8:14,133
+and soybeans, you might as well
+forget it
+
+
+169
+0:8:14,133 --> 0:8:17,834
+because we're down to maybe 10%
+or not even worth harvesting.
+
+
+170
+0:8:17,834 --> 0:8:19,467
+Basically it's an osmotic
+problem.
+
+
+171
+0:8:19,467 --> 0:8:22,0
+If you get too much salt on
+the outside,
+
+
+172
+0:8:22,0 --> 0:8:24,467
+you have too much osmotic
+suction on the outside,
+
+
+173
+0:8:24,467 --> 0:8:26,801
+it competes with the electrolyte
+in the plant,
+
+
+174
+0:8:26,801 --> 0:8:29,33
+and the plant reaches a point
+
+
+175
+0:8:29,33 --> 0:8:31,0
+where it can't imbibe water
+properly,
+
+
+176
+0:8:31,0 --> 0:8:32,901
+and you start getting yield
+reductions.
+
+
+177
+0:8:32,901 --> 0:8:35,67
+(narrator) Another fear is
+what has happened
+
+
+178
+0:8:35,67 --> 0:8:37,0
+in other parts of the world.--
+
+
+179
+0:8:37,0 --> 0:8:39,701
+health issues, food supply
+issues and water quality issues.
+
+
+180
+0:8:39,701 --> 0:8:44,2
+We constantly review the best
+available science from EPA
+
+
+181
+0:8:44,2 --> 0:8:47,767
+and their contractors that they
+work with--universities
+
+
+182
+0:8:47,767 --> 0:8:50,767
+that develop the best
+toxicological information
+
+
+183
+0:8:50,767 --> 0:8:54,868
+that's available to date,
+and we incorporate those.
+
+
+184
+0:8:54,868 --> 0:8:58,2
+If it's something immediate,
+we do it right away
+
+
+185
+0:8:58,2 --> 0:9:0,234
+in our water quality standard.
+
+
+186
+0:9:0,234 --> 0:9:4,0
+(Bill Schuh) I don't think that
+on the basis
+
+
+187
+0:9:4,0 --> 0:9:7,4
+of current EPA and CDC documents
+we can conclude
+
+
+188
+0:9:7,4 --> 0:9:10,367
+that sulphate is particularly
+damaging to water quality.
+
+
+189
+0:9:10,367 --> 0:9:12,634
+As far as drinking water quality
+is concerned,
+
+
+190
+0:9:12,634 --> 0:9:15,868
+people drink water that have
+a lot of salts in them.
+
+
+191
+0:9:15,868 --> 0:9:18,534
+There's a very wide range
+of qualities in the waters
+
+
+192
+0:9:18,534 --> 0:9:20,834
+that people drink
+and are capable of drinking.
+
+
+193
+0:9:20,834 --> 0:9:23,968
+Right here in this area of the
+field--this is one of
+
+
+194
+0:9:23,968 --> 0:9:26,267
+the more obvious places that
+you'll see salt.
+
+
+195
+0:9:26,267 --> 0:9:29,267
+The obvious effects of the salt
+is this white crusting.
+
+
+196
+0:9:29,267 --> 0:9:32,267
+I see too many guys trying
+to manage their salinity.
+
+
+197
+0:9:32,267 --> 0:9:36,0
+They put some into CRP,
+but they don't go far enough,
+
+
+198
+0:9:36,0 --> 0:9:38,734
+and then that salinity just
+continues to move out,
+
+
+199
+0:9:38,734 --> 0:9:42,0
+and then they're mad because
+they don't have an impact,
+
+
+200
+0:9:42,0 --> 0:9:44,501
+and it's just making it worse
+and worse.
+
+
+201
+0:9:44,501 --> 0:9:48,67
+(narrator)
+And as you'll see next, the
+solutions farmers come up with
+
+
+202
+0:9:48,67 --> 0:9:49,667
+can mean the difference
+
+
+203
+0:9:49,667 --> 0:9:51,467
+between lost revenue
+and successful yields.
+
+
+204
+0:9:51,467 --> 0:9:55,467
+
+
+
+205
+0:9:55,467 --> 0:9:59,133
+Good management practices
+for salinity would include
+
+
+206
+0:9:59,133 --> 0:10:1,2
+definitely
+CRP, understanding that,
+
+
+207
+0:10:1,2 --> 0:10:3,434
+the variable rate and
+site specific technologies
+
+
+208
+0:10:3,434 --> 0:10:6,0
+is the biggest one
+that I'm involved with.
+
+
+209
+0:10:6,0 --> 0:10:8,534
+(David Burkland)
+Actually in Grand Forks
+County here,
+
+
+210
+0:10:8,534 --> 0:10:10,2
+the level of salinity is
+
+
+211
+0:10:10,2 --> 0:10:13,67
+one of the higher levels
+in the Red River Valley
+
+
+212
+0:10:13,67 --> 0:10:15,267
+so we've tried
+a lot of different things.
+
+
+213
+0:10:15,267 --> 0:10:17,868
+We have put some land
+into CRP,
+
+
+214
+0:10:17,868 --> 0:10:19,934
+but we've done other things too
+
+
+215
+0:10:19,934 --> 0:10:23,234
+to try to overcome the saline
+conditions--just crop choice
+
+
+216
+0:10:23,234 --> 0:10:25,968
+is a big factor,
+picking the right crops.
+
+
+217
+0:10:25,968 --> 0:10:29,3
+Picking crops that are tolerant
+to saline conditions
+
+
+218
+0:10:29,3 --> 0:10:31,334
+is real important.
+
+
+219
+0:10:31,334 --> 0:10:34,2
+(Shawn Kasprick)
+On the precision ag side
+of things,
+
+
+220
+0:10:34,2 --> 0:10:35,901
+we got different
+site-specific products
+
+
+221
+0:10:35,901 --> 0:10:39,33
+and services that we can provide
+that will give the growers
+
+
+222
+0:10:39,33 --> 0:10:41,1
+a handle on
+where their salinity is,
+
+
+223
+0:10:41,1 --> 0:10:44,267
+what impact it has
+on their crop, and how far out
+
+
+224
+0:10:44,267 --> 0:10:46,4
+that impact really is
+effecting their crop.
+
+
+225
+0:10:46,4 --> 0:10:48,801
+That all will wrap up eventually
+
+
+226
+0:10:48,801 --> 0:10:51,501
+into a variable rate
+application for fertility
+
+
+227
+0:10:51,501 --> 0:10:53,834
+and eventually
+the grower's bottom line.
+
+
+228
+0:10:53,834 --> 0:10:58,4
+(Joe Michels)
+It takes a little while to get
+established.
+
+
+229
+0:10:58,4 --> 0:11:1,2
+It did the job for me.
+
+
+230
+0:11:1,2 --> 0:11:3,534
+We have had salinity issues.
+
+
+231
+0:11:3,534 --> 0:11:9,67
+There's one hayfield we got
+from a fella that got sick.
+
+
+232
+0:11:9,67 --> 0:11:11,434
+He told
+the landlord that he
+
+
+233
+0:11:11,434 --> 0:11:14,133
+wanted to
+rent it to my dad
+
+
+234
+0:11:14,133 --> 0:11:16,2
+back in
+the early 70's.
+
+
+235
+0:11:16,2 --> 0:11:20,467
+We took it over;
+the ground was white.
+
+
+236
+0:11:20,467 --> 0:11:26,434
+It would grow foxtail, kochia,
+and not too good at that.
+
+
+237
+0:11:26,434 --> 0:11:28,567
+Then the garrison
+seemed to help.
+
+
+238
+0:11:28,567 --> 0:11:33,868
+It took a long time to
+establish, but it is very thick.
+
+
+239
+0:11:33,868 --> 0:11:35,834
+We got a good root structure
+
+
+240
+0:11:35,834 --> 0:11:38,901
+where Dad could drive
+across there with a swather
+
+
+241
+0:11:38,901 --> 0:11:41,367
+in the water and not get stuck.
+
+
+242
+0:11:41,367 --> 0:11:44,3
+(Dr. Cihacek)
+Cover crops, especially
+deep-rooted cover crops,
+
+
+243
+0:11:44,3 --> 0:11:48,667
+can have an effect on lowering
+the water table in an area.
+
+
+244
+0:11:48,667 --> 0:11:52,1
+My favorite crop to lower
+water tables is alfalfa
+
+
+245
+0:11:52,1 --> 0:11:54,868
+which is a perennial,
+permanent cover type crop.
+
+
+246
+0:11:54,868 --> 0:11:56,734
+Alfalfa is very, very
+deep-rooted.
+
+
+247
+0:11:56,734 --> 0:12:0,767
+(Hal Weiser)
+Out in Montana, they've really
+had a lot of success
+
+
+248
+0:12:0,767 --> 0:12:2,434
+in addressing saline seeps
+
+
+249
+0:12:2,434 --> 0:12:4,801
+and addressing how to correct
+those situations.
+
+
+250
+0:12:4,801 --> 0:12:7,33
+One thing that's happened-
+there's been a shift
+
+
+251
+0:12:7,33 --> 0:12:9,701
+in the western part of the state
+to no till
+
+
+252
+0:12:9,701 --> 0:12:12,33
+so they've gotten a lot more
+efficient at water.
+
+
+253
+0:12:12,33 --> 0:12:14,234
+A couple of
+years ago in 2008,
+
+
+254
+0:12:14,234 --> 0:12:17,167
+we did a special initiative
+through the Equip Program
+
+
+255
+0:12:17,167 --> 0:12:19,334
+which allowed us
+to provide cost share
+
+
+256
+0:12:19,334 --> 0:12:22,0
+to producers that were having
+issues with salinity,
+
+
+257
+0:12:22,0 --> 0:12:24,234
+and that was specifically on
+saline seeps.
+
+
+258
+0:12:24,234 --> 0:12:27,334
+What they wanna see is which
+direction the groundwater
+
+
+259
+0:12:27,334 --> 0:12:29,667
+is flowing when they start
+testing this,
+
+
+260
+0:12:29,667 --> 0:12:32,968
+and then they wanna see
+the levels of the water.
+
+
+261
+0:12:32,968 --> 0:12:36,601
+And as the water goes down, that
+means the salts are going down.
+
+
+262
+0:12:36,601 --> 0:12:38,734
+The soil on the surface
+is more productive
+
+
+263
+0:12:38,734 --> 0:12:41,234
+as the salts go lower
+into the soil profile.
+
+
+264
+0:12:41,234 --> 0:12:44,634
+I can't
+honestly say what that piece
+of ground looked like before,
+
+
+265
+0:12:44,634 --> 0:12:48,1
+but I was out on it
+last year on our crop tour,
+
+
+266
+0:12:48,1 --> 0:12:51,534
+and like he said, you don't have
+the boggy areas out there.
+
+
+267
+0:12:51,534 --> 0:12:54,968
+We drove across that with
+vehicles with a school bus.
+
+
+268
+0:12:54,968 --> 0:12:57,934
+There's good ground cover, and
+it's actually very productive.
+
+
+269
+0:12:57,934 --> 0:13:0,434
+(Joe Michels) We are able to
+seed everything.
+
+
+270
+0:13:0,434 --> 0:13:3,33
+If you get
+something growing out there,
+
+
+271
+0:13:3,33 --> 0:13:6,701
+use up the water,
+try to push the salts down.
+
+
+272
+0:13:6,701 --> 0:13:10,3
+[motor purrs]
+
+
+273
+0:13:10,3 --> 0:13:14,67
+(Paul Overby) So this is
+the obvious saline area
+
+
+274
+0:13:14,67 --> 0:13:16,534
+where we've got the while soil,
+
+
+275
+0:13:16,534 --> 0:13:18,367
+and nothing is growing
+except kochia.
+
+
+276
+0:13:18,367 --> 0:13:21,601
+So we get back to almost
+the same spot every year
+
+
+277
+0:13:21,601 --> 0:13:23,501
+so we've not skewing our results
+
+
+278
+0:13:23,501 --> 0:13:26,801
+by testing one spot one year
+and then two years later
+
+
+279
+0:13:26,801 --> 0:13:28,901
+coming back and doing
+something that's better.
+
+
+280
+0:13:28,901 --> 0:13:30,801
+We're probing the same area.
+
+
+281
+0:13:30,801 --> 0:13:33,601
+We've done that consistently now
+for four years.
+
+
+282
+0:13:33,601 --> 0:13:37,0
+(Paul Overby)
+The reality is,
+the water tables all over
+
+
+283
+0:13:37,0 --> 0:13:40,901
+the Devils Lake Basin are full
+to the point of discharging.
+
+
+284
+0:13:40,901 --> 0:13:42,801
+We've had years in this area
+
+
+285
+0:13:42,801 --> 0:13:46,33
+where I got stuck
+on the side of a hill.
+
+
+286
+0:13:46,33 --> 0:13:48,601
+What we started doing was
+actually developing
+
+
+287
+0:13:48,601 --> 0:13:50,3
+zone management for our fields.
+
+
+288
+0:13:50,3 --> 0:13:52,868
+That idea intrigued me,
+of being able to apply
+
+
+289
+0:13:52,868 --> 0:13:56,367
+the right amount of nutrient in
+the right parts of your field
+
+
+290
+0:13:56,367 --> 0:13:58,67
+to match
+the crop yield potential.
+
+
+291
+0:13:58,67 --> 0:14:1,3
+We actually use our experience
+then to tell the story
+
+
+292
+0:14:1,3 --> 0:14:4,868
+as we go out and do seminars
+and meet with farmers.
+
+
+293
+0:14:4,868 --> 0:14:8,934
+And a lot of farmers are a
+little surprised just like I was
+
+
+294
+0:14:8,934 --> 0:14:12,534
+that the saline issue was
+much bigger than what they see.
+
+
+295
+0:14:12,534 --> 0:14:15,4
+Almost every farmer says
+well, I turn my fertilizer off
+
+
+296
+0:14:15,4 --> 0:14:17,434
+when I go through
+those white areas.
+
+
+297
+0:14:17,434 --> 0:14:20,634
+I don't fertilize those areas;
+I know not to do that.
+
+
+298
+0:14:20,634 --> 0:14:24,734
+But they don't realize how far
+away the saline issue really is.
+
+
+299
+0:14:24,734 --> 0:14:27,868
+And so when we create maps
+for those farmers
+
+
+300
+0:14:27,868 --> 0:14:31,334
+and then delineate that out,
+that makes sense to them.
+
+
+301
+0:14:31,334 --> 0:14:33,133
+Then we started the business
+
+
+302
+0:14:33,133 --> 0:14:35,601
+of making those maps for
+other people,
+
+
+303
+0:14:35,601 --> 0:14:37,701
+training people how to use them,
+
+
+304
+0:14:37,701 --> 0:14:40,501
+doing seminars for people
+and pointing this out.
+
+
+305
+0:14:40,501 --> 0:14:42,534
+This is part of the management.
+
+
+306
+0:14:42,534 --> 0:14:45,767
+I think the first solution is
+(1) recognizing the problem,
+
+
+307
+0:14:45,767 --> 0:14:47,834
+and then (2) keeping after it.
+
+
+308
+0:14:47,834 --> 0:14:49,767
+It isn't ever gonna go away.
+
+
+309
+0:14:49,767 --> 0:14:52,367
+Water moves up and down
+in the fields.
+
+
+310
+0:14:52,367 --> 0:14:54,4
+
+
+
+311
+0:14:54,4 --> 0:14:59,33
+We've been doing some work on
+this probably going into
+
+
+312
+0:14:59,33 --> 0:15:4,133
+our 3rd year now, and certainly
+when salinity is really high,
+
+
+313
+0:15:4,133 --> 0:15:7,4
+then we get very low,
+almost no yield in potatoes.
+
+
+314
+0:15:7,4 --> 0:15:11,634
+Especially since 2005, we had a
+lot of rain in our area here,
+
+
+315
+0:15:11,634 --> 0:15:15,334
+I know just across the line they
+had some similar difficulties,
+
+
+316
+0:15:15,334 --> 0:15:18,901
+definitely brought more saline
+to the surface, and since then
+
+
+317
+0:15:18,901 --> 0:15:21,4
+we've had a little bit more
+
+
+318
+0:15:21,4 --> 0:15:23,2
+quality problem with our
+potatoes.
+
+
+319
+0:15:23,2 --> 0:15:24,868
+There's really nothing
+that physically,
+
+
+320
+0:15:24,868 --> 0:15:26,901
+chemically I should say,
+removes salts.
+
+
+321
+0:15:26,901 --> 0:15:29,467
+You're not gonna change the
+composition of that.
+
+
+322
+0:15:29,467 --> 0:15:33,67
+You have to either physically
+either drain the salts away
+
+
+323
+0:15:33,67 --> 0:15:35,667
+or put in a crop
+that can tolerate
+
+
+324
+0:15:35,667 --> 0:15:38,234
+the elevated levels
+of salt in the soil.
+
+
+325
+0:15:38,234 --> 0:15:41,467
+
+
+
+326
+0:15:41,467 --> 0:15:43,934
+Late '90's, we chose to put
+
+
+327
+0:15:43,934 --> 0:15:48,133
+a lot of our most
+severely saline land into CRP.
+
+
+328
+0:15:48,133 --> 0:15:49,834
+That was a good option.
+
+
+329
+0:15:49,834 --> 0:15:52,734
+I mean, that was
+an excellent option for us.
+
+
+330
+0:15:52,734 --> 0:15:56,33
+So we put
+a lot of that land into CRP,
+
+
+331
+0:15:56,33 --> 0:15:59,634
+and they used
+tall wheat grass, for example.
+
+
+332
+0:15:59,634 --> 0:16:2,934
+We've always tried
+to keep crop rotations.
+
+
+333
+0:16:2,934 --> 0:16:6,634
+Winter cereals are good because
+they will generally grow
+
+
+334
+0:16:6,634 --> 0:16:11,334
+on saline ground better than
+row crop like corn or soybeans.
+
+
+335
+0:16:11,334 --> 0:16:13,968
+But you have to grow
+what makes money,
+
+
+336
+0:16:13,968 --> 0:16:16,267
+and not that winter wheat
+isn't good,
+
+
+337
+0:16:16,267 --> 0:16:20,267
+but you can't raise winter wheat
+every year or you can't raise
+
+
+338
+0:16:20,267 --> 0:16:23,634
+sunflowers every year so you
+have to raise a rotation,
+
+
+339
+0:16:23,634 --> 0:16:26,901
+and some
+of those rotations aren't
+always very salt tolerant.
+
+
+340
+0:16:26,901 --> 0:16:30,2
+
+
+
+341
+0:16:30,2 --> 0:16:33,701
+(Rick Burgum)
+Well, the best way to reduce
+your salinity problem
+
+
+342
+0:16:33,701 --> 0:16:35,634
+is to drain the surface water.
+
+
+343
+0:16:35,634 --> 0:16:37,3
+Oftentimes you can't do that.
+
+
+344
+0:16:37,3 --> 0:16:40,534
+The passive ways to do it are
+to grow something,
+
+
+345
+0:16:40,534 --> 0:16:43,1
+but you have this contradiction
+'cause nothing grows.
+
+
+346
+0:16:43,1 --> 0:16:47,634
+The best thing to do is
+to grow your way out of it,
+
+
+347
+0:16:47,634 --> 0:16:50,4
+and we gotta find crops
+that will grow,
+
+
+348
+0:16:50,4 --> 0:16:54,267
+and then we've got to be able
+to practically grow them.
+
+
+349
+0:16:54,267 --> 0:16:57,4
+What we've doing on this plot is
+trying to show differences
+
+
+350
+0:16:57,4 --> 0:17:0,434
+in management, things that
+we can do to help assist
+
+
+351
+0:17:0,434 --> 0:17:3,334
+salt mobility and try to get
+crop production and growth.
+
+
+352
+0:17:3,334 --> 0:17:6,567
+With this research here, we're
+trying to show that tillage is
+
+
+353
+0:17:6,567 --> 0:17:9,634
+not an effective management tool
+for saline areas and salt areas,
+
+
+354
+0:17:9,634 --> 0:17:12,33
+specifically when they have
+a lot of sodium
+
+
+355
+0:17:12,33 --> 0:17:14,567
+but also when they have
+a lot of calcium.
+
+
+356
+0:17:14,567 --> 0:17:18,467
+In these plots, we did some
+tillage, we did some no till,
+
+
+357
+0:17:18,467 --> 0:17:21,968
+we also did
+some no till with straw cover
+to reduce evaporation.
+
+
+358
+0:17:21,968 --> 0:17:23,767
+I really have 3 basic
+treatments.
+
+
+359
+0:17:23,767 --> 0:17:25,434
+I have high evaporation,
+
+
+360
+0:17:25,434 --> 0:17:28,133
+what we would call a normal
+evaporation here
+
+
+361
+0:17:28,133 --> 0:17:31,2
+with our no till, and then also
+reduced evaporation.
+
+
+362
+0:17:31,2 --> 0:17:34,701
+And what the evaporation does is
+bring the salts to the surface.
+
+
+363
+0:17:34,701 --> 0:17:37,534
+So we're actually increasing
+the salts in the concentration
+
+
+364
+0:17:37,534 --> 0:17:40,4
+at the surface with the tillage
+and the no till.
+
+
+365
+0:17:40,4 --> 0:17:43,2
+The only treatments that are
+helping us to reduce it
+
+
+366
+0:17:43,2 --> 0:17:45,2
+a little bit is with the straw.
+
+
+367
+0:17:45,2 --> 0:17:48,567
+I think the drainage
+is a big thing
+
+
+368
+0:17:48,567 --> 0:17:51,267
+to get rid
+of the excess water first,
+
+
+369
+0:17:51,267 --> 0:17:53,534
+and that'll help probably
+pull away from--
+
+
+370
+0:17:53,534 --> 0:17:56,1
+it'll start to shrink
+some of these ponds,
+
+
+371
+0:17:56,1 --> 0:17:59,667
+and that way the salts will
+start disappearing on their own.
+
+
+372
+0:17:59,667 --> 0:18:2,234
+We've been in kind of
+a wet cycle
+
+
+373
+0:18:2,234 --> 0:18:4,601
+so that's probably
+part of the problem too.
+
+
+374
+0:18:4,601 --> 0:18:8,1
+From here to there the salinity
+was twice as much on this plot
+
+
+375
+0:18:8,1 --> 0:18:11,667
+as it was there, so within ten
+feet we had double the salinity.
+
+
+376
+0:18:11,667 --> 0:18:14,467
+Even though there's not
+a lot of topography change,
+
+
+377
+0:18:14,467 --> 0:18:17,467
+there's no soil type change,
+it's a water mobility thing.
+
+
+378
+0:18:17,467 --> 0:18:19,968
+
+
+
+379
+0:18:19,968 --> 0:18:22,334
+We have downward movement
+of water right here.
+
+
+380
+0:18:22,334 --> 0:18:24,33
+With the resource concerns
+
+
+381
+0:18:24,33 --> 0:18:25,834
+that we coming into our office,
+
+
+382
+0:18:25,834 --> 0:18:28,868
+we just really felt we needed
+to have some training
+
+
+383
+0:18:28,868 --> 0:18:31,3
+for our employees
+on how to handle salinity
+
+
+384
+0:18:31,3 --> 0:18:33,734
+and how to work
+with producers on salinity.
+
+
+385
+0:18:33,734 --> 0:18:37,601
+You know, the work that we're
+doing right now in North Dakota
+
+
+386
+0:18:37,601 --> 0:18:39,901
+on working
+with producers as NRCS
+
+
+387
+0:18:39,901 --> 0:18:43,2
+we are looking at trying to get
+into the rotation
+
+
+388
+0:18:43,2 --> 0:18:46,4
+more salt tolerant vegetation
+or trying to get cover crops
+
+
+389
+0:18:46,4 --> 0:18:48,634
+that are more salt tolerant
+of salinity--
+
+
+390
+0:18:48,634 --> 0:18:51,133
+to try to treat
+the saline areas,
+
+
+391
+0:18:51,133 --> 0:18:54,2
+but we're also looking
+at total landscape water use.
+
+
+392
+0:18:54,2 --> 0:19:0,901
+
+
+
+393
+0:19:0,901 --> 0:19:3,734
+(narrator)
+While growing salt tolerant
+crops like alfalfa
+
+
+394
+0:19:3,734 --> 0:19:7,834
+and barley or putting land
+into CRP are long standing ways
+
+
+395
+0:19:7,834 --> 0:19:11,901
+of dealing with and fighting
+salinity, a third solution is
+
+
+396
+0:19:11,901 --> 0:19:14,67
+more expensive and potentially
+more controversial.
+
+
+397
+0:19:14,67 --> 0:19:16,667
+It's the installation of
+subsurface drainage pipes
+
+
+398
+0:19:16,667 --> 0:19:20,534
+that are perforated so they're
+put at a depth
+
+
+399
+0:19:20,534 --> 0:19:23,901
+to reduce the drought water
+levels below a level
+
+
+400
+0:19:23,901 --> 0:19:27,267
+that'll allow the water to rise
+to the surface.
+
+
+401
+0:19:27,267 --> 0:19:29,868
+And what it does is,
+it drains excess water
+
+
+402
+0:19:29,868 --> 0:19:31,901
+that is not needed
+for crop production.
+
+
+403
+0:19:31,901 --> 0:19:35,1
+It doesn't affect the crop,
+the water that the crop needs,
+
+
+404
+0:19:35,1 --> 0:19:37,467
+but it drains excess water,
+and it allows
+
+
+405
+0:19:37,467 --> 0:19:40,601
+better aeration of soil which is
+also important for crop growth.
+
+
+406
+0:19:40,601 --> 0:19:42,801
+And with that,
+the salts move with the water.
+
+
+407
+0:19:42,801 --> 0:19:46,1
+So wherever the water goes is
+where the salts are going to go.
+
+
+408
+0:19:46,1 --> 0:19:47,767
+Other than that,
+there are other things
+
+
+409
+0:19:47,767 --> 0:19:49,434
+with sodium levels in the soil.
+
+
+410
+0:19:49,434 --> 0:19:51,1
+If you have high sodium levels,
+
+
+411
+0:19:51,1 --> 0:19:53,4
+the potential to leech out
+the calcium salts
+
+
+412
+0:19:53,4 --> 0:19:55,367
+will change the physical
+properties of the soil,
+
+
+413
+0:19:55,367 --> 0:19:57,0
+and it can actually accentuate
+
+
+414
+0:19:57,0 --> 0:19:59,367
+or make the soils less fit
+for crop production.
+
+
+415
+0:19:59,367 --> 0:20:1,968
+There is some danger
+with understanding essence
+
+
+416
+0:20:1,968 --> 0:20:6,334
+of tile drainage, knowing your
+soils is very, very important
+
+
+417
+0:20:6,334 --> 0:20:8,667
+before you install
+tile drainage,
+
+
+418
+0:20:8,667 --> 0:20:11,334
+and having an understanding
+of the history
+
+
+419
+0:20:11,334 --> 0:20:14,67
+and the potential
+for sodium-affected soils
+
+
+420
+0:20:14,67 --> 0:20:17,2
+after you start to drain
+that water out.
+
+
+421
+0:20:17,2 --> 0:20:19,534
+Tile drainage works.
+The advantage of tile drainage
+
+
+422
+0:20:19,534 --> 0:20:21,968
+is that it allows the farmer
+to regulate
+
+
+423
+0:20:21,968 --> 0:20:26,2
+when it gets in the field and
+when it gets out of the field.
+
+
+424
+0:20:26,2 --> 0:20:28,567
+If there's a large rain,
+the land manager can
+
+
+425
+0:20:28,567 --> 0:20:31,434
+pretty much guarantee that
+within 3 to 5 days, you're
+
+
+426
+0:20:31,434 --> 0:20:34,667
+going to be able to get into
+that field with tile drainage.
+
+
+427
+0:20:34,667 --> 0:20:37,467
+Without tile drainage it might
+be 7 to 12 days.
+
+
+428
+0:20:37,467 --> 0:20:40,434
+(narrator) Roxanne Johnson
+with North Dakota State
+University Extension
+
+
+429
+0:20:40,434 --> 0:20:43,467
+is in the midst
+of a 5-year study on salinity,
+
+
+430
+0:20:43,467 --> 0:20:45,434
+including the impact
+of tile drainage.
+
+
+431
+0:20:45,434 --> 0:20:49,133
+Where you put that outlet
+is really, really important.
+
+
+432
+0:20:49,133 --> 0:20:52,1
+Don't put it
+upstream of someone's home
+
+
+433
+0:20:52,1 --> 0:20:54,934
+so it's running by their house
+so they have
+
+
+434
+0:20:54,934 --> 0:20:57,167
+excess water sitting
+in from of their homes.
+
+
+435
+0:20:57,167 --> 0:20:59,801
+[chuckles] I'm a farm girl,
+so I'm afraid
+
+
+436
+0:20:59,801 --> 0:21:3,1
+that if we don't have tile
+drainage that there won't be
+
+
+437
+0:21:3,1 --> 0:21:5,767
+farming as we know it
+in eastern North Dakota
+
+
+438
+0:21:5,767 --> 0:21:8,4
+because of the high saline
+levels in these fields.
+
+
+439
+0:21:8,4 --> 0:21:10,734
+You talk to these producers,
+
+
+440
+0:21:10,734 --> 0:21:15,267
+and it's the best thing
+since white bread, apple pie!
+
+
+441
+0:21:15,267 --> 0:21:17,767
+(narrator)
+But other research
+from Joleen Hadrich
+
+
+442
+0:21:17,767 --> 0:21:20,3
+looked into the economics
+of tiling
+
+
+443
+0:21:20,3 --> 0:21:23,834
+which can cost farmers nearly
+$600 per acre to install.
+
+
+444
+0:21:23,834 --> 0:21:28,467
+I did my analysis assuming
+$4.75 per bushel of corn,
+
+
+445
+0:21:28,467 --> 0:21:30,567
+and now it's trading
+
+
+446
+0:21:30,567 --> 0:21:33,901
+at $7.00 a bushel
+on the futures market.
+
+
+447
+0:21:33,901 --> 0:21:36,868
+Drainage tile would make
+a lot more sense now,
+
+
+448
+0:21:36,868 --> 0:21:41,0
+but at $4.00 corn and a yield
+of 120 bushels per acre,
+
+
+449
+0:21:41,0 --> 0:21:45,0
+the farmer would be losing
+between $2.00 to $20.00 an acre
+
+
+450
+0:21:45,0 --> 0:21:47,33
+if they put in drainage tile.
+
+
+451
+0:21:47,33 --> 0:21:49,834
+It is expensive,
+but it took land
+
+
+452
+0:21:49,834 --> 0:21:51,467
+that was virtually worthless
+
+
+453
+0:21:51,467 --> 0:21:53,267
+for annual crop production
+
+
+454
+0:21:53,267 --> 0:21:56,467
+and made it good to excellent
+crop production land.
+
+
+455
+0:21:56,467 --> 0:21:59,367
+Tile drainage,
+what we are doing here
+
+
+456
+0:21:59,367 --> 0:22:1,634
+in the Red River Basin is
+
+
+457
+0:22:1,634 --> 0:22:4,968
+installing drain tile to remove
+excess subsurface water.
+
+
+458
+0:22:4,968 --> 0:22:8,3
+There's really one reason
+why farmers are
+
+
+459
+0:22:8,3 --> 0:22:10,834
+installing drain tiles
+on their fields,
+
+
+460
+0:22:10,834 --> 0:22:13,267
+and it's for increasing
+crop production.
+
+
+461
+0:22:13,267 --> 0:22:15,767
+We've tiled fields
+that farmers tell me
+
+
+462
+0:22:15,767 --> 0:22:18,868
+are their saltiest fields,
+and in a few years,
+
+
+463
+0:22:18,868 --> 0:22:20,667
+probably 3 to 5 years,
+
+
+464
+0:22:20,667 --> 0:22:23,767
+they are yielding as good
+as their best fields.
+
+
+465
+0:22:23,767 --> 0:22:25,501
+You look back here,
+
+
+466
+0:22:25,501 --> 0:22:27,601
+and anytime you see
+a pump pumping water,
+
+
+467
+0:22:27,601 --> 0:22:29,334
+you know there's a perception
+
+
+468
+0:22:29,334 --> 0:22:31,4
+that you're
+making new water,
+
+
+469
+0:22:31,4 --> 0:22:33,67
+and that is untrue.
+
+
+470
+0:22:33,67 --> 0:22:35,501
+What we're doing is, we're
+
+
+471
+0:22:35,501 --> 0:22:37,2
+lowering the water table,
+
+
+472
+0:22:37,2 --> 0:22:40,567
+and we're creating
+a reservoir in our field.
+
+
+473
+0:22:40,567 --> 0:22:42,167
+We've done
+a variety of things.
+
+
+474
+0:22:42,167 --> 0:22:45,701
+We are drain tiling, trying
+to get rid of some of the salts
+
+
+475
+0:22:45,701 --> 0:22:48,701
+that naturally through the rain
+will percolate through the soil
+
+
+476
+0:22:48,701 --> 0:22:50,801
+and go out through
+the drain tile.
+
+
+477
+0:22:50,801 --> 0:22:53,767
+We've got an interesting project
+with the University of Manitoba.
+
+
+478
+0:22:53,767 --> 0:22:57,33
+There's a couple of Ph.D.
+students doing their thesis
+
+
+479
+0:22:57,33 --> 0:22:59,601
+on water movement
+and saline soils,
+
+
+480
+0:22:59,601 --> 0:23:2,567
+and we have got
+a replicated trial here
+
+
+481
+0:23:2,567 --> 0:23:6,3
+in the back of this farm
+of about 15 acres.
+
+
+482
+0:23:6,3 --> 0:23:12,33
+They will be trying to
+determine how the saline areas
+
+
+483
+0:23:12,33 --> 0:23:15,934
+are mitigated with
+drainage and irrigation.
+
+
+484
+0:23:15,934 --> 0:23:20,0
+(Dr. Cihacek) Once you take that
+water and move it somewhere--
+
+
+485
+0:23:20,0 --> 0:23:24,33
+you gotta move it somewhere--
+put it into a drainage ditch.
+
+
+486
+0:23:24,33 --> 0:23:26,634
+The problem
+with our flat landscape is,
+
+
+487
+0:23:26,634 --> 0:23:29,601
+it's hard to move it
+any long distance.
+
+
+488
+0:23:29,601 --> 0:23:32,634
+The water that comes out
+of the drains contain salts.
+
+
+489
+0:23:32,634 --> 0:23:36,33
+Now, my concern is with the
+drainage that you can have
+
+
+490
+0:23:36,33 --> 0:23:39,434
+a transfer of a problem from
+one field to another field
+
+
+491
+0:23:39,434 --> 0:23:42,701
+or another area because that
+water is going to contain salts.
+
+
+492
+0:23:42,701 --> 0:23:47,667
+If the water cannot flow off
+freely, it ponds up.
+
+
+493
+0:23:47,667 --> 0:23:52,133
+Then we've got the potential
+of salinizing other land.
+
+
+494
+0:23:52,133 --> 0:23:55,701
+Some of the preliminary numbers
+that I've reviewed
+
+
+495
+0:23:55,701 --> 0:23:58,234
+suggest that the total
+dissolved solids
+
+
+496
+0:23:58,234 --> 0:24:2,467
+in some of the tile drains are
+very, very high.
+
+
+497
+0:24:2,467 --> 0:24:6,2
+I've seen them 10,000, 15,000
+milligrams per liter--
+
+
+498
+0:24:6,2 --> 0:24:8,934
+some very high
+sulphate numbers also.
+
+
+499
+0:24:8,934 --> 0:24:10,801
+Now, one or two individually
+
+
+500
+0:24:10,801 --> 0:24:13,33
+probably doesn't have
+a great effect.
+
+
+501
+0:24:13,33 --> 0:24:15,3
+What's unknown is
+the cumulative effect
+
+
+502
+0:24:15,3 --> 0:24:17,868
+of widespread tile drainage
+on the tributaries
+
+
+503
+0:24:17,868 --> 0:24:21,634
+flowing into the Red River
+and the Red River itself.
+
+
+504
+0:24:21,634 --> 0:24:25,534
+We do know that nitrate,
+for instance, seems to be
+
+
+505
+0:24:25,534 --> 0:24:28,234
+very, very high
+in tile drainage waters.
+
+
+506
+0:24:28,234 --> 0:24:32,801
+
+
+
+507
+0:24:32,801 --> 0:24:34,934
+Salinity is a global problem,
+
+
+508
+0:24:34,934 --> 0:24:39,467
+but the solutions to that
+should be and must be local.
+
+
+509
+0:24:39,467 --> 0:24:41,501
+(narrator)
+The causes of salinity are many,
+
+
+510
+0:24:41,501 --> 0:24:43,167
+as are the potential solutions.
+
+
+511
+0:24:43,167 --> 0:24:45,801
+The key for farmers
+and soil experts is
+
+
+512
+0:24:45,801 --> 0:24:49,501
+to curtail the problem before it
+reaches levels that have caused
+
+
+513
+0:24:49,501 --> 0:24:51,834
+economic collapse in other
+countries, in other times.
+
+
+514
+0:24:51,834 --> 0:24:53,834
+National, state
+and local solutions
+
+
+515
+0:24:53,834 --> 0:24:56,33
+will hopefully converge
+to win the battle.
+
+
+516
+0:24:56,33 --> 0:24:59,0
+Some of the crops as
+North Dakota shifting into
+
+
+517
+0:24:59,0 --> 0:25:1,901
+more of the corn belt
+types of production
+
+
+518
+0:25:1,901 --> 0:25:3,567
+with corn and soybeans.
+
+
+519
+0:25:3,567 --> 0:25:5,934
+We're going to see
+more problems emerge
+
+
+520
+0:25:5,934 --> 0:25:8,434
+with saline soils
+if we aren't careful.
+
+
+521
+0:25:8,434 --> 0:25:11,734
+(Dr. Hopkins)
+We have soils that are very,
+very productive,
+
+
+522
+0:25:11,734 --> 0:25:15,67
+but you can drive
+any road in North Dakota
+
+
+523
+0:25:15,67 --> 0:25:17,267
+and see examples
+of egregious erosion.
+
+
+524
+0:25:17,267 --> 0:25:19,2
+As government agencies, we need
+
+
+525
+0:25:19,2 --> 0:25:21,33
+to work with the growers--
+
+
+526
+0:25:21,33 --> 0:25:24,534
+corn growers, soybean growers
+and really try to address
+
+
+527
+0:25:24,534 --> 0:25:26,601
+this resource concern
+in North Dakota.
+
+
+528
+0:25:26,601 --> 0:25:31,33
+The universal advice which I
+would like to repeat is
+
+
+529
+0:25:31,33 --> 0:25:34,901
+instead of adapting the soil
+to the plant,
+
+
+530
+0:25:34,901 --> 0:25:37,567
+adapt the plant to the soil
+
+
+531
+0:25:37,567 --> 0:25:39,267
+as a biological long-term,
+
+
+532
+0:25:39,267 --> 0:25:41,434
+less expensive, and permanent
+solution.
+
+
+533
+0:25:41,434 --> 0:25:51,1
+
+
+
+534
+0:25:51,1 --> 0:26:20,267
+
+
+
+535
+0:26:20,267 --> 0:26:22,3
+
+
+
+536
+0:26:22,3 --> 0:26:25,267
+Funding for "Salt of the Earth"
+
+
+537
+0:26:25,267 --> 0:26:29,0
+is made possible by an
+EPA Section 319 grant
+
+
+538
+0:26:29,0 --> 0:26:32,133
+administered by the North Dakota
+Department of Health.
+
+
+539
+0:26:32,133 --> 0:26:34,133
+the Eastern North Dakota
+
+
+540
+0:26:34,133 --> 0:26:36,701
+Resource Conservation
+and Development Councils,
+
+
+541
+0:26:36,701 --> 0:26:38,701
+with support provided by the...
+
+
+542
+0:26:38,701 --> 0:26:40,934
+
+
+
+543
+0:26:40,934 --> 0:26:43,267
+...helping people help the land,
+
+
+544
+0:26:43,267 --> 0:26:45,567
+and by the members
+of Prairie Public.
+
+
+545
+0:26:45,567 --> 0:28:45,567
+
+
+

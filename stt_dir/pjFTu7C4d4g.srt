@@ -1,0 +1,69 @@
+1
+0:0:0,0 --> 0:0:3,92
+
+
+
+2
+0:0:3,92 --> 0:0:4,56
+CHARLIE SHEEN: Hi there.
+
+
+3
+0:0:4,56 --> 0:0:5,67
+I'm Charlie Sheen, and
+I'm starring in Roman
+
+
+4
+0:0:5,67 --> 0:0:7,96
+Coppola's new movie.
+
+
+5
+0:0:7,96 --> 0:0:9,57
+What's it about?
+
+
+6
+0:0:9,57 --> 0:0:10,82
+Take a look.
+
+
+7
+0:0:10,82 --> 0:0:33,84
+
+
+
+8
+0:0:33,84 --> 0:0:37,4
+Jason, anything else
+you'd like to add?
+
+
+9
+0:0:37,4 --> 0:0:38,66
+JASON SCHWARTZMAN: Hi, I'm Jason
+Schwartzman, and I play
+
+
+10
+0:0:38,66 --> 0:0:39,78
+Kirby Star.
+
+
+11
+0:0:39,78 --> 0:0:44,7
+So I guess there's two stars.
+
+
+12
+0:0:44,7 --> 0:0:45,32
+CHARLIE SHEEN: Can't
+argue with that.
+
+
+13
+0:0:45,32 --> 0:2:45,32
+
+
+

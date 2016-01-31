@@ -1,0 +1,35 @@
+1
+0:0:8,6 --> 0:0:18,739
+Meet the Polar Bears.
+
+
+2
+0:0:18,739 --> 0:0:20,739
+Fast Facts
+Type: Mammal
+
+
+3
+0:0:20,739 --> 0:0:23,739
+Fast Facts
+Lifespan: 25 to 30 years
+
+
+4
+0:0:23,739 --> 0:0:26,739
+Fast Facts
+Size: Up to 8 Feet Tall
+
+
+5
+0:0:26,739 --> 0:0:29,739
+Fast Facts
+Weight: 900 to 1600 pounds
+
+
+6
+0:0:29,739 --> 0:2:29,739
+Fast Facts
+Habitat: The Arctic
+
+

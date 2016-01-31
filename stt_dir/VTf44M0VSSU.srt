@@ -1,0 +1,186 @@
+1
+0:0:14,0 --> 0:0:22,0
+I got to say the first time I heard our designers came up with the concept I was a little mystified as to why we would do this and then I thought about the idea, I thought; 
+
+
+2
+0:0:22,0 --> 0:0:25,0
+this could actually be a kick ass idea!
+
+
+3
+0:0:25,0 --> 0:0:34,0
+So; I know Wargaming has a reputation of being innovative in the online spaces, especially in free to play and moba but I think that we can sort of learn from our 
+
+
+4
+0:0:34,0 --> 0:0:37,0
+competitors and take the concept.
+
+
+5
+0:0:37,0 --> 0:0:45,0
+So the more I think about it and I think that "what a great idea" we should absolutely do this so I can safely announce now I think that coming, very soon all of our 
+
+
+6
+0:0:45,0 --> 0:0:48,0
+titles will have zombie mode implemented.
+
+
+7
+0:0:48,0 --> 0:0:53,0
+So Zombies are pretty much all the rage these days if you look at what all the top studios are doing they all seem to have a zombie mode.  
+
+
+8
+0:0:53,0 --> 0:0:56,0
+We also have zombie books, zombie movies.  
+
+
+9
+0:0:56,0 --> 0:1:3,0
+Probably weren't too surprised actually when one of the lads in Minsk came up with the idea but they tasked him with it anyway and it has to say the end results he 
+
+
+10
+0:1:3,0 --> 0:1:13,0
+got were really kinda awesome.
+
+
+11
+0:1:13,0 --> 0:1:21,0
+You might think that killing zombies with a tank is pretty easy i mean drive and track zombie, drive and adjust your... use your HE or AP whatever accordingly 
+
+
+12
+0:1:21,0 --> 0:1:25,0
+depending on what you end results are but there’s all sorts of variations you can have.
+
+
+13
+0:1:25,0 --> 0:1:30,0
+I mean you can have side skirts does that mean that the zombie can’t climb on top of your tanks so easily or if you don’t have side skirts is he more likely to get 
+
+
+14
+0:1:30,0 --> 0:1:32,0
+caught up in your road wheels.
+
+
+15
+0:1:32,0 --> 0:1:36,0
+Anyway here’s the one interesting thing though, the AI is fantastic.  
+
+
+16
+0:1:36,0 --> 0:1:45,0
+We’re not going to have dumb, brainless zombies these guys are going to learn, they’ll adapt as they go, they will try to infect your crew, and players will have to 
+
+
+17
+0:1:45,0 --> 0:1:49,0
+work together and develop new tactics in order to try to survive.
+
+
+18
+0:1:49,0 --> 0:1:53,0
+It took us by surprise; we weren’t expecting the designers to come up with this.  
+
+
+19
+0:1:53,0 --> 0:1:59,0
+So we were challenged to come up with different scenarios and options and different modes for implementing the zombies.  
+
+
+20
+0:1:59,0 --> 0:2:13,0
+It’s a little bit too early to say but right now what all of these options will be but I can safely announce that there will be an escort mode of zombies in World of Tanks.
+
+
+21
+0:2:13,0 --> 0:2:19,0
+Of course better players for World of Warplanes are all familiar with the ground attack aircraft and that they’ve got these fantastic AI gunners that, they’re really 
+
+
+22
+0:2:19,0 --> 0:2:27,0
+quite lethal especially against a lone attacking fighter.  Now of course that said the gunner is vulnerable, you can shoot the gunner if you’re in an attacking fighter; 
+
+
+23
+0:2:27,0 --> 0:2:30,0
+kill the gunner.  It takes a bit of skill but you can do it.
+
+
+24
+0:2:30,0 --> 0:2:43,0
+If you think about it 10 seconds after you kill a fighter plane the gunner comes back as a zombie and you have to kill him again!
+
+
+25
+0:2:43,0 --> 0:2:51,0
+Terrain is an important tactical component in air combat, in an urban setting you have buildings and the such so you can quite easily weave through to lose your 
+
+
+26
+0:2:51,0 --> 0:2:54,0
+opponent.  But trees?  What does that mean?
+
+
+27
+0:2:54,0 --> 0:3:1,0
+Skilful players of course will be familiar with the concept of terrain following; it’s a great way of shaking off a pursuing aircraft and maybe giving it a little bit more 
+
+
+28
+0:3:1,0 --> 0:3:11,0
+survivability.  Green used to be good.  Of course there’s a bit of a catch in that these days if you go too close to the trees well who knew; it turns out that zombies can climb trees.
+
+
+29
+0:3:11,0 --> 0:3:20,0
+So there they are just hanging just below the foliage roof, arms out stretched.  They will climb onto any aircraft that flies by.  So the more zombies you have on 
+
+
+30
+0:3:20,0 --> 0:3:27,0
+your aircraft the heavier it is, you’ve got your power to weight ratio problems, you’ve got more drag, your aircraft will become slower, less manoeuvrable so 
+
+
+31
+0:3:27,0 --> 0:3:32,0
+zombies are very definitely a hazard even before you worry about whether  or not they’re going to infect the pilot.
+
+
+32
+0:3:32,0 --> 0:3:41,0
+Having a zombie on one wing, what are you going to do, fly into the trees to catch another one?  Like your plane will be out of balance you won’t be able to fly!
+
+
+33
+0:3:41,0 --> 0:3:51,0
+ProTip: Stay clear of pine trees, zombies love them!  We’ve have no idea why but they hang out there by the dozen.  Maybe it’s the smell of resin or something, dunno.
+
+
+34
+0:3:51,0 --> 0:3:57,0
+It’s a funny thing about zombie AI these guys are incredibly smart.  We never thought we’d see the things we did.
+
+
+35
+0:3:57,0 --> 0:4:5,0
+Now I should add, it’s often not a good idea to try to shoot a zombie, chances are if you don’t get a head shot you’ll just make him mad.
+
+
+36
+0:4:5,0 --> 0:4:14,0
+We still have some development left to do there’s still tweeks to the zombie AI and the different animations for killing zombies but I think we’re fairly close and I 
+
+
+37
+0:4:14,0 --> 0:6:14,0
+think that the game really does benefit from having zombies in.
+�
+
+

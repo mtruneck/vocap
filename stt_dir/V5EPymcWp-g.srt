@@ -1,0 +1,12214 @@
+1
+0:0:25,5 --> 0:2:45,0
+[strings playing
+"all along the watchtower"]
+
+
+2
+0:2:45,0 --> 0:2:47,2
+Male announcer: ladies
+and gentlemen, welcome.
+
+
+3
+0:2:47,2 --> 0:2:48,8
+Today it is
+my distinct pleasure
+
+
+4
+0:2:48,8 --> 0:2:50,6
+To introduce a man
+who is recognized--
+
+
+5
+0:2:50,6 --> 0:2:53,5
+The battle over evolution
+is only one skirmish
+
+
+6
+0:2:53,5 --> 0:2:56,9
+In a much larger war.
+
+
+7
+0:2:56,9 --> 0:3:3,3
+Science simply makes no use
+of the hypothesis of God.
+
+
+8
+0:3:3,3 --> 0:3:8,5
+Ask yourself, what has
+intelligent design given us?
+Nothing.
+
+
+9
+0:3:8,5 --> 0:3:11,8
+We cannot accept
+intelligent design
+
+
+10
+0:3:11,8 --> 0:3:15,2
+As an alternative
+scientific theory.
+
+
+11
+0:3:15,2 --> 0:3:18,8
+They will never accept
+that we have a better argument.
+
+
+12
+0:3:18,8 --> 0:3:24,1
+They just pester us,
+and they waste our time.
+
+
+13
+0:3:24,1 --> 0:3:28,4
+Announcer: ...Variety
+of topics, ranging from
+economics, civil rights,
+
+
+14
+0:3:28,4 --> 0:3:30,7
+To how not to ruin your life
+in ten easy steps.
+
+
+15
+0:3:30,7 --> 0:3:33,3
+Today, ben is speaking
+on the topic
+
+
+16
+0:3:33,3 --> 0:3:37,0
+That has become
+increasingly important
+to him over recent years.
+
+
+17
+0:3:37,0 --> 0:3:40,5
+While ben has always been
+an ardent supporter of science,
+
+
+18
+0:3:40,5 --> 0:3:42,8
+Lately he has noticed
+an alarming trend
+
+
+19
+0:3:42,8 --> 0:3:44,5
+In the scientific
+establishment
+
+
+20
+0:3:44,5 --> 0:3:46,6
+That could have
+dire consequences
+
+
+21
+0:3:46,6 --> 0:3:49,0
+For every american.
+
+
+22
+0:3:49,0 --> 0:3:50,6
+Without further ado,
+
+
+23
+0:3:50,6 --> 0:3:52,6
+Please join me
+in giving a warm welcome
+
+
+24
+0:3:52,6 --> 0:3:56,0
+For mr. Ben Stein.
+
+
+25
+0:3:56,0 --> 0:3:58,5
+[audience applauding]
+
+
+26
+0:3:58,5 --> 0:4:0,0
+Ben stein: thank you.
+
+
+27
+0:4:0,0 --> 0:4:3,7
+Thank you very much.
+Thank you very, very much.
+Thank you.
+
+
+28
+0:4:3,7 --> 0:4:6,1
+Thank you very much,
+everybody.
+
+
+29
+0:4:6,1 --> 0:4:8,4
+Thank you very much,
+gangstas.
+
+
+30
+0:4:8,4 --> 0:4:13,1
+Thank you
+very, very much.
+
+
+31
+0:4:13,1 --> 0:4:15,2
+Freedom is
+the essence of america.
+
+
+32
+0:4:15,2 --> 0:4:18,2
+We're talking
+about freedom of speech,
+
+
+33
+0:4:18,2 --> 0:4:20,0
+Freedom of assembly,
+
+
+34
+0:4:20,0 --> 0:4:24,1
+Freedom from fear,
+freedom of religion.
+
+
+35
+0:4:24,1 --> 0:4:25,4
+Martin luther king said,
+
+
+36
+0:4:25,4 --> 0:4:28,1
+"america is
+essentially a dream,"
+
+
+37
+0:4:28,1 --> 0:4:31,5
+And he said it is a dream
+of freedom and equality.
+
+
+38
+0:4:31,5 --> 0:4:33,9
+Freedom is the way
+to equality.
+
+
+39
+0:4:33,9 --> 0:4:37,9
+And america simply would
+not be america without freedom.
+
+
+40
+0:4:37,9 --> 0:4:40,4
+In every turning point
+in our history,
+
+
+41
+0:4:40,4 --> 0:4:44,1
+The decision has always
+been about freedom.
+
+
+42
+0:4:44,1 --> 0:4:46,8
+[stein narrates]
+freedom is what makes
+this country great.
+
+
+43
+0:4:46,8 --> 0:4:51,3
+Freedom has allowed us
+to create, to explore,
+
+
+44
+0:4:51,3 --> 0:4:55,5
+To overcome every challenge
+we have faced as a nation.
+
+
+45
+0:4:55,5 --> 0:4:59,5
+But imagine if these freedoms
+were taken away.
+
+
+46
+0:4:59,5 --> 0:5:2,9
+Where would we be?
+What would we lose?
+
+
+47
+0:5:2,9 --> 0:5:6,8
+Well, unfortunately,
+I no longer need to imagine.
+
+
+48
+0:5:6,8 --> 0:5:7,8
+It's happening.
+
+
+49
+0:5:7,8 --> 0:5:9,1
+We are losing our freedom
+
+
+50
+0:5:9,1 --> 0:5:12,2
+In one of the most important
+sectors of society--
+
+
+51
+0:5:12,2 --> 0:5:13,9
+Science.
+
+
+52
+0:5:13,9 --> 0:5:15,3
+I have always assumed
+
+
+53
+0:5:15,3 --> 0:5:18,0
+That scientists were free
+to ask any question,
+
+
+54
+0:5:18,0 --> 0:5:20,1
+To pursue
+any line of inquiry
+
+
+55
+0:5:20,1 --> 0:5:22,5
+Without fear of reprisal,
+
+
+56
+0:5:22,5 --> 0:5:25,3
+But recently
+i've been alarmed to discover
+
+
+57
+0:5:25,3 --> 0:5:27,1
+That this is not the case.
+
+
+58
+0:5:27,1 --> 0:5:29,5
+It all began when I met
+
+
+59
+0:5:29,5 --> 0:5:32,1
+Evolutionary biologist
+richard sternberg
+
+
+60
+0:5:32,1 --> 0:5:33,7
+In washington, d.C.
+
+
+61
+0:5:33,7 --> 0:5:35,7
+His life was nearly ruined
+
+
+62
+0:5:35,7 --> 0:5:37,7
+When he strayed
+from the party line
+
+
+63
+0:5:37,7 --> 0:5:40,3
+While serving as editor
+of a scientific journal
+
+
+64
+0:5:40,3 --> 0:5:42,0
+Affiliated
+with the prestigious
+
+
+65
+0:5:42,0 --> 0:5:45,5
+Smithsonian museum
+of natural history.
+
+
+66
+0:5:45,5 --> 0:5:47,2
+Your office
+was over there?
+
+
+67
+0:5:47,2 --> 0:5:48,2
+That's correct.
+
+
+68
+0:5:48,2 --> 0:5:50,0
+This here
+is the west wing.
+
+
+69
+0:5:50,0 --> 0:5:51,8
+Directly ahead of us
+is the west wing
+
+
+70
+0:5:51,8 --> 0:5:53,3
+Of the natural history
+museum.
+
+
+71
+0:5:53,3 --> 0:5:54,7
+So now you're
+not there anymore
+
+
+72
+0:5:54,7 --> 0:5:56,0
+Because you were
+a bad boy.
+
+
+73
+0:5:56,0 --> 0:5:57,8
+No, i'm not.
+No, I was exiled.
+
+
+74
+0:5:57,8 --> 0:5:59,1
+You were a bad boy.
+
+
+75
+0:5:59,1 --> 0:6:3,2
+You questioned
+the powers that be.
+
+
+76
+0:6:3,2 --> 0:6:6,9
+[typewriter clacking]
+
+
+77
+0:6:6,9 --> 0:6:9,9
+What was
+dr. Sternberg's crime?
+
+
+78
+0:6:9,9 --> 0:6:13,0
+He dared to publish an article
+by dr. Stephen meyer,
+
+
+79
+0:6:13,0 --> 0:6:14,5
+One of the leading lights
+
+
+80
+0:6:14,5 --> 0:6:16,7
+Of the intelligent design
+movement.
+
+
+81
+0:6:16,7 --> 0:6:19,5
+The paper ignited
+a firestorm of controversy
+
+
+82
+0:6:19,5 --> 0:6:22,4
+Merely because it suggested
+intelligent design
+
+
+83
+0:6:22,4 --> 0:6:25,5
+Might be able to explain
+how life began.
+
+
+84
+0:6:25,5 --> 0:6:28,7
+As a result,
+dr. Sternberg lost his office,
+
+
+85
+0:6:28,7 --> 0:6:32,0
+His political
+and religious beliefs
+were investigated,
+
+
+86
+0:6:32,0 --> 0:6:34,4
+And he was pressured
+to resign.
+
+
+87
+0:6:34,4 --> 0:6:35,9
+The questioning
+of darwinism
+
+
+88
+0:6:35,9 --> 0:6:39,9
+Was a bridge too far
+for many.
+
+
+89
+0:6:39,9 --> 0:6:42,9
+The mentioning
+of intelligent design
+
+
+90
+0:6:42,9 --> 0:6:47,5
+That occurs
+at the end of the paper
+was over the top.
+
+
+91
+0:6:47,5 --> 0:6:51,0
+And I think
+the intelligent design
+proponents
+
+
+92
+0:6:51,0 --> 0:6:54,0
+Have raised a number
+of very important questions.
+
+
+93
+0:6:54,0 --> 0:6:56,1
+And you wanted to get
+those questions
+
+
+94
+0:6:56,1 --> 0:6:57,3
+Brought up and discussed.
+
+
+95
+0:6:57,3 --> 0:6:59,2
+- placed on the table.
+- placed on the table.
+
+
+96
+0:6:59,2 --> 0:7:2,6
+People were so upset
+about it.
+
+
+97
+0:7:2,6 --> 0:7:4,7
+They were so upset
+that you could see their--
+
+
+98
+0:7:4,7 --> 0:7:6,7
+They had a physical
+emotional reaction.
+
+
+99
+0:7:6,7 --> 0:7:8,1
+Wow.
+
+
+100
+0:7:8,1 --> 0:7:10,5
+They were saying
+
+
+101
+0:7:10,5 --> 0:7:14,7
+That stephen c. Meyer
+is a well-known Christian,
+
+
+102
+0:7:14,7 --> 0:7:17,7
+That stephen c. Meyer
+is an intelligent design
+proponent,
+
+
+103
+0:7:17,7 --> 0:7:20,3
+That stephen c. Meyer
+is a republican.
+
+
+104
+0:7:20,3 --> 0:7:21,8
+It was all couched
+in terms of
+
+
+105
+0:7:21,8 --> 0:7:25,0
+Religion, politics,
+and sociology.
+
+
+106
+0:7:25,0 --> 0:7:28,5
+The way the chair
+of the department put it
+
+
+107
+0:7:28,5 --> 0:7:32,8
+Is that I was viewed
+as an intellectual terrorist.
+
+
+108
+0:7:32,8 --> 0:7:34,0
+Terrorist?
+
+
+109
+0:7:34,0 --> 0:7:38,2
+Because of
+giving the topic
+
+
+110
+0:7:38,2 --> 0:7:44,1
+Of intelligent design
+some modicum of credibility.
+
+
+111
+0:7:44,1 --> 0:7:46,6
+What happened
+to dr. Sternberg was terrible,
+
+
+112
+0:7:46,6 --> 0:7:48,8
+But surely it was
+just an isolated case.
+
+
+113
+0:7:48,8 --> 0:7:50,6
+I was still
+pretty skeptical,
+
+
+114
+0:7:50,6 --> 0:7:52,7
+So naturally
+I checked in with the head
+
+
+115
+0:7:52,7 --> 0:7:55,1
+Of the skeptics society,
+michael shermer.
+
+
+116
+0:7:55,1 --> 0:7:58,6
+So I can't prove
+there is no God,
+
+
+117
+0:7:58,6 --> 0:8:0,6
+Or yahweh in your case,
+
+
+118
+0:8:0,6 --> 0:8:3,5
+Any more than I can prove
+there is no isis, zeus,
+
+
+119
+0:8:3,5 --> 0:8:6,7
+Apollo, brahma, ganesha,
+mithras, allah,
+
+
+120
+0:8:6,7 --> 0:8:9,4
+Or for that matter,
+the flying spaghetti monster.
+
+
+121
+0:8:9,4 --> 0:8:11,0
+And think about just
+one thing:
+
+
+122
+0:8:11,0 --> 0:8:13,0
+Why would the aliens
+look like this?
+
+
+123
+0:8:13,0 --> 0:8:17,0
+- these are bipedal--
+- king: who drew that?
+
+
+124
+0:8:17,0 --> 0:8:19,7
+Shermer: skepticism...
+It's not a position you take.
+
+
+125
+0:8:19,7 --> 0:8:21,8
+It's just
+an approach to claims.
+
+
+126
+0:8:21,8 --> 0:8:25,8
+This one's called
+the borderlands of science:
+where sense meets nonsense.
+
+
+127
+0:8:25,8 --> 0:8:27,7
+Is intelligent design
+nonsense?
+
+
+128
+0:8:27,7 --> 0:8:29,7
+Well, it's unproven,
+
+
+129
+0:8:29,7 --> 0:8:31,3
+So in that sense
+it's nonsense.
+
+
+130
+0:8:31,3 --> 0:8:33,9
+So I would put it
+in the sort of shaded areas
+
+
+131
+0:8:33,9 --> 0:8:36,7
+Between good, solid science
+and total nonsense.
+
+
+132
+0:8:36,7 --> 0:8:41,9
+You know, it's sort of
+three quarters of the way
+toward the nonsense side.
+
+
+133
+0:8:41,9 --> 0:8:43,5
+Stein: but you think,
+nevertheless,
+
+
+134
+0:8:43,5 --> 0:8:45,2
+People should be
+allowed to speak about
+
+
+135
+0:8:45,2 --> 0:8:46,5
+And publish papers
+about it.
+
+
+136
+0:8:46,5 --> 0:8:48,8
+They are free to write
+and publish and be heard
+
+
+137
+0:8:48,8 --> 0:8:50,5
+In public forums
+and go to conferences
+
+
+138
+0:8:50,5 --> 0:8:52,1
+Just like
+everybody else does.
+
+
+139
+0:8:52,1 --> 0:8:55,2
+What if a person
+published something,
+say, at the smithsonian
+
+
+140
+0:8:55,2 --> 0:8:59,0
+In favor
+of intelligent design
+and lost his job over it?
+
+
+141
+0:8:59,0 --> 0:9:3,7
+I mean, it had been
+peer-reviewed and published
+
+
+142
+0:9:3,7 --> 0:9:5,7
+And then he lost his job
+over it anyway.
+
+
+143
+0:9:5,7 --> 0:9:7,0
+What about
+that situation?
+
+
+144
+0:9:7,0 --> 0:9:9,2
+Well...I think
+that particular situation,
+
+
+145
+0:9:9,2 --> 0:9:10,5
+There was something else
+going on.
+
+
+146
+0:9:10,5 --> 0:9:12,0
+- what was going on?
+- I don't know.
+
+
+147
+0:9:12,0 --> 0:9:13,9
+I mean, I don't know
+because I don't know,
+
+
+148
+0:9:13,9 --> 0:9:16,2
+But I think there had
+to be something.
+
+
+149
+0:9:16,2 --> 0:9:18,2
+People don't get fired
+over something like that.
+
+
+150
+0:9:18,2 --> 0:9:20,4
+You roll up your sleeves,
+you get to work,
+
+
+151
+0:9:20,4 --> 0:9:22,2
+You do the research,
+you get your grants,
+
+
+152
+0:9:22,2 --> 0:9:24,1
+You get your data,
+you publish,
+
+
+153
+0:9:24,1 --> 0:9:25,4
+And you work
+your butt off,
+
+
+154
+0:9:25,4 --> 0:9:27,4
+And that's how you get
+your theories taught--
+
+
+155
+0:9:27,4 --> 0:9:29,5
+What if you try and try
+and roll up your sleeves
+
+
+156
+0:9:29,5 --> 0:9:31,1
+And go to work
+and work your butt off,
+
+
+157
+0:9:31,1 --> 0:9:33,0
+And they say,
+"we're going to fire you
+
+
+158
+0:9:33,0 --> 0:9:35,0
+If you even mention the word
+intelligent design"?
+
+
+159
+0:9:35,0 --> 0:9:37,8
+I don't think that's happened.
+Where is that happening?
+
+
+160
+0:9:37,8 --> 0:9:39,9
+Filmstrip narrator:
+george mason university--
+
+
+161
+0:9:39,9 --> 0:9:41,8
+Throughout
+its 50-year history,
+
+
+162
+0:9:41,8 --> 0:9:44,1
+Our mission
+has remained clear--
+
+
+163
+0:9:44,1 --> 0:9:46,7
+To prepare a diverse
+population of students
+
+
+164
+0:9:46,7 --> 0:9:49,0
+To think and to grow
+
+
+165
+0:9:49,0 --> 0:9:52,5
+In a climate of unbridled
+academic freedom.
+
+
+166
+0:9:52,5 --> 0:9:53,8
+[typewriter clacking]
+
+
+167
+0:9:53,8 --> 0:9:56,8
+Stein: after dr. Caroline
+crocker simply mentioned
+
+
+168
+0:9:56,8 --> 0:9:59,6
+Intelligent design
+in her cell biology class
+
+
+169
+0:9:59,6 --> 0:10:1,3
+At george mason university,
+
+
+170
+0:10:1,3 --> 0:10:5,6
+Her promising academic career
+came to an abrupt end.
+
+
+171
+0:10:5,6 --> 0:10:8,2
+My supervisor invited me
+into his office.
+
+
+172
+0:10:8,2 --> 0:10:11,0
+He said,
+"i'm going to have
+to discipline you
+
+
+173
+0:10:11,0 --> 0:10:13,0
+For teaching creationism."
+
+
+174
+0:10:13,0 --> 0:10:15,2
+And I said, "I mentioned
+intelligent design
+
+
+175
+0:10:15,2 --> 0:10:16,4
+"on a couple of slides,
+
+
+176
+0:10:16,4 --> 0:10:18,5
+But I did not teach
+creationism."
+
+
+177
+0:10:18,5 --> 0:10:20,6
+He said, "nonetheless,
+you have to be disciplined."
+
+
+178
+0:10:20,6 --> 0:10:24,1
+At the end of the semester,
+I lost my job.
+
+
+179
+0:10:24,1 --> 0:10:26,3
+Not only did
+this well-loved professor
+
+
+180
+0:10:26,3 --> 0:10:28,3
+Lose her job
+at george mason,
+
+
+181
+0:10:28,3 --> 0:10:30,7
+She suddenly found herself
+blacklisted,
+
+
+182
+0:10:30,7 --> 0:10:33,8
+Unable to find
+a job anywhere.
+
+
+183
+0:10:33,8 --> 0:10:36,3
+So whenever I
+interviewed for a job,
+
+
+184
+0:10:36,3 --> 0:10:38,4
+I would be offered it
+usually on the spot.
+
+
+185
+0:10:38,4 --> 0:10:40,8
+Since this has happened
+
+
+186
+0:10:40,8 --> 0:10:44,5
+And since people
+can google my name,
+
+
+187
+0:10:44,5 --> 0:10:47,5
+I'm finding that when
+I send my credentials,
+
+
+188
+0:10:47,5 --> 0:10:50,2
+I do get interviews--
+I get many interviews--
+
+
+189
+0:10:50,2 --> 0:10:52,9
+But I never get
+offered a job.
+
+
+190
+0:10:52,9 --> 0:10:54,8
+I don't tell them
+about my--
+
+
+191
+0:10:54,8 --> 0:10:57,0
+About my, uh,
+"science sin."
+
+
+192
+0:10:57,0 --> 0:10:59,1
+[bell tolling]
+
+
+193
+0:10:59,1 --> 0:11:4,9
+I was only trying to teach
+what the university stands for,
+
+
+194
+0:11:4,9 --> 0:11:8,5
+Which is academic freedom.
+
+
+195
+0:11:8,5 --> 0:11:10,9
+Egnor: there's nothing
+to be learned in neurosurgery
+
+
+196
+0:11:10,9 --> 0:11:14,4
+By assuming
+an accidental origin
+
+
+197
+0:11:14,4 --> 0:11:16,8
+For the parts of the brain
+that we work on.
+
+
+198
+0:11:16,8 --> 0:11:18,9
+Stein: it wasn't
+just biologists
+
+
+199
+0:11:18,9 --> 0:11:21,4
+Who were feeling
+the darwinist wrath.
+
+
+200
+0:11:21,4 --> 0:11:23,8
+When neurosurgeon
+michael egnor
+
+
+201
+0:11:23,8 --> 0:11:25,7
+Wrote an essay
+to high school students
+
+
+202
+0:11:25,7 --> 0:11:28,4
+Saying doctors didn't need
+to study evolution
+
+
+203
+0:11:28,4 --> 0:11:30,4
+In order to practice medicine,
+
+
+204
+0:11:30,4 --> 0:11:32,0
+The darwinists were quick
+
+
+205
+0:11:32,0 --> 0:11:34,9
+To try and exterminate
+this new threat.
+
+
+206
+0:11:34,9 --> 0:11:36,4
+A lot of people
+in a lot of blogs
+
+
+207
+0:11:36,4 --> 0:11:39,0
+Called me unprintable names
+that were printed.
+
+
+208
+0:11:39,0 --> 0:11:40,3
+[laughs]
+
+
+209
+0:11:40,3 --> 0:11:43,1
+There were a lot of very,
+very nasty comments.
+
+
+210
+0:11:43,1 --> 0:11:44,5
+Other people suggested
+
+
+211
+0:11:44,5 --> 0:11:46,9
+That people call
+the university I work at
+
+
+212
+0:11:46,9 --> 0:11:49,8
+And suggest that perhaps
+it's time for me to retire.
+
+
+213
+0:11:49,8 --> 0:11:52,3
+I realized when
+I kind of went public
+
+
+214
+0:11:52,3 --> 0:11:55,5
+With my doubts
+about the adequacy
+of darwin's theory,
+
+
+215
+0:11:55,5 --> 0:11:58,2
+You know, that I would
+encounter criticism.
+
+
+216
+0:11:58,2 --> 0:12:1,9
+What has amazed me
+is the viciousness
+
+
+217
+0:12:1,9 --> 0:12:6,3
+And the sort
+of baseness of it.
+
+
+218
+0:12:6,3 --> 0:12:8,2
+I'm an old guy.
+I have tenure.
+
+
+219
+0:12:8,2 --> 0:12:9,7
+I'm academically safe.
+
+
+220
+0:12:9,7 --> 0:12:11,4
+But the young people
+
+
+221
+0:12:11,4 --> 0:12:14,2
+And what
+is happening to them
+in america right now
+
+
+222
+0:12:14,2 --> 0:12:16,6
+Because of this
+scientism gulag
+
+
+223
+0:12:16,6 --> 0:12:18,3
+Is really terrible.
+
+
+224
+0:12:18,3 --> 0:12:20,2
+Apparently professor marks
+
+
+225
+0:12:20,2 --> 0:12:22,1
+Was not as safe
+as he thought.
+
+
+226
+0:12:22,1 --> 0:12:24,3
+A few months
+after this interview,
+
+
+227
+0:12:24,3 --> 0:12:27,7
+Baylor university shut down
+his research web site
+
+
+228
+0:12:27,7 --> 0:12:30,1
+And forced him
+to return grant money
+
+
+229
+0:12:30,1 --> 0:12:31,6
+Once they
+discovered a link
+
+
+230
+0:12:31,6 --> 0:12:34,4
+Between his work
+and intelligent design.
+
+
+231
+0:12:34,4 --> 0:12:37,5
+In order to attract grants,
+you have to market yourself.
+
+
+232
+0:12:37,5 --> 0:12:39,0
+So you put up sites
+and call yourself
+
+
+233
+0:12:39,0 --> 0:12:41,0
+"labs" and "groups"
+and things like that
+
+
+234
+0:12:41,0 --> 0:12:42,7
+In order to get
+visibility.
+
+
+235
+0:12:42,7 --> 0:12:45,3
+And in my entire
+experience in academia
+
+
+236
+0:12:45,3 --> 0:12:47,3
+I never went
+to any superior
+
+
+237
+0:12:47,3 --> 0:12:49,3
+And asked them
+any permission
+
+
+238
+0:12:49,3 --> 0:12:51,4
+To put up
+any of these labs.
+
+
+239
+0:12:51,4 --> 0:12:54,9
+So the fact that
+this was singled out,
+
+
+240
+0:12:54,9 --> 0:12:58,7
+Let alone shut down,
+is jaw-dropping.
+It's astonishing.
+
+
+241
+0:12:58,7 --> 0:13:2,8
+I have never been treated
+like this in my--
+
+
+242
+0:13:2,8 --> 0:13:4,6
+About 30 years in academia.
+
+
+243
+0:13:4,6 --> 0:13:8,3
+Shut up, you freak!
+I said shut up!
+
+
+244
+0:13:8,3 --> 0:13:11,8
+[echoing]
+it's a madhouse!
+
+
+245
+0:13:11,8 --> 0:13:13,8
+If you peel back
+the onion,
+
+
+246
+0:13:13,8 --> 0:13:15,4
+I think that
+there's no doubt
+
+
+247
+0:13:15,4 --> 0:13:18,0
+That the center
+of this is my work
+
+
+248
+0:13:18,0 --> 0:13:22,1
+In what some would call
+intelligent design.
+
+
+249
+0:13:22,1 --> 0:13:25,5
+Dr. Gonzalez:
+people really get
+emotional about this.
+
+
+250
+0:13:25,5 --> 0:13:29,2
+Whenever you say
+"intelligent design"
+in a room of academics,
+
+
+251
+0:13:29,2 --> 0:13:32,0
+Them's fighting words.
+
+
+252
+0:13:32,0 --> 0:13:33,2
+Creationists!
+
+
+253
+0:13:33,2 --> 0:13:35,9
+Astronomer
+guillermo gonzalez
+
+
+254
+0:13:35,9 --> 0:13:38,7
+Found himself
+in a fierce shootout
+
+
+255
+0:13:38,7 --> 0:13:40,2
+With iowa state university,
+
+
+256
+0:13:40,2 --> 0:13:42,2
+Following the publication
+of his book
+
+
+257
+0:13:42,2 --> 0:13:45,5
+Arguing that the universe
+is intelligently designed.
+
+
+258
+0:13:45,5 --> 0:13:48,2
+Despite a stellar
+research record
+
+
+259
+0:13:48,2 --> 0:13:51,3
+That has led
+to the discovery
+of several planets,
+
+
+260
+0:13:51,3 --> 0:13:54,1
+His application
+for tenure was denied,
+
+
+261
+0:13:54,1 --> 0:13:55,9
+Putting his career
+in jeopardy.
+
+
+262
+0:13:55,9 --> 0:14:0,5
+I worried about my tenure
+a little bit in 2005
+
+
+263
+0:14:0,5 --> 0:14:3,6
+When the petition
+was being circulated
+
+
+264
+0:14:3,6 --> 0:14:5,3
+Because I viewed
+that as a strategy
+
+
+265
+0:14:5,3 --> 0:14:7,4
+Of hector avalos
+and his associates
+
+
+266
+0:14:7,4 --> 0:14:10,2
+To try to poison
+the atmosphere
+on campus against me
+
+
+267
+0:14:10,2 --> 0:14:12,1
+Because he knew I
+wasn't tenured yet
+
+
+268
+0:14:12,1 --> 0:14:13,6
+And I was
+very vulnerable.
+
+
+269
+0:14:13,6 --> 0:14:15,9
+I have little doubt that
+I would have tenure now
+
+
+270
+0:14:15,9 --> 0:14:18,9
+If I hadn't done
+any professional work
+on intelligent design.
+
+
+271
+0:14:18,9 --> 0:14:22,2
+Dr. Gonzalez had
+this advice for scientists
+
+
+272
+0:14:22,2 --> 0:14:25,0
+Who might be thinking
+about following his example.
+
+
+273
+0:14:25,0 --> 0:14:27,5
+If they value
+their careers--
+
+
+274
+0:14:27,5 --> 0:14:29,2
+[laughs]
+they should keep quiet
+
+
+275
+0:14:29,2 --> 0:14:31,5
+About their
+intelligent design views.
+
+
+276
+0:14:31,5 --> 0:14:34,2
+We know there are times
+and places to be quiet
+
+
+277
+0:14:34,2 --> 0:14:35,8
+And other times and places
+
+
+278
+0:14:35,8 --> 0:14:38,0
+When we can make noise
+if we want to.
+
+
+279
+0:14:38,0 --> 0:14:40,9
+- filmstrip narrator:
+will you show us?
+- of course.
+
+
+280
+0:14:40,9 --> 0:14:42,2
+Boys and girls,
+
+
+281
+0:14:42,2 --> 0:14:43,8
+How would you like to show
+
+
+282
+0:14:43,8 --> 0:14:46,5
+Some of the ways we know
+of being quiet?
+
+
+283
+0:14:46,5 --> 0:14:49,2
+Man #1: it's the kind of thing
+where you just learn
+to keep your mouth shut.
+
+
+284
+0:14:49,2 --> 0:14:51,2
+Stein: in addition
+to those scientists
+
+
+285
+0:14:51,2 --> 0:14:52,7
+Who were willing
+to appear on camera,
+
+
+286
+0:14:52,7 --> 0:14:55,8
+We encountered many more
+who didn't dare show their face
+
+
+287
+0:14:55,8 --> 0:14:58,2
+For fear of losing
+their jobs.
+
+
+288
+0:14:58,2 --> 0:15:0,5
+Man #2: you use
+an intelligent design
+perspective
+
+
+289
+0:15:0,5 --> 0:15:2,3
+To get the research done,
+
+
+290
+0:15:2,3 --> 0:15:5,1
+But you're not allowed
+to talk about it in public.
+
+
+291
+0:15:5,1 --> 0:15:8,1
+Man #3: and so there is
+definitely incentive,
+if you think about it,
+
+
+292
+0:15:8,1 --> 0:15:10,1
+For people to remain
+within the mainstream.
+
+
+293
+0:15:10,1 --> 0:15:12,1
+Man #4: you know,
+"what's he up to?
+
+
+294
+0:15:12,1 --> 0:15:14,7
+What is he thinking?
+Is he one of them?"
+that kind of thing.
+
+
+295
+0:15:14,7 --> 0:15:16,5
+Man #5: if I write
+"intelligent design,"
+
+
+296
+0:15:16,5 --> 0:15:18,2
+They hear "creationism,"
+
+
+297
+0:15:18,2 --> 0:15:22,1
+They hear "religious right,"
+they hear "theocracy."
+
+
+298
+0:15:22,1 --> 0:15:26,3
+So it appears mr. Shermer,
+the self-styled skeptic,
+
+
+299
+0:15:26,3 --> 0:15:27,8
+Was wrong on this one.
+
+
+300
+0:15:27,8 --> 0:15:30,4
+Intelligent design
+was being suppressed
+
+
+301
+0:15:30,4 --> 0:15:32,9
+In a systematic
+and ruthless fashion.
+
+
+302
+0:15:32,9 --> 0:15:35,8
+But maybe intelligent design
+should be suppressed.
+
+
+303
+0:15:35,8 --> 0:15:38,0
+I didn't like
+what was happening
+to these scientists,
+
+
+304
+0:15:38,0 --> 0:15:39,2
+But on the other hand,
+
+
+305
+0:15:39,2 --> 0:15:40,7
+We don't want
+our kids being taught
+
+
+306
+0:15:40,7 --> 0:15:41,9
+That the earth is flat
+
+
+307
+0:15:41,9 --> 0:15:44,2
+Or the the holocaust
+never happened.
+
+
+308
+0:15:44,2 --> 0:15:46,6
+It was time to ask
+the scientific establishment
+
+
+309
+0:15:46,6 --> 0:15:50,0
+What was so bad
+about intelligent design.
+
+
+310
+0:15:50,0 --> 0:15:52,5
+Intelligent design people
+are not genuine scientists.
+
+
+311
+0:15:52,5 --> 0:15:54,3
+Intelligent design
+is a racket.
+
+
+312
+0:15:54,3 --> 0:15:56,2
+It's just propaganda.
+
+
+313
+0:15:56,2 --> 0:15:58,1
+The only intelligent
+thing about it
+
+
+314
+0:15:58,1 --> 0:16:0,1
+Is to have got people
+to call it that.
+
+
+315
+0:16:0,1 --> 0:16:2,6
+It's really
+very stupid, as well.
+
+
+316
+0:16:2,6 --> 0:16:4,7
+Everybody knows
+science education
+
+
+317
+0:16:4,7 --> 0:16:6,3
+In america
+is appalling.
+
+
+318
+0:16:6,3 --> 0:16:8,1
+What we don't need
+at this time
+
+
+319
+0:16:8,1 --> 0:16:10,5
+Is intelligent design
+in the classrooms.
+
+
+320
+0:16:10,5 --> 0:16:12,9
+To present
+intelligent design
+
+
+321
+0:16:12,9 --> 0:16:15,2
+Stunts their
+educational growth.
+
+
+322
+0:16:15,2 --> 0:16:17,6
+It stunts their
+intellectual growth.
+
+
+323
+0:16:17,6 --> 0:16:19,0
+But what I don't understand
+
+
+324
+0:16:19,0 --> 0:16:20,7
+Is how these animals
+could've been on earth
+
+
+325
+0:16:20,7 --> 0:16:22,1
+Millions of years
+before man
+
+
+326
+0:16:22,1 --> 0:16:25,8
+When the bible says
+the whole earth was created
+in only six days.
+
+
+327
+0:16:25,8 --> 0:16:29,3
+It wasn't just
+the educational aspects
+of intelligent design
+
+
+328
+0:16:29,3 --> 0:16:31,2
+That had scientists
+concerned.
+
+
+329
+0:16:31,2 --> 0:16:35,1
+Many suspected the movement
+masked a much larger agenda.
+
+
+330
+0:16:35,1 --> 0:16:38,5
+Intelligent design
+is a set of excuses
+
+
+331
+0:16:38,5 --> 0:16:40,9
+To squeeze creationism
+into the classrooms.
+
+
+332
+0:16:40,9 --> 0:16:43,8
+Get intelligent design
+in the schools today,
+
+
+333
+0:16:43,8 --> 0:16:46,3
+And we can have
+school prayers tomorrow.
+
+
+334
+0:16:46,3 --> 0:16:48,1
+Chorus:
+ hallelujah 
+
+
+335
+0:16:48,1 --> 0:16:49,6
+ hallelujah 
+
+
+336
+0:16:49,6 --> 0:16:51,5
+Stein: any other complaints?
+
+
+337
+0:16:51,5 --> 0:16:56,0
+Can you imagine
+anything more boring?
+
+
+338
+0:16:56,0 --> 0:17:0,9
+The boredom attached
+to id is supreme.
+
+
+339
+0:17:0,9 --> 0:17:2,5
+It is so boring
+
+
+340
+0:17:2,5 --> 0:17:6,0
+That I can't even bother
+to think about it
+much any more.
+
+
+341
+0:17:6,0 --> 0:17:10,2
+It's just utterly boring.
+
+
+342
+0:17:10,2 --> 0:17:12,3
+John paul young:
+ love is in the air 
+
+
+343
+0:17:12,3 --> 0:17:17,7
+ everywhere I look around 
+
+
+344
+0:17:17,7 --> 0:17:19,8
+ love is in the air 
+
+
+345
+0:17:19,8 --> 0:17:25,2
+ every sight
+and every sound 
+
+
+346
+0:17:25,2 --> 0:17:27,1
+Stein: love was
+in the air, all right,
+
+
+347
+0:17:27,1 --> 0:17:30,6
+But none of it was directed
+toward intelligent design.
+
+
+348
+0:17:30,6 --> 0:17:32,6
+There seemed to be
+a lot to hate about id,
+
+
+349
+0:17:32,6 --> 0:17:36,9
+And nearly all of that hatred
+was focused on one place.
+
+
+350
+0:17:36,9 --> 0:17:40,0
+The people in the--
+from the discovery institute--
+
+
+351
+0:17:40,0 --> 0:17:42,4
+The people who are doing
+the intelligent design--
+
+
+352
+0:17:42,4 --> 0:17:45,8
+They're all varnish
+and no product.
+
+
+353
+0:17:45,8 --> 0:17:48,0
+The discovery institute
+is a propaganda mill.
+
+
+354
+0:17:48,0 --> 0:17:50,0
+It's a--
+it's an institution
+
+
+355
+0:17:50,0 --> 0:17:53,7
+Designed to suck in money
+from religious investors
+
+
+356
+0:17:53,7 --> 0:17:58,0
+And turn it into a sanitized,
+somewhat secular version
+
+
+357
+0:17:58,0 --> 0:18:0,9
+Of the creation story
+to get it into the schools.
+
+
+358
+0:18:0,9 --> 0:18:4,3
+If they have a way
+of understanding nature
+
+
+359
+0:18:4,3 --> 0:18:7,0
+That's superior
+to the one that we all
+
+
+360
+0:18:7,0 --> 0:18:9,6
+Are making lots of
+discoveries using, great.
+
+
+361
+0:18:9,6 --> 0:18:11,7
+- bring it on.
+- [rings]
+
+
+362
+0:18:11,7 --> 0:18:18,6
+[norman greenbaum's
+"spirit in the sky" plays]
+
+
+363
+0:18:18,6 --> 0:18:20,6
+We are really,
+really lost.
+
+
+364
+0:18:20,6 --> 0:18:23,3
+I think it's on third.
+
+
+365
+0:18:23,3 --> 0:18:26,0
+I think it's on third.
+I think it's down there.
+
+
+366
+0:18:26,0 --> 0:18:33,0
+I have no idea
+where this place is.
+
+
+367
+0:18:33,0 --> 0:18:35,1
+I guess I just
+keep walking.
+
+
+368
+0:18:35,1 --> 0:18:38,8
+Do you have any idea where
+the discovery institute is?
+
+
+369
+0:18:38,8 --> 0:18:40,1
+Have you ever heard
+of that?
+
+
+370
+0:18:40,1 --> 0:18:42,4
+- never heard of it.
+- stein: okay, thank you.
+
+
+371
+0:18:42,4 --> 0:18:44,3
+- man: hey, ben.
+- how are you, sir?
+
+
+372
+0:18:44,3 --> 0:18:46,0
+- man: i'm good. Yourself?
+- good.
+
+
+373
+0:18:46,0 --> 0:18:49,0
+Do you have any idea where
+the discovery institute is?
+
+
+374
+0:18:49,0 --> 0:18:51,6
+- not a clue.
+- discovery institute?
+
+
+375
+0:18:51,6 --> 0:18:53,9
+- thank you, it's very kind
+of you to offer--
+- welcome to seattle.
+
+
+376
+0:18:53,9 --> 0:18:56,9
+Thank you, sir.
+
+
+377
+0:18:56,9 --> 0:19:1,0
+It's gotta be
+this whole building.
+
+
+378
+0:19:1,0 --> 0:19:3,3
+Yes, where is
+the discovery institute,
+please?
+
+
+379
+0:19:3,3 --> 0:19:5,8
+Discovery institute--
+on the eighth floor,
+suite 808.
+
+
+380
+0:19:5,8 --> 0:19:7,4
+ when I die
+and they lay me to rest 
+
+
+381
+0:19:7,4 --> 0:19:10,7
+ gonna go to the place
+that's the best 
+
+
+382
+0:19:10,7 --> 0:19:12,0
+Okay, very good.
+
+
+383
+0:19:12,0 --> 0:19:13,9
+ when I lay me
+down to die 
+
+
+384
+0:19:13,9 --> 0:19:15,2
+ goin' up
+to the spirit in the sky 
+
+
+385
+0:19:15,2 --> 0:19:18,5
+Aha, success at last.
+
+
+386
+0:19:18,5 --> 0:19:20,7
+ goin' up
+to the spirit in the sky 
+
+
+387
+0:19:20,7 --> 0:19:24,2
+Aha, we found you.
+
+
+388
+0:19:24,2 --> 0:19:25,7
+Are you bruce chapman?
+
+
+389
+0:19:25,7 --> 0:19:27,1
+- I am.
+- how are you?
+I'm ben stein.
+
+
+390
+0:19:27,1 --> 0:19:28,7
+- welcome.
+- kind of you to have me here.
+
+
+391
+0:19:28,7 --> 0:19:30,5
+Delighted to meet you.
+
+
+392
+0:19:30,5 --> 0:19:31,9
+Can I look around
+and see your offices?
+
+
+393
+0:19:31,9 --> 0:19:33,5
+Absolutely.
+
+
+394
+0:19:33,5 --> 0:19:35,3
+Do you just have
+this floor,
+
+
+395
+0:19:35,3 --> 0:19:37,4
+Or do you have several
+other floors as well?
+
+
+396
+0:19:37,4 --> 0:19:39,5
+- chapman:
+no, this is it.
+- this is it?
+
+
+397
+0:19:39,5 --> 0:19:41,0
+You've made
+an awful lot of trouble
+
+
+398
+0:19:41,0 --> 0:19:42,4
+For being such
+a small office.
+
+
+399
+0:19:42,4 --> 0:19:44,5
+I thought it was going
+to be like the pentagon.
+
+
+400
+0:19:44,5 --> 0:19:47,7
+We're like
+the little boy that said
+the emperor has no clothes.
+
+
+401
+0:19:47,7 --> 0:19:50,2
+And he didn't have
+a big organization either.
+
+
+402
+0:19:50,2 --> 0:19:52,5
+When you go around
+and raise funds,
+
+
+403
+0:19:52,5 --> 0:19:54,8
+Your people are
+not saying to them,
+
+
+404
+0:19:54,8 --> 0:19:56,6
+"by the way,
+we're going to get
+
+
+405
+0:19:56,6 --> 0:19:58,9
+"all these scientists
+out of the classroom
+
+
+406
+0:19:58,9 --> 0:20:1,1
+And put Christ back
+in the classroom?"
+
+
+407
+0:20:1,1 --> 0:20:2,8
+Well, I don't know
+that Christ
+
+
+408
+0:20:2,8 --> 0:20:4,7
+Has ever been
+in the science classroom.
+
+
+409
+0:20:4,7 --> 0:20:6,6
+This is not
+a religious argument.
+
+
+410
+0:20:6,6 --> 0:20:8,0
+This is something
+that people--
+
+
+411
+0:20:8,0 --> 0:20:11,2
+We have fellows
+who are jewish
+or agnostic
+
+
+412
+0:20:11,2 --> 0:20:12,9
+Or various other things.
+
+
+413
+0:20:12,9 --> 0:20:16,2
+There are--there are
+moslem scientists.
+
+
+414
+0:20:16,2 --> 0:20:18,3
+There are people
+of all kinds of backgrounds
+
+
+415
+0:20:18,3 --> 0:20:20,1
+Who agree
+that darwin's theory
+has failed.
+
+
+416
+0:20:20,1 --> 0:20:22,0
+So why would you bring
+religion into it?
+
+
+417
+0:20:22,0 --> 0:20:25,1
+You don't need religion.
+This is a red herring, ben.
+
+
+418
+0:20:25,1 --> 0:20:26,8
+People who don't have
+an argument
+
+
+419
+0:20:26,8 --> 0:20:29,6
+Are reduced to throwing
+sand in your eyes.
+
+
+420
+0:20:29,6 --> 0:20:31,1
+If the discovery institute
+
+
+421
+0:20:31,1 --> 0:20:33,6
+Could get its wish
+about this subject,
+
+
+422
+0:20:33,6 --> 0:20:35,0
+What would your wish be?
+
+
+423
+0:20:35,0 --> 0:20:37,1
+Well, on this subject,
+as on others,
+
+
+424
+0:20:37,1 --> 0:20:39,2
+We'd like people
+to be able to have
+
+
+425
+0:20:39,2 --> 0:20:41,9
+A robust dialogue
+and even a debate
+
+
+426
+0:20:41,9 --> 0:20:43,9
+Where the best evidence--
+
+
+427
+0:20:43,9 --> 0:20:46,3
+In this case
+the best scientific evidence--
+
+
+428
+0:20:46,3 --> 0:20:48,1
+Is made available to people.
+
+
+429
+0:20:48,1 --> 0:20:50,7
+Surely no one questions
+there should be a debate.
+
+
+430
+0:20:50,7 --> 0:20:52,2
+Oh, yes, they do.
+
+
+431
+0:20:52,2 --> 0:20:54,1
+- they do?
+- they say the debate
+has been settled,
+
+
+432
+0:20:54,1 --> 0:20:56,9
+- that the issue's settled.
+- when was the debate settled?
+
+
+433
+0:20:56,9 --> 0:20:58,6
+Ben, i'd like you to talk
+to the scientists.
+
+
+434
+0:20:58,6 --> 0:21:0,5
+You don't want to get
+your science from me.
+
+
+435
+0:21:0,5 --> 0:21:3,7
+Mr. Chapman claimed id had
+nothing to do with religion,
+
+
+436
+0:21:3,7 --> 0:21:7,2
+So why was my first stop
+biola university,
+
+
+437
+0:21:7,2 --> 0:21:11,8
+Formerly known
+as the bible institute
+of los angeles?
+
+
+438
+0:21:11,8 --> 0:21:15,0
+[johnny cash's
+"personal Jesus" plays]
+
+
+439
+0:21:15,0 --> 0:21:23,4
+ your own personal Jesus 
+
+
+440
+0:21:23,4 --> 0:21:26,2
+ someone to hear
+your prayers 
+
+
+441
+0:21:26,2 --> 0:21:28,0
+ someone who cares 
+
+
+442
+0:21:28,0 --> 0:21:30,7
+Nelson: string theory
+will be a footnote
+in the history of science.
+
+
+443
+0:21:30,7 --> 0:21:33,7
+The inference that
+stonehenge was caused
+by intelligence...
+
+
+444
+0:21:33,7 --> 0:21:39,5
+ your own
+personal Jesus 
+
+
+445
+0:21:39,5 --> 0:21:41,5
+ someone to hear
+your prayers 
+
+
+446
+0:21:41,5 --> 0:21:52,9
+ someone who's there 
+
+
+447
+0:21:52,9 --> 0:21:56,8
+Stein: how much money
+have you ever gotten
+from jerry falwell?
+
+
+448
+0:21:56,8 --> 0:21:58,4
+Uh, zero dollars.
+
+
+449
+0:21:58,4 --> 0:21:59,7
+How about
+pat robertson?
+
+
+450
+0:21:59,7 --> 0:22:1,0
+Zero.
+
+
+451
+0:22:1,0 --> 0:22:1,9
+Are you a minister?
+
+
+452
+0:22:1,9 --> 0:22:3,1
+No.
+
+
+453
+0:22:3,1 --> 0:22:4,7
+- are you a priest?
+- no.
+
+
+454
+0:22:4,7 --> 0:22:5,7
+- pastor?
+- no.
+
+
+455
+0:22:5,7 --> 0:22:7,4
+- youth pastor?
+- no.
+
+
+456
+0:22:7,4 --> 0:22:8,9
+I did teach
+Sunday school once.
+
+
+457
+0:22:8,9 --> 0:22:10,7
+Hasn't this all
+been resolved?
+
+
+458
+0:22:10,7 --> 0:22:12,4
+Aren't we all
+darwinists now,
+
+
+459
+0:22:12,4 --> 0:22:14,9
+Except for a few
+cranks like you?
+
+
+460
+0:22:14,9 --> 0:22:17,8
+Well, it's a funny thing
+that questions
+
+
+461
+0:22:17,8 --> 0:22:21,6
+That aren't properly answered
+don't go away.
+
+
+462
+0:22:21,6 --> 0:22:25,7
+This question
+is loaded with all kinds
+of political baggage,
+
+
+463
+0:22:25,7 --> 0:22:27,9
+But one-on-one
+at a scientific meeting
+
+
+464
+0:22:27,9 --> 0:22:29,6
+After the third
+or fourth beer,
+
+
+465
+0:22:29,6 --> 0:22:31,2
+My experience has been
+
+
+466
+0:22:31,2 --> 0:22:32,9
+That many
+evolutionary biologists
+
+
+467
+0:22:32,9 --> 0:22:35,6
+Will say, "yeah,
+this theory's got
+a lot of problems."
+
+
+468
+0:22:35,6 --> 0:22:36,9
+So you mean to tell me
+
+
+469
+0:22:36,9 --> 0:22:39,5
+That there really is
+a debate among scientists
+
+
+470
+0:22:39,5 --> 0:22:41,8
+About whether or not
+evolution occurred?
+
+
+471
+0:22:41,8 --> 0:22:44,1
+Well, "evolution"
+is a kind of funny word.
+
+
+472
+0:22:44,1 --> 0:22:46,2
+It depends
+on how one defines it.
+
+
+473
+0:22:46,2 --> 0:22:49,7
+If it means simply
+change over time,
+
+
+474
+0:22:49,7 --> 0:22:52,7
+Even the most rock-ribbed
+fundamentalist
+
+
+475
+0:22:52,7 --> 0:22:55,5
+Knows that the history
+of the earth has changed--
+
+
+476
+0:22:55,5 --> 0:22:57,6
+That there's been
+change over time.
+
+
+477
+0:22:57,6 --> 0:22:59,7
+If you define evolution
+precisely, though,
+
+
+478
+0:22:59,7 --> 0:23:2,4
+To mean the common descent
+of all life on earth
+
+
+479
+0:23:2,4 --> 0:23:4,4
+From a single ancestor
+
+
+480
+0:23:4,4 --> 0:23:7,2
+Via undirected mutation
+and natural selection--
+
+
+481
+0:23:7,2 --> 0:23:10,1
+That's textbook definition
+of neo-darwinism--
+
+
+482
+0:23:10,1 --> 0:23:13,2
+Biologists of the first rank
+have real questions.
+
+
+483
+0:23:13,2 --> 0:23:16,1
+But the modern theory
+of intelligent design
+
+
+484
+0:23:16,1 --> 0:23:19,3
+Is just microwaved
+creationism.
+
+
+485
+0:23:19,3 --> 0:23:21,1
+I don't think
+that's the case.
+
+
+486
+0:23:21,1 --> 0:23:23,1
+Creationism,
+properly understood,
+
+
+487
+0:23:23,1 --> 0:23:24,8
+Begins with the bible
+and says,
+
+
+488
+0:23:24,8 --> 0:23:29,0
+"how can I fit the bible
+into the data of science?"
+
+
+489
+0:23:29,0 --> 0:23:31,2
+Intelligent design
+doesn't do that.
+
+
+490
+0:23:31,2 --> 0:23:34,8
+Intelligent design
+is the study
+of patterns in nature
+
+
+491
+0:23:34,8 --> 0:23:38,1
+That are best explained
+as a result of intelligence.
+
+
+492
+0:23:38,1 --> 0:23:40,7
+So intelligent designers
+believe that God
+is the designer.
+
+
+493
+0:23:40,7 --> 0:23:42,9
+Not necessarily.
+
+
+494
+0:23:42,9 --> 0:23:45,3
+Intelligent design
+is a minimal commitment,
+
+
+495
+0:23:45,3 --> 0:23:47,5
+Scientifically,
+to the possibility
+
+
+496
+0:23:47,5 --> 0:23:49,9
+Of detecting
+intelligent causation.
+
+
+497
+0:23:49,9 --> 0:23:53,3
+Dr. Nelson didn't
+sound like a crazy person,
+
+
+498
+0:23:53,3 --> 0:23:57,2
+But I still suspected
+id was nothing but
+reheated creationism.
+
+
+499
+0:23:57,2 --> 0:23:59,0
+My next stop
+didn't seem like
+
+
+500
+0:23:59,0 --> 0:24:1,5
+It was going
+to alleviate those fears.
+
+
+501
+0:24:1,5 --> 0:24:3,8
+Male country singer:
+ didn't crawl
+out of the ocean 
+
+
+502
+0:24:3,8 --> 0:24:6,5
+ I didn't come
+from no monkey 
+
+
+503
+0:24:6,5 --> 0:24:8,8
+ but science tends
+to forget 
+
+
+504
+0:24:8,8 --> 0:24:11,4
+ evolution's just a theory 
+
+
+505
+0:24:11,4 --> 0:24:13,6
+ they present it
+in the textbooks 
+
+
+506
+0:24:13,6 --> 0:24:15,4
+ and on animal tv 
+
+
+507
+0:24:15,4 --> 0:24:16,9
+ like it's fact 
+
+
+508
+0:24:16,9 --> 0:24:18,8
+ but tell me
+were you there 
+
+
+509
+0:24:18,8 --> 0:24:25,0
+ 12 million b.C.? 
+
+
+510
+0:24:25,0 --> 0:24:28,3
+Evolution is a--
+from an intelligent design
+perspective,
+
+
+511
+0:24:28,3 --> 0:24:31,0
+Is perfectly acceptable
+if the sense is that
+
+
+512
+0:24:31,0 --> 0:24:32,9
+"how did the design
+get implemented?"
+
+
+513
+0:24:32,9 --> 0:24:36,3
+The issue is, is there
+a real design there
+
+
+514
+0:24:36,3 --> 0:24:38,6
+And are these
+material mechanisms,
+
+
+515
+0:24:38,6 --> 0:24:40,0
+Like natural selection,
+
+
+516
+0:24:40,0 --> 0:24:42,1
+Are these adequate
+to account for everything
+
+
+517
+0:24:42,1 --> 0:24:44,5
+We see in biology?
+
+
+518
+0:24:44,5 --> 0:24:46,5
+And our argument
+is no, it's not.
+
+
+519
+0:24:46,5 --> 0:24:48,5
+But darwin produced
+all this evidence
+
+
+520
+0:24:48,5 --> 0:24:51,1
+From his travels
+and his studies
+at the galapagos
+
+
+521
+0:24:51,1 --> 0:24:52,8
+That evolution
+explained things.
+
+
+522
+0:24:52,8 --> 0:24:54,5
+If you look
+at the history of science,
+
+
+523
+0:24:54,5 --> 0:24:56,1
+People often have
+a good idea,
+
+
+524
+0:24:56,1 --> 0:24:57,7
+And then they decide
+just to run with it.
+
+
+525
+0:24:57,7 --> 0:24:59,9
+And they say, "we're going
+to apply this everywhere."
+
+
+526
+0:24:59,9 --> 0:25:1,8
+So darwin takes his idea
+of natural selection
+
+
+527
+0:25:1,8 --> 0:25:4,0
+And says,
+"i'm going to explain
+all of life with it.
+
+
+528
+0:25:4,0 --> 0:25:7,0
+Physics used to be
+newtonian physics.
+
+
+529
+0:25:7,0 --> 0:25:8,5
+Newton was physics.
+
+
+530
+0:25:8,5 --> 0:25:11,1
+And then you gotta
+look to einstein,
+general relativity.
+
+
+531
+0:25:11,1 --> 0:25:12,6
+It's not newton is enough.
+
+
+532
+0:25:12,6 --> 0:25:14,6
+I think, likewise,
+what we're finding with darwin
+
+
+533
+0:25:14,6 --> 0:25:16,6
+Is that he had
+some valid insights,
+
+
+534
+0:25:16,6 --> 0:25:18,4
+But it's not
+the whole picture.
+
+
+535
+0:25:18,4 --> 0:25:22,1
+Okay, darwinism may not be
+the complete picture,
+
+
+536
+0:25:22,1 --> 0:25:23,9
+But what made
+these guys think
+
+
+537
+0:25:23,9 --> 0:25:25,8
+They had
+the missing pieces?
+
+
+538
+0:25:25,8 --> 0:25:28,0
+I put this question
+to dr. Stephen meyer,
+
+
+539
+0:25:28,0 --> 0:25:30,2
+Author of the paper
+that originally got
+
+
+540
+0:25:30,2 --> 0:25:32,3
+Dr. Sternberg
+in so much trouble.
+
+
+541
+0:25:32,3 --> 0:25:34,8
+Stein: it's hard to believe
+that this little town
+
+
+542
+0:25:34,8 --> 0:25:37,5
+Is the headquarters
+of giant microsoft,
+
+
+543
+0:25:37,5 --> 0:25:41,2
+Which enabled mr. Gates
+to become fantastically rich.
+
+
+544
+0:25:41,2 --> 0:25:43,6
+Maybe that's what
+steve meyer's doing here.
+
+
+545
+0:25:43,6 --> 0:25:47,8
+Maybe this is somehow
+going to make him
+fantastically rich.
+
+
+546
+0:25:47,8 --> 0:25:50,0
+We'll pin him down
+
+
+547
+0:25:50,0 --> 0:25:55,6
+Like a butterfly
+on a butterfly board--
+
+
+548
+0:25:55,6 --> 0:25:59,0
+A butterfly
+on a killing board.
+
+
+549
+0:25:59,0 --> 0:26:1,4
+Coffee shop
+straight ahead.
+
+
+550
+0:26:1,4 --> 0:26:5,3
+Stein: newton is buried
+in the genius's corner
+
+
+551
+0:26:5,3 --> 0:26:7,1
+At westminster abbey,
+right?
+
+
+552
+0:26:7,1 --> 0:26:8,7
+That's correct, yeah.
+
+
+553
+0:26:8,7 --> 0:26:11,1
+Darwin is also buried
+in westminster abbey.
+
+
+554
+0:26:11,1 --> 0:26:12,4
+Right. And so is darwin.
+
+
+555
+0:26:12,4 --> 0:26:14,0
+- right, right.
+- right near each other.
+
+
+556
+0:26:14,0 --> 0:26:16,0
+And you're here in redmond
+
+
+557
+0:26:16,0 --> 0:26:18,5
+In a little building
+without a sign, right?
+
+
+558
+0:26:18,5 --> 0:26:19,7
+[laughs]
+
+
+559
+0:26:19,7 --> 0:26:22,3
+And you're obviously
+an incredibly smart guy,
+
+
+560
+0:26:22,3 --> 0:26:23,9
+But how dare you challenge
+
+
+561
+0:26:23,9 --> 0:26:26,7
+Someone who's buried
+in the genius's corner
+
+
+562
+0:26:26,7 --> 0:26:29,2
+Next to newton
+at westminster abbey.
+
+
+563
+0:26:29,2 --> 0:26:31,5
+Well, it may seem
+a little cheeky,
+
+
+564
+0:26:31,5 --> 0:26:33,5
+But it's what scientists
+are supposed to do.
+
+
+565
+0:26:33,5 --> 0:26:34,9
+When I was in cambridge,
+
+
+566
+0:26:34,9 --> 0:26:37,7
+One of my supervisors
+often advised us
+
+
+567
+0:26:37,7 --> 0:26:41,1
+To beware the sound
+of one hand clapping,
+
+
+568
+0:26:41,1 --> 0:26:44,0
+Which was a way of saying
+if there's an argument
+on one side,
+
+
+569
+0:26:44,0 --> 0:26:46,2
+There's bound to be
+an argument on the other.
+
+
+570
+0:26:46,2 --> 0:26:48,5
+What I found in studying
+the structure
+
+
+571
+0:26:48,5 --> 0:26:51,0
+Of the argument
+in the origin of species
+
+
+572
+0:26:51,0 --> 0:26:53,4
+Is that for every
+evidence-based argument
+
+
+573
+0:26:53,4 --> 0:26:56,2
+For one of darwin's
+two key propositions,
+
+
+574
+0:26:56,2 --> 0:26:58,1
+There is an evidence-based
+counterargument.
+
+
+575
+0:26:58,1 --> 0:26:59,7
+Well, but--is it a debate?
+
+
+576
+0:26:59,7 --> 0:27:1,8
+There's just you
+and a couple of other guys
+
+
+577
+0:27:1,8 --> 0:27:5,4
+In a dinky little office
+downtown, say, on one side,
+
+
+578
+0:27:5,4 --> 0:27:7,1
+And there's
+the faculties of all
+
+
+579
+0:27:7,1 --> 0:27:9,4
+The great universities
+in the world
+on the other side.
+
+
+580
+0:27:9,4 --> 0:27:11,8
+Speaking with a great, uniform,
+and authoritative voice.
+
+
+581
+0:27:11,8 --> 0:27:12,8
+Yes, right.
+
+
+582
+0:27:12,8 --> 0:27:14,1
+Well, in any case,
+the debate
+
+
+583
+0:27:14,1 --> 0:27:16,4
+Really isn't going to be
+settled by numbers.
+
+
+584
+0:27:16,4 --> 0:27:19,4
+It's going to be settled
+by the evidence
+and the arguments.
+
+
+585
+0:27:19,4 --> 0:27:21,7
+While I was still
+in bill gates country,
+
+
+586
+0:27:21,7 --> 0:27:23,5
+Dr. Meyer
+recommended I check in
+
+
+587
+0:27:23,5 --> 0:27:28,0
+With molecular biologist
+jonathan wells.
+
+
+588
+0:27:28,0 --> 0:27:29,9
+What kind of names
+do they call you?
+
+
+589
+0:27:29,9 --> 0:27:32,5
+- uh, creationist.
+- what do you say
+back to them
+
+
+590
+0:27:32,5 --> 0:27:34,6
+When they say you're
+a creationist?
+
+
+591
+0:27:34,6 --> 0:27:37,1
+Well, I usually don't
+get the opportunity.
+
+
+592
+0:27:37,1 --> 0:27:39,0
+What's at stake
+for you, personally?
+
+
+593
+0:27:39,0 --> 0:27:40,5
+First of all,
+I love science.
+
+
+594
+0:27:40,5 --> 0:27:42,5
+I think
+the way darwinism
+
+
+595
+0:27:42,5 --> 0:27:45,5
+Corrupts the evidence,
+distorts the evidence,
+
+
+596
+0:27:45,5 --> 0:27:46,7
+Is bad for science.
+
+
+597
+0:27:46,7 --> 0:27:48,8
+Well, the other scientists
+will tell you
+
+
+598
+0:27:48,8 --> 0:27:51,1
+To just shut up
+if you love science, okay?
+
+
+599
+0:27:51,1 --> 0:27:55,0
+Because you're sort of being
+a bomb thrower into science.
+
+
+600
+0:27:55,0 --> 0:27:56,6
+I am upsetting
+the applecart.
+
+
+601
+0:27:56,6 --> 0:27:59,5
+I think it deserves
+to be upset in this case.
+
+
+602
+0:27:59,5 --> 0:28:0,5
+Why?
+
+
+603
+0:28:0,5 --> 0:28:2,6
+Because the evidence
+is being distorted
+
+
+604
+0:28:2,6 --> 0:28:5,3
+To prop up a theory that
+I think doesn't fit it.
+
+
+605
+0:28:5,3 --> 0:28:8,3
+Was darwinism
+really that bad?
+
+
+606
+0:28:8,3 --> 0:28:9,9
+Perhaps a change of scenery
+
+
+607
+0:28:9,9 --> 0:28:12,3
+Would give me
+a fresh perspective.
+
+
+608
+0:28:12,3 --> 0:28:38,5
+[man singing in french]
+
+
+609
+0:28:38,5 --> 0:28:40,5
+Mr. Berlinski,
+I assume?
+
+
+610
+0:28:40,5 --> 0:28:42,9
+- ben stein,
+what a pleasure to meet you.
+- how are you, sir?
+
+
+611
+0:28:42,9 --> 0:28:45,3
+So, where are you
+from originally?
+
+
+612
+0:28:45,3 --> 0:28:48,7
+I was born in new york,
+spent 31 years in manhattan.
+
+
+613
+0:28:48,7 --> 0:28:52,0
+- yes.
+- and I spent a lot of time
+in california, too.
+
+
+614
+0:28:52,0 --> 0:28:54,1
+And tell me
+all the various universities
+
+
+615
+0:28:54,1 --> 0:28:55,6
+Where you've studied
+or taught.
+
+
+616
+0:28:55,6 --> 0:28:59,9
+I was at princeton,
+then I had a professorship
+at stanford.
+
+
+617
+0:28:59,9 --> 0:29:2,2
+Then I left stanford,
+and I taught at rutgers.
+
+
+618
+0:29:2,2 --> 0:29:3,6
+I left rutgers,
+and I taught
+
+
+619
+0:29:3,6 --> 0:29:5,3
+At the city college
+in new york.
+
+
+620
+0:29:5,3 --> 0:29:6,7
+I left the city college
+of new york.
+
+
+621
+0:29:6,7 --> 0:29:9,1
+I taught at the baruch college,
+I taught at san jose--
+
+
+622
+0:29:9,1 --> 0:29:10,8
+What did you teach
+at baruch college?
+
+
+623
+0:29:10,8 --> 0:29:12,3
+Anything they wanted.
+Come on in.
+
+
+624
+0:29:12,3 --> 0:29:15,5
+Thank you, monsieur.
+
+
+625
+0:29:15,5 --> 0:29:17,9
+What an old building! Wow.
+
+
+626
+0:29:17,9 --> 0:29:19,3
+It's the oldest in paris.
+
+
+627
+0:29:19,3 --> 0:29:20,9
+You're kidding.
+
+
+628
+0:29:20,9 --> 0:29:22,1
+Merci, monsieur.
+
+
+629
+0:29:22,1 --> 0:29:26,3
+- ah, je vous en prie, monsieur.
+- merci.
+
+
+630
+0:29:26,3 --> 0:29:28,7
+Stein: wow,
+this is fabulous.
+
+
+631
+0:29:28,7 --> 0:29:30,7
+Berlinski:
+let's put it this way.
+
+
+632
+0:29:30,7 --> 0:29:34,3
+Before you can ask
+is darwinian theory
+correct or not,
+
+
+633
+0:29:34,3 --> 0:29:36,6
+You have to ask
+the preliminary question
+
+
+634
+0:29:36,6 --> 0:29:39,6
+"is it clear enough
+so that it could be correct?"
+
+
+635
+0:29:39,6 --> 0:29:41,3
+That's a very
+different question.
+
+
+636
+0:29:41,3 --> 0:29:44,7
+One of my prevailing doctrines
+about darwinian theory
+
+
+637
+0:29:44,7 --> 0:29:46,7
+Is, man, that thing
+is just a mess.
+
+
+638
+0:29:46,7 --> 0:29:50,0
+It's like looking into
+a room full of smoke.
+
+
+639
+0:29:50,0 --> 0:29:51,6
+Nothing in the theory
+
+
+640
+0:29:51,6 --> 0:29:55,3
+Is precisely, clearly,
+carefully defined
+or delineated.
+
+
+641
+0:29:55,3 --> 0:29:56,7
+It lacks all of the rigor
+
+
+642
+0:29:56,7 --> 0:29:58,6
+One expects from
+mathematical physics,
+
+
+643
+0:29:58,6 --> 0:30:0,6
+And mathematical physics
+lacks all the rigor
+
+
+644
+0:30:0,6 --> 0:30:1,9
+One expects
+from mathematics.
+
+
+645
+0:30:1,9 --> 0:30:4,1
+So we're talking about
+a gradual descent
+
+
+646
+0:30:4,1 --> 0:30:5,6
+Down the level
+of intelligibility
+
+
+647
+0:30:5,6 --> 0:30:7,6
+Until we reach
+evolutionary biology.
+
+
+648
+0:30:7,6 --> 0:30:11,0
+We don't even know
+what a species is,
+for heaven's sakes.
+
+
+649
+0:30:11,0 --> 0:30:15,2
+So his theory is smoke,
+but elegant smoke.
+
+
+650
+0:30:15,2 --> 0:30:17,2
+There's a certain
+elegance to it,
+
+
+651
+0:30:17,2 --> 0:30:19,3
+But I think einstein had
+the appropriate remark:
+
+
+652
+0:30:19,3 --> 0:30:21,6
+He preferred to leave
+elegance to his tailor.
+
+
+653
+0:30:21,6 --> 0:30:23,2
+A room full of smoke?
+
+
+654
+0:30:23,2 --> 0:30:25,1
+That certainly wasn't
+what I was hearing
+
+
+655
+0:30:25,1 --> 0:30:28,0
+From prominent darwinists
+like richard dawkins.
+
+
+656
+0:30:28,0 --> 0:30:29,2
+Evolution is a fact.
+
+
+657
+0:30:29,2 --> 0:30:32,3
+It's a fact which is
+established as securely
+
+
+658
+0:30:32,3 --> 0:30:35,7
+As essentially any other fact
+that we have in science.
+
+
+659
+0:30:35,7 --> 0:30:37,9
+Richard dawkins
+is so confident
+
+
+660
+0:30:37,9 --> 0:30:39,3
+That evolution is a fact
+
+
+661
+0:30:39,3 --> 0:30:41,7
+And that therefore
+God doesn't exist
+
+
+662
+0:30:41,7 --> 0:30:43,8
+That he has devoted
+his entire life
+
+
+663
+0:30:43,8 --> 0:30:46,0
+To spreading
+the evolution gospel.
+
+
+664
+0:30:46,0 --> 0:30:48,8
+I'm an atheist with respect
+to the judeo-Christian God
+
+
+665
+0:30:48,8 --> 0:30:51,3
+Because there is not
+a shred of evidence
+
+
+666
+0:30:51,3 --> 0:30:54,4
+In favor
+of the judeo-Christian God.
+
+
+667
+0:30:54,4 --> 0:30:55,8
+It is completely
+right to say
+
+
+668
+0:30:55,8 --> 0:30:57,5
+That since the evidence
+for evolution
+
+
+669
+0:30:57,5 --> 0:31:0,0
+Is so absolutely,
+totally overwhelming--
+
+
+670
+0:31:0,0 --> 0:31:2,7
+Nobody who looks at it
+could possibly doubt that
+
+
+671
+0:31:2,7 --> 0:31:5,4
+If they were sane
+and not stupid--
+
+
+672
+0:31:5,4 --> 0:31:8,3
+So the only remaining
+possibility is that
+they're ignorant,
+
+
+673
+0:31:8,3 --> 0:31:11,8
+And most people who
+don't believe in evolution
+are indeed ignorant.
+
+
+674
+0:31:11,8 --> 0:31:14,5
+But the people I spoke with
+weren't ignorant.
+
+
+675
+0:31:14,5 --> 0:31:17,0
+They were
+highly credentialed scientists.
+
+
+676
+0:31:17,0 --> 0:31:20,2
+So there had to be
+something else going on here.
+
+
+677
+0:31:20,2 --> 0:31:24,8
+So you think the whole theory
+of evolution is false
+
+
+678
+0:31:24,8 --> 0:31:26,5
+Or just certain parts of it?
+
+
+679
+0:31:26,5 --> 0:31:29,0
+Well, again, "evolution"
+is a slippery word.
+
+
+680
+0:31:29,0 --> 0:31:32,9
+I would say minor changes
+within species happen.
+
+
+681
+0:31:32,9 --> 0:31:34,9
+But darwin didn't write
+a book called
+
+
+682
+0:31:34,9 --> 0:31:38,5
+How existing species
+change over time.
+
+
+683
+0:31:38,5 --> 0:31:41,7
+He wrote a book called
+the origin of species.
+
+
+684
+0:31:41,7 --> 0:31:45,2
+- he purported to show
+how this same process--
+- huh, I see.
+
+
+685
+0:31:45,2 --> 0:31:49,1
+...Leads to new species--
+in fact, every species--
+
+
+686
+0:31:49,1 --> 0:31:51,4
+And the evidence
+for that grand claim
+
+
+687
+0:31:51,4 --> 0:31:53,9
+Is, in my opinion,
+almost totally lacking.
+
+
+688
+0:31:53,9 --> 0:31:58,5
+How does darwin--
+or darwinism--say life began?
+
+
+689
+0:31:58,5 --> 0:32:1,1
+Well, he didn't know.
+And, in fact, nobody knows.
+
+
+690
+0:32:1,1 --> 0:32:4,0
+So darwinism,
+strictly defined,
+
+
+691
+0:32:4,0 --> 0:32:6,1
+Starts after
+the origin of life
+
+
+692
+0:32:6,1 --> 0:32:8,2
+And deals only
+with living things.
+
+
+693
+0:32:8,2 --> 0:32:11,8
+How can there be
+a theory about life
+
+
+694
+0:32:11,8 --> 0:32:14,8
+Without a theory
+about how life began?
+
+
+695
+0:32:14,8 --> 0:32:18,8
+Well, a grand, overarching
+evolutionary story,
+
+
+696
+0:32:18,8 --> 0:32:21,1
+Of course, does include
+the origin of life.
+
+
+697
+0:32:21,1 --> 0:32:22,9
+Darwin's theory
+doesn't begin
+
+
+698
+0:32:22,9 --> 0:32:24,6
+Until you have
+the first cell.
+
+
+699
+0:32:24,6 --> 0:32:27,2
+Does someone have a theory
+about how life began?
+
+
+700
+0:32:27,2 --> 0:32:34,3
+[explosion]
+
+
+701
+0:32:34,3 --> 0:32:37,6
+Man: this is the story
+of a small planet in space
+
+
+702
+0:32:37,6 --> 0:32:39,1
+Called earth.
+
+
+703
+0:32:39,1 --> 0:32:41,4
+Stein: for a typical
+darwinian explanation
+
+
+704
+0:32:41,4 --> 0:32:42,9
+Of how life originated,
+
+
+705
+0:32:42,9 --> 0:32:46,7
+Dr. Wells directed me
+toward this documentary.
+
+
+706
+0:32:46,7 --> 0:32:49,1
+Man: the chemical elements
+essential for life--
+
+
+707
+0:32:49,1 --> 0:32:52,5
+Hydrogen, oxygen,
+carbon, and nitrogen--
+
+
+708
+0:32:52,5 --> 0:32:54,7
+Were now in place.
+
+
+709
+0:32:54,7 --> 0:32:59,7
+What was needed was
+a way of combining them.
+
+
+710
+0:32:59,7 --> 0:33:3,3
+Perhaps the energy
+came from lightning.
+
+
+711
+0:33:3,3 --> 0:33:5,3
+- whatever it was--
+- [film pauses]
+
+
+712
+0:33:5,3 --> 0:33:7,0
+Stein: excuse me?
+
+
+713
+0:33:7,0 --> 0:33:9,0
+- [film resumes]
+- man: whatever it was,
+
+
+714
+0:33:9,0 --> 0:33:11,5
+Energy managed to arrange
+these chemical ingredients
+
+
+715
+0:33:11,5 --> 0:33:13,6
+In just the right way.
+
+
+716
+0:33:13,6 --> 0:33:15,4
+Stein: "whatever it was"?
+
+
+717
+0:33:15,4 --> 0:33:18,8
+I was hoping for something
+a little more scientific.
+
+
+718
+0:33:18,8 --> 0:33:21,1
+The most popular idea
+
+
+719
+0:33:21,1 --> 0:33:23,5
+Has been that life
+emerged spontaneously
+
+
+720
+0:33:23,5 --> 0:33:25,2
+From primordial soup.
+
+
+721
+0:33:25,2 --> 0:33:27,4
+In 1953, stanley miller
+
+
+722
+0:33:27,4 --> 0:33:31,3
+Mixed water, methane,
+ammonia, and hydrogen
+
+
+723
+0:33:31,3 --> 0:33:33,5
+To simulate
+the early earth's atmosphere.
+
+
+724
+0:33:33,5 --> 0:33:35,7
+Then he ran electricity
+through it
+
+
+725
+0:33:35,7 --> 0:33:38,3
+In an attempt
+to jump-start life.
+
+
+726
+0:33:38,3 --> 0:33:39,7
+It's alive!
+It's alive!
+
+
+727
+0:33:39,7 --> 0:33:41,6
+It's alive!
+
+
+728
+0:33:41,6 --> 0:33:43,6
+It didn't work.
+
+
+729
+0:33:43,6 --> 0:33:46,0
+While the initial results
+seemed promising,
+
+
+730
+0:33:46,0 --> 0:33:48,3
+50 years later
+most serious scientists
+
+
+731
+0:33:48,3 --> 0:33:50,1
+Have abandoned this approach
+
+
+732
+0:33:50,1 --> 0:33:52,1
+In favor
+of alternate theories.
+
+
+733
+0:33:52,1 --> 0:33:54,3
+Prominent darwinist
+michael ruse
+
+
+734
+0:33:54,3 --> 0:33:56,9
+Attempted to explain
+one of them to me.
+
+
+735
+0:33:56,9 --> 0:33:58,8
+He wasn't kidding.
+
+
+736
+0:33:58,8 --> 0:34:1,9
+How did we get
+from an inorganic world
+
+
+737
+0:34:1,9 --> 0:34:4,1
+To the world of the cell?
+
+
+738
+0:34:4,1 --> 0:34:6,5
+Well, one popular
+theory is that it
+
+
+739
+0:34:6,5 --> 0:34:10,2
+Might have started off
+on the backs of crystals.
+
+
+740
+0:34:10,2 --> 0:34:12,9
+My crystal ball.
+
+
+741
+0:34:12,9 --> 0:34:16,8
+Molecules piggybacked
+on the back of crystals forming,
+
+
+742
+0:34:16,8 --> 0:34:19,0
+And that this led
+to more and more complex--
+
+
+743
+0:34:19,0 --> 0:34:20,8
+But of course the nice thing
+about crystals
+
+
+744
+0:34:20,8 --> 0:34:24,2
+Is that every now and then
+you get mistakes--mutations--
+
+
+745
+0:34:24,2 --> 0:34:27,2
+And that this opens the way
+for natural selection.
+
+
+746
+0:34:27,2 --> 0:34:30,5
+But--but at one point
+there was not
+a living thing,
+
+
+747
+0:34:30,5 --> 0:34:32,2
+And then there was
+a living thing.
+
+
+748
+0:34:32,2 --> 0:34:33,4
+How did that happen?
+
+
+749
+0:34:33,4 --> 0:34:35,1
+Well, that's just a--
+i've just told you.
+
+
+750
+0:34:35,1 --> 0:34:37,8
+I don't see any reason
+why you shouldn't go
+
+
+751
+0:34:37,8 --> 0:34:41,6
+From very simple
+to more and more complex
+to more and more complex--
+
+
+752
+0:34:41,6 --> 0:34:42,6
+I don't either.
+
+
+753
+0:34:42,6 --> 0:34:44,4
+But I don't know
+how you get from mud
+
+
+754
+0:34:44,4 --> 0:34:46,2
+To a living cell.
+That's my question.
+
+
+755
+0:34:46,2 --> 0:34:48,6
+Yes, well, i've told you.
+I'll try one more time.
+
+
+756
+0:34:48,6 --> 0:34:50,9
+You think it was on
+the backs of crystals.
+
+
+757
+0:34:50,9 --> 0:34:54,2
+On the backs of crystals is
+at least one hypothesis, yes.
+
+
+758
+0:34:54,2 --> 0:34:56,6
+So that's your theory,
+and you think that
+is more likely
+
+
+759
+0:34:56,6 --> 0:34:58,9
+And less far-fetched
+than intelligent design.
+
+
+760
+0:34:58,9 --> 0:35:0,1
+I think it is.
+
+
+761
+0:35:0,1 --> 0:35:2,9
+I wouldn't put
+ben stein's money
+
+
+762
+0:35:2,9 --> 0:35:4,9
+On dr. Ruse's
+joyriding crystals,
+
+
+763
+0:35:4,9 --> 0:35:6,5
+But it did make me wonder
+
+
+764
+0:35:6,5 --> 0:35:9,1
+What were the chances of life
+arising on its own?
+
+
+765
+0:35:9,1 --> 0:35:11,4
+Bradley: it's been
+speculated that probably
+
+
+766
+0:35:11,4 --> 0:35:12,8
+There would have to be
+
+
+767
+0:35:12,8 --> 0:35:15,0
+A minimum of
+about 250 proteins
+
+
+768
+0:35:15,0 --> 0:35:17,5
+To provide
+minimal life function.
+
+
+769
+0:35:17,5 --> 0:35:21,2
+Um, if that's
+really true,
+
+
+770
+0:35:21,2 --> 0:35:23,7
+Then I think it's
+almost inconceivable
+
+
+771
+0:35:23,7 --> 0:35:25,3
+That life could've happened
+
+
+772
+0:35:25,3 --> 0:35:27,3
+In some simple,
+step-by-step way.
+
+
+773
+0:35:27,3 --> 0:35:30,1
+Okay,
+so the simplest form of life
+
+
+774
+0:35:30,1 --> 0:35:33,9
+Requires at least
+250 proteins to function.
+
+
+775
+0:35:33,9 --> 0:35:36,1
+What's so difficult
+about that?
+
+
+776
+0:35:36,1 --> 0:35:38,9
+[1950s school filmstrip
+music plays]
+
+
+777
+0:35:38,9 --> 0:35:41,4
+Filmstrip narrator:
+welcome to the casino of life.
+
+
+778
+0:35:41,4 --> 0:35:44,7
+Who wants to spin
+for a chance to win?
+
+
+779
+0:35:44,7 --> 0:35:47,8
+Oh, sure.
+I'll give it a shot.
+
+
+780
+0:35:47,8 --> 0:35:49,0
+What do I win?
+
+
+781
+0:35:49,0 --> 0:35:50,7
+Take a look at this.
+
+
+782
+0:35:50,7 --> 0:35:53,0
+- [man in audience
+wolf-whistles]
+- huh?
+
+
+783
+0:35:53,0 --> 0:35:55,8
+How 'bout the world's
+first single-cell organism?
+
+
+784
+0:35:55,8 --> 0:35:58,2
+This perfectly aligned
+string of proteins
+
+
+785
+0:35:58,2 --> 0:35:59,7
+Could be yours.
+
+
+786
+0:35:59,7 --> 0:36:6,6
+Now, take a spin.
+
+
+787
+0:36:6,6 --> 0:36:8,4
+- [bell rings]
+- I won!
+
+
+788
+0:36:8,4 --> 0:36:9,6
+[laughs]
+
+
+789
+0:36:9,6 --> 0:36:11,7
+Tina, tell him
+how many times
+
+
+790
+0:36:11,7 --> 0:36:14,4
+He needs to do that
+to win the prize.
+
+
+791
+0:36:14,4 --> 0:36:16,2
+Two hundred and fifty.
+
+
+792
+0:36:16,2 --> 0:36:17,9
+- [audience boos]
+- show host:
+that's right, folks.
+
+
+793
+0:36:17,9 --> 0:36:20,7
+And all
+in the correct order.
+
+
+794
+0:36:20,7 --> 0:36:22,2
+But that's impossible.
+
+
+795
+0:36:22,2 --> 0:36:24,2
+[laughs] we've
+heard that before,
+
+
+796
+0:36:24,2 --> 0:36:27,0
+Haven't we, richard?
+
+
+797
+0:36:27,0 --> 0:36:29,7
+[like dawkins] come on,
+mother nature, do your thing.
+
+
+798
+0:36:29,7 --> 0:36:31,0
+[machine buzzes]
+
+
+799
+0:36:31,0 --> 0:36:40,8
+You stupid machine!
+I hate you.
+
+
+800
+0:36:40,8 --> 0:36:43,6
+We're talking about something
+that's staggeringly improbable,
+
+
+801
+0:36:43,6 --> 0:36:47,7
+Roughly one in a trillion,
+trillion, trillion, trillion,
+trillion, trillion.
+
+
+802
+0:36:47,7 --> 0:36:50,1
+Let all of life chose
+a million, a trillion,
+
+
+803
+0:36:50,1 --> 0:36:51,3
+A trillion trillion--
+
+
+804
+0:36:51,3 --> 0:36:52,9
+The number is
+essentially zero.
+
+
+805
+0:36:52,9 --> 0:36:56,8
+Something has to skew nature
+to chose the ones that work.
+
+
+806
+0:36:56,8 --> 0:36:59,2
+So, in the game of life,
+
+
+807
+0:36:59,2 --> 0:37:1,6
+It looks
+as if the house always wins.
+
+
+808
+0:37:1,6 --> 0:37:4,9
+Luckily, some serious
+scientific minds
+
+
+809
+0:37:4,9 --> 0:37:7,6
+Have figured out a way
+to beat the odds.
+
+
+810
+0:37:7,6 --> 0:37:11,0
+[man reads
+in ominous voice]
+
+
+811
+0:37:11,0 --> 0:37:13,4
+Stein: when faced with
+the overwhelming problem
+
+
+812
+0:37:13,4 --> 0:37:14,6
+Of the origin of life,
+
+
+813
+0:37:14,6 --> 0:37:16,8
+Nobel prize-winner
+francis crick
+
+
+814
+0:37:16,8 --> 0:37:18,5
+Proposed this theory--
+
+
+815
+0:37:18,5 --> 0:37:20,9
+That life
+was "seeded" on earth,
+
+
+816
+0:37:20,9 --> 0:37:26,8
+Which basically means
+aliens did it.
+
+
+817
+0:37:26,8 --> 0:37:30,5
+Crystals?
+Aliens?
+
+
+818
+0:37:30,5 --> 0:37:32,9
+I thought we were talking
+about science,
+
+
+819
+0:37:32,9 --> 0:37:35,5
+Not science fiction.
+
+
+820
+0:37:35,5 --> 0:37:38,4
+We don't know what
+caused life to arise.
+
+
+821
+0:37:38,4 --> 0:37:40,8
+Did it arise by a purely
+undirected process,
+
+
+822
+0:37:40,8 --> 0:37:42,4
+Or did it arise
+by some kind
+
+
+823
+0:37:42,4 --> 0:37:44,6
+Of intelligent guidance
+or design?
+
+
+824
+0:37:44,6 --> 0:37:46,2
+And the rules of science
+
+
+825
+0:37:46,2 --> 0:37:48,7
+Are being applied
+to actually foreclose
+
+
+826
+0:37:48,7 --> 0:37:50,9
+One of the two
+possible answers
+
+
+827
+0:37:50,9 --> 0:37:53,4
+To that very
+fundamental and basic
+and important question.
+
+
+828
+0:37:53,4 --> 0:37:55,2
+So the rules
+of science say
+
+
+829
+0:37:55,2 --> 0:37:57,1
+We will consider
+any possibility
+
+
+830
+0:37:57,1 --> 0:37:59,7
+- except one that is guided.
+- exactly.
+
+
+831
+0:37:59,7 --> 0:38:1,4
+No matter
+how life began,
+
+
+832
+0:38:1,4 --> 0:38:3,0
+On the backs of crystals
+
+
+833
+0:38:3,0 --> 0:38:6,0
+Or in the test tube
+of some intelligent designer,
+
+
+834
+0:38:6,0 --> 0:38:9,0
+Everyone agrees
+it started with a single cell.
+
+
+835
+0:38:9,0 --> 0:38:10,7
+But what is a cell?
+
+
+836
+0:38:10,7 --> 0:38:12,4
+- let me ask you a question.
+- yeah.
+
+
+837
+0:38:12,4 --> 0:38:16,2
+Darwin wrote
+the origin of species
+in 1859--
+
+
+838
+0:38:16,2 --> 0:38:18,0
+Published it in 1859.
+
+
+839
+0:38:18,0 --> 0:38:22,2
+He had an idea of the cell
+as being quite simple, correct?
+
+
+840
+0:38:22,2 --> 0:38:23,2
+Yeah, everybody did.
+
+
+841
+0:38:23,2 --> 0:38:28,9
+Okay, if he thought of
+the cell as being a buick,
+
+
+842
+0:38:28,9 --> 0:38:30,4
+What is the cell now
+
+
+843
+0:38:30,4 --> 0:38:32,4
+In terms of its complexity
+by comparison?
+
+
+844
+0:38:32,4 --> 0:38:33,6
+A galaxy.
+
+
+845
+0:38:33,6 --> 0:38:36,6
+If darwin thought a cell
+
+
+846
+0:38:36,6 --> 0:38:38,7
+Was, say, a mud hut,
+
+
+847
+0:38:38,7 --> 0:38:41,4
+What do we now know
+that a cell is?
+
+
+848
+0:38:41,4 --> 0:38:45,2
+More complicated
+than a saturn v.
+
+
+849
+0:38:45,2 --> 0:38:48,3
+So what is in a cell
+as far as we know now?
+
+
+850
+0:38:48,3 --> 0:38:51,4
+A world that darwin
+never could've imagined.
+
+
+851
+0:38:51,4 --> 0:38:52,9
+I needed someone who could
+
+
+852
+0:38:52,9 --> 0:38:54,4
+Give me a glimpse
+into this world,
+
+
+853
+0:38:54,4 --> 0:38:58,2
+So we went to molecular
+biologist doug axe.
+
+
+854
+0:38:58,2 --> 0:39:1,7
+Axe: think of a cell
+as being a nanofactory,
+
+
+855
+0:39:1,7 --> 0:39:5,6
+A factory where,
+on a very small scale,
+
+
+856
+0:39:5,6 --> 0:39:7,6
+Digital instructions
+are being used
+
+
+857
+0:39:7,6 --> 0:39:10,0
+To make the components
+of the factory.
+
+
+858
+0:39:10,0 --> 0:39:12,9
+Here we have the famous
+dna double helix.
+
+
+859
+0:39:12,9 --> 0:39:14,9
+You can see
+the two helical strands
+
+
+860
+0:39:14,9 --> 0:39:17,6
+That are intertwined
+and wind around each other
+
+
+861
+0:39:17,6 --> 0:39:19,6
+On the outside
+of the molecule.
+
+
+862
+0:39:19,6 --> 0:39:21,8
+This is the material
+that stores
+
+
+863
+0:39:21,8 --> 0:39:24,2
+All of our genetic
+information.
+
+
+864
+0:39:24,2 --> 0:39:27,1
+In higher life forms,
+this would be the equivalent
+
+
+865
+0:39:27,1 --> 0:39:29,6
+Of something like
+a gigabyte of information
+
+
+866
+0:39:29,6 --> 0:39:31,3
+Stored in the molecules
+
+
+867
+0:39:31,3 --> 0:39:33,5
+That form
+the individual chromosomes,
+
+
+868
+0:39:33,5 --> 0:39:35,6
+All packed
+within the nucleus,
+
+
+869
+0:39:35,6 --> 0:39:39,0
+Which is a tiny fraction
+of the entire cell size.
+
+
+870
+0:39:39,0 --> 0:39:40,7
+So what does dna do?
+
+
+871
+0:39:40,7 --> 0:39:42,9
+Well, the information in dna
+
+
+872
+0:39:42,9 --> 0:39:44,9
+Ends up providing
+the information
+
+
+873
+0:39:44,9 --> 0:39:48,7
+For sequencing the amino acids
+to make protein.
+
+
+874
+0:39:48,7 --> 0:39:51,7
+We have information
+in a one-dimensional form
+
+
+875
+0:39:51,7 --> 0:40:9,6
+That provides the information
+for a three-dimensional form.
+
+
+876
+0:40:9,6 --> 0:40:14,0
+[whooshes]
+
+
+877
+0:40:14,0 --> 0:40:49,5
+[liquid gurgling]
+
+
+878
+0:40:49,5 --> 0:41:5,3
+[fluttering]
+
+
+879
+0:41:5,3 --> 0:41:8,2
+I'm finally
+just beginning to grasp
+
+
+880
+0:41:8,2 --> 0:41:9,8
+The complexity of the cell.
+
+
+881
+0:41:9,8 --> 0:41:11,6
+Are there systems
+within the cell
+
+
+882
+0:41:11,6 --> 0:41:14,3
+That go well beyond
+darwinian evolution,
+
+
+883
+0:41:14,3 --> 0:41:16,6
+Some type
+of cellular technology
+
+
+884
+0:41:16,6 --> 0:41:19,3
+That drives
+adaptation, replication,
+
+
+885
+0:41:19,3 --> 0:41:21,7
+Quality control,
+and repair?
+
+
+886
+0:41:21,7 --> 0:41:23,3
+What if these new mechanisms
+
+
+887
+0:41:23,3 --> 0:41:25,9
+Have massive design
+implications?
+
+
+888
+0:41:25,9 --> 0:41:28,4
+Well, I say so be it.
+
+
+889
+0:41:28,4 --> 0:41:32,2
+The cell really is like
+nothing we've ever seen
+in the physical world.
+
+
+890
+0:41:32,2 --> 0:41:33,8
+That's got to be
+firmly grasped.
+
+
+891
+0:41:33,8 --> 0:41:35,6
+That's not something
+we can just say,
+
+
+892
+0:41:35,6 --> 0:41:39,0
+"oh, well, it's just
+a little bit more of
+the same old, same old.
+
+
+893
+0:41:39,0 --> 0:41:40,9
+It's not
+the same old, same old.
+
+
+894
+0:41:40,9 --> 0:41:42,7
+What we are finding
+is that there's information
+
+
+895
+0:41:42,7 --> 0:41:45,3
+That's in the cell
+that cannot be accounted for
+
+
+896
+0:41:45,3 --> 0:41:48,0
+In terms of these
+undirected material causes,
+
+
+897
+0:41:48,0 --> 0:41:50,8
+And so there's some other--
+
+
+898
+0:41:50,8 --> 0:41:53,4
+So there has to be
+an information source.
+
+
+899
+0:41:53,4 --> 0:41:57,5
+So one of the key questions
+faced by modern biology
+
+
+900
+0:41:57,5 --> 0:42:2,6
+Is where do you get
+information from?
+
+
+901
+0:42:2,6 --> 0:42:5,4
+Well, darwin assumed
+
+
+902
+0:42:5,4 --> 0:42:7,8
+That the increase
+in information
+
+
+903
+0:42:7,8 --> 0:42:11,0
+Comes from
+natural selection.
+
+
+904
+0:42:11,0 --> 0:42:15,1
+But natural selection
+reduces genetic information,
+
+
+905
+0:42:15,1 --> 0:42:18,7
+And we know this from
+all the genetic manipulation
+studies that we have.
+
+
+906
+0:42:18,7 --> 0:42:21,8
+Where is the new genetic
+information gonna come from?
+
+
+907
+0:42:21,8 --> 0:42:23,8
+Well, that's
+the big question.
+
+
+908
+0:42:23,8 --> 0:42:26,5
+So when we find information
+in the dna molecule,
+
+
+909
+0:42:26,5 --> 0:42:28,1
+The most likely explanation
+
+
+910
+0:42:28,1 --> 0:42:30,5
+Is that it, too,
+had an intelligent source.
+
+
+911
+0:42:30,5 --> 0:42:32,2
+We need engineering
+principles
+
+
+912
+0:42:32,2 --> 0:42:34,5
+To understand
+these systems, okay?
+
+
+913
+0:42:34,5 --> 0:42:37,9
+It's only because
+of our advancements
+in nanotechnology
+
+
+914
+0:42:37,9 --> 0:42:40,8
+That we can even begin
+to appreciate these systems.
+
+
+915
+0:42:40,8 --> 0:42:42,7
+But using intelligent design
+
+
+916
+0:42:42,7 --> 0:42:45,3
+Didn't seem to stop
+the scientists I spoke with.
+
+
+917
+0:42:45,3 --> 0:42:47,8
+So why all the controversy?
+
+
+918
+0:42:47,8 --> 0:42:51,0
+Suppose we find,
+simply as a matter of fact,
+
+
+919
+0:42:51,0 --> 0:42:54,1
+That our scientific inquiries
+point in one direction.
+
+
+920
+0:42:54,1 --> 0:42:55,9
+Which is that there is
+an intelligent creator.
+
+
+921
+0:42:55,9 --> 0:42:58,4
+Why should we eliminate
+that from discussion?
+
+
+922
+0:42:58,4 --> 0:43:0,3
+Streng verboten?
+How come? Why?
+
+
+923
+0:43:0,3 --> 0:43:2,4
+Streng verboten.
+Very good.
+
+
+924
+0:43:2,4 --> 0:43:4,7
+What does streng verboten
+mean, "strongly forbidden"?
+
+
+925
+0:43:4,7 --> 0:43:6,2
+Strongly forbidden.
+
+
+926
+0:43:6,2 --> 0:43:7,6
+You've got
+two possible hypotheses.
+
+
+927
+0:43:7,6 --> 0:43:9,8
+You've got a wall
+through the middle--
+
+
+928
+0:43:9,8 --> 0:43:12,6
+Through your brain, in effect--
+through your thinking.
+
+
+929
+0:43:12,6 --> 0:43:15,7
+You say, well,
+you can't consider anything
+on this side of the wall.
+
+
+930
+0:43:15,7 --> 0:43:17,8
+Only hypotheses
+on this side of the wall
+
+
+931
+0:43:17,8 --> 0:43:20,6
+Are permissible
+for consideration.
+
+
+932
+0:43:20,6 --> 0:43:22,7
+What about
+academic freedom?
+
+
+933
+0:43:22,7 --> 0:43:25,5
+I mean, can't we
+just talk about this?
+
+
+934
+0:43:25,5 --> 0:43:29,4
+Their reply is that science
+is not a democratic process.
+
+
+935
+0:43:29,4 --> 0:43:30,5
+Oh, really?
+
+
+936
+0:43:30,5 --> 0:43:32,5
+And that there is
+a consensus view
+
+
+937
+0:43:32,5 --> 0:43:34,5
+And that we are to subscribe
+to the consensual view.
+
+
+938
+0:43:34,5 --> 0:43:37,5
+Wait a second.
+Darwin challenged
+the consensus view,
+
+
+939
+0:43:37,5 --> 0:43:39,8
+And that's how
+we got darwinism.
+
+
+940
+0:43:39,8 --> 0:43:42,9
+If darwin wanted to challenge
+the consensus today,
+
+
+941
+0:43:42,9 --> 0:43:44,5
+How would he do it?
+
+
+942
+0:43:44,5 --> 0:43:47,9
+Science isn't a hobby
+for rich aristocrats anymore.
+
+
+943
+0:43:47,9 --> 0:43:49,9
+It's a multibillion-dollar
+industry.
+
+
+944
+0:43:49,9 --> 0:43:52,0
+And if you want
+a piece of the pie,
+
+
+945
+0:43:52,0 --> 0:43:58,2
+You've got to be
+a "good comrade."
+
+
+946
+0:43:58,2 --> 0:44:0,2
+Man: scientific ideas--
+
+
+947
+0:44:0,2 --> 0:44:3,9
+How we get them
+to you, the people.
+
+
+948
+0:44:3,9 --> 0:44:8,2
+Every idea must be inspected
+to ensure that it is safe.
+
+
+949
+0:44:8,2 --> 0:44:11,0
+All theories must pass through
+a series of checkpoints.
+
+
+950
+0:44:11,0 --> 0:44:13,6
+First--the academy.
+
+
+951
+0:44:13,6 --> 0:44:15,8
+Stein: getting
+a controversial theory
+
+
+952
+0:44:15,8 --> 0:44:18,4
+Through the academy
+can be dangerous.
+
+
+953
+0:44:18,4 --> 0:44:21,7
+Few people know this better
+than congressman mark souder.
+
+
+954
+0:44:21,7 --> 0:44:24,7
+He uncovered
+a targeted campaign
+
+
+955
+0:44:24,7 --> 0:44:27,4
+Led by individuals
+within the smithsonian
+
+
+956
+0:44:27,4 --> 0:44:30,0
+And the national center
+for science education
+
+
+957
+0:44:30,0 --> 0:44:33,4
+To destroy
+dr. Sternberg's credibility.
+
+
+958
+0:44:33,4 --> 0:44:36,8
+If you want peer reviews,
+if you want to be published,
+
+
+959
+0:44:36,8 --> 0:44:39,4
+If you want to go
+to respected institutions,
+
+
+960
+0:44:39,4 --> 0:44:43,4
+The core view does not
+tolerate dissent.
+
+
+961
+0:44:43,4 --> 0:44:45,4
+There's kind of
+a "this is the way it is,"
+
+
+962
+0:44:45,4 --> 0:44:48,2
+And anybody who's a dissenter
+should be squashed.
+
+
+963
+0:44:48,2 --> 0:44:50,4
+Are you going to be
+on my side if I let you up?
+
+
+964
+0:44:50,4 --> 0:44:53,1
+Sure, chick, sure.
+I'm on your side.
+
+
+965
+0:44:53,1 --> 0:44:55,5
+Just let me up.
+I'll do anything you say.
+
+
+966
+0:44:55,5 --> 0:44:59,1
+Souder isn't the only one
+who has witnessed
+the academy's tactics.
+
+
+967
+0:44:59,1 --> 0:45:0,9
+Journalist larry witham
+
+
+968
+0:45:0,9 --> 0:45:3,8
+Has seen similar behavior
+during his 25 years
+
+
+969
+0:45:3,8 --> 0:45:6,1
+Of covering
+the evolution controversy.
+
+
+970
+0:45:6,1 --> 0:45:7,9
+Once you're thick
+in science,
+
+
+971
+0:45:7,9 --> 0:45:10,0
+You can't question
+the paradigm.
+
+
+972
+0:45:10,0 --> 0:45:11,7
+But if you want
+to get grants,
+
+
+973
+0:45:11,7 --> 0:45:14,3
+If you want to be elected
+to high positions,
+
+
+974
+0:45:14,3 --> 0:45:17,2
+If you want to get awards
+as a promoter
+
+
+975
+0:45:17,2 --> 0:45:18,9
+Of public education
+of science,
+
+
+976
+0:45:18,9 --> 0:45:20,9
+You can't question
+the paradigm.
+
+
+977
+0:45:20,9 --> 0:45:24,8
+People cannot be trusted
+to form their own opinions.
+
+
+978
+0:45:24,8 --> 0:45:28,7
+This business about
+open-mindedness is nonsense.
+
+
+979
+0:45:28,7 --> 0:45:31,1
+Why is
+the scientific establishment
+
+
+980
+0:45:31,1 --> 0:45:33,3
+So afraid of free speech?
+
+
+981
+0:45:33,3 --> 0:45:36,1
+There is this fear
+
+
+982
+0:45:36,1 --> 0:45:39,1
+That if one aspect
+of a theory
+
+
+983
+0:45:39,1 --> 0:45:41,2
+Is closely scrutinized,
+
+
+984
+0:45:41,2 --> 0:45:43,5
+There's going to be
+an unraveling.
+
+
+985
+0:45:43,5 --> 0:45:44,8
+Who are you?
+
+
+986
+0:45:44,8 --> 0:45:45,8
+Oh, uh--
+
+
+987
+0:45:45,8 --> 0:45:47,8
+I am the great
+and powerful...
+
+
+988
+0:45:47,8 --> 0:45:49,5
+[weakly] ...Wizard of oz.
+
+
+989
+0:45:49,5 --> 0:45:52,5
+I interviewed
+dozens and dozens
+of scientists,
+
+
+990
+0:45:52,5 --> 0:45:54,7
+And when they're
+amongst each other
+
+
+991
+0:45:54,7 --> 0:45:57,7
+Or talking
+to a journalist
+who they trust,
+
+
+992
+0:45:57,7 --> 0:45:59,4
+They'll speak about,
+
+
+993
+0:45:59,4 --> 0:46:2,3
+Um, you know,
+"it's incredibly complex,"
+
+
+994
+0:46:2,3 --> 0:46:4,9
+Or "molecular biology's
+in a crisis."
+
+
+995
+0:46:4,9 --> 0:46:10,1
+But publicly
+they can't say that.
+
+
+996
+0:46:10,1 --> 0:46:12,4
+Man: keeping a keen eye
+on the academy
+
+
+997
+0:46:12,4 --> 0:46:14,4
+Are various
+watchdog organizations.
+
+
+998
+0:46:14,4 --> 0:46:16,9
+Stein: listen to eugenie scott
+
+
+999
+0:46:16,9 --> 0:46:19,5
+Of the national center
+for science education.
+
+
+1000
+0:46:19,5 --> 0:46:22,5
+The ncse has been
+at the heart
+
+
+1001
+0:46:22,5 --> 0:46:24,9
+Of virtually
+every evolution controversy
+
+
+1002
+0:46:24,9 --> 0:46:26,9
+Over the past 25 years,
+
+
+1003
+0:46:26,9 --> 0:46:29,7
+Vigorously defending
+the darwinian gospel.
+
+
+1004
+0:46:29,7 --> 0:46:31,8
+Scott: we have had
+a lot of business,
+
+
+1005
+0:46:31,8 --> 0:46:34,1
+Unfortunately, at ncse
+in the last few years
+
+
+1006
+0:46:34,1 --> 0:46:36,1
+Because virtually
+every state
+
+
+1007
+0:46:36,1 --> 0:46:38,6
+In which science
+education standards
+
+
+1008
+0:46:38,6 --> 0:46:40,8
+Has come up
+for consideration
+
+
+1009
+0:46:40,8 --> 0:46:42,2
+Has had a big fight
+
+
+1010
+0:46:42,2 --> 0:46:45,0
+About the coverage
+of evolution in them.
+
+
+1011
+0:46:45,0 --> 0:46:46,8
+Scott: ncse was
+started by a group
+
+
+1012
+0:46:46,8 --> 0:46:48,4
+Of scientists
+and teachers
+
+
+1013
+0:46:48,4 --> 0:46:49,9
+Who were very concerned
+
+
+1014
+0:46:49,9 --> 0:46:52,1
+Because in the late '70s
+and early '80s
+
+
+1015
+0:46:52,1 --> 0:46:53,9
+There were a lot
+of attempts to pass
+
+
+1016
+0:46:53,9 --> 0:46:56,8
+"equal time
+for creation science
+and evolution" laws.
+
+
+1017
+0:46:56,8 --> 0:46:59,8
+Clearly, this is something
+that neither scientists
+nor teachers liked.
+
+
+1018
+0:46:59,8 --> 0:47:2,7
+It wasn't exactly "help, help,
+the creationists are coming,"
+
+
+1019
+0:47:2,7 --> 0:47:4,4
+But, you know, kind of
+along those lines.
+
+
+1020
+0:47:4,4 --> 0:47:7,1
+Most scientists just
+throw up their hands
+and say,
+
+
+1021
+0:47:7,1 --> 0:47:10,9
+"creationists!
+They drive me crazy.
+You handle it."
+
+
+1022
+0:47:10,9 --> 0:47:13,9
+We've worked a lot
+with science education
+organizations.
+
+
+1023
+0:47:13,9 --> 0:47:15,8
+The most important group
+we work with
+
+
+1024
+0:47:15,8 --> 0:47:17,7
+Is members
+of the faith community,
+
+
+1025
+0:47:17,7 --> 0:47:20,5
+Because the best-kept secret
+in this controversy
+
+
+1026
+0:47:20,5 --> 0:47:22,8
+Is that catholics
+and mainstream protestants
+
+
+1027
+0:47:22,8 --> 0:47:24,3
+Are okay on evolution.
+
+
+1028
+0:47:24,3 --> 0:47:27,7
+Are you sure
+about that, eugenie?
+
+
+1029
+0:47:27,7 --> 0:47:30,3
+Liberal Christians
+have been fighting with
+
+
+1030
+0:47:30,3 --> 0:47:33,2
+Conservative Christians
+for so long
+
+
+1031
+0:47:33,2 --> 0:47:37,0
+That they'll side
+with anybody against
+the fundamentalists.
+
+
+1032
+0:47:37,0 --> 0:47:40,0
+And eugenie scott says,
+"well, welcome over."
+
+
+1033
+0:47:40,0 --> 0:47:42,2
+There's a kind of
+science defense lobby
+
+
+1034
+0:47:42,2 --> 0:47:45,0
+Or an evolution defense lobby,
+in particular.
+
+
+1035
+0:47:45,0 --> 0:47:47,3
+They are mostly atheists,
+
+
+1036
+0:47:47,3 --> 0:47:50,2
+But they are wanting to--
+desperately wanting
+
+
+1037
+0:47:50,2 --> 0:47:56,8
+To be friendly to mainstream,
+sensible, religious people.
+
+
+1038
+0:47:56,8 --> 0:47:58,7
+And the way you do that
+is to tell them
+
+
+1039
+0:47:58,7 --> 0:48:3,9
+That there's no incompatibility
+between science and religion.
+
+
+1040
+0:48:3,9 --> 0:48:6,8
+But is there really
+an incompatibility?
+
+
+1041
+0:48:6,8 --> 0:48:10,2
+Can't we believe
+in God and darwin?
+
+
+1042
+0:48:10,2 --> 0:48:12,4
+Implicit in most
+evolutionary theory
+
+
+1043
+0:48:12,4 --> 0:48:14,2
+Is that either
+there's no God,
+
+
+1044
+0:48:14,2 --> 0:48:16,9
+Or God can't have
+any role in it.
+
+
+1045
+0:48:16,9 --> 0:48:20,0
+So, naturally, as many
+evolutionists will say,
+
+
+1046
+0:48:20,0 --> 0:48:22,9
+It's the strongest engine
+for atheism.
+
+
+1047
+0:48:22,9 --> 0:48:24,7
+If they called me
+as a witness,
+
+
+1048
+0:48:24,7 --> 0:48:27,6
+And a lawyer said,
+
+
+1049
+0:48:27,6 --> 0:48:31,5
+"dr. Dawkins,
+has your belief
+in evolution--
+
+
+1050
+0:48:31,5 --> 0:48:34,1
+Has your study of evolution
+turned you towards atheism?"
+
+
+1051
+0:48:34,1 --> 0:48:35,9
+I would have to say yes.
+
+
+1052
+0:48:35,9 --> 0:48:38,4
+And that's the worst
+possible thing I could say
+
+
+1053
+0:48:38,4 --> 0:48:41,0
+For winning that--
+that court case.
+
+
+1054
+0:48:41,0 --> 0:48:42,9
+So people like me
+are bad news
+
+
+1055
+0:48:42,9 --> 0:48:46,2
+For the science lobby,
+the evolution lobby.
+
+
+1056
+0:48:46,2 --> 0:48:47,7
+By the way, i'm being
+a hell of a lot
+
+
+1057
+0:48:47,7 --> 0:48:50,3
+More frank and honest
+in this interview
+
+
+1058
+0:48:50,3 --> 0:48:55,6
+Than many people
+in this field would be.
+
+
+1059
+0:48:55,6 --> 0:48:57,8
+Man: working hard
+to keep ideas in check
+
+
+1060
+0:48:57,8 --> 0:48:59,7
+Are our friends
+in the media.
+
+
+1061
+0:48:59,7 --> 0:49:2,7
+Morning paper!
+Paper, mister?
+
+
+1062
+0:49:2,7 --> 0:49:5,5
+The tendency
+of the media is to side
+with the establishment
+
+
+1063
+0:49:5,5 --> 0:49:8,4
+Because they inherently agree
+with the establishment.
+
+
+1064
+0:49:8,4 --> 0:49:10,3
+Abrams: eugenie scott,
+my understanding is
+
+
+1065
+0:49:10,3 --> 0:49:13,6
+That there is not a single
+peer-reviewed article out there
+
+
+1066
+0:49:13,6 --> 0:49:17,7
+That supports intelligent
+design. Am I wrong?
+
+
+1067
+0:49:17,7 --> 0:49:20,2
+You are not wrong.
+You are correct.
+
+
+1068
+0:49:20,2 --> 0:49:22,3
+I believe that
+we get coverage,
+
+
+1069
+0:49:22,3 --> 0:49:25,3
+But we always get coverage
+like we're the outsider,
+
+
+1070
+0:49:25,3 --> 0:49:27,5
+Not like it's
+an even debate.
+
+
+1071
+0:49:27,5 --> 0:49:30,1
+Filmstrip narrator:
+but instead of merely
+reporting news,
+
+
+1072
+0:49:30,1 --> 0:49:33,0
+He analyzes it,
+often expressing
+his personal opinions.
+
+
+1073
+0:49:33,0 --> 0:49:35,7
+We constantly deal
+with reporters
+
+
+1074
+0:49:35,7 --> 0:49:38,1
+Who refuse even to report
+
+
+1075
+0:49:38,1 --> 0:49:41,5
+The correct definition
+of intelligent design.
+
+
+1076
+0:49:41,5 --> 0:49:44,4
+They, over and over again,
+talk about
+
+
+1077
+0:49:44,4 --> 0:49:46,9
+"life is so complex,
+God must've done it."
+
+
+1078
+0:49:46,9 --> 0:49:49,1
+- meyer: let me explain--
+- abrams: admit it,
+it's religion.
+
+
+1079
+0:49:49,1 --> 0:49:50,7
+- it's very simple.
+- you can't--it's religion.
+
+
+1080
+0:49:50,7 --> 0:49:52,9
+It's a wanton distortion
+of our position.
+
+
+1081
+0:49:52,9 --> 0:49:54,6
+[phone rings]
+
+
+1082
+0:49:54,6 --> 0:49:55,9
+City desk.
+
+
+1083
+0:49:55,9 --> 0:49:57,2
+I've got
+a hot story here.
+
+
+1084
+0:49:57,2 --> 0:50:0,0
+You can look at
+associated press stories,
+
+
+1085
+0:50:0,0 --> 0:50:3,9
+And the same sentence will
+appear in those stories
+for 10 years:
+
+
+1086
+0:50:3,9 --> 0:50:6,9
+"intelligent design says
+that life is too complex."
+
+
+1087
+0:50:6,9 --> 0:50:9,4
+It's called a boilerplate.
+
+
+1088
+0:50:9,4 --> 0:50:11,3
+And the reporter
+never reports any more
+
+
+1089
+0:50:11,3 --> 0:50:13,0
+Or gets any new ways
+to say it,
+
+
+1090
+0:50:13,0 --> 0:50:16,1
+So the public understanding
+never advances.
+
+
+1091
+0:50:16,1 --> 0:50:18,1
+But what happens
+if a reporter
+
+
+1092
+0:50:18,1 --> 0:50:22,0
+Decides to take
+a more balanced approach
+to intelligent design?
+
+
+1093
+0:50:22,0 --> 0:50:25,1
+There might be remarkable
+pressure on that reporter
+
+
+1094
+0:50:25,1 --> 0:50:28,6
+Not to side against
+the evolutionists.
+
+
+1095
+0:50:28,6 --> 0:50:30,9
+I thought I told you
+to kill that story.
+
+
+1096
+0:50:30,9 --> 0:50:33,8
+Few reporters
+have learned this better
+
+
+1097
+0:50:33,8 --> 0:50:35,9
+Than author and journalist
+pamela winnick.
+
+
+1098
+0:50:35,9 --> 0:50:38,0
+When she refused
+to take sides
+
+
+1099
+0:50:38,0 --> 0:50:41,1
+In an article she wrote
+about intelligent design,
+
+
+1100
+0:50:41,1 --> 0:50:43,9
+The darwinists
+found a new favorite target.
+
+
+1101
+0:50:43,9 --> 0:50:46,0
+Number one--
+I wasn't Christian,
+I was jewish.
+
+
+1102
+0:50:46,0 --> 0:50:47,6
+Number two--
+I wasn't religious.
+
+
+1103
+0:50:47,6 --> 0:50:49,4
+Number three--
+I was not taking
+
+
+1104
+0:50:49,4 --> 0:50:51,8
+A position in favor
+of creationism.
+
+
+1105
+0:50:51,8 --> 0:50:54,2
+I was writing about
+intelligent design.
+
+
+1106
+0:50:54,2 --> 0:50:56,0
+And it didn't matter.
+
+
+1107
+0:50:56,0 --> 0:50:57,5
+After I wrote
+that one piece,
+
+
+1108
+0:50:57,5 --> 0:51:0,7
+Everything I wrote
+on the subject
+was scrutinized.
+
+
+1109
+0:51:0,7 --> 0:51:4,2
+There were hate letters
+coming into the newspaper.
+
+
+1110
+0:51:4,2 --> 0:51:6,6
+If you give any credence
+to it whatsoever,
+
+
+1111
+0:51:6,6 --> 0:51:8,9
+Which means
+just writing about it,
+
+
+1112
+0:51:8,9 --> 0:51:12,2
+You are just finished
+as a journalist.
+
+
+1113
+0:51:12,2 --> 0:51:13,9
+Other journalists
+we spoke with
+
+
+1114
+0:51:13,9 --> 0:51:17,9
+Told similar stories
+but didn't dare
+appear on camera.
+
+
+1115
+0:51:17,9 --> 0:51:23,5
+Filmstrip narrator:
+and now the presses
+are ready to roll.
+
+
+1116
+0:51:23,5 --> 0:51:25,7
+Man: when all other
+checkpoints fail,
+
+
+1117
+0:51:25,7 --> 0:51:33,4
+There's always the courts.
+
+
+1118
+0:51:33,4 --> 0:51:36,9
+We have spent
+an enormous amount of time
+
+
+1119
+0:51:36,9 --> 0:51:39,2
+Trying to prove
+to the court
+
+
+1120
+0:51:39,2 --> 0:51:41,1
+What everybody
+already knows,
+
+
+1121
+0:51:41,1 --> 0:51:42,7
+That intelligent design
+
+
+1122
+0:51:42,7 --> 0:51:45,5
+Is a particular
+religious belief.
+
+
+1123
+0:51:45,5 --> 0:51:47,2
+But I thought
+scientific questions
+
+
+1124
+0:51:47,2 --> 0:51:48,9
+Were settled
+by the evidence,
+
+
+1125
+0:51:48,9 --> 0:51:52,0
+Not by taking people
+to court and suing them.
+
+
+1126
+0:51:52,0 --> 0:51:55,0
+How do other countries
+deal with such disputes?
+
+
+1127
+0:51:55,0 --> 0:51:58,7
+Dr. Marciej giertych,
+a population geneticist
+
+
+1128
+0:51:58,7 --> 0:52:1,7
+Who now represents poland
+in the european parliament,
+
+
+1129
+0:52:1,7 --> 0:52:4,0
+Was able to shed
+some light on this topic.
+
+
+1130
+0:52:4,0 --> 0:52:5,8
+Giertych:
+the censorship of
+
+
+1131
+0:52:5,8 --> 0:52:8,8
+Teaching criticism
+of evolution
+
+
+1132
+0:52:8,8 --> 0:52:12,0
+Is and always was
+much stronger in,
+
+
+1133
+0:52:12,0 --> 0:52:14,4
+Say, your country,
+the United States,
+
+
+1134
+0:52:14,4 --> 0:52:16,1
+Than it ever was
+in poland.
+
+
+1135
+0:52:16,1 --> 0:52:18,4
+Why? Why would
+the censorship--
+
+
+1136
+0:52:18,4 --> 0:52:21,4
+That is because you have
+a political correctness
+in your country.
+
+
+1137
+0:52:21,4 --> 0:52:23,7
+These issues
+are brought to court,
+
+
+1138
+0:52:23,7 --> 0:52:25,2
+And the court says
+
+
+1139
+0:52:25,2 --> 0:52:27,0
+What you can
+and what you cannot teach.
+
+
+1140
+0:52:27,0 --> 0:52:29,9
+We want to know
+what you teach,
+
+
+1141
+0:52:29,9 --> 0:52:33,0
+What books you use,
+how you teach it.
+
+
+1142
+0:52:33,0 --> 0:52:34,7
+We never had
+that sort of way
+
+
+1143
+0:52:34,7 --> 0:52:37,7
+Of deciding
+scientific issues
+in poland.
+
+
+1144
+0:52:37,7 --> 0:52:39,5
+We never had
+the courts involved.
+
+
+1145
+0:52:39,5 --> 0:52:40,8
+So you are saying that
+
+
+1146
+0:52:40,8 --> 0:52:43,3
+As far as the teaching
+of science is concerned,
+
+
+1147
+0:52:43,3 --> 0:52:47,5
+Poland is freer academically
+than the United States?
+
+
+1148
+0:52:47,5 --> 0:52:49,7
+I think--in this
+particular issue
+
+
+1149
+0:52:49,7 --> 0:52:51,6
+Of evolution,
+I think this is true.
+
+
+1150
+0:52:51,6 --> 0:52:53,6
+But how effective
+are the courts
+
+
+1151
+0:52:53,6 --> 0:52:55,3
+In deciding such matters?
+
+
+1152
+0:52:55,3 --> 0:52:59,3
+What about
+the general idea that
+intelligent design
+
+
+1153
+0:52:59,3 --> 0:53:2,8
+Is doomed as a result
+of several recent
+legal setbacks?
+
+
+1154
+0:53:2,8 --> 0:53:5,5
+I think court cases
+don't decide anything.
+
+
+1155
+0:53:5,5 --> 0:53:8,4
+If you look at
+the scopes trial,
+who won that trial?
+
+
+1156
+0:53:8,4 --> 0:53:10,8
+It wasn't
+the evolutionists.
+It was the--
+
+
+1157
+0:53:10,8 --> 0:53:13,9
+The tennessee law was upheld,
+barring evolution,
+
+
+1158
+0:53:13,9 --> 0:53:15,9
+And yet in the popular
+imagination,
+
+
+1159
+0:53:15,9 --> 0:53:17,4
+Scopes is the hero.
+
+
+1160
+0:53:17,4 --> 0:53:19,7
+Inherit the wind--
+that movie--
+
+
+1161
+0:53:19,7 --> 0:53:22,2
+Which is really bogus history
+based on the scopes trial,
+
+
+1162
+0:53:22,2 --> 0:53:23,7
+Has carried the day.
+
+
+1163
+0:53:23,7 --> 0:53:27,6
+These issues go much deeper
+than any decision by a judge.
+
+
+1164
+0:53:27,6 --> 0:53:29,1
+The evolution debate
+
+
+1165
+0:53:29,1 --> 0:53:31,9
+Does seem to run much deeper
+than the courts,
+
+
+1166
+0:53:31,9 --> 0:53:33,8
+Much deeper even
+than science.
+
+
+1167
+0:53:33,8 --> 0:53:36,4
+To generate
+this level of hostility,
+
+
+1168
+0:53:36,4 --> 0:53:39,1
+Id must threaten something
+at the very core
+
+
+1169
+0:53:39,1 --> 0:53:43,1
+Of the darwinian
+establishment.
+
+
+1170
+0:53:43,1 --> 0:53:45,0
+Filmstrip narrator:
+the entire globe
+
+
+1171
+0:53:45,0 --> 0:53:48,0
+Is today the site
+of a momentous conflict.
+
+
+1172
+0:53:48,0 --> 0:53:56,1
+It is the challenge
+of ideas.
+
+
+1173
+0:53:56,1 --> 0:53:57,6
+I'm edward r. Murrow.
+
+
+1174
+0:53:57,6 --> 0:53:58,8
+For a little while,
+
+
+1175
+0:53:58,8 --> 0:54:0,5
+I would like to review
+with you
+
+
+1176
+0:54:0,5 --> 0:54:2,8
+The great conflict
+of our times,
+
+
+1177
+0:54:2,8 --> 0:54:4,6
+One which demands
+and must get
+
+
+1178
+0:54:4,6 --> 0:54:6,4
+The attention
+and the involvement
+
+
+1179
+0:54:6,4 --> 0:54:8,0
+Of each one of us.
+
+
+1180
+0:54:8,0 --> 0:54:10,5
+This conflict
+
+
+1181
+0:54:10,5 --> 0:54:14,6
+Over the principles
+of evolution
+
+
+1182
+0:54:14,6 --> 0:54:17,8
+Has become
+a religious war.
+
+
+1183
+0:54:17,8 --> 0:54:22,3
+It really is no longer
+about scientific
+investigation.
+
+
+1184
+0:54:22,3 --> 0:54:25,6
+It is total competition
+with an antagonist
+
+
+1185
+0:54:25,6 --> 0:54:26,7
+Who is putting into it
+
+
+1186
+0:54:26,7 --> 0:54:28,9
+Everything
+within his capability.
+
+
+1187
+0:54:28,9 --> 0:54:31,6
+The situation
+has reached a point
+
+
+1188
+0:54:31,6 --> 0:54:34,0
+Where many
+of evolution's top apologists
+
+
+1189
+0:54:34,0 --> 0:54:36,7
+Have switched
+from defending darwinism
+
+
+1190
+0:54:36,7 --> 0:54:39,5
+To attacking religion,
+in what they see as a bid
+
+
+1191
+0:54:39,5 --> 0:54:42,1
+To stamp out
+intelligent design
+at the source.
+
+
+1192
+0:54:42,1 --> 0:54:45,3
+Richard dawkins
+is the best example of this.
+
+
+1193
+0:54:45,3 --> 0:54:47,6
+His recent book,
+the God delusion,
+
+
+1194
+0:54:47,6 --> 0:54:50,6
+Has sold over
+one million copies worldwide.
+
+
+1195
+0:54:50,6 --> 0:54:51,8
+The God delusion
+
+
+1196
+0:54:51,8 --> 0:54:57,6
+Is my long-expected,
+long-worked-on,
+
+
+1197
+0:54:57,6 --> 0:54:59,7
+Full-frontal attack
+on religion.
+
+
+1198
+0:54:59,7 --> 0:55:3,7
+To me, science is about
+trying to explain existence,
+
+
+1199
+0:55:3,7 --> 0:55:6,7
+And religion is about
+trying to explain existence.
+
+
+1200
+0:55:6,7 --> 0:55:9,1
+It's just that religion
+gets the wrong answer.
+
+
+1201
+0:55:9,1 --> 0:55:10,9
+But is dawkins correct?
+
+
+1202
+0:55:10,9 --> 0:55:14,1
+Are science and religion
+really at war?
+
+
+1203
+0:55:14,1 --> 0:55:18,0
+For an appraisal
+of this continuing
+and protracted conflict,
+
+
+1204
+0:55:18,0 --> 0:55:19,7
+We can go to a reporter
+
+
+1205
+0:55:19,7 --> 0:55:21,7
+Who has watched
+the growing conflict
+
+
+1206
+0:55:21,7 --> 0:55:24,7
+With the perception of
+a trained military observer.
+
+
+1207
+0:55:24,7 --> 0:55:27,1
+Oxford professor
+alister mcgrath,
+
+
+1208
+0:55:27,1 --> 0:55:29,7
+Author of
+the dawkins delusion,
+
+
+1209
+0:55:29,7 --> 0:55:32,2
+Seemed like the ideal person
+to answer my question.
+
+
+1210
+0:55:32,2 --> 0:55:34,6
+Mcgrath: richard dawkins
+has a charming
+
+
+1211
+0:55:34,6 --> 0:55:37,0
+And very, I think,
+interesting view
+
+
+1212
+0:55:37,0 --> 0:55:39,4
+Of the relationship
+between science and religion.
+
+
+1213
+0:55:39,4 --> 0:55:40,9
+They're at war
+with each other,
+
+
+1214
+0:55:40,9 --> 0:55:43,1
+And in the end,
+one's got to win.
+
+
+1215
+0:55:43,1 --> 0:55:45,2
+And it's going
+to be science.
+
+
+1216
+0:55:45,2 --> 0:55:46,8
+It's a very naive view.
+
+
+1217
+0:55:46,8 --> 0:55:50,5
+It's based on
+a complete historical
+misrepresentation
+
+
+1218
+0:55:50,5 --> 0:55:52,9
+Of the way
+science and religion
+have interacted.
+
+
+1219
+0:55:52,9 --> 0:55:56,2
+Dawkins seems to think
+that scientific description
+
+
+1220
+0:55:56,2 --> 0:55:58,5
+Is an anti-religious
+argument.
+
+
+1221
+0:55:58,5 --> 0:56:1,6
+Describing
+how something happens
+scientifically
+
+
+1222
+0:56:1,6 --> 0:56:3,7
+Somehow explains it away.
+
+
+1223
+0:56:3,7 --> 0:56:4,8
+It doesn't.
+
+
+1224
+0:56:4,8 --> 0:56:7,7
+But the questions
+of purpose, intentionality,
+
+
+1225
+0:56:7,7 --> 0:56:9,3
+The question why,
+
+
+1226
+0:56:9,3 --> 0:56:11,7
+Still remain there
+on the table.
+
+
+1227
+0:56:11,7 --> 0:56:13,9
+I think it was just
+a catastrophic mistake
+
+
+1228
+0:56:13,9 --> 0:56:16,3
+To have someone like
+dawkins address himself
+
+
+1229
+0:56:16,3 --> 0:56:18,1
+To profound issues
+of theology,
+
+
+1230
+0:56:18,1 --> 0:56:19,8
+The existence of God,
+the nature of life.
+
+
+1231
+0:56:19,8 --> 0:56:21,4
+He hasn't committed
+himself to
+
+
+1232
+0:56:21,4 --> 0:56:23,7
+Disciplined study
+in any relevant area
+of inquiry.
+
+
+1233
+0:56:23,7 --> 0:56:25,5
+He's a crummy philosopher.
+
+
+1234
+0:56:25,5 --> 0:56:27,7
+He doesn't have
+the rudimentary skills
+
+
+1235
+0:56:27,7 --> 0:56:31,1
+To meticulously assess
+his own arguments.
+
+
+1236
+0:56:31,1 --> 0:56:32,6
+Genius guy, though.
+
+
+1237
+0:56:32,6 --> 0:56:33,7
+Very smart guy.
+
+
+1238
+0:56:33,7 --> 0:56:36,1
+Little bit of a reptile,
+but very smart guy.
+
+
+1239
+0:56:36,1 --> 0:56:38,6
+The opposing point of view
+in this conflict
+
+
+1240
+0:56:38,6 --> 0:56:41,8
+Rests on a fundamentally
+different vision of man.
+
+
+1241
+0:56:41,8 --> 0:56:43,9
+If you have two
+distinguished scientists--
+
+
+1242
+0:56:43,9 --> 0:56:47,3
+And, in fact, you can range
+many more on each side,
+as you know--
+
+
+1243
+0:56:47,3 --> 0:56:50,2
+Saying exactly
+opposite things,
+
+
+1244
+0:56:50,2 --> 0:56:52,5
+That's telling me
+that the conflict
+
+
+1245
+0:56:52,5 --> 0:56:55,6
+Is not between science
+and belief in God.
+
+
+1246
+0:56:55,6 --> 0:56:58,5
+Otherwise you'd expect
+all scientists
+to be atheists.
+
+
+1247
+0:56:58,5 --> 0:57:0,1
+But it's
+a worldview conflict.
+
+
+1248
+0:57:0,1 --> 0:57:2,8
+It's between scientists
+who have different worldviews.
+
+
+1249
+0:57:2,8 --> 0:57:5,5
+You've got two
+competing explanations
+of the evidence.
+
+
+1250
+0:57:5,5 --> 0:57:7,8
+One says design,
+one says undirected processes.
+
+
+1251
+0:57:7,8 --> 0:57:10,8
+Both of them have
+larger philosophical
+or religious
+
+
+1252
+0:57:10,8 --> 0:57:12,6
+Or anti-religious
+implications.
+
+
+1253
+0:57:12,6 --> 0:57:15,9
+So you can't say that
+one of those two theories
+is scientific
+
+
+1254
+0:57:15,9 --> 0:57:17,6
+And the other
+is unscientific
+
+
+1255
+0:57:17,6 --> 0:57:19,6
+Simply because
+they have implications.
+
+
+1256
+0:57:19,6 --> 0:57:20,7
+Both have implications.
+
+
+1257
+0:57:20,7 --> 0:57:21,6
+People who tell you,
+
+
+1258
+0:57:21,6 --> 0:57:23,1
+For example,
+that science tells you
+
+
+1259
+0:57:23,1 --> 0:57:24,3
+All you need to know
+about the world
+
+
+1260
+0:57:24,3 --> 0:57:26,6
+Or that science tells you
+that religion is all wrong
+
+
+1261
+0:57:26,6 --> 0:57:28,2
+Or science tells you
+there is no God,
+
+
+1262
+0:57:28,2 --> 0:57:30,9
+Those people aren't telling
+you scientific things.
+
+
+1263
+0:57:30,9 --> 0:57:32,7
+They are saying
+metaphysical things,
+
+
+1264
+0:57:32,7 --> 0:57:34,8
+And they have to defend
+their positions
+
+
+1265
+0:57:34,8 --> 0:57:36,0
+For metaphysical reasons.
+
+
+1266
+0:57:36,0 --> 0:57:39,4
+What is being presented
+to the public is
+
+
+1267
+0:57:39,4 --> 0:57:41,6
+First comes the science,
+
+
+1268
+0:57:41,6 --> 0:57:44,7
+And then comes
+the worldview.
+
+
+1269
+0:57:44,7 --> 0:57:47,5
+I would want to argue that
+that may not be the case,
+
+
+1270
+0:57:47,5 --> 0:57:49,8
+That it may actually be
+the other way 'round,
+
+
+1271
+0:57:49,8 --> 0:57:52,8
+That the worldview
+comes first
+
+
+1272
+0:57:52,8 --> 0:57:55,9
+And is influencing
+the interpretation
+of science.
+
+
+1273
+0:57:55,9 --> 0:57:57,7
+My deep regret
+is some people
+
+
+1274
+0:57:57,7 --> 0:58:1,6
+Are so deeply entrenched
+in their own worldviews
+
+
+1275
+0:58:1,6 --> 0:58:6,9
+That they will simply not
+countenance alternatives.
+
+
+1276
+0:58:6,9 --> 0:58:9,0
+I'm actually
+a person of the left,
+
+
+1277
+0:58:9,0 --> 0:58:10,9
+And not even a particularly
+religious person.
+
+
+1278
+0:58:10,9 --> 0:58:12,7
+I think of myself
+as kind of humanist.
+
+
+1279
+0:58:12,7 --> 0:58:15,3
+And I think it's sending
+a very bad message
+
+
+1280
+0:58:15,3 --> 0:58:18,1
+To religious people
+who are interested
+in science
+
+
+1281
+0:58:18,1 --> 0:58:19,4
+That in some sense,
+
+
+1282
+0:58:19,4 --> 0:58:20,9
+In order to do
+science credibly,
+
+
+1283
+0:58:20,9 --> 0:58:23,3
+They have to leave
+their religious beliefs
+at the door.
+
+
+1284
+0:58:23,3 --> 0:58:25,0
+The founders
+of early modern science--
+
+
+1285
+0:58:25,0 --> 0:58:26,5
+Sir isaac newton,
+robert boyle,
+
+
+1286
+0:58:26,5 --> 0:58:28,7
+Johannes kepler,
+galileo--
+
+
+1287
+0:58:28,7 --> 0:58:31,6
+Most of these
+early scientists
+
+
+1288
+0:58:31,6 --> 0:58:33,1
+All not only
+believed in God,
+
+
+1289
+0:58:33,1 --> 0:58:34,8
+But they thought
+their belief in God
+
+
+1290
+0:58:34,8 --> 0:58:37,3
+Actually made it
+easier to do science.
+
+
+1291
+0:58:37,3 --> 0:58:38,9
+You can be
+religiously motivated
+
+
+1292
+0:58:38,9 --> 0:58:40,3
+And you can
+do good science,
+
+
+1293
+0:58:40,3 --> 0:58:42,4
+And they have more
+often gone together
+
+
+1294
+0:58:42,4 --> 0:58:43,9
+Than not gone together.
+
+
+1295
+0:58:43,9 --> 0:58:45,7
+Admitting our biases
+
+
+1296
+0:58:45,7 --> 0:58:48,6
+Is the best way towards
+rational discussion,
+
+
+1297
+0:58:48,6 --> 0:58:50,2
+Which I would welcome.
+
+
+1298
+0:58:50,2 --> 0:58:53,3
+Rational debate
+is a nice thought,
+
+
+1299
+0:58:53,3 --> 0:58:56,2
+But it's nearly impossible
+in the current climate.
+
+
+1300
+0:58:56,2 --> 0:58:57,9
+I'd seen the chilling effect
+
+
+1301
+0:58:57,9 --> 0:59:0,9
+That this unquestioning
+devotion to darwinism
+
+
+1302
+0:59:0,9 --> 0:59:3,0
+Has had on science...
+
+
+1303
+0:59:3,0 --> 0:59:8,1
+But were there
+other consequences?
+
+
+1304
+0:59:8,1 --> 0:59:11,7
+No Gods,
+no life after death,
+
+
+1305
+0:59:11,7 --> 0:59:13,8
+No ultimate foundation
+for ethics,
+
+
+1306
+0:59:13,8 --> 0:59:16,6
+No ultimate meaning
+in life,
+
+
+1307
+0:59:16,6 --> 0:59:20,0
+And no human free will
+
+
+1308
+0:59:20,0 --> 0:59:25,3
+Are all deeply connected
+to an evolutionary perspective.
+
+
+1309
+0:59:25,3 --> 0:59:27,7
+You're here today
+and then gone tomorrow,
+
+
+1310
+0:59:27,7 --> 0:59:29,5
+And that's
+all there is to it.
+
+
+1311
+0:59:29,5 --> 0:59:31,5
+Stein: dr. Will provine,
+
+
+1312
+0:59:31,5 --> 0:59:33,9
+Professor
+of the history of biology
+
+
+1313
+0:59:33,9 --> 0:59:35,5
+At cornell university,
+
+
+1314
+0:59:35,5 --> 0:59:38,2
+Gave us another
+disturbing glimpse
+
+
+1315
+0:59:38,2 --> 0:59:40,2
+Into where darwinism
+can lead.
+
+
+1316
+0:59:40,2 --> 0:59:41,7
+Oh, I was a Christian,
+
+
+1317
+0:59:41,7 --> 0:59:44,9
+But I never heard
+anything about evolution
+
+
+1318
+0:59:44,9 --> 0:59:49,6
+Because it was illegal
+to teach it in tennessee.
+
+
+1319
+0:59:49,6 --> 0:59:53,6
+Dr. Provine's first biology
+professor changed all that.
+
+
+1320
+0:59:53,6 --> 0:59:56,2
+He started talking
+about evolution
+
+
+1321
+0:59:56,2 --> 0:59:58,9
+As if it had no design
+in it whatsoever.
+
+
+1322
+0:59:58,9 --> 1:0:0,8
+And I came up to him,
+and I said,
+
+
+1323
+1:0:0,8 --> 1:0:2,9
+"you left out
+the most important part."
+
+
+1324
+1:0:2,9 --> 1:0:6,3
+And he said,
+"if you feel the same way
+at the end of one quarter,
+
+
+1325
+1:0:6,3 --> 1:0:9,6
+"I want you to stand up
+in front of the students
+in this class
+
+
+1326
+1:0:9,6 --> 1:0:12,7
+And tell them
+this deep lack
+in evolution."
+
+
+1327
+1:0:12,7 --> 1:0:15,8
+And I read that book
+so carefully,
+
+
+1328
+1:0:15,8 --> 1:0:19,6
+And I could find
+no sign of there being
+
+
+1329
+1:0:19,6 --> 1:0:23,3
+Any design whatsoever
+in evolution.
+
+
+1330
+1:0:23,3 --> 1:0:26,3
+And I immediately
+began to doubt
+
+
+1331
+1:0:26,3 --> 1:0:30,8
+The existence
+of the deity.
+
+
+1332
+1:0:30,8 --> 1:0:33,6
+But it starts by giving up
+an active deity.
+
+
+1333
+1:0:33,6 --> 1:0:35,5
+Then he gives up the hope
+
+
+1334
+1:0:35,5 --> 1:0:37,6
+That there's
+any life after death.
+
+
+1335
+1:0:37,6 --> 1:0:39,0
+When you give
+those two up,
+
+
+1336
+1:0:39,0 --> 1:0:41,7
+The rest of it follows
+fairly easily.
+
+
+1337
+1:0:41,7 --> 1:0:43,2
+You give up the hope
+
+
+1338
+1:0:43,2 --> 1:0:45,8
+That there's
+an eminent morality.
+
+
+1339
+1:0:45,8 --> 1:0:49,2
+And finally, there's
+no human free will.
+
+
+1340
+1:0:49,2 --> 1:0:51,0
+If you believe
+in evolution,
+
+
+1341
+1:0:51,0 --> 1:0:55,4
+You can't hope for there
+being any free will.
+
+
+1342
+1:0:55,4 --> 1:0:58,2
+There's no hope whatsoever
+
+
+1343
+1:0:58,2 --> 1:1:1,7
+Of there being any
+deep meaning in human life.
+
+
+1344
+1:1:1,7 --> 1:1:4,6
+We live, we die,
+and we're gone.
+
+
+1345
+1:1:4,6 --> 1:1:7,0
+We're absolutely gone
+when we die.
+
+
+1346
+1:1:7,0 --> 1:1:11,0
+Dr. Provine is no stranger
+to the prospect of death.
+
+
+1347
+1:1:11,0 --> 1:1:12,6
+Nearly a decade ago,
+
+
+1348
+1:1:12,6 --> 1:1:15,9
+He was diagnosed
+with a large brain tumor.
+
+
+1349
+1:1:15,9 --> 1:1:17,9
+Let's suppose
+my tumor comes back,
+
+
+1350
+1:1:17,9 --> 1:1:19,8
+As it almost certainly will.
+
+
+1351
+1:1:19,8 --> 1:1:22,0
+Well, i'm not
+going to sit around
+
+
+1352
+1:1:22,0 --> 1:1:25,0
+Like my older brother
+did last year.
+
+
+1353
+1:1:25,0 --> 1:1:28,4
+And he was dying of als,
+lou gehrig's disease.
+
+
+1354
+1:1:28,4 --> 1:1:33,5
+He wanted desperately to die,
+but we couldn't help him die.
+
+
+1355
+1:1:33,5 --> 1:1:35,2
+I don't want to die
+like that.
+
+
+1356
+1:1:35,2 --> 1:1:38,5
+I'm going to shoot myself
+in the head long before then.
+
+
+1357
+1:1:38,5 --> 1:1:41,1
+I'm going to do
+something different.
+
+
+1358
+1:1:41,1 --> 1:1:43,1
+I hope these
+are empty words
+
+
+1359
+1:1:43,1 --> 1:1:45,2
+From my friend
+dr. Provine,
+
+
+1360
+1:1:45,2 --> 1:1:47,8
+Because shortly after
+this interview was recorded
+
+
+1361
+1:1:47,8 --> 1:1:50,6
+He learned his brain tumor
+had returned.
+
+
+1362
+1:1:50,6 --> 1:1:52,4
+Provine: I don't feel
+one bit bad
+
+
+1363
+1:1:52,4 --> 1:1:54,1
+About holding
+the views that I do.
+
+
+1364
+1:1:54,1 --> 1:1:56,9
+There's not anything
+in the views I hold
+
+
+1365
+1:1:56,9 --> 1:1:59,8
+That makes me, "oh,
+I wish I had free will,"
+
+
+1366
+1:1:59,8 --> 1:2:2,3
+Or "oh, I wish
+there were a God."
+
+
+1367
+1:2:2,3 --> 1:2:5,3
+I don't ever,
+ever wish for that.
+
+
+1368
+1:2:5,3 --> 1:2:7,7
+Dr. Provine's
+de-conversion story
+
+
+1369
+1:2:7,7 --> 1:2:10,6
+Was typical amongst
+the darwinists
+we interviewed.
+
+
+1370
+1:2:10,6 --> 1:2:12,8
+Biologist p.Z. Myers,
+
+
+1371
+1:2:12,8 --> 1:2:17,1
+Who runs the pro-darwin,
+anti-religion blog pharyngula,
+
+
+1372
+1:2:17,1 --> 1:2:20,3
+Says science eroded
+his faith as well.
+
+
+1373
+1:2:20,3 --> 1:2:21,6
+I never hated religion.
+
+
+1374
+1:2:21,6 --> 1:2:23,9
+I found religion
+quite comfortable,
+
+
+1375
+1:2:23,9 --> 1:2:26,5
+And I liked
+the people in it.
+
+
+1376
+1:2:26,5 --> 1:2:29,6
+What led to the atheism was
+learning more about science,
+
+
+1377
+1:2:29,6 --> 1:2:31,6
+Learning more
+about the natural world,
+
+
+1378
+1:2:31,6 --> 1:2:34,2
+And seeing these horrible
+conflicts with religion.
+
+
+1379
+1:2:34,2 --> 1:2:37,6
+And it was then,
+when I discovered evolution,
+
+
+1380
+1:2:37,6 --> 1:2:39,3
+When I discovered darwinism,
+
+
+1381
+1:2:39,3 --> 1:2:41,8
+That I realized there's
+this magnificently elegant,
+
+
+1382
+1:2:41,8 --> 1:2:44,3
+Stunningly elegant
+explanation--
+
+
+1383
+1:2:44,3 --> 1:2:46,7
+Which I didn't quite
+understand to begin with--
+
+
+1384
+1:2:46,7 --> 1:2:48,2
+But when I did
+understand it,
+
+
+1385
+1:2:48,2 --> 1:2:52,2
+Then that finally killed off
+my remaining religious faith.
+
+
+1386
+1:2:52,2 --> 1:2:53,9
+After hearing these stories,
+
+
+1387
+1:2:53,9 --> 1:2:55,9
+I was not surprised
+to discover
+
+
+1388
+1:2:55,9 --> 1:2:58,0
+That most evolutionary
+biologists
+
+
+1389
+1:2:58,0 --> 1:3:0,5
+Share
+professor dawkins' views.
+
+
+1390
+1:3:0,5 --> 1:3:3,3
+It appears darwinism
+does lead to atheism
+
+
+1391
+1:3:3,3 --> 1:3:6,6
+Despite what eugenie scott
+would have us believe.
+
+
+1392
+1:3:6,6 --> 1:3:12,1
+And if you separate out
+the ethical message
+from religion,
+
+
+1393
+1:3:12,1 --> 1:3:14,9
+What have you got left?
+
+
+1394
+1:3:14,9 --> 1:3:17,9
+You've got a bunch
+of fairy tales, right?
+
+
+1395
+1:3:17,9 --> 1:3:21,2
+I think that God
+is about as unlikely
+
+
+1396
+1:3:21,2 --> 1:3:26,7
+As fairies, angels,
+hobgoblins, etc.
+
+
+1397
+1:3:26,7 --> 1:3:30,2
+Religion--I mean,
+it's just fantasy, basically.
+
+
+1398
+1:3:30,2 --> 1:3:35,4
+It's completely empty
+of any explanatory content...
+
+
+1399
+1:3:35,4 --> 1:3:38,2
+And is evil as well.
+[chuckles]
+
+
+1400
+1:3:38,2 --> 1:3:41,1
+Half the people in this country
+think that drugs
+
+
+1401
+1:3:41,1 --> 1:3:43,4
+Is what you have to regulate
+to make us safer,
+
+
+1402
+1:3:43,4 --> 1:3:44,9
+And half the people
+think guns--
+
+
+1403
+1:3:44,9 --> 1:3:46,8
+That's what
+you gotta regulate
+to make us safer.
+
+
+1404
+1:3:46,8 --> 1:3:49,0
+But I always think
+that if you're
+going to regulate
+
+
+1405
+1:3:49,0 --> 1:3:51,1
+One thing that has
+the most potential
+
+
+1406
+1:3:51,1 --> 1:3:54,1
+To cause death
+and destruction--
+religion.
+
+
+1407
+1:3:54,1 --> 1:3:56,1
+You gotta start
+with religion.
+
+
+1408
+1:3:56,1 --> 1:3:58,8
+[audience applauds]
+
+
+1409
+1:3:58,8 --> 1:4:2,8
+Religion is an idea that
+gives some people comfort,
+
+
+1410
+1:4:2,8 --> 1:4:5,1
+And we don't want to take
+it away from them.
+
+
+1411
+1:4:5,1 --> 1:4:7,6
+It's like knitting.
+People like to knit.
+
+
+1412
+1:4:7,6 --> 1:4:10,3
+We're not going to take
+their knitting needles away.
+
+
+1413
+1:4:10,3 --> 1:4:12,5
+We're not going to take away
+their churches.
+
+
+1414
+1:4:12,5 --> 1:4:14,8
+But what we have to do
+is get it to a place
+
+
+1415
+1:4:14,8 --> 1:4:17,1
+Where religion is treated
+
+
+1416
+1:4:17,1 --> 1:4:18,9
+At the level
+it should be treated.
+
+
+1417
+1:4:18,9 --> 1:4:21,2
+That is, something fun
+
+
+1418
+1:4:21,2 --> 1:4:23,9
+That people get together
+and do on the weekend
+
+
+1419
+1:4:23,9 --> 1:4:27,0
+And really doesn't
+affect their life
+
+
+1420
+1:4:27,0 --> 1:4:28,7
+As much as it
+has been so far.
+
+
+1421
+1:4:28,7 --> 1:4:31,2
+Stein: so what would
+the world look like
+
+
+1422
+1:4:31,2 --> 1:4:33,3
+If dr. Meyers got his wish?
+
+
+1423
+1:4:33,3 --> 1:4:34,8
+Greater science literacy,
+
+
+1424
+1:4:34,8 --> 1:4:36,6
+Which is going to lead
+to the erosion of religion,
+
+
+1425
+1:4:36,6 --> 1:4:39,2
+And then we'll get
+this nice positive
+feedback mechanism going,
+
+
+1426
+1:4:39,2 --> 1:4:40,8
+Where as religion
+slowly fades away,
+
+
+1427
+1:4:40,8 --> 1:4:42,6
+We get more and more science
+to replace it.
+
+
+1428
+1:4:42,6 --> 1:4:44,6
+And that will displace
+more and more religion,
+
+
+1429
+1:4:44,6 --> 1:4:46,7
+Which will allow
+more and more science in,
+
+
+1430
+1:4:46,7 --> 1:4:48,8
+And we'll eventually
+get to that point
+
+
+1431
+1:4:48,8 --> 1:4:52,4
+Where religion has taken
+that appropriate place
+
+
+1432
+1:4:52,4 --> 1:4:56,0
+As a side dish
+rather than the main course.
+
+
+1433
+1:4:56,0 --> 1:4:58,6
+Stein: but will
+eradicating religion
+
+
+1434
+1:4:58,6 --> 1:5:2,9
+Really lead
+to a modern utopia?
+
+
+1435
+1:5:2,9 --> 1:5:5,2
+Hmm.
+
+
+1436
+1:5:5,2 --> 1:5:7,7
+Let me try to imagine that.
+
+
+1437
+1:5:7,7 --> 1:5:15,4
+And let's let history
+be our guide.
+
+
+1438
+1:5:15,4 --> 1:5:17,9
+Berlinski: in part,
+I think matthew arnold
+
+
+1439
+1:5:17,9 --> 1:5:20,2
+Put his hands on it
+when he spoke about
+
+
+1440
+1:5:20,2 --> 1:5:22,7
+Um, the withdrawal
+of faith.
+
+
+1441
+1:5:22,7 --> 1:5:25,1
+There is a connection
+between a society
+
+
+1442
+1:5:25,1 --> 1:5:27,2
+That has at least
+a minimal commitment
+
+
+1443
+1:5:27,2 --> 1:5:30,9
+To certain kinds of
+transcendental values
+
+
+1444
+1:5:30,9 --> 1:5:32,9
+And what human beings
+permit themselves
+
+
+1445
+1:5:32,9 --> 1:5:35,0
+To do one to the other.
+
+
+1446
+1:5:35,0 --> 1:5:36,8
+That got me thinking.
+
+
+1447
+1:5:36,8 --> 1:5:39,4
+What other societies
+have used darwinism
+
+
+1448
+1:5:39,4 --> 1:5:41,1
+To trump
+all other authorities,
+
+
+1449
+1:5:41,1 --> 1:5:42,9
+Including religion?
+
+
+1450
+1:5:42,9 --> 1:5:44,1
+As a jew,
+
+
+1451
+1:5:44,1 --> 1:5:47,0
+My mind leapt to one regime
+in particular.
+
+
+1452
+1:5:47,0 --> 1:5:49,4
+The connection
+between hitler and darwin
+
+
+1453
+1:5:49,4 --> 1:5:52,1
+Is of course historically
+a difficult connection
+
+
+1454
+1:5:52,1 --> 1:5:54,6
+Because they were separated
+by a good many years.
+
+
+1455
+1:5:54,6 --> 1:5:56,3
+One was english,
+one was german.
+
+
+1456
+1:5:56,3 --> 1:5:59,9
+Nonetheless,
+if you open mein kampf
+and read it--
+
+
+1457
+1:5:59,9 --> 1:6:2,5
+Especially if you can
+read it in german--
+
+
+1458
+1:6:2,5 --> 1:6:5,2
+The correspondence
+between darwinian ideas
+
+
+1459
+1:6:5,2 --> 1:6:8,1
+And nazi ideas just
+leaps from the page.
+
+
+1460
+1:6:8,1 --> 1:6:10,6
+Of course you have to add
+every historical caution.
+
+
+1461
+1:6:10,6 --> 1:6:14,1
+Not everyone who read darwin
+became a nazi, obviously not.
+
+
+1462
+1:6:14,1 --> 1:6:15,9
+No one is making that case.
+
+
+1463
+1:6:15,9 --> 1:6:19,4
+Darwinism is not
+a sufficient condition
+
+
+1464
+1:6:19,4 --> 1:6:21,6
+For a phenomenon
+like nazism,
+
+
+1465
+1:6:21,6 --> 1:6:24,5
+But I think it's certainly
+a necessary one.
+
+
+1466
+1:6:24,5 --> 1:6:32,8
+This was a connection
+I had to explore personally.
+
+
+1467
+1:6:32,8 --> 1:6:43,1
+[church bells tolling]
+
+
+1468
+1:6:43,1 --> 1:6:46,0
+Filmstrip narrator:
+american officers arrive
+at a nazi institution
+
+
+1469
+1:6:46,0 --> 1:6:47,3
+Seized by first army troops.
+
+
+1470
+1:6:47,3 --> 1:6:49,1
+Under the guise
+of an insane asylum,
+
+
+1471
+1:6:49,1 --> 1:6:50,6
+This has been
+the headquarters
+
+
+1472
+1:6:50,6 --> 1:6:52,0
+For the systematic murder...
+
+
+1473
+1:6:52,0 --> 1:6:57,0
+[filmstrip audio fades]
+
+
+1474
+1:6:57,0 --> 1:6:58,4
+Stein: so, what
+is this place?
+
+
+1475
+1:6:58,4 --> 1:7:0,2
+During
+the second world war,
+
+
+1476
+1:7:0,2 --> 1:7:3,2
+15,000 people
+were killed here.
+
+
+1477
+1:7:3,2 --> 1:7:5,1
+Why were they killed?
+
+
+1478
+1:7:5,1 --> 1:7:8,5
+They were killed
+because they were
+people with handicaps.
+
+
+1479
+1:7:8,5 --> 1:7:10,7
+Why kill them?
+What's the point
+of killing them?
+
+
+1480
+1:7:10,7 --> 1:7:12,5
+People who were
+not able to work,
+
+
+1481
+1:7:12,5 --> 1:7:15,7
+People who were not able
+to live by themselves,
+
+
+1482
+1:7:15,7 --> 1:7:17,7
+That they were
+"useless eaters."
+
+
+1483
+1:7:17,7 --> 1:7:19,0
+"useless eaters."
+
+
+1484
+1:7:19,0 --> 1:7:22,2
+And "life
+unworthy of living."
+
+
+1485
+1:7:22,2 --> 1:7:24,4
+George: this idea
+grew up in the '20s,
+
+
+1486
+1:7:24,4 --> 1:7:26,5
+So long before
+national socialism,
+
+
+1487
+1:7:26,5 --> 1:7:28,3
+Biologists,
+anthropologists,
+
+
+1488
+1:7:28,3 --> 1:7:32,8
+They thought that
+maybe mankind could--
+
+
+1489
+1:7:32,8 --> 1:7:36,0
+Or the government
+could interfere
+
+
+1490
+1:7:36,0 --> 1:7:38,3
+- into the growth
+of the population.
+- stein: I see.
+
+
+1491
+1:7:38,3 --> 1:7:40,4
+And they had the...
+Utopia?
+
+
+1492
+1:7:40,4 --> 1:7:41,9
+- utopia.
+- utopia...
+
+
+1493
+1:7:41,9 --> 1:7:43,9
+That they would
+have a society
+
+
+1494
+1:7:43,9 --> 1:7:46,4
+Without illness
+and without handicap.
+
+
+1495
+1:7:46,4 --> 1:8:11,0
+[man speaking german]
+
+
+1496
+1:8:11,0 --> 1:8:13,4
+So this was
+a darwinian concept.
+
+
+1497
+1:8:13,4 --> 1:8:15,6
+- yes.
+- and also
+a malthusian concept,
+
+
+1498
+1:8:15,6 --> 1:8:17,0
+Very much malthusian.
+
+
+1499
+1:8:17,0 --> 1:8:19,6
+- malthusian?
+- thomas malthus, who said
+
+
+1500
+1:8:19,6 --> 1:8:22,0
+That there was
+a shortage of resources.
+
+
+1501
+1:8:22,0 --> 1:8:24,1
+English philosopher,
+said there was a shortage--
+
+
+1502
+1:8:24,1 --> 1:8:27,0
+Yes, but the nazis,
+they relied on darwin.
+
+
+1503
+1:8:27,0 --> 1:8:32,1
+- they relied on darwin.
+- yes, darwin
+and german scientists.
+
+
+1504
+1:8:32,1 --> 1:8:35,0
+Patients were led
+down this hallway
+
+
+1505
+1:8:35,0 --> 1:8:36,7
+To nazi doctors,
+
+
+1506
+1:8:36,7 --> 1:8:40,6
+Who decided who would live
+and who would die.
+
+
+1507
+1:8:40,6 --> 1:8:46,7
+They were accompanied
+by 15, um, 15 nurses.
+
+
+1508
+1:8:46,7 --> 1:8:47,8
+- nurses.
+- nurses.
+
+
+1509
+1:8:47,8 --> 1:8:49,5
+Male and female nurses.
+
+
+1510
+1:8:49,5 --> 1:8:52,4
+So nurses were helping
+lead them to their doom.
+
+
+1511
+1:8:52,4 --> 1:9:13,8
+Yes.
+
+
+1512
+1:9:13,8 --> 1:9:15,9
+So, were the prisoners told
+they were taking a shower?
+
+
+1513
+1:9:15,9 --> 1:9:17,2
+Yes, they were
+taking a shower,
+
+
+1514
+1:9:17,2 --> 1:9:18,7
+And here was
+one or two showers.
+
+
+1515
+1:9:18,7 --> 1:9:22,3
+So, how many people were
+brought into this room?
+
+
+1516
+1:9:22,3 --> 1:9:33,0
+Sixty to seventy.
+
+
+1517
+1:9:33,0 --> 1:9:34,5
+So, what is this?
+
+
+1518
+1:9:34,5 --> 1:9:36,8
+This is
+the dissection table.
+
+
+1519
+1:9:36,8 --> 1:9:38,9
+Do you ever think
+to yourself
+
+
+1520
+1:9:38,9 --> 1:9:40,5
+The sane ones
+were the ones
+
+
+1521
+1:9:40,5 --> 1:9:42,9
+Lying here having
+their brains removed--
+
+
+1522
+1:9:42,9 --> 1:9:45,8
+The insane one was
+dr. Gorgass and all
+the other people--?
+
+
+1523
+1:9:45,8 --> 1:9:47,5
+No, no,
+I don't think that
+
+
+1524
+1:9:47,5 --> 1:9:50,7
+Because I think
+those people who killed here,
+
+
+1525
+1:9:50,7 --> 1:9:54,0
+They were very sane
+because they had
+their purposes.
+
+
+1526
+1:9:54,0 --> 1:9:55,2
+They had purposes?
+
+
+1527
+1:9:55,2 --> 1:10:7,4
+Yes. I don't think
+they were insane.
+
+
+1528
+1:10:7,4 --> 1:10:9,9
+- they had
+two crematory ovens.
+- I see.
+
+
+1529
+1:10:9,9 --> 1:10:12,1
+And they killed
+about 70 people.
+
+
+1530
+1:10:12,1 --> 1:10:14,7
+- a day.
+- a day, so they had--
+
+
+1531
+1:10:14,7 --> 1:10:17,4
+That's barely enough time.
+They had their work--
+
+
+1532
+1:10:17,4 --> 1:10:21,1
+They only killed from
+Monday to Friday, so...
+
+
+1533
+1:10:21,1 --> 1:10:23,0
+Because the people who
+were doing the killing
+
+
+1534
+1:10:23,0 --> 1:10:24,6
+Needed to have
+the weekend off.
+
+
+1535
+1:10:24,6 --> 1:10:29,6
+If you met dr. Gorgass today,
+what would you say to him?
+
+
+1536
+1:10:29,6 --> 1:10:31,4
+I don't know.
+
+
+1537
+1:10:31,4 --> 1:10:34,7
+I don't think that
+it's my--my role
+
+
+1538
+1:10:34,7 --> 1:10:38,6
+To--to tell
+him something.
+
+
+1539
+1:10:38,6 --> 1:10:40,3
+It's difficult to describe
+
+
+1540
+1:10:40,3 --> 1:10:43,4
+How it felt to walk
+through such a haunting place,
+
+
+1541
+1:10:43,4 --> 1:10:47,1
+To know that these cold
+stone and tile walls
+
+
+1542
+1:10:47,1 --> 1:10:53,0
+Were the last things
+the victims of hadamar
+ever saw.
+
+
+1543
+1:10:53,0 --> 1:10:56,3
+I wanted to explore
+this connection further,
+
+
+1544
+1:10:56,3 --> 1:10:59,8
+So I met with the author
+of from darwin to hitler,
+
+
+1545
+1:10:59,8 --> 1:11:2,3
+Dr. Richard weikart.
+
+
+1546
+1:11:2,3 --> 1:11:5,2
+Hitler and many
+of the physicians
+
+
+1547
+1:11:5,2 --> 1:11:6,8
+That carried out
+this program
+
+
+1548
+1:11:6,8 --> 1:11:8,6
+Were very fanatical
+darwinists
+
+
+1549
+1:11:8,6 --> 1:11:11,7
+And particularly wanted to apply
+darwinism to society.
+
+
+1550
+1:11:11,7 --> 1:11:33,5
+[hitler speaking german]
+
+
+1551
+1:11:33,5 --> 1:11:36,4
+Many of these people
+in the 19-teens, 1920s
+
+
+1552
+1:11:36,4 --> 1:11:39,0
+Who were putting forward some
+of these ideas about racism
+
+
+1553
+1:11:39,0 --> 1:11:42,5
+Were considered
+the leading scientists.
+
+
+1554
+1:11:42,5 --> 1:11:46,3
+These were darwinists
+who were taken seriously
+by fellow academics.
+
+
+1555
+1:11:46,3 --> 1:11:48,5
+It's not to say
+that all academics
+believed it.
+
+
+1556
+1:11:48,5 --> 1:11:52,0
+These leading academics,
+were there any of them
+who were americans?
+
+
+1557
+1:11:52,0 --> 1:11:53,4
+There were plenty
+of americans
+
+
+1558
+1:11:53,4 --> 1:11:56,1
+Who were saying
+similar kinds of things.
+
+
+1559
+1:11:56,1 --> 1:11:59,3
+Not only were americans
+saying such things,
+
+
+1560
+1:11:59,3 --> 1:12:2,3
+They were pioneers
+in this fledging science
+
+
+1561
+1:12:2,3 --> 1:12:4,6
+Known as eugenics.
+
+
+1562
+1:12:4,6 --> 1:12:7,0
+They thought
+they could help
+evolution along
+
+
+1563
+1:12:7,0 --> 1:12:10,6
+By sterilizing
+the so-called feeble-minded
+
+
+1564
+1:12:10,6 --> 1:12:14,3
+And prohibiting them
+from getting married.
+
+
+1565
+1:12:14,3 --> 1:12:17,4
+Physicians who
+are aware of the history
+
+
+1566
+1:12:17,4 --> 1:12:19,3
+Of 20th-century
+american medicine
+
+
+1567
+1:12:19,3 --> 1:12:23,1
+Harbor some bad feelings
+towards darwinists
+
+
+1568
+1:12:23,1 --> 1:12:24,8
+Because of eugenics.
+
+
+1569
+1:12:24,8 --> 1:12:26,0
+And eugenics--
+
+
+1570
+1:12:26,0 --> 1:12:29,0
+Which was an attempt
+to breed human beings--
+
+
+1571
+1:12:29,0 --> 1:12:32,7
+It was the darkest chapter
+of american medicine ever.
+
+
+1572
+1:12:32,7 --> 1:12:35,6
+There were 50,000 people
+involuntarily sterilized
+
+
+1573
+1:12:35,6 --> 1:12:42,4
+Because they were deemed
+unfit to breed, basically.
+
+
+1574
+1:12:42,4 --> 1:12:44,7
+Stein: eugenics
+isn't just history.
+
+
+1575
+1:12:44,7 --> 1:12:49,6
+The spirit of the movement
+lives on today.
+
+
+1576
+1:12:49,6 --> 1:12:51,0
+Weikart: margaret sanger
+
+
+1577
+1:12:51,0 --> 1:12:52,7
+Was the head
+of planned parenthood.
+
+
+1578
+1:12:52,7 --> 1:12:55,4
+She was very fanatical
+in her promotion of eugenics.
+
+
+1579
+1:12:55,4 --> 1:12:58,5
+In fact, planned parenthood
+was all about birth control
+
+
+1580
+1:12:58,5 --> 1:13:1,0
+For the impoverished
+and lower classes
+
+
+1581
+1:13:1,0 --> 1:13:8,6
+To try to help improve
+the species.
+
+
+1582
+1:13:8,6 --> 1:13:10,0
+From hadamar,
+
+
+1583
+1:13:10,0 --> 1:13:13,1
+I traveled
+with dr. Weikart to dachau,
+
+
+1584
+1:13:13,1 --> 1:13:16,0
+Where the nazis applied
+the ideas of eugenics
+
+
+1585
+1:13:16,0 --> 1:13:21,3
+On a massive
+mechanistic scale.
+
+
+1586
+1:13:21,3 --> 1:13:24,4
+When it was
+a fully functioning
+concentration camp,
+
+
+1587
+1:13:24,4 --> 1:13:27,2
+Uh, what was
+the purpose of it?
+
+
+1588
+1:13:27,2 --> 1:13:30,3
+I mean, part of it
+was to repress
+political enemies.
+
+
+1589
+1:13:30,3 --> 1:13:32,3
+What was the rest
+of the purpose?
+
+
+1590
+1:13:32,3 --> 1:13:34,9
+Well, beyond the repression
+of the political enemies,
+
+
+1591
+1:13:34,9 --> 1:13:36,8
+Which was its purpose
+at the very beginning,
+
+
+1592
+1:13:36,8 --> 1:13:40,7
+Then later on it transformed
+into repressing racial enemies.
+
+
+1593
+1:13:40,7 --> 1:13:42,9
+And sometimes
+those categories overlapped
+
+
+1594
+1:13:42,9 --> 1:13:44,3
+Because sometimes
+they thought
+
+
+1595
+1:13:44,3 --> 1:13:46,5
+That these people
+were political enemies
+
+
+1596
+1:13:46,5 --> 1:13:48,7
+Because they were
+inferior biologically.
+
+
+1597
+1:13:48,7 --> 1:13:50,2
+The war itself
+was part of
+
+
+1598
+1:13:50,2 --> 1:13:52,9
+The darwinian struggle
+for existence, for hitler.
+
+
+1599
+1:13:52,9 --> 1:13:55,1
+And he saw that
+extermination of the jews
+
+
+1600
+1:13:55,1 --> 1:13:59,3
+As one of those fronts
+to this warfare going on,
+
+
+1601
+1:13:59,3 --> 1:14:2,1
+As this darwinian struggle
+for existence.
+
+
+1602
+1:14:2,1 --> 1:14:4,3
+Would you say
+that hitler was insane?
+
+
+1603
+1:14:4,3 --> 1:14:6,0
+No, I wouldn't say
+he was insane.
+
+
+1604
+1:14:6,0 --> 1:14:11,9
+I think he had imbibed
+some very, very wrong ideas,
+
+
+1605
+1:14:11,9 --> 1:14:13,1
+And, in fact, I think
+
+
+1606
+1:14:13,1 --> 1:14:17,5
+He took the logic of them
+in certain ways
+
+
+1607
+1:14:17,5 --> 1:14:21,3
+That brought
+him to take
+
+
+1608
+1:14:21,3 --> 1:14:25,8
+Very radical solutions
+for them.
+
+
+1609
+1:14:25,8 --> 1:14:27,5
+Would you say
+he was evil?
+
+
+1610
+1:14:27,5 --> 1:14:28,9
+Oh, i'd definitely say
+he was evil.
+
+
+1611
+1:14:28,9 --> 1:14:30,5
+Is there such
+a thing as evil?
+
+
+1612
+1:14:30,5 --> 1:14:31,6
+Oh, I think there is.
+
+
+1613
+1:14:31,6 --> 1:14:33,4
+And is there such
+a thing as good?
+
+
+1614
+1:14:33,4 --> 1:14:34,9
+Oh, definitely.
+
+
+1615
+1:14:34,9 --> 1:14:39,7
+And...Evil can sometimes
+be rationalized as science.
+
+
+1616
+1:14:39,7 --> 1:14:40,7
+Oh, sure.
+
+
+1617
+1:14:40,7 --> 1:14:42,5
+And evil can sometimes
+be rationalized--
+
+
+1618
+1:14:42,5 --> 1:14:44,0
+When it's rationalized
+as science,
+
+
+1619
+1:14:44,0 --> 1:14:46,5
+And I think
+when it was rationalized
+in this particular way,
+
+
+1620
+1:14:46,5 --> 1:14:48,2
+I think hitler thought
+he was doing good.
+
+
+1621
+1:14:48,2 --> 1:14:49,4
+He thought
+he was doing good?
+
+
+1622
+1:14:49,4 --> 1:14:50,5
+Oh, I think so.
+
+
+1623
+1:14:50,5 --> 1:14:52,6
+He thought he was
+benefiting humanity
+
+
+1624
+1:14:52,6 --> 1:14:54,4
+By driving evolution
+forward
+
+
+1625
+1:14:54,4 --> 1:15:4,8
+And creating
+a better humanity.
+
+
+1626
+1:15:4,8 --> 1:15:6,7
+Before leaving dachau,
+
+
+1627
+1:15:6,7 --> 1:15:8,5
+I stopped by the memorial
+
+
+1628
+1:15:8,5 --> 1:15:10,7
+Commemorating
+the thousands of jews
+
+
+1629
+1:15:10,7 --> 1:15:16,5
+Who were killed there
+in excruciating conditions.
+
+
+1630
+1:15:16,5 --> 1:15:18,2
+I know that darwinism
+
+
+1631
+1:15:18,2 --> 1:15:21,4
+Does not automatically
+equate to nazism.
+
+
+1632
+1:15:21,4 --> 1:15:24,3
+But if darwinism
+inspired and justified
+
+
+1633
+1:15:24,3 --> 1:15:26,4
+Such horrific events
+in the past,
+
+
+1634
+1:15:26,4 --> 1:15:28,0
+Could it be used
+to rationalize
+
+
+1635
+1:15:28,0 --> 1:15:30,4
+Similar initiatives today?
+
+
+1636
+1:15:30,4 --> 1:15:33,3
+There's a good
+german expression,
+"so faengt es immer an."
+
+
+1637
+1:15:33,3 --> 1:15:35,6
+I mean, "always begins
+in the same way,"
+
+
+1638
+1:15:35,6 --> 1:15:37,4
+Something to remember
+in the context of
+
+
+1639
+1:15:37,4 --> 1:15:40,1
+The united states' discussions
+of euthanasia and abortion.
+
+
+1640
+1:15:40,1 --> 1:15:41,4
+It always begins
+in the same way.
+
+
+1641
+1:15:41,4 --> 1:15:43,6
+There seems to be
+an excellent argument
+
+
+1642
+1:15:43,6 --> 1:15:46,4
+For getting rid
+of useless people
+by killing them.
+
+
+1643
+1:15:46,4 --> 1:15:47,7
+Or at least
+it seems excellent
+
+
+1644
+1:15:47,7 --> 1:15:49,9
+To the people
+advancing the argument.
+
+
+1645
+1:15:49,9 --> 1:15:51,4
+It's the love affair
+with death
+
+
+1646
+1:15:51,4 --> 1:15:53,9
+And, you know, the euthanasia
+and this movement going on,
+
+
+1647
+1:15:53,9 --> 1:15:55,0
+Which I find appalling.
+
+
+1648
+1:15:55,0 --> 1:15:56,5
+And the idea is that,
+you know,
+
+
+1649
+1:15:56,5 --> 1:15:58,1
+Immediately rid our society
+
+
+1650
+1:15:58,1 --> 1:15:59,9
+Of anybody
+who might be a drain
+
+
+1651
+1:15:59,9 --> 1:16:3,1
+And think of people
+in economic terms,
+
+
+1652
+1:16:3,1 --> 1:16:6,0
+And I think that's
+where some of the darwin
+fits in, actually.
+
+
+1653
+1:16:6,0 --> 1:16:8,2
+It's just a devaluing
+of human life.
+
+
+1654
+1:16:8,2 --> 1:16:10,1
+First of all,
+if you take seriously
+
+
+1655
+1:16:10,1 --> 1:16:11,9
+That evolution
+has to do with
+
+
+1656
+1:16:11,9 --> 1:16:14,1
+The transition
+of life forms
+
+
+1657
+1:16:14,1 --> 1:16:17,1
+And that life and death
+are just natural processes,
+
+
+1658
+1:16:17,1 --> 1:16:20,5
+Then one gets to be liberal
+about abortion and euthanasia.
+
+
+1659
+1:16:20,5 --> 1:16:22,3
+All of those kinds of ideas,
+
+
+1660
+1:16:22,3 --> 1:16:24,3
+Seem to me, follow
+very naturally
+
+
+1661
+1:16:24,3 --> 1:16:26,2
+From a darwinian
+perspective,
+
+
+1662
+1:16:26,2 --> 1:16:28,9
+A de-privileging
+of human beings,
+basically.
+
+
+1663
+1:16:28,9 --> 1:16:32,4
+And I think that people
+who want to endorse darwinism
+
+
+1664
+1:16:32,4 --> 1:16:35,8
+Have to sort of take
+this kind of viewpoint
+very seriously.
+
+
+1665
+1:16:35,8 --> 1:16:39,1
+And when we see an elite--
+and it is an elite--
+
+
+1666
+1:16:39,1 --> 1:16:41,9
+An elite that
+controls essentially
+
+
+1667
+1:16:41,9 --> 1:16:44,1
+All the research money
+in science,
+
+
+1668
+1:16:44,1 --> 1:16:46,7
+Saying, "there is no
+such thing as moral truth;
+
+
+1669
+1:16:46,7 --> 1:16:49,6
+Science will not be
+related to religion."
+
+
+1670
+1:16:49,6 --> 1:16:51,5
+I mean, it's essentially
+official policy
+
+
+1671
+1:16:51,5 --> 1:16:53,4
+Of the national academy
+of science
+
+
+1672
+1:16:53,4 --> 1:16:56,1
+That religion and science
+will not be related.
+
+
+1673
+1:16:56,1 --> 1:17:0,0
+I mean, hey, that cuts off
+a lot of debate, doesn't it?
+
+
+1674
+1:17:0,0 --> 1:17:2,4
+What's going to happen
+if this doesn't change?
+
+
+1675
+1:17:2,4 --> 1:17:4,7
+I think we're watching
+it happen, aren't we?
+
+
+1676
+1:17:4,7 --> 1:17:6,7
+I needed time to think,
+
+
+1677
+1:17:6,7 --> 1:18:5,2
+So I traveled
+to the birthplace
+of this idea.
+
+
+1678
+1:18:5,2 --> 1:18:8,5
+"with savages,
+the weak in body or mind
+
+
+1679
+1:18:8,5 --> 1:18:10,3
+"are soon eliminated.
+
+
+1680
+1:18:10,3 --> 1:18:13,0
+"we civilized men,
+on the other hand,
+
+
+1681
+1:18:13,0 --> 1:18:16,7
+"do our utmost to check
+the process of elimination.
+
+
+1682
+1:18:16,7 --> 1:18:20,9
+"we build asylums
+for the imbecile,
+the maimed, and the sick.
+
+
+1683
+1:18:20,9 --> 1:18:23,7
+"thus the weak members
+of civilized societies
+
+
+1684
+1:18:23,7 --> 1:18:25,5
+"propagate their kind.
+
+
+1685
+1:18:25,5 --> 1:18:27,7
+"no one who has attended
+to the breeding
+
+
+1686
+1:18:27,7 --> 1:18:29,0
+"of domestic animals
+
+
+1687
+1:18:29,0 --> 1:18:31,5
+"will doubt that this
+must be highly injurious
+
+
+1688
+1:18:31,5 --> 1:18:33,3
+"to the race of man.
+
+
+1689
+1:18:33,3 --> 1:18:35,4
+"hardly anyone
+is so ignorant
+
+
+1690
+1:18:35,4 --> 1:18:38,6
+As to allow
+his worst animals to breed."
+
+
+1691
+1:18:38,6 --> 1:20:16,5
+--charles darwin,
+the descent of man, 1871.
+
+
+1692
+1:20:16,5 --> 1:20:25,0
+[church bells tolling]
+
+
+1693
+1:20:25,0 --> 1:20:26,8
+Meyer: throughout
+the cold war in germany,
+
+
+1694
+1:20:26,8 --> 1:20:29,5
+There was this wall erected
+to keep ideas out.
+
+
+1695
+1:20:29,5 --> 1:20:32,1
+It was erected by people
+who held an ideology,
+
+
+1696
+1:20:32,1 --> 1:20:34,6
+That were afraid
+of a competition
+
+
+1697
+1:20:34,6 --> 1:20:38,8
+From other ideas
+that would come
+into their society.
+
+
+1698
+1:20:38,8 --> 1:20:41,4
+And what we're seeing
+happening in science today
+
+
+1699
+1:20:41,4 --> 1:20:43,0
+Is very much like that.
+
+
+1700
+1:20:43,0 --> 1:20:44,7
+But I think that's
+just a strategy
+
+
+1701
+1:20:44,7 --> 1:20:48,9
+For protecting
+a failing ideology
+from competition.
+
+
+1702
+1:20:48,9 --> 1:20:51,1
+America didn't become
+the great nation that it is
+
+
+1703
+1:20:51,1 --> 1:20:52,9
+By suppressing ideas.
+
+
+1704
+1:20:52,9 --> 1:20:56,0
+It progressed
+by allowing freedom of speech
+
+
+1705
+1:20:56,0 --> 1:20:58,7
+And freedom of inquiry.
+
+
+1706
+1:20:58,7 --> 1:21:1,3
+Thomas jefferson
+got it right when he wrote,
+
+
+1707
+1:21:1,3 --> 1:21:3,8
+"we hold these truths
+to be self-evident,
+
+
+1708
+1:21:3,8 --> 1:21:6,2
+"that all men
+are created equal,
+
+
+1709
+1:21:6,2 --> 1:21:8,4
+"that they are endowed
+by their creator
+
+
+1710
+1:21:8,4 --> 1:21:10,6
+"with certain
+unalienable rights,
+
+
+1711
+1:21:10,6 --> 1:21:12,9
+"that among these
+are life, liberty,
+
+
+1712
+1:21:12,9 --> 1:21:15,1
+And the pursuit
+of happiness."
+
+
+1713
+1:21:15,1 --> 1:21:17,7
+Hundreds of thousands
+of americans
+
+
+1714
+1:21:17,7 --> 1:21:20,8
+Have given their lives
+to protect these values,
+
+
+1715
+1:21:20,8 --> 1:21:23,8
+But now they're
+under threat once again.
+
+
+1716
+1:21:23,8 --> 1:21:26,7
+It wasn't just scientists
+who were being expelled.
+
+
+1717
+1:21:26,7 --> 1:21:28,3
+It was freedom itself,
+
+
+1718
+1:21:28,3 --> 1:21:31,0
+The very foundation
+of the american dream,
+
+
+1719
+1:21:31,0 --> 1:21:34,1
+The very foundation
+of america.
+
+
+1720
+1:21:34,1 --> 1:21:36,5
+If we allowed freedom
+to be expelled in science,
+
+
+1721
+1:21:36,5 --> 1:21:38,8
+Where would it end?
+
+
+1722
+1:21:38,8 --> 1:21:40,8
+The darwinian establishment
+
+
+1723
+1:21:40,8 --> 1:21:43,2
+Is so massive
+and so entrenched
+
+
+1724
+1:21:43,2 --> 1:21:45,2
+It appears impenetrable.
+
+
+1725
+1:21:45,2 --> 1:21:47,3
+I couldn't bring it down
+myself,
+
+
+1726
+1:21:47,3 --> 1:21:48,9
+But I could at least confront
+
+
+1727
+1:21:48,9 --> 1:21:53,8
+Those who'd expelled
+the scientists i'd met.
+
+
+1728
+1:21:53,8 --> 1:21:57,3
+What would you say
+if you had eugenie scott
+sitting next to you?
+
+
+1729
+1:21:57,3 --> 1:21:58,5
+What would you say to her?
+
+
+1730
+1:21:58,5 --> 1:22:1,6
+I would ask her
+by what authority
+
+
+1731
+1:22:1,6 --> 1:22:3,9
+Does she
+and those like her
+
+
+1732
+1:22:3,9 --> 1:22:6,2
+Presume to declare
+
+
+1733
+1:22:6,2 --> 1:22:9,0
+What is
+and is not science.
+
+
+1734
+1:22:9,0 --> 1:22:11,5
+He's sort of made himself
+martyr of the day.
+
+
+1735
+1:22:11,5 --> 1:22:13,3
+They've gotten a lot
+of mileage out of,
+
+
+1736
+1:22:13,3 --> 1:22:16,2
+You know,
+poor rick sternberg.
+
+
+1737
+1:22:16,2 --> 1:22:17,4
+And we got lip service
+
+
+1738
+1:22:17,4 --> 1:22:19,8
+From the leadership
+of the smithsonian,
+
+
+1739
+1:22:19,8 --> 1:22:22,4
+But I didn't feel they
+ever followed through.
+
+
+1740
+1:22:22,4 --> 1:22:25,5
+We went into the smithsonian
+looking for answers,
+
+
+1741
+1:22:25,5 --> 1:22:28,9
+But we ran
+into the same stone wall
+as congressman souder.
+
+
+1742
+1:22:28,9 --> 1:22:31,1
+You're not authorized
+to do this here, so stop.
+
+
+1743
+1:22:31,1 --> 1:22:38,6
+[overlapping chatter]
+
+
+1744
+1:22:38,6 --> 1:22:40,7
+He said, "nonetheless,
+you have to be disciplined,"
+
+
+1745
+1:22:40,7 --> 1:22:42,1
+And I lost my job.
+
+
+1746
+1:22:42,1 --> 1:22:43,8
+We did get an interview
+
+
+1747
+1:22:43,8 --> 1:22:46,0
+With a spokesman
+from george mason,
+
+
+1748
+1:22:46,0 --> 1:22:49,0
+But it was impossible
+to knock him off his script.
+
+
+1749
+1:22:49,0 --> 1:22:51,9
+Her contract
+was not renewed.
+
+
+1750
+1:22:51,9 --> 1:22:55,3
+It was simply, um,
+not renewing her contract,
+
+
+1751
+1:22:55,3 --> 1:22:56,8
+Which she satisfied.
+
+
+1752
+1:22:56,8 --> 1:22:59,0
+Her contract
+was not renewed.
+
+
+1753
+1:22:59,0 --> 1:23:1,9
+It had nothing to do
+with the controversy
+
+
+1754
+1:23:1,9 --> 1:23:7,6
+Of that topic
+of intelligent design.
+
+
+1755
+1:23:7,6 --> 1:23:11,4
+I have never been treated
+like this in my--
+
+
+1756
+1:23:11,4 --> 1:23:13,6
+About 30 years in academia.
+
+
+1757
+1:23:13,6 --> 1:23:17,4
+We received
+a similar reception
+at baylor university.
+
+
+1758
+1:23:17,4 --> 1:23:18,7
+They refused to admit
+
+
+1759
+1:23:18,7 --> 1:23:20,5
+That what had happened
+to dr. Marks
+
+
+1760
+1:23:20,5 --> 1:23:22,9
+Had anything to do
+with id.
+
+
+1761
+1:23:22,9 --> 1:23:26,0
+Certainly the conversations
+i've had, this has not--
+
+
+1762
+1:23:26,0 --> 1:23:28,2
+The intelligent design
+situation
+
+
+1763
+1:23:28,2 --> 1:23:30,5
+Has not been the thrust
+of the conversation.
+
+
+1764
+1:23:30,5 --> 1:23:32,6
+It was a procedural issue,
+
+
+1765
+1:23:32,6 --> 1:23:34,8
+And that's the way
+we dealt with it.
+
+
+1766
+1:23:34,8 --> 1:23:37,8
+Funny, that's not
+how dean kelley put things
+
+
+1767
+1:23:37,8 --> 1:23:46,2
+In his original e-mail
+to dr. Marks.
+
+
+1768
+1:23:46,2 --> 1:23:48,7
+I'm not mixing my religion
+with my science.
+
+
+1769
+1:23:48,7 --> 1:23:50,6
+The questions that I ask
+
+
+1770
+1:23:50,6 --> 1:23:52,3
+In my intelligent design
+research
+
+
+1771
+1:23:52,3 --> 1:23:54,9
+Are perfectly legitimate
+scientific questions.
+
+
+1772
+1:23:54,9 --> 1:23:57,2
+At least the top guns
+at iowa state
+
+
+1773
+1:23:57,2 --> 1:23:59,7
+Were willing to own up
+to their actions.
+
+
+1774
+1:23:59,7 --> 1:24:2,9
+What we wanted to stop is
+the use of the name of isu
+
+
+1775
+1:24:2,9 --> 1:24:5,5
+To validate
+intelligent design.
+
+
+1776
+1:24:5,5 --> 1:24:7,1
+And we did succeed.
+
+
+1777
+1:24:7,1 --> 1:24:9,8
+I really think
+a lot of guillermo.
+He's a great guy.
+
+
+1778
+1:24:9,8 --> 1:24:11,9
+So that's why i'm
+kind of disappointed.
+
+
+1779
+1:24:11,9 --> 1:24:13,8
+He should've just
+left this alone,
+
+
+1780
+1:24:13,8 --> 1:24:15,9
+In my opinion, should've
+just left it alone.
+
+
+1781
+1:24:15,9 --> 1:24:18,1
+Dr. Hauptman
+elaborated further
+
+
+1782
+1:24:18,1 --> 1:24:20,8
+On his great regard
+for gonzalez.
+
+
+1783
+1:24:20,8 --> 1:24:23,8
+Man: uh, this is quoting
+an e-mail from you
+to mr. Avalos.
+
+
+1784
+1:24:23,8 --> 1:24:28,7
+You say, "sometimes
+it is just best
+to ignore idiots,"
+
+
+1785
+1:24:28,7 --> 1:24:31,5
+In reference
+to guillermo.
+
+
+1786
+1:24:31,5 --> 1:24:34,0
+And then,
+"the religious nutcases
+
+
+1787
+1:24:34,0 --> 1:24:36,1
+Should be challenged
+at every opportunity."
+
+
+1788
+1:24:36,1 --> 1:24:38,5
+Yeah, because,
+for example,
+
+
+1789
+1:24:38,5 --> 1:24:41,8
+You--
+[chuckles]
+
+
+1790
+1:24:41,8 --> 1:24:43,7
+In that case,
+i'm thinking more of,
+
+
+1791
+1:24:43,7 --> 1:24:46,6
+Say, the creationist crowd,
+who claims that God
+
+
+1792
+1:24:46,6 --> 1:24:49,3
+Put all the animals
+on an ark, and that's it.
+
+
+1793
+1:24:49,3 --> 1:24:51,9
+That's where
+all of our animals
+came from today.
+
+
+1794
+1:24:51,9 --> 1:24:53,1
+That's crazy, okay?
+
+
+1795
+1:24:53,1 --> 1:24:54,4
+You shouldn't
+be insulting
+
+
+1796
+1:24:54,4 --> 1:24:56,2
+Even children with
+that kind of thing.
+
+
+1797
+1:24:56,2 --> 1:24:58,1
+So these are
+the idiots, all right?
+
+
+1798
+1:24:58,1 --> 1:24:59,5
+They've always been around.
+
+
+1799
+1:24:59,5 --> 1:25:1,7
+They've always been around.
+
+
+1800
+1:25:1,7 --> 1:25:4,6
+Going after the perpetrators
+in each of these cases
+
+
+1801
+1:25:4,6 --> 1:25:6,8
+Wasn't getting me anywhere.
+
+
+1802
+1:25:6,8 --> 1:25:10,4
+So I reconnected
+with dr. Berlinski
+and dr. Schroeder
+
+
+1803
+1:25:10,4 --> 1:25:17,6
+To see if they had
+any advice.
+
+
+1804
+1:25:17,6 --> 1:25:19,3
+Berlinski:
+there's a boundary
+
+
+1805
+1:25:19,3 --> 1:25:21,5
+To what science
+will accept right now.
+
+
+1806
+1:25:21,5 --> 1:25:24,6
+I think the parallel
+is exactly this wall
+coming down.
+
+
+1807
+1:25:24,6 --> 1:25:27,7
+Ask any berliner
+from the east side
+
+
+1808
+1:25:27,7 --> 1:25:30,5
+What it meant
+to have the wall come down.
+
+
+1809
+1:25:30,5 --> 1:25:35,0
+If it is possible to make
+a break in the wall,
+
+
+1810
+1:25:35,0 --> 1:25:37,3
+That would allow academia
+
+
+1811
+1:25:37,3 --> 1:25:39,9
+To ask these fundamental
+questions that exist
+
+
+1812
+1:25:39,9 --> 1:25:45,6
+And allow them
+in the science classrooms
+as well.
+
+
+1813
+1:25:45,6 --> 1:25:48,3
+It'd be nice to see
+the scientific establishment
+
+
+1814
+1:25:48,3 --> 1:25:50,0
+Lose some of its
+prestige and power.
+
+
+1815
+1:25:50,0 --> 1:25:52,9
+It'd be nice to see
+other questions
+being opened up.
+
+
+1816
+1:25:52,9 --> 1:25:54,4
+Above all,
+it would be nice
+
+
+1817
+1:25:54,4 --> 1:25:57,2
+To have a real spirit
+of self-criticism
+
+
+1818
+1:25:57,2 --> 1:26:0,7
+Penetrating
+the sciences.
+
+
+1819
+1:26:0,7 --> 1:26:2,9
+Stein: what can I do
+to bring down the wall?
+
+
+1820
+1:26:2,9 --> 1:26:4,5
+Is there anything
+I can do?
+
+
+1821
+1:26:4,5 --> 1:26:6,2
+Make it apparent
+to the world
+
+
+1822
+1:26:6,2 --> 1:26:7,6
+That a wall exists.
+
+
+1823
+1:26:7,6 --> 1:26:9,7
+There are vast numbers
+of persons
+
+
+1824
+1:26:9,7 --> 1:26:11,9
+Who talk about
+academic freedom,
+
+
+1825
+1:26:11,9 --> 1:26:14,3
+And there is
+academic freedom
+
+
+1826
+1:26:14,3 --> 1:26:17,1
+As long as you're
+on the correct side
+of the wall.
+
+
+1827
+1:26:17,1 --> 1:26:19,4
+But if you're
+on the wrong side
+of the wall,
+
+
+1828
+1:26:19,4 --> 1:26:20,7
+As you mentioned
+a few moments ago,
+
+
+1829
+1:26:20,7 --> 1:26:23,9
+You lose tenure,
+and that's a given.
+
+
+1830
+1:26:23,9 --> 1:26:27,0
+I took dr. Schroeder's words
+to heart.
+
+
+1831
+1:26:27,0 --> 1:26:30,0
+Obviously I couldn't
+take down the wall myself,
+
+
+1832
+1:26:30,0 --> 1:27:25,6
+But I could confront
+one of its modern architects.
+
+
+1833
+1:27:25,6 --> 1:27:28,5
+Hello, professor dawkins.
+How are you?
+
+
+1834
+1:27:28,5 --> 1:27:31,0
+I'm ben stein,
+i'm so sorry
+to keep you waiting.
+
+
+1835
+1:27:31,0 --> 1:27:34,6
+- how are you?
+- fine, thank you.
+
+
+1836
+1:27:34,6 --> 1:27:36,6
+You have--
+you have written
+
+
+1837
+1:27:36,6 --> 1:27:39,1
+That God is
+a psychotic delinquent
+
+
+1838
+1:27:39,1 --> 1:27:41,8
+Invented by mad,
+deluded people.
+
+
+1839
+1:27:41,8 --> 1:27:43,1
+No, I didn't say
+quite that.
+
+
+1840
+1:27:43,1 --> 1:27:45,1
+I said something
+rather better than that.
+
+
+1841
+1:27:45,1 --> 1:27:47,5
+Oh, well, please tell
+us what you said.
+
+
+1842
+1:27:47,5 --> 1:27:49,8
+Well, I would have
+to read it from the book.
+
+
+1843
+1:27:49,8 --> 1:27:51,7
+No, please.
+
+
+1844
+1:27:51,7 --> 1:27:53,0
+"the God
+of the old testament
+
+
+1845
+1:27:53,0 --> 1:27:55,4
+"is arguably the most
+unpleasant character
+
+
+1846
+1:27:55,4 --> 1:27:56,5
+"in all fiction--
+
+
+1847
+1:27:56,5 --> 1:27:58,0
+"jealous and proud of it,
+
+
+1848
+1:27:58,0 --> 1:28:1,2
+"a petty, unjust,
+unforgiving control freak,
+
+
+1849
+1:28:1,2 --> 1:28:3,8
+"a vindictive, bloodthirsty
+ethnic cleanser,
+
+
+1850
+1:28:3,8 --> 1:28:5,8
+"a misogynistic,
+homophobic,
+
+
+1851
+1:28:5,8 --> 1:28:9,2
+"racist, infanticidal,
+genocidal, filicidal,
+
+
+1852
+1:28:9,2 --> 1:28:11,4
+"pestilential,
+megalomaniacal,
+
+
+1853
+1:28:11,4 --> 1:28:12,7
+"sadomasochistic,
+
+
+1854
+1:28:12,7 --> 1:28:14,8
+Capriciously
+malevolent bully."
+
+
+1855
+1:28:14,8 --> 1:28:16,8
+- so that's
+what you think of God.
+- yeah.
+
+
+1856
+1:28:16,8 --> 1:28:18,7
+How about if people
+believed in a God
+
+
+1857
+1:28:18,7 --> 1:28:21,1
+Of infinite lovingness
+and kindness
+
+
+1858
+1:28:21,1 --> 1:28:23,7
+And forgiveness
+and generosity,
+
+
+1859
+1:28:23,7 --> 1:28:26,0
+Sort of like
+the modern-day God.
+
+
+1860
+1:28:26,0 --> 1:28:28,8
+Why spoil it for them?
+
+
+1861
+1:28:28,8 --> 1:28:32,4
+- oh, um--
+- why not just let them
+have their fun and enjoy it?
+
+
+1862
+1:28:32,4 --> 1:28:35,0
+I don't want to spoil
+anything for anybody.
+
+
+1863
+1:28:35,0 --> 1:28:37,8
+I write a book.
+People can read it
+if they want to.
+
+
+1864
+1:28:37,8 --> 1:28:41,2
+I believe that it is
+a liberating thing
+
+
+1865
+1:28:41,2 --> 1:28:45,3
+To free yourself
+from primitive superstition.
+
+
+1866
+1:28:45,3 --> 1:28:46,9
+So religion's
+a primitive superstition?
+
+
+1867
+1:28:46,9 --> 1:28:48,5
+Oh, I think it is, yes.
+
+
+1868
+1:28:48,5 --> 1:28:51,0
+So, uh, you believe
+it's liberating
+
+
+1869
+1:28:51,0 --> 1:28:53,8
+To tell people
+that there is no God.
+
+
+1870
+1:28:53,8 --> 1:28:56,3
+I think a lot of people,
+when they give up God,
+
+
+1871
+1:28:56,3 --> 1:29:0,2
+Feel a great sense
+of release and freedom.
+
+
+1872
+1:29:0,2 --> 1:29:1,8
+Why do you think that?
+
+
+1873
+1:29:1,8 --> 1:29:4,5
+- you're a scientist.
+What's your data?
+- well, I...
+
+
+1874
+1:29:4,5 --> 1:29:6,9
+Well, i've had a lot
+of letters saying that.
+
+
+1875
+1:29:6,9 --> 1:29:9,1
+There're eight billion people
+in the world, dr. Dawkins.
+
+
+1876
+1:29:9,1 --> 1:29:10,1
+Yeah, I know,
+I know...
+
+
+1877
+1:29:10,1 --> 1:29:11,7
+How many letters
+have you had?
+
+
+1878
+1:29:11,7 --> 1:29:13,7
+No, I--
+that's quite true.
+
+
+1879
+1:29:13,7 --> 1:29:17,7
+Professor dawkins
+seemed so convinced
+that God doesn't exist
+
+
+1880
+1:29:17,7 --> 1:29:20,7
+That I wondered if he
+would be willing to put
+a number on it.
+
+
+1881
+1:29:20,7 --> 1:29:22,8
+Well, it's hard to put
+a figure on it,
+
+
+1882
+1:29:22,8 --> 1:29:25,0
+But i'd put it
+as something like,
+
+
+1883
+1:29:25,0 --> 1:29:27,5
+You know, 99% against
+or something--
+
+
+1884
+1:29:27,5 --> 1:29:30,4
+Well, how do you know
+it's 99% and not, say, 97%?
+
+
+1885
+1:29:30,4 --> 1:29:32,9
+I don't. You asked me
+to put a figure on it,
+
+
+1886
+1:29:32,9 --> 1:29:35,7
+And i'm not comfortable
+putting a figure on it.
+
+
+1887
+1:29:35,7 --> 1:29:38,8
+I think it's--
+I just think it's
+very unlikely.
+
+
+1888
+1:29:38,8 --> 1:29:41,3
+But you couldn't put
+a number on it.
+
+
+1889
+1:29:41,3 --> 1:29:42,2
+No, of course not.
+
+
+1890
+1:29:42,2 --> 1:29:44,2
+So it could be 49%.
+
+
+1891
+1:29:44,2 --> 1:29:48,5
+Well, it would be--
+I mean, I think it's unlikely,
+
+
+1892
+1:29:48,5 --> 1:29:51,7
+And it's quite far
+from 50%.
+
+
+1893
+1:29:51,7 --> 1:29:53,1
+How do you know?
+
+
+1894
+1:29:53,1 --> 1:29:54,1
+I don't know.
+
+
+1895
+1:29:54,1 --> 1:29:56,9
+I mean, I put
+an argument in the book.
+
+
+1896
+1:29:56,9 --> 1:29:58,5
+Then who did create
+the heavens and the earth?
+
+
+1897
+1:29:58,5 --> 1:29:59,8
+Why do you use
+the word "who?"
+
+
+1898
+1:29:59,8 --> 1:30:1,6
+You see,
+you immediately beg
+the question
+
+
+1899
+1:30:1,6 --> 1:30:3,0
+By using the word "who."
+
+
+1900
+1:30:3,0 --> 1:30:5,6
+Then how did
+it get created?
+
+
+1901
+1:30:5,6 --> 1:30:9,9
+Well, um...
+By a very slow process.
+
+
+1902
+1:30:9,9 --> 1:30:11,1
+Well, how did it start?
+
+
+1903
+1:30:11,1 --> 1:30:13,2
+Nobody knows
+how it got started.
+
+
+1904
+1:30:13,2 --> 1:30:15,3
+We know the kind of event
+that it must've been.
+
+
+1905
+1:30:15,3 --> 1:30:17,4
+We know the sort of event
+that must've happened
+
+
+1906
+1:30:17,4 --> 1:30:19,2
+- for the origin of life.
+- what was that?
+
+
+1907
+1:30:19,2 --> 1:30:23,3
+It was the origin of the first
+self-replicating molecule.
+
+
+1908
+1:30:23,3 --> 1:30:25,1
+Right, and how did
+that happen?
+
+
+1909
+1:30:25,1 --> 1:30:27,3
+I've told you,
+we don't know.
+
+
+1910
+1:30:27,3 --> 1:30:29,4
+So you have no idea
+how it started?
+
+
+1911
+1:30:29,4 --> 1:30:31,4
+No, no.
+Nor has anybody.
+
+
+1912
+1:30:31,4 --> 1:30:32,4
+Nor has anyone else.
+
+
+1913
+1:30:32,4 --> 1:30:34,2
+What do you think
+is the possibility
+
+
+1914
+1:30:34,2 --> 1:30:35,7
+That intelligent design
+
+
+1915
+1:30:35,7 --> 1:30:37,3
+Might turn out to be
+
+
+1916
+1:30:37,3 --> 1:30:40,2
+The answer to some
+issues in genetics
+
+
+1917
+1:30:40,2 --> 1:30:42,5
+Or in evolution?
+
+
+1918
+1:30:42,5 --> 1:30:44,6
+It could come about
+in the following way.
+
+
+1919
+1:30:44,6 --> 1:30:48,4
+It could be that
+at some earlier time,
+
+
+1920
+1:30:48,4 --> 1:30:49,9
+Somewhere in the universe,
+
+
+1921
+1:30:49,9 --> 1:30:53,1
+A civilization evolved
+
+
+1922
+1:30:53,1 --> 1:30:55,6
+By probably some kind
+of darwinian means
+
+
+1923
+1:30:55,6 --> 1:30:58,5
+To a very, very high level
+of technology
+
+
+1924
+1:30:58,5 --> 1:31:0,8
+And designed
+a form of life
+
+
+1925
+1:31:0,8 --> 1:31:3,6
+That they seeded onto,
+perhaps, this planet.
+
+
+1926
+1:31:3,6 --> 1:31:9,4
+Now, that is a possibility
+and an intriguing possibility,
+
+
+1927
+1:31:9,4 --> 1:31:12,0
+And I suppose it's possible
+that you might find
+evidence for that.
+
+
+1928
+1:31:12,0 --> 1:31:15,6
+If you look
+at the detail--
+
+
+1929
+1:31:15,6 --> 1:31:18,3
+Details of biochemistry,
+molecular biology,
+
+
+1930
+1:31:18,3 --> 1:31:21,6
+You might find a signature
+of some sort of designer.
+
+
+1931
+1:31:21,6 --> 1:31:22,9
+Wait a second.
+
+
+1932
+1:31:22,9 --> 1:31:25,7
+Richard dawkins
+thought intelligent design
+
+
+1933
+1:31:25,7 --> 1:31:27,6
+Might be
+a legitimate pursuit?
+
+
+1934
+1:31:27,6 --> 1:31:31,7
+And that designer
+could well be
+a higher intelligence
+
+
+1935
+1:31:31,7 --> 1:31:34,4
+From elsewhere
+in the universe.
+
+
+1936
+1:31:34,4 --> 1:31:36,0
+- well--
+- but that higher
+intelligence
+
+
+1937
+1:31:36,0 --> 1:31:38,4
+Would itself have had
+to have come about
+
+
+1938
+1:31:38,4 --> 1:31:42,6
+By some explicable
+or ultimately
+explicable process.
+
+
+1939
+1:31:42,6 --> 1:31:46,3
+It couldn't have just jumped
+into existence spontaneously.
+That's the point.
+
+
+1940
+1:31:46,3 --> 1:31:51,0
+So professor dawkins
+was not against
+intelligent design,
+
+
+1941
+1:31:51,0 --> 1:31:53,7
+Just certain types
+of designers,
+
+
+1942
+1:31:53,7 --> 1:31:55,7
+Such as God.
+
+
+1943
+1:31:55,7 --> 1:31:57,3
+So the hebrew God,
+
+
+1944
+1:31:57,3 --> 1:31:58,8
+The God of
+the old testament--
+
+
+1945
+1:31:58,8 --> 1:32:1,1
+He doesn't exist
+in your view?
+
+
+1946
+1:32:1,1 --> 1:32:2,9
+Uh, certainly.
+
+
+1947
+1:32:2,9 --> 1:32:5,8
+I mean, that would be
+a very unpleasant prospect.
+
+
+1948
+1:32:5,8 --> 1:32:8,0
+And the holy trinity
+of the new testament--
+
+
+1949
+1:32:8,0 --> 1:32:9,6
+No, nothing like that.
+
+
+1950
+1:32:9,6 --> 1:32:13,3
+Do you believe
+in any of the hindu Gods?
+
+
+1951
+1:32:13,3 --> 1:32:15,2
+- like vishnu?
+- how can you ask
+such a question?
+
+
+1952
+1:32:15,2 --> 1:32:16,3
+- you don't, right?
+- how could I?
+
+
+1953
+1:32:16,3 --> 1:32:17,5
+I mean, why would I,
+
+
+1954
+1:32:17,5 --> 1:32:19,1
+Given that I don't believe
+in any others?
+
+
+1955
+1:32:19,1 --> 1:32:20,5
+You don't believe
+in the moslem God.
+
+
+1956
+1:32:20,5 --> 1:32:24,1
+No. Why do you
+even need to ask?
+
+
+1957
+1:32:24,1 --> 1:32:25,6
+I just wanted
+to be sure.
+
+
+1958
+1:32:25,6 --> 1:32:29,4
+So you don't believe
+in any God anywhere.
+
+
+1959
+1:32:29,4 --> 1:32:32,9
+Any God anywhere
+would be completely
+incompatible
+
+
+1960
+1:32:32,9 --> 1:32:37,8
+With--with anything
+that i've said in--
+
+
+1961
+1:32:37,8 --> 1:32:40,4
+I assumed, I just
+wanted to make sure
+
+
+1962
+1:32:40,4 --> 1:32:42,6
+You don't believe
+in any God anywhere.
+
+
+1963
+1:32:42,6 --> 1:32:45,7
+- no.
+- what if after you died,
+you ran into God.
+
+
+1964
+1:32:45,7 --> 1:32:48,1
+He said, "what have
+you been doing, richard?
+
+
+1965
+1:32:48,1 --> 1:32:49,4
+"I mean, what have
+you been doing?
+
+
+1966
+1:32:49,4 --> 1:32:50,9
+"i've been trying
+to be nice to you.
+
+
+1967
+1:32:50,9 --> 1:32:53,9
+"I gave you
+a multimillion-dollar
+paycheck
+
+
+1968
+1:32:53,9 --> 1:32:55,9
+"over and over again
+with your book,
+
+
+1969
+1:32:55,9 --> 1:32:57,4
+And look what you did."
+
+
+1970
+1:32:57,4 --> 1:32:59,9
+Bertram russell
+had that point put to him,
+
+
+1971
+1:32:59,9 --> 1:33:2,3
+And he said
+something like,
+
+
+1972
+1:33:2,3 --> 1:33:9,6
+"sir, why did you take such
+pains to hide yourself?"
+
+
+1973
+1:33:9,6 --> 1:33:12,8
+But if the intelligent design
+people are right,
+
+
+1974
+1:33:12,8 --> 1:33:14,6
+God isn't hidden.
+
+
+1975
+1:33:14,6 --> 1:33:18,1
+We may even be able to
+encounter God through science
+
+
+1976
+1:33:18,1 --> 1:33:21,4
+If we have the freedom
+to go there.
+
+
+1977
+1:33:21,4 --> 1:33:28,7
+What could be
+more intriguing than that?
+
+
+1978
+1:33:28,7 --> 1:33:31,4
+[at podium]
+we take freedom for granted
+
+
+1979
+1:33:31,4 --> 1:33:33,4
+Here in the United States.
+
+
+1980
+1:33:33,4 --> 1:33:37,7
+Freedom is what
+this country is all about.
+
+
+1981
+1:33:37,7 --> 1:33:41,6
+And a huge part of freedom
+is freedom of inquiry.
+
+
+1982
+1:33:41,6 --> 1:33:43,7
+But now,
+i'm sorry to say,
+
+
+1983
+1:33:43,7 --> 1:33:47,4
+Freedom of inquiry in science
+is being suppressed.
+
+
+1984
+1:33:47,4 --> 1:33:49,7
+Behind me stands a wall
+
+
+1985
+1:33:49,7 --> 1:33:53,4
+That encircles
+the free sectors of this city,
+
+
+1986
+1:33:53,4 --> 1:33:56,7
+Part of a vast system
+of barriers.
+
+
+1987
+1:33:56,7 --> 1:33:58,0
+There are people
+out there
+
+
+1988
+1:33:58,0 --> 1:34:0,3
+Who want to keep science
+in a little box
+
+
+1989
+1:34:0,3 --> 1:34:3,4
+Where it can't possibly touch
+a higher power,
+
+
+1990
+1:34:3,4 --> 1:34:5,8
+Cannot possibly touch God.
+
+
+1991
+1:34:5,8 --> 1:34:7,8
+Those barriers
+cut across germany
+
+
+1992
+1:34:7,8 --> 1:34:9,9
+In a gash of barbed wire,
+
+
+1993
+1:34:9,9 --> 1:34:14,3
+Concrete, dog runs,
+and guard towers.
+
+
+1994
+1:34:14,3 --> 1:34:15,8
+If you believe in God
+
+
+1995
+1:34:15,8 --> 1:34:17,3
+And you believe
+that there is
+
+
+1996
+1:34:17,3 --> 1:34:19,1
+An intrinsic order
+in the universe
+
+
+1997
+1:34:19,1 --> 1:34:21,3
+And you believe that
+it's the role of science
+
+
+1998
+1:34:21,3 --> 1:34:24,3
+To try to pursue
+and understand better
+that order,
+
+
+1999
+1:34:24,3 --> 1:34:26,8
+You will be ostracized.
+
+
+2000
+1:34:26,8 --> 1:34:29,2
+I'm frightened by this,
+
+
+2001
+1:34:29,2 --> 1:34:30,8
+But i'm not going
+to let it stop me
+
+
+2002
+1:34:30,8 --> 1:34:32,7
+From investigating
+or from speaking.
+
+
+2003
+1:34:32,7 --> 1:34:36,9
+The wall cannot withstand
+freedom.
+
+
+2004
+1:34:36,9 --> 1:34:39,7
+What i'm asking for
+is the freedom
+
+
+2005
+1:34:39,7 --> 1:34:44,1
+To follow the evidence
+wherever it leads.
+
+
+2006
+1:34:44,1 --> 1:34:45,7
+My hope is that
+there'll be enough
+
+
+2007
+1:34:45,7 --> 1:34:47,4
+Independent-thinking
+scientists
+
+
+2008
+1:34:47,4 --> 1:34:49,9
+Who don't like to be
+told what to think.
+
+
+2009
+1:34:49,9 --> 1:34:52,2
+People on both sides
+of the argument
+
+
+2010
+1:34:52,2 --> 1:34:55,3
+Being prepared
+to talk and listen,
+
+
+2011
+1:34:55,3 --> 1:34:57,1
+And, above all,
+a willingness
+
+
+2012
+1:34:57,1 --> 1:34:59,0
+To keep
+these dialogues open.
+
+
+2013
+1:34:59,0 --> 1:35:2,7
+It might allow a lot
+of very good scientists
+
+
+2014
+1:35:2,7 --> 1:35:4,1
+To be scientists,
+
+
+2015
+1:35:4,1 --> 1:35:6,7
+Who aren't allowed
+to be scientists right now.
+
+
+2016
+1:35:6,7 --> 1:35:9,0
+I don't care what they
+end up as being.
+
+
+2017
+1:35:9,0 --> 1:35:11,1
+I don't care if they
+end up being religious
+
+
+2018
+1:35:11,1 --> 1:35:13,2
+Or young-earth
+creationists.
+
+
+2019
+1:35:13,2 --> 1:35:14,8
+If they have
+thought their way
+
+
+2020
+1:35:14,8 --> 1:35:16,7
+Through the issues
+and get there,
+
+
+2021
+1:35:16,7 --> 1:35:18,6
+I'm all for them.
+
+
+2022
+1:35:18,6 --> 1:35:21,2
+And why do I think
+we're going to win
+in this struggle?
+
+
+2023
+1:35:21,2 --> 1:35:24,1
+Because truth crushed
+to earth will rise again.
+
+
+2024
+1:35:24,1 --> 1:35:27,0
+To find out what's true
+has a value all of its own.
+
+
+2025
+1:35:27,0 --> 1:35:30,7
+If it has additional
+good consequences, so be it.
+
+
+2026
+1:35:30,7 --> 1:35:33,1
+Because no lie
+can live forever.
+
+
+2027
+1:35:33,1 --> 1:35:36,1
+I believe that science
+gives us one perspective
+on the world,
+
+
+2028
+1:35:36,1 --> 1:35:38,9
+And our religious insight
+gives us another perspective
+on the world.
+
+
+2029
+1:35:38,9 --> 1:35:40,4
+By putting the two together,
+
+
+2030
+1:35:40,4 --> 1:35:43,1
+Then we'll see
+more deeply and more truly.
+
+
+2031
+1:35:43,1 --> 1:35:45,5
+And if we will stand up
+for freedom...
+
+
+2032
+1:35:45,5 --> 1:35:48,2
+Freedom is the victor.
+
+
+2033
+1:35:48,2 --> 1:35:51,5
+If we all do that,
+we will overcome.
+
+
+2034
+1:35:51,5 --> 1:35:55,3
+[the killer's "all these things
+that i've done" plays]
+
+
+2035
+1:35:55,3 --> 1:35:56,9
+[audience applauding]
+
+
+2036
+1:35:56,9 --> 1:36:0,6
+ all these things
+that i've done 
+
+
+2037
+1:36:0,6 --> 1:36:5,3
+ yeah, you're gonna bring
+yourself down 
+
+
+2038
+1:36:5,3 --> 1:36:11,3
+ yeah, you're gonna bring
+yourself down 
+
+
+2039
+1:36:11,3 --> 1:36:13,0
+I've taken a first step
+
+
+2040
+1:36:13,0 --> 1:36:15,1
+By speaking out
+on this issue.
+
+
+2041
+1:36:15,1 --> 1:36:17,0
+But if the wall
+is to come down,
+
+
+2042
+1:36:17,0 --> 1:36:18,8
+We all have to do our part.
+
+
+2043
+1:36:18,8 --> 1:36:21,7
+Some of you
+will pay a heavy price
+for speaking out.
+
+
+2044
+1:36:21,7 --> 1:36:23,8
+You may even lose your job.
+
+
+2045
+1:36:23,8 --> 1:36:26,9
+I guarantee you
+you'll get hate e-mail.
+
+
+2046
+1:36:26,9 --> 1:36:29,0
+But if you don't
+get involved,
+
+
+2047
+1:36:29,0 --> 1:36:32,7
+Will anyone be left
+to carry on the struggle?
+
+
+2048
+1:36:32,7 --> 1:36:33,7
+Anyone?
+
+
+2049
+1:36:33,7 --> 1:36:37,8
+Anyone?
+
+
+2050
+1:36:37,8 --> 1:36:42,3
+ I got soul,
+but i'm not a soldier 
+
+
+2051
+1:36:42,3 --> 1:36:46,3
+ I got soul,
+but i'm not a soldier 
+
+
+2052
+1:36:46,3 --> 1:36:50,5
+ I got soul,
+but i'm not a soldier 
+
+
+2053
+1:36:50,5 --> 1:36:54,8
+ I got soul,
+but i'm not a soldier 
+
+
+2054
+1:36:54,8 --> 1:37:7,9
+ I got soul,
+but i'm not a soldier 
+
+
+2055
+1:37:7,9 --> 1:37:12,2
+ yeah, you know
+you got to help me out 
+
+
+2056
+1:37:12,2 --> 1:37:17,9
+ yeah, oh don't you put me
+on the back burner 
+
+
+2057
+1:37:17,9 --> 1:37:20,7
+ you know
+you got to help me out 
+
+
+2058
+1:37:20,7 --> 1:37:24,6
+ yeah, you're gonna bring
+yourself down 
+
+
+2059
+1:37:24,6 --> 1:37:29,2
+ yeah, you're gonna bring
+yourself down 
+
+
+2060
+1:37:29,2 --> 1:37:34,6
+ yeah, oh don't you put me
+on the back burner 
+
+
+2061
+1:37:34,6 --> 1:37:37,3
+ you're gonna bring
+yourself down 
+
+
+2062
+1:37:37,3 --> 1:37:41,3
+ yeah, you're gonna bring
+yourself down 
+
+
+2063
+1:37:41,3 --> 1:37:45,9
+ over and in 
+
+
+2064
+1:37:45,9 --> 1:37:49,6
+ last call for sin 
+
+
+2065
+1:37:49,6 --> 1:37:54,0
+ while everyone's lost,
+the battle is won 
+
+
+2066
+1:37:54,0 --> 1:39:54,0
+ with all these things
+that i've done 
+
+

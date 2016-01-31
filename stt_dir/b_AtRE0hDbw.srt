@@ -1,0 +1,7961 @@
+1
+0:0:0,0 --> 0:0:2,16
+
+
+
+2
+0:0:2,16 --> 0:0:4,8
+MING: Good afternoon,
+my friends.
+
+
+3
+0:0:4,8 --> 0:0:6,18
+My mane is Ming, and
+I'm delighted today
+
+
+4
+0:0:6,18 --> 0:0:10,9
+to introduce my friend the
+renowned social psychologist
+
+
+5
+0:0:10,9 --> 0:0:13,55
+David DeSteno and the author
+of this book, "The Truth About
+
+
+6
+0:0:13,55 --> 0:0:15,95
+Trust."
+
+
+7
+0:0:15,95 --> 0:0:19,139
+I first got to know
+David-- thank you, Dana.
+
+
+8
+0:0:19,139 --> 0:0:21,43
+I first got to know David
+through his highly innovative
+
+
+9
+0:0:21,43 --> 0:0:25,84
+work in studying the
+science of compassion, which
+
+
+10
+0:0:25,84 --> 0:0:28,12
+is a topic I'm very
+passionate about.
+
+
+11
+0:0:28,12 --> 0:0:31,7
+David and his lab, they
+are renowned for devising
+
+
+12
+0:0:31,7 --> 0:0:34,3
+very creative
+methods in studying
+
+
+13
+0:0:34,3 --> 0:0:37,38
+how emotional states
+affect behavior.
+
+
+14
+0:0:37,38 --> 0:0:40,51
+And they are also known
+for studying moral behavior
+
+
+15
+0:0:40,51 --> 0:0:42,22
+in real time.
+
+
+16
+0:0:42,22 --> 0:0:47,75
+Real time, not fake time like
+the other labs, real time.
+
+
+17
+0:0:47,75 --> 0:0:50,64
+David is most
+interested to figure out
+
+
+18
+0:0:50,64 --> 0:0:55,58
+how to foster prosocial
+behavior all around the world.
+
+
+19
+0:0:55,58 --> 0:0:58,91
+And he told me that
+in summary his work
+
+
+20
+0:0:58,91 --> 0:1:3,63
+can be summarised in three
+words, vice and virtue.
+
+
+21
+0:1:3,63 --> 0:1:7,726
+Vice and virtue, there's one
+that I prefer over the other.
+
+
+22
+0:1:7,726 --> 0:1:10,1
+And with that, my friends,
+let's please welcome my friend
+
+
+23
+0:1:10,1 --> 0:1:10,683
+David DeSteno.
+
+
+24
+0:1:10,683 --> 0:1:15,939
+
+
+
+25
+0:1:15,939 --> 0:1:17,73
+DAVID DESTENO: And
+thank you for having me.
+
+
+26
+0:1:17,73 --> 0:1:19,93
+It's a real honor to be
+with you here and share
+
+
+27
+0:1:19,93 --> 0:1:20,849
+this work with you.
+
+
+28
+0:1:20,849 --> 0:1:22,89
+And as you can probably
+guess by the title today,
+
+
+29
+0:1:22,89 --> 0:1:25,4
+I'm going to talk about trust.
+
+
+30
+0:1:25,4 --> 0:1:27,46
+I think it probably comes
+as no surprise to you
+
+
+31
+0:1:27,46 --> 0:1:31,5
+that issues and dilemmas
+of trust pervade our lives.
+
+
+32
+0:1:31,5 --> 0:1:35,26
+Trust determines who we want
+to work with, who we love
+
+
+33
+0:1:35,26 --> 0:1:39,36
+and who would marry, who
+we trust to learn from,
+
+
+34
+0:1:39,36 --> 0:1:42,1
+who we'll go to for support.
+
+
+35
+0:1:42,1 --> 0:1:43,635
+Now, we all can
+remember the big stuff,
+
+
+36
+0:1:43,635 --> 0:1:45,4
+the times trust really matters.
+
+
+37
+0:1:45,4 --> 0:1:48,665
+Is a new business partner
+going to be trustworthy,
+
+
+38
+0:1:48,665 --> 0:1:50,82
+or is he going to skim profits?
+
+
+39
+0:1:50,82 --> 0:1:54,21
+Is a spouse being
+faithful or unfaithful?
+
+
+40
+0:1:54,21 --> 0:1:57,96
+Is a child using drugs even
+when she swears, trust me.
+
+
+41
+0:1:57,96 --> 0:1:58,46
+Trust me.
+
+
+42
+0:1:58,46 --> 0:1:58,959
+Trust me.
+
+
+43
+0:1:58,959 --> 0:1:59,75
+I'm not.
+
+
+44
+0:1:59,75 --> 0:2:2,83
+But issues of trust aren't
+just about those potentially
+
+
+45
+0:2:2,83 --> 0:2:4,35
+momentous situations.
+
+
+46
+0:2:4,35 --> 0:2:7,71
+Issues of trust pervade
+our common daily life.
+
+
+47
+0:2:7,71 --> 0:2:11,69
+Will my neighbor remember and I
+trust him to really feed my dog
+
+
+48
+0:2:11,69 --> 0:2:14,54
+while I'm away, or am I going to
+come home and the dog's hungry?
+
+
+49
+0:2:14,54 --> 0:2:16,7
+The mechanic, is he
+really being honest when
+
+
+50
+0:2:16,7 --> 0:2:19,11
+he says my car need
+a new transmission?
+
+
+51
+0:2:19,11 --> 0:2:21,88
+Was the salesperson when I
+bought this suit really honest
+
+
+52
+0:2:21,88 --> 0:2:24,34
+when he told me it
+makes me look thin?
+
+
+53
+0:2:24,34 --> 0:2:25,15
+You can tell me.
+
+
+54
+0:2:25,15 --> 0:2:25,95
+I don't know.
+
+
+55
+0:2:25,95 --> 0:2:26,96
+I won't comment on that.
+
+
+56
+0:2:26,96 --> 0:2:29,18
+But whether it's big
+or whether it's small,
+
+
+57
+0:2:29,18 --> 0:2:32,16
+what all of these issues have
+in common is a simple dynamic.
+
+
+58
+0:2:32,16 --> 0:2:34,96
+They really depend on trust.
+
+
+59
+0:2:34,96 --> 0:2:38,96
+And we know the more
+we trust individuals,
+
+
+60
+0:2:38,96 --> 0:2:40,98
+we can gain a lot
+more by working
+
+
+61
+0:2:40,98 --> 0:2:42,54
+together and cooperating.
+
+
+62
+0:2:42,54 --> 0:2:44,38
+But in reality, as you
+probably can guess,
+
+
+63
+0:2:44,38 --> 0:2:46,36
+trust is a double-edged sword.
+
+
+64
+0:2:46,36 --> 0:2:48,36
+Yes, we can gain more
+by working together.
+
+
+65
+0:2:48,36 --> 0:2:50,48
+That's why we have trust
+in the first place.
+
+
+66
+0:2:50,48 --> 0:2:55,4
+But trusting somebody also makes
+us vulnerable to that person.
+
+
+67
+0:2:55,4 --> 0:2:57,99
+It means that our outcomes
+are dependent on them being
+
+
+68
+0:2:57,99 --> 0:2:59,63
+competent, on them
+having integrity,
+
+
+69
+0:2:59,63 --> 0:3:2,57
+on them working with us.
+
+
+70
+0:3:2,57 --> 0:3:6,67
+And so given that trust is
+so central to human life,
+
+
+71
+0:3:6,67 --> 0:3:9,38
+you would hope, you would
+like to think that we really
+
+
+72
+0:3:9,38 --> 0:3:12,34
+understand how it works, that we
+can make really good decisions
+
+
+73
+0:3:12,34 --> 0:3:14,9
+about who we should
+trust or whether we're
+
+
+74
+0:3:14,9 --> 0:3:16,164
+going to be
+trustworthy ourselves.
+
+
+75
+0:3:16,164 --> 0:3:18,58
+But I'm here to tell you we're
+not really good about that.
+
+
+76
+0:3:18,58 --> 0:3:20,83
+And until recently, the
+science underlying that
+
+
+77
+0:3:20,83 --> 0:3:22,75
+hasn't been really
+good about it.
+
+
+78
+0:3:22,75 --> 0:3:26,16
+And so in some ways, that's
+what led me to write this book.
+
+
+79
+0:3:26,16 --> 0:3:27,79
+As a scientist, I
+really wanted to work
+
+
+80
+0:3:27,79 --> 0:3:30,64
+on correcting a lot of
+the misconceptions that
+
+
+81
+0:3:30,64 --> 0:3:33,77
+are out there to empower
+people to make better
+
+
+82
+0:3:33,77 --> 0:3:37,29
+decisions but also so
+that we can work together
+
+
+83
+0:3:37,29 --> 0:3:40,22
+to nudge us all to nudge
+society to become more
+
+
+84
+0:3:40,22 --> 0:3:43,16
+trustworthy and
+cooperative overall.
+
+
+85
+0:3:43,16 --> 0:3:45,99
+So to do that, you
+have to start like you
+
+
+86
+0:3:45,99 --> 0:3:46,14
+would with anything else.
+
+
+87
+0:3:46,14 --> 0:3:47,848
+You have to get rid
+of the misconceptions
+
+
+88
+0:3:47,848 --> 0:3:50,69
+and figure out how
+trust really works.
+
+
+89
+0:3:50,69 --> 0:3:53,11
+And so that's what I want to
+talk about today in general.
+
+
+90
+0:3:53,11 --> 0:3:54,46
+In the book, I talk
+about lots of issues
+
+
+91
+0:3:54,46 --> 0:3:55,51
+that I'm not going
+to talk about today.
+
+
+92
+0:3:55,51 --> 0:3:57,45
+We talk about
+issues of how trust
+
+
+93
+0:3:57,45 --> 0:3:59,83
+affects learning and
+academic success.
+
+
+94
+0:3:59,83 --> 0:4:3,36
+One of the best predictors
+of a child's academic success
+
+
+95
+0:4:3,36 --> 0:4:5,496
+isn't how much they
+like their teacher.
+
+
+96
+0:4:5,496 --> 0:4:7,12
+It's how much they
+trust their teacher.
+
+
+97
+0:4:7,12 --> 0:4:8,536
+And they trust
+that the teacher is
+
+
+98
+0:4:8,536 --> 0:4:11,49
+competent in telling them
+and giving them information.
+
+
+99
+0:4:11,49 --> 0:4:14,68
+We talk about how trust
+affects our relationships
+
+
+100
+0:4:14,68 --> 0:4:16,93
+and especially
+romantic ones and how
+
+
+101
+0:4:16,93 --> 0:4:19,88
+it can function to smooth out
+the bumps in those in ways that
+
+
+102
+0:4:19,88 --> 0:4:21,63
+operate even below our
+conscious awareness
+
+
+103
+0:4:21,63 --> 0:4:24,392
+to keep harmony
+with those we love.
+
+
+104
+0:4:24,392 --> 0:4:25,85
+In the book, I talk
+about how trust
+
+
+105
+0:4:25,85 --> 0:4:27,18
+is affected by power and money.
+
+
+106
+0:4:27,18 --> 0:4:28,679
+There's great work
+out there showing
+
+
+107
+0:4:28,679 --> 0:4:32,21
+that people's trustworthiness
+tracks socioeconomic status.
+
+
+108
+0:4:32,21 --> 0:4:33,52
+This is work by my
+friend Paul Piff.
+
+
+109
+0:4:33,52 --> 0:4:35,71
+He's a psychologist
+at Berkeley where
+
+
+110
+0:4:35,71 --> 0:4:37,48
+he shows that higher
+SES correlates
+
+
+111
+0:4:37,48 --> 0:4:40,22
+to increased untrustworthiness.
+
+
+112
+0:4:40,22 --> 0:4:43,199
+But really it's not
+about being in the 1%.
+
+
+113
+0:4:43,199 --> 0:4:45,74
+It's not a birthright of the 1%
+that makes you untrustworthy.
+
+
+114
+0:4:45,74 --> 0:4:48,5
+It's simply about
+money and power
+
+
+115
+0:4:48,5 --> 0:4:50,1
+relative to those around you.
+
+
+116
+0:4:50,1 --> 0:4:52,37
+And so any of you, if
+we put you in a position
+
+
+117
+0:4:52,37 --> 0:4:55,73
+even for 10 minutes where you
+feel elevated sense of power,
+
+
+118
+0:4:55,73 --> 0:4:58,54
+it becomes a lot more
+difficult in some ways
+
+
+119
+0:4:58,54 --> 0:5:0,33
+to actually be trustworthy.
+
+
+120
+0:5:0,33 --> 0:5:2,69
+And also how and when
+can you trust yourself?
+
+
+121
+0:5:2,69 --> 0:5:3,66
+It's already February.
+
+
+122
+0:5:3,66 --> 0:5:6,34
+A lot of New Year's resolutions
+have gone by the wayside,
+
+
+123
+0:5:6,34 --> 0:5:8,18
+so if it's a good thing to know.
+
+
+124
+0:5:8,18 --> 0:5:11,59
+But today what I want to talk
+about is three broader themes.
+
+
+125
+0:5:11,59 --> 0:5:13,98
+And the first is what does
+it mean to be trustworthy
+
+
+126
+0:5:13,98 --> 0:5:16,68
+and how can we understand how
+trust operates within ourselves
+
+
+127
+0:5:16,68 --> 0:5:18,33
+and our own trustworthiness?
+
+
+128
+0:5:18,33 --> 0:5:21,249
+The second is can
+we actually detect
+
+
+129
+0:5:21,249 --> 0:5:23,29
+whether somebody else is
+going to be trustworthy?
+
+
+130
+0:5:23,29 --> 0:5:25,18
+In some ways, this has
+been the holy grail
+
+
+131
+0:5:25,18 --> 0:5:28,7
+of governmental research
+and security research.
+
+
+132
+0:5:28,7 --> 0:5:29,34
+And we've been pretty bad at it.
+
+
+133
+0:5:29,34 --> 0:5:31,6
+But I have some new
+data I want to share
+
+
+134
+0:5:31,6 --> 0:5:33,334
+with you that
+suggests we can do it.
+
+
+135
+0:5:33,334 --> 0:5:35,25
+And then finally, the
+question that's probably
+
+
+136
+0:5:35,25 --> 0:5:37,63
+closest to my heart in the
+work that I normally do,
+
+
+137
+0:5:37,63 --> 0:5:40,71
+which is, how can we increase
+trustworthiness and thereby
+
+
+138
+0:5:40,71 --> 0:5:44,4
+increase our own and each
+other's resilience around us?
+
+
+139
+0:5:44,4 --> 0:5:48,5
+So let's start with
+the first question.
+
+
+140
+0:5:48,5 --> 0:5:49,92
+Most of us, when we
+think about trust,
+
+
+141
+0:5:49,92 --> 0:5:53,1
+we think about it as
+this stable trait.
+
+
+142
+0:5:53,1 --> 0:5:56,86
+A person's trustworthy
+or they're not.
+
+
+143
+0:5:56,86 --> 0:5:59,1
+But I want to convince
+you that that's probably
+
+
+144
+0:5:59,1 --> 0:6:1,31
+not the best way
+to think about it.
+
+
+145
+0:6:1,31 --> 0:6:3,9
+That's not how it really works.
+
+
+146
+0:6:3,9 --> 0:6:6,8
+Growing up, we have this idea
+that it's a typical motif,
+
+
+147
+0:6:6,8 --> 0:6:7,3
+right?
+
+
+148
+0:6:7,3 --> 0:6:8,71
+You see it in
+cartoons all the time.
+
+
+149
+0:6:8,71 --> 0:6:11,126
+There's an angel on one shoulder
+and a devil on the other,
+
+
+150
+0:6:11,126 --> 0:6:12,9
+and they whisper into your ears.
+
+
+151
+0:6:12,9 --> 0:6:14,85
+And if you grow up
+listening to the angel,
+
+
+152
+0:6:14,85 --> 0:6:16,4
+well then you're going
+to be a good person.
+
+
+153
+0:6:16,4 --> 0:6:17,29
+You're going to be trustworthy.
+
+
+154
+0:6:17,29 --> 0:6:18,7
+Everybody is going to love you.
+
+
+155
+0:6:18,7 --> 0:6:19,68
+Everything's going to be good.
+
+
+156
+0:6:19,68 --> 0:6:22,46
+There's just one
+problem with that.
+
+
+157
+0:6:22,46 --> 0:6:27,12
+And that is if you actually
+look at the scientific data,
+
+
+158
+0:6:27,12 --> 0:6:28,43
+it doesn't really hold up.
+
+
+159
+0:6:28,43 --> 0:6:31,11
+What we've learned over
+the past decade especially
+
+
+160
+0:6:31,11 --> 0:6:33,72
+in psychological science is
+that people's moral behavior
+
+
+161
+0:6:33,72 --> 0:6:36,75
+is a lot more variable than
+any of us would have expected.
+
+
+162
+0:6:36,75 --> 0:6:39,13
+And it's a lot more
+influenced by the situation.
+
+
+163
+0:6:39,13 --> 0:6:41,1
+And so if you want to
+control your own behavior
+
+
+164
+0:6:41,1 --> 0:6:42,974
+and predict the behavior
+of those around you,
+
+
+165
+0:6:42,974 --> 0:6:45,48
+you need to realize that
+it's not a stable trait.
+
+
+166
+0:6:45,48 --> 0:6:49,6
+You need to understand how
+it's affected by the situation.
+
+
+167
+0:6:49,6 --> 0:6:53,43
+And so my model for
+understanding trustworthiness,
+
+
+168
+0:6:53,43 --> 0:6:56,71
+it's better to think of it
+as a scale, the old school
+
+
+169
+0:6:56,71 --> 0:6:58,92
+type of type with
+the plates that go up
+
+
+170
+0:6:58,92 --> 0:7:0,71
+and down as opposed
+to a digital one.
+
+
+171
+0:7:0,71 --> 0:7:4,53
+In any one moment, your mind,
+whether you know it or not,
+
+
+172
+0:7:4,53 --> 0:7:6,65
+is weighing two types of cost.
+
+
+173
+0:7:6,65 --> 0:7:10,21
+It's weighing costs and
+benefits in the short term
+
+
+174
+0:7:10,21 --> 0:7:12,37
+versus costs and benefits
+in the long term.
+
+
+175
+0:7:12,37 --> 0:7:14,79
+And those usually correlate
+with what's good for me
+
+
+176
+0:7:14,79 --> 0:7:18,9
+in an expedient fashion right
+now versus what's good for me
+
+
+177
+0:7:18,9 --> 0:7:22,5
+to do even if it costs me in
+the moment to built a reputation
+
+
+178
+0:7:22,5 --> 0:7:25,17
+and to build social
+bonds in the long term.
+
+
+179
+0:7:25,17 --> 0:7:29,34
+And depending upon the
+situation, which decision you
+
+
+180
+0:7:29,34 --> 0:7:32,692
+choose can change
+from moment to moment.
+
+
+181
+0:7:32,692 --> 0:7:33,65
+You can think about it.
+
+
+182
+0:7:33,65 --> 0:7:36,59
+If my friend Ming
+loans me money,
+
+
+183
+0:7:36,59 --> 0:7:39,8
+in the moment if I don't pay
+him back, well, I'm ahead.
+
+
+184
+0:7:39,8 --> 0:7:40,75
+I've profited in the short term.
+
+
+185
+0:7:40,75 --> 0:7:42,69
+But long term, it's
+probably a poor decision
+
+
+186
+0:7:42,69 --> 0:7:44,23
+because he's not going
+to give me money again.
+
+
+187
+0:7:44,23 --> 0:7:46,271
+I'm going to get a reputation
+as being a cheater.
+
+
+188
+0:7:46,271 --> 0:7:48,65
+But if I can get away
+with it, my mind,
+
+
+189
+0:7:48,65 --> 0:7:51,94
+unbeknownst to me and my own
+moral codes that I endorse,
+
+
+190
+0:7:51,94 --> 0:7:55,942
+will try to push me to
+be a bit untrustworthy.
+
+
+191
+0:7:55,942 --> 0:7:57,525
+And so I want to
+suggest to all of you
+
+
+192
+0:7:57,525 --> 0:7:59,41
+who think this
+can't happen to me
+
+
+193
+0:7:59,41 --> 0:8:1,41
+and that you are
+completely honest
+
+
+194
+0:8:1,41 --> 0:8:5,29
+and trustworthy and wonderful,
+it can happen to any of us.
+
+
+195
+0:8:5,29 --> 0:8:7,73
+And let me show you an
+example of how it happens
+
+
+196
+0:8:7,73 --> 0:8:10,61
+and also why you probably
+don't think it's true of you
+
+
+197
+0:8:10,61 --> 0:8:12,57
+even though it is.
+
+
+198
+0:8:12,57 --> 0:8:15,22
+So the first issue is how do
+you study trustworthiness?
+
+
+199
+0:8:15,22 --> 0:8:17,93
+I can't really walk around with
+a clipboard and say, Cindy,
+
+
+200
+0:8:17,93 --> 0:8:19,78
+are you a trustworthy person?
+
+
+201
+0:8:19,78 --> 0:8:21,85
+Because what people will
+probably say is they'll
+
+
+202
+0:8:21,85 --> 0:8:22,31
+do one of two things.
+
+
+203
+0:8:22,31 --> 0:8:24,616
+Either they know they're
+not and they'll, yes I am.
+
+
+204
+0:8:24,616 --> 0:8:25,99
+Because who wants
+to say I'm not?
+
+
+205
+0:8:25,99 --> 0:8:29,7
+But what happens
+more frequently is
+
+
+206
+0:8:29,7 --> 0:8:31,25
+they think they are, and
+they predict they will be,
+
+
+207
+0:8:31,25 --> 0:8:33,87
+but when push comes to shove,
+time and again our behavior
+
+
+208
+0:8:33,87 --> 0:8:35,38
+isn't what we expect.
+
+
+209
+0:8:35,38 --> 0:8:38,539
+And so the way that we have to
+study trustworthiness is not
+
+
+210
+0:8:38,539 --> 0:8:41,23
+by asking people or looking
+at their past reputations
+
+
+211
+0:8:41,23 --> 0:8:44,4
+but by staging events
+in real time as opposed
+
+
+212
+0:8:44,4 --> 0:8:48,44
+to fake time where we can
+actually see when push comes
+
+
+213
+0:8:48,44 --> 0:8:51,55
+to shove, what will
+people actually do
+
+
+214
+0:8:51,55 --> 0:8:53,55
+when real rewards
+are on the line?
+
+
+215
+0:8:53,55 --> 0:8:56,4
+So let me give you an
+example of how we do this.
+
+
+216
+0:8:56,4 --> 0:8:58,36
+So we set up an experiment
+in our lab to look at this,
+
+
+217
+0:8:58,36 --> 0:9:0,3
+and it's rather simple.
+
+
+218
+0:9:0,3 --> 0:9:1,91
+We bring people into the lab.
+
+
+219
+0:9:1,91 --> 0:9:4,24
+These are normal
+community members
+
+
+220
+0:9:4,24 --> 0:9:7,91
+or even undergraduates
+from the Boston community
+
+
+221
+0:9:7,91 --> 0:9:9,62
+all known to be
+trustworthy people.
+
+
+222
+0:9:9,62 --> 0:9:11,33
+We bring them in
+and say, look, we've
+
+
+223
+0:9:11,33 --> 0:9:13,58
+got two tasks that
+need to be done.
+
+
+224
+0:9:13,58 --> 0:9:16,46
+One is really long
+and onerous and it's
+
+
+225
+0:9:16,46 --> 0:9:21,29
+these terrible logic
+problems, and circling letters
+
+
+226
+0:9:21,29 --> 0:9:23,68
+E, and random digit
+strings, and all the things
+
+
+227
+0:9:23,68 --> 0:9:26,93
+that you would feel like is
+a big waste of your time.
+
+
+228
+0:9:26,93 --> 0:9:32,35
+Or you can do a fun photo
+hunt on the computer.
+
+
+229
+0:9:32,35 --> 0:9:33,88
+Here's a coin.
+
+
+230
+0:9:33,88 --> 0:9:37,71
+I want you to flip the coin,
+and whatever one you get,
+
+
+231
+0:9:37,71 --> 0:9:40,21
+it will determine whether you
+do the photo hunt or the logic
+
+
+232
+0:9:40,21 --> 0:9:40,71
+problems.
+
+
+233
+0:9:40,71 --> 0:9:42,92
+And whichever one you
+don't do, the person
+
+
+234
+0:9:42,92 --> 0:9:46,62
+sitting in the next
+room is going to get.
+
+
+235
+0:9:46,62 --> 0:9:49,28
+And we're going to trust you
+to do this the right way.
+
+
+236
+0:9:49,28 --> 0:9:49,78
+Is that OK?
+
+
+237
+0:9:49,78 --> 0:9:51,29
+They say sure.
+
+
+238
+0:9:51,29 --> 0:9:52,657
+And then we let them go.
+
+
+239
+0:9:52,657 --> 0:9:53,74
+What do you think happens?
+
+
+240
+0:9:53,74 --> 0:9:56,33
+
+
+
+241
+0:9:56,33 --> 0:10:0,71
+A lot of people just assign
+themselves to the good task.
+
+
+242
+0:10:0,71 --> 0:10:3,93
+Any guesses for how many?
+
+
+243
+0:10:3,93 --> 0:10:5,13
+80%?
+
+
+244
+0:10:5,13 --> 0:10:7,2
+Close, 90%.
+
+
+245
+0:10:7,2 --> 0:10:9,374
+We've done this
+many, many times.
+
+
+246
+0:10:9,374 --> 0:10:10,54
+So it's not a fluke finding.
+
+
+247
+0:10:10,54 --> 0:10:11,581
+We've done it in our lab.
+
+
+248
+0:10:11,581 --> 0:10:13,3
+Other people have
+copied the methodology.
+
+
+249
+0:10:13,3 --> 0:10:15,652
+90% of people-- well
+they do one other thing.
+
+
+250
+0:10:15,652 --> 0:10:17,36
+Some of them don't
+flip the coin and just
+
+
+251
+0:10:17,36 --> 0:10:19,44
+say, oh, I got the good
+task when they come out.
+
+
+252
+0:10:19,44 --> 0:10:21,69
+Or some of them, because we
+have them on hidden video,
+
+
+253
+0:10:21,69 --> 0:10:25,512
+flip the coin repeatedly until
+they get the answer they want,
+
+
+254
+0:10:25,512 --> 0:10:27,22
+which is the same as
+not flipping at all.
+
+
+255
+0:10:27,22 --> 0:10:29,52
+But they feel better
+about themselves.
+
+
+256
+0:10:29,52 --> 0:10:31,7
+And so these are people
+who we asked them
+
+
+257
+0:10:31,7 --> 0:10:34,49
+before, if you don't flip the
+coin, is that untrustworthy?
+
+
+258
+0:10:34,49 --> 0:10:36,69
+They said, oh, it would
+be terribly untrustworthy.
+
+
+259
+0:10:36,69 --> 0:10:37,93
+But they do it.
+
+
+260
+0:10:37,93 --> 0:10:39,84
+And if you ask them
+when they come out,
+
+
+261
+0:10:39,84 --> 0:10:43,2
+we have them rate on a
+computer how trustworthily they
+
+
+262
+0:10:43,2 --> 0:10:43,93
+just acted.
+
+
+263
+0:10:43,93 --> 0:10:45,98
+So here higher numbers
+mean higher trust
+
+
+264
+0:10:45,98 --> 0:10:47,72
+on a one to seven scale.
+
+
+265
+0:10:47,72 --> 0:10:50,2
+So when they're judging
+themselves doing this,
+
+
+266
+0:10:50,2 --> 0:10:51,58
+they're above the midpoint.
+
+
+267
+0:10:51,58 --> 0:10:53,76
+So they say, yeah, it was OK.
+
+
+268
+0:10:53,76 --> 0:10:55,5
+I was trustworthy.
+
+
+269
+0:10:55,5 --> 0:10:57,71
+If you take those same
+people and you now
+
+
+270
+0:10:57,71 --> 0:11:0,81
+have them watch
+somebody else do this,
+
+
+271
+0:11:0,81 --> 0:11:2,35
+they condemn the person for it.
+
+
+272
+0:11:2,35 --> 0:11:4,37
+That person was not trustworthy.
+
+
+273
+0:11:4,37 --> 0:11:5,67
+When I did it, it was OK.
+
+
+274
+0:11:5,67 --> 0:11:9,19
+When that person did it, they're
+definitely not trustworthy.
+
+
+275
+0:11:9,19 --> 0:11:12,797
+Now, the interesting
+thing about this
+
+
+276
+0:11:12,797 --> 0:11:17,23
+is these were people
+who are normal people.
+
+
+277
+0:11:17,23 --> 0:11:19,77
+And so when we see people
+like Lance Armstrong or Bernie
+
+
+278
+0:11:19,77 --> 0:11:21,89
+Madoff, you think, oh,
+it's something wrong.
+
+
+279
+0:11:21,89 --> 0:11:26,54
+Those people are morally
+corrupt and untrustworthy.
+
+
+280
+0:11:26,54 --> 0:11:29,12
+No, well, yes what they
+did was untrustworthy.
+
+
+281
+0:11:29,12 --> 0:11:31,51
+But the same process-- on
+a smaller scale, of course,
+
+
+282
+0:11:31,51 --> 0:11:34,67
+and we can only study on a
+smaller scale in the lab--
+
+
+283
+0:11:34,67 --> 0:11:35,55
+happens with us.
+
+
+284
+0:11:35,55 --> 0:11:36,73
+It happens with any of you.
+
+
+285
+0:11:36,73 --> 0:11:40,62
+Now, the question is, well,
+why don't we realize this?
+
+
+286
+0:11:40,62 --> 0:11:42,54
+Why don't we learn to
+stop trusting ourselves?
+
+
+287
+0:11:42,54 --> 0:11:47,73
+Well, the reason why is our mind
+whitewashes our own behavior.
+
+
+288
+0:11:47,73 --> 0:11:52,739
+So if you ask these subjects,
+why did you not flip the coin?
+
+
+289
+0:11:52,739 --> 0:11:53,53
+They'll say things.
+
+
+290
+0:11:53,53 --> 0:11:56,24
+They'll create stores like,
+well, yeah, I should have,
+
+
+291
+0:11:56,24 --> 0:11:58,672
+but today I was late
+for an appointment.
+
+
+292
+0:11:58,672 --> 0:12:0,63
+And if I'm not there,
+somebody depending on me.
+
+
+293
+0:12:0,63 --> 0:12:1,338
+And so it was OK.
+
+
+294
+0:12:1,338 --> 0:12:3,84
+So they'll create all
+kinds of justifications
+
+
+295
+0:12:3,84 --> 0:12:5,847
+for why it was OK for
+them in the situation
+
+
+296
+0:12:5,847 --> 0:12:7,43
+and how it doesn't
+reflect on the fact
+
+
+297
+0:12:7,43 --> 0:12:8,93
+that they're an
+untrustworthy person
+
+
+298
+0:12:8,93 --> 0:12:10,45
+but they can be untrustworthy.
+
+
+299
+0:12:10,45 --> 0:12:12,43
+Now, in some way
+that's a good thing.
+
+
+300
+0:12:12,43 --> 0:12:15,12
+It has to be adaptive,
+because if any of us
+
+
+301
+0:12:15,12 --> 0:12:18,5
+felt like we couldn't
+trust ourselves,
+
+
+302
+0:12:18,5 --> 0:12:19,58
+that alternative is much worse.
+
+
+303
+0:12:19,58 --> 0:12:22,32
+Because it means we're not going
+to save money for the future
+
+
+304
+0:12:22,32 --> 0:12:25,26
+because we know future us is
+going to go blow it a casino.
+
+
+305
+0:12:25,26 --> 0:12:28,129
+We're not going to diet
+and take care of our health
+
+
+306
+0:12:28,129 --> 0:12:29,67
+because we assume
+three days from now
+
+
+307
+0:12:29,67 --> 0:12:32,175
+I'm going to gorge on ice
+cream or chocolate cake.
+
+
+308
+0:12:32,175 --> 0:12:33,3
+We're stuck with ourselves.
+
+
+309
+0:12:33,3 --> 0:12:35,545
+If somebody else
+is untrustworthy,
+
+
+310
+0:12:35,545 --> 0:12:37,3
+we can stop
+interacting with them.
+
+
+311
+0:12:37,3 --> 0:12:39,33
+We can't stop
+interacting with ourself,
+
+
+312
+0:12:39,33 --> 0:12:41,57
+and so we need to
+trust ourselves even
+
+
+313
+0:12:41,57 --> 0:12:43,129
+when we make mistakes.
+
+
+314
+0:12:43,129 --> 0:12:44,67
+So that's OK, but
+what I'm here to do
+
+
+315
+0:12:44,67 --> 0:12:45,89
+is to help you
+try and learn that
+
+
+316
+0:12:45,89 --> 0:12:48,56
+so that you can decrease
+the probability that you're
+
+
+317
+0:12:48,56 --> 0:12:49,8
+actually going to
+make those mistakes.
+
+
+318
+0:12:49,8 --> 0:12:51,54
+But what I haven't
+told you yet is
+
+
+319
+0:12:51,54 --> 0:12:53,456
+that there's any evidence
+that people actually
+
+
+320
+0:12:53,456 --> 0:12:56,36
+recognize what
+they did was wrong.
+
+
+321
+0:12:56,36 --> 0:12:58,16
+So let me give you an example.
+
+
+322
+0:12:58,16 --> 0:13:0,5
+So in psychology
+we had this method
+
+
+323
+0:13:0,5 --> 0:13:2,2
+which is called cognitive load.
+
+
+324
+0:13:2,2 --> 0:13:4,76
+And it's a way to kind of tie
+up people's mental resources
+
+
+325
+0:13:4,76 --> 0:13:7,3
+so they can engage
+in rationalization.
+
+
+326
+0:13:7,3 --> 0:13:8,8
+And the way it works
+is we give them
+
+
+327
+0:13:8,8 --> 0:13:11,867
+random digit strings of
+numbers, say like seven digits.
+
+
+328
+0:13:11,867 --> 0:13:13,45
+And you have to
+remember these digits.
+
+
+329
+0:13:13,45 --> 0:13:15,75
+So what we're doing is you'll
+get a string of numbers,
+
+
+330
+0:13:15,75 --> 0:13:18,25
+and you'll have to say
+7-6-5-4-1-0, 7-6-5-4-1-0,
+
+
+331
+0:13:18,25 --> 0:13:20,0
+and then you'll have
+to answer a question,
+
+
+332
+0:13:20,0 --> 0:13:22,14
+how trustworthily
+did you just act?
+
+
+333
+0:13:22,14 --> 0:13:23,32
+And you have to remember
+these numbers because I'm
+
+
+334
+0:13:23,32 --> 0:13:24,73
+going to have you
+enter them in a minute,
+
+
+335
+0:13:24,73 --> 0:13:26,29
+and you've got to
+get them right.
+
+
+336
+0:13:26,29 --> 0:13:28,61
+And so what this does
+is it ties up your mind.
+
+
+337
+0:13:28,61 --> 0:13:31,789
+It prevents your mind from
+engaging in rationalization.
+
+
+338
+0:13:31,789 --> 0:13:33,33
+So when we did this
+experiment again,
+
+
+339
+0:13:33,33 --> 0:13:37,68
+and we have 90% of people who
+did cheat even though they said
+
+
+340
+0:13:37,68 --> 0:13:42,7
+they wouldn't, what you
+find is on the white bars
+
+
+341
+0:13:42,7 --> 0:13:44,98
+on the bottom, those who
+were under cognitive load,
+
+
+342
+0:13:44,98 --> 0:13:47,161
+there's no difference in
+how you judge yourself
+
+
+343
+0:13:47,161 --> 0:13:48,16
+or how you judge others.
+
+
+344
+0:13:48,16 --> 0:13:49,69
+And those are
+significantly less.
+
+
+345
+0:13:49,69 --> 0:13:51,189
+You see yourself
+as less trustworthy
+
+
+346
+0:13:51,189 --> 0:13:53,72
+than when you have the
+time to rationalize.
+
+
+347
+0:13:53,72 --> 0:13:55,81
+So the second, the
+moment that you're
+
+
+348
+0:13:55,81 --> 0:13:58,94
+committing the transgression,
+your mind knows it.
+
+
+349
+0:13:58,94 --> 0:14:1,37
+You feel in your gut.
+
+
+350
+0:14:1,37 --> 0:14:3,244
+You feel that pang of guilt.
+
+
+351
+0:14:3,244 --> 0:14:4,66
+But what happens
+is you don't want
+
+
+352
+0:14:4,66 --> 0:14:6,82
+to think of yourself
+as untrustworthy.
+
+
+353
+0:14:6,82 --> 0:14:10,2
+And so your mind engages
+in this rationalization.
+
+
+354
+0:14:10,2 --> 0:14:13,7
+The good you tamps away,
+tamps down the guilt so
+
+
+355
+0:14:13,7 --> 0:14:15,3
+that it can create
+a view of you.
+
+
+356
+0:14:15,3 --> 0:14:18,2
+Well, I had a
+reason, and it's OK.
+
+
+357
+0:14:18,2 --> 0:14:20,91
+And I am trustworthy.
+
+
+358
+0:14:20,91 --> 0:14:22,702
+So the point is to
+remember that all of us,
+
+
+359
+0:14:22,702 --> 0:14:24,576
+even if we think of
+ourselves as trustworthy,
+
+
+360
+0:14:24,576 --> 0:14:26,669
+I'm sure most of you in
+general are trustworthy,
+
+
+361
+0:14:26,669 --> 0:14:28,46
+but your mind is making
+these calculations.
+
+
+362
+0:14:28,46 --> 0:14:30,68
+Here when we gave them
+anonymity-- or at least
+
+
+363
+0:14:30,68 --> 0:14:32,55
+they thought they
+were anonymous.
+
+
+364
+0:14:32,55 --> 0:14:34,62
+They didn't know we have them
+on hidden video-- their mind's
+
+
+365
+0:14:34,62 --> 0:14:37,847
+impulses for short-term
+gain created a story.
+
+
+366
+0:14:37,847 --> 0:14:40,18
+It pushed them to say, well,
+I can get away with it now.
+
+
+367
+0:14:40,18 --> 0:14:41,679
+Even not consciously,
+it just pushes
+
+
+368
+0:14:41,679 --> 0:14:44,9
+them to make this decision
+as an impulsive way.
+
+
+369
+0:14:44,9 --> 0:14:47,6
+And then they justify it because
+the long-term consequences
+
+
+370
+0:14:47,6 --> 0:14:49,31
+they believe are not
+there, because they
+
+
+371
+0:14:49,31 --> 0:14:50,69
+believe they're anonymous.
+
+
+372
+0:14:50,69 --> 0:14:53,32
+
+
+
+373
+0:14:53,32 --> 0:14:56,32
+Let's turn to the
+second question.
+
+
+374
+0:14:56,32 --> 0:15:0,62
+The second question
+is, can I trust you?
+
+
+375
+0:15:0,62 --> 0:15:3,1
+How do you figure,
+how do you determine
+
+
+376
+0:15:3,1 --> 0:15:4,86
+that question about somebody?
+
+
+377
+0:15:4,86 --> 0:15:7,99
+Now, as we all
+know, human society
+
+
+378
+0:15:7,99 --> 0:15:11,21
+flourishes when we
+cooperate with each other
+
+
+379
+0:15:11,21 --> 0:15:13,42
+and when we trust each other.
+
+
+380
+0:15:13,42 --> 0:15:15,94
+The problem is if
+one person doesn't
+
+
+381
+0:15:15,94 --> 0:15:19,0
+uphold his or her
+end of the bargain,
+
+
+382
+0:15:19,0 --> 0:15:21,55
+that person can gain
+at the other's expense.
+
+
+383
+0:15:21,55 --> 0:15:24,65
+And so what you have is a very
+dynamic yet delicate balance
+
+
+384
+0:15:24,65 --> 0:15:28,3
+that we every day have to
+navigate through and optimize
+
+
+385
+0:15:28,3 --> 0:15:29,87
+our outcomes.
+
+
+386
+0:15:29,87 --> 0:15:33,811
+If we make the wrong
+decision over and over again,
+
+
+387
+0:15:33,811 --> 0:15:35,6
+we're going to have a problem.
+
+
+388
+0:15:35,6 --> 0:15:39,645
+So here what we try to do is we
+try to use people's reputation.
+
+
+389
+0:15:39,645 --> 0:15:42,24
+Now, as I just told
+you, reputation
+
+
+390
+0:15:42,24 --> 0:15:45,66
+isn't a great predictor,
+and so often we're wrong.
+
+
+391
+0:15:45,66 --> 0:15:47,775
+But the problem that
+confronts us other times
+
+
+392
+0:15:47,775 --> 0:15:49,4
+is sometimes we have
+to decide if we're
+
+
+393
+0:15:49,4 --> 0:15:52,282
+going to trust somebody new who
+we don't know anything about.
+
+
+394
+0:15:52,282 --> 0:15:53,74
+And we don't know
+their reputation,
+
+
+395
+0:15:53,74 --> 0:15:55,38
+yet we're negotiating with them.
+
+
+396
+0:15:55,38 --> 0:15:56,4
+What do you do there?
+
+
+397
+0:15:56,4 --> 0:15:58,12
+You have the opportunity
+for establishing
+
+
+398
+0:15:58,12 --> 0:16:0,64
+a long-term relationship
+or you have the opportunity
+
+
+399
+0:16:0,64 --> 0:16:4,8
+for being screwed over in a
+way that you couldn't predict.
+
+
+400
+0:16:4,8 --> 0:16:7,63
+And if you're wrong, well,
+time and time again that's
+
+
+401
+0:16:7,63 --> 0:16:10,6
+going to cause you
+a lot of problems.
+
+
+402
+0:16:10,6 --> 0:16:15,26
+It's a very non-optimal
+outcome to be wrong.
+
+
+403
+0:16:15,26 --> 0:16:17,48
+So given all that,
+it would be nice
+
+
+404
+0:16:17,48 --> 0:16:19,9
+if we could actually
+detect if somebody else was
+
+
+405
+0:16:19,9 --> 0:16:21,226
+going to be trustworthy.
+
+
+406
+0:16:21,226 --> 0:16:23,1
+Now, as I said at the
+beginning of this talk,
+
+
+407
+0:16:23,1 --> 0:16:25,24
+people have been looking
+for the Holy Grail of what
+
+
+408
+0:16:25,24 --> 0:16:27,49
+signifies deception
+or untrustworthiness
+
+
+409
+0:16:27,49 --> 0:16:29,21
+for a long time.
+
+
+410
+0:16:29,21 --> 0:16:31,62
+Is it a true smile?
+
+
+411
+0:16:31,62 --> 0:16:32,99
+Does that mean I can trust you?
+
+
+412
+0:16:32,99 --> 0:16:33,9
+Is it shifty eyes?
+
+
+413
+0:16:33,9 --> 0:16:36,2
+Does that mean I
+can't trust you?
+
+
+414
+0:16:36,2 --> 0:16:39,7
+And the TSA spent $40
+million on this program
+
+
+415
+0:16:39,7 --> 0:16:42,41
+to look for these
+single microexpressions
+
+
+416
+0:16:42,41 --> 0:16:45,9
+that in GAO testimony
+before Congress
+
+
+417
+0:16:45,9 --> 0:16:48,72
+has been shown to
+be utterly useless.
+
+
+418
+0:16:48,72 --> 0:16:51,37
+And the problem is I think the
+reason why we haven't found how
+
+
+419
+0:16:51,37 --> 0:16:54,6
+we can detect trustworthiness
+is we've been going about it
+
+
+420
+0:16:54,6 --> 0:16:56,69
+in really the wrong way.
+
+
+421
+0:16:56,69 --> 0:16:58,99
+There is not going
+to be one marker.
+
+
+422
+0:16:58,99 --> 0:17:1,512
+There is not going
+to be one golden cue.
+
+
+423
+0:17:1,512 --> 0:17:3,97
+Cues to trustworthiness are
+going to be subtle and dynamic.
+
+
+424
+0:17:3,97 --> 0:17:5,92
+Why is that the case?
+
+
+425
+0:17:5,92 --> 0:17:9,832
+Well, it's very adaptive
+if I'm standing here
+
+
+426
+0:17:9,832 --> 0:17:11,79
+and you're looking and
+me and all of a sudden I
+
+
+427
+0:17:11,79 --> 0:17:14,94
+see a major threat
+behind you to show fear.
+
+
+428
+0:17:14,94 --> 0:17:17,19
+Because that lets you know
+even without turning around
+
+
+429
+0:17:17,19 --> 0:17:19,56
+very quickly, there's
+something dangerous there.
+
+
+430
+0:17:19,56 --> 0:17:21,3
+But trust isn't
+something that you
+
+
+431
+0:17:21,3 --> 0:17:24,49
+want to communicate very
+easily or untrustworthiness.
+
+
+432
+0:17:24,49 --> 0:17:24,99
+Why?
+
+
+433
+0:17:24,99 --> 0:17:27,75
+I mean, imagine if
+you're trustworthy person
+
+
+434
+0:17:27,75 --> 0:17:29,891
+and you had a clear tell.
+
+
+435
+0:17:29,891 --> 0:17:32,14
+It's like walking around
+with a big T on your forehead
+
+
+436
+0:17:32,14 --> 0:17:33,97
+that says, I'm trustworthy.
+
+
+437
+0:17:33,97 --> 0:17:36,16
+What would happen?
+
+
+438
+0:17:36,16 --> 0:17:38,225
+Everybody would want
+to cooperate with you,
+
+
+439
+0:17:38,225 --> 0:17:40,6
+more of them so they could
+probably take advantage of you
+
+
+440
+0:17:40,6 --> 0:17:41,826
+because they know they could.
+
+
+441
+0:17:41,826 --> 0:17:44,45
+Or if you were untrustworthy and
+you walked around with a big U
+
+
+442
+0:17:44,45 --> 0:17:46,2
+on your forehead, well,
+everybody would ignore you.
+
+
+443
+0:17:46,2 --> 0:17:47,7
+And nobody would
+cooperate with you.
+
+
+444
+0:17:47,7 --> 0:17:49,63
+And your outcomes would be poor.
+
+
+445
+0:17:49,63 --> 0:17:52,6
+And so trust signals have to
+be played close to the vest.
+
+
+446
+0:17:52,6 --> 0:17:54,11
+We have to interact
+with each other.
+
+
+447
+0:17:54,11 --> 0:17:55,11
+I can get a feeling for you.
+
+
+448
+0:17:55,11 --> 0:17:56,32
+You can get a feeling for me.
+
+
+449
+0:17:56,32 --> 0:18:0,13
+And then we can decide and
+reveal our cards very slowly.
+
+
+450
+0:18:0,13 --> 0:18:1,992
+So they're going to
+be subtle and dynamic.
+
+
+451
+0:18:1,992 --> 0:18:3,95
+They're also going to be
+the context dependent.
+
+
+452
+0:18:3,95 --> 0:18:7,76
+What signals trust in any one
+specific culture may vary.
+
+
+453
+0:18:7,76 --> 0:18:10,145
+What signals trust in any
+one situation may vary.
+
+
+454
+0:18:10,145 --> 0:18:10,77
+Think about it.
+
+
+455
+0:18:10,77 --> 0:18:12,45
+There's different
+kinds of trust.
+
+
+456
+0:18:12,45 --> 0:18:13,79
+There's integrity.
+
+
+457
+0:18:13,79 --> 0:18:16,35
+So can I trust that
+you're going to do
+
+
+458
+0:18:16,35 --> 0:18:18,26
+the best job you can to help me?
+
+
+459
+0:18:18,26 --> 0:18:20,71
+Are you meaning well toward me?
+
+
+460
+0:18:20,71 --> 0:18:23,437
+That's different than
+trusting your competence.
+
+
+461
+0:18:23,437 --> 0:18:25,27
+If you don't have the
+competence to help me,
+
+
+462
+0:18:25,27 --> 0:18:29,24
+all the intention in the
+world is going to be useless.
+
+
+463
+0:18:29,24 --> 0:18:32,0
+And so the cues I look for for
+competence versus integrity
+
+
+464
+0:18:32,0 --> 0:18:34,32
+may be very different, and
+we have to think about that.
+
+
+465
+0:18:34,32 --> 0:18:36,7
+But the main reason
+why I think we haven't
+
+
+466
+0:18:36,7 --> 0:18:39,91
+found the cues to trust is that
+they're going to occur in sets.
+
+
+467
+0:18:39,91 --> 0:18:42,4
+I mean, think about it, right?
+
+
+468
+0:18:42,4 --> 0:18:45,8
+If touching my face means I'm
+going to be untrustworthy,
+
+
+469
+0:18:45,8 --> 0:18:49,9
+if I do this, am I doing
+that because I've got an itch
+
+
+470
+0:18:49,9 --> 0:18:51,52
+or because I'm
+going to cheat you?
+
+
+471
+0:18:51,52 --> 0:18:52,96
+Don't know by one thing.
+
+
+472
+0:18:52,96 --> 0:18:54,15
+You can't tell.
+
+
+473
+0:18:54,15 --> 0:18:57,9
+The only way you can begin to
+read cues to trustworthiness
+
+
+474
+0:18:57,9 --> 0:18:59,9
+is to look for them occurring
+in sets so you can disambiguate
+
+
+475
+0:18:59,9 --> 0:19:2,16
+the meaning of any single one.
+
+
+476
+0:19:2,16 --> 0:19:4,22
+And that's what the field
+typically doesn't do.
+
+
+477
+0:19:4,22 --> 0:19:7,25
+And so I'm going to quickly
+tell you about two experiments
+
+
+478
+0:19:7,25 --> 0:19:9,929
+that we did to show
+how trust can be read.
+
+
+479
+0:19:9,929 --> 0:19:11,47
+The first one is
+kind of exploratory.
+
+
+480
+0:19:11,47 --> 0:19:13,82
+We threw out everything
+that we had known before,
+
+
+481
+0:19:13,82 --> 0:19:16,92
+and we simply started to try
+and identify what cues actually
+
+
+482
+0:19:16,92 --> 0:19:20,53
+predict real monetary
+trustworthy behavior
+
+
+483
+0:19:20,53 --> 0:19:23,31
+and to demonstrate that they
+do this in an accurate way.
+
+
+484
+0:19:23,31 --> 0:19:27,83
+And the second part was
+designed to actually confirm
+
+
+485
+0:19:27,83 --> 0:19:31,47
+in a very tightly controlled,
+highly precise way
+
+
+486
+0:19:31,47 --> 0:19:33,957
+that these are the
+cues that matter.
+
+
+487
+0:19:33,957 --> 0:19:36,4
+And I'll show you what I
+mean by that in a second.
+
+
+488
+0:19:36,4 --> 0:19:40,9
+We have an exploratory phase
+and a confirmatory phase.
+
+
+489
+0:19:40,9 --> 0:19:42,86
+So how did we do
+this I will start
+
+
+490
+0:19:42,86 --> 0:19:44,96
+with the exploratory phase.
+
+
+491
+0:19:44,96 --> 0:19:48,25
+What are candidates for
+signals related to trust?
+
+
+492
+0:19:48,25 --> 0:19:52,33
+Well, we brought 86
+people into the lab
+
+
+493
+0:19:52,33 --> 0:19:54,98
+and we put them into dyads,
+which are groups of two.
+
+
+494
+0:19:54,98 --> 0:19:57,38
+The only requirement is you
+couldn't know the person
+
+
+495
+0:19:57,38 --> 0:20:0,44
+with whom you were
+now going to interact.
+
+
+496
+0:20:0,44 --> 0:20:3,24
+We gave them five minutes
+to have a get-to-know-you
+
+
+497
+0:20:3,24 --> 0:20:3,8
+conversation.
+
+
+498
+0:20:3,8 --> 0:20:6,14
+You could talk about
+anything you want.
+
+
+499
+0:20:6,14 --> 0:20:8,475
+We gave them a list
+of topics, but they
+
+
+500
+0:20:8,475 --> 0:20:10,58
+could talk about
+anything they wanted.
+
+
+501
+0:20:10,58 --> 0:20:13,14
+And you're going to play a game
+for real money, a game that
+
+
+502
+0:20:13,14 --> 0:20:17,14
+pits self-interest versus being
+trustworthy, communal interest.
+
+
+503
+0:20:17,14 --> 0:20:19,397
+And I'll show you how the
+game works in a second.
+
+
+504
+0:20:19,397 --> 0:20:20,98
+And then we gave
+them topics to start,
+
+
+505
+0:20:20,98 --> 0:20:23,514
+but they could talk about
+anything that they wanted.
+
+
+506
+0:20:23,514 --> 0:20:24,43
+So we brought them in.
+
+
+507
+0:20:24,43 --> 0:20:26,99
+They simply sat
+across from each other
+
+
+508
+0:20:26,99 --> 0:20:28,78
+at a table, half the subjects.
+
+
+509
+0:20:28,78 --> 0:20:30,95
+And we had three cameras
+on them that were time
+
+
+510
+0:20:30,95 --> 0:20:34,1
+locked so we could record
+every single gesture,
+
+
+511
+0:20:34,1 --> 0:20:36,57
+every single cue they made.
+
+
+512
+0:20:36,57 --> 0:20:39,19
+Now, we also had another
+group of subjects
+
+
+513
+0:20:39,19 --> 0:20:41,72
+who conversed in
+their get to know you
+
+
+514
+0:20:41,72 --> 0:20:44,89
+in separate rooms
+over Google Chat
+
+
+515
+0:20:44,89 --> 0:20:47,76
+or Gchat-- any type
+of internet chat.
+
+
+516
+0:20:47,76 --> 0:20:51,24
+And the logic for this is the
+same amount of information
+
+
+517
+0:20:51,24 --> 0:20:52,88
+is being exchanged
+in the conversation,
+
+
+518
+0:20:52,88 --> 0:20:54,94
+but in one condition
+you have access
+
+
+519
+0:20:54,94 --> 0:20:57,28
+to the person's nonverbal cues.
+
+
+520
+0:20:57,28 --> 0:20:59,61
+In the other you don't.
+
+
+521
+0:20:59,61 --> 0:21:1,444
+And then we brought
+them into separate rooms
+
+
+522
+0:21:1,444 --> 0:21:3,193
+if they weren't in
+separate rooms already.
+
+
+523
+0:21:3,193 --> 0:21:5,14
+And we said, you're
+going to play this game.
+
+
+524
+0:21:5,14 --> 0:21:8,64
+We gave each of
+them four tokens.
+
+
+525
+0:21:8,64 --> 0:21:11,67
+And the tokens are
+worth $1 to each of them
+
+
+526
+0:21:11,67 --> 0:21:14,36
+but $2 to their partner.
+
+
+527
+0:21:14,36 --> 0:21:16,58
+And so this game is
+called the give some game.
+
+
+528
+0:21:16,58 --> 0:21:18,589
+And it's a nice analog
+for self-interest
+
+
+529
+0:21:18,589 --> 0:21:19,63
+versus communal interest.
+
+
+530
+0:21:19,63 --> 0:21:21,22
+Because if you
+want to be selfish,
+
+
+531
+0:21:21,22 --> 0:21:23,81
+you can try and get the other
+person to give you all of his
+
+
+532
+0:21:23,81 --> 0:21:24,6
+and give nothing.
+
+
+533
+0:21:24,6 --> 0:21:28,437
+And that means you'll have
+$12 and he'll have nothing.
+
+
+534
+0:21:28,437 --> 0:21:30,52
+But the most trustworthy
+thing to do if you really
+
+
+535
+0:21:30,52 --> 0:21:32,6
+implicitly trust each other
+and want to benefit each other
+
+
+536
+0:21:32,6 --> 0:21:34,66
+is to exchange all you
+have at the same time,
+
+
+537
+0:21:34,66 --> 0:21:36,49
+because then you all
+started with four
+
+
+538
+0:21:36,49 --> 0:21:37,89
+and now you have eight.
+
+
+539
+0:21:37,89 --> 0:21:40,77
+And so we had people
+making real decisions
+
+
+540
+0:21:40,77 --> 0:21:42,6
+and we paid them accordingly.
+
+
+541
+0:21:42,6 --> 0:21:43,47
+And we also had
+them tell us what
+
+
+542
+0:21:43,47 --> 0:21:46,9
+they thought their
+partner was going to do.
+
+
+543
+0:21:46,9 --> 0:21:49,39
+Now, the nice thing about
+it was whether or not
+
+
+544
+0:21:49,39 --> 0:21:53,73
+you talked to your partner
+over an internet chat
+
+
+545
+0:21:53,73 --> 0:21:56,86
+or face to face, the amount
+of trustworthy behavior
+
+
+546
+0:21:56,86 --> 0:21:58,27
+didn't change, which is nice.
+
+
+547
+0:21:58,27 --> 0:22:0,52
+I think it's because people
+are now becoming very used
+
+
+548
+0:22:0,52 --> 0:22:4,236
+to communicating over
+internet mediated platforms.
+
+
+549
+0:22:4,236 --> 0:22:5,86
+And so it's not like
+being face to face
+
+
+550
+0:22:5,86 --> 0:22:7,26
+made people more trustworthy.
+
+
+551
+0:22:7,26 --> 0:22:9,3
+There was people who
+were cheating and being
+
+
+552
+0:22:9,3 --> 0:22:11,92
+cooperative at equal
+levels in both cases.
+
+
+553
+0:22:11,92 --> 0:22:17,33
+But here the axis is error,
+the amount that you were off.
+
+
+554
+0:22:17,33 --> 0:22:21,0
+And so lower bars mean accuracy
+in terms of absolute value.
+
+
+555
+0:22:21,0 --> 0:22:24,2
+If you were in the presence
+of the other person,
+
+
+556
+0:22:24,2 --> 0:22:26,33
+your guess for how
+much that person
+
+
+557
+0:22:26,33 --> 0:22:29,395
+was going to be trustworthy or
+cheat you in absolute dollars
+
+
+558
+0:22:29,395 --> 0:22:31,41
+was significantly greater.
+
+
+559
+0:22:31,41 --> 0:22:35,39
+So what this tells us is that
+people are picking up on a cue.
+
+
+560
+0:22:35,39 --> 0:22:38,11
+There is some information there
+that your mind is gleaning
+
+
+561
+0:22:38,11 --> 0:22:41,14
+from body language,
+whether you know it or not.
+
+
+562
+0:22:41,14 --> 0:22:43,29
+And so what we did
+next was we ran
+
+
+563
+0:22:43,29 --> 0:22:46,65
+models of all these possible
+combinations of cues
+
+
+564
+0:22:46,65 --> 0:22:47,94
+to see what would matter.
+
+
+565
+0:22:47,94 --> 0:22:51,36
+And the model that
+predicted untrustworthiness
+
+
+566
+0:22:51,36 --> 0:22:55,9
+the best consisted of four
+cues, touching your hands,
+
+
+567
+0:22:55,9 --> 0:22:58,627
+touching your face, crossing
+your arms, and leaning away.
+
+
+568
+0:22:58,627 --> 0:23:0,71
+If you think about it,
+what does this really mean?
+
+
+569
+0:23:0,71 --> 0:23:2,501
+Well, we know from the
+nonverbal literature
+
+
+570
+0:23:2,501 --> 0:23:4,68
+that fidgeting with
+your hands and touching
+
+
+571
+0:23:4,68 --> 0:23:8,8
+your face repeatedly is
+usually a marker of anxiety
+
+
+572
+0:23:8,8 --> 0:23:10,42
+and not feeling comfortable.
+
+
+573
+0:23:10,42 --> 0:23:12,9
+Crossing your arms
+and leaning away
+
+
+574
+0:23:12,9 --> 0:23:14,43
+is a marker of I don't
+want to affiliate with you.
+
+
+575
+0:23:14,43 --> 0:23:16,1
+Put them together,
+what does it mean?
+
+
+576
+0:23:16,1 --> 0:23:18,99
+It means, I don't really
+want to be with you.
+
+
+577
+0:23:18,99 --> 0:23:19,83
+I don't like you.
+
+
+578
+0:23:19,83 --> 0:23:21,204
+And I'm nervous
+because I'm going
+
+
+579
+0:23:21,204 --> 0:23:22,85
+to screw you over in a minute.
+
+
+580
+0:23:22,85 --> 0:23:26,2
+And so none of these cues
+predict it on their own,
+
+
+581
+0:23:26,2 --> 0:23:28,22
+but together they did.
+
+
+582
+0:23:28,22 --> 0:23:33,47
+So the more often you saw a
+partner show this set of cues,
+
+
+583
+0:23:33,47 --> 0:23:35,679
+the smaller number of tokens
+you expected that person
+
+
+584
+0:23:35,679 --> 0:23:38,136
+to share with you, which meant
+the more selfish you thought
+
+
+585
+0:23:38,136 --> 0:23:39,82
+that person was going to be.
+
+
+586
+0:23:39,82 --> 0:23:42,28
+And the more often you
+yourself or any subject
+
+
+587
+0:23:42,28 --> 0:23:45,43
+emitted this four set of
+cues, the less trustworthy you
+
+
+588
+0:23:45,43 --> 0:23:48,8
+actually were, the
+more tokens you
+
+
+589
+0:23:48,8 --> 0:23:50,677
+kept and tried to get from the
+other person without sharing.
+
+
+590
+0:23:50,677 --> 0:23:53,26
+And so in some sense, what we're
+showing is ground truth here.
+
+
+591
+0:23:53,26 --> 0:23:56,29
+These cues are predicting
+actual financial cheating
+
+
+592
+0:23:56,29 --> 0:23:57,966
+versus cooperative behavior.
+
+
+593
+0:23:57,966 --> 0:23:59,59
+Now, the most
+interesting part about it
+
+
+594
+0:23:59,59 --> 0:24:3,48
+was if you asked our
+subjects, so what did you use?
+
+
+595
+0:24:3,48 --> 0:24:4,47
+They had no idea.
+
+
+596
+0:24:4,47 --> 0:24:6,32
+Or they would suggest
+it was other cues that
+
+
+597
+0:24:6,32 --> 0:24:7,71
+didn't predict anything.
+
+
+598
+0:24:7,71 --> 0:24:9,668
+Yeah, I showed you they
+were more accurate when
+
+
+599
+0:24:9,668 --> 0:24:10,52
+they saw the person.
+
+
+600
+0:24:10,52 --> 0:24:14,13
+And they adjusted their numbers
+and guesses accordingly.
+
+
+601
+0:24:14,13 --> 0:24:17,59
+So what this means is your
+mind is using these cues
+
+
+602
+0:24:17,59 --> 0:24:20,66
+even though you're not
+aware of what they are.
+
+
+603
+0:24:20,66 --> 0:24:23,666
+It's still building
+intuitions with them.
+
+
+604
+0:24:23,666 --> 0:24:25,54
+But how do you know
+those are the right cues?
+
+
+605
+0:24:25,54 --> 0:24:26,6
+People are doing lots of things.
+
+
+606
+0:24:26,6 --> 0:24:28,475
+How do I know that when
+I'm crossing my arms,
+
+
+607
+0:24:28,475 --> 0:24:30,38
+it's not that my left
+pupil is dilating
+
+
+608
+0:24:30,38 --> 0:24:32,7
+and that's the magic cue.
+
+
+609
+0:24:32,7 --> 0:24:35,47
+Well, being scientists, we
+needed to have precise control.
+
+
+610
+0:24:35,47 --> 0:24:37,19
+No matter what actor
+I had, I couldn't
+
+
+611
+0:24:37,19 --> 0:24:40,1
+get them to have
+exceedingly precise control
+
+
+612
+0:24:40,1 --> 0:24:42,4
+of every expression
+they're emitting.
+
+
+613
+0:24:42,4 --> 0:24:43,84
+So what do you do?
+
+
+614
+0:24:43,84 --> 0:24:45,58
+You need a robot.
+
+
+615
+0:24:45,58 --> 0:24:48,1
+So this robot, her name is Nexi.
+
+
+616
+0:24:48,1 --> 0:24:50,7
+She was designed and created
+by my collaborator Cynthia
+
+
+617
+0:24:50,7 --> 0:24:52,83
+Breazeal at MIT's Media Lab.
+
+
+618
+0:24:52,83 --> 0:24:53,995
+And so we simply used Nexi.
+
+
+619
+0:24:53,995 --> 0:24:56,31
+And I'll show you a
+video of it in a moment.
+
+
+620
+0:24:56,31 --> 0:24:57,77
+But the experiment was simple.
+
+
+621
+0:24:57,77 --> 0:25:0,4
+We repeated the same
+thing we did before,
+
+
+622
+0:25:0,4 --> 0:25:4,25
+except we replaced one of
+the people with the robot.
+
+
+623
+0:25:4,25 --> 0:25:6,39
+So now you're talking
+to this robot.
+
+
+624
+0:25:6,39 --> 0:25:10,56
+And the robot will emit the
+cues and express the cues
+
+
+625
+0:25:10,56 --> 0:25:14,34
+that we think signify
+untrustworthiness or not
+
+
+626
+0:25:14,34 --> 0:25:16,61
+in a very, very precisely
+controllable way.
+
+
+627
+0:25:16,61 --> 0:25:18,47
+The robot was controlled
+by two people, one
+
+
+628
+0:25:18,47 --> 0:25:21,67
+who was the voice of the robot,
+the other who would control
+
+
+629
+0:25:21,67 --> 0:25:23,19
+whether or not
+she made the cues.
+
+
+630
+0:25:23,19 --> 0:25:25,19
+Because you don't want
+the same person doing it,
+
+
+631
+0:25:25,19 --> 0:25:27,744
+because they might give
+cues in their vocal tone.
+
+
+632
+0:25:27,744 --> 0:25:29,66
+And because I know a lot
+of you are engineers,
+
+
+633
+0:25:29,66 --> 0:25:31,576
+I'll give you a quick
+idea of how this worked.
+
+
+634
+0:25:31,576 --> 0:25:33,63
+The one person here
+you can see who
+
+
+635
+0:25:33,63 --> 0:25:35,13
+is sitting in front
+of the computer,
+
+
+636
+0:25:35,13 --> 0:25:36,74
+there's a webcam on her face.
+
+
+637
+0:25:36,74 --> 0:25:40,12
+As she moves her head,
+it's gotten by the webcam.
+
+
+638
+0:25:40,12 --> 0:25:41,66
+The robot's head
+moves in real time.
+
+
+639
+0:25:41,66 --> 0:25:43,57
+She's wearing a mic
+here, so as she speaks,
+
+
+640
+0:25:43,57 --> 0:25:45,66
+it picks up the phonemes
+and the robot's mouth
+
+
+641
+0:25:45,66 --> 0:25:47,1
+moves in real time.
+
+
+642
+0:25:47,1 --> 0:25:48,75
+The next person controls
+whether the robot
+
+
+643
+0:25:48,75 --> 0:25:51,88
+gives these untrustworthy
+cues or other similar cues.
+
+
+644
+0:25:51,88 --> 0:25:55,36
+And the third person is
+our robot mischief person
+
+
+645
+0:25:55,36 --> 0:25:58,6
+who basically controls
+and monitors the system.
+
+
+646
+0:25:58,6 --> 0:26:0,51
+Because every once in
+awhile, it would go haywire
+
+
+647
+0:26:0,51 --> 0:26:4,51
+and the robot would like
+it's doing something crazy,
+
+
+648
+0:26:4,51 --> 0:26:6,997
+like it's possessed
+or something.
+
+
+649
+0:26:6,997 --> 0:26:7,83
+It would break down.
+
+
+650
+0:26:7,83 --> 0:26:10,72
+But normally it worked
+wonderfully and just fine.
+
+
+651
+0:26:10,72 --> 0:26:12,719
+And so we had participants,
+65 participants
+
+
+652
+0:26:12,719 --> 0:26:13,51
+from the community.
+
+
+653
+0:26:13,51 --> 0:26:15,74
+We brought in 31 of them.
+
+
+654
+0:26:15,74 --> 0:26:17,25
+We showed that we
+had seen the cues
+
+
+655
+0:26:17,25 --> 0:26:20,435
+that Nexi meant untrustworthy.
+
+
+656
+0:26:20,435 --> 0:26:22,34
+The others didn't.
+
+
+657
+0:26:22,34 --> 0:26:24,41
+Here's a picture of
+it crossing its arms.
+
+
+658
+0:26:24,41 --> 0:26:26,5
+Here's a picture of
+it touching its face.
+
+
+659
+0:26:26,5 --> 0:26:27,39
+I'll show you a
+video in a second.
+
+
+660
+0:26:27,39 --> 0:26:29,46
+So the first part is people
+have to get used to the fact
+
+
+661
+0:26:29,46 --> 0:26:30,793
+that they're talking to a robot.
+
+
+662
+0:26:30,793 --> 0:26:32,86
+So we had this kind of
+part where they just
+
+
+663
+0:26:32,86 --> 0:26:33,957
+acclimated to it.
+
+
+664
+0:26:33,957 --> 0:26:35,29
+And here's what that looks like.
+
+
+665
+0:26:35,29 --> 0:26:35,956
+[VIDEO PLAYBACK]
+
+
+666
+0:26:35,956 --> 0:26:37,69
+NEXI: So my name's Nexi.
+
+
+667
+0:26:37,69 --> 0:26:39,13
+What's your name?
+
+
+668
+0:26:39,13 --> 0:26:40,55
+KIM: My name's Kim.
+
+
+669
+0:26:40,55 --> 0:26:41,5
+NEXI: Kim?
+
+
+670
+0:26:41,5 --> 0:26:42,49
+It's very nice to meet you.
+
+
+671
+0:26:42,49 --> 0:26:44,7
+KIM: You too.
+
+
+672
+0:26:44,7 --> 0:26:46,515
+NEXI: To get started
+today, why don't I
+
+
+673
+0:26:46,515 --> 0:26:47,982
+tell you a little
+bit about myself?
+
+
+674
+0:26:47,982 --> 0:26:49,449
+KIM: OK.
+
+
+675
+0:26:49,449 --> 0:26:52,138
+NEXI: I was born and
+built at the MIT Media
+
+
+676
+0:26:52,138 --> 0:26:54,828
+Lab two years ago.
+
+
+677
+0:26:54,828 --> 0:26:58,59
+So I guess in human
+years, I'm pretty young.
+
+
+678
+0:26:58,59 --> 0:27:2,77
+But in robot years,
+that's more like being 20.
+
+
+679
+0:27:2,77 --> 0:27:3,36
+KIM: (NERVOUS LAUGH).
+
+
+680
+0:27:3,36 --> 0:27:6,445
+DAVID DESTENO: So you can see
+she's a little uncomfortable.
+
+
+681
+0:27:6,445 --> 0:27:8,98
+In fact, we had to put that
+black barrier on the bottom
+
+
+682
+0:27:8,98 --> 0:27:10,355
+because people
+were afraid it was
+
+
+683
+0:27:10,355 --> 0:27:12,796
+going to go Terminator
+on them and kill them.
+
+
+684
+0:27:12,796 --> 0:27:14,17
+So we needed that
+little barrier.
+
+
+685
+0:27:14,17 --> 0:27:17,102
+But they quickly acclimated
+to this, as you'll see.
+
+
+686
+0:27:17,102 --> 0:27:17,768
+[VIDEO PLAYBACK]
+
+
+687
+0:27:17,768 --> 0:27:19,684
+KIM: That's basically
+all I do for fun though.
+
+
+688
+0:27:19,684 --> 0:27:21,98
+I don't have a lot of time.
+
+
+689
+0:27:21,98 --> 0:27:25,7
+NEXI: Did you grow up
+in Upstate New York?
+
+
+690
+0:27:25,7 --> 0:27:30,35
+KIM: Yeah, I did until I was
+18, when I moved out here.
+
+
+691
+0:27:30,35 --> 0:27:31,85
+NEXI: It seems
+like that must have
+
+
+692
+0:27:31,85 --> 0:27:34,571
+been a big transition for you.
+
+
+693
+0:27:34,571 --> 0:27:35,553
+KIM: It was.
+
+
+694
+0:27:35,553 --> 0:27:38,8
+It was a really big transition.
+
+
+695
+0:27:38,8 --> 0:27:43,389
+But I kind of decided that it
+wasn't the life that I wanted.
+
+
+696
+0:27:43,389 --> 0:27:45,18
+DAVID DESTENO: So they
+would self disclose.
+
+
+697
+0:27:45,18 --> 0:27:47,53
+We heard about pets dying
+and all these things.
+
+
+698
+0:27:47,53 --> 0:27:51,26
+One person kept asking the
+robot if it believed in God.
+
+
+699
+0:27:51,26 --> 0:27:54,13
+That person was hard.
+
+
+700
+0:27:54,13 --> 0:27:55,814
+But for the most
+part, people behave.
+
+
+701
+0:27:55,814 --> 0:27:57,98
+And just so you can tell
+what it looks like face on,
+
+
+702
+0:27:57,98 --> 0:27:58,65
+I'll just show you
+a 10-second clip.
+
+
+703
+0:27:58,65 --> 0:27:59,316
+[VIDEO PLAYBACK]
+
+
+704
+0:27:59,316 --> 0:28:1,35
+NEXI: We all share
+a big, open room.
+
+
+705
+0:28:1,35 --> 0:28:4,766
+There are lots of
+cords and gadgets.
+
+
+706
+0:28:4,766 --> 0:28:8,67
+So it's probably
+not like your house.
+
+
+707
+0:28:8,67 --> 0:28:11,35
+But it's home for me.
+
+
+708
+0:28:11,35 --> 0:28:14,71
+Why don't you tell me
+about where you're from?
+
+
+709
+0:28:14,71 --> 0:28:17,21
+MAN: Well, I was born in
+Lawrence, Massachusetts,
+
+
+710
+0:28:17,21 --> 0:28:21,21
+and I had a residency
+in Somerville right now.
+
+
+711
+0:28:21,21 --> 0:28:24,19
+I've been doing residential
+the past four months.
+
+
+712
+0:28:24,19 --> 0:28:26,71
+DAVID DESTENO:
+And so we then had
+
+
+713
+0:28:26,71 --> 0:28:28,58
+them play this game
+with the robot.
+
+
+714
+0:28:28,58 --> 0:28:30,62
+We told them, look, the robot's
+got an artificial intelligence
+
+
+715
+0:28:30,62 --> 0:28:33,12
+algorithm that it's going to
+decide how much money it wants
+
+
+716
+0:28:33,12 --> 0:28:35,32
+to give you and how
+much money it thinks
+
+
+717
+0:28:35,32 --> 0:28:38,98
+you're going to give it based
+on how the interaction went.
+
+
+718
+0:28:38,98 --> 0:28:40,93
+It didn't, but that's
+what we told them.
+
+
+719
+0:28:40,93 --> 0:28:42,66
+And then we asked them
+questions about how much they
+
+
+720
+0:28:42,66 --> 0:28:43,92
+trusted the robot, et cetera.
+
+
+721
+0:28:43,92 --> 0:28:45,19
+So what happened?
+
+
+722
+0:28:45,19 --> 0:28:50,24
+So to make a long story short,
+what happened is these are,
+
+
+723
+0:28:50,24 --> 0:28:52,37
+for those of you who are
+mathematically inclined,
+
+
+724
+0:28:52,37 --> 0:28:55,51
+these are standardized
+regression coefficients.
+
+
+725
+0:28:55,51 --> 0:28:58,67
+When Nexi made the cues that
+signaled untrustworthiness
+
+
+726
+0:28:58,67 --> 0:29:0,25
+in the human to
+human interactions,
+
+
+727
+0:29:0,25 --> 0:29:1,72
+people reported
+trusting it less.
+
+
+728
+0:29:1,72 --> 0:29:3,4
+Now, the important
+thing is they didn't
+
+
+729
+0:29:3,4 --> 0:29:5,38
+report liking it less,
+because I was worried,
+
+
+730
+0:29:5,38 --> 0:29:7,66
+oh, they just might think
+it's doing something weird.
+
+
+731
+0:29:7,66 --> 0:29:10,157
+No, they liked it equally,
+but they trusted it less.
+
+
+732
+0:29:10,157 --> 0:29:12,49
+Now, that's important, because
+to me that makes it real.
+
+
+733
+0:29:12,49 --> 0:29:14,13
+Because we all have
+friends that we
+
+
+734
+0:29:14,13 --> 0:29:17,44
+like who we wouldn't
+trust with our money.
+
+
+735
+0:29:17,44 --> 0:29:19,75
+And so OK, and the
+less they trusted
+
+
+736
+0:29:19,75 --> 0:29:23,35
+it, the fewer tokens they
+predicted Nexi would give them,
+
+
+737
+0:29:23,35 --> 0:29:24,91
+basically meaning they
+thought Nexi was going
+
+
+738
+0:29:24,91 --> 0:29:28,2
+to be selfish and cheat them,
+and the smaller amount of money
+
+
+739
+0:29:28,2 --> 0:29:30,11
+in that game they
+actually gave it.
+
+
+740
+0:29:30,11 --> 0:29:33,8
+And so what this
+tells us is that we
+
+
+741
+0:29:33,8 --> 0:29:35,58
+know these are the cues
+because we manipulated them
+
+
+742
+0:29:35,58 --> 0:29:38,265
+with exact precision here while
+nothing else was happening
+
+
+743
+0:29:38,265 --> 0:29:40,23
+or things were happening
+that we could control.
+
+
+744
+0:29:40,23 --> 0:29:41,7
+And so cues to
+trustworthiness can
+
+
+745
+0:29:41,7 --> 0:29:45,68
+be imperfectly assessed,
+but better than chance.
+
+
+746
+0:29:45,68 --> 0:29:48,77
+And so the TSA starts
+to need to look
+
+
+747
+0:29:48,77 --> 0:29:51,44
+for cues in sets in a
+context-dependent way.
+
+
+748
+0:29:51,44 --> 0:29:53,95
+But in some ways, the more
+interesting part of this
+
+
+749
+0:29:53,95 --> 0:29:57,4
+is that what it suggests is that
+technology is now good enough
+
+
+750
+0:29:57,4 --> 0:29:59,56
+that the mind will now
+use these cues to ascribe
+
+
+751
+0:29:59,56 --> 0:30:5,39
+moral intent to robots, or to
+avatars, or to virtual agents.
+
+
+752
+0:30:5,39 --> 0:30:9,14
+So while you may not
+get it from R2-D2,
+
+
+753
+0:30:9,14 --> 0:30:13,88
+you will probably get it from
+Wall-E. See, I'll hear aww.
+
+
+754
+0:30:13,88 --> 0:30:17,21
+Wall-E is not
+human in the least,
+
+
+755
+0:30:17,21 --> 0:30:20,47
+but he has enough human
+characteristics in the eyes
+
+
+756
+0:30:20,47 --> 0:30:22,9
+and in the hands
+that he can move them
+
+
+757
+0:30:22,9 --> 0:30:28,0
+in a way that pings our
+mind's mental machinery
+
+
+758
+0:30:28,0 --> 0:30:30,25
+to make us feel
+trust, or warmth,
+
+
+759
+0:30:30,25 --> 0:30:31,89
+or compassion toward him.
+
+
+760
+0:30:31,89 --> 0:30:32,92
+So what does this mean?
+
+
+761
+0:30:32,92 --> 0:30:35,78
+It's a whole Pandora's box,
+because in some ways it's good.
+
+
+762
+0:30:35,78 --> 0:30:38,59
+So for people like Cynthia who
+want to design these robots
+
+
+763
+0:30:38,59 --> 0:30:40,97
+and she's working
+on the smaller ones
+
+
+764
+0:30:40,97 --> 0:30:42,915
+so that they can
+actually accompany kids
+
+
+765
+0:30:42,915 --> 0:30:44,79
+for medical treatment
+where parents can't go.
+
+
+766
+0:30:44,79 --> 0:30:46,79
+Think radiation treatments
+for kids with cancer.
+
+
+767
+0:30:46,79 --> 0:30:49,81
+They can go with the children.
+
+
+768
+0:30:49,81 --> 0:30:53,59
+They'll seem more
+trustworthy, more comforting.
+
+
+769
+0:30:53,59 --> 0:30:55,985
+But like any other science,
+it's not good or bad.
+
+
+770
+0:30:55,985 --> 0:30:58,11
+It depends on the uses of
+the people who want them.
+
+
+771
+0:30:58,11 --> 0:30:59,61
+We all know trust
+sells, so if I'm
+
+
+772
+0:30:59,61 --> 0:31:1,25
+a marketer, what does this mean?
+
+
+773
+0:31:1,25 --> 0:31:4,96
+It means that I have the perfect
+trustworthy or untrustworthy
+
+
+774
+0:31:4,96 --> 0:31:5,22
+person that I can show you.
+
+
+775
+0:31:5,22 --> 0:31:7,98
+Because in a human, stuff leaks.
+
+
+776
+0:31:7,98 --> 0:31:10,466
+No matter how much we're
+going to try and control it,
+
+
+777
+0:31:10,466 --> 0:31:12,59
+which is why we could pick
+up on untrustworthiness.
+
+
+778
+0:31:12,59 --> 0:31:14,507
+There is no leaking here.
+
+
+779
+0:31:14,507 --> 0:31:15,59
+We can control everything.
+
+
+780
+0:31:15,59 --> 0:31:18,42
+And so as we're conversing more
+and more with automated agents
+
+
+781
+0:31:18,42 --> 0:31:22,86
+and avatars, our trust is
+going to be manipulated in ways
+
+
+782
+0:31:22,86 --> 0:31:25,39
+that we could never
+have known before
+
+
+783
+0:31:25,39 --> 0:31:29,86
+or that our mind is not
+ready to defend against.
+
+
+784
+0:31:29,86 --> 0:31:32,4
+OK, finally, the last
+part of the talk,
+
+
+785
+0:31:32,4 --> 0:31:36,9
+how do we go about enhancing
+trustworthiness and enhancing
+
+
+786
+0:31:36,9 --> 0:31:40,67
+the compassion and
+resilience of each other?
+
+
+787
+0:31:40,67 --> 0:31:43,69
+To let you know just
+how powerful this can be
+
+
+788
+0:31:43,69 --> 0:31:46,55
+and how quickly trust can change
+and compassion can change,
+
+
+789
+0:31:46,55 --> 0:31:48,437
+let me give you of
+my favorite examples.
+
+
+790
+0:31:48,437 --> 0:31:49,77
+Some of you may know this story.
+
+
+791
+0:31:49,77 --> 0:31:54,1
+It's called the Christmas
+Eve truce of World War I.
+
+
+792
+0:31:54,1 --> 0:31:55,96
+So it was 1914, and
+the British were
+
+
+793
+0:31:55,96 --> 0:31:59,879
+fighting the Germans
+outside of Ypres, Belgium.
+
+
+794
+0:31:59,879 --> 0:32:1,67
+And it had been a long
+and a bloody battle.
+
+
+795
+0:32:1,67 --> 0:32:3,586
+And they were each in
+their trenches separated
+
+
+796
+0:32:3,586 --> 0:32:6,9
+by the no-man's land in between.
+
+
+797
+0:32:6,9 --> 0:32:7,84
+And on Christmas
+Eve, as the Brits
+
+
+798
+0:32:7,84 --> 0:32:10,43
+looked across the
+no-man's land, they
+
+
+799
+0:32:10,43 --> 0:32:12,54
+started to see lights appear.
+
+
+800
+0:32:12,54 --> 0:32:14,31
+And then they started
+to hear songs.
+
+
+801
+0:32:14,31 --> 0:32:15,9
+And at first, they
+didn't know what
+
+
+802
+0:32:15,9 --> 0:32:16,565
+they were because
+they were in German,
+
+
+803
+0:32:16,565 --> 0:32:17,773
+and they didn't speak German.
+
+
+804
+0:32:17,773 --> 0:32:19,96
+But then they soon
+recognized the melodies.
+
+
+805
+0:32:19,96 --> 0:32:22,7
+And what they were
+were Christmas carols.
+
+
+806
+0:32:22,7 --> 0:32:24,94
+And what happened
+next was amazing.
+
+
+807
+0:32:24,94 --> 0:32:26,93
+The men came out
+of their trenches,
+
+
+808
+0:32:26,93 --> 0:32:28,97
+and they started
+celebrating together.
+
+
+809
+0:32:28,97 --> 0:32:30,53
+They started
+exchanging trinkets.
+
+
+810
+0:32:30,53 --> 0:32:33,17
+They started talking about their
+families, showing pictures,
+
+
+811
+0:32:33,17 --> 0:32:33,98
+celebrating.
+
+
+812
+0:32:33,98 --> 0:32:37,5
+Now, these were
+men who hours ago
+
+
+813
+0:32:37,5 --> 0:32:38,83
+were trying to kill each other.
+
+
+814
+0:32:38,83 --> 0:32:41,81
+And no one would have ever
+trusted if I walked out,
+
+
+815
+0:32:41,81 --> 0:32:43,227
+was an open shot,
+I couldn't trust
+
+
+816
+0:32:43,227 --> 0:32:44,684
+that you weren't
+going to shoot me.
+
+
+817
+0:32:44,684 --> 0:32:46,42
+They always had shot
+each other before,
+
+
+818
+0:32:46,42 --> 0:32:48,55
+but here they were
+celebrating with each other
+
+
+819
+0:32:48,55 --> 0:32:51,934
+in a very communal way, by
+their own words, very amazing.
+
+
+820
+0:32:51,934 --> 0:32:53,35
+Here we were
+laughing and chatting
+
+
+821
+0:32:53,35 --> 0:32:56,62
+to men who only a few hours
+before we were trying to kill.
+
+
+822
+0:32:56,62 --> 0:32:59,8
+Now, if that's not a big change
+in how trustworthy somebody can
+
+
+823
+0:32:59,8 --> 0:33:2,87
+be, I don't know what is.
+
+
+824
+0:33:2,87 --> 0:33:4,87
+So the question is, how
+do we display such trust
+
+
+825
+0:33:4,87 --> 0:33:8,84
+and compassion in one moment
+and such cruelty the next?
+
+
+826
+0:33:8,84 --> 0:33:9,5
+Because if we can
+understand that,
+
+
+827
+0:33:9,5 --> 0:33:11,13
+then we can do
+something about it.
+
+
+828
+0:33:11,13 --> 0:33:14,43
+But to answer that question,
+what we have to realize first
+
+
+829
+0:33:14,43 --> 0:33:16,54
+is how do we address
+a different one?
+
+
+830
+0:33:16,54 --> 0:33:19,33
+How do we identify
+who is worthy to help?
+
+
+831
+0:33:19,33 --> 0:33:22,41
+The world is full of more people
+than we could possibly help.
+
+
+832
+0:33:22,41 --> 0:33:23,91
+Not that we don't
+want to help them,
+
+
+833
+0:33:23,91 --> 0:33:25,86
+but it could be overwhelming.
+
+
+834
+0:33:25,86 --> 0:33:28,81
+And there's this phenomenon that
+we know of in psychology called
+
+
+835
+0:33:28,81 --> 0:33:30,935
+compassion fatigue, which
+is when you're confronted
+
+
+836
+0:33:30,935 --> 0:33:33,24
+with people over and over
+and over again who need help,
+
+
+837
+0:33:33,24 --> 0:33:35,49
+you begin to dial it down.
+
+
+838
+0:33:35,49 --> 0:33:36,95
+I have this experience
+that I'm not
+
+
+839
+0:33:36,95 --> 0:33:39,561
+proud of when I go with
+my daughter to New York,
+
+
+840
+0:33:39,561 --> 0:33:41,81
+and we're walking by, and
+there was a homeless person.
+
+
+841
+0:33:41,81 --> 0:33:43,86
+She was like, daddy,
+help this person.
+
+
+842
+0:33:43,86 --> 0:33:45,99
+And then I realized
+that in that moment,
+
+
+843
+0:33:45,99 --> 0:33:47,86
+I'm completely
+ignoring this person,
+
+
+844
+0:33:47,86 --> 0:33:50,34
+because it's a common thing
+that I face all the time.
+
+
+845
+0:33:50,34 --> 0:33:52,256
+And if I stopped to try
+and help every person,
+
+
+846
+0:33:52,256 --> 0:33:53,39
+it would be overwhelming.
+
+
+847
+0:33:53,39 --> 0:33:55,72
+And so we have to
+understand how our mind goes
+
+
+848
+0:33:55,72 --> 0:33:58,88
+about deciding whose
+pain is worthy to feel,
+
+
+849
+0:33:58,88 --> 0:34:1,2
+who it's worth to help,
+and who it's worth
+
+
+850
+0:34:1,2 --> 0:34:2,81
+be trustworthy toward.
+
+
+851
+0:34:2,81 --> 0:34:5,18
+And once we understand that,
+then we can figure out,
+
+
+852
+0:34:5,18 --> 0:34:7,91
+OK, how do we increase
+the number of people
+
+
+853
+0:34:7,91 --> 0:34:9,464
+to whom we should feel that?
+
+
+854
+0:34:9,464 --> 0:34:12,139
+Well, one way that I think
+our mind does it is it
+
+
+855
+0:34:12,139 --> 0:34:13,32
+uses a simple metric.
+
+
+856
+0:34:13,32 --> 0:34:16,67
+And that metric is similarity.
+
+
+857
+0:34:16,67 --> 0:34:20,3
+So it comes back to this
+is Robert Trivers, who
+
+
+858
+0:34:20,3 --> 0:34:22,83
+was the discoverer of reciprocal
+altruism, which is basically
+
+
+859
+0:34:22,83 --> 0:34:25,163
+the idea, why do we help
+people in the biological sense?
+
+
+860
+0:34:25,163 --> 0:34:27,62
+It's I scratch your back today.
+
+
+861
+0:34:27,62 --> 0:34:28,27
+You'll scratch mine tomorrow.
+
+
+862
+0:34:28,27 --> 0:34:30,639
+In some ways, that's
+what similarity is.
+
+
+863
+0:34:30,639 --> 0:34:34,239
+When there's a lot of people
+who need my help, going back
+
+
+864
+0:34:34,239 --> 0:34:39,4
+to that equation of short-term
+versus long-term gain,
+
+
+865
+0:34:39,4 --> 0:34:39,969
+who should I help?
+
+
+866
+0:34:39,969 --> 0:34:40,88
+Who is it worth
+it for me to help?
+
+
+867
+0:34:40,88 --> 0:34:42,82
+What your mind does
+shaped by evolution is it
+
+
+868
+0:34:42,82 --> 0:34:46,186
+decides the person who is more
+similar to me is the person
+
+
+869
+0:34:46,186 --> 0:34:48,31
+that it's worth helping,
+because that's more likely
+
+
+870
+0:34:48,31 --> 0:34:51,29
+the person who's going to pay
+me back and be around later.
+
+
+871
+0:34:51,29 --> 0:34:53,91
+At least initially
+that's how it works.
+
+
+872
+0:34:53,91 --> 0:34:55,59
+And so what we wanted
+to do was to see
+
+
+873
+0:34:55,59 --> 0:34:58,23
+how deeply embedded
+this bias is.
+
+
+874
+0:34:58,23 --> 0:35:1,59
+If I said to you, if an American
+soldier's on the battlefield
+
+
+875
+0:35:1,59 --> 0:35:3,92
+and he comes across an
+American soldier and a member
+
+
+876
+0:35:3,92 --> 0:35:7,24
+of the Taliban and both of them
+are suffering the same wounds,
+
+
+877
+0:35:7,24 --> 0:35:9,4
+who is he or she going to
+feel more compassion for?
+
+
+878
+0:35:9,4 --> 0:35:10,23
+And if I said the
+American soldier,
+
+
+879
+0:35:10,23 --> 0:35:12,7
+you might not find
+that surprising.
+
+
+880
+0:35:12,7 --> 0:35:13,778
+But what I want to
+argue is that it's not
+
+
+881
+0:35:13,778 --> 0:35:15,49
+dependent on
+longstanding conflict.
+
+
+882
+0:35:15,49 --> 0:35:17,7
+It's this unconscious
+computation
+
+
+883
+0:35:17,7 --> 0:35:18,0
+that your mind makes.
+
+
+884
+0:35:18,0 --> 0:35:21,98
+And so we tried to strip
+that down to as basic a level
+
+
+885
+0:35:21,98 --> 0:35:22,5
+as we could.
+
+
+886
+0:35:22,5 --> 0:35:23,916
+And we did that
+by using something
+
+
+887
+0:35:23,916 --> 0:35:26,39
+called motor synchrony, which
+is people basically moving
+
+
+888
+0:35:26,39 --> 0:35:27,53
+together in time.
+
+
+889
+0:35:27,53 --> 0:35:29,76
+You see it in the military.
+
+
+890
+0:35:29,76 --> 0:35:31,71
+You see it in conga lines.
+
+
+891
+0:35:31,71 --> 0:35:33,57
+You see it lots of places.
+
+
+892
+0:35:33,57 --> 0:35:35,8
+You see it in lots of rituals.
+
+
+893
+0:35:35,8 --> 0:35:39,6
+And the idea is that if two
+people are moving together,
+
+
+894
+0:35:39,6 --> 0:35:42,94
+that's a marker that for
+here and now, their outcomes,
+
+
+895
+0:35:42,94 --> 0:35:45,437
+their purposes, their
+goals are joined.
+
+
+896
+0:35:45,437 --> 0:35:47,27
+And so we wanted to see
+if we could actually
+
+
+897
+0:35:47,27 --> 0:35:49,222
+show this effect at that level.
+
+
+898
+0:35:49,222 --> 0:35:50,93
+So we brought people
+into a lab, and they
+
+
+899
+0:35:50,93 --> 0:35:52,822
+thought it was a music
+perception study.
+
+
+900
+0:35:52,822 --> 0:35:54,28
+So they sat across
+from each other.
+
+
+901
+0:35:54,28 --> 0:35:55,807
+And there was
+sensors on the table,
+
+
+902
+0:35:55,807 --> 0:35:56,89
+and they had earphones on.
+
+
+903
+0:35:56,89 --> 0:35:58,12
+They didn't talk.
+
+
+904
+0:35:58,12 --> 0:36:0,33
+All they had to
+do was as you hear
+
+
+905
+0:36:0,33 --> 0:36:3,81
+the tones in your
+earphone, tap the sensor.
+
+
+906
+0:36:3,81 --> 0:36:6,31
+And so it was constructed
+so that the two people would
+
+
+907
+0:36:6,31 --> 0:36:8,87
+either be tapping in
+time or completely
+
+
+908
+0:36:8,87 --> 0:36:10,39
+randomly and out of time.
+
+
+909
+0:36:10,39 --> 0:36:12,19
+That was it.
+
+
+910
+0:36:12,19 --> 0:36:14,432
+Then what happens is
+they see the person
+
+
+911
+0:36:14,432 --> 0:36:15,89
+they were tapping
+with get cheated.
+
+
+912
+0:36:15,89 --> 0:36:17,45
+This party is staged,
+but they don't know it.
+
+
+913
+0:36:17,45 --> 0:36:18,408
+They believe it's real.
+
+
+914
+0:36:18,408 --> 0:36:20,89
+They see this person get
+cheated in a way that
+
+
+915
+0:36:20,89 --> 0:36:24,175
+makes that person have
+to do a lot of extra work
+
+
+916
+0:36:24,175 --> 0:36:26,609
+that they shouldn't
+have had to do.
+
+
+917
+0:36:26,609 --> 0:36:28,15
+And then what happens
+is we give them
+
+
+918
+0:36:28,15 --> 0:36:31,48
+a chance to decide if they
+want to go and help that person
+
+
+919
+0:36:31,48 --> 0:36:34,61
+and relieve that
+person's burden.
+
+
+920
+0:36:34,61 --> 0:36:37,13
+And that's what we look at.
+
+
+921
+0:36:37,13 --> 0:36:38,99
+So what happens?
+
+
+922
+0:36:38,99 --> 0:36:41,89
+We asked the people,
+how similar were you
+
+
+923
+0:36:41,89 --> 0:36:43,82
+to that person in
+the experiment?
+
+
+924
+0:36:43,82 --> 0:36:46,75
+The simple act of tapping
+your hands-- they didn't talk.
+
+
+925
+0:36:46,75 --> 0:36:48,492
+They didn't do
+anything-- made them
+
+
+926
+0:36:48,492 --> 0:36:50,7
+feel that they were more
+similar to the other person.
+
+
+927
+0:36:50,7 --> 0:36:53,79
+Now, if you ask them why,
+they'll create a story.
+
+
+928
+0:36:53,79 --> 0:36:57,17
+They'll say, oh, I think
+we were in the same class.
+
+
+929
+0:36:57,17 --> 0:37:0,5
+Or I think I've met
+this person somewhere
+
+
+930
+0:37:0,5 --> 0:37:2,25
+or we share the same goals.
+
+
+931
+0:37:2,25 --> 0:37:3,354
+They don't know.
+
+
+932
+0:37:3,354 --> 0:37:5,2
+They never talked to
+this person before.
+
+
+933
+0:37:5,2 --> 0:37:5,936
+None of that was true.
+
+
+934
+0:37:5,936 --> 0:37:7,51
+But because they
+had this intuition
+
+
+935
+0:37:7,51 --> 0:37:8,885
+that they felt
+more similar, they
+
+
+936
+0:37:8,885 --> 0:37:10,77
+had to create a story for it.
+
+
+937
+0:37:10,77 --> 0:37:13,461
+How much compassion did
+you feel for this person
+
+
+938
+0:37:13,461 --> 0:37:15,71
+when they got cheated and
+got stuck doing this onerous
+
+
+939
+0:37:15,71 --> 0:37:18,48
+work that they weren't
+supposed to do?
+
+
+940
+0:37:18,48 --> 0:37:20,75
+Remember, in both cases,
+the amount of suffering
+
+
+941
+0:37:20,75 --> 0:37:22,32
+is exactly the same.
+
+
+942
+0:37:22,32 --> 0:37:25,68
+Yet they feel more
+compassion for this person
+
+
+943
+0:37:25,68 --> 0:37:29,53
+if they were just tapping
+in time with them.
+
+
+944
+0:37:29,53 --> 0:37:31,46
+How many wanted to
+go help this person?
+
+
+945
+0:37:31,46 --> 0:37:32,95
+This I found truly amazing.
+
+
+946
+0:37:32,95 --> 0:37:35,49
+6 out of 34 people
+would say, oh,
+
+
+947
+0:37:35,49 --> 0:37:37,24
+I'll go help that
+person who was harmed
+
+
+948
+0:37:37,24 --> 0:37:42,39
+and cheated versus 17 of 35.
+
+
+949
+0:37:42,39 --> 0:37:44,524
+We had a threefold difference.
+
+
+950
+0:37:44,524 --> 0:37:46,69
+When you tapped your hands
+in time with this person,
+
+
+951
+0:37:46,69 --> 0:37:48,96
+50% of them said,
+I want to go help
+
+
+952
+0:37:48,96 --> 0:37:51,2
+this person who was wronged.
+
+
+953
+0:37:51,2 --> 0:37:53,78
+That's a huge effect
+if it's scalable.
+
+
+954
+0:37:53,78 --> 0:37:57,75
+How much time did
+they spend helping?
+
+
+955
+0:37:57,75 --> 0:37:58,6
+These are seconds.
+
+
+956
+0:37:58,6 --> 0:38:1,66
+So if you tapped your
+hands with this person,
+
+
+957
+0:38:1,66 --> 0:38:5,0
+you spent a lot more time
+knowing that everything you did
+
+
+958
+0:38:5,0 --> 0:38:7,84
+would relieve that
+person's burden.
+
+
+959
+0:38:7,84 --> 0:38:9,52
+And if you look at
+it-- again these
+
+
+960
+0:38:9,52 --> 0:38:12,71
+are regression coefficients--
+if you tapped your hand in time
+
+
+961
+0:38:12,71 --> 0:38:15,98
+with this person, yes, you
+felt more similar to them.
+
+
+962
+0:38:15,98 --> 0:38:17,73
+And yes you like them more.
+
+
+963
+0:38:17,73 --> 0:38:20,69
+But what actually predicted
+the compassion you feel?
+
+
+964
+0:38:20,69 --> 0:38:24,992
+Not how much you like them but
+how similar you felt to them
+
+
+965
+0:38:24,992 --> 0:38:26,95
+If you tapped with them,
+you felt more similar.
+
+
+966
+0:38:26,95 --> 0:38:28,55
+That predicted how
+much compassion
+
+
+967
+0:38:28,55 --> 0:38:30,841
+you felt toward them even
+though the level of suffering
+
+
+968
+0:38:30,841 --> 0:38:33,4
+was the same objectively.
+
+
+969
+0:38:33,4 --> 0:38:35,39
+And the amount of compassion
+you felt for them directly
+
+
+970
+0:38:35,39 --> 0:38:38,34
+predicted how much time,
+how much effort you
+
+
+971
+0:38:38,34 --> 0:38:40,66
+put into relieving their pain.
+
+
+972
+0:38:40,66 --> 0:38:44,15
+Now, what this suggests is that
+compassion and trustworthiness
+
+
+973
+0:38:44,15 --> 0:38:44,71
+are flexible.
+
+
+974
+0:38:44,71 --> 0:38:46,36
+Because if you're going
+to be trustworthy to me,
+
+
+975
+0:38:46,36 --> 0:38:47,859
+that means you're
+going to sacrifice
+
+
+976
+0:38:47,859 --> 0:38:52,65
+your own immediate outcomes to
+benefit me like these people
+
+
+977
+0:38:52,65 --> 0:38:53,28
+did here.
+
+
+978
+0:38:53,28 --> 0:38:54,69
+Can I trust you to help me?
+
+
+979
+0:38:54,69 --> 0:38:58,2
+Can trust you not
+to shoot me back
+
+
+980
+0:38:58,2 --> 0:38:59,48
+with the Brits and the Germans.
+
+
+981
+0:38:59,48 --> 0:39:2,5
+
+
+
+982
+0:39:2,5 --> 0:39:5,18
+Where I live, what
+this means is trying
+
+
+983
+0:39:5,18 --> 0:39:8,7
+to solve some of the
+more contentious things
+
+
+984
+0:39:8,7 --> 0:39:10,24
+we have in Boston, which
+is Yankees versus Red Sox.
+
+
+985
+0:39:10,24 --> 0:39:11,929
+But what that means
+basically is not
+
+
+986
+0:39:11,929 --> 0:39:13,72
+thinking about your
+new neighbor as the guy
+
+
+987
+0:39:13,72 --> 0:39:15,45
+who hates the dreaded Yankees.
+
+
+988
+0:39:15,45 --> 0:39:17,56
+Think about him as the
+guy who likes Starbucks
+
+
+989
+0:39:17,56 --> 0:39:19,9
+as much as you do.
+
+
+990
+0:39:19,9 --> 0:39:23,28
+If you can actually retrain
+your mind to find similarities
+
+
+991
+0:39:23,28 --> 0:39:24,71
+that you have with
+people, it will
+
+
+992
+0:39:24,71 --> 0:39:28,25
+increase your trustworthiness
+toward them and the compassion
+
+
+993
+0:39:28,25 --> 0:39:31,34
+that you feel toward them.
+
+
+994
+0:39:31,34 --> 0:39:34,19
+When you think
+about social media,
+
+
+995
+0:39:34,19 --> 0:39:36,59
+there are tremendous
+ways to do this.
+
+
+996
+0:39:36,59 --> 0:39:39,152
+We can use the computational
+power of social media
+
+
+997
+0:39:39,152 --> 0:39:40,86
+in ways to connect
+people that have never
+
+
+998
+0:39:40,86 --> 0:39:41,89
+been connected before.
+
+
+999
+0:39:41,89 --> 0:39:46,94
+Think about things like profiles
+on Facebook or other things.
+
+
+1000
+0:39:46,94 --> 0:39:50,94
+We have vast knowledge of what
+people like and don't like,
+
+
+1001
+0:39:50,94 --> 0:39:54,0
+what they've done
+or haven't done.
+
+
+1002
+0:39:54,0 --> 0:39:56,92
+Perhaps what you can do is
+find what people in conflict
+
+
+1003
+0:39:56,92 --> 0:40:1,22
+have in common very
+rapidly in the background
+
+
+1004
+0:40:1,22 --> 0:40:3,627
+and surface that
+information to them.
+
+
+1005
+0:40:3,627 --> 0:40:5,21
+And if you do, then
+it should function
+
+
+1006
+0:40:5,21 --> 0:40:6,78
+in just the same way
+as tapping your hands.
+
+
+1007
+0:40:6,78 --> 0:40:8,26
+There's nothing magic
+about tapping your hands.
+
+
+1008
+0:40:8,26 --> 0:40:10,468
+We've done it with wearing
+the same wristband colors,
+
+
+1009
+0:40:10,468 --> 0:40:11,7
+et cetera.
+
+
+1010
+0:40:11,7 --> 0:40:13,42
+Anything that you can do
+to highlight similarity
+
+
+1011
+0:40:13,42 --> 0:40:15,65
+with someone will
+make your goals
+
+
+1012
+0:40:15,65 --> 0:40:18,364
+seems more joined, which will
+increase the compassion you
+
+
+1013
+0:40:18,364 --> 0:40:19,78
+feel to them if
+they're suffering,
+
+
+1014
+0:40:19,78 --> 0:40:21,48
+which will increase
+how trustworthy you
+
+
+1015
+0:40:21,48 --> 0:40:26,44
+are toward them even in ways
+that don't involve compassion.
+
+
+1016
+0:40:26,44 --> 0:40:29,185
+So at Google, I'm really
+interested and open
+
+
+1017
+0:40:29,185 --> 0:40:30,81
+to talking with any
+of you about if you
+
+
+1018
+0:40:30,81 --> 0:40:32,78
+have ideas about using
+the computational power
+
+
+1019
+0:40:32,78 --> 0:40:36,36
+that you all have to kind
+of nudge trustworthiness
+
+
+1020
+0:40:36,36 --> 0:40:39,432
+and compassion in the world.
+
+
+1021
+0:40:39,432 --> 0:40:41,762
+But that's all kind
+of a top-down way.
+
+
+1022
+0:40:41,762 --> 0:40:43,72
+This is a way that we
+have to remind ourselves,
+
+
+1023
+0:40:43,72 --> 0:40:46,899
+OK, think about this person
+as similar to me or not.
+
+
+1024
+0:40:46,899 --> 0:40:49,44
+It will be nice if we had a way
+that could make it automatic,
+
+
+1025
+0:40:49,44 --> 0:40:51,606
+a way that works from the
+bottom up so that we don't
+
+
+1026
+0:40:51,606 --> 0:40:54,546
+have to stop and
+remind ourselves.
+
+
+1027
+0:40:54,546 --> 0:40:55,92
+And one way that
+we can do this--
+
+
+1028
+0:40:55,92 --> 0:40:58,77
+and I know it's an idea
+close to Ming's heart,
+
+
+1029
+0:40:58,77 --> 0:41:0,29
+and I'm really
+honored to be here
+
+
+1030
+0:41:0,29 --> 0:41:5,63
+to be able to talk with him
+about it-- is mindfulness.
+
+
+1031
+0:41:5,63 --> 0:41:7,67
+If you read the paper
+or know anything
+
+
+1032
+0:41:7,67 --> 0:41:9,15
+about mindfulness,
+what you'll know
+
+
+1033
+0:41:9,15 --> 0:41:12,78
+is that it is enjoying
+a renaissance.
+
+
+1034
+0:41:12,78 --> 0:41:15,196
+And we know it does all
+kinds of wonderful things.
+
+
+1035
+0:41:15,196 --> 0:41:17,7
+And probably many of
+you have more experience
+
+
+1036
+0:41:17,7 --> 0:41:21,26
+with it here thanks
+to Ming's course.
+
+
+1037
+0:41:21,26 --> 0:41:23,1
+It will increase
+your creativity.
+
+
+1038
+0:41:23,1 --> 0:41:25,137
+It will increase
+your productivity.
+
+
+1039
+0:41:25,137 --> 0:41:26,22
+It's good for your health.
+
+
+1040
+0:41:26,22 --> 0:41:28,37
+It'll lower your blood pressure.
+
+
+1041
+0:41:28,37 --> 0:41:31,36
+It'll even increase your
+scores on standardized tests.
+
+
+1042
+0:41:31,36 --> 0:41:33,6
+These are all good things.
+
+
+1043
+0:41:33,6 --> 0:41:34,52
+But if you think
+about it, it's not
+
+
+1044
+0:41:34,52 --> 0:41:37,36
+what it was originally
+designed for.
+
+
+1045
+0:41:37,36 --> 0:41:39,116
+If you look at what
+Buddha said or many
+
+
+1046
+0:41:39,116 --> 0:41:40,82
+of the other ancient
+meditation teachers-- well
+
+
+1047
+0:41:40,82 --> 0:41:41,92
+this is a quote by Buddha.
+
+
+1048
+0:41:41,92 --> 0:41:44,38
+I teach one thing and one only.
+
+
+1049
+0:41:44,38 --> 0:41:47,72
+That is suffering and
+the end of suffering.
+
+
+1050
+0:41:47,72 --> 0:41:50,44
+There weren't LSATs
+and GMATs back then.
+
+
+1051
+0:41:50,44 --> 0:41:54,82
+So all these other things that
+meditation does are wonderful,
+
+
+1052
+0:41:54,82 --> 0:41:55,57
+and they're great.
+
+
+1053
+0:41:55,57 --> 0:41:58,78
+But one of the main purposes
+was to foster compassion and end
+
+
+1054
+0:41:58,78 --> 0:42:1,7
+suffering and to increase
+our being good to each other
+
+
+1055
+0:42:1,7 --> 0:42:2,635
+and being trustworthy
+to each other.
+
+
+1056
+0:42:2,635 --> 0:42:4,343
+And so what we decided
+to do was actually
+
+
+1057
+0:42:4,343 --> 0:42:6,8
+put that idea to a test.
+
+
+1058
+0:42:6,8 --> 0:42:8,429
+And so we brought
+people into the lab.
+
+
+1059
+0:42:8,429 --> 0:42:10,47
+These were people who had
+never meditated before.
+
+
+1060
+0:42:10,47 --> 0:42:12,24
+They were members of
+the Boston community.
+
+
+1061
+0:42:12,24 --> 0:42:16,11
+And they were all equally
+interested in meditation,
+
+
+1062
+0:42:16,11 --> 0:42:17,26
+doing a class for eight weeks.
+
+
+1063
+0:42:17,26 --> 0:42:19,43
+We assigned half of
+them to actually take
+
+
+1064
+0:42:19,43 --> 0:42:23,55
+a mindfulness class
+led by a Buddhist lama.
+
+
+1065
+0:42:23,55 --> 0:42:26,9
+And they also would go
+home during the week
+
+
+1066
+0:42:26,9 --> 0:42:29,766
+with MP3s created by the lama
+that they would practice.
+
+
+1067
+0:42:29,766 --> 0:42:31,39
+The other half were
+put on a wait list.
+
+
+1068
+0:42:31,39 --> 0:42:33,18
+So this way we had groups
+that were equally interested
+
+
+1069
+0:42:33,18 --> 0:42:35,65
+in medication, because you
+might imagine that if we just
+
+
+1070
+0:42:35,65 --> 0:42:37,4
+recruited people who
+wanted to meditate,
+
+
+1071
+0:42:37,4 --> 0:42:39,2
+they might have been
+different types of people
+
+
+1072
+0:42:39,2 --> 0:42:39,811
+in the first place.
+
+
+1073
+0:42:39,811 --> 0:42:42,25
+So both groups were equally
+interested, but only half
+
+
+1074
+0:42:42,25 --> 0:42:43,63
+of them actually got the course.
+
+
+1075
+0:42:43,63 --> 0:42:46,605
+The other half got it
+after we did the measure.
+
+
+1076
+0:42:46,605 --> 0:42:48,73
+After eight weeks, we
+brought them back to the lab.
+
+
+1077
+0:42:48,73 --> 0:42:49,57
+Now, they thought
+they were coming
+
+
+1078
+0:42:49,57 --> 0:42:51,653
+to have their memory, and
+their executive control,
+
+
+1079
+0:42:51,653 --> 0:42:54,22
+and all these cognitive
+measures tested, which we did.
+
+
+1080
+0:42:54,22 --> 0:42:56,83
+But before we did those, what
+we really were interested in
+
+
+1081
+0:42:56,83 --> 0:42:58,98
+is what was going to
+happen in the waiting room.
+
+
+1082
+0:42:58,98 --> 0:43:2,43
+And so in our waiting
+room, we had three chairs.
+
+
+1083
+0:43:2,43 --> 0:43:5,565
+Two were filled by actors and
+the third was for the subject.
+
+
+1084
+0:43:5,565 --> 0:43:7,94
+And so when the subject arrived,
+what did the subject do?
+
+
+1085
+0:43:7,94 --> 0:43:9,36
+Well, all them
+except one sat down.
+
+
+1086
+0:43:9,36 --> 0:43:11,776
+We couldn't get that other guy
+to sit down no matter what.
+
+
+1087
+0:43:11,776 --> 0:43:13,75
+But most of them sat down.
+
+
+1088
+0:43:13,75 --> 0:43:17,66
+And then a third actor
+would enter the room.
+
+
+1089
+0:43:17,66 --> 0:43:20,16
+This person was on crutches,
+had one of those foot
+
+
+1090
+0:43:20,16 --> 0:43:21,882
+boots you wear when
+your ankle is broken.
+
+
+1091
+0:43:21,882 --> 0:43:23,965
+And as she'd walk down the
+hall entering the room,
+
+
+1092
+0:43:23,965 --> 0:43:25,715
+she would kind of wince
+in pain and looked
+
+
+1093
+0:43:25,715 --> 0:43:27,64
+noticeably uncomfortable.
+
+
+1094
+0:43:27,64 --> 0:43:30,35
+And she'd enter the room,
+and there weren't any chairs.
+
+
+1095
+0:43:30,35 --> 0:43:31,809
+And so she'd lean
+against the wall.
+
+
+1096
+0:43:31,809 --> 0:43:33,766
+And the question was,
+what would the person do?
+
+
+1097
+0:43:33,766 --> 0:43:36,44
+The actors were told to busy
+themselves in their iPhone
+
+
+1098
+0:43:36,44 --> 0:43:37,77
+and to not pay attention.
+
+
+1099
+0:43:37,77 --> 0:43:40,8
+Now, in psychology we call
+this a bystander effect
+
+
+1100
+0:43:40,8 --> 0:43:41,71
+where this really
+limits helping.
+
+
+1101
+0:43:41,71 --> 0:43:43,45
+If you're in a
+situation where you
+
+
+1102
+0:43:43,45 --> 0:43:45,94
+see somebody in pain and
+other people aren't helping,
+
+
+1103
+0:43:45,94 --> 0:43:48,15
+that tends to decrease
+anybody's odds of helping,
+
+
+1104
+0:43:48,15 --> 0:43:49,9
+because you say, oh,
+it's not a big deal
+
+
+1105
+0:43:49,9 --> 0:43:50,35
+or maybe I shouldn't help.
+
+
+1106
+0:43:50,35 --> 0:43:52,24
+And so this
+situation is one that
+
+
+1107
+0:43:52,24 --> 0:43:55,62
+makes being counted on that
+you're trustworthy to come
+
+
+1108
+0:43:55,62 --> 0:43:59,2
+and help the lowest
+it possibly can.
+
+
+1109
+0:43:59,2 --> 0:44:0,9
+So what happens?
+
+
+1110
+0:44:0,9 --> 0:44:2,66
+
+
+
+1111
+0:44:2,66 --> 0:44:9,82
+So people who were in the
+control group, only very
+
+
+1112
+0:44:9,82 --> 0:44:14,48
+small percentage of
+them helped, like 16%.
+
+
+1113
+0:44:14,48 --> 0:44:17,89
+Among those who meditated,
+50% of them helped.
+
+
+1114
+0:44:17,89 --> 0:44:19,542
+That's a threefold increase.
+
+
+1115
+0:44:19,542 --> 0:44:21,75
+And that's a threefold
+increase in the situation that
+
+
+1116
+0:44:21,75 --> 0:44:25,9
+is designed to
+actually work the most
+
+
+1117
+0:44:25,9 --> 0:44:28,612
+against your willing to help.
+
+
+1118
+0:44:28,612 --> 0:44:30,32
+Now, if that can happen
+after eight weeks
+
+
+1119
+0:44:30,32 --> 0:44:35,752
+and if that is scalable,
+that is a huge, huge effect
+
+
+1120
+0:44:35,752 --> 0:44:37,21
+that you can count
+on other people.
+
+
+1121
+0:44:37,21 --> 0:44:40,26
+You can trust them that
+they're going to help you.
+
+
+1122
+0:44:40,26 --> 0:44:44,66
+Now, why does it work that way?
+
+
+1123
+0:44:44,66 --> 0:44:47,93
+It works that way because
+one part of mindfulness
+
+
+1124
+0:44:47,93 --> 0:44:50,2
+is this idea of equanimity.
+
+
+1125
+0:44:50,2 --> 0:44:52,507
+And that means realizing
+that I am similar to you,
+
+
+1126
+0:44:52,507 --> 0:44:53,59
+and you are similar to me.
+
+
+1127
+0:44:53,59 --> 0:44:56,48
+Friends are enemies, are
+enemies can become friends.
+
+
+1128
+0:44:56,48 --> 0:44:58,21
+And what that does
+is it trains the mind
+
+
+1129
+0:44:58,21 --> 0:45:0,59
+to see us all as
+valuable and interlinked.
+
+
+1130
+0:45:0,59 --> 0:45:2,52
+And it breaks down
+the categories
+
+
+1131
+0:45:2,52 --> 0:45:4,924
+that we put on each other of
+we're different in religion.
+
+
+1132
+0:45:4,924 --> 0:45:7,9
+We're different in sports
+teams you like, et cetera.
+
+
+1133
+0:45:7,9 --> 0:45:8,4
+And I think that's why it works.
+
+
+1134
+0:45:8,4 --> 0:45:9,289
+And then it becomes automatic.
+
+
+1135
+0:45:9,289 --> 0:45:11,96
+It does the same thing that
+my little tapping example
+
+
+1136
+0:45:11,96 --> 0:45:13,604
+was doing.
+
+
+1137
+0:45:13,604 --> 0:45:16,2
+And so when it comes down to
+it, really what I want to say
+
+
+1138
+0:45:16,2 --> 0:45:19,28
+is that in the end,
+it's trust or it's dust.
+
+
+1139
+0:45:19,28 --> 0:45:22,79
+And what I mean by
+that is without trust,
+
+
+1140
+0:45:22,79 --> 0:45:27,54
+our ability to be resilient as
+a society is exceedingly low.
+
+
+1141
+0:45:27,54 --> 0:45:30,9
+And so how can we build it up?
+
+
+1142
+0:45:30,9 --> 0:45:32,0
+Anything we can
+do to nudge it up
+
+
+1143
+0:45:32,0 --> 0:45:36,464
+is important to being resilient.
+
+
+1144
+0:45:36,464 --> 0:45:38,88
+In the fall of 2012, I don't
+know how many of you remember
+
+
+1145
+0:45:38,88 --> 0:45:42,38
+out here, but on the East Coast,
+super storm Sandy hit New York.
+
+
+1146
+0:45:42,38 --> 0:45:45,37
+And it was a devastating storm.
+
+
+1147
+0:45:45,37 --> 0:45:48,21
+And there are neighborhoods
+that still aren't recovered.
+
+
+1148
+0:45:48,21 --> 0:45:51,45
+But the AP did a great study.
+
+
+1149
+0:45:51,45 --> 0:45:53,8
+Controlling for the amount
+of damage that occurred,
+
+
+1150
+0:45:53,8 --> 0:45:57,32
+they looked at what was the
+single most important predictor
+
+
+1151
+0:45:57,32 --> 0:46:0,66
+of a neighborhood's resilience.
+
+
+1152
+0:46:0,66 --> 0:46:2,17
+The single most
+important predictor
+
+
+1153
+0:46:2,17 --> 0:46:5,22
+was how much neighbors
+trusted each other.
+
+
+1154
+0:46:5,22 --> 0:46:7,34
+How much they know
+that the other person
+
+
+1155
+0:46:7,34 --> 0:46:8,71
+they could count on them,
+that that person was
+
+
+1156
+0:46:8,71 --> 0:46:10,126
+going to have
+compassion for them,
+
+
+1157
+0:46:10,126 --> 0:46:12,4
+that they were going
+to work together.
+
+
+1158
+0:46:12,4 --> 0:46:14,21
+The neighborhoods that
+were higher in trust
+
+
+1159
+0:46:14,21 --> 0:46:16,15
+were the neighborhoods
+that got up and running
+
+
+1160
+0:46:16,15 --> 0:46:18,12
+in terms of commerce,
+and support,
+
+
+1161
+0:46:18,12 --> 0:46:20,241
+and social services
+faster than anything.
+
+
+1162
+0:46:20,241 --> 0:46:22,74
+And that's why I say in the
+end, it really is trust or dust.
+
+
+1163
+0:46:22,74 --> 0:46:24,984
+If we don't trust,
+we're harming everybody.
+
+
+1164
+0:46:24,984 --> 0:46:27,4
+But of course there were people
+in neighborhoods who price
+
+
+1165
+0:46:27,4 --> 0:46:29,88
+gouged and who did
+things they shouldn't.
+
+
+1166
+0:46:29,88 --> 0:46:34,9
+And so really my message in the
+book is, yes, trusting is good.
+
+
+1167
+0:46:34,9 --> 0:46:35,77
+We should all trust.
+
+
+1168
+0:46:35,77 --> 0:46:38,52
+But trusting wisely is better.
+
+
+1169
+0:46:38,52 --> 0:46:41,95
+And so it's my hope that any
+of you who read this or come
+
+
+1170
+0:46:41,95 --> 0:46:45,87
+into contact with this work,
+it will empower you to think
+
+
+1171
+0:46:45,87 --> 0:46:48,1
+about the way trust
+actually works
+
+
+1172
+0:46:48,1 --> 0:46:49,731
+and the forces
+that impinge on it
+
+
+1173
+0:46:49,731 --> 0:46:51,73
+to make better decisions
+about who you can trust
+
+
+1174
+0:46:51,73 --> 0:46:56,33
+but also how to foster
+trustworthiness in yourself.
+
+
+1175
+0:46:56,33 --> 0:46:58,355
+And I thank you so much
+for listening to me.
+
+
+1176
+0:46:58,355 --> 0:47:3,75
+
+
+
+1177
+0:47:3,75 --> 0:47:4,2
+MING: Thank you, my friend.
+
+
+1178
+0:47:4,2 --> 0:47:6,236
+We have time for questions.
+
+
+1179
+0:47:6,236 --> 0:47:7,36
+Anybody have any questions?
+
+
+1180
+0:47:7,36 --> 0:47:10,26
+AUDIENCE: Two fairly
+related questions,
+
+
+1181
+0:47:10,26 --> 0:47:13,89
+in the earlier test
+about looking for cues,
+
+
+1182
+0:47:13,89 --> 0:47:16,45
+so I'm just wondering
+how you came
+
+
+1183
+0:47:16,45 --> 0:47:18,789
+to the domain of
+different things
+
+
+1184
+0:47:18,789 --> 0:47:20,58
+you were looking for
+that could conceivably
+
+
+1185
+0:47:20,58 --> 0:47:23,1
+be a cue in your analysis.
+
+
+1186
+0:47:23,1 --> 0:47:25,52
+Because you could say whether
+the pinkie is touching
+
+
+1187
+0:47:25,52 --> 0:47:28,35
+the hand and the hand's
+touching is or not.
+
+
+1188
+0:47:28,35 --> 0:47:31,59
+And then along with
+that, with whether you
+
+
+1189
+0:47:31,59 --> 0:47:35,91
+were going into it starting
+off focused on physical cues
+
+
+1190
+0:47:35,91 --> 0:47:39,93
+or if you were also
+considering the types of issues
+
+
+1191
+0:47:39,93 --> 0:47:43,6
+that were brought up in
+conversation, which could then
+
+
+1192
+0:47:43,6 --> 0:47:46,1
+play into the
+talking with a robot
+
+
+1193
+0:47:46,1 --> 0:47:49,99
+or talking over the internet.
+
+
+1194
+0:47:49,99 --> 0:47:51,14
+DAVID DESTENO: So let me
+do the second one first.
+
+
+1195
+0:47:51,14 --> 0:47:54,397
+We were primarily
+interested in physical cues.
+
+
+1196
+0:47:54,397 --> 0:47:55,98
+There's lots of work
+out there as well
+
+
+1197
+0:47:55,98 --> 0:47:58,51
+on linguistics and
+the type of phrasing
+
+
+1198
+0:47:58,51 --> 0:48:1,44
+that people use as
+well as vocal tone.
+
+
+1199
+0:48:1,44 --> 0:48:2,92
+We weren't looking for those.
+
+
+1200
+0:48:2,92 --> 0:48:4,72
+It doesn't mean that
+those don't matter.
+
+
+1201
+0:48:4,72 --> 0:48:6,39
+And so I'm not saying these
+are the only cues that matter,
+
+
+1202
+0:48:6,39 --> 0:48:7,89
+but these are
+sufficient to predict.
+
+
+1203
+0:48:7,89 --> 0:48:11,14
+The more that we know
+about, our accuracy will go.
+
+
+1204
+0:48:11,14 --> 0:48:14,9
+But we were interested in the
+actual physical, biological
+
+
+1205
+0:48:14,9 --> 0:48:15,52
+motion cues.
+
+
+1206
+0:48:15,52 --> 0:48:16,5
+How did we get them?
+
+
+1207
+0:48:16,5 --> 0:48:19,71
+We simply started with
+the brute force method,
+
+
+1208
+0:48:19,71 --> 0:48:21,43
+was looking for
+individual cues that
+
+
+1209
+0:48:21,43 --> 0:48:23,46
+had some predictive
+ability at all.
+
+
+1210
+0:48:23,46 --> 0:48:26,562
+Because even if they're
+not predictive greatly
+
+
+1211
+0:48:26,562 --> 0:48:28,77
+on their own, they have to
+have some predictive power
+
+
+1212
+0:48:28,77 --> 0:48:29,36
+on their own.
+
+
+1213
+0:48:29,36 --> 0:48:31,96
+And then we would begin
+to do is to assemble
+
+
+1214
+0:48:31,96 --> 0:48:34,695
+different subsets just trying to
+maximize the amount of accuracy
+
+
+1215
+0:48:34,695 --> 0:48:35,62
+that we can predict.
+
+
+1216
+0:48:35,62 --> 0:48:37,34
+So it was a very
+bottom-up approach.
+
+
+1217
+0:48:37,34 --> 0:48:38,923
+And then once we
+have those four sets,
+
+
+1218
+0:48:38,923 --> 0:48:41,93
+those predicted the
+greatest amount of variance
+
+
+1219
+0:48:41,93 --> 0:48:44,335
+in people's selfish
+monetary behavior.
+
+
+1220
+0:48:44,335 --> 0:48:45,96
+Which is then why,
+again, it was really
+
+
+1221
+0:48:45,96 --> 0:48:46,89
+important to use the robot.
+
+
+1222
+0:48:46,89 --> 0:48:47,49
+Because you're right.
+
+
+1223
+0:48:47,49 --> 0:48:48,58
+This was a correlational method.
+
+
+1224
+0:48:48,58 --> 0:48:49,54
+Who knows what we
+could be picking up.
+
+
+1225
+0:48:49,54 --> 0:48:52,14
+Maybe on every time I cross
+my arm, it was my pinkie.
+
+
+1226
+0:48:52,14 --> 0:48:54,348
+And so we could actually
+manipulate it with precision
+
+
+1227
+0:48:54,348 --> 0:48:55,951
+with the robot to validate it.
+
+
+1228
+0:48:55,951 --> 0:48:57,7
+MING: If you could put
+a pinkie down here,
+
+
+1229
+0:48:57,7 --> 0:48:58,575
+it's not trustworthy.
+
+
+1230
+0:48:58,575 --> 0:49:2,6
+
+
+
+1231
+0:49:2,6 --> 0:49:3,519
+That's what I
+learned from a movie.
+
+
+1232
+0:49:3,519 --> 0:49:5,726
+AUDIENCE: Let's see if I
+can word this the right way.
+
+
+1233
+0:49:5,726 --> 0:49:7,38
+It seems like the
+general conclusion
+
+
+1234
+0:49:7,38 --> 0:49:9,75
+from the research
+or your conclusion
+
+
+1235
+0:49:9,75 --> 0:49:13,3
+is you're saying we should
+be more trusting of others,
+
+
+1236
+0:49:13,3 --> 0:49:15,29
+like sort of the hope
+for the better world.
+
+
+1237
+0:49:15,29 --> 0:49:19,53
+And the question is, is there
+also then some drive for people
+
+
+1238
+0:49:19,53 --> 0:49:21,705
+themselves to be trustworthy?
+
+
+1239
+0:49:21,705 --> 0:49:23,58
+Like in the example you
+gave in the beginning
+
+
+1240
+0:49:23,58 --> 0:49:27,48
+about people in a marriage,
+one cheated on the other,
+
+
+1241
+0:49:27,48 --> 0:49:29,1
+is it to say, put that aside.
+
+
+1242
+0:49:29,1 --> 0:49:30,54
+Trust that person.
+
+
+1243
+0:49:30,54 --> 0:49:32,68
+Or is there some other
+conclusion in that sense?
+
+
+1244
+0:49:32,68 --> 0:49:34,18
+DAVID DESTENO: It's
+a good question.
+
+
+1245
+0:49:34,18 --> 0:49:35,75
+What we know from
+all the-- so people
+
+
+1246
+0:49:35,75 --> 0:49:38,49
+like Martin Nowak at Harvard
+is a straight mathematician,
+
+
+1247
+0:49:38,49 --> 0:49:39,47
+evolutionary biologist.
+
+
+1248
+0:49:39,47 --> 0:49:41,95
+And so they run these
+fantastic models.
+
+
+1249
+0:49:41,95 --> 0:49:42,75
+And what we know
+is that if you are
+
+
+1250
+0:49:42,75 --> 0:49:46,36
+untrustworthy in the short
+run, you will profit immensely.
+
+
+1251
+0:49:46,36 --> 0:49:48,61
+But over time, that profit
+then starts to go down.
+
+
+1252
+0:49:48,61 --> 0:49:50,76
+And so in the long run,
+people who are trustworthy
+
+
+1253
+0:49:50,76 --> 0:49:54,4
+profit the most in terms of
+everything and even as a group.
+
+
+1254
+0:49:54,4 --> 0:49:56,33
+And so we know that's
+the better outcome.
+
+
+1255
+0:49:56,33 --> 0:50:0,6
+But if you can be untrustworthy
+and not get caught,
+
+
+1256
+0:50:0,6 --> 0:50:1,48
+you're going to profit.
+
+
+1257
+0:50:1,48 --> 0:50:3,7
+So how do we try
+to balance those?
+
+
+1258
+0:50:3,7 --> 0:50:4,45
+And so what we're
+trying to do is
+
+
+1259
+0:50:4,45 --> 0:50:5,825
+to make everybody
+want to be more
+
+
+1260
+0:50:5,825 --> 0:50:8,324
+trustworthy but at the same
+time also make better decisions.
+
+
+1261
+0:50:8,324 --> 0:50:10,25
+It will be impossible
+to have a world where
+
+
+1262
+0:50:10,25 --> 0:50:12,202
+everybody is trustworthy.
+
+
+1263
+0:50:12,202 --> 0:50:13,66
+Because if everybody's
+trustworthy,
+
+
+1264
+0:50:13,66 --> 0:50:15,34
+you stop even
+looking and caring.
+
+
+1265
+0:50:15,34 --> 0:50:17,7
+You just automatically
+say, yes, I'll trust you.
+
+
+1266
+0:50:17,7 --> 0:50:19,94
+And then if there's a mutation
+or whatever that causes people
+
+
+1267
+0:50:19,94 --> 0:50:22,2
+to be more
+untrustworthy, they're
+
+
+1268
+0:50:22,2 --> 0:50:24,42
+going to profit like crazy.
+
+
+1269
+0:50:24,42 --> 0:50:25,5
+Until then everybody
+starts caring,
+
+
+1270
+0:50:25,5 --> 0:50:27,541
+and so it's always going
+to be in an equilibrium.
+
+
+1271
+0:50:27,541 --> 0:50:29,57
+The question is, can we
+increase the set point
+
+
+1272
+0:50:29,57 --> 0:50:32,9
+for trustworthiness
+to a higher level?
+
+
+1273
+0:50:32,9 --> 0:50:34,31
+And so it's about increasing
+your own trustworthiness
+
+
+1274
+0:50:34,31 --> 0:50:37,35
+but about deciding if you can
+trust somebody else wisely.
+
+
+1275
+0:50:37,35 --> 0:50:39,72
+So yes, if you know
+absolutely nothing,
+
+
+1276
+0:50:39,72 --> 0:50:42,7
+it's better to trust than
+not trust in the long run
+
+
+1277
+0:50:42,7 --> 0:50:45,43
+in terms of quantifying the
+benefits that can happen.
+
+
+1278
+0:50:45,43 --> 0:50:47,22
+But it's certainly
+not as good as making
+
+
+1279
+0:50:47,22 --> 0:50:48,94
+an informed correct decision.
+
+
+1280
+0:50:48,94 --> 0:50:51,11
+And so my hope is to try
+and open people's eyes
+
+
+1281
+0:50:51,11 --> 0:50:52,651
+to how trust really
+works so that you
+
+
+1282
+0:50:52,651 --> 0:50:54,57
+can make better decisions.
+
+
+1283
+0:50:54,57 --> 0:50:58,49
+AUDIENCE: So similar to that
+question, trust over time,
+
+
+1284
+0:50:58,49 --> 0:51:3,1
+have you done any research
+into how analysis of trust
+
+
+1285
+0:51:3,1 --> 0:51:4,73
+has to change, how
+much it needs to be
+
+
+1286
+0:51:4,73 --> 0:51:7,44
+dependent on data changing?
+
+
+1287
+0:51:7,44 --> 0:51:11,54
+Like the first study was on
+the initial get to know you,
+
+
+1288
+0:51:11,54 --> 0:51:13,28
+how much I trust
+you as a person.
+
+
+1289
+0:51:13,28 --> 0:51:18,43
+And then the question is
+later on, something happens.
+
+
+1290
+0:51:18,43 --> 0:51:21,92
+How much should future events
+be added into that evaluation?
+
+
+1291
+0:51:21,92 --> 0:51:24,53
+DAVID DESTENO: You mean
+at what point will I
+
+
+1292
+0:51:24,53 --> 0:51:27,19
+change my judgment of
+whether I can trust you?
+
+
+1293
+0:51:27,19 --> 0:51:28,8
+It's dependent on
+a lot of things.
+
+
+1294
+0:51:28,8 --> 0:51:32,97
+It's often dependent on the
+magnitude of what you have held
+
+
+1295
+0:51:32,97 --> 0:51:35,1
+up your end for
+what you haven't.
+
+
+1296
+0:51:35,1 --> 0:51:37,79
+But I guess my
+argument is that you
+
+
+1297
+0:51:37,79 --> 0:51:41,77
+need to look at each situation
+if it's important and new.
+
+
+1298
+0:51:41,77 --> 0:51:44,2
+Because even somebody who
+has been always trustworthy,
+
+
+1299
+0:51:44,2 --> 0:51:45,709
+if the costs and
+benefits change--
+
+
+1300
+0:51:45,709 --> 0:51:47,75
+the reason they're always
+trustworthy is the cost
+
+
+1301
+0:51:47,75 --> 0:51:49,2
+and benefits are rather stable.
+
+
+1302
+0:51:49,2 --> 0:51:51,241
+Take that person and change
+the cost and benefits
+
+
+1303
+0:51:51,241 --> 0:51:55,3
+either by dangling a reward
+that is immense in front of them
+
+
+1304
+0:51:55,3 --> 0:51:57,19
+or giving them anonymity
+so they won't get caught,
+
+
+1305
+0:51:57,19 --> 0:51:58,69
+like our people,
+and they'll change.
+
+
+1306
+0:51:58,69 --> 0:52:2,84
+So I think there's not
+a clear time frame.
+
+
+1307
+0:52:2,84 --> 0:52:4,81
+I think we all adjust
+at different rates
+
+
+1308
+0:52:4,81 --> 0:52:6,15
+depending upon the magnitude.
+
+
+1309
+0:52:6,15 --> 0:52:9,6
+But my message is no matter
+what you think, consider
+
+
+1310
+0:52:9,6 --> 0:52:10,26
+the situation.
+
+
+1311
+0:52:10,26 --> 0:52:11,759
+If it's somebody
+you always trusted,
+
+
+1312
+0:52:11,759 --> 0:52:13,94
+consider has their
+power changed?
+
+
+1313
+0:52:13,94 --> 0:52:15,19
+Has anything else changed?
+
+
+1314
+0:52:15,19 --> 0:52:17,28
+Because they may not want
+to be untrustworthy just
+
+
+1315
+0:52:17,28 --> 0:52:18,779
+like our subjects
+did, but they will
+
+
+1316
+0:52:18,779 --> 0:52:20,23
+be and construct
+a story for why.
+
+
+1317
+0:52:20,23 --> 0:52:22,37
+AUDIENCE: Hi and
+thank you for coming.
+
+
+1318
+0:52:22,37 --> 0:52:24,55
+I have a question actually
+kind of related to that.
+
+
+1319
+0:52:24,55 --> 0:52:28,32
+So have you done any study
+in how people's relationship
+
+
+1320
+0:52:28,32 --> 0:52:32,51
+long term potentially changes
+how sensitive or not sensitive
+
+
+1321
+0:52:32,51 --> 0:52:33,7
+they are to social cues?
+
+
+1322
+0:52:33,7 --> 0:52:35,914
+I can imagine
+someone who perhaps
+
+
+1323
+0:52:35,914 --> 0:52:37,83
+does all of the social
+cues that you mentioned
+
+
+1324
+0:52:37,83 --> 0:52:40,2
+in terms of lying, but perhaps
+like a brother and sister,
+
+
+1325
+0:52:40,2 --> 0:52:40,48
+for example.
+
+
+1326
+0:52:40,48 --> 0:52:41,93
+They've gotten numb
+to it over time,
+
+
+1327
+0:52:41,93 --> 0:52:43,721
+and maybe they can't
+pick up on it anymore.
+
+
+1328
+0:52:43,721 --> 0:52:47,42
+Or do you have a sort of sense
+of how long-term relationships
+
+
+1329
+0:52:47,42 --> 0:52:49,4
+can change how people
+pick up on that?
+
+
+1330
+0:52:49,4 --> 0:52:50,42
+DAVID DESTENO: Two
+things on that,
+
+
+1331
+0:52:50,42 --> 0:52:51,96
+we haven't done
+that work, but what
+
+
+1332
+0:52:51,96 --> 0:52:54,28
+we know from the nonverbal
+literature in general
+
+
+1333
+0:52:54,28 --> 0:52:58,5
+is that people have a what
+are often termed accents.
+
+
+1334
+0:52:58,5 --> 0:53:1,56
+So there's a kind of
+panhuman way of doing it.
+
+
+1335
+0:53:1,56 --> 0:53:3,99
+But then different cultures
+or even different families
+
+
+1336
+0:53:3,99 --> 0:53:6,92
+or individuals will have
+modifications of that.
+
+
+1337
+0:53:6,92 --> 0:53:8,59
+And so the longer
+you are with someone,
+
+
+1338
+0:53:8,59 --> 0:53:10,37
+you can learn that
+for this person,
+
+
+1339
+0:53:10,37 --> 0:53:13,5
+this is that person's
+tell in some ways.
+
+
+1340
+0:53:13,5 --> 0:53:15,44
+And it will be some
+combination of these.
+
+
+1341
+0:53:15,44 --> 0:53:17,856
+But other things added to that
+will increase your accuracy
+
+
+1342
+0:53:17,856 --> 0:53:18,74
+for that person.
+
+
+1343
+0:53:18,74 --> 0:53:21,73
+But another thing in terms
+of long term, what does trust
+
+
+1344
+0:53:21,73 --> 0:53:22,2
+do, it's beneficial.
+
+
+1345
+0:53:22,2 --> 0:53:24,111
+So there's great work
+done by Sandra Murray.
+
+
+1346
+0:53:24,111 --> 0:53:26,36
+She's psychologist who studies
+romantic relationships.
+
+
+1347
+0:53:26,36 --> 0:53:28,61
+And one thing that the trust
+does in our relationships
+
+
+1348
+0:53:28,61 --> 0:53:32,174
+is it smooths out
+the bumps, as I said.
+
+
+1349
+0:53:32,174 --> 0:53:34,59
+So we've probably all had times
+when our significant other
+
+
+1350
+0:53:34,59 --> 0:53:37,725
+does something and
+it makes us go hmm,
+
+
+1351
+0:53:37,725 --> 0:53:40,1
+whether it's you think the
+person's flirting with someone
+
+
+1352
+0:53:40,1 --> 0:53:41,683
+or they're working
+late or what is it.
+
+
+1353
+0:53:41,683 --> 0:53:44,43
+Well, if you inherently
+trust this person,
+
+
+1354
+0:53:44,43 --> 0:53:49,851
+at a very nonconscious level,
+that trust erases that hmm.
+
+
+1355
+0:53:49,851 --> 0:53:52,1
+It just gives you an intuition
+that everything's fine.
+
+
+1356
+0:53:52,1 --> 0:53:54,3
+And if you trust that
+intuition, that's good.
+
+
+1357
+0:53:54,3 --> 0:53:56,15
+Because lots of times
+we'll do something
+
+
+1358
+0:53:56,15 --> 0:53:58,17
+that we're not trying
+to be untrustworthy.
+
+
+1359
+0:53:58,17 --> 0:53:59,6
+It's just an inadvertent thing.
+
+
+1360
+0:53:59,6 --> 0:54:2,141
+But if a person interprets that
+as, oh, you're untrustworthy,
+
+
+1361
+0:54:2,141 --> 0:54:4,54
+it can start you into
+kind of a death spiral.
+
+
+1362
+0:54:4,54 --> 0:54:6,631
+And so the good thing
+about trusting someone
+
+
+1363
+0:54:6,631 --> 0:54:8,13
+over the long time
+in a relationship
+
+
+1364
+0:54:8,13 --> 0:54:9,754
+is that it helps
+smooth out those bumps
+
+
+1365
+0:54:9,754 --> 0:54:11,58
+so there aren't mistakes made.
+
+
+1366
+0:54:11,58 --> 0:54:13,12
+So that one person doesn't
+interpret the other person
+
+
+1367
+0:54:13,12 --> 0:54:14,965
+as flirting or doing
+something with somebody else
+
+
+1368
+0:54:14,965 --> 0:54:16,13
+that they shouldn't have.
+
+
+1369
+0:54:16,13 --> 0:54:17,17
+Now, if they keep doing
+it, well, then you're
+
+
+1370
+0:54:17,17 --> 0:54:18,48
+going to know it's real.
+
+
+1371
+0:54:18,48 --> 0:54:21,916
+But that's a benefit
+of trust long term.
+
+
+1372
+0:54:21,916 --> 0:54:23,4
+MING: Thank you, my friend.
+
+
+1373
+0:54:23,4 --> 0:54:25,28
+So the book is "The
+Truth About Trust"
+
+
+1374
+0:54:25,28 --> 0:54:26,78
+available where
+books are sold, also
+
+
+1375
+0:54:26,78 --> 0:54:28,238
+available at the
+back of this room.
+
+
+1376
+0:54:28,238 --> 0:54:29,93
+And David will be
+around to sign books.
+
+
+1377
+0:54:29,93 --> 0:54:31,62
+And my friends, David DeSteno.
+
+
+1378
+0:54:31,62 --> 0:54:33,65
+DAVID DESTENO: Thank you all.
+
+
+1379
+0:54:33,65 --> 0:56:33,65
+
+
+

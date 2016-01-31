@@ -1,0 +1,2385 @@
+1
+0:0:1,33 --> 0:0:2,8
+The President:
+Hello, Johnson Controls!
+
+
+2
+0:0:2,8 --> 0:0:5,3
+Audience:
+Hello!
+
+
+3
+0:0:5,3 --> 0:0:8,233
+The President:
+It is good to be back
+in Holland, Michigan.
+
+
+4
+0:0:8,233 --> 0:0:10,967
+(applause)
+
+
+5
+0:0:10,967 --> 0:0:12,4
+A couple people I want to thank.
+
+
+6
+0:0:12,4 --> 0:0:16,367
+In particular, your CEO
+Steve Roell is here.
+
+
+7
+0:0:16,367 --> 0:0:17,1
+Steve.
+
+
+8
+0:0:17,1 --> 0:0:20,467
+(applause)
+
+
+9
+0:0:20,467 --> 0:0:23,166
+And sitting next to him, one of
+my favorite people and one of
+
+
+10
+0:0:23,166 --> 0:0:24,834
+the finest senators
+in the country,
+
+
+11
+0:0:24,834 --> 0:0:26,0
+Carl Levin is in the house.
+
+
+12
+0:0:26,0 --> 0:0:31,767
+(applause)
+
+
+13
+0:0:31,767 --> 0:0:34,266
+So I just had a chance to
+see what you guys are doing
+
+
+14
+0:0:34,266 --> 0:0:35,8
+in this plant.
+
+
+15
+0:0:35,8 --> 0:0:38,33
+It is very impressive.
+
+
+16
+0:0:38,33 --> 0:0:39,567
+Elizabeth was
+giving me the tour,
+
+
+17
+0:0:39,567 --> 0:0:41,533
+and she was very
+patient with me,
+
+
+18
+0:0:41,533 --> 0:0:44,0
+and I think I understood
+about half of what she said.
+
+
+19
+0:0:44,0 --> 0:0:47,567
+(laughter)
+
+
+20
+0:0:47,567 --> 0:0:54,367
+At a time when Americans are
+rightly focused on our economy,
+
+
+21
+0:0:54,367 --> 0:0:58,934
+when Americans are asking
+about what's our path forward,
+
+
+22
+0:0:58,934 --> 0:1:2,5
+all of you here at Johnson
+Controls are providing a
+
+
+23
+0:1:2,5 --> 0:1:4,667
+powerful answer.
+
+
+24
+0:1:4,667 --> 0:1:10,0
+This is one of the most advanced
+factories in the world.
+
+
+25
+0:1:10,0 --> 0:1:15,6
+You're helping America lead
+in a growing new industry.
+
+
+26
+0:1:15,6 --> 0:1:19,33
+You're showing us how we can
+come back from the worst
+
+
+27
+0:1:19,33 --> 0:1:23,5
+recession that we've had in
+generations and start making
+
+
+28
+0:1:23,5 --> 0:1:29,6
+things here in America that
+are sold all around the world.
+
+
+29
+0:1:29,6 --> 0:1:32,233
+And that's why I'm here today.
+
+
+30
+0:1:32,233 --> 0:1:35,9
+I've said it before; I will say
+it again: You cannot bet against
+
+
+31
+0:1:35,9 --> 0:1:37,433
+the American worker.
+
+
+32
+0:1:37,433 --> 0:1:46,166
+(applause)
+
+
+33
+0:1:46,166 --> 0:1:48,633
+Don't bet against
+American ingenuity.
+
+
+34
+0:1:48,633 --> 0:1:54,166
+(applause)
+
+
+35
+0:1:54,166 --> 0:1:56,834
+The reason a plant like this
+exists is because we are a
+
+
+36
+0:1:56,834 --> 0:2:0,7
+country of unmatched
+freedom, where groundbreaking
+
+
+37
+0:2:0,7 --> 0:2:3,33
+ideas flourish.
+
+
+38
+0:2:3,33 --> 0:2:5,367
+We've got the finest
+universities,
+
+
+39
+0:2:5,367 --> 0:2:8,667
+the finest technical schools,
+the most creative scientists,
+
+
+40
+0:2:8,667 --> 0:2:12,767
+the best entrepreneurs -- all of
+which is why we are home to the
+
+
+41
+0:2:12,767 --> 0:2:15,667
+world's most dynamic and
+successful businesses,
+
+
+42
+0:2:15,667 --> 0:2:17,66
+large and small.
+
+
+43
+0:2:17,66 --> 0:2:25,66
+(applause)
+
+
+44
+0:2:25,66 --> 0:2:29,33
+And that's why even in
+these difficult times,
+
+
+45
+0:2:29,33 --> 0:2:32,33
+there is not a single country
+on Earth that wouldn't trade
+
+
+46
+0:2:32,33 --> 0:2:33,6
+places with us.
+
+
+47
+0:2:33,6 --> 0:2:35,266
+Not one.
+
+
+48
+0:2:35,266 --> 0:2:38,7
+We've got to remember that.
+
+
+49
+0:2:38,7 --> 0:2:42,7
+But we also know that we face
+some tough challenges right now.
+
+
+50
+0:2:42,7 --> 0:2:45,2
+You know what they are.
+
+
+51
+0:2:45,2 --> 0:2:48,934
+You live them every day
+-- in your communities,
+
+
+52
+0:2:48,934 --> 0:2:50,3
+in your families.
+
+
+53
+0:2:50,3 --> 0:2:53,233
+You know too many people
+who are out of work,
+
+
+54
+0:2:53,233 --> 0:2:59,1
+or struggling to get by with
+fewer shifts or fewer customers.
+
+
+55
+0:2:59,1 --> 0:3:1,7
+Paychecks aren't big enough.
+
+
+56
+0:3:1,7 --> 0:3:4,5
+Costs are too high.
+
+
+57
+0:3:4,5 --> 0:3:7,467
+And even though the economy has
+started growing again since the
+
+
+58
+0:3:7,467 --> 0:3:11,467
+recession started in
+2007, the fact is,
+
+
+59
+0:3:11,467 --> 0:3:15,667
+it's not growing fast enough.
+
+
+60
+0:3:15,667 --> 0:3:20,233
+Now, some of what we're facing
+today has to do with events
+
+
+61
+0:3:20,233 --> 0:3:23,66
+beyond our control.
+
+
+62
+0:3:23,66 --> 0:3:29,66
+As the economy was improving and
+improving through 2009, 2010,
+
+
+63
+0:3:29,66 --> 0:3:32,734
+the beginning of this year,
+suddenly it was hit with the
+
+
+64
+0:3:32,734 --> 0:3:35,767
+unrest in the Middle East
+that helped send gas prices
+
+
+65
+0:3:35,767 --> 0:3:38,633
+through the roof.
+
+
+66
+0:3:38,633 --> 0:3:43,6
+Europe is dealing with all sorts
+of financial turmoil that is
+
+
+67
+0:3:43,6 --> 0:3:46,7
+lapping up on our shores.
+
+
+68
+0:3:46,7 --> 0:3:50,6
+Japan's tragic earthquake hurt
+economies around the globe,
+
+
+69
+0:3:50,6 --> 0:3:53,533
+including ours, cut off some
+supply chains that were very
+
+
+70
+0:3:53,533 --> 0:3:56,33
+important to us.
+
+
+71
+0:3:56,33 --> 0:4:1,333
+And all of this has further
+challenged our economy.
+
+
+72
+0:4:1,333 --> 0:4:5,367
+And as we've seen, it's playing
+out in the stock market,
+
+
+73
+0:4:5,367 --> 0:4:11,333
+wild swings, up and down,
+and it makes folks nervous,
+
+
+74
+0:4:11,333 --> 0:4:17,4
+and it affects the savings of
+families all across America.
+
+
+75
+0:4:17,4 --> 0:4:23,6
+Now, challenges like these
+-- earthquakes, revolutions --
+
+
+76
+0:4:23,6 --> 0:4:27,633
+those are things
+we can't control.
+
+
+77
+0:4:27,633 --> 0:4:32,834
+But what we can control is our
+response to these challenges.
+
+
+78
+0:4:32,834 --> 0:4:38,734
+What we can control is
+what happens in Washington.
+
+
+79
+0:4:38,734 --> 0:4:40,533
+Unfortunately, what we've seen
+in Washington the last few
+
+
+80
+0:4:40,533 --> 0:4:45,567
+months has been the worst
+kind of partisanship,
+
+
+81
+0:4:45,567 --> 0:4:49,8
+the worst kind of gridlock --
+and that gridlock has undermined
+
+
+82
+0:4:49,8 --> 0:4:53,533
+public confidence and impeded
+our efforts to take the steps we
+
+
+83
+0:4:53,533 --> 0:4:56,767
+need for our economy.
+
+
+84
+0:4:56,767 --> 0:5:2,1
+It's made things worse
+instead of better.
+
+
+85
+0:5:2,1 --> 0:5:3,8
+So what I want to say to
+you, Johnson Controls,
+
+
+86
+0:5:3,8 --> 0:5:8,7
+is: There is nothing
+wrong with our country.
+
+
+87
+0:5:8,7 --> 0:5:10,767
+There is something
+wrong with our politics.
+
+
+88
+0:5:10,767 --> 0:5:19,6
+(applause)
+
+
+89
+0:5:19,6 --> 0:5:25,467
+There's something wrong with our
+politics that we need to fix.
+
+
+90
+0:5:25,467 --> 0:5:29,133
+We know there are things we can
+do right now that will help
+
+
+91
+0:5:29,133 --> 0:5:33,133
+accelerate growth
+and job creation --
+
+
+92
+0:5:33,133 --> 0:5:37,767
+that will support the work going
+on here at Johnson Controls,
+
+
+93
+0:5:37,767 --> 0:5:40,1
+here in Michigan, and
+all across America.
+
+
+94
+0:5:40,1 --> 0:5:44,867
+We can do some things right now
+that will make a difference.
+
+
+95
+0:5:44,867 --> 0:5:50,2
+We know there are things we have
+to do to erase a legacy of debt
+
+
+96
+0:5:50,2 --> 0:5:54,266
+that hangs over the economy.
+
+
+97
+0:5:54,266 --> 0:5:58,66
+But time and again, we've seen
+partisan brinksmanship get in
+
+
+98
+0:5:58,66 --> 0:6:1,9
+the way -- as if winning the
+next election is more important
+
+
+99
+0:6:1,9 --> 0:6:4,567
+than fulfilling our
+responsibilities to you and to
+
+
+100
+0:6:4,567 --> 0:6:9,266
+our country.
+
+
+101
+0:6:9,266 --> 0:6:12,934
+This downgrade you've been
+reading about could have been
+
+
+102
+0:6:12,934 --> 0:6:17,667
+entirely avoided if there had
+been a willingness to compromise
+
+
+103
+0:6:17,667 --> 0:6:19,233
+in Congress.
+
+
+104
+0:6:19,233 --> 0:6:27,7
+(applause)
+
+
+105
+0:6:27,7 --> 0:6:31,166
+See, it didn't happen because we
+don't have the capacity to pay
+
+
+106
+0:6:31,166 --> 0:6:35,4
+our bills -- it happened because
+Washington doesn't have the
+
+
+107
+0:6:35,4 --> 0:6:38,934
+capacity to come together
+and get things done.
+
+
+108
+0:6:38,934 --> 0:6:40,567
+It was a self-inflicted wound.
+
+
+109
+0:6:40,567 --> 0:6:45,467
+(applause)
+
+
+110
+0:6:45,467 --> 0:6:48,834
+That's why people
+are frustrated.
+
+
+111
+0:6:48,834 --> 0:6:53,667
+Maybe you hear it in my voice
+-- that's why I'm frustrated.
+
+
+112
+0:6:53,667 --> 0:6:56,967
+Because you deserve better.
+
+
+113
+0:6:56,967 --> 0:6:58,333
+You guys deserve better.
+
+
+114
+0:6:58,333 --> 0:7:0,3
+(applause)
+
+
+115
+0:7:0,3 --> 0:7:5,333
+All of you, from the CEO
+down, are working hard,
+
+
+116
+0:7:5,333 --> 0:7:9,433
+taking care of your kids or
+your parents -- maybe both.
+
+
+117
+0:7:9,433 --> 0:7:12,867
+You're living within your means.
+
+
+118
+0:7:12,867 --> 0:7:16,33
+You may be trying to save for
+your child's college education
+
+
+119
+0:7:16,33 --> 0:7:17,734
+or saving for retirement.
+
+
+120
+0:7:17,734 --> 0:7:20,767
+You're donating to the
+church or the food pantry.
+
+
+121
+0:7:20,767 --> 0:7:22,567
+You're trying to
+help the community.
+
+
+122
+0:7:22,567 --> 0:7:24,6
+You're doing your part.
+
+
+123
+0:7:24,6 --> 0:7:28,934
+You're living up to
+your responsibilities.
+
+
+124
+0:7:28,934 --> 0:7:31,5
+It's time for Washington
+to do the same --
+
+
+125
+0:7:31,5 --> 0:7:33,834
+to match your resolve,
+and to match your decency,
+
+
+126
+0:7:33,834 --> 0:7:36,667
+and to show the same sense
+of honor and discipline.
+
+
+127
+0:7:36,667 --> 0:7:38,633
+That is not too much to ask.
+
+
+128
+0:7:38,633 --> 0:7:40,767
+That's what the American
+people are looking for.
+
+
+129
+0:7:40,767 --> 0:7:51,66
+(applause)
+
+
+130
+0:7:51,66 --> 0:7:55,767
+And if that can happen,
+we know what's possible.
+
+
+131
+0:7:55,767 --> 0:7:58,3
+We know what we can achieve.
+
+
+132
+0:7:58,3 --> 0:8:1,2
+Look at this factory.
+
+
+133
+0:8:1,2 --> 0:8:4,533
+Look what's happening
+in Holland, Michigan.
+
+
+134
+0:8:4,533 --> 0:8:7,834
+Every day, hundreds of people
+are going to work on the
+
+
+135
+0:8:7,834 --> 0:8:10,266
+technologies that are helping
+us to fight our way out of
+
+
+136
+0:8:10,266 --> 0:8:12,533
+this recession.
+
+
+137
+0:8:12,533 --> 0:8:15,834
+Every day, you're building
+high-tech batteries so that we
+
+
+138
+0:8:15,834 --> 0:8:19,0
+lead the world in
+manufacturing the best cars and
+
+
+139
+0:8:19,0 --> 0:8:20,567
+the best trucks.
+
+
+140
+0:8:20,567 --> 0:8:24,8
+And that just doesn't
+mean jobs in Michigan.
+
+
+141
+0:8:24,8 --> 0:8:28,6
+You're buying equipment and
+parts from suppliers in Florida
+
+
+142
+0:8:28,6 --> 0:8:31,934
+and New Mexico and Ohio
+and Wisconsin and all
+
+
+143
+0:8:31,934 --> 0:8:37,166
+across America.
+
+
+144
+0:8:37,166 --> 0:8:41,367
+So let's think about it --
+what made this possible?
+
+
+145
+0:8:41,367 --> 0:8:46,967
+The most important part is you:
+your drive, your work ethic,
+
+
+146
+0:8:46,967 --> 0:8:50,633
+your ingenuity, your management.
+
+
+147
+0:8:50,633 --> 0:8:54,467
+The grit and optimism that says,
+"We've got an idea for a new
+
+
+148
+0:8:54,467 --> 0:8:58,233
+battery technology or a
+new manufacturing process,
+
+
+149
+0:8:58,233 --> 0:8:59,8
+and we're going to take that
+leap and we're going to make
+
+
+150
+0:8:59,8 --> 0:9:0,867
+an investment.
+
+
+151
+0:9:0,867 --> 0:9:1,9
+And we're going to hire some
+folks and we're going to
+
+
+152
+0:9:1,9 --> 0:9:5,0
+see it through."
+
+
+153
+0:9:5,0 --> 0:9:8,7
+That's what made it possible.
+
+
+154
+0:9:8,7 --> 0:9:13,934
+But what also made this possible
+are the actions that we took
+
+
+155
+0:9:13,934 --> 0:9:23,4
+together, as a nation,
+through our government --
+
+
+156
+0:9:23,4 --> 0:9:27,66
+the fact that we were willing to
+invest in the research and the
+
+
+157
+0:9:27,66 --> 0:9:32,467
+technology that holds so much
+promise for jobs and growth;
+
+
+158
+0:9:32,467 --> 0:9:36,633
+the fact that we helped create
+together the conditions where
+
+
+159
+0:9:36,633 --> 0:9:42,0
+businesses like
+this can prosper.
+
+
+160
+0:9:42,0 --> 0:9:46,633
+That's why we're
+investing in clean energy.
+
+
+161
+0:9:46,633 --> 0:9:48,834
+That's why I brought together
+the world's largest auto
+
+
+162
+0:9:48,834 --> 0:9:53,166
+companies who agreed,
+for the first time,
+
+
+163
+0:9:53,166 --> 0:9:56,567
+to nearly double the distance
+their cars can go on a
+
+
+164
+0:9:56,567 --> 0:9:57,967
+gallon of gas.
+
+
+165
+0:9:57,967 --> 0:10:6,3
+(applause)
+
+
+166
+0:10:6,3 --> 0:10:8,667
+That's going to save
+consumers thousands of dollars
+
+
+167
+0:10:8,667 --> 0:10:10,667
+at the pump.
+
+
+168
+0:10:10,667 --> 0:10:13,867
+It's going to cut our
+dependence on foreign oil.
+
+
+169
+0:10:13,867 --> 0:10:15,633
+It's going to promote
+innovation and jobs,
+
+
+170
+0:10:15,633 --> 0:10:17,7
+and it's going to mean more
+groundbreakings and more jobs
+
+
+171
+0:10:17,7 --> 0:10:21,467
+posting for companies
+like Johnson Controls.
+
+
+172
+0:10:21,467 --> 0:10:24,66
+And that's how America will
+lead the world in automotive
+
+
+173
+0:10:24,66 --> 0:10:29,7
+innovation and production
+and exports in this country.
+
+
+174
+0:10:29,7 --> 0:10:30,266
+Think about it.
+
+
+175
+0:10:30,266 --> 0:10:32,8
+That's what we got
+done -- and by the way,
+
+
+176
+0:10:32,8 --> 0:10:35,2
+we didn't go through
+Congress to do it.
+
+
+177
+0:10:35,2 --> 0:10:39,233
+(laughter and applause)
+
+
+178
+0:10:39,233 --> 0:10:44,133
+But we did use the
+tools of government --
+
+
+179
+0:10:44,133 --> 0:10:49,66
+us working together --
+to help make it happen.
+
+
+180
+0:10:49,66 --> 0:10:52,834
+Now, there are more steps that
+we can take to help this economy
+
+
+181
+0:10:52,834 --> 0:10:55,333
+growing faster.
+
+
+182
+0:10:55,333 --> 0:10:58,66
+There are things we can do right
+now that will put more money in
+
+
+183
+0:10:58,66 --> 0:11:2,66
+your pockets; will help
+businesses sell more products
+
+
+184
+0:11:2,66 --> 0:11:5,767
+around the world; will put
+people to work in Michigan and
+
+
+185
+0:11:5,767 --> 0:11:9,3
+across the country.
+
+
+186
+0:11:9,3 --> 0:11:13,633
+And to get these things
+done, we do need Congress.
+
+
+187
+0:11:13,633 --> 0:11:17,0
+They're common-sense ideas that
+have been supported in the past
+
+
+188
+0:11:17,0 --> 0:11:21,734
+by Democrats and Republicans,
+things that are supported by
+
+
+189
+0:11:21,734 --> 0:11:24,2
+Carl Levin.
+
+
+190
+0:11:24,2 --> 0:11:29,3
+The only thing keeping
+us back is our politics.
+
+
+191
+0:11:29,3 --> 0:11:32,266
+The only thing preventing these
+bills from being passed is the
+
+
+192
+0:11:32,266 --> 0:11:37,667
+refusal of some folks in
+Congress to put the country
+
+
+193
+0:11:37,667 --> 0:11:41,533
+ahead of party.
+
+
+194
+0:11:41,533 --> 0:11:43,667
+There are some in Congress right
+now who would rather see their
+
+
+195
+0:11:43,667 --> 0:11:49,333
+opponents lose than
+see America win.
+
+
+196
+0:11:49,333 --> 0:11:52,834
+And that has to stop.
+
+
+197
+0:11:52,834 --> 0:11:56,133
+It's got to stop.
+
+
+198
+0:11:56,133 --> 0:11:59,734
+We're supposed to all
+be on the same team,
+
+
+199
+0:11:59,734 --> 0:12:3,4
+especially when we're
+going through tough times.
+
+
+200
+0:12:3,4 --> 0:12:9,734
+We can't afford to play
+games -- not right now,
+
+
+201
+0:12:9,734 --> 0:12:15,834
+not when the stakes are
+so high for our economy.
+
+
+202
+0:12:15,834 --> 0:12:19,567
+And if you agree with me --
+it doesn't matter if you're a
+
+
+203
+0:12:19,567 --> 0:12:23,0
+Democrat or a Republican
+or an independent --
+
+
+204
+0:12:23,0 --> 0:12:27,0
+you've got to let Congress know.
+
+
+205
+0:12:27,0 --> 0:12:30,467
+You've got to tell them you've
+had enough of the theatrics.
+
+
+206
+0:12:30,467 --> 0:12:32,3
+You've had enough
+of the politics.
+
+
+207
+0:12:32,3 --> 0:12:33,934
+Stop sending out press releases.
+
+
+208
+0:12:33,934 --> 0:12:36,834
+Start passing some bills
+that we all know will help our
+
+
+209
+0:12:36,834 --> 0:12:38,233
+economy right now.
+
+
+210
+0:12:38,233 --> 0:12:40,66
+That's what they need to do --
+they've got to hear from you.
+
+
+211
+0:12:40,66 --> 0:12:49,133
+(applause)
+
+
+212
+0:12:49,133 --> 0:12:52,3
+Let me be specific -- I'll
+give you some examples.
+
+
+213
+0:12:52,3 --> 0:12:56,233
+You've got to tell them to
+extend the payroll tax cut,
+
+
+214
+0:12:56,233 --> 0:12:58,767
+so middle-class families
+will continue to have more
+
+
+215
+0:12:58,767 --> 0:13:0,6
+money to spend.
+
+
+216
+0:13:0,6 --> 0:13:2,3
+We passed this in December.
+
+
+217
+0:13:2,3 --> 0:13:7,533
+The average family received
+$1,000 from that tax cut,
+
+
+218
+0:13:7,533 --> 0:13:9,433
+and you need to get it
+again, because the economy
+
+
+219
+0:13:9,433 --> 0:13:11,7
+is still weak.
+
+
+220
+0:13:11,7 --> 0:13:15,233
+It's going to help
+you make ends meet,
+
+
+221
+0:13:15,233 --> 0:13:18,633
+but it's also going to mean
+more customers for businesses.
+
+
+222
+0:13:18,633 --> 0:13:21,4
+It will increase demand.
+
+
+223
+0:13:21,4 --> 0:13:24,4
+It's right for the economy, and
+I would sign that bill today if
+
+
+224
+0:13:24,4 --> 0:13:25,934
+it came to my desk.
+
+
+225
+0:13:25,934 --> 0:13:33,533
+(applause)
+
+
+226
+0:13:33,533 --> 0:13:36,6
+Tell Congress to get past their
+differences and send me a road
+
+
+227
+0:13:36,6 --> 0:13:37,734
+construction bill --
+
+
+228
+0:13:37,734 --> 0:13:38,567
+(applause)
+
+
+229
+0:13:38,567 --> 0:13:40,767
+-- so that companies can put
+tens of thousands of people to
+
+
+230
+0:13:40,767 --> 0:13:43,9
+work right now building our
+roads and bridges and airports
+
+
+231
+0:13:43,9 --> 0:13:44,867
+and seaports.
+
+
+232
+0:13:44,867 --> 0:13:48,1
+(applause)
+
+
+233
+0:13:48,1 --> 0:13:49,233
+I mean, think about it.
+
+
+234
+0:13:49,233 --> 0:13:52,567
+America used to have the
+best stuff -- best roads,
+
+
+235
+0:13:52,567 --> 0:13:56,7
+best airports, best seaports.
+
+
+236
+0:13:56,7 --> 0:14:0,266
+We're slipping behind because
+we're not investing in it,
+
+
+237
+0:14:0,266 --> 0:14:3,567
+because of politics
+and gridlock.
+
+
+238
+0:14:3,567 --> 0:14:4,967
+Do you want to put
+people to work right now
+
+
+239
+0:14:4,967 --> 0:14:6,734
+rebuilding America?
+
+
+240
+0:14:6,734 --> 0:14:8,633
+You've got to send that
+message to Congress.
+
+
+241
+0:14:8,633 --> 0:14:14,467
+(applause)
+
+
+242
+0:14:14,467 --> 0:14:18,3
+Send a message to Congress to
+come to an agreement on trade
+
+
+243
+0:14:18,3 --> 0:14:22,1
+deals that will level the
+playing field and open markets
+
+
+244
+0:14:22,1 --> 0:14:26,66
+to our businesses -- so we can
+sell more goods to countries
+
+
+245
+0:14:26,66 --> 0:14:27,266
+around the world.
+
+
+246
+0:14:27,266 --> 0:14:31,967
+(applause)
+
+
+247
+0:14:31,967 --> 0:14:37,1
+We've got a lot of Americans
+driving Kias and Hyundais.
+
+
+248
+0:14:37,1 --> 0:14:40,433
+I want folks in Korea driving
+Fords and Chevys and Chryslers.
+
+
+249
+0:14:40,433 --> 0:14:42,4
+(applause)
+
+
+250
+0:14:42,4 --> 0:14:43,533
+I'd like to see that.
+
+
+251
+0:14:43,533 --> 0:14:50,0
+(applause)
+
+
+252
+0:14:50,0 --> 0:14:52,567
+I want to see billions of
+dollars' more products sold
+
+
+253
+0:14:52,567 --> 0:14:56,6
+around the world stamped with
+three words: "Made in America."
+
+
+254
+0:14:56,6 --> 0:14:57,4
+(applause)
+
+
+255
+0:14:57,4 --> 0:14:58,266
+"Made in America."
+
+
+256
+0:14:58,266 --> 0:15:1,734
+(applause)
+
+
+257
+0:15:1,734 --> 0:15:5,9
+Those trade bills are teed
+up; they're ready to go.
+
+
+258
+0:15:5,9 --> 0:15:9,433
+Let's get it done.
+
+
+259
+0:15:9,433 --> 0:15:13,6
+Tell Congress we need to
+reform the patent system,
+
+
+260
+0:15:13,6 --> 0:15:17,433
+so entrepreneurs like the ones
+who developed some of the
+
+
+261
+0:15:17,433 --> 0:15:20,133
+technology here can turn their
+ideas into businesses more
+
+
+262
+0:15:20,133 --> 0:15:24,734
+quickly; so companies like this
+one can better compete against
+
+
+263
+0:15:24,734 --> 0:15:26,667
+companies around the world.
+
+
+264
+0:15:26,667 --> 0:15:29,367
+We shouldn't make it so
+difficult for somebody with a
+
+
+265
+0:15:29,367 --> 0:15:34,8
+good idea to translate
+that into a business.
+
+
+266
+0:15:34,8 --> 0:15:39,2
+Tell Congress we've got hundreds
+of thousands of bright,
+
+
+267
+0:15:39,2 --> 0:15:43,0
+talented, skilled Americans who
+are returning home from Iraq
+
+
+268
+0:15:43,0 --> 0:15:44,333
+and Afghanistan.
+
+
+269
+0:15:44,333 --> 0:15:47,133
+And I've proposed connecting
+those veterans looking for work
+
+
+270
+0:15:47,133 --> 0:15:49,66
+with businesses that
+need their skills.
+
+
+271
+0:15:49,66 --> 0:15:51,834
+You've got 24-year-olds and
+25-year-olds that are leading
+
+
+272
+0:15:51,834 --> 0:15:58,66
+platoons and handling equipment
+that's worth tens or hundreds of
+
+
+273
+0:15:58,66 --> 0:16:1,433
+billions of dollars, and they
+come back here and they can't
+
+
+274
+0:16:1,433 --> 0:16:3,834
+find a job?
+
+
+275
+0:16:3,834 --> 0:16:6,734
+Let's put them to work.
+
+
+276
+0:16:6,734 --> 0:16:8,633
+These are things we
+can do right now.
+
+
+277
+0:16:8,633 --> 0:16:12,934
+(applause)
+
+
+278
+0:16:12,934 --> 0:16:16,166
+These are things I've
+already proposed,
+
+
+279
+0:16:16,166 --> 0:16:19,767
+we've worked out the glitches,
+the legislation is drafted --
+
+
+280
+0:16:19,767 --> 0:16:25,1
+let's get it done.
+
+
+281
+0:16:25,1 --> 0:16:28,533
+Now, given the weaknesses
+of the economy,
+
+
+282
+0:16:28,533 --> 0:16:30,3
+we need to do even
+more than that.
+
+
+283
+0:16:30,3 --> 0:16:32,1
+And over the coming weeks, I'm
+going to be putting out more
+
+
+284
+0:16:32,1 --> 0:16:36,333
+proposals, week by week, that
+will help businesses hire and
+
+
+285
+0:16:36,333 --> 0:16:39,4
+put people back to work.
+
+
+286
+0:16:39,4 --> 0:16:41,7
+And I'm going to keep at it
+until every single American who
+
+
+287
+0:16:41,7 --> 0:16:46,367
+wants a job can find one.
+
+
+288
+0:16:46,367 --> 0:16:52,433
+Now, we do have to
+pay for these things.
+
+
+289
+0:16:52,433 --> 0:16:54,633
+And in order to pay
+for these things,
+
+
+290
+0:16:54,633 --> 0:16:58,533
+Congress has to finish the job
+of reducing the nation's budget
+
+
+291
+0:16:58,533 --> 0:17:4,834
+deficit in a sensible,
+responsible way.
+
+
+292
+0:17:4,834 --> 0:17:8,266
+Not just with more cuts
+this year or next year --
+
+
+293
+0:17:8,266 --> 0:17:11,834
+those cuts would weaken the
+economy more than it already is,
+
+
+294
+0:17:11,834 --> 0:17:15,467
+and we've already cut a trillion
+dollars in what's called
+
+
+295
+0:17:15,467 --> 0:17:18,266
+discretionary spending.
+
+
+296
+0:17:18,266 --> 0:17:21,834
+What we need is a long-term plan
+to get our nation's finances
+
+
+297
+0:17:21,834 --> 0:17:23,8
+in order.
+
+
+298
+0:17:23,8 --> 0:17:29,133
+That's the only way we can
+invest in places like this.
+
+
+299
+0:17:29,133 --> 0:17:31,266
+That's how we can fund the
+research at the Department
+
+
+300
+0:17:31,266 --> 0:17:32,8
+of Energy.
+
+
+301
+0:17:32,8 --> 0:17:35,1
+That's how we can fund the
+community college that trained
+
+
+302
+0:17:35,1 --> 0:17:37,2
+folks to be able to work here.
+
+
+303
+0:17:37,2 --> 0:17:38,934
+That's how we can fund the
+infrastructure and the
+
+
+304
+0:17:38,934 --> 0:17:43,5
+technology that will
+help us win the future --
+
+
+305
+0:17:43,5 --> 0:17:47,0
+by doing what you
+do, what families do.
+
+
+306
+0:17:47,0 --> 0:17:50,834
+Think about it: When things are
+tight you cut out those things
+
+
+307
+0:17:50,834 --> 0:17:54,834
+you cannot afford,
+even if it's tough,
+
+
+308
+0:17:54,834 --> 0:18:0,66
+to pay for the things
+that really matter.
+
+
+309
+0:18:0,66 --> 0:18:3,867
+You don't cut out the
+college fund for your kids.
+
+
+310
+0:18:3,867 --> 0:18:8,8
+You stop maybe
+going out as often.
+
+
+311
+0:18:8,8 --> 0:18:14,867
+You don't stop taking care of
+your parent who needs care.
+
+
+312
+0:18:14,867 --> 0:18:17,6
+You cut back on some of
+the things that you don't
+
+
+313
+0:18:17,6 --> 0:18:20,133
+really need.
+
+
+314
+0:18:20,133 --> 0:18:25,467
+The same principle
+applies to government.
+
+
+315
+0:18:25,467 --> 0:18:28,433
+And by the way, in
+your own families,
+
+
+316
+0:18:28,433 --> 0:18:32,3
+I'm assuming you don't just keep
+all the stuff you like and tell
+
+
+317
+0:18:32,3 --> 0:18:35,4
+your spouse, you got to get
+rid of all the stuff she likes
+
+
+318
+0:18:35,4 --> 0:18:36,3
+or he likes.
+
+
+319
+0:18:36,3 --> 0:18:37,1
+(laughter)
+
+
+320
+0:18:37,1 --> 0:18:41,1
+That wouldn't work
+in my household.
+
+
+321
+0:18:41,1 --> 0:18:44,633
+You don't just cut out the stuff
+that's important to you and --
+
+
+322
+0:18:44,633 --> 0:18:47,6
+or keep all the stuff that's
+important to you and cut out the
+
+
+323
+0:18:47,6 --> 0:18:51,433
+stuff that's important
+for your kids.
+
+
+324
+0:18:51,433 --> 0:18:54,1
+The same is true for us
+as an American family.
+
+
+325
+0:18:54,1 --> 0:18:57,667
+We can't ask the
+people in this room --
+
+
+326
+0:18:57,667 --> 0:18:59,967
+working families,
+middle-class families --
+
+
+327
+0:18:59,967 --> 0:19:2,367
+to bear the entire burden.
+
+
+328
+0:19:2,367 --> 0:19:4,633
+We're not going to balance
+our budgets on the back of
+
+
+329
+0:19:4,633 --> 0:19:7,0
+middle-class and working
+people in this country.
+
+
+330
+0:19:7,0 --> 0:19:8,633
+Everybody has got
+to do their part.
+
+
+331
+0:19:8,633 --> 0:19:16,767
+(applause)
+
+
+332
+0:19:16,767 --> 0:19:18,66
+Everybody has got
+to do their part.
+
+
+333
+0:19:18,66 --> 0:19:22,367
+Everybody has got to chip in.
+
+
+334
+0:19:22,367 --> 0:19:23,934
+That's fair.
+
+
+335
+0:19:23,934 --> 0:19:27,233
+You learn it in kindergarten.
+
+
+336
+0:19:27,233 --> 0:19:30,33
+That's what all this fuss was
+about in Washington: Are we
+
+
+337
+0:19:30,33 --> 0:19:36,533
+going to deal with our
+deficit in a way that's fair?
+
+
+338
+0:19:36,533 --> 0:19:39,333
+And that means closing tax
+loopholes for billionaires
+
+
+339
+0:19:39,333 --> 0:19:41,533
+before we cut college
+loans for young people.
+
+
+340
+0:19:41,533 --> 0:19:47,767
+(applause)
+
+
+341
+0:19:47,767 --> 0:19:50,1
+That means ending government
+subsidies for oil and gas
+
+
+342
+0:19:50,1 --> 0:19:53,333
+companies that are doing very
+well before you cut health care
+
+
+343
+0:19:53,333 --> 0:19:54,367
+for seniors.
+
+
+344
+0:19:54,367 --> 0:19:59,734
+(applause)
+
+
+345
+0:19:59,734 --> 0:20:2,333
+It means making sure that the
+biggest corporations pay their
+
+
+346
+0:20:2,333 --> 0:20:6,633
+fair share in taxes before
+we gut the investments in
+
+
+347
+0:20:6,633 --> 0:20:11,967
+technology and clean energy that
+made this factory a reality.
+
+
+348
+0:20:11,967 --> 0:20:16,9
+Now, that's just common sense.
+
+
+349
+0:20:16,9 --> 0:20:22,567
+It should have
+bipartisan support.
+
+
+350
+0:20:22,567 --> 0:20:26,66
+These are things we
+could be doing right now.
+
+
+351
+0:20:26,66 --> 0:20:29,567
+That's how we can jumpstart
+this economy and speed up the
+
+
+352
+0:20:29,567 --> 0:20:33,633
+recovery and get
+more folks working --
+
+
+353
+0:20:33,633 --> 0:20:35,934
+while making sure that we
+get our fiscal house in order.
+
+
+354
+0:20:35,934 --> 0:20:40,834
+We can do both.
+
+
+355
+0:20:40,834 --> 0:20:43,333
+And I'll be laying out more
+proposals in the days ahead.
+
+
+356
+0:20:43,333 --> 0:20:46,367
+And I'm going to keep after
+every idea and every serious
+
+
+357
+0:20:46,367 --> 0:20:49,33
+proposal to help us
+grow this economy --
+
+
+358
+0:20:49,33 --> 0:20:52,867
+until everybody who
+wants a job can find one.
+
+
+359
+0:20:52,867 --> 0:20:55,467
+But I want everybody
+to understand here,
+
+
+360
+0:20:55,467 --> 0:20:59,5
+the problem is not that
+we don't have answers.
+
+
+361
+0:20:59,5 --> 0:21:6,367
+The problem is, is that folks
+are playing political games.
+
+
+362
+0:21:6,367 --> 0:21:7,934
+And we've got a long way to go.
+
+
+363
+0:21:7,934 --> 0:21:11,166
+We didn't get into
+this mess overnight,
+
+
+364
+0:21:11,166 --> 0:21:13,467
+and it's going to take
+time to get us out.
+
+
+365
+0:21:13,467 --> 0:21:15,533
+That's the truth.
+
+
+366
+0:21:15,533 --> 0:21:18,3
+But that's no
+excuse for inaction.
+
+
+367
+0:21:18,3 --> 0:21:20,467
+It's time to put
+aside ultimatums.
+
+
+368
+0:21:20,467 --> 0:21:26,4
+It's time to stop drawing
+lines in the sand.
+
+
+369
+0:21:26,4 --> 0:21:32,0
+You know, in the aftermath of
+this whole debt ceiling debacle,
+
+
+370
+0:21:32,0 --> 0:21:35,233
+and when the market's going
+up and down like they are,
+
+
+371
+0:21:35,233 --> 0:21:37,7
+there's been a lot of talk in
+Washington right now that I
+
+
+372
+0:21:37,7 --> 0:21:43,734
+should call Congress back early.
+
+
+373
+0:21:43,734 --> 0:21:47,33
+The last thing we need is
+Congress spending more time
+
+
+374
+0:21:47,33 --> 0:21:48,6
+arguing in D.C.
+
+
+375
+0:21:48,6 --> 0:21:53,934
+(applause)
+
+
+376
+0:21:53,934 --> 0:21:58,33
+What I figure is, they need
+to spend more time out here
+
+
+377
+0:21:58,33 --> 0:22:1,5
+listening to you and
+hearing how fed up you are.
+
+
+378
+0:22:1,5 --> 0:22:3,2
+(applause)
+
+
+379
+0:22:3,2 --> 0:22:5,367
+That's why I'm here.
+
+
+380
+0:22:5,367 --> 0:22:7,734
+That's why I'll be traveling to
+a lot of communities like this
+
+
+381
+0:22:7,734 --> 0:22:10,2
+one over the next week.
+
+
+382
+0:22:10,2 --> 0:22:11,934
+That's what Congress
+should be doing --
+
+
+383
+0:22:11,934 --> 0:22:14,8
+go back home, listen to
+people's frustrations with all
+
+
+384
+0:22:14,8 --> 0:22:16,767
+the gridlock.
+
+
+385
+0:22:16,767 --> 0:22:24,533
+Listen to how frustrated folks
+are with the constant bickering
+
+
+386
+0:22:24,533 --> 0:22:28,633
+and the unwillingness to
+compromise and the desire to
+
+
+387
+0:22:28,633 --> 0:22:35,667
+score points, even if it's at
+the expense of our country.
+
+
+388
+0:22:35,667 --> 0:22:38,166
+And if they're
+listening hard enough,
+
+
+389
+0:22:38,166 --> 0:22:42,66
+maybe they'll come back to
+Washington ready to compromise
+
+
+390
+0:22:42,66 --> 0:22:44,767
+and ready to create jobs and
+ready to reduce our deficit --
+
+
+391
+0:22:44,767 --> 0:22:51,4
+ready to do what you
+sent them there to do.
+
+
+392
+0:22:51,4 --> 0:22:57,9
+You know, America voted
+for divided government.
+
+
+393
+0:22:57,9 --> 0:23:0,4
+And that makes it tough.
+
+
+394
+0:23:0,4 --> 0:23:3,767
+You got one party controlling
+the House of Representatives,
+
+
+395
+0:23:3,767 --> 0:23:7,433
+another party
+controlling the Senate.
+
+
+396
+0:23:7,433 --> 0:23:10,934
+So they voted for -- you
+voted for divided government.
+
+
+397
+0:23:10,934 --> 0:23:16,166
+But you didn't vote for
+dysfunctional government.
+
+
+398
+0:23:16,166 --> 0:23:22,533
+You didn't vote for a
+do-nothing government.
+
+
+399
+0:23:22,533 --> 0:23:26,66
+You didn't vote for a government
+where folks are just looking out
+
+
+400
+0:23:26,66 --> 0:23:29,767
+for special interests.
+
+
+401
+0:23:29,767 --> 0:23:36,667
+You didn't vote for a government
+that is beholden to lobbyists.
+
+
+402
+0:23:36,667 --> 0:23:40,6
+We've got a lot of work to do,
+and the only way we will get it
+
+
+403
+0:23:40,6 --> 0:23:46,433
+done is if everybody,
+Democrats and Republicans,
+
+
+404
+0:23:46,433 --> 0:23:50,967
+find a way to put
+country ahead of party.
+
+
+405
+0:23:50,967 --> 0:23:53,433
+That's what I'm fighting for.
+
+
+406
+0:23:53,433 --> 0:23:55,934
+I'm here to enlist
+you in that fight.
+
+
+407
+0:23:55,934 --> 0:23:58,133
+You've got to hold
+everybody accountable,
+
+
+408
+0:23:58,133 --> 0:24:1,133
+because if we can come together
+and find common ground,
+
+
+409
+0:24:1,133 --> 0:24:3,734
+there is no stopping the
+United States of America.
+
+
+410
+0:24:3,734 --> 0:24:5,266
+There is no holding us back.
+
+
+411
+0:24:5,266 --> 0:24:6,133
+(applause)
+
+
+412
+0:24:6,133 --> 0:24:8,533
+We can strengthen this economy,
+and we can put our nation
+
+
+413
+0:24:8,533 --> 0:24:9,667
+back to work.
+
+
+414
+0:24:9,667 --> 0:24:11,8
+And we can lead the world
+in growing industries.
+
+
+415
+0:24:11,8 --> 0:24:15,33
+And we will make it through
+these economic storms and reach
+
+
+416
+0:24:15,33 --> 0:24:17,367
+calmer waters stronger
+than we were before.
+
+
+417
+0:24:17,367 --> 0:24:18,233
+Thank you very much, everybody.
+
+
+418
+0:24:18,233 --> 0:24:19,767
+God bless you.
+
+
+419
+0:24:19,767 --> 0:24:20,533
+Thank you.
+
+
+420
+0:24:20,533 --> 0:26:20,533
+(applause)
+
+

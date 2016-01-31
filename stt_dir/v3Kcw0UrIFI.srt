@@ -1,0 +1,1242 @@
+1
+0:0:6,31 --> 0:0:8,6
+If things don't work out on this planet...
+
+
+2
+0:0:8,6 --> 0:0:31,699
+Or if our itch to explore becomes unbearable
+at some point in the future...
+
+
+3
+0:0:31,699 --> 0:0:37,2
+Astronomers have recently found out what kind
+of galactic real estate might be available
+
+
+4
+0:0:37,2 --> 0:0:42,25
+to us.
+
+
+5
+0:0:42,25 --> 0:0:49,44
+We'll have to develop advanced transport to
+land there, 20 light years away.... But that's
+
+
+6
+0:0:49,44 --> 0:0:50,67
+for later.
+
+
+7
+0:0:50,67 --> 0:0:58,35
+The question right now: is it worth the trip?
+The destination is a star that you can't see
+
+
+8
+0:0:58,35 --> 0:1:8,65
+with your naked eye, in the southern constellation
+Libra, called Gliese 581.
+
+
+9
+0:1:8,65 --> 0:1:14,1
+Identified over 40 years ago by the German
+astronomer Wilhelm Gliese, it's a red dwarf
+
+
+10
+0:1:14,1 --> 0:1:23,399
+with 31% of the Sun's mass... and only 1.3%
+of its luminosity.
+
+
+11
+0:1:23,399 --> 0:1:30,869
+Until recently, the so-called M Stars like
+Gliese 581 flew below the radar of planet
+
+
+12
+0:1:30,869 --> 0:1:31,39
+hunters.
+
+
+13
+0:1:31,39 --> 0:1:37,229
+They give off so little energy that a planet
+would have to orbit dangerously close just
+
+
+14
+0:1:37,229 --> 0:1:42,579
+to get enough heat.
+
+
+15
+0:1:42,579 --> 0:1:48,719
+Now, these unlikely realms are beginning to
+show some promise... as their dim light yields
+
+
+16
+0:1:48,719 --> 0:1:50,9
+to precision technologies...
+
+
+17
+0:1:50,9 --> 0:1:57,92
+...as well as supercomputers... honed in the
+battle to understand global changes on this
+
+
+18
+0:1:57,92 --> 0:2:3,35
+planet... Earth.
+
+
+19
+0:2:3,35 --> 0:2:6,79
+Will we now begin to detect signs of alien
+life?
+
+
+20
+0:2:6,79 --> 0:2:14,819
+Or will these worlds, and the galaxy itself,
+turn out to be lifeless... and Earth, just
+
+
+21
+0:2:14,819 --> 0:2:18,89
+a beautiful, lonely aberration?
+
+
+22
+0:2:18,89 --> 0:2:25,86
+To some, like astronomer and author Carl Sagan,
+the sheer number and diversity of stars makes
+
+
+23
+0:2:25,86 --> 0:2:31,7
+it, as he said, "far more likely that the
+universe is brimming over with life."
+
+
+24
+0:2:31,7 --> 0:2:39,48
+This so-called "many worlds" view can be traced
+back to ancient observers... in China, India,
+
+
+25
+0:2:39,48 --> 0:2:47,45
+Greece and Egypt. The Qur'an, the Talmud,
+and many Hindu texts all imagined a universe
+
+
+26
+0:2:47,45 --> 0:2:50,269
+full of living beings.
+
+
+27
+0:2:50,269 --> 0:2:55,61
+In the 16th Century, this view got a boost
+from astronomer and mathematician Nikolas
+
+
+28
+0:2:55,61 --> 0:3:2,6
+Copernicus... who came to believe that Earth
+is not the center of the universe, but revolves
+
+
+29
+0:3:2,6 --> 0:3:4,379
+around the Sun.
+
+
+30
+0:3:4,379 --> 0:3:10,87
+Seven decades after Copernicus, Galileo Galilei
+used his newly developed telescope to show
+
+
+31
+0:3:10,87 --> 0:3:16,59
+that our Sun was just one among countless
+other stars in the universe.
+
+
+32
+0:3:16,59 --> 0:3:23,849
+By the modern era, the "many worlds" view
+held sway in scientific circles. A variety
+
+
+33
+0:3:23,849 --> 0:3:29,64
+of thinkers considered what and who inhabited
+worlds beyond our own.
+
+
+34
+0:3:29,64 --> 0:3:37,739
+From Martians desperate to get off their planet...
+to alien invaders intent on launching pre-emptive
+
+
+35
+0:3:37,739 --> 0:3:50,3
+strikes against ours... or simple life forms
+on an evolutionary track to complexity.
+
+
+36
+0:3:50,3 --> 0:3:54,17
+But other thinkers have been struck by a different
+view.
+
+
+37
+0:3:54,17 --> 0:4:1,15
+The Greek philosophers Aristotle and Ptolemy
+believed that humans and Earth are unique.
+
+
+38
+0:4:1,15 --> 0:4:9,769
+With the spread of Christianity, this Ptolemaic
+system became widely accepted.
+
+
+39
+0:4:9,769 --> 0:4:16,65
+The latest variation on this theme is what's
+called the "Rare Earth" hypothesis. It holds
+
+
+40
+0:4:16,65 --> 0:4:21,85
+that Earth and sophisticated life were the
+result of fortuitous circumstances that may
+
+
+41
+0:4:21,85 --> 0:4:27,699
+not be easy to find again in our galaxy.
+
+
+42
+0:4:27,699 --> 0:4:33,3
+Does the current search for planets shed light
+on this debate... sending it in one direction
+
+
+43
+0:4:33,3 --> 0:4:34,93
+or the other?
+
+
+44
+0:4:34,93 --> 0:4:41,46
+So far, our only good reference for recognizing
+an Earth-like planet is... Earth.
+
+
+45
+0:4:41,46 --> 0:4:50,3
+It does have some fortuitous characteristics...
+it's dense, it's rocky - with a complex make-up
+
+
+46
+0:4:50,3 --> 0:5:2,9
+of minerals and organic compounds - and it
+has lots and lots of water.
+
+
+47
+0:5:2,9 --> 0:5:7,8
+It's also got a nearly circular orbit around
+the Sun, at a distance that allows liquid
+
+
+48
+0:5:7,8 --> 0:5:17,61
+water to flow... not too close and not too
+far away, in the so-called "Habitable Zone."
+
+
+49
+0:5:17,61 --> 0:5:22,18
+That's defined as the range of distance from
+a parent star that a planet would need to
+
+
+50
+0:5:22,18 --> 0:5:28,22
+maintain surface temperatures between the
+freezing and boiling points of water.
+
+
+51
+0:5:28,22 --> 0:5:33,91
+Of course, that depends on the size of the
+planet, the make-up of its atmosphere, and
+
+
+52
+0:5:33,91 --> 0:5:37,949
+a host of other factors.
+
+
+53
+0:5:37,949 --> 0:5:45,39
+And whether the parent star is large; medium
+like the Sun; or small.
+
+
+54
+0:5:45,39 --> 0:5:53,8
+Some scientists also believe we live in a
+"Galactic Habitable Zone." We're close enough
+
+
+55
+0:5:53,8 --> 0:5:57,9
+to the galactic center to be infused with
+heavy elements generated by countless stellar
+
+
+56
+0:5:57,9 --> 0:5:59,639
+explosions over the eons...
+
+
+57
+0:5:59,639 --> 0:6:7,97
+But far enough away from deadly gamma radiation
+that roars out of the center.
+
+
+58
+0:6:7,97 --> 0:6:13,68
+If there is a galactic habitable zone... it's
+thought to lie 26,000 light years from the
+
+
+59
+0:6:13,68 --> 0:6:19,979
+center... about where we are... give or take
+about 6,000 light years.
+
+
+60
+0:6:19,979 --> 0:6:26,65
+According to one estimate, only about 5% of
+the stars in our galaxy fall within it.
+
+
+61
+0:6:26,65 --> 0:6:34,21
+But even out here - in the galactic suburbs
+ - there are hazards. Some researchers have
+
+
+62
+0:6:34,21 --> 0:6:40,139
+linked mass extinctions in the past to the
+Sun's passage through one of the spiral arms,
+
+
+63
+0:6:40,139 --> 0:6:48,389
+where other sources of dangerous gamma radiation
+lie in wait.
+
+
+64
+0:6:48,389 --> 0:6:58,36
+Somehow, though, we've made it through asteroid
+impacts, climate changes, solar eruptions
+
+
+65
+0:6:58,36 --> 0:7:2,289
+and everything else the galaxy has thrown
+at us.
+
+
+66
+0:7:2,289 --> 0:7:12,3
+Now we want to know... are there kindred spirits,
+somewhere out there, to share our survival
+
+
+67
+0:7:12,3 --> 0:7:16,28
+stories with?
+
+
+68
+0:7:16,28 --> 0:7:22,129
+This image shows the single biggest obstacle
+faced by planet hunters. We're looking at
+
+
+69
+0:7:22,129 --> 0:7:29,47
+Earth, as photographed by the Voyager spacecraft,
+from a distance of 3.7 billion miles.
+
+
+70
+0:7:29,47 --> 0:7:36,36
+Our mighty world occupies only about one tenth
+of one pixel.
+
+
+71
+0:7:36,36 --> 0:7:41,93
+Try seeing something this small at hundreds
+of thousands of times that distance.
+
+
+72
+0:7:41,93 --> 0:7:46,289
+And try seeing it through the bright glare
+of a star.
+
+
+73
+0:7:46,289 --> 0:7:52,889
+Faced with these obstacles, astronomers have
+developed ways to see them indirectly.
+
+
+74
+0:7:52,889 --> 0:7:59,36
+Since 1995, Swiss and American teams have
+discovered over 400 planets by looking for
+
+
+75
+0:7:59,36 --> 0:8:3,43
+subtle shifts in the motion of their parent
+stars.
+
+
+76
+0:8:3,43 --> 0:8:5,75
+Here's what they'd see if they used this technique
+ ...
+
+
+77
+0:8:5,75 --> 0:8:10,49
+...to monitor our Sun for a period of 30 years
+beginning in 1990.
+
+
+78
+0:8:10,49 --> 0:8:17,97
+The sun would wobble, or dance about, due
+to the gravitational tug of planets orbiting
+
+
+79
+0:8:17,97 --> 0:8:19,33
+it.
+
+
+80
+0:8:19,33 --> 0:8:25,139
+The technique for detecting this wobble is
+so exquisitely developed that astronomers
+
+
+81
+0:8:25,139 --> 0:8:31,47
+can see movements down to a meter per second:
+human walking speed.
+
+
+82
+0:8:31,47 --> 0:8:37,2
+But there's still a ways to go... Earth causes
+our Sun to move at less than a tenth that
+
+
+83
+0:8:37,2 --> 0:8:38,62
+speed.
+
+
+84
+0:8:38,62 --> 0:8:41,13
+By analyzing the complexity of this movement...
+
+
+85
+0:8:41,13 --> 0:8:46,45
+They have been able to tease out the sizes
+and distances of the different planets tugging
+
+
+86
+0:8:46,45 --> 0:8:49,519
+on the star.
+
+
+87
+0:8:49,519 --> 0:8:55,66
+Initially, they detected huge gas giants,
+many of which have wildly elliptical orbits
+
+
+88
+0:8:55,66 --> 0:9:0,74
+that bring them in close to their stars before
+driving them way out.
+
+
+89
+0:9:0,74 --> 0:9:7,13
+Unfortunately, the giant's gravity would eventually
+fling smaller Earth-sized planets out of the
+
+
+90
+0:9:7,13 --> 0:9:8,82
+solar system.
+
+
+91
+0:9:8,82 --> 0:9:14,779
+An exception is the star 55 Cancri, where
+astronomers detected a Jupiter-sized planet
+
+
+92
+0:9:14,779 --> 0:9:17,29
+with a nearly circular orbit.
+
+
+93
+0:9:17,29 --> 0:9:25,68
+That's a good sign. Our Jupiter is thought
+to have afforded Earth some protection by
+
+
+94
+0:9:25,68 --> 0:9:27,5
+scooping up destructive asteroids.
+
+
+95
+0:9:27,5 --> 0:9:35,8
+Beyond occupying a desirable location in the
+Habitable Zone of its parent star... it helps
+
+
+96
+0:9:35,8 --> 0:9:38,81
+if a planet has the right chemistry.
+
+
+97
+0:9:38,81 --> 0:9:44,5
+Our Earth and solar system were likely born
+within a crowded scene... like the Trifid
+
+
+98
+0:9:44,5 --> 0:9:50,63
+nebula here... lashed by winds from hot giant
+stars... and blasted by a violent explosion:
+
+
+99
+0:9:50,63 --> 0:9:55,39
+a supernova.
+
+
+100
+0:9:55,39 --> 0:10:0,36
+Nuclear burning within the core of large stars
+is where most of the heavy elements - from
+
+
+101
+0:10:0,36 --> 0:10:8,23
+iron and oxygen, to carbon and calcium - 
+are generated. As our Sun formed at the center
+
+
+102
+0:10:8,23 --> 0:10:17,35
+of an immense dusty disk, these elements became
+concentrated in planets.
+
+
+103
+0:10:17,35 --> 0:10:21,7
+Some of the most important elements in the
+search for life have now been detected, because
+
+
+104
+0:10:21,7 --> 0:10:27,66
+of the chance alignment of Earth and a solar
+system 63 light years away that astronomers
+
+
+105
+0:10:27,66 --> 0:10:29,769
+refer to as HD 189733.
+
+
+106
+0:10:29,769 --> 0:10:38,19
+The Hubble and Spitzer space telescopes together
+caught a planet whipping around this star
+
+
+107
+0:10:38,19 --> 0:10:40,649
+every two Earth days.
+
+
+108
+0:10:40,649 --> 0:10:48,769
+This is one sizzling planet... with surface
+temperatures up around 900 degrees Celsius.
+
+
+109
+0:10:48,769 --> 0:10:58,86
+The planet, tagged HD 189733-B, is so hot
+that a vapor trail follows in its wake. Starlight
+
+
+110
+0:10:58,86 --> 0:11:5,86
+passing through this trail allowed scientists
+to detect carbon dioxide, methane gas... and
+
+
+111
+0:11:5,86 --> 0:11:9,92
+water in its atmosphere.
+
+
+112
+0:11:9,92 --> 0:11:18,55
+Then there's the sun-like star HD 209458,
+visible with binoculars, 150 light years away.
+
+
+113
+0:11:18,55 --> 0:11:22,86
+It has a planet, known as a "hot Jupiter."
+
+
+114
+0:11:22,86 --> 0:11:29,1
+It's hot because it's close-in: as near as
+7 million kilometers from the star... Compared
+
+
+115
+0:11:29,1 --> 0:11:40,339
+to our planet Mercury, 46 million kilometers
+out from our Sun...or the Earth, 146 million.
+
+
+116
+0:11:40,339 --> 0:11:45,24
+Scientists estimate that stellar winds are
+blowing some 10,000 tons of material every
+
+
+117
+0:11:45,24 --> 0:11:52,959
+second off the surface of this hot gas giant.
+How long before it gets reduced to a shriveled
+
+
+118
+0:11:52,959 --> 0:11:53,769
+core?
+
+
+119
+0:11:53,769 --> 0:11:59,139
+That's just what happened to the star called
+CoRot-7. Astronomers spotted a planet slightly
+
+
+120
+0:11:59,139 --> 0:12:5,22
+larger than Earth... and just about as dense.
+But because little CoRoT-7b is so close to
+
+
+121
+0:12:5,22 --> 0:12:8,339
+its parent star, it's most likely covered
+in molten lava.
+
+
+122
+0:12:8,339 --> 0:12:15,18
+If these planets are too close to their stars
+to harbor life... many of the others discovered
+
+
+123
+0:12:15,18 --> 0:12:19,93
+so far are too far away and too large.
+
+
+124
+0:12:19,93 --> 0:12:25,709
+Like the one orbiting a star the ancient Arabs
+called Fomulhaut - - meaning: "the mouth of
+
+
+125
+0:12:25,709 --> 0:12:34,18
+the fish." It's just 25 light years away and
+was the first "exoplanet" to be seen directly.
+
+
+126
+0:12:34,18 --> 0:12:39,74
+Using Hubble, scientists blocked out Fomulhaut's
+glare and found a planet orbiting about 10
+
+
+127
+0:12:39,74 --> 0:12:48,25
+times farther out than Saturn. It would take
+872 Earth years to make just one orbit.
+
+
+128
+0:12:48,25 --> 0:12:54,389
+The brightness of this planet suggests that
+it's huge and probably surrounded by a dusty
+
+
+129
+0:12:54,389 --> 0:12:54,389
+disk.
+
+
+130
+0:12:54,389 --> 0:13:2,579
+Astronomers are seeing hints of the diversity
+of worlds imagined by the ancients... but
+
+
+131
+0:13:2,579 --> 0:13:7,51
+still only scant evidence of anything resembling
+Earth.
+
+
+132
+0:13:7,51 --> 0:13:13,97
+Still, there's one class of stars that had,
+until recently, been overlooked.
+
+
+133
+0:13:13,97 --> 0:13:19,94
+The M-stars are the most numerous in our galaxy...
+around 76% of the total.
+
+
+134
+0:13:19,94 --> 0:13:25,67
+They are often called failed stars... because
+not enough mass fell together as they were
+
+
+135
+0:13:25,67 --> 0:13:30,519
+forming to fuel the intense nuclear fusion
+that burns in stars like our sun.
+
+
+136
+0:13:30,519 --> 0:13:40,23
+To be in the "Life Zone" of one of these dwarf
+stars, a planet would have to be very close.
+
+
+137
+0:13:40,23 --> 0:13:46,4
+Unfortunately, because these small stars spin
+quickly when they're young, they are like
+
+
+138
+0:13:46,4 --> 0:13:51,279
+electrical dynamos, with intense magnetic
+fields that generate dangerous flares.
+
+
+139
+0:13:51,279 --> 0:13:57,949
+If a planet manages to survive these flares,
+it may have to endure another handicap.
+
+
+140
+0:13:57,949 --> 0:14:3,91
+In close like this, it's likely to become
+gravitationally locked to its parent star
+
+
+141
+0:14:3,91 --> 0:14:8,91
+ - just like our Moon is to Earth - with only
+one side ever facing the star.
+
+
+142
+0:14:8,91 --> 0:14:19,32
+One side scorched... the other frozen. Is
+there any hope?
+
+
+143
+0:14:19,32 --> 0:14:27,579
+On Earth, we know that the unevenness of solar
+heating, due to the day/night cycle, leads
+
+
+144
+0:14:27,579 --> 0:14:34,92
+to oceanic and atmospheric circulation patterns
+that redistribute the heat and equalize temperatures.
+
+
+145
+0:14:34,92 --> 0:14:40,62
+A computer simulation performed by NASA scientists
+showed that a tidally locked planet could,
+
+
+146
+0:14:40,62 --> 0:14:44,279
+in fact, develop circulation patterns like
+this.
+
+
+147
+0:14:44,279 --> 0:14:51,6
+In the computer model, a cloud cover developed
+on the light side: keeping temperatures down
+
+
+148
+0:14:51,6 --> 0:14:57,699
+and air pressures high. The result: winds
+that circled the planet, redistributing enough
+
+
+149
+0:14:57,699 --> 0:15:1,5
+heat to keep the rate of freezing down.
+
+
+150
+0:15:1,5 --> 0:15:8,199
+That's one reason these M stars are on planet
+hunters' radars these days.
+
+
+151
+0:15:8,199 --> 0:15:11,61
+Another reason is that planet hunting has
+taken a leap forward.
+
+
+152
+0:15:11,61 --> 0:15:15,19
+At the European Southern Observatory in the
+mountains of Chile, an instrument that specializes
+
+
+153
+0:15:15,19 --> 0:15:22,259
+in looking for solar wobbles has come on line.
+HARPS - short for "High Accuracy Radial Velocity
+
+
+154
+0:15:22,259 --> 0:15:25,37
+Planet Searcher" - has been on a planet finding
+tear.
+
+
+155
+0:15:25,37 --> 0:15:34,42
+At a recent conference, scientists announced
+30 new planets discovered with this instrument.
+
+
+156
+0:15:34,42 --> 0:15:37,199
+Among its most promising targets...
+
+
+157
+0:15:37,199 --> 0:15:43,709
+Gliese 581, that inconspicuous red dwarf in
+Libra.
+
+
+158
+0:15:43,709 --> 0:15:47,399
+Four planets have been detected so far...
+
+
+159
+0:15:47,399 --> 0:15:53,6
+Planet E is the lightest exoplanet discovered
+to date, at 1.9 times the mass of Earth.
+
+
+160
+0:15:53,6 --> 0:15:59,699
+But it's so close to its parent star that
+its orbit takes only 3.15 days.
+
+
+161
+0:15:59,699 --> 0:16:1,6
+It's likely a larger version of Mercury, scorched
+by its sun and riddled with craters.
+
+
+162
+0:16:1,6 --> 0:16:7,589
+Planet B is close too, and weighs 16 times
+what Earth does.
+
+
+163
+0:16:7,589 --> 0:16:13,959
+Planet C, at 5 Earth masses, lies just inside
+the Habitable Zone...
+
+
+164
+0:16:13,959 --> 0:16:19,829
+... while Planet D, at 7 Earth masses, lies
+on its outside edge.
+
+
+165
+0:16:19,829 --> 0:16:24,579
+To find out what direction these planets might
+have taken, scientists have sought to model
+
+
+166
+0:16:24,579 --> 0:16:27,79
+their early evolution.
+
+
+167
+0:16:27,79 --> 0:16:32,19
+Planet C, on the inside margins of the life
+zone, would have immediately been subjected
+
+
+168
+0:16:32,19 --> 0:16:35,4
+to a withering barrage of solar radiation.
+
+
+169
+0:16:35,4 --> 0:16:41,92
+Think Venus. Any water vapor in the atmosphere
+would have been stripped away. Gases spewed
+
+
+170
+0:16:41,92 --> 0:16:45,769
+out by volcanic activity would have turned
+the atmosphere increasingly dense...
+
+
+171
+0:16:45,769 --> 0:16:54,4
+A strong greenhouse effect would then have
+turned Planet C into a hothouse world.
+
+
+172
+0:16:54,4 --> 0:16:56,399
+Planet D is different.
+
+
+173
+0:16:56,399 --> 0:17:1,73
+Earth-bound instruments showed that its gravitational
+pull is surprisingly weak - meaning it's not
+
+
+174
+0:17:1,73 --> 0:17:8,77
+very dense. That suggests that it might have
+migrated in from the outer solar system, carrying
+
+
+175
+0:17:8,77 --> 0:17:11,69
+with it significant amounts of hydrogen and
+oxygen.
+
+
+176
+0:17:11,69 --> 0:17:18,3
+It could be a water world, with an abundance
+of vapor in the atmosphere that would strengthen
+
+
+177
+0:17:18,3 --> 0:17:21,73
+its greenhouse effect.
+
+
+178
+0:17:21,73 --> 0:17:27,64
+Of course, there are still many unknowns.
+Is it far enough out to avoid becoming tidally
+
+
+179
+0:17:27,64 --> 0:17:32,79
+locked? If it is locked, has it developed
+circulation patterns strong enough to keep
+
+
+180
+0:17:32,79 --> 0:17:36,23
+the freezing down on the dark side and support
+a habitable climate?
+
+
+181
+0:17:36,23 --> 0:17:37,29
+And does it have a magnetic field that protects
+it against flares that may be bursting from
+
+
+182
+0:17:37,29 --> 0:17:37,42
+its star?
+
+
+183
+0:17:37,42 --> 0:17:38,35
+And is oxygen present in its atmosphere -
+ one of the most prominent markers of life?
+
+
+184
+0:17:38,35 --> 0:17:43,5
+Astronomers will continue to study the planets
+of Gliese 581 in the years to come... as part
+
+
+185
+0:17:43,5 --> 0:17:48,77
+of a rapidly expanding list of targets.
+
+
+186
+0:17:48,77 --> 0:17:56,5
+The next era in planet hunting is now ramping
+up with the recent launch of the Kepler planet-hunting
+
+
+187
+0:17:56,5 --> 0:18:1,77
+spacecraft.
+
+
+188
+0:18:1,77 --> 0:18:6,53
+Kepler amounts to a huge digital camera in
+space, pointed at a region containing more
+
+
+189
+0:18:6,53 --> 0:18:10,23
+than 100,000 stars...
+
+
+190
+0:18:10,23 --> 0:18:15,27
+Its designers are betting that some of those
+stars have planets...and that a fraction are
+
+
+191
+0:18:15,27 --> 0:18:21,14
+tilted so that their planets pass between
+their stars and Kepler's camera.
+
+
+192
+0:18:21,14 --> 0:18:27,9
+If so, astronomers will detect subtle dips
+in the brightness of these stars - by as little
+
+
+193
+0:18:27,9 --> 0:18:33,57
+as one one-hundredth of a percent. That's
+the signature of a planet passing in front.
+
+
+194
+0:18:33,57 --> 0:18:40,55
+Another project is breaking new ground by
+combining data from several ground-based telescopes.
+
+
+195
+0:18:40,55 --> 0:18:48,96
+Astronomers recently used them to probe a
+star called 61 Virginis, 28 light years away.
+
+
+196
+0:18:48,96 --> 0:18:54,3
+It's nearly identical in mass and age to the
+Sun. What's more, it was here that astronomers
+
+
+197
+0:18:54,3 --> 0:19:1,62
+found the first Earth-like planets around
+a Sun-like star, at 5 and 7.5 times the mass
+
+
+198
+0:19:1,62 --> 0:19:1,95
+of Earth.
+
+
+199
+0:19:1,95 --> 0:19:9,53
+A simulation of the atmosphere of the larger
+one - picturing its flow of heat on a global
+
+
+200
+0:19:9,53 --> 0:19:16,92
+scale - shows how much we can understand,
+even at this distance. How long before a truly
+
+
+201
+0:19:16,92 --> 0:19:20,51
+Earth-like planet is discovered?
+
+
+202
+0:19:20,51 --> 0:19:27,68
+As astronomers' instruments get better - 
+and their techniques more refined - it's likely
+
+
+203
+0:19:27,68 --> 0:19:36,1
+that they'll discover smaller and smaller
+planets.
+
+
+204
+0:19:36,1 --> 0:19:42,4
+For now, though, the "Rare-Earth" hypothesis
+may well have the edge over "Many Worlds."
+
+
+205
+0:19:42,4 --> 0:19:50,26
+The conditions that nurture a habitable planet
+seem hard to come by... such as position in
+
+
+206
+0:19:50,26 --> 0:19:55,59
+the "life zone"; a nearly circular orbit;
+and magnetic fields.
+
+
+207
+0:19:55,59 --> 0:20:6,71
+The threats are many, solar flares... marauding
+giant planets... tidal locking... and other
+
+
+208
+0:20:6,71 --> 0:20:11,25
+lurking catastrophes.
+
+
+209
+0:20:11,25 --> 0:20:20,78
+In fact, Nature has handed us a paradox: Medium-sized
+stars like our Sun turn out to be particularly
+
+
+210
+0:20:20,78 --> 0:20:28,89
+hostile to life. They emit barrages of ultraviolet
+radiation... and solar outbursts powerful
+
+
+211
+0:20:28,89 --> 0:20:31,14
+enough to ruin a fledgling atmosphere.
+
+
+212
+0:20:31,14 --> 0:20:36,84
+And yet, somehow, we manage.
+
+
+213
+0:20:36,84 --> 0:20:46,66
+So if it turns out that the Milky Way is filled
+with habitable worlds... its not that the
+
+
+214
+0:20:46,66 --> 0:21:8,87
+galactic real estate is so special... it's
+that life finds a way.
+
+
+215
+0:21:8,87 --> 0:23:8,87
+8
+
+

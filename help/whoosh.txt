@@ -1,0 +1,66 @@
+You can select different analyzer:
+  TEXT(analyzer=analysis.StemmingAnalyzer()).
+
+whoosh.fields.STORED
+  field which is not indexed, just stored with the document
+
+Alternatively you can create a schema declaratively using the SchemaClass base class:
+
+from whoosh.fields import SchemaClass, TEXT, KEYWORD, ID, STORED
+
+class MySchema(SchemaClass):
+    path = ID(stored=True)
+    title = TEXT(stored=True)
+    content = TEXT
+    tags = KEYWORD
+
+
+This is a multiplier applied to the score of any term found in the field.
+  schema = Schema(title=TEXT(field_boost=2.0), body=TEXT)
+
+
+The default number of returned records is 10. Use limit otherwise:
+results = s.search(q, limit=20)
+results = s.search(q, limit=None)
+
+You can "page" the results. This will show you first page with 10 (default) records:
+results = s.search_page(q, 1)
+
+The default page length is 10 hits. You can use the pagelen keyword argument to set a different page length:
+results = s.search_page(q, 5, pagelen=20)
+
+This is number of ALL matching files:
+len(results)
+And this is the real number of records in current results object
+results.scored_length()
+
+
+You can limit the search to certain amount of time:
+Use whoosh.collectors.TimeLimitCollector wrapper... http://pythonhosted.org/Whoosh/searching.html
+
+Taky můžu ovlivnit výsledek aktuálního hledání pomocí výsledku předchozího...
+
+
+
+
+====== Queries
+Toto pouze přetranformuje uživatelský vstup na query object:
+>>> query = QueryParser("content", ix.schema).parse(u"hono")
+
+parser.parse(u"alpha OR beta gamma")
+Or([Term("content", u"alpha"), Term("content", "beta")])
+
+
+Besides the basic qparser, there are several other parser you can use  whoosh.qparser.MultifieldParser(), whoosh.qparser.SimpleParser() or whoosh.qparser.DisMaxParser()
+(ostatní parsery mohou zadané výrazy mnohem sofistikovaněji převádět na dotazy...)
+
+Např. defaultně "word1 word2 word3" mezi slova dává AND. Aby se to změnilo na OR:
+parser = qparser.QueryParser(fieldname, schema=myindex.schema,
+                             group=qparser.OrGroup)
+
+
+MultifieldParser enables you to search the words of query in different fields: e.g. "wordforfield1 wordforfield2..."
+
+
+
+

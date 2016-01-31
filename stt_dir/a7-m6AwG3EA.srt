@@ -1,0 +1,243 @@
+1
+0:0:21,34 --> 0:0:26,17
+Lightning flickers somewhere in Earth's atmosphere
+dozens of times every second. Most of these
+
+
+2
+0:0:26,17 --> 0:0:30,32
+electrical flashes remain in the clouds, with
+only about a fifth of them reaching low enough
+
+
+3
+0:0:30,32 --> 0:0:35,2
+to strike trees, buildings or the ground.
+Yet lightning bolts in the clouds deliver
+
+
+4
+0:0:35,2 --> 0:0:39,44
+a unique and powerful punch of their own.
+They're directly linked to events that produce
+
+
+5
+0:0:39,44 --> 0:0:46,84
+some of the highest-energy radiation naturally
+found on Earth: terrestrial gamma-ray flashes,
+
+
+6
+0:0:46,84 --> 0:0:48,69
+or TGFs for short.
+
+
+7
+0:0:48,69 --> 0:0:53,0
+Thanks to recent work by NASA's Fermi Gamma-ray
+Space Telescope, scientists have come a few
+
+
+8
+0:0:53,0 --> 0:0:58,4
+steps closer to understanding these extraordinary
+outbursts. When lightning flashes high in
+
+
+9
+0:0:58,4 --> 0:1:3,36
+the clouds, its energy may alter the strong
+electric fields near the top of the storm.
+
+
+10
+0:1:3,36 --> 0:1:7,68
+About a thousand times each day, this sudden
+change triggers an upward surge of high-speed
+
+
+11
+0:1:7,68 --> 0:1:12,41
+electrons. Reaching speeds nearly as fast
+as light, these accelerated electrons give
+
+
+12
+0:1:12,41 --> 0:1:18,91
+off gamma rays when they're deflected by air
+molecules. TGFs happen quickly and randomly,
+
+
+13
+0:1:18,91 --> 0:1:21,93
+so even catching them by satellite has been
+difficult.
+
+
+14
+0:1:21,93 --> 0:1:27,81
+But new results from the Gamma-ray Burst Monitor
+on Fermi are giving scientists fresh insights.
+
+
+15
+0:1:27,81 --> 0:1:33,9
+Last year the GBM team showed that TGFs well
+away from Fermi produced beams of charged
+
+
+16
+0:1:33,9 --> 0:1:38,11
+particles that could travel along Earth's
+magnetic field and hit the satellite. Now,
+
+
+17
+0:1:38,11 --> 0:1:42,5
+thanks to advancements in data processing,
+Fermi's GBM is better at detecting TGFs than
+
+
+18
+0:1:42,5 --> 0:1:47,61
+ever before. As a result, scientists have
+discovered that radio signals once thought
+
+
+19
+0:1:47,61 --> 0:1:54,88
+to be produced by the lightning that triggers
+a TGF are in fact broadcast by TGFs themselves.
+
+
+20
+0:1:54,88 --> 0:1:59,24
+Each lightning stroke creates a burst of Very
+Low Frequency radio waves. Through the World
+
+
+21
+0:1:59,24 --> 0:2:4,39
+Wide Lightning Location Network, scientists
+use this unique radio signal to track electrical
+
+
+22
+0:2:4,39 --> 0:2:9,119
+activity around the globe. For some time,
+scientists have know that TGFs were associated
+
+
+23
+0:2:9,119 --> 0:2:13,54
+with strong radio signals, so it was natural
+to think that these radio signals were produced
+
+
+24
+0:2:13,54 --> 0:2:20,0
+by the lightning stroke that triggered the
+TGFs.
+
+
+25
+0:2:20,0 --> 0:2:25,36
+Here's one instance that highlights why the
+GBM team now questions this interpretation.
+
+
+26
+0:2:25,36 --> 0:2:30,87
+It's August 2009 and Fermi is flying over
+thunderstorms off Mexico's West Coast. Each
+
+
+27
+0:2:30,87 --> 0:2:36,68
+symbol marks the location of a lightning The
+highlighted circle shows how much of Earth's
+
+
+28
+0:2:36,68 --> 0:2:37,69
+surface
+
+
+29
+0:2:37,69 --> 0:2:42,89
+Fermi can see at any given moment. Just as
+the satellite passes over the storms, a TGF
+
+
+30
+0:2:42,89 --> 0:2:49,189
+occurs. There's no other lightning near that
+position when Fermi detected the TGF. hundreds
+
+
+31
+0:2:49,189 --> 0:2:53,79
+of TGFs and comparing them to radio-based
+lightning locations, the GBM team concludes
+
+
+32
+0:2:53,79 --> 0:2:58,719
+that both the gamma-ray and the the strong
+radio emission comes from the TGF. The team
+
+
+33
+0:2:58,719 --> 0:3:3,23
+also finds that weaker radio bursts ocurring
+up to several thousandths of a second before
+
+
+34
+0:3:3,23 --> 0:3:9,92
+or after a TGF actually represent the individual
+lightning stroke associated with it.
+
+
+35
+0:3:9,92 --> 0:3:14,739
+The GBM findings confirm a theory published
+in 2011 that the same avalanche of speedy
+
+
+36
+0:3:14,739 --> 0:3:22,189
+electrons that creates a TGFs gamma rays also
+produce strong Very Low Frequency radio signals.
+
+
+37
+0:3:22,189 --> 0:3:26,999
+With this knowledge, scientists can pair the
+Fermi TGF sample with the more precise radio
+
+
+38
+0:3:26,999 --> 0:3:30,359
+positions from the World Wide Lightning Location
+Network.
+
+
+39
+0:3:30,359 --> 0:3:35,329
+This will clarify weather patterns associated
+with TGFs and usher in new studies, perhaps
+
+
+40
+0:3:35,329 --> 0:3:40,14
+helping scientists determine which types of
+thunderstorms produce some Earth's highest-energy
+
+
+41
+0:3:40,14 --> 0:5:40,14
+natural light.
+
+

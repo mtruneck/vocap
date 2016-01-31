@@ -1,0 +1,3200 @@
+1
+0:0:1,4 --> 0:0:3,135
+TRAVIS:
+Now on "Rocket City Rednecks"...
+
+
+2
+0:0:3,135 --> 0:0:5,404
+We answer the call
+to build a new kind of drone
+
+
+3
+0:0:5,404 --> 0:0:7,73
+for the U.S. military.
+
+
+4
+0:0:7,73 --> 0:0:8,874
+Don't try. Do it.
+
+
+5
+0:0:8,874 --> 0:0:11,377
+But when a military expert
+comes to check it out...
+
+
+6
+0:0:11,377 --> 0:0:13,846
+MAN: Rockets and guns, huh?
+TRAVIS: Rockets and guns.
+
+
+7
+0:0:13,846 --> 0:0:16,115
+Will it be
+"Sweet Drone Alabama"?
+
+
+8
+0:0:16,115 --> 0:0:17,483
+Oh!
+
+
+9
+0:0:17,483 --> 0:0:20,786
+Or will our weaponized aircraft
+fail to make the grade?
+
+
+10
+0:0:20,786 --> 0:0:24,657
+Oh, no! Oh, no! Crap!
+
+
+11
+0:0:24,657 --> 0:0:26,258
+I'm Travis Taylor.
+
+
+12
+0:0:26,258 --> 0:0:28,427
+I'm a rocket scientist in
+the space and defense industry
+
+
+13
+0:0:28,427 --> 0:0:31,464
+here in my hometown
+of Huntsville, Alabama,
+
+
+14
+0:0:31,464 --> 0:0:32,932
+where my daddy
+helped build the rockets
+
+
+15
+0:0:32,932 --> 0:0:34,533
+that sent us to the moon.
+
+
+16
+0:0:34,533 --> 0:0:37,303
+DADDY: Have y'all been drinking
+rocket fuel again?
+
+
+17
+0:0:37,303 --> 0:0:40,39
+TRAVIS: Sometimes big science
+moves too slow for me, 
+
+
+18
+0:0:40,39 --> 0:0:44,243
+so come the weekend,
+I round up my best friend Rog,
+
+
+19
+0:0:44,243 --> 0:0:46,445
+my nephew Michael,
+and my buddy Pete
+
+
+20
+0:0:46,445 --> 0:0:48,147
+to tackle important problems
+
+
+21
+0:0:48,147 --> 0:0:50,382
+with a little
+down-home ingenuity.
+
+
+22
+0:0:50,382 --> 0:0:55,254
+ROG: Damn it, boy!
+
+
+23
+0:0:55,254 --> 0:0:56,755
+TRAVIS: Right on.
+
+
+24
+0:0:56,755 --> 0:0:59,925
+Hey, is there any more beers
+in the cooler?
+
+
+25
+0:0:59,925 --> 0:1:1,427
+TRAVIS: The U.S. military's
+
+
+26
+0:1:1,427 --> 0:1:3,596
+been taking out
+all kinds of enemy targets
+
+
+27
+0:1:3,596 --> 0:1:5,431
+with the help of combat drones.
+
+
+28
+0:1:5,431 --> 0:1:7,6
+And this weekend,
+we're going to join them
+
+
+29
+0:1:7,6 --> 0:1:10,703
+in creating the next generation
+of drone technology--
+
+
+30
+0:1:10,703 --> 0:1:13,272
+ones that don't cost
+millions of dollars to make.
+
+
+31
+0:1:13,272 --> 0:1:15,141
+I told all the guys
+to bring anything
+
+
+32
+0:1:15,141 --> 0:1:17,343
+that looks like
+it's a remote control vehicle,
+
+
+33
+0:1:17,343 --> 0:1:19,612
+electronic airplanes,
+helicopters, whatever,
+
+
+34
+0:1:19,612 --> 0:1:21,313
+lightweight
+construction material.
+
+
+35
+0:1:21,313 --> 0:1:22,481
+PETE: We don't need this.
+
+
+36
+0:1:22,481 --> 0:1:25,151
+ROG: Why we dragging
+all this crap out for?
+
+
+37
+0:1:25,151 --> 0:1:29,655
+TRAVIS: What we're gonna do is
+we're gonna build a UAV drone.
+
+
+38
+0:1:29,655 --> 0:1:31,891
+The American military
+is looking to make
+
+
+39
+0:1:31,891 --> 0:1:35,561
+a small unmanned
+aerial vehicle, or UAV,
+
+
+40
+0:1:35,561 --> 0:1:38,631
+that can be carried by a single
+soldier out in the field.
+
+
+41
+0:1:38,631 --> 0:1:42,34
+In fact, the Defense Advanced
+Research Projects Agency,
+
+
+42
+0:1:42,34 --> 0:1:43,235
+or DARPA,
+
+
+43
+0:1:43,235 --> 0:1:45,171
+has issued a challenge
+to citizen scientists
+
+
+44
+0:1:45,171 --> 0:1:47,439
+to build a drone
+that can do three things.
+
+
+45
+0:1:47,439 --> 0:1:49,542
+One, fly a couple miles.
+
+
+46
+0:1:49,542 --> 0:1:51,443
+Two, send back video.
+
+
+47
+0:1:51,443 --> 0:1:53,679
+And three, fit into a backpack
+
+
+48
+0:1:53,679 --> 0:1:56,749
+so a single soldier
+can carry it.
+
+
+49
+0:1:56,749 --> 0:1:59,185
+Let's say this soldier
+gets into trouble,
+
+
+50
+0:1:59,185 --> 0:2:0,92
+so he pulls his UAV
+out of his backpack,
+
+
+51
+0:2:0,92 --> 0:2:2,721
+tosses it up,
+it flies up over the trees
+
+
+52
+0:2:2,721 --> 0:2:4,456
+and looks and finds
+where the bad guys are.
+
+
+53
+0:2:4,456 --> 0:2:7,426
+They give him either an escape
+route or an attack route.
+
+
+54
+0:2:7,426 --> 0:2:9,94
+MICHAEL:
+My dad's in the military.
+
+
+55
+0:2:9,94 --> 0:2:11,263
+I'd love for him to have
+something like this.
+
+
+56
+0:2:11,263 --> 0:2:12,798
+So this is
+a real important build to me,
+
+
+57
+0:2:12,798 --> 0:2:15,367
+and I think I can
+contribute a lot to it.
+
+
+58
+0:2:15,367 --> 0:2:16,635
+TRAVIS:
+People are used to drones
+
+
+59
+0:2:16,635 --> 0:2:18,637
+that look and fly
+like airplanes,
+
+
+60
+0:2:18,637 --> 0:2:20,773
+but I want ours
+to take off vertically,
+
+
+61
+0:2:20,773 --> 0:2:24,21
+so we're gonna make
+a helicopter drone.
+
+
+62
+0:2:24,21 --> 0:2:27,947
+We're gonna use remote-control
+helicopter motors for lift,
+
+
+63
+0:2:27,947 --> 0:2:30,716
+and below them
+we'll mount a video camera.
+
+
+64
+0:2:30,716 --> 0:2:32,51
+And even though DARPA
+
+
+65
+0:2:32,51 --> 0:2:34,553
+isn't calling for their
+portable drones to have weapons,
+
+
+66
+0:2:34,553 --> 0:2:37,22
+we're gonna add
+rockets and a gun
+
+
+67
+0:2:37,22 --> 0:2:40,159
+that can be fired remotely.
+
+
+68
+0:2:40,159 --> 0:2:41,86
+For our first test,
+
+
+69
+0:2:41,86 --> 0:2:44,763
+we've already got a gun
+hooked up to a couple motors
+
+
+70
+0:2:44,763 --> 0:2:46,932
+from a remote control
+helicopter.
+
+
+71
+0:2:46,932 --> 0:2:49,235
+We're gonna see if it can
+get off the ground
+
+
+72
+0:2:49,235 --> 0:2:50,436
+and if we can
+fire off of some rounds
+
+
+73
+0:2:50,436 --> 0:2:52,71
+using this really cool
+firing system
+
+
+74
+0:2:52,71 --> 0:2:55,7
+that Michael designed.
+
+
+75
+0:2:55,7 --> 0:2:58,177
+When we push a joystick
+on the RC controller,
+
+
+76
+0:2:58,177 --> 0:3:1,914
+a small motor, also known
+as a servo, will rotate,
+
+
+77
+0:3:1,914 --> 0:3:3,816
+driving an armature
+into the trigger
+
+
+78
+0:3:3,816 --> 0:3:5,184
+like a plastic finger...
+
+
+79
+0:3:5,184 --> 0:3:6,452
+and bang!
+
+
+80
+0:3:6,452 --> 0:3:9,388
+The enemy
+won't know what hit 'em.
+
+
+81
+0:3:9,388 --> 0:3:11,624
+We're about to take it
+out in the backyard
+
+
+82
+0:3:11,624 --> 0:3:14,193
+and see if we can fly this thing
+with two motors
+
+
+83
+0:3:14,193 --> 0:3:17,129
+and fire
+this paintball gun with it.
+
+
+84
+0:3:17,129 --> 0:3:18,564
+ROG: How cool is that?
+
+
+85
+0:3:18,564 --> 0:3:21,667
+We just made ourselves
+a flying gun.
+
+
+86
+0:3:21,667 --> 0:3:24,77
+I bet we can take that thing
+duck hunting.
+
+
+87
+0:3:24,77 --> 0:3:26,772
+PETE: We loaded it up
+with plenty of ammo,
+
+
+88
+0:3:26,772 --> 0:3:30,809
+and Mr. Taylor made us
+a nice target to shoot at.
+
+
+89
+0:3:30,809 --> 0:3:34,213
+TRAVIS: Here we go,
+We're gonna bring the motors up.
+
+
+90
+0:3:34,213 --> 0:3:35,848
+We're coming on up.
+
+
+91
+0:3:35,848 --> 0:3:37,583
+Yeah, there we go.
+Are we getting any lift?
+
+
+92
+0:3:37,583 --> 0:3:38,817
+You feel like it's
+pulling out of your hand?
+
+
+93
+0:3:38,817 --> 0:3:40,586
+MICHAEL: It's pulling.
+Just not enough.
+
+
+94
+0:3:40,586 --> 0:3:43,88
+TRAVIS: Careful with it now.
+All the way, all the way.
+
+
+95
+0:3:43,88 --> 0:3:44,556
+Going full throttle.
+
+
+96
+0:3:44,556 --> 0:3:46,625
+MICHAEL: Full throttle it.
+ROG: Stay with it.
+
+
+97
+0:3:46,625 --> 0:3:48,6
+Michael: Is that wide open?
+
+
+98
+0:3:48,6 --> 0:3:50,429
+TRAVIS: It's wide open.
+It ain't gonna lift it. Crap!
+
+
+99
+0:3:50,429 --> 0:3:52,665
+Yeah, I thought it
+would have lifted it, man.
+
+
+100
+0:3:52,665 --> 0:3:53,999
+PETE: Maybe those batteries--
+
+
+101
+0:3:53,999 --> 0:3:55,367
+TRAVIS: That gun's
+just a lot heavier,
+
+
+102
+0:3:55,367 --> 0:3:56,669
+and the paintballs
+added more weight.
+
+
+103
+0:3:56,669 --> 0:3:58,3
+That's a lot of weight
+
+
+104
+0:3:58,3 --> 0:3:59,772
+'cause that's all liquid
+in them paintballs.
+
+
+105
+0:3:59,772 --> 0:4:1,307
+PETE: It's obvious
+we're gonna need more motors
+
+
+106
+0:4:1,307 --> 0:4:3,709
+to lift all the payload
+on our weaponized drone.
+
+
+107
+0:4:3,709 --> 0:4:5,644
+But before
+we work on that problem,
+
+
+108
+0:4:5,644 --> 0:4:7,98
+we're gonna go ahead and see if
+our remote trigger works.
+
+
+109
+0:4:7,98 --> 0:4:9,815
+MICHAEL: Gun's hot.
+TRAVIS: Alright, here we go.
+
+
+110
+0:4:9,815 --> 0:4:13,786
+Gun's hot, ready to fire it
+in three, two, one.
+
+
+111
+0:4:13,786 --> 0:4:15,521
+MICHAEL: When they hit
+that remote trigger
+
+
+112
+0:4:15,521 --> 0:4:17,189
+on the controller,
+
+
+113
+0:4:17,189 --> 0:4:22,127
+that plastic finger should
+rotate and fire the gun.
+
+
+114
+0:4:22,127 --> 0:4:24,763
+TRAVIS: Crap!
+
+
+115
+0:4:24,763 --> 0:4:26,332
+DADDY: Now, I like to see
+things go off
+
+
+116
+0:4:26,332 --> 0:4:27,733
+when you pull the trigger.
+
+
+117
+0:4:27,733 --> 0:4:29,101
+MICHAEL: You ain't got nothing.
+TRAVIS: Crap.
+
+
+118
+0:4:29,101 --> 0:4:30,636
+DADDY: I'm just frustrated.
+
+
+119
+0:4:30,636 --> 0:4:33,238
+The motors didn't work,
+and neither did the trigger.
+
+
+120
+0:4:33,238 --> 0:4:35,908
+We got our work
+cut out for us on this one.
+
+
+121
+0:4:35,908 --> 0:4:38,744
+TRAVIS: One complete motor...
+
+
+122
+0:4:38,744 --> 0:4:40,612
+One of the things
+we learned from this test
+
+
+123
+0:4:40,612 --> 0:4:44,249
+is we need to know exactly how
+much weight each motor can lift,
+
+
+124
+0:4:44,249 --> 0:4:47,286
+because we want our drone
+to carry not just a gun,
+
+
+125
+0:4:47,286 --> 0:4:49,788
+but a camera
+and a whole bunch of rockets.
+
+
+126
+0:4:49,788 --> 0:4:51,156
+MICHAEL: What you think
+about that?
+
+
+127
+0:4:51,156 --> 0:4:52,257
+DADDY: Hey, that's neat.
+
+
+128
+0:4:52,257 --> 0:4:53,459
+MICHAEL: We didn't know
+how to measure
+
+
+129
+0:4:53,459 --> 0:4:55,227
+how much weight
+the motor could lift,
+
+
+130
+0:4:55,227 --> 0:4:57,329
+but then Papaw had an idea.
+
+
+131
+0:4:57,329 --> 0:5:1,867
+DADDY: Why not just use
+my old fish scales?
+
+
+132
+0:5:1,867 --> 0:5:6,238
+TRAVIS: Everybody get
+your safety glasses on.
+
+
+133
+0:5:6,238 --> 0:5:8,374
+All right, so what
+we're gonna do with this
+
+
+134
+0:5:8,374 --> 0:5:12,311
+is measure the lift
+of this engine, all right,
+
+
+135
+0:5:12,311 --> 0:5:14,79
+by looking at the scale
+right there
+
+
+136
+0:5:14,79 --> 0:5:15,714
+and see how much thrust
+we're getting out of it.
+
+
+137
+0:5:15,714 --> 0:5:18,283
+Y'all be careful
+because the blades are sharp.
+
+
+138
+0:5:18,283 --> 0:5:20,319
+They'll cut your finger off
+in a heartbeat.
+
+
+139
+0:5:20,319 --> 0:5:24,123
+All right, here we go.
+
+
+140
+0:5:24,123 --> 0:5:28,66
+[motor revs]
+
+
+141
+0:5:28,66 --> 0:5:31,296
+TRAVIS:
+That's good. That's good.
+
+
+142
+0:5:31,296 --> 0:5:35,3
+How much was that?
+MICHAEL: Five pounds.
+
+
+143
+0:5:35,3 --> 0:5:38,203
+TRAVIS: So if one motor
+can lift five pounds,
+
+
+144
+0:5:38,203 --> 0:5:39,772
+then four can lift twenty.
+
+
+145
+0:5:39,772 --> 0:5:42,674
+That ought to be enough,
+so that's the plan.
+
+
+146
+0:5:42,674 --> 0:5:44,643
+We're gonna build
+a four-propeller
+
+
+147
+0:5:44,643 --> 0:5:46,278
+helicopter drone.
+
+
+148
+0:5:46,278 --> 0:5:48,881
+We're gonna put our propellers
+on a frame,
+
+
+149
+0:5:48,881 --> 0:5:52,317
+and we'll hang the camera
+and the weapons from that.
+
+
+150
+0:5:52,317 --> 0:5:54,853
+I want to get this thing
+done today
+
+
+151
+0:5:54,853 --> 0:5:56,188
+or first thing in the morning
+
+
+152
+0:5:56,188 --> 0:5:58,824
+'cause a buddy of mine
+that's a UAV expert
+
+
+153
+0:5:58,824 --> 0:6:0,793
+over at University of Alabama
+in Huntsville
+
+
+154
+0:6:0,793 --> 0:6:3,262
+told me he'd come over here
+tomorrow about 2:00
+
+
+155
+0:6:3,262 --> 0:6:7,32
+to see our solution.
+
+
+156
+0:6:7,32 --> 0:6:9,535
+Dr. Brian Landrum
+has been working with the army
+
+
+157
+0:6:9,535 --> 0:6:11,103
+and on UAVs for years.
+
+
+158
+0:6:11,103 --> 0:6:13,605
+He's written dozens
+of scientific papers
+
+
+159
+0:6:13,605 --> 0:6:16,408
+and analyzed UAV designs
+for the military.
+
+
+160
+0:6:16,408 --> 0:6:18,343
+If we can impress him
+with our drone,
+
+
+161
+0:6:18,343 --> 0:6:20,212
+I think we can
+get it seen by DARPA.
+
+
+162
+0:6:20,212 --> 0:6:22,981
+ROG: He's got this guy
+coming over here tomorrow,
+
+
+163
+0:6:22,981 --> 0:6:25,17
+and we've got tons of stuff
+to figure out.
+
+
+164
+0:6:25,17 --> 0:6:27,486
+And I don't see how we can be
+half done by then.
+
+
+165
+0:6:27,486 --> 0:6:31,223
+TRAVIS: You and Pete figure out
+why that gun didn't fire
+
+
+166
+0:6:31,223 --> 0:6:34,92
+and figure out what we gotta do
+to do four motors at once.
+
+
+167
+0:6:34,92 --> 0:6:36,195
+If we're gonna have
+four motors on this thing,
+
+
+168
+0:6:36,195 --> 0:6:38,33
+then we're gonna need something
+to attach them to.
+
+
+169
+0:6:38,33 --> 0:6:40,132
+So I sent Rog
+out to the hardware store
+
+
+170
+0:6:40,132 --> 0:6:47,94
+to find us some kind
+of lightweight frame.
+
+
+171
+0:6:47,94 --> 0:6:53,745
+ROG: Wait a minute now.
+
+
+172
+0:6:53,745 --> 0:6:58,116
+ROG: When I was driving by,
+I saw at my buddy's house,
+
+
+173
+0:6:58,116 --> 0:6:59,551
+his wife was out in the yard,
+
+
+174
+0:6:59,551 --> 0:7:1,854
+and his little girl
+was doing the hula-hoop.
+
+
+175
+0:7:1,854 --> 0:7:5,9
+And I got an idea.
+
+
+176
+0:7:5,9 --> 0:7:7,125
+We ain't gonna
+have to build a frame.
+
+
+177
+0:7:7,125 --> 0:7:12,598
+A hula-hoop's already
+made like that, you know.
+
+
+178
+0:7:12,598 --> 0:7:14,766
+So I did a little bartering,
+
+
+179
+0:7:14,766 --> 0:7:16,935
+and I traded my hat
+for the hula-hoop.
+
+
+180
+0:7:16,935 --> 0:7:18,837
+And I think I got
+a pretty fair deal.
+
+
+181
+0:7:18,837 --> 0:7:20,272
+PETE: I've got them ready.
+
+
+182
+0:7:20,272 --> 0:7:22,207
+TRAVIS: That's all right.
+DADDY: Hold that thing up level.
+
+
+183
+0:7:22,207 --> 0:7:23,675
+[horn honking]
+
+
+184
+0:7:23,675 --> 0:7:26,44
+DADDY: Oh, man.
+
+
+185
+0:7:26,44 --> 0:7:30,48
+TRAVIS: We sent Rog out
+to get a frame for our drone,
+
+
+186
+0:7:30,48 --> 0:7:32,451
+and here he comes back
+with a hula-hoop.
+
+
+187
+0:7:32,451 --> 0:7:34,52
+What are you gonna do
+with a hula-hoop?
+
+
+188
+0:7:34,52 --> 0:7:35,721
+You working on
+your girly figure?
+
+
+189
+0:7:35,721 --> 0:7:37,389
+ROG: I figure
+we put that as a base.
+
+
+190
+0:7:37,389 --> 0:7:38,39
+DADDY: That's not a bad idea.
+
+
+191
+0:7:38,39 --> 0:7:39,992
+TRAVIS:
+The plastic is fairly rigid.
+
+
+192
+0:7:39,992 --> 0:7:42,261
+I think it's gonna work great
+for our airframe structure.
+
+
+193
+0:7:42,261 --> 0:7:45,464
+ROG: Anything for
+the project of the week.
+
+
+194
+0:7:45,464 --> 0:7:47,866
+TRAVIS: Now that
+we've got the frame,
+
+
+195
+0:7:47,866 --> 0:7:51,103
+we've got to get back to
+figuring out that trigger.
+
+
+196
+0:7:51,103 --> 0:7:53,605
+When we pushed the joystick
+on the remote control,
+
+
+197
+0:7:53,605 --> 0:7:54,806
+the motor is supposed to turn
+
+
+198
+0:7:54,806 --> 0:7:58,76
+and drive a plastic finger
+into the trigger,
+
+
+199
+0:7:58,76 --> 0:8:0,445
+but that motor just won't move.
+
+
+200
+0:8:0,445 --> 0:8:2,481
+MICHAEL: It ain't going.
+TRAVIS: I heard something.
+
+
+201
+0:8:2,481 --> 0:8:4,516
+You don't reckon
+the servo is stuck, do you?
+
+
+202
+0:8:4,516 --> 0:8:7,152
+MICHAEL: You know what?
+The trim might not be set right.
+
+
+203
+0:8:7,152 --> 0:8:9,821
+Uncle Travis thinks
+the servo motor is broken,
+
+
+204
+0:8:9,821 --> 0:8:11,49
+but I doubt it.
+
+
+205
+0:8:11,49 --> 0:8:14,192
+I think the remote controller
+isn't set up right.
+
+
+206
+0:8:14,192 --> 0:8:16,929
+I can make a simple adjustment
+to something called the trim.
+
+
+207
+0:8:16,929 --> 0:8:18,463
+That should fix the problem.
+
+
+208
+0:8:18,463 --> 0:8:21,433
+It'd be as easy
+as adjusting the dial.
+
+
+209
+0:8:21,433 --> 0:8:24,469
+But sometimes Uncle Travis has
+just got to do things his way.
+
+
+210
+0:8:24,469 --> 0:8:26,672
+TRAVIS: Maybe I'll just
+change the servo out.
+
+
+211
+0:8:26,672 --> 0:8:28,34
+Do we have an extra one?
+MICHAEL: Check the trim.
+
+
+212
+0:8:28,34 --> 0:8:30,976
+TRAVIS: I think it's something
+wrong with that servo.
+
+
+213
+0:8:30,976 --> 0:8:33,979
+MICHAEL: So we did exactly
+what he told us to.
+
+
+214
+0:8:33,979 --> 0:8:36,715
+We replaced the servo.
+And guess what?
+
+
+215
+0:8:36,715 --> 0:8:38,617
+We put a brand-new
+servo on here,
+
+
+216
+0:8:38,617 --> 0:8:40,786
+and it's doing the same thing.
+It ain't the servo.
+
+
+217
+0:8:40,786 --> 0:8:42,621
+TRAVIS: Look, you got to figure
+this part out
+
+
+218
+0:8:42,621 --> 0:8:45,39
+'cause this is a main part
+of the dag gum UAV, right?
+
+
+219
+0:8:45,39 --> 0:8:46,692
+MICHAEL: We're trying.
+
+
+220
+0:8:46,692 --> 0:8:48,46
+TRAVIS: Don't try. Do it!
+
+
+221
+0:8:48,46 --> 0:8:50,796
+MICHAEL: Just give us some time.
+TRAVIS: All right.
+
+
+222
+0:8:50,796 --> 0:8:52,64
+MICHAEL: Try that trim.
+
+
+223
+0:8:52,64 --> 0:8:53,332
+Adjust that--
+
+
+224
+0:8:53,332 --> 0:8:55,167
+whatever way it is,
+throw it all the way.
+
+
+225
+0:8:55,167 --> 0:9:1,106
+TRAVIS: Oh!
+What the crap was that?
+
+
+226
+0:9:1,106 --> 0:9:2,374
+DADDY: These
+experiments are dangerous.
+
+
+227
+0:9:2,374 --> 0:9:4,676
+These guys are
+real rocket scientists.
+
+
+228
+0:9:4,676 --> 0:9:6,678
+Don't try this at home.
+
+
+229
+0:9:6,678 --> 0:9:9,414
+TRAVIS: We're making
+a portable weaponized drone
+
+
+230
+0:9:9,414 --> 0:9:11,483
+to match
+Defense Department specs.
+
+
+231
+0:9:11,483 --> 0:9:13,952
+It's got to fly two miles,
+send back video,
+
+
+232
+0:9:13,952 --> 0:9:15,887
+and fit in a backpack.
+
+
+233
+0:9:15,887 --> 0:9:20,359
+And there's a UAV expert who's
+gonna be here in just 24 hours
+
+
+234
+0:9:20,359 --> 0:9:23,161
+who's gonna tell us
+if it makes the grade.
+
+
+235
+0:9:23,161 --> 0:9:26,98
+MICHAEL: Try that trim. That's
+the only thing we hadn't tried.
+
+
+236
+0:9:26,98 --> 0:9:29,67
+Adjust that--whatever way it is,
+throw it all the way--
+
+
+237
+0:9:29,67 --> 0:9:31,436
+TRAVIS: Oh!
+What the crap was that?
+
+
+238
+0:9:31,436 --> 0:9:33,605
+Did you all just shoot
+a paintball on Daddy's floor?
+
+
+239
+0:9:33,605 --> 0:9:36,241
+MICHAEL: No. I don't think
+it was a paintball.
+
+
+240
+0:9:36,241 --> 0:9:38,243
+TRAVIS: You ain't got
+the paintball, but did it go?
+
+
+241
+0:9:38,243 --> 0:9:39,544
+MICHAEL: I think it just--yeah.
+
+
+242
+0:9:39,544 --> 0:9:41,847
+TRAVIS: Do it again.
+Pete, are you making it do that?
+
+
+243
+0:9:41,847 --> 0:9:44,116
+PETE: Yup.
+TRAVIS: Hey, hey, look at that.
+
+
+244
+0:9:44,116 --> 0:9:46,818
+TRAVIS: He was right.
+Michael said it was the trim,
+
+
+245
+0:9:46,818 --> 0:9:48,186
+and I should have
+listened to him.
+
+
+246
+0:9:48,186 --> 0:9:50,656
+You sure I didn't
+tell you to check that?
+
+
+247
+0:9:50,656 --> 0:9:51,99
+Now, that that's fixed,
+
+
+248
+0:9:51,99 --> 0:9:54,259
+Michael and Pete are
+working on the remote video
+
+
+249
+0:9:54,259 --> 0:9:57,295
+that mission control will use
+to control the drone.
+
+
+250
+0:9:57,295 --> 0:9:59,164
+We're gonna make it
+so that a single soldier
+
+
+251
+0:9:59,164 --> 0:10:1,66
+can control the drone
+from the field,
+
+
+252
+0:10:1,66 --> 0:10:3,735
+but if he needs to,
+he can hand off that control
+
+
+253
+0:10:3,735 --> 0:10:6,138
+back to home base
+that's miles and miles away.
+
+
+254
+0:10:6,138 --> 0:10:8,106
+PETE: Was that about 100 feet?
+
+
+255
+0:10:8,106 --> 0:10:10,375
+MICHAEL: Yeah, that's
+crystal clear, ain't it?
+
+
+256
+0:10:10,375 --> 0:10:11,343
+PETE: That's good.
+
+
+257
+0:10:11,343 --> 0:10:12,344
+TRAVIS:
+Once Rog finished putting
+
+
+258
+0:10:12,344 --> 0:10:14,46
+all the motors and blades on,
+
+
+259
+0:10:14,46 --> 0:10:16,381
+we created
+some unique landing gear.
+
+
+260
+0:10:16,381 --> 0:10:19,718
+Daddy, we're gonna be using
+your cat fishing noodle.
+
+
+261
+0:10:19,718 --> 0:10:21,253
+DADDY: I always have
+some of those noodles
+
+
+262
+0:10:21,253 --> 0:10:23,622
+you use in the pool
+for kids to play with.
+
+
+263
+0:10:23,622 --> 0:10:25,323
+I use them for fishing.
+
+
+264
+0:10:25,323 --> 0:10:28,427
+Never imagined we'd be
+using them for a DARPA drone.
+
+
+265
+0:10:28,427 --> 0:10:31,329
+TRAVIS: Cut me off
+four of them beer-can high.
+
+
+266
+0:10:31,329 --> 0:10:32,698
+ROG: Beer-can high?
+
+
+267
+0:10:32,698 --> 0:10:36,68
+Ain't that a unit of measurement
+that the Egyptians used?
+
+
+268
+0:10:36,68 --> 0:10:39,337
+TRAVIS: They can zip-tie
+all the way through it.
+
+
+269
+0:10:39,337 --> 0:10:41,473
+All the way,
+just set 'em right on there.
+
+
+270
+0:10:41,473 --> 0:10:43,575
+Here, Michael.
+
+
+271
+0:10:43,575 --> 0:10:46,945
+Hey, you two settle down
+before I get on the both of you.
+
+
+272
+0:10:46,945 --> 0:10:47,979
+I think we're done.
+
+
+273
+0:10:47,979 --> 0:10:49,448
+All we gotta do
+is hook the power up,
+
+
+274
+0:10:49,448 --> 0:10:50,816
+and we're ready to go.
+
+
+275
+0:10:50,816 --> 0:10:52,15
+There's still
+a lot to figure out,
+
+
+276
+0:10:52,15 --> 0:10:54,186
+but if this thing doesn't work,
+we're screwed.
+
+
+277
+0:10:54,186 --> 0:10:58,9
+We're gonna see if it flies.
+
+
+278
+0:10:58,9 --> 0:11:0,659
+DADDY: I don't think
+he's a very experienced driver.
+
+
+279
+0:11:0,659 --> 0:11:4,73
+I'm thinking he's probably gonna
+run the thing into us.
+
+
+280
+0:11:4,73 --> 0:11:7,365
+TRAVIS: Everybody be ready.
+
+
+281
+0:11:7,365 --> 0:11:11,436
+Here we go.
+
+
+282
+0:11:11,436 --> 0:11:13,371
+Coming up with the throttle.
+
+
+283
+0:11:13,371 --> 0:11:23,181
+[popping]
+
+
+284
+0:11:23,181 --> 0:11:26,485
+Watch out now.
+
+
+285
+0:11:26,485 --> 0:11:33,58
+DADDY: By George,
+it does fly, don't it?
+
+
+286
+0:11:33,58 --> 0:11:35,26
+Look out for my truck.
+
+
+287
+0:11:35,26 --> 0:11:38,196
+TRAVIS: There it goes!
+
+
+288
+0:11:38,196 --> 0:11:46,304
+Oh!
+
+
+289
+0:11:46,304 --> 0:11:48,306
+Oh, crap!
+
+
+290
+0:11:48,306 --> 0:11:51,409
+Something happened,
+it went unstable.
+
+
+291
+0:11:51,409 --> 0:11:53,612
+ROG: He started
+running that thing.
+
+
+292
+0:11:53,612 --> 0:11:55,48
+I thought he had it,
+and I thought, man,
+
+
+293
+0:11:55,48 --> 0:11:57,716
+'cause he just missed
+this one tree over here.
+
+
+294
+0:11:57,716 --> 0:12:2,587
+And he hit
+these limbs right here.
+
+
+295
+0:12:2,587 --> 0:12:4,99
+And I didn't know he
+couldn't drive that thing, man.
+
+
+296
+0:12:4,99 --> 0:12:6,424
+TRAVIS: There's some things
+that come loose.
+
+
+297
+0:12:6,424 --> 0:12:7,526
+I'm gonna have to go
+back through all the connections
+
+
+298
+0:12:7,526 --> 0:12:9,6
+and make sure it works.
+
+
+299
+0:12:9,6 --> 0:12:10,896
+DADDY: What do you think, son?
+What do you think happened?
+
+
+300
+0:12:10,896 --> 0:12:12,631
+Did it just get out of range
+of the controls
+
+
+301
+0:12:12,631 --> 0:12:13,431
+where it wouldn't respond?
+
+
+302
+0:12:13,431 --> 0:12:15,3
+TRAVIS: It was pilot error.
+
+
+303
+0:12:15,3 --> 0:12:17,302
+I couldn't tell
+where I was looking,
+
+
+304
+0:12:17,302 --> 0:12:20,71
+and I think I just
+lost orientation
+
+
+305
+0:12:20,71 --> 0:12:21,907
+of where was the front
+and where was the back,
+
+
+306
+0:12:21,907 --> 0:12:24,409
+and when I made the correction,
+it wasn't the right way.
+
+
+307
+0:12:24,409 --> 0:12:26,244
+I either need more practice
+
+
+308
+0:12:26,244 --> 0:12:27,913
+or figure out
+a better way to do it.
+
+
+309
+0:12:27,913 --> 0:12:29,581
+But that's after
+we fix the thing
+
+
+310
+0:12:29,581 --> 0:12:31,95
+back to where we had it.
+
+
+311
+0:12:31,95 --> 0:12:33,351
+I'm getting nervous
+
+
+312
+0:12:33,351 --> 0:12:35,453
+because we still have to do
+a flight test in the morning
+
+
+313
+0:12:35,453 --> 0:12:36,888
+before the expert gets here.
+
+
+314
+0:12:36,888 --> 0:12:38,69
+It's gonna be
+a long night, man,
+
+
+315
+0:12:38,69 --> 0:12:39,925
+'cause we ain't even
+thought about
+
+
+316
+0:12:39,925 --> 0:12:41,293
+how to put the rockets on there,
+
+
+317
+0:12:41,293 --> 0:12:42,694
+y'all ain't figured out
+how to ignite 'em,
+
+
+318
+0:12:42,694 --> 0:12:44,596
+we still got to get
+a gun mount on here.
+
+
+319
+0:12:44,596 --> 0:12:46,598
+We're a long way.
+
+
+320
+0:12:46,598 --> 0:12:51,503
+At least we got
+a cooler full of beer.
+
+
+321
+0:12:51,503 --> 0:12:53,405
+Man, we worked
+through the night,
+
+
+322
+0:12:53,405 --> 0:12:57,142
+but we got it all fixed up.
+
+
+323
+0:12:57,142 --> 0:12:58,944
+We're gonna do this test
+
+
+324
+0:12:58,944 --> 0:13:1,213
+where we see how far of a range
+we can go with the helicopter
+
+
+325
+0:13:1,213 --> 0:13:3,114
+and what kind of video
+we can get back.
+
+
+326
+0:13:3,114 --> 0:13:4,783
+PETE: We're good with picture.
+
+
+327
+0:13:4,783 --> 0:13:7,185
+TRAVIS: I'm gonna come in there
+and fly it from the video then.
+
+
+328
+0:13:7,185 --> 0:13:10,21
+Then we got that UAV expert
+gonna be here in a little while.
+
+
+329
+0:13:10,21 --> 0:13:11,523
+Gonna throttle up.
+
+
+330
+0:13:11,523 --> 0:13:25,3
+There we go.
+
+
+331
+0:13:25,3 --> 0:13:28,473
+ROG: I mean, it was just cool
+to be in the garage
+
+
+332
+0:13:28,473 --> 0:13:31,243
+and watch that thing fly.
+
+
+333
+0:13:31,243 --> 0:13:34,813
+But the best was when we flew
+over our buddy Sloth's house.
+
+
+334
+0:13:34,813 --> 0:13:36,548
+TRAVIS: Sloth. What's he doing?
+
+
+335
+0:13:36,548 --> 0:13:37,782
+MICHAEL:
+Looks like he's working.
+
+
+336
+0:13:37,782 --> 0:13:39,15
+ROG: He's looking
+for Easter eggs.
+
+
+337
+0:13:39,15 --> 0:13:40,752
+DADDY: Working my foot.
+
+
+338
+0:13:40,752 --> 0:13:42,821
+TRAVIS: You can't throw
+a beer can that high, Sloth.
+
+
+339
+0:13:42,821 --> 0:13:45,423
+The whole time I was hovering
+over Sloth's house,
+
+
+340
+0:13:45,423 --> 0:13:47,25
+he kept throwing beer cans up.
+
+
+341
+0:13:47,25 --> 0:13:50,195
+He knew that Rog was probably
+behind it somehow or other.
+
+
+342
+0:13:50,195 --> 0:13:52,163
+Boy, that one got fairly close.
+Did you see that one?
+
+
+343
+0:13:52,163 --> 0:13:53,365
+He's got a pretty good arm.
+
+
+344
+0:13:53,365 --> 0:13:55,5
+I could have messed
+with Sloth all day.
+
+
+345
+0:13:55,5 --> 0:13:56,801
+Here, I'm gonna
+get on outta there.
+
+
+346
+0:13:56,801 --> 0:13:58,87
+ROG: Fly that thing home.
+
+
+347
+0:13:58,87 --> 0:14:1,106
+TRAVIS:
+We had to fly the drone home
+
+
+348
+0:14:1,106 --> 0:14:3,108
+so we could continue
+to work on it.
+
+
+349
+0:14:3,108 --> 0:14:5,1
+We got our UAV
+back in one piece.
+
+
+350
+0:14:5,1 --> 0:14:7,812
+Now that we know we can control
+it better with video,
+
+
+351
+0:14:7,812 --> 0:14:9,781
+we still got to
+put that gun on there,
+
+
+352
+0:14:9,781 --> 0:14:12,17
+and we've still got to put
+that rocket on there.
+
+
+353
+0:14:12,17 --> 0:14:14,185
+Now, the other big requirement
+of the DARPA challenge
+
+
+354
+0:14:14,185 --> 0:14:15,987
+is getting this thing
+to fit in a backpack.
+
+
+355
+0:14:15,987 --> 0:14:18,89
+With all the setbacks,
+
+
+356
+0:14:18,89 --> 0:14:20,458
+I just haven't had
+any time to work on that.
+
+
+357
+0:14:20,458 --> 0:14:23,261
+But Michael and Pete assure me
+they've got that covered.
+
+
+358
+0:14:23,261 --> 0:14:25,96
+I guess we'll just
+have to wait and see.
+
+
+359
+0:14:25,96 --> 0:14:27,866
+First, Michael has got to
+get our rockets working.
+
+
+360
+0:14:27,866 --> 0:14:30,335
+Michael, you about figured out
+how to fire them rockets yet?
+
+
+361
+0:14:30,335 --> 0:14:32,37
+MICHAEL:
+Yeah, we're programming it.
+
+
+362
+0:14:32,37 --> 0:14:33,772
+TRAVIS: While Michael
+worked on that,
+
+
+363
+0:14:33,772 --> 0:14:36,675
+Rog figured out how to
+mount the gun to our drone.
+
+
+364
+0:14:36,675 --> 0:14:39,311
+ROG: We got that gunner
+aimed right at you.
+
+
+365
+0:14:39,311 --> 0:14:40,912
+TRAVIS: Look at what he's done.
+
+
+366
+0:14:40,912 --> 0:14:42,347
+He's put the gun
+on the bottom of it.
+
+
+367
+0:14:42,347 --> 0:14:44,416
+It looks pretty good.
+It's gonna work out just fine.
+
+
+368
+0:14:44,416 --> 0:14:47,185
+Michael, I got to have
+that circuit finished
+
+
+369
+0:14:47,185 --> 0:14:48,753
+to fire them rockets.
+
+
+370
+0:14:48,753 --> 0:14:50,855
+So go finish that circuit.
+
+
+371
+0:14:50,855 --> 0:14:52,29
+We're completing our arsenal
+
+
+372
+0:14:52,29 --> 0:14:54,125
+with rocket-propelled
+explosives.
+
+
+373
+0:14:54,125 --> 0:14:55,727
+But to fit them below the gun,
+
+
+374
+0:14:55,727 --> 0:14:58,163
+we have to add legs
+to the bottom.
+
+
+375
+0:14:58,163 --> 0:15:0,198
+Of course this all
+just adds more weight,
+
+
+376
+0:15:0,198 --> 0:15:3,134
+but if we want to impress DARPA,
+we have to add those rockets.
+
+
+377
+0:15:3,134 --> 0:15:5,236
+ROG: Where's that feller at?
+
+
+378
+0:15:5,236 --> 0:15:6,504
+TRAVIS: Dr. Brian Landrum
+
+
+379
+0:15:6,504 --> 0:15:8,206
+from the University of Alabama
+Huntsville
+
+
+380
+0:15:8,206 --> 0:15:10,275
+will be here any minute.
+
+
+381
+0:15:10,275 --> 0:15:13,311
+He's an expert on drone design
+for the Defense Department.
+
+
+382
+0:15:13,311 --> 0:15:15,28
+So he's the perfect guy
+to judge what we're doing.
+
+
+383
+0:15:15,28 --> 0:15:17,882
+DADDY: When Dr. Landrum sees it,
+
+
+384
+0:15:17,882 --> 0:15:20,685
+he's got to get over
+his first initial shock.
+
+
+385
+0:15:20,685 --> 0:15:23,254
+I mean, this thing's built
+by the Rocket City Rednecks.
+
+
+386
+0:15:23,254 --> 0:15:26,758
+It's built out of hula-hoops
+and fun noodles.
+
+
+387
+0:15:26,758 --> 0:15:28,36
+He's gonna think,
+"What in the world?"
+
+
+388
+0:15:28,36 --> 0:15:30,829
+PETE: We want to do
+one more test.
+
+
+389
+0:15:30,829 --> 0:15:32,63
+And the big question is,
+
+
+390
+0:15:32,63 --> 0:15:34,265
+with all this weight
+and all these new weapons,
+
+
+391
+0:15:34,265 --> 0:15:36,301
+will this thing
+even get off the ground?
+
+
+392
+0:15:36,301 --> 0:15:38,169
+MICHAEL: We ready?
+Here we go.
+
+
+393
+0:15:38,169 --> 0:15:41,906
+TRAVIS:
+Alright, bring it up Michael.
+
+
+394
+0:15:41,906 --> 0:15:46,211
+There we go.
+
+
+395
+0:15:46,211 --> 0:15:48,813
+What's going on?
+MICHAEL: It won't come up.
+
+
+396
+0:15:48,813 --> 0:15:50,382
+TRAVIS:
+With all this extra weight,
+
+
+397
+0:15:50,382 --> 0:15:53,451
+our drone is really
+struggling to get enough lift.
+
+
+398
+0:15:53,451 --> 0:15:57,722
+ROG: Oh, oh, no!
+
+
+399
+0:15:57,722 --> 0:16:4,662
+TRAVIS: Watch out.
+ROG: Don't touch that!
+
+
+400
+0:16:4,662 --> 0:16:5,73
+TRAVIS: We built a portable
+weaponized drone
+
+
+401
+0:16:5,73 --> 0:16:7,399
+for the DARPA challenge
+
+
+402
+0:16:7,399 --> 0:16:10,602
+and invited a UAV expert,
+Dr. Brian Landrum,
+
+
+403
+0:16:10,602 --> 0:16:13,805
+to evaluate our design
+during today's field test.
+
+
+404
+0:16:13,805 --> 0:16:16,174
+TRAVIS: Oh, no, no, no!
+
+
+405
+0:16:16,174 --> 0:16:19,944
+But his arrival
+wasn't exactly perfectly timed.
+
+
+406
+0:16:19,944 --> 0:16:21,446
+The dag-gum UAV crashed
+
+
+407
+0:16:21,446 --> 0:16:24,182
+right as Dr. Landrum's
+driving up.
+
+
+408
+0:16:24,182 --> 0:16:26,718
+DADDY: Rockets going off,
+hitting the trees...
+
+
+409
+0:16:26,718 --> 0:16:29,254
+TRAVIS: Hey!
+Hey, there's Dr. Landrum.
+
+
+410
+0:16:29,254 --> 0:16:30,755
+I just played it cool,
+
+
+411
+0:16:30,755 --> 0:16:33,391
+hoping that he wouldn't notice
+that something was really wrong.
+
+
+412
+0:16:33,391 --> 0:16:37,729
+ROG: I know he saw that.
+
+
+413
+0:16:37,729 --> 0:16:40,498
+TRAVIS: We've had a few
+little ups and downs.
+
+
+414
+0:16:40,498 --> 0:16:42,934
+We just did
+a rocket test, and...
+
+
+415
+0:16:42,934 --> 0:16:44,569
+DR. LANDRUM:
+Rockets and guns, huh?
+
+
+416
+0:16:44,569 --> 0:16:46,371
+TRAVIS: Rockets and guns
+and helicopters.
+
+
+417
+0:16:46,371 --> 0:16:48,239
+LANDRUM: Oh, well,
+that's a mix.
+
+
+418
+0:16:48,239 --> 0:16:49,808
+TRAVIS:
+We're gonna tweak some things,
+
+
+419
+0:16:49,808 --> 0:16:53,44
+so, Daddy, why don't you
+take him over to the test field,
+
+
+420
+0:16:53,44 --> 0:16:54,779
+and we'll meet y'all over there
+in a couple minutes.
+
+
+421
+0:16:54,779 --> 0:16:58,16
+We've set up
+a field test with targets
+
+
+422
+0:16:58,16 --> 0:16:59,751
+to put the drone
+through its paces.
+
+
+423
+0:16:59,751 --> 0:17:1,319
+But we're in trouble.
+
+
+424
+0:17:1,319 --> 0:17:3,555
+We've only got a few minutes
+really to fix this thing,
+
+
+425
+0:17:3,555 --> 0:17:7,125
+so the next test flight is gonna
+be in front of the UAV expert.
+
+
+426
+0:17:7,125 --> 0:17:8,526
+ROG: We put it back together.
+
+
+427
+0:17:8,526 --> 0:17:9,961
+We're expecting it to work.
+
+
+428
+0:17:9,961 --> 0:17:12,664
+At least that's what
+we're telling the expert guy.
+
+
+429
+0:17:12,664 --> 0:17:16,768
+TRAVIS: Turns out those legs we
+added to the bottom of the drone
+
+
+430
+0:17:16,768 --> 0:17:19,938
+affected the balance just enough
+to keep it from flying right.
+
+
+431
+0:17:19,938 --> 0:17:21,873
+So we redistributed
+some of the weight.
+
+
+432
+0:17:21,873 --> 0:17:24,876
+I think that should do it.
+
+
+433
+0:17:24,876 --> 0:17:26,611
+The key thing for this project
+
+
+434
+0:17:26,611 --> 0:17:28,48
+is that it can be carried
+in a backpack
+
+
+435
+0:17:28,48 --> 0:17:30,548
+by a single soldier
+in the field.
+
+
+436
+0:17:30,548 --> 0:17:33,17
+Now, I've assigned Michael
+and Pete to solve that problem.
+
+
+437
+0:17:33,17 --> 0:17:42,56
+I'm kind of excited to see
+what they've come up with.
+
+
+438
+0:17:42,56 --> 0:17:44,929
+Is this the backpack you made?
+
+
+439
+0:17:44,929 --> 0:17:48,99
+MICHAEL: Well, it's a backpack.
+You said, "Protect the UAV."
+
+
+440
+0:17:48,99 --> 0:17:50,335
+TRAVIS: Can you even
+get that thing on?
+
+
+441
+0:17:50,335 --> 0:17:52,971
+It's this huge box that
+you just slide the thing in.
+
+
+442
+0:17:52,971 --> 0:17:54,939
+There's no disassembly
+of the UAV at all.
+
+
+443
+0:17:54,939 --> 0:17:57,976
+I can't see a soldier
+wearing that into the field.
+
+
+444
+0:17:57,976 --> 0:18:0,44
+But it is too late
+to fix that now.
+
+
+445
+0:18:0,44 --> 0:18:2,113
+Hopefully we can
+impress Dr. Landrum
+
+
+446
+0:18:2,113 --> 0:18:4,649
+with other aspects
+of our design.
+
+
+447
+0:18:4,649 --> 0:18:6,417
+DADDY: Yeah, there's some
+pressure on it
+
+
+448
+0:18:6,417 --> 0:18:7,819
+because you don't want
+to mess up
+
+
+449
+0:18:7,819 --> 0:18:9,721
+in front of a guy like that.
+
+
+450
+0:18:9,721 --> 0:18:12,59
+And I figure we're about to.
+
+
+451
+0:18:12,59 --> 0:18:14,659
+LANDRUM: I finally got a good
+look at their drone design,
+
+
+452
+0:18:14,659 --> 0:18:16,528
+and it's unique,
+to say the least,
+
+
+453
+0:18:16,528 --> 0:18:18,129
+but I'm gonna
+reserve my judgment
+
+
+454
+0:18:18,129 --> 0:18:19,864
+till I see it in action.
+
+
+455
+0:18:19,864 --> 0:18:21,432
+TRAVIS: Put it in,
+be careful.
+
+
+456
+0:18:21,432 --> 0:18:22,734
+Don't tear up the rockets
+or whatever.
+
+
+457
+0:18:22,734 --> 0:18:24,435
+Y'all figure that out.
+
+
+458
+0:18:24,435 --> 0:18:25,87
+Alright, so, Brian,
+what we're gonna do
+
+
+459
+0:18:25,87 --> 0:18:28,72
+is I've set up a war game.
+
+
+460
+0:18:28,72 --> 0:18:30,475
+And we're gonna put Rog
+out there somewhere.
+
+
+461
+0:18:30,475 --> 0:18:32,343
+He's gonna take the gun,
+he's gonna go hide,
+
+
+462
+0:18:32,343 --> 0:18:33,845
+and he's gonna be a sniper.
+
+
+463
+0:18:33,845 --> 0:18:35,213
+So then I'm gonna crawl in
+
+
+464
+0:18:35,213 --> 0:18:36,781
+through the woods
+somewhere here,
+
+
+465
+0:18:36,781 --> 0:18:37,916
+and I'm gonna
+come out and decide
+
+
+466
+0:18:37,916 --> 0:18:40,685
+this is the right place
+to deploy the UAV.
+
+
+467
+0:18:40,685 --> 0:18:42,22
+And then we're gonna launch it.
+
+
+468
+0:18:42,22 --> 0:18:44,789
+It can be controlled from the
+tactical operations center here,
+
+
+469
+0:18:44,789 --> 0:18:47,25
+and you guys will be able to
+watch it on the big screen.
+
+
+470
+0:18:47,25 --> 0:18:49,427
+And then, when we're done
+taking out the sniper,
+
+
+471
+0:18:49,427 --> 0:18:51,663
+we've got some
+larger vehicles over the hill
+
+
+472
+0:18:51,663 --> 0:18:53,398
+that we're gonna go
+and take out with the rockets.
+
+
+473
+0:18:53,398 --> 0:18:56,734
+Michael, did you put targets
+out there like I said to?
+
+
+474
+0:18:56,734 --> 0:18:58,87
+MICHAEL: You will be surprised
+when you head out there.
+
+
+475
+0:18:58,87 --> 0:19:0,738
+TRAVIS: So you did put
+some targets out there.
+
+
+476
+0:19:0,738 --> 0:19:2,74
+Rog and I
+got our paintball gear on,
+
+
+477
+0:19:2,74 --> 0:19:5,977
+and he took off
+to go hide and play sniper.
+
+
+478
+0:19:5,977 --> 0:19:7,979
+ROG: Yeah, I had
+a real good hiding spot.
+
+
+479
+0:19:7,979 --> 0:19:9,314
+It was real snaky.
+
+
+480
+0:19:9,314 --> 0:19:11,115
+You know how snipers
+like snaky spots.
+
+
+481
+0:19:11,115 --> 0:19:13,151
+TRAVIS: Then Michael
+helped me get the backpack on.
+
+
+482
+0:19:13,151 --> 0:19:16,2
+I started easing out
+into the grass and hiding,
+
+
+483
+0:19:16,2 --> 0:19:18,356
+trying to find a good place
+that I could deploy this thing
+
+
+484
+0:19:18,356 --> 0:19:19,524
+and then go look for Rog.
+
+
+485
+0:19:19,524 --> 0:19:21,125
+TRAVIS: Hey, Michael.
+MICHAEL: Yeah, go ahead.
+
+
+486
+0:19:21,125 --> 0:19:22,393
+TRAVIS: I think I found
+a pretty good spot.
+
+
+487
+0:19:22,393 --> 0:19:24,429
+Rog can't be too far away,
+
+
+488
+0:19:24,429 --> 0:19:26,598
+so I'm gonna start getting ready
+to deploy this thing.
+
+
+489
+0:19:26,598 --> 0:19:34,38
+MICHAEL: 10-4. We're set up,
+and we're waiting on a signal.
+
+
+490
+0:19:34,38 --> 0:19:48,353
+TRAVIS: Here we go.
+
+
+491
+0:19:48,353 --> 0:19:49,954
+I took off running,
+
+
+492
+0:19:49,954 --> 0:19:55,693
+and I turned control over to
+Daddy back at the command post.
+
+
+493
+0:19:55,693 --> 0:19:57,228
+Shoot him.
+
+
+494
+0:19:57,228 --> 0:19:59,364
+If you can find Rog,
+start shooting him.
+
+
+495
+0:19:59,364 --> 0:20:2,467
+ROG: Yeah, I went both guns
+blazing at the drone.
+
+
+496
+0:20:2,467 --> 0:20:3,735
+It wasn't doing anything.
+
+
+497
+0:20:3,735 --> 0:20:9,941
+The propellers
+would just eat it up.
+
+
+498
+0:20:9,941 --> 0:20:12,277
+DADDY: I'm looking at Rog,
+and I'm thinking,
+
+
+499
+0:20:12,277 --> 0:20:14,812
+"This is my chance.
+I've got him in my sites,"
+
+
+500
+0:20:14,812 --> 0:20:16,481
+so I pressed the trigger.
+
+
+501
+0:20:16,481 --> 0:20:19,45
+ROG: You got me!
+
+
+502
+0:20:19,45 --> 0:20:20,918
+DADDY: I got Rog.
+
+
+503
+0:20:20,918 --> 0:20:22,52
+Now, he said
+he wasn't gonna get hit,
+
+
+504
+0:20:22,52 --> 0:20:23,721
+and I agreed with him.
+
+
+505
+0:20:23,721 --> 0:20:24,989
+There's no way we'd hit him.
+
+
+506
+0:20:24,989 --> 0:20:26,591
+MICHAEL: Oh, you got him!
+
+
+507
+0:20:26,591 --> 0:20:28,192
+DADDY: And I zapped him
+right in the chest.
+
+
+508
+0:20:28,192 --> 0:20:30,862
+ROG: I'm out!
+
+
+509
+0:20:30,862 --> 0:20:32,463
+LANDRUM: For this next test,
+
+
+510
+0:20:32,463 --> 0:20:34,432
+I'm not so sure they're gonna
+be able to hit their targets
+
+
+511
+0:20:34,432 --> 0:20:36,167
+with these rockets.
+
+
+512
+0:20:36,167 --> 0:20:39,7
+MICHAEL: We're moving towards
+the tanks and the trucks.
+
+
+513
+0:20:39,7 --> 0:20:40,638
+DADDY: Now we're gonna try
+to take out the convoy
+
+
+514
+0:20:40,638 --> 0:20:47,478
+of tanks and trucks
+with our rockets.
+
+
+515
+0:20:47,478 --> 0:20:51,716
+Alright, here we go.
+
+
+516
+0:20:51,716 --> 0:20:54,752
+MICHAEL: Oh, we launched
+the first rocket.
+
+
+517
+0:20:54,752 --> 0:20:57,88
+Daddy: Oh, missed--
+
+
+518
+0:20:57,88 --> 0:20:58,89
+[laughing]
+
+
+519
+0:20:58,89 --> 0:21:0,992
+TRAVIS: Y'all missed it.
+Y'all hit it a little better.
+
+
+520
+0:21:0,992 --> 0:21:7,131
+MICHAEL: That second shot...
+Missed it on the second shot.
+
+
+521
+0:21:7,131 --> 0:21:8,533
+Rog: Oh!
+
+
+522
+0:21:8,533 --> 0:21:10,368
+TRAVIS: There we go! Yeah!
+
+
+523
+0:21:10,368 --> 0:21:11,803
+When they started
+firing off those rockets,
+
+
+524
+0:21:11,803 --> 0:21:13,438
+I wasn't sure if they were
+hitting anything.
+
+
+525
+0:21:13,438 --> 0:21:15,173
+And then I saw
+a big fireball go up,
+
+
+526
+0:21:15,173 --> 0:21:18,309
+so it was clear they hit
+one of the targets.
+
+
+527
+0:21:18,309 --> 0:21:19,711
+MICHAEL: Oh, yeah.
+
+
+528
+0:21:19,711 --> 0:21:21,846
+After I set up the targets,
+I also doused them in gasoline.
+
+
+529
+0:21:21,846 --> 0:21:23,381
+Come on, hit that thing.
+
+
+530
+0:21:23,381 --> 0:21:26,117
+Come on, let me get
+the nose down.
+
+
+531
+0:21:26,117 --> 0:21:27,518
+There you go.
+
+
+532
+0:21:27,518 --> 0:21:33,558
+[laughing and cheering]
+
+
+533
+0:21:33,558 --> 0:21:37,895
+DADDY: Got him!
+PETE: Good job!
+
+
+534
+0:21:37,895 --> 0:21:40,832
+We're bringing this thing home.
+We got all three targets.
+
+
+535
+0:21:40,832 --> 0:21:45,937
+Good shooting.
+MICHAEL: That's incredible.
+
+
+536
+0:21:45,937 --> 0:21:47,905
+DADDY: I figured we'd crash
+and tear it up
+
+
+537
+0:21:47,905 --> 0:21:49,507
+like we'd been doing,
+
+
+538
+0:21:49,507 --> 0:21:51,509
+but we actually got
+the thing back in one piece.
+
+
+539
+0:21:51,509 --> 0:21:52,777
+TRAVIS: Did you get him?
+
+
+540
+0:21:52,777 --> 0:21:54,112
+DADDY: We shot him.
+
+
+541
+0:21:54,112 --> 0:21:55,913
+ROG: Which one of y'all
+shot me, man?
+
+
+542
+0:21:55,913 --> 0:21:57,415
+TRAVIS: Look at that
+right there. Who got him?
+
+
+543
+0:21:57,415 --> 0:21:58,783
+MICHAEL: That was Papaw.
+
+
+544
+0:21:58,783 --> 0:22:1,85
+TRAVIS: That's good shooting,
+Daddy. Look at that!
+
+
+545
+0:22:1,85 --> 0:22:3,154
+LANDRUM: Weaponizing
+a small system like this,
+
+
+546
+0:22:3,154 --> 0:22:5,89
+I really think this is something
+DARPA would be interested in.
+
+
+547
+0:22:5,89 --> 0:22:7,759
+Overall, this was
+just a great test.
+
+
+548
+0:22:7,759 --> 0:22:9,327
+I think it really has
+a lot of promise.
+
+
+549
+0:22:9,327 --> 0:22:11,963
+TRAVIS: Our UAV drone
+worked really well.
+
+
+550
+0:22:11,963 --> 0:22:14,399
+Putting rockets on there
+and a gun was pretty neat.
+
+
+551
+0:22:14,399 --> 0:22:15,4
+So I think there's
+some immediate
+
+
+552
+0:22:15,4 --> 0:22:17,835
+real-world applications
+for our design.
+
+
+553
+0:22:17,835 --> 0:22:19,37
+Hula-hoop taters,
+hula-hoop taters.
+
+
+554
+0:22:19,37 --> 0:22:22,306
+ROG: Right on, right on.
+
+
+555
+0:22:22,306 --> 0:22:25,143
+All this talk about
+real-world applications
+
+
+556
+0:22:25,143 --> 0:22:26,911
+got me to thinking.
+
+
+557
+0:22:26,911 --> 0:22:31,315
+So I took my boys out, and we
+did a little drone fishing.
+
+
+558
+0:22:31,315 --> 0:22:33,551
+Look at that fish!
+
+
+559
+0:22:33,551 --> 0:22:35,42
+He's too little.
+We got to throw him back.
+
+
+560
+0:22:35,42 --> 0:22:37,722
+You want to touch him?
+
+
+561
+0:22:37,722 --> 0:24:37,722
+Okay.
+
+

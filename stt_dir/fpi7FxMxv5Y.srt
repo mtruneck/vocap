@@ -1,0 +1,735 @@
+1
+0:0:0,0 --> 0:0:3,44
+this will show how to work the double crochet
+
+
+2
+0:0:3,44 --> 0:0:5,91
+once you have completed the chain
+
+
+3
+0:0:5,91 --> 0:0:8,34
+wrap the yarn over your hook
+
+
+4
+0:0:8,34 --> 0:0:10,51
+skip three chains
+
+
+5
+0:0:10,51 --> 0:0:14,51
+work the double crochet in the fourth chain
+
+
+6
+0:0:14,51 --> 0:0:16,38
+insert your hook through the chain
+
+
+7
+0:0:16,38 --> 0:0:17,92
+wrap the yarn over, pull it through
+
+
+8
+0:0:17,92 --> 0:0:20,42
+there are three loops on the hook
+
+
+9
+0:0:20,42 --> 0:0:23,66
+wrap the yarn over, pull through two loops
+
+
+10
+0:0:23,66 --> 0:0:27,29
+wrap the yarn over, pull through two loops
+
+
+11
+0:0:27,29 --> 0:0:30,9
+you have completed your first double crochet
+
+
+12
+0:0:30,9 --> 0:0:34,17
+the beginning chain three will count as the first stitch
+
+
+13
+0:0:34,17 --> 0:0:35,97
+that is something to keep in mind
+
+
+14
+0:0:35,97 --> 0:0:38,64
+when you come back round on row two
+
+
+15
+0:0:38,64 --> 0:0:40,77
+you will need to work a double crochet
+
+
+16
+0:0:40,77 --> 0:0:42,24
+in top of the chain three
+
+
+17
+0:0:42,24 --> 0:0:45,21
+so your stitch count is even on each row
+
+
+18
+0:0:45,21 --> 0:0:48,45
+to work the next stitch, wrap the yarn over your hook
+
+
+19
+0:0:48,45 --> 0:0:50,58
+put it through the next chain
+
+
+20
+0:0:50,58 --> 0:0:53,62
+wrap the yarn over the hook, pull it through
+
+
+21
+0:0:53,62 --> 0:0:57,69
+wrap the yarn over the hook, pull through two loops
+
+
+22
+0:0:57,69 --> 0:1:1,2
+wrap the yarn over the hook, pull through two loops
+
+
+23
+0:1:1,2 --> 0:1:3,73
+that completes the next double crochet
+
+
+24
+0:1:3,73 --> 0:1:6,3
+wrap the yarn over your hook
+
+
+25
+0:1:6,3 --> 0:1:8,5
+insert the hook through the next chain
+
+
+26
+0:1:8,5 --> 0:1:11,24
+wrap the yarn over, pull it through
+
+
+27
+0:1:11,24 --> 0:1:14,47
+wrap the yarn over, pull through two loops
+
+
+28
+0:1:14,47 --> 0:1:18,15
+wrap the yarn over your hook, pull through two loops
+
+
+29
+0:1:18,15 --> 0:1:21,88
+working the next double crochet, wrap the yarn over your hook
+
+
+30
+0:1:21,88 --> 0:1:29,66
+put the hook through the next chain
+
+
+31
+0:1:29,66 --> 0:1:48,77
+wrap the yarn over the hook, pull it through, there are three loops on the hook
+
+
+32
+0:1:48,77 --> 0:2:9,1
+wrap the yarn over, pull through two loops
+
+
+33
+0:2:9,1 --> 0:2:22,54
+wrap the yarn over, pull through two loops
+
+
+34
+0:2:22,54 --> 0:2:29,58
+wrap the yarn over your hook
+
+
+35
+0:2:29,58 --> 0:2:37,62
+put the hook through the next chain
+
+
+36
+0:2:37,62 --> 0:2:47,4
+wrap the yarn over, pull it through
+
+
+37
+0:2:47,4 --> 0:2:49,5
+there are three loops on the hook
+
+
+38
+0:2:49,5 --> 0:3:1,65
+wrap the yarn over, pull through two loops
+
+
+39
+0:3:1,65 --> 0:3:14,96
+wrap the yarn over, pull through two loops, to complete the double crochet
+
+
+40
+0:3:14,96 --> 0:3:18,7
+the next few stitches will be worked in slow motion
+
+
+41
+0:3:18,7 --> 0:3:20,73
+there will be no sound
+
+
+42
+0:3:20,73 --> 0:3:31,28
+wrap the yarn over your hook 
+
+
+43
+0:3:31,28 --> 0:3:38,52
+put your hook through the next chain
+
+
+44
+0:3:38,52 --> 0:3:46,36
+wrap the yarn over, pull through the chain
+
+
+45
+0:3:46,36 --> 0:3:49,16
+wrap the yarn over your hook
+
+
+46
+0:3:49,16 --> 0:3:58,24
+pull through two loops
+
+
+47
+0:3:58,24 --> 0:4:7,58
+wrap the yarn over
+
+
+48
+0:4:7,58 --> 0:4:12,79
+pull through two loops
+
+
+49
+0:4:12,79 --> 0:4:15,99
+that completes the double crochet
+
+
+50
+0:4:15,99 --> 0:4:20,56
+wrap the yarn over your hook
+
+
+51
+0:4:20,56 --> 0:4:27,57
+insert the hook through the next chain
+
+
+52
+0:4:27,57 --> 0:4:34,84
+wrap the yarn over, pull through the chain
+
+
+53
+0:4:34,84 --> 0:4:39,55
+wrap the yarn over the hook
+
+
+54
+0:4:39,55 --> 0:4:47,92
+pull through two loops
+
+
+55
+0:4:47,92 --> 0:4:50,86
+wrap the yarn over the hook
+
+
+56
+0:4:50,86 --> 0:4:55,56
+pull the yarn through two loops
+
+
+57
+0:4:55,56 --> 0:5:0,6
+that completes the double crochet
+
+
+58
+0:5:0,6 --> 0:5:3,64
+wrap the yarn over your hook
+
+
+59
+0:5:3,64 --> 0:5:13,8
+put the hook through the next chain
+
+
+60
+0:5:13,8 --> 0:5:14,41
+wrap the yarn over the hook
+
+
+61
+0:5:14,41 --> 0:5:17,75
+pull through the chain
+
+
+62
+0:5:17,75 --> 0:5:20,19
+wrap the yarn over the hook
+
+
+63
+0:5:20,19 --> 0:5:25,99
+pull through two loops
+
+
+64
+0:5:25,99 --> 0:5:28,36
+wrap the yarn over
+
+
+65
+0:5:28,36 --> 0:5:36,24
+pull through two loops
+
+
+66
+0:5:36,24 --> 0:5:39,17
+that completes the double crochet
+
+
+67
+0:5:39,17 --> 0:5:41,58
+we are at the last chain
+
+
+68
+0:5:41,58 --> 0:5:46,55
+working the last double crochet
+
+
+69
+0:5:46,55 --> 0:5:49,15
+of this row
+
+
+70
+0:5:49,15 --> 0:5:51,65
+this is what it looks like
+
+
+71
+0:5:51,65 --> 0:5:54,2
+we have ten double crochet
+
+
+72
+0:5:54,2 --> 0:5:58,96
+this includes the beginning chain three, which will count as a stitch
+
+
+73
+0:5:58,96 --> 0:6:2,2
+working a chain three
+
+
+74
+0:6:2,2 --> 0:6:5,5
+this is the technique that is taught by many of the books
+
+
+75
+0:6:5,5 --> 0:6:9,5
+I do have other tutorials with variations 
+
+
+76
+0:6:9,5 --> 0:6:12,67
+showing how to work the step up, to the next row
+
+
+77
+0:6:12,67 --> 0:6:17,48
+sometimes the chain may not give the edge a very neat appearance
+
+
+78
+0:6:17,48 --> 0:6:19,88
+which is why you may want to use something different
+
+
+79
+0:6:19,88 --> 0:6:22,88
+working the first double crochet
+
+
+80
+0:6:22,88 --> 0:6:24,42
+wrap the yarn over the hook
+
+
+81
+0:6:24,42 --> 0:6:30,69
+put the hook below the two loops at the top of the stitch
+
+
+82
+0:6:30,69 --> 0:6:32,36
+just like that
+
+
+83
+0:6:32,36 --> 0:6:34,9
+wrap the yarn over, pull it through
+
+
+84
+0:6:34,9 --> 0:6:37,3
+there are three loops on the hook, wrap the yarn over
+
+
+85
+0:6:37,3 --> 0:6:40,23
+pull through two loops, then two loops 
+
+
+86
+0:6:40,23 --> 0:6:41,8
+this is what it looks like
+
+
+87
+0:6:41,8 --> 0:6:43,8
+wrap the yarn over the hook
+
+
+88
+0:6:43,8 --> 0:6:47,24
+put it below the two loops at the top of the stitch
+
+
+89
+0:6:47,24 --> 0:6:50,68
+wrap the yarn over, pull it through, there are three loops on the hook 
+
+
+90
+0:6:50,68 --> 0:6:54,61
+wrap the yarn over, pull through two loops
+
+
+91
+0:6:54,61 --> 0:6:57,85
+wrap the yarn over the hook, pull through two loops
+
+
+92
+0:6:57,85 --> 0:7:0,15
+wrap the yarn over the hook 
+
+
+93
+0:7:0,15 --> 0:7:3,59
+put the hook below the two loops at the top of the stitch
+
+
+94
+0:7:3,59 --> 0:7:9,8
+wrap the yarn over, pull through, there are three loops on the hook
+
+
+95
+0:7:9,8 --> 0:7:13,54
+wrap the yarn over, pull through two loops
+
+
+96
+0:7:13,54 --> 0:7:17,54
+wrap the yarn over, pull through two loops
+
+
+97
+0:7:17,54 --> 0:7:21,57
+I will work the next few stitches in slow motion
+
+
+98
+0:7:21,57 --> 0:7:23,58
+so there will be no sound
+
+
+99
+0:7:23,58 --> 0:7:27,35
+wrap the yarn over your hook
+
+
+100
+0:7:27,35 --> 0:7:33,62
+put your hook below the two loops at the top of the next stitch
+
+
+101
+0:7:33,62 --> 0:7:36,6
+wrap the yarn over your hook 
+
+
+102
+0:7:36,6 --> 0:7:40,76
+pull the yarn through
+
+
+103
+0:7:40,76 --> 0:7:43,0
+there are three loops on the hook
+
+
+104
+0:7:43,0 --> 0:7:45,8
+wrap the yarn over your hook
+
+
+105
+0:7:45,8 --> 0:7:51,71
+pull through two loops
+
+
+106
+0:7:51,71 --> 0:7:54,27
+wrap the yarn over your hook
+
+
+107
+0:7:54,27 --> 0:8:0,21
+pull through two loops
+
+
+108
+0:8:0,21 --> 0:8:3,8
+that completes the double crochet
+
+
+109
+0:8:3,8 --> 0:8:7,5
+wrap the yarn over your crochet hook
+
+
+110
+0:8:7,5 --> 0:8:11,79
+put your hook below the two loops at the top of the stitch
+
+
+111
+0:8:11,79 --> 0:8:17,23
+wrap the yarn over, pull through the stitch
+
+
+112
+0:8:17,23 --> 0:8:19,57
+wrap the yarn over the hook
+
+
+113
+0:8:19,57 --> 0:8:24,27
+pull through two loops
+
+
+114
+0:8:24,27 --> 0:8:26,64
+wrap the yarn over your hook
+
+
+115
+0:8:26,64 --> 0:8:31,28
+pull through two loops
+
+
+116
+0:8:31,28 --> 0:8:35,22
+wrap the yarn over your hook
+
+
+117
+0:8:35,22 --> 0:8:41,39
+put your hook through the next stitch
+
+
+118
+0:8:41,39 --> 0:8:47,9
+wrap the yarn over, pull through
+
+
+119
+0:8:47,9 --> 0:8:53,33
+wrap the yarn over, pull through two 
+
+
+120
+0:8:53,33 --> 0:9:2,88
+wrap the yarn over, pull through two
+
+
+121
+0:9:2,88 --> 0:9:9,18
+wrap the yarn over your hook
+
+
+122
+0:9:9,18 --> 0:9:16,39
+insert your hook through the next stitch
+
+
+123
+0:9:16,39 --> 0:9:23,3
+wrap the yarn over the hook, pull through
+
+
+124
+0:9:23,3 --> 0:9:29,7
+wrap the yarn over the hook, pull through two loops
+
+
+125
+0:9:29,7 --> 0:9:37,14
+wrap the yarn over the hook, pull through two loops
+
+
+126
+0:9:37,14 --> 0:9:41,21
+wrap the yarn over your hook
+
+
+127
+0:9:41,21 --> 0:9:46,59
+put your hook through the next stitch
+
+
+128
+0:9:46,59 --> 0:9:50,89
+wrap the yarn over, pull through the stitch
+
+
+129
+0:9:50,89 --> 0:9:56,73
+wrap the yarn over, pull through two loops
+
+
+130
+0:9:56,73 --> 0:10:10,14
+wrap the yarn over, pull through two loops
+
+
+131
+0:10:10,14 --> 0:10:15,35
+we are at the edge, working the last double crochet
+
+
+132
+0:10:15,35 --> 0:10:17,78
+this is working in the top of the chain
+
+
+133
+0:10:17,78 --> 0:10:20,42
+when you look at the chain
+
+
+134
+0:10:20,42 --> 0:10:22,76
+there are two loops at the top of the chain
+
+
+135
+0:10:22,76 --> 0:10:25,33
+one loop on the back side
+
+
+136
+0:10:25,33 --> 0:10:30,26
+I like to put my hook below the two loops
+
+
+137
+0:10:30,26 --> 0:10:32,53
+at the top of the chain
+
+
+138
+0:10:32,53 --> 0:10:41,17
+the one loop is at the back side
+
+
+139
+0:10:41,17 --> 0:10:45,45
+wrap the yarn over, pull it through
+
+
+140
+0:10:45,45 --> 0:10:50,72
+complete the double crochet
+
+
+141
+0:10:50,72 --> 0:10:53,35
+and it goes through the chain, just like that
+
+
+142
+0:10:53,35 --> 0:11:1,3
+work a chain three
+
+
+143
+0:11:1,3 --> 0:11:3,3
+turn
+
+
+144
+0:11:3,3 --> 0:12:55,28
+continue working the double crochet
+
+
+145
+0:12:55,28 --> 0:12:57,95
+working the last stitch on the edge
+
+
+146
+0:12:57,95 --> 0:13:9,5
+working the double crochet the same as the previous row
+
+
+147
+0:13:9,5 --> 0:15:9,5
+that completes the double crochet
+
+

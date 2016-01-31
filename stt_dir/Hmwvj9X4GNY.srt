@@ -1,0 +1,2602 @@
+1
+0:0:0,0 --> 0:0:0,4
+
+
+
+2
+0:0:0,4 --> 0:0:3,67
+Let's talk a little bit about
+the structure of the cell.
+
+
+3
+0:0:3,67 --> 0:0:6,48
+I've done a lot of videos where
+we deal with things that
+
+
+4
+0:0:6,48 --> 0:0:8,56
+go on inside of them, but I
+haven't done one where we just
+
+
+5
+0:0:8,56 --> 0:0:10,87
+talk about the entire
+structure of them.
+
+
+6
+0:0:10,87 --> 0:0:14,5
+So a good place to start is--
+let me just draw the membrane.
+
+
+7
+0:0:14,5 --> 0:0:17,85
+And the cellular membrane is a
+good place to start because
+
+
+8
+0:0:17,85 --> 0:0:20,78
+this is what separates the cell
+from the outside world,
+
+
+9
+0:0:20,78 --> 0:0:24,2
+and to a large degree, it kind
+of defines the cell.
+
+
+10
+0:0:24,2 --> 0:0:27,2
+It defines it as this very,
+very small compartment.
+
+
+11
+0:0:27,2 --> 0:0:29,22
+That's where the word,
+"cell" came from.
+
+
+12
+0:0:29,22 --> 0:0:30,87
+So let me label that.
+
+
+13
+0:0:30,87 --> 0:0:35,39
+Cellular membrane.
+
+
+14
+0:0:35,39 --> 0:0:39,57
+And all cells have a
+cellular membrane.
+
+
+15
+0:0:39,57 --> 0:0:45,49
+Now if we think about maybe the
+most important thing that
+
+
+16
+0:0:45,49 --> 0:0:48,59
+defines a cell, you've probably
+seen in the DNA
+
+
+17
+0:0:48,59 --> 0:0:50,68
+videos and we're going to talk
+about translation and
+
+
+18
+0:0:50,68 --> 0:0:53,3
+transcription and all of that,
+that what defines what a
+
+
+19
+0:0:53,3 --> 0:0:55,44
+living organism is,
+is its DNA.
+
+
+20
+0:0:55,44 --> 0:0:57,57
+So all cells have DNA
+inside of it.
+
+
+21
+0:0:57,57 --> 0:1:0,27
+And I won't go into the details
+of how DNA defines
+
+
+22
+0:1:0,27 --> 0:1:1,15
+what an organism is.
+
+
+23
+0:1:1,15 --> 0:1:3,58
+I've done that in some detail
+on the DNA videos.
+
+
+24
+0:1:3,58 --> 0:1:5,19
+But all cells have DNA.
+
+
+25
+0:1:5,19 --> 0:1:9,15
+This is more of an anatomy of a
+cell video than necessarily
+
+
+26
+0:1:9,15 --> 0:1:11,2
+the function, but we'll go into
+the function because we
+
+
+27
+0:1:11,2 --> 0:1:12,78
+need to know what these
+different parts do.
+
+
+28
+0:1:12,78 --> 0:1:16,61
+So this is, right here,
+this is the DNA.
+
+
+29
+0:1:16,61 --> 0:1:18,39
+And it's in its chromatin
+form here.
+
+
+30
+0:1:18,39 --> 0:1:21,19
+There's also little
+proteins here.
+
+
+31
+0:1:21,19 --> 0:1:23,17
+Not in all organisms, but
+we're going to stick to
+
+
+32
+0:1:23,17 --> 0:1:25,0
+eukaryotes, and I'll talk
+a little bit about the
+
+
+33
+0:1:25,0 --> 0:1:28,635
+difference between eukaryotes
+and prokaryotes in a second.
+
+
+34
+0:1:28,635 --> 0:1:29,94
+But we have DNA.
+
+
+35
+0:1:29,94 --> 0:1:33,39
+As I've drawn this cell right
+now, this is pretty much any
+
+
+36
+0:1:33,39 --> 0:1:37,81
+cell, and any animal or plant
+or whatever kingdom
+
+
+37
+0:1:37,81 --> 0:1:38,84
+could look like this.
+
+
+38
+0:1:38,84 --> 0:1:40,3
+I haven't drawn a lot
+of the details.
+
+
+39
+0:1:40,3 --> 0:1:43,27
+I've just drawn the DNA and
+the cellular membrane.
+
+
+40
+0:1:43,27 --> 0:1:47,46
+Now here's kind of the first
+major division in the living
+
+
+41
+0:1:47,46 --> 0:1:52,43
+world, or at least from our
+point of view, or it seemed
+
+
+42
+0:1:52,43 --> 0:1:54,56
+obvious, is that some
+cells have a
+
+
+43
+0:1:54,56 --> 0:1:58,33
+membrane around the DNA.
+
+
+44
+0:1:58,33 --> 0:2:1,97
+So they'll have a membrane
+around the DNA that separates
+
+
+45
+0:2:1,97 --> 0:2:5,1
+the DNA and the chromatin and
+everything that makes up the
+
+
+46
+0:2:5,1 --> 0:2:8,9
+stuff within the DNA, separates
+that from the rest
+
+
+47
+0:2:8,9 --> 0:2:11,13
+of the cell, and this
+is called a nucleus.
+
+
+48
+0:2:11,13 --> 0:2:14,92
+This is called a nucleus.
+
+
+49
+0:2:14,92 --> 0:2:17,67
+And I said that's a major
+division because when some
+
+
+50
+0:2:17,67 --> 0:2:19,77
+people looked at some cells
+and they saw a nucleus and
+
+
+51
+0:2:19,77 --> 0:2:21,78
+other cells and they didn't see
+a nucleus, they said, hey,
+
+
+52
+0:2:21,78 --> 0:2:25,21
+this is a good way to classify
+organisms. So they called the
+
+
+53
+0:2:25,21 --> 0:2:27,48
+things that had nucleuses,
+eukaryotes.
+
+
+54
+0:2:27,48 --> 0:2:30,47
+
+
+
+55
+0:2:30,47 --> 0:2:32,15
+These have a nucleus.
+
+
+56
+0:2:32,15 --> 0:2:36,95
+So as I've drawn this cell right
+here, it is a eukaryote.
+
+
+57
+0:2:36,95 --> 0:2:40,35
+Now, if you do not have a
+nucleus, you are dealing with
+
+
+58
+0:2:40,35 --> 0:2:41,6
+a prokaryote.
+
+
+59
+0:2:41,6 --> 0:2:44,18
+
+
+
+60
+0:2:44,18 --> 0:2:48,44
+No nucleus.
+
+
+61
+0:2:48,44 --> 0:2:52,32
+And examples of prokaryotes,
+the two big groups of them,
+
+
+62
+0:2:52,32 --> 0:2:57,11
+are bacteria and Archaea.
+
+
+63
+0:2:57,11 --> 0:2:58,2
+Now, Archaea are really
+interesting.
+
+
+64
+0:2:58,2 --> 0:3:0,9
+We know very little
+about them.
+
+
+65
+0:3:0,9 --> 0:3:4,19
+They were originally thought to
+be types of bacteria, but
+
+
+66
+0:3:4,19 --> 0:3:6,77
+now people are realizing that
+they're this whole completely
+
+
+67
+0:3:6,77 --> 0:3:10,87
+other group, and we've actually
+observed a very small
+
+
+68
+0:3:10,87 --> 0:3:13,5
+subset of them, so it's a
+very fascinating group.
+
+
+69
+0:3:13,5 --> 0:3:16,4
+And it actually turns out that,
+evolutionarily speaking,
+
+
+70
+0:3:16,4 --> 0:3:18,3
+you shouldn't make this division
+first. It actually
+
+
+71
+0:3:18,3 --> 0:3:21,8
+makes more sense to divide
+things into eukaryotes, I'll
+
+
+72
+0:3:21,8 --> 0:3:27,1
+just write that Euk, bacteria
+and Archaea.
+
+
+73
+0:3:27,1 --> 0:3:29,23
+You don't want to do this
+division first. There are
+
+
+74
+0:3:29,23 --> 0:3:31,37
+actually three separate
+groups that you want
+
+
+75
+0:3:31,37 --> 0:3:33,79
+to start off with.
+
+
+76
+0:3:33,79 --> 0:3:35,84
+We'll talk more about this
+in future videos.
+
+
+77
+0:3:35,84 --> 0:3:37,28
+But if you want to say
+who has a nucleus?
+
+
+78
+0:3:37,28 --> 0:3:40,11
+Well, eukaryotes have a
+nucleus by definition.
+
+
+79
+0:3:40,11 --> 0:3:41,67
+Who does not have a nucleus?
+
+
+80
+0:3:41,67 --> 0:3:46,11
+Well, the bacteria and the
+Archaea do not have nuclei,
+
+
+81
+0:3:46,11 --> 0:3:46,74
+just like that.
+
+
+82
+0:3:46,74 --> 0:3:49,78
+But I'm going to focus on
+eukaryotes because they tend
+
+
+83
+0:3:49,78 --> 0:3:51,5
+to be a little bit
+more complex.
+
+
+84
+0:3:51,5 --> 0:3:53,7
+They tend to be larger.
+
+
+85
+0:3:53,7 --> 0:3:55,72
+And most of what we talk about,
+at least in the videos
+
+
+86
+0:3:55,72 --> 0:3:57,81
+so far, are dealing
+with eukaryotes.
+
+
+87
+0:3:57,81 --> 0:4:2,84
+Eukaryotes include plants,
+animals-- we're animals, at
+
+
+88
+0:4:2,84 --> 0:4:8,68
+least I am-- animals and fungi,
+and there are other
+
+
+89
+0:4:8,68 --> 0:4:11,2
+groups within eukaryotes, but
+these are the ones that we
+
+
+90
+0:4:11,2 --> 0:4:14,29
+normally deal with in
+our everyday world.
+
+
+91
+0:4:14,29 --> 0:4:16,829
+But let's go back to looking
+at the anatomy of the cell.
+
+
+92
+0:4:16,829 --> 0:4:18,0
+So we have our DNA.
+
+
+93
+0:4:18,0 --> 0:4:21,839
+We know that it gets transcribed
+into mRNA, That
+
+
+94
+0:4:21,839 --> 0:4:29,54
+mRNA leaves the nucleus, and
+it gets translated into
+
+
+95
+0:4:29,54 --> 0:4:32,39
+proteins at the ribosomes.
+
+
+96
+0:4:32,39 --> 0:4:36,53
+So the ribosomes are these
+little complexes that could be
+
+
+97
+0:4:36,53 --> 0:4:38,78
+floating all over the cell, and
+we'll see in a second that
+
+
+98
+0:4:38,78 --> 0:4:41,43
+they can also be attached
+to these other membrane
+
+
+99
+0:4:41,43 --> 0:4:42,28
+structures.
+
+
+100
+0:4:42,28 --> 0:4:43,53
+So this is a ribosome.
+
+
+101
+0:4:43,53 --> 0:4:47,56
+
+
+
+102
+0:4:47,56 --> 0:4:51,59
+And if all this talk of DNA
+transcription into mRNA and
+
+
+103
+0:4:51,59 --> 0:4:55,0
+mRNA leaving the nucleus and
+traveling to the ribosome to
+
+
+104
+0:4:55,0 --> 0:4:58,71
+be translated into proteins
+makes no sense to you, there
+
+
+105
+0:4:58,71 --> 0:5:0,72
+are several videos where I
+go into that in detail.
+
+
+106
+0:5:0,72 --> 0:5:2,66
+But what I want to do is just
+focus on all of the different
+
+
+107
+0:5:2,66 --> 0:5:4,82
+parts to kind of give a
+big picture of things.
+
+
+108
+0:5:4,82 --> 0:5:11,59
+So ribosomes are where mRNA that
+gets transcribed inside
+
+
+109
+0:5:11,59 --> 0:5:18,75
+the nucleus from DNA, where it
+gets translated into proteins.
+
+
+110
+0:5:18,75 --> 0:5:21,58
+So you can kind of view them as
+the place where information
+
+
+111
+0:5:21,58 --> 0:5:24,72
+actually turns into proteins,
+which then can be used
+
+
+112
+0:5:24,72 --> 0:5:27,5
+anywhere else in the cell.
+
+
+113
+0:5:27,5 --> 0:5:30,16
+And these ribosomes, they're
+made up of proteins, and
+
+
+114
+0:5:30,16 --> 0:5:33,3
+actually they're made up RNA.
+
+
+115
+0:5:33,3 --> 0:5:36,0
+And so one question is, well,
+where are the pieces of the
+
+
+116
+0:5:36,0 --> 0:5:37,8
+ribosomes made?
+
+
+117
+0:5:37,8 --> 0:5:39,19
+Well, some are made by proteins,
+which might be made
+
+
+118
+0:5:39,19 --> 0:5:40,6
+in other ribosomes.
+
+
+119
+0:5:40,6 --> 0:5:43,36
+But some of it, the mRNA,
+ribosomes, you can kind of
+
+
+120
+0:5:43,36 --> 0:5:46,77
+view them as this big
+mess, if you were to
+
+
+121
+0:5:46,77 --> 0:5:47,98
+look at it in detail.
+
+
+122
+0:5:47,98 --> 0:5:49,9
+There's some protein there.
+
+
+123
+0:5:49,9 --> 0:5:51,72
+And I'm not drawing it that
+realistically, but then you
+
+
+124
+0:5:51,72 --> 0:5:55,13
+have some mRNA tied in with
+the protein, and the mRNA
+
+
+125
+0:5:55,13 --> 0:5:58,49
+isn't used for actual
+information purposes like it
+
+
+126
+0:5:58,49 --> 0:6:1,6
+normally is when it goes from
+DNA to the ribosome.
+
+
+127
+0:6:1,6 --> 0:6:5,77
+Within the ribosome itself,
+ribosomal RNA is actually used
+
+
+128
+0:6:5,77 --> 0:6:6,89
+as part of the structure.
+
+
+129
+0:6:6,89 --> 0:6:10,48
+It actually helps the ribosome
+function as a ribosome.
+
+
+130
+0:6:10,48 --> 0:6:12,42
+So it's actually part
+of the ribosome.
+
+
+131
+0:6:12,42 --> 0:6:20,6
+And all of that gets built in
+a part of the nucleus called
+
+
+132
+0:6:20,6 --> 0:6:22,96
+the nucleolus or the nucleole.
+
+
+133
+0:6:22,96 --> 0:6:26,7
+Let me write that down.
+
+
+134
+0:6:26,7 --> 0:6:28,97
+So this right here, this is
+interesting right here.
+
+
+135
+0:6:28,97 --> 0:6:34,68
+This is the nucleolus
+or the nucleole.
+
+
+136
+0:6:34,68 --> 0:6:36,86
+And it isn't a separate
+organelle, and it's not
+
+
+137
+0:6:36,86 --> 0:6:39,55
+separated by a membrane, but it
+shows up in a microscope.
+
+
+138
+0:6:39,55 --> 0:6:41,13
+So when people first saw it,
+they said, hey, there's like a
+
+
+139
+0:6:41,13 --> 0:6:41,98
+bundle there.
+
+
+140
+0:6:41,98 --> 0:6:45,21
+That must be like the core of
+the nucleus or something.
+
+
+141
+0:6:45,21 --> 0:6:47,92
+But it turns out what it is,
+it's the densely packed--
+
+
+142
+0:6:47,92 --> 0:6:50,19
+you've got DNA and RNA, and
+that's actually where the
+
+
+143
+0:6:50,19 --> 0:6:54,24
+ribosomal RNA, the stuff that
+makes up the ribosomes, is
+
+
+144
+0:6:54,24 --> 0:6:55,2
+actually produced.
+
+
+145
+0:6:55,2 --> 0:6:57,82
+But it's so dense that it shows
+up on a microscope, and
+
+
+146
+0:6:57,82 --> 0:7:0,8
+that's why people decided to
+name it something different.
+
+
+147
+0:7:0,8 --> 0:7:1,51
+But it is not membrane bound.
+
+
+148
+0:7:1,51 --> 0:7:3,96
+It's not an organelle
+within an organelle.
+
+
+149
+0:7:3,96 --> 0:7:8,9
+It's just densely packed
+proteins and ribosomal RNA,
+
+
+150
+0:7:8,9 --> 0:7:11,55
+and it's where ribosomal
+RNA gets produced.
+
+
+151
+0:7:11,55 --> 0:7:13,62
+So anyway, we're at
+the ribosome.
+
+
+152
+0:7:13,62 --> 0:7:15,4
+That's where proteins
+get produced.
+
+
+153
+0:7:15,4 --> 0:7:18,3
+But if the ribosomes are just
+floating around, if they're
+
+
+154
+0:7:18,3 --> 0:7:21,34
+free ribosomes, then those
+proteins will just-- once
+
+
+155
+0:7:21,34 --> 0:7:23,43
+they're produced at the
+ribosome, they'll just float
+
+
+156
+0:7:23,43 --> 0:7:25,59
+around here in the fluid
+inside the cell
+
+
+157
+0:7:25,59 --> 0:7:26,84
+that we call cytosol.
+
+
+158
+0:7:26,84 --> 0:7:29,19
+
+
+
+159
+0:7:29,19 --> 0:7:32,83
+But what if we wanted to produce
+proteins that are
+
+
+160
+0:7:32,83 --> 0:7:36,95
+supposed to end up, maybe in the
+membrane of the cell, or
+
+
+161
+0:7:36,95 --> 0:7:39,85
+maybe outside of the
+cell itself?
+
+
+162
+0:7:39,85 --> 0:7:41,97
+Cells produce things that are
+used by other cells, that are
+
+
+163
+0:7:41,97 --> 0:7:43,45
+used by the rest of the body.
+
+
+164
+0:7:43,45 --> 0:7:47,44
+And here we have to go to
+proteins that are attached to
+
+
+165
+0:7:47,44 --> 0:7:48,22
+this membrane.
+
+
+166
+0:7:48,22 --> 0:7:50,58
+You can kind of view it
+as a bunch of tunnels.
+
+
+167
+0:7:50,58 --> 0:7:52,88
+Let me see how well
+I can draw that.
+
+
+168
+0:7:52,88 --> 0:7:55,13
+I'm going to draw
+it very roughly.
+
+
+169
+0:7:55,13 --> 0:7:58,67
+You have this thing called the
+endoplasmic reticulum.
+
+
+170
+0:7:58,67 --> 0:7:59,92
+Endoplasmic reticulum.
+
+
+171
+0:7:59,92 --> 0:8:1,99
+
+
+
+172
+0:8:1,99 --> 0:8:6,21
+You can just view it as a bunch
+of tunnels like that.
+
+
+173
+0:8:6,21 --> 0:8:7,46
+Endoplasmic reticulum.
+
+
+174
+0:8:7,46 --> 0:8:9,47
+
+
+
+175
+0:8:9,47 --> 0:8:13,14
+And they eventually lead to
+something called Golgi bodies,
+
+
+176
+0:8:13,14 --> 0:8:15,73
+named after Mr. Golgi himself.
+
+
+177
+0:8:15,73 --> 0:8:18,11
+So I'll do the endoplasmic
+reticulum in yellow and I'll
+
+
+178
+0:8:18,11 --> 0:8:23,52
+do the Golgi bodies in green
+maybe, just like that.
+
+
+179
+0:8:23,52 --> 0:8:25,34
+I'll tell you in a second
+what they are.
+
+
+180
+0:8:25,34 --> 0:8:26,17
+So what's going on?
+
+
+181
+0:8:26,17 --> 0:8:30,2
+This is kind of a big kind of
+stack, or you can kind of view
+
+
+182
+0:8:30,2 --> 0:8:32,25
+it as a bunch of folded
+membranes together.
+
+
+183
+0:8:32,25 --> 0:8:36,39
+And some ribosomes are actually
+attached to this
+
+
+184
+0:8:36,39 --> 0:8:38,84
+part, which I call the
+endoplasmic reticulum.
+
+
+185
+0:8:38,84 --> 0:8:42,88
+So we have ribosomes attached.
+
+
+186
+0:8:42,88 --> 0:8:45,4
+Some of them are free, some
+of them are attached.
+
+
+187
+0:8:45,4 --> 0:8:47,6
+And let me write
+my labels down.
+
+
+188
+0:8:47,6 --> 0:8:51,54
+So this right here, and we use
+the space over here, this big
+
+
+189
+0:8:51,54 --> 0:8:55,43
+flap of convoluted
+membrane, that's
+
+
+190
+0:8:55,43 --> 0:8:56,68
+the endoplasmic reticulum.
+
+
+191
+0:8:56,68 --> 0:9:2,206
+
+
+
+192
+0:9:2,206 --> 0:9:4,2
+It's fun to say.
+
+
+193
+0:9:4,2 --> 0:9:5,66
+Endoplasmic reticulum.
+
+
+194
+0:9:5,66 --> 0:9:8,51
+Maybe a good name for a band.
+
+
+195
+0:9:8,51 --> 0:9:11,78
+Endoplasmic reticulum, and the
+parts that have ribosomes
+
+
+196
+0:9:11,78 --> 0:9:14,86
+attached to it are called the
+rough endoplasmic reticulum.
+
+
+197
+0:9:14,86 --> 0:9:17,14
+Maybe even a better
+name for a band.
+
+
+198
+0:9:17,14 --> 0:9:21,75
+So right here, where I have
+attached ribosomes, so these
+
+
+199
+0:9:21,75 --> 0:9:24,77
+ribosomes are attached right
+here, this is the rough
+
+
+200
+0:9:24,77 --> 0:9:28,64
+endoplasmic reticulum, or
+maybe the rough ER.
+
+
+201
+0:9:28,64 --> 0:9:35,41
+The rough ER, ER standing for
+endoplasmic reticulum.
+
+
+202
+0:9:35,41 --> 0:9:38,21
+And then where we don't have any
+ribosomes attached, that's
+
+
+203
+0:9:38,21 --> 0:9:41,53
+the smooth endoplasmic
+reticulum.
+
+
+204
+0:9:41,53 --> 0:9:48,7
+So right here, that is this
+smooth endoplasmic reticulum.
+
+
+205
+0:9:48,7 --> 0:9:50,34
+And I'm going to tell you in a
+second what this is, but we
+
+
+206
+0:9:50,34 --> 0:9:51,87
+can keep following
+the membranes.
+
+
+207
+0:9:51,87 --> 0:9:53,49
+Eventually we get the
+Golgi bodies.
+
+
+208
+0:9:53,49 --> 0:9:57,65
+
+
+
+209
+0:9:57,65 --> 0:9:59,5
+And what happens is,
+I gave you a hint.
+
+
+210
+0:9:59,5 --> 0:10:2,43
+In our free ribosomes, mRNA gets
+there, gets translated
+
+
+211
+0:10:2,43 --> 0:10:4,61
+into proteins, and the proteins
+then just float
+
+
+212
+0:10:4,61 --> 0:10:6,36
+around in the cytosol.
+
+
+213
+0:10:6,36 --> 0:10:8,93
+But what if we want proteins
+that should end up in
+
+
+214
+0:10:8,93 --> 0:10:11,19
+membranes or that end up
+outside of the cell?
+
+
+215
+0:10:11,19 --> 0:10:14,0
+And that's where the endoplasmic
+reticulum and the
+
+
+216
+0:10:14,0 --> 0:10:15,89
+Golgi bodies come into play.
+
+
+217
+0:10:15,89 --> 0:10:20,68
+Because now what we can do is,
+we have mRNA coming outside of
+
+
+218
+0:10:20,68 --> 0:10:24,56
+the nucleus, and it can attach
+to the ribosomes or it can be
+
+
+219
+0:10:24,56 --> 0:10:27,69
+translated by the ribosomes
+in the rough ER.
+
+
+220
+0:10:27,69 --> 0:10:30,19
+And what happens here is your
+mRNA comes here and it's
+
+
+221
+0:10:30,19 --> 0:10:32,24
+getting-- and I drew that
+arrow very small-- it's
+
+
+222
+0:10:32,24 --> 0:10:34,725
+getting translated on the
+outside of the endoplasmic
+
+
+223
+0:10:34,725 --> 0:10:38,94
+reticulum, but as the protein
+gets produced, it's getting
+
+
+224
+0:10:38,94 --> 0:10:42,66
+pushed into the inside of the
+endoplasmic reticulum.
+
+
+225
+0:10:42,66 --> 0:10:44,95
+And when I say the inside of the
+endoplasmic reticulum, I'm
+
+
+226
+0:10:44,95 --> 0:10:46,59
+talking about this area.
+
+
+227
+0:10:46,59 --> 0:10:47,47
+I'm coloring it in.
+
+
+228
+0:10:47,47 --> 0:10:51,3
+This is the inside of the
+endoplasmic reticulum.
+
+
+229
+0:10:51,3 --> 0:10:53,7
+And so the proteins will
+get pushed into
+
+
+230
+0:10:53,7 --> 0:10:54,44
+the endoplasmic reticulum.
+
+
+231
+0:10:54,44 --> 0:10:57,4
+The ones that are to be used
+outside of the cytosol,
+
+
+232
+0:10:57,4 --> 0:10:59,4
+outside of the cell or maybe
+in the cell's membrane.
+
+
+233
+0:10:59,4 --> 0:11:1,35
+So proteins will end up here.
+
+
+234
+0:11:1,35 --> 0:11:4,12
+That's why those ribosomes are
+on the membrane, because they
+
+
+235
+0:11:4,12 --> 0:11:6,315
+can translate things that are
+outside of the endoplasmic
+
+
+236
+0:11:6,315 --> 0:11:11,8
+reticulum, but as the proteins
+get produced, the amino acid
+
+
+237
+0:11:11,8 --> 0:11:13,43
+chain ends up inside of it.
+
+
+238
+0:11:13,43 --> 0:11:16,63
+Let me make a blow-up
+of that because I
+
+
+239
+0:11:16,63 --> 0:11:18,93
+think that'll be useful.
+
+
+240
+0:11:18,93 --> 0:11:23,43
+So let me draw-- let's say this
+is the membrane of the
+
+
+241
+0:11:23,43 --> 0:11:26,45
+endoplasmic reticulum
+and then you have
+
+
+242
+0:11:26,45 --> 0:11:29,8
+ribosomes attached to it.
+
+
+243
+0:11:29,8 --> 0:11:32,9
+Let's say that's a ribosome on
+the endoplasmic reticulum.
+
+
+244
+0:11:32,9 --> 0:11:35,86
+And is this is going to be the
+rough endoplasmic reticulum.
+
+
+245
+0:11:35,86 --> 0:11:39,79
+And what you can have is mRNA
+coming into one side of it.
+
+
+246
+0:11:39,79 --> 0:11:43,82
+
+
+
+247
+0:11:43,82 --> 0:11:46,86
+mRNA can kind of come
+in through here.
+
+
+248
+0:11:46,86 --> 0:11:48,5
+Maybe it's going in
+that direction.
+
+
+249
+0:11:48,5 --> 0:11:51,43
+It's getting translated
+into the proteins.
+
+
+250
+0:11:51,43 --> 0:11:54,81
+But then the protein, as the
+amino acid chain is built up,
+
+
+251
+0:11:54,81 --> 0:11:57,71
+will pop out on this end
+of the membrane.
+
+
+252
+0:11:57,71 --> 0:12:0,3
+Remember, this is our membrane
+of our endoplasmic reticulum.
+
+
+253
+0:12:0,3 --> 0:12:3,7
+So even though the mRNA is on
+the outside, because the
+
+
+254
+0:12:3,7 --> 0:12:5,71
+ribosome is attached to
+it, the protein can
+
+
+255
+0:12:5,71 --> 0:12:6,79
+show up on the inside.
+
+
+256
+0:12:6,79 --> 0:12:9,51
+So once the protein is built,
+maybe then it folds all up,
+
+
+257
+0:12:9,51 --> 0:12:13,9
+you know, a protein is just a
+folded chain of amino acids,
+
+
+258
+0:12:13,9 --> 0:12:16,375
+it can travel through the
+endoplasmic reticulum.
+
+
+259
+0:12:16,375 --> 0:12:17,92
+And it travels through it.
+
+
+260
+0:12:17,92 --> 0:12:21,14
+It travels through the smooth
+endoplasmic reticulum all the
+
+
+261
+0:12:21,14 --> 0:12:22,59
+way until it gets to
+the Golgi bodies.
+
+
+262
+0:12:22,59 --> 0:12:23,87
+And all sorts of other
+things happen.
+
+
+263
+0:12:23,87 --> 0:12:26,223
+I'm oversimplifying things, but
+I just want to give you a
+
+
+264
+0:12:26,223 --> 0:12:28,58
+sense of what everything
+in the cell does.
+
+
+265
+0:12:28,58 --> 0:12:31,39
+And once the protein travels to
+the Golgi bodies and they
+
+
+266
+0:12:31,39 --> 0:12:35,23
+get ready for traveling outside
+of the cell, or maybe
+
+
+267
+0:12:35,23 --> 0:12:38,71
+traveling to the cell's
+membrane, they'll actually bud
+
+
+268
+0:12:38,71 --> 0:12:39,77
+out of the Golgi bodies.
+
+
+269
+0:12:39,77 --> 0:12:42,53
+So let's say this same protein,
+when it gets to the
+
+
+270
+0:12:42,53 --> 0:12:45,225
+Golgi bodies-- remember it's
+inside of the Golgi body, so
+
+
+271
+0:12:45,225 --> 0:12:48,8
+let me draw the membrane of the
+Golgi body right there.
+
+
+272
+0:12:48,8 --> 0:12:50,52
+The protein might
+end up there.
+
+
+273
+0:12:50,52 --> 0:12:52,83
+It's just a big chain
+of amino acids.
+
+
+274
+0:12:52,83 --> 0:12:54,88
+And then it will bud out.
+
+
+275
+0:12:54,88 --> 0:12:56,78
+So let's say it looks like that,
+and then maybe the next
+
+
+276
+0:12:56,78 --> 0:12:59,63
+step it will look
+something like.
+
+
+277
+0:12:59,63 --> 0:13:0,88
+It will look like that.
+
+
+278
+0:13:0,88 --> 0:13:7,18
+
+
+
+279
+0:13:7,18 --> 0:13:9,31
+And the very next step, you
+could imagine, will look
+
+
+280
+0:13:9,31 --> 0:13:11,87
+something like this, where
+it's actually completely
+
+
+281
+0:13:11,87 --> 0:13:12,42
+budded out.
+
+
+282
+0:13:12,42 --> 0:13:15,85
+It's popped out a little
+of the membrane of the
+
+
+283
+0:13:15,85 --> 0:13:18,7
+Golgi body with it.
+
+
+284
+0:13:18,7 --> 0:13:20,1
+So now the protein
+is surrounded by
+
+
+285
+0:13:20,1 --> 0:13:22,76
+its own little membrane.
+
+
+286
+0:13:22,76 --> 0:13:24,59
+So let's think about
+what happened.
+
+
+287
+0:13:24,59 --> 0:13:27,26
+We had DNA transcribed
+into mRNA.
+
+
+288
+0:13:27,26 --> 0:13:30,98
+mRNA goes to a ribosome
+that's attached to
+
+
+289
+0:13:30,98 --> 0:13:32,74
+the endoplasmic reticulum.
+
+
+290
+0:13:32,74 --> 0:13:35,74
+It is translated into a protein
+that travels through
+
+
+291
+0:13:35,74 --> 0:13:37,32
+the endoplasmic reticulum.
+
+
+292
+0:13:37,32 --> 0:13:39,15
+First, the rough, where
+all the ribosomes
+
+
+293
+0:13:39,15 --> 0:13:40,41
+are, then this smooth.
+
+
+294
+0:13:40,41 --> 0:13:41,74
+The smooth has other
+functions.
+
+
+295
+0:13:41,74 --> 0:13:48,52
+It also helps produce hormones
+and other fatty compounds, but
+
+
+296
+0:13:48,52 --> 0:13:49,85
+I won't go into detail there.
+
+
+297
+0:13:49,85 --> 0:13:50,94
+But it just travels.
+
+
+298
+0:13:50,94 --> 0:13:53,7
+It connects to the
+Golgi bodies.
+
+
+299
+0:13:53,7 --> 0:13:56,48
+Then the Golgi bodies, the
+proteins can bud off and take
+
+
+300
+0:13:56,48 --> 0:13:58,34
+a little bit of the
+membrane with it.
+
+
+301
+0:13:58,34 --> 0:14:1,9
+And this idea of something being
+surrounded by a membrane
+
+
+302
+0:14:1,9 --> 0:14:4,4
+and just traveling in the cell,
+so maybe the protein now
+
+
+303
+0:14:4,4 --> 0:14:6,1
+looks like this.
+
+
+304
+0:14:6,1 --> 0:14:6,93
+I'm enlarging it.
+
+
+305
+0:14:6,93 --> 0:14:9,38
+Maybe the protein is there and
+then it took a little bit of
+
+
+306
+0:14:9,38 --> 0:14:12,2
+the Golgi body membrane
+with it.
+
+
+307
+0:14:12,2 --> 0:14:14,78
+This is called a vesicle.
+
+
+308
+0:14:14,78 --> 0:14:17,75
+And this right here, let's add
+another one right here.
+
+
+309
+0:14:17,75 --> 0:14:19,98
+I'm just doing that
+to label it.
+
+
+310
+0:14:19,98 --> 0:14:23,16
+That's called a vesicle.
+
+
+311
+0:14:23,16 --> 0:14:26,11
+And a vesicle is really just
+a very general term for
+
+
+312
+0:14:26,11 --> 0:14:30,28
+anything, little small things,
+mostly proteins, in the cell
+
+
+313
+0:14:30,28 --> 0:14:32,43
+that are just floating around,
+that are surrounded by their
+
+
+314
+0:14:32,43 --> 0:14:34,32
+own little mini-membranes.
+
+
+315
+0:14:34,32 --> 0:14:36,78
+And the reason why this
+mini-membrane is useful is now
+
+
+316
+0:14:36,78 --> 0:14:39,43
+this protein can now
+float to the outer
+
+
+317
+0:14:39,43 --> 0:14:40,43
+membrane of the cell.
+
+
+318
+0:14:40,43 --> 0:14:42,13
+It can also float to other
+parts of the cell.
+
+
+319
+0:14:42,13 --> 0:14:43,78
+I'm doing a simplification.
+
+
+320
+0:14:43,78 --> 0:14:47,1
+And then it can merge either
+with the membrane of the cell,
+
+
+321
+0:14:47,1 --> 0:14:50,95
+or it can use this membrane,
+this little vesicle membrane
+
+
+322
+0:14:50,95 --> 0:14:54,24
+it has, to facilitate it getting
+out of the cell.
+
+
+323
+0:14:54,24 --> 0:14:56,81
+You can imagine that it
+eventually, you know this
+
+
+324
+0:14:56,81 --> 0:15:0,43
+thing-- let's say this is the
+outer membrane of the cell.
+
+
+325
+0:15:0,43 --> 0:15:2,47
+And I'm doing a gross
+oversimplification.
+
+
+326
+0:15:2,47 --> 0:15:4,23
+I'm not even drawing
+the bilipid layer.
+
+
+327
+0:15:4,23 --> 0:15:7,58
+But just to have a visual
+impression of what it might
+
+
+328
+0:15:7,58 --> 0:15:11,88
+look like, that's the vesicle
+there, the little protein
+
+
+329
+0:15:11,88 --> 0:15:14,68
+inside of it, and it gets
+closer and closer to the
+
+
+330
+0:15:14,68 --> 0:15:18,53
+membrane, and then it can
+merge with the membrane
+
+
+331
+0:15:18,53 --> 0:15:20,3
+because it's made up
+of the same stuff.
+
+
+332
+0:15:20,3 --> 0:15:24,6
+It merges with the membrane,
+your protein inside.
+
+
+333
+0:15:24,6 --> 0:15:26,25
+I switched colors arbitrarily.
+
+
+334
+0:15:26,25 --> 0:15:28,14
+But now, all of a sudden, once
+it merges with the membrane,
+
+
+335
+0:15:28,14 --> 0:15:31,92
+then the protein can exit the
+actual cell, or maybe it can
+
+
+336
+0:15:31,92 --> 0:15:35,21
+actually embed itself within
+this membrane, within the
+
+
+337
+0:15:35,21 --> 0:15:39,2
+outer cellular membrane, which
+I drew very thin, but it has
+
+
+338
+0:15:39,2 --> 0:15:39,96
+two layers to it.
+
+
+339
+0:15:39,96 --> 0:15:40,97
+And we'll talk more
+about that.
+
+
+340
+0:15:40,97 --> 0:15:44,13
+And I could probably make
+a whole video on it.
+
+
+341
+0:15:44,13 --> 0:15:47,97
+So those are-- we've already
+made pretty good progress on
+
+
+342
+0:15:47,97 --> 0:15:49,4
+showing the anatomy
+of the cell.
+
+
+343
+0:15:49,4 --> 0:15:52,36
+There are a few other things
+we can throw in there.
+
+
+344
+0:15:52,36 --> 0:15:58,86
+There are things called
+lysosomes, which exist in
+
+
+345
+0:15:58,86 --> 0:16:3,84
+animal cells that contain
+enzymes in them that help
+
+
+346
+0:16:3,84 --> 0:16:5,155
+dissolve other things.
+
+
+347
+0:16:5,155 --> 0:16:8,72
+
+
+
+348
+0:16:8,72 --> 0:16:12,5
+So if a lysosome attaches to
+something else and is able to
+
+
+349
+0:16:12,5 --> 0:16:14,95
+spew its enzymes into it,
+it usually kills it.
+
+
+350
+0:16:14,95 --> 0:16:16,14
+It usually digests it.
+
+
+351
+0:16:16,14 --> 0:16:18,1
+So that's what a
+lysosome does.
+
+
+352
+0:16:18,1 --> 0:16:23,31
+In plants, you have things
+called lytic vacuoles, and
+
+
+353
+0:16:23,31 --> 0:16:25,6
+those are really the same thing
+as a lysosome in terms
+
+
+354
+0:16:25,6 --> 0:16:28,28
+of their function in that
+they're really big vesicles.
+
+
+355
+0:16:28,28 --> 0:16:31,59
+In fact, in general, a vacuole
+is just a big vesicle.
+
+
+356
+0:16:31,59 --> 0:16:36,63
+It's just a general term for a
+big membrane-bound organelle.
+
+
+357
+0:16:36,63 --> 0:16:38,43
+Vacuole.
+
+
+358
+0:16:38,43 --> 0:16:40,28
+And once again, what's
+an organelle?
+
+
+359
+0:16:40,28 --> 0:16:42,0
+Let me write down that word.
+
+
+360
+0:16:42,0 --> 0:16:44,73
+Organelle.
+
+
+361
+0:16:44,73 --> 0:16:48,78
+It's just a membrane-bound
+subunit of a cell.
+
+
+362
+0:16:48,78 --> 0:16:51,43
+Just like my liver is a subunit
+of Sal and it's an
+
+
+363
+0:16:51,43 --> 0:16:55,48
+organ, an organelle is
+a subunit of a cell.
+
+
+364
+0:16:55,48 --> 0:16:59,2
+So a vacuole is just a general
+term for a membrane-bound
+
+
+365
+0:16:59,2 --> 0:17:2,29
+organelle that stores stuff
+inside of our cells.
+
+
+366
+0:17:2,29 --> 0:17:5,79
+
+
+
+367
+0:17:5,79 --> 0:17:8,4
+So a lytic vacuole would be a
+vacuole in a plant cell that
+
+
+368
+0:17:8,4 --> 0:17:10,44
+stores a bunch of enzymes, and
+if it were attached to
+
+
+369
+0:17:10,44 --> 0:17:12,619
+something else it would dissolve
+it if it were able to
+
+
+370
+0:17:12,619 --> 0:17:16,69
+spew its enzymes into
+the other thing.
+
+
+371
+0:17:16,69 --> 0:17:19,5
+Now, there's several organelles
+that we've talked
+
+
+372
+0:17:19,5 --> 0:17:21,23
+about within the context
+of respiration and
+
+
+373
+0:17:21,23 --> 0:17:24,619
+photosynthesis, and I go into
+detail in those videos.
+
+
+374
+0:17:24,619 --> 0:17:28,39
+But we have things called
+mitochondria.
+
+
+375
+0:17:28,39 --> 0:17:30,7
+Mitochondrion cells.
+
+
+376
+0:17:30,7 --> 0:17:33,61
+And they have inner and outer
+membranes, and this is where
+
+
+377
+0:17:33,61 --> 0:17:38,47
+we produce our energy, where
+sugars are turned into ATP.
+
+
+378
+0:17:38,47 --> 0:17:40,27
+I've done detailed
+videos on this.
+
+
+379
+0:17:40,27 --> 0:17:43,35
+These actually contain their own
+DNA, and they can actually
+
+
+380
+0:17:43,35 --> 0:17:50,7
+reproduce on their own, which
+makes people believe that they
+
+
+381
+0:17:50,7 --> 0:17:54,78
+exist-- that their ancestors
+once existed as independent
+
+
+382
+0:17:54,78 --> 0:17:59,91
+prokaryotic organisms, that at
+some point they just kind of
+
+
+383
+0:17:59,91 --> 0:18:3,715
+stumbled upon the notion of,
+hey, why don't I live inside
+
+
+384
+0:18:3,715 --> 0:18:6,65
+of other organisms and kind
+of live in symbiosis?
+
+
+385
+0:18:6,65 --> 0:18:11,2
+So mitochondria, these are
+organelles that at one time
+
+
+386
+0:18:11,2 --> 0:18:13,14
+their ancestors might have been
+independent prokaryotes.
+
+
+387
+0:18:13,14 --> 0:18:17,39
+
+
+
+388
+0:18:17,39 --> 0:18:19,4
+Mitochondria.
+
+
+389
+0:18:19,4 --> 0:18:22,81
+That's where cellular
+respiration takes part, and we
+
+
+390
+0:18:22,81 --> 0:18:23,75
+go into detail on that.
+
+
+391
+0:18:23,75 --> 0:18:26,64
+And then on the plant cells,
+this is only in-- well,
+
+
+392
+0:18:26,64 --> 0:18:29,83
+definitely not in animal cells--
+you have chloroplasts,
+
+
+393
+0:18:29,83 --> 0:18:31,9
+which are a subset of things
+called plastids, but
+
+
+394
+0:18:31,9 --> 0:18:33,99
+chloroplasts are the
+most famous.
+
+
+395
+0:18:33,99 --> 0:18:37,13
+Maybe I should do that in
+especially green, green.
+
+
+396
+0:18:37,13 --> 0:18:38,32
+So we have chloroplasts.
+
+
+397
+0:18:38,32 --> 0:18:39,98
+And we know they have little
+thylakoids in there.
+
+
+398
+0:18:39,98 --> 0:18:41,75
+This is where photosynthesis
+takes place.
+
+
+399
+0:18:41,75 --> 0:18:43,27
+You have your grana
+and all of that.
+
+
+400
+0:18:43,27 --> 0:18:45,84
+And I do go into detail in the
+photosynthesis videos, but
+
+
+401
+0:18:45,84 --> 0:18:46,28
+it's good to know.
+
+
+402
+0:18:46,28 --> 0:18:48,68
+These are other organelles.
+
+
+403
+0:18:48,68 --> 0:18:51,95
+And just like mitochondria, they
+have their own DNA and
+
+
+404
+0:18:51,95 --> 0:18:53,44
+their own ribosomes.
+
+
+405
+0:18:53,44 --> 0:18:56,78
+And so the belief is that they
+were once independent
+
+
+406
+0:18:56,78 --> 0:19:1,21
+prokaryotes that learned to live
+in symbiosis inside of
+
+
+407
+0:19:1,21 --> 0:19:4,9
+larger eukaryotic cells.
+
+
+408
+0:19:4,9 --> 0:19:6,36
+So we're almost done, really,
+with the structure cells.
+
+
+409
+0:19:6,36 --> 0:19:8,62
+There's other things we
+can throw on here.
+
+
+410
+0:19:8,62 --> 0:19:12,8
+If we're dealing with plant
+cells or non-animal cells,
+
+
+411
+0:19:12,8 --> 0:19:15,8
+we'll have something called a
+cell wall, which will give
+
+
+412
+0:19:15,8 --> 0:19:17,38
+some strength to the
+outer membrane.
+
+
+413
+0:19:17,38 --> 0:19:19,9
+You can kind of view
+it that way, or it
+
+
+414
+0:19:19,9 --> 0:19:21,68
+gives it some rigidity.
+
+
+415
+0:19:21,68 --> 0:19:23,48
+So you have things called cell
+walls, although they're not
+
+
+416
+0:19:23,48 --> 0:19:25,43
+necessarily completely rigid.
+
+
+417
+0:19:25,43 --> 0:19:27,46
+You can almost view them as
+balloons that provide just a
+
+
+418
+0:19:27,46 --> 0:19:29,33
+little bit more rigidity.
+
+
+419
+0:19:29,33 --> 0:19:32,53
+Things like wood actually have
+double cell walls for really
+
+
+420
+0:19:32,53 --> 0:19:33,4
+hard-core rigidity.
+
+
+421
+0:19:33,4 --> 0:19:37,16
+So this is a cell wall.
+
+
+422
+0:19:37,16 --> 0:19:39,17
+This is in non-animals.
+
+
+423
+0:19:39,17 --> 0:19:43,81
+And in plants it's made out of
+cellulose, not cellulite.
+
+
+424
+0:19:43,81 --> 0:19:44,71
+That used to confuse me.
+
+
+425
+0:19:44,71 --> 0:19:47,84
+So this gives extra rigidity
+or form to
+
+
+426
+0:19:47,84 --> 0:19:49,51
+the cellular membrane.
+
+
+427
+0:19:49,51 --> 0:19:53,71
+And then to actually give the
+cell its actual structure, you
+
+
+428
+0:19:53,71 --> 0:19:56,45
+have these things called
+microfilaments, or sometimes
+
+
+429
+0:19:56,45 --> 0:19:58,89
+actin filaments, and these are
+these little pipes that go
+
+
+430
+0:19:58,89 --> 0:20:0,17
+throughout the cell.
+
+
+431
+0:20:0,17 --> 0:20:3,81
+These actually help give the
+cell its actual structure in
+
+
+432
+0:20:3,81 --> 0:20:5,88
+three dimensions, and actually,
+they can participate
+
+
+433
+0:20:5,88 --> 0:20:8,15
+in things moving around within
+the cell or even the cell
+
+
+434
+0:20:8,15 --> 0:20:9,91
+moving around itself.
+
+
+435
+0:20:9,91 --> 0:20:11,78
+And just to be complete and
+make sure we're covering
+
+
+436
+0:20:11,78 --> 0:20:15,62
+everything, if you watch the
+mitosis and meiosis videos,
+
+
+437
+0:20:15,62 --> 0:20:18,8
+you have these things
+called centrioles.
+
+
+438
+0:20:18,8 --> 0:20:19,94
+I go into detail there.
+
+
+439
+0:20:19,94 --> 0:20:24,66
+Centrioles that are right
+outside of the nucleus.
+
+
+440
+0:20:24,66 --> 0:20:28,15
+Two centrioles that are at right
+angles to each other
+
+
+441
+0:20:28,15 --> 0:20:32,8
+make up a centrosome, and they
+kind of coordinate the
+
+
+442
+0:20:32,8 --> 0:20:36,87
+microtubules when we start
+splitting the cells in mitosis
+
+
+443
+0:20:36,87 --> 0:20:37,76
+and meiosis.
+
+
+444
+0:20:37,76 --> 0:20:38,71
+I won't go into detail there.
+
+
+445
+0:20:38,71 --> 0:20:40,49
+I've done many videos
+on that as well.
+
+
+446
+0:20:40,49 --> 0:20:42,93
+But so far, this is pretty much
+everything you need to
+
+
+447
+0:20:42,93 --> 0:20:46,86
+know-- or at least a first
+overview-- of the
+
+
+448
+0:20:46,86 --> 0:20:48,7
+structure of the cell.
+
+
+449
+0:20:48,7 --> 0:20:50,96
+And in one video, we finally
+got it all in one place.
+
+
+450
+0:20:50,96 --> 0:20:54,6
+This is pretty much-- I haven't
+delved into detail on
+
+
+451
+0:20:54,6 --> 0:20:57,17
+everything-- on all of the
+major pieces of the cell.
+
+
+452
+0:20:57,17 --> 0:21:0,82
+So hopefully, you have a better
+big-picture view of how
+
+
+453
+0:21:0,82 --> 0:23:0,82
+things are organized
+inside of it.
+
+

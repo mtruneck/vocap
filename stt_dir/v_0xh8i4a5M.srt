@@ -1,0 +1,690 @@
+1
+0:0:6,277 --> 0:0:8,728
+London Heathrow is the busiest international
+
+
+2
+0:0:8,728 --> 0:0:12,679
+Airport in The world.It handles nearly half
+
+
+3
+0:0:12,679 --> 0:0:16,311
+a million flights,and could easily feed  
+
+
+4
+0:0:16,311 --> 0:0:18,96
+the entire british population through its 
+
+
+5
+0:0:18,96 --> 0:0:27,92
+gates every year.For Heathrow to get this big
+
+
+6
+0:0:27,92 --> 0:0:29,911
+,it took a series of major technological 
+
+
+7
+0:0:29,911 --> 0:0:35,46
+innovations.We have lined up seven
+
+
+8
+0:0:35,46 --> 0:0:39,859
+landmark airports,historic giants of aviation.
+
+
+9
+0:0:39,859 --> 0:0:43,647
+At the heart of each one lies a technology
+
+
+10
+0:0:43,647 --> 0:0:46,499
+that allowed airports to feed ever more people 
+
+
+11
+0:0:46,499 --> 0:0:51,62
+through their gates,safely,quickly and comfortably
+
+
+12
+0:0:51,62 --> 0:0:55,591
+One by one travelling up the scale we will reveal the
+
+
+13
+0:0:55,591 --> 0:0:58,996
+incredible stories behind these airports 
+
+
+14
+0:0:58,996 --> 0:1:0,615
+and the inventions that transformed them into 
+
+
+15
+0:1:0,615 --> 0:1:5,444
+sprawling city-like structures.Seven ingenious
+
+
+16
+0:1:5,444 --> 0:1:8,477
+leaps forward that enabled airports to evolve
+
+
+17
+0:1:8,477 --> 0:1:39,246
+ from big to bigger into the worlds biggest
+
+
+18
+0:1:39,246 --> 0:1:42,895
+Heathrow Airport,Britain's gateway to the world
+
+
+19
+0:1:42,895 --> 0:1:48,362
+and a huge powerhouse for the country's economy
+
+
+20
+0:1:48,362 --> 0:1:55,981
+,and now it will get even bigger,T5 an immense new terminal 
+
+
+21
+0:1:55,981 --> 0:2:5,745
+that cost over 8 billion dollars to build is about to open.
+
+
+22
+0:2:5,745 --> 0:2:11,116
+Lead Architect Mike Davis can't wait "It's going to
+
+
+23
+0:2:11,116 --> 0:2:14,662
+be fantastic,it's 19 years of work all going to come into 
+
+
+24
+0:2:14,662 --> 0:2:18,46
+frutition when the first plane comes through.  "
+
+
+25
+0:2:18,46 --> 0:2:22,235
+T5 has three huge terminal buildings,assembled
+
+
+26
+0:2:22,235 --> 0:2:31,401
+from 80,000 tons of steel.The main terminal is a true
+
+
+27
+0:2:31,401 --> 0:2:35,358
+skyscraper of a terminal,reaching 40 metres
+
+
+28
+0:2:35,358 --> 0:2:40,895
+into the sky."This is a building of immense complexity
+
+
+29
+0:2:40,895 --> 0:2:46,58
+we had to satisfy the needs of 43 different groups of people
+
+
+30
+0:2:46,58 --> 0:2:49,597
+,to make sure that this building got a tick in the box
+
+
+31
+0:2:49,597 --> 0:2:52,44
+from everybody,and you are talking about major systems
+
+
+32
+0:2:52,44 --> 0:2:55,229
+like passenger check-in and you got the retail and various
+
+
+33
+0:2:55,229 --> 0:2:58,694
+passenger services.We got three big railway stations
+
+
+34
+0:2:58,694 --> 0:3:1,128
+under this building,all of that has to be co-ordinated 
+
+
+35
+0:3:1,128 --> 0:3:7,79
+together.T5 will process 30 million passengers a year.
+
+
+36
+0:3:7,79 --> 0:3:11,89
+It takes Heathrow's capacity to nearly a 100 million
+
+
+37
+0:3:11,89 --> 0:3:25,583
+travellers.To understand how Heathrow became this busy,
+
+
+38
+0:3:25,583 --> 0:3:33,944
+we need to go back in time,and look at how airports begin.
+
+
+39
+0:3:33,944 --> 0:3:36,446
+The first big breakthrough comes with a small
+
+
+40
+0:3:36,446 --> 0:3:42,29
+airport just outside London.Before it can get any bigger,
+
+
+41
+0:3:42,29 --> 0:3:49,396
+Croydon airport must make the sky above it safer.
+
+
+42
+0:3:49,396 --> 0:3:53,689
+In 1920 Croydon is the main airport in London aviation
+
+
+43
+0:3:53,689 --> 0:3:58,845
+is young and navigation primitive."Flying was really
+
+
+44
+0:3:58,845 --> 0:4:4,111
+the pilot made use of landmarks such as coastlines,
+
+
+45
+0:4:4,111 --> 0:4:11,761
+rivers,large towns,roadways.But the Mark I eyeball
+
+
+46
+0:4:11,761 --> 0:4:19,312
+can't always be trusted.On the 7th of April 1922 a French
+
+
+47
+0:4:19,312 --> 0:4:23,13
+pilot heading out of Paris airport drops below the clouds
+
+
+48
+0:4:23,13 --> 0:4:32,463
+to get his bearings.Scanning the ground for landmarks 
+
+
+49
+0:4:32,463 --> 0:4:35,78
+he doesn't realise that a cargo plane from Croydon
+
+
+50
+0:4:35,78 --> 0:4:41,562
+is approaching on exactly the same heading.The first 
+
+
+51
+0:4:41,562 --> 0:4:44,895
+collision in the history of civil aviation kills seven
+
+
+52
+0:4:44,895 --> 0:4:54,462
+people.It was an accident waiting to happen."Pilots would
+
+
+53
+0:4:54,462 --> 0:4:58,363
+be looking out to see the road they were following,.
+
+
+54
+0:4:58,363 --> 0:5:0,519
+they were looking over to the side,the road was here
+
+
+55
+0:5:0,519 --> 0:5:3,644
+,the other jet was looking maybe the same side,the road
+
+
+56
+0:5:3,644 --> 0:5:7,995
+and they were really over the top of the road.
+
+
+57
+0:5:7,995 --> 0:5:12,145
+To stop such disasters from ever happening again,Croydon
+
+
+58
+0:5:12,145 --> 0:5:19,28
+invents a clever new technology.Every aircraft heading
+
+
+59
+0:5:19,28 --> 0:5:26,5
+towards the airport sends out a radio burst.
+
+
+60
+0:5:26,5 --> 0:5:29,678
+A radio receiver at Croydon then measures the angle of this 
+
+
+61
+0:5:29,678 --> 0:5:35,201
+signal which reveals where the plane is coming from.
+
+
+62
+0:5:35,201 --> 0:5:38,94
+" I'm getting a call which is telling me that Croydon
+
+
+63
+0:5:38,94 --> 0:5:43,71
+ has a bearing of 140,So I'm taking out the mouse 
+
+
+64
+0:5:43,71 --> 0:5:51,845
+and placing it on a bearing of 140 " .But a plane's bearing isn't 
+
+
+65
+0:5:51,845 --> 0:5:56,228
+enough to pinpoint it's precise position,so Croydon 
+
+
+66
+0:5:56,228 --> 0:6:0,413
+installs two more radio stations and their recievers
+
+
+67
+0:6:0,413 --> 0:6:4,845
+lock on as well." Huramenel now calling they have a
+
+
+68
+0:6:4,845 --> 0:6:17,821
+bearing of 195,and just here Lim-Lim have a bearing of 230
+
+
+69
+0:6:17,821 --> 0:6:24,355
+I can see now that the strings cross at Haistings, the pilot
+
+
+70
+0:6:24,355 --> 0:6:29,97
+is over Haistings." Once Croydon knows the plane's
+
+
+71
+0:6:29,97 --> 0:6:35,212
+coordinates they can safely guide it to the airport.
+
+
+72
+0:6:35,212 --> 0:6:46,723
+This is the birth of Air Traffic Control.In 1921 Croydon
+
+
+73
+0:6:46,723 --> 0:6:51,446
+Airport had about 60 flights per week,today Heathrow
+
+
+74
+0:6:51,446 --> 0:6:56,378
+pushes in to upto a 100 flights per hour.Air Traffic Control
+
+
+75
+0:6:56,378 --> 0:6:59,83
+guides planes out of the sky and hands them over to
+
+
+76
+0:6:59,83 --> 0:7:4,836
+ the Ground Traffic Controllers,they need to be able to see
+
+
+77
+0:7:4,836 --> 0:7:7,625
+every single tail fin on the tarmac with their own
+
+
+78
+0:7:7,625 --> 0:7:13,625
+eyes.This is where the construction of Terminal 5 creates a 
+
+
+79
+0:7:13,625 --> 0:7:22,38
+problem.The T5 buildings are so tall  that controllers
+
+
+80
+0:7:22,38 --> 0:7:26,939
+can't see the planes at the far end.They need a new 
+
+
+81
+0:7:26,939 --> 0:7:30,477
+taller control tower right in the middle of the airport,
+
+
+82
+0:7:30,477 --> 0:7:35,114
+one of the busiest crossroads at Heathrow,turning  it into a
+
+
+83
+0:7:35,114 --> 0:7:46,801
+construction site would cause chaos for the aircraft. 
+
+
+84
+0:7:46,801 --> 0:7:49,711
+The only option is to build the new control tower
+
+
+85
+0:7:49,711 --> 0:7:52,714
+on the edge of the airport and move it into position
+
+
+86
+0:7:52,714 --> 0:8:2,164
+in one piece.But the tower weighs nearly a 1000 tons
+
+
+87
+0:8:2,164 --> 0:8:5,7
+moving it onto the airport takes months of careful planning
+
+
+88
+0:8:5,7 --> 0:8:9,613
+there is no margin for error." It was a great challenge
+
+
+89
+0:8:9,613 --> 0:8:11,561
+to do it because we had to do it without stopping airline
+
+
+90
+0:8:11,561 --> 0:8:18,133
+operations,not a single aircraft should be rescheduled.
+
+
+91
+0:8:18,133 --> 0:8:20,846
+We decided one great friday evening to wheel it across
+
+
+92
+0:8:20,846 --> 0:8:23,347
+the airport and we took the fence down and rolled it out
+
+
+93
+0:8:23,347 --> 0:8:31,264
+on to the apron . " Just after Heathrow shuts down,the tower
+
+
+94
+0:8:31,264 --> 0:8:35,446
+begins it 2km journey across the airport,balanced on
+
+
+95
+0:8:35,446 --> 0:8:41,264
+three transporters designed to carry the space shuttle.
+
+
+96
+0:8:41,264 --> 0:8:44,597
+The crew must deliver their precious cargo before the airport
+
+
+97
+0:8:44,597 --> 0:8:50,965
+reopens in 5 hours." It was literally going 2 miles an hour
+
+
+98
+0:8:50,965 --> 0:8:54,414
+so one point on that friday night,it became the fastest
+
+
+99
+0:8:54,414 --> 0:9:5,281
+building in the UK.Once safely in place over its foundations
+
+
+100
+0:9:5,281 --> 0:9:11,349
+engineers jack the tower 87 metres up into the sky.
+
+
+101
+0:9:11,349 --> 0:9:14,814
+Now air traffic controllers at Heathrow have a tower
+
+
+102
+0:9:14,814 --> 0:9:33,68
+that lets them do their job without T5 getting in the way.
+
+
+103
+0:9:33,68 --> 0:9:36,281
+Air Traffic Control  technology allows more planes
+
+
+104
+0:9:36,281 --> 0:9:44,331
+to reach airports safely.But as airports become cluttered
+
+
+105
+0:9:44,331 --> 0:9:48,513
+with aircraft,it gets more difficult for passengers to board
+
+
+106
+0:9:48,513 --> 0:9:57,35
+and disembark safely.For London Gatwick to take on
+
+
+107
+0:9:57,35 --> 0:10:0,85
+20,000 passengers,they need to bring planes 
+
+
+108
+0:10:0,85 --> 0:10:9,324
+and passengers closer together,yet keep them apart.
+
+
+109
+0:10:9,324 --> 0:10:13,837
+In the 1920s Air travel is only for the super rich.
+
+
+110
+0:10:13,837 --> 0:10:19,398
+But conditions at the airfields are from first-class.
+
+
+111
+0:10:19,398 --> 0:10:23,82
+" They had to walk across a windy apron to reach the plane
+
+
+112
+0:10:23,82 --> 0:10:25,882
+,so it was a fairly sort of primitive kind of activity.
+
+
+113
+0:10:25,882 --> 0:10:29,94
+And it wasn't consistent with the pampered rich."
+
+
+114
+0:10:29,94 --> 0:10:34,248
+Boarding planes isn't just inconvenient,it can be downright
+
+
+115
+0:10:34,248 --> 0:10:40,535
+dangerous.Propellers and human bodies don't mix.
+
+
+116
+0:10:40,535 --> 0:10:46,446
+But in 1933 a young man has an idea.Morris Jackerman
+
+
+117
+0:10:46,446 --> 0:10:49,582
+wants to offfer passengers at Gatwick Airport something
+
+
+118
+0:10:49,582 --> 0:10:54,731
+revolutionary,a terminal,but he struggles to find the right 
+
+
+119
+0:10:54,731 --> 0:10:59,238
+shape for the building." You could imagine that he was umm...
+
+
+120
+0:10:59,238 --> 0:11:1,446
+he was playing with all the variables and he  was thinking 
+
+
+121
+0:11:1,446 --> 0:11:5,513
+about the way the aircraft would position themselves
+
+
+122
+0:11:5,513 --> 0:11:10,706
+taxiing in,and although that positioning of aircraft
+
+
+123
+0:11:10,706 --> 0:11:12,635
+was good from the passengers point of view
+
+
+124
+0:11:12,635 --> 0:11:15,495
+it wasn't good for the movement of the aircraft
+
+
+125
+0:11:15,495 --> 0:11:17,871
+because if that aircraft is in position,that aircraft
+
+
+126
+0:11:17,871 --> 0:11:20,632
+can't move.If that aircraft is in position that 
+
+
+127
+0:11:20,632 --> 0:11:25,471
+aircraft can't move.And there's wasted space there
+
+
+128
+0:11:25,471 --> 0:11:29,522
+he just couldn't make the square work an as far
+
+
+129
+0:11:29,522 --> 0:11:31,381
+the said,you are going around in circles aren't
+
+
+130
+0:11:31,381 --> 0:11:33,547
+you?.And it was then that he had that eureka
+
+
+131
+0:11:33,547 --> 0:11:37,683
+moment that the circle is the solution and here is the
+
+
+132
+0:11:37,683 --> 0:11:44,564
+end-product,still standing today,the beehive at Gatwick."
+
+
+133
+0:11:44,564 --> 0:11:48,396
+Jackerman's design is revolutionary,its shape is ideal
+
+
+134
+0:11:48,396 --> 0:11:56,182
+for both passenger and plane.Each aircraft can quickly
+
+
+135
+0:11:56,182 --> 0:12:0,915
+and independently taxi to its gates to unload,refuel
+
+
+136
+0:12:0,915 --> 0:12:7,468
+and load up again.And inside the Beehive 
+
+
+137
+0:12:7,468 --> 0:12:10,647
+passengers wait in comfort,until telescopic canopy's
+
+
+138
+0:12:10,647 --> 0:14:10,647
+take them right to the aircraft door.The beehive is the first
+
+

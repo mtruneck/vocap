@@ -1,0 +1,7196 @@
+1
+0:0:0,0 --> 0:0:1,59
+
+
+
+2
+0:0:1,59 --> 0:0:5,72
+FEMALE SPEAKER: So as many of
+you, I'm sure, already know,
+
+
+3
+0:0:5,72 --> 0:0:9,15
+George Saunders has been
+charming readers and critics
+
+
+4
+0:0:9,15 --> 0:0:13,11
+alike for years with his
+truly unique brand
+
+
+5
+0:0:13,11 --> 0:0:15,54
+of speculative fiction.
+
+
+6
+0:0:15,54 --> 0:0:18,88
+He's the recipient of a
+MacArthur Grant, as well as a
+
+
+7
+0:0:18,88 --> 0:0:22,11
+professor of creative writing
+at Syracuse University.
+
+
+8
+0:0:22,11 --> 0:0:25,83
+And lucky us-- he's here
+to promote his--
+
+
+9
+0:0:25,83 --> 0:0:27,8
+what was, for me at
+least-- a long
+
+
+10
+0:0:27,8 --> 0:0:30,9
+awaited new book of stories.
+
+
+11
+0:0:30,9 --> 0:0:32,96
+By the way, "Tenth of December"
+is available in the
+
+
+12
+0:0:32,96 --> 0:0:36,9
+back via Books Inc. Thank
+you so much, you guys.
+
+
+13
+0:0:36,9 --> 0:0:39,61
+And please help me welcome
+George Saunders.
+
+
+14
+0:0:39,61 --> 0:0:44,956
+[APPLAUSE]
+
+
+15
+0:0:44,956 --> 0:0:45,93
+GEORGE SAUNDERS: Thank you.
+
+
+16
+0:0:45,93 --> 0:0:48,32
+Thanks everybody for being
+here-- nice to see you all.
+
+
+17
+0:0:48,32 --> 0:0:50,24
+I thought I would just
+read a little sample
+
+
+18
+0:0:50,24 --> 0:0:51,7
+from the new book.
+
+
+19
+0:0:51,7 --> 0:0:54,65
+And then we could just talk
+informally about writing, or
+
+
+20
+0:0:54,65 --> 0:0:58,22
+maybe the creative process,
+or whatever comes up.
+
+
+21
+0:0:58,22 --> 0:1:1,18
+So this first thing, I'll
+just read a little--
+
+
+22
+0:1:1,18 --> 0:1:4,2
+I was on a reading tour a couple
+years ago and I drew
+
+
+23
+0:1:4,2 --> 0:1:7,2
+this Polish driver
+who was done.
+
+
+24
+0:1:7,2 --> 0:1:8,6
+He'd driven enough.
+
+
+25
+0:1:8,6 --> 0:1:9,92
+And he was like a zen driver.
+
+
+26
+0:1:9,92 --> 0:1:11,82
+He could drive without
+getting you anywhere.
+
+
+27
+0:1:11,82 --> 0:1:12,9
+[LAUGHTER]
+
+
+28
+0:1:12,9 --> 0:1:15,14
+And he was taking me to this
+bookstore reading, and he
+
+
+29
+0:1:15,14 --> 0:1:18,81
+said, "Sir, you go now to do
+reading?" I said, "Yeah." He
+
+
+30
+0:1:18,81 --> 0:1:20,41
+said, "Little advice for you.
+
+
+31
+0:1:20,41 --> 0:1:25,11
+Don't read too long." And I
+thought, oh you know my work.
+
+
+32
+0:1:25,11 --> 0:1:27,38
+But basically, you never leave
+a literary reading going,
+
+
+33
+0:1:27,38 --> 0:1:29,26
+damn, I wish he'd read
+another 40 minutes.
+
+
+34
+0:1:29,26 --> 0:1:31,36
+So I'll just give you
+a little sample.
+
+
+35
+0:1:31,36 --> 0:1:36,96
+And I never was a big sci-fi
+reader as a kid.
+
+
+36
+0:1:36,96 --> 0:1:41,1
+Except the one real big moment
+of my reading, or my cultural
+
+
+37
+0:1:41,1 --> 0:1:44,45
+life, was that moment in Star
+Wars when the ships come over
+
+
+38
+0:1:44,45 --> 0:1:45,92
+and you can see that
+they're dented and
+
+
+39
+0:1:45,92 --> 0:1:47,19
+rusty and fucked up.
+
+
+40
+0:1:47,19 --> 0:1:50,8
+And I thought that was really
+a major revelation.
+
+
+41
+0:1:50,8 --> 0:1:52,28
+So some of my stuff
+is kind of sci-fi.
+
+
+42
+0:1:52,28 --> 0:1:54,44
+This is definitely
+kind of sci-fi.
+
+
+43
+0:1:54,44 --> 0:1:56,99
+And I think it's self
+explanatory.
+
+
+44
+0:1:56,99 --> 0:2:0,34
+But basically, this
+guy is in a--
+
+
+45
+0:2:0,34 --> 0:2:3,62
+well, you don't where he is
+at first-- but he's being
+
+
+46
+0:2:3,62 --> 0:2:6,19
+ritually administered these
+different kinds of drugs.
+
+
+47
+0:2:6,19 --> 0:2:10,35
+And these drugs, as they do,
+they change everything.
+
+
+48
+0:2:10,35 --> 0:2:12,39
+So he's, you'll see in the
+course of the story, there's
+
+
+49
+0:2:12,39 --> 0:2:16,7
+some inflections in his voice
+and consciousness that are
+
+
+50
+0:2:16,7 --> 0:2:17,94
+from these drugs that are
+being dripped in.
+
+
+51
+0:2:17,94 --> 0:2:20,74
+And later you find out that
+actually he's in prison.
+
+
+52
+0:2:20,74 --> 0:2:23,66
+And his mom has scratched some
+money together to get him into
+
+
+53
+0:2:23,66 --> 0:2:26,75
+this slightly nicer prison,
+where instead of being a
+
+
+54
+0:2:26,75 --> 0:2:28,71
+prisoner, you're--
+
+
+55
+0:2:28,71 --> 0:2:31,13
+what did we used to call it in
+the corporate world-- like a
+
+
+56
+0:2:31,13 --> 0:2:32,16
+research assistant.
+
+
+57
+0:2:32,16 --> 0:2:33,92
+[LAUGHTER]
+
+
+58
+0:2:33,92 --> 0:2:35,98
+So this is a little section
+from "Escape from
+
+
+59
+0:2:35,98 --> 0:2:41,41
+Spiderhead." "One.
+
+
+60
+0:2:41,41 --> 0:2:45,31
+Drip on?" Abnesti said
+over the P.A.
+
+
+61
+0:2:45,31 --> 0:2:47,24
+"What's in it?," I said.
+
+
+62
+0:2:47,24 --> 0:2:49,42
+"Hilarious," he said.
+
+
+63
+0:2:49,42 --> 0:2:51,98
+"Acknowledge," I said.
+
+
+64
+0:2:51,98 --> 0:2:53,95
+Abnesti used his remote.
+
+
+65
+0:2:53,95 --> 0:2:57,24
+My MobiPak trademark word.
+
+
+66
+0:2:57,24 --> 0:3:0,78
+Soon the interior garden
+looked really nice.
+
+
+67
+0:3:0,78 --> 0:3:3,51
+Everything seemed super clear.
+
+
+68
+0:3:3,51 --> 0:3:5,14
+I said out loud, as
+I was supposed
+
+
+69
+0:3:5,14 --> 0:3:8,27
+to, what I was feeling.
+
+
+70
+0:3:8,27 --> 0:3:11,9
+"Garden looks nice," I
+said. "Super clear."
+
+
+71
+0:3:11,9 --> 0:3:14,98
+Abnesti said, "Jeff, how about
+we pep up those language
+
+
+72
+0:3:14,98 --> 0:3:18,52
+centers?" "Sure," I said.
+
+
+73
+0:3:18,52 --> 0:3:21,2
+"Drip on?" he said.
+
+
+74
+0:3:21,2 --> 0:3:24,1
+"Acknowledge," I said.
+
+
+75
+0:3:24,1 --> 0:3:28,17
+He added some Verbaluce to the
+drip, and soon I was feeling
+
+
+76
+0:3:28,17 --> 0:3:31,3
+the same things but saying
+them better.
+
+
+77
+0:3:31,3 --> 0:3:32,96
+The garden still looked nice.
+
+
+78
+0:3:32,96 --> 0:3:36,65
+It was like the bushes were so
+tight seeming and the sun made
+
+
+79
+0:3:36,65 --> 0:3:38,91
+everything stand out.
+
+
+80
+0:3:38,91 --> 0:3:43,71
+It was like any moment you
+expected some Victorians to
+
+
+81
+0:3:43,71 --> 0:3:46,37
+wander in with their
+cups of tea.
+
+
+82
+0:3:46,37 --> 0:3:48,62
+It was as if the garden had
+become a sort of embodiment of
+
+
+83
+0:3:48,62 --> 0:3:50,67
+the domestic dreams forever
+intrinsic to human
+
+
+84
+0:3:50,67 --> 0:3:52,87
+consciousness.
+
+
+85
+0:3:52,87 --> 0:3:55,22
+It was as if I could suddenly
+discern, in this contemporary
+
+
+86
+0:3:55,22 --> 0:3:58,33
+vignette, the ancient corollary,
+through which Plato
+
+
+87
+0:3:58,33 --> 0:4:0,81
+and some of his contemporaries
+might have strolled; to wit I
+
+
+88
+0:4:0,81 --> 0:4:4,43
+was sensing the eternal
+and the ephemeral.
+
+
+89
+0:4:4,43 --> 0:4:6,66
+I sat pleasantly engaged in
+these thoughts until the
+
+
+90
+0:4:6,66 --> 0:4:8,93
+Verbaluce began to wane.
+
+
+91
+0:4:8,93 --> 0:4:13,36
+At which point, the garden
+just looked nice again.
+
+
+92
+0:4:13,36 --> 0:4:16,17
+It was something about the
+bushes and whatnot.
+
+
+93
+0:4:16,17 --> 0:4:18,525
+It made you just want to lay out
+there and catch rays and
+
+
+94
+0:4:18,525 --> 0:4:21,399
+think your happy thoughts,
+if you get what I mean.
+
+
+95
+0:4:21,399 --> 0:4:23,55
+Then whatever else was in the
+drip wore off, and I didn't
+
+
+96
+0:4:23,55 --> 0:4:27,11
+feel much about the garden
+one way or the other.
+
+
+97
+0:4:27,11 --> 0:4:30,19
+My mouth was dry though and my
+gut had that post Verbaluce
+
+
+98
+0:4:30,19 --> 0:4:31,93
+feel to it.
+
+
+99
+0:4:31,93 --> 0:4:34,4
+"What's going to be cool about
+that one?" Abnesti said, "Is,
+
+
+100
+0:4:34,4 --> 0:4:37,95
+say a guy has to stay up late
+guarding a perimeter or is at
+
+
+101
+0:4:37,95 --> 0:4:40,64
+school waiting for his kid and
+gets bored, but there's some
+
+
+102
+0:4:40,64 --> 0:4:42,31
+nature nearby.
+
+
+103
+0:4:42,31 --> 0:4:46,22
+Or say a park ranger has to
+work a double shift."
+
+
+104
+0:4:46,22 --> 0:4:48,4
+"That'll be cool," I said.
+
+
+105
+0:4:48,4 --> 0:4:51,42
+"That's ED763," he said. "We're
+thinking of calling it
+
+
+106
+0:4:51,42 --> 0:4:56,73
+NatuGlide or maybe ErthAdmire."
+"Those are both
+
+
+107
+0:4:56,73 --> 0:4:58,5
+good," I said.
+
+
+108
+0:4:58,5 --> 0:5:1,17
+"Thanks for your help, Jeff,"
+he said, which is what he
+
+
+109
+0:5:1,17 --> 0:5:3,3
+always said.
+
+
+110
+0:5:3,3 --> 0:5:5,8
+"Only a million years to
+go," I said, which is
+
+
+111
+0:5:5,8 --> 0:5:8,5
+what I always said.
+
+
+112
+0:5:8,5 --> 0:5:10,49
+Then he said, "Exit the interior
+garden now, Jeff.
+
+
+113
+0:5:10,49 --> 0:5:15,56
+Head over to small workroom
+two." Into small workroom two
+
+
+114
+0:5:15,56 --> 0:5:18,62
+they sent this pale,
+tall girl.
+
+
+115
+0:5:18,62 --> 0:5:23,2
+"What do you think?" Abnesti
+said over the P.A. "Me?" I
+
+
+116
+0:5:23,2 --> 0:5:28,48
+said, "Or her?" "Both,"
+Abnesti said.
+
+
+117
+0:5:28,48 --> 0:5:30,59
+"Pretty good," I said.
+
+
+118
+0:5:30,59 --> 0:5:34,7
+"Fine, you know," she said,
+"normal." Abnesti then asked
+
+
+119
+0:5:34,7 --> 0:5:36,77
+us to rate each other more
+quantifiably as per
+
+
+120
+0:5:36,77 --> 0:5:39,66
+pretty, as per sexy.
+
+
+121
+0:5:39,66 --> 0:5:43,1
+It appeared we liked each other
+about average, i.e. no
+
+
+122
+0:5:43,1 --> 0:5:46,6
+big attraction or revulsion
+either way.
+
+
+123
+0:5:46,6 --> 0:5:50,86
+Abnesti said, "Jeff, drip on?"
+"Acknowledge," I said.
+
+
+124
+0:5:50,86 --> 0:5:53,48
+"Heather, drip on?" he said.
+
+
+125
+0:5:53,48 --> 0:5:56,32
+"Acknowledge," Heather said.
+
+
+126
+0:5:56,32 --> 0:6:0,54
+Then we looked at each other
+like, what happens next?
+
+
+127
+0:6:0,54 --> 0:6:5,56
+What happened next was Heather
+soon looked super good.
+
+
+128
+0:6:5,56 --> 0:6:8,31
+And I could tell she thought
+the same of me.
+
+
+129
+0:6:8,31 --> 0:6:9,285
+It came on so sudden.
+
+
+130
+0:6:9,285 --> 0:6:10,48
+We were like laughing.
+
+
+131
+0:6:10,48 --> 0:6:12,18
+How could we not
+have seen it--
+
+
+132
+0:6:12,18 --> 0:6:14,21
+how cute the other one was?
+
+
+133
+0:6:14,21 --> 0:6:16,99
+Luckily, there was a couch
+in the workroom.
+
+
+134
+0:6:16,99 --> 0:6:19,52
+It felt like our drip had, in
+addition to whatever they were
+
+
+135
+0:6:19,52 --> 0:6:23,28
+testing, some ED556 in it, which
+lowers your shame level
+
+
+136
+0:6:23,28 --> 0:6:25,35
+to like nil.
+
+
+137
+0:6:25,35 --> 0:6:28,12
+Because soon, there on the
+couch, off we went.
+
+
+138
+0:6:28,12 --> 0:6:30,94
+It was super hot between
+us, and not merely
+
+
+139
+0:6:30,94 --> 0:6:32,16
+in a horndog way.
+
+
+140
+0:6:32,16 --> 0:6:34,32
+Hot yes, but also just right--
+
+
+141
+0:6:34,32 --> 0:6:36,97
+like if you dreamed of a certain
+girl all your life and
+
+
+142
+0:6:36,97 --> 0:6:40,78
+all of a sudden there she was
+in your same workroom.
+
+
+143
+0:6:40,78 --> 0:6:43,7
+"Jeff," Abnesti said, "I'd like
+your permission to pep up
+
+
+144
+0:6:43,7 --> 0:6:45,9
+your language centers?"
+"Go for it," I
+
+
+145
+0:6:45,9 --> 0:6:49,53
+said, under her now.
+
+
+146
+0:6:49,53 --> 0:6:50,77
+"Drip on," he said.
+
+
+147
+0:6:50,77 --> 0:6:53,2
+"Acknowledge," I said.
+
+
+148
+0:6:53,2 --> 0:6:54,57
+"Me too," Heather said.
+
+
+149
+0:6:54,57 --> 0:6:56,455
+"You got it," Abnesti
+said with a laugh.
+
+
+150
+0:6:56,455 --> 0:6:59,88
+"Drip on?" "Acknowledge,"
+she said all breathless.
+
+
+151
+0:6:59,88 --> 0:7:1,68
+Soon, experiencing the benefits
+of the flowing
+
+
+152
+0:7:1,68 --> 0:7:4,49
+Verbaluce in our drips, we were
+not only fucking really
+
+
+153
+0:7:4,49 --> 0:7:7,78
+well, but also talking
+pretty great.
+
+
+154
+0:7:7,78 --> 0:7:9,97
+Like instead of just saying the
+sex types of things we had
+
+
+155
+0:7:9,97 --> 0:7:12,84
+been saying, such as wow, and
+oh God, and hell yes, and so
+
+
+156
+0:7:12,84 --> 0:7:16,77
+forth, we now began free styling
+re our sensations and
+
+
+157
+0:7:16,77 --> 0:7:21,39
+thoughts in elevated diction
+with 80% increased vocab, our
+
+
+158
+0:7:21,39 --> 0:7:22,66
+well articulated thoughts being
+
+
+159
+0:7:22,66 --> 0:7:25,32
+recorded for later analysis.
+
+
+160
+0:7:25,32 --> 0:7:27,61
+For me the feeling was
+approximately astonishment at
+
+
+161
+0:7:27,61 --> 0:7:29,82
+the dawning realization that
+this woman was being created
+
+
+162
+0:7:29,82 --> 0:7:32,7
+in real time, directly
+from my own mind,
+
+
+163
+0:7:32,7 --> 0:7:34,4
+per my deepest longings.
+
+
+164
+0:7:34,4 --> 0:7:36,11
+Finally, after all these years,
+was my thought, I'd
+
+
+165
+0:7:36,11 --> 0:7:38,772
+found the precise arrangement
+of body, face, mind that
+
+
+166
+0:7:38,772 --> 0:7:41,2
+personified all that
+was desirable.
+
+
+167
+0:7:41,2 --> 0:7:44,42
+The taste of her mouth, that
+look of that halo of blondish
+
+
+168
+0:7:44,42 --> 0:7:46,51
+hair spread out around
+her cherubic, yet
+
+
+169
+0:7:46,51 --> 0:7:47,89
+naughty looking face.
+
+
+170
+0:7:47,89 --> 0:7:50,0
+She was beneath me
+now, legs way up.
+
+
+171
+0:7:50,0 --> 0:7:52,87
+Even, not to be crude or
+dishonor the exalted feelings
+
+
+172
+0:7:52,87 --> 0:7:55,22
+I was experiencing, the
+sensations her vagina was
+
+
+173
+0:7:55,22 --> 0:7:57,37
+producing along the length of
+my thrusting penis were
+
+
+174
+0:7:57,37 --> 0:8:1,1
+precisely those I had
+always hungered for.
+
+
+175
+0:8:1,1 --> 0:8:3,51
+Though I had never before this
+instant realized that I so
+
+
+176
+0:8:3,51 --> 0:8:5,67
+ardently hungered for them.
+
+
+177
+0:8:5,67 --> 0:8:8,69
+That is to say a desire would
+arise, and concurrently, the
+
+
+178
+0:8:8,69 --> 0:8:12,0
+satisfaction of that desire
+would also arise.
+
+
+179
+0:8:12,0 --> 0:8:15,35
+It was as if A, I longed for a
+certain heretofore untasted
+
+
+180
+0:8:15,35 --> 0:8:19,1
+taste, until B, said longing
+became nearly unbearable, at
+
+
+181
+0:8:19,1 --> 0:8:22,79
+which time C, I found a morsel
+of food with that exact taste
+
+
+182
+0:8:22,79 --> 0:8:26,61
+already in my mouth, perfectly
+satisfying my longing.
+
+
+183
+0:8:26,61 --> 0:8:29,6
+Every utterance, every
+adjustment of posture, bespoke
+
+
+184
+0:8:29,6 --> 0:8:29,83
+the same thing.
+
+
+185
+0:8:29,83 --> 0:8:32,576
+We had known each other forever,
+were soulmates, had
+
+
+186
+0:8:32,576 --> 0:8:35,299
+met and loved in numerous
+preceding lifetimes and would
+
+
+187
+0:8:35,299 --> 0:8:38,9
+meet and love in many subsequent
+lifetimes, always
+
+
+188
+0:8:38,9 --> 0:8:41,82
+with the same transcendentally
+stupefying results.
+
+
+189
+0:8:41,82 --> 0:8:43,96
+Then there came a hard to
+describe, but very real,
+
+
+190
+0:8:43,96 --> 0:8:47,25
+drifting off into a number of
+sequential reveries that might
+
+
+191
+0:8:47,25 --> 0:8:49,96
+best be described as a
+type of nonnarrative
+
+
+192
+0:8:49,96 --> 0:8:51,86
+mind scenery, i.e.
+
+
+193
+0:8:51,86 --> 0:8:54,56
+A series of vague mental images
+of places I had never
+
+
+194
+0:8:54,56 --> 0:8:57,26
+been, a certain pine packed
+valley in high white
+
+
+195
+0:8:57,26 --> 0:9:0,84
+mountains, a chalet type house
+in a cul-de-sac, the yard of
+
+
+196
+0:9:0,84 --> 0:9:4,26
+which was overgrown with wide,
+stunted, Seussian trees, each
+
+
+197
+0:9:4,26 --> 0:9:7,41
+of which triggered a deep
+sentimental longing--
+
+
+198
+0:9:7,41 --> 0:9:10,352
+longings that coalesced into and
+were soon reduced to one
+
+
+199
+0:9:10,352 --> 0:9:11,99
+central longing, i.e.
+
+
+200
+0:9:11,99 --> 0:9:15,69
+An intense longing for Heather,
+and Heather alone.
+
+
+201
+0:9:15,69 --> 0:9:18,47
+This mind scenery phenomenon was
+strongest during our third
+
+
+202
+0:9:18,47 --> 0:9:20,2
+bout of lovemaking.
+
+
+203
+0:9:20,2 --> 0:9:22,6
+Apparently Abnesti
+had included some
+
+
+204
+0:9:22,6 --> 0:9:24,91
+Vivistif in my drip.
+
+
+205
+0:9:24,91 --> 0:9:27,21
+Afterward our protestations
+of love poured forth
+
+
+206
+0:9:27,21 --> 0:9:30,6
+simultaneously, linguistically
+complex and
+
+
+207
+0:9:30,6 --> 0:9:31,42
+metaphorically rich.
+
+
+208
+0:9:31,42 --> 0:9:34,13
+I dare say we had
+become poets.
+
+
+209
+0:9:34,13 --> 0:9:36,12
+We were allowed to lie there,
+limbs intermingled
+
+
+210
+0:9:36,12 --> 0:9:37,6
+for nearly an hour.
+
+
+211
+0:9:37,6 --> 0:9:41,18
+It was bliss, it was perfection,
+it was that
+
+
+212
+0:9:41,18 --> 0:9:42,37
+impossible thing--
+
+
+213
+0:9:42,37 --> 0:9:45,6
+happiness that does not wilt to
+reveal the thin shoots of
+
+
+214
+0:9:45,6 --> 0:9:48,23
+some new desire rising
+from within it.
+
+
+215
+0:9:48,23 --> 0:9:50,51
+We cuddled with a
+fierceness/focus that rivaled
+
+
+216
+0:9:50,51 --> 0:9:53,65
+the fierceness/focus with
+which we had fucked.
+
+
+217
+0:9:53,65 --> 0:9:57,38
+There is nothing less about
+cuddling vis-a-vis fucking, is
+
+
+218
+0:9:57,38 --> 0:9:58,96
+what I mean to say.
+
+
+219
+0:9:58,96 --> 0:10:1,48
+We were all over each other in
+the super friendly way of
+
+
+220
+0:10:1,48 --> 0:10:5,31
+puppies or spouses meeting for
+the first time after one of
+
+
+221
+0:10:5,31 --> 0:10:7,93
+them has undergone a close
+brush with death.
+
+
+222
+0:10:7,93 --> 0:10:13,12
+Everything seemed moist,
+permeable, sayable.
+
+
+223
+0:10:13,12 --> 0:10:16,47
+Then something in the
+drip began to wane.
+
+
+224
+0:10:16,47 --> 0:10:19,4
+I think Abnesti had shut
+off the Verbaluce,
+
+
+225
+0:10:19,4 --> 0:10:21,7
+also the shame reducer.
+
+
+226
+0:10:21,7 --> 0:10:24,77
+Basically, everything
+began to dwindle.
+
+
+227
+0:10:24,77 --> 0:10:29,6
+Suddenly we felt shy,
+but still loving.
+
+
+228
+0:10:29,6 --> 0:10:32,14
+We began the process of trying
+to talk apres Verbaluce--
+
+
+229
+0:10:32,14 --> 0:10:33,81
+always awkward.
+
+
+230
+0:10:33,81 --> 0:10:36,16
+Yet, I could see in her eyes
+that she was still feeling
+
+
+231
+0:10:36,16 --> 0:10:38,8
+love for me, and I was
+definitely still
+
+
+232
+0:10:38,8 --> 0:10:40,81
+feeling love for her.
+
+
+233
+0:10:40,81 --> 0:10:41,94
+Well, why not?
+
+
+234
+0:10:41,94 --> 0:10:44,41
+We had just fucked
+three times.
+
+
+235
+0:10:44,41 --> 0:10:47,36
+Why do you think they
+call it making love?
+
+
+236
+0:10:47,36 --> 0:10:49,11
+That is what we had just
+made three times--
+
+
+237
+0:10:49,11 --> 0:10:50,91
+love.
+
+
+238
+0:10:50,91 --> 0:10:54,22
+Then Abnesti said, "Drip on?"
+
+
+239
+0:10:54,22 --> 0:10:56,38
+We had kind of forgotten he was
+even there behind his one
+
+
+240
+0:10:56,38 --> 0:10:58,27
+way mirror.
+
+
+241
+0:10:58,27 --> 0:10:59,76
+I said, "Do we have to?
+
+
+242
+0:10:59,76 --> 0:11:2,98
+We are really liking this right
+now." "We're just going
+
+
+243
+0:11:2,98 --> 0:11:5,18
+to try to get you guys back to
+baseline," he said. "We've got
+
+
+244
+0:11:5,18 --> 0:11:7,0
+more to do today."
+
+
+245
+0:11:7,0 --> 0:11:8,58
+"Shit," I said.
+
+
+246
+0:11:8,58 --> 0:11:10,99
+"Rats," she said.
+
+
+247
+0:11:10,99 --> 0:11:13,44
+"Drip on?" Abnesti said.
+
+
+248
+0:11:13,44 --> 0:11:16,1
+"Acknowledge," we said.
+
+
+249
+0:11:16,1 --> 0:11:18,8
+Soon something began
+to change.
+
+
+250
+0:11:18,8 --> 0:11:25,33
+I mean, she was fine, a
+handsome, pale girl, but
+
+
+251
+0:11:25,33 --> 0:11:27,48
+nothing special.
+
+
+252
+0:11:27,48 --> 0:11:30,75
+And I could see that she felt
+the same about me, i.e what
+
+
+253
+0:11:30,75 --> 0:11:33,14
+had all that fuss been
+about just now?
+
+
+254
+0:11:33,14 --> 0:11:35,91
+Why weren't we dressed?
+
+
+255
+0:11:35,91 --> 0:11:38,32
+We real quick got dressed--
+
+
+256
+0:11:38,32 --> 0:11:40,17
+kind of embarrassing.
+
+
+257
+0:11:40,17 --> 0:11:42,9
+Did I love her, or
+did she love me?
+
+
+258
+0:11:42,9 --> 0:11:45,34
+Ha, no.
+
+
+259
+0:11:45,34 --> 0:11:47,56
+Then it was time
+for her to go.
+
+
+260
+0:11:47,56 --> 0:11:49,45
+We shook hands.
+
+
+261
+0:11:49,45 --> 0:11:51,33
+Out she went.
+
+
+262
+0:11:51,33 --> 0:11:53,47
+Lunch came in on a tray--
+
+
+263
+0:11:53,47 --> 0:11:56,6
+spaghetti with chicken chunks.
+
+
+264
+0:11:56,6 --> 0:11:58,8
+Man was I hungry.
+
+
+265
+0:11:58,8 --> 0:11:59,59
+I spent all of lunch
+time thinking.
+
+
+266
+0:11:59,59 --> 0:12:0,14
+It was weird.
+
+
+267
+0:12:0,14 --> 0:12:2,78
+I had the memory of fucking
+Heather, the memory of having
+
+
+268
+0:12:2,78 --> 0:12:5,61
+felt the things I'd felt for
+her, the memory of having said
+
+
+269
+0:12:5,61 --> 0:12:7,38
+the things I'd said to her.
+
+
+270
+0:12:7,38 --> 0:12:10,7
+My throat was like raw from how
+much I'd said and how fast
+
+
+271
+0:12:10,7 --> 0:12:12,1
+I felt compelled to say it.
+
+
+272
+0:12:12,1 --> 0:12:16,69
+But in terms of feelings, I
+basically had nada left--
+
+
+273
+0:12:16,69 --> 0:12:19,9
+just a hot face and some shame
+re having fucked three times
+
+
+274
+0:12:19,9 --> 0:12:22,0
+in front of Abnesti.
+
+
+275
+0:12:22,0 --> 0:12:24,43
+So I'll stop there and deliver
+what "Reading Rainbow" calls a
+
+
+276
+0:12:24,43 --> 0:12:28,29
+cliffhanger, and thank you.
+
+
+277
+0:12:28,29 --> 0:12:29,1
+[INAUDIBLE]
+
+
+278
+0:12:29,1 --> 0:12:35,23
+[APPLAUSE]
+
+
+279
+0:12:35,23 --> 0:12:39,7
+So now, if anybody has a
+question I'm happy to take it.
+
+
+280
+0:12:39,7 --> 0:12:41,38
+And there's a funny
+phenomenon.
+
+
+281
+0:12:41,38 --> 0:12:42,3
+I've been doing a
+lot of readings.
+
+
+282
+0:12:42,3 --> 0:12:46,14
+And there's this weird thing
+where invariably the person
+
+
+283
+0:12:46,14 --> 0:12:48,33
+who asks the first question is
+the one with the highest
+
+
+284
+0:12:48,33 --> 0:12:50,6
+sexual energy in
+the gathering.
+
+
+285
+0:12:50,6 --> 0:12:51,61
+[LAUGHTER]
+
+
+286
+0:12:51,61 --> 0:12:52,0
+It's weird.
+
+
+287
+0:12:52,0 --> 0:12:54,12
+It's like some kind of
+Darwinian thing.
+
+
+288
+0:12:54,12 --> 0:12:58,131
+[LAUGHTER]
+
+
+289
+0:12:58,131 --> 0:13:0,92
+AUDIENCE: [INAUDIBLE].
+
+
+290
+0:13:0,92 --> 0:13:3,872
+GEORGE SAUNDERS: Yeah, I
+had an idea it was you.
+
+
+291
+0:13:3,872 --> 0:13:5,122
+AUDIENCE: [INAUDIBLE].
+
+
+292
+0:13:5,122 --> 0:13:7,17
+
+
+
+293
+0:13:7,17 --> 0:13:8,47
+AUDIENCE: I had the opportunity
+the other day to
+
+
+294
+0:13:8,47 --> 0:13:11,67
+read a little "New York Times
+Magazine" article about you.
+
+
+295
+0:13:11,67 --> 0:13:15,64
+And in the back, at the bottom
+of it, they mentioned that you
+
+
+296
+0:13:15,64 --> 0:13:17,12
+studied or practiced
+some [? Yingla ?]
+
+
+297
+0:13:17,12 --> 0:13:17,81
+Buddhism.
+
+
+298
+0:13:17,81 --> 0:13:18,21
+GEORGE SAUNDERS: Yeah.
+
+
+299
+0:13:18,21 --> 0:13:21,21
+AUDIENCE: And a lot of this
+stuff, in terms of perception
+
+
+300
+0:13:21,21 --> 0:13:24,52
+and having alternate viewpoints,
+different ways of
+
+
+301
+0:13:24,52 --> 0:13:26,83
+understanding our experience
+and reality, particularly
+
+
+302
+0:13:26,83 --> 0:13:30,1
+generating experience and being
+able to appreciate that
+
+
+303
+0:13:30,1 --> 0:13:32,15
+and work with that came out.
+
+
+304
+0:13:32,15 --> 0:13:36,93
+And I wanted to, I guess hear a
+couple points about how you
+
+
+305
+0:13:36,93 --> 0:13:41,34
+deal with the flexibility of
+understanding how we perceive
+
+
+306
+0:13:41,34 --> 0:13:42,51
+things and how we generate
+[INAUDIBLE].
+
+
+307
+0:13:42,51 --> 0:13:43,52
+GEORGE SAUNDERS: Sure, that's
+a great question.
+
+
+308
+0:13:43,52 --> 0:13:47,93
+I think, for me, that the answer
+is a little simple,
+
+
+309
+0:13:47,93 --> 0:13:51,6
+which is, for me, everything
+that I do in fiction is
+
+
+310
+0:13:51,6 --> 0:13:53,79
+through the language, like
+the individual sentence.
+
+
+311
+0:13:53,79 --> 0:13:55,42
+And it's a funny thing, because
+when you're a young
+
+
+312
+0:13:55,42 --> 0:13:57,7
+writer, you're concept heavy.
+
+
+313
+0:13:57,7 --> 0:14:0,44
+And you usually participate
+in some version of the
+
+
+314
+0:14:0,44 --> 0:14:4,9
+intentional fallacy, which is
+your job as a writer is to
+
+
+315
+0:14:4,9 --> 0:14:9,6
+pull up the big shit truck full
+of meaning or theme and
+
+
+316
+0:14:9,6 --> 0:14:10,75
+get the reader [INAUDIBLE]
+
+
+317
+0:14:10,75 --> 0:14:13,14
+sit there and, bam,
+and drop that.
+
+
+318
+0:14:13,14 --> 0:14:16,9
+And it's a fundamentally
+condescending view.
+
+
+319
+0:14:16,9 --> 0:14:19,3
+Which I think most of us when
+we're young artists, we have
+
+
+320
+0:14:19,3 --> 0:14:22,2
+that idea, that you're a good
+artist to the extent that
+
+
+321
+0:14:22,2 --> 0:14:24,88
+you're conveying some theme.
+
+
+322
+0:14:24,88 --> 0:14:28,42
+So I had a long period of not
+doing much in art, because I
+
+
+323
+0:14:28,42 --> 0:14:30,43
+was operating under
+that assumption.
+
+
+324
+0:14:30,43 --> 0:14:33,98
+And I had a breakthrough where I
+realized that in order to be
+
+
+325
+0:14:33,98 --> 0:14:36,32
+in the kind of intimate
+relationship you have to be in
+
+
+326
+0:14:36,32 --> 0:14:40,36
+with your reader, you have to
+commit to not being sure about
+
+
+327
+0:14:40,36 --> 0:14:40,96
+what's happening.
+
+
+328
+0:14:40,96 --> 0:14:43,37
+In other words, to come into
+it with as low content as
+
+
+329
+0:14:43,37 --> 0:14:47,96
+possible and feel your way
+through it by watching the
+
+
+330
+0:14:47,96 --> 0:14:49,49
+energy coming off the prose.
+
+
+331
+0:14:49,49 --> 0:14:54,23
+So that's the main answer for
+me, is as I'm writing I'm
+
+
+332
+0:14:54,23 --> 0:14:57,59
+imagining an intelligent,
+engaged person right over
+
+
+333
+0:14:57,59 --> 0:15:2,23
+here, who's smart and is a
+little skeptical and is
+
+
+334
+0:15:2,23 --> 0:15:6,36
+watching me to see if I'm going
+to pull any tricks.
+
+
+335
+0:15:6,36 --> 0:15:8,84
+And I imagine a little gauge
+in my head-- like positive
+
+
+336
+0:15:8,84 --> 0:15:10,3
+over here and negative here.
+
+
+337
+0:15:10,3 --> 0:15:12,34
+So as you're reading your own
+prose, you're watching that
+
+
+338
+0:15:12,34 --> 0:15:15,33
+needle, and you're trying to
+keep it up in the positive.
+
+
+339
+0:15:15,33 --> 0:15:18,92
+And when it gets negative, then
+your job is to be all
+
+
+340
+0:15:18,92 --> 0:15:20,71
+right with that.
+
+
+341
+0:15:20,71 --> 0:15:22,69
+And like a scientist, to
+say well, why did it
+
+
+342
+0:15:22,69 --> 0:15:24,91
+do that do you think?
+
+
+343
+0:15:24,91 --> 0:15:28,26
+Why is it on page two, nine
+lines in, I just felt a little
+
+
+344
+0:15:28,26 --> 0:15:29,74
+bit of a drop.
+
+
+345
+0:15:29,74 --> 0:15:32,3
+And then, if you can avoid
+answering that too
+
+
+346
+0:15:32,3 --> 0:15:35,14
+reductively, then it opens up.
+
+
+347
+0:15:35,14 --> 0:15:38,5
+So really, in a way, that's the
+answer to your question.
+
+
+348
+0:15:38,5 --> 0:15:40,61
+But I also was raised
+Catholic.
+
+
+349
+0:15:40,61 --> 0:15:43,82
+And we did this intense thing
+called the stations of the
+
+
+350
+0:15:43,82 --> 0:15:45,86
+cross, which maybe
+some of you did.
+
+
+351
+0:15:45,86 --> 0:15:48,5
+And this was the '60s,
+so we really did it.
+
+
+352
+0:15:48,5 --> 0:15:51,38
+We did it for five straight
+days, naked in the desert
+
+
+353
+0:15:51,38 --> 0:15:53,13
+being flayed.
+
+
+354
+0:15:53,13 --> 0:15:55,86
+But the thing was, there were
+these images of the suffering
+
+
+355
+0:15:55,86 --> 0:15:57,9
+of Christ around the room.
+
+
+356
+0:15:57,9 --> 0:15:59,2
+And so you sat and you
+looked at each one.
+
+
+357
+0:15:59,2 --> 0:16:0,54
+So now it was the
+second station.
+
+
+358
+0:16:0,54 --> 0:16:3,57
+And there was a little narration
+from the Bible.
+
+
+359
+0:16:3,57 --> 0:16:7,31
+And then you were to sit,
+quietly, and think about it.
+
+
+360
+0:16:7,31 --> 0:16:9,92
+And we had one nun who was
+wonderful, because she would
+
+
+361
+0:16:9,92 --> 0:16:13,3
+say, think about what was Jesus
+experiencing and so on.
+
+
+362
+0:16:13,3 --> 0:16:15,17
+And then she'd say, think about
+what the Roman soldier
+
+
+363
+0:16:15,17 --> 0:16:16,63
+was thinking.
+
+
+364
+0:16:16,63 --> 0:16:18,6
+What about that guy-- there's an
+image-- what about that guy
+
+
+365
+0:16:18,6 --> 0:16:19,29
+standing to the side?
+
+
+366
+0:16:19,29 --> 0:16:20,89
+What's his role?
+
+
+367
+0:16:20,89 --> 0:16:24,2
+So that was early, like
+Novel Writing 101.
+
+
+368
+0:16:24,2 --> 0:16:26,93
+But from an early time, the idea
+was a part of the fictive
+
+
+369
+0:16:26,93 --> 0:16:29,61
+process was generating
+empathy for somebody
+
+
+370
+0:16:29,61 --> 0:16:31,67
+that you might not.
+
+
+371
+0:16:31,67 --> 0:16:33,152
+I'm not sure if I'm answering
+your question at all.
+
+
+372
+0:16:33,152 --> 0:16:34,96
+[LAUGHTER]
+
+
+373
+0:16:34,96 --> 0:16:37,5
+GEORGE SAUNDERS: And when
+I was a child--
+
+
+374
+0:16:37,5 --> 0:16:38,53
+Thank you for your question.
+
+
+375
+0:16:38,53 --> 0:16:39,3
+AUDIENCE: [INAUDIBLE].
+
+
+376
+0:16:39,3 --> 0:16:42,19
+It's really just about how to
+appreciate the different ways
+
+
+377
+0:16:42,19 --> 0:16:43,502
+of perceiving--
+
+
+378
+0:16:43,502 --> 0:16:45,56
+like you were saying, like you
+can have [INAUDIBLE] the
+
+
+379
+0:16:45,56 --> 0:16:47,47
+different characters or
+understanding that we create
+
+
+380
+0:16:47,47 --> 0:16:48,85
+our reality to a
+certain extent.
+
+
+381
+0:16:48,85 --> 0:16:49,2
+GEORGE SAUNDERS: Exactly.
+
+
+382
+0:16:49,2 --> 0:16:51,52
+And for me, one of the
+interesting fictive points is
+
+
+383
+0:16:51,52 --> 0:16:53,61
+that if you were trying to make
+a quote, unquote accurate
+
+
+384
+0:16:53,61 --> 0:16:58,11
+picture of this room, it would
+probably consist of 107
+
+
+385
+0:16:58,11 --> 0:17:1,91
+separate mind streams going
+at once and occasionally
+
+
+386
+0:17:1,91 --> 0:17:3,25
+interacting.
+
+
+387
+0:17:3,25 --> 0:17:6,69
+And often the explosiveness of
+the interaction has to do with
+
+
+388
+0:17:6,69 --> 0:17:8,0
+the mind streams.
+
+
+389
+0:17:8,0 --> 0:17:9,77
+He's thinking, no
+one respects me.
+
+
+390
+0:17:9,77 --> 0:17:10,96
+I never get a break.
+
+
+391
+0:17:10,96 --> 0:17:13,19
+And then she's thinking about
+her sick mother and she
+
+
+392
+0:17:13,19 --> 0:17:15,31
+inadvertently steps
+on his foot.
+
+
+393
+0:17:15,31 --> 0:17:17,6
+And a shit storm happens.
+
+
+394
+0:17:17,6 --> 0:17:20,17
+But actually it's not really
+a physical, it's two mind
+
+
+395
+0:17:20,17 --> 0:17:24,0
+streams bumping a little bit.
+
+
+396
+0:17:24,0 --> 0:17:25,814
+Congratulations on your
+sexual energy also.
+
+
+397
+0:17:25,814 --> 0:17:29,36
+[LAUGHTER]
+
+
+398
+0:17:29,36 --> 0:17:32,16
+AUDIENCE: I wondered if you
+could say a few things about
+
+
+399
+0:17:32,16 --> 0:17:33,9
+your influences.
+
+
+400
+0:17:33,9 --> 0:17:37,65
+And the reason that I'm
+interested in this is
+
+
+401
+0:17:37,65 --> 0:17:42,57
+listening to you in this piece
+resurrected for me a powerful
+
+
+402
+0:17:42,57 --> 0:17:44,76
+memory of having read "Flowers
+for Algernon."
+
+
+403
+0:17:44,76 --> 0:17:45,39
+GEORGE SAUNDERS: Oh yeah, sure.
+
+
+404
+0:17:45,39 --> 0:17:47,8
+Sure, yep.
+
+
+405
+0:17:47,8 --> 0:17:50,69
+AUDIENCE: I feel like it's
+really beautiful
+
+
+406
+0:17:50,69 --> 0:17:52,97
+in a similar way.
+
+
+407
+0:17:52,97 --> 0:17:53,7
+GEORGE SAUNDERS: Yeah, I know.
+
+
+408
+0:17:53,7 --> 0:17:54,51
+I had the same-- when
+I was writing the
+
+
+409
+0:17:54,51 --> 0:17:55,59
+story, I went oh I remember.
+
+
+410
+0:17:55,59 --> 0:17:57,49
+I didn't really remember the
+details of the story, but I
+
+
+411
+0:17:57,49 --> 0:17:59,0
+thought, oh I'm channeling
+that.
+
+
+412
+0:17:59,0 --> 0:17:59,6
+AUDIENCE: Yeah
+
+
+413
+0:17:59,6 --> 0:18:1,7
+GEORGE SAUNDERS: You know I
+think when I was younger, I
+
+
+414
+0:18:1,7 --> 0:18:4,21
+hated any kind of suggestion
+that my work had anything to
+
+
+415
+0:18:4,21 --> 0:18:6,8
+do with anything that
+had ever occurred.
+
+
+416
+0:18:6,8 --> 0:18:8,62
+And then as you get older,
+you're like well of course,
+
+
+417
+0:18:8,62 --> 0:18:11,3
+where else are you going to
+come from, except all the
+
+
+418
+0:18:11,3 --> 0:18:12,93
+influences that have
+passed through you?
+
+
+419
+0:18:12,93 --> 0:18:15,38
+So in a way, that they might
+be at the heart of that
+
+
+420
+0:18:15,38 --> 0:18:18,8
+Picasso thing about, was it
+good artists borrow, great
+
+
+421
+0:18:18,8 --> 0:18:20,2
+artists steal?
+
+
+422
+0:18:20,2 --> 0:18:24,3
+That saying, yeah of course, in
+any kind of work none of us
+
+
+423
+0:18:24,3 --> 0:18:28,18
+exist totally originally.
+
+
+424
+0:18:28,18 --> 0:18:31,37
+And maybe your supplements as an
+artist is your willingness
+
+
+425
+0:18:31,37 --> 0:18:33,71
+to let those influences
+flow through you.
+
+
+426
+0:18:33,71 --> 0:18:34,75
+[INAUDIBLE]
+
+
+427
+0:18:34,75 --> 0:18:36,46
+And then the other thing I
+noticed is when you're on a
+
+
+428
+0:18:36,46 --> 0:18:38,6
+book tour that you always get
+the influence question.
+
+
+429
+0:18:38,6 --> 0:18:42,97
+And the first thing is to go,
+well of course, Shakespeare.
+
+
+430
+0:18:42,97 --> 0:18:45,0
+Jesus, Mother Teresa was
+quite important, right?
+
+
+431
+0:18:45,0 --> 0:18:47,9
+But then when you really think
+about it, for me, the '70s
+
+
+432
+0:18:47,9 --> 0:18:49,24
+comics were usually--
+
+
+433
+0:18:49,24 --> 0:18:53,41
+Steve Martin in his early
+incarnation, Monty Python,
+
+
+434
+0:18:53,41 --> 0:18:54,25
+George Carlin.
+
+
+435
+0:18:54,25 --> 0:18:58,29
+And in our school, that was
+really a way to get a little
+
+
+436
+0:18:58,29 --> 0:19:0,77
+bit of credibility is that you
+could stand up and recite the
+
+
+437
+0:19:0,77 --> 0:19:3,81
+George Carlin album or do
+a passable Steve Martin.
+
+
+438
+0:19:3,81 --> 0:19:7,58
+So I had a long period where I
+really considered that low--
+
+
+439
+0:19:7,58 --> 0:19:8,5
+not literary.
+
+
+440
+0:19:8,5 --> 0:19:12,69
+And because of where I came
+from, I thought, well
+
+
+441
+0:19:12,69 --> 0:19:13,39
+literature--
+
+
+442
+0:19:13,39 --> 0:19:14,57
+I never had met writers.
+
+
+443
+0:19:14,57 --> 0:19:17,28
+Literature is a thing that you
+can't quite do, where you
+
+
+444
+0:19:17,28 --> 0:19:19,82
+totally become someone else.
+
+
+445
+0:19:19,82 --> 0:19:22,25
+And only at this crisis point,
+I went well maybe not.
+
+
+446
+0:19:22,25 --> 0:19:25,31
+Maybe literature is where you
+really open up the valve to
+
+
+447
+0:19:25,31 --> 0:19:26,68
+everybody that you've been.
+
+
+448
+0:19:26,68 --> 0:19:29,92
+And for me that meant letting
+in the sound of vestigial
+
+
+449
+0:19:29,92 --> 0:19:33,2
+Steve Martin and the
+Monty Python.
+
+
+450
+0:19:33,2 --> 0:19:35,95
+So I think influence can
+sometimes may be more full
+
+
+451
+0:19:35,95 --> 0:19:38,59
+body than we think it is.
+
+
+452
+0:19:38,59 --> 0:19:39,96
+AUDIENCE: Hi.
+
+
+453
+0:19:39,96 --> 0:19:43,32
+I saw you come to Google
+about five years ago.
+
+
+454
+0:19:43,32 --> 0:19:45,82
+And I wanted to hear you talk
+a little bit about what it
+
+
+455
+0:19:45,82 --> 0:19:49,79
+must be like five years later
+to have some of your stories
+
+
+456
+0:19:49,79 --> 0:19:52,8
+coming true and we're
+making them happen.
+
+
+457
+0:19:52,8 --> 0:19:54,56
+GEORGE SAUNDERS: Yeah.
+
+
+458
+0:19:54,56 --> 0:19:57,5
+AUDIENCE: My neighbors, for
+example, just got some
+
+
+459
+0:19:57,5 --> 0:19:58,41
+[INAUDIBLE]
+
+
+460
+0:19:58,41 --> 0:19:59,38
+in Atherton.
+
+
+461
+0:19:59,38 --> 0:20:4,93
+And so I was just wondering if
+you draw, I guess, inspiration
+
+
+462
+0:20:4,93 --> 0:20:7,1
+from Silicon Valley?
+
+
+463
+0:20:7,1 --> 0:20:13,4
+Or if it's, I don't know, some
+other level of inspiration?
+
+
+464
+0:20:13,4 --> 0:20:15,16
+GEORGE SAUNDERS: I don't really
+do a lot of research or
+
+
+465
+0:20:15,16 --> 0:20:16,74
+direct tapping for ideas.
+
+
+466
+0:20:16,74 --> 0:20:21,55
+But I think my feeling is that
+if you were wired right, and
+
+
+467
+0:20:21,55 --> 0:20:25,0
+if you were alert enough, even
+the most banal moment would be
+
+
+468
+0:20:25,0 --> 0:20:26,94
+crazy and full of wonder.
+
+
+469
+0:20:26,94 --> 0:20:30,61
+So the fact that we're here,
+we're at Google, we're feeling
+
+
+470
+0:20:30,61 --> 0:20:34,43
+pretty good, most of us
+are young, and yet
+
+
+471
+0:20:34,43 --> 0:20:35,62
+we know for a fact--
+
+
+472
+0:20:35,62 --> 0:20:36,67
+totally verifiable--
+
+
+473
+0:20:36,67 --> 0:20:38,6
+that in x number of
+years we'll all be
+
+
+474
+0:20:38,6 --> 0:20:40,0
+rotting corpses somewhere.
+
+
+475
+0:20:40,0 --> 0:20:40,36
+We know it.
+
+
+476
+0:20:40,36 --> 0:20:41,23
+Why are we so happy?
+
+
+477
+0:20:41,23 --> 0:20:42,505
+Why are we eating lunch?
+
+
+478
+0:20:42,505 --> 0:20:43,95
+[LAUGHTER]
+
+
+479
+0:20:43,95 --> 0:20:46,48
+GEORGE SAUNDERS: Or even to be
+a little more serious, we
+
+
+480
+0:20:46,48 --> 0:20:50,62
+venture forth every day in love
+with somebody or somebody
+
+
+481
+0:20:50,62 --> 0:20:55,28
+is beloved to us, and yet the
+incredible vulnerability that
+
+
+482
+0:20:55,28 --> 0:20:57,47
+everyone comes to an end,
+including the people
+
+
+483
+0:20:57,47 --> 0:20:59,38
+you love, for sure.
+
+
+484
+0:20:59,38 --> 0:21:1,2
+So to me that--
+
+
+485
+0:21:1,2 --> 0:21:4,25
+what's weird is the habitual
+position of
+
+
+486
+0:21:4,25 --> 0:21:5,78
+being OK with that.
+
+
+487
+0:21:5,78 --> 0:21:7,14
+Yeah, I know it's true,
+but my phone's a
+
+
+488
+0:21:7,14 --> 0:21:8,31
+little low on battery.
+
+
+489
+0:21:8,31 --> 0:21:10,56
+It's crazy really.
+
+
+490
+0:21:10,56 --> 0:21:15,67
+So to me the inspiration for
+the weird pieces is just
+
+
+491
+0:21:15,67 --> 0:21:18,69
+through the writing process,
+through revising, through
+
+
+492
+0:21:18,69 --> 0:21:22,1
+trying not to be dull, to try
+to get some sense of that
+
+
+493
+0:21:22,1 --> 0:21:24,24
+wonder back into prose.
+
+
+494
+0:21:24,24 --> 0:21:28,9
+So I don't really do a lot of
+looking for weird things.
+
+
+495
+0:21:28,9 --> 0:21:32,53
+Also, the other thing I notice,
+I don't really have as
+
+
+496
+0:21:32,53 --> 0:21:35,12
+much judgment about contemporary
+culture as people
+
+
+497
+0:21:35,12 --> 0:21:35,99
+think I do.
+
+
+498
+0:21:35,99 --> 0:21:36,9
+I like it.
+
+
+499
+0:21:36,9 --> 0:21:38,19
+I like everything.
+
+
+500
+0:21:38,19 --> 0:21:39,44
+I like that--
+
+
+501
+0:21:39,44 --> 0:21:41,79
+
+
+
+502
+0:21:41,79 --> 0:21:43,47
+I won't name companies-- but
+some of the dangerous
+
+
+503
+0:21:43,47 --> 0:21:47,33
+technological developments,
+I think it's interesting.
+
+
+504
+0:21:47,33 --> 0:21:51,43
+So to me, the highest position
+is to have five or six
+
+
+505
+0:21:51,43 --> 0:21:55,78
+opinions, all open,
+on your desktop.
+
+
+506
+0:21:55,78 --> 0:21:58,98
+And they contradict, and there's
+no way to reconcile
+
+
+507
+0:21:58,98 --> 0:22:0,64
+them, but you're OK
+leaving them open.
+
+
+508
+0:22:0,64 --> 0:22:3,932
+That would be the highest
+aspiration.
+
+
+509
+0:22:3,932 --> 0:22:4,42
+AUDIENCE: Hi.
+
+
+510
+0:22:4,42 --> 0:22:5,55
+GEORGE SAUNDERS: Hi.
+
+
+511
+0:22:5,55 --> 0:22:8,46
+AUDIENCE: When you have a story
+that plays around with
+
+
+512
+0:22:8,46 --> 0:22:10,98
+characters that are opposites,
+do you ever find yourself
+
+
+513
+0:22:10,98 --> 0:22:12,65
+having trouble sympathizing
+with one?
+
+
+514
+0:22:12,65 --> 0:22:14,55
+Or you sympathize more with
+one over the other?
+
+
+515
+0:22:14,55 --> 0:22:16,32
+GEORGE SAUNDERS:
+Totally, yeah.
+
+
+516
+0:22:16,32 --> 0:22:18,88
+The question is if there's two
+different characters, do you
+
+
+517
+0:22:18,88 --> 0:22:19,74
+have trouble with sympathy?
+
+
+518
+0:22:19,74 --> 0:22:21,8
+And I think you absolutely do.
+
+
+519
+0:22:21,8 --> 0:22:21,94
+And you should, really.
+
+
+520
+0:22:21,94 --> 0:22:23,69
+It would be weird
+if you didn't.
+
+
+521
+0:22:23,69 --> 0:22:27,19
+But then I do this kind of
+iterative revision thing,
+
+
+522
+0:22:27,19 --> 0:22:29,95
+where I just go into it hundreds
+and hundreds of
+
+
+523
+0:22:29,95 --> 0:22:32,65
+times, each time tweaking a
+little something or a lot--
+
+
+524
+0:22:32,65 --> 0:22:35,62
+just expressing my opinion
+on each draft.
+
+
+525
+0:22:35,62 --> 0:22:39,39
+And what's interesting is if you
+do that, the first step is
+
+
+526
+0:22:39,39 --> 0:22:41,91
+to out yourself on your bias.
+
+
+527
+0:22:41,91 --> 0:22:44,77
+Like in this book, there's
+a story called "Puppy."
+
+
+528
+0:22:44,77 --> 0:22:48,92
+And there's these two mothers
+who are very similar, and they
+
+
+529
+0:22:48,92 --> 0:22:50,6
+had the same interests.
+
+
+530
+0:22:50,6 --> 0:22:52,16
+And in the end, it's
+catastrophic what happens.
+
+
+531
+0:22:52,16 --> 0:22:57,1
+And in that story, I definitely
+had a bias for the
+
+
+532
+0:22:57,1 --> 0:22:58,73
+poorer of the two women.
+
+
+533
+0:22:58,73 --> 0:23:1,64
+But when I submitted it to the
+"New Yorker." she said
+
+
+534
+0:23:1,64 --> 0:23:2,52
+something really smart.
+
+
+535
+0:23:2,52 --> 0:23:5,95
+She said, the way you're writing
+her dialogue, you're
+
+
+536
+0:23:5,95 --> 0:23:7,48
+condescending to her.
+
+
+537
+0:23:7,48 --> 0:23:10,87
+Because I had written it really
+straight white trash.
+
+
+538
+0:23:10,87 --> 0:23:12,62
+And she said, that throws
+the story off.
+
+
+539
+0:23:12,62 --> 0:23:13,825
+You seem like you're making
+fun of her and
+
+
+540
+0:23:13,825 --> 0:23:14,7
+not the other one.
+
+
+541
+0:23:14,7 --> 0:23:17,28
+So in that, the process
+was to take her
+
+
+542
+0:23:17,28 --> 0:23:18,86
+dialogue up a little bit.
+
+
+543
+0:23:18,86 --> 0:23:21,57
+And in doing that, she became
+a more full person.
+
+
+544
+0:23:21,57 --> 0:23:22,66
+And I liked her better.
+
+
+545
+0:23:22,66 --> 0:23:25,17
+So for that story, the critical
+thing was to do just
+
+
+546
+0:23:25,17 --> 0:23:26,9
+what you're saying-- adjust
+it, so that there's some
+
+
+547
+0:23:26,9 --> 0:23:29,52
+semblance of equity
+between the two.
+
+
+548
+0:23:29,52 --> 0:23:31,72
+But I think as a general writing
+principle, your main
+
+
+549
+0:23:31,72 --> 0:23:35,36
+job is to do something
+and then notice it.
+
+
+550
+0:23:35,36 --> 0:23:38,6
+And then adjust accordingly.
+
+
+551
+0:23:38,6 --> 0:23:40,24
+And then notice the thing that
+you've done, and adjust
+
+
+552
+0:23:40,24 --> 0:23:41,2
+accordingly--
+
+
+553
+0:23:41,2 --> 0:23:43,99
+rinse, lather, repeat
+a million times.
+
+
+554
+0:23:43,99 --> 0:23:47,42
+And then weirdly, in time, the
+story will adjust itself
+
+
+555
+0:23:47,42 --> 0:23:50,54
+morally to be more fair, which
+is really a weird thing.
+
+
+556
+0:23:50,54 --> 0:23:51,61
+But yeah, I think you should.
+
+
+557
+0:23:51,61 --> 0:23:54,22
+Of course, you would.
+
+
+558
+0:23:54,22 --> 0:23:55,64
+AUDIENCE: I think it's really
+interesting what you said
+
+
+559
+0:23:55,64 --> 0:23:59,31
+about acknowledging how your own
+mindset has changed as a
+
+
+560
+0:23:59,31 --> 0:24:1,63
+writer from a more professorial
+
+
+561
+0:24:1,63 --> 0:24:4,7
+place to more engaging--
+
+
+562
+0:24:4,7 --> 0:24:7,5
+to combine that with what sounds
+like a very intense
+
+
+563
+0:24:7,5 --> 0:24:9,8
+iterative visionary
+writing style.
+
+
+564
+0:24:9,8 --> 0:24:11,92
+Do you ever have the desire, or
+do you ever go back to your
+
+
+565
+0:24:11,92 --> 0:24:14,92
+earlier work thinking I
+can punch this out.
+
+
+566
+0:24:14,92 --> 0:24:15,38
+GEORGE SAUNDERS: No.
+
+
+567
+0:24:15,38 --> 0:24:17,755
+It's so bad, I don't even try.
+
+
+568
+0:24:17,755 --> 0:24:18,85
+I'll give you an example.
+
+
+569
+0:24:18,85 --> 0:24:19,89
+This is a true story.
+
+
+570
+0:24:19,89 --> 0:24:25,5
+My wife and I we got engaged in
+three weeks, and we had a
+
+
+571
+0:24:25,5 --> 0:24:25,95
+baby right away.
+
+
+572
+0:24:25,95 --> 0:24:26,85
+And so we were racing.
+
+
+573
+0:24:26,85 --> 0:24:28,56
+And I was working for a
+company called Rating.
+
+
+574
+0:24:28,56 --> 0:24:32,26
+I was a tech writer, and a very
+low level tech writer.
+
+
+575
+0:24:32,26 --> 0:24:36,38
+And my wife had been married
+once before, and had a more
+
+
+576
+0:24:36,38 --> 0:24:38,64
+full, better, a richer life--
+
+
+577
+0:24:38,64 --> 0:24:39,26
+I'll put it that way.
+
+
+578
+0:24:39,26 --> 0:24:41,55
+And I could feel her looking at
+me like, come on, let's get
+
+
+579
+0:24:41,55 --> 0:24:42,32
+something going.
+
+
+580
+0:24:42,32 --> 0:24:44,46
+So I went on this
+trip to Mexico.
+
+
+581
+0:24:44,46 --> 0:24:47,7
+And it was this perfect
+novelist trip.
+
+
+582
+0:24:47,7 --> 0:24:51,43
+It was a wedding, there was a
+male model slash surfer who
+
+
+583
+0:24:51,43 --> 0:24:53,11
+was in the wedding party, there
+was a guy who just out
+
+
+584
+0:24:53,11 --> 0:24:55,8
+of jail for a DWI, there was
+a radical Catholic priest.
+
+
+585
+0:24:55,8 --> 0:24:56,8
+I'm like, this is it!
+
+
+586
+0:24:56,8 --> 0:24:59,36
+It's a gift from God.
+
+
+587
+0:24:59,36 --> 0:25:0,52
+So I came home.
+
+
+588
+0:25:0,52 --> 0:25:2,27
+I'm like, honey, you're
+sitting on a goldmine.
+
+
+589
+0:25:2,27 --> 0:25:3,56
+Don't worry, I got it.
+
+
+590
+0:25:3,56 --> 0:25:6,21
+So I wrote this novel for about
+a year and a half, and
+
+
+591
+0:25:6,21 --> 0:25:8,32
+we had one daughter
+by that time.
+
+
+592
+0:25:8,32 --> 0:25:11,92
+So I get home from work, drink
+a pot of coffee, and if I was
+
+
+593
+0:25:11,92 --> 0:25:13,86
+feeling really ambitious a
+bottle of Boone's Farm, which
+
+
+594
+0:25:13,86 --> 0:25:15,38
+is a deadly combo.
+
+
+595
+0:25:15,38 --> 0:25:18,4
+And I would write just until I
+would drop at the desk, go to
+
+
+596
+0:25:18,4 --> 0:25:20,6
+work, and I did this for
+a year and a half.
+
+
+597
+0:25:20,6 --> 0:25:21,96
+And then I had the book.
+
+
+598
+0:25:21,96 --> 0:25:23,97
+And it was 700 pages.
+
+
+599
+0:25:23,97 --> 0:25:26,37
+And I thought, no I'm
+a minimalist.
+
+
+600
+0:25:26,37 --> 0:25:27,32
+So I cut it.
+
+
+601
+0:25:27,32 --> 0:25:30,81
+I cut it to 400, rock hard.
+
+
+602
+0:25:30,81 --> 0:25:33,55
+And so I said, I think I've got
+a little novel for you to
+
+
+603
+0:25:33,55 --> 0:25:34,34
+read, sweety.
+
+
+604
+0:25:34,34 --> 0:25:35,21
+So she said, OK.
+
+
+605
+0:25:35,21 --> 0:25:37,35
+So I said, just take
+your time.
+
+
+606
+0:25:37,35 --> 0:25:38,5
+I'll give you a week or so.
+
+
+607
+0:25:38,5 --> 0:25:40,85
+And of course, like any writer,
+in an hour later I'm
+
+
+608
+0:25:40,85 --> 0:25:42,22
+looking in the room.
+
+
+609
+0:25:42,22 --> 0:25:46,84
+And she's literally sitting at
+the desk like this, fried.
+
+
+610
+0:25:46,84 --> 0:25:50,112
+So to give you an idea, the
+name of that book was "Le
+
+
+611
+0:25:50,112 --> 0:25:54,99
+Bourda de Eduardo." Which I
+think just means Ed's wedding.
+
+
+612
+0:25:54,99 --> 0:25:56,58
+So I don't ever go
+back to that.
+
+
+613
+0:25:56,58 --> 0:25:57,44
+That stuff has a taint on it.
+
+
+614
+0:25:57,44 --> 0:25:59,5
+I just would rather
+move ahead.
+
+
+615
+0:25:59,5 --> 0:26:1,465
+Thank you bringing up that
+painful subject.
+
+
+616
+0:26:1,465 --> 0:26:5,19
+[LAUGHTER]
+
+
+617
+0:26:5,19 --> 0:26:7,56
+But the one thing that I am
+interested in, and I'm sure
+
+
+618
+0:26:7,56 --> 0:26:11,89
+this is true for you guys too,
+in any kind of creative work,
+
+
+619
+0:26:11,89 --> 0:26:13,93
+that moment where you--
+
+
+620
+0:26:13,93 --> 0:26:15,88
+Donald Barthelme has a great
+essay called "I'm not
+
+
+621
+0:26:15,88 --> 0:26:20,75
+Knowing." And he says the
+writer's that person who
+
+
+622
+0:26:20,75 --> 0:26:23,36
+embarking on her task has
+no idea what to do.
+
+
+623
+0:26:23,36 --> 0:26:26,42
+And that, to me, seems like
+the sacred state,
+
+
+624
+0:26:26,42 --> 0:26:27,64
+if you can get there.
+
+
+625
+0:26:27,64 --> 0:26:30,1
+And then Stuart Dybek, this
+great Chicago writer, has this
+
+
+626
+0:26:30,1 --> 0:26:34,19
+thing about the story Is
+always talking to you.
+
+
+627
+0:26:34,19 --> 0:26:35,67
+And your job is to listen.
+
+
+628
+0:26:35,67 --> 0:26:37,9
+But for some reason, we have a
+tendency to not really want to
+
+
+629
+0:26:37,9 --> 0:26:40,56
+hear what the story's natural
+energy is saying.
+
+
+630
+0:26:40,56 --> 0:26:42,31
+But we want to override it.
+
+
+631
+0:26:42,31 --> 0:26:48,61
+And so I was a geophysical
+engineer, that was one of the
+
+
+632
+0:26:48,61 --> 0:26:51,37
+big basic scientific principles
+was you don't go
+
+
+633
+0:26:51,37 --> 0:26:54,96
+into a study rooting
+for some answer.
+
+
+634
+0:26:54,96 --> 0:26:57,71
+So that was very helpful
+in writing.
+
+
+635
+0:26:57,71 --> 0:26:59,64
+AUDIENCE: I was wondering if
+you could speak a bit about
+
+
+636
+0:26:59,64 --> 0:27:1,37
+your editing process.
+
+
+637
+0:27:1,37 --> 0:27:3,911
+Specifically, I read somewhere
+that "The Semplica Girl
+
+
+638
+0:27:3,911 --> 0:27:10,41
+Diaries" started out as a 200
+page story and evolved into a
+
+
+639
+0:27:10,41 --> 0:27:11,6
+10 page story.
+
+
+640
+0:27:11,6 --> 0:27:12,0
+GEORGE SAUNDERS: Yeah.
+
+
+641
+0:27:12,0 --> 0:27:14,94
+AUDIENCE: And I guess without
+spoiling it for everyone, I'm
+
+
+642
+0:27:14,94 --> 0:27:16,99
+wondering what got left out
+and how you decided.
+
+
+643
+0:27:16,99 --> 0:27:17,94
+GEORGE SAUNDERS: Sure.
+
+
+644
+0:27:17,94 --> 0:27:19,67
+So the question is about
+the editing process.
+
+
+645
+0:27:19,67 --> 0:27:21,81
+And I had a story called "The
+Semplica Girl Diaries" which
+
+
+646
+0:27:21,81 --> 0:27:24,53
+started in '98 and I finish
+it last spring.
+
+
+647
+0:27:24,53 --> 0:27:27,4
+And it was up to some huge
+number of pages and got
+
+
+648
+0:27:27,4 --> 0:27:29,98
+drastically cut.
+
+
+649
+0:27:29,98 --> 0:27:33,68
+One of my things is I think as
+artists we have to submit to
+
+
+650
+0:27:33,68 --> 0:27:35,97
+our neuroses a little bit.
+
+
+651
+0:27:35,97 --> 0:27:40,84
+So often we think that to be an
+artist, you have to conquer
+
+
+652
+0:27:40,84 --> 0:27:42,2
+your neuroses and
+be a perfectly
+
+
+653
+0:27:42,2 --> 0:27:43,44
+calm, wonderful person.
+
+
+654
+0:27:43,44 --> 0:27:47,13
+But my experience was rather
+you turn towards with your
+
+
+655
+0:27:47,13 --> 0:27:49,95
+ticks and go OK, come on.
+
+
+656
+0:27:49,95 --> 0:27:54,16
+So for me I have a real, just
+like inner nun syndrome, like
+
+
+657
+0:27:54,16 --> 0:27:56,69
+I really don't like what I do.
+
+
+658
+0:27:56,69 --> 0:28:0,24
+When I do it, I feel like, ugh,
+Mr. Saunders, what do you
+
+
+659
+0:28:0,24 --> 0:28:2,76
+think you are smarty pants?
+
+
+660
+0:28:2,76 --> 0:28:5,68
+So that ends up to be, if you
+keep it in check, a pretty
+
+
+661
+0:28:5,68 --> 0:28:9,16
+valuable editing tool.
+
+
+662
+0:28:9,16 --> 0:28:11,43
+And I have a slight aversion,
+I've always had this since I
+
+
+663
+0:28:11,43 --> 0:28:14,93
+was a kid, an aversion to what
+I consider banal language.
+
+
+664
+0:28:14,93 --> 0:28:16,16
+You know when you're in grade
+school and they have those
+
+
+665
+0:28:16,16 --> 0:28:18,91
+little readers, and it's like,
+Jimmy was a bright happy boy
+
+
+666
+0:28:18,91 --> 0:28:20,52
+as he bounced into the room
+in the middle of a
+
+
+667
+0:28:20,52 --> 0:28:21,69
+bright, fall day.
+
+
+668
+0:28:21,69 --> 0:28:23,3
+It actually made me
+a little sick.
+
+
+669
+0:28:23,3 --> 0:28:24,71
+There was something
+so unessential
+
+
+670
+0:28:24,71 --> 0:28:27,12
+about it, and blah.
+
+
+671
+0:28:27,12 --> 0:28:29,52
+So for me, one of the things
+that I do is I'll get
+
+
+672
+0:28:29,52 --> 0:28:32,65
+something up to a decent length,
+pretty happily, with
+
+
+673
+0:28:32,65 --> 0:28:33,95
+that feeling that all is well.
+
+
+674
+0:28:33,95 --> 0:28:39,99
+And then that inner nun thing
+will come in and speed it up.
+
+
+675
+0:28:39,99 --> 0:28:42,8
+And I think the subtext to that
+is do you respect your
+
+
+676
+0:28:42,8 --> 0:28:44,21
+reader's intelligence?
+
+
+677
+0:28:44,21 --> 0:28:46,5
+So I'll give you an exaggerated
+example.
+
+
+678
+0:28:46,5 --> 0:28:50,11
+If you have in a first draft
+something like, Bob came
+
+
+679
+0:28:50,11 --> 0:28:53,55
+happily into the room and sat
+down on the blue couch.
+
+
+680
+0:28:53,55 --> 0:28:56,75
+Perfectly functional
+sentence right?
+
+
+681
+0:28:56,75 --> 0:29:0,91
+But it bugs me, because you
+think, wait, why does he have
+
+
+682
+0:29:0,91 --> 0:29:3,24
+to sit down on a couch?
+
+
+683
+0:29:3,24 --> 0:29:5,59
+Can you sit up on a couch?
+
+
+684
+0:29:5,59 --> 0:29:7,85
+All right, well let's
+cut the word down.
+
+
+685
+0:29:7,85 --> 0:29:9,94
+Bob came happily into the room
+and sat on the blue couch.
+
+
+686
+0:29:9,94 --> 0:29:12,96
+
+
+
+687
+0:29:12,96 --> 0:29:16,54
+Why does he have to come
+into the room?
+
+
+688
+0:29:16,54 --> 0:29:19,11
+Is there any meaning to him
+coming into the room?
+
+
+689
+0:29:19,11 --> 0:29:20,3
+Not that we know of--
+
+
+690
+0:29:20,3 --> 0:29:21,91
+OK, cut.
+
+
+691
+0:29:21,91 --> 0:29:23,27
+Bob happily--
+
+
+692
+0:29:23,27 --> 0:29:24,34
+I don't care.
+
+
+693
+0:29:24,34 --> 0:29:26,85
+We don't care about
+Bob's happiness.
+
+
+694
+0:29:26,85 --> 0:29:30,24
+Bob sat on the blue couch.
+
+
+695
+0:29:30,24 --> 0:29:31,12
+Blue?
+
+
+696
+0:29:31,12 --> 0:29:32,66
+[LAUGHTER]
+
+
+697
+0:29:32,66 --> 0:29:33,69
+GEORGE SAUNDERS: Does
+blue signify?
+
+
+698
+0:29:33,69 --> 0:29:34,92
+Not really--
+
+
+699
+0:29:34,92 --> 0:29:36,65
+OK, Bob sat on the couch.
+
+
+700
+0:29:36,65 --> 0:29:40,31
+
+
+
+701
+0:29:40,31 --> 0:29:40,92
+Bob?
+
+
+702
+0:29:40,92 --> 0:29:43,41
+[LAUGHTER]
+
+
+703
+0:29:43,41 --> 0:29:44,8
+GEORGE SAUNDERS: Cut it.
+
+
+704
+0:29:44,8 --> 0:29:47,72
+So now we don't have much, but
+what we have doesn't suck.
+
+
+705
+0:29:47,72 --> 0:29:49,23
+We have Bob.
+
+
+706
+0:29:49,23 --> 0:29:52,84
+So in a slightly less radical
+way, I apply that kind of
+
+
+707
+0:29:52,84 --> 0:29:53,57
+thinking to the story.
+
+
+708
+0:29:53,57 --> 0:29:57,78
+And the logic is, if I'm making
+those really seem like
+
+
+709
+0:29:57,78 --> 0:30:0,57
+nitpicky decisions, every time
+I do it, I'm honoring your
+
+
+710
+0:30:0,57 --> 0:30:2,67
+intelligence a little bit.
+
+
+711
+0:30:2,67 --> 0:30:5,23
+That which you could assume,
+I'm going to assume that
+
+
+712
+0:30:5,23 --> 0:30:7,3
+you're smart enough to assume.
+
+
+713
+0:30:7,3 --> 0:30:9,76
+And in my model of reading, the
+whole thing is to get you
+
+
+714
+0:30:9,76 --> 0:30:12,34
+stepping closer and
+closer and closer,
+
+
+715
+0:30:12,34 --> 0:30:14,57
+trusting me more and more.
+
+
+716
+0:30:14,57 --> 0:30:16,93
+And in the process of trusting
+me more, the fictive reality
+
+
+717
+0:30:16,93 --> 0:30:19,1
+is becoming more three
+dimensional.
+
+
+718
+0:30:19,1 --> 0:30:21,59
+And you get that magical
+fictional moment where you and
+
+
+719
+0:30:21,59 --> 0:30:24,67
+the character aren't different,
+and you can't
+
+
+720
+0:30:24,67 --> 0:30:28,79
+negotiate your way out of the
+cliff that's approaching.
+
+
+721
+0:30:28,79 --> 0:30:31,3
+And I think that process
+is done--
+
+
+722
+0:30:31,3 --> 0:30:35,89
+one way it can be done is by
+this micro editing to assume
+
+
+723
+0:30:35,89 --> 0:30:36,1
+intelligence.
+
+
+724
+0:30:36,1 --> 0:30:38,5
+So on that story, it
+was 180 pages.
+
+
+725
+0:30:38,5 --> 0:30:41,92
+But at page 30, you were
+asleep, basically.
+
+
+726
+0:30:41,92 --> 0:30:43,21
+There was no urgency in it.
+
+
+727
+0:30:43,21 --> 0:30:45,87
+So then part of the job is just
+to say OK, those are just
+
+
+728
+0:30:45,87 --> 0:30:49,88
+pages and now time
+to trim it back.
+
+
+729
+0:30:49,88 --> 0:30:53,27
+I don't know if that answers
+your question, but yeah.
+
+
+730
+0:30:53,27 --> 0:30:53,42
+AUDIENCE: Hi.
+
+
+731
+0:30:53,42 --> 0:30:53,81
+GEORGE SAUNDERS: Hi.
+
+
+732
+0:30:53,81 --> 0:30:55,54
+AUDIENCE: Thanks for
+coming back.
+
+
+733
+0:30:55,54 --> 0:30:57,49
+You just explained how you spent
+actually quite a lot of
+
+
+734
+0:30:57,49 --> 0:30:59,26
+time writing books.
+
+
+735
+0:30:59,26 --> 0:31:0,86
+Ed's wedding was a
+year and a half.
+
+
+736
+0:31:0,86 --> 0:31:1,33
+GEORGE SAUNDERS: Yep.
+
+
+737
+0:31:1,33 --> 0:31:2,49
+AUDIENCE: Stuff like that.
+
+
+738
+0:31:2,49 --> 0:31:5,57
+How do you motivate yourself to
+just keep on going through
+
+
+739
+0:31:5,57 --> 0:31:6,44
+all that time?
+
+
+740
+0:31:6,44 --> 0:31:7,91
+GEORGE SAUNDERS: Right.
+
+
+741
+0:31:7,91 --> 0:31:11,36
+You know, honestly
+it's just ego.
+
+
+742
+0:31:11,36 --> 0:31:12,87
+I mean, I really like writing.
+
+
+743
+0:31:12,87 --> 0:31:14,5
+And I like to be known
+as a writer.
+
+
+744
+0:31:14,5 --> 0:31:16,25
+And I like the whole schtick.
+
+
+745
+0:31:16,25 --> 0:31:20,4
+But to me the most horrifying
+moment is when you send
+
+
+746
+0:31:20,4 --> 0:31:24,82
+something out too soon, or that
+moment where you have
+
+
+747
+0:31:24,82 --> 0:31:27,99
+misidentified something shitty
+as good, and it's got your
+
+
+748
+0:31:27,99 --> 0:31:29,11
+name on it.
+
+
+749
+0:31:29,11 --> 0:31:30,11
+It's like ugh.
+
+
+750
+0:31:30,11 --> 0:31:30,8
+It's a nightmare.
+
+
+751
+0:31:30,8 --> 0:31:37,15
+So for me, I have from high
+school, I loved the-- yeah.
+
+
+752
+0:31:37,15 --> 0:31:39,14
+Some people, they want
+to be songwriters or
+
+
+753
+0:31:39,14 --> 0:31:40,44
+they want to be whatever.
+
+
+754
+0:31:40,44 --> 0:31:42,34
+I really wanted to be a
+short story writer.
+
+
+755
+0:31:42,34 --> 0:31:47,11
+And it makes me really happy
+to be in that harness.
+
+
+756
+0:31:47,11 --> 0:31:50,73
+So I'll get something like that
+"Semplica Girl Stories."
+
+
+757
+0:31:50,73 --> 0:31:53,79
+I had it in pretty good
+shape in 1999--
+
+
+758
+0:31:53,79 --> 0:31:55,11
+pretty good.
+
+
+759
+0:31:55,11 --> 0:31:59,13
+But on a scale of 10, it was
+about a seven and a half.
+
+
+760
+0:31:59,13 --> 0:32:2,69
+And I could feel that I could
+get it up to 8.3 for sure.
+
+
+761
+0:32:2,69 --> 0:32:5,57
+And at that point, I don't
+really care how long it takes.
+
+
+762
+0:32:5,57 --> 0:32:8,2
+So it's a lot of
+negative urge--
+
+
+763
+0:32:8,2 --> 0:32:14,6
+ego, grasping, desperation,
+but also the pleasure.
+
+
+764
+0:32:14,6 --> 0:32:18,16
+I feel like once you've taken
+a story, any project you're
+
+
+765
+0:32:18,16 --> 0:32:21,56
+in, once you've really stuck
+with one to the end and seen
+
+
+766
+0:32:21,56 --> 0:32:24,41
+the benefits, for me that's
+a bit addictive.
+
+
+767
+0:32:24,41 --> 0:32:28,0
+I know what a finished story
+feels like, and I'm just not
+
+
+768
+0:32:28,0 --> 0:32:29,51
+interested in not
+getting there.
+
+
+769
+0:32:29,51 --> 0:32:33,16
+So then it's weird, because it
+becomes a suspension of time,
+
+
+770
+0:32:33,16 --> 0:32:36,12
+where that story
+took 12 years.
+
+
+771
+0:32:36,12 --> 0:32:37,37
+That's all right.
+
+
+772
+0:32:37,37 --> 0:32:38,7
+It's out.
+
+
+773
+0:32:38,7 --> 0:32:39,32
+It's better than it was.
+
+
+774
+0:32:39,32 --> 0:32:42,7
+
+
+
+775
+0:32:42,7 --> 0:32:45,48
+AUDIENCE: So I'm taking a short
+story writing class up
+
+
+776
+0:32:45,48 --> 0:32:48,415
+at Stanford, and we read
+"CivilWarLand" in "Bad
+
+
+777
+0:32:48,415 --> 0:32:52,27
+Decline." And the whole class
+really loved the whole book.
+
+
+778
+0:32:52,27 --> 0:32:56,34
+And we discuss your short
+stories all the time.
+
+
+779
+0:32:56,34 --> 0:32:59,15
+So I wanted to ask you as a
+professor of creative writing,
+
+
+780
+0:32:59,15 --> 0:33:0,86
+what do you think makes
+a great writer?
+
+
+781
+0:33:0,86 --> 0:33:2,24
+Is it experience?
+
+
+782
+0:33:2,24 --> 0:33:4,4
+Is it focus?
+
+
+783
+0:33:4,4 --> 0:33:5,81
+Is it getting an MFA?
+
+
+784
+0:33:5,81 --> 0:33:7,66
+Is it getting a Ph.D.?
+
+
+785
+0:33:7,66 --> 0:33:11,6
+Or being an engineer and then
+having that experience?
+
+
+786
+0:33:11,6 --> 0:33:12,17
+What do you think--
+
+
+787
+0:33:12,17 --> 0:33:12,89
+GEORGE SAUNDERS: Right.
+
+
+788
+0:33:12,89 --> 0:33:17,393
+Yeah, so if you can do all
+of those, you're good.
+
+
+789
+0:33:17,393 --> 0:33:19,15
+AUDIENCE: [INAUDIBLE].
+
+
+790
+0:33:19,15 --> 0:33:20,3
+GEORGE SAUNDERS: No, that's
+a great question.
+
+
+791
+0:33:20,3 --> 0:33:23,42
+You know what's funny is that we
+are in a moment in America
+
+
+792
+0:33:23,42 --> 0:33:27,52
+where the MFA is getting
+a big head.
+
+
+793
+0:33:27,52 --> 0:33:29,31
+And Gary Shteyngart, he
+had this great line.
+
+
+794
+0:33:29,31 --> 0:33:30,98
+He said, we have reached the
+point in American literary
+
+
+795
+0:33:30,98 --> 0:33:33,19
+culture where the number of
+readers is exactly equal to
+
+
+796
+0:33:33,19 --> 0:33:34,12
+the number of writers.
+
+
+797
+0:33:34,12 --> 0:33:35,0
+[LAUGHTER]
+
+
+798
+0:33:35,0 --> 0:33:36,74
+GEORGE SAUNDERS: Yeah.
+
+
+799
+0:33:36,74 --> 0:33:39,35
+And I teach in a
+great program.
+
+
+800
+0:33:39,35 --> 0:33:42,14
+But there's two fallacies that
+need to be debunked.
+
+
+801
+0:33:42,14 --> 0:33:46,15
+One is to be a writer, you
+have to get an MFA.
+
+
+802
+0:33:46,15 --> 0:33:47,55
+False.
+
+
+803
+0:33:47,55 --> 0:33:50,6
+Two is if you get an MFA, you'll
+be a published writer.
+
+
+804
+0:33:50,6 --> 0:33:52,6
+False.
+
+
+805
+0:33:52,6 --> 0:33:54,41
+We've seen a doubling
+at Syracuse.
+
+
+806
+0:33:54,41 --> 0:33:57,3
+When I go home I have
+560 applications to
+
+
+807
+0:33:57,3 --> 0:33:58,78
+read for six spots.
+
+
+808
+0:33:58,78 --> 0:34:2,39
+And the vast majority are from
+people who are just coming
+
+
+809
+0:34:2,39 --> 0:34:3,44
+from undergrad.
+
+
+810
+0:34:3,44 --> 0:34:5,11
+So there's something
+weird about that.
+
+
+811
+0:34:5,11 --> 0:34:8,3
+It's not quite right.
+
+
+812
+0:34:8,3 --> 0:34:11,489
+But when they come, our students
+are off the charts.
+
+
+813
+0:34:11,489 --> 0:34:15,48
+But the thing we teach them-- we
+try to teach them-- is that
+
+
+814
+0:34:15,48 --> 0:34:18,21
+the answer to your question
+is nobody knows.
+
+
+815
+0:34:18,21 --> 0:34:19,949
+Nobody knows.
+
+
+816
+0:34:19,949 --> 0:34:22,36
+You can be the smartest person
+in the room, the most
+
+
+817
+0:34:22,36 --> 0:34:26,79
+articulate, the most well
+traveled, the most soulful,
+
+
+818
+0:34:26,79 --> 0:34:30,57
+and you can put pen to paper and
+you don't have any oomph.
+
+
+819
+0:34:30,57 --> 0:34:32,87
+Or you can be a little
+nondescript person with no
+
+
+820
+0:34:32,87 --> 0:34:36,389
+opinions who just has never
+really done anything, and
+
+
+821
+0:34:36,389 --> 0:34:39,34
+somehow when you put the
+pen to paper, this--
+
+
+822
+0:34:39,34 --> 0:34:42,139
+So that's the hard thing.
+
+
+823
+0:34:42,139 --> 0:34:46,15
+But it isn't true of anything
+worth doing?
+
+
+824
+0:34:46,15 --> 0:34:48,699
+There's an x factor
+that's magical.
+
+
+825
+0:34:48,699 --> 0:34:51,3
+So what you can do is
+you can do the work.
+
+
+826
+0:34:51,3 --> 0:34:52,46
+I think that's really
+important.
+
+
+827
+0:34:52,46 --> 0:34:55,84
+And I found out yesterday that
+I've been telling a vicious
+
+
+828
+0:34:55,84 --> 0:34:58,8
+lie about Robert Frost
+for about 10 years.
+
+
+829
+0:34:58,8 --> 0:35:0,89
+I had a student who told
+me, I thought--
+
+
+830
+0:35:0,89 --> 0:35:2,1
+I maybe misheard him--
+
+
+831
+0:35:2,1 --> 0:35:5,4
+that Frost was doing a seminar
+at a grad school.
+
+
+832
+0:35:5,4 --> 0:35:8,71
+And a student asked a really
+involved technical question
+
+
+833
+0:35:8,71 --> 0:35:9,85
+about the sonnet.
+
+
+834
+0:35:9,85 --> 0:35:14,58
+And Frost, to debunk his over
+conceptual mind said, son,
+
+
+835
+0:35:14,58 --> 0:35:17,21
+don't worry, work.
+
+
+836
+0:35:17,21 --> 0:35:18,88
+And I've been saying for years,
+that's great advice,
+
+
+837
+0:35:18,88 --> 0:35:21,586
+because Malcolm Gladwell's
+10,000 hour rule, and blah,
+
+
+838
+0:35:21,586 --> 0:35:21,77
+blah, blah.
+
+
+839
+0:35:21,77 --> 0:35:23,5
+Well, I just found out that
+he didn't say that.
+
+
+840
+0:35:23,5 --> 0:35:24,61
+He said, "Don't work.
+
+
+841
+0:35:24,61 --> 0:35:25,52
+Worry."
+
+
+842
+0:35:25,52 --> 0:35:26,81
+[LAUGHTER]
+
+
+843
+0:35:26,81 --> 0:35:27,29
+GEORGE SAUNDERS: So
+I don't know what
+
+
+844
+0:35:27,29 --> 0:35:30,44
+the hell he was thinking.
+
+
+845
+0:35:30,44 --> 0:35:33,9
+But I think what you'll find is
+it's something that some of
+
+
+846
+0:35:33,9 --> 0:35:35,29
+us want so desperately--
+
+
+847
+0:35:35,29 --> 0:35:37,7
+to be good writers, I think
+partly because it feels like
+
+
+848
+0:35:37,7 --> 0:35:39,82
+consciousness.
+
+
+849
+0:35:39,82 --> 0:35:42,84
+When you read a great writer,
+you feel like you've been
+
+
+850
+0:35:42,84 --> 0:35:44,27
+really seen.
+
+
+851
+0:35:44,27 --> 0:35:46,33
+And you would love
+to be the person
+
+
+852
+0:35:46,33 --> 0:35:47,85
+who's giving that feeling.
+
+
+853
+0:35:47,85 --> 0:35:51,97
+But because it's so hard, I
+think it's got to be mystery.
+
+
+854
+0:35:51,97 --> 0:35:54,67
+I do think that for an
+individual writer, if you put
+
+
+855
+0:35:54,67 --> 0:35:57,91
+the 10,000 hours in, you'll both
+find out what your issues
+
+
+856
+0:35:57,91 --> 0:36:1,8
+are, and you'll find really
+weird, unique solutions that
+
+
+857
+0:36:1,8 --> 0:36:3,17
+you never could have imagined
+at the outset.
+
+
+858
+0:36:3,17 --> 0:36:6,74
+But that process has almost
+nothing to do with whether
+
+
+859
+0:36:6,74 --> 0:36:8,21
+you'll ultimately
+be published.
+
+
+860
+0:36:8,21 --> 0:36:11,97
+So it's tricky.
+
+
+861
+0:36:11,97 --> 0:36:13,6
+And you won't make any money.
+
+
+862
+0:36:13,6 --> 0:36:15,69
+[LAUGHTER]
+
+
+863
+0:36:15,69 --> 0:36:19,2
+AUDIENCE: So consuming art is
+very personal process, so it's
+
+
+864
+0:36:19,2 --> 0:36:21,3
+really hard to say that
+someone was wrong
+
+
+865
+0:36:21,3 --> 0:36:21,71
+when they did it.
+
+
+866
+0:36:21,71 --> 0:36:24,75
+But in all your work, have you
+ever witnessed someone
+
+
+867
+0:36:24,75 --> 0:36:27,11
+observing something you wrote
+and just interpreting it very
+
+
+868
+0:36:27,11 --> 0:36:29,16
+surprisingly, or wrong?
+
+
+869
+0:36:29,16 --> 0:36:30,82
+And how did that
+make you feel?
+
+
+870
+0:36:30,82 --> 0:36:31,56
+How did that go?
+
+
+871
+0:36:31,56 --> 0:36:32,39
+GEORGE SAUNDERS: Yeah.
+
+
+872
+0:36:32,39 --> 0:36:34,1
+When you said that, it brought
+back one thing to mind.
+
+
+873
+0:36:34,1 --> 0:36:36,12
+I had written a story called
+"Winky" which is
+
+
+874
+0:36:36,12 --> 0:36:36,94
+in the second book.
+
+
+875
+0:36:36,94 --> 0:36:39,88
+And it's this story about this
+guy who goes to a self help
+
+
+876
+0:36:39,88 --> 0:36:43,24
+seminar, and it is the motto of
+this thing is, "Don't let
+
+
+877
+0:36:43,24 --> 0:36:45,8
+anybody crap in your oatmeal."
+
+
+878
+0:36:45,8 --> 0:36:49,55
+And at home he's got this dim,
+very religious sister who has
+
+
+879
+0:36:49,55 --> 0:36:51,98
+been kicked out of her house,
+and she's living with him.
+
+
+880
+0:36:51,98 --> 0:36:53,5
+And he wants to get
+rid of her.
+
+
+881
+0:36:53,5 --> 0:36:55,52
+So he's thinking, I'm not going
+to let her crap in my
+
+
+882
+0:36:55,52 --> 0:36:58,33
+oatmeal, even though she's nice
+and innocent and sweet
+
+
+883
+0:36:58,33 --> 0:37:0,94
+and has nowhere else to go, I've
+got to live into my own
+
+
+884
+0:37:0,94 --> 0:37:1,94
+personal power.
+
+
+885
+0:37:1,94 --> 0:37:3,9
+So it's obviously a tongue
+in cheek thing.
+
+
+886
+0:37:3,9 --> 0:37:6,82
+And in the story, he
+goes home, he's
+
+
+887
+0:37:6,82 --> 0:37:7,91
+resolved to kick her out.
+
+
+888
+0:37:7,91 --> 0:37:9,79
+And when he sees
+her, he can't.
+
+
+889
+0:37:9,79 --> 0:37:10,88
+And he melts.
+
+
+890
+0:37:10,88 --> 0:37:13,52
+But the kicker is that he feels
+terrible that he's not a
+
+
+891
+0:37:13,52 --> 0:37:14,62
+powerful enough person.
+
+
+892
+0:37:14,62 --> 0:37:15,68
+So that's the story.
+
+
+893
+0:37:15,68 --> 0:37:17,93
+So it came out in the "New
+Yorker." And about a week
+
+
+894
+0:37:17,93 --> 0:37:18,86
+later, I get this letter.
+
+
+895
+0:37:18,86 --> 0:37:21,11
+And this guy says, my
+name is so and so.
+
+
+896
+0:37:21,11 --> 0:37:24,97
+I work with Charlton Heston
+at the NRA, so I suspect
+
+
+897
+0:37:24,97 --> 0:37:26,22
+politically we have
+our differences.
+
+
+898
+0:37:26,22 --> 0:37:28,82
+
+
+
+899
+0:37:28,82 --> 0:37:31,8
+But I loved your story.
+
+
+900
+0:37:31,8 --> 0:37:33,54
+It helped me so much.
+
+
+901
+0:37:33,54 --> 0:37:35,28
+This is a great example
+of art crossing
+
+
+902
+0:37:35,28 --> 0:37:36,54
+the left/right divide.
+
+
+903
+0:37:36,54 --> 0:37:38,94
+And of course, I was
+like, ye check off!
+
+
+904
+0:37:38,94 --> 0:37:41,17
+See, I did it.
+
+
+905
+0:37:41,17 --> 0:37:43,84
+And so of course, fishing for
+further compliments, I said,
+
+
+906
+0:37:43,84 --> 0:37:46,5
+oh thank you so much brother.
+
+
+907
+0:37:46,5 --> 0:37:50,11
+Tell me a little more about
+how I changed your life.
+
+
+908
+0:37:50,11 --> 0:37:53,44
+And he said, well my mother
+is in very good health.
+
+
+909
+0:37:53,44 --> 0:37:57,4
+She's 72, and she had a very
+mild stroke, which has caused
+
+
+910
+0:37:57,4 --> 0:37:58,13
+me some inconvenience.
+
+
+911
+0:37:58,13 --> 0:38:1,163
+And your story convinced me
+to put her in a rest home.
+
+
+912
+0:38:1,163 --> 0:38:4,62
+[LAUGHTER]
+
+
+913
+0:38:4,62 --> 0:38:7,44
+And I was like, what?
+
+
+914
+0:38:7,44 --> 0:38:8,99
+And I wrote him back
+this long thing.
+
+
+915
+0:38:8,99 --> 0:38:10,33
+No sir, please, you've
+misunderstood.
+
+
+916
+0:38:10,33 --> 0:38:12,84
+And I gave him the whole
+exogesis of the thing.
+
+
+917
+0:38:12,84 --> 0:38:15,17
+And he's like, that's cool,
+have a good day.
+
+
+918
+0:38:15,17 --> 0:38:16,58
+That was that.
+
+
+919
+0:38:16,58 --> 0:38:19,26
+So yeah, I think once you put
+something out there, there is
+
+
+920
+0:38:19,26 --> 0:38:21,77
+no freaking telling what
+someone's going
+
+
+921
+0:38:21,77 --> 0:38:23,28
+to read into it.
+
+
+922
+0:38:23,28 --> 0:38:24,42
+But what I've noticed is,
+
+
+923
+0:38:24,42 --> 0:38:26,79
+statistically, most people don't.
+
+
+924
+0:38:26,79 --> 0:38:27,85
+And that guy was looking.
+
+
+925
+0:38:27,85 --> 0:38:30,4
+I mean, he could have gotten
+that excuse from a Starbucks
+
+
+926
+0:38:30,4 --> 0:38:32,55
+cup, reading the coffee
+grounds or something.
+
+
+927
+0:38:32,55 --> 0:38:35,72
+But I think you have to assume
+that-- and it's interesting to
+
+
+928
+0:38:35,72 --> 0:38:38,155
+do a tour, and this book is
+actually selling, so I'm
+
+
+929
+0:38:38,155 --> 0:38:38,95
+meeting a lot of people.
+
+
+930
+0:38:38,95 --> 0:38:42,83
+And it's amazing how many good
+hearted, good readers there
+
+
+931
+0:38:42,83 --> 0:38:44,36
+are who do get more--
+
+
+932
+0:38:44,36 --> 0:38:46,73
+get what you put in it
+and then even more.
+
+
+933
+0:38:46,73 --> 0:38:48,61
+So mostly not-- that was
+the one example I can
+
+
+934
+0:38:48,61 --> 0:38:50,454
+really think of.
+
+
+935
+0:38:50,454 --> 0:38:53,85
+AUDIENCE: Also because of that
+story, I say crapping in my
+
+
+936
+0:38:53,85 --> 0:38:55,5
+oatmeal, and no one knows
+what I'm talking about.
+
+
+937
+0:38:55,5 --> 0:38:56,43
+GEORGE SAUNDERS: Yeah.
+
+
+938
+0:38:56,43 --> 0:38:56,61
+See?
+
+
+939
+0:38:56,61 --> 0:38:59,4
+So there was a good outcome
+too, so it's a balance.
+
+
+940
+0:38:59,4 --> 0:38:59,75
+Thank you.
+
+
+941
+0:38:59,75 --> 0:39:1,5
+Thanks for the question.
+
+
+942
+0:39:1,5 --> 0:39:3,7
+AUDIENCE: So I just wanted
+to address something.
+
+
+943
+0:39:3,7 --> 0:39:7,32
+One of the reasons why your
+stories grab me is that they
+
+
+944
+0:39:7,32 --> 0:39:9,21
+seem so honest.
+
+
+945
+0:39:9,21 --> 0:39:14,16
+And I think I read a reviewer
+that said something about how
+
+
+946
+0:39:14,16 --> 0:39:16,74
+you can come closer to truth
+in fiction sometimes
+
+
+947
+0:39:16,74 --> 0:39:17,9
+than in real life.
+
+
+948
+0:39:17,9 --> 0:39:21,72
+So I wanted to ask you, how do
+you as you're writing try and
+
+
+949
+0:39:21,72 --> 0:39:23,72
+sidle up to truth
+through fiction?
+
+
+950
+0:39:23,72 --> 0:39:24,46
+GEORGE SAUNDERS: That's
+a great question.
+
+
+951
+0:39:24,46 --> 0:39:27,29
+And I think the answer is
+a phrase at a time.
+
+
+952
+0:39:27,29 --> 0:39:30,97
+Because if I think about what do
+I think is true, or if you
+
+
+953
+0:39:30,97 --> 0:39:32,32
+think, what's true?
+
+
+954
+0:39:32,32 --> 0:39:34,4
+We have some answers.
+
+
+955
+0:39:34,4 --> 0:39:35,61
+But mine are a little rickety.
+
+
+956
+0:39:35,61 --> 0:39:38,46
+They're a little conceptual,
+they're a little political.
+
+
+957
+0:39:38,46 --> 0:39:41,37
+So what I love about fiction is
+if you start with anything
+
+
+958
+0:39:41,37 --> 0:39:45,7
+really, any prejudice or
+whatever, through this
+
+
+959
+0:39:45,7 --> 0:39:49,99
+iterative process of trying to
+get your prose not to be a
+
+
+960
+0:39:49,99 --> 0:39:54,11
+buzz kill, basically, then
+weirdly you'll gradually move
+
+
+961
+0:39:54,11 --> 0:39:56,87
+towards truth and specificity.
+
+
+962
+0:39:56,87 --> 0:39:59,87
+So if you say, Bob was ugly--
+
+
+963
+0:39:59,87 --> 0:40:1,56
+back to Bob again--
+
+
+964
+0:40:1,56 --> 0:40:1,79
+Bob was ugly.
+
+
+965
+0:40:1,79 --> 0:40:4,6
+Well, if you're a trained
+reader, that sentence leaves
+
+
+966
+0:40:4,6 --> 0:40:6,66
+you a little, eh.
+
+
+967
+0:40:6,66 --> 0:40:8,97
+You're waiting for
+detail, right?
+
+
+968
+0:40:8,97 --> 0:40:11,41
+So then if you write
+that on Tuesday.
+
+
+969
+0:40:11,41 --> 0:40:13,79
+Wednesday you come back and
+say that's vague, let
+
+
+970
+0:40:13,79 --> 0:40:16,0
+me flesh that out.
+
+
+971
+0:40:16,0 --> 0:40:18,5
+Bob wore an ugly sweater.
+
+
+972
+0:40:18,5 --> 0:40:20,61
+OK, now suddenly we're talking
+about a guy with bad taste.
+
+
+973
+0:40:20,61 --> 0:40:22,33
+It's changed a little bit--
+
+
+974
+0:40:22,33 --> 0:40:24,5
+still not very specific.
+
+
+975
+0:40:24,5 --> 0:40:28,85
+Bob wore a stained red sweater
+with the torn blue pocket and
+
+
+976
+0:40:28,85 --> 0:40:31,38
+a reindeer on the abdomen.
+
+
+977
+0:40:31,38 --> 0:40:33,92
+Well, that's a better
+sense already.
+
+
+978
+0:40:33,92 --> 0:40:36,72
+And suddenly now it's
+about Bob is now
+
+
+979
+0:40:36,72 --> 0:40:39,31
+a little bit slovenly--
+
+
+980
+0:40:39,31 --> 0:40:41,2
+almost belligerently slovenly.
+
+
+981
+0:40:41,2 --> 0:40:43,57
+And that's interesting,
+suddenly.
+
+
+982
+0:40:43,57 --> 0:40:45,95
+And then it produces plot too.
+
+
+983
+0:40:45,95 --> 0:40:47,82
+Because having established
+that Blob--
+
+
+984
+0:40:47,82 --> 0:40:48,32
+Blob?
+
+
+985
+0:40:48,32 --> 0:40:50,11
+[LAUGHTER]
+
+
+986
+0:40:50,11 --> 0:40:51,52
+GEORGE SAUNDERS: I'm
+editing right now.
+
+
+987
+0:40:51,52 --> 0:40:53,48
+So having established that
+Blob is belligerently
+
+
+988
+0:40:53,48 --> 0:40:57,66
+slothful, then we know what
+might have to happen to him.
+
+
+989
+0:40:57,66 --> 0:40:59,44
+So in the bad Hollywood
+version, he meets an
+
+
+990
+0:40:59,44 --> 0:41:4,17
+incredibly neat girl, played
+by Angelina Jolie.
+
+
+991
+0:41:4,17 --> 0:41:8,78
+So I think if you take the thing
+a phrase at a time, that
+
+
+992
+0:41:8,78 --> 0:41:13,81
+boat will mysteriously move
+towards truth, and also it'll
+
+
+993
+0:41:13,81 --> 0:41:15,44
+move you to a place
+of empathy.
+
+
+994
+0:41:15,44 --> 0:41:19,78
+When we live in New York,
+upstate, I used to wait for a
+
+
+995
+0:41:19,78 --> 0:41:22,3
+bus across from this
+barbershop.
+
+
+996
+0:41:22,3 --> 0:41:24,0
+And there was this middle aged
+barber who came out--
+
+
+997
+0:41:24,0 --> 0:41:25,69
+a pear shaped guy-- and
+he'd come out with a
+
+
+998
+0:41:25,69 --> 0:41:26,9
+cigarette and a coffee.
+
+
+999
+0:41:26,9 --> 0:41:31,53
+And every time a woman walked
+by, he would just go, zoom.
+
+
+1000
+0:41:31,53 --> 0:41:33,41
+And even when she busted him,
+he'd just keep looking.
+
+
+1001
+0:41:33,41 --> 0:41:37,3
+And we just had our daughters,
+so I was like a new feminist.
+
+
+1002
+0:41:37,3 --> 0:41:39,102
+And I noticed this guy.
+
+
+1003
+0:41:39,102 --> 0:41:40,7
+And I thought, I am going
+to nail that guy.
+
+
+1004
+0:41:40,7 --> 0:41:42,92
+I am going to write a story
+and just make fun of him.
+
+
+1005
+0:41:42,92 --> 0:41:45,4
+So I started, and it was
+really enjoyable--
+
+
+1006
+0:41:45,4 --> 0:41:46,6
+this guy with this
+thought stream
+
+
+1007
+0:41:46,6 --> 0:41:49,72
+that's always perverted.
+
+
+1008
+0:41:49,72 --> 0:41:52,9
+And then about a year into that,
+the story just died.
+
+
+1009
+0:41:52,9 --> 0:41:54,29
+I couldn't get it to go
+past the middle part.
+
+
+1010
+0:41:54,29 --> 0:41:54,87
+It was fun.
+
+
+1011
+0:41:54,87 --> 0:41:58,22
+It very funny.
+
+
+1012
+0:41:58,22 --> 0:42:0,54
+And it finally occurred to me,
+the reason I couldn't get it
+
+
+1013
+0:42:0,54 --> 0:42:4,64
+to move is because I was so
+intent on kicking him, that I
+
+
+1014
+0:42:4,64 --> 0:42:6,36
+wasn't giving him any
+hope of getting
+
+
+1015
+0:42:6,36 --> 0:42:7,57
+out of that low position.
+
+
+1016
+0:42:7,57 --> 0:42:9,67
+And that's not a story.
+
+
+1017
+0:42:9,67 --> 0:42:12,32
+There has to be at
+least a trace--
+
+
+1018
+0:42:12,32 --> 0:42:14,63
+the hope that the person could
+transcend himself.
+
+
+1019
+0:42:14,63 --> 0:42:17,24
+So as soon as I did that, I
+thought I've got to make this
+
+
+1020
+0:42:17,24 --> 0:42:18,3
+guy more sympathetic.
+
+
+1021
+0:42:18,3 --> 0:42:21,547
+Now because I'm not that
+subtle, I wrote in
+
+
+1022
+0:42:21,547 --> 0:42:22,9
+that he had no toes.
+
+
+1023
+0:42:22,9 --> 0:42:27,21
+So that was my subtle Chekovian
+move there.
+
+
+1024
+0:42:27,21 --> 0:42:30,7
+But I did it, because suddenly
+here's a guy who now he's
+
+
+1025
+0:42:30,7 --> 0:42:34,27
+still a sexist, and he's
+very defensive, and he
+
+
+1026
+0:42:34,27 --> 0:42:36,37
+doesn't have any toes.
+
+
+1027
+0:42:36,37 --> 0:42:40,11
+So suddenly, oh, poor
+guy, and so then the
+
+
+1028
+0:42:40,11 --> 0:42:41,44
+story could move ahead.
+
+
+1029
+0:42:41,44 --> 0:42:43,75
+So I think that's where the
+honesty and everything comes
+
+
+1030
+0:42:43,75 --> 0:42:46,22
+from just line by line
+immersion in
+
+
+1031
+0:42:46,22 --> 0:42:47,12
+the thing, I think.
+
+
+1032
+0:42:47,12 --> 0:42:51,9
+Yeah, but the funny thing about
+that, because that story
+
+
+1033
+0:42:51,9 --> 0:42:53,16
+come out in the "New Yorker."
+And by that time, I'd spent
+
+
+1034
+0:42:53,16 --> 0:42:54,8
+about three years with
+this projection of
+
+
+1035
+0:42:54,8 --> 0:42:55,87
+this guy in my mind.
+
+
+1036
+0:42:55,87 --> 0:42:57,94
+So we happened to
+be in that town.
+
+
+1037
+0:42:57,94 --> 0:42:59,81
+And I'm walking down the street
+with my wife and my two
+
+
+1038
+0:42:59,81 --> 0:43:1,97
+daughters, and lo and behold
+this guy steps
+
+
+1039
+0:43:1,97 --> 0:43:3,24
+out onto the sidewalk.
+
+
+1040
+0:43:3,24 --> 0:43:6,4
+And I thought, George,
+you bastard.
+
+
+1041
+0:43:6,4 --> 0:43:8,88
+You just mocked this guy in the
+"New Yorker." You don't
+
+
+1042
+0:43:8,88 --> 0:43:9,58
+know who he is.
+
+
+1043
+0:43:9,58 --> 0:43:11,78
+He could be a million
+[INAUDIBLE]
+
+
+1044
+0:43:11,78 --> 0:43:13,16
+the tyranny of fiction.
+
+
+1045
+0:43:13,16 --> 0:43:15,95
+But as we walked by, he looked
+at my wife and my daughters
+
+
+1046
+0:43:15,95 --> 0:43:17,67
+and he goes, ladies.
+
+
+1047
+0:43:17,67 --> 0:43:19,263
+Like that, and I thought, wow!
+
+
+1048
+0:43:19,263 --> 0:43:21,235
+[LAUGTHER]
+
+
+1049
+0:43:21,235 --> 0:43:23,125
+GEORGE SAUNDERS: Yeah, score!
+
+
+1050
+0:43:23,125 --> 0:43:26,59
+
+
+
+1051
+0:43:26,59 --> 0:43:27,98
+AUDIENCE: I'm wondering if you'd
+talk a little bit about
+
+
+1052
+0:43:27,98 --> 0:43:31,6
+how your process is the same
+and/or different when working
+
+
+1053
+0:43:31,6 --> 0:43:32,47
+on nonfiction rather
+than fiction.
+
+
+1054
+0:43:32,47 --> 0:43:33,47
+GEORGE SAUNDERS: Sure.
+
+
+1055
+0:43:33,47 --> 0:43:36,25
+Yeah, I did a series of
+nonfiction pieces for "GQ,"
+
+
+1056
+0:43:36,25 --> 0:43:38,19
+mostly travel based pieces.
+
+
+1057
+0:43:38,19 --> 0:43:42,9
+And those were such a relief,
+because in fiction, as I've
+
+
+1058
+0:43:42,9 --> 0:43:46,32
+said, I'm doing a lot of
+rewriting to generate plot, to
+
+
+1059
+0:43:46,32 --> 0:43:48,47
+say, well what's the next thing
+that should happen, that
+
+
+1060
+0:43:48,47 --> 0:43:49,64
+could happen, that's
+meaningful.
+
+
+1061
+0:43:49,64 --> 0:43:52,19
+And for some reason, that
+takes me a lot of hours.
+
+
+1062
+0:43:52,19 --> 0:43:55,925
+So with the nonfiction, you come
+home from a week and you
+
+
+1063
+0:43:55,925 --> 0:43:58,69
+know there are 10 things
+that happened.
+
+
+1064
+0:43:58,69 --> 0:44:0,86
+So then the process is just
+trying to write those 10 and
+
+
+1065
+0:44:0,86 --> 0:44:2,89
+see which one of them
+comes to life.
+
+
+1066
+0:44:2,89 --> 0:44:6,6
+And then once, say six of them
+do, four of them don't, then
+
+
+1067
+0:44:6,6 --> 0:44:7,46
+you just do a calculation.
+
+
+1068
+0:44:7,46 --> 0:44:10,41
+I've got 12,000 words, I
+can take this one up,
+
+
+1069
+0:44:10,41 --> 0:44:10,75
+turn this one down.
+
+
+1070
+0:44:10,75 --> 0:44:12,495
+So it's a little more like
+engineering work--
+
+
+1071
+0:44:12,495 --> 0:44:15,72
+you're cutting to fit.
+
+
+1072
+0:44:15,72 --> 0:44:18,79
+And then the meaning of the
+story, and the theme, come out
+
+
+1073
+0:44:18,79 --> 0:44:21,92
+of which elements have risen to
+the occasion a little bit.
+
+
+1074
+0:44:21,92 --> 0:44:23,73
+So that tends to be faster.
+
+
+1075
+0:44:23,73 --> 0:44:27,14
+Your main job is to make
+whatever you do charming on a
+
+
+1076
+0:44:27,14 --> 0:44:28,6
+sentence to sentence level.
+
+
+1077
+0:44:28,6 --> 0:44:29,62
+But the events are
+given to you.
+
+
+1078
+0:44:29,62 --> 0:44:33,42
+So that's really a nice palate
+cleanser in a way.
+
+
+1079
+0:44:33,42 --> 0:44:37,21
+AUDIENCE: I think I read in an
+interview with your editor
+
+
+1080
+0:44:37,21 --> 0:44:40,18
+saying that with nonfiction
+you tended to give extra
+
+
+1081
+0:44:40,18 --> 0:44:41,73
+material to the editor.
+
+
+1082
+0:44:41,73 --> 0:44:41,98
+GEORGE SAUNDERS: Yeah.
+
+
+1083
+0:44:41,98 --> 0:44:43,52
+AUDIENCE: How does that
+process work?
+
+
+1084
+0:44:43,52 --> 0:44:46,76
+GEORGE SAUNDERS: Well,
+basically, at "GQ" I always
+
+
+1085
+0:44:46,76 --> 0:44:48,71
+had a week long trip
+and 12,000 words.
+
+
+1086
+0:44:48,71 --> 0:44:50,85
+So you'd get those three
+or four bits.
+
+
+1087
+0:44:50,85 --> 0:44:53,57
+You're like I can't believe
+that's not going in there.
+
+
+1088
+0:44:53,57 --> 0:44:58,41
+And you have a point in time
+vision of your 12,000 words,
+
+
+1089
+0:44:58,41 --> 0:45:1,21
+but this part over here
+still feels red hot.
+
+
+1090
+0:45:1,21 --> 0:45:5,8
+So in that setting, you had the
+liberty of saying what do
+
+
+1091
+0:45:5,8 --> 0:45:6,66
+you think, should I try
+to fit this in?
+
+
+1092
+0:45:6,66 --> 0:45:8,78
+And my editor, Andy Ward,
+is just a great
+
+
+1093
+0:45:8,78 --> 0:45:9,6
+friend and a great guy.
+
+
+1094
+0:45:9,6 --> 0:45:13,34
+And he can just say, no, no,
+no, yes, put that one in.
+
+
+1095
+0:45:13,34 --> 0:45:15,1
+And once he's said that, then
+it becomes really like a
+
+
+1096
+0:45:15,1 --> 0:45:15,8
+Rubik's cube.
+
+
+1097
+0:45:15,8 --> 0:45:18,67
+Where does it go, what do I have
+to give up to get that
+
+
+1098
+0:45:18,67 --> 0:45:19,37
+back, and so on?
+
+
+1099
+0:45:19,37 --> 0:45:22,51
+But just to have a second set
+of eyes saying, actually no,
+
+
+1100
+0:45:22,51 --> 0:45:25,42
+you've got that, that one's not
+so good, I think there's
+
+
+1101
+0:45:25,42 --> 0:45:29,59
+heat in that third
+one, put it in.
+
+
+1102
+0:45:29,59 --> 0:45:32,69
+AUDIENCE: My question is about
+how your world view influences
+
+
+1103
+0:45:32,69 --> 0:45:34,36
+your writing.
+
+
+1104
+0:45:34,36 --> 0:45:37,71
+In many of your interviews,
+you've talked about when you
+
+
+1105
+0:45:37,71 --> 0:45:40,29
+started off and you were working
+as an engineer, you
+
+
+1106
+0:45:40,29 --> 0:45:43,68
+had the sense that things could
+go drastically wrong in
+
+
+1107
+0:45:43,68 --> 0:45:48,7
+your life at any point, how
+it was very fragile.
+
+
+1108
+0:45:48,7 --> 0:45:49,4
+GEORGE SAUNDERS: Right.
+
+
+1109
+0:45:49,4 --> 0:45:52,2
+AUDIENCE: And that world view
+seems to be reflected in
+
+
+1110
+0:45:52,2 --> 0:45:57,895
+stories like "CivilWarLand." And
+now you're famous, you're
+
+
+1111
+0:45:57,895 --> 0:46:1,45
+well-to-do, and your books have
+even started selling.
+
+
+1112
+0:46:1,45 --> 0:46:4,3
+I'm wondering how your world
+view has changed, and whether
+
+
+1113
+0:46:4,3 --> 0:46:7,72
+that change affects how you
+write and approach fiction?
+
+
+1114
+0:46:7,72 --> 0:46:8,83
+GEORGE SAUNDERS: That's a
+great question, yeah.
+
+
+1115
+0:46:8,83 --> 0:46:14,0
+For me, when we were young, a
+writer is like the canary in a
+
+
+1116
+0:46:14,0 --> 0:46:18,8
+coal mine in that we were
+never in the gulag.
+
+
+1117
+0:46:18,8 --> 0:46:20,61
+We were way over extended
+on credit
+
+
+1118
+0:46:20,61 --> 0:46:23,0
+cards, but not starving.
+
+
+1119
+0:46:23,0 --> 0:46:27,7
+But I found that just that
+little whiff of fear that you
+
+
+1120
+0:46:27,7 --> 0:46:29,93
+have when you have small
+kids and you're
+
+
+1121
+0:46:29,93 --> 0:46:31,92
+not a powerful person--
+
+
+1122
+0:46:31,92 --> 0:46:33,882
+that was enough to really--
+
+
+1123
+0:46:33,882 --> 0:46:35,83
+you know that great Terry
+Eagleton quote about
+
+
+1124
+0:46:35,83 --> 0:46:39,695
+"Capitalism plunders the
+sensuality of the body." So I
+
+
+1125
+0:46:39,695 --> 0:46:40,38
+could feel that.
+
+
+1126
+0:46:40,38 --> 0:46:43,29
+And so I got those first
+two books out of that.
+
+
+1127
+0:46:43,29 --> 0:46:45,49
+Now why that was a revelation,
+I'm not quite sure.
+
+
+1128
+0:46:45,49 --> 0:46:47,8
+I should have known that.
+
+
+1129
+0:46:47,8 --> 0:46:51,36
+So now it's later, and our kids
+are wonderful and grown.
+
+
+1130
+0:46:51,36 --> 0:46:55,85
+And so the one thing I notice,
+my desire, what I want to
+
+
+1131
+0:46:55,85 --> 0:46:59,4
+accomplish before die is to try
+to make a fictional scale
+
+
+1132
+0:46:59,4 --> 0:47:3,182
+model of the world in which the
+positive and the negative,
+
+
+1133
+0:47:3,182 --> 0:47:8,67
+the hopeful and the not are
+there in a compelling mix.
+
+
+1134
+0:47:8,67 --> 0:47:11,57
+And I noticed it --
+
+
+1135
+0:47:11,57 --> 0:47:15,75
+when you look at my earlier
+work, it's very good at
+
+
+1136
+0:47:15,75 --> 0:47:20,18
+showing the potential
+for chaos.
+
+
+1137
+0:47:20,18 --> 0:47:22,78
+And I just want to try to get
+some of the positive valence
+
+
+1138
+0:47:22,78 --> 0:47:24,71
+in there, in a way that's
+not cheesy, that's not
+
+
+1139
+0:47:24,71 --> 0:47:25,91
+sentimental or corny.
+
+
+1140
+0:47:25,91 --> 0:47:28,21
+But I think any of us who live
+in America in this time,
+
+
+1141
+0:47:28,21 --> 0:47:30,48
+you've got to love it.
+
+
+1142
+0:47:30,48 --> 0:47:32,19
+We're very fortunate.
+
+
+1143
+0:47:32,19 --> 0:47:35,3
+Or forget America, you walk
+through a field of grass on a
+
+
+1144
+0:47:35,3 --> 0:47:37,37
+summer day and they
+just cut it--
+
+
+1145
+0:47:37,37 --> 0:47:38,69
+pretty good.
+
+
+1146
+0:47:38,69 --> 0:47:43,2
+So for some reason, fiction
+skews dark.
+
+
+1147
+0:47:43,2 --> 0:47:44,92
+Some would say happiness
+writes white.
+
+
+1148
+0:47:44,92 --> 0:47:47,7
+So technically, I think it's
+harder to get the positive
+
+
+1149
+0:47:47,7 --> 0:47:47,6
+valences in.
+
+
+1150
+0:47:47,6 --> 0:47:52,52
+And that's my mission, but
+again, without becoming Mr.
+
+
+1151
+0:47:52,52 --> 0:47:53,84
+Positive Thinker--
+
+
+1152
+0:47:53,84 --> 0:47:55,8
+the guy who gets a spike through
+his head and says what
+
+
+1153
+0:47:55,8 --> 0:47:58,66
+a great opportunity.
+
+
+1154
+0:47:58,66 --> 0:47:59,94
+And I think the great
+writers do it.
+
+
+1155
+0:47:59,94 --> 0:48:3,36
+Tolstoy did it, Shakespeare did
+it, Virginia Woolf did it,
+
+
+1156
+0:48:3,36 --> 0:48:4,53
+Alice Munro does it.
+
+
+1157
+0:48:4,53 --> 0:48:8,42
+And so that's my personal
+mission.
+
+
+1158
+0:48:8,42 --> 0:48:9,93
+AUDIENCE: Just a quick follow
+up question on that.
+
+
+1159
+0:48:9,93 --> 0:48:14,31
+I think that you are driving
+at what was in my mind too.
+
+
+1160
+0:48:14,31 --> 0:48:17,78
+Why does fiction tend
+to be darker?
+
+
+1161
+0:48:17,78 --> 0:48:18,58
+GEORGE SAUNDERS: That's
+a great question.
+
+
+1162
+0:48:18,58 --> 0:48:20,96
+AUDIENCE: Why is it so difficult
+to capture the
+
+
+1163
+0:48:20,96 --> 0:48:23,99
+beautiful and positive
+moments in our lives?
+
+
+1164
+0:48:23,99 --> 0:48:26,51
+GEORGE SAUNDERS: I think one
+answer is just the Little Red
+
+
+1165
+0:48:26,51 --> 0:48:29,43
+Riding Hood syndrome, which is
+if I say once upon a time,
+
+
+1166
+0:48:29,43 --> 0:48:31,39
+there was a girl named Little
+Red Riding Hood.
+
+
+1167
+0:48:31,39 --> 0:48:33,56
+Her mother told her, don't
+talk to the wolf,
+
+
+1168
+0:48:33,56 --> 0:48:34,85
+and then she didn't.
+
+
+1169
+0:48:34,85 --> 0:48:38,2
+[LAUGTHER]
+
+
+1170
+0:48:38,2 --> 0:48:39,39
+GEORGE SAUNDERS: So
+I think it's just
+
+
+1171
+0:48:39,39 --> 0:48:40,73
+something about maybe--
+
+
+1172
+0:48:40,73 --> 0:48:43,11
+here, I'm just guessing--
+but maybe at some level,
+
+
+1173
+0:48:43,11 --> 0:48:47,995
+storytelling is cautionary
+in its design.
+
+
+1174
+0:48:47,995 --> 0:48:51,32
+And I think that even in the
+Bible, these things don't
+
+
+1175
+0:48:51,32 --> 0:48:53,62
+often come out well.
+
+
+1176
+0:48:53,62 --> 0:48:55,87
+But in the Bible, they do--
+
+
+1177
+0:48:55,87 --> 0:48:57,32
+the Resurrection is the big--
+
+
+1178
+0:48:57,32 --> 0:48:58,76
+so I think it's possible.
+
+
+1179
+0:48:58,76 --> 0:49:0,95
+But for some reason, certainly
+at the beginning levels,
+
+
+1180
+0:49:0,95 --> 0:49:4,85
+smirking is so easy, to make
+fun of something is easy.
+
+
+1181
+0:49:4,85 --> 0:49:6,9
+And when we get our
+applications, it's funny.
+
+
+1182
+0:49:6,9 --> 0:49:9,85
+Because every year, you're
+reading young writers.
+
+
+1183
+0:49:9,85 --> 0:49:13,99
+And so for example, it turns
+out that in that fictive
+
+
+1184
+0:49:13,99 --> 0:49:18,1
+country, everybody over
+35 is a pedophile--
+
+
+1185
+0:49:18,1 --> 0:49:19,87
+everybody.
+
+
+1186
+0:49:19,87 --> 0:49:25,6
+And every person, for example,
+any midget is a
+
+
+1187
+0:49:25,6 --> 0:49:27,79
+genius, is a sage.
+
+
+1188
+0:49:27,79 --> 0:49:30,76
+Those are the only ones
+who ever show up.
+
+
+1189
+0:49:30,76 --> 0:49:32,97
+There's tropes that
+you get into--
+
+
+1190
+0:49:32,97 --> 0:49:36,24
+every stepfather is a terrible
+monster, who only reveals
+
+
+1191
+0:49:36,24 --> 0:49:37,5
+himself on page 12.
+
+
+1192
+0:49:37,5 --> 0:49:39,46
+So that's not true.
+
+
+1193
+0:49:39,46 --> 0:49:41,8
+It's just a pattern
+of imagination.
+
+
+1194
+0:49:41,8 --> 0:49:43,58
+So I don't really know
+why that is.
+
+
+1195
+0:49:43,58 --> 0:49:45,68
+But I know for sure, from
+experience, it's harder to get
+
+
+1196
+0:49:45,68 --> 0:49:47,702
+into those high registers.
+
+
+1197
+0:49:47,702 --> 0:49:49,59
+AUDIENCE: Hello.
+
+
+1198
+0:49:49,59 --> 0:49:54,46
+I want to ask you about
+Hemingway's influence on you.
+
+
+1199
+0:49:54,46 --> 0:49:56,8
+I was listening yesterday
+at the forum.
+
+
+1200
+0:49:56,8 --> 0:49:59,88
+You spoke about how you tried
+to imitate him or
+
+
+1201
+0:49:59,88 --> 0:50:0,88
+work a lot like him.
+
+
+1202
+0:50:0,88 --> 0:50:3,44
+And it was frustrating
+at the end.
+
+
+1203
+0:50:3,44 --> 0:50:7,29
+And earlier, you spoke
+about how you make
+
+
+1204
+0:50:7,29 --> 0:50:9,25
+something sound true.
+
+
+1205
+0:50:9,25 --> 0:50:13,0
+And I think Hemingway, in one
+of his books when he was in
+
+
+1206
+0:50:13,0 --> 0:50:16,49
+Paris, I think he tells that
+he tries to write something
+
+
+1207
+0:50:16,49 --> 0:50:18,72
+that sounds the truest.
+
+
+1208
+0:50:18,72 --> 0:50:21,2
+That's a technique,
+I think, for him.
+
+
+1209
+0:50:21,2 --> 0:50:23,66
+If it sounds true, then
+it's good enough.
+
+
+1210
+0:50:23,66 --> 0:50:24,11
+GEORGE SAUNDERS: Right.
+
+
+1211
+0:50:24,11 --> 0:50:27,79
+AUDIENCE: And so my question is,
+are there things that you
+
+
+1212
+0:50:27,79 --> 0:50:31,71
+learn from Hemingway that you
+use in your writings, like
+
+
+1213
+0:50:31,71 --> 0:50:34,83
+this one or other things that
+you can talk about?
+
+
+1214
+0:50:34,83 --> 0:50:36,7
+GEORGE SAUNDERS: Yeah,
+Hemingway was a huge
+
+
+1215
+0:50:36,7 --> 0:50:39,38
+influence, as he is, I think,
+on a lot of writers.
+
+
+1216
+0:50:39,38 --> 0:50:42,67
+And at some point, you get to
+that critical point where your
+
+
+1217
+0:50:42,67 --> 0:50:47,47
+worldview and your hero's
+diction just don't close.
+
+
+1218
+0:50:47,47 --> 0:50:50,66
+So I was living in Amarillo,
+Texas and trying to be
+
+
+1219
+0:50:50,66 --> 0:50:51,62
+Hemingway too.
+
+
+1220
+0:50:51,62 --> 0:50:55,62
+And so you'd go like, Nick
+walked into the Walmart .
+
+
+1221
+0:50:55,62 --> 0:50:56,88
+It was pleasant.
+
+
+1222
+0:50:56,88 --> 0:50:57,95
+[LAUGHTER]
+
+
+1223
+0:50:57,95 --> 0:50:59,53
+GEORGE SAUNDERS: But there's,
+for a young writer, that
+
+
+1224
+0:50:59,53 --> 0:51:3,6
+wonderful moment where you go I
+know things in my gut that I
+
+
+1225
+0:51:3,6 --> 0:51:5,94
+can't say in that diction, now
+matter if you're imitating
+
+
+1226
+0:51:5,94 --> 0:51:7,22
+Kerouac or whoever it is.
+
+
+1227
+0:51:7,22 --> 0:51:11,1
+So that is a holy moment for a
+young writer, when you start
+
+
+1228
+0:51:11,1 --> 0:51:14,3
+getting full body impatient
+with your mentor.
+
+
+1229
+0:51:14,3 --> 0:51:18,36
+But I did, from him, I think,
+just minimalism--
+
+
+1230
+0:51:18,36 --> 0:51:20,55
+just cutting, cutting, cutting,
+cutting, making sure
+
+
+1231
+0:51:20,55 --> 0:51:26,41
+that as much as you can help it,
+you're not on auto pilot.
+
+
+1232
+0:51:26,41 --> 0:51:28,246
+It was a dark and cloudy day.
+
+
+1233
+0:51:28,246 --> 0:51:29,24
+Ugh.
+
+
+1234
+0:51:29,24 --> 0:51:30,58
+Really?
+
+
+1235
+0:51:30,58 --> 0:51:33,23
+So to just lean into the
+sentence the way he did.
+
+
+1236
+0:51:33,23 --> 0:51:35,39
+And make sure that the sentence
+is not only a
+
+
+1237
+0:51:35,39 --> 0:51:38,12
+sentence but it actually can
+become a thing in the world
+
+
+1238
+0:51:38,12 --> 0:51:39,955
+itself in a certain way.
+
+
+1239
+0:51:39,955 --> 0:51:41,53
+AUDIENCE: Do you think
+that this style it
+
+
+1240
+0:51:41,53 --> 0:51:42,74
+represents his time?
+
+
+1241
+0:51:42,74 --> 0:51:45,86
+It's not something you
+can use anymore?
+
+
+1242
+0:51:45,86 --> 0:51:47,3
+Because [INAUDIBLE]
+
+
+1243
+0:51:47,3 --> 0:51:50,14
+a certain figure of people
+[INAUDIBLE].
+
+
+1244
+0:51:50,14 --> 0:51:52,62
+GEORGE SAUNDERS: Yeah, for me,
+what I got tired of in
+
+
+1245
+0:51:52,62 --> 0:51:55,35
+Hemingway was that he, in his
+later work especially, he
+
+
+1246
+0:51:55,35 --> 0:51:56,1
+wasn't funny.
+
+
+1247
+0:51:56,1 --> 0:51:58,2
+He didn't have any sense
+of humor actually.
+
+
+1248
+0:51:58,2 --> 0:52:0,69
+He knew very well who the
+noble, interesting
+
+
+1249
+0:52:0,69 --> 0:52:2,55
+people were and so on.
+
+
+1250
+0:52:2,55 --> 0:52:4,65
+And my life was not--
+
+
+1251
+0:52:4,65 --> 0:52:7,24
+I never lived a Hemingwayesque
+moment really.
+
+
+1252
+0:52:7,24 --> 0:52:12,12
+I remember as a young kid coming
+out of a funeral-- a
+
+
+1253
+0:52:12,12 --> 0:52:16,11
+very sad, terrible thing.
+
+
+1254
+0:52:16,11 --> 0:52:19,44
+But the funeral was being held
+in a mock Georgian mansion--
+
+
+1255
+0:52:19,44 --> 0:52:21,58
+one of those mansions that had
+been put up just to be a
+
+
+1256
+0:52:21,58 --> 0:52:22,65
+funeral parlor.
+
+
+1257
+0:52:22,65 --> 0:52:24,36
+And then you walk out of
+that, and everyone's
+
+
+1258
+0:52:24,36 --> 0:52:25,65
+crying and it's terrible.
+
+
+1259
+0:52:25,65 --> 0:52:28,22
+And across the street, there's
+a Chuck E Cheese.
+
+
+1260
+0:52:28,22 --> 0:52:30,15
+And the mouse is on break.
+
+
+1261
+0:52:30,15 --> 0:52:32,21
+And he's on the side of the
+building with his head off.
+
+
+1262
+0:52:32,21 --> 0:52:34,22
+And he's smoking.
+
+
+1263
+0:52:34,22 --> 0:52:36,37
+So that moment could not
+show up in Hemingway.
+
+
+1264
+0:52:36,37 --> 0:52:37,88
+He couldn't do it.
+
+
+1265
+0:52:37,88 --> 0:52:41,21
+He had a stylistic cave he
+had made for himself.
+
+
+1266
+0:52:41,21 --> 0:52:44,68
+And I thought, that's where
+the gateway to style is.
+
+
+1267
+0:52:44,68 --> 0:52:46,62
+And when you see something in
+your life, in your heart, in
+
+
+1268
+0:52:46,62 --> 0:52:50,34
+your world that the style of
+your hero can't accommodate,
+
+
+1269
+0:52:50,34 --> 0:52:53,3
+then it's a time for growth.
+
+
+1270
+0:52:53,3 --> 0:52:53,75
+MALE SPEAKER: I'm afraid
+we're out of time.
+
+
+1271
+0:52:53,75 --> 0:52:56,13
+But I just want to say
+thank you for coming.
+
+
+1272
+0:52:56,13 --> 0:52:57,19
+GEORGE SAUNDERS: Thank
+you very much--
+
+
+1273
+0:52:57,19 --> 0:52:58,9
+appreciate it.
+
+
+1274
+0:52:58,9 --> 0:54:58,9
+[APPLAUSE]
+
+

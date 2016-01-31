@@ -1,0 +1,545 @@
+###2 The following program is brought to you in living colour on NBC.
+###10 Captain's log, Stardate 6010.1
+###14 While in the midst of a ship wide systems upgrade
+###16 The Enterprise has been ordered to depart star base 37, in response to a nearby distress call.
+###39 While there, I had the dubious honour of greeting the new admiral assigned to this sector.
+###44 Our time together, fortunately, was brief.
+###47 At last, we were underway.
+###49 Although I have mixed feelings knowing we are more than half way through
+###52 our five-year mission.
+###54 With Sulu at Starfleet for command training,
+###56 the promotion of Mr Chekov to head of security,
+###59 and the return of my former yeoman as a newly commissioned officer,
+###62 it seems the more things change, the more they stay the same.
+###67 Uhura, have you made any contact with the colony?
+###70 Negative Captain, I am no longer receiving the distress signal.
+###73 There is an unusual amount of interference on subspace.
+###77 - Captain, you wanted to know... - Not now Rand. Mr Spock, any readings?
+###80 Nothing yet, sir. We are still too far out.
+###83 - Mr DeSalle, what's our ETA? - 17 minutes to orbit, sir.
+###89 - Mr Scott? - Aye sir, I can give you more.
+###92 - Increase speed to Warp 7. - Aye, sir.
+###95 Captain, long-range scans available now.
+###97 Sensors indicate massive energy discharges.
+###101 The readings are off the scale.
+###103 DeSalle, go to maximum Warp. Lt Uhura, sound red alert.
+###106 Chekov, bring phasers and photon torpedoes online.
+###109 Phasers and photon torpedoes armed and ready, Captain.
+###111 Anything, Spock?
+###112 I am at a loss to explain, Captain. Sensors reveal two alien vessels,
+###117 then they simply vanished.
+###119 Two vessels? Could they have been working together?
+###121 - Unknown. - Uhura, anything from the colony?
+###125 Subspace channels are clearing.
+###127 I am receiving a transmission from the colony, now
+###130 - On screen, Lieutenant. - Aye sir.
+###133 This is Captain James T. Kirk of the starship Enterprise.
+###136 Are you in need of assistance?
+###138 I'm Cal Strickland, director of this research colony, here on Primus IV.
+###143 You sure took your sweet time, responding to our emergency.
+###147 Well we're here now. What's the nature of your distress call?
+###151 We have the situation under control now, no thanks to you.
+###154 We assumed this outpost was to be under your protection.
+###158 Director, it is. Now what exactly happened here?
+###162 A short time ago, a large object appears in orbit, randomly firing at the planet.
+###167 All attempts at communication were unsuccessful.
+###170 Director Strickland, could we please review your sensor data,
+###173 as it may contain additional information.
+###175 I'll transmit what we have. Of course, by now we are not
+###181 too concerned by a return visit by this intruder, thanks to the Onabi.
+###184 The what?
+###186 The Onabi. At least that's the name we were given.
+###190 As soon as the Onabi appeared, this intruder fled.
+###194 I'll have my chief medical officer coordinate with your people
+###197 and beam down anything you might need. In the meantime, we will remain here in orbit,
+###201 in case there is any more trouble.
+###203 Don't worry, Kirk. Fortunately, as long as we have the Onabi patrolling this sector.
+###209 we feel reasonably sure that we won't be calling on you anytime soon.
+###214 At least not if we need anything in a hurry!
+###218 Mr Chekov, cancel the red alert. Spock, analyse the sensor data.
+###222 See if you can determine the intruders course out of this system.
+###226 - Rand, you take care of that. - Yes, sir.
+###229 In the meantime, I will be in my quarters with a headache.
+###239 Here we go again.
+###251 Space, the final frontier.
+###256 These are the new voyages of the Starship Enterprise.
+###260 Its five-year mission, to explore strange new worlds.
+###264 To seek out new life and new civilizations.
+###268 To boldly go where no man has gone before.
+###331 Captain's Log, stardate 6011.2.
+###335 We are continuing our investigation of the mysterious intruder,
+###338 who has been attacking ships and outposts throughout this sector.
+###341 I am frustrated by the lack of information we have gathered thus far.
+###345 That, and by the fact that there is nothing to do but
+###347 wait for the Onabi or the intruder to reappear.
+###352 Captain, I do not recall previously viewing this representation.
+###357 What Spock?
+###359 The musical composition you have on display.
+###361 Oh, you mean the hymn. That belonged to my brother Sam.
+###365 My mother gave it to he and Aurelan when they left for Denova.
+###370 What is it Spock?
+###371 I do not understand the words.
+###374 'Amazing grace, how sweet the sound that saved a wretch like me?'
+###379 'I once was lost but now I'm found, was blind but now I see. '
+###386 Well Spock, it is about us. It is about what we are supposedly doing out here.
+###390 Extending compassion to those in need, saving the lost.
+###394 Helping those people who can't help themselves and asking nothing in return.
+###399 But, the song would seem to indicate a deity.
+###401 Were not the religious conflicts of your world,
+###403 what led your species to the brink of destruction?
+###405 - Yes, but it is the ideal that survives. - Then the hymn is still relevant.
+###410 I shall endeavour to study it further.
+###414 - Your move, Captain. - Come.
+###420 - Beware Romulans bearing gifts. - Why Bones? Romulan Ale!
+###426 You are aware, doctor, that Romulan ale is illegal in federation space?
+###430 I only use it for medicinal purposes. Now this looks familiar.
+###434 I will have in check-mate with his next move.
+###436 Spock, you play the most irritating game of chess in the galaxy.
+###440 Irritating, doctor?
+###444 Check-mate.
+###452 Sure you don't know what irritating is?
+###455 The fact that my father married a human female...
+###458 - It's terrible having bad blood like that.. - He may learn to enjoy it, some day.
+###466 - Kirk here. Go ahead, Lieutenant. - Captain, receiving a message
+###470 from Starbase 37. It's Admiral Leslie.
+###472 Admiral Leslie. Any relation to our Mr Leslie?
+###476 - It's his father. - He has got to be adopted!
+###480 - Highly unlikely, doctor. - Go ahead Lt, put him through.
+###483 Admiral. To what do I owe this pleasure?
+###487 Don't get cute, Kirk. Just what the hell is going on out there?
+###491 - Sir? - I just got a transmission
+###493 from Cal Strickland, the director of Primus IV.
+###497 Yes, Admiral and about that situation...
+###499 Cal Strickland is one of the federation's most brilliant research archaeologists.
+###507 And he is my friend.
+###509 Imagine the shock that I felt when the very Starship I sent to protect him
+###515 is nowhere in sight.
+###516 Now you listen to me, Kirk.
+###519 You find out who's responsible for this, or you are going to be watching
+###521 storage consignments of grain for the next two years.
+###526 Do I make myself clear, Captain?
+###529 As clearly as can be expected...
+###531 What was that? Don't cross me, Kirk.
+###535 If you think for one minute, that you can push this admiral around
+###538 you have got another thing comÖ
+###541 Captain, I am receiving an urgent distress signal from the transport tug, Al Rashid.
+###546 They are under attack near the Klaxor-disturbance
+###548 by a ship matching the description of the intruder at Primus IV.
+###551 Go to Red-Alert. Mr Scott, divert all ship's power to the engines. I want Warp 8.
+###555 Lay in a direct course to the Al Rashid. I am on my way.
+###558 - What about the Admiral? - I am sure he will call back.
+###562 Red-Alert. All hands man your battle stations. This is not a drill.
+###570 Red-Alert. All hands man your battle stations. This is not a drill.
+###574 - Report. - We are closing fast on the Al Rashid.
+###577 - She is reporting that she is under attack. - The Al Rashid reports a second vessel
+###580 moving in to position. They're challenging the intruder.
+###583 The Onabi, I presume.
+###585 - Are we within visual range? - Coming in range now, sir.
+###588 On screen. Slow to one half impulse power.
+###590 Put us between...
+###593 My God!
+###600 - Sir, something is jamming the signal. - Spock, any readings?
+###603 The intruder vessel no longer appears on sensors.
+###605 and the smaller ship is moving off.
+###608 Plot an intercept course. Try to hail them.
+###610 There is no answer to our hails, sir.
+###612 - She is going into Warp. - Lock a tractor beam on to her, Scotty.
+###614 Aye, sir.
+###621 That's got her. She's slowing.
+###623 Still no answer to hail, sir.
+###625 Mr Scott, can you get a lock on anyone on board?
+###627 There is a lot of interference sir, but I have got a lock on something...
+###630 Alert the transporter room. Mr Chekov, have a security team standing by.
+###634 Mr Spock, you have the con.
+###640 Transporter room, stand-by.
+###654 - Do we still have a lock? - Aye, sir.
+###657 Energize.
+###661 - Recalibrating. Stand-by. - What's the problem?
+###665 It's these circuits, sir. We have barely tested the new transporters.
+###669 These reading are like nothing I have ever seen before.
+###672 Remind me not to use that contraption... ever!
+###685 - Greetings, sentient beings. - Bones, how do you read that thing?
+###691 Whatever it is, it doesnít register on my tricorder.
+###693 Please do not interrupt when I am speaking.
+###700 Captain,...
+###705 Thank you.
+###707 What was that?
+###708 As I was saying: Greetings, sentient beings.
+###711 - I am Captain James T... - Captain, the circuits have activated themselves.
+###715 Someone else is beaming aboard.
+###717 - Mr Chekov, secure the room. - Aye, Captain.
+###729 Oh, was I supposed to wait until that thing was done?
+###737 I just have no patience. How is everything, dear?
+###742 - I am Ohn. - Now, Mr Chekov!
+###744 Force-field activated, sir.
+###747 Oh, that is so cute. Look Ohn, a force-field. Shall we play?
+###755 I am Onabi! You must release me!
+###758 Mr Chekov, take our guest to the brig to, get a grip.
+###764 I will be there later to question her.
+###767 The brig? Oh, I would love to go there. Captain, this is going to be so much fun.
+###771 Take me, my Russian!
+###779 What the hell was that?
+###781 Chekov, keep the force-field on that thing.
+###786 Lt Uhura, I would like you to come down to the transporter room
+###789 - and have a look at our guest, Ohn. - Aye, sir.
+###792 - Mr Chekov, you stay here and... help. - Aye, Captain.
+###810 These readings are useless, we have to lower the force-field.
+###817 In a way, it's beautiful.
+###826 Uhura! No!
+###830 - ... only Vulcans, now you will die. - Go to the side, Mr Chekov.
+###838 And now, I will deal with you, Lieutenant.
+###847 Scott to sick-bay. We have a medical emergency in the transporter-room.
+###851 Please respond immediately.
+###859 Captain's log, stardate 6012.4.
+###862 The Al-Rashid has received repairs and is continuing on her resupply mission.
+###866 We have taken Onabi into custody and are holding her for questioning.
+###870 Sir? I have Captain Jeffries online.
+###873 On screen, Lieutenant. Captain, is everything alright over there?
+###878 What the hell was that thing, Jim? It came at us out of nowhere.
+###882 We're not certain. It's not the first time, that we have heard about this intruder,
+###886 but it was the first time that we were able to see it.
+###889 Now, if you hadn't shown up when you did...
+###893 Our sensors indicated a second ship for a moment. Did you read that?
+###897 We did. We were able to bring the pilot on board and
+###900 we think the two might be connected in some way.
+###902 We hope to get some answers, to all of this, soon.
+###904 Alright Jim. Well you take it easy out here. That ship of yours is getting quite a reputation.
+###912 So it would seem. Is there anything else that we might be able to do for you?
+###916 No, we're fine. Besides, we need to get back to Starbase 24 as it is.
+###921 - Safe travels, Matt. - Same.
+###942 How are Chekov and Uhura, Bones?
+###944 Pretty shook-up, Jim. They described seeing visions of the ship, the crew.
+###949 Some pretty wild stuff.
+###950 Whatever it was, it happened when they came in contact with Ohn.
+###953 A device with the ability to project holograms and induce hallucinations
+###957 should be considered an extreme hazard, Captain.
+###959 Hallucinations, maybe. But I have got two people in sick-bay,
+###963 who swear what they saw really happened.
+###965 What I want to know is who this Onabi is.
+###967 Spock, have we learned anything from the sensor data?
+###971 Nothing of use, Captain. The intruder ships seem to have appeared out of nowhere.
+###974 Could they have been using a cloaking device?
+###976 Unknown. It does appear, Onabi drove the intruder ship off.
+###979 If that's the case, she did indeed save the colony and the Al Rashid.
+###983 Do we have anything definitive on this intruder?
+###986 If our scanners are to be believed, the size of the intruder vessel is
+###989 - two hundred times that of our own. - Two hundred times?
+###992 We could quite literally beam the Onabi Ship aboard the Enterprise.
+###995 While the intruder could beam us into theirs.
+###998 Nothing like being in the middle of the food chain.
+###1001 Logically, there is another possibility, sir.
+###1003 One could assume the intruder is merely a projection, created by our guests.
+###1007 - For what purpose? - Perhaps to gain whatever reward is offered.
+###1010 Or, she could be trying to destabilise the sector
+###1013 and turn the neighbouring planets against the federation.
+###1016 Do you two just sit around all day and make this stuff up?
+###1018 Talk about 'paranoid'. Intergalactic plot...
+###1022 Really doctor, your lack of reasoning seems more on par with...
+###1025 Gentlemen, Gentlemen, please. We need to start working on getting some answers.
+###1028 Then, Captain, may I request permission to question the prisoner?
+###1031 Spock, that is one emotional woman down there. I'd better question her, Jim.
+###1036 What she needs is some good old southern charm.
+###1038 Doctor, your dismal record with emotional women, has already been established.
+###1043 Why you green-blooded, inhuman son of a...
+###1045 I think perhaps both of you should question her.
+###1049 I am sure that between the two of you, you will discover who this intruder is
+###1052 and how Onabi managed to drive him off three times now.
+###1055 Well?
+###1057 Aye, sir.
+###1058 Yes, sir.
+###1081 - Lower the force-field. - Aye, sir.
+###1093 Well, Spock - Say something?
+###1097 I would say the young lady might be getting chilled by now.
+###1100 What?
+###1111 Captain, our guest has managed to escape.
+###1114 This is the Captain: We have an intruder alert. I repeat. All decks, intruder alert.
+###1120 Ms Rand, you have the bridge.
+###1121 Sir?
+###1122 You have had the proper training, haven't you?
+###1124 - Yes, sir. - You are fully qualified?
+###1126 Yes, sir!
+###1127 Then I mean now, you have the bridge.
+###1128 I'll be in security.
+###1137 - Maintain position, helm. - Aye, Captain.
+###1149 Pavel, it's good to see you on your feet again. Report.
+###1152 Captain, all stations report secure. There is no sign of Onabi.
+###1157 Mr Spock, take charge. When you find her, report to me immediately.
+###1161 I'll be in my office. - Aye, sir.
+###1163 You men check section 4. The rest head aft. Check each room.
+###1179 What's wrong, Captain? Am I not to your liking?
+###1182 Then perhaps something more like this...
+###1220 I am reading an unknown energy source. From inside the Captain's office!
+###1230 Well don't just stand there Spock. Do something.
+###1235 - Chekov! - I'll apologize later.
+###1239 How is she, Bones?
+###1241 She'll be out for a while.
+###1243 Move her back to the brig. Take maximum security precautions,
+###1246 and let me know when she comes around.
+###1248 Aye, sir.
+###1259 It seems a little strange that a phaser set on stun
+###1261 was enough to disable her after all we've seen.
+###1264 Yeah, it does not make any sense, Jim.
+###1265 But all my readings suggest that she is truly unconscious.
+###1269 - Perhaps it is another ruse. - Oh, playing possum, eh Spock?
+###1272 Not an unreasonable conclusion, doctor.
+###1274 Well I'm through playing games. It's time we get to the bottom of all this
+###1277 before a certain Admiral has our collective ass. Gentlemen.
+###1284 <i>Lt Arex, report to main engineering. Ensign Capek, report to the bridge</i>
+###1291 Scotty, if you don't sit still, I can't finish.
+###1293 Aye lass, it's fine. It's just a wee bit sore.
+###1296 You asked me to come down here. Now do you want me to help or not?
+###1300 Aye. Go ahead.
+###1307 There, done.
+###1308 Ah, Christine, that feels much better. Thanks.
+###1311 Now go on and make sure, Uhura is resting.
+###1314 Aye.
+###1324 With this ring, I thee wed.
+###1346 Captain's log, Stardate 6013.7
+###1349 There has been another incident with the device known as Ohn.
+###1353 Just got back from sick bay.
+###1355 Christine still hasn't come around. She was attached to that Ohn thing for a long time.
+###1360 But fortunately there doesn't appear to be any permanent damage.
+###1363 - Well how about Uhura? - Back on duty.
+###1366 Makes you wish we had a ship's councillor on board!
+###1369 Captain? I'm growing rather bored in here. Can we please move on?
+###1374 Lower the force-field. - Ah, Captain Kirk.
+###1377 May I first apologize for my previous antics?
+###1381 I meant you no harm.
+###1382 Nor we to you.
+###1384 We simply want to learn more about you
+###1386 and about this alien intruder that seems to be menacing this sector.
+###1389 - Yes. The Mot-nahp. - The what?
+###1393 The Mot-nahp, Doctor.
+###1396 I most despicable menace.
+###1399 I have roamed the galaxy since before your sun burnt hot in space.
+###1403 But soon my journey ends.
+###1405 - So you can destroy this Mot-nahp? - Destroy? No...
+###1410 But contain the Mot-nahp, I can. And once contained, the menace shall end.
+###1414 I must say, this all sounds rather epic.
+###1417 But there's just too many aspects that don't add up.
+###1420 Your vessel is simply too small to drive off an intruder of this size.
+###1424 Do not believe what only your eyes tell you, Captain.
+###1426 I think you'll find, not all is as it seems.
+###1430 Angles and ministers of grace...
+###1432 Scott to the Captain.
+###1434 Kirk here. Go ahead Scotty.
+###1436 We are discharging energy into the disturbance.
+###1438 There's no reason for it, but it's happening sure enough.
+###1440 Where's it coming from?
+###1442 Instruments read that the discharge began near the Warp nacelles.
+###1445 I'll have to take the mains offline to run a full diagnostic.
+###1449 Alright Scotty, I'm on my way. - Aye, sir. - Kirk out.
+###1451 Onabi, I am going to have to ask you to wait here.
+###1456 If you do not release me, you will be sorry.
+###1459 The only thing he's sorry about is pulling duty in this quadrant
+###1473 Status report, Mr Scott.
+###1475 We've had to take the mains offline.
+###1477 The ships running on battery power only.
+###1479 At our present rate of power consumption, we can maintain shipís status for 3.24 hours.
+###1484 This should not be occurring.
+###1487 It is my theory there is no actual power drain.
+###1489 Are you daft, man? The indicators show otherwise.
+###1491 Would you care to elaborate, Mr Spock?
+###1493 Due to the nature of Ohn, this could be some ploy to make us
+###1496 believe there is a power drain when none actually exists.
+###1499 But for what purpose?
+###1500 Perhaps to give Onabi a chance to save us.
+###1502 Mr Spock, you've been able to mind-meld with intelligent machines before,
+###1507 Is there any chance you can make contact with Ohn?
+###1509 Captain! Considering the effect the contact with Ohn has had so far,
+###1512 do you think it wise to deliberately touch that thing?
+###1515 While the risk is great, the danger Ohn could pose to the Enterprise, is greater.
+###1518 Captain, I believe this is our best course to understand what has been happening.
+###1522 Mr Scott, Spock and I are going to deal with Ohn. Rand, maintain our position, here.
+###1525 - Aye, sir. - Aye, sir.
+###1528 Scott to engineering. I need a team to assist me
+###1531 near the main junction circuitry at the matter/anti-matter chamber.
+###1539 Ohn, this is Captain Kirk.
+###1540 Yes, Captain. Mr Spock may touch my mind.
+###1544 It is impressive that you knew of our goal before we told you, Ohn.
+###1547 How did you come by this knowledge?
+###1551 I guess we are just going to have to get this knowledge for ourselves.
+###1553 Be careful, Spock.
+###1559 Ohn, stop what you are doing! Spock!
+###1563 Captain, with your permission, I shall now discuss these fuel equations with the engineer.
+###1570 Mr Spock... welcome aboard.
+###1574 I have been, and always shall be, your friend.
+###1581 Live long and prosper.
+###1584 No.
+###1590 Don't you remember?
+###1591 Ship... out of danger?
+###1593 You saved the ship. You saved us all. Don't you remember?
+###1599 - No - Yes - No - Yes
+###1601 I love Italian food, and so do you.
+###1604 Yes.
+###1607 I thought I was going to die.
+###1609 Not possible, you were never alone.
+###1612 Don't believe them, don't trust them!
+###1615 - They are dying. - Let them die!
+###1621 It was... fun. Oh my... Spock.
+###1632 Gentlemen. Captain Kirk is alive.
+###1641 Oh, are you alright, Mr Spock?
+###1642 I am undamaged. Physically.
+###1645 How did you get down here? Can you explain what just happened?
+###1650 Those images were of no memories that I ever recall.
+###1653 Ohn gave you a gift, Captain. Do you not recognize your own ambition?
+###1656 I fail to see how answering in riddles will accomplish anything.
+###1659 Those images that were shown to us, were they the future?
+###1662 The future is not written, Mr Spock.
+###1665 As to what you saw, I have no control over Ohn.
+###1668 No control over Ohn? Then that means that that thing is a danger to the Enterprise.
+###1672 Captain, do you not see, we are the same? Ohn is younger, but we are the same.
+###1677 The threat is not from us, Captain Kirk. The threat is from without.
+###1680 We have found no physical evidence of your intruder.
+###1683 In addition, it is highly probably that Ohn is directly affecting ship operations.
+###1686 That in itself is reason enough to consider that both he and yourself, the true threat.
+###1692 You believe me to be a threat? You have no idea what's out there.
+###1696 The Breen, the Cardassians, the Hirogen, the Dominion!
+###1702 I'd have tried to make friends!
+###1705 Get ready, Captain. None compare to the Mot-Nahp.
+###1708 We don't respond well to threats, Onabi.
+###1712 All hands, man your battle stations.
+###1714 This is the Captain. Report!
+###1716 Captain, the intruder has returned and is engaging.
+###1722 I am on my way to the bridge.
+###1727 I hope he's up to the game.
+###1745 - Report! - Sir, shields are at 50%.
+###1748 Another few hits like that and we will lose them altogether.
+###1750 I've ordered Mr Scott to bring the mains back online.
+###1756 What's she doing up here?
+###1757 Just keep her out of the way.
+###1759 Mr DeSalle, course 213 mark 4, three-quarters impulse power.
+###1763 Aye, sir.
+###1764 Lieutenant Uhura, anything?
+###1765 Negative, sir. Hailing on all channels.
+###1767 - They're coming for another pass. - Hang on!
+###1772 Take evasive action! Get us out of that things line of fire!
+###1775 Aye, sir!
+###1783 Captain, we'll not survive another hit like that. We've got batteries only.
+###1788 - Scotty, I need emergency power. - Aye sir, I'm working on it.
+###1791 Captain, I'm receiving damage reports from all over the ship. Medical teams are responding.
+###1796 Captain, if we maintain this course, we'll enter the Klaxor disturbance.
+###1799 Our shields and sensors will be useless.
+###1802 And so will the Mot-nahps. Take us in, Mr DeSalle.
+###1804 Aye, sir.
+###1806 Aren't we going to fight?
+###1808 This isn't a fight we can win. This is about survival.
+###1810 Take us as far in as we can go, Mr DeSalle.
+###1813 Aye, sir. Entering the Klaxor disturbance, now.
+###1826 Spock, anything on the sensors?
+###1828 Negative. As I warned, sensors are inoperative.
+###1831 Communications are down as well, Captain.
+###1833 - Mr Scott, report. - The mains are back online.
+###1836 Seems there was nothing wrong as Mr Spock suggested.
+###1844 What was that?
+###1846 The Mot-nahp is trying to determine your location,
+###1849 by setting off anti-matter charges within the disturbance.
+###1852 That means his sensors are down, too.
+###1854 Spock, can you track where that weapons fire is coming from?
+###1857 Our deflector-screens are directing particles in such a way
+###1859 that we may be able to get a general idea of where the intruder is.
+###1862 - How general? - Within a kilometre.
+###1865 It would appear I owe you an apology.
+###1868 None needed, Captain.
+###1870 Of course, what you do next will determine your fate.
+###1874 With a word, you will either doom or save your ship and crew.
+###1878 Let me help.
+###1883 Rand, do we have enough power to transport Ohn and Onabi back to their vessel?
+###1887 Barely, sir.
+###1888 Funnel all ship's power including life support into the transporter-room.
+###1891 Sir?
+###1892 Do it! It may be our only hope.
+###1895 Mr Spock, would you please escort Onabi to the transporter-room? - Aye, sir.
+###1909 Anything Rand?
+###1912 Too much interference, sir
+###1913 You performed rather well, while in command.
+###1916 You kept your head in a crisis. That's the first major test
+###1920 every commander has to face.
+###1921 Knowing whether or not you'll rise to the occasion, or freeze - well done.
+###1925 Thank you, Captain Kirk.
+###1927 - Uhura, raise the transporter room. - Aye, sir.
+###1930 - Transporter-room. Report. - Spock here. We are almost ready.
+###1935 Onabi is communicating with Ohn, now.
+###1937 One could describe them as being happy to see each other.
+###1940 We are ready now, sir.
+###1942 - Mr Spock, peace and long life. - Live long and prosper.
+###1956 Seven years... what a waste!
+###1960 Ohn?
+###1965 - Well done, Mr Kyle. - You too, sir.
+###1970 Transport complete, Captain.
+###1973 Very good Spock. Now get back up here on the double.
+###1975 Affirmative.
+###1981 Captain, I'm receiving a very weak signal from Onabi. It's audio only.
+###1985 Let's hear it, Lieutenant.
+###1987 Captain Kirk, if you'd be so kind as to move your ship to 127 mark 3,
+###1992 I think we can get this taken care of.
+###1995 Mr DeSalle, lay in a course.
+###1996 That course will take us back to the edge of the disturbance, sir.
+###1999 Go, DeSalle!
+###2010 Sir, the intruder is right on our tail!
+###2018 Mr DeSalle, bring us about, Chekov fire phasers and photon torpedoes!
+###2022 Firing all phasers, torpedoes away!
+###2032 There's no effect, sir!
+###2043 Uhura, jettison the log buoy. Signal all hands to abandon...
+###2046 - Captain, look! - Stand by, Uhura.
+###2056 Spock, are the sensors back online?
+###2058 Affirmative, sir.
+###2059 I'm reading no sign of the intruder...
+###2062 ...or of Onabi.
+###2063 - Can you track her course? - Relaying coordinates to helm, now.
+###2067 DeSalle, follow that ship.
+###2076 Warp drive is down, sir.
+###2078 Scotty, report.
+###2080 Aye, the mains are down and this time for certain.
+###2083 It will take several hours to repair, sir.
+###2086 So that's it? It's over?
+###2089 It would appear so, Rand. At least for now.
+###2091 - Mr Spock, anything from the sensors? - Negative, Captain.
+###2097 Looks like Onabi had one last trick up her sleeve.
+###2100 Ms Rand, have Scotty begin damage control and keep on him.
+###2106 Don't let him fool you with those factor-of-four time estimates.
+###2109 - Aye, sir. - You have the bridge.
+###2110 Lt Uhura, encode to Starfleet command my past week's log entries.
+###2114 Mr Spock, your with me. - Aye, sir.
+###2123 Repair teams report to Mr Scott in engineering, immediately.
+###2126 All hands stand down from Red Alert.
+###2137 Captain's personal log, stardate 6014.3
+###2140 We continue to clean up our battle damage and repairs to the warp drive are nearly complete
+###2145 The ship and crew have performed well, during this rather unique mission.
+###2159 What's that you are playing, Spock? It sounds familiar.
+###2162 A hymn, doctor, from old Earth.
+###2164 The Captain recently introduced me to it.
+###2166 I find the tune, most comforting.
+###2173 What do you remember, anything specific?
+###2175 Images mostly, Bones. There's just nothing concrete.
+###2178 If it was indeed a glimpse at our future,
+###2180 perhaps we should re-examine some of our methods.
+###2183 One possible glimpse, Spock. Onabi said, the future is not yet written.
+###2187 Maybe what we saw was just one possible outcome.
+###2190 Perhaps as the hymn says, 'tis grace that's brought us safe thus far', Captain.
+###2194 That's it Spock. You've got it!
+###2197 Well, there's hope for him, yet.
+###2200 Of course, on the other hand by changing - what was it Spock, our methods?
+###2206 That could be what causes what you saw to come true.
+###2208 The doctor makes an almost logical deduction.
+###2211 it would appear the timeline has been altered, already.
+###2214 Was that a joke, Spock? Is seemed like a joke.
+###2219 I am still puzzled as to the nature of the intruder.
+###2221 If not a holographic image, they could be a major threat to the federation.
+###2225 Well, maybe what we saw was the vision of a future invader.
+###2228 God, I hope not. But I wouldn't mind running into Onabi again.
+###2232 Gentlemen, that is for the future to decide.
+###2234 A future, I hope, with many possibilities.
+###2237 Captain Kirk, Admiral Leslie is calling on subspace.
+###2241 He insists on speaking with you.
+###2243 Put him through, Lieutenant.
+###2245 Captain?
+###2247 Admiral, I was just about to send you my report.
+###2249 Fine, Kirk. In the meantime, let me tell you about your next assignment.
+###2254 Oh, we're all ears, sir.
+###2258 You will proceed to the following coordinates and rendezvous with two robot cargo ships.
+###2266 carrying a shipment of grain to Sherman's Planet.
+###2270 Admiral, may I just say on our behalf...
+###2275 Oh no Kirk, oh no, wait. There's more...
+###2280 Oh, boy.
+###2299 English subtitles by Peter Walker www. startreknewvoyages. de

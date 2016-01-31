@@ -1,0 +1,1455 @@
+###0 
+###0 GREG KROAH-HARTMAN: Good afternoon.
+###1 Thanks everybody for coming, also all the remote sites.
+###5 So we will kick off the Quantum AI speaker series.
+###9 And we are very pleased and honored that we have an
+###13 illustrous guest, John Preskill, who will kick off
+###16 the speaker series.
+###18 John is actually based across town and has been at Caltech,
+###23 where he's the Richard Feynman Professor.
+###26 He's there since '83.
+###28 And previously, he got his PhD. from Harvard.
+###32 So until the mid-90's, he did more like traditional physics,
+###37 cosmology, elementary particles.
+###40 But then switched to quantum information and started IQI,
+###44 the Institute for Quantum information at Caltech, where
+###48 many interesting results were achieved.
+###52 And in his career, I think he had 45 PhDs and 40 post-docs.
+###57 And I think this room here is becoming testimony to it
+###62 because we are surrounded by Preskill
+###66 post-docs and then PhDs.
+###68 And Sergio on our team learned from John.
+###71 So it definitely left his mark on the field of quantum
+###74 information.
+###76 And then just a few days ago, I was told was that when John
+###82 has a guest who gives a talk, then he is being introduced
+###85 with a poem.
+###86 And I thought oh, my god, that's high bar.
+###89 But fortunately, Dave Bacon on our team came through and he
+###93 put a little limerick together to announce John.
+###96 So I will try this.
+###98 There was once a physicist named John, who threw qubits
+###102 into the beyond.
+###104 Across the horizon they went.
+###106 But were they really spent or destined to
+###109 become Hawking radiation?
+###111 So I approve.
+###114 I confess Dave's is a very geeky limerick, even for
+###118 Google standards.
+###119 But maybe the last thing I should say about John, I had
+###123 the pleasure to witness his birthday symposium, which was
+###127 just a few months ago.
+###128 And that was quite a sight.
+###130 There was a lot of highly decorated physicists, from
+###134 Nobel Prize winners to winners of the
+###136 fundamental prize of physics.
+###138 And yeah, I was surrounded by the worldly leaders of
+###142 physicists.
+###142 And he's highly respected among them.
+###145 So I'm very happy that you are going to give the first talk
+###148 in the series.
+###149 John.
+###150 
+###157 JOHN PRESKILL: Can you hear me OK?
+###159 Thanks a lot, Hartman.
+###161 And good job on the reading of the limerick.
+###165 Thank you, Dave.
+###166 I haven't been introduced by a limerick before, as I recall.
+###170 This is going to be a talk about quantum physics.
+###173 But it's also to some extent about technology.
+###178 Now, you guys know more about technology than I do.
+###181 I have this laptop I think it's pretty cool.
+###184 And we all recognize, I'm sure you more than I, that
+###188 technology that seems impressive to us now is going
+###191 to be replaced by the end of the century by new technology
+###195 that we can't really expect to imagine at this stage.
+###200 But it's fun to think about future technologies.
+###205 I may not be the best qualified to do that because
+###208 unlike many of you, I am not an engineer.
+###213 I'm a theoretical physicist.
+###215 And maybe I'm not especially knowledgeable about how
+###219 computers work.
+###220 But as a physicist, I know that the crowning intellectual
+###224 achievement of the past century has been the
+###228 development of quantum theory.
+###229 So it's natural to wonder about how the development of
+###232 quantum theory in the 20th century is going to impact
+###236 21st century technologies and in particular information
+###243 technology.
+###243 Now, quantum theory is over 100 years old.
+###247 But there are some ways in which classical and quantum
+###249 systems differ that we are really only appreciating
+###254 deeply in the last couple of years.
+###256 And those properties have to do with information encoded in
+###259 physical systems.
+###261 To a physicist, information is something that we can encode
+###264 and store in the state of some physical system like
+###268 the pages of a book.
+###269 But fundamentally, all physical systems are really
+###273 quantum systems governed by quantum physics.
+###275 So information is something that we can encode and store
+###279 in a quantum system.
+###282 And information carried by quantum systems has some
+###285 famously counter-intuitive properties.
+###288 So physicists like to speak about the
+###292 weirdness of quantum theory.
+###294 And we relish that weirdness and take great delight in it.
+###299 But more recently, we're asking more seriously whether
+###302 it's possible to put that weirdness to work to exploit
+###306 unusual properties of quantum information, to perform tasks
+###310 that wouldn't be possible if this were a less weird,
+###314 classical world.
+###316 And that desire to put weirdness to work has driven
+###319 the emergence of a field we call
+###321 quantum information science.
+###323 Which from my perspective, derives a lot of its
+###327 intellectual vitality from three main ideas, quantum
+###331 entanglement, quantum computing, and quantum error
+###334 correction.
+###335 And my goal in the talk is to introduce you to these ideas,
+###338 if you're not already familiar with them.
+###341 So starting at the beginning, we know that we can express
+###345 classical information in terms of bits, where we might think
+###349 of a bit as an object like a ball that, can be either one
+###353 or two colors say red or green.
+###355 And if I want to, I can store a bit in a box.
+###359 And then later on if I open the box, the color ball I put
+###362 in comes out again.
+###363 So we can recover a bit and read it.
+###366 Quantum information, too, can be expressed in terms of
+###369 indivisible units, what we call quantum bits or qubits.
+###375 And for many purposes, it's useful to think of a qubit as
+###379 an object stored in a box.
+###381 But where now, we can open the box in two complementary ways,
+###385 two different ways to prepare or observe
+###388 the state of a qubit.
+###389 And if I put information in door number one or door number
+###394 two, then later on I can open the same door again and the
+###399 color that I put in will come out of the box, just like it
+###402 were a classical bit.
+###404 But if I say store information in door number one and then
+###407 later on open a complementary door, door number two, then
+###411 it's unpredictable what we'll find.
+###413 It has probability one-half of being red, probability
+###416 one-half of being green.
+###419 So if you're going to observe quantum information, you have
+###422 to do it the right way.
+###423 If you do it in the wrong way, you'll actually damage the
+###426 information.
+###427 
+###429 And one reason why that's important is appreciated if we
+###432 think about copying quantum states.
+###435 If I had a quantum copying machine, that would mean that
+###438 if I happened to have put information in door number one
+###441 of a qubit, I could make a copy.
+###444 And then I could open door number one of the original and
+###446 the duplicate and out of both I would find the
+###449 color that I put in.
+###451 Or if I put information in door number two of the qubit,
+###454 I could make a copy and open door number two on the
+###457 original and the duplicate.
+###459 And the color that I had put in would
+###460 come out of both boxes.
+###462 But, in fact, there is no such machine.
+###465 A machine that copies unknown quantum states is not allowed
+###469 by the rules of quantum mechanics.
+###472 And the reason is that to copy what's inside the box, the
+###476 machine has to probe what's inside.
+###479 And if it opens the right door, the door that I used,
+###481 then it can copy the information, no problem, just
+###483 as though it were classical.
+###485 But if it opens the wrong door, it will damage the
+###487 information.
+###488 And at that point, it won't be possible to make a high
+###490 fidelity copy.
+###492 So although we might be able to clone a sheep, we can't
+###496 clone a qubit.
+###496 We can't copy unknown quantum states.
+###501 Now, there are lots of possible physical
+###503 realizations of qubits.
+###504 I'm going to mention a couple of others
+###506 later on in the talk.
+###507 But just so you'll have something concrete to think
+###510 about for the moment, you can imagine a single photon or
+###513 particle of light which has an electric field.
+###516 And that electric field can be oriented either horizontally
+###520 or vertically, corresponding to observing our qubit through
+###525 door number one and seeing two possibilities.
+###528 Or we can imagine observing it in these
+###530 45-degree rotated axes.
+###532 And that corresponds to opening door number two, the
+###534 complementary door, to observe the qubit.
+###539 The really interesting differences between classical
+###542 and quantum information arise only when we consider systems
+###545 with more than one part.
+###547 So suppose we have two qubits.
+###549 They can be far apart from one another.
+###551 One is at Caltech, in Pasadena.
+###554 The other is in the custody of my friend, far away in the
+###558 Andromeda galaxy.
+###560 But a long time ago when these two qubits were both on Earth
+###563 and could interact with one another, they were prepared in
+###565 a particular state with some interesting properties.
+###568 Namely, I can open my box in Pasadena and open it through
+###574 either door number one or door number two.
+###576 And either way, what comes out of the box is random, has
+###580 probability one-half of being either red or green.
+###583 And the same thing is true for my friend in Andromeda.
+###585 He can open either box and either way sees a random bit.
+###590 So neither one of us by opening his box can acquire
+###594 any information.
+###596 It just generates a random bit.
+###598 And that's kind of surprising because with two boxes, we
+###601 ought to have been able to store two bits of information.
+###606 So where is that information hidden?
+###608 The answer for this particular state of the two boxes is that
+###612 all the information is actually encoded in the
+###614 correlations between the two boxes.
+###617 For this particular state, if my friend and I both open door
+###621 number one, we're guaranteed to find the same color.
+###624 It could be red, could be green.
+###625 But we always find the same one if we open the same door.
+###628 And likewise, if we both open door number two, we always
+###631 find the same color, probability one-half of being
+###634 red, probability one-half of being green.
+###636 But it's guaranteed to be the same if we open the same door.
+###639 And there are four distinguishable ways in which
+###644 a box in Pasadena could be correlated
+###646 with a box in Andromeda.
+###647 We could either see the same bit or opposite bits when we
+###652 both open door number one or we both open door number two.
+###656 We've chosen one of those four ways.
+###658 So that's two bits of information
+###660 stored in the boxes.
+###661 But what's unusual is the information is locally
+###665 inaccessible.
+###666 We can't acquire any of that information by looking at the
+###668 boxes one at a time.
+###671 And that property of quantum information, that it can be
+###674 stored nonlocally, shared between two distantly
+###678 separated systems, is what we call quantum entanglement.
+###681 And that's the really central, essential way in with quantum
+###685 information is different from classical information.
+###690 Correlations themselves are not such an unusual thing.
+###693 We encounter them all the time in daily life.
+###696 I normally wear two socks that are the same color.
+###699 It means that if you look at my left foot, then you know
+###702 for sure what color to expect when you
+###706 look at my right foot.
+###707 Yeah, Hartman just tried it.
+###708 It worked.
+###710 And that's a correlation.
+###714 And you might say it's kind of similar with the boxes.
+###718 If I want to see what my friend is going to see when he
+###724 opens store number one in Andromeda, I can open door
+###728 number one in Pasadena.
+###729 If I want to know what my friend is going to see when he
+###732 opens door number two, I can open door number two.
+###735 So aren't the boxes are really just like the socks?
+###738 No, they're really different.
+###740 There's a big difference between this quantum
+###741 correlation and classical correlation.
+###744 An essential difference is there's just one way
+###747 to look at a sock.
+###748 But we have these two complementary ways of looking
+###751 at a qubit, of opening a quantum box.
+###753 And that means that the correlations among qubits are
+###758 richer and more interesting than correlations among
+###761 classical bits.
+###763 This phenomenon of quantum entanglement is an old thing.
+###766 It was discussed quite explicitly by Einstein in a
+###771 famous 1935 paper, with two collaborators.
+###775 And to Einstein, quantum entanglement was so unsettling
+###779 as to indicate that something is missing from our current
+###782 understanding of the quantum description of nature.
+###787 And that paper induced some interesting responses,
+###791 including one from Schrodinger later that year, which was
+###794 especially insightful.
+###797 And Schrodinger described entanglement this way.
+###799 He said the best possible knowledge of a whole does not
+###803 necessarily include the best possible
+###805 knowledge of its parts.
+###807 What he meant was that even if we know exactly how those two
+###811 boxes were prepared, know everything about those two
+###814 boxes, we are still helpless to predict what will be found
+###817 when we open one of the boxes in Pasadena or Andromeda.
+###821 And it was Schrodinger who suggested, using the word
+###824 "entanglement" or "entangled" to describe that situation.
+###829 He also said it's discomforting that the theory
+###831 should allow a system to be steered or piloted into one or
+###836 the other type of state at the experimenter's mercy, in spite
+###839 of his having no access to it.
+###842 Schrodinger meant isn't it odd that it's up to me to decide
+###845 by opening door number one or door number two whether I will
+###848 know what my friend will see when he opens door number one
+###852 or door number two?
+###853 But Schrodinger also understood that these
+###856 correlations don't enable us to send a message from
+###860 Pasadena to Andromeda instantaneously.
+###863 No matter what I do, my friend opens either door number one
+###867 or door number two and just finds a random bit, learning
+###869 nothing about what I did and receiving no
+###872 information from me.
+###874 Now, this phenomenon or idea of quantum entanglement did
+###879 not advance very much for 30 years after that.
+###883 Until the mid-'60s, when John Bell started us thinking about
+###888 quantum entanglement in a rather different way.
+###890 Not just as something weird, but something potentially
+###894 useful, a resource that we can use to do things.
+###898 Specifically, Bell described games that two players can
+###902 play, Alice and Bob.
+###904 It's a cooperative game.
+###906 Alice and Bob are on the same side.
+###907 They're both trying to win.
+###909 The way the game works is that Alice and Bob receive inputs
+###913 and they are to produce outputs which are correlated
+###915 in a certain way, depending on the inputs that they receive.
+###919 And if they receive some correlated bits before the
+###923 game began, they're allowed to consult those correlated bits.
+###927 But under the rules of the game, Alice and Bob cannot
+###930 communicate between the time that they receive the inputs
+###933 and the time that they produce their output.
+###936 And for this particular game, if they play the best possible
+###940 strategy, they can win with a probability of success 3/4,
+###946 averaged over the inputs that they could receive, if we
+###949 assume they're uniformly distributed.
+###952 But there's a quantum version of the game.
+###954 It's the same game.
+###955 But now, Alice and Bob are permitted to use entangled
+###959 qubits that were distributed before the game began.
+###963 And by making use of that entanglement, they can play a
+###965 better quantum strategy and win the game with a higher
+###969 success probability, above 85%.
+###973 So the quantum correlations are good for something.
+###975 They allow you to win this game with higher probability.
+###980 And experimental physicists have been playing the game for
+###982 decades now and they keep winning with this higher
+###985 probability of success that Bell showed us is possible in
+###990 quantum physics.
+###991 So these quantum correlations, stronger than classical
+###993 correlations, really do seem to be part of
+###996 the way nature behaves.
+###999 Now, to Einstein quantum entanglement was kind of
+###1004 disgusting.
+###1005 And he called it spooky action at a distance
+###1008 in a derisive tone.
+###1009 This sounds even more derisive when you say it in German.
+###1014 But it doesn't matter in physics what
+###1016 Einstein things, right?
+###1018 Nature is the way experiments reveal her to be.
+###1022 And we have to learn to love her as she is.
+###1026 Quantum entanglement is really part of the world.
+###1030 OK.
+###1030 So in a world with quantum correlations, we can use those
+###1034 correlations to do things that we wouldn't be able to do if
+###1037 all correlations were classical.
+###1039 Boxes are not like socks.
+###1041 You can win a game with a probability of
+###1042 85% instead of 75%.
+###1046 Is that really a big deal?
+###1048 Yeah.
+###1049 This is a really, really big deal.
+###1051 And to appreciate why it's a big deal, we really should
+###1054 think about systems with many parts.
+###1058 Now suppose, for example, that I have a book.
+###1062 It's 100 pages long.
+###1064 It consists of a hundred subsystems, each a page.
+###1068 If it were a classical book rather, with bits printed on
+###1070 every page, you could read a single page and you'd know 1%
+###1076 of the content of the book.
+###1078 10 pages, you'd know 10% of the content of the book.
+###1082 But suppose it's a highly entangled quantum book.
+###1086 Then if you look at the pages one at a time, what you see is
+###1088 really just random gibberish, which tells you nothing about
+###1091 the content of the book, if it's a highly entangled book.
+###1095 If you want to distinguish one entangled quantum book from
+###1098 another, you can't tell the difference by looking at the
+###1101 pages one at a time because the information isn't printed
+###1104 on individual pages.
+###1106 Almost all the information is encoded in the correlations
+###1109 among the pages.
+###1110 If you want to distinguish one such book from another, you
+###1113 have to make a difficult collective observation on many
+###1116 pages at once, perhaps more than half the
+###1119 pages in the book.
+###1121 If I have a quantum system consisting of qubits, and a
+###1125 rather modest number of qubits, just a few hundred, if
+###1129 I wanted to give a complete description of all the ways in
+###1132 which those qubits are correlated with one another, I
+###1135 would have to write down a huge amount of classical
+###1138 information, more bits than the number of atoms in the
+###1140 visible universe.
+###1142 It will never be possible, even in principle, to write a
+###1144 description like that down.
+###1146 There's too much classical information to describe this
+###1150 extravagant correlation of just a few hundred qubits.
+###1154 And that property of quantum information, that we can't
+###1156 hope to describe it using classical information, was
+###1161 intriguing in particular to the Caltech
+###1163 physicist Richard Feynman.
+###1165 And it led Feynman to make the suggestion in the early 1980s
+###1170 that if we could process quantum bits instead of
+###1173 classical bits, operate a scalable quantum computer,
+###1177 we'd be able to perform tasks that would be beyond the
+###1181 capability of any conceivable digital computer.
+###1184 So Feynman's idea was that if we can't even write down in
+###1188 terms of classical bits the state of a few hundred qubits,
+###1192 then perhaps by processing the qubits, we'd be able to
+###1195 perform a task that we can't emulate with
+###1198 ordinary digital computers.
+###1201 When Feynman was making this suggestion in the early 1980s,
+###1205 there was an undergraduate at Caltech, concentrating in
+###1208 mathematics, named Peter Shor.
+###1211 And Shor, like all Caltech undergraduates, had to take
+###1215 our core curriculum.
+###1216 Everybody at Caltech has to learn quantum mechanics, even
+###1220 if you major in music.
+###1221 We don't have a lot of music majors.
+###1223 Everybody has to learn quantum mechanics when you're a
+###1225 sophomore and Peter did.
+###1226 And as far as I know, that was the most advanced class in
+###1230 physics that he took.
+###1231 But like many Caltech undergraduates, he remembered
+###1235 what he learned as a sophomore about quantum physics.
+###1238 And he drew upon that knowledge about 13 years later
+###1244 to make an amazing discovery.
+###1248 Shor, in 1994, realized that if you could build a quantum
+###1251 computer, it would be able to solve certain problems like
+###1255 finding the prime factors of large composite integers very,
+###1261 very quickly.
+###1262 That for a quantum computer, factoring would not be much
+###1266 harder than multiplying numbers together.
+###1270 And when I first heard about this, as Hartman said in the
+###1272 introduction, this was in 1994, I didn't know much about
+###1276 computer science or cryptography.
+###1277 I was working on particle physics, and cosmology, and
+###1282 gravitational physics.
+###1284 But as soon as I heard about this, I was
+###1286 really amazed and stunned.
+###1287 Because I understood the implications are quite
+###1290 remarkable.
+###1291 That the boundary between hard problems and easy problems,
+###1295 the problems that we should be able to solve some day with
+###1298 advanced technologies versus the problems that we never any
+###1301 hope of solving, that boundary is different than it otherwise
+###1305 would be because this is a quantum world instead of a
+###1308 classical world.
+###1309 I thought it was one of the most interesting things I had
+###1311 ever heard in my scientific life.
+###1313 And it lead me eventually to change the direction of my own
+###1317 research toward quantum
+###1318 information and quantum computing.
+###1320 Just to clarify what I'm talking about, I'm talking
+###1322 about the scaling of the resources that we need to
+###1325 solve the problem.
+###1327 A hard factoring problem nowadays is
+###1329 factoring 193 digits.
+###1332 That's been done by a network of a few hundred workstations
+###1337 collaborating over the internet in a few months.
+###1340 But from what we know about the scaling of the best
+###1342 classical algorithms for factoring, if that same
+###1346 hardware were used to try to factor a 500-digit number, it
+###1350 would take longer than the age of the universe.
+###1353 So that's not something that we expect to happen, factoring
+###1356 500-digit numbers in the very near future
+###1358 with classical computers.
+###1361 Now, let's imagine that I have a quantum computer with the
+###1363 same clock speed as that classical computer.
+###1366 It can perform the same number of basic operations per second
+###1370 as the classical computer, but now on qubits instead of bits.
+###1374 And then we would be able to factor, using Shor's
+###1376 algorithm, the 193-digit number in about a tenth of a
+###1380 second and the 500-digit number in two seconds.
+###1383 Now, there's a completely different scaling of the
+###1385 resources we need with the size of the input to the
+###1388 problem when we run Shor's algorithm.
+###1392 But who cares about factoring?
+###1393 People do care about factoring because the presumed
+###1396 difficulty of factoring is the basis of widely used, public,
+###1402 key cryptography schemes.
+###1404 There are other problems that quantum computers can break
+###1407 which are alternative ways of doing public key.
+###1410 When quantum computers are widely available, we won't be
+###1414 able to protect our privacy in the same way that we're doing
+###1417 it now using current public key schemes.
+###1420 Alternatives exist.
+###1421 But it's still not exactly clear how we will best protect
+###1425 our privacy in the post-quantum world.
+###1428 That's a ongoing subject of discussion.
+###1432 But the more important thing, more broadly, that we learn
+###1435 from Peter Shor's algorithm is that there's an interesting
+###1439 classification of problems.
+###1440 There are problems which are classically hard
+###1444 and quantumly easy.
+###1445 Problems that we can't solve with reasonable scaling of
+###1448 resources with classical computers, but which we can
+###1451 with quantum computers.
+###1452 And so it becomes an urgent question, what lies in that
+###1456 intermediate region that's quantumly easy
+###1459 and classically hard?
+###1462 And we still have a lot to learn about that I think.
+###1464 We do know that quantum computers have limitations.
+###1467 They can't speed up everything.
+###1469 It seems that spectacular speedups are possible only for
+###1474 problems with a special structure.
+###1476 And in particular, we don't think that quantum computers
+###1478 can dramatically speed up problems which are
+###1482 NP-complete, the hardest problems for which we can
+###1485 efficiently verify the solution
+###1486 with a classical computer.
+###1488 In the worst case, we can't do much better than brute force
+###1491 search for the answer in that case.
+###1493 Quantum computers can speed up brute force searching, but not
+###1497 exponentially, only quadratically, a more
+###1499 modest speed up.
+###1502 It's important to keep in mind though that quantum computers
+###1504 can also solve problems that are not in NP, problems where
+###1507 we can't check the answer with a classical computer.
+###1510 And indeed, the most natural application for quantum
+###1514 computers is to simulate the time evolution of quantum
+###1517 systems with many particles, many parts, which might be of
+###1521 interest in chemistry or in the quantum field theories
+###1525 that physicists use to describe elementary particles.
+###1528 So, for example, we can ask about the type of problem that
+###1532 I as a particle physicist used to worry about.
+###1535 Suppose we want to consider a high energy collision between
+###1538 particles and we'd like to be able to sample accurately from
+###1541 the possible states of many particles that could be
+###1545 produced in that high energy collision.
+###1548 And at least in some cases, we've shown that that
+###1552 simulation can be done with efficient scaling of resources
+###1555 on a quantum computer, which we don't believe is the case
+###1558 classically.
+###1560 So it may be that a quantum computer is capable of
+###1563 simulating efficiently any quantum process that can occur
+###1566 in nature, though that's still an open question, in
+###1569 particular with regard to processes in which both
+###1573 quantum mechanics and gravity are important.
+###1577 So quantum computers would have wonderful capabilities.
+###1581 We'd love to have them.
+###1582 Lots of people around the world are
+###1584 working on quantum computing.
+###1586 So why don't we have them already?
+###1588 What's the big delay?
+###1590 Well, it's really, really, really hard.
+###1594 And part of what makes it hard is that quantum systems are
+###1598 more susceptible to error, to the damaging effects of noise,
+###1603 than classical systems.
+###1605 Physicists sometimes like to speak about a quantum state of
+###1609 a cat, which is a superposition of the live and
+###1613 dead state of a cat, or in this case, the more human
+###1616 case, of a awake and sleeping cat.
+###1620 Now, we never observe in our everyday lives that kind of
+###1625 superposition of macroscopically
+###1627 distinguishable states.
+###1629 And we understand why that's the case.
+###1631 Because no real cat can be perfectly isolated from its
+###1635 surroundings.
+###1637 And the interactions with the environment very quickly in
+###1641 effect measure the cat, projecting it onto a state
+###1644 which is either completely alive or completely dead.
+###1646 That's a process that we call decoherence.
+###1650 And decoherence is actually very important for helping us
+###1653 understand why classical physics works so well.
+###1656 Why, when we consider macroscopic systems, we don't
+###1659 usually have to worry about quantum phenomena.
+###1663 It's because decoherence is extremely
+###1664 fast for big systems.
+###1668 Now, a quantum computer, when we manage to build one, may
+###1672 not be much like a cat.
+###1674 But it will, like a cat, inevitably interact at some
+###1678 level with its environment.
+###1680 There will be decoherence.
+###1681 And so the quantum computer will crash unless we can find
+###1685 some way of fighting off decoherence, of preventing
+###1690 sources of error from making the quantum computer fail.
+###1694 
+###1697 Errors are a problem, even in the classical
+###1699 world, as we all know.
+###1701 I have many bits that I cherish and I
+###1704 would hate to lose.
+###1705 And everywhere, there are dragons lurking, who take
+###1709 delight in tampering with those bits and flipping them
+###1712 from red to green, or whatever.
+###1714 But we know ways of protecting ourselves from the dragons.
+###1717 We can encode information redundantly.
+###1720 So that if I have a bit that I want to be sure to keep, I
+###1724 can, for example, store backup copies of the bit.
+###1728 That's an example of a simple code, which can be used to
+###1732 protect against errors.
+###1733 The dragon might come along and flip the color
+###1736 of one of the balls.
+###1738 But as long as the dragon hasn't had a chance to
+###1740 interact with more than one ball, I can employ a busy
+###1743 beaver of the sort we have many of at Caltech.
+###1747 And we can ask the beaver, if he sees the one ball is a
+###1750 different color than the others, to recolor that ball
+###1753 so that all three match.
+###1755 And so as long as only one of the balls has been damaged, we
+###1759 can recover the original encoded state and protect
+###1762 against errors.
+###1763 So we'd like to use the same concept of protecting
+###1766 information from error through redundant storage in the
+###1770 quantum world.
+###1771 But there are some potential obstacles.
+###1774 As we've already discussed, we can't copy
+###1778 unknown quantum states.
+###1779 So I can't take the state of a quantum computer and store a
+###1782 backup copy in case the original gets damaged.
+###1787 And there are more things that can go wrong with quantum
+###1789 information than with classical information.
+###1793 It could be that the dragon will come along and open door
+###1795 number one of a qubit and flip the color of the ball and
+###1798 reclose the box.
+###1799 That would be like a bit flip that occurs
+###1801 in a classical bit.
+###1804 But it's also possible that the dragon could open door
+###1806 number two and change the color of the ball.
+###1809 That's what we call a phase error in quantum information.
+###1813 It really has no analog in the classical world.
+###1817 And there's another way of thinking
+###1818 about these phase errors.
+###1820 Another way a phase error, an error through door number two
+###1823 could occur, would be for a dragon to open door number
+###1827 one, look at the color of the ball, and not flip the color,
+###1831 but just remember the color, make a record of
+###1833 what the color is.
+###1835 And that record will damage the information if we try to
+###1838 look at the qubit through the door number two.
+###1841 And in many physical situations, it's easier to
+###1843 remember or record the value of a bit than to flip a bit.
+###1848 And that means these phase errors are particularly
+###1851 pervasive and hard to avoid in many
+###1855 types of physical systems.
+###1856 
+###1860 In fact, if we want to resist decoherence, it means we have
+###1864 to somehow prevent the environment from learning
+###1866 about the state of the quantum computer during the course of
+###1869 the computation.
+###1870 If some record is left behind of what the intermediate state
+###1874 of the quantum computer was, that will cause the quantum
+###1877 computer to fail.
+###1879 If a quantum computation was successful, then it should be
+###1883 that if you ask the quantum computer after its done, what
+###1886 did you just do while you were factoring that huge number, it
+###1890 should always answer I forget because no record was left
+###1894 behind of the state of the computer at
+###1897 intermediate times.
+###1899 So we really need to do a kind of secret computation,
+###1902 completely sealed off from the surroundings if we want a
+###1905 quantum computer to succeed.
+###1907 When we're done with the computation and we have the
+###1909 result, it's OK to broadcast that to the world and tell
+###1912 everyone what the answer is.
+###1914 But we can't have any record left behind of the state of
+###1917 the quantum computer during the course of the computation
+###1920 because that will cause the computation to fail.
+###1923 So we have to figure out a way to encrypt the processing that
+###1926 we're doing.
+###1928 And really our enemy here is entanglement.
+###1930 It is entanglement between our quantum computer and its
+###1933 environment, which drives decoherence.
+###1936 And the way to fight off that entanglement is to use
+###1939 entanglement to our advantage, to store information in a
+###1943 highly entangled state.
+###1945 If I want to store one logical qubit, it is possible to do
+###1949 that if I have five physical qubits, in such a way that if
+###1954 the dragon comes along and looks at one of those five
+###1957 qubits, the dragon can't acquire any information about
+###1962 what the logical state is of the qubit by
+###1965 looking at that one box.
+###1967 This is just like the 100-page book I described earlier.
+###1970 The state of the five qubits is highly entangled.
+###1973 So if you want to know what the information is stored in
+###1976 that five-qubit book, you can't learn that information
+###1979 by looking at a single qubit.
+###1981 It's not there.
+###1982 It's in the correlations among the qubits.
+###1985 And we can again ask the beaver to help us out.
+###1988 After the dragon has done something, and we don't know
+###1991 what, we can ask the beaver to make some kind of collective
+###1994 observation on the five qubits, which we can do with
+###1997 the quantum computer.
+###1998 And from that information learn, not the state of the
+###2001 logical qubit that we're trying to protect.
+###2003 We don't want anyone, even the beaver, to know what that is.
+###2007 But what damage has occurred, which of the boxes has been
+###2009 damaged, what needs to be done to repair the damage.
+###2012 And then the beaver can reinstate the original encoded
+###2016 state, if only one of the qubits has been damaged.
+###2019 So that's the principle of quantum error correction.
+###2024 And how do we actually get this to work?
+###2026 Well, we'll see.
+###2029 But one hero of the story is my colleague, Alexei Kitaev.
+###2037 I first met Alexei in 1997, on his first visit to the US.
+###2042 He came to Caltech and gave a talk on the first day we met.
+###2046 And I made these notes.
+###2048 And it was really one of the most exciting days of my
+###2052 scientific life to talk to Kitaev that way because I
+###2055 learned from him an idea which I felt could potentially be
+###2060 transformative about quantum error correction.
+###2063 And what I learned from Kitaev is the connection between
+###2066 error correction and topology.
+###2069 "Topology" is the word mathematicians use if they
+###2072 want to describe properties of objects that remain invariant
+###2076 when we smoothly deform the object without tearing it.
+###2081 And likewise, we would like the way a quantum computer
+###2084 processes protected information to remain
+###2088 invariant when we deform the computer by
+###2092 introducing some noise.
+###2094 So we'd like to make use of physical interactions that
+###2097 have topological features.
+###2099 Physicists have known about such
+###2101 interactions for a long time.
+###2103 For example, I can consider an electron interacting with a
+###2108 magnetic flux tube.
+###2109 And if that electron is carried around the flux tube,
+###2112 even though it never penetrates inside to interact
+###2115 directly with the magnetic field, the quantum state of
+###2119 the electron will be modified.
+###2122 And that modification is really a topological property.
+###2125 It stays the same if we deform the
+###2127 trajectory of the electron.
+###2129 The only thing that matters is the winding number of the
+###2131 electron around the flux tube.
+###2135 There are more exotic types of topological interactions that
+###2139 can occur in two-dimensional media, where there are
+###2143 point-like particles which we call anyons.
+###2146 Non-abelian anyons in particular have the property
+###2149 that I can consider a system of many of these particles in
+###2152 a two-dimensional media.
+###2154 And there are lots of quantum states we can construct of
+###2158 these many anyons, a number of states which are all
+###2162 distinguishable, which is exponential in
+###2164 the number of particles.
+###2166 But all of these quantum states locally look the same.
+###2169 We can't see any of the information that distinguishes
+###2172 one state from another by looking at the
+###2174 particles one at a time.
+###2176 OK.
+###2177 The environment might interact with the
+###2179 particles one at a time.
+###2180 But that doesn't allow any information about the encoded
+###2183 state to leak to the environment.
+###2186 And we can process the information just by performing
+###2189 exchanges of the particles, having particles swap places
+###2193 to get a different quantum state, which can be a logical
+###2197 operation in a quantum computer.
+###2200 So we can imagine operating a topological quantum computer,
+###2205 that's what I learned from Kitaev in 1997, which we could
+###2208 initialize by preparing pairs of these particles in the
+###2213 two-dimensional medium, anyons.
+###2216 And then process information by performing a sequence of
+###2219 exchanges or swaps of the particles, so that their world
+###2224 lines in 2 plus 1 dimensional space-time trace out a braid
+###2228 in that three-dimensional space.
+###2231 And then we can read out the information at the end by, for
+###2236 example, bringing the particles together pairwise
+###2239 and observing whether they disappear, whether they
+###2241 annihilate or not.
+###2244 And what makes this idea beautiful is that the
+###2247 computation is intrinsically resistant to decoherence.
+###2251 If we keep the temperature low so there are a lot of stray
+###2254 anyons wandering around, if we keep the anyons far apart from
+###2258 one another, except at the very beginning when we create
+###2260 the pairs and the very end when we annihilate the pairs,
+###2264 then there's no way for the information that's being
+###2267 processed to leak to the environment.
+###2270 And if we perform the right braid, we'll
+###2273 get the right answer.
+###2275 So it's topologically protected quantum computation.
+###2280 So that looks pretty good to a theorist.
+###2283 But how are we actually going to build the system that has
+###2285 such non-abelian anyons that could be the basis of the
+###2289 hardware for a quantum computer?
+###2291 Well, here we can make use of another idea which Kitaev and
+###2295 others have developed, a trick for cutting electrons in half.
+###2301 You can think about it this way.
+###2303 We can imagine a wire which is superconducting.
+###2306 "Superconducting" means the wire conducts electricity
+###2309 without any resistance.
+###2312 And there are really two types of superconducting conducting
+###2314 wires, what we call conventional or ordinary
+###2316 superconductors and something called a topological
+###2319 superconductor.
+###2321 And at the boundary between these two types of
+###2322 superconductivity sits an object we
+###2325 call a Mayorana fermion.
+###2327 What's unusual about a topological superconductor is
+###2331 that we can add one extra electron to this topological
+###2335 superconductor and that electron dissolves and
+###2337 disappears.
+###2339 In so doing, it actually changes the state of this pair
+###2342 of Mayorana fermions at the edge.
+###2344 Now, each Mayorana fermion individually doesn't change in
+###2348 any perceptible way.
+###2350 But the pair of Mayorana fermions does.
+###2352 And that can be used to store a qubit of information.
+###2357 Experiments have been done to look for this effect.
+###2359 They are not yet conclusive.
+###2361 They'll have to be repeated and made more convincing.
+###2365 But there are at least preliminary indications that
+###2367 this type of a topological superconductivity in Mayorana
+###2371 fermions can be realized in systems that experimental
+###2374 physicists know how to build now using semiconductors and
+###2378 superconductors.
+###2380 Of course, we'd like to be able to process the
+###2382 information by doing some kind of braiding of
+###2384 these Mayorana fermions.
+###2386 And that is in principle possible.
+###2388 If we have a network of wires, we can manipulate the position
+###2393 of a Mayorana fermion by adjusting some voltage gates,
+###2396 which determines where the boundary is between
+###2399 conventional and a topological superconductor.
+###2402 So I can take one of the Mayorana fermions and park it
+###2405 around the corner of a t-junction, move the first one
+###2409 over to the left, and then unpark the other one.
+###2412 And so if we've achieved an exchange of two Mayorana
+###2414 fermions, that would be like an elementary logic gate in a
+###2418 quantum computer.
+###2419 So this type of experiment hasn't been done yet.
+###2422 We're hopeful that it can be done in the
+###2424 next couple of years.
+###2426 And that would be a potential step towards building one type
+###2429 of quantum hardware.
+###2430 But apart from any technological implications, it
+###2433 would be a real milestone for physics to realize this type
+###2438 of exotic topological interaction between particles
+###2442 in some system that physicists can control.
+###2446 So I've talked about hardware.
+###2448 I would like to mention that there are a variety of
+###2450 different ways of developing hardware that are under
+###2454 development, many of which look very interesting.
+###2457 And in particular, it's timely to talk about ion-trap
+###2461 technology because Dave Wineland's work in that area
+###2466 was recognized by the most recent Nobel Prize in
+###2469 physics last year.
+###2471 Wineland and others have, over a couple of decades, developed
+###2476 ion-trap technology.
+###2477 They have the ability to store individual atoms, which have
+###2481 an electron stripped off.
+###2482 So they're electrically charged.
+###2483 They're ions.
+###2485 They can be stored with electromagnetic
+###2486 fields for a long time.
+###2489 And although each one is just an individual atom, we can
+###2494 encode a qubit by imagining that each atom is either in
+###2499 its lowest energy state, its ground state, or in some
+###2502 long-lived, excited state.
+###2504 And if I want to read out the state of the qubit, that's
+###2506 actually pretty easy.
+###2507 We can illuminate the ions with laser light.
+###2512 And if we choose the frequency of the light suitably, then
+###2516 the ions will remain dark it they're in the green
+###2518 state of the qubit.
+###2520 If they're in the red state, they will interact strongly
+###2522 with the light and fluoresce.
+###2524 So they'll glow visibly.
+###2526 And we can read out a series of 0s and 1s that way, when
+###2529 we're ready to read out our quantum computer.
+###2532 But, of course, we want to do more than just read out.
+###2534 We want to be able to process the information.
+###2536 So we have to be able to perform logic
+###2538 gates on pairs of qubits.
+###2541 We've got to get the qubits to interact.
+###2542 And in this case, we would use the electrostatic repulsion
+###2546 between ions for that purpose.
+###2549 We can do something like this.
+###2550 I can pick out an ion in a trap and address it with a
+###2554 pulse laser, choose the frequency and duration of that
+###2557 laser pulse properly so that if the ion is in the red
+###2560 state, nothing will happen.
+###2562 If it's in the green state, the ion makes a transition
+###2565 from the green to the red state.
+###2567 And at the same time, because of those interactions, a
+###2570 vibrational mode of all the ions in the trap is excited.
+###2574 And then I can pick out another ion in the trap and
+###2577 address it with the pulse laser, choose the frequency
+###2580 and duration of that pulse in such a way that nothing will
+###2583 happen if the ions are not vibrating.
+###2585 But if they are vibrating, that ion will undergo a
+###2588 transition from one state to the other and the
+###2591 vibration will stop.
+###2593 So what I've done is I've picked out
+###2594 two ions in the trap.
+###2596 And if the first ion had been red,
+###2599 nothing would have happened.
+###2600 If it's green, then both ions make a transition.
+###2603 And so if I start out with a superposition of red and green
+###2607 for the first ion, I get a correlated quantum state, an
+###2610 entangled pair of qubits for the pair of ions.
+###2613 And the quantum computation would consist of many such
+###2616 steps, each one an entangling operation acting
+###2619 on a pair of ions.
+###2621 At least that cartoon is the way a theorist would describe
+###2624 what goes on in Wineland's lab.
+###2626 If you go to his lab at NIST in Boulder, Colorado and look
+###2630 around, you're in for kind of a shock.
+###2631 Because underlying that cartoon is a great deal of
+###2635 technical complexity, which might make you pessimistic
+###2639 about the prospects for scaling up ion traps to
+###2642 thousands or millions of qubits.
+###2645 Well, it's going to be very, very hard.
+###2647 Wineland and others have an idea of how to do it.
+###2651 But it looks very difficult.
+###2654 We don't know whether that will succeed or not.
+###2656 On the other hand, there are other ways of realizing qubits
+###2658 physically, which are making rapid progress.
+###2661 One makes use of superconductivity again, but
+###2664 in a different way than I described in the case with
+###2666 Mayorana fermions.
+###2668 We can use superconducting wires to store quantum
+###2670 information.
+###2671 And although for practical reasons this isn't the best
+###2674 way to do it, and you'll learn about better ways to do it
+###2677 when John Martinez is here in a month or two, you can
+###2684 visualize how we could store information by thinking of a
+###2687 closed loop of superconducting wire with a
+###2690 persistent current flowing.
+###2692 And the current can flow either clockwise or
+###2694 counterclockwise around the hoop.
+###2695 Those are the two distinguishable
+###2697 states of the qubit.
+###2698 And what's remarkable about that encoding is that the
+###2701 information is encoded in a collective state of billions
+###2704 of electrons.
+###2706 And yet, we can treat it like a single unit of quantum
+###2710 information and protect it and manipulate it quite
+###2713 accurately.
+###2714 Another possibility is to use a single electron, which has a
+###2717 magnetic field, a spin, where its north pole can be oriented
+###2722 either up or down.
+###2723 So that's a qubit.
+###2724 And what's remarkable about that encoding is it's just one
+###2727 little electron.
+###2728 But yet we can address it, prepare its state, manipulate
+###2733 its state, get two such qubits to interact with a good
+###2737 accuracy using current technology.
+###2738 And both of these technologies have been advancing
+###2741 impressively in the last couple of years.
+###2744 And there are a number of others, a number of other ways
+###2746 that have been proposed and are under development for
+###2750 proceeding with building quantum hardware.
+###2752 And we just don't know at this stage which of these is going
+###2754 to turn out.
+###2755 Or maybe it'll be none of these and some other idea that
+###2757 hasn't been proposed yet.
+###2759 Each of these technologies has advantages and disadvantages.
+###2762 Perhaps the systems of the future will use hybrid
+###2766 technologies, where we combine together different types of
+###2768 qubits so we can take advantage of the strong points
+###2774 of each of these technologies.
+###2775 
+###2778 No matter how we build the hardware, we're going to have
+###2781 to do error correction, as I described earlier.
+###2783 And actually the best idea we have about how to do this
+###2786 error correction in a reasonably efficient manner
+###2790 goes back to these topological encodings of information that
+###2793 I mentioned.
+###2794 The best idea we have is that if you're going to use ions,
+###2797 or electron spins, or superconducting circuits, you
+###2801 can, by getting such systems to interact in a prescribed
+###2804 way, make them behave like these topological media that I
+###2808 described, that support anyons.
+###2810 And so we can use that system to store
+###2813 quantum information robustly.
+###2816 But that will only work effectively if our gates are
+###2820 good enough.
+###2820 We have to have a low enough rate of error per gate in
+###2824 order for these error correction ideas to
+###2828 effectively protect a quantum computer against the damaging
+###2831 effects of noise.
+###2833 We would like the probability of error per gate to be
+###2837 considerably less than 1% in order to have reasonably
+###2841 efficient error correction schemes.
+###2843 And the hardware is advancing and getting into that
+###2846 interesting regime where we can do two qubit gates with
+###2850 the required accuracy for quantum error
+###2852 correction to be effective.
+###2857 So how far do we have to go before we can build factoring
+###2860 machines that can really outperform what can be done
+###2865 with classical computers?
+###2865 Well, let's say we want to break the RSA scheme as it's
+###2869 usually implemented these days.
+###2871 That means we have to factor a 2048-bit number.
+###2875 Well, you know you can do that with a classical computer.
+###2877 It's just question of resources.
+###2880 John Martinez has done these estimates, which I'm
+###2882 stealing from him.
+###2884 If you want to factor a 2048-bit number, then you just
+###2887 have to cover 1/4 of the land area of North America with a
+###2891 server farm.
+###2892 Now, that would cost about a million trillion dollars.
+###2895 The power requirement would be about a million terawatts,
+###2898 which is about 100,000 times the world's
+###2901 power output today.
+###2903 The bad news is you have to run the algorithm for 10 years
+###2905 to get the answer and it would consume the world's supply of
+###2908 fossil fuels in a day.
+###2911 So what if you tried to do this with the existing quantum
+###2914 technology, which Martinez has been a leader in developing?
+###2919 Well, we just do it by brute force.
+###2921 If we want to factor this number, we need something like
+###2923 10,000 logical qubits, error-free qubits.
+###2927 In order to achieve that, based on the types of error
+###2930 rates that we think are achievable or nearly
+###2933 achievable with the current technology, we would need
+###2936 about 10 million physical qubits, keep them far enough
+###2939 apart so we have lots of room to cool them
+###2941 and bring in wires.
+###2943 And then the current cost, Martinez estimates, of making
+###2946 a really good qubit in his lab is about $10,000.
+###2950 So we could get these 10 million physical qubits if we
+###2954 were willing to spend a $100 billion.
+###2957 And then we could run the algorithm in 16 hours.
+###2961 It would consume 10 megawatts.
+###2963 OK.
+###2963 So actually this is a somewhat rosier outlook than maybe the
+###2966 current situation because it's such a huge engineering
+###2969 challenge to scale things out when we don't know
+###2971 exactly how to do it.
+###2973 But it indicates that we can imagine in coming decades that
+###2978 this can really be a practical technology.
+###2980 We've just got to bring the cost down a
+###2982 bit, below $100 billion.
+###2984 And you'll hear more about that from Martinez.
+###2989 So there are three questions about quantum computers than
+###2990 I've discussed so far.
+###2992 Why do we want to build one?
+###2993 Well, for one thing, because quantum computers would be
+###2996 able, perhaps, to simulate any process that occurs in the
+###2999 quantum world.
+###3000 That could be important in chemistry, and material
+###3003 science, and from a physicist's point of view, in
+###3006 simulating exotic physical phenomenon, that particle
+###3010 physicists like me, or like I used to be, care about.
+###3014 Can we really build one?
+###3015 Well, we don't know of an obstacle in principle that
+###3018 will prevent us from succeeding, if we use these
+###3021 principles of quantum correction, and we can make
+###3023 the hardware good enough.
+###3024 And as far as we can tell, it ought to work.
+###3027 How are we going to do it?
+###3028 That's still far from clear.
+###3029 These different approaches to quantum hardware that I
+###3034 quickly summarized for you are all being developed.
+###3036 It's important that they all be developed.
+###3038 Because we really don't know which is going to turn out, if
+###3041 any of them, to be the best scalable technology.
+###3046 But you know, I am not an engineer.
+###3048 I'm a theoretical physicist.
+###3049 So I get excited about the potential ways in which what
+###3054 we're learning by thinking about quantum computing can be
+###3057 applied to problems at the frontiers of physics.
+###3062 And there are many applications of quantum
+###3064 information processing to physics.
+###3067 Many of them have to do with what we call the monogamy of
+###3070 entanglement, a difference between classical and quantum
+###3073 correlations that I haven't emphasized so much so far.
+###3077 Classical correlations are polygamous.
+###3080 They can be shared by many parties.
+###3083 Adam and Betty both read the newspaper.
+###3086 They have the same information.
+###3088 They become correlated with one another.
+###3090 And nothing prevents Charlie from
+###3093 reading that same newspaper.
+###3095 So now, all three of them are correlated.
+###3096 And Charlie is just as strongly correlated with Betty
+###3099 and with Adam, as Adam and Betty are with one another.
+###3102 And the rest of us in the room can read the newspaper.
+###3104 And everybody joins in on the correlation.
+###3107 Quantum correlations are different.
+###3109 We say they are monogamous.
+###3111 They are harder to share.
+###3113 If Adam and Betty are strongly entangled, if they are fully
+###3117 entangled, as entangled as possible with one another,
+###3121 then neither Adam nor Betty has the ability to be
+###3124 correlated with any other system.
+###3128 Likewise, if Betty is fully entangled with Charlie, then
+###3132 Betty and Charlie cannot be correlated at all with Adam.
+###3137 So that's what we mean when we say the entanglement is
+###3140 monogamous.
+###3141 It can be shared two ways.
+###3144 And that monogamy can be frustrating because Betty
+###3147 might want to be entangled with both Adam and Charlie.
+###3151 But if she wants to entangle with Charlie, she has to
+###3153 sacrifice some of her entanglement with Adam in
+###3156 order to do so.
+###3158 That feature, that monogamy of entanglement, has many
+###3163 ramifications.
+###3164 One is in quantum cryptography.
+###3167 If Adam and Betty are nearly fully entangled with one
+###3171 another, if they can verify they are very highly
+###3174 entangled, for example by playing Bell's game and
+###3178 winning, and then they will know that they have very
+###3181 little correlation with anyone in the outside world who would
+###3184 be a potential eavesdropper.
+###3186 They can use their entanglement to generate a
+###3188 secret key that they share, a random string of numbers that
+###3192 Adam has and Betty has, but which the outside world knows
+###3195 very little about.
+###3196 And then with a little bit of processing, they can amplify
+###3199 that privacy so that they are assured that the world outside
+###3204 knows nothing about their key.
+###3205 And they can safely use it to encrypt and decrypt a
+###3208 classical message.
+###3211 With information theoretic security, no attack by the
+###3214 eavesdropper will succeed in breaking such a protocol.
+###3219 Monogamy is very important in the study of quantum matter.
+###3223 We might have a system of many electrons.
+###3225 And the interactions among the electron make them want to
+###3227 entangle with one another.
+###3229 But if electron A is to entangle with electron B, then
+###3232 it's going to give up some of its ability to entangle with
+###3235 other electrons in the system that it
+###3237 wants to entangle with.
+###3238 And so the system will have to arrive at some compromise to
+###3243 relieve that frustration, that inability to entangle with
+###3247 many particles at once to the best degree possible.
+###3250 And there are qualitatively different ways in which the
+###3255 many-body state can find and entangled a state of matter,
+###3259 which correspond to different phases of matter, that can't
+###3262 be smoothly changed one to another.
+###3265 Classifying the different phases of quantum matter is
+###3268 really a problem in understanding the types of
+###3270 entanglement that can be shared by many particles.
+###3274 And monogamy is also important in the study of black hole
+###3277 physics, which has been a subject that's been quite
+###3280 active over the last year or so.
+###3282 Let me just take a few minutes to tell you about
+###3284 what's been going on.
+###3286 Actually, we've known for a long time, nearly 40 years,
+###3289 that black holes, although classically they are objects
+###3292 from which nothing can escape, actually emit radiation
+###3296 because of quantum effects.
+###3297 We think a black hole, if it forms from a collapse of
+###3301 matter, will eventually evaporate completely through
+###3305 this emission of Hawking radiation.
+###3309 And normally when systems get thermalized and behave like
+###3313 they have some characteristic temperature and radiate, like
+###3315 black holes do, we believe that such processes are
+###3320 microscopically reversible.
+###3322 In principle, they could be run backwards.
+###3325 Information doesn't really get destroyed.
+###3327 But it gets scrambled, put into a form which is
+###3330 very hard to decode.
+###3331 But which, in principle, can be decoded.
+###3334 So we think, black holes, like other quantum systems, ought
+###3337 not to destroy information, just scramble it, making it
+###3341 hard to decode.
+###3343 But black holes are different than other systems in an
+###3345 important way.
+###3345 They have a highly deformed geometry, which I've tried to
+###3348 indicate here in this diagram.
+###3350 Here, time is running upward.
+###3352 This black line represents the event horizon, the boundary
+###3357 between the outside and the inside of a black hole.
+###3360 And this green line is a slice of constant time,
+###3364 a space-like surface.
+###3365 But just think of it as one particular time.
+###3368 But because of the distorted geometry, it has
+###3371 this unusual shape.
+###3373 Which means that the collapsing matter from which
+###3375 the black hole form, and most of the outgoing Hawking
+###3379 radiation emitted as the black hole evaporates, are at the
+###3382 same time, cross the single space-like slice.
+###3386 And so if information really comes out of a black hole in a
+###3389 highly scrambled form, it means information at the same
+###3392 time is at two different places, inside the black hole
+###3395 and outside.
+###3395 But remember, I told you that we can't copy quantum
+###3398 information.
+###3399 So we're kind of stuck here.
+###3401 If black holes don't destroy information, then it seems
+###3404 that they are a quantum copying machine.
+###3406 That they were able to clone a quantum state, taking the
+###3409 information encoded in the collapsing matter and printing
+###3412 it in this outgoing Hawking radiation.
+###3414 And that caused great puzzlement.
+###3416 But for about 20 years, we have had an idea about how the
+###3420 situation is resolved, which is called black hole
+###3425 complementarity.
+###3426 It's a kind of crazy idea.
+###3428 It is that we should not think of the outside system, the
+###3435 Hawking radiation, and the inside system, the collapsing
+###3438 matter, as two different parts of a big system.
+###3442 We should think of them as two complementary ways of
+###3446 describing the same system.
+###3448 There's, so to speak, door number one and door number two
+###3451 of black hole physics, two complementary descriptions of
+###3454 the same system.
+###3456 And that's not at all obvious.
+###3459 And that we actually need to understand the black holes
+###3463 better to clarify exactly why it occurs.
+###3467 But the idea is that this isn't really cloning.
+###3469 It's just we have two
+###3470 descriptions of the same physics.
+###3472 One is appropriate for someone who falls into the black hole,
+###3475 the description of the information in
+###3476 the collapsing body.
+###3478 The other is appropriate for someone who stays outside.
+###3481 That's the information imprinted
+###3482 in the Hawking radiation.
+###3484 This idea of a black hole complementarity is intended to
+###3487 reconcile three beliefs which seem reasonable.
+###3491 Black holes don't destroy information.
+###3492 They merely scramble it.
+###3495 Secondly, that an observer who falls through the horizon, the
+###3499 boundary between inside and outside of a black hole,
+###3501 doesn't notice anything unusual upon entering the
+###3504 black hole.
+###3506 Everything seems normal.
+###3507 Until later on, when the party will inevitably be torn apart
+###3511 by very strong gravitational forces, deep
+###3514 inside the black hole.
+###3516 And physics seems perfectly normal from the point of view
+###3519 of someone who stays outside the black hole.
+###3523 But what has recently been argued is that these three
+###3526 things can't simultaneously be true.
+###3529 And the problem is this.
+###3531 That if we consider an old black hole, which has been
+###3533 radiated for a long time, information is starting to
+###3536 leak out of it we it evaporates.
+###3538 That means that the recently emitted radiation, system B,
+###3542 has to be highly entangled with radiation that was
+###3545 emitted earlier, which I called system C.
+###3548 But we also know that if a freely falling observer,
+###3550 falling through the horizon, sees not a lot of particles,
+###3553 but something that just looks like empty space, empty space
+###3556 actually has a lot of entanglement between and
+###3559 outside the black hole, B, and the region inside, A. So this
+###3563 recently emitted radiation has to be highly entangled with
+###3566 the inside of the black hole.
+###3567 It also has to be highly entangled
+###3569 with earlier radiation.
+###3571 And that's a problem.
+###3572 Because system B can't be highly entangled with both A
+###3575 and C. That violates monogamy.
+###3578 And so we're really confused about what this means.
+###3580 What has been suggested is that we should give up on
+###3584 assumption 2, that freely falling observers don't think
+###3587 everything is smooth and nice and normal when they cross
+###3591 from the outside to the inside in the black hole.
+###3593 In fact, there is no inside.
+###3595 And they just hit a seething firewall.
+###3598 The singularity, where you get torn apart, is actually right
+###3602 at the horizon.
+###3604 That's the suggestion which has been promoted recently.
+###3608 And it's crazy.
+###3608 Because if you just solve the equations of general
+###3612 relativity to see what the geometry of a black hole
+###3614 should be, that's not what you find.
+###3616 You find in fact the geometry should be very smooth as you
+###3621 cross the horizon.
+###3622 So we're really confused about this.
+###3624 The reason I'm telling you about it is that this debate
+###3627 could have occurred 20 years ago.
+###3629 But it's occurring now I think because the gravitational
+###3632 physicists and string theorists are more accustomed
+###3635 now to thinking about their physical systems from the
+###3638 point of view of quantum information and entanglement.
+###3641 And that's a change which is occurring throughout many
+###3643 areas of physics.
+###3645 Physics is a broad subject.
+###3647 We have the frontier of short distances, in which we study
+###3650 the elementary particles and their interactions; the
+###3653 frontier of long distances, the evolution of the whole
+###3656 universe and the properties of the early universe.
+###3660 But there's another frontier, also very exciting and very
+###3662 active, which you could call the complexity frontier or
+###3665 entanglement frontier, the study of highly entangled
+###3669 systems with many parts.
+###3671 That encompasses quantum computing, trying to
+###3673 understand phases of quantum matter, and all the different
+###3675 ways in which systems of many particles can be entangled.
+###3679 That's an area in which we can expect great
+###3681 progress in this century.
+###3684 At Caltech, we have a center devoted to the exploration of
+###3688 this entanglement frontier from many points of view.
+###3691 And the IQIM has a slogan, which is nature is subtle,
+###3697 where we are playing on Einstein's famous statement,
+###3702 "Subtle is the Lord, but malicious He is not."
+###3705 Einstein, for all his audacity and genius, underestimated the
+###3709 subtlety of nature when he dismissed quantum entanglement
+###3712 as spooky action at a distance.
+###3715 And what we're trying to do in quantum information science
+###3717 these days is to enjoy and relish and explore and exploit
+###3722 ultimately the subtlety of the quantum world and all its
+###3726 facets and ramifications.
+###3727 Thanks for listening to me today.
+###3729 
+###3737 AUDIENCE: So I remember--
+###3739 I noticed thinking when you were talking about how you
+###3742 have to isolate the material, the quantum computer, from
+###3746 outside observation that my immediate responses, and I
+###3751 thought as an engineer, was like man, that's got to be
+###3753 really tough to debug if something's going wrong.
+###3757 So I was wondering so what are the implications there for how
+###3760 you would program it?
+###3761 Do you have to have like a mathematical proof that your
+###3763 program is correct?
+###3765 Because it doesn't seem like you could examine what it's
+###3768 doing when it's executing.
+###3769 
+###3772 JOHN PRESKILL: So the question is if what I said is true,
+###3774 that in order for a quantum computer to work it has to be
+###3779 completely isolated from the outside world and we're not
+###3781 able to look inside at what it's doing or in the course of
+###3785 a computation, how would we ever debug it?
+###3787 How would we as--
+###3789 or you as engineers--
+###3790 manage to figure out how to fix it when it's broken?
+###3795 Well, the answer--
+###3796 I mean I don't think there's any answer that's
+###3798 surprising to you.
+###3800 You would have to, in the process of developing a
+###3804 quantum computer, benchmark different subroutines by
+###3809 running them and seeing how well they performed.
+###3811 You can break it all.
+###3812 The big computation you can't simulate with a classical
+###3815 computer because that's the whole reason you're building a
+###3817 quantum computer.
+###3819 The pieces of a computation, you can simulate.
+###3821 You can compare such simulations to the operation
+###3824 of the quantum hardware.
+###3825 Then you can try to scale up to larger and
+###3828 larger quantum circuits.
+###3829 And in cases where you're doing computations for which
+###3832 it is easy to know what the answer is, make sure you're
+###3834 getting the right answer.
+###3835 If it's not working, then look at the individual parts of
+###3840 that circuit and try to improve their performance.
+###3845 And there's no deep answer to that.
+###3846 It's just sort of the obvious answer.
+###3849 AUDIENCE: You mentioned earlier that quantum
+###3853 techniques don't work equally well on all problems.
+###3856 Some of them give exponential speedup, some of them only n
+###3859 squared, that sort stuff.
+###3861 I was wondering if you could give any further intuition on
+###3864 what kinds of problems fall into the different?
+###3866 JOHN PRESKILL: Yeah.
+###3866 So I think the question is, I said that there are some
+###3869 problems that quantum computers can achieve
+###3874 spectacular speedups, many problems for which we think
+###3878 that's not possible.
+###3880 And so what's the intuition about whether a problem lies
+###3884 in one class or the other or what's a nice
+###3887 characterization?
+###3888 Well, we don't have the complete answer to that.
+###3891 I did say that we do not expect exponential speedups to
+###3896 be possible for NP-hard problems.
+###3901 We think that in such cases even a quantum computer
+###3906 wouldn't in the worst case be able to do much better than a
+###3910 brute force search.
+###3911 And they can speed that up a little bit, but not a lot
+###3914 compared to classical systems.
+###3916 So first of all, we're talking about if we want to stay
+###3919 within the class NP, where we can check the answer easily
+###3924 with a classical computer, about a rather special class
+###3927 of problems, which are outside P. So they're classically
+###3930 hard, but not NP-hard.
+###3932 Factoring is a candidate for being in the
+###3935 intermediate class.
+###3936 So other problems which are outside P, which we think
+###3941 can't be solved in polynomial time with a classical
+###3943 computer, but are not NP-hard, are candidates for quantum
+###3946 algorithms.
+###3947 But that's probably not exactly the right answer.
+###3952 And I also tried to emphasize that we don't have to limit
+###3954 ourselves to NP.
+###3956 There are things that quantum computers could do that we
+###3959 wouldn't be able to check classically.
+###3960 We could check a quantum computer with another quantum
+###3963 computer, things like simulation problems,
+###3967 simulating quantum systems with many parts.
+###3970 And I think the most potential that we currently know from
+###3974 our current understanding of quantum computers for
+###3977 nontrivial applications involve such simulation of
+###3980 quantum systems.
+###3983 AUDIENCE: Could you say something about the robustness
+###3985 of entanglement?
+###3986 So when you were talking about quantum computing, it seemed
+###3989 like entanglement was this very delicate thing.
+###3992 And you had to worry about the decoherence problems that when
+###3995 two particles interact with the outside world, the
+###3997 entanglement is lost.
+###3999 But with this black hole problem, it seems like the
+###4001 entanglement was indestructible.
+###4002 And that was why these three propositions
+###4004 couldn't all be true.
+###4006 JOHN PRESKILL: Well, entanglement is
+###4009 indestructible, even outside the context of the black hole
+###4012 problem, in the sense that if you have systems that are
+###4018 entangled with one another, although they may interact
+###4021 with the environment, that doesn't really destroy the
+###4024 entanglement.
+###4025 It just means that the entanglement can now only be
+###4028 detected if we look at entanglement between
+###4031 subsystems that include the environment.
+###4034 So the problem is that we don't control the
+###4036 environment very well.
+###4037 So if we look at just the system that we can control and
+###4041 don't pay attention to the environment, then it can
+###4043 appear that the entanglement is lost, even though it's
+###4046 really there.
+###4047 In the case of the black hole problem, I was really talking
+###4050 about this issue of principle, of whether entanglement is
+###4052 there or not, not whether it's there in a form that we can
+###4055 control or even decode easily.
+###4058 Which actually is an
+###4058 interesting question of principle.
+###4060 Is it a really hard problem to do the decoding that could
+###4063 detect this entanglement?
+###4065 And if it's a really hard problem, do maybe the laws of
+###4068 physics tell us that this entanglement doesn't really
+###4074 have an operational meaning?
+###4077 AUDIENCE: So it sounds like it might be very difficult for
+###4079 humans to build such a computer.
+###4081 Do such computers exist in natural settings where some
+###4087 spontaneous result appears quite naturally, like for
+###4093 instance in superconductivity where some physical state is
+###4098 just emergent from a large group of particles.
+###4103 And the way they actually are doing it is a quantum
+###4106 computer, but we don't know how it's happening?
+###4109 
+###4111 JOHN PRESKILL: Right.
+###4112 So the question is for humans, it may be hard to realize
+###4119 large-scale quantum computers.
+###4121 Are there ways in which nature does it?
+###4123 Are there natural processes in which quantum computation
+###4126 occurs, so-to-speak spontaneously?
+###4130 Yeah.
+###4130 I mean it's sort of-- you know it was hard for us to build a
+###4133 hydrogen bomb.
+###4134 But the Sun does it.
+###4135 In fact, it was hard to build a fission bomb, but there was
+###4138 a spontaneous uranium reactor in Africa because too much
+###4145 uranium was collected in one place.
+###4147 So is quantum computation occurring by such naturally
+###4152 occurring process somewhere?
+###4154 I don't know.
+###4156 My guess is that if we really want large-scale quantum
+###4159 computers, which are hard to simulate classically--
+###4164 well, I mean there are lots of things going on in physics
+###4166 labs for which that might be a fair statement, that there are
+###4173 states of quantum matter.
+###4175 One famous one is the high-temperature
+###4178 superconductors, which we don't understand very well
+###4181 microscopically how they work because haven't so far been
+###4184 able to simulate them on classical computers.
+###4190 So maybe that system is, by simulating itself, is
+###4194 performing a quantum computation in some sense.
+###4197 Or more broadly, whenever a quantum system evolves forward
+###4201 in time, it is in a sense behaving
+###4204 like a quantum computer.
+###4205 But I'm afraid that's probably too broad a notion of what we
+###4208 mean by a quantum computer.
+###4210 My guess is that nature has a way of
+###4212 realizing quantum computers.
+###4214 The way is to allow engineers to evolve, who build them.
+###4221 And that's probably the way nature does it.
+###4224 GREG KROAH-HARTMAN: Maybe we conclude it here and thank
+###4226 John for a beautiful talk.
+###4228 JOHN PRESKILL: All right.
+###4229 Thanks for listening.
+###4230 

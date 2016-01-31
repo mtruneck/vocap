@@ -1,0 +1,3218 @@
+1
+0:0:0,0 --> 0:0:1,65
+
+
+
+2
+0:0:1,65 --> 0:0:2,52
+DOUG HODOUS: We are going to
+pour this right in here and
+
+
+3
+0:0:2,52 --> 0:0:3,25
+look at this.
+
+
+4
+0:0:3,25 --> 0:0:4,46
+STEVE SPANGLER: Ah, wow.
+
+
+5
+0:0:4,46 --> 0:0:6,51
+DOUG HODOUS: Look at this,
+it's like magic.
+
+
+6
+0:0:6,51 --> 0:0:8,1
+BECKY DITCHFIELD: I have no idea
+what's going to happen.
+
+
+7
+0:0:8,1 --> 0:0:9,64
+STEVE SPANGLER: This is
+a biological stain.
+
+
+8
+0:0:9,64 --> 0:0:10,28
+CARLY REED: Oh no.
+
+
+9
+0:0:10,28 --> 0:0:11,28
+STEVE SPANGLER: This
+is just- It's fine.
+
+
+10
+0:0:11,28 --> 0:0:14,29
+This is- So I bet you think this
+is the part of this show,
+
+
+11
+0:0:14,29 --> 0:0:17,3
+where I'm going to say, don't
+try these experiments at home.
+
+
+12
+0:0:17,3 --> 0:0:18,21
+And you're right.
+
+
+13
+0:0:18,21 --> 0:0:20,65
+Except there is one experiment
+we want you to try.
+
+
+14
+0:0:20,65 --> 0:0:22,38
+Just look for the graphic
+that's right here
+
+
+15
+0:0:22,38 --> 0:0:23,31
+that says, try it.
+
+
+16
+0:0:23,31 --> 0:0:25,26
+That's your signal that
+you can try that
+
+
+17
+0:0:25,26 --> 0:0:26,29
+experiment at home.
+
+
+18
+0:0:26,29 --> 0:0:27,87
+Everything else, off limits.
+
+
+19
+0:0:27,87 --> 0:0:29,972
+Look, I've already given you
+homework, and the show hasn't
+
+
+20
+0:0:29,972 --> 0:0:31,67
+even started.
+
+
+21
+0:0:31,67 --> 0:0:34,89
+I'm Steve Spangler, and I'm all
+about making science fun.
+
+
+22
+0:0:34,89 --> 0:0:37,77
+For the last 20 years I've been
+teaching ways to turn
+
+
+23
+0:0:37,77 --> 0:0:40,78
+ordinary science experiments
+into unforgettable learning
+
+
+24
+0:0:40,78 --> 0:0:41,79
+experiences.
+
+
+25
+0:0:41,79 --> 0:0:44,42
+I have an amazing team, who will
+do whatever it takes to
+
+
+26
+0:0:44,42 --> 0:0:47,17
+affect the way people
+think about science.
+
+
+27
+0:0:47,17 --> 0:0:50,87
+And to do that I live by one
+model- make it big, do it
+
+
+28
+0:0:50,87 --> 0:0:52,47
+right, give it class.
+
+
+29
+0:0:52,47 --> 0:0:57,71
+
+
+
+30
+0:0:57,71 --> 0:0:59,98
+You know, I think it's true, you
+never actually forget the
+
+
+31
+0:0:59,98 --> 0:1:1,62
+great teachers that you
+had in your life.
+
+
+32
+0:1:1,62 --> 0:1:4,6
+And when I go back and think
+about my high school, Heritage
+
+
+33
+0:1:4,6 --> 0:1:6,48
+High School and the Littleton
+Public Schools,
+
+
+34
+0:1:6,48 --> 0:1:7,6
+one guy sticks out.
+
+
+35
+0:1:7,6 --> 0:1:8,67
+His name is Doug Hodous.
+
+
+36
+0:1:8,67 --> 0:1:11,11
+And he was my very first
+chemistry teacher.
+
+
+37
+0:1:11,11 --> 0:1:13,93
+This is the guy that made things
+blow up, and the funny
+
+
+38
+0:1:13,93 --> 0:1:15,2
+smells, and so forth.
+
+
+39
+0:1:15,2 --> 0:1:18,1
+And so I thought today we'd go
+back to Heritage High School,
+
+
+40
+0:1:18,1 --> 0:1:20,53
+and see if we can take him back
+to his old class, and
+
+
+41
+0:1:20,53 --> 0:1:21,78
+have a little lesson
+in chemistry.
+
+
+42
+0:1:21,78 --> 0:1:25,5
+
+
+
+43
+0:1:25,5 --> 0:1:25,74
+DOUG HODOUS: Hey, Steve.
+
+
+44
+0:1:25,74 --> 0:1:27,49
+How are you?
+
+
+45
+0:1:27,49 --> 0:1:28,38
+You're looking good.
+
+
+46
+0:1:28,38 --> 0:1:30,66
+STEVE SPANGLER: So I walk in
+and you're no longer here,
+
+
+47
+0:1:30,66 --> 0:1:32,89
+because they kicked you
+out 20 years ago.
+
+
+48
+0:1:32,89 --> 0:1:34,3
+How long have you
+been retired?
+
+
+49
+0:1:34,3 --> 0:1:35,74
+DOUG HODOUS: It's been
+a long, long time.
+
+
+50
+0:1:35,74 --> 0:1:37,92
+1996.
+
+
+51
+0:1:37,92 --> 0:1:38,21
+'97.
+
+
+52
+0:1:38,21 --> 0:1:38,745
+STEVE SPANGLER: Look at this.
+
+
+53
+0:1:38,745 --> 0:1:40,86
+My chemistry teacher,
+he is here.
+
+
+54
+0:1:40,86 --> 0:1:43,17
+He's the guy that they made
+sure-- well there's a lot of
+
+
+55
+0:1:43,17 --> 0:1:45,74
+stories about sneaking out, and
+doing demos, and so forth.
+
+
+56
+0:1:45,74 --> 0:1:46,72
+But I was going to ask you.
+
+
+57
+0:1:46,72 --> 0:1:48,8
+Let's go back into
+at the class.
+
+
+58
+0:1:48,8 --> 0:1:50,54
+Let's see if we can rummage
+around a little bit.
+
+
+59
+0:1:50,54 --> 0:1:51,82
+And I'd love to have you do--
+
+
+60
+0:1:51,82 --> 0:1:52,6
+I want disappearing ink.
+
+
+61
+0:1:52,6 --> 0:1:52,825
+DOUG HODOUS: Oh.
+
+
+62
+0:1:52,825 --> 0:1:52,9
+Excellent.
+
+
+63
+0:1:52,9 --> 0:1:53,49
+STEVE SPANGLER: That's
+what I want.
+
+
+64
+0:1:53,49 --> 0:1:55,9
+I want your formula for
+disappearing ink.
+
+
+65
+0:1:55,9 --> 0:1:57,85
+DOUG HODOUS: Oh, that would
+be a lot of fun.
+
+
+66
+0:1:57,85 --> 0:1:58,7
+Thanks for inviting me.
+
+
+67
+0:1:58,7 --> 0:2:0,76
+STEVE SPANGLER: Absolutely.
+
+
+68
+0:2:0,76 --> 0:2:2,37
+Welcome back to your
+old classroom.
+
+
+69
+0:2:2,37 --> 0:2:4,405
+Some things don't
+change, do they?
+
+
+70
+0:2:4,405 --> 0:2:5,68
+DOUG HODOUS: Well--
+
+
+71
+0:2:5,68 --> 0:2:6,93
+What do they call this, Steve?
+
+
+72
+0:2:6,93 --> 0:2:7,99
+I used to a chalkboard.
+
+
+73
+0:2:7,99 --> 0:2:9,24
+STEVE SPANGLER: It's
+a dry erase board.
+
+
+74
+0:2:9,24 --> 0:2:10,919
+And when you get older
+you forget--
+
+
+75
+0:2:10,919 --> 0:2:12,5
+there used to be chalk.
+
+
+76
+0:2:12,5 --> 0:2:15,44
+There used to be some huge demos
+that we would do here.
+
+
+77
+0:2:15,44 --> 0:2:19,7
+And you would ask me to come up
+with some of the demos that
+
+
+78
+0:2:19,7 --> 0:2:19,37
+you would do.
+
+
+79
+0:2:19,37 --> 0:2:20,89
+And so I got to be your
+lab assistant.
+
+
+80
+0:2:20,89 --> 0:2:24,15
+It's a pretty smart decision on
+your part to make me your
+
+
+81
+0:2:24,15 --> 0:2:24,73
+lab assistant, right?
+
+
+82
+0:2:24,73 --> 0:2:26,17
+DOUG HODOUS: Well, if--
+
+
+83
+0:2:26,17 --> 0:2:28,74
+the fact we know, when you were
+in my AP chemistry class
+
+
+84
+0:2:28,74 --> 0:2:29,78
+as a junior.
+
+
+85
+0:2:29,78 --> 0:2:32,78
+And then I thought, because you
+had passed and done well
+
+
+86
+0:2:32,78 --> 0:2:35,63
+on the exam, I thought maybe
+you would be an appropriate
+
+
+87
+0:2:35,63 --> 0:2:38,71
+person for you and Todd, who
+later on became a doctor, to
+
+
+88
+0:2:38,71 --> 0:2:40,2
+be my lab assistants.
+
+
+89
+0:2:40,2 --> 0:2:40,89
+Well, that was a mistake.
+
+
+90
+0:2:40,89 --> 0:2:41,555
+STEVE SPANGLER: Yeah, it was.
+
+
+91
+0:2:41,555 --> 0:2:41,96
+OK.
+
+
+92
+0:2:41,96 --> 0:2:43,23
+So.
+
+
+93
+0:2:43,23 --> 0:2:44,87
+But there were some pretty
+good explosions.
+
+
+94
+0:2:44,87 --> 0:2:45,4
+DOUG HODOUS: Oh, yeah.
+
+
+95
+0:2:45,4 --> 0:2:46,21
+STEVE SPANGLER: There was
+something very cool that you
+
+
+96
+0:2:46,21 --> 0:2:47,33
+did with disappearing ink.
+
+
+97
+0:2:47,33 --> 0:2:49,25
+And so what I'd like to do
+is to go back in the lab.
+
+
+98
+0:2:49,25 --> 0:2:49,46
+DOUG HODOUS: Oh yeah.
+
+
+99
+0:2:49,46 --> 0:2:50,71
+STEVE SPANGLER: And show me
+just your formula for
+
+
+100
+0:2:50,71 --> 0:2:51,33
+disappearing ink.
+
+
+101
+0:2:51,33 --> 0:2:51,95
+DOUG HODOUS: I'd love to.
+
+
+102
+0:2:51,95 --> 0:2:52,485
+STEVE SPANGLER: All into this.
+
+
+103
+0:2:52,485 --> 0:2:53,58
+DOUG HODOUS: It'd be great.
+
+
+104
+0:2:53,58 --> 0:2:54,37
+Yeah, sure
+
+
+105
+0:2:54,37 --> 0:2:56,11
+STEVE SPANGLER: Let's
+go look at that.
+
+
+106
+0:2:56,11 --> 0:2:58,26
+Look at this, you even
+dressed the part.
+
+
+107
+0:2:58,26 --> 0:2:58,96
+I love this.
+
+
+108
+0:2:58,96 --> 0:3:1,3
+DOUG HODOUS: Yes, I your always
+want to look like a
+
+
+109
+0:3:1,3 --> 0:3:1,92
+professional.
+
+
+110
+0:3:1,92 --> 0:3:2,97
+STEVE SPANGLER: And
+I love this, too.
+
+
+111
+0:3:2,97 --> 0:3:5,23
+Oh wait, you've got this.
+
+
+112
+0:3:5,23 --> 0:3:8,42
+Look, and he's got his little
+nerd protector right here.
+
+
+113
+0:3:8,42 --> 0:3:8,91
+I love that.
+
+
+114
+0:3:8,91 --> 0:3:9,65
+DOUG HODOUS: It won't
+go in there.
+
+
+115
+0:3:9,65 --> 0:3:10,4
+STEVE SPANGLER: It doesn't
+even fit there.
+
+
+116
+0:3:10,4 --> 0:3:11,42
+DOUG HODOUS: Yeah, that's why
+I put it in the other po--
+
+
+117
+0:3:11,42 --> 0:3:12,6
+STEVE SPANGLER: Some things
+never change.
+
+
+118
+0:3:12,6 --> 0:3:12,32
+I'm serious.
+
+
+119
+0:3:12,32 --> 0:3:13,26
+DOUG HODOUS: Yeah,
+that's right.
+
+
+120
+0:3:13,26 --> 0:3:14,12
+STEVE SPANGLER: I'll set
+this off to the side--
+
+
+121
+0:3:14,12 --> 0:3:14,78
+DOUG HODOUS: I didn't
+know I had--
+
+
+122
+0:3:14,78 --> 0:3:15,77
+STEVE SPANGLER: --just in
+case you don't need it.
+
+
+123
+0:3:15,77 --> 0:3:16,28
+DOUG HODOUS: I probably
+won't need it.
+
+
+124
+0:3:16,28 --> 0:3:17,99
+STEVE SPANGLER: Well, I want
+you to show me how to make
+
+
+125
+0:3:17,99 --> 0:3:20,0
+disappearing ink, but it looks
+like you have something else
+
+
+126
+0:3:20,0 --> 0:3:20,54
+set up instead.
+
+
+127
+0:3:20,54 --> 0:3:20,88
+DOUG HODOUS: Oh, yeah.
+
+
+128
+0:3:20,88 --> 0:3:23,27
+I wanted to sort of give you
+an example of how this
+
+
+129
+0:3:23,27 --> 0:3:25,72
+particular acid-based reaction
+is going to work.
+
+
+130
+0:3:25,72 --> 0:3:28,23
+Now, if you look right here, I
+just have a beaker of water.
+
+
+131
+0:3:28,23 --> 0:3:31,7
+I'm going to put a little bit
+of the sodium hydroxide.
+
+
+132
+0:3:31,7 --> 0:3:32,95
+Now, this is just a one molar
+solution, so we're going to
+
+
+133
+0:3:32,95 --> 0:3:34,52
+just add a little bit in here.
+
+
+134
+0:3:34,52 --> 0:3:34,81
+STEVE SPANGLER: OK.
+
+
+135
+0:3:34,81 --> 0:3:35,57
+DOUG HODOUS: OK?
+
+
+136
+0:3:35,57 --> 0:3:37,76
+And it turns out, that
+will be colorless.
+
+
+137
+0:3:37,76 --> 0:3:38,21
+STEVE SPANGLER: OK.
+
+
+138
+0:3:38,21 --> 0:3:39,8
+DOUG HODOUS: Because
+that's a base and
+
+
+139
+0:3:39,8 --> 0:3:40,315
+water, and it's colorless.
+
+
+140
+0:3:40,315 --> 0:3:40,62
+STEVE SPANGLER: OK.
+
+
+141
+0:3:40,62 --> 0:3:42,56
+DOUG HODOUS: Now, what we're
+going to add here is just a
+
+
+142
+0:3:42,56 --> 0:3:44,7
+very few drops of this.
+
+
+143
+0:3:44,7 --> 0:3:45,65
+And show everybody
+what that is.
+
+
+144
+0:3:45,65 --> 0:3:47,27
+STEVE SPANGLER: It's called
+phenolphthalein.
+
+
+145
+0:3:47,27 --> 0:3:47,74
+So--
+
+
+146
+0:3:47,74 --> 0:3:48,62
+DOUG HODOUS: It's
+an indicator.
+
+
+147
+0:3:48,62 --> 0:3:50,14
+STEVE SPANGLER: It actually
+starts, you said, as a powder.
+
+
+148
+0:3:50,14 --> 0:3:51,56
+So we have the powder here.
+
+
+149
+0:3:51,56 --> 0:3:53,35
+And so you said a couple
+of drops of
+
+
+150
+0:3:53,35 --> 0:3:55,2
+phenolphthalein in there.
+
+
+151
+0:3:55,2 --> 0:3:55,37
+DOUG HODOUS: Right.
+
+
+152
+0:3:55,37 --> 0:3:56,52
+STEVE SPANGLER: All right.
+
+
+153
+0:3:56,52 --> 0:3:56,75
+DOUG HODOUS: OK.
+
+
+154
+0:3:56,75 --> 0:3:58,95
+And when I held it up before,
+you actually could not see the
+
+
+155
+0:3:58,95 --> 0:4:0,15
+liquid, but it is in there.
+
+
+156
+0:4:0,15 --> 0:4:4,1
+So when I add this over
+here, it turns
+
+
+157
+0:4:4,1 --> 0:4:5,26
+a pink color because--
+
+
+158
+0:4:5,26 --> 0:4:6,3
+STEVE SPANGLER: So,
+the solution has
+
+
+159
+0:4:6,3 --> 0:4:7,5
+to be basic, right?
+
+
+160
+0:4:7,5 --> 0:4:8,86
+DOUG HODOUS: This is now a
+basic solution, because
+
+
+161
+0:4:8,86 --> 0:4:10,64
+there's sodium hydroxide
+in this.
+
+
+162
+0:4:10,64 --> 0:4:12,17
+Now what we're going
+to add to the other
+
+
+163
+0:4:12,17 --> 0:4:15,14
+beaker is a little acid.
+
+
+164
+0:4:15,14 --> 0:4:18,13
+And of course, we know that acid
+and bases will neutralize
+
+
+165
+0:4:18,13 --> 0:4:18,48
+each other.
+
+
+166
+0:4:18,48 --> 0:4:21,89
+But we want to put a little
+excess acid in there.
+
+
+167
+0:4:21,89 --> 0:4:21,74
+STEVE SPANGLER: Got it.
+
+
+168
+0:4:21,74 --> 0:4:23,76
+So it makes a little
+hydrochloric acid.
+
+
+169
+0:4:23,76 --> 0:4:25,3
+So we get one molar
+hydrochloric acid.
+
+
+170
+0:4:25,3 --> 0:4:27,4
+DOUG HODOUS: Right, one molar.
+
+
+171
+0:4:27,4 --> 0:4:29,5
+And when I pour this into here,
+of course it's going to
+
+
+172
+0:4:29,5 --> 0:4:31,38
+go back to colorless again.
+
+
+173
+0:4:31,38 --> 0:4:32,335
+This is magic.
+
+
+174
+0:4:32,335 --> 0:4:33,82
+STEVE SPANGLER: All
+right, so again.
+
+
+175
+0:4:33,82 --> 0:4:35,59
+What does this have to do
+with disappearing ink?
+
+
+176
+0:4:35,59 --> 0:4:37,3
+DOUG HODOUS: Well, it's the
+same kind of reaction.
+
+
+177
+0:4:37,3 --> 0:4:39,24
+It's going to be an acid-base
+reaction.
+
+
+178
+0:4:39,24 --> 0:4:40,42
+And we're going to
+use an indicator.
+
+
+179
+0:4:40,42 --> 0:4:41,25
+But this time we'll--
+
+
+180
+0:4:41,25 --> 0:4:42,75
+STEVE SPANGLER: But I
+don't want pink ink.
+
+
+181
+0:4:42,75 --> 0:4:44,64
+I really would like to
+have that deep dark--
+
+
+182
+0:4:44,64 --> 0:4:45,82
+DOUG HODOUS: Well,
+every indicator
+
+
+183
+0:4:45,82 --> 0:4:47,32
+has different colors.
+
+
+184
+0:4:47,32 --> 0:4:49,9
+This is our indicator for
+disappearing ink.
+
+
+185
+0:4:49,9 --> 0:4:50,94
+You can see the name
+right there.
+
+
+186
+0:4:50,94 --> 0:4:52,39
+Thymolphthalein.
+
+
+187
+0:4:52,39 --> 0:4:53,61
+STEVE SPANGLER: So
+thymolphthalein, just like
+
+
+188
+0:4:53,61 --> 0:4:56,85
+phenolphthalein, triggers about
+the same pH, right in
+
+
+189
+0:4:56,85 --> 0:4:57,57
+about the same range?
+
+
+190
+0:4:57,57 --> 0:4:58,95
+DOUG HODOUS: Right
+about neutral.
+
+
+191
+0:4:58,95 --> 0:4:59,15
+STEVE SPANGLER: OK.
+
+
+192
+0:4:59,15 --> 0:5:0,15
+So that's what we're going
+to use to make the
+
+
+193
+0:5:0,15 --> 0:5:0,2
+disappearing ink.
+
+
+194
+0:5:0,2 --> 0:5:1,55
+DOUG HODOUS: That's exactly
+what we're going to use to
+
+
+195
+0:5:1,55 --> 0:5:2,28
+make the disappearing ink.
+
+
+196
+0:5:2,28 --> 0:5:3,852
+DOUG HODOUS: Do you remember
+the formula?
+
+
+197
+0:5:3,852 --> 0:5:4,86
+DOUG HODOUS: Ah, no.
+
+
+198
+0:5:4,86 --> 0:5:5,505
+Let's do it.
+
+
+199
+0:5:5,505 --> 0:5:6,49
+STEVE SPANGLER: What
+you mean no?
+
+
+200
+0:5:6,49 --> 0:5:7,41
+You don't remember
+the formula?
+
+
+201
+0:5:7,41 --> 0:5:8,535
+DOUG HODOUS: I don't remember
+this formula.
+
+
+202
+0:5:8,535 --> 0:5:10,43
+STEVE SPANGLER: Do you remember
+the formula to make
+
+
+203
+0:5:10,43 --> 0:5:10,58
+disappearing--
+
+
+204
+0:5:10,58 --> 0:5:11,506
+DOUG HODOUS: Yes, I remember.
+
+
+205
+0:5:11,506 --> 0:5:12,81
+STEVE SPANGLER: This truly is--
+do you know what's the
+
+
+206
+0:5:12,81 --> 0:5:14,17
+greatest thing about
+getting old?
+
+
+207
+0:5:14,17 --> 0:5:16,35
+It's that you have new friends
+every day that
+
+
+208
+0:5:16,35 --> 0:5:17,32
+you didn't even know--
+
+
+209
+0:5:17,32 --> 0:5:18,69
+DOUG HODOUS: Do you remember
+the formula?
+
+
+210
+0:5:18,69 --> 0:5:19,1
+No.
+
+
+211
+0:5:19,1 --> 0:5:19,29
+C-H-A--
+
+
+212
+0:5:19,29 --> 0:5:22,72
+STEVE SPANGLER: No, I want to
+know the formula to make the
+
+
+213
+0:5:22,72 --> 0:5:24,9
+disappearing ink.
+
+
+214
+0:5:24,9 --> 0:5:27,35
+I just want a liter of
+the disappearing ink.
+
+
+215
+0:5:27,35 --> 0:5:27,58
+DOUG HODOUS: Yes, right.
+
+
+216
+0:5:27,58 --> 0:5:28,44
+STEVE SPANGLER: This is
+pretty much how the
+
+
+217
+0:5:28,44 --> 0:5:29,12
+lectures went too.
+
+
+218
+0:5:29,12 --> 0:5:32,9
+We went for about 45 minutes
+on stuff that we
+
+
+219
+0:5:32,9 --> 0:5:33,69
+really didn't want..
+
+
+220
+0:5:33,69 --> 0:5:35,51
+And, all of a sudden, bam we've
+got about three minutes
+
+
+221
+0:5:35,51 --> 0:5:35,8
+[INTERPOSING VOICES].
+
+
+222
+0:5:35,8 --> 0:5:37,38
+DOUG HODOUS: I think what we
+should do, opposed to what you
+
+
+223
+0:5:37,38 --> 0:5:37,92
+normally did.
+
+
+224
+0:5:37,92 --> 0:5:39,2
+Let's clean out these
+beakers, so we
+
+
+225
+0:5:39,2 --> 0:5:40,1
+start with clean beakers.
+
+
+226
+0:5:40,1 --> 0:5:40,89
+STEVE SPANGLER: OK,
+Martha, here.
+
+
+227
+0:5:40,89 --> 0:5:42,31
+Why don't you just set these
+off to the side.
+
+
+228
+0:5:42,31 --> 0:5:43,38
+Let's use this, OK?
+
+
+229
+0:5:43,38 --> 0:5:44,67
+Ah, that's a new bea--
+
+
+230
+0:5:44,67 --> 0:5:45,94
+Oh, we're going to do
+it on big time.
+
+
+231
+0:5:45,94 --> 0:5:46,73
+STEVE SPANGLER: Let's do it.
+
+
+232
+0:5:46,73 --> 0:5:47,32
+DOUG HODOUS: OK.
+
+
+233
+0:5:47,32 --> 0:5:50,2
+Now, what we're going to do is
+just take about two grams of
+
+
+234
+0:5:50,2 --> 0:5:51,66
+this would be appropriate.
+
+
+235
+0:5:51,66 --> 0:5:54,13
+And I don't think you really
+have to measure this exact.
+
+
+236
+0:5:54,13 --> 0:5:56,82
+So if you just put a little bit
+at the end of that little
+
+
+237
+0:5:56,82 --> 0:5:57,23
+scooper there.
+
+
+238
+0:5:57,23 --> 0:5:59,22
+Have you got some at the
+end of that scooper?
+
+
+239
+0:5:59,22 --> 0:6:0,43
+STEVE SPANGLER: Yeah,
+absolutely.
+
+
+240
+0:6:0,43 --> 0:6:1,46
+DOUG HODOUS: Oh, perfect.
+
+
+241
+0:6:1,46 --> 0:6:1,68
+Yeah.
+
+
+242
+0:6:1,68 --> 0:6:2,28
+That's about right.
+
+
+243
+0:6:2,28 --> 0:6:4,19
+A little bit at the end
+of the tip of the
+
+
+244
+0:6:4,19 --> 0:6:5,29
+spatula right there.
+
+
+245
+0:6:5,29 --> 0:6:6,2
+STEVE SPANGLER: OK.
+
+
+246
+0:6:6,2 --> 0:6:6,59
+DOUG HODOUS: All right.
+
+
+247
+0:6:6,59 --> 0:6:9,13
+Now, what we need to do is
+add a little ethanol.
+
+
+248
+0:6:9,13 --> 0:6:10,27
+STEVE SPANGLER: OK.
+
+
+249
+0:6:10,27 --> 0:6:13,65
+DOUG HODOUS: And so the ethanol
+will help it dissolve.
+
+
+250
+0:6:13,65 --> 0:6:15,55
+We'll get this milky
+white color.
+
+
+251
+0:6:15,55 --> 0:6:17,61
+And we'll swirl it around trying
+to get it to dissolve
+
+
+252
+0:6:17,61 --> 0:6:19,39
+as much as possible.
+
+
+253
+0:6:19,39 --> 0:6:20,84
+STEVE SPANGLER: And then,
+you dilute the rest
+
+
+254
+0:6:20,84 --> 0:6:21,895
+of that with what?
+
+
+255
+0:6:21,895 --> 0:6:24,0
+DOUG HODOUS: Ah, We'll dilute it
+with water, and then we're
+
+
+256
+0:6:24,0 --> 0:6:25,52
+going to add a little bit
+of sodium hydroxide.
+
+
+257
+0:6:25,52 --> 0:6:26,33
+STEVE SPANGLER: Got it.
+
+
+258
+0:6:26,33 --> 0:6:27,46
+DOUG HODOUS: We're going
+to make it basic.
+
+
+259
+0:6:27,46 --> 0:6:29,95
+And the basic color is
+going to be blue.
+
+
+260
+0:6:29,95 --> 0:6:31,275
+STEVE SPANGLER: All right, so
+let's add some of the water.
+
+
+261
+0:6:31,275 --> 0:6:32,993
+DOUG HODOUS: OK,
+let's do that.
+
+
+262
+0:6:32,993 --> 0:6:36,22
+
+
+
+263
+0:6:36,22 --> 0:6:37,98
+STEVE SPANGLER: I see what you
+say, I mean about it being
+
+
+264
+0:6:37,98 --> 0:6:38,73
+that milky white.
+
+
+265
+0:6:38,73 --> 0:6:40,55
+But nobody's going to see it,
+because it's finally going to
+
+
+266
+0:6:40,55 --> 0:6:41,57
+turn blue, right?
+
+
+267
+0:6:41,57 --> 0:6:42,5
+DOUG HODOUS: Right.
+
+
+268
+0:6:42,5 --> 0:6:42,81
+STEVE SPANGLER: OK.
+
+
+269
+0:6:42,81 --> 0:6:44,3
+DOUG HODOUS: OK, now we're just
+going to add a little bit
+
+
+270
+0:6:44,3 --> 0:6:45,29
+of sodium hydroxide.
+
+
+271
+0:6:45,29 --> 0:6:46,92
+That's going to turn it basic.
+
+
+272
+0:6:46,92 --> 0:6:48,6
+STEVE SPANGLER: You don't
+want too much.
+
+
+273
+0:6:48,6 --> 0:6:48,62
+DOUG HODOUS: No, no, no.
+
+
+274
+0:6:48,62 --> 0:6:52,0
+This is just a one molar
+solution, dilute solution of
+
+
+275
+0:6:52,0 --> 0:6:53,42
+sodium hydroxide.
+
+
+276
+0:6:53,42 --> 0:6:54,39
+Now it's basic.
+
+
+277
+0:6:54,39 --> 0:6:55,95
+STEVE SPANGLER: If I remember
+it correctly, we've got to
+
+
+278
+0:6:55,95 --> 0:6:57,75
+play with this a little bit,
+because when we squirt it out
+
+
+279
+0:6:57,75 --> 0:7:0,27
+onto the shirt, you've got to
+see what amount disappears.
+
+
+280
+0:7:0,27 --> 0:7:0,54
+DOUG HODOUS: Absolutely.
+
+
+281
+0:7:0,54 --> 0:7:1,86
+You sort of do a trial.
+
+
+282
+0:7:1,86 --> 0:7:4,26
+And you squirt it out, you
+see how long it lasts.
+
+
+283
+0:7:4,26 --> 0:7:7,72
+You want the blue to last, well,
+maybe 10-20 seconds.
+
+
+284
+0:7:7,72 --> 0:7:8,0
+STEVE SPANGLER: OK.
+
+
+285
+0:7:8,0 --> 0:7:9,22
+So we don't need this
+big solution.
+
+
+286
+0:7:9,22 --> 0:7:11,59
+I'll pour a small amount into
+this beaker, and we're set.
+
+
+287
+0:7:11,59 --> 0:7:14,43
+DOUG HODOUS: Go ahead, let's
+put some of this in.
+
+
+288
+0:7:14,43 --> 0:7:16,23
+All right, so now
+this is here.
+
+
+289
+0:7:16,23 --> 0:7:17,23
+STEVE SPANGLER: Ah,
+it looks great.
+
+
+290
+0:7:17,23 --> 0:7:18,19
+DOUG HODOUS: That's
+a perfect color.
+
+
+291
+0:7:18,19 --> 0:7:18,42
+STEVE SPANGLER: OK.
+
+
+292
+0:7:18,42 --> 0:7:19,783
+DOUG HODOUS: OK, let's
+just look at it, and
+
+
+293
+0:7:19,783 --> 0:7:21,3
+see how long it lasts.
+
+
+294
+0:7:21,3 --> 0:7:22,57
+STEVE SPANGLER: So it's
+changing back.
+
+
+295
+0:7:22,57 --> 0:7:24,74
+We didn't put an acid on it,
+so why is it changing back?
+
+
+296
+0:7:24,74 --> 0:7:26,89
+DOUG HODOUS: Well, that's
+because there's carbon dioxide
+
+
+297
+0:7:26,89 --> 0:7:27,41
+in the air.
+
+
+298
+0:7:27,41 --> 0:7:29,83
+And carbon dioxide and water,
+and there's a lot of water
+
+
+299
+0:7:29,83 --> 0:7:31,8
+here, is slightly acidic.
+
+
+300
+0:7:31,8 --> 0:7:33,35
+In fact, if you'll just
+blow on that.
+
+
+301
+0:7:33,35 --> 0:7:33,832
+STEVE SPANGLER: OK.
+
+
+302
+0:7:33,832 --> 0:7:35,82
+DOUG HODOUS: OK.
+
+
+303
+0:7:35,82 --> 0:7:37,21
+
+
+
+304
+0:7:37,21 --> 0:7:38,97
+STEVE SPANGLER: It will actually
+be a lot easier if
+
+
+305
+0:7:38,97 --> 0:7:41,41
+you just spilled hydrochloric
+acid on somebody and it would
+
+
+306
+0:7:41,41 --> 0:7:42,597
+change back really fast,
+but I guess that's
+
+
+307
+0:7:42,597 --> 0:7:42,72
+not what you want.
+
+
+308
+0:7:42,72 --> 0:7:44,9
+DOUG HODOUS: But that's going
+to ruin the shirt, isn't it?
+
+
+309
+0:7:44,9 --> 0:7:46,28
+STEVE SPANGLER: But this, now on
+somebody would look really
+
+
+310
+0:7:46,28 --> 0:7:47,8
+good, right?
+
+
+311
+0:7:47,8 --> 0:7:47,91
+DOUG HODOUS: No.
+
+
+312
+0:7:47,91 --> 0:7:48,8
+That would not look very good.
+
+
+313
+0:7:48,8 --> 0:7:49,44
+STEVE SPANGLER: No,
+not like this.
+
+
+314
+0:7:49,44 --> 0:7:49,92
+But this.
+
+
+315
+0:7:49,92 --> 0:7:51,16
+It's not disappearing
+too fast.
+
+
+316
+0:7:51,16 --> 0:7:51,56
+So for a joke.
+
+
+317
+0:7:51,56 --> 0:7:53,23
+DOUG HODOUS: Oh, I'd say that's
+just perfect, because
+
+
+318
+0:7:53,23 --> 0:7:55,13
+then they get a little concerned
+about it, like is
+
+
+319
+0:7:55,13 --> 0:7:56,42
+this really going to go away.
+
+
+320
+0:7:56,42 --> 0:7:57,92
+STEVE SPANGLER: So,
+like, look, see?
+
+
+321
+0:7:57,92 --> 0:7:59,52
+See your little lab
+coat is working.
+
+
+322
+0:7:59,52 --> 0:8:0,91
+How awesome is that?
+
+
+323
+0:8:0,91 --> 0:8:1,85
+DOUG HODOUS: Well
+try over here.
+
+
+324
+0:8:1,85 --> 0:8:2,31
+STEVE SPANGLER: There you go.
+
+
+325
+0:8:2,31 --> 0:8:3,9
+Isn't that nice?
+
+
+326
+0:8:3,9 --> 0:8:4,0
+DOUG HODOUS: Try and stay
+away from my skin,
+
+
+327
+0:8:4,0 --> 0:8:5,38
+though, would you, Ace?
+
+
+328
+0:8:5,38 --> 0:8:6,26
+STEVE SPANGLER: See, this is--
+
+
+329
+0:8:6,26 --> 0:8:8,1
+DOUG HODOUS: I think we got
+enough, I get the idea.
+
+
+330
+0:8:8,1 --> 0:8:10,2
+STEVE SPANGLER: So if you just
+had a source of carbon
+
+
+331
+0:8:10,2 --> 0:8:12,37
+dioxide, then you could actually
+make this change
+
+
+332
+0:8:12,37 --> 0:8:13,15
+back, is that right?
+
+
+333
+0:8:13,15 --> 0:8:15,72
+DOUG HODOUS: I could get the
+other fellas here, but I don't
+
+
+334
+0:8:15,72 --> 0:8:16,82
+believe they can breathe
+strong enough.
+
+
+335
+0:8:16,82 --> 0:8:17,34
+STEVE SPANGLER: Never guess what
+I found, which I thought
+
+
+336
+0:8:17,34 --> 0:8:18,45
+was absolutely perfect.
+
+
+337
+0:8:18,45 --> 0:8:18,82
+DOUG HODOUS: What?
+
+
+338
+0:8:18,82 --> 0:8:20,7
+They don't sell carbon
+dioxide.
+
+
+339
+0:8:20,7 --> 0:8:23,26
+
+
+
+340
+0:8:23,26 --> 0:8:26,38
+STEVE SPANGLER: Now, this being
+carbon dioxide, not only
+
+
+341
+0:8:26,38 --> 0:8:28,51
+freezes your skin and
+makes you slightly
+
+
+342
+0:8:28,51 --> 0:8:30,27
+static electric charged.
+
+
+343
+0:8:30,27 --> 0:8:32,702
+Look, it's clearing off.
+
+
+344
+0:8:32,702 --> 0:8:34,47
+DOUG HODOUS: But
+I'm still wet.
+
+
+345
+0:8:34,47 --> 0:8:36,55
+STEVE SPANGLER: I know, you--
+
+
+346
+0:8:36,55 --> 0:8:37,64
+Turn around, Ace.
+
+
+347
+0:8:37,64 --> 0:8:40,32
+Turn around.
+
+
+348
+0:8:40,32 --> 0:8:41,96
+DOUG HODOUS: How about a little
+respect here for an
+
+
+349
+0:8:41,96 --> 0:8:42,63
+older person?
+
+
+350
+0:8:42,63 --> 0:8:42,929
+STEVE SPANGLER: Look
+at this, wow.
+
+
+351
+0:8:42,929 --> 0:8:46,89
+There's a static charge on you,
+and, ah, look, all of the
+
+
+352
+0:8:46,89 --> 0:8:47,96
+ink has gone away.
+
+
+353
+0:8:47,96 --> 0:8:48,23
+DOUG HODOUS: Yeah
+
+
+354
+0:8:48,23 --> 0:8:49,846
+STEVE SPANGLER: Aside from this
+shirt, that I think you
+
+
+355
+0:8:49,846 --> 0:8:50,84
+still had when I was
+in high school.
+
+
+356
+0:8:50,84 --> 0:8:51,44
+DOUG HODOUS: Hey, you've got
+a dry shirt with you?
+
+
+357
+0:8:51,44 --> 0:8:52,7
+Hey, take off that shirt,
+let's exchange
+
+
+358
+0:8:52,7 --> 0:8:53,83
+here a little bit.
+
+
+359
+0:8:53,83 --> 0:8:55,78
+STEVE SPANGLER: We have
+everything that we need for
+
+
+360
+0:8:55,78 --> 0:8:56,73
+disappearing ink.
+
+
+361
+0:8:56,73 --> 0:8:58,71
+Simple acid-based reaction.
+
+
+362
+0:8:58,71 --> 0:8:59,78
+This is the extreme.
+
+
+363
+0:8:59,78 --> 0:9:1,4
+I simply would just let
+it sit out there.
+
+
+364
+0:9:1,4 --> 0:9:2,15
+And it would disappear.
+
+
+365
+0:9:2,15 --> 0:9:3,26
+DOUG HODOUS: And I think
+we can see already.
+
+
+366
+0:9:3,26 --> 0:9:3,99
+This has disappeared.
+
+
+367
+0:9:3,99 --> 0:9:4,97
+STEVE SPANGLER: But this
+would scare somebody.
+
+
+368
+0:9:4,97 --> 0:9:6,367
+They would really think
+that maybe you
+
+
+369
+0:9:6,367 --> 0:9:7,16
+got some ink on them.
+
+
+370
+0:9:7,16 --> 0:9:8,32
+And that would be great.
+
+
+371
+0:9:8,32 --> 0:9:9,1
+DOUG HODOUS: Oh, I had a
+friend I did this on.
+
+
+372
+0:9:9,1 --> 0:9:10,905
+He had a suit and tie on, and
+I put that on his new white
+
+
+373
+0:9:10,905 --> 0:9:11,49
+shirt and--
+
+
+374
+0:9:11,49 --> 0:9:12,45
+STEVE SPANGLER: Yeah,
+that's great.
+
+
+375
+0:9:12,45 --> 0:9:14,5
+Doug Hodous from Heritage
+High School, my
+
+
+376
+0:9:14,5 --> 0:9:15,17
+first chemistry teacher.
+
+
+377
+0:9:15,17 --> 0:9:16,6
+You never forget
+the great ones.
+
+
+378
+0:9:16,6 --> 0:9:19,9
+And I'm doing what I'm doing
+today because of this man
+
+
+379
+0:9:19,9 --> 0:9:19,7
+right here.
+
+
+380
+0:9:19,7 --> 0:9:20,44
+And that's it.
+
+
+381
+0:9:20,44 --> 0:9:23,33
+That's all we're doing--
+
+
+382
+0:9:23,33 --> 0:9:25,39
+Well, the disappearing ink that
+Doug Hodous helped us
+
+
+383
+0:9:25,39 --> 0:9:27,95
+make is very, very cool, But
+no matter how cool it is--
+
+
+384
+0:9:27,95 --> 0:9:29,5
+I've put some in
+this pipette--
+
+
+385
+0:9:29,5 --> 0:9:32,5
+it's just impossible, even
+if loaded with a pen,
+
+
+386
+0:9:32,5 --> 0:9:35,896
+to write with it.
+
+
+387
+0:9:35,896 --> 0:9:36,95
+I just--
+
+
+388
+0:9:36,95 --> 0:9:37,88
+it's nothing.
+
+
+389
+0:9:37,88 --> 0:9:40,5
+So it's fun to squirt on people,
+but it's really hard
+
+
+390
+0:9:40,5 --> 0:9:40,83
+to write with.
+
+
+391
+0:9:40,83 --> 0:9:42,97
+So I want you to have something
+that you could write
+
+
+392
+0:9:42,97 --> 0:9:45,33
+with that's our kind of a modern
+day disappearing ink,
+
+
+393
+0:9:45,33 --> 0:9:46,68
+that's not at a joke shop.
+
+
+394
+0:9:46,68 --> 0:9:48,35
+And I've come to find
+out there really is.
+
+
+395
+0:9:48,35 --> 0:9:49,37
+Take a look at this.
+
+
+396
+0:9:49,37 --> 0:9:51,41
+It's a pilot friction pen.
+
+
+397
+0:9:51,41 --> 0:9:53,24
+There are pens that you
+can find at a local
+
+
+398
+0:9:53,24 --> 0:9:55,4
+office supply place.
+
+
+399
+0:9:55,4 --> 0:9:57,21
+And they're very, very cool
+because they are the kind of
+
+
+400
+0:9:57,21 --> 0:9:59,13
+pen that will erase.
+
+
+401
+0:9:59,13 --> 0:10:0,27
+The ink erases.
+
+
+402
+0:10:0,27 --> 0:10:2,71
+So, for example, here's
+the pen, and you
+
+
+403
+0:10:2,71 --> 0:10:8,5
+write hello, all right?
+
+
+404
+0:10:8,5 --> 0:10:12,62
+So now, the ink actually is a
+thermochromatic ink, which
+
+
+405
+0:10:12,62 --> 0:10:14,73
+means that it changes
+with temperature.
+
+
+406
+0:10:14,73 --> 0:10:16,11
+It changes color with
+temperature.
+
+
+407
+0:10:16,11 --> 0:10:20,675
+So watch, I can use the eraser
+here and erase the ink.
+
+
+408
+0:10:20,675 --> 0:10:22,88
+What I'm actually doing is
+heating up the paper.
+
+
+409
+0:10:22,88 --> 0:10:24,61
+Just like you take your hands,
+and you rub your hands
+
+
+410
+0:10:24,61 --> 0:10:26,13
+together and you create
+friction.
+
+
+411
+0:10:26,13 --> 0:10:30,34
+So the friction pen works just
+by that by creating friction.
+
+
+412
+0:10:30,34 --> 0:10:33,305
+And so I can simply
+erase the ink.
+
+
+413
+0:10:33,305 --> 0:10:36,5
+Well, It's great to be able to
+erase the ink like this.
+
+
+414
+0:10:36,5 --> 0:10:39,3
+What would happen if you
+used something else
+
+
+415
+0:10:39,3 --> 0:10:40,6
+to erase the ink.
+
+
+416
+0:10:40,6 --> 0:10:41,33
+I don't think the manufacturers
+
+
+417
+0:10:41,33 --> 0:10:44,51
+though about this.
+
+
+418
+0:10:44,51 --> 0:10:46,3
+Say, I owe you some money.
+
+
+419
+0:10:46,3 --> 0:10:48,12
+And I simply write a
+little IOU here.
+
+
+420
+0:10:48,12 --> 0:10:51,79
+I owe you a $100, and I
+sign my name to it.
+
+
+421
+0:10:51,79 --> 0:10:55,32
+That could be pretty dangerous,
+because the IOU
+
+
+422
+0:10:55,32 --> 0:10:58,56
+might not really be the greatest
+IOU in the world.
+
+
+423
+0:10:58,56 --> 0:10:59,6
+What if it gets hot?
+
+
+424
+0:10:59,6 --> 0:11:0,74
+Here watch this.
+
+
+425
+0:11:0,74 --> 0:11:3,255
+Here's our flame.
+
+
+426
+0:11:3,255 --> 0:11:4,58
+Watch.
+
+
+427
+0:11:4,58 --> 0:11:5,756
+Like this.
+
+
+428
+0:11:5,756 --> 0:11:9,54
+The IOU seem to vanish.
+
+
+429
+0:11:9,54 --> 0:11:11,74
+But I don't think it's
+gone for good.
+
+
+430
+0:11:11,74 --> 0:11:15,92
+In fact, I can't get
+it back this way.
+
+
+431
+0:11:15,92 --> 0:11:18,54
+What if I got it cold enough,
+would it come back?
+
+
+432
+0:11:18,54 --> 0:11:19,79
+Let's got to the refrigerator.
+
+
+433
+0:11:19,79 --> 0:11:23,69
+
+
+
+434
+0:11:23,69 --> 0:11:25,38
+Let's throw it in the freezer
+and see what happens.
+
+
+435
+0:11:25,38 --> 0:11:28,242
+
+
+
+436
+0:11:28,242 --> 0:11:37,16
+[MUSIC PLAYING]
+
+
+437
+0:11:37,16 --> 0:11:40,196
+Look, the message is back.
+
+
+438
+0:11:40,196 --> 0:11:42,56
+And If you don't want to owe
+the money anymore, you just
+
+
+439
+0:11:42,56 --> 0:11:43,78
+simply heat it back up again.
+
+
+440
+0:11:43,78 --> 0:11:44,55
+Watch.
+
+
+441
+0:11:44,55 --> 0:11:46,46
+And it's gone.
+
+
+442
+0:11:46,46 --> 0:11:49,57
+So, unless you read the contract
+in a freezer, I don't
+
+
+443
+0:11:49,57 --> 0:11:51,81
+owe the hundred bucks.
+
+
+444
+0:11:51,81 --> 0:11:54,2
+So here's a challenge
+that's kind of fun.
+
+
+445
+0:11:54,2 --> 0:11:56,72
+You can write a secret message
+If you want to.
+
+
+446
+0:11:56,72 --> 0:11:59,97
+And you could use a combination
+of a regular pen
+
+
+447
+0:11:59,97 --> 0:12:1,97
+that won't vanish, and
+of course, this
+
+
+448
+0:12:1,97 --> 0:12:3,26
+friction pen from Pilot.
+
+
+449
+0:12:3,26 --> 0:12:3,92
+OK.
+
+
+450
+0:12:3,92 --> 0:12:6,8
+So, let's just say, to make
+it easy, you're just doing
+
+
+451
+0:12:6,8 --> 0:12:7,79
+numbers real fast.
+
+
+452
+0:12:7,79 --> 0:12:9,9
+So let's write numbers
+the way that a
+
+
+453
+0:12:9,9 --> 0:12:11,25
+calculator would have numbers.
+
+
+454
+0:12:11,25 --> 0:12:14,17
+Pretty easy now to
+change these.
+
+
+455
+0:12:14,17 --> 0:12:16,39
+This was the permanent pen.
+
+
+456
+0:12:16,39 --> 0:12:18,47
+This is the friction pen.
+
+
+457
+0:12:18,47 --> 0:12:19,515
+So, here, let's change
+this up.
+
+
+458
+0:12:19,515 --> 0:12:22,84
+Let's make this one
+a four right here.
+
+
+459
+0:12:22,84 --> 0:12:24,865
+This is our secret message.
+
+
+460
+0:12:24,865 --> 0:12:26,875
+Let see what happen when
+we heat it up.
+
+
+461
+0:12:26,875 --> 0:12:29,785
+
+
+
+462
+0:12:29,785 --> 0:12:31,16
+Here you go.
+
+
+463
+0:12:31,16 --> 0:12:33,57
+One through ten.
+
+
+464
+0:12:33,57 --> 0:12:34,91
+My video guy came
+up with this.
+
+
+465
+0:12:34,91 --> 0:12:36,64
+He wanted me to look
+at this message.
+
+
+466
+0:12:36,64 --> 0:12:38,46
+This is his secret message.
+
+
+467
+0:12:38,46 --> 0:12:41,21
+Watch out, the guy shooting
+potatoes is Steve Spangler,
+
+
+468
+0:12:41,21 --> 0:12:44,8
+who wants to be a special
+effects artist in Hollywood.
+
+
+469
+0:12:44,8 --> 0:12:46,48
+This is the secret message.
+
+
+470
+0:12:46,48 --> 0:12:49,32
+Let's see what It really says.
+
+
+471
+0:12:49,32 --> 0:12:51,35
+Watch.
+
+
+472
+0:12:51,35 --> 0:12:53,67
+Watch the.
+
+
+473
+0:12:53,67 --> 0:12:55,87
+Watch the.
+
+
+474
+0:12:55,87 --> 0:12:58,3
+Watch the Spangler effect!
+
+
+475
+0:12:58,3 --> 0:12:59,37
+So here's what I
+want you to do.
+
+
+476
+0:12:59,37 --> 0:13:1,92
+Go get yourself some of these
+friction pens and come up with
+
+
+477
+0:13:1,92 --> 0:13:3,1
+your own secret message.
+
+
+478
+0:13:3,1 --> 0:13:4,88
+Some cool thing that appears.
+
+
+479
+0:13:4,88 --> 0:13:8,22
+And post it as a video response
+here on this page.
+
+
+480
+0:13:8,22 --> 0:13:9,742
+The Spangler effect.
+
+
+481
+0:13:9,742 --> 0:13:10,15
+All right.
+
+
+482
+0:13:10,15 --> 0:13:13,31
+Let's take everything that we
+learned, and turn this into a
+
+
+483
+0:13:13,31 --> 0:13:15,76
+segment with the meteorologist
+Becky Ditchfield.
+
+
+484
+0:13:15,76 --> 0:13:17,83
+She's very, very gullible.
+
+
+485
+0:13:17,83 --> 0:13:20,17
+I could probably convince her
+that this disappearing ink is
+
+
+486
+0:13:20,17 --> 0:13:22,4
+actually a biological stain.
+
+
+487
+0:13:22,4 --> 0:13:24,195
+And maybe we can have
+a little surprise
+
+
+488
+0:13:24,195 --> 0:13:25,61
+ending for her as well.
+
+
+489
+0:13:25,61 --> 0:13:30,12
+
+
+
+490
+0:13:30,12 --> 0:13:32,32
+BECKY DITCHFIELD: So we're going
+in for a Steve Spangler
+
+
+491
+0:13:32,32 --> 0:13:33,31
+science experiment.
+
+
+492
+0:13:33,31 --> 0:13:35,77
+And, unlike a lot of other
+times, I have no idea what's
+
+
+493
+0:13:35,77 --> 0:13:36,15
+going to happen.
+
+
+494
+0:13:36,15 --> 0:13:38,9
+So, this is going to be
+interesting today.
+
+
+495
+0:13:38,9 --> 0:13:40,31
+STEVE SPANGLER: So today we're
+talking chemistry.
+
+
+496
+0:13:40,31 --> 0:13:43,13
+And this is a biological
+stain.
+
+
+497
+0:13:43,13 --> 0:13:43,94
+OK?
+
+
+498
+0:13:43,94 --> 0:13:44,78
+BECKY DITCHFIELD: What
+does that mean?
+
+
+499
+0:13:44,78 --> 0:13:46,1
+STEVE SPANGLER: It's not.
+
+
+500
+0:13:46,1 --> 0:13:46,923
+This is an ink.
+
+
+501
+0:13:46,923 --> 0:13:47,63
+BECKY DITCHFIELD: Oh, OK.
+
+
+502
+0:13:47,63 --> 0:13:47,91
+STEVE SPANGLER: So, see--
+
+
+503
+0:13:47,91 --> 0:13:48,35
+Yeah.
+
+
+504
+0:13:48,35 --> 0:13:49,445
+So here is, see the
+ink that's here?
+
+
+505
+0:13:49,445 --> 0:13:49,91
+BECKY DITCHFIELD: Yeah.
+
+
+506
+0:13:49,91 --> 0:13:51,16
+STEVE SPANGLER: It's this
+blue little ink.
+
+
+507
+0:13:51,16 --> 0:13:51,42
+BECKY DITCHFIELD: Right.
+
+
+508
+0:13:51,42 --> 0:13:52,44
+STEVE SPANGLER: It's hard
+to see it here,
+
+
+509
+0:13:52,44 --> 0:13:53,47
+so here watch this.
+
+
+510
+0:13:53,47 --> 0:13:54,34
+If I just--
+
+
+511
+0:13:54,34 --> 0:13:54,71
+See?
+
+
+512
+0:13:54,71 --> 0:13:55,6
+BECKY DITCHFIELD: Are you?
+
+
+513
+0:13:55,6 --> 0:13:55,65
+Ah There you go.
+
+
+514
+0:13:55,65 --> 0:13:56,98
+Isn't that beautiful?
+
+
+515
+0:13:56,98 --> 0:13:58,38
+So this is-- isn't that great?
+
+
+516
+0:13:58,38 --> 0:14:0,4
+Ah, this is gorgeous.
+
+
+517
+0:14:0,4 --> 0:14:1,88
+It doesn't really leak
+through too much.
+
+
+518
+0:14:1,88 --> 0:14:3,45
+But it's-- isn't this great?
+
+
+519
+0:14:3,45 --> 0:14:4,13
+This is--
+
+
+520
+0:14:4,13 --> 0:14:5,28
+BECKY DITCHFIELD: Oh, no.
+
+
+521
+0:14:5,28 --> 0:14:5,35
+STEVE SPANGLER: It's fine.
+
+
+522
+0:14:5,35 --> 0:14:6,1
+It's just a stronger--
+
+
+523
+0:14:6,1 --> 0:14:7,78
+BECKY DITCHFIELD: Oh, my God.
+
+
+524
+0:14:7,78 --> 0:14:10,31
+STEVE SPANGLER: See, this is
+a stronger source of--
+
+
+525
+0:14:10,31 --> 0:14:11,54
+see how fast--
+
+
+526
+0:14:11,54 --> 0:14:13,93
+see how it changes back
+just like this?
+
+
+527
+0:14:13,93 --> 0:14:15,22
+BECKY DITCHFIELD: Yeah,
+that's really--
+
+
+528
+0:14:15,22 --> 0:14:15,97
+STEVE SPANGLER: See,
+it's changing back.
+
+
+529
+0:14:15,97 --> 0:14:16,99
+BECKY DITCHFIELD: Wow.
+
+
+530
+0:14:16,99 --> 0:14:19,97
+STEVE SPANGLER: Yeah, Let's
+see on your back.
+
+
+531
+0:14:19,97 --> 0:14:20,8
+You are--
+
+
+532
+0:14:20,8 --> 0:14:21,315
+it's fine now.
+
+
+533
+0:14:21,315 --> 0:14:22,5
+BECKY DITCHFIELD: No.
+
+
+534
+0:14:22,5 --> 0:14:23,465
+STEVE SPANGLER: See,
+isn't that great?
+
+
+535
+0:14:23,465 --> 0:14:25,825
+BECKY DITCHFIELD: Ah, now I know
+why you had that covered
+
+
+536
+0:14:25,825 --> 0:14:27,3
+up, Steve Spangler.
+
+
+537
+0:14:27,3 --> 0:14:29,44
+STEVE SPANGLER: This is another
+source-- and I just
+
+
+538
+0:14:29,44 --> 0:14:31,96
+want people to know that this
+is carbon dioxide fire
+
+
+539
+0:14:31,96 --> 0:14:32,4
+extinguisher.
+
+
+540
+0:14:32,4 --> 0:14:35,27
+And look, you are completely
+back to normal, minus just a
+
+
+541
+0:14:35,27 --> 0:14:36,32
+small amount of snow.
+
+
+542
+0:14:36,32 --> 0:14:37,4
+So you're fine.
+
+
+543
+0:14:37,4 --> 0:14:37,97
+You're fine.
+
+
+544
+0:14:37,97 --> 0:14:38,437
+BECKY DITCHFIELD: Uh-huh.
+
+
+545
+0:14:38,437 --> 0:14:40,305
+STEVE SPANGLER: See,
+isn't that great?
+
+
+546
+0:14:40,305 --> 0:14:41,706
+This is why I use Becky.
+
+
+547
+0:14:41,706 --> 0:14:42,84
+Here she is fantastic.
+
+
+548
+0:14:42,84 --> 0:14:43,38
+But look.
+
+
+549
+0:14:43,38 --> 0:14:44,84
+This is what most people
+don't realize.
+
+
+550
+0:14:44,84 --> 0:14:48,2
+Fire extinguishers will produce
+a small amount of that
+
+
+551
+0:14:48,2 --> 0:14:48,475
+condensation.
+
+
+552
+0:14:48,475 --> 0:14:50,43
+And so she is kind of cold.
+
+
+553
+0:14:50,43 --> 0:14:51,59
+BECKY DITCHFIELD: Freezing.
+
+
+554
+0:14:51,59 --> 0:14:52,27
+I thought--
+
+
+555
+0:14:52,27 --> 0:14:53,1
+STEVE SPANGLER: See
+how that works?
+
+
+556
+0:14:53,1 --> 0:14:55,23
+BECKY DITCHFIELD: I'm afraid
+to touch this coat.
+
+
+557
+0:14:55,23 --> 0:14:55,42
+STEVE SPANGLER: You're OK.
+
+
+558
+0:14:55,42 --> 0:14:57,79
+Take off your little
+microphone.
+
+
+559
+0:14:57,79 --> 0:14:58,61
+BECKY DITCHFIELD: Here we go.
+
+
+560
+0:14:58,61 --> 0:14:58,87
+STEVE SPANGLER: Look at this.
+
+
+561
+0:14:58,87 --> 0:14:59,25
+Look at this.
+
+
+562
+0:14:59,25 --> 0:15:0,82
+She is perfectly fine.
+
+
+563
+0:15:0,82 --> 0:15:1,32
+BECKY DITCHFIELD: Ahh.
+
+
+564
+0:15:1,32 --> 0:15:3,565
+STEVE SPANGLER: Minus the small
+amount of coldness, see
+
+
+565
+0:15:3,565 --> 0:15:5,9
+she's fine.
+
+
+566
+0:15:5,9 --> 0:15:6,41
+She's not working
+with me anymore.
+
+
+567
+0:15:6,41 --> 0:15:7,48
+BECKY DITCHFIELD: Yeah,
+you're right.
+
+
+568
+0:15:7,48 --> 0:15:8,72
+STEVE SPANGLER: She's
+fine, she's fine.
+
+
+569
+0:15:8,72 --> 0:15:10,62
+Well, if you've enjoyed this
+week's episode, go ahead and
+
+
+570
+0:15:10,62 --> 0:15:12,207
+click the Subscribe
+button here.
+
+
+571
+0:15:12,207 --> 0:15:14,335
+You'll be the first to know
+when a brand new episode
+
+
+572
+0:15:14,335 --> 0:15:16,7
+appears each week.
+
+
+573
+0:15:16,7 --> 0:15:18,45
+This button right here will
+show you some more cool
+
+
+574
+0:15:18,45 --> 0:15:20,92
+science experiments that we
+do outside of this show.
+
+
+575
+0:15:20,92 --> 0:15:22,78
+This button right here will
+take you to last week's
+
+
+576
+0:15:22,78 --> 0:15:24,1
+episode, just in case
+you missed it.
+
+
+577
+0:15:24,1 --> 0:15:26,33
+And, if you want to see the
+stuff that you shouldn't see--
+
+
+578
+0:15:26,33 --> 0:15:29,17
+that's the bloopers and the
+outtakes-- just click this one
+
+
+579
+0:15:29,17 --> 0:15:29,83
+right over here.
+
+
+580
+0:15:29,83 --> 0:15:32,53
+If you want to hear me stop
+talking through the magic of
+
+
+581
+0:15:32,53 --> 0:15:34,63
+television, just click this
+button right here.
+
+
+582
+0:15:34,63 --> 0:15:35,83
+Go ahead, click it,
+and I'll stop.
+
+
+583
+0:15:35,83 --> 0:17:35,83
+[MUSIC PLAYING]
+
+

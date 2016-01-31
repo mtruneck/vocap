@@ -1,0 +1,5157 @@
+1
+0:0:16,528 --> 0:0:18,704
+Excelsior, this is
+the shuttlecraft Sturgeon.
+
+
+2
+0:0:18,704 --> 0:0:20,236
+Requesting docking coordinates.
+
+
+3
+0:0:20,236 --> 0:0:26,419
+Acknowledged, Sturgeon,
+you are cleared for docking.
+
+
+4
+0:0:26,419 --> 0:0:29,315
+Don't look so worried.
+
+
+5
+0:0:29,315 --> 0:0:32,69
+Say that one more
+time, and I swear
+
+
+6
+0:0:32,69 --> 0:0:35,34
+I'll bust you back to yeoman.
+
+
+7
+0:0:35,34 --> 0:0:36,633
+What's on today's schedule?
+
+
+8
+0:0:36,633 --> 0:0:38,134
+I've cleared it.
+
+
+9
+0:0:38,134 --> 0:0:40,7
+You'll have all the time
+in the world.
+
+
+10
+0:0:40,7 --> 0:0:42,8
+Docking is complete, Excelsior.
+
+
+11
+0:0:42,8 --> 0:0:44,1
+Copy that, Sturgeon.
+
+
+12
+0:0:44,1 --> 0:0:45,8
+Welcome aboard.
+
+
+13
+0:0:45,8 --> 0:0:57,734
+All the time in the world...
+
+
+14
+0:0:57,734 --> 0:1:1,734
+Tracking hydrogen-antihydrogen
+reaction signatures, Captain.
+
+
+15
+0:1:1,734 --> 0:1:6,734
+There's no doubt
+they're venting antimatter.
+
+
+16
+0:1:6,734 --> 0:1:10,267
+Maximum resolution.
+
+
+17
+0:1:10,267 --> 0:1:11,734
+Range, Mr. Sulu?
+
+
+18
+0:1:11,734 --> 0:1:14,67
+29 million kilometers, Captain.
+
+
+19
+0:1:14,67 --> 0:1:16,134
+They've drifted well within
+the Romulan Neutral Zone.
+
+
+20
+0:1:16,134 --> 0:1:17,667
+Another distress signal,
+Captain.
+
+
+21
+0:1:17,667 --> 0:1:19,633
+They say they're losing
+life support fast.
+
+
+22
+0:1:19,633 --> 0:1:22,167
+Mr. Sulu,
+plot an intercept course.
+
+
+23
+0:1:22,167 --> 0:1:26,167
+I want us in and out
+before anybody's the wiser.
+
+
+24
+0:1:26,167 --> 0:1:29,134
+Ever taken the
+Kobayashi Maru test?
+
+
+25
+0:1:29,134 --> 0:1:31,667
+Course plotted and
+laid in, Captain.
+
+
+26
+0:1:31,667 --> 0:1:32,867
+Full ahead.
+
+
+27
+0:1:32,867 --> 0:1:38,667
+Aye, sir.
+
+
+28
+0:1:38,667 --> 0:1:43,909
+Entering Romulan
+Neutral Zone.
+
+
+29
+0:1:43,909 --> 0:1:45,234
+We are now in violation
+of treaty.
+
+
+30
+0:1:45,234 --> 0:1:47,34
+Then let's not let any grass...
+
+
+31
+0:1:47,34 --> 0:1:48,667
+Captain, warp field
+signatures approaching.
+
+
+32
+0:1:48,667 --> 0:1:49,8
+Dropping to sublight.
+
+
+33
+0:1:49,8 --> 0:1:53,201
+On screen.
+
+
+34
+0:1:53,201 --> 0:1:54,734
+Romulan birds-of-prey,
+
+
+35
+0:1:54,734 --> 0:2:3,867
+Imperator class.
+
+
+36
+0:2:3,867 --> 0:2:6,734
+Detecting a build-up of
+hyperphasic energy, Captain,
+
+
+37
+0:2:6,734 --> 0:2:15,167
+in a triangulated pattern.
+
+
+38
+0:2:15,167 --> 0:2:30,334
+All decks-- Red Alert!
+
+
+39
+0:2:30,334 --> 0:2:32,434
+Space--
+
+
+40
+0:2:32,434 --> 0:2:39,3
+the final frontier.
+
+
+41
+0:2:39,3 --> 0:2:43,67
+These are the new voyages
+of the Starship Enterprise,
+
+
+42
+0:2:43,67 --> 0:2:47,234
+its five-year mission
+to explore strange new worlds,
+
+
+43
+0:2:47,234 --> 0:2:51,133
+to seek out new life
+and new civilizations,
+
+
+44
+0:2:51,133 --> 0:3:34,2
+to boldly go where
+no man has gone before.
+
+
+45
+0:3:34,2 --> 0:3:36,234
+Spock!
+What the hell just happened?
+
+
+46
+0:3:36,234 --> 0:3:38,1
+The merchant vessel has been...
+
+
+47
+0:3:38,1 --> 0:3:40,534
+annihilated, Captain.
+
+
+48
+0:3:40,534 --> 0:3:42,67
+There is nothing left.
+
+
+49
+0:3:42,67 --> 0:3:44,133
+Its very atoms
+have been ripped apart.
+
+
+50
+0:3:44,133 --> 0:3:45,367
+Get us out of here, Sulu.
+
+
+51
+0:3:45,367 --> 0:3:52,834
+Yes, sir!
+
+
+52
+0:3:52,834 --> 0:3:54,367
+Captain, I'm getting encrypted
+ship-to-ship
+
+
+53
+0:3:54,367 --> 0:3:55,567
+between the Romulan vessels.
+
+
+54
+0:3:55,567 --> 0:3:56,701
+Fortuitously, in a code
+
+
+55
+0:3:56,701 --> 0:4:2,944
+they are unaware
+that we have previously broken.
+
+
+56
+0:4:2,944 --> 0:4:3,534
+As I suspected.
+
+
+57
+0:4:3,534 --> 0:4:6,33
+The merchant vessel was
+destroyed by a new weapon,
+
+
+58
+0:4:6,33 --> 0:4:7,601
+most likely a prototype.
+
+
+59
+0:4:7,601 --> 0:4:8,734
+Captain...
+
+
+60
+0:4:8,734 --> 0:4:19,3
+they've spotted us.
+
+
+61
+0:4:19,3 --> 0:4:21,601
+They're building energy again.
+We have only seconds before...
+
+
+62
+0:4:21,601 --> 0:4:24,3
+Chekov, target those
+vessels and fire!
+
+
+63
+0:4:24,3 --> 0:4:47,3
+Targeting... firing phasers.
+
+
+64
+0:4:47,3 --> 0:4:48,501
+Damage report.
+
+
+65
+0:4:48,501 --> 0:4:51,1
+Minimal, Captain-- mostly from
+shifts in our gravity field.
+
+
+66
+0:4:51,1 --> 0:4:52,567
+Analysis, Spock.
+
+
+67
+0:4:52,567 --> 0:4:53,634
+Shields are holding.
+
+
+68
+0:4:53,634 --> 0:4:55,634
+We are safe for the
+moment-- but trapped.
+
+
+69
+0:4:55,634 --> 0:4:57,33
+Trapped.
+
+
+70
+0:4:57,33 --> 0:4:58,1
+How?
+
+
+71
+0:4:58,1 --> 0:5:5,67
+We appear to be caught in
+a hyperdimensional field.
+
+
+72
+0:5:5,67 --> 0:5:9,0
+The field is producing
+gravity waves...
+
+
+73
+0:5:9,0 --> 0:5:10,501
+...ripples in the space-time
+continuum.
+
+
+74
+0:5:10,501 --> 0:5:15,267
+This is a strange definition
+of "safe," Mr. Spock.
+
+
+75
+0:5:15,267 --> 0:5:16,734
+Lieutenant Uhura,
+
+
+76
+0:5:16,734 --> 0:5:19,501
+send out a subspace message
+to the Romulan High Command,
+
+
+77
+0:5:19,501 --> 0:5:21,634
+in their encrypted code:
+
+
+78
+0:5:21,634 --> 0:5:23,67
+Weapons test a failure.
+
+
+79
+0:5:23,67 --> 0:5:25,634
+Our own ships destroyed.
+
+
+80
+0:5:25,634 --> 0:5:28,601
+Core breach... imminent.
+
+
+81
+0:5:28,601 --> 0:5:30,634
+Aye, sir.
+
+
+82
+0:5:30,634 --> 0:5:32,267
+We might at least dissuade them
+
+
+83
+0:5:32,267 --> 0:5:33,734
+from trying it again,
+anytime soon.
+
+
+84
+0:5:33,734 --> 0:5:35,701
+Most logical.
+
+
+85
+0:5:35,701 --> 0:5:37,234
+Thank you, Mr. Spock.
+
+
+86
+0:5:37,234 --> 0:5:40,567
+You, Bones and Scotty
+in conference now.
+
+
+87
+0:5:40,567 --> 0:5:49,434
+Mr. Sulu, you have the Conn.
+
+
+88
+0:5:49,434 --> 0:5:51,234
+Isn't the Kobayashi Maru
+
+
+89
+0:5:51,234 --> 0:5:53,67
+supposed to be
+a "no-win" scenario?
+
+
+90
+0:5:53,67 --> 0:5:58,4
+Let's hope not.
+
+
+91
+0:5:58,4 --> 0:5:59,734
+The field apparently
+
+
+92
+0:5:59,734 --> 0:6:1,467
+creates a quantum disruption
+
+
+93
+0:6:1,467 --> 0:6:4,667
+that negates the strong and
+weak forces binding atoms.
+
+
+94
+0:6:4,667 --> 0:6:8,467
+Anything caught within it
+simply ceases to exist.
+
+
+95
+0:6:8,467 --> 0:6:9,701
+And this is going
+to happen to us?
+
+
+96
+0:6:9,701 --> 0:6:12,133
+At the moment, our shields
+are protecting us.
+
+
+97
+0:6:12,133 --> 0:6:14,334
+But the power drain
+is considerable.
+
+
+98
+0:6:14,334 --> 0:6:17,67
+How much time?
+No more than 20 hours.
+
+
+99
+0:6:17,67 --> 0:6:19,4
+I cannot say for sure, the
+way the levels keep changing.
+
+
+100
+0:6:19,4 --> 0:6:21,234
+And we can't use full warp power
+to escape?
+
+
+101
+0:6:21,234 --> 0:6:23,0
+Ineffective.
+
+
+102
+0:6:23,0 --> 0:6:25,267
+Due to the field,
+we are in the grip of not four,
+
+
+103
+0:6:25,267 --> 0:6:27,33
+but considerably
+more dimensions.
+
+
+104
+0:6:27,33 --> 0:6:28,501
+We would need
+accurate coordinates
+
+
+105
+0:6:28,501 --> 0:6:29,734
+for all of them
+
+
+106
+0:6:29,734 --> 0:6:32,501
+in order to effectively
+extricate ourselves.
+
+
+107
+0:6:32,501 --> 0:6:34,701
+And without the data on how
+the field was generated,
+
+
+108
+0:6:34,701 --> 0:6:37,4
+the computer doesn't stand a
+chance of plotting a course out.
+
+
+109
+0:6:37,4 --> 0:6:40,67
+Is it possible the bird-of-prey
+has the data?
+
+
+110
+0:6:40,67 --> 0:6:42,634
+If the computer banks
+are still intact...
+
+
+111
+0:6:42,634 --> 0:6:44,234
+but we can't access them
+from here.
+
+
+112
+0:6:44,234 --> 0:6:46,601
+And with the field fluctuating
+to hell and back,
+
+
+113
+0:6:46,601 --> 0:6:49,33
+I wouldn't dare trust
+the transporters.
+
+
+114
+0:6:49,33 --> 0:6:50,334
+A shuttlecraft, then.
+
+
+115
+0:6:50,334 --> 0:6:51,501
+Wouldn't it be destroyed?
+
+
+116
+0:6:51,501 --> 0:6:53,234
+I believe we can
+extend the shields out
+
+
+117
+0:6:53,234 --> 0:6:58,767
+far enough to protect it.
+
+
+118
+0:6:58,767 --> 0:6:59,968
+Mr. Sulu.
+
+
+119
+0:6:59,968 --> 0:7:1,4
+Aye, sir?
+
+
+120
+0:7:1,4 --> 0:7:3,33
+We're going to need
+some fancy piloting
+
+
+121
+0:7:3,33 --> 0:7:4,701
+if we're going to get
+out of this mess,
+
+
+122
+0:7:4,701 --> 0:7:8,33
+with a few extra-dimensional
+coordinates thrown in.
+
+
+123
+0:7:8,33 --> 0:7:9,534
+Are you up for it?
+
+
+124
+0:7:9,534 --> 0:7:12,767
+When do I start?
+
+
+125
+0:7:12,767 --> 0:7:15,634
+Captain's Log,
+Stardate 6283.6.
+
+
+126
+0:7:15,634 --> 0:7:18,1
+The Enterprise is caught
+like a fly in amber,
+
+
+127
+0:7:18,1 --> 0:7:20,267
+in a tangle of multiple
+dimensions.
+
+
+128
+0:7:20,267 --> 0:7:22,567
+Our only hope of survival lies
+in obtaining data
+
+
+129
+0:7:22,567 --> 0:7:24,467
+from the remaining
+Romulan bird-of-prey
+
+
+130
+0:7:24,467 --> 0:7:27,634
+that might help us chart
+a course back to normal space.
+
+
+131
+0:7:27,634 --> 0:7:29,334
+I have detailed Lieutenant Sulu
+
+
+132
+0:7:29,334 --> 0:7:31,701
+to pilot a shuttlecraft
+to the derelict ship,
+
+
+133
+0:7:31,701 --> 0:7:35,467
+accompanied by an expert
+in Romulan computer science.
+
+
+134
+0:7:35,467 --> 0:7:38,133
+Sorry, sorry.
+
+
+135
+0:7:38,133 --> 0:7:40,3
+You know, we are kind of
+on the clock here.
+
+
+136
+0:7:40,3 --> 0:7:43,133
+I couldn't get into
+this damn thing.
+
+
+137
+0:7:43,133 --> 0:7:46,367
+Lisa Chandris, computer science,
+xeno-cryptography.
+
+
+138
+0:7:46,367 --> 0:7:48,601
+Hikaru Sulu, helmsman.
+
+
+139
+0:7:48,601 --> 0:7:51,634
+I know; I saw you on the bridge,
+when I came aboard
+
+
+140
+0:7:51,634 --> 0:7:53,501
+and presented my orders
+to the captain.
+
+
+141
+0:7:53,501 --> 0:7:55,4
+I got here, like,
+three days ago,
+
+
+142
+0:7:55,4 --> 0:7:57,234
+when you guys docked
+at Altair IV.
+
+
+143
+0:7:57,234 --> 0:8:31,167
+Well, you're certainly starting
+things off with a bang.
+
+
+144
+0:8:31,167 --> 0:8:43,841
+Keep them safe,
+Mr. Scott.
+
+
+145
+0:8:43,841 --> 0:8:46,394
+What was that?
+
+
+146
+0:8:46,394 --> 0:8:49,367
+Gravity wave.
+
+
+147
+0:8:49,367 --> 0:8:51,267
+One of the first things
+they ask you
+
+
+148
+0:8:51,267 --> 0:8:53,0
+when you sign on
+for starship duty
+
+
+149
+0:8:53,0 --> 0:8:57,5
+is if you're prone
+to space sickness.
+
+
+150
+0:8:57,5 --> 0:8:59,419
+I lied.
+
+
+151
+0:8:59,419 --> 0:9:2,77
+We'll be back with the data
+before you know it.
+
+
+152
+0:9:2,77 --> 0:9:4,8
+If our shields don't fail,
+
+
+153
+0:9:4,8 --> 0:9:6,813
+and if that bird-of-prey
+isn't torn to quarks
+
+
+154
+0:9:6,813 --> 0:9:8,399
+with us aboard it.
+
+
+155
+0:9:8,399 --> 0:9:11,0
+That about sums it up.
+
+
+156
+0:9:11,0 --> 0:9:13,913
+And that doesn't
+bother you, huh?
+
+
+157
+0:9:13,913 --> 0:9:59,161
+It certainly motivates me.
+
+
+158
+0:9:59,161 --> 0:10:2,162
+Sorry if I parked too far
+from the curb, Doctor.
+
+
+159
+0:10:2,162 --> 0:10:21,767
+You're a real
+cowboy, you are.
+
+
+160
+0:10:21,767 --> 0:10:30,97
+Careful. Gravity's unstable.
+
+
+161
+0:10:30,97 --> 0:10:31,668
+Computer's on
+a separate power grid,
+
+
+162
+0:10:31,668 --> 0:10:33,769
+so I should be able to...
+
+
+163
+0:10:33,769 --> 0:10:34,943
+Okay, we're on line.
+
+
+164
+0:10:34,943 --> 0:10:37,888
+Now all we have to do
+is locate the specific data
+
+
+165
+0:10:37,888 --> 0:10:40,443
+on the weapons system.
+
+
+166
+0:10:40,443 --> 0:10:44,466
+Ah, here we are.
+
+
+167
+0:10:44,466 --> 0:10:46,86
+Of course!
+
+
+168
+0:10:46,86 --> 0:10:48,99
+This making sense
+to you?
+
+
+169
+0:10:48,99 --> 0:10:50,27
+It's complex, but yes.
+
+
+170
+0:10:50,27 --> 0:10:51,761
+Good.
+
+
+171
+0:10:51,761 --> 0:10:54,433
+I'd hate to have gone
+to all this trouble for nothing.
+
+
+172
+0:10:54,433 --> 0:11:7,207
+I mean... almost nothing...
+
+
+173
+0:11:7,207 --> 0:11:8,273
+Spock?
+
+
+174
+0:11:8,273 --> 0:11:9,642
+Gravity waves, Captain.
+
+
+175
+0:11:9,642 --> 0:11:10,973
+Increasing intensity.
+
+
+176
+0:11:10,973 --> 0:11:13,818
+They could destabilize the
+bird-of-prey's reactor core.
+
+
+177
+0:11:13,818 --> 0:11:31,853
+Sulu! You and Chandris
+get out of there now!
+
+
+178
+0:11:31,853 --> 0:11:37,1
+Enterprise! Can you hear us?
+Enterprise!
+
+
+179
+0:11:37,1 --> 0:11:38,801
+Bird-of-prey reactor core
+going critical!
+
+
+180
+0:11:38,801 --> 0:11:40,734
+Scotty! Keep the shields
+extended around that ship
+
+
+181
+0:11:40,734 --> 0:11:43,668
+and beam Sulu and Chandris
+back through!
+
+
+182
+0:11:43,668 --> 0:11:45,485
+I'll give it my best, Captain.
+
+
+183
+0:11:45,485 --> 0:11:51,567
+Spock! Bones!
+
+
+184
+0:11:51,567 --> 0:12:4,734
+Gravity waves are makin' it
+devilish hard to lock onto them.
+
+
+185
+0:12:4,734 --> 0:12:6,133
+The core just blew!
+
+
+186
+0:12:6,133 --> 0:12:8,1
+Massive subspace interference.
+
+
+187
+0:12:8,1 --> 0:12:9,392
+I cannot hang onto them!
+
+
+188
+0:12:9,392 --> 0:12:11,801
+Wait. There's a signal.
+
+
+189
+0:12:11,801 --> 0:12:13,734
+One's caught in
+the pattern buffer.
+
+
+190
+0:12:13,734 --> 0:12:18,601
+Looks to be Sulu,
+but something's nee right.
+
+
+191
+0:12:18,601 --> 0:13:11,9
+You're not
+gettin' away now, lad.
+
+
+192
+0:13:11,9 --> 0:13:16,7
+You will stand down now, sir.
+
+
+193
+0:13:16,7 --> 0:13:18,601
+You will stand down.
+
+
+194
+0:13:18,601 --> 0:13:25,967
+And see, I believe,
+that you know us.
+
+
+195
+0:13:25,967 --> 0:13:31,267
+Captain Kirk...
+
+
+196
+0:13:31,267 --> 0:13:32,6
+Dr. McCoy...
+
+
+197
+0:13:32,6 --> 0:13:34,867
+Bones.
+
+
+198
+0:13:34,867 --> 0:13:36,667
+You're the same...
+
+
+199
+0:13:36,667 --> 0:13:38,867
+How can you be the same?
+
+
+200
+0:13:38,867 --> 0:13:42,533
+DNA and vitals
+match Sulu's, but...
+
+
+201
+0:13:42,533 --> 0:13:46,767
+Jim-- he's 30 years older.
+
+
+202
+0:13:46,767 --> 0:13:49,28
+Mr. Sulu, you've been gone
+less than a minute.
+
+
+203
+0:13:49,28 --> 0:13:50,962
+The Romulan ship
+went critical
+
+
+204
+0:13:50,962 --> 0:13:52,6
+and we tried to beam
+you both back...
+
+
+205
+0:13:52,6 --> 0:13:54,34
+Oh, my God!
+
+
+206
+0:13:54,34 --> 0:13:57,5
+She's all alone back there!
+
+
+207
+0:13:57,5 --> 0:13:58,767
+You've got to get her!
+
+
+208
+0:13:58,767 --> 0:13:59,934
+You've got to
+bring her here!
+
+
+209
+0:13:59,934 --> 0:14:1,9
+We lost Dr. Chandris' signal.
+
+
+210
+0:14:1,9 --> 0:14:4,134
+Not Lisa! Lisa's dead!
+
+
+211
+0:14:4,134 --> 0:14:6,248
+She died 15 years ago.
+
+
+212
+0:14:6,248 --> 0:14:7,468
+Captain!
+
+
+213
+0:14:7,468 --> 0:14:11,134
+I'm picking up another signal,
+faint as a whisper...
+
+
+214
+0:14:11,134 --> 0:14:12,16
+Dr. Chandris?
+
+
+215
+0:14:12,16 --> 0:14:14,1
+Doesn't match her signature.
+
+
+216
+0:14:14,1 --> 0:14:15,468
+Something else.
+
+
+217
+0:14:15,468 --> 0:14:16,767
+Lock in on it!
+
+
+218
+0:14:16,767 --> 0:14:17,529
+I'd do a fair bit better
+
+
+219
+0:14:17,529 --> 0:14:19,985
+if you'd stop shoutin' and
+flailin' cutlasses about!
+
+
+220
+0:14:19,985 --> 0:14:23,9
+Aw, you're a right will
+o' the wisp, you are...
+
+
+221
+0:14:23,9 --> 0:14:32,34
+but you won't be gettin' away.
+
+
+222
+0:14:32,34 --> 0:14:45,913
+Alana, don't be afraid.
+
+
+223
+0:14:45,913 --> 0:14:46,905
+Bring her back!
+
+
+224
+0:14:46,905 --> 0:14:48,442
+I've got her pattern
+in the matrix.
+
+
+225
+0:14:48,442 --> 0:14:50,5
+She won't be gettin' away.
+
+
+226
+0:14:50,5 --> 0:14:53,587
+But she's not exactly arrivin'
+here yet, either.
+
+
+227
+0:14:53,587 --> 0:14:57,5
+I'll have to rig up some sort of
+stasis chamber to keep her here.
+
+
+228
+0:14:57,5 --> 0:14:58,376
+At least, for starters.
+
+
+229
+0:14:58,376 --> 0:15:0,807
+You called her Alana.
+Who is she?
+
+
+230
+0:15:0,807 --> 0:15:5,767
+She's my daughter.
+
+
+231
+0:15:5,767 --> 0:15:7,68
+Status.
+
+
+232
+0:15:7,68 --> 0:15:8,0
+Shields at maximum, sir.
+
+
+233
+0:15:8,0 --> 0:15:9,82
+We've diverted power
+from all but life support.
+
+
+234
+0:15:9,82 --> 0:15:12,267
+We're holding our own,
+but we're not going anywhere.
+
+
+235
+0:15:12,267 --> 0:15:13,567
+Understood.
+
+
+236
+0:15:13,567 --> 0:15:17,267
+Report, Commander.
+
+
+237
+0:15:17,267 --> 0:15:23,867
+Sulu, just tell
+us what you know.
+
+
+238
+0:15:23,867 --> 0:15:27,434
+Lisa and I were aboard
+the bird-of-prey.
+
+
+239
+0:15:27,434 --> 0:15:31,68
+It was about to explode when
+the transporter seized us.
+
+
+240
+0:15:31,68 --> 0:15:34,167
+Instead of materializing
+on the Enterprise,
+
+
+241
+0:15:34,167 --> 0:15:38,267
+we found ourselves
+on the surface of a planet.
+
+
+242
+0:15:38,267 --> 0:15:40,734
+Clearly one with some form
+of civilization,
+
+
+243
+0:15:40,734 --> 0:15:44,12
+given your elaborate...
+ornamentation.
+
+
+244
+0:15:44,12 --> 0:15:46,567
+A dead world, Mr. Spock.
+
+
+245
+0:15:46,567 --> 0:15:49,721
+Disease had wiped them out
+centuries ago.
+
+
+246
+0:15:49,721 --> 0:15:52,279
+Nothing but ruined cities,
+
+
+247
+0:15:52,279 --> 0:15:54,77
+what remained of a...
+
+
+248
+0:15:54,77 --> 0:15:55,667
+canal system...
+
+
+249
+0:15:55,667 --> 0:15:59,633
+desert that stretched forever.
+
+
+250
+0:15:59,633 --> 0:16:3,7
+There was wildlife, fruits.
+
+
+251
+0:16:3,7 --> 0:16:5,777
+We were able to survive.
+
+
+252
+0:16:5,777 --> 0:16:8,607
+And in time, you and Chandris...
+
+
+253
+0:16:8,607 --> 0:16:13,152
+There comes a point where one
+has to start living a life--
+
+
+254
+0:16:13,152 --> 0:16:18,13
+whatever it is-- rather than
+waiting for one to begin.
+
+
+255
+0:16:18,13 --> 0:16:20,34
+But what was
+30 years to you
+
+
+256
+0:16:20,34 --> 0:16:21,845
+was 30 seconds to us.
+
+
+257
+0:16:21,845 --> 0:16:22,973
+Fascinating.
+
+
+258
+0:16:22,973 --> 0:16:25,625
+It would appear
+that the gravitational waves,
+
+
+259
+0:16:25,625 --> 0:16:27,794
+interacting with the
+multi-dimensional field,
+
+
+260
+0:16:27,794 --> 0:16:29,424
+diverted you and Dr. Chandris
+
+
+261
+0:16:29,424 --> 0:16:31,622
+into a different,
+more rapid timestream--
+
+
+262
+0:16:31,622 --> 0:16:34,236
+perhaps a wholly different
+universe.
+
+
+263
+0:16:34,236 --> 0:16:35,479
+Mr. Sulu,
+
+
+264
+0:16:35,479 --> 0:16:37,437
+this ship will be torn
+to subatomic particles
+
+
+265
+0:16:37,437 --> 0:16:38,468
+in a matter of hours,
+
+
+266
+0:16:38,468 --> 0:16:39,867
+We need that data
+
+
+267
+0:16:39,867 --> 0:16:41,723
+that you and Dr. Chandris
+got off that ship.
+
+
+268
+0:16:41,723 --> 0:16:46,6
+The tricorder's back on Caliban.
+
+
+269
+0:16:46,6 --> 0:16:48,996
+We had to name the planet
+something.
+
+
+270
+0:16:48,996 --> 0:16:51,397
+It seemed to fit.
+
+
+271
+0:16:51,397 --> 0:16:52,555
+It's from Shakespeare...
+
+
+272
+0:16:52,555 --> 0:16:54,7
+The Tempest.
+
+
+273
+0:16:54,7 --> 0:16:56,382
+Sulu, do you
+remember anything
+
+
+274
+0:16:56,382 --> 0:16:57,667
+from the Romulan data?
+
+
+275
+0:16:57,667 --> 0:17:0,8
+It's been so long.
+
+
+276
+0:17:0,8 --> 0:17:5,834
+I...
+
+
+277
+0:17:5,834 --> 0:17:9,267
+No.
+
+
+278
+0:17:9,267 --> 0:17:12,734
+When the tricorder's
+power started to fail,
+
+
+279
+0:17:12,734 --> 0:17:16,201
+I tried to hold
+the information in my mind.
+
+
+280
+0:17:16,201 --> 0:17:18,79
+But after months...
+
+
+281
+0:17:18,79 --> 0:17:21,9
+years...
+
+
+282
+0:17:21,9 --> 0:17:26,255
+Lisa thought...
+you had all died.
+
+
+283
+0:17:26,255 --> 0:17:28,767
+But I said,
+"You don't know James Kirk.
+
+
+284
+0:17:28,767 --> 0:17:32,877
+"He always manages to snatch
+life from the jaws of death.
+
+
+285
+0:17:32,877 --> 0:17:34,136
+He'll find a way."
+
+
+286
+0:17:34,136 --> 0:17:36,468
+You're that way, Sulu.
+
+
+287
+0:17:36,468 --> 0:17:40,234
+We need that data.
+
+
+288
+0:17:40,234 --> 0:17:45,867
+Captain...
+
+
+289
+0:17:45,867 --> 0:17:47,251
+Kirk here.
+
+
+290
+0:17:47,251 --> 0:17:48,9
+If you fine gentlemen
+
+
+291
+0:17:48,9 --> 0:17:50,834
+could tear yourselves away
+from your pressin' business...
+
+
+292
+0:17:50,834 --> 0:17:57,134
+there's someone here
+I'd like you to meet.
+
+
+293
+0:17:57,134 --> 0:17:58,371
+Father!
+
+
+294
+0:17:58,371 --> 0:18:1,8
+It's all right, Alana.
+
+
+295
+0:18:1,8 --> 0:18:5,201
+Why is she still insubstantial?
+
+
+296
+0:18:5,201 --> 0:18:7,4
+Best I can do
+for now, Captain.
+
+
+297
+0:18:7,4 --> 0:18:8,877
+A good part of her's
+still linked
+
+
+298
+0:18:8,877 --> 0:18:10,99
+to whatever godforsaken rock
+you were livin' on.
+
+
+299
+0:18:10,99 --> 0:18:14,567
+She appears to exist in a state
+of quantum indeterminacy;
+
+
+300
+0:18:14,567 --> 0:18:17,119
+partly here,
+in our universe,
+
+
+301
+0:18:17,119 --> 0:18:19,84
+partly still in
+the alternate universe.
+
+
+302
+0:18:19,84 --> 0:18:22,7
+That's impossible.
+
+
+303
+0:18:22,7 --> 0:18:25,5
+I suggest we make a datachip
+record of these events.
+
+
+304
+0:18:25,5 --> 0:18:27,447
+It could prove invaluable
+to science.
+
+
+305
+0:18:27,447 --> 0:18:40,6
+Welcome to the Enterprise.
+
+
+306
+0:18:40,6 --> 0:18:42,943
+They came.
+
+
+307
+0:18:42,943 --> 0:18:45,734
+They came for us.
+
+
+308
+0:18:45,734 --> 0:18:48,6
+Just like you said they would.
+
+
+309
+0:18:48,6 --> 0:18:51,636
+Captain, there are urgent
+matters we need to attend to.
+
+
+310
+0:18:51,636 --> 0:18:53,2
+I understand, Mr. Spock.
+
+
+311
+0:18:53,2 --> 0:18:56,99
+As soon as we're clear of
+this hyperspatial beastie,
+
+
+312
+0:18:56,99 --> 0:18:58,569
+we should be able
+to divert enough power
+
+
+313
+0:18:58,569 --> 0:18:59,967
+to bring you
+all the way through.
+
+
+314
+0:18:59,967 --> 0:19:1,729
+For now, unfortunately,
+
+
+315
+0:19:1,729 --> 0:19:3,263
+your movements are limited
+to this chamber.
+
+
+316
+0:19:3,263 --> 0:19:5,728
+We'll see if we can arrange
+some introductions later.
+
+
+317
+0:19:5,728 --> 0:19:6,85
+Miss...
+
+
+318
+0:19:6,85 --> 0:19:8,208
+Sulu?
+
+
+319
+0:19:8,208 --> 0:19:10,67
+Alana, please.
+
+
+320
+0:19:10,67 --> 0:19:11,997
+You're Captain Kirk, aren't you?
+
+
+321
+0:19:11,997 --> 0:19:12,998
+How did you know?
+
+
+322
+0:19:12,998 --> 0:19:15,167
+My father told me
+you were impressive...
+
+
+323
+0:19:15,167 --> 0:19:18,7
+...and knew it.
+
+
+324
+0:19:18,7 --> 0:19:22,967
+You'll have to excuse her,
+Captain...
+
+
+325
+0:19:22,967 --> 0:19:25,672
+There's no apologies necessary.
+
+
+326
+0:19:25,672 --> 0:19:30,834
+Mr. Sulu,
+we'll need you in sickbay.
+
+
+327
+0:19:30,834 --> 0:19:33,218
+I'll try not
+to keep him long.
+
+
+328
+0:19:33,218 --> 0:19:35,6
+A pleasure meeting you.
+
+
+329
+0:19:35,6 --> 0:19:39,8
+Bones, Spock,
+you're with me.
+
+
+330
+0:19:39,8 --> 0:19:49,7
+I'll be back soon.
+
+
+331
+0:19:49,7 --> 0:19:52,178
+People move so quickly here.
+
+
+332
+0:19:52,178 --> 0:19:55,9
+Aye, that they do, lass.
+
+
+333
+0:19:55,9 --> 0:19:58,8
+You're Montgomery Scott,
+aren't you?
+
+
+334
+0:19:58,8 --> 0:20:1,9
+My father told me
+about you, too.
+
+
+335
+0:20:1,9 --> 0:20:2,986
+And just what did he tell you?
+
+
+336
+0:20:2,986 --> 0:20:8,934
+That he wouldn't want
+to be your liver.
+
+
+337
+0:20:8,934 --> 0:20:11,834
+It's good
+to have him back.
+
+
+338
+0:20:11,834 --> 0:20:16,867
+And to be meetin'
+his fine fair daughter.
+
+
+339
+0:20:16,867 --> 0:20:19,741
+Although you no longer
+consciously retain
+
+
+340
+0:20:19,741 --> 0:20:21,119
+the hyperspatial
+coordinates,
+
+
+341
+0:20:21,119 --> 0:20:23,41
+your mind still
+retains the data.
+
+
+342
+0:20:23,41 --> 0:20:27,385
+So... the famous
+Vulcan mind-meld.
+
+
+343
+0:20:27,385 --> 0:20:31,667
+I won't tell you
+this is without risk.
+
+
+344
+0:20:31,667 --> 0:20:38,5
+But then, what in life is?
+
+
+345
+0:20:38,5 --> 0:20:41,753
+Shouldn't you send me
+candy and flowers first?
+
+
+346
+0:20:41,753 --> 0:20:45,533
+I do not understand.
+
+
+347
+0:20:45,533 --> 0:20:51,1
+No, I didn't think you would.
+
+
+348
+0:20:51,1 --> 0:20:56,7
+My thoughts to
+your thoughts...
+
+
+349
+0:20:56,7 --> 0:21:1,7
+Sulu, relax.
+Don't fight it.
+
+
+350
+0:21:1,7 --> 0:21:5,468
+My mind to your mind.
+
+
+351
+0:21:5,468 --> 0:21:7,533
+Yes...
+
+
+352
+0:21:7,533 --> 0:21:13,95
+Our minds are merging,
+becoming one...
+
+
+353
+0:21:13,95 --> 0:21:15,6
+Yes.
+
+
+354
+0:21:15,6 --> 0:21:18,667
+The Romulan ship.
+
+
+355
+0:21:18,667 --> 0:21:22,633
+Dr. Chandris...
+
+
+356
+0:21:22,633 --> 0:21:25,639
+Alana...
+
+
+357
+0:21:25,639 --> 0:21:28,6
+A child...
+
+
+358
+0:21:28,6 --> 0:21:31,78
+ten years old...
+
+
+359
+0:21:31,78 --> 0:21:32,616
+What... What's...
+
+
+360
+0:21:32,616 --> 0:21:34,593
+sand... moving...
+
+
+361
+0:21:34,593 --> 0:21:36,734
+Rising up...
+
+
+362
+0:21:36,734 --> 0:21:39,567
+Alana!
+
+
+363
+0:21:39,567 --> 0:21:43,238
+Sand demon!
+Fangs! Spurs!
+
+
+364
+0:21:43,238 --> 0:21:44,314
+It has her!
+
+
+365
+0:21:44,314 --> 0:21:48,128
+Too far! Too far!
+I can't...!
+
+
+366
+0:21:48,128 --> 0:21:49,735
+Jim! Their vitals
+are spiking!
+
+
+367
+0:21:49,735 --> 0:21:52,85
+Lisa! She's killing it!
+
+
+368
+0:21:52,85 --> 0:21:55,101
+She's cutting it to pieces!
+
+
+369
+0:21:55,101 --> 0:21:58,224
+But it's stabbing...
+stabbing her!
+
+
+370
+0:21:58,224 --> 0:22:2,834
+LISA!
+
+
+371
+0:22:2,834 --> 0:22:4,65
+You saved her...
+
+
+372
+0:22:4,65 --> 0:22:6,872
+You saved our daughter...
+
+
+373
+0:22:6,872 --> 0:22:9,495
+She heard me...
+
+
+374
+0:22:9,495 --> 0:22:12,117
+I know she heard me...
+
+
+375
+0:22:12,117 --> 0:22:14,757
+Epinephrine level's
+off the scale.
+
+
+376
+0:22:14,757 --> 0:22:16,847
+Blood pressure's
+through the roof.
+
+
+377
+0:22:16,847 --> 0:22:17,934
+You have to stop it!
+
+
+378
+0:22:17,934 --> 0:22:20,873
+Stop it now-- before
+we lose them both!
+
+
+379
+0:22:20,873 --> 0:22:22,663
+Spock! Break it off!
+
+
+380
+0:22:22,663 --> 0:22:28,167
+Spock!
+
+
+381
+0:22:28,167 --> 0:22:30,633
+The data?
+
+
+382
+0:22:30,633 --> 0:22:44,867
+Too deep.
+
+
+383
+0:22:44,867 --> 0:22:51,767
+It's clear we'll have to find
+another way.
+
+
+384
+0:22:51,767 --> 0:22:53,406
+How is he?
+
+
+385
+0:22:53,406 --> 0:22:54,5
+Resting.
+
+
+386
+0:22:54,5 --> 0:22:57,134
+He'll need some time
+to recover.
+
+
+387
+0:22:57,134 --> 0:23:1,375
+My God, Jim,
+what he's been through...
+
+
+388
+0:23:1,375 --> 0:23:3,5
+Laudable as
+your tendency
+
+
+389
+0:23:3,5 --> 0:23:5,397
+toward compassion may be,
+Doctor,
+
+
+390
+0:23:5,397 --> 0:23:7,67
+it does not alter
+the fact
+
+
+391
+0:23:7,67 --> 0:23:8,458
+that the ship
+will be destroyed
+
+
+392
+0:23:8,458 --> 0:23:10,16
+if we do not get
+that data soon.
+
+
+393
+0:23:10,16 --> 0:23:12,86
+How can that green blood
+of yours be so cold?
+
+
+394
+0:23:12,86 --> 0:23:13,966
+Dr. McCoy...
+
+
+395
+0:23:13,966 --> 0:23:16,159
+Bones, we need an alternative.
+
+
+396
+0:23:16,159 --> 0:23:18,973
+Well, there are drugs,
+hypnotics.
+
+
+397
+0:23:18,973 --> 0:23:21,131
+They might work.
+
+
+398
+0:23:21,131 --> 0:23:23,454
+Normally, I'd advise against it.
+
+
+399
+0:23:23,454 --> 0:23:26,435
+These are not normal
+circumstances.
+
+
+400
+0:23:26,435 --> 0:23:27,99
+Do it.
+
+
+401
+0:23:27,99 --> 0:23:29,708
+They're not
+standard issue.
+
+
+402
+0:23:29,708 --> 0:23:32,106
+It'll take me time
+to formulate them.
+
+
+403
+0:23:32,106 --> 0:23:35,446
+In the meantime, I want you
+to get on with Plan B.
+
+
+404
+0:23:35,446 --> 0:23:39,81
+I was unaware we had a Plan B.
+
+
+405
+0:23:39,81 --> 0:23:41,483
+I trust you will shortly.
+
+
+406
+0:23:41,483 --> 0:23:43,175
+Understood.
+
+
+407
+0:23:43,175 --> 0:23:46,535
+Tell me, Captain, what did you
+do before you knew me?
+
+
+408
+0:23:46,535 --> 0:23:50,633
+I always made sure
+Plan A worked.
+
+
+409
+0:23:50,633 --> 0:23:53,1
+Ah.
+
+
+410
+0:23:53,1 --> 0:23:56,11
+While we're at it,
+
+
+411
+0:23:56,11 --> 0:23:58,816
+maybe you can arrange
+for a shave and haircut,
+
+
+412
+0:23:58,816 --> 0:24:0,354
+and rustle up
+a uniform for him.
+
+
+413
+0:24:0,354 --> 0:24:2,139
+It's the least we can do.
+
+
+414
+0:24:2,139 --> 0:24:3,242
+I wouldn't.
+
+
+415
+0:24:3,242 --> 0:24:5,79
+As far as he's concerned,
+
+
+416
+0:24:5,79 --> 0:24:7,301
+his tour of duty ended
+30 years ago.
+
+
+417
+0:24:7,301 --> 0:24:10,633
+He's not the man he was.
+
+
+418
+0:24:10,633 --> 0:24:13,101
+I understand.
+
+
+419
+0:24:13,101 --> 0:24:16,267
+Captain Kirk to the bridge!
+
+
+420
+0:24:16,267 --> 0:24:17,881
+Kirk here.
+
+
+421
+0:24:17,881 --> 0:24:19,48
+The gravitational disturbances
+
+
+422
+0:24:19,48 --> 0:24:21,748
+are increasing faster
+than anticipated, Captain.
+
+
+423
+0:24:21,748 --> 0:24:23,242
+We're runnin' out of time.
+
+
+424
+0:24:23,242 --> 0:24:26,633
+Understood.
+Go to Yellow Alert. Kirk out.
+
+
+425
+0:24:26,633 --> 0:24:29,84
+If we're going
+to get out of this,
+
+
+426
+0:24:29,84 --> 0:24:42,133
+I have a feeling we're going
+to need the man that he was.
+
+
+427
+0:24:42,133 --> 0:24:46,272
+Captain, I've been monitoring
+fluctuations in the hyperfield.
+
+
+428
+0:24:46,272 --> 0:24:48,2
+And?
+
+
+429
+0:24:48,2 --> 0:24:51,197
+There is the possibility that,
+
+
+430
+0:24:51,197 --> 0:24:54,255
+were we able to generate a
+matter-antimatter negation burst
+
+
+431
+0:24:54,255 --> 0:24:55,86
+of adequate force
+to free us,
+
+
+432
+0:24:55,86 --> 0:24:58,534
+we might cause the field
+to implode.
+
+
+433
+0:24:58,534 --> 0:25:0,378
+And risk imploding the ship
+as well.
+
+
+434
+0:25:0,378 --> 0:25:3,225
+Our calculations
+must be most precise.
+
+
+435
+0:25:3,225 --> 0:25:4,663
+How much time do we have?
+
+
+436
+0:25:4,663 --> 0:25:7,168
+14 hours, 32 minutes
+and 24...
+
+
+437
+0:25:7,168 --> 0:25:16,501
+Then I suggest you start
+exploring it aggressively.
+
+
+438
+0:25:16,501 --> 0:25:20,634
+Didn't even give you
+an ocean view.
+
+
+439
+0:25:20,634 --> 0:25:23,616
+I'd complain to the management.
+
+
+440
+0:25:23,616 --> 0:25:25,924
+Oh, Father, it's wonderful.
+
+
+441
+0:25:25,924 --> 0:25:28,552
+You haven't seen much of it yet.
+
+
+442
+0:25:28,552 --> 0:25:30,3
+That doesn't matter.
+
+
+443
+0:25:30,3 --> 0:25:32,167
+We're here.
+
+
+444
+0:25:32,167 --> 0:25:35,1
+I just wish Mother
+could have seen it.
+
+
+445
+0:25:35,1 --> 0:25:40,1
+She would have given everything
+just for you to see it, Alana.
+
+
+446
+0:25:40,1 --> 0:25:42,467
+This is only the beginning.
+
+
+447
+0:25:42,467 --> 0:25:46,953
+Scotty will have you flesh and
+blood in no time, you'll see.
+
+
+448
+0:25:46,953 --> 0:25:49,212
+And then...
+
+
+449
+0:25:49,212 --> 0:25:55,521
+Centauri III,
+the Valles Marineris on Mars,
+
+
+450
+0:25:55,521 --> 0:25:58,786
+San Francisco--
+
+
+451
+0:25:58,786 --> 0:26:1,214
+all the places
+I've told you about.
+
+
+452
+0:26:1,214 --> 0:26:4,133
+We'll roll them out
+like a red carpet.
+
+
+453
+0:26:4,133 --> 0:26:6,678
+You can go anywhere,
+
+
+454
+0:26:6,678 --> 0:26:8,367
+do anything.
+
+
+455
+0:26:8,367 --> 0:26:10,6
+The whole universe
+
+
+456
+0:26:10,6 --> 0:26:16,267
+is ahead of you.
+
+
+457
+0:26:16,267 --> 0:26:18,234
+Forgive the intrusion.
+
+
+458
+0:26:18,234 --> 0:26:20,667
+Dr. McCoy's
+ready for you.
+
+
+459
+0:26:20,667 --> 0:26:28,667
+I'll be back soon.
+
+
+460
+0:26:28,667 --> 0:26:29,701
+Captain...
+
+
+461
+0:26:29,701 --> 0:26:37,2
+I expect you
+to behave yourself.
+
+
+462
+0:26:37,2 --> 0:26:40,1
+Your father always had
+a distinctive sense of humor.
+
+
+463
+0:26:40,1 --> 0:26:43,33
+Your reputation precedes
+you, Captain Kirk.
+
+
+464
+0:26:43,33 --> 0:26:45,3
+Call me Jim.
+
+
+465
+0:26:45,3 --> 0:26:49,534
+And just what exactly
+did he tell you about me?
+
+
+466
+0:26:49,534 --> 0:26:51,2
+How alone you were.
+
+
+467
+0:26:51,2 --> 0:26:56,67
+He told you I was lonely?
+
+
+468
+0:26:56,67 --> 0:27:0,1
+Well, that is the price
+of command.
+
+
+469
+0:27:0,1 --> 0:27:2,434
+It was more than that.
+
+
+470
+0:27:2,434 --> 0:27:5,467
+It was something
+you carried with you...
+
+
+471
+0:27:5,467 --> 0:27:9,0
+a distance...
+
+
+472
+0:27:9,0 --> 0:27:12,167
+Always a
+different girl on every world,
+
+
+473
+0:27:12,167 --> 0:27:16,2
+none mattering
+beyond the moment.
+
+
+474
+0:27:16,2 --> 0:27:20,467
+There was one who was different.
+
+
+475
+0:27:20,467 --> 0:27:29,601
+Her name... Edith.
+
+
+476
+0:27:29,601 --> 0:27:31,567
+Some things
+are best forgotten.
+
+
+477
+0:27:31,567 --> 0:27:33,3
+I don't talk about the past,
+
+
+478
+0:27:33,3 --> 0:27:34,541
+and your father shouldn't have,
+either.
+
+
+479
+0:27:34,541 --> 0:27:37,12
+I-I hurt you.
+
+
+480
+0:27:37,12 --> 0:27:39,567
+I'm sorry.
+
+
+481
+0:27:39,567 --> 0:27:42,334
+I'm not good with people.
+
+
+482
+0:27:42,334 --> 0:27:45,1
+Lack of practice.
+
+
+483
+0:27:45,1 --> 0:27:51,2
+It's just... he thought he would
+never see any of you again.
+
+
+484
+0:27:51,2 --> 0:27:56,2
+Life seldom takes us
+where we want it to.
+
+
+485
+0:27:56,2 --> 0:27:59,534
+Jim...
+
+
+486
+0:27:59,534 --> 0:28:4,367
+I understand loneliness.
+
+
+487
+0:28:4,367 --> 0:28:8,667
+You shouldn't try
+to banish memories.
+
+
+488
+0:28:8,667 --> 0:28:11,634
+They're how we live on.
+
+
+489
+0:28:11,634 --> 0:28:15,634
+They're all I have of my mother.
+
+
+490
+0:28:15,634 --> 0:28:17,434
+Did you know her?
+
+
+491
+0:28:17,434 --> 0:28:20,734
+She'd just come on the ship.
+
+
+492
+0:28:20,734 --> 0:28:23,3
+I'd seen her once or twice.
+
+
+493
+0:28:23,3 --> 0:28:26,2
+You'd have liked her.
+
+
+494
+0:28:26,2 --> 0:28:29,3
+She was funny...
+
+
+495
+0:28:29,3 --> 0:28:31,167
+and brave.
+
+
+496
+0:28:31,167 --> 0:28:34,767
+I know.
+
+
+497
+0:28:34,767 --> 0:28:36,637
+She died saving you.
+
+
+498
+0:28:36,637 --> 0:28:41,634
+She didn't hesitate.
+
+
+499
+0:28:41,634 --> 0:28:46,2
+I could never be that strong.
+
+
+500
+0:28:46,2 --> 0:28:48,767
+Well...
+
+
+501
+0:28:48,767 --> 0:28:52,3
+we never know what we can do...
+
+
+502
+0:28:52,3 --> 0:28:58,501
+...until we have to.
+
+
+503
+0:28:58,501 --> 0:29:3,1
+Captain, if I may...
+
+
+504
+0:29:3,1 --> 0:29:9,634
+Excuse me.
+
+
+505
+0:29:9,634 --> 0:29:11,922
+Sensor scans of the
+external hyperfield
+
+
+506
+0:29:11,922 --> 0:29:15,327
+have proven inadequate to risk
+a matter-antimatter implosion
+
+
+507
+0:29:15,327 --> 0:29:16,492
+to free the ship.
+
+
+508
+0:29:16,492 --> 0:29:17,968
+What do you suggest?
+
+
+509
+0:29:17,968 --> 0:29:19,744
+The field surrounding
+Miss Sulu
+
+
+510
+0:29:19,744 --> 0:29:22,701
+seems a benign microcosm
+of the larger field.
+
+
+511
+0:29:22,701 --> 0:29:27,567
+If I might be allowed to
+take some measurements...
+
+
+512
+0:29:27,567 --> 0:29:31,567
+Mr. Spock would like
+to run some tests on you.
+
+
+513
+0:29:31,567 --> 0:29:32,968
+Will it hurt?
+
+
+514
+0:29:32,968 --> 0:29:35,252
+No.
+
+
+515
+0:29:35,252 --> 0:29:39,2
+I would've said yes anyway.
+
+
+516
+0:29:39,2 --> 0:29:47,2
+I'll see you later.
+
+
+517
+0:29:47,2 --> 0:29:49,121
+How do we start?
+
+
+518
+0:29:49,121 --> 0:29:56,133
+We already have.
+
+
+519
+0:29:56,133 --> 0:29:58,964
+One pharmaceutical cocktail
+coming up.
+
+
+520
+0:29:58,964 --> 0:30:1,134
+I swear, at times like this,
+
+
+521
+0:30:1,134 --> 0:30:6,267
+I feel like a bartender,
+not a doc--
+
+
+522
+0:30:6,267 --> 0:30:9,33
+Sorry, I didn't
+mean to, uh...
+
+
+523
+0:30:9,33 --> 0:30:11,367
+Oh, it's all right.
+
+
+524
+0:30:11,367 --> 0:30:14,601
+The only image
+I had of her was...
+
+
+525
+0:30:14,601 --> 0:30:16,501
+I understand.
+
+
+526
+0:30:16,501 --> 0:30:21,33
+Just lie back.
+
+
+527
+0:30:21,33 --> 0:30:26,0
+You'll feel a bit
+light-headed and drowsy...
+
+
+528
+0:30:26,0 --> 0:30:29,67
+Should I count back
+from a hundred?
+
+
+529
+0:30:29,67 --> 0:30:38,234
+Just say whatever comes to mind.
+
+
+530
+0:30:38,234 --> 0:30:41,425
+To be snatched away
+from everything you know,
+
+
+531
+0:30:41,425 --> 0:30:44,801
+dropped down
+in a wilderness,
+
+
+532
+0:30:44,801 --> 0:30:47,501
+have to build your life up
+from nothing,
+
+
+533
+0:30:47,501 --> 0:30:53,133
+with your bare hands...
+
+
+534
+0:30:53,133 --> 0:31:0,667
+...only one thing will let you
+do that and survive.
+
+
+535
+0:31:0,667 --> 0:31:2,53
+Before all that,
+
+
+536
+0:31:2,53 --> 0:31:7,667
+I was on the career track
+to captain.
+
+
+537
+0:31:7,667 --> 0:31:11,67
+Friends were for off-hours...
+
+
+538
+0:31:11,67 --> 0:31:16,534
+hobbies mere diversion.
+
+
+539
+0:31:16,534 --> 0:31:18,734
+Family?
+
+
+540
+0:31:18,734 --> 0:31:21,367
+Not in the equation.
+
+
+541
+0:31:21,367 --> 0:31:24,634
+But then...
+
+
+542
+0:31:24,634 --> 0:31:29,67
+through the long nights,
+
+
+543
+0:31:29,67 --> 0:31:32,434
+we'd sit in
+the crystal towers...
+
+
+544
+0:31:32,434 --> 0:31:38,601
+listen to the wind wash
+over the dead sea...
+
+
+545
+0:31:38,601 --> 0:31:43,1
+gaze up at the twin moons...
+
+
+546
+0:31:43,1 --> 0:31:47,234
+share stories we remembered,
+
+
+547
+0:31:47,234 --> 0:31:52,667
+adventures we'd had...
+
+
+548
+0:31:52,667 --> 0:32:0,701
+I may have been lost...
+
+
+549
+0:32:0,701 --> 0:32:9,1
+...but I was home.
+
+
+550
+0:32:9,1 --> 0:32:11,701
+It's a rare man
+that finds that...
+
+
+551
+0:32:11,701 --> 0:32:16,767
+and a lucky one.
+
+
+552
+0:32:16,767 --> 0:32:20,567
+Can I ask you a question,
+Mr. Spock?
+
+
+553
+0:32:20,567 --> 0:32:22,621
+I mean,
+if it doesn't distract you.
+
+
+554
+0:32:22,621 --> 0:32:25,184
+I'm not easily distracted,
+Miss Sulu.
+
+
+555
+0:32:25,184 --> 0:32:27,367
+What would you like to know?
+
+
+556
+0:32:27,367 --> 0:32:30,267
+Beyond that door...
+
+
+557
+0:32:30,267 --> 0:32:34,701
+there are
+hundreds of people.
+
+
+558
+0:32:34,701 --> 0:32:39,33
+And so far, I've only met six
+in my whole life--
+
+
+559
+0:32:39,33 --> 0:32:44,67
+four in the last two hours.
+
+
+560
+0:32:44,67 --> 0:32:46,499
+My father told me
+that you were
+
+
+561
+0:32:46,499 --> 0:32:50,501
+the only one
+of your kind on the ship.
+
+
+562
+0:32:50,501 --> 0:32:53,734
+Do you ever wonder what
+people think about you,
+
+
+563
+0:32:53,734 --> 0:32:58,501
+or what they see?
+
+
+564
+0:32:58,501 --> 0:33:0,811
+They will see precisely
+what you are--
+
+
+565
+0:33:0,811 --> 0:33:6,167
+a singularly astute and charming
+young woman.
+
+
+566
+0:33:6,167 --> 0:33:7,798
+But I'm so different.
+
+
+567
+0:33:7,798 --> 0:33:10,4
+We are, each of us, unique.
+
+
+568
+0:33:10,4 --> 0:33:14,356
+You must admit, some of us are
+a lot more unique than others.
+
+
+569
+0:33:14,356 --> 0:33:17,39
+It is grammatically incorrect
+
+
+570
+0:33:17,39 --> 0:33:21,3
+to place a modifier
+before "unique."
+
+
+571
+0:33:21,3 --> 0:33:24,372
+But nonetheless,
+you are correct.
+
+
+572
+0:33:24,372 --> 0:33:26,968
+Some of us are.
+
+
+573
+0:33:26,968 --> 0:33:33,0
+You still haven't answered
+my question.
+
+
+574
+0:33:33,0 --> 0:33:35,917
+I endure the pressures my choice
+of life demands,
+
+
+575
+0:33:35,917 --> 0:33:39,3
+because I prefer it
+to one of solitude...
+
+
+576
+0:33:39,3 --> 0:33:43,435
+...and because I have found
+that I can tolerate being judged
+
+
+577
+0:33:43,435 --> 0:33:47,133
+far better than being
+of no consequence.
+
+
+578
+0:33:47,133 --> 0:33:49,227
+The scan is complete.
+
+
+579
+0:33:49,227 --> 0:33:53,33
+I must get this data
+to Mr. Scott.
+
+
+580
+0:33:53,33 --> 0:33:56,968
+So, am I one of a kind,
+Mr. Spock?
+
+
+581
+0:33:56,968 --> 0:34:5,434
+You are indeed, Miss Sulu.
+
+
+582
+0:34:5,434 --> 0:34:7,289
+Kirk to sickbay.
+
+
+583
+0:34:7,289 --> 0:34:9,667
+How're we doing, Bones?
+
+
+584
+0:34:9,667 --> 0:34:13,353
+Jim, I've tried
+every neural meta-mnemonic
+
+
+585
+0:34:13,353 --> 0:34:14,859
+in ship's stores on Sulu.
+
+
+586
+0:34:14,859 --> 0:34:16,234
+And?
+
+
+587
+0:34:16,234 --> 0:34:20,239
+Scattered bits and pieces,
+nothing you can use.
+
+
+588
+0:34:20,239 --> 0:34:26,3
+And I can't give him any more;
+his system can't take it.
+
+
+589
+0:34:26,3 --> 0:34:36,267
+I'm sorry, Jim.
+
+
+590
+0:34:36,267 --> 0:34:38,376
+How goes Plan B, Mr. Spock?
+
+
+591
+0:34:38,376 --> 0:34:40,249
+The readings I took
+from Miss Sulu
+
+
+592
+0:34:40,249 --> 0:34:42,411
+should allow us to
+attempt the negation burst.
+
+
+593
+0:34:42,411 --> 0:34:44,725
+As soon as Mr. Scott
+concludes his adjustments,
+
+
+594
+0:34:44,725 --> 0:34:49,367
+we can proceed.
+
+
+595
+0:34:49,367 --> 0:34:53,2
+Then I suggest you do so
+with all dispatch.
+
+
+596
+0:34:53,2 --> 0:34:55,234
+What's wrong?
+
+
+597
+0:34:55,234 --> 0:34:59,13
+Jim... Alana Sulu's
+atomic structure
+
+
+598
+0:34:59,13 --> 0:35:0,399
+is bound to
+the hyperfield.
+
+
+599
+0:35:0,399 --> 0:35:3,615
+We can't be certain she'll
+be coming with us.
+
+
+600
+0:35:3,615 --> 0:35:6,535
+Scotty said he'd be able
+to bring her over in time.
+
+
+601
+0:35:6,535 --> 0:35:9,144
+Time is a luxury
+we do not have, Captain,
+
+
+602
+0:35:9,144 --> 0:35:12,344
+and we may not have sufficient
+power for such an attempt.
+
+
+603
+0:35:12,344 --> 0:35:14,77
+Are you sure about this?
+
+
+604
+0:35:14,77 --> 0:35:16,484
+There are some variables
+in the readings.
+
+
+605
+0:35:16,484 --> 0:35:19,84
+The stronger possibility is that
+she will remain with the ship.
+
+
+606
+0:35:19,84 --> 0:35:22,767
+Still...
+
+
+607
+0:35:22,767 --> 0:35:24,685
+Thank you, Mr. Spock.
+
+
+608
+0:35:24,685 --> 0:35:28,506
+Should we inform Miss Sulu,
+or her father?
+
+
+609
+0:35:28,506 --> 0:35:31,6
+No... not yet.
+
+
+610
+0:35:31,6 --> 0:35:34,363
+But I expect you to do whatever
+you can to better her odds.
+
+
+611
+0:35:34,363 --> 0:35:35,279
+Of course.
+
+
+612
+0:35:35,279 --> 0:35:36,357
+For now...
+
+
+613
+0:35:36,357 --> 0:35:44,634
+is there anything we can do
+to make her more comfortable?
+
+
+614
+0:35:44,634 --> 0:35:47,767
+Are you still hanging around?
+
+
+615
+0:35:47,767 --> 0:35:50,254
+Don't you have
+anything better to do
+
+
+616
+0:35:50,254 --> 0:35:51,592
+than make fun of easy targets?
+
+
+617
+0:35:51,592 --> 0:35:54,12
+Well, we had a few moments
+before the implosion attempt.
+
+
+618
+0:35:54,12 --> 0:35:56,413
+I thought I'd drop by
+and give you a surprise.
+
+
+619
+0:35:56,413 --> 0:35:57,976
+A surprise?
+
+
+620
+0:35:57,976 --> 0:36:2,956
+Mr. Scott had some bored
+technicians he needed to occupy.
+
+
+621
+0:36:2,956 --> 0:36:27,677
+Would you care for a stroll?
+
+
+622
+0:36:27,677 --> 0:36:28,871
+What do you call this?
+
+
+623
+0:36:28,871 --> 0:36:31,692
+Deck 12-- it's not
+very imaginative.
+
+
+624
+0:36:31,692 --> 0:36:46,639
+It's perfect.
+
+
+625
+0:36:46,639 --> 0:36:49,46
+This.
+
+
+626
+0:36:49,46 --> 0:36:51,536
+What?
+
+
+627
+0:36:51,536 --> 0:36:56,434
+The best moment of my life.
+
+
+628
+0:36:56,434 --> 0:37:1,85
+Few people recognize it
+while it's happening.
+
+
+629
+0:37:1,85 --> 0:37:4,84
+All the better reason
+to notice it.
+
+
+630
+0:37:4,84 --> 0:37:16,518
+It's just the first of many.
+
+
+631
+0:37:16,518 --> 0:37:22,167
+It's a good look for you.
+
+
+632
+0:37:22,167 --> 0:37:26,963
+Uhura...
+
+
+633
+0:37:26,963 --> 0:37:30,545
+It's been forever.
+
+
+634
+0:37:30,545 --> 0:37:32,76
+My God...
+
+
+635
+0:37:32,76 --> 0:37:35,61
+What?
+
+
+636
+0:37:35,61 --> 0:37:39,185
+You're younger
+than my daughter.
+
+
+637
+0:37:39,185 --> 0:37:41,605
+Yeah, I heard about her.
+
+
+638
+0:37:41,605 --> 0:37:44,494
+She sounds wonderful.
+
+
+639
+0:37:44,494 --> 0:37:49,0
+She takes after her mother.
+
+
+640
+0:37:49,0 --> 0:37:54,3
+Uhura to the bridge.
+
+
+641
+0:37:54,3 --> 0:38:6,33
+Acknowledged.
+
+
+642
+0:38:6,33 --> 0:38:13,262
+We'll catch up
+later, okay?
+
+
+643
+0:38:13,262 --> 0:38:15,954
+Uhura.
+
+
+644
+0:38:15,954 --> 0:38:30,98
+Don't let it all go by.
+
+
+645
+0:38:30,98 --> 0:38:31,475
+If you've got
+your sea legs back,
+
+
+646
+0:38:31,475 --> 0:38:33,964
+you're free to go.
+
+
+647
+0:38:33,964 --> 0:38:43,35
+Thank you, Doctor.
+
+
+648
+0:38:43,35 --> 0:38:48,0
+Those aren't really necessary.
+
+
+649
+0:38:48,0 --> 0:39:16,167
+I know.
+
+
+650
+0:39:16,167 --> 0:39:18,4
+Bridge.
+
+
+651
+0:39:18,4 --> 0:39:21,401
+It's a turbolift.
+
+
+652
+0:39:21,401 --> 0:39:23,446
+It moves horizontally and
+vertically throughout the ship.
+
+
+653
+0:39:23,446 --> 0:39:28,234
+You command miracles
+and you don't even know it.
+
+
+654
+0:39:28,234 --> 0:39:35,434
+I'm starting to.
+
+
+655
+0:39:35,434 --> 0:39:40,99
+Alana!
+
+
+656
+0:39:40,99 --> 0:39:42,66
+Alana!
+
+
+657
+0:39:42,66 --> 0:39:44,501
+We had nothing like this
+on Caliban.
+
+
+658
+0:39:44,501 --> 0:39:47,52
+The name your parents
+gave that planet--
+
+
+659
+0:39:47,52 --> 0:39:49,64
+do you know where it's from?
+
+
+660
+0:39:49,64 --> 0:39:51,8
+My mother was in a production
+of The Tempest
+
+
+661
+0:39:51,8 --> 0:39:53,139
+when she was a girl.
+
+
+662
+0:39:53,139 --> 0:39:53,979
+She knew it by heart.
+
+
+663
+0:39:53,979 --> 0:39:56,781
+The sorcerer
+and his beautiful daughter,
+
+
+664
+0:39:56,781 --> 0:39:59,608
+marooned on an island
+until a ship arrives.
+
+
+665
+0:39:59,608 --> 0:40:2,135
+"A brave vessel,
+who had no doubt
+
+
+666
+0:40:2,135 --> 0:40:5,1
+some noble creatures in her..."
+
+
+667
+0:40:5,1 --> 0:40:7,67
+We'd perform it over and over.
+
+
+668
+0:40:7,67 --> 0:40:9,667
+With Sulu as Prospero...
+
+
+669
+0:40:9,667 --> 0:40:11,983
+and you as Miranda?
+
+
+670
+0:40:11,983 --> 0:40:17,176
+I preferred Ariel...
+who could fly.
+
+
+671
+0:40:17,176 --> 0:40:19,643
+And where would you
+like to go, Ariel?
+
+
+672
+0:40:19,643 --> 0:40:32,0
+Where would you take me, Jim?
+
+
+673
+0:40:32,0 --> 0:40:32,659
+Yes?
+
+
+674
+0:40:32,659 --> 0:40:36,693
+We're ready to initiate
+the implosion, Captain.
+
+
+675
+0:40:36,693 --> 0:40:38,394
+I'll be there momentarily.
+
+
+676
+0:40:38,394 --> 0:40:40,338
+Kirk out.
+
+
+677
+0:40:40,338 --> 0:40:45,567
+Another miracle required?
+
+
+678
+0:40:45,567 --> 0:40:49,226
+I'm afraid you'll have to return
+to the stasis room, for safety.
+
+
+679
+0:40:49,226 --> 0:40:51,608
+This device will
+beam you there.
+
+
+680
+0:40:51,608 --> 0:40:53,579
+Oh...
+
+
+681
+0:40:53,579 --> 0:40:59,937
+You'll see the bridge soon,
+I promise.
+
+
+682
+0:40:59,937 --> 0:41:15,972
+I'll hold you to that.
+
+
+683
+0:41:15,972 --> 0:41:17,721
+Where were you?
+
+
+684
+0:41:17,721 --> 0:41:20,389
+Jim arranged a tour.
+
+
+685
+0:41:20,389 --> 0:41:23,33
+"Jim"?
+
+
+686
+0:41:23,33 --> 0:41:30,564
+Are you jealous, Father?
+
+
+687
+0:41:30,564 --> 0:41:33,372
+Status, Mr. Spock.
+
+
+688
+0:41:33,372 --> 0:41:36,912
+Ready when you are, Captain.
+
+
+689
+0:41:36,912 --> 0:41:38,542
+This might be one
+of those rare times
+
+
+690
+0:41:38,542 --> 0:41:40,299
+when we actually get
+out of a tight spot
+
+
+691
+0:41:40,299 --> 0:41:42,2
+with some breathing room.
+
+
+692
+0:41:42,2 --> 0:41:46,216
+All decks,
+this is the captain speaking.
+
+
+693
+0:41:46,216 --> 0:41:48,943
+We're about to emit a
+plasma-antiplasma burst,
+
+
+694
+0:41:48,943 --> 0:41:50,277
+in an attempt to free the ship.
+
+
+695
+0:41:50,277 --> 0:41:54,132
+Brace yourselves.
+
+
+696
+0:41:54,132 --> 0:41:55,766
+At your discretion, Mr. DeSalle.
+
+
+697
+0:41:55,766 --> 0:41:56,866
+Aye, sir.
+
+
+698
+0:41:56,866 --> 0:41:59,232
+Detonation in
+five... four...
+
+
+699
+0:41:59,232 --> 0:42:1,92
+three... two...
+
+
+700
+0:42:1,92 --> 0:42:15,523
+one.
+
+
+701
+0:42:15,523 --> 0:42:21,47
+Alana!
+
+
+702
+0:42:21,47 --> 0:42:22,78
+Spock! What's happening?
+
+
+703
+0:42:22,78 --> 0:42:31,222
+Unknown, Captain.
+
+
+704
+0:42:31,222 --> 0:42:33,769
+Computer, analysis
+of implosion result.
+
+
+705
+0:42:33,769 --> 0:42:35,402
+Working.
+
+
+706
+0:42:35,402 --> 0:42:37,817
+Analysis indicates
+temporal discontinuity
+
+
+707
+0:42:37,817 --> 0:42:39,267
+caused by implosion.
+
+
+708
+0:42:39,267 --> 0:42:42,65
+My calculations predicted
+this possibility,
+
+
+709
+0:42:42,65 --> 0:42:44,265
+but not at this magnitude.
+
+
+710
+0:42:44,265 --> 0:42:46,306
+Just tell us what
+it means, Spock.
+
+
+711
+0:42:46,306 --> 0:42:48,621
+It means, Doctor,
+that we are still trapped,
+
+
+712
+0:42:48,621 --> 0:42:51,838
+but instead of hours,
+we now have only 32 minutes
+
+
+713
+0:42:51,838 --> 0:42:57,26
+before our shields collapse.
+
+
+714
+0:42:57,26 --> 0:43:6,559
+Sulu to McCoy! Emergency!
+
+
+715
+0:43:6,559 --> 0:43:8,44
+Captain's log, supplemental.
+
+
+716
+0:43:8,44 --> 0:43:11,388
+With drug therapy no longer
+an option to jog Sulu's memory,
+
+
+717
+0:43:11,388 --> 0:43:13,177
+and our time
+drastically reduced
+
+
+718
+0:43:13,177 --> 0:43:14,176
+by the implosion attempt,
+
+
+719
+0:43:14,176 --> 0:43:16,123
+our options are closing
+about us--
+
+
+720
+0:43:16,123 --> 0:43:27,548
+just as the field is closing
+about the Enterprise.
+
+
+721
+0:43:27,548 --> 0:43:29,4
+It's nothing, really.
+
+
+722
+0:43:29,4 --> 0:43:33,567
+I was just dizzy for a moment.
+
+
+723
+0:43:33,567 --> 0:43:35,0
+She's all right now,
+
+
+724
+0:43:35,0 --> 0:43:39,533
+near as I can determine.
+
+
+725
+0:43:39,533 --> 0:43:41,424
+Miss Sulu's
+molecular structure
+
+
+726
+0:43:41,424 --> 0:43:44,0
+is indeed linked to the
+exterior hyperfield.
+
+
+727
+0:43:44,0 --> 0:43:46,803
+If we fail to find a way
+to fully extricate her
+
+
+728
+0:43:46,803 --> 0:43:48,611
+before risking another
+implosion attempt...
+
+
+729
+0:43:48,611 --> 0:43:50,668
+Another implosion's
+not an option.
+
+
+730
+0:43:50,668 --> 0:43:52,516
+And without the
+navigational coordinates...
+
+
+731
+0:43:52,516 --> 0:43:54,24
+Gentlemen, I suggest
+
+
+732
+0:43:54,24 --> 0:43:55,496
+you come up with
+something original,
+
+
+733
+0:43:55,496 --> 0:43:57,665
+because we're not going
+to just count down the minutes
+
+
+734
+0:43:57,665 --> 0:43:59,33
+until this ship
+is destroyed.
+
+
+735
+0:43:59,33 --> 0:44:0,467
+Captain,
+
+
+736
+0:44:0,467 --> 0:44:4,2
+if Mr. Scott can lock in
+on the coordinates of Caliban,
+
+
+737
+0:44:4,2 --> 0:44:7,609
+it might be feasible to beam
+the entire ship's company there.
+
+
+738
+0:44:7,609 --> 0:44:9,83
+It wouldn't help the ship, but...
+
+
+739
+0:44:9,83 --> 0:44:11,702
+It would save the crew.
+
+
+740
+0:44:11,702 --> 0:44:15,467
+We'd be marooned there.
+
+
+741
+0:44:15,467 --> 0:44:17,105
+But alive.
+
+
+742
+0:44:17,105 --> 0:44:20,158
+And all in all,
+it's not that bad a life.
+
+
+743
+0:44:20,158 --> 0:44:21,976
+But if we lower the shields...
+
+
+744
+0:44:21,976 --> 0:44:24,109
+That might not
+be necessary,
+
+
+745
+0:44:24,109 --> 0:44:27,27
+given the higher
+dimensions involved.
+
+
+746
+0:44:27,27 --> 0:44:28,12
+Mr. Scott.
+
+
+747
+0:44:28,12 --> 0:44:31,4
+Aye, Captain.
+
+
+748
+0:44:31,4 --> 0:44:35,209
+Dr. McCoy, if I may examine
+the data on your tricorder...
+
+
+749
+0:44:35,209 --> 0:44:37,234
+Be my guest.
+
+
+750
+0:44:37,234 --> 0:44:39,369
+How are you feeling?
+
+
+751
+0:44:39,369 --> 0:44:43,434
+Like a fool.
+
+
+752
+0:44:43,434 --> 0:44:57,156
+So, tell me, back home, how are
+you set up for houseguests?
+
+
+753
+0:44:57,156 --> 0:44:58,251
+Kirk here.
+
+
+754
+0:44:58,251 --> 0:45:6,2
+Captain, can you get up here?
+
+
+755
+0:45:6,2 --> 0:45:7,956
+There's no way to duplicate
+the energy wave
+
+
+756
+0:45:7,956 --> 0:45:9,318
+that sent Sulu to Caliban.
+
+
+757
+0:45:9,318 --> 0:45:11,56
+It was a one-in-a-million
+freak accident.
+
+
+758
+0:45:11,56 --> 0:45:13,234
+None of us can
+beam there?
+
+
+759
+0:45:13,234 --> 0:45:15,3
+But I happened
+on something else.
+
+
+760
+0:45:15,3 --> 0:45:17,52
+Sulu's original
+transporter pattern.
+
+
+761
+0:45:17,52 --> 0:45:19,823
+The temporal field shift
+kept it intact.
+
+
+762
+0:45:19,823 --> 0:45:22,324
+Are you saying we might be
+able to reintegrate him?
+
+
+763
+0:45:22,324 --> 0:45:23,498
+As he was,
+
+
+764
+0:45:23,498 --> 0:45:25,321
+when we beamed him off
+the bird-of-prey.
+
+
+765
+0:45:25,321 --> 0:45:27,633
+It's possible--
+theoretically, at least.
+
+
+766
+0:45:27,633 --> 0:45:30,431
+25 minutes to shield failure.
+
+
+767
+0:45:30,431 --> 0:45:33,667
+Get him up here.
+
+
+768
+0:45:33,667 --> 0:45:36,831
+It should be possible to
+reverse the aging process
+
+
+769
+0:45:36,831 --> 0:45:39,205
+by passing your
+current incarnation
+
+
+770
+0:45:39,205 --> 0:45:40,167
+through the pattern buffer.
+
+
+771
+0:45:40,167 --> 0:45:43,845
+Restoring, in effect,
+your last saved state.
+
+
+772
+0:45:43,845 --> 0:45:47,233
+Yes, I see.
+
+
+773
+0:45:47,233 --> 0:45:49,2
+I don't understand.
+
+
+774
+0:45:49,2 --> 0:45:52,267
+You mean you'd be
+giving him back 30 years?
+
+
+775
+0:45:52,267 --> 0:45:59,534
+No, we'd be
+taking them away.
+
+
+776
+0:45:59,534 --> 0:46:2,527
+I'd revert to the man
+I was
+
+
+777
+0:46:2,527 --> 0:46:7,495
+before your mother
+and I were transported.
+
+
+778
+0:46:7,495 --> 0:46:9,334
+As far as I'd be concerned,
+
+
+779
+0:46:9,334 --> 0:46:17,501
+the life we spent there
+would never have happened.
+
+
+780
+0:46:17,501 --> 0:46:19,72
+But the Romulan
+navigational data
+
+
+781
+0:46:19,72 --> 0:46:21,1
+will be fresh
+in your mind,
+
+
+782
+0:46:21,1 --> 0:46:23,968
+and you should be able to use
+it to pilot us to safety.
+
+
+783
+0:46:23,968 --> 0:46:28,234
+The memories would be gone.
+
+
+784
+0:46:28,234 --> 0:46:30,397
+I wouldn't know you.
+
+
+785
+0:46:30,397 --> 0:46:35,701
+20 minutes to shield failure.
+
+
+786
+0:46:35,701 --> 0:46:37,968
+You can't get rid of me
+that easily.
+
+
+787
+0:46:37,968 --> 0:46:39,831
+I'd be here to remind you
+
+
+788
+0:46:39,831 --> 0:46:48,935
+of every stubborn, mule-headed
+thing you ever did.
+
+
+789
+0:46:48,935 --> 0:46:52,208
+If it's the only way to...
+
+
+790
+0:46:52,208 --> 0:47:0,488
+Captain.
+
+
+791
+0:47:0,488 --> 0:47:2,895
+I'm sorry, Jim.
+
+
+792
+0:47:2,895 --> 0:47:6,26
+Alana?
+
+
+793
+0:47:6,26 --> 0:47:8,67
+I thought the only danger
+was the implosion.
+
+
+794
+0:47:8,67 --> 0:47:11,194
+I've been reviewing
+Dr. McCoy's medical data,
+
+
+795
+0:47:11,194 --> 0:47:13,177
+along with both
+my own scans
+
+
+796
+0:47:13,177 --> 0:47:18,267
+of Miss Sulu
+and the exterior hyperfield.
+
+
+797
+0:47:18,267 --> 0:47:21,1
+They'd best be getting
+a move on.
+
+
+798
+0:47:21,1 --> 0:47:23,468
+I've no mind to be trading
+my uniform
+
+
+799
+0:47:23,468 --> 0:47:27,3
+for a white robe
+at this late date.
+
+
+800
+0:47:27,3 --> 0:47:29,496
+I checked her
+medical readings.
+
+
+801
+0:47:29,496 --> 0:47:32,133
+There's no doubt, Jim.
+
+
+802
+0:47:32,133 --> 0:47:38,1
+Do we tell her?
+
+
+803
+0:47:38,1 --> 0:47:48,67
+We tell them both.
+
+
+804
+0:47:48,67 --> 0:47:50,282
+Captain, what is it?
+
+
+805
+0:47:50,282 --> 0:47:53,248
+Your atoms,
+your molecules,
+
+
+806
+0:47:53,248 --> 0:47:54,767
+everything that is you--
+
+
+807
+0:47:54,767 --> 0:47:56,631
+is still tied to Caliban
+through the hyperfield.
+
+
+808
+0:47:56,631 --> 0:48:1,33
+It's why you blacked out.
+
+
+809
+0:48:1,33 --> 0:48:4,467
+And should we succeed
+shortly in freeing ourselves,
+
+
+810
+0:48:4,467 --> 0:48:6,761
+the interference caused
+by our warp engines
+
+
+811
+0:48:6,761 --> 0:48:10,67
+will result in the field
+collapsing...
+
+
+812
+0:48:10,67 --> 0:48:16,133
+...destroying everything
+still linked to it.
+
+
+813
+0:48:16,133 --> 0:48:21,59
+My God, do you know
+what you're saying?!
+
+
+814
+0:48:21,59 --> 0:48:23,51
+Yes.
+
+
+815
+0:48:23,51 --> 0:48:26,574
+You've got to beam her fully
+onto the Enterprise!
+
+
+816
+0:48:26,574 --> 0:48:28,135
+Now!
+
+
+817
+0:48:28,135 --> 0:48:31,0
+Not possible.
+
+
+818
+0:48:31,0 --> 0:48:39,501
+She is one with the universe
+that spawned her.
+
+
+819
+0:48:39,501 --> 0:48:44,401
+Then, can you beam me back?
+
+
+820
+0:48:44,401 --> 0:48:47,133
+No.
+
+
+821
+0:48:47,133 --> 0:48:50,2
+But were the ship to fail
+to extricate itself,
+
+
+822
+0:48:50,2 --> 0:48:53,208
+there is a 92.3% probability
+
+
+823
+0:48:53,208 --> 0:48:54,634
+the field would survive,
+
+
+824
+0:48:54,634 --> 0:48:57,767
+and you would be returned
+to Caliban.
+
+
+825
+0:48:57,767 --> 0:48:59,601
+She could live.
+
+
+826
+0:48:59,601 --> 0:49:7,567
+But 430 others will die.
+
+
+827
+0:49:7,567 --> 0:49:13,51
+There has to be another way.
+
+
+828
+0:49:13,51 --> 0:49:17,734
+I can't tell you what to do.
+
+
+829
+0:49:17,734 --> 0:49:20,583
+But you alone know
+the navigational coordinates,
+
+
+830
+0:49:20,583 --> 0:49:28,1
+and have the piloting skill
+necessary to save the ship.
+
+
+831
+0:49:28,1 --> 0:49:32,734
+I don't care who dies--
+she lives!
+
+
+832
+0:49:32,734 --> 0:49:35,541
+Not this time, Mr. Spock.
+
+
+833
+0:49:35,541 --> 0:49:37,233
+Father...
+
+
+834
+0:49:37,233 --> 0:49:41,2
+I can't let you do this.
+
+
+835
+0:49:41,2 --> 0:49:43,243
+Alana...
+
+
+836
+0:49:43,243 --> 0:49:46,534
+Even if Mr. Spock is right,
+and I survive--
+
+
+837
+0:49:46,534 --> 0:49:53,601
+what kind of life would that be?
+
+
+838
+0:49:53,601 --> 0:49:58,3
+How can I go back
+to that empty world...
+
+
+839
+0:49:58,3 --> 0:50:2,2
+How can I live,
+knowing that you,
+
+
+840
+0:50:2,2 --> 0:50:11,1
+or that all of you,
+died because of me?
+
+
+841
+0:50:11,1 --> 0:50:15,822
+I don't know
+if there's an afterlife,
+
+
+842
+0:50:15,822 --> 0:50:19,834
+I don't know where
+we go when we die...
+
+
+843
+0:50:19,834 --> 0:50:24,167
+...but if, Father...
+
+
+844
+0:50:24,167 --> 0:50:29,133
+...it's not how long we live,
+
+
+845
+0:50:29,133 --> 0:50:34,801
+it's how we live that matters...
+
+
+846
+0:50:34,801 --> 0:50:54,655
+...let my life mean something.
+
+
+847
+0:50:54,655 --> 0:51:3,338
+Do it, damn you!
+
+
+848
+0:51:3,338 --> 0:51:10,2
+Energize.
+
+
+849
+0:51:10,2 --> 0:51:17,247
+"Our revels... now are ended.
+
+
+850
+0:51:17,247 --> 0:51:20,381
+"And these our actors,
+
+
+851
+0:51:20,381 --> 0:51:22,634
+"as I foretold you,
+
+
+852
+0:51:22,634 --> 0:51:27,68
+"were all spirits...
+
+
+853
+0:51:27,68 --> 0:51:31,834
+"that are melted into air...
+
+
+854
+0:51:31,834 --> 0:51:38,701
+"into thin air...
+
+
+855
+0:51:38,701 --> 0:51:44,4
+We are such stuff..."
+
+
+856
+0:51:44,4 --> 0:52:21,434
+"As dreams are made on..."
+
+
+857
+0:52:21,434 --> 0:52:27,167
+Ten minutes to shield failure.
+
+
+858
+0:52:27,167 --> 0:52:29,251
+He's in massive shock.
+
+
+859
+0:52:29,251 --> 0:52:30,327
+We need him on the bridge.
+
+
+860
+0:52:30,327 --> 0:52:31,372
+What can you give him?
+
+
+861
+0:52:31,372 --> 0:52:33,45
+Two cc's of
+cordrazine.
+
+
+862
+0:52:33,45 --> 0:52:35,346
+Any more will kill him.
+
+
+863
+0:52:35,346 --> 0:52:42,139
+Get him to his
+station-- fast.
+
+
+864
+0:52:42,139 --> 0:52:45,684
+Jim.
+
+
+865
+0:52:45,684 --> 0:52:57,4
+In a minute.
+
+
+866
+0:52:57,4 --> 0:53:1,454
+My father told me
+you were impressive.
+
+
+867
+0:53:1,454 --> 0:53:3,458
+Alana, I...
+
+
+868
+0:53:3,458 --> 0:53:6,801
+Your ship needs you.
+
+
+869
+0:53:6,801 --> 0:53:17,734
+Is there anything
+that you'd like?
+
+
+870
+0:53:17,734 --> 0:53:28,834
+Two minutes to shield failure.
+
+
+871
+0:53:28,834 --> 0:53:36,139
+How young he is.
+
+
+872
+0:53:36,139 --> 0:53:41,296
+How handsome.
+
+
+873
+0:53:41,296 --> 0:53:51,977
+Hyperdimensional
+coordinates entered.
+
+
+874
+0:53:51,977 --> 0:53:56,267
+Artificial gravity compromised.
+
+
+875
+0:53:56,267 --> 0:54:0,567
+Life support system's
+on reserve power.
+
+
+876
+0:54:0,567 --> 0:54:6,24
+Acknowledged.
+
+
+877
+0:54:6,24 --> 0:54:43,2
+One minute to shield failure.
+
+
+878
+0:54:43,2 --> 0:54:46,115
+Ten seconds to shield failure.
+
+
+879
+0:54:46,115 --> 0:54:47,334
+Nine...
+
+
+880
+0:54:47,334 --> 0:54:48,834
+Eight...
+
+
+881
+0:54:48,834 --> 0:54:50,31
+Seven...
+
+
+882
+0:54:50,31 --> 0:54:51,613
+Six...
+
+
+883
+0:54:51,613 --> 0:55:13,173
+Warp drive engaged. Hold on!
+
+
+884
+0:55:13,173 --> 0:55:28,743
+We're free!
+
+
+885
+0:55:28,743 --> 0:55:40,433
+Free.
+
+
+886
+0:55:40,433 --> 0:55:47,67
+As you were.
+
+
+887
+0:55:47,67 --> 0:55:49,733
+How are you feeling?
+
+
+888
+0:55:49,733 --> 0:55:53,9
+A little rough around the edges.
+
+
+889
+0:55:53,9 --> 0:55:56,367
+Captain...
+
+
+890
+0:55:56,367 --> 0:55:59,7
+I'm told I attacked you,
+
+
+891
+0:55:59,7 --> 0:56:3,67
+tried to harm you.
+
+
+892
+0:56:3,67 --> 0:56:15,9
+There were extenuating
+circumstances.
+
+
+893
+0:56:15,9 --> 0:56:21,401
+I've watched this.
+
+
+894
+0:56:21,401 --> 0:56:25,833
+It's like it's happening
+to another person.
+
+
+895
+0:56:25,833 --> 0:56:29,767
+Alana...
+
+
+896
+0:56:29,767 --> 0:56:32,7
+My daughter.
+
+
+897
+0:56:32,7 --> 0:56:37,67
+The life I had...
+
+
+898
+0:56:37,67 --> 0:56:41,401
+There's nothing.
+
+
+899
+0:56:41,401 --> 0:56:46,401
+I'm sorry for your loss.
+
+
+900
+0:56:46,401 --> 0:56:51,267
+Did you get to know her?
+
+
+901
+0:56:51,267 --> 0:56:54,401
+Yes.
+
+
+902
+0:56:54,401 --> 0:56:58,67
+She was...
+
+
+903
+0:56:58,67 --> 0:57:3,7
+She was unique.
+
+
+904
+0:57:3,7 --> 0:57:7,301
+She lived her life fully
+in the time she had...
+
+
+905
+0:57:7,301 --> 0:57:12,767
+and gave it up for love.
+
+
+906
+0:57:12,767 --> 0:57:16,367
+What better epitaph...
+
+
+907
+0:57:16,367 --> 0:57:25,367
+could anyone ask for?
+
+
+908
+0:57:25,367 --> 0:57:29,767
+Oh, God.
+
+
+909
+0:57:29,767 --> 0:57:32,767
+If I could only remember.
+
+
+910
+0:57:32,767 --> 0:57:34,539
+Mr. Sulu,
+
+
+911
+0:57:34,539 --> 0:57:38,523
+when I attempted to extricate
+the data from your mind,
+
+
+912
+0:57:38,523 --> 0:57:40,938
+when our thoughts were joined...
+
+
+913
+0:57:40,938 --> 0:57:45,1
+I lived those years with you.
+
+
+914
+0:57:45,1 --> 0:57:48,34
+What are you saying?
+
+
+915
+0:57:48,34 --> 0:57:51,367
+They can be yours again.
+
+
+916
+0:57:51,367 --> 0:57:53,256
+But with the memories...
+
+
+917
+0:57:53,256 --> 0:58:6,727
+would come the grief.
+
+
+918
+0:58:6,727 --> 0:58:22,7
+Very well.
+
+
+919
+0:58:22,7 --> 0:58:34,301
+Alana?
+
+
+920
+0:58:34,301 --> 0:58:36,0
+Alana...
+
+
+921
+0:58:36,0 --> 0:58:38,767
+Captain?
+
+
+922
+0:58:38,767 --> 0:58:40,234
+Captain Sulu?
+
+
+923
+0:58:40,234 --> 0:58:42,393
+Yes, Ensign?
+
+
+924
+0:58:42,393 --> 0:58:45,37
+Your guests have disembarked
+from the shuttle, Captain.
+
+
+925
+0:58:45,37 --> 0:58:48,257
+Escort them to my ready room.
+
+
+926
+0:58:48,257 --> 0:58:49,938
+Aye, sir.
+
+
+927
+0:58:49,938 --> 0:58:52,888
+Rand, you have the Conn.
+
+
+928
+0:58:52,888 --> 0:58:55,733
+Aye, Captain.
+
+
+929
+0:58:55,733 --> 0:58:57,17
+Captain?
+
+
+930
+0:58:57,17 --> 0:58:59,414
+Yes?
+
+
+931
+0:58:59,414 --> 0:59:16,61
+You're a very lucky man.
+
+
+932
+0:59:16,61 --> 0:59:22,234
+"We are such stuff
+as dreams are made on..."
+
+
+933
+0:59:22,234 --> 0:59:29,401
+"And our little life
+is rounded with a sleep..."
+
+
+934
+0:59:29,401 --> 0:59:32,367
+Talking to
+yourself, Father?
+
+
+935
+0:59:32,367 --> 0:59:36,234
+I'd better keep
+a closer eye on you.
+
+
+936
+0:59:36,234 --> 0:59:39,767
+Demora.
+
+
+937
+0:59:39,767 --> 0:59:52,134
+Say hello to your granddaughter.
+
+
+938
+0:59:52,134 --> 0:59:58,367
+So beautiful.
+
+
+939
+0:59:58,367 --> 1:0:4,34
+The whole universe
+is ahead of you.
+
+
+940
+1:0:4,34 --> 1:0:6,343
+And I did as you asked--
+
+
+941
+1:0:6,343 --> 1:0:9,301
+with her name.
+
+
+942
+1:0:9,301 --> 1:0:14,833
+But... I don't understand.
+
+
+943
+1:0:14,833 --> 1:0:21,167
+Who's Alana?
+
+
+944
+1:0:21,167 --> 1:0:52,904
+You had a sister.
+
+
+945
+1:0:52,904 --> 1:0:58,878
+Subtitles: Tom Collins, Teri Davidson,
+
+
+946
+1:0:58,878 --> 1:1:2,127
+Kevin King and Bill Wooton.
+
+
+947
+1:1:2,127 --> 1:1:5,755
+Technical coordination by: Mike Savage
+
+
+948
+1:1:5,755 --> 1:1:10,222
+Editor: Kevin King
+
+
+949
+1:1:10,222 --> 1:3:10,222
+Timing: Peter Walker
+
+

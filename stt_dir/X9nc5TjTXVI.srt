@@ -1,0 +1,445 @@
+1
+0:0:3,52 --> 0:0:6,9
+In many cases you start with the innovation, but it's not enough,
+
+
+2
+0:0:6,9 --> 0:0:8,4
+you have to build something on top of that
+
+
+3
+0:0:8,4 --> 0:0:10,7
+and that typically is the insight.
+
+
+4
+0:0:10,7 --> 0:0:14,43
+That insight is how that innovation actually takes root,
+
+
+5
+0:0:14,43 --> 0:0:16,36
+how it has impact, why it's meaningful.
+
+
+6
+0:0:16,36 --> 0:0:18,73
+And I'd argue the type of entrepreneur that starts
+
+
+7
+0:0:18,73 --> 0:0:21,32
+with the innovation usually is what I call an
+
+
+8
+0:0:21,32 --> 0:0:23,2
+"innovation-based entrepreneur".
+
+
+9
+0:0:23,2 --> 0:0:25,31
+But there is another typology of entrepreneurship,
+
+
+10
+0:0:25,31 --> 0:0:27,49
+as a matter of fact that starts in a very different way.
+
+
+11
+0:0:27,49 --> 0:0:29,5
+How many of you would start this way,
+
+
+12
+0:0:29,5 --> 0:0:32,92
+start with the idea and then start to find a market for it?
+
+
+13
+0:0:32,92 --> 0:0:35,18
+And maybe, okay, a lot of you are raising your hands.
+
+
+14
+0:0:35,18 --> 0:0:38,24
+I think that's a typical modality, right?
+
+
+15
+0:0:38,24 --> 0:0:39,45
+Ideas are inherently valuable,
+
+
+16
+0:0:39,45 --> 0:0:42,12
+but ideas that are applied are invaluable.
+
+
+17
+0:0:42,12 --> 0:0:44,38
+I would suggest that ideas that are left on your
+
+
+18
+0:0:44,38 --> 0:0:47,47
+list that are not acted on are valueless.
+
+
+19
+0:0:47,47 --> 0:0:50,1
+These are ideas that need to be released,
+
+
+20
+0:0:50,1 --> 0:0:53,83
+make them available to society, don't leave them behind.
+
+
+21
+0:0:53,83 --> 0:0:56,31
+I can't tell you and I bet some of you have been in that
+
+
+22
+0:0:56,31 --> 0:0:59,14
+situation where some of the best ides you've had,
+
+
+23
+0:0:59,14 --> 0:1:2,91
+you see someone else implement, you've that experience, right?
+
+
+24
+0:1:2,91 --> 0:1:5,3
+You just let the world just pass you on by because
+
+
+25
+0:1:5,3 --> 0:1:7,1
+you hadn't had the time to make it happen.
+
+
+26
+0:1:7,1 --> 0:1:9,66
+Think about that leverage, the individuals who are doing two,
+
+
+27
+0:1:9,66 --> 0:1:12,69
+three, four ideas at a time or working with teams of
+
+
+28
+0:1:12,69 --> 0:1:15,81
+people to actually make these concepts available.
+
+
+29
+0:1:15,81 --> 0:1:19,43
+You know, emulate them. Make that happen.
+
+
+30
+0:1:19,43 --> 0:1:21,26
+The second piece is a game-changing solution.
+
+
+31
+0:1:21,26 --> 0:1:23,2
+This is an ingredient that's really critical
+
+
+32
+0:1:23,2 --> 0:1:26,5
+to high-performance entrepreneurship. What do I mean by that?
+
+
+33
+0:1:26,5 --> 0:1:29,31
+Ultimately, as you look and this is a great illustration of all the things
+
+
+34
+0:1:29,31 --> 0:1:32,35
+that are happening in the software and the web environment here,
+
+
+35
+0:1:32,35 --> 0:1:33,64
+in the social media environment,
+
+
+36
+0:1:33,64 --> 0:1:35,24
+and that it occurs to me that it's almost
+
+
+37
+0:1:35,24 --> 0:1:39,45
+a daunting set of solutions, right?
+
+
+38
+0:1:39,45 --> 0:1:42,57
+Which solutions are going to actually make their way through?
+
+
+39
+0:1:42,57 --> 0:1:44,84
+You know, many of these started with, just like you started,
+
+
+40
+0:1:44,84 --> 0:1:47,22
+an idea, but many of these solutions need
+
+
+41
+0:1:47,22 --> 0:1:49,69
+to find their impact in the market.
+
+
+42
+0:1:49,69 --> 0:1:51,51
+Only a few will make it through, right?
+
+
+43
+0:1:51,51 --> 0:1:53,72
+There are certain applications,
+
+
+44
+0:1:53,72 --> 0:1:57,66
+for instance, certain concepts that end up becoming platforms
+
+
+45
+0:1:57,66 --> 0:2:1,64
+and then becoming kind of central to our lifestyles, right?
+
+
+46
+0:2:1,64 --> 0:2:3,58
+It occurs to me when you look at your smartphone,
+
+
+47
+0:2:3,58 --> 0:2:7,12
+for instance, how many of you have over 100 applications
+
+
+48
+0:2:7,12 --> 0:2:9,21
+on your - apps on your iPhone now?
+
+
+49
+0:2:9,21 --> 0:2:11,96
+Can I ask? More than 100 apps? Pretty common.
+
+
+50
+0:2:11,96 --> 0:2:14,37
+How many do you use on a typical day?
+
+
+51
+0:2:14,37 --> 0:2:17,55
+One, two, three, right, am I right?
+
+
+52
+0:2:17,55 --> 0:2:19,16
+How many of you are developing apps, I'm just curious?
+
+
+53
+0:2:19,16 --> 0:2:23,1
+How many of you are developing apps as we speak? Okay.
+
+
+54
+0:2:23,1 --> 0:2:26,3
+What's it going to take to make yours a game-changing app?
+
+
+55
+0:2:26,3 --> 0:2:30,68
+Think about it. What is it going to take to become a game-changer?
+
+
+56
+0:2:30,68 --> 0:2:32,76
+That is what it's going to take.
+
+
+57
+0:2:32,76 --> 0:2:35,79
+You've got to dial-in the notion of need,
+
+
+58
+0:2:35,79 --> 0:2:38,27
+how ultimately is that need being satisfied,
+
+
+59
+0:2:38,27 --> 0:2:43,0
+how is that pain ultimately being mitigated?
+
+
+60
+0:2:43,0 --> 0:2:44,89
+I would argue that the intersection of opportunity
+
+
+61
+0:2:44,89 --> 0:2:47,1
+and need is where the entrepreneur needs to live.
+
+
+62
+0:2:47,1 --> 0:2:51,0
+Opportunity is the most exciting type of platform
+
+
+63
+0:2:51,0 --> 0:2:52,69
+an entrepreneur lives in their life,
+
+
+64
+0:2:52,69 --> 0:2:58,16
+but need ultimately crystallizes it. That's the acid test.
+
+
+65
+0:2:58,16 --> 0:3:0,2
+I would argue that there's a class of entrepreneurs,
+
+
+66
+0:3:0,2 --> 0:3:3,26
+you might be surprised by this, they don't start with an idea at all,
+
+
+67
+0:3:3,26 --> 0:3:5,32
+they start maybe with the market try to understand
+
+
+68
+0:3:5,32 --> 0:3:7,87
+what the problems are that we all face.
+
+
+69
+0:3:7,87 --> 0:3:10,61
+As they're reading the blogs or as they're going through
+
+
+70
+0:3:10,61 --> 0:3:12,57
+the web or as they're reading the newspaper,
+
+
+71
+0:3:12,57 --> 0:3:15,64
+believe it or not, in the morning, they actually see compelling need.
+
+
+72
+0:3:15,64 --> 0:3:19,31
+And on top of that, they define a real customer in their mind.
+
+
+73
+0:3:19,31 --> 0:3:22,45
+They see a customer, I call that the beachhead.
+
+
+74
+0:3:22,45 --> 0:3:25,75
+That need is critical. And I would argue that kind of entrepreneur
+
+
+75
+0:3:25,75 --> 0:3:27,23
+is a marketplace entrepreneur.
+
+
+76
+0:3:27,23 --> 0:3:28,76
+They don't start with the innovation,
+
+
+77
+0:3:28,76 --> 0:3:30,79
+they start with the problem and then they
+
+
+78
+0:3:30,79 --> 0:3:33,3
+acquire innovation to solve the problem.
+
+
+79
+0:3:33,3 --> 0:3:36,94
+These are conjoined and they match.
+
+
+80
+0:3:36,94 --> 0:3:39,33
+So, the market is my wisest teacher.
+
+
+81
+0:3:39,33 --> 0:3:42,34
+Honestly, the market will tell you whether or not your idea is going
+
+
+82
+0:3:42,34 --> 0:3:45,64
+to gain relevance because people will walk with their feet.
+
+
+83
+0:3:45,64 --> 0:3:48,61
+The market is a beautiful crystallizing test,
+
+
+84
+0:3:48,61 --> 0:3:50,8
+launch and learns where it's better than learn and launch,
+
+
+85
+0:3:50,8 --> 0:3:52,3
+you know, I saw that Steve Blank was here,
+
+
+86
+0:3:52,3 --> 0:3:54,54
+for instance, absolutely true,
+
+
+87
+0:3:54,54 --> 0:3:57,35
+they're bringing the market into the equation much earlier.
+
+
+88
+0:3:57,35 --> 0:3:59,17
+We'll hope it'd test your ideas to see if
+
+
+89
+0:3:59,17 --> 0:5:59,17
+they actually will make their way through.
+
+

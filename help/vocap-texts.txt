@@ -1,0 +1,51 @@
+Welcome!
+
+This is Vocap, Youtube subtitle search engine.
+
+If you are here for the first time, you can read through some help available in the menu below. Or just type some word in the text box and see the results.
+
+
+
+
+
+
+How to use Vocap
+
+1. Type a word into search text box and hit Enter or click on the Search button.
+   The search fully support only single word search for now, more complex search is somehow supported, but there's a lot of work to do..
+
+2. If the word has been found, you will see the titles of matched videos with the lines of captions containing the word. You can then click on the Play link at the end of each caption line to play this part in the YouTube player
+
+3. That's it. :)
+
+
+
+
+What is it good for?
+
+The original idea was to improve vocabulary learning. It is well known that the more senses you engage the more words you remember. So if you see (and hear) the real usage of the word, you will remember much more words and moreover you will be more likely able to use it in real situation. 
+
+But feel free to use it for any other purpose. If you do so, I will be happy if you let me know what you use it for, among athers to make the Vocap easier to use for your way of use.
+
+
+
+
+About
+
+This is still very early version, no functions or availability guaranteed. 
+Note: The quality of the search results strongly depends on the quality of the available YouTube videos. The videos which Vocap searches in was found and added manually, the list of the videos is available in menu at the bootom of the page. 
+
+Date of last update: 2013-04-06
+
+If you...
+... want to add some YouTube video into Vocap search
+... hate something about Vocap
+... would be happy if any feature was added to Vocap
+... want to help with Vocap development
+... found Vocap kind of useful
+... found Vocap absolutely useless
+...then I will be happy to hear about it: josecan987!gmail.com
+
+
+
+

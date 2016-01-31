@@ -1,0 +1,561 @@
+###1 TRAVIS: Now on "Rocket City Rednecks"...
+###3 We answer the call to build a new kind of drone
+###5 for the U.S. military.
+###7 Don't try. Do it.
+###8 But when a military expert comes to check it out...
+###11 MAN: Rockets and guns, huh? TRAVIS: Rockets and guns.
+###13 Will it be "Sweet Drone Alabama"?
+###16 Oh!
+###17 Or will our weaponized aircraft fail to make the grade?
+###20 Oh, no! Oh, no! Crap!
+###24 I'm Travis Taylor.
+###26 I'm a rocket scientist in the space and defense industry
+###28 here in my hometown of Huntsville, Alabama,
+###31 where my daddy helped build the rockets
+###32 that sent us to the moon.
+###34 DADDY: Have y'all been drinking rocket fuel again?
+###37 TRAVIS: Sometimes big science moves too slow for me,
+###40 so come the weekend, I round up my best friend Rog,
+###44 my nephew Michael, and my buddy Pete
+###46 to tackle important problems
+###48 with a little down-home ingenuity.
+###50 ROG: Damn it, boy!
+###55 TRAVIS: Right on.
+###56 Hey, is there any more beers in the cooler?
+###59 TRAVIS: The U.S. military's
+###61 been taking out all kinds of enemy targets
+###63 with the help of combat drones.
+###65 And this weekend, we're going to join them
+###67 in creating the next generation of drone technology--
+###70 ones that don't cost millions of dollars to make.
+###73 I told all the guys to bring anything
+###75 that looks like it's a remote control vehicle,
+###77 electronic airplanes, helicopters, whatever,
+###79 lightweight construction material.
+###81 PETE: We don't need this.
+###82 ROG: Why we dragging all this crap out for?
+###85 TRAVIS: What we're gonna do is we're gonna build a UAV drone.
+###89 The American military is looking to make
+###91 a small unmanned aerial vehicle, or UAV,
+###95 that can be carried by a single soldier out in the field.
+###98 In fact, the Defense Advanced Research Projects Agency,
+###102 or DARPA,
+###103 has issued a challenge to citizen scientists
+###105 to build a drone that can do three things.
+###107 One, fly a couple miles.
+###109 Two, send back video.
+###111 And three, fit into a backpack
+###113 so a single soldier can carry it.
+###116 Let's say this soldier gets into trouble,
+###119 so he pulls his UAV out of his backpack,
+###120 tosses it up, it flies up over the trees
+###122 and looks and finds where the bad guys are.
+###124 They give him either an escape route or an attack route.
+###127 MICHAEL: My dad's in the military.
+###129 I'd love for him to have something like this.
+###131 So this is a real important build to me,
+###132 and I think I can contribute a lot to it.
+###135 TRAVIS: People are used to drones
+###136 that look and fly like airplanes,
+###138 but I want ours to take off vertically,
+###140 so we're gonna make a helicopter drone.
+###144 We're gonna use remote-control helicopter motors for lift,
+###147 and below them we'll mount a video camera.
+###150 And even though DARPA
+###152 isn't calling for their portable drones to have weapons,
+###154 we're gonna add rockets and a gun
+###157 that can be fired remotely.
+###160 For our first test,
+###161 we've already got a gun hooked up to a couple motors
+###164 from a remote control helicopter.
+###166 We're gonna see if it can get off the ground
+###169 and if we can fire off of some rounds
+###170 using this really cool firing system
+###172 that Michael designed.
+###175 When we push a joystick on the RC controller,
+###178 a small motor, also known as a servo, will rotate,
+###181 driving an armature into the trigger
+###183 like a plastic finger...
+###185 and bang!
+###186 The enemy won't know what hit 'em.
+###189 We're about to take it out in the backyard
+###191 and see if we can fly this thing with two motors
+###194 and fire this paintball gun with it.
+###197 ROG: How cool is that?
+###198 We just made ourselves a flying gun.
+###201 I bet we can take that thing duck hunting.
+###204 PETE: We loaded it up with plenty of ammo,
+###206 and Mr. Taylor made us a nice target to shoot at.
+###210 TRAVIS: Here we go, We're gonna bring the motors up.
+###214 We're coming on up.
+###215 Yeah, there we go. Are we getting any lift?
+###217 You feel like it's pulling out of your hand?
+###218 MICHAEL: It's pulling. Just not enough.
+###220 TRAVIS: Careful with it now. All the way, all the way.
+###223 Going full throttle.
+###224 MICHAEL: Full throttle it. ROG: Stay with it.
+###226 Michael: Is that wide open?
+###228 TRAVIS: It's wide open. It ain't gonna lift it. Crap!
+###230 Yeah, I thought it would have lifted it, man.
+###232 PETE: Maybe those batteries--
+###233 TRAVIS: That gun's just a lot heavier,
+###235 and the paintballs added more weight.
+###236 That's a lot of weight
+###238 'cause that's all liquid in them paintballs.
+###239 PETE: It's obvious we're gonna need more motors
+###241 to lift all the payload on our weaponized drone.
+###243 But before we work on that problem,
+###245 we're gonna go ahead and see if our remote trigger works.
+###247 MICHAEL: Gun's hot. TRAVIS: Alright, here we go.
+###249 Gun's hot, ready to fire it in three, two, one.
+###253 MICHAEL: When they hit that remote trigger
+###255 on the controller,
+###257 that plastic finger should rotate and fire the gun.
+###262 TRAVIS: Crap!
+###264 DADDY: Now, I like to see things go off
+###266 when you pull the trigger.
+###267 MICHAEL: You ain't got nothing. TRAVIS: Crap.
+###269 DADDY: I'm just frustrated.
+###270 The motors didn't work, and neither did the trigger.
+###273 We got our work cut out for us on this one.
+###275 TRAVIS: One complete motor...
+###278 One of the things we learned from this test
+###280 is we need to know exactly how much weight each motor can lift,
+###284 because we want our drone to carry not just a gun,
+###287 but a camera and a whole bunch of rockets.
+###289 MICHAEL: What you think about that?
+###291 DADDY: Hey, that's neat.
+###292 MICHAEL: We didn't know how to measure
+###293 how much weight the motor could lift,
+###295 but then Papaw had an idea.
+###297 DADDY: Why not just use my old fish scales?
+###301 TRAVIS: Everybody get your safety glasses on.
+###306 All right, so what we're gonna do with this
+###308 is measure the lift of this engine, all right,
+###312 by looking at the scale right there
+###314 and see how much thrust we're getting out of it.
+###315 Y'all be careful because the blades are sharp.
+###318 They'll cut your finger off in a heartbeat.
+###320 All right, here we go.
+###324 [motor revs]
+###328 TRAVIS: That's good. That's good.
+###331 How much was that? MICHAEL: Five pounds.
+###335 TRAVIS: So if one motor can lift five pounds,
+###338 then four can lift twenty.
+###339 That ought to be enough, so that's the plan.
+###342 We're gonna build a four-propeller
+###344 helicopter drone.
+###346 We're gonna put our propellers on a frame,
+###348 and we'll hang the camera and the weapons from that.
+###352 I want to get this thing done today
+###354 or first thing in the morning
+###356 'cause a buddy of mine that's a UAV expert
+###358 over at University of Alabama in Huntsville
+###360 told me he'd come over here tomorrow about 2:00
+###363 to see our solution.
+###367 Dr. Brian Landrum has been working with the army
+###369 and on UAVs for years.
+###371 He's written dozens of scientific papers
+###373 and analyzed UAV designs for the military.
+###376 If we can impress him with our drone,
+###378 I think we can get it seen by DARPA.
+###380 ROG: He's got this guy coming over here tomorrow,
+###382 and we've got tons of stuff to figure out.
+###385 And I don't see how we can be half done by then.
+###387 TRAVIS: You and Pete figure out why that gun didn't fire
+###391 and figure out what we gotta do to do four motors at once.
+###394 If we're gonna have four motors on this thing,
+###396 then we're gonna need something to attach them to.
+###398 So I sent Rog out to the hardware store
+###400 to find us some kind of lightweight frame.
+###407 ROG: Wait a minute now.
+###413 ROG: When I was driving by, I saw at my buddy's house,
+###418 his wife was out in the yard,
+###419 and his little girl was doing the hula-hoop.
+###421 And I got an idea.
+###425 We ain't gonna have to build a frame.
+###427 A hula-hoop's already made like that, you know.
+###432 So I did a little bartering,
+###434 and I traded my hat for the hula-hoop.
+###436 And I think I got a pretty fair deal.
+###438 PETE: I've got them ready.
+###440 TRAVIS: That's all right. DADDY: Hold that thing up level.
+###442 [horn honking]
+###443 DADDY: Oh, man.
+###446 TRAVIS: We sent Rog out to get a frame for our drone,
+###450 and here he comes back with a hula-hoop.
+###452 What are you gonna do with a hula-hoop?
+###454 You working on your girly figure?
+###455 ROG: I figure we put that as a base.
+###457 DADDY: That's not a bad idea.
+###458 TRAVIS: The plastic is fairly rigid.
+###459 I think it's gonna work great for our airframe structure.
+###462 ROG: Anything for the project of the week.
+###465 TRAVIS: Now that we've got the frame,
+###467 we've got to get back to figuring out that trigger.
+###471 When we pushed the joystick on the remote control,
+###473 the motor is supposed to turn
+###474 and drive a plastic finger into the trigger,
+###478 but that motor just won't move.
+###480 MICHAEL: It ain't going. TRAVIS: I heard something.
+###482 You don't reckon the servo is stuck, do you?
+###484 MICHAEL: You know what? The trim might not be set right.
+###487 Uncle Travis thinks the servo motor is broken,
+###489 but I doubt it.
+###491 I think the remote controller isn't set up right.
+###494 I can make a simple adjustment to something called the trim.
+###496 That should fix the problem.
+###498 It'd be as easy as adjusting the dial.
+###501 But sometimes Uncle Travis has just got to do things his way.
+###504 TRAVIS: Maybe I'll just change the servo out.
+###506 Do we have an extra one? MICHAEL: Check the trim.
+###508 TRAVIS: I think it's something wrong with that servo.
+###510 MICHAEL: So we did exactly what he told us to.
+###513 We replaced the servo. And guess what?
+###516 We put a brand-new servo on here,
+###518 and it's doing the same thing. It ain't the servo.
+###520 TRAVIS: Look, you got to figure this part out
+###522 'cause this is a main part of the dag gum UAV, right?
+###525 MICHAEL: We're trying.
+###526 TRAVIS: Don't try. Do it!
+###528 MICHAEL: Just give us some time. TRAVIS: All right.
+###530 MICHAEL: Try that trim.
+###532 Adjust that--
+###533 whatever way it is, throw it all the way.
+###535 TRAVIS: Oh! What the crap was that?
+###541 DADDY: These experiments are dangerous.
+###542 These guys are real rocket scientists.
+###544 Don't try this at home.
+###546 TRAVIS: We're making a portable weaponized drone
+###549 to match Defense Department specs.
+###551 It's got to fly two miles, send back video,
+###553 and fit in a backpack.
+###555 And there's a UAV expert who's gonna be here in just 24 hours
+###560 who's gonna tell us if it makes the grade.
+###563 MICHAEL: Try that trim. That's the only thing we hadn't tried.
+###566 Adjust that--whatever way it is, throw it all the way--
+###569 TRAVIS: Oh! What the crap was that?
+###571 Did you all just shoot a paintball on Daddy's floor?
+###573 MICHAEL: No. I don't think it was a paintball.
+###576 TRAVIS: You ain't got the paintball, but did it go?
+###578 MICHAEL: I think it just--yeah.
+###579 TRAVIS: Do it again. Pete, are you making it do that?
+###581 PETE: Yup. TRAVIS: Hey, hey, look at that.
+###584 TRAVIS: He was right. Michael said it was the trim,
+###586 and I should have listened to him.
+###588 You sure I didn't tell you to check that?
+###590 Now, that that's fixed,
+###591 Michael and Pete are working on the remote video
+###594 that mission control will use to control the drone.
+###597 We're gonna make it so that a single soldier
+###599 can control the drone from the field,
+###601 but if he needs to, he can hand off that control
+###603 back to home base that's miles and miles away.
+###606 PETE: Was that about 100 feet?
+###608 MICHAEL: Yeah, that's crystal clear, ain't it?
+###610 PETE: That's good.
+###611 TRAVIS: Once Rog finished putting
+###612 all the motors and blades on,
+###614 we created some unique landing gear.
+###616 Daddy, we're gonna be using your cat fishing noodle.
+###619 DADDY: I always have some of those noodles
+###621 you use in the pool for kids to play with.
+###623 I use them for fishing.
+###625 Never imagined we'd be using them for a DARPA drone.
+###628 TRAVIS: Cut me off four of them beer-can high.
+###631 ROG: Beer-can high?
+###632 Ain't that a unit of measurement that the Egyptians used?
+###636 TRAVIS: They can zip-tie all the way through it.
+###639 All the way, just set 'em right on there.
+###641 Here, Michael.
+###643 Hey, you two settle down before I get on the both of you.
+###646 I think we're done.
+###647 All we gotta do is hook the power up,
+###649 and we're ready to go.
+###650 There's still a lot to figure out,
+###652 but if this thing doesn't work, we're screwed.
+###654 We're gonna see if it flies.
+###658 DADDY: I don't think he's a very experienced driver.
+###660 I'm thinking he's probably gonna run the thing into us.
+###664 TRAVIS: Everybody be ready.
+###667 Here we go.
+###671 Coming up with the throttle.
+###673 [popping]
+###683 Watch out now.
+###686 DADDY: By George, it does fly, don't it?
+###693 Look out for my truck.
+###695 TRAVIS: There it goes!
+###698 Oh!
+###706 Oh, crap!
+###708 Something happened, it went unstable.
+###711 ROG: He started running that thing.
+###713 I thought he had it, and I thought, man,
+###715 'cause he just missed this one tree over here.
+###717 And he hit these limbs right here.
+###722 And I didn't know he couldn't drive that thing, man.
+###724 TRAVIS: There's some things that come loose.
+###726 I'm gonna have to go back through all the connections
+###727 and make sure it works.
+###729 DADDY: What do you think, son? What do you think happened?
+###730 Did it just get out of range of the controls
+###732 where it wouldn't respond?
+###733 TRAVIS: It was pilot error.
+###735 I couldn't tell where I was looking,
+###737 and I think I just lost orientation
+###740 of where was the front and where was the back,
+###741 and when I made the correction, it wasn't the right way.
+###744 I either need more practice
+###746 or figure out a better way to do it.
+###747 But that's after we fix the thing
+###749 back to where we had it.
+###751 I'm getting nervous
+###753 because we still have to do a flight test in the morning
+###755 before the expert gets here.
+###756 It's gonna be a long night, man,
+###758 'cause we ain't even thought about
+###759 how to put the rockets on there,
+###761 y'all ain't figured out how to ignite 'em,
+###762 we still got to get a gun mount on here.
+###764 We're a long way.
+###766 At least we got a cooler full of beer.
+###771 Man, we worked through the night,
+###773 but we got it all fixed up.
+###777 We're gonna do this test
+###778 where we see how far of a range we can go with the helicopter
+###781 and what kind of video we can get back.
+###783 PETE: We're good with picture.
+###784 TRAVIS: I'm gonna come in there and fly it from the video then.
+###787 Then we got that UAV expert gonna be here in a little while.
+###790 Gonna throttle up.
+###791 There we go.
+###805 ROG: I mean, it was just cool to be in the garage
+###808 and watch that thing fly.
+###811 But the best was when we flew over our buddy Sloth's house.
+###814 TRAVIS: Sloth. What's he doing?
+###816 MICHAEL: Looks like he's working.
+###817 ROG: He's looking for Easter eggs.
+###819 DADDY: Working my foot.
+###820 TRAVIS: You can't throw a beer can that high, Sloth.
+###822 The whole time I was hovering over Sloth's house,
+###825 he kept throwing beer cans up.
+###827 He knew that Rog was probably behind it somehow or other.
+###830 Boy, that one got fairly close. Did you see that one?
+###832 He's got a pretty good arm.
+###833 I could have messed with Sloth all day.
+###835 Here, I'm gonna get on outta there.
+###836 ROG: Fly that thing home.
+###838 TRAVIS: We had to fly the drone home
+###841 so we could continue to work on it.
+###843 We got our UAV back in one piece.
+###845 Now that we know we can control it better with video,
+###847 we still got to put that gun on there,
+###849 and we've still got to put that rocket on there.
+###852 Now, the other big requirement of the DARPA challenge
+###854 is getting this thing to fit in a backpack.
+###855 With all the setbacks,
+###858 I just haven't had any time to work on that.
+###860 But Michael and Pete assure me they've got that covered.
+###863 I guess we'll just have to wait and see.
+###865 First, Michael has got to get our rockets working.
+###867 Michael, you about figured out how to fire them rockets yet?
+###870 MICHAEL: Yeah, we're programming it.
+###872 TRAVIS: While Michael worked on that,
+###873 Rog figured out how to mount the gun to our drone.
+###876 ROG: We got that gunner aimed right at you.
+###879 TRAVIS: Look at what he's done.
+###880 He's put the gun on the bottom of it.
+###882 It looks pretty good. It's gonna work out just fine.
+###884 Michael, I got to have that circuit finished
+###887 to fire them rockets.
+###888 So go finish that circuit.
+###890 We're completing our arsenal
+###892 with rocket-propelled explosives.
+###894 But to fit them below the gun,
+###895 we have to add legs to the bottom.
+###898 Of course this all just adds more weight,
+###900 but if we want to impress DARPA, we have to add those rockets.
+###903 ROG: Where's that feller at?
+###905 TRAVIS: Dr. Brian Landrum
+###906 from the University of Alabama Huntsville
+###908 will be here any minute.
+###910 He's an expert on drone design for the Defense Department.
+###913 So he's the perfect guy to judge what we're doing.
+###915 DADDY: When Dr. Landrum sees it,
+###917 he's got to get over his first initial shock.
+###920 I mean, this thing's built by the Rocket City Rednecks.
+###923 It's built out of hula-hoops and fun noodles.
+###926 He's gonna think, "What in the world?"
+###928 PETE: We want to do one more test.
+###930 And the big question is,
+###932 with all this weight and all these new weapons,
+###934 will this thing even get off the ground?
+###936 MICHAEL: We ready? Here we go.
+###938 TRAVIS: Alright, bring it up Michael.
+###941 There we go.
+###946 What's going on? MICHAEL: It won't come up.
+###948 TRAVIS: With all this extra weight,
+###950 our drone is really struggling to get enough lift.
+###953 ROG: Oh, oh, no!
+###957 TRAVIS: Watch out. ROG: Don't touch that!
+###964 TRAVIS: We built a portable weaponized drone
+###965 for the DARPA challenge
+###967 and invited a UAV expert, Dr. Brian Landrum,
+###970 to evaluate our design during today's field test.
+###973 TRAVIS: Oh, no, no, no!
+###976 But his arrival wasn't exactly perfectly timed.
+###979 The dag-gum UAV crashed
+###981 right as Dr. Landrum's driving up.
+###984 DADDY: Rockets going off, hitting the trees...
+###986 TRAVIS: Hey! Hey, there's Dr. Landrum.
+###989 I just played it cool,
+###990 hoping that he wouldn't notice that something was really wrong.
+###993 ROG: I know he saw that.
+###997 TRAVIS: We've had a few little ups and downs.
+###1000 We just did a rocket test, and...
+###1002 DR. LANDRUM: Rockets and guns, huh?
+###1004 TRAVIS: Rockets and guns and helicopters.
+###1006 LANDRUM: Oh, well, that's a mix.
+###1008 TRAVIS: We're gonna tweak some things,
+###1009 so, Daddy, why don't you take him over to the test field,
+###1013 and we'll meet y'all over there in a couple minutes.
+###1014 We've set up a field test with targets
+###1018 to put the drone through its paces.
+###1019 But we're in trouble.
+###1021 We've only got a few minutes really to fix this thing,
+###1023 so the next test flight is gonna be in front of the UAV expert.
+###1027 ROG: We put it back together.
+###1028 We're expecting it to work.
+###1029 At least that's what we're telling the expert guy.
+###1032 TRAVIS: Turns out those legs we added to the bottom of the drone
+###1036 affected the balance just enough to keep it from flying right.
+###1039 So we redistributed some of the weight.
+###1041 I think that should do it.
+###1044 The key thing for this project
+###1046 is that it can be carried in a backpack
+###1048 by a single soldier in the field.
+###1050 Now, I've assigned Michael and Pete to solve that problem.
+###1053 I'm kind of excited to see what they've come up with.
+###1062 Is this the backpack you made?
+###1064 MICHAEL: Well, it's a backpack. You said, "Protect the UAV."
+###1068 TRAVIS: Can you even get that thing on?
+###1070 It's this huge box that you just slide the thing in.
+###1072 There's no disassembly of the UAV at all.
+###1074 I can't see a soldier wearing that into the field.
+###1077 But it is too late to fix that now.
+###1080 Hopefully we can impress Dr. Landrum
+###1082 with other aspects of our design.
+###1084 DADDY: Yeah, there's some pressure on it
+###1086 because you don't want to mess up
+###1087 in front of a guy like that.
+###1089 And I figure we're about to.
+###1092 LANDRUM: I finally got a good look at their drone design,
+###1094 and it's unique, to say the least,
+###1096 but I'm gonna reserve my judgment
+###1098 till I see it in action.
+###1099 TRAVIS: Put it in, be careful.
+###1101 Don't tear up the rockets or whatever.
+###1102 Y'all figure that out.
+###1104 Alright, so, Brian, what we're gonna do
+###1105 is I've set up a war game.
+###1108 And we're gonna put Rog out there somewhere.
+###1110 He's gonna take the gun, he's gonna go hide,
+###1112 and he's gonna be a sniper.
+###1113 So then I'm gonna crawl in
+###1115 through the woods somewhere here,
+###1116 and I'm gonna come out and decide
+###1117 this is the right place to deploy the UAV.
+###1120 And then we're gonna launch it.
+###1122 It can be controlled from the tactical operations center here,
+###1124 and you guys will be able to watch it on the big screen.
+###1127 And then, when we're done taking out the sniper,
+###1129 we've got some larger vehicles over the hill
+###1131 that we're gonna go and take out with the rockets.
+###1133 Michael, did you put targets out there like I said to?
+###1136 MICHAEL: You will be surprised when you head out there.
+###1138 TRAVIS: So you did put some targets out there.
+###1140 Rog and I got our paintball gear on,
+###1142 and he took off to go hide and play sniper.
+###1145 ROG: Yeah, I had a real good hiding spot.
+###1147 It was real snaky.
+###1149 You know how snipers like snaky spots.
+###1151 TRAVIS: Then Michael helped me get the backpack on.
+###1153 I started easing out into the grass and hiding,
+###1156 trying to find a good place that I could deploy this thing
+###1158 and then go look for Rog.
+###1159 TRAVIS: Hey, Michael. MICHAEL: Yeah, go ahead.
+###1161 TRAVIS: I think I found a pretty good spot.
+###1162 Rog can't be too far away,
+###1164 so I'm gonna start getting ready to deploy this thing.
+###1166 MICHAEL: 10-4. We're set up, and we're waiting on a signal.
+###1174 TRAVIS: Here we go.
+###1188 I took off running,
+###1189 and I turned control over to Daddy back at the command post.
+###1195 Shoot him.
+###1197 If you can find Rog, start shooting him.
+###1199 ROG: Yeah, I went both guns blazing at the drone.
+###1202 It wasn't doing anything.
+###1203 The propellers would just eat it up.
+###1209 DADDY: I'm looking at Rog, and I'm thinking,
+###1212 "This is my chance. I've got him in my sites,"
+###1214 so I pressed the trigger.
+###1216 ROG: You got me!
+###1219 DADDY: I got Rog.
+###1220 Now, he said he wasn't gonna get hit,
+###1222 and I agreed with him.
+###1223 There's no way we'd hit him.
+###1224 MICHAEL: Oh, you got him!
+###1226 DADDY: And I zapped him right in the chest.
+###1228 ROG: I'm out!
+###1230 LANDRUM: For this next test,
+###1232 I'm not so sure they're gonna be able to hit their targets
+###1234 with these rockets.
+###1236 MICHAEL: We're moving towards the tanks and the trucks.
+###1239 DADDY: Now we're gonna try to take out the convoy
+###1240 of tanks and trucks with our rockets.
+###1247 Alright, here we go.
+###1251 MICHAEL: Oh, we launched the first rocket.
+###1254 Daddy: Oh, missed--
+###1257 [laughing]
+###1258 TRAVIS: Y'all missed it. Y'all hit it a little better.
+###1260 MICHAEL: That second shot... Missed it on the second shot.
+###1267 Rog: Oh!
+###1268 TRAVIS: There we go! Yeah!
+###1270 When they started firing off those rockets,
+###1271 I wasn't sure if they were hitting anything.
+###1273 And then I saw a big fireball go up,
+###1275 so it was clear they hit one of the targets.
+###1278 MICHAEL: Oh, yeah.
+###1279 After I set up the targets, I also doused them in gasoline.
+###1281 Come on, hit that thing.
+###1283 Come on, let me get the nose down.
+###1286 There you go.
+###1287 [laughing and cheering]
+###1293 DADDY: Got him! PETE: Good job!
+###1297 We're bringing this thing home. We got all three targets.
+###1300 Good shooting. MICHAEL: That's incredible.
+###1305 DADDY: I figured we'd crash and tear it up
+###1307 like we'd been doing,
+###1309 but we actually got the thing back in one piece.
+###1311 TRAVIS: Did you get him?
+###1312 DADDY: We shot him.
+###1314 ROG: Which one of y'all shot me, man?
+###1315 TRAVIS: Look at that right there. Who got him?
+###1317 MICHAEL: That was Papaw.
+###1318 TRAVIS: That's good shooting, Daddy. Look at that!
+###1321 LANDRUM: Weaponizing a small system like this,
+###1323 I really think this is something DARPA would be interested in.
+###1325 Overall, this was just a great test.
+###1327 I think it really has a lot of promise.
+###1329 TRAVIS: Our UAV drone worked really well.
+###1331 Putting rockets on there and a gun was pretty neat.
+###1334 So I think there's some immediate
+###1335 real-world applications for our design.
+###1337 Hula-hoop taters, hula-hoop taters.
+###1339 ROG: Right on, right on.
+###1342 All this talk about real-world applications
+###1345 got me to thinking.
+###1346 So I took my boys out, and we did a little drone fishing.
+###1351 Look at that fish!
+###1353 He's too little. We got to throw him back.
+###1355 You want to touch him?
+###1357 Okay.

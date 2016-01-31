@@ -1,0 +1,6024 @@
+1
+0:0:1,3 --> 0:0:3,0
+Prof: I do want to talk
+about chords.
+
+
+2
+0:0:3,0 --> 0:0:8,675
+Last time we worked through
+this idea of the scale and how
+
+
+3
+0:0:8,675 --> 0:0:14,55
+you can build triads on each of
+the members of the scale.
+
+
+4
+0:0:14,55 --> 0:0:17,687
+And we talked about a triad
+being a configuration of three
+
+
+5
+0:0:17,687 --> 0:0:20,99
+pitches where you take the
+first, the third and the fifth.
+
+
+6
+0:0:20,99 --> 0:0:25,54
+The first of the triad--this is
+a term that we'll be going over
+
+
+7
+0:0:25,54 --> 0:0:26,89
+today--is called the what?
+ 
+
+
+8
+0:0:26,89 --> 0:0:30,73
+The root of the triad so if we
+have >
+
+
+9
+0:0:30,73 --> 0:0:35,8
+C, E, G, the C is the root of
+the triad.
+
+
+10
+0:0:35,8 --> 0:0:38,707
+The lowest note of this
+aggregate of three is the root
+
+
+11
+0:0:38,707 --> 0:0:39,53
+of the triad.
+ 
+
+
+12
+0:0:39,53 --> 0:0:43,8
+So we can build triads on each
+of the members of the scale,
+
+
+13
+0:0:43,8 --> 0:0:45,511
+and we said that some of these
+chords tend to be used a lot
+
+
+14
+0:0:45,511 --> 0:0:47,916
+more than others,
+that the tonic (I) is very
+
+
+15
+0:0:47,916 --> 0:0:50,58
+important,
+the dominant (V) is important,
+
+
+16
+0:0:50,58 --> 0:0:52,658
+the sub-dominant right next to
+and below the dominant is
+
+
+17
+0:0:52,658 --> 0:0:54,806
+important,
+and we're going to be talking
+
+
+18
+0:0:54,806 --> 0:0:56,14
+about the VI chord today.
+ 
+
+
+19
+0:0:56,14 --> 0:0:57,47
+We could give that a name.
+ 
+
+
+20
+0:0:57,47 --> 0:0:59,612
+We could call it the
+sub-mediant but that's probably
+
+
+21
+0:0:59,612 --> 0:1:0,619
+getting too technical.
+ 
+
+
+22
+0:1:0,619 --> 0:1:2,25
+We'll just call it the VI chord.
+ 
+
+
+23
+0:1:2,25 --> 0:1:4,968
+So we've got a I chord built on
+the first degree of the scale,
+
+
+24
+0:1:4,968 --> 0:1:7,578
+a V chord built on the fifth
+degree of the scale,
+
+
+25
+0:1:7,578 --> 0:1:10,498
+a IV chord built on the--a IV
+chord built on the fourth
+
+
+26
+0:1:10,498 --> 0:1:12,87
+degree,
+and a VI chord built on the
+
+
+27
+0:1:12,87 --> 0:1:13,819
+sixth degree.
+ 
+
+
+28
+0:1:13,819 --> 0:1:17,867
+Now I had an interesting
+discussion in section this past
+
+
+29
+0:1:17,867 --> 0:1:21,989
+week and a couple of really good
+questions were asked.
+
+
+30
+0:1:21,989 --> 0:1:23,665
+I started by saying,
+"Could you come up with
+
+
+31
+0:1:23,665 --> 0:1:26,198
+any kind of--
+well, you tell me in fifty
+
+
+32
+0:1:26,198 --> 0:1:30,989
+words or less what I said in
+lecture yesterday about harmony.
+
+
+33
+0:1:30,989 --> 0:1:32,29
+How does harmony work?
+ 
+
+
+34
+0:1:32,29 --> 0:1:35,393
+Can you come up with a visual
+image of how harmony
+
+
+35
+0:1:35,393 --> 0:1:36,28
+works?"
+ 
+
+
+36
+0:1:36,28 --> 0:1:37,91
+So we tried out a couple of
+things.
+
+
+37
+0:1:37,91 --> 0:1:41,503
+One of the things that we
+discussed was this type of
+
+
+38
+0:1:41,503 --> 0:1:45,45
+imagery here where you have
+vertically these pillars,
+
+
+39
+0:1:45,45 --> 0:1:47,47
+if you will,
+or we could even call--
+
+
+40
+0:1:47,47 --> 0:1:50,262
+the more I sort of looked at
+this--sort of call them tree
+
+
+41
+0:1:50,262 --> 0:1:51,6
+trunks almost.
+ 
+
+
+42
+0:1:51,6 --> 0:1:55,275
+And these tree trunks were the
+chords and at the base of each
+
+
+43
+0:1:55,275 --> 0:1:57,876
+of these chords at least
+conceptually,
+
+
+44
+0:1:57,876 --> 0:2:1,319
+theoretically,
+is this thing called the root.
+
+
+45
+0:2:1,319 --> 0:2:4,519
+So I like this tree metaphor
+here.
+
+
+46
+0:2:4,519 --> 0:2:8,826
+So we've got the root here of
+the--and then the trunk and then
+
+
+47
+0:2:8,826 --> 0:2:11,933
+up above, of course,
+this florid canopy would
+
+
+48
+0:2:11,933 --> 0:2:13,77
+musically be the what?
+ 
+
+
+49
+0:2:13,77 --> 0:2:15,84
+The melody. Okay.
+ 
+
+
+50
+0:2:15,84 --> 0:2:17,86
+So we might think about that.
+ 
+
+
+51
+0:2:17,86 --> 0:2:20,306
+Now in the course of this,
+a student asked a very good
+
+
+52
+0:2:20,306 --> 0:2:23,3
+question that I should have
+pointed out a long time ago,
+
+
+53
+0:2:23,3 --> 0:2:25,717
+and that is:
+when an orchestra plays or an
+
+
+54
+0:2:25,717 --> 0:2:29,126
+ensemble plays and they're
+looking at their music and
+
+
+55
+0:2:29,126 --> 0:2:33,169
+they're reading their music,
+do they play a chord?
+
+
+56
+0:2:33,169 --> 0:2:37,162
+Does the violin play a chord
+and are the trumpets--each
+
+
+57
+0:2:37,162 --> 0:2:41,819
+trumpet playing a chord and the
+viola--is it playing a chord?
+
+
+58
+0:2:41,819 --> 0:2:43,378
+What do you think?
+ 
+
+
+59
+0:2:43,378 --> 0:2:43,772
+No.
+ 
+
+
+60
+0:2:43,772 --> 0:2:50,199
+It's just playing one note--one
+note of a chord.
+
+
+61
+0:2:50,199 --> 0:2:52,95
+And once again we,
+our ears, hear this aggregate
+
+
+62
+0:2:52,95 --> 0:2:55,697
+of sound and then we say,
+"Oh, it's got that,
+
+
+63
+0:2:55,697 --> 0:2:58,144
+that, that, that,"
+and we extrapolate out of that
+
+
+64
+0:2:58,144 --> 0:3:0,36
+information that it is this
+particular chord.
+
+
+65
+0:3:0,36 --> 0:3:4,694
+But if you were to look at what
+the YSO has on its stands
+
+
+66
+0:3:4,694 --> 0:3:6,938
+nobody's playing the chord.
+ 
+
+
+67
+0:3:6,938 --> 0:3:10,758
+They're just playing individual
+notes that all together form a
+
+
+68
+0:3:10,758 --> 0:3:11,258
+chord.
+ 
+
+
+69
+0:3:11,258 --> 0:3:14,28
+And we pointed out,
+however, that one individual
+
+
+70
+0:3:14,28 --> 0:3:16,873
+has a--
+the music that has all of these
+
+
+71
+0:3:16,873 --> 0:3:19,43
+parts on it--
+and that, of course,
+
+
+72
+0:3:19,43 --> 0:3:22,2
+is the conductor who has the
+full conducting score--
+
+
+73
+0:3:22,2 --> 0:3:24,59
+the full score--in front of him
+or her.
+
+
+74
+0:3:24,59 --> 0:3:27,242
+So that was one interesting
+question that came up,
+
+
+75
+0:3:27,242 --> 0:3:30,383
+so keep this in mind if you're
+wondering about this idea of
+
+
+76
+0:3:30,383 --> 0:3:30,979
+chords.
+ 
+
+
+77
+0:3:30,979 --> 0:3:32,949
+So we could say this is the
+root, maybe this is the third
+
+
+78
+0:3:32,949 --> 0:3:33,758
+and that's the fifth.
+ 
+
+
+79
+0:3:33,758 --> 0:3:37,573
+These other instruments are
+filling in these things at
+
+
+80
+0:3:37,573 --> 0:3:41,53
+various spots to produce this
+aggregate of the chord.
+
+
+81
+0:3:41,53 --> 0:3:45,39
+Supposing this--we mentioned
+this also, this idea--supposing
+
+
+82
+0:3:45,39 --> 0:3:48,729
+we had other things kind of
+running around there.
+
+
+83
+0:3:48,729 --> 0:3:52,514
+Without those other things
+running around we would have a
+
+
+84
+0:3:52,514 --> 0:3:56,639
+good sort of model of homophonic
+texture, sort of block chords
+
+
+85
+0:3:56,639 --> 0:3:58,598
+changing in that fashion.
+ 
+
+
+86
+0:3:58,598 --> 0:4:1,151
+If you put in other little
+strands of melody,
+
+
+87
+0:4:1,151 --> 0:4:3,878
+it changes it more toward
+polyphonic texture.
+
+
+88
+0:4:3,878 --> 0:4:7,419
+Let's review another point and
+I'll get to a second question
+
+
+89
+0:4:7,419 --> 0:4:8,439
+that was asked.
+ 
+
+
+90
+0:4:8,439 --> 0:4:10,938
+Why do we have to change chords?
+ 
+
+
+91
+0:4:10,938 --> 0:4:14,598
+We talked about this last time.
+ 
+
+
+92
+0:4:14,598 --> 0:4:17,55
+Why do we change chords?
+ 
+
+
+93
+0:4:17,55 --> 0:4:18,41
+Yeah.
+ 
+
+
+94
+0:4:18,41 --> 0:4:19,56
+Student:
+>
+
+
+95
+0:4:19,56 --> 0:4:19,819
+Melody?
+ 
+
+
+96
+0:4:19,819 --> 0:4:23,807
+Prof: Because the melody
+changes and not all harmonies
+
+
+97
+0:4:23,807 --> 0:4:26,0
+are concordant with every note.
+ 
+
+
+98
+0:4:26,0 --> 0:4:30,519
+Someone asked me,
+"Well, why are some notes
+
+
+99
+0:4:30,519 --> 0:4:35,519
+consonant and why are other
+notes dissonant?"
+
+
+100
+0:4:35,519 --> 0:4:38,774
+And the answer has to do with
+ratios and string sizes and
+
+
+101
+0:4:38,774 --> 0:4:41,1
+lengths of pipe and things like
+that,
+
+
+102
+0:4:41,1 --> 0:4:44,603
+but generally speaking,
+pitches that are right next to
+
+
+103
+0:4:44,603 --> 0:4:47,132
+each other--
+very close to each other--are
+
+
+104
+0:4:47,132 --> 0:4:47,74
+dissonant.
+ 
+
+
+105
+0:4:47,74 --> 0:4:51,43
+If you get a highly irrational
+ratio like nine to eight,
+
+
+106
+0:4:51,43 --> 0:4:54,43
+which is the whole tone,
+or seventeen or eighteen to
+
+
+107
+0:4:54,43 --> 0:4:56,391
+seventeen--
+which, just depending upon your
+
+
+108
+0:4:56,391 --> 0:4:59,442
+internal tuning,
+is the half step--those
+
+
+109
+0:4:59,442 --> 0:5:2,959
+irrational ratios are very
+dissonant,
+
+
+110
+0:5:2,959 --> 0:5:4,221
+>
+ 
+
+
+111
+0:5:4,221 --> 0:5:5,67
+or >
+ 
+
+
+112
+0:5:5,67 --> 0:5:8,177
+that kind of sound,
+but if you allow a little space
+
+
+113
+0:5:8,177 --> 0:5:10,805
+in there--
+Let's say you go to a
+
+
+114
+0:5:10,805 --> 0:5:14,47
+three-to-two ratio or a
+six-to-five--
+
+
+115
+0:5:14,47 --> 0:5:17,709
+even a six-to-five ratio,
+it gets more consonant.
+
+
+116
+0:5:17,709 --> 0:5:19,23
+Let's see how this would play
+out.
+
+
+117
+0:5:19,23 --> 0:5:24,786
+Here for example we have the
+pitch C and either note above or
+
+
+118
+0:5:24,786 --> 0:5:27,9
+below it is dissonant.
+ 
+
+
+119
+0:5:27,9 --> 0:5:28,199
+These are very close together.
+ 
+
+
+120
+0:5:28,199 --> 0:5:29,889
+Now let's play this on the
+piano.
+
+
+121
+0:5:29,889 --> 0:5:30,48
+So here is a C.
+ 
+
+
+122
+0:5:30,48 --> 0:5:31,541
+>
+ 
+
+
+123
+0:5:31,541 --> 0:5:33,586
+If I play the D above it,
+>
+
+
+124
+0:5:33,586 --> 0:5:35,238
+it's dissonant,
+>
+
+
+125
+0:5:35,238 --> 0:5:36,42
+the D below it,
+it's dissonant,
+
+
+126
+0:5:36,42 --> 0:5:38,583
+but let's say I go down to the
+A below it, <<plays
+
+
+127
+0:5:38,583 --> 0:5:39,95
+piano>>
+ 
+
+
+128
+0:5:39,95 --> 0:5:41,769
+allowing a little separation
+between the two pitches now.
+
+
+129
+0:5:41,769 --> 0:5:42,916
+>
+ 
+
+
+130
+0:5:42,916 --> 0:5:43,596
+What about that?
+ 
+
+
+131
+0:5:43,596 --> 0:5:44,66
+Consonant or dissonant?
+ 
+
+
+132
+0:5:44,66 --> 0:5:45,738
+Sounds a lot better.
+ 
+
+
+133
+0:5:45,738 --> 0:5:48,274
+What about this,
+now going down to the G against
+
+
+134
+0:5:48,274 --> 0:5:48,759
+the C?
+ 
+
+
+135
+0:5:48,759 --> 0:5:50,89
+>
+ 
+
+
+136
+0:5:50,89 --> 0:5:52,44
+Yeah, it sounds fine,
+>
+
+
+137
+0:5:52,44 --> 0:5:55,228
+sounds well,
+kind of bland or revving in
+
+
+138
+0:5:55,228 --> 0:5:56,23
+neutral there.
+ 
+
+
+139
+0:5:56,23 --> 0:5:57,589
+What about this?
+ 
+
+
+140
+0:5:57,589 --> 0:5:58,87
+>
+ 
+
+
+141
+0:5:58,87 --> 0:6:0,206
+Yeah, it sounds sort of nice.
+ 
+
+
+142
+0:6:0,206 --> 0:6:0,99
+What about this?
+ 
+
+
+143
+0:6:0,99 --> 0:6:2,69
+>
+ 
+
+
+144
+0:6:2,69 --> 0:6:4,947
+Yeah, not so much,
+but if you think about it--so
+
+
+145
+0:6:4,947 --> 0:6:8,62
+it's not that--if you--it's not
+that we're allowing even more
+
+
+146
+0:6:8,62 --> 0:6:9,54
+space here.
+ 
+
+
+147
+0:6:9,54 --> 0:6:12,831
+What we've done is taken this
+pitch and played it all the way
+
+
+148
+0:6:12,831 --> 0:6:16,18
+down an octave below it so we're
+actually getting back to this
+
+
+149
+0:6:16,18 --> 0:6:18,87
+configuration of the pitch right
+next to it,
+
+
+150
+0:6:18,87 --> 0:6:21,675
+and we could--then of course we
+could go down one more step
+
+
+151
+0:6:21,675 --> 0:6:23,79
+>
+ 
+
+
+152
+0:6:23,79 --> 0:6:26,644
+and we would get the octave,
+which is a duplication of
+
+
+153
+0:6:26,644 --> 0:6:27,519
+two-to-one.
+ 
+
+
+154
+0:6:27,519 --> 0:6:31,889
+So that's a very wide sort of
+ratio there.
+
+
+155
+0:6:31,889 --> 0:6:33,89
+So that's something to think
+about.
+
+
+156
+0:6:33,89 --> 0:6:37,108
+The closer these pitches are
+together, the more likely they
+
+
+157
+0:6:37,108 --> 0:6:41,197
+are to be dissonant--and the
+desire to have some space added
+
+
+158
+0:6:41,197 --> 0:6:41,889
+there.
+ 
+
+
+159
+0:6:41,889 --> 0:6:43,6
+Questions about that?
+ 
+
+
+160
+0:6:43,6 --> 0:6:45,79
+Okay.
+ 
+
+
+161
+0:6:45,79 --> 0:6:49,139
+Let's go on now to talk about
+chord progression.
+
+
+162
+0:6:49,139 --> 0:6:51,516
+Anybody want to do--what's your
+understanding of what a chord
+
+
+163
+0:6:51,516 --> 0:6:52,19
+progression is?
+ 
+
+
+164
+0:6:52,19 --> 0:6:54,206
+If I said "chord
+progression"--I think we
+
+
+165
+0:6:54,206 --> 0:6:55,779
+have that term up on the board
+today.
+
+
+166
+0:6:55,779 --> 0:6:59,279
+What is a chord progression?
+ 
+
+
+167
+0:6:59,279 --> 0:7:1,819
+I--let's see.
+ 
+
+
+168
+0:7:1,819 --> 0:7:2,944
+Are you going to?
+ 
+
+
+169
+0:7:2,944 --> 0:7:3,274
+Yeah.
+ 
+
+
+170
+0:7:3,274 --> 0:7:4,69
+Fire away.
+ 
+
+
+171
+0:7:4,69 --> 0:7:6,62
+Student:
+>
+
+
+172
+0:7:6,62 --> 0:7:7,826
+Prof: Nice and loud,
+a little bit louder.
+
+
+173
+0:7:7,826 --> 0:7:8,29
+I couldn't hear.
+ 
+
+
+174
+0:7:8,29 --> 0:7:9,838
+Student: A sequence of
+chords that sound good together?
+
+
+175
+0:7:9,838 --> 0:7:10,476
+Prof: Okay.
+ 
+
+
+176
+0:7:10,476 --> 0:7:10,653
+Good.
+ 
+
+
+177
+0:7:10,653 --> 0:7:11,79
+Excellent.
+ 
+
+
+178
+0:7:11,79 --> 0:7:13,264
+A sequence of chords that sound
+good together,
+
+
+179
+0:7:13,264 --> 0:7:16,49
+kind of make sense together;
+we could say that sort of march
+
+
+180
+0:7:16,49 --> 0:7:18,259
+along in a purposeful fashion.
+ 
+
+
+181
+0:7:18,259 --> 0:7:24,0
+>
+ 
+
+
+182
+0:7:24,0 --> 0:7:26,232
+--that kind of make sense
+together.
+
+
+183
+0:7:26,232 --> 0:7:27,19
+All right?
+ 
+
+
+184
+0:7:27,19 --> 0:7:30,266
+They seem to be going somewhere
+and there's this sort of force
+
+
+185
+0:7:30,266 --> 0:7:33,249
+of pull or gravity in music
+having to do with some chords
+
+
+186
+0:7:33,249 --> 0:7:35,6
+wanting to go to other chords.
+ 
+
+
+187
+0:7:35,6 --> 0:7:37,55
+So we've got a chord
+progression.
+
+
+188
+0:7:37,55 --> 0:7:39,3
+We've talked about the root of
+the triad.
+
+
+189
+0:7:39,3 --> 0:7:40,339
+>
+ 
+
+
+190
+0:7:40,339 --> 0:7:45,5
+The root of the triad is the
+bottom-most pitch of that triad.
+
+
+191
+0:7:45,5 --> 0:7:46,817
+>
+ 
+
+
+192
+0:7:46,817 --> 0:7:48,918
+Supposing we didn't go
+>
+
+
+193
+0:7:48,918 --> 0:7:50,87
+C, E, G, but we decided to
+start with the
+
+
+194
+0:7:50,87 --> 0:7:51,896
+>
+ 
+
+
+195
+0:7:51,896 --> 0:7:54,581
+E, G and then put the C up on
+top, >
+
+
+196
+0:7:54,581 --> 0:7:55,509
+C, E, G, C.
+ 
+
+
+197
+0:7:55,509 --> 0:7:57,73
+Well, that'd be what's called a
+chord inversion.
+
+
+198
+0:7:57,73 --> 0:8:0,281
+We're not going to get into
+that 'cause that takes us into
+
+
+199
+0:8:0,281 --> 0:8:3,182
+heavy-duty music theory,
+but it's--if we don't have root
+
+
+200
+0:8:3,182 --> 0:8:6,348
+position then we've got some
+other note of the triad in the
+
+
+201
+0:8:6,348 --> 0:8:8,624
+bass,
+and we've got some kind of
+
+
+202
+0:8:8,624 --> 0:8:12,312
+chord inversion,
+so that's what that particular
+
+
+203
+0:8:12,312 --> 0:8:14,28
+term means up there.
+ 
+
+
+204
+0:8:14,28 --> 0:8:17,92
+What are we going to do to hear
+these chords?
+
+
+205
+0:8:17,92 --> 0:8:20,24
+How do we hear chord
+progressions?
+
+
+206
+0:8:20,24 --> 0:8:21,0
+How do we hear harmony?
+ 
+
+
+207
+0:8:21,0 --> 0:8:22,509
+What are we listening for again?
+ 
+
+
+208
+0:8:22,509 --> 0:8:26,709
+Obviously, we've talked about
+it again and again and again.
+
+
+209
+0:8:26,709 --> 0:8:29,406
+We're going to be listening for
+the bass.
+
+
+210
+0:8:29,406 --> 0:8:29,879
+Okay?
+ 
+
+
+211
+0:8:29,879 --> 0:8:32,424
+And all of our musical
+experience tells us to listen to
+
+
+212
+0:8:32,424 --> 0:8:34,37
+melody;
+melody's beautiful--that's what
+
+
+213
+0:8:34,37 --> 0:8:35,605
+we want to hear,
+but now to get a sense of
+
+
+214
+0:8:35,605 --> 0:8:37,33
+harmony we're going to listen to
+the bass.
+
+
+215
+0:8:37,33 --> 0:8:39,62
+And we said last time we want
+to do two things.
+
+
+216
+0:8:39,62 --> 0:8:42,672
+We want to figure out if the
+harmony is changing,
+
+
+217
+0:8:42,672 --> 0:8:46,36
+and if it is changing whether
+it's changing at a regular or
+
+
+218
+0:8:46,36 --> 0:8:47,57
+irregular rate.
+ 
+
+
+219
+0:8:47,57 --> 0:8:52,48
+By regular rate we mean that
+the amount of time that each
+
+
+220
+0:8:52,48 --> 0:8:57,97
+chord holds is exactly the same;
+every chord holds for the same
+
+
+221
+0:8:57,97 --> 0:8:58,34
+length of time.
+ 
+
+
+222
+0:8:58,34 --> 0:9:2,51
+If one chord holds twice as
+long or only half as long,
+
+
+223
+0:9:2,51 --> 0:9:6,918
+then we have an irregular
+harmonic change--irregular rate
+
+
+224
+0:9:6,918 --> 0:9:8,73
+of harmonic change.
+ 
+
+
+225
+0:9:8,73 --> 0:9:11,539
+So let's begin with our first
+example here this morning.
+
+
+226
+0:9:11,539 --> 0:9:13,58
+It's from Richard Wagner.
+ 
+
+
+227
+0:9:13,58 --> 0:9:16,466
+It's the beginning of his
+Ring cycle and we're
+
+
+228
+0:9:16,466 --> 0:9:18,169
+going to listen to this.
+ 
+
+
+229
+0:9:18,169 --> 0:9:19,149
+Well, how do we hear the bass?
+ 
+
+
+230
+0:9:19,149 --> 0:9:22,178
+How do we tell if the harmony
+is changing?
+
+
+231
+0:9:22,178 --> 0:9:25,288
+What I do is try to sing the
+bass.
+
+
+232
+0:9:25,288 --> 0:9:27,72
+I don't know whether it's
+easier for gentlemen or not
+
+
+233
+0:9:27,72 --> 0:9:29,87
+because our voices are sort of
+in the bass,
+
+
+234
+0:9:29,87 --> 0:9:32,936
+but maybe this is payback time
+since ladies are always singing
+
+
+235
+0:9:32,936 --> 0:9:33,59
+the melody.
+ 
+
+
+236
+0:9:33,59 --> 0:9:37,629
+So we'll focus on the bass and
+we'll try to sing the bass,
+
+
+237
+0:9:37,629 --> 0:9:41,841
+and if we find that in singing
+the bass our voice is not
+
+
+238
+0:9:41,841 --> 0:9:44,657
+changing,
+probably the harmony hasn't
+
+
+239
+0:9:44,657 --> 0:9:45,288
+changed.
+ 
+
+
+240
+0:9:45,288 --> 0:9:49,106
+If we have to sing a different
+pitch, then probably the harmony
+
+
+241
+0:9:49,106 --> 0:9:49,97
+has changed.
+ 
+
+
+242
+0:9:49,97 --> 0:9:53,29
+So let's try that as an initial
+modus operandi here and we'll
+
+
+243
+0:9:53,29 --> 0:9:54,0
+see how it works.
+ 
+
+
+244
+0:9:54,0 --> 0:9:55,85
+So here's an example from
+Wagner.
+
+
+245
+0:9:55,85 --> 0:9:58,45
+>
+ 
+
+
+246
+0:9:58,45 --> 0:10:1,298
+See if you can find the pitch.
+ 
+
+
+247
+0:10:1,298 --> 0:10:2,36
+Sing it.
+ 
+
+
+248
+0:10:2,36 --> 0:10:5,809
+I want to hear the sound.
+ 
+
+
+249
+0:10:5,809 --> 0:10:9,9
+Louder, please.
+ 
+
+
+250
+0:10:9,9 --> 0:10:33,96
+>
+ 
+
+
+251
+0:10:33,96 --> 0:10:35,99
+Did it change? No.
+ 
+
+
+252
+0:10:35,99 --> 0:10:39,85
+He just keeps that same E-flat
+chord for about six minutes at
+
+
+253
+0:10:39,85 --> 0:10:41,82
+the beginning of the Overture to
+Rheingold,
+
+
+254
+0:10:41,82 --> 0:10:44,395
+and on the basis of that you
+know there's going to be a very
+
+
+255
+0:10:44,395 --> 0:10:45,269
+long opera.
+ 
+
+
+256
+0:10:45,269 --> 0:10:47,394
+If he's going to sit there on
+one chord for that amount of
+
+
+257
+0:10:47,394 --> 0:10:49,408
+time, it's going to go on for a
+long period of time.
+
+
+258
+0:10:49,408 --> 0:10:49,696
+Okay.
+ 
+
+
+259
+0:10:49,696 --> 0:10:53,2
+Let's listen to an example from
+the realm of pop music this
+
+
+260
+0:10:53,2 --> 0:10:53,48
+time.
+ 
+
+
+261
+0:10:53,48 --> 0:10:54,895
+What about this one?
+ 
+
+
+262
+0:10:54,895 --> 0:10:56,29
+Is it changing?
+ 
+
+
+263
+0:10:56,29 --> 0:10:59,9
+I think this is Dave Matthews
+Band.
+
+
+264
+0:10:59,9 --> 0:11:0,46
+What about this one?
+ 
+
+
+265
+0:11:0,46 --> 0:11:2,7
+See if you can sing the pitch.
+ 
+
+
+266
+0:11:2,7 --> 0:11:12,95
+>
+ 
+
+
+267
+0:11:12,95 --> 0:11:16,279
+Sing it.
+ 
+
+
+268
+0:11:16,279 --> 0:11:24,778
+>
+ 
+
+
+269
+0:11:24,778 --> 0:11:26,447
+What about that one?
+ 
+
+
+270
+0:11:26,447 --> 0:11:27,7
+Did it change?
+ 
+
+
+271
+0:11:27,7 --> 0:11:28,91
+No.
+ 
+
+
+272
+0:11:28,91 --> 0:11:32,538
+So that one didn't change
+either.
+
+
+273
+0:11:32,538 --> 0:11:35,528
+We're going to have some that
+change, and we're going to work
+
+
+274
+0:11:35,528 --> 0:11:37,82
+through this progressively in
+just a moment.
+
+
+275
+0:11:37,82 --> 0:11:41,279
+I want to make one other point
+before we launch into that,
+
+
+276
+0:11:41,279 --> 0:11:45,408
+and that is the following:
+that composers use the rate of
+
+
+277
+0:11:45,408 --> 0:11:48,504
+harmonic change--
+whether it's changing or not
+
+
+278
+0:11:48,504 --> 0:11:50,44
+changing--
+to sort of make us feel
+
+
+279
+0:11:50,44 --> 0:11:53,59
+different ways about the music
+that we are listening to.
+
+
+280
+0:11:53,59 --> 0:11:57,73
+It gives a sense of what this
+music is all--
+
+
+281
+0:11:57,73 --> 0:12:0,84
+really all about and since,
+as we were saying,
+
+
+282
+0:12:0,84 --> 0:12:4,192
+so much classical music doesn't
+have a text with it we've got to
+
+
+283
+0:12:4,192 --> 0:12:7,438
+have some markers in there to
+know what the composer is trying
+
+
+284
+0:12:7,438 --> 0:12:8,769
+to communicate to us.
+ 
+
+
+285
+0:12:8,769 --> 0:12:13,899
+Here's a famous example from
+Mozart's G Minor Symphony.
+
+
+286
+0:12:13,899 --> 0:12:26,389
+>
+ 
+
+
+287
+0:12:26,389 --> 0:12:27,58
+And so on.
+ 
+
+
+288
+0:12:27,58 --> 0:12:30,72
+So if I separated this noodling
+here, <<plays
+
+
+289
+0:12:30,72 --> 0:12:30,82
+piano>>
+ 
+
+
+290
+0:12:30,82 --> 0:12:35,743
+which is just a kind of
+arpeggio <<plays
+
+
+291
+0:12:35,743 --> 0:12:37,166
+music>>
+ 
+
+
+292
+0:12:37,166 --> 0:12:43,62
+patterning of the chord and
+just have the chord stay there--
+
+
+293
+0:12:43,62 --> 0:12:46,575
+>
+ 
+
+
+294
+0:12:46,575 --> 0:12:49,529
+>
+ 
+
+
+295
+0:12:49,529 --> 0:12:49,99
+All right.
+ 
+
+
+296
+0:12:49,99 --> 0:12:51,649
+So those are the chords
+underneath.
+
+
+297
+0:12:51,649 --> 0:12:53,899
+You notice at the beginning
+>
+
+
+298
+0:12:53,899 --> 0:12:58,676
+one-two, two-two,
+three-two, four-two,
+
+
+299
+0:12:58,676 --> 0:13:3,84
+one-two, two-two,
+three-two, four-two.
+
+
+300
+0:13:3,84 --> 0:13:5,519
+At the beginning <<plays
+piano>>
+
+
+301
+0:13:5,519 --> 0:13:8,596
+these chords are holding for
+four measures or a total of
+
+
+302
+0:13:8,596 --> 0:13:9,379
+eight beats.
+ 
+
+
+303
+0:13:9,379 --> 0:13:26,9
+Then as it goes on,
+>
+
+
+304
+0:13:26,9 --> 0:13:28,58
+what happens here?
+ 
+
+
+305
+0:13:28,58 --> 0:13:29,139
+>
+ 
+
+
+306
+0:13:29,139 --> 0:13:30,82
+Change, change,
+change, change--changing on
+
+
+307
+0:13:30,82 --> 0:13:32,7
+every beat--then <<plays
+piano>>
+
+
+308
+0:13:32,7 --> 0:13:34,6
+change, change,
+change, change,
+
+
+309
+0:13:34,6 --> 0:13:35,168
+change.
+ 
+
+
+310
+0:13:35,168 --> 0:13:37,519
+Then we're getting two changes
+per beat.
+
+
+311
+0:13:37,519 --> 0:13:40,98
+So what's happened to the rate
+of harmonic change here?
+
+
+312
+0:13:40,98 --> 0:13:42,669
+Is it regular or irregular?
+ 
+
+
+313
+0:13:42,669 --> 0:13:43,38
+Students: Irregular.
+ 
+
+
+314
+0:13:43,38 --> 0:13:46,548
+Prof: Highly irregular,
+and what is happening to it?
+
+
+315
+0:13:46,548 --> 0:13:48,97
+It's getting faster and faster
+and faster.
+
+
+316
+0:13:48,97 --> 0:13:52,61
+So here in the G Minor Symphony
+we feel as--
+
+
+317
+0:13:52,61 --> 0:13:55,779
+oh, it's so full of tension,
+angst,
+
+
+318
+0:13:55,779 --> 0:14:0,84
+anxiety, perhaps passion,
+it's driving somewhere,
+
+
+319
+0:14:0,84 --> 0:14:4,636
+and one of the things that's
+driving it is its accelerating
+
+
+320
+0:14:4,636 --> 0:14:6,34
+rate of harmonic change.
+ 
+
+
+321
+0:14:6,34 --> 0:14:9,255
+The amount of time that each
+chord is holding is getting
+
+
+322
+0:14:9,255 --> 0:14:12,649
+shorter and shorter and shorter
+as we drive into that cadence.
+
+
+323
+0:14:12,649 --> 0:14:15,22
+Now the cadence is
+>
+
+
+324
+0:14:15,22 --> 0:14:18,503
+--cadence is simply the end of
+a musical phrase,
+
+
+325
+0:14:18,503 --> 0:14:22,414
+particularly in this case the
+end of a chord progression,
+
+
+326
+0:14:22,414 --> 0:14:25,139
+where we are at a point of
+arrival;
+
+
+327
+0:14:25,139 --> 0:14:27,87
+the cadence brings us to a
+point of arrival.
+
+
+328
+0:14:27,87 --> 0:14:29,908
+So that's a piece of Mozart.
+ 
+
+
+329
+0:14:29,908 --> 0:14:32,177
+Let's turn to a piece of
+Beethoven now,
+
+
+330
+0:14:32,177 --> 0:14:35,519
+his Symphony number Six,
+the Pastoral Symphony.
+
+
+331
+0:14:35,519 --> 0:14:37,48
+Let's listen to just a bit of
+it.
+
+
+332
+0:14:37,48 --> 0:14:43,509
+>
+ 
+
+
+333
+0:14:43,509 --> 0:14:48,179
+Can you pick out the bass?
+ 
+
+
+334
+0:14:48,179 --> 0:14:59,29
+Can you sing the bass pitch?
+ 
+
+
+335
+0:14:59,29 --> 0:15:0,889
+Now we can.
+ 
+
+
+336
+0:15:0,889 --> 0:15:4,61
+>
+ 
+
+
+337
+0:15:4,61 --> 0:15:5,693
+Prof: Well,
+it's difficult;
+
+
+338
+0:15:5,693 --> 0:15:6,22
+it's not easy.
+ 
+
+
+339
+0:15:6,22 --> 0:15:7,82
+Can you pick out the--no.
+ 
+
+
+340
+0:15:7,82 --> 0:15:9,95
+I was having trouble picking
+out the bass.
+
+
+341
+0:15:9,95 --> 0:15:12,634
+They're so--sometimes you can
+do it, and sometimes you can't
+
+
+342
+0:15:12,634 --> 0:15:13,0
+do it.
+ 
+
+
+343
+0:15:13,0 --> 0:15:15,948
+We're going to focus now on
+some passages where we can do
+
+
+344
+0:15:15,948 --> 0:15:19,4
+it, and we're going to see how
+Beethoven is setting up some
+
+
+345
+0:15:19,4 --> 0:15:20,48
+chord progressions here.
+ 
+
+
+346
+0:15:20,48 --> 0:15:23,2
+So here we've got--let's see.
+ 
+
+
+347
+0:15:23,2 --> 0:15:27,149
+We've got some chords set out
+and we're going to--
+
+
+348
+0:15:27,149 --> 0:15:32,785
+we've got some chords set out
+here and we're in the key of C
+
+
+349
+0:15:32,785 --> 0:15:35,643
+at this point,
+and we're going to hear
+
+
+350
+0:15:35,643 --> 0:15:38,831
+Beethoven go to a tonic chord,
+then a sub-dominant chord,
+
+
+351
+0:15:38,831 --> 0:15:42,418
+then a tonic chord,
+then a dominant chord and so on.
+
+
+352
+0:15:42,418 --> 0:15:45,327
+We're just going to watch and
+listen to--maybe even sing along
+
+
+353
+0:15:45,327 --> 0:15:47,139
+with--the bass as he changes
+chords.
+
+
+354
+0:15:47,139 --> 0:15:54,9
+>
+ 
+
+
+355
+0:15:54,9 --> 0:16:24,35
+>
+ 
+
+
+356
+0:16:24,35 --> 0:16:30,27
+And let's work--we'll hear that
+again, but as you can see
+
+
+357
+0:16:30,27 --> 0:16:32,155
+>
+ 
+
+
+358
+0:16:32,155 --> 0:16:36,82
+and then hold on that
+>
+
+
+359
+0:16:36,82 --> 0:16:40,9
+and then the changes came a
+little bit faster and faster.
+
+
+360
+0:16:40,9 --> 0:16:41,538
+So let's listen to that again.
+ 
+
+
+361
+0:16:41,538 --> 0:16:45,932
+And we will then get over to
+here, where he's sitting on the
+
+
+362
+0:16:45,932 --> 0:16:50,621
+tonic chord, and we want to see
+how long he's going to hold this
+
+
+363
+0:16:50,621 --> 0:16:51,514
+tonic chord.
+ 
+
+
+364
+0:16:51,514 --> 0:16:52,259
+Okay?
+ 
+
+
+365
+0:16:52,259 --> 0:16:55,33
+>
+ 
+
+
+366
+0:16:55,33 --> 0:17:3,84
+>
+ 
+
+
+367
+0:17:3,84 --> 0:17:6,753
+Irregular, huh,
+because we held a long time
+
+
+368
+0:17:6,753 --> 0:17:7,309
+there.
+ 
+
+
+369
+0:17:7,309 --> 0:17:10,539
+Now, moving faster.
+ 
+
+
+370
+0:17:10,539 --> 0:17:17,609
+>
+ 
+
+
+371
+0:17:17,609 --> 0:17:18,92
+Sing.
+ 
+
+
+372
+0:17:18,92 --> 0:17:20,509
+>
+ 
+
+
+373
+0:17:20,509 --> 0:17:21,38
+Sing with me.
+ 
+
+
+374
+0:17:21,38 --> 0:17:36,98
+>
+ 
+
+
+375
+0:17:36,98 --> 0:17:38,66
+Okay.
+ 
+
+
+376
+0:17:38,66 --> 0:17:41,376
+So he's up to something here
+with this rate of harmonic
+
+
+377
+0:17:41,376 --> 0:17:41,828
+change.
+ 
+
+
+378
+0:17:41,828 --> 0:17:43,798
+We almost fell asleep on that
+tonic chord.
+
+
+379
+0:17:43,798 --> 0:17:47,0
+He's doing the opposite of what
+Mozart did.
+
+
+380
+0:17:47,0 --> 0:17:50,157
+He's trying to relax us here by
+slowing down the rate of
+
+
+381
+0:17:50,157 --> 0:17:51,48
+harmonic change here.
+ 
+
+
+382
+0:17:51,48 --> 0:17:53,92
+That held for about thirty
+seconds, that tonic chord.
+
+
+383
+0:17:53,92 --> 0:17:57,49
+Almost all classical music
+involves irregular rates of
+
+
+384
+0:17:57,49 --> 0:18:0,855
+harmonic change,
+a point I think will become
+
+
+385
+0:18:0,855 --> 0:18:4,46
+apparent later on,
+but that is perhaps why this is
+
+
+386
+0:18:4,46 --> 0:18:8,519
+the Pastoral Symphony--
+this idea of being relaxed,
+
+
+387
+0:18:8,519 --> 0:18:12,9
+being outdoors among the--
+amidst nature and being in a
+
+
+388
+0:18:12,9 --> 0:18:15,96
+very relaxed sort of state of
+mind.
+
+
+389
+0:18:15,96 --> 0:18:20,848
+The rate of harmonic change has
+slowed down considerably here.
+
+
+390
+0:18:20,848 --> 0:18:21,49
+Okay.
+ 
+
+
+391
+0:18:21,49 --> 0:18:26,608
+Now for the rest of the session
+today,
+
+
+392
+0:18:26,608 --> 0:18:30,981
+what I'd like to do is take
+examples from the realm of pop
+
+
+393
+0:18:30,981 --> 0:18:35,815
+music and use them as paradigms
+for what happens in the world of
+
+
+394
+0:18:35,815 --> 0:18:37,349
+classical music.
+ 
+
+
+395
+0:18:37,349 --> 0:18:38,96
+Why would I do that?
+ 
+
+
+396
+0:18:38,96 --> 0:18:41,896
+Why, when dealing with harmony
+and bass lines,
+
+
+397
+0:18:41,896 --> 0:18:45,878
+do I want to start by focusing
+on popular music and then apply
+
+
+398
+0:18:45,878 --> 0:18:48,49
+those principles to classical
+music?
+
+
+399
+0:18:48,49 --> 0:18:52,29
+What does pop music do for us
+that's very helpful?
+
+
+400
+0:18:52,29 --> 0:18:52,99
+Marcus?
+ 
+
+
+401
+0:18:52,99 --> 0:18:54,47
+Student: It's,
+like, very regular.
+
+
+402
+0:18:54,47 --> 0:18:55,332
+Prof: Okay.
+ 
+
+
+403
+0:18:55,332 --> 0:18:57,25
+It's not like;
+it is very regular,
+
+
+404
+0:18:57,25 --> 0:18:57,73
+Marcus.
+ 
+
+
+405
+0:18:57,73 --> 0:19:0,48
+I'm always telling my kids,
+"Don't like"--no.
+
+
+406
+0:19:0,48 --> 0:19:3,103
+It is indeed very
+regular--So it is indeed very
+
+
+407
+0:19:3,103 --> 0:19:6,553
+regular so that's one thing,
+and by regular we mean these
+
+
+408
+0:19:6,553 --> 0:19:8,99
+patterns keep repeating again
+and again.
+
+
+409
+0:19:8,99 --> 0:19:10,23
+So Marcus is absolutely right.
+ 
+
+
+410
+0:19:10,23 --> 0:19:13,95
+That's the big-ticket
+item--it's regular.
+
+
+411
+0:19:13,95 --> 0:19:17,406
+It oftentimes repeats and it
+can be symmetrical in that
+
+
+412
+0:19:17,406 --> 0:19:17,92
+sense.
+ 
+
+
+413
+0:19:17,92 --> 0:19:19,519
+Another observation?
+ 
+
+
+414
+0:19:19,519 --> 0:19:21,278
+Roger?
+ 
+
+
+415
+0:19:21,278 --> 0:19:27,328
+Student:
+>
+
+
+416
+0:19:27,328 --> 0:19:28,236
+Prof: Okay.
+ 
+
+
+417
+0:19:28,236 --> 0:19:28,488
+Yeah.
+ 
+
+
+418
+0:19:28,488 --> 0:19:29,95
+It's--that's another point.
+ 
+
+
+419
+0:19:29,95 --> 0:19:33,717
+It's more obvious because there
+are probably fewer lines there,
+
+
+420
+0:19:33,717 --> 0:19:36,209
+so that you can focus on the
+primary line,
+
+
+421
+0:19:36,209 --> 0:19:38,31
+the basic line--the bass line.
+ 
+
+
+422
+0:19:38,31 --> 0:19:38,64
+Yeah.
+ 
+
+
+423
+0:19:38,64 --> 0:19:42,14
+So there's--it's probably
+simpler in that sense.
+
+
+424
+0:19:42,14 --> 0:19:44,67
+Any other observations?
+ 
+
+
+425
+0:19:44,67 --> 0:19:48,19
+Well, here's one other that you
+might not have thought of,
+
+
+426
+0:19:48,19 --> 0:19:52,383
+and that is that most of the
+chords in rock music in
+
+
+427
+0:19:52,383 --> 0:19:56,318
+particular tend to be
+root-position chords,
+
+
+428
+0:19:56,318 --> 0:19:59,63
+and for that reason they're
+easier to hear.
+
+
+429
+0:19:59,63 --> 0:20:2,17
+When you start getting
+inversion, "what note is
+
+
+430
+0:20:2,17 --> 0:20:4,96
+it, what chord is it,"
+that obfuscates the issue.
+
+
+431
+0:20:4,96 --> 0:20:8,513
+So because so much popular
+music and particularly rock
+
+
+432
+0:20:8,513 --> 0:20:12,605
+music has those chords in root
+position we can track them more
+
+
+433
+0:20:12,605 --> 0:20:13,41
+readily.
+ 
+
+
+434
+0:20:13,41 --> 0:20:15,538
+And then finally we could add
+that--
+
+
+435
+0:20:15,538 --> 0:20:19,487
+the idea that maybe with a lot
+of electronic basses and things
+
+
+436
+0:20:19,487 --> 0:20:23,249
+like that that they play--
+they tend to play the bass just
+
+
+437
+0:20:23,249 --> 0:20:23,689
+louder.
+ 
+
+
+438
+0:20:23,689 --> 0:20:24,13
+Okay?
+ 
+
+
+439
+0:20:24,13 --> 0:20:27,463
+So all of these factors,
+particularly the idea of
+
+
+440
+0:20:27,463 --> 0:20:29,41
+regularity and repetition.
+ 
+
+
+441
+0:20:29,41 --> 0:20:36,549
+So let's take a couple of
+examples here.
+
+
+442
+0:20:36,549 --> 0:20:39,89
+Okay. I think we have something.
+ 
+
+
+443
+0:20:39,89 --> 0:20:43,45
+I've chosen something called
+Badly Drawn Boy.
+
+
+444
+0:20:43,45 --> 0:20:44,64
+I had this in my collection.
+ 
+
+
+445
+0:20:44,64 --> 0:20:46,5
+Anybody ever heard of this?
+ 
+
+
+446
+0:20:46,5 --> 0:20:47,86
+Is--okay.
+ 
+
+
+447
+0:20:47,86 --> 0:20:47,674
+One, two.
+ 
+
+
+448
+0:20:47,674 --> 0:20:49,44
+This is not--okay,
+three.
+
+
+449
+0:20:49,44 --> 0:20:52,111
+So this is--is that--is it
+"Badly Drawn Boys"
+
+
+450
+0:20:52,111 --> 0:20:53,15
+or "Boy"?
+ 
+
+
+451
+0:20:53,15 --> 0:20:56,279
+Boy. What? Singular. Okay.
+ 
+
+
+452
+0:20:56,279 --> 0:20:58,89
+We're going to hear just a few
+seconds of this.
+
+
+453
+0:20:58,89 --> 0:21:2,846
+See if you can determine how
+many chords we have
+
+
+454
+0:21:2,846 --> 0:21:6,13
+here--whether we have a chord
+change.
+
+
+455
+0:21:6,13 --> 0:21:9,493
+If so, how many chords are
+involved in this chord change
+
+
+456
+0:21:9,493 --> 0:21:12,859
+and are they changing at a
+regular or irregular rate?
+
+
+457
+0:21:12,859 --> 0:21:38,619
+>
+ 
+
+
+458
+0:21:38,619 --> 0:21:39,769
+What about that?
+ 
+
+
+459
+0:21:39,769 --> 0:21:42,64
+Regular or irregular?
+ 
+
+
+460
+0:21:42,64 --> 0:21:43,88
+Student: Is it regular?
+ 
+
+
+461
+0:21:43,88 --> 0:21:44,32
+Prof: Regular,
+yeah.
+
+
+462
+0:21:44,32 --> 0:21:45,41
+>
+ 
+
+
+463
+0:21:45,41 --> 0:21:47,98
+And then we go on to the next
+one.
+
+
+464
+0:21:47,98 --> 0:21:49,21
+And how many chords were
+involved there?
+
+
+465
+0:21:49,21 --> 0:21:51,598
+Difference of opinion.
+ 
+
+
+466
+0:21:51,598 --> 0:22:2,279
+So how many--well,
+let's hear it again.
+
+
+467
+0:22:2,279 --> 0:22:13,25
+>
+ 
+
+
+468
+0:22:13,25 --> 0:22:23,21
+>
+ 
+
+
+469
+0:22:23,21 --> 0:22:26,69
+So two, yeah. Regular?
+ 
+
+
+470
+0:22:26,69 --> 0:22:27,308
+Student:
+>
+
+
+471
+0:22:27,308 --> 0:22:29,503
+Prof: So we have just
+two chords here,
+
+
+472
+0:22:29,503 --> 0:22:31,65
+just changing back and forth
+between two.
+
+
+473
+0:22:31,65 --> 0:22:36,95
+Here is another example:
+Justin Timberlake.
+
+
+474
+0:22:36,95 --> 0:22:39,25
+Sorry, but it's a good example.
+ 
+
+
+475
+0:22:39,25 --> 0:22:40,329
+Let's listen to this.
+ 
+
+
+476
+0:22:40,329 --> 0:22:41,799
+How many chords are involved?
+ 
+
+
+477
+0:22:41,799 --> 0:22:44,339
+Regular or irregular?
+ 
+
+
+478
+0:22:44,339 --> 0:23:8,9
+>
+ 
+
+
+479
+0:23:8,9 --> 0:23:12,15
+>
+ 
+
+
+480
+0:23:12,15 --> 0:23:14,74
+Regular or irregular?
+ 
+
+
+481
+0:23:14,74 --> 0:23:16,5
+Hmm?
+ 
+
+
+482
+0:23:16,5 --> 0:23:17,92
+How many think regular?
+ 
+
+
+483
+0:23:17,92 --> 0:23:19,338
+Raise your right hand.
+ 
+
+
+484
+0:23:19,338 --> 0:23:21,46
+Raise your left hand if you
+think it's irregular.
+
+
+485
+0:23:21,46 --> 0:23:24,29
+Yeah, it's regular,
+and with-- each chord was
+
+
+486
+0:23:24,29 --> 0:23:26,66
+holding for two beats there in
+duple meter.
+
+
+487
+0:23:26,66 --> 0:23:28,308
+How many chords were there
+altogether?
+
+
+488
+0:23:28,308 --> 0:23:32,48
+Yeah, I think there were four
+chords there so we had change.
+
+
+489
+0:23:32,48 --> 0:23:33,46
+Yes, there was change.
+ 
+
+
+490
+0:23:33,46 --> 0:23:36,95
+It was regular and it happened
+to involve four chords.
+
+
+491
+0:23:36,95 --> 0:23:37,259
+Okay.
+ 
+
+
+492
+0:23:37,259 --> 0:23:40,298
+Pop music--we've been using
+some pop music here.
+
+
+493
+0:23:40,298 --> 0:23:43,46
+We've talked about why we use
+the pop music.
+
+
+494
+0:23:43,46 --> 0:23:45,825
+Let's talk about what the
+difference between pop and
+
+
+495
+0:23:45,825 --> 0:23:46,798
+classical music is.
+ 
+
+
+496
+0:23:46,798 --> 0:23:51,57
+We've touched on this a little
+bit before but let's play with
+
+
+497
+0:23:51,57 --> 0:23:51,98
+this again.
+ 
+
+
+498
+0:23:51,98 --> 0:23:54,788
+Let's say you go home for
+Thanksgiving break and your
+
+
+499
+0:23:54,788 --> 0:23:57,327
+grandmother says,
+"What have you been doing
+
+
+500
+0:23:57,327 --> 0:23:58,298
+at Yale?"
+ 
+
+
+501
+0:23:58,298 --> 0:24:0,182
+"Well, I've been taking
+this course on music and we've
+
+
+502
+0:24:0,182 --> 0:24:2,65
+been studying classical music
+and some popular music,"
+
+
+503
+0:24:2,65 --> 0:24:3,704
+and she says,
+"What's the difference?
+
+
+504
+0:24:3,704 --> 0:24:4,6
+Tell me.
+ 
+
+
+505
+0:24:4,6 --> 0:24:6,116
+What's the difference between
+popular music and classical
+
+
+506
+0:24:6,116 --> 0:24:6,72
+music?"
+ 
+
+
+507
+0:24:6,72 --> 0:24:9,358
+How would you explain to your
+grandmother what the difference
+
+
+508
+0:24:9,358 --> 0:24:9,578
+is?
+ 
+
+
+509
+0:24:9,578 --> 0:24:12,981
+Maybe six, seven,
+eight different bullet points
+
+
+510
+0:24:12,981 --> 0:24:13,5
+here.
+ 
+
+
+511
+0:24:13,5 --> 0:24:16,41
+Who can get us started?
+ 
+
+
+512
+0:24:16,41 --> 0:24:18,588
+We've talked about some of
+these already,
+
+
+513
+0:24:18,588 --> 0:24:21,74
+having to do with the nature of
+the harmony--
+
+
+514
+0:24:21,74 --> 0:24:25,42
+that pop music tends to have
+simpler harmonies,
+
+
+515
+0:24:25,42 --> 0:24:28,308
+and that those harmonies tend
+to be more repetitious,
+
+
+516
+0:24:28,308 --> 0:24:33,105
+that they tend to have
+harmonies that have chords in
+
+
+517
+0:24:33,105 --> 0:24:34,608
+root position.
+ 
+
+
+518
+0:24:34,608 --> 0:24:37,678
+And here is one other thing you
+might not think of and then I'm
+
+
+519
+0:24:37,678 --> 0:24:40,5
+going to stop and I'm going to
+let you add things here.
+
+
+520
+0:24:40,5 --> 0:24:43,821
+They tend to be just triads
+whereas in classical music
+
+
+521
+0:24:43,821 --> 0:24:45,64
+>
+ 
+
+
+522
+0:24:45,64 --> 0:24:48,45
+we can have a triad but we can
+also add a seventh note with
+
+
+523
+0:24:48,45 --> 0:24:49,0
+>
+ 
+
+
+524
+0:24:49,0 --> 0:24:53,64
+one, three, five,
+seven, nine,
+
+
+525
+0:24:53,64 --> 0:24:58,279
+eleven, that kind of thing.
+ 
+
+
+526
+0:24:58,279 --> 0:25:1,228
+It gets more dissonant,
+the more notes that you add
+
+
+527
+0:25:1,228 --> 0:25:1,7
+there.
+ 
+
+
+528
+0:25:1,7 --> 0:25:5,73
+So classical music does involve
+more complex chords.
+
+
+529
+0:25:5,73 --> 0:25:11,609
+Okay. What else here?
+ 
+
+
+530
+0:25:11,609 --> 0:25:14,23
+Oscar.
+ 
+
+
+531
+0:25:14,23 --> 0:25:16,259
+Student: Pop music tends
+to have a vocal part?
+
+
+532
+0:25:16,259 --> 0:25:18,539
+Prof: Pop music tends to
+have a vocal part.
+
+
+533
+0:25:18,539 --> 0:25:20,298
+Why?
+ 
+
+
+534
+0:25:20,298 --> 0:25:24,63
+Student: Maybe it wants
+to be popular.
+
+
+535
+0:25:24,63 --> 0:25:26,39
+Prof: Well,
+because it wants to be popular.
+
+
+536
+0:25:26,39 --> 0:25:28,118
+>
+ 
+
+
+537
+0:25:28,118 --> 0:25:30,348
+There may be a circular
+argument there.
+
+
+538
+0:25:30,348 --> 0:25:33,115
+Well, okay, but if you're going
+to have a singer,
+
+
+539
+0:25:33,115 --> 0:25:35,48
+what's that singer going to be
+singing?
+
+
+540
+0:25:35,48 --> 0:25:36,22
+Student: A melody.
+ 
+
+
+541
+0:25:36,22 --> 0:25:38,509
+Prof: A melody?
+ 
+
+
+542
+0:25:38,509 --> 0:25:41,608
+Well, but classical music has
+melody.
+
+
+543
+0:25:41,608 --> 0:25:44,118
+We have a violinist play a
+melody.
+
+
+544
+0:25:44,118 --> 0:25:47,646
+If we have a singer,
+the singer's going to be
+
+
+545
+0:25:47,646 --> 0:25:49,9
+singing a text.
+ 
+
+
+546
+0:25:49,9 --> 0:25:49,301
+Right?
+ 
+
+
+547
+0:25:49,301 --> 0:25:52,29
+And we talked about this
+before--that classical music,
+
+
+548
+0:25:52,29 --> 0:25:54,58
+probably eighty-five percent of
+it,
+
+
+549
+0:25:54,58 --> 0:25:57,518
+does not involve a text,
+and that's a whole different
+
+
+550
+0:25:57,518 --> 0:26:1,308
+ballgame because then you have
+to communicate meaning in a
+
+
+551
+0:26:1,308 --> 0:26:3,769
+completely different sort of
+way.
+
+
+552
+0:26:3,769 --> 0:26:7,545
+Maybe you communicate meaning
+by slowing down your harmonic
+
+
+553
+0:26:7,545 --> 0:26:11,19
+motion to make us feel relaxed
+so that each of these--
+
+
+554
+0:26:11,19 --> 0:26:14,412
+with pop music you have--you
+know what the thing means
+
+
+555
+0:26:14,412 --> 0:26:18,314
+principally because of the text,
+but with the classical music
+
+
+556
+0:26:18,314 --> 0:26:21,798
+you've got these sort of
+subliminal symbols in there,
+
+
+557
+0:26:21,798 --> 0:26:25,16
+subliminal signifiers that we
+got to pick up on.
+
+
+558
+0:26:25,16 --> 0:26:26,858
+And we'll be talking more and
+more about that.
+
+
+559
+0:26:26,858 --> 0:26:29,175
+So we do have--that's a very
+important point that Oscar
+
+
+560
+0:26:29,175 --> 0:26:29,818
+raises there.
+ 
+
+
+561
+0:26:29,818 --> 0:26:34,605
+We've got text in pop music
+that tells us what this music
+
+
+562
+0:26:34,605 --> 0:26:35,289
+means.
+ 
+
+
+563
+0:26:35,289 --> 0:26:37,48
+Anything else?
+ 
+
+
+564
+0:26:37,48 --> 0:26:42,17
+Carolyn.
+ 
+
+
+565
+0:26:42,17 --> 0:26:48,0
+Student:
+>
+
+
+566
+0:26:48,0 --> 0:26:49,12
+Prof: Okay.
+ 
+
+
+567
+0:26:49,12 --> 0:26:51,548
+If you go to hear a symphony of
+mid-Beethoven,
+
+
+568
+0:26:51,548 --> 0:26:54,759
+on-- each movement will
+probably last fifteen minutes.
+
+
+569
+0:26:54,759 --> 0:26:57,556
+If you put on a CD,
+we could have-- what's the
+
+
+570
+0:26:57,556 --> 0:27:1,286
+timing on the Justin Timberlake
+thing there or any one of the
+
+
+571
+0:27:1,286 --> 0:27:1,97
+tracks?
+ 
+
+
+572
+0:27:1,97 --> 0:27:3,839
+Pick up the "Duke of
+Earl" one there.
+
+
+573
+0:27:3,839 --> 0:27:5,91
+Do they give us timings?
+ 
+
+
+574
+0:27:5,91 --> 0:27:6,198
+Okay.
+ 
+
+
+575
+0:27:6,198 --> 0:27:9,25
+I can't read it but two minutes
+and fifty seconds,
+
+
+576
+0:27:9,25 --> 0:27:12,372
+two minutes--this one's only
+two minutes, three minutes and
+
+
+577
+0:27:12,372 --> 0:27:14,68
+twenty seconds,
+that kind of thing.
+
+
+578
+0:27:14,68 --> 0:27:16,94
+They're short,
+whereas Beethoven,
+
+
+579
+0:27:16,94 --> 0:27:19,13
+as mentioned,
+is much longer.
+
+
+580
+0:27:19,13 --> 0:27:23,64
+What does that opportunity of
+length provide us?
+
+
+581
+0:27:23,64 --> 0:27:28,89
+It provides us the opportunity
+to be more diversified in terms
+
+
+582
+0:27:28,89 --> 0:27:30,58
+of the mood of the music.
+ 
+
+
+583
+0:27:30,58 --> 0:27:35,0
+So in classical music you can
+have rather wide mood swings.
+
+
+584
+0:27:35,0 --> 0:27:38,618
+Remember we had in that one
+piece <<plays
+
+
+585
+0:27:38,618 --> 0:27:39,798
+piano>>
+ 
+
+
+586
+0:27:39,798 --> 0:27:43,259
+and then <<plays
+piano>>
+
+
+587
+0:27:43,259 --> 0:27:45,729
+there was a modulation tying
+them together,
+
+
+588
+0:27:45,729 --> 0:27:48,608
+but those were completely
+different sentiments.
+
+
+589
+0:27:48,608 --> 0:27:52,654
+Usually, with a piece of
+popular music you get a single
+
+
+590
+0:27:52,654 --> 0:27:54,756
+ethos,
+a single feeling,
+
+
+591
+0:27:54,756 --> 0:27:58,279
+a single mood associated with
+the piece,
+
+
+592
+0:27:58,279 --> 0:28:1,358
+and the piece will tend to be
+shorter.
+
+
+593
+0:28:1,358 --> 0:28:4,276
+Any more that we could push on
+that?
+
+
+594
+0:28:4,276 --> 0:28:4,858
+Yeah.
+ 
+
+
+595
+0:28:4,858 --> 0:28:8,369
+Student:
+>
+
+
+596
+0:28:8,369 --> 0:28:10,7
+Prof: Okay. That's--yeah.
+ 
+
+
+597
+0:28:10,7 --> 0:28:12,38
+Most classical music is written
+down.
+
+
+598
+0:28:12,38 --> 0:28:13,838
+We've talked--we spent a lot of
+time talking about that--
+
+
+599
+0:28:13,838 --> 0:28:16,548
+the most popular music,
+virtually all of it--
+
+
+600
+0:28:16,548 --> 0:28:19,38
+although after the fact people
+try to write it down.
+
+
+601
+0:28:19,38 --> 0:28:23,39
+You can go buy a score of the
+Beatles,
+
+
+602
+0:28:23,39 --> 0:28:27,201
+for example--although they
+didn't design this initially
+
+
+603
+0:28:27,201 --> 0:28:29,484
+with music,
+but after the fact,
+
+
+604
+0:28:29,484 --> 0:28:32,69
+people sort of listen to it and
+make written--
+
+
+605
+0:28:32,69 --> 0:28:36,215
+put in written form what had
+originally been just an aurally
+
+
+606
+0:28:36,215 --> 0:28:38,69
+conceived artistic statement.
+ 
+
+
+607
+0:28:38,69 --> 0:28:40,38
+Anything else? Roger?
+ 
+
+
+608
+0:28:40,38 --> 0:28:46,19
+Student:
+>
+
+
+609
+0:28:46,19 --> 0:28:47,63
+Prof: Yeah.
+ 
+
+
+610
+0:28:47,63 --> 0:28:50,22
+Oh, so we've got the difference
+between acoustical instruments,
+
+
+611
+0:28:50,22 --> 0:28:52,945
+which are sort of natural wood
+and strings and that sort of
+
+
+612
+0:28:52,945 --> 0:28:55,39
+thing,
+and electronically amplified
+
+
+613
+0:28:55,39 --> 0:28:58,262
+sound in which it might be sent
+to a mixer or perhaps a
+
+
+614
+0:28:58,262 --> 0:29:1,903
+synthesizer that could play with
+those partials that we talked
+
+
+615
+0:29:1,903 --> 0:29:3,49
+about,
+and maybe turn a
+
+
+616
+0:29:3,49 --> 0:29:6,595
+clarinet--somebody playing at a
+keyboard and you want that
+
+
+617
+0:29:6,595 --> 0:29:8,608
+keyboard to sound like a
+trumpet,
+
+
+618
+0:29:8,608 --> 0:29:11,353
+well, you just turn a mixing
+board and you can get those
+
+
+619
+0:29:11,353 --> 0:29:13,48
+pitches to sound like a trumpet.
+ 
+
+
+620
+0:29:13,48 --> 0:29:15,159
+Or, for example,
+let's say you're Cher and
+
+
+621
+0:29:15,159 --> 0:29:18,4
+you're getting in to your early
+sixties and you really can't hit
+
+
+622
+0:29:18,4 --> 0:29:21,731
+that high note anymore;
+you can get electronically that
+
+
+623
+0:29:21,731 --> 0:29:23,798
+particular sound to be enhanced.
+ 
+
+
+624
+0:29:23,798 --> 0:29:25,47
+And let's say you can't hold
+that.
+
+
+625
+0:29:25,47 --> 0:29:28,817
+Let's say Pavarotti at the end
+of his life couldn't hold notes
+
+
+626
+0:29:28,817 --> 0:29:31,672
+as long as he could when he was
+recording in nineteen
+
+
+627
+0:29:31,672 --> 0:29:32,66
+seventy-eight.
+ 
+
+
+628
+0:29:32,66 --> 0:29:35,567
+Well, you can just--an engineer
+will just sit there and isolate
+
+
+629
+0:29:35,567 --> 0:29:38,334
+that second of sound and then
+give a "times three"
+
+
+630
+0:29:38,334 --> 0:29:40,21
+command and "boom,"
+well,
+
+
+631
+0:29:40,21 --> 0:29:42,9
+look at Pavarotti hold out that
+note.
+
+
+632
+0:29:42,9 --> 0:29:45,588
+Well, it's the miracle of the
+engineer and not the singer.
+
+
+633
+0:29:45,588 --> 0:29:49,107
+So there are a lot of
+acoustical things and sort of
+
+
+634
+0:29:49,107 --> 0:29:52,486
+tricks of synthetic things going
+on in pop music.
+
+
+635
+0:29:52,486 --> 0:29:53,118
+Yeah.
+ 
+
+
+636
+0:29:53,118 --> 0:29:56,392
+Student: Well,
+not just the chord progression
+
+
+637
+0:29:56,392 --> 0:29:58,828
+but also the structure of the
+piece.
+
+
+638
+0:29:58,828 --> 0:30:2,279
+Like in popular music there's
+often a couple of verses and a
+
+
+639
+0:30:2,279 --> 0:30:5,906
+chorus and a bridge and you can
+predict each different movement
+
+
+640
+0:30:5,906 --> 0:30:10,19
+of the piece,
+and that's more regular than--
+
+
+641
+0:30:10,19 --> 0:30:11,65
+Prof: Couldn't say it
+better myself.
+
+
+642
+0:30:11,65 --> 0:30:14,568
+Say that nice and loud so
+everyone can hear it.
+
+
+643
+0:30:14,568 --> 0:30:18,43
+Student: The structure
+of a popular piece is often more
+
+
+644
+0:30:18,43 --> 0:30:22,38
+predictable in pattern and
+verses and bridges and choruses
+
+
+645
+0:30:22,38 --> 0:30:25,961
+whereas with classical music you
+really can't predict what part
+
+
+646
+0:30:25,961 --> 0:30:29,569
+of the movement you're at as
+well as you can with--
+
+
+647
+0:30:29,569 --> 0:30:30,71
+Prof: Right. Exactly.
+ 
+
+
+648
+0:30:30,71 --> 0:30:33,538
+It's not --and that ties in
+with the harmony also,
+
+
+649
+0:30:33,538 --> 0:30:35,788
+which is also a lot more
+predictable.
+
+
+650
+0:30:35,788 --> 0:30:38,288
+And so generally speaking what
+we end up with classical
+
+
+651
+0:30:38,288 --> 0:30:39,91
+music-it's much more
+diversified.
+
+
+652
+0:30:39,91 --> 0:30:40,97
+It's much more varied.
+ 
+
+
+653
+0:30:40,97 --> 0:30:42,22
+It's much more complex.
+ 
+
+
+654
+0:30:42,22 --> 0:30:44,63
+We've got contrapuntal lines
+operating in it.
+
+
+655
+0:30:44,63 --> 0:30:48,29
+It has the capacity for
+expansion.
+
+
+656
+0:30:48,29 --> 0:30:52,595
+It can take us through the full
+panoply of human emotions within
+
+
+657
+0:30:52,595 --> 0:30:54,769
+one particular composition..
+ 
+
+
+658
+0:30:54,769 --> 0:30:58,25
+And it perhaps allows the
+opportunity for more personal
+
+
+659
+0:30:58,25 --> 0:31:0,757
+interpretation,
+"exactly what does this
+
+
+660
+0:31:0,757 --> 0:31:3,64
+music mean,"
+more personal interpretation,
+
+
+661
+0:31:3,64 --> 0:31:5,73
+because we're not tied to a
+text;
+
+
+662
+0:31:5,73 --> 0:31:7,961
+we're not linked in to a
+particular text that tells us
+
+
+663
+0:31:7,961 --> 0:31:8,72
+what it's about.
+ 
+
+
+664
+0:31:8,72 --> 0:31:12,66
+So those are just a few ideas
+as we pursue this.
+
+
+665
+0:31:12,66 --> 0:31:16,753
+Well, what I'd like to do now
+is move here to a couple of
+
+
+666
+0:31:16,753 --> 0:31:19,912
+additional pieces,
+and we're going to use an
+
+
+667
+0:31:19,912 --> 0:31:24,0
+example of pop music now with a
+three-chord chord progression.
+
+
+668
+0:31:24,0 --> 0:31:27,364
+We've heard I guess it was
+Badly Drawn Boy--Boys there with
+
+
+669
+0:31:27,364 --> 0:31:29,22
+a two-chord chord progression.
+ 
+
+
+670
+0:31:29,22 --> 0:31:31,769
+Now we're going to hear Beach
+Boys, I guess,
+
+
+671
+0:31:31,769 --> 0:31:35,92
+with a three-chord chord
+progression and it's going to be
+
+
+672
+0:31:35,92 --> 0:31:36,93
+sub-dominant (IV),
+dominant (V),
+
+
+673
+0:31:36,93 --> 0:31:37,88
+tonic (I).
+ 
+
+
+674
+0:31:37,88 --> 0:31:40,21
+Is it regular or irregular?
+ 
+
+
+675
+0:31:40,21 --> 0:31:47,799
+>
+ 
+
+
+676
+0:31:47,799 --> 0:31:48,809
+And try to sing the bass.
+ 
+
+
+677
+0:31:48,809 --> 0:32:5,98
+ 
+ 
+
+
+678
+0:32:5,98 --> 0:32:7,48
+Can you sing that bass?
+ 
+
+
+679
+0:32:7,48 --> 0:32:8,39
+You sing it for me.
+ 
+
+
+680
+0:32:8,39 --> 0:32:9,539
+Here's the tonic.
+ 
+
+
+681
+0:32:9,539 --> 0:32:10,369
+>
+ 
+
+
+682
+0:32:10,369 --> 0:32:13,42
+>
+ 
+
+
+683
+0:32:13,42 --> 0:32:15,14
+Good.
+ 
+
+
+684
+0:32:15,14 --> 0:32:17,69
+Good. Louder. That's it.
+ 
+
+
+685
+0:32:17,69 --> 0:32:19,23
+>
+ 
+
+
+686
+0:32:19,23 --> 0:32:19,458
+Okay.
+ 
+
+
+687
+0:32:19,458 --> 0:32:21,652
+So that's all you got to do,
+and you can hear the
+
+
+688
+0:32:21,652 --> 0:32:22,75
+>
+ 
+
+
+689
+0:32:22,75 --> 0:32:25,657
+holding for twice as long as
+the other, so you got irregular
+
+
+690
+0:32:25,657 --> 0:32:26,94
+rate of harmonic change.
+ 
+
+
+691
+0:32:26,94 --> 0:32:29,48
+So that's I, IV, V, I.
+ 
+
+
+692
+0:32:29,48 --> 0:32:34,42
+And let's go to a little bit
+more of Beethoven.
+
+
+693
+0:32:34,42 --> 0:32:37,21
+We're going to go now to the
+last movement of his
+
+
+694
+0:32:37,21 --> 0:32:39,477
+Pastoral Symphony,
+and I keep hitting on the
+
+
+695
+0:32:39,477 --> 0:32:41,24
+Pastoral Symphony 'cause
+in two weeks--
+
+
+696
+0:32:41,24 --> 0:32:43,858
+or maybe three weeks--we're
+going to go hear,
+
+
+697
+0:32:43,858 --> 0:32:46,917
+I guess, the Saybrook Orchestra
+play the Pastoral
+
+
+698
+0:32:46,917 --> 0:32:47,529
+Symphony.
+ 
+
+
+699
+0:32:47,529 --> 0:32:50,83
+So I'm spending a little extra
+time on the Pastoral
+
+
+700
+0:32:50,83 --> 0:32:50,798
+Symphony here.
+ 
+
+
+701
+0:32:50,798 --> 0:32:53,868
+And the last movement opens
+with this sort of sound.
+
+
+702
+0:32:53,868 --> 0:32:59,5
+We have these pitches
+>
+
+
+703
+0:32:59,5 --> 0:33:3,513
+and all listen and then you can
+tell me what instrument is
+
+
+704
+0:33:3,513 --> 0:33:4,43
+playing it.
+ 
+
+
+705
+0:33:4,43 --> 0:33:6,461
+So we have those sorts of
+sounds <<plays
+
+
+706
+0:33:6,461 --> 0:33:7,14
+piano>>
+ 
+
+
+707
+0:33:7,14 --> 0:33:9,903
+and then another instrument
+will come in with <<plays
+
+
+708
+0:33:9,903 --> 0:33:10,619
+piano>>
+ 
+
+
+709
+0:33:10,619 --> 0:33:12,94
+and play that.
+ 
+
+
+710
+0:33:12,94 --> 0:33:15,246
+It's all--these are all notes
+of a C triad,
+
+
+711
+0:33:15,246 --> 0:33:16,509
+>
+ 
+
+
+712
+0:33:16,509 --> 0:33:27,278
+C, E, G, C, E,
+all notes of a C triad.
+
+
+713
+0:33:27,278 --> 0:33:30,336
+Now we happen to be in the key
+of F here so that means he's
+
+
+714
+0:33:30,336 --> 0:33:34,165
+starting out with the dominant,
+which gets us to the point that
+
+
+715
+0:33:34,165 --> 0:33:37,91
+all pieces have to end in the
+tonic one way or another,
+
+
+716
+0:33:37,91 --> 0:33:39,92
+but not all pieces begin with
+the tonic.
+
+
+717
+0:33:39,92 --> 0:33:42,318
+So this one happens to begin
+with a sort of dominant chord.
+
+
+718
+0:33:42,318 --> 0:33:44,72
+So this is a little bit of
+dominant preparation.
+
+
+719
+0:33:44,72 --> 0:33:47,779
+>
+ 
+
+
+720
+0:33:47,779 --> 0:33:50,9
+So tell me what instruments are
+playing here.
+
+
+721
+0:33:50,9 --> 0:34:7,4
+>
+ 
+
+
+722
+0:34:7,4 --> 0:34:11,159
+And then the strings come in.
+ 
+
+
+723
+0:34:11,159 --> 0:34:12,76
+So what was the first
+instrument?
+
+
+724
+0:34:12,76 --> 0:34:14,48
+Anybody pick that up,
+on that one playing?
+
+
+725
+0:34:14,48 --> 0:34:18,121
+On the quiz or test next week
+or--on Thursday--we'll give you
+
+
+726
+0:34:18,121 --> 0:34:19,822
+three--at least three plays.
+ 
+
+
+727
+0:34:19,822 --> 0:34:20,429
+Robert?
+ 
+
+
+728
+0:34:20,429 --> 0:34:20,96
+Student: Clarinet.
+ 
+
+
+729
+0:34:20,96 --> 0:34:22,1
+Prof: Clarinet.
+ 
+
+
+730
+0:34:22,1 --> 0:34:24,208
+Yes, it was a clarinet up
+there, nice and high,
+
+
+731
+0:34:24,208 --> 0:34:26,742
+and then another instrument
+came in with <<plays
+
+
+732
+0:34:26,742 --> 0:34:27,65
+piano>>.
+ 
+
+
+733
+0:34:27,65 --> 0:34:30,21
+What instrument was that?
+ 
+
+
+734
+0:34:30,21 --> 0:34:34,954
+French horn,
+yeah, but notice that if we
+
+
+735
+0:34:34,954 --> 0:34:41,159
+take this aggregate--
+>
+
+
+736
+0:34:41,159 --> 0:34:44,289
+and we're back to that same
+idea of the octave,
+
+
+737
+0:34:44,289 --> 0:34:45,67
+the fifth, the fourth and the
+third,
+
+
+738
+0:34:45,67 --> 0:34:48,28
+sort of, so it's again sort of
+primordial,
+
+
+739
+0:34:48,28 --> 0:34:51,789
+this particular acoustical
+basis of so much of music.
+
+
+740
+0:34:51,789 --> 0:34:54,543
+So that's our dominant
+preparation and then the melody
+
+
+741
+0:34:54,543 --> 0:34:56,309
+starts, so let's listen to this.
+ 
+
+
+742
+0:34:56,309 --> 0:34:57,659
+Let me play it here a little
+bit.
+
+
+743
+0:34:57,659 --> 0:35:9,36
+>
+ 
+
+
+744
+0:35:9,36 --> 0:35:11,28
+So it has a kind of
+antecedent-consequent phrase
+
+
+745
+0:35:11,28 --> 0:35:13,121
+structure with the <<plays
+piano>>
+
+
+746
+0:35:13,121 --> 0:35:13,53
+chord.
+ 
+
+
+747
+0:35:13,53 --> 0:35:15,905
+Once we get up there,
+that's sort of the end of the
+
+
+748
+0:35:15,905 --> 0:35:18,139
+antecedent phrase and we have a
+chord change.
+
+
+749
+0:35:18,139 --> 0:35:20,3
+What we're working with here
+are the same chords.
+
+
+750
+0:35:20,3 --> 0:35:23,11
+We've sort of gone from the
+Beach Boys to Beethoven here.
+
+
+751
+0:35:23,11 --> 0:35:25,699
+We've got the same chords
+operating.
+
+
+752
+0:35:25,699 --> 0:35:28,13
+It's going to be a I chord,
+then a IV chord,
+
+
+753
+0:35:28,13 --> 0:35:30,28
+and we'll drop down to the IV
+chord.
+
+
+754
+0:35:30,28 --> 0:35:32,59
+Then we'll come to a V chord,
+to a I chord,
+
+
+755
+0:35:32,59 --> 0:35:34,77
+to a IV chord,
+to a V chord,
+
+
+756
+0:35:34,77 --> 0:35:36,443
+to a I chord,
+just as we were doing with the
+
+
+757
+0:35:36,443 --> 0:35:37,38
+Beach Boys.
+ 
+
+
+758
+0:35:37,38 --> 0:35:47,179
+ 
+ 
+
+
+759
+0:35:47,179 --> 0:35:48,69
+We'll resuscitate Beethoven
+here.
+
+
+760
+0:35:48,69 --> 0:35:50,469
+>
+ 
+
+
+761
+0:35:50,469 --> 0:35:53,11
+How many of you have ever heard
+this before, while Lynda's
+
+
+762
+0:35:53,11 --> 0:35:53,989
+getting this set?
+ 
+
+
+763
+0:35:53,989 --> 0:35:56,181
+Let's see if we could sing it
+together because we're going to
+
+
+764
+0:35:56,181 --> 0:35:57,679
+do this in a different way in a
+second.
+
+
+765
+0:35:57,679 --> 0:36:13,449
+Let's sing >
+ 
+
+
+766
+0:36:13,449 --> 0:36:15,369
+Okay. So let's sing this.
+ 
+
+
+767
+0:36:15,369 --> 0:36:20,505
+That's the melody and we're
+going to sing
+
+
+768
+0:36:20,505 --> 0:36:23,46
+>
+ 
+
+
+769
+0:36:23,46 --> 0:36:26,365
+beneath--we're going to sing
+Beethoven's bass beneath
+
+
+770
+0:36:26,365 --> 0:36:27,539
+Beethoven's melody.
+ 
+
+
+771
+0:36:27,539 --> 0:36:31,28
+>
+ 
+
+
+772
+0:36:31,28 --> 0:36:31,614
+Okay.
+ 
+
+
+773
+0:36:31,614 --> 0:36:32,82
+This is the intro.
+ 
+
+
+774
+0:36:32,82 --> 0:36:33,625
+That's fine.
+ 
+
+
+775
+0:36:33,625 --> 0:36:35,99
+We'll listen to it.
+ 
+
+
+776
+0:36:35,99 --> 0:36:37,179
+Here comes the horn.
+ 
+
+
+777
+0:36:37,179 --> 0:36:45,88
+>
+ 
+
+
+778
+0:36:45,88 --> 0:37:33,949
+>
+ 
+
+
+779
+0:37:33,949 --> 0:37:35,619
+Okay.
+ 
+
+
+780
+0:37:35,619 --> 0:37:39,3
+So that's an example of a
+classical composer,
+
+
+781
+0:37:39,3 --> 0:37:41,659
+admittedly in a pretty
+straightforward situation,
+
+
+782
+0:37:41,659 --> 0:37:45,188
+using the same three-chord
+chord progressions we find in
+
+
+783
+0:37:45,188 --> 0:37:46,28
+the Beach Boys.
+ 
+
+
+784
+0:37:46,28 --> 0:37:48,57
+Let's enlarge this further.
+ 
+
+
+785
+0:37:48,57 --> 0:37:51,42
+Let's move to a four-chord
+chord progression.
+
+
+786
+0:37:51,42 --> 0:37:52,34
+We're going to switch the board.
+ 
+
+
+787
+0:37:52,34 --> 0:37:56,17
+ 
+ 
+
+
+788
+0:37:56,17 --> 0:37:59,186
+And we're going to go to the
+kind of music that I grew up
+
+
+789
+0:37:59,186 --> 0:38:0,5
+with as a kid.
+ 
+
+
+790
+0:38:0,5 --> 0:38:0,766
+It's always fun.
+ 
+
+
+791
+0:38:0,766 --> 0:38:3,141
+This is Gene Chandler and the
+"Duke of Earl"
+
+
+792
+0:38:3,141 --> 0:38:5,875
+so we're going to listen to a
+little bit of it and we're going
+
+
+793
+0:38:5,875 --> 0:38:7,13
+to chart the bass here.
+ 
+
+
+794
+0:38:7,13 --> 0:38:7,858
+I'm trying to remember.
+ 
+
+
+795
+0:38:7,858 --> 0:38:9,51
+I think actually it's in the
+same key as Beethoven.
+
+
+796
+0:38:9,51 --> 0:38:18,98
+>
+ 
+
+
+797
+0:38:18,98 --> 0:38:21,356
+And then we'll see exactly what
+it is that he's doing here so
+
+
+798
+0:38:21,356 --> 0:38:23,99
+we're going to try to lock in on
+the bass.
+
+
+799
+0:38:23,99 --> 0:38:24,5
+Here we go.
+ 
+
+
+800
+0:38:24,5 --> 0:38:27,5
+>
+ 
+
+
+801
+0:38:27,5 --> 0:38:35,34
+>
+ 
+
+
+802
+0:38:35,34 --> 0:38:36,8
+So sing the bass with me.
+ 
+
+
+803
+0:38:36,8 --> 0:38:56,59
+>
+ 
+
+
+804
+0:38:56,59 --> 0:38:59,829
+So we've got four chords
+operating here and they're
+
+
+805
+0:38:59,829 --> 0:39:1,19
+changing regularly.
+ 
+
+
+806
+0:39:1,19 --> 0:39:2,55
+What are those four chords?
+ 
+
+
+807
+0:39:2,55 --> 0:39:4,768
+Well, we talked a little bit
+about this before.
+
+
+808
+0:39:4,768 --> 0:39:8,521
+Now we have what's called a VI
+chord and we're not moving
+
+
+809
+0:39:8,521 --> 0:39:12,101
+directly to the IV chord;
+we're moving to another
+
+
+810
+0:39:12,101 --> 0:39:16,11
+chord--here a VI chord,
+>
+
+
+811
+0:39:16,11 --> 0:39:18,23
+which happens to be a minor
+chord.
+
+
+812
+0:39:18,23 --> 0:39:20,3
+>
+ 
+
+
+813
+0:39:20,3 --> 0:39:21,949
+There's the IV chord
+>
+
+
+814
+0:39:21,949 --> 0:39:23,38
+and there's [V}-- <<plays
+piano>>
+
+
+815
+0:39:23,38 --> 0:39:24,789
+back to the I here.
+ 
+
+
+816
+0:39:24,789 --> 0:39:26,82
+So you sing this nice and loud
+for me, please.
+
+
+817
+0:39:26,82 --> 0:39:27,681
+>
+ 
+
+
+818
+0:39:27,681 --> 0:39:28,46
+There's the tonic.
+ 
+
+
+819
+0:39:28,46 --> 0:39:29,389
+Ready, go.
+ 
+
+
+820
+0:39:29,389 --> 0:39:30,8
+>
+ 
+
+
+821
+0:39:30,8 --> 0:39:32,1
+>
+ 
+
+
+822
+0:39:32,1 --> 0:39:35,79
+Good.
+ 
+
+
+823
+0:39:35,79 --> 0:39:38,59
+One more time.
+ 
+
+
+824
+0:39:38,59 --> 0:39:40,99
+> Louder.
+ 
+
+
+825
+0:39:40,99 --> 0:39:44,98
+>
+ 
+
+
+826
+0:39:44,98 --> 0:39:45,18
+>
+ 
+
+
+827
+0:39:45,18 --> 0:39:45,422
+Okay.
+ 
+
+
+828
+0:39:45,422 --> 0:39:49,371
+Now watch what happens as we
+continue with this I,
+
+
+829
+0:39:49,371 --> 0:39:51,63
+VI, IV, V, I progression.
+ 
+
+
+830
+0:39:51,63 --> 0:39:54,909
+Do we have a regular or
+irregular rate of change here?
+
+
+831
+0:39:54,909 --> 0:39:56,44
+Let's go on to the next section.
+ 
+
+
+832
+0:39:56,44 --> 0:40:0,909
+>
+ 
+
+
+833
+0:40:0,909 --> 0:40:17,51
+>
+ 
+
+
+834
+0:40:17,51 --> 0:40:35,619
+I, VI, IV, V, I, VI, IV, V.
+ 
+
+
+835
+0:40:35,619 --> 0:40:40,389
+So what happened in that middle
+section?
+
+
+836
+0:40:40,389 --> 0:40:41,82
+Yeah.
+ 
+
+
+837
+0:40:41,82 --> 0:40:45,55
+Student:
+>
+
+
+838
+0:40:45,55 --> 0:40:47,9
+Prof: Good. Yeah.
+ 
+
+
+839
+0:40:47,9 --> 0:40:52,8
+If we are >
+ 
+
+
+840
+0:40:52,8 --> 0:40:54,896
+and then it went on and on and
+on, longer, longer,
+
+
+841
+0:40:54,896 --> 0:40:56,61
+longer, and then
+>
+
+
+842
+0:40:56,61 --> 0:40:58,579
+but it was the same pattern.
+ 
+
+
+843
+0:40:58,579 --> 0:41:3,322
+They just elongated each
+measure by its same amount so we
+
+
+844
+0:41:3,322 --> 0:41:6,71
+had harmony changing on each
+measure,
+
+
+845
+0:41:6,71 --> 0:41:9,956
+and then in that middle section
+each chord was changing at the
+
+
+846
+0:41:9,956 --> 0:41:11,179
+rate of two measures.
+ 
+
+
+847
+0:41:11,179 --> 0:41:13,994
+So the whole piece,
+then, would be a piece
+
+
+848
+0:41:13,994 --> 0:41:17,84
+involving irregular rate of
+change-- the entire piece.
+
+
+849
+0:41:17,84 --> 0:41:18,201
+Okay.
+ 
+
+
+850
+0:41:18,201 --> 0:41:21,813
+So that's the "Duke of
+Earl" progression:
+
+
+851
+0:41:21,813 --> 0:41:23,909
+the basic I,
+VI, IV, V, I.
+
+
+852
+0:41:23,909 --> 0:41:28,429
+Now we'll play a passage of
+Mozart--a symphony by Mozart
+
+
+853
+0:41:28,429 --> 0:41:32,949
+here that he wrote at the ripe
+old age of nine years.
+
+
+854
+0:41:32,949 --> 0:41:36,26
+This is Mozart at age nine.
+ 
+
+
+855
+0:41:36,26 --> 0:41:38,485
+He had actually written a
+couple of symphonies by this
+
+
+856
+0:41:38,485 --> 0:41:38,78
+time.
+ 
+
+
+857
+0:41:38,78 --> 0:41:40,494
+This is his Symphony No.
+ 
+
+
+858
+0:41:40,494 --> 0:41:43,139
+5 in B-flat so let's listen to
+this.
+
+
+859
+0:41:43,139 --> 0:41:46,811
+We're just going to listen and
+see if anything strikes you as
+
+
+860
+0:41:46,811 --> 0:41:47,67
+interesting.
+ 
+
+
+861
+0:41:47,67 --> 0:42:18,679
+>
+ 
+
+
+862
+0:42:18,679 --> 0:42:21,315
+I think we just should keep
+right on going just to get the
+
+
+863
+0:42:21,315 --> 0:42:22,1
+point across.
+ 
+
+
+864
+0:42:22,1 --> 0:42:23,61
+We'll just let it run.
+ 
+
+
+865
+0:42:23,61 --> 0:42:27,8
+ 
+ 
+
+
+866
+0:42:27,8 --> 0:42:31,4
+>
+ 
+
+
+867
+0:42:31,4 --> 0:42:34,409
+So you can sing this bass.
+ 
+
+
+868
+0:42:34,409 --> 0:42:43,18
+>
+ 
+
+
+869
+0:42:43,18 --> 0:42:46,721
+So that's Mozart using the
+"Duke of Earl"
+
+
+870
+0:42:46,721 --> 0:42:48,349
+harmony--not really.
+ 
+
+
+871
+0:42:48,349 --> 0:42:50,409
+This is a point I brought up in
+my section the other day.
+
+
+872
+0:42:50,409 --> 0:42:53,923
+There are lots of legal cases
+where people try to sue somebody
+
+
+873
+0:42:53,923 --> 0:42:56,516
+else for stealing a song;
+they try to sue them for
+
+
+874
+0:42:56,516 --> 0:42:58,46
+stealing a bass line or
+something like that.
+
+
+875
+0:42:58,46 --> 0:43:1,17
+You can get away--you can sue
+people for stealing melody.
+
+
+876
+0:43:1,17 --> 0:43:4,351
+You can never--there's a strong
+legal precedent for not being
+
+
+877
+0:43:4,351 --> 0:43:6,579
+able to make a claim about
+stolen bass,
+
+
+878
+0:43:6,579 --> 0:43:9,199
+because these basses are
+limited in number,
+
+
+879
+0:43:9,199 --> 0:43:11,76
+they involve rather simple
+harmonic progressions,
+
+
+880
+0:43:11,76 --> 0:43:13,518
+and they've been used over the
+centuries.
+
+
+881
+0:43:13,518 --> 0:43:15,478
+It's not as if Gene Chandler
+sat around here studying Mozart
+
+
+882
+0:43:15,478 --> 0:43:15,909
+symphonies.
+ 
+
+
+883
+0:43:15,909 --> 0:43:16,449
+I don't know.
+ 
+
+
+884
+0:43:16,449 --> 0:43:17,612
+Maybe he did,
+said, "Oh,
+
+
+885
+0:43:17,612 --> 0:43:19,11
+I like that harmonic
+progression.
+
+
+886
+0:43:19,11 --> 0:43:19,84
+I'm going to use that
+here."
+
+
+887
+0:43:19,84 --> 0:43:19,992
+No.
+ 
+
+
+888
+0:43:19,992 --> 0:43:22,898
+Everybody's been using that,
+sort of since time immemorial
+
+
+889
+0:43:22,898 --> 0:43:25,9
+or at least since the sixteenth
+century.
+
+
+890
+0:43:25,9 --> 0:43:31,5
+Now let's go on here to listen
+to some music of Rossini--
+
+
+891
+0:43:31,5 --> 0:43:34,51
+composer Gioachino Rossini--
+coming after Mozart,
+
+
+892
+0:43:34,51 --> 0:43:37,11
+and he likes chord progressions
+too,
+
+
+893
+0:43:37,11 --> 0:43:41,16
+so we're going to listen to a
+passage of Rossini and see what
+
+
+894
+0:43:41,16 --> 0:43:43,619
+he does by way of his chord
+selection.
+
+
+895
+0:43:43,619 --> 0:43:46,514
+So the point of this is:
+once you get these kind of
+
+
+896
+0:43:46,514 --> 0:43:48,599
+progressions locked in your
+ears,
+
+
+897
+0:43:48,599 --> 0:43:53,367
+you go to a concert and you can
+begin to chart what the piece is
+
+
+898
+0:43:53,367 --> 0:43:55,789
+doing in terms of its harmony.
+ 
+
+
+899
+0:43:55,789 --> 0:43:58,376
+Yeah, you're not going to be
+able to hear all of it and,
+
+
+900
+0:43:58,376 --> 0:44:0,679
+indeed, you may not be able to
+hear most of it.
+
+
+901
+0:44:0,679 --> 0:44:1,989
+I don't hear most of it.
+ 
+
+
+902
+0:44:1,989 --> 0:44:3,818
+But there are moments,
+and they're moments that give
+
+
+903
+0:44:3,818 --> 0:44:5,11
+me pleasure
+>
+
+
+904
+0:44:5,11 --> 0:44:6,233
+when I can say,
+"Oh, yeah.
+
+
+905
+0:44:6,233 --> 0:44:7,619
+That's what he's doing
+there."
+
+
+906
+0:44:7,619 --> 0:44:9,48
+I might not know what key he's
+in.
+
+
+907
+0:44:9,48 --> 0:44:11,476
+I don't really care what key
+he's in 'cause I don't have
+
+
+908
+0:44:11,476 --> 0:44:13,643
+absolute pitch,
+but I can find well,
+
+
+909
+0:44:13,643 --> 0:44:17,52
+maybe it's a I,
+VI, IV, V, I chord progression
+
+
+910
+0:44:17,52 --> 0:44:20,309
+or a I, V, I progression or I,
+IV, V, I.
+
+
+911
+0:44:20,309 --> 0:44:22,94
+We--you get different kinds of
+patterns.
+
+
+912
+0:44:22,94 --> 0:44:26,699
+A Pachelbel bass pattern is
+another one.
+
+
+913
+0:44:26,699 --> 0:44:30,306
+So let's listen to a pattern
+that Rossini is using here in
+
+
+914
+0:44:30,306 --> 0:44:31,699
+this opera overture.
+ 
+
+
+915
+0:44:31,699 --> 0:44:34,79
+>
+ 
+
+
+916
+0:44:34,79 --> 0:44:38,25
+So the first thing we got to do
+is sort of lock on to the tonic.
+
+
+917
+0:44:38,25 --> 0:44:42,63
+>
+ 
+
+
+918
+0:44:42,63 --> 0:44:46,329
+>
+ 
+
+
+919
+0:44:46,329 --> 0:44:48,32
+And it's taking me a while.
+ 
+
+
+920
+0:44:48,32 --> 0:44:51,71
+It's taking me a while to lock
+on to that tonic.
+
+
+921
+0:44:51,71 --> 0:44:52,407
+I don't know.
+ 
+
+
+922
+0:44:52,407 --> 0:44:55,39
+The bass isn't as loud as in
+some of the pop music
+
+
+923
+0:44:55,39 --> 0:44:56,329
+>
+ 
+
+
+924
+0:44:56,329 --> 0:44:58,789
+but I think it--
+>
+
+
+925
+0:44:58,789 --> 0:45:1,7
+but I think that's what the
+tonic is.
+
+
+926
+0:45:1,7 --> 0:45:4,456
+So don't be--don't despair if
+you don't initially land on the
+
+
+927
+0:45:4,456 --> 0:45:5,19
+tonic here.
+ 
+
+
+928
+0:45:5,19 --> 0:45:7,409
+It takes a while so--but I
+think we've got it identified.
+
+
+929
+0:45:7,409 --> 0:45:8,159
+>
+ 
+
+
+930
+0:45:8,159 --> 0:45:9,659
+All right. Let's go on.
+ 
+
+
+931
+0:45:9,659 --> 0:45:13,639
+>
+ 
+
+
+932
+0:45:13,639 --> 0:45:20,268
+>
+ 
+
+
+933
+0:45:20,268 --> 0:45:24,139
+So he went
+>.
+
+
+934
+0:45:24,139 --> 0:45:25,869
+What would you guess those two
+chords are?
+
+
+935
+0:45:25,869 --> 0:45:27,239
+We said this is the tonic.
+ 
+
+
+936
+0:45:27,239 --> 0:45:28,23
+>
+ 
+
+
+937
+0:45:28,23 --> 0:45:31,57
+The other one's probably going
+to be the dominant.
+
+
+938
+0:45:31,57 --> 0:45:33,708
+If you ever hear music rocking
+back and forth repeatedly
+
+
+939
+0:45:33,708 --> 0:45:35,226
+between two chords,
+it's probably tonic,
+
+
+940
+0:45:35,226 --> 0:45:36,199
+>
+ 
+
+
+941
+0:45:36,199 --> 0:45:37,32
+dominant, tonic, dominant.
+ 
+
+
+942
+0:45:37,32 --> 0:45:38,86
+Remember we had that even with
+the Strauss.
+
+
+943
+0:45:38,86 --> 0:45:41,1
+>
+ 
+
+
+944
+0:45:41,1 --> 0:45:42,862
+The timpani played that tonic,
+dominant, tonic,
+
+
+945
+0:45:42,862 --> 0:45:43,989
+dominant, tonic,
+dominant.
+
+
+946
+0:45:43,989 --> 0:45:46,286
+So if you hear two chords
+rocking, it's probably tonic and
+
+
+947
+0:45:46,286 --> 0:45:46,73
+dominant.
+ 
+
+
+948
+0:45:46,73 --> 0:45:47,47
+Okay.
+ 
+
+
+949
+0:45:47,47 --> 0:45:49,84
+Let's see how he expands this a
+little bit.
+
+
+950
+0:45:49,84 --> 0:45:56,51
+>
+ 
+
+
+951
+0:45:56,51 --> 0:46:3,36
+>
+ 
+
+
+952
+0:46:3,36 --> 0:46:4,739
+So what was that?
+ 
+
+
+953
+0:46:4,739 --> 0:46:7,713
+Well, that's the "Duke of
+Earl" passage.
+
+
+954
+0:46:7,713 --> 0:46:8,199
+Right?
+ 
+
+
+955
+0:46:8,199 --> 0:46:9,724
+So we are sitting there in
+Woolsey Hall with New Haven
+
+
+956
+0:46:9,724 --> 0:46:11,5
+Symphony or whatever,
+New York Philharmonic.
+
+
+957
+0:46:11,5 --> 0:46:11,557
+"Oh, yeah.
+ 
+
+
+958
+0:46:11,557 --> 0:46:12,949
+That's the 'Duke of Earl'
+passage."
+
+
+959
+0:46:12,949 --> 0:46:16,867
+So yes, it was the
+>
+
+
+960
+0:46:16,867 --> 0:46:19,48
+I, VI, IV, V,
+I progression.
+
+
+961
+0:46:19,48 --> 0:46:20,1
+All right.
+ 
+
+
+962
+0:46:20,1 --> 0:46:21,55
+Let's see what happens next.
+ 
+
+
+963
+0:46:21,55 --> 0:46:26,44
+>
+ 
+
+
+964
+0:46:26,44 --> 0:46:26,78
+Okay.
+ 
+
+
+965
+0:46:26,78 --> 0:46:30,873
+So what happened next was he
+then started to run that faster,
+
+
+966
+0:46:30,873 --> 0:46:32,51
+>
+ 
+
+
+967
+0:46:32,51 --> 0:46:34,918
+twice as fast as it had been
+before, changing rate of
+
+
+968
+0:46:34,918 --> 0:46:35,8
+harmonic pattern.
+ 
+
+
+969
+0:46:35,8 --> 0:46:37,1
+Okay?
+ 
+
+
+970
+0:46:37,1 --> 0:46:44,17
+>
+ 
+
+
+971
+0:46:44,17 --> 0:46:49,429
+What was that
+>?
+
+
+972
+0:46:49,429 --> 0:46:51,36
+What chord's there probably?
+ 
+
+
+973
+0:46:51,36 --> 0:46:53,75
+Daniel, what do you think?
+ 
+
+
+974
+0:46:53,75 --> 0:46:55,59
+What chord's there?
+ 
+
+
+975
+0:46:55,59 --> 0:46:56,4
+Student: Dominant.
+ 
+
+
+976
+0:46:56,4 --> 0:46:59,686
+Prof: Just dominant
+time, >
+
+
+977
+0:46:59,686 --> 0:47:2,849
+, going faster and faster,
+and then what happens?
+
+
+978
+0:47:2,849 --> 0:47:5,719
+>
+ 
+
+
+979
+0:47:5,719 --> 0:47:7,969
+Sing the tonic.
+ 
+
+
+980
+0:47:7,969 --> 0:47:15,409
+>
+ 
+
+
+981
+0:47:15,409 --> 0:47:17,329
+The end of that was all just
+the tonic.
+
+
+982
+0:47:17,329 --> 0:47:18,71
+He just sat there on the tonic
+forever.
+
+
+983
+0:47:18,71 --> 0:47:22,233
+It's a good example of sort of
+real time and psychological time
+
+
+984
+0:47:22,233 --> 0:47:22,86
+in music.
+ 
+
+
+985
+0:47:22,86 --> 0:47:25,382
+You knew it was time to start
+clapping as soon as that chord
+
+
+986
+0:47:25,382 --> 0:47:27,5
+hit that, <<plays
+piano>>
+
+
+987
+0:47:27,5 --> 0:47:28,322
+it stopped going back and
+forth, tonic,
+
+
+988
+0:47:28,322 --> 0:47:29,36
+dominant, just sitting there.
+ 
+
+
+989
+0:47:29,36 --> 0:47:30,46
+That piece is over.
+ 
+
+
+990
+0:47:30,46 --> 0:47:33,443
+The rest is just a big mud pie
+in your face.
+
+
+991
+0:47:33,443 --> 0:47:33,929
+Okay?
+ 
+
+
+992
+0:47:33,929 --> 0:47:35,599
+It's just >
+ 
+
+
+993
+0:47:35,599 --> 0:47:38,615
+tonic or maybe throwing an
+anchor overboard to bring this
+
+
+994
+0:47:38,615 --> 0:47:40,914
+ship to an end--
+whatever sort of analogy or
+
+
+995
+0:47:40,914 --> 0:47:42,849
+visual imagine you want to bring
+to it,
+
+
+996
+0:47:42,849 --> 0:47:45,86
+but it's--the piece has ended.
+ 
+
+
+997
+0:47:45,86 --> 0:47:48,0
+Even though we are continuing
+to hear sound,
+
+
+998
+0:47:48,0 --> 0:47:49,443
+harmonically,
+psychologically,
+
+
+999
+0:47:49,443 --> 0:47:52,53
+we know we're finished when he
+hits that particular tonic.
+
+
+1000
+0:47:52,53 --> 0:47:54,34
+Okay. I think our time is up.
+ 
+
+
+1001
+0:47:54,34 --> 0:47:55,768
+I'll see you Wednesday evening.
+ 
+
+
+1002
+0:47:55,768 --> 0:47:59,836
+And look for an e-mail early
+this afternoon about individual
+
+
+1003
+0:47:59,836 --> 0:48:1,63
+help tomorrow afternoon.
+ 
+
+
+1004
+0:48:1,63 --> 0:50:1,63
+ 
+ 
+
+

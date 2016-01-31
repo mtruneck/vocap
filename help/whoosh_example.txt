@@ -1,0 +1,92 @@
+from VocapDB import VocapDB
+new = VocapDB("stt_dir", "main", "../../")
+new.ix.doc_count()
+#new.add("Pg4boF0KdLA")
+res = new.search(u"why")
+res
+
+reader = new.ix.reader()
+i = 0
+for item in reader.all_terms():
+   i+= 1
+
+i
+
+
+set tabstop=4 shiftwidth=4 expandtab
+
+from whoosh.fields import Schema, TEXT, ID
+import os.path
+from whoosh import index
+from whoosh.qparser import QueryParser
+import codecs
+
+schema = Schema(title=TEXT(stored=True), path=ID(stored=True), content=TEXT)
+ix = index.create_in("files", schema)
+writer = ix.writer()
+writer.commit()
+
+
+[ u'0lhuyUJbuNc', u'0ojv4LzkY88', u'16zvR7GVamQ', u'1yzT_5_ClMg', u'22MPLh15jW0', u'2nYfz1ZTN6Q', u'2RVH5z-cu1A', u'3kHBPc943sg', u'3w71PAo8zT4', u'4MIZzC3Cm1k', u'4QFu7eaWIAE', u'5mHhHxjbofE', u'5n1p9P5ee3c', u'62tp4iA39rg', u'6iaOc50obgo', u'6RLhSxLs5mQ', u'6Rxo3mbnWRI', u'7h1OSDwxvCo', u'7OpN69Jl-FI', u'7wadTz1dN4g', u'7YaDRC379eI', u'8FTFEZ5E-Pw', u'8sJUw2L8pXE', u'8vp5HrFt7NU', u'999UsDmp0No', u'9CL7QETJNk0', u'-9HML8Ck9Dw', u'9LpGqJ247o0', u'9sj5HcoGK2w', u'9XDZf5l_aHQ', u'A-57d-IxCZE', u'A6nYKmD5WX4', u'a7-m6AwG3EA', u'aATOpkYHaIQ', u'Ae2ghhGkY-s', u'agXZwuWWleg', u'ARZ4DaaY1Ig', u'As2o-Ho2MNE', u'aSf34KF3bck', u'azsGmDT148s', u'B56juBDSkKc', u'BAfu1JJHoVo', u'beR6NJHODno', u'bhfkhq-CM84', u'bLx8NnhRdC4', u'BZDCszi54Dc', u'c4fZhoYtn5c', u'CCRBKlZqzMo', u'Cd1R2yoc3ek', u'cM3lOjR5n-I', u'CNHcOg8WdLQ', u'cVTnVgdb8LM', u'D0UU2SirhdU', u'dap7ddyC8uE', u'de98LyCRWrg', u'dFsQbNrFlgY', u'DGFZPCVwQP8', u'dw_IXONCwSI', u'E81Q0n9qMck', u'eipKO1s8Wqk', u'f1ci-3yy7pU', u'F7H0TV9Q79Y', u'FAzPfm-0onI', u'FcnYb8u9nSM', u'fpyRQ46fUEM', u'fqEenlujSzU', u'fRyD1ourEzU', u'G1eIiQ2hNF8', u'GgI5-u6Zavs', u'giQJ5nKy7dg', u'GjDcCuM3QQA', u'Gl80jebIq6Y', u'gLe7P9L5pOY', u'g_Pe-izrbvk', u'h6BYsgG_ydM', u'h6TqARcpt-Y', u'h79nKQvAXtg', u'hlfYHAV1i8w', u'Hz1bOBWDGUM', u'IcUaR9zjkxo', u'if3MCX7lfEw', u'IQ0oKi0xBig', u'Itn53lvLObQ', u'IUrK8CNHQz0', u'j1yvPQzyF_o', u'J59zf3aUmYA', u'_jiDdum0tK0', u'JIKC7gf9a-A', u'jJFoi6vwChI', u'jj-Q2nZO8Rg', u'JKocksMAyvQ', u'jLb4SOLxHPA', u'JLtBjnzC6Ys', u'Jrj3zfPVXhk', u'K6r3mXK3T8k', u'kEclvp40KHU', u'_KnwBRaqHEg', u'kpD_pxIllkE', u'LL0kdy0txgw', u'LsNZ7CE6bJs', u'LvXZNESVcdQ', u'lZp7VTYJvQw', u'm6PlRvrX4n8', u'mAHFU3Ub7mA', u'MdJ5q9cyPmk', u'mHhSYyvI-5k', u'mIfbZg5hSfo', u'mpzkrg9qvuw', u'mSJThLG4gIw', u'Mzv2mHkpLLw', u'n0S-djcJip0', u'N1CxA7r-4oc', u'n7GPrMO_Hyw', u'naV0ra8Q5bo', u'NipYYbj1FOc', u'NN_2BMx5BBg', u'n-NwLUPZWZc', u'nxw_848Fd6k', u'NZu3GXoKXU4', u'oa0hxZqHDe8', u'ojR3ztCoBBw', u'OPugRnlP7Aw', u'OyVrlQyUgj4', u'Pg4boF0KdLA', u'pOFUaOIkkSg', u'PQE3vcwU97g', u'PxEp4pysszE', u'pzm6rEVz3Ro', u'pztUPIzXglY', u'Qgj19ycv-24', u'_QIauPRfmgI', u'qINwCRM8acM', u'qYkupyOPkeU', u'rzxn7R_q9g0', u's6KE1SGZd2U', u'S8HaWeIQlyk', u'SbOSIyfilVQ', u'sf7zZ3-zoBM', u'sGD3Adavj0Y', u'sj5Jp0zeKNw', u'SMyV9lbrDKM', u'sQRCGBeXiow', u'T8X15QkS-N8', u'Tf6pyi1Er74', u'TFa9aslPkW4', u'TmqorNLdPyA', u'TR-IWhZZDJY', u'T_RR8YGqpKk', u'tWXR0lVtliw', u'tXbuKOX9OEE', u'tY2n2CHMXfI', u'uhtlOYOhE8w', u'uLqmE2EBZnk', u'UM3eFN96VaM', u'uP2Acm9uEGk', u'usRhhITIOxs', u'uZ2MqK9xQio', u'V96qaaQhDkY', u'vAaos80oPqg', u'vlwGlvs0SDg', u'vSKAccC_mOQ', u'vs_T2YOkhD4', u'-VwFquQ8Dhs', u'wefIoxkEDQs', u'wjiaDgmM_2Q', u'WJUhME5tSB0', u'wSpQTqmmZ64', u'wVQrozMTWlY', u'wwjZBpfW4Sw', u'wWXj9fcjS3A', u'XesjdbwbNJQ', u'ycic5AS2uSY', u'YmygwMue7Xw', u'yS5LXFoHCUA', u'yVkXBmIzNeQ', u'YzZkdxN85RY', u'ZAZmkz5bs6I', u'zGe-WFbZmo0', u'ZGmWLoyE6eM', u'zIWjk5lunrU', u'zjOVpenCnuk', u'zKk8EjICnN0', u'zu1zyOXwkBw' ]
+
+
+
+import codecs
+for vid in [ u'0lhuyUJbuNc', u'0ojv4LzkY88', u'16zvR7GVamQ', u'1yzT_5_ClMg', u'22MPLh15jW0', u'2nYfz1ZTN6Q', u'2RVH5z-cu1A', u'3kHBPc943sg', u'3w71PAo8zT4', u'4MIZzC3Cm1k', u'4QFu7eaWIAE', u'5mHhHxjbofE', u'5n1p9P5ee3c', u'62tp4iA39rg', u'6iaOc50obgo', u'6RLhSxLs5mQ', u'6Rxo3mbnWRI', u'7h1OSDwxvCo', u'7OpN69Jl-FI', u'7wadTz1dN4g', u'7YaDRC379eI', u'8FTFEZ5E-Pw', u'8sJUw2L8pXE', u'8vp5HrFt7NU', u'999UsDmp0No', u'9CL7QETJNk0', u'-9HML8Ck9Dw', u'9LpGqJ247o0', u'9sj5HcoGK2w', u'9XDZf5l_aHQ', u'A-57d-IxCZE', u'A6nYKmD5WX4', u'a7-m6AwG3EA', u'aATOpkYHaIQ', u'Ae2ghhGkY-s', u'agXZwuWWleg', u'ARZ4DaaY1Ig', u'As2o-Ho2MNE', u'aSf34KF3bck', u'azsGmDT148s', u'B56juBDSkKc', u'BAfu1JJHoVo', u'beR6NJHODno', u'bhfkhq-CM84', u'bLx8NnhRdC4', u'BZDCszi54Dc', u'c4fZhoYtn5c', u'CCRBKlZqzMo', u'Cd1R2yoc3ek', u'cM3lOjR5n-I', u'CNHcOg8WdLQ', u'cVTnVgdb8LM', u'D0UU2SirhdU', u'dap7ddyC8uE', u'de98LyCRWrg', u'dFsQbNrFlgY', u'DGFZPCVwQP8', u'dw_IXONCwSI', u'E81Q0n9qMck', u'eipKO1s8Wqk', u'f1ci-3yy7pU', u'F7H0TV9Q79Y', u'FAzPfm-0onI', u'FcnYb8u9nSM', u'fpyRQ46fUEM', u'fqEenlujSzU', u'fRyD1ourEzU', u'G1eIiQ2hNF8', u'GgI5-u6Zavs', u'giQJ5nKy7dg', u'GjDcCuM3QQA', u'Gl80jebIq6Y', u'gLe7P9L5pOY', u'g_Pe-izrbvk', u'h6BYsgG_ydM', u'h6TqARcpt-Y', u'h79nKQvAXtg', u'hlfYHAV1i8w', u'Hz1bOBWDGUM', u'IcUaR9zjkxo', u'if3MCX7lfEw', u'IQ0oKi0xBig', u'Itn53lvLObQ', u'IUrK8CNHQz0', u'j1yvPQzyF_o', u'J59zf3aUmYA', u'_jiDdum0tK0', u'JIKC7gf9a-A', u'jJFoi6vwChI', u'jj-Q2nZO8Rg', u'JKocksMAyvQ', u'jLb4SOLxHPA', u'JLtBjnzC6Ys', u'Jrj3zfPVXhk', u'K6r3mXK3T8k', u'kEclvp40KHU', u'_KnwBRaqHEg', u'kpD_pxIllkE', u'LL0kdy0txgw', u'LsNZ7CE6bJs', u'LvXZNESVcdQ', u'lZp7VTYJvQw', u'm6PlRvrX4n8', u'mAHFU3Ub7mA', u'MdJ5q9cyPmk', u'mHhSYyvI-5k', u'mIfbZg5hSfo', u'mpzkrg9qvuw', u'mSJThLG4gIw', u'Mzv2mHkpLLw', u'n0S-djcJip0', u'N1CxA7r-4oc', u'n7GPrMO_Hyw', u'naV0ra8Q5bo', u'NipYYbj1FOc', u'NN_2BMx5BBg', u'n-NwLUPZWZc', u'nxw_848Fd6k', u'NZu3GXoKXU4', u'oa0hxZqHDe8', u'ojR3ztCoBBw', u'OPugRnlP7Aw', u'OyVrlQyUgj4', u'Pg4boF0KdLA', u'pOFUaOIkkSg', u'PQE3vcwU97g', u'PxEp4pysszE', u'pzm6rEVz3Ro', u'pztUPIzXglY', u'Qgj19ycv-24', u'_QIauPRfmgI', u'qINwCRM8acM', u'qYkupyOPkeU', u'rzxn7R_q9g0', u's6KE1SGZd2U', u'S8HaWeIQlyk', u'SbOSIyfilVQ', u'sf7zZ3-zoBM', u'sGD3Adavj0Y', u'sj5Jp0zeKNw', u'SMyV9lbrDKM', u'sQRCGBeXiow', u'T8X15QkS-N8', u'Tf6pyi1Er74', u'TFa9aslPkW4', u'TmqorNLdPyA', u'TR-IWhZZDJY', u'T_RR8YGqpKk', u'tWXR0lVtliw', u'tXbuKOX9OEE', u'tY2n2CHMXfI', u'uhtlOYOhE8w', u'uLqmE2EBZnk', u'UM3eFN96VaM', u'uP2Acm9uEGk', u'usRhhITIOxs', u'uZ2MqK9xQio', u'V96qaaQhDkY', u'vAaos80oPqg', u'vlwGlvs0SDg', u'vSKAccC_mOQ', u'vs_T2YOkhD4', u'-VwFquQ8Dhs', u'wefIoxkEDQs', u'wjiaDgmM_2Q', u'WJUhME5tSB0', u'wSpQTqmmZ64', u'wVQrozMTWlY', u'wwjZBpfW4Sw', u'wWXj9fcjS3A', u'XesjdbwbNJQ', u'ycic5AS2uSY', u'YmygwMue7Xw', u'yS5LXFoHCUA', u'yVkXBmIzNeQ', u'YzZkdxN85RY', u'ZAZmkz5bs6I', u'zGe-WFbZmo0', u'ZGmWLoyE6eM', u'zIWjk5lunrU', u'zjOVpenCnuk', u'zKk8EjICnN0', u'zu1zyOXwkBw',  u"09ITj4kRot4", u"2OJ_xo2oTEY", u"4Z9WVZddH9w", u"a36_CwzA0bk", u"BfJVgXBfSH8", u"ChFzPVI3dwM", u"d3978nSwvHE", u"e0sWHVlPypI", u"fi-GtZNJm0g", u"Hz8SGBmaRow", u"J5o-uC3uQUE", u"k3Vj2uUJc0w", u"K56gSEJ6IGc", u"KEC0GT_8l_I", u"-ODUMsusRIw", u"RLkeRlJiJRw", u"VnEkZonZtWM", u"WkMTDoQ2XWQ", u"X9QtdiRJYro" ]:
+    new.vid = vid
+    new.srt_file = new.dir_name + '/' + vid + u'.srt'
+    new.vocap_file = new.dir_name + '/' + vid + u'.vocap'
+    fileobj=codecs.open(new.dir_name + '/' +vid+u'.title', "r", "utf-8")
+    new.title = fileobj.read()
+    fileobj.close()
+    new.generate_vocap_file()
+    new.add_to_index()
+
+
+
+
+
+
+searcher = new.ix.searcher()
+for item in searcher.documents():
+  if item['vid'] == u'NZu3GXoKXU4':
+     print item
+
+
+
+
+from whoosh.fields import Schema, TEXT, ID
+import os.path
+from whoosh import index
+from whoosh.qparser import QueryParser
+import codecs
+
+>>> schema = Schema(title=TEXT(stored=True), path=ID(stored=True), content=TEXT)
+>>> ix = index.create_in("files", schema)
+>>> writer = ix.writer()
+
+>>> fileobj=codecs.open("files/pokus.txt", "r", "utf-8")
+>>> content=fileobj.read()
+>>> fileobj.close()
+>>> writer.add_document(title=u"Boy", path=u"files/boys_girls.srt", content=content)
+
+>>> fileobj=codecs.open("files/mGDZRpF9USI.srt", "r", "utf-8")
+>>> content=fileobj.read()
+>>> fileobj.close()
+>>> writer.add_document(title=u"Neeco", path=u"files/mGDZRpF9USI.srt", content=content)
+
+>>> fileobj=codecs.open("files/Cd1R2yoc3ek.srt", "r", "utf-8")
+>>> content=fileobj.read()
+>>> fileobj.close()
+>>> writer.add_document(title=u"Dalsi", path=u"files/Cd1R2yoc3ek.srt", content=content)
+
+>>> writer.commit()
+
+with ix.searcher() as searcher:
+  query = QueryParser("content", ix.schema).parse(u"honored")
+  results = searcher.search(query)
+  results[0]
+
+<Hit {'path': u'files/Cd1R2yoc3ek.srt', 'title': u'Dalsi'}>
+>>> 
+

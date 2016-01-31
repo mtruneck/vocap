@@ -1,0 +1,2665 @@
+1
+0:0:59,9 --> 0:1:5,22
+n the last lecture we were talking about some
+mathematical models for facility location.
+
+
+2
+0:1:5,22 --> 0:1:14,8
+Today we are going to be talking about the
+problem of layout planning. If you recall,
+
+
+3
+0:1:14,8 --> 0:1:19,9
+the hierarchy of location problems is the
+next important problem where the objective
+
+
+4
+0:1:19,9 --> 0:1:27,41
+is to determine the related positioning of
+different departments. In this lecture we
+
+
+5
+0:1:27,41 --> 0:1:35,28
+look at the basic issues that are involved
+in the layout planning exercise. We shall
+
+
+6
+0:1:35,28 --> 0:1:48,96
+look at a generic procedure known as systematic
+layout planning to develop a layout of a plant.
+
+
+7
+0:1:48,96 --> 0:1:55,95
+What are the objectives in plant layout? When
+you develop a layout for a manufacturing plant,
+
+
+8
+0:1:55,95 --> 0:1:57,91
+what are the typical objectives?
+
+
+9
+0:1:57,91 --> 0:2:5,569
+There could be many objectives some of them
+are listed on this slide for instance one
+
+
+10
+0:2:5,569 --> 0:2:12,5
+objective could be to minimize the investment
+and equipment. Somebody might say how layout
+
+
+11
+0:2:12,5 --> 0:2:17,18
+will influence the investment in equipment?
+
+
+12
+0:2:17,18 --> 0:2:22,28
+Obviously if you do not duplicate equipment
+and you have a streamline layout then you
+
+
+13
+0:2:22,28 --> 0:2:27,78
+could minimize the investment and equipment.
+The layout has considerable effect on the
+
+
+14
+0:2:27,78 --> 0:2:38,9
+investment in equipment. It also helps you
+to minimize the overall production time. You
+
+
+15
+0:2:38,9 --> 0:2:48,349
+can utilize the existing space most effectively
+with proper layout. A proper layout should
+
+
+16
+0:2:48,349 --> 0:2:58,68
+provide for employee convenience safety and
+comfort. You should try to maintain flexibility
+
+
+17
+0:2:58,68 --> 0:3:11,64
+of arrangement. Layout generally tries to
+minimize the material handling cost. It also
+
+
+18
+0:3:11,64 --> 0:3:18,569
+tries to minimize the variation in types of
+material handling equipment for instance a
+
+
+19
+0:3:18,569 --> 0:3:25,11
+good layout could try to standardize the kind
+of material handling equipment that it uses,
+
+
+20
+0:3:25,11 --> 0:3:30,719
+for instance you do not expect forklift trolleys
+of very different sizes to operate in the
+
+
+21
+0:3:30,719 --> 0:3:40,68
+same shop floor, you could expect standardize
+equipment. Generally the plant layout could
+
+
+22
+0:3:40,68 --> 0:3:49,67
+facilitate the manufacturing process and it
+could also facilitate the organizational structure,
+
+
+23
+0:3:49,67 --> 0:3:55,459
+because what could happen is that you are
+trying to place different kinds of equipment
+
+
+24
+0:3:55,459 --> 0:4:2,629
+and trying to segregate different types of
+operations. Therefore it will tend to facilitate
+
+
+25
+0:4:2,629 --> 0:4:11,26
+the organization structure as well. Let us
+have a brief idea about different types of
+
+
+26
+0:4:11,26 --> 0:4:14,54
+layouts.
+
+
+27
+0:4:14,54 --> 0:4:23,14
+Brightly speaking we can talk about the product
+layout, a process layout or mix of these two,
+
+
+28
+0:4:23,14 --> 0:4:30,87
+which is called a mixed layout or the layout
+by fixed position. Let us see for instance
+
+
+29
+0:4:30,87 --> 0:4:37,59
+as to what are the features of each of these
+different types of layouts. The product layout
+
+
+30
+0:4:37,59 --> 0:4:46,99
+is essentially one where a product enters
+the line and one side and you keep on performing
+
+
+31
+0:4:46,99 --> 0:4:51,94
+different operations on the product. Finally
+finished products come out in the outside.
+
+
+32
+0:4:51,94 --> 0:4:58,31
+So, all assembly lines for instance are typically
+examples of product layouts. The idea here
+
+
+33
+0:4:58,31 --> 0:5:5,98
+is that the layout is dictated by the product.
+Whatever operations are required on the product,
+
+
+34
+0:5:5,98 --> 0:5:12,77
+they are laid out in either straight line
+or in U mode or in serpentine time mode or
+
+
+35
+0:5:12,77 --> 0:5:18,49
+in any other mode but the essential thing
+are that all the operations are to be performed
+
+
+36
+0:5:18,49 --> 0:5:24,65
+on the product or performed in sequence. From
+the raw material you ultimately get the final
+
+
+37
+0:5:24,65 --> 0:5:31,11
+product. This is the typical feature of a
+product layout. In fact when you are talking
+
+
+38
+0:5:31,11 --> 0:5:36,889
+about product layouts you tend to generally
+resort to products layouts when the volume
+
+
+39
+0:5:36,889 --> 0:5:47,11
+of production is large and for instance and
+you have a dedicated product, you are not
+
+
+40
+0:5:47,11 --> 0:5:56,28
+changing the product design that frequently.
+Another kind of layout is a process layout.
+
+
+41
+0:5:56,28 --> 0:6:0,509
+Essentially a process layout is something
+where you have different departments that
+
+
+42
+0:6:0,509 --> 0:6:9,52
+are A B C D E F. Each of these departments
+houses machine which are similar in character
+
+
+43
+0:6:9,52 --> 0:6:17,25
+though these machines are not identical. For
+instance A could be all the lathes. So lathes
+
+
+44
+0:6:17,25 --> 0:6:21,889
+with different features are in the lathe shop,
+this could be a milling shop, this could be
+
+
+45
+0:6:21,889 --> 0:6:28,72
+a grinding shop and so on. Each shop has different
+types of machines clubbed together and what
+
+
+46
+0:6:28,72 --> 0:6:36,16
+happens is that a particular product depending
+upon it is requirement will move from one
+
+
+47
+0:6:36,16 --> 0:6:44,41
+department to another to another till finally
+the product is produced. The major advantage
+
+
+48
+0:6:44,41 --> 0:6:50,9
+of this type of layout is the product variety
+that it can handle unlike the product layout
+
+
+49
+0:6:50,9 --> 0:6:55,69
+which typically handles the single type of
+product. You can make a variety of products
+
+
+50
+0:6:55,69 --> 0:7:3,68
+in this particular layout and of course what
+will be the major problem here? The major
+
+
+51
+0:7:3,68 --> 0:7:8,97
+problem obviously is B is large number of
+products moving here and there. So there will
+
+
+52
+0:7:8,97 --> 0:7:12,139
+be a lot of confusion in terms of movement.
+
+
+53
+0:7:12,139 --> 0:7:19,33
+There will be lot of delays as product weight
+and move to different departments therefore
+
+
+54
+0:7:19,33 --> 0:7:26,569
+the production time generally tend to be large
+in such situations. So you could try to have
+
+
+55
+0:7:26,569 --> 0:7:32,84
+the situation where you have both the product
+and the process layouts mixed, so it is a
+
+
+56
+0:7:32,84 --> 0:7:38,86
+mixed layout. Mixed layout is a very common
+layout in industry, for instance what could
+
+
+57
+0:7:38,86 --> 0:7:46,3
+happen is if you go to a factory like Maruthi
+ute for instance, you could find that the
+
+
+58
+0:7:46,3 --> 0:7:53,86
+final product is being produced as an assembly
+line. So it is a product layout. But the various
+
+
+59
+0:7:53,86 --> 0:7:59,11
+components which go into the product are actually
+being produced in a process layout in different
+
+
+60
+0:7:59,11 --> 0:8:6,83
+shops. So you invariably have a mixture of
+both the product and the process layout in
+
+
+61
+0:8:6,83 --> 0:8:15,289
+various organizations. Of course one can also
+talk about a cellular layout or a group layout
+
+
+62
+0:8:15,289 --> 0:8:22,99
+which is something that is generally suited
+to a situation where you have a predictable
+
+
+63
+0:8:22,99 --> 0:8:31,96
+variety of products to make and the idea is
+that you try to group products into product
+
+
+64
+0:8:31,96 --> 0:8:38,909
+families, part into part families and these
+individual parts are part family is then subjected
+
+
+65
+0:8:38,909 --> 0:8:49,0
+to processing in individual cells. The basic
+idea is that in a cell, the processing sequences
+
+
+66
+0:8:49,0 --> 0:8:55,5
+are almost uniform, so the modification behind
+the cellular layout is that we try to get
+
+
+67
+0:8:55,5 --> 0:9:4,49
+advantages of both product layout and process
+layouts, that means you get the variety of
+
+
+68
+0:9:4,49 --> 0:9:10,83
+the process layout and you try to get the
+speeds by this grouping of parts which are
+
+
+69
+0:9:10,83 --> 0:9:16,75
+all then processed in various kinds of cell.
+
+
+70
+0:9:16,75 --> 0:9:22,48
+Then we talk about layout by fixed position.
+In a layout by fixed position what happens
+
+
+71
+0:9:22,48 --> 0:9:29,18
+is that the layout is determined by the size
+of the product, for instance this is true
+
+
+72
+0:9:29,18 --> 0:9:34,98
+for special structures of a ship building
+or for assembly of an aircraft depending upon
+
+
+73
+0:9:34,98 --> 0:9:40,63
+the type of the aircraft, you have different
+machines, different pupil keep coming and
+
+
+74
+0:9:40,63 --> 0:9:47,48
+moving. In all these cases what was happening
+was that the job was moving and the machines
+
+
+75
+0:9:47,48 --> 0:9:53,5
+was stationary here. The job is stationary
+and the machines are moving. There is really
+
+
+76
+0:9:53,5 --> 0:9:57,6
+not much to choose as far as the layout is
+concerned, this is governed by the shape of
+
+
+77
+0:9:57,6 --> 0:10:3,69
+the product itself. If you are building a
+ship, the shape of the ship it itself will
+
+
+78
+0:10:3,69 --> 0:10:7,71
+dictate the layout and machines will come
+do the welding operations of the riveting
+
+
+79
+0:10:7,71 --> 0:10:18,54
+operations and go back. Then somebody else
+will do the painting and this is what it is.
+
+
+80
+0:10:18,54 --> 0:10:26,44
+We are looking at this layout design problem.
+It is important to note how this problem is
+
+
+81
+0:10:26,44 --> 0:10:33,6
+actually affected by other decisions pertaining
+to the product, the schedule and the process.
+
+
+82
+0:10:33,6 --> 0:10:38,95
+You see that the layout design problem which
+we are trying to a address is governed by
+
+
+83
+0:10:38,95 --> 0:10:45,93
+the product design, the process design and
+the schedule design. The product design means
+
+
+84
+0:10:45,93 --> 0:10:54,68
+what you have to make that determines the
+layout. How you have to make it means the
+
+
+85
+0:10:54,68 --> 0:10:59,49
+process that you have selected for making
+the product. So this will term in the various
+
+
+86
+0:10:59,49 --> 0:11:6,5
+machines and equipment that you need. Schedule
+design which talks about how much you need
+
+
+87
+0:11:6,5 --> 0:11:11,9
+to make. So this is essentially a decision
+that comes from marketing forecasting of the
+
+
+88
+0:11:11,9 --> 0:11:18,7
+man which tells you how much how many pieces
+you need per day. The product process and
+
+
+89
+0:11:18,7 --> 0:11:27,84
+schedule constitutes the basic information
+that you need for layout design. Mind you
+
+
+90
+0:11:27,84 --> 0:11:31,96
+it is not only layout design which is linked
+to this but these decisions in and sales are
+
+
+91
+0:11:31,96 --> 0:11:36,62
+also related to each other. To call the choice
+of the product will also determine what process
+
+
+92
+0:11:36,62 --> 0:11:44,56
+to take. Choice of the process will also determine
+the schedule that you have to follow and so
+
+
+93
+0:11:44,56 --> 0:11:52,31
+on. So in the layout design process, we are
+here primarily talking about the layout of
+
+
+94
+0:11:52,31 --> 0:12:0,0
+process layout. In the layout design process,
+you need inputs from the product, the process
+
+
+95
+0:12:0,0 --> 0:12:12,82
+and the schedule that is the important thing.
+If you try to compare for instance what could
+
+
+96
+0:12:12,82 --> 0:12:18,81
+be the features of a product layout in this
+category? You find what is the product layout?
+
+
+97
+0:12:18,81 --> 0:12:24,59
+Product layout is a situation where the input
+is some raw material and it is being processed
+
+
+98
+0:12:24,59 --> 0:12:31,29
+in different works station and sequence till
+finally the final product comes out here.
+
+
+99
+0:12:31,29 --> 0:12:37,85
+So in a situation like this you have smooth
+and logical flow lines. You need to have very
+
+
+100
+0:12:37,85 --> 0:12:43,4
+small in process inventories because the part
+which is processed here will immediately go
+
+
+101
+0:12:43,4 --> 0:12:48,5
+to the next machine, so there has to be very
+little in process inventory here.
+
+
+102
+0:12:48,5 --> 0:12:55,39
+Total production time per unit is short. There
+is a reduced material handling because the
+
+
+103
+0:12:55,39 --> 0:12:59,55
+parts directly move from one workstation to
+the other. So it does not have to be transported
+
+
+104
+0:12:59,55 --> 0:13:6,12
+in trolleys and tracks to other departments.
+There is little operator skill and the training
+
+
+105
+0:13:6,12 --> 0:13:15,0
+is therefore simple production, planning and
+control and there is less space for work in
+
+
+106
+0:13:15,0 --> 0:13:27,15
+transit and temporary storage. These are some
+of the features of a product layout.
+
+
+107
+0:13:27,15 --> 0:13:33,43
+Let us look at the process layout. Now what
+is our basic concern in this particular session?
+
+
+108
+0:13:33,43 --> 0:13:42,96
+A process layout is a collection of departments
+A B C D E F which are housed in maybe different
+
+
+109
+0:13:42,96 --> 0:13:51,13
+rooms or different buildings. Therefore the
+advantages are there is better utilization
+
+
+110
+0:13:51,13 --> 0:13:58,67
+of machines, hence fewer machines and needed.
+Why this is happening is because here you
+
+
+111
+0:13:58,67 --> 0:14:4,64
+have a lathe that is a special purpose lathe.
+So all jobs which require processing on that
+
+
+112
+0:14:4,64 --> 0:14:9,86
+special purpose lathe will come here and get
+the processing done and go away. Whereas if
+
+
+113
+0:14:9,86 --> 0:14:15,5
+the same thing was to be done in a product
+layout, you will have to duplicate the machine
+
+
+114
+0:14:15,5 --> 0:14:17,8
+at whatever operation it came.
+
+
+115
+0:14:17,8 --> 0:14:21,86
+If you need a lathe here, after ten operations
+you require the same lathe, you duplicate.
+
+
+116
+0:14:21,86 --> 0:14:26,96
+So generally, better utilization of machines
+and fewer machines are needed in a process
+
+
+117
+0:14:26,96 --> 0:14:34,27
+layout. There is a high degree of flexibility
+with regard to equipment or manpower allocation
+
+
+118
+0:14:34,27 --> 0:14:41,45
+for specific tasks. What this means is if
+a job comes to a department of the milling
+
+
+119
+0:14:41,45 --> 0:14:45,98
+machine, there is often a choice. It can be
+put in either machine 1 or machine 2 or machine
+
+
+120
+0:14:45,98 --> 0:14:51,21
+3 because they are all capable of doing the
+operation. It can be given to definitive operators
+
+
+121
+0:14:51,21 --> 0:14:56,63
+depending upon their skills. You have this
+flexibility with regard to both equipment
+
+
+122
+0:14:56,63 --> 0:15:3,8
+and manpower allocation for specific tasks.
+Comparatively low investment in machine is
+
+
+123
+0:15:3,8 --> 0:15:10,12
+required, this follows from one. There is
+greater job satisfaction for the operator.
+
+
+124
+0:15:10,12 --> 0:15:16,6
+Why is there a greater job satisfaction for
+the operator because the operator who is working
+
+
+125
+0:15:16,6 --> 0:15:22,22
+in a particular department during the day
+handles variety of jobs, different types of
+
+
+126
+0:15:22,22 --> 0:15:28,8
+jobs unlike an operator who is working on
+a product layout, who could be sitting on
+
+
+127
+0:15:28,8 --> 0:15:35,69
+a machine and operating a pedal. So you operate
+a pedal maybe 250 times a day and that is
+
+
+128
+0:15:35,69 --> 0:15:39,11
+the end it is life.
+
+
+129
+0:15:39,11 --> 0:15:43,69
+Here there is greater job satisfaction for
+the operator and specialized supervision is
+
+
+130
+0:15:43,69 --> 0:15:50,38
+also possible here. Why specialized supervision?
+because the supervisor for the lathe section
+
+
+131
+0:15:50,38 --> 0:15:55,3
+nearly spent 10 years in the lathe section
+and become a supervisor and in our knows the
+
+
+132
+0:15:55,3 --> 0:16:0,79
+ins and outs of all the machines which are
+there in this particular shop. If you talk
+
+
+133
+0:16:0,79 --> 0:16:7,94
+about the product layout on a line there are
+different machines manufactured by different
+
+
+134
+0:16:7,94 --> 0:16:12,51
+manufactures and having different features.
+It is impossible for one particular individual
+
+
+135
+0:16:12,51 --> 0:16:16,69
+to be an expert of all those machines. The
+kind of supervision that he will be able to
+
+
+136
+0:16:16,69 --> 0:16:36,28
+give is only general and not specialized.
+However the process layout has some limitations
+
+
+137
+0:16:36,28 --> 0:16:43,55
+and we should be aware of those limitations.
+Since longer flow lines usually result, material
+
+
+138
+0:16:43,55 --> 0:16:48,23
+handling is more expensive. Obviously a part
+has to go from here to here. It has the first
+
+
+139
+0:16:48,23 --> 0:16:52,12
+weight then somebody has to load it on to
+a trolley and then the trolley has to go.
+
+
+140
+0:16:52,12 --> 0:16:55,76
+The trolley may weigh in that department;
+somebody unloads it and so on.
+
+
+141
+0:16:55,76 --> 0:17:4,14
+So longer flow line used result material handling
+is more expensive. In fact the general objective
+
+
+142
+0:17:4,14 --> 0:17:10,669
+function in designing a layout of this type
+is one of the major objectives to minimize
+
+
+143
+0:17:10,669 --> 0:17:18,47
+the material handling cost. Production planning
+and control systems are more involved in such
+
+
+144
+0:17:18,47 --> 0:17:24,559
+systems. Total production time is usually
+longer. Large in process inventories take
+
+
+145
+0:17:24,559 --> 0:17:32,19
+place because material might be stored up
+in different departments without being processed.
+
+
+146
+0:17:32,19 --> 0:17:40,559
+Space and capital are tied up by work in processes
+and because of the diversity of jobs in specialized
+
+
+147
+0:17:40,559 --> 0:17:47,2
+departments, higher grades of skill are required.
+This is also another feature because quite
+
+
+148
+0:17:47,2 --> 0:17:52,77
+often if you need somebody to operate a grinding
+machine, you could at least expect that he
+
+
+149
+0:17:52,77 --> 0:18:1,419
+has done an ITI diploma and has put in three
+years therefore he can undertake to operate
+
+
+150
+0:18:1,419 --> 0:18:7,96
+such machines. All these operators operating
+this machine would generally be pupil who
+
+
+151
+0:18:7,96 --> 0:18:16,659
+have higher grades of skill unlike an operator
+on a product line because on a product line,
+
+
+152
+0:18:16,659 --> 0:18:23,409
+if you even select a man from the street,
+all you has to do is to press a pedal 250
+
+
+153
+0:18:23,409 --> 0:18:29,779
+times and that practice can be given to him
+in half a day and therefore training people
+
+
+154
+0:18:29,779 --> 0:18:34,21
+and product for operating product layout is
+generally much easier whereas here it will
+
+
+155
+0:18:34,21 --> 0:18:47,1
+be much more difficult. Let us look at this
+chart which is called a P-Q chart and essentially
+
+
+156
+0:18:47,1 --> 0:18:50,44
+what we have said is consider a situation
+where we have to make a large number of products,
+
+
+157
+0:18:50,44 --> 0:18:59,24
+P is the product variety and we arrange these
+products in the descending order of the quantity
+
+
+158
+0:18:59,24 --> 0:19:5,59
+that you need. What really happens is that
+this product is the first one to be made in
+
+
+159
+0:19:5,59 --> 0:19:11,49
+large quantity. This product is to be made
+in lesser quantity and so on. So we have products
+
+
+160
+0:19:11,49 --> 0:19:17,409
+which are arranged in the descending order
+of the air quantity. Now this chart which
+
+
+161
+0:19:17,409 --> 0:19:25,679
+was suggested by Muether, gives an idea of
+the situation under which you should use different
+
+
+162
+0:19:25,679 --> 0:19:31,559
+types layouts. For instance what you said
+is once you got these products lined like
+
+
+163
+0:19:31,559 --> 0:19:40,61
+these, the products which are here, that means
+for products for which the varieties low but
+
+
+164
+0:19:40,61 --> 0:19:46,259
+the quantities are high, those are the products
+for which product layout is more suitable.
+
+
+165
+0:19:46,259 --> 0:19:53,45
+I mean you set up assembly line, and on this
+end here where you have a large number of
+
+
+166
+0:19:53,45 --> 0:19:59,46
+products but the quantities are electively
+smaller. So it is a large amount of variety
+
+
+167
+0:19:59,46 --> 0:20:7,1
+but low production quantities. This is the
+situation where a process layout is recommended
+
+
+168
+0:20:7,1 --> 0:20:12,6
+and in between these two categories when you
+have intermediate variety and intermediate
+
+
+169
+0:20:12,6 --> 0:20:17,129
+production quantity, generally you could use
+a combination layout which is the product
+
+
+170
+0:20:17,129 --> 0:20:27,5
+of these. The idea here is only to give you
+an overall intuitive feel when a product layout
+
+
+171
+0:20:27,5 --> 0:20:34,789
+and process layout should be selected. Product
+layout is most appropriate when you are having
+
+
+172
+0:20:34,789 --> 0:20:39,74
+less number of products to produce in large
+quantities and the process layout is used
+
+
+173
+0:20:39,74 --> 0:20:48,8
+when you have large variety but to be produced
+in small quantities. This summarizes the features
+
+
+174
+0:20:48,8 --> 0:20:58,36
+of product and process layouts in that sense.
+Let us now look at the process of designing
+
+
+175
+0:20:58,36 --> 0:21:4,679
+a process layout. Normally when you talk about
+layout planning we are generally talking only
+
+
+176
+0:21:4,679 --> 0:21:10,999
+about process layouts because product layout
+is generally fixed by the sequence of operation.
+
+
+177
+0:21:10,999 --> 0:21:15,749
+So, there is nothing much to design except
+to ensure that you have the space to layout
+
+
+178
+0:21:15,749 --> 0:21:17,45
+those machines.
+
+
+179
+0:21:17,45 --> 0:21:25,499
+There is a procedure which is called systematic
+layout planning SLP. SLP procedure of Muether
+
+
+180
+0:21:25,499 --> 0:21:35,57
+was proposed way back in 1961 where we gave
+a general framework for how these process
+
+
+181
+0:21:35,57 --> 0:21:43,74
+layouts are to be designed. You might wonder
+as to why a procedure developed so long ago
+
+
+182
+0:21:43,74 --> 0:21:52,21
+is still being talk about. You talk about
+something when it is still useful. The zero
+
+
+183
+0:21:52,21 --> 0:22:1,49
+invented so many years ago is still useful.
+But the point here is that the systematic
+
+
+184
+0:22:1,49 --> 0:22:8,889
+layout planning procedure of Muether has suddenly
+become important because this has now become
+
+
+185
+0:22:8,889 --> 0:22:16,45
+the basis for many of the computerized layout
+planning algorithms which are available. In
+
+
+186
+0:22:16,45 --> 0:22:25,1
+the next class we shall be talking about some
+computerized layout planning procedures. Those
+
+
+187
+0:22:25,1 --> 0:22:33,36
+procedures are actually base their inputs
+and operations on the SLP procedure. We look
+
+
+188
+0:22:33,36 --> 0:22:41,8
+at the SLP procedure in this class to understand
+what all is required. The first in that required
+
+
+189
+0:22:41,8 --> 0:22:49,47
+is to input data and activities. What is the
+kind of data or activity that you have to
+
+
+190
+0:22:49,47 --> 0:22:51,649
+input for this particular problem?
+
+
+191
+0:22:51,649 --> 0:22:59,49
+There are three kinds of data that you need
+to input, the product data, the process data
+
+
+192
+0:22:59,49 --> 0:23:10,82
+and the scheduled data. The input to the process
+of planning a process layout is essentially
+
+
+193
+0:23:10,82 --> 0:23:17,73
+inputting this kind of data about the product
+the process and schedule and from this input
+
+
+194
+0:23:17,73 --> 0:23:28,149
+data the first step that is done is to identify
+the flow of material. The second step is to
+
+
+195
+0:23:28,149 --> 0:23:37,159
+identify the activity relationship based on
+step one and step two. We develop what is
+
+
+196
+0:23:37,159 --> 0:23:48,889
+called a relationship diagram and then this
+relationship diagram is converted into what
+
+
+197
+0:23:48,889 --> 0:23:54,98
+is called as space relationship diagram. In
+order to develop the space relationship diagram,
+
+
+198
+0:23:54,98 --> 0:24:1,73
+you have to compute in step 4, the space required,
+match it with the space available, that means
+
+
+199
+0:24:1,73 --> 0:24:6,96
+if you find that the space required is 4000
+square feet you must make sure that 4000 square
+
+
+200
+0:24:6,96 --> 0:24:12,82
+feet of space is available. So it is just
+to check in that direction and then you develop
+
+
+201
+0:24:12,82 --> 0:24:19,889
+the space relationship diagram in step six.
+This space relationship diagram is then subjected
+
+
+202
+0:24:19,889 --> 0:24:25,87
+to modifying considerations and practical
+limitations which you may not have considered
+
+
+203
+0:24:25,87 --> 0:24:35,129
+in the entire process so for. On the basis
+of space to develop the layout alternatives,
+
+
+204
+0:24:35,129 --> 0:24:39,69
+you evaluate these alternatives and pickup
+the best layout alternative that you have.
+
+
+205
+0:24:39,69 --> 0:24:45,6
+So this is the brad framework and it is a
+very systematic framework for a problem like
+
+
+206
+0:24:45,6 --> 0:24:52,169
+designing a layout. You can see that you can
+divide this framework into three different
+
+
+207
+0:24:52,169 --> 0:25:0,99
+phases. Up to here is the phase of analysis,
+up to step five is the phase of analysis,
+
+
+208
+0:25:0,99 --> 0:25:7,169
+where your analyzing your data, finding out
+the flow of material activity relationships,
+
+
+209
+0:25:7,169 --> 0:25:15,59
+depending upon the activity relationship diagram,
+the space required and the space available.
+
+
+210
+0:25:15,59 --> 0:25:23,9
+Once the analysis part is over you search
+for the solutions. So from the space relationship
+
+
+211
+0:25:23,9 --> 0:25:29,85
+diagram, you are developing layout alternatives,
+so you are searching for alternatives solution
+
+
+212
+0:25:29,85 --> 0:25:34,929
+and then once you have searched you have developed
+these solutions, you have to identify which
+
+
+213
+0:25:34,929 --> 0:25:43,269
+is the best so it is the selection of the
+solution. Search followed by selection, preceded
+
+
+214
+0:25:43,269 --> 0:25:51,35
+by analysis is the general order of this particular
+algorithm. The one reason why it is popular
+
+
+215
+0:25:51,35 --> 0:25:57,619
+is that it provides a framework for intensive
+exactly what is to be done. When you are developing
+
+
+216
+0:25:57,619 --> 0:26:1,6
+computer program you must tell the computer
+exactly what is to be done and that is why
+
+
+217
+0:26:1,6 --> 0:26:9,289
+this framework has been used in layout planning
+exercise. This is the SLP procedure of muether.
+
+
+218
+0:26:9,289 --> 0:26:15,7
+We will try to illustrate this procedure to
+a sample problem so that you get an idea of
+
+
+219
+0:26:15,7 --> 0:26:31,11
+what exact or how the layout operations can
+be done. Just to give you a feel if we are
+
+
+220
+0:26:31,11 --> 0:26:37,659
+to organize production as a product layout
+essentially what it means is that you have
+
+
+221
+0:26:37,659 --> 0:26:39,679
+to start from the raw materials stage.
+
+
+222
+0:26:39,679 --> 0:26:46,8
+You have different types of products. You
+go to the saw department, you go to the milling
+
+
+223
+0:26:46,8 --> 0:26:52,279
+department, you come to inspection one and
+then do this operation here and then final
+
+
+224
+0:26:52,279 --> 0:26:58,8
+operation here and you come out and similarly
+what we are trying to say is every departments
+
+
+225
+0:26:58,8 --> 0:27:4,21
+which are laid out core also be laid out so
+that you are trying to facilitate a product
+
+
+226
+0:27:4,21 --> 0:27:18,22
+layout for three different product. Now we
+in this particular scheme of things have essentially
+
+
+227
+0:27:18,22 --> 0:27:20,57
+used these three symbols.
+
+
+228
+0:27:20,57 --> 0:27:25,909
+The circle represents an operation being done
+like machining operation or mettle removal
+
+
+229
+0:27:25,909 --> 0:27:34,159
+or grinding whatever a square represents and
+inspection and a inverted triangle of this
+
+
+230
+0:27:34,159 --> 0:27:42,97
+nature represents storage. This is a convenient
+way of representing the types of operations
+
+
+231
+0:27:42,97 --> 0:27:49,769
+which are required here. Let us assume that
+we have a process layout for the same thing,
+
+
+232
+0:27:49,769 --> 0:27:55,11
+so what we have is, we have these different
+departments, raw materials, storage, saw department,
+
+
+233
+0:27:55,11 --> 0:28:2,9
+where saw is done of the material, the lathe
+department, the drilling department, the milling
+
+
+234
+0:28:2,9 --> 0:28:6,33
+department, the inspection the packing and
+finish goods and here again we have different
+
+
+235
+0:28:6,33 --> 0:28:11,279
+products which we try to move. So these products
+move according to their needs. There is a
+
+
+236
+0:28:11,279 --> 0:28:15,269
+lot of criss crossing so typically this is
+the kind of thing it happens in a process
+
+
+237
+0:28:15,269 --> 0:28:26,19
+layout.
+
+
+238
+0:28:26,19 --> 0:28:30,49
+These crosses I think are supposed to be the
+centralized of these individual departments,
+
+
+239
+0:28:30,49 --> 0:28:37,1
+if your raw material stored, this is the center.
+If this is the one, these are the centers.
+
+
+240
+0:28:37,1 --> 0:28:43,369
+We need them later. Let us suppose that we
+are trying to work on this particular process
+
+
+241
+0:28:43,369 --> 0:28:48,629
+layout and we are maybe trying to evaluate
+this process layout. We are trying to find
+
+
+242
+0:28:48,629 --> 0:28:57,389
+a better layout by using SLP. We will see
+how we can do that. So the operation could
+
+
+243
+0:28:57,389 --> 0:29:4,139
+be something like this. This is out input
+data for the problem. We are saying essentially
+
+
+244
+0:29:4,139 --> 0:29:12,649
+that they are three products A, B and C which
+we want to manufacture and the processing
+
+
+245
+0:29:12,649 --> 0:29:19,32
+sequence of these products is this first goes
+to saw, then mill then inspect then turn,
+
+
+246
+0:29:19,32 --> 0:29:26,59
+then mill, then drill then inspect then package
+and similarly for this and similarly for this
+
+
+247
+0:29:26,59 --> 0:29:31,249
+that means we know for each product the processing
+sequenc
+
+
+248
+0:29:31,249 --> 0:29:35,179
+We know the information pertaining to the
+product, what is the product and how it is
+
+
+249
+0:29:35,179 --> 0:29:41,57
+going to be processed? Product and the process
+information is available to us for these three
+
+
+250
+0:29:41,57 --> 0:29:52,119
+products, then we would also like to know
+the schedule information to how much is the
+
+
+251
+0:29:52,119 --> 0:30:0,71
+demand for each of these products. What my
+happen is that these products may be considerable
+
+
+252
+0:30:0,71 --> 0:30:6,739
+in size, this maybe a small costing, this
+maybe a much bigger thing, this maybe a smaller
+
+
+253
+0:30:6,739 --> 0:30:8,29
+thing and so on.
+
+
+254
+0:30:8,29 --> 0:30:16,35
+In order to take care of that aspect we are
+simply standardizing the material flow required
+
+
+255
+0:30:16,35 --> 0:30:21,419
+in the plant to pallet loads per day, that
+means how many trolley loads per day will
+
+
+256
+0:30:21,419 --> 0:30:26,309
+be needed? What we are saying is that as far
+as product is concerned we required eight
+
+
+257
+0:30:26,309 --> 0:30:35,549
+pallet loads per day in terms of production.
+This might be something like 160 products
+
+
+258
+0:30:35,549 --> 0:30:41,149
+or whatever it is. We are talking in terms
+of pallet loads. Similarly B requires 3 pallet
+
+
+259
+0:30:41,149 --> 0:30:46,499
+loads which maybe 300 components so whatever
+could be different and C could be five pallet
+
+
+260
+0:30:46,499 --> 0:30:52,57
+loads per day, so we are using a common unit
+for measuring the material handling of these
+
+
+261
+0:30:52,57 --> 0:30:59,279
+products throughout the plant. This is essentially
+our schedule requirement. Firstly, how many
+
+
+262
+0:30:59,279 --> 0:31:7,39
+trolley loads of A, B, C must be produce per
+day in the factory? We need information about
+
+
+263
+0:31:7,39 --> 0:31:19,379
+the processing the products the processing
+and the quantities. This is the input to it.
+
+
+264
+0:31:19,379 --> 0:31:23,399
+What we are going to do is we are going to
+actually construct what is called a from-to
+
+
+265
+0:31:23,399 --> 0:31:38,769
+chart 
+and from-to chart is actually a convenient
+means of reducing a large volume of data into
+
+
+266
+0:31:38,769 --> 0:31:42,619
+a workable form.
+
+
+267
+0:31:42,619 --> 0:31:49,159
+By inspecting the data displayed in the from-to
+chart the layout analyst can identify the
+
+
+268
+0:31:49,159 --> 0:32:1,919
+departments having large volumes of movement.
+So let us try to do it for our example,
+
+
+269
+0:32:1,919 --> 0:32:15,96
+What we find here is let us say we construct
+this information, from-to chart is actually
+
+
+270
+0:32:15,96 --> 0:32:24,749
+a square matrix. In the matrix we have listed
+all the departments, raw materials, saw lathe,
+
+
+271
+0:32:24,749 --> 0:32:30,59
+drill mill inspection packaging and finish
+goods, and same departments here and so on.
+
+
+272
+0:32:30,59 --> 0:32:35,619
+What we are trying to basically find out is
+what is the total movement from this to this
+
+
+273
+0:32:35,619 --> 0:32:41,739
+so it is a from-to chart it is very much like
+a distance chart, which is say what are the
+
+
+274
+0:32:41,739 --> 0:32:48,49
+distances from one pair of cities to another
+pair of cities? For instance what you find
+
+
+275
+0:32:48,49 --> 0:32:56,97
+is everything begins from the raw materials
+stage, so you have the total movement which
+
+
+276
+0:32:56,97 --> 0:33:1,83
+will take place form raw material to saw.
+
+
+277
+0:33:1,83 --> 0:33:9,69
+What you are saying is let us look at this
+requirement. This product A will go from raw
+
+
+278
+0:33:9,69 --> 0:33:15,809
+material to saw C, will also go from raw material
+to saw, but B will go from raw material to
+
+
+279
+0:33:15,809 --> 0:33:21,549
+drill, it does not go to saw, so as far as
+this is concerned product A and C will make
+
+
+280
+0:33:21,549 --> 0:33:26,659
+a movement from raw material to saw and you
+can easily find out what is the total movement
+
+
+281
+0:33:26,659 --> 0:33:33,559
+of raw materials of product A and C. So A
+trolleys are moving and C is five trolley
+
+
+282
+0:33:33,559 --> 0:33:39,679
+loads are moving, so 8 + 5 is 13, that how
+you get this figure of 13 and similarly for
+
+
+283
+0:33:39,679 --> 0:33:45,739
+the other entries in this particular chart.
+So it shows that the total movement which
+
+
+284
+0:33:45,739 --> 0:33:52,59
+takes place from raw material to saw, 13 daily
+they will be 13 trolley loads moving from
+
+
+285
+0:33:52,59 --> 0:33:58,999
+raw material to saw and from raw material
+to drill 3 will be moving and as far as this
+
+
+286
+0:33:58,999 --> 0:34:5,39
+movement is concerned from milling to inspection
+16 will be moving and so on. This from- to
+
+
+287
+0:34:5,39 --> 0:34:11,21
+charts shows the number of materials handling
+trips per day between all the departments.
+
+
+288
+0:34:11,21 --> 0:34:21,669
+Now what is the idea? The idea is that those
+departments which have a large amount of movement,
+
+
+289
+0:34:21,669 --> 0:34:28,159
+especially these departments should be as
+close to each other, the layout is possible.
+
+
+290
+0:34:28,159 --> 0:34:33,71
+They should be as much as possible, close
+to each other and for those departments which
+
+
+291
+0:34:33,71 --> 0:34:44,8
+do not have any movement, need not be that
+close. So from this from-to chart we can we
+
+
+292
+0:34:44,8 --> 0:34:50,409
+can make a common like this. Normally the
+from-to chart is used to analyze the flow
+
+
+293
+0:34:50,409 --> 0:34:58,48
+in process layouts. The item movement that
+occurs over some specified period of time
+
+
+294
+0:34:58,48 --> 0:35:3,88
+is totaled for all products and entered in
+the from-to chart as shown in the next figure.
+
+
+295
+0:35:3,88 --> 0:35:12,21
+What do you like to simply show is this information?
+
+
+296
+0:35:12,21 --> 0:35:23,28
+In this figure which is also from-to chart,
+the previous chart was total flow or material
+
+
+297
+0:35:23,28 --> 0:35:31,9
+handling material flow taking place between
+all pairs of departments. This particular
+
+
+298
+0:35:31,9 --> 0:35:39,82
+chart is the information pertaining to the
+distances between the various departments.
+
+
+299
+0:35:39,82 --> 0:35:44,9
+You are asking me about the centers in that
+layouts, so if you are now talking about this
+
+
+300
+0:35:44,9 --> 0:35:50,61
+layout, we look at the centralized of each
+department and find out what is the distance
+
+
+301
+0:35:50,61 --> 0:35:55,52
+from the centroid of one department to the
+centroid the other departments. On that basis
+
+
+302
+0:35:55,52 --> 0:36:3,2
+we can construct a diagram of this nature,
+which should show that the raw material to
+
+
+303
+0:36:3,2 --> 0:36:13,98
+drill department is 72. Note that the various
+distances between all pairs of departments
+
+
+304
+0:36:13,98 --> 0:36:21,12
+are listed here. This particular matrix could
+be either symmetric but it is not necessary
+
+
+305
+0:36:21,12 --> 0:36:25,75
+that it be a symmetric. The distance from
+one department to another need not be the
+
+
+306
+0:36:25,75 --> 0:36:30,4
+same as the distance from the same department
+back to cell if there are unidirectional flows
+
+
+307
+0:36:30,4 --> 0:36:38,42
+and so on. If you are permitting all kind
+of flows, then this maybe the same. Whatever
+
+
+308
+0:36:38,42 --> 0:36:43,74
+be the distances they can be accommodated
+and this is the distance matrix, so we have
+
+
+309
+0:36:43,74 --> 0:36:49,52
+a flow matrix and we have a distance matrix
+which we have constructed. An important thing
+
+
+310
+0:36:49,52 --> 0:36:55,47
+to note here is that the distance matrix can
+be constructed only if you have a tentative
+
+
+311
+0:36:55,47 --> 0:36:56,59
+layout.
+
+
+312
+0:36:56,59 --> 0:37:3,45
+So it is for that tentative layout that we
+have made the distances, so then what we do
+
+
+313
+0:37:3,45 --> 0:37:12,68
+is we multiply the two matrices element by
+element. Now we have the total material handling
+
+
+314
+0:37:12,68 --> 0:37:18,49
+effect. This is the total loads multiplied
+with distance which we had in the previous
+
+
+315
+0:37:18,49 --> 0:37:24,66
+matrix. We have two matrices; we multiply
+that so this is the total material handling
+
+
+316
+0:37:24,66 --> 0:37:32,38
+effect. You will have these entrances here.
+We can sum up the rows; you will get 424 which
+
+
+317
+0:37:32,38 --> 0:37:40,34
+is the material handling effort. Total material
+handling movement from the raw material is
+
+
+318
+0:37:40,34 --> 0:37:49,54
+424 units and total material handling movement
+to the saw is 208. So this is the to and this
+
+
+319
+0:37:49,54 --> 0:37:59,39
+is the from, in terms of total material handling
+effort and a zero in a particular column shows
+
+
+320
+0:37:59,39 --> 0:38:6,32
+that this is a source and a zero in a particular
+row shows that this is the sink, obviously
+
+
+321
+0:38:6,32 --> 0:38:11,15
+because what is happening is that everything
+flows from the raw materials store. It is
+
+
+322
+0:38:11,15 --> 0:38:17,48
+a source, there is nothing coming to it and
+the finish goods is last operation. So that
+
+
+323
+0:38:17,48 --> 0:38:24,68
+is where you have, and nothing goes out of
+it. If you sum up these values, this column
+
+
+324
+0:38:24,68 --> 0:38:35,42
+or this row, the total value is 4032. So it
+shows that the process layout which we are
+
+
+325
+0:38:35,42 --> 0:38:44,56
+at the movement investigating has a total
+material handling effort of 4032, this is
+
+
+326
+0:38:44,56 --> 0:38:51,41
+significant a development because what have
+we done? We have been able to quantify the
+
+
+327
+0:38:51,41 --> 0:38:56,3
+material handling movement for a layout and
+this is the likely objective function for
+
+
+328
+0:38:56,3 --> 0:39:2,72
+that particular layout. We are able to say
+that the total material handling effort for
+
+
+329
+0:39:2,72 --> 0:39:10,86
+this layout is so much. Clearly we could use
+this information to evaluate different layouts.
+
+
+330
+0:39:10,86 --> 0:39:17,55
+Plant one, plant two, plant three, each one
+we can calculate the distance matrix will
+
+
+331
+0:39:17,55 --> 0:39:24,3
+be different the load matrix will be the same.
+You will get different material handling figures
+
+
+332
+0:39:24,3 --> 0:39:29,21
+which is like the objective function values
+and you can choose a particular layout which
+
+
+333
+0:39:29,21 --> 0:39:35,1
+in fact has the minimum material handling
+effect and in fact this is one of the basic
+
+
+334
+0:39:35,1 --> 0:39:42,71
+logic that is provided in the development
+of craft which is a computerized relative
+
+
+335
+0:39:42,71 --> 0:39:57,46
+allocation of facilities technique which we
+can talk about in the next class.
+
+
+336
+0:39:57,46 --> 0:40:5,64
+We can plant a layout by following these steps
+is something like this. Suppose these are
+
+
+337
+0:40:5,64 --> 0:40:11,64
+the departments which are to be placed in
+a layout, the foreman office, the conference
+
+
+338
+0:40:11,64 --> 0:40:16,64
+room, the parcel post parts, shipment repair
+and service area, servile area receiving testing
+
+
+339
+0:40:16,64 --> 0:40:23,51
+and general storage, first thing that you
+can do is apart from the material handling
+
+
+340
+0:40:23,51 --> 0:40:29,54
+effect, we were initially talking about box
+number one in the SLP procedure, i.e., development
+
+
+341
+0:40:29,54 --> 0:40:34,0
+of the flow of materialism in the various
+types. We are not talking about box number
+
+
+342
+0:40:34,0 --> 0:40:39,63
+two, where you are trying to develop activity
+relationships for these things. What you can
+
+
+343
+0:40:39,63 --> 0:40:45,79
+say is for each pair for instance you can
+say that as far as repair and service parts
+
+
+344
+0:40:45,79 --> 0:40:54,54
+is concerned its proximity two, for instance
+the conference room is unimportant, so we
+
+
+345
+0:40:54,54 --> 0:41:3,54
+give a U rating here so this is the significant
+of the U. You have various ratings. Normally
+
+
+346
+0:41:3,54 --> 0:41:18,12
+what we give is we give typically the ratings
+A E I O U and X. A means it is absolutely
+
+
+347
+0:41:18,12 --> 0:41:25,77
+essential to locate the departments close
+to each other for instance, this is A, it
+
+
+348
+0:41:25,77 --> 0:41:31,27
+is shows that parts shipment and general storage
+is absolutely essential to have them close
+
+
+349
+0:41:31,27 --> 0:41:37,26
+to each other so you have an A rating. E means
+that is essential but not absolutely essential,
+
+
+350
+0:41:37,26 --> 0:41:43,93
+so for instance service area and testing is
+essential to have them close to each other.
+
+
+351
+0:41:43,93 --> 0:41:51,98
+I is important so for instance here the conference
+room in the foreman room is important to have
+
+
+352
+0:41:51,98 --> 0:42:0,9
+them close to each other because you can call
+them for conference, O ordinary close nesses.
+
+
+353
+0:42:0,9 --> 0:42:4,87
+You have an overrating between the repair
+and service department and the parcel post
+
+
+354
+0:42:4,87 --> 0:42:12,4
+and U is unimportant that they be close to
+each other, for instance conference room it
+
+
+355
+0:42:12,4 --> 0:42:19,3
+is unimportant that it is close to parcel
+post or parts shipment and so on. X means
+
+
+356
+0:42:19,3 --> 0:42:23,46
+it is highly undesirable to have these two
+departments close to each other. You do not
+
+
+357
+0:42:23,46 --> 0:42:33,34
+see that here. What may happen is for instance
+you might have a boundary; you might not want
+
+
+358
+0:42:33,34 --> 0:42:40,57
+that to be close to your air condition metrology
+shop. You can give X rating; it is highly
+
+
+359
+0:42:40,57 --> 0:42:46,39
+undesirable to have these things there. What
+is really important is given this ratings
+
+
+360
+0:42:46,39 --> 0:42:54,2
+for these are giving the general preferences
+that you may have for locating certain department
+
+
+361
+0:42:54,2 --> 0:42:59,27
+close to each other or not. You accommodate
+those priorities that you have in the form
+
+
+362
+0:42:59,27 --> 0:43:10,8
+of these ratings, these are called activity
+relationships. The numbers are normally given
+
+
+363
+0:43:10,8 --> 0:43:19,23
+because a factor say E might, you might have
+a number of reasons 1, 2, 3, 4, 5 which you
+
+
+364
+0:43:19,23 --> 0:43:20,89
+document.
+(Refer Slide Time: 43:18)
+
+
+365
+0:43:20,89 --> 0:43:37,73
+‘Might’ refers to for what reason we identify
+E. When you are documenting this, the numbers
+
+
+366
+0:43:37,73 --> 0:43:43,89
+are also clear here.
+We talk about these ratings:
+
+
+367
+0:43:43,89 --> 0:43:46,37
+Absolutely essential
+Especially important
+
+
+368
+0:43:46,37 --> 0:43:48,51
+Important
+Ordinary closeness OK
+
+
+369
+0:43:48,51 --> 0:43:51,63
+unimportant
+and X is undesirable.
+
+
+370
+0:43:51,63 --> 0:43:57,23
+When you are giving any rating it could be
+for various reasons for which you get a code
+
+
+371
+0:43:57,23 --> 0:44:2,49
+like flow of materials, ease of supervision,
+common personnel, and contact necessary and
+
+
+372
+0:44:2,49 --> 0:44:7,68
+convenience or something else. When you give
+a rating you might see whether it is for this
+
+
+373
+0:44:7,68 --> 0:44:13,17
+reason or that reason whatever that is the
+idea. On the basis of this information we
+
+
+374
+0:44:13,17 --> 0:44:26,87
+can develop what is called an activity relationship
+chart. This is what an activity relationship
+
+
+375
+0:44:26,87 --> 0:44:34,5
+chart looks like. We have these departments
+from 1 to 10 which you can talk about, so
+
+
+376
+0:44:34,5 --> 0:44:45,78
+each square represents a department 1, 2,
+3, 4, 5, 6, 7, 8, 9, 10. After being represented
+
+
+377
+0:44:45,78 --> 0:44:53,36
+by a square, you identify what kind of a rating
+you want to get between these departments.
+
+
+378
+0:44:53,36 --> 0:44:58,28
+Mind you the rating can also consider the
+material handling effort which you computed
+
+
+379
+0:44:58,28 --> 0:45:8,91
+in step one. You can have various types of
+situation. It should be one line here, two
+
+
+380
+0:45:8,91 --> 0:45:16,0
+lines here, three lines here and four lines
+here that is it and X U is no relationship
+
+
+381
+0:45:16,0 --> 0:45:21,37
+and X rating could be wave V diagram. What
+will happen is for instance between one and
+
+
+382
+0:45:21,37 --> 0:45:27,24
+three there are three lines. It means that
+there is an E rating between 1 and 3.
+
+
+383
+0:45:27,24 --> 0:45:33,47
+Similarly for the others what will happen
+is that the number of lines between a department
+
+
+384
+0:45:33,47 --> 0:45:38,58
+actually shows the a affinity between these
+departments that is the related desirability
+
+
+385
+0:45:38,58 --> 0:45:43,35
+of different departments to be close to each
+other is stronger if the bond is stronger
+
+
+386
+0:45:43,35 --> 0:45:48,49
+and the number of lines show the bond. You
+are basically getting an idea of which department
+
+
+387
+0:45:48,49 --> 0:45:58,58
+should get close to each other to this. This
+is called an activity relationship diagram.
+
+
+388
+0:45:58,58 --> 0:46:3,34
+Here we assumed that the same size was there
+for department particular to calculate the
+
+
+389
+0:46:3,34 --> 0:46:8,75
+requirements of each department. So what will
+happen is typically how we will be able to
+
+
+390
+0:46:8,75 --> 0:46:13,3
+do that for different departments? say if
+this is the saw department you know that this
+
+
+391
+0:46:13,3 --> 0:46:20,22
+houses the equipment, the Amstrong hack saw
+and there are 3 of these the machine center
+
+
+392
+0:46:20,22 --> 0:46:28,23
+dimension for each of these in feet in 10/9.
+The total machine area requirement is 190
+
+
+393
+0:46:28,23 --> 0:46:37,63
+per machine and the total process area required
+is because there are 3 machines 570 square
+
+
+394
+0:46:37,63 --> 0:46:38,91
+feet.
+
+
+395
+0:46:38,91 --> 0:46:44,7
+You can find out immediately the amount of
+machine area that you need for this department
+
+
+396
+0:46:44,7 --> 0:46:49,41
+called saw, similarly in the mill you might
+have different types of machines. You have
+
+
+397
+0:46:49,41 --> 0:46:54,19
+a plain mill - 5 of them, vertical mill - 7
+of them, hand mill- 4 of them. You know the
+
+
+398
+0:46:54,19 --> 0:47:1,27
+department sizes of the machines center requirements,
+area of which department and the total area
+
+
+399
+0:47:1,27 --> 0:47:8,39
+corresponding to each of these machines. This
+exercise can be done for the calculation of
+
+
+400
+0:47:8,39 --> 0:47:11,7
+the production space.
+
+
+401
+0:47:11,7 --> 0:47:27,31
+We do it for each department in the same manner
+and at the end of it we have been able to
+
+
+402
+0:47:27,31 --> 0:47:34,17
+find out the total at that mean, the final
+area requirements the total square feet required
+
+
+403
+0:47:34,17 --> 0:47:42,47
+is now 3931. This is the space required only
+for the machines, so normal practice in factory
+
+
+404
+0:47:42,47 --> 0:47:48,4
+design is to add 40 percent space for aisle
+that is movement within the department. 40
+
+
+405
+0:47:48,4 --> 0:47:55,93
+percent aisle space of this is 1572. The total
+production space required is 5503 that is
+
+
+406
+0:47:55,93 --> 0:48:1,24
+how we calculated this space and we also know
+the space requirement of individual departments
+
+
+407
+0:48:1,24 --> 0:48:12,95
+as a consequence. We have so far not considered
+non productive activity space, this is only
+
+
+408
+0:48:12,95 --> 0:48:13,57
+protection space.
+
+
+409
+0:48:13,57 --> 0:48:18,69
+You will have to add the requirements of the
+non production activity space for storage,
+
+
+410
+0:48:18,69 --> 0:48:23,81
+office, locker rooms, foreman maintenance,
+and tool crib and so on. This total area comes
+
+
+411
+0:48:23,81 --> 0:48:33,7
+out to 1448 square feet in addition to that
+you already had. We have to add to the earlier
+
+
+412
+0:48:33,7 --> 0:48:41,91
+area production area 5503, this additional
+space 1448 and get the total requirement of
+
+
+413
+0:48:41,91 --> 0:48:46,55
+6951 square feet of floor space required in
+total.
+
+
+414
+0:48:46,55 --> 0:48:51,4
+This is the activity involved in calculating
+the space from the production requirements
+
+
+415
+0:48:51,4 --> 0:48:58,8
+and the non production requirements. What
+is then finally done is we have the activity
+
+
+416
+0:48:58,8 --> 0:49:5,66
+relationship diagram. The activity relationship
+diagram of each department was shown as a
+
+
+417
+0:49:5,66 --> 0:49:12,4
+square; this is called a space relationship
+diagram. We did the calculations for the space;
+
+
+418
+0:49:12,4 --> 0:49:18,6
+each department is shown propositional to
+its size. This department has a size of so
+
+
+419
+0:49:18,6 --> 0:49:19,6
+much.
+
+
+420
+0:49:19,6 --> 0:49:23,69
+This department has a size of so much and
+so on. This was a bigger department and it
+
+
+421
+0:49:23,69 --> 0:49:31,63
+has a size of 1750 and so on. You represent
+these departments in terms of sizes propositional
+
+
+422
+0:49:31,63 --> 0:49:38,21
+to the areas. What is the problem now? If
+you can imagine that these individual blocks
+
+
+423
+0:49:38,21 --> 0:49:47,49
+are cut out of card board with various things,
+you could shift them around and try to range
+
+
+424
+0:49:47,49 --> 0:49:54,89
+them in the form of a layout and you could
+then ultimately get a layout. This is basically
+
+
+425
+0:49:54,89 --> 0:50:4,77
+what may of the computer programs do. They
+begin with this diagram as an input and then
+
+
+426
+0:50:4,77 --> 0:50:9,97
+by shuffling around these departments, generate
+a layout. Obviously there are infinite possible
+
+
+427
+0:50:9,97 --> 0:50:15,46
+combinations. You have to look for a best
+combination and best means. What is your objective?
+
+
+428
+0:50:15,46 --> 0:50:21,18
+The objective could be anything; generally
+the objective is a material handling effort.
+
+
+429
+0:50:21,18 --> 0:50:27,12
+If you are using activity relationships, you
+are trying to maximize the material handling
+
+
+430
+0:50:27,12 --> 0:50:33,9
+and other factors also. What you do is you
+can give some weightages to A E I O U X, some
+
+
+431
+0:50:33,9 --> 0:50:41,11
+marks and ultimately develop a layout for
+those particular boxes.
+
+
+432
+0:50:41,11 --> 0:50:48,1
+Finally what we do is we can develop a plant
+layout by shuffling these departments. Ultimately
+
+
+433
+0:50:48,1 --> 0:50:53,41
+this shuffling leads to what is called a block
+plan. So this is the block plan. We show department
+
+
+434
+0:50:53,41 --> 0:50:55,54
+1 should be here, 2, 3, 4, 5
+
+
+435
+0:50:55,54 --> 0:51:0,12
+We actually solved the plant layout problem
+for this particular case by developing a block
+
+
+436
+0:51:0,12 --> 0:51:8,23
+plant which looks like this. Finally when
+we look at what we have tried to do in this
+
+
+437
+0:51:8,23 --> 0:51:13,65
+particular lecture, we have seen that the
+objectives in different types of layouts whether
+
+
+438
+0:51:13,65 --> 0:51:18,76
+you talking about process layout, product
+layout or mixed layout or even cellular layouts,
+
+
+439
+0:51:18,76 --> 0:51:25,68
+the objectives are different. Therefore the
+ways of handling these layouts are all different.
+
+
+440
+0:51:25,68 --> 0:51:32,54
+Systematic layout planning is a systematic
+procedure for designing process layouts and
+
+
+441
+0:51:32,54 --> 0:51:40,21
+basically we looked at this procedure in this
+particular class to identify how systematic
+
+
+442
+0:51:40,21 --> 0:51:43,69
+layout planning can be done for process layouts.
+
+
+443
+0:51:43,69 --> 0:51:50,81
+From-to charts measure material handling effort.
+A step by step procedure for a sample layout
+
+
+444
+0:51:50,81 --> 0:51:56,63
+was done and the major advantage of this particular
+systematic layout planning procedure is that
+
+
+445
+0:51:56,63 --> 0:52:5,13
+it is a precursor to computerized layout planning.
+Therefore in the next class we will try to
+
+
+446
+0:52:5,13 --> 0:52:11,5
+look at some of the computerized layout planning
+procedures that are available for handling
+
+
+447
+0:52:11,5 --> 0:52:28,12
+the layout planning problem course. This will
+constitute a basis for doing the exercise.
+
+
+448
+0:52:28,12 --> 0:54:28,12
+Thank you
+
+

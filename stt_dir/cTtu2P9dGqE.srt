@@ -1,0 +1,3099 @@
+1
+0:0:59,66 --> 0:1:7,979
+Last time we were talking about computerized
+layout planning and the focus of the last
+
+
+2
+0:1:7,979 --> 0:1:15,84
+two lectures has been on the development of
+process layouts. In today’s class we are
+
+
+3
+0:1:15,84 --> 0:1:22,55
+going to talk about the design of product
+layouts or assembly lines and the features
+
+
+4
+0:1:22,55 --> 0:1:36,97
+that we have there in product layouts. If
+you recall, we had talked about the PQ chart
+
+
+5
+0:1:36,97 --> 0:1:43,36
+and in that we are identify the range in which
+product layouts and process layouts are used.
+
+
+6
+0:1:43,36 --> 0:1:48,83
+Let us briefly recall the features of these
+different kinds of production systems and
+
+
+7
+0:1:48,83 --> 0:1:54,53
+see which kind of layout is relevant under
+what circumstances.
+
+
+8
+0:1:54,53 --> 0:2:1,97
+For instance when you talk about kinds of
+production systems, we can talk about a flow
+
+
+9
+0:2:1,97 --> 0:2:9,44
+shop. A flow shop is essentially a production
+system in which the same sets of operations
+
+
+10
+0:2:9,44 --> 0:2:20,12
+are performed in sequence repetitively. So
+what we have is essentially when the operations
+
+
+11
+0:2:20,12 --> 0:2:27,83
+are going to be repeated so that the pattern
+of flow of the raw materials through the plant
+
+
+12
+0:2:27,83 --> 0:2:33,63
+is constant more or less. That particular
+configuration is called a flow shop and in
+
+
+13
+0:2:33,63 --> 0:2:43,44
+fact such systems even in assembly line could
+be used as a flow shop in that sense. On the
+
+
+14
+0:2:43,44 --> 0:2:50,27
+other extreme we can talk about a job shop.
+Job shop is something with facilities, capable
+
+
+15
+0:2:50,27 --> 0:2:56,52
+of producing many different jobs in small
+batches. So the difference between a job shop
+
+
+16
+0:2:56,52 --> 0:3:2,739
+and a flow shop is essentially in terms of
+the variety of products that we are handling.
+
+
+17
+0:3:2,739 --> 0:3:8,99
+In a job shop you can handle a variety of
+products and because each product might require
+
+
+18
+0:3:8,99 --> 0:3:15,95
+different kinds of processing depending upon
+its requirements. You have actually general
+
+
+19
+0:3:15,95 --> 0:3:22,66
+purpose machines laid out in the job shop
+and each product can go to the respective
+
+
+20
+0:3:22,66 --> 0:3:28,98
+machine, get the operations done and then
+you to the next particular machine for the
+
+
+21
+0:3:28,98 --> 0:3:35,45
+new operations. So what really happens in
+the job shop is that the flow pattern is quite
+
+
+22
+0:3:35,45 --> 0:3:41,9
+complicated and material handling costs are
+pretty high. Basically when you are designing
+
+
+23
+0:3:41,9 --> 0:3:49,24
+layouts for such job shops you are basically
+talking about the design of process layouts.
+
+
+24
+0:3:49,24 --> 0:3:55,0
+What we are talking about is designing a process
+layout which can accommodate a variety of
+
+
+25
+0:3:55,0 --> 0:4:0,319
+products that you make. That is what we saw
+when we were dealing with both the systematic
+
+
+26
+0:4:0,319 --> 0:4:6,6
+layout planning procedure of Muether and also
+the computerized layout planning packages
+
+
+27
+0:4:6,6 --> 0:4:10,98
+which are there for handling such types of
+systems.
+
+
+28
+0:4:10,98 --> 0:4:17,819
+Of course one can have a production system
+which is totally distinct and which is a project
+
+
+29
+0:4:17,819 --> 0:4:24,1
+that should be a major one time job requiring
+sequencing and coordination among interrelated
+
+
+30
+0:4:24,1 --> 0:4:34,12
+tasks. Now in a project therefore things are
+done once and for all and there is no need
+
+
+31
+0:4:34,12 --> 0:4:39,46
+for repeating whatever you are doing. Generally
+a project is a one time activity and therefore
+
+
+32
+0:4:39,46 --> 0:4:46,28
+whatever layout emerges is actually a layout
+dictated by the particular circumstances.
+
+
+33
+0:4:46,28 --> 0:4:52,88
+Therefore there are no formal methods of designing
+a layout for a project it is actually dictated
+
+
+34
+0:4:52,88 --> 0:4:58,539
+by the various activities which have to be
+performed in the project, the kind of equipment
+
+
+35
+0:4:58,539 --> 0:5:4,28
+that is to be laid and the kind of terrain
+in which the project is to be done. So we
+
+
+36
+0:5:4,28 --> 0:5:8,36
+are not really talking about layouts when
+you are talking about a project for these
+
+
+37
+0:5:8,36 --> 0:5:20,25
+reasons. Now it is important to note that
+all these different kinds of production systems
+
+
+38
+0:5:20,25 --> 0:5:30,49
+that we have talked about essentially require
+resources. Let us recall these resources could
+
+
+39
+0:5:30,49 --> 0:5:37,69
+be man power machines, materials, money, energy,
+information etc.
+
+
+40
+0:5:37,69 --> 0:5:44,0
+They have to be provided to the production
+system and the production system will generate
+
+
+41
+0:5:44,0 --> 0:5:50,43
+to you the desirable goods and services and
+also some undesirable goods and services in
+
+
+42
+0:5:50,43 --> 0:5:59,57
+the form of pollutions noise scrap etc. The
+purpose of a layout is actually to facilitate
+
+
+43
+0:5:59,57 --> 0:6:7,85
+this operation which goes on within the black
+box. So we should look at a layout as something
+
+
+44
+0:6:7,85 --> 0:6:14,78
+which facilitates the production process and
+at the same time tries to improve the productivity
+
+
+45
+0:6:14,78 --> 0:6:21,44
+of the production system by enlarged. So it
+has to be viewed in that integrated concepts
+
+
+46
+0:6:21,44 --> 0:6:40,59
+and not a problem nearly in isolation. This
+particular diagram which shows a plot of the
+
+
+47
+0:6:40,59 --> 0:6:49,6
+product variety versus the quantity in fact
+brings out very beautifully the natural domains
+
+
+48
+0:6:49,6 --> 0:6:58,979
+of the flow shop, the job shop and the projects.
+For instance if your quantities are small
+
+
+49
+0:6:58,979 --> 0:7:6,99
+but the variety is large then this particular
+domain is the domain of the project and the
+
+
+50
+0:7:6,99 --> 0:7:15,2
+job shops primarily on the other hand when
+you increase the quantity and also relatively
+
+
+51
+0:7:15,2 --> 0:7:22,93
+reduce the variety in fact, what happens here
+is that we are talking here about predictable
+
+
+52
+0:7:22,93 --> 0:7:25,57
+variety ion a job shop.
+
+
+53
+0:7:25,57 --> 0:7:32,8
+The medium level variety and medium level
+quantity is actually the domain of the job
+
+
+54
+0:7:32,8 --> 0:7:44,94
+shop and when you are talking about the job
+shop, you are primarily talking about the
+
+
+55
+0:7:44,94 --> 0:7:50,949
+design of process layouts. Whatever we studied
+in layout planning was actually applicable
+
+
+56
+0:7:50,949 --> 0:7:57,29
+to the job shops that this particular ends
+up the spectrum here. On the other hand if
+
+
+57
+0:7:57,29 --> 0:8:2,79
+you have a situation where the quantities
+are large and the variety of the product is
+
+
+58
+0:8:2,79 --> 0:8:10,979
+relatively low, we come to a domain that is
+naturally suited for a flow shop or in assembly
+
+
+59
+0:8:10,979 --> 0:8:18,12
+line or in mass production in that sense where
+we are basically performing the same set of
+
+
+60
+0:8:18,12 --> 0:8:28,78
+operations repetitively without much change.
+So in such a case you tend to use a layout
+
+
+61
+0:8:28,78 --> 0:8:34,39
+which is generally called the product layout
+or we will see how assemble lines are designed
+
+
+62
+0:8:34,39 --> 0:8:38,449
+for this. So I think this point needs to be
+kept in mind and depending upon the natural
+
+
+63
+0:8:38,449 --> 0:8:46,57
+requirements of variety and quantity you choose
+the type of layout and it could be a process
+
+
+64
+0:8:46,57 --> 0:8:57,74
+layout or it could be a product layout as
+things are there. We are all familiar with
+
+
+65
+0:8:57,74 --> 0:9:4,48
+the concept of mass manufacture, these things
+and mass production. However there are a couple
+
+
+66
+0:9:4,48 --> 0:9:12,99
+of ideas in mass production or mass manufacture
+which are worthy of note. So we will talk
+
+
+67
+0:9:12,99 --> 0:9:23,11
+about some of the key ideas which led to mass
+manufacture as a viable entity. You probably
+
+
+68
+0:9:23,11 --> 0:9:30,509
+know that the first assembly line was set
+up be Henry ford for making cars in the United
+
+
+69
+0:9:30,509 --> 0:9:32,499
+States.
+
+
+70
+0:9:32,499 --> 0:9:38,759
+But this could not have been possible unless
+you have number one a logical breakdown of
+
+
+71
+0:9:38,759 --> 0:9:46,949
+work which means the entire task is to be
+performed is broken down into smaller and
+
+
+72
+0:9:46,949 --> 0:9:54,449
+smaller tasks and some group of tasks are
+assigned to one particular individual or a
+
+
+73
+0:9:54,449 --> 0:10:6,29
+machine. This breakdown of tasks into smaller
+task helps in the division of labor to a very
+
+
+74
+0:10:6,29 --> 0:10:16,17
+large extent. As a consequence of that suppose
+you could know what is the basic advantage
+
+
+75
+0:10:16,17 --> 0:10:25,47
+of the division of labor rather than one person
+doing all the jobs involved in an assembly,
+
+
+76
+0:10:25,47 --> 0:10:31,9
+if there are ten people doing fractions of
+those jobs, what is the specific advantage
+
+
+77
+0:10:31,9 --> 0:10:39,49
+that you get by engaging a large number of
+people? That is one thing you get. Specialization
+
+
+78
+0:10:39,49 --> 0:10:45,61
+of labor that means individual people will
+now be focusing on individual tasks and as
+
+
+79
+0:10:45,61 --> 0:10:52,399
+a consequence they could become more and more
+skilled and learning times will tend to draw
+
+
+80
+0:10:52,399 --> 0:10:59,91
+depending on the operation time. The real
+advantage of the concept of division of labor
+
+
+81
+0:10:59,91 --> 0:11:7,79
+depends on what the assembly line is based.
+What is that specific concept?
+
+
+82
+0:11:7,79 --> 0:11:16,759
+The major advantage of the division of labor
+is the fact that it is much more economical
+
+
+83
+0:11:16,759 --> 0:11:23,3
+to produce parts when different people do
+the jobs. Why is this so? It is because different
+
+
+84
+0:11:23,3 --> 0:11:28,759
+tasks involve different degrees of skill.
+So what could happen is that there could be
+
+
+85
+0:11:28,759 --> 0:11:35,389
+many tasks that can be performed by an unskilled
+operator. Other tasks requires skilled operators
+
+
+86
+0:11:35,389 --> 0:11:41,29
+and you can buy along skilled operator at
+a much cheaper rate as compared to a skilled
+
+
+87
+0:11:41,29 --> 0:11:45,519
+operator for whom you will have to pay that
+much. However if you have one skilled operator
+
+
+88
+0:11:45,519 --> 0:11:51,91
+doing the whole job then even for the unskilled
+job which is done you are actually paying
+
+
+89
+0:11:51,91 --> 0:12:1,29
+in at a higher rate. That is what it is. So
+you are really underutilizing these capabilities.
+
+
+90
+0:12:1,29 --> 0:12:7,54
+If you are employing only one person for doing
+all the jobs, this particular fact is in fact
+
+
+91
+0:12:7,54 --> 0:12:13,929
+responsible for much of the economic advantage
+that you get through the division of layout.
+
+
+92
+0:12:13,929 --> 0:12:20,22
+Apart from this of course there are other
+factors like development of a skill and these
+
+
+93
+0:12:20,22 --> 0:12:30,119
+kinds of things. But I think this must not
+pay last site off. The second underlying idea
+
+
+94
+0:12:30,119 --> 0:12:38,23
+in mass manufacture is that it is possible
+to divide the work into workstations. What
+
+
+95
+0:12:38,23 --> 0:12:44,869
+is the work station? Work station will be
+a set of tasks; you have now broken down the
+
+
+96
+0:12:44,869 --> 0:12:51,799
+original work into smaller tasks. Some of
+the tasks are grouped together and assigned
+
+
+97
+0:12:51,799 --> 0:12:57,869
+to one particular work station. So at one
+particular work station maybe the operator
+
+
+98
+0:12:57,869 --> 0:13:5,379
+will take part and will be inspected. It will
+be a fixed up component on it and then clean
+
+
+99
+0:13:5,379 --> 0:13:11,299
+it and compressed and send it to the next
+operation. So here we performed a number of
+
+
+100
+0:13:11,299 --> 0:13:16,779
+different tasks. So this grouping of what
+task set to be performed by the operator defines
+
+
+101
+0:13:16,779 --> 0:13:26,139
+the content of workstation. Basically Adam
+Smith was responsible for the basic idea of
+
+
+102
+0:13:26,139 --> 0:13:34,809
+the division of labor. He wrote a book called
+the wealth of nations in 1776 which was basically
+
+
+103
+0:13:34,809 --> 0:13:40,739
+concerned with the advantages of the division
+of labor. Henry Ford was credited with the
+
+
+104
+0:13:40,739 --> 0:13:48,769
+first person who actually put this ideas together
+and develop the first circular and of course
+
+
+105
+0:13:48,769 --> 0:13:53,829
+assembly lines could not have been possible
+but for this very important contribution by
+
+
+106
+0:13:53,829 --> 0:14:8,559
+E Whitney. E Whitney is the person who actually
+talked about the concept of tolerances and
+
+
+107
+0:14:8,559 --> 0:14:13,59
+fits in meeting parts.
+
+
+108
+0:14:13,59 --> 0:14:20,279
+So he in fact showed that if you maintain
+the tolerances with the certain range you
+
+
+109
+0:14:20,279 --> 0:14:26,639
+could have parts which are interchangeable
+and replaceable. This is something very fundamental
+
+
+110
+0:14:26,639 --> 0:14:33,48
+to the assembly language. For instance if
+you look at the assembly of let us say Maruti
+
+
+111
+0:14:33,48 --> 0:14:43,79
+cars, the person has to fit the four tyres
+on to the on the wheels of this particular
+
+
+112
+0:14:43,79 --> 0:14:50,149
+car. He can pick up one particular wheel,
+put it on, put the second wheel, put it on
+
+
+113
+0:14:50,149 --> 0:14:54,199
+third wheel, and put it on. We can take any
+one of the wheels from the bilor wheels which
+
+
+114
+0:14:54,199 --> 0:14:58,989
+are lying within. Why is this possible? Because
+of the processes standardization that has
+
+
+115
+0:14:58,989 --> 0:15:6,91
+taken place which means essentially the dimensions
+confirmed to a certain range. Now in fact
+
+
+116
+0:15:6,91 --> 0:15:13,739
+in all assembly lines this happens. The automobiles
+are being assembled. We will pick up any carburetor
+
+
+117
+0:15:13,739 --> 0:15:19,829
+and fit up the carburetor of the car and followed
+by fitting up the next carburetor and so on.
+
+
+118
+0:15:19,829 --> 0:15:24,92
+So it does not really make a difference which
+carburetor was fitted on to the whole thing,
+
+
+119
+0:15:24,92 --> 0:15:31,489
+whereas this kind of thing could not be possible
+if standardization was not there.
+
+
+120
+0:15:31,489 --> 0:15:37,9
+You know jocularly we can say you are all
+seen in the Mahabharata and you know during
+
+
+121
+0:15:37,9 --> 0:15:47,749
+the war the chariot of particular prince was
+broken. The edges couldn’t replace the wheel
+
+
+122
+0:15:47,749 --> 0:15:54,499
+by any standard wheel. It has to go to a specific
+carpenter. We have to make wheels specifically
+
+
+123
+0:15:54,499 --> 0:16:5,839
+designed for that and then put it on. This
+is because that, it was not a standardized
+
+
+124
+0:16:5,839 --> 0:16:10,22
+kind of operation, each thing was there. So
+unless standardization is done you will not
+
+
+125
+0:16:10,22 --> 0:16:16,47
+be able to go for this assembly. So these
+are three fundamental concepts which are at
+
+
+126
+0:16:16,47 --> 0:16:26,72
+the back of mass manufacture. What is an assembly
+line? Assembly line is actually a very sequential
+
+
+127
+0:16:26,72 --> 0:16:33,54
+progression of the input material that comes
+with one particular point and one edge. Then
+
+
+128
+0:16:33,54 --> 0:16:40,48
+it goes to the first workstation. This person
+it could be a person, it could be a machine,
+
+
+129
+0:16:40,48 --> 0:16:46,519
+anything. This workstation performs certain
+operation on it. Sense it to the next operator
+
+
+130
+0:16:46,519 --> 0:16:51,91
+who performs those operations which are required
+and so on. So at the end of the whole thing,
+
+
+131
+0:16:51,91 --> 0:16:58,799
+the final assembled product comes out of the
+line. What are the specific features you see
+
+
+132
+0:16:58,799 --> 0:17:5,97
+in the assembly line? I think one of the immediate
+things which come to mind is that this production
+
+
+133
+0:17:5,97 --> 0:17:8,23
+is going to be much faster.
+
+
+134
+0:17:8,23 --> 0:17:14,819
+As compared to a process layout, why not,
+because these machines are more official.
+
+
+135
+0:17:14,819 --> 0:17:19,25
+The same machines could as well be used in
+the process layout. So the total processing
+
+
+136
+0:17:19,25 --> 0:17:26,98
+time for producing a part could be the same.
+The only difference comes because in a process
+
+
+137
+0:17:26,98 --> 0:17:34,82
+layout it has to go from one department to
+another department. So there are waiting times
+
+
+138
+0:17:34,82 --> 0:17:40,99
+then there is cost of transfer and then it
+is waiting at the new workstation and then
+
+
+139
+0:17:40,99 --> 0:17:43,76
+so on.
+Once after the pieces finish, it has to gain
+
+
+140
+0:17:43,76 --> 0:17:51,78
+rate of the department. So all these loading,
+waiting, traveling is involved in the process
+
+
+141
+0:17:51,78 --> 0:17:58,69
+layout. But here the part is some operation
+is performed in this part, immediately it
+
+
+142
+0:17:58,69 --> 0:18:3,559
+goes to the next machine which is waiting
+for the path with open arms. It welcomes to
+
+
+143
+0:18:3,559 --> 0:18:10,59
+the part and starts performing the operation.
+So the element of material handling time involved
+
+
+144
+0:18:10,59 --> 0:18:16,96
+has considerably reduced this system. That
+is the reason why these systems are much more
+
+
+145
+0:18:16,96 --> 0:18:25,26
+efficient in terms of production time. This
+is what it is. Here as some of the advantages
+
+
+146
+0:18:25,26 --> 0:18:31,62
+of flow line production system which we are
+talking about today. The first advantage is
+
+
+147
+0:18:31,62 --> 0:18:35,42
+the smooth flow of material from one work
+station to the next.
+
+
+148
+0:18:35,42 --> 0:18:44,32
+I just like to point out that this flow need
+not only be linear.
+
+
+149
+0:18:44,32 --> 0:18:48,93
+You could have material flowing like this
+and then coming back like this and then going
+
+
+150
+0:18:48,93 --> 0:18:53,66
+in this direction and then coming here. So
+it is like a serpentine flow
+
+
+151
+0:18:53,66 --> 0:18:58,94
+especially when there are constraints on space
+you will find that this kind of flow takes
+
+
+152
+0:18:58,94 --> 0:19:6,34
+place. If you see for instance any television
+assembly unit probably go to LG or some other
+
+
+153
+0:19:6,34 --> 0:19:11,49
+place, you will find that the operators are
+set like this and then set like this and then
+
+
+154
+0:19:11,49 --> 0:19:16,28
+set like this. So they accommodate many more
+people and this is also an assembly line.
+
+
+155
+0:19:16,28 --> 0:19:22,18
+Moreover the flow could be a straight line.
+It could be U shape flow, it could be this
+
+
+156
+0:19:22,18 --> 0:19:27,87
+kind of a flow or it could be even be circular
+flow. The idea is that depending upon the
+
+
+157
+0:19:27,87 --> 0:19:32,9
+space but the crucial thing is that smooth
+flow of material from one workstation to the
+
+
+158
+0:19:32,9 --> 0:19:42,95
+next takes place. So this is one of the features.
+Since work is fed from one station to the
+
+
+159
+0:19:42,95 --> 0:19:50,97
+next small in process inventories result.
+This is another major advantage because directly
+
+
+160
+0:19:50,97 --> 0:19:56,98
+the piece is going from one workstation to
+the other. So there is a much need for having
+
+
+161
+0:19:56,98 --> 0:19:59,85
+in process inventories between the two stations.
+
+
+162
+0:19:59,85 --> 0:20:4,33
+Though of course there could be some times
+some inventories between the stations in the
+
+
+163
+0:20:4,33 --> 0:20:11,68
+form of buffer stops for some reasons. The
+total production time per unit is quite short
+
+
+164
+0:20:11,68 --> 0:20:19,56
+for reason that we just mentioned. There is
+reduced material handling, little skill required
+
+
+165
+0:20:19,56 --> 0:20:29,95
+by the operators. Hence training is simple
+short and inexpensive. Why because the operator
+
+
+166
+0:20:29,95 --> 0:20:37,7
+is doing very simple kind of things. This
+job might be to pick up the piece from here,
+
+
+167
+0:20:37,7 --> 0:20:44,88
+operate a foot pedal where it is held and
+then take the compressed here. Then probably
+
+
+168
+0:20:44,88 --> 0:20:49,64
+release it and send it the next operation.
+So he has to do a couple of things which can
+
+
+169
+0:20:49,64 --> 0:20:57,47
+probably be landed in half a day. So training
+is quite simple and inexpensive unlike the
+
+
+170
+0:20:57,47 --> 0:21:4,5
+training for a process layout. In a process
+layout you might have a lathe operator. Lathe
+
+
+171
+0:21:4,5 --> 0:21:8,87
+operator must have proper training. You should
+be able to read the vernier calipers. You
+
+
+172
+0:21:8,87 --> 0:21:15,71
+should know how to operate a lathe. You should
+be at least an ITI trained person and so on.
+
+
+173
+0:21:15,71 --> 0:21:22,45
+Greater problems are there. In the product
+layout production planning and control systems
+
+
+174
+0:21:22,45 --> 0:21:32,12
+are simple. Less space is occupied by work
+in transit for temporary storage, obviously
+
+
+175
+0:21:32,12 --> 0:21:39,7
+because we have less. So transit storage so
+that kind of space is not really used to appear.
+
+
+176
+0:21:39,7 --> 0:21:45,57
+Whereas if you happen to work flow process
+layout, work through for instance what you
+
+
+177
+0:21:45,57 --> 0:21:51,51
+find is typically pasting are storm all over
+the place. So you probably might not have
+
+
+178
+0:21:51,51 --> 0:21:56,2
+space to work through the whole thing. You
+have to mind your step as you step from one
+
+
+179
+0:21:56,2 --> 0:22:1,76
+costing to the other and you know because
+of the storage, there is something like this.
+
+
+180
+0:22:1,76 --> 0:22:6,98
+It could not happen at least in a product
+layout. It could happen only at the end. The
+
+
+181
+0:22:6,98 --> 0:22:11,23
+process layout of course, you will have a
+where house. All the cars are stopped and
+
+
+182
+0:22:11,23 --> 0:22:16,18
+therefore that is a different thing.
+
+
+183
+0:22:16,18 --> 0:22:22,97
+Some of the disadvantages of flow line production
+are that a breakdown of one machine may lead
+
+
+184
+0:22:22,97 --> 0:22:29,27
+to a complete stoppage of the following machines.
+Hence maintenance is a challenging job here.
+
+
+185
+0:22:29,27 --> 0:22:37,36
+This is a very significant thing because if
+you happen to be in charge of an assembly
+
+
+186
+0:22:37,36 --> 0:22:43,2
+line, you got to make sure that the line is
+running all the time which means that is,
+
+
+187
+0:22:43,2 --> 0:22:48,87
+if there is a request, if there is a breakdown
+then maintenance staff has to be on the job
+
+
+188
+0:22:48,87 --> 0:22:54,84
+constantly doing this job. This is relatively
+in flexible with regard to changes in product
+
+
+189
+0:22:54,84 --> 0:23:4,91
+design. We cannot keep on changing the product
+design here. The pace of the line is determined
+
+
+190
+0:23:4,91 --> 0:23:12,32
+by the bottle neck machine line. Balancing
+is thus a major problem in design. Obviously
+
+
+191
+0:23:12,32 --> 0:23:22,1
+different operations workstations take different
+amounts of time to process the part. The overall
+
+
+192
+0:23:22,1 --> 0:23:27,93
+phase of the line will be determined by the
+source machine. Therefore you would like to
+
+
+193
+0:23:27,93 --> 0:23:38,0
+have as far as possible fairly constant times
+for all the sections, all the workstations.
+
+
+194
+0:23:38,0 --> 0:23:45,96
+This may not be possible for various reasons
+but at least that is the intention.
+
+
+195
+0:23:45,96 --> 0:23:51,76
+Supervision is general rather than specialized
+as the supervision of a line is looking after
+
+
+196
+0:23:51,76 --> 0:24:0,21
+diverse machines on a line. Compare this with
+supervisor for a process layout. If you have
+
+
+197
+0:24:0,21 --> 0:24:5,51
+a supervisor, let us say in the lathe section
+that person could probably have spent ten
+
+
+198
+0:24:5,51 --> 0:24:10,21
+years in the lathe section and could be familiar
+with all the machines. We can probably open
+
+
+199
+0:24:10,21 --> 0:24:14,93
+out each machine and assemble it, that kind
+of thing because all are lathes and he has
+
+
+200
+0:24:14,93 --> 0:24:20,8
+considerable experience. But this could not
+happen because you have one lathe, one milling
+
+
+201
+0:24:20,8 --> 0:24:24,49
+machine, one some special kind of machine
+and so on. So all machines are distinct in
+
+
+202
+0:24:24,49 --> 0:24:30,94
+the line and you don’t expect any person
+to be specialized of all of them. Generally
+
+
+203
+0:24:30,94 --> 0:24:35,73
+high investments are required owing to the
+specialized nature of the machines and their
+
+
+204
+0:24:35,73 --> 0:24:47,89
+possible duplication in the line. So this
+is also possible here. Now having understood
+
+
+205
+0:24:47,89 --> 0:24:56,1
+the features of an assembly line, let us see
+for instance we want to go for mass production.
+
+
+206
+0:24:56,1 --> 0:25:4,33
+Indecently you must understand that this decision
+is primarily economic decision. So just for
+
+
+207
+0:25:4,33 --> 0:25:10,48
+the sake of argument you might say for instance,
+suppose we have three options, we can either
+
+
+208
+0:25:10,48 --> 0:25:15,62
+purchase the path that we are interested in
+making for ten rupees a piece and just keep
+
+
+209
+0:25:15,62 --> 0:25:24,41
+buying it that is it or we can invest 10,000
+rupees and set up some general purpose machines
+
+
+210
+0:25:24,41 --> 0:25:29,54
+are individual stations as the case maybe.
+Then we will be able to make a path on our
+
+
+211
+0:25:29,54 --> 0:25:35,16
+own for 5 rupees a piece and the total cost
+will then be the fixed cost and the variable
+
+
+212
+0:25:35,16 --> 0:25:40,6
+cost could be of this nature. You might say
+that I can spend and make a heavier investment
+
+
+213
+0:25:40,6 --> 0:25:44,88
+of 20,000 rupees or whatever it is it is.
+
+
+214
+0:25:44,88 --> 0:25:52,51
+Then maybe we can produce the part for 2 rupees
+50 paisa per piece and it will be like this.
+
+
+215
+0:25:52,51 --> 0:25:59,34
+Now through a simple break even and analysis,
+for instance you can find out these two quantities
+
+
+216
+0:25:59,34 --> 0:26:4,75
+quantity Q1 and quantity Q2 here. This is
+very simple for instance in this particular
+
+
+217
+0:26:4,75 --> 0:26:11,36
+case what could be the break even quantity
+here for this particular situation?
+
+
+218
+0:26:11,36 --> 0:26:18,97
+I mean what we are saying is what could be
+the break even quantity here this is like
+
+
+219
+0:26:18,97 --> 0:26:32,99
+trying to say 10X is = 2000. So what we can
+therefore say is that we can directly determine
+
+
+220
+0:26:32,99 --> 0:26:40,59
+this quantity. Let us call this quantity as
+Q1 and which is that is say 2000 here. Then
+
+
+221
+0:26:40,59 --> 0:26:44,87
+you find out the tradeoff between the other
+two options that is between the option of
+
+
+222
+0:26:44,87 --> 0:26:50,7
+buying at individual stations and the options
+of setting of a full assembly line. So what
+
+
+223
+0:26:50,7 --> 0:26:54,0
+could be this value 4000 mean?
+
+
+224
+0:26:54,0 --> 0:27:4,4
+This Q2 is 4000 of this simple analysis tells
+you something very interesting or it says
+
+
+225
+0:27:4,4 --> 0:27:13,35
+is that the least cost option is the one which
+is shown here. Therefore if you have demand
+
+
+226
+0:27:13,35 --> 0:27:19,87
+that happens in the range of up to 2000 rupees,
+it is better to be just by the part from outside,
+
+
+227
+0:27:19,87 --> 0:27:25,8
+that is the cheapest option here. If you happen
+to be in the rage of 2000, your demand happens
+
+
+228
+0:27:25,8 --> 0:27:30,57
+to be in the range of 2000 – 4000. The best
+thing could be to goal for this intermediate
+
+
+229
+0:27:30,57 --> 0:27:35,35
+option because it will be cheaper in this
+case and it will be worth wise to set up an
+
+
+230
+0:27:35,35 --> 0:27:43,21
+assembly line only if your quantity of production
+demand happens to exceed 4000 rupees that
+
+
+231
+0:27:43,21 --> 0:27:51,72
+is all. So you can get quantitative answers
+to the questions of finding out what could
+
+
+232
+0:27:51,72 --> 0:27:58,2
+be the best thing to do under various circumstances.
+So in this particular situation we could go
+
+
+233
+0:27:58,2 --> 0:28:4,28
+in for assembly line only if it is 4000. What
+might happen in real life is suppose your
+
+
+234
+0:28:4,28 --> 0:28:12,87
+current demand is 3500 somewhere here whatever
+it is, and then obviously you can think of
+
+
+235
+0:28:12,87 --> 0:28:19,1
+the feature. You are expecting a growth in
+the next year; it might be worth while to
+
+
+236
+0:28:19,1 --> 0:28:23,22
+set up an assembly line considering the fact
+that you are going to cross this barrier of
+
+
+237
+0:28:23,22 --> 0:28:31,559
+4000 in the next year and so on. So these
+kinds of decisions actually have to be taken
+
+
+238
+0:28:31,559 --> 0:28:38,79
+before you make this decision of trying to
+find out whether you should go for mass production
+
+
+239
+0:28:38,79 --> 0:28:46,48
+and when you should go for mass production.
+So it is essential. Let us now talk about
+
+
+240
+0:28:46,48 --> 0:28:51,33
+the design of the assembly line.
+
+
+241
+0:28:51,33 --> 0:28:55,5
+What is the objective in the design of an
+assembly line? It is basically to minimize
+
+
+242
+0:28:55,5 --> 0:29:4,49
+the total idle time or the number of workstations
+for a given assembly lines speed. The basic
+
+
+243
+0:29:4,49 --> 0:29:10,12
+information that we have at disposing such
+a situation is that we are dividing the work
+
+
+244
+0:29:10,12 --> 0:29:16,3
+into parts and this division is known as the
+precedence diagram. So the precedence diagram
+
+
+245
+0:29:16,3 --> 0:29:25,75
+is basically projection of what other parts
+have to be, the components of the parts that
+
+
+246
+0:29:25,75 --> 0:29:35,99
+have to be done in overall products and in
+what particular sequence. Once we have done
+
+
+247
+0:29:35,99 --> 0:29:43,95
+this development of tasks, the basic design
+of the assembly line is actually done by grouping
+
+
+248
+0:29:43,95 --> 0:29:51,15
+the tasks into work stations. Before we do
+this exercise we have to know what the feasible
+
+
+249
+0:29:51,15 --> 0:29:52,8
+range of cycle times is.
+
+
+250
+0:29:52,8 --> 0:29:58,22
+We will see the feasible range of cycle times
+through an example. It can be determined very
+
+
+251
+0:29:58,22 --> 0:30:7,21
+easily as something which lies between the
+maximum time for an operation and some of
+
+
+252
+0:30:7,21 --> 0:30:13,85
+the times for all the operations. Then there
+are many algorithms available for the line
+
+
+253
+0:30:13,85 --> 0:30:19,6
+balancing process. We have a procedure due
+to Helgeson and Birnie which is quite commonly
+
+
+254
+0:30:19,6 --> 0:30:25,76
+known as the rank positional weight method.
+We also have a procedure due to Kilbridge
+
+
+255
+0:30:25,76 --> 0:30:32,39
+and Wester which is based on the number of
+predecessors that means priorities are decided
+
+
+256
+0:30:32,39 --> 0:30:39,21
+based on the number of predecessors. There
+is a procedure due to Arcus called COMSOAL
+
+
+257
+0:30:39,21 --> 0:30:46,65
+which is a computerized method for sequencing
+operations on assembly lines. The basic philosophy
+
+
+258
+0:30:46,65 --> 0:30:52,47
+in this procedure is the generation of alternatives
+by simulation and once you generate a large
+
+
+259
+0:30:52,47 --> 0:30:57,6
+number of alternatives, you evaluate them
+and take the one which have you think is best.
+
+
+260
+0:30:57,6 --> 0:31:3,71
+Once we have generated a large number of options,
+the next stage is choosing the best design.
+
+
+261
+0:31:3,71 --> 0:31:11,59
+Choice of the best design obviously depends
+upon things like balance delay and ideal time
+
+
+262
+0:31:11,59 --> 0:31:22,59
+for the operation should be minimum. So this
+is a broad set of picture of assembly line
+
+
+263
+0:31:22,59 --> 0:31:31,309
+design procedure. Let us now take an example.
+What we have here is a precedence diagram
+
+
+264
+0:31:31,309 --> 0:31:38,54
+and the precedence diagram shows that 1, 2,
+3 and so on up to 12 are the individual operations
+
+
+265
+0:31:38,54 --> 0:31:39,17
+or tasks
+
+
+266
+0:31:39,17 --> 0:31:45,33
+We are assuming these tasks cannot be further
+divided. This could be like drilling a hole.
+
+
+267
+0:31:45,33 --> 0:31:51,97
+So obviously drilling a hole cannot be divided
+into drilling one quarter of the hole and
+
+
+268
+0:31:51,97 --> 0:31:56,72
+then draw in the next quarter of the hole.
+So this is that one particular operation which
+
+
+269
+0:31:56,72 --> 0:32:3,48
+is indivisible. So we have divided the entire
+tasks in to the twelve operations and this
+
+
+270
+0:32:3,48 --> 0:32:9,29
+network diagram shows the precedence requirements
+that are operation one has to be performed
+
+
+271
+0:32:9,29 --> 0:32:16,25
+first. Then two and four can be performed,
+similarly six can be performed only when three
+
+
+272
+0:32:16,25 --> 0:32:23,55
+and five are over in that sense. The figures
+here refer to the duration of each task. So
+
+
+273
+0:32:23,55 --> 0:32:30,33
+the duration of the tasks could be determined
+by a time study or whatever other procedures
+
+
+274
+0:32:30,33 --> 0:32:37,7
+you have. You know the time required to do
+this individual task. From this we would like
+
+
+275
+0:32:37,7 --> 0:32:43,15
+to possibly design an assembly line. Let us
+see how we can design an assembly line manually
+
+
+276
+0:32:43,15 --> 0:32:51,24
+for this operation and then we will compare
+it by using the rank positional weight technique.
+
+
+277
+0:32:51,24 --> 0:32:56,87
+Now clearly in this particular case we are
+going to group these operations. So one thing
+
+
+278
+0:32:56,87 --> 0:33:3,95
+is clear, the maximum time that is required
+for any operation is seven and the minimum
+
+
+279
+0:33:3,95 --> 0:33:8,55
+what is the total time required for all the
+operations could be some of the times of all
+
+
+280
+0:33:8,55 --> 0:33:14,88
+the operations which is fifty. This clearly
+means that any assembly line for this precedence
+
+
+281
+0:33:14,88 --> 0:33:23,58
+diagram will have a cycle time which will
+range between seven and fifty. This defines
+
+
+282
+0:33:23,58 --> 0:33:34,32
+the limit on the cycle time for any design.
+In this particular example, the number of
+
+
+283
+0:33:34,32 --> 0:33:42,59
+work elements is 12, the cycle time will live
+between T max and summation Ti is = 1 to N
+
+
+284
+0:33:42,59 --> 0:33:44,4
+so seven is the bottle neck operation.
+
+
+285
+0:33:44,4 --> 0:33:48,97
+The operation which takes the longest time
+in the cycle time will therefore live between
+
+
+286
+0:33:48,97 --> 0:34:2,57
+fifty. Now you talk about the desired cycle
+time. A desired cycle time must be somewhere
+
+
+287
+0:34:2,57 --> 0:34:8,69
+between these two operations between these
+two limits. So let us say about desired cycle
+
+
+288
+0:34:8,69 --> 0:34:15,919
+time is ten. How does the desired cycle time
+come about? It is based on the market demand.
+
+
+289
+0:34:15,919 --> 0:34:21,95
+It depends upon how many you want to produce
+per day so cycle time is determined accordingly.
+
+
+290
+0:34:21,95 --> 0:34:26,52
+This is something the marketing people would
+be actually telling you if there is a demand
+
+
+291
+0:34:26,52 --> 0:34:31,28
+for so many cars per day therefore your cycle
+time should be search. So we say that the
+
+
+292
+0:34:31,28 --> 0:34:38,609
+desired cycle time is ten and we have this,
+so this cycle time should be within this range.
+
+
+293
+0:34:38,609 --> 0:34:47,839
+Obviously if the cycle time happens to be
+more than fifty, what is going to be the implication?
+
+
+294
+0:34:47,839 --> 0:34:56,579
+The implication is that you don’t require
+an assembly line. Your cycle time happens
+
+
+295
+0:34:56,579 --> 0:35:5,14
+to be more than fifty itreally means that
+you require a piece that is 60 minutes. What
+
+
+296
+0:35:5,14 --> 0:35:11,38
+you can do is you can gain one percent, he
+will do all the tasks in 50 minutes and still
+
+
+297
+0:35:11,38 --> 0:35:16,39
+have ten minutes free with him. You do not
+really heed to set up an assembly line if
+
+
+298
+0:35:16,39 --> 0:35:22,89
+you are in this particular range. You can
+use that person for ten minutes and you can
+
+
+299
+0:35:22,89 --> 0:35:30,71
+do something else. You don’t need here and
+on the other hand if your cycle time is less
+
+
+300
+0:35:30,71 --> 0:35:36,989
+than seven what are you going to do? Suppose
+my demand is search there I need a cycle time
+
+
+301
+0:35:36,989 --> 0:35:46,109
+of five or three. On this side you need multiple
+lines on this side, you have one line and
+
+
+302
+0:35:46,109 --> 0:35:51,98
+beyond this you don’t need any assembly
+line. So this gives your clear idea as to
+
+
+303
+0:35:51,98 --> 0:35:58,63
+when you need and how many lines.
+So let us take for this example a situation
+
+
+304
+0:35:58,63 --> 0:36:3,599
+that the desired cycle time is ten. This is
+now feasible and it should be between seven
+
+
+305
+0:36:3,599 --> 0:36:11,769
+and fifty. Let us now try to find out or design
+the line for us.
+
+
+306
+0:36:11,769 --> 0:36:21,46
+What we are basically trying to do is our
+objective is to group the work elements into
+
+
+307
+0:36:21,46 --> 0:36:28,509
+stations so that no stations time exceeds
+ten units. That is what we trying to say because
+
+
+308
+0:36:28,509 --> 0:36:33,7
+if it exceeds ten units, our cycle time will
+be more than ten and we are designing the
+
+
+309
+0:36:33,7 --> 0:36:42,93
+line for a cycle time of ten units. How do
+we attain this? We could do it by inspection
+
+
+310
+0:36:42,93 --> 0:36:52,95
+and no algorithm. Just look at the precedence
+diagram and this is the feasible solution
+
+
+311
+0:36:52,95 --> 0:37:1,98
+what we can say is I can club these two operations
+one and two and this takes five minutes, five
+
+
+312
+0:37:1,98 --> 0:37:7,9
+seconds or minutes whatever with the unit
+of time five + three, so the workstation one
+
+
+313
+0:37:7,9 --> 0:37:10,19
+will take eight units of time.
+
+
+314
+0:37:10,19 --> 0:37:18,869
+I should not exceed ten. This is now three
+and six, so this takes a time of nine. This
+
+
+315
+0:37:18,869 --> 0:37:26,539
+one takes four + five which is nine. This
+takes two + four which is six, this takes
+
+
+316
+0:37:26,539 --> 0:37:36,21
+six + four which is ten and this takes seven
++ one which is eight. What we are able to
+
+
+317
+0:37:36,21 --> 0:37:45,9
+do is by simply grouping parts, now what is
+the objective in grouping? In grouping, some
+
+
+318
+0:37:45,9 --> 0:37:53,94
+of the time must not exceed ten. So I have
+six workstations. What is the workstations
+
+
+319
+0:37:53,94 --> 0:37:58,98
+I have exactly defined? What is to be done
+at this workstation? I t means the persons
+
+
+320
+0:37:58,98 --> 0:38:4,529
+going to sit at workstation one will first
+do a operation one and take five minutes and
+
+
+321
+0:38:4,529 --> 0:38:9,95
+then do operation four which will take three
+minutes thereby taking a total of eight minutes
+
+
+322
+0:38:9,95 --> 0:38:16,109
+here and so on for the next operator in the
+next operand. So I have a design of an assembly
+
+
+323
+0:38:16,109 --> 0:38:23,269
+line which as six operators and we exactly
+know what each operator has to do. This is
+
+
+324
+0:38:23,269 --> 0:38:33,14
+basically the idea of an assembly line which
+we just date by simple common sense logic
+
+
+325
+0:38:33,14 --> 0:38:38,63
+which we can do this one. However to evaluate
+how good this design is you could need some
+
+
+326
+0:38:38,63 --> 0:39:3,739
+performance measures. You can have for instance
+if this is the bottle neck operation you can
+
+
+327
+0:39:3,739 --> 0:39:9,839
+have two machines here in parallel and each
+machine will have a in mean effective time
+
+
+328
+0:39:9,839 --> 0:39:17,2
+of only 3.5,in that point of view and then
+your bottle neck will be maybe six this will
+
+
+329
+0:39:17,2 --> 0:39:26,22
+be six which will be the bottle six as you
+can work that way also. Are you can look for
+
+
+330
+0:39:26,22 --> 0:39:32,489
+a superior machine which instead of taking
+seven minutes we will take etcetera and whatever
+
+
+331
+0:39:32,489 --> 0:39:40,59
+is your requirement. So for this particular
+example that we just worked out we can calculate
+
+
+332
+0:39:40,59 --> 0:39:45,89
+something called the line efficiency. What
+is the efficiency of this line and this is
+
+
+333
+0:39:45,89 --> 0:39:50,9
+nothing but the summation of all the station
+times
+
+
+334
+0:39:50,9 --> 0:39:55,239
+Summation of the station times will be nothing
+but the total time for all the jobs so you
+
+
+335
+0:39:55,239 --> 0:40:1,279
+have fifty divided by K. K is the number of
+workstations the number of workstations that
+
+
+336
+0:40:1,279 --> 0:40:7,119
+we have got a six into the cycle time of the
+line is ten. Notice that the cycle time need
+
+
+337
+0:40:7,119 --> 0:40:13,45
+not be always ten because when you are doing
+this grouping you are constrained by saying
+
+
+338
+0:40:13,45 --> 0:40:18,7
+that it should be less than ten. So just we
+have got lesser than here. Suppose this value
+
+
+339
+0:40:18,7 --> 0:40:25,41
+and then only eight then our cycle time could
+have been nine although we started to design
+
+
+340
+0:40:25,41 --> 0:40:34,88
+a line for a cycle time of ten. So we have
+here ten and then of course the line efficiency
+
+
+341
+0:40:34,88 --> 0:40:41,69
+works out to 83.3 percent. One minus the line
+efficiency is called balance delay. It is
+
+
+342
+0:40:41,69 --> 0:40:46,569
+a nature of the inefficiency of the operation
+really. So it is a nature of the idleness
+
+
+343
+0:40:46,569 --> 0:40:54,69
+of the different stations. When we talk about
+idleness, what you see out of a total of ten
+
+
+344
+0:40:54,69 --> 0:40:59,13
+minutes, this value is idle for two minutes.
+This is idle for one minute, one minute, four
+
+
+345
+0:40:59,13 --> 0:41:6,43
+minutes. This is not idle at all and this
+is idle for two minutes. So we would like
+
+
+346
+0:41:6,43 --> 0:41:11,729
+this idle time to be as small as possible
+and ideal situation could be, the line is
+
+
+347
+0:41:11,729 --> 0:41:16,42
+perfectly balanced that everyone is doing
+the same amount of tasks. That is generally
+
+
+348
+0:41:16,42 --> 0:41:22,769
+not possible. Why? Because the times are integral
+number one and then you have a constraint
+
+
+349
+0:41:22,769 --> 0:41:26,69
+and precedence. We cannot group everything
+into everything else.
+
+
+350
+0:41:26,69 --> 0:41:31,849
+You are not way for instance raise that you
+can put something here and make it exactly
+
+
+351
+0:41:31,849 --> 0:41:36,14
+two hundred and fifty grams. It is not possible
+to do that because you are dealing with these
+
+
+352
+0:41:36,14 --> 0:41:44,259
+individual entities which have to be grouped
+together. So the balance delay is 16.7 percent
+
+
+353
+0:41:44,259 --> 0:41:50,65
+and the smoothness index for this is a is
+a term for an assembly line which is nothing
+
+
+354
+0:41:50,65 --> 0:41:57,19
+but the this is the idle time ST max, maximum
+station time that mean that is the cycle time
+
+
+355
+0:41:57,19 --> 0:42:3,369
+minus Sti, which is the station time of the
+ith operation and whole square. So it will
+
+
+356
+0:42:3,369 --> 0:42:9,999
+be for each operation. So what we have to
+look at is this example, idle time here is
+
+
+357
+0:42:9,999 --> 0:42:18,539
+two. So two square is four and here it is
+nine, so this idle is 14 + 1 + 1 and this
+
+
+358
+0:42:18,539 --> 0:42:25,249
+is sixteen because the idle time here is four.
+Four four sixteen no idle time here and then
+
+
+359
+0:42:25,249 --> 0:42:32,69
+four. So root of twenty six which is 5.09
+and closer to zero the better if a line is
+
+
+360
+0:42:32,69 --> 0:42:39,979
+perfectly balanced this smoothness index will
+be zero. So we try to minimize these smoothness
+
+
+361
+0:42:39,979 --> 0:42:45,95
+index so we have got measures of the efficiency
+of this design, you got a line which has an
+
+
+362
+0:42:45,95 --> 0:42:52,47
+efficiency of 83.3 percent. Balance delay
+of 60.7 percent and a smoothness index of
+
+
+363
+0:42:52,47 --> 0:43:3,64
+5.09, this is what we have. Now let us see
+how we can use one of the standard procedures
+
+
+364
+0:43:3,64 --> 0:43:11,2
+available. We will discuss the so called ranked
+positional weight method for developing the
+
+
+365
+0:43:11,2 --> 0:43:11,66
+line.
+
+
+366
+0:43:11,66 --> 0:43:19,479
+We will compare the design with the design
+that we had obtained by induction as it is
+
+
+367
+0:43:19,479 --> 0:43:25,999
+possible. So the positional weight of a work
+element is its own processing time plus the
+
+
+368
+0:43:25,999 --> 0:43:33,47
+processing time of all the following work
+elements. We define a positional weight for
+
+
+369
+0:43:33,47 --> 0:43:39,589
+each element in the precedence diagram by
+same, that this is the time of that operation
+
+
+370
+0:43:39,589 --> 0:43:46,13
+plus times of all operations which follow
+it. The basic idea could be that the total
+
+
+371
+0:43:46,13 --> 0:43:51,829
+positional weight will give you an idea, how
+much time it will take, at least to go to
+
+
+372
+0:43:51,829 --> 0:43:59,289
+the end from that operation that happens to
+be the idea. This is used subsequently in
+
+
+373
+0:43:59,289 --> 0:44:7,89
+defining your priority for assigning jobs
+to workstations that is the only thing. At
+
+
+374
+0:44:7,89 --> 0:44:14,819
+each workstation a list of an eligible job
+is prepared for the placement. In the rank
+
+
+375
+0:44:14,819 --> 0:44:20,19
+positional weight technique, the work element
+with the highest positional weight is selected
+
+
+376
+0:44:20,19 --> 0:44:24,569
+and that is why it is called ranked positional
+weight is selected and is assigned to the
+
+
+377
+0:44:24,569 --> 0:44:31,529
+current workstation.
+So that is the basic logic of the RPW technique.
+
+
+378
+0:44:31,529 --> 0:44:42,29
+Let us try to apply this technique to the
+example that we are considering earlier. What
+
+
+379
+0:44:42,29 --> 0:44:48,479
+you notice in this precedence diagram is the
+same precedence diagram that we have. The
+
+
+380
+0:44:48,479 --> 0:44:57,18
+times are shown on top of each operation but
+the figures are available in the squares at
+
+
+381
+0:44:57,18 --> 0:45:1,97
+the bottom or the positional weights. Let
+us look at them. You start calculating the
+
+
+382
+0:45:1,97 --> 0:45:8,66
+positional weight from the back. So what do
+you see is for operation number twelve the
+
+
+383
+0:45:8,66 --> 0:45:14,599
+positional weight is seven because this will
+take only seven units of time?
+
+
+384
+0:45:14,599 --> 0:45:20,759
+You come to eleven then from eleven, this
+is the operation and this is the following
+
+
+385
+0:45:20,759 --> 0:45:27,359
+operation for this. So seven plus four eleven
+will be the positional weights for this elements.
+
+
+386
+0:45:27,359 --> 0:45:32,749
+Similarly thirteen is the positional weight
+for this element which is six plus seven;
+
+
+387
+0:45:32,749 --> 0:45:37,109
+similarly for nine the positional weight will
+be what follows it which is seven plus one
+
+
+388
+0:45:37,109 --> 0:45:44,99
+which is eight. When you come to job number
+six for instance what happens is it is not
+
+
+389
+0:45:44,99 --> 0:45:49,59
+necessarily fifteen plus eight plus fifteen
+that will be the positional weight for this,
+
+
+390
+0:45:49,59 --> 0:45:56,239
+that the point that you have to get. It is
+all that these jobs are successors of this
+
+
+391
+0:45:56,239 --> 0:46:4,99
+job. So the time required two plus six plus
+seven plus one plus four plus four, the total
+
+
+392
+0:46:4,99 --> 0:46:8,63
+time required for all these jobs is twenty
+four if you add the five also
+
+
+393
+0:46:8,63 --> 0:46:14,589
+and therefore this becomes the positional
+weight for this particular job. For job number
+
+
+394
+0:46:14,589 --> 0:46:20,67
+three, the positional weight will be simply
+whatever follows this plus so twenty four
+
+
+395
+0:46:20,67 --> 0:46:24,839
+is the positional weight here twenty four
+plus four which is twenty eight. Similarly
+
+
+396
+0:46:24,839 --> 0:46:29,88
+here is going to be twenty four plus six which
+is thirty. Thirty plus three thirty three
+
+
+397
+0:46:29,88 --> 0:46:37,14
+thirty one twenty eight plus three is thirty
+one. When you come here obviously it is going
+
+
+398
+0:46:37,14 --> 0:46:41,39
+to be some of the all the jobs which come
+to plus five. So the total positional weight
+
+
+399
+0:46:41,39 --> 0:46:50,19
+is fifty here. So the numbers that we have
+computed here can be computed in one run starting
+
+
+400
+0:46:50,19 --> 0:46:55,289
+from the back and coming to the front and
+getting these particular numbers. Now these
+
+
+401
+0:46:55,289 --> 0:47:4,93
+numbers will define and will actually tell
+us how to determine then try how to go about
+
+
+402
+0:47:4,93 --> 0:47:8,41
+designing the assembly line.
+
+
+403
+0:47:8,41 --> 0:47:12,589
+See designing an assembly line is now based
+on these numbers and this is how we proceed.
+
+
+404
+0:47:12,589 --> 0:47:18,739
+For instance you start with a first basket
+which is the first workstation. You open the
+
+
+405
+0:47:18,739 --> 0:47:23,789
+first workstation and at the first workstation
+this is the only job which is eligible because
+
+
+406
+0:47:23,789 --> 0:47:29,819
+it has no precedence relationships. So one
+will be put there and the moment you put one,
+
+
+407
+0:47:29,819 --> 0:47:36,999
+we have consumed five units of time and two
+and four are again candidates for placement.
+
+
+408
+0:47:36,999 --> 0:47:42,9
+But out of two and four we will take four
+because it is a higher positional weight.
+
+
+409
+0:47:42,9 --> 0:47:47,7
+So we will put four here and once we put four
+here, one and four will consume a total time
+
+
+410
+0:47:47,7 --> 0:47:54,609
+of 8 and we can go up to a maximum time of
+ten. There is no other job available at this
+
+
+411
+0:47:54,609 --> 0:47:59,589
+junction which can be accommodated within
+this. So we close this particular workstation
+
+
+412
+0:47:59,589 --> 0:48:7,369
+with work time of 8 units and proceed to the
+next station.
+
+
+413
+0:48:7,369 --> 0:48:12,91
+When you proceed to the next station, this
+has been placed. There are two jobs completing
+
+
+414
+0:48:12,91 --> 0:48:19,18
+for placement in this particular work station.
+This 1, 2 and 5 and out of these, this one
+
+
+415
+0:48:19,18 --> 0:48:25,869
+has a higher positional weight so we take
+two and place it first. When you place two,
+
+
+416
+0:48:25,869 --> 0:48:32,69
+three can be placed too and five can be placed
+but out of the two this will get a priority.
+
+
+417
+0:48:32,69 --> 0:48:37,849
+So it can be accommodated because the total
+time is going to be only nine, so you can
+
+
+418
+0:48:37,849 --> 0:48:43,259
+put this. You keep proceeding in this particular
+fashion and you will keep on filling these
+
+
+419
+0:48:43,259 --> 0:48:49,749
+buckets. The movement you cannot enter anything
+more into this bucket you open the next bucket.
+
+
+420
+0:48:49,749 --> 0:48:53,63
+So we are now at the first workstation, the
+second one, the third one, the fourth one,
+
+
+421
+0:48:53,63 --> 0:48:59,94
+and fifth one and sixth one. So in this design
+two we have been able to determine the six
+
+
+422
+0:48:59,94 --> 0:49:6,45
+workstations and also the operations which
+are to be done at these individual work stations
+
+
+423
+0:49:6,45 --> 0:49:11,29
+and these are the cycle times. Since this
+has the highest cycle time which is ten that
+
+
+424
+0:49:11,29 --> 0:49:16,539
+means this particular line will now operate
+for a cycle time of ten, as we have decided
+
+
+425
+0:49:16,539 --> 0:49:18,71
+earlier.
+
+
+426
+0:49:18,71 --> 0:49:27,239
+So what we can do is we can look up and can
+try to evaluate this particular design. We
+
+
+427
+0:49:27,239 --> 0:49:34,16
+can see for instance that the evaluation of
+the design by the RPW method. Again the balanced
+
+
+428
+0:49:34,16 --> 0:49:40,479
+delay in the line efficiency of the same is
+because the balance delay and the line efficiency
+
+
+429
+0:49:40,479 --> 0:49:46,92
+are determined by the number of workstations.
+In this design also you have six workstations
+
+
+430
+0:49:46,92 --> 0:49:52,779
+in the previous design and you get six workstations.
+So practically what is the minimum number
+
+
+431
+0:49:52,779 --> 0:50:0,789
+of workstations? How will you calculate this?
+You have fifty which is your total work content
+
+
+432
+0:50:0,789 --> 0:50:6,99
+and your cycle time is ten, fifty by ten which
+five is.
+
+
+433
+0:50:6,99 --> 0:50:13,13
+Ideally you can work with the theoretical
+minimum number of workstations are five but
+
+
+434
+0:50:13,13 --> 0:50:21,329
+in the two procedures that you have just adopted,
+we could not we could have these individual
+
+
+435
+0:50:21,329 --> 0:50:29,65
+operations into five workstations. So the
+balance delay is 16.7 percent. The line efficiency
+
+
+436
+0:50:29,65 --> 0:50:36,79
+is 83.3 percent and this particular case.
+However if you look at the smoothness index,
+
+
+437
+0:50:36,79 --> 0:50:43,769
+there is an improvement in the smoothness.
+The smoothness index is found for this design.
+
+
+438
+0:50:43,769 --> 0:50:50,309
+Look at the ideal times here, 2 2 square which
+is 4 1 square which is 1 1 square which is
+
+
+439
+0:50:50,309 --> 0:51:1,79
+1 3 square which is 9 0 and 3 and 3 squares
+which is 9. The square root of this is 4.9
+
+
+440
+0:51:1,79 --> 0:51:6,39
+is an improvement on the earlier smoothness
+index that we have. It means this is slightly
+
+
+441
+0:51:6,39 --> 0:51:16,89
+better balanced line as compare to the previous
+one. So we can therefore look at the precedence
+
+
+442
+0:51:16,89 --> 0:51:23,989
+diagram and from the precedence diagram depending
+upon the RPWs, depending upon the positional
+
+
+443
+0:51:23,989 --> 0:51:33,529
+weights, we can determine how to fill up these
+individual workstations and come up with design.
+
+
+444
+0:51:33,529 --> 0:51:38,99
+Subsequently we can evaluate the design in
+terms of the three major parameters, balance,
+
+
+445
+0:51:38,99 --> 0:51:47,719
+delay, line efficiency and the smoothness
+index for these particular situations. The
+
+
+446
+0:51:47,719 --> 0:51:59,799
+question now is what are the possible reasons
+for high balance delay? Balance delay measures
+
+
+447
+0:51:59,799 --> 0:52:5,619
+the inefficiency line; inefficiency means
+the degree of idle time which is there for
+
+
+448
+0:52:5,619 --> 0:52:7,88
+the various operators.
+
+
+449
+0:52:7,88 --> 0:52:17,67
+Some of the reasons for this are:
+1. The wide range of work element times. What
+
+
+450
+0:52:17,67 --> 0:52:25,869
+can happen is for instance in your example
+the work element times will not be constant
+
+
+451
+0:52:25,869 --> 0:52:31,859
+for all the operations. If all the work element
+time references in one each or even smaller
+
+
+452
+0:52:31,859 --> 0:52:39,109
+than this one, then you could combine them
+into getting any operation time. But this
+
+
+453
+0:52:39,109 --> 0:52:44,18
+does not happen. Some work element time maybe
+only one unit second, work element time might
+
+
+454
+0:52:44,18 --> 0:52:49,38
+be 12 units and you have to take it as it
+is because the operations are not further
+
+
+455
+0:52:49,38 --> 0:52:54,749
+divisible.
+2. Another possibility could be a large amount
+
+
+456
+0:52:54,749 --> 0:53:2,559
+of inflexible line mechanization. What might
+happen in the practical design situation is
+
+
+457
+0:53:2,559 --> 0:53:7,489
+that you already have a line and you already
+have a great degree of mechanization. So when
+
+
+458
+0:53:7,489 --> 0:53:13,99
+you have placed some machines at certain stations
+which already perform a certain number of
+
+
+459
+0:53:13,99 --> 0:53:18,499
+operations, you are actually constrained by
+putting in those operations and that particular
+
+
+460
+0:53:18,499 --> 0:53:24,719
+point although might not result in the best
+balance delay. This could be another reason.
+
+
+461
+0:53:24,719 --> 0:53:32,14
+3. Then indiscriminate choice of cycle times
+could also lead to high balance device. What
+
+
+462
+0:53:32,14 --> 0:53:38,95
+it means is if you know that in our example
+we consider the feasible range of cycle times
+
+
+463
+0:53:38,95 --> 0:53:48,539
+was from 7 units to 50 units, a wide range
+is in it. So you could attempt to do a line
+
+
+464
+0:53:48,539 --> 0:53:57,319
+of cycle time of let us say seven or a cycle
+time of ten or a cycle time of fifteen or
+
+
+465
+0:53:57,319 --> 0:54:2,829
+cycle time of whatever it is. If you do that
+then for different cycle times, you will probably
+
+
+466
+0:54:2,829 --> 0:54:9,799
+not get the right time. You might get a high
+balance delay. These are at least some of
+
+
+467
+0:54:9,799 --> 0:54:18,42
+the reasons why you have high balance delay.
+Let us now look at some of the problems and
+
+
+468
+0:54:18,42 --> 0:54:26,89
+prospects of mass production. You see for
+instance that one of the major problems of
+
+
+469
+0:54:26,89 --> 0:54:34,819
+mass production is that the variable work
+element times. We have designed the line based
+
+
+470
+0:54:34,819 --> 0:54:43,329
+on deterministic times but if an operator
+is doing a manual task then it is quite likely
+
+
+471
+0:54:43,329 --> 0:54:48,269
+that the task time is normally distributed
+with certain mean and certain variance. So
+
+
+472
+0:54:48,269 --> 0:54:53,43
+sometimes you operator will take less some
+times the operator will take more. Then you
+
+
+473
+0:54:53,43 --> 0:55:0,43
+will probably find that there could be starvation
+for these subsequent machines in that sense
+
+
+474
+0:55:0,43 --> 0:55:1,819
+of the term.
+
+
+475
+0:55:1,819 --> 0:55:6,599
+What is done is in order to deal with this
+problem sometimes buffers are provided in
+
+
+476
+0:55:6,599 --> 0:55:13,92
+between the tasks. What can happen is even
+if this fellow is slow, or this machine is
+
+
+477
+0:55:13,92 --> 0:55:20,579
+slow, this particular person can keep on operating
+from these buffers. So this is the variable
+
+
+478
+0:55:20,579 --> 0:55:24,88
+effect of the variable work element time.
+In fact this problem of finding out the optimum
+
+
+479
+0:55:24,88 --> 0:55:31,91
+buffer is an optimization problem. A problem
+which can be determined and then there could
+
+
+480
+0:55:31,91 --> 0:55:37,489
+be a breakdown at a workstation. If there
+is a breakdown at workstation what will happen?
+
+
+481
+0:55:37,489 --> 0:55:43,859
+Since the line is all connected, where there
+is a breakdown they will be flooding of parts
+
+
+482
+0:55:43,859 --> 0:55:48,14
+and beyond that there will be starving of
+parts. All the other machines will be start.
+
+
+483
+0:55:48,14 --> 0:55:52,63
+So that is why you have to get back into operation
+as early as possible and we said the maintenance
+
+
+484
+0:55:52,63 --> 0:55:54,859
+stop has to be very quick.
+
+
+485
+0:55:54,859 --> 0:56:0,209
+There could be multi product lines that mean
+the same line can produce multiple products
+
+
+486
+0:56:0,209 --> 0:56:5,779
+this can happen. For instance in Maruti udyog
+the same line can produce a Maruti 800, you
+
+
+487
+0:56:5,779 --> 0:56:11,589
+can also produce a Zen because what we do
+is we change some operations and something
+
+
+488
+0:56:11,589 --> 0:56:16,509
+can be done. So designing multi product lines
+means that you can handle the same thing.
+
+
+489
+0:56:16,509 --> 0:56:21,209
+We can also talk about modular production
+and group technology which is an alternative
+
+
+490
+0:56:21,209 --> 0:56:29,499
+to assembly lines. This means that you can
+talk about grouping parts in a certain fashion.
+
+
+491
+0:56:29,499 --> 0:56:37,509
+So that you can achieve modular production
+and cellular manufacturing which will try
+
+
+492
+0:56:37,509 --> 0:56:43,849
+to capture the advantages of both product
+and process layouts and that is the basic
+
+
+493
+0:56:43,849 --> 0:56:49,93
+feature of cellular manufacture and of course
+automation and robotics have their role to
+
+
+494
+0:56:49,93 --> 0:56:55,759
+play. When you are talking about assembly
+lines, many operations can be automated. You
+
+
+495
+0:56:55,759 --> 0:57:3,29
+can have robots performing many of the operations.
+Typically for instance in automobile manufacturing
+
+
+496
+0:57:3,29 --> 0:57:11,219
+you find that robots perform this operation
+of spot welding of various sheets and components
+
+
+497
+0:57:11,219 --> 0:57:20,69
+and we can also use FMS and CIM systems to
+perform and automate and programs and some
+
+
+498
+0:57:20,69 --> 0:57:28,749
+of the operations that have to be done. Finally
+let us try to summarize what we have tried,
+
+
+499
+0:57:28,749 --> 0:57:33,279
+what we have done in this particular class.
+We will try to look at the advantages and
+
+
+500
+0:57:33,279 --> 0:57:43,279
+disadvantages of assembly lines or products
+layouts. We have seen the basic principles
+
+
+501
+0:57:43,279 --> 0:57:45,599
+involved in the design of assembly lines.
+
+
+502
+0:57:45,599 --> 0:57:51,329
+We found that the basic principles involve
+things like division of labor and interchangeability
+
+
+503
+0:57:51,329 --> 0:57:59,489
+of parts. Contributions by Adam Smith and
+by E Whitney help us operate the assembly
+
+
+504
+0:57:59,489 --> 0:58:4,63
+line and then we saw that the assembly the
+precedence diagram and market requirements
+
+
+505
+0:58:4,63 --> 0:58:10,4
+of the design are the two major inputs you
+need for designing an assembly line. So you
+
+
+506
+0:58:10,4 --> 0:58:16,569
+need the precedence diagram and the desired
+cycle time, the rate you would like to produce
+
+
+507
+0:58:16,569 --> 0:58:24,99
+the part at. We could like to do the grouping
+of elements in a product layout. This could
+
+
+508
+0:58:24,99 --> 0:58:29,19
+be done by various algorithms. We mention
+some of them and we actually looked at the
+
+
+509
+0:58:29,19 --> 0:58:35,17
+RPW procedure in some detail. We found that
+they were measures and efficiency like balance
+
+
+510
+0:58:35,17 --> 0:58:40,759
+delay line efficiency and smoothness index
+for a line and finally we talked about some
+
+
+511
+0:58:40,759 --> 0:58:46,369
+of the emerging concepts which could be in
+the nature of multi product lines. The provision
+
+
+512
+0:58:46,369 --> 0:58:55,39
+for a buffer automation and worker empowerment
+is a very important concept, originally given
+
+
+513
+0:58:55,39 --> 0:59:1,109
+by the Japanese which allows the operator
+to run the line at his will. That means you
+
+
+514
+0:59:1,109 --> 0:59:5,65
+can stop the line when there is a problem.
+All the workers get together and they repair
+
+
+515
+0:59:5,65 --> 0:59:11,509
+the line and then they go back to the respective
+places in from the line. So these are some
+
+
+516
+0:59:11,509 --> 0:59:20,609
+of the concepts which are there for productiveness.
+I think with this we have been talking mainly
+
+
+517
+0:59:20,609 --> 0:59:26,549
+about the strategic aspects of design of a
+production system in this course. Now we will
+
+
+518
+0:59:26,549 --> 0:59:32,99
+go over to the operational decisions which
+are relevant in a production system. We talk
+
+
+519
+0:59:32,99 --> 0:59:50,519
+about the problem of forecasting aviate production
+planning and planning production system.
+
+
+520
+0:59:50,519 --> 0:61:50,519
+Thank you!
+
+

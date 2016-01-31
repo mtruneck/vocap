@@ -1,0 +1,464 @@
+###17 >>Tony Voellm: So with that, I'd like to introduce our first speaker of the day. Mark Trostler
+###23 is an O'Reilly author, well respected in the community. He has written a book on testable
+###29 JavaScript. He was born in Southern California. He says he is going to live there until he
+###37 dies. I told him please don't do that anytime soon. And with that, I'm going to hand it
+###40 off to Mark, and so here you are. [ Applause ]
+###44 >>Mark Trostler: Thanks. I don't know about well respected in the field. I don't know
+###52 where that came from, but.... Okay. So my name is Mark. I work at Google.
+###59 I'm an SET with Google help. I'm actually based in Irvine.
+###63 Yes, I have this book Testable JavaScript. O'Reilly was supposed to send out a bunch
+###70 of copies but they failed, so they said find me afterwards and I'll collect emails and
+###77 if you're interested in the book, I can get you a free e-copy.
+###79 Okay. So when we talk about testability, before I even jump into this, we heard a lot about
+###89 testing and automating your testing and I think Simon yesterday said something really
+###93 great which was you can't sort of bake in testing and maintainability and all of this
+###99 stuff after the fact. It needs to be there from the very beginning; otherwise, you're
+###104 not going to get the benefits of automation and easy testing and all this. So it's really
+###110 important that from the very beginning, your applications don't just come in at the end
+###114 and try to test something. Really try to be present at the beginning
+###118 when these applications are being developed and architected so you could have your say
+###122 about how maybe they should be built to make your jobs and our jobs much easier down the
+###129 line when you need to test these things. Okay. So when we talk about testability, these
+###134 are sort of the standard things that get thrown out. We want loose coupling and tightly focused
+###139 methods, and all this other good stuff. No surprises, and all that. And I hear these
+###147 and I see these in a lot of presentations and when I talk to people, and that's great,
+###153 and I don't think anyone disagrees with any of these things, but rarely do we talk about,
+###158 okay, how specifically do we actually achieve these things? What do we need to do in our
+###164 applications that actually have loose coupling and tightly focused methods and all this other
+###170 stuff? Sorry.
+###174 So the way we get there is using interfaces and not implementations. And what I mean by
+###184 that is, and what a lot of this presentation is about, is we talk a lot -- there's a lot
+###190 of talk, especially in the JavaScript community and probably in Java as well, about hiding
+###195 data. I want to make this private. I want to make this protected. I'm going to use the
+###200 module pattern or closure to hide variables or properties and methods from you.
+###208 And when you start talking about what you're hiding versus what you're exposing, I think
+###213 you've already sort of lost. And so what I mean by that is when you program
+###220 and you test to implement to interfaces and not to implementations, your life becomes
+###226 a lot simpler. You can swap implementations very easily. You can work, end test, end code
+###234 all in parallel, and you will see what I mean by when I say all this stuff, and you can
+###239 write the test one time, hopefully, and then as you implement different functionality,
+###245 your tests don't have to change, or change very little.
+###248 I don't know -- we have some bonus slides that have slipped in here so I'm just going
+###254 to ignore those. So when I talked about interfaces in JavaScript,
+###259 the first reaction is, JavaScript doesn't have interfaces. Well, it sort of does, and
+###265 we can fake it by creating an object like this and defining a bunch of empty functions
+###271 or methods. And when I do this, what I've done here is I've essentially created an interface.
+###276 Here is an interface for a user repository. It provides some -- all the basic functionality
+###283 that I need to get and set and deal with users. Everyone's application, most applications
+###289 have users. You need a way to store them somewhere, somehow and then retrieve them back later.
+###294 So here we create a simple interface that can get and set and query and do these other
+###301 interesting things to a user repository. And what's great when I have an interface
+###308 like this, besides the fact that it's very sort of self-documenting is when I write my
+###314 tests, I write tests to the interface. So here you could see I'm passing in a repo object.
+###322 I don't care what this repo object, how it's actually implemented. I just care about its
+###328 interface, the save and the get methods. So I'm going to write a test here that I'm going
+###333 to save a user, and them I'm going to call get and get the user back, and then I'm just
+###338 going to verify that the user I saved is actually the user I returned. And this is all via the
+###345 interface, not via some implementation that is buried somewhere in the object.
+###354 So now when I want to actually have an implementation of that interface in JavaScript, it looks
+###359 something like this. First I have a constructor function which takes parameters specific to
+###367 that implementation. So here I'm using the redis data store to implement the user repo
+###374 interface, and it takes some host port options, sort of injected, as we'll see, dependencies
+###382 into the constructor, and then I have any -- I have my redis client here, and then later
+###389 on I set the prototype of this constructor function to be the interface itself. So here
+###396 I'm sort of declaring to the world that I'm going to implement this user repo interface.
+###403 And then finally on the prototype I go ahead and define all the methods that the interface
+###409 says I need to define. Get, save, query, delete, you know, whatever.
+###416 So in this way I've sort of created a JavaScript object that implements my interface.
+###426 So what we've got here is we have an object that's acting as an interface. There's no
+###431 initialization you could do on this object. This object can only be used by implementations
+###438 to actually get work done. The interface itself does nothing.
+###443 The implementation itself has a constructor which takes specific parameters that are injected
+###449 into it to actually create the object, the implementation.
+###453 And then I sort of state my intention to the world that, hey, I'm going to implement this
+###458 interface by setting my prototype equal to it.
+###463 And then finally, in the actually implementation object, I then go ahead and I override all
+###468 those interface methods, and now I have an actual implementation of that interface.
+###474 And what's great here is now when I need to test this thing, I've already got the tests.
+###480 I just create a new object of this specific implementation of the user repo interface,
+###487 and now I just call the test method it, and, great, I do my save and my get and hopefully
+###492 it all works, and now I've just tested my implementation.
+###498 So time goes on. My application is growing. Redis turns out, oh, crap, that was a bad
+###503 idea to use redis. We actually need to use Amazon S3. No problem. Very simple. All we
+###510 need is a new implementation of our user repo interface. Going to call this one user repo
+###516 S3. It has a constructor. It takes parameters that are injected into the constructor for
+###522 what we need for this specific implementation. I'm going to announce to the world that I
+###527 am also going to implement this user repo interface, and then I'm going to go ahead
+###533 and actually create the methods that actually are going to implement that interface, the
+###538 save, the get, the whatever. Hey, I've already got the test for this thing. All I need to
+###545 do is wire up a new Amazon -- sorry, user repo S3 object, run it through my tests that
+###554 I've already created that I've already created, and I could tell easily, quickly, if this
+###558 thing actually works or not. Which brings us to our first principle of
+###566 the day, which is the single responsibility principle that says every interface essentially
+###571 should just do one thing and one thing only. Which leads us to the second principle of
+###580 the day, which is no object should be forced to depend on methods and functionality that
+###586 it doesn't use or need. And we saw that in our user repo interface.
+###594 It just deals with saving and getting users. There's nothing else in there. There's no
+###600 extra functionality that I might or might not need later.
+###606 Which finally takes us to our first pattern, which I'll just call it the interface pattern
+###610 here. When we bring all this stuff together, we have the single responsibility principle.
+###616 We match sets with gets, and what I mean by that is if you have -- if your interface has
+###622 a way to take something in, it should have a corresponding method to get the thing back
+###627 out. I see this a lot with logging. There is a
+###631 method on the logger to log something, and then it goes away, and there's no way to get
+###635 it back. The only way to get it back later is you have some other way to maybe query
+###640 the database later to actually read the logs. That's sort of dumb. You should have something
+###646 in the interface, if you can set it, you should be able to get it back.
+###650 You end up with more smaller interfaces versus a couple really big interfaces that try to
+###657 do everything. You really want a lot of small focused ones.
+###661 And then of course we want the interface segregation principle. We want our interfaces just doing
+###666 one thing, one thing only, not any extra functionality in there.
+###671 And when you write tests and when you write your application, you just look at the interface.
+###677 You don't look at the implementation. That interface we saw, the user repo interface,
+###681 it's an object. It's a self-documenting. Here are all the methods on it. Here's sort of
+###686 what they -- the parameters that they take. That's the only thing you should be looking
+###689 at when you're programming and when you're testing.
+###696 Okay. So we've created a bunch of nice interfaces. We've maybe gotten some implementations of
+###703 those interfaces. Now it's time to actually use this stuff.
+###707 What we don't want to do is just turn around and in something that actually needs our user
+###713 repo is to call new. Because what we've done is you've tightly coupled your implementation
+###722 to the thing that needs it. So here later on when I switch from redis to S3, I need
+###728 to go through all my code and find out all the places where I sort of got this user repo
+###734 redis object that is now very tightly coupled here and replace it with the S3 object. Not
+###741 only that, any parameters that this thing needed to be created, I need to somehow switch
+###748 to now being the S3 parameters instead of these.
+###751 So we don't want to do this. This is the sort of definition poster child of tight coupling
+###756 when you do something like this. So what you do want to do is pass the dependent
+###762 in in the constructor just like we saw for those interfaces earlier when we were creating
+###767 implementations. You pass these things into the constructor.
+###772 And then later on, we just sort of save off a copy of it, and then later on, in class,
+###777 we'll use the interface methods of this user repo object. And now my controller doesn't
+###783 care, doesn't know, doesn't want to know whether it's redis, it's S3, it's MySQL, it's whatever
+###791 the heck you decide it should be later, because these things change, and they do, this class
+###797 does not care, doesn't know. It's just programming to the interface.
+###805 Which brings us to the next principle. The Liskov substitution principle has a big impressive
+###810 sounding name which is something which is pretty simple intuitively, which is any objects
+###816 that implements the same interfaces, they can be swapped out at will. So as we saw earlier,
+###822 I have my user repo S3, I have my user repo redis. I can swap them out to my user controller
+###829 class. My user controller class has no idea, doesn't care, shouldn't have to know, doesn't
+###834 know. That's all thanks to the Liskov substitution principle. A great phrase.
+###841 So when you pass in all your dependents to a constructor, you end up with something called
+###846 constructor injection. A very fancy name for just passing in all your dependents to a constructor.
+###853 And what's great about constructor injection is it makes all of that object's dependencies
+###857 very explicit such that you can't even create this object until you have all of its dependencies
+###864 passed into it. You can't create an object that's sort of half created and then later
+###870 on you need to remember to call, like, an init method or set something else up over
+###874 here. You can't even get this object at all until you've actually passed in all of its
+###879 dependencies in the constructor. This also gives us this nice loose coupling
+###884 that everyone agrees is a great idea that lets us swap out implementations at runtime
+###890 or whenever you need to, essentially, to get very loose coupling.
+###897 There are a couple exceptions to this rule, and we're going to talk about those in a little
+###900 bit. Runtime dependencies being the most common. When we talk about constructor injection and
+###911 we say you can't create an object until you pass in all of its dependencies to it, the
+###916 first thing you would think about is, well, crap, that doesn't seem to help me. Now the
+###922 object that -- now I need to know all of the dependencies of any object I need in order
+###928 to create that object. And that sort of puts all the onus on me. And that doesn't seem
+###932 to make sense. Well, you're right. You shouldn't create objects,
+###937 in fact, should you very rarely, if ever, create objects during the normal course of
+###943 the running of your application. What we want to do here is, we want to create
+###948 all of our objects up-front at the very beginning of -- before your application even runs, create
+###954 all your objects, create all your dependencies, and then sort of kick your application off
+###960 once you have all of your dependencies and all the objects created from this giant object
+###966 graph. So what we've got here is, we really broke
+###970 our application into two distinct phases, if you will. One is at the very beginning
+###977 at a place called composition root, if you want a fancy phrase for it. You create all
+###983 the objects your application is going to need for its entire life. You sort of follow this
+###990 object graph, and you create all these objects. And then you create sort of the highest level
+###996 one, and then you kick it off and hit "start," and then off it goes.
+###1000 So we create all of our objects at the very beginning, and then we, if the first phase,
+###1006 and then in phase 2, we actually use the objects in our application runs, and it's all right.
+###1012 Now, in a Web application, composition root isn't necessarily when the entire application
+###1019 starts up, say, with the Web server or something like that. There's also the request cycle.
+###1025 For instance, a user object, you don't know who the user is specifically until the request
+###1032 cycle starts and you've sort of retrieved your session. You're like, oh, the user is
+###1036 Mark. I'm going to create the user object Mark that represents him.
+###1040 So it's okay for your composition root to be, you know, scoped at a request cycle as
+###1046 well as from the very first time your application starts up.
+###1050 Okay. Great. So we want to create all these objects at the very beginning. Well, then
+###1056 what creates all the objects? Well, there's lots of different dependency
+###1062 injectors or inversion of control containers, whatever you like calling them. Those are
+###1068 the things that are -- actually create your objects for you. And you can use sort of one
+###1074 off the shelf. Certainly there's many for Java. There's a lot for JavaScript as well,
+###1079 it turns out. cujo, cujojs is a really popular one. Do it yourself, that's a DIY dependency
+###1091 injection. You can also do it yourself. And the idea is, at the very beginning of your
+###1095 application, at the composition root, whether that's during the request cycle or when your
+###1099 application first starts up or when you first push all your client-side JavaScript to your
+###1103 browser, this object depends on these three, these three objects depend on these eight,
+###1112 these eight depend on these 24. Finally, at the very bottom, you have a set of objects
+###1117 that don't depend on anything else. So you create those first. You walk your way up your
+###1122 sort of dependency graph until you get to the very top, and then you've created everything.
+###1127 And that's what these dependency injection or inversion of control containers are really
+###1133 good at, are walking that object graph to create all your objects for you.
+###1139 AngularJS, open source Google project, does dependency injection as well.
+###1147 So there's -- you have lots of -- you have lots of options here of what you want to use.
+###1154 Okay. So you've created these sort of self-contained objects, and they just do one thing, and they
+###1163 do one thing only. And that's great. And then the question is, well, what about this other
+###1169 stuff that I might want to do? I might want to do logging. I might want to do caching,
+###1174 all these sort of cross-cutting concerns. And the question is, how do we sort of weave
+###1181 these cross-cutting concerns into the fabric of our application here?
+###1187 We don't -- we know we don't want to pollute our interfaces with logging or with any of
+###1192 this other stuff, because you might need it, you might not need it. Not all classes might
+###1197 want logging. So how do we bring all this stuff together?
+###1202 Well, let's first look at what we don't want to do. And what we don't want to do is what
+###1208 we saw earlier, which is just sort of, you know, create new versions of this stuff within
+###1214 a specific implementation. So within my userrepo redis implementation, I don't want to just
+###1220 turn around and call, you know, new logger or new profiler. Again, this tightly couples
+###1225 us to those implementations. And it makes things a lot more difficult to test when you
+###1231 have this stuff sort of buried within the object itself. It's a lot harder to mock out
+###1237 and stub this stuff out. So you say, okay, well, I want to pass some
+###1243 stuff in maybe to the implementation. And this is on the right track in that we're using
+###1249 constructor injection. But there are a lot of problems with this approach as well.
+###1256 For one, the single responsibility principle here is, now we have a specific implementation.
+###1261 Userrepo redis is now sort of baked in logging and profiling. And when I want to use the
+###1267 userrepo redis object and maybe I don't want profiling and I don't want logging, I'm sort
+###1271 of stuck here. So what I mean by that specifically is, you'll
+###1274 end up with code something like this method that's implementing the save interface method.
+###1283 You sort of put all this extra junk in here that not all users of this class might need.
+###1290 Here we've got logging, we have profiling, and then in the middle of all that, we're
+###1294 actually going to reach out to redis to save the user. And then we're going to do some
+###1298 more logging and more profiling. And the problem here is, in our next implementation, userrepo
+###1306 S3, I've got to remember if I want logging, profiling, I've got to pull all this code
+###1311 out of there and I've got to put it over here. And as I said earlier, not everybody -- you
+###1316 might not want logging and profiling all the time whenever you're using this object.
+###1322 So the solution to this problem is -- like the solution to almost all problems, is, we
+###1329 want to keep the different functionality separate. We want to maintain the single responsibility
+###1335 principle. We want to keep -- we don't want to put in any extra functionality into our
+###1341 implementation here that some classes might not need.
+###1345 So what we want to do is create an interface. So here is a logger interface. You see it
+###1351 just has two methods here, a log method, and then, a way to get the log back out once you've
+###1356 put the log in. And here's a simple implementation of that
+###1360 interface. Here's an implementation that's going to log to a file. You can imagine one
+###1366 that would log to a database or log to a remote logging somewhere else. I have my implementation-specific
+###1377 constructor that's going to take a file. Here I'm announcing to the world that I am going
+###1382 to implement the logger interface. And then I go ahead and blow through all the interface
+###1387 methods and implement them for this specific implementation.
+###1393 So quick aside here. One thing that makes JavaScript really nice is, we can sort of
+###1398 do whatever we want with the objects. A lot of sort of built-in reflection.
+###1405 Here's just a quick method called mixin. And what this method is going to do -- and we'll
+###1409 see how we use it on the next slide -- is, we're going to sort of take all the methods
+###1414 from base class and automatically embed them sort of from the base, and we're going to
+###1420 automatically add them to a different object. So we're just going to blow through all the
+###1424 properties in our base object. And then if we find one that's a method and that doesn't
+###1430 already exist in the -- in our current implementation, we're just going to stick it on the current
+###1436 object. And we'll see how we use this in a second.
+###1443 Well, let's just look at how we use this thing, actually.
+###1446 Okay. So let's get back to our initial problem here, which is, we want to sort of have logging
+###1453 with our -- with our userrepo. So here's how we do it. We create something called a decorator.
+###1460 And here is a specific implementation of one, a userrepo logger. And the idea of the decorator
+###1465 here is, it is going to also implement the userrepo interface, but it's going to have
+###1471 logging baked into it. So, again, here I have a constructor which
+###1475 is being injected with its dependencies in this case. It has a dependency of another
+###1480 userrepo object. We don't care which one, because it's just going to -- we're just programming
+###1484 to the interface. And a logger object. Again, we don't care which one, because we're just
+###1489 going to deal with the interface. Now we're going to mix in all of the original
+###1496 repo's original methods into this class. And this is really just sort of a helper which
+###1502 lets me not have to define all of the save, the get, the query user, the delete user methods.
+###1510 If I don't declare any of those off our prototype, then they will just fall back to sort of the
+###1516 inner repo's version of those methods. And then, finally, I actually am going to
+###1522 implement the save method here. And what I'm going to do here is, I'm actually going to
+###1527 take the logger, and I'm going to do my logging. And then I'm going to sort of hand off responsibility
+###1532 for the actual repo saving to whatever repo was passed in to me.
+###1541 And so here what I've done is I've sort of intercepted or decorated the save method with
+###1547 logging. And what's great here is, the inner repo, whichever one I happen to pass in, userrepo
+###1554 redis, userrepo S3, or whatever, has no idea that logging is happening. And the logging
+###1560 has no idea about the userrepo. They're not mixed in any way. Only through this decorator
+###1567 class. So when I want to create one of these things
+###1573 at the very beginning of my application, using my dependency injector and my container, I
+###1580 create whichever implementation of userrepo I want. Here in this case, the redis 1. I
+###1586 create whichever implementation of the logging I want. Here in this case, the file one.
+###1591 And now I've got another userrepo that, thanks to our good friend, the Liskov Substitution
+###1596 Principle, says I can now use this userrepo anywhere I was using a userrepo before, and
+###1603 now I get logging for free without having to, you know, mess up my original userrepo
+###1610 redis or S3 implementation. Okay. So we talked about -- we wanted to do
+###1619 profiling, too. Remember that? So let's again go through this same kind of
+###1624 deal here. I'm going to create a profile interface. It does a start and a stop. And then, of course,
+###1629 it has a way to get it back out, too, once we've stuck it in. Here's a very simple implementation
+###1635 of that interface. Here's my constructor function, which has implementation-specific parameters,
+###1642 none in this case, announcing to the world that I am going to implement the profile interface.
+###1649 And then, finally, I'm going to go ahead and actually implement all of those methods there.
+###1654 Here's just start, stop. One can imagine, of course, other profiling.
+###1661 What if you want disk space profiling, what if you wanted CPU profiling? No problem, just
+###1668 create another implementation of the profiler interface and you've got those.
+###1673 Again, I'm going to create another decorator for this one, going to call it userrepo profiler.
+###1680 This one in its constructor function takes, again, an inner repo, it takes a profiler
+###1686 interface. I'm going to mix in everything from the userrepo into this current object.
+###1693 Again, this is just sort of like a convenience so I don't -- so this object doesn't have
+###1698 to implement all of the interface methods if it doesn't want to.
+###1702 And then, finally, I'm going to sort of intercept or decorator the save method of the userrepo
+###1708 interface. And in this case, I'm going to do -- sort of start my profiler, then I'm
+###1713 going to delegate to the inner repo to do any actual saving, and then I'm going to stop
+###1719 the profiler. So now I have a sort of profiling userrepo.
+###1727 And then, finally, we're going to put the whole thing together here to get an all-seeing,
+###1732 all-knowing, all doing logging and profiling userrepo object. So first I'm going to create
+###1739 a specific implementation here. I'm going to use the redis one. For grins, I'm going
+###1744 to use the time implementation for profiler. I'm going to use the logger implement- -- the
+###1749 file implementation for logger. And now I'm going to sort of create my -- here's my profiling
+###1755 userrepo object. And then here's my logging profiling userrepo object. Because I've been
+###1764 programming to interfaces, I can -- and because of our good friend the Liskov Substitution
+###1769 Principle, I can use this userrepo prof object anywhere I can use a userrepo object since
+###1776 it implements that interface. So I'm going to use that to pass into the userrepo logger
+###1781 object. And now, at the very end here, I have a userrepo object that can be used anywhere
+###1788 a userrepo object could be used. But this one has logging and profiling built into it.
+###1797 And at no point have I sort of violated any of our principles of keeping things separate.
+###1805 And what's great is, I can test the heck out of my logger implementation. I can test the
+###1811 heck out of the profiler implementation. And I don't need to mix them. I don't need to
+###1817 have that kind of testing also when I'm just testing the userrepo interface as well.
+###1824 Okay. So just a quick note on tests here. There's a couple ways to test decorators.
+###1836 One is, you sort of mock out the -- sort of the part that's doing the decorating. Then
+###1844 you just sort of call your save method on that object, and then you verify your mocked-out
+###1852 object. The other way is to sort of create the whole
+###1857 thing and sort of mock out everything. And so this is more like if you don't trust the
+###1866 fact that when you put all of this stuff together it's actually going to work like you think
+###1871 it is, you can -- you can do tests like that. The previous way is, you've sort of tested
+###1876 the two in -- all the interfaces in isolation, and you can just run them through your normal
+###1881 userrepo test that we saw earlier, that save that's just saving to the -- you know, that's
+###1888 just using the interface methods. So they're really easy to test, and these
+###1894 decorators are obviously -- are very easy to mock out as well.
+###1900 Which brings us to our second pattern, which is the decorator pattern, which is what we
+###1905 just saw. And the whole game here is, again, everything we just saw, you create a constructor
+###1914 that sort of takes an inner version of the interface and any other objects it needs that
+###1919 it's going to decorate the interface with. Then you want to sort of mix in the inner
+###1926 objects methods into your decorator objects so you don't have to implement all the interface
+###1932 methods if you don't want to. And then, finally, you go ahead and actually
+###1938 implement the interface methods that you want, using -- using the decorator, using the other
+###1944 object you passed in the logger, the profiler, to actually do the work that you want the
+###1949 decorator to do. And I say in there optionally, because it
+###1954 turns out you don't actually need to call the inner interface if for some reason your
+###1959 decorator decides it doesn't need to. And the sort of the canonical example here is
+###1964 caching. You don't want to build caching directly into your implementations. You can write a
+###1970 caching decorator that in the save method or in the get method, it would look to see,
+###1977 hey, is this object already in my cache that I'm keeping locally in the decorator? If so,
+###1983 I don't need to delegate it all to the inner repo. I can just return the object I've already
+###1990 got. Okay. Last bit I'm going to talk about here
+###1996 is, what about runtime dependencies? And sort of the example here is, I've got
+###2005 a dating site, awesome Web site. People come, they try to find their matches for who they
+###2012 want to go out with. And there's a couple different criteria they can use to determine
+###2017 what they want to use to find their matches. They can use do we share the same likes? Do
+###2022 we like to do the same activities? Distance, how far away are they from me. Or anything
+###2028 else you can think of. And the idea here is that when the user comes
+###2031 to the site, they sort of have a pulldown, and it's up to them to select how they want
+###2035 to find their matches, one of those three things.
+###2038 Well, the thing is, you don't know what they're going to pick; right? So you can't sort of
+###2044 create a user controller object or something at the beginning with one of these fine match
+###2050 algorithms, because it's up to the user to pick it. You don't know what it's going to
+###2053 be. So the first step here, of course, is to create
+###2058 an interface called findmatches. This is given a user ID. It's going to return a set of matches
+###2063 for them. And then we're going to go ahead and create
+###2066 some implementations of this interface. Again, here's -- that "F" is just short for function,
+###2072 because there wasn't enough room on the slide. So I have a constructor function here. Here's
+###2078 one for distance. Here I'm going to say I am going to implement the find matches interface,
+###2084 and then I have some other objects here. I've got one for activities. I've got one that's
+###2090 going to find your closest matches for likes and whatnot.
+###2095 So here's the crux of the problem here, is, in my user controller, I don't know what you're
+###2101 going to pick. So I don't know which find match sort of implementation to inject here.
+###2109 So I could inject all three. That's sort of -- that's clunky, doesn't smell right. What
+###2115 about if I come up with a fourth? You know, a fourth one later. Then I've got to make
+###2120 sure I add it there. What if there are other things that need sort of a dynamically injected
+###2126 findmatches? So the solution here is an abstract factory.
+###2134 So I don't want to get too bogged down in the terminology "abstract factory." That sounds
+###2140 crazy. That sounds like something you need in Java, not something you need in JavaScript.
+###2144 Isn't JavaScript supposed to free us from all of this?
+###2148 Well, when I say "abstract factory," all I'm talking about here is, it's an object that's
+###2155 going to take a runtime value and return a dependency. That's all I mean here.
+###2160 So to create one of these abstract factories, just like everything else, I'm going to have
+###2165 an interface. I'm going to call this one findmatch factory. It just has one method, a get match
+###2172 implementation. And you can see it takes a type. And this type, say, is just a string,
+###2177 likes or activities or distance. And it's going to return to me the implementation I
+###2182 need, the findmatch implementation I need, to actually find the matches that the user
+###2187 has requested. So here's a quick implementation of this interface.
+###2193 Again, I have my constructor. In this case, it's going to take a userrepo object. I have
+###2200 a -- I'm here, I'm broadcasting to the world that I am going to implement the findmatch
+###2206 factory interface. And then here is my get match implementation actual implementation
+###2215 of it. And you can see there's something slightly strange here which should make you sort of
+###2219 recoil, is that there's -- new's in here. Whenever you see "new" in code, you should
+###2225 get a little bit scared. But it turns out for factories, it's okay.
+###2230 It's okay to call new here. This is the whole point of this object. You don't have to do
+###2236 it this way. You can also pass these sort of three or more implementations in via the
+###2243 constructor. It's sort of up to you how you want to do it. But the idea here is, I'm going
+###2248 to take a type, a runtime value, and I'm going to return an actual implementation.
+###2254 So in this case, I'm going to switch on the type, and depending on which one they selected,
+###2258 I will return you the correct implementation for that type.
+###2263 Okay. So what happens here is, in my user controller, what I'm injecting into its constructor
+###2270 is the abstract factory. That's the whole game here. So here I'm injecting in the abstract
+###2278 factory. I save it off for later, and then -- so here's a constructor. Here I'm saying
+###2287 I am implementing the controller interface. And then in this method here, where -- that
+###2294 finally boils down to when the user has actually selected their type, I know what type they
+###2299 selected, I know what the user is. Now I reach out to my factory that was injected to me,
+###2305 and I say, aha, okay, I've finally got the type. Give me the object that matches this
+###2310 type. It does. And then now I can call the interface method matches, if you remember
+###2317 from the findmatch interface, to actually get the matches that the user requested, whether
+###2322 you get it by distance, or likes or activities, whatever they wanted.
+###2331 What's great about abstract factories is, they're really easy to test. You know, all
+###2337 -- they're not doing very much. Right? They're just translating from a type to an object.
+###2342 So a dead-simple test is just to iterate over all of the known types and make sure you got
+###2348 the object back that you expected. And they're really easy to mock out. So when
+###2355 we want to test the user controller, mocking out an abstract factory is really simple.
+###2363 So here's a -- here's an implementation of our abstract factory for test. It has a specific
+###2371 constructor that takes a mocked-out match version and what the expected type was. I
+###2377 say I'm going to implement this interface. And then the get matching implementation just
+###2381 sort of returns the mock, plus it checks to make sure that the type it got passed was
+###2386 what was actually expected. And then you can go ahead and inject this
+###2392 mocked out or test version of the abstract factory into your user controller.
+###2403 Which brings us to our final pattern of the day, which is the abstract factory pattern.
+###2408 And the game here is, as we just discussed, I'm going to take a runtime value and I'm
+###2413 going to return to you an actual object for that runtime value. The factory implementation
+###2421 itself has created a composition root, along with all the other objects. And you inject
+###2427 the factory instead of injecting, you know, the actual, you know, findmatches object into
+###2434 the constructor of any object that needs to deal with this runtime value.
+###2440 And then, finally, you use the factory at the moment when you actually need it to get
+###2446 the actual dependency that you needed. Okay. So to sort of tie a bow on all of this,
+###2462 what we really like to see when we're talking about testable JavaScript or, really, testable
+###2467 probably anything, is we like composition. Inheritance is a little more stifling. Composition
+###2476 allows us to really easily mix and match pieces that we need without sort of sullying our
+###2483 implementation objects or our interfaces. We want to program and test to those interfaces.
+###2492 Again, we talked about -- I talked at the very beginning about hiding data, making stuff
+###2496 private, putting, like, an underscore there to make sure people know that, hey, this is
+###2500 private, don't touch this. Using interfaces, it's just here's the interface. That's what
+###2505 you've got. That's it. You don't have to worry about hiding as much.
+###2513 Again, we want to create lots of small interfaces, because we've seen how easy it is to mix and
+###2518 match them together. And it's significantly easier to test small interfaces and to mock
+###2525 out small interfaces than it is big, hairy, complex ones.
+###2531 We're going to decorate and intercept for those cross-cutting concerns. We're going
+###2536 to constructor inject all of our dependencies, even the runtime ones, using abstract factories.
+###2543 And here's our abstract factories for the runtime dependencies.
+###2547 And, finally, there's really, unfortunately, only one way to actually ensure testability
+###2554 of your code. And that is to write the tests first. Because then you're guaranteed to have
+###2559 the tests up-front. But if you follow, you know, all of these patterns and these principles
+###2564 I showed you, maybe you could try to get away without writing the tests first. But why would
+###2569 you want to do that? That's all I've got.
+###2572 Thank you very much. [ Applause ]
+###2576 >>Tony Voellm: Thank you, Mark. That was fantastic. And thank you for bringing back my childhood
+###2584 fears with the cujojs. For those of you who don't know Cujo, it was
+###2589 this giant German shepherd that's rabid, attacks his family. They're stuck in the car. Everybody
+###2594 dies. It's a terrible movie. So years of Beethoven and Disney has fixed this, but I'm going to
+###2599 have to watch that movie tonight. >>Mark Trostler: Sorry to take you back down
+###2601 that road. >>Tony Voellm: Questions? We have two mikes
+###2607 in the aisle, like we did yesterday. So I see one live question.
+###2610 When you ask your question, state your name, your company, and your question. Or you can
+###2614 delete other parts if you don't really want to state your name.
+###2616 So with that, go ahead, please. >>> My name is Alec Monroe. I work at Arc90.
+###2623 I noticed one piece that wasn't injectable: The redis client or the S3 client.
+###2631 Wouldn't that become an issue when you were trying to do something live and you didn't
+###2635 want to actually -- or trying to test something and you didn't want to actually have to be
+###2638 talking to S3? >>Mark Trostler: That's a good point. Because
+###2641 when I was looking at the slides, I was, like, you could just inject the redis object itself
+###2647 into the user redis repo. But sort of the idea of the user redis repo is, it's talking
+###2654 to redis. So that's sort of a -- you know, like, a piece of that object that can't really
+###2660 be abstracted away. But using, you know -- programming to the
+###2665 interface, it's really easy just to create a mock. So if you don't really want to talk
+###2669 to redis, it's really easy just to create a mocked-out version of userrepo that, you
+###2674 know, is just checking to make sure, like, did I get this? Was that what I expected?
+###2678 And whatnot? >>> So use a different repo in that case?
+###2680 >>Mark Trostler: Yeah, just use a different repo. Since you're programming to the interface,
+###2684 it doesn't matter what the interface is. >>Tony Voellm: With that, thank you. If you
+###2690 have other questions, I'm sure you'll be around, Mark.
+###2693 >>Mark Trostler: I'll be around. This is a good question on the Dory, too. But --
+###2696 >>Tony Voellm: It's a fantastic question. It says -- it's about, you know, performance
+###2700 concerns if you have ten seconds, ten seconds here.
+###2703 >>Mark Trostler: So the idea is -- so the question is, well, if you create all your
+###2706 objects up-front, isn't that a performance problem or something like that.
+###2710 Turns out it's really not, since you're going to be creating all these objects anyway during
+###2714 the course of your application, it's better to create them up-front and then you have
+###2718 less of a performance issue throughout the rest of your application.
+###2721 >>Tony Voellm: Good answer. All right. Thank you. All right.
+###2730 [ Applause ]

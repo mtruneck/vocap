@@ -1,0 +1,8074 @@
+1
+0:0:0,0 --> 0:0:4,28
+
+
+
+2
+0:0:4,28 --> 0:0:6,49
+MALE SPEAKER: So it's
+my great pleasure
+
+
+3
+0:0:6,49 --> 0:0:9,22
+to introduce Bob
+Frankston, who imagined
+
+
+4
+0:0:9,22 --> 0:0:13,86
+a world with a spreadsheet
+before computers really
+
+
+5
+0:0:13,86 --> 0:0:15,75
+had a useful thing to do.
+
+
+6
+0:0:15,75 --> 0:0:19,33
+And so it was world
+changing, and I
+
+
+7
+0:0:19,33 --> 0:0:23,14
+think what's really
+interesting is when
+
+
+8
+0:0:23,14 --> 0:0:25,54
+I met with Bob a couple weeks
+ago and we start talking,
+
+
+9
+0:0:25,54 --> 0:0:28,63
+we immediately got into
+a really strong agreement
+
+
+10
+0:0:28,63 --> 0:0:31,18
+and a really good argument
+all within about four minutes.
+
+
+11
+0:0:31,18 --> 0:0:32,299
+And so I thought,
+that's the kind of guy
+
+
+12
+0:0:32,299 --> 0:0:33,132
+I want to talk here.
+
+
+13
+0:0:33,132 --> 0:0:35,2
+So thanks for coming, Bob.
+
+
+14
+0:0:35,2 --> 0:0:36,15
+I really appreciate it.
+
+
+15
+0:0:36,15 --> 0:0:36,9
+BOB FRANKSTON: OK.
+
+
+16
+0:0:36,9 --> 0:0:40,97
+
+
+
+17
+0:0:40,97 --> 0:0:42,57
+As some people here
+know, my history
+
+
+18
+0:0:42,57 --> 0:0:45,455
+goes back well before VisiCalc,
+which is actually Dan's idea.
+
+
+19
+0:0:45,455 --> 0:0:48,72
+
+
+
+20
+0:0:48,72 --> 0:0:53,431
+I will go through history,
+but let's start the talk.
+
+
+21
+0:0:53,431 --> 0:0:54,18
+Hit the space bar.
+
+
+22
+0:0:54,18 --> 0:0:56,0
+That's a good way
+to move forward.
+
+
+23
+0:0:56,0 --> 0:0:58,1
+So I'm going to start
+at the end point.
+
+
+24
+0:0:58,1 --> 0:1:2,34
+Both of the talk, where
+the high-level issues are,
+
+
+25
+0:1:2,34 --> 0:1:4,76
+and the sense that I
+interested in the endpoints
+
+
+26
+0:1:4,76 --> 0:1:8,8
+of connections, and not all
+the network crap in the middle.
+
+
+27
+0:1:8,8 --> 0:1:10,22
+So the internet itself
+is just a technique.
+
+
+28
+0:1:10,22 --> 0:1:13,97
+It's the way we can use whatever
+is available to communicate.
+
+
+29
+0:1:13,97 --> 0:1:16,69
+The problem is that we
+have all these people who
+
+
+30
+0:1:16,69 --> 0:1:18,1
+think the internet is important.
+
+
+31
+0:1:18,1 --> 0:1:21,64
+That's thinking that there is
+a thing called the internet.
+
+
+32
+0:1:21,64 --> 0:1:25,16
+And they sort of have to
+defend it and make it work.
+
+
+33
+0:1:25,16 --> 0:1:28,35
+And for me, it's just
+that stuff in the middle.
+
+
+34
+0:1:28,35 --> 0:1:30,55
+I just start with
+what you do with it.
+
+
+35
+0:1:30,55 --> 0:1:33,34
+And you mentioned using
+VisiCalc, some people at the St
+
+
+36
+0:1:33,34 --> 0:1:35,3
+Student Information
+Processing Board
+
+
+37
+0:1:35,3 --> 0:1:38,64
+at MIT, which I
+co-founded in '69, trying
+
+
+38
+0:1:38,64 --> 0:1:40,72
+to get people to use
+computers back then.
+
+
+39
+0:1:40,72 --> 0:1:42,7
+I had a sense they were useful.
+
+
+40
+0:1:42,7 --> 0:1:44,81
+Nobody believed me.
+
+
+41
+0:1:44,81 --> 0:1:48,38
+And this is that actually
+the culture, the Project MAC,
+
+
+42
+0:1:48,38 --> 0:1:50,99
+which is in the building that's
+inside one of the Novartis
+
+
+43
+0:1:50,99 --> 0:1:55,644
+buildings now, which
+is the attitude of how
+
+
+44
+0:1:55,644 --> 0:1:57,6
+do we make this
+technology useful?
+
+
+45
+0:1:57,6 --> 0:1:59,44
+What can we do with it?
+
+
+46
+0:1:59,44 --> 0:2:2,29
+So I'm skipping outside my
+talk, but for me the slides
+
+
+47
+0:2:2,29 --> 0:2:3,56
+are mainly a guide.
+
+
+48
+0:2:3,56 --> 0:2:7,16
+They try to keep me on track.
+
+
+49
+0:2:7,16 --> 0:2:9,41
+There will be lots of points
+we can discuss later I'll
+
+
+50
+0:2:9,41 --> 0:2:10,43
+just mention.
+
+
+51
+0:2:10,43 --> 0:2:14,0
+One of the big insights is
+the least important thing
+
+
+52
+0:2:14,0 --> 0:2:17,4
+we do is exchange content.
+
+
+53
+0:2:17,4 --> 0:2:20,29
+Now that might sound
+heretical, but how many people
+
+
+54
+0:2:20,29 --> 0:2:23,12
+have ever sent a
+copy of Wikipedia?
+
+
+55
+0:2:23,12 --> 0:2:25,1
+You just say the word Wikipedia.
+
+
+56
+0:2:25,1 --> 0:2:25,72
+You refer to it.
+
+
+57
+0:2:25,72 --> 0:2:27,89
+You never send it.
+
+
+58
+0:2:27,89 --> 0:2:31,1
+And that's part of the secret
+about what makes this work.
+
+
+59
+0:2:31,1 --> 0:2:33,17
+Yet all our policies,
+all our measures
+
+
+60
+0:2:33,17 --> 0:2:36,77
+of broadband and everything,
+running out of internet,
+
+
+61
+0:2:36,77 --> 0:2:40,79
+are based on the idea we're
+shipping exabytes of data
+
+
+62
+0:2:40,79 --> 0:2:42,305
+through this one
+router, which must
+
+
+63
+0:2:42,305 --> 0:2:43,638
+be in the middle of Kansas City.
+
+
+64
+0:2:43,638 --> 0:2:46,772
+
+
+
+65
+0:2:46,772 --> 0:2:48,98
+But for me, the internet is
+really about opportunity.
+
+
+66
+0:2:48,98 --> 0:2:52,4
+How do we create opportunity
+to do things at the-- well,
+
+
+67
+0:2:52,4 --> 0:2:55,57
+there's no real edge,
+but outside of the net?
+
+
+68
+0:2:55,57 --> 0:2:58,61
+
+
+
+69
+0:2:58,61 --> 0:3:1,11
+And the other important
+point is that the internet
+
+
+70
+0:3:1,11 --> 0:3:3,0
+is a discontinuity.
+
+
+71
+0:3:3,0 --> 0:3:8,26
+When you read the classic
+histories of in the internet,
+
+
+72
+0:3:8,26 --> 0:3:10,73
+they start with the ARPANET
+and have a packet radio.
+
+
+73
+0:3:10,73 --> 0:3:12,57
+No, that's nonsense.
+
+
+74
+0:3:12,57 --> 0:3:16,2
+Yes, the excellent
+technologies were there,
+
+
+75
+0:3:16,2 --> 0:3:19,24
+but the interent really
+started from a very different
+
+
+76
+0:3:19,24 --> 0:3:20,45
+beginning.
+
+
+77
+0:3:20,45 --> 0:3:25,67
+It was the revolt against
+networking as a service.
+
+
+78
+0:3:25,67 --> 0:3:27,85
+You didn't need a third
+party along the way
+
+
+79
+0:3:27,85 --> 0:3:29,64
+to read your telegram
+like a scribe
+
+
+80
+0:3:29,64 --> 0:3:32,46
+and repeat it down the line.
+
+
+81
+0:3:32,46 --> 0:3:33,49
+You do it yourself.
+
+
+82
+0:3:33,49 --> 0:3:36,13
+You just exchang these
+meaningless bits.
+
+
+83
+0:3:36,13 --> 0:3:40,23
+And one of the really horrendous
+legacies we're still stuck with
+
+
+84
+0:3:40,23 --> 0:3:41,93
+is the idea the
+carrier in the middle
+
+
+85
+0:3:41,93 --> 0:3:44,72
+must make a profit for
+you to do anything.
+
+
+86
+0:3:44,72 --> 0:3:46,559
+And I was reminded of this.
+
+
+87
+0:3:46,559 --> 0:3:48,6
+I understand why companies
+need to make a profit,
+
+
+88
+0:3:48,6 --> 0:3:51,41
+the question is whether
+that's the right model.
+
+
+89
+0:3:51,41 --> 0:3:52,44
+For example, airlines.
+
+
+90
+0:3:52,44 --> 0:3:55,4
+I don't have a better
+idea for airlines.
+
+
+91
+0:3:55,4 --> 0:3:57,525
+But the consequence
+is I'm not going
+
+
+92
+0:3:57,525 --> 0:4:0,48
+to be able to get to Los Vegas
+tomorrow because airlines
+
+
+93
+0:4:0,48 --> 0:4:3,7
+no longer have enough
+extra equipment.
+
+
+94
+0:4:3,7 --> 0:4:5,83
+So basically, they
+canceled my flight
+
+
+95
+0:4:5,83 --> 0:4:8,2
+because a gear was
+stuck somewhere
+
+
+96
+0:4:8,2 --> 0:4:9,88
+and there's absolutely
+no resilience.
+
+
+97
+0:4:9,88 --> 0:4:12,21
+The whole system shuts down.
+
+
+98
+0:4:12,21 --> 0:4:14,2
+And maybe airlines
+have to do it.,
+
+
+99
+0:4:14,2 --> 0:4:16,829
+but for us to use that
+technology for networking
+
+
+100
+0:4:16,829 --> 0:4:19,2
+is absurd.
+
+
+101
+0:4:19,2 --> 0:4:21,3
+So as I said, the
+internet is a technique
+
+
+102
+0:4:21,3 --> 0:4:23,9
+for doing things ourselves.
+
+
+103
+0:4:23,9 --> 0:4:25,85
+Now, I put in DIO
+as a broader point
+
+
+104
+0:4:25,85 --> 0:4:29,82
+because doing it ourselves
+doesn't mean you do it alone.
+
+
+105
+0:4:29,82 --> 0:4:31,57
+It could be doing
+it ourselves if you
+
+
+106
+0:4:31,57 --> 0:4:34,63
+have communities
+that work together.
+
+
+107
+0:4:34,63 --> 0:4:38,38
+But it's easy to just
+think of DIY as opposed
+
+
+108
+0:4:38,38 --> 0:4:39,906
+to depending on a third party.
+
+
+109
+0:4:39,906 --> 0:4:40,53
+Do it yourself.
+
+
+110
+0:4:40,53 --> 0:4:45,194
+
+
+
+111
+0:4:45,194 --> 0:4:47,61
+The other thing that we're
+going to get to is once meaning
+
+
+112
+0:4:47,61 --> 0:4:51,72
+is outside the
+network-- oh, I just
+
+
+113
+0:4:51,72 --> 0:4:53,625
+realized you're not
+seeing my slides.
+
+
+114
+0:4:53,625 --> 0:4:55,0
+MALE SPEAKER:
+[INAUDIBLE] slides?
+
+
+115
+0:4:55,0 --> 0:4:56,96
+BOB FRANKSTON: Yes,
+there are slides here.
+
+
+116
+0:4:56,96 --> 0:4:59,65
+I'm more coherent than I seem,
+because the explanation is up
+
+
+117
+0:4:59,65 --> 0:5:1,68
+on the slides.
+
+
+118
+0:5:1,68 --> 0:5:3,889
+Speaking of depending
+on a third party
+
+
+119
+0:5:3,889 --> 0:5:5,68
+and not having eyes in
+the back of my head.
+
+
+120
+0:5:5,68 --> 0:5:9,74
+
+
+
+121
+0:5:9,74 --> 0:5:10,88
+Ah, there it is.
+
+
+122
+0:5:10,88 --> 0:5:12,85
+I won't go back to
+the other pictures,
+
+
+123
+0:5:12,85 --> 0:5:15,99
+nor show my beautiful picture
+of the trolley in the snow.
+
+
+124
+0:5:15,99 --> 0:5:18,742
+
+
+
+125
+0:5:18,742 --> 0:5:20,783
+That explains why you were
+actually looking at me
+
+
+126
+0:5:20,783 --> 0:5:21,741
+and seemed to be awake.
+
+
+127
+0:5:21,741 --> 0:5:31,54
+
+
+
+128
+0:5:31,54 --> 0:5:33,81
+I can go all the way back,
+but that's not important.
+
+
+129
+0:5:33,81 --> 0:5:35,5
+So there's where you
+see DIY versus DIO.
+
+
+130
+0:5:35,5 --> 0:5:38,44
+You wondered why I was-- OK.
+
+
+131
+0:5:38,44 --> 0:5:40,81
+Do I seem more coherent
+now that you can see it?
+
+
+132
+0:5:40,81 --> 0:5:41,93
+OK.
+
+
+133
+0:5:41,93 --> 0:5:44,3
+So what does this mean?
+
+
+134
+0:5:44,3 --> 0:5:48,76
+This is really about taking
+advantage of opportunities.
+
+
+135
+0:5:48,76 --> 0:5:52,65
+And we're limited by
+discovering what we can do.
+
+
+136
+0:5:52,65 --> 0:5:57,536
+For example, voice over
+IP was a discovery.
+
+
+137
+0:5:57,536 --> 0:5:59,16
+Yes, we could get to
+work in some cases
+
+
+138
+0:5:59,16 --> 0:6:3,79
+in the early studies, but how
+can you do voice over a-- when
+
+
+139
+0:6:3,79 --> 0:6:6,2
+you lose your package,
+you got high jitter.
+
+
+140
+0:6:6,2 --> 0:6:6,82
+Just like TV.
+
+
+141
+0:6:6,82 --> 0:6:9,246
+People thought we
+need asynchronous TV.
+
+
+142
+0:6:9,246 --> 0:6:11,12
+But some people were
+creative and figured out
+
+
+143
+0:6:11,12 --> 0:6:13,369
+ways to take advantage
+of opportunities.
+
+
+144
+0:6:13,369 --> 0:6:14,535
+Now it's not always obvious.
+
+
+145
+0:6:14,535 --> 0:6:17,39
+
+
+
+146
+0:6:17,39 --> 0:6:20,89
+The reason VoIP it
+works now has nothing
+
+
+147
+0:6:20,89 --> 0:6:23,156
+to do with making VoIP work.
+
+
+148
+0:6:23,156 --> 0:6:26,64
+It was the web that
+gave us the capacity.
+
+
+149
+0:6:26,64 --> 0:6:29,72
+If we try to make VoIP
+work, we actually did.
+
+
+150
+0:6:29,72 --> 0:6:32,33
+It's called SS7.
+
+
+151
+0:6:32,33 --> 0:6:34,354
+Does anybody want to buy
+a used phone network?
+
+
+152
+0:6:34,354 --> 0:6:35,645
+It's too expensive to maintain.
+
+
+153
+0:6:35,645 --> 0:6:39,35
+
+
+
+154
+0:6:39,35 --> 0:6:43,15
+But the key is to have an
+appropriate business model.
+
+
+155
+0:6:43,15 --> 0:6:45,17
+And this is one of
+the main messages.
+
+
+156
+0:6:45,17 --> 0:6:48,2
+So we don't need a third party
+the middle like the airlines
+
+
+157
+0:6:48,2 --> 0:6:49,15
+do.
+
+
+158
+0:6:49,15 --> 0:6:54,399
+Have to run at the edge, to
+only do what's profitable.
+
+
+159
+0:6:54,399 --> 0:6:56,19
+It's sort of like
+depending on the railroad
+
+
+160
+0:6:56,19 --> 0:6:58,16
+to get to a destination.
+
+
+161
+0:6:58,16 --> 0:7:0,74
+Not many railroads are willing
+to tracks up Mount Everest.
+
+
+162
+0:7:0,74 --> 0:7:4,59
+
+
+
+163
+0:7:4,59 --> 0:7:7,18
+So we want to get away from
+this idea of the provider making
+
+
+164
+0:7:7,18 --> 0:7:9,9
+profit for us to do anything.
+
+
+165
+0:7:9,9 --> 0:7:13,62
+The other problem we have with
+the current business model
+
+
+166
+0:7:13,62 --> 0:7:18,24
+is that providers'
+worst enemy, the people
+
+
+167
+0:7:18,24 --> 0:7:21,43
+they fear the most,
+the existential threat,
+
+
+168
+0:7:21,43 --> 0:7:23,96
+are the customers.
+
+
+169
+0:7:23,96 --> 0:7:26,18
+There's a customer
+buying from Netflix
+
+
+170
+0:7:26,18 --> 0:7:28,215
+will remove all the
+profit of selling content,
+
+
+171
+0:7:28,215 --> 0:7:30,87
+as the cable companies do now.
+
+
+172
+0:7:30,87 --> 0:7:34,2
+And there's a slide show
+I point to on my site
+
+
+173
+0:7:34,2 --> 0:7:39,96
+from the cellular industry
+explaining that abundance
+
+
+174
+0:7:39,96 --> 0:7:42,76
+is the greatest threat.
+
+
+175
+0:7:42,76 --> 0:7:45,45
+That if they don't
+prevent abundance,
+
+
+176
+0:7:45,45 --> 0:7:48,65
+people are not going
+to buy the services.
+
+
+177
+0:7:48,65 --> 0:7:54,714
+So if you wondered why there's
+a problem with broadband crisis,
+
+
+178
+0:7:54,714 --> 0:7:55,255
+it's obvious.
+
+
+179
+0:7:55,255 --> 0:7:58,54
+
+
+
+180
+0:7:58,54 --> 0:8:3,39
+Giving the customers enough
+capacity is a losing idea.
+
+
+181
+0:8:3,39 --> 0:8:4,67
+So this is not sustainable.
+
+
+182
+0:8:4,67 --> 0:8:7,76
+We need to have a
+sustainable business model,
+
+
+183
+0:8:7,76 --> 0:8:11,88
+and this is, again, Google,
+since you use connectivity,
+
+
+184
+0:8:11,88 --> 0:8:13,15
+to encourage capacity.
+
+
+185
+0:8:13,15 --> 0:8:19,25
+
+
+
+186
+0:8:19,25 --> 0:8:21,35
+As I said, we exchange
+references, not contact.
+
+
+187
+0:8:21,35 --> 0:8:25,12
+Capacity is not the
+same as bandwidth.
+
+
+188
+0:8:25,12 --> 0:8:27,324
+It turns out we have
+so much capacity,
+
+
+189
+0:8:27,324 --> 0:8:28,99
+we're using, at the
+first approximation,
+
+
+190
+0:8:28,99 --> 0:8:32,63
+0% of our capacity.
+
+
+191
+0:8:32,63 --> 0:8:36,59
+And that's what's a
+conflict of interest.
+
+
+192
+0:8:36,59 --> 0:8:39,23
+So there is an
+alternative model,
+
+
+193
+0:8:39,23 --> 0:8:41,669
+which is the way
+we fund sidewalks.
+
+
+194
+0:8:41,669 --> 0:8:44,75
+The sidewalk owner
+does not view the user
+
+
+195
+0:8:44,75 --> 0:8:47,27
+as a competitive threat.
+
+
+196
+0:8:47,27 --> 0:8:51,36
+But people talk about
+privatizing the Mass Pike.
+
+
+197
+0:8:51,36 --> 0:8:54,23
+Then Route 30 becomes
+a competitive threat.
+
+
+198
+0:8:54,23 --> 0:8:56,46
+We already saw this in Detroit.
+
+
+199
+0:8:56,46 --> 0:8:58,919
+There's a private
+bridge in Detroit.
+
+
+200
+0:8:58,919 --> 0:9:1,21
+They try to keep the city
+from building a public bridge
+
+
+201
+0:9:1,21 --> 0:9:3,53
+because it's competition.
+
+
+202
+0:9:3,53 --> 0:9:6,77
+So you've really got to
+be careful about what
+
+
+203
+0:9:6,77 --> 0:9:9,96
+incentives we create.
+
+
+204
+0:9:9,96 --> 0:9:15,89
+Now the resource I describe
+as ambient connectivity,
+
+
+205
+0:9:15,89 --> 0:9:18,85
+and I use this term for the
+idea of wherever you are,
+
+
+206
+0:9:18,85 --> 0:9:20,86
+you could just
+assume connectivity.
+
+
+207
+0:9:20,86 --> 0:9:23,8
+Now this is sort of like
+having open Wi-Fi everywhere,
+
+
+208
+0:9:23,8 --> 0:9:27,92
+except I don't want to tie it
+to any particular technology.
+
+
+209
+0:9:27,92 --> 0:9:31,46
+Current Wi-Fi is much
+better than it might be,
+
+
+210
+0:9:31,46 --> 0:9:35,77
+but it's still a
+problematic technology.
+
+
+211
+0:9:35,77 --> 0:9:38,455
+But the key is to
+be able to assume
+
+
+212
+0:9:38,455 --> 0:9:39,85
+we're connected wherever we are.
+
+
+213
+0:9:39,85 --> 0:9:41,4
+I'll get more into this.
+
+
+214
+0:9:41,4 --> 0:9:45,37
+I add the word permissionless
+because people somehow
+
+
+215
+0:9:45,37 --> 0:9:48,42
+seem to assume you've got to
+show your credentials to prove
+
+
+216
+0:9:48,42 --> 0:9:49,52
+you can pay for it.
+
+
+217
+0:9:49,52 --> 0:9:52,46
+But how many of you
+have to show that you're
+
+
+218
+0:9:52,46 --> 0:9:54,172
+authorized to use a sidewalk?
+
+
+219
+0:9:54,172 --> 0:9:55,63
+That's the exception,
+not the rule.
+
+
+220
+0:9:55,63 --> 0:9:59,54
+
+
+
+221
+0:9:59,54 --> 0:10:4,4
+And the thing to realize is
+this whole idea of networking,
+
+
+222
+0:10:4,4 --> 0:10:8,0
+we so implicitly have a
+provider-centric view.
+
+
+223
+0:10:8,0 --> 0:10:10,255
+We talk about the network
+as what's important,
+
+
+224
+0:10:10,255 --> 0:10:12,2
+and how you maintain
+the network.
+
+
+225
+0:10:12,2 --> 0:10:14,585
+And as we'll see, our
+language, our framework
+
+
+226
+0:10:14,585 --> 0:10:18,8
+is infused with a
+provider-centric view
+
+
+227
+0:10:18,8 --> 0:10:21,7
+of protocols and everything.
+
+
+228
+0:10:21,7 --> 0:10:23,61
+What you have to do is
+forget about the network.
+
+
+229
+0:10:23,61 --> 0:10:26,17
+I want to be able to think
+just about the relationships
+
+
+230
+0:10:26,17 --> 0:10:29,57
+between the two endpoints and
+what I'm trying to accomplish.
+
+
+231
+0:10:29,57 --> 0:10:30,874
+It should just work everywhere.
+
+
+232
+0:10:30,874 --> 0:10:33,29
+Or you shouldn't have to log
+into this or connect to this.
+
+
+233
+0:10:33,29 --> 0:10:33,79
+Yes?
+
+
+234
+0:10:33,79 --> 0:10:35,66
+AUDIENCE: One of the
+big struggles we've had
+
+
+235
+0:10:35,66 --> 0:10:39,575
+is that users want to be
+able to define what they get
+
+
+236
+0:10:39,575 --> 0:10:44,11
+from an ISP, and the ISP is
+usually unwilling to commit.
+
+
+237
+0:10:44,11 --> 0:10:46,81
+BOB FRANKSTON: We shouldn't
+have the concept of an ISP
+
+
+238
+0:10:46,81 --> 0:10:49,89
+because the interent is not a
+service that's being pumped out
+
+
+239
+0:10:49,89 --> 0:10:52,94
+of the salt mines in Louisiana.
+
+
+240
+0:10:52,94 --> 0:10:54,82
+It's what we do with
+the available resources.
+
+
+241
+0:10:54,82 --> 0:10:55,986
+The internet is a technique.
+
+
+242
+0:10:55,986 --> 0:10:58,58
+
+
+
+243
+0:10:58,58 --> 0:11:0,58
+That's what I'm saying
+about flipping the model.
+
+
+244
+0:11:0,58 --> 0:11:2,62
+People assume they
+have to ask the ISP.
+
+
+245
+0:11:2,62 --> 0:11:4,4
+No, you're important.
+
+
+246
+0:11:4,4 --> 0:11:8,27
+The ISP should come to you
+and say, please, I want a job.
+
+
+247
+0:11:8,27 --> 0:11:9,46
+Can I do anything for you?
+
+
+248
+0:11:9,46 --> 0:11:18,51
+
+
+
+249
+0:11:18,51 --> 0:11:20,26
+I'm very interested
+in how language works,
+
+
+250
+0:11:20,26 --> 0:11:22,385
+so I have to use language
+people are familiar with.
+
+
+251
+0:11:22,385 --> 0:11:25,65
+So I say open access, even
+though words like that
+
+
+252
+0:11:25,65 --> 0:11:26,19
+are still provider-centric.
+
+
+253
+0:11:26,19 --> 0:11:28,88
+
+
+
+254
+0:11:28,88 --> 0:11:32,786
+One of the big words we use,
+terrible words, is broadband.
+
+
+255
+0:11:32,786 --> 0:11:33,535
+What is broadband?
+
+
+256
+0:11:33,535 --> 0:11:37,51
+
+
+
+257
+0:11:37,51 --> 0:11:39,414
+AUDIENCE: Effectively, a
+bigger pipe than the other.
+
+
+258
+0:11:39,414 --> 0:11:40,83
+BOB FRANKSTON:
+Well actually, it's
+
+
+259
+0:11:40,83 --> 0:11:44,13
+a technical term that comes
+from radio technology.
+
+
+260
+0:11:44,13 --> 0:11:48,16
+It turns out the companies that
+extended the TV antennas up
+
+
+261
+0:11:48,16 --> 0:11:51,2
+the top of the mountain took the
+broadband over the air signals
+
+
+262
+0:11:51,2 --> 0:11:54,82
+and put it on a coaxial
+cable, versus baseband.
+
+
+263
+0:11:54,82 --> 0:11:57,505
+And that became-- we're going
+to give examples later--
+
+
+264
+0:11:57,505 --> 0:11:59,463
+associated with a business
+model because that's
+
+
+265
+0:11:59,463 --> 0:12:0,421
+the way language works.
+
+
+266
+0:12:0,421 --> 0:12:2,8
+
+
+
+267
+0:12:2,8 --> 0:12:7,87
+And then it became
+literally a contronym.
+
+
+268
+0:12:7,87 --> 0:12:10,12
+Literally itself has
+become a contronym.
+
+
+269
+0:12:10,12 --> 0:12:13,8
+A contronym is a word
+that's its own antonym.
+
+
+270
+0:12:13,8 --> 0:12:14,98
+And the way language
+works, literally fills
+
+
+271
+0:12:14,98 --> 0:12:16,61
+in the same slot
+as figuratively,
+
+
+272
+0:12:16,61 --> 0:12:18,59
+so people tend to
+confuse the two.
+
+
+273
+0:12:18,59 --> 0:12:21,839
+So broadband we use to mean the
+internet, when the internet is
+
+
+274
+0:12:21,839 --> 0:12:24,38
+really what you tunnel through
+despite the broadband business
+
+
+275
+0:12:24,38 --> 0:12:26,56
+model.
+
+
+276
+0:12:26,56 --> 0:12:29,19
+This is what makes it so
+hard to talk about this.
+
+
+277
+0:12:29,19 --> 0:12:31,674
+And I have to emphasize, I'm
+talking about an architecture,
+
+
+278
+0:12:31,674 --> 0:12:33,9
+not any particular
+implementation.
+
+
+279
+0:12:33,9 --> 0:12:38,37
+So when I talk about having open
+Wi-Fi, that's just an example.
+
+
+280
+0:12:38,37 --> 0:12:39,4
+It's one way to do it.
+
+
+281
+0:12:39,4 --> 0:12:42,184
+
+
+
+282
+0:12:42,184 --> 0:12:43,975
+What amazes me is how
+often it's, oh, we'll
+
+
+283
+0:12:43,975 --> 0:12:46,49
+give you wireless mesh.
+
+
+284
+0:12:46,49 --> 0:12:48,85
+First, why do I say wireless?
+
+
+285
+0:12:48,85 --> 0:12:51,8
+A wire is just a wave
+guide for signals.
+
+
+286
+0:12:51,8 --> 0:12:53,98
+There's nothing
+wrong with wires.
+
+
+287
+0:12:53,98 --> 0:12:56,135
+And mesh is just a
+particular technology.
+
+
+288
+0:12:56,135 --> 0:12:58,51
+And if I've got a fiber that
+takes me across the country,
+
+
+289
+0:12:58,51 --> 0:13:0,87
+why do I want a bucket brigade?
+
+
+290
+0:13:0,87 --> 0:13:3,5
+It's an economic
+problem to solve,
+
+
+291
+0:13:3,5 --> 0:13:5,2
+and technology's just a means.
+
+
+292
+0:13:5,2 --> 0:13:6,69
+What we do have
+to do is preserve
+
+
+293
+0:13:6,69 --> 0:13:9,47
+the magic of it just works.
+
+
+294
+0:13:9,47 --> 0:13:11,54
+And that's the real
+architectural goal.
+
+
+295
+0:13:11,54 --> 0:13:14,34
+That's the power
+of architecture.
+
+
+296
+0:13:14,34 --> 0:13:15,38
+Network just disappears.
+
+
+297
+0:13:15,38 --> 0:13:18,44
+
+
+
+298
+0:13:18,44 --> 0:13:21,344
+And apps can use any available
+means, including the QR codes.
+
+
+299
+0:13:21,344 --> 0:13:23,1
+So if we're just
+exchanging a reference,
+
+
+300
+0:13:23,1 --> 0:13:25,85
+I just give you a QR code.
+
+
+301
+0:13:25,85 --> 0:13:28,54
+So one way to explain
+this is our view
+
+
+302
+0:13:28,54 --> 0:13:30,82
+of the history of
+what I call digital.
+
+
+303
+0:13:30,82 --> 0:13:33,7
+Now when I say digital,
+I mean discrete symbols.
+
+
+304
+0:13:33,7 --> 0:13:35,7
+It doesn't mean 10 fingers.
+
+
+305
+0:13:35,7 --> 0:13:38,5
+But the fact that we can
+have these sharp distinctions
+
+
+306
+0:13:38,5 --> 0:13:40,76
+and you can regenerate
+the meaning.
+
+
+307
+0:13:40,76 --> 0:13:41,72
+That's the real value.
+
+
+308
+0:13:41,72 --> 0:13:43,95
+The zeroes and ones are
+going to be regenerated.
+
+
+309
+0:13:43,95 --> 0:13:46,1
+But it's also alphabets.
+
+
+310
+0:13:46,1 --> 0:13:51,16
+If I write letters,
+even-- . pictographics.
+
+
+311
+0:13:51,16 --> 0:13:53,63
+Hieroglyphics were
+very distinct symbols.
+
+
+312
+0:13:53,63 --> 0:13:56,4
+Little off, you can
+guess what it is again.
+
+
+313
+0:13:56,4 --> 0:13:59,772
+And that allowed the message
+to be preserved over distance.
+
+
+314
+0:13:59,772 --> 0:14:0,855
+You can carry the message.
+
+
+315
+0:14:0,855 --> 0:14:2,47
+If it got a little distorted,
+you can correct it.
+
+
+316
+0:14:2,47 --> 0:14:3,19
+Smudged.
+
+
+317
+0:14:3,19 --> 0:14:5,49
+But also over time.
+
+
+318
+0:14:5,49 --> 0:14:7,9
+And we actually had some
+forward error correcting
+
+
+319
+0:14:7,9 --> 0:14:9,57
+oral traditions,
+but that's for when
+
+
+320
+0:14:9,57 --> 0:14:12,58
+you want a discussion
+of details of language.
+
+
+321
+0:14:12,58 --> 0:14:19,37
+But one of the legacies
+of the early days
+
+
+322
+0:14:19,37 --> 0:14:22,37
+of inarticulate digital
+is the telegraph.
+
+
+323
+0:14:22,37 --> 0:14:25,682
+We had to use the wire to
+keep the single contained,
+
+
+324
+0:14:25,682 --> 0:14:27,64
+to maintain the relationships
+between the bits,
+
+
+325
+0:14:27,64 --> 0:14:28,82
+the endpoints.
+
+
+326
+0:14:28,82 --> 0:14:33,92
+So it flooded our skies
+with all these wires.
+
+
+327
+0:14:33,92 --> 0:14:37,41
+Every call needed its own wire.
+
+
+328
+0:14:37,41 --> 0:14:40,46
+And you think that's bad?
+
+
+329
+0:14:40,46 --> 0:14:42,55
+Even when we had
+wireless, no wires,
+
+
+330
+0:14:42,55 --> 0:14:44,79
+we created virtual wires.
+
+
+331
+0:14:44,79 --> 0:14:49,31
+This cockamamie idea of
+single frequency signaling
+
+
+332
+0:14:49,31 --> 0:14:51,95
+creates scarcity.
+
+
+333
+0:14:51,95 --> 0:14:55,9
+It's as if we said no
+two people in the room
+
+
+334
+0:14:55,9 --> 0:14:59,38
+could wear a blue shirt
+because it'll be confused.
+
+
+335
+0:14:59,38 --> 0:15:1,96
+Interference is not a
+property of physics.
+
+
+336
+0:15:1,96 --> 0:15:3,83
+Waves pass through each other.
+
+
+337
+0:15:3,83 --> 0:15:7,246
+Interference is another
+word for confusion.
+
+
+338
+0:15:7,246 --> 0:15:9,12
+So whenever anybody
+talks about interference,
+
+
+339
+0:15:9,12 --> 0:15:10,994
+they're just saying
+we're creating confusion.
+
+
+340
+0:15:10,994 --> 0:15:14,77
+If you use all the rich
+data, and in a sense,
+
+
+341
+0:15:14,77 --> 0:15:17,23
+if you look at meaning
+come from context,
+
+
+342
+0:15:17,23 --> 0:15:19,78
+big data's fundamental.
+
+
+343
+0:15:19,78 --> 0:15:22,85
+Information in isolation
+is meaningless.
+
+
+344
+0:15:22,85 --> 0:15:24,79
+Yet our
+telecommunications system
+
+
+345
+0:15:24,79 --> 0:15:26,8
+is trying to
+carefully preserve--
+
+
+346
+0:15:26,8 --> 0:15:28,257
+this is the
+inarticulate digital.
+
+
+347
+0:15:28,257 --> 0:15:30,9
+We have to carefully
+preserve all this stuff
+
+
+348
+0:15:30,9 --> 0:15:33,53
+because-- it's a great
+hack, by the way.
+
+
+349
+0:15:33,53 --> 0:15:38,7
+The tuning fork was a
+wonderful discovery back then.
+
+
+350
+0:15:38,7 --> 0:15:40,54
+The fact it's been used to
+compromise the Constitution
+
+
+351
+0:15:40,54 --> 0:15:44,26
+and prevent free speech,
+well, collateral damage.
+
+
+352
+0:15:44,26 --> 0:15:47,97
+The other reminder is that
+business models-- again,
+
+
+353
+0:15:47,97 --> 0:15:50,66
+like broadband,
+the business model
+
+
+354
+0:15:50,66 --> 0:15:56,7
+came from the accidental
+properties of history.
+
+
+355
+0:15:56,7 --> 0:15:59,46
+The single frequency
+single hop signal
+
+
+356
+0:15:59,46 --> 0:16:2,41
+gave us the business
+model of radio.
+
+
+357
+0:16:2,41 --> 0:16:6,7
+And if I make it to CS this
+year, I ask about radio,
+
+
+358
+0:16:6,7 --> 0:16:10,34
+I've found Pandora is radio.
+
+
+359
+0:16:10,34 --> 0:16:13,902
+Tubes and transistors
+are no longer radio.
+
+
+360
+0:16:13,902 --> 0:16:14,735
+Beware the language.
+
+
+361
+0:16:14,735 --> 0:16:17,53
+
+
+
+362
+0:16:17,53 --> 0:16:22,94
+The talking telegraph
+really created havoc.
+
+
+363
+0:16:22,94 --> 0:16:24,29
+We had this great technology.
+
+
+364
+0:16:24,29 --> 0:16:27,73
+Digital can cover any distance.
+
+
+365
+0:16:27,73 --> 0:16:29,5
+And then this guy
+across the river
+
+
+366
+0:16:29,5 --> 0:16:31,73
+there disobeyed
+his father-in-law,
+
+
+367
+0:16:31,73 --> 0:16:33,94
+stole an idea from
+Elisha Gray, who
+
+
+368
+0:16:33,94 --> 0:16:38,5
+retired to West [INAUDIBLE], and
+created the talking telegraph
+
+
+369
+0:16:38,5 --> 0:16:42,91
+using analog technology,
+and made a mess of things.
+
+
+370
+0:16:42,91 --> 0:16:46,19
+Distance now became difficult.
+
+
+371
+0:16:46,19 --> 0:16:47,6
+Distance used to be easy.
+
+
+372
+0:16:47,6 --> 0:16:49,33
+Telegraph would go
+over any distance.
+
+
+373
+0:16:49,33 --> 0:16:52,19
+Distance became hard.
+
+
+374
+0:16:52,19 --> 0:16:55,86
+And with that explicit
+understanding,
+
+
+375
+0:16:55,86 --> 0:16:59,86
+we could tune things, we could
+tune knobs and all this stuff.
+
+
+376
+0:16:59,86 --> 0:17:3,55
+But it was very hard to preserve
+a signal across the street,
+
+
+377
+0:17:3,55 --> 0:17:6,3
+let alone across the country.
+
+
+378
+0:17:6,3 --> 0:17:10,52
+So this guy Claude Shannon
+did a lot of research,
+
+
+379
+0:17:10,52 --> 0:17:12,849
+created this whole
+technology for how
+
+
+380
+0:17:12,849 --> 0:17:15,96
+to preserve a
+signal within wire.
+
+
+381
+0:17:15,96 --> 0:17:16,99
+Within the channel.
+
+
+382
+0:17:16,99 --> 0:17:18,411
+He didn't use the term wire.
+
+
+383
+0:17:18,411 --> 0:17:19,16
+He used a channel.
+
+
+384
+0:17:19,16 --> 0:17:22,5
+It wasn't very abstract term.
+
+
+385
+0:17:22,5 --> 0:17:26,24
+He called it information for
+the same reason physicists,
+
+
+386
+0:17:26,24 --> 0:17:29,54
+we'll point out, like
+to use words like work.
+
+
+387
+0:17:29,54 --> 0:17:32,13
+Well we have giant
+brains, all this notation,
+
+
+388
+0:17:32,13 --> 0:17:34,32
+anthropomorphic notation.
+
+
+389
+0:17:34,32 --> 0:17:38,66
+We use the word communicate
+as if these wires carried
+
+
+390
+0:17:38,66 --> 0:17:40,98
+our meaning.
+
+
+391
+0:17:40,98 --> 0:17:43,515
+And we're still
+living in that legacy.
+
+
+392
+0:17:43,515 --> 0:17:46,5
+
+
+
+393
+0:17:46,5 --> 0:17:49,71
+Matter of fact, here
+it's more than a century
+
+
+394
+0:17:49,71 --> 0:17:53,4
+after that picture I
+showed you of the wires
+
+
+395
+0:17:53,4 --> 0:17:56,61
+covering all the streets,
+yet it's even worse.
+
+
+396
+0:17:56,61 --> 0:17:59,4
+All we've done in a
+century and a half
+
+
+397
+0:17:59,4 --> 0:18:1,2
+is learn how to
+take all those wires
+
+
+398
+0:18:1,2 --> 0:18:5,31
+and bundle them up very neatly
+into little tiny packages.
+
+
+399
+0:18:5,31 --> 0:18:8,38
+And worse, we have
+multiple bundles and wires
+
+
+400
+0:18:8,38 --> 0:18:11,82
+from competing
+bundlers, or bunglers,
+
+
+401
+0:18:11,82 --> 0:18:13,8
+whatever you want to call them.
+
+
+402
+0:18:13,8 --> 0:18:15,32
+And it's even worse.
+
+
+403
+0:18:15,32 --> 0:18:17,49
+Inside each of those we
+have virtual circuits
+
+
+404
+0:18:17,49 --> 0:18:19,375
+to maintain each conversation.
+
+
+405
+0:18:19,375 --> 0:18:22,2
+
+
+
+406
+0:18:22,2 --> 0:18:25,14
+Now how you can maintain a
+business model of carrying bits
+
+
+407
+0:18:25,14 --> 0:18:30,44
+where there's no longer
+any way to compete.
+
+
+408
+0:18:30,44 --> 0:18:31,46
+In other words,
+they're just bits.
+
+
+409
+0:18:31,46 --> 0:18:32,34
+They're generic bits.
+
+
+410
+0:18:32,34 --> 0:18:35,36
+How you differentiate.
+
+
+411
+0:18:35,36 --> 0:18:36,96
+But the reason we
+have the legacy
+
+
+412
+0:18:36,96 --> 0:18:39,72
+is we're still stuck
+in stage two, the idea
+
+
+413
+0:18:39,72 --> 0:18:42,3
+that you need
+pipes, pipes, pipes.
+
+
+414
+0:18:42,3 --> 0:18:44,69
+And it comes out in many ways.
+
+
+415
+0:18:44,69 --> 0:18:48,21
+One is carriers don't
+want to become dumb pipes.
+
+
+416
+0:18:48,21 --> 0:18:50,2
+Sorry.
+
+
+417
+0:18:50,2 --> 0:18:53,85
+That's not the worst
+of it, is the fact
+
+
+418
+0:18:53,85 --> 0:18:54,91
+we don't need pipes anymore.
+
+
+419
+0:18:54,91 --> 0:18:56,58
+Bits are all
+self-identified, meaning
+
+
+420
+0:18:56,58 --> 0:18:58,46
+it's assembled
+outside the network.
+
+
+421
+0:18:58,46 --> 0:18:59,82
+We don't need pipes.
+
+
+422
+0:18:59,82 --> 0:19:5,79
+Yet our business models
+are still pipe-based.
+
+
+423
+0:19:5,79 --> 0:19:7,92
+Now the digital technology
+that gave us computers
+
+
+424
+0:19:7,92 --> 0:19:10,411
+did set the stage
+for the future.
+
+
+425
+0:19:10,411 --> 0:19:11,971
+But we first have
+to-- again, this
+
+
+426
+0:19:11,971 --> 0:19:13,72
+is why I brought up
+the issue of language.
+
+
+427
+0:19:13,72 --> 0:19:17,46
+How many people think physicists
+should run the NLRB, National
+
+
+428
+0:19:17,46 --> 0:19:21,5
+Labor Relations Board, because
+they understand what work is?
+
+
+429
+0:19:21,5 --> 0:19:24,29
+Why would a double
+E be allowed to run
+
+
+430
+0:19:24,29 --> 0:19:27,68
+a school of communications
+and the PR department?
+
+
+431
+0:19:27,68 --> 0:19:30,9
+Those people understand
+communications.
+
+
+432
+0:19:30,9 --> 0:19:33,15
+Apparently E's don't because
+they confuse information
+
+
+433
+0:19:33,15 --> 0:19:35,69
+in the Shannon sense.
+
+
+434
+0:19:35,69 --> 0:19:40,25
+How much information is there
+in not answering a question?
+
+
+435
+0:19:40,25 --> 0:19:41,685
+Or in a pause?
+
+
+436
+0:19:41,685 --> 0:19:44,6
+There are people who spend a
+lot of time figuring it out,
+
+
+437
+0:19:44,6 --> 0:19:44,89
+and you have to slap
+them and say, no.
+
+
+438
+0:19:44,89 --> 0:19:45,99
+That's a stupid question.
+
+
+439
+0:19:45,99 --> 0:19:49,7
+
+
+
+440
+0:19:49,7 --> 0:19:54,282
+Now this sets the stage for
+what I'm calling stage three.
+
+
+441
+0:19:54,282 --> 0:19:55,99
+Now we're very interested
+in [INAUDIBLE],
+
+
+442
+0:19:55,99 --> 0:20:0,87
+but I took a class in spring
+of 1973 from Mike Hammer.
+
+
+443
+0:20:0,87 --> 0:20:4,34
+Does anybody remember Mike
+Hammer, reengineering?
+
+
+444
+0:20:4,34 --> 0:20:5,82
+It was studying networks.
+
+
+445
+0:20:5,82 --> 0:20:7,57
+So one of things we
+studied was ALOHAnet.
+
+
+446
+0:20:7,57 --> 0:20:11,2
+
+
+
+447
+0:20:11,2 --> 0:20:14,15
+How many people here
+know about ALOHAnet?
+
+
+448
+0:20:14,15 --> 0:20:14,65
+OK.
+
+
+449
+0:20:14,65 --> 0:20:17,5
+It was a radio packet
+network in Hawaii.
+
+
+450
+0:20:17,5 --> 0:20:18,82
+Do It yourself packet network.
+
+
+451
+0:20:18,82 --> 0:20:21,45
+There had been various
+experiments integrating packet
+
+
+452
+0:20:21,45 --> 0:20:23,692
+networks, but I
+remember ALOHA was
+
+
+453
+0:20:23,692 --> 0:20:26,78
+the one we studied in class.
+
+
+454
+0:20:26,78 --> 0:20:30,43
+And basically it was
+what any hacker would do.
+
+
+455
+0:20:30,43 --> 0:20:31,96
+It looks at a packet
+and resends it.
+
+
+456
+0:20:31,96 --> 0:20:33,134
+No big deal.
+
+
+457
+0:20:33,134 --> 0:20:34,55
+Maybe it's the
+latest temperature.
+
+
+458
+0:20:34,55 --> 0:20:35,383
+You don't resend it.
+
+
+459
+0:20:35,383 --> 0:20:38,1
+You just give them temperature.
+
+
+460
+0:20:38,1 --> 0:20:39,55
+I mean, we called it a net.
+
+
+461
+0:20:39,55 --> 0:20:44,14
+It was ALOHAnet, but it was a
+network in the sense Facebook
+
+
+462
+0:20:44,14 --> 0:20:48,68
+is a network, or, sorry,
+Google+ is a network.
+
+
+463
+0:20:48,68 --> 0:20:51,6
+It's a social network.
+
+
+464
+0:20:51,6 --> 0:20:53,34
+That's the problem
+with language again.
+
+
+465
+0:20:53,34 --> 0:20:56,57
+This is why I'm so
+fascinated by language.
+
+
+466
+0:20:56,57 --> 0:20:58,58
+The word network is
+so general as to be
+
+
+467
+0:20:58,58 --> 0:21:0,61
+totally useless
+for communicating.
+
+
+468
+0:21:0,61 --> 0:21:2,17
+Worse than useless.
+
+
+469
+0:21:2,17 --> 0:21:3,914
+It sort of like diplomacy.
+
+
+470
+0:21:3,914 --> 0:21:5,58
+You can both use the
+same word, but mean
+
+
+471
+0:21:5,58 --> 0:21:6,663
+entirely different things.
+
+
+472
+0:21:6,663 --> 0:21:9,76
+But you think you're
+talking to each other.
+
+
+473
+0:21:9,76 --> 0:21:12,15
+And at the end of the class,
+some other kid sitting next
+
+
+474
+0:21:12,15 --> 0:21:15,54
+to me-- this is May 1973,
+did his baseband project.
+
+
+475
+0:21:15,54 --> 0:21:18,634
+He took ALOHA and
+put it on a coax.
+
+
+476
+0:21:18,634 --> 0:21:20,55
+Now I wanted to do it
+over the campus network,
+
+
+477
+0:21:20,55 --> 0:21:21,758
+it would have been broadband.
+
+
+478
+0:21:21,758 --> 0:21:25,17
+But I didn't follow through,
+so it doesn't count.
+
+
+479
+0:21:25,17 --> 0:21:27,8
+But it was obvious
+this is a great hack.
+
+
+480
+0:21:27,8 --> 0:21:32,98
+2.994 megabits,
+as he reminds me.
+
+
+481
+0:21:32,98 --> 0:21:36,4
+That's Bob Metcalfe, you know.
+
+
+482
+0:21:36,4 --> 0:21:37,3
+It was wonderful.
+
+
+483
+0:21:37,3 --> 0:21:42,19
+But to get his Doctorate he
+had to prove to the EE people
+
+
+484
+0:21:42,19 --> 0:21:43,58
+that it would perform well.
+
+
+485
+0:21:43,58 --> 0:21:44,86
+Turns out he was wrong.
+
+
+486
+0:21:44,86 --> 0:21:47,63
+It performed much better
+than his thesis said.
+
+
+487
+0:21:47,63 --> 0:21:51,95
+
+
+
+488
+0:21:51,95 --> 0:21:57,25
+So how many of you are familiar
+with the paradigms framings?
+
+
+489
+0:21:57,25 --> 0:22:0,16
+When you change a paradigm,
+everything changes.
+
+
+490
+0:22:0,16 --> 0:22:1,94
+So when Copernicus
+did his little thing
+
+
+491
+0:22:1,94 --> 0:22:5,442
+of moving a reference
+point 93 million miles,
+
+
+492
+0:22:5,442 --> 0:22:7,61
+it was a nice
+mathematical hack, and it
+
+
+493
+0:22:7,61 --> 0:22:9,67
+did make navigation easier.
+
+
+494
+0:22:9,67 --> 0:22:11,515
+But it had two
+side effects, which
+
+
+495
+0:22:11,515 --> 0:22:12,86
+he wouldn't have anticipated.
+
+
+496
+0:22:12,86 --> 0:22:15,95
+One, it destroyed
+people's idea that they
+
+
+497
+0:22:15,95 --> 0:22:19,2
+were the middle of the universe.
+
+
+498
+0:22:19,2 --> 0:22:21,53
+And that made it
+very hard to accept.
+
+
+499
+0:22:21,53 --> 0:22:23,505
+And I'm telling you
+meaning is not fundamental,
+
+
+500
+0:22:23,505 --> 0:22:26,77
+if you want a scary concept.
+
+
+501
+0:22:26,77 --> 0:22:30,59
+The other thing it did was
+give Newton his physics.
+
+
+502
+0:22:30,59 --> 0:22:33,3
+Because suddenly you
+could see a uniformity out
+
+
+503
+0:22:33,3 --> 0:22:35,316
+of all these disparate
+things, and you just
+
+
+504
+0:22:35,316 --> 0:22:37,61
+get a deeper understanding.
+
+
+505
+0:22:37,61 --> 0:22:42,99
+And in that sense, what the
+packet radios forced us to do
+
+
+506
+0:22:42,99 --> 0:22:46,94
+was learn how to preserve
+meaning outside of the network.
+
+
+507
+0:22:46,94 --> 0:22:50,18
+Discover what we can do
+with the opportunities.
+
+
+508
+0:22:50,18 --> 0:22:54,83
+And that, I argue, is the
+real origin of the internet.
+
+
+509
+0:22:54,83 --> 0:22:57,23
+Learning how to solve
+problems ourselves,
+
+
+510
+0:22:57,23 --> 0:23:0,99
+learning the techniques for
+using any available resource
+
+
+511
+0:23:0,99 --> 0:23:7,17
+as a way to communicate in the
+human sense, not just EE sense.
+
+
+512
+0:23:7,17 --> 0:23:10,75
+And that's why I say a
+fundamental discontinuity,
+
+
+513
+0:23:10,75 --> 0:23:14,18
+yet we're still thinking
+stage two because, as I said,
+
+
+514
+0:23:14,18 --> 0:23:16,23
+language, information,
+communications.
+
+
+515
+0:23:16,23 --> 0:23:19,83
+It just sounds just like the
+railroads of the 19th century.
+
+
+516
+0:23:19,83 --> 0:23:22,99
+And in fact, we have a
+thing called the Federal
+
+
+517
+0:23:22,99 --> 0:23:25,3
+Communications Commission.
+
+
+518
+0:23:25,3 --> 0:23:30,9
+What do they mean
+by communications?
+
+
+519
+0:23:30,9 --> 0:23:33,66
+What's worse is they're
+explicitly spun off
+
+
+520
+0:23:33,66 --> 0:23:37,27
+from the ICC, Interstate
+Commerce Commission, which
+
+
+521
+0:23:37,27 --> 0:23:39,18
+managed railroads.
+
+
+522
+0:23:39,18 --> 0:23:40,61
+Now that's gone.
+
+
+523
+0:23:40,61 --> 0:23:43,26
+It's been replaced by the
+Department of Transportation,
+
+
+524
+0:23:43,26 --> 0:23:48,44
+which manages the
+means we use to travel.
+
+
+525
+0:23:48,44 --> 0:23:51,56
+It does not manage the
+actual freight itself.
+
+
+526
+0:23:51,56 --> 0:23:53,92
+In the meantime,
+the FCC is there
+
+
+527
+0:23:53,92 --> 0:23:56,422
+telling us what words
+we're allowed to use,
+
+
+528
+0:23:56,422 --> 0:23:57,88
+how we're allowed
+to run elections.
+
+
+529
+0:23:57,88 --> 0:24:0,46
+Really weird.
+
+
+530
+0:24:0,46 --> 0:24:3,27
+You'd think these people didn't
+understand how to communicate.
+
+
+531
+0:24:3,27 --> 0:24:5,32
+And we're still compromising
+the First Amendment
+
+
+532
+0:24:5,32 --> 0:24:8,23
+by creating scarcity in order
+to keep the business alive.
+
+
+533
+0:24:8,23 --> 0:24:11,23
+So the internet happened when
+we're interconnected the LANs.
+
+
+534
+0:24:11,23 --> 0:24:13,826
+The LAN, you were , anywhere,
+plugged into the coax,
+
+
+535
+0:24:13,826 --> 0:24:16,4
+you were just there.
+
+
+536
+0:24:16,4 --> 0:24:19,44
+But the consequence
+of that was you
+
+
+537
+0:24:19,44 --> 0:24:23,1
+could not see beyond
+the individual packet.
+
+
+538
+0:24:23,1 --> 0:24:26,28
+So therefore, we had
+to have a system--
+
+
+539
+0:24:26,28 --> 0:24:30,48
+and this is the real insight--
+to separate TCP from IP.
+
+
+540
+0:24:30,48 --> 0:24:33,2
+And it wasn't just
+Vince or Bob Kahn.
+
+
+541
+0:24:33,2 --> 0:24:34,51
+There were a number of others.
+
+
+542
+0:24:34,51 --> 0:24:36,63
+David Reed locally,
+and Dave Clark,
+
+
+543
+0:24:36,63 --> 0:24:38,21
+and all these other people.
+
+
+544
+0:24:38,21 --> 0:24:43,51
+How do you preserve an
+application relationship
+
+
+545
+0:24:43,51 --> 0:24:47,37
+independent, when you could just
+exchange nothing above packets?
+
+
+546
+0:24:47,37 --> 0:24:51,0
+
+
+
+547
+0:24:51,0 --> 0:24:52,93
+And this where the
+end-to-end argument.
+
+
+548
+0:24:52,93 --> 0:24:55,855
+You had to have meaning
+outside the application.
+
+
+549
+0:24:55,855 --> 0:25:2,43
+
+
+
+550
+0:25:2,43 --> 0:25:5,34
+The earlier slide said
+TCP, mentioned explicitly.
+
+
+551
+0:25:5,34 --> 0:25:10,14
+What TCP is, it says
+transmission control protocol.
+
+
+552
+0:25:10,14 --> 0:25:12,7
+Very interesting.
+
+
+553
+0:25:12,7 --> 0:25:17,394
+Because if all you want
+to do was make sure
+
+
+554
+0:25:17,394 --> 0:25:18,81
+all the bits got
+through, you keep
+
+
+555
+0:25:18,81 --> 0:25:21,3
+retrying til it gets through.
+
+
+556
+0:25:21,3 --> 0:25:23,64
+But TCP was also protocol
+for cooperatively
+
+
+557
+0:25:23,64 --> 0:25:27,86
+sharing the resources in the
+middle by detecting congestion,
+
+
+558
+0:25:27,86 --> 0:25:29,37
+by backing off.
+
+
+559
+0:25:29,37 --> 0:25:32,63
+And what's amazing is
+how well that worked.
+
+
+560
+0:25:32,63 --> 0:25:37,97
+That it's really a social
+protocol for sharing resources.
+
+
+561
+0:25:37,97 --> 0:25:40,21
+It's not just a reliable
+stream protocol.
+
+
+562
+0:25:40,21 --> 0:25:43,8
+
+
+
+563
+0:25:43,8 --> 0:25:46,109
+And basically, yes,
+you can violate it,
+
+
+564
+0:25:46,109 --> 0:25:48,15
+but if more than a few
+people violate a collapse,
+
+
+565
+0:25:48,15 --> 0:25:50,48
+you get immediate feedback,
+people used standard libraries.
+
+
+566
+0:25:50,48 --> 0:25:51,75
+So it's a whole
+interesting discussion
+
+
+567
+0:25:51,75 --> 0:25:52,84
+about why that works.
+
+
+568
+0:25:52,84 --> 0:25:56,634
+And sociologists should
+study this some more.
+
+
+569
+0:25:56,634 --> 0:25:58,55
+And I won't go into
+problems like buffer blow.
+
+
+570
+0:25:58,55 --> 0:25:59,945
+There were lots of other issues.
+
+
+571
+0:25:59,945 --> 0:26:2,72
+
+
+
+572
+0:26:2,72 --> 0:26:5,59
+So where I come into this,
+and this much prouder
+
+
+573
+0:26:5,59 --> 0:26:7,95
+than doing VisiCalc,
+was home networks.
+
+
+574
+0:26:7,95 --> 0:26:11,33
+
+
+
+575
+0:26:11,33 --> 0:26:15,97
+The original triple play plan,
+or n-tuple play. [INAUDIBLE]
+
+
+576
+0:26:15,97 --> 0:26:17,32
+is a good example.
+
+
+577
+0:26:17,32 --> 0:26:20,54
+They would haul a
+pipe into your house.
+
+
+578
+0:26:20,54 --> 0:26:24,852
+They would put an a ATM
+card cage in the basement.
+
+
+579
+0:26:24,852 --> 0:26:26,31
+ATM was asynchronous
+transfer mode.
+
+
+580
+0:26:26,31 --> 0:26:28,39
+The base for DSL.
+
+
+581
+0:26:28,39 --> 0:26:30,46
+I'll try to avoid too
+much acronym soup.
+
+
+582
+0:26:30,46 --> 0:26:32,1
+By the way, ADSL is interesting.
+
+
+583
+0:26:32,1 --> 0:26:34,46
+You know why DSL exists?
+
+
+584
+0:26:34,46 --> 0:26:37,14
+For interactive TV.
+
+
+585
+0:26:37,14 --> 0:26:38,64
+It was not created
+for the internet.
+
+
+586
+0:26:38,64 --> 0:26:41,92
+That was a later repurposing.
+
+
+587
+0:26:41,92 --> 0:26:43,642
+There's a lot of
+repurposing discovery.
+
+
+588
+0:26:43,642 --> 0:26:45,725
+Hindsight history makes
+things look so purposeful.
+
+
+589
+0:26:45,725 --> 0:26:48,59
+
+
+
+590
+0:26:48,59 --> 0:26:51,26
+People have a reason
+for everything.
+
+
+591
+0:26:51,26 --> 0:26:54,46
+But if you remember
+at the beginning
+
+
+592
+0:26:54,46 --> 0:26:58,92
+when you had to run a separate
+wire for reach relationship,
+
+
+593
+0:26:58,92 --> 0:27:1,135
+well those wires,
+virtual wires were
+
+
+594
+0:27:1,135 --> 0:27:4,65
+inside a pipe or any
+other triple plays.
+
+
+595
+0:27:4,65 --> 0:27:7,82
+Each phone line was
+delivered to the card cage.
+
+
+596
+0:27:7,82 --> 0:27:10,61
+In the early days, remember,
+the phone companies
+
+
+597
+0:27:10,61 --> 0:27:12,5
+owned your phone.
+
+
+598
+0:27:12,5 --> 0:27:16,79
+The service was
+the conversation.
+
+
+599
+0:27:16,79 --> 0:27:21,2
+It was not the wires
+coming into your house.
+
+
+600
+0:27:21,2 --> 0:27:24,27
+And therefore in
+the 1950s, AT&T had
+
+
+601
+0:27:24,27 --> 0:27:27,232
+to be sued to allow you
+put a box around a phone.
+
+
+602
+0:27:27,232 --> 0:27:29,69
+it was a kind of device called
+the Hush-A-Phone compromised
+
+
+603
+0:27:29,69 --> 0:27:33,73
+the quality of the service and
+dispersed their reputation.
+
+
+604
+0:27:33,73 --> 0:27:37,76
+Later the Carterfone
+allowed your equipment on,
+
+
+605
+0:27:37,76 --> 0:27:40,99
+but the Hush-A-Phone, I think
+was a more interesting case.
+
+
+606
+0:27:40,99 --> 0:27:42,98
+Where the boundary
+of the service is.
+
+
+607
+0:27:42,98 --> 0:27:46,9
+
+
+
+608
+0:27:46,9 --> 0:27:48,7
+And you can see the example
+of how that works in practice.
+
+
+609
+0:27:48,7 --> 0:27:51,43
+Carriers would want to
+charge for each IP address
+
+
+610
+0:27:51,43 --> 0:27:53,69
+as if it were a phone number.
+
+
+611
+0:27:53,69 --> 0:27:56,84
+You're going to pay
+for each IP address.
+
+
+612
+0:27:56,84 --> 0:27:58,35
+Since they looked
+inside your house,
+
+
+613
+0:27:58,35 --> 0:28:1,14
+they can do things like
+trying to ban webcams
+
+
+614
+0:28:1,14 --> 0:28:3,275
+because those were an
+abuse of their service.
+
+
+615
+0:28:3,275 --> 0:28:7,21
+
+
+
+616
+0:28:7,21 --> 0:28:9,57
+It really [INAUDIBLE] home.
+
+
+617
+0:28:9,57 --> 0:28:14,124
+Repurposing a video distribution
+service, rethink connectivity.
+
+
+618
+0:28:14,124 --> 0:28:16,665
+And today, the modern version
+of that is called Google Fiber.
+
+
+619
+0:28:16,665 --> 0:28:19,23
+
+
+
+620
+0:28:19,23 --> 0:28:22,57
+And Google Fiber's
+attitude is you can share.
+
+
+621
+0:28:22,57 --> 0:28:24,79
+They're telling you what
+you do with the bits.
+
+
+622
+0:28:24,79 --> 0:28:30,24
+Now what company
+would be so evil
+
+
+623
+0:28:30,24 --> 0:28:33,34
+AUDIENCE: Are you referring
+to the no servers allowed?
+
+
+624
+0:28:33,34 --> 0:28:35,225
+BOB FRANKSTON: No,
+that the least of it.
+
+
+625
+0:28:35,225 --> 0:28:36,59
+AUDIENCE: That is [INAUDIBLE].
+
+
+626
+0:28:36,59 --> 0:28:37,881
+BOB FRANKSTON: No I understand.
+
+
+627
+0:28:37,881 --> 0:28:39,27
+Verizon had the same attitude.
+
+
+628
+0:28:39,27 --> 0:28:41,79
+And the nice thing
+about terms of service--
+
+
+629
+0:28:41,79 --> 0:28:43,415
+I'll be nice to the
+FCC, so I won't say
+
+
+630
+0:28:43,415 --> 0:28:47,8
+fuck them-- but back when I
+was doing home networking--
+
+
+631
+0:28:47,8 --> 0:28:49,525
+and I'll get into
+that-- I basically
+
+
+632
+0:28:49,525 --> 0:28:50,9
+ignored the terms of service.
+
+
+633
+0:28:50,9 --> 0:28:53,2
+Because the phone
+companies said you're not
+
+
+634
+0:28:53,2 --> 0:28:56,88
+allowed to add more than
+one PC to your home network.
+
+
+635
+0:28:56,88 --> 0:28:57,824
+To the router.
+
+
+636
+0:28:57,824 --> 0:28:59,24
+They're going to
+tell you what you
+
+
+637
+0:28:59,24 --> 0:29:3,256
+can do with the device
+inside your own home.
+
+
+638
+0:29:3,256 --> 0:29:4,645
+AUDIENCE: So for
+the Google Fiber
+
+
+639
+0:29:4,645 --> 0:29:6,46
+no sharing, you mean
+you can't [INAUDIBLE]
+
+
+640
+0:29:6,46 --> 0:29:8,5
+community over to watch TV?
+
+
+641
+0:29:8,5 --> 0:29:9,9
+BOB FRANKSTON: No,
+it's not just watch TV.
+
+
+642
+0:29:9,9 --> 0:29:11,7
+If I have a Google
+Fiber programs,
+
+
+643
+0:29:11,7 --> 0:29:14,47
+I'm not allowed to share that
+connection with my neighbor.
+
+
+644
+0:29:14,47 --> 0:29:17,109
+Now I can understand
+the business model point
+
+
+645
+0:29:17,109 --> 0:29:19,275
+of view, which is why you
+need a business model that
+
+
+646
+0:29:19,275 --> 0:29:22,22
+doesn't create such
+terrible behavior.
+
+
+647
+0:29:22,22 --> 0:29:24,9
+But are there people
+who try to bring,
+
+
+648
+0:29:24,9 --> 0:29:25,48
+like housing communities.
+
+
+649
+0:29:25,48 --> 0:29:27,59
+You want to bring
+broadband to the poor.
+
+
+650
+0:29:27,59 --> 0:29:29,28
+You got a gigabit.
+
+
+651
+0:29:29,28 --> 0:29:33,94
+That'll serve complete
+apartment houses.
+
+
+652
+0:29:33,94 --> 0:29:36,4
+Steve [INAUDIBLE] here
+uses just a few megabits
+
+
+653
+0:29:36,4 --> 0:29:38,26
+to serve the
+[INAUDIBLE] project.
+
+
+654
+0:29:38,26 --> 0:29:41,802
+So that it's as if you-- yes?
+
+
+655
+0:29:41,802 --> 0:29:42,784
+AUDIENCE: Yes.
+
+
+656
+0:29:42,784 --> 0:29:44,765
+[INAUDIBLE] one gigabit.
+
+
+657
+0:29:44,765 --> 0:29:45,89
+BOB FRANKSTON: No it's not.
+
+
+658
+0:29:45,89 --> 0:29:46,84
+You play the odds.
+
+
+659
+0:29:46,84 --> 0:29:48,24
+Sure.
+
+
+660
+0:29:48,24 --> 0:29:51,2
+But let people
+discover what it does.
+
+
+661
+0:29:51,2 --> 0:29:53,91
+AUDIENCE: Providers
+tell you up front, yes,
+
+
+662
+0:29:53,91 --> 0:29:55,493
+you may have one
+gigabit of bandwidth,
+
+
+663
+0:29:55,493 --> 0:29:56,447
+but you only have 5%.
+
+
+664
+0:29:56,447 --> 0:29:59,31
+
+
+
+665
+0:29:59,31 --> 0:30:0,73
+BOB FRANKSTON: Yeah.
+
+
+666
+0:30:0,73 --> 0:30:2,4
+Let the people decide
+and discover that.
+
+
+667
+0:30:2,4 --> 0:30:3,1
+Sure.
+
+
+668
+0:30:3,1 --> 0:30:5,47
+But it's sort of
+like a sidewalk.
+
+
+669
+0:30:5,47 --> 0:30:9,9
+We're going to limit how many
+people can live in the house.
+
+
+670
+0:30:9,9 --> 0:30:11,74
+This is where you have
+the idea of discovering
+
+
+671
+0:30:11,74 --> 0:30:13,43
+what you can do from the edge.
+
+
+672
+0:30:13,43 --> 0:30:16,34
+
+
+
+673
+0:30:16,34 --> 0:30:19,26
+I don't want guarantees.
+
+
+674
+0:30:19,26 --> 0:30:23,1
+The reason Skype can do video
+is because Skype does not
+
+
+675
+0:30:23,1 --> 0:30:24,95
+promise to do video.
+
+
+676
+0:30:24,95 --> 0:30:28,59
+If they promised video,
+they could not do video.
+
+
+677
+0:30:28,59 --> 0:30:30,42
+There are a lot of
+counterintuitive aspects
+
+
+678
+0:30:30,42 --> 0:30:31,92
+here, which is why
+you have to start
+
+
+679
+0:30:31,92 --> 0:30:35,89
+thinking from the
+resource and from outside.
+
+
+680
+0:30:35,89 --> 0:30:37,87
+And you also have some
+interesting things,
+
+
+681
+0:30:37,87 --> 0:30:39,77
+like if you're
+above a threshold,
+
+
+682
+0:30:39,77 --> 0:30:43,2
+you've got 10 people with 10
+connections, you get 100 times
+
+
+683
+0:30:43,2 --> 0:30:44,65
+of capacity.
+
+
+684
+0:30:44,65 --> 0:30:50,8
+But basically, if you have a lot
+of DSL wires, you share them,
+
+
+685
+0:30:50,8 --> 0:30:51,62
+you get disproportional
+improvement.
+
+
+686
+0:30:51,62 --> 0:30:55,59
+It's like a one-lane highway
+will get more than three
+
+
+687
+0:30:55,59 --> 0:30:58,27
+times the traffic jams
+of a three-lane highway.
+
+
+688
+0:30:58,27 --> 0:31:0,96
+Because you start to use
+the resource effectively.
+
+
+689
+0:31:0,96 --> 0:31:3,71
+You fill in the holes,
+you accept delays.
+
+
+690
+0:31:3,71 --> 0:31:5,52
+And it all depends
+on the application.
+
+
+691
+0:31:5,52 --> 0:31:7,186
+We're just extending
+the word Wikipedia.
+
+
+692
+0:31:7,186 --> 0:31:8,68
+Who cares?
+
+
+693
+0:31:8,68 --> 0:31:9,817
+A gigabit is wonderful.
+
+
+694
+0:31:9,817 --> 0:31:11,15
+Even if you've got a 10 megabit.
+
+
+695
+0:31:11,15 --> 0:31:11,89
+Let me share.
+
+
+696
+0:31:11,89 --> 0:31:13,28
+Let me decide.
+
+
+697
+0:31:13,28 --> 0:31:14,98
+But it affects the
+business model.
+
+
+698
+0:31:14,98 --> 0:31:17,47
+That's why I keep coming
+back to the funding model.
+
+
+699
+0:31:17,47 --> 0:31:19,61
+I'm not saying it
+should be given away,
+
+
+700
+0:31:19,61 --> 0:31:23,816
+we need funding models that
+work with societal needs.
+
+
+701
+0:31:23,816 --> 0:31:24,315
+Yes.
+
+
+702
+0:31:24,315 --> 0:31:25,689
+AUDIENCE: My one
+big sticky thing
+
+
+703
+0:31:25,689 --> 0:31:31,56
+here still is legal issues,
+including intellectual property
+
+
+704
+0:31:31,56 --> 0:31:32,6
+enforcement.
+
+
+705
+0:31:32,6 --> 0:31:32,81
+BOB FRANKSTON: No.
+
+
+706
+0:31:32,81 --> 0:31:33,95
+But that's not in the wire.
+
+
+707
+0:31:33,95 --> 0:31:35,25
+The bits are bits.
+
+
+708
+0:31:35,25 --> 0:31:37,77
+They have no inherent meaning.
+
+
+709
+0:31:37,77 --> 0:31:40,22
+This is a homeopathic
+theory of communications,
+
+
+710
+0:31:40,22 --> 0:31:42,77
+that bits have a memory
+of their original intent.
+
+
+711
+0:31:42,77 --> 0:31:44,704
+AUDIENCE: We share
+a network connection
+
+
+712
+0:31:44,704 --> 0:31:47,4
+that [INAUDIBLE]
+multi-family home.
+
+
+713
+0:31:47,4 --> 0:31:49,5
+And one person who was
+visiting downloaded--
+
+
+714
+0:31:49,5 --> 0:31:50,49
+BOB FRANKSTON: Yes.
+
+
+715
+0:31:50,49 --> 0:31:53,27
+And this is why lawyers
+are one of the greatest
+
+
+716
+0:31:53,27 --> 0:31:54,79
+threats to society.
+
+
+717
+0:31:54,79 --> 0:31:57,13
+Basically, you
+should move the trial
+
+
+718
+0:31:57,13 --> 0:31:59,62
+to Salem, which is
+the appropriate venue
+
+
+719
+0:31:59,62 --> 0:32:1,832
+for such theories.
+
+
+720
+0:32:1,832 --> 0:32:4,73
+AUDIENCE: My point is, we
+do need, as a society, to--
+
+
+721
+0:32:4,73 --> 0:32:6,44
+BOB FRANKSTON: No.
+
+
+722
+0:32:6,44 --> 0:32:10,456
+We have to come to the 20th
+century, let alone the 21st.
+
+
+723
+0:32:10,456 --> 0:32:12,664
+AUDIENCE: But isn't the
+fundamental problem referring
+
+
+724
+0:32:12,664 --> 0:32:17,83
+to the fact that you're trying
+to share the resource that
+
+
+725
+0:32:17,83 --> 0:32:20,4
+has a huge level of [INAUDIBLE]?
+
+
+726
+0:32:20,4 --> 0:32:20,79
+BOB FRANKSTON: OK.
+
+
+727
+0:32:20,79 --> 0:32:22,255
+
+
+
+728
+0:32:22,255 --> 0:32:24,38
+Let me get through this
+and I'll get to this other.
+
+
+729
+0:32:24,38 --> 0:32:29,805
+The short answer is we're using
+0% of the available capacity.
+
+
+730
+0:32:29,805 --> 0:32:31,805
+So before you start telling
+me about a shortage,
+
+
+731
+0:32:31,805 --> 0:32:34,3
+start telling me where
+that shortage is.
+
+
+732
+0:32:34,3 --> 0:32:37,2
+When I've got three broadbands
+coming through my backyard
+
+
+733
+0:32:37,2 --> 0:32:41,43
+and 1% of any one of them is
+my full internet connection,
+
+
+734
+0:32:41,43 --> 0:32:44,377
+I've already got 100,000
+times the capacity.
+
+
+735
+0:32:44,377 --> 0:32:45,21
+So what do you mean?
+
+
+736
+0:32:45,21 --> 0:32:47,51
+Why do you tell me shortage?
+
+
+737
+0:32:47,51 --> 0:32:48,75
+Where's the shortage?
+
+
+738
+0:32:48,75 --> 0:32:53,47
+When the police will run a
+fiber to their gun detection
+
+
+739
+0:32:53,47 --> 0:32:57,5
+sound thing, which only a few
+kilobits you need for gunshot,
+
+
+740
+0:32:57,5 --> 0:33:0,1
+but deny anybody the
+ability to share that.
+
+
+741
+0:33:0,1 --> 0:33:4,47
+People now run fibers to
+fire alarms and things.
+
+
+742
+0:33:4,47 --> 0:33:6,85
+That are terabits of
+capacity going unused.
+
+
+743
+0:33:6,85 --> 0:33:8,42
+So before you run
+about scarcity,
+
+
+744
+0:33:8,42 --> 0:33:9,54
+show me there's a problem.
+
+
+745
+0:33:9,54 --> 0:33:12,47
+
+
+
+746
+0:33:12,47 --> 0:33:15,58
+And the other example I won't
+get into is meter reading.
+
+
+747
+0:33:15,58 --> 0:33:17,76
+Now meter bits are special.
+
+
+748
+0:33:17,76 --> 0:33:19,35
+They can't go over
+the real internet.
+
+
+749
+0:33:19,35 --> 0:33:22,41
+They need their own network
+so the phone companies
+
+
+750
+0:33:22,41 --> 0:33:25,11
+can go back to triple-play
+and collect money
+
+
+751
+0:33:25,11 --> 0:33:26,45
+for each meter read.
+
+
+752
+0:33:26,45 --> 0:33:29,565
+And if you read the IEEE
+numbers about how many gigabits
+
+
+753
+0:33:29,565 --> 0:33:32,896
+of capacity and everything
+they need to read the meter,
+
+
+754
+0:33:32,896 --> 0:33:34,52
+they need a whole
+fiber infrastructure,
+
+
+755
+0:33:34,52 --> 0:33:36,164
+gigabits capacity.
+
+
+756
+0:33:36,164 --> 0:33:38,8
+Though if you run the
+numbers, you'll find out
+
+
+757
+0:33:38,8 --> 0:33:40,32
+it's less than a bit per second.
+
+
+758
+0:33:40,32 --> 0:33:42,52
+But you need fiber.
+
+
+759
+0:33:42,52 --> 0:33:45,9
+We're really beholden
+to all these myths.
+
+
+760
+0:33:45,9 --> 0:33:47,59
+So we need to start
+from the edge.
+
+
+761
+0:33:47,59 --> 0:33:50,47
+And the other important
+point is local connectivity
+
+
+762
+0:33:50,47 --> 0:33:53,1
+is more important than
+distant connectivity.
+
+
+763
+0:33:53,1 --> 0:33:55,96
+We became fixated
+on long distance.
+
+
+764
+0:33:55,96 --> 0:33:58,4
+Anybody old enough to remember
+when long distance would
+
+
+765
+0:33:58,4 --> 0:34:1,77
+put fear in your hearts you'd
+go bankrupt on a long distance
+
+
+766
+0:34:1,77 --> 0:34:2,73
+call?
+
+
+767
+0:34:2,73 --> 0:34:6,7
+That's because of the stupid
+thing with analog telephony
+
+
+768
+0:34:6,7 --> 0:34:9,199
+that Al Bell did.
+
+
+769
+0:34:9,199 --> 0:34:11,92
+With digital it's
+no longer an issue.
+
+
+770
+0:34:11,92 --> 0:34:13,3
+And even more important,
+the people we know and stuff
+
+
+771
+0:34:13,3 --> 0:34:15,12
+are nearby.
+
+
+772
+0:34:15,12 --> 0:34:16,48
+I was reminded of this.
+
+
+773
+0:34:16,48 --> 0:34:19,8
+We're so hung up on
+social media, the network.
+
+
+774
+0:34:19,8 --> 0:34:21,969
+My son last night was
+caught-- foolishly
+
+
+775
+0:34:21,969 --> 0:34:25,67
+decided to take a
+long drive to Phoenix.
+
+
+776
+0:34:25,67 --> 0:34:27,57
+And he was going to
+go from Indianapolis,
+
+
+777
+0:34:27,57 --> 0:34:31,5
+or he was going from
+Indianapolis to St. Louis.
+
+
+778
+0:34:31,5 --> 0:34:34,63
+It turns out that
+outside Terra Haute,
+
+
+779
+0:34:34,63 --> 0:34:39,53
+traffic was stopped for 12
+hours in the middle of the snow.
+
+
+780
+0:34:39,53 --> 0:34:42,949
+Online social media
+is no information.
+
+
+781
+0:34:42,949 --> 0:34:46,334
+If he had CB radio with him,
+and they almost took one,
+
+
+782
+0:34:46,334 --> 0:34:48,75
+he could've found out from the
+truckers and everybody what
+
+
+783
+0:34:48,75 --> 0:34:49,666
+was happening locally.
+
+
+784
+0:34:49,666 --> 0:34:52,7
+
+
+
+785
+0:34:52,7 --> 0:34:57,78
+And so you can get
+across the country easily
+
+
+786
+0:34:57,78 --> 0:35:0,23
+to get to a website,
+but you can't
+
+
+787
+0:35:0,23 --> 0:35:3,88
+send a message from your light
+switch to the light fixture,
+
+
+788
+0:35:3,88 --> 0:35:6,67
+because that's still
+using technology
+
+
+789
+0:35:6,67 --> 0:35:8,2
+Ben Franklin understood.
+
+
+790
+0:35:8,2 --> 0:35:11,69
+
+
+
+791
+0:35:11,69 --> 0:35:13,74
+We have TV controllers.
+
+
+792
+0:35:13,74 --> 0:35:15,832
+There are so many
+problems with you
+
+
+793
+0:35:15,832 --> 0:35:17,29
+have to be on the
+right LAN, you've
+
+
+794
+0:35:17,29 --> 0:35:19,704
+got to point the IR
+at the right device.
+
+
+795
+0:35:19,704 --> 0:35:21,12
+We do all this
+work at a distance,
+
+
+796
+0:35:21,12 --> 0:35:24,855
+yet we don't realize
+it starts locally.
+
+
+797
+0:35:24,855 --> 0:35:27,33
+And then interconnect
+these local islands
+
+
+798
+0:35:27,33 --> 0:35:29,17
+is how the internet happened.
+
+
+799
+0:35:29,17 --> 0:35:32,59
+And that's important
+lesson I built on.
+
+
+800
+0:35:32,59 --> 0:35:34,14
+Actually, we're going to finish.
+
+
+801
+0:35:34,14 --> 0:35:38,25
+So what I did with home
+networking is I made it opaque.
+
+
+802
+0:35:38,25 --> 0:35:40,297
+I was at Microsoft at the time.
+
+
+803
+0:35:40,297 --> 0:35:41,88
+Basically I prototyped
+it at my house.
+
+
+804
+0:35:41,88 --> 0:35:43,87
+I did it for myself.
+
+
+805
+0:35:43,87 --> 0:35:44,92
+And I try to do things
+that are generalized.
+
+
+806
+0:35:44,92 --> 0:35:46,378
+When Dan Bricklin
+did a spreadsheet
+
+
+807
+0:35:46,378 --> 0:35:48,7
+so he could do his
+homework, we just
+
+
+808
+0:35:48,7 --> 0:35:49,31
+did a general version of it.
+
+
+809
+0:35:49,31 --> 0:35:53,34
+
+
+
+810
+0:35:53,34 --> 0:35:55,3
+So the NAT is a nice hack.
+
+
+811
+0:35:55,3 --> 0:35:57,219
+So people couldn't
+peek inside your house.
+
+
+812
+0:35:57,219 --> 0:35:59,1
+They couldn't enforce
+the terms of service.
+
+
+813
+0:35:59,1 --> 0:36:1,159
+You could share all you want.
+
+
+814
+0:36:1,159 --> 0:36:3,7
+On occasion they'll try to tell
+you, and the problem is yeah,
+
+
+815
+0:36:3,7 --> 0:36:5,22
+some people look
+at the IP address
+
+
+816
+0:36:5,22 --> 0:36:9,116
+and all sorts of how bad ideas.
+
+
+817
+0:36:9,116 --> 0:36:10,99
+Accuse you of being a
+witch because your bits
+
+
+818
+0:36:10,99 --> 0:36:13,192
+don't look right.
+
+
+819
+0:36:13,192 --> 0:36:15,4
+But the key is to make it
+just so you can give people
+
+
+820
+0:36:15,4 --> 0:36:18,2
+the tools to use the
+resources available.
+
+
+821
+0:36:18,2 --> 0:36:21,89
+How many people worry about
+how many gigabits of video
+
+
+822
+0:36:21,89 --> 0:36:25,41
+they're showing
+within their home?
+
+
+823
+0:36:25,41 --> 0:36:26,4
+There's no cost.
+
+
+824
+0:36:26,4 --> 0:36:30,11
+It suddenly becomes expensive
+once you get outside the home.
+
+
+825
+0:36:30,11 --> 0:36:32,79
+So the benefits to the ownership
+is you get as many IP devices
+
+
+826
+0:36:32,79 --> 0:36:33,65
+as you want.
+
+
+827
+0:36:33,65 --> 0:36:38,11
+There's not scarcity of IP
+addresses, no meter running.
+
+
+828
+0:36:38,11 --> 0:36:40,26
+And right now we ca run
+gigabits in the home.
+
+
+829
+0:36:40,26 --> 0:36:43,13
+Remember it used to be ten
+megabits was very expensive.
+
+
+830
+0:36:43,13 --> 0:36:46,28
+Modems used to be
+$300 for kilobits.
+
+
+831
+0:36:46,28 --> 0:36:47,43
+But we're not quite there.
+
+
+832
+0:36:47,43 --> 0:36:50,82
+We still have this perimeter
+security, these complex rules.
+
+
+833
+0:36:50,82 --> 0:36:53,574
+Instead of abstracting security,
+making the application.
+
+
+834
+0:36:53,574 --> 0:36:55,49
+We still think it's a
+property of the network.
+
+
+835
+0:36:55,49 --> 0:36:58,42
+And these all long discussions
+in their own right.
+
+
+836
+0:36:58,42 --> 0:37:1,21
+And we still don't
+understand generic bits.
+
+
+837
+0:37:1,21 --> 0:37:5,61
+We have USB, we have SATA we
+have FireWire, we have HDMI.
+
+
+838
+0:37:5,61 --> 0:37:8,595
+All these special packets,
+as if they're are all
+
+
+839
+0:37:8,595 --> 0:37:11,197
+so special and different.
+
+
+840
+0:37:11,197 --> 0:37:13,28
+I did this display port
+here because that's really
+
+
+841
+0:37:13,28 --> 0:37:15,45
+an application protocol
+which we should be pushing,
+
+
+842
+0:37:15,45 --> 0:37:17,73
+but instead we're
+stuck with HDMI,
+
+
+843
+0:37:17,73 --> 0:37:20,82
+which is equivalent to
+the old digital telephone.
+
+
+844
+0:37:20,82 --> 0:37:23,36
+Sort of faux digital.
+
+
+845
+0:37:23,36 --> 0:37:27,8
+So with home control
+we can learn by doing.
+
+
+846
+0:37:27,8 --> 0:37:31,97
+But people still
+think it's special
+
+
+847
+0:37:31,97 --> 0:37:33,85
+because it's within a home.
+
+
+848
+0:37:33,85 --> 0:37:35,93
+It's behind a NAT.
+
+
+849
+0:37:35,93 --> 0:37:40,75
+When it's really just the
+example of a do it yourself
+
+
+850
+0:37:40,75 --> 0:37:42,7
+environment.
+
+
+851
+0:37:42,7 --> 0:37:44,91
+We have discovered,
+for example, want
+
+
+852
+0:37:44,91 --> 0:37:47,86
+to solve a problem
+connecting devices?
+
+
+853
+0:37:47,86 --> 0:37:52,38
+One thing from the edge is, v6
+is a dead issue at this point.
+
+
+854
+0:37:52,38 --> 0:37:55,83
+Instead we use v4
+reflected to the cloud.
+
+
+855
+0:37:55,83 --> 0:37:58,0
+Which I think is a terrible
+idea, but it works.
+
+
+856
+0:37:58,0 --> 0:38:0,85
+It's an example of you
+go with what works.
+
+
+857
+0:38:0,85 --> 0:38:2,832
+
+
+
+858
+0:38:2,832 --> 0:38:4,4
+But I won't dwell
+on that either.
+
+
+859
+0:38:4,4 --> 0:38:7,32
+Another topic.
+
+
+860
+0:38:7,32 --> 0:38:8,99
+But we still use wires
+to define relationships.
+
+
+861
+0:38:8,99 --> 0:38:11,3
+So how do we move
+beyond the home?
+
+
+862
+0:38:11,3 --> 0:38:13,71
+
+
+
+863
+0:38:13,71 --> 0:38:15,2
+The answer's very simple.
+
+
+864
+0:38:15,2 --> 0:38:16,895
+We do what we did with
+the original internet.
+
+
+865
+0:38:16,895 --> 0:38:18,926
+
+
+
+866
+0:38:18,926 --> 0:38:20,55
+We basically interconnect
+this islands.
+
+
+867
+0:38:20,55 --> 0:38:22,8
+We've already tunneled
+between the islands.
+
+
+868
+0:38:22,8 --> 0:38:25,88
+When you get a quote,
+"broadband connection",
+
+
+869
+0:38:25,88 --> 0:38:29,99
+you're really tunneling out
+of your home through telecom.
+
+
+870
+0:38:29,99 --> 0:38:30,64
+They own the other
+end of the tunnel,
+
+
+871
+0:38:30,64 --> 0:38:32,81
+but that's a temporary
+historical accident.
+
+
+872
+0:38:32,81 --> 0:38:34,71
+We won't go into
+why it happened.
+
+
+873
+0:38:34,71 --> 0:38:37,65
+But we can take the
+same ownership perimeter
+
+
+874
+0:38:37,65 --> 0:38:40,29
+and expand it out
+from your home.
+
+
+875
+0:38:40,29 --> 0:38:41,99
+So if you and your
+neighbors share,
+
+
+876
+0:38:41,99 --> 0:38:45,93
+which some people are already
+doing, an apartment house,
+
+
+877
+0:38:45,93 --> 0:38:47,63
+you can get many benefits.
+
+
+878
+0:38:47,63 --> 0:38:49,5
+To get two major benefits.
+
+
+879
+0:38:49,5 --> 0:38:50,54
+One is cost savings.
+
+
+880
+0:38:50,54 --> 0:38:52,23
+You share the capacity.
+
+
+881
+0:38:52,23 --> 0:38:55,97
+But the other thing is you
+can get permissionless ambient
+
+
+882
+0:38:55,97 --> 0:38:56,94
+connectivity.
+
+
+883
+0:38:56,94 --> 0:38:59,49
+You can now do all
+those IP-based devices.
+
+
+884
+0:38:59,49 --> 0:39:2,7
+You can buy some now, but the
+problem with perimeter security
+
+
+885
+0:39:2,7 --> 0:39:5,814
+makes them very
+brittle and fragile.
+
+
+886
+0:39:5,814 --> 0:39:7,73
+AUDIENCE: It depends on
+what the perimeter is.
+
+
+887
+0:39:7,73 --> 0:39:10,14
+In our building we
+run our own services.
+
+
+888
+0:39:10,14 --> 0:39:13,67
+BOB FRANKSTON: Yeah,
+But do you have
+
+
+889
+0:39:13,67 --> 0:39:14,956
+a WEP or other authentication?
+
+
+890
+0:39:14,956 --> 0:39:17,96
+
+
+
+891
+0:39:17,96 --> 0:39:19,48
+AUDIENCE: It's
+been years since I
+
+
+892
+0:39:19,48 --> 0:39:20,45
+was using any of those services.
+
+
+893
+0:39:20,45 --> 0:39:21,81
+BOB FRANKSTON: No,
+but the answers is--
+
+
+894
+0:39:21,81 --> 0:39:23,435
+AUDIENCE: A server
+you can [INAUDIBLE].
+
+
+895
+0:39:23,435 --> 0:39:24,747
+BOB FRANKSTON: Right.
+
+
+896
+0:39:24,747 --> 0:39:26,33
+You have that, but
+what you want to do
+
+
+897
+0:39:26,33 --> 0:39:28,44
+is at least be able to
+have devices just connect.
+
+
+898
+0:39:28,44 --> 0:39:32,32
+I'm glad to see Google does
+not have an agree screen.
+
+
+899
+0:39:32,32 --> 0:39:37,6
+But the problem is you get
+things like this at Jet Blue.
+
+
+900
+0:39:37,6 --> 0:39:40,237
+Now can somebody
+explain why first I
+
+
+901
+0:39:40,237 --> 0:39:43,55
+have to call my lawyer
+before I can call my lawyer?
+
+
+902
+0:39:43,55 --> 0:39:46,68
+
+
+
+903
+0:39:46,68 --> 0:39:48,2
+There's something wrong there.
+
+
+904
+0:39:48,2 --> 0:39:49,59
+I've already the
+airline terminal.
+
+
+905
+0:39:49,59 --> 0:39:53,2
+I've already agreed to much
+worse things they could do me,
+
+
+906
+0:39:53,2 --> 0:39:55,85
+yet they have me type agree.
+
+
+907
+0:39:55,85 --> 0:39:57,71
+This is something
+everybody should
+
+
+908
+0:39:57,71 --> 0:39:59,285
+do what they can to
+get rid of those.
+
+
+909
+0:39:59,285 --> 0:40:2,25
+
+
+
+910
+0:40:2,25 --> 0:40:4,3
+And again, if you
+ask people fear,
+
+
+911
+0:40:4,3 --> 0:40:5,28
+they'll say child pornography.
+
+
+912
+0:40:5,28 --> 0:40:8,174
+
+
+
+913
+0:40:8,174 --> 0:40:9,715
+They don't have any
+better idea, it's
+
+
+914
+0:40:9,715 --> 0:40:12,826
+just they've
+learned this mantra.
+
+
+915
+0:40:12,826 --> 0:40:14,2
+But if we paid
+for infrastructure
+
+
+916
+0:40:14,2 --> 0:40:15,695
+like we do roads
+and sidewalks, we
+
+
+917
+0:40:15,695 --> 0:40:18,6
+wouldn't have a need to shut
+things down just for revenue.
+
+
+918
+0:40:18,6 --> 0:40:20,605
+AUDIENCE: Will you
+accept, especially
+
+
+919
+0:40:20,605 --> 0:40:23,37
+in neighborhoods like where
+my house is, that there
+
+
+920
+0:40:23,37 --> 0:40:27,371
+are thieves, drug dealers,
+all sorts of criminals using
+
+
+921
+0:40:27,371 --> 0:40:30,766
+those public rights of way
+to get by with no record
+
+
+922
+0:40:30,766 --> 0:40:32,64
+that they passed because--
+
+
+923
+0:40:32,64 --> 0:40:35,32
+BOB FRANKSTON: You mean you
+let people walk by your house
+
+
+924
+0:40:35,32 --> 0:40:37,51
+without signing an agreement?
+
+
+925
+0:40:37,51 --> 0:40:39,236
+And without paying you?
+
+
+926
+0:40:39,236 --> 0:40:39,86
+AUDIENCE: Yeah.
+
+
+927
+0:40:39,86 --> 0:40:41,964
+Well the ping is a
+totally different issue.
+
+
+928
+0:40:41,964 --> 0:40:43,38
+BOB FRANKSTON:
+Well ask Rand Paul.
+
+
+929
+0:40:43,38 --> 0:40:44,232
+He'd demand--
+
+
+930
+0:40:44,232 --> 0:40:46,19
+AUDIENCE: You have a very
+different expectation
+
+
+931
+0:40:46,19 --> 0:40:50,1
+of how freely usable for
+potentially illegal activities
+
+
+932
+0:40:50,1 --> 0:40:52,88
+a sidewalk is, compared to--
+
+
+933
+0:40:52,88 --> 0:40:56,6
+
+
+
+934
+0:40:56,6 --> 0:40:57,81
+BOB FRANKSTON: And
+this is what's amazing.
+
+
+935
+0:40:57,81 --> 0:41:1,37
+We're lucky by accident
+in the Constitution days
+
+
+936
+0:41:1,37 --> 0:41:3,72
+when people were really
+pissed off at the king,
+
+
+937
+0:41:3,72 --> 0:41:5,98
+so they wrote the
+free speech thing in.
+
+
+938
+0:41:5,98 --> 0:41:13,44
+But every opportunity since, the
+fear is so-- it's spelled NSA.
+
+
+939
+0:41:13,44 --> 0:41:20,2
+And yes, it's amazing
+how people fear
+
+
+940
+0:41:20,2 --> 0:41:21,477
+what they don't understand yet.
+
+
+941
+0:41:21,477 --> 0:41:23,81
+Which means you're not going
+to get any discontinuities,
+
+
+942
+0:41:23,81 --> 0:41:25,559
+and you're not going
+to get any surprises.
+
+
+943
+0:41:25,559 --> 0:41:26,77
+Yes.
+
+
+944
+0:41:26,77 --> 0:41:29,33
+But an important part
+of the whole lecture,
+
+
+945
+0:41:29,33 --> 0:41:32,8
+why the First Amendment works.
+
+
+946
+0:41:32,8 --> 0:41:36,78
+Why things work despite the
+fact that crossing a street
+
+
+947
+0:41:36,78 --> 0:41:38,4
+is too dangerous to do.
+
+
+948
+0:41:38,4 --> 0:41:42,64
+
+
+
+949
+0:41:42,64 --> 0:41:45,4
+So if we fund the
+infrastructure-- again,
+
+
+950
+0:41:45,4 --> 0:41:48,53
+as I keep saying-- as you do
+sidewalks, these problems go.
+
+
+951
+0:41:48,53 --> 0:41:52,0
+The reason for putting up
+a wall, putting fear aside,
+
+
+952
+0:41:52,0 --> 0:41:53,9
+financial reasons go away.
+
+
+953
+0:41:53,9 --> 0:41:56,16
+Because it's so cheap,
+you pay for it once
+
+
+954
+0:41:56,16 --> 0:41:57,72
+like a home network.
+
+
+955
+0:41:57,72 --> 0:42:0,56
+And then you create opportunity
+to discover [INAUDIBLE].
+
+
+956
+0:42:0,56 --> 0:42:4,9
+We haven't even started
+to explore what we can do.
+
+
+957
+0:42:4,9 --> 0:42:6,65
+Because we can do high
+value applications.
+
+
+958
+0:42:6,65 --> 0:42:7,63
+Like at home control.
+
+
+959
+0:42:7,63 --> 0:42:14,74
+
+
+
+960
+0:42:14,74 --> 0:42:16,92
+I don't know where my
+slide is, but home control
+
+
+961
+0:42:16,92 --> 0:42:19,26
+is a wonderful example,
+because we just
+
+
+962
+0:42:19,26 --> 0:42:22,9
+start to discover what we
+can do with connectivity.
+
+
+963
+0:42:22,9 --> 0:42:25,29
+But one of the lessons I
+learned to total control
+
+
+964
+0:42:25,29 --> 0:42:27,55
+is that we could do
+high value applications.
+
+
+965
+0:42:27,55 --> 0:42:29,926
+We call them trophy homes.
+
+
+966
+0:42:29,926 --> 0:42:31,55
+There are lighting
+scenarios, all these
+
+
+967
+0:42:31,55 --> 0:42:33,4
+complicated high value stories.
+
+
+968
+0:42:33,4 --> 0:42:36,1
+TVs coming down, the
+shades, all this stuff.
+
+
+969
+0:42:36,1 --> 0:42:38,34
+We can't do light switches.
+
+
+970
+0:42:38,34 --> 0:42:39,31
+OK?
+
+
+971
+0:42:39,31 --> 0:42:41,61
+That's the problem here.
+
+
+972
+0:42:41,61 --> 0:42:43,69
+Without permissionless
+ambient connectivity,
+
+
+973
+0:42:43,69 --> 0:42:44,822
+simple things become hard.
+
+
+974
+0:42:44,822 --> 0:42:46,3
+It's not just permissionless.
+
+
+975
+0:42:46,3 --> 0:42:50,33
+The DNS, the current-- you
+must ask ICANN for permission.
+
+
+976
+0:42:50,33 --> 0:42:51,78
+There are lots of
+other problems,
+
+
+977
+0:42:51,78 --> 0:42:54,35
+but if we solve the
+financial problems,
+
+
+978
+0:42:54,35 --> 0:42:56,296
+we then have an incentive
+to solve problems.
+
+
+979
+0:42:56,296 --> 0:42:57,795
+We introduce
+resilience to the edge.
+
+
+980
+0:42:57,795 --> 0:43:0,17
+You connect through
+an access point.
+
+
+981
+0:43:0,17 --> 0:43:1,6
+You're walking down
+the street, you've
+
+
+982
+0:43:1,6 --> 0:43:4,58
+got Comcast and all these
+others connected to,
+
+
+983
+0:43:4,58 --> 0:43:6,93
+and then Google
+Maps stops working.
+
+
+984
+0:43:6,93 --> 0:43:8,84
+Because one access
+point got stuck.
+
+
+985
+0:43:8,84 --> 0:43:10,79
+Authentication chain,
+somebody broke it.
+
+
+986
+0:43:10,79 --> 0:43:13,56
+The protocols of the
+edge aren't resilient.
+
+
+987
+0:43:13,56 --> 0:43:16,46
+So there's a lot of work
+to do better protocols
+
+
+988
+0:43:16,46 --> 0:43:18,25
+and have resilience
+of the whole network.
+
+
+989
+0:43:18,25 --> 0:43:19,22
+Not meshy, necessarily.
+
+
+990
+0:43:19,22 --> 0:43:20,22
+That's just technology.
+
+
+991
+0:43:20,22 --> 0:43:21,94
+But resilience.
+
+
+992
+0:43:21,94 --> 0:43:24,455
+So the old model,
+we assume value
+
+
+993
+0:43:24,455 --> 0:43:27,36
+is created inside the network.
+
+
+994
+0:43:27,36 --> 0:43:30,98
+Thus we could fund the
+network out of the revenue.
+
+
+995
+0:43:30,98 --> 0:43:33,83
+And that's where the
+cable TV companies are.
+
+
+996
+0:43:33,83 --> 0:43:35,65
+They own the pipes,
+they sell resources,
+
+
+997
+0:43:35,65 --> 0:43:38,0
+just like railroads sold rides.
+
+
+998
+0:43:38,0 --> 0:43:40,23
+If you go to Netflix
+that collapses,
+
+
+999
+0:43:40,23 --> 0:43:41,73
+which creates the conflict.
+
+
+1000
+0:43:41,73 --> 0:43:44,37
+Fortunately there's
+a new business model,
+
+
+1001
+0:43:44,37 --> 0:43:46,16
+which is the one I keep saying.
+
+
+1002
+0:43:46,16 --> 0:43:47,44
+Just pay for the wires.
+
+
+1003
+0:43:47,44 --> 0:43:48,24
+They're so cheap.
+
+
+1004
+0:43:48,24 --> 0:43:50,66
+You put them in once.
+
+
+1005
+0:43:50,66 --> 0:43:52,33
+It's amazing how inexpensive.
+
+
+1006
+0:43:52,33 --> 0:43:56,8
+And if we didn't
+put the fiber in,
+
+
+1007
+0:43:56,8 --> 0:43:58,69
+we would have been doing
+gigabits over copper.
+
+
+1008
+0:43:58,69 --> 0:44:2,99
+DSL was running
+megabits 25 years ago.
+
+
+1009
+0:44:2,99 --> 0:44:4,97
+Now it's copper,
+right, so not pairs.
+
+
+1010
+0:44:4,97 --> 0:44:7,25
+You don't follow DSL rules.
+
+
+1011
+0:44:7,25 --> 0:44:9,83
+You be very innovative, you
+do the bundles as a whole.
+
+
+1012
+0:44:9,83 --> 0:44:15,48
+And at this point, one way
+to use copper is to sell it.
+
+
+1013
+0:44:15,48 --> 0:44:16,84
+Less copper and buy fiber.
+
+
+1014
+0:44:16,84 --> 0:44:18,56
+I don't care.
+
+
+1015
+0:44:18,56 --> 0:44:22,77
+I'm just saying the economics
+is what drives Moore's law.
+
+
+1016
+0:44:22,77 --> 0:44:26,29
+And then we won't have the need
+to exclude people for no reason
+
+
+1017
+0:44:26,29 --> 0:44:29,449
+other than forcing
+people to pay.
+
+
+1018
+0:44:29,449 --> 0:44:31,24
+Imagine sidewalks, the
+paywall around them.
+
+
+1019
+0:44:31,24 --> 0:44:33,784
+
+
+
+1020
+0:44:33,784 --> 0:44:36,2
+To show you the value of this,
+let's look at a case study.
+
+
+1021
+0:44:36,2 --> 0:44:39,5
+Philips Lifeline is one of
+the local companies there now
+
+
+1022
+0:44:39,5 --> 0:44:40,12
+in Framingham.
+
+
+1023
+0:44:40,12 --> 0:44:42,56
+They started locally.
+
+
+1024
+0:44:42,56 --> 0:44:46,31
+And initially they
+just had the radio
+
+
+1025
+0:44:46,31 --> 0:44:50,5
+from the device going to a
+phone and it would dial up.
+
+
+1026
+0:44:50,5 --> 0:44:52,984
+It worked well enough
+for the purpose.
+
+
+1027
+0:44:52,984 --> 0:44:54,65
+Hopefully the phone
+line was not in use,
+
+
+1028
+0:44:54,65 --> 0:44:55,27
+and all the other things.
+
+
+1029
+0:44:55,27 --> 0:44:56,728
+But they put it
+before, and you can
+
+
+1030
+0:44:56,728 --> 0:44:59,55
+get it to work enough
+times to be useful.
+
+
+1031
+0:44:59,55 --> 0:45:3,3
+Now people are going to the
+next stage, which they carefully
+
+
+1032
+0:45:3,3 --> 0:45:5,35
+set up connections
+to cell phone.
+
+
+1033
+0:45:5,35 --> 0:45:7,995
+If you set up the Bluetooth
+right and use the right
+
+
+1034
+0:45:7,995 --> 0:45:10,62
+phone, and you've paid your
+bill, and the matter of--
+
+
+1035
+0:45:10,62 --> 0:45:12,72
+and you [MUMBLING].
+
+
+1036
+0:45:12,72 --> 0:45:15,67
+It can work.
+
+
+1037
+0:45:15,67 --> 0:45:17,88
+But the problem without
+permissionless ambient
+
+
+1038
+0:45:17,88 --> 0:45:22,3
+connectivity is the
+default is failure.
+
+
+1039
+0:45:22,3 --> 0:45:25,12
+Shouldn't the default
+be to just work?
+
+
+1040
+0:45:25,12 --> 0:45:27,2
+And that's really
+what I'm getting to.
+
+
+1041
+0:45:27,2 --> 0:45:29,239
+The idea that we want
+just works connectivity.
+
+
+1042
+0:45:29,239 --> 0:45:30,78
+Now there are no
+guarantees, and this
+
+
+1043
+0:45:30,78 --> 0:45:32,67
+is why the VoIP
+story is important.
+
+
+1044
+0:45:32,67 --> 0:45:34,31
+Because we can
+get voice to work.
+
+
+1045
+0:45:34,31 --> 0:45:37,36
+It turns out Skype works
+much better over lines
+
+
+1046
+0:45:37,36 --> 0:45:39,11
+that the traditional
+phone companies can't
+
+
+1047
+0:45:39,11 --> 0:45:41,8
+use because their
+protocols are all
+
+
+1048
+0:45:41,8 --> 0:45:44,53
+brittly dependent upon the
+network doing everything right,
+
+
+1049
+0:45:44,53 --> 0:45:45,91
+preserving a path.
+
+
+1050
+0:45:45,91 --> 0:45:49,81
+Turns out cleverness
+can make up for a lot.
+
+
+1051
+0:45:49,81 --> 0:45:51,904
+So this is why so important
+are the incentives
+
+
+1052
+0:45:51,904 --> 0:45:52,945
+and create opportunities.
+
+
+1053
+0:45:52,945 --> 0:45:55,471
+
+
+
+1054
+0:45:55,471 --> 0:45:57,22
+And then there's a
+whole discussion, which
+
+
+1055
+0:45:57,22 --> 0:45:59,3
+I won't get into,
+is then we can start
+
+
+1056
+0:45:59,3 --> 0:46:0,81
+rethinking the current internet.
+
+
+1057
+0:46:0,81 --> 0:46:2,601
+For example, the Post
+Office, I understand,
+
+
+1058
+0:46:2,601 --> 0:46:5,262
+is routing far better than
+any of the internet people.
+
+
+1059
+0:46:5,262 --> 0:46:6,72
+Because it try to
+send mail to you.
+
+
+1060
+0:46:6,72 --> 0:46:7,92
+It sends mail to a place.
+
+
+1061
+0:46:7,92 --> 0:46:9,3
+That's its job.
+
+
+1062
+0:46:9,3 --> 0:46:10,56
+You tell your friends
+where you are.
+
+
+1063
+0:46:10,56 --> 0:46:14,22
+
+
+
+1064
+0:46:14,22 --> 0:46:16,0
+So I can go through,
+if anybody wants to,
+
+
+1065
+0:46:16,0 --> 0:46:19,95
+the other big topic we could
+do is where are the smarts.
+
+
+1066
+0:46:19,95 --> 0:46:21,7
+Smarts are valuable.
+
+
+1067
+0:46:21,7 --> 0:46:23,111
+So people want to
+own the smarts.
+
+
+1068
+0:46:23,111 --> 0:46:24,61
+But if you go into
+a restaurant, you
+
+
+1069
+0:46:24,61 --> 0:46:27,189
+don't want your
+wait person knowing
+
+
+1070
+0:46:27,189 --> 0:46:28,23
+what you're going to eat.
+
+
+1071
+0:46:28,23 --> 0:46:32,12
+You'd like to have
+some say in the matter.
+
+
+1072
+0:46:32,12 --> 0:46:35,14
+So I won't go into
+the challenges,
+
+
+1073
+0:46:35,14 --> 0:46:39,45
+but obviously there's a
+telecom industry which exists
+
+
+1074
+0:46:39,45 --> 0:46:42,7
+and to rightfully sees
+this as a deadly threat.
+
+
+1075
+0:46:42,7 --> 0:46:46,92
+We have an FCC, which is
+trying to transition to IP, as
+
+
+1076
+0:46:46,92 --> 0:46:50,69
+if they're desperate attempt
+to keep us in stage two.
+
+
+1077
+0:46:50,69 --> 0:46:53,61
+By simply saying IP
+is the new phone wire,
+
+
+1078
+0:46:53,61 --> 0:46:55,666
+but everything else is the same.
+
+
+1079
+0:46:55,666 --> 0:46:57,51
+You don't transition.
+
+
+1080
+0:46:57,51 --> 0:46:59,94
+You let the whole thing
+fade into the sunset.
+
+
+1081
+0:46:59,94 --> 0:47:2,28
+At some point nobody's
+going to care about it.
+
+
+1082
+0:47:2,28 --> 0:47:4,87
+You resell the facilities.
+
+
+1083
+0:47:4,87 --> 0:47:7,2
+And want does one do
+with lead acid batteries?
+
+
+1084
+0:47:7,2 --> 0:47:8,55
+How do you decommission them?
+
+
+1085
+0:47:8,55 --> 0:47:9,8
+There might be a lot of money.
+
+
+1086
+0:47:9,8 --> 0:47:12,13
+Somebody find a good use
+for lead acid batteries.
+
+
+1087
+0:47:12,13 --> 0:47:15,415
+You'd make a lot of money.
+
+
+1088
+0:47:15,415 --> 0:47:17,4
+AUDIENCE: They recycle
+them, I thought.
+
+
+1089
+0:47:17,4 --> 0:47:17,998
+BOB FRANKSTON: As what?
+
+
+1090
+0:47:17,998 --> 0:47:19,94
+Maybe they do, but
+I'm just saying.
+
+
+1091
+0:47:19,94 --> 0:47:23,74
+The whole internet thing
+is just in the infancy.
+
+
+1092
+0:47:23,74 --> 0:47:26,39
+Everything I read about
+it is very special hacks.
+
+
+1093
+0:47:26,39 --> 0:47:27,87
+There's no general connectivity.
+
+
+1094
+0:47:27,87 --> 0:47:29,905
+But then again, these
+long discussions-- I
+
+
+1095
+0:47:29,905 --> 0:47:34,532
+just wanted to introduce
+these as ideas at this point.
+
+
+1096
+0:47:34,532 --> 0:47:36,49
+I can also, if you want,
+go to the other slide,
+
+
+1097
+0:47:36,49 --> 0:47:38,823
+which I'm proud of, is how
+do we run out of the internet
+
+
+1098
+0:47:38,823 --> 0:47:40,965
+when it's just a technique?
+
+
+1099
+0:47:40,965 --> 0:47:45,8
+After hacking at night
+here, went to Union Square
+
+
+1100
+0:47:45,8 --> 0:47:47,65
+for French toast.
+
+
+1101
+0:47:47,65 --> 0:47:51,455
+And I was told we're
+out of a French toast.
+
+
+1102
+0:47:51,455 --> 0:47:54,134
+
+
+
+1103
+0:47:54,134 --> 0:47:56,5
+We asked, said are you
+out of bread, milk too?
+
+
+1104
+0:47:56,5 --> 0:47:58,32
+He said the guy didn't
+know how to make it.
+
+
+1105
+0:47:58,32 --> 0:48:0,13
+And that's really
+those wires are,
+
+
+1106
+0:48:0,13 --> 0:48:1,89
+is running out of internet.
+
+
+1107
+0:48:1,89 --> 0:48:3,3
+So any questions?
+
+
+1108
+0:48:3,3 --> 0:48:4,3
+Anybody confused?
+
+
+1109
+0:48:4,3 --> 0:48:4,98
+Anybody awake?
+
+
+1110
+0:48:4,98 --> 0:48:8,82
+
+
+
+1111
+0:48:8,82 --> 0:48:11,97
+AUDIENCE: So what happens
+to your do it yourself
+
+
+1112
+0:48:11,97 --> 0:48:15,97
+home small community
+network when it breaks?
+
+
+1113
+0:48:15,97 --> 0:48:19,303
+BOB FRANKSTON: What happens
+if your water pipe breaks?
+
+
+1114
+0:48:19,303 --> 0:48:20,719
+AUDIENCE: Well, I
+get it serviced.
+
+
+1115
+0:48:20,719 --> 0:48:21,552
+BOB FRANKSTON: Yeah.
+
+
+1116
+0:48:21,552 --> 0:48:22,92
+So we'll have the new plumbers.
+
+
+1117
+0:48:22,92 --> 0:48:24,586
+And in fact, I'm
+actually trying to find
+
+
+1118
+0:48:24,586 --> 0:48:25,85
+people who want to start.
+
+
+1119
+0:48:25,85 --> 0:48:27,35
+In other words, the
+point I'm making
+
+
+1120
+0:48:27,35 --> 0:48:29,9
+is I'm actually in favor
+of business, capitalists,
+
+
+1121
+0:48:29,9 --> 0:48:30,98
+and all this.
+
+
+1122
+0:48:30,98 --> 0:48:33,13
+It's just you've got to
+have rational businesses,
+
+
+1123
+0:48:33,13 --> 0:48:35,46
+and the model changes.
+
+
+1124
+0:48:35,46 --> 0:48:41,35
+If you want to read a book
+"Railroaded", by Richard White.
+
+
+1125
+0:48:41,35 --> 0:48:42,94
+It's a wonderful
+story because it
+
+
+1126
+0:48:42,94 --> 0:48:45,966
+tells how the railroads in
+the West-- this is opposed
+
+
+1127
+0:48:45,966 --> 0:48:48,34
+to the ones in the East, which
+have different densities--
+
+
+1128
+0:48:48,34 --> 0:48:50,77
+were never financially viable.
+
+
+1129
+0:48:50,77 --> 0:48:53,22
+That's why you've got the FCC.
+
+
+1130
+0:48:53,22 --> 0:48:55,93
+Or subways in New York
+were never viable.
+
+
+1131
+0:48:55,93 --> 0:49:0,13
+Each infrastructure, you have to
+look at how these centers work,
+
+
+1132
+0:49:0,13 --> 0:49:1,35
+what's the business model?
+
+
+1133
+0:49:1,35 --> 0:49:3,36
+Instead of just
+continuing forward.
+
+
+1134
+0:49:3,36 --> 0:49:5,99
+So yes, if we're viewing
+a time and materials
+
+
+1135
+0:49:5,99 --> 0:49:8,862
+model as a business,
+we need plumbers.
+
+
+1136
+0:49:8,862 --> 0:49:10,82
+Of course they're a time
+and material business.
+
+
+1137
+0:49:10,82 --> 0:49:14,79
+Your plumber does not charge
+you for the cost of water
+
+
+1138
+0:49:14,79 --> 0:49:16,65
+at the price of whisky.
+
+
+1139
+0:49:16,65 --> 0:49:20,2
+When you buy flour you
+don't pay for the cake.
+
+
+1140
+0:49:20,2 --> 0:49:22,467
+So you have to understand
+where the values is added.
+
+
+1141
+0:49:22,467 --> 0:49:23,3
+Question back there?
+
+
+1142
+0:49:23,3 --> 0:49:26,41
+
+
+
+1143
+0:49:26,41 --> 0:49:28,79
+The first step, one thing to
+do, and people are already
+
+
+1144
+0:49:28,79 --> 0:49:33,46
+doing it, the first step is
+education and understanding.
+
+
+1145
+0:49:33,46 --> 0:49:35,1
+But if you're in
+an apartment house,
+
+
+1146
+0:49:35,1 --> 0:49:37,43
+get your friends and
+neighbors to basically make
+
+
+1147
+0:49:37,43 --> 0:49:39,21
+that a connected zone.
+
+
+1148
+0:49:39,21 --> 0:49:41,9
+Because petitioning
+the city is hard,
+
+
+1149
+0:49:41,9 --> 0:49:43,4
+because there's too much
+education, the language,
+
+
+1150
+0:49:43,4 --> 0:49:44,65
+everything makes it very hard.
+
+
+1151
+0:49:44,65 --> 0:49:47,49
+How can you even
+talk about the FCC
+
+
+1152
+0:49:47,49 --> 0:49:52,48
+when they were created to
+keep a business model alive?
+
+
+1153
+0:49:52,48 --> 0:49:55,34
+They're not a technology
+They were designed
+
+
+1154
+0:49:55,34 --> 0:49:58,53
+as part of a deal
+with AT&T to make
+
+
+1155
+0:49:58,53 --> 0:50:3,93
+AT&T viable as the stewards
+of our ability to communicate.
+
+
+1156
+0:50:3,93 --> 0:50:6,5
+Things have sort of
+gotten out of whack.
+
+
+1157
+0:50:6,5 --> 0:50:7,95
+And they also got
+a right to do it
+
+
+1158
+0:50:7,95 --> 0:50:10,44
+based on spectrum allocation.
+
+
+1159
+0:50:10,44 --> 0:50:11,9
+But you understand
+how hard it is
+
+
+1160
+0:50:11,9 --> 0:50:13,358
+to get people to
+think differently,
+
+
+1161
+0:50:13,358 --> 0:50:16,1
+but if you change economics,
+if your building--
+
+
+1162
+0:50:16,1 --> 0:50:17,71
+and there are a
+million buildings-- so
+
+
+1163
+0:50:17,71 --> 0:50:19,85
+if you start to
+get your building
+
+
+1164
+0:50:19,85 --> 0:50:21,37
+to be a connected zone,
+and work out from there,
+
+
+1165
+0:50:21,37 --> 0:50:23,5
+repeating the history
+of the internet,
+
+
+1166
+0:50:23,5 --> 0:50:26,795
+you start to get to an
+alternative which is viable.
+
+
+1167
+0:50:26,795 --> 0:50:29,88
+
+
+
+1168
+0:50:29,88 --> 0:50:33,364
+And I think that's the starting.
+
+
+1169
+0:50:33,364 --> 0:50:37,188
+AUDIENCE: When you start to
+get, having been involved
+
+
+1170
+0:50:37,188 --> 0:50:39,602
+in small building
+connectivity zone
+
+
+1171
+0:50:39,602 --> 0:50:42,52
+efforts over a couple of
+decades, problems you have
+
+
+1172
+0:50:42,52 --> 0:50:45,707
+is still, as far as I
+know, too much expertise.
+
+
+1173
+0:50:45,707 --> 0:50:46,54
+BOB FRANKSTON: Yeah.
+
+
+1174
+0:50:46,54 --> 0:50:48,84
+If you want a
+problem, it's really
+
+
+1175
+0:50:48,84 --> 0:50:50,64
+a problem in California,
+the Bay Area.
+
+
+1176
+0:50:50,64 --> 0:50:52,69
+Too many people who
+understand too much.
+
+
+1177
+0:50:52,69 --> 0:50:56,58
+That's my parallel to put
+in fiber, ripped out fiber.
+
+
+1178
+0:50:56,58 --> 0:50:57,59
+So yes.
+
+
+1179
+0:50:57,59 --> 0:51:1,496
+It's a matter of venue
+shopping and set example.
+
+
+1180
+0:51:1,496 --> 0:51:4,352
+AUDIENCE: But more than this,
+plumbing isn't a simple thing.
+
+
+1181
+0:51:4,352 --> 0:51:7,584
+But plumbing was simplified so
+that it could become a trade.
+
+
+1182
+0:51:7,584 --> 0:51:10,78
+And by having it
+established as a trade,
+
+
+1183
+0:51:10,78 --> 0:51:12,822
+regular people can become
+people that maintain plumbing.
+
+
+1184
+0:51:12,822 --> 0:51:14,3
+You need that for networking.
+
+
+1185
+0:51:14,3 --> 0:51:15,2
+BOB FRANKSTON: Well
+actually, remember,
+
+
+1186
+0:51:15,2 --> 0:51:16,741
+I did that already
+for home networks.
+
+
+1187
+0:51:16,741 --> 0:51:19,116
+
+
+
+1188
+0:51:19,116 --> 0:51:20,866
+When I first started
+doing home networking
+
+
+1189
+0:51:20,866 --> 0:51:23,469
+in '95, think of
+the reaction I got
+
+
+1190
+0:51:23,469 --> 0:51:25,76
+when I said people are going
+to maintain their own home
+
+
+1191
+0:51:25,76 --> 0:51:28,175
+networks.
+
+
+1192
+0:51:28,175 --> 0:51:29,73
+So I did a couple things.
+
+
+1193
+0:51:29,73 --> 0:51:34,16
+First thing, remember I had this
+position having been in a class
+
+
+1194
+0:51:34,16 --> 0:51:35,466
+where we were doing this stuff.
+
+
+1195
+0:51:35,466 --> 0:51:37,9
+So I knew there was
+nothing hard there.
+
+
+1196
+0:51:37,9 --> 0:51:38,194
+Nothing secret.
+
+
+1197
+0:51:38,194 --> 0:51:39,86
+I just had to remove
+all the things that
+
+
+1198
+0:51:39,86 --> 0:51:44,149
+made it hard like configuring IP
+addresses and things like that.
+
+
+1199
+0:51:44,149 --> 0:51:45,19
+I've learned a lot since.
+
+
+1200
+0:51:45,19 --> 0:51:47,99
+There's a lot of ways they
+can make it even simpler.
+
+
+1201
+0:51:47,99 --> 0:51:48,99
+So yes.
+
+
+1202
+0:51:48,99 --> 0:51:52,21
+Part of it is this is why I talk
+about the connectivity of net
+
+
+1203
+0:51:52,21 --> 0:51:57,15
+routing I compare with crossing
+a river by jumping on icebergs.
+
+
+1204
+0:51:57,15 --> 0:51:59,39
+Turns out we have bridges.
+
+
+1205
+0:51:59,39 --> 0:52:0,63
+Just use the bridges.
+
+
+1206
+0:52:0,63 --> 0:52:2,76
+It's like the Post Office
+delivers to addresses.
+
+
+1207
+0:52:2,76 --> 0:52:5,59
+So insights like that
+make things much simpler.
+
+
+1208
+0:52:5,59 --> 0:52:9,14
+All hubs and routers
+should be self-diagnosing.
+
+
+1209
+0:52:9,14 --> 0:52:12,821
+But until we have a market
+incentive to do this,
+
+
+1210
+0:52:12,821 --> 0:52:14,57
+it's going to be hard
+to make that happen.
+
+
+1211
+0:52:14,57 --> 0:52:17,36
+Unfortunately, I
+was at Microsoft.
+
+
+1212
+0:52:17,36 --> 0:52:19,92
+I was able to keep
+them, and I purposely
+
+
+1213
+0:52:19,92 --> 0:52:23,126
+made sure they had no
+way to monetize it.
+
+
+1214
+0:52:23,126 --> 0:52:25,34
+To control it.
+
+
+1215
+0:52:25,34 --> 0:52:27,304
+But they did get value
+out of the connectivity.
+
+
+1216
+0:52:27,304 --> 0:52:29,345
+Just like Google has a
+value out of connectivity.
+
+
+1217
+0:52:29,345 --> 0:52:33,68
+The more people can connect--
+even if 99% of the traffic
+
+
+1218
+0:52:33,68 --> 0:52:37,54
+is local, you can still start
+to offer all these new services
+
+
+1219
+0:52:37,54 --> 0:52:39,13
+and these new innovations.
+
+
+1220
+0:52:39,13 --> 0:52:40,73
+But I am actively
+looking for people
+
+
+1221
+0:52:40,73 --> 0:52:44,78
+to work with who do want to
+do business in both educating
+
+
+1222
+0:52:44,78 --> 0:52:46,62
+people on how to
+do it themselves
+
+
+1223
+0:52:46,62 --> 0:52:49,92
+and providing the
+appropriate expertise.
+
+
+1224
+0:52:49,92 --> 0:52:51,1
+So yes.
+
+
+1225
+0:52:51,1 --> 0:52:53,96
+I don't expect most people to
+want to do their own networking
+
+
+1226
+0:52:53,96 --> 0:52:58,7
+or build their own networks,
+but there's no reason
+
+
+1227
+0:52:58,7 --> 0:53:0,124
+that it has to be hard.
+
+
+1228
+0:53:0,124 --> 0:53:1,4
+We're just used to it.
+
+
+1229
+0:53:1,4 --> 0:53:2,47
+The same as DNS.
+
+
+1230
+0:53:2,47 --> 0:53:4,93
+We have this whole
+legacy because so much
+
+
+1231
+0:53:4,93 --> 0:53:7,22
+of today's internet goes
+back to the mainframe
+
+
+1232
+0:53:7,22 --> 0:53:13,4
+days, port numbers, all these
+issues, which are legacies.
+
+
+1233
+0:53:13,4 --> 0:53:19,88
+We've learned a lot since we
+first did the current internet.
+
+
+1234
+0:53:19,88 --> 0:53:20,807
+Yes.
+
+
+1235
+0:53:20,807 --> 0:53:22,23
+AUDIENCE: So, to
+[INAUDIBLE] idea
+
+
+1236
+0:53:22,23 --> 0:53:23,729
+up, you just have
+to make it easier.
+
+
+1237
+0:53:23,729 --> 0:53:27,52
+But you mentioned a problem
+being firewalls and such.
+
+
+1238
+0:53:27,52 --> 0:53:29,68
+BOB FRANKSTON: Yes.
+
+
+1239
+0:53:29,68 --> 0:53:34,32
+AUDIENCE: One of the [INAUDIBLE]
+benefits of that is I
+
+
+1240
+0:53:34,32 --> 0:53:37,325
+think at one time if you
+put a Windows computer
+
+
+1241
+0:53:37,325 --> 0:53:40,79
+on the public [INAUDIBLE], it
+would compromise in 10 minutes.
+
+
+1242
+0:53:40,79 --> 0:53:43,129
+Definitely less [INAUDIBLE].
+
+
+1243
+0:53:43,129 --> 0:53:43,92
+BOB FRANKSTON: Yes.
+
+
+1244
+0:53:43,92 --> 0:53:47,6
+And when I first did it,
+what I was saying is OK,
+
+
+1245
+0:53:47,6 --> 0:53:50,33
+v4 closed the ports by default.
+
+
+1246
+0:53:50,33 --> 0:53:57,58
+But IPv6 or IPsec, we
+wouldn't be stupid.
+
+
+1247
+0:53:57,58 --> 0:53:59,53
+We designed it to be aware.
+
+
+1248
+0:53:59,53 --> 0:54:1,3
+Now it turns out
+we're still stupid,
+
+
+1249
+0:54:1,3 --> 0:54:3,87
+but that's another issue.
+
+
+1250
+0:54:3,87 --> 0:54:5,745
+But we can't depend
+upon permanent security.
+
+
+1251
+0:54:5,745 --> 0:54:11,75
+So now anybody know the
+Maginot Line in France?
+
+
+1252
+0:54:11,75 --> 0:54:14,54
+And how how well
+it worked for them.
+
+
+1253
+0:54:14,54 --> 0:54:17,9
+Now it turns out Andre Maginot
+actually was not stupid.
+
+
+1254
+0:54:17,9 --> 0:54:20,5
+He knew you still
+needed an army.
+
+
+1255
+0:54:20,5 --> 0:54:21,99
+But he made a mistake.
+
+
+1256
+0:54:21,99 --> 0:54:23,901
+He died.
+
+
+1257
+0:54:23,901 --> 0:54:25,4
+And the politicians
+then said, army?
+
+
+1258
+0:54:25,4 --> 0:54:26,5
+We don't need no army.
+
+
+1259
+0:54:26,5 --> 0:54:28,25
+We've got a wall.
+
+
+1260
+0:54:28,25 --> 0:54:30,57
+So people are building
+in these hyper things.
+
+
+1261
+0:54:30,57 --> 0:54:33,1
+But look at Google's problem.
+
+
+1262
+0:54:33,1 --> 0:54:34,82
+Chromecast is on
+the wrong network.
+
+
+1263
+0:54:34,82 --> 0:54:38,19
+The device doesn't work.
+
+
+1264
+0:54:38,19 --> 0:54:40,46
+So the answer is yes.
+
+
+1265
+0:54:40,46 --> 0:54:43,487
+We have to first have a
+better security model.
+
+
+1266
+0:54:43,487 --> 0:54:45,57
+Because when you go to
+Starbucks that same machine
+
+
+1267
+0:54:45,57 --> 0:54:47,0
+gets connected.
+
+
+1268
+0:54:47,0 --> 0:54:50,88
+That's based at the
+application level,
+
+
+1269
+0:54:50,88 --> 0:54:53,77
+the software level doesn't
+depend on the firewall.
+
+
+1270
+0:54:53,77 --> 0:54:56,2
+In my model, even if you
+have permissionless security,
+
+
+1271
+0:54:56,2 --> 0:54:58,98
+you still can have
+legacy stuff protected.
+
+
+1272
+0:54:58,98 --> 0:55:1,173
+So I'm not saying we
+get rid of all that.
+
+
+1273
+0:55:1,173 --> 0:55:2,423
+I'm looking new opportunities.
+
+
+1274
+0:55:2,423 --> 0:55:5,287
+
+
+
+1275
+0:55:5,287 --> 0:55:6,745
+AUDIENCE: One of
+the big incentives
+
+
+1276
+0:55:6,745 --> 0:55:9,97
+to have an apartment
+network, basically.
+
+
+1277
+0:55:9,97 --> 0:55:13,34
+A small community
+network when I was
+
+
+1278
+0:55:13,34 --> 0:55:15,356
+having a college-ish
+lifestyle, was
+
+
+1279
+0:55:15,356 --> 0:55:20,665
+that we could have our server
+serving the copies of our CDs
+
+
+1280
+0:55:20,665 --> 0:55:22,225
+to us [INAUDIBLE].
+
+
+1281
+0:55:22,225 --> 0:55:23,91
+Now that isn't done anymore.
+
+
+1282
+0:55:23,91 --> 0:55:25,374
+Maybe it's done centrally.
+
+
+1283
+0:55:25,374 --> 0:55:28,122
+Do you see obvious
+ways that Google
+
+
+1284
+0:55:28,122 --> 0:55:31,97
+could enable that
+sort of community hub
+
+
+1285
+0:55:31,97 --> 0:55:36,17
+when we're otherwise serving.
+
+
+1286
+0:55:36,17 --> 0:55:37,35
+BOB FRANKSTON: It's interesting.
+
+
+1287
+0:55:37,35 --> 0:55:39,736
+One of the things that
+Western Digital is selling
+
+
+1288
+0:55:39,736 --> 0:55:41,36
+is a personal cloud,
+which is basically
+
+
+1289
+0:55:41,36 --> 0:55:43,889
+a disk in your house
+as a server, Pogoplug.
+
+
+1290
+0:55:43,889 --> 0:55:46,18
+A lot of people doing it, so
+I can easily see products.
+
+
+1291
+0:55:46,18 --> 0:55:52,72
+Because if you want to
+watch multi-screen 3D
+
+
+1292
+0:55:52,72 --> 0:55:56,486
+ultra high definition video,
+it would be nice to cache
+
+
+1293
+0:55:56,486 --> 0:56:0,34
+on a server right
+in the building.
+
+
+1294
+0:56:0,34 --> 0:56:1,22
+It's interesting.
+
+
+1295
+0:56:1,22 --> 0:56:3,75
+This is sort of a
+Maraschino cherry problem.
+
+
+1296
+0:56:3,75 --> 0:56:6,915
+Maraschino is you take a cherry,
+take all the cherry-ness out
+
+
+1297
+0:56:6,915 --> 0:56:9,31
+of it, then add it back.
+
+
+1298
+0:56:9,31 --> 0:56:11,79
+And in a sense, we've done
+such a good job of conquering
+
+
+1299
+0:56:11,79 --> 0:56:15,73
+distance, we have to
+put locality back in.
+
+
+1300
+0:56:15,73 --> 0:56:16,605
+But that's pragmatic.
+
+
+1301
+0:56:16,605 --> 0:56:17,57
+I mean, there are two
+reasons to [INAUDIBLE].
+
+
+1302
+0:56:17,57 --> 0:56:18,72
+One is performance.
+
+
+1303
+0:56:18,72 --> 0:56:20,96
+And fine, put a
+cache server there.
+
+
+1304
+0:56:20,96 --> 0:56:23,5
+You can put that in a box.
+
+
+1305
+0:56:23,5 --> 0:56:27,91
+Chrome PCs should be able to
+work with local cache as well
+
+
+1306
+0:56:27,91 --> 0:56:28,49
+as remote.
+
+
+1307
+0:56:28,49 --> 0:56:29,967
+By the way, a little footnote.
+
+
+1308
+0:56:29,967 --> 0:56:31,3
+Be careful about the word cache.
+
+
+1309
+0:56:31,3 --> 0:56:33,28
+Sometimes you'll
+explicitly put it there.
+
+
+1310
+0:56:33,28 --> 0:56:36,29
+You want to make sure this
+information is there in case
+
+
+1311
+0:56:36,29 --> 0:56:39,65
+you get disconnected versus
+just for performance.
+
+
+1312
+0:56:39,65 --> 0:56:41,699
+You've got multiple issues.
+
+
+1313
+0:56:41,699 --> 0:56:43,24
+So you can easily
+have protocols that
+
+
+1314
+0:56:43,24 --> 0:56:44,51
+allow peer sharing locally.
+
+
+1315
+0:56:44,51 --> 0:56:47,0
+This is content-centeric
+networking.
+
+
+1316
+0:56:47,0 --> 0:56:48,44
+So lots of reasons for doing it.
+
+
+1317
+0:56:48,44 --> 0:56:52,47
+But you also want your
+thermostat, your other devices,
+
+
+1318
+0:56:52,47 --> 0:56:56,4
+to work within your house when
+your connection further out
+
+
+1319
+0:56:56,4 --> 0:56:57,56
+goes down.
+
+
+1320
+0:56:57,56 --> 0:57:0,51
+So we have to understand
+that the relationships are
+
+
+1321
+0:57:0,51 --> 0:57:2,73
+separate geographically.
+
+
+1322
+0:57:2,73 --> 0:57:5,26
+So there are reasons for
+having geographic proximity.
+
+
+1323
+0:57:5,26 --> 0:57:7,37
+Sometimes I want a
+light switch to say turn
+
+
+1324
+0:57:7,37 --> 0:57:9,54
+on the light in this room.
+
+
+1325
+0:57:9,54 --> 0:57:12,95
+And you might use techniques
+like IR not for the message,
+
+
+1326
+0:57:12,95 --> 0:57:14,98
+not for sending a
+message, just so you
+
+
+1327
+0:57:14,98 --> 0:57:17,18
+know what room you're in.
+
+
+1328
+0:57:17,18 --> 0:57:19,71
+Again, that's why
+I'm saying we have
+
+
+1329
+0:57:19,71 --> 0:57:23,4
+to rethink a lot of what the
+internet is as opportunity.
+
+
+1330
+0:57:23,4 --> 0:57:25,765
+And the distance
+stuff, yeah it's nice,
+
+
+1331
+0:57:25,765 --> 0:57:28,73
+but we forgot there's
+a physical world there.
+
+
+1332
+0:57:28,73 --> 0:57:31,42
+CB radios, we need to
+do virtual CB radios.
+
+
+1333
+0:57:31,42 --> 0:57:37,98
+So next my son is stuck on
+I-70 outside of Terra Haute,
+
+
+1334
+0:57:37,98 --> 0:57:41,68
+the truckers and stuff have a
+local social network, not just
+
+
+1335
+0:57:41,68 --> 0:57:42,57
+CB radios.
+
+
+1336
+0:57:42,57 --> 0:57:44,74
+Though it's probably
+nice that nobody else
+
+
+1337
+0:57:44,74 --> 0:57:47,725
+has CB radios
+anymore, knowing them.
+
+
+1338
+0:57:47,725 --> 0:57:50,266
+AUDIENCE: You made a comment at
+the beginning about something
+
+
+1339
+0:57:50,266 --> 0:57:54,904
+like most [INAUDIBLE]
+involved in sharing.
+
+
+1340
+0:57:54,904 --> 0:57:57,335
+BOB FRANKSTON: Well, we
+don't exchange content.
+
+
+1341
+0:57:57,335 --> 0:57:58,825
+We exchange references.
+
+
+1342
+0:57:58,825 --> 0:58:0,292
+Is that what you're saying?
+
+
+1343
+0:58:0,292 --> 0:58:1,25
+AUDIENCE: I don't know.
+
+
+1344
+0:58:1,25 --> 0:58:2,0
+I was trying to--
+
+
+1345
+0:58:2,0 --> 0:58:3,57
+BOB FRANKSTON: When I say
+Wikipedia instead of giving you
+
+
+1346
+0:58:3,57 --> 0:58:4,25
+a copy of Wikipedia?
+
+
+1347
+0:58:4,25 --> 0:58:4,99
+AUDIENCE: Right.
+
+
+1348
+0:58:4,99 --> 0:58:6,581
+BOB FRANKSTON: Yes.
+
+
+1349
+0:58:6,581 --> 0:58:7,83
+You want me to expand on that?
+
+
+1350
+0:58:7,83 --> 0:58:9,28
+That's a very interesting topic.
+
+
+1351
+0:58:9,28 --> 0:58:12,26
+Because I used to give
+my talks and ask people
+
+
+1352
+0:58:12,26 --> 0:58:16,13
+how much do we compress the
+Encyclopedia Britannica?
+
+
+1353
+0:58:16,13 --> 0:58:18,31
+And I say to an ISBN number.
+
+
+1354
+0:58:18,31 --> 0:58:22,0
+And if you're a
+communication theorist,
+
+
+1355
+0:58:22,0 --> 0:58:23,99
+you want to fit it
+into the old model,
+
+
+1356
+0:58:23,99 --> 0:58:26,74
+you say, well the
+ISBN is a dictionary
+
+
+1357
+0:58:26,74 --> 0:58:30,35
+just like any of the coding
+we use is a dictionary.
+
+
+1358
+0:58:30,35 --> 0:58:32,377
+But remember, in
+communication theory,
+
+
+1359
+0:58:32,377 --> 0:58:33,71
+you have out-of-band signalling.
+
+
+1360
+0:58:33,71 --> 0:58:36,293
+You have an out-of-band clock,
+which enables a three kilohertz
+
+
+1361
+0:58:36,293 --> 0:58:38,315
+line to carry more than
+three kilohertz because
+
+
+1362
+0:58:38,315 --> 0:58:40,7
+of precise timing.
+
+
+1363
+0:58:40,7 --> 0:58:42,17
+But then I decided
+that's nonsense.
+
+
+1364
+0:58:42,17 --> 0:58:42,6
+it's too hard.
+
+
+1365
+0:58:42,6 --> 0:58:47,63
+It's really that we're just
+making references to things.
+
+
+1366
+0:58:47,63 --> 0:58:50,54
+And really that's
+what language is.
+
+
+1367
+0:58:50,54 --> 0:58:51,47
+You send URLs.
+
+
+1368
+0:58:51,47 --> 0:58:55,88
+Now URLs have URL problems.
+
+
+1369
+0:58:55,88 --> 0:58:58,71
+And then, so your effective
+capacity is meaningless.
+
+
+1370
+0:58:58,71 --> 0:59:2,35
+This is why clocking the number
+of bits of value is bad enough.
+
+
+1371
+0:59:2,35 --> 0:59:3,83
+It's already inversed.
+
+
+1372
+0:59:3,83 --> 0:59:7,57
+The longer the movie, the
+less valuable each bit is.
+
+
+1373
+0:59:7,57 --> 0:59:9,1
+But you can't even measure.
+
+
+1374
+0:59:9,1 --> 0:59:12,13
+Same movie can be
+a terabit or it
+
+
+1375
+0:59:12,13 --> 0:59:15,311
+can be ten bits depending
+on whether you just
+
+
+1376
+0:59:15,311 --> 0:59:16,81
+need a reference
+or you need a copy.
+
+
+1377
+0:59:16,81 --> 0:59:19,82
+
+
+
+1378
+0:59:19,82 --> 0:59:25,41
+My mother wanted to send a
+toy to her grandson in Seattle
+
+
+1379
+0:59:25,41 --> 0:59:26,42
+from New York.
+
+
+1380
+0:59:26,42 --> 0:59:27,28
+I said, fine.
+
+
+1381
+0:59:27,28 --> 0:59:29,716
+I'll have it there in an hour.
+
+
+1382
+0:59:29,716 --> 0:59:32,9
+I returned it to Radio Shack,
+gave my brother the number,
+
+
+1383
+0:59:32,9 --> 0:59:33,131
+and he bought it for him.
+
+
+1384
+0:59:33,131 --> 0:59:37,63
+
+
+
+1385
+0:59:37,63 --> 0:59:42,776
+AUDIENCE: The bit
+usage, bit used driver
+
+
+1386
+0:59:42,776 --> 0:59:45,332
+has been people watching
+movies and such.
+
+
+1387
+0:59:45,332 --> 0:59:47,8
+BOB FRANKSTON: It actually
+turns our that's not that big.
+
+
+1388
+0:59:47,8 --> 0:59:49,5
+That's what Akamai is about.
+
+
+1389
+0:59:49,5 --> 0:59:50,33
+They're cached locally.
+
+
+1390
+0:59:50,33 --> 0:59:52,8
+There are two ways
+it's not a big thing.
+
+
+1391
+0:59:52,8 --> 0:59:53,42
+Number one, it's cached locally.
+
+
+1392
+0:59:53,42 --> 0:59:56,28
+Number two, Netflix
+does the compression
+
+
+1393
+0:59:56,28 --> 0:59:58,27
+that the originally
+DSL people only envy.
+
+
+1394
+0:59:58,27 --> 1:0:1,42
+So at two megabits, they can
+give you a high definition
+
+
+1395
+1:0:1,42 --> 1:0:3,13
+experience.
+
+
+1396
+1:0:3,13 --> 1:0:4,88
+You don't really care
+[INAUDIBLE] picture.
+
+
+1397
+1:0:4,88 --> 1:0:7,63
+You want to enjoy the movie.
+
+
+1398
+1:0:7,63 --> 1:0:9,739
+A cute idea would be
+to put a camera on,
+
+
+1399
+1:0:9,739 --> 1:0:11,53
+and if you're enough
+feet away from the TV,
+
+
+1400
+1:0:11,53 --> 1:0:12,785
+they'll de-res it
+because you're not
+
+
+1401
+1:0:12,785 --> 1:0:14,35
+going to see the extras reses.
+
+
+1402
+1:0:14,35 --> 1:0:18,55
+When you come closer-- the point
+is there are no rules here.
+
+
+1403
+1:0:18,55 --> 1:0:20,2
+AUDIENCE: But my
+point about that
+
+
+1404
+1:0:20,2 --> 1:0:24,616
+is that is a lot of what
+people consume from an ISP.
+
+
+1405
+1:0:24,616 --> 1:0:26,782
+BOB FRANKSTON: Well, consume
+is an interesting word,
+
+
+1406
+1:0:26,782 --> 1:0:27,204
+but we'll put that aside.
+
+
+1407
+1:0:27,204 --> 1:0:28,5
+Yes.
+
+
+1408
+1:0:28,5 --> 1:0:33,24
+AUDIENCE: A lot of how they're
+sending bits or receiving bits.
+
+
+1409
+1:0:33,24 --> 1:0:36,68
+What we've found with
+the service I work on
+
+
+1410
+1:0:36,68 --> 1:0:39,8
+is that if you call something
+caching rather than keeping
+
+
+1411
+1:0:39,8 --> 1:0:43,26
+a copy, then the content
+owners are much more
+
+
+1412
+1:0:43,26 --> 1:0:46,805
+willing to allow you to have
+a copy on the client side.
+
+
+1413
+1:0:46,805 --> 1:0:48,5
+Therefore, community
+networks that
+
+
+1414
+1:0:48,5 --> 1:0:52,44
+merely cache the video in
+ways that the [INAUDIBLE].
+
+
+1415
+1:0:52,44 --> 1:0:54,0
+BOB FRANKSTON: Yes.
+
+
+1416
+1:0:54,0 --> 1:0:55,57
+Our language, our legal system.
+
+
+1417
+1:0:55,57 --> 1:0:59,41
+Well, our legal system is
+still in the 13th century.
+
+
+1418
+1:0:59,41 --> 1:1:1,6
+Instead of science,
+which tests ideas,
+
+
+1419
+1:1:1,6 --> 1:1:5,71
+our legal system proves
+things by example.
+
+
+1420
+1:1:5,71 --> 1:1:7,75
+Not that I have anything
+against lawyers,
+
+
+1421
+1:1:7,75 --> 1:1:10,98
+but I have something
+against lawyers.
+
+
+1422
+1:1:10,98 --> 1:1:11,58
+OK.
+
+
+1423
+1:1:11,58 --> 1:1:13,43
+MALE SPEAKER: Thank
+you very much.
+
+
+1424
+1:1:13,43 --> 1:3:13,43
+
+
+
